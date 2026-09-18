@@ -1,0 +1,272 @@
+{
+  "acta_id": "B_9979624",
+  "filename": "Acta_B_9979624.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "19-10-2025",
+  "hora": "16:00",
+  "categoria": "PRIMERA DIVISIÓN 1C / LEHEN MAILA (GRUPO 1)",
+  "equipo_local": "UGERAGA A",
+  "equipo_visitante": "GAZTEAK",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "REKKER VILLAR (M), LUCAS"
+  ],
+  "estadio": "URKO-LARRABASTERRA 1",
+  "ciudad": "Sopelana",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "FERNÁNDEZ DE PINEDO MUÑOZ, AIMAR",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "ZABALBEASKOA KORTABITARTE, LUKEN",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "ZABALBEASKOA KORTABITARTE, LUKEN",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 68,
+      "jugador": "SANTURTUN LIBARONA, AITZOL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "VILLAR TAMAYO, JON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "GAZTEAK",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "HIGUERO SANTAMARIA, LANDER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "MARTINEZ HERNAIZ, AIMAR",
+  "delegado_campo_local": "CABO ITOIZ, IBON",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "MARTINEZ PERFECTO, ANGEL MANUEL",
+  "titulares_local": [
+    "BLANCO SAGASTI, ANER",
+    "MARTIN RAMIREZ, AMETS",
+    "URANGA DE LASA, AIUR",
+    "SANTURTUN LIBARONA, AITZOL",
+    "COTO DÍAZ, KEPA",
+    "AZPITARTE IGLESIAS, ION",
+    "VILLAR TAMAYO, JON",
+    "ARDEO CALLEJA, KERMAN",
+    "GOBANTES PABLOS, ALAIN",
+    "OIARBIDE BASAURI, JOKIN",
+    "GARRIDO URZELAI, AITZOL"
+  ],
+  "titulares_visitante": [
+    "CASTELLANO PATINO, IKER",
+    "MONROY SAGREDO, ALEX",
+    "BEGUÉ RODRÍGUEZ, ADEI",
+    "ARROYO RODRIGUEZ, UNAI",
+    "UBEDA-PORTUGUES GARCÍA, EDER",
+    "ARROYO PEREZ, ALEJANDRO",
+    "BRAVO IBAÑEZ, ARITZ",
+    "HERNANDEZ RICO, DANEL",
+    "BODEGAS PLAZA, MARKEL",
+    "FERNÁNDEZ DE PINEDO MUÑOZ, AIMAR",
+    "EPELGUEZ GUISAN, AINGERU"
+  ],
+  "suplentes_local": [
+    "EGUSKIZA ARRIBAS, JON",
+    "ZABALBEASKOA KORTABITARTE, LUKEN",
+    "ATXUTEGI FERNANDEZ, MARTXELO",
+    "LAPUENTE ZAMAKONA, EKAIN",
+    "BEOTEGUI ZARRAGA, OIHAN",
+    "VEGAS UDONDO, ENEKO",
+    "MALLEA AROSTEGUI, ODEI"
+  ],
+  "suplentes_visitante": [
+    "TEMPRANO BRAVO, ARITZ",
+    "ARANA BADAYA, OIER",
+    "PEDROSA MORAN, KENAN",
+    "VAQUERO ALONSO, JON",
+    "MATELLAN MORILLO, IZAN",
+    "GRANDÍO MIER, AIMAR",
+    "MARTINEZ MAESO, EGOITZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "EGUSKIZA ARRIBAS, JON",
+    "LAPUENTE ZAMAKONA, EKAIN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "TEMPRANO BRAVO, ARITZ",
+    "PEDROSA MORAN, KENAN",
+    "GRANDÍO MIER, AIMAR"
+  ],
+  "jugadores_local": [
+    "BLANCO SAGASTI, ANER",
+    "MARTIN RAMIREZ, AMETS",
+    "URANGA DE LASA, AIUR",
+    "SANTURTUN LIBARONA, AITZOL",
+    "COTO DÍAZ, KEPA",
+    "AZPITARTE IGLESIAS, ION",
+    "VILLAR TAMAYO, JON",
+    "ARDEO CALLEJA, KERMAN",
+    "GOBANTES PABLOS, ALAIN",
+    "OIARBIDE BASAURI, JOKIN",
+    "GARRIDO URZELAI, AITZOL",
+    "ZABALBEASKOA KORTABITARTE, LUKEN",
+    "MALLEA AROSTEGUI, ODEI",
+    "BEOTEGUI ZARRAGA, OIHAN",
+    "ATXUTEGI FERNANDEZ, MARTXELO",
+    "VEGAS UDONDO, ENEKO"
+  ],
+  "jugadores_visitante": [
+    "CASTELLANO PATINO, IKER",
+    "MONROY SAGREDO, ALEX",
+    "BEGUÉ RODRÍGUEZ, ADEI",
+    "ARROYO RODRIGUEZ, UNAI",
+    "UBEDA-PORTUGUES GARCÍA, EDER",
+    "ARROYO PEREZ, ALEJANDRO",
+    "BRAVO IBAÑEZ, ARITZ",
+    "HERNANDEZ RICO, DANEL",
+    "BODEGAS PLAZA, MARKEL",
+    "FERNÁNDEZ DE PINEDO MUÑOZ, AIMAR",
+    "EPELGUEZ GUISAN, AINGERU",
+    "VAQUERO ALONSO, JON",
+    "MATELLAN MORILLO, IZAN",
+    "MARTINEZ MAESO, EGOITZ",
+    "ARANA BADAYA, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "ZABALBEASKOA KORTABITARTE, LUKEN",
+      "sale": "GOBANTES PABLOS, ALAIN"
+    },
+    {
+      "min": 40,
+      "entra": "MALLEA AROSTEGUI, ODEI",
+      "sale": "URANGA DE LASA, AIUR"
+    },
+    {
+      "min": 51,
+      "entra": "BEOTEGUI ZARRAGA, OIHAN",
+      "sale": "GARRIDO URZELAI, AITZOL"
+    },
+    {
+      "min": 51,
+      "entra": "ATXUTEGI FERNANDEZ, MARTXELO",
+      "sale": "OIARBIDE BASAURI, JOKIN"
+    },
+    {
+      "min": 71,
+      "entra": "VEGAS UDONDO, ENEKO",
+      "sale": "COTO DÍAZ, KEPA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "VAQUERO ALONSO, JON",
+      "sale": "BODEGAS PLAZA, MARKEL"
+    },
+    {
+      "min": 71,
+      "entra": "MATELLAN MORILLO, IZAN",
+      "sale": "BEGUÉ RODRÍGUEZ, ADEI"
+    },
+    {
+      "min": 80,
+      "entra": "MARTINEZ MAESO, EGOITZ",
+      "sale": "UBEDA-PORTUGUES GARCÍA, EDER"
+    },
+    {
+      "min": 80,
+      "entra": "ARANA BADAYA, OIER",
+      "sale": "ARROYO PEREZ, ALEJANDRO"
+    }
+  ],
+  "minutos_jugadores": {
+    "BLANCO SAGASTI, ANER": 90,
+    "MARTIN RAMIREZ, AMETS": 90,
+    "URANGA DE LASA, AIUR": 40,
+    "SANTURTUN LIBARONA, AITZOL": 90,
+    "COTO DÍAZ, KEPA": 71,
+    "AZPITARTE IGLESIAS, ION": 90,
+    "VILLAR TAMAYO, JON": 90,
+    "ARDEO CALLEJA, KERMAN": 90,
+    "GOBANTES PABLOS, ALAIN": 40,
+    "OIARBIDE BASAURI, JOKIN": 51,
+    "GARRIDO URZELAI, AITZOL": 51,
+    "ZABALBEASKOA KORTABITARTE, LUKEN": 50,
+    "MALLEA AROSTEGUI, ODEI": 50,
+    "BEOTEGUI ZARRAGA, OIHAN": 39,
+    "ATXUTEGI FERNANDEZ, MARTXELO": 39,
+    "VEGAS UDONDO, ENEKO": 19,
+    "CASTELLANO PATINO, IKER": 90,
+    "MONROY SAGREDO, ALEX": 90,
+    "BEGUÉ RODRÍGUEZ, ADEI": 71,
+    "ARROYO RODRIGUEZ, UNAI": 90,
+    "UBEDA-PORTUGUES GARCÍA, EDER": 80,
+    "ARROYO PEREZ, ALEJANDRO": 80,
+    "BRAVO IBAÑEZ, ARITZ": 90,
+    "HERNANDEZ RICO, DANEL": 90,
+    "BODEGAS PLAZA, MARKEL": 54,
+    "FERNÁNDEZ DE PINEDO MUÑOZ, AIMAR": 90,
+    "EPELGUEZ GUISAN, AINGERU": 90,
+    "VAQUERO ALONSO, JON": 36,
+    "MATELLAN MORILLO, IZAN": 19,
+    "MARTINEZ MAESO, EGOITZ": 10,
+    "ARANA BADAYA, OIER": 10
+  },
+  "portero_local": "BLANCO SAGASTI, ANER",
+  "portero_visitante": "CASTELLANO PATINO, IKER",
+  "dorsales_local": {
+    "BLANCO SAGASTI, ANER": 13,
+    "MARTIN RAMIREZ, AMETS": 2,
+    "URANGA DE LASA, AIUR": 3,
+    "SANTURTUN LIBARONA, AITZOL": 4,
+    "COTO DÍAZ, KEPA": 5,
+    "AZPITARTE IGLESIAS, ION": 6,
+    "VILLAR TAMAYO, JON": 7,
+    "ARDEO CALLEJA, KERMAN": 8,
+    "GOBANTES PABLOS, ALAIN": 10,
+    "OIARBIDE BASAURI, JOKIN": 11,
+    "GARRIDO URZELAI, AITZOL": 20
+  },
+  "dorsales_visitante": {
+    "CASTELLANO PATINO, IKER": 1,
+    "MONROY SAGREDO, ALEX": 2,
+    "BEGUÉ RODRÍGUEZ, ADEI": 3,
+    "ARROYO RODRIGUEZ, UNAI": 4,
+    "UBEDA-PORTUGUES GARCÍA, EDER": 5,
+    "ARROYO PEREZ, ALEJANDRO": 6,
+    "BRAVO IBAÑEZ, ARITZ": 7,
+    "HERNANDEZ RICO, DANEL": 8,
+    "BODEGAS PLAZA, MARKEL": 9,
+    "FERNÁNDEZ DE PINEDO MUÑOZ, AIMAR": 10,
+    "EPELGUEZ GUISAN, AINGERU": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}

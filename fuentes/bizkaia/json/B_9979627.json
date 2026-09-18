@@ -1,0 +1,259 @@
+{
+  "acta_id": "B_9979627",
+  "filename": "Acta_B_9979627.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 4,
+  "fecha": "26-10-2025",
+  "hora": "16:00",
+  "categoria": "PRIMERA DIVISIÓN 1C / LEHEN MAILA (GRUPO 1)",
+  "equipo_local": "SANTURTZI A",
+  "equipo_visitante": "TRAPAGARAN B",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "JAZOULI EL GHAZI, HATIM"
+  ],
+  "estadio": "SAN JORGE",
+  "ciudad": "Santurtzi",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "ORTEGA OBREGON, LUKEN",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "GUTIERREZ MANZANOS, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "GUTIERREZ MANZANOS, DANIEL",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "TRAPAGARAN B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FRAILE GARCIA, ENEKO",
+  "entrenador_visitante": "VILLALBA MOYA, IVAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "DIEZ GUERRERO, JOKIN",
+  "delegado_campo_local": "ANDRES UBEDA P, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ANDRES UBEDA P, IKER",
+  "delegado_equipo_visitante": "AGUILAR LLINARES, IKER",
+  "titulares_local": [
+    "SERRANO HERNANDEZ, ZIGOR",
+    "GUTIÉRREZ PEREZ, JULEN",
+    "GUTIERREZ MANZANOS, DANIEL",
+    "MARTINEZ PUENTE, XABIER",
+    "ALCALDE PEREZ, EKAIN",
+    "ORTEGA OBREGON, LUKEN",
+    "ARRAIZ GAZTELU, BEÑAT",
+    "TRINCHE MARTINEZ, ETXAHUN",
+    "FUENTES DE GREGORIO, MIKEL",
+    "CALDERON LOPEZ, PEIO",
+    "GARCIA GARAY, AGER"
+  ],
+  "titulares_visitante": [
+    "DEL RIO RANEA, JON",
+    "CRESPO GIL, ANDONI",
+    "MAESTRO OTAOLA, GALDER",
+    "RODRIGUEZ FERNANDEZ, AXEL",
+    "ARGAIZ GONZÁLEZ, JON",
+    "GARCIA ARGAIZ, ADRIAN",
+    "VELEDO EXTREMERA, MARKEL",
+    "RIOS MIELGO, ENAITZ",
+    "MENA MUÑOZ, MARKEL",
+    "BOCOS ALVAREZ, GAIZKA",
+    "MARTINO LAUREIRO, ERLANTZ"
+  ],
+  "suplentes_local": [
+    "GARCIA FERNANDEZ, ANDER",
+    "JIMENEZ CASCON, ENEKO",
+    "ESCALANTE LOSADA, ENDIKA",
+    "ROMERO LAGUNA, JULEN",
+    "MARTINEZ VIDAL, HUGO",
+    "CORTON VAZQUEZ, UNAX"
+  ],
+  "suplentes_visitante": [
+    "PRIETO VILLANUEVA, ALAN",
+    "ADRIAN MARTIN, DANEL",
+    "VALDERRAMA GOMEZ, MIKEL",
+    "RODRIGUEZ HERNÁNDEZ, AIMAR",
+    "QUINTANA SALAZAR, JOSU",
+    "MARTINEZ IGLESIAS, URTZI",
+    "SOENGAS HERNÁNDEZ, ERIK"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA FERNANDEZ, ANDER",
+    "MARTINEZ VIDAL, HUGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PRIETO VILLANUEVA, ALAN",
+    "VALDERRAMA GOMEZ, MIKEL"
+  ],
+  "jugadores_local": [
+    "SERRANO HERNANDEZ, ZIGOR",
+    "GUTIÉRREZ PEREZ, JULEN",
+    "GUTIERREZ MANZANOS, DANIEL",
+    "MARTINEZ PUENTE, XABIER",
+    "ALCALDE PEREZ, EKAIN",
+    "ORTEGA OBREGON, LUKEN",
+    "ARRAIZ GAZTELU, BEÑAT",
+    "TRINCHE MARTINEZ, ETXAHUN",
+    "FUENTES DE GREGORIO, MIKEL",
+    "CALDERON LOPEZ, PEIO",
+    "GARCIA GARAY, AGER",
+    "ESCALANTE LOSADA, ENDIKA",
+    "CORTON VAZQUEZ, UNAX",
+    "JIMENEZ CASCON, ENEKO",
+    "ROMERO LAGUNA, JULEN"
+  ],
+  "jugadores_visitante": [
+    "DEL RIO RANEA, JON",
+    "CRESPO GIL, ANDONI",
+    "MAESTRO OTAOLA, GALDER",
+    "RODRIGUEZ FERNANDEZ, AXEL",
+    "ARGAIZ GONZÁLEZ, JON",
+    "GARCIA ARGAIZ, ADRIAN",
+    "VELEDO EXTREMERA, MARKEL",
+    "RIOS MIELGO, ENAITZ",
+    "MENA MUÑOZ, MARKEL",
+    "BOCOS ALVAREZ, GAIZKA",
+    "MARTINO LAUREIRO, ERLANTZ",
+    "RODRIGUEZ HERNÁNDEZ, AIMAR",
+    "MARTINEZ IGLESIAS, URTZI",
+    "QUINTANA SALAZAR, JOSU",
+    "SOENGAS HERNÁNDEZ, ERIK",
+    "ADRIAN MARTIN, DANEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "ESCALANTE LOSADA, ENDIKA",
+      "sale": "TRINCHE MARTINEZ, ETXAHUN"
+    },
+    {
+      "min": 49,
+      "entra": "CORTON VAZQUEZ, UNAX",
+      "sale": "CALDERON LOPEZ, PEIO"
+    },
+    {
+      "min": 54,
+      "entra": "JIMENEZ CASCON, ENEKO",
+      "sale": "ARRAIZ GAZTELU, BEÑAT"
+    },
+    {
+      "min": 77,
+      "entra": "ROMERO LAGUNA, JULEN",
+      "sale": "ALCALDE PEREZ, EKAIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "RODRIGUEZ HERNÁNDEZ, AIMAR",
+      "sale": "MENA MUÑOZ, MARKEL"
+    },
+    {
+      "min": 59,
+      "entra": "MARTINEZ IGLESIAS, URTZI",
+      "sale": "RIOS MIELGO, ENAITZ"
+    },
+    {
+      "min": 59,
+      "entra": "QUINTANA SALAZAR, JOSU",
+      "sale": "MARTINO LAUREIRO, ERLANTZ"
+    },
+    {
+      "min": 71,
+      "entra": "SOENGAS HERNÁNDEZ, ERIK",
+      "sale": "GARCIA ARGAIZ, ADRIAN"
+    },
+    {
+      "min": 71,
+      "entra": "ADRIAN MARTIN, DANEL",
+      "sale": "CRESPO GIL, ANDONI"
+    }
+  ],
+  "minutos_jugadores": {
+    "SERRANO HERNANDEZ, ZIGOR": 90,
+    "GUTIÉRREZ PEREZ, JULEN": 90,
+    "GUTIERREZ MANZANOS, DANIEL": 90,
+    "MARTINEZ PUENTE, XABIER": 90,
+    "ALCALDE PEREZ, EKAIN": 77,
+    "ORTEGA OBREGON, LUKEN": 90,
+    "ARRAIZ GAZTELU, BEÑAT": 54,
+    "TRINCHE MARTINEZ, ETXAHUN": 49,
+    "FUENTES DE GREGORIO, MIKEL": 90,
+    "CALDERON LOPEZ, PEIO": 49,
+    "GARCIA GARAY, AGER": 90,
+    "ESCALANTE LOSADA, ENDIKA": 41,
+    "CORTON VAZQUEZ, UNAX": 41,
+    "JIMENEZ CASCON, ENEKO": 36,
+    "ROMERO LAGUNA, JULEN": 13,
+    "DEL RIO RANEA, JON": 90,
+    "CRESPO GIL, ANDONI": 71,
+    "MAESTRO OTAOLA, GALDER": 90,
+    "RODRIGUEZ FERNANDEZ, AXEL": 90,
+    "ARGAIZ GONZÁLEZ, JON": 90,
+    "GARCIA ARGAIZ, ADRIAN": 71,
+    "VELEDO EXTREMERA, MARKEL": 90,
+    "RIOS MIELGO, ENAITZ": 59,
+    "MENA MUÑOZ, MARKEL": 53,
+    "BOCOS ALVAREZ, GAIZKA": 90,
+    "MARTINO LAUREIRO, ERLANTZ": 59,
+    "RODRIGUEZ HERNÁNDEZ, AIMAR": 37,
+    "MARTINEZ IGLESIAS, URTZI": 31,
+    "QUINTANA SALAZAR, JOSU": 31,
+    "SOENGAS HERNÁNDEZ, ERIK": 19,
+    "ADRIAN MARTIN, DANEL": 19
+  },
+  "portero_local": "SERRANO HERNANDEZ, ZIGOR",
+  "portero_visitante": "DEL RIO RANEA, JON",
+  "dorsales_local": {
+    "SERRANO HERNANDEZ, ZIGOR": 13,
+    "GUTIÉRREZ PEREZ, JULEN": 3,
+    "GUTIERREZ MANZANOS, DANIEL": 4,
+    "MARTINEZ PUENTE, XABIER": 6,
+    "ALCALDE PEREZ, EKAIN": 7,
+    "ORTEGA OBREGON, LUKEN": 9,
+    "ARRAIZ GAZTELU, BEÑAT": 10,
+    "TRINCHE MARTINEZ, ETXAHUN": 11,
+    "FUENTES DE GREGORIO, MIKEL": 14,
+    "CALDERON LOPEZ, PEIO": 18,
+    "GARCIA GARAY, AGER": 22
+  },
+  "dorsales_visitante": {
+    "DEL RIO RANEA, JON": 13,
+    "CRESPO GIL, ANDONI": 2,
+    "MAESTRO OTAOLA, GALDER": 4,
+    "RODRIGUEZ FERNANDEZ, AXEL": 5,
+    "ARGAIZ GONZÁLEZ, JON": 6,
+    "GARCIA ARGAIZ, ADRIAN": 9,
+    "VELEDO EXTREMERA, MARKEL": 15,
+    "RIOS MIELGO, ENAITZ": 18,
+    "MENA MUÑOZ, MARKEL": 19,
+    "BOCOS ALVAREZ, GAIZKA": 20,
+    "MARTINO LAUREIRO, ERLANTZ": 24
+  },
+  "suspendidos": [
+    "GUTIERREZ MANZANOS, DANIEL"
+  ]
+}

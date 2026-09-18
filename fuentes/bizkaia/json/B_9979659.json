@@ -1,0 +1,414 @@
+{
+  "acta_id": "B_9979659",
+  "filename": "Acta_B_9979659.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 8,
+  "fecha": "22-11-2025",
+  "hora": "14:15",
+  "categoria": "PRIMERA DIVISIÓN 1C / LEHEN MAILA (GRUPO 1)",
+  "equipo_local": "ASKARTZA A",
+  "equipo_visitante": "TRAPAGARAN B",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "TERMENÓN PORTILLO, XABIER"
+  ],
+  "estadio": "ASKARTZA CLARET",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "BUSNADIEGO ZARZUELO, AIMAR",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "BUSNADIEGO ZARZUELO, AIMAR",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "RIOS MIELGO, ENAITZ",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "SANCHO MENOYO, JURDAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 22,
+      "jugador": "ARRUEBARRENA ATUTXA, UNAX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 37,
+      "jugador": "ZAMORA VICENTE, MIKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 40,
+      "jugador": "FARENC OSTALOZA, DAMIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "GIETZ CASADO, GUILLERMO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "GIETZ CASADO, GUILLERMO",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "MORENO PERSONA, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "MORENO PERSONA, ANDER",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "TRAPAGARAN B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 22,
+      "jugador": "BOCOS ALVAREZ, GAIZKA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 26,
+      "jugador": "MENA MUÑOZ, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "VELEDO EXTREMERA, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "VALDERRAMA GOMEZ, MIKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "Babesle ofizialak",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "Pribatutasun Politikak",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "Cookien politika",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "Lege Oharra",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "COSME ETXEBARRIETA 5, 1.a",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "KIROL ETXEA - MARTÍN BARUA PICAZA, 27",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "BILBO (BIZKAIA)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "federacion@fvf-bff.eus",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "944 23 61 98",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "944 24 21 80",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "BIZKAIKO FUTBOL FEDERAKUNDEA - VIZCAÍNA FUTBOL FEDERAZIOA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ZARRAGA OTEGI, MARKEL",
+  "entrenador_visitante": "VILLALBA MOYA, IVAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "DIEZ GUERRERO, JOKIN",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DEL ALAMO VELEZ, XABIER",
+  "delegado_equipo_visitante": "AGUILAR LLINARES, IKER",
+  "titulares_local": [
+    "ALONSO MADRAZO, AIMAR",
+    "ARRUEBARRENA ATUTXA, UNAX",
+    "GIETZ CASADO, DANIEL",
+    "VAZ IBAÑEZ, ARITZ",
+    "IBAÑEZ FERNÁNDEZ, ANDER",
+    "ALVAREZ DIEGUEZ, OIER",
+    "FARENC OSTALOZA, DAMIAN",
+    "MARTIN HERNANDEZ, JON",
+    "BUSNADIEGO ZARZUELO, AIMAR",
+    "SANCHO MENOYO, JURDAN",
+    "GIETZ CASADO, GUILLERMO"
+  ],
+  "titulares_visitante": [
+    "DEL RIO RANEA, JON",
+    "CRESPO GIL, ANDONI",
+    "RODRIGUEZ FERNANDEZ, AXEL",
+    "DE LA LLOSA ORTIZ, MARKEL",
+    "GARCIA ARGAIZ, ADRIAN",
+    "QUINTANA SALAZAR, JOSU",
+    "VELEDO EXTREMERA, MARKEL",
+    "RIOS MIELGO, ENAITZ",
+    "MENA MUÑOZ, MARKEL",
+    "BOCOS ALVAREZ, GAIZKA",
+    "MARTINO LAUREIRO, ERLANTZ"
+  ],
+  "suplentes_local": [
+    "CILLERO ORTIZ, ANDER",
+    "FLORES DOUEIL, ANER",
+    "SANCHEZ MARTINEZ, JOSU",
+    "MORENO PERSONA, ANDER",
+    "GOITIA LASA, LUKEN",
+    "ZAMORA VICENTE, MIKEL",
+    "PÉREZ DE EULATE INGUNZA, MARKEL"
+  ],
+  "suplentes_visitante": [
+    "PRIETO VILLANUEVA, ALAN",
+    "ADRIAN MARTIN, DANEL",
+    "ARGAIZ GONZÁLEZ, JON",
+    "VALDERRAMA GOMEZ, MIKEL",
+    "MARTINEZ IGLESIAS, URTZI",
+    "RODRIGUEZ HERNÁNDEZ, AIMAR"
+  ],
+  "convocados_sin_jugar_local": [
+    "CILLERO ORTIZ, ANDER",
+    "GOITIA LASA, LUKEN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PRIETO VILLANUEVA, ALAN",
+    "ADRIAN MARTIN, DANEL",
+    "MARTINEZ IGLESIAS, URTZI"
+  ],
+  "jugadores_local": [
+    "ALONSO MADRAZO, AIMAR",
+    "ARRUEBARRENA ATUTXA, UNAX",
+    "GIETZ CASADO, DANIEL",
+    "VAZ IBAÑEZ, ARITZ",
+    "IBAÑEZ FERNÁNDEZ, ANDER",
+    "ALVAREZ DIEGUEZ, OIER",
+    "FARENC OSTALOZA, DAMIAN",
+    "MARTIN HERNANDEZ, JON",
+    "BUSNADIEGO ZARZUELO, AIMAR",
+    "SANCHO MENOYO, JURDAN",
+    "GIETZ CASADO, GUILLERMO",
+    "SANCHEZ MARTINEZ, JOSU",
+    "ZAMORA VICENTE, MIKEL",
+    "PÉREZ DE EULATE INGUNZA, MARKEL",
+    "MORENO PERSONA, ANDER",
+    "FLORES DOUEIL, ANER"
+  ],
+  "jugadores_visitante": [
+    "DEL RIO RANEA, JON",
+    "CRESPO GIL, ANDONI",
+    "RODRIGUEZ FERNANDEZ, AXEL",
+    "DE LA LLOSA ORTIZ, MARKEL",
+    "GARCIA ARGAIZ, ADRIAN",
+    "QUINTANA SALAZAR, JOSU",
+    "VELEDO EXTREMERA, MARKEL",
+    "RIOS MIELGO, ENAITZ",
+    "MENA MUÑOZ, MARKEL",
+    "BOCOS ALVAREZ, GAIZKA",
+    "MARTINO LAUREIRO, ERLANTZ",
+    "ARGAIZ GONZÁLEZ, JON",
+    "RODRIGUEZ HERNÁNDEZ, AIMAR",
+    "VALDERRAMA GOMEZ, MIKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 38,
+      "entra": "SANCHEZ MARTINEZ, JOSU",
+      "sale": "BUSNADIEGO ZARZUELO, AIMAR"
+    },
+    {
+      "min": 38,
+      "entra": "ZAMORA VICENTE, MIKEL",
+      "sale": "VAZ IBAÑEZ, ARITZ"
+    },
+    {
+      "min": 47,
+      "entra": "PÉREZ DE EULATE INGUNZA, MARKEL",
+      "sale": "FARENC OSTALOZA, DAMIAN"
+    },
+    {
+      "min": 47,
+      "entra": "MORENO PERSONA, ANDER",
+      "sale": "SANCHO MENOYO, JURDAN"
+    },
+    {
+      "min": 70,
+      "entra": "FLORES DOUEIL, ANER",
+      "sale": "GIETZ CASADO, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "ARGAIZ GONZÁLEZ, JON",
+      "sale": "BOCOS ALVAREZ, GAIZKA"
+    },
+    {
+      "min": 57,
+      "entra": "RODRIGUEZ HERNÁNDEZ, AIMAR",
+      "sale": "MENA MUÑOZ, MARKEL"
+    },
+    {
+      "min": 68,
+      "entra": "VALDERRAMA GOMEZ, MIKEL",
+      "sale": "QUINTANA SALAZAR, JOSU"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALONSO MADRAZO, AIMAR": 90,
+    "ARRUEBARRENA ATUTXA, UNAX": 90,
+    "GIETZ CASADO, DANIEL": 70,
+    "VAZ IBAÑEZ, ARITZ": 38,
+    "IBAÑEZ FERNÁNDEZ, ANDER": 90,
+    "ALVAREZ DIEGUEZ, OIER": 90,
+    "FARENC OSTALOZA, DAMIAN": 47,
+    "MARTIN HERNANDEZ, JON": 90,
+    "BUSNADIEGO ZARZUELO, AIMAR": 38,
+    "SANCHO MENOYO, JURDAN": 47,
+    "GIETZ CASADO, GUILLERMO": 90,
+    "SANCHEZ MARTINEZ, JOSU": 52,
+    "ZAMORA VICENTE, MIKEL": 52,
+    "PÉREZ DE EULATE INGUNZA, MARKEL": 43,
+    "MORENO PERSONA, ANDER": 43,
+    "FLORES DOUEIL, ANER": 20,
+    "DEL RIO RANEA, JON": 90,
+    "CRESPO GIL, ANDONI": 90,
+    "RODRIGUEZ FERNANDEZ, AXEL": 90,
+    "DE LA LLOSA ORTIZ, MARKEL": 90,
+    "GARCIA ARGAIZ, ADRIAN": 90,
+    "QUINTANA SALAZAR, JOSU": 68,
+    "VELEDO EXTREMERA, MARKEL": 90,
+    "RIOS MIELGO, ENAITZ": 90,
+    "MENA MUÑOZ, MARKEL": 57,
+    "BOCOS ALVAREZ, GAIZKA": 41,
+    "MARTINO LAUREIRO, ERLANTZ": 90,
+    "ARGAIZ GONZÁLEZ, JON": 49,
+    "RODRIGUEZ HERNÁNDEZ, AIMAR": 33,
+    "VALDERRAMA GOMEZ, MIKEL": 22
+  },
+  "portero_local": "ALONSO MADRAZO, AIMAR",
+  "portero_visitante": "DEL RIO RANEA, JON",
+  "dorsales_local": {
+    "ALONSO MADRAZO, AIMAR": 13,
+    "ARRUEBARRENA ATUTXA, UNAX": 4,
+    "GIETZ CASADO, DANIEL": 8,
+    "VAZ IBAÑEZ, ARITZ": 9,
+    "IBAÑEZ FERNÁNDEZ, ANDER": 10,
+    "ALVAREZ DIEGUEZ, OIER": 11,
+    "FARENC OSTALOZA, DAMIAN": 14,
+    "MARTIN HERNANDEZ, JON": 18,
+    "BUSNADIEGO ZARZUELO, AIMAR": 19,
+    "SANCHO MENOYO, JURDAN": 22,
+    "GIETZ CASADO, GUILLERMO": 23
+  },
+  "dorsales_visitante": {
+    "DEL RIO RANEA, JON": 13,
+    "CRESPO GIL, ANDONI": 2,
+    "RODRIGUEZ FERNANDEZ, AXEL": 5,
+    "DE LA LLOSA ORTIZ, MARKEL": 8,
+    "GARCIA ARGAIZ, ADRIAN": 9,
+    "QUINTANA SALAZAR, JOSU": 11,
+    "VELEDO EXTREMERA, MARKEL": 15,
+    "RIOS MIELGO, ENAITZ": 18,
+    "MENA MUÑOZ, MARKEL": 19,
+    "BOCOS ALVAREZ, GAIZKA": 20,
+    "MARTINO LAUREIRO, ERLANTZ": 24
+  },
+  "suspendidos": [
+    "GIETZ CASADO, GUILLERMO",
+    "MORENO PERSONA, ANDER"
+  ],
+  "_marcador_widget": true
+}

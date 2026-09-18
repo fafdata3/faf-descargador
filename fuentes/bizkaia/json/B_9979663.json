@@ -1,0 +1,231 @@
+{
+  "acta_id": "B_9979663",
+  "filename": "Acta_B_9979663.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 8,
+  "fecha": "23-11-2025",
+  "hora": "12:00",
+  "categoria": "PRIMERA DIVISIÓN 1C / LEHEN MAILA (GRUPO 1)",
+  "equipo_local": "BALMASEDA B",
+  "equipo_visitante": "PORTUGALETE C",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "PRIETO BARTUREN, IÑAKI"
+  ],
+  "estadio": "SALINILLAS",
+  "ciudad": "BALMASEDA-48800",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "AZANOUN TAHIR, IMRAN",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "CAMPO PUENTE, OIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "PALACIO DE COS, KIMETZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "NAVARRO FERNANDEZ, JULEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "PORTUGALETE C",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "NAVARRO FERNANDEZ, JULEN",
+  "entrenador_visitante": "GARCIA LANDALUCE, UNAI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PUENTE ALONSO, NEREA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PUENTE ALONSO, NEREA",
+  "delegado_equipo_visitante": "LOPEZ URANGA, LANDER",
+  "titulares_local": [
+    "CANTELI SANTAMARIA, AITOR",
+    "FUENTES URRUTIA, KOLDO",
+    "HIERRO CAMARERO, ALEX",
+    "ALCONCHEL OSANTE, GAIZKA",
+    "MORAL GUTIERREZ, AITOR",
+    "BACHAR OUARGALI, YOUSSEF",
+    "PALACIO DE COS, KIMETZ",
+    "SULIBARRIA SAGASTIZABAL, ENDIKA",
+    "AZANOUN TAHIR, IMRAN",
+    "BELTRAN SUSO, ASIER",
+    "LEZAMA DE SARACHAGA, ALAIN"
+  ],
+  "titulares_visitante": [
+    "RUIZ GARCIA, IBAI",
+    "GONZALEZ BRANCO, IZAN",
+    "ITURRALDE PÉREZ, AIMAR",
+    "MACHO RIBOTE, ALEX",
+    "RICO LOPEZ, ANDER",
+    "QUERENDEZ MARTINEZ, XABIER",
+    "DO NASCIMENTO SANDIVAR, JORDI ELIU",
+    "CANTERO GIL, DANEL",
+    "NOGALES GORRIA, KIRIAN",
+    "RODRIGUEZ BLANCO, MARKEL",
+    "RODRIGUEZ PICATOSTE, ADRIAN"
+  ],
+  "suplentes_local": [
+    "ARTOLATXIPI PEREDA, AITOR",
+    "CHAVARRI BERASALUCE, IKER",
+    "MARCOS ROMAÑA, OIHAN",
+    "GÚEMES GOFFARD, PABLO",
+    "CAMPO PUENTE, OIER",
+    "ZUGASTI ABEIJON, IBAI"
+  ],
+  "suplentes_visitante": [
+    "JIMENO PENELA, RUBEN",
+    "SAINZ DE DIEGO, ALONSO",
+    "GARCIA AZCONA, OIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARTOLATXIPI PEREDA, AITOR",
+    "MARCOS ROMAÑA, OIHAN",
+    "GÚEMES GOFFARD, PABLO",
+    "ZUGASTI ABEIJON, IBAI"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CANTELI SANTAMARIA, AITOR",
+    "FUENTES URRUTIA, KOLDO",
+    "HIERRO CAMARERO, ALEX",
+    "ALCONCHEL OSANTE, GAIZKA",
+    "MORAL GUTIERREZ, AITOR",
+    "BACHAR OUARGALI, YOUSSEF",
+    "PALACIO DE COS, KIMETZ",
+    "SULIBARRIA SAGASTIZABAL, ENDIKA",
+    "AZANOUN TAHIR, IMRAN",
+    "BELTRAN SUSO, ASIER",
+    "LEZAMA DE SARACHAGA, ALAIN",
+    "CAMPO PUENTE, OIER",
+    "CHAVARRI BERASALUCE, IKER"
+  ],
+  "jugadores_visitante": [
+    "RUIZ GARCIA, IBAI",
+    "GONZALEZ BRANCO, IZAN",
+    "ITURRALDE PÉREZ, AIMAR",
+    "MACHO RIBOTE, ALEX",
+    "RICO LOPEZ, ANDER",
+    "QUERENDEZ MARTINEZ, XABIER",
+    "DO NASCIMENTO SANDIVAR, JORDI ELIU",
+    "CANTERO GIL, DANEL",
+    "NOGALES GORRIA, KIRIAN",
+    "RODRIGUEZ BLANCO, MARKEL",
+    "RODRIGUEZ PICATOSTE, ADRIAN",
+    "SAINZ DE DIEGO, ALONSO",
+    "GARCIA AZCONA, OIER",
+    "JIMENO PENELA, RUBEN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "CAMPO PUENTE, OIER",
+      "sale": "ALCONCHEL OSANTE, GAIZKA"
+    },
+    {
+      "min": 72,
+      "entra": "CHAVARRI BERASALUCE, IKER",
+      "sale": "SULIBARRIA SAGASTIZABAL, ENDIKA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SAINZ DE DIEGO, ALONSO",
+      "sale": "MACHO RIBOTE, ALEX"
+    },
+    {
+      "min": 64,
+      "entra": "GARCIA AZCONA, OIER",
+      "sale": "DO NASCIMENTO SANDIVAR, JORDI ELIU"
+    },
+    {
+      "min": 70,
+      "entra": "JIMENO PENELA, RUBEN",
+      "sale": "RODRIGUEZ PICATOSTE, ADRIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "CANTELI SANTAMARIA, AITOR": 90,
+    "FUENTES URRUTIA, KOLDO": 90,
+    "HIERRO CAMARERO, ALEX": 90,
+    "ALCONCHEL OSANTE, GAIZKA": 56,
+    "MORAL GUTIERREZ, AITOR": 90,
+    "BACHAR OUARGALI, YOUSSEF": 90,
+    "PALACIO DE COS, KIMETZ": 90,
+    "SULIBARRIA SAGASTIZABAL, ENDIKA": 72,
+    "AZANOUN TAHIR, IMRAN": 90,
+    "BELTRAN SUSO, ASIER": 90,
+    "LEZAMA DE SARACHAGA, ALAIN": 90,
+    "CAMPO PUENTE, OIER": 34,
+    "CHAVARRI BERASALUCE, IKER": 18,
+    "RUIZ GARCIA, IBAI": 90,
+    "GONZALEZ BRANCO, IZAN": 90,
+    "ITURRALDE PÉREZ, AIMAR": 90,
+    "MACHO RIBOTE, ALEX": 40,
+    "RICO LOPEZ, ANDER": 90,
+    "QUERENDEZ MARTINEZ, XABIER": 90,
+    "DO NASCIMENTO SANDIVAR, JORDI ELIU": 64,
+    "CANTERO GIL, DANEL": 90,
+    "NOGALES GORRIA, KIRIAN": 90,
+    "RODRIGUEZ BLANCO, MARKEL": 90,
+    "RODRIGUEZ PICATOSTE, ADRIAN": 70,
+    "SAINZ DE DIEGO, ALONSO": 50,
+    "GARCIA AZCONA, OIER": 26,
+    "JIMENO PENELA, RUBEN": 20
+  },
+  "portero_local": "CANTELI SANTAMARIA, AITOR",
+  "portero_visitante": "RUIZ GARCIA, IBAI",
+  "dorsales_local": {
+    "CANTELI SANTAMARIA, AITOR": 1,
+    "FUENTES URRUTIA, KOLDO": 2,
+    "HIERRO CAMARERO, ALEX": 4,
+    "ALCONCHEL OSANTE, GAIZKA": 5,
+    "MORAL GUTIERREZ, AITOR": 7,
+    "BACHAR OUARGALI, YOUSSEF": 9,
+    "PALACIO DE COS, KIMETZ": 10,
+    "SULIBARRIA SAGASTIZABAL, ENDIKA": 18,
+    "AZANOUN TAHIR, IMRAN": 19,
+    "BELTRAN SUSO, ASIER": 23,
+    "LEZAMA DE SARACHAGA, ALAIN": 24
+  },
+  "dorsales_visitante": {
+    "RUIZ GARCIA, IBAI": 13,
+    "GONZALEZ BRANCO, IZAN": 2,
+    "ITURRALDE PÉREZ, AIMAR": 5,
+    "MACHO RIBOTE, ALEX": 8,
+    "RICO LOPEZ, ANDER": 9,
+    "QUERENDEZ MARTINEZ, XABIER": 12,
+    "DO NASCIMENTO SANDIVAR, JORDI ELIU": 15,
+    "CANTERO GIL, DANEL": 16,
+    "NOGALES GORRIA, KIRIAN": 18,
+    "RODRIGUEZ BLANCO, MARKEL": 19,
+    "RODRIGUEZ PICATOSTE, ADRIAN": 20
+  },
+  "suspendidos": []
+}

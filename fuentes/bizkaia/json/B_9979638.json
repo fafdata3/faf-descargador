@@ -1,0 +1,242 @@
+{
+  "acta_id": "B_9979638",
+  "filename": "Acta_B_9979638.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 5,
+  "fecha": "01-11-2025",
+  "hora": "11:30",
+  "categoria": "PRIMERA DIVISIÓN 1C / LEHEN MAILA (GRUPO 1)",
+  "equipo_local": "ZAZPI LANDA",
+  "equipo_visitante": "ZUAZO A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "VIAÑA ARENAS (M), UXUE"
+  ],
+  "estadio": "P.M. ZORROZA",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 62,
+      "jugador": "SANTAMARIA DE LA FUENTE, ASIER",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "LOPEZ DIEZ, EKAIN",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 78,
+      "jugador": "TORRES DEL RIO, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "ZUAZO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LOPEZ OÑATIBIA, ANDER",
+  "entrenador_visitante": "MORENO EZQUETA, LUIS ESTEBAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "HONTAÑON HELGUERO, RUBEN",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CASTRESANA SAMPEDRO, JON",
+  "delegado_equipo_visitante": "LOZANO GORDILLO, UNAI",
+  "titulares_local": [
+    "VALLEJOS ESQUIVEL, HODEI",
+    "GRANADILLO IOVINE, RAUL MATHIAS",
+    "ABDELKRIM AHACHAMI, ZIYAD",
+    "MATO CALDERON, UNAI",
+    "BARCO GARAY, ENDIKA",
+    "CAMPO ARNAIZ, MAREN",
+    "QUIROS YEPES, LUCAS",
+    "LOPEZ DIEZ, EKAIN",
+    "GARCIA ALICANTE, MIKEL",
+    "TORRES DEL RIO, AIMAR",
+    "SAIZ FLORENCIO, ADRIAN"
+  ],
+  "titulares_visitante": [
+    "TERRON CARRASCO, XABIER",
+    "MATO ANDRADE, HECTOR",
+    "FREIRE TOLIN, ASIER",
+    "BUSTO MAESTRE, IKER",
+    "LEON DEL CAMPO, MARCOS",
+    "LIZUNDIA DA COSTA, DIEGO",
+    "LOPEZ SAEZ, IMANOL",
+    "SANTAMARIA DE LA FUENTE, ASIER",
+    "MUÑOZ RUIZ, ARITZ",
+    "ALONSO ARENAZA, UNAI",
+    "SOJO SANCHEZ, IKER"
+  ],
+  "suplentes_local": [
+    "NOURI ASSDIR, MOHAMED REDA",
+    "GARCIA GONZALEZ, JON",
+    "LOPEZ RUIZ, IBAI",
+    "GOMEZ DIAZ, ALAIN",
+    "OKAFOR IKWUMELU, ELVIS TOCHUKWU"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ RAMIREZ, ANDONI",
+    "FREIRE CREO, JON",
+    "ONANDI URQUIAGA, MARKEL",
+    "GARCIA ARRANZ, ARITZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "NOURI ASSDIR, MOHAMED REDA"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "VALLEJOS ESQUIVEL, HODEI",
+    "GRANADILLO IOVINE, RAUL MATHIAS",
+    "ABDELKRIM AHACHAMI, ZIYAD",
+    "MATO CALDERON, UNAI",
+    "BARCO GARAY, ENDIKA",
+    "CAMPO ARNAIZ, MAREN",
+    "QUIROS YEPES, LUCAS",
+    "LOPEZ DIEZ, EKAIN",
+    "GARCIA ALICANTE, MIKEL",
+    "TORRES DEL RIO, AIMAR",
+    "SAIZ FLORENCIO, ADRIAN",
+    "LOPEZ RUIZ, IBAI",
+    "GARCIA GONZALEZ, JON",
+    "GOMEZ DIAZ, ALAIN",
+    "OKAFOR IKWUMELU, ELVIS TOCHUKWU"
+  ],
+  "jugadores_visitante": [
+    "TERRON CARRASCO, XABIER",
+    "MATO ANDRADE, HECTOR",
+    "FREIRE TOLIN, ASIER",
+    "BUSTO MAESTRE, IKER",
+    "LEON DEL CAMPO, MARCOS",
+    "LIZUNDIA DA COSTA, DIEGO",
+    "LOPEZ SAEZ, IMANOL",
+    "SANTAMARIA DE LA FUENTE, ASIER",
+    "MUÑOZ RUIZ, ARITZ",
+    "ALONSO ARENAZA, UNAI",
+    "SOJO SANCHEZ, IKER",
+    "GARCIA ARRANZ, ARITZ",
+    "FREIRE CREO, JON",
+    "ONANDI URQUIAGA, MARKEL",
+    "LOPEZ RAMIREZ, ANDONI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "LOPEZ RUIZ, IBAI",
+      "sale": "GARCIA ALICANTE, MIKEL"
+    },
+    {
+      "min": 52,
+      "entra": "GARCIA GONZALEZ, JON",
+      "sale": "SAIZ FLORENCIO, ADRIAN"
+    },
+    {
+      "min": 68,
+      "entra": "GOMEZ DIAZ, ALAIN",
+      "sale": "BARCO GARAY, ENDIKA"
+    },
+    {
+      "min": 68,
+      "entra": "OKAFOR IKWUMELU, ELVIS TOCHUKWU",
+      "sale": "CAMPO ARNAIZ, MAREN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GARCIA ARRANZ, ARITZ",
+      "sale": "SOJO SANCHEZ, IKER"
+    },
+    {
+      "min": 57,
+      "entra": "FREIRE CREO, JON",
+      "sale": "MUÑOZ RUIZ, ARITZ"
+    },
+    {
+      "min": 57,
+      "entra": "ONANDI URQUIAGA, MARKEL",
+      "sale": "MATO ANDRADE, HECTOR"
+    },
+    {
+      "min": 72,
+      "entra": "LOPEZ RAMIREZ, ANDONI",
+      "sale": "LIZUNDIA DA COSTA, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "VALLEJOS ESQUIVEL, HODEI": 90,
+    "GRANADILLO IOVINE, RAUL MATHIAS": 90,
+    "ABDELKRIM AHACHAMI, ZIYAD": 90,
+    "MATO CALDERON, UNAI": 90,
+    "BARCO GARAY, ENDIKA": 68,
+    "CAMPO ARNAIZ, MAREN": 68,
+    "QUIROS YEPES, LUCAS": 90,
+    "LOPEZ DIEZ, EKAIN": 90,
+    "GARCIA ALICANTE, MIKEL": 52,
+    "TORRES DEL RIO, AIMAR": 90,
+    "SAIZ FLORENCIO, ADRIAN": 52,
+    "LOPEZ RUIZ, IBAI": 38,
+    "GARCIA GONZALEZ, JON": 38,
+    "GOMEZ DIAZ, ALAIN": 22,
+    "OKAFOR IKWUMELU, ELVIS TOCHUKWU": 22,
+    "TERRON CARRASCO, XABIER": 90,
+    "MATO ANDRADE, HECTOR": 57,
+    "FREIRE TOLIN, ASIER": 90,
+    "BUSTO MAESTRE, IKER": 90,
+    "LEON DEL CAMPO, MARCOS": 90,
+    "LIZUNDIA DA COSTA, DIEGO": 72,
+    "LOPEZ SAEZ, IMANOL": 90,
+    "SANTAMARIA DE LA FUENTE, ASIER": 90,
+    "MUÑOZ RUIZ, ARITZ": 57,
+    "ALONSO ARENAZA, UNAI": 90,
+    "SOJO SANCHEZ, IKER": 40,
+    "GARCIA ARRANZ, ARITZ": 50,
+    "FREIRE CREO, JON": 33,
+    "ONANDI URQUIAGA, MARKEL": 33,
+    "LOPEZ RAMIREZ, ANDONI": 18
+  },
+  "portero_local": "VALLEJOS ESQUIVEL, HODEI",
+  "portero_visitante": "TERRON CARRASCO, XABIER",
+  "dorsales_local": {
+    "VALLEJOS ESQUIVEL, HODEI": 25,
+    "GRANADILLO IOVINE, RAUL MATHIAS": 3,
+    "ABDELKRIM AHACHAMI, ZIYAD": 8,
+    "MATO CALDERON, UNAI": 11,
+    "BARCO GARAY, ENDIKA": 14,
+    "CAMPO ARNAIZ, MAREN": 15,
+    "QUIROS YEPES, LUCAS": 16,
+    "LOPEZ DIEZ, EKAIN": 17,
+    "GARCIA ALICANTE, MIKEL": 18,
+    "TORRES DEL RIO, AIMAR": 20,
+    "SAIZ FLORENCIO, ADRIAN": 24
+  },
+  "dorsales_visitante": {
+    "TERRON CARRASCO, XABIER": 1,
+    "MATO ANDRADE, HECTOR": 2,
+    "FREIRE TOLIN, ASIER": 3,
+    "BUSTO MAESTRE, IKER": 4,
+    "LEON DEL CAMPO, MARCOS": 5,
+    "LIZUNDIA DA COSTA, DIEGO": 6,
+    "LOPEZ SAEZ, IMANOL": 7,
+    "SANTAMARIA DE LA FUENTE, ASIER": 8,
+    "MUÑOZ RUIZ, ARITZ": 9,
+    "ALONSO ARENAZA, UNAI": 10,
+    "SOJO SANCHEZ, IKER": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
