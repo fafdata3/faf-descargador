@@ -361,6 +361,10 @@ def main():
         "FAF_RUN_BUDGET_SEC": "5400",
         "FAF_MAX_PER_RUN": "200",
         "FAF_M7_MAX_PER_RUN": "6000",
+        # Chrome con VENTANA real (no headless): el anti-bot de las
+        # federaciones detecta mucho menos a un navegador visible con scrolls
+        # y ratón que a uno invisible con ritmo constante.
+        "FAF_HEADLESS": "0",
         # Sin verificación head_object tras cada subida: cada HEAD es una
         # transacción Class B (B2 la limita a ~2500/día) y subir cientos de
         # actas la agotaría. La verificación la hace el cron al releer.
