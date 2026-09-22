@@ -1,0 +1,260 @@
+{
+  "acta_id": "R_253423",
+  "filename": "Acta_R_253423.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 15,
+  "fecha": "07-02-2026",
+  "hora": "16:00",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "CALAHORRA",
+  "equipo_visitante": "ALFARO",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANTAMARIA RIVAS, SAMUEL"
+  ],
+  "estadio": "C.F. COLEGIO SAN AGUSTIN (CALAHORRA)",
+  "ciudad": "Calahorra",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "LATIANI CHAKI, MHAMED",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "LATIANI CHAKI, MHAMED",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "LATIANI CHAKI, MHAMED",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "ALFARO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 24,
+      "jugador": "MOUTIK RAZKAOUI, DRISS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "BENLOUKILIA KASMI, ZIAD",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "MOUTIK RAZKAOUI, DRISS",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "IZQUIERDO CARRASCOSA, FERNANDO MIGUEL",
+  "entrenador_visitante": "VARGAS PEÑA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MENDEZ DE FELIPE, ISMAEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ ALDEA, MARCOS",
+  "delegado_equipo_visitante": "RODRIGUEZ MUÑOZ, IVAN",
+  "titulares_local": [
+    "BRUNO MARTINEZ, RAUL",
+    "CORDON MAGAÑA, MARCOS",
+    "ANDRADE DE ARRUDA, WILLIAM STEPHEN",
+    "MARTINEZ ALCALDE, IVAN",
+    "MENDEZ MONLLOR, MARCOS",
+    "CAPATA, DAVID",
+    "MUNILLA HERCE, ALVARO",
+    "LATIANI CHAKI, MHAMED",
+    "LACALLE CELORRIO, DANIEL",
+    "RUIZ SOLANA, IÑIGO",
+    "ORBE FLORES, DENNIS JHANIO"
+  ],
+  "titulares_visitante": [
+    "ARNEDO GASPARRINI, GIOVANNI",
+    "PEREZ PEREZ, YERAY",
+    "KENZI SEBBAR, MAROUANE",
+    "PANIAGUA VENTURA, BRIAN",
+    "PRECIADO ZUBIETA, UNAI",
+    "QAJJIA OUMBARECH, ACHRAF",
+    "ARMIJOS LABANDA, ERIK A",
+    "GARCES TORRES, DERECK ANAEL",
+    "BENLOUKILIA KASMI, ZIAD",
+    "MOUTIK RAZKAOUI, DRISS",
+    "CHRIFI, ISHAAQ"
+  ],
+  "suplentes_local": [
+    "MONTAÑA SAENZ, IÑIGO",
+    "MARTINEZ MARTINEZ, FERNANDO",
+    "BOUTAHRI ZEROUALI, MAROUANE",
+    "BROCAL BERMEJO, JAVIER",
+    "BAHADI MAGRACHE, EL ARBI",
+    "CARO CRUZ, SAMUEL",
+    "GARCIA URQUIZA, JUAN C"
+  ],
+  "suplentes_visitante": [
+    "EL HAIRECH JRIFI, ELIAS",
+    "GARCIA SAINZ, DAVID",
+    "DELGADO GINES, BRYAN ENRIQUE",
+    "AZUAGA GARCIA, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "MONTAÑA SAENZ, IÑIGO",
+    "MARTINEZ MARTINEZ, FERNANDO",
+    "BROCAL BERMEJO, JAVIER",
+    "CARO CRUZ, SAMUEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DELGADO GINES, BRYAN ENRIQUE"
+  ],
+  "jugadores_local": [
+    "BRUNO MARTINEZ, RAUL",
+    "CORDON MAGAÑA, MARCOS",
+    "ANDRADE DE ARRUDA, WILLIAM STEPHEN",
+    "MARTINEZ ALCALDE, IVAN",
+    "MENDEZ MONLLOR, MARCOS",
+    "CAPATA, DAVID",
+    "MUNILLA HERCE, ALVARO",
+    "LATIANI CHAKI, MHAMED",
+    "LACALLE CELORRIO, DANIEL",
+    "RUIZ SOLANA, IÑIGO",
+    "ORBE FLORES, DENNIS JHANIO",
+    "GARCIA URQUIZA, JUAN C",
+    "BAHADI MAGRACHE, EL ARBI",
+    "BOUTAHRI ZEROUALI, MAROUANE"
+  ],
+  "jugadores_visitante": [
+    "ARNEDO GASPARRINI, GIOVANNI",
+    "PEREZ PEREZ, YERAY",
+    "KENZI SEBBAR, MAROUANE",
+    "PANIAGUA VENTURA, BRIAN",
+    "PRECIADO ZUBIETA, UNAI",
+    "QAJJIA OUMBARECH, ACHRAF",
+    "ARMIJOS LABANDA, ERIK A",
+    "GARCES TORRES, DERECK ANAEL",
+    "BENLOUKILIA KASMI, ZIAD",
+    "MOUTIK RAZKAOUI, DRISS",
+    "CHRIFI, ISHAAQ",
+    "GARCIA SAINZ, DAVID",
+    "EL HAIRECH JRIFI, ELIAS",
+    "AZUAGA GARCIA, JAVIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "GARCIA URQUIZA, JUAN C",
+      "sale": "MUNILLA HERCE, ALVARO"
+    },
+    {
+      "min": 71,
+      "entra": "BAHADI MAGRACHE, EL ARBI",
+      "sale": "RUIZ SOLANA, IÑIGO"
+    },
+    {
+      "min": 76,
+      "entra": "BOUTAHRI ZEROUALI, MAROUANE",
+      "sale": "CAPATA, DAVID"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "GARCIA SAINZ, DAVID",
+      "sale": "CHRIFI, ISHAAQ"
+    },
+    {
+      "min": 54,
+      "entra": "EL HAIRECH JRIFI, ELIAS",
+      "sale": "GARCES TORRES, DERECK ANAEL"
+    },
+    {
+      "min": 70,
+      "entra": "AZUAGA GARCIA, JAVIER",
+      "sale": "QAJJIA OUMBARECH, ACHRAF"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRUNO MARTINEZ, RAUL": 90,
+    "CORDON MAGAÑA, MARCOS": 90,
+    "ANDRADE DE ARRUDA, WILLIAM STEPHEN": 90,
+    "MARTINEZ ALCALDE, IVAN": 90,
+    "MENDEZ MONLLOR, MARCOS": 90,
+    "CAPATA, DAVID": 76,
+    "MUNILLA HERCE, ALVARO": 52,
+    "LATIANI CHAKI, MHAMED": 90,
+    "LACALLE CELORRIO, DANIEL": 90,
+    "RUIZ SOLANA, IÑIGO": 71,
+    "ORBE FLORES, DENNIS JHANIO": 90,
+    "GARCIA URQUIZA, JUAN C": 38,
+    "BAHADI MAGRACHE, EL ARBI": 19,
+    "BOUTAHRI ZEROUALI, MAROUANE": 14,
+    "ARNEDO GASPARRINI, GIOVANNI": 90,
+    "PEREZ PEREZ, YERAY": 90,
+    "KENZI SEBBAR, MAROUANE": 90,
+    "PANIAGUA VENTURA, BRIAN": 90,
+    "PRECIADO ZUBIETA, UNAI": 90,
+    "QAJJIA OUMBARECH, ACHRAF": 70,
+    "ARMIJOS LABANDA, ERIK A": 90,
+    "GARCES TORRES, DERECK ANAEL": 54,
+    "BENLOUKILIA KASMI, ZIAD": 90,
+    "MOUTIK RAZKAOUI, DRISS": 90,
+    "CHRIFI, ISHAAQ": 46,
+    "GARCIA SAINZ, DAVID": 44,
+    "EL HAIRECH JRIFI, ELIAS": 36,
+    "AZUAGA GARCIA, JAVIER": 20
+  },
+  "portero_local": "BRUNO MARTINEZ, RAUL",
+  "portero_visitante": "ARNEDO GASPARRINI, GIOVANNI",
+  "dorsales_local": {
+    "BRUNO MARTINEZ, RAUL": 13,
+    "CORDON MAGAÑA, MARCOS": 3,
+    "ANDRADE DE ARRUDA, WILLIAM STEPHEN": 4,
+    "MARTINEZ ALCALDE, IVAN": 5,
+    "MENDEZ MONLLOR, MARCOS": 6,
+    "CAPATA, DAVID": 7,
+    "MUNILLA HERCE, ALVARO": 8,
+    "LATIANI CHAKI, MHAMED": 9,
+    "LACALLE CELORRIO, DANIEL": 10,
+    "RUIZ SOLANA, IÑIGO": 15,
+    "ORBE FLORES, DENNIS JHANIO": 18
+  },
+  "dorsales_visitante": {
+    "ARNEDO GASPARRINI, GIOVANNI": 13,
+    "PEREZ PEREZ, YERAY": 6,
+    "KENZI SEBBAR, MAROUANE": 7,
+    "PANIAGUA VENTURA, BRIAN": 8,
+    "PRECIADO ZUBIETA, UNAI": 9,
+    "QAJJIA OUMBARECH, ACHRAF": 11,
+    "ARMIJOS LABANDA, ERIK A": 12,
+    "GARCES TORRES, DERECK ANAEL": 14,
+    "BENLOUKILIA KASMI, ZIAD": 19,
+    "MOUTIK RAZKAOUI, DRISS": 22,
+    "CHRIFI, ISHAAQ": 23
+  },
+  "suspendidos": [
+    "LATIANI CHAKI, MHAMED",
+    "MOUTIK RAZKAOUI, DRISS"
+  ],
+  "_marcador_widget": true
+}
