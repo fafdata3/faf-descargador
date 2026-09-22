@@ -1,0 +1,279 @@
+{
+  "acta_id": "10053510",
+  "filename": "Acta_10053510.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "16:00",
+  "categoria": "CADETE DE HONOR / KADETEEN OHOREZKO MAILA (GRUPO - 1)",
+  "equipo_local": "KASKAGORRI AMURRIOKO F.T. A",
+  "equipo_visitante": "SANTA MARÍA-VITORIA A.D.",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "PRADO DIAZ, AMETS"
+  ],
+  "estadio": "EL SALVADOR Nº 2",
+  "ciudad": "Amurrio",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "FERRERO DIAZ, HAITZ",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "EGUIA TRUJILLANO, MIKEL",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "EGUIA TRUJILLANO, MIKEL",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "EGUIA TRUJILLANO, MIKEL",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 27,
+      "jugador": "GARATE BERGARA, AMETS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "SGHEIRI DHRARI, ZAKARIA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "SANTA MARÍA-VITORIA A.D.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARATE VILLANUEVA, IÑAKI",
+  "entrenador_visitante": "AIZPURU IGLESIAS, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "REBOLLO TAVERO, JUAN CARLOS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "REBOLLO TAVERO, JUAN CARLOS",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "VARONA OSORIO, IKER",
+    "GOTXI IARRITU, AGER",
+    "ANTON CRUZ, ENEKO",
+    "SABATER BAZAN, ALEX",
+    "GARCIA HUARTE, MARKEL",
+    "EGUIA TRUJILLANO, MIKEL",
+    "GARATE BERGARA, AMETS",
+    "SGHEIRI DHRARI, ZAKARIA",
+    "RODRIGUEZ MARTINEZ, ANDER",
+    "BALZA HERNANDEZ, ARATZ",
+    "SASIAIN GIL, JON"
+  ],
+  "titulares_visitante": [
+    "MARTINEZ SOLAS, IKER",
+    "GONZALEZ GONZALEZ, AIMAR",
+    "COULIBALY COULIBALY, HAOUROU",
+    "BENAISSA AGBALOU, RAYAN",
+    "LOPEZ DE LACALLE ZUÑIGA, AIMAR",
+    "GONZALEZ MIEG, JUAN",
+    "ZUBIA FERNANDEZ, UNAI",
+    "FERRERO DIAZ, HAITZ",
+    "BUSTO AGUIRREBEITIA, JON",
+    "MAKHLOUFI HAMDOUN, ZAKARIEA",
+    "VAQUERO GATO, MARKEL"
+  ],
+  "suplentes_local": [
+    "VARONA OSORIO, MIKEL",
+    "DIEGO EGIA, PEIO",
+    "REBOLLO LOZANO, MIKEL",
+    "RODRIGUEZ MARTINEZ, JON",
+    "ANTON CRUZ, EKAIN",
+    "VEA-MURGUIA EGUREN, ENDIKA",
+    "PINEDO BANDERA, IXAI"
+  ],
+  "suplentes_visitante": [
+    "GARCIA AMADO, OHIAN",
+    "CANO SANTAMARIA, MIKEL",
+    "FERNANDEZ DE LANDA ACEVEDO, MIGUEL",
+    "SANCHEZ VELEZ, ENOL",
+    "CALVO YABAR, MARTIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "VARONA OSORIO, MIKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GARCIA AMADO, OHIAN"
+  ],
+  "jugadores_local": [
+    "VARONA OSORIO, IKER",
+    "GOTXI IARRITU, AGER",
+    "ANTON CRUZ, ENEKO",
+    "SABATER BAZAN, ALEX",
+    "GARCIA HUARTE, MARKEL",
+    "EGUIA TRUJILLANO, MIKEL",
+    "GARATE BERGARA, AMETS",
+    "SGHEIRI DHRARI, ZAKARIA",
+    "RODRIGUEZ MARTINEZ, ANDER",
+    "BALZA HERNANDEZ, ARATZ",
+    "SASIAIN GIL, JON",
+    "DIEGO EGIA, PEIO",
+    "VEA-MURGUIA EGUREN, ENDIKA",
+    "ANTON CRUZ, EKAIN",
+    "PINEDO BANDERA, IXAI",
+    "RODRIGUEZ MARTINEZ, JON",
+    "REBOLLO LOZANO, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "MARTINEZ SOLAS, IKER",
+    "GONZALEZ GONZALEZ, AIMAR",
+    "COULIBALY COULIBALY, HAOUROU",
+    "BENAISSA AGBALOU, RAYAN",
+    "LOPEZ DE LACALLE ZUÑIGA, AIMAR",
+    "GONZALEZ MIEG, JUAN",
+    "ZUBIA FERNANDEZ, UNAI",
+    "FERRERO DIAZ, HAITZ",
+    "BUSTO AGUIRREBEITIA, JON",
+    "MAKHLOUFI HAMDOUN, ZAKARIEA",
+    "VAQUERO GATO, MARKEL",
+    "SANCHEZ VELEZ, ENOL",
+    "FERNANDEZ DE LANDA ACEVEDO, MIGUEL",
+    "CALVO YABAR, MARTIN",
+    "CANO SANTAMARIA, MIKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 22,
+      "entra": "DIEGO EGIA, PEIO",
+      "sale": "GOTXI IARRITU, AGER"
+    },
+    {
+      "min": 40,
+      "entra": "VEA-MURGUIA EGUREN, ENDIKA",
+      "sale": "GARATE BERGARA, AMETS"
+    },
+    {
+      "min": 48,
+      "entra": "ANTON CRUZ, EKAIN",
+      "sale": "BALZA HERNANDEZ, ARATZ"
+    },
+    {
+      "min": 48,
+      "entra": "PINEDO BANDERA, IXAI",
+      "sale": "RODRIGUEZ MARTINEZ, ANDER"
+    },
+    {
+      "min": 65,
+      "entra": "RODRIGUEZ MARTINEZ, JON",
+      "sale": "GARCIA HUARTE, MARKEL"
+    },
+    {
+      "min": 65,
+      "entra": "REBOLLO LOZANO, MIKEL",
+      "sale": "SGHEIRI DHRARI, ZAKARIA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 48,
+      "entra": "SANCHEZ VELEZ, ENOL",
+      "sale": "MAKHLOUFI HAMDOUN, ZAKARIEA"
+    },
+    {
+      "min": 48,
+      "entra": "FERNANDEZ DE LANDA ACEVEDO, MIGUEL",
+      "sale": "GONZALEZ MIEG, JUAN"
+    },
+    {
+      "min": 61,
+      "entra": "CALVO YABAR, MARTIN",
+      "sale": "LOPEZ DE LACALLE ZUÑIGA, AIMAR"
+    },
+    {
+      "min": 74,
+      "entra": "CANO SANTAMARIA, MIKEL",
+      "sale": "BENAISSA AGBALOU, RAYAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "VARONA OSORIO, IKER": 90,
+    "GOTXI IARRITU, AGER": 22,
+    "ANTON CRUZ, ENEKO": 90,
+    "SABATER BAZAN, ALEX": 90,
+    "GARCIA HUARTE, MARKEL": 65,
+    "EGUIA TRUJILLANO, MIKEL": 90,
+    "GARATE BERGARA, AMETS": 40,
+    "SGHEIRI DHRARI, ZAKARIA": 65,
+    "RODRIGUEZ MARTINEZ, ANDER": 48,
+    "BALZA HERNANDEZ, ARATZ": 48,
+    "SASIAIN GIL, JON": 90,
+    "DIEGO EGIA, PEIO": 68,
+    "VEA-MURGUIA EGUREN, ENDIKA": 50,
+    "ANTON CRUZ, EKAIN": 42,
+    "PINEDO BANDERA, IXAI": 42,
+    "RODRIGUEZ MARTINEZ, JON": 25,
+    "REBOLLO LOZANO, MIKEL": 25,
+    "MARTINEZ SOLAS, IKER": 90,
+    "GONZALEZ GONZALEZ, AIMAR": 90,
+    "COULIBALY COULIBALY, HAOUROU": 90,
+    "BENAISSA AGBALOU, RAYAN": 74,
+    "LOPEZ DE LACALLE ZUÑIGA, AIMAR": 61,
+    "GONZALEZ MIEG, JUAN": 48,
+    "ZUBIA FERNANDEZ, UNAI": 90,
+    "FERRERO DIAZ, HAITZ": 90,
+    "BUSTO AGUIRREBEITIA, JON": 90,
+    "MAKHLOUFI HAMDOUN, ZAKARIEA": 48,
+    "VAQUERO GATO, MARKEL": 90,
+    "SANCHEZ VELEZ, ENOL": 42,
+    "FERNANDEZ DE LANDA ACEVEDO, MIGUEL": 42,
+    "CALVO YABAR, MARTIN": 29,
+    "CANO SANTAMARIA, MIKEL": 16
+  },
+  "portero_local": "VARONA OSORIO, IKER",
+  "portero_visitante": "MARTINEZ SOLAS, IKER",
+  "dorsales_local": {
+    "VARONA OSORIO, IKER": 13,
+    "GOTXI IARRITU, AGER": 3,
+    "ANTON CRUZ, ENEKO": 4,
+    "SABATER BAZAN, ALEX": 5,
+    "GARCIA HUARTE, MARKEL": 8,
+    "EGUIA TRUJILLANO, MIKEL": 9,
+    "GARATE BERGARA, AMETS": 10,
+    "SGHEIRI DHRARI, ZAKARIA": 11,
+    "RODRIGUEZ MARTINEZ, ANDER": 12,
+    "BALZA HERNANDEZ, ARATZ": 19,
+    "SASIAIN GIL, JON": 21
+  },
+  "dorsales_visitante": {
+    "MARTINEZ SOLAS, IKER": 13,
+    "GONZALEZ GONZALEZ, AIMAR": 2,
+    "COULIBALY COULIBALY, HAOUROU": 3,
+    "BENAISSA AGBALOU, RAYAN": 4,
+    "LOPEZ DE LACALLE ZUÑIGA, AIMAR": 6,
+    "GONZALEZ MIEG, JUAN": 7,
+    "ZUBIA FERNANDEZ, UNAI": 9,
+    "FERRERO DIAZ, HAITZ": 11,
+    "BUSTO AGUIRREBEITIA, JON": 12,
+    "MAKHLOUFI HAMDOUN, ZAKARIEA": 17,
+    "VAQUERO GATO, MARKEL": 18
+  },
+  "suspendidos": []
+}
