@@ -1,0 +1,166 @@
+{
+  "acta_id": "N_70692103",
+  "filename": "Acta_N_70692103.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "26-06-2026",
+  "hora": "12:00",
+  "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Cadete Masculino (GRUPO A)",
+  "equipo_local": "SELECCIÓN COMUNIDAD VALENCIANA",
+  "equipo_visitante": "SELECCIÓN ANDALUZA",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "MOLINO RUIZ, CLAUDIA SOFIA",
+    "ÁRBITRO 2",
+    "GURUCHARRI CASADO, VICTOR JAVIER",
+    "TERCER ÁRBITRO",
+    "VELASCO FUENTES, JUAN",
+    "CRONOMETRADOR",
+    "RODRÍGUEZ DÍAZ, JOSÉ ANTONIO"
+  ],
+  "estadio": "ROTA",
+  "ciudad": "Rota",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "PEREZ GOMEZ, LUIS MIGUEL",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "CABALLERO GOMEZ, ASIER",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "MORINI, MARCO GIUSEPPE",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "DA SILVA CANOBBIO, ERIK",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 21,
+      "jugador": "CABALLERO GOMEZ, ASIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "LUQUE ALONSO, FERRAN",
+    "GIMENO GUERRERO, ISAAC",
+    "GARCIA SOLER, ALBERTO",
+    "BARAJA VEGA, GAEL",
+    "DA SILVA CANOBBIO, ERIK"
+  ],
+  "titulares_visitante": [
+    "RUIZ BRUZON, JOSE MANUEL",
+    "PEREZ GOMEZ, LUIS MIGUEL",
+    "RAPOSO LOPEZ, JOAQUIN",
+    "PEREZ BLASCO, FERMIN",
+    "RODRIGUEZ PRIETO, FABIO JUNIOR"
+  ],
+  "suplentes_local": [
+    "RUIZ PESQUERA, ALBERTO",
+    "MORINI, MARCO GIUSEPPE",
+    "NAVARRO GRANELL, AITOR",
+    "LÉRIDA HERNÁNDEZ, SERGIO",
+    "SANTIAGO JIMENEZ, MARCOS",
+    "PONCE DIAZ, MATEO",
+    "PEREZ MARTINEZ, AITOR"
+  ],
+  "suplentes_visitante": [
+    "MARTIN GARCIA, AITOR ANTONIO",
+    "CABALLERO GOMEZ, ASIER",
+    "RONQUETE SANCHEZ, ALVARO",
+    "DIAZ BOZA, RUBEN",
+    "LARA GONZALEZ, JOSE",
+    "PINETTA LARRA, MATIAS JOSÉ",
+    "SERRANO PRAENA, SANTIAGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "RUIZ PESQUERA, ALBERTO",
+    "MORINI, MARCO GIUSEPPE",
+    "NAVARRO GRANELL, AITOR",
+    "LÉRIDA HERNÁNDEZ, SERGIO",
+    "SANTIAGO JIMENEZ, MARCOS",
+    "PONCE DIAZ, MATEO",
+    "PEREZ MARTINEZ, AITOR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MARTIN GARCIA, AITOR ANTONIO",
+    "CABALLERO GOMEZ, ASIER",
+    "RONQUETE SANCHEZ, ALVARO",
+    "DIAZ BOZA, RUBEN",
+    "LARA GONZALEZ, JOSE",
+    "PINETTA LARRA, MATIAS JOSÉ",
+    "SERRANO PRAENA, SANTIAGO"
+  ],
+  "jugadores_local": [
+    "LUQUE ALONSO, FERRAN",
+    "GIMENO GUERRERO, ISAAC",
+    "GARCIA SOLER, ALBERTO",
+    "BARAJA VEGA, GAEL",
+    "DA SILVA CANOBBIO, ERIK"
+  ],
+  "jugadores_visitante": [
+    "RUIZ BRUZON, JOSE MANUEL",
+    "PEREZ GOMEZ, LUIS MIGUEL",
+    "RAPOSO LOPEZ, JOAQUIN",
+    "PEREZ BLASCO, FERMIN",
+    "RODRIGUEZ PRIETO, FABIO JUNIOR"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "LUQUE ALONSO, FERRAN": 90,
+    "GIMENO GUERRERO, ISAAC": 90,
+    "GARCIA SOLER, ALBERTO": 90,
+    "BARAJA VEGA, GAEL": 90,
+    "DA SILVA CANOBBIO, ERIK": 90,
+    "RUIZ BRUZON, JOSE MANUEL": 90,
+    "PEREZ GOMEZ, LUIS MIGUEL": 90,
+    "RAPOSO LOPEZ, JOAQUIN": 90,
+    "PEREZ BLASCO, FERMIN": 90,
+    "RODRIGUEZ PRIETO, FABIO JUNIOR": 90
+  },
+  "portero_local": "LUQUE ALONSO, FERRAN",
+  "portero_visitante": "RUIZ BRUZON, JOSE MANUEL",
+  "dorsales_local": {
+    "LUQUE ALONSO, FERRAN": 1,
+    "GIMENO GUERRERO, ISAAC": 3,
+    "GARCIA SOLER, ALBERTO": 6,
+    "BARAJA VEGA, GAEL": 8,
+    "DA SILVA CANOBBIO, ERIK": 10
+  },
+  "dorsales_visitante": {
+    "RUIZ BRUZON, JOSE MANUEL": 1,
+    "PEREZ GOMEZ, LUIS MIGUEL": 4,
+    "RAPOSO LOPEZ, JOAQUIN": 5,
+    "PEREZ BLASCO, FERMIN": 7,
+    "RODRIGUEZ PRIETO, FABIO JUNIOR": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
