@@ -1,0 +1,273 @@
+{
+  "acta_id": "R_253300",
+  "filename": "Acta_R_253300.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 8,
+  "fecha": "29-11-2025",
+  "hora": "16:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "SIETE INFANTES Anguiano",
+  "equipo_visitante": "NAXARA",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "SAENZ VICIOSO, MANUEL"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 7 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "ARANZUBIA IBAÑEZ, JORGE",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "FERREIRA PEREZ, IVAN LEONARDO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "PESO HAGIU, CHRISTIAN",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "HERMOSILLA PEREZ, JAVIER",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 32,
+      "jugador": "ARANZUBIA IBAÑEZ, JORGE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 82,
+      "jugador": "EL BACHIRI, ESMAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "EL BACHIRI, ESMAEL",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "EL FARRECH HANAFI, ELYAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LUCEA ALONSO, ALFREDO",
+  "entrenador_visitante": "UGARTE SOMALO, MIGUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GONZALEZ PIEROLA, JORGE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GONZALEZ PIEROLA, JORGE",
+  "delegado_equipo_visitante": "LARHLID, YOUSSEF",
+  "titulares_local": [
+    "OLIVÁN ZUDAIRE, ASIER",
+    "NAVARRO AGOST, DANIEL",
+    "FERNANDEZ NAVARRO, HECTOR",
+    "MAZO HORNILLOS, HUGO",
+    "ALVAREZ CILLERO, NICOLAS",
+    "VAN STERKENBURG OLAVE, ALEX",
+    "PESO HAGIU, CHRISTIAN",
+    "MARTINEZ DIAZ, ALEJANDRO",
+    "HERMOSILLA PEREZ, JAVIER",
+    "MARMOLEJOS DIAZ, ELIAN",
+    "BOUJJA BERCH, RAYAN"
+  ],
+  "titulares_visitante": [
+    "GARCIA RUBIO, GINES",
+    "MERINO CORDOBA, JAIME",
+    "ESQUIDE MARTINEZ, CESAR",
+    "EL ABBOUBI, FAWZI",
+    "ARANZUBIA IBAÑEZ, JORGE",
+    "EL FARRECH HANAFI, ELYAS",
+    "ANTOLIN RUIZ, ERIC",
+    "GARCIA ALTUZARRA, HUGO",
+    "ANDREI, ARTUR DENIS",
+    "EL BACHIRI, ESMAEL",
+    "FERREIRA PEREZ, IVAN LEONARDO"
+  ],
+  "suplentes_local": [
+    "TRIF POPICA, EDUARD SEBASTIAN",
+    "TERROBA RIOS, ENRIQUE",
+    "MECHAKRA, LOUAI",
+    "GHINETI, COSMIN CONSTANTIN"
+  ],
+  "suplentes_visitante": [
+    "PEREZ VELASCO, GONZALO",
+    "ARRIOLA GARCIA, CARLOS",
+    "ARPON GARCIA, ALVARO",
+    "TALBI, YAHYA",
+    "MARIN GALAN, JULIAN",
+    "MARCA TURBI, BRUNO"
+  ],
+  "convocados_sin_jugar_local": [
+    "TRIF POPICA, EDUARD SEBASTIAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "TALBI, YAHYA"
+  ],
+  "jugadores_local": [
+    "OLIVÁN ZUDAIRE, ASIER",
+    "NAVARRO AGOST, DANIEL",
+    "FERNANDEZ NAVARRO, HECTOR",
+    "MAZO HORNILLOS, HUGO",
+    "ALVAREZ CILLERO, NICOLAS",
+    "VAN STERKENBURG OLAVE, ALEX",
+    "PESO HAGIU, CHRISTIAN",
+    "MARTINEZ DIAZ, ALEJANDRO",
+    "HERMOSILLA PEREZ, JAVIER",
+    "MARMOLEJOS DIAZ, ELIAN",
+    "BOUJJA BERCH, RAYAN",
+    "TERROBA RIOS, ENRIQUE",
+    "MECHAKRA, LOUAI",
+    "GHINETI, COSMIN CONSTANTIN"
+  ],
+  "jugadores_visitante": [
+    "GARCIA RUBIO, GINES",
+    "MERINO CORDOBA, JAIME",
+    "ESQUIDE MARTINEZ, CESAR",
+    "EL ABBOUBI, FAWZI",
+    "ARANZUBIA IBAÑEZ, JORGE",
+    "EL FARRECH HANAFI, ELYAS",
+    "ANTOLIN RUIZ, ERIC",
+    "GARCIA ALTUZARRA, HUGO",
+    "ANDREI, ARTUR DENIS",
+    "EL BACHIRI, ESMAEL",
+    "FERREIRA PEREZ, IVAN LEONARDO",
+    "MARCA TURBI, BRUNO",
+    "ARPON GARCIA, ALVARO",
+    "PEREZ VELASCO, GONZALO",
+    "MARIN GALAN, JULIAN",
+    "ARRIOLA GARCIA, CARLOS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "TERROBA RIOS, ENRIQUE",
+      "sale": "NAVARRO AGOST, DANIEL"
+    },
+    {
+      "min": 66,
+      "entra": "MECHAKRA, LOUAI",
+      "sale": "ALVAREZ CILLERO, NICOLAS"
+    },
+    {
+      "min": 73,
+      "entra": "GHINETI, COSMIN CONSTANTIN",
+      "sale": "MARMOLEJOS DIAZ, ELIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 65,
+      "entra": "MARCA TURBI, BRUNO",
+      "sale": "ARANZUBIA IBAÑEZ, JORGE"
+    },
+    {
+      "min": 65,
+      "entra": "ARPON GARCIA, ALVARO",
+      "sale": "EL ABBOUBI, FAWZI"
+    },
+    {
+      "min": 73,
+      "entra": "PEREZ VELASCO, GONZALO",
+      "sale": "GARCIA RUBIO, GINES"
+    },
+    {
+      "min": 73,
+      "entra": "MARIN GALAN, JULIAN",
+      "sale": "ANDREI, ARTUR DENIS"
+    },
+    {
+      "min": 73,
+      "entra": "ARRIOLA GARCIA, CARLOS",
+      "sale": "ESQUIDE MARTINEZ, CESAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "OLIVÁN ZUDAIRE, ASIER": 90,
+    "NAVARRO AGOST, DANIEL": 46,
+    "FERNANDEZ NAVARRO, HECTOR": 90,
+    "MAZO HORNILLOS, HUGO": 90,
+    "ALVAREZ CILLERO, NICOLAS": 66,
+    "VAN STERKENBURG OLAVE, ALEX": 90,
+    "PESO HAGIU, CHRISTIAN": 90,
+    "MARTINEZ DIAZ, ALEJANDRO": 90,
+    "HERMOSILLA PEREZ, JAVIER": 90,
+    "MARMOLEJOS DIAZ, ELIAN": 73,
+    "BOUJJA BERCH, RAYAN": 90,
+    "TERROBA RIOS, ENRIQUE": 44,
+    "MECHAKRA, LOUAI": 24,
+    "GHINETI, COSMIN CONSTANTIN": 17,
+    "GARCIA RUBIO, GINES": 73,
+    "MERINO CORDOBA, JAIME": 90,
+    "ESQUIDE MARTINEZ, CESAR": 73,
+    "EL ABBOUBI, FAWZI": 65,
+    "ARANZUBIA IBAÑEZ, JORGE": 65,
+    "EL FARRECH HANAFI, ELYAS": 90,
+    "ANTOLIN RUIZ, ERIC": 90,
+    "GARCIA ALTUZARRA, HUGO": 90,
+    "ANDREI, ARTUR DENIS": 73,
+    "EL BACHIRI, ESMAEL": 90,
+    "FERREIRA PEREZ, IVAN LEONARDO": 90,
+    "MARCA TURBI, BRUNO": 25,
+    "ARPON GARCIA, ALVARO": 25,
+    "PEREZ VELASCO, GONZALO": 17,
+    "MARIN GALAN, JULIAN": 17,
+    "ARRIOLA GARCIA, CARLOS": 17
+  },
+  "portero_local": "OLIVÁN ZUDAIRE, ASIER",
+  "portero_visitante": "GARCIA RUBIO, GINES",
+  "dorsales_local": {
+    "OLIVÁN ZUDAIRE, ASIER": 13,
+    "NAVARRO AGOST, DANIEL": 2,
+    "FERNANDEZ NAVARRO, HECTOR": 3,
+    "MAZO HORNILLOS, HUGO": 5,
+    "ALVAREZ CILLERO, NICOLAS": 7,
+    "VAN STERKENBURG OLAVE, ALEX": 8,
+    "PESO HAGIU, CHRISTIAN": 11,
+    "MARTINEZ DIAZ, ALEJANDRO": 15,
+    "HERMOSILLA PEREZ, JAVIER": 19,
+    "MARMOLEJOS DIAZ, ELIAN": 20,
+    "BOUJJA BERCH, RAYAN": 24
+  },
+  "dorsales_visitante": {
+    "GARCIA RUBIO, GINES": 1,
+    "MERINO CORDOBA, JAIME": 2,
+    "ESQUIDE MARTINEZ, CESAR": 6,
+    "EL ABBOUBI, FAWZI": 7,
+    "ARANZUBIA IBAÑEZ, JORGE": 8,
+    "EL FARRECH HANAFI, ELYAS": 12,
+    "ANTOLIN RUIZ, ERIC": 18,
+    "GARCIA ALTUZARRA, HUGO": 21,
+    "ANDREI, ARTUR DENIS": 24,
+    "EL BACHIRI, ESMAEL": 25,
+    "FERREIRA PEREZ, IVAN LEONARDO": 30
+  },
+  "suspendidos": [
+    "EL BACHIRI, ESMAEL"
+  ],
+  "_marcador_widget": true
+}
