@@ -1,0 +1,232 @@
+{
+  "acta_id": "NA_25449700",
+  "filename": "Acta_NA_25449700.txt",
+  "fuente": "navarra",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "25-05-2026",
+  "hora": "20:00",
+  "categoria": "Copa Tercera Federación de Futbol Femenino - Eliminatorias (Eliminatorias)",
+  "equipo_local": "Berriozar C.F.",
+  "equipo_visitante": "U.D. Mutilvera",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "Hernandez Salvo, Julen",
+    "Árbitro Asistente",
+    "Barma Angulo, Adoum Djibrile",
+    "Árbitro Asistente",
+    "Pérez Bes, Víctor"
+  ],
+  "estadio": "Municipal de Berriozar",
+  "ciudad": "Berriozar",
+  "goleadores": [
+    {
+      "minuto": 68,
+      "jugador": "Tabar Ilundain, Ainara",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 87,
+      "jugador": "Oviedo Salvatierra, Edurne",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 87,
+      "jugador": "U.D. Mutilvera",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Viana Ripa, David",
+  "entrenador_visitante": "Rivera Sanchez, David",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "Asurmendi Medina, Francisco Javier",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "Asurmendi Medina, Francisco Javier",
+  "delegado_equipo_visitante": "PASCUAL CINTERO, JOSE ANTONIO",
+  "titulares_local": [
+    "San Roman Alvarez, Rebeca",
+    "Enriquez Frutos, Ana",
+    "RUIZ ANSORENA, AINARA",
+    "Ortigosa Vera, Amaia",
+    "Abril Marquez, Paula",
+    "Perez San Francisco, Irati",
+    "Gomez Izura, Joana",
+    "Sagüés Binué, Ainhoa",
+    "Aguirre Ibero, IRANZU",
+    "Tabar Ilundain, Ainara",
+    "Leceaga Asiain, Janire"
+  ],
+  "titulares_visitante": [
+    "Quevedo Laquidain, Juncal",
+    "Zabalza Ucar, Alba",
+    "Asarta Armendariz, Edurne",
+    "Valcarlos Beades, Daniela",
+    "Lopez Diaz, Beatriz",
+    "Paternain Hernandez, Nahia",
+    "Gonzalez Perez, Silvia",
+    "Mladenova Ruseva, Victoria",
+    "Lacarra Pellejero, Leire",
+    "Insausti Mendoza, Vera",
+    "Samitier Olaverri, Marina"
+  ],
+  "suplentes_local": [
+    "Pedro Berzal, Luana",
+    "Ferreira Vidondo, Aroa",
+    "ITURRIOZ IRASTORZA, MAREN",
+    "Oviedo Salvatierra, Edurne",
+    "HUETTEN, MAKENNA MARIE"
+  ],
+  "suplentes_visitante": [
+    "Guembe Conde, Alba",
+    "Tolosa Gomez, Claudia",
+    "Etxenike Beroiz, Naroa",
+    "Laquidain Zalba, Jone",
+    "Montero Nieves, Uxue",
+    "Benito Oderiz, Nahia"
+  ],
+  "convocados_sin_jugar_local": [
+    "Pedro Berzal, Luana",
+    "ITURRIOZ IRASTORZA, MAREN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "Etxenike Beroiz, Naroa",
+    "Laquidain Zalba, Jone",
+    "Montero Nieves, Uxue"
+  ],
+  "jugadores_local": [
+    "San Roman Alvarez, Rebeca",
+    "Enriquez Frutos, Ana",
+    "RUIZ ANSORENA, AINARA",
+    "Ortigosa Vera, Amaia",
+    "Abril Marquez, Paula",
+    "Perez San Francisco, Irati",
+    "Gomez Izura, Joana",
+    "Sagüés Binué, Ainhoa",
+    "Aguirre Ibero, IRANZU",
+    "Tabar Ilundain, Ainara",
+    "Leceaga Asiain, Janire",
+    "Ferreira Vidondo, Aroa",
+    "HUETTEN, MAKENNA MARIE",
+    "Oviedo Salvatierra, Edurne"
+  ],
+  "jugadores_visitante": [
+    "Quevedo Laquidain, Juncal",
+    "Zabalza Ucar, Alba",
+    "Asarta Armendariz, Edurne",
+    "Valcarlos Beades, Daniela",
+    "Lopez Diaz, Beatriz",
+    "Paternain Hernandez, Nahia",
+    "Gonzalez Perez, Silvia",
+    "Mladenova Ruseva, Victoria",
+    "Lacarra Pellejero, Leire",
+    "Insausti Mendoza, Vera",
+    "Samitier Olaverri, Marina",
+    "Benito Oderiz, Nahia",
+    "Guembe Conde, Alba",
+    "Tolosa Gomez, Claudia"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 63,
+      "entra": "Ferreira Vidondo, Aroa",
+      "sale": "RUIZ ANSORENA, AINARA"
+    },
+    {
+      "min": 63,
+      "entra": "HUETTEN, MAKENNA MARIE",
+      "sale": "Gomez Izura, Joana"
+    },
+    {
+      "min": 72,
+      "entra": "Oviedo Salvatierra, Edurne",
+      "sale": "Sagüés Binué, Ainhoa"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 68,
+      "entra": "Benito Oderiz, Nahia",
+      "sale": "Insausti Mendoza, Vera"
+    },
+    {
+      "min": 68,
+      "entra": "Guembe Conde, Alba",
+      "sale": "Lacarra Pellejero, Leire"
+    },
+    {
+      "min": 78,
+      "entra": "Tolosa Gomez, Claudia",
+      "sale": "Asarta Armendariz, Edurne"
+    }
+  ],
+  "minutos_jugadores": {
+    "San Roman Alvarez, Rebeca": 90,
+    "Enriquez Frutos, Ana": 90,
+    "RUIZ ANSORENA, AINARA": 63,
+    "Ortigosa Vera, Amaia": 90,
+    "Abril Marquez, Paula": 90,
+    "Perez San Francisco, Irati": 90,
+    "Gomez Izura, Joana": 63,
+    "Sagüés Binué, Ainhoa": 72,
+    "Aguirre Ibero, IRANZU": 90,
+    "Tabar Ilundain, Ainara": 90,
+    "Leceaga Asiain, Janire": 90,
+    "Ferreira Vidondo, Aroa": 27,
+    "HUETTEN, MAKENNA MARIE": 27,
+    "Oviedo Salvatierra, Edurne": 18,
+    "Quevedo Laquidain, Juncal": 90,
+    "Zabalza Ucar, Alba": 90,
+    "Asarta Armendariz, Edurne": 78,
+    "Valcarlos Beades, Daniela": 90,
+    "Lopez Diaz, Beatriz": 90,
+    "Paternain Hernandez, Nahia": 90,
+    "Gonzalez Perez, Silvia": 90,
+    "Mladenova Ruseva, Victoria": 90,
+    "Lacarra Pellejero, Leire": 68,
+    "Insausti Mendoza, Vera": 68,
+    "Samitier Olaverri, Marina": 90,
+    "Benito Oderiz, Nahia": 22,
+    "Guembe Conde, Alba": 22,
+    "Tolosa Gomez, Claudia": 12
+  },
+  "portero_local": "San Roman Alvarez, Rebeca",
+  "portero_visitante": "Quevedo Laquidain, Juncal",
+  "dorsales_local": {
+    "San Roman Alvarez, Rebeca": 1,
+    "Enriquez Frutos, Ana": 4,
+    "RUIZ ANSORENA, AINARA": 6,
+    "Ortigosa Vera, Amaia": 7,
+    "Abril Marquez, Paula": 8,
+    "Perez San Francisco, Irati": 9,
+    "Gomez Izura, Joana": 12,
+    "Sagüés Binué, Ainhoa": 14,
+    "Aguirre Ibero, IRANZU": 15,
+    "Tabar Ilundain, Ainara": 19,
+    "Leceaga Asiain, Janire": 22
+  },
+  "dorsales_visitante": {
+    "Quevedo Laquidain, Juncal": 25,
+    "Zabalza Ucar, Alba": 2,
+    "Asarta Armendariz, Edurne": 3,
+    "Valcarlos Beades, Daniela": 6,
+    "Lopez Diaz, Beatriz": 7,
+    "Paternain Hernandez, Nahia": 9,
+    "Gonzalez Perez, Silvia": 10,
+    "Mladenova Ruseva, Victoria": 14,
+    "Lacarra Pellejero, Leire": 17,
+    "Insausti Mendoza, Vera": 20,
+    "Samitier Olaverri, Marina": 22
+  },
+  "suspendidos": []
+}
