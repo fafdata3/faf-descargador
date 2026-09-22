@@ -1,0 +1,269 @@
+{
+  "acta_id": "R_243323",
+  "filename": "Acta_R_243323.txt",
+  "fuente": "rioja",
+  "temporada": "2024-2025",
+  "jornada": 30,
+  "fecha": "04-05-2025",
+  "hora": "12:00",
+  "categoria": "REGIONAL PREFERENTE (Grupo Único)",
+  "equipo_local": "VAREA Promesas B",
+  "equipo_visitante": "SD LOGROÑES B",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "COCIUBAN, ALEXANDRU GEORGIAN",
+    "Árbitro Asistente",
+    "BANDAOGO, SOUMAILA",
+    "Árbitro Asistente",
+    "SALINAS GIL, RAUL"
+  ],
+  "estadio": "C.M. ANGEL AGUADO - H.A. (VAREA-LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "OCON PINILLOS, EDUARDO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 84,
+      "jugador": "SANCHEZ GARCIA, DAVID",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 18,
+      "jugador": "PEREZ PEÑA, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "ALVAREZ ALVAREZ, JAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "SAENZ MERINO, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "SD LOGROÑES B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PEREZ ORTEGA, RUBEN",
+  "entrenador_visitante": "GAJATE SANTAMARIA, EDUARDO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAENZ PUENTE, LUIS A",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAENZ PUENTE, LUIS A",
+  "delegado_equipo_visitante": "RUIZ DE OÑA CALVAR, ALBERTO",
+  "titulares_local": [
+    "TIERNO GARCIA, JAIME",
+    "PEREZ PEÑA, ALEJANDRO",
+    "ESPINOSA PINTOS, TOMÁS A",
+    "RAMOS PEREZ, JORGE",
+    "SAENZ LAMAZARES, JORGE",
+    "SAENZ VAL, ALEJANDRO",
+    "SANCHEZ GARCIA, DAVID",
+    "ALVAREZ ALVAREZ, JAVIER",
+    "GONZALEZ PEREZ, JESUS",
+    "GODOY DURAN, NICOLAS",
+    "ORUEZABAL SANTANDER, BRUNO"
+  ],
+  "titulares_visitante": [
+    "MORENO BACHILLER, IKER",
+    "MONTALVO MARTINEZ, ADRIAN",
+    "MARTINEZ BARRIO, RAUL",
+    "HERNANDO GARCIA, IVAN",
+    "MENDAZA GARCIA, RODRIGO",
+    "JALLOW KANTEH, OUSMANE",
+    "PEREZ ZABALA, BORJA",
+    "ORTE DE SANTIAGO, ENRIQUE",
+    "OCON PINILLOS, EDUARDO",
+    "NESTARES BAZO, GONZALO",
+    "LOMBARDO JIMENEZ, POL"
+  ],
+  "suplentes_local": [
+    "BERNALDO Q MORALES, MARCOS",
+    "NOUHI ANGRI, ABDELBARI",
+    "SAENZ MERINO, DANIEL",
+    "SALAS SANTAMARIA, PABLO",
+    "LIZAR IBAÑEZ, JORGE",
+    "MORALES LASHERAS, CARLOS",
+    "MARTINEZ FERNANDEZ, MARCOS"
+  ],
+  "suplentes_visitante": [
+    "MARTINEZ OCHOA, ANGEL",
+    "ORTE DE SANTIAGO, SERGIO",
+    "REYES RODRIGUEZ, JEREMY RODRIGO",
+    "SAN MARTIN ROADE, JAVIER",
+    "FAJARDO MAGALLANES, WILLIAM ALEXANDER",
+    "SAN MARTIN PEREZ, DAVID"
+  ],
+  "convocados_sin_jugar_local": [
+    "BERNALDO Q MORALES, MARCOS",
+    "LIZAR IBAÑEZ, JORGE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MARTINEZ OCHOA, ANGEL",
+    "REYES RODRIGUEZ, JEREMY RODRIGO",
+    "SAN MARTIN ROADE, JAVIER"
+  ],
+  "jugadores_local": [
+    "TIERNO GARCIA, JAIME",
+    "PEREZ PEÑA, ALEJANDRO",
+    "ESPINOSA PINTOS, TOMÁS A",
+    "RAMOS PEREZ, JORGE",
+    "SAENZ LAMAZARES, JORGE",
+    "SAENZ VAL, ALEJANDRO",
+    "SANCHEZ GARCIA, DAVID",
+    "ALVAREZ ALVAREZ, JAVIER",
+    "GONZALEZ PEREZ, JESUS",
+    "GODOY DURAN, NICOLAS",
+    "ORUEZABAL SANTANDER, BRUNO",
+    "MORALES LASHERAS, CARLOS",
+    "SALAS SANTAMARIA, PABLO",
+    "MARTINEZ FERNANDEZ, MARCOS",
+    "NOUHI ANGRI, ABDELBARI",
+    "SAENZ MERINO, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "MORENO BACHILLER, IKER",
+    "MONTALVO MARTINEZ, ADRIAN",
+    "MARTINEZ BARRIO, RAUL",
+    "HERNANDO GARCIA, IVAN",
+    "MENDAZA GARCIA, RODRIGO",
+    "JALLOW KANTEH, OUSMANE",
+    "PEREZ ZABALA, BORJA",
+    "ORTE DE SANTIAGO, ENRIQUE",
+    "OCON PINILLOS, EDUARDO",
+    "NESTARES BAZO, GONZALO",
+    "LOMBARDO JIMENEZ, POL",
+    "SAN MARTIN PEREZ, DAVID",
+    "FAJARDO MAGALLANES, WILLIAM ALEXANDER",
+    "ORTE DE SANTIAGO, SERGIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "MORALES LASHERAS, CARLOS",
+      "sale": "PEREZ PEÑA, ALEJANDRO"
+    },
+    {
+      "min": 67,
+      "entra": "SALAS SANTAMARIA, PABLO",
+      "sale": "SAENZ VAL, ALEJANDRO"
+    },
+    {
+      "min": 67,
+      "entra": "MARTINEZ FERNANDEZ, MARCOS",
+      "sale": "GODOY DURAN, NICOLAS"
+    },
+    {
+      "min": 67,
+      "entra": "NOUHI ANGRI, ABDELBARI",
+      "sale": "RAMOS PEREZ, JORGE"
+    },
+    {
+      "min": 80,
+      "entra": "SAENZ MERINO, DANIEL",
+      "sale": "GONZALEZ PEREZ, JESUS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "SAN MARTIN PEREZ, DAVID",
+      "sale": "NESTARES BAZO, GONZALO"
+    },
+    {
+      "min": 75,
+      "entra": "FAJARDO MAGALLANES, WILLIAM ALEXANDER",
+      "sale": "JALLOW KANTEH, OUSMANE"
+    },
+    {
+      "min": 82,
+      "entra": "ORTE DE SANTIAGO, SERGIO",
+      "sale": "MONTALVO MARTINEZ, ADRIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "TIERNO GARCIA, JAIME": 90,
+    "PEREZ PEÑA, ALEJANDRO": 46,
+    "ESPINOSA PINTOS, TOMÁS A": 90,
+    "RAMOS PEREZ, JORGE": 67,
+    "SAENZ LAMAZARES, JORGE": 90,
+    "SAENZ VAL, ALEJANDRO": 67,
+    "SANCHEZ GARCIA, DAVID": 90,
+    "ALVAREZ ALVAREZ, JAVIER": 90,
+    "GONZALEZ PEREZ, JESUS": 80,
+    "GODOY DURAN, NICOLAS": 67,
+    "ORUEZABAL SANTANDER, BRUNO": 90,
+    "MORALES LASHERAS, CARLOS": 44,
+    "SALAS SANTAMARIA, PABLO": 23,
+    "MARTINEZ FERNANDEZ, MARCOS": 23,
+    "NOUHI ANGRI, ABDELBARI": 23,
+    "SAENZ MERINO, DANIEL": 10,
+    "MORENO BACHILLER, IKER": 90,
+    "MONTALVO MARTINEZ, ADRIAN": 82,
+    "MARTINEZ BARRIO, RAUL": 90,
+    "HERNANDO GARCIA, IVAN": 90,
+    "MENDAZA GARCIA, RODRIGO": 90,
+    "JALLOW KANTEH, OUSMANE": 75,
+    "PEREZ ZABALA, BORJA": 90,
+    "ORTE DE SANTIAGO, ENRIQUE": 90,
+    "OCON PINILLOS, EDUARDO": 90,
+    "NESTARES BAZO, GONZALO": 46,
+    "LOMBARDO JIMENEZ, POL": 90,
+    "SAN MARTIN PEREZ, DAVID": 44,
+    "FAJARDO MAGALLANES, WILLIAM ALEXANDER": 15,
+    "ORTE DE SANTIAGO, SERGIO": 8
+  },
+  "portero_local": "TIERNO GARCIA, JAIME",
+  "portero_visitante": "MORENO BACHILLER, IKER",
+  "dorsales_local": {
+    "TIERNO GARCIA, JAIME": 13,
+    "PEREZ PEÑA, ALEJANDRO": 3,
+    "ESPINOSA PINTOS, TOMÁS A": 4,
+    "RAMOS PEREZ, JORGE": 9,
+    "SAENZ LAMAZARES, JORGE": 10,
+    "SAENZ VAL, ALEJANDRO": 11,
+    "SANCHEZ GARCIA, DAVID": 14,
+    "ALVAREZ ALVAREZ, JAVIER": 15,
+    "GONZALEZ PEREZ, JESUS": 19,
+    "GODOY DURAN, NICOLAS": 21,
+    "ORUEZABAL SANTANDER, BRUNO": 24
+  },
+  "dorsales_visitante": {
+    "MORENO BACHILLER, IKER": 1,
+    "MONTALVO MARTINEZ, ADRIAN": 2,
+    "MARTINEZ BARRIO, RAUL": 4,
+    "HERNANDO GARCIA, IVAN": 7,
+    "MENDAZA GARCIA, RODRIGO": 8,
+    "JALLOW KANTEH, OUSMANE": 9,
+    "PEREZ ZABALA, BORJA": 15,
+    "ORTE DE SANTIAGO, ENRIQUE": 17,
+    "OCON PINILLOS, EDUARDO": 21,
+    "NESTARES BAZO, GONZALO": 22,
+    "LOMBARDO JIMENEZ, POL": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
