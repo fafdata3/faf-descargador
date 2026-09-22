@@ -1,0 +1,257 @@
+{
+  "acta_id": "R_254048",
+  "filename": "Acta_R_254048.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "29-11-2025",
+  "hora": "17:30",
+  "categoria": "CADETE FEMENINO (Grupo Único)",
+  "equipo_local": "UD LOGROÑES",
+  "equipo_visitante": "SD LOGROÑES A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "VASALDUA JUSTO, RAQUEL"
+  ],
+  "estadio": "CIUDAD DEPORTIVA U.D. LOGROÑES - H.A. - 3 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "DE CORTA MARTINEZ, SARA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "DOMINGUEZ PITA, IRIA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "DEL RIO CUADRA, NYDIA",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "DE CORTA MARTINEZ, SARA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "DOMINGUEZ PITA, IRIA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "SD LOGROÑES A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JORDEDO PAJARO, LUIS ANGEL",
+  "entrenador_visitante": "HIERRO ARGAIZ, IKER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DEL CAMPO VIZUETE, JOSE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DEL CAMPO VIZUETE, JOSE",
+  "delegado_equipo_visitante": "VALER PEREZ, SAUL",
+  "titulares_local": [
+    "SOLANA GARCIA, VALERIA",
+    "DE CORTA MARTINEZ, SARA",
+    "PEREZ H GUTIERREZ R, AMELIA",
+    "PEÑA ITURRIOZ, SOFIA",
+    "PINILLOS RUIZ, PAULA",
+    "DEL RIO CUADRA, CLAUDIA",
+    "DEL CAMPO GAMARRA, DANIELLA",
+    "PINILLOS MARIN, LUCIA",
+    "RUIZ RINCON, CLAUDIA",
+    "LANGARICA FERNANDEZ, MARTINA",
+    "DOMINGUEZ PITA, IRIA"
+  ],
+  "titulares_visitante": [
+    "RUIZ DE OÑA MARTINEZ, NAIA",
+    "CASTRO ORIO, YANIRE",
+    "GIMENEZ DULCE, MARIANA",
+    "TENA FERNANDEZ, SARA",
+    "FERNANDEZ LAZARO, ROSA",
+    "MAGUREGUI VELILLA, SARA",
+    "VALLEJO CENGOTITA, EVA",
+    "SÁNCHEZ VÁZQUEZ, PATRICIA",
+    "ORIO SANTAOLALLA, CLAUDIA",
+    "STEFANINI BLANCO, SOFIA",
+    "AKA FERNANDEZ, ARIANE"
+  ],
+  "suplentes_local": [
+    "PALACIOS CHECA, CELIA",
+    "PILOÑETA GARCIA, AFRICA",
+    "EL JABOURI LAMKADEM, WIAM",
+    "MARINA ZANGRONIZ, JIMENA",
+    "DEL RIO CUADRA, NYDIA",
+    "RUEDA CASTRO, ADRIANA"
+  ],
+  "suplentes_visitante": [
+    "JALON BERNEDO, ADRIANA",
+    "PEREZ GONZALEZ, CASILDA",
+    "MALDONADO MARTIN, NAHIA",
+    "JABLI ESSAKHI, INAS"
+  ],
+  "convocados_sin_jugar_local": [
+    "PALACIOS CHECA, CELIA",
+    "PILOÑETA GARCIA, AFRICA"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SOLANA GARCIA, VALERIA",
+    "DE CORTA MARTINEZ, SARA",
+    "PEREZ H GUTIERREZ R, AMELIA",
+    "PEÑA ITURRIOZ, SOFIA",
+    "PINILLOS RUIZ, PAULA",
+    "DEL RIO CUADRA, CLAUDIA",
+    "DEL CAMPO GAMARRA, DANIELLA",
+    "PINILLOS MARIN, LUCIA",
+    "RUIZ RINCON, CLAUDIA",
+    "LANGARICA FERNANDEZ, MARTINA",
+    "DOMINGUEZ PITA, IRIA",
+    "MARINA ZANGRONIZ, JIMENA",
+    "DEL RIO CUADRA, NYDIA",
+    "RUEDA CASTRO, ADRIANA",
+    "EL JABOURI LAMKADEM, WIAM"
+  ],
+  "jugadores_visitante": [
+    "RUIZ DE OÑA MARTINEZ, NAIA",
+    "CASTRO ORIO, YANIRE",
+    "GIMENEZ DULCE, MARIANA",
+    "TENA FERNANDEZ, SARA",
+    "FERNANDEZ LAZARO, ROSA",
+    "MAGUREGUI VELILLA, SARA",
+    "VALLEJO CENGOTITA, EVA",
+    "SÁNCHEZ VÁZQUEZ, PATRICIA",
+    "ORIO SANTAOLALLA, CLAUDIA",
+    "STEFANINI BLANCO, SOFIA",
+    "AKA FERNANDEZ, ARIANE",
+    "JALON BERNEDO, ADRIANA",
+    "PEREZ GONZALEZ, CASILDA",
+    "JABLI ESSAKHI, INAS",
+    "MALDONADO MARTIN, NAHIA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "MARINA ZANGRONIZ, JIMENA",
+      "sale": "PEÑA ITURRIOZ, SOFIA"
+    },
+    {
+      "min": 59,
+      "entra": "DEL RIO CUADRA, NYDIA",
+      "sale": "DE CORTA MARTINEZ, SARA"
+    },
+    {
+      "min": 68,
+      "entra": "RUEDA CASTRO, ADRIANA",
+      "sale": "PINILLOS RUIZ, PAULA"
+    },
+    {
+      "min": 72,
+      "entra": "EL JABOURI LAMKADEM, WIAM",
+      "sale": "LANGARICA FERNANDEZ, MARTINA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "JALON BERNEDO, ADRIANA",
+      "sale": "RUIZ DE OÑA MARTINEZ, NAIA"
+    },
+    {
+      "min": 46,
+      "entra": "PEREZ GONZALEZ, CASILDA",
+      "sale": "ORIO SANTAOLALLA, CLAUDIA"
+    },
+    {
+      "min": 60,
+      "entra": "JABLI ESSAKHI, INAS",
+      "sale": "TENA FERNANDEZ, SARA"
+    },
+    {
+      "min": 66,
+      "entra": "MALDONADO MARTIN, NAHIA",
+      "sale": "STEFANINI BLANCO, SOFIA"
+    }
+  ],
+  "minutos_jugadores": {
+    "SOLANA GARCIA, VALERIA": 90,
+    "DE CORTA MARTINEZ, SARA": 59,
+    "PEREZ H GUTIERREZ R, AMELIA": 90,
+    "PEÑA ITURRIOZ, SOFIA": 59,
+    "PINILLOS RUIZ, PAULA": 68,
+    "DEL RIO CUADRA, CLAUDIA": 90,
+    "DEL CAMPO GAMARRA, DANIELLA": 90,
+    "PINILLOS MARIN, LUCIA": 90,
+    "RUIZ RINCON, CLAUDIA": 90,
+    "LANGARICA FERNANDEZ, MARTINA": 72,
+    "DOMINGUEZ PITA, IRIA": 90,
+    "MARINA ZANGRONIZ, JIMENA": 31,
+    "DEL RIO CUADRA, NYDIA": 31,
+    "RUEDA CASTRO, ADRIANA": 22,
+    "EL JABOURI LAMKADEM, WIAM": 18,
+    "RUIZ DE OÑA MARTINEZ, NAIA": 41,
+    "CASTRO ORIO, YANIRE": 90,
+    "GIMENEZ DULCE, MARIANA": 90,
+    "TENA FERNANDEZ, SARA": 60,
+    "FERNANDEZ LAZARO, ROSA": 90,
+    "MAGUREGUI VELILLA, SARA": 90,
+    "VALLEJO CENGOTITA, EVA": 90,
+    "SÁNCHEZ VÁZQUEZ, PATRICIA": 90,
+    "ORIO SANTAOLALLA, CLAUDIA": 46,
+    "STEFANINI BLANCO, SOFIA": 66,
+    "AKA FERNANDEZ, ARIANE": 90,
+    "JALON BERNEDO, ADRIANA": 49,
+    "PEREZ GONZALEZ, CASILDA": 44,
+    "JABLI ESSAKHI, INAS": 30,
+    "MALDONADO MARTIN, NAHIA": 24
+  },
+  "portero_local": "SOLANA GARCIA, VALERIA",
+  "portero_visitante": "RUIZ DE OÑA MARTINEZ, NAIA",
+  "dorsales_local": {
+    "SOLANA GARCIA, VALERIA": 13,
+    "DE CORTA MARTINEZ, SARA": 3,
+    "PEREZ H GUTIERREZ R, AMELIA": 4,
+    "PEÑA ITURRIOZ, SOFIA": 5,
+    "PINILLOS RUIZ, PAULA": 6,
+    "DEL RIO CUADRA, CLAUDIA": 7,
+    "DEL CAMPO GAMARRA, DANIELLA": 8,
+    "PINILLOS MARIN, LUCIA": 10,
+    "RUIZ RINCON, CLAUDIA": 20,
+    "LANGARICA FERNANDEZ, MARTINA": 21,
+    "DOMINGUEZ PITA, IRIA": 22
+  },
+  "dorsales_visitante": {
+    "RUIZ DE OÑA MARTINEZ, NAIA": 1,
+    "CASTRO ORIO, YANIRE": 4,
+    "GIMENEZ DULCE, MARIANA": 6,
+    "TENA FERNANDEZ, SARA": 7,
+    "FERNANDEZ LAZARO, ROSA": 9,
+    "MAGUREGUI VELILLA, SARA": 10,
+    "VALLEJO CENGOTITA, EVA": 11,
+    "SÁNCHEZ VÁZQUEZ, PATRICIA": 16,
+    "ORIO SANTAOLALLA, CLAUDIA": 17,
+    "STEFANINI BLANCO, SOFIA": 18,
+    "AKA FERNANDEZ, ARIANE": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
