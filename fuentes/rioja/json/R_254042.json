@@ -1,0 +1,254 @@
+{
+  "acta_id": "R_254042",
+  "filename": "Acta_R_254042.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 5,
+  "fecha": "22-11-2025",
+  "hora": "10:00",
+  "categoria": "CADETE FEMENINO (Grupo Único)",
+  "equipo_local": "VERDIBLANCOS PRADEJON",
+  "equipo_visitante": "EFB ALFARO Pastelería Lacal",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "KHAN PARVEEN, SHAHZAD"
+  ],
+  "estadio": "CAMPO MUNICIPAL - H.A. (PRADEJON)",
+  "ciudad": "Pradejón",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "CUARTERO MALUMBRES, ELENA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "MIGUEL CORDON, ANA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "LAHRACH, HIBA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "ARELLANO SESMA, LORENA VILLAR",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "LAHRACH, HIBA",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 59,
+      "jugador": "EZQUERRO CORDON, JIMENA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "EFB ALFARO Pastelería Lacal",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ASENSIO CASPE, SHEILA",
+  "entrenador_visitante": "LACAL PEJENAUTE, EDUARDO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "EZQUERRO JUSTICIA, VICTOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "EZQUERRO JUSTICIA, VICTOR",
+  "delegado_equipo_visitante": "SAINZ GRANDES, FRANCISCO MANUEL",
+  "titulares_local": [
+    "RUIZ MARTINEZ, ALAZNE",
+    "TUFAN EZQUERRO, CLAUDIA",
+    "EZQUERRO EZQUERRO, CAROLINA",
+    "EZQUERRO CORDON, JIMENA",
+    "QOTTAYA, ROMAISSAE",
+    "LOPEZ REINARES, SOFIA",
+    "HARTO SANZ, VEGA",
+    "PROVEDO CALVO, REBECA",
+    "LAHRACH, HIBA",
+    "CUARTERO MALUMBRES, ELENA",
+    "MIGUEL CORDON, ANA"
+  ],
+  "titulares_visitante": [
+    "GURRIA CUARTERO, BLANCA",
+    "GARCIA USTAROZ, GISSELA",
+    "QUAKIL MARSLY, LINA",
+    "ARELLANO SESMA, LORENA VILLAR",
+    "MARTINEZ RUIZ, ANDREA",
+    "SAINZ FERNANDEZ, CRISTINA",
+    "GIL FERNANDEZ, MARIA",
+    "VALVERDE ANGUIANO, ENMA",
+    "ARELLANO CASTILLO, MARTA ISABEL",
+    "PRECIADO ZUBIETA, NAHIA",
+    "LACAL FRANCES, CLAUDIA"
+  ],
+  "suplentes_local": [
+    "MONTERO PARDO, NAIARA",
+    "JIMENEZ CALVO, CANDELA",
+    "PELLEJERO PARRA, WENDY",
+    "GIL GALLARDO RUIZ, ZURIÑE"
+  ],
+  "suplentes_visitante": [
+    "MARIA MESA, JULIA MIGUELA",
+    "VITRIAN LOPEZ, SARA",
+    "NAVASCUES GALDAMEZ, INES",
+    "ALMANSA GARCIA, OLIVIA",
+    "ARMENDARIZ GALDAMEZ, MARIA"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "MARIA MESA, JULIA MIGUELA",
+    "ARMENDARIZ GALDAMEZ, MARIA"
+  ],
+  "jugadores_local": [
+    "RUIZ MARTINEZ, ALAZNE",
+    "TUFAN EZQUERRO, CLAUDIA",
+    "EZQUERRO EZQUERRO, CAROLINA",
+    "EZQUERRO CORDON, JIMENA",
+    "QOTTAYA, ROMAISSAE",
+    "LOPEZ REINARES, SOFIA",
+    "HARTO SANZ, VEGA",
+    "PROVEDO CALVO, REBECA",
+    "LAHRACH, HIBA",
+    "CUARTERO MALUMBRES, ELENA",
+    "MIGUEL CORDON, ANA",
+    "JIMENEZ CALVO, CANDELA",
+    "MONTERO PARDO, NAIARA",
+    "PELLEJERO PARRA, WENDY",
+    "GIL GALLARDO RUIZ, ZURIÑE"
+  ],
+  "jugadores_visitante": [
+    "GURRIA CUARTERO, BLANCA",
+    "GARCIA USTAROZ, GISSELA",
+    "QUAKIL MARSLY, LINA",
+    "ARELLANO SESMA, LORENA VILLAR",
+    "MARTINEZ RUIZ, ANDREA",
+    "SAINZ FERNANDEZ, CRISTINA",
+    "GIL FERNANDEZ, MARIA",
+    "VALVERDE ANGUIANO, ENMA",
+    "ARELLANO CASTILLO, MARTA ISABEL",
+    "PRECIADO ZUBIETA, NAHIA",
+    "LACAL FRANCES, CLAUDIA",
+    "NAVASCUES GALDAMEZ, INES",
+    "ALMANSA GARCIA, OLIVIA",
+    "VITRIAN LOPEZ, SARA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "JIMENEZ CALVO, CANDELA",
+      "sale": "LOPEZ REINARES, SOFIA"
+    },
+    {
+      "min": 41,
+      "entra": "MONTERO PARDO, NAIARA",
+      "sale": "RUIZ MARTINEZ, ALAZNE"
+    },
+    {
+      "min": 65,
+      "entra": "PELLEJERO PARRA, WENDY",
+      "sale": "MIGUEL CORDON, ANA"
+    },
+    {
+      "min": 76,
+      "entra": "GIL GALLARDO RUIZ, ZURIÑE",
+      "sale": "EZQUERRO CORDON, JIMENA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 47,
+      "entra": "NAVASCUES GALDAMEZ, INES",
+      "sale": "VALVERDE ANGUIANO, ENMA"
+    },
+    {
+      "min": 53,
+      "entra": "ALMANSA GARCIA, OLIVIA",
+      "sale": "PRECIADO ZUBIETA, NAHIA"
+    },
+    {
+      "min": 61,
+      "entra": "VITRIAN LOPEZ, SARA",
+      "sale": "ARELLANO CASTILLO, MARTA ISABEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ MARTINEZ, ALAZNE": 41,
+    "TUFAN EZQUERRO, CLAUDIA": 90,
+    "EZQUERRO EZQUERRO, CAROLINA": 90,
+    "EZQUERRO CORDON, JIMENA": 76,
+    "QOTTAYA, ROMAISSAE": 90,
+    "LOPEZ REINARES, SOFIA": 41,
+    "HARTO SANZ, VEGA": 90,
+    "PROVEDO CALVO, REBECA": 90,
+    "LAHRACH, HIBA": 90,
+    "CUARTERO MALUMBRES, ELENA": 90,
+    "MIGUEL CORDON, ANA": 65,
+    "JIMENEZ CALVO, CANDELA": 49,
+    "MONTERO PARDO, NAIARA": 49,
+    "PELLEJERO PARRA, WENDY": 25,
+    "GIL GALLARDO RUIZ, ZURIÑE": 14,
+    "GURRIA CUARTERO, BLANCA": 90,
+    "GARCIA USTAROZ, GISSELA": 90,
+    "QUAKIL MARSLY, LINA": 90,
+    "ARELLANO SESMA, LORENA VILLAR": 90,
+    "MARTINEZ RUIZ, ANDREA": 90,
+    "SAINZ FERNANDEZ, CRISTINA": 90,
+    "GIL FERNANDEZ, MARIA": 90,
+    "VALVERDE ANGUIANO, ENMA": 47,
+    "ARELLANO CASTILLO, MARTA ISABEL": 61,
+    "PRECIADO ZUBIETA, NAHIA": 53,
+    "LACAL FRANCES, CLAUDIA": 90,
+    "NAVASCUES GALDAMEZ, INES": 43,
+    "ALMANSA GARCIA, OLIVIA": 37,
+    "VITRIAN LOPEZ, SARA": 29
+  },
+  "portero_local": "RUIZ MARTINEZ, ALAZNE",
+  "portero_visitante": "GURRIA CUARTERO, BLANCA",
+  "dorsales_local": {
+    "RUIZ MARTINEZ, ALAZNE": 13,
+    "TUFAN EZQUERRO, CLAUDIA": 2,
+    "EZQUERRO EZQUERRO, CAROLINA": 3,
+    "EZQUERRO CORDON, JIMENA": 4,
+    "QOTTAYA, ROMAISSAE": 5,
+    "LOPEZ REINARES, SOFIA": 6,
+    "HARTO SANZ, VEGA": 7,
+    "PROVEDO CALVO, REBECA": 8,
+    "LAHRACH, HIBA": 9,
+    "CUARTERO MALUMBRES, ELENA": 10,
+    "MIGUEL CORDON, ANA": 11
+  },
+  "dorsales_visitante": {
+    "GURRIA CUARTERO, BLANCA": 1,
+    "GARCIA USTAROZ, GISSELA": 4,
+    "QUAKIL MARSLY, LINA": 7,
+    "ARELLANO SESMA, LORENA VILLAR": 10,
+    "MARTINEZ RUIZ, ANDREA": 11,
+    "SAINZ FERNANDEZ, CRISTINA": 14,
+    "GIL FERNANDEZ, MARIA": 15,
+    "VALVERDE ANGUIANO, ENMA": 18,
+    "ARELLANO CASTILLO, MARTA ISABEL": 22,
+    "PRECIADO ZUBIETA, NAHIA": 30,
+    "LACAL FRANCES, CLAUDIA": 35
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
