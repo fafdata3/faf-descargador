@@ -1,0 +1,246 @@
+{
+  "acta_id": "R_253342",
+  "filename": "Acta_R_253342.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "28-02-2026",
+  "hora": "18:45",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "MARISTAS",
+  "equipo_visitante": "SAN MARCIAL",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "GUTIERREZ MARTINEZ, IÑIGO"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 6 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 89,
+      "jugador": "SAGREDO CHASCO, LUCAS",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 40,
+      "jugador": "ALCALDE ESCALADA, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 40,
+      "jugador": "SAN MARCIAL",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "GREGORIO LANDA, OSCAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 84,
+      "jugador": "RUIZ GUERREROS, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CENICEROS EIBAR, ADRIAN",
+  "entrenador_visitante": "TORRES SOTO, LUIS MIGUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "VILLOSLADA JOVEN, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VILLOSLADA JOVEN, DANIEL",
+  "delegado_equipo_visitante": "AQUESOLO GARCIA, JUAN I",
+  "titulares_local": [
+    "MARTINEZ REINARES, ALEJANDRO",
+    "DIEZ NIETO, DIEGO",
+    "RUIZ FERNANDEZ, IZAN",
+    "CAPILLA RODRIGUEZ, LUCAS",
+    "GONZALEZ PEREZ, NOAH",
+    "MURUGARREN BERNAL, HUGO",
+    "MARZO CIORDIA, ERIK",
+    "ALCALDE ESCALADA, DANIEL",
+    "NESTARES CADENA, DARIEL I",
+    "BARRIO MURILLO, ALEJANDRO",
+    "YARHUI SALVA, JOEL"
+  ],
+  "titulares_visitante": [
+    "STEVEN CARASA, GONZALO",
+    "BAYO RIOJA, JORGE",
+    "GARCIA GARCIA, CESAR",
+    "LANGARICA PALACIOS, JAVIER",
+    "RUIZ GUERREROS, JAVIER",
+    "HERNANDO NAJERA, LUCAS",
+    "KONJEVIC DELIC, AIDIN",
+    "HERNANDEZ SANCHEZ, ALEJANDRO",
+    "JIMENEZ PABLO, BRUNO",
+    "BARRIO MACAYA, MIGUEL",
+    "BLANCO GONZALO, OSCAR"
+  ],
+  "suplentes_local": [
+    "CUARESMA CARRERAS, KENKO",
+    "BARROS PECIÑA, ALEJANDRO",
+    "MAESTRA BLANCO, ANDRES",
+    "SAGREDO CHASCO, LUCAS",
+    "RUDIEZ PASCUAL, IKER"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ MORENO, KEVIN",
+    "VELASCO VELASCO, ADRIAN",
+    "GREGORIO LANDA, OSCAR",
+    "GOMEZ GAME, ELIAN ALEJANDRO",
+    "KHAY AKASRI, ADAM"
+  ],
+  "convocados_sin_jugar_local": [
+    "CUARESMA CARRERAS, KENKO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GONZALEZ MORENO, KEVIN",
+    "GOMEZ GAME, ELIAN ALEJANDRO"
+  ],
+  "jugadores_local": [
+    "MARTINEZ REINARES, ALEJANDRO",
+    "DIEZ NIETO, DIEGO",
+    "RUIZ FERNANDEZ, IZAN",
+    "CAPILLA RODRIGUEZ, LUCAS",
+    "GONZALEZ PEREZ, NOAH",
+    "MURUGARREN BERNAL, HUGO",
+    "MARZO CIORDIA, ERIK",
+    "ALCALDE ESCALADA, DANIEL",
+    "NESTARES CADENA, DARIEL I",
+    "BARRIO MURILLO, ALEJANDRO",
+    "YARHUI SALVA, JOEL",
+    "SAGREDO CHASCO, LUCAS",
+    "BARROS PECIÑA, ALEJANDRO",
+    "MAESTRA BLANCO, ANDRES",
+    "RUDIEZ PASCUAL, IKER"
+  ],
+  "jugadores_visitante": [
+    "STEVEN CARASA, GONZALO",
+    "BAYO RIOJA, JORGE",
+    "GARCIA GARCIA, CESAR",
+    "LANGARICA PALACIOS, JAVIER",
+    "RUIZ GUERREROS, JAVIER",
+    "HERNANDO NAJERA, LUCAS",
+    "KONJEVIC DELIC, AIDIN",
+    "HERNANDEZ SANCHEZ, ALEJANDRO",
+    "JIMENEZ PABLO, BRUNO",
+    "BARRIO MACAYA, MIGUEL",
+    "BLANCO GONZALO, OSCAR",
+    "GREGORIO LANDA, OSCAR",
+    "VELASCO VELASCO, ADRIAN",
+    "KHAY AKASRI, ADAM"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 61,
+      "entra": "SAGREDO CHASCO, LUCAS",
+      "sale": "DIEZ NIETO, DIEGO"
+    },
+    {
+      "min": 66,
+      "entra": "BARROS PECIÑA, ALEJANDRO",
+      "sale": "GONZALEZ PEREZ, NOAH"
+    },
+    {
+      "min": 80,
+      "entra": "MAESTRA BLANCO, ANDRES",
+      "sale": "NESTARES CADENA, DARIEL I"
+    },
+    {
+      "min": 80,
+      "entra": "RUDIEZ PASCUAL, IKER",
+      "sale": "MURUGARREN BERNAL, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "GREGORIO LANDA, OSCAR",
+      "sale": "HERNANDEZ SANCHEZ, ALEJANDRO"
+    },
+    {
+      "min": 85,
+      "entra": "VELASCO VELASCO, ADRIAN",
+      "sale": "HERNANDO NAJERA, LUCAS"
+    },
+    {
+      "min": 85,
+      "entra": "KHAY AKASRI, ADAM",
+      "sale": "BLANCO GONZALO, OSCAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTINEZ REINARES, ALEJANDRO": 90,
+    "DIEZ NIETO, DIEGO": 61,
+    "RUIZ FERNANDEZ, IZAN": 90,
+    "CAPILLA RODRIGUEZ, LUCAS": 90,
+    "GONZALEZ PEREZ, NOAH": 66,
+    "MURUGARREN BERNAL, HUGO": 80,
+    "MARZO CIORDIA, ERIK": 90,
+    "ALCALDE ESCALADA, DANIEL": 90,
+    "NESTARES CADENA, DARIEL I": 80,
+    "BARRIO MURILLO, ALEJANDRO": 90,
+    "YARHUI SALVA, JOEL": 90,
+    "SAGREDO CHASCO, LUCAS": 29,
+    "BARROS PECIÑA, ALEJANDRO": 24,
+    "MAESTRA BLANCO, ANDRES": 10,
+    "RUDIEZ PASCUAL, IKER": 10,
+    "STEVEN CARASA, GONZALO": 90,
+    "BAYO RIOJA, JORGE": 90,
+    "GARCIA GARCIA, CESAR": 90,
+    "LANGARICA PALACIOS, JAVIER": 90,
+    "RUIZ GUERREROS, JAVIER": 90,
+    "HERNANDO NAJERA, LUCAS": 85,
+    "KONJEVIC DELIC, AIDIN": 90,
+    "HERNANDEZ SANCHEZ, ALEJANDRO": 46,
+    "JIMENEZ PABLO, BRUNO": 90,
+    "BARRIO MACAYA, MIGUEL": 90,
+    "BLANCO GONZALO, OSCAR": 85,
+    "GREGORIO LANDA, OSCAR": 44,
+    "VELASCO VELASCO, ADRIAN": 5,
+    "KHAY AKASRI, ADAM": 5
+  },
+  "portero_local": "MURUGARREN BERNAL, HUGO",
+  "portero_visitante": "STEVEN CARASA, GONZALO",
+  "dorsales_local": {
+    "MARTINEZ REINARES, ALEJANDRO": 25,
+    "DIEZ NIETO, DIEGO": 2,
+    "RUIZ FERNANDEZ, IZAN": 5,
+    "CAPILLA RODRIGUEZ, LUCAS": 8,
+    "GONZALEZ PEREZ, NOAH": 11,
+    "MURUGARREN BERNAL, HUGO": 13,
+    "MARZO CIORDIA, ERIK": 18,
+    "ALCALDE ESCALADA, DANIEL": 20,
+    "NESTARES CADENA, DARIEL I": 21,
+    "BARRIO MURILLO, ALEJANDRO": 22,
+    "YARHUI SALVA, JOEL": 30
+  },
+  "dorsales_visitante": {
+    "STEVEN CARASA, GONZALO": 1,
+    "BAYO RIOJA, JORGE": 3,
+    "GARCIA GARCIA, CESAR": 5,
+    "LANGARICA PALACIOS, JAVIER": 7,
+    "RUIZ GUERREROS, JAVIER": 9,
+    "HERNANDO NAJERA, LUCAS": 10,
+    "KONJEVIC DELIC, AIDIN": 11,
+    "HERNANDEZ SANCHEZ, ALEJANDRO": 12,
+    "JIMENEZ PABLO, BRUNO": 14,
+    "BARRIO MACAYA, MIGUEL": 17,
+    "BLANCO GONZALO, OSCAR": 18
+  },
+  "suspendidos": []
+}
