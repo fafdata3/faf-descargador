@@ -1,0 +1,255 @@
+{
+  "acta_id": "R_253311",
+  "filename": "Acta_R_253311.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "10-01-2026",
+  "hora": "18:15",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "TEDEON",
+  "equipo_visitante": "VILLEGAS",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "LAYA AMATRIAIN, ASIER"
+  ],
+  "estadio": "C.M. SAN MIGUEL - H.A. (NAVARRETE)",
+  "ciudad": "Navarrete",
+  "goleadores": [
+    {
+      "minuto": 49,
+      "jugador": "PEREZ FERNANDEZ, ADRIAN",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "HONRUBIA BASALO, GONZALO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "VELANDIA TOFE, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "VILLEGAS",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "PEREZ FERNANDEZ, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "AGUIRRE GUERRERO, DAVID",
+  "entrenador_visitante": "GARCIA ALONSO, RAUL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LETONA MARTÍNEZ , RAUL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAENZ LAGUNA DEL RINCON, ALBERTO",
+  "delegado_equipo_visitante": "FERNANDEZ GARCIA, ANIBAL",
+  "titulares_local": [
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+    "MORLAN RIVERO, JAVIER",
+    "ARECHABALA FRIAS, ANDER",
+    "HERNANDEZ HERNANDEZ, MILLAN",
+    "LAFUENTE RUIZ, MATEO",
+    "SIERRA LAFUENTE, LUCAS",
+    "BARRASA VITERI, MARCO",
+    "IZQUIERDO LOPEZ T, HUGO",
+    "HONRUBIA BASALO, GONZALO",
+    "VELANDIA TOFE, NICOLAS",
+    "KEITA SANOGO, IBRAHIM"
+  ],
+  "titulares_visitante": [
+    "TEBJOU SNASLI, AHMED A",
+    "KERBAB EL AZRY, AMINE",
+    "ROJO DEL VALLE, GERMAN",
+    "TAMAYO LOPEZ, ASIER",
+    "YALCOUYE YALCOUYE, SOULEYMANE",
+    "HORTELANO GONZALEZ, RUBEN",
+    "GARCIA BURBRIDGE, RORY M",
+    "SABINO BERGES, CHRISTIAN",
+    "LARA PAREDES, JHENDERSON",
+    "DA SILVA NALDA, YERAI",
+    "PEREZ FERNANDEZ, ADRIAN"
+  ],
+  "suplentes_local": [
+    "HERNANDEZ CALVO B, DIEGO",
+    "MARTINEZ AZOFRA, MIGUEL",
+    "MUÑOZ RAMOS, MIGUEL",
+    "PRIETO MARTINEZ, ESTEBAN"
+  ],
+  "suplentes_visitante": [
+    "ESCORZA MURO, ARTURO",
+    "SANCHEZ ARAMAYO, HODEI",
+    "LOPEZ BALMASEDA, MIGUEL",
+    "CENZANO CAÑAS, MARIO",
+    "POMA MERINO, NICOLAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "CENZANO CAÑAS, MARIO"
+  ],
+  "jugadores_local": [
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+    "MORLAN RIVERO, JAVIER",
+    "ARECHABALA FRIAS, ANDER",
+    "HERNANDEZ HERNANDEZ, MILLAN",
+    "LAFUENTE RUIZ, MATEO",
+    "SIERRA LAFUENTE, LUCAS",
+    "BARRASA VITERI, MARCO",
+    "IZQUIERDO LOPEZ T, HUGO",
+    "HONRUBIA BASALO, GONZALO",
+    "VELANDIA TOFE, NICOLAS",
+    "KEITA SANOGO, IBRAHIM",
+    "PRIETO MARTINEZ, ESTEBAN",
+    "HERNANDEZ CALVO B, DIEGO",
+    "MARTINEZ AZOFRA, MIGUEL",
+    "MUÑOZ RAMOS, MIGUEL"
+  ],
+  "jugadores_visitante": [
+    "TEBJOU SNASLI, AHMED A",
+    "KERBAB EL AZRY, AMINE",
+    "ROJO DEL VALLE, GERMAN",
+    "TAMAYO LOPEZ, ASIER",
+    "YALCOUYE YALCOUYE, SOULEYMANE",
+    "HORTELANO GONZALEZ, RUBEN",
+    "GARCIA BURBRIDGE, RORY M",
+    "SABINO BERGES, CHRISTIAN",
+    "LARA PAREDES, JHENDERSON",
+    "DA SILVA NALDA, YERAI",
+    "PEREZ FERNANDEZ, ADRIAN",
+    "SANCHEZ ARAMAYO, HODEI",
+    "POMA MERINO, NICOLAS",
+    "ESCORZA MURO, ARTURO",
+    "LOPEZ BALMASEDA, MIGUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "PRIETO MARTINEZ, ESTEBAN",
+      "sale": "HONRUBIA BASALO, GONZALO"
+    },
+    {
+      "min": 64,
+      "entra": "HERNANDEZ CALVO B, DIEGO",
+      "sale": "HERNANDEZ HERNANDEZ, MILLAN"
+    },
+    {
+      "min": 69,
+      "entra": "MARTINEZ AZOFRA, MIGUEL",
+      "sale": "SIERRA LAFUENTE, LUCAS"
+    },
+    {
+      "min": 80,
+      "entra": "MUÑOZ RAMOS, MIGUEL",
+      "sale": "BARRASA VITERI, MARCO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "SANCHEZ ARAMAYO, HODEI",
+      "sale": "GARCIA BURBRIDGE, RORY M"
+    },
+    {
+      "min": 73,
+      "entra": "POMA MERINO, NICOLAS",
+      "sale": "SABINO BERGES, CHRISTIAN"
+    },
+    {
+      "min": 85,
+      "entra": "ESCORZA MURO, ARTURO",
+      "sale": "KERBAB EL AZRY, AMINE"
+    },
+    {
+      "min": 85,
+      "entra": "LOPEZ BALMASEDA, MIGUEL",
+      "sale": "LARA PAREDES, JHENDERSON"
+    }
+  ],
+  "minutos_jugadores": {
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR": 90,
+    "MORLAN RIVERO, JAVIER": 90,
+    "ARECHABALA FRIAS, ANDER": 90,
+    "HERNANDEZ HERNANDEZ, MILLAN": 64,
+    "LAFUENTE RUIZ, MATEO": 90,
+    "SIERRA LAFUENTE, LUCAS": 69,
+    "BARRASA VITERI, MARCO": 80,
+    "IZQUIERDO LOPEZ T, HUGO": 90,
+    "HONRUBIA BASALO, GONZALO": 46,
+    "VELANDIA TOFE, NICOLAS": 90,
+    "KEITA SANOGO, IBRAHIM": 90,
+    "PRIETO MARTINEZ, ESTEBAN": 44,
+    "HERNANDEZ CALVO B, DIEGO": 26,
+    "MARTINEZ AZOFRA, MIGUEL": 21,
+    "MUÑOZ RAMOS, MIGUEL": 10,
+    "TEBJOU SNASLI, AHMED A": 90,
+    "KERBAB EL AZRY, AMINE": 85,
+    "ROJO DEL VALLE, GERMAN": 90,
+    "TAMAYO LOPEZ, ASIER": 90,
+    "YALCOUYE YALCOUYE, SOULEYMANE": 90,
+    "HORTELANO GONZALEZ, RUBEN": 90,
+    "GARCIA BURBRIDGE, RORY M": 61,
+    "SABINO BERGES, CHRISTIAN": 73,
+    "LARA PAREDES, JHENDERSON": 85,
+    "DA SILVA NALDA, YERAI": 90,
+    "PEREZ FERNANDEZ, ADRIAN": 90,
+    "SANCHEZ ARAMAYO, HODEI": 29,
+    "POMA MERINO, NICOLAS": 17,
+    "ESCORZA MURO, ARTURO": 5,
+    "LOPEZ BALMASEDA, MIGUEL": 5
+  },
+  "portero_local": "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+  "portero_visitante": "TEBJOU SNASLI, AHMED A",
+  "dorsales_local": {
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR": 13,
+    "MORLAN RIVERO, JAVIER": 3,
+    "ARECHABALA FRIAS, ANDER": 5,
+    "HERNANDEZ HERNANDEZ, MILLAN": 6,
+    "LAFUENTE RUIZ, MATEO": 7,
+    "SIERRA LAFUENTE, LUCAS": 9,
+    "BARRASA VITERI, MARCO": 10,
+    "IZQUIERDO LOPEZ T, HUGO": 11,
+    "HONRUBIA BASALO, GONZALO": 14,
+    "VELANDIA TOFE, NICOLAS": 17,
+    "KEITA SANOGO, IBRAHIM": 19
+  },
+  "dorsales_visitante": {
+    "TEBJOU SNASLI, AHMED A": 1,
+    "KERBAB EL AZRY, AMINE": 2,
+    "ROJO DEL VALLE, GERMAN": 3,
+    "TAMAYO LOPEZ, ASIER": 4,
+    "YALCOUYE YALCOUYE, SOULEYMANE": 5,
+    "HORTELANO GONZALEZ, RUBEN": 6,
+    "GARCIA BURBRIDGE, RORY M": 7,
+    "SABINO BERGES, CHRISTIAN": 8,
+    "LARA PAREDES, JHENDERSON": 9,
+    "DA SILVA NALDA, YERAI": 10,
+    "PEREZ FERNANDEZ, ADRIAN": 11
+  },
+  "suspendidos": []
+}
