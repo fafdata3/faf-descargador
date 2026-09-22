@@ -1,0 +1,280 @@
+{
+  "acta_id": "R_254057",
+  "filename": "Acta_R_254057.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 7,
+  "fecha": "20-12-2025",
+  "hora": "11:30",
+  "categoria": "CADETE FEMENINO (Grupo Único)",
+  "equipo_local": "DUX LOGROÑO",
+  "equipo_visitante": "VERDIBLANCOS PRADEJON",
+  "goles_local": 5,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "VASALDUA JUSTO, SONIA"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 4 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "LAHRACH, HIBA",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "CABALLERO RUIZ, IRENE",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "MARTINEZ BAZO, NORA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "DAVILA VEGAS, NAIA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "PEREZ DE CORTA, NOA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "SANCHEZ GARCIA, ELENA",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 46,
+      "jugador": "ASENSIO CASPE, SHEILA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "JIMENEZ CALVO, CANDELA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GALILEA FERNANDEZ, ANDRES JAVIER",
+  "entrenador_visitante": "ASENSIO CASPE, SHEILA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAN MARTÍN LERENA , MIGUEL ÁNGEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAN MARTIN BARRIOSETA, MIGUEL ANGEL",
+  "delegado_equipo_visitante": "EZQUERRO JUSTICIA, VICTOR",
+  "titulares_local": [
+    "SOTO ANTON, CECILIA",
+    "GANGUTIA PEREZ, VALLE",
+    "CARBONERAS ROYO, AITANA",
+    "DAVILA VEGAS, NAIA",
+    "MARTINEZ VIEIRA, LUCIA",
+    "CASCAN MEDRANO, MARTINA",
+    "MARTINEZ BAZO, NORA",
+    "CABALLERO RUIZ, IRENE",
+    "CASTRESANA DEL VALLE, CARLA",
+    "FERNANDEZ REDONDO, CLARA",
+    "CASTILLO GARCIA, VALERIA"
+  ],
+  "titulares_visitante": [
+    "MONTERO PARDO, NAIARA",
+    "ERDOCIAIN BARRAGAN, CELIA",
+    "EZQUERRO EZQUERRO, CAROLINA",
+    "EZQUERRO CORDON, JIMENA",
+    "JIMENEZ CALVO, CANDELA",
+    "CORDON MORENO, ANGELA",
+    "HERNANDEZ RUIZ, ANGELA",
+    "LOPEZ REINARES, SOFIA",
+    "LAHRACH, HIBA",
+    "CUARTERO MALUMBRES, ELENA",
+    "HARTO SANZ, VEGA"
+  ],
+  "suplentes_local": [
+    "PECO OROZCO, LEYRE",
+    "PEREZ DE CORTA, NOA",
+    "BALTANAS ECHAZARRA, BLANCA",
+    "SANCHEZ GARCIA, ELENA",
+    "RIAÑO SIERRA, SARA",
+    "SAN MARTIN CABELLO, BLANCA",
+    "ALIENDE SACRISTAN, SARA"
+  ],
+  "suplentes_visitante": [
+    "RUIZ MARTINEZ, ALAZNE",
+    "PROVEDO CALVO, REBECA",
+    "TUFAN EZQUERRO, CLAUDIA",
+    "PELLEJERO PARRA, WENDY",
+    "QOTTAYA, ROMAISSAE",
+    "MIGUEL CORDON, ANA"
+  ],
+  "convocados_sin_jugar_local": [
+    "PECO OROZCO, LEYRE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "TUFAN EZQUERRO, CLAUDIA",
+    "PELLEJERO PARRA, WENDY",
+    "QOTTAYA, ROMAISSAE"
+  ],
+  "jugadores_local": [
+    "SOTO ANTON, CECILIA",
+    "GANGUTIA PEREZ, VALLE",
+    "CARBONERAS ROYO, AITANA",
+    "DAVILA VEGAS, NAIA",
+    "MARTINEZ VIEIRA, LUCIA",
+    "CASCAN MEDRANO, MARTINA",
+    "MARTINEZ BAZO, NORA",
+    "CABALLERO RUIZ, IRENE",
+    "CASTRESANA DEL VALLE, CARLA",
+    "FERNANDEZ REDONDO, CLARA",
+    "CASTILLO GARCIA, VALERIA",
+    "SANCHEZ GARCIA, ELENA",
+    "RIAÑO SIERRA, SARA",
+    "PEREZ DE CORTA, NOA",
+    "SAN MARTIN CABELLO, BLANCA",
+    "ALIENDE SACRISTAN, SARA",
+    "BALTANAS ECHAZARRA, BLANCA"
+  ],
+  "jugadores_visitante": [
+    "MONTERO PARDO, NAIARA",
+    "ERDOCIAIN BARRAGAN, CELIA",
+    "EZQUERRO EZQUERRO, CAROLINA",
+    "EZQUERRO CORDON, JIMENA",
+    "JIMENEZ CALVO, CANDELA",
+    "CORDON MORENO, ANGELA",
+    "HERNANDEZ RUIZ, ANGELA",
+    "LOPEZ REINARES, SOFIA",
+    "LAHRACH, HIBA",
+    "CUARTERO MALUMBRES, ELENA",
+    "HARTO SANZ, VEGA",
+    "PROVEDO CALVO, REBECA",
+    "RUIZ MARTINEZ, ALAZNE",
+    "MIGUEL CORDON, ANA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 30,
+      "entra": "SANCHEZ GARCIA, ELENA",
+      "sale": "FERNANDEZ REDONDO, CLARA"
+    },
+    {
+      "min": 41,
+      "entra": "RIAÑO SIERRA, SARA",
+      "sale": "GANGUTIA PEREZ, VALLE"
+    },
+    {
+      "min": 58,
+      "entra": "PEREZ DE CORTA, NOA",
+      "sale": "CASTRESANA DEL VALLE, CARLA"
+    },
+    {
+      "min": 77,
+      "entra": "SAN MARTIN CABELLO, BLANCA",
+      "sale": "CABALLERO RUIZ, IRENE"
+    },
+    {
+      "min": 77,
+      "entra": "ALIENDE SACRISTAN, SARA",
+      "sale": "MARTINEZ BAZO, NORA"
+    },
+    {
+      "min": 77,
+      "entra": "BALTANAS ECHAZARRA, BLANCA",
+      "sale": "CARBONERAS ROYO, AITANA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 4,
+      "entra": "PROVEDO CALVO, REBECA",
+      "sale": "LOPEZ REINARES, SOFIA"
+    },
+    {
+      "min": 41,
+      "entra": "RUIZ MARTINEZ, ALAZNE",
+      "sale": "MONTERO PARDO, NAIARA"
+    },
+    {
+      "min": 71,
+      "entra": "MIGUEL CORDON, ANA",
+      "sale": "CORDON MORENO, ANGELA"
+    }
+  ],
+  "minutos_jugadores": {
+    "SOTO ANTON, CECILIA": 90,
+    "GANGUTIA PEREZ, VALLE": 41,
+    "CARBONERAS ROYO, AITANA": 77,
+    "DAVILA VEGAS, NAIA": 90,
+    "MARTINEZ VIEIRA, LUCIA": 90,
+    "CASCAN MEDRANO, MARTINA": 90,
+    "MARTINEZ BAZO, NORA": 77,
+    "CABALLERO RUIZ, IRENE": 77,
+    "CASTRESANA DEL VALLE, CARLA": 58,
+    "FERNANDEZ REDONDO, CLARA": 30,
+    "CASTILLO GARCIA, VALERIA": 90,
+    "SANCHEZ GARCIA, ELENA": 60,
+    "RIAÑO SIERRA, SARA": 49,
+    "PEREZ DE CORTA, NOA": 32,
+    "SAN MARTIN CABELLO, BLANCA": 13,
+    "ALIENDE SACRISTAN, SARA": 13,
+    "BALTANAS ECHAZARRA, BLANCA": 13,
+    "MONTERO PARDO, NAIARA": 41,
+    "ERDOCIAIN BARRAGAN, CELIA": 90,
+    "EZQUERRO EZQUERRO, CAROLINA": 90,
+    "EZQUERRO CORDON, JIMENA": 90,
+    "JIMENEZ CALVO, CANDELA": 90,
+    "CORDON MORENO, ANGELA": 71,
+    "HERNANDEZ RUIZ, ANGELA": 90,
+    "LOPEZ REINARES, SOFIA": 4,
+    "LAHRACH, HIBA": 90,
+    "CUARTERO MALUMBRES, ELENA": 90,
+    "HARTO SANZ, VEGA": 90,
+    "PROVEDO CALVO, REBECA": 86,
+    "RUIZ MARTINEZ, ALAZNE": 49,
+    "MIGUEL CORDON, ANA": 19
+  },
+  "portero_local": "SOTO ANTON, CECILIA",
+  "portero_visitante": "MONTERO PARDO, NAIARA",
+  "dorsales_local": {
+    "SOTO ANTON, CECILIA": 13,
+    "GANGUTIA PEREZ, VALLE": 2,
+    "CARBONERAS ROYO, AITANA": 3,
+    "DAVILA VEGAS, NAIA": 4,
+    "MARTINEZ VIEIRA, LUCIA": 5,
+    "CASCAN MEDRANO, MARTINA": 6,
+    "MARTINEZ BAZO, NORA": 7,
+    "CABALLERO RUIZ, IRENE": 8,
+    "CASTRESANA DEL VALLE, CARLA": 9,
+    "FERNANDEZ REDONDO, CLARA": 10,
+    "CASTILLO GARCIA, VALERIA": 11
+  },
+  "dorsales_visitante": {
+    "MONTERO PARDO, NAIARA": 1,
+    "ERDOCIAIN BARRAGAN, CELIA": 2,
+    "EZQUERRO EZQUERRO, CAROLINA": 3,
+    "EZQUERRO CORDON, JIMENA": 4,
+    "JIMENEZ CALVO, CANDELA": 5,
+    "CORDON MORENO, ANGELA": 6,
+    "HERNANDEZ RUIZ, ANGELA": 7,
+    "LOPEZ REINARES, SOFIA": 8,
+    "LAHRACH, HIBA": 9,
+    "CUARTERO MALUMBRES, ELENA": 10,
+    "HARTO SANZ, VEGA": 11
+  },
+  "suspendidos": []
+}
