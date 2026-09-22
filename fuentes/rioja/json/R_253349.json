@@ -1,0 +1,283 @@
+{
+  "acta_id": "R_253349",
+  "filename": "Acta_R_253349.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "08-03-2026",
+  "hora": "09:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "SIETE INFANTES Anguiano",
+  "equipo_visitante": "VILLEGAS",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ESTEBAS RUIZ, VICTOR"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 2 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "LARA PAREDES, JHENDERSON",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "MAZO HORNILLOS, HUGO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "YALCOUYE YALCOUYE, SOULEYMANE",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 37,
+      "jugador": "MAZO HORNILLOS, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "DE LA IGLESIA EGUIZABAL, RODRIGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "VILLEGAS",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "ROJO DEL VALLE, GERMAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "LARA PAREDES, JHENDERSON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 82,
+      "jugador": "PEREZ FERNANDEZ, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LUCEA ALONSO, ALFREDO",
+  "entrenador_visitante": "GARCIA ALONSO, RAUL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GONZALEZ PIEROLA, JORGE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GONZALEZ PIEROLA, JORGE",
+  "delegado_equipo_visitante": "FERNANDEZ GARCIA, ANIBAL",
+  "titulares_local": [
+    "TRIF POPICA, EDUARD SEBASTIAN",
+    "FERNANDEZ NAVARRO, HECTOR",
+    "DOBRE, SABIN ANDREI",
+    "MAZO HORNILLOS, HUGO",
+    "ALVAREZ CILLERO, NICOLAS",
+    "VAN STERKENBURG OLAVE, ALEX",
+    "LOPEZ MARZO, ADRIAN",
+    "PESO HAGIU, CHRISTIAN",
+    "MARTINEZ-BERNAL CRIADO, GAEL",
+    "MARTINEZ DIAZ, ALEJANDRO",
+    "BOUJJA BERCH, RAYAN"
+  ],
+  "titulares_visitante": [
+    "XIAO",
+    "SANCHEZ ARAMAYO, HODEI",
+    "ROJO DEL VALLE, GERMAN",
+    "YALCOUYE YALCOUYE, SOULEYMANE",
+    "RUIZ SICILIA, DARIO",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE",
+    "GARCIA BURBRIDGE, RORY M",
+    "SABINO BERGES, CHRISTIAN",
+    "LARA PAREDES, JHENDERSON",
+    "LAGLAOUI EL GHERYB, ADAM",
+    "PEREZ FERNANDEZ, ADRIAN"
+  ],
+  "suplentes_local": [
+    "NAVARRO AGOST, DANIEL",
+    "GONZALEZ PASCUAL, MARCOS",
+    "DE LA IGLESIA EGUIZABAL, RODRIGO",
+    "PORTELA SIMON, ADRIAN",
+    "HERMOSILLA PEREZ, JAVIER",
+    "MECHAKRA, LOUAI"
+  ],
+  "suplentes_visitante": [
+    "HORTELANO GONZALEZ, RUBEN",
+    "CENZANO CAÑAS, MARIO",
+    "LOPEZ BALMASEDA, MIGUEL",
+    "POMA MERINO, NICOLAS"
+  ],
+  "convocados_sin_jugar_local": [
+    "GONZALEZ PASCUAL, MARCOS"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "TRIF POPICA, EDUARD SEBASTIAN",
+    "FERNANDEZ NAVARRO, HECTOR",
+    "DOBRE, SABIN ANDREI",
+    "MAZO HORNILLOS, HUGO",
+    "ALVAREZ CILLERO, NICOLAS",
+    "VAN STERKENBURG OLAVE, ALEX",
+    "LOPEZ MARZO, ADRIAN",
+    "PESO HAGIU, CHRISTIAN",
+    "MARTINEZ-BERNAL CRIADO, GAEL",
+    "MARTINEZ DIAZ, ALEJANDRO",
+    "BOUJJA BERCH, RAYAN",
+    "DE LA IGLESIA EGUIZABAL, RODRIGO",
+    "PORTELA SIMON, ADRIAN",
+    "NAVARRO AGOST, DANIEL",
+    "MECHAKRA, LOUAI",
+    "HERMOSILLA PEREZ, JAVIER"
+  ],
+  "jugadores_visitante": [
+    "XIAO",
+    "SANCHEZ ARAMAYO, HODEI",
+    "ROJO DEL VALLE, GERMAN",
+    "YALCOUYE YALCOUYE, SOULEYMANE",
+    "RUIZ SICILIA, DARIO",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE",
+    "GARCIA BURBRIDGE, RORY M",
+    "SABINO BERGES, CHRISTIAN",
+    "LARA PAREDES, JHENDERSON",
+    "LAGLAOUI EL GHERYB, ADAM",
+    "PEREZ FERNANDEZ, ADRIAN",
+    "POMA MERINO, NICOLAS",
+    "CENZANO CAÑAS, MARIO",
+    "LOPEZ BALMASEDA, MIGUEL",
+    "HORTELANO GONZALEZ, RUBEN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 64,
+      "entra": "DE LA IGLESIA EGUIZABAL, RODRIGO",
+      "sale": "ALVAREZ CILLERO, NICOLAS"
+    },
+    {
+      "min": 64,
+      "entra": "PORTELA SIMON, ADRIAN",
+      "sale": "LOPEZ MARZO, ADRIAN"
+    },
+    {
+      "min": 79,
+      "entra": "NAVARRO AGOST, DANIEL",
+      "sale": "BOUJJA BERCH, RAYAN"
+    },
+    {
+      "min": 85,
+      "entra": "MECHAKRA, LOUAI",
+      "sale": "VAN STERKENBURG OLAVE, ALEX"
+    },
+    {
+      "min": 85,
+      "entra": "HERMOSILLA PEREZ, JAVIER",
+      "sale": "PESO HAGIU, CHRISTIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "POMA MERINO, NICOLAS",
+      "sale": "SABINO BERGES, CHRISTIAN"
+    },
+    {
+      "min": 53,
+      "entra": "CENZANO CAÑAS, MARIO",
+      "sale": "GARCIA BURBRIDGE, RORY M"
+    },
+    {
+      "min": 53,
+      "entra": "LOPEZ BALMASEDA, MIGUEL",
+      "sale": "VALBUENA GUDIÑO, FRANCISCO JOSE"
+    },
+    {
+      "min": 70,
+      "entra": "HORTELANO GONZALEZ, RUBEN",
+      "sale": "LOPEZ BALMASEDA, MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "TRIF POPICA, EDUARD SEBASTIAN": 90,
+    "FERNANDEZ NAVARRO, HECTOR": 90,
+    "DOBRE, SABIN ANDREI": 90,
+    "MAZO HORNILLOS, HUGO": 90,
+    "ALVAREZ CILLERO, NICOLAS": 64,
+    "VAN STERKENBURG OLAVE, ALEX": 85,
+    "LOPEZ MARZO, ADRIAN": 64,
+    "PESO HAGIU, CHRISTIAN": 85,
+    "MARTINEZ-BERNAL CRIADO, GAEL": 90,
+    "MARTINEZ DIAZ, ALEJANDRO": 90,
+    "BOUJJA BERCH, RAYAN": 79,
+    "DE LA IGLESIA EGUIZABAL, RODRIGO": 26,
+    "PORTELA SIMON, ADRIAN": 26,
+    "NAVARRO AGOST, DANIEL": 11,
+    "MECHAKRA, LOUAI": 5,
+    "HERMOSILLA PEREZ, JAVIER": 5,
+    "XIAO": 90,
+    "SANCHEZ ARAMAYO, HODEI": 90,
+    "ROJO DEL VALLE, GERMAN": 90,
+    "YALCOUYE YALCOUYE, SOULEYMANE": 90,
+    "RUIZ SICILIA, DARIO": 90,
+    "VALBUENA GUDIÑO, FRANCISCO JOSE": 53,
+    "GARCIA BURBRIDGE, RORY M": 53,
+    "SABINO BERGES, CHRISTIAN": 46,
+    "LARA PAREDES, JHENDERSON": 90,
+    "LAGLAOUI EL GHERYB, ADAM": 90,
+    "PEREZ FERNANDEZ, ADRIAN": 90,
+    "POMA MERINO, NICOLAS": 44,
+    "CENZANO CAÑAS, MARIO": 37,
+    "LOPEZ BALMASEDA, MIGUEL": 70,
+    "HORTELANO GONZALEZ, RUBEN": 20
+  },
+  "portero_local": "TRIF POPICA, EDUARD SEBASTIAN",
+  "portero_visitante": "XIAO",
+  "dorsales_local": {
+    "TRIF POPICA, EDUARD SEBASTIAN": 1,
+    "FERNANDEZ NAVARRO, HECTOR": 3,
+    "DOBRE, SABIN ANDREI": 4,
+    "MAZO HORNILLOS, HUGO": 5,
+    "ALVAREZ CILLERO, NICOLAS": 7,
+    "VAN STERKENBURG OLAVE, ALEX": 8,
+    "LOPEZ MARZO, ADRIAN": 9,
+    "PESO HAGIU, CHRISTIAN": 11,
+    "MARTINEZ-BERNAL CRIADO, GAEL": 14,
+    "MARTINEZ DIAZ, ALEJANDRO": 15,
+    "BOUJJA BERCH, RAYAN": 24
+  },
+  "dorsales_visitante": {
+    "XIAO": 1,
+    "SANCHEZ ARAMAYO, HODEI": 2,
+    "ROJO DEL VALLE, GERMAN": 3,
+    "YALCOUYE YALCOUYE, SOULEYMANE": 4,
+    "RUIZ SICILIA, DARIO": 5,
+    "VALBUENA GUDIÑO, FRANCISCO JOSE": 6,
+    "GARCIA BURBRIDGE, RORY M": 7,
+    "SABINO BERGES, CHRISTIAN": 8,
+    "LARA PAREDES, JHENDERSON": 9,
+    "LAGLAOUI EL GHERYB, ADAM": 10,
+    "PEREZ FERNANDEZ, ADRIAN": 11
+  },
+  "suspendidos": []
+}
