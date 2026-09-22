@@ -1,0 +1,239 @@
+{
+  "acta_id": "R_253434",
+  "filename": "Acta_R_253434.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "01-03-2026",
+  "hora": "10:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "CALAHORRA",
+  "equipo_visitante": "PEÑA BALSAMAISO A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "EZQUERRO EZQUERRO, ELOY"
+  ],
+  "estadio": "C.F. COLEGIO SAN AGUSTIN (CALAHORRA)",
+  "ciudad": "Calahorra",
+  "goleadores": [
+    {
+      "minuto": 55,
+      "jugador": "NAVARRO DE CORTA, JORGE",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "GARCIA GUTIERREZ, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "BROCAL BERMEJO, JAVIER",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 21,
+      "jugador": "RUIZ SOLANA, IÑIGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 21,
+      "jugador": "PEÑA BALSAMAISO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 37,
+      "jugador": "SHTEMBARI AGARAJ, ALEX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "IZQUIERDO CARRASCOSA, FERNANDO MIGUEL",
+  "entrenador_visitante": "GONZALEZ GARCIA, IÑIGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MENDEZ DE FELIPE, ISMAEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ ALDEA, MARCOS",
+  "delegado_equipo_visitante": "SOUAIDY, OUSSAMA",
+  "titulares_local": [
+    "MONTAÑA SAENZ, IÑIGO",
+    "BAHADI MAGRACHE, EL ARBI",
+    "CORDON MAGAÑA, MARCOS",
+    "MARTINEZ ALCALDE, IVAN",
+    "RUIZ SOLANA, IÑIGO",
+    "LATIANI CHAKI, MHAMED",
+    "LACALLE CELORRIO, DANIEL",
+    "MARTINEZ MARTINEZ, FERNANDO",
+    "ORBE FLORES, DENNIS JHANIO",
+    "GARCIA URQUIZA, JUAN C",
+    "HERCE MARTINEZ, LUIS"
+  ],
+  "titulares_visitante": [
+    "GALILEA BARRIO, SERGIO",
+    "FERNANDEZ MURO, MATEO",
+    "CORREA BEDOYA, JERONIMO",
+    "MARTINEZ AMELIBIA, JORGE",
+    "GARCIA GUTIERREZ, ALEJANDRO",
+    "NAVARRO DE CORTA, JORGE",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "LACALLE DE PEDRO, DAVID",
+    "COQUECO PATIÑO, JUAN ESTEBAN",
+    "HERRERO ULECIA, MARCOS"
+  ],
+  "suplentes_local": [
+    "ANDRADE DE ARRUDA, WILLIAM STEPHEN",
+    "CAPATA, DAVID",
+    "MUNILLA HERCE, ALVARO",
+    "ORTIZ VALENCIA, ANYEL ISAAC",
+    "BROCAL BERMEJO, JAVIER",
+    "CARO CRUZ, SAMUEL"
+  ],
+  "suplentes_visitante": [
+    "ALLOUNI ALLOUNI, YASSIR",
+    "MOLOVAE ESPINOZA, JOSEAN",
+    "CARBONERAS RODRIGUEZ, MAURO",
+    "SOTO PERALES, MARTIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "ANDRADE DE ARRUDA, WILLIAM STEPHEN",
+    "ORTIZ VALENCIA, ANYEL ISAAC",
+    "CARO CRUZ, SAMUEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MOLOVAE ESPINOZA, JOSEAN",
+    "CARBONERAS RODRIGUEZ, MAURO"
+  ],
+  "jugadores_local": [
+    "MONTAÑA SAENZ, IÑIGO",
+    "BAHADI MAGRACHE, EL ARBI",
+    "CORDON MAGAÑA, MARCOS",
+    "MARTINEZ ALCALDE, IVAN",
+    "RUIZ SOLANA, IÑIGO",
+    "LATIANI CHAKI, MHAMED",
+    "LACALLE CELORRIO, DANIEL",
+    "MARTINEZ MARTINEZ, FERNANDO",
+    "ORBE FLORES, DENNIS JHANIO",
+    "GARCIA URQUIZA, JUAN C",
+    "HERCE MARTINEZ, LUIS",
+    "MUNILLA HERCE, ALVARO",
+    "CAPATA, DAVID",
+    "BROCAL BERMEJO, JAVIER"
+  ],
+  "jugadores_visitante": [
+    "GALILEA BARRIO, SERGIO",
+    "FERNANDEZ MURO, MATEO",
+    "CORREA BEDOYA, JERONIMO",
+    "MARTINEZ AMELIBIA, JORGE",
+    "GARCIA GUTIERREZ, ALEJANDRO",
+    "NAVARRO DE CORTA, JORGE",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "LACALLE DE PEDRO, DAVID",
+    "COQUECO PATIÑO, JUAN ESTEBAN",
+    "HERRERO ULECIA, MARCOS",
+    "SOTO PERALES, MARTIN",
+    "ALLOUNI ALLOUNI, YASSIR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 19,
+      "entra": "MUNILLA HERCE, ALVARO",
+      "sale": "LATIANI CHAKI, MHAMED"
+    },
+    {
+      "min": 62,
+      "entra": "CAPATA, DAVID",
+      "sale": "RUIZ SOLANA, IÑIGO"
+    },
+    {
+      "min": 77,
+      "entra": "BROCAL BERMEJO, JAVIER",
+      "sale": "BAHADI MAGRACHE, EL ARBI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "SOTO PERALES, MARTIN",
+      "sale": "LACALLE DE PEDRO, DAVID"
+    },
+    {
+      "min": 86,
+      "entra": "ALLOUNI ALLOUNI, YASSIR",
+      "sale": "SHTEMBARI AGARAJ, ALEX"
+    }
+  ],
+  "minutos_jugadores": {
+    "MONTAÑA SAENZ, IÑIGO": 90,
+    "BAHADI MAGRACHE, EL ARBI": 77,
+    "CORDON MAGAÑA, MARCOS": 90,
+    "MARTINEZ ALCALDE, IVAN": 90,
+    "RUIZ SOLANA, IÑIGO": 62,
+    "LATIANI CHAKI, MHAMED": 19,
+    "LACALLE CELORRIO, DANIEL": 90,
+    "MARTINEZ MARTINEZ, FERNANDO": 90,
+    "ORBE FLORES, DENNIS JHANIO": 90,
+    "GARCIA URQUIZA, JUAN C": 90,
+    "HERCE MARTINEZ, LUIS": 90,
+    "MUNILLA HERCE, ALVARO": 71,
+    "CAPATA, DAVID": 28,
+    "BROCAL BERMEJO, JAVIER": 13,
+    "GALILEA BARRIO, SERGIO": 90,
+    "FERNANDEZ MURO, MATEO": 90,
+    "CORREA BEDOYA, JERONIMO": 90,
+    "MARTINEZ AMELIBIA, JORGE": 90,
+    "GARCIA GUTIERREZ, ALEJANDRO": 90,
+    "NAVARRO DE CORTA, JORGE": 90,
+    "VACA ROSSELL, JOSEP CARLOS": 90,
+    "SHTEMBARI AGARAJ, ALEX": 86,
+    "LACALLE DE PEDRO, DAVID": 61,
+    "COQUECO PATIÑO, JUAN ESTEBAN": 90,
+    "HERRERO ULECIA, MARCOS": 90,
+    "SOTO PERALES, MARTIN": 29,
+    "ALLOUNI ALLOUNI, YASSIR": 4
+  },
+  "portero_local": "MONTAÑA SAENZ, IÑIGO",
+  "portero_visitante": "GALILEA BARRIO, SERGIO",
+  "dorsales_local": {
+    "MONTAÑA SAENZ, IÑIGO": 1,
+    "BAHADI MAGRACHE, EL ARBI": 2,
+    "CORDON MAGAÑA, MARCOS": 3,
+    "MARTINEZ ALCALDE, IVAN": 5,
+    "RUIZ SOLANA, IÑIGO": 6,
+    "LATIANI CHAKI, MHAMED": 9,
+    "LACALLE CELORRIO, DANIEL": 10,
+    "MARTINEZ MARTINEZ, FERNANDO": 11,
+    "ORBE FLORES, DENNIS JHANIO": 12,
+    "GARCIA URQUIZA, JUAN C": 16,
+    "HERCE MARTINEZ, LUIS": 18
+  },
+  "dorsales_visitante": {
+    "GALILEA BARRIO, SERGIO": 13,
+    "FERNANDEZ MURO, MATEO": 3,
+    "CORREA BEDOYA, JERONIMO": 4,
+    "MARTINEZ AMELIBIA, JORGE": 5,
+    "GARCIA GUTIERREZ, ALEJANDRO": 9,
+    "NAVARRO DE CORTA, JORGE": 11,
+    "VACA ROSSELL, JOSEP CARLOS": 12,
+    "SHTEMBARI AGARAJ, ALEX": 14,
+    "LACALLE DE PEDRO, DAVID": 15,
+    "COQUECO PATIÑO, JUAN ESTEBAN": 22,
+    "HERRERO ULECIA, MARCOS": 23
+  },
+  "suspendidos": []
+}
