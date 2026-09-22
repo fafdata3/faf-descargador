@@ -1,0 +1,172 @@
+{
+  "acta_id": "N_70691010",
+  "filename": "Acta_N_70691010.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 11,
+  "fecha": "27-06-2026",
+  "hora": "17:30",
+  "categoria": "Campeonato de Primera División de Fútbol Playa Masculino (Primera División Nacional Masculina)",
+  "equipo_local": "CLUB DE FÚTBOL BENIDORM FOIETES",
+  "equipo_visitante": "C.D. SANTAMARIA C.F.",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "HERNÁNDEZ GONZÁLEZ, MIGUEL ESTEBAN",
+    "ÁRBITRO 2",
+    "ORTEGA HERRERA, FRANCISCO JOSÉ",
+    "TERCER ÁRBITRO",
+    "SÁNCHEZ SANCHO, MARIO",
+    "CRONOMETRADOR",
+    "ARANDA ANQUELA, CARLOS"
+  ],
+  "estadio": "ROSES",
+  "ciudad": "Roses",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "MACIAS GRAVAN, ANDRES CARLOS",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 4,
+      "jugador": "MACIAS GRAVAN, ANDRES CARLOS",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "ROSARIO GARCIA, JUAN MANUEL",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 20,
+      "jugador": "RESTREPO ORTIZ, JORGE ALBERTO",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 14,
+      "jugador": "INVERNOZ LABERNIA, EITEL DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "KIRIENKO PANEA, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 31,
+      "jugador": "HERRERA BRENES, MARCOS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "ESPINOSA MORENO, FRANCISCO JOSE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": "MARCOS GALIANA, DAVID",
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "RODRIGUEZ HERRERO, ANGEL",
+  "titulares_local": [
+    "KIRIENKO PANEA, SERGIO",
+    "LLOPIS BAIDEZ, PAU",
+    "RESTREPO ORTIZ, JORGE ALBERTO",
+    "TORMO RIVAS, ALEJANDRO",
+    "INVERNOZ LABERNIA, EITEL DANIEL"
+  ],
+  "titulares_visitante": [
+    "RUIZ GARRIDO, JAIRO",
+    "VALENCIA LORENZO, ISMAEL",
+    "SANTIAGO PEDREJON, MARIO",
+    "HERRERA BRENES, MARCOS",
+    "CRUZ MEDINA, JOSE ANTONIO"
+  ],
+  "suplentes_local": [
+    "WU, CAIXING ALEJANDRO",
+    "SMEKHUNOV, ANATOLY",
+    "ORTIZ HERNANDEZ, DAVID",
+    "LLAVERO NUÑEZ, JOSE M"
+  ],
+  "suplentes_visitante": [
+    "BLANCO MARTINEZ, IZHAN",
+    "LOPEZ BARRANCO, BRIAN",
+    "MACIAS GRAVAN, ANDRES CARLOS",
+    "MORILLA MONTES DE OCA, JORGE",
+    "ROSARIO GARCIA, JUAN MANUEL",
+    "GUTIERREZ MORENO, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "WU, CAIXING ALEJANDRO",
+    "SMEKHUNOV, ANATOLY",
+    "ORTIZ HERNANDEZ, DAVID",
+    "LLAVERO NUÑEZ, JOSE M"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BLANCO MARTINEZ, IZHAN",
+    "LOPEZ BARRANCO, BRIAN",
+    "MACIAS GRAVAN, ANDRES CARLOS",
+    "MORILLA MONTES DE OCA, JORGE",
+    "ROSARIO GARCIA, JUAN MANUEL",
+    "GUTIERREZ MORENO, JAVIER"
+  ],
+  "jugadores_local": [
+    "KIRIENKO PANEA, SERGIO",
+    "LLOPIS BAIDEZ, PAU",
+    "RESTREPO ORTIZ, JORGE ALBERTO",
+    "TORMO RIVAS, ALEJANDRO",
+    "INVERNOZ LABERNIA, EITEL DANIEL"
+  ],
+  "jugadores_visitante": [
+    "RUIZ GARRIDO, JAIRO",
+    "VALENCIA LORENZO, ISMAEL",
+    "SANTIAGO PEDREJON, MARIO",
+    "HERRERA BRENES, MARCOS",
+    "CRUZ MEDINA, JOSE ANTONIO"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "KIRIENKO PANEA, SERGIO": 90,
+    "LLOPIS BAIDEZ, PAU": 90,
+    "RESTREPO ORTIZ, JORGE ALBERTO": 90,
+    "TORMO RIVAS, ALEJANDRO": 90,
+    "INVERNOZ LABERNIA, EITEL DANIEL": 90,
+    "RUIZ GARRIDO, JAIRO": 90,
+    "VALENCIA LORENZO, ISMAEL": 90,
+    "SANTIAGO PEDREJON, MARIO": 90,
+    "HERRERA BRENES, MARCOS": 90,
+    "CRUZ MEDINA, JOSE ANTONIO": 90
+  },
+  "portero_local": "KIRIENKO PANEA, SERGIO",
+  "portero_visitante": "RUIZ GARRIDO, JAIRO",
+  "dorsales_local": {
+    "KIRIENKO PANEA, SERGIO": 23,
+    "LLOPIS BAIDEZ, PAU": 2,
+    "RESTREPO ORTIZ, JORGE ALBERTO": 8,
+    "TORMO RIVAS, ALEJANDRO": 11,
+    "INVERNOZ LABERNIA, EITEL DANIEL": 18
+  },
+  "dorsales_visitante": {
+    "RUIZ GARRIDO, JAIRO": 13,
+    "VALENCIA LORENZO, ISMAEL": 4,
+    "SANTIAGO PEDREJON, MARIO": 9,
+    "HERRERA BRENES, MARCOS": 11,
+    "CRUZ MEDINA, JOSE ANTONIO": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
