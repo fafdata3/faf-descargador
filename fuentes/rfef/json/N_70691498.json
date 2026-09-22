@@ -1,0 +1,220 @@
+{
+  "acta_id": "N_70691498",
+  "filename": "Acta_N_70691498.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 2,
+  "fecha": "01-06-2026",
+  "hora": "20:15",
+  "categoria": "PlayOff por el Título Primera División Fútbol Sala Masculino (PlayOff por el Título Primera División)",
+  "equipo_local": "QUESOS EL HIDALGO MANZANARES F.S.",
+  "equipo_visitante": "ILLES BALEARS PALMA FUTSAL",
+  "goles_local": 3,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "URDÁNOZ APEZTEGUÍA, DAVID",
+    "ÁRBITRO 2",
+    "FAUBELL ZALDIVAR, FERNANDO",
+    "TERCER ÁRBITRO",
+    "GARCÍA-CARPINTERO LÓPEZ, RICARDO",
+    "CRONOMETRADOR",
+    "GOMEZ CARBALLO, ARTURO",
+    "TÉCNICO SOPORTE VIDEO",
+    "RUIZ ALONSO, JESÚS ENRIQUE"
+  ],
+  "estadio": "Pabellón Manzanares Arenas",
+  "ciudad": "Manzanares",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "BOUZID STITOU, KHALID",
+      "equipo": "?",
+      "propia": true
+    },
+    {
+      "minuto": 14,
+      "jugador": "FERREIRA DA SILVA, CHARLES HENRIQUE",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "RIBEIRO RESENDE, HUMBERTO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "DE SANTANA BRITO, LUCAS VINICIUS",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 22,
+      "jugador": "LOPEZ DEL PINO, ALVARO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "FERREIRA DA SILVA, CHARLES HENRIQUE",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "GABRIEL GARCIA, DANIEL",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 12,
+      "jugador": "GABRIEL GARCIA, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 14,
+      "jugador": "RIBEIRO RESENDE, HUMBERTO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "DE PABLOS DE DIEGO, ELOY",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 28,
+      "jugador": "CARNEIRO DOS SANTOS, FABIO AUGUSTO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 31,
+      "jugador": "NEVES DE LIMA, ALISSON",
+      "equipo": "visitante",
+      "tipo": "roja",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "VADILLO SANCHEZ, ANTONIO JESUS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "LLANSOLA CUENCA, MIGUEL",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "PIZARRO HERRANZ, JUAN",
+  "titulares_local": [
+    "NAVARRO LOPEZ, ANTONIO",
+    "ESCRIBANO GOMEZ, ANTONIO",
+    "ALONSO JIMENEZ, JAVIER",
+    "ROBLES GASTELLUT, PABLO",
+    "GABRIEL GARCIA, DANIEL"
+  ],
+  "titulares_visitante": [
+    "VASCONCELOS CAVALCANTI, DENNIS",
+    "DE SANTANA BRITO, LUCAS VINICIUS",
+    "GRIS, ERNESTO CLAUDINO",
+    "CARNEIRO DOS SANTOS, FABIO AUGUSTO",
+    "MACHADO, LUCAS LEANDRO"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ PACHECO SERRANO, JAVIER",
+    "BARBOSA SANTANA, YANN",
+    "LOPEZ DEL PINO, ALVARO",
+    "DE PABLOS DE DIEGO, ELOY",
+    "BOUZID STITOU, KHALID",
+    "RIBEIRO RESENDE, HUMBERTO",
+    "CAMPOS PAINO, RAUL",
+    "GIL CAMACHO, JUAN EMILIO"
+  ],
+  "suplentes_visitante": [
+    "BARRON REDONDO, CARLOS",
+    "PEÑA ROMERO, DAVID",
+    "VELASCO MARUGAN, ANGEL",
+    "FERREIRA DA SILVA, CHARLES HENRIQUE",
+    "PASINATO BELORINI, DAVID",
+    "PIQUERAS DOLERA, MANUEL",
+    "LIMA MAIA, MATEUS",
+    "NEVES DE LIMA, ALISSON"
+  ],
+  "convocados_sin_jugar_local": [
+    "FERNANDEZ PACHECO SERRANO, JAVIER",
+    "BARBOSA SANTANA, YANN",
+    "LOPEZ DEL PINO, ALVARO",
+    "DE PABLOS DE DIEGO, ELOY",
+    "BOUZID STITOU, KHALID",
+    "RIBEIRO RESENDE, HUMBERTO",
+    "CAMPOS PAINO, RAUL",
+    "GIL CAMACHO, JUAN EMILIO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BARRON REDONDO, CARLOS",
+    "PEÑA ROMERO, DAVID",
+    "VELASCO MARUGAN, ANGEL",
+    "FERREIRA DA SILVA, CHARLES HENRIQUE",
+    "PASINATO BELORINI, DAVID",
+    "PIQUERAS DOLERA, MANUEL",
+    "LIMA MAIA, MATEUS",
+    "NEVES DE LIMA, ALISSON"
+  ],
+  "jugadores_local": [
+    "NAVARRO LOPEZ, ANTONIO",
+    "ESCRIBANO GOMEZ, ANTONIO",
+    "ALONSO JIMENEZ, JAVIER",
+    "ROBLES GASTELLUT, PABLO",
+    "GABRIEL GARCIA, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "VASCONCELOS CAVALCANTI, DENNIS",
+    "DE SANTANA BRITO, LUCAS VINICIUS",
+    "GRIS, ERNESTO CLAUDINO",
+    "CARNEIRO DOS SANTOS, FABIO AUGUSTO",
+    "MACHADO, LUCAS LEANDRO"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "NAVARRO LOPEZ, ANTONIO": 90,
+    "ESCRIBANO GOMEZ, ANTONIO": 90,
+    "ALONSO JIMENEZ, JAVIER": 90,
+    "ROBLES GASTELLUT, PABLO": 90,
+    "GABRIEL GARCIA, DANIEL": 90,
+    "VASCONCELOS CAVALCANTI, DENNIS": 90,
+    "DE SANTANA BRITO, LUCAS VINICIUS": 90,
+    "GRIS, ERNESTO CLAUDINO": 90,
+    "CARNEIRO DOS SANTOS, FABIO AUGUSTO": 90,
+    "MACHADO, LUCAS LEANDRO": 90
+  },
+  "portero_local": "NAVARRO LOPEZ, ANTONIO",
+  "portero_visitante": "VASCONCELOS CAVALCANTI, DENNIS",
+  "dorsales_local": {
+    "NAVARRO LOPEZ, ANTONIO": 12,
+    "ESCRIBANO GOMEZ, ANTONIO": 4,
+    "ALONSO JIMENEZ, JAVIER": 7,
+    "ROBLES GASTELLUT, PABLO": 8,
+    "GABRIEL GARCIA, DANIEL": 9
+  },
+  "dorsales_visitante": {
+    "VASCONCELOS CAVALCANTI, DENNIS": 2,
+    "DE SANTANA BRITO, LUCAS VINICIUS": 12,
+    "GRIS, ERNESTO CLAUDINO": 27,
+    "CARNEIRO DOS SANTOS, FABIO AUGUSTO": 28,
+    "MACHADO, LUCAS LEANDRO": 44
+  },
+  "suspendidos": [
+    "NEVES DE LIMA, ALISSON"
+  ],
+  "_marcador_widget": true
+}
