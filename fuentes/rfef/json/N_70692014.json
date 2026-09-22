@@ -1,0 +1,362 @@
+{
+  "acta_id": "N_70692014",
+  "filename": "Acta_N_70692014.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "23-06-2026",
+  "hora": "11:00",
+  "categoria": "Campeonato de Selecciones Autonómicas de Futbol Playa SUB-20 femenino (GRUPO B)",
+  "equipo_local": "SELECCIÓN MELILLENSE",
+  "equipo_visitante": "SELECCION REGIÓN DE MURCIA",
+  "goles_local": 2,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "JARA FERNÁNDEZ, CARLOS",
+    "ÁRBITRO 2",
+    "CARO MOGÍO, ÁNGEL",
+    "TERCER ÁRBITRO",
+    "MARTÍNEZ IBÁÑEZ, ALEJANDRO",
+    "CRONOMETRADOR",
+    "PAREJA NIETO, ENRIQUE"
+  ],
+  "estadio": "ROTA",
+  "ciudad": "Rota",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "PUJANTE CAMPILLO, IRENE",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 3,
+      "jugador": "TORNEL SAEZ, ZAIRA",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 14,
+      "jugador": "TORNEL SAEZ, ZAIRA",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 20,
+      "jugador": "MUÑOZ SALAZAR, AROA",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 22,
+      "jugador": "PUJANTE CAMPILLO, IRENE",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "PASHCHUK, YULIIA",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "ABDERRAHMAN AHMED, NUHAIRA",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 23,
+      "jugador": "MOHAMED EL MOUHAMMADIANE, NARA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "BRAVO ZAMORA, ANGELA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "SELECCIÓN MELILLENSE :",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "EN EL MINUTO 23 LA JUGADORA (10) MOHAMED EL MOUHAMMADIANE, NARA FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR REALIZAR OBSERVACIONES DE CARÁCTER TÉCNICO A UNA DE MIS DECISIONES.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "SELECCION REGIÓN DE MURCIA :",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "EN EL MINUTO 13 LA JUGADORA (8) BRAVO ZAMORA, ANGELA FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR NO RESPETAR LA DISTANCIA REGLAMENTARIA EN LA EJECUCIÓN DE UN SAQUE DE CENTRO.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "SELECCIÓN DE MELILLA:",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "PRESENTA LAS SIGUIENTES LICENCIAS:",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "- ENTRENADOR: JUAN MIGUEL VILLEGAS CÉSPEDES CON DNI: XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "- ENTRENADOR AUXILIAR: SERGIO MUÑOZ BENAVIDES CON DNI: XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "- DELEGADO: YAMAL MOHAMED MOHAMED CON DNI XXXXX.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "- ENCARGADO DE MATERIAL: JAVIER GONZÁLEZ LORENTE CON DNI XXXXX.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "SELECCIÓN DE MURCIA:",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "PRESENTA LAS SIGUIENTES LICENCIAS:",
+      "equipo": "?",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "- ENTRENADORA: ANDREA CARMONA LLORENTE CON DNI: XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "- ENTRENADORA AUXILIAR: INMACULADA SÁNCHEZ AMOR CON DNI: XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "- DELEGADO: MIGUEL MORENO ESTEBAN CON DNI XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "- FISIOTERAPEUTA: JOSÉ LUIS GARCÍA BERNAL CON DNI XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "- ENCARGADO DE MATERIAL: JUSTO MONDEJAR ORTUÑO CON DNI XXXXX.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "NORMAL",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DAHRI ABDESELAM, SIHAM",
+    "MOHAMED MOHAND, DANIAH",
+    "ABDERRAHMAN AHMED, NUHAIRA",
+    "BENAISA MOHAMED, SORAYA",
+    "MOHAMED EL MOUHAMMADIANE, NARA"
+  ],
+  "titulares_visitante": [
+    "CAMPILLO ALMARCHA, CORAL",
+    "PUJANTE CAMPILLO, IRENE",
+    "BERNAL VILLA, MIRIAM",
+    "PECES HIDALGO, GLORIA",
+    "TORNEL SAEZ, ZAIRA"
+  ],
+  "suplentes_local": [
+    "EL JOUHRATI HARROUNI, YASMINA",
+    "ABDELKADER ABDELMALIK, NABILA",
+    "BILKO, SOLOMIIA",
+    "SAID HAMDAOUI, NIRMIN",
+    "SEDIK MOHAMED, YOAIRA",
+    "EL GHOBACHI EL KASSIMI, ASIA",
+    "MUÑOZ SALAZAR, AROA"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ GALLEGO, ALICIA",
+    "TREVIÑO GARCIA, ALBA MARIA",
+    "GUEVARA HARO, YURENA",
+    "ARCOS HERNÁNDEZ, ALMA MARIA",
+    "BRAVO ZAMORA, ANGELA",
+    "PASHCHUK, YULIIA",
+    "VIVANCOS STUCKE, OLIVIA ANNA"
+  ],
+  "convocados_sin_jugar_local": [
+    "EL JOUHRATI HARROUNI, YASMINA",
+    "ABDELKADER ABDELMALIK, NABILA",
+    "BILKO, SOLOMIIA",
+    "SAID HAMDAOUI, NIRMIN",
+    "SEDIK MOHAMED, YOAIRA",
+    "EL GHOBACHI EL KASSIMI, ASIA",
+    "MUÑOZ SALAZAR, AROA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "LOPEZ GALLEGO, ALICIA",
+    "TREVIÑO GARCIA, ALBA MARIA",
+    "GUEVARA HARO, YURENA",
+    "ARCOS HERNÁNDEZ, ALMA MARIA",
+    "BRAVO ZAMORA, ANGELA",
+    "PASHCHUK, YULIIA",
+    "VIVANCOS STUCKE, OLIVIA ANNA"
+  ],
+  "jugadores_local": [
+    "DAHRI ABDESELAM, SIHAM",
+    "MOHAMED MOHAND, DANIAH",
+    "ABDERRAHMAN AHMED, NUHAIRA",
+    "BENAISA MOHAMED, SORAYA",
+    "MOHAMED EL MOUHAMMADIANE, NARA"
+  ],
+  "jugadores_visitante": [
+    "CAMPILLO ALMARCHA, CORAL",
+    "PUJANTE CAMPILLO, IRENE",
+    "BERNAL VILLA, MIRIAM",
+    "PECES HIDALGO, GLORIA",
+    "TORNEL SAEZ, ZAIRA"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "DAHRI ABDESELAM, SIHAM": 90,
+    "MOHAMED MOHAND, DANIAH": 90,
+    "ABDERRAHMAN AHMED, NUHAIRA": 90,
+    "BENAISA MOHAMED, SORAYA": 90,
+    "MOHAMED EL MOUHAMMADIANE, NARA": 90,
+    "CAMPILLO ALMARCHA, CORAL": 90,
+    "PUJANTE CAMPILLO, IRENE": 90,
+    "BERNAL VILLA, MIRIAM": 90,
+    "PECES HIDALGO, GLORIA": 90,
+    "TORNEL SAEZ, ZAIRA": 90
+  },
+  "portero_local": "DAHRI ABDESELAM, SIHAM",
+  "portero_visitante": "CAMPILLO ALMARCHA, CORAL",
+  "dorsales_local": {
+    "DAHRI ABDESELAM, SIHAM": 13,
+    "MOHAMED MOHAND, DANIAH": 5,
+    "ABDERRAHMAN AHMED, NUHAIRA": 7,
+    "BENAISA MOHAMED, SORAYA": 9,
+    "MOHAMED EL MOUHAMMADIANE, NARA": 10
+  },
+  "dorsales_visitante": {
+    "CAMPILLO ALMARCHA, CORAL": 13,
+    "PUJANTE CAMPILLO, IRENE": 4,
+    "BERNAL VILLA, MIRIAM": 5,
+    "PECES HIDALGO, GLORIA": 7,
+    "TORNEL SAEZ, ZAIRA": 9
+  },
+  "suspendidos": [
+    "NINGUNA",
+    "PRESENTA LAS SIGUIENTES LICENCIAS:"
+  ],
+  "_marcador_widget": true
+}
