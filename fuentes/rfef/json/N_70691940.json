@@ -1,0 +1,172 @@
+{
+  "acta_id": "N_70691940",
+  "filename": "Acta_N_70691940.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "24-06-2026",
+  "hora": "09:00",
+  "categoria": "División Honor Cadete Playa (DHC)",
+  "equipo_local": "MENTIDERO CADIZ C.D.",
+  "equipo_visitante": "CLUB DEPORTIVO DE FUTBOL FRAN MEJIAS",
+  "goles_local": 3,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "OLTRA SÁEZ, MARC",
+    "ÁRBITRO 2",
+    "ARENAS MORA, POL",
+    "TERCER ÁRBITRO",
+    "TABIZA AHOUARY, MOHAMED",
+    "CRONOMETRADOR",
+    "BERJAGA RUZ, ANGEL"
+  ],
+  "estadio": "ROSES",
+  "ciudad": "Roses",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "MARTIN TORRES, IKER",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "DIAZ BOZA, RUBEN",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "SANCHEZ VEGA, YAGO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "SANCHEZ VEGA, YAGO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "ESTRUGO GONZALEZ, HECTOR",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "BARRANCO VERDU, FABIO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "MERA OLIVA, FRANCISCO",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "BARRANCO VERDU, FABIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "MEJIAS NOYA, FRANCISCO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": "NUÑEZ SANCHEZ, JOSE ANTONIO",
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "NUÑEZ SANCHEZ, JOSE ANTONIO",
+  "titulares_local": [
+    "CORDERO SOSA, MARIO",
+    "MORALES FRANCO, JOSE MANUEL",
+    "PÉREZ SANCHEZ, JUAN MIGUEL",
+    "BARRANCO VERDU, FABIO",
+    "FERNANDEZ GONZALEZ, ALEJANDRO"
+  ],
+  "titulares_visitante": [
+    "RUIZ BRUZON, JOSE MANUEL",
+    "OLVERA GOMEZ, YERAY",
+    "MERA OLIVA, FRANCISCO",
+    "ARANA SANCHEZ, JESUS MANUEL",
+    "MARTIN TORRES, IKER"
+  ],
+  "suplentes_local": [
+    "ESTRUGO GONZALEZ, HECTOR",
+    "PRADO MARTINEZ, ALBERTO",
+    "DIAZ BOZA, RUBEN"
+  ],
+  "suplentes_visitante": [
+    "CABANAS PEREIRO, ALEJANDRO",
+    "CRUZ VALERO, IKER",
+    "PEREZ GOMEZ, LUIS MIGUEL",
+    "SANCHEZ VEGA, YAGO",
+    "FERNANDEZ REAL, ADRIAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "ESTRUGO GONZALEZ, HECTOR",
+    "PRADO MARTINEZ, ALBERTO",
+    "DIAZ BOZA, RUBEN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CABANAS PEREIRO, ALEJANDRO",
+    "CRUZ VALERO, IKER",
+    "PEREZ GOMEZ, LUIS MIGUEL",
+    "SANCHEZ VEGA, YAGO",
+    "FERNANDEZ REAL, ADRIAN"
+  ],
+  "jugadores_local": [
+    "CORDERO SOSA, MARIO",
+    "MORALES FRANCO, JOSE MANUEL",
+    "PÉREZ SANCHEZ, JUAN MIGUEL",
+    "BARRANCO VERDU, FABIO",
+    "FERNANDEZ GONZALEZ, ALEJANDRO"
+  ],
+  "jugadores_visitante": [
+    "RUIZ BRUZON, JOSE MANUEL",
+    "OLVERA GOMEZ, YERAY",
+    "MERA OLIVA, FRANCISCO",
+    "ARANA SANCHEZ, JESUS MANUEL",
+    "MARTIN TORRES, IKER"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "CORDERO SOSA, MARIO": 90,
+    "MORALES FRANCO, JOSE MANUEL": 90,
+    "PÉREZ SANCHEZ, JUAN MIGUEL": 90,
+    "BARRANCO VERDU, FABIO": 90,
+    "FERNANDEZ GONZALEZ, ALEJANDRO": 90,
+    "RUIZ BRUZON, JOSE MANUEL": 90,
+    "OLVERA GOMEZ, YERAY": 90,
+    "MERA OLIVA, FRANCISCO": 90,
+    "ARANA SANCHEZ, JESUS MANUEL": 90,
+    "MARTIN TORRES, IKER": 90
+  },
+  "portero_local": "CORDERO SOSA, MARIO",
+  "portero_visitante": "RUIZ BRUZON, JOSE MANUEL",
+  "dorsales_local": {
+    "CORDERO SOSA, MARIO": 1,
+    "MORALES FRANCO, JOSE MANUEL": 3,
+    "PÉREZ SANCHEZ, JUAN MIGUEL": 4,
+    "BARRANCO VERDU, FABIO": 10,
+    "FERNANDEZ GONZALEZ, ALEJANDRO": 14
+  },
+  "dorsales_visitante": {
+    "RUIZ BRUZON, JOSE MANUEL": 1,
+    "OLVERA GOMEZ, YERAY": 4,
+    "MERA OLIVA, FRANCISCO": 5,
+    "ARANA SANCHEZ, JESUS MANUEL": 6,
+    "MARTIN TORRES, IKER": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
