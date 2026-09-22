@@ -1,0 +1,175 @@
+{
+  "acta_id": "N_70691884",
+  "filename": "Acta_N_70691884.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "20-06-2026",
+  "hora": "09:30",
+  "categoria": "Campeonato de España de Clubes Base Fútbol Sala Sub-10 Masculino (Fase Final)",
+  "equipo_local": "ALJUCER F.S.-CIUDAD DE MURCIA",
+  "equipo_visitante": "F.S. CIUDAD DE ALCORCON",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "VENTOSA MARTINEZ, ALEJANDRO",
+    "ÁRBITRO 2",
+    "MAZOUZI CHAKIR, ABDELILAH",
+    "CRONOMETRADOR",
+    "MARTIN BELCHI, ALEJANDRO LUIS"
+  ],
+  "estadio": "Pabellón Municipal La Marazuela",
+  "ciudad": "Las Rozas de Madrid",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "MATEOS GIL, AITOR",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 14,
+      "jugador": "MATEOS GIL, AITOR",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "ALONSO MARTIN, DANIEL",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "GONZALEZ MADRID, BORJA",
+      "equipo": "?",
+      "propia": true
+    },
+    {
+      "minuto": 31,
+      "jugador": "CASCALES FUENTES, MARTIN",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "MARIN GARCIA, MIGUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 18,
+      "jugador": "MURILLO MOLERO, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "MURILLO FERNÁNDEZ, ANTONIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "BLANCO SÁNCHEZ, FRANCISCO JOSÉ",
+  "titulares_local": [
+    "ERRAZU GIRONA, ALBERTO",
+    "MATEOS GIL, AITOR",
+    "HORTAL PEREA, MIGUEL",
+    "MARIN GARCIA, MIGUEL",
+    "CASCALES FUENTES, MARTIN"
+  ],
+  "titulares_visitante": [
+    "SANCHEZ VICENTE, DANIEL",
+    "MARTIN DIAZ, DIEGO",
+    "SAÑUDO CAMARA, PABLO",
+    "CASADO MARTINEZ, CELIA",
+    "CHELARIU GARCIA, AITOR"
+  ],
+  "suplentes_local": [
+    "SANCHEZ MARTINEZ, GUILLERMO",
+    "GARCÍA PINERO, FRANCISCO",
+    "GONZALEZ MADRID, BORJA",
+    "SUESCUM HERNANDEZ, FABIO"
+  ],
+  "suplentes_visitante": [
+    "MELERO MONTERO, DANIEL",
+    "ALONSO MARTIN, DANIEL",
+    "JUAREZ SERRANO, MATEO",
+    "PEREZ MORILLAS, DIEGO",
+    "MOLINA PALACIOS, ALBERTO",
+    "ZAYAS RODRIGUEZ, ERIC",
+    "HERMOSO PEREZ, RODRIGO",
+    "PALMERO RIVAS, DAVID",
+    "MURILLO MOLERO, MARIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "SANCHEZ MARTINEZ, GUILLERMO",
+    "GARCÍA PINERO, FRANCISCO",
+    "GONZALEZ MADRID, BORJA",
+    "SUESCUM HERNANDEZ, FABIO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MELERO MONTERO, DANIEL",
+    "ALONSO MARTIN, DANIEL",
+    "JUAREZ SERRANO, MATEO",
+    "PEREZ MORILLAS, DIEGO",
+    "MOLINA PALACIOS, ALBERTO",
+    "ZAYAS RODRIGUEZ, ERIC",
+    "HERMOSO PEREZ, RODRIGO",
+    "PALMERO RIVAS, DAVID",
+    "MURILLO MOLERO, MARIO"
+  ],
+  "jugadores_local": [
+    "ERRAZU GIRONA, ALBERTO",
+    "MATEOS GIL, AITOR",
+    "HORTAL PEREA, MIGUEL",
+    "MARIN GARCIA, MIGUEL",
+    "CASCALES FUENTES, MARTIN"
+  ],
+  "jugadores_visitante": [
+    "SANCHEZ VICENTE, DANIEL",
+    "MARTIN DIAZ, DIEGO",
+    "SAÑUDO CAMARA, PABLO",
+    "CASADO MARTINEZ, CELIA",
+    "CHELARIU GARCIA, AITOR"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "ERRAZU GIRONA, ALBERTO": 90,
+    "MATEOS GIL, AITOR": 90,
+    "HORTAL PEREA, MIGUEL": 90,
+    "MARIN GARCIA, MIGUEL": 90,
+    "CASCALES FUENTES, MARTIN": 90,
+    "SANCHEZ VICENTE, DANIEL": 90,
+    "MARTIN DIAZ, DIEGO": 90,
+    "SAÑUDO CAMARA, PABLO": 90,
+    "CASADO MARTINEZ, CELIA": 90,
+    "CHELARIU GARCIA, AITOR": 90
+  },
+  "portero_local": "ERRAZU GIRONA, ALBERTO",
+  "portero_visitante": "SANCHEZ VICENTE, DANIEL",
+  "dorsales_local": {
+    "ERRAZU GIRONA, ALBERTO": 48,
+    "MATEOS GIL, AITOR": 7,
+    "HORTAL PEREA, MIGUEL": 8,
+    "MARIN GARCIA, MIGUEL": 20,
+    "CASCALES FUENTES, MARTIN": 23
+  },
+  "dorsales_visitante": {
+    "SANCHEZ VICENTE, DANIEL": 1,
+    "MARTIN DIAZ, DIEGO": 9,
+    "SAÑUDO CAMARA, PABLO": 10,
+    "CASADO MARTINEZ, CELIA": 11,
+    "CHELARIU GARCIA, AITOR": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
