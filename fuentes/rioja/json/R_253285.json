@@ -1,0 +1,229 @@
+{
+  "acta_id": "R_253285",
+  "filename": "Acta_R_253285.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 5,
+  "fecha": "08-11-2025",
+  "hora": "17:00",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "TEDEON",
+  "equipo_visitante": "LAURUS Carnicería Dani A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "PULIDO GOMEZ, CARLA"
+  ],
+  "estadio": "C.M. SAN MIGUEL - H.A. (NAVARRETE)",
+  "ciudad": "Navarrete",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "RUIZ CALVO, DANIEL",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "SIERRA LAFUENTE, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "HERNANDEZ CALVO B, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "LAURUS Carnicería Dani A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "AGUIRRE GUERRERO, DAVID",
+  "entrenador_visitante": "AGUIRRE GONZALEZ, CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAENZ LAGUNA DEL RINCON, ALBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAENZ LAGUNA DEL RINCON, ALBERTO",
+  "delegado_equipo_visitante": "CUADRA ARROYO, SAUL",
+  "titulares_local": [
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+    "LAFUENTE RUIZ, BELTRAN",
+    "MORLAN RIVERO, JAVIER",
+    "HERNANDEZ HERNANDEZ, MILLAN",
+    "LAFUENTE RUIZ, MATEO",
+    "ZAMORA RUIZ, JAVIER",
+    "MUÑOZ RAMOS, MIGUEL",
+    "KEITA SANOGO, IBRAHIM",
+    "SIERRA LAFUENTE, LUCAS",
+    "MARTINEZ AZOFRA, MIGUEL",
+    "BARRASA VITERI, MARCO"
+  ],
+  "titulares_visitante": [
+    "MACHO PALACIOS, IKER",
+    "VERGARA VERDE, ALVARO",
+    "RUIZ CALVO, DANIEL",
+    "PASCUAL ZORZANO, JORGE",
+    "ALONSO PEREZ, MARCOS",
+    "OJEDA GARCIA M, MARCO",
+    "FERNANDEZ ULLOA, SERGIO LEONEL",
+    "RODRIGUEZ MERINO, SERGIO",
+    "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN",
+    "CUEZVA CRESPO, MARCOS",
+    "RODRIGUEZ GALLEGO, MARCOS"
+  ],
+  "suplentes_local": [
+    "CASTAÑARES HERNAEZ, MOISES",
+    "HERNANDEZ CALVO B, DIEGO",
+    "HONRUBIA BASALO, GONZALO"
+  ],
+  "suplentes_visitante": [
+    "VEGA CARVAJAL, RENATO ARITZ",
+    "NESTARES LOPEZ, VICTOR",
+    "NZEZA DIAKANUA, FEDOR",
+    "OYORO, YVAN SAMUEL",
+    "BAMBA KONATE, ISSA Z"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "VEGA CARVAJAL, RENATO ARITZ",
+    "NZEZA DIAKANUA, FEDOR"
+  ],
+  "jugadores_local": [
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+    "LAFUENTE RUIZ, BELTRAN",
+    "MORLAN RIVERO, JAVIER",
+    "HERNANDEZ HERNANDEZ, MILLAN",
+    "LAFUENTE RUIZ, MATEO",
+    "ZAMORA RUIZ, JAVIER",
+    "MUÑOZ RAMOS, MIGUEL",
+    "KEITA SANOGO, IBRAHIM",
+    "SIERRA LAFUENTE, LUCAS",
+    "MARTINEZ AZOFRA, MIGUEL",
+    "BARRASA VITERI, MARCO",
+    "CASTAÑARES HERNAEZ, MOISES",
+    "HERNANDEZ CALVO B, DIEGO",
+    "HONRUBIA BASALO, GONZALO"
+  ],
+  "jugadores_visitante": [
+    "MACHO PALACIOS, IKER",
+    "VERGARA VERDE, ALVARO",
+    "RUIZ CALVO, DANIEL",
+    "PASCUAL ZORZANO, JORGE",
+    "ALONSO PEREZ, MARCOS",
+    "OJEDA GARCIA M, MARCO",
+    "FERNANDEZ ULLOA, SERGIO LEONEL",
+    "RODRIGUEZ MERINO, SERGIO",
+    "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN",
+    "CUEZVA CRESPO, MARCOS",
+    "RODRIGUEZ GALLEGO, MARCOS",
+    "OYORO, YVAN SAMUEL",
+    "NESTARES LOPEZ, VICTOR",
+    "BAMBA KONATE, ISSA Z"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "CASTAÑARES HERNAEZ, MOISES",
+      "sale": "MUÑOZ RAMOS, MIGUEL"
+    },
+    {
+      "min": 68,
+      "entra": "HERNANDEZ CALVO B, DIEGO",
+      "sale": "MARTINEZ AZOFRA, MIGUEL"
+    },
+    {
+      "min": 76,
+      "entra": "HONRUBIA BASALO, GONZALO",
+      "sale": "HERNANDEZ HERNANDEZ, MILLAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 57,
+      "entra": "OYORO, YVAN SAMUEL",
+      "sale": "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN"
+    },
+    {
+      "min": 57,
+      "entra": "NESTARES LOPEZ, VICTOR",
+      "sale": "RODRIGUEZ GALLEGO, MARCOS"
+    },
+    {
+      "min": 82,
+      "entra": "BAMBA KONATE, ISSA Z",
+      "sale": "RUIZ CALVO, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR": 90,
+    "LAFUENTE RUIZ, BELTRAN": 90,
+    "MORLAN RIVERO, JAVIER": 90,
+    "HERNANDEZ HERNANDEZ, MILLAN": 76,
+    "LAFUENTE RUIZ, MATEO": 90,
+    "ZAMORA RUIZ, JAVIER": 90,
+    "MUÑOZ RAMOS, MIGUEL": 46,
+    "KEITA SANOGO, IBRAHIM": 90,
+    "SIERRA LAFUENTE, LUCAS": 90,
+    "MARTINEZ AZOFRA, MIGUEL": 68,
+    "BARRASA VITERI, MARCO": 90,
+    "CASTAÑARES HERNAEZ, MOISES": 44,
+    "HERNANDEZ CALVO B, DIEGO": 22,
+    "HONRUBIA BASALO, GONZALO": 14,
+    "MACHO PALACIOS, IKER": 90,
+    "VERGARA VERDE, ALVARO": 90,
+    "RUIZ CALVO, DANIEL": 82,
+    "PASCUAL ZORZANO, JORGE": 90,
+    "ALONSO PEREZ, MARCOS": 90,
+    "OJEDA GARCIA M, MARCO": 90,
+    "FERNANDEZ ULLOA, SERGIO LEONEL": 90,
+    "RODRIGUEZ MERINO, SERGIO": 90,
+    "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN": 57,
+    "CUEZVA CRESPO, MARCOS": 90,
+    "RODRIGUEZ GALLEGO, MARCOS": 57,
+    "OYORO, YVAN SAMUEL": 33,
+    "NESTARES LOPEZ, VICTOR": 33,
+    "BAMBA KONATE, ISSA Z": 8
+  },
+  "portero_local": "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+  "portero_visitante": "MACHO PALACIOS, IKER",
+  "dorsales_local": {
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR": 31,
+    "LAFUENTE RUIZ, BELTRAN": 2,
+    "MORLAN RIVERO, JAVIER": 3,
+    "HERNANDEZ HERNANDEZ, MILLAN": 6,
+    "LAFUENTE RUIZ, MATEO": 11,
+    "ZAMORA RUIZ, JAVIER": 12,
+    "MUÑOZ RAMOS, MIGUEL": 15,
+    "KEITA SANOGO, IBRAHIM": 16,
+    "SIERRA LAFUENTE, LUCAS": 17,
+    "MARTINEZ AZOFRA, MIGUEL": 19,
+    "BARRASA VITERI, MARCO": 20
+  },
+  "dorsales_visitante": {
+    "MACHO PALACIOS, IKER": 25,
+    "VERGARA VERDE, ALVARO": 2,
+    "RUIZ CALVO, DANIEL": 3,
+    "PASCUAL ZORZANO, JORGE": 5,
+    "ALONSO PEREZ, MARCOS": 7,
+    "OJEDA GARCIA M, MARCO": 10,
+    "FERNANDEZ ULLOA, SERGIO LEONEL": 12,
+    "RODRIGUEZ MERINO, SERGIO": 18,
+    "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN": 19,
+    "CUEZVA CRESPO, MARCOS": 21,
+    "RODRIGUEZ GALLEGO, MARCOS": 26
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
