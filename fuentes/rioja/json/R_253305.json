@@ -1,0 +1,273 @@
+{
+  "acta_id": "R_253305",
+  "filename": "Acta_R_253305.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 9,
+  "fecha": "14-12-2025",
+  "hora": "12:00",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "NAXARA",
+  "equipo_visitante": "TEDEON",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "AIT ALI MAHYOUTI , ZAKARYA"
+  ],
+  "estadio": "C.F. CEMENTERIO (NAJERA)",
+  "ciudad": "Nájera",
+  "goleadores": [
+    {
+      "minuto": 75,
+      "jugador": "MARCA TURBI, BRUNO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "TUESTA VILLOSLADA, MARIO",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 89,
+      "jugador": "TUESTA VILLOSLADA, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "TEDEON",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 14,
+      "jugador": "MORLAN RIVERO, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "LAFUENTE RUIZ, BELTRAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "AGUIRRE GUERRERO, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LARHLID, YOUSSEF",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERREIRA CABEZA, LEONARDO SEBASTIÁN",
+  "delegado_equipo_visitante": "SAENZ LAGUNA DEL RINCON, ALBERTO",
+  "titulares_local": [
+    "GARCIA RUBIO, GINES",
+    "ARRIOLA GARCIA, CARLOS",
+    "ESQUIDE MARTINEZ, CESAR",
+    "FERNANDEZ ABAD, DANIEL",
+    "TALBI, YAHYA",
+    "EL FARRECH HANAFI, ELYAS",
+    "MARIN GALAN, JULIAN",
+    "ANTOLIN RUIZ, ERIC",
+    "MARCA TURBI, BRUNO",
+    "ANDREI, ARTUR DENIS",
+    "FERREIRA PEREZ, IVAN LEONARDO"
+  ],
+  "titulares_visitante": [
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+    "LAFUENTE RUIZ, BELTRAN",
+    "MORLAN RIVERO, JAVIER",
+    "HERNANDEZ HERNANDEZ, MILLAN",
+    "LAFUENTE RUIZ, MATEO",
+    "MARTINEZ AZOFRA, MIGUEL",
+    "SIERRA LAFUENTE, LUCAS",
+    "BARRASA VITERI, MARCO",
+    "IZQUIERDO LOPEZ T, HUGO",
+    "ZAMORA RUIZ, JAVIER",
+    "VELANDIA TOFE, NICOLAS"
+  ],
+  "suplentes_local": [
+    "PEREZ VELASCO, GONZALO",
+    "MERINO CORDOBA, JAIME",
+    "ARPON GARCIA, ALVARO",
+    "ARANZUBIA IBAÑEZ, JORGE",
+    "SALAZAR DULCE, JAVIER",
+    "TUESTA VILLOSLADA, MARIO",
+    "GARCIA ALTUZARRA, HUGO"
+  ],
+  "suplentes_visitante": [
+    "HERNANDEZ CALVO B, DIEGO",
+    "HONRUBIA BASALO, GONZALO",
+    "MUÑOZ RAMOS, MIGUEL",
+    "IGLESIAS FERNANDEZ, ALEJANDRO",
+    "HERRERA GERALDO, IVAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "PEREZ VELASCO, GONZALO",
+    "MERINO CORDOBA, JAIME"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GARCIA RUBIO, GINES",
+    "ARRIOLA GARCIA, CARLOS",
+    "ESQUIDE MARTINEZ, CESAR",
+    "FERNANDEZ ABAD, DANIEL",
+    "TALBI, YAHYA",
+    "EL FARRECH HANAFI, ELYAS",
+    "MARIN GALAN, JULIAN",
+    "ANTOLIN RUIZ, ERIC",
+    "MARCA TURBI, BRUNO",
+    "ANDREI, ARTUR DENIS",
+    "FERREIRA PEREZ, IVAN LEONARDO",
+    "TUESTA VILLOSLADA, MARIO",
+    "ARANZUBIA IBAÑEZ, JORGE",
+    "SALAZAR DULCE, JAVIER",
+    "ARPON GARCIA, ALVARO",
+    "GARCIA ALTUZARRA, HUGO"
+  ],
+  "jugadores_visitante": [
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+    "LAFUENTE RUIZ, BELTRAN",
+    "MORLAN RIVERO, JAVIER",
+    "HERNANDEZ HERNANDEZ, MILLAN",
+    "LAFUENTE RUIZ, MATEO",
+    "MARTINEZ AZOFRA, MIGUEL",
+    "SIERRA LAFUENTE, LUCAS",
+    "BARRASA VITERI, MARCO",
+    "IZQUIERDO LOPEZ T, HUGO",
+    "ZAMORA RUIZ, JAVIER",
+    "VELANDIA TOFE, NICOLAS",
+    "IGLESIAS FERNANDEZ, ALEJANDRO",
+    "HONRUBIA BASALO, GONZALO",
+    "HERRERA GERALDO, IVAN",
+    "HERNANDEZ CALVO B, DIEGO",
+    "MUÑOZ RAMOS, MIGUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 65,
+      "entra": "TUESTA VILLOSLADA, MARIO",
+      "sale": "MARIN GALAN, JULIAN"
+    },
+    {
+      "min": 65,
+      "entra": "ARANZUBIA IBAÑEZ, JORGE",
+      "sale": "FERNANDEZ ABAD, DANIEL"
+    },
+    {
+      "min": 71,
+      "entra": "SALAZAR DULCE, JAVIER",
+      "sale": "ARRIOLA GARCIA, CARLOS"
+    },
+    {
+      "min": 71,
+      "entra": "ARPON GARCIA, ALVARO",
+      "sale": "FERREIRA PEREZ, IVAN LEONARDO"
+    },
+    {
+      "min": 80,
+      "entra": "GARCIA ALTUZARRA, HUGO",
+      "sale": "MARCA TURBI, BRUNO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "IGLESIAS FERNANDEZ, ALEJANDRO",
+      "sale": "MARTINEZ AZOFRA, MIGUEL"
+    },
+    {
+      "min": 65,
+      "entra": "HONRUBIA BASALO, GONZALO",
+      "sale": "SIERRA LAFUENTE, LUCAS"
+    },
+    {
+      "min": 65,
+      "entra": "HERRERA GERALDO, IVAN",
+      "sale": "LAFUENTE RUIZ, BELTRAN"
+    },
+    {
+      "min": 78,
+      "entra": "HERNANDEZ CALVO B, DIEGO",
+      "sale": "HERNANDEZ HERNANDEZ, MILLAN"
+    },
+    {
+      "min": 78,
+      "entra": "MUÑOZ RAMOS, MIGUEL",
+      "sale": "LAFUENTE RUIZ, MATEO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA RUBIO, GINES": 90,
+    "ARRIOLA GARCIA, CARLOS": 71,
+    "ESQUIDE MARTINEZ, CESAR": 90,
+    "FERNANDEZ ABAD, DANIEL": 65,
+    "TALBI, YAHYA": 90,
+    "EL FARRECH HANAFI, ELYAS": 90,
+    "MARIN GALAN, JULIAN": 65,
+    "ANTOLIN RUIZ, ERIC": 90,
+    "MARCA TURBI, BRUNO": 80,
+    "ANDREI, ARTUR DENIS": 90,
+    "FERREIRA PEREZ, IVAN LEONARDO": 71,
+    "TUESTA VILLOSLADA, MARIO": 25,
+    "ARANZUBIA IBAÑEZ, JORGE": 25,
+    "SALAZAR DULCE, JAVIER": 19,
+    "ARPON GARCIA, ALVARO": 19,
+    "GARCIA ALTUZARRA, HUGO": 10,
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR": 90,
+    "LAFUENTE RUIZ, BELTRAN": 65,
+    "MORLAN RIVERO, JAVIER": 90,
+    "HERNANDEZ HERNANDEZ, MILLAN": 78,
+    "LAFUENTE RUIZ, MATEO": 78,
+    "MARTINEZ AZOFRA, MIGUEL": 45,
+    "SIERRA LAFUENTE, LUCAS": 65,
+    "BARRASA VITERI, MARCO": 90,
+    "IZQUIERDO LOPEZ T, HUGO": 90,
+    "ZAMORA RUIZ, JAVIER": 90,
+    "VELANDIA TOFE, NICOLAS": 90,
+    "IGLESIAS FERNANDEZ, ALEJANDRO": 45,
+    "HONRUBIA BASALO, GONZALO": 25,
+    "HERRERA GERALDO, IVAN": 25,
+    "HERNANDEZ CALVO B, DIEGO": 12,
+    "MUÑOZ RAMOS, MIGUEL": 12
+  },
+  "portero_local": "GARCIA RUBIO, GINES",
+  "portero_visitante": "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+  "dorsales_local": {
+    "GARCIA RUBIO, GINES": 1,
+    "ARRIOLA GARCIA, CARLOS": 4,
+    "ESQUIDE MARTINEZ, CESAR": 6,
+    "FERNANDEZ ABAD, DANIEL": 9,
+    "TALBI, YAHYA": 10,
+    "EL FARRECH HANAFI, ELYAS": 12,
+    "MARIN GALAN, JULIAN": 17,
+    "ANTOLIN RUIZ, ERIC": 18,
+    "MARCA TURBI, BRUNO": 20,
+    "ANDREI, ARTUR DENIS": 24,
+    "FERREIRA PEREZ, IVAN LEONARDO": 30
+  },
+  "dorsales_visitante": {
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR": 13,
+    "LAFUENTE RUIZ, BELTRAN": 2,
+    "MORLAN RIVERO, JAVIER": 3,
+    "HERNANDEZ HERNANDEZ, MILLAN": 6,
+    "LAFUENTE RUIZ, MATEO": 7,
+    "MARTINEZ AZOFRA, MIGUEL": 8,
+    "SIERRA LAFUENTE, LUCAS": 9,
+    "BARRASA VITERI, MARCO": 10,
+    "IZQUIERDO LOPEZ T, HUGO": 11,
+    "ZAMORA RUIZ, JAVIER": 12,
+    "VELANDIA TOFE, NICOLAS": 17
+  },
+  "suspendidos": []
+}
