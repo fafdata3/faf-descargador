@@ -1,0 +1,284 @@
+{
+  "acta_id": "R_253330",
+  "filename": "Acta_R_253330.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 14,
+  "fecha": "01-02-2026",
+  "hora": "11:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "LAURUS Carnicería Dani A",
+  "equipo_visitante": "TEDEON",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "CARRERO CASERO, ISMAEL"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 3 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "MARTINEZ AZOFRA, MIGUEL",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "RUIZ CALVO, DANIEL",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "SALINAS LAFUENTE, HUGO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 75,
+      "jugador": "VERGARA VERDE, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 87,
+      "jugador": "NESTARES LOPEZ, VICTOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "TORRES MICUE, VALENTIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "TEDEON",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "HERNANDEZ HERNANDEZ, MILLAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "ARECHABALA FRIAS, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "AGUIRRE GONZALEZ, CARLOS",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CUADRA ARROYO , AARON",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CUADRA ARROYO , AARON",
+  "delegado_equipo_visitante": "AGUIRRE GUERRERO , DAVID",
+  "titulares_local": [
+    "VEGA CARVAJAL, RENATO ARITZ",
+    "VERGARA VERDE, ALVARO",
+    "RUIZ CALVO, DANIEL",
+    "NESTARES LOPEZ, VICTOR",
+    "PASCUAL ZORZANO, JORGE",
+    "ALONSO PEREZ, MARCOS",
+    "OYORO, YVAN SAMUEL",
+    "OJEDA GARCIA M, MARCO",
+    "FERNANDEZ ULLOA, SERGIO LEONEL",
+    "CUEZVA CRESPO, MARCOS",
+    "MACIAS GABARRI, ADAN"
+  ],
+  "titulares_visitante": [
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+    "LAFUENTE RUIZ, BELTRAN",
+    "MORLAN RIVERO, JAVIER",
+    "HERNANDEZ CALVO B, DIEGO",
+    "ARECHABALA FRIAS, ANDER",
+    "HERNANDEZ HERNANDEZ, MILLAN",
+    "MARTINEZ AZOFRA, MIGUEL",
+    "BARRASA VITERI, MARCO",
+    "ZAMORA RUIZ, JAVIER",
+    "SALINAS LAFUENTE, HUGO",
+    "VELANDIA TOFE, NICOLAS"
+  ],
+  "suplentes_local": [
+    "NZEZA DIAKANUA, FEDOR",
+    "RODRIGUEZ MERINO, SERGIO",
+    "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN",
+    "TORRES MICUE, VALENTIN",
+    "JIMENEZ PEREZ, ADAN"
+  ],
+  "suplentes_visitante": [
+    "SAIDI, ACHRAF",
+    "IZQUIERDO LOPEZ T, HUGO",
+    "HONRUBIA BASALO, GONZALO",
+    "MUÑOZ RAMOS, MIGUEL",
+    "HERRERA GERALDO, IVAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "NZEZA DIAKANUA, FEDOR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "HERRERA GERALDO, IVAN"
+  ],
+  "jugadores_local": [
+    "VEGA CARVAJAL, RENATO ARITZ",
+    "VERGARA VERDE, ALVARO",
+    "RUIZ CALVO, DANIEL",
+    "NESTARES LOPEZ, VICTOR",
+    "PASCUAL ZORZANO, JORGE",
+    "ALONSO PEREZ, MARCOS",
+    "OYORO, YVAN SAMUEL",
+    "OJEDA GARCIA M, MARCO",
+    "FERNANDEZ ULLOA, SERGIO LEONEL",
+    "CUEZVA CRESPO, MARCOS",
+    "MACIAS GABARRI, ADAN",
+    "TORRES MICUE, VALENTIN",
+    "JIMENEZ PEREZ, ADAN",
+    "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN",
+    "RODRIGUEZ MERINO, SERGIO"
+  ],
+  "jugadores_visitante": [
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+    "LAFUENTE RUIZ, BELTRAN",
+    "MORLAN RIVERO, JAVIER",
+    "HERNANDEZ CALVO B, DIEGO",
+    "ARECHABALA FRIAS, ANDER",
+    "HERNANDEZ HERNANDEZ, MILLAN",
+    "MARTINEZ AZOFRA, MIGUEL",
+    "BARRASA VITERI, MARCO",
+    "ZAMORA RUIZ, JAVIER",
+    "SALINAS LAFUENTE, HUGO",
+    "VELANDIA TOFE, NICOLAS",
+    "SAIDI, ACHRAF",
+    "IZQUIERDO LOPEZ T, HUGO",
+    "MUÑOZ RAMOS, MIGUEL",
+    "HONRUBIA BASALO, GONZALO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "TORRES MICUE, VALENTIN",
+      "sale": "VERGARA VERDE, ALVARO"
+    },
+    {
+      "min": 49,
+      "entra": "JIMENEZ PEREZ, ADAN",
+      "sale": "NESTARES LOPEZ, VICTOR"
+    },
+    {
+      "min": 72,
+      "entra": "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN",
+      "sale": "OYORO, YVAN SAMUEL"
+    },
+    {
+      "min": 72,
+      "entra": "RODRIGUEZ MERINO, SERGIO",
+      "sale": "MACIAS GABARRI, ADAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "SAIDI, ACHRAF",
+      "sale": "VELANDIA TOFE, NICOLAS"
+    },
+    {
+      "min": 58,
+      "entra": "IZQUIERDO LOPEZ T, HUGO",
+      "sale": "MARTINEZ AZOFRA, MIGUEL"
+    },
+    {
+      "min": 74,
+      "entra": "MUÑOZ RAMOS, MIGUEL",
+      "sale": "LAFUENTE RUIZ, BELTRAN"
+    },
+    {
+      "min": 74,
+      "entra": "HONRUBIA BASALO, GONZALO",
+      "sale": "BARRASA VITERI, MARCO"
+    }
+  ],
+  "minutos_jugadores": {
+    "VEGA CARVAJAL, RENATO ARITZ": 90,
+    "VERGARA VERDE, ALVARO": 49,
+    "RUIZ CALVO, DANIEL": 90,
+    "NESTARES LOPEZ, VICTOR": 49,
+    "PASCUAL ZORZANO, JORGE": 90,
+    "ALONSO PEREZ, MARCOS": 90,
+    "OYORO, YVAN SAMUEL": 72,
+    "OJEDA GARCIA M, MARCO": 90,
+    "FERNANDEZ ULLOA, SERGIO LEONEL": 90,
+    "CUEZVA CRESPO, MARCOS": 90,
+    "MACIAS GABARRI, ADAN": 72,
+    "TORRES MICUE, VALENTIN": 41,
+    "JIMENEZ PEREZ, ADAN": 41,
+    "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN": 18,
+    "RODRIGUEZ MERINO, SERGIO": 18,
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR": 90,
+    "LAFUENTE RUIZ, BELTRAN": 74,
+    "MORLAN RIVERO, JAVIER": 90,
+    "HERNANDEZ CALVO B, DIEGO": 90,
+    "ARECHABALA FRIAS, ANDER": 90,
+    "HERNANDEZ HERNANDEZ, MILLAN": 90,
+    "MARTINEZ AZOFRA, MIGUEL": 58,
+    "BARRASA VITERI, MARCO": 74,
+    "ZAMORA RUIZ, JAVIER": 90,
+    "SALINAS LAFUENTE, HUGO": 90,
+    "VELANDIA TOFE, NICOLAS": 36,
+    "SAIDI, ACHRAF": 54,
+    "IZQUIERDO LOPEZ T, HUGO": 32,
+    "MUÑOZ RAMOS, MIGUEL": 16,
+    "HONRUBIA BASALO, GONZALO": 16
+  },
+  "portero_local": "VEGA CARVAJAL, RENATO ARITZ",
+  "portero_visitante": "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+  "dorsales_local": {
+    "VEGA CARVAJAL, RENATO ARITZ": 1,
+    "VERGARA VERDE, ALVARO": 2,
+    "RUIZ CALVO, DANIEL": 3,
+    "NESTARES LOPEZ, VICTOR": 4,
+    "PASCUAL ZORZANO, JORGE": 5,
+    "ALONSO PEREZ, MARCOS": 7,
+    "OYORO, YVAN SAMUEL": 9,
+    "OJEDA GARCIA M, MARCO": 10,
+    "FERNANDEZ ULLOA, SERGIO LEONEL": 12,
+    "CUEZVA CRESPO, MARCOS": 21,
+    "MACIAS GABARRI, ADAN": 28
+  },
+  "dorsales_visitante": {
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR": 13,
+    "LAFUENTE RUIZ, BELTRAN": 2,
+    "MORLAN RIVERO, JAVIER": 3,
+    "HERNANDEZ CALVO B, DIEGO": 4,
+    "ARECHABALA FRIAS, ANDER": 5,
+    "HERNANDEZ HERNANDEZ, MILLAN": 6,
+    "MARTINEZ AZOFRA, MIGUEL": 8,
+    "BARRASA VITERI, MARCO": 10,
+    "ZAMORA RUIZ, JAVIER": 12,
+    "SALINAS LAFUENTE, HUGO": 16,
+    "VELANDIA TOFE, NICOLAS": 17
+  },
+  "suspendidos": []
+}
