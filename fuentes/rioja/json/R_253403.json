@@ -1,0 +1,288 @@
+{
+  "acta_id": "R_253403",
+  "filename": "Acta_R_253403.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "10-01-2026",
+  "hora": "16:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "EF ARNEDO Las Banderas",
+  "equipo_visitante": "ARNEDO",
+  "goles_local": 6,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "EZQUERRO EZQUERRO, ELOY"
+  ],
+  "estadio": "C.M. SENDERO - H.A. (ARNEDO)",
+  "ciudad": "Arnedo",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "GOMEZ HERRERA, EMANUEL",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 14,
+      "jugador": "CORDON RUIZ DE LA TORRE, LUCAS",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "GOMEZ HERRERA, EMANUEL",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "GOMEZ HERRERA, EMANUEL",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "LAHMINI EL HASNAQUI, ALI",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 84,
+      "jugador": "MARIN RUIZ, MARCOS",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "OUKHOUYA EL OUAFI, RAYAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "FERNANDEZ TOMAS, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "ARNEDO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 33,
+      "jugador": "LAMZIDI, YASSINE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MORENO GARCIA, JUAN C",
+  "entrenador_visitante": "ALONSO SANZ, JOSE I",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CORDON MIRANDA, JESUS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CORDON MIRANDA, JESUS",
+  "delegado_equipo_visitante": "RODRIGUEZ ROLDAN, JESUS MARIA",
+  "titulares_local": [
+    "MORENO SOLANA, VICTOR",
+    "EL YAZIDY BOUZALIM, YOUSSEF",
+    "MARTINEZ IBAÑEZ, ADRIAN",
+    "FERNANDEZ TOMAS, HUGO",
+    "TURLAN DELGADO, MARIO",
+    "MARIN RUIZ, MARCOS",
+    "CORDON RUIZ DE LA TORRE, LUCAS",
+    "GOMEZ HERRERA, EMANUEL",
+    "MONTENEGRO ARIAS, JUAN JOSE",
+    "OUKHOUYA EL OUAFI, RAYAN",
+    "AJLANE RAMLI, BILAL"
+  ],
+  "titulares_visitante": [
+    "KVIRIKADZE DOLIDZE, DANIEL",
+    "ARNEDO CABRERA, ALVARO",
+    "LAKHAL BOUARFA, MOHAMED",
+    "LAMZIDI, YASSINE",
+    "HERNANDEZ IBAÑEZ, ALEX",
+    "JIMENEZ HERCE, JUAN",
+    "GARCIA BELTRAN, ERIK",
+    "OUMHATOU OUTOURABBI, ALI",
+    "RAFIK EL HADIRI, ABDERRAHMANE",
+    "BUADZE, GIORGI",
+    "SOTA MIRANDA, ALVARO"
+  ],
+  "suplentes_local": [
+    "ARGAIZ RUIZ, VICTOR",
+    "ALLO MIRANDA, ALEX",
+    "JIMENEZ GARCIA, IGNACIO",
+    "LAHMINI EL HASNAQUI, ALI",
+    "OUAQUIT EL IMANI, SOUFIAN",
+    "EL ABBOUBI, OTMANE"
+  ],
+  "suplentes_visitante": [
+    "MARIN PEREZ, DARIO",
+    "EZZITI, NABIL",
+    "EZZITI, NADIR",
+    "LEMGAAD, YOUSSEF"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARGAIZ RUIZ, VICTOR"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MORENO SOLANA, VICTOR",
+    "EL YAZIDY BOUZALIM, YOUSSEF",
+    "MARTINEZ IBAÑEZ, ADRIAN",
+    "FERNANDEZ TOMAS, HUGO",
+    "TURLAN DELGADO, MARIO",
+    "MARIN RUIZ, MARCOS",
+    "CORDON RUIZ DE LA TORRE, LUCAS",
+    "GOMEZ HERRERA, EMANUEL",
+    "MONTENEGRO ARIAS, JUAN JOSE",
+    "OUKHOUYA EL OUAFI, RAYAN",
+    "AJLANE RAMLI, BILAL",
+    "JIMENEZ GARCIA, IGNACIO",
+    "OUAQUIT EL IMANI, SOUFIAN",
+    "LAHMINI EL HASNAQUI, ALI",
+    "ALLO MIRANDA, ALEX",
+    "EL ABBOUBI, OTMANE"
+  ],
+  "jugadores_visitante": [
+    "KVIRIKADZE DOLIDZE, DANIEL",
+    "ARNEDO CABRERA, ALVARO",
+    "LAKHAL BOUARFA, MOHAMED",
+    "LAMZIDI, YASSINE",
+    "HERNANDEZ IBAÑEZ, ALEX",
+    "JIMENEZ HERCE, JUAN",
+    "GARCIA BELTRAN, ERIK",
+    "OUMHATOU OUTOURABBI, ALI",
+    "RAFIK EL HADIRI, ABDERRAHMANE",
+    "BUADZE, GIORGI",
+    "SOTA MIRANDA, ALVARO",
+    "EZZITI, NABIL",
+    "LEMGAAD, YOUSSEF",
+    "MARIN PEREZ, DARIO",
+    "EZZITI, NADIR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "JIMENEZ GARCIA, IGNACIO",
+      "sale": "TURLAN DELGADO, MARIO"
+    },
+    {
+      "min": 46,
+      "entra": "OUAQUIT EL IMANI, SOUFIAN",
+      "sale": "MONTENEGRO ARIAS, JUAN JOSE"
+    },
+    {
+      "min": 52,
+      "entra": "LAHMINI EL HASNAQUI, ALI",
+      "sale": "OUKHOUYA EL OUAFI, RAYAN"
+    },
+    {
+      "min": 67,
+      "entra": "ALLO MIRANDA, ALEX",
+      "sale": "AJLANE RAMLI, BILAL"
+    },
+    {
+      "min": 67,
+      "entra": "EL ABBOUBI, OTMANE",
+      "sale": "MARTINEZ IBAÑEZ, ADRIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "EZZITI, NABIL",
+      "sale": "BUADZE, GIORGI"
+    },
+    {
+      "min": 60,
+      "entra": "LEMGAAD, YOUSSEF",
+      "sale": "RAFIK EL HADIRI, ABDERRAHMANE"
+    },
+    {
+      "min": 71,
+      "entra": "MARIN PEREZ, DARIO",
+      "sale": "LAKHAL BOUARFA, MOHAMED"
+    },
+    {
+      "min": 71,
+      "entra": "EZZITI, NADIR",
+      "sale": "ARNEDO CABRERA, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MORENO SOLANA, VICTOR": 90,
+    "EL YAZIDY BOUZALIM, YOUSSEF": 90,
+    "MARTINEZ IBAÑEZ, ADRIAN": 67,
+    "FERNANDEZ TOMAS, HUGO": 90,
+    "TURLAN DELGADO, MARIO": 46,
+    "MARIN RUIZ, MARCOS": 90,
+    "CORDON RUIZ DE LA TORRE, LUCAS": 90,
+    "GOMEZ HERRERA, EMANUEL": 90,
+    "MONTENEGRO ARIAS, JUAN JOSE": 46,
+    "OUKHOUYA EL OUAFI, RAYAN": 52,
+    "AJLANE RAMLI, BILAL": 67,
+    "JIMENEZ GARCIA, IGNACIO": 44,
+    "OUAQUIT EL IMANI, SOUFIAN": 44,
+    "LAHMINI EL HASNAQUI, ALI": 38,
+    "ALLO MIRANDA, ALEX": 23,
+    "EL ABBOUBI, OTMANE": 23,
+    "KVIRIKADZE DOLIDZE, DANIEL": 90,
+    "ARNEDO CABRERA, ALVARO": 71,
+    "LAKHAL BOUARFA, MOHAMED": 71,
+    "LAMZIDI, YASSINE": 90,
+    "HERNANDEZ IBAÑEZ, ALEX": 90,
+    "JIMENEZ HERCE, JUAN": 90,
+    "GARCIA BELTRAN, ERIK": 90,
+    "OUMHATOU OUTOURABBI, ALI": 90,
+    "RAFIK EL HADIRI, ABDERRAHMANE": 60,
+    "BUADZE, GIORGI": 46,
+    "SOTA MIRANDA, ALVARO": 90,
+    "EZZITI, NABIL": 44,
+    "LEMGAAD, YOUSSEF": 30,
+    "MARIN PEREZ, DARIO": 19,
+    "EZZITI, NADIR": 19
+  },
+  "portero_local": "MORENO SOLANA, VICTOR",
+  "portero_visitante": "KVIRIKADZE DOLIDZE, DANIEL",
+  "dorsales_local": {
+    "MORENO SOLANA, VICTOR": 13,
+    "EL YAZIDY BOUZALIM, YOUSSEF": 3,
+    "MARTINEZ IBAÑEZ, ADRIAN": 4,
+    "FERNANDEZ TOMAS, HUGO": 7,
+    "TURLAN DELGADO, MARIO": 8,
+    "MARIN RUIZ, MARCOS": 10,
+    "CORDON RUIZ DE LA TORRE, LUCAS": 11,
+    "GOMEZ HERRERA, EMANUEL": 17,
+    "MONTENEGRO ARIAS, JUAN JOSE": 18,
+    "OUKHOUYA EL OUAFI, RAYAN": 19,
+    "AJLANE RAMLI, BILAL": 23
+  },
+  "dorsales_visitante": {
+    "KVIRIKADZE DOLIDZE, DANIEL": 1,
+    "ARNEDO CABRERA, ALVARO": 2,
+    "LAKHAL BOUARFA, MOHAMED": 3,
+    "LAMZIDI, YASSINE": 4,
+    "HERNANDEZ IBAÑEZ, ALEX": 5,
+    "JIMENEZ HERCE, JUAN": 6,
+    "GARCIA BELTRAN, ERIK": 7,
+    "OUMHATOU OUTOURABBI, ALI": 8,
+    "RAFIK EL HADIRI, ABDERRAHMANE": 9,
+    "BUADZE, GIORGI": 10,
+    "SOTA MIRANDA, ALVARO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
