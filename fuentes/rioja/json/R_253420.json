@@ -1,0 +1,294 @@
+{
+  "acta_id": "R_253420",
+  "filename": "Acta_R_253420.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 14,
+  "fecha": "01-02-2026",
+  "hora": "13:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "PEÑA BALSAMAISO A",
+  "equipo_visitante": "PROMESAS EDF",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "VASALDUA JUSTO, SONIA"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 6 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 44,
+      "jugador": "ALBA HERNANDEZ, PABLO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 85,
+      "jugador": "HERRERO ULECIA, MARCOS",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 88,
+      "jugador": "GARCIA VERA, JHON J",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 19,
+      "jugador": "CORREA BEDOYA, JERONIMO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 19,
+      "jugador": "PROMESAS EDF",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "ROYO DIAZ, MARCOS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "FERNANDEZ SANTOS, SAMUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "REBOLLO MARTINEZ, MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "BOZALONGO PLAZA, NACHO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SARABIA ABASCAL, IMANOL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SOUAIDY, OUSSAMA",
+  "delegado_equipo_visitante": "GALLARDO LOPEZ, FRANCISCO",
+  "titulares_local": [
+    "GALILEA BARRIO, SERGIO",
+    "CORREA BEDOYA, JERONIMO",
+    "ALLOUNI ALLOUNI, YASSIR",
+    "ALBA HERNANDEZ, PABLO",
+    "NAVARRO DE CORTA, JORGE",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "LACALLE DE PEDRO, DAVID",
+    "MOLOVAE ESPINOZA, JOSEAN",
+    "HERRERO ULECIA, MARCOS",
+    "CARBONERAS RODRIGUEZ, MAURO"
+  ],
+  "titulares_visitante": [
+    "MARTINEZ GARCIA, ADRIAN",
+    "BAÑARES MARTINEZ, MARCOS",
+    "SAN JUAN GOMEZ, JULEN",
+    "ROYO DIAZ, MARCOS",
+    "FERNANDEZ SANTOS, SAMUEL",
+    "HERRERO HIDALGO, ALVARO",
+    "LARHLID, ABDALLAH",
+    "LARHLID LARHLID, ACHRAF",
+    "EZQUERRO ECHAPRESTO, MARCOS",
+    "MUR MUÑOZ, TOMAS",
+    "REBOLLO MARTINEZ, MIGUEL"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ MURO, MATEO",
+    "MARTINEZ AMELIBIA, JORGE",
+    "AGUILERA CEBRIAN, PABLO",
+    "GARCIA GUTIERREZ, ALEJANDRO",
+    "MEZIANE KAMOUNI, ZAYED",
+    "GARCIA VERA, JHON J",
+    "COQUECO PATIÑO, JUAN ESTEBAN"
+  ],
+  "suplentes_visitante": [
+    "SAGHIR ABOUMALEK, MOAD",
+    "MARTINEZ HERMIDA, ANGEL",
+    "GIL MORRAS, SERGIO",
+    "NVE OBAMA, DANIEL",
+    "BOZALONGO PLAZA, NACHO"
+  ],
+  "convocados_sin_jugar_local": [
+    "AGUILERA CEBRIAN, PABLO",
+    "MEZIANE KAMOUNI, ZAYED"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GALILEA BARRIO, SERGIO",
+    "CORREA BEDOYA, JERONIMO",
+    "ALLOUNI ALLOUNI, YASSIR",
+    "ALBA HERNANDEZ, PABLO",
+    "NAVARRO DE CORTA, JORGE",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "LACALLE DE PEDRO, DAVID",
+    "MOLOVAE ESPINOZA, JOSEAN",
+    "HERRERO ULECIA, MARCOS",
+    "CARBONERAS RODRIGUEZ, MAURO",
+    "GARCIA VERA, JHON J",
+    "MARTINEZ AMELIBIA, JORGE",
+    "FERNANDEZ MURO, MATEO",
+    "GARCIA GUTIERREZ, ALEJANDRO",
+    "COQUECO PATIÑO, JUAN ESTEBAN"
+  ],
+  "jugadores_visitante": [
+    "MARTINEZ GARCIA, ADRIAN",
+    "BAÑARES MARTINEZ, MARCOS",
+    "SAN JUAN GOMEZ, JULEN",
+    "ROYO DIAZ, MARCOS",
+    "FERNANDEZ SANTOS, SAMUEL",
+    "HERRERO HIDALGO, ALVARO",
+    "LARHLID, ABDALLAH",
+    "LARHLID LARHLID, ACHRAF",
+    "EZQUERRO ECHAPRESTO, MARCOS",
+    "MUR MUÑOZ, TOMAS",
+    "REBOLLO MARTINEZ, MIGUEL",
+    "GIL MORRAS, SERGIO",
+    "NVE OBAMA, DANIEL",
+    "BOZALONGO PLAZA, NACHO",
+    "MARTINEZ HERMIDA, ANGEL",
+    "SAGHIR ABOUMALEK, MOAD"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "GARCIA VERA, JHON J",
+      "sale": "ALBA HERNANDEZ, PABLO"
+    },
+    {
+      "min": 58,
+      "entra": "MARTINEZ AMELIBIA, JORGE",
+      "sale": "NAVARRO DE CORTA, JORGE"
+    },
+    {
+      "min": 77,
+      "entra": "FERNANDEZ MURO, MATEO",
+      "sale": "CARBONERAS RODRIGUEZ, MAURO"
+    },
+    {
+      "min": 88,
+      "entra": "GARCIA GUTIERREZ, ALEJANDRO",
+      "sale": "VACA ROSSELL, JOSEP CARLOS"
+    },
+    {
+      "min": 88,
+      "entra": "COQUECO PATIÑO, JUAN ESTEBAN",
+      "sale": "CORREA BEDOYA, JERONIMO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "GIL MORRAS, SERGIO",
+      "sale": "ROYO DIAZ, MARCOS"
+    },
+    {
+      "min": 72,
+      "entra": "NVE OBAMA, DANIEL",
+      "sale": "LARHLID LARHLID, ACHRAF"
+    },
+    {
+      "min": 72,
+      "entra": "BOZALONGO PLAZA, NACHO",
+      "sale": "MUR MUÑOZ, TOMAS"
+    },
+    {
+      "min": 77,
+      "entra": "MARTINEZ HERMIDA, ANGEL",
+      "sale": "REBOLLO MARTINEZ, MIGUEL"
+    },
+    {
+      "min": 77,
+      "entra": "SAGHIR ABOUMALEK, MOAD",
+      "sale": "SAN JUAN GOMEZ, JULEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "GALILEA BARRIO, SERGIO": 90,
+    "CORREA BEDOYA, JERONIMO": 88,
+    "ALLOUNI ALLOUNI, YASSIR": 90,
+    "ALBA HERNANDEZ, PABLO": 58,
+    "NAVARRO DE CORTA, JORGE": 58,
+    "VACA ROSSELL, JOSEP CARLOS": 88,
+    "SHTEMBARI AGARAJ, ALEX": 90,
+    "LACALLE DE PEDRO, DAVID": 90,
+    "MOLOVAE ESPINOZA, JOSEAN": 90,
+    "HERRERO ULECIA, MARCOS": 90,
+    "CARBONERAS RODRIGUEZ, MAURO": 77,
+    "GARCIA VERA, JHON J": 32,
+    "MARTINEZ AMELIBIA, JORGE": 32,
+    "FERNANDEZ MURO, MATEO": 13,
+    "GARCIA GUTIERREZ, ALEJANDRO": 2,
+    "COQUECO PATIÑO, JUAN ESTEBAN": 2,
+    "MARTINEZ GARCIA, ADRIAN": 90,
+    "BAÑARES MARTINEZ, MARCOS": 90,
+    "SAN JUAN GOMEZ, JULEN": 77,
+    "ROYO DIAZ, MARCOS": 52,
+    "FERNANDEZ SANTOS, SAMUEL": 90,
+    "HERRERO HIDALGO, ALVARO": 90,
+    "LARHLID, ABDALLAH": 90,
+    "LARHLID LARHLID, ACHRAF": 72,
+    "EZQUERRO ECHAPRESTO, MARCOS": 90,
+    "MUR MUÑOZ, TOMAS": 72,
+    "REBOLLO MARTINEZ, MIGUEL": 77,
+    "GIL MORRAS, SERGIO": 38,
+    "NVE OBAMA, DANIEL": 18,
+    "BOZALONGO PLAZA, NACHO": 18,
+    "MARTINEZ HERMIDA, ANGEL": 13,
+    "SAGHIR ABOUMALEK, MOAD": 13
+  },
+  "portero_local": "GALILEA BARRIO, SERGIO",
+  "portero_visitante": "MARTINEZ GARCIA, ADRIAN",
+  "dorsales_local": {
+    "GALILEA BARRIO, SERGIO": 13,
+    "CORREA BEDOYA, JERONIMO": 4,
+    "ALLOUNI ALLOUNI, YASSIR": 8,
+    "ALBA HERNANDEZ, PABLO": 10,
+    "NAVARRO DE CORTA, JORGE": 11,
+    "VACA ROSSELL, JOSEP CARLOS": 12,
+    "SHTEMBARI AGARAJ, ALEX": 14,
+    "LACALLE DE PEDRO, DAVID": 15,
+    "MOLOVAE ESPINOZA, JOSEAN": 19,
+    "HERRERO ULECIA, MARCOS": 23,
+    "CARBONERAS RODRIGUEZ, MAURO": 24
+  },
+  "dorsales_visitante": {
+    "MARTINEZ GARCIA, ADRIAN": 1,
+    "BAÑARES MARTINEZ, MARCOS": 2,
+    "SAN JUAN GOMEZ, JULEN": 3,
+    "ROYO DIAZ, MARCOS": 5,
+    "FERNANDEZ SANTOS, SAMUEL": 6,
+    "HERRERO HIDALGO, ALVARO": 7,
+    "LARHLID, ABDALLAH": 8,
+    "LARHLID LARHLID, ACHRAF": 9,
+    "EZQUERRO ECHAPRESTO, MARCOS": 10,
+    "MUR MUÑOZ, TOMAS": 11,
+    "REBOLLO MARTINEZ, MIGUEL": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
