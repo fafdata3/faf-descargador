@@ -1,0 +1,240 @@
+{
+  "acta_id": "R_243292",
+  "filename": "Acta_R_243292.txt",
+  "fuente": "rioja",
+  "temporada": "2024-2025",
+  "jornada": 27,
+  "fecha": "05-04-2025",
+  "hora": "16:30",
+  "categoria": "REGIONAL PREFERENTE (Grupo Único)",
+  "equipo_local": "CENICERO",
+  "equipo_visitante": "REAL BETHLEHEM",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SÁNCHEZ TABOADA, ANDRÉS",
+    "Árbitro Asistente",
+    "OUATTARA GUEYE, CHEICKNA HAMALLAH",
+    "Árbitro Asistente",
+    "MUR MUÑOZ, TOMAS"
+  ],
+  "estadio": "C.M. LAS VIÑAS (CENICERO)",
+  "ciudad": "Cenicero",
+  "goleadores": [
+    {
+      "minuto": 40,
+      "jugador": "BALANZA ZUGAZAGA, GALDER",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 18,
+      "jugador": "BALANZA ZUGAZAGA, GALDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "BURGOS VILAMOR, DENIS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "REAL BETHLEHEM",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ PRIETO, JOSE LUIS",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNÁNDEZ MARTÍNEZ , ALEJANDRO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CALPA ENRIQUEZ, DANIEL R",
+  "delegado_equipo_visitante": "GURIDI ORMAECHEA, GORKA",
+  "titulares_local": [
+    "GARCIA SAEZ, RAUL",
+    "ROYO BENITO, ALVARO",
+    "JIMENEZ NESTARES, DIEGO",
+    "BRITO VALDIVIA, ALVARO A",
+    "ITURRIAGA VELA, AARON",
+    "BALANZA ZUGAZAGA, GALDER",
+    "PINILLOS SAENZ, MIKEL",
+    "NOVOA SOMALO, JULIO",
+    "DOPAZO GARCIA, DANIEL",
+    "BURGOS VILAMOR, DENIS",
+    "MARTINEZ COTELO, IÑIGO"
+  ],
+  "titulares_visitante": [
+    "CEJUDO GIMENO, DAVID",
+    "TRAORE, MAMADOU",
+    "GAVRILA, RADU RARES",
+    "GURUSCIUC, DANIEL",
+    "CHACON FERNANDEZ, ROBERTO ANTONIO",
+    "RUIZ MONTENEGRO, MATIAS",
+    "DAVILA MONJE, KEVIN",
+    "LOPEZ ROLDAN, EMMANUEL",
+    "MAATALLAOUI BOUDJAJ, ACHRAF",
+    "CUARTERO BERNE, ALEJANDRO",
+    "ROSAS FERNANDEZ, MIGUEL"
+  ],
+  "suplentes_local": [
+    "TORCAL CARRILLO, CHRISTIAN",
+    "MARTIN GONZALEZ, JAVIER",
+    "MARTINEZ BURGOS, VICTOR",
+    "ORDEN ESPILA, MARCOS",
+    "DOPAZO GARCIA, CESAR",
+    "SAENZ OLMEDO, HUGO",
+    "GALAN GONZALEZ, ALBERTO"
+  ],
+  "suplentes_visitante": [
+    "PEUVREL, DIEGO SIMON",
+    "SAENZ SAENZ DE JUBERA, FRANCISCO"
+  ],
+  "convocados_sin_jugar_local": [
+    "TORCAL CARRILLO, CHRISTIAN",
+    "MARTIN GONZALEZ, JAVIER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GARCIA SAEZ, RAUL",
+    "ROYO BENITO, ALVARO",
+    "JIMENEZ NESTARES, DIEGO",
+    "BRITO VALDIVIA, ALVARO A",
+    "ITURRIAGA VELA, AARON",
+    "BALANZA ZUGAZAGA, GALDER",
+    "PINILLOS SAENZ, MIKEL",
+    "NOVOA SOMALO, JULIO",
+    "DOPAZO GARCIA, DANIEL",
+    "BURGOS VILAMOR, DENIS",
+    "MARTINEZ COTELO, IÑIGO",
+    "MARTINEZ BURGOS, VICTOR",
+    "SAENZ OLMEDO, HUGO",
+    "DOPAZO GARCIA, CESAR",
+    "GALAN GONZALEZ, ALBERTO",
+    "ORDEN ESPILA, MARCOS"
+  ],
+  "jugadores_visitante": [
+    "CEJUDO GIMENO, DAVID",
+    "TRAORE, MAMADOU",
+    "GAVRILA, RADU RARES",
+    "GURUSCIUC, DANIEL",
+    "CHACON FERNANDEZ, ROBERTO ANTONIO",
+    "RUIZ MONTENEGRO, MATIAS",
+    "DAVILA MONJE, KEVIN",
+    "LOPEZ ROLDAN, EMMANUEL",
+    "MAATALLAOUI BOUDJAJ, ACHRAF",
+    "CUARTERO BERNE, ALEJANDRO",
+    "ROSAS FERNANDEZ, MIGUEL",
+    "PEUVREL, DIEGO SIMON",
+    "SAENZ SAENZ DE JUBERA, FRANCISCO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "MARTINEZ BURGOS, VICTOR",
+      "sale": "BURGOS VILAMOR, DENIS"
+    },
+    {
+      "min": 53,
+      "entra": "SAENZ OLMEDO, HUGO",
+      "sale": "NOVOA SOMALO, JULIO"
+    },
+    {
+      "min": 71,
+      "entra": "DOPAZO GARCIA, CESAR",
+      "sale": "ITURRIAGA VELA, AARON"
+    },
+    {
+      "min": 80,
+      "entra": "GALAN GONZALEZ, ALBERTO",
+      "sale": "ROYO BENITO, ALVARO"
+    },
+    {
+      "min": 80,
+      "entra": "ORDEN ESPILA, MARCOS",
+      "sale": "JIMENEZ NESTARES, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "PEUVREL, DIEGO SIMON",
+      "sale": "CUARTERO BERNE, ALEJANDRO"
+    },
+    {
+      "min": 74,
+      "entra": "SAENZ SAENZ DE JUBERA, FRANCISCO",
+      "sale": "MAATALLAOUI BOUDJAJ, ACHRAF"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA SAEZ, RAUL": 90,
+    "ROYO BENITO, ALVARO": 80,
+    "JIMENEZ NESTARES, DIEGO": 80,
+    "BRITO VALDIVIA, ALVARO A": 90,
+    "ITURRIAGA VELA, AARON": 71,
+    "BALANZA ZUGAZAGA, GALDER": 90,
+    "PINILLOS SAENZ, MIKEL": 90,
+    "NOVOA SOMALO, JULIO": 53,
+    "DOPAZO GARCIA, DANIEL": 90,
+    "BURGOS VILAMOR, DENIS": 46,
+    "MARTINEZ COTELO, IÑIGO": 90,
+    "MARTINEZ BURGOS, VICTOR": 44,
+    "SAENZ OLMEDO, HUGO": 37,
+    "DOPAZO GARCIA, CESAR": 19,
+    "GALAN GONZALEZ, ALBERTO": 10,
+    "ORDEN ESPILA, MARCOS": 10,
+    "CEJUDO GIMENO, DAVID": 90,
+    "TRAORE, MAMADOU": 90,
+    "GAVRILA, RADU RARES": 90,
+    "GURUSCIUC, DANIEL": 90,
+    "CHACON FERNANDEZ, ROBERTO ANTONIO": 90,
+    "RUIZ MONTENEGRO, MATIAS": 90,
+    "DAVILA MONJE, KEVIN": 90,
+    "LOPEZ ROLDAN, EMMANUEL": 90,
+    "MAATALLAOUI BOUDJAJ, ACHRAF": 74,
+    "CUARTERO BERNE, ALEJANDRO": 60,
+    "ROSAS FERNANDEZ, MIGUEL": 90,
+    "PEUVREL, DIEGO SIMON": 30,
+    "SAENZ SAENZ DE JUBERA, FRANCISCO": 16
+  },
+  "portero_local": "GARCIA SAEZ, RAUL",
+  "portero_visitante": "CEJUDO GIMENO, DAVID",
+  "dorsales_local": {
+    "GARCIA SAEZ, RAUL": 13,
+    "ROYO BENITO, ALVARO": 2,
+    "JIMENEZ NESTARES, DIEGO": 3,
+    "BRITO VALDIVIA, ALVARO A": 8,
+    "ITURRIAGA VELA, AARON": 9,
+    "BALANZA ZUGAZAGA, GALDER": 11,
+    "PINILLOS SAENZ, MIKEL": 12,
+    "NOVOA SOMALO, JULIO": 15,
+    "DOPAZO GARCIA, DANIEL": 17,
+    "BURGOS VILAMOR, DENIS": 20,
+    "MARTINEZ COTELO, IÑIGO": 22
+  },
+  "dorsales_visitante": {
+    "CEJUDO GIMENO, DAVID": 13,
+    "TRAORE, MAMADOU": 2,
+    "GAVRILA, RADU RARES": 5,
+    "GURUSCIUC, DANIEL": 6,
+    "CHACON FERNANDEZ, ROBERTO ANTONIO": 9,
+    "RUIZ MONTENEGRO, MATIAS": 14,
+    "DAVILA MONJE, KEVIN": 16,
+    "LOPEZ ROLDAN, EMMANUEL": 17,
+    "MAATALLAOUI BOUDJAJ, ACHRAF": 19,
+    "CUARTERO BERNE, ALEJANDRO": 21,
+    "ROSAS FERNANDEZ, MIGUEL": 22
+  },
+  "suspendidos": []
+}
