@@ -1,0 +1,211 @@
+{
+  "acta_id": "1958",
+  "filename": "Acta_1958.txt",
+  "fuente": "alava",
+  "temporada": "2022-2023",
+  "jornada": 8,
+  "fecha": "11-03-2023",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE - FASE DE ASCENSO - / KADETEEN 2. - IGOERA FASEA - (GRUPO - 1)",
+  "equipo_local": "SAN MARTIN C.D.F. A",
+  "equipo_visitante": "SAN IGNACIO C.D. B",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ACHLOUCH LAMARTI, OMAR"
+  ],
+  "estadio": "SAN MARTIN",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 0,
+      "jugador": "FERREIRA ROMERO, JOSU",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 0,
+      "jugador": "ECHEZARRA ESTIBARIZ, EKAIN",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 0,
+      "jugador": "ERDOZAIN PINEDO, IÑIGO",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 16,
+      "jugador": "ONDOA BARROSO, ANICET CLAUDE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 26,
+      "jugador": "HUNKE MORENO, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "HUNKE MORENO, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "HUNKE MORENO, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FONSECA BARREDO, ERIZ",
+  "entrenador_visitante": "IRCIO FERNANDEZ, MIKEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "ABAD SANCHEZ, MIKEL",
+    "FERREIRA ROMERO, JOSU",
+    "CHAVARRI TAMURA, NACHO",
+    "VELASQUEZ SALAZAR, ANDONI",
+    "DIAZ DE HEREDIA RUIZ DE AZUA, ADRIAN",
+    "ECHEZARRA ESTIBARIZ, EKAIN",
+    "ALCOBA CARRASCAL, ALEJANDRO",
+    "GOENAGA MORALES, IKER",
+    "SAGNO SAGNO, ABDULAYE",
+    "MARQUINEZ FANEGAS, UNAX",
+    "PONTI SAENZ, JON MARKEL"
+  ],
+  "titulares_visitante": [
+    "SAEZ DE SANTAMARIA RAMIREZ, KAIET",
+    "ERDOZAIN PINEDO, IÑIGO",
+    "RETAMERO FERRER, JORITZ",
+    "ECHEZARRETA FERNANDEZ ROMARATEGUI, UNAI",
+    "HUNKE MORENO, NICOLAS",
+    "ROSADO LEON, IMANOL",
+    "LOPEZ MARTINEZ DE LAFUENTE, ANDER",
+    "PEREZ DE VILLARREAL GARCIA, KIMETZ",
+    "LOPEZ DE LUZURIAGA HERRAN, JOEL",
+    "ONDOA BARROSO, ANICET CLAUDE"
+  ],
+  "suplentes_local": [
+    "ZABALETA GONZALEZ, JAVIER",
+    "HABIB AIBID, HATEM",
+    "GUTIERREZ CARRERAS, MIKEL",
+    "DELGADO LAMARCHA, ENAITZ",
+    "AMADOR MIRANDA, LUCA FABRICIO",
+    "GUTIERREZ GALEANO, ELVER FABIAN"
+  ],
+  "suplentes_visitante": [
+    "ITURRIAGA ELEJALDE, LUCAS",
+    "BARBEITO URQUIJO, DANEL",
+    "DONAIRE POLO, EKAIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "ZABALETA GONZALEZ, JAVIER",
+    "HABIB AIBID, HATEM",
+    "GUTIERREZ CARRERAS, MIKEL",
+    "DELGADO LAMARCHA, ENAITZ",
+    "AMADOR MIRANDA, LUCA FABRICIO",
+    "GUTIERREZ GALEANO, ELVER FABIAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ITURRIAGA ELEJALDE, LUCAS",
+    "BARBEITO URQUIJO, DANEL",
+    "DONAIRE POLO, EKAIN"
+  ],
+  "jugadores_local": [
+    "ABAD SANCHEZ, MIKEL",
+    "FERREIRA ROMERO, JOSU",
+    "CHAVARRI TAMURA, NACHO",
+    "VELASQUEZ SALAZAR, ANDONI",
+    "DIAZ DE HEREDIA RUIZ DE AZUA, ADRIAN",
+    "ECHEZARRA ESTIBARIZ, EKAIN",
+    "ALCOBA CARRASCAL, ALEJANDRO",
+    "GOENAGA MORALES, IKER",
+    "SAGNO SAGNO, ABDULAYE",
+    "MARQUINEZ FANEGAS, UNAX",
+    "PONTI SAENZ, JON MARKEL"
+  ],
+  "jugadores_visitante": [
+    "SAEZ DE SANTAMARIA RAMIREZ, KAIET",
+    "ERDOZAIN PINEDO, IÑIGO",
+    "RETAMERO FERRER, JORITZ",
+    "ECHEZARRETA FERNANDEZ ROMARATEGUI, UNAI",
+    "HUNKE MORENO, NICOLAS",
+    "ROSADO LEON, IMANOL",
+    "LOPEZ MARTINEZ DE LAFUENTE, ANDER",
+    "PEREZ DE VILLARREAL GARCIA, KIMETZ",
+    "LOPEZ DE LUZURIAGA HERRAN, JOEL",
+    "ONDOA BARROSO, ANICET CLAUDE"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "ABAD SANCHEZ, MIKEL": 90,
+    "FERREIRA ROMERO, JOSU": 90,
+    "CHAVARRI TAMURA, NACHO": 90,
+    "VELASQUEZ SALAZAR, ANDONI": 90,
+    "DIAZ DE HEREDIA RUIZ DE AZUA, ADRIAN": 90,
+    "ECHEZARRA ESTIBARIZ, EKAIN": 90,
+    "ALCOBA CARRASCAL, ALEJANDRO": 90,
+    "GOENAGA MORALES, IKER": 90,
+    "SAGNO SAGNO, ABDULAYE": 90,
+    "MARQUINEZ FANEGAS, UNAX": 90,
+    "PONTI SAENZ, JON MARKEL": 90,
+    "SAEZ DE SANTAMARIA RAMIREZ, KAIET": 90,
+    "ERDOZAIN PINEDO, IÑIGO": 90,
+    "RETAMERO FERRER, JORITZ": 90,
+    "ECHEZARRETA FERNANDEZ ROMARATEGUI, UNAI": 90,
+    "HUNKE MORENO, NICOLAS": 90,
+    "ROSADO LEON, IMANOL": 90,
+    "LOPEZ MARTINEZ DE LAFUENTE, ANDER": 90,
+    "PEREZ DE VILLARREAL GARCIA, KIMETZ": 90,
+    "LOPEZ DE LUZURIAGA HERRAN, JOEL": 90,
+    "ONDOA BARROSO, ANICET CLAUDE": 90
+  },
+  "portero_local": "ABAD SANCHEZ, MIKEL",
+  "portero_visitante": "ECHEZARRETA FERNANDEZ ROMARATEGUI, UNAI",
+  "dorsales_local": {
+    "ABAD SANCHEZ, MIKEL": 1,
+    "FERREIRA ROMERO, JOSU": 2,
+    "CHAVARRI TAMURA, NACHO": 3,
+    "VELASQUEZ SALAZAR, ANDONI": 4,
+    "DIAZ DE HEREDIA RUIZ DE AZUA, ADRIAN": 5,
+    "ECHEZARRA ESTIBARIZ, EKAIN": 6,
+    "ALCOBA CARRASCAL, ALEJANDRO": 7,
+    "GOENAGA MORALES, IKER": 8,
+    "SAGNO SAGNO, ABDULAYE": 9,
+    "MARQUINEZ FANEGAS, UNAX": 10,
+    "PONTI SAENZ, JON MARKEL": 11
+  },
+  "dorsales_visitante": {
+    "SAEZ DE SANTAMARIA RAMIREZ, KAIET": 6,
+    "ERDOZAIN PINEDO, IÑIGO": 9,
+    "RETAMERO FERRER, JORITZ": 11,
+    "ECHEZARRETA FERNANDEZ ROMARATEGUI, UNAI": 13,
+    "HUNKE MORENO, NICOLAS": 14,
+    "ROSADO LEON, IMANOL": 15,
+    "LOPEZ MARTINEZ DE LAFUENTE, ANDER": 25,
+    "PEREZ DE VILLARREAL GARCIA, KIMETZ": 26,
+    "LOPEZ DE LUZURIAGA HERRAN, JOEL": 27,
+    "ONDOA BARROSO, ANICET CLAUDE": 29
+  },
+  "suspendidos": [
+    "HUNKE MORENO, NICOLAS"
+  ],
+  "_marcador_widget": true
+}
