@@ -1,0 +1,186 @@
+{
+  "acta_id": "N_1632497",
+  "filename": "Acta_N_1632497.txt",
+  "fuente": "rfef",
+  "temporada": "2020-2021",
+  "jornada": 14,
+  "fecha": "13-02-2021",
+  "hora": "18:00",
+  "categoria": "Segunda Division B Sala (1 - Subgrupo 1B)",
+  "equipo_local": "UV VENTORRILLO FS",
+  "equipo_visitante": "S.D. XOVE F.S.",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "FELIZ OTERO, IVÁN",
+    "ÁRBITRO 1",
+    "SALINAS GARCÍA, MARIO",
+    "ÁRBITRO 2",
+    "MODROÑO LIZ, SANTIAGO"
+  ],
+  "estadio": "Uv Ventorrillo Fs",
+  "ciudad": "",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "PEREZ FERNANDEZ, VICTOR",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 6,
+      "jugador": "BLANCO VAZQUEZ, KEVIN",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 7,
+      "jugador": "JIMENEZ FRAGA, MANUEL",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "JIMENEZ FRAGA, MANUEL",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 15,
+      "jugador": "PEREZ FERNANDEZ, VICTOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 25,
+      "jugador": "MONTERO BASTEIRO, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "MARTOS FERNANDEZ, ANDRES",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "MONTERO BASTEIRO, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 23,
+      "jugador": "JIMENEZ FRAGA, MANUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "MONTERO BASTEIRO, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "roja",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "DEL CASTILLO COELLO, MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "MONTERO BASTEIRO, ALEJANDRO",
+    "MARTOS FERNANDEZ, ANDRES",
+    "LAGO LOPEZ, OSCAR",
+    "PEREZ FERNANDEZ, VICTOR"
+  ],
+  "titulares_visitante": [
+    "FAJARDO CAO, JAVIER",
+    "JIMENEZ FRAGA, MANUEL",
+    "BLANCO LAMPARTE, BRUNO",
+    "GARCIA ARES, FRANCISCO",
+    "BOUZA BERMUDEZ, ABEL"
+  ],
+  "suplentes_local": [
+    "INSUA MÉNDEZ, PABLO",
+    "PUERTAS MOSQUERA, JAVIER",
+    "BUJIA PREGO, ALBERTO",
+    "BLANCO VAZQUEZ, KEVIN"
+  ],
+  "suplentes_visitante": [
+    "CORA PIÑON, SERGIO",
+    "CAYON SANCHEZ, JOSE M",
+    "RODRIGUEZ CABALEIRO, VICTOR",
+    "GOMES VARELA, HEURICKSON",
+    "ALONSO LOPEZ, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "INSUA MÉNDEZ, PABLO",
+    "PUERTAS MOSQUERA, JAVIER",
+    "BUJIA PREGO, ALBERTO",
+    "BLANCO VAZQUEZ, KEVIN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CORA PIÑON, SERGIO",
+    "CAYON SANCHEZ, JOSE M",
+    "RODRIGUEZ CABALEIRO, VICTOR",
+    "GOMES VARELA, HEURICKSON",
+    "ALONSO LOPEZ, JAVIER"
+  ],
+  "jugadores_local": [
+    "MONTERO BASTEIRO, ALEJANDRO",
+    "MARTOS FERNANDEZ, ANDRES",
+    "LAGO LOPEZ, OSCAR",
+    "PEREZ FERNANDEZ, VICTOR"
+  ],
+  "jugadores_visitante": [
+    "FAJARDO CAO, JAVIER",
+    "JIMENEZ FRAGA, MANUEL",
+    "BLANCO LAMPARTE, BRUNO",
+    "GARCIA ARES, FRANCISCO",
+    "BOUZA BERMUDEZ, ABEL"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "MONTERO BASTEIRO, ALEJANDRO": 90,
+    "MARTOS FERNANDEZ, ANDRES": 90,
+    "LAGO LOPEZ, OSCAR": 90,
+    "PEREZ FERNANDEZ, VICTOR": 90,
+    "FAJARDO CAO, JAVIER": 90,
+    "JIMENEZ FRAGA, MANUEL": 90,
+    "BLANCO LAMPARTE, BRUNO": 90,
+    "GARCIA ARES, FRANCISCO": 90,
+    "BOUZA BERMUDEZ, ABEL": 90
+  },
+  "portero_local": "LAGO LOPEZ, OSCAR",
+  "portero_visitante": "FAJARDO CAO, JAVIER",
+  "dorsales_local": {
+    "MONTERO BASTEIRO, ALEJANDRO": 6,
+    "MARTOS FERNANDEZ, ANDRES": 8,
+    "LAGO LOPEZ, OSCAR": 13,
+    "PEREZ FERNANDEZ, VICTOR": 23
+  },
+  "dorsales_visitante": {
+    "FAJARDO CAO, JAVIER": 1,
+    "JIMENEZ FRAGA, MANUEL": 10,
+    "BLANCO LAMPARTE, BRUNO": 16,
+    "GARCIA ARES, FRANCISCO": 17,
+    "BOUZA BERMUDEZ, ABEL": 19
+  },
+  "suspendidos": [
+    "MONTERO BASTEIRO, ALEJANDRO"
+  ]
+}
