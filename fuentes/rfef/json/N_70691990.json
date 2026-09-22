@@ -1,0 +1,426 @@
+{
+  "acta_id": "N_70691990",
+  "filename": "Acta_N_70691990.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "22-06-2026",
+  "hora": "18:00",
+  "categoria": "Campeonato de Selecciones Autonómicas de Futbol Playa SUB-17 femenino (GRUPO B)",
+  "equipo_local": "SELECCIÓN MELILLENSE",
+  "equipo_visitante": "SELECCION REGIÓN DE MURCIA",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "MUÑOZ GARCÍA, JAYRO",
+    "ÁRBITRO 2",
+    "PINEDA ALONSO, CRISTIAN",
+    "TERCER ÁRBITRO",
+    "HIDALGO MÁRQUEZ, CARLOS",
+    "CRONOMETRADOR",
+    "ARANDA ZAYAS, JOSE MIGUEL"
+  ],
+  "estadio": "ROTA",
+  "ciudad": "Rota",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "CUEVAS CANO, MARIA JOSE",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 6,
+      "jugador": "MORENO LOPEZ, JIMENA",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "MARIN ATO, ERIKA DE LOS ANGELES",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "LOPEZ SANCHEZ, RAQUEL",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 11,
+      "jugador": "REINOSO JIMENEZ, ADELA",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 14,
+      "jugador": "MORENO LOPEZ, JIMENA",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "HERNANDEZ MARMOL, ELENA",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "RODRIGUEZ SOLER, SANDRA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 24,
+      "jugador": "CARRILLO MARTINEZ, ANGELA",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "CARRILLO MARTINEZ, ANGELA",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "HERNANDEZ MARMOL, ELENA",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "SOLIS TOUILAB, ZAHIRA",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "REINOSO JIMENEZ, ADELA",
+      "equipo": "?",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 6,
+      "jugador": "SOLIS TOUILAB, ZAHIRA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 6,
+      "jugador": "AL MOSAID, OMAIMA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 18,
+      "jugador": "RODRIGUEZ PEREZ, ALICIA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "SOLIS TOUILAB, ZAHIRA",
+      "equipo": "?",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "SELECCIÓN MELILLENSE :",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "EN EL MINUTO 6 LA JUGADORA (11) SOLIS TOUILAB, ZAHIRA FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR ACCEDER AL TERRENO DE JUEGO SIN MI AUTORIZACIÓN, Y ANTES QUE EL SUSTITUTUIDO SALGA DEL MISMO.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "SELECCIÓN MELILLENSE :",
+      "equipo": "?",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "EN EL MINUTO 6 LA JUGADORA (2) AL MOSAID, OMAIMA FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR ACCEDER AL TERRENO DE JUEGO SIN MI AUTORIZACIÓN, Y ANTES QUE EL SUSTITUTUIDO SALGA DEL MISMO.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "SELECCIÓN MELILLENSE :",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "EN EL MINUTO 18 LA JUGADORA (5) RODRIGUEZ PEREZ, ALICIA FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR DERRIBAR DE FORMA TEMERARIA A UN CONTRARIO EN LA DISPUTA DEL BALÓN.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "SELECCIÓN MELILLENSE :",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "EN EL MINUTO 30 LA JUGADORA (11) SOLIS TOUILAB, ZAHIRA FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR JUGAR EL BALÓN CON LA MANO INTENTANDO EVITAR UNA OCASIÓN MANIFIESTA DE GOL, PERO SIN CONSEGUIRLO.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "- SELECCIÓN MELILLENSE :",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "EN EL MINUTO 30  LA JUGADORA (11) SOLIS TOUILAB, ZAHIRA  FUE EXPULSADA POR EL SIGUIENTE MOTIVO: DOBLE AMARILLA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "SELECCIÓN REGIÓN DE MURCIA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "2º ENTRENADOR: MIGUEL MORENO ESTEBAN CON DNI XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "DELEGADA: MARIA JOSE COSTA FERNÁNDEZ CON DNI XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "ATS: JOSE LUIS GARCÍA BERNAL CON DNI XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "FISIO: MICHELLE PÉREZ ROS CON DNI XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "SELECCIÓN MELILLENSE",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "ENTRENADORA: SARA GONZÁLEZ RODRÍGUEZ CON DNI XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "2ª ENTRENADORA: CAROLINA GONZÁLEZ PORTELA CON DNI XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "DELEGADA: MARIA JESUS DOMENECH MOHAND CON DNI XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "ENCARGADO DE MATERIAL: JAVIER GONZÁLEZ LORENTE CON DNI XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "NORMAL",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "LINARES AYALA, AFRICA",
+    "ESCOZ CUEVAS, EVA",
+    "ARNAIZ RAHAL, SELMA",
+    "RODRIGUEZ SOLER, SANDRA",
+    "CUEVAS CANO, MARIA JOSE"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ PEREZ, MARTINA",
+    "ALCARAZ BARAZA, SILVIA",
+    "MORENO LOPEZ, JIMENA",
+    "CASTEJON ARGILA, AMAYA",
+    "CARRILLO MARTINEZ, ANGELA"
+  ],
+  "suplentes_local": [
+    "AL MOSAID, OMAIMA",
+    "ISMAEL MOHAND, LILIAM",
+    "RODRIGUEZ PEREZ, ALICIA",
+    "AZNAR TELLECHEA, ARANTXA",
+    "MOHAMED ALI, NAYLA",
+    "SOLIS TOUILAB, ZAHIRA",
+    "MARTINEZ SANCHEZ, DANIELA"
+  ],
+  "suplentes_visitante": [
+    "GIL LORENTE, JULIA",
+    "LOPEZ SANCHEZ, ANGELA",
+    "MARIN ATO, ERIKA DE LOS ANGELES",
+    "REINOSO JIMENEZ, ADELA",
+    "JIMENEZ MARTINEZ, MARTA",
+    "LOPEZ SANCHEZ, RAQUEL",
+    "HERNANDEZ MARMOL, ELENA"
+  ],
+  "convocados_sin_jugar_local": [
+    "AL MOSAID, OMAIMA",
+    "ISMAEL MOHAND, LILIAM",
+    "RODRIGUEZ PEREZ, ALICIA",
+    "AZNAR TELLECHEA, ARANTXA",
+    "MOHAMED ALI, NAYLA",
+    "SOLIS TOUILAB, ZAHIRA",
+    "MARTINEZ SANCHEZ, DANIELA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GIL LORENTE, JULIA",
+    "LOPEZ SANCHEZ, ANGELA",
+    "MARIN ATO, ERIKA DE LOS ANGELES",
+    "REINOSO JIMENEZ, ADELA",
+    "JIMENEZ MARTINEZ, MARTA",
+    "LOPEZ SANCHEZ, RAQUEL",
+    "HERNANDEZ MARMOL, ELENA"
+  ],
+  "jugadores_local": [
+    "LINARES AYALA, AFRICA",
+    "ESCOZ CUEVAS, EVA",
+    "ARNAIZ RAHAL, SELMA",
+    "RODRIGUEZ SOLER, SANDRA",
+    "CUEVAS CANO, MARIA JOSE"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ PEREZ, MARTINA",
+    "ALCARAZ BARAZA, SILVIA",
+    "MORENO LOPEZ, JIMENA",
+    "CASTEJON ARGILA, AMAYA",
+    "CARRILLO MARTINEZ, ANGELA"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "LINARES AYALA, AFRICA": 90,
+    "ESCOZ CUEVAS, EVA": 90,
+    "ARNAIZ RAHAL, SELMA": 90,
+    "RODRIGUEZ SOLER, SANDRA": 90,
+    "CUEVAS CANO, MARIA JOSE": 90,
+    "FERNANDEZ PEREZ, MARTINA": 90,
+    "ALCARAZ BARAZA, SILVIA": 90,
+    "MORENO LOPEZ, JIMENA": 90,
+    "CASTEJON ARGILA, AMAYA": 90,
+    "CARRILLO MARTINEZ, ANGELA": 90
+  },
+  "portero_local": "LINARES AYALA, AFRICA",
+  "portero_visitante": "FERNANDEZ PEREZ, MARTINA",
+  "dorsales_local": {
+    "LINARES AYALA, AFRICA": 1,
+    "ESCOZ CUEVAS, EVA": 3,
+    "ARNAIZ RAHAL, SELMA": 7,
+    "RODRIGUEZ SOLER, SANDRA": 9,
+    "CUEVAS CANO, MARIA JOSE": 10
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ PEREZ, MARTINA": 1,
+    "ALCARAZ BARAZA, SILVIA": 2,
+    "MORENO LOPEZ, JIMENA": 4,
+    "CASTEJON ARGILA, AMAYA": 6,
+    "CARRILLO MARTINEZ, ANGELA": 7
+  },
+  "suspendidos": [
+    "SOLIS TOUILAB, ZAHIRA",
+    "SELECCIÓN MELILLENSE :",
+    "NINGUNA"
+  ]
+}
