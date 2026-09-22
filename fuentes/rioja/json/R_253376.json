@@ -1,0 +1,287 @@
+{
+  "acta_id": "R_253376",
+  "filename": "Acta_R_253376.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "16-11-2025",
+  "hora": "12:00",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "ARNEDO",
+  "equipo_visitante": "PROMESAS EDF",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "PULIDO GOMEZ, CARLA"
+  ],
+  "estadio": "C.M. SENDERO - H.A. (ARNEDO)",
+  "ciudad": "Arnedo",
+  "goleadores": [
+    {
+      "minuto": 56,
+      "jugador": "JALON MATUTE, JOSE",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "GEVORKYAN GALAJYAN, ARMAN",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "KVIRIKADZE DOLIDZE, DANIEL",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 86,
+      "jugador": "ANTOLIN MARTINEZ, GABRIEL",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 59,
+      "jugador": "GARCIA BELTRAN, ERIK",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "SOTA MIRANDA, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "KVIRIKADZE DOLIDZE, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "PROMESAS EDF",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 51,
+      "jugador": "HURTADO GOMEZ, GUILLERMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALONSO SANZ, JOSE I",
+  "entrenador_visitante": "GALLARDO BAÑOS, JOSE MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RODRIGUEZ SUBIRATS, POL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RODRIGUEZ ROLDAN, JESUS MARIA",
+  "delegado_equipo_visitante": "GALLARDO LOPEZ, FRANCISCO",
+  "titulares_local": [
+    "PEREZ SEVILLA CIORDIA, HUGO",
+    "GARCIA BELTRAN, ERIK",
+    "LAKHAL BOUARFA, MOHAMED",
+    "LAMZIDI, YASSINE",
+    "HERNANDEZ IBAÑEZ, ALEX",
+    "JIMENEZ HERCE, JUAN",
+    "RAFIK EL HADIRI, ABDERRAHMANE",
+    "GEVORKYAN GALAJYAN, ARMAN",
+    "OUMHATOU OUTOURABBI, ALI",
+    "PEREZ PEREZ, HECTOR",
+    "SOTA MIRANDA, ALVARO"
+  ],
+  "titulares_visitante": [
+    "PEREZ RODRIGUEZ, ASIER",
+    "EZQUERRO ECHAPRESTO, MARCOS",
+    "BAÑARES MARTINEZ, MARCOS",
+    "GARCIA GARCIA, ARTURO",
+    "ROYO DIAZ, MARCOS",
+    "HURTADO GOMEZ, GUILLERMO",
+    "JALON MATUTE, JOSE",
+    "REBOLLO MARTINEZ, MIGUEL",
+    "MUR MUÑOZ, TOMAS",
+    "LARHLID, ABDALLAH",
+    "NVE OBAMA, DANIEL"
+  ],
+  "suplentes_local": [
+    "ARNEDO CABRERA, ALVARO",
+    "MARIN PEREZ, DARIO",
+    "KVIRIKADZE DOLIDZE, DANIEL",
+    "LEMGAAD, YOUSSEF",
+    "EZZITI, NADIR",
+    "EZZITI, NABIL",
+    "CALVO TARAZONA, RAUL"
+  ],
+  "suplentes_visitante": [
+    "MARTINEZ HERMIDA, ANGEL",
+    "CORVO VALER, OSCAR",
+    "ANTOLIN MARTINEZ, GABRIEL",
+    "SAGHIR ABOUMALEK, MOAD",
+    "CAMPOS MENENDEZ, JORGE"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARIN PEREZ, DARIO",
+    "LEMGAAD, YOUSSEF",
+    "CALVO TARAZONA, RAUL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PEREZ SEVILLA CIORDIA, HUGO",
+    "GARCIA BELTRAN, ERIK",
+    "LAKHAL BOUARFA, MOHAMED",
+    "LAMZIDI, YASSINE",
+    "HERNANDEZ IBAÑEZ, ALEX",
+    "JIMENEZ HERCE, JUAN",
+    "RAFIK EL HADIRI, ABDERRAHMANE",
+    "GEVORKYAN GALAJYAN, ARMAN",
+    "OUMHATOU OUTOURABBI, ALI",
+    "PEREZ PEREZ, HECTOR",
+    "SOTA MIRANDA, ALVARO",
+    "ARNEDO CABRERA, ALVARO",
+    "EZZITI, NADIR",
+    "KVIRIKADZE DOLIDZE, DANIEL",
+    "EZZITI, NABIL"
+  ],
+  "jugadores_visitante": [
+    "PEREZ RODRIGUEZ, ASIER",
+    "EZQUERRO ECHAPRESTO, MARCOS",
+    "BAÑARES MARTINEZ, MARCOS",
+    "GARCIA GARCIA, ARTURO",
+    "ROYO DIAZ, MARCOS",
+    "HURTADO GOMEZ, GUILLERMO",
+    "JALON MATUTE, JOSE",
+    "REBOLLO MARTINEZ, MIGUEL",
+    "MUR MUÑOZ, TOMAS",
+    "LARHLID, ABDALLAH",
+    "NVE OBAMA, DANIEL",
+    "ANTOLIN MARTINEZ, GABRIEL",
+    "CAMPOS MENENDEZ, JORGE",
+    "SAGHIR ABOUMALEK, MOAD",
+    "MARTINEZ HERMIDA, ANGEL",
+    "CORVO VALER, OSCAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 71,
+      "entra": "ARNEDO CABRERA, ALVARO",
+      "sale": "PEREZ PEREZ, HECTOR"
+    },
+    {
+      "min": 71,
+      "entra": "EZZITI, NADIR",
+      "sale": "LAKHAL BOUARFA, MOHAMED"
+    },
+    {
+      "min": 71,
+      "entra": "KVIRIKADZE DOLIDZE, DANIEL",
+      "sale": "RAFIK EL HADIRI, ABDERRAHMANE"
+    },
+    {
+      "min": 84,
+      "entra": "EZZITI, NABIL",
+      "sale": "HERNANDEZ IBAÑEZ, ALEX"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "ANTOLIN MARTINEZ, GABRIEL",
+      "sale": "MUR MUÑOZ, TOMAS"
+    },
+    {
+      "min": 56,
+      "entra": "CAMPOS MENENDEZ, JORGE",
+      "sale": "REBOLLO MARTINEZ, MIGUEL"
+    },
+    {
+      "min": 64,
+      "entra": "SAGHIR ABOUMALEK, MOAD",
+      "sale": "JALON MATUTE, JOSE"
+    },
+    {
+      "min": 71,
+      "entra": "MARTINEZ HERMIDA, ANGEL",
+      "sale": "NVE OBAMA, DANIEL"
+    },
+    {
+      "min": 71,
+      "entra": "CORVO VALER, OSCAR",
+      "sale": "ROYO DIAZ, MARCOS"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ SEVILLA CIORDIA, HUGO": 90,
+    "GARCIA BELTRAN, ERIK": 90,
+    "LAKHAL BOUARFA, MOHAMED": 71,
+    "LAMZIDI, YASSINE": 90,
+    "HERNANDEZ IBAÑEZ, ALEX": 84,
+    "JIMENEZ HERCE, JUAN": 90,
+    "RAFIK EL HADIRI, ABDERRAHMANE": 71,
+    "GEVORKYAN GALAJYAN, ARMAN": 90,
+    "OUMHATOU OUTOURABBI, ALI": 90,
+    "PEREZ PEREZ, HECTOR": 71,
+    "SOTA MIRANDA, ALVARO": 90,
+    "ARNEDO CABRERA, ALVARO": 19,
+    "EZZITI, NADIR": 19,
+    "KVIRIKADZE DOLIDZE, DANIEL": 19,
+    "EZZITI, NABIL": 6,
+    "PEREZ RODRIGUEZ, ASIER": 90,
+    "EZQUERRO ECHAPRESTO, MARCOS": 90,
+    "BAÑARES MARTINEZ, MARCOS": 90,
+    "GARCIA GARCIA, ARTURO": 90,
+    "ROYO DIAZ, MARCOS": 71,
+    "HURTADO GOMEZ, GUILLERMO": 90,
+    "JALON MATUTE, JOSE": 64,
+    "REBOLLO MARTINEZ, MIGUEL": 56,
+    "MUR MUÑOZ, TOMAS": 46,
+    "LARHLID, ABDALLAH": 90,
+    "NVE OBAMA, DANIEL": 71,
+    "ANTOLIN MARTINEZ, GABRIEL": 44,
+    "CAMPOS MENENDEZ, JORGE": 34,
+    "SAGHIR ABOUMALEK, MOAD": 26,
+    "MARTINEZ HERMIDA, ANGEL": 19,
+    "CORVO VALER, OSCAR": 19
+  },
+  "portero_local": "PEREZ SEVILLA CIORDIA, HUGO",
+  "portero_visitante": "PEREZ RODRIGUEZ, ASIER",
+  "dorsales_local": {
+    "PEREZ SEVILLA CIORDIA, HUGO": 1,
+    "GARCIA BELTRAN, ERIK": 2,
+    "LAKHAL BOUARFA, MOHAMED": 3,
+    "LAMZIDI, YASSINE": 4,
+    "HERNANDEZ IBAÑEZ, ALEX": 5,
+    "JIMENEZ HERCE, JUAN": 6,
+    "RAFIK EL HADIRI, ABDERRAHMANE": 7,
+    "GEVORKYAN GALAJYAN, ARMAN": 8,
+    "OUMHATOU OUTOURABBI, ALI": 9,
+    "PEREZ PEREZ, HECTOR": 10,
+    "SOTA MIRANDA, ALVARO": 11
+  },
+  "dorsales_visitante": {
+    "PEREZ RODRIGUEZ, ASIER": 1,
+    "EZQUERRO ECHAPRESTO, MARCOS": 2,
+    "BAÑARES MARTINEZ, MARCOS": 3,
+    "GARCIA GARCIA, ARTURO": 4,
+    "ROYO DIAZ, MARCOS": 5,
+    "HURTADO GOMEZ, GUILLERMO": 6,
+    "JALON MATUTE, JOSE": 7,
+    "REBOLLO MARTINEZ, MIGUEL": 8,
+    "MUR MUÑOZ, TOMAS": 9,
+    "LARHLID, ABDALLAH": 10,
+    "NVE OBAMA, DANIEL": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
