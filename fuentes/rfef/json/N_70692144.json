@@ -1,0 +1,253 @@
+{
+  "acta_id": "N_70692144",
+  "filename": "Acta_N_70692144.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "27-06-2026",
+  "hora": "20:00",
+  "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Cadete Masculino (FASE FINAL)",
+  "equipo_local": "SELECCIÓN ANDALUZA",
+  "equipo_visitante": "SELECCIÓN ARAGONESA",
+  "goles_local": 5,
+  "goles_visitante": 4,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "PINILLA SERRANO, ADRIÁN",
+    "ÁRBITRO 2",
+    "DORTA FIGUEROA, DAVINIA",
+    "TERCER ÁRBITRO",
+    "ESCOBAR LÓPEZ, GAMALIEL",
+    "CRONOMETRADOR",
+    "TABIZA AHOUARY, MOHAMED"
+  ],
+  "estadio": "ROTA",
+  "ciudad": "Rota",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "PEREZ GOMEZ, LUIS MIGUEL",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 8,
+      "jugador": "DIAZ BOZA, RUBEN",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 9,
+      "jugador": "LONGARES ARNAL, JAVIER",
+      "equipo": "local",
+      "propia": true
+    },
+    {
+      "minuto": 10,
+      "jugador": "PINETTA LARRA, MATIAS JOSÉ",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 11,
+      "jugador": "SANZ GARCÍA, HECTOR",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "RODRIGUEZ MAGALLON, ALEJANDRO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "PINETTA LARRA, MATIAS JOSÉ",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "ARÉVALO IBÁÑEZ, DAVID",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "RUIZ BRUZON, JOSE MANUEL",
+      "equipo": "visitante",
+      "propia": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 17,
+      "jugador": "PEREZ BLASCO, FERMIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 23,
+      "jugador": "RAPOSO LOPEZ, JOAQUIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 8,
+      "jugador": "CARRILLO RODRIGUEZ, JORGE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 22,
+      "jugador": "SENANTE MONTERO, NICOLÁS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 31,
+      "jugador": "SANZ GARCÍA, HECTOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "ARÉVALO IBÁÑEZ, DAVID",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "SANZ GARCÍA, HECTOR",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "LONGARES ARNAL, JAVIER",
+      "equipo": "visitante",
+      "tipo": "roja",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "SANZ GARCÍA, HECTOR",
+      "equipo": "visitante",
+      "tipo": "roja",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RUIZ BRUZON, JOSE MANUEL",
+    "RAPOSO LOPEZ, JOAQUIN",
+    "PEREZ BLASCO, FERMIN",
+    "LARA GONZALEZ, JOSE",
+    "PINETTA LARRA, MATIAS JOSÉ"
+  ],
+  "titulares_visitante": [
+    "CARRILLO RODRIGUEZ, JORGE",
+    "ARÉVALO IBÁÑEZ, DAVID",
+    "AZKORRA DEL RIO, GAIZKA",
+    "LONGARES ARNAL, JAVIER",
+    "SANZ GARCÍA, HECTOR"
+  ],
+  "suplentes_local": [
+    "MARTIN GARCIA, AITOR ANTONIO",
+    "CABALLERO GOMEZ, ASIER",
+    "RONQUETE SANCHEZ, ALVARO",
+    "PEREZ GOMEZ, LUIS MIGUEL",
+    "DIAZ BOZA, RUBEN",
+    "SERRANO PRAENA, SANTIAGO"
+  ],
+  "suplentes_visitante": [
+    "JUNQUERA FRANCO, SERGIO",
+    "EGEA BREZOI, DARIO",
+    "CIVERA LOPEZ, RODRIGO",
+    "SENANTE MONTERO, NICOLÁS",
+    "FERNANDEZ CHARRO, ELOY",
+    "RODRIGUEZ MAGALLON, ALEJANDRO",
+    "EBANG ANGONO, JESÚS PASTOR"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTIN GARCIA, AITOR ANTONIO",
+    "CABALLERO GOMEZ, ASIER",
+    "RONQUETE SANCHEZ, ALVARO",
+    "PEREZ GOMEZ, LUIS MIGUEL",
+    "DIAZ BOZA, RUBEN",
+    "SERRANO PRAENA, SANTIAGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "JUNQUERA FRANCO, SERGIO",
+    "EGEA BREZOI, DARIO",
+    "CIVERA LOPEZ, RODRIGO",
+    "SENANTE MONTERO, NICOLÁS",
+    "FERNANDEZ CHARRO, ELOY",
+    "RODRIGUEZ MAGALLON, ALEJANDRO",
+    "EBANG ANGONO, JESÚS PASTOR"
+  ],
+  "jugadores_local": [
+    "RUIZ BRUZON, JOSE MANUEL",
+    "RAPOSO LOPEZ, JOAQUIN",
+    "PEREZ BLASCO, FERMIN",
+    "LARA GONZALEZ, JOSE",
+    "PINETTA LARRA, MATIAS JOSÉ"
+  ],
+  "jugadores_visitante": [
+    "CARRILLO RODRIGUEZ, JORGE",
+    "ARÉVALO IBÁÑEZ, DAVID",
+    "AZKORRA DEL RIO, GAIZKA",
+    "LONGARES ARNAL, JAVIER",
+    "SANZ GARCÍA, HECTOR"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "RUIZ BRUZON, JOSE MANUEL": 90,
+    "RAPOSO LOPEZ, JOAQUIN": 90,
+    "PEREZ BLASCO, FERMIN": 90,
+    "LARA GONZALEZ, JOSE": 90,
+    "PINETTA LARRA, MATIAS JOSÉ": 90,
+    "CARRILLO RODRIGUEZ, JORGE": 90,
+    "ARÉVALO IBÁÑEZ, DAVID": 90,
+    "AZKORRA DEL RIO, GAIZKA": 90,
+    "LONGARES ARNAL, JAVIER": 90,
+    "SANZ GARCÍA, HECTOR": 90
+  },
+  "portero_local": "RUIZ BRUZON, JOSE MANUEL",
+  "portero_visitante": "CARRILLO RODRIGUEZ, JORGE",
+  "dorsales_local": {
+    "RUIZ BRUZON, JOSE MANUEL": 1,
+    "RAPOSO LOPEZ, JOAQUIN": 5,
+    "PEREZ BLASCO, FERMIN": 7,
+    "LARA GONZALEZ, JOSE": 8,
+    "PINETTA LARRA, MATIAS JOSÉ": 9
+  },
+  "dorsales_visitante": {
+    "CARRILLO RODRIGUEZ, JORGE": 1,
+    "ARÉVALO IBÁÑEZ, DAVID": 2,
+    "AZKORRA DEL RIO, GAIZKA": 6,
+    "LONGARES ARNAL, JAVIER": 8,
+    "SANZ GARCÍA, HECTOR": 11
+  },
+  "suspendidos": [
+    "SANZ GARCÍA, HECTOR",
+    "LONGARES ARNAL, JAVIER"
+  ],
+  "_marcador_widget": true
+}
