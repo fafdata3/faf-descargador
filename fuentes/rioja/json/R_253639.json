@@ -1,0 +1,165 @@
+{
+  "acta_id": "R_253639",
+  "filename": "Acta_R_253639.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 5,
+  "fecha": "15-11-2025",
+  "hora": "19:00",
+  "categoria": "SENIOR FÚTBOL SALA - 1ª FASE (Grupo 1)",
+  "equipo_local": "FUENMAYOR FC",
+  "equipo_visitante": "COSMOS FS LA ESTRELLA B",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BALMASEDA RODRIGUEZ, ALBERTO"
+  ],
+  "estadio": "POLIDEPORTIVO MUNICIPAL (FUENMAYOR)",
+  "ciudad": "Fuenmayor",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "MOYA LAHOYA, RUBEN A",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "JIMENEZ SOTO, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "VILLOTA SANCHO, MANUEL",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "URTURI OLIVAN, CHRISTIAN",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 58,
+      "jugador": "URTURI OLIVAN, CHRISTIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "COSMOS FS LA ESTRELLA B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "LOPEZ A RUBIO, LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BALDA GARRIDO, CESAR",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ORIO YANGUELA, RICARDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ORIO YANGUELA , RIT",
+  "delegado_equipo_visitante": "JIMENEZ DIEZ, EMILIO",
+  "titulares_local": [
+    "ORIO CASTELLANOS, SEBASTIAN J",
+    "VILLOTA SANCHO, MANUEL",
+    "URTURI OLIVAN, CHRISTIAN",
+    "MOYA LAHOYA, RUBEN A",
+    "MONTENEGRO BLASCO, SERGIO"
+  ],
+  "titulares_visitante": [
+    "SAN MILLAN SANCHEZ, BORJA",
+    "ORTEGA QUESADA, RODRIGO",
+    "VALER PEREZ, MARTIN",
+    "JIMENEZ SOTO, ALEJANDRO",
+    "LOPEZ A RUBIO, LUIS"
+  ],
+  "suplentes_local": [
+    "MARTINEZ CASADO, JAVIER",
+    "CORZANA IJALBA, SANTIAGO",
+    "LANGARICA SIERRA, MARIO",
+    "RIOS MONTIEL, JAVIER",
+    "VALIENTE SAENZ DE CABEZON, JORGE",
+    "DOS SANTOS CLARA, JOSE ORLANDO"
+  ],
+  "suplentes_visitante": [
+    "GABARRI DURAN, CARLOS FELIPE",
+    "GHAILAN BEN LACHHAB, NOSSAYR",
+    "GIL GARCIA, DAVID",
+    "LADRON GALILEA, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTINEZ CASADO, JAVIER",
+    "CORZANA IJALBA, SANTIAGO",
+    "LANGARICA SIERRA, MARIO",
+    "RIOS MONTIEL, JAVIER",
+    "VALIENTE SAENZ DE CABEZON, JORGE",
+    "DOS SANTOS CLARA, JOSE ORLANDO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GABARRI DURAN, CARLOS FELIPE",
+    "GHAILAN BEN LACHHAB, NOSSAYR",
+    "GIL GARCIA, DAVID",
+    "LADRON GALILEA, ALEJANDRO"
+  ],
+  "jugadores_local": [
+    "ORIO CASTELLANOS, SEBASTIAN J",
+    "VILLOTA SANCHO, MANUEL",
+    "URTURI OLIVAN, CHRISTIAN",
+    "MOYA LAHOYA, RUBEN A",
+    "MONTENEGRO BLASCO, SERGIO"
+  ],
+  "jugadores_visitante": [
+    "SAN MILLAN SANCHEZ, BORJA",
+    "ORTEGA QUESADA, RODRIGO",
+    "VALER PEREZ, MARTIN",
+    "JIMENEZ SOTO, ALEJANDRO",
+    "LOPEZ A RUBIO, LUIS"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "ORIO CASTELLANOS, SEBASTIAN J": 90,
+    "VILLOTA SANCHO, MANUEL": 90,
+    "URTURI OLIVAN, CHRISTIAN": 90,
+    "MOYA LAHOYA, RUBEN A": 90,
+    "MONTENEGRO BLASCO, SERGIO": 90,
+    "SAN MILLAN SANCHEZ, BORJA": 90,
+    "ORTEGA QUESADA, RODRIGO": 90,
+    "VALER PEREZ, MARTIN": 90,
+    "JIMENEZ SOTO, ALEJANDRO": 90,
+    "LOPEZ A RUBIO, LUIS": 90
+  },
+  "portero_local": "ORIO CASTELLANOS, SEBASTIAN J",
+  "portero_visitante": "SAN MILLAN SANCHEZ, BORJA",
+  "dorsales_local": {
+    "ORIO CASTELLANOS, SEBASTIAN J": 13,
+    "VILLOTA SANCHO, MANUEL": 6,
+    "URTURI OLIVAN, CHRISTIAN": 9,
+    "MOYA LAHOYA, RUBEN A": 11,
+    "MONTENEGRO BLASCO, SERGIO": 18
+  },
+  "dorsales_visitante": {
+    "SAN MILLAN SANCHEZ, BORJA": 13,
+    "ORTEGA QUESADA, RODRIGO": 7,
+    "VALER PEREZ, MARTIN": 8,
+    "JIMENEZ SOTO, ALEJANDRO": 11,
+    "LOPEZ A RUBIO, LUIS": 22
+  },
+  "suspendidos": []
+}
