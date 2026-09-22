@@ -1,0 +1,197 @@
+{
+  "acta_id": "N_70692120",
+  "filename": "Acta_N_70692120.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "26-06-2026",
+  "hora": "19:00",
+  "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Cadete Masculino (GRUPO B)",
+  "equipo_local": "SELECCIÓN CANARIA",
+  "equipo_visitante": "SELECCIÓN CASTILLA LA MANCHA",
+  "goles_local": 3,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "GÓMEZ CARRAL, MIGUEL",
+    "ÁRBITRO 2",
+    "SABIDO SERRANO, JOSE MANUEL",
+    "TERCER ÁRBITRO",
+    "MARTÍNEZ IBÁÑEZ, ÁLVARO",
+    "CRONOMETRADOR",
+    "GARCIA GOMEZ, MANUEL"
+  ],
+  "estadio": "ROTA",
+  "ciudad": "Rota",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "ABRANTE GARCIA, ISMAEL",
+      "equipo": "visitante",
+      "propia": true
+    },
+    {
+      "minuto": 11,
+      "jugador": "RUIZ TORRES, JAVIER",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 14,
+      "jugador": "SANCHEZ SANCHEZ MORENO, SERGIO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "PEREZ GONZALEZ, JOEL",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "SANCHEZ SANCHEZ MORENO, SERGIO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "SANCHEZ SANCHEZ MORENO, SERGIO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "SALAZAR TRUJILLO, ISAAC",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "TAPIA HERNANDEZ, EDEY",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 22,
+      "jugador": "PEREZ GONZALEZ, JOEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "RUIZ TORRES, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "AVILA AFONSO, NESTOR JESUS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "VERA SORIA, OSCAR DANIEL",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "TAPIA HERNANDEZ, EDEY",
+    "LEON PEREZ, AIRAN",
+    "RODRIGUEZ GONZALEZ, ANTONIO",
+    "ABRANTE GARCIA, ISMAEL",
+    "SILVA BANDE, ALEJO NATANAEL"
+  ],
+  "titulares_visitante": [
+    "JIMENEZ DE LOS GALANES LOPEZ TERCERO, SAMUEL",
+    "PASTOR SAEZ, GONZALO",
+    "PASTOR SÁEZ, ANDRÉS",
+    "RUIZ TORRES, JAVIER",
+    "VALENCIA GALLEGO, MARIO"
+  ],
+  "suplentes_local": [
+    "MARIN FLOREZ, EMANUEL",
+    "FLORES PEREZ, SAMUEL ALEJANDRO",
+    "MARTIN PADRON, OSCAR",
+    "MEDINA GONZALEZ, BRUNO",
+    "PEREZ GONZALEZ, JOEL",
+    "SALAZAR TRUJILLO, ISAAC",
+    "MARTIN GONZALEZ, PABLO"
+  ],
+  "suplentes_visitante": [
+    "PATIÑO GHEORGHITA, ALEJANDRO",
+    "VÁZQUEZ VEGA, ROBERTO",
+    "SANCHEZ SANCHEZ MORENO, SERGIO",
+    "NOBLEJAS MAROTO, DAVID",
+    "EL AOURF IZDAMOU, AMIR",
+    "GARCIA ALTAMIRANO, HUGO",
+    "VALLEZ CAMINERO, JESUS"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARIN FLOREZ, EMANUEL",
+    "FLORES PEREZ, SAMUEL ALEJANDRO",
+    "MARTIN PADRON, OSCAR",
+    "MEDINA GONZALEZ, BRUNO",
+    "PEREZ GONZALEZ, JOEL",
+    "SALAZAR TRUJILLO, ISAAC",
+    "MARTIN GONZALEZ, PABLO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PATIÑO GHEORGHITA, ALEJANDRO",
+    "VÁZQUEZ VEGA, ROBERTO",
+    "SANCHEZ SANCHEZ MORENO, SERGIO",
+    "NOBLEJAS MAROTO, DAVID",
+    "EL AOURF IZDAMOU, AMIR",
+    "GARCIA ALTAMIRANO, HUGO",
+    "VALLEZ CAMINERO, JESUS"
+  ],
+  "jugadores_local": [
+    "TAPIA HERNANDEZ, EDEY",
+    "LEON PEREZ, AIRAN",
+    "RODRIGUEZ GONZALEZ, ANTONIO",
+    "ABRANTE GARCIA, ISMAEL",
+    "SILVA BANDE, ALEJO NATANAEL"
+  ],
+  "jugadores_visitante": [
+    "JIMENEZ DE LOS GALANES LOPEZ TERCERO, SAMUEL",
+    "PASTOR SAEZ, GONZALO",
+    "PASTOR SÁEZ, ANDRÉS",
+    "RUIZ TORRES, JAVIER",
+    "VALENCIA GALLEGO, MARIO"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "TAPIA HERNANDEZ, EDEY": 90,
+    "LEON PEREZ, AIRAN": 90,
+    "RODRIGUEZ GONZALEZ, ANTONIO": 90,
+    "ABRANTE GARCIA, ISMAEL": 90,
+    "SILVA BANDE, ALEJO NATANAEL": 90,
+    "JIMENEZ DE LOS GALANES LOPEZ TERCERO, SAMUEL": 90,
+    "PASTOR SAEZ, GONZALO": 90,
+    "PASTOR SÁEZ, ANDRÉS": 90,
+    "RUIZ TORRES, JAVIER": 90,
+    "VALENCIA GALLEGO, MARIO": 90
+  },
+  "portero_local": "TAPIA HERNANDEZ, EDEY",
+  "portero_visitante": "JIMENEZ DE LOS GALANES LOPEZ TERCERO, SAMUEL",
+  "dorsales_local": {
+    "TAPIA HERNANDEZ, EDEY": 1,
+    "LEON PEREZ, AIRAN": 5,
+    "RODRIGUEZ GONZALEZ, ANTONIO": 6,
+    "ABRANTE GARCIA, ISMAEL": 7,
+    "SILVA BANDE, ALEJO NATANAEL": 10
+  },
+  "dorsales_visitante": {
+    "JIMENEZ DE LOS GALANES LOPEZ TERCERO, SAMUEL": 1,
+    "PASTOR SAEZ, GONZALO": 2,
+    "PASTOR SÁEZ, ANDRÉS": 3,
+    "RUIZ TORRES, JAVIER": 4,
+    "VALENCIA GALLEGO, MARIO": 5
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
