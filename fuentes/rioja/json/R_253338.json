@@ -1,0 +1,270 @@
+{
+  "acta_id": "R_253338",
+  "filename": "Acta_R_253338.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "21-02-2026",
+  "hora": "16:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "HARO SC",
+  "equipo_visitante": "VILLEGAS",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "LAOS CABRERA, CARLOS ENRIQUE"
+  ],
+  "estadio": "E.M.D. LUIS DE LA FUENTE - H.A. (HARO)",
+  "ciudad": "Haro",
+  "goleadores": [
+    {
+      "minuto": 46,
+      "jugador": "PEREDA DEL CAMPO, ADRIAN",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "YALCOUYE YALCOUYE, SOULEYMANE",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 81,
+      "jugador": "LEIVA MERCHAN, PABLO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 88,
+      "jugador": "DE LA FUENTE GUERRA, RODRIGO",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 71,
+      "jugador": "BELKASSMI ZIANI, MOHAMED A",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "AMAVISCA MUÑOZ, JESUS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 999,
+      "jugador": "PEREDA DEL CAMPO, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "VILLEGAS",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "GARCIA ALONSO, RAUL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "CANALES GOMEZ, RAUL",
+  "entrenador_visitante": "GARCIA ALONSO, RAUL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "AMAVISCA MUÑOZ, JESUS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "AMAVISCA MUÑOZ, JESUS",
+  "delegado_equipo_visitante": "FERNANDEZ GARCIA, ANIBAL",
+  "titulares_local": [
+    "CABEZON GARCIA, HUGO",
+    "BINABURO AMURRIO, AIMAR",
+    "MENENDEZ BRAVO, DAVID",
+    "CASTILLO MANERO, IVAN",
+    "RAMIREZ ONANDIA, JUAN",
+    "PEREDA DEL CAMPO, ADRIAN",
+    "FERNANDEZ LORENZO, MARCOS",
+    "DE LA FUENTE GUERRA, RODRIGO",
+    "GARCIA NAZABAL, JON",
+    "CEREZO FERNANDEZ, GORKA",
+    "LEIVA MERCHAN, PABLO"
+  ],
+  "titulares_visitante": [
+    "TEBJOU SNASLI, AHMED A",
+    "SANCHEZ ARAMAYO, HODEI",
+    "ROJO DEL VALLE, GERMAN",
+    "YALCOUYE YALCOUYE, SOULEYMANE",
+    "RUIZ SICILIA, DARIO",
+    "HORTELANO GONZALEZ, RUBEN",
+    "GARCIA BURBRIDGE, RORY M",
+    "LOPEZ BALMASEDA, MIGUEL",
+    "LARA PAREDES, JHENDERSON",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE",
+    "PEREZ FERNANDEZ, ADRIAN"
+  ],
+  "suplentes_local": [
+    "CALVO CARBAJO, DIEGO",
+    "IBURO JIMENEZ, DENIS",
+    "FERNANDEZ REBATE, DAVID",
+    "MERADJI BENNAMANE, ADAM",
+    "BELKASSMI ZIANI, MOHAMED A",
+    "BELKASSMI ABDOUS, MOHAMMED"
+  ],
+  "suplentes_visitante": [
+    "DA SILVA NALDA, YERAI",
+    "SABINO BERGES, CHRISTIAN",
+    "CENZANO CAÑAS, MARIO",
+    "ESCORZA MURO, ARTURO"
+  ],
+  "convocados_sin_jugar_local": [
+    "CALVO CARBAJO, DIEGO",
+    "FERNANDEZ REBATE, DAVID",
+    "MERADJI BENNAMANE, ADAM"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CABEZON GARCIA, HUGO",
+    "BINABURO AMURRIO, AIMAR",
+    "MENENDEZ BRAVO, DAVID",
+    "CASTILLO MANERO, IVAN",
+    "RAMIREZ ONANDIA, JUAN",
+    "PEREDA DEL CAMPO, ADRIAN",
+    "FERNANDEZ LORENZO, MARCOS",
+    "DE LA FUENTE GUERRA, RODRIGO",
+    "GARCIA NAZABAL, JON",
+    "CEREZO FERNANDEZ, GORKA",
+    "LEIVA MERCHAN, PABLO",
+    "BELKASSMI ZIANI, MOHAMED A",
+    "IBURO JIMENEZ, DENIS",
+    "BELKASSMI ABDOUS, MOHAMMED"
+  ],
+  "jugadores_visitante": [
+    "TEBJOU SNASLI, AHMED A",
+    "SANCHEZ ARAMAYO, HODEI",
+    "ROJO DEL VALLE, GERMAN",
+    "YALCOUYE YALCOUYE, SOULEYMANE",
+    "RUIZ SICILIA, DARIO",
+    "HORTELANO GONZALEZ, RUBEN",
+    "GARCIA BURBRIDGE, RORY M",
+    "LOPEZ BALMASEDA, MIGUEL",
+    "LARA PAREDES, JHENDERSON",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE",
+    "PEREZ FERNANDEZ, ADRIAN",
+    "DA SILVA NALDA, YERAI",
+    "SABINO BERGES, CHRISTIAN",
+    "ESCORZA MURO, ARTURO",
+    "CENZANO CAÑAS, MARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 67,
+      "entra": "BELKASSMI ZIANI, MOHAMED A",
+      "sale": "FERNANDEZ LORENZO, MARCOS"
+    },
+    {
+      "min": 67,
+      "entra": "IBURO JIMENEZ, DENIS",
+      "sale": "GARCIA NAZABAL, JON"
+    },
+    {
+      "min": 79,
+      "entra": "BELKASSMI ABDOUS, MOHAMMED",
+      "sale": "RAMIREZ ONANDIA, JUAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "DA SILVA NALDA, YERAI",
+      "sale": "GARCIA BURBRIDGE, RORY M"
+    },
+    {
+      "min": 61,
+      "entra": "SABINO BERGES, CHRISTIAN",
+      "sale": "LOPEZ BALMASEDA, MIGUEL"
+    },
+    {
+      "min": 83,
+      "entra": "ESCORZA MURO, ARTURO",
+      "sale": "LARA PAREDES, JHENDERSON"
+    },
+    {
+      "min": 86,
+      "entra": "CENZANO CAÑAS, MARIO",
+      "sale": "SANCHEZ ARAMAYO, HODEI"
+    }
+  ],
+  "minutos_jugadores": {
+    "CABEZON GARCIA, HUGO": 90,
+    "BINABURO AMURRIO, AIMAR": 90,
+    "MENENDEZ BRAVO, DAVID": 90,
+    "CASTILLO MANERO, IVAN": 90,
+    "RAMIREZ ONANDIA, JUAN": 79,
+    "PEREDA DEL CAMPO, ADRIAN": 90,
+    "FERNANDEZ LORENZO, MARCOS": 67,
+    "DE LA FUENTE GUERRA, RODRIGO": 90,
+    "GARCIA NAZABAL, JON": 67,
+    "CEREZO FERNANDEZ, GORKA": 90,
+    "LEIVA MERCHAN, PABLO": 90,
+    "BELKASSMI ZIANI, MOHAMED A": 23,
+    "IBURO JIMENEZ, DENIS": 23,
+    "BELKASSMI ABDOUS, MOHAMMED": 11,
+    "TEBJOU SNASLI, AHMED A": 90,
+    "SANCHEZ ARAMAYO, HODEI": 86,
+    "ROJO DEL VALLE, GERMAN": 90,
+    "YALCOUYE YALCOUYE, SOULEYMANE": 90,
+    "RUIZ SICILIA, DARIO": 90,
+    "HORTELANO GONZALEZ, RUBEN": 90,
+    "GARCIA BURBRIDGE, RORY M": 61,
+    "LOPEZ BALMASEDA, MIGUEL": 61,
+    "LARA PAREDES, JHENDERSON": 83,
+    "VALBUENA GUDIÑO, FRANCISCO JOSE": 90,
+    "PEREZ FERNANDEZ, ADRIAN": 90,
+    "DA SILVA NALDA, YERAI": 29,
+    "SABINO BERGES, CHRISTIAN": 29,
+    "ESCORZA MURO, ARTURO": 7,
+    "CENZANO CAÑAS, MARIO": 4
+  },
+  "portero_local": "CABEZON GARCIA, HUGO",
+  "portero_visitante": "TEBJOU SNASLI, AHMED A",
+  "dorsales_local": {
+    "CABEZON GARCIA, HUGO": 1,
+    "BINABURO AMURRIO, AIMAR": 3,
+    "MENENDEZ BRAVO, DAVID": 4,
+    "CASTILLO MANERO, IVAN": 6,
+    "RAMIREZ ONANDIA, JUAN": 8,
+    "PEREDA DEL CAMPO, ADRIAN": 9,
+    "FERNANDEZ LORENZO, MARCOS": 10,
+    "DE LA FUENTE GUERRA, RODRIGO": 14,
+    "GARCIA NAZABAL, JON": 18,
+    "CEREZO FERNANDEZ, GORKA": 21,
+    "LEIVA MERCHAN, PABLO": 23
+  },
+  "dorsales_visitante": {
+    "TEBJOU SNASLI, AHMED A": 1,
+    "SANCHEZ ARAMAYO, HODEI": 2,
+    "ROJO DEL VALLE, GERMAN": 3,
+    "YALCOUYE YALCOUYE, SOULEYMANE": 4,
+    "RUIZ SICILIA, DARIO": 5,
+    "HORTELANO GONZALEZ, RUBEN": 6,
+    "GARCIA BURBRIDGE, RORY M": 7,
+    "LOPEZ BALMASEDA, MIGUEL": 8,
+    "LARA PAREDES, JHENDERSON": 9,
+    "VALBUENA GUDIÑO, FRANCISCO JOSE": 10,
+    "PEREZ FERNANDEZ, ADRIAN": 11
+  },
+  "suspendidos": []
+}
