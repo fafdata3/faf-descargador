@@ -1,0 +1,170 @@
+{
+  "acta_id": "N_70691579",
+  "filename": "Acta_N_70691579.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "05-06-2026",
+  "hora": "19:00",
+  "categoria": "Campeonato de España de Clubes Base Fútbol Sala Sub-10 Masculino (GRUPO C)",
+  "equipo_local": "INDUSTRIAS GARCIA",
+  "equipo_visitante": "C.D. ARROYO",
+  "goles_local": 5,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "MORENO ALCARAZ, PAU",
+    "ÁRBITRO 2",
+    "ZAFRA SERRANO, LORCA",
+    "CRONOMETRADOR",
+    "CARTES BLANCO, CARLA"
+  ],
+  "estadio": "Pabellón Nou",
+  "ciudad": "Santa Coloma de Gramenet",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "ROBLES CALVO, ADAM",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "GARCIA SARO, LEO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "MIGUEL PEREZ, UNAI",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "CALVO FORS, ADRIA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "PENDÓN CUNILLERA, LEO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "CALVO FORS, ADRIA",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 9,
+      "jugador": "FERRERO MARTIN, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DIAZ TOLRA, TEO",
+    "GARCIA SARO, LEO",
+    "FITÓ ROLDÁN, ENOC",
+    "CALVO FORS, ADRIA",
+    "BARONA MARTIN, ADRIAN"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ PREDA, HUGO",
+    "ROMAN ARROYO, LUCAS",
+    "GONZALEZ TAPIA, JAIME",
+    "CAZALLAS ESCRIBANO, ADRIAN",
+    "LOPEZ BAÑOS, VICTOR"
+  ],
+  "suplentes_local": [
+    "MARTIN GARCIA, DENIS",
+    "PENDÓN CUNILLERA, LEO",
+    "MATAMALA HERNANDEZ, MAX",
+    "ROBLES CALVO, ADAM",
+    "TORRES PROKHOROV, JORDI"
+  ],
+  "suplentes_visitante": [
+    "MIGUEL PEREZ, UNAI",
+    "FERRERO MARTIN, MARTIN",
+    "VICENTE GONZALEZ, SAMUEL",
+    "PEREZ MARTINEZ, ALVARO",
+    "TCHABOUBOU, SOULAIMANE",
+    "PALMERO PRIETO, ANGEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTIN GARCIA, DENIS",
+    "PENDÓN CUNILLERA, LEO",
+    "MATAMALA HERNANDEZ, MAX",
+    "ROBLES CALVO, ADAM",
+    "TORRES PROKHOROV, JORDI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MIGUEL PEREZ, UNAI",
+    "FERRERO MARTIN, MARTIN",
+    "VICENTE GONZALEZ, SAMUEL",
+    "PEREZ MARTINEZ, ALVARO",
+    "TCHABOUBOU, SOULAIMANE",
+    "PALMERO PRIETO, ANGEL"
+  ],
+  "jugadores_local": [
+    "DIAZ TOLRA, TEO",
+    "GARCIA SARO, LEO",
+    "FITÓ ROLDÁN, ENOC",
+    "CALVO FORS, ADRIA",
+    "BARONA MARTIN, ADRIAN"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ PREDA, HUGO",
+    "ROMAN ARROYO, LUCAS",
+    "GONZALEZ TAPIA, JAIME",
+    "CAZALLAS ESCRIBANO, ADRIAN",
+    "LOPEZ BAÑOS, VICTOR"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "DIAZ TOLRA, TEO": 90,
+    "GARCIA SARO, LEO": 90,
+    "FITÓ ROLDÁN, ENOC": 90,
+    "CALVO FORS, ADRIA": 90,
+    "BARONA MARTIN, ADRIAN": 90,
+    "FERNANDEZ PREDA, HUGO": 90,
+    "ROMAN ARROYO, LUCAS": 90,
+    "GONZALEZ TAPIA, JAIME": 90,
+    "CAZALLAS ESCRIBANO, ADRIAN": 90,
+    "LOPEZ BAÑOS, VICTOR": 90
+  },
+  "portero_local": "DIAZ TOLRA, TEO",
+  "portero_visitante": "FERNANDEZ PREDA, HUGO",
+  "dorsales_local": {
+    "DIAZ TOLRA, TEO": 1,
+    "GARCIA SARO, LEO": 6,
+    "FITÓ ROLDÁN, ENOC": 8,
+    "CALVO FORS, ADRIA": 9,
+    "BARONA MARTIN, ADRIAN": 19
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ PREDA, HUGO": 7,
+    "ROMAN ARROYO, LUCAS": 2,
+    "GONZALEZ TAPIA, JAIME": 4,
+    "CAZALLAS ESCRIBANO, ADRIAN": 8,
+    "LOPEZ BAÑOS, VICTOR": 9
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
