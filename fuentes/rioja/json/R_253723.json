@@ -1,0 +1,159 @@
+{
+  "acta_id": "R_253723",
+  "filename": "Acta_R_253723.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 12,
+  "fecha": "01-02-2026",
+  "hora": "12:00",
+  "categoria": "SENIOR FÚTBOL SALA - 1ª FASE (Grupo 2)",
+  "equipo_local": "SPORTING CASCAJOS Capos Pizzeria",
+  "equipo_visitante": "AD LARDERO Maquimplast",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "CABEZÓN NALDA, FERNANDO"
+  ],
+  "estadio": "P.M. GONZALO DE BERCEO (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "PRADO DIMAS, MARIO JESUS",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "ANTON JIMENEZ, JORGE",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "GARRIDO OLIVAN, ISAAC",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "JAIME GARCIA, MIGUEL",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 57,
+      "jugador": "ED DERRAZ, FATAH",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "AD LARDERO Maquimplast",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "DUBLAN GARNICA, JOSE A",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "VENTURIN, JUAN GABRIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VENTURIN, JUAN GABRIEL",
+  "delegado_equipo_visitante": "LOPEZ VEGA, EMILIO",
+  "titulares_local": [
+    "MARCANO YEPEZ, LUIS GUILLERMO BRETH",
+    "RIVERO VILLEGAS, WALTER JOSE",
+    "PRADO DIMAS, MARIO JESUS",
+    "DARIE, ROBERT IONUT",
+    "GOGILTAN, RAOUL ALEXANDRU"
+  ],
+  "titulares_visitante": [
+    "VEGA BARRIO, MIGUEL A",
+    "PLAZA GURREA, CRISTIAN",
+    "SANCHEZ PRADANOS, MARIO",
+    "FERNANDEZ LOPEZ, JOEL",
+    "JAIME GARCIA, MIGUEL"
+  ],
+  "suplentes_local": [
+    "PASTOR HERMOSILLA, ALVARO",
+    "MIGUEL LORENZO, DAVID",
+    "ED DERRAZ, FATAH"
+  ],
+  "suplentes_visitante": [
+    "SANTOLAYA MARIN, VICTOR",
+    "LUQUE RIVAS, ANTHONY D",
+    "MORENO GARCIA, MARCOS",
+    "BARRAGAN GARCIA, PABLO",
+    "MARIN VELASCO, BORJA",
+    "ANTON JIMENEZ, JORGE",
+    "GARRIDO OLIVAN, ISAAC"
+  ],
+  "convocados_sin_jugar_local": [
+    "PASTOR HERMOSILLA, ALVARO",
+    "MIGUEL LORENZO, DAVID",
+    "ED DERRAZ, FATAH"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SANTOLAYA MARIN, VICTOR",
+    "LUQUE RIVAS, ANTHONY D",
+    "MORENO GARCIA, MARCOS",
+    "BARRAGAN GARCIA, PABLO",
+    "MARIN VELASCO, BORJA",
+    "ANTON JIMENEZ, JORGE",
+    "GARRIDO OLIVAN, ISAAC"
+  ],
+  "jugadores_local": [
+    "MARCANO YEPEZ, LUIS GUILLERMO BRETH",
+    "RIVERO VILLEGAS, WALTER JOSE",
+    "PRADO DIMAS, MARIO JESUS",
+    "DARIE, ROBERT IONUT",
+    "GOGILTAN, RAOUL ALEXANDRU"
+  ],
+  "jugadores_visitante": [
+    "VEGA BARRIO, MIGUEL A",
+    "PLAZA GURREA, CRISTIAN",
+    "SANCHEZ PRADANOS, MARIO",
+    "FERNANDEZ LOPEZ, JOEL",
+    "JAIME GARCIA, MIGUEL"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "MARCANO YEPEZ, LUIS GUILLERMO BRETH": 90,
+    "RIVERO VILLEGAS, WALTER JOSE": 90,
+    "PRADO DIMAS, MARIO JESUS": 90,
+    "DARIE, ROBERT IONUT": 90,
+    "GOGILTAN, RAOUL ALEXANDRU": 90,
+    "VEGA BARRIO, MIGUEL A": 90,
+    "PLAZA GURREA, CRISTIAN": 90,
+    "SANCHEZ PRADANOS, MARIO": 90,
+    "FERNANDEZ LOPEZ, JOEL": 90,
+    "JAIME GARCIA, MIGUEL": 90
+  },
+  "portero_local": "MARCANO YEPEZ, LUIS GUILLERMO BRETH",
+  "portero_visitante": "VEGA BARRIO, MIGUEL A",
+  "dorsales_local": {
+    "MARCANO YEPEZ, LUIS GUILLERMO BRETH": 13,
+    "RIVERO VILLEGAS, WALTER JOSE": 6,
+    "PRADO DIMAS, MARIO JESUS": 9,
+    "DARIE, ROBERT IONUT": 10,
+    "GOGILTAN, RAOUL ALEXANDRU": 77
+  },
+  "dorsales_visitante": {
+    "VEGA BARRIO, MIGUEL A": 24,
+    "PLAZA GURREA, CRISTIAN": 6,
+    "SANCHEZ PRADANOS, MARIO": 8,
+    "FERNANDEZ LOPEZ, JOEL": 9,
+    "JAIME GARCIA, MIGUEL": 12
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
