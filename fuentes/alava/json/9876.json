@@ -1,0 +1,216 @@
+{
+  "acta_id": "9876",
+  "filename": "Acta_9876.txt",
+  "fuente": "alava",
+  "temporada": "2016-2017",
+  "jornada": 15,
+  "fecha": "07-01-2017",
+  "hora": "18:30",
+  "categoria": "REGIONAL PREFERENTE / GORENGOEN MAILA (GRUPO - 1)",
+  "equipo_local": "LASARTEKO OLABIDE I.K.E.",
+  "equipo_visitante": "LANTARON C.D.",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "ARBAIZA CAMINO, GAIZKA",
+    "Árbitro Asistente",
+    "MARTIN MURGOITIO, EGOITZ",
+    "Árbitro Auxiliar",
+    "DE PAULA ROSA, IAGO"
+  ],
+  "estadio": "IKAS. OLABIDE (H.A.)",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 0,
+      "jugador": "AIZPURUA ETXEZARRETA, ASIER",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 0,
+      "jugador": "CALVO BAUTISTA, AITOR",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "BERGADO FERNANDEZ, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 84,
+      "jugador": "MARTIN CERRILLO, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "VELEZ CEREZO, IVAN",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "GOMEZ ANUNCIBAY, JON ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARQUINEZ PEÑA, ANDER",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "TRUJILLO AHEDO, BORJA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "LUCAS OARBEASKOA, AITOR",
+    "ARTETXE ZUBIAUR, JULEN",
+    "CALVOECHEAGA ABARRATEGUI, XABIER",
+    "URTARAN MANCHOLA, GORKA",
+    "SAEZ L GALPARSORO, JOSU",
+    "AIZPURUA ETXEZARRETA, ASIER",
+    "GORRITIBEREA ALONSO, IMANOL",
+    "SIMANCAS UBIRIA, BORJA",
+    "JIMENEZ IDUYA, IÑAKI",
+    "AIZPURU OLMOS, IKER",
+    "LUZURIAGA GONZALEZ, JON"
+  ],
+  "titulares_visitante": [
+    "CALVO BAUTISTA, AITOR",
+    "MARTIN CERRILLO, IKER",
+    "BERGADO FERNANDEZ, JAVIER",
+    "BERNAL AGUILAR, JORGE",
+    "GOMEZ ANUNCIBAY, JON ANDER",
+    "GONÇALVES MONTEIRO, DAVID TIAGO",
+    "GOMEZ DE CADIÑANOS DUEÑAS, RODRIGO",
+    "PRESA ORUE, JAVIER",
+    "NIETO GOMEZ, ASIER",
+    "HERRERO ALVAREZ, ALVARO",
+    "CALVO BAUTISTA, AITOR"
+  ],
+  "suplentes_local": [
+    "HERNANDEZ AGUIRRE, UNAI",
+    "OCHOA DE ERIBE OLMOS, MARIO",
+    "URIEL URIBE, JOSU",
+    "BARROSO PUJANA, AITOR",
+    "HERRAN FERNANDEZ, GORKA",
+    "FERNANDEZ M GORRIZ, AITOR",
+    "SAENZ DE BURUAGA ZABALA, JOSU"
+  ],
+  "suplentes_visitante": [
+    "CORDEIRO VILLAR, DIEGO",
+    "VELEZ CEREZO, IVAN",
+    "MARTINEZ PEREZ, MIKEL",
+    "URIARTE GOMEZ, ASIER",
+    "SAMANIEGO SALAZAR, YERAI",
+    "OTEIZA GARCIA, MIGUEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "HERNANDEZ AGUIRRE, UNAI",
+    "OCHOA DE ERIBE OLMOS, MARIO",
+    "URIEL URIBE, JOSU",
+    "BARROSO PUJANA, AITOR",
+    "HERRAN FERNANDEZ, GORKA",
+    "FERNANDEZ M GORRIZ, AITOR",
+    "SAENZ DE BURUAGA ZABALA, JOSU"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CORDEIRO VILLAR, DIEGO",
+    "VELEZ CEREZO, IVAN",
+    "MARTINEZ PEREZ, MIKEL",
+    "URIARTE GOMEZ, ASIER",
+    "SAMANIEGO SALAZAR, YERAI",
+    "OTEIZA GARCIA, MIGUEL"
+  ],
+  "jugadores_local": [
+    "LUCAS OARBEASKOA, AITOR",
+    "ARTETXE ZUBIAUR, JULEN",
+    "CALVOECHEAGA ABARRATEGUI, XABIER",
+    "URTARAN MANCHOLA, GORKA",
+    "SAEZ L GALPARSORO, JOSU",
+    "AIZPURUA ETXEZARRETA, ASIER",
+    "GORRITIBEREA ALONSO, IMANOL",
+    "SIMANCAS UBIRIA, BORJA",
+    "JIMENEZ IDUYA, IÑAKI",
+    "AIZPURU OLMOS, IKER",
+    "LUZURIAGA GONZALEZ, JON"
+  ],
+  "jugadores_visitante": [
+    "CALVO BAUTISTA, AITOR",
+    "MARTIN CERRILLO, IKER",
+    "BERGADO FERNANDEZ, JAVIER",
+    "BERNAL AGUILAR, JORGE",
+    "GOMEZ ANUNCIBAY, JON ANDER",
+    "GONÇALVES MONTEIRO, DAVID TIAGO",
+    "GOMEZ DE CADIÑANOS DUEÑAS, RODRIGO",
+    "PRESA ORUE, JAVIER",
+    "NIETO GOMEZ, ASIER",
+    "HERRERO ALVAREZ, ALVARO",
+    "CALVO BAUTISTA, AITOR"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "LUCAS OARBEASKOA, AITOR": 90,
+    "ARTETXE ZUBIAUR, JULEN": 90,
+    "CALVOECHEAGA ABARRATEGUI, XABIER": 90,
+    "URTARAN MANCHOLA, GORKA": 90,
+    "SAEZ L GALPARSORO, JOSU": 90,
+    "AIZPURUA ETXEZARRETA, ASIER": 90,
+    "GORRITIBEREA ALONSO, IMANOL": 90,
+    "SIMANCAS UBIRIA, BORJA": 90,
+    "JIMENEZ IDUYA, IÑAKI": 90,
+    "AIZPURU OLMOS, IKER": 90,
+    "LUZURIAGA GONZALEZ, JON": 90,
+    "CALVO BAUTISTA, AITOR": 90,
+    "MARTIN CERRILLO, IKER": 90,
+    "BERGADO FERNANDEZ, JAVIER": 90,
+    "BERNAL AGUILAR, JORGE": 90,
+    "GOMEZ ANUNCIBAY, JON ANDER": 90,
+    "GONÇALVES MONTEIRO, DAVID TIAGO": 90,
+    "GOMEZ DE CADIÑANOS DUEÑAS, RODRIGO": 90,
+    "PRESA ORUE, JAVIER": 90,
+    "NIETO GOMEZ, ASIER": 90,
+    "HERRERO ALVAREZ, ALVARO": 90
+  },
+  "portero_local": "LUCAS OARBEASKOA, AITOR",
+  "portero_visitante": "GONÇALVES MONTEIRO, DAVID TIAGO",
+  "dorsales_local": {
+    "LUCAS OARBEASKOA, AITOR": 1,
+    "ARTETXE ZUBIAUR, JULEN": 3,
+    "CALVOECHEAGA ABARRATEGUI, XABIER": 5,
+    "URTARAN MANCHOLA, GORKA": 7,
+    "SAEZ L GALPARSORO, JOSU": 9,
+    "AIZPURUA ETXEZARRETA, ASIER": 10,
+    "GORRITIBEREA ALONSO, IMANOL": 14,
+    "SIMANCAS UBIRIA, BORJA": 16,
+    "JIMENEZ IDUYA, IÑAKI": 17,
+    "AIZPURU OLMOS, IKER": 20,
+    "LUZURIAGA GONZALEZ, JON": 25
+  },
+  "dorsales_visitante": {
+    "CALVO BAUTISTA, AITOR": 19,
+    "MARTIN CERRILLO, IKER": 5,
+    "BERGADO FERNANDEZ, JAVIER": 9,
+    "BERNAL AGUILAR, JORGE": 11,
+    "GOMEZ ANUNCIBAY, JON ANDER": 12,
+    "GONÇALVES MONTEIRO, DAVID TIAGO": 13,
+    "GOMEZ DE CADIÑANOS DUEÑAS, RODRIGO": 14,
+    "PRESA ORUE, JAVIER": 15,
+    "NIETO GOMEZ, ASIER": 16,
+    "HERRERO ALVAREZ, ALVARO": 17
+  },
+  "suspendidos": []
+}
