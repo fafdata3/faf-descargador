@@ -1,0 +1,255 @@
+{
+  "acta_id": "R_253341",
+  "filename": "Acta_R_253341.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "28-02-2026",
+  "hora": "16:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "ALBERITE Embalajes Blanco",
+  "equipo_visitante": "TEDEON",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BOZALONGO PLAZA, NACHO"
+  ],
+  "estadio": "C.M. MARINO SAENZ ANDOLLO (ALBERITE)",
+  "ciudad": "Alberite",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "BARRASA VITERI, MARCO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "CHEBAARADI DAMOUN, IBRAHIM",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "ELIAS BENZAL, RODRIGO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "CHEBAARADI DAMOUN, IBRAHIM",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 81,
+      "jugador": "MUÑOZ RAMOS, MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "LAFUENTE RUIZ, MATEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA GARCIA, RAFAEL",
+  "entrenador_visitante": "PASCUAL MIGUEL, LUIS ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "TRAPERO DAROCA, FERNANDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TRAPERO DAROCA, FERNANDO",
+  "delegado_equipo_visitante": "HERNANDEZ HERNANDEZ, MILLAN",
+  "titulares_local": [
+    "PANAZAN BLEAHU, SERGIO EMIL",
+    "RAMOS GOMEZ, JOSE L",
+    "SANTO DOMINGO RUIZ NAVARRO, JUAN ANTONIO",
+    "ALVAREZ MANZANEDO, OSCAR",
+    "RUIZ TORRES, YERAY",
+    "ELIAS BENZAL, RODRIGO",
+    "MENCHACA RIOJA, JAVIER",
+    "RODRIGUEZ LASANTA, SERGIO",
+    "CALVO EZQUERRO, MARIO",
+    "ESTEFANIA MORENO, RODRIGO",
+    "CHEBAARADI DAMOUN, IBRAHIM"
+  ],
+  "titulares_visitante": [
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+    "LAFUENTE RUIZ, BELTRAN",
+    "MORLAN RIVERO, JAVIER",
+    "HERNANDEZ CALVO B, DIEGO",
+    "ARECHABALA FRIAS, ANDER",
+    "LAFUENTE RUIZ, MATEO",
+    "MARTINEZ AZOFRA, MIGUEL",
+    "BARRASA VITERI, MARCO",
+    "IZQUIERDO LOPEZ T, HUGO",
+    "ZAMORA RUIZ, JAVIER",
+    "KEITA SANOGO, IBRAHIM"
+  ],
+  "suplentes_local": [
+    "BARRERA FORCADA, DARIO",
+    "BENMRAH BENMRAH, TAMER",
+    "MENCHACA GARCIA, MARIO",
+    "ROMAN SALINAS, HUGO",
+    "HAMMOUCH SADDIKI, JIHAD",
+    "URUÑUELA DEL POZO, ELOY",
+    "GOMEZ GONZALEZ, JON"
+  ],
+  "suplentes_visitante": [
+    "HONRUBIA BASALO, GONZALO",
+    "MUÑOZ RAMOS, MIGUEL",
+    "PRIETO MARTINEZ, ESTEBAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "BARRERA FORCADA, DARIO",
+    "MENCHACA GARCIA, MARIO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PANAZAN BLEAHU, SERGIO EMIL",
+    "RAMOS GOMEZ, JOSE L",
+    "SANTO DOMINGO RUIZ NAVARRO, JUAN ANTONIO",
+    "ALVAREZ MANZANEDO, OSCAR",
+    "RUIZ TORRES, YERAY",
+    "ELIAS BENZAL, RODRIGO",
+    "MENCHACA RIOJA, JAVIER",
+    "RODRIGUEZ LASANTA, SERGIO",
+    "CALVO EZQUERRO, MARIO",
+    "ESTEFANIA MORENO, RODRIGO",
+    "CHEBAARADI DAMOUN, IBRAHIM",
+    "GOMEZ GONZALEZ, JON",
+    "HAMMOUCH SADDIKI, JIHAD",
+    "BENMRAH BENMRAH, TAMER",
+    "ROMAN SALINAS, HUGO",
+    "URUÑUELA DEL POZO, ELOY"
+  ],
+  "jugadores_visitante": [
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+    "LAFUENTE RUIZ, BELTRAN",
+    "MORLAN RIVERO, JAVIER",
+    "HERNANDEZ CALVO B, DIEGO",
+    "ARECHABALA FRIAS, ANDER",
+    "LAFUENTE RUIZ, MATEO",
+    "MARTINEZ AZOFRA, MIGUEL",
+    "BARRASA VITERI, MARCO",
+    "IZQUIERDO LOPEZ T, HUGO",
+    "ZAMORA RUIZ, JAVIER",
+    "KEITA SANOGO, IBRAHIM",
+    "HONRUBIA BASALO, GONZALO",
+    "MUÑOZ RAMOS, MIGUEL",
+    "PRIETO MARTINEZ, ESTEBAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "GOMEZ GONZALEZ, JON",
+      "sale": "MENCHACA RIOJA, JAVIER"
+    },
+    {
+      "min": 60,
+      "entra": "HAMMOUCH SADDIKI, JIHAD",
+      "sale": "CALVO EZQUERRO, MARIO"
+    },
+    {
+      "min": 60,
+      "entra": "BENMRAH BENMRAH, TAMER",
+      "sale": "RUIZ TORRES, YERAY"
+    },
+    {
+      "min": 75,
+      "entra": "ROMAN SALINAS, HUGO",
+      "sale": "ELIAS BENZAL, RODRIGO"
+    },
+    {
+      "min": 75,
+      "entra": "URUÑUELA DEL POZO, ELOY",
+      "sale": "RODRIGUEZ LASANTA, SERGIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 70,
+      "entra": "HONRUBIA BASALO, GONZALO",
+      "sale": "HERNANDEZ CALVO B, DIEGO"
+    },
+    {
+      "min": 73,
+      "entra": "MUÑOZ RAMOS, MIGUEL",
+      "sale": "MARTINEZ AZOFRA, MIGUEL"
+    },
+    {
+      "min": 83,
+      "entra": "PRIETO MARTINEZ, ESTEBAN",
+      "sale": "KEITA SANOGO, IBRAHIM"
+    }
+  ],
+  "minutos_jugadores": {
+    "PANAZAN BLEAHU, SERGIO EMIL": 90,
+    "RAMOS GOMEZ, JOSE L": 90,
+    "SANTO DOMINGO RUIZ NAVARRO, JUAN ANTONIO": 90,
+    "ALVAREZ MANZANEDO, OSCAR": 90,
+    "RUIZ TORRES, YERAY": 60,
+    "ELIAS BENZAL, RODRIGO": 75,
+    "MENCHACA RIOJA, JAVIER": 60,
+    "RODRIGUEZ LASANTA, SERGIO": 75,
+    "CALVO EZQUERRO, MARIO": 60,
+    "ESTEFANIA MORENO, RODRIGO": 90,
+    "CHEBAARADI DAMOUN, IBRAHIM": 90,
+    "GOMEZ GONZALEZ, JON": 30,
+    "HAMMOUCH SADDIKI, JIHAD": 30,
+    "BENMRAH BENMRAH, TAMER": 30,
+    "ROMAN SALINAS, HUGO": 15,
+    "URUÑUELA DEL POZO, ELOY": 15,
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR": 90,
+    "LAFUENTE RUIZ, BELTRAN": 90,
+    "MORLAN RIVERO, JAVIER": 90,
+    "HERNANDEZ CALVO B, DIEGO": 70,
+    "ARECHABALA FRIAS, ANDER": 90,
+    "LAFUENTE RUIZ, MATEO": 90,
+    "MARTINEZ AZOFRA, MIGUEL": 73,
+    "BARRASA VITERI, MARCO": 90,
+    "IZQUIERDO LOPEZ T, HUGO": 90,
+    "ZAMORA RUIZ, JAVIER": 90,
+    "KEITA SANOGO, IBRAHIM": 83,
+    "HONRUBIA BASALO, GONZALO": 20,
+    "MUÑOZ RAMOS, MIGUEL": 17,
+    "PRIETO MARTINEZ, ESTEBAN": 7
+  },
+  "portero_local": "PANAZAN BLEAHU, SERGIO EMIL",
+  "portero_visitante": "CENICEROS GONZALEZ DE GARIBAY, IGOR",
+  "dorsales_local": {
+    "PANAZAN BLEAHU, SERGIO EMIL": 25,
+    "RAMOS GOMEZ, JOSE L": 2,
+    "SANTO DOMINGO RUIZ NAVARRO, JUAN ANTONIO": 4,
+    "ALVAREZ MANZANEDO, OSCAR": 9,
+    "RUIZ TORRES, YERAY": 11,
+    "ELIAS BENZAL, RODRIGO": 15,
+    "MENCHACA RIOJA, JAVIER": 16,
+    "RODRIGUEZ LASANTA, SERGIO": 17,
+    "CALVO EZQUERRO, MARIO": 18,
+    "ESTEFANIA MORENO, RODRIGO": 22,
+    "CHEBAARADI DAMOUN, IBRAHIM": 24
+  },
+  "dorsales_visitante": {
+    "CENICEROS GONZALEZ DE GARIBAY, IGOR": 13,
+    "LAFUENTE RUIZ, BELTRAN": 2,
+    "MORLAN RIVERO, JAVIER": 3,
+    "HERNANDEZ CALVO B, DIEGO": 4,
+    "ARECHABALA FRIAS, ANDER": 5,
+    "LAFUENTE RUIZ, MATEO": 7,
+    "MARTINEZ AZOFRA, MIGUEL": 8,
+    "BARRASA VITERI, MARCO": 10,
+    "IZQUIERDO LOPEZ T, HUGO": 11,
+    "ZAMORA RUIZ, JAVIER": 12,
+    "KEITA SANOGO, IBRAHIM": 19
+  },
+  "suspendidos": []
+}
