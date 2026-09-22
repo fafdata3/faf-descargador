@@ -1,0 +1,284 @@
+{
+  "acta_id": "R_253354",
+  "filename": "Acta_R_253354.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "04-10-2025",
+  "hora": "16:00",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "CALASANCIO",
+  "equipo_visitante": "SD LOGROÑES",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "AMGHITEN GHARAFI, IYAD"
+  ],
+  "estadio": "C.M. EL SALVADOR-GONZALO ESPINOSA - H.A. (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "LERA TOBALINA, PABLO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 85,
+      "jugador": "BLANCO RUIZ, ALEJANDRO",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 22,
+      "jugador": "QUINTANA ACEDO, SAMUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 43,
+      "jugador": "MARTI HERRERO, YOAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "ALZATE GALVIS, SANTIAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "SD LOGROÑES",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 19,
+      "jugador": "SAMPEDRO HERNANDO, SERGIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "IRUZUBIETA IBAÑEZ, JORGE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LEON ORTEGA, ADRIAN",
+  "entrenador_visitante": "ROMERO NUÑEZ, PABLO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GOMEZ GARCIA, GONZALO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA TRIMIÑO, IVAN",
+  "delegado_equipo_visitante": "OTERO ORDOÑEZ, JUAN ANTONIO",
+  "titulares_local": [
+    "AGUADO SAN JUAN, RODRIGO",
+    "SANZ TERES, PAU",
+    "LERA TOBALINA, PABLO",
+    "ALZATE GALVIS, SANTIAGO",
+    "MARTI HERRERO, YOAN",
+    "ROMAN NAVARIDAS, DANIEL",
+    "LOPEZ HENARES, NICO",
+    "AHARCHI ABDELOUAHAB, ANWAR",
+    "MONASTERIO BIRCEA, ANDER",
+    "QUINTANA ACEDO, SAMUEL",
+    "PELTEA BANARIU, DANIEL ANDREI"
+  ],
+  "titulares_visitante": [
+    "SAENZ PARRA, SERGIO",
+    "MADURGA HEREDIA, RODRIGO",
+    "OTERO LOPEZ, ANGEL",
+    "IRUZUBIETA IBAÑEZ, JORGE",
+    "PEREZ SAN JUAN, HUGO",
+    "SAMPEDRO HERNANDO, SERGIO",
+    "VILLALON URQUIDI, BRUNO ROBERTO",
+    "FERNANDEZ BONED, GABRIEL",
+    "QUINTERO TALAGA, BRANDON STIVEN",
+    "KEITA SANOGO, DAOUDA D",
+    "DOMINGUEZ RUIZOLALLA, JAVIER"
+  ],
+  "suplentes_local": [
+    "FECHETE CARRIQUIRI, ERIK A",
+    "MARQUEZ GARRIDO, LEO",
+    "BLANCO RUIZ, ALEJANDRO",
+    "MIGUEL GARCIA, OSCAR",
+    "PASCUAL GONZALEZ, RODRIGO",
+    "MONTEROS ALCALDE, JORDAN C"
+  ],
+  "suplentes_visitante": [
+    "ALLAOUI, NABIL",
+    "ELGUEA HERNAIZ, IVAN",
+    "ENCISO GAMARRA, WALTER I",
+    "MARGVELASHVILI, NODAR",
+    "ESTEBAN MONTERO, LUCAS",
+    "DIEZ CARRION, MARCO",
+    "MARIN MARTINEZ, RAM"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARQUEZ GARRIDO, LEO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALLAOUI, NABIL",
+    "ELGUEA HERNAIZ, IVAN",
+    "ESTEBAN MONTERO, LUCAS"
+  ],
+  "jugadores_local": [
+    "AGUADO SAN JUAN, RODRIGO",
+    "SANZ TERES, PAU",
+    "LERA TOBALINA, PABLO",
+    "ALZATE GALVIS, SANTIAGO",
+    "MARTI HERRERO, YOAN",
+    "ROMAN NAVARIDAS, DANIEL",
+    "LOPEZ HENARES, NICO",
+    "AHARCHI ABDELOUAHAB, ANWAR",
+    "MONASTERIO BIRCEA, ANDER",
+    "QUINTANA ACEDO, SAMUEL",
+    "PELTEA BANARIU, DANIEL ANDREI",
+    "PASCUAL GONZALEZ, RODRIGO",
+    "FECHETE CARRIQUIRI, ERIK A",
+    "MIGUEL GARCIA, OSCAR",
+    "MONTEROS ALCALDE, JORDAN C",
+    "BLANCO RUIZ, ALEJANDRO"
+  ],
+  "jugadores_visitante": [
+    "SAENZ PARRA, SERGIO",
+    "MADURGA HEREDIA, RODRIGO",
+    "OTERO LOPEZ, ANGEL",
+    "IRUZUBIETA IBAÑEZ, JORGE",
+    "PEREZ SAN JUAN, HUGO",
+    "SAMPEDRO HERNANDO, SERGIO",
+    "VILLALON URQUIDI, BRUNO ROBERTO",
+    "FERNANDEZ BONED, GABRIEL",
+    "QUINTERO TALAGA, BRANDON STIVEN",
+    "KEITA SANOGO, DAOUDA D",
+    "DOMINGUEZ RUIZOLALLA, JAVIER",
+    "DIEZ CARRION, MARCO",
+    "ENCISO GAMARRA, WALTER I",
+    "MARIN MARTINEZ, RAM",
+    "MARGVELASHVILI, NODAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "PASCUAL GONZALEZ, RODRIGO",
+      "sale": "MARTI HERRERO, YOAN"
+    },
+    {
+      "min": 51,
+      "entra": "FECHETE CARRIQUIRI, ERIK A",
+      "sale": "LOPEZ HENARES, NICO"
+    },
+    {
+      "min": 65,
+      "entra": "MIGUEL GARCIA, OSCAR",
+      "sale": "SANZ TERES, PAU"
+    },
+    {
+      "min": 74,
+      "entra": "MONTEROS ALCALDE, JORDAN C",
+      "sale": "ROMAN NAVARIDAS, DANIEL"
+    },
+    {
+      "min": 74,
+      "entra": "BLANCO RUIZ, ALEJANDRO",
+      "sale": "AHARCHI ABDELOUAHAB, ANWAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "DIEZ CARRION, MARCO",
+      "sale": "DOMINGUEZ RUIZOLALLA, JAVIER"
+    },
+    {
+      "min": 67,
+      "entra": "ENCISO GAMARRA, WALTER I",
+      "sale": "IRUZUBIETA IBAÑEZ, JORGE"
+    },
+    {
+      "min": 81,
+      "entra": "MARIN MARTINEZ, RAM",
+      "sale": "KEITA SANOGO, DAOUDA D"
+    },
+    {
+      "min": 84,
+      "entra": "MARGVELASHVILI, NODAR",
+      "sale": "OTERO LOPEZ, ANGEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "AGUADO SAN JUAN, RODRIGO": 90,
+    "SANZ TERES, PAU": 65,
+    "LERA TOBALINA, PABLO": 90,
+    "ALZATE GALVIS, SANTIAGO": 90,
+    "MARTI HERRERO, YOAN": 51,
+    "ROMAN NAVARIDAS, DANIEL": 74,
+    "LOPEZ HENARES, NICO": 51,
+    "AHARCHI ABDELOUAHAB, ANWAR": 74,
+    "MONASTERIO BIRCEA, ANDER": 90,
+    "QUINTANA ACEDO, SAMUEL": 90,
+    "PELTEA BANARIU, DANIEL ANDREI": 90,
+    "PASCUAL GONZALEZ, RODRIGO": 39,
+    "FECHETE CARRIQUIRI, ERIK A": 39,
+    "MIGUEL GARCIA, OSCAR": 25,
+    "MONTEROS ALCALDE, JORDAN C": 16,
+    "BLANCO RUIZ, ALEJANDRO": 16,
+    "SAENZ PARRA, SERGIO": 90,
+    "MADURGA HEREDIA, RODRIGO": 90,
+    "OTERO LOPEZ, ANGEL": 84,
+    "IRUZUBIETA IBAÑEZ, JORGE": 67,
+    "PEREZ SAN JUAN, HUGO": 90,
+    "SAMPEDRO HERNANDO, SERGIO": 90,
+    "VILLALON URQUIDI, BRUNO ROBERTO": 90,
+    "FERNANDEZ BONED, GABRIEL": 90,
+    "QUINTERO TALAGA, BRANDON STIVEN": 90,
+    "KEITA SANOGO, DAOUDA D": 81,
+    "DOMINGUEZ RUIZOLALLA, JAVIER": 46,
+    "DIEZ CARRION, MARCO": 44,
+    "ENCISO GAMARRA, WALTER I": 23,
+    "MARIN MARTINEZ, RAM": 9,
+    "MARGVELASHVILI, NODAR": 6
+  },
+  "portero_local": "AGUADO SAN JUAN, RODRIGO",
+  "portero_visitante": "SAENZ PARRA, SERGIO",
+  "dorsales_local": {
+    "AGUADO SAN JUAN, RODRIGO": 1,
+    "SANZ TERES, PAU": 2,
+    "LERA TOBALINA, PABLO": 3,
+    "ALZATE GALVIS, SANTIAGO": 4,
+    "MARTI HERRERO, YOAN": 5,
+    "ROMAN NAVARIDAS, DANIEL": 6,
+    "LOPEZ HENARES, NICO": 7,
+    "AHARCHI ABDELOUAHAB, ANWAR": 8,
+    "MONASTERIO BIRCEA, ANDER": 9,
+    "QUINTANA ACEDO, SAMUEL": 10,
+    "PELTEA BANARIU, DANIEL ANDREI": 11
+  },
+  "dorsales_visitante": {
+    "SAENZ PARRA, SERGIO": 1,
+    "MADURGA HEREDIA, RODRIGO": 2,
+    "OTERO LOPEZ, ANGEL": 3,
+    "IRUZUBIETA IBAÑEZ, JORGE": 4,
+    "PEREZ SAN JUAN, HUGO": 5,
+    "SAMPEDRO HERNANDO, SERGIO": 6,
+    "VILLALON URQUIDI, BRUNO ROBERTO": 7,
+    "FERNANDEZ BONED, GABRIEL": 8,
+    "QUINTERO TALAGA, BRANDON STIVEN": 9,
+    "KEITA SANOGO, DAOUDA D": 10,
+    "DOMINGUEZ RUIZOLALLA, JAVIER": 11
+  },
+  "suspendidos": []
+}
