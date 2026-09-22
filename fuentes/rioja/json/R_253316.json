@@ -1,0 +1,258 @@
+{
+  "acta_id": "R_253316",
+  "filename": "Acta_R_253316.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 12,
+  "fecha": "18-01-2026",
+  "hora": "13:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "PEÑA BALSAMAISO B",
+  "equipo_visitante": "VILLEGAS",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "CARRERO CASERO, ISMAEL"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 3 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 37,
+      "jugador": "VALBUENA GUDIÑO, FRANCISCO JOSE",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 86,
+      "jugador": "LOPEZ BALMASEDA, MIGUEL",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 31,
+      "jugador": "LOPEZ BALMASEDA, MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "DA SILVA NALDA, YERAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "GARCIA ALONSO, RAUL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PEREIRA GOMIDE, PEDRO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DIEZ OGAYAR, MIGUEL",
+  "delegado_equipo_visitante": "FERNANDEZ GARCIA, ANIBAL",
+  "titulares_local": [
+    "MORENO MARTIN, YERAY",
+    "IBAÑEZ COTARI, ALVARO SEBASTIAN",
+    "ALVES GARCIA, MIGUEL ANGEL",
+    "ARANDIA CARDOZO, MARK A",
+    "CRISTOBAL NAVARRO, MIGUEL",
+    "GARCIA ARROYO, CARLOS",
+    "MARTINEZ PARRA, JAIME",
+    "LOPEZ SIERRA, MIGUEL",
+    "ELHILALI, MAROIN",
+    "COULIBALY, MAMADOU",
+    "DAVALILLO IGLESIAS, UNAI"
+  ],
+  "titulares_visitante": [
+    "TEBJOU SNASLI, AHMED A",
+    "KERBAB EL AZRY, AMINE",
+    "ROJO DEL VALLE, GERMAN",
+    "TAMAYO LOPEZ, ASIER",
+    "RUIZ SICILIA, DARIO",
+    "YALCOUYE YALCOUYE, SOULEYMANE",
+    "GARCIA BURBRIDGE, RORY M",
+    "SABINO BERGES, CHRISTIAN",
+    "LARA PAREDES, JHENDERSON",
+    "DA SILVA NALDA, YERAI",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE"
+  ],
+  "suplentes_local": [
+    "SCHNEKENBURGER FERNANDEZ, ALVARO MARTIN",
+    "KHOUYALI, RIDA",
+    "REMIREZ SANCHEZ, MANUEL",
+    "YEBOAH ADJEI, ISRAEL",
+    "IGLESIAS ARAMBARRI, NICOLAS"
+  ],
+  "suplentes_visitante": [
+    "ESCORZA MURO, ARTURO",
+    "SANCHEZ ARAMAYO, HODEI",
+    "LOPEZ BALMASEDA, MIGUEL",
+    "CENZANO CAÑAS, MARIO",
+    "POMA MERINO, NICOLAS",
+    "HORTELANO GONZALEZ, RUBEN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "CENZANO CAÑAS, MARIO"
+  ],
+  "jugadores_local": [
+    "MORENO MARTIN, YERAY",
+    "IBAÑEZ COTARI, ALVARO SEBASTIAN",
+    "ALVES GARCIA, MIGUEL ANGEL",
+    "ARANDIA CARDOZO, MARK A",
+    "CRISTOBAL NAVARRO, MIGUEL",
+    "GARCIA ARROYO, CARLOS",
+    "MARTINEZ PARRA, JAIME",
+    "LOPEZ SIERRA, MIGUEL",
+    "ELHILALI, MAROIN",
+    "COULIBALY, MAMADOU",
+    "DAVALILLO IGLESIAS, UNAI",
+    "SCHNEKENBURGER FERNANDEZ, ALVARO MARTIN",
+    "KHOUYALI, RIDA",
+    "REMIREZ SANCHEZ, MANUEL",
+    "IGLESIAS ARAMBARRI, NICOLAS",
+    "YEBOAH ADJEI, ISRAEL"
+  ],
+  "jugadores_visitante": [
+    "TEBJOU SNASLI, AHMED A",
+    "KERBAB EL AZRY, AMINE",
+    "ROJO DEL VALLE, GERMAN",
+    "TAMAYO LOPEZ, ASIER",
+    "RUIZ SICILIA, DARIO",
+    "YALCOUYE YALCOUYE, SOULEYMANE",
+    "GARCIA BURBRIDGE, RORY M",
+    "SABINO BERGES, CHRISTIAN",
+    "LARA PAREDES, JHENDERSON",
+    "DA SILVA NALDA, YERAI",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE",
+    "LOPEZ BALMASEDA, MIGUEL",
+    "POMA MERINO, NICOLAS",
+    "ESCORZA MURO, ARTURO",
+    "HORTELANO GONZALEZ, RUBEN",
+    "SANCHEZ ARAMAYO, HODEI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "SCHNEKENBURGER FERNANDEZ, ALVARO MARTIN",
+      "sale": "ALVES GARCIA, MIGUEL ANGEL"
+    },
+    {
+      "min": 67,
+      "entra": "KHOUYALI, RIDA",
+      "sale": "GARCIA ARROYO, CARLOS"
+    },
+    {
+      "min": 80,
+      "entra": "REMIREZ SANCHEZ, MANUEL",
+      "sale": "CRISTOBAL NAVARRO, MIGUEL"
+    },
+    {
+      "min": 80,
+      "entra": "IGLESIAS ARAMBARRI, NICOLAS",
+      "sale": "IBAÑEZ COTARI, ALVARO SEBASTIAN"
+    },
+    {
+      "min": 80,
+      "entra": "YEBOAH ADJEI, ISRAEL",
+      "sale": "COULIBALY, MAMADOU"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 63,
+      "entra": "LOPEZ BALMASEDA, MIGUEL",
+      "sale": "GARCIA BURBRIDGE, RORY M"
+    },
+    {
+      "min": 65,
+      "entra": "POMA MERINO, NICOLAS",
+      "sale": "VALBUENA GUDIÑO, FRANCISCO JOSE"
+    },
+    {
+      "min": 70,
+      "entra": "ESCORZA MURO, ARTURO",
+      "sale": "DA SILVA NALDA, YERAI"
+    },
+    {
+      "min": 70,
+      "entra": "HORTELANO GONZALEZ, RUBEN",
+      "sale": "LARA PAREDES, JHENDERSON"
+    },
+    {
+      "min": 86,
+      "entra": "SANCHEZ ARAMAYO, HODEI",
+      "sale": "TAMAYO LOPEZ, ASIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "MORENO MARTIN, YERAY": 90,
+    "IBAÑEZ COTARI, ALVARO SEBASTIAN": 80,
+    "ALVES GARCIA, MIGUEL ANGEL": 51,
+    "ARANDIA CARDOZO, MARK A": 90,
+    "CRISTOBAL NAVARRO, MIGUEL": 80,
+    "GARCIA ARROYO, CARLOS": 67,
+    "MARTINEZ PARRA, JAIME": 90,
+    "LOPEZ SIERRA, MIGUEL": 90,
+    "ELHILALI, MAROIN": 90,
+    "COULIBALY, MAMADOU": 80,
+    "DAVALILLO IGLESIAS, UNAI": 90,
+    "SCHNEKENBURGER FERNANDEZ, ALVARO MARTIN": 39,
+    "KHOUYALI, RIDA": 23,
+    "REMIREZ SANCHEZ, MANUEL": 10,
+    "IGLESIAS ARAMBARRI, NICOLAS": 10,
+    "YEBOAH ADJEI, ISRAEL": 10,
+    "TEBJOU SNASLI, AHMED A": 90,
+    "KERBAB EL AZRY, AMINE": 90,
+    "ROJO DEL VALLE, GERMAN": 90,
+    "TAMAYO LOPEZ, ASIER": 86,
+    "RUIZ SICILIA, DARIO": 90,
+    "YALCOUYE YALCOUYE, SOULEYMANE": 90,
+    "GARCIA BURBRIDGE, RORY M": 63,
+    "SABINO BERGES, CHRISTIAN": 90,
+    "LARA PAREDES, JHENDERSON": 70,
+    "DA SILVA NALDA, YERAI": 70,
+    "VALBUENA GUDIÑO, FRANCISCO JOSE": 65,
+    "LOPEZ BALMASEDA, MIGUEL": 27,
+    "POMA MERINO, NICOLAS": 25,
+    "ESCORZA MURO, ARTURO": 20,
+    "HORTELANO GONZALEZ, RUBEN": 20,
+    "SANCHEZ ARAMAYO, HODEI": 4
+  },
+  "portero_local": "MORENO MARTIN, YERAY",
+  "portero_visitante": "TEBJOU SNASLI, AHMED A",
+  "dorsales_local": {
+    "MORENO MARTIN, YERAY": 1,
+    "IBAÑEZ COTARI, ALVARO SEBASTIAN": 2,
+    "ALVES GARCIA, MIGUEL ANGEL": 4,
+    "ARANDIA CARDOZO, MARK A": 5,
+    "CRISTOBAL NAVARRO, MIGUEL": 6,
+    "GARCIA ARROYO, CARLOS": 9,
+    "MARTINEZ PARRA, JAIME": 10,
+    "LOPEZ SIERRA, MIGUEL": 11,
+    "ELHILALI, MAROIN": 12,
+    "COULIBALY, MAMADOU": 15,
+    "DAVALILLO IGLESIAS, UNAI": 19
+  },
+  "dorsales_visitante": {
+    "TEBJOU SNASLI, AHMED A": 1,
+    "KERBAB EL AZRY, AMINE": 2,
+    "ROJO DEL VALLE, GERMAN": 3,
+    "TAMAYO LOPEZ, ASIER": 4,
+    "RUIZ SICILIA, DARIO": 5,
+    "YALCOUYE YALCOUYE, SOULEYMANE": 6,
+    "GARCIA BURBRIDGE, RORY M": 7,
+    "SABINO BERGES, CHRISTIAN": 8,
+    "LARA PAREDES, JHENDERSON": 9,
+    "DA SILVA NALDA, YERAI": 10,
+    "VALBUENA GUDIÑO, FRANCISCO JOSE": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
