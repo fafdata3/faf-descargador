@@ -1,0 +1,171 @@
+{
+  "acta_id": "N_70692110",
+  "filename": "Acta_N_70692110.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "26-06-2026",
+  "hora": "19:00",
+  "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Cadete Masculino (GRUPO A)",
+  "equipo_local": "SELECCIÓN ANDALUZA",
+  "equipo_visitante": "SELECCIÓN EXTREMEÑA",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "DORTA FIGUEROA, DAVINIA",
+    "ÁRBITRO 2",
+    "MARTÍNEZ IBÁÑEZ, ALEJANDRO",
+    "TERCER ÁRBITRO",
+    "VELASCO FUENTES, JUAN",
+    "CRONOMETRADOR",
+    "CARTES BURGOS, RUBÉN"
+  ],
+  "estadio": "CHIPIONA",
+  "ciudad": "Chipiona",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "ESCALANTE MARTIN, MAURO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "RAPOSO LOPEZ, JOAQUIN",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 24,
+      "jugador": "RODRIGUEZ PRIETO, FABIO JUNIOR",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "DIAZ BOZA, RUBEN",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 31,
+      "jugador": "PINETTA LARRA, MATIAS JOSÉ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 31,
+      "jugador": "RUIZ GRANERO, ISAAC",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RUIZ BRUZON, JOSE MANUEL",
+    "CABALLERO GOMEZ, ASIER",
+    "PEREZ GOMEZ, LUIS MIGUEL",
+    "DIAZ BOZA, RUBEN",
+    "RODRIGUEZ PRIETO, FABIO JUNIOR"
+  ],
+  "titulares_visitante": [
+    "TORRES HERREROS, DANIEL",
+    "MELGAREJO BARRERA, HUGO",
+    "ESCALANTE MARTIN, MAURO",
+    "COLLADO BERMEJO, SERGIO",
+    "RUIZ GRANERO, ISAAC"
+  ],
+  "suplentes_local": [
+    "MARTIN GARCIA, AITOR ANTONIO",
+    "RONQUETE SANCHEZ, ALVARO",
+    "RAPOSO LOPEZ, JOAQUIN",
+    "PEREZ BLASCO, FERMIN",
+    "LARA GONZALEZ, JOSE",
+    "PINETTA LARRA, MATIAS JOSÉ",
+    "SERRANO PRAENA, SANTIAGO"
+  ],
+  "suplentes_visitante": [
+    "VÁZQUEZ PEÑA, MARIO",
+    "SANTOS BORJA, AITOR",
+    "RAMOS MELLADO, OMAR",
+    "LLORENTE MATEOS, HUGO",
+    "NEVADO SANTANO, MARIO",
+    "MARTIN TRUJILLO, RAUL"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTIN GARCIA, AITOR ANTONIO",
+    "RONQUETE SANCHEZ, ALVARO",
+    "RAPOSO LOPEZ, JOAQUIN",
+    "PEREZ BLASCO, FERMIN",
+    "LARA GONZALEZ, JOSE",
+    "PINETTA LARRA, MATIAS JOSÉ",
+    "SERRANO PRAENA, SANTIAGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "VÁZQUEZ PEÑA, MARIO",
+    "SANTOS BORJA, AITOR",
+    "RAMOS MELLADO, OMAR",
+    "LLORENTE MATEOS, HUGO",
+    "NEVADO SANTANO, MARIO",
+    "MARTIN TRUJILLO, RAUL"
+  ],
+  "jugadores_local": [
+    "RUIZ BRUZON, JOSE MANUEL",
+    "CABALLERO GOMEZ, ASIER",
+    "PEREZ GOMEZ, LUIS MIGUEL",
+    "DIAZ BOZA, RUBEN",
+    "RODRIGUEZ PRIETO, FABIO JUNIOR"
+  ],
+  "jugadores_visitante": [
+    "TORRES HERREROS, DANIEL",
+    "MELGAREJO BARRERA, HUGO",
+    "ESCALANTE MARTIN, MAURO",
+    "COLLADO BERMEJO, SERGIO",
+    "RUIZ GRANERO, ISAAC"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "RUIZ BRUZON, JOSE MANUEL": 90,
+    "CABALLERO GOMEZ, ASIER": 90,
+    "PEREZ GOMEZ, LUIS MIGUEL": 90,
+    "DIAZ BOZA, RUBEN": 90,
+    "RODRIGUEZ PRIETO, FABIO JUNIOR": 90,
+    "TORRES HERREROS, DANIEL": 90,
+    "MELGAREJO BARRERA, HUGO": 90,
+    "ESCALANTE MARTIN, MAURO": 90,
+    "COLLADO BERMEJO, SERGIO": 90,
+    "RUIZ GRANERO, ISAAC": 90
+  },
+  "portero_local": "RUIZ BRUZON, JOSE MANUEL",
+  "portero_visitante": "TORRES HERREROS, DANIEL",
+  "dorsales_local": {
+    "RUIZ BRUZON, JOSE MANUEL": 1,
+    "CABALLERO GOMEZ, ASIER": 2,
+    "PEREZ GOMEZ, LUIS MIGUEL": 4,
+    "DIAZ BOZA, RUBEN": 6,
+    "RODRIGUEZ PRIETO, FABIO JUNIOR": 11
+  },
+  "dorsales_visitante": {
+    "TORRES HERREROS, DANIEL": 12,
+    "MELGAREJO BARRERA, HUGO": 3,
+    "ESCALANTE MARTIN, MAURO": 4,
+    "COLLADO BERMEJO, SERGIO": 6,
+    "RUIZ GRANERO, ISAAC": 9
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
