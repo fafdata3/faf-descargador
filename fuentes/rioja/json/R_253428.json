@@ -1,0 +1,272 @@
+{
+  "acta_id": "R_253428",
+  "filename": "Acta_R_253428.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "22-02-2026",
+  "hora": "11:00",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "CALASANCIO",
+  "equipo_visitante": "CALAHORRA",
+  "goles_local": 6,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "HONRUBIA BASALO, GONZALO"
+  ],
+  "estadio": "C.M. LA ESTRELLA - H.A. (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "MONASTERIO BIRCEA, ANDER",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "MONASTERIO BIRCEA, ANDER",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "LOPEZ HENARES, NICO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "PELTEA BANARIU, DANIEL ANDREI",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "CAPATA, DAVID",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "FECHETE CARRIQUIRI, ERIK A",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 83,
+      "jugador": "MONASTERIO BIRCEA, ANDER",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 85,
+      "jugador": "DE PABLO EXTREMIANA, ASIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 85,
+      "jugador": "CALAHORRA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LEON ORTEGA, ADRIAN",
+  "entrenador_visitante": "IZQUIERDO CARRASCOSA, FERNANDO MIGUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "AGUADO HERNÁNDEZ , FERNANDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "AGUADO HERNÁNDEZ , FERNANDO",
+  "delegado_equipo_visitante": "LOPEZ ALDEA, MARCOS",
+  "titulares_local": [
+    "MARQUEZ GARRIDO, LEO",
+    "SANZ TERES, PAU",
+    "LOPEZ HENARES, NICO",
+    "MONASTERIO BIRCEA, ANDER",
+    "QUINTANA ACEDO, SAMUEL",
+    "ALZATE GALVIS, SANTIAGO",
+    "FECHETE CARRIQUIRI, ERIK A",
+    "PELTEA BANARIU, DANIEL ANDREI",
+    "LERA TOBALINA, PABLO",
+    "MARTI HERRERO, YOAN",
+    "KORFED BOUHADDOU, YOUNES"
+  ],
+  "titulares_visitante": [
+    "BRUNO MARTINEZ, RAUL",
+    "RUIZ SOLANA, IÑIGO",
+    "ANDRADE DE ARRUDA, WILLIAM STEPHEN",
+    "MARTINEZ ALCALDE, IVAN",
+    "CAPATA, DAVID",
+    "MUNILLA HERCE, ALVARO",
+    "CARO CRUZ, SAMUEL",
+    "LACALLE CELORRIO, DANIEL",
+    "ORBE FLORES, DENNIS JHANIO",
+    "GARCIA URQUIZA, JUAN C",
+    "MARTINEZ MARTINEZ, FERNANDO"
+  ],
+  "suplentes_local": [
+    "KONIG, JURIS KLAUS",
+    "AHARCHI ABDELOUAHAB, ANWAR",
+    "MONTERO MARTIN, SANTIAGO",
+    "AGUADO SAN JUAN, RODRIGO",
+    "ARADILLA PASCUAL, MATEO",
+    "DE PABLO EXTREMIANA, ASIER"
+  ],
+  "suplentes_visitante": [
+    "MONTAÑA SAENZ, IÑIGO",
+    "ORTIZ VALENCIA, ANYEL ISAAC",
+    "BROCAL BERMEJO, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "AGUADO SAN JUAN, RODRIGO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MARQUEZ GARRIDO, LEO",
+    "SANZ TERES, PAU",
+    "LOPEZ HENARES, NICO",
+    "MONASTERIO BIRCEA, ANDER",
+    "QUINTANA ACEDO, SAMUEL",
+    "ALZATE GALVIS, SANTIAGO",
+    "FECHETE CARRIQUIRI, ERIK A",
+    "PELTEA BANARIU, DANIEL ANDREI",
+    "LERA TOBALINA, PABLO",
+    "MARTI HERRERO, YOAN",
+    "KORFED BOUHADDOU, YOUNES",
+    "DE PABLO EXTREMIANA, ASIER",
+    "AHARCHI ABDELOUAHAB, ANWAR",
+    "KONIG, JURIS KLAUS",
+    "MONTERO MARTIN, SANTIAGO",
+    "ARADILLA PASCUAL, MATEO"
+  ],
+  "jugadores_visitante": [
+    "BRUNO MARTINEZ, RAUL",
+    "RUIZ SOLANA, IÑIGO",
+    "ANDRADE DE ARRUDA, WILLIAM STEPHEN",
+    "MARTINEZ ALCALDE, IVAN",
+    "CAPATA, DAVID",
+    "MUNILLA HERCE, ALVARO",
+    "CARO CRUZ, SAMUEL",
+    "LACALLE CELORRIO, DANIEL",
+    "ORBE FLORES, DENNIS JHANIO",
+    "GARCIA URQUIZA, JUAN C",
+    "MARTINEZ MARTINEZ, FERNANDO",
+    "MONTAÑA SAENZ, IÑIGO",
+    "BROCAL BERMEJO, JAVIER",
+    "ORTIZ VALENCIA, ANYEL ISAAC"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "DE PABLO EXTREMIANA, ASIER",
+      "sale": "KORFED BOUHADDOU, YOUNES"
+    },
+    {
+      "min": 60,
+      "entra": "AHARCHI ABDELOUAHAB, ANWAR",
+      "sale": "ALZATE GALVIS, SANTIAGO"
+    },
+    {
+      "min": 60,
+      "entra": "KONIG, JURIS KLAUS",
+      "sale": "PELTEA BANARIU, DANIEL ANDREI"
+    },
+    {
+      "min": 62,
+      "entra": "MONTERO MARTIN, SANTIAGO",
+      "sale": "MARTI HERRERO, YOAN"
+    },
+    {
+      "min": 78,
+      "entra": "ARADILLA PASCUAL, MATEO",
+      "sale": "QUINTANA ACEDO, SAMUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "MONTAÑA SAENZ, IÑIGO",
+      "sale": "BRUNO MARTINEZ, RAUL"
+    },
+    {
+      "min": 46,
+      "entra": "BROCAL BERMEJO, JAVIER",
+      "sale": "MARTINEZ MARTINEZ, FERNANDO"
+    },
+    {
+      "min": 77,
+      "entra": "ORTIZ VALENCIA, ANYEL ISAAC",
+      "sale": "CARO CRUZ, SAMUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARQUEZ GARRIDO, LEO": 90,
+    "SANZ TERES, PAU": 90,
+    "LOPEZ HENARES, NICO": 90,
+    "MONASTERIO BIRCEA, ANDER": 90,
+    "QUINTANA ACEDO, SAMUEL": 78,
+    "ALZATE GALVIS, SANTIAGO": 60,
+    "FECHETE CARRIQUIRI, ERIK A": 90,
+    "PELTEA BANARIU, DANIEL ANDREI": 60,
+    "LERA TOBALINA, PABLO": 90,
+    "MARTI HERRERO, YOAN": 62,
+    "KORFED BOUHADDOU, YOUNES": 46,
+    "DE PABLO EXTREMIANA, ASIER": 44,
+    "AHARCHI ABDELOUAHAB, ANWAR": 30,
+    "KONIG, JURIS KLAUS": 30,
+    "MONTERO MARTIN, SANTIAGO": 28,
+    "ARADILLA PASCUAL, MATEO": 12,
+    "BRUNO MARTINEZ, RAUL": 46,
+    "RUIZ SOLANA, IÑIGO": 90,
+    "ANDRADE DE ARRUDA, WILLIAM STEPHEN": 90,
+    "MARTINEZ ALCALDE, IVAN": 90,
+    "CAPATA, DAVID": 90,
+    "MUNILLA HERCE, ALVARO": 90,
+    "CARO CRUZ, SAMUEL": 77,
+    "LACALLE CELORRIO, DANIEL": 90,
+    "ORBE FLORES, DENNIS JHANIO": 90,
+    "GARCIA URQUIZA, JUAN C": 90,
+    "MARTINEZ MARTINEZ, FERNANDO": 46,
+    "MONTAÑA SAENZ, IÑIGO": 44,
+    "BROCAL BERMEJO, JAVIER": 44,
+    "ORTIZ VALENCIA, ANYEL ISAAC": 13
+  },
+  "portero_local": "MARQUEZ GARRIDO, LEO",
+  "portero_visitante": "BRUNO MARTINEZ, RAUL",
+  "dorsales_local": {
+    "MARQUEZ GARRIDO, LEO": 1,
+    "SANZ TERES, PAU": 2,
+    "LOPEZ HENARES, NICO": 7,
+    "MONASTERIO BIRCEA, ANDER": 9,
+    "QUINTANA ACEDO, SAMUEL": 10,
+    "ALZATE GALVIS, SANTIAGO": 11,
+    "FECHETE CARRIQUIRI, ERIK A": 12,
+    "PELTEA BANARIU, DANIEL ANDREI": 16,
+    "LERA TOBALINA, PABLO": 22,
+    "MARTI HERRERO, YOAN": 25,
+    "KORFED BOUHADDOU, YOUNES": 26
+  },
+  "dorsales_visitante": {
+    "BRUNO MARTINEZ, RAUL": 13,
+    "RUIZ SOLANA, IÑIGO": 3,
+    "ANDRADE DE ARRUDA, WILLIAM STEPHEN": 4,
+    "MARTINEZ ALCALDE, IVAN": 5,
+    "CAPATA, DAVID": 7,
+    "MUNILLA HERCE, ALVARO": 8,
+    "CARO CRUZ, SAMUEL": 9,
+    "LACALLE CELORRIO, DANIEL": 10,
+    "ORBE FLORES, DENNIS JHANIO": 11,
+    "GARCIA URQUIZA, JUAN C": 14,
+    "MARTINEZ MARTINEZ, FERNANDO": 15
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
