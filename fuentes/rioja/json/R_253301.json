@@ -1,0 +1,280 @@
+{
+  "acta_id": "R_253301",
+  "filename": "Acta_R_253301.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 9,
+  "fecha": "14-12-2025",
+  "hora": "10:00",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "ALBERITE Embalajes Blanco",
+  "equipo_visitante": "SAN MARCIAL",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "VIDAL JIMENEZ, HUGO"
+  ],
+  "estadio": "C.M. MARINO SAENZ ANDOLLO (ALBERITE)",
+  "ciudad": "Alberite",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "CHEBAARADI DAMOUN, IBRAHIM",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 42,
+      "jugador": "SANTO DOMINGO RUIZ NAVARRO, JUAN ANTONIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "GARCIA GARCIA, RAFAEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "RODRIGUEZ LASANTA, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "SAN MARCIAL",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "GREGORIO LANDA, OSCAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "BENITO MARTINEZ, KEVIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "VALLEJO LOPEZ, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA GARCIA, RAFAEL",
+  "entrenador_visitante": "TORRES SOTO, LUIS MIGUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "TRAPERO DAROCA, FERNANDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TRAPERO DAROCA, FERNANDO",
+  "delegado_equipo_visitante": "AQUESOLO GARCIA, JUAN I",
+  "titulares_local": [
+    "PANAZAN BLEAHU, SERGIO EMIL",
+    "RAMOS GOMEZ, JOSE L",
+    "SANTO DOMINGO RUIZ NAVARRO, JUAN ANTONIO",
+    "ALVAREZ MANZANEDO, OSCAR",
+    "MENCHACA GARCIA, MARIO",
+    "ELIAS BENZAL, RODRIGO",
+    "MENCHACA RIOJA, JAVIER",
+    "CALVO EZQUERRO, MARIO",
+    "URUÑUELA DEL POZO, ELOY",
+    "ESTEFANIA MORENO, RODRIGO",
+    "CHEBAARADI DAMOUN, IBRAHIM"
+  ],
+  "titulares_visitante": [
+    "STEVEN CARASA, GONZALO",
+    "BRIONES BONILLA, ALEJANDRO",
+    "GARCIA GARCIA, CESAR",
+    "GREGORIO LANDA, OSCAR",
+    "RUIZ GUERREROS, JAVIER",
+    "HERNANDO NAJERA, LUCAS",
+    "HERNANDEZ SANCHEZ, ALEJANDRO",
+    "JIMENEZ PABLO, BRUNO",
+    "ESCRICH NAZAR, MANUEL",
+    "AQUESOLO OCHOA, IKER GABRIEL",
+    "BENITO MARTINEZ, KEVIN"
+  ],
+  "suplentes_local": [
+    "BARRERA FORCADA, DARIO",
+    "BENMRAH BENMRAH, TAMER",
+    "RUIZ TORRES, YERAY",
+    "ROMAN SALINAS, HUGO",
+    "RODRIGUEZ LASANTA, SERGIO",
+    "HAMMOUCH SADDIKI, JIHAD"
+  ],
+  "suplentes_visitante": [
+    "GARCIA MARTINEZ, SANTIAGO",
+    "GONZALEZ MORENO, KEVIN",
+    "BAYO RIOJA, JORGE",
+    "VELASCO VELASCO, ADRIAN",
+    "KHAY AKASRI, ADAM",
+    "BARRIO MACAYA, MIGUEL",
+    "VALLEJO LOPEZ, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "RUIZ TORRES, YERAY",
+    "ROMAN SALINAS, HUGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GARCIA MARTINEZ, SANTIAGO",
+    "GONZALEZ MORENO, KEVIN",
+    "KHAY AKASRI, ADAM"
+  ],
+  "jugadores_local": [
+    "PANAZAN BLEAHU, SERGIO EMIL",
+    "RAMOS GOMEZ, JOSE L",
+    "SANTO DOMINGO RUIZ NAVARRO, JUAN ANTONIO",
+    "ALVAREZ MANZANEDO, OSCAR",
+    "MENCHACA GARCIA, MARIO",
+    "ELIAS BENZAL, RODRIGO",
+    "MENCHACA RIOJA, JAVIER",
+    "CALVO EZQUERRO, MARIO",
+    "URUÑUELA DEL POZO, ELOY",
+    "ESTEFANIA MORENO, RODRIGO",
+    "CHEBAARADI DAMOUN, IBRAHIM",
+    "RODRIGUEZ LASANTA, SERGIO",
+    "BARRERA FORCADA, DARIO",
+    "BENMRAH BENMRAH, TAMER",
+    "HAMMOUCH SADDIKI, JIHAD"
+  ],
+  "jugadores_visitante": [
+    "STEVEN CARASA, GONZALO",
+    "BRIONES BONILLA, ALEJANDRO",
+    "GARCIA GARCIA, CESAR",
+    "GREGORIO LANDA, OSCAR",
+    "RUIZ GUERREROS, JAVIER",
+    "HERNANDO NAJERA, LUCAS",
+    "HERNANDEZ SANCHEZ, ALEJANDRO",
+    "JIMENEZ PABLO, BRUNO",
+    "ESCRICH NAZAR, MANUEL",
+    "AQUESOLO OCHOA, IKER GABRIEL",
+    "BENITO MARTINEZ, KEVIN",
+    "BARRIO MACAYA, MIGUEL",
+    "VALLEJO LOPEZ, DANIEL",
+    "VELASCO VELASCO, ADRIAN",
+    "BAYO RIOJA, JORGE"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 25,
+      "entra": "RODRIGUEZ LASANTA, SERGIO",
+      "sale": "MENCHACA GARCIA, MARIO"
+    },
+    {
+      "min": 56,
+      "entra": "BARRERA FORCADA, DARIO",
+      "sale": "MENCHACA RIOJA, JAVIER"
+    },
+    {
+      "min": 56,
+      "entra": "BENMRAH BENMRAH, TAMER",
+      "sale": "URUÑUELA DEL POZO, ELOY"
+    },
+    {
+      "min": 75,
+      "entra": "HAMMOUCH SADDIKI, JIHAD",
+      "sale": "CALVO EZQUERRO, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "BARRIO MACAYA, MIGUEL",
+      "sale": "HERNANDEZ SANCHEZ, ALEJANDRO"
+    },
+    {
+      "min": 70,
+      "entra": "VALLEJO LOPEZ, DANIEL",
+      "sale": "HERNANDO NAJERA, LUCAS"
+    },
+    {
+      "min": 84,
+      "entra": "VELASCO VELASCO, ADRIAN",
+      "sale": "JIMENEZ PABLO, BRUNO"
+    },
+    {
+      "min": 84,
+      "entra": "BAYO RIOJA, JORGE",
+      "sale": "BRIONES BONILLA, ALEJANDRO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PANAZAN BLEAHU, SERGIO EMIL": 90,
+    "RAMOS GOMEZ, JOSE L": 90,
+    "SANTO DOMINGO RUIZ NAVARRO, JUAN ANTONIO": 90,
+    "ALVAREZ MANZANEDO, OSCAR": 90,
+    "MENCHACA GARCIA, MARIO": 25,
+    "ELIAS BENZAL, RODRIGO": 90,
+    "MENCHACA RIOJA, JAVIER": 56,
+    "CALVO EZQUERRO, MARIO": 75,
+    "URUÑUELA DEL POZO, ELOY": 56,
+    "ESTEFANIA MORENO, RODRIGO": 90,
+    "CHEBAARADI DAMOUN, IBRAHIM": 90,
+    "RODRIGUEZ LASANTA, SERGIO": 65,
+    "BARRERA FORCADA, DARIO": 34,
+    "BENMRAH BENMRAH, TAMER": 34,
+    "HAMMOUCH SADDIKI, JIHAD": 15,
+    "STEVEN CARASA, GONZALO": 90,
+    "BRIONES BONILLA, ALEJANDRO": 84,
+    "GARCIA GARCIA, CESAR": 90,
+    "GREGORIO LANDA, OSCAR": 90,
+    "RUIZ GUERREROS, JAVIER": 90,
+    "HERNANDO NAJERA, LUCAS": 70,
+    "HERNANDEZ SANCHEZ, ALEJANDRO": 46,
+    "JIMENEZ PABLO, BRUNO": 84,
+    "ESCRICH NAZAR, MANUEL": 90,
+    "AQUESOLO OCHOA, IKER GABRIEL": 90,
+    "BENITO MARTINEZ, KEVIN": 90,
+    "BARRIO MACAYA, MIGUEL": 44,
+    "VALLEJO LOPEZ, DANIEL": 20,
+    "VELASCO VELASCO, ADRIAN": 6,
+    "BAYO RIOJA, JORGE": 6
+  },
+  "portero_local": "PANAZAN BLEAHU, SERGIO EMIL",
+  "portero_visitante": "STEVEN CARASA, GONZALO",
+  "dorsales_local": {
+    "PANAZAN BLEAHU, SERGIO EMIL": 25,
+    "RAMOS GOMEZ, JOSE L": 2,
+    "SANTO DOMINGO RUIZ NAVARRO, JUAN ANTONIO": 4,
+    "ALVAREZ MANZANEDO, OSCAR": 9,
+    "MENCHACA GARCIA, MARIO": 10,
+    "ELIAS BENZAL, RODRIGO": 15,
+    "MENCHACA RIOJA, JAVIER": 16,
+    "CALVO EZQUERRO, MARIO": 18,
+    "URUÑUELA DEL POZO, ELOY": 21,
+    "ESTEFANIA MORENO, RODRIGO": 22,
+    "CHEBAARADI DAMOUN, IBRAHIM": 24
+  },
+  "dorsales_visitante": {
+    "STEVEN CARASA, GONZALO": 1,
+    "BRIONES BONILLA, ALEJANDRO": 4,
+    "GARCIA GARCIA, CESAR": 5,
+    "GREGORIO LANDA, OSCAR": 8,
+    "RUIZ GUERREROS, JAVIER": 9,
+    "HERNANDO NAJERA, LUCAS": 10,
+    "HERNANDEZ SANCHEZ, ALEJANDRO": 12,
+    "JIMENEZ PABLO, BRUNO": 14,
+    "ESCRICH NAZAR, MANUEL": 19,
+    "AQUESOLO OCHOA, IKER GABRIEL": 20,
+    "BENITO MARTINEZ, KEVIN": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
