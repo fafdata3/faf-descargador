@@ -1,0 +1,257 @@
+{
+  "acta_id": "R_253381",
+  "filename": "Acta_R_253381.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 7,
+  "fecha": "23-11-2025",
+  "hora": "12:00",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "ARNEDO",
+  "equipo_visitante": "SD LOGROÑES",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ANOZ CAÑAS, SAMUEL"
+  ],
+  "estadio": "C.M. SENDERO - H.A. (ARNEDO)",
+  "ciudad": "Arnedo",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "GEVORKYAN GALAJYAN, ARMAN",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "GEVORKYAN GALAJYAN, ARMAN",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "GEVORKYAN GALAJYAN, ARMAN",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "OUMHATOU OUTOURABBI, ALI",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 87,
+      "jugador": "EZZITI, NABIL",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 59,
+      "jugador": "ALLAOUI, NABIL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALONSO SANZ, JOSE I",
+  "entrenador_visitante": "ROMERO NUÑEZ, PABLO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RODRIGUEZ SUBIRATS, POL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RODRIGUEZ ROLDAN, JESUS MARIA",
+  "delegado_equipo_visitante": "OTERO ORDOÑEZ, JUAN ANTONIO",
+  "titulares_local": [
+    "KVIRIKADZE DOLIDZE, DANIEL",
+    "ARNEDO CABRERA, ALVARO",
+    "LAKHAL BOUARFA, MOHAMED",
+    "LAMZIDI, YASSINE",
+    "HERNANDEZ IBAÑEZ, ALEX",
+    "JIMENEZ HERCE, JUAN",
+    "RAFIK EL HADIRI, ABDERRAHMANE",
+    "GEVORKYAN GALAJYAN, ARMAN",
+    "OUMHATOU OUTOURABBI, ALI",
+    "PEREZ PEREZ, HECTOR",
+    "SOTA MIRANDA, ALVARO"
+  ],
+  "titulares_visitante": [
+    "ELGUEA HERNAIZ, IVAN",
+    "MADURGA HEREDIA, RODRIGO",
+    "MARGVELASHVILI, NODAR",
+    "PEREZ SAN JUAN, HUGO",
+    "MURAS DEL CAZ, HUGO",
+    "FERNANDEZ BONED, GABRIEL",
+    "DIEZ CARRION, MARCO",
+    "SAENZ JIMENEZ, JUAN",
+    "RUIZ ZAMBRANA, ANGEL",
+    "DOMINGUEZ RUIZOLALLA, JAVIER",
+    "OTERO LOPEZ, ANGEL"
+  ],
+  "suplentes_local": [
+    "MARIN PEREZ, DARIO",
+    "LEMGAAD, YOUSSEF",
+    "EZZITI, NADIR",
+    "EZZITI, NABIL"
+  ],
+  "suplentes_visitante": [
+    "ALLAOUI, NABIL",
+    "IRUZUBIETA IBAÑEZ, JORGE",
+    "RODRIGUEZ FERNANDEZ, BAUTISTA",
+    "VILLALON URQUIDI, BRUNO ROBERTO",
+    "MARIN MARTINEZ, RAM"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "KVIRIKADZE DOLIDZE, DANIEL",
+    "ARNEDO CABRERA, ALVARO",
+    "LAKHAL BOUARFA, MOHAMED",
+    "LAMZIDI, YASSINE",
+    "HERNANDEZ IBAÑEZ, ALEX",
+    "JIMENEZ HERCE, JUAN",
+    "RAFIK EL HADIRI, ABDERRAHMANE",
+    "GEVORKYAN GALAJYAN, ARMAN",
+    "OUMHATOU OUTOURABBI, ALI",
+    "PEREZ PEREZ, HECTOR",
+    "SOTA MIRANDA, ALVARO",
+    "EZZITI, NADIR",
+    "MARIN PEREZ, DARIO",
+    "LEMGAAD, YOUSSEF",
+    "EZZITI, NABIL"
+  ],
+  "jugadores_visitante": [
+    "ELGUEA HERNAIZ, IVAN",
+    "MADURGA HEREDIA, RODRIGO",
+    "MARGVELASHVILI, NODAR",
+    "PEREZ SAN JUAN, HUGO",
+    "MURAS DEL CAZ, HUGO",
+    "FERNANDEZ BONED, GABRIEL",
+    "DIEZ CARRION, MARCO",
+    "SAENZ JIMENEZ, JUAN",
+    "RUIZ ZAMBRANA, ANGEL",
+    "DOMINGUEZ RUIZOLALLA, JAVIER",
+    "OTERO LOPEZ, ANGEL",
+    "IRUZUBIETA IBAÑEZ, JORGE",
+    "VILLALON URQUIDI, BRUNO ROBERTO",
+    "ALLAOUI, NABIL",
+    "RODRIGUEZ FERNANDEZ, BAUTISTA",
+    "MARIN MARTINEZ, RAM"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 30,
+      "entra": "EZZITI, NADIR",
+      "sale": "PEREZ PEREZ, HECTOR"
+    },
+    {
+      "min": 57,
+      "entra": "MARIN PEREZ, DARIO",
+      "sale": "RAFIK EL HADIRI, ABDERRAHMANE"
+    },
+    {
+      "min": 75,
+      "entra": "LEMGAAD, YOUSSEF",
+      "sale": "HERNANDEZ IBAÑEZ, ALEX"
+    },
+    {
+      "min": 75,
+      "entra": "EZZITI, NABIL",
+      "sale": "JIMENEZ HERCE, JUAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "IRUZUBIETA IBAÑEZ, JORGE",
+      "sale": "PEREZ SAN JUAN, HUGO"
+    },
+    {
+      "min": 45,
+      "entra": "VILLALON URQUIDI, BRUNO ROBERTO",
+      "sale": "MARGVELASHVILI, NODAR"
+    },
+    {
+      "min": 56,
+      "entra": "ALLAOUI, NABIL",
+      "sale": "RUIZ ZAMBRANA, ANGEL"
+    },
+    {
+      "min": 64,
+      "entra": "RODRIGUEZ FERNANDEZ, BAUTISTA",
+      "sale": "VILLALON URQUIDI, BRUNO ROBERTO"
+    },
+    {
+      "min": 70,
+      "entra": "MARIN MARTINEZ, RAM",
+      "sale": "DOMINGUEZ RUIZOLALLA, JAVIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "KVIRIKADZE DOLIDZE, DANIEL": 90,
+    "ARNEDO CABRERA, ALVARO": 90,
+    "LAKHAL BOUARFA, MOHAMED": 90,
+    "LAMZIDI, YASSINE": 90,
+    "HERNANDEZ IBAÑEZ, ALEX": 75,
+    "JIMENEZ HERCE, JUAN": 75,
+    "RAFIK EL HADIRI, ABDERRAHMANE": 57,
+    "GEVORKYAN GALAJYAN, ARMAN": 90,
+    "OUMHATOU OUTOURABBI, ALI": 90,
+    "PEREZ PEREZ, HECTOR": 30,
+    "SOTA MIRANDA, ALVARO": 90,
+    "EZZITI, NADIR": 60,
+    "MARIN PEREZ, DARIO": 33,
+    "LEMGAAD, YOUSSEF": 15,
+    "EZZITI, NABIL": 15,
+    "ELGUEA HERNAIZ, IVAN": 90,
+    "MADURGA HEREDIA, RODRIGO": 90,
+    "MARGVELASHVILI, NODAR": 45,
+    "PEREZ SAN JUAN, HUGO": 45,
+    "MURAS DEL CAZ, HUGO": 90,
+    "FERNANDEZ BONED, GABRIEL": 90,
+    "DIEZ CARRION, MARCO": 90,
+    "SAENZ JIMENEZ, JUAN": 90,
+    "RUIZ ZAMBRANA, ANGEL": 56,
+    "DOMINGUEZ RUIZOLALLA, JAVIER": 70,
+    "OTERO LOPEZ, ANGEL": 90,
+    "IRUZUBIETA IBAÑEZ, JORGE": 45,
+    "VILLALON URQUIDI, BRUNO ROBERTO": 64,
+    "ALLAOUI, NABIL": 34,
+    "RODRIGUEZ FERNANDEZ, BAUTISTA": 26,
+    "MARIN MARTINEZ, RAM": 20
+  },
+  "portero_local": "KVIRIKADZE DOLIDZE, DANIEL",
+  "portero_visitante": "ELGUEA HERNAIZ, IVAN",
+  "dorsales_local": {
+    "KVIRIKADZE DOLIDZE, DANIEL": 1,
+    "ARNEDO CABRERA, ALVARO": 2,
+    "LAKHAL BOUARFA, MOHAMED": 3,
+    "LAMZIDI, YASSINE": 4,
+    "HERNANDEZ IBAÑEZ, ALEX": 5,
+    "JIMENEZ HERCE, JUAN": 6,
+    "RAFIK EL HADIRI, ABDERRAHMANE": 7,
+    "GEVORKYAN GALAJYAN, ARMAN": 8,
+    "OUMHATOU OUTOURABBI, ALI": 9,
+    "PEREZ PEREZ, HECTOR": 10,
+    "SOTA MIRANDA, ALVARO": 11
+  },
+  "dorsales_visitante": {
+    "ELGUEA HERNAIZ, IVAN": 1,
+    "MADURGA HEREDIA, RODRIGO": 2,
+    "MARGVELASHVILI, NODAR": 3,
+    "PEREZ SAN JUAN, HUGO": 4,
+    "MURAS DEL CAZ, HUGO": 5,
+    "FERNANDEZ BONED, GABRIEL": 6,
+    "DIEZ CARRION, MARCO": 7,
+    "SAENZ JIMENEZ, JUAN": 8,
+    "RUIZ ZAMBRANA, ANGEL": 9,
+    "DOMINGUEZ RUIZOLALLA, JAVIER": 10,
+    "OTERO LOPEZ, ANGEL": 11
+  },
+  "suspendidos": []
+}
