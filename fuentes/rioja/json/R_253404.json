@@ -1,0 +1,264 @@
+{
+  "acta_id": "R_253404",
+  "filename": "Acta_R_253404.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "11-01-2026",
+  "hora": "11:15",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "PEÑA BALSAMAISO A",
+  "equipo_visitante": "SD LOGROÑES",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BOZALONGO PLAZA, NACHO"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 3 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 44,
+      "jugador": "HERRERO ULECIA, MARCOS",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "HERRERO ULECIA, MARCOS",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "SOUAIDY, OUSSAMA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 74,
+      "jugador": "ALLOUNI ALLOUNI, YASSIR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "SD LOGROÑES",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "ENCISO GAMARRA, WALTER I",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SAENZ LOPEZ, FRANCISCO JAVIER",
+  "entrenador_visitante": "ROMERO NUÑEZ, PABLO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SOUAIDY, OUSSAMA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SOUAIDY, OUSSAMA",
+  "delegado_equipo_visitante": "OTERO ORDOÑEZ, JUAN ANTONIO",
+  "titulares_local": [
+    "GALILEA BARRIO, SERGIO",
+    "CORREA BEDOYA, JERONIMO",
+    "ALLOUNI ALLOUNI, YASSIR",
+    "ALBA HERNANDEZ, PABLO",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "LACALLE DE PEDRO, DAVID",
+    "MOLOVAE ESPINOZA, JOSEAN",
+    "GARCIA VERA, JHON J",
+    "HERRERO ULECIA, MARCOS",
+    "CARBONERAS RODRIGUEZ, MAURO"
+  ],
+  "titulares_visitante": [
+    "ELGUEA HERNAIZ, IVAN",
+    "MARGVELASHVILI, NODAR",
+    "IRUZUBIETA IBAÑEZ, JORGE",
+    "PEREZ SAN JUAN, HUGO",
+    "ENCISO GAMARRA, WALTER I",
+    "MADURGA HEREDIA, RODRIGO",
+    "MURAS DEL CAZ, HUGO",
+    "FERNANDEZ BONED, GABRIEL",
+    "ALLAOUI, NABIL",
+    "KEITA SANOGO, DAOUDA D",
+    "RODRIGUEZ FERNANDEZ, BAUTISTA"
+  ],
+  "suplentes_local": [
+    "MARTINEZ AMELIBIA, JORGE",
+    "GARCIA GUTIERREZ, ALEJANDRO",
+    "NAVARRO DE CORTA, JORGE",
+    "COQUECO PATIÑO, JUAN ESTEBAN"
+  ],
+  "suplentes_visitante": [
+    "DOMINGUEZ RUIZOLALLA, JAVIER",
+    "ESTEBAN MONTERO, LUCAS",
+    "RUIZ ZAMBRANA, ANGEL",
+    "RAMIREZ GONZALEZ, MIGUEL ANGEL",
+    "CASAMAYOR FERNANDEZ, MANUEL NAM",
+    "MARIN MARTINEZ, RAM"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "CASAMAYOR FERNANDEZ, MANUEL NAM"
+  ],
+  "jugadores_local": [
+    "GALILEA BARRIO, SERGIO",
+    "CORREA BEDOYA, JERONIMO",
+    "ALLOUNI ALLOUNI, YASSIR",
+    "ALBA HERNANDEZ, PABLO",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "LACALLE DE PEDRO, DAVID",
+    "MOLOVAE ESPINOZA, JOSEAN",
+    "GARCIA VERA, JHON J",
+    "HERRERO ULECIA, MARCOS",
+    "CARBONERAS RODRIGUEZ, MAURO",
+    "MARTINEZ AMELIBIA, JORGE",
+    "NAVARRO DE CORTA, JORGE",
+    "GARCIA GUTIERREZ, ALEJANDRO",
+    "COQUECO PATIÑO, JUAN ESTEBAN"
+  ],
+  "jugadores_visitante": [
+    "ELGUEA HERNAIZ, IVAN",
+    "MARGVELASHVILI, NODAR",
+    "IRUZUBIETA IBAÑEZ, JORGE",
+    "PEREZ SAN JUAN, HUGO",
+    "ENCISO GAMARRA, WALTER I",
+    "MADURGA HEREDIA, RODRIGO",
+    "MURAS DEL CAZ, HUGO",
+    "FERNANDEZ BONED, GABRIEL",
+    "ALLAOUI, NABIL",
+    "KEITA SANOGO, DAOUDA D",
+    "RODRIGUEZ FERNANDEZ, BAUTISTA",
+    "RAMIREZ GONZALEZ, MIGUEL ANGEL",
+    "DOMINGUEZ RUIZOLALLA, JAVIER",
+    "RUIZ ZAMBRANA, ANGEL",
+    "MARIN MARTINEZ, RAM",
+    "ESTEBAN MONTERO, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 69,
+      "entra": "MARTINEZ AMELIBIA, JORGE",
+      "sale": "LACALLE DE PEDRO, DAVID"
+    },
+    {
+      "min": 69,
+      "entra": "NAVARRO DE CORTA, JORGE",
+      "sale": "ALBA HERNANDEZ, PABLO"
+    },
+    {
+      "min": 81,
+      "entra": "GARCIA GUTIERREZ, ALEJANDRO",
+      "sale": "GARCIA VERA, JHON J"
+    },
+    {
+      "min": 81,
+      "entra": "COQUECO PATIÑO, JUAN ESTEBAN",
+      "sale": "CORREA BEDOYA, JERONIMO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 32,
+      "entra": "RAMIREZ GONZALEZ, MIGUEL ANGEL",
+      "sale": "FERNANDEZ BONED, GABRIEL"
+    },
+    {
+      "min": 46,
+      "entra": "DOMINGUEZ RUIZOLALLA, JAVIER",
+      "sale": "RODRIGUEZ FERNANDEZ, BAUTISTA"
+    },
+    {
+      "min": 55,
+      "entra": "RUIZ ZAMBRANA, ANGEL",
+      "sale": "ALLAOUI, NABIL"
+    },
+    {
+      "min": 69,
+      "entra": "MARIN MARTINEZ, RAM",
+      "sale": "IRUZUBIETA IBAÑEZ, JORGE"
+    },
+    {
+      "min": 69,
+      "entra": "ESTEBAN MONTERO, LUCAS",
+      "sale": "MARGVELASHVILI, NODAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "GALILEA BARRIO, SERGIO": 90,
+    "CORREA BEDOYA, JERONIMO": 81,
+    "ALLOUNI ALLOUNI, YASSIR": 90,
+    "ALBA HERNANDEZ, PABLO": 69,
+    "VACA ROSSELL, JOSEP CARLOS": 90,
+    "SHTEMBARI AGARAJ, ALEX": 90,
+    "LACALLE DE PEDRO, DAVID": 69,
+    "MOLOVAE ESPINOZA, JOSEAN": 90,
+    "GARCIA VERA, JHON J": 81,
+    "HERRERO ULECIA, MARCOS": 90,
+    "CARBONERAS RODRIGUEZ, MAURO": 90,
+    "MARTINEZ AMELIBIA, JORGE": 21,
+    "NAVARRO DE CORTA, JORGE": 21,
+    "GARCIA GUTIERREZ, ALEJANDRO": 9,
+    "COQUECO PATIÑO, JUAN ESTEBAN": 9,
+    "ELGUEA HERNAIZ, IVAN": 90,
+    "MARGVELASHVILI, NODAR": 69,
+    "IRUZUBIETA IBAÑEZ, JORGE": 69,
+    "PEREZ SAN JUAN, HUGO": 90,
+    "ENCISO GAMARRA, WALTER I": 90,
+    "MADURGA HEREDIA, RODRIGO": 90,
+    "MURAS DEL CAZ, HUGO": 90,
+    "FERNANDEZ BONED, GABRIEL": 32,
+    "ALLAOUI, NABIL": 55,
+    "KEITA SANOGO, DAOUDA D": 90,
+    "RODRIGUEZ FERNANDEZ, BAUTISTA": 46,
+    "RAMIREZ GONZALEZ, MIGUEL ANGEL": 58,
+    "DOMINGUEZ RUIZOLALLA, JAVIER": 44,
+    "RUIZ ZAMBRANA, ANGEL": 35,
+    "MARIN MARTINEZ, RAM": 21,
+    "ESTEBAN MONTERO, LUCAS": 21
+  },
+  "portero_local": "GALILEA BARRIO, SERGIO",
+  "portero_visitante": "ELGUEA HERNAIZ, IVAN",
+  "dorsales_local": {
+    "GALILEA BARRIO, SERGIO": 13,
+    "CORREA BEDOYA, JERONIMO": 4,
+    "ALLOUNI ALLOUNI, YASSIR": 8,
+    "ALBA HERNANDEZ, PABLO": 10,
+    "VACA ROSSELL, JOSEP CARLOS": 12,
+    "SHTEMBARI AGARAJ, ALEX": 14,
+    "LACALLE DE PEDRO, DAVID": 15,
+    "MOLOVAE ESPINOZA, JOSEAN": 19,
+    "GARCIA VERA, JHON J": 20,
+    "HERRERO ULECIA, MARCOS": 23,
+    "CARBONERAS RODRIGUEZ, MAURO": 24
+  },
+  "dorsales_visitante": {
+    "ELGUEA HERNAIZ, IVAN": 1,
+    "MARGVELASHVILI, NODAR": 2,
+    "IRUZUBIETA IBAÑEZ, JORGE": 3,
+    "PEREZ SAN JUAN, HUGO": 4,
+    "ENCISO GAMARRA, WALTER I": 5,
+    "MADURGA HEREDIA, RODRIGO": 6,
+    "MURAS DEL CAZ, HUGO": 7,
+    "FERNANDEZ BONED, GABRIEL": 8,
+    "ALLAOUI, NABIL": 9,
+    "KEITA SANOGO, DAOUDA D": 10,
+    "RODRIGUEZ FERNANDEZ, BAUTISTA": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
