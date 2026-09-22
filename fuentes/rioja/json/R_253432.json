@@ -1,0 +1,244 @@
+{
+  "acta_id": "R_253432",
+  "filename": "Acta_R_253432.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "28-02-2026",
+  "hora": "16:00",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "ARNEDO",
+  "equipo_visitante": "ALFARO",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ALVAREZ ALONSO, SERGIO"
+  ],
+  "estadio": "C.M. SENDERO - H.A. (ARNEDO)",
+  "ciudad": "Arnedo",
+  "goleadores": [
+    {
+      "minuto": 33,
+      "jugador": "HERNANDEZ IBAÑEZ, ALEX",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 22,
+      "jugador": "SOTA MIRANDA, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "EZZITI, NABIL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "ALFARO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 85,
+      "jugador": "ARMIJOS LABANDA, ERIK A",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALONSO SANZ, JOSE I",
+  "entrenador_visitante": "VARGAS PEÑA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RODRIGUEZ ROLDAN, JESUS MARIA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RODRIGUEZ ROLDAN, JESUS MARIA",
+  "delegado_equipo_visitante": "NAVASCUES MELERO, ANGEL",
+  "titulares_local": [
+    "KVIRIKADZE DOLIDZE, DANIEL",
+    "ARNEDO CABRERA, ALVARO",
+    "OUMHATOU OUTOURABBI, ALI",
+    "CALVO TARAZONA, RAUL",
+    "HERNANDEZ IBAÑEZ, ALEX",
+    "LAMZIDI, YASSINE",
+    "GARCIA BELTRAN, ERIK",
+    "SAIDI SAID, MORAD",
+    "JIMENEZ HERCE, JUAN",
+    "SOTA MIRANDA, ALVARO",
+    "LAKHAL BOUARFA, MOHAMED"
+  ],
+  "titulares_visitante": [
+    "ARNEDO GASPARRINI, GIOVANNI",
+    "EL HAIRECH JRIFI, ELIAS",
+    "GARCIA SAINZ, DAVID",
+    "PEREZ PEREZ, YERAY",
+    "KENZI SEBBAR, MAROUANE",
+    "PANIAGUA VENTURA, BRIAN",
+    "PRECIADO ZUBIETA, UNAI",
+    "ARMIJOS LABANDA, ERIK A",
+    "GARCES TORRES, DERECK ANAEL",
+    "BENLOUKILIA KASMI, ZIAD",
+    "KERBOUB KAZZA, SALAH EDDINE"
+  ],
+  "suplentes_local": [
+    "MARIN PEREZ, DARIO",
+    "LEMGAAD, YOUSSEF",
+    "EZZITI, NABIL",
+    "EZZITI, NADIR"
+  ],
+  "suplentes_visitante": [
+    "KANZI KREIZ, ANOUAR",
+    "QAJJIA OUMBARECH, ACHRAF",
+    "GARATE GARATE, KERMAN",
+    "DELGADO GINES, BRYAN ENRIQUE",
+    "MOUTIK RAZKAOUI, DRISS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "QAJJIA OUMBARECH, ACHRAF",
+    "GARATE GARATE, KERMAN"
+  ],
+  "jugadores_local": [
+    "KVIRIKADZE DOLIDZE, DANIEL",
+    "ARNEDO CABRERA, ALVARO",
+    "OUMHATOU OUTOURABBI, ALI",
+    "CALVO TARAZONA, RAUL",
+    "HERNANDEZ IBAÑEZ, ALEX",
+    "LAMZIDI, YASSINE",
+    "GARCIA BELTRAN, ERIK",
+    "SAIDI SAID, MORAD",
+    "JIMENEZ HERCE, JUAN",
+    "SOTA MIRANDA, ALVARO",
+    "LAKHAL BOUARFA, MOHAMED",
+    "MARIN PEREZ, DARIO",
+    "LEMGAAD, YOUSSEF",
+    "EZZITI, NADIR",
+    "EZZITI, NABIL"
+  ],
+  "jugadores_visitante": [
+    "ARNEDO GASPARRINI, GIOVANNI",
+    "EL HAIRECH JRIFI, ELIAS",
+    "GARCIA SAINZ, DAVID",
+    "PEREZ PEREZ, YERAY",
+    "KENZI SEBBAR, MAROUANE",
+    "PANIAGUA VENTURA, BRIAN",
+    "PRECIADO ZUBIETA, UNAI",
+    "ARMIJOS LABANDA, ERIK A",
+    "GARCES TORRES, DERECK ANAEL",
+    "BENLOUKILIA KASMI, ZIAD",
+    "KERBOUB KAZZA, SALAH EDDINE",
+    "MOUTIK RAZKAOUI, DRISS",
+    "KANZI KREIZ, ANOUAR",
+    "DELGADO GINES, BRYAN ENRIQUE"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 66,
+      "entra": "MARIN PEREZ, DARIO",
+      "sale": "SAIDI SAID, MORAD"
+    },
+    {
+      "min": 77,
+      "entra": "LEMGAAD, YOUSSEF",
+      "sale": "LAKHAL BOUARFA, MOHAMED"
+    },
+    {
+      "min": 85,
+      "entra": "EZZITI, NADIR",
+      "sale": "GARCIA BELTRAN, ERIK"
+    },
+    {
+      "min": 85,
+      "entra": "EZZITI, NABIL",
+      "sale": "CALVO TARAZONA, RAUL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "MOUTIK RAZKAOUI, DRISS",
+      "sale": "BENLOUKILIA KASMI, ZIAD"
+    },
+    {
+      "min": 46,
+      "entra": "KANZI KREIZ, ANOUAR",
+      "sale": "EL HAIRECH JRIFI, ELIAS"
+    },
+    {
+      "min": 75,
+      "entra": "DELGADO GINES, BRYAN ENRIQUE",
+      "sale": "GARCIA SAINZ, DAVID"
+    }
+  ],
+  "minutos_jugadores": {
+    "KVIRIKADZE DOLIDZE, DANIEL": 90,
+    "ARNEDO CABRERA, ALVARO": 90,
+    "OUMHATOU OUTOURABBI, ALI": 90,
+    "CALVO TARAZONA, RAUL": 85,
+    "HERNANDEZ IBAÑEZ, ALEX": 90,
+    "LAMZIDI, YASSINE": 90,
+    "GARCIA BELTRAN, ERIK": 85,
+    "SAIDI SAID, MORAD": 66,
+    "JIMENEZ HERCE, JUAN": 90,
+    "SOTA MIRANDA, ALVARO": 90,
+    "LAKHAL BOUARFA, MOHAMED": 77,
+    "MARIN PEREZ, DARIO": 24,
+    "LEMGAAD, YOUSSEF": 13,
+    "EZZITI, NADIR": 5,
+    "EZZITI, NABIL": 5,
+    "ARNEDO GASPARRINI, GIOVANNI": 90,
+    "EL HAIRECH JRIFI, ELIAS": 46,
+    "GARCIA SAINZ, DAVID": 75,
+    "PEREZ PEREZ, YERAY": 90,
+    "KENZI SEBBAR, MAROUANE": 90,
+    "PANIAGUA VENTURA, BRIAN": 90,
+    "PRECIADO ZUBIETA, UNAI": 90,
+    "ARMIJOS LABANDA, ERIK A": 90,
+    "GARCES TORRES, DERECK ANAEL": 90,
+    "BENLOUKILIA KASMI, ZIAD": 46,
+    "KERBOUB KAZZA, SALAH EDDINE": 90,
+    "MOUTIK RAZKAOUI, DRISS": 44,
+    "KANZI KREIZ, ANOUAR": 44,
+    "DELGADO GINES, BRYAN ENRIQUE": 15
+  },
+  "portero_local": "KVIRIKADZE DOLIDZE, DANIEL",
+  "portero_visitante": "ARNEDO GASPARRINI, GIOVANNI",
+  "dorsales_local": {
+    "KVIRIKADZE DOLIDZE, DANIEL": 13,
+    "ARNEDO CABRERA, ALVARO": 2,
+    "OUMHATOU OUTOURABBI, ALI": 3,
+    "CALVO TARAZONA, RAUL": 4,
+    "HERNANDEZ IBAÑEZ, ALEX": 5,
+    "LAMZIDI, YASSINE": 6,
+    "GARCIA BELTRAN, ERIK": 7,
+    "SAIDI SAID, MORAD": 8,
+    "JIMENEZ HERCE, JUAN": 9,
+    "SOTA MIRANDA, ALVARO": 10,
+    "LAKHAL BOUARFA, MOHAMED": 11
+  },
+  "dorsales_visitante": {
+    "ARNEDO GASPARRINI, GIOVANNI": 13,
+    "EL HAIRECH JRIFI, ELIAS": 2,
+    "GARCIA SAINZ, DAVID": 5,
+    "PEREZ PEREZ, YERAY": 6,
+    "KENZI SEBBAR, MAROUANE": 7,
+    "PANIAGUA VENTURA, BRIAN": 8,
+    "PRECIADO ZUBIETA, UNAI": 9,
+    "ARMIJOS LABANDA, ERIK A": 12,
+    "GARCES TORRES, DERECK ANAEL": 14,
+    "BENLOUKILIA KASMI, ZIAD": 19,
+    "KERBOUB KAZZA, SALAH EDDINE": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
