@@ -1,0 +1,348 @@
+{
+  "acta_id": "N_70691367",
+  "filename": "Acta_N_70691367.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "30-05-2026",
+  "hora": "18:00",
+  "categoria": "PlayOff de Ascenso a Primera División Femenina (1ª Eliminatoria)",
+  "equipo_local": "C.F.S. FEMENINO SAN FERNANDO",
+  "equipo_visitante": "CFS AUTOESCOLA URGELL LINYOLA",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "DE JULIAN CAÑADA, NOEL",
+    "ÁRBITRO 2",
+    "VENTOSA MARTINEZ, ALEJANDRO",
+    "CRONOMETRADOR",
+    "LOPEZ DIAZ, OSCAR"
+  ],
+  "estadio": "Pab. Justo Gómez Salto",
+  "ciudad": "San Fernando De Henares",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "REDONDO MOYA, RUTH",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 5,
+      "jugador": "CARLES GUILLEM, MONTSE",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 11,
+      "jugador": "RUIZ NARANJO, MARTA",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "GIMENEZ HERRERA, SOFIA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "RUIZ NARANJO, MARTA",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "GOMEZ CARRETERO, CORAL AGUEDA",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "REDONDO MOYA, RUTH",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "CARLES GUILLEM, MONTSE",
+      "equipo": "?",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 5,
+      "jugador": "GOMEZ CARRETERO, CORAL AGUEDA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 19,
+      "jugador": "MARTINEZ MORELL, PAOLA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "CARLES GUILLEM, MONTSE",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 33,
+      "jugador": "FARRE BONET, MERITXELL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "REIS BARROS, ANDREIA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "C.F.S. FEMENINO SAN FERNANDO :",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "EN EL MINUTO 5 LA JUGADORA (21) GOMEZ CARRETERO, CORAL AGUEDA FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR ZANCADILLEAR A UN CONTRARIO EN LA DISPUTA DEL BALÓN, EVITANDO UN ATAQUE PROMETEDOR.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "CFS AUTOESCOLA URGELL LINYOLA :",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "EN EL MINUTO 19 LA JUGADORA (23) MARTINEZ MORELL, PAOLA FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR SUJETAR A UN ADVERSARIO, IMPIDIENDO UN ATAQUE PROMETEDOR.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "CFS AUTOESCOLA URGELL LINYOLA :",
+      "equipo": "?",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "EN EL MINUTO 32 LA JUGADORA (11) CARLES GUILLEM, MONTSE FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR ZANCADILLEAR A UN CONTRARIO EN LA DISPUTA DEL BALÓN, EVITANDO UN ATAQUE PROMETEDOR.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "CFS AUTOESCOLA URGELL LINYOLA :",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "EN EL MINUTO 33 LA JUGADORA (5) FARRE BONET, MERITXELL FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR REALIZAR OBSERVACIONES DE CARÁCTER TÉCNICO A UNA DE MIS DECISIONES.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "CFS AUTOESCOLA URGELL LINYOLA :",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "EN EL MINUTO 39 LA JUGADORA (4) REIS BARROS, ANDREIA FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR ZANCADILLEAR A UN CONTRARIO EN LA DISPUTA DEL BALÓN, EVITANDO UN ATAQUE PROMETEDOR.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "NORMAL",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "ALÍS MOLINÉ, XAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GRAU CARMONA, JOSEP",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "MARTINEZ PEDRÓS, JORDI",
+  "titulares_local": [
+    "JIMENEZ BROTONS, SARA",
+    "BARRUZ JIMENEZ, ITZIAR",
+    "GIMENEZ HERRERA, SOFIA",
+    "CRUZ ALONSO, JESSICA",
+    "CORDOBA CATENA, LUCIA"
+  ],
+  "titulares_visitante": [
+    "CANTENYS FERRER, XENIA",
+    "PALLARUELO BUIL, CLÀUDIA",
+    "REIS BARROS, ANDREIA",
+    "FARRE BONET, MERITXELL",
+    "PALMA CAMPOS, JÚLIA"
+  ],
+  "suplentes_local": [
+    "REDONDO MOYA, RUTH",
+    "CASANOVA SUAREZ, COVADONGA",
+    "GARCIA ALONSO, PAULA",
+    "RUIZ NARANJO, MARTA",
+    "VILLANUEVA GURRICHARRI, ANDREA",
+    "MIRANDA DOMENECH, NEREA",
+    "GOMEZ CARRETERO, CORAL AGUEDA",
+    "GARCIA FORGA, PAULA"
+  ],
+  "suplentes_visitante": [
+    "EL ADAK AARRASSI, ZINAB",
+    "LUQUE VAZQUEZ, ANAÏS",
+    "TIO GASIO, CRISTINA",
+    "PONS ORTIZ, KAREN",
+    "CARLES GUILLEM, MONTSE",
+    "SABATÉ LOPERA, ROSA MARIA",
+    "HALGUNSET, MARI",
+    "MARTINEZ MORELL, PAOLA"
+  ],
+  "convocados_sin_jugar_local": [
+    "REDONDO MOYA, RUTH",
+    "CASANOVA SUAREZ, COVADONGA",
+    "GARCIA ALONSO, PAULA",
+    "RUIZ NARANJO, MARTA",
+    "VILLANUEVA GURRICHARRI, ANDREA",
+    "MIRANDA DOMENECH, NEREA",
+    "GOMEZ CARRETERO, CORAL AGUEDA",
+    "GARCIA FORGA, PAULA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "EL ADAK AARRASSI, ZINAB",
+    "LUQUE VAZQUEZ, ANAÏS",
+    "TIO GASIO, CRISTINA",
+    "PONS ORTIZ, KAREN",
+    "CARLES GUILLEM, MONTSE",
+    "SABATÉ LOPERA, ROSA MARIA",
+    "HALGUNSET, MARI",
+    "MARTINEZ MORELL, PAOLA"
+  ],
+  "jugadores_local": [
+    "JIMENEZ BROTONS, SARA",
+    "BARRUZ JIMENEZ, ITZIAR",
+    "GIMENEZ HERRERA, SOFIA",
+    "CRUZ ALONSO, JESSICA",
+    "CORDOBA CATENA, LUCIA"
+  ],
+  "jugadores_visitante": [
+    "CANTENYS FERRER, XENIA",
+    "PALLARUELO BUIL, CLÀUDIA",
+    "REIS BARROS, ANDREIA",
+    "FARRE BONET, MERITXELL",
+    "PALMA CAMPOS, JÚLIA"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "JIMENEZ BROTONS, SARA": 90,
+    "BARRUZ JIMENEZ, ITZIAR": 90,
+    "GIMENEZ HERRERA, SOFIA": 90,
+    "CRUZ ALONSO, JESSICA": 90,
+    "CORDOBA CATENA, LUCIA": 90,
+    "CANTENYS FERRER, XENIA": 90,
+    "PALLARUELO BUIL, CLÀUDIA": 90,
+    "REIS BARROS, ANDREIA": 90,
+    "FARRE BONET, MERITXELL": 90,
+    "PALMA CAMPOS, JÚLIA": 90
+  },
+  "portero_local": "JIMENEZ BROTONS, SARA",
+  "portero_visitante": "CANTENYS FERRER, XENIA",
+  "dorsales_local": {
+    "JIMENEZ BROTONS, SARA": 1,
+    "BARRUZ JIMENEZ, ITZIAR": 7,
+    "GIMENEZ HERRERA, SOFIA": 8,
+    "CRUZ ALONSO, JESSICA": 11,
+    "CORDOBA CATENA, LUCIA": 12
+  },
+  "dorsales_visitante": {
+    "CANTENYS FERRER, XENIA": 1,
+    "PALLARUELO BUIL, CLÀUDIA": 3,
+    "REIS BARROS, ANDREIA": 4,
+    "FARRE BONET, MERITXELL": 5,
+    "PALMA CAMPOS, JÚLIA": 7
+  },
+  "suspendidos": [
+    "CFS AUTOESCOLA URGELL LINYOLA :",
+    "NINGUNA"
+  ]
+}
