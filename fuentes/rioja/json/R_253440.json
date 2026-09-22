@@ -1,0 +1,244 @@
+{
+  "acta_id": "R_253440",
+  "filename": "Acta_R_253440.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "07-03-2026",
+  "hora": "16:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "PROMESAS EDF",
+  "equipo_visitante": "RIVER EBRO",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "AIT ALI MAHYOUTI , ZAKARYA"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 7 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 34,
+      "jugador": "GARCIA SANTAMARIA, JORGE",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 33,
+      "jugador": "GALLARDO BAÑOS, JOSE MANUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "LARHLID LARHLID, ACHRAF",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "LARHLID LARHLID, ACHRAF",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "RIVER EBRO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "LLORENTE PEREZ, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "MARTIN TRONCOSO, JUAN MANUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "PEREZ GIL, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GALLARDO BAÑOS, JOSE MANUEL",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GALLARDO LOPEZ, FRANCISCO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GALLARDO LOPEZ, FRANCISCO",
+  "delegado_equipo_visitante": "GARCIA SANCHEZ , ALEJANDRO",
+  "titulares_local": [
+    "BENI BASTIDA, DANIEL",
+    "FERNANDEZ SANTOS, SAMUEL",
+    "MARTINEZ HERMIDA, ANGEL",
+    "ARIZNAVARRETA ALESANCO, DIEGO",
+    "ROYO DIAZ, MARCOS",
+    "NVE OBAMA, DANIEL",
+    "EZQUERRO ECHAPRESTO, MARCOS",
+    "LARHLID, ABDALLAH",
+    "REBOLLO MARTINEZ, MIGUEL",
+    "GARCIA SANTAMARIA, JORGE",
+    "HERRERO HIDALGO, ALVARO"
+  ],
+  "titulares_visitante": [
+    "PEREZ GIL, FABIO",
+    "ZARACAIN HERNANDEZ, LUCAS",
+    "PEREZ GIL, HUGO",
+    "INAQUIZA CHINCHIN, ANTHONY A",
+    "AFAJDAR, AYOUB",
+    "MARTIN TRONCOSO, JUAN MANUEL",
+    "LLORENTE PEREZ, PABLO",
+    "RABHI, HOUSSAM",
+    "PARDO MATUTE, HUGO",
+    "PAUL LAZARO, ELIAS",
+    "DARKAOUI BELFDAL, MOHAMMED"
+  ],
+  "suplentes_local": [
+    "SAGHIR ABOUMALEK, MOAD",
+    "BOZALONGO PLAZA, NACHO",
+    "LARHLID LARHLID, ACHRAF",
+    "SAN JUAN GOMEZ, JULEN",
+    "MARTINEZ GARCIA, ADRIAN"
+  ],
+  "suplentes_visitante": [],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BENI BASTIDA, DANIEL",
+    "FERNANDEZ SANTOS, SAMUEL",
+    "MARTINEZ HERMIDA, ANGEL",
+    "ARIZNAVARRETA ALESANCO, DIEGO",
+    "ROYO DIAZ, MARCOS",
+    "NVE OBAMA, DANIEL",
+    "EZQUERRO ECHAPRESTO, MARCOS",
+    "LARHLID, ABDALLAH",
+    "REBOLLO MARTINEZ, MIGUEL",
+    "GARCIA SANTAMARIA, JORGE",
+    "HERRERO HIDALGO, ALVARO",
+    "BOZALONGO PLAZA, NACHO",
+    "LARHLID LARHLID, ACHRAF",
+    "SAGHIR ABOUMALEK, MOAD",
+    "SAN JUAN GOMEZ, JULEN",
+    "MARTINEZ GARCIA, ADRIAN"
+  ],
+  "jugadores_visitante": [
+    "PEREZ GIL, FABIO",
+    "ZARACAIN HERNANDEZ, LUCAS",
+    "PEREZ GIL, HUGO",
+    "INAQUIZA CHINCHIN, ANTHONY A",
+    "AFAJDAR, AYOUB",
+    "MARTIN TRONCOSO, JUAN MANUEL",
+    "LLORENTE PEREZ, PABLO",
+    "RABHI, HOUSSAM",
+    "PARDO MATUTE, HUGO",
+    "PAUL LAZARO, ELIAS",
+    "DARKAOUI BELFDAL, MOHAMMED"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "BOZALONGO PLAZA, NACHO",
+      "sale": "GARCIA SANTAMARIA, JORGE"
+    },
+    {
+      "min": 56,
+      "entra": "LARHLID LARHLID, ACHRAF",
+      "sale": "EZQUERRO ECHAPRESTO, MARCOS"
+    },
+    {
+      "min": 65,
+      "entra": "SAGHIR ABOUMALEK, MOAD",
+      "sale": "ARIZNAVARRETA ALESANCO, DIEGO"
+    },
+    {
+      "min": 65,
+      "entra": "SAN JUAN GOMEZ, JULEN",
+      "sale": "MARTINEZ HERMIDA, ANGEL"
+    },
+    {
+      "min": 81,
+      "entra": "MARTINEZ GARCIA, ADRIAN",
+      "sale": "NVE OBAMA, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "BENI BASTIDA, DANIEL": 90,
+    "FERNANDEZ SANTOS, SAMUEL": 90,
+    "MARTINEZ HERMIDA, ANGEL": 65,
+    "ARIZNAVARRETA ALESANCO, DIEGO": 65,
+    "ROYO DIAZ, MARCOS": 90,
+    "NVE OBAMA, DANIEL": 81,
+    "EZQUERRO ECHAPRESTO, MARCOS": 56,
+    "LARHLID, ABDALLAH": 90,
+    "REBOLLO MARTINEZ, MIGUEL": 90,
+    "GARCIA SANTAMARIA, JORGE": 56,
+    "HERRERO HIDALGO, ALVARO": 90,
+    "BOZALONGO PLAZA, NACHO": 34,
+    "LARHLID LARHLID, ACHRAF": 34,
+    "SAGHIR ABOUMALEK, MOAD": 25,
+    "SAN JUAN GOMEZ, JULEN": 25,
+    "MARTINEZ GARCIA, ADRIAN": 9,
+    "PEREZ GIL, FABIO": 90,
+    "ZARACAIN HERNANDEZ, LUCAS": 90,
+    "PEREZ GIL, HUGO": 90,
+    "INAQUIZA CHINCHIN, ANTHONY A": 90,
+    "AFAJDAR, AYOUB": 90,
+    "MARTIN TRONCOSO, JUAN MANUEL": 90,
+    "LLORENTE PEREZ, PABLO": 90,
+    "RABHI, HOUSSAM": 90,
+    "PARDO MATUTE, HUGO": 90,
+    "PAUL LAZARO, ELIAS": 90,
+    "DARKAOUI BELFDAL, MOHAMMED": 90
+  },
+  "portero_local": "BENI BASTIDA, DANIEL",
+  "portero_visitante": "PEREZ GIL, FABIO",
+  "dorsales_local": {
+    "BENI BASTIDA, DANIEL": 1,
+    "FERNANDEZ SANTOS, SAMUEL": 2,
+    "MARTINEZ HERMIDA, ANGEL": 3,
+    "ARIZNAVARRETA ALESANCO, DIEGO": 4,
+    "ROYO DIAZ, MARCOS": 5,
+    "NVE OBAMA, DANIEL": 6,
+    "EZQUERRO ECHAPRESTO, MARCOS": 7,
+    "LARHLID, ABDALLAH": 8,
+    "REBOLLO MARTINEZ, MIGUEL": 9,
+    "GARCIA SANTAMARIA, JORGE": 10,
+    "HERRERO HIDALGO, ALVARO": 11
+  },
+  "dorsales_visitante": {
+    "PEREZ GIL, FABIO": 1,
+    "ZARACAIN HERNANDEZ, LUCAS": 5,
+    "PEREZ GIL, HUGO": 6,
+    "INAQUIZA CHINCHIN, ANTHONY A": 7,
+    "AFAJDAR, AYOUB": 9,
+    "MARTIN TRONCOSO, JUAN MANUEL": 12,
+    "LLORENTE PEREZ, PABLO": 14,
+    "RABHI, HOUSSAM": 15,
+    "PARDO MATUTE, HUGO": 16,
+    "PAUL LAZARO, ELIAS": 19,
+    "DARKAOUI BELFDAL, MOHAMMED": 21
+  },
+  "suspendidos": [
+    "LARHLID LARHLID, ACHRAF"
+  ],
+  "_marcador_widget": true
+}
