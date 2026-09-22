@@ -1,0 +1,226 @@
+{
+  "acta_id": "R_254045",
+  "filename": "Acta_R_254045.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "29-11-2025",
+  "hora": "18:30",
+  "categoria": "CADETE FEMENINO (Grupo Único)",
+  "equipo_local": "CR VILLAMEDIANA",
+  "equipo_visitante": "SD LOGROÑES B",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "DE MIGUEL BELLO, IVAN"
+  ],
+  "estadio": "C.D.M. LA RIBERA - H.A. (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 37,
+      "jugador": "HAMZAOUI, SALMA",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "NANCLARES ASENSI, ROCIO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "NANCLARES ASENSI, ROCIO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "KAMANE SITTO, MARWA",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "GAVILANES DIAZ, CHRISTOPHER ALEXIS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "SD LOGROÑES B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "GARCIA LASHERAS, ALAZNE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GAVILANES DIAZ, CHRISTOPHER ALEXIS",
+  "entrenador_visitante": "PASCUAL BELLA, TAMARA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ABEL HATEGAN, DARIAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ SOTO, IGNACIO JAVIER",
+  "delegado_equipo_visitante": "MARIN ALBENIZ, UNAI",
+  "titulares_local": [
+    "PEREZ SANZ, SILVIA",
+    "MONTALVO MARTINEZ, LOLA",
+    "CAMPO SANTOLAYA, SARA",
+    "SAENZ DE JUBERA TRE, MARINA",
+    "ALVAREZ MANZANEDO, LUCIA",
+    "BLANCO LOZA, CARLA",
+    "SANTAMARIA ESTEPA, MARTINA",
+    "LAZARO MARTINEZ, PATRICIA",
+    "BORES NAVARIDAS, ALBA",
+    "EL KHLIFI MASMOUDI, SALMA",
+    "TERRAZAS ARTACHO, SOFIA"
+  ],
+  "titulares_visitante": [
+    "ALBINA MARTIN, SOFIA",
+    "BELGOUR COLLADO, SARA",
+    "GARCIA GARRIDO, EMMA",
+    "GARCIA LASHERAS, ALAZNE",
+    "KAMANE SITTO, MARWA",
+    "NANCLARES ASENSI, ROCIO",
+    "LORENZO JIMENEZ, MARA",
+    "HAMZAOUI, SALMA",
+    "GARCIA PORRES, CANDELA",
+    "DJAJA TOBIAS, ELISA",
+    "FERNANDEZ CONTRERAS, MARIA LUCIA"
+  ],
+  "suplentes_local": [
+    "ESTEBAN FERNANDEZ, INES",
+    "ALI EMBAREC, AICHA NANA"
+  ],
+  "suplentes_visitante": [
+    "SECO MABOTE, ALIYA",
+    "FERNANDEZ NAJERA, CANDELA"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PEREZ SANZ, SILVIA",
+    "MONTALVO MARTINEZ, LOLA",
+    "CAMPO SANTOLAYA, SARA",
+    "SAENZ DE JUBERA TRE, MARINA",
+    "ALVAREZ MANZANEDO, LUCIA",
+    "BLANCO LOZA, CARLA",
+    "SANTAMARIA ESTEPA, MARTINA",
+    "LAZARO MARTINEZ, PATRICIA",
+    "BORES NAVARIDAS, ALBA",
+    "EL KHLIFI MASMOUDI, SALMA",
+    "TERRAZAS ARTACHO, SOFIA",
+    "ALI EMBAREC, AICHA NANA",
+    "ESTEBAN FERNANDEZ, INES"
+  ],
+  "jugadores_visitante": [
+    "ALBINA MARTIN, SOFIA",
+    "BELGOUR COLLADO, SARA",
+    "GARCIA GARRIDO, EMMA",
+    "GARCIA LASHERAS, ALAZNE",
+    "KAMANE SITTO, MARWA",
+    "NANCLARES ASENSI, ROCIO",
+    "LORENZO JIMENEZ, MARA",
+    "HAMZAOUI, SALMA",
+    "GARCIA PORRES, CANDELA",
+    "DJAJA TOBIAS, ELISA",
+    "FERNANDEZ CONTRERAS, MARIA LUCIA",
+    "FERNANDEZ NAJERA, CANDELA",
+    "SECO MABOTE, ALIYA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "ALI EMBAREC, AICHA NANA",
+      "sale": "BORES NAVARIDAS, ALBA"
+    },
+    {
+      "min": 67,
+      "entra": "ESTEBAN FERNANDEZ, INES",
+      "sale": "CAMPO SANTOLAYA, SARA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 64,
+      "entra": "FERNANDEZ NAJERA, CANDELA",
+      "sale": "FERNANDEZ CONTRERAS, MARIA LUCIA"
+    },
+    {
+      "min": 67,
+      "entra": "SECO MABOTE, ALIYA",
+      "sale": "NANCLARES ASENSI, ROCIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ SANZ, SILVIA": 90,
+    "MONTALVO MARTINEZ, LOLA": 90,
+    "CAMPO SANTOLAYA, SARA": 67,
+    "SAENZ DE JUBERA TRE, MARINA": 90,
+    "ALVAREZ MANZANEDO, LUCIA": 90,
+    "BLANCO LOZA, CARLA": 90,
+    "SANTAMARIA ESTEPA, MARTINA": 90,
+    "LAZARO MARTINEZ, PATRICIA": 90,
+    "BORES NAVARIDAS, ALBA": 51,
+    "EL KHLIFI MASMOUDI, SALMA": 90,
+    "TERRAZAS ARTACHO, SOFIA": 90,
+    "ALI EMBAREC, AICHA NANA": 39,
+    "ESTEBAN FERNANDEZ, INES": 23,
+    "ALBINA MARTIN, SOFIA": 90,
+    "BELGOUR COLLADO, SARA": 90,
+    "GARCIA GARRIDO, EMMA": 90,
+    "GARCIA LASHERAS, ALAZNE": 90,
+    "KAMANE SITTO, MARWA": 90,
+    "NANCLARES ASENSI, ROCIO": 67,
+    "LORENZO JIMENEZ, MARA": 90,
+    "HAMZAOUI, SALMA": 90,
+    "GARCIA PORRES, CANDELA": 90,
+    "DJAJA TOBIAS, ELISA": 90,
+    "FERNANDEZ CONTRERAS, MARIA LUCIA": 64,
+    "FERNANDEZ NAJERA, CANDELA": 26,
+    "SECO MABOTE, ALIYA": 23
+  },
+  "portero_local": "PEREZ SANZ, SILVIA",
+  "portero_visitante": "ALBINA MARTIN, SOFIA",
+  "dorsales_local": {
+    "PEREZ SANZ, SILVIA": 1,
+    "MONTALVO MARTINEZ, LOLA": 3,
+    "CAMPO SANTOLAYA, SARA": 6,
+    "SAENZ DE JUBERA TRE, MARINA": 8,
+    "ALVAREZ MANZANEDO, LUCIA": 9,
+    "BLANCO LOZA, CARLA": 10,
+    "SANTAMARIA ESTEPA, MARTINA": 12,
+    "LAZARO MARTINEZ, PATRICIA": 14,
+    "BORES NAVARIDAS, ALBA": 15,
+    "EL KHLIFI MASMOUDI, SALMA": 17,
+    "TERRAZAS ARTACHO, SOFIA": 19
+  },
+  "dorsales_visitante": {
+    "ALBINA MARTIN, SOFIA": 13,
+    "BELGOUR COLLADO, SARA": 3,
+    "GARCIA GARRIDO, EMMA": 4,
+    "GARCIA LASHERAS, ALAZNE": 6,
+    "KAMANE SITTO, MARWA": 7,
+    "NANCLARES ASENSI, ROCIO": 18,
+    "LORENZO JIMENEZ, MARA": 19,
+    "HAMZAOUI, SALMA": 21,
+    "GARCIA PORRES, CANDELA": 22,
+    "DJAJA TOBIAS, ELISA": 23,
+    "FERNANDEZ CONTRERAS, MARIA LUCIA": 26
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
