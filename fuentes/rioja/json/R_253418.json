@@ -1,0 +1,277 @@
+{
+  "acta_id": "R_253418",
+  "filename": "Acta_R_253418.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 14,
+  "fecha": "31-01-2026",
+  "hora": "17:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "ALFARO",
+  "equipo_visitante": "RIVER EBRO",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "EZQUERRO EZQUERRO, ELOY"
+  ],
+  "estadio": "C.M. LA MOLINETA - H.A. (ALFARO)",
+  "ciudad": "Alfaro",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "PARDO MATUTE, HUGO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "SALAS MALO, FERNANDO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "CARABALI BOLIVAR, WILLY F",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 51,
+      "jugador": "QAJJIA OUMBARECH, ACHRAF",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "EL HAIRECH JRIFI, ELIAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "RIVER EBRO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "MARTIN TRONCOSO, JUAN MANUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VARGAS PEÑA, JORGE",
+  "entrenador_visitante": "GARCIA SANCHEZ, ALEJANDRO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PEREZ MEDIAVILLA, OSCAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RODRIGUEZ MUÑOZ, IVAN",
+  "delegado_equipo_visitante": "PASCUAL ORIA, IKER",
+  "titulares_local": [
+    "ARNEDO GASPARRINI, GIOVANNI",
+    "PEREZ PEREZ, YERAY",
+    "KENZI SEBBAR, MAROUANE",
+    "PANIAGUA VENTURA, BRIAN",
+    "MENSSOURI, YASIN",
+    "QAJJIA OUMBARECH, ACHRAF",
+    "ARMIJOS LABANDA, ERIK A",
+    "GARCES TORRES, DERECK ANAEL",
+    "BENLOUKILIA KASMI, ZIAD",
+    "MOUTIK RAZKAOUI, DRISS",
+    "CHRIFI, ISHAAQ"
+  ],
+  "titulares_visitante": [
+    "PEREZ GIL, FABIO",
+    "JIMENEZ LORENTE, LUCAS",
+    "GOMEZ GRAGERA, DARIO",
+    "PEREZ GIL, HUGO",
+    "CARABALI BOLIVAR, WILLY F",
+    "ARNEDILLO BRAVO, OLIVER",
+    "MARTIN TRONCOSO, JUAN MANUEL",
+    "LLORENTE PEREZ, PABLO",
+    "RABHI, HOUSSAM",
+    "PARDO MATUTE, HUGO",
+    "SALAS MALO, FERNANDO"
+  ],
+  "suplentes_local": [
+    "EL HAIRECH JRIFI, ELIAS",
+    "GARCIA SAINZ, DAVID",
+    "PRECIADO ZUBIETA, UNAI",
+    "GARATE GARATE, KERMAN",
+    "DELGADO GINES, BRYAN ENRIQUE",
+    "AZUAGA GARCIA, JAVIER"
+  ],
+  "suplentes_visitante": [
+    "GALAN GONZALEZ, MARIO",
+    "INAQUIZA CHINCHIN, ANTHONY A",
+    "SAHAL, ZIYAD",
+    "PAUL LAZARO, ELIAS",
+    "BAHID OULAD ALI, BUBAKAR"
+  ],
+  "convocados_sin_jugar_local": [
+    "AZUAGA GARCIA, JAVIER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARNEDO GASPARRINI, GIOVANNI",
+    "PEREZ PEREZ, YERAY",
+    "KENZI SEBBAR, MAROUANE",
+    "PANIAGUA VENTURA, BRIAN",
+    "MENSSOURI, YASIN",
+    "QAJJIA OUMBARECH, ACHRAF",
+    "ARMIJOS LABANDA, ERIK A",
+    "GARCES TORRES, DERECK ANAEL",
+    "BENLOUKILIA KASMI, ZIAD",
+    "MOUTIK RAZKAOUI, DRISS",
+    "CHRIFI, ISHAAQ",
+    "GARATE GARATE, KERMAN",
+    "PRECIADO ZUBIETA, UNAI",
+    "DELGADO GINES, BRYAN ENRIQUE",
+    "GARCIA SAINZ, DAVID",
+    "EL HAIRECH JRIFI, ELIAS"
+  ],
+  "jugadores_visitante": [
+    "PEREZ GIL, FABIO",
+    "JIMENEZ LORENTE, LUCAS",
+    "GOMEZ GRAGERA, DARIO",
+    "PEREZ GIL, HUGO",
+    "CARABALI BOLIVAR, WILLY F",
+    "ARNEDILLO BRAVO, OLIVER",
+    "MARTIN TRONCOSO, JUAN MANUEL",
+    "LLORENTE PEREZ, PABLO",
+    "RABHI, HOUSSAM",
+    "PARDO MATUTE, HUGO",
+    "SALAS MALO, FERNANDO",
+    "PAUL LAZARO, ELIAS",
+    "SAHAL, ZIYAD",
+    "INAQUIZA CHINCHIN, ANTHONY A",
+    "GALAN GONZALEZ, MARIO",
+    "BAHID OULAD ALI, BUBAKAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "GARATE GARATE, KERMAN",
+      "sale": "KENZI SEBBAR, MAROUANE"
+    },
+    {
+      "min": 50,
+      "entra": "PRECIADO ZUBIETA, UNAI",
+      "sale": "PANIAGUA VENTURA, BRIAN"
+    },
+    {
+      "min": 67,
+      "entra": "DELGADO GINES, BRYAN ENRIQUE",
+      "sale": "ARMIJOS LABANDA, ERIK A"
+    },
+    {
+      "min": 67,
+      "entra": "GARCIA SAINZ, DAVID",
+      "sale": "MOUTIK RAZKAOUI, DRISS"
+    },
+    {
+      "min": 67,
+      "entra": "EL HAIRECH JRIFI, ELIAS",
+      "sale": "MENSSOURI, YASIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 62,
+      "entra": "PAUL LAZARO, ELIAS",
+      "sale": "PARDO MATUTE, HUGO"
+    },
+    {
+      "min": 62,
+      "entra": "SAHAL, ZIYAD",
+      "sale": "ARNEDILLO BRAVO, OLIVER"
+    },
+    {
+      "min": 70,
+      "entra": "INAQUIZA CHINCHIN, ANTHONY A",
+      "sale": "SALAS MALO, FERNANDO"
+    },
+    {
+      "min": 80,
+      "entra": "GALAN GONZALEZ, MARIO",
+      "sale": "CARABALI BOLIVAR, WILLY F"
+    },
+    {
+      "min": 80,
+      "entra": "BAHID OULAD ALI, BUBAKAR",
+      "sale": "RABHI, HOUSSAM"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARNEDO GASPARRINI, GIOVANNI": 90,
+    "PEREZ PEREZ, YERAY": 90,
+    "KENZI SEBBAR, MAROUANE": 46,
+    "PANIAGUA VENTURA, BRIAN": 50,
+    "MENSSOURI, YASIN": 67,
+    "QAJJIA OUMBARECH, ACHRAF": 90,
+    "ARMIJOS LABANDA, ERIK A": 67,
+    "GARCES TORRES, DERECK ANAEL": 90,
+    "BENLOUKILIA KASMI, ZIAD": 90,
+    "MOUTIK RAZKAOUI, DRISS": 67,
+    "CHRIFI, ISHAAQ": 90,
+    "GARATE GARATE, KERMAN": 44,
+    "PRECIADO ZUBIETA, UNAI": 40,
+    "DELGADO GINES, BRYAN ENRIQUE": 23,
+    "GARCIA SAINZ, DAVID": 23,
+    "EL HAIRECH JRIFI, ELIAS": 23,
+    "PEREZ GIL, FABIO": 90,
+    "JIMENEZ LORENTE, LUCAS": 90,
+    "GOMEZ GRAGERA, DARIO": 90,
+    "PEREZ GIL, HUGO": 90,
+    "CARABALI BOLIVAR, WILLY F": 80,
+    "ARNEDILLO BRAVO, OLIVER": 62,
+    "MARTIN TRONCOSO, JUAN MANUEL": 90,
+    "LLORENTE PEREZ, PABLO": 90,
+    "RABHI, HOUSSAM": 80,
+    "PARDO MATUTE, HUGO": 62,
+    "SALAS MALO, FERNANDO": 70,
+    "PAUL LAZARO, ELIAS": 28,
+    "SAHAL, ZIYAD": 28,
+    "INAQUIZA CHINCHIN, ANTHONY A": 20,
+    "GALAN GONZALEZ, MARIO": 10,
+    "BAHID OULAD ALI, BUBAKAR": 10
+  },
+  "portero_local": "ARNEDO GASPARRINI, GIOVANNI",
+  "portero_visitante": "PEREZ GIL, FABIO",
+  "dorsales_local": {
+    "ARNEDO GASPARRINI, GIOVANNI": 13,
+    "PEREZ PEREZ, YERAY": 6,
+    "KENZI SEBBAR, MAROUANE": 7,
+    "PANIAGUA VENTURA, BRIAN": 8,
+    "MENSSOURI, YASIN": 10,
+    "QAJJIA OUMBARECH, ACHRAF": 11,
+    "ARMIJOS LABANDA, ERIK A": 12,
+    "GARCES TORRES, DERECK ANAEL": 14,
+    "BENLOUKILIA KASMI, ZIAD": 19,
+    "MOUTIK RAZKAOUI, DRISS": 22,
+    "CHRIFI, ISHAAQ": 23
+  },
+  "dorsales_visitante": {
+    "PEREZ GIL, FABIO": 1,
+    "JIMENEZ LORENTE, LUCAS": 2,
+    "GOMEZ GRAGERA, DARIO": 5,
+    "PEREZ GIL, HUGO": 6,
+    "CARABALI BOLIVAR, WILLY F": 9,
+    "ARNEDILLO BRAVO, OLIVER": 11,
+    "MARTIN TRONCOSO, JUAN MANUEL": 12,
+    "LLORENTE PEREZ, PABLO": 14,
+    "RABHI, HOUSSAM": 15,
+    "PARDO MATUTE, HUGO": 16,
+    "SALAS MALO, FERNANDO": 17
+  },
+  "suspendidos": []
+}
