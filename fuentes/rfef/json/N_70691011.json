@@ -1,0 +1,169 @@
+{
+  "acta_id": "N_70691011",
+  "filename": "Acta_N_70691011.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 11,
+  "fecha": "27-06-2026",
+  "hora": "20:00",
+  "categoria": "Campeonato de Primera División de Fútbol Playa Masculino (Primera División Nacional Masculina)",
+  "equipo_local": "C.D. FUTBOL PLAYA MARBELLA",
+  "equipo_visitante": "FUTBOL PLAYA HUELVA C.D.",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "FERNANDEZ CEFERINO, SARA",
+    "ÁRBITRO 2",
+    "BALLE REUS, SERGI",
+    "TERCER ÁRBITRO",
+    "ARIJA ASIN, ALBA",
+    "CRONOMETRADOR",
+    "OLTRA SÁEZ, MARC"
+  ],
+  "estadio": "ROSES 2",
+  "ciudad": "Roses",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "SANCHEZ SERRANO, FRANCISCO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 3,
+      "jugador": "BATIS EL ASRI, SOLEIMAN",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 7,
+      "jugador": "ARIÑO CASTILLO, NICOLAS",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "DOS SANTOS VALDERRAMA, FERNANDO",
+      "equipo": "?",
+      "propia": true
+    },
+    {
+      "minuto": 18,
+      "jugador": "PIRES PEREIRA, MARCERONE",
+      "equipo": "?",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 30,
+      "jugador": "SANTISO MOSQUERA, MIGUEL ANGEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 25,
+      "jugador": "MARQUES ARAUJO, JOAO MARCOS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "MILLAN OLIVEROS, RAFAEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "RAMIREZ ROMERO, FELIX IGNACIO",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": "LOHAKS ALVEZ, JAVIER",
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "LOHAKS ALVEZ, JAVIER",
+  "titulares_local": [
+    "DUQUE LEON, VICENTE ANTONIO",
+    "ARIÑO CASTILLO, NICOLAS",
+    "ARAUJO CARDOSO, MARCIEL",
+    "PIRES PEREIRA, MARCIEL",
+    "GOMES ABREU DO NASCIMENTO, PEDRO LUCAS"
+  ],
+  "titulares_visitante": [
+    "CAMACHO GONZALEZ, FRANCISCO JAVIER",
+    "MARQUES ARAUJO, JOAO MARCOS",
+    "CALDAS ARAUJO, WILLIAN",
+    "OLIVEIRA DA SILVA, GERLAN",
+    "HERNANDEZ MACIAS, BRIAN"
+  ],
+  "suplentes_local": [
+    "DOS SANTOS VALDERRAMA, FERNANDO",
+    "PONZETTI, LUCAS ARIEL",
+    "BATIS EL ASRI, SOLEIMAN",
+    "SANTISO MOSQUERA, MIGUEL ANGEL"
+  ],
+  "suplentes_visitante": [
+    "GONZÁLEZ CUELLAR, FRANCISCO",
+    "PIRES PEREIRA, MARCERONE",
+    "ROCHA DA PAZ, EDSON",
+    "SANCHEZ SERRANO, FRANCISCO",
+    "MIER DIAZ, JOSE"
+  ],
+  "convocados_sin_jugar_local": [
+    "DOS SANTOS VALDERRAMA, FERNANDO",
+    "PONZETTI, LUCAS ARIEL",
+    "BATIS EL ASRI, SOLEIMAN",
+    "SANTISO MOSQUERA, MIGUEL ANGEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GONZÁLEZ CUELLAR, FRANCISCO",
+    "PIRES PEREIRA, MARCERONE",
+    "ROCHA DA PAZ, EDSON",
+    "SANCHEZ SERRANO, FRANCISCO",
+    "MIER DIAZ, JOSE"
+  ],
+  "jugadores_local": [
+    "DUQUE LEON, VICENTE ANTONIO",
+    "ARIÑO CASTILLO, NICOLAS",
+    "ARAUJO CARDOSO, MARCIEL",
+    "PIRES PEREIRA, MARCIEL",
+    "GOMES ABREU DO NASCIMENTO, PEDRO LUCAS"
+  ],
+  "jugadores_visitante": [
+    "CAMACHO GONZALEZ, FRANCISCO JAVIER",
+    "MARQUES ARAUJO, JOAO MARCOS",
+    "CALDAS ARAUJO, WILLIAN",
+    "OLIVEIRA DA SILVA, GERLAN",
+    "HERNANDEZ MACIAS, BRIAN"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "DUQUE LEON, VICENTE ANTONIO": 90,
+    "ARIÑO CASTILLO, NICOLAS": 90,
+    "ARAUJO CARDOSO, MARCIEL": 90,
+    "PIRES PEREIRA, MARCIEL": 90,
+    "GOMES ABREU DO NASCIMENTO, PEDRO LUCAS": 90,
+    "CAMACHO GONZALEZ, FRANCISCO JAVIER": 90,
+    "MARQUES ARAUJO, JOAO MARCOS": 90,
+    "CALDAS ARAUJO, WILLIAN": 90,
+    "OLIVEIRA DA SILVA, GERLAN": 90,
+    "HERNANDEZ MACIAS, BRIAN": 90
+  },
+  "portero_local": "DUQUE LEON, VICENTE ANTONIO",
+  "portero_visitante": "CAMACHO GONZALEZ, FRANCISCO JAVIER",
+  "dorsales_local": {
+    "DUQUE LEON, VICENTE ANTONIO": 1,
+    "ARIÑO CASTILLO, NICOLAS": 11,
+    "ARAUJO CARDOSO, MARCIEL": 14,
+    "PIRES PEREIRA, MARCIEL": 17,
+    "GOMES ABREU DO NASCIMENTO, PEDRO LUCAS": 18
+  },
+  "dorsales_visitante": {
+    "CAMACHO GONZALEZ, FRANCISCO JAVIER": 13,
+    "MARQUES ARAUJO, JOAO MARCOS": 2,
+    "CALDAS ARAUJO, WILLIAN": 11,
+    "OLIVEIRA DA SILVA, GERLAN": 17,
+    "HERNANDEZ MACIAS, BRIAN": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
