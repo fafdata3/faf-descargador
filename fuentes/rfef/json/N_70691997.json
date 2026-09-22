@@ -1,0 +1,349 @@
+{
+  "acta_id": "N_70691997",
+  "filename": "Acta_N_70691997.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "22-06-2026",
+  "hora": "11:00",
+  "categoria": "Campeonato de Selecciones Autonómicas de Futbol Playa SUB-20 femenino (GRUPO A)",
+  "equipo_local": "SELECCIÓN CATALANA",
+  "equipo_visitante": "SELECCIO VALENCIANA",
+  "goles_local": 5,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "CAMACHO ELVIRA, DANIEL JESÚS",
+    "ÁRBITRO 2",
+    "MARTÍNEZ IBÁÑEZ, ALEJANDRO",
+    "TERCER ÁRBITRO",
+    "ARANDA ZAYAS, JOSE MIGUEL",
+    "CRONOMETRADOR",
+    "HIDALGO MÁRQUEZ, CARLOS"
+  ],
+  "estadio": "ROTA",
+  "ciudad": "Rota",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "CASADÓ PUIG, XÈNIA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "RODRIGUEZ ANGERER, LARA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "SANCHEZ BAS, AINARA",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "CARRASCOSA GASCON, YANIRA",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "MIROSA BEUTER, JANA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "SORLI DECABO, SONIA",
+      "equipo": "?",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 18,
+      "jugador": "ALVAREZ OLIVELLA, MARTINA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "SANCHEZ BAS, AINARA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "SELECCIÓN CATALANA :",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "EN EL MINUTO 18 LA JUGADORA (5) ALVAREZ OLIVELLA, MARTINA FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR DERRIBAR DE FORMA TEMERARIA A UN CONTRARIO EN LA DISPUTA DEL BALÓN.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "SELECCIO VALENCIANA :",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "EN EL MINUTO 34 LA JUGADORA (3) SANCHEZ BAS, AINARA FUE AMONESTADA POR EL SIGUIENTE MOTIVO: POR DERRIBAR DE FORMA TEMERARIA A UN CONTRARIO EN LA DISPUTA DEL BALÓN.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "SELECCIÓN CATALANA:",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "PRESENTA LAS SIGUIENTES LICENCIAS DE TÉCNICOS:",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "- JAVIER REYES SEDEÑO - 53026789 (ENTRENADOR)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "- MONICA ARIAS - XXXXX (AUXILIAR)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "- CARLOS NANAS - XXXXX (AUXILIAR)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "- IVAN VILLA - XXXXX (FISIO)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "SELECCIÓN VALENCIANA:",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "PRESENTA LAS SIGUIENTES LICENCIAS DE TÉCNICOS:",
+      "equipo": "?",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "-SELECCIONADORA: ALEXANDRA FERNÁNDEZ MOYA XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "-AYUDANTE SELECCIONADORA: SILVIA HERNÁNDEZ SERRA XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "-PREPARADOR FÍSICO: DIEGO CAPAPÉ ORTEGA XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "-DELEGADO: JOSÉ L. MENGUAL MARTÍNEZ XXXXX -FISIOTERAPEUTA: ROBERTO NACHER CHIRIVELLA XXXXX",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "NORMAL",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "NINGUNA",
+      "equipo": "?",
+      "tipo": "post_expulsion",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "CASADÓ PUIG, XÈNIA",
+    "LOPEZ JIMENEZ, MARIA",
+    "RODRIGUEZ ANGERER, LARA",
+    "MIROSA BEUTER, JANA",
+    "ÁLVAREZ FELIPE, NOELIA"
+  ],
+  "titulares_visitante": [
+    "URIOS RAS, VERONICA",
+    "REVERT JIMENEZ, MARIA MAXIMILIANA",
+    "GALLEGO MUÑOZ, EDURNE",
+    "GONZALEZ RUBIO, MARTA",
+    "BOU FERRANDO, CLAUDIA"
+  ],
+  "suplentes_local": [
+    "SILLERO GUZMÁN, NEREA",
+    "CANTILLO VIDAL, PALOMA",
+    "CARRASCOSA GASCON, YANIRA",
+    "ALVAREZ OLIVELLA, MARTINA",
+    "CARRASCOSA GASCÓN, AINA",
+    "SORLI DECABO, SONIA",
+    "FERNANDEZ GOMEZ, EMMA"
+  ],
+  "suplentes_visitante": [
+    "PINILLA MIRA, ESTELA",
+    "BUEDO DAHM, LAURA MATHILDE",
+    "SANCHEZ BAS, AINARA",
+    "MARCO MOLINA, NURIA",
+    "BENITO PASTOR, CRISTINA",
+    "GARCIA CRUZ, NEREA",
+    "RODRÍGUEZ ATENCIA, CLAUDIA"
+  ],
+  "convocados_sin_jugar_local": [
+    "SILLERO GUZMÁN, NEREA",
+    "CANTILLO VIDAL, PALOMA",
+    "CARRASCOSA GASCON, YANIRA",
+    "ALVAREZ OLIVELLA, MARTINA",
+    "CARRASCOSA GASCÓN, AINA",
+    "SORLI DECABO, SONIA",
+    "FERNANDEZ GOMEZ, EMMA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PINILLA MIRA, ESTELA",
+    "BUEDO DAHM, LAURA MATHILDE",
+    "SANCHEZ BAS, AINARA",
+    "MARCO MOLINA, NURIA",
+    "BENITO PASTOR, CRISTINA",
+    "GARCIA CRUZ, NEREA",
+    "RODRÍGUEZ ATENCIA, CLAUDIA"
+  ],
+  "jugadores_local": [
+    "CASADÓ PUIG, XÈNIA",
+    "LOPEZ JIMENEZ, MARIA",
+    "RODRIGUEZ ANGERER, LARA",
+    "MIROSA BEUTER, JANA",
+    "ÁLVAREZ FELIPE, NOELIA"
+  ],
+  "jugadores_visitante": [
+    "URIOS RAS, VERONICA",
+    "REVERT JIMENEZ, MARIA MAXIMILIANA",
+    "GALLEGO MUÑOZ, EDURNE",
+    "GONZALEZ RUBIO, MARTA",
+    "BOU FERRANDO, CLAUDIA"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "CASADÓ PUIG, XÈNIA": 90,
+    "LOPEZ JIMENEZ, MARIA": 90,
+    "RODRIGUEZ ANGERER, LARA": 90,
+    "MIROSA BEUTER, JANA": 90,
+    "ÁLVAREZ FELIPE, NOELIA": 90,
+    "URIOS RAS, VERONICA": 90,
+    "REVERT JIMENEZ, MARIA MAXIMILIANA": 90,
+    "GALLEGO MUÑOZ, EDURNE": 90,
+    "GONZALEZ RUBIO, MARTA": 90,
+    "BOU FERRANDO, CLAUDIA": 90
+  },
+  "portero_local": "CASADÓ PUIG, XÈNIA",
+  "portero_visitante": "URIOS RAS, VERONICA",
+  "dorsales_local": {
+    "CASADÓ PUIG, XÈNIA": 1,
+    "LOPEZ JIMENEZ, MARIA": 4,
+    "RODRIGUEZ ANGERER, LARA": 9,
+    "MIROSA BEUTER, JANA": 10,
+    "ÁLVAREZ FELIPE, NOELIA": 11
+  },
+  "dorsales_visitante": {
+    "URIOS RAS, VERONICA": 1,
+    "REVERT JIMENEZ, MARIA MAXIMILIANA": 4,
+    "GALLEGO MUÑOZ, EDURNE": 5,
+    "GONZALEZ RUBIO, MARTA": 10,
+    "BOU FERRANDO, CLAUDIA": 11
+  },
+  "suspendidos": [
+    "NINGUNA",
+    "PRESENTA LAS SIGUIENTES LICENCIAS DE TÉCNICOS:"
+  ],
+  "_marcador_widget": true
+}
