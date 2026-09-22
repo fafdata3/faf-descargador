@@ -1,0 +1,198 @@
+{
+  "acta_id": "N_70692118",
+  "filename": "Acta_N_70692118.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "27-06-2026",
+  "hora": "12:00",
+  "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Cadete Masculino (GRUPO B)",
+  "equipo_local": "SELECCIÓN CANARIA",
+  "equipo_visitante": "SELECCIÓN CÁNTABRA",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "GALAN CAYADO, ALICIA",
+    "ÁRBITRO 2",
+    "CARTES BURGOS, RUBÉN",
+    "TERCER ÁRBITRO",
+    "RODRÍGUEZ TAVÍO, CÁNDIDO JESÚS",
+    "CRONOMETRADOR",
+    "VELASCO FUENTES, JUAN"
+  ],
+  "estadio": "ROTA",
+  "ciudad": "Rota",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "MARTÍNEZ MADRAZO, ANDREA",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 5,
+      "jugador": "JIMENEZ NIÑO, DAVID",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "MEDINA GONZALEZ, BRUNO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "DIAZ ALPISTE, SAMUEL",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "GARCIA TARANO, BRAYAN",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "MARTÍNEZ MADRAZO, ANDREA",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 10,
+      "jugador": "SALAZAR TRUJILLO, ISAAC",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 11,
+      "jugador": "TAPIA HERNANDEZ, EDEY",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 17,
+      "jugador": "PEREZ GONZALEZ, JOEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 21,
+      "jugador": "MARTIN PADRON, OSCAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "AVILA AFONSO, NESTOR JESUS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "VERA SORIA, OSCAR DANIEL",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "TAPIA HERNANDEZ, EDEY",
+    "LEON PEREZ, AIRAN",
+    "RODRIGUEZ GONZALEZ, ANTONIO",
+    "ABRANTE GARCIA, ISMAEL",
+    "PEREZ GONZALEZ, JOEL"
+  ],
+  "titulares_visitante": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "ABAD BECERRA, ALEX",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "JIMENEZ NIÑO, DAVID",
+    "CAMPELO MARTINEZ, PABLO"
+  ],
+  "suplentes_local": [
+    "MARIN FLOREZ, EMANUEL",
+    "FLORES PEREZ, SAMUEL ALEJANDRO",
+    "MARTIN PADRON, OSCAR",
+    "MEDINA GONZALEZ, BRUNO",
+    "SILVA BANDE, ALEJO NATANAEL",
+    "SALAZAR TRUJILLO, ISAAC",
+    "MARTIN GONZALEZ, PABLO"
+  ],
+  "suplentes_visitante": [
+    "RUIZ FERNANDEZ, MARTIN",
+    "CAÑARTE SOTO, UNAI",
+    "GARCIA TARANO, BRAYAN",
+    "COBO HERRERA, PABLO",
+    "DIAZ ALPISTE, SAMUEL",
+    "LOPEZ ARJONA, DANIEL THERA",
+    "MAZA CIEZA, RUBEN"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARIN FLOREZ, EMANUEL",
+    "FLORES PEREZ, SAMUEL ALEJANDRO",
+    "MARTIN PADRON, OSCAR",
+    "MEDINA GONZALEZ, BRUNO",
+    "SILVA BANDE, ALEJO NATANAEL",
+    "SALAZAR TRUJILLO, ISAAC",
+    "MARTIN GONZALEZ, PABLO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "RUIZ FERNANDEZ, MARTIN",
+    "CAÑARTE SOTO, UNAI",
+    "GARCIA TARANO, BRAYAN",
+    "COBO HERRERA, PABLO",
+    "DIAZ ALPISTE, SAMUEL",
+    "LOPEZ ARJONA, DANIEL THERA",
+    "MAZA CIEZA, RUBEN"
+  ],
+  "jugadores_local": [
+    "TAPIA HERNANDEZ, EDEY",
+    "LEON PEREZ, AIRAN",
+    "RODRIGUEZ GONZALEZ, ANTONIO",
+    "ABRANTE GARCIA, ISMAEL",
+    "PEREZ GONZALEZ, JOEL"
+  ],
+  "jugadores_visitante": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "ABAD BECERRA, ALEX",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "JIMENEZ NIÑO, DAVID",
+    "CAMPELO MARTINEZ, PABLO"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "TAPIA HERNANDEZ, EDEY": 90,
+    "LEON PEREZ, AIRAN": 90,
+    "RODRIGUEZ GONZALEZ, ANTONIO": 90,
+    "ABRANTE GARCIA, ISMAEL": 90,
+    "PEREZ GONZALEZ, JOEL": 90,
+    "LEBEÑA RODRIGUEZ, ADRIAN": 90,
+    "ABAD BECERRA, ALEX": 90,
+    "MARTÍNEZ MADRAZO, ANDREA": 90,
+    "JIMENEZ NIÑO, DAVID": 90,
+    "CAMPELO MARTINEZ, PABLO": 90
+  },
+  "portero_local": "TAPIA HERNANDEZ, EDEY",
+  "portero_visitante": "LEBEÑA RODRIGUEZ, ADRIAN",
+  "dorsales_local": {
+    "TAPIA HERNANDEZ, EDEY": 1,
+    "LEON PEREZ, AIRAN": 5,
+    "RODRIGUEZ GONZALEZ, ANTONIO": 6,
+    "ABRANTE GARCIA, ISMAEL": 7,
+    "PEREZ GONZALEZ, JOEL": 9
+  },
+  "dorsales_visitante": {
+    "LEBEÑA RODRIGUEZ, ADRIAN": 1,
+    "ABAD BECERRA, ALEX": 6,
+    "MARTÍNEZ MADRAZO, ANDREA": 7,
+    "JIMENEZ NIÑO, DAVID": 9,
+    "CAMPELO MARTINEZ, PABLO": 11
+  },
+  "suspendidos": []
+}
