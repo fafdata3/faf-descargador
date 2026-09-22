@@ -1,0 +1,282 @@
+{
+  "acta_id": "10053507",
+  "filename": "Acta_10053507.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "20-09-2026",
+  "hora": "10:00",
+  "categoria": "CADETE DE HONOR / KADETEEN OHOREZKO MAILA (GRUPO - 1)",
+  "equipo_local": "ELPROEX ETXEZARRA",
+  "equipo_visitante": "BETOÑO, CD B",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "Lasagabaster Samaniego , Adrián"
+  ],
+  "estadio": "ARIZNABARRA",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "GAÑAN HIDALGO, ANDER",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "GORROCHATEGUI SUSO, IRAITZ",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 53,
+      "jugador": "BORRELL GONZALEZ, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "UGARABE RUIZ DE GAONA, OINATZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "BETOÑO, CD B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "ALTUNA ORTEGA, CEDRICK",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ARBERAS ARRIBAS, UNAI",
+  "entrenador_visitante": "GARCIA VALIENTE, ANDONI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "PASTOR ARGOTE, IBAI",
+  "delegado_campo_local": "TELLERIA IRAZUSTA, BEÑAT",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ FERNANDEZ, JOSÉ MANUEL",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "BORRELL GONZALEZ, MARKEL",
+    "PAYO MBANG, LIONEL",
+    "ALONSO BECERRA, HUGO",
+    "ESPINOZA JAURI, MATHIAS GERAY",
+    "SAEZ DE ASTEASU HERRERO, IZEI",
+    "GAÑAN HIDALGO, ANDER",
+    "MIJANCOS LOPEZ, ALVARO",
+    "SOTO AZPIAZU, ADRIAN",
+    "FERNANDEZ FERNANDEZ, XABIER",
+    "LOPEZ RAMALLO, SAMUEL",
+    "GALAN CEREZO, JON"
+  ],
+  "titulares_visitante": [
+    "VINAGRET PASCUAL, MARKEL",
+    "APIÑANIZ ESTAVILLO, IKER",
+    "ALZOLA GONZALEZ DE ZARATE, IKER",
+    "HERNANDEZ MEDINA, EDER",
+    "RUIZ BONILLA, UNAX",
+    "MARTINEZ VAZQUEZ, IKER",
+    "BRAVO RIBEIRO, IBAI",
+    "MEANA BILBAO, EÑAUT",
+    "PALOMO LOPEZ DE TURISO, UNAX",
+    "ALTUNA ORTEGA, CEDRICK",
+    "ASARE AGYEIWAA, CLIFFORD KUSI"
+  ],
+  "suplentes_local": [
+    "DIEZ JORNA, LEO",
+    "FERNANDEZ DE GAMBOA GARCIA, MARIO",
+    "LOPEZ DE ABECHUCO GUTIERREZ, OIER",
+    "LOPEZ LARRAÑAGA, LUKEN",
+    "UGARABE RUIZ DE GAONA, OINATZ",
+    "NAVARRO ARGUIBAY, JOSEBA"
+  ],
+  "suplentes_visitante": [
+    "DIALLO DIALLO, ABDUL AZIZ",
+    "DE LEON MATOS, YEICOL-ENMANUEL",
+    "ARKAUTE PALOMO, MARKOS",
+    "ORTIZ DE ARRI MARTINEZ, JULEN",
+    "MONTERO LOPEZ-DAVALILLO, DAVID",
+    "MARTINEZ DE ILARDUYA BADIOLA, MIKEL",
+    "GORROCHATEGUI SUSO, IRAITZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "DIEZ JORNA, LEO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ARKAUTE PALOMO, MARKOS"
+  ],
+  "jugadores_local": [
+    "BORRELL GONZALEZ, MARKEL",
+    "PAYO MBANG, LIONEL",
+    "ALONSO BECERRA, HUGO",
+    "ESPINOZA JAURI, MATHIAS GERAY",
+    "SAEZ DE ASTEASU HERRERO, IZEI",
+    "GAÑAN HIDALGO, ANDER",
+    "MIJANCOS LOPEZ, ALVARO",
+    "SOTO AZPIAZU, ADRIAN",
+    "FERNANDEZ FERNANDEZ, XABIER",
+    "LOPEZ RAMALLO, SAMUEL",
+    "GALAN CEREZO, JON",
+    "UGARABE RUIZ DE GAONA, OINATZ",
+    "NAVARRO ARGUIBAY, JOSEBA",
+    "LOPEZ DE ABECHUCO GUTIERREZ, OIER",
+    "FERNANDEZ DE GAMBOA GARCIA, MARIO",
+    "LOPEZ LARRAÑAGA, LUKEN"
+  ],
+  "jugadores_visitante": [
+    "VINAGRET PASCUAL, MARKEL",
+    "APIÑANIZ ESTAVILLO, IKER",
+    "ALZOLA GONZALEZ DE ZARATE, IKER",
+    "HERNANDEZ MEDINA, EDER",
+    "RUIZ BONILLA, UNAX",
+    "MARTINEZ VAZQUEZ, IKER",
+    "BRAVO RIBEIRO, IBAI",
+    "MEANA BILBAO, EÑAUT",
+    "PALOMO LOPEZ DE TURISO, UNAX",
+    "ALTUNA ORTEGA, CEDRICK",
+    "ASARE AGYEIWAA, CLIFFORD KUSI",
+    "GORROCHATEGUI SUSO, IRAITZ",
+    "MARTINEZ DE ILARDUYA BADIOLA, MIKEL",
+    "DE LEON MATOS, YEICOL-ENMANUEL",
+    "DIALLO DIALLO, ABDUL AZIZ",
+    "ORTIZ DE ARRI MARTINEZ, JULEN",
+    "MONTERO LOPEZ-DAVALILLO, DAVID"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "UGARABE RUIZ DE GAONA, OINATZ",
+      "sale": "NAVARRO ARGUIBAY, JOSEBA"
+    },
+    {
+      "min": 40,
+      "entra": "NAVARRO ARGUIBAY, JOSEBA",
+      "sale": "ALONSO BECERRA, HUGO"
+    },
+    {
+      "min": 46,
+      "entra": "LOPEZ DE ABECHUCO GUTIERREZ, OIER",
+      "sale": "GALAN CEREZO, JON"
+    },
+    {
+      "min": 50,
+      "entra": "FERNANDEZ DE GAMBOA GARCIA, MARIO",
+      "sale": "ESPINOZA JAURI, MATHIAS GERAY"
+    },
+    {
+      "min": 60,
+      "entra": "LOPEZ LARRAÑAGA, LUKEN",
+      "sale": "SAEZ DE ASTEASU HERRERO, IZEI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GORROCHATEGUI SUSO, IRAITZ",
+      "sale": "MARTINEZ VAZQUEZ, IKER"
+    },
+    {
+      "min": 40,
+      "entra": "MARTINEZ DE ILARDUYA BADIOLA, MIKEL",
+      "sale": "BRAVO RIBEIRO, IBAI"
+    },
+    {
+      "min": 50,
+      "entra": "DE LEON MATOS, YEICOL-ENMANUEL",
+      "sale": "PALOMO LOPEZ DE TURISO, UNAX"
+    },
+    {
+      "min": 50,
+      "entra": "DIALLO DIALLO, ABDUL AZIZ",
+      "sale": "APIÑANIZ ESTAVILLO, IKER"
+    },
+    {
+      "min": 55,
+      "entra": "ORTIZ DE ARRI MARTINEZ, JULEN",
+      "sale": "HERNANDEZ MEDINA, EDER"
+    },
+    {
+      "min": 55,
+      "entra": "MONTERO LOPEZ-DAVALILLO, DAVID",
+      "sale": "MEANA BILBAO, EÑAUT"
+    }
+  ],
+  "minutos_jugadores": {
+    "BORRELL GONZALEZ, MARKEL": 90,
+    "PAYO MBANG, LIONEL": 90,
+    "ALONSO BECERRA, HUGO": 40,
+    "ESPINOZA JAURI, MATHIAS GERAY": 50,
+    "SAEZ DE ASTEASU HERRERO, IZEI": 60,
+    "GAÑAN HIDALGO, ANDER": 90,
+    "MIJANCOS LOPEZ, ALVARO": 90,
+    "SOTO AZPIAZU, ADRIAN": 90,
+    "FERNANDEZ FERNANDEZ, XABIER": 90,
+    "LOPEZ RAMALLO, SAMUEL": 90,
+    "GALAN CEREZO, JON": 46,
+    "NAVARRO ARGUIBAY, JOSEBA": 50,
+    "UGARABE RUIZ DE GAONA, OINATZ": 50,
+    "LOPEZ DE ABECHUCO GUTIERREZ, OIER": 44,
+    "FERNANDEZ DE GAMBOA GARCIA, MARIO": 40,
+    "LOPEZ LARRAÑAGA, LUKEN": 30,
+    "VINAGRET PASCUAL, MARKEL": 90,
+    "APIÑANIZ ESTAVILLO, IKER": 50,
+    "ALZOLA GONZALEZ DE ZARATE, IKER": 90,
+    "HERNANDEZ MEDINA, EDER": 55,
+    "RUIZ BONILLA, UNAX": 90,
+    "MARTINEZ VAZQUEZ, IKER": 40,
+    "BRAVO RIBEIRO, IBAI": 40,
+    "MEANA BILBAO, EÑAUT": 55,
+    "PALOMO LOPEZ DE TURISO, UNAX": 50,
+    "ALTUNA ORTEGA, CEDRICK": 90,
+    "ASARE AGYEIWAA, CLIFFORD KUSI": 90,
+    "GORROCHATEGUI SUSO, IRAITZ": 50,
+    "MARTINEZ DE ILARDUYA BADIOLA, MIKEL": 50,
+    "DE LEON MATOS, YEICOL-ENMANUEL": 40,
+    "DIALLO DIALLO, ABDUL AZIZ": 40,
+    "ORTIZ DE ARRI MARTINEZ, JULEN": 35,
+    "MONTERO LOPEZ-DAVALILLO, DAVID": 35
+  },
+  "portero_local": "BORRELL GONZALEZ, MARKEL",
+  "portero_visitante": "VINAGRET PASCUAL, MARKEL",
+  "dorsales_local": {
+    "BORRELL GONZALEZ, MARKEL": 13,
+    "PAYO MBANG, LIONEL": 4,
+    "ALONSO BECERRA, HUGO": 5,
+    "ESPINOZA JAURI, MATHIAS GERAY": 10,
+    "SAEZ DE ASTEASU HERRERO, IZEI": 11,
+    "GAÑAN HIDALGO, ANDER": 12,
+    "MIJANCOS LOPEZ, ALVARO": 14,
+    "SOTO AZPIAZU, ADRIAN": 16,
+    "FERNANDEZ FERNANDEZ, XABIER": 17,
+    "LOPEZ RAMALLO, SAMUEL": 18,
+    "GALAN CEREZO, JON": 20
+  },
+  "dorsales_visitante": {
+    "VINAGRET PASCUAL, MARKEL": 1,
+    "APIÑANIZ ESTAVILLO, IKER": 3,
+    "ALZOLA GONZALEZ DE ZARATE, IKER": 4,
+    "HERNANDEZ MEDINA, EDER": 5,
+    "RUIZ BONILLA, UNAX": 6,
+    "MARTINEZ VAZQUEZ, IKER": 8,
+    "BRAVO RIBEIRO, IBAI": 9,
+    "MEANA BILBAO, EÑAUT": 10,
+    "PALOMO LOPEZ DE TURISO, UNAX": 11,
+    "ALTUNA ORTEGA, CEDRICK": 24,
+    "ASARE AGYEIWAA, CLIFFORD KUSI": 27
+  },
+  "suspendidos": []
+}
