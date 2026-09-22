@@ -1,0 +1,262 @@
+{
+  "acta_id": "R_253274",
+  "filename": "Acta_R_253274.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "18-10-2025",
+  "hora": "19:05",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "LAURUS Carnicería Dani A",
+  "equipo_visitante": "SAN MARCIAL",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "AMGHITEN GHARAFI, IYAD"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 7 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "JIMENEZ PABLO, BRUNO",
+      "equipo": "local",
+      "propia": true
+    },
+    {
+      "minuto": 33,
+      "jugador": "RODRIGUEZ MERINO, SERGIO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "GREGORIO LANDA, OSCAR",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 5,
+      "jugador": "FERNANDEZ ULLOA, SERGIO LEONEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 83,
+      "jugador": "GARCIA GOROSTIAGA, JULIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "RUIZ CALVO, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "SAN MARCIAL",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "AGUIRRE GONZALEZ, CARLOS",
+  "entrenador_visitante": "TORRES SOTO, LUIS MIGUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CUADRA ARROYO, SAUL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CUADRA ARROYO, SAUL",
+  "delegado_equipo_visitante": "AQUESOLO GARCIA, JUAN I",
+  "titulares_local": [
+    "VEGA CARVAJAL, RENATO ARITZ",
+    "VERGARA VERDE, ALVARO",
+    "RODRIGUEZ MERINO, SERGIO",
+    "NESTARES LOPEZ, VICTOR",
+    "PASCUAL ZORZANO, JORGE",
+    "VILLOTA SANCHO, MARCOS",
+    "ALONSO PEREZ, MARCOS",
+    "CUEZVA CRESPO, MARCOS",
+    "OYORO, YVAN SAMUEL",
+    "OJEDA GARCIA M, MARCO",
+    "FERNANDEZ ULLOA, SERGIO LEONEL"
+  ],
+  "titulares_visitante": [
+    "STEVEN CARASA, GONZALO",
+    "HERNANDEZ SANCHEZ, ALEJANDRO",
+    "JIMENEZ PABLO, BRUNO",
+    "BRIONES BONILLA, ALEJANDRO",
+    "BENITO MARTINEZ, KEVIN",
+    "BLANCO GONZALO, OSCAR",
+    "LANGARICA PALACIOS, JAVIER",
+    "GREGORIO LANDA, OSCAR",
+    "ESCRICH NAZAR, MANUEL",
+    "HERNANDO NAJERA, LUCAS",
+    "KONJEVIC DELIC, AIDIN"
+  ],
+  "suplentes_local": [
+    "GARCIA GOROSTIAGA, JULIAN",
+    "RUIZ CALVO, DANIEL",
+    "PRIETO MARTINEZ, ESTEBAN"
+  ],
+  "suplentes_visitante": [
+    "BAYO RIOJA, JORGE",
+    "GONZALEZ MORENO, KEVIN",
+    "CARPINTERO PARRA, IMANOL",
+    "KHAY AKASRI, ADAM",
+    "GOMEZ GAME, ELIAN ALEJANDRO",
+    "VELASCO VELASCO, ADRIAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "GOMEZ GAME, ELIAN ALEJANDRO"
+  ],
+  "jugadores_local": [
+    "VEGA CARVAJAL, RENATO ARITZ",
+    "VERGARA VERDE, ALVARO",
+    "RODRIGUEZ MERINO, SERGIO",
+    "NESTARES LOPEZ, VICTOR",
+    "PASCUAL ZORZANO, JORGE",
+    "VILLOTA SANCHO, MARCOS",
+    "ALONSO PEREZ, MARCOS",
+    "CUEZVA CRESPO, MARCOS",
+    "OYORO, YVAN SAMUEL",
+    "OJEDA GARCIA M, MARCO",
+    "FERNANDEZ ULLOA, SERGIO LEONEL",
+    "RUIZ CALVO, DANIEL",
+    "GARCIA GOROSTIAGA, JULIAN",
+    "PRIETO MARTINEZ, ESTEBAN"
+  ],
+  "jugadores_visitante": [
+    "STEVEN CARASA, GONZALO",
+    "HERNANDEZ SANCHEZ, ALEJANDRO",
+    "JIMENEZ PABLO, BRUNO",
+    "BRIONES BONILLA, ALEJANDRO",
+    "BENITO MARTINEZ, KEVIN",
+    "BLANCO GONZALO, OSCAR",
+    "LANGARICA PALACIOS, JAVIER",
+    "GREGORIO LANDA, OSCAR",
+    "ESCRICH NAZAR, MANUEL",
+    "HERNANDO NAJERA, LUCAS",
+    "KONJEVIC DELIC, AIDIN",
+    "BAYO RIOJA, JORGE",
+    "GONZALEZ MORENO, KEVIN",
+    "VELASCO VELASCO, ADRIAN",
+    "KHAY AKASRI, ADAM",
+    "CARPINTERO PARRA, IMANOL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "RUIZ CALVO, DANIEL",
+      "sale": "FERNANDEZ ULLOA, SERGIO LEONEL"
+    },
+    {
+      "min": 78,
+      "entra": "GARCIA GOROSTIAGA, JULIAN",
+      "sale": "ALONSO PEREZ, MARCOS"
+    },
+    {
+      "min": 82,
+      "entra": "PRIETO MARTINEZ, ESTEBAN",
+      "sale": "PASCUAL ZORZANO, JORGE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 66,
+      "entra": "BAYO RIOJA, JORGE",
+      "sale": "HERNANDEZ SANCHEZ, ALEJANDRO"
+    },
+    {
+      "min": 66,
+      "entra": "GONZALEZ MORENO, KEVIN",
+      "sale": "HERNANDO NAJERA, LUCAS"
+    },
+    {
+      "min": 87,
+      "entra": "VELASCO VELASCO, ADRIAN",
+      "sale": "GREGORIO LANDA, OSCAR"
+    },
+    {
+      "min": 87,
+      "entra": "KHAY AKASRI, ADAM",
+      "sale": "KONJEVIC DELIC, AIDIN"
+    },
+    {
+      "min": 89,
+      "entra": "CARPINTERO PARRA, IMANOL",
+      "sale": "BRIONES BONILLA, ALEJANDRO"
+    }
+  ],
+  "minutos_jugadores": {
+    "VEGA CARVAJAL, RENATO ARITZ": 90,
+    "VERGARA VERDE, ALVARO": 90,
+    "RODRIGUEZ MERINO, SERGIO": 90,
+    "NESTARES LOPEZ, VICTOR": 90,
+    "PASCUAL ZORZANO, JORGE": 82,
+    "VILLOTA SANCHO, MARCOS": 90,
+    "ALONSO PEREZ, MARCOS": 78,
+    "CUEZVA CRESPO, MARCOS": 90,
+    "OYORO, YVAN SAMUEL": 90,
+    "OJEDA GARCIA M, MARCO": 90,
+    "FERNANDEZ ULLOA, SERGIO LEONEL": 60,
+    "RUIZ CALVO, DANIEL": 30,
+    "GARCIA GOROSTIAGA, JULIAN": 12,
+    "PRIETO MARTINEZ, ESTEBAN": 8,
+    "STEVEN CARASA, GONZALO": 90,
+    "HERNANDEZ SANCHEZ, ALEJANDRO": 66,
+    "JIMENEZ PABLO, BRUNO": 90,
+    "BRIONES BONILLA, ALEJANDRO": 89,
+    "BENITO MARTINEZ, KEVIN": 90,
+    "BLANCO GONZALO, OSCAR": 90,
+    "LANGARICA PALACIOS, JAVIER": 90,
+    "GREGORIO LANDA, OSCAR": 87,
+    "ESCRICH NAZAR, MANUEL": 90,
+    "HERNANDO NAJERA, LUCAS": 66,
+    "KONJEVIC DELIC, AIDIN": 87,
+    "BAYO RIOJA, JORGE": 24,
+    "GONZALEZ MORENO, KEVIN": 24,
+    "VELASCO VELASCO, ADRIAN": 3,
+    "KHAY AKASRI, ADAM": 3,
+    "CARPINTERO PARRA, IMANOL": 1
+  },
+  "portero_local": "VEGA CARVAJAL, RENATO ARITZ",
+  "portero_visitante": "STEVEN CARASA, GONZALO",
+  "dorsales_local": {
+    "VEGA CARVAJAL, RENATO ARITZ": 1,
+    "VERGARA VERDE, ALVARO": 2,
+    "RODRIGUEZ MERINO, SERGIO": 3,
+    "NESTARES LOPEZ, VICTOR": 4,
+    "PASCUAL ZORZANO, JORGE": 5,
+    "VILLOTA SANCHO, MARCOS": 6,
+    "ALONSO PEREZ, MARCOS": 7,
+    "CUEZVA CRESPO, MARCOS": 8,
+    "OYORO, YVAN SAMUEL": 9,
+    "OJEDA GARCIA M, MARCO": 10,
+    "FERNANDEZ ULLOA, SERGIO LEONEL": 11
+  },
+  "dorsales_visitante": {
+    "STEVEN CARASA, GONZALO": 13,
+    "HERNANDEZ SANCHEZ, ALEJANDRO": 2,
+    "JIMENEZ PABLO, BRUNO": 3,
+    "BRIONES BONILLA, ALEJANDRO": 4,
+    "BENITO MARTINEZ, KEVIN": 5,
+    "BLANCO GONZALO, OSCAR": 6,
+    "LANGARICA PALACIOS, JAVIER": 7,
+    "GREGORIO LANDA, OSCAR": 8,
+    "ESCRICH NAZAR, MANUEL": 9,
+    "HERNANDO NAJERA, LUCAS": 10,
+    "KONJEVIC DELIC, AIDIN": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
