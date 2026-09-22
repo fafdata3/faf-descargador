@@ -1,0 +1,187 @@
+{
+  "acta_id": "N_70692100",
+  "filename": "Acta_N_70692100.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "27-06-2026",
+  "hora": "11:00",
+  "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Infantil Masculino (GRUPO C)",
+  "equipo_local": "SELECCIÓN ANDALUZA",
+  "equipo_visitante": "SELECCIÓN COMUNIDAD VALENCIANA",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "SABIDO SERRANO, JOSE MANUEL",
+    "ÁRBITRO 2",
+    "ESCOBAR LÓPEZ, GAMALIEL",
+    "TERCER ÁRBITRO",
+    "ALFONSO VEGA, VÍCTOR MANUEL",
+    "CRONOMETRADOR",
+    "LAGARDERA VENTURA, JOSÉ LUIS"
+  ],
+  "estadio": "CHIPIONA",
+  "ciudad": "Chipiona",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "LÓPEZ NAVARRO, PABLO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 3,
+      "jugador": "TEJADA RODRIGUEZ, CRISTO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 6,
+      "jugador": "GUTIERREZ ALBA, SAULO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "TEJADA RODRIGUEZ, CRISTO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 20,
+      "jugador": "GUTIERREZ ALBA, SAULO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "GUTIERREZ ALBA, SAULO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "TEJADA RODRIGUEZ, CRISTO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "TEJADA RODRIGUEZ, CRISTO",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 6,
+      "jugador": "MALDONADO TORTOSA, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "TRUJILLO ROSADO, DAVID",
+    "RIVERO LOPEZ, FERNANDO",
+    "PEREZ FERNANDEZ, JOSE ALBERTO",
+    "SALAMANCA DURÁN, JORGE",
+    "TEJADA RODRIGUEZ, CRISTO"
+  ],
+  "titulares_visitante": [
+    "MARTINEZ RODRIGUEZ, JUAN",
+    "MALDONADO TORTOSA, PABLO",
+    "ALHAMBRA HERRANZ, DIEGO",
+    "LÓPEZ NAVARRO, PABLO",
+    "CALABUIG CANET, ENZO"
+  ],
+  "suplentes_local": [
+    "MARQUEZ CERPA, PEDRO",
+    "VEGA LOBON, MANUEL ALEJANDRO",
+    "CASTAÑEDA MUÑOZ, IKER",
+    "DOUAT TORRES, ZOEL DOMINIC",
+    "GARCIA MARTIN, IGNACIO JAVIER",
+    "GUTIERREZ ALBA, SAULO"
+  ],
+  "suplentes_visitante": [
+    "NAVARRO GRANELL, ALVARO",
+    "FAJARDO CHECA, JOSE",
+    "BAREA MARTI, MARCOS",
+    "CALABUIG CANET, HUGO",
+    "MOLINERO MORA, MARTIN",
+    "GIMENEZ DEL FRESNO, IZAN",
+    "CHICOY JUAREZ, GUILLERMO"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARQUEZ CERPA, PEDRO",
+    "VEGA LOBON, MANUEL ALEJANDRO",
+    "CASTAÑEDA MUÑOZ, IKER",
+    "DOUAT TORRES, ZOEL DOMINIC",
+    "GARCIA MARTIN, IGNACIO JAVIER",
+    "GUTIERREZ ALBA, SAULO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "NAVARRO GRANELL, ALVARO",
+    "FAJARDO CHECA, JOSE",
+    "BAREA MARTI, MARCOS",
+    "CALABUIG CANET, HUGO",
+    "MOLINERO MORA, MARTIN",
+    "GIMENEZ DEL FRESNO, IZAN",
+    "CHICOY JUAREZ, GUILLERMO"
+  ],
+  "jugadores_local": [
+    "TRUJILLO ROSADO, DAVID",
+    "RIVERO LOPEZ, FERNANDO",
+    "PEREZ FERNANDEZ, JOSE ALBERTO",
+    "SALAMANCA DURÁN, JORGE",
+    "TEJADA RODRIGUEZ, CRISTO"
+  ],
+  "jugadores_visitante": [
+    "MARTINEZ RODRIGUEZ, JUAN",
+    "MALDONADO TORTOSA, PABLO",
+    "ALHAMBRA HERRANZ, DIEGO",
+    "LÓPEZ NAVARRO, PABLO",
+    "CALABUIG CANET, ENZO"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "TRUJILLO ROSADO, DAVID": 90,
+    "RIVERO LOPEZ, FERNANDO": 90,
+    "PEREZ FERNANDEZ, JOSE ALBERTO": 90,
+    "SALAMANCA DURÁN, JORGE": 90,
+    "TEJADA RODRIGUEZ, CRISTO": 90,
+    "MARTINEZ RODRIGUEZ, JUAN": 90,
+    "MALDONADO TORTOSA, PABLO": 90,
+    "ALHAMBRA HERRANZ, DIEGO": 90,
+    "LÓPEZ NAVARRO, PABLO": 90,
+    "CALABUIG CANET, ENZO": 90
+  },
+  "portero_local": "TRUJILLO ROSADO, DAVID",
+  "portero_visitante": "MARTINEZ RODRIGUEZ, JUAN",
+  "dorsales_local": {
+    "TRUJILLO ROSADO, DAVID": 1,
+    "RIVERO LOPEZ, FERNANDO": 3,
+    "PEREZ FERNANDEZ, JOSE ALBERTO": 4,
+    "SALAMANCA DURÁN, JORGE": 5,
+    "TEJADA RODRIGUEZ, CRISTO": 10
+  },
+  "dorsales_visitante": {
+    "MARTINEZ RODRIGUEZ, JUAN": 13,
+    "MALDONADO TORTOSA, PABLO": 4,
+    "ALHAMBRA HERRANZ, DIEGO": 7,
+    "LÓPEZ NAVARRO, PABLO": 8,
+    "CALABUIG CANET, ENZO": 10
+  },
+  "suspendidos": []
+}
