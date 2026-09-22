@@ -1,0 +1,281 @@
+{
+  "acta_id": "R_253382",
+  "filename": "Acta_R_253382.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 7,
+  "fecha": "23-11-2025",
+  "hora": "11:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "LAURUS Edin Construcciones B",
+  "equipo_visitante": "ALFARO",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SAENZ VICIOSO, MANUEL"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 3 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "ARNEDILLO PUELLES, SERGIO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "PEREZ DULCE, ARITZ",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "EL ANZOUKI BOUDENE, SAFUAN",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "ADAMS GUARDIA, LASS",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "NEGRO CARBONELL, JOSE JAVIER",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 28,
+      "jugador": "PADIN DE LA CRUZ, DARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "ADAMS GUARDIA, LASS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "ALFARO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 25,
+      "jugador": "MECHACH AMMAR, MOHAMED C",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GHERA, CLAUDIU ALIN",
+  "entrenador_visitante": "VARGAS PEÑA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GODOY DURAN, NICOLAS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GODOY DURAN, NICOLAS",
+  "delegado_equipo_visitante": "RODRIGUEZ MUÑOZ, IVAN",
+  "titulares_local": [
+    "SANTO DOMINGO LOPEZ, YOEL",
+    "SUBERO GUTIERREZ, JULEN",
+    "ARNEDILLO PUELLES, SERGIO",
+    "ROMERO AGUDELO, DARWIN",
+    "PEREZ DULCE, ARITZ",
+    "BERRADRE JIMENEZ, SERGIO",
+    "ETXEBERRIA CHINCHETRU, JON",
+    "PADIN DE LA CRUZ, DARIO",
+    "ADAMS GUARDIA, LASS",
+    "JUSTINIANO SALVATIERRA, MIKEL",
+    "EL ANZOUKI BOUDENE, SAFUAN"
+  ],
+  "titulares_visitante": [
+    "ARNEDO GASPARRINI, GIOVANNI",
+    "MECHACH AMMAR, MOHAMED C",
+    "PEREZ PEREZ, YERAY",
+    "KENZI SEBBAR, MAROUANE",
+    "PRECIADO ZUBIETA, UNAI",
+    "QAJJIA OUMBARECH, ACHRAF",
+    "ARMIJOS LABANDA, ERIK A",
+    "GARCES TORRES, DERECK ANAEL",
+    "BENLOUKILIA KASMI, ZIAD",
+    "MOUTIK RAZKAOUI, DRISS",
+    "CHRIFI, ISHAAQ"
+  ],
+  "suplentes_local": [
+    "NEGRO CARBONELL, JOSE JAVIER",
+    "HERNANDEZ EL FAKIRI, ANUAR",
+    "MADORRAN NEGUERUELA, MARCO",
+    "ANSOTEGUI FERNANDEZ, JAVIER",
+    "GARCIA SAEZ, MIKEL",
+    "PEREIRA BRANISCAN, HUGO"
+  ],
+  "suplentes_visitante": [
+    "EL HAIRECH JRIFI, ELIAS",
+    "GARCIA SAINZ, DAVID",
+    "DELGADO GINES, BRYAN ENRIQUE",
+    "AZUAGA GARCIA, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "ANSOTEGUI FERNANDEZ, JAVIER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SANTO DOMINGO LOPEZ, YOEL",
+    "SUBERO GUTIERREZ, JULEN",
+    "ARNEDILLO PUELLES, SERGIO",
+    "ROMERO AGUDELO, DARWIN",
+    "PEREZ DULCE, ARITZ",
+    "BERRADRE JIMENEZ, SERGIO",
+    "ETXEBERRIA CHINCHETRU, JON",
+    "PADIN DE LA CRUZ, DARIO",
+    "ADAMS GUARDIA, LASS",
+    "JUSTINIANO SALVATIERRA, MIKEL",
+    "EL ANZOUKI BOUDENE, SAFUAN",
+    "MADORRAN NEGUERUELA, MARCO",
+    "HERNANDEZ EL FAKIRI, ANUAR",
+    "PEREIRA BRANISCAN, HUGO",
+    "NEGRO CARBONELL, JOSE JAVIER",
+    "GARCIA SAEZ, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "ARNEDO GASPARRINI, GIOVANNI",
+    "MECHACH AMMAR, MOHAMED C",
+    "PEREZ PEREZ, YERAY",
+    "KENZI SEBBAR, MAROUANE",
+    "PRECIADO ZUBIETA, UNAI",
+    "QAJJIA OUMBARECH, ACHRAF",
+    "ARMIJOS LABANDA, ERIK A",
+    "GARCES TORRES, DERECK ANAEL",
+    "BENLOUKILIA KASMI, ZIAD",
+    "MOUTIK RAZKAOUI, DRISS",
+    "CHRIFI, ISHAAQ",
+    "GARCIA SAINZ, DAVID",
+    "DELGADO GINES, BRYAN ENRIQUE",
+    "EL HAIRECH JRIFI, ELIAS",
+    "AZUAGA GARCIA, JAVIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "MADORRAN NEGUERUELA, MARCO",
+      "sale": "BERRADRE JIMENEZ, SERGIO"
+    },
+    {
+      "min": 56,
+      "entra": "HERNANDEZ EL FAKIRI, ANUAR",
+      "sale": "ADAMS GUARDIA, LASS"
+    },
+    {
+      "min": 56,
+      "entra": "PEREIRA BRANISCAN, HUGO",
+      "sale": "PEREZ DULCE, ARITZ"
+    },
+    {
+      "min": 60,
+      "entra": "NEGRO CARBONELL, JOSE JAVIER",
+      "sale": "JUSTINIANO SALVATIERRA, MIKEL"
+    },
+    {
+      "min": 71,
+      "entra": "GARCIA SAEZ, MIKEL",
+      "sale": "EL ANZOUKI BOUDENE, SAFUAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "GARCIA SAINZ, DAVID",
+      "sale": "KENZI SEBBAR, MAROUANE"
+    },
+    {
+      "min": 71,
+      "entra": "DELGADO GINES, BRYAN ENRIQUE",
+      "sale": "BENLOUKILIA KASMI, ZIAD"
+    },
+    {
+      "min": 78,
+      "entra": "EL HAIRECH JRIFI, ELIAS",
+      "sale": "MOUTIK RAZKAOUI, DRISS"
+    },
+    {
+      "min": 82,
+      "entra": "AZUAGA GARCIA, JAVIER",
+      "sale": "MECHACH AMMAR, MOHAMED C"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANTO DOMINGO LOPEZ, YOEL": 90,
+    "SUBERO GUTIERREZ, JULEN": 90,
+    "ARNEDILLO PUELLES, SERGIO": 90,
+    "ROMERO AGUDELO, DARWIN": 90,
+    "PEREZ DULCE, ARITZ": 56,
+    "BERRADRE JIMENEZ, SERGIO": 46,
+    "ETXEBERRIA CHINCHETRU, JON": 90,
+    "PADIN DE LA CRUZ, DARIO": 90,
+    "ADAMS GUARDIA, LASS": 56,
+    "JUSTINIANO SALVATIERRA, MIKEL": 60,
+    "EL ANZOUKI BOUDENE, SAFUAN": 71,
+    "MADORRAN NEGUERUELA, MARCO": 44,
+    "HERNANDEZ EL FAKIRI, ANUAR": 34,
+    "PEREIRA BRANISCAN, HUGO": 34,
+    "NEGRO CARBONELL, JOSE JAVIER": 30,
+    "GARCIA SAEZ, MIKEL": 19,
+    "ARNEDO GASPARRINI, GIOVANNI": 90,
+    "MECHACH AMMAR, MOHAMED C": 82,
+    "PEREZ PEREZ, YERAY": 90,
+    "KENZI SEBBAR, MAROUANE": 46,
+    "PRECIADO ZUBIETA, UNAI": 90,
+    "QAJJIA OUMBARECH, ACHRAF": 90,
+    "ARMIJOS LABANDA, ERIK A": 90,
+    "GARCES TORRES, DERECK ANAEL": 90,
+    "BENLOUKILIA KASMI, ZIAD": 71,
+    "MOUTIK RAZKAOUI, DRISS": 78,
+    "CHRIFI, ISHAAQ": 90,
+    "GARCIA SAINZ, DAVID": 44,
+    "DELGADO GINES, BRYAN ENRIQUE": 19,
+    "EL HAIRECH JRIFI, ELIAS": 12,
+    "AZUAGA GARCIA, JAVIER": 8
+  },
+  "portero_local": "SANTO DOMINGO LOPEZ, YOEL",
+  "portero_visitante": "ARNEDO GASPARRINI, GIOVANNI",
+  "dorsales_local": {
+    "SANTO DOMINGO LOPEZ, YOEL": 13,
+    "SUBERO GUTIERREZ, JULEN": 2,
+    "ARNEDILLO PUELLES, SERGIO": 4,
+    "ROMERO AGUDELO, DARWIN": 5,
+    "PEREZ DULCE, ARITZ": 8,
+    "BERRADRE JIMENEZ, SERGIO": 10,
+    "ETXEBERRIA CHINCHETRU, JON": 11,
+    "PADIN DE LA CRUZ, DARIO": 15,
+    "ADAMS GUARDIA, LASS": 17,
+    "JUSTINIANO SALVATIERRA, MIKEL": 18,
+    "EL ANZOUKI BOUDENE, SAFUAN": 35
+  },
+  "dorsales_visitante": {
+    "ARNEDO GASPARRINI, GIOVANNI": 13,
+    "MECHACH AMMAR, MOHAMED C": 4,
+    "PEREZ PEREZ, YERAY": 6,
+    "KENZI SEBBAR, MAROUANE": 7,
+    "PRECIADO ZUBIETA, UNAI": 9,
+    "QAJJIA OUMBARECH, ACHRAF": 11,
+    "ARMIJOS LABANDA, ERIK A": 12,
+    "GARCES TORRES, DERECK ANAEL": 14,
+    "BENLOUKILIA KASMI, ZIAD": 19,
+    "MOUTIK RAZKAOUI, DRISS": 22,
+    "CHRIFI, ISHAAQ": 23
+  },
+  "suspendidos": []
+}
