@@ -1,0 +1,235 @@
+{
+  "acta_id": "R_253308",
+  "filename": "Acta_R_253308.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 10,
+  "fecha": "21-12-2025",
+  "hora": "11:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 1)",
+  "equipo_local": "MARISTAS",
+  "equipo_visitante": "LAURUS Carnicería Dani A",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "TORROBA BALDUZ, MARK"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 2 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 63,
+      "jugador": "OJEDA GARCIA M, MARCO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "RUIZ CALVO, DANIEL",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "OJEDA GARCIA M, MARCO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 87,
+      "jugador": "OYORO, YVAN SAMUEL",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 29,
+      "jugador": "BARRIO MURILLO, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 29,
+      "jugador": "LAURUS Carnicería Dani A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CENICEROS EIBAR, ADRIAN",
+  "entrenador_visitante": "AGUIRRE GONZALEZ, CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "VILLOSLADA JOVEN, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VILLOSLADA JOVEN, DANIEL",
+  "delegado_equipo_visitante": "CUADRA ARROYO, SAUL",
+  "titulares_local": [
+    "MARTINEZ REINARES, ALEJANDRO",
+    "DIEZ NIETO, DIEGO",
+    "BARROS PECIÑA, ALEJANDRO",
+    "MAESTRA BLANCO, ANDRES",
+    "CAPILLA RODRIGUEZ, LUCAS",
+    "GONZALEZ PEREZ, NOAH",
+    "MURUGARREN BERNAL, HUGO",
+    "SANCHES FELIZ, MARIO",
+    "MARZO CIORDIA, ERIK",
+    "BARRIO MURILLO, ALEJANDRO",
+    "YARHUI SALVA, JOEL"
+  ],
+  "titulares_visitante": [
+    "VEGA CARVAJAL, RENATO ARITZ",
+    "RUIZ CALVO, DANIEL",
+    "NESTARES LOPEZ, VICTOR",
+    "VILLOTA SANCHO, MARCOS",
+    "ALONSO PEREZ, MARCOS",
+    "OYORO, YVAN SAMUEL",
+    "OJEDA GARCIA M, MARCO",
+    "FERNANDEZ ULLOA, SERGIO LEONEL",
+    "RODRIGUEZ MERINO, SERGIO",
+    "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN",
+    "CUEZVA CRESPO, MARCOS"
+  ],
+  "suplentes_local": [
+    "DIEZ PASCUAL, JUAN",
+    "SAGREDO CHASCO, LUCAS",
+    "RUDIEZ PASCUAL, IKER"
+  ],
+  "suplentes_visitante": [
+    "NZEZA DIAKANUA, FEDOR",
+    "JAVAID KANWAL, MUHAMMAD FAIZAN",
+    "TORRES MICUE, VALENTIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MARTINEZ REINARES, ALEJANDRO",
+    "DIEZ NIETO, DIEGO",
+    "BARROS PECIÑA, ALEJANDRO",
+    "MAESTRA BLANCO, ANDRES",
+    "CAPILLA RODRIGUEZ, LUCAS",
+    "GONZALEZ PEREZ, NOAH",
+    "MURUGARREN BERNAL, HUGO",
+    "SANCHES FELIZ, MARIO",
+    "MARZO CIORDIA, ERIK",
+    "BARRIO MURILLO, ALEJANDRO",
+    "YARHUI SALVA, JOEL",
+    "DIEZ PASCUAL, JUAN",
+    "SAGREDO CHASCO, LUCAS",
+    "RUDIEZ PASCUAL, IKER"
+  ],
+  "jugadores_visitante": [
+    "VEGA CARVAJAL, RENATO ARITZ",
+    "RUIZ CALVO, DANIEL",
+    "NESTARES LOPEZ, VICTOR",
+    "VILLOTA SANCHO, MARCOS",
+    "ALONSO PEREZ, MARCOS",
+    "OYORO, YVAN SAMUEL",
+    "OJEDA GARCIA M, MARCO",
+    "FERNANDEZ ULLOA, SERGIO LEONEL",
+    "RODRIGUEZ MERINO, SERGIO",
+    "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN",
+    "CUEZVA CRESPO, MARCOS",
+    "JAVAID KANWAL, MUHAMMAD FAIZAN",
+    "TORRES MICUE, VALENTIN",
+    "NZEZA DIAKANUA, FEDOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "DIEZ PASCUAL, JUAN",
+      "sale": "YARHUI SALVA, JOEL"
+    },
+    {
+      "min": 52,
+      "entra": "SAGREDO CHASCO, LUCAS",
+      "sale": "MURUGARREN BERNAL, HUGO"
+    },
+    {
+      "min": 78,
+      "entra": "RUDIEZ PASCUAL, IKER",
+      "sale": "DIEZ NIETO, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "JAVAID KANWAL, MUHAMMAD FAIZAN",
+      "sale": "NESTARES LOPEZ, VICTOR"
+    },
+    {
+      "min": 72,
+      "entra": "TORRES MICUE, VALENTIN",
+      "sale": "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN"
+    },
+    {
+      "min": 81,
+      "entra": "NZEZA DIAKANUA, FEDOR",
+      "sale": "OJEDA GARCIA M, MARCO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTINEZ REINARES, ALEJANDRO": 90,
+    "DIEZ NIETO, DIEGO": 78,
+    "BARROS PECIÑA, ALEJANDRO": 90,
+    "MAESTRA BLANCO, ANDRES": 90,
+    "CAPILLA RODRIGUEZ, LUCAS": 90,
+    "GONZALEZ PEREZ, NOAH": 90,
+    "MURUGARREN BERNAL, HUGO": 52,
+    "SANCHES FELIZ, MARIO": 90,
+    "MARZO CIORDIA, ERIK": 90,
+    "BARRIO MURILLO, ALEJANDRO": 90,
+    "YARHUI SALVA, JOEL": 45,
+    "DIEZ PASCUAL, JUAN": 45,
+    "SAGREDO CHASCO, LUCAS": 38,
+    "RUDIEZ PASCUAL, IKER": 12,
+    "VEGA CARVAJAL, RENATO ARITZ": 90,
+    "RUIZ CALVO, DANIEL": 90,
+    "NESTARES LOPEZ, VICTOR": 60,
+    "VILLOTA SANCHO, MARCOS": 90,
+    "ALONSO PEREZ, MARCOS": 90,
+    "OYORO, YVAN SAMUEL": 90,
+    "OJEDA GARCIA M, MARCO": 81,
+    "FERNANDEZ ULLOA, SERGIO LEONEL": 90,
+    "RODRIGUEZ MERINO, SERGIO": 90,
+    "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN": 72,
+    "CUEZVA CRESPO, MARCOS": 90,
+    "JAVAID KANWAL, MUHAMMAD FAIZAN": 30,
+    "TORRES MICUE, VALENTIN": 18,
+    "NZEZA DIAKANUA, FEDOR": 9
+  },
+  "portero_local": "MURUGARREN BERNAL, HUGO",
+  "portero_visitante": "VEGA CARVAJAL, RENATO ARITZ",
+  "dorsales_local": {
+    "MARTINEZ REINARES, ALEJANDRO": 25,
+    "DIEZ NIETO, DIEGO": 2,
+    "BARROS PECIÑA, ALEJANDRO": 6,
+    "MAESTRA BLANCO, ANDRES": 7,
+    "CAPILLA RODRIGUEZ, LUCAS": 8,
+    "GONZALEZ PEREZ, NOAH": 11,
+    "MURUGARREN BERNAL, HUGO": 13,
+    "SANCHES FELIZ, MARIO": 17,
+    "MARZO CIORDIA, ERIK": 18,
+    "BARRIO MURILLO, ALEJANDRO": 22,
+    "YARHUI SALVA, JOEL": 30
+  },
+  "dorsales_visitante": {
+    "VEGA CARVAJAL, RENATO ARITZ": 1,
+    "RUIZ CALVO, DANIEL": 3,
+    "NESTARES LOPEZ, VICTOR": 4,
+    "VILLOTA SANCHO, MARCOS": 6,
+    "ALONSO PEREZ, MARCOS": 7,
+    "OYORO, YVAN SAMUEL": 9,
+    "OJEDA GARCIA M, MARCO": 10,
+    "FERNANDEZ ULLOA, SERGIO LEONEL": 12,
+    "RODRIGUEZ MERINO, SERGIO": 18,
+    "IOZZIA RODRIGUEZ, GERARDO SEBASTIAN": 19,
+    "CUEZVA CRESPO, MARCOS": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
