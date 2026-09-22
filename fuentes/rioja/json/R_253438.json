@@ -1,0 +1,268 @@
+{
+  "acta_id": "R_253438",
+  "filename": "Acta_R_253438.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "08-03-2026",
+  "hora": "13:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "PEÑA BALSAMAISO A",
+  "equipo_visitante": "LAURUS Edin Construcciones B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "TERRAZAS ARTACHO, GIMENA"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 6 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "JUSTINIANO SALVATIERRA, MIKEL",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "ALLOUNI ALLOUNI, YASSIR",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "ADAMS GUARDIA, LASS",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 30,
+      "jugador": "SHTEMBARI AGARAJ, ALEX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "LAURUS Edin Construcciones B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "BOAKYE MBA, CARLOS ANTONIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "ANSOTEGUI FERNANDEZ, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "GODOY DURAN, NICOLAS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GHERA, CLAUDIU ALIN",
+  "delegado_campo_local": "SARABIA ABASCAL , IMANOL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SOUAIDY, OUSSAMA",
+  "delegado_equipo_visitante": "SUBERO RAMOS, REYES",
+  "titulares_local": [
+    "GALILEA BARRIO, SERGIO",
+    "AGUILERA CEBRIAN, PABLO",
+    "ALLOUNI ALLOUNI, YASSIR",
+    "GARCIA GUTIERREZ, ALEJANDRO",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "LACALLE DE PEDRO, DAVID",
+    "MEZIANE KAMOUNI, ZAYED",
+    "COQUECO PATIÑO, JUAN ESTEBAN",
+    "HERRERO ULECIA, MARCOS",
+    "CARBONERAS RODRIGUEZ, MAURO"
+  ],
+  "titulares_visitante": [
+    "SANTO DOMINGO LOPEZ, YOEL",
+    "SUBERO GUTIERREZ, JULEN",
+    "ROMERO AGUDELO, DARWIN",
+    "JUSTINIANO SALVATIERRA, MIKEL",
+    "PEREZ DULCE, ARITZ",
+    "DELIC AHMIC, EDIN",
+    "PADIN DE LA CRUZ, DARIO",
+    "NEGRO CARBONELL, JOSE JAVIER",
+    "ANSOTEGUI FERNANDEZ, JAVIER",
+    "BOAKYE MBA, CARLOS ANTONIO",
+    "BOITE, SIDICK"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ MURO, MATEO",
+    "CORREA BEDOYA, JERONIMO",
+    "MARTINEZ AMELIBIA, JORGE",
+    "MBANG EYAMA, MANUEL",
+    "NAVARRO DE CORTA, JORGE",
+    "MOLOVAE ESPINOZA, JOSEAN",
+    "SOTO PERALES, MARTIN"
+  ],
+  "suplentes_visitante": [
+    "ETXEBERRIA CHINCHETRU, JON",
+    "ADAMS GUARDIA, LASS",
+    "GARCIA SAEZ, MIKEL",
+    "HERNANDEZ EL FAKIRI, ANUAR",
+    "MADORRAN NEGUERUELA, MARCO"
+  ],
+  "convocados_sin_jugar_local": [
+    "FERNANDEZ MURO, MATEO",
+    "CORREA BEDOYA, JERONIMO",
+    "MOLOVAE ESPINOZA, JOSEAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ETXEBERRIA CHINCHETRU, JON"
+  ],
+  "jugadores_local": [
+    "GALILEA BARRIO, SERGIO",
+    "AGUILERA CEBRIAN, PABLO",
+    "ALLOUNI ALLOUNI, YASSIR",
+    "GARCIA GUTIERREZ, ALEJANDRO",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "LACALLE DE PEDRO, DAVID",
+    "MEZIANE KAMOUNI, ZAYED",
+    "COQUECO PATIÑO, JUAN ESTEBAN",
+    "HERRERO ULECIA, MARCOS",
+    "CARBONERAS RODRIGUEZ, MAURO",
+    "MBANG EYAMA, MANUEL",
+    "NAVARRO DE CORTA, JORGE",
+    "SOTO PERALES, MARTIN",
+    "MARTINEZ AMELIBIA, JORGE"
+  ],
+  "jugadores_visitante": [
+    "SANTO DOMINGO LOPEZ, YOEL",
+    "SUBERO GUTIERREZ, JULEN",
+    "ROMERO AGUDELO, DARWIN",
+    "JUSTINIANO SALVATIERRA, MIKEL",
+    "PEREZ DULCE, ARITZ",
+    "DELIC AHMIC, EDIN",
+    "PADIN DE LA CRUZ, DARIO",
+    "NEGRO CARBONELL, JOSE JAVIER",
+    "ANSOTEGUI FERNANDEZ, JAVIER",
+    "BOAKYE MBA, CARLOS ANTONIO",
+    "BOITE, SIDICK",
+    "ADAMS GUARDIA, LASS",
+    "MADORRAN NEGUERUELA, MARCO",
+    "HERNANDEZ EL FAKIRI, ANUAR",
+    "GARCIA SAEZ, MIKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 64,
+      "entra": "MBANG EYAMA, MANUEL",
+      "sale": "AGUILERA CEBRIAN, PABLO"
+    },
+    {
+      "min": 64,
+      "entra": "NAVARRO DE CORTA, JORGE",
+      "sale": "GARCIA GUTIERREZ, ALEJANDRO"
+    },
+    {
+      "min": 68,
+      "entra": "SOTO PERALES, MARTIN",
+      "sale": "VACA ROSSELL, JOSEP CARLOS"
+    },
+    {
+      "min": 80,
+      "entra": "MARTINEZ AMELIBIA, JORGE",
+      "sale": "CARBONERAS RODRIGUEZ, MAURO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 63,
+      "entra": "ADAMS GUARDIA, LASS",
+      "sale": "DELIC AHMIC, EDIN"
+    },
+    {
+      "min": 63,
+      "entra": "MADORRAN NEGUERUELA, MARCO",
+      "sale": "ROMERO AGUDELO, DARWIN"
+    },
+    {
+      "min": 82,
+      "entra": "HERNANDEZ EL FAKIRI, ANUAR",
+      "sale": "JUSTINIANO SALVATIERRA, MIKEL"
+    },
+    {
+      "min": 86,
+      "entra": "GARCIA SAEZ, MIKEL",
+      "sale": "NEGRO CARBONELL, JOSE JAVIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "GALILEA BARRIO, SERGIO": 90,
+    "AGUILERA CEBRIAN, PABLO": 64,
+    "ALLOUNI ALLOUNI, YASSIR": 90,
+    "GARCIA GUTIERREZ, ALEJANDRO": 64,
+    "VACA ROSSELL, JOSEP CARLOS": 68,
+    "SHTEMBARI AGARAJ, ALEX": 90,
+    "LACALLE DE PEDRO, DAVID": 90,
+    "MEZIANE KAMOUNI, ZAYED": 90,
+    "COQUECO PATIÑO, JUAN ESTEBAN": 90,
+    "HERRERO ULECIA, MARCOS": 90,
+    "CARBONERAS RODRIGUEZ, MAURO": 80,
+    "MBANG EYAMA, MANUEL": 26,
+    "NAVARRO DE CORTA, JORGE": 26,
+    "SOTO PERALES, MARTIN": 22,
+    "MARTINEZ AMELIBIA, JORGE": 10,
+    "SANTO DOMINGO LOPEZ, YOEL": 90,
+    "SUBERO GUTIERREZ, JULEN": 90,
+    "ROMERO AGUDELO, DARWIN": 63,
+    "JUSTINIANO SALVATIERRA, MIKEL": 82,
+    "PEREZ DULCE, ARITZ": 90,
+    "DELIC AHMIC, EDIN": 63,
+    "PADIN DE LA CRUZ, DARIO": 90,
+    "NEGRO CARBONELL, JOSE JAVIER": 86,
+    "ANSOTEGUI FERNANDEZ, JAVIER": 90,
+    "BOAKYE MBA, CARLOS ANTONIO": 90,
+    "BOITE, SIDICK": 90,
+    "ADAMS GUARDIA, LASS": 27,
+    "MADORRAN NEGUERUELA, MARCO": 27,
+    "HERNANDEZ EL FAKIRI, ANUAR": 8,
+    "GARCIA SAEZ, MIKEL": 4
+  },
+  "portero_local": "GALILEA BARRIO, SERGIO",
+  "portero_visitante": "SANTO DOMINGO LOPEZ, YOEL",
+  "dorsales_local": {
+    "GALILEA BARRIO, SERGIO": 13,
+    "AGUILERA CEBRIAN, PABLO": 6,
+    "ALLOUNI ALLOUNI, YASSIR": 8,
+    "GARCIA GUTIERREZ, ALEJANDRO": 9,
+    "VACA ROSSELL, JOSEP CARLOS": 12,
+    "SHTEMBARI AGARAJ, ALEX": 14,
+    "LACALLE DE PEDRO, DAVID": 15,
+    "MEZIANE KAMOUNI, ZAYED": 18,
+    "COQUECO PATIÑO, JUAN ESTEBAN": 22,
+    "HERRERO ULECIA, MARCOS": 23,
+    "CARBONERAS RODRIGUEZ, MAURO": 24
+  },
+  "dorsales_visitante": {
+    "SANTO DOMINGO LOPEZ, YOEL": 13,
+    "SUBERO GUTIERREZ, JULEN": 2,
+    "ROMERO AGUDELO, DARWIN": 5,
+    "JUSTINIANO SALVATIERRA, MIKEL": 7,
+    "PEREZ DULCE, ARITZ": 8,
+    "DELIC AHMIC, EDIN": 9,
+    "PADIN DE LA CRUZ, DARIO": 15,
+    "NEGRO CARBONELL, JOSE JAVIER": 19,
+    "ANSOTEGUI FERNANDEZ, JAVIER": 24,
+    "BOAKYE MBA, CARLOS ANTONIO": 34,
+    "BOITE, SIDICK": 35
+  },
+  "suspendidos": []
+}
