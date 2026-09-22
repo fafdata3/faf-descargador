@@ -1,0 +1,165 @@
+{
+  "acta_id": "N_70691046",
+  "filename": "Acta_N_70691046.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 17,
+  "fecha": "10-07-2026",
+  "hora": "18:45",
+  "categoria": "Campeonato de Primera División de Fútbol Playa Masculino (Primera División Nacional Masculina)",
+  "equipo_local": "GESTIÓN Y CALOR CÓRDOBA",
+  "equipo_visitante": "CLUB DE FÚTBOL BENIDORM FOIETES",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "LAGARDERA VENTURA, JOSÉ LUIS",
+    "ÁRBITRO 2",
+    "BUREU MÉNDEZ, ENRIC",
+    "TERCER ÁRBITRO",
+    "HIDALGO MÁRQUEZ, CARLOS",
+    "CRONOMETRADOR",
+    "PADÍN PITA, MARCOS"
+  ],
+  "estadio": "CADIZ 2",
+  "ciudad": "Cádiz",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "VILARIÑO ESCARIZ, XOEL",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "SAN MARTIN MELIN, DIEGO IGNACIO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 11,
+      "jugador": "SAN MARTIN MELIN, DIEGO IGNACIO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "SAN MARTIN MELIN, DIEGO IGNACIO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "LLOPIS BAIDEZ, PAU",
+      "equipo": "?",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 11,
+      "jugador": "SAN MARTIN MELIN, DIEGO IGNACIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 33,
+      "jugador": "WU, CAIXING ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "RODRIGUEZ CAO, CELSO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "MARCOS GALIANA, DAVID",
+  "titulares_local": [
+    "CORCEGA MARQUEZ, SEBASTIAN EDUARDO",
+    "MACIEL DA SILVA JOAQUIM, ARTUR",
+    "SAN MARTIN MELIN, DIEGO IGNACIO",
+    "RUTTERSCHMIDT, AXEL TOMAS",
+    "TORRES LOUZAO, IVAN AMOR"
+  ],
+  "titulares_visitante": [
+    "LLAVERO NUÑEZ, JOSE M",
+    "WU, CAIXING ALEJANDRO",
+    "TORMO RIVAS, ALEJANDRO",
+    "INVERNOZ LABERNIA, EITEL DANIEL",
+    "ORTIZ HERNANDEZ, DAVID"
+  ],
+  "suplentes_local": [
+    "RODRÍGUEZ LÓPEZ , NICOLÁS ANDREA",
+    "SANMARTIN DELGADO, HUGO",
+    "VILARIÑO ESCARIZ, XOEL",
+    "FERNANDEZ MACEIRAS, AARON",
+    "LOPEZ VEIGA, LUCAS"
+  ],
+  "suplentes_visitante": [
+    "VILLANUA CHILVERS, DANIEL",
+    "LLOPIS BAIDEZ, PAU"
+  ],
+  "convocados_sin_jugar_local": [
+    "RODRÍGUEZ LÓPEZ , NICOLÁS ANDREA",
+    "SANMARTIN DELGADO, HUGO",
+    "VILARIÑO ESCARIZ, XOEL",
+    "FERNANDEZ MACEIRAS, AARON",
+    "LOPEZ VEIGA, LUCAS"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "VILLANUA CHILVERS, DANIEL",
+    "LLOPIS BAIDEZ, PAU"
+  ],
+  "jugadores_local": [
+    "CORCEGA MARQUEZ, SEBASTIAN EDUARDO",
+    "MACIEL DA SILVA JOAQUIM, ARTUR",
+    "SAN MARTIN MELIN, DIEGO IGNACIO",
+    "RUTTERSCHMIDT, AXEL TOMAS",
+    "TORRES LOUZAO, IVAN AMOR"
+  ],
+  "jugadores_visitante": [
+    "LLAVERO NUÑEZ, JOSE M",
+    "WU, CAIXING ALEJANDRO",
+    "TORMO RIVAS, ALEJANDRO",
+    "INVERNOZ LABERNIA, EITEL DANIEL",
+    "ORTIZ HERNANDEZ, DAVID"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "CORCEGA MARQUEZ, SEBASTIAN EDUARDO": 90,
+    "MACIEL DA SILVA JOAQUIM, ARTUR": 90,
+    "SAN MARTIN MELIN, DIEGO IGNACIO": 90,
+    "RUTTERSCHMIDT, AXEL TOMAS": 90,
+    "TORRES LOUZAO, IVAN AMOR": 90,
+    "LLAVERO NUÑEZ, JOSE M": 90,
+    "WU, CAIXING ALEJANDRO": 90,
+    "TORMO RIVAS, ALEJANDRO": 90,
+    "INVERNOZ LABERNIA, EITEL DANIEL": 90,
+    "ORTIZ HERNANDEZ, DAVID": 90
+  },
+  "portero_local": "CORCEGA MARQUEZ, SEBASTIAN EDUARDO",
+  "portero_visitante": "LLAVERO NUÑEZ, JOSE M",
+  "dorsales_local": {
+    "CORCEGA MARQUEZ, SEBASTIAN EDUARDO": 12,
+    "MACIEL DA SILVA JOAQUIM, ARTUR": 3,
+    "SAN MARTIN MELIN, DIEGO IGNACIO": 7,
+    "RUTTERSCHMIDT, AXEL TOMAS": 8,
+    "TORRES LOUZAO, IVAN AMOR": 9
+  },
+  "dorsales_visitante": {
+    "LLAVERO NUÑEZ, JOSE M": 23,
+    "WU, CAIXING ALEJANDRO": 4,
+    "TORMO RIVAS, ALEJANDRO": 11,
+    "INVERNOZ LABERNIA, EITEL DANIEL": 18,
+    "ORTIZ HERNANDEZ, DAVID": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
