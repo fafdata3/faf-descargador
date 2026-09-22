@@ -1,0 +1,230 @@
+{
+  "acta_id": "N_70692145",
+  "filename": "Acta_N_70692145.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "27-06-2026",
+  "hora": "20:00",
+  "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Cadete Masculino (FASE FINAL)",
+  "equipo_local": "SELECCION REGIÓN DE MURCIA",
+  "equipo_visitante": "SELECCIÓN CATALANA",
+  "goles_local": 4,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "LAGARDERA VENTURA, JOSÉ LUIS",
+    "ÁRBITRO 2",
+    "AGUSTÍN MORENO, JORGE",
+    "TERCER ÁRBITRO",
+    "NAVARRO ROJAS, PABLO",
+    "CRONOMETRADOR",
+    "PINEDA ALONSO, CRISTIAN"
+  ],
+  "estadio": "ROTA",
+  "ciudad": "Rota",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "LAGUNA PEREZ, DAVID",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 3,
+      "jugador": "VALCARCEL ABAD, MARTIN",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 13,
+      "jugador": "MOLINA PEREZ, ALEJANDRO",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 14,
+      "jugador": "FAJARDO GARCIA, ALVARO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "CHAOUI, NAEL YAKIN",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "VAN DEN BOS MARTINEZ, JOEL",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "AMRABOU BASSIM, ALI",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "BIOSCA SANCHEZ, JON",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 20,
+      "jugador": "LLORELL RODRIGUEZ, IVAN",
+      "equipo": "?",
+      "propia": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "VAN DEN BOS MARTINEZ, JOEL",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "ORTEGA MARIN, JORGE",
+      "equipo": "?",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 13,
+      "jugador": "LAGUNA PEREZ, DAVID",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 16,
+      "jugador": "PEREZ ORTIZ, YON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 23,
+      "jugador": "BIOSCA SANCHEZ, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "CAZORLA MARTIN, AITOR",
+      "equipo": "visitante",
+      "tipo": "roja",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "VALCARCEL ABAD, MARTIN",
+    "FAJARDO GARCIA, ALVARO",
+    "VAN DEN BOS MARTINEZ, JOEL",
+    "CASTILLO LUKAVETSKII, IVÁN",
+    "CASTEJON DIEZ, NICOLAS"
+  ],
+  "titulares_visitante": [
+    "CAZORLA MARTIN, AITOR",
+    "OJEDA CAUSSA, LLUC",
+    "CABELLO LAFUENTE, LEO",
+    "CHAOUI, NAEL YAKIN",
+    "LAGUNA PEREZ, DAVID"
+  ],
+  "suplentes_local": [
+    "GARCIA HARO, GERMAN",
+    "RUIZ PARDO, DAVID",
+    "ABELLÁN MUNUERA, ADRIÁN",
+    "GARCÍA GARCÍA, AITOR",
+    "ORTEGA MARIN, JORGE",
+    "MOLINA PEREZ, ALEJANDRO",
+    "OKWUDINMA TENAS, CHIKWADOM ALVARO"
+  ],
+  "suplentes_visitante": [
+    "MIRAS JURADO, JOAN",
+    "AMRABOU BASSIM, ALI",
+    "MAADI AHMED, NASSER",
+    "PEREZ ORTIZ, YON",
+    "FERNANDEZ PELLEJA, JAN",
+    "LLORELL RODRIGUEZ, IVAN",
+    "BIOSCA SANCHEZ, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA HARO, GERMAN",
+    "RUIZ PARDO, DAVID",
+    "ABELLÁN MUNUERA, ADRIÁN",
+    "GARCÍA GARCÍA, AITOR",
+    "ORTEGA MARIN, JORGE",
+    "MOLINA PEREZ, ALEJANDRO",
+    "OKWUDINMA TENAS, CHIKWADOM ALVARO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MIRAS JURADO, JOAN",
+    "AMRABOU BASSIM, ALI",
+    "MAADI AHMED, NASSER",
+    "PEREZ ORTIZ, YON",
+    "FERNANDEZ PELLEJA, JAN",
+    "LLORELL RODRIGUEZ, IVAN",
+    "BIOSCA SANCHEZ, JON"
+  ],
+  "jugadores_local": [
+    "VALCARCEL ABAD, MARTIN",
+    "FAJARDO GARCIA, ALVARO",
+    "VAN DEN BOS MARTINEZ, JOEL",
+    "CASTILLO LUKAVETSKII, IVÁN",
+    "CASTEJON DIEZ, NICOLAS"
+  ],
+  "jugadores_visitante": [
+    "CAZORLA MARTIN, AITOR",
+    "OJEDA CAUSSA, LLUC",
+    "CABELLO LAFUENTE, LEO",
+    "CHAOUI, NAEL YAKIN",
+    "LAGUNA PEREZ, DAVID"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "VALCARCEL ABAD, MARTIN": 90,
+    "FAJARDO GARCIA, ALVARO": 90,
+    "VAN DEN BOS MARTINEZ, JOEL": 90,
+    "CASTILLO LUKAVETSKII, IVÁN": 90,
+    "CASTEJON DIEZ, NICOLAS": 90,
+    "CAZORLA MARTIN, AITOR": 90,
+    "OJEDA CAUSSA, LLUC": 90,
+    "CABELLO LAFUENTE, LEO": 90,
+    "CHAOUI, NAEL YAKIN": 90,
+    "LAGUNA PEREZ, DAVID": 90
+  },
+  "portero_local": "VALCARCEL ABAD, MARTIN",
+  "portero_visitante": "CAZORLA MARTIN, AITOR",
+  "dorsales_local": {
+    "VALCARCEL ABAD, MARTIN": 13,
+    "FAJARDO GARCIA, ALVARO": 5,
+    "VAN DEN BOS MARTINEZ, JOEL": 7,
+    "CASTILLO LUKAVETSKII, IVÁN": 10,
+    "CASTEJON DIEZ, NICOLAS": 11
+  },
+  "dorsales_visitante": {
+    "CAZORLA MARTIN, AITOR": 1,
+    "OJEDA CAUSSA, LLUC": 2,
+    "CABELLO LAFUENTE, LEO": 5,
+    "CHAOUI, NAEL YAKIN": 7,
+    "LAGUNA PEREZ, DAVID": 10
+  },
+  "suspendidos": [
+    "CAZORLA MARTIN, AITOR"
+  ]
+}
