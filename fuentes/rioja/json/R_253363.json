@@ -1,0 +1,282 @@
+{
+  "acta_id": "R_253363",
+  "filename": "Acta_R_253363.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "18-10-2025",
+  "hora": "16:30",
+  "categoria": "SEGUNDA JUVENIL - 1ª FASE (Grupo 2)",
+  "equipo_local": "EF ARNEDO Las Banderas",
+  "equipo_visitante": "SD LOGROÑES",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "EZQUERRO EZQUERRO, ELOY"
+  ],
+  "estadio": "C.M. SENDERO - H.A. (ARNEDO)",
+  "ciudad": "Arnedo",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "GOMEZ HERRERA, EMANUEL",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "OUAQUIT EL IMANI, SOUFIAN",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 43,
+      "jugador": "MARTINEZ HERNANDEZ, MATEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "ZAMAJON MUÑOZ, GUILLERMO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 82,
+      "jugador": "CARRASCO SAUÑE, TAYLOR JOHN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "OUAQUIT EL IMANI, SOUFIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "SD LOGROÑES",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MORENO GARCIA, JUAN C",
+  "entrenador_visitante": "ROMERO NUÑEZ, PABLO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CORDON MIRANDA, JESUS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CORDON MIRANDA, JESUS",
+  "delegado_equipo_visitante": "OTERO ORDOÑEZ, JUAN ANTONIO",
+  "titulares_local": [
+    "MORENO SOLANA, VICTOR",
+    "MARTINEZ HERNANDEZ, MATEO",
+    "EL YAZIDY BOUZALIM, YOUSSEF",
+    "MARTINEZ IBAÑEZ, ADRIAN",
+    "JIMENEZ GARCIA, IGNACIO",
+    "MARIN RUIZ, MARCOS",
+    "CORDON RUIZ DE LA TORRE, LUCAS",
+    "LAHMINI EL HASNAQUI, ALI",
+    "GOMEZ HERRERA, EMANUEL",
+    "OUKHOUYA EL OUAFI, RAYAN",
+    "EL ABBOUBI, OTMANE"
+  ],
+  "titulares_visitante": [
+    "ELGUEA HERNAIZ, IVAN",
+    "OTERO LOPEZ, ANGEL",
+    "MADURGA HEREDIA, RODRIGO",
+    "PEREZ SAN JUAN, HUGO",
+    "IRUZUBIETA IBAÑEZ, JORGE",
+    "SAMPEDRO HERNANDO, SERGIO",
+    "VILLALON URQUIDI, BRUNO ROBERTO",
+    "SAENZ JIMENEZ, JUAN",
+    "DIEZ CARRION, MARCO",
+    "KEITA SANOGO, DAOUDA D",
+    "QUINTERO TALAGA, BRANDON STIVEN"
+  ],
+  "suplentes_local": [
+    "ARGAIZ RUIZ, VICTOR",
+    "TURLAN DELGADO, MARIO",
+    "ZAMAJON MUÑOZ, GUILLERMO",
+    "CARRASCO SAUÑE, TAYLOR JOHN",
+    "OUAQUIT EL IMANI, SOUFIAN",
+    "VILLEGAS FLORIAN, SANTIAGO"
+  ],
+  "suplentes_visitante": [
+    "MARGVELASHVILI, NODAR",
+    "MURAS DEL CAZ, HUGO",
+    "FERNANDEZ BONED, GABRIEL",
+    "DOMINGUEZ RUIZOLALLA, JAVIER",
+    "RODRIGUEZ FERNANDEZ, BAUTISTA",
+    "CASAMAYOR FERNANDEZ, MANUEL NAM"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARGAIZ RUIZ, VICTOR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MURAS DEL CAZ, HUGO"
+  ],
+  "jugadores_local": [
+    "MORENO SOLANA, VICTOR",
+    "MARTINEZ HERNANDEZ, MATEO",
+    "EL YAZIDY BOUZALIM, YOUSSEF",
+    "MARTINEZ IBAÑEZ, ADRIAN",
+    "JIMENEZ GARCIA, IGNACIO",
+    "MARIN RUIZ, MARCOS",
+    "CORDON RUIZ DE LA TORRE, LUCAS",
+    "LAHMINI EL HASNAQUI, ALI",
+    "GOMEZ HERRERA, EMANUEL",
+    "OUKHOUYA EL OUAFI, RAYAN",
+    "EL ABBOUBI, OTMANE",
+    "ZAMAJON MUÑOZ, GUILLERMO",
+    "OUAQUIT EL IMANI, SOUFIAN",
+    "VILLEGAS FLORIAN, SANTIAGO",
+    "TURLAN DELGADO, MARIO",
+    "CARRASCO SAUÑE, TAYLOR JOHN"
+  ],
+  "jugadores_visitante": [
+    "ELGUEA HERNAIZ, IVAN",
+    "OTERO LOPEZ, ANGEL",
+    "MADURGA HEREDIA, RODRIGO",
+    "PEREZ SAN JUAN, HUGO",
+    "IRUZUBIETA IBAÑEZ, JORGE",
+    "SAMPEDRO HERNANDO, SERGIO",
+    "VILLALON URQUIDI, BRUNO ROBERTO",
+    "SAENZ JIMENEZ, JUAN",
+    "DIEZ CARRION, MARCO",
+    "KEITA SANOGO, DAOUDA D",
+    "QUINTERO TALAGA, BRANDON STIVEN",
+    "FERNANDEZ BONED, GABRIEL",
+    "DOMINGUEZ RUIZOLALLA, JAVIER",
+    "RODRIGUEZ FERNANDEZ, BAUTISTA",
+    "MARGVELASHVILI, NODAR",
+    "CASAMAYOR FERNANDEZ, MANUEL NAM"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "ZAMAJON MUÑOZ, GUILLERMO",
+      "sale": "MARTINEZ HERNANDEZ, MATEO"
+    },
+    {
+      "min": 56,
+      "entra": "OUAQUIT EL IMANI, SOUFIAN",
+      "sale": "GOMEZ HERRERA, EMANUEL"
+    },
+    {
+      "min": 66,
+      "entra": "VILLEGAS FLORIAN, SANTIAGO",
+      "sale": "OUKHOUYA EL OUAFI, RAYAN"
+    },
+    {
+      "min": 66,
+      "entra": "TURLAN DELGADO, MARIO",
+      "sale": "EL ABBOUBI, OTMANE"
+    },
+    {
+      "min": 75,
+      "entra": "CARRASCO SAUÑE, TAYLOR JOHN",
+      "sale": "LAHMINI EL HASNAQUI, ALI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "FERNANDEZ BONED, GABRIEL",
+      "sale": "VILLALON URQUIDI, BRUNO ROBERTO"
+    },
+    {
+      "min": 57,
+      "entra": "DOMINGUEZ RUIZOLALLA, JAVIER",
+      "sale": "QUINTERO TALAGA, BRANDON STIVEN"
+    },
+    {
+      "min": 66,
+      "entra": "RODRIGUEZ FERNANDEZ, BAUTISTA",
+      "sale": "IRUZUBIETA IBAÑEZ, JORGE"
+    },
+    {
+      "min": 66,
+      "entra": "MARGVELASHVILI, NODAR",
+      "sale": "DIEZ CARRION, MARCO"
+    },
+    {
+      "min": 80,
+      "entra": "CASAMAYOR FERNANDEZ, MANUEL NAM",
+      "sale": "OTERO LOPEZ, ANGEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "MORENO SOLANA, VICTOR": 90,
+    "MARTINEZ HERNANDEZ, MATEO": 46,
+    "EL YAZIDY BOUZALIM, YOUSSEF": 90,
+    "MARTINEZ IBAÑEZ, ADRIAN": 90,
+    "JIMENEZ GARCIA, IGNACIO": 90,
+    "MARIN RUIZ, MARCOS": 90,
+    "CORDON RUIZ DE LA TORRE, LUCAS": 90,
+    "LAHMINI EL HASNAQUI, ALI": 75,
+    "GOMEZ HERRERA, EMANUEL": 56,
+    "OUKHOUYA EL OUAFI, RAYAN": 66,
+    "EL ABBOUBI, OTMANE": 66,
+    "ZAMAJON MUÑOZ, GUILLERMO": 44,
+    "OUAQUIT EL IMANI, SOUFIAN": 34,
+    "VILLEGAS FLORIAN, SANTIAGO": 24,
+    "TURLAN DELGADO, MARIO": 24,
+    "CARRASCO SAUÑE, TAYLOR JOHN": 15,
+    "ELGUEA HERNAIZ, IVAN": 90,
+    "OTERO LOPEZ, ANGEL": 80,
+    "MADURGA HEREDIA, RODRIGO": 90,
+    "PEREZ SAN JUAN, HUGO": 90,
+    "IRUZUBIETA IBAÑEZ, JORGE": 66,
+    "SAMPEDRO HERNANDO, SERGIO": 90,
+    "VILLALON URQUIDI, BRUNO ROBERTO": 46,
+    "SAENZ JIMENEZ, JUAN": 90,
+    "DIEZ CARRION, MARCO": 66,
+    "KEITA SANOGO, DAOUDA D": 90,
+    "QUINTERO TALAGA, BRANDON STIVEN": 57,
+    "FERNANDEZ BONED, GABRIEL": 44,
+    "DOMINGUEZ RUIZOLALLA, JAVIER": 33,
+    "RODRIGUEZ FERNANDEZ, BAUTISTA": 24,
+    "MARGVELASHVILI, NODAR": 24,
+    "CASAMAYOR FERNANDEZ, MANUEL NAM": 10
+  },
+  "portero_local": "MORENO SOLANA, VICTOR",
+  "portero_visitante": "ELGUEA HERNAIZ, IVAN",
+  "dorsales_local": {
+    "MORENO SOLANA, VICTOR": 13,
+    "MARTINEZ HERNANDEZ, MATEO": 2,
+    "EL YAZIDY BOUZALIM, YOUSSEF": 3,
+    "MARTINEZ IBAÑEZ, ADRIAN": 4,
+    "JIMENEZ GARCIA, IGNACIO": 6,
+    "MARIN RUIZ, MARCOS": 10,
+    "CORDON RUIZ DE LA TORRE, LUCAS": 11,
+    "LAHMINI EL HASNAQUI, ALI": 12,
+    "GOMEZ HERRERA, EMANUEL": 17,
+    "OUKHOUYA EL OUAFI, RAYAN": 19,
+    "EL ABBOUBI, OTMANE": 21
+  },
+  "dorsales_visitante": {
+    "ELGUEA HERNAIZ, IVAN": 1,
+    "OTERO LOPEZ, ANGEL": 2,
+    "MADURGA HEREDIA, RODRIGO": 3,
+    "PEREZ SAN JUAN, HUGO": 4,
+    "IRUZUBIETA IBAÑEZ, JORGE": 5,
+    "SAMPEDRO HERNANDO, SERGIO": 6,
+    "VILLALON URQUIDI, BRUNO ROBERTO": 7,
+    "SAENZ JIMENEZ, JUAN": 8,
+    "DIEZ CARRION, MARCO": 9,
+    "KEITA SANOGO, DAOUDA D": 10,
+    "QUINTERO TALAGA, BRANDON STIVEN": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
