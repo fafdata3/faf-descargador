@@ -173,19 +173,10 @@
   ],
   "convocados_sin_jugar_local": [
     "FLORES OSORIO, HUGO",
-    "ALÁEZ DE LA MORAL, OLIVER",
-    "OCHOA MARTINEZ, ANGEL",
-    "DIAZ ALEJO, BORJA",
-    "ALVAREZ MARTINEZ, DANIEL",
-    "SEOANE CASTRO, JUAN"
+    "ALÁEZ DE LA MORAL, OLIVER"
   ],
   "convocados_sin_jugar_visitante": [
     "MUGICA VICARIO, OIER",
-    "RAMIREZ GARCIA, JAVIER",
-    "SAN PIO GALAN, NICOLAS",
-    "MONTERO MARQUINEZ, OIER",
-    "HASSANI ZINEDINE, SOHAIB",
-    "CIPRIAN GARABITO, BRYAN SCOOTT",
     "LOBATO HERRERO, IKER"
   ],
   "jugadores_local": [
@@ -199,7 +190,11 @@
     "FONTANILLO SAHAGUN, MAURO",
     "LARRAURI GONÇALVES, GAIZKA",
     "RODRIGO CARO, MARCO",
-    "IGLESIAS FERNANDEZ, IZAN"
+    "IGLESIAS FERNANDEZ, IZAN",
+    "OCHOA MARTINEZ, ANGEL",
+    "DIAZ ALEJO, BORJA",
+    "SEOANE CASTRO, JUAN",
+    "ALVAREZ MARTINEZ, DANIEL"
   ],
   "jugadores_visitante": [
     "FERNANDEZ DE ZAÑARTU ANSORREGUI, JOKIN",
@@ -212,33 +207,94 @@
     "OKORIE IGIDI, IVAN",
     "SUBERVIOLA CANTERA, HUGO",
     "ESTEBAN HERNANDEZ, JORGE",
-    "DOMINGO RUPEREZ, IKER"
+    "DOMINGO RUPEREZ, IKER",
+    "SAN PIO GALAN, NICOLAS",
+    "HASSANI ZINEDINE, SOHAIB",
+    "RAMIREZ GARCIA, JAVIER",
+    "MONTERO MARQUINEZ, OIER",
+    "CIPRIAN GARABITO, BRYAN SCOOTT"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 42,
+      "entra": "OCHOA MARTINEZ, ANGEL",
+      "sale": "LAFUENTE SARMIENTO, MARIO"
+    },
+    {
+      "min": 46,
+      "entra": "DIAZ ALEJO, BORJA",
+      "sale": "IGLESIAS FERNANDEZ, IZAN"
+    },
+    {
+      "min": 68,
+      "entra": "SEOANE CASTRO, JUAN",
+      "sale": "LARRAURI GONÇALVES, GAIZKA"
+    },
+    {
+      "min": 77,
+      "entra": "ALVAREZ MARTINEZ, DANIEL",
+      "sale": "GARCIA GUTIERREZ, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "SAN PIO GALAN, NICOLAS",
+      "sale": "VIVIAN SANCHEZ, GABRIEL"
+    },
+    {
+      "min": 46,
+      "entra": "HASSANI ZINEDINE, SOHAIB",
+      "sale": "OKORIE IGIDI, IVAN"
+    },
+    {
+      "min": 58,
+      "entra": "RAMIREZ GARCIA, JAVIER",
+      "sale": "OGHOMWENOTITI IKPEKHIA, EDEOGHOGHO PROMISE"
+    },
+    {
+      "min": 58,
+      "entra": "MONTERO MARQUINEZ, OIER",
+      "sale": "SAEZ FERNANDEZ, ALBERTO"
+    },
+    {
+      "min": 65,
+      "entra": "CIPRIAN GARABITO, BRYAN SCOOTT",
+      "sale": "ZAMORA SAEZ, IMANOL"
+    }
+  ],
   "minutos_jugadores": {
     "EIRIZ GONZALEZ, LUCAS": 90,
     "GONZALEZ CACHAN, SERGIO": 90,
-    "LAFUENTE SARMIENTO, MARIO": 90,
+    "LAFUENTE SARMIENTO, MARIO": 42,
     "IBAÑEZ POTES, MANUEL": 90,
     "PAPA FALEFE, SY": 90,
     "ROJO BREA, PABLO": 90,
-    "GARCIA GUTIERREZ, HUGO": 90,
+    "GARCIA GUTIERREZ, HUGO": 77,
     "FONTANILLO SAHAGUN, MAURO": 90,
-    "LARRAURI GONÇALVES, GAIZKA": 90,
+    "LARRAURI GONÇALVES, GAIZKA": 68,
     "RODRIGO CARO, MARCO": 90,
-    "IGLESIAS FERNANDEZ, IZAN": 90,
+    "IGLESIAS FERNANDEZ, IZAN": 46,
     "FERNANDEZ DE ZAÑARTU ANSORREGUI, JOKIN": 90,
     "BEOBIDE SAENZ DE PIPAON, MAREN AIMAR": 90,
-    "VIVIAN SANCHEZ, GABRIEL": 90,
-    "OGHOMWENOTITI IKPEKHIA, EDEOGHOGHO PROMISE": 90,
+    "VIVIAN SANCHEZ, GABRIEL": 46,
+    "OGHOMWENOTITI IKPEKHIA, EDEOGHOGHO PROMISE": 58,
     "VELILLES MAGHOUZA, LUIS": 90,
-    "ZAMORA SAEZ, IMANOL": 90,
-    "SAEZ FERNANDEZ, ALBERTO": 90,
-    "OKORIE IGIDI, IVAN": 90,
+    "ZAMORA SAEZ, IMANOL": 65,
+    "SAEZ FERNANDEZ, ALBERTO": 58,
+    "OKORIE IGIDI, IVAN": 46,
     "SUBERVIOLA CANTERA, HUGO": 90,
     "ESTEBAN HERNANDEZ, JORGE": 90,
-    "DOMINGO RUPEREZ, IKER": 90
+    "DOMINGO RUPEREZ, IKER": 90,
+    "OCHOA MARTINEZ, ANGEL": 48,
+    "DIAZ ALEJO, BORJA": 44,
+    "SEOANE CASTRO, JUAN": 22,
+    "ALVAREZ MARTINEZ, DANIEL": 13,
+    "SAN PIO GALAN, NICOLAS": 44,
+    "HASSANI ZINEDINE, SOHAIB": 44,
+    "RAMIREZ GARCIA, JAVIER": 32,
+    "MONTERO MARQUINEZ, OIER": 32,
+    "CIPRIAN GARABITO, BRYAN SCOOTT": 25
   },
   "portero_local": "EIRIZ GONZALEZ, LUCAS",
   "portero_visitante": "FERNANDEZ DE ZAÑARTU ANSORREGUI, JOKIN",
