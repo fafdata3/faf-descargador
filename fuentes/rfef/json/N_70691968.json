@@ -9,9 +9,9 @@
   "categoria": "División Honor Cadete Playa (DHC)",
   "equipo_local": "CLUB DEPORTIVO DE FUTBOL FRAN MEJIAS",
   "equipo_visitante": "ALICANTE SUN F.C.",
-  "goles_local": 1,
+  "goles_local": 3,
   "goles_visitante": 1,
-  "resultado": "D",
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "GARCÍA GÓMEZ , RODRIGO",
@@ -58,8 +58,8 @@
     {
       "minuto": 21,
       "jugador": "MARTIN TORRES, IKER",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 22,
@@ -82,8 +82,8 @@
     {
       "minuto": 24,
       "jugador": "OLVERA GOMEZ, YERAY",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 26,
@@ -225,6 +225,5 @@
     "GONZALEZ PASTOR, JORGE": 8,
     "MARIN SANCHEZ, JOSE": 14
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
