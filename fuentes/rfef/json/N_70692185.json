@@ -106,20 +106,11 @@
   "convocados_sin_jugar_local": [
     "ALVAREZ CEBRIAN, ENOL",
     "CAMPORRO PINEDA, DANIEL",
-    "MARTINEZ CABAL, JORGE",
-    "FERNÁNDEZ RÚA, TOMÁS",
-    "CASTRO SUAREZ, AITOR",
-    "GARRIDO GUTIÉRREZ, HUGO",
-    "FERNANDEZ PINIELLA, IGNACIO"
+    "MARTINEZ CABAL, JORGE"
   ],
   "convocados_sin_jugar_visitante": [
     "MORALES REY, RODRIGO",
-    "RIAL HERMELO, ALEXANDRE",
-    "SANTOS MOURO, SERGIO",
-    "FERNANDEZ SENRA, PABLO",
-    "GONZALEZ LORENZO, MATEO",
-    "GONZALEZ CID, LUCAS",
-    "TOUCEDO RODRIGUEZ, GUILLERMO"
+    "GONZALEZ CID, LUCAS"
   ],
   "jugadores_local": [
     "HUETE CASTRO, RUBEN",
@@ -132,7 +123,11 @@
     "PEREIRA ARCE, DIEGO",
     "RUIZ CAPILLAS PANDO, URIEL",
     "CAPELLAN GUTIERREZ, JORGE",
-    "FERNANDEZ CANGA, IYAN"
+    "FERNANDEZ CANGA, IYAN",
+    "CASTRO SUAREZ, AITOR",
+    "GARRIDO GUTIÉRREZ, HUGO",
+    "FERNÁNDEZ RÚA, TOMÁS",
+    "FERNANDEZ PINIELLA, IGNACIO"
   ],
   "jugadores_visitante": [
     "PEREZ GONZALEZ, IVAN",
@@ -145,33 +140,94 @@
     "AGUILAR PEREZ, IAGO",
     "VALLE RIVAS, SAMUEL",
     "GARCIA TOSEF, MAXIMILIAM",
-    "OJEA MARTINEZ, PEDRO"
+    "OJEA MARTINEZ, PEDRO",
+    "FERNANDEZ SENRA, PABLO",
+    "RIAL HERMELO, ALEXANDRE",
+    "GONZALEZ LORENZO, MATEO",
+    "TOUCEDO RODRIGUEZ, GUILLERMO",
+    "SANTOS MOURO, SERGIO"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 65,
+      "entra": "CASTRO SUAREZ, AITOR",
+      "sale": "GUTIERREZ GONZALEZ, JORGE"
+    },
+    {
+      "min": 65,
+      "entra": "GARRIDO GUTIÉRREZ, HUGO",
+      "sale": "CAPELLAN GUTIERREZ, JORGE"
+    },
+    {
+      "min": 76,
+      "entra": "FERNÁNDEZ RÚA, TOMÁS",
+      "sale": "GONZALEZ GARCIA, ALVARO"
+    },
+    {
+      "min": 87,
+      "entra": "FERNANDEZ PINIELLA, IGNACIO",
+      "sale": "RECUPERO GARRANDES, FRANSCISCO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 63,
+      "entra": "FERNANDEZ SENRA, PABLO",
+      "sale": "NOGUEIRA LAMA, JORGE"
+    },
+    {
+      "min": 63,
+      "entra": "RIAL HERMELO, ALEXANDRE",
+      "sale": "VALLE RIVAS, SAMUEL"
+    },
+    {
+      "min": 71,
+      "entra": "GONZALEZ LORENZO, MATEO",
+      "sale": "OJEA MARTINEZ, PEDRO"
+    },
+    {
+      "min": 87,
+      "entra": "TOUCEDO RODRIGUEZ, GUILLERMO",
+      "sale": "MOURULLO ESCUDERO, HUGO"
+    },
+    {
+      "min": 87,
+      "entra": "SANTOS MOURO, SERGIO",
+      "sale": "PADIN GONZALEZ, BRUNO"
+    }
+  ],
   "minutos_jugadores": {
     "HUETE CASTRO, RUBEN": 90,
-    "RECUPERO GARRANDES, FRANSCISCO": 90,
+    "RECUPERO GARRANDES, FRANSCISCO": 87,
     "RODRIGUEZ GONZALEZ, ADRIAN": 90,
     "GARCÍA ZAPICO, PABLO": 90,
     "PIÑERA GARCIA, FRANCISCO": 90,
-    "GONZALEZ GARCIA, ALVARO": 90,
-    "GUTIERREZ GONZALEZ, JORGE": 90,
+    "GONZALEZ GARCIA, ALVARO": 76,
+    "GUTIERREZ GONZALEZ, JORGE": 65,
     "PEREIRA ARCE, DIEGO": 90,
     "RUIZ CAPILLAS PANDO, URIEL": 90,
-    "CAPELLAN GUTIERREZ, JORGE": 90,
+    "CAPELLAN GUTIERREZ, JORGE": 65,
     "FERNANDEZ CANGA, IYAN": 90,
     "PEREZ GONZALEZ, IVAN": 90,
     "FERNANDEZ CEREZO, MARCO": 90,
-    "PADIN GONZALEZ, BRUNO": 90,
-    "NOGUEIRA LAMA, JORGE": 90,
+    "PADIN GONZALEZ, BRUNO": 87,
+    "NOGUEIRA LAMA, JORGE": 63,
     "NUÑEZ GARCIA, HUGO": 90,
     "RUA CARRO, SERGIO": 90,
-    "MOURULLO ESCUDERO, HUGO": 90,
+    "MOURULLO ESCUDERO, HUGO": 87,
     "AGUILAR PEREZ, IAGO": 90,
-    "VALLE RIVAS, SAMUEL": 90,
+    "VALLE RIVAS, SAMUEL": 63,
     "GARCIA TOSEF, MAXIMILIAM": 90,
-    "OJEA MARTINEZ, PEDRO": 90
+    "OJEA MARTINEZ, PEDRO": 71,
+    "CASTRO SUAREZ, AITOR": 25,
+    "GARRIDO GUTIÉRREZ, HUGO": 25,
+    "FERNÁNDEZ RÚA, TOMÁS": 14,
+    "FERNANDEZ PINIELLA, IGNACIO": 3,
+    "FERNANDEZ SENRA, PABLO": 27,
+    "RIAL HERMELO, ALEXANDRE": 27,
+    "GONZALEZ LORENZO, MATEO": 19,
+    "TOUCEDO RODRIGUEZ, GUILLERMO": 3,
+    "SANTOS MOURO, SERGIO": 3
   },
   "portero_local": "HUETE CASTRO, RUBEN",
   "portero_visitante": "PEREZ GONZALEZ, IVAN",
@@ -201,5 +257,6 @@
     "GARCIA TOSEF, MAXIMILIAM": 10,
     "OJEA MARTINEZ, PEDRO": 11
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
