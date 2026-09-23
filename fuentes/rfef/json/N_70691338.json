@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO B)",
   "equipo_local": "CADIZ CF",
   "equipo_visitante": "POZOALBENSE FEMENINO C.D. B",
-  "goles_local": 1,
-  "goles_visitante": 3,
-  "resultado": "L",
+  "goles_local": 6,
+  "goles_visitante": 2,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "ESTÉVEZ BLANCO, ADRIÁN",
@@ -34,8 +34,8 @@
     {
       "minuto": 18,
       "jugador": "REBOLLO RODRIGUEZ, AROHA",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     },
     {
       "minuto": 21,
@@ -243,5 +243,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
