@@ -109,21 +109,11 @@
   ],
   "convocados_sin_jugar_local": [
     "GONZALEZ COTADO, SAUL",
-    "PEREZ FREIRE, PABLO",
-    "MATUTE DOMINGUEZ, DIEGO",
-    "RODRIGUEZ GOMEZ, IKER",
-    "APARICIO CARBALLO, PABLO",
-    "RUIZ PEREZ, DANIEL",
     "PEITEADO DURAN, DAMIAN"
   ],
   "convocados_sin_jugar_visitante": [
     "RODRIGUEZ AGUDO, HUGO",
-    "PERNIA COLINA, ROBERTO",
-    "CALZADA ARMIJO, NICOLAS",
-    "DE MIGUEL SAN EMETERIO, LUIS",
-    "GARCIA DIAZ, JACINTO",
-    "ALMEIDA GAÑAN, DIEGO",
-    "MARTINEZ MURIEDAS, PABLO"
+    "CALZADA ARMIJO, NICOLAS"
   ],
   "jugadores_local": [
     "OPI TURPEINEN, ASLAK",
@@ -136,7 +126,12 @@
     "RODRIGUEZ DOMINGUEZ, PABLO",
     "ALONSO LOURIDO, GERMAN",
     "LOPEZ GOMEZ, HUGO",
-    "SUEIRO MUÍÑOS, DAVID"
+    "SUEIRO MUÍÑOS, DAVID",
+    "RUIZ PEREZ, DANIEL",
+    "APARICIO CARBALLO, PABLO",
+    "RODRIGUEZ GOMEZ, IKER",
+    "MATUTE DOMINGUEZ, DIEGO",
+    "PEREZ FREIRE, PABLO"
   ],
   "jugadores_visitante": [
     "SOTO RUIZ, ALVARO",
@@ -149,33 +144,100 @@
     "FERNANDEZ FERNANDEZ, HUGO",
     "LAVIN CHAVEZ, MARIO",
     "MENDOZA SETIEN, JORGE",
-    "ALONSO MATANZAS, DAMASO"
+    "ALONSO MATANZAS, DAMASO",
+    "DE MIGUEL SAN EMETERIO, LUIS",
+    "GARCIA DIAZ, JACINTO",
+    "MARTINEZ MURIEDAS, PABLO",
+    "ALMEIDA GAÑAN, DIEGO",
+    "PERNIA COLINA, ROBERTO"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "RUIZ PEREZ, DANIEL",
+      "sale": "SUEIRO MUÍÑOS, DAVID"
+    },
+    {
+      "min": 55,
+      "entra": "APARICIO CARBALLO, PABLO",
+      "sale": "PEREZ-LAFUENTE REY, JORGE"
+    },
+    {
+      "min": 62,
+      "entra": "RODRIGUEZ GOMEZ, IKER",
+      "sale": "GARCIA ALVAREZ, PEDRO ILDEFONSO"
+    },
+    {
+      "min": 62,
+      "entra": "MATUTE DOMINGUEZ, DIEGO",
+      "sale": "ALONSO LOURIDO, GERMAN"
+    },
+    {
+      "min": 72,
+      "entra": "PEREZ FREIRE, PABLO",
+      "sale": "CHIRVECHES SANCHEZ, RAUL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "DE MIGUEL SAN EMETERIO, LUIS",
+      "sale": "LAVIN CHAVEZ, MARIO"
+    },
+    {
+      "min": 55,
+      "entra": "GARCIA DIAZ, JACINTO",
+      "sale": "MALDONADO RUIZ, HECTOR"
+    },
+    {
+      "min": 72,
+      "entra": "MARTINEZ MURIEDAS, PABLO",
+      "sale": "MENDOZA SETIEN, JORGE"
+    },
+    {
+      "min": 72,
+      "entra": "ALMEIDA GAÑAN, DIEGO",
+      "sale": "GALVAN LOMBILLA, FRANCISCO"
+    },
+    {
+      "min": 82,
+      "entra": "PERNIA COLINA, ROBERTO",
+      "sale": "ALONSO MATANZAS, DAMASO"
+    }
+  ],
   "minutos_jugadores": {
     "OPI TURPEINEN, ASLAK": 90,
-    "CHIRVECHES SANCHEZ, RAUL": 90,
+    "CHIRVECHES SANCHEZ, RAUL": 72,
     "PEREZ MARTINEZ, JAIME": 90,
     "RODRIGUEZ GUALLAR, NOAH": 90,
-    "GARCIA ALVAREZ, PEDRO ILDEFONSO": 90,
-    "PEREZ-LAFUENTE REY, JORGE": 90,
+    "GARCIA ALVAREZ, PEDRO ILDEFONSO": 62,
+    "PEREZ-LAFUENTE REY, JORGE": 55,
     "BARREIROS NUÑEZ, IAGO": 90,
     "RODRIGUEZ DOMINGUEZ, PABLO": 90,
-    "ALONSO LOURIDO, GERMAN": 90,
+    "ALONSO LOURIDO, GERMAN": 62,
     "LOPEZ GOMEZ, HUGO": 90,
-    "SUEIRO MUÍÑOS, DAVID": 90,
+    "SUEIRO MUÍÑOS, DAVID": 55,
     "SOTO RUIZ, ALVARO": 90,
     "PELLÓN CRESPO, SERGIO": 90,
     "DIAZ CIRES, HUGO": 90,
-    "GALVAN LOMBILLA, FRANCISCO": 90,
-    "MALDONADO RUIZ, HECTOR": 90,
+    "GALVAN LOMBILLA, FRANCISCO": 72,
+    "MALDONADO RUIZ, HECTOR": 55,
     "SAMPEDRO GUTIERREZ, ALEX": 90,
     "ISPIZUA FERNANDEZ, IÑAKI": 90,
     "FERNANDEZ FERNANDEZ, HUGO": 90,
-    "LAVIN CHAVEZ, MARIO": 90,
-    "MENDOZA SETIEN, JORGE": 90,
-    "ALONSO MATANZAS, DAMASO": 90
+    "LAVIN CHAVEZ, MARIO": 55,
+    "MENDOZA SETIEN, JORGE": 72,
+    "ALONSO MATANZAS, DAMASO": 82,
+    "RUIZ PEREZ, DANIEL": 35,
+    "APARICIO CARBALLO, PABLO": 35,
+    "RODRIGUEZ GOMEZ, IKER": 28,
+    "MATUTE DOMINGUEZ, DIEGO": 28,
+    "PEREZ FREIRE, PABLO": 18,
+    "DE MIGUEL SAN EMETERIO, LUIS": 35,
+    "GARCIA DIAZ, JACINTO": 35,
+    "MARTINEZ MURIEDAS, PABLO": 18,
+    "ALMEIDA GAÑAN, DIEGO": 18,
+    "PERNIA COLINA, ROBERTO": 8
   },
   "portero_local": "OPI TURPEINEN, ASLAK",
   "portero_visitante": "SOTO RUIZ, ALVARO",
