@@ -32,19 +32,19 @@
     {
       "minuto": 83,
       "jugador": "MEANA GOMEZ, YAGO",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     },
     {
       "minuto": 90,
       "jugador": "MEANA GOMEZ, YAGO",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     },
     {
       "minuto": 90,
       "jugador": "GARABAYA GONZALEZ, JORGE",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     }
   ],
@@ -160,21 +160,11 @@
   ],
   "convocados_sin_jugar_local": [
     "TRABANCO DEL SOLO, OLAI",
-    "PAZ MIGUELEZ, ISMAEL",
-    "CALZON FERNANDEZ, PABLO",
-    "BAO GARCIA, ABEL",
-    "FERNANDEZ DEL BLANCO, PABLO",
-    "GARCIA GALLEGO, GORKA",
-    "CLIMENT RODRIGUEZ, IKER"
+    "GARCIA GALLEGO, GORKA"
   ],
   "convocados_sin_jugar_visitante": [
     "GARCIA ALVAREZ, YAGO",
-    "MENENDEZ GONZALEZ, ALEX",
-    "TUÑAS RODRIGUEZ, SERGIO",
-    "MEANA GOMEZ, YAGO",
-    "GARABAYA GONZALEZ, JORGE",
-    "FERNANDEZ LOSADA, LIAM",
-    "CASTAÑON DIAZ, PABLO"
+    "FERNANDEZ LOSADA, LIAM"
   ],
   "jugadores_local": [
     "AGUIRRE ROZADA, RAUL",
@@ -187,7 +177,12 @@
     "CAMBA GARCIA, PELAYO",
     "RODRIGUEZ RODRIGUEZ, ELIAS",
     "SAN MARTIN BENGOCHEA, DAVID",
-    "ALVAREZ DIAS, LUCAS"
+    "ALVAREZ DIAS, LUCAS",
+    "FERNANDEZ DEL BLANCO, PABLO",
+    "PAZ MIGUELEZ, ISMAEL",
+    "CLIMENT RODRIGUEZ, IKER",
+    "CALZON FERNANDEZ, PABLO",
+    "BAO GARCIA, ABEL"
   ],
   "jugadores_visitante": [
     "VEGA MARTÍN, FERNANDO",
@@ -200,33 +195,100 @@
     "JAKKAL MARFOUK, MARUAN",
     "REVUELTA PIÑEIRO, DIEGO",
     "FERNANDEZ RODRIGUEZ, MARIO",
-    "EL KILANI ASSOULI, AYMAN"
+    "EL KILANI ASSOULI, AYMAN",
+    "MEANA GOMEZ, YAGO",
+    "CASTAÑON DIAZ, PABLO",
+    "MENENDEZ GONZALEZ, ALEX",
+    "GARABAYA GONZALEZ, JORGE",
+    "TUÑAS RODRIGUEZ, SERGIO"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "FERNANDEZ DEL BLANCO, PABLO",
+      "sale": "ALVAREZ DIAS, LUCAS"
+    },
+    {
+      "min": 57,
+      "entra": "PAZ MIGUELEZ, ISMAEL",
+      "sale": "ALVAREZ RODRIGUEZ, JESUS"
+    },
+    {
+      "min": 66,
+      "entra": "CLIMENT RODRIGUEZ, IKER",
+      "sale": "RODRIGUEZ RODRIGUEZ, ELIAS"
+    },
+    {
+      "min": 71,
+      "entra": "CALZON FERNANDEZ, PABLO",
+      "sale": "SAN MARTIN BENGOCHEA, DAVID"
+    },
+    {
+      "min": 71,
+      "entra": "BAO GARCIA, ABEL",
+      "sale": "CAMBA GARCIA, PELAYO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 69,
+      "entra": "MEANA GOMEZ, YAGO",
+      "sale": "OLIVAR SANCHEZ, NEL"
+    },
+    {
+      "min": 69,
+      "entra": "CASTAÑON DIAZ, PABLO",
+      "sale": "DACAL CUETO, HUGO"
+    },
+    {
+      "min": 69,
+      "entra": "MENENDEZ GONZALEZ, ALEX",
+      "sale": "MENDEZ GARCIA, PEDRO"
+    },
+    {
+      "min": 90,
+      "entra": "GARABAYA GONZALEZ, JORGE",
+      "sale": "EL KILANI ASSOULI, AYMAN"
+    },
+    {
+      "min": 90,
+      "entra": "TUÑAS RODRIGUEZ, SERGIO",
+      "sale": "FERNANDEZ RODRIGUEZ, MARIO"
+    }
+  ],
   "minutos_jugadores": {
     "AGUIRRE ROZADA, RAUL": 90,
-    "ALVAREZ RODRIGUEZ, JESUS": 90,
+    "ALVAREZ RODRIGUEZ, JESUS": 57,
     "SUARDIAZ INTHAMOUSSU, MARTIN": 90,
     "MURIEL ARAUJO, MIGUEL": 90,
     "GONZALO LLANDERROZOS, RUBEN": 90,
     "FAES MENENDEZ-CASTAÑEDO, JAIME": 90,
     "THOME ANDRADE, ADRIAN": 90,
-    "CAMBA GARCIA, PELAYO": 90,
-    "RODRIGUEZ RODRIGUEZ, ELIAS": 90,
-    "SAN MARTIN BENGOCHEA, DAVID": 90,
-    "ALVAREZ DIAS, LUCAS": 90,
+    "CAMBA GARCIA, PELAYO": 71,
+    "RODRIGUEZ RODRIGUEZ, ELIAS": 66,
+    "SAN MARTIN BENGOCHEA, DAVID": 71,
+    "ALVAREZ DIAS, LUCAS": 57,
     "VEGA MARTÍN, FERNANDO": 90,
     "SUAREZ CASADO, PABLO": 90,
     "FOX GONZALEZ, ALEX JOHN": 90,
-    "OLIVAR SANCHEZ, NEL": 90,
-    "DACAL CUETO, HUGO": 90,
+    "OLIVAR SANCHEZ, NEL": 69,
+    "DACAL CUETO, HUGO": 69,
     "BALAN CABARCOS, LUCAS": 90,
-    "MENDEZ GARCIA, PEDRO": 90,
+    "MENDEZ GARCIA, PEDRO": 69,
     "JAKKAL MARFOUK, MARUAN": 90,
     "REVUELTA PIÑEIRO, DIEGO": 90,
     "FERNANDEZ RODRIGUEZ, MARIO": 90,
-    "EL KILANI ASSOULI, AYMAN": 90
+    "EL KILANI ASSOULI, AYMAN": 90,
+    "FERNANDEZ DEL BLANCO, PABLO": 33,
+    "PAZ MIGUELEZ, ISMAEL": 33,
+    "CLIMENT RODRIGUEZ, IKER": 24,
+    "CALZON FERNANDEZ, PABLO": 19,
+    "BAO GARCIA, ABEL": 19,
+    "MEANA GOMEZ, YAGO": 21,
+    "CASTAÑON DIAZ, PABLO": 21,
+    "MENENDEZ GONZALEZ, ALEX": 21,
+    "GARABAYA GONZALEZ, JORGE": 0,
+    "TUÑAS RODRIGUEZ, SERGIO": 0
   },
   "portero_local": "AGUIRRE ROZADA, RAUL",
   "portero_visitante": "VEGA MARTÍN, FERNANDO",
@@ -256,6 +318,5 @@
     "FERNANDEZ RODRIGUEZ, MARIO": 19,
     "EL KILANI ASSOULI, AYMAN": 20
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
