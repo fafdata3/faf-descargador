@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Selecciones Autonómicas de Futbol Playa SUB-17 femenino (GRUPO B)",
   "equipo_local": "SELECCION REGIÓN DE MURCIA",
   "equipo_visitante": "SELECCIÓN EXTREMEÑA",
-  "goles_local": 1,
-  "goles_visitante": 2,
-  "resultado": "L",
+  "goles_local": 5,
+  "goles_visitante": 1,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "GUERRERO SANS, SILVIA",
@@ -58,8 +58,8 @@
     {
       "minuto": 31,
       "jugador": "DIAZ GONZALEZ, NATALIA",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     }
   ],
   "tarjetas": [],
@@ -165,5 +165,6 @@
     "BAEZ MARTIN, ABRIL": 7,
     "MENESES SOLANO, TELMA": 11
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
