@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO B)",
   "equipo_local": "C.F. FEMENINO CIUDAD DE DOS HERMANAS",
   "equipo_visitante": "POZOALBENSE FEMENINO C.D. B",
-  "goles_local": 2,
-  "goles_visitante": 0,
+  "goles_local": 6,
+  "goles_visitante": 1,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -41,7 +41,7 @@
       "minuto": 15,
       "jugador": "BENAVENTE VALDERAS, SILVIA",
       "equipo": "?",
-      "propia": false
+      "propia": true
     },
     {
       "minuto": 16,
@@ -171,5 +171,6 @@
     "CUADRADO CALVILLO, MARIA": 12,
     "PEREZ GONZALEZ, ANDREA": 18
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
