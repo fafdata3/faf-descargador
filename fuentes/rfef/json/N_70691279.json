@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO B)",
   "equipo_local": "POZOALBENSE FEMENINO C.D. B",
   "equipo_visitante": "C.D. CULTURAL ASAKO MOTRIL",
-  "goles_local": 1,
-  "goles_visitante": 3,
-  "resultado": "L",
+  "goles_local": 5,
+  "goles_visitante": 5,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "MARTÍNEZ MARTÍNEZ, JOSE",
@@ -76,8 +76,8 @@
     {
       "minuto": 34,
       "jugador": "MOLNER LEYVA, MELINDA",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     },
     {
       "minuto": 35,
@@ -187,5 +187,6 @@
     "ORTEGA GARCÍA, MARÍA": 9,
     "MALDONADO GÓMEZ, SARAH": 22
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
