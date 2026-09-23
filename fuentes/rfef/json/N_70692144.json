@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Cadete Masculino (FASE FINAL)",
   "equipo_local": "SELECCIÓN ANDALUZA",
   "equipo_visitante": "SELECCIÓN ARAGONESA",
-  "goles_local": 5,
-  "goles_visitante": 4,
-  "resultado": "W",
+  "goles_local": 3,
+  "goles_visitante": 3,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "PINILLA SERRANO, ADRIÁN",
@@ -40,8 +40,8 @@
     {
       "minuto": 9,
       "jugador": "LONGARES ARNAL, JAVIER",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     },
     {
       "minuto": 10,
@@ -76,8 +76,8 @@
     {
       "minuto": 35,
       "jugador": "RUIZ BRUZON, JOSE MANUEL",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     }
   ],
   "tarjetas": [
@@ -248,6 +248,5 @@
   "suspendidos": [
     "SANZ GARCÍA, HECTOR",
     "LONGARES ARNAL, JAVIER"
-  ],
-  "_marcador_widget": true
+  ]
 }
