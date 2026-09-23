@@ -10,8 +10,8 @@
   "equipo_local": "REAL SPORTING DE GIJÓN",
   "equipo_visitante": "REAL RACING CLUB DE SANTANDER",
   "goles_local": 3,
-  "goles_visitante": 2,
-  "resultado": "W",
+  "goles_visitante": 3,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO",
     "GAO ALADRO, ENRIQUE",
@@ -44,7 +44,7 @@
     {
       "minuto": 51,
       "jugador": "LASO MOLINO, ALEJANDRO",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     },
     {
@@ -171,22 +171,12 @@
     "TEJERO ESTEBAN, MIGUEL"
   ],
   "convocados_sin_jugar_local": [
-    "DACAL CUETO, HUGO",
-    "MEANA GOMEZ, YAGO",
-    "SUAREZ SUAREZ, ALVARO",
     "ALVAREZ ALVAREZ, ENOL",
-    "ALVAREZ SALVADOR, ALBERTO",
-    "GONZALEZ MERINO MENENDEZ, CORIAN",
-    "FERNANDEZ LOSADA, LIAM"
+    "ALVAREZ SALVADOR, ALBERTO"
   ],
   "convocados_sin_jugar_visitante": [
     "LEBEÑA RODRIGUEZ, ADRIAN",
-    "MARTIN MUÑIZ, MARCOS",
-    "LASO MOLINO, ALEJANDRO",
-    "GARCIA RUEDA, BELTRAN",
-    "ORDAX IBAÑEZ, DAVID",
-    "RODRIGUEZ GIGOSOS, MATEO",
-    "TEJERO ESTEBAN, MIGUEL"
+    "RODRIGUEZ GIGOSOS, MATEO"
   ],
   "jugadores_local": [
     "VEGA MARTÍN, FERNANDO",
@@ -199,7 +189,12 @@
     "REVUELTA PIÑEIRO, DIEGO",
     "FERNANDEZ RODRIGUEZ, MARIO",
     "EL KILANI ASSOULI, AYMAN",
-    "CASTAÑON DIAZ, PABLO"
+    "CASTAÑON DIAZ, PABLO",
+    "MEANA GOMEZ, YAGO",
+    "SUAREZ SUAREZ, ALVARO",
+    "DACAL CUETO, HUGO",
+    "FERNANDEZ LOSADA, LIAM",
+    "GONZALEZ MERINO MENENDEZ, CORIAN"
   ],
   "jugadores_visitante": [
     "ORTIZ SEGUROLA, GUILLERMO",
@@ -212,33 +207,100 @@
     "ARNAIZ CAYON, ADRIAN",
     "DIAZ AGÜERO, ALVARO",
     "DÍEZ SEGUNDO, FERNANDO",
-    "ALBA DORIA, CARLOS"
+    "ALBA DORIA, CARLOS",
+    "TEJERO ESTEBAN, MIGUEL",
+    "LASO MOLINO, ALEJANDRO",
+    "GARCIA RUEDA, BELTRAN",
+    "ORDAX IBAÑEZ, DAVID",
+    "MARTIN MUÑIZ, MARCOS"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 64,
+      "entra": "MEANA GOMEZ, YAGO",
+      "sale": "EL KILANI ASSOULI, AYMAN"
+    },
+    {
+      "min": 64,
+      "entra": "SUAREZ SUAREZ, ALVARO",
+      "sale": "CASTAÑON DIAZ, PABLO"
+    },
+    {
+      "min": 64,
+      "entra": "DACAL CUETO, HUGO",
+      "sale": "MENDEZ GARCIA, PEDRO"
+    },
+    {
+      "min": 69,
+      "entra": "FERNANDEZ LOSADA, LIAM",
+      "sale": "MENENDEZ GONZALEZ, ALEX"
+    },
+    {
+      "min": 76,
+      "entra": "GONZALEZ MERINO MENENDEZ, CORIAN",
+      "sale": "FOX GONZALEZ, ALEX JOHN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "TEJERO ESTEBAN, MIGUEL",
+      "sale": "GARCIA GAVITO SERRANO, JOSE MARIA"
+    },
+    {
+      "min": 46,
+      "entra": "LASO MOLINO, ALEJANDRO",
+      "sale": "DIAZ AGÜERO, ALVARO"
+    },
+    {
+      "min": 55,
+      "entra": "GARCIA RUEDA, BELTRAN",
+      "sale": "ARNAIZ CAYON, ADRIAN"
+    },
+    {
+      "min": 72,
+      "entra": "ORDAX IBAÑEZ, DAVID",
+      "sale": "ALBA DORIA, CARLOS"
+    },
+    {
+      "min": 89,
+      "entra": "MARTIN MUÑIZ, MARCOS",
+      "sale": "DÍEZ SEGUNDO, FERNANDO"
+    }
+  ],
   "minutos_jugadores": {
     "VEGA MARTÍN, FERNANDO": 90,
     "SUAREZ CASADO, PABLO": 90,
-    "MENENDEZ GONZALEZ, ALEX": 90,
-    "FOX GONZALEZ, ALEX JOHN": 90,
+    "MENENDEZ GONZALEZ, ALEX": 69,
+    "FOX GONZALEZ, ALEX JOHN": 76,
     "TUÑAS RODRIGUEZ, SERGIO": 90,
     "BALAN CABARCOS, LUCAS": 90,
-    "MENDEZ GARCIA, PEDRO": 90,
+    "MENDEZ GARCIA, PEDRO": 64,
     "REVUELTA PIÑEIRO, DIEGO": 90,
     "FERNANDEZ RODRIGUEZ, MARIO": 90,
-    "EL KILANI ASSOULI, AYMAN": 90,
-    "CASTAÑON DIAZ, PABLO": 90,
+    "EL KILANI ASSOULI, AYMAN": 64,
+    "CASTAÑON DIAZ, PABLO": 64,
     "ORTIZ SEGUROLA, GUILLERMO": 90,
     "GONZALEZ DIAZ, ALVARO": 90,
     "GONZALEZ SORDO, ALEX": 90,
     "OCEJA CONDE, VICTOR": 90,
-    "GARCIA GAVITO SERRANO, JOSE MARIA": 90,
+    "GARCIA GAVITO SERRANO, JOSE MARIA": 46,
     "GUTIERREZ SANZ, DAVID": 90,
     "AIFUWA PETER, KELECHI KELVIN": 90,
-    "ARNAIZ CAYON, ADRIAN": 90,
-    "DIAZ AGÜERO, ALVARO": 90,
-    "DÍEZ SEGUNDO, FERNANDO": 90,
-    "ALBA DORIA, CARLOS": 90
+    "ARNAIZ CAYON, ADRIAN": 55,
+    "DIAZ AGÜERO, ALVARO": 46,
+    "DÍEZ SEGUNDO, FERNANDO": 89,
+    "ALBA DORIA, CARLOS": 72,
+    "MEANA GOMEZ, YAGO": 26,
+    "SUAREZ SUAREZ, ALVARO": 26,
+    "DACAL CUETO, HUGO": 26,
+    "FERNANDEZ LOSADA, LIAM": 21,
+    "GONZALEZ MERINO MENENDEZ, CORIAN": 14,
+    "TEJERO ESTEBAN, MIGUEL": 44,
+    "LASO MOLINO, ALEJANDRO": 44,
+    "GARCIA RUEDA, BELTRAN": 35,
+    "ORDAX IBAÑEZ, DAVID": 18,
+    "MARTIN MUÑIZ, MARCOS": 1
   },
   "portero_local": "VEGA MARTÍN, FERNANDO",
   "portero_visitante": "ORTIZ SEGUROLA, GUILLERMO",
@@ -270,5 +332,6 @@
   },
   "suspendidos": [
     "GONZALEZ SORDO, ALEX"
-  ]
+  ],
+  "_marcador_widget": true
 }
