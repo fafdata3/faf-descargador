@@ -9,7 +9,7 @@
   "categoria": "Division de Honor Juvenil (Grupo 1)",
   "equipo_local": "REAL RACING CLUB DE SANTANDER",
   "equipo_visitante": "SD SOLARES-MEDIO CUDEYO",
-  "goles_local": 2,
+  "goles_local": 3,
   "goles_visitante": 0,
   "resultado": "W",
   "arbitros": [
@@ -26,7 +26,7 @@
     {
       "minuto": 53,
       "jugador": "ARNAIZ CAYON, ADRIAN",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     },
     {
@@ -132,22 +132,12 @@
     "LAVIN CHAVEZ, MARIO"
   ],
   "convocados_sin_jugar_local": [
-    "LASO MOLINO, ALEJANDRO",
-    "FUENTEVILLA BARCENA, DANIEL",
-    "ARNAIZ CAYON, ADRIAN",
-    "ORDAX IBAÑEZ, DAVID",
     "PEÑA DIEZ, DAVID",
-    "TEJERO ESTEBAN, MIGUEL",
     "CAMPELO MARTINEZ, PABLO"
   ],
   "convocados_sin_jugar_visitante": [
     "SOTO RUIZ, ALVARO",
-    "PERNIA COLINA, ROBERTO",
-    "CALZADA ARMIJO, NICOLAS",
-    "DE MIGUEL SAN EMETERIO, LUIS",
-    "GARCIA DIAZ, JACINTO",
-    "MARTINEZ MURIEDAS, PABLO",
-    "LAVIN CHAVEZ, MARIO"
+    "CALZADA ARMIJO, NICOLAS"
   ],
   "jugadores_local": [
     "ORTIZ SEGUROLA, GUILLERMO",
@@ -160,7 +150,12 @@
     "DIAZ AGÜERO, ALVARO",
     "DÍEZ SEGUNDO, FERNANDO",
     "ALBA DORIA, CARLOS",
-    "URIARTE LOPEZ, HUGO"
+    "URIARTE LOPEZ, HUGO",
+    "ARNAIZ CAYON, ADRIAN",
+    "FUENTEVILLA BARCENA, DANIEL",
+    "ORDAX IBAÑEZ, DAVID",
+    "LASO MOLINO, ALEJANDRO",
+    "TEJERO ESTEBAN, MIGUEL"
   ],
   "jugadores_visitante": [
     "RODRIGUEZ AGUDO, HUGO",
@@ -173,33 +168,100 @@
     "ISPIZUA FERNANDEZ, IÑAKI",
     "MENDOZA SETIEN, JORGE",
     "ALONSO MATANZAS, DAMASO",
-    "EZZAKRAOUI, OSAMA"
+    "EZZAKRAOUI, OSAMA",
+    "GARCIA DIAZ, JACINTO",
+    "MARTINEZ MURIEDAS, PABLO",
+    "LAVIN CHAVEZ, MARIO",
+    "PERNIA COLINA, ROBERTO",
+    "DE MIGUEL SAN EMETERIO, LUIS"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "ARNAIZ CAYON, ADRIAN",
+      "sale": "OCEJA CONDE, VICTOR"
+    },
+    {
+      "min": 45,
+      "entra": "FUENTEVILLA BARCENA, DANIEL",
+      "sale": "GUTIERREZ SANZ, DAVID"
+    },
+    {
+      "min": 61,
+      "entra": "ORDAX IBAÑEZ, DAVID",
+      "sale": "DIAZ AGÜERO, ALVARO"
+    },
+    {
+      "min": 61,
+      "entra": "LASO MOLINO, ALEJANDRO",
+      "sale": "ALBA DORIA, CARLOS"
+    },
+    {
+      "min": 65,
+      "entra": "TEJERO ESTEBAN, MIGUEL",
+      "sale": "GARCIA GAVITO SERRANO, JOSE MARIA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 29,
+      "entra": "GARCIA DIAZ, JACINTO",
+      "sale": "MENDOZA SETIEN, JORGE"
+    },
+    {
+      "min": 62,
+      "entra": "MARTINEZ MURIEDAS, PABLO",
+      "sale": "ALMEIDA GAÑAN, DIEGO"
+    },
+    {
+      "min": 62,
+      "entra": "LAVIN CHAVEZ, MARIO",
+      "sale": "GALVAN LOMBILLA, FRANCISCO"
+    },
+    {
+      "min": 76,
+      "entra": "PERNIA COLINA, ROBERTO",
+      "sale": "ALONSO MATANZAS, DAMASO"
+    },
+    {
+      "min": 76,
+      "entra": "DE MIGUEL SAN EMETERIO, LUIS",
+      "sale": "SAMPEDRO GUTIERREZ, ALEX"
+    }
+  ],
   "minutos_jugadores": {
     "ORTIZ SEGUROLA, GUILLERMO": 90,
     "GONZALEZ DIAZ, ALVARO": 90,
-    "OCEJA CONDE, VICTOR": 90,
-    "GARCIA GAVITO SERRANO, JOSE MARIA": 90,
+    "OCEJA CONDE, VICTOR": 45,
+    "GARCIA GAVITO SERRANO, JOSE MARIA": 65,
     "MARTIN MUÑIZ, MARCOS": 90,
-    "GUTIERREZ SANZ, DAVID": 90,
+    "GUTIERREZ SANZ, DAVID": 45,
     "AIFUWA PETER, KELECHI KELVIN": 90,
-    "DIAZ AGÜERO, ALVARO": 90,
+    "DIAZ AGÜERO, ALVARO": 61,
     "DÍEZ SEGUNDO, FERNANDO": 90,
-    "ALBA DORIA, CARLOS": 90,
+    "ALBA DORIA, CARLOS": 61,
     "URIARTE LOPEZ, HUGO": 90,
     "RODRIGUEZ AGUDO, HUGO": 90,
     "ALMEIDA GAÑAN, CARLOS": 90,
     "PELLÓN CRESPO, SERGIO": 90,
-    "GALVAN LOMBILLA, FRANCISCO": 90,
+    "GALVAN LOMBILLA, FRANCISCO": 62,
     "MALDONADO RUIZ, HECTOR": 90,
-    "ALMEIDA GAÑAN, DIEGO": 90,
-    "SAMPEDRO GUTIERREZ, ALEX": 90,
+    "ALMEIDA GAÑAN, DIEGO": 62,
+    "SAMPEDRO GUTIERREZ, ALEX": 76,
     "ISPIZUA FERNANDEZ, IÑAKI": 90,
-    "MENDOZA SETIEN, JORGE": 90,
-    "ALONSO MATANZAS, DAMASO": 90,
-    "EZZAKRAOUI, OSAMA": 90
+    "MENDOZA SETIEN, JORGE": 29,
+    "ALONSO MATANZAS, DAMASO": 76,
+    "EZZAKRAOUI, OSAMA": 90,
+    "ARNAIZ CAYON, ADRIAN": 45,
+    "FUENTEVILLA BARCENA, DANIEL": 45,
+    "ORDAX IBAÑEZ, DAVID": 29,
+    "LASO MOLINO, ALEJANDRO": 29,
+    "TEJERO ESTEBAN, MIGUEL": 25,
+    "GARCIA DIAZ, JACINTO": 61,
+    "MARTINEZ MURIEDAS, PABLO": 28,
+    "LAVIN CHAVEZ, MARIO": 28,
+    "PERNIA COLINA, ROBERTO": 14,
+    "DE MIGUEL SAN EMETERIO, LUIS": 14
   },
   "portero_local": "ORTIZ SEGUROLA, GUILLERMO",
   "portero_visitante": "RODRIGUEZ AGUDO, HUGO",
