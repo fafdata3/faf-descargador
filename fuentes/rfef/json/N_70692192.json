@@ -143,20 +143,11 @@
   "convocados_sin_jugar_local": [
     "MOLINA EIRIS, PABLO",
     "PADERNE UZAL, HUGO",
-    "ROCHA ÁLVAREZ, MARIO",
-    "SUAREZ FERNANDEZ, JUAN",
-    "DYULGEROV, NIKOLAY GEORGIEV",
-    "CASTRO RODRIGUEZ, ANXO",
-    "GARCÍA GARCÍA, ARON"
+    "SUAREZ FERNANDEZ, JUAN"
   ],
   "convocados_sin_jugar_visitante": [
     "FRAGA PEREZ, RUBEN",
-    "VILAS PARAPAR, EDER",
-    "DURAN LEON, GABRIEL ALEJANDRO",
-    "GARRIDO PEREZ, ADRIAN",
-    "CANCELA MARTINEZ, KEVIN",
-    "PREGO PENA, ERIC",
-    "RAMOS RODRIGUEZ, MATEO"
+    "VILAS PARAPAR, EDER"
   ],
   "jugadores_local": [
     "RAMALLAL VAZQUEZ, PAULO",
@@ -169,7 +160,11 @@
     "VEGA ANDEON, URIEL",
     "SALAZAR ABARRATEGUI, ANDER",
     "MARTINEZ ROMAY, CRISTHIAN",
-    "FERNANDEZ PICON, BRAIS"
+    "FERNANDEZ PICON, BRAIS",
+    "DYULGEROV, NIKOLAY GEORGIEV",
+    "GARCÍA GARCÍA, ARON",
+    "CASTRO RODRIGUEZ, ANXO",
+    "ROCHA ÁLVAREZ, MARIO"
   ],
   "jugadores_visitante": [
     "CURTO MIRANDA, ADRIAN",
@@ -182,33 +177,94 @@
     "TRILLO ABELLEIRA, JOEL",
     "YAHIAOUI, ELYAS",
     "BAAMONDE FERREIRO, NICOLAS",
-    "GARCIA PAIS, ISMAEL"
+    "GARCIA PAIS, ISMAEL",
+    "RAMOS RODRIGUEZ, MATEO",
+    "CANCELA MARTINEZ, KEVIN",
+    "PREGO PENA, ERIC",
+    "DURAN LEON, GABRIEL ALEJANDRO",
+    "GARRIDO PEREZ, ADRIAN"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "DYULGEROV, NIKOLAY GEORGIEV",
+      "sale": "FERNANDEZ PICON, BRAIS"
+    },
+    {
+      "min": 60,
+      "entra": "GARCÍA GARCÍA, ARON",
+      "sale": "MARTINEZ ROMAY, CRISTHIAN"
+    },
+    {
+      "min": 75,
+      "entra": "CASTRO RODRIGUEZ, ANXO",
+      "sale": "ARMESTO DÍAZ, YAGO"
+    },
+    {
+      "min": 82,
+      "entra": "ROCHA ÁLVAREZ, MARIO",
+      "sale": "PÉREZ EDROSA, ADRIÁN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "RAMOS RODRIGUEZ, MATEO",
+      "sale": "YAHIAOUI, ELYAS"
+    },
+    {
+      "min": 59,
+      "entra": "CANCELA MARTINEZ, KEVIN",
+      "sale": "GARCIA PAIS, ISMAEL"
+    },
+    {
+      "min": 70,
+      "entra": "PREGO PENA, ERIC",
+      "sale": "CASTAÑO OTERO, IAGO"
+    },
+    {
+      "min": 70,
+      "entra": "DURAN LEON, GABRIEL ALEJANDRO",
+      "sale": "BENITO GOMEZ, GUILLERMO"
+    },
+    {
+      "min": 80,
+      "entra": "GARRIDO PEREZ, ADRIAN",
+      "sale": "CONCHEIRO DÁVILA, MAEL"
+    }
+  ],
   "minutos_jugadores": {
     "RAMALLAL VAZQUEZ, PAULO": 90,
     "RODRIGUEZ ABAD, DANIEL": 90,
     "MONTERO BASANTA, MARCOS": 90,
     "DOMÍNGUEZ BUA, MATEO": 90,
-    "ARMESTO DÍAZ, YAGO": 90,
-    "PÉREZ EDROSA, ADRIÁN": 90,
+    "ARMESTO DÍAZ, YAGO": 75,
+    "PÉREZ EDROSA, ADRIÁN": 82,
     "SILVA RODRIGUEZ, ANDRES": 90,
     "VEGA ANDEON, URIEL": 90,
     "SALAZAR ABARRATEGUI, ANDER": 90,
-    "MARTINEZ ROMAY, CRISTHIAN": 90,
-    "FERNANDEZ PICON, BRAIS": 90,
+    "MARTINEZ ROMAY, CRISTHIAN": 60,
+    "FERNANDEZ PICON, BRAIS": 46,
     "CURTO MIRANDA, ADRIAN": 90,
     "ALVAREZ SERBAN, MARIO": 90,
     "OJEA DA SILVEIRA, JULIAN ALEJANDRO": 90,
-    "CASTAÑO OTERO, IAGO": 90,
-    "CONCHEIRO DÁVILA, MAEL": 90,
+    "CASTAÑO OTERO, IAGO": 70,
+    "CONCHEIRO DÁVILA, MAEL": 80,
     "CARIDAD MARIÑAS, PABLO": 90,
-    "BENITO GOMEZ, GUILLERMO": 90,
+    "BENITO GOMEZ, GUILLERMO": 70,
     "TRILLO ABELLEIRA, JOEL": 90,
-    "YAHIAOUI, ELYAS": 90,
+    "YAHIAOUI, ELYAS": 59,
     "BAAMONDE FERREIRO, NICOLAS": 90,
-    "GARCIA PAIS, ISMAEL": 90
+    "GARCIA PAIS, ISMAEL": 59,
+    "DYULGEROV, NIKOLAY GEORGIEV": 44,
+    "GARCÍA GARCÍA, ARON": 30,
+    "CASTRO RODRIGUEZ, ANXO": 15,
+    "ROCHA ÁLVAREZ, MARIO": 8,
+    "RAMOS RODRIGUEZ, MATEO": 31,
+    "CANCELA MARTINEZ, KEVIN": 31,
+    "PREGO PENA, ERIC": 20,
+    "DURAN LEON, GABRIEL ALEJANDRO": 20,
+    "GARRIDO PEREZ, ADRIAN": 10
   },
   "portero_local": "RAMALLAL VAZQUEZ, PAULO",
   "portero_visitante": "CURTO MIRANDA, ADRIAN",
