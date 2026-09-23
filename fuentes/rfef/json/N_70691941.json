@@ -9,8 +9,8 @@
   "categoria": "División Honor Cadete Playa (DHC)",
   "equipo_local": "BENIDORM FOIETES",
   "equipo_visitante": "ALICANTE SUN F.C.",
-  "goles_local": 5,
-  "goles_visitante": 4,
+  "goles_local": 4,
+  "goles_visitante": 1,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -52,8 +52,8 @@
     {
       "minuto": 16,
       "jugador": "NUÑEZ ARACIL, JORGE",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 25,
@@ -177,6 +177,5 @@
     "LEY BAJUELO, DIEGO": 18,
     "PÉREZ MENDONÇA NUNES, LUIS": 28
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
