@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Alevin Masculino (FASE FINAL)",
   "equipo_local": "SELECCIÓN CANARIA",
   "equipo_visitante": "SELECCIÓN ANDALUZA",
-  "goles_local": 4,
-  "goles_visitante": 5,
-  "resultado": "L",
+  "goles_local": 3,
+  "goles_visitante": 3,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "MARTÍNEZ IBÁÑEZ, ALEJANDRO",
@@ -59,7 +59,7 @@
       "minuto": 19,
       "jugador": "POSADA ACUÑA, LUCAS",
       "equipo": "?",
-      "propia": true
+      "propia": false
     },
     {
       "minuto": 23,
@@ -210,6 +210,5 @@
     "GUERRERO SANCHEZ, FRANCISCO": 8,
     "ROMERO MONTALBAN, RAUL": 10
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
