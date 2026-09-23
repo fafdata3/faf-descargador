@@ -135,21 +135,11 @@
   ],
   "convocados_sin_jugar_local": [
     "FRAGA PEREZ, RUBEN",
-    "DURAN LEON, GABRIEL ALEJANDRO",
-    "PREGO PENA, ERIC",
-    "SUAREZ GARCIA, ANXO",
-    "GARRIDO PEREZ, ADRIAN",
-    "RAMOS RODRIGUEZ, MATEO",
     "YAHIAOUI, ELYAS"
   ],
   "convocados_sin_jugar_visitante": [
     "BRIZ ESTEBANEZ, ALBERTO",
-    "DE SANTIAGO BEZANILLA, GERMAN",
-    "GOMEZ CUEVAS, RODRIGO",
-    "AMBROSIO OBREGON, ENRIQUE MANUEL",
-    "PERALES RUIZ, MARIO",
-    "MIERA MARTINEZ, HUGO",
-    "SANCHEZ BILBAO, MIGUEL"
+    "MIERA MARTINEZ, HUGO"
   ],
   "jugadores_local": [
     "CURTO MIRANDA, ADRIAN",
@@ -162,7 +152,12 @@
     "TRILLO ABELLEIRA, JOEL",
     "BAAMONDE FERREIRO, NICOLAS",
     "CANCELA MARTINEZ, KEVIN",
-    "GARCIA PAIS, ISMAEL"
+    "GARCIA PAIS, ISMAEL",
+    "GARRIDO PEREZ, ADRIAN",
+    "RAMOS RODRIGUEZ, MATEO",
+    "PREGO PENA, ERIC",
+    "SUAREZ GARCIA, ANXO",
+    "DURAN LEON, GABRIEL ALEJANDRO"
   ],
   "jugadores_visitante": [
     "DOMINGUEZ FREIRE, HUGO",
@@ -175,33 +170,100 @@
     "VIDIELLA GONZALEZ, MARCO",
     "SANCHEZ MEDINA, MARCO",
     "DIESTRO LANZA, RODRIGO",
-    "JIMENEZ NIÑO, DAVID"
+    "JIMENEZ NIÑO, DAVID",
+    "GOMEZ CUEVAS, RODRIGO",
+    "AMBROSIO OBREGON, ENRIQUE MANUEL",
+    "SANCHEZ BILBAO, MIGUEL",
+    "PERALES RUIZ, MARIO",
+    "DE SANTIAGO BEZANILLA, GERMAN"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 28,
+      "entra": "GARRIDO PEREZ, ADRIAN",
+      "sale": "CARIDAD MARIÑAS, PABLO"
+    },
+    {
+      "min": 63,
+      "entra": "RAMOS RODRIGUEZ, MATEO",
+      "sale": "CANCELA MARTINEZ, KEVIN"
+    },
+    {
+      "min": 79,
+      "entra": "PREGO PENA, ERIC",
+      "sale": "GARCIA PAIS, ISMAEL"
+    },
+    {
+      "min": 79,
+      "entra": "SUAREZ GARCIA, ANXO",
+      "sale": "GARRIDO PEREZ, ADRIAN"
+    },
+    {
+      "min": 79,
+      "entra": "DURAN LEON, GABRIEL ALEJANDRO",
+      "sale": "VILAS PARAPAR, EDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "GOMEZ CUEVAS, RODRIGO",
+      "sale": "MOLINA PRADA, MARIO"
+    },
+    {
+      "min": 60,
+      "entra": "AMBROSIO OBREGON, ENRIQUE MANUEL",
+      "sale": "FERREIRO ROBLES, DIEGO"
+    },
+    {
+      "min": 60,
+      "entra": "SANCHEZ BILBAO, MIGUEL",
+      "sale": "JIMENEZ NIÑO, DAVID"
+    },
+    {
+      "min": 76,
+      "entra": "PERALES RUIZ, MARIO",
+      "sale": "VERDEJA ASTORECA, JORGE"
+    },
+    {
+      "min": 76,
+      "entra": "DE SANTIAGO BEZANILLA, GERMAN",
+      "sale": "RODRIGUEZ LEICEA, ANER"
+    }
+  ],
   "minutos_jugadores": {
     "CURTO MIRANDA, ADRIAN": 90,
     "ALVAREZ SERBAN, MARIO": 90,
     "OJEA DA SILVEIRA, JULIAN ALEJANDRO": 90,
-    "VILAS PARAPAR, EDER": 90,
+    "VILAS PARAPAR, EDER": 79,
     "CONCHEIRO DÁVILA, MAEL": 90,
-    "CARIDAD MARIÑAS, PABLO": 90,
+    "CARIDAD MARIÑAS, PABLO": 28,
     "BENITO GOMEZ, GUILLERMO": 90,
     "TRILLO ABELLEIRA, JOEL": 90,
     "BAAMONDE FERREIRO, NICOLAS": 90,
-    "CANCELA MARTINEZ, KEVIN": 90,
-    "GARCIA PAIS, ISMAEL": 90,
+    "CANCELA MARTINEZ, KEVIN": 63,
+    "GARCIA PAIS, ISMAEL": 79,
     "DOMINGUEZ FREIRE, HUGO": 90,
     "ABAD BECERRA, ALEX": 90,
-    "MOLINA PRADA, MARIO": 90,
-    "FERREIRO ROBLES, DIEGO": 90,
-    "VERDEJA ASTORECA, JORGE": 90,
-    "RODRIGUEZ LEICEA, ANER": 90,
+    "MOLINA PRADA, MARIO": 60,
+    "FERREIRO ROBLES, DIEGO": 60,
+    "VERDEJA ASTORECA, JORGE": 76,
+    "RODRIGUEZ LEICEA, ANER": 76,
     "URDIALES PEREZ, GABRIEL": 90,
     "VIDIELLA GONZALEZ, MARCO": 90,
     "SANCHEZ MEDINA, MARCO": 90,
     "DIESTRO LANZA, RODRIGO": 90,
-    "JIMENEZ NIÑO, DAVID": 90
+    "JIMENEZ NIÑO, DAVID": 60,
+    "GARRIDO PEREZ, ADRIAN": 79,
+    "RAMOS RODRIGUEZ, MATEO": 27,
+    "PREGO PENA, ERIC": 11,
+    "SUAREZ GARCIA, ANXO": 11,
+    "DURAN LEON, GABRIEL ALEJANDRO": 11,
+    "GOMEZ CUEVAS, RODRIGO": 30,
+    "AMBROSIO OBREGON, ENRIQUE MANUEL": 30,
+    "SANCHEZ BILBAO, MIGUEL": 30,
+    "PERALES RUIZ, MARIO": 14,
+    "DE SANTIAGO BEZANILLA, GERMAN": 14
   },
   "portero_local": "CURTO MIRANDA, ADRIAN",
   "portero_visitante": "DOMINGUEZ FREIRE, HUGO",
