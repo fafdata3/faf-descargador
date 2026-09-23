@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Primera División de Futbol Playa Femenino (Primera División Nacional Femenina)",
   "equipo_local": "TURIA BEACH SOCCER CLUB",
   "equipo_visitante": "C.D. ATLETICO TORROXEÑO",
-  "goles_local": 4,
-  "goles_visitante": 2,
-  "resultado": "W",
+  "goles_local": 3,
+  "goles_visitante": 3,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "CARO MOGÍO, ÁNGEL",
@@ -58,8 +58,8 @@
     {
       "minuto": 34,
       "jugador": "YAMADA, SHOKO",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     }
   ],
   "tarjetas": [],
@@ -147,6 +147,5 @@
     "HIRAYAMA, AIRI": 5,
     "YAMADA, SHOKO": 7
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
