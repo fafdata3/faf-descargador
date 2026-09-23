@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Primera División de Futbol Playa Femenino (Primera División Nacional Femenina)",
   "equipo_local": "AGUADULCE POLIDEPORTIVO A.D.",
   "equipo_visitante": "TURIA BEACH SOCCER CLUB",
-  "goles_local": 2,
-  "goles_visitante": 3,
+  "goles_local": 1,
+  "goles_visitante": 4,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -28,8 +28,8 @@
     {
       "minuto": 7,
       "jugador": "HERRERA DE MIGUEL, LORENA",
-      "equipo": "local",
-      "propia": false
+      "equipo": "visitante",
+      "propia": true
     },
     {
       "minuto": 10,
@@ -145,5 +145,6 @@
     "CASTELLO BONILLA, VANESSA": 9,
     "BONET NOTARIO, YADIRA": 16
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
