@@ -56,7 +56,7 @@
     {
       "minuto": 90,
       "jugador": "DEL RIO ESPARZA, EKAIN",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     }
   ],
@@ -172,21 +172,11 @@
   ],
   "convocados_sin_jugar_local": [
     "GARCIA DELGADO, MARKEL",
-    "MIQUELARENA VIZCAYA, ANDONI",
-    "ANTOLIN ARMENTEROS, MARKEL",
-    "DEL RIO ESPARZA, EKAIN",
-    "LOPEZ KORTA, GORKA",
-    "RAMOS BERDOTE, MARKEL",
-    "CARBAJO ANCHIA, GORKA"
+    "MIQUELARENA VIZCAYA, ANDONI"
   ],
   "convocados_sin_jugar_visitante": [
     "FLORES OSORIO, HUGO",
-    "VELASCO RODRIGUEZ, DIEGO",
-    "FERNANDEZ ALONSO, BELTRAN",
-    "OCHOA MARTINEZ, ANGEL",
-    "GARCIA SOTORRIO, JORGE",
-    "SEOANE CASTRO, JUAN",
-    "IGLESIAS FERNANDEZ, IZAN"
+    "GARCIA SOTORRIO, JORGE"
   ],
   "jugadores_local": [
     "TORRONTEGUI DIAS, GAIZKA",
@@ -199,7 +189,12 @@
     "GUTIERREZ CASTAÑEIRA, PAUL",
     "SANTAMARIA MARTINEZ, KERMAN",
     "GOIKOETXEA OTAOLA, JULEN",
-    "VIVANCO MIGUEL, DANEL"
+    "VIVANCO MIGUEL, DANEL",
+    "RAMOS BERDOTE, MARKEL",
+    "ANTOLIN ARMENTEROS, MARKEL",
+    "CARBAJO ANCHIA, GORKA",
+    "DEL RIO ESPARZA, EKAIN",
+    "LOPEZ KORTA, GORKA"
   ],
   "jugadores_visitante": [
     "EIRIZ GONZALEZ, LUCAS",
@@ -212,33 +207,100 @@
     "RODRIGO CARO, MARCO",
     "ALVAREZ MARTINEZ, DANIEL",
     "LARRAURI GONÇALVES, GAIZKA",
-    "DIAZ ALEJO, BORJA"
+    "DIAZ ALEJO, BORJA",
+    "SEOANE CASTRO, JUAN",
+    "IGLESIAS FERNANDEZ, IZAN",
+    "VELASCO RODRIGUEZ, DIEGO",
+    "OCHOA MARTINEZ, ANGEL",
+    "FERNANDEZ ALONSO, BELTRAN"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "RAMOS BERDOTE, MARKEL",
+      "sale": "GUTIERREZ CASTAÑEIRA, PAUL"
+    },
+    {
+      "min": 46,
+      "entra": "ANTOLIN ARMENTEROS, MARKEL",
+      "sale": "GALDEANO BARANDIKA, IKER"
+    },
+    {
+      "min": 65,
+      "entra": "CARBAJO ANCHIA, GORKA",
+      "sale": "DE ABAJO LOPEZ, BEÑAT"
+    },
+    {
+      "min": 76,
+      "entra": "DEL RIO ESPARZA, EKAIN",
+      "sale": "GOIKOETXEA OTAOLA, JULEN"
+    },
+    {
+      "min": 81,
+      "entra": "LOPEZ KORTA, GORKA",
+      "sale": "SANTAMARIA MARTINEZ, KERMAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "SEOANE CASTRO, JUAN",
+      "sale": "ALVAREZ MARTINEZ, DANIEL"
+    },
+    {
+      "min": 60,
+      "entra": "IGLESIAS FERNANDEZ, IZAN",
+      "sale": "DIAZ ALEJO, BORJA"
+    },
+    {
+      "min": 70,
+      "entra": "VELASCO RODRIGUEZ, DIEGO",
+      "sale": "GONZALEZ CACHAN, SERGIO"
+    },
+    {
+      "min": 81,
+      "entra": "OCHOA MARTINEZ, ANGEL",
+      "sale": "ROJO BREA, PABLO"
+    },
+    {
+      "min": 81,
+      "entra": "FERNANDEZ ALONSO, BELTRAN",
+      "sale": "LARRAURI GONÇALVES, GAIZKA"
+    }
+  ],
   "minutos_jugadores": {
     "TORRONTEGUI DIAS, GAIZKA": 90,
     "ZUAZO MUELA, MARTIN": 90,
     "TORRES IBAÑEZ DE MAEZTU, ALEX": 90,
     "BIDAURRAZAGA MORGADO, ASIER": 90,
-    "GALDEANO BARANDIKA, IKER": 90,
-    "DE ABAJO LOPEZ, BEÑAT": 90,
+    "GALDEANO BARANDIKA, IKER": 46,
+    "DE ABAJO LOPEZ, BEÑAT": 65,
     "PEREZ RODRIGUEZ, IÑIGO": 90,
-    "GUTIERREZ CASTAÑEIRA, PAUL": 90,
-    "SANTAMARIA MARTINEZ, KERMAN": 90,
-    "GOIKOETXEA OTAOLA, JULEN": 90,
+    "GUTIERREZ CASTAÑEIRA, PAUL": 46,
+    "SANTAMARIA MARTINEZ, KERMAN": 81,
+    "GOIKOETXEA OTAOLA, JULEN": 76,
     "VIVANCO MIGUEL, DANEL": 90,
     "EIRIZ GONZALEZ, LUCAS": 90,
-    "GONZALEZ CACHAN, SERGIO": 90,
+    "GONZALEZ CACHAN, SERGIO": 70,
     "LAFUENTE SARMIENTO, MARIO": 90,
     "IBAÑEZ POTES, MANUEL": 90,
     "PAPA FALEFE, SY": 90,
-    "ROJO BREA, PABLO": 90,
+    "ROJO BREA, PABLO": 81,
     "GARCIA GUTIERREZ, HUGO": 90,
     "RODRIGO CARO, MARCO": 90,
-    "ALVAREZ MARTINEZ, DANIEL": 90,
-    "LARRAURI GONÇALVES, GAIZKA": 90,
-    "DIAZ ALEJO, BORJA": 90
+    "ALVAREZ MARTINEZ, DANIEL": 60,
+    "LARRAURI GONÇALVES, GAIZKA": 81,
+    "DIAZ ALEJO, BORJA": 60,
+    "RAMOS BERDOTE, MARKEL": 44,
+    "ANTOLIN ARMENTEROS, MARKEL": 44,
+    "CARBAJO ANCHIA, GORKA": 25,
+    "DEL RIO ESPARZA, EKAIN": 14,
+    "LOPEZ KORTA, GORKA": 9,
+    "SEOANE CASTRO, JUAN": 30,
+    "IGLESIAS FERNANDEZ, IZAN": 30,
+    "VELASCO RODRIGUEZ, DIEGO": 20,
+    "OCHOA MARTINEZ, ANGEL": 9,
+    "FERNANDEZ ALONSO, BELTRAN": 9
   },
   "portero_local": "TORRONTEGUI DIAS, GAIZKA",
   "portero_visitante": "EIRIZ GONZALEZ, LUCAS",
