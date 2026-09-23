@@ -10,8 +10,8 @@
   "equipo_local": "C.P.D. CIUDAD DE CADIZ",
   "equipo_visitante": "CADIZ CF",
   "goles_local": 2,
-  "goles_visitante": 1,
-  "resultado": "W",
+  "goles_visitante": 4,
+  "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
     "DIAZ DE SARRALDE MARTÍN, JON",
@@ -40,8 +40,8 @@
     {
       "minuto": 29,
       "jugador": "VAZQUEZ CARBONELL, ALEJANDRA",
-      "equipo": "local",
-      "propia": false
+      "equipo": "visitante",
+      "propia": true
     },
     {
       "minuto": 30,
@@ -161,5 +161,6 @@
     "OLMO DIAZ, NOELIA": 9,
     "VIDAL VELA, MARTA": 10
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
