@@ -32,7 +32,7 @@
     {
       "minuto": 84,
       "jugador": "ORAA ORTIZ DE MENDIBIL, MARKEL",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     }
   ],
@@ -155,21 +155,12 @@
   ],
   "convocados_sin_jugar_local": [
     "RIO ALONSO, IBAI DAVID",
-    "ORAA ORTIZ DE MENDIBIL, MARKEL",
     "CASADO LOPEZ, UNAI",
-    "BARREÑA SAEZ DE CAMARA, ASIER",
-    "CALVO VILLANUEVA, GUILLERMO",
-    "GARCIA CASTRO, HUGO",
     "GARBAYO MAULEON, HUGO"
   ],
   "convocados_sin_jugar_visitante": [
     "ALBISU JAUREGI, UHAITZ",
-    "TOLEDOTXIKI KEREJETA, AMETS",
-    "SALGUEIRO JALON, GONZALO",
-    "ALBERDI ALBISU, IÑIGO",
-    "SAIZAR DIAZ, UNAX",
-    "BELHAT ELMASBAHI, ADAM",
-    "VIDAL ARRUTI, HARITZ"
+    "TOLEDOTXIKI KEREJETA, AMETS"
   ],
   "jugadores_local": [
     "MAYE EBO, LEUDIS",
@@ -182,7 +173,11 @@
     "DE SOUSA FERNANDEZ, JON",
     "DIARRA SOUMANO, TIEMOKO",
     "ARCHI BEZIOUI, RAYAN",
-    "NECHADI DOMINGUEZ, NABIL"
+    "NECHADI DOMINGUEZ, NABIL",
+    "GARCIA CASTRO, HUGO",
+    "CALVO VILLANUEVA, GUILLERMO",
+    "BARREÑA SAEZ DE CAMARA, ASIER",
+    "ORAA ORTIZ DE MENDIBIL, MARKEL"
   ],
   "jugadores_visitante": [
     "LIZARTZA GORROTXATEGI, URKO",
@@ -195,10 +190,62 @@
     "GALARZA GARMENDIA, EÑAUT",
     "CARCEDO URBIETA, MIKEL",
     "FERNANDEZ DE LEZEA LATABURU, MARKEL",
-    "EL FAKHKHAR FERNANDEZ, ANASS"
+    "EL FAKHKHAR FERNANDEZ, ANASS",
+    "BELHAT ELMASBAHI, ADAM",
+    "SAIZAR DIAZ, UNAX",
+    "SALGUEIRO JALON, GONZALO",
+    "ALBERDI ALBISU, IÑIGO",
+    "VIDAL ARRUTI, HARITZ"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 24,
+      "entra": "GARCIA CASTRO, HUGO",
+      "sale": "ARCHI BEZIOUI, RAYAN"
+    },
+    {
+      "min": 63,
+      "entra": "CALVO VILLANUEVA, GUILLERMO",
+      "sale": "DE SOUSA FERNANDEZ, JON"
+    },
+    {
+      "min": 63,
+      "entra": "BARREÑA SAEZ DE CAMARA, ASIER",
+      "sale": "GARCIA MANZANARES, FERNANDO"
+    },
+    {
+      "min": 76,
+      "entra": "ORAA ORTIZ DE MENDIBIL, MARKEL",
+      "sale": "NECHADI DOMINGUEZ, NABIL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 64,
+      "entra": "BELHAT ELMASBAHI, ADAM",
+      "sale": "CARCEDO URBIETA, MIKEL"
+    },
+    {
+      "min": 64,
+      "entra": "SAIZAR DIAZ, UNAX",
+      "sale": "VIDORRETA CASTAÑEDA, JON SANTIAGO"
+    },
+    {
+      "min": 70,
+      "entra": "SALGUEIRO JALON, GONZALO",
+      "sale": "GALARZA GARMENDIA, EÑAUT"
+    },
+    {
+      "min": 70,
+      "entra": "ALBERDI ALBISU, IÑIGO",
+      "sale": "FERNANDEZ DE LEZEA LATABURU, MARKEL"
+    },
+    {
+      "min": 77,
+      "entra": "VIDAL ARRUTI, HARITZ",
+      "sale": "ITURRIZA LULUAGA, MARKEL"
+    }
+  ],
   "minutos_jugadores": {
     "MAYE EBO, LEUDIS": 90,
     "BOYANO DELGADO, ALAIN": 90,
@@ -206,22 +253,31 @@
     "BENAISSA AGBALOU, HAYTAM": 90,
     "CASTAÑO ORTIZ DE URBINA, UNAX": 90,
     "FRANCES VAZQUEZ, ARGOITZ": 90,
-    "GARCIA MANZANARES, FERNANDO": 90,
-    "DE SOUSA FERNANDEZ, JON": 90,
+    "GARCIA MANZANARES, FERNANDO": 63,
+    "DE SOUSA FERNANDEZ, JON": 63,
     "DIARRA SOUMANO, TIEMOKO": 90,
-    "ARCHI BEZIOUI, RAYAN": 90,
-    "NECHADI DOMINGUEZ, NABIL": 90,
+    "ARCHI BEZIOUI, RAYAN": 24,
+    "NECHADI DOMINGUEZ, NABIL": 76,
     "LIZARTZA GORROTXATEGI, URKO": 90,
-    "ITURRIZA LULUAGA, MARKEL": 90,
+    "ITURRIZA LULUAGA, MARKEL": 77,
     "VITORIA SAN SEBASTIAN, UNAX": 90,
     "ENPARANTZA ALUSTIZA, AIMAR": 90,
     "GARMENDIA LOPEZ, ARATZ": 90,
     "RUBIO ALONSO, OIHAN": 90,
-    "VIDORRETA CASTAÑEDA, JON SANTIAGO": 90,
-    "GALARZA GARMENDIA, EÑAUT": 90,
-    "CARCEDO URBIETA, MIKEL": 90,
-    "FERNANDEZ DE LEZEA LATABURU, MARKEL": 90,
-    "EL FAKHKHAR FERNANDEZ, ANASS": 90
+    "VIDORRETA CASTAÑEDA, JON SANTIAGO": 64,
+    "GALARZA GARMENDIA, EÑAUT": 70,
+    "CARCEDO URBIETA, MIKEL": 64,
+    "FERNANDEZ DE LEZEA LATABURU, MARKEL": 70,
+    "EL FAKHKHAR FERNANDEZ, ANASS": 90,
+    "GARCIA CASTRO, HUGO": 66,
+    "CALVO VILLANUEVA, GUILLERMO": 27,
+    "BARREÑA SAEZ DE CAMARA, ASIER": 27,
+    "ORAA ORTIZ DE MENDIBIL, MARKEL": 14,
+    "BELHAT ELMASBAHI, ADAM": 26,
+    "SAIZAR DIAZ, UNAX": 26,
+    "SALGUEIRO JALON, GONZALO": 20,
+    "ALBERDI ALBISU, IÑIGO": 20,
+    "VIDAL ARRUTI, HARITZ": 13
   },
   "portero_local": "MAYE EBO, LEUDIS",
   "portero_visitante": "LIZARTZA GORROTXATEGI, URKO",
