@@ -32,13 +32,13 @@
     {
       "minuto": 85,
       "jugador": "COTELO PEREZ, HUGO",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     },
     {
       "minuto": 87,
       "jugador": "CABADA LÓPEZ, ROI",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     }
   ],
@@ -118,20 +118,10 @@
   ],
   "convocados_sin_jugar_local": [
     "BRIZ ESTEBANEZ, ALBERTO",
-    "DE SANTIAGO BEZANILLA, GERMAN",
-    "MOLINA PRADA, MARIO",
-    "VERDEJA ASTORECA, JORGE",
-    "ABAD BECERRA, ALEX",
-    "MIERA MARTINEZ, HUGO",
-    "JIMENEZ NIÑO, DAVID"
+    "ABAD BECERRA, ALEX"
   ],
   "convocados_sin_jugar_visitante": [
-    "CASTRO MENDEZ, BREIXO",
-    "CABADA LÓPEZ, ROI",
-    "RAMOS SEIJO, GUILLERMO",
-    "LISTE BARREIRO, JOEL",
-    "BERMUDEZ MARTINEZ, NICOLAS",
-    "COTELO PEREZ, HUGO"
+    "LISTE BARREIRO, JOEL"
   ],
   "jugadores_local": [
     "DOMINGUEZ FREIRE, HUGO",
@@ -144,7 +134,12 @@
     "URDIALES PEREZ, GABRIEL",
     "VIDIELLA GONZALEZ, MARCO",
     "SANCHEZ MEDINA, MARCO",
-    "DIESTRO LANZA, RODRIGO"
+    "DIESTRO LANZA, RODRIGO",
+    "VERDEJA ASTORECA, JORGE",
+    "MOLINA PRADA, MARIO",
+    "JIMENEZ NIÑO, DAVID",
+    "MIERA MARTINEZ, HUGO",
+    "DE SANTIAGO BEZANILLA, GERMAN"
   ],
   "jugadores_visitante": [
     "VAZQUEZ BERMUDEZ, LUCAS",
@@ -157,33 +152,100 @@
     "AMADO VAZQUEZ, HUGO",
     "CAMBA ESMORIS, HUGO",
     "FLOREK GONZALEZ, JANUSZ",
-    "ESTEVEZ TORRES, BREIXO"
+    "ESTEVEZ TORRES, BREIXO",
+    "CABADA LÓPEZ, ROI",
+    "COTELO PEREZ, HUGO",
+    "BERMUDEZ MARTINEZ, NICOLAS",
+    "RAMOS SEIJO, GUILLERMO",
+    "CASTRO MENDEZ, BREIXO"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "VERDEJA ASTORECA, JORGE",
+      "sale": "GOMEZ CUEVAS, RODRIGO"
+    },
+    {
+      "min": 59,
+      "entra": "MOLINA PRADA, MARIO",
+      "sale": "MANTECON TEJEDOR, MARCOS"
+    },
+    {
+      "min": 59,
+      "entra": "JIMENEZ NIÑO, DAVID",
+      "sale": "AMBROSIO OBREGON, ENRIQUE MANUEL"
+    },
+    {
+      "min": 66,
+      "entra": "MIERA MARTINEZ, HUGO",
+      "sale": "FERREIRO ROBLES, DIEGO"
+    },
+    {
+      "min": 70,
+      "entra": "DE SANTIAGO BEZANILLA, GERMAN",
+      "sale": "VIDIELLA GONZALEZ, MARCO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "CABADA LÓPEZ, ROI",
+      "sale": "ESTEVEZ TORRES, BREIXO"
+    },
+    {
+      "min": 56,
+      "entra": "COTELO PEREZ, HUGO",
+      "sale": "CAAMAÑO GARCIA, MATEO"
+    },
+    {
+      "min": 56,
+      "entra": "BERMUDEZ MARTINEZ, NICOLAS",
+      "sale": "FLOREK GONZALEZ, JANUSZ"
+    },
+    {
+      "min": 71,
+      "entra": "RAMOS SEIJO, GUILLERMO",
+      "sale": "ARIAS LOPEZ, MARCOS"
+    },
+    {
+      "min": 76,
+      "entra": "CASTRO MENDEZ, BREIXO",
+      "sale": "CARRO CAAMAÑO, XOEL"
+    }
+  ],
   "minutos_jugadores": {
     "DOMINGUEZ FREIRE, HUGO": 90,
-    "MANTECON TEJEDOR, MARCOS": 90,
-    "FERREIRO ROBLES, DIEGO": 90,
-    "GOMEZ CUEVAS, RODRIGO": 90,
-    "AMBROSIO OBREGON, ENRIQUE MANUEL": 90,
+    "MANTECON TEJEDOR, MARCOS": 59,
+    "FERREIRO ROBLES, DIEGO": 66,
+    "GOMEZ CUEVAS, RODRIGO": 46,
+    "AMBROSIO OBREGON, ENRIQUE MANUEL": 59,
     "PERALES RUIZ, MARIO": 90,
     "RODRIGUEZ LEICEA, ANER": 90,
     "URDIALES PEREZ, GABRIEL": 90,
-    "VIDIELLA GONZALEZ, MARCO": 90,
+    "VIDIELLA GONZALEZ, MARCO": 70,
     "SANCHEZ MEDINA, MARCO": 90,
     "DIESTRO LANZA, RODRIGO": 90,
     "VAZQUEZ BERMUDEZ, LUCAS": 90,
     "CHANS SAGUILLO, DANIEL": 90,
     "VAZQUEZ ALVAREZ, IAGO": 90,
-    "CAAMAÑO GARCIA, MATEO": 90,
-    "CARRO CAAMAÑO, XOEL": 90,
+    "CAAMAÑO GARCIA, MATEO": 56,
+    "CARRO CAAMAÑO, XOEL": 76,
     "MENDEZ AGBAMU, SAMUEL": 90,
-    "ARIAS LOPEZ, MARCOS": 90,
+    "ARIAS LOPEZ, MARCOS": 71,
     "AMADO VAZQUEZ, HUGO": 90,
     "CAMBA ESMORIS, HUGO": 90,
-    "FLOREK GONZALEZ, JANUSZ": 90,
-    "ESTEVEZ TORRES, BREIXO": 90
+    "FLOREK GONZALEZ, JANUSZ": 56,
+    "ESTEVEZ TORRES, BREIXO": 56,
+    "VERDEJA ASTORECA, JORGE": 44,
+    "MOLINA PRADA, MARIO": 31,
+    "JIMENEZ NIÑO, DAVID": 31,
+    "MIERA MARTINEZ, HUGO": 24,
+    "DE SANTIAGO BEZANILLA, GERMAN": 20,
+    "CABADA LÓPEZ, ROI": 34,
+    "COTELO PEREZ, HUGO": 34,
+    "BERMUDEZ MARTINEZ, NICOLAS": 34,
+    "RAMOS SEIJO, GUILLERMO": 19,
+    "CASTRO MENDEZ, BREIXO": 14
   },
   "portero_local": "DOMINGUEZ FREIRE, HUGO",
   "portero_visitante": "VAZQUEZ BERMUDEZ, LUCAS",
@@ -213,6 +275,5 @@
     "FLOREK GONZALEZ, JANUSZ": 16,
     "ESTEVEZ TORRES, BREIXO": 24
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
