@@ -32,19 +32,19 @@
     {
       "minuto": 80,
       "jugador": "PEREZ-LAFUENTE REY, JORGE",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     },
     {
       "minuto": 85,
       "jugador": "GARCIA ALVAREZ, PEDRO ILDEFONSO",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     },
     {
       "minuto": 90,
       "jugador": "GARCIA ALVAREZ, PEDRO ILDEFONSO",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     }
   ],
@@ -131,22 +131,12 @@
     "LOPEZ GOMEZ, HUGO"
   ],
   "convocados_sin_jugar_local": [
-    "MORENO GONZALEZ, DIEGO",
     "MENDEZ AGBAMU, SAMUEL",
-    "MARTINEZ ALVAREZ, DIEGO",
-    "LISTE BARREIRO, JOEL",
-    "FLOREK GONZALEZ, JANUSZ",
-    "ESCANDÓN BUYO, ABEL",
-    "ESTEVEZ TORRES, BREIXO"
+    "LISTE BARREIRO, JOEL"
   ],
   "convocados_sin_jugar_visitante": [
     "GONZALEZ COTADO, SAUL",
-    "PEREZ FREIRE, PABLO",
-    "GARCIA ALVAREZ, PEDRO ILDEFONSO",
-    "PEREZ-LAFUENTE REY, JORGE",
-    "RODRIGUEZ DOMINGUEZ, PABLO",
-    "MATUTE DOMINGUEZ, DIEGO",
-    "LOPEZ GOMEZ, HUGO"
+    "PEREZ FREIRE, PABLO"
   ],
   "jugadores_local": [
     "VAZQUEZ BERMUDEZ, LUCAS",
@@ -159,7 +149,12 @@
     "AMADO VAZQUEZ, HUGO",
     "CAMBA ESMORIS, HUGO",
     "FERNANDEZ RODRIGUEZ, LEO",
-    "COTELO PEREZ, HUGO"
+    "COTELO PEREZ, HUGO",
+    "ESCANDÓN BUYO, ABEL",
+    "FLOREK GONZALEZ, JANUSZ",
+    "MARTINEZ ALVAREZ, DIEGO",
+    "ESTEVEZ TORRES, BREIXO",
+    "MORENO GONZALEZ, DIEGO"
   ],
   "jugadores_visitante": [
     "OPI TURPEINEN, ASLAK",
@@ -172,33 +167,100 @@
     "RODRIGUEZ GOMEZ, IKER",
     "APARICIO CARBALLO, PABLO",
     "SUEIRO MUÍÑOS, DAVID",
-    "RUIZ PEREZ, DANIEL"
+    "RUIZ PEREZ, DANIEL",
+    "LOPEZ GOMEZ, HUGO",
+    "RODRIGUEZ DOMINGUEZ, PABLO",
+    "MATUTE DOMINGUEZ, DIEGO",
+    "GARCIA ALVAREZ, PEDRO ILDEFONSO",
+    "PEREZ-LAFUENTE REY, JORGE"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "ESCANDÓN BUYO, ABEL",
+      "sale": "CAMBA ESMORIS, HUGO"
+    },
+    {
+      "min": 58,
+      "entra": "FLOREK GONZALEZ, JANUSZ",
+      "sale": "FERNANDEZ RODRIGUEZ, LEO"
+    },
+    {
+      "min": 58,
+      "entra": "MARTINEZ ALVAREZ, DIEGO",
+      "sale": "COTELO PEREZ, HUGO"
+    },
+    {
+      "min": 69,
+      "entra": "ESTEVEZ TORRES, BREIXO",
+      "sale": "AMADO VAZQUEZ, HUGO"
+    },
+    {
+      "min": 80,
+      "entra": "MORENO GONZALEZ, DIEGO",
+      "sale": "CABADA LÓPEZ, ROI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "LOPEZ GOMEZ, HUGO",
+      "sale": "RODRIGUEZ GOMEZ, IKER"
+    },
+    {
+      "min": 51,
+      "entra": "RODRIGUEZ DOMINGUEZ, PABLO",
+      "sale": "BARREIROS NUÑEZ, IAGO"
+    },
+    {
+      "min": 66,
+      "entra": "MATUTE DOMINGUEZ, DIEGO",
+      "sale": "LOPEZ ESTRAVIZ, DIEGO"
+    },
+    {
+      "min": 66,
+      "entra": "GARCIA ALVAREZ, PEDRO ILDEFONSO",
+      "sale": "APARICIO CARBALLO, PABLO"
+    },
+    {
+      "min": 66,
+      "entra": "PEREZ-LAFUENTE REY, JORGE",
+      "sale": "RUIZ PEREZ, DANIEL"
+    }
+  ],
   "minutos_jugadores": {
     "VAZQUEZ BERMUDEZ, LUCAS": 90,
     "CHANS SAGUILLO, DANIEL": 90,
     "CASTRO MENDEZ, BREIXO": 90,
     "CAAMAÑO GARCIA, MATEO": 90,
     "CARRO CAAMAÑO, XOEL": 90,
-    "CABADA LÓPEZ, ROI": 90,
+    "CABADA LÓPEZ, ROI": 80,
     "ARIAS LOPEZ, MARCOS": 90,
-    "AMADO VAZQUEZ, HUGO": 90,
-    "CAMBA ESMORIS, HUGO": 90,
-    "FERNANDEZ RODRIGUEZ, LEO": 90,
-    "COTELO PEREZ, HUGO": 90,
+    "AMADO VAZQUEZ, HUGO": 69,
+    "CAMBA ESMORIS, HUGO": 46,
+    "FERNANDEZ RODRIGUEZ, LEO": 58,
+    "COTELO PEREZ, HUGO": 58,
     "OPI TURPEINEN, ASLAK": 90,
-    "LOPEZ ESTRAVIZ, DIEGO": 90,
+    "LOPEZ ESTRAVIZ, DIEGO": 66,
     "CHIRVECHES SANCHEZ, RAUL": 90,
     "PEREZ MARTINEZ, JAIME": 90,
     "RODRIGUEZ GUALLAR, NOAH": 90,
-    "BARREIROS NUÑEZ, IAGO": 90,
+    "BARREIROS NUÑEZ, IAGO": 51,
     "ALONSO LOURIDO, GERMAN": 90,
-    "RODRIGUEZ GOMEZ, IKER": 90,
-    "APARICIO CARBALLO, PABLO": 90,
+    "RODRIGUEZ GOMEZ, IKER": 46,
+    "APARICIO CARBALLO, PABLO": 66,
     "SUEIRO MUÍÑOS, DAVID": 90,
-    "RUIZ PEREZ, DANIEL": 90
+    "RUIZ PEREZ, DANIEL": 66,
+    "ESCANDÓN BUYO, ABEL": 44,
+    "FLOREK GONZALEZ, JANUSZ": 32,
+    "MARTINEZ ALVAREZ, DIEGO": 32,
+    "ESTEVEZ TORRES, BREIXO": 21,
+    "MORENO GONZALEZ, DIEGO": 10,
+    "LOPEZ GOMEZ, HUGO": 44,
+    "RODRIGUEZ DOMINGUEZ, PABLO": 39,
+    "MATUTE DOMINGUEZ, DIEGO": 24,
+    "GARCIA ALVAREZ, PEDRO ILDEFONSO": 24,
+    "PEREZ-LAFUENTE REY, JORGE": 24
   },
   "portero_local": "VAZQUEZ BERMUDEZ, LUCAS",
   "portero_visitante": "OPI TURPEINEN, ASLAK",
