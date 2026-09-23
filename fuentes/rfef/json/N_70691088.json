@@ -9,7 +9,7 @@
   "categoria": "Campeonato de Primera División de Futbol Playa Femenino (Primera División Nacional Femenina)",
   "equipo_local": "C. D. HIGICONTROL MELILLA",
   "equipo_visitante": "BLACK WOLF ACADEMY",
-  "goles_local": 2,
+  "goles_local": 5,
   "goles_visitante": 1,
   "resultado": "W",
   "arbitros": [
@@ -52,8 +52,8 @@
     {
       "minuto": 21,
       "jugador": "AUTERO GONZALEZ, CARLA",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     },
     {
       "minuto": 34,
@@ -290,5 +290,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
