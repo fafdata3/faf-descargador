@@ -9,7 +9,7 @@
   "categoria": "Division de Honor Juvenil (Grupo 2)",
   "equipo_local": "REAL SOCIEDAD DE FÚTBOL",
   "equipo_visitante": "SD EIBAR",
-  "goles_local": 1,
+  "goles_local": 2,
   "goles_visitante": 0,
   "resultado": "W",
   "arbitros": [
@@ -26,7 +26,7 @@
     {
       "minuto": 67,
       "jugador": "ALBERDI BORRAZ, DANEL",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     },
     {
@@ -134,21 +134,11 @@
   ],
   "convocados_sin_jugar_local": [
     "AZKARRAGA ARROSPIDE, UNAX",
-    "ORUEZABAL AMONDARAIN, OIER",
-    "GARCIA DE LA CRUZ, RODRIGO",
-    "FERNANDEZ BAYO, PABLO",
-    "SANTANA PIKABEA, JOEL",
-    "MARGOLLES ARIAS, PELAYO",
-    "ALBERDI BORRAZ, DANEL"
+    "MARGOLLES ARIAS, PELAYO"
   ],
   "convocados_sin_jugar_visitante": [
     "PRADERA RODRIGUEZ, UNAX",
-    "IRISARRI ALAMINO, EKHI",
-    "VAZQUEZ LLONA, AIMAR",
-    "SUKIA YABEN, ETXAHUN",
-    "CRESPO SANCHEZ, HUGO",
-    "LOPEZ LOPEZ, UNAI",
-    "UNANUE ARMENDARIZ, ANER"
+    "LOPEZ LOPEZ, UNAI"
   ],
   "jugadores_local": [
     "DIEZ JORNA, HUGO",
@@ -161,7 +151,12 @@
     "GALPARSORO BARANDIARAN, IBAI",
     "SOLANA TOMAS, UNAI",
     "MEHMETI, DION",
-    "ALBIZU AGUDO, IKER"
+    "ALBIZU AGUDO, IKER",
+    "ORUEZABAL AMONDARAIN, OIER",
+    "ALBERDI BORRAZ, DANEL",
+    "SANTANA PIKABEA, JOEL",
+    "GARCIA DE LA CRUZ, RODRIGO",
+    "FERNANDEZ BAYO, PABLO"
   ],
   "jugadores_visitante": [
     "AGUILERA GARCÍA, NICO",
@@ -174,33 +169,100 @@
     "ONDO ELA, DALMACIO",
     "ZUBIAGA ILARDUIA, OIHAN",
     "HIERRO ALDAZABAL, ANDER",
-    "PINTOS VAZQUEZ, JUAN"
+    "PINTOS VAZQUEZ, JUAN",
+    "CRESPO SANCHEZ, HUGO",
+    "SUKIA YABEN, ETXAHUN",
+    "IRISARRI ALAMINO, EKHI",
+    "VAZQUEZ LLONA, AIMAR",
+    "UNANUE ARMENDARIZ, ANER"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "ORUEZABAL AMONDARAIN, OIER",
+      "sale": "ROMERA NUÑEZ, IAN"
+    },
+    {
+      "min": 61,
+      "entra": "ALBERDI BORRAZ, DANEL",
+      "sale": "GOROSTIZAGA UBARRECHENA, TELMO"
+    },
+    {
+      "min": 61,
+      "entra": "SANTANA PIKABEA, JOEL",
+      "sale": "SOLANA TOMAS, UNAI"
+    },
+    {
+      "min": 72,
+      "entra": "GARCIA DE LA CRUZ, RODRIGO",
+      "sale": "BORINAGA MIRANDA, AIMAR"
+    },
+    {
+      "min": 72,
+      "entra": "FERNANDEZ BAYO, PABLO",
+      "sale": "MEHMETI, DION"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "CRESPO SANCHEZ, HUGO",
+      "sale": "ITURRI BENGOECHEA, JON"
+    },
+    {
+      "min": 61,
+      "entra": "SUKIA YABEN, ETXAHUN",
+      "sale": "ONDO ELA, DALMACIO"
+    },
+    {
+      "min": 73,
+      "entra": "IRISARRI ALAMINO, EKHI",
+      "sale": "ZUBIAGA ILARDUIA, OIHAN"
+    },
+    {
+      "min": 73,
+      "entra": "VAZQUEZ LLONA, AIMAR",
+      "sale": "GOMEZ MURILLO, MIKEL"
+    },
+    {
+      "min": 73,
+      "entra": "UNANUE ARMENDARIZ, ANER",
+      "sale": "PINTOS VAZQUEZ, JUAN"
+    }
+  ],
   "minutos_jugadores": {
     "DIEZ JORNA, HUGO": 90,
     "PEREZ ARANDIA, ALAR": 90,
-    "ROMERA NUÑEZ, IAN": 90,
+    "ROMERA NUÑEZ, IAN": 56,
     "MARTIN ARTOLA, MANEX": 90,
-    "BORINAGA MIRANDA, AIMAR": 90,
+    "BORINAGA MIRANDA, AIMAR": 72,
     "AYALA DE LOS MOZOS, ALEX": 90,
-    "GOROSTIZAGA UBARRECHENA, TELMO": 90,
+    "GOROSTIZAGA UBARRECHENA, TELMO": 61,
     "GALPARSORO BARANDIARAN, IBAI": 90,
-    "SOLANA TOMAS, UNAI": 90,
-    "MEHMETI, DION": 90,
+    "SOLANA TOMAS, UNAI": 61,
+    "MEHMETI, DION": 72,
     "ALBIZU AGUDO, IKER": 90,
     "AGUILERA GARCÍA, NICO": 90,
-    "GOMEZ MURILLO, MIKEL": 90,
+    "GOMEZ MURILLO, MIKEL": 73,
     "GARMENDIA BERZAL, MARKEL": 90,
     "NAVARRO GUTIERREZ, MARCOS": 90,
-    "ITURRI BENGOECHEA, JON": 90,
+    "ITURRI BENGOECHEA, JON": 56,
     "ABRALDES AZKORBEBEITIA, ANARTZ": 90,
     "VILLENA ARANDIA, OROITZ": 90,
-    "ONDO ELA, DALMACIO": 90,
-    "ZUBIAGA ILARDUIA, OIHAN": 90,
+    "ONDO ELA, DALMACIO": 61,
+    "ZUBIAGA ILARDUIA, OIHAN": 73,
     "HIERRO ALDAZABAL, ANDER": 90,
-    "PINTOS VAZQUEZ, JUAN": 90
+    "PINTOS VAZQUEZ, JUAN": 73,
+    "ORUEZABAL AMONDARAIN, OIER": 34,
+    "ALBERDI BORRAZ, DANEL": 29,
+    "SANTANA PIKABEA, JOEL": 29,
+    "GARCIA DE LA CRUZ, RODRIGO": 18,
+    "FERNANDEZ BAYO, PABLO": 18,
+    "CRESPO SANCHEZ, HUGO": 34,
+    "SUKIA YABEN, ETXAHUN": 29,
+    "IRISARRI ALAMINO, EKHI": 17,
+    "VAZQUEZ LLONA, AIMAR": 17,
+    "UNANUE ARMENDARIZ, ANER": 17
   },
   "portero_local": "DIEZ JORNA, HUGO",
   "portero_visitante": "AGUILERA GARCÍA, NICO",
@@ -230,5 +292,6 @@
     "HIERRO ALDAZABAL, ANDER": 17,
     "PINTOS VAZQUEZ, JUAN": 21
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
