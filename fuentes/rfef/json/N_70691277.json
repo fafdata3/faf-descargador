@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO A)",
   "equipo_local": "C.D. FUTBOL Y VOLEY PLAYA SOL DE ALICANTE",
   "equipo_visitante": "ROSES PLATJA",
-  "goles_local": 1,
-  "goles_visitante": 2,
-  "resultado": "L",
+  "goles_local": 5,
+  "goles_visitante": 1,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "LÓPEZ RECHE, MIREYA",
@@ -53,7 +53,7 @@
       "minuto": 11,
       "jugador": "YAVOROVA, VIKTORIA ADRIANOVA",
       "equipo": "?",
-      "propia": false
+      "propia": true
     },
     {
       "minuto": 13,
@@ -88,8 +88,8 @@
     {
       "minuto": 25,
       "jugador": "EL HAMIDI SADIQ, SONDOSSE",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     },
     {
       "minuto": 32,
@@ -215,5 +215,6 @@
     "EL HAMIDI SADIQ, SONDOSSE": 11,
     "MARTINEZ CANAL, LIVIA": 14
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
