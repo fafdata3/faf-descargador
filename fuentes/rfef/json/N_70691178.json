@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Primera División de Futbol Playa Femenino (Primera División Nacional Femenina)",
   "equipo_local": "C. D. HIGICONTROL MELILLA",
   "equipo_visitante": "C.D. ATLETICO TORROXEÑO",
-  "goles_local": 0,
+  "goles_local": 10,
   "goles_visitante": 0,
-  "resultado": "D",
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "ARIJA ASIN, ALBA",
@@ -28,20 +28,20 @@
     {
       "minuto": 1,
       "jugador": "GONZALEZ PORTELA, CAROLINA",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 8,
       "jugador": "GONZALEZ PORTELA, CAROLINA",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 14,
       "jugador": "CUADRADO PEDREÑO, NATALIA",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 19,
@@ -70,14 +70,14 @@
     {
       "minuto": 32,
       "jugador": "CUADRADO PEDREÑO, NATALIA",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 33,
       "jugador": "HIGUERAS MIRAS, JESICA",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 35,
