@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO A)",
   "equipo_local": "ROLDAN FUTBOL SALA",
   "equipo_visitante": "C.D. ZENETA",
-  "goles_local": 4,
-  "goles_visitante": 2,
+  "goles_local": 3,
+  "goles_visitante": 0,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -29,7 +29,7 @@
       "minuto": 6,
       "jugador": "MONTESINOS NAVARRO, ESTELA",
       "equipo": "?",
-      "propia": true
+      "propia": false
     },
     {
       "minuto": 17,
@@ -245,6 +245,5 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ],
-  "_marcador_widget": true
+  ]
 }
