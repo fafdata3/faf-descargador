@@ -100,21 +100,11 @@
   ],
   "convocados_sin_jugar_local": [
     "GONZALEZ COTADO, SAUL",
-    "PEREZ FREIRE, PABLO",
-    "RODRIGUEZ DOMINGUEZ, PABLO",
-    "CHAMADOIRA LEINS, HUGO",
-    "APARICIO CARBALLO, PABLO",
-    "RUIZ PEREZ, DANIEL",
     "PEITEADO DURAN, DAMIAN"
   ],
   "convocados_sin_jugar_visitante": [
     "FEIJOO SANA, SAMUEL GUILLERMO",
-    "ORDIALES RAMOS, SABINO",
-    "DE DIOS DEVESA, XOEL",
-    "VEGA SANJUAS, JORGE",
-    "TRIGO GRANDE, ELIAS",
-    "GARCIA VILLAR, DIEGO",
-    "FERNANDEZ RODRIGUEZ, PAULO"
+    "ORDIALES RAMOS, SABINO"
   ],
   "jugadores_local": [
     "OPI TURPEINEN, ASLAK",
@@ -127,7 +117,12 @@
     "ALONSO LOURIDO, GERMAN",
     "LOPEZ GOMEZ, HUGO",
     "RODRIGUEZ GOMEZ, IKER",
-    "SUEIRO MUÍÑOS, DAVID"
+    "SUEIRO MUÍÑOS, DAVID",
+    "APARICIO CARBALLO, PABLO",
+    "RODRIGUEZ DOMINGUEZ, PABLO",
+    "PEREZ FREIRE, PABLO",
+    "RUIZ PEREZ, DANIEL",
+    "CHAMADOIRA LEINS, HUGO"
   ],
   "jugadores_visitante": [
     "LEIVA SEOANE, RODRIGO",
@@ -140,33 +135,100 @@
     "IGLESIAS VARELA, FRANK",
     "DE LABRA TUÑEZ, MIGUEL",
     "TRILLO CAAMAÑO, RUBEN",
-    "MARTÍNEZ MEJIA, DIEGO"
+    "MARTÍNEZ MEJIA, DIEGO",
+    "FERNANDEZ RODRIGUEZ, PAULO",
+    "GARCIA VILLAR, DIEGO",
+    "TRIGO GRANDE, ELIAS",
+    "DE DIOS DEVESA, XOEL",
+    "VEGA SANJUAS, JORGE"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "APARICIO CARBALLO, PABLO",
+      "sale": "ALONSO LOURIDO, GERMAN"
+    },
+    {
+      "min": 57,
+      "entra": "RODRIGUEZ DOMINGUEZ, PABLO",
+      "sale": "PEREZ-LAFUENTE REY, JORGE"
+    },
+    {
+      "min": 62,
+      "entra": "PEREZ FREIRE, PABLO",
+      "sale": "RODRIGUEZ GOMEZ, IKER"
+    },
+    {
+      "min": 76,
+      "entra": "RUIZ PEREZ, DANIEL",
+      "sale": "GARCIA ALVAREZ, PEDRO ILDEFONSO"
+    },
+    {
+      "min": 76,
+      "entra": "CHAMADOIRA LEINS, HUGO",
+      "sale": "MATUTE DOMINGUEZ, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 57,
+      "entra": "FERNANDEZ RODRIGUEZ, PAULO",
+      "sale": "DE LABRA TUÑEZ, MIGUEL"
+    },
+    {
+      "min": 57,
+      "entra": "GARCIA VILLAR, DIEGO",
+      "sale": "MARTÍNEZ MEJIA, DIEGO"
+    },
+    {
+      "min": 69,
+      "entra": "TRIGO GRANDE, ELIAS",
+      "sale": "TRILLO CAAMAÑO, RUBEN"
+    },
+    {
+      "min": 77,
+      "entra": "DE DIOS DEVESA, XOEL",
+      "sale": "BLANCO CALVO, RAMON"
+    },
+    {
+      "min": 77,
+      "entra": "VEGA SANJUAS, JORGE",
+      "sale": "IGLESIAS VARELA, FRANK"
+    }
+  ],
   "minutos_jugadores": {
     "OPI TURPEINEN, ASLAK": 90,
     "CHIRVECHES SANCHEZ, RAUL": 90,
     "PEREZ MARTINEZ, JAIME": 90,
     "RODRIGUEZ GUALLAR, NOAH": 90,
-    "GARCIA ALVAREZ, PEDRO ILDEFONSO": 90,
-    "PEREZ-LAFUENTE REY, JORGE": 90,
-    "MATUTE DOMINGUEZ, DIEGO": 90,
-    "ALONSO LOURIDO, GERMAN": 90,
+    "GARCIA ALVAREZ, PEDRO ILDEFONSO": 76,
+    "PEREZ-LAFUENTE REY, JORGE": 57,
+    "MATUTE DOMINGUEZ, DIEGO": 76,
+    "ALONSO LOURIDO, GERMAN": 57,
     "LOPEZ GOMEZ, HUGO": 90,
-    "RODRIGUEZ GOMEZ, IKER": 90,
+    "RODRIGUEZ GOMEZ, IKER": 62,
     "SUEIRO MUÍÑOS, DAVID": 90,
     "LEIVA SEOANE, RODRIGO": 90,
     "PASTORIZA CARBAJALES, GUILLERMO": 90,
     "CAMPOS PINILLA, XABI": 90,
-    "BLANCO CALVO, RAMON": 90,
+    "BLANCO CALVO, RAMON": 77,
     "FERNANDEZ SEOANE, IKER": 90,
     "REGUEIRA CASTAÑO, ABEL": 90,
     "ALTIERI DE LEON, LEANDRO": 90,
-    "IGLESIAS VARELA, FRANK": 90,
-    "DE LABRA TUÑEZ, MIGUEL": 90,
-    "TRILLO CAAMAÑO, RUBEN": 90,
-    "MARTÍNEZ MEJIA, DIEGO": 90
+    "IGLESIAS VARELA, FRANK": 77,
+    "DE LABRA TUÑEZ, MIGUEL": 57,
+    "TRILLO CAAMAÑO, RUBEN": 69,
+    "MARTÍNEZ MEJIA, DIEGO": 57,
+    "APARICIO CARBALLO, PABLO": 33,
+    "RODRIGUEZ DOMINGUEZ, PABLO": 33,
+    "PEREZ FREIRE, PABLO": 28,
+    "RUIZ PEREZ, DANIEL": 14,
+    "CHAMADOIRA LEINS, HUGO": 14,
+    "FERNANDEZ RODRIGUEZ, PAULO": 33,
+    "GARCIA VILLAR, DIEGO": 33,
+    "TRIGO GRANDE, ELIAS": 21,
+    "DE DIOS DEVESA, XOEL": 13,
+    "VEGA SANJUAS, JORGE": 13
   },
   "portero_local": "OPI TURPEINEN, ASLAK",
   "portero_visitante": "LEIVA SEOANE, RODRIGO",
