@@ -9,7 +9,7 @@
   "categoria": "Division de Honor Juvenil (Grupo 2)",
   "equipo_local": "SD LEIOA",
   "equipo_visitante": "SD INDAUTXU",
-  "goles_local": 0,
+  "goles_local": 1,
   "goles_visitante": 3,
   "resultado": "L",
   "arbitros": [
@@ -38,7 +38,7 @@
     {
       "minuto": 66,
       "jugador": "AROSTEGUI PARRA, OIER",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     },
     {
@@ -160,20 +160,10 @@
   ],
   "convocados_sin_jugar_local": [
     "TORRONTEGUI DIAS, GAIZKA",
-    "TORRES IBAÑEZ DE MAEZTU, ALEX",
-    "LOPEZ KORTA, GORKA",
-    "MIMENZA SUAREZ, AXULAR",
-    "SANTAMARIA MARTINEZ, KERMAN",
-    "AROSTEGUI PARRA, OIER",
     "ELORRIETA ARREGI, ARATZ"
   ],
   "convocados_sin_jugar_visitante": [
     "ARROYO CASTILLO, MARKEL",
-    "GONZALEZ OSPINA, JEAN CARLO",
-    "SOLAETA GARAY, JUAN",
-    "LOAIZA CUESTA, KEVIN",
-    "CASTAÑOS PEREZ DEL NOTARIO, DAVID",
-    "ANGLADA PEREZ, IKER",
     "ALBILLO TACON, UNAX"
   ],
   "jugadores_local": [
@@ -187,7 +177,12 @@
     "PEREZ RODRIGUEZ, IÑIGO",
     "GUTIERREZ CASTAÑEIRA, PAUL",
     "GOIKOETXEA OTAOLA, JULEN",
-    "VIVANCO MIGUEL, DANEL"
+    "VIVANCO MIGUEL, DANEL",
+    "AROSTEGUI PARRA, OIER",
+    "LOPEZ KORTA, GORKA",
+    "SANTAMARIA MARTINEZ, KERMAN",
+    "TORRES IBAÑEZ DE MAEZTU, ALEX",
+    "MIMENZA SUAREZ, AXULAR"
   ],
   "jugadores_visitante": [
     "DEL PICO PEREZ, ARITZ",
@@ -200,33 +195,100 @@
     "MOSULEN MARTIN, DAVID",
     "BERMEJO LARRONDO, JON",
     "DIONISIO CASTRO, ARATZ",
-    "SANCHEZ DEL RIO, JON"
+    "SANCHEZ DEL RIO, JON",
+    "SOLAETA GARAY, JUAN",
+    "ANGLADA PEREZ, IKER",
+    "LOAIZA CUESTA, KEVIN",
+    "GONZALEZ OSPINA, JEAN CARLO",
+    "CASTAÑOS PEREZ DEL NOTARIO, DAVID"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "AROSTEGUI PARRA, OIER",
+      "sale": "MIQUELARENA VIZCAYA, ANDONI"
+    },
+    {
+      "min": 55,
+      "entra": "LOPEZ KORTA, GORKA",
+      "sale": "GUTIERREZ CASTAÑEIRA, PAUL"
+    },
+    {
+      "min": 64,
+      "entra": "SANTAMARIA MARTINEZ, KERMAN",
+      "sale": "ANTOLIN ARMENTEROS, MARKEL"
+    },
+    {
+      "min": 82,
+      "entra": "TORRES IBAÑEZ DE MAEZTU, ALEX",
+      "sale": "PEREZ RODRIGUEZ, IÑIGO"
+    },
+    {
+      "min": 82,
+      "entra": "MIMENZA SUAREZ, AXULAR",
+      "sale": "GOIKOETXEA OTAOLA, JULEN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 32,
+      "entra": "SOLAETA GARAY, JUAN",
+      "sale": "BERMEJO LARRONDO, JON"
+    },
+    {
+      "min": 61,
+      "entra": "ANGLADA PEREZ, IKER",
+      "sale": "SANCHEZ DEL RIO, JON"
+    },
+    {
+      "min": 61,
+      "entra": "LOAIZA CUESTA, KEVIN",
+      "sale": "DIONISIO CASTRO, ARATZ"
+    },
+    {
+      "min": 71,
+      "entra": "GONZALEZ OSPINA, JEAN CARLO",
+      "sale": "DAVALILLO MARTIN, XABIER"
+    },
+    {
+      "min": 71,
+      "entra": "CASTAÑOS PEREZ DEL NOTARIO, DAVID",
+      "sale": "PUIG RODRIGUEZ, XABIER"
+    }
+  ],
   "minutos_jugadores": {
     "GARCIA DELGADO, MARKEL": 90,
-    "MIQUELARENA VIZCAYA, ANDONI": 90,
+    "MIQUELARENA VIZCAYA, ANDONI": 46,
     "ZUAZO MUELA, MARTIN": 90,
-    "ANTOLIN ARMENTEROS, MARKEL": 90,
+    "ANTOLIN ARMENTEROS, MARKEL": 64,
     "BIDAURRAZAGA MORGADO, ASIER": 90,
     "GALDEANO BARANDIKA, IKER": 90,
     "DE ABAJO LOPEZ, BEÑAT": 90,
-    "PEREZ RODRIGUEZ, IÑIGO": 90,
-    "GUTIERREZ CASTAÑEIRA, PAUL": 90,
-    "GOIKOETXEA OTAOLA, JULEN": 90,
+    "PEREZ RODRIGUEZ, IÑIGO": 82,
+    "GUTIERREZ CASTAÑEIRA, PAUL": 55,
+    "GOIKOETXEA OTAOLA, JULEN": 82,
     "VIVANCO MIGUEL, DANEL": 90,
     "DEL PICO PEREZ, ARITZ": 90,
-    "DAVALILLO MARTIN, XABIER": 90,
+    "DAVALILLO MARTIN, XABIER": 71,
     "CRUZ ESTEBANEZ, MARCOS": 90,
     "CHACON EGUILUZ, JOEL": 90,
     "ESKUBI HERVAS, IKER": 90,
-    "PUIG RODRIGUEZ, XABIER": 90,
+    "PUIG RODRIGUEZ, XABIER": 71,
     "GIL GALAN, UNAX": 90,
     "MOSULEN MARTIN, DAVID": 90,
-    "BERMEJO LARRONDO, JON": 90,
-    "DIONISIO CASTRO, ARATZ": 90,
-    "SANCHEZ DEL RIO, JON": 90
+    "BERMEJO LARRONDO, JON": 32,
+    "DIONISIO CASTRO, ARATZ": 61,
+    "SANCHEZ DEL RIO, JON": 61,
+    "AROSTEGUI PARRA, OIER": 44,
+    "LOPEZ KORTA, GORKA": 35,
+    "SANTAMARIA MARTINEZ, KERMAN": 26,
+    "TORRES IBAÑEZ DE MAEZTU, ALEX": 8,
+    "MIMENZA SUAREZ, AXULAR": 8,
+    "SOLAETA GARAY, JUAN": 58,
+    "ANGLADA PEREZ, IKER": 29,
+    "LOAIZA CUESTA, KEVIN": 29,
+    "GONZALEZ OSPINA, JEAN CARLO": 19,
+    "CASTAÑOS PEREZ DEL NOTARIO, DAVID": 19
   },
   "portero_local": "GARCIA DELGADO, MARKEL",
   "portero_visitante": "DEL PICO PEREZ, ARITZ",
