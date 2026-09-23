@@ -10,8 +10,8 @@
   "equipo_local": "SELECCIÓN CATALANA",
   "equipo_visitante": "SELECCIO VALENCIANA",
   "goles_local": 2,
-  "goles_visitante": 1,
-  "resultado": "W",
+  "goles_visitante": 5,
+  "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
     "GURUCHARRI CASADO, VICTOR JAVIER",
@@ -34,26 +34,26 @@
     {
       "minuto": 8,
       "jugador": "MARTIN SANCHEZ, ENZO",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     },
     {
       "minuto": 9,
       "jugador": "SALVADOR MAESTRO, LUCAS",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     },
     {
       "minuto": 11,
       "jugador": "RAMIREZ MEJIA, JIMY SMAIRON",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 13,
       "jugador": "JAEN CERDAN, DANIEL",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     },
     {
       "minuto": 17,
@@ -70,8 +70,8 @@
     {
       "minuto": 25,
       "jugador": "JAEN CERDAN, DANIEL",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     },
     {
       "minuto": 26,
@@ -100,14 +100,14 @@
     {
       "minuto": 30,
       "jugador": "RAMIREZ MEJIA, JIMY SMAIRON",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 31,
       "jugador": "MARTIN SANCHEZ, ENZO",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     }
   ],
   "tarjetas": [
@@ -221,6 +221,5 @@
     "MARTIN SANCHEZ, ENZO": 10,
     "CAPARRÓS MORENO, DARÍO": 11
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
