@@ -152,20 +152,10 @@
   ],
   "convocados_sin_jugar_local": [
     "LIZARTZA GORROTXATEGI, URKO",
-    "ITURRIZA LULUAGA, MARKEL",
-    "GARMENDIA LOPEZ, ARATZ",
-    "GALARZA GARMENDIA, EÑAUT",
-    "FERNANDEZ DE LEZEA LATABURU, MARKEL",
-    "ALBIZU ARAUCO, LANDER",
-    "SAIZAR DIAZ, UNAX"
+    "GARMENDIA LOPEZ, ARATZ"
   ],
   "convocados_sin_jugar_visitante": [
     "OTAEGI KRUTXAGA, GAIZKA",
-    "ZUBIAGA BRIGOLE, OIHAN",
-    "ZABALA SARASOLA, JAVIER",
-    "SANTAMARIA LOROÑO, ENEKO",
-    "AGUIRRE GIES, OSCAR",
-    "SARR FAYE, CHEIKH OUMAR",
     "ECHEVERRIA ARQUERO, JOANNES"
   ],
   "jugadores_local": [
@@ -179,7 +169,12 @@
     "JUGLAR, FERDINAND ARTHUR MARIE",
     "CARCEDO URBIETA, MIKEL",
     "ENPARANTZA ALUSTIZA, HAIZE",
-    "EL FAKHKHAR FERNANDEZ, ANASS"
+    "EL FAKHKHAR FERNANDEZ, ANASS",
+    "FERNANDEZ DE LEZEA LATABURU, MARKEL",
+    "SAIZAR DIAZ, UNAX",
+    "ALBIZU ARAUCO, LANDER",
+    "ITURRIZA LULUAGA, MARKEL",
+    "GALARZA GARMENDIA, EÑAUT"
   ],
   "jugadores_visitante": [
     "SAINZ CUEVAS, URKO",
@@ -192,33 +187,100 @@
     "MARIN GARCIA, RUBEN",
     "GARCIA MARTIN, MATEO",
     "CISSE, YANN ISMAEL",
-    "ESNAOLA AGAEN, ALEX"
+    "ESNAOLA AGAEN, ALEX",
+    "ZABALA SARASOLA, JAVIER",
+    "ZUBIAGA BRIGOLE, OIHAN",
+    "SARR FAYE, CHEIKH OUMAR",
+    "SANTAMARIA LOROÑO, ENEKO",
+    "AGUIRRE GIES, OSCAR"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 68,
+      "entra": "FERNANDEZ DE LEZEA LATABURU, MARKEL",
+      "sale": "JUGLAR, FERDINAND ARTHUR MARIE"
+    },
+    {
+      "min": 68,
+      "entra": "SAIZAR DIAZ, UNAX",
+      "sale": "VIDAL ARRUTI, HARITZ"
+    },
+    {
+      "min": 78,
+      "entra": "ALBIZU ARAUCO, LANDER",
+      "sale": "LOPETEGUI ZATARAIN, ANER"
+    },
+    {
+      "min": 78,
+      "entra": "ITURRIZA LULUAGA, MARKEL",
+      "sale": "CARCEDO URBIETA, MIKEL"
+    },
+    {
+      "min": 84,
+      "entra": "GALARZA GARMENDIA, EÑAUT",
+      "sale": "RUBIO ALONSO, OIHAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "ZABALA SARASOLA, JAVIER",
+      "sale": "CISSE, YANN ISMAEL"
+    },
+    {
+      "min": 59,
+      "entra": "ZUBIAGA BRIGOLE, OIHAN",
+      "sale": "CONDE PRIETO, ALEXANDER"
+    },
+    {
+      "min": 59,
+      "entra": "SARR FAYE, CHEIKH OUMAR",
+      "sale": "PUMAREJO GUTIERREZ, PAUL"
+    },
+    {
+      "min": 72,
+      "entra": "SANTAMARIA LOROÑO, ENEKO",
+      "sale": "FUENTES NACHIONDO, AXULAR"
+    },
+    {
+      "min": 75,
+      "entra": "AGUIRRE GIES, OSCAR",
+      "sale": "ESNAOLA AGAEN, ALEX"
+    }
+  ],
   "minutos_jugadores": {
     "ALBISU JAUREGI, UHAITZ": 90,
-    "LOPETEGUI ZATARAIN, ANER": 90,
+    "LOPETEGUI ZATARAIN, ANER": 78,
     "VITORIA SAN SEBASTIAN, UNAX": 90,
     "ENPARANTZA ALUSTIZA, AIMAR": 90,
     "ASEGUINOLAZA MATEOS, ALVARO": 90,
-    "RUBIO ALONSO, OIHAN": 90,
-    "VIDAL ARRUTI, HARITZ": 90,
-    "JUGLAR, FERDINAND ARTHUR MARIE": 90,
-    "CARCEDO URBIETA, MIKEL": 90,
+    "RUBIO ALONSO, OIHAN": 84,
+    "VIDAL ARRUTI, HARITZ": 68,
+    "JUGLAR, FERDINAND ARTHUR MARIE": 68,
+    "CARCEDO URBIETA, MIKEL": 78,
     "ENPARANTZA ALUSTIZA, HAIZE": 90,
     "EL FAKHKHAR FERNANDEZ, ANASS": 90,
     "SAINZ CUEVAS, URKO": 90,
-    "FUENTES NACHIONDO, AXULAR": 90,
+    "FUENTES NACHIONDO, AXULAR": 72,
     "ARRIAGA MORENO, TELMO": 90,
     "VILLA LOPEZ, UNAX": 90,
-    "CONDE PRIETO, ALEXANDER": 90,
-    "PUMAREJO GUTIERREZ, PAUL": 90,
+    "CONDE PRIETO, ALEXANDER": 59,
+    "PUMAREJO GUTIERREZ, PAUL": 59,
     "REGULEZ VENTURA, JAVIER": 90,
     "MARIN GARCIA, RUBEN": 90,
     "GARCIA MARTIN, MATEO": 90,
-    "CISSE, YANN ISMAEL": 90,
-    "ESNAOLA AGAEN, ALEX": 90
+    "CISSE, YANN ISMAEL": 59,
+    "ESNAOLA AGAEN, ALEX": 75,
+    "FERNANDEZ DE LEZEA LATABURU, MARKEL": 22,
+    "SAIZAR DIAZ, UNAX": 22,
+    "ALBIZU ARAUCO, LANDER": 12,
+    "ITURRIZA LULUAGA, MARKEL": 12,
+    "GALARZA GARMENDIA, EÑAUT": 6,
+    "ZABALA SARASOLA, JAVIER": 31,
+    "ZUBIAGA BRIGOLE, OIHAN": 31,
+    "SARR FAYE, CHEIKH OUMAR": 31,
+    "SANTAMARIA LOROÑO, ENEKO": 18,
+    "AGUIRRE GIES, OSCAR": 15
   },
   "portero_local": "ALBISU JAUREGI, UHAITZ",
   "portero_visitante": "SAINZ CUEVAS, URKO",
