@@ -44,13 +44,13 @@
     {
       "minuto": 83,
       "jugador": "MENDEZ GARCIA, PEDRO",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     },
     {
       "minuto": 90,
       "jugador": "ANTONETTI LOPEZ, IGNACIO",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     }
   ],
@@ -130,22 +130,12 @@
     "CASTAÑON DIAZ, PABLO"
   ],
   "convocados_sin_jugar_local": [
-    "MOSCOSO CATOIRA, MARCOS",
     "ALONSO LOUREIRO, PABLO",
-    "RODRIGUEZ DOVAL, RICARDO",
-    "DIEGUEZ GUERRA, XIAN",
-    "ANTONETTI LOPEZ, IGNACIO",
-    "BALDOMERO CASTROMAN, BRAIS",
-    "VAZQUEZ PIÑEIRO, OSCAR"
+    "RODRIGUEZ DOVAL, RICARDO"
   ],
   "convocados_sin_jugar_visitante": [
     "GARCIA ALVAREZ, YAGO",
-    "MENENDEZ GONZALEZ, ALEX",
-    "FOX GONZALEZ, ALEX JOHN",
-    "TUÑAS RODRIGUEZ, SERGIO",
-    "MENDEZ GARCIA, PEDRO",
-    "GARABAYA GONZALEZ, JORGE",
-    "CASTAÑON DIAZ, PABLO"
+    "TUÑAS RODRIGUEZ, SERGIO"
   ],
   "jugadores_local": [
     "MERA SOUTO, IAGO",
@@ -158,7 +148,12 @@
     "BLANCO NEIRA, MANUEL",
     "ARROJO GANTES, HUGO",
     "VAZQUEZ LOPEZ, MATEO",
-    "MARTINEZ LEMA, MANUEL"
+    "MARTINEZ LEMA, MANUEL",
+    "DIEGUEZ GUERRA, XIAN",
+    "BALDOMERO CASTROMAN, BRAIS",
+    "VAZQUEZ PIÑEIRO, OSCAR",
+    "ANTONETTI LOPEZ, IGNACIO",
+    "MOSCOSO CATOIRA, MARCOS"
   ],
   "jugadores_visitante": [
     "VEGA MARTÍN, FERNANDO",
@@ -171,33 +166,100 @@
     "JAKKAL MARFOUK, MARUAN",
     "REVUELTA PIÑEIRO, DIEGO",
     "FERNANDEZ RODRIGUEZ, MARIO",
-    "FERNANDEZ LOSADA, LIAM"
+    "FERNANDEZ LOSADA, LIAM",
+    "MENDEZ GARCIA, PEDRO",
+    "CASTAÑON DIAZ, PABLO",
+    "GARABAYA GONZALEZ, JORGE",
+    "MENENDEZ GONZALEZ, ALEX",
+    "FOX GONZALEZ, ALEX JOHN"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 4,
+      "entra": "DIEGUEZ GUERRA, XIAN",
+      "sale": "DOMINGUEZ FONTAIÑA, YAGO"
+    },
+    {
+      "min": 46,
+      "entra": "BALDOMERO CASTROMAN, BRAIS",
+      "sale": "VAZQUEZ LOPEZ, MATEO"
+    },
+    {
+      "min": 57,
+      "entra": "VAZQUEZ PIÑEIRO, OSCAR",
+      "sale": "GONZALEZ VALENCIA, MARCOS"
+    },
+    {
+      "min": 57,
+      "entra": "ANTONETTI LOPEZ, IGNACIO",
+      "sale": "MARTINEZ LEMA, MANUEL"
+    },
+    {
+      "min": 68,
+      "entra": "MOSCOSO CATOIRA, MARCOS",
+      "sale": "LONGA GIL, ROI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "MENDEZ GARCIA, PEDRO",
+      "sale": "FERNANDEZ RODRIGUEZ, MARIO"
+    },
+    {
+      "min": 61,
+      "entra": "CASTAÑON DIAZ, PABLO",
+      "sale": "DACAL CUETO, HUGO"
+    },
+    {
+      "min": 72,
+      "entra": "GARABAYA GONZALEZ, JORGE",
+      "sale": "SUAREZ SUAREZ, ALVARO"
+    },
+    {
+      "min": 72,
+      "entra": "MENENDEZ GONZALEZ, ALEX",
+      "sale": "OLIVAR SANCHEZ, NEL"
+    },
+    {
+      "min": 77,
+      "entra": "FOX GONZALEZ, ALEX JOHN",
+      "sale": "REVUELTA PIÑEIRO, DIEGO"
+    }
+  ],
   "minutos_jugadores": {
     "MERA SOUTO, IAGO": 90,
     "SAA LIRES, MARTIÑO": 90,
-    "DOMINGUEZ FONTAIÑA, YAGO": 90,
+    "DOMINGUEZ FONTAIÑA, YAGO": 4,
     "DEVESA DOMINGUEZ, ROI": 90,
     "DIEGUEZ CASTRO, ANTON": 90,
-    "LONGA GIL, ROI": 90,
-    "GONZALEZ VALENCIA, MARCOS": 90,
+    "LONGA GIL, ROI": 68,
+    "GONZALEZ VALENCIA, MARCOS": 57,
     "BLANCO NEIRA, MANUEL": 90,
     "ARROJO GANTES, HUGO": 90,
-    "VAZQUEZ LOPEZ, MATEO": 90,
-    "MARTINEZ LEMA, MANUEL": 90,
+    "VAZQUEZ LOPEZ, MATEO": 46,
+    "MARTINEZ LEMA, MANUEL": 57,
     "VEGA MARTÍN, FERNANDO": 90,
     "SUAREZ CASADO, PABLO": 90,
-    "OLIVAR SANCHEZ, NEL": 90,
-    "DACAL CUETO, HUGO": 90,
+    "OLIVAR SANCHEZ, NEL": 72,
+    "DACAL CUETO, HUGO": 61,
     "BALAN CABARCOS, LUCAS": 90,
     "MEANA GOMEZ, YAGO": 90,
-    "SUAREZ SUAREZ, ALVARO": 90,
+    "SUAREZ SUAREZ, ALVARO": 72,
     "JAKKAL MARFOUK, MARUAN": 90,
-    "REVUELTA PIÑEIRO, DIEGO": 90,
-    "FERNANDEZ RODRIGUEZ, MARIO": 90,
-    "FERNANDEZ LOSADA, LIAM": 90
+    "REVUELTA PIÑEIRO, DIEGO": 77,
+    "FERNANDEZ RODRIGUEZ, MARIO": 61,
+    "FERNANDEZ LOSADA, LIAM": 90,
+    "DIEGUEZ GUERRA, XIAN": 86,
+    "BALDOMERO CASTROMAN, BRAIS": 44,
+    "VAZQUEZ PIÑEIRO, OSCAR": 33,
+    "ANTONETTI LOPEZ, IGNACIO": 33,
+    "MOSCOSO CATOIRA, MARCOS": 22,
+    "MENDEZ GARCIA, PEDRO": 29,
+    "CASTAÑON DIAZ, PABLO": 29,
+    "GARABAYA GONZALEZ, JORGE": 18,
+    "MENENDEZ GONZALEZ, ALEX": 18,
+    "FOX GONZALEZ, ALEX JOHN": 13
   },
   "portero_local": "MERA SOUTO, IAGO",
   "portero_visitante": "VEGA MARTÍN, FERNANDO",
@@ -227,6 +289,5 @@
     "FERNANDEZ RODRIGUEZ, MARIO": 19,
     "FERNANDEZ LOSADA, LIAM": 22
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
