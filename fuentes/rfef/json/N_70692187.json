@@ -32,7 +32,7 @@
     {
       "minuto": 61,
       "jugador": "DIAZ AGÜERO, ALVARO",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     }
   ],
@@ -105,20 +105,10 @@
   ],
   "convocados_sin_jugar_local": [
     "PEÑA DIEZ, DAVID",
-    "GARCIA GAVITO SERRANO, JOSE MARIA",
-    "MARTIN MUÑIZ, MARCOS",
-    "GARCIA RUEDA, BELTRAN",
-    "ORDAX IBAÑEZ, DAVID",
-    "DIAZ AGÜERO, ALVARO",
     "TEJERO ESTEBAN, MIGUEL"
   ],
   "convocados_sin_jugar_visitante": [
-    "LODEIRO GARCIA, HUGO",
-    "RODRIGUEZ CABRERA, ASUR",
-    "ARIAS CANO, SAUL",
-    "MENENDEZ GARCIA, LUCAS",
-    "LARA EIRIN, DANIEL",
-    "PEREZ MIRANDA, LEO"
+    "LODEIRO GARCIA, HUGO"
   ],
   "jugadores_local": [
     "ORTIZ SEGUROLA, GUILLERMO",
@@ -131,7 +121,12 @@
     "AIFUWA PETER, KELECHI KELVIN",
     "ARNAIZ CAYON, ADRIAN",
     "DÍEZ SEGUNDO, FERNANDO",
-    "ALBA DORIA, CARLOS"
+    "ALBA DORIA, CARLOS",
+    "DIAZ AGÜERO, ALVARO",
+    "GARCIA GAVITO SERRANO, JOSE MARIA",
+    "MARTIN MUÑIZ, MARCOS",
+    "GARCIA RUEDA, BELTRAN",
+    "ORDAX IBAÑEZ, DAVID"
   ],
   "jugadores_visitante": [
     "ALVAREZ MESA, HUGO",
@@ -144,33 +139,100 @@
     "GONZALEZ FERNANDEZ, MARIO",
     "FERNANDEZ GATON, PELAYO",
     "MENES HEVIA, IVAN",
-    "RODRIGUEZ DIAZ, LEONARDO"
+    "RODRIGUEZ DIAZ, LEONARDO",
+    "RODRIGUEZ CABRERA, ASUR",
+    "MENENDEZ GARCIA, LUCAS",
+    "ARIAS CANO, SAUL",
+    "PEREZ MIRANDA, LEO",
+    "LARA EIRIN, DANIEL"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "DIAZ AGÜERO, ALVARO",
+      "sale": "LASO MOLINO, ALEJANDRO"
+    },
+    {
+      "min": 60,
+      "entra": "GARCIA GAVITO SERRANO, JOSE MARIA",
+      "sale": "FUENTEVILLA BARCENA, DANIEL"
+    },
+    {
+      "min": 68,
+      "entra": "MARTIN MUÑIZ, MARCOS",
+      "sale": "GONZALEZ SORDO, ALEX"
+    },
+    {
+      "min": 68,
+      "entra": "GARCIA RUEDA, BELTRAN",
+      "sale": "ARNAIZ CAYON, ADRIAN"
+    },
+    {
+      "min": 86,
+      "entra": "ORDAX IBAÑEZ, DAVID",
+      "sale": "AIFUWA PETER, KELECHI KELVIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 63,
+      "entra": "RODRIGUEZ CABRERA, ASUR",
+      "sale": "ABRIL ARGUELLES, ALVARO"
+    },
+    {
+      "min": 63,
+      "entra": "MENENDEZ GARCIA, LUCAS",
+      "sale": "GONZALEZ FERNANDEZ, MARIO"
+    },
+    {
+      "min": 73,
+      "entra": "ARIAS CANO, SAUL",
+      "sale": "FERNANDEZ GATON, PELAYO"
+    },
+    {
+      "min": 78,
+      "entra": "PEREZ MIRANDA, LEO",
+      "sale": "RODRIGUEZ DIAZ, LEONARDO"
+    },
+    {
+      "min": 78,
+      "entra": "LARA EIRIN, DANIEL",
+      "sale": "LOPEZ DIAZ, PELAYO"
+    }
+  ],
   "minutos_jugadores": {
     "ORTIZ SEGUROLA, GUILLERMO": 90,
     "GONZALEZ DIAZ, ALVARO": 90,
-    "GONZALEZ SORDO, ALEX": 90,
+    "GONZALEZ SORDO, ALEX": 68,
     "OCEJA CONDE, VICTOR": 90,
     "GUTIERREZ SANZ, DAVID": 90,
-    "LASO MOLINO, ALEJANDRO": 90,
-    "FUENTEVILLA BARCENA, DANIEL": 90,
-    "AIFUWA PETER, KELECHI KELVIN": 90,
-    "ARNAIZ CAYON, ADRIAN": 90,
+    "LASO MOLINO, ALEJANDRO": 45,
+    "FUENTEVILLA BARCENA, DANIEL": 60,
+    "AIFUWA PETER, KELECHI KELVIN": 86,
+    "ARNAIZ CAYON, ADRIAN": 68,
     "DÍEZ SEGUNDO, FERNANDO": 90,
     "ALBA DORIA, CARLOS": 90,
     "ALVAREZ MESA, HUGO": 90,
-    "LOPEZ DIAZ, PELAYO": 90,
+    "LOPEZ DIAZ, PELAYO": 78,
     "ARRIBAS GARCIA, ARTURO": 90,
     "ESPAÑA RODRIGUEZ, ALVARO": 90,
     "TORRON ROCES, ALVARO": 90,
-    "ABRIL ARGUELLES, ALVARO": 90,
+    "ABRIL ARGUELLES, ALVARO": 63,
     "MADERA FERNANDEZ, PABLO": 90,
-    "GONZALEZ FERNANDEZ, MARIO": 90,
-    "FERNANDEZ GATON, PELAYO": 90,
+    "GONZALEZ FERNANDEZ, MARIO": 63,
+    "FERNANDEZ GATON, PELAYO": 73,
     "MENES HEVIA, IVAN": 90,
-    "RODRIGUEZ DIAZ, LEONARDO": 90
+    "RODRIGUEZ DIAZ, LEONARDO": 78,
+    "DIAZ AGÜERO, ALVARO": 45,
+    "GARCIA GAVITO SERRANO, JOSE MARIA": 30,
+    "MARTIN MUÑIZ, MARCOS": 22,
+    "GARCIA RUEDA, BELTRAN": 22,
+    "ORDAX IBAÑEZ, DAVID": 4,
+    "RODRIGUEZ CABRERA, ASUR": 27,
+    "MENENDEZ GARCIA, LUCAS": 27,
+    "ARIAS CANO, SAUL": 17,
+    "PEREZ MIRANDA, LEO": 12,
+    "LARA EIRIN, DANIEL": 12
   },
   "portero_local": "ORTIZ SEGUROLA, GUILLERMO",
   "portero_visitante": "ALVAREZ MESA, HUGO",
@@ -200,6 +262,5 @@
     "MENES HEVIA, IVAN": 25,
     "RODRIGUEZ DIAZ, LEONARDO": 33
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
