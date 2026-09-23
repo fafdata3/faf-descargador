@@ -10,8 +10,8 @@
   "equipo_local": "C.D. SIERRA DE POZO ALCON",
   "equipo_visitante": "C.D. CULTURAL ASAKO MOTRIL",
   "goles_local": 3,
-  "goles_visitante": 2,
-  "resultado": "W",
+  "goles_visitante": 4,
+  "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
     "DIAZ DE SARRALDE MARTÍN, JON",
@@ -29,7 +29,7 @@
       "minuto": 6,
       "jugador": "NAVARRETE GONZALEZ, PILAR",
       "equipo": "?",
-      "propia": false
+      "propia": true
     },
     {
       "minuto": 22,
@@ -273,5 +273,6 @@
   "suspendidos": [
     "C.D. SIERRA DE POZO ALCON :",
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
