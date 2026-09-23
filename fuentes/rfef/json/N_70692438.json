@@ -133,21 +133,11 @@
   ],
   "convocados_sin_jugar_local": [
     "BENITEZ AVILES, DAVID",
-    "MARTINEZ SANZ, IKER",
-    "LABEAGA GARCIA, DIEGO",
-    "BERASATEGI HERNANDEZ, JULEN",
-    "GIL ESCUDERO, OLIVER",
-    "CARBONERAS ROYO, DANIEL",
-    "LOPEZ PEREZ, OIER"
+    "GIL ESCUDERO, OLIVER"
   ],
   "convocados_sin_jugar_visitante": [
     "SANTIAGO SOLETO, MARKEL",
-    "RUIZ DE EGUINO MONTERO, MIKEL",
-    "ARCHI BEZIOUI, RAYAN",
-    "CASADO LOPEZ, UNAI",
-    "GARBAYO MAULEON, HUGO",
-    "GARCIA CASTRO, HUGO",
-    "DIARRA SOUMANO, TIEMOKO"
+    "ARCHI BEZIOUI, RAYAN"
   ],
   "jugadores_local": [
     "ALCALDE ALESANCO, ALEJANDRO",
@@ -160,7 +150,12 @@
     "GALBARRO CASTILLO, JUAN PABLO",
     "LATORRE IBARROLA, MARTIN",
     "ANTICH SERRANO, CHRISTIAN",
-    "MENDINUETA PEREZ DE VILLARREAL, ADEI"
+    "MENDINUETA PEREZ DE VILLARREAL, ADEI",
+    "LOPEZ PEREZ, OIER",
+    "BERASATEGI HERNANDEZ, JULEN",
+    "MARTINEZ SANZ, IKER",
+    "CARBONERAS ROYO, DANIEL",
+    "LABEAGA GARCIA, DIEGO"
   ],
   "jugadores_visitante": [
     "MAYE EBO, LEUDIS",
@@ -173,33 +168,100 @@
     "CASTAÑO ORTIZ DE URBINA, UNAX",
     "FRANCES VAZQUEZ, ARGOITZ",
     "MARTINEZ CALDERON, OSCAR",
-    "DE SOUSA FERNANDEZ, JON"
+    "DE SOUSA FERNANDEZ, JON",
+    "RUIZ DE EGUINO MONTERO, MIKEL",
+    "DIARRA SOUMANO, TIEMOKO",
+    "CASADO LOPEZ, UNAI",
+    "GARBAYO MAULEON, HUGO",
+    "GARCIA CASTRO, HUGO"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "LOPEZ PEREZ, OIER",
+      "sale": "GONZALEZ ZAIDI L, ISMAEL"
+    },
+    {
+      "min": 56,
+      "entra": "BERASATEGI HERNANDEZ, JULEN",
+      "sale": "ANTICH SERRANO, CHRISTIAN"
+    },
+    {
+      "min": 68,
+      "entra": "MARTINEZ SANZ, IKER",
+      "sale": "GALBARRO CASTILLO, JUAN PABLO"
+    },
+    {
+      "min": 68,
+      "entra": "CARBONERAS ROYO, DANIEL",
+      "sale": "LAFONT ALONSO, MATIAS"
+    },
+    {
+      "min": 68,
+      "entra": "LABEAGA GARCIA, DIEGO",
+      "sale": "LLORENTE LOPEZ, RAUL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "RUIZ DE EGUINO MONTERO, MIKEL",
+      "sale": "GRAJALES BEIZTEGUI, OIER"
+    },
+    {
+      "min": 48,
+      "entra": "DIARRA SOUMANO, TIEMOKO",
+      "sale": "ORAA ORTIZ DE MENDIBIL, MARKEL"
+    },
+    {
+      "min": 51,
+      "entra": "CASADO LOPEZ, UNAI",
+      "sale": "BARREÑA SAEZ DE CAMARA, ASIER"
+    },
+    {
+      "min": 72,
+      "entra": "GARBAYO MAULEON, HUGO",
+      "sale": "BENAISSA AGBALOU, HAYTAM"
+    },
+    {
+      "min": 72,
+      "entra": "GARCIA CASTRO, HUGO",
+      "sale": "MARTINEZ CALDERON, OSCAR"
+    }
+  ],
   "minutos_jugadores": {
     "ALCALDE ALESANCO, ALEJANDRO": 90,
     "RODRIGO LARRAÑAGA, JON": 90,
     "GARCIA CARRANZA SANZ, LUIS": 90,
-    "LLORENTE LOPEZ, RAUL": 90,
-    "LAFONT ALONSO, MATIAS": 90,
-    "GONZALEZ ZAIDI L, ISMAEL": 90,
+    "LLORENTE LOPEZ, RAUL": 68,
+    "LAFONT ALONSO, MATIAS": 68,
+    "GONZALEZ ZAIDI L, ISMAEL": 56,
     "PASTORIZA DALMAU, MATEO": 90,
-    "GALBARRO CASTILLO, JUAN PABLO": 90,
+    "GALBARRO CASTILLO, JUAN PABLO": 68,
     "LATORRE IBARROLA, MARTIN": 90,
-    "ANTICH SERRANO, CHRISTIAN": 90,
+    "ANTICH SERRANO, CHRISTIAN": 56,
     "MENDINUETA PEREZ DE VILLARREAL, ADEI": 90,
     "MAYE EBO, LEUDIS": 90,
     "BOYANO DELGADO, ALAIN": 90,
     "ECHEVARRIA MENDOZA, ANTTON": 90,
-    "ORAA ORTIZ DE MENDIBIL, MARKEL": 90,
-    "GRAJALES BEIZTEGUI, OIER": 90,
-    "BENAISSA AGBALOU, HAYTAM": 90,
-    "BARREÑA SAEZ DE CAMARA, ASIER": 90,
+    "ORAA ORTIZ DE MENDIBIL, MARKEL": 48,
+    "GRAJALES BEIZTEGUI, OIER": 46,
+    "BENAISSA AGBALOU, HAYTAM": 72,
+    "BARREÑA SAEZ DE CAMARA, ASIER": 51,
     "CASTAÑO ORTIZ DE URBINA, UNAX": 90,
     "FRANCES VAZQUEZ, ARGOITZ": 90,
-    "MARTINEZ CALDERON, OSCAR": 90,
-    "DE SOUSA FERNANDEZ, JON": 90
+    "MARTINEZ CALDERON, OSCAR": 72,
+    "DE SOUSA FERNANDEZ, JON": 90,
+    "LOPEZ PEREZ, OIER": 34,
+    "BERASATEGI HERNANDEZ, JULEN": 34,
+    "MARTINEZ SANZ, IKER": 22,
+    "CARBONERAS ROYO, DANIEL": 22,
+    "LABEAGA GARCIA, DIEGO": 22,
+    "RUIZ DE EGUINO MONTERO, MIKEL": 44,
+    "DIARRA SOUMANO, TIEMOKO": 42,
+    "CASADO LOPEZ, UNAI": 39,
+    "GARBAYO MAULEON, HUGO": 18,
+    "GARCIA CASTRO, HUGO": 18
   },
   "portero_local": "ALCALDE ALESANCO, ALEJANDRO",
   "portero_visitante": "MAYE EBO, LEUDIS",
@@ -231,6 +293,5 @@
   },
   "suspendidos": [
     "ECHEVARRIA MENDOZA, ANTTON"
-  ],
-  "_marcador_widget": true
+  ]
 }
