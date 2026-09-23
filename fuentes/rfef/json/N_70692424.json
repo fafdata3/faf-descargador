@@ -9,7 +9,7 @@
   "categoria": "Division de Honor Juvenil (Grupo 2)",
   "equipo_local": "DEPORTIVO ALAVÉS",
   "equipo_visitante": "ARRATIA, C.D.",
-  "goles_local": 3,
+  "goles_local": 5,
   "goles_visitante": 0,
   "resultado": "W",
   "arbitros": [
@@ -44,13 +44,13 @@
     {
       "minuto": 74,
       "jugador": "OKORIE IGIDI, IVAN",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     },
     {
       "minuto": 83,
       "jugador": "RAMIREZ GARCIA, JAVIER",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     }
   ],
@@ -172,20 +172,10 @@
   ],
   "convocados_sin_jugar_local": [
     "MUGICA VICARIO, OIER",
-    "LOPEZ BERODIA, DARIO",
-    "RAMIREZ GARCIA, JAVIER",
-    "SAN PIO GALAN, NICOLAS",
-    "MONTERO MARQUINEZ, OIER",
-    "OKORIE IGIDI, IVAN",
-    "LOBATO HERRERO, IKER"
+    "LOPEZ BERODIA, DARIO"
   ],
   "convocados_sin_jugar_visitante": [
-    "ZULUAGA ETXEBARRIA, IZORTZ",
-    "BRAVO MAGDALENO, ALFONSO",
-    "ZAUTUA BIZKARGUENAGA, AIMAR",
-    "ALCAIRE COSTA, IBAI",
-    "IZAGIRRE ZENIKAZELAIA, OIHAN",
-    "GOTI IZAGUIRRE, URKO"
+    "BRAVO MAGDALENO, ALFONSO"
   ],
   "jugadores_local": [
     "FERNANDEZ DE ZAÑARTU ANSORREGUI, JOKIN",
@@ -198,7 +188,12 @@
     "HASSANI ZINEDINE, SOHAIB",
     "SUBERVIOLA CANTERA, HUGO",
     "CIPRIAN GARABITO, BRYAN SCOOTT",
-    "DOMINGO RUPEREZ, IKER"
+    "DOMINGO RUPEREZ, IKER",
+    "RAMIREZ GARCIA, JAVIER",
+    "OKORIE IGIDI, IVAN",
+    "MONTERO MARQUINEZ, OIER",
+    "SAN PIO GALAN, NICOLAS",
+    "LOBATO HERRERO, IKER"
   ],
   "jugadores_visitante": [
     "EGILUZ DOMINGUEZ, MARKEL",
@@ -211,33 +206,100 @@
     "GARCIA PARGA, JON",
     "JUARROS MANTEROLA, OIER",
     "LEGARRETA RIOS, LUKEN",
-    "INTXAURRAGA SERNA, ENAITZ"
+    "INTXAURRAGA SERNA, ENAITZ",
+    "ZULUAGA ETXEBARRIA, IZORTZ",
+    "GOTI IZAGUIRRE, URKO",
+    "ZAUTUA BIZKARGUENAGA, AIMAR",
+    "ALCAIRE COSTA, IBAI",
+    "IZAGIRRE ZENIKAZELAIA, OIHAN"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "RAMIREZ GARCIA, JAVIER",
+      "sale": "OGHOMWENOTITI IKPEKHIA, EDEOGHOGHO PROMISE"
+    },
+    {
+      "min": 57,
+      "entra": "OKORIE IGIDI, IVAN",
+      "sale": "CIPRIAN GARABITO, BRYAN SCOOTT"
+    },
+    {
+      "min": 57,
+      "entra": "MONTERO MARQUINEZ, OIER",
+      "sale": "HASSANI ZINEDINE, SOHAIB"
+    },
+    {
+      "min": 70,
+      "entra": "SAN PIO GALAN, NICOLAS",
+      "sale": "SUBERVIOLA CANTERA, HUGO"
+    },
+    {
+      "min": 70,
+      "entra": "LOBATO HERRERO, IKER",
+      "sale": "ESTEBAN HERNANDEZ, JORGE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "ZULUAGA ETXEBARRIA, IZORTZ",
+      "sale": "JUARROS MANTEROLA, OIER"
+    },
+    {
+      "min": 75,
+      "entra": "GOTI IZAGUIRRE, URKO",
+      "sale": "ARTETXE BELAUSTEGI, IKER"
+    },
+    {
+      "min": 75,
+      "entra": "ZAUTUA BIZKARGUENAGA, AIMAR",
+      "sale": "GARCIA PARGA, JON"
+    },
+    {
+      "min": 81,
+      "entra": "ALCAIRE COSTA, IBAI",
+      "sale": "LEGARRETA RIOS, LUKEN"
+    },
+    {
+      "min": 81,
+      "entra": "IZAGIRRE ZENIKAZELAIA, OIHAN",
+      "sale": "ESKALZA URTIAGA, XUBAN"
+    }
+  ],
   "minutos_jugadores": {
     "FERNANDEZ DE ZAÑARTU ANSORREGUI, JOKIN": 90,
     "BEOBIDE SAENZ DE PIPAON, MAREN AIMAR": 90,
     "VIVIAN SANCHEZ, GABRIEL": 90,
-    "OGHOMWENOTITI IKPEKHIA, EDEOGHOGHO PROMISE": 90,
+    "OGHOMWENOTITI IKPEKHIA, EDEOGHOGHO PROMISE": 45,
     "SAEZ FERNANDEZ, ALBERTO": 90,
     "ZAMORA SAEZ, IMANOL": 90,
-    "ESTEBAN HERNANDEZ, JORGE": 90,
-    "HASSANI ZINEDINE, SOHAIB": 90,
-    "SUBERVIOLA CANTERA, HUGO": 90,
-    "CIPRIAN GARABITO, BRYAN SCOOTT": 90,
+    "ESTEBAN HERNANDEZ, JORGE": 70,
+    "HASSANI ZINEDINE, SOHAIB": 57,
+    "SUBERVIOLA CANTERA, HUGO": 70,
+    "CIPRIAN GARABITO, BRYAN SCOOTT": 57,
     "DOMINGO RUPEREZ, IKER": 90,
     "EGILUZ DOMINGUEZ, MARKEL": 90,
     "OLABARRI ARANGUREN, EKI": 90,
-    "ESKALZA URTIAGA, XUBAN": 90,
+    "ESKALZA URTIAGA, XUBAN": 81,
     "BARRENETXEA ZULOAGA, JULEN": 90,
     "ISPIZUA URRUTXUA, UNAI": 90,
     "GONZALEZ DE ETXABARRI ALONSO, IBON": 90,
-    "ARTETXE BELAUSTEGI, IKER": 90,
-    "GARCIA PARGA, JON": 90,
-    "JUARROS MANTEROLA, OIER": 90,
-    "LEGARRETA RIOS, LUKEN": 90,
-    "INTXAURRAGA SERNA, ENAITZ": 90
+    "ARTETXE BELAUSTEGI, IKER": 75,
+    "GARCIA PARGA, JON": 75,
+    "JUARROS MANTEROLA, OIER": 56,
+    "LEGARRETA RIOS, LUKEN": 81,
+    "INTXAURRAGA SERNA, ENAITZ": 90,
+    "RAMIREZ GARCIA, JAVIER": 45,
+    "OKORIE IGIDI, IVAN": 33,
+    "MONTERO MARQUINEZ, OIER": 33,
+    "SAN PIO GALAN, NICOLAS": 20,
+    "LOBATO HERRERO, IKER": 20,
+    "ZULUAGA ETXEBARRIA, IZORTZ": 34,
+    "GOTI IZAGUIRRE, URKO": 15,
+    "ZAUTUA BIZKARGUENAGA, AIMAR": 15,
+    "ALCAIRE COSTA, IBAI": 9,
+    "IZAGIRRE ZENIKAZELAIA, OIHAN": 9
   },
   "portero_local": "FERNANDEZ DE ZAÑARTU ANSORREGUI, JOKIN",
   "portero_visitante": "EGILUZ DOMINGUEZ, MARKEL",
