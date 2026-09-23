@@ -56,7 +56,7 @@
     {
       "minuto": 90,
       "jugador": "ALBIZU AGUDO, IKER",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     }
   ],
@@ -144,21 +144,11 @@
   ],
   "convocados_sin_jugar_local": [
     "BUSTAMANTE DAVILA, DANIEL",
-    "ALDASORO SARRIEGI, BEÑAT",
-    "FERNANDEZ BAYO, PABLO",
-    "DE LUCAS GARCIA, XANET",
-    "MEHMETI, DION",
-    "ALBIZU AGUDO, IKER",
-    "IBAÑEZ MINGUEZ, PEDRO"
+    "ALDASORO SARRIEGI, BEÑAT"
   ],
   "convocados_sin_jugar_visitante": [
     "DEL PICO PEREZ, ARITZ",
-    "CHACON EGUILUZ, JOEL",
-    "BERMEJO LARRONDO, JON",
-    "LOPEZ DE TAPIA, DANEL",
-    "GONZALEZ OSPINA, JEAN CARLO",
-    "CASTAÑOS PEREZ DEL NOTARIO, DAVID",
-    "HERRERO ZUGALDIA, IVAN CESAR"
+    "LOPEZ DE TAPIA, DANEL"
   ],
   "jugadores_local": [
     "AZKARRAGA ARROSPIDE, UNAX",
@@ -171,7 +161,12 @@
     "GOROSTIZAGA UBARRECHENA, TELMO",
     "SOLANA TOMAS, UNAI",
     "LOZANO ULECIA, IVAN",
-    "SANTANA PIKABEA, JOEL"
+    "SANTANA PIKABEA, JOEL",
+    "FERNANDEZ BAYO, PABLO",
+    "ALBIZU AGUDO, IKER",
+    "IBAÑEZ MINGUEZ, PEDRO",
+    "MEHMETI, DION",
+    "DE LUCAS GARCIA, XANET"
   ],
   "jugadores_visitante": [
     "ARROYO CASTILLO, MARKEL",
@@ -184,33 +179,100 @@
     "MOSULEN MARTIN, DAVID",
     "SANCHEZ DEL RIO, JON",
     "DIONISIO CASTRO, ARATZ",
-    "ANGLADA PEREZ, IKER"
+    "ANGLADA PEREZ, IKER",
+    "CASTAÑOS PEREZ DEL NOTARIO, DAVID",
+    "BERMEJO LARRONDO, JON",
+    "GONZALEZ OSPINA, JEAN CARLO",
+    "CHACON EGUILUZ, JOEL",
+    "HERRERO ZUGALDIA, IVAN CESAR"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 63,
+      "entra": "FERNANDEZ BAYO, PABLO",
+      "sale": "SANTANA PIKABEA, JOEL"
+    },
+    {
+      "min": 63,
+      "entra": "ALBIZU AGUDO, IKER",
+      "sale": "LOZANO ULECIA, IVAN"
+    },
+    {
+      "min": 69,
+      "entra": "IBAÑEZ MINGUEZ, PEDRO",
+      "sale": "SOLANA TOMAS, UNAI"
+    },
+    {
+      "min": 87,
+      "entra": "MEHMETI, DION",
+      "sale": "MUGICA TORRES, YERAY"
+    },
+    {
+      "min": 87,
+      "entra": "DE LUCAS GARCIA, XANET",
+      "sale": "GOROSTIZAGA UBARRECHENA, TELMO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "CASTAÑOS PEREZ DEL NOTARIO, DAVID",
+      "sale": "DAVALILLO MARTIN, XABIER"
+    },
+    {
+      "min": 55,
+      "entra": "BERMEJO LARRONDO, JON",
+      "sale": "PUIG RODRIGUEZ, XABIER"
+    },
+    {
+      "min": 64,
+      "entra": "GONZALEZ OSPINA, JEAN CARLO",
+      "sale": "CRUZ ESTEBANEZ, MARCOS"
+    },
+    {
+      "min": 64,
+      "entra": "CHACON EGUILUZ, JOEL",
+      "sale": "SOLAETA GARAY, JUAN"
+    },
+    {
+      "min": 75,
+      "entra": "HERRERO ZUGALDIA, IVAN CESAR",
+      "sale": "SANCHEZ DEL RIO, JON"
+    }
+  ],
   "minutos_jugadores": {
     "AZKARRAGA ARROSPIDE, UNAX": 90,
     "PEREZ ARANDIA, ALAR": 90,
     "ORUEZABAL AMONDARAIN, OIER": 90,
     "MARTIN ARTOLA, MANEX": 90,
-    "MUGICA TORRES, YERAY": 90,
+    "MUGICA TORRES, YERAY": 87,
     "AYALA DE LOS MOZOS, ALEX": 90,
     "ECHARRI JAREÑO, XABIER": 90,
-    "GOROSTIZAGA UBARRECHENA, TELMO": 90,
-    "SOLANA TOMAS, UNAI": 90,
-    "LOZANO ULECIA, IVAN": 90,
-    "SANTANA PIKABEA, JOEL": 90,
+    "GOROSTIZAGA UBARRECHENA, TELMO": 87,
+    "SOLANA TOMAS, UNAI": 69,
+    "LOZANO ULECIA, IVAN": 63,
+    "SANTANA PIKABEA, JOEL": 63,
     "ARROYO CASTILLO, MARKEL": 90,
-    "DAVALILLO MARTIN, XABIER": 90,
-    "CRUZ ESTEBANEZ, MARCOS": 90,
-    "SOLAETA GARAY, JUAN": 90,
+    "DAVALILLO MARTIN, XABIER": 55,
+    "CRUZ ESTEBANEZ, MARCOS": 64,
+    "SOLAETA GARAY, JUAN": 64,
     "ESKUBI HERVAS, IKER": 90,
-    "PUIG RODRIGUEZ, XABIER": 90,
+    "PUIG RODRIGUEZ, XABIER": 55,
     "GIL GALAN, UNAX": 90,
     "MOSULEN MARTIN, DAVID": 90,
-    "SANCHEZ DEL RIO, JON": 90,
+    "SANCHEZ DEL RIO, JON": 75,
     "DIONISIO CASTRO, ARATZ": 90,
-    "ANGLADA PEREZ, IKER": 90
+    "ANGLADA PEREZ, IKER": 90,
+    "FERNANDEZ BAYO, PABLO": 27,
+    "ALBIZU AGUDO, IKER": 27,
+    "IBAÑEZ MINGUEZ, PEDRO": 21,
+    "MEHMETI, DION": 3,
+    "DE LUCAS GARCIA, XANET": 3,
+    "CASTAÑOS PEREZ DEL NOTARIO, DAVID": 35,
+    "BERMEJO LARRONDO, JON": 35,
+    "GONZALEZ OSPINA, JEAN CARLO": 26,
+    "CHACON EGUILUZ, JOEL": 26,
+    "HERRERO ZUGALDIA, IVAN CESAR": 15
   },
   "portero_local": "AZKARRAGA ARROSPIDE, UNAX",
   "portero_visitante": "ARROYO CASTILLO, MARKEL",
@@ -240,6 +302,5 @@
     "DIONISIO CASTRO, ARATZ": 10,
     "ANGLADA PEREZ, IKER": 11
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
