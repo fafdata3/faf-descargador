@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Primera División de Fútbol Playa Masculino (Primera División Nacional Masculina)",
   "equipo_local": "CLUB DE FÚTBOL BENIDORM FOIETES",
   "equipo_visitante": "MENTIDERO CADIZ C.D.",
-  "goles_local": 2,
-  "goles_visitante": 5,
+  "goles_local": 0,
+  "goles_visitante": 9,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -88,8 +88,8 @@
     {
       "minuto": 25,
       "jugador": "CHAGAS NESTOR, BRENDO CANELA",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     },
     {
       "minuto": 26,
@@ -100,8 +100,8 @@
     {
       "minuto": 31,
       "jugador": "ITURRIAGA, JUAN MANUEL",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     },
     {
       "minuto": 32,
@@ -118,14 +118,14 @@
     {
       "minuto": 35,
       "jugador": "ITURRIAGA, JUAN MANUEL",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     },
     {
       "minuto": 35,
       "jugador": "ITURRIAGA, JUAN MANUEL",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     }
   ],
   "tarjetas": [
@@ -247,6 +247,5 @@
   },
   "suspendidos": [
     "RESTREPO ORTIZ, JORGE ALBERTO"
-  ],
-  "_marcador_widget": true
+  ]
 }
