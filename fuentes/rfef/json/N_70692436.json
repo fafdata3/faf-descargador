@@ -1,0 +1,288 @@
+{
+  "acta_id": "N_70692436",
+  "filename": "Acta_N_70692436.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "13-09-2026",
+  "hora": "12:00",
+  "categoria": "Division de Honor Juvenil (Grupo 2)",
+  "equipo_local": "REAL VALLADOLID CF",
+  "equipo_visitante": "REAL SOCIEDAD DE FÚTBOL",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO",
+    "GONZÁLEZ MERINO, FERNANDO",
+    "ÁRBITRO ASISTENTE",
+    "PASTOR GONZALEZ, MARCOS",
+    "ÁRBITRO ASISTENTE",
+    "PERROTE DE LA ROCHA, JAIME"
+  ],
+  "estadio": "Anexos Estadio José Zorrilla",
+  "ciudad": "Valladolid",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "MERINO CAPARROS, SERGIO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "IGUAZ OLMOS, ALEJANDRO",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "OLANDIA SANCHEZ, JAVIER",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "GALPARSORO BARANDIARAN, IBAI",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 6,
+      "jugador": "MOLLEDA ALONSO, KILIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "MARTIN SERNA, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 15,
+      "jugador": "MICHELENA ZUBIETA, KEMEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "LABAKA ZURIARRAIN, MIKEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "ARTETXE MENDIZABAL, XABIER",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": "SACRISTAN ZURDO, JOSE LUIS",
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "BARO BARTOLOME, ETHAN",
+  "titulares_local": [
+    "MIHAYLOV, STEFAN STEFANOV",
+    "GARCÍA JIMÉNEZ, ÁLVARO",
+    "BENITEZ HUSILLOS, CARLOS",
+    "MOLLEDA ALONSO, KILIAN",
+    "SYLLA, VASSERI",
+    "MARTIN SERNA, MARIO",
+    "FERNÁNDEZ CRUZ, MARCOS",
+    "ESTEBAN ALVAREZ, SERGIO",
+    "IGUAZ OLMOS, ALEJANDRO",
+    "MERINO CAPARROS, SERGIO",
+    "OLANDIA SANCHEZ, JAVIER"
+  ],
+  "titulares_visitante": [
+    "DIEZ JORNA, HUGO",
+    "PEREZ ARANDIA, ALAR",
+    "GARCIA DE LA CRUZ, RODRIGO",
+    "MARTIN ARTOLA, MANEX",
+    "MICHELENA ZUBIETA, KEMEN",
+    "AYALA DE LOS MOZOS, ALEX",
+    "GOROSTIZAGA UBARRECHENA, TELMO",
+    "GALPARSORO BARANDIARAN, IBAI",
+    "SOLANA TOMAS, UNAI",
+    "LOZANO ULECIA, IVAN",
+    "ECHARRI JAREÑO, XABIER"
+  ],
+  "suplentes_local": [
+    "MARTÍNEZ BARRIO, JUAN",
+    "PEREZ ALMARAZ, JORGE",
+    "DE LUCAS GARCÍA, PABLO",
+    "ESCALADA MARTINEZ, ALEJANDRO",
+    "ZAPATERO FERNANDEZ, ALEJANDRO",
+    "KANTA, MOHAMED",
+    "REDONDO VELASCO, MIGUEL"
+  ],
+  "suplentes_visitante": [
+    "AZKARRAGA ARROSPIDE, UNAX",
+    "ORUEZABAL AMONDARAIN, OIER",
+    "ROMERA NUÑEZ, IAN",
+    "ALBIZU AGUDO, IKER",
+    "MEHMETI, DION",
+    "SANTANA PIKABEA, JOEL",
+    "MARGOLLES ARIAS, PELAYO"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTÍNEZ BARRIO, JUAN",
+    "ESCALADA MARTINEZ, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "AZKARRAGA ARROSPIDE, UNAX",
+    "ORUEZABAL AMONDARAIN, OIER"
+  ],
+  "jugadores_local": [
+    "MIHAYLOV, STEFAN STEFANOV",
+    "GARCÍA JIMÉNEZ, ÁLVARO",
+    "BENITEZ HUSILLOS, CARLOS",
+    "MOLLEDA ALONSO, KILIAN",
+    "SYLLA, VASSERI",
+    "MARTIN SERNA, MARIO",
+    "FERNÁNDEZ CRUZ, MARCOS",
+    "ESTEBAN ALVAREZ, SERGIO",
+    "IGUAZ OLMOS, ALEJANDRO",
+    "MERINO CAPARROS, SERGIO",
+    "OLANDIA SANCHEZ, JAVIER",
+    "ZAPATERO FERNANDEZ, ALEJANDRO",
+    "REDONDO VELASCO, MIGUEL",
+    "PEREZ ALMARAZ, JORGE",
+    "DE LUCAS GARCÍA, PABLO",
+    "KANTA, MOHAMED"
+  ],
+  "jugadores_visitante": [
+    "DIEZ JORNA, HUGO",
+    "PEREZ ARANDIA, ALAR",
+    "GARCIA DE LA CRUZ, RODRIGO",
+    "MARTIN ARTOLA, MANEX",
+    "MICHELENA ZUBIETA, KEMEN",
+    "AYALA DE LOS MOZOS, ALEX",
+    "GOROSTIZAGA UBARRECHENA, TELMO",
+    "GALPARSORO BARANDIARAN, IBAI",
+    "SOLANA TOMAS, UNAI",
+    "LOZANO ULECIA, IVAN",
+    "ECHARRI JAREÑO, XABIER",
+    "ROMERA NUÑEZ, IAN",
+    "ALBIZU AGUDO, IKER",
+    "MARGOLLES ARIAS, PELAYO",
+    "MEHMETI, DION",
+    "SANTANA PIKABEA, JOEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "ZAPATERO FERNANDEZ, ALEJANDRO",
+      "sale": "GARCÍA JIMÉNEZ, ÁLVARO"
+    },
+    {
+      "min": 55,
+      "entra": "REDONDO VELASCO, MIGUEL",
+      "sale": "FERNÁNDEZ CRUZ, MARCOS"
+    },
+    {
+      "min": 60,
+      "entra": "PEREZ ALMARAZ, JORGE",
+      "sale": "ESTEBAN ALVAREZ, SERGIO"
+    },
+    {
+      "min": 65,
+      "entra": "DE LUCAS GARCÍA, PABLO",
+      "sale": "IGUAZ OLMOS, ALEJANDRO"
+    },
+    {
+      "min": 65,
+      "entra": "KANTA, MOHAMED",
+      "sale": "BENITEZ HUSILLOS, CARLOS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "ROMERA NUÑEZ, IAN",
+      "sale": "GOROSTIZAGA UBARRECHENA, TELMO"
+    },
+    {
+      "min": 55,
+      "entra": "ALBIZU AGUDO, IKER",
+      "sale": "GARCIA DE LA CRUZ, RODRIGO"
+    },
+    {
+      "min": 65,
+      "entra": "MARGOLLES ARIAS, PELAYO",
+      "sale": "SOLANA TOMAS, UNAI"
+    },
+    {
+      "min": 65,
+      "entra": "MEHMETI, DION",
+      "sale": "GALPARSORO BARANDIARAN, IBAI"
+    },
+    {
+      "min": 72,
+      "entra": "SANTANA PIKABEA, JOEL",
+      "sale": "ECHARRI JAREÑO, XABIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "MIHAYLOV, STEFAN STEFANOV": 90,
+    "GARCÍA JIMÉNEZ, ÁLVARO": 55,
+    "BENITEZ HUSILLOS, CARLOS": 65,
+    "MOLLEDA ALONSO, KILIAN": 90,
+    "SYLLA, VASSERI": 90,
+    "MARTIN SERNA, MARIO": 90,
+    "FERNÁNDEZ CRUZ, MARCOS": 55,
+    "ESTEBAN ALVAREZ, SERGIO": 60,
+    "IGUAZ OLMOS, ALEJANDRO": 65,
+    "MERINO CAPARROS, SERGIO": 90,
+    "OLANDIA SANCHEZ, JAVIER": 90,
+    "DIEZ JORNA, HUGO": 90,
+    "PEREZ ARANDIA, ALAR": 90,
+    "GARCIA DE LA CRUZ, RODRIGO": 55,
+    "MARTIN ARTOLA, MANEX": 90,
+    "MICHELENA ZUBIETA, KEMEN": 90,
+    "AYALA DE LOS MOZOS, ALEX": 90,
+    "GOROSTIZAGA UBARRECHENA, TELMO": 55,
+    "GALPARSORO BARANDIARAN, IBAI": 65,
+    "SOLANA TOMAS, UNAI": 65,
+    "LOZANO ULECIA, IVAN": 90,
+    "ECHARRI JAREÑO, XABIER": 72,
+    "ZAPATERO FERNANDEZ, ALEJANDRO": 35,
+    "REDONDO VELASCO, MIGUEL": 35,
+    "PEREZ ALMARAZ, JORGE": 30,
+    "DE LUCAS GARCÍA, PABLO": 25,
+    "KANTA, MOHAMED": 25,
+    "ROMERA NUÑEZ, IAN": 35,
+    "ALBIZU AGUDO, IKER": 35,
+    "MARGOLLES ARIAS, PELAYO": 25,
+    "MEHMETI, DION": 25,
+    "SANTANA PIKABEA, JOEL": 18
+  },
+  "portero_local": "MIHAYLOV, STEFAN STEFANOV",
+  "portero_visitante": "DIEZ JORNA, HUGO",
+  "dorsales_local": {
+    "MIHAYLOV, STEFAN STEFANOV": 1,
+    "GARCÍA JIMÉNEZ, ÁLVARO": 2,
+    "BENITEZ HUSILLOS, CARLOS": 3,
+    "MOLLEDA ALONSO, KILIAN": 4,
+    "SYLLA, VASSERI": 5,
+    "MARTIN SERNA, MARIO": 6,
+    "FERNÁNDEZ CRUZ, MARCOS": 7,
+    "ESTEBAN ALVAREZ, SERGIO": 8,
+    "IGUAZ OLMOS, ALEJANDRO": 9,
+    "MERINO CAPARROS, SERGIO": 10,
+    "OLANDIA SANCHEZ, JAVIER": 11
+  },
+  "dorsales_visitante": {
+    "DIEZ JORNA, HUGO": 1,
+    "PEREZ ARANDIA, ALAR": 2,
+    "GARCIA DE LA CRUZ, RODRIGO": 3,
+    "MARTIN ARTOLA, MANEX": 4,
+    "MICHELENA ZUBIETA, KEMEN": 5,
+    "AYALA DE LOS MOZOS, ALEX": 6,
+    "GOROSTIZAGA UBARRECHENA, TELMO": 7,
+    "GALPARSORO BARANDIARAN, IBAI": 8,
+    "SOLANA TOMAS, UNAI": 9,
+    "LOZANO ULECIA, IVAN": 10,
+    "ECHARRI JAREÑO, XABIER": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
