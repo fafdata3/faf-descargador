@@ -9,8 +9,8 @@
   "categoria": "Division de Honor Juvenil (Grupo 1)",
   "equipo_local": "CD LUGO",
   "equipo_visitante": "E.D. VAL MIÑOR NIGRAN",
-  "goles_local": 4,
-  "goles_visitante": 1,
+  "goles_local": 5,
+  "goles_visitante": 2,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO",
@@ -50,7 +50,7 @@
     {
       "minuto": 62,
       "jugador": "PÉREZ EDROSA, ADRIÁN",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     },
     {
@@ -62,7 +62,7 @@
     {
       "minuto": 71,
       "jugador": "FERNANDEZ SENRA, PABLO",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     }
   ],
@@ -164,21 +164,11 @@
   ],
   "convocados_sin_jugar_local": [
     "PADERNE UZAL, HUGO",
-    "MOLINA EIRIS, PABLO",
-    "PÉREZ EDROSA, ADRIÁN",
-    "CASTRO ROCA, HUGO",
-    "ROCHA ÁLVAREZ, MARIO",
-    "SUAREZ FERNANDEZ, JUAN",
-    "CORTEGAZA FERNANDEZ, BORJA"
+    "CASTRO ROCA, HUGO"
   ],
   "convocados_sin_jugar_visitante": [
     "MORALES REY, RODRIGO",
-    "FERNANDEZ SENRA, PABLO",
-    "FERNANDEZ CEREZO, MARCO",
-    "PEREIRA PEREIRA, XOEL",
-    "CAO SANCHEZ, NICOLAS",
-    "RIAL HERMELO, ALEXANDRE",
-    "GONZALEZ LORENZO, MATEO"
+    "FERNANDEZ CEREZO, MARCO"
   ],
   "jugadores_local": [
     "RAMALLAL VAZQUEZ, PAULO",
@@ -191,7 +181,12 @@
     "DÍAZ VALÍN, DIEGO ANTONIO",
     "CASTRO RODRIGUEZ, ANXO",
     "FERNANDEZ PICON, BRAIS",
-    "GARCÍA GARCÍA, ARON"
+    "GARCÍA GARCÍA, ARON",
+    "ROCHA ÁLVAREZ, MARIO",
+    "PÉREZ EDROSA, ADRIÁN",
+    "CORTEGAZA FERNANDEZ, BORJA",
+    "SUAREZ FERNANDEZ, JUAN",
+    "MOLINA EIRIS, PABLO"
   ],
   "jugadores_visitante": [
     "PEREZ GONZALEZ, IVAN",
@@ -204,33 +199,100 @@
     "AGUILAR PEREZ, IAGO",
     "VALLE RIVAS, SAMUEL",
     "GARCIA TOSEF, MAXIMILIAM",
-    "OJEA MARTINEZ, PEDRO"
+    "OJEA MARTINEZ, PEDRO",
+    "CAO SANCHEZ, NICOLAS",
+    "PEREIRA PEREIRA, XOEL",
+    "GONZALEZ LORENZO, MATEO",
+    "RIAL HERMELO, ALEXANDRE",
+    "FERNANDEZ SENRA, PABLO"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 62,
+      "entra": "ROCHA ÁLVAREZ, MARIO",
+      "sale": "RODRIGUEZ ABAD, DANIEL"
+    },
+    {
+      "min": 62,
+      "entra": "PÉREZ EDROSA, ADRIÁN",
+      "sale": "VEGA ANDEON, URIEL"
+    },
+    {
+      "min": 73,
+      "entra": "CORTEGAZA FERNANDEZ, BORJA",
+      "sale": "GARCÍA GARCÍA, ARON"
+    },
+    {
+      "min": 73,
+      "entra": "SUAREZ FERNANDEZ, JUAN",
+      "sale": "DÍAZ VALÍN, DIEGO ANTONIO"
+    },
+    {
+      "min": 84,
+      "entra": "MOLINA EIRIS, PABLO",
+      "sale": "ARMESTO DÍAZ, YAGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "CAO SANCHEZ, NICOLAS",
+      "sale": "GARCIA TOSEF, MAXIMILIAM"
+    },
+    {
+      "min": 46,
+      "entra": "PEREIRA PEREIRA, XOEL",
+      "sale": "PADIN GONZALEZ, BRUNO"
+    },
+    {
+      "min": 62,
+      "entra": "GONZALEZ LORENZO, MATEO",
+      "sale": "RUA CARRO, SERGIO"
+    },
+    {
+      "min": 62,
+      "entra": "RIAL HERMELO, ALEXANDRE",
+      "sale": "NUÑEZ GARCIA, HUGO"
+    },
+    {
+      "min": 69,
+      "entra": "FERNANDEZ SENRA, PABLO",
+      "sale": "OJEA MARTINEZ, PEDRO"
+    }
+  ],
   "minutos_jugadores": {
     "RAMALLAL VAZQUEZ, PAULO": 90,
-    "RODRIGUEZ ABAD, DANIEL": 90,
+    "RODRIGUEZ ABAD, DANIEL": 62,
     "MONTERO BASANTA, MARCOS": 90,
     "DOMÍNGUEZ BUA, MATEO": 90,
-    "ARMESTO DÍAZ, YAGO": 90,
-    "VEGA ANDEON, URIEL": 90,
+    "ARMESTO DÍAZ, YAGO": 84,
+    "VEGA ANDEON, URIEL": 62,
     "MARTINEZ ROMAY, CRISTHIAN": 90,
-    "DÍAZ VALÍN, DIEGO ANTONIO": 90,
+    "DÍAZ VALÍN, DIEGO ANTONIO": 73,
     "CASTRO RODRIGUEZ, ANXO": 90,
     "FERNANDEZ PICON, BRAIS": 90,
-    "GARCÍA GARCÍA, ARON": 90,
+    "GARCÍA GARCÍA, ARON": 73,
     "PEREZ GONZALEZ, IVAN": 90,
     "TOUCEDO RODRIGUEZ, GUILLERMO": 90,
-    "PADIN GONZALEZ, BRUNO": 90,
+    "PADIN GONZALEZ, BRUNO": 46,
     "RODRIGUEZ CUEVAS, MIGUEL": 90,
-    "NUÑEZ GARCIA, HUGO": 90,
-    "RUA CARRO, SERGIO": 90,
+    "NUÑEZ GARCIA, HUGO": 62,
+    "RUA CARRO, SERGIO": 62,
     "MOURULLO ESCUDERO, HUGO": 90,
     "AGUILAR PEREZ, IAGO": 90,
     "VALLE RIVAS, SAMUEL": 90,
-    "GARCIA TOSEF, MAXIMILIAM": 90,
-    "OJEA MARTINEZ, PEDRO": 90
+    "GARCIA TOSEF, MAXIMILIAM": 46,
+    "OJEA MARTINEZ, PEDRO": 69,
+    "ROCHA ÁLVAREZ, MARIO": 28,
+    "PÉREZ EDROSA, ADRIÁN": 28,
+    "CORTEGAZA FERNANDEZ, BORJA": 17,
+    "SUAREZ FERNANDEZ, JUAN": 17,
+    "MOLINA EIRIS, PABLO": 6,
+    "CAO SANCHEZ, NICOLAS": 44,
+    "PEREIRA PEREIRA, XOEL": 44,
+    "GONZALEZ LORENZO, MATEO": 28,
+    "RIAL HERMELO, ALEXANDRE": 28,
+    "FERNANDEZ SENRA, PABLO": 21
   },
   "portero_local": "RAMALLAL VAZQUEZ, PAULO",
   "portero_visitante": "PEREZ GONZALEZ, IVAN",
