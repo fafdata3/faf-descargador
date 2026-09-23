@@ -10,8 +10,8 @@
   "equipo_local": "TURIA BEACH SOCCER CLUB",
   "equipo_visitante": "BARCELONA BSC",
   "goles_local": 1,
-  "goles_visitante": 0,
-  "resultado": "W",
+  "goles_visitante": 2,
+  "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
     "MARTÍNEZ DE OSABA ESCUDERO, JUAN LUIS",
@@ -294,5 +294,6 @@
   "suspendidos": [
     "BARCELONA BSC :",
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
