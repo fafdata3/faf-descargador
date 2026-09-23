@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Primera División de Fútbol Playa Masculino (Primera División Nacional Masculina)",
   "equipo_local": "C.D. ATLETICO TORROXEÑO",
   "equipo_visitante": "GESTIÓN Y CALOR CÓRDOBA",
-  "goles_local": 1,
-  "goles_visitante": 3,
+  "goles_local": 3,
+  "goles_visitante": 6,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -53,13 +53,13 @@
       "minuto": 14,
       "jugador": "TORRES LOUZAO, IVAN AMOR",
       "equipo": "?",
-      "propia": false
+      "propia": true
     },
     {
       "minuto": 26,
       "jugador": "RIVERO BLAYA, IGNACIO",
-      "equipo": "local",
-      "propia": false
+      "equipo": "visitante",
+      "propia": true
     },
     {
       "minuto": 31,
@@ -181,5 +181,6 @@
   },
   "suspendidos": [
     "RESENDE LUNA, REYDER WEREKER"
-  ]
+  ],
+  "_marcador_widget": true
 }
