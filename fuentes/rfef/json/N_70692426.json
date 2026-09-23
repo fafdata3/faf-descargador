@@ -127,21 +127,12 @@
   ],
   "convocados_sin_jugar_local": [
     "ESTEBAN SAN ROMAN, ANGEL",
-    "CABALLERO TENA, DIEGO",
     "PORTILLO RUBIN, XABIER",
-    "HERRERA NAVAS, ANDER",
-    "LEON GARCIA, LUCAS",
-    "IRAZABAL VADILLO, LINO",
     "RODRIGUEZ ALVAREZ, SENDOA"
   ],
   "convocados_sin_jugar_visitante": [
     "ITURRALDE ALVAREZ, DANEL",
-    "GARCIA SANTAMARIA, OIER",
-    "ESCANCIANO MUGURUZA, TELMO",
-    "MORENO IBARLOZA, DANEL",
-    "GONZALEZ MORA, SERGIO",
-    "VALDIVIELSO TRINCHE, ENEKO",
-    "DE LECEA CIGARAN, FRANCISCO DE ASIS"
+    "VALDIVIELSO TRINCHE, ENEKO"
   ],
   "jugadores_local": [
     "ALONSO TORRECILLA, VICTOR",
@@ -154,7 +145,11 @@
     "EGUIDAZU PINILLA, ASIER",
     "DUQUE MICOLTA, URTZI",
     "ORTEGA HENALES, IBAI",
-    "ASUMU ANGONO, SERGIO NDONG"
+    "ASUMU ANGONO, SERGIO NDONG",
+    "LEON GARCIA, LUCAS",
+    "IRAZABAL VADILLO, LINO",
+    "HERRERA NAVAS, ANDER",
+    "CABALLERO TENA, DIEGO"
   ],
   "jugadores_visitante": [
     "EZKERRA HERRERO, XABIER",
@@ -167,17 +162,69 @@
     "LOPEZ SILVA, HUGO JOHAN",
     "ETXABE SAN JOSE, OIER",
     "DIAZ PEREZ, IBAI",
-    "SERRANO ACERO, IKER"
+    "SERRANO ACERO, IKER",
+    "MORENO IBARLOZA, DANEL",
+    "ESCANCIANO MUGURUZA, TELMO",
+    "DE LECEA CIGARAN, FRANCISCO DE ASIS",
+    "GONZALEZ MORA, SERGIO",
+    "GARCIA SANTAMARIA, OIER"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "LEON GARCIA, LUCAS",
+      "sale": "URRESTI RECIO, ALEX JHOVANNY"
+    },
+    {
+      "min": 58,
+      "entra": "IRAZABAL VADILLO, LINO",
+      "sale": "GIRALDO AMAYA, SEBASTIAN"
+    },
+    {
+      "min": 67,
+      "entra": "HERRERA NAVAS, ANDER",
+      "sale": "REGO MORA, DIEGO"
+    },
+    {
+      "min": 86,
+      "entra": "CABALLERO TENA, DIEGO",
+      "sale": "VEGA PRIETO, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "MORENO IBARLOZA, DANEL",
+      "sale": "DIAZ PEREZ, IBAI"
+    },
+    {
+      "min": 56,
+      "entra": "ESCANCIANO MUGURUZA, TELMO",
+      "sale": "MARTELL SERRANO, AIMAR"
+    },
+    {
+      "min": 56,
+      "entra": "DE LECEA CIGARAN, FRANCISCO DE ASIS",
+      "sale": "OSIPOV, SEBASTIAN"
+    },
+    {
+      "min": 72,
+      "entra": "GONZALEZ MORA, SERGIO",
+      "sale": "ETXABE SAN JOSE, OIER"
+    },
+    {
+      "min": 81,
+      "entra": "GARCIA SANTAMARIA, OIER",
+      "sale": "SERRANO ACERO, IKER"
+    }
+  ],
   "minutos_jugadores": {
     "ALONSO TORRECILLA, VICTOR": 90,
-    "REGO MORA, DIEGO": 90,
+    "REGO MORA, DIEGO": 67,
     "GARCIA FERNANDEZ, OIER": 90,
-    "URRESTI RECIO, ALEX JHOVANNY": 90,
-    "VEGA PRIETO, IKER": 90,
-    "GIRALDO AMAYA, SEBASTIAN": 90,
+    "URRESTI RECIO, ALEX JHOVANNY": 58,
+    "VEGA PRIETO, IKER": 86,
+    "GIRALDO AMAYA, SEBASTIAN": 58,
     "MARTIN BARTOLOME, GORKA": 90,
     "EGUIDAZU PINILLA, ASIER": 90,
     "DUQUE MICOLTA, URTZI": 90,
@@ -185,15 +232,24 @@
     "ASUMU ANGONO, SERGIO NDONG": 90,
     "EZKERRA HERRERO, XABIER": 90,
     "FERNANDEZ AYALA, UNAI": 90,
-    "OSIPOV, SEBASTIAN": 90,
+    "OSIPOV, SEBASTIAN": 56,
     "SANTAMARIA FERRERO, ARITZ": 90,
-    "MARTELL SERRANO, AIMAR": 90,
+    "MARTELL SERRANO, AIMAR": 56,
     "FELIZ FERNANDEZ, SAUL": 90,
     "BAPTISTA BASTERRA, JAVIER": 90,
     "LOPEZ SILVA, HUGO JOHAN": 90,
-    "ETXABE SAN JOSE, OIER": 90,
-    "DIAZ PEREZ, IBAI": 90,
-    "SERRANO ACERO, IKER": 90
+    "ETXABE SAN JOSE, OIER": 72,
+    "DIAZ PEREZ, IBAI": 46,
+    "SERRANO ACERO, IKER": 81,
+    "LEON GARCIA, LUCAS": 32,
+    "IRAZABAL VADILLO, LINO": 32,
+    "HERRERA NAVAS, ANDER": 23,
+    "CABALLERO TENA, DIEGO": 4,
+    "MORENO IBARLOZA, DANEL": 44,
+    "ESCANCIANO MUGURUZA, TELMO": 34,
+    "DE LECEA CIGARAN, FRANCISCO DE ASIS": 34,
+    "GONZALEZ MORA, SERGIO": 18,
+    "GARCIA SANTAMARIA, OIER": 9
   },
   "portero_local": "ALONSO TORRECILLA, VICTOR",
   "portero_visitante": "EZKERRA HERRERO, XABIER",
@@ -223,5 +279,6 @@
     "DIAZ PEREZ, IBAI": 21,
     "SERRANO ACERO, IKER": 26
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
