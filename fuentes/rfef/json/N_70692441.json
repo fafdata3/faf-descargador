@@ -157,21 +157,11 @@
   ],
   "convocados_sin_jugar_local": [
     "FERNANDEZ DE ZAÑARTU ANSORREGUI, JOKIN",
-    "SAEZ FERNANDEZ, ALBERTO",
-    "SAN PIO GALAN, NICOLAS",
-    "MORALES RUIZ, LEÓN",
-    "CIPRIAN GARABITO, BRYAN SCOOTT",
-    "HASSANI ZINEDINE, SOHAIB",
-    "LOBATO HERRERO, IKER"
+    "SAEZ FERNANDEZ, ALBERTO"
   ],
   "convocados_sin_jugar_visitante": [
     "EZKERRA HERRERO, XABIER",
-    "GARCIA SANTAMARIA, OIER",
-    "ESCANCIANO MUGURUZA, TELMO",
-    "FELIZ FERNANDEZ, SAUL",
-    "BAPTISTA BASTERRA, JAVIER",
-    "IGLESIAS ELORDI, AIMAR",
-    "MARTINEZ GALAN, ANTXON"
+    "FELIZ FERNANDEZ, SAUL"
   ],
   "jugadores_local": [
     "MUGICA VICARIO, OIER",
@@ -184,7 +174,12 @@
     "OKORIE IGIDI, IVAN",
     "SUBERVIOLA CANTERA, HUGO",
     "ESTEBAN HERNANDEZ, JORGE",
-    "DOMINGO RUPEREZ, IKER"
+    "DOMINGO RUPEREZ, IKER",
+    "MORALES RUIZ, LEÓN",
+    "CIPRIAN GARABITO, BRYAN SCOOTT",
+    "HASSANI ZINEDINE, SOHAIB",
+    "SAN PIO GALAN, NICOLAS",
+    "LOBATO HERRERO, IKER"
   ],
   "jugadores_visitante": [
     "ITURRALDE ALVAREZ, DANEL",
@@ -197,33 +192,100 @@
     "ETXABE SAN JOSE, OIER",
     "GONZALEZ MORA, SERGIO",
     "SERRANO ACERO, IKER",
-    "DE LECEA CIGARAN, FRANCISCO DE ASIS"
+    "DE LECEA CIGARAN, FRANCISCO DE ASIS",
+    "BAPTISTA BASTERRA, JAVIER",
+    "ESCANCIANO MUGURUZA, TELMO",
+    "IGLESIAS ELORDI, AIMAR",
+    "MARTINEZ GALAN, ANTXON",
+    "GARCIA SANTAMARIA, OIER"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "MORALES RUIZ, LEÓN",
+      "sale": "BEOBIDE SAENZ DE PIPAON, MAREN AIMAR"
+    },
+    {
+      "min": 54,
+      "entra": "CIPRIAN GARABITO, BRYAN SCOOTT",
+      "sale": "SUBERVIOLA CANTERA, HUGO"
+    },
+    {
+      "min": 69,
+      "entra": "HASSANI ZINEDINE, SOHAIB",
+      "sale": "OKORIE IGIDI, IVAN"
+    },
+    {
+      "min": 75,
+      "entra": "SAN PIO GALAN, NICOLAS",
+      "sale": "DOMINGO RUPEREZ, IKER"
+    },
+    {
+      "min": 75,
+      "entra": "LOBATO HERRERO, IKER",
+      "sale": "ESTEBAN HERNANDEZ, JORGE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "BAPTISTA BASTERRA, JAVIER",
+      "sale": "GONZALEZ MORA, SERGIO"
+    },
+    {
+      "min": 56,
+      "entra": "ESCANCIANO MUGURUZA, TELMO",
+      "sale": "ETXABE SAN JOSE, OIER"
+    },
+    {
+      "min": 71,
+      "entra": "IGLESIAS ELORDI, AIMAR",
+      "sale": "MORENO IBARLOZA, DANEL"
+    },
+    {
+      "min": 71,
+      "entra": "MARTINEZ GALAN, ANTXON",
+      "sale": "MARTELL SERRANO, AIMAR"
+    },
+    {
+      "min": 75,
+      "entra": "GARCIA SANTAMARIA, OIER",
+      "sale": "SERRANO ACERO, IKER"
+    }
+  ],
   "minutos_jugadores": {
     "MUGICA VICARIO, OIER": 90,
-    "BEOBIDE SAENZ DE PIPAON, MAREN AIMAR": 90,
+    "BEOBIDE SAENZ DE PIPAON, MAREN AIMAR": 54,
     "VIVIAN SANCHEZ, GABRIEL": 90,
     "RAMIREZ GARCIA, JAVIER": 90,
     "VELILLES MAGHOUZA, LUIS": 90,
     "ZAMORA SAEZ, IMANOL": 90,
     "MONTERO MARQUINEZ, OIER": 90,
-    "OKORIE IGIDI, IVAN": 90,
-    "SUBERVIOLA CANTERA, HUGO": 90,
-    "ESTEBAN HERNANDEZ, JORGE": 90,
-    "DOMINGO RUPEREZ, IKER": 90,
+    "OKORIE IGIDI, IVAN": 69,
+    "SUBERVIOLA CANTERA, HUGO": 54,
+    "ESTEBAN HERNANDEZ, JORGE": 75,
+    "DOMINGO RUPEREZ, IKER": 75,
     "ITURRALDE ALVAREZ, DANEL": 90,
     "FERNANDEZ AYALA, UNAI": 90,
     "OSIPOV, SEBASTIAN": 90,
     "SANTAMARIA FERRERO, ARITZ": 90,
-    "MORENO IBARLOZA, DANEL": 90,
-    "MARTELL SERRANO, AIMAR": 90,
+    "MORENO IBARLOZA, DANEL": 71,
+    "MARTELL SERRANO, AIMAR": 71,
     "LOPEZ SILVA, HUGO JOHAN": 90,
-    "ETXABE SAN JOSE, OIER": 90,
-    "GONZALEZ MORA, SERGIO": 90,
-    "SERRANO ACERO, IKER": 90,
-    "DE LECEA CIGARAN, FRANCISCO DE ASIS": 90
+    "ETXABE SAN JOSE, OIER": 56,
+    "GONZALEZ MORA, SERGIO": 56,
+    "SERRANO ACERO, IKER": 75,
+    "DE LECEA CIGARAN, FRANCISCO DE ASIS": 90,
+    "MORALES RUIZ, LEÓN": 36,
+    "CIPRIAN GARABITO, BRYAN SCOOTT": 36,
+    "HASSANI ZINEDINE, SOHAIB": 21,
+    "SAN PIO GALAN, NICOLAS": 15,
+    "LOBATO HERRERO, IKER": 15,
+    "BAPTISTA BASTERRA, JAVIER": 34,
+    "ESCANCIANO MUGURUZA, TELMO": 34,
+    "IGLESIAS ELORDI, AIMAR": 19,
+    "MARTINEZ GALAN, ANTXON": 19,
+    "GARCIA SANTAMARIA, OIER": 15
   },
   "portero_local": "MUGICA VICARIO, OIER",
   "portero_visitante": "ITURRALDE ALVAREZ, DANEL",
