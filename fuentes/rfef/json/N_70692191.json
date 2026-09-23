@@ -143,21 +143,11 @@
   ],
   "convocados_sin_jugar_local": [
     "FRAGA PEREZ, RUBEN",
-    "VILAS PARAPAR, EDER",
-    "PREGO PENA, ERIC",
-    "YAHIAOUI, ELYAS",
-    "SUAREZ GARCIA, ANXO",
-    "CANCELA MARTINEZ, KEVIN",
-    "LOPEZ RODRIGUEZ, DIEGO"
+    "PREGO PENA, ERIC"
   ],
   "convocados_sin_jugar_visitante": [
     "LOPEZ CASTIÑEIRA, LUCAS",
-    "FERNÁNDEZ ROCA, RUBEN",
-    "SANCHEZ LEMA, ANTON",
-    "FONSECA CRESPO, JOAQUIN",
-    "DE DIOS DEVESA, XOEL",
-    "GARCIA VILLAR, DIEGO",
-    "AKGOZ CHARRIE, NICOLAS GIOVANNI"
+    "SANCHEZ LEMA, ANTON"
   ],
   "jugadores_local": [
     "CURTO MIRANDA, ADRIAN",
@@ -170,7 +160,12 @@
     "CARIDAD MARIÑAS, PABLO",
     "GARCIA PAIS, ISMAEL",
     "TRILLO ABELLEIRA, JOEL",
-    "BAAMONDE FERREIRO, NICOLAS"
+    "BAAMONDE FERREIRO, NICOLAS",
+    "LOPEZ RODRIGUEZ, DIEGO",
+    "CANCELA MARTINEZ, KEVIN",
+    "YAHIAOUI, ELYAS",
+    "VILAS PARAPAR, EDER",
+    "SUAREZ GARCIA, ANXO"
   ],
   "jugadores_visitante": [
     "LEIVA SEOANE, RODRIGO",
@@ -183,33 +178,100 @@
     "IGLESIAS VARELA, FRANK",
     "DE LABRA TUÑEZ, MIGUEL",
     "TRILLO CAAMAÑO, RUBEN",
-    "MARTÍNEZ MEJIA, DIEGO"
+    "MARTÍNEZ MEJIA, DIEGO",
+    "DE DIOS DEVESA, XOEL",
+    "GARCIA VILLAR, DIEGO",
+    "FONSECA CRESPO, JOAQUIN",
+    "FERNÁNDEZ ROCA, RUBEN",
+    "AKGOZ CHARRIE, NICOLAS GIOVANNI"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "LOPEZ RODRIGUEZ, DIEGO",
+      "sale": "TRILLO ABELLEIRA, JOEL"
+    },
+    {
+      "min": 45,
+      "entra": "CANCELA MARTINEZ, KEVIN",
+      "sale": "BAAMONDE FERREIRO, NICOLAS"
+    },
+    {
+      "min": 45,
+      "entra": "YAHIAOUI, ELYAS",
+      "sale": "GARCIA PAIS, ISMAEL"
+    },
+    {
+      "min": 60,
+      "entra": "VILAS PARAPAR, EDER",
+      "sale": "OJEA DA SILVEIRA, JULIAN ALEJANDRO"
+    },
+    {
+      "min": 71,
+      "entra": "SUAREZ GARCIA, ANXO",
+      "sale": "CARIDAD MARIÑAS, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "DE DIOS DEVESA, XOEL",
+      "sale": "IGLESIAS VARELA, FRANK"
+    },
+    {
+      "min": 58,
+      "entra": "GARCIA VILLAR, DIEGO",
+      "sale": "MARTÍNEZ MEJIA, DIEGO"
+    },
+    {
+      "min": 58,
+      "entra": "FONSECA CRESPO, JOAQUIN",
+      "sale": "BLANCO CALVO, RAMON"
+    },
+    {
+      "min": 58,
+      "entra": "FERNÁNDEZ ROCA, RUBEN",
+      "sale": "ORDIALES RAMOS, SABINO"
+    },
+    {
+      "min": 75,
+      "entra": "AKGOZ CHARRIE, NICOLAS GIOVANNI",
+      "sale": "ALTIERI DE LEON, LEANDRO"
+    }
+  ],
   "minutos_jugadores": {
     "CURTO MIRANDA, ADRIAN": 90,
     "ALVAREZ SERBAN, MARIO": 90,
-    "OJEA DA SILVEIRA, JULIAN ALEJANDRO": 90,
+    "OJEA DA SILVEIRA, JULIAN ALEJANDRO": 60,
     "CASTAÑO OTERO, IAGO": 90,
     "CONCHEIRO DÁVILA, MAEL": 90,
     "AROSEMENA RAMIREZ, PABLO": 90,
     "BENITO GOMEZ, GUILLERMO": 90,
-    "CARIDAD MARIÑAS, PABLO": 90,
-    "GARCIA PAIS, ISMAEL": 90,
-    "TRILLO ABELLEIRA, JOEL": 90,
-    "BAAMONDE FERREIRO, NICOLAS": 90,
+    "CARIDAD MARIÑAS, PABLO": 71,
+    "GARCIA PAIS, ISMAEL": 45,
+    "TRILLO ABELLEIRA, JOEL": 45,
+    "BAAMONDE FERREIRO, NICOLAS": 45,
     "LEIVA SEOANE, RODRIGO": 90,
     "PASTORIZA CARBAJALES, GUILLERMO": 90,
-    "ORDIALES RAMOS, SABINO": 90,
-    "BLANCO CALVO, RAMON": 90,
+    "ORDIALES RAMOS, SABINO": 58,
+    "BLANCO CALVO, RAMON": 58,
     "FERNANDEZ SEOANE, IKER": 90,
     "REGUEIRA CASTAÑO, ABEL": 90,
-    "ALTIERI DE LEON, LEANDRO": 90,
-    "IGLESIAS VARELA, FRANK": 90,
+    "ALTIERI DE LEON, LEANDRO": 75,
+    "IGLESIAS VARELA, FRANK": 45,
     "DE LABRA TUÑEZ, MIGUEL": 90,
     "TRILLO CAAMAÑO, RUBEN": 90,
-    "MARTÍNEZ MEJIA, DIEGO": 90
+    "MARTÍNEZ MEJIA, DIEGO": 58,
+    "LOPEZ RODRIGUEZ, DIEGO": 45,
+    "CANCELA MARTINEZ, KEVIN": 45,
+    "YAHIAOUI, ELYAS": 45,
+    "VILAS PARAPAR, EDER": 30,
+    "SUAREZ GARCIA, ANXO": 19,
+    "DE DIOS DEVESA, XOEL": 45,
+    "GARCIA VILLAR, DIEGO": 32,
+    "FONSECA CRESPO, JOAQUIN": 32,
+    "FERNÁNDEZ ROCA, RUBEN": 32,
+    "AKGOZ CHARRIE, NICOLAS GIOVANNI": 15
   },
   "portero_local": "CURTO MIRANDA, ADRIAN",
   "portero_visitante": "LEIVA SEOANE, RODRIGO",
@@ -239,5 +301,6 @@
     "TRILLO CAAMAÑO, RUBEN": 10,
     "MARTÍNEZ MEJIA, DIEGO": 11
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
