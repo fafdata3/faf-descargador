@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Cadete Masculino (GRUPO A)",
   "equipo_local": "SELECCIÓN COMUNIDAD VALENCIANA",
   "equipo_visitante": "SELECCIÓN EXTREMEÑA",
-  "goles_local": 0,
-  "goles_visitante": 1,
+  "goles_local": 1,
+  "goles_visitante": 5,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -251,5 +251,6 @@
   "suspendidos": [
     "LUQUE ALONSO, FERRAN",
     "RUIZ GRANERO, ISAAC"
-  ]
+  ],
+  "_marcador_widget": true
 }
