@@ -10,7 +10,7 @@
   "equipo_local": "RS GIMNASTICA DE TORRELAVEGA",
   "equipo_visitante": "TSK ROCES",
   "goles_local": 0,
-  "goles_visitante": 2,
+  "goles_visitante": 3,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO",
@@ -38,7 +38,7 @@
     {
       "minuto": 88,
       "jugador": "PACO SOLIS, PABLO",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     }
   ],
@@ -133,21 +133,11 @@
   ],
   "convocados_sin_jugar_local": [
     "GANDARA MARTINEZ, HUGO",
-    "HERRERA BUENO, HUGO",
-    "PEREIRA SAIZ, GUILLERMO",
-    "YELA GONZALEZ, MAURICIO",
-    "BLUM RUIZ, JOSE",
-    "RODRIGUEZ URCELAY, DORIAN",
     "BARBA AGENJO, ADRIAN"
   ],
   "convocados_sin_jugar_visitante": [
     "ALVAREZ CEBRIAN, ENOL",
-    "RECUPERO GARRANDES, FRANSCISCO",
-    "GONZALEZ GARCIA, ALVARO",
-    "FERNANDEZ CANGA, IYAN",
-    "GONZALEZ REDONDO, HUGO",
-    "PACO SOLIS, PABLO",
-    "CAPELLAN GUTIERREZ, JORGE"
+    "FERNANDEZ CANGA, IYAN"
   ],
   "jugadores_local": [
     "FERNANDEZ SAÑUDO, GERMAN",
@@ -160,7 +150,12 @@
     "MARTINEZ CALVO, HUGO",
     "ALVAREZ CARRANCEJA, JORGE",
     "FERNANDEZ ZARCO, SAUL",
-    "URRUTIA RODRIGUEZ, JON"
+    "URRUTIA RODRIGUEZ, JON",
+    "RODRIGUEZ URCELAY, DORIAN",
+    "BLUM RUIZ, JOSE",
+    "YELA GONZALEZ, MAURICIO",
+    "HERRERA BUENO, HUGO",
+    "PEREIRA SAIZ, GUILLERMO"
   ],
   "jugadores_visitante": [
     "HUETE CASTRO, RUBEN",
@@ -173,33 +168,100 @@
     "FERNÁNDEZ RÚA, TOMÁS",
     "ARIAS SENIS, JESUS",
     "PEREIRA ARCE, DIEGO",
-    "CASTRO SUAREZ, AITOR"
+    "CASTRO SUAREZ, AITOR",
+    "GONZALEZ GARCIA, ALVARO",
+    "GONZALEZ REDONDO, HUGO",
+    "RECUPERO GARRANDES, FRANSCISCO",
+    "PACO SOLIS, PABLO",
+    "CAPELLAN GUTIERREZ, JORGE"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "RODRIGUEZ URCELAY, DORIAN",
+      "sale": "FERNANDEZ IZARA, LORENZO"
+    },
+    {
+      "min": 58,
+      "entra": "BLUM RUIZ, JOSE",
+      "sale": "ALVAREZ CARRANCEJA, JORGE"
+    },
+    {
+      "min": 67,
+      "entra": "YELA GONZALEZ, MAURICIO",
+      "sale": "URRUTIA RODRIGUEZ, JON"
+    },
+    {
+      "min": 67,
+      "entra": "HERRERA BUENO, HUGO",
+      "sale": "MACHURA PEDRAJO, DANIEL"
+    },
+    {
+      "min": 80,
+      "entra": "PEREIRA SAIZ, GUILLERMO",
+      "sale": "FRAILE LOPEZ, GAEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "GONZALEZ GARCIA, ALVARO",
+      "sale": "CASTRO SUAREZ, AITOR"
+    },
+    {
+      "min": 58,
+      "entra": "GONZALEZ REDONDO, HUGO",
+      "sale": "ARIAS SENIS, JESUS"
+    },
+    {
+      "min": 65,
+      "entra": "RECUPERO GARRANDES, FRANSCISCO",
+      "sale": "RODRIGUEZ GONZALEZ, ADRIAN"
+    },
+    {
+      "min": 85,
+      "entra": "PACO SOLIS, PABLO",
+      "sale": "RUIZ CAPILLAS PANDO, URIEL"
+    },
+    {
+      "min": 85,
+      "entra": "CAPELLAN GUTIERREZ, JORGE",
+      "sale": "FERNÁNDEZ RÚA, TOMÁS"
+    }
+  ],
   "minutos_jugadores": {
     "FERNANDEZ SAÑUDO, GERMAN": 90,
-    "FRAILE LOPEZ, GAEL": 90,
+    "FRAILE LOPEZ, GAEL": 80,
     "TORRE ARCO, CESAR": 90,
     "DIEZ MARTINEZ, JACOBO": 90,
     "EL AMRAQUI FARSSI, MOHAMED": 90,
-    "FERNANDEZ IZARA, LORENZO": 90,
-    "MACHURA PEDRAJO, DANIEL": 90,
+    "FERNANDEZ IZARA, LORENZO": 58,
+    "MACHURA PEDRAJO, DANIEL": 67,
     "MARTINEZ CALVO, HUGO": 90,
-    "ALVAREZ CARRANCEJA, JORGE": 90,
+    "ALVAREZ CARRANCEJA, JORGE": 58,
     "FERNANDEZ ZARCO, SAUL": 90,
-    "URRUTIA RODRIGUEZ, JON": 90,
+    "URRUTIA RODRIGUEZ, JON": 67,
     "HUETE CASTRO, RUBEN": 90,
     "GUTIERREZ GONZALEZ, JORGE": 90,
-    "RODRIGUEZ GONZALEZ, ADRIAN": 90,
+    "RODRIGUEZ GONZALEZ, ADRIAN": 65,
     "CAMPORRO PINEDA, DANIEL": 90,
     "MARTINEZ CABAL, JORGE": 90,
     "PIÑERA GARCIA, FRANCISCO": 90,
-    "RUIZ CAPILLAS PANDO, URIEL": 90,
-    "FERNÁNDEZ RÚA, TOMÁS": 90,
-    "ARIAS SENIS, JESUS": 90,
+    "RUIZ CAPILLAS PANDO, URIEL": 85,
+    "FERNÁNDEZ RÚA, TOMÁS": 85,
+    "ARIAS SENIS, JESUS": 58,
     "PEREIRA ARCE, DIEGO": 90,
-    "CASTRO SUAREZ, AITOR": 90
+    "CASTRO SUAREZ, AITOR": 58,
+    "RODRIGUEZ URCELAY, DORIAN": 32,
+    "BLUM RUIZ, JOSE": 32,
+    "YELA GONZALEZ, MAURICIO": 23,
+    "HERRERA BUENO, HUGO": 23,
+    "PEREIRA SAIZ, GUILLERMO": 10,
+    "GONZALEZ GARCIA, ALVARO": 32,
+    "GONZALEZ REDONDO, HUGO": 32,
+    "RECUPERO GARRANDES, FRANSCISCO": 25,
+    "PACO SOLIS, PABLO": 5,
+    "CAPELLAN GUTIERREZ, JORGE": 5
   },
   "portero_local": "FERNANDEZ SAÑUDO, GERMAN",
   "portero_visitante": "HUETE CASTRO, RUBEN",
@@ -229,5 +291,6 @@
     "PEREIRA ARCE, DIEGO": 10,
     "CASTRO SUAREZ, AITOR": 11
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
