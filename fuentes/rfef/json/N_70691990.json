@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Selecciones Autonómicas de Futbol Playa SUB-17 femenino (GRUPO B)",
   "equipo_local": "SELECCIÓN MELILLENSE",
   "equipo_visitante": "SELECCION REGIÓN DE MURCIA",
-  "goles_local": 2,
-  "goles_visitante": 4,
-  "resultado": "L",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "MUÑOZ GARCÍA, JAYRO",
@@ -34,8 +34,8 @@
     {
       "minuto": 6,
       "jugador": "MORENO LOPEZ, JIMENA",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     },
     {
       "minuto": 10,
@@ -58,8 +58,8 @@
     {
       "minuto": 14,
       "jugador": "MORENO LOPEZ, JIMENA",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     },
     {
       "minuto": 18,
@@ -76,14 +76,14 @@
     {
       "minuto": 24,
       "jugador": "CARRILLO MARTINEZ, ANGELA",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     },
     {
       "minuto": 25,
       "jugador": "CARRILLO MARTINEZ, ANGELA",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     },
     {
       "minuto": 27,
@@ -422,5 +422,6 @@
     "SOLIS TOUILAB, ZAHIRA",
     "SELECCIÓN MELILLENSE :",
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
