@@ -112,21 +112,11 @@
   ],
   "convocados_sin_jugar_local": [
     "SANTIAGO SOLETO, MARKEL",
-    "DE SOUSA FERNANDEZ, JON",
-    "DIARRA SOUMANO, TIEMOKO",
-    "ARCHI BEZIOUI, RAYAN",
-    "SAEZ RUBINA, URKO",
-    "GARCIA CASTRO, HUGO",
-    "GARBAYO MAULEON, HUGO"
+    "SAEZ RUBINA, URKO"
   ],
   "convocados_sin_jugar_visitante": [
     "PRADERA RODRIGUEZ, UNAX",
-    "GOMEZ MURILLO, MIKEL",
-    "GARMENDIA BERZAL, MARKEL",
-    "IRIONDO LETURIA, EKHI",
-    "VAZQUEZ LLONA, AIMAR",
-    "LOPEZ LOPEZ, UNAI",
-    "UNANUE ARMENDARIZ, ANER"
+    "GARMENDIA BERZAL, MARKEL"
   ],
   "jugadores_local": [
     "MAYE EBO, LEUDIS",
@@ -139,7 +129,12 @@
     "BARREÑA SAEZ DE CAMARA, ASIER",
     "CASTAÑO ORTIZ DE URBINA, UNAX",
     "FRANCES VAZQUEZ, ARGOITZ",
-    "MARTINEZ CALDERON, OSCAR"
+    "MARTINEZ CALDERON, OSCAR",
+    "DE SOUSA FERNANDEZ, JON",
+    "GARCIA CASTRO, HUGO",
+    "GARBAYO MAULEON, HUGO",
+    "ARCHI BEZIOUI, RAYAN",
+    "DIARRA SOUMANO, TIEMOKO"
   ],
   "jugadores_visitante": [
     "AGUILERA GARCÍA, NICO",
@@ -152,33 +147,100 @@
     "SUKIA YABEN, ETXAHUN",
     "HIERRO ALDAZABAL, ANDER",
     "CRESPO SANCHEZ, HUGO",
-    "PINTOS VAZQUEZ, JUAN"
+    "PINTOS VAZQUEZ, JUAN",
+    "LOPEZ LOPEZ, UNAI",
+    "VAZQUEZ LLONA, AIMAR",
+    "GOMEZ MURILLO, MIKEL",
+    "UNANUE ARMENDARIZ, ANER",
+    "IRIONDO LETURIA, EKHI"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "DE SOUSA FERNANDEZ, JON",
+      "sale": "BENAISSA AGBALOU, HAYTAM"
+    },
+    {
+      "min": 58,
+      "entra": "GARCIA CASTRO, HUGO",
+      "sale": "BRAHIM BEZEID, MOHAMED"
+    },
+    {
+      "min": 73,
+      "entra": "GARBAYO MAULEON, HUGO",
+      "sale": "BARREÑA SAEZ DE CAMARA, ASIER"
+    },
+    {
+      "min": 83,
+      "entra": "ARCHI BEZIOUI, RAYAN",
+      "sale": "ORAA ORTIZ DE MENDIBIL, MARKEL"
+    },
+    {
+      "min": 83,
+      "entra": "DIARRA SOUMANO, TIEMOKO",
+      "sale": "MARTINEZ CALDERON, OSCAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "LOPEZ LOPEZ, UNAI",
+      "sale": "SUKIA YABEN, ETXAHUN"
+    },
+    {
+      "min": 60,
+      "entra": "VAZQUEZ LLONA, AIMAR",
+      "sale": "IRISARRI ALAMINO, EKHI"
+    },
+    {
+      "min": 60,
+      "entra": "GOMEZ MURILLO, MIKEL",
+      "sale": "ITURRI BENGOECHEA, JON"
+    },
+    {
+      "min": 73,
+      "entra": "UNANUE ARMENDARIZ, ANER",
+      "sale": "ONDO ELA, DALMACIO"
+    },
+    {
+      "min": 86,
+      "entra": "IRIONDO LETURIA, EKHI",
+      "sale": "PINTOS VAZQUEZ, JUAN"
+    }
+  ],
   "minutos_jugadores": {
     "MAYE EBO, LEUDIS": 90,
     "BOYANO DELGADO, ALAIN": 90,
     "ECHEVARRIA MENDOZA, ANTTON": 90,
-    "ORAA ORTIZ DE MENDIBIL, MARKEL": 90,
+    "ORAA ORTIZ DE MENDIBIL, MARKEL": 83,
     "GRAJALES BEIZTEGUI, OIER": 90,
-    "BRAHIM BEZEID, MOHAMED": 90,
-    "BENAISSA AGBALOU, HAYTAM": 90,
-    "BARREÑA SAEZ DE CAMARA, ASIER": 90,
+    "BRAHIM BEZEID, MOHAMED": 58,
+    "BENAISSA AGBALOU, HAYTAM": 58,
+    "BARREÑA SAEZ DE CAMARA, ASIER": 73,
     "CASTAÑO ORTIZ DE URBINA, UNAX": 90,
     "FRANCES VAZQUEZ, ARGOITZ": 90,
-    "MARTINEZ CALDERON, OSCAR": 90,
+    "MARTINEZ CALDERON, OSCAR": 83,
     "AGUILERA GARCÍA, NICO": 90,
-    "IRISARRI ALAMINO, EKHI": 90,
+    "IRISARRI ALAMINO, EKHI": 60,
     "NAVARRO GUTIERREZ, MARCOS": 90,
-    "ITURRI BENGOECHEA, JON": 90,
+    "ITURRI BENGOECHEA, JON": 60,
     "ABRALDES AZKORBEBEITIA, ANARTZ": 90,
     "VILLENA ARANDIA, OROITZ": 90,
-    "ONDO ELA, DALMACIO": 90,
-    "SUKIA YABEN, ETXAHUN": 90,
+    "ONDO ELA, DALMACIO": 73,
+    "SUKIA YABEN, ETXAHUN": 46,
     "HIERRO ALDAZABAL, ANDER": 90,
     "CRESPO SANCHEZ, HUGO": 90,
-    "PINTOS VAZQUEZ, JUAN": 90
+    "PINTOS VAZQUEZ, JUAN": 86,
+    "DE SOUSA FERNANDEZ, JON": 32,
+    "GARCIA CASTRO, HUGO": 32,
+    "GARBAYO MAULEON, HUGO": 17,
+    "ARCHI BEZIOUI, RAYAN": 7,
+    "DIARRA SOUMANO, TIEMOKO": 7,
+    "LOPEZ LOPEZ, UNAI": 44,
+    "VAZQUEZ LLONA, AIMAR": 30,
+    "GOMEZ MURILLO, MIKEL": 30,
+    "UNANUE ARMENDARIZ, ANER": 17,
+    "IRIONDO LETURIA, EKHI": 4
   },
   "portero_local": "MAYE EBO, LEUDIS",
   "portero_visitante": "AGUILERA GARCÍA, NICO",
@@ -208,6 +270,5 @@
     "CRESPO SANCHEZ, HUGO": 18,
     "PINTOS VAZQUEZ, JUAN": 21
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
