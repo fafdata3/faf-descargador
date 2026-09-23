@@ -50,7 +50,7 @@
     {
       "minuto": 77,
       "jugador": "FERNANDEZ GATON, PELAYO",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     },
     {
@@ -158,21 +158,11 @@
   ],
   "convocados_sin_jugar_local": [
     "LODEIRO GARCIA, HUGO",
-    "LOPEZ DIAZ, PELAYO",
-    "ALVAREZ MARQUÉS, MATEO",
-    "ARIAS CANO, SAUL",
-    "FERNANDEZ GATON, PELAYO",
-    "LARA EIRIN, DANIEL",
-    "RODRIGUEZ DIAZ, LEONARDO"
+    "ALVAREZ MARQUÉS, MATEO"
   ],
   "convocados_sin_jugar_visitante": [
     "MERA SOUTO, IAGO",
-    "CONDE CASTRO, BRUNO",
-    "RODRIGUEZ DOVAL, RICARDO",
-    "DIEGUEZ GUERRA, XIAN",
-    "BLANCO NEIRA, MANUEL",
-    "SOTO RIVAS, MARCOS",
-    "BALDOMERO CASTROMAN, BRAIS"
+    "RODRIGUEZ DOVAL, RICARDO"
   ],
   "jugadores_local": [
     "ALVAREZ MESA, HUGO",
@@ -185,7 +175,12 @@
     "GONZALEZ FERNANDEZ, MARIO",
     "MENENDEZ GARCIA, LUCAS",
     "MENES HEVIA, IVAN",
-    "PEREZ MIRANDA, LEO"
+    "PEREZ MIRANDA, LEO",
+    "FERNANDEZ GATON, PELAYO",
+    "LARA EIRIN, DANIEL",
+    "RODRIGUEZ DIAZ, LEONARDO",
+    "LOPEZ DIAZ, PELAYO",
+    "ARIAS CANO, SAUL"
   ],
   "jugadores_visitante": [
     "ALONSO LOUREIRO, PABLO",
@@ -198,33 +193,100 @@
     "LONGA GIL, ROI",
     "ARROJO GANTES, HUGO",
     "VAZQUEZ PIÑEIRO, OSCAR",
-    "VAZQUEZ LOPEZ, MATEO"
+    "VAZQUEZ LOPEZ, MATEO",
+    "BALDOMERO CASTROMAN, BRAIS",
+    "BLANCO NEIRA, MANUEL",
+    "DIEGUEZ GUERRA, XIAN",
+    "CONDE CASTRO, BRUNO",
+    "SOTO RIVAS, MARCOS"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "FERNANDEZ GATON, PELAYO",
+      "sale": "RODRIGUEZ CABRERA, ASUR"
+    },
+    {
+      "min": 60,
+      "entra": "LARA EIRIN, DANIEL",
+      "sale": "ABRIL ARGUELLES, ALVARO"
+    },
+    {
+      "min": 72,
+      "entra": "RODRIGUEZ DIAZ, LEONARDO",
+      "sale": "ESPAÑA RODRIGUEZ, ALVARO"
+    },
+    {
+      "min": 72,
+      "entra": "LOPEZ DIAZ, PELAYO",
+      "sale": "PEREZ MIRANDA, LEO"
+    },
+    {
+      "min": 72,
+      "entra": "ARIAS CANO, SAUL",
+      "sale": "GONZALEZ FERNANDEZ, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "BALDOMERO CASTROMAN, BRAIS",
+      "sale": "ANTONETTI LOPEZ, IGNACIO"
+    },
+    {
+      "min": 46,
+      "entra": "BLANCO NEIRA, MANUEL",
+      "sale": "MOSCOSO CATOIRA, MARCOS"
+    },
+    {
+      "min": 46,
+      "entra": "DIEGUEZ GUERRA, XIAN",
+      "sale": "LONGA GIL, ROI"
+    },
+    {
+      "min": 46,
+      "entra": "CONDE CASTRO, BRUNO",
+      "sale": "MARTINEZ LEMA, MANUEL"
+    },
+    {
+      "min": 76,
+      "entra": "SOTO RIVAS, MARCOS",
+      "sale": "ARROJO GANTES, HUGO"
+    }
+  ],
   "minutos_jugadores": {
     "ALVAREZ MESA, HUGO": 90,
     "ARRIBAS GARCIA, ARTURO": 90,
-    "ESPAÑA RODRIGUEZ, ALVARO": 90,
+    "ESPAÑA RODRIGUEZ, ALVARO": 72,
     "TORRON ROCES, ALVARO": 90,
-    "ABRIL ARGUELLES, ALVARO": 90,
-    "RODRIGUEZ CABRERA, ASUR": 90,
+    "ABRIL ARGUELLES, ALVARO": 60,
+    "RODRIGUEZ CABRERA, ASUR": 60,
     "MADERA FERNANDEZ, PABLO": 90,
-    "GONZALEZ FERNANDEZ, MARIO": 90,
+    "GONZALEZ FERNANDEZ, MARIO": 72,
     "MENENDEZ GARCIA, LUCAS": 90,
     "MENES HEVIA, IVAN": 90,
-    "PEREZ MIRANDA, LEO": 90,
+    "PEREZ MIRANDA, LEO": 72,
     "ALONSO LOUREIRO, PABLO": 90,
     "SAA LIRES, MARTIÑO": 90,
-    "MARTINEZ LEMA, MANUEL": 90,
-    "MOSCOSO CATOIRA, MARCOS": 90,
+    "MARTINEZ LEMA, MANUEL": 46,
+    "MOSCOSO CATOIRA, MARCOS": 46,
     "DEVESA DOMINGUEZ, ROI": 90,
-    "ANTONETTI LOPEZ, IGNACIO": 90,
+    "ANTONETTI LOPEZ, IGNACIO": 46,
     "GONZALEZ VALENCIA, MARCOS": 90,
-    "LONGA GIL, ROI": 90,
-    "ARROJO GANTES, HUGO": 90,
+    "LONGA GIL, ROI": 46,
+    "ARROJO GANTES, HUGO": 76,
     "VAZQUEZ PIÑEIRO, OSCAR": 90,
-    "VAZQUEZ LOPEZ, MATEO": 90
+    "VAZQUEZ LOPEZ, MATEO": 90,
+    "FERNANDEZ GATON, PELAYO": 30,
+    "LARA EIRIN, DANIEL": 30,
+    "RODRIGUEZ DIAZ, LEONARDO": 18,
+    "LOPEZ DIAZ, PELAYO": 18,
+    "ARIAS CANO, SAUL": 18,
+    "BALDOMERO CASTROMAN, BRAIS": 44,
+    "BLANCO NEIRA, MANUEL": 44,
+    "DIEGUEZ GUERRA, XIAN": 44,
+    "CONDE CASTRO, BRUNO": 44,
+    "SOTO RIVAS, MARCOS": 14
   },
   "portero_local": "ALVAREZ MESA, HUGO",
   "portero_visitante": "ALONSO LOUREIRO, PABLO",
@@ -254,6 +316,5 @@
     "VAZQUEZ PIÑEIRO, OSCAR": 10,
     "VAZQUEZ LOPEZ, MATEO": 11
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
