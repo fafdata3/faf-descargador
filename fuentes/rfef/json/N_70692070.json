@@ -9,7 +9,7 @@
   "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Alevin Masculino (GRUPO C)",
   "equipo_local": null,
   "equipo_visitante": null,
-  "goles_local": 0,
+  "goles_local": 1,
   "goles_visitante": 2,
   "resultado": "L",
   "arbitros": [
@@ -29,7 +29,7 @@
       "minuto": 18,
       "jugador": "PEREZ RODRIGUEZ, ALBERTO",
       "equipo": "?",
-      "propia": false
+      "propia": true
     },
     {
       "minuto": 19,
@@ -72,5 +72,6 @@
   "sustituciones_local": [],
   "sustituciones_visitante": [],
   "minutos_jugadores": {},
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
