@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Cadete Masculino (GRUPO C)",
   "equipo_local": "SELECCIÓN MELILLENSE",
   "equipo_visitante": "SELECCION REGIÓN DE MURCIA",
-  "goles_local": 2,
-  "goles_visitante": 3,
-  "resultado": "L",
+  "goles_local": 4,
+  "goles_visitante": 4,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "PINEDA ALONSO, CRISTIAN",
@@ -70,8 +70,8 @@
     {
       "minuto": 33,
       "jugador": "GARCIA HARO, GERMAN",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     }
   ],
   "tarjetas": [
@@ -220,5 +220,6 @@
     "MOLINA PEREZ, ALEJANDRO": 8,
     "CASTILLO LUKAVETSKII, IVÁN": 10
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
