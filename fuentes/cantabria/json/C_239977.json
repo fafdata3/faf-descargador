@@ -1,0 +1,244 @@
+{
+  "acta_id": "C_239977",
+  "filename": "Acta_C_239977.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "19-09-2026",
+  "hora": "19:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "CASTRO F.C. A",
+  "equipo_visitante": "C.D. TROPEZON A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "NUÑEZ RUIZ, ABRAHAM"
+  ],
+  "estadio": "Mioño Estacion",
+  "ciudad": "Castro-Urdiales",
+  "goleadores": [
+    {
+      "minuto": 56,
+      "jugador": "SAIZ FERNANDEZ, MATEO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "REBANAL RIVERO, ALBERTO",
+      "equipo": "visitante",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 11,
+      "jugador": "DOMINGUEZ RODRIGUEZ, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 11,
+      "jugador": "C.D. TROPEZON A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PONTES LOIDI, AITOR",
+  "entrenador_visitante": "DEL CASTILLO RUIZ, FRANCISCO JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ZULUAGA QUICENO, PABLO ANDRES",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ZULUAGA QUICENO, PABLO ANDRES",
+  "delegado_equipo_visitante": "SANTANA ATIENZA, MIGUEL ANGEL",
+  "titulares_local": [
+    "IZQUIERDO ORTEGA, ANGEL",
+    "DOMINGUEZ RODRIGUEZ, LUCAS",
+    "GONZALEZ MARTA, ARKAITZ",
+    "CASTILLO VERDE, JULEN",
+    "PATIN DE BRITO, UNAX",
+    "MONTERO JIMENEZ, EDER",
+    "DIAZ HERNANDEZ, ROKE",
+    "PEREZ SMAJEK, DANIEL",
+    "GUTIERREZ COCA, ANDER",
+    "DEL VAL GOMEZ, ALEX",
+    "SANTA CECILIA VIVANCO, VICTOR"
+  ],
+  "titulares_visitante": [
+    "ABASCAL RUIZ, UNAI",
+    "MARTINEZ CALDERON, JAVIER",
+    "HOLANDA PELAYO, BELTRAN",
+    "REBANAL RIVERO, ALBERTO",
+    "MIER BARQUIN, ALVARO",
+    "GUTIERREZ TORRE, MATEO",
+    "GARCIA AMELIBIA, EMILIO",
+    "SAINZ PARDO PELAYO, JOSE LUIS",
+    "PATIÑO OREJUELA, DAVID",
+    "FERNANDEZ OSMA, ANGEL",
+    "SEDANO GOMEZ, MARTIN"
+  ],
+  "suplentes_local": [
+    "AROZAMENA SAN CRISTOBAL, LUCAS",
+    "PRADO MARTINEZ, ADRIAN",
+    "RIVAS DIEGUEZ, XABIER",
+    "HERNANDO ELOLA, IBAI",
+    "LAZA ASENSIO, ENEKO"
+  ],
+  "suplentes_visitante": [
+    "OBREGON FERNANDEZ, MATEO",
+    "BARCELO ZUNZUNEGUI, MARCO",
+    "SAIZ FERNANDEZ, MATEO",
+    "NATIJ NOUKHAILI, YOUSSEF",
+    "SAINZ MARTINEZ, MARCOS"
+  ],
+  "convocados_sin_jugar_local": [
+    "AROZAMENA SAN CRISTOBAL, LUCAS"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "OBREGON FERNANDEZ, MATEO"
+  ],
+  "jugadores_local": [
+    "IZQUIERDO ORTEGA, ANGEL",
+    "DOMINGUEZ RODRIGUEZ, LUCAS",
+    "GONZALEZ MARTA, ARKAITZ",
+    "CASTILLO VERDE, JULEN",
+    "PATIN DE BRITO, UNAX",
+    "MONTERO JIMENEZ, EDER",
+    "DIAZ HERNANDEZ, ROKE",
+    "PEREZ SMAJEK, DANIEL",
+    "GUTIERREZ COCA, ANDER",
+    "DEL VAL GOMEZ, ALEX",
+    "SANTA CECILIA VIVANCO, VICTOR",
+    "PRADO MARTINEZ, ADRIAN",
+    "RIVAS DIEGUEZ, XABIER",
+    "LAZA ASENSIO, ENEKO",
+    "HERNANDO ELOLA, IBAI"
+  ],
+  "jugadores_visitante": [
+    "ABASCAL RUIZ, UNAI",
+    "MARTINEZ CALDERON, JAVIER",
+    "HOLANDA PELAYO, BELTRAN",
+    "REBANAL RIVERO, ALBERTO",
+    "MIER BARQUIN, ALVARO",
+    "GUTIERREZ TORRE, MATEO",
+    "GARCIA AMELIBIA, EMILIO",
+    "SAINZ PARDO PELAYO, JOSE LUIS",
+    "PATIÑO OREJUELA, DAVID",
+    "FERNANDEZ OSMA, ANGEL",
+    "SEDANO GOMEZ, MARTIN",
+    "SAIZ FERNANDEZ, MATEO",
+    "SAINZ MARTINEZ, MARCOS",
+    "BARCELO ZUNZUNEGUI, MARCO",
+    "NATIJ NOUKHAILI, YOUSSEF"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "PRADO MARTINEZ, ADRIAN",
+      "sale": "SANTA CECILIA VIVANCO, VICTOR"
+    },
+    {
+      "min": 51,
+      "entra": "RIVAS DIEGUEZ, XABIER",
+      "sale": "GONZALEZ MARTA, ARKAITZ"
+    },
+    {
+      "min": 65,
+      "entra": "LAZA ASENSIO, ENEKO",
+      "sale": "DEL VAL GOMEZ, ALEX"
+    },
+    {
+      "min": 65,
+      "entra": "HERNANDO ELOLA, IBAI",
+      "sale": "CASTILLO VERDE, JULEN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "SAIZ FERNANDEZ, MATEO",
+      "sale": "GARCIA AMELIBIA, EMILIO"
+    },
+    {
+      "min": 50,
+      "entra": "SAINZ MARTINEZ, MARCOS",
+      "sale": "HOLANDA PELAYO, BELTRAN"
+    },
+    {
+      "min": 59,
+      "entra": "BARCELO ZUNZUNEGUI, MARCO",
+      "sale": "PATIÑO OREJUELA, DAVID"
+    },
+    {
+      "min": 59,
+      "entra": "NATIJ NOUKHAILI, YOUSSEF",
+      "sale": "SEDANO GOMEZ, MARTIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "IZQUIERDO ORTEGA, ANGEL": 90,
+    "DOMINGUEZ RODRIGUEZ, LUCAS": 90,
+    "GONZALEZ MARTA, ARKAITZ": 51,
+    "CASTILLO VERDE, JULEN": 65,
+    "PATIN DE BRITO, UNAX": 90,
+    "MONTERO JIMENEZ, EDER": 90,
+    "DIAZ HERNANDEZ, ROKE": 90,
+    "PEREZ SMAJEK, DANIEL": 90,
+    "GUTIERREZ COCA, ANDER": 90,
+    "DEL VAL GOMEZ, ALEX": 65,
+    "SANTA CECILIA VIVANCO, VICTOR": 51,
+    "PRADO MARTINEZ, ADRIAN": 39,
+    "RIVAS DIEGUEZ, XABIER": 39,
+    "LAZA ASENSIO, ENEKO": 25,
+    "HERNANDO ELOLA, IBAI": 25,
+    "ABASCAL RUIZ, UNAI": 90,
+    "MARTINEZ CALDERON, JAVIER": 90,
+    "HOLANDA PELAYO, BELTRAN": 50,
+    "REBANAL RIVERO, ALBERTO": 90,
+    "MIER BARQUIN, ALVARO": 90,
+    "GUTIERREZ TORRE, MATEO": 90,
+    "GARCIA AMELIBIA, EMILIO": 50,
+    "SAINZ PARDO PELAYO, JOSE LUIS": 90,
+    "PATIÑO OREJUELA, DAVID": 59,
+    "FERNANDEZ OSMA, ANGEL": 90,
+    "SEDANO GOMEZ, MARTIN": 59,
+    "SAIZ FERNANDEZ, MATEO": 40,
+    "SAINZ MARTINEZ, MARCOS": 40,
+    "BARCELO ZUNZUNEGUI, MARCO": 31,
+    "NATIJ NOUKHAILI, YOUSSEF": 31
+  },
+  "portero_local": "IZQUIERDO ORTEGA, ANGEL",
+  "portero_visitante": "ABASCAL RUIZ, UNAI",
+  "dorsales_local": {
+    "IZQUIERDO ORTEGA, ANGEL": 13,
+    "DOMINGUEZ RODRIGUEZ, LUCAS": 4,
+    "GONZALEZ MARTA, ARKAITZ": 5,
+    "CASTILLO VERDE, JULEN": 6,
+    "PATIN DE BRITO, UNAX": 7,
+    "MONTERO JIMENEZ, EDER": 8,
+    "DIAZ HERNANDEZ, ROKE": 10,
+    "PEREZ SMAJEK, DANIEL": 11,
+    "GUTIERREZ COCA, ANDER": 14,
+    "DEL VAL GOMEZ, ALEX": 17,
+    "SANTA CECILIA VIVANCO, VICTOR": 21
+  },
+  "dorsales_visitante": {
+    "ABASCAL RUIZ, UNAI": 1,
+    "MARTINEZ CALDERON, JAVIER": 3,
+    "HOLANDA PELAYO, BELTRAN": 5,
+    "REBANAL RIVERO, ALBERTO": 7,
+    "MIER BARQUIN, ALVARO": 8,
+    "GUTIERREZ TORRE, MATEO": 9,
+    "GARCIA AMELIBIA, EMILIO": 14,
+    "SAINZ PARDO PELAYO, JOSE LUIS": 15,
+    "PATIÑO OREJUELA, DAVID": 17,
+    "FERNANDEZ OSMA, ANGEL": 18,
+    "SEDANO GOMEZ, MARTIN": 22
+  },
+  "suspendidos": []
+}
