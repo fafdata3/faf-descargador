@@ -121,21 +121,12 @@
   ],
   "convocados_sin_jugar_local": [
     "PEREZ DEL CAMPO, ADRIAN",
-    "CHOKRAFI ELAYAT, OUALID",
-    "NAOUSSI SANCHEZ, ALEJANDRO TAMO",
     "SÁNCHEZ MARTÍN, ADRIÁN",
-    "GOMEZ CLAVERO, RAUL",
-    "GOMEZ MARTIN, PABLO",
     "CORRALES GUZMAN, ALEJANDRO"
   ],
   "convocados_sin_jugar_visitante": [
     "SAINZ CUEVAS, URKO",
-    "FUENTES NACHIONDO, AXULAR",
-    "ZUBIAGA BRIGOLE, OIHAN",
-    "ASPIUNZA BARRENETXEA, AIMAR",
-    "VILLA LOPEZ, UNAX",
-    "PUMAREJO GUTIERREZ, PAUL",
-    "ARAMBURU LOYARTE, BEÑAT"
+    "PUMAREJO GUTIERREZ, PAUL"
   ],
   "jugadores_local": [
     "BARRIO QUINTERO, VICTOR",
@@ -148,7 +139,11 @@
     "VIÑUELA SACRISTAN, AITOR",
     "SANCHEZ GALA, PABLO",
     "MARTIN POBLACION, PABLO",
-    "RAMOS GOMEZ, HECTOR"
+    "RAMOS GOMEZ, HECTOR",
+    "CHOKRAFI ELAYAT, OUALID",
+    "NAOUSSI SANCHEZ, ALEJANDRO TAMO",
+    "GOMEZ CLAVERO, RAUL",
+    "GOMEZ MARTIN, PABLO"
   ],
   "jugadores_visitante": [
     "OTAEGI KRUTXAGA, GAIZKA",
@@ -161,10 +156,62 @@
     "AGUIRRE GIES, OSCAR",
     "SARR FAYE, CHEIKH OUMAR",
     "ECHEVERRIA ARQUERO, JOANNES",
-    "CISSE, YANN ISMAEL"
+    "CISSE, YANN ISMAEL",
+    "VILLA LOPEZ, UNAX",
+    "ASPIUNZA BARRENETXEA, AIMAR",
+    "ARAMBURU LOYARTE, BEÑAT",
+    "FUENTES NACHIONDO, AXULAR",
+    "ZUBIAGA BRIGOLE, OIHAN"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 63,
+      "entra": "CHOKRAFI ELAYAT, OUALID",
+      "sale": "MARTIN POBLACION, PABLO"
+    },
+    {
+      "min": 63,
+      "entra": "NAOUSSI SANCHEZ, ALEJANDRO TAMO",
+      "sale": "VIÑUELA SACRISTAN, AITOR"
+    },
+    {
+      "min": 78,
+      "entra": "GOMEZ CLAVERO, RAUL",
+      "sale": "SANCHEZ GALA, PABLO"
+    },
+    {
+      "min": 88,
+      "entra": "GOMEZ MARTIN, PABLO",
+      "sale": "GONZALEZ GOMEZ, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "VILLA LOPEZ, UNAX",
+      "sale": "SARR FAYE, CHEIKH OUMAR"
+    },
+    {
+      "min": 58,
+      "entra": "ASPIUNZA BARRENETXEA, AIMAR",
+      "sale": "AGUIRRE GIES, OSCAR"
+    },
+    {
+      "min": 58,
+      "entra": "ARAMBURU LOYARTE, BEÑAT",
+      "sale": "CISSE, YANN ISMAEL"
+    },
+    {
+      "min": 58,
+      "entra": "FUENTES NACHIONDO, AXULAR",
+      "sale": "VILLASANTE BARANDA, ADRIAN"
+    },
+    {
+      "min": 58,
+      "entra": "ZUBIAGA BRIGOLE, OIHAN",
+      "sale": "ZABALA SARASOLA, JAVIER"
+    }
+  ],
   "minutos_jugadores": {
     "BARRIO QUINTERO, VICTOR": 90,
     "RUIZ RANGEL, ALVARO": 90,
@@ -172,22 +219,31 @@
     "MARTIN GARCIA, OSCAR": 90,
     "CASADO SASTRE, IVÁN": 90,
     "FERNANDEZ CABANES, GINES JAVIER": 90,
-    "GONZALEZ GOMEZ, MARIO": 90,
-    "VIÑUELA SACRISTAN, AITOR": 90,
-    "SANCHEZ GALA, PABLO": 90,
-    "MARTIN POBLACION, PABLO": 90,
+    "GONZALEZ GOMEZ, MARIO": 88,
+    "VIÑUELA SACRISTAN, AITOR": 63,
+    "SANCHEZ GALA, PABLO": 78,
+    "MARTIN POBLACION, PABLO": 63,
     "RAMOS GOMEZ, HECTOR": 90,
     "OTAEGI KRUTXAGA, GAIZKA": 90,
     "ARRIAGA MORENO, TELMO": 90,
-    "VILLASANTE BARANDA, ADRIAN": 90,
-    "ZABALA SARASOLA, JAVIER": 90,
+    "VILLASANTE BARANDA, ADRIAN": 58,
+    "ZABALA SARASOLA, JAVIER": 58,
     "REGULEZ VENTURA, JAVIER": 90,
     "MARIN GARCIA, RUBEN": 90,
     "SANTAMARIA LOROÑO, ENEKO": 90,
-    "AGUIRRE GIES, OSCAR": 90,
-    "SARR FAYE, CHEIKH OUMAR": 90,
+    "AGUIRRE GIES, OSCAR": 58,
+    "SARR FAYE, CHEIKH OUMAR": 58,
     "ECHEVERRIA ARQUERO, JOANNES": 90,
-    "CISSE, YANN ISMAEL": 90
+    "CISSE, YANN ISMAEL": 58,
+    "CHOKRAFI ELAYAT, OUALID": 27,
+    "NAOUSSI SANCHEZ, ALEJANDRO TAMO": 27,
+    "GOMEZ CLAVERO, RAUL": 12,
+    "GOMEZ MARTIN, PABLO": 2,
+    "VILLA LOPEZ, UNAX": 32,
+    "ASPIUNZA BARRENETXEA, AIMAR": 32,
+    "ARAMBURU LOYARTE, BEÑAT": 32,
+    "FUENTES NACHIONDO, AXULAR": 32,
+    "ZUBIAGA BRIGOLE, OIHAN": 32
   },
   "portero_local": "BARRIO QUINTERO, VICTOR",
   "portero_visitante": "OTAEGI KRUTXAGA, GAIZKA",
