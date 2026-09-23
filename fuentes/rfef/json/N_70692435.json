@@ -140,21 +140,11 @@
   ],
   "convocados_sin_jugar_local": [
     "DEL PICO PEREZ, ARITZ",
-    "DAVALILLO MARTIN, XABIER",
-    "CHACON EGUILUZ, JOEL",
-    "CASTAÑOS PEREZ DEL NOTARIO, DAVID",
-    "HERRERO ZUGALDIA, IVAN CESAR",
-    "NIETCHO NTEGMI, AINGERU TEODORO",
     "LOAIZA CUESTA, KEVIN"
   ],
   "convocados_sin_jugar_visitante": [
     "ESTEBAN SAN ROMAN, ANGEL",
-    "REGO MORA, DIEGO",
-    "CABALLERO TENA, DIEGO",
-    "MARTIN BARTOLOME, GORKA",
-    "CONTRERAS MUÑOZ, LUKEN",
-    "SIMON PAREDES, IGNACIO",
-    "IRAZABAL VADILLO, LINO"
+    "CONTRERAS MUÑOZ, LUKEN"
   ],
   "jugadores_local": [
     "ARROYO CASTILLO, MARKEL",
@@ -167,7 +157,12 @@
     "SANCHEZ DEL RIO, JON",
     "DIONISIO CASTRO, ARATZ",
     "ANGLADA PEREZ, IKER",
-    "BERMEJO LARRONDO, JON"
+    "BERMEJO LARRONDO, JON",
+    "CASTAÑOS PEREZ DEL NOTARIO, DAVID",
+    "NIETCHO NTEGMI, AINGERU TEODORO",
+    "HERRERO ZUGALDIA, IVAN CESAR",
+    "DAVALILLO MARTIN, XABIER",
+    "CHACON EGUILUZ, JOEL"
   ],
   "jugadores_visitante": [
     "ALONSO TORRECILLA, VICTOR",
@@ -180,33 +175,100 @@
     "DUQUE MICOLTA, URTZI",
     "ORTEGA HENALES, IBAI",
     "ASUMU ANGONO, SERGIO NDONG",
-    "LEON GARCIA, LUCAS"
+    "LEON GARCIA, LUCAS",
+    "REGO MORA, DIEGO",
+    "IRAZABAL VADILLO, LINO",
+    "CABALLERO TENA, DIEGO",
+    "SIMON PAREDES, IGNACIO",
+    "MARTIN BARTOLOME, GORKA"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "CASTAÑOS PEREZ DEL NOTARIO, DAVID",
+      "sale": "ANGLADA PEREZ, IKER"
+    },
+    {
+      "min": 54,
+      "entra": "NIETCHO NTEGMI, AINGERU TEODORO",
+      "sale": "PUIG RODRIGUEZ, XABIER"
+    },
+    {
+      "min": 66,
+      "entra": "HERRERO ZUGALDIA, IVAN CESAR",
+      "sale": "BERMEJO LARRONDO, JON"
+    },
+    {
+      "min": 66,
+      "entra": "DAVALILLO MARTIN, XABIER",
+      "sale": "CRUZ ESTEBANEZ, MARCOS"
+    },
+    {
+      "min": 72,
+      "entra": "CHACON EGUILUZ, JOEL",
+      "sale": "SOLAETA GARAY, JUAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 65,
+      "entra": "REGO MORA, DIEGO",
+      "sale": "ORTEGA HENALES, IBAI"
+    },
+    {
+      "min": 65,
+      "entra": "IRAZABAL VADILLO, LINO",
+      "sale": "URRESTI RECIO, ALEX JHOVANNY"
+    },
+    {
+      "min": 79,
+      "entra": "CABALLERO TENA, DIEGO",
+      "sale": "GIRALDO AMAYA, SEBASTIAN"
+    },
+    {
+      "min": 79,
+      "entra": "SIMON PAREDES, IGNACIO",
+      "sale": "GARCIA FERNANDEZ, OIER"
+    },
+    {
+      "min": 79,
+      "entra": "MARTIN BARTOLOME, GORKA",
+      "sale": "LEON GARCIA, LUCAS"
+    }
+  ],
   "minutos_jugadores": {
     "ARROYO CASTILLO, MARKEL": 90,
-    "CRUZ ESTEBANEZ, MARCOS": 90,
-    "SOLAETA GARAY, JUAN": 90,
+    "CRUZ ESTEBANEZ, MARCOS": 66,
+    "SOLAETA GARAY, JUAN": 72,
     "ESKUBI HERVAS, IKER": 90,
-    "PUIG RODRIGUEZ, XABIER": 90,
+    "PUIG RODRIGUEZ, XABIER": 54,
     "GIL GALAN, UNAX": 90,
     "MOSULEN MARTIN, DAVID": 90,
     "SANCHEZ DEL RIO, JON": 90,
     "DIONISIO CASTRO, ARATZ": 90,
-    "ANGLADA PEREZ, IKER": 90,
-    "BERMEJO LARRONDO, JON": 90,
+    "ANGLADA PEREZ, IKER": 54,
+    "BERMEJO LARRONDO, JON": 66,
     "ALONSO TORRECILLA, VICTOR": 90,
     "QUIROGA FERNANDEZ, AIMAR": 90,
-    "GARCIA FERNANDEZ, OIER": 90,
-    "URRESTI RECIO, ALEX JHOVANNY": 90,
-    "GIRALDO AMAYA, SEBASTIAN": 90,
+    "GARCIA FERNANDEZ, OIER": 79,
+    "URRESTI RECIO, ALEX JHOVANNY": 65,
+    "GIRALDO AMAYA, SEBASTIAN": 79,
     "EGUIDAZU PINILLA, ASIER": 90,
     "PORTILLO RUBIN, XABIER": 90,
     "DUQUE MICOLTA, URTZI": 90,
-    "ORTEGA HENALES, IBAI": 90,
+    "ORTEGA HENALES, IBAI": 65,
     "ASUMU ANGONO, SERGIO NDONG": 90,
-    "LEON GARCIA, LUCAS": 90
+    "LEON GARCIA, LUCAS": 79,
+    "CASTAÑOS PEREZ DEL NOTARIO, DAVID": 36,
+    "NIETCHO NTEGMI, AINGERU TEODORO": 36,
+    "HERRERO ZUGALDIA, IVAN CESAR": 24,
+    "DAVALILLO MARTIN, XABIER": 24,
+    "CHACON EGUILUZ, JOEL": 18,
+    "REGO MORA, DIEGO": 25,
+    "IRAZABAL VADILLO, LINO": 25,
+    "CABALLERO TENA, DIEGO": 11,
+    "SIMON PAREDES, IGNACIO": 11,
+    "MARTIN BARTOLOME, GORKA": 11
   },
   "portero_local": "ARROYO CASTILLO, MARKEL",
   "portero_visitante": "ALONSO TORRECILLA, VICTOR",
@@ -236,6 +298,5 @@
     "ASUMU ANGONO, SERGIO NDONG": 23,
     "LEON GARCIA, LUCAS": 24
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
