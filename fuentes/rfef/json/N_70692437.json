@@ -38,7 +38,7 @@
     {
       "minuto": 81,
       "jugador": "IRIONDO LETURIA, EKHI",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     }
   ],
@@ -125,20 +125,11 @@
   ],
   "convocados_sin_jugar_local": [
     "PRADERA RODRIGUEZ, UNAX",
-    "GOMEZ MURILLO, MIKEL",
-    "GARMENDIA BERZAL, MARKEL",
-    "IRIONDO LETURIA, EKHI",
-    "ONDO ELA, DALMACIO",
-    "SUKIA YABEN, ETXAHUN",
-    "UNANUE ARMENDARIZ, ANER"
+    "ONDO ELA, DALMACIO"
   ],
   "convocados_sin_jugar_visitante": [
-    "FABIAN HERRAIZ, PABLO",
     "GARRIDO OLIVAN, ISMAEL",
-    "LEON MARZO, MATEO",
-    "RUIZ DA CRUZ, DAVID",
-    "VIZCAINO FERNANDEZ, FERRAN",
-    "GARCIA VILLAREAL, ADRIAN"
+    "RUIZ DA CRUZ, DAVID"
   ],
   "jugadores_local": [
     "AGUILERA GARCÍA, NICO",
@@ -151,7 +142,12 @@
     "HIERRO ALDAZABAL, ANDER",
     "CRESPO SANCHEZ, HUGO",
     "LOPEZ LOPEZ, UNAI",
-    "PINTOS VAZQUEZ, JUAN"
+    "PINTOS VAZQUEZ, JUAN",
+    "GARMENDIA BERZAL, MARKEL",
+    "GOMEZ MURILLO, MIKEL",
+    "SUKIA YABEN, ETXAHUN",
+    "IRIONDO LETURIA, EKHI",
+    "UNANUE ARMENDARIZ, ANER"
   ],
   "jugadores_visitante": [
     "GUTIERREZ BLANCO, JOSE",
@@ -164,20 +160,71 @@
     "GARCIA CASTILLO, DANIEL",
     "DE MIGUEL LLORACH, ERIC",
     "FERNANDEZ NESTARES, SAUL",
-    "SAENZ FERNANDEZ, ALVARO"
+    "SAENZ FERNANDEZ, ALVARO",
+    "VIZCAINO FERNANDEZ, FERRAN",
+    "FABIAN HERRAIZ, PABLO",
+    "GARCIA VILLAREAL, ADRIAN",
+    "LEON MARZO, MATEO"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "GARMENDIA BERZAL, MARKEL",
+      "sale": "HIERRO ALDAZABAL, ANDER"
+    },
+    {
+      "min": 60,
+      "entra": "GOMEZ MURILLO, MIKEL",
+      "sale": "CRESPO SANCHEZ, HUGO"
+    },
+    {
+      "min": 60,
+      "entra": "SUKIA YABEN, ETXAHUN",
+      "sale": "VAZQUEZ LLONA, AIMAR"
+    },
+    {
+      "min": 74,
+      "entra": "IRIONDO LETURIA, EKHI",
+      "sale": "ITURRI BENGOECHEA, JON"
+    },
+    {
+      "min": 74,
+      "entra": "UNANUE ARMENDARIZ, ANER",
+      "sale": "ZUBIAGA ILARDUIA, OIHAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 9,
+      "entra": "VIZCAINO FERNANDEZ, FERRAN",
+      "sale": "MARIN NOGUERA, ALVARO"
+    },
+    {
+      "min": 46,
+      "entra": "FABIAN HERRAIZ, PABLO",
+      "sale": "DE MIGUEL LLORACH, ERIC"
+    },
+    {
+      "min": 67,
+      "entra": "GARCIA VILLAREAL, ADRIAN",
+      "sale": "GARCIA CASTILLO, DANIEL"
+    },
+    {
+      "min": 71,
+      "entra": "LEON MARZO, MATEO",
+      "sale": "VIZCAINO FERNANDEZ, FERRAN"
+    }
+  ],
   "minutos_jugadores": {
     "AGUILERA GARCÍA, NICO": 90,
     "NAVARRO GUTIERREZ, MARCOS": 90,
-    "ITURRI BENGOECHEA, JON": 90,
+    "ITURRI BENGOECHEA, JON": 74,
     "ABRALDES AZKORBEBEITIA, ANARTZ": 90,
     "VILLENA ARANDIA, OROITZ": 90,
-    "VAZQUEZ LLONA, AIMAR": 90,
-    "ZUBIAGA ILARDUIA, OIHAN": 90,
-    "HIERRO ALDAZABAL, ANDER": 90,
-    "CRESPO SANCHEZ, HUGO": 90,
+    "VAZQUEZ LLONA, AIMAR": 60,
+    "ZUBIAGA ILARDUIA, OIHAN": 74,
+    "HIERRO ALDAZABAL, ANDER": 46,
+    "CRESPO SANCHEZ, HUGO": 60,
     "LOPEZ LOPEZ, UNAI": 90,
     "PINTOS VAZQUEZ, JUAN": 90,
     "GUTIERREZ BLANCO, JOSE": 90,
@@ -186,11 +233,20 @@
     "ARRIAGA RUIZ E, MIKEL": 90,
     "RUIZ NAVARRO PABLO, SIMON": 90,
     "RIERA MERINO, MATEO": 90,
-    "MARIN NOGUERA, ALVARO": 90,
-    "GARCIA CASTILLO, DANIEL": 90,
-    "DE MIGUEL LLORACH, ERIC": 90,
+    "MARIN NOGUERA, ALVARO": 9,
+    "GARCIA CASTILLO, DANIEL": 67,
+    "DE MIGUEL LLORACH, ERIC": 46,
     "FERNANDEZ NESTARES, SAUL": 90,
-    "SAENZ FERNANDEZ, ALVARO": 90
+    "SAENZ FERNANDEZ, ALVARO": 90,
+    "GARMENDIA BERZAL, MARKEL": 44,
+    "GOMEZ MURILLO, MIKEL": 30,
+    "SUKIA YABEN, ETXAHUN": 30,
+    "IRIONDO LETURIA, EKHI": 16,
+    "UNANUE ARMENDARIZ, ANER": 16,
+    "VIZCAINO FERNANDEZ, FERRAN": 71,
+    "FABIAN HERRAIZ, PABLO": 44,
+    "GARCIA VILLAREAL, ADRIAN": 23,
+    "LEON MARZO, MATEO": 19
   },
   "portero_local": "AGUILERA GARCÍA, NICO",
   "portero_visitante": "GUTIERREZ BLANCO, JOSE",
@@ -220,6 +276,5 @@
     "FERNANDEZ NESTARES, SAUL": 19,
     "SAENZ FERNANDEZ, ALVARO": 21
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
