@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Primera División de Futbol Playa Femenino (Primera División Nacional Femenina)",
   "equipo_local": "BARRIADA LA PLAYA C.D.",
   "equipo_visitante": "C.D. ATLETICO TORROXEÑO",
-  "goles_local": 5,
-  "goles_visitante": 3,
+  "goles_local": 9,
+  "goles_visitante": 1,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -28,8 +28,8 @@
     {
       "minuto": 11,
       "jugador": "MAS BORRAS, MARINA",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     },
     {
       "minuto": 13,
@@ -64,8 +64,8 @@
     {
       "minuto": 23,
       "jugador": "MAS BORRAS, MARINA",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     },
     {
       "minuto": 23,
@@ -179,5 +179,6 @@
     "DAMASCENO PINTO, GIULIA": 10,
     "LOPEZ MONTURIOL, MONICA": 17
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
