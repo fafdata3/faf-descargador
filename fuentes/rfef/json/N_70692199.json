@@ -119,21 +119,11 @@
   ],
   "convocados_sin_jugar_local": [
     "LOPEZ CASTIÑEIRA, LUCAS",
-    "BLANCO CALVO, RAMON",
-    "FERNANDEZ RODRIGUEZ, PAULO",
-    "DIEPA DIAZ, IKER",
-    "VEGA SANJUAS, JORGE",
-    "GARCIA VILLAR, DIEGO",
-    "TRIGO GRANDE, ELIAS"
+    "BLANCO CALVO, RAMON"
   ],
   "convocados_sin_jugar_visitante": [
     "DOMINGUEZ FREIRE, HUGO",
-    "AMBROSIO OBREGON, ENRIQUE MANUEL",
-    "RODRIGUEZ LEICEA, ANER",
-    "VIDIELLA GONZALEZ, MARCO",
-    "SANCHEZ MEDINA, MARCO",
-    "MIERA MARTINEZ, HUGO",
-    "SANCHEZ BILBAO, MIGUEL"
+    "AMBROSIO OBREGON, ENRIQUE MANUEL"
   ],
   "jugadores_local": [
     "LEIVA SEOANE, RODRIGO",
@@ -146,7 +136,12 @@
     "IGLESIAS VARELA, FRANK",
     "DE LABRA TUÑEZ, MIGUEL",
     "TRILLO CAAMAÑO, RUBEN",
-    "MARTÍNEZ MEJIA, DIEGO"
+    "MARTÍNEZ MEJIA, DIEGO",
+    "FERNANDEZ RODRIGUEZ, PAULO",
+    "DIEPA DIAZ, IKER",
+    "VEGA SANJUAS, JORGE",
+    "TRIGO GRANDE, ELIAS",
+    "GARCIA VILLAR, DIEGO"
   ],
   "jugadores_visitante": [
     "BRIZ ESTEBANEZ, ALBERTO",
@@ -159,33 +154,100 @@
     "PERALES RUIZ, MARIO",
     "URDIALES PEREZ, GABRIEL",
     "DIESTRO LANZA, RODRIGO",
-    "JIMENEZ NIÑO, DAVID"
+    "JIMENEZ NIÑO, DAVID",
+    "SANCHEZ MEDINA, MARCO",
+    "RODRIGUEZ LEICEA, ANER",
+    "MIERA MARTINEZ, HUGO",
+    "VIDIELLA GONZALEZ, MARCO",
+    "SANCHEZ BILBAO, MIGUEL"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 61,
+      "entra": "FERNANDEZ RODRIGUEZ, PAULO",
+      "sale": "MARTÍNEZ MEJIA, DIEGO"
+    },
+    {
+      "min": 61,
+      "entra": "DIEPA DIAZ, IKER",
+      "sale": "ORDIALES RAMOS, SABINO"
+    },
+    {
+      "min": 61,
+      "entra": "VEGA SANJUAS, JORGE",
+      "sale": "REGUEIRA CASTAÑO, ABEL"
+    },
+    {
+      "min": 75,
+      "entra": "TRIGO GRANDE, ELIAS",
+      "sale": "DE LABRA TUÑEZ, MIGUEL"
+    },
+    {
+      "min": 75,
+      "entra": "GARCIA VILLAR, DIEGO",
+      "sale": "TRILLO CAAMAÑO, RUBEN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "SANCHEZ MEDINA, MARCO",
+      "sale": "GOMEZ CUEVAS, RODRIGO"
+    },
+    {
+      "min": 45,
+      "entra": "RODRIGUEZ LEICEA, ANER",
+      "sale": "DE SANTIAGO BEZANILLA, GERMAN"
+    },
+    {
+      "min": 45,
+      "entra": "MIERA MARTINEZ, HUGO",
+      "sale": "VERDEJA ASTORECA, JORGE"
+    },
+    {
+      "min": 56,
+      "entra": "VIDIELLA GONZALEZ, MARCO",
+      "sale": "PERALES RUIZ, MARIO"
+    },
+    {
+      "min": 71,
+      "entra": "SANCHEZ BILBAO, MIGUEL",
+      "sale": "DIESTRO LANZA, RODRIGO"
+    }
+  ],
   "minutos_jugadores": {
     "LEIVA SEOANE, RODRIGO": 90,
     "PASTORIZA CARBAJALES, GUILLERMO": 90,
-    "ORDIALES RAMOS, SABINO": 90,
+    "ORDIALES RAMOS, SABINO": 61,
     "DE DIOS DEVESA, XOEL": 90,
     "FERNANDEZ SEOANE, IKER": 90,
-    "REGUEIRA CASTAÑO, ABEL": 90,
+    "REGUEIRA CASTAÑO, ABEL": 61,
     "ALTIERI DE LEON, LEANDRO": 90,
     "IGLESIAS VARELA, FRANK": 90,
-    "DE LABRA TUÑEZ, MIGUEL": 90,
-    "TRILLO CAAMAÑO, RUBEN": 90,
-    "MARTÍNEZ MEJIA, DIEGO": 90,
+    "DE LABRA TUÑEZ, MIGUEL": 75,
+    "TRILLO CAAMAÑO, RUBEN": 75,
+    "MARTÍNEZ MEJIA, DIEGO": 61,
     "BRIZ ESTEBANEZ, ALBERTO": 90,
-    "DE SANTIAGO BEZANILLA, GERMAN": 90,
+    "DE SANTIAGO BEZANILLA, GERMAN": 45,
     "ABAD BECERRA, ALEX": 90,
     "MOLINA PRADA, MARIO": 90,
     "FERREIRO ROBLES, DIEGO": 90,
-    "GOMEZ CUEVAS, RODRIGO": 90,
-    "VERDEJA ASTORECA, JORGE": 90,
-    "PERALES RUIZ, MARIO": 90,
+    "GOMEZ CUEVAS, RODRIGO": 45,
+    "VERDEJA ASTORECA, JORGE": 45,
+    "PERALES RUIZ, MARIO": 56,
     "URDIALES PEREZ, GABRIEL": 90,
-    "DIESTRO LANZA, RODRIGO": 90,
-    "JIMENEZ NIÑO, DAVID": 90
+    "DIESTRO LANZA, RODRIGO": 71,
+    "JIMENEZ NIÑO, DAVID": 90,
+    "FERNANDEZ RODRIGUEZ, PAULO": 29,
+    "DIEPA DIAZ, IKER": 29,
+    "VEGA SANJUAS, JORGE": 29,
+    "TRIGO GRANDE, ELIAS": 15,
+    "GARCIA VILLAR, DIEGO": 15,
+    "SANCHEZ MEDINA, MARCO": 45,
+    "RODRIGUEZ LEICEA, ANER": 45,
+    "MIERA MARTINEZ, HUGO": 45,
+    "VIDIELLA GONZALEZ, MARCO": 34,
+    "SANCHEZ BILBAO, MIGUEL": 19
   },
   "portero_local": "LEIVA SEOANE, RODRIGO",
   "portero_visitante": "BRIZ ESTEBANEZ, ALBERTO",
