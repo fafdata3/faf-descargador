@@ -119,20 +119,11 @@
   ],
   "convocados_sin_jugar_local": [
     "RODRIGUEZ AGUDO, HUGO",
-    "CALZADA ARMIJO, NICOLAS",
-    "DE MIGUEL SAN EMETERIO, LUIS",
-    "GARCIA DIAZ, JACINTO",
-    "ALMEIDA GAÑAN, DIEGO",
-    "PIÑAL HERRANZ, ALEJANDRO",
-    "MARTINEZ MURIEDAS, PABLO"
+    "PIÑAL HERRANZ, ALEJANDRO"
   ],
   "convocados_sin_jugar_visitante": [
     "TRABANCO DEL SOLO, OLAI",
-    "PAZ MIGUELEZ, ISMAEL",
-    "ALVAREZ RODRIGUEZ, JESUS",
-    "BAO GARCIA, ABEL",
-    "SAN MARTIN BENGOCHEA, DAVID",
-    "GONZALO TOYOS, BENJAMIN"
+    "BAO GARCIA, ABEL"
   ],
   "jugadores_local": [
     "SOTO RUIZ, ALVARO",
@@ -145,7 +136,12 @@
     "FERNANDEZ FERNANDEZ, HUGO",
     "LAVIN CHAVEZ, MARIO",
     "MENDOZA SETIEN, JORGE",
-    "ALONSO MATANZAS, DAMASO"
+    "ALONSO MATANZAS, DAMASO",
+    "ALMEIDA GAÑAN, DIEGO",
+    "GARCIA DIAZ, JACINTO",
+    "MARTINEZ MURIEDAS, PABLO",
+    "DE MIGUEL SAN EMETERIO, LUIS",
+    "CALZADA ARMIJO, NICOLAS"
   ],
   "jugadores_visitante": [
     "AGUIRRE ROZADA, RAUL",
@@ -158,10 +154,61 @@
     "LLANEZA GARCIA, ALVARO",
     "GARCIA GALLEGO, GORKA",
     "ALVAREZ DIAS, LUCAS",
-    "CLIMENT RODRIGUEZ, IKER"
+    "CLIMENT RODRIGUEZ, IKER",
+    "SAN MARTIN BENGOCHEA, DAVID",
+    "ALVAREZ RODRIGUEZ, JESUS",
+    "PAZ MIGUELEZ, ISMAEL",
+    "GONZALO TOYOS, BENJAMIN"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 21,
+      "entra": "ALMEIDA GAÑAN, DIEGO",
+      "sale": "ALONSO MATANZAS, DAMASO"
+    },
+    {
+      "min": 45,
+      "entra": "GARCIA DIAZ, JACINTO",
+      "sale": "LAVIN CHAVEZ, MARIO"
+    },
+    {
+      "min": 62,
+      "entra": "MARTINEZ MURIEDAS, PABLO",
+      "sale": "FERNANDEZ FERNANDEZ, HUGO"
+    },
+    {
+      "min": 62,
+      "entra": "DE MIGUEL SAN EMETERIO, LUIS",
+      "sale": "ISPIZUA FERNANDEZ, IÑAKI"
+    },
+    {
+      "min": 67,
+      "entra": "CALZADA ARMIJO, NICOLAS",
+      "sale": "MENDOZA SETIEN, JORGE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "SAN MARTIN BENGOCHEA, DAVID",
+      "sale": "GARCIA GALLEGO, GORKA"
+    },
+    {
+      "min": 54,
+      "entra": "ALVAREZ RODRIGUEZ, JESUS",
+      "sale": "LLANEZA GARCIA, ALVARO"
+    },
+    {
+      "min": 66,
+      "entra": "PAZ MIGUELEZ, ISMAEL",
+      "sale": "ALVAREZ DIAS, LUCAS"
+    },
+    {
+      "min": 73,
+      "entra": "GONZALO TOYOS, BENJAMIN",
+      "sale": "THOME ANDRADE, ADRIAN"
+    }
+  ],
   "minutos_jugadores": {
     "SOTO RUIZ, ALVARO": 90,
     "PERNIA COLINA, ROBERTO": 90,
@@ -169,22 +216,31 @@
     "GALVAN LOMBILLA, FRANCISCO": 90,
     "MALDONADO RUIZ, HECTOR": 90,
     "SAMPEDRO GUTIERREZ, ALEX": 90,
-    "ISPIZUA FERNANDEZ, IÑAKI": 90,
-    "FERNANDEZ FERNANDEZ, HUGO": 90,
-    "LAVIN CHAVEZ, MARIO": 90,
-    "MENDOZA SETIEN, JORGE": 90,
-    "ALONSO MATANZAS, DAMASO": 90,
+    "ISPIZUA FERNANDEZ, IÑAKI": 62,
+    "FERNANDEZ FERNANDEZ, HUGO": 62,
+    "LAVIN CHAVEZ, MARIO": 45,
+    "MENDOZA SETIEN, JORGE": 67,
+    "ALONSO MATANZAS, DAMASO": 21,
     "AGUIRRE ROZADA, RAUL": 90,
     "SUARDIAZ INTHAMOUSSU, MARTIN": 90,
     "MURIEL ARAUJO, MIGUEL": 90,
     "GONZALO LLANDERROZOS, RUBEN": 90,
     "FAES MENENDEZ-CASTAÑEDO, JAIME": 90,
-    "THOME ANDRADE, ADRIAN": 90,
+    "THOME ANDRADE, ADRIAN": 73,
     "CAMBA GARCIA, PELAYO": 90,
-    "LLANEZA GARCIA, ALVARO": 90,
-    "GARCIA GALLEGO, GORKA": 90,
-    "ALVAREZ DIAS, LUCAS": 90,
-    "CLIMENT RODRIGUEZ, IKER": 90
+    "LLANEZA GARCIA, ALVARO": 54,
+    "GARCIA GALLEGO, GORKA": 54,
+    "ALVAREZ DIAS, LUCAS": 66,
+    "CLIMENT RODRIGUEZ, IKER": 90,
+    "ALMEIDA GAÑAN, DIEGO": 69,
+    "GARCIA DIAZ, JACINTO": 45,
+    "MARTINEZ MURIEDAS, PABLO": 28,
+    "DE MIGUEL SAN EMETERIO, LUIS": 28,
+    "CALZADA ARMIJO, NICOLAS": 23,
+    "SAN MARTIN BENGOCHEA, DAVID": 36,
+    "ALVAREZ RODRIGUEZ, JESUS": 36,
+    "PAZ MIGUELEZ, ISMAEL": 24,
+    "GONZALO TOYOS, BENJAMIN": 17
   },
   "portero_local": "SOTO RUIZ, ALVARO",
   "portero_visitante": "AGUIRRE ROZADA, RAUL",
@@ -214,5 +270,6 @@
     "ALVAREZ DIAS, LUCAS": 22,
     "CLIMENT RODRIGUEZ, IKER": 23
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
