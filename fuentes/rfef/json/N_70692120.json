@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Selecciones Autonómicas de Fútbol Playa Cadete Masculino (GRUPO B)",
   "equipo_local": "SELECCIÓN CANARIA",
   "equipo_visitante": "SELECCIÓN CASTILLA LA MANCHA",
-  "goles_local": 3,
-  "goles_visitante": 5,
-  "resultado": "L",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "GÓMEZ CARRAL, MIGUEL",
@@ -28,8 +28,8 @@
     {
       "minuto": 5,
       "jugador": "ABRANTE GARCIA, ISMAEL",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 11,
@@ -192,6 +192,5 @@
     "RUIZ TORRES, JAVIER": 4,
     "VALENCIA GALLEGO, MARIO": 5
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
