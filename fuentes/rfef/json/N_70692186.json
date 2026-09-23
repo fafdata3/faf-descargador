@@ -10,8 +10,8 @@
   "equipo_local": "SD COMPOSTELA",
   "equipo_visitante": "RS GIMNASTICA DE TORRELAVEGA",
   "goles_local": 1,
-  "goles_visitante": 1,
-  "resultado": "D",
+  "goles_visitante": 2,
+  "resultado": "L",
   "arbitros": [
     "ÁRBITRO",
     "MIGUENS SANTIAGO, SERGIO",
@@ -38,7 +38,7 @@
     {
       "minuto": 76,
       "jugador": "YELA GONZALEZ, MAURICIO",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     }
   ],
@@ -133,21 +133,11 @@
   ],
   "convocados_sin_jugar_local": [
     "ALONSO LOUREIRO, PABLO",
-    "RODRIGUEZ DOVAL, RICARDO",
-    "LONGA GIL, ROI",
-    "MUÑIZ VIDAL, RAUL",
-    "MARTINEZ LEMA, MANUEL",
-    "BALDOMERO CASTROMAN, BRAIS",
     "CONDE CASTRO, BRUNO"
   ],
   "convocados_sin_jugar_visitante": [
     "GANDARA MARTINEZ, HUGO",
-    "HERRERA BUENO, HUGO",
-    "PEREIRA SAIZ, GUILLERMO",
-    "YELA GONZALEZ, MAURICIO",
-    "DIEZ MARTINEZ, JACOBO",
-    "BARBA AGENJO, ADRIAN",
-    "FERNANDEZ ZARCO, SAUL"
+    "DIEZ MARTINEZ, JACOBO"
   ],
   "jugadores_local": [
     "MERA SOUTO, IAGO",
@@ -160,7 +150,12 @@
     "BLANCO NEIRA, MANUEL",
     "VAZQUEZ PIÑEIRO, OSCAR",
     "GONZALEZ VALENCIA, MARCOS",
-    "VAZQUEZ LOPEZ, MATEO"
+    "VAZQUEZ LOPEZ, MATEO",
+    "MARTINEZ LEMA, MANUEL",
+    "LONGA GIL, ROI",
+    "BALDOMERO CASTROMAN, BRAIS",
+    "RODRIGUEZ DOVAL, RICARDO",
+    "MUÑIZ VIDAL, RAUL"
   ],
   "jugadores_visitante": [
     "FERNANDEZ SAÑUDO, GERMAN",
@@ -173,19 +168,76 @@
     "RODRIGUEZ URCELAY, DORIAN",
     "MACHURA PEDRAJO, DANIEL",
     "MARTINEZ CALVO, HUGO",
-    "ALVAREZ CARRANCEJA, JORGE"
+    "ALVAREZ CARRANCEJA, JORGE",
+    "FERNANDEZ ZARCO, SAUL",
+    "BARBA AGENJO, ADRIAN",
+    "PEREIRA SAIZ, GUILLERMO",
+    "YELA GONZALEZ, MAURICIO",
+    "HERRERA BUENO, HUGO"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "MARTINEZ LEMA, MANUEL",
+      "sale": "ANTONETTI LOPEZ, IGNACIO"
+    },
+    {
+      "min": 46,
+      "entra": "LONGA GIL, ROI",
+      "sale": "DIEGUEZ GUERRA, XIAN"
+    },
+    {
+      "min": 56,
+      "entra": "BALDOMERO CASTROMAN, BRAIS",
+      "sale": "MOSCOSO CATOIRA, MARCOS"
+    },
+    {
+      "min": 56,
+      "entra": "RODRIGUEZ DOVAL, RICARDO",
+      "sale": "DIEGUEZ CASTRO, ANTON"
+    },
+    {
+      "min": 80,
+      "entra": "MUÑIZ VIDAL, RAUL",
+      "sale": "BLANCO NEIRA, MANUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "FERNANDEZ ZARCO, SAUL",
+      "sale": "ALVAREZ CARRANCEJA, JORGE"
+    },
+    {
+      "min": 56,
+      "entra": "BARBA AGENJO, ADRIAN",
+      "sale": "BLUM RUIZ, JOSE"
+    },
+    {
+      "min": 65,
+      "entra": "PEREIRA SAIZ, GUILLERMO",
+      "sale": "MARTINEZ CALVO, HUGO"
+    },
+    {
+      "min": 65,
+      "entra": "YELA GONZALEZ, MAURICIO",
+      "sale": "EL AMRAQUI FARSSI, MOHAMED"
+    },
+    {
+      "min": 71,
+      "entra": "HERRERA BUENO, HUGO",
+      "sale": "MACHURA PEDRAJO, DANIEL"
+    }
+  ],
   "minutos_jugadores": {
     "MERA SOUTO, IAGO": 90,
     "SAA LIRES, MARTIÑO": 90,
-    "DIEGUEZ GUERRA, XIAN": 90,
+    "DIEGUEZ GUERRA, XIAN": 46,
     "DEVESA DOMINGUEZ, ROI": 90,
-    "DIEGUEZ CASTRO, ANTON": 90,
-    "MOSCOSO CATOIRA, MARCOS": 90,
-    "ANTONETTI LOPEZ, IGNACIO": 90,
-    "BLANCO NEIRA, MANUEL": 90,
+    "DIEGUEZ CASTRO, ANTON": 56,
+    "MOSCOSO CATOIRA, MARCOS": 56,
+    "ANTONETTI LOPEZ, IGNACIO": 46,
+    "BLANCO NEIRA, MANUEL": 80,
     "VAZQUEZ PIÑEIRO, OSCAR": 90,
     "GONZALEZ VALENCIA, MARCOS": 90,
     "VAZQUEZ LOPEZ, MATEO": 90,
@@ -193,13 +245,23 @@
     "FRAILE LOPEZ, GAEL": 90,
     "TORRE ARCO, CESAR": 90,
     "DE LA HERRANZ HELGUERA, BRUNO": 90,
-    "EL AMRAQUI FARSSI, MOHAMED": 90,
+    "EL AMRAQUI FARSSI, MOHAMED": 65,
     "FERNANDEZ IZARA, LORENZO": 90,
-    "BLUM RUIZ, JOSE": 90,
+    "BLUM RUIZ, JOSE": 56,
     "RODRIGUEZ URCELAY, DORIAN": 90,
-    "MACHURA PEDRAJO, DANIEL": 90,
-    "MARTINEZ CALVO, HUGO": 90,
-    "ALVAREZ CARRANCEJA, JORGE": 90
+    "MACHURA PEDRAJO, DANIEL": 71,
+    "MARTINEZ CALVO, HUGO": 65,
+    "ALVAREZ CARRANCEJA, JORGE": 56,
+    "MARTINEZ LEMA, MANUEL": 44,
+    "LONGA GIL, ROI": 44,
+    "BALDOMERO CASTROMAN, BRAIS": 34,
+    "RODRIGUEZ DOVAL, RICARDO": 34,
+    "MUÑIZ VIDAL, RAUL": 10,
+    "FERNANDEZ ZARCO, SAUL": 34,
+    "BARBA AGENJO, ADRIAN": 34,
+    "PEREIRA SAIZ, GUILLERMO": 25,
+    "YELA GONZALEZ, MAURICIO": 25,
+    "HERRERA BUENO, HUGO": 19
   },
   "portero_local": "MERA SOUTO, IAGO",
   "portero_visitante": "FERNANDEZ SAÑUDO, GERMAN",
@@ -229,5 +291,6 @@
     "MARTINEZ CALVO, HUGO": 18,
     "ALVAREZ CARRANCEJA, JORGE": 21
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
