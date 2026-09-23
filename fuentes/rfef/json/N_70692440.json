@@ -145,20 +145,10 @@
   ],
   "convocados_sin_jugar_local": [
     "EGILUZ DOMINGUEZ, MARKEL",
-    "BARRENETXEA ZULOAGA, JULEN",
-    "SLIMANI CHAKOR, WAIL",
-    "BOUZIDI PALACIOS, OSAMA",
-    "ZAUTUA BIZKARGUENAGA, AIMAR",
-    "JUARROS MANTEROLA, OIER",
-    "LEGARRETA RIOS, LUKEN"
+    "JUARROS MANTEROLA, OIER"
   ],
   "convocados_sin_jugar_visitante": [
     "FLORES OSORIO, HUGO",
-    "ARTO VILLACORTA, ROBERTO",
-    "FERNÁNDEZ MORÁN, ÁLVARO",
-    "BAIA GONZALEZ, CRISTIAN",
-    "GARCIA SOTORRIO, JORGE",
-    "SEOANE CASTRO, JUAN",
     "LAFUENTE SARMIENTO, MARIO"
   ],
   "jugadores_local": [
@@ -172,7 +162,12 @@
     "GARCIA PARGA, JON",
     "URUTXURTU JORDAN, UNAX",
     "DIEZ URUTXURTU, MARKEL",
-    "INTXAURRAGA SERNA, ENAITZ"
+    "INTXAURRAGA SERNA, ENAITZ",
+    "BARRENETXEA ZULOAGA, JULEN",
+    "BOUZIDI PALACIOS, OSAMA",
+    "SLIMANI CHAKOR, WAIL",
+    "LEGARRETA RIOS, LUKEN",
+    "ZAUTUA BIZKARGUENAGA, AIMAR"
   ],
   "jugadores_visitante": [
     "EIRIZ GONZALEZ, LUCAS",
@@ -185,33 +180,100 @@
     "FONTANILLO SAHAGUN, MAURO",
     "ALVAREZ MARTINEZ, DANIEL",
     "LARRAURI GONÇALVES, GAIZKA",
-    "DIAZ ALEJO, BORJA"
+    "DIAZ ALEJO, BORJA",
+    "SEOANE CASTRO, JUAN",
+    "GARCIA SOTORRIO, JORGE",
+    "FERNÁNDEZ MORÁN, ÁLVARO",
+    "BAIA GONZALEZ, CRISTIAN",
+    "ARTO VILLACORTA, ROBERTO"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "BARRENETXEA ZULOAGA, JULEN",
+      "sale": "DIEZ URUTXURTU, MARKEL"
+    },
+    {
+      "min": 46,
+      "entra": "BOUZIDI PALACIOS, OSAMA",
+      "sale": "INTXAURRAGA SERNA, ENAITZ"
+    },
+    {
+      "min": 46,
+      "entra": "SLIMANI CHAKOR, WAIL",
+      "sale": "ISPIZUA URRUTXUA, UNAI"
+    },
+    {
+      "min": 59,
+      "entra": "LEGARRETA RIOS, LUKEN",
+      "sale": "ESKALZA URTIAGA, XUBAN"
+    },
+    {
+      "min": 78,
+      "entra": "ZAUTUA BIZKARGUENAGA, AIMAR",
+      "sale": "ZULUAGA ETXEBARRIA, IZORTZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 62,
+      "entra": "SEOANE CASTRO, JUAN",
+      "sale": "ALVAREZ MARTINEZ, DANIEL"
+    },
+    {
+      "min": 62,
+      "entra": "GARCIA SOTORRIO, JORGE",
+      "sale": "DIAZ ALEJO, BORJA"
+    },
+    {
+      "min": 73,
+      "entra": "FERNÁNDEZ MORÁN, ÁLVARO",
+      "sale": "GARCIA GUTIERREZ, HUGO"
+    },
+    {
+      "min": 73,
+      "entra": "BAIA GONZALEZ, CRISTIAN",
+      "sale": "OCHOA MARTINEZ, ANGEL"
+    },
+    {
+      "min": 81,
+      "entra": "ARTO VILLACORTA, ROBERTO",
+      "sale": "IBAÑEZ POTES, MANUEL"
+    }
+  ],
   "minutos_jugadores": {
     "BRAVO MAGDALENO, ALFONSO": 90,
     "OLABARRI ARANGUREN, EKI": 90,
-    "ESKALZA URTIAGA, XUBAN": 90,
-    "ISPIZUA URRUTXUA, UNAI": 90,
+    "ESKALZA URTIAGA, XUBAN": 59,
+    "ISPIZUA URRUTXUA, UNAI": 46,
     "GONZALEZ DE ETXABARRI ALONSO, IBON": 90,
-    "ZULUAGA ETXEBARRIA, IZORTZ": 90,
+    "ZULUAGA ETXEBARRIA, IZORTZ": 78,
     "ARTETXE BELAUSTEGI, IKER": 90,
     "GARCIA PARGA, JON": 90,
     "URUTXURTU JORDAN, UNAX": 90,
-    "DIEZ URUTXURTU, MARKEL": 90,
-    "INTXAURRAGA SERNA, ENAITZ": 90,
+    "DIEZ URUTXURTU, MARKEL": 46,
+    "INTXAURRAGA SERNA, ENAITZ": 46,
     "EIRIZ GONZALEZ, LUCAS": 90,
     "GONZALEZ CACHAN, SERGIO": 90,
-    "OCHOA MARTINEZ, ANGEL": 90,
+    "OCHOA MARTINEZ, ANGEL": 73,
     "ROJO BREA, PABLO": 90,
-    "IBAÑEZ POTES, MANUEL": 90,
+    "IBAÑEZ POTES, MANUEL": 81,
     "RODRIGO CARO, MARCO": 90,
-    "GARCIA GUTIERREZ, HUGO": 90,
+    "GARCIA GUTIERREZ, HUGO": 73,
     "FONTANILLO SAHAGUN, MAURO": 90,
-    "ALVAREZ MARTINEZ, DANIEL": 90,
+    "ALVAREZ MARTINEZ, DANIEL": 62,
     "LARRAURI GONÇALVES, GAIZKA": 90,
-    "DIAZ ALEJO, BORJA": 90
+    "DIAZ ALEJO, BORJA": 62,
+    "BARRENETXEA ZULOAGA, JULEN": 44,
+    "BOUZIDI PALACIOS, OSAMA": 44,
+    "SLIMANI CHAKOR, WAIL": 44,
+    "LEGARRETA RIOS, LUKEN": 31,
+    "ZAUTUA BIZKARGUENAGA, AIMAR": 12,
+    "SEOANE CASTRO, JUAN": 28,
+    "GARCIA SOTORRIO, JORGE": 28,
+    "FERNÁNDEZ MORÁN, ÁLVARO": 17,
+    "BAIA GONZALEZ, CRISTIAN": 17,
+    "ARTO VILLACORTA, ROBERTO": 9
   },
   "portero_local": "BRAVO MAGDALENO, ALFONSO",
   "portero_visitante": "EIRIZ GONZALEZ, LUCAS",
@@ -241,5 +303,6 @@
     "LARRAURI GONÇALVES, GAIZKA": 10,
     "DIAZ ALEJO, BORJA": 11
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
