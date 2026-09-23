@@ -10,8 +10,8 @@
   "equipo_local": "REAL AVILÉS INDUSTRIAL",
   "equipo_visitante": "URAL ESPAÑOL C.F.",
   "goles_local": 1,
-  "goles_visitante": 0,
-  "resultado": "W",
+  "goles_visitante": 1,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO",
     "ÁLVAREZ ORDÓÑEZ, SERGIO",
@@ -26,7 +26,7 @@
     {
       "minuto": 56,
       "jugador": "CABADA LÓPEZ, ROI",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     },
     {
@@ -127,21 +127,12 @@
   ],
   "convocados_sin_jugar_local": [
     "TRABANCO DEL SOLO, OLAI",
-    "PAZ MIGUELEZ, ISMAEL",
     "CALZON FERNANDEZ, PABLO",
-    "RODRIGUEZ RODRIGUEZ, ELIAS",
-    "FERNANDEZ DEL BLANCO, PABLO",
-    "SAN MARTIN BENGOCHEA, DAVID",
-    "GONZALO TOYOS, BENJAMIN"
+    "SAN MARTIN BENGOCHEA, DAVID"
   ],
   "convocados_sin_jugar_visitante": [
     "VAZQUEZ BERMUDEZ, LUCAS",
-    "VAZQUEZ ALVAREZ, IAGO",
-    "CABADA LÓPEZ, ROI",
-    "MENDEZ AGBAMU, SAMUEL",
-    "ESCANDÓN BUYO, ABEL",
-    "FERNANDEZ RODRIGUEZ, LEO",
-    "SUAREZ RIVAS, ASIER"
+    "VAZQUEZ ALVAREZ, IAGO"
   ],
   "jugadores_local": [
     "AGUIRRE ROZADA, RAUL",
@@ -154,7 +145,11 @@
     "LLANEZA GARCIA, ALVARO",
     "GARCIA GALLEGO, GORKA",
     "ALVAREZ DIAS, LUCAS",
-    "CLIMENT RODRIGUEZ, IKER"
+    "CLIMENT RODRIGUEZ, IKER",
+    "GONZALO TOYOS, BENJAMIN",
+    "PAZ MIGUELEZ, ISMAEL",
+    "RODRIGUEZ RODRIGUEZ, ELIAS",
+    "FERNANDEZ DEL BLANCO, PABLO"
   ],
   "jugadores_visitante": [
     "LISTE BARREIRO, JOEL",
@@ -167,10 +162,62 @@
     "AMADO VAZQUEZ, HUGO",
     "BERMUDEZ MARTINEZ, NICOLAS",
     "ESTEVEZ TORRES, BREIXO",
-    "COTELO PEREZ, HUGO"
+    "COTELO PEREZ, HUGO",
+    "CABADA LÓPEZ, ROI",
+    "ESCANDÓN BUYO, ABEL",
+    "MENDEZ AGBAMU, SAMUEL",
+    "FERNANDEZ RODRIGUEZ, LEO",
+    "SUAREZ RIVAS, ASIER"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "GONZALO TOYOS, BENJAMIN",
+      "sale": "GARCIA GALLEGO, GORKA"
+    },
+    {
+      "min": 57,
+      "entra": "PAZ MIGUELEZ, ISMAEL",
+      "sale": "ALVAREZ DIAS, LUCAS"
+    },
+    {
+      "min": 59,
+      "entra": "RODRIGUEZ RODRIGUEZ, ELIAS",
+      "sale": "CLIMENT RODRIGUEZ, IKER"
+    },
+    {
+      "min": 62,
+      "entra": "FERNANDEZ DEL BLANCO, PABLO",
+      "sale": "LLANEZA GARCIA, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 22,
+      "entra": "CABADA LÓPEZ, ROI",
+      "sale": "ARIAS LOPEZ, MARCOS"
+    },
+    {
+      "min": 69,
+      "entra": "ESCANDÓN BUYO, ABEL",
+      "sale": "COTELO PEREZ, HUGO"
+    },
+    {
+      "min": 69,
+      "entra": "MENDEZ AGBAMU, SAMUEL",
+      "sale": "RAMOS SEIJO, GUILLERMO"
+    },
+    {
+      "min": 69,
+      "entra": "FERNANDEZ RODRIGUEZ, LEO",
+      "sale": "BERMUDEZ MARTINEZ, NICOLAS"
+    },
+    {
+      "min": 83,
+      "entra": "SUAREZ RIVAS, ASIER",
+      "sale": "AMADO VAZQUEZ, HUGO"
+    }
+  ],
   "minutos_jugadores": {
     "AGUIRRE ROZADA, RAUL": 90,
     "SUARDIAZ INTHAMOUSSU, MARTIN": 90,
@@ -179,21 +226,30 @@
     "FAES MENENDEZ-CASTAÑEDO, JAIME": 90,
     "THOME ANDRADE, ADRIAN": 90,
     "CAMBA GARCIA, PELAYO": 90,
-    "LLANEZA GARCIA, ALVARO": 90,
-    "GARCIA GALLEGO, GORKA": 90,
-    "ALVAREZ DIAS, LUCAS": 90,
-    "CLIMENT RODRIGUEZ, IKER": 90,
+    "LLANEZA GARCIA, ALVARO": 62,
+    "GARCIA GALLEGO, GORKA": 57,
+    "ALVAREZ DIAS, LUCAS": 57,
+    "CLIMENT RODRIGUEZ, IKER": 59,
     "LISTE BARREIRO, JOEL": 90,
     "CHANS SAGUILLO, DANIEL": 90,
     "CASTRO MENDEZ, BREIXO": 90,
     "CAAMAÑO GARCIA, MATEO": 90,
     "CARRO CAAMAÑO, XOEL": 90,
-    "RAMOS SEIJO, GUILLERMO": 90,
-    "ARIAS LOPEZ, MARCOS": 90,
-    "AMADO VAZQUEZ, HUGO": 90,
-    "BERMUDEZ MARTINEZ, NICOLAS": 90,
+    "RAMOS SEIJO, GUILLERMO": 69,
+    "ARIAS LOPEZ, MARCOS": 22,
+    "AMADO VAZQUEZ, HUGO": 83,
+    "BERMUDEZ MARTINEZ, NICOLAS": 69,
     "ESTEVEZ TORRES, BREIXO": 90,
-    "COTELO PEREZ, HUGO": 90
+    "COTELO PEREZ, HUGO": 69,
+    "GONZALO TOYOS, BENJAMIN": 33,
+    "PAZ MIGUELEZ, ISMAEL": 33,
+    "RODRIGUEZ RODRIGUEZ, ELIAS": 31,
+    "FERNANDEZ DEL BLANCO, PABLO": 28,
+    "CABADA LÓPEZ, ROI": 68,
+    "ESCANDÓN BUYO, ABEL": 21,
+    "MENDEZ AGBAMU, SAMUEL": 21,
+    "FERNANDEZ RODRIGUEZ, LEO": 21,
+    "SUAREZ RIVAS, ASIER": 7
   },
   "portero_local": "AGUIRRE ROZADA, RAUL",
   "portero_visitante": "LISTE BARREIRO, JOEL",
@@ -223,5 +279,6 @@
     "ESTEVEZ TORRES, BREIXO": 24,
     "COTELO PEREZ, HUGO": 25
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
