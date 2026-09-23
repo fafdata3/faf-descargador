@@ -10,7 +10,7 @@
   "equipo_local": "SELECCIÓN CANARIA",
   "equipo_visitante": "SELECCIÓN ANDALUZA",
   "goles_local": 1,
-  "goles_visitante": 9,
+  "goles_visitante": 2,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -78,8 +78,8 @@
     {
       "minuto": 33,
       "jugador": "OJEDA GARCIA, NICOLAS",
-      "equipo": "visitante",
-      "propia": true
+      "equipo": "local",
+      "propia": false
     },
     {
       "minuto": 35,
@@ -191,6 +191,5 @@
     "DOMINGUEZ GARCIA, MARCOS": 9,
     "TEJADA RODRIGUEZ, CRISTO": 10
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
