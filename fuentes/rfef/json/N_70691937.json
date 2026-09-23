@@ -10,7 +10,7 @@
   "equipo_local": "ALICANTE SUN F.C.",
   "equipo_visitante": "ROSES PLATJA",
   "goles_local": 1,
-  "goles_visitante": 6,
+  "goles_visitante": 13,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -47,7 +47,7 @@
       "minuto": 7,
       "jugador": "PÉREZ MENDONÇA NUNES, LUIS",
       "equipo": "?",
-      "propia": false
+      "propia": true
     },
     {
       "minuto": 8,
@@ -209,5 +209,6 @@
     "LLORELL RODRIGUEZ, IVAN": 7,
     "CHAOUI, NAEL YAKIN": 10
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
