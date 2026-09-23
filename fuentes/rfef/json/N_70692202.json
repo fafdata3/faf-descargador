@@ -176,21 +176,11 @@
   ],
   "convocados_sin_jugar_local": [
     "ALVAREZ CEBRIAN, ENOL",
-    "CASTRO SUAREZ, AITOR",
-    "ARIAS SENIS, JESUS",
-    "FERNANDEZ CANGA, IYAN",
-    "COTO FERNANDEZ, SERGIO",
-    "FERNANDEZ ALVAREZ, PELAYO",
-    "MARTINEZ CUESTA, DANIEL"
+    "CASTRO SUAREZ, AITOR"
   ],
   "convocados_sin_jugar_visitante": [
     "LODEIRO GARCIA, HUGO",
-    "LOPEZ DIAZ, PELAYO",
-    "ALVAREZ MARQUÉS, MATEO",
-    "ARIAS CANO, SAUL",
-    "FERNANDEZ GATON, PELAYO",
-    "LARA EIRIN, DANIEL",
-    "RODRIGUEZ DIAZ, LEONARDO"
+    "ALVAREZ MARQUÉS, MATEO"
   ],
   "jugadores_local": [
     "HUETE CASTRO, RUBEN",
@@ -203,7 +193,12 @@
     "PEREIRA ARCE, DIEGO",
     "RUIZ CAPILLAS PANDO, URIEL",
     "PACO SOLIS, PABLO",
-    "GONZALEZ REDONDO, HUGO"
+    "GONZALEZ REDONDO, HUGO",
+    "FERNANDEZ ALVAREZ, PELAYO",
+    "ARIAS SENIS, JESUS",
+    "MARTINEZ CUESTA, DANIEL",
+    "FERNANDEZ CANGA, IYAN",
+    "COTO FERNANDEZ, SERGIO"
   ],
   "jugadores_visitante": [
     "ALVAREZ MESA, HUGO",
@@ -216,33 +211,100 @@
     "OKEKE, UGOMSINACHI PRINCE",
     "GONZALEZ FERNANDEZ, MARIO",
     "MENENDEZ GARCIA, LUCAS",
-    "MENES HEVIA, IVAN"
+    "MENES HEVIA, IVAN",
+    "RODRIGUEZ DIAZ, LEONARDO",
+    "LOPEZ DIAZ, PELAYO",
+    "LARA EIRIN, DANIEL",
+    "FERNANDEZ GATON, PELAYO",
+    "ARIAS CANO, SAUL"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "FERNANDEZ ALVAREZ, PELAYO",
+      "sale": "MARTINEZ CABAL, JORGE"
+    },
+    {
+      "min": 61,
+      "entra": "ARIAS SENIS, JESUS",
+      "sale": "GONZALEZ REDONDO, HUGO"
+    },
+    {
+      "min": 61,
+      "entra": "MARTINEZ CUESTA, DANIEL",
+      "sale": "PACO SOLIS, PABLO"
+    },
+    {
+      "min": 71,
+      "entra": "FERNANDEZ CANGA, IYAN",
+      "sale": "GONZALEZ GARCIA, ALVARO"
+    },
+    {
+      "min": 82,
+      "entra": "COTO FERNANDEZ, SERGIO",
+      "sale": "RECUPERO GARRANDES, FRANSCISCO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "RODRIGUEZ DIAZ, LEONARDO",
+      "sale": "GONZALEZ FERNANDEZ, MARIO"
+    },
+    {
+      "min": 59,
+      "entra": "LOPEZ DIAZ, PELAYO",
+      "sale": "MADERA FERNANDEZ, PABLO"
+    },
+    {
+      "min": 59,
+      "entra": "LARA EIRIN, DANIEL",
+      "sale": "MENENDEZ GARCIA, LUCAS"
+    },
+    {
+      "min": 71,
+      "entra": "FERNANDEZ GATON, PELAYO",
+      "sale": "RODRIGUEZ CABRERA, ASUR"
+    },
+    {
+      "min": 73,
+      "entra": "ARIAS CANO, SAUL",
+      "sale": "ABRIL ARGUELLES, ALVARO"
+    }
+  ],
   "minutos_jugadores": {
     "HUETE CASTRO, RUBEN": 90,
     "GARCÍA ZAPICO, PABLO": 90,
-    "RECUPERO GARRANDES, FRANSCISCO": 90,
-    "MARTINEZ CABAL, JORGE": 90,
+    "RECUPERO GARRANDES, FRANSCISCO": 82,
+    "MARTINEZ CABAL, JORGE": 45,
     "CAMPORRO PINEDA, DANIEL": 90,
-    "GONZALEZ GARCIA, ALVARO": 90,
+    "GONZALEZ GARCIA, ALVARO": 71,
     "GUTIERREZ GONZALEZ, JORGE": 90,
     "PEREIRA ARCE, DIEGO": 90,
     "RUIZ CAPILLAS PANDO, URIEL": 90,
-    "PACO SOLIS, PABLO": 90,
-    "GONZALEZ REDONDO, HUGO": 90,
+    "PACO SOLIS, PABLO": 61,
+    "GONZALEZ REDONDO, HUGO": 61,
     "ALVAREZ MESA, HUGO": 90,
     "ARRIBAS GARCIA, ARTURO": 90,
     "ESPAÑA RODRIGUEZ, ALVARO": 90,
     "TORRON ROCES, ALVARO": 90,
-    "ABRIL ARGUELLES, ALVARO": 90,
-    "RODRIGUEZ CABRERA, ASUR": 90,
-    "MADERA FERNANDEZ, PABLO": 90,
+    "ABRIL ARGUELLES, ALVARO": 73,
+    "RODRIGUEZ CABRERA, ASUR": 71,
+    "MADERA FERNANDEZ, PABLO": 59,
     "OKEKE, UGOMSINACHI PRINCE": 90,
-    "GONZALEZ FERNANDEZ, MARIO": 90,
-    "MENENDEZ GARCIA, LUCAS": 90,
-    "MENES HEVIA, IVAN": 90
+    "GONZALEZ FERNANDEZ, MARIO": 59,
+    "MENENDEZ GARCIA, LUCAS": 59,
+    "MENES HEVIA, IVAN": 90,
+    "FERNANDEZ ALVAREZ, PELAYO": 45,
+    "ARIAS SENIS, JESUS": 29,
+    "MARTINEZ CUESTA, DANIEL": 29,
+    "FERNANDEZ CANGA, IYAN": 19,
+    "COTO FERNANDEZ, SERGIO": 8,
+    "RODRIGUEZ DIAZ, LEONARDO": 31,
+    "LOPEZ DIAZ, PELAYO": 31,
+    "LARA EIRIN, DANIEL": 31,
+    "FERNANDEZ GATON, PELAYO": 19,
+    "ARIAS CANO, SAUL": 17
   },
   "portero_local": "HUETE CASTRO, RUBEN",
   "portero_visitante": "ALVAREZ MESA, HUGO",
