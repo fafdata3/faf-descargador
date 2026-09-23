@@ -10,7 +10,7 @@
   "equipo_local": "CFF BARBATE",
   "equipo_visitante": "CADIZ CF",
   "goles_local": 1,
-  "goles_visitante": 3,
+  "goles_visitante": 9,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -65,7 +65,7 @@
       "minuto": 20,
       "jugador": "SANCHEZ FERNANDEZ, ISABEL MARIA",
       "equipo": "?",
-      "propia": false
+      "propia": true
     },
     {
       "minuto": 25,
@@ -269,5 +269,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
