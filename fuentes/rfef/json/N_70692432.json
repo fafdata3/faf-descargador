@@ -127,22 +127,13 @@
     "CORRALES GUZMAN, ALEJANDRO"
   ],
   "convocados_sin_jugar_local": [
-    "ZULUAGA ETXEBARRIA, IZORTZ",
     "BRAVO MAGDALENO, ALFONSO",
-    "ZAUTUA BIZKARGUENAGA, AIMAR",
-    "URUTXURTU JORDAN, UNAX",
     "GOTI IZAGUIRRE, URKO",
-    "INCERTIS MARTINEZ, BEÑAT",
     "IZAGIRRE ZENIKAZELAIA, OIHAN"
   ],
   "convocados_sin_jugar_visitante": [
     "LAGO FERNANDEZ, MATIAS",
-    "CASADO SASTRE, IVÁN",
-    "FERNANDEZ CABANES, GINES JAVIER",
-    "NAOUSSI SANCHEZ, ALEJANDRO TAMO",
-    "SÁNCHEZ MARTÍN, ADRIÁN",
-    "GOMEZ MARTIN, PABLO",
-    "CORRALES GUZMAN, ALEJANDRO"
+    "NAOUSSI SANCHEZ, ALEJANDRO TAMO"
   ],
   "jugadores_local": [
     "EGILUZ DOMINGUEZ, MARKEL",
@@ -155,7 +146,11 @@
     "JUARROS MANTEROLA, OIER",
     "DIEZ URUTXURTU, MARKEL",
     "LEGARRETA RIOS, LUKEN",
-    "INTXAURRAGA SERNA, ENAITZ"
+    "INTXAURRAGA SERNA, ENAITZ",
+    "ZULUAGA ETXEBARRIA, IZORTZ",
+    "URUTXURTU JORDAN, UNAX",
+    "ZAUTUA BIZKARGUENAGA, AIMAR",
+    "INCERTIS MARTINEZ, BEÑAT"
   ],
   "jugadores_visitante": [
     "BARRIO QUINTERO, VICTOR",
@@ -168,33 +163,94 @@
     "SANCHEZ GALA, PABLO",
     "MARTIN POBLACION, PABLO",
     "RODRIGUEZ LOPEZ, XAVI",
-    "RAMOS GOMEZ, HECTOR"
+    "RAMOS GOMEZ, HECTOR",
+    "CASADO SASTRE, IVÁN",
+    "FERNANDEZ CABANES, GINES JAVIER",
+    "SÁNCHEZ MARTÍN, ADRIÁN",
+    "CORRALES GUZMAN, ALEJANDRO",
+    "GOMEZ MARTIN, PABLO"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "ZULUAGA ETXEBARRIA, IZORTZ",
+      "sale": "INTXAURRAGA SERNA, ENAITZ"
+    },
+    {
+      "min": 46,
+      "entra": "URUTXURTU JORDAN, UNAX",
+      "sale": "LEGARRETA RIOS, LUKEN"
+    },
+    {
+      "min": 81,
+      "entra": "ZAUTUA BIZKARGUENAGA, AIMAR",
+      "sale": "JUARROS MANTEROLA, OIER"
+    },
+    {
+      "min": 88,
+      "entra": "INCERTIS MARTINEZ, BEÑAT",
+      "sale": "ESKALZA URTIAGA, XUBAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "CASADO SASTRE, IVÁN",
+      "sale": "RAMOS GOMEZ, HECTOR"
+    },
+    {
+      "min": 54,
+      "entra": "FERNANDEZ CABANES, GINES JAVIER",
+      "sale": "SANCHEZ GALA, PABLO"
+    },
+    {
+      "min": 64,
+      "entra": "SÁNCHEZ MARTÍN, ADRIÁN",
+      "sale": "MARTIN POBLACION, PABLO"
+    },
+    {
+      "min": 76,
+      "entra": "CORRALES GUZMAN, ALEJANDRO",
+      "sale": "VIÑUELA SACRISTAN, AITOR"
+    },
+    {
+      "min": 76,
+      "entra": "GOMEZ MARTIN, PABLO",
+      "sale": "GONZALEZ GOMEZ, MARIO"
+    }
+  ],
   "minutos_jugadores": {
     "EGILUZ DOMINGUEZ, MARKEL": 90,
     "OLABARRI ARANGUREN, EKI": 90,
-    "ESKALZA URTIAGA, XUBAN": 90,
+    "ESKALZA URTIAGA, XUBAN": 88,
     "BARRENETXEA ZULOAGA, JULEN": 90,
     "ISPIZUA URRUTXUA, UNAI": 90,
     "ARTETXE BELAUSTEGI, IKER": 90,
     "GARCIA PARGA, JON": 90,
-    "JUARROS MANTEROLA, OIER": 90,
+    "JUARROS MANTEROLA, OIER": 81,
     "DIEZ URUTXURTU, MARKEL": 90,
-    "LEGARRETA RIOS, LUKEN": 90,
-    "INTXAURRAGA SERNA, ENAITZ": 90,
+    "LEGARRETA RIOS, LUKEN": 46,
+    "INTXAURRAGA SERNA, ENAITZ": 46,
     "BARRIO QUINTERO, VICTOR": 90,
     "RUIZ RANGEL, ALVARO": 90,
     "SANCHEZ RUANO, NICOLAS": 90,
     "LOPEZ DE LA IGLESIA, PEDRO": 90,
     "MARTIN GARCIA, OSCAR": 90,
-    "GONZALEZ GOMEZ, MARIO": 90,
-    "VIÑUELA SACRISTAN, AITOR": 90,
-    "SANCHEZ GALA, PABLO": 90,
-    "MARTIN POBLACION, PABLO": 90,
+    "GONZALEZ GOMEZ, MARIO": 76,
+    "VIÑUELA SACRISTAN, AITOR": 76,
+    "SANCHEZ GALA, PABLO": 54,
+    "MARTIN POBLACION, PABLO": 64,
     "RODRIGUEZ LOPEZ, XAVI": 90,
-    "RAMOS GOMEZ, HECTOR": 90
+    "RAMOS GOMEZ, HECTOR": 54,
+    "ZULUAGA ETXEBARRIA, IZORTZ": 44,
+    "URUTXURTU JORDAN, UNAX": 44,
+    "ZAUTUA BIZKARGUENAGA, AIMAR": 9,
+    "INCERTIS MARTINEZ, BEÑAT": 2,
+    "CASADO SASTRE, IVÁN": 36,
+    "FERNANDEZ CABANES, GINES JAVIER": 36,
+    "SÁNCHEZ MARTÍN, ADRIÁN": 26,
+    "CORRALES GUZMAN, ALEJANDRO": 14,
+    "GOMEZ MARTIN, PABLO": 14
   },
   "portero_local": "EGILUZ DOMINGUEZ, MARKEL",
   "portero_visitante": "BARRIO QUINTERO, VICTOR",
