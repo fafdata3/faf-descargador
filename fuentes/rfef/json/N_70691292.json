@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO B)",
   "equipo_local": "POZOALBENSE FEMENINO C.D. B",
   "equipo_visitante": "GUADALCACIN C.D.",
-  "goles_local": 0,
-  "goles_visitante": 1,
+  "goles_local": 1,
+  "goles_visitante": 3,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -29,7 +29,7 @@
       "minuto": 14,
       "jugador": "MACIAS OTERO, NEREA",
       "equipo": "?",
-      "propia": false
+      "propia": true
     },
     {
       "minuto": 15,
@@ -153,5 +153,6 @@
     "HERNANDEZ CORDERO, DANIELA": 7,
     "GUERRA LOBATO, MARIA": 17
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
