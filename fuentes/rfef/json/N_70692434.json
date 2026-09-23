@@ -175,21 +175,11 @@
   ],
   "convocados_sin_jugar_local": [
     "ITURRALDE ALVAREZ, DANEL",
-    "GARCIA SANTAMARIA, OIER",
-    "MARTELL SERRANO, AIMAR",
-    "IGLESIAS ELORDI, AIMAR",
-    "GONZALEZ MORA, SERGIO",
-    "MARTINEZ GALAN, ANTXON",
-    "DE LECEA CIGARAN, FRANCISCO DE ASIS"
+    "GARCIA SANTAMARIA, OIER"
   ],
   "convocados_sin_jugar_visitante": [
     "GARCIA DELGADO, MARKEL",
-    "MIQUELARENA VIZCAYA, ANDONI",
-    "GALDEANO BARANDIKA, IKER",
-    "DE ABAJO LOPEZ, BEÑAT",
-    "DEL RIO ESPARZA, EKAIN",
-    "MIMENZA SUAREZ, AXULAR",
-    "GUTIERREZ CASTAÑEIRA, PAUL"
+    "GALDEANO BARANDIKA, IKER"
   ],
   "jugadores_local": [
     "EZKERRA HERRERO, XABIER",
@@ -202,7 +192,12 @@
     "BAPTISTA BASTERRA, JAVIER",
     "LOPEZ SILVA, HUGO JOHAN",
     "VALDIVIELSO TRINCHE, ENEKO",
-    "SERRANO ACERO, IKER"
+    "SERRANO ACERO, IKER",
+    "IGLESIAS ELORDI, AIMAR",
+    "DE LECEA CIGARAN, FRANCISCO DE ASIS",
+    "MARTELL SERRANO, AIMAR",
+    "GONZALEZ MORA, SERGIO",
+    "MARTINEZ GALAN, ANTXON"
   ],
   "jugadores_visitante": [
     "TORRONTEGUI DIAS, GAIZKA",
@@ -215,33 +210,100 @@
     "RAMOS BERDOTE, MARKEL",
     "CARBAJO ANCHIA, GORKA",
     "GOIKOETXEA OTAOLA, JULEN",
-    "VIVANCO MIGUEL, DANEL"
+    "VIVANCO MIGUEL, DANEL",
+    "DEL RIO ESPARZA, EKAIN",
+    "MIQUELARENA VIZCAYA, ANDONI",
+    "DE ABAJO LOPEZ, BEÑAT",
+    "MIMENZA SUAREZ, AXULAR",
+    "GUTIERREZ CASTAÑEIRA, PAUL"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "IGLESIAS ELORDI, AIMAR",
+      "sale": "ESCANCIANO MUGURUZA, TELMO"
+    },
+    {
+      "min": 46,
+      "entra": "DE LECEA CIGARAN, FRANCISCO DE ASIS",
+      "sale": "FELIZ FERNANDEZ, SAUL"
+    },
+    {
+      "min": 59,
+      "entra": "MARTELL SERRANO, AIMAR",
+      "sale": "VALDIVIELSO TRINCHE, ENEKO"
+    },
+    {
+      "min": 74,
+      "entra": "GONZALEZ MORA, SERGIO",
+      "sale": "BAPTISTA BASTERRA, JAVIER"
+    },
+    {
+      "min": 85,
+      "entra": "MARTINEZ GALAN, ANTXON",
+      "sale": "OSIPOV, SEBASTIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "DEL RIO ESPARZA, EKAIN",
+      "sale": "CARBAJO ANCHIA, GORKA"
+    },
+    {
+      "min": 69,
+      "entra": "MIQUELARENA VIZCAYA, ANDONI",
+      "sale": "TORRES IBAÑEZ DE MAEZTU, ALEX"
+    },
+    {
+      "min": 69,
+      "entra": "DE ABAJO LOPEZ, BEÑAT",
+      "sale": "SANTAMARIA MARTINEZ, KERMAN"
+    },
+    {
+      "min": 73,
+      "entra": "MIMENZA SUAREZ, AXULAR",
+      "sale": "RAMOS BERDOTE, MARKEL"
+    },
+    {
+      "min": 73,
+      "entra": "GUTIERREZ CASTAÑEIRA, PAUL",
+      "sale": "GOIKOETXEA OTAOLA, JULEN"
+    }
+  ],
   "minutos_jugadores": {
     "EZKERRA HERRERO, XABIER": 90,
     "FERNANDEZ AYALA, UNAI": 90,
-    "OSIPOV, SEBASTIAN": 90,
-    "ESCANCIANO MUGURUZA, TELMO": 90,
+    "OSIPOV, SEBASTIAN": 85,
+    "ESCANCIANO MUGURUZA, TELMO": 46,
     "SANTAMARIA FERRERO, ARITZ": 90,
     "MORENO IBARLOZA, DANEL": 90,
-    "FELIZ FERNANDEZ, SAUL": 90,
-    "BAPTISTA BASTERRA, JAVIER": 90,
+    "FELIZ FERNANDEZ, SAUL": 46,
+    "BAPTISTA BASTERRA, JAVIER": 74,
     "LOPEZ SILVA, HUGO JOHAN": 90,
-    "VALDIVIELSO TRINCHE, ENEKO": 90,
+    "VALDIVIELSO TRINCHE, ENEKO": 59,
     "SERRANO ACERO, IKER": 90,
     "TORRONTEGUI DIAS, GAIZKA": 90,
     "ZUAZO MUELA, MARTIN": 90,
-    "TORRES IBAÑEZ DE MAEZTU, ALEX": 90,
+    "TORRES IBAÑEZ DE MAEZTU, ALEX": 69,
     "ANTOLIN ARMENTEROS, MARKEL": 90,
     "BIDAURRAZAGA MORGADO, ASIER": 90,
     "PEREZ RODRIGUEZ, IÑIGO": 90,
-    "SANTAMARIA MARTINEZ, KERMAN": 90,
-    "RAMOS BERDOTE, MARKEL": 90,
-    "CARBAJO ANCHIA, GORKA": 90,
-    "GOIKOETXEA OTAOLA, JULEN": 90,
-    "VIVANCO MIGUEL, DANEL": 90
+    "SANTAMARIA MARTINEZ, KERMAN": 69,
+    "RAMOS BERDOTE, MARKEL": 73,
+    "CARBAJO ANCHIA, GORKA": 58,
+    "GOIKOETXEA OTAOLA, JULEN": 73,
+    "VIVANCO MIGUEL, DANEL": 90,
+    "IGLESIAS ELORDI, AIMAR": 44,
+    "DE LECEA CIGARAN, FRANCISCO DE ASIS": 44,
+    "MARTELL SERRANO, AIMAR": 31,
+    "GONZALEZ MORA, SERGIO": 16,
+    "MARTINEZ GALAN, ANTXON": 5,
+    "DEL RIO ESPARZA, EKAIN": 32,
+    "MIQUELARENA VIZCAYA, ANDONI": 21,
+    "DE ABAJO LOPEZ, BEÑAT": 21,
+    "MIMENZA SUAREZ, AXULAR": 17,
+    "GUTIERREZ CASTAÑEIRA, PAUL": 17
   },
   "portero_local": "EZKERRA HERRERO, XABIER",
   "portero_visitante": "TORRONTEGUI DIAS, GAIZKA",
@@ -273,6 +335,5 @@
   },
   "suspendidos": [
     "VALDIVIELSO TRINCHE, ENEKO"
-  ],
-  "_marcador_widget": true
+  ]
 }
