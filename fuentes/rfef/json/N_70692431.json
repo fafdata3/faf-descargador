@@ -10,8 +10,8 @@
   "equipo_local": "UNIONISTAS DE SALAMANCA C.F. A",
   "equipo_visitante": "ANTIGUOKO KIROL ELKARTEA",
   "goles_local": 2,
-  "goles_visitante": 1,
-  "resultado": "W",
+  "goles_visitante": 2,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO",
     "DEL BRIO SANCHEZ, JOEL",
@@ -38,7 +38,7 @@
     {
       "minuto": 64,
       "jugador": "GALARZA GARMENDIA, EÑAUT",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     },
     {
@@ -125,21 +125,11 @@
   ],
   "convocados_sin_jugar_local": [
     "BARRIO QUINTERO, VICTOR",
-    "FERNANDEZ CABANES, GINES JAVIER",
-    "CHOKRAFI ELAYAT, OUALID",
-    "SÁNCHEZ MARTÍN, ADRIÁN",
-    "RAMOS GOMEZ, HECTOR",
-    "GOMEZ MARTIN, PABLO",
     "CORRALES GUZMAN, ALEJANDRO"
   ],
   "convocados_sin_jugar_visitante": [
     "LIZARTZA GORROTXATEGI, URKO",
-    "ITURRIZA LULUAGA, MARKEL",
-    "GALARZA GARMENDIA, EÑAUT",
-    "SALGUEIRO JALON, GONZALO",
-    "FERNANDEZ DE LEZEA LATABURU, MARKEL",
-    "ALBIZU ARAUCO, LANDER",
-    "VIDORRETA CASTAÑEDA, JON SANTIAGO"
+    "SALGUEIRO JALON, GONZALO"
   ],
   "jugadores_local": [
     "LAGO FERNANDEZ, MATIAS",
@@ -152,7 +142,12 @@
     "VIÑUELA SACRISTAN, AITOR",
     "SANCHEZ GALA, PABLO",
     "MARTIN POBLACION, PABLO",
-    "RODRIGUEZ LOPEZ, XAVI"
+    "RODRIGUEZ LOPEZ, XAVI",
+    "RAMOS GOMEZ, HECTOR",
+    "CHOKRAFI ELAYAT, OUALID",
+    "GOMEZ MARTIN, PABLO",
+    "FERNANDEZ CABANES, GINES JAVIER",
+    "SÁNCHEZ MARTÍN, ADRIÁN"
   ],
   "jugadores_visitante": [
     "ALBISU JAUREGI, UHAITZ",
@@ -165,33 +160,100 @@
     "JUGLAR, FERDINAND ARTHUR MARIE",
     "CARCEDO URBIETA, MIKEL",
     "VIDAL ARRUTI, HARITZ",
-    "EL FAKHKHAR FERNANDEZ, ANASS"
+    "EL FAKHKHAR FERNANDEZ, ANASS",
+    "VIDORRETA CASTAÑEDA, JON SANTIAGO",
+    "FERNANDEZ DE LEZEA LATABURU, MARKEL",
+    "GALARZA GARMENDIA, EÑAUT",
+    "ALBIZU ARAUCO, LANDER",
+    "ITURRIZA LULUAGA, MARKEL"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "RAMOS GOMEZ, HECTOR",
+      "sale": "RODRIGUEZ LOPEZ, XAVI"
+    },
+    {
+      "min": 71,
+      "entra": "CHOKRAFI ELAYAT, OUALID",
+      "sale": "GONZALEZ GOMEZ, MARIO"
+    },
+    {
+      "min": 71,
+      "entra": "GOMEZ MARTIN, PABLO",
+      "sale": "SANCHEZ RUANO, NICOLAS"
+    },
+    {
+      "min": 76,
+      "entra": "FERNANDEZ CABANES, GINES JAVIER",
+      "sale": "MARTIN POBLACION, PABLO"
+    },
+    {
+      "min": 83,
+      "entra": "SÁNCHEZ MARTÍN, ADRIÁN",
+      "sale": "SANCHEZ GALA, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "VIDORRETA CASTAÑEDA, JON SANTIAGO",
+      "sale": "VIDAL ARRUTI, HARITZ"
+    },
+    {
+      "min": 61,
+      "entra": "FERNANDEZ DE LEZEA LATABURU, MARKEL",
+      "sale": "CARCEDO URBIETA, MIKEL"
+    },
+    {
+      "min": 61,
+      "entra": "GALARZA GARMENDIA, EÑAUT",
+      "sale": "JUGLAR, FERDINAND ARTHUR MARIE"
+    },
+    {
+      "min": 70,
+      "entra": "ALBIZU ARAUCO, LANDER",
+      "sale": "SAIZAR DIAZ, UNAX"
+    },
+    {
+      "min": 76,
+      "entra": "ITURRIZA LULUAGA, MARKEL",
+      "sale": "RUBIO ALONSO, OIHAN"
+    }
+  ],
   "minutos_jugadores": {
     "LAGO FERNANDEZ, MATIAS": 90,
     "RUIZ RANGEL, ALVARO": 90,
-    "SANCHEZ RUANO, NICOLAS": 90,
+    "SANCHEZ RUANO, NICOLAS": 71,
     "LOPEZ DE LA IGLESIA, PEDRO": 90,
     "MARTIN GARCIA, OSCAR": 90,
     "CASADO SASTRE, IVÁN": 90,
-    "GONZALEZ GOMEZ, MARIO": 90,
+    "GONZALEZ GOMEZ, MARIO": 71,
     "VIÑUELA SACRISTAN, AITOR": 90,
-    "SANCHEZ GALA, PABLO": 90,
-    "MARTIN POBLACION, PABLO": 90,
-    "RODRIGUEZ LOPEZ, XAVI": 90,
+    "SANCHEZ GALA, PABLO": 83,
+    "MARTIN POBLACION, PABLO": 76,
+    "RODRIGUEZ LOPEZ, XAVI": 46,
     "ALBISU JAUREGI, UHAITZ": 90,
     "LOPETEGUI ZATARAIN, ANER": 90,
     "VITORIA SAN SEBASTIAN, UNAX": 90,
     "ENPARANTZA ALUSTIZA, AIMAR": 90,
     "ASEGUINOLAZA MATEOS, ALVARO": 90,
-    "RUBIO ALONSO, OIHAN": 90,
-    "SAIZAR DIAZ, UNAX": 90,
-    "JUGLAR, FERDINAND ARTHUR MARIE": 90,
-    "CARCEDO URBIETA, MIKEL": 90,
-    "VIDAL ARRUTI, HARITZ": 90,
-    "EL FAKHKHAR FERNANDEZ, ANASS": 90
+    "RUBIO ALONSO, OIHAN": 76,
+    "SAIZAR DIAZ, UNAX": 70,
+    "JUGLAR, FERDINAND ARTHUR MARIE": 61,
+    "CARCEDO URBIETA, MIKEL": 61,
+    "VIDAL ARRUTI, HARITZ": 61,
+    "EL FAKHKHAR FERNANDEZ, ANASS": 90,
+    "RAMOS GOMEZ, HECTOR": 44,
+    "CHOKRAFI ELAYAT, OUALID": 19,
+    "GOMEZ MARTIN, PABLO": 19,
+    "FERNANDEZ CABANES, GINES JAVIER": 14,
+    "SÁNCHEZ MARTÍN, ADRIÁN": 7,
+    "VIDORRETA CASTAÑEDA, JON SANTIAGO": 29,
+    "FERNANDEZ DE LEZEA LATABURU, MARKEL": 29,
+    "GALARZA GARMENDIA, EÑAUT": 29,
+    "ALBIZU ARAUCO, LANDER": 20,
+    "ITURRIZA LULUAGA, MARKEL": 14
   },
   "portero_local": "LAGO FERNANDEZ, MATIAS",
   "portero_visitante": "ALBISU JAUREGI, UHAITZ",
