@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Primera División de Futbol Playa Femenino (Primera División Nacional Femenina)",
   "equipo_local": "C.D. FUN AND LEARNING",
   "equipo_visitante": "TURIA BEACH SOCCER CLUB",
-  "goles_local": 3,
-  "goles_visitante": 1,
-  "resultado": "W",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "SABIDO SERRANO, JOSE MANUEL",
@@ -46,8 +46,8 @@
     {
       "minuto": 35,
       "jugador": "PRIM PRIM FERNÁNDEZ, SONIA",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false
     }
   ],
   "tarjetas": [
@@ -235,6 +235,5 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ],
-  "_marcador_widget": true
+  ]
 }
