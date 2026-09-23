@@ -9,9 +9,9 @@
   "categoria": "División Honor Cadete Playa (DHC)",
   "equipo_local": "C.D. ENPIE MALAGA FUTBOL PLAYA",
   "equipo_visitante": "ALICANTE SUN F.C.",
-  "goles_local": 1,
+  "goles_local": 0,
   "goles_visitante": 1,
-  "resultado": "D",
+  "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
     "RUIZ ANDRADA, PEDRO JOSÉ",
@@ -40,8 +40,8 @@
     {
       "minuto": 9,
       "jugador": "ALONSO MANZANO, ALVARO",
-      "equipo": "local",
-      "propia": false
+      "equipo": "visitante",
+      "propia": true
     },
     {
       "minuto": 10,
