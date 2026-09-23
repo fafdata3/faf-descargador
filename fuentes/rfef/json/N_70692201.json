@@ -120,21 +120,12 @@
   ],
   "convocados_sin_jugar_local": [
     "LOPEZ PEREZ, MIGUEL ANGEL",
-    "MATA FERNANDEZ, HUGO",
     "GUTIERREZ ZUBILLAGA, VICTOR",
-    "SANCHO POMPOSO, ALVARO",
-    "CISNEROS LEAL, ADRIAN",
-    "GARCIA BLANCO, PABLO",
     "PORTILLA CAMUS, ALEJANDRO"
   ],
   "convocados_sin_jugar_visitante": [
     "FERNANDEZ SAÑUDO, GERMAN",
-    "PEREIRA SAIZ, GUILLERMO",
-    "DIEZ MARTINEZ, JACOBO",
-    "QUINTANA CALDERON, MARCOS",
-    "BARBA AGENJO, ADRIAN",
-    "GUTIERREZ GONZALEZ, JAIME",
-    "URRUTIA RODRIGUEZ, JON"
+    "PEREIRA SAIZ, GUILLERMO"
   ],
   "jugadores_local": [
     "CARRASCAL GARCIA, ELIAS",
@@ -147,7 +138,11 @@
     "URIBE DELGADO, BRUNO",
     "FERNANDEZ FABERO, MARIO",
     "FERNANDEZ COBO, SAMUEL",
-    "CANALES VILLA, IKER"
+    "CANALES VILLA, IKER",
+    "MATA FERNANDEZ, HUGO",
+    "CISNEROS LEAL, ADRIAN",
+    "SANCHO POMPOSO, ALVARO",
+    "GARCIA BLANCO, PABLO"
   ],
   "jugadores_visitante": [
     "GANDARA MARTINEZ, HUGO",
@@ -160,33 +155,94 @@
     "RODRIGUEZ URCELAY, DORIAN",
     "MARTINEZ CALVO, HUGO",
     "ALVAREZ CARRANCEJA, JORGE",
-    "FERNANDEZ ZARCO, SAUL"
+    "FERNANDEZ ZARCO, SAUL",
+    "DIEZ MARTINEZ, JACOBO",
+    "QUINTANA CALDERON, MARCOS",
+    "BARBA AGENJO, ADRIAN",
+    "URRUTIA RODRIGUEZ, JON",
+    "GUTIERREZ GONZALEZ, JAIME"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 66,
+      "entra": "MATA FERNANDEZ, HUGO",
+      "sale": "JURNA ANERO, LEONARDO"
+    },
+    {
+      "min": 66,
+      "entra": "CISNEROS LEAL, ADRIAN",
+      "sale": "CANALES VILLA, IKER"
+    },
+    {
+      "min": 74,
+      "entra": "SANCHO POMPOSO, ALVARO",
+      "sale": "FERNANDEZ FABERO, MARIO"
+    },
+    {
+      "min": 81,
+      "entra": "GARCIA BLANCO, PABLO",
+      "sale": "URIBE DELGADO, BRUNO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "DIEZ MARTINEZ, JACOBO",
+      "sale": "HERRERA BUENO, HUGO"
+    },
+    {
+      "min": 60,
+      "entra": "QUINTANA CALDERON, MARCOS",
+      "sale": "DE LA HERRANZ HELGUERA, BRUNO"
+    },
+    {
+      "min": 73,
+      "entra": "BARBA AGENJO, ADRIAN",
+      "sale": "RODRIGUEZ URCELAY, DORIAN"
+    },
+    {
+      "min": 73,
+      "entra": "URRUTIA RODRIGUEZ, JON",
+      "sale": "ALVAREZ CARRANCEJA, JORGE"
+    },
+    {
+      "min": 75,
+      "entra": "GUTIERREZ GONZALEZ, JAIME",
+      "sale": "FERNANDEZ ZARCO, SAUL"
+    }
+  ],
   "minutos_jugadores": {
     "CARRASCAL GARCIA, ELIAS": 90,
     "FRANCO CAMPILLO, IVAN": 90,
     "GOMEZ RIVA, PABLO": 90,
     "CAVIA BUENDIA, NICOLAS": 90,
     "ALVAREZ CORONA, AARON": 90,
-    "JURNA ANERO, LEONARDO": 90,
+    "JURNA ANERO, LEONARDO": 66,
     "SOBERON GARCIA, MARCOS": 90,
-    "URIBE DELGADO, BRUNO": 90,
-    "FERNANDEZ FABERO, MARIO": 90,
+    "URIBE DELGADO, BRUNO": 81,
+    "FERNANDEZ FABERO, MARIO": 74,
     "FERNANDEZ COBO, SAMUEL": 90,
-    "CANALES VILLA, IKER": 90,
+    "CANALES VILLA, IKER": 66,
     "GANDARA MARTINEZ, HUGO": 90,
     "FRAILE LOPEZ, GAEL": 90,
-    "HERRERA BUENO, HUGO": 90,
+    "HERRERA BUENO, HUGO": 60,
     "TORRE ARCO, CESAR": 90,
-    "DE LA HERRANZ HELGUERA, BRUNO": 90,
+    "DE LA HERRANZ HELGUERA, BRUNO": 60,
     "YELA GONZALEZ, MAURICIO": 90,
     "FERNANDEZ IZARA, LORENZO": 90,
-    "RODRIGUEZ URCELAY, DORIAN": 90,
+    "RODRIGUEZ URCELAY, DORIAN": 73,
     "MARTINEZ CALVO, HUGO": 90,
-    "ALVAREZ CARRANCEJA, JORGE": 90,
-    "FERNANDEZ ZARCO, SAUL": 90
+    "ALVAREZ CARRANCEJA, JORGE": 73,
+    "FERNANDEZ ZARCO, SAUL": 75,
+    "MATA FERNANDEZ, HUGO": 24,
+    "CISNEROS LEAL, ADRIAN": 24,
+    "SANCHO POMPOSO, ALVARO": 16,
+    "GARCIA BLANCO, PABLO": 9,
+    "DIEZ MARTINEZ, JACOBO": 30,
+    "QUINTANA CALDERON, MARCOS": 30,
+    "BARBA AGENJO, ADRIAN": 17,
+    "URRUTIA RODRIGUEZ, JON": 17,
+    "GUTIERREZ GONZALEZ, JAIME": 15
   },
   "portero_local": "CARRASCAL GARCIA, ELIAS",
   "portero_visitante": "GANDARA MARTINEZ, HUGO",
@@ -216,6 +272,5 @@
     "ALVAREZ CARRANCEJA, JORGE": 21,
     "FERNANDEZ ZARCO, SAUL": 22
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
