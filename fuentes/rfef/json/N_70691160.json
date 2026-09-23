@@ -10,8 +10,8 @@
   "equipo_local": "TURIA BEACH SOCCER CLUB",
   "equipo_visitante": "BLACK WOLF ACADEMY",
   "goles_local": 2,
-  "goles_visitante": 0,
-  "resultado": "W",
+  "goles_visitante": 2,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "ORTEGA GIL, RUBEN",
@@ -236,5 +236,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
