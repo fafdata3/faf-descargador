@@ -9,7 +9,7 @@
   "categoria": "Division de Honor Juvenil (Grupo 2)",
   "equipo_local": "ATHLETIC CLUB",
   "equipo_visitante": "UNION DEPORTIVA LOGROÑES",
-  "goles_local": 4,
+  "goles_local": 6,
   "goles_visitante": 0,
   "resultado": "W",
   "arbitros": [
@@ -50,13 +50,13 @@
     {
       "minuto": 80,
       "jugador": "ARAMBURU LOYARTE, BEÑAT",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     },
     {
       "minuto": 83,
       "jugador": "SARR FAYE, CHEIKH OUMAR",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     }
   ],
@@ -172,21 +172,11 @@
   ],
   "convocados_sin_jugar_local": [
     "OTAEGI KRUTXAGA, GAIZKA",
-    "ZUBIAGA BRIGOLE, OIHAN",
-    "ARRIAGA MORENO, TELMO",
-    "VILLA LOPEZ, UNAX",
-    "SANTAMARIA LOROÑO, ENEKO",
-    "SARR FAYE, CHEIKH OUMAR",
-    "ARAMBURU LOYARTE, BEÑAT"
+    "ZUBIAGA BRIGOLE, OIHAN"
   ],
   "convocados_sin_jugar_visitante": [
     "ALCALDE ALESANCO, ALEJANDRO",
-    "LABEAGA GARCIA, DIEGO",
-    "LLORENTE LOPEZ, RAUL",
-    "GONZALEZ ZAIDI L, ISMAEL",
-    "GIL ESCUDERO, OLIVER",
-    "GALBARRO CASTILLO, JUAN PABLO",
-    "MAGAN PUÑAL, DANIEL"
+    "GONZALEZ ZAIDI L, ISMAEL"
   ],
   "jugadores_local": [
     "SAINZ CUEVAS, URKO",
@@ -199,7 +189,12 @@
     "ECHEVERRIA ARQUERO, JOANNES",
     "GARCIA MARTIN, MATEO",
     "CISSE, YANN ISMAEL",
-    "ESNAOLA AGAEN, ALEX"
+    "ESNAOLA AGAEN, ALEX",
+    "VILLA LOPEZ, UNAX",
+    "ARAMBURU LOYARTE, BEÑAT",
+    "SARR FAYE, CHEIKH OUMAR",
+    "ARRIAGA MORENO, TELMO",
+    "SANTAMARIA LOROÑO, ENEKO"
   ],
   "jugadores_visitante": [
     "BENITEZ AVILES, DAVID",
@@ -212,33 +207,100 @@
     "LATORRE IBARROLA, MARTIN",
     "RECIO ALCALDE, DAVID",
     "ANTICH SERRANO, CHRISTIAN",
-    "MENDINUETA PEREZ DE VILLARREAL, ADEI"
+    "MENDINUETA PEREZ DE VILLARREAL, ADEI",
+    "GALBARRO CASTILLO, JUAN PABLO",
+    "LLORENTE LOPEZ, RAUL",
+    "GIL ESCUDERO, OLIVER",
+    "LABEAGA GARCIA, DIEGO",
+    "MAGAN PUÑAL, DANIEL"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "VILLA LOPEZ, UNAX",
+      "sale": "AGUIRRE GIES, OSCAR"
+    },
+    {
+      "min": 58,
+      "entra": "ARAMBURU LOYARTE, BEÑAT",
+      "sale": "ESNAOLA AGAEN, ALEX"
+    },
+    {
+      "min": 58,
+      "entra": "SARR FAYE, CHEIKH OUMAR",
+      "sale": "CISSE, YANN ISMAEL"
+    },
+    {
+      "min": 61,
+      "entra": "ARRIAGA MORENO, TELMO",
+      "sale": "ASPIUNZA BARRENETXEA, AIMAR"
+    },
+    {
+      "min": 72,
+      "entra": "SANTAMARIA LOROÑO, ENEKO",
+      "sale": "FUENTES NACHIONDO, AXULAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "GALBARRO CASTILLO, JUAN PABLO",
+      "sale": "RECIO ALCALDE, DAVID"
+    },
+    {
+      "min": 46,
+      "entra": "LLORENTE LOPEZ, RAUL",
+      "sale": "BERASATEGI HERNANDEZ, JULEN"
+    },
+    {
+      "min": 46,
+      "entra": "GIL ESCUDERO, OLIVER",
+      "sale": "PASTORIZA DALMAU, MATEO"
+    },
+    {
+      "min": 65,
+      "entra": "LABEAGA GARCIA, DIEGO",
+      "sale": "LATORRE IBARROLA, MARTIN"
+    },
+    {
+      "min": 72,
+      "entra": "MAGAN PUÑAL, DANIEL",
+      "sale": "ANTICH SERRANO, CHRISTIAN"
+    }
+  ],
   "minutos_jugadores": {
     "SAINZ CUEVAS, URKO": 90,
-    "FUENTES NACHIONDO, AXULAR": 90,
-    "ASPIUNZA BARRENETXEA, AIMAR": 90,
+    "FUENTES NACHIONDO, AXULAR": 72,
+    "ASPIUNZA BARRENETXEA, AIMAR": 61,
     "ZABALA SARASOLA, JAVIER": 90,
     "REGULEZ VENTURA, JAVIER": 90,
     "MARIN GARCIA, RUBEN": 90,
-    "AGUIRRE GIES, OSCAR": 90,
+    "AGUIRRE GIES, OSCAR": 58,
     "ECHEVERRIA ARQUERO, JOANNES": 90,
     "GARCIA MARTIN, MATEO": 90,
-    "CISSE, YANN ISMAEL": 90,
-    "ESNAOLA AGAEN, ALEX": 90,
+    "CISSE, YANN ISMAEL": 58,
+    "ESNAOLA AGAEN, ALEX": 58,
     "BENITEZ AVILES, DAVID": 90,
     "PEREZ FERNANDEZ, JOSEBA": 90,
     "RODRIGO LARRAÑAGA, JON": 90,
     "GARCIA CARRANZA SANZ, LUIS": 90,
     "LAFONT ALONSO, MATIAS": 90,
-    "BERASATEGI HERNANDEZ, JULEN": 90,
-    "PASTORIZA DALMAU, MATEO": 90,
-    "LATORRE IBARROLA, MARTIN": 90,
-    "RECIO ALCALDE, DAVID": 90,
-    "ANTICH SERRANO, CHRISTIAN": 90,
-    "MENDINUETA PEREZ DE VILLARREAL, ADEI": 90
+    "BERASATEGI HERNANDEZ, JULEN": 46,
+    "PASTORIZA DALMAU, MATEO": 46,
+    "LATORRE IBARROLA, MARTIN": 65,
+    "RECIO ALCALDE, DAVID": 46,
+    "ANTICH SERRANO, CHRISTIAN": 72,
+    "MENDINUETA PEREZ DE VILLARREAL, ADEI": 90,
+    "VILLA LOPEZ, UNAX": 32,
+    "ARAMBURU LOYARTE, BEÑAT": 32,
+    "SARR FAYE, CHEIKH OUMAR": 32,
+    "ARRIAGA MORENO, TELMO": 29,
+    "SANTAMARIA LOROÑO, ENEKO": 18,
+    "GALBARRO CASTILLO, JUAN PABLO": 44,
+    "LLORENTE LOPEZ, RAUL": 44,
+    "GIL ESCUDERO, OLIVER": 44,
+    "LABEAGA GARCIA, DIEGO": 25,
+    "MAGAN PUÑAL, DANIEL": 18
   },
   "portero_local": "SAINZ CUEVAS, URKO",
   "portero_visitante": "BENITEZ AVILES, DAVID",
@@ -270,5 +332,6 @@
   },
   "suspendidos": [
     "PEREZ FERNANDEZ, JOSEBA"
-  ]
+  ],
+  "_marcador_widget": true
 }
