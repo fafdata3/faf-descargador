@@ -1,0 +1,268 @@
+{
+  "acta_id": "C_239978",
+  "filename": "Acta_C_239978.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "19-09-2026",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "AYRON CLUB A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SÁNCHEZ LÓPEZ, MARCO"
+  ],
+  "estadio": "Vargas",
+  "ciudad": "Puente Viesgo",
+  "goleadores": [
+    {
+      "minuto": 35,
+      "jugador": "GONZALEZ PEÑA, MARCOS",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "SECADAS BARQUIN, DIEGO",
+      "equipo": "visitante",
+      "propia": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "ARCE ACEREDA, JORGE",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "EZZEKRAOUI BENELGOUSSA, RIAD",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "ESTRADA ISASI, IAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "GOMEZ MIER, MARCOS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "LEPADATU, FABIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "YUDEGO FERNANDEZ, PABLO",
+  "entrenador_visitante": "HERRERIA LANZA, LUIS ANDRES",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "HERRERIA SAINZ, ALEJANDRO",
+  "titulares_local": [
+    "GUTIERREZ MANTECON, HECTOR",
+    "VELO RUIZ, HUGO",
+    "RUIZ ALONSO, ANTONIO",
+    "ALCALDE GREGOROVA, MARK",
+    "EZZEKRAOUI BENELGOUSSA, RIAD",
+    "ARCE ACEREDA, JORGE",
+    "GARCIA SECO, ALEJANDRO",
+    "PORTILLA JARA, IKER",
+    "SANTALLA PEREZ, JORGE",
+    "GOMEZ TOCA, RAÚL",
+    "SAIZ LOPEZ, LUCAS"
+  ],
+  "titulares_visitante": [
+    "SADA GUTIERREZ, ALEJANDRO",
+    "MAZAS RODRIGUEZ, DIEGO",
+    "GOMEZ MIER, MARCOS",
+    "GUTIERREZ MARTIN, PABLO",
+    "LEPADATU, FABIAN",
+    "QUINTANA SOLORZANO, SERGIO",
+    "BARQUIN LOPEZ, JUAN",
+    "SECADAS BARQUIN, DIEGO",
+    "GONZALEZ PEÑA, MARCOS",
+    "SETIEN GUTIERREZ, DARIO",
+    "LANZA CAVIEDES, JORGE"
+  ],
+  "suplentes_local": [
+    "GARCIA PUERTO, IAN",
+    "GUTIERREZ TORRE, MARCO",
+    "CHAO SERRANO, DARIO",
+    "VILLEGAS CARRAL, NICOLAS",
+    "MARTINEZ PEÑA, GUZMAN"
+  ],
+  "suplentes_visitante": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "LAVIN AGUERO, CRISTIAN",
+    "ESTRADA ISASI, IAN",
+    "ABASCAL BARQUIN, ALVARO",
+    "LIAÑO TORRES, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA PUERTO, IAN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GUTIERREZ MANTECON, HECTOR",
+    "VELO RUIZ, HUGO",
+    "RUIZ ALONSO, ANTONIO",
+    "ALCALDE GREGOROVA, MARK",
+    "EZZEKRAOUI BENELGOUSSA, RIAD",
+    "ARCE ACEREDA, JORGE",
+    "GARCIA SECO, ALEJANDRO",
+    "PORTILLA JARA, IKER",
+    "SANTALLA PEREZ, JORGE",
+    "GOMEZ TOCA, RAÚL",
+    "SAIZ LOPEZ, LUCAS",
+    "MARTINEZ PEÑA, GUZMAN",
+    "CHAO SERRANO, DARIO",
+    "VILLEGAS CARRAL, NICOLAS",
+    "GUTIERREZ TORRE, MARCO"
+  ],
+  "jugadores_visitante": [
+    "SADA GUTIERREZ, ALEJANDRO",
+    "MAZAS RODRIGUEZ, DIEGO",
+    "GOMEZ MIER, MARCOS",
+    "GUTIERREZ MARTIN, PABLO",
+    "LEPADATU, FABIAN",
+    "QUINTANA SOLORZANO, SERGIO",
+    "BARQUIN LOPEZ, JUAN",
+    "SECADAS BARQUIN, DIEGO",
+    "GONZALEZ PEÑA, MARCOS",
+    "SETIEN GUTIERREZ, DARIO",
+    "LANZA CAVIEDES, JORGE",
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "ESTRADA ISASI, IAN",
+    "ABASCAL BARQUIN, ALVARO",
+    "LIAÑO TORRES, DIEGO",
+    "LAVIN AGUERO, CRISTIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "MARTINEZ PEÑA, GUZMAN",
+      "sale": "SANTALLA PEREZ, JORGE"
+    },
+    {
+      "min": 51,
+      "entra": "CHAO SERRANO, DARIO",
+      "sale": "SAIZ LOPEZ, LUCAS"
+    },
+    {
+      "min": 64,
+      "entra": "VILLEGAS CARRAL, NICOLAS",
+      "sale": "EZZEKRAOUI BENELGOUSSA, RIAD"
+    },
+    {
+      "min": 68,
+      "entra": "GUTIERREZ TORRE, MARCO",
+      "sale": "PORTILLA JARA, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "ROMILA VASILACHE, ALEJANDRO ANDREI",
+      "sale": "SADA GUTIERREZ, ALEJANDRO"
+    },
+    {
+      "min": 44,
+      "entra": "ESTRADA ISASI, IAN",
+      "sale": "SETIEN GUTIERREZ, DARIO"
+    },
+    {
+      "min": 46,
+      "entra": "ABASCAL BARQUIN, ALVARO",
+      "sale": "MAZAS RODRIGUEZ, DIEGO"
+    },
+    {
+      "min": 56,
+      "entra": "LIAÑO TORRES, DIEGO",
+      "sale": "SECADAS BARQUIN, DIEGO"
+    },
+    {
+      "min": 76,
+      "entra": "LAVIN AGUERO, CRISTIAN",
+      "sale": "LEPADATU, FABIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "GUTIERREZ MANTECON, HECTOR": 90,
+    "VELO RUIZ, HUGO": 90,
+    "RUIZ ALONSO, ANTONIO": 90,
+    "ALCALDE GREGOROVA, MARK": 90,
+    "EZZEKRAOUI BENELGOUSSA, RIAD": 64,
+    "ARCE ACEREDA, JORGE": 90,
+    "GARCIA SECO, ALEJANDRO": 90,
+    "PORTILLA JARA, IKER": 68,
+    "SANTALLA PEREZ, JORGE": 46,
+    "GOMEZ TOCA, RAÚL": 90,
+    "SAIZ LOPEZ, LUCAS": 51,
+    "MARTINEZ PEÑA, GUZMAN": 44,
+    "CHAO SERRANO, DARIO": 39,
+    "VILLEGAS CARRAL, NICOLAS": 26,
+    "GUTIERREZ TORRE, MARCO": 22,
+    "SADA GUTIERREZ, ALEJANDRO": 40,
+    "MAZAS RODRIGUEZ, DIEGO": 46,
+    "GOMEZ MIER, MARCOS": 90,
+    "GUTIERREZ MARTIN, PABLO": 90,
+    "LEPADATU, FABIAN": 76,
+    "QUINTANA SOLORZANO, SERGIO": 90,
+    "BARQUIN LOPEZ, JUAN": 90,
+    "SECADAS BARQUIN, DIEGO": 56,
+    "GONZALEZ PEÑA, MARCOS": 90,
+    "SETIEN GUTIERREZ, DARIO": 44,
+    "LANZA CAVIEDES, JORGE": 90,
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 50,
+    "ESTRADA ISASI, IAN": 46,
+    "ABASCAL BARQUIN, ALVARO": 44,
+    "LIAÑO TORRES, DIEGO": 34,
+    "LAVIN AGUERO, CRISTIAN": 14
+  },
+  "portero_local": "GUTIERREZ MANTECON, HECTOR",
+  "portero_visitante": "SADA GUTIERREZ, ALEJANDRO",
+  "dorsales_local": {
+    "GUTIERREZ MANTECON, HECTOR": 13,
+    "VELO RUIZ, HUGO": 3,
+    "RUIZ ALONSO, ANTONIO": 7,
+    "ALCALDE GREGOROVA, MARK": 8,
+    "EZZEKRAOUI BENELGOUSSA, RIAD": 9,
+    "ARCE ACEREDA, JORGE": 10,
+    "GARCIA SECO, ALEJANDRO": 11,
+    "PORTILLA JARA, IKER": 15,
+    "SANTALLA PEREZ, JORGE": 17,
+    "GOMEZ TOCA, RAÚL": 18,
+    "SAIZ LOPEZ, LUCAS": 20
+  },
+  "dorsales_visitante": {
+    "SADA GUTIERREZ, ALEJANDRO": 1,
+    "MAZAS RODRIGUEZ, DIEGO": 3,
+    "GOMEZ MIER, MARCOS": 4,
+    "GUTIERREZ MARTIN, PABLO": 5,
+    "LEPADATU, FABIAN": 6,
+    "QUINTANA SOLORZANO, SERGIO": 8,
+    "BARQUIN LOPEZ, JUAN": 9,
+    "SECADAS BARQUIN, DIEGO": 10,
+    "GONZALEZ PEÑA, MARCOS": 11,
+    "SETIEN GUTIERREZ, DARIO": 18,
+    "LANZA CAVIEDES, JORGE": 20
+  },
+  "suspendidos": []
+}
