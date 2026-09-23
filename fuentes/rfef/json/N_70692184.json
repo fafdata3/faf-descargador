@@ -127,20 +127,12 @@
   ],
   "convocados_sin_jugar_local": [
     "CARRASCAL GARCIA, ELIAS",
-    "MATA FERNANDEZ, HUGO",
     "GUTIERREZ ZUBILLAGA, VICTOR",
-    "SOBERON GARCIA, MARCOS",
-    "SANCHO POMPOSO, ALVARO",
-    "GARCIA BLANCO, PABLO",
     "PORTILLA CAMUS, ALEJANDRO"
   ],
   "convocados_sin_jugar_visitante": [
     "GONZALEZ GARCIA, MIGUEL",
-    "MONTERO BASANTA, MARCOS",
     "MOLINA EIRIS, PABLO",
-    "SILVA RODRIGUEZ, ANDRES",
-    "SUAREZ FERNANDEZ, JUAN",
-    "CORTEGAZA FERNANDEZ, BORJA",
     "DÍAZ VALÍN, DIEGO ANTONIO"
   ],
   "jugadores_local": [
@@ -154,7 +146,11 @@
     "FERNANDEZ COBO, SAMUEL",
     "FERNANDEZ FABERO, MARIO",
     "CISNEROS LEAL, ADRIAN",
-    "CANALES VILLA, IKER"
+    "CANALES VILLA, IKER",
+    "SOBERON GARCIA, MARCOS",
+    "MATA FERNANDEZ, HUGO",
+    "GARCIA BLANCO, PABLO",
+    "SANCHO POMPOSO, ALVARO"
   ],
   "jugadores_visitante": [
     "RAMALLAL VAZQUEZ, PAULO",
@@ -167,33 +163,87 @@
     "ROCHA ÁLVAREZ, MARIO",
     "MARTINEZ ROMAY, CRISTHIAN",
     "CASTRO RODRIGUEZ, ANXO",
-    "FERNANDEZ PICON, BRAIS"
+    "FERNANDEZ PICON, BRAIS",
+    "MONTERO BASANTA, MARCOS",
+    "SUAREZ FERNANDEZ, JUAN",
+    "SILVA RODRIGUEZ, ANDRES",
+    "CORTEGAZA FERNANDEZ, BORJA"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "SOBERON GARCIA, MARCOS",
+      "sale": "CISNEROS LEAL, ADRIAN"
+    },
+    {
+      "min": 62,
+      "entra": "MATA FERNANDEZ, HUGO",
+      "sale": "URIBE DELGADO, BRUNO"
+    },
+    {
+      "min": 62,
+      "entra": "GARCIA BLANCO, PABLO",
+      "sale": "ALVAREZ CORONA, AARON"
+    },
+    {
+      "min": 77,
+      "entra": "SANCHO POMPOSO, ALVARO",
+      "sale": "FERNANDEZ FABERO, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "MONTERO BASANTA, MARCOS",
+      "sale": "ROCHA ÁLVAREZ, MARIO"
+    },
+    {
+      "min": 68,
+      "entra": "SUAREZ FERNANDEZ, JUAN",
+      "sale": "CASTRO RODRIGUEZ, ANXO"
+    },
+    {
+      "min": 68,
+      "entra": "SILVA RODRIGUEZ, ANDRES",
+      "sale": "VEGA ANDEON, URIEL"
+    },
+    {
+      "min": 84,
+      "entra": "CORTEGAZA FERNANDEZ, BORJA",
+      "sale": "MARTINEZ ROMAY, CRISTHIAN"
+    }
+  ],
   "minutos_jugadores": {
     "LOPEZ PEREZ, MIGUEL ANGEL": 90,
     "FRANCO CAMPILLO, IVAN": 90,
     "GOMEZ RIVA, PABLO": 90,
     "CAVIA BUENDIA, NICOLAS": 90,
-    "ALVAREZ CORONA, AARON": 90,
+    "ALVAREZ CORONA, AARON": 62,
     "JURNA ANERO, LEONARDO": 90,
-    "URIBE DELGADO, BRUNO": 90,
+    "URIBE DELGADO, BRUNO": 62,
     "FERNANDEZ COBO, SAMUEL": 90,
-    "FERNANDEZ FABERO, MARIO": 90,
-    "CISNEROS LEAL, ADRIAN": 90,
+    "FERNANDEZ FABERO, MARIO": 77,
+    "CISNEROS LEAL, ADRIAN": 45,
     "CANALES VILLA, IKER": 90,
     "RAMALLAL VAZQUEZ, PAULO": 90,
     "RODRIGUEZ ABAD, DANIEL": 90,
     "DOMÍNGUEZ BUA, MATEO": 90,
     "ARMESTO DÍAZ, YAGO": 90,
     "PÉREZ EDROSA, ADRIÁN": 90,
-    "VEGA ANDEON, URIEL": 90,
+    "VEGA ANDEON, URIEL": 68,
     "SALAZAR ABARRATEGUI, ANDER": 90,
-    "ROCHA ÁLVAREZ, MARIO": 90,
-    "MARTINEZ ROMAY, CRISTHIAN": 90,
-    "CASTRO RODRIGUEZ, ANXO": 90,
-    "FERNANDEZ PICON, BRAIS": 90
+    "ROCHA ÁLVAREZ, MARIO": 45,
+    "MARTINEZ ROMAY, CRISTHIAN": 84,
+    "CASTRO RODRIGUEZ, ANXO": 68,
+    "FERNANDEZ PICON, BRAIS": 90,
+    "SOBERON GARCIA, MARCOS": 45,
+    "MATA FERNANDEZ, HUGO": 28,
+    "GARCIA BLANCO, PABLO": 28,
+    "SANCHO POMPOSO, ALVARO": 13,
+    "MONTERO BASANTA, MARCOS": 45,
+    "SUAREZ FERNANDEZ, JUAN": 22,
+    "SILVA RODRIGUEZ, ANDRES": 22,
+    "CORTEGAZA FERNANDEZ, BORJA": 6
   },
   "portero_local": "LOPEZ PEREZ, MIGUEL ANGEL",
   "portero_visitante": "RAMALLAL VAZQUEZ, PAULO",
