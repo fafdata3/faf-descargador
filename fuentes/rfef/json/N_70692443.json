@@ -32,25 +32,25 @@
     {
       "minuto": 68,
       "jugador": "URRESTI RECIO, ALEX JHOVANNY",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     },
     {
       "minuto": 77,
       "jugador": "REGO MORA, DIEGO",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     },
     {
       "minuto": 88,
       "jugador": "DE LUCAS GARCÍA, PABLO",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     },
     {
       "minuto": 89,
       "jugador": "FOFANA, KAMBOU ABOUBACAR SIDIK",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     }
   ],
@@ -159,21 +159,11 @@
   ],
   "convocados_sin_jugar_local": [
     "ESTEBAN SAN ROMAN, ANGEL",
-    "FERNANDEZ BURGOS, JESUS",
-    "REGO MORA, DIEGO",
-    "ESPINOSA ORRANTIA, MARKEL",
-    "URRESTI RECIO, ALEX JHOVANNY",
-    "IRAZABAL VADILLO, LINO",
-    "RODRIGUEZ ALVAREZ, SENDOA"
+    "IRAZABAL VADILLO, LINO"
   ],
   "convocados_sin_jugar_visitante": [
     "MARTÍNEZ BARRIO, JUAN",
-    "PEREZ ALMARAZ, JORGE",
-    "DE LUCAS GARCÍA, PABLO",
-    "ESCALADA MARTINEZ, ALEJANDRO",
-    "FOFANA, KAMBOU ABOUBACAR SIDIK",
-    "KANTA, MOHAMED",
-    "DIAGNE SARR, MAMADOU LAMINE"
+    "PEREZ ALMARAZ, JORGE"
   ],
   "jugadores_local": [
     "ALONSO TORRECILLA, VICTOR",
@@ -186,7 +176,12 @@
     "DUQUE MICOLTA, URTZI",
     "ORTEGA HENALES, IBAI",
     "ASUMU ANGONO, SERGIO NDONG",
-    "LEON GARCIA, LUCAS"
+    "LEON GARCIA, LUCAS",
+    "RODRIGUEZ ALVAREZ, SENDOA",
+    "ESPINOSA ORRANTIA, MARKEL",
+    "REGO MORA, DIEGO",
+    "URRESTI RECIO, ALEX JHOVANNY",
+    "FERNANDEZ BURGOS, JESUS"
   ],
   "jugadores_visitante": [
     "MIHAYLOV, STEFAN STEFANOV",
@@ -199,33 +194,100 @@
     "ZAPATERO FERNANDEZ, ALEJANDRO",
     "IGUAZ OLMOS, ALEJANDRO",
     "MERINO CAPARROS, SERGIO",
-    "REDONDO VELASCO, MIGUEL"
+    "REDONDO VELASCO, MIGUEL",
+    "DIAGNE SARR, MAMADOU LAMINE",
+    "DE LUCAS GARCÍA, PABLO",
+    "FOFANA, KAMBOU ABOUBACAR SIDIK",
+    "ESCALADA MARTINEZ, ALEJANDRO",
+    "KANTA, MOHAMED"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "RODRIGUEZ ALVAREZ, SENDOA",
+      "sale": "ORTEGA HENALES, IBAI"
+    },
+    {
+      "min": 55,
+      "entra": "ESPINOSA ORRANTIA, MARKEL",
+      "sale": "QUIROGA FERNANDEZ, AIMAR"
+    },
+    {
+      "min": 66,
+      "entra": "REGO MORA, DIEGO",
+      "sale": "GARCIA FERNANDEZ, OIER"
+    },
+    {
+      "min": 66,
+      "entra": "URRESTI RECIO, ALEX JHOVANNY",
+      "sale": "CABALLERO TENA, DIEGO"
+    },
+    {
+      "min": 84,
+      "entra": "FERNANDEZ BURGOS, JESUS",
+      "sale": "EGUIDAZU PINILLA, ASIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "DIAGNE SARR, MAMADOU LAMINE",
+      "sale": "FERNÁNDEZ CRUZ, MARCOS"
+    },
+    {
+      "min": 71,
+      "entra": "DE LUCAS GARCÍA, PABLO",
+      "sale": "MERINO CAPARROS, SERGIO"
+    },
+    {
+      "min": 71,
+      "entra": "FOFANA, KAMBOU ABOUBACAR SIDIK",
+      "sale": "SYLLA, VASSERI"
+    },
+    {
+      "min": 82,
+      "entra": "ESCALADA MARTINEZ, ALEJANDRO",
+      "sale": "REDONDO VELASCO, MIGUEL"
+    },
+    {
+      "min": 82,
+      "entra": "KANTA, MOHAMED",
+      "sale": "MARTIN SERNA, MARIO"
+    }
+  ],
   "minutos_jugadores": {
     "ALONSO TORRECILLA, VICTOR": 90,
-    "QUIROGA FERNANDEZ, AIMAR": 90,
-    "GARCIA FERNANDEZ, OIER": 90,
-    "CABALLERO TENA, DIEGO": 90,
+    "QUIROGA FERNANDEZ, AIMAR": 55,
+    "GARCIA FERNANDEZ, OIER": 66,
+    "CABALLERO TENA, DIEGO": 66,
     "GIRALDO AMAYA, SEBASTIAN": 90,
-    "EGUIDAZU PINILLA, ASIER": 90,
+    "EGUIDAZU PINILLA, ASIER": 84,
     "PORTILLO RUBIN, XABIER": 90,
     "DUQUE MICOLTA, URTZI": 90,
-    "ORTEGA HENALES, IBAI": 90,
+    "ORTEGA HENALES, IBAI": 55,
     "ASUMU ANGONO, SERGIO NDONG": 90,
     "LEON GARCIA, LUCAS": 90,
     "MIHAYLOV, STEFAN STEFANOV": 90,
     "GARCÍA JIMÉNEZ, ÁLVARO": 90,
     "BENITEZ HUSILLOS, CARLOS": 90,
     "MOLLEDA ALONSO, KILIAN": 90,
-    "SYLLA, VASSERI": 90,
-    "MARTIN SERNA, MARIO": 90,
-    "FERNÁNDEZ CRUZ, MARCOS": 90,
+    "SYLLA, VASSERI": 71,
+    "MARTIN SERNA, MARIO": 82,
+    "FERNÁNDEZ CRUZ, MARCOS": 53,
     "ZAPATERO FERNANDEZ, ALEJANDRO": 90,
     "IGUAZ OLMOS, ALEJANDRO": 90,
-    "MERINO CAPARROS, SERGIO": 90,
-    "REDONDO VELASCO, MIGUEL": 90
+    "MERINO CAPARROS, SERGIO": 71,
+    "REDONDO VELASCO, MIGUEL": 82,
+    "RODRIGUEZ ALVAREZ, SENDOA": 35,
+    "ESPINOSA ORRANTIA, MARKEL": 35,
+    "REGO MORA, DIEGO": 24,
+    "URRESTI RECIO, ALEX JHOVANNY": 24,
+    "FERNANDEZ BURGOS, JESUS": 6,
+    "DIAGNE SARR, MAMADOU LAMINE": 37,
+    "DE LUCAS GARCÍA, PABLO": 19,
+    "FOFANA, KAMBOU ABOUBACAR SIDIK": 19,
+    "ESCALADA MARTINEZ, ALEJANDRO": 8,
+    "KANTA, MOHAMED": 8
   },
   "portero_local": "ALONSO TORRECILLA, VICTOR",
   "portero_visitante": "MIHAYLOV, STEFAN STEFANOV",
@@ -255,6 +317,5 @@
     "MERINO CAPARROS, SERGIO": 10,
     "REDONDO VELASCO, MIGUEL": 11
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
