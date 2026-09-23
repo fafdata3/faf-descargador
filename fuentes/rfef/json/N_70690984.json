@@ -10,8 +10,8 @@
   "equipo_local": "FUTBOL PLAYA HUELVA C.D.",
   "equipo_visitante": "BARRIADA LA PLAYA C.D.",
   "goles_local": 1,
-  "goles_visitante": 0,
-  "resultado": "W",
+  "goles_visitante": 1,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "MARTÍNEZ IBÁÑEZ, ALEJANDRO",
@@ -154,5 +154,6 @@
     "EL BASSRI CHAABOUCHI, RIDUAN": 11,
     "TORRES MEDINA, JAVIER": 14
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
