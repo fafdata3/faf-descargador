@@ -32,7 +32,7 @@
     {
       "minuto": 50,
       "jugador": "BERASATEGI HERNANDEZ, JULEN",
-      "equipo": "?",
+      "equipo": "visitante",
       "propia": false
     },
     {
@@ -158,21 +158,12 @@
     "LOPEZ PEREZ, OIER"
   ],
   "convocados_sin_jugar_local": [
-    "GUTIERREZ BLANCO, JOSE",
-    "GARRIDO OLIVAN, ISMAEL",
-    "FERNÁNDEZ SIERRA, LUCAS",
-    "VITORES SAEZ, MARIO",
-    "SAENZ FERNANDEZ, ALVARO",
-    "GARCIA VILLAREAL, ADRIAN"
+    "GUTIERREZ BLANCO, JOSE"
   ],
   "convocados_sin_jugar_visitante": [
     "BENITEZ AVILES, DAVID",
     "MARTINEZ SANZ, IKER",
-    "GARCIA CARRANZA SANZ, LUIS",
-    "BERASATEGI HERNANDEZ, JULEN",
-    "LATORRE IBARROLA, MARTIN",
-    "CARBONERAS ROYO, DANIEL",
-    "LOPEZ PEREZ, OIER"
+    "GARCIA CARRANZA SANZ, LUIS"
   ],
   "jugadores_local": [
     "RUIZ DA CRUZ, DAVID",
@@ -185,7 +176,12 @@
     "MARIN NOGUERA, ALVARO",
     "GARCIA CASTILLO, DANIEL",
     "DE MIGUEL LLORACH, ERIC",
-    "FERNANDEZ NESTARES, SAUL"
+    "FERNANDEZ NESTARES, SAUL",
+    "SAENZ FERNANDEZ, ALVARO",
+    "FERNÁNDEZ SIERRA, LUCAS",
+    "GARCIA VILLAREAL, ADRIAN",
+    "GARRIDO OLIVAN, ISMAEL",
+    "VITORES SAEZ, MARIO"
   ],
   "jugadores_visitante": [
     "ALCALDE ALESANCO, ALEJANDRO",
@@ -198,33 +194,93 @@
     "GIL ESCUDERO, OLIVER",
     "GALBARRO CASTILLO, JUAN PABLO",
     "ANTICH SERRANO, CHRISTIAN",
-    "MENDINUETA PEREZ DE VILLARREAL, ADEI"
+    "MENDINUETA PEREZ DE VILLARREAL, ADEI",
+    "LATORRE IBARROLA, MARTIN",
+    "BERASATEGI HERNANDEZ, JULEN",
+    "LOPEZ PEREZ, OIER",
+    "CARBONERAS ROYO, DANIEL"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 67,
+      "entra": "SAENZ FERNANDEZ, ALVARO",
+      "sale": "MARIN NOGUERA, ALVARO"
+    },
+    {
+      "min": 67,
+      "entra": "FERNÁNDEZ SIERRA, LUCAS",
+      "sale": "FABIAN HERRAIZ, PABLO"
+    },
+    {
+      "min": 80,
+      "entra": "GARCIA VILLAREAL, ADRIAN",
+      "sale": "GARCIA CASTILLO, DANIEL"
+    },
+    {
+      "min": 80,
+      "entra": "GARRIDO OLIVAN, ISMAEL",
+      "sale": "ARRIAGA RUIZ E, MIKEL"
+    },
+    {
+      "min": 90,
+      "entra": "VITORES SAEZ, MARIO",
+      "sale": "RIERA MERINO, MATEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "LATORRE IBARROLA, MARTIN",
+      "sale": "GONZALEZ ZAIDI L, ISMAEL"
+    },
+    {
+      "min": 46,
+      "entra": "BERASATEGI HERNANDEZ, JULEN",
+      "sale": "LABEAGA GARCIA, DIEGO"
+    },
+    {
+      "min": 55,
+      "entra": "LOPEZ PEREZ, OIER",
+      "sale": "LAFONT ALONSO, MATIAS"
+    },
+    {
+      "min": 55,
+      "entra": "CARBONERAS ROYO, DANIEL",
+      "sale": "LLORENTE LOPEZ, RAUL"
+    }
+  ],
   "minutos_jugadores": {
     "RUIZ DA CRUZ, DAVID": 90,
-    "FABIAN HERRAIZ, PABLO": 90,
+    "FABIAN HERRAIZ, PABLO": 67,
     "HERNANDEZ BELLIDO, UNAX": 90,
     "PINILLA CIAURRI, IZAN": 90,
-    "ARRIAGA RUIZ E, MIKEL": 90,
+    "ARRIAGA RUIZ E, MIKEL": 80,
     "RUIZ NAVARRO PABLO, SIMON": 90,
     "RIERA MERINO, MATEO": 90,
-    "MARIN NOGUERA, ALVARO": 90,
-    "GARCIA CASTILLO, DANIEL": 90,
+    "MARIN NOGUERA, ALVARO": 67,
+    "GARCIA CASTILLO, DANIEL": 80,
     "DE MIGUEL LLORACH, ERIC": 90,
     "FERNANDEZ NESTARES, SAUL": 90,
     "ALCALDE ALESANCO, ALEJANDRO": 90,
     "RODRIGO LARRAÑAGA, JON": 90,
-    "LABEAGA GARCIA, DIEGO": 90,
-    "LLORENTE LOPEZ, RAUL": 90,
-    "LAFONT ALONSO, MATIAS": 90,
-    "GONZALEZ ZAIDI L, ISMAEL": 90,
+    "LABEAGA GARCIA, DIEGO": 46,
+    "LLORENTE LOPEZ, RAUL": 55,
+    "LAFONT ALONSO, MATIAS": 55,
+    "GONZALEZ ZAIDI L, ISMAEL": 46,
     "PASTORIZA DALMAU, MATEO": 90,
     "GIL ESCUDERO, OLIVER": 90,
     "GALBARRO CASTILLO, JUAN PABLO": 90,
     "ANTICH SERRANO, CHRISTIAN": 90,
-    "MENDINUETA PEREZ DE VILLARREAL, ADEI": 90
+    "MENDINUETA PEREZ DE VILLARREAL, ADEI": 90,
+    "SAENZ FERNANDEZ, ALVARO": 23,
+    "FERNÁNDEZ SIERRA, LUCAS": 23,
+    "GARCIA VILLAREAL, ADRIAN": 10,
+    "GARRIDO OLIVAN, ISMAEL": 10,
+    "VITORES SAEZ, MARIO": 0,
+    "LATORRE IBARROLA, MARTIN": 44,
+    "BERASATEGI HERNANDEZ, JULEN": 44,
+    "LOPEZ PEREZ, OIER": 35,
+    "CARBONERAS ROYO, DANIEL": 35
   },
   "portero_local": "RUIZ DA CRUZ, DAVID",
   "portero_visitante": "ALCALDE ALESANCO, ALEJANDRO",
@@ -256,6 +312,5 @@
   },
   "suspendidos": [
     "DE MIGUEL LLORACH, ERIC"
-  ],
-  "_marcador_widget": true
+  ]
 }
