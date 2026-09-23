@@ -1,0 +1,326 @@
+{
+  "acta_id": "E_10043063",
+  "filename": "Acta_E_10043063.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "19-09-2026",
+  "hora": "16:30",
+  "categoria": "CAMPEONATO DE TERCERA FEDERACIÓN / RFEF HIRUGARREN MAILA (4. MULTZOA / GRUPO 4)",
+  "equipo_local": "TOURING, C.D.",
+  "equipo_visitante": "BEASAIN, S.D.",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "FONTANILLO FERNANDEZ, MIKEL",
+    "Árbitro Asistente",
+    "OLAIZOLA AGREDANO, JAVIER",
+    "Árbitro Asistente",
+    "ARAMBERRI VELEZ, ALEX"
+  ],
+  "estadio": "FANDERIA",
+  "ciudad": "Errenteria",
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "ERDOCIA CABALLERO, JAGOBA",
+      "equipo": "local",
+      "propia": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "ZABALA KARRIKIRI, OIHAN",
+      "equipo": "local",
+      "propia": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "FERRER GARCIA, KOLDO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "ZABALA KARRIKIRI, OIHAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "GARCIA FRAILE, CARLOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "LLORENTE VERTIZ, MIKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "BEASAIN, S.D.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "SALABERRIA ARTEAGA, IBAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "SANZ DIAS, CRISTIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "GONZALEZ LIZASO, BEÑAT",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "IRADI ETXEBERRIA, MANEX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA FRAILE, CARLOS",
+  "entrenador_visitante": "ARRUABARRENA ARAMBIDE, MIKEL",
+  "segundo_entrenador_local": "MARTINEZ RODRIGUEZ, ANIBAL",
+  "segundo_entrenador_visitante": "ECHANIZ BEGUIRISTAIN, ASIER",
+  "delegado_campo_local": "ARBELAIZ VILLAQUIRAN, JUAN CARLOS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARBELAIZ VILLAQUIRAN, JUAN CARLOS",
+  "delegado_equipo_visitante": "HERNANDEZ ARINA, EKAITZ",
+  "titulares_local": [
+    "LOBO FERNANDEZ REVUELTA, OIHAN",
+    "GARRO OLKOTZ, BEÑAT",
+    "GARCIA ECHARRI, JON",
+    "FERRER GARCIA, KOLDO",
+    "IZA IRIARTE, OIER",
+    "EZKURDIA UGALDE, IMANOL",
+    "SEARA IZAGIRRE, ANDER",
+    "CASTILLO ARRIETA, OIER",
+    "LABAKA LOPEZ, AIMAR",
+    "ERDOCIA CABALLERO, JAGOBA",
+    "FERNANDORENA YURRITA, ALEX"
+  ],
+  "titulares_visitante": [
+    "URAIN SAN VICENTE, KERMAN",
+    "ALMANDOZ ARRIOLA, BEÑAT",
+    "EGUREN RUIZ DE ARBULO, ARITZ",
+    "GUEMBE BIDEZABAL, GALDER",
+    "ITUARTE DRAVASA, AITOR",
+    "GONZALEZ LIZASO, BEÑAT",
+    "SALABERRIA ARTEAGA, IBAI",
+    "MONREAL INSAUSTI, XABIER",
+    "PRIOR REMENTERIA, JULEN",
+    "ALDASORO GOIKOETXEA, BEÑAT",
+    "HUETE BELOKI, ARITZ"
+  ],
+  "suplentes_local": [
+    "ARTUZAMONOA ARCAUZ, UNAI",
+    "ALTUNA ALBISU, JON",
+    "SANTIN LINARES, GARI",
+    "DORRONSORO OSA, OIHAN",
+    "ZABALA KARRIKIRI, OIHAN",
+    "LLORENTE VERTIZ, MIKEL",
+    "LETAMENDIA GAMECHOGOICOECHEA, DIEGO ARMANDO",
+    "BERASATEGI CARRERA, SUHAR",
+    "AIZPURUA ESTENSORO, PATXI"
+  ],
+  "suplentes_visitante": [
+    "URTEAGA TELLERIA, ARITZ",
+    "OLASAGASTI MARTINEZ, JULEN",
+    "ORMAZABAL GARCIA, IÑAKI",
+    "SANZ DIAS, CRISTIAN",
+    "EIZAGUIRRE LASA, BEÑAT",
+    "ARANBURU PARAPAR, ANDER",
+    "IRADI ETXEBERRIA, MANEX",
+    "ANDUAGA RAMOS, AIMAR GEXAN",
+    "LAZCANO BERRIDI, ASIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARTUZAMONOA ARCAUZ, UNAI",
+    "SANTIN LINARES, GARI",
+    "BERASATEGI CARRERA, SUHAR",
+    "AIZPURUA ESTENSORO, PATXI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "URTEAGA TELLERIA, ARITZ",
+    "OLASAGASTI MARTINEZ, JULEN",
+    "ARANBURU PARAPAR, ANDER",
+    "ANDUAGA RAMOS, AIMAR GEXAN"
+  ],
+  "jugadores_local": [
+    "LOBO FERNANDEZ REVUELTA, OIHAN",
+    "GARRO OLKOTZ, BEÑAT",
+    "GARCIA ECHARRI, JON",
+    "FERRER GARCIA, KOLDO",
+    "IZA IRIARTE, OIER",
+    "EZKURDIA UGALDE, IMANOL",
+    "SEARA IZAGIRRE, ANDER",
+    "CASTILLO ARRIETA, OIER",
+    "LABAKA LOPEZ, AIMAR",
+    "ERDOCIA CABALLERO, JAGOBA",
+    "FERNANDORENA YURRITA, ALEX",
+    "LLORENTE VERTIZ, MIKEL",
+    "ZABALA KARRIKIRI, OIHAN",
+    "DORRONSORO OSA, OIHAN",
+    "ALTUNA ALBISU, JON",
+    "LETAMENDIA GAMECHOGOICOECHEA, DIEGO ARMANDO"
+  ],
+  "jugadores_visitante": [
+    "URAIN SAN VICENTE, KERMAN",
+    "ALMANDOZ ARRIOLA, BEÑAT",
+    "EGUREN RUIZ DE ARBULO, ARITZ",
+    "GUEMBE BIDEZABAL, GALDER",
+    "ITUARTE DRAVASA, AITOR",
+    "GONZALEZ LIZASO, BEÑAT",
+    "SALABERRIA ARTEAGA, IBAI",
+    "MONREAL INSAUSTI, XABIER",
+    "PRIOR REMENTERIA, JULEN",
+    "ALDASORO GOIKOETXEA, BEÑAT",
+    "HUETE BELOKI, ARITZ",
+    "ORMAZABAL GARCIA, IÑAKI",
+    "SANZ DIAS, CRISTIAN",
+    "EIZAGUIRRE LASA, BEÑAT",
+    "IRADI ETXEBERRIA, MANEX",
+    "LAZCANO BERRIDI, ASIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "LLORENTE VERTIZ, MIKEL",
+      "sale": "FERNANDORENA YURRITA, ALEX"
+    },
+    {
+      "min": 60,
+      "entra": "ZABALA KARRIKIRI, OIHAN",
+      "sale": "SEARA IZAGIRRE, ANDER"
+    },
+    {
+      "min": 75,
+      "entra": "DORRONSORO OSA, OIHAN",
+      "sale": "GARCIA ECHARRI, JON"
+    },
+    {
+      "min": 75,
+      "entra": "ALTUNA ALBISU, JON",
+      "sale": "GARRO OLKOTZ, BEÑAT"
+    },
+    {
+      "min": 80,
+      "entra": "LETAMENDIA GAMECHOGOICOECHEA, DIEGO ARMANDO",
+      "sale": "ALTUNA ALBISU, JON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "ORMAZABAL GARCIA, IÑAKI",
+      "sale": "SALABERRIA ARTEAGA, IBAI"
+    },
+    {
+      "min": 60,
+      "entra": "SANZ DIAS, CRISTIAN",
+      "sale": "ITUARTE DRAVASA, AITOR"
+    },
+    {
+      "min": 71,
+      "entra": "EIZAGUIRRE LASA, BEÑAT",
+      "sale": "MONREAL INSAUSTI, XABIER"
+    },
+    {
+      "min": 71,
+      "entra": "IRADI ETXEBERRIA, MANEX",
+      "sale": "GUEMBE BIDEZABAL, GALDER"
+    },
+    {
+      "min": 71,
+      "entra": "LAZCANO BERRIDI, ASIER",
+      "sale": "HUETE BELOKI, ARITZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "LOBO FERNANDEZ REVUELTA, OIHAN": 90,
+    "GARRO OLKOTZ, BEÑAT": 75,
+    "GARCIA ECHARRI, JON": 75,
+    "FERRER GARCIA, KOLDO": 90,
+    "IZA IRIARTE, OIER": 90,
+    "EZKURDIA UGALDE, IMANOL": 90,
+    "SEARA IZAGIRRE, ANDER": 60,
+    "CASTILLO ARRIETA, OIER": 90,
+    "LABAKA LOPEZ, AIMAR": 90,
+    "ERDOCIA CABALLERO, JAGOBA": 90,
+    "FERNANDORENA YURRITA, ALEX": 60,
+    "LLORENTE VERTIZ, MIKEL": 30,
+    "ZABALA KARRIKIRI, OIHAN": 30,
+    "DORRONSORO OSA, OIHAN": 15,
+    "ALTUNA ALBISU, JON": 80,
+    "LETAMENDIA GAMECHOGOICOECHEA, DIEGO ARMANDO": 10,
+    "URAIN SAN VICENTE, KERMAN": 90,
+    "ALMANDOZ ARRIOLA, BEÑAT": 90,
+    "EGUREN RUIZ DE ARBULO, ARITZ": 90,
+    "GUEMBE BIDEZABAL, GALDER": 71,
+    "ITUARTE DRAVASA, AITOR": 60,
+    "GONZALEZ LIZASO, BEÑAT": 90,
+    "SALABERRIA ARTEAGA, IBAI": 55,
+    "MONREAL INSAUSTI, XABIER": 71,
+    "PRIOR REMENTERIA, JULEN": 90,
+    "ALDASORO GOIKOETXEA, BEÑAT": 90,
+    "HUETE BELOKI, ARITZ": 71,
+    "ORMAZABAL GARCIA, IÑAKI": 35,
+    "SANZ DIAS, CRISTIAN": 30,
+    "EIZAGUIRRE LASA, BEÑAT": 19,
+    "IRADI ETXEBERRIA, MANEX": 19,
+    "LAZCANO BERRIDI, ASIER": 19
+  },
+  "portero_local": "LOBO FERNANDEZ REVUELTA, OIHAN",
+  "portero_visitante": "URAIN SAN VICENTE, KERMAN",
+  "dorsales_local": {
+    "LOBO FERNANDEZ REVUELTA, OIHAN": 31,
+    "GARRO OLKOTZ, BEÑAT": 4,
+    "GARCIA ECHARRI, JON": 5,
+    "FERRER GARCIA, KOLDO": 7,
+    "IZA IRIARTE, OIER": 15,
+    "EZKURDIA UGALDE, IMANOL": 16,
+    "SEARA IZAGIRRE, ANDER": 17,
+    "CASTILLO ARRIETA, OIER": 20,
+    "LABAKA LOPEZ, AIMAR": 21,
+    "ERDOCIA CABALLERO, JAGOBA": 22,
+    "FERNANDORENA YURRITA, ALEX": 23
+  },
+  "dorsales_visitante": {
+    "URAIN SAN VICENTE, KERMAN": 13,
+    "ALMANDOZ ARRIOLA, BEÑAT": 2,
+    "EGUREN RUIZ DE ARBULO, ARITZ": 4,
+    "GUEMBE BIDEZABAL, GALDER": 10,
+    "ITUARTE DRAVASA, AITOR": 12,
+    "GONZALEZ LIZASO, BEÑAT": 14,
+    "SALABERRIA ARTEAGA, IBAI": 15,
+    "MONREAL INSAUSTI, XABIER": 17,
+    "PRIOR REMENTERIA, JULEN": 18,
+    "ALDASORO GOIKOETXEA, BEÑAT": 20,
+    "HUETE BELOKI, ARITZ": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
