@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Primera División de Fútbol Playa Masculino (Primera División Nacional Masculina)",
   "equipo_local": "CADIZ CF A",
   "equipo_visitante": "C.D. SANTAMARIA C.F.",
-  "goles_local": 2,
-  "goles_visitante": 5,
-  "resultado": "L",
+  "goles_local": 5,
+  "goles_visitante": 4,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "PARDEIRO PUENTE, JOSÉ ALBERTO",
@@ -58,8 +58,8 @@
     {
       "minuto": 21,
       "jugador": "VALENCIA LORENZO, ISMAEL",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true
     },
     {
       "minuto": 23,
@@ -190,5 +190,6 @@
     "HERRERA BRENES, MARCOS": 11,
     "MUÑOZ BARRERA, ALBERTO": 16
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
