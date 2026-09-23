@@ -56,7 +56,7 @@
     {
       "minuto": 75,
       "jugador": "FERNANDEZ SENRA, PABLO",
-      "equipo": "?",
+      "equipo": "local",
       "propia": false
     }
   ],
@@ -130,21 +130,11 @@
   ],
   "convocados_sin_jugar_local": [
     "MORALES REY, RODRIGO",
-    "PEREZ MARTINEZ, BRAIS",
-    "GONZALEZ LORENZO, MATEO",
-    "PEREIRA PEREIRA, XOEL",
-    "SANTOS MOURO, SERGIO",
-    "GONZALEZ CID, LUCAS",
-    "FERNANDEZ SENRA, PABLO"
+    "GONZALEZ CID, LUCAS"
   ],
   "convocados_sin_jugar_visitante": [
     "CARRASCAL GARCIA, ELIAS",
-    "GUTIERREZ ZUBILLAGA, VICTOR",
-    "URIBE DELGADO, BRUNO",
-    "FERNANDEZ FABERO, MARIO",
-    "SANCHO POMPOSO, ALVARO",
-    "CISNEROS LEAL, ADRIAN",
-    "PORTILLA CAMUS, ALEJANDRO"
+    "SANCHO POMPOSO, ALVARO"
   ],
   "jugadores_local": [
     "PEREZ GONZALEZ, IVAN",
@@ -157,7 +147,12 @@
     "AGUILAR PEREZ, IAGO",
     "VALLE RIVAS, SAMUEL",
     "GARCIA TOSEF, MAXIMILIAM",
-    "OJEA MARTINEZ, PEDRO"
+    "OJEA MARTINEZ, PEDRO",
+    "SANTOS MOURO, SERGIO",
+    "PEREZ MARTINEZ, BRAIS",
+    "PEREIRA PEREIRA, XOEL",
+    "FERNANDEZ SENRA, PABLO",
+    "GONZALEZ LORENZO, MATEO"
   ],
   "jugadores_visitante": [
     "LOPEZ PEREZ, MIGUEL ANGEL",
@@ -170,33 +165,100 @@
     "SOBERON GARCIA, MARCOS",
     "FERNANDEZ COBO, SAMUEL",
     "GARCIA BLANCO, PABLO",
-    "CANALES VILLA, IKER"
+    "CANALES VILLA, IKER",
+    "FERNANDEZ FABERO, MARIO",
+    "URIBE DELGADO, BRUNO",
+    "CISNEROS LEAL, ADRIAN",
+    "GUTIERREZ ZUBILLAGA, VICTOR",
+    "PORTILLA CAMUS, ALEJANDRO"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 67,
+      "entra": "SANTOS MOURO, SERGIO",
+      "sale": "OJEA MARTINEZ, PEDRO"
+    },
+    {
+      "min": 67,
+      "entra": "PEREZ MARTINEZ, BRAIS",
+      "sale": "RUA CARRO, SERGIO"
+    },
+    {
+      "min": 72,
+      "entra": "PEREIRA PEREIRA, XOEL",
+      "sale": "PADIN GONZALEZ, BRUNO"
+    },
+    {
+      "min": 72,
+      "entra": "FERNANDEZ SENRA, PABLO",
+      "sale": "VALLE RIVAS, SAMUEL"
+    },
+    {
+      "min": 76,
+      "entra": "GONZALEZ LORENZO, MATEO",
+      "sale": "MOURULLO ESCUDERO, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "FERNANDEZ FABERO, MARIO",
+      "sale": "MATA FERNANDEZ, HUGO"
+    },
+    {
+      "min": 51,
+      "entra": "URIBE DELGADO, BRUNO",
+      "sale": "ALVAREZ CORONA, AARON"
+    },
+    {
+      "min": 51,
+      "entra": "CISNEROS LEAL, ADRIAN",
+      "sale": "SOBERON GARCIA, MARCOS"
+    },
+    {
+      "min": 66,
+      "entra": "GUTIERREZ ZUBILLAGA, VICTOR",
+      "sale": "CAVIA BUENDIA, NICOLAS"
+    },
+    {
+      "min": 66,
+      "entra": "PORTILLA CAMUS, ALEJANDRO",
+      "sale": "GARCIA BLANCO, PABLO"
+    }
+  ],
   "minutos_jugadores": {
     "PEREZ GONZALEZ, IVAN": 90,
     "TOUCEDO RODRIGUEZ, GUILLERMO": 90,
-    "PADIN GONZALEZ, BRUNO": 90,
+    "PADIN GONZALEZ, BRUNO": 72,
     "RODRIGUEZ CUEVAS, MIGUEL": 90,
     "NUÑEZ GARCIA, HUGO": 90,
-    "RUA CARRO, SERGIO": 90,
-    "MOURULLO ESCUDERO, HUGO": 90,
+    "RUA CARRO, SERGIO": 67,
+    "MOURULLO ESCUDERO, HUGO": 76,
     "AGUILAR PEREZ, IAGO": 90,
-    "VALLE RIVAS, SAMUEL": 90,
+    "VALLE RIVAS, SAMUEL": 72,
     "GARCIA TOSEF, MAXIMILIAM": 90,
-    "OJEA MARTINEZ, PEDRO": 90,
+    "OJEA MARTINEZ, PEDRO": 67,
     "LOPEZ PEREZ, MIGUEL ANGEL": 90,
     "FRANCO CAMPILLO, IVAN": 90,
     "GOMEZ RIVA, PABLO": 90,
-    "CAVIA BUENDIA, NICOLAS": 90,
-    "ALVAREZ CORONA, AARON": 90,
-    "MATA FERNANDEZ, HUGO": 90,
+    "CAVIA BUENDIA, NICOLAS": 66,
+    "ALVAREZ CORONA, AARON": 51,
+    "MATA FERNANDEZ, HUGO": 51,
     "JURNA ANERO, LEONARDO": 90,
-    "SOBERON GARCIA, MARCOS": 90,
+    "SOBERON GARCIA, MARCOS": 51,
     "FERNANDEZ COBO, SAMUEL": 90,
-    "GARCIA BLANCO, PABLO": 90,
-    "CANALES VILLA, IKER": 90
+    "GARCIA BLANCO, PABLO": 66,
+    "CANALES VILLA, IKER": 90,
+    "SANTOS MOURO, SERGIO": 23,
+    "PEREZ MARTINEZ, BRAIS": 23,
+    "PEREIRA PEREIRA, XOEL": 18,
+    "FERNANDEZ SENRA, PABLO": 18,
+    "GONZALEZ LORENZO, MATEO": 14,
+    "FERNANDEZ FABERO, MARIO": 39,
+    "URIBE DELGADO, BRUNO": 39,
+    "CISNEROS LEAL, ADRIAN": 39,
+    "GUTIERREZ ZUBILLAGA, VICTOR": 24,
+    "PORTILLA CAMUS, ALEJANDRO": 24
   },
   "portero_local": "PEREZ GONZALEZ, IVAN",
   "portero_visitante": "LOPEZ PEREZ, MIGUEL ANGEL",
