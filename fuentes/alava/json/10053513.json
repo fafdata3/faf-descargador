@@ -23,31 +23,36 @@
       "minuto": 4,
       "jugador": "SAENZ CORCUERA, AIMAR",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 6,
       "jugador": "BRIZUELA MORINIGO, DYLAN JOSUE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 40,
       "jugador": "JANANE ABOUQAL, EL BARAA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 47,
       "jugador": "CHIRUTA LINCOV, ADAN",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 77,
       "jugador": "GONZALEZ DE ZARATE HOLGADO, NICOLAS",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -288,5 +293,6 @@
     "QUERA ALVAREZ, ENDIKA": 24,
     "MEIRO CALLEJA, IKER": 25
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
