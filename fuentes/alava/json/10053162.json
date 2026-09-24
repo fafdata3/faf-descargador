@@ -23,25 +23,29 @@
       "minuto": 53,
       "jugador": "ANGUIANO PRIETO, IZAN",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 58,
       "jugador": "MARRERO ARAGON, IKER",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 75,
       "jugador": "ANGUIANO PRIETO, IZAN",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 90,
       "jugador": "JORGE MUIÑO, VICTOR",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -291,6 +295,5 @@
     "ZIAN MARZGUI OUFKIR, ANWAR": 21,
     "LOPEZ HERNANDO, DAVID": 24
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
