@@ -23,31 +23,36 @@
       "minuto": 2,
       "jugador": "CHAT GONZALEZ, RAYAN",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "ALVAREZ DE ARCAYA JAYO, XABIER",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "CHAT GONZALEZ, RAYAN",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "BELAUSTEGI URKIZA, PEIO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 59,
       "jugador": "FLORIAN SAUCA, JOALI DAVID",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": true
     }
   ],
   "tarjetas": [
@@ -295,6 +300,5 @@
   },
   "suspendidos": [
     "BELAUSTEGI URKIZA, PEIO"
-  ],
-  "_marcador_widget": true
+  ]
 }
