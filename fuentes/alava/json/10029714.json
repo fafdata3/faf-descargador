@@ -1,0 +1,252 @@
+{
+  "acta_id": "10029714",
+  "filename": "Acta_10029714.txt",
+  "fuente": "alava",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "09-05-2026",
+  "hora": "15:00",
+  "categoria": "PRIMERA DIVISIÓN JUVENIL TORNEO FEDERACIÓN/ GAZTEEN LEHEN MAILA FEDERAZIO TORNEOA (GRUPO UNICO / TALDE BAKARRA)",
+  "equipo_local": "URGATZI K.K. B",
+  "equipo_visitante": "CHAMINADE MARIANISTAS K.E. AD C",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SÁEZ DE SANTAMARÍA RAMÍREZ , KAIET"
+  ],
+  "estadio": "IKAS. OLABIDE (H.A.)",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "MARCO ALAMEDA, HECTOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "MORENO TORREJON, IBAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "GURIDI UNZAGA, PEIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 69,
+      "jugador": "PALACIOS GONZALEZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 71,
+      "jugador": "LOPEZ GRAJALES, ALEX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "GARCIA GUINEA, PEIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "SAENZ DE LA MAZA, JON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "CHAMINADE MARIANISTAS K.E. AD C",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARITAONANDIA SANTAMARIA, PEIO",
+  "entrenador_visitante": "VIGIOLA AGUIRREGOMEZCORTA, OIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTIN GOMEZ, RUBEN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DIAZ DE TEJADA MARTINEZ DE ICAYA, JUAN CARLOS",
+  "delegado_equipo_visitante": "BARRIO ALCORTA, JAVIER CARMELO",
+  "titulares_local": [
+    "BASTERRETXEA GONZALEZ DE URIARTE, MIKEL",
+    "GARCIA GUINEA, PEIO",
+    "MARCILLA BAJO, JAGOBA ANTTON",
+    "PACHON TORRES, JON",
+    "SAENZ DE LA MAZA, JON",
+    "GURIDI UNZAGA, PEIO",
+    "ABAD SANCHEZ, EÑAUT",
+    "GALLARDO PEREDA, MIKEL",
+    "ENEKOTEGI CHURRUCA, UNAX",
+    "LATORRE OLARZA, SENDOA",
+    "MAULEON MARTINEZ, EKAIN"
+  ],
+  "titulares_visitante": [
+    "NAVARRO MAJUELO, AITOR",
+    "ANUNCIBAY IGLESIAS, ASIER",
+    "OLLOQUI PALACIOS, MARTIN",
+    "LOPEZ GRAJALES, ALEX",
+    "MORENO TORREJON, IBAI",
+    "MONTILLA BARRAGAN, DANIEL SANTIAGO",
+    "ORIVE VALLE, MARCOS",
+    "ORTIZ DE URTARAN GONZALEZ, AMETS",
+    "AZURMENDI DE DIEGO, JORGE",
+    "CASTILLO MORO, ADRIAN",
+    "MARCO ALAMEDA, HECTOR"
+  ],
+  "suplentes_local": [
+    "PALACIOS GONZALEZ, ALVARO",
+    "TAHIRI EL KAOURI, OMAR"
+  ],
+  "suplentes_visitante": [
+    "CARCAMO ARANEGUI, MARKEL",
+    "DONOSO PEREZ, UNAI",
+    "CHASCO MUÑOZ, UNAX",
+    "ALCARAZ NEVADO, ALVARO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BASTERRETXEA GONZALEZ DE URIARTE, MIKEL",
+    "GARCIA GUINEA, PEIO",
+    "MARCILLA BAJO, JAGOBA ANTTON",
+    "PACHON TORRES, JON",
+    "SAENZ DE LA MAZA, JON",
+    "GURIDI UNZAGA, PEIO",
+    "ABAD SANCHEZ, EÑAUT",
+    "GALLARDO PEREDA, MIKEL",
+    "ENEKOTEGI CHURRUCA, UNAX",
+    "LATORRE OLARZA, SENDOA",
+    "MAULEON MARTINEZ, EKAIN",
+    "PALACIOS GONZALEZ, ALVARO",
+    "TAHIRI EL KAOURI, OMAR"
+  ],
+  "jugadores_visitante": [
+    "NAVARRO MAJUELO, AITOR",
+    "ANUNCIBAY IGLESIAS, ASIER",
+    "OLLOQUI PALACIOS, MARTIN",
+    "LOPEZ GRAJALES, ALEX",
+    "MORENO TORREJON, IBAI",
+    "MONTILLA BARRAGAN, DANIEL SANTIAGO",
+    "ORIVE VALLE, MARCOS",
+    "ORTIZ DE URTARAN GONZALEZ, AMETS",
+    "AZURMENDI DE DIEGO, JORGE",
+    "CASTILLO MORO, ADRIAN",
+    "MARCO ALAMEDA, HECTOR",
+    "CARCAMO ARANEGUI, MARKEL",
+    "DONOSO PEREZ, UNAI",
+    "CHASCO MUÑOZ, UNAX",
+    "ALCARAZ NEVADO, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 63,
+      "entra": "PALACIOS GONZALEZ, ALVARO",
+      "sale": "MAULEON MARTINEZ, EKAIN"
+    },
+    {
+      "min": 70,
+      "entra": "TAHIRI EL KAOURI, OMAR",
+      "sale": "PACHON TORRES, JON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "CARCAMO ARANEGUI, MARKEL",
+      "sale": "NAVARRO MAJUELO, AITOR"
+    },
+    {
+      "min": 45,
+      "entra": "DONOSO PEREZ, UNAI",
+      "sale": "MORENO TORREJON, IBAI"
+    },
+    {
+      "min": 45,
+      "entra": "CHASCO MUÑOZ, UNAX",
+      "sale": "OLLOQUI PALACIOS, MARTIN"
+    },
+    {
+      "min": 45,
+      "entra": "ALCARAZ NEVADO, ALVARO",
+      "sale": "MARCO ALAMEDA, HECTOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "BASTERRETXEA GONZALEZ DE URIARTE, MIKEL": 90,
+    "GARCIA GUINEA, PEIO": 90,
+    "MARCILLA BAJO, JAGOBA ANTTON": 90,
+    "PACHON TORRES, JON": 70,
+    "SAENZ DE LA MAZA, JON": 90,
+    "GURIDI UNZAGA, PEIO": 90,
+    "ABAD SANCHEZ, EÑAUT": 90,
+    "GALLARDO PEREDA, MIKEL": 90,
+    "ENEKOTEGI CHURRUCA, UNAX": 90,
+    "LATORRE OLARZA, SENDOA": 90,
+    "MAULEON MARTINEZ, EKAIN": 63,
+    "PALACIOS GONZALEZ, ALVARO": 27,
+    "TAHIRI EL KAOURI, OMAR": 20,
+    "NAVARRO MAJUELO, AITOR": 45,
+    "ANUNCIBAY IGLESIAS, ASIER": 90,
+    "OLLOQUI PALACIOS, MARTIN": 45,
+    "LOPEZ GRAJALES, ALEX": 90,
+    "MORENO TORREJON, IBAI": 45,
+    "MONTILLA BARRAGAN, DANIEL SANTIAGO": 90,
+    "ORIVE VALLE, MARCOS": 90,
+    "ORTIZ DE URTARAN GONZALEZ, AMETS": 90,
+    "AZURMENDI DE DIEGO, JORGE": 90,
+    "CASTILLO MORO, ADRIAN": 90,
+    "MARCO ALAMEDA, HECTOR": 45,
+    "CARCAMO ARANEGUI, MARKEL": 45,
+    "DONOSO PEREZ, UNAI": 45,
+    "CHASCO MUÑOZ, UNAX": 45,
+    "ALCARAZ NEVADO, ALVARO": 45
+  },
+  "portero_local": "BASTERRETXEA GONZALEZ DE URIARTE, MIKEL",
+  "portero_visitante": "NAVARRO MAJUELO, AITOR",
+  "dorsales_local": {
+    "BASTERRETXEA GONZALEZ DE URIARTE, MIKEL": 13,
+    "GARCIA GUINEA, PEIO": 2,
+    "MARCILLA BAJO, JAGOBA ANTTON": 3,
+    "PACHON TORRES, JON": 4,
+    "SAENZ DE LA MAZA, JON": 6,
+    "GURIDI UNZAGA, PEIO": 7,
+    "ABAD SANCHEZ, EÑAUT": 8,
+    "GALLARDO PEREDA, MIKEL": 9,
+    "ENEKOTEGI CHURRUCA, UNAX": 11,
+    "LATORRE OLARZA, SENDOA": 18,
+    "MAULEON MARTINEZ, EKAIN": 23
+  },
+  "dorsales_visitante": {
+    "NAVARRO MAJUELO, AITOR": 13,
+    "ANUNCIBAY IGLESIAS, ASIER": 2,
+    "OLLOQUI PALACIOS, MARTIN": 12,
+    "LOPEZ GRAJALES, ALEX": 18,
+    "MORENO TORREJON, IBAI": 20,
+    "MONTILLA BARRAGAN, DANIEL SANTIAGO": 34,
+    "ORIVE VALLE, MARCOS": 66,
+    "ORTIZ DE URTARAN GONZALEZ, AMETS": 70,
+    "AZURMENDI DE DIEGO, JORGE": 72,
+    "CASTILLO MORO, ADRIAN": 92,
+    "MARCO ALAMEDA, HECTOR": 96
+  },
+  "suspendidos": []
+}
