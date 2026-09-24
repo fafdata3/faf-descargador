@@ -23,25 +23,29 @@
       "minuto": 8,
       "jugador": "DE LAPUENTE DURAN, ALAIN",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 46,
       "jugador": "MSSIAIDI BEN AHMED, MOHAMED",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 51,
       "jugador": "LARRAURI ORTIZ, ARATZ",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 90,
       "jugador": "MSSIAIDI BEN AHMED, MOHAMED",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -319,6 +323,5 @@
     "KARIM BAKKALI, AYMAN": 69,
     "ALVES RODRIGUES, YURI": 77
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
