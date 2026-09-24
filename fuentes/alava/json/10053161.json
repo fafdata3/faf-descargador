@@ -23,31 +23,36 @@
       "minuto": 18,
       "jugador": "CUESTA GALDOS, MATEO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "CEÑA PERDIZ, ASIER",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "ARROYO PEREZ, EDUARDO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 56,
       "jugador": "CUESTA GALDOS, MATEO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 77,
       "jugador": "SILVA BAZ, ALEX",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -256,5 +261,6 @@
     "RUIZ DE ARGANDOÑA BONZA, ARATZ": 16,
     "VELA DIAZ DE GUEREÑU, ANDER": 17
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
