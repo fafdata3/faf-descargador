@@ -1,0 +1,288 @@
+{
+  "acta_id": "C_220672",
+  "filename": "Acta_C_220672.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 5,
+  "fecha": "18-10-2025",
+  "hora": "11:35",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.AT. PERINES A",
+  "equipo_visitante": "C.D. BEZANA A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAN MARTIN DE LA TEJA, JON"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "LIAÑO VARELA, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 17,
+      "jugador": "LIAÑO VARELA, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "ROBLES LARA, DAIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "PUENTE HERNANDEZ, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "ALBO ZORRILLA, EDGAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "C.D. BEZANA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "GARCÍA VÁZQUEZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "MONTES DE NEIRA BALBOA, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "GARCÍA VÁZQUEZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "AJURIA CRESPO, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "TORRES SAENZ, JOSE ALEJANDRO",
+  "entrenador_visitante": "SAIZ ALVAREZ, PABLO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANTAMARIA PEREZ, PABLO",
+  "delegado_equipo_visitante": "ORIA ROYANO, MARIO",
+  "titulares_local": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "GUERRA TORRO, ALBERTO",
+    "TRICIO MARTÍN, MATEO",
+    "PUENTE HERNANDEZ, MARIO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "PÉREZ MARTIN, JAIRO",
+    "LIAÑO VARELA, DANIEL",
+    "TODERO, JOAQUIN KONRAD",
+    "PRADA DE MIGUEL, DARIO"
+  ],
+  "titulares_visitante": [
+    "MORA PUIG-PEY, LUIS",
+    "ARROYO CESPEDES, DIEGO",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "MARTIN GUTIERREZ, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "CRESPO PEÑA, JUAN",
+    "FERNANDEZ HOYUELA, ALEJANDRO",
+    "MARTINEZ LUENA, OLIVER",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "RUIZ GARCIA, IBAI",
+    "GARCÍA VÁZQUEZ, HUGO"
+  ],
+  "suplentes_local": [
+    "RUIZ SANZ, MARIO",
+    "AZNAR NUÑO, HUGO",
+    "ROBLES LARA, DAIAN",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "FERNANDEZ NAVAMUEL, JENS"
+  ],
+  "suplentes_visitante": [
+    "MUGICA FERNANDEZ, VICTOR",
+    "BARROSO REBAQUE, ALEX",
+    "VELEZ BAHILLO, PEDRO",
+    "AJURIA CRESPO, NICOLAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "MUGICA FERNANDEZ, VICTOR"
+  ],
+  "jugadores_local": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "GUERRA TORRO, ALBERTO",
+    "TRICIO MARTÍN, MATEO",
+    "PUENTE HERNANDEZ, MARIO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "PÉREZ MARTIN, JAIRO",
+    "LIAÑO VARELA, DANIEL",
+    "TODERO, JOAQUIN KONRAD",
+    "PRADA DE MIGUEL, DARIO",
+    "ROBLES LARA, DAIAN",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "RUIZ SANZ, MARIO",
+    "AZNAR NUÑO, HUGO"
+  ],
+  "jugadores_visitante": [
+    "MORA PUIG-PEY, LUIS",
+    "ARROYO CESPEDES, DIEGO",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "MARTIN GUTIERREZ, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "CRESPO PEÑA, JUAN",
+    "FERNANDEZ HOYUELA, ALEJANDRO",
+    "MARTINEZ LUENA, OLIVER",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "RUIZ GARCIA, IBAI",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "VELEZ BAHILLO, PEDRO",
+    "BARROSO REBAQUE, ALEX",
+    "AJURIA CRESPO, NICOLAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 20,
+      "entra": "ROBLES LARA, DAIAN",
+      "sale": "LIAÑO VARELA, DANIEL"
+    },
+    {
+      "min": 47,
+      "entra": "FERNANDEZ NAVAMUEL, JENS",
+      "sale": "TANASA TANASA, PABLO CRISTIAN"
+    },
+    {
+      "min": 47,
+      "entra": "HAYA SÁNCHEZ, RODRIGO",
+      "sale": "PÉREZ MARTIN, JAIRO"
+    },
+    {
+      "min": 58,
+      "entra": "RUIZ SANZ, MARIO",
+      "sale": "ROBLES LARA, DAIAN"
+    },
+    {
+      "min": 60,
+      "entra": "AZNAR NUÑO, HUGO",
+      "sale": "FERNANDEZ GUTIERREZ, ELOY"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "VELEZ BAHILLO, PEDRO",
+      "sale": "MARTINEZ LUENA, OLIVER"
+    },
+    {
+      "min": 47,
+      "entra": "BARROSO REBAQUE, ALEX",
+      "sale": "FERNANDEZ HOYUELA, ALEJANDRO"
+    },
+    {
+      "min": 57,
+      "entra": "AJURIA CRESPO, NICOLAS",
+      "sale": "SANTAEULALIA PEREZ, NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONÇALVES JORRIN, SAMUEL": 90,
+    "GUERRA TORRO, ALBERTO": 90,
+    "TRICIO MARTÍN, MATEO": 90,
+    "PUENTE HERNANDEZ, MARIO": 90,
+    "ALBO ZORRILLA, EDGAR": 90,
+    "FERNANDEZ GUTIERREZ, ELOY": 60,
+    "TANASA TANASA, PABLO CRISTIAN": 47,
+    "PÉREZ MARTIN, JAIRO": 47,
+    "LIAÑO VARELA, DANIEL": 20,
+    "TODERO, JOAQUIN KONRAD": 90,
+    "PRADA DE MIGUEL, DARIO": 90,
+    "ROBLES LARA, DAIAN": 58,
+    "FERNANDEZ NAVAMUEL, JENS": 43,
+    "HAYA SÁNCHEZ, RODRIGO": 43,
+    "RUIZ SANZ, MARIO": 32,
+    "AZNAR NUÑO, HUGO": 30,
+    "MORA PUIG-PEY, LUIS": 90,
+    "ARROYO CESPEDES, DIEGO": 90,
+    "MONTES DE NEIRA BALBOA, LUCAS": 90,
+    "MARTIN GUTIERREZ, LUCAS": 90,
+    "DEL TIO MALMEHG, ERIK": 90,
+    "CRESPO PEÑA, JUAN": 90,
+    "FERNANDEZ HOYUELA, ALEJANDRO": 47,
+    "MARTINEZ LUENA, OLIVER": 35,
+    "SANTAEULALIA PEREZ, NICOLAS": 57,
+    "RUIZ GARCIA, IBAI": 90,
+    "GARCÍA VÁZQUEZ, HUGO": 90,
+    "VELEZ BAHILLO, PEDRO": 55,
+    "BARROSO REBAQUE, ALEX": 43,
+    "AJURIA CRESPO, NICOLAS": 33
+  },
+  "portero_local": "GONÇALVES JORRIN, SAMUEL",
+  "portero_visitante": "MORA PUIG-PEY, LUIS",
+  "dorsales_local": {
+    "GONÇALVES JORRIN, SAMUEL": 1,
+    "GUERRA TORRO, ALBERTO": 3,
+    "TRICIO MARTÍN, MATEO": 4,
+    "PUENTE HERNANDEZ, MARIO": 5,
+    "ALBO ZORRILLA, EDGAR": 7,
+    "FERNANDEZ GUTIERREZ, ELOY": 8,
+    "TANASA TANASA, PABLO CRISTIAN": 9,
+    "PÉREZ MARTIN, JAIRO": 10,
+    "LIAÑO VARELA, DANIEL": 15,
+    "TODERO, JOAQUIN KONRAD": 17,
+    "PRADA DE MIGUEL, DARIO": 20
+  },
+  "dorsales_visitante": {
+    "MORA PUIG-PEY, LUIS": 13,
+    "ARROYO CESPEDES, DIEGO": 2,
+    "MONTES DE NEIRA BALBOA, LUCAS": 3,
+    "MARTIN GUTIERREZ, LUCAS": 4,
+    "DEL TIO MALMEHG, ERIK": 5,
+    "CRESPO PEÑA, JUAN": 6,
+    "FERNANDEZ HOYUELA, ALEJANDRO": 7,
+    "MARTINEZ LUENA, OLIVER": 9,
+    "SANTAEULALIA PEREZ, NICOLAS": 11,
+    "RUIZ GARCIA, IBAI": 12,
+    "GARCÍA VÁZQUEZ, HUGO": 14
+  },
+  "suspendidos": [
+    "GARCÍA VÁZQUEZ, HUGO"
+  ],
+  "_marcador_widget": true
+}
