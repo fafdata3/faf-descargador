@@ -1,0 +1,236 @@
+{
+  "acta_id": "B_9974374",
+  "filename": "Acta_B_9974374.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "04-01-2026",
+  "hora": "11:00",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 1)",
+  "equipo_local": "ASTI-LEKU B",
+  "equipo_visitante": "ARANGUREN A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ARMESTO REY (M), ENEKO"
+  ],
+  "estadio": "LOS LLANOS",
+  "ciudad": "Portugalete",
+  "goleadores": [
+    {
+      "minuto": 63,
+      "jugador": "CEBEIRO VÁZQUEZ, JOEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 23,
+      "jugador": "PLANS DE DIEGO, LEZO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 23,
+      "jugador": "ARANGUREN A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "AGUADO REDAL, IKER",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ECHABE CASAMAYOR, MARKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BARBA CAMPINO, UNAI",
+  "delegado_equipo_visitante": "ALONSO BILBAO, AITOR",
+  "titulares_local": [
+    "GONZALEZ FERNANDEZ, ASIER",
+    "LINAZA SAN MARTIN, AINGERU",
+    "RODRIGUEZ ALONSO, LIHER",
+    "FLORES LOPEZ, MIKEL",
+    "ALBALA VIELLA, DANIEL",
+    "ALARIO PRIETO, IKER",
+    "PLANS DE DIEGO, LEZO",
+    "MARTIN ZAMARRIPA, BEÑAT",
+    "SANTIN GARCIA, JON",
+    "MONEDERO DE LA DEHESA, MARKEL",
+    "BALART LOPEZ, IÑIGO"
+  ],
+  "titulares_visitante": [
+    "CANALES GONZALEZ, DANIEL",
+    "PEREZ LASHERAS, OIHER",
+    "IGLESIAS ADELL, PERU",
+    "NDJANKOU ONOME, PATRICK UNAX",
+    "ELGEZUA VILLAR, AIUR",
+    "GOMEZ CAMINOS, PEIO",
+    "PEREDA SAEZ, ARATZ",
+    "LAMBARRI MALPARTIDA, HEGOI",
+    "SANTACOLOMA CORMENZANA, ARITZ",
+    "NARVAEZ ARECHAVALA, JULEN",
+    "HERRERO RODRIGUEZ, ANIER"
+  ],
+  "suplentes_local": [
+    "MARTIN ARRIANDIAGA, URKO",
+    "GONZALEZ ETXEBARRIA, LIHER",
+    "OMORUYI EHIS, JOEL ETINOSA",
+    "GARCIA MARTINEZ, OIER",
+    "VELASCO GARCIA, MARKEL",
+    "HERRERO OYARBIDE, ANDER",
+    "GOMEZ RODRIGUEZ, DARIO"
+  ],
+  "suplentes_visitante": [
+    "SANTAMARÍA VILLAR, ALEX",
+    "MAZA ALDANA, ANDER",
+    "CEBEIRO VÁZQUEZ, JOEL",
+    "RODRIGUEZ MAÑES, HUGO",
+    "RODRIGUEZ MERINO, ARITZ",
+    "VILARCHAO PÉREZ, IZEI",
+    "ECHEVERRIA SANDINO, ERITZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "GONZALEZ ETXEBARRIA, LIHER",
+    "OMORUYI EHIS, JOEL ETINOSA",
+    "HERRERO OYARBIDE, ANDER",
+    "GOMEZ RODRIGUEZ, DARIO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SANTAMARÍA VILLAR, ALEX",
+    "MAZA ALDANA, ANDER",
+    "RODRIGUEZ MERINO, ARITZ",
+    "VILARCHAO PÉREZ, IZEI"
+  ],
+  "jugadores_local": [
+    "GONZALEZ FERNANDEZ, ASIER",
+    "LINAZA SAN MARTIN, AINGERU",
+    "RODRIGUEZ ALONSO, LIHER",
+    "FLORES LOPEZ, MIKEL",
+    "ALBALA VIELLA, DANIEL",
+    "ALARIO PRIETO, IKER",
+    "PLANS DE DIEGO, LEZO",
+    "MARTIN ZAMARRIPA, BEÑAT",
+    "SANTIN GARCIA, JON",
+    "MONEDERO DE LA DEHESA, MARKEL",
+    "BALART LOPEZ, IÑIGO",
+    "VELASCO GARCIA, MARKEL",
+    "MARTIN ARRIANDIAGA, URKO",
+    "GARCIA MARTINEZ, OIER"
+  ],
+  "jugadores_visitante": [
+    "CANALES GONZALEZ, DANIEL",
+    "PEREZ LASHERAS, OIHER",
+    "IGLESIAS ADELL, PERU",
+    "NDJANKOU ONOME, PATRICK UNAX",
+    "ELGEZUA VILLAR, AIUR",
+    "GOMEZ CAMINOS, PEIO",
+    "PEREDA SAEZ, ARATZ",
+    "LAMBARRI MALPARTIDA, HEGOI",
+    "SANTACOLOMA CORMENZANA, ARITZ",
+    "NARVAEZ ARECHAVALA, JULEN",
+    "HERRERO RODRIGUEZ, ANIER",
+    "ECHEVERRIA SANDINO, ERITZ",
+    "CEBEIRO VÁZQUEZ, JOEL",
+    "RODRIGUEZ MAÑES, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "VELASCO GARCIA, MARKEL",
+      "sale": "MONEDERO DE LA DEHESA, MARKEL"
+    },
+    {
+      "min": 62,
+      "entra": "MARTIN ARRIANDIAGA, URKO",
+      "sale": "ALARIO PRIETO, IKER"
+    },
+    {
+      "min": 70,
+      "entra": "GARCIA MARTINEZ, OIER",
+      "sale": "ALBALA VIELLA, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "ECHEVERRIA SANDINO, ERITZ",
+      "sale": "GOMEZ CAMINOS, PEIO"
+    },
+    {
+      "min": 60,
+      "entra": "CEBEIRO VÁZQUEZ, JOEL",
+      "sale": "PEREDA SAEZ, ARATZ"
+    },
+    {
+      "min": 60,
+      "entra": "RODRIGUEZ MAÑES, HUGO",
+      "sale": "NDJANKOU ONOME, PATRICK UNAX"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONZALEZ FERNANDEZ, ASIER": 90,
+    "LINAZA SAN MARTIN, AINGERU": 90,
+    "RODRIGUEZ ALONSO, LIHER": 90,
+    "FLORES LOPEZ, MIKEL": 90,
+    "ALBALA VIELLA, DANIEL": 70,
+    "ALARIO PRIETO, IKER": 62,
+    "PLANS DE DIEGO, LEZO": 90,
+    "MARTIN ZAMARRIPA, BEÑAT": 90,
+    "SANTIN GARCIA, JON": 90,
+    "MONEDERO DE LA DEHESA, MARKEL": 55,
+    "BALART LOPEZ, IÑIGO": 90,
+    "VELASCO GARCIA, MARKEL": 35,
+    "MARTIN ARRIANDIAGA, URKO": 28,
+    "GARCIA MARTINEZ, OIER": 20,
+    "CANALES GONZALEZ, DANIEL": 90,
+    "PEREZ LASHERAS, OIHER": 90,
+    "IGLESIAS ADELL, PERU": 90,
+    "NDJANKOU ONOME, PATRICK UNAX": 60,
+    "ELGEZUA VILLAR, AIUR": 90,
+    "GOMEZ CAMINOS, PEIO": 45,
+    "PEREDA SAEZ, ARATZ": 60,
+    "LAMBARRI MALPARTIDA, HEGOI": 90,
+    "SANTACOLOMA CORMENZANA, ARITZ": 90,
+    "NARVAEZ ARECHAVALA, JULEN": 90,
+    "HERRERO RODRIGUEZ, ANIER": 90,
+    "ECHEVERRIA SANDINO, ERITZ": 45,
+    "CEBEIRO VÁZQUEZ, JOEL": 30,
+    "RODRIGUEZ MAÑES, HUGO": 30
+  },
+  "portero_local": "GONZALEZ FERNANDEZ, ASIER",
+  "portero_visitante": "CANALES GONZALEZ, DANIEL",
+  "dorsales_local": {
+    "GONZALEZ FERNANDEZ, ASIER": 13,
+    "LINAZA SAN MARTIN, AINGERU": 2,
+    "RODRIGUEZ ALONSO, LIHER": 3,
+    "FLORES LOPEZ, MIKEL": 4,
+    "ALBALA VIELLA, DANIEL": 5,
+    "ALARIO PRIETO, IKER": 6,
+    "PLANS DE DIEGO, LEZO": 7,
+    "MARTIN ZAMARRIPA, BEÑAT": 9,
+    "SANTIN GARCIA, JON": 17,
+    "MONEDERO DE LA DEHESA, MARKEL": 21,
+    "BALART LOPEZ, IÑIGO": 23
+  },
+  "dorsales_visitante": {
+    "CANALES GONZALEZ, DANIEL": 13,
+    "PEREZ LASHERAS, OIHER": 2,
+    "IGLESIAS ADELL, PERU": 3,
+    "NDJANKOU ONOME, PATRICK UNAX": 4,
+    "ELGEZUA VILLAR, AIUR": 5,
+    "GOMEZ CAMINOS, PEIO": 6,
+    "PEREDA SAEZ, ARATZ": 7,
+    "LAMBARRI MALPARTIDA, HEGOI": 8,
+    "SANTACOLOMA CORMENZANA, ARITZ": 9,
+    "NARVAEZ ARECHAVALA, JULEN": 10,
+    "HERRERO RODRIGUEZ, ANIER": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
