@@ -1,0 +1,286 @@
+{
+  "acta_id": "C_220759",
+  "filename": "Acta_C_220759.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "17-01-2026",
+  "hora": "11:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.AT. PERINES A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MARTINEZ ORTIZ, JESUS MARÍA"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "FERNANDEZ NAVAMUEL, JENS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "PÉREZ MARTIN, JAIRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 15,
+      "jugador": "ROBLES LARA, DAIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 37,
+      "jugador": "LIAÑO VARELA, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "LIAÑO VARELA, DANIEL",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "PÉREZ MARTIN, JAIRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "PRADA DE MIGUEL, DARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "R.S. GIMNASTICA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "CIEZA PEREZ, ASIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "TORRES SAENZ, JOSE ALEJANDRO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "MARTINEZ CASTRO, ADRIAN",
+  "titulares_local": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "GUERRA TORRO, ALBERTO",
+    "TRICIO MARTÍN, MATEO",
+    "PUENTE HERNANDEZ, MARIO",
+    "AZNAR NUÑO, HUGO",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "PÉREZ MARTIN, JAIRO",
+    "ROBLES LARA, DAIAN",
+    "LIAÑO VARELA, DANIEL",
+    "TODERO, JOAQUIN KONRAD",
+    "FERNANDEZ NAVAMUEL, JENS"
+  ],
+  "titulares_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MÚGICA BLANCO, HUGO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "FERNANDEZ TOMAS, ALVARO",
+    "CIEZA PEREZ, ASIER",
+    "SANCHEZ CUEVAS, SERGIO",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "IGLESIAS SANTIAGO, JULEN",
+    "GUERRA MIRANDA, MARTÍN",
+    "ABARRATEGUI GONZÁLEZ, JAIME"
+  ],
+  "suplentes_local": [
+    "RUIZ SANZ, MARIO",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "PRADA DE MIGUEL, DARIO"
+  ],
+  "suplentes_visitante": [
+    "ORSOLINI PALENCIA, MARIO",
+    "GOMEZ SANCHEZ, MARC",
+    "RUIZ LOBETO, IZAN",
+    "MOUSSAID, MOHAMED AMIR",
+    "MAYORDOMO NAVARRO, CRISTIAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "GUERRA TORRO, ALBERTO",
+    "TRICIO MARTÍN, MATEO",
+    "PUENTE HERNANDEZ, MARIO",
+    "AZNAR NUÑO, HUGO",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "PÉREZ MARTIN, JAIRO",
+    "ROBLES LARA, DAIAN",
+    "LIAÑO VARELA, DANIEL",
+    "TODERO, JOAQUIN KONRAD",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "PRADA DE MIGUEL, DARIO",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "RUIZ SANZ, MARIO"
+  ],
+  "jugadores_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MÚGICA BLANCO, HUGO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "FERNANDEZ TOMAS, ALVARO",
+    "CIEZA PEREZ, ASIER",
+    "SANCHEZ CUEVAS, SERGIO",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "IGLESIAS SANTIAGO, JULEN",
+    "GUERRA MIRANDA, MARTÍN",
+    "ABARRATEGUI GONZÁLEZ, JAIME",
+    "ORSOLINI PALENCIA, MARIO",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "GOMEZ SANCHEZ, MARC",
+    "RUIZ LOBETO, IZAN",
+    "MOUSSAID, MOHAMED AMIR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 39,
+      "entra": "PRADA DE MIGUEL, DARIO",
+      "sale": "ROBLES LARA, DAIAN"
+    },
+    {
+      "min": 45,
+      "entra": "TANASA TANASA, PABLO CRISTIAN",
+      "sale": "FERNANDEZ GUTIERREZ, ELOY"
+    },
+    {
+      "min": 59,
+      "entra": "HAYA SÁNCHEZ, RODRIGO",
+      "sale": "PÉREZ MARTIN, JAIRO"
+    },
+    {
+      "min": 63,
+      "entra": "RUIZ SANZ, MARIO",
+      "sale": "FERNANDEZ NAVAMUEL, JENS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "ORSOLINI PALENCIA, MARIO",
+      "sale": "TRIGO SANTOS, ALEJANDRO"
+    },
+    {
+      "min": 47,
+      "entra": "MAYORDOMO NAVARRO, CRISTIAN",
+      "sale": "MENDARO TERAN, LUIS"
+    },
+    {
+      "min": 47,
+      "entra": "GOMEZ SANCHEZ, MARC",
+      "sale": "ABARRATEGUI GONZÁLEZ, JAIME"
+    },
+    {
+      "min": 55,
+      "entra": "RUIZ LOBETO, IZAN",
+      "sale": "IGLESIAS SANTIAGO, JULEN"
+    },
+    {
+      "min": 58,
+      "entra": "MOUSSAID, MOHAMED AMIR",
+      "sale": "SANCHEZ CUEVAS, SERGIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONÇALVES JORRIN, SAMUEL": 90,
+    "GUERRA TORRO, ALBERTO": 90,
+    "TRICIO MARTÍN, MATEO": 90,
+    "PUENTE HERNANDEZ, MARIO": 90,
+    "AZNAR NUÑO, HUGO": 90,
+    "FERNANDEZ GUTIERREZ, ELOY": 45,
+    "PÉREZ MARTIN, JAIRO": 59,
+    "ROBLES LARA, DAIAN": 39,
+    "LIAÑO VARELA, DANIEL": 90,
+    "TODERO, JOAQUIN KONRAD": 90,
+    "FERNANDEZ NAVAMUEL, JENS": 63,
+    "PRADA DE MIGUEL, DARIO": 51,
+    "TANASA TANASA, PABLO CRISTIAN": 45,
+    "HAYA SÁNCHEZ, RODRIGO": 31,
+    "RUIZ SANZ, MARIO": 27,
+    "TRIGO SANTOS, ALEJANDRO": 35,
+    "MÚGICA BLANCO, HUGO": 90,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 90,
+    "FERNANDEZ TOMAS, ALVARO": 90,
+    "CIEZA PEREZ, ASIER": 90,
+    "SANCHEZ CUEVAS, SERGIO": 58,
+    "MENDARO TERAN, LUIS": 47,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 90,
+    "IGLESIAS SANTIAGO, JULEN": 55,
+    "GUERRA MIRANDA, MARTÍN": 90,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 47,
+    "ORSOLINI PALENCIA, MARIO": 55,
+    "MAYORDOMO NAVARRO, CRISTIAN": 43,
+    "GOMEZ SANCHEZ, MARC": 43,
+    "RUIZ LOBETO, IZAN": 35,
+    "MOUSSAID, MOHAMED AMIR": 32
+  },
+  "portero_local": "GONÇALVES JORRIN, SAMUEL",
+  "portero_visitante": "TRIGO SANTOS, ALEJANDRO",
+  "dorsales_local": {
+    "GONÇALVES JORRIN, SAMUEL": 1,
+    "GUERRA TORRO, ALBERTO": 3,
+    "TRICIO MARTÍN, MATEO": 4,
+    "PUENTE HERNANDEZ, MARIO": 5,
+    "AZNAR NUÑO, HUGO": 6,
+    "FERNANDEZ GUTIERREZ, ELOY": 8,
+    "PÉREZ MARTIN, JAIRO": 10,
+    "ROBLES LARA, DAIAN": 12,
+    "LIAÑO VARELA, DANIEL": 15,
+    "TODERO, JOAQUIN KONRAD": 17,
+    "FERNANDEZ NAVAMUEL, JENS": 18
+  },
+  "dorsales_visitante": {
+    "TRIGO SANTOS, ALEJANDRO": 1,
+    "MÚGICA BLANCO, HUGO": 3,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 4,
+    "FERNANDEZ TOMAS, ALVARO": 5,
+    "CIEZA PEREZ, ASIER": 8,
+    "SANCHEZ CUEVAS, SERGIO": 9,
+    "MENDARO TERAN, LUIS": 11,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 16,
+    "IGLESIAS SANTIAGO, JULEN": 17,
+    "GUERRA MIRANDA, MARTÍN": 18,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 20
+  },
+  "suspendidos": [
+    "LIAÑO VARELA, DANIEL"
+  ],
+  "_marcador_widget": true
+}
