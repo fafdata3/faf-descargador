@@ -1,0 +1,285 @@
+{
+  "acta_id": "C_244545",
+  "filename": "Acta_C_244545.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "12:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO B)",
+  "equipo_local": "U.M. ESCOBEDO A",
+  "equipo_visitante": "REAL RACING CLUB SAD B",
+  "goles_local": 1,
+  "goles_visitante": 8,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "QUINDÓS CUEVAS, YORKMAN MANUEL"
+  ],
+  "estadio": "Escobedo",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "GIRALDO TOCA, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "PERONA MARTINEZ, LARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "PERONA MARTINEZ, LARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "GOMES MONTES, LEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "GOMES MONTES, LEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "GOMES MONTES, LEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "GOMES MONTES, LEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "QUINTANA RUIGOMEZ, OMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "GOMES MONTES, LEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 17,
+      "jugador": "SOLANA PLA, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "SANZ GIL, AITOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GÜEMES JATO, JAVIER",
+  "delegado_campo_local": "SALAS GONZALEZ, SOFIA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DE PABLO ESTEBAN, CELIA",
+  "delegado_equipo_visitante": "AVENDAÑO GOMEZ, GUSTAVO",
+  "titulares_local": [
+    "ALVAREZ GALLAGHER, MATEO",
+    "MONTES RUIZ, ADRIAN",
+    "LOPEZ DIEGO, MARTIN",
+    "FUENTE HIGUERA, RODRIGO",
+    "BOL DE CASTRO, MANUEL",
+    "GIRALDO TOCA, LUCAS",
+    "MONTES CANO, HECTOR",
+    "POLO FERNANDEZ, LUKA",
+    "CALVO CHMIELEWSKI, CESAR",
+    "BUSTAMANTE RODRIGUEZ, OSCAR",
+    "VILLEGAS HERRERO, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "LIAÑO MANTECON, DIEGO",
+    "AGÜERO LÓPEZ, MARCOS",
+    "GONZALEZ ALCALDE, ENZO",
+    "GUTIERREZ ESCALANTE, MARCO",
+    "MARTINEZ PICON, MARIO",
+    "VELO RUIZ, DARIO",
+    "PERONA MARTINEZ, LARO",
+    "MADERA MOZO, ALVARO",
+    "LOPEZ SANCHEZ, HECTOR",
+    "PÉREZ ABASCAL, PABLO",
+    "FERNÁNDEZ CASADO, NICOLÁS"
+  ],
+  "suplentes_local": [
+    "PEÑA FERNANDEZ DE LUCO, ALAIN",
+    "IGBINOSUN ELICE, MARVELOUS",
+    "DURAN NORIEGA, DIEGO",
+    "GOMEZ ARENAL, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "DIAZ HERNANDEZ, CESAR",
+    "GOMES MONTES, LEO",
+    "CORTES BIARGE, VALERO",
+    "QUINTANA RUIGOMEZ, OMAR",
+    "SOLANA PLA, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GOMEZ ARENAL, DANIEL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ALVAREZ GALLAGHER, MATEO",
+    "MONTES RUIZ, ADRIAN",
+    "LOPEZ DIEGO, MARTIN",
+    "FUENTE HIGUERA, RODRIGO",
+    "BOL DE CASTRO, MANUEL",
+    "GIRALDO TOCA, LUCAS",
+    "MONTES CANO, HECTOR",
+    "POLO FERNANDEZ, LUKA",
+    "CALVO CHMIELEWSKI, CESAR",
+    "BUSTAMANTE RODRIGUEZ, OSCAR",
+    "VILLEGAS HERRERO, RODRIGO",
+    "PEÑA FERNANDEZ DE LUCO, ALAIN",
+    "DURAN NORIEGA, DIEGO",
+    "IGBINOSUN ELICE, MARVELOUS"
+  ],
+  "jugadores_visitante": [
+    "LIAÑO MANTECON, DIEGO",
+    "AGÜERO LÓPEZ, MARCOS",
+    "GONZALEZ ALCALDE, ENZO",
+    "GUTIERREZ ESCALANTE, MARCO",
+    "MARTINEZ PICON, MARIO",
+    "VELO RUIZ, DARIO",
+    "PERONA MARTINEZ, LARO",
+    "MADERA MOZO, ALVARO",
+    "LOPEZ SANCHEZ, HECTOR",
+    "PÉREZ ABASCAL, PABLO",
+    "FERNÁNDEZ CASADO, NICOLÁS",
+    "DIAZ HERNANDEZ, CESAR",
+    "SOLANA PLA, DIEGO",
+    "CORTES BIARGE, VALERO",
+    "QUINTANA RUIGOMEZ, OMAR",
+    "GOMES MONTES, LEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "PEÑA FERNANDEZ DE LUCO, ALAIN",
+      "sale": "CALVO CHMIELEWSKI, CESAR"
+    },
+    {
+      "min": 53,
+      "entra": "DURAN NORIEGA, DIEGO",
+      "sale": "VILLEGAS HERRERO, RODRIGO"
+    },
+    {
+      "min": 53,
+      "entra": "IGBINOSUN ELICE, MARVELOUS",
+      "sale": "BUSTAMANTE RODRIGUEZ, OSCAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "DIAZ HERNANDEZ, CESAR",
+      "sale": "AGÜERO LÓPEZ, MARCOS"
+    },
+    {
+      "min": 36,
+      "entra": "SOLANA PLA, DIEGO",
+      "sale": "GONZALEZ ALCALDE, ENZO"
+    },
+    {
+      "min": 36,
+      "entra": "CORTES BIARGE, VALERO",
+      "sale": "FERNÁNDEZ CASADO, NICOLÁS"
+    },
+    {
+      "min": 36,
+      "entra": "QUINTANA RUIGOMEZ, OMAR",
+      "sale": "MADERA MOZO, ALVARO"
+    },
+    {
+      "min": 36,
+      "entra": "GOMES MONTES, LEO",
+      "sale": "PÉREZ ABASCAL, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALVAREZ GALLAGHER, MATEO": 90,
+    "MONTES RUIZ, ADRIAN": 90,
+    "LOPEZ DIEGO, MARTIN": 90,
+    "FUENTE HIGUERA, RODRIGO": 90,
+    "BOL DE CASTRO, MANUEL": 90,
+    "GIRALDO TOCA, LUCAS": 90,
+    "MONTES CANO, HECTOR": 90,
+    "POLO FERNANDEZ, LUKA": 90,
+    "CALVO CHMIELEWSKI, CESAR": 36,
+    "BUSTAMANTE RODRIGUEZ, OSCAR": 53,
+    "VILLEGAS HERRERO, RODRIGO": 53,
+    "PEÑA FERNANDEZ DE LUCO, ALAIN": 54,
+    "DURAN NORIEGA, DIEGO": 37,
+    "IGBINOSUN ELICE, MARVELOUS": 37,
+    "LIAÑO MANTECON, DIEGO": 90,
+    "AGÜERO LÓPEZ, MARCOS": 36,
+    "GONZALEZ ALCALDE, ENZO": 36,
+    "GUTIERREZ ESCALANTE, MARCO": 90,
+    "MARTINEZ PICON, MARIO": 90,
+    "VELO RUIZ, DARIO": 90,
+    "PERONA MARTINEZ, LARO": 90,
+    "MADERA MOZO, ALVARO": 36,
+    "LOPEZ SANCHEZ, HECTOR": 90,
+    "PÉREZ ABASCAL, PABLO": 36,
+    "FERNÁNDEZ CASADO, NICOLÁS": 36,
+    "DIAZ HERNANDEZ, CESAR": 54,
+    "SOLANA PLA, DIEGO": 54,
+    "CORTES BIARGE, VALERO": 54,
+    "QUINTANA RUIGOMEZ, OMAR": 54,
+    "GOMES MONTES, LEO": 54
+  },
+  "portero_local": "ALVAREZ GALLAGHER, MATEO",
+  "portero_visitante": "LIAÑO MANTECON, DIEGO",
+  "dorsales_local": {
+    "ALVAREZ GALLAGHER, MATEO": 1,
+    "MONTES RUIZ, ADRIAN": 3,
+    "LOPEZ DIEGO, MARTIN": 6,
+    "FUENTE HIGUERA, RODRIGO": 7,
+    "BOL DE CASTRO, MANUEL": 8,
+    "GIRALDO TOCA, LUCAS": 10,
+    "MONTES CANO, HECTOR": 11,
+    "POLO FERNANDEZ, LUKA": 12,
+    "CALVO CHMIELEWSKI, CESAR": 14,
+    "BUSTAMANTE RODRIGUEZ, OSCAR": 16,
+    "VILLEGAS HERRERO, RODRIGO": 18
+  },
+  "dorsales_visitante": {
+    "LIAÑO MANTECON, DIEGO": 1,
+    "AGÜERO LÓPEZ, MARCOS": 2,
+    "GONZALEZ ALCALDE, ENZO": 3,
+    "GUTIERREZ ESCALANTE, MARCO": 4,
+    "MARTINEZ PICON, MARIO": 5,
+    "VELO RUIZ, DARIO": 6,
+    "PERONA MARTINEZ, LARO": 7,
+    "MADERA MOZO, ALVARO": 8,
+    "LOPEZ SANCHEZ, HECTOR": 9,
+    "PÉREZ ABASCAL, PABLO": 10,
+    "FERNÁNDEZ CASADO, NICOLÁS": 11
+  },
+  "suspendidos": []
+}
