@@ -1,0 +1,284 @@
+{
+  "acta_id": "C_220703",
+  "filename": "Acta_C_220703.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 9,
+  "fecha": "15-11-2025",
+  "hora": "15:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. BEZANA A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RUAS ZAMANILLO, ALEJANDRO"
+  ],
+  "estadio": "Santa Cruz de Bezana",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "DE LA TORRE MARQUEZ, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 20,
+      "jugador": "POLANCO RUIZ, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "DEL TIO MALMEHG, ERIK",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "RUIZ GARCIA, IBAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "MONTES DE NEIRA BALBOA, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "C.D. AMISTAD SNIACE A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "DIESTRO PEREZ, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "PALAZUELOS ESCALANTE, ENZO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SAIZ ALVAREZ, PABLO",
+  "entrenador_visitante": "DORRONSORO GONZALEZ, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ORIA ROYANO, MARIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ORIA ROYANO, MARIO",
+  "delegado_equipo_visitante": "DORRONSORO OBREGON, PEDRO MARIA",
+  "titulares_local": [
+    "MUGICA FERNANDEZ, VICTOR",
+    "ARROYO CESPEDES, DIEGO",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "CRESPO PEÑA, JUAN",
+    "MARTINEZ LUENA, OLIVER",
+    "VELEZ BAHILLO, PEDRO",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "RUIZ GARCIA, IBAI",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "PANDO DOSAL, HUGO"
+  ],
+  "titulares_visitante": [
+    "BLANCO GUTIERREZ, ANDER",
+    "ARTECHE PEREZ, DIEGO",
+    "DIESTRO PEREZ, MARIO",
+    "FUNARIU, DAVID IULIAN",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "ANDRES GARCIA, CARLOS",
+    "GARCIA DE LA RASILLA PEREZ, MARTIN",
+    "VILLEGAS AIZPURUA, ASIER",
+    "POLANCO RUIZ, MARCOS",
+    "SAMPEDRO GUTIERREZ, LEO"
+  ],
+  "suplentes_local": [
+    "MORA PUIG-PEY, LUIS",
+    "MARTIN GUTIERREZ, LUCAS",
+    "FERNANDEZ HOYUELA, ALEJANDRO",
+    "BARROSO REBAQUE, ALEX",
+    "AJURIA CRESPO, NICOLAS"
+  ],
+  "suplentes_visitante": [
+    "GOMEZ VILLANUEVA, ADRIAN",
+    "DEL RIO PELLICER, MARCO",
+    "PALAZUELOS ESCALANTE, ENZO",
+    "LÓPEZ CASTANEDO, MARIO",
+    "COVARRUBIAS MARTIN, LUCAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MUGICA FERNANDEZ, VICTOR",
+    "ARROYO CESPEDES, DIEGO",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "CRESPO PEÑA, JUAN",
+    "MARTINEZ LUENA, OLIVER",
+    "VELEZ BAHILLO, PEDRO",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "RUIZ GARCIA, IBAI",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "PANDO DOSAL, HUGO",
+    "MORA PUIG-PEY, LUIS",
+    "FERNANDEZ HOYUELA, ALEJANDRO",
+    "MARTIN GUTIERREZ, LUCAS",
+    "BARROSO REBAQUE, ALEX",
+    "AJURIA CRESPO, NICOLAS"
+  ],
+  "jugadores_visitante": [
+    "BLANCO GUTIERREZ, ANDER",
+    "ARTECHE PEREZ, DIEGO",
+    "DIESTRO PEREZ, MARIO",
+    "FUNARIU, DAVID IULIAN",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "ANDRES GARCIA, CARLOS",
+    "GARCIA DE LA RASILLA PEREZ, MARTIN",
+    "VILLEGAS AIZPURUA, ASIER",
+    "POLANCO RUIZ, MARCOS",
+    "SAMPEDRO GUTIERREZ, LEO",
+    "GOMEZ VILLANUEVA, ADRIAN",
+    "DEL RIO PELLICER, MARCO",
+    "PALAZUELOS ESCALANTE, ENZO",
+    "LÓPEZ CASTANEDO, MARIO",
+    "COVARRUBIAS MARTIN, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "MORA PUIG-PEY, LUIS",
+      "sale": "MUGICA FERNANDEZ, VICTOR"
+    },
+    {
+      "min": 35,
+      "entra": "FERNANDEZ HOYUELA, ALEJANDRO",
+      "sale": "MARTINEZ LUENA, OLIVER"
+    },
+    {
+      "min": 35,
+      "entra": "MARTIN GUTIERREZ, LUCAS",
+      "sale": "PANDO DOSAL, HUGO"
+    },
+    {
+      "min": 51,
+      "entra": "BARROSO REBAQUE, ALEX",
+      "sale": "VELEZ BAHILLO, PEDRO"
+    },
+    {
+      "min": 61,
+      "entra": "AJURIA CRESPO, NICOLAS",
+      "sale": "ARROYO CESPEDES, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "GOMEZ VILLANUEVA, ADRIAN",
+      "sale": "BLANCO GUTIERREZ, ANDER"
+    },
+    {
+      "min": 56,
+      "entra": "DEL RIO PELLICER, MARCO",
+      "sale": "VILLEGAS AIZPURUA, ASIER"
+    },
+    {
+      "min": 60,
+      "entra": "PALAZUELOS ESCALANTE, ENZO",
+      "sale": "POLANCO RUIZ, MARCOS"
+    },
+    {
+      "min": 60,
+      "entra": "LÓPEZ CASTANEDO, MARIO",
+      "sale": "GARCIA DE LA RASILLA PEREZ, MARTIN"
+    },
+    {
+      "min": 65,
+      "entra": "COVARRUBIAS MARTIN, LUCAS",
+      "sale": "LOMBILLA FERNANDEZ, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MUGICA FERNANDEZ, VICTOR": 35,
+    "ARROYO CESPEDES, DIEGO": 61,
+    "MONTES DE NEIRA BALBOA, LUCAS": 90,
+    "DEL TIO MALMEHG, ERIK": 90,
+    "CRESPO PEÑA, JUAN": 90,
+    "MARTINEZ LUENA, OLIVER": 35,
+    "VELEZ BAHILLO, PEDRO": 51,
+    "SANTAEULALIA PEREZ, NICOLAS": 90,
+    "RUIZ GARCIA, IBAI": 90,
+    "GARCÍA VÁZQUEZ, HUGO": 90,
+    "PANDO DOSAL, HUGO": 35,
+    "MORA PUIG-PEY, LUIS": 55,
+    "FERNANDEZ HOYUELA, ALEJANDRO": 55,
+    "MARTIN GUTIERREZ, LUCAS": 55,
+    "BARROSO REBAQUE, ALEX": 39,
+    "AJURIA CRESPO, NICOLAS": 29,
+    "BLANCO GUTIERREZ, ANDER": 35,
+    "ARTECHE PEREZ, DIEGO": 90,
+    "DIESTRO PEREZ, MARIO": 90,
+    "FUNARIU, DAVID IULIAN": 90,
+    "LOMBILLA FERNANDEZ, HUGO": 65,
+    "DE LA TORRE MARQUEZ, LUCAS": 90,
+    "ANDRES GARCIA, CARLOS": 90,
+    "GARCIA DE LA RASILLA PEREZ, MARTIN": 60,
+    "VILLEGAS AIZPURUA, ASIER": 56,
+    "POLANCO RUIZ, MARCOS": 60,
+    "SAMPEDRO GUTIERREZ, LEO": 90,
+    "GOMEZ VILLANUEVA, ADRIAN": 55,
+    "DEL RIO PELLICER, MARCO": 34,
+    "PALAZUELOS ESCALANTE, ENZO": 30,
+    "LÓPEZ CASTANEDO, MARIO": 30,
+    "COVARRUBIAS MARTIN, LUCAS": 25
+  },
+  "portero_local": "MUGICA FERNANDEZ, VICTOR",
+  "portero_visitante": "BLANCO GUTIERREZ, ANDER",
+  "dorsales_local": {
+    "MUGICA FERNANDEZ, VICTOR": 1,
+    "ARROYO CESPEDES, DIEGO": 2,
+    "MONTES DE NEIRA BALBOA, LUCAS": 3,
+    "DEL TIO MALMEHG, ERIK": 5,
+    "CRESPO PEÑA, JUAN": 6,
+    "MARTINEZ LUENA, OLIVER": 9,
+    "VELEZ BAHILLO, PEDRO": 10,
+    "SANTAEULALIA PEREZ, NICOLAS": 11,
+    "RUIZ GARCIA, IBAI": 12,
+    "GARCÍA VÁZQUEZ, HUGO": 14,
+    "PANDO DOSAL, HUGO": 15
+  },
+  "dorsales_visitante": {
+    "BLANCO GUTIERREZ, ANDER": 13,
+    "ARTECHE PEREZ, DIEGO": 2,
+    "DIESTRO PEREZ, MARIO": 3,
+    "FUNARIU, DAVID IULIAN": 6,
+    "LOMBILLA FERNANDEZ, HUGO": 7,
+    "DE LA TORRE MARQUEZ, LUCAS": 9,
+    "ANDRES GARCIA, CARLOS": 11,
+    "GARCIA DE LA RASILLA PEREZ, MARTIN": 12,
+    "VILLEGAS AIZPURUA, ASIER": 14,
+    "POLANCO RUIZ, MARCOS": 20,
+    "SAMPEDRO GUTIERREZ, LEO": 22
+  },
+  "suspendidos": []
+}
