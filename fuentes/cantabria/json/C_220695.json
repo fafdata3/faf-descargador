@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_220695",
+  "filename": "Acta_C_220695.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 8,
+  "fecha": "09-11-2025",
+  "hora": "10:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. BEZANA A",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZÁLEZ CANTERA, ADRIAN"
+  ],
+  "estadio": "Santa Cruz de Bezana",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "VELEZ BAHILLO, PEDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "SANTAEULALIA PEREZ, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "VELEZ BAHILLO, PEDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "GARCÍA VÁZQUEZ, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "VELARDE C.F. A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "HOYOS ORTEGA, LUCA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "MUÑOZ MORA, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SAIZ ALVAREZ, PABLO",
+  "entrenador_visitante": "SALCINES PRIETO, LUIS FELIPE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ORIA ROYANO, MARIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ORIA ROYANO, MARIO",
+  "delegado_equipo_visitante": "MARTINEZ CASTRO, DANIEL",
+  "titulares_local": [
+    "MORA PUIG-PEY, LUIS",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "MARTIN GUTIERREZ, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "FERNANDEZ HOYUELA, ALEJANDRO",
+    "BARROSO REBAQUE, ALEX",
+    "MARTINEZ LUENA, OLIVER",
+    "VELEZ BAHILLO, PEDRO",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "AJURIA CRESPO, NICOLAS"
+  ],
+  "titulares_visitante": [
+    "SALCINES ZARCO, AYMAR",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "MARTINEZ GONZALEZ, DANIEL",
+    "SANCHEZ SOTO, MATEO",
+    "PEREZ VILLA, DAVID",
+    "PELAYO GARCIA, NICOLAS"
+  ],
+  "suplentes_local": [
+    "ARROYO CESPEDES, DIEGO",
+    "CRESPO PEÑA, JUAN",
+    "RUIZ GARCIA, IBAI",
+    "PANDO DOSAL, HUGO",
+    "GARCIA GARCIA, JAVIER"
+  ],
+  "suplentes_visitante": [
+    "LAVIN TOCA, NECO",
+    "ACHURRA CESAREO, RAFAEL",
+    "HOYOS ORTEGA, LUCA"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MORA PUIG-PEY, LUIS",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "MARTIN GUTIERREZ, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "FERNANDEZ HOYUELA, ALEJANDRO",
+    "BARROSO REBAQUE, ALEX",
+    "MARTINEZ LUENA, OLIVER",
+    "VELEZ BAHILLO, PEDRO",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "AJURIA CRESPO, NICOLAS",
+    "RUIZ GARCIA, IBAI",
+    "ARROYO CESPEDES, DIEGO",
+    "CRESPO PEÑA, JUAN",
+    "PANDO DOSAL, HUGO",
+    "GARCIA GARCIA, JAVIER"
+  ],
+  "jugadores_visitante": [
+    "SALCINES ZARCO, AYMAR",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "MARTINEZ GONZALEZ, DANIEL",
+    "SANCHEZ SOTO, MATEO",
+    "PEREZ VILLA, DAVID",
+    "PELAYO GARCIA, NICOLAS",
+    "LAVIN TOCA, NECO",
+    "HOYOS ORTEGA, LUCA",
+    "ACHURRA CESAREO, RAFAEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "RUIZ GARCIA, IBAI",
+      "sale": "MARTINEZ LUENA, OLIVER"
+    },
+    {
+      "min": 40,
+      "entra": "ARROYO CESPEDES, DIEGO",
+      "sale": "BARROSO REBAQUE, ALEX"
+    },
+    {
+      "min": 40,
+      "entra": "CRESPO PEÑA, JUAN",
+      "sale": "AJURIA CRESPO, NICOLAS"
+    },
+    {
+      "min": 52,
+      "entra": "PANDO DOSAL, HUGO",
+      "sale": "MARTIN GUTIERREZ, LUCAS"
+    },
+    {
+      "min": 62,
+      "entra": "GARCIA GARCIA, JAVIER",
+      "sale": "SANTAEULALIA PEREZ, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 38,
+      "entra": "LAVIN TOCA, NECO",
+      "sale": "MARTINEZ GONZALEZ, DANIEL"
+    },
+    {
+      "min": 40,
+      "entra": "HOYOS ORTEGA, LUCA",
+      "sale": "SANCHEZ SOTO, MATEO"
+    },
+    {
+      "min": 62,
+      "entra": "ACHURRA CESAREO, RAFAEL",
+      "sale": "DE ANDRÉS ORDIEREZ, RUBÉN"
+    }
+  ],
+  "minutos_jugadores": {
+    "MORA PUIG-PEY, LUIS": 90,
+    "MONTES DE NEIRA BALBOA, LUCAS": 90,
+    "MARTIN GUTIERREZ, LUCAS": 52,
+    "DEL TIO MALMEHG, ERIK": 90,
+    "FERNANDEZ HOYUELA, ALEJANDRO": 90,
+    "BARROSO REBAQUE, ALEX": 40,
+    "MARTINEZ LUENA, OLIVER": 40,
+    "VELEZ BAHILLO, PEDRO": 90,
+    "SANTAEULALIA PEREZ, NICOLAS": 62,
+    "GARCÍA VÁZQUEZ, HUGO": 90,
+    "AJURIA CRESPO, NICOLAS": 40,
+    "RUIZ GARCIA, IBAI": 50,
+    "ARROYO CESPEDES, DIEGO": 50,
+    "CRESPO PEÑA, JUAN": 50,
+    "PANDO DOSAL, HUGO": 38,
+    "GARCIA GARCIA, JAVIER": 28,
+    "SALCINES ZARCO, AYMAR": 90,
+    "MUÑOZ MORA, HUGO": 90,
+    "RUIZ MUÑIZ, MARIO": 90,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 62,
+    "BARBA AGENJO, DARIO": 90,
+    "ARCE ABASCAL, DIEGO": 90,
+    "DIEZ GARCIA, MATEO": 90,
+    "MARTINEZ GONZALEZ, DANIEL": 38,
+    "SANCHEZ SOTO, MATEO": 40,
+    "PEREZ VILLA, DAVID": 90,
+    "PELAYO GARCIA, NICOLAS": 90,
+    "LAVIN TOCA, NECO": 52,
+    "HOYOS ORTEGA, LUCA": 50,
+    "ACHURRA CESAREO, RAFAEL": 28
+  },
+  "portero_local": "MORA PUIG-PEY, LUIS",
+  "portero_visitante": "SALCINES ZARCO, AYMAR",
+  "dorsales_local": {
+    "MORA PUIG-PEY, LUIS": 13,
+    "MONTES DE NEIRA BALBOA, LUCAS": 3,
+    "MARTIN GUTIERREZ, LUCAS": 4,
+    "DEL TIO MALMEHG, ERIK": 5,
+    "FERNANDEZ HOYUELA, ALEJANDRO": 7,
+    "BARROSO REBAQUE, ALEX": 8,
+    "MARTINEZ LUENA, OLIVER": 9,
+    "VELEZ BAHILLO, PEDRO": 10,
+    "SANTAEULALIA PEREZ, NICOLAS": 11,
+    "GARCÍA VÁZQUEZ, HUGO": 14,
+    "AJURIA CRESPO, NICOLAS": 18
+  },
+  "dorsales_visitante": {
+    "SALCINES ZARCO, AYMAR": 1,
+    "MUÑOZ MORA, HUGO": 3,
+    "RUIZ MUÑIZ, MARIO": 4,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 5,
+    "BARBA AGENJO, DARIO": 6,
+    "ARCE ABASCAL, DIEGO": 7,
+    "DIEZ GARCIA, MATEO": 8,
+    "MARTINEZ GONZALEZ, DANIEL": 11,
+    "SANCHEZ SOTO, MATEO": 14,
+    "PEREZ VILLA, DAVID": 15,
+    "PELAYO GARCIA, NICOLAS": 19
+  },
+  "suspendidos": []
+}
