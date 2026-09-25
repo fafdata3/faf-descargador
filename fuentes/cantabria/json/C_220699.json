@@ -1,0 +1,259 @@
+{
+  "acta_id": "C_220699",
+  "filename": "Acta_C_220699.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 8,
+  "fecha": "08-11-2025",
+  "hora": "12:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. TROPEZON A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GUTIERREZ ZUBIZARRETA , MANUEL DAVID"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 33,
+      "jugador": "LUQUE MARTINEZ, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 33,
+      "jugador": "LAMO MOLINA, JUAN ANTONIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 56,
+      "jugador": "DOS REIS REYES, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "DOS REIS REYES, ANDER",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "R.S. GIMNASTICA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "FERNANDEZ TOMAS, ALVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "RUIZ LOBETO, IZAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DEL CASTILLO RUIZ, FRANCISCO JAVIER",
+  "entrenador_visitante": "URSUGUIA PELAEZ, ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LAMO MOLINA, JUAN ANTONIO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RUIZ TROUILE, JAIRO",
+    "GUTIERREZ MANTECON, MIKEL",
+    "CASTILLO MONTES, ALEJANDRO",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "HOYOS ALUNDA, JOSE ANTONIO",
+    "DOS REIS REYES, ANDER",
+    "GUERRA GONZALEZ, JACOBO"
+  ],
+  "titulares_visitante": [
+    "ORSOLINI PALENCIA, MARIO",
+    "MIER MONTES, ADRIAN",
+    "MÚGICA BLANCO, HUGO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "SANCHEZ CUEVAS, SERGIO",
+    "MOUSSAID, MOHAMED AMIR",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "RODICIO DE LA GRANJA, ANDRÉS",
+    "ABARRATEGUI GONZÁLEZ, JAIME"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ BLANCO, JORGE",
+    "SALDARRIAGA VARELA, LEONARDO",
+    "HAKKIOUI KHAMOUSSI, AYMENE"
+  ],
+  "suplentes_visitante": [
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "CIEZA PEREZ, ASIER",
+    "RUIZ LOBETO, IZAN",
+    "MENDARO TERAN, LUIS",
+    "IGLESIAS SANTIAGO, JULEN"
+  ],
+  "convocados_sin_jugar_local": [
+    "FERNANDEZ BLANCO, JORGE"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RUIZ TROUILE, JAIRO",
+    "GUTIERREZ MANTECON, MIKEL",
+    "CASTILLO MONTES, ALEJANDRO",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "HOYOS ALUNDA, JOSE ANTONIO",
+    "DOS REIS REYES, ANDER",
+    "GUERRA GONZALEZ, JACOBO",
+    "SALDARRIAGA VARELA, LEONARDO",
+    "HAKKIOUI KHAMOUSSI, AYMENE"
+  ],
+  "jugadores_visitante": [
+    "ORSOLINI PALENCIA, MARIO",
+    "MIER MONTES, ADRIAN",
+    "MÚGICA BLANCO, HUGO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "SANCHEZ CUEVAS, SERGIO",
+    "MOUSSAID, MOHAMED AMIR",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "RODICIO DE LA GRANJA, ANDRÉS",
+    "ABARRATEGUI GONZÁLEZ, JAIME",
+    "IGLESIAS SANTIAGO, JULEN",
+    "MENDARO TERAN, LUIS",
+    "RUIZ LOBETO, IZAN",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "CIEZA PEREZ, ASIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "SALDARRIAGA VARELA, LEONARDO",
+      "sale": "HOYOS ALUNDA, JOSE ANTONIO"
+    },
+    {
+      "min": 51,
+      "entra": "HAKKIOUI KHAMOUSSI, AYMENE",
+      "sale": "GUTIERREZ MANTECON, MIKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 42,
+      "entra": "IGLESIAS SANTIAGO, JULEN",
+      "sale": "MAYORDOMO NAVARRO, CRISTIAN"
+    },
+    {
+      "min": 42,
+      "entra": "MENDARO TERAN, LUIS",
+      "sale": "RODICIO DE LA GRANJA, ANDRÉS"
+    },
+    {
+      "min": 56,
+      "entra": "RUIZ LOBETO, IZAN",
+      "sale": "MOUSSAID, MOHAMED AMIR"
+    },
+    {
+      "min": 62,
+      "entra": "MINUTA DARIAS, GIANFRANCO JOSE",
+      "sale": "ABARRATEGUI GONZÁLEZ, JAIME"
+    },
+    {
+      "min": 62,
+      "entra": "CIEZA PEREZ, ASIER",
+      "sale": "MIER MONTES, ADRIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ TROUILE, JAIRO": 90,
+    "GUTIERREZ MANTECON, MIKEL": 51,
+    "CASTILLO MONTES, ALEJANDRO": 90,
+    "BUENO GARCIA, IAN": 90,
+    "ITURBE ACEBAL, DIEGO": 90,
+    "ROJO AROZAMENA, DAVID": 90,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 90,
+    "COSSIO DELGADO, MARCO": 90,
+    "HOYOS ALUNDA, JOSE ANTONIO": 45,
+    "DOS REIS REYES, ANDER": 90,
+    "GUERRA GONZALEZ, JACOBO": 90,
+    "SALDARRIAGA VARELA, LEONARDO": 45,
+    "HAKKIOUI KHAMOUSSI, AYMENE": 39,
+    "ORSOLINI PALENCIA, MARIO": 90,
+    "MIER MONTES, ADRIAN": 62,
+    "MÚGICA BLANCO, HUGO": 90,
+    "FERNANDEZ TOMAS, ALVARO": 90,
+    "LUQUE MARTINEZ, AIMAR": 90,
+    "SANCHEZ CUEVAS, SERGIO": 90,
+    "MOUSSAID, MOHAMED AMIR": 56,
+    "MAYORDOMO NAVARRO, CRISTIAN": 42,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 90,
+    "RODICIO DE LA GRANJA, ANDRÉS": 42,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 62,
+    "IGLESIAS SANTIAGO, JULEN": 48,
+    "MENDARO TERAN, LUIS": 48,
+    "RUIZ LOBETO, IZAN": 34,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 28,
+    "CIEZA PEREZ, ASIER": 28
+  },
+  "portero_local": "RUIZ TROUILE, JAIRO",
+  "portero_visitante": "ORSOLINI PALENCIA, MARIO",
+  "dorsales_local": {
+    "RUIZ TROUILE, JAIRO": 13,
+    "GUTIERREZ MANTECON, MIKEL": 3,
+    "CASTILLO MONTES, ALEJANDRO": 4,
+    "BUENO GARCIA, IAN": 9,
+    "ITURBE ACEBAL, DIEGO": 10,
+    "ROJO AROZAMENA, DAVID": 11,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 12,
+    "COSSIO DELGADO, MARCO": 14,
+    "HOYOS ALUNDA, JOSE ANTONIO": 17,
+    "DOS REIS REYES, ANDER": 18,
+    "GUERRA GONZALEZ, JACOBO": 19
+  },
+  "dorsales_visitante": {
+    "ORSOLINI PALENCIA, MARIO": 13,
+    "MIER MONTES, ADRIAN": 2,
+    "MÚGICA BLANCO, HUGO": 3,
+    "FERNANDEZ TOMAS, ALVARO": 5,
+    "LUQUE MARTINEZ, AIMAR": 7,
+    "SANCHEZ CUEVAS, SERGIO": 9,
+    "MOUSSAID, MOHAMED AMIR": 14,
+    "MAYORDOMO NAVARRO, CRISTIAN": 15,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 16,
+    "RODICIO DE LA GRANJA, ANDRÉS": 19,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 20
+  },
+  "suspendidos": [
+    "DOS REIS REYES, ANDER"
+  ],
+  "_marcador_widget": true
+}
