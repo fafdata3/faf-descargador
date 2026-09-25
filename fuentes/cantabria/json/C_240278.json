@@ -1,0 +1,279 @@
+{
+  "acta_id": "C_240278",
+  "filename": "Acta_C_240278.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "19-09-2026",
+  "hora": "16:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "A.D. SAN AGUSTIN A",
+  "equipo_visitante": "C.D. MONTE B",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GOMEZ MARTINEZ, SERGIO"
+  ],
+  "estadio": "Liberto Toca",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "GUTIERREZ GARCIA, FABIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "DELGADO GARCIA, RAFAEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "QUINDOS CANTERA, JAVIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "GUTIERREZ VENERO, LORENZO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 31,
+      "jugador": "BEZANILLA CRESPO, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "GUTIERREZ VENERO, LORENZO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "UMBRIA CORIA, RAFAEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "C.D. MONTE B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MACHIN VALLEJO, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MACHIN VALLEJO, PABLO",
+  "delegado_equipo_visitante": "GEREZ DE LA PEÑA, VICENTE",
+  "titulares_local": [
+    "LAQUINTANA, LORIS",
+    "UMBRIA CORIA, RAFAEL",
+    "GONZALEZ RIO, DANIEL",
+    "BEZANILLA CRESPO, PABLO",
+    "SEBRANGO ROYO, PABLO",
+    "LOPEZ SEVILLA, MARCOS",
+    "CAÑEDO SAÑUDO, GONZALO",
+    "GUTIERREZ VENERO, LORENZO",
+    "QUINDOS CANTERA, JAVIER",
+    "GARCÍA-DIEGO GONZALEZ, MANUEL",
+    "SEBRANGO ROYO, SANTIAGO"
+  ],
+  "titulares_visitante": [
+    "ALBALADEJO GÓMEZ, PABLO",
+    "DEL HOYO VILLACORTA, ADRIAN",
+    "CABIECES GONZÁLEZ, MARCO",
+    "FERNANDEZ DIAZ, PABLO",
+    "ARCE MERODIO, PAU",
+    "VILLAGÓMEZ CASTRO, JUAN DIEGO",
+    "GUTIERREZ GARCIA, FABIO",
+    "CAÑIZARES CRUZ, OSCAR",
+    "DELGADO GARCIA, RAFAEL",
+    "ROMAN SACRISTAN, LEO",
+    "NUÑEZ RODRIGUEZ, JOSE RAFAEL"
+  ],
+  "suplentes_local": [
+    "SIERRA HERRERO, LUIS",
+    "GARCIA DE GALDEANO MENA, IBAI",
+    "BEZANILLA SAIZ, PABLO",
+    "MANZANARES ORTIZ, LUIS",
+    "PASTORA LUSARES, SERGIO"
+  ],
+  "suplentes_visitante": [
+    "RODRIGUEZ GOMEZ, NEO",
+    "MARTINEZ BARCINA, MIGUEL",
+    "ACHA MONTES, FERNANDO",
+    "ARROYO LLANO, ALVARO",
+    "MARTIN DIEZ, LUCAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "RODRIGUEZ GOMEZ, NEO"
+  ],
+  "jugadores_local": [
+    "LAQUINTANA, LORIS",
+    "UMBRIA CORIA, RAFAEL",
+    "GONZALEZ RIO, DANIEL",
+    "BEZANILLA CRESPO, PABLO",
+    "SEBRANGO ROYO, PABLO",
+    "LOPEZ SEVILLA, MARCOS",
+    "CAÑEDO SAÑUDO, GONZALO",
+    "GUTIERREZ VENERO, LORENZO",
+    "QUINDOS CANTERA, JAVIER",
+    "GARCÍA-DIEGO GONZALEZ, MANUEL",
+    "SEBRANGO ROYO, SANTIAGO",
+    "BEZANILLA SAIZ, PABLO",
+    "PASTORA LUSARES, SERGIO",
+    "GARCIA DE GALDEANO MENA, IBAI",
+    "SIERRA HERRERO, LUIS",
+    "MANZANARES ORTIZ, LUIS"
+  ],
+  "jugadores_visitante": [
+    "ALBALADEJO GÓMEZ, PABLO",
+    "DEL HOYO VILLACORTA, ADRIAN",
+    "CABIECES GONZÁLEZ, MARCO",
+    "FERNANDEZ DIAZ, PABLO",
+    "ARCE MERODIO, PAU",
+    "VILLAGÓMEZ CASTRO, JUAN DIEGO",
+    "GUTIERREZ GARCIA, FABIO",
+    "CAÑIZARES CRUZ, OSCAR",
+    "DELGADO GARCIA, RAFAEL",
+    "ROMAN SACRISTAN, LEO",
+    "NUÑEZ RODRIGUEZ, JOSE RAFAEL",
+    "MARTIN DIEZ, LUCAS",
+    "MARTINEZ BARCINA, MIGUEL",
+    "ACHA MONTES, FERNANDO",
+    "ARROYO LLANO, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "BEZANILLA SAIZ, PABLO",
+      "sale": "CAÑEDO SAÑUDO, GONZALO"
+    },
+    {
+      "min": 55,
+      "entra": "PASTORA LUSARES, SERGIO",
+      "sale": "SEBRANGO ROYO, PABLO"
+    },
+    {
+      "min": 56,
+      "entra": "GARCIA DE GALDEANO MENA, IBAI",
+      "sale": "GARCÍA-DIEGO GONZALEZ, MANUEL"
+    },
+    {
+      "min": 58,
+      "entra": "SIERRA HERRERO, LUIS",
+      "sale": "QUINDOS CANTERA, JAVIER"
+    },
+    {
+      "min": 65,
+      "entra": "MANZANARES ORTIZ, LUIS",
+      "sale": "BEZANILLA CRESPO, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "MARTIN DIEZ, LUCAS",
+      "sale": "ARCE MERODIO, PAU"
+    },
+    {
+      "min": 55,
+      "entra": "MARTINEZ BARCINA, MIGUEL",
+      "sale": "VILLAGÓMEZ CASTRO, JUAN DIEGO"
+    },
+    {
+      "min": 68,
+      "entra": "ACHA MONTES, FERNANDO",
+      "sale": "DELGADO GARCIA, RAFAEL"
+    },
+    {
+      "min": 71,
+      "entra": "ARROYO LLANO, ALVARO",
+      "sale": "GUTIERREZ GARCIA, FABIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "LAQUINTANA, LORIS": 90,
+    "UMBRIA CORIA, RAFAEL": 90,
+    "GONZALEZ RIO, DANIEL": 90,
+    "BEZANILLA CRESPO, PABLO": 65,
+    "SEBRANGO ROYO, PABLO": 55,
+    "LOPEZ SEVILLA, MARCOS": 90,
+    "CAÑEDO SAÑUDO, GONZALO": 50,
+    "GUTIERREZ VENERO, LORENZO": 90,
+    "QUINDOS CANTERA, JAVIER": 58,
+    "GARCÍA-DIEGO GONZALEZ, MANUEL": 56,
+    "SEBRANGO ROYO, SANTIAGO": 90,
+    "BEZANILLA SAIZ, PABLO": 40,
+    "PASTORA LUSARES, SERGIO": 35,
+    "GARCIA DE GALDEANO MENA, IBAI": 34,
+    "SIERRA HERRERO, LUIS": 32,
+    "MANZANARES ORTIZ, LUIS": 25,
+    "ALBALADEJO GÓMEZ, PABLO": 90,
+    "DEL HOYO VILLACORTA, ADRIAN": 90,
+    "CABIECES GONZÁLEZ, MARCO": 90,
+    "FERNANDEZ DIAZ, PABLO": 90,
+    "ARCE MERODIO, PAU": 54,
+    "VILLAGÓMEZ CASTRO, JUAN DIEGO": 55,
+    "GUTIERREZ GARCIA, FABIO": 71,
+    "CAÑIZARES CRUZ, OSCAR": 90,
+    "DELGADO GARCIA, RAFAEL": 68,
+    "ROMAN SACRISTAN, LEO": 90,
+    "NUÑEZ RODRIGUEZ, JOSE RAFAEL": 90,
+    "MARTIN DIEZ, LUCAS": 36,
+    "MARTINEZ BARCINA, MIGUEL": 35,
+    "ACHA MONTES, FERNANDO": 22,
+    "ARROYO LLANO, ALVARO": 19
+  },
+  "portero_local": "LAQUINTANA, LORIS",
+  "portero_visitante": "ALBALADEJO GÓMEZ, PABLO",
+  "dorsales_local": {
+    "LAQUINTANA, LORIS": 13,
+    "UMBRIA CORIA, RAFAEL": 4,
+    "GONZALEZ RIO, DANIEL": 5,
+    "BEZANILLA CRESPO, PABLO": 8,
+    "SEBRANGO ROYO, PABLO": 9,
+    "LOPEZ SEVILLA, MARCOS": 12,
+    "CAÑEDO SAÑUDO, GONZALO": 14,
+    "GUTIERREZ VENERO, LORENZO": 16,
+    "QUINDOS CANTERA, JAVIER": 17,
+    "GARCÍA-DIEGO GONZALEZ, MANUEL": 19,
+    "SEBRANGO ROYO, SANTIAGO": 21
+  },
+  "dorsales_visitante": {
+    "ALBALADEJO GÓMEZ, PABLO": 13,
+    "DEL HOYO VILLACORTA, ADRIAN": 2,
+    "CABIECES GONZÁLEZ, MARCO": 4,
+    "FERNANDEZ DIAZ, PABLO": 5,
+    "ARCE MERODIO, PAU": 6,
+    "VILLAGÓMEZ CASTRO, JUAN DIEGO": 9,
+    "GUTIERREZ GARCIA, FABIO": 10,
+    "CAÑIZARES CRUZ, OSCAR": 11,
+    "DELGADO GARCIA, RAFAEL": 14,
+    "ROMAN SACRISTAN, LEO": 19,
+    "NUÑEZ RODRIGUEZ, JOSE RAFAEL": 20
+  },
+  "suspendidos": []
+}
