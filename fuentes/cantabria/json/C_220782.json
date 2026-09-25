@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_220782",
+  "filename": "Acta_C_220782.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "01-02-2026",
+  "hora": "10:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "E.D.M. CAYON A",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "VISPO RODRIGUEZ, ISRAEL"
+  ],
+  "estadio": "Saron 2",
+  "ciudad": "Santa María de Cayón",
+  "goleadores": [
+    {
+      "minuto": 70,
+      "jugador": "PEÑA GONZALEZ, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "SANTAMARIA GUTIERREZ, YAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "VELARDE C.F. A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "MUÑOZ MORA, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 29,
+      "jugador": "RUIZ MUÑIZ, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "PEREZ VILLA, DAVID",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "HOYOS ORTEGA, LUCA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "SALCINES PRIETO, LUIS FELIPE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "SALCINES PRIETO, LUIS FELIPE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERREIRA RIBADA, NELSON XAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CEBALLOS PRIETO, MARIO",
+  "delegado_equipo_visitante": "MARTINEZ CASTRO, DANIEL",
+  "titulares_local": [
+    "BECERRIL ALONSO, ALVARO",
+    "GARCES PEDRAJA, ESDRAS",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "RABAGO FERNANDEZ, MARIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "COBO HERRERA, PABLO",
+    "COBO COBO, CRISTIAN",
+    "OBREGON FERNANDEZ, MARIO",
+    "COTERO SAMPERIO, AARON",
+    "SANTAMARIA GUTIERREZ, YAGO",
+    "ASENSIO PILA, HECTOR"
+  ],
+  "titulares_visitante": [
+    "SALCINES ZARCO, AYMAR",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PONCE COBA, ERICK AITOR",
+    "PEREZ VILLA, DAVID",
+    "MUÑOZ SIERRA, HECTOR",
+    "PELAYO GARCIA, NICOLAS"
+  ],
+  "suplentes_local": [
+    "PRECIADO GONZALEZ, DIEGO",
+    "ESPINEL RUIZ, IKER",
+    "BARCENA GARCIA, PEDRO"
+  ],
+  "suplentes_visitante": [
+    "FRANCO RIEGO, LUCAS",
+    "PEÑA GONZALEZ, ALVARO",
+    "GARCIA OBREGON, HUGO",
+    "HOYOS ORTEGA, LUCA"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BECERRIL ALONSO, ALVARO",
+    "GARCES PEDRAJA, ESDRAS",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "RABAGO FERNANDEZ, MARIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "COBO HERRERA, PABLO",
+    "COBO COBO, CRISTIAN",
+    "OBREGON FERNANDEZ, MARIO",
+    "COTERO SAMPERIO, AARON",
+    "SANTAMARIA GUTIERREZ, YAGO",
+    "ASENSIO PILA, HECTOR",
+    "BARCENA GARCIA, PEDRO",
+    "PRECIADO GONZALEZ, DIEGO",
+    "ESPINEL RUIZ, IKER"
+  ],
+  "jugadores_visitante": [
+    "SALCINES ZARCO, AYMAR",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PONCE COBA, ERICK AITOR",
+    "PEREZ VILLA, DAVID",
+    "MUÑOZ SIERRA, HECTOR",
+    "PELAYO GARCIA, NICOLAS",
+    "PEÑA GONZALEZ, ALVARO",
+    "GARCIA OBREGON, HUGO",
+    "HOYOS ORTEGA, LUCA",
+    "FRANCO RIEGO, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "BARCENA GARCIA, PEDRO",
+      "sale": "COBO HERRERA, PABLO"
+    },
+    {
+      "min": 45,
+      "entra": "PRECIADO GONZALEZ, DIEGO",
+      "sale": "COTERO SAMPERIO, AARON"
+    },
+    {
+      "min": 56,
+      "entra": "ESPINEL RUIZ, IKER",
+      "sale": "CILLERUELO FERNANDEZ, RAUL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "PEÑA GONZALEZ, ALVARO",
+      "sale": "DIEZ GARCIA, MATEO"
+    },
+    {
+      "min": 50,
+      "entra": "GARCIA OBREGON, HUGO",
+      "sale": "MUÑOZ SIERRA, HECTOR"
+    },
+    {
+      "min": 60,
+      "entra": "HOYOS ORTEGA, LUCA",
+      "sale": "RUIZ MUÑIZ, MARIO"
+    },
+    {
+      "min": 65,
+      "entra": "FRANCO RIEGO, LUCAS",
+      "sale": "ARCE ABASCAL, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "BECERRIL ALONSO, ALVARO": 90,
+    "GARCES PEDRAJA, ESDRAS": 90,
+    "CILLERUELO FERNANDEZ, RAUL": 56,
+    "RABAGO FERNANDEZ, MARIO": 90,
+    "CRESPO FRECHOSO, VICTOR": 90,
+    "COBO HERRERA, PABLO": 45,
+    "COBO COBO, CRISTIAN": 90,
+    "OBREGON FERNANDEZ, MARIO": 90,
+    "COTERO SAMPERIO, AARON": 45,
+    "SANTAMARIA GUTIERREZ, YAGO": 90,
+    "ASENSIO PILA, HECTOR": 90,
+    "BARCENA GARCIA, PEDRO": 45,
+    "PRECIADO GONZALEZ, DIEGO": 45,
+    "ESPINEL RUIZ, IKER": 34,
+    "SALCINES ZARCO, AYMAR": 90,
+    "MUÑOZ MORA, HUGO": 90,
+    "RUIZ MUÑIZ, MARIO": 60,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 90,
+    "BARBA AGENJO, DARIO": 90,
+    "ARCE ABASCAL, DIEGO": 65,
+    "DIEZ GARCIA, MATEO": 45,
+    "PONCE COBA, ERICK AITOR": 90,
+    "PEREZ VILLA, DAVID": 90,
+    "MUÑOZ SIERRA, HECTOR": 50,
+    "PELAYO GARCIA, NICOLAS": 90,
+    "PEÑA GONZALEZ, ALVARO": 45,
+    "GARCIA OBREGON, HUGO": 40,
+    "HOYOS ORTEGA, LUCA": 30,
+    "FRANCO RIEGO, LUCAS": 25
+  },
+  "portero_local": "BECERRIL ALONSO, ALVARO",
+  "portero_visitante": "SALCINES ZARCO, AYMAR",
+  "dorsales_local": {
+    "BECERRIL ALONSO, ALVARO": 1,
+    "GARCES PEDRAJA, ESDRAS": 2,
+    "CILLERUELO FERNANDEZ, RAUL": 3,
+    "RABAGO FERNANDEZ, MARIO": 7,
+    "CRESPO FRECHOSO, VICTOR": 8,
+    "COBO HERRERA, PABLO": 14,
+    "COBO COBO, CRISTIAN": 17,
+    "OBREGON FERNANDEZ, MARIO": 30,
+    "COTERO SAMPERIO, AARON": 31,
+    "SANTAMARIA GUTIERREZ, YAGO": 33,
+    "ASENSIO PILA, HECTOR": 37
+  },
+  "dorsales_visitante": {
+    "SALCINES ZARCO, AYMAR": 13,
+    "MUÑOZ MORA, HUGO": 3,
+    "RUIZ MUÑIZ, MARIO": 4,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 5,
+    "BARBA AGENJO, DARIO": 6,
+    "ARCE ABASCAL, DIEGO": 7,
+    "DIEZ GARCIA, MATEO": 8,
+    "PONCE COBA, ERICK AITOR": 11,
+    "PEREZ VILLA, DAVID": 15,
+    "MUÑOZ SIERRA, HECTOR": 17,
+    "PELAYO GARCIA, NICOLAS": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
