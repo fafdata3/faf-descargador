@@ -1,0 +1,239 @@
+{
+  "acta_id": "G_9995925",
+  "filename": "Acta_G_9995925.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "13-12-2025",
+  "hora": "15:00",
+  "categoria": "GIZONEZKO KADETEEN 1. MAILA / 1ª CADETE MASCULINO (2. MULTZOA - GRUPO 2)",
+  "equipo_local": "BETI ONA C.D. C",
+  "equipo_visitante": "DUNBOA EGUZKI C.D.",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "DIAZ GARCIA, PEDRO"
+  ],
+  "estadio": "BERAUN",
+  "ciudad": "RENTERIA",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "BATASSI EKOMO, ANTONIO ALBERTO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "PLANES IRIGARAY, JOSE IGNACIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "LORENZO CALVO, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 57,
+      "jugador": "DOMINGUEZ BAÑOS, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "LORENZO CALVO, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "DUNBOA EGUZKI C.D.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VALORIA GARCIA, RYAN",
+  "entrenador_visitante": "MARTINEZ LEIZA, MARIA SOLEDAD",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GRIÑAN CIRIA, GUILLERMO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "MARTIN ARRIZABALAGA, AIMAR",
+    "ANGLADE, RAPHAEL ARTHUR",
+    "GANUZA INDART, JOSE",
+    "LORENZO CALVO, MARCOS",
+    "PLANES IRIGARAY, JOSE IGNACIO",
+    "PARAMIO PEREZ, JAVIER",
+    "DOMINGUEZ BAÑOS, AIMAR",
+    "BERTELSEN MAESTRE, PABLO",
+    "SEMPER PHLIPS, JONAS EMMANUEL",
+    "SOTELO CASANA, LEONARDO",
+    "FERNANDEZ SOLOZABAL, HUGO"
+  ],
+  "titulares_visitante": [
+    "MAZOUZI MAZOUZI, MOSAAB",
+    "ABBES AFILAL, MOHAMED AMIN",
+    "AHARROUCH AHAITAF, ZAID",
+    "FATHI EISSA, YAHYA",
+    "BATASSI EKOMO, ANTONIO ALBERTO",
+    "MILAM OBIANG, DIOSDADO NGEMA",
+    "RODRIGUEZ GUARRACINO, IKER",
+    "EDU MISIMI, TOMAS ESONO",
+    "AVILES ROMERO, SEBASTIAN",
+    "OBAMA OBAMA, MIGUEL ANGEL",
+    "RENGIFO ZABALA, SANTIAGO"
+  ],
+  "suplentes_local": [
+    "DOMINGUEZ JIMENEZ, IBAI"
+  ],
+  "suplentes_visitante": [
+    "CARRIZO, GONZALO",
+    "IGLESIAS RODRIGUEZ, NARCISO",
+    "AALI MUSSA BRAHIM MUSSA, AHMED",
+    "AVILES ROMERO, DIEGO",
+    "VINIEGRA LOPEZ, MIGUEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MARTIN ARRIZABALAGA, AIMAR",
+    "ANGLADE, RAPHAEL ARTHUR",
+    "GANUZA INDART, JOSE",
+    "LORENZO CALVO, MARCOS",
+    "PLANES IRIGARAY, JOSE IGNACIO",
+    "PARAMIO PEREZ, JAVIER",
+    "DOMINGUEZ BAÑOS, AIMAR",
+    "BERTELSEN MAESTRE, PABLO",
+    "SEMPER PHLIPS, JONAS EMMANUEL",
+    "SOTELO CASANA, LEONARDO",
+    "FERNANDEZ SOLOZABAL, HUGO",
+    "DOMINGUEZ JIMENEZ, IBAI"
+  ],
+  "jugadores_visitante": [
+    "MAZOUZI MAZOUZI, MOSAAB",
+    "ABBES AFILAL, MOHAMED AMIN",
+    "AHARROUCH AHAITAF, ZAID",
+    "FATHI EISSA, YAHYA",
+    "BATASSI EKOMO, ANTONIO ALBERTO",
+    "MILAM OBIANG, DIOSDADO NGEMA",
+    "RODRIGUEZ GUARRACINO, IKER",
+    "EDU MISIMI, TOMAS ESONO",
+    "AVILES ROMERO, SEBASTIAN",
+    "OBAMA OBAMA, MIGUEL ANGEL",
+    "RENGIFO ZABALA, SANTIAGO",
+    "VINIEGRA LOPEZ, MIGUEL",
+    "CARRIZO, GONZALO",
+    "IGLESIAS RODRIGUEZ, NARCISO",
+    "AALI MUSSA BRAHIM MUSSA, AHMED",
+    "AVILES ROMERO, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "DOMINGUEZ JIMENEZ, IBAI",
+      "sale": "SOTELO CASANA, LEONARDO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "VINIEGRA LOPEZ, MIGUEL",
+      "sale": "AHARROUCH AHAITAF, ZAID"
+    },
+    {
+      "min": 45,
+      "entra": "CARRIZO, GONZALO",
+      "sale": "OBAMA OBAMA, MIGUEL ANGEL"
+    },
+    {
+      "min": 60,
+      "entra": "IGLESIAS RODRIGUEZ, NARCISO",
+      "sale": "AVILES ROMERO, SEBASTIAN"
+    },
+    {
+      "min": 60,
+      "entra": "AALI MUSSA BRAHIM MUSSA, AHMED",
+      "sale": "RODRIGUEZ GUARRACINO, IKER"
+    },
+    {
+      "min": 73,
+      "entra": "AVILES ROMERO, DIEGO",
+      "sale": "BATASSI EKOMO, ANTONIO ALBERTO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTIN ARRIZABALAGA, AIMAR": 90,
+    "ANGLADE, RAPHAEL ARTHUR": 90,
+    "GANUZA INDART, JOSE": 90,
+    "LORENZO CALVO, MARCOS": 90,
+    "PLANES IRIGARAY, JOSE IGNACIO": 90,
+    "PARAMIO PEREZ, JAVIER": 90,
+    "DOMINGUEZ BAÑOS, AIMAR": 90,
+    "BERTELSEN MAESTRE, PABLO": 90,
+    "SEMPER PHLIPS, JONAS EMMANUEL": 90,
+    "SOTELO CASANA, LEONARDO": 60,
+    "FERNANDEZ SOLOZABAL, HUGO": 90,
+    "DOMINGUEZ JIMENEZ, IBAI": 30,
+    "MAZOUZI MAZOUZI, MOSAAB": 90,
+    "ABBES AFILAL, MOHAMED AMIN": 90,
+    "AHARROUCH AHAITAF, ZAID": 45,
+    "FATHI EISSA, YAHYA": 90,
+    "BATASSI EKOMO, ANTONIO ALBERTO": 73,
+    "MILAM OBIANG, DIOSDADO NGEMA": 90,
+    "RODRIGUEZ GUARRACINO, IKER": 60,
+    "EDU MISIMI, TOMAS ESONO": 90,
+    "AVILES ROMERO, SEBASTIAN": 60,
+    "OBAMA OBAMA, MIGUEL ANGEL": 45,
+    "RENGIFO ZABALA, SANTIAGO": 90,
+    "VINIEGRA LOPEZ, MIGUEL": 45,
+    "CARRIZO, GONZALO": 45,
+    "IGLESIAS RODRIGUEZ, NARCISO": 30,
+    "AALI MUSSA BRAHIM MUSSA, AHMED": 30,
+    "AVILES ROMERO, DIEGO": 17
+  },
+  "portero_local": "MARTIN ARRIZABALAGA, AIMAR",
+  "portero_visitante": "MAZOUZI MAZOUZI, MOSAAB",
+  "dorsales_local": {
+    "MARTIN ARRIZABALAGA, AIMAR": 1,
+    "ANGLADE, RAPHAEL ARTHUR": 5,
+    "GANUZA INDART, JOSE": 6,
+    "LORENZO CALVO, MARCOS": 7,
+    "PLANES IRIGARAY, JOSE IGNACIO": 10,
+    "PARAMIO PEREZ, JAVIER": 16,
+    "DOMINGUEZ BAÑOS, AIMAR": 17,
+    "BERTELSEN MAESTRE, PABLO": 19,
+    "SEMPER PHLIPS, JONAS EMMANUEL": 21,
+    "SOTELO CASANA, LEONARDO": 22,
+    "FERNANDEZ SOLOZABAL, HUGO": 23
+  },
+  "dorsales_visitante": {
+    "MAZOUZI MAZOUZI, MOSAAB": 13,
+    "ABBES AFILAL, MOHAMED AMIN": 4,
+    "AHARROUCH AHAITAF, ZAID": 6,
+    "FATHI EISSA, YAHYA": 8,
+    "BATASSI EKOMO, ANTONIO ALBERTO": 9,
+    "MILAM OBIANG, DIOSDADO NGEMA": 10,
+    "RODRIGUEZ GUARRACINO, IKER": 11,
+    "EDU MISIMI, TOMAS ESONO": 15,
+    "AVILES ROMERO, SEBASTIAN": 18,
+    "OBAMA OBAMA, MIGUEL ANGEL": 22,
+    "RENGIFO ZABALA, SANTIAGO": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
