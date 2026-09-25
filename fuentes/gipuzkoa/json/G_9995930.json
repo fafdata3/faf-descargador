@@ -1,0 +1,256 @@
+{
+  "acta_id": "G_9995930",
+  "filename": "Acta_G_9995930.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "11-01-2026",
+  "hora": "15:00",
+  "categoria": "GIZONEZKO KADETEEN 1. MAILA / 1ª CADETE MASCULINO (2. MULTZOA - GRUPO 2)",
+  "equipo_local": "KOSTKAS C.D. D",
+  "equipo_visitante": "INTERNACIONAL C.D.",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CHAPARRO RODRIGUEZ, HUGO"
+  ],
+  "estadio": "MATIGOXOTEGI",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "ALDALUR ALDALUR, ANARTZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "LEANDRO VELUZ, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "BURUTARAN AGUIRRE, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "GELABERT FERNANDEZ, ARITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "LEON ALVAREZ, KENNETH",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "IRAZU ESQUICHABEL, UNAX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "INTERNACIONAL C.D.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARANBURU VALLE, AIMAR",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "ARRIETA POCIELLO, GARI",
+    "GARCÍA GARCÍA, ALAIN",
+    "GELABERT FERNANDEZ, ARITZ",
+    "IRAZU ESQUICHABEL, UNAX",
+    "CARRASCO BARBERO, MARCO",
+    "ARRICABERRI MONTEJO, JULEN",
+    "BURUTARAN AGUIRRE, DANIEL",
+    "INSA MONTEJO, ERIK",
+    "GARCIA OLONDRIS, ALAIN",
+    "LEON ALVAREZ, KENNETH",
+    "SCARPETTA MITJANA, DONOVAN"
+  ],
+  "titulares_visitante": [
+    "SARASOLA BORREGO, JAIME",
+    "GONZALEZ MARTIARENA, LUCAS",
+    "LORENZO SALVADOR, ENEKO",
+    "RUIZ RODRIGUEZ, IZAN",
+    "RODRIGUEZ AZPEITIA, DIEGO",
+    "AMASENE ANGUERA, JAN",
+    "ORDOZGOITI DELPUERTO, JON",
+    "ALDALUR ALDALUR, ANARTZ",
+    "PASCUAL SOLANS, JOSE",
+    "TANCO ALVAREZ, ALVARO",
+    "PAGES CALVANO, MATEO"
+  ],
+  "suplentes_local": [
+    "LEANDRO VELUZ, IKER",
+    "ZALDUA LOSADA, ENBOR",
+    "PIJOAN LLORDES, MARKEL",
+    "RESTREPO VILLADA, SAMUEL",
+    "THIAM THIAM, KHADIM"
+  ],
+  "suplentes_visitante": [
+    "MARTIN IPARRAGUIRRE, OIER",
+    "GUIROY SESMA, PABLO",
+    "BURGOS GARCIA, PEPE",
+    "ASTIAZARAN GUTIERREZ, ALVARO",
+    "GONZALEZ CASTRO, HUGO",
+    "ARRATIBEL VILLAMERIEL, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "MARTIN IPARRAGUIRRE, OIER",
+    "GUIROY SESMA, PABLO",
+    "BURGOS GARCIA, PEPE",
+    "ASTIAZARAN GUTIERREZ, ALVARO",
+    "ARRATIBEL VILLAMERIEL, JAVIER"
+  ],
+  "jugadores_local": [
+    "ARRIETA POCIELLO, GARI",
+    "GARCÍA GARCÍA, ALAIN",
+    "GELABERT FERNANDEZ, ARITZ",
+    "IRAZU ESQUICHABEL, UNAX",
+    "CARRASCO BARBERO, MARCO",
+    "ARRICABERRI MONTEJO, JULEN",
+    "BURUTARAN AGUIRRE, DANIEL",
+    "INSA MONTEJO, ERIK",
+    "GARCIA OLONDRIS, ALAIN",
+    "LEON ALVAREZ, KENNETH",
+    "SCARPETTA MITJANA, DONOVAN",
+    "ZALDUA LOSADA, ENBOR",
+    "LEANDRO VELUZ, IKER",
+    "RESTREPO VILLADA, SAMUEL",
+    "PIJOAN LLORDES, MARKEL",
+    "THIAM THIAM, KHADIM"
+  ],
+  "jugadores_visitante": [
+    "SARASOLA BORREGO, JAIME",
+    "GONZALEZ MARTIARENA, LUCAS",
+    "LORENZO SALVADOR, ENEKO",
+    "RUIZ RODRIGUEZ, IZAN",
+    "RODRIGUEZ AZPEITIA, DIEGO",
+    "AMASENE ANGUERA, JAN",
+    "ORDOZGOITI DELPUERTO, JON",
+    "ALDALUR ALDALUR, ANARTZ",
+    "PASCUAL SOLANS, JOSE",
+    "TANCO ALVAREZ, ALVARO",
+    "PAGES CALVANO, MATEO",
+    "GONZALEZ CASTRO, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "ZALDUA LOSADA, ENBOR",
+      "sale": "CARRASCO BARBERO, MARCO"
+    },
+    {
+      "min": 40,
+      "entra": "LEANDRO VELUZ, IKER",
+      "sale": "INSA MONTEJO, ERIK"
+    },
+    {
+      "min": 60,
+      "entra": "RESTREPO VILLADA, SAMUEL",
+      "sale": "GARCIA OLONDRIS, ALAIN"
+    },
+    {
+      "min": 60,
+      "entra": "PIJOAN LLORDES, MARKEL",
+      "sale": "ARRICABERRI MONTEJO, JULEN"
+    },
+    {
+      "min": 70,
+      "entra": "THIAM THIAM, KHADIM",
+      "sale": "BURUTARAN AGUIRRE, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "GONZALEZ CASTRO, HUGO",
+      "sale": "TANCO ALVAREZ, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARRIETA POCIELLO, GARI": 90,
+    "GARCÍA GARCÍA, ALAIN": 90,
+    "GELABERT FERNANDEZ, ARITZ": 90,
+    "IRAZU ESQUICHABEL, UNAX": 90,
+    "CARRASCO BARBERO, MARCO": 40,
+    "ARRICABERRI MONTEJO, JULEN": 60,
+    "BURUTARAN AGUIRRE, DANIEL": 70,
+    "INSA MONTEJO, ERIK": 40,
+    "GARCIA OLONDRIS, ALAIN": 60,
+    "LEON ALVAREZ, KENNETH": 90,
+    "SCARPETTA MITJANA, DONOVAN": 90,
+    "ZALDUA LOSADA, ENBOR": 50,
+    "LEANDRO VELUZ, IKER": 50,
+    "RESTREPO VILLADA, SAMUEL": 30,
+    "PIJOAN LLORDES, MARKEL": 30,
+    "THIAM THIAM, KHADIM": 20,
+    "SARASOLA BORREGO, JAIME": 90,
+    "GONZALEZ MARTIARENA, LUCAS": 90,
+    "LORENZO SALVADOR, ENEKO": 90,
+    "RUIZ RODRIGUEZ, IZAN": 90,
+    "RODRIGUEZ AZPEITIA, DIEGO": 90,
+    "AMASENE ANGUERA, JAN": 90,
+    "ORDOZGOITI DELPUERTO, JON": 90,
+    "ALDALUR ALDALUR, ANARTZ": 90,
+    "PASCUAL SOLANS, JOSE": 90,
+    "TANCO ALVAREZ, ALVARO": 54,
+    "PAGES CALVANO, MATEO": 90,
+    "GONZALEZ CASTRO, HUGO": 36
+  },
+  "portero_local": "ARRIETA POCIELLO, GARI",
+  "portero_visitante": "SARASOLA BORREGO, JAIME",
+  "dorsales_local": {
+    "ARRIETA POCIELLO, GARI": 13,
+    "GARCÍA GARCÍA, ALAIN": 3,
+    "GELABERT FERNANDEZ, ARITZ": 4,
+    "IRAZU ESQUICHABEL, UNAX": 5,
+    "CARRASCO BARBERO, MARCO": 7,
+    "ARRICABERRI MONTEJO, JULEN": 8,
+    "BURUTARAN AGUIRRE, DANIEL": 10,
+    "INSA MONTEJO, ERIK": 12,
+    "GARCIA OLONDRIS, ALAIN": 14,
+    "LEON ALVAREZ, KENNETH": 15,
+    "SCARPETTA MITJANA, DONOVAN": 21
+  },
+  "dorsales_visitante": {
+    "SARASOLA BORREGO, JAIME": 1,
+    "GONZALEZ MARTIARENA, LUCAS": 2,
+    "LORENZO SALVADOR, ENEKO": 3,
+    "RUIZ RODRIGUEZ, IZAN": 7,
+    "RODRIGUEZ AZPEITIA, DIEGO": 8,
+    "AMASENE ANGUERA, JAN": 9,
+    "ORDOZGOITI DELPUERTO, JON": 10,
+    "ALDALUR ALDALUR, ANARTZ": 12,
+    "PASCUAL SOLANS, JOSE": 17,
+    "TANCO ALVAREZ, ALVARO": 20,
+    "PAGES CALVANO, MATEO": 23
+  },
+  "suspendidos": []
+}
