@@ -1,0 +1,246 @@
+{
+  "acta_id": "C_240271",
+  "filename": "Acta_C_240271.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE B",
+  "equipo_visitante": "R.S. GIMNASTICA B",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "UBALDO CARRANCEJA, ÁLVARO"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "DE LA TORRE MARQUEZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 44,
+      "jugador": "MIER MONTES, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "ALVAREZ DOMINGUEZ, SANTIAGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "SANCHEZ CUEVAS, SERGIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FERNANDEZ FERNANDEZ, MARCOS",
+  "entrenador_visitante": "FIGUEROA MONS, ALVARO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTIN CARO CRUZ, ENRIQUE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTIN CARO CRUZ, ENRIQUE",
+  "delegado_equipo_visitante": "PACHECO COTERO, SAUL",
+  "titulares_local": [
+    "MARTÍNEZ MANTECÓN, HUGO",
+    "SAMPEDRO GUTIERREZ, LEO",
+    "DIESTRO PEREZ, MARIO",
+    "PERNIA FERNANDEZ, IVAN",
+    "SASIAN PEREZ, DIEGO",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "GONZALEZ ALVAREZ, PEDRO",
+    "ANDRES GARCIA, CARLOS",
+    "GUTIERREZ MARTINEZ, MANUEL",
+    "IGLESIAS SANTIAGO, JULEN"
+  ],
+  "titulares_visitante": [
+    "ORSOLINI PALENCIA, MARIO",
+    "MIER MONTES, ADRIAN",
+    "MÚGICA BLANCO, HUGO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "CIEZA PEREZ, ASIER",
+    "SANCHEZ CUEVAS, SERGIO",
+    "GOMEZ SANCHEZ, MARC",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "GUERRA MIRANDA, MARTÍN"
+  ],
+  "suplentes_local": [
+    "BLANCO GUTIERREZ, ANDER",
+    "SANTANA ABREU, SAUDI ANTONIO",
+    "VILLEGAS AIZPURUA, ASIER",
+    "CASTRO PRIETO, IVAN",
+    "DIAZ GUTIERREZ, GUILLERMO"
+  ],
+  "suplentes_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "FERNANDEZ GARCIA, IZAN",
+    "GONZALEZ ROTGER, ALVARO",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "GUTIÉRREZ LÓPEZ, DAVID"
+  ],
+  "convocados_sin_jugar_local": [
+    "BLANCO GUTIERREZ, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "TRIGO SANTOS, ALEJANDRO"
+  ],
+  "jugadores_local": [
+    "MARTÍNEZ MANTECÓN, HUGO",
+    "SAMPEDRO GUTIERREZ, LEO",
+    "DIESTRO PEREZ, MARIO",
+    "PERNIA FERNANDEZ, IVAN",
+    "SASIAN PEREZ, DIEGO",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "GONZALEZ ALVAREZ, PEDRO",
+    "ANDRES GARCIA, CARLOS",
+    "GUTIERREZ MARTINEZ, MANUEL",
+    "IGLESIAS SANTIAGO, JULEN",
+    "CASTRO PRIETO, IVAN",
+    "SANTANA ABREU, SAUDI ANTONIO",
+    "VILLEGAS AIZPURUA, ASIER",
+    "DIAZ GUTIERREZ, GUILLERMO"
+  ],
+  "jugadores_visitante": [
+    "ORSOLINI PALENCIA, MARIO",
+    "MIER MONTES, ADRIAN",
+    "MÚGICA BLANCO, HUGO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "CIEZA PEREZ, ASIER",
+    "SANCHEZ CUEVAS, SERGIO",
+    "GOMEZ SANCHEZ, MARC",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "GUERRA MIRANDA, MARTÍN",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "FERNANDEZ GARCIA, IZAN",
+    "GUTIÉRREZ LÓPEZ, DAVID",
+    "GONZALEZ ROTGER, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "CASTRO PRIETO, IVAN",
+      "sale": "IGLESIAS SANTIAGO, JULEN"
+    },
+    {
+      "min": 62,
+      "entra": "SANTANA ABREU, SAUDI ANTONIO",
+      "sale": "GONZALEZ ALVAREZ, PEDRO"
+    },
+    {
+      "min": 66,
+      "entra": "VILLEGAS AIZPURUA, ASIER",
+      "sale": "SAMPEDRO GUTIERREZ, LEO"
+    },
+    {
+      "min": 73,
+      "entra": "DIAZ GUTIERREZ, GUILLERMO",
+      "sale": "DIESTRO PEREZ, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "MAYORDOMO NAVARRO, CRISTIAN",
+      "sale": "MENDARO TERAN, LUIS"
+    },
+    {
+      "min": 54,
+      "entra": "FERNANDEZ GARCIA, IZAN",
+      "sale": "MIER MONTES, ADRIAN"
+    },
+    {
+      "min": 62,
+      "entra": "GUTIÉRREZ LÓPEZ, DAVID",
+      "sale": "LUQUE MARTINEZ, AIMAR"
+    },
+    {
+      "min": 62,
+      "entra": "GONZALEZ ROTGER, ALVARO",
+      "sale": "GOMEZ SANCHEZ, MARC"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTÍNEZ MANTECÓN, HUGO": 90,
+    "SAMPEDRO GUTIERREZ, LEO": 66,
+    "DIESTRO PEREZ, MARIO": 73,
+    "PERNIA FERNANDEZ, IVAN": 90,
+    "SASIAN PEREZ, DIEGO": 90,
+    "LOMBILLA FERNANDEZ, HUGO": 90,
+    "DE LA TORRE MARQUEZ, LUCAS": 90,
+    "GONZALEZ ALVAREZ, PEDRO": 62,
+    "ANDRES GARCIA, CARLOS": 90,
+    "GUTIERREZ MARTINEZ, MANUEL": 90,
+    "IGLESIAS SANTIAGO, JULEN": 50,
+    "CASTRO PRIETO, IVAN": 40,
+    "SANTANA ABREU, SAUDI ANTONIO": 28,
+    "VILLEGAS AIZPURUA, ASIER": 24,
+    "DIAZ GUTIERREZ, GUILLERMO": 17,
+    "ORSOLINI PALENCIA, MARIO": 90,
+    "MIER MONTES, ADRIAN": 54,
+    "MÚGICA BLANCO, HUGO": 90,
+    "FERNANDEZ TOMAS, ALVARO": 90,
+    "LUQUE MARTINEZ, AIMAR": 62,
+    "CIEZA PEREZ, ASIER": 90,
+    "SANCHEZ CUEVAS, SERGIO": 90,
+    "GOMEZ SANCHEZ, MARC": 62,
+    "MENDARO TERAN, LUIS": 40,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 90,
+    "GUERRA MIRANDA, MARTÍN": 90,
+    "MAYORDOMO NAVARRO, CRISTIAN": 50,
+    "FERNANDEZ GARCIA, IZAN": 36,
+    "GUTIÉRREZ LÓPEZ, DAVID": 28,
+    "GONZALEZ ROTGER, ALVARO": 28
+  },
+  "portero_local": "MARTÍNEZ MANTECÓN, HUGO",
+  "portero_visitante": "ORSOLINI PALENCIA, MARIO",
+  "dorsales_local": {
+    "MARTÍNEZ MANTECÓN, HUGO": 1,
+    "SAMPEDRO GUTIERREZ, LEO": 2,
+    "DIESTRO PEREZ, MARIO": 3,
+    "PERNIA FERNANDEZ, IVAN": 5,
+    "SASIAN PEREZ, DIEGO": 6,
+    "LOMBILLA FERNANDEZ, HUGO": 7,
+    "DE LA TORRE MARQUEZ, LUCAS": 9,
+    "GONZALEZ ALVAREZ, PEDRO": 10,
+    "ANDRES GARCIA, CARLOS": 11,
+    "GUTIERREZ MARTINEZ, MANUEL": 15,
+    "IGLESIAS SANTIAGO, JULEN": 18
+  },
+  "dorsales_visitante": {
+    "ORSOLINI PALENCIA, MARIO": 13,
+    "MIER MONTES, ADRIAN": 2,
+    "MÚGICA BLANCO, HUGO": 3,
+    "FERNANDEZ TOMAS, ALVARO": 5,
+    "LUQUE MARTINEZ, AIMAR": 7,
+    "CIEZA PEREZ, ASIER": 8,
+    "SANCHEZ CUEVAS, SERGIO": 9,
+    "GOMEZ SANCHEZ, MARC": 10,
+    "MENDARO TERAN, LUIS": 11,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 16,
+    "GUERRA MIRANDA, MARTÍN": 17
+  },
+  "suspendidos": []
+}
