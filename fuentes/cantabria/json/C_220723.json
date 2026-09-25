@@ -1,0 +1,224 @@
+{
+  "acta_id": "C_220723",
+  "filename": "Acta_C_220723.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "29-11-2025",
+  "hora": "11:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.AT. PERINES A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SALAZAR CASTAÑO, SERGIO"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "FERNANDEZ NAVAMUEL, JENS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "FERNANDEZ NAVAMUEL, JENS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 66,
+      "jugador": "LIAÑO VARELA, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "S.D. SOLARES-MEDIO CUDEYO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "TORRES SAENZ, JOSE ALEJANDRO",
+  "entrenador_visitante": "MARQUEZ SETIEN, CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SANTAMARIA PEREZ, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANTAMARIA PEREZ, PABLO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "RUIZ SANZ, MARIO",
+    "TRICIO MARTÍN, MATEO",
+    "AZNAR NUÑO, HUGO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "PÉREZ MARTIN, JAIRO",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "LIAÑO VARELA, DANIEL",
+    "TODERO, JOAQUIN KONRAD",
+    "FERNANDEZ NAVAMUEL, JENS"
+  ],
+  "titulares_visitante": [
+    "BRAVO BLANCO, PEDRO",
+    "SECK DE LA HOZ, ROBERTO",
+    "CUEVAS ARRUZA, LUCAS",
+    "MORETON GONZALEZ, LUCAS",
+    "LOPEZ CORRALES, MARCO",
+    "PACHECO GUTIERREZ, MARTIN",
+    "GONZALEZ TOCA, NICOLAS",
+    "BLANCO PORTILLA, SERGIO",
+    "DIEGO ACEBO, DIEGO",
+    "HIERRO MENEZO, NICOLAS",
+    "LOPEZ CORRALES, LUCAS"
+  ],
+  "suplentes_local": [
+    "PUENTE HERNANDEZ, MARIO",
+    "CABRIA MACHO, LUISMI",
+    "PRADA DE MIGUEL, DARIO"
+  ],
+  "suplentes_visitante": [
+    "BECI ESTEVE, MARCO",
+    "BARQUIN HAYA, JAVIER",
+    "ABASCAL BARQUIN, HUGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "RUIZ SANZ, MARIO",
+    "TRICIO MARTÍN, MATEO",
+    "AZNAR NUÑO, HUGO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "PÉREZ MARTIN, JAIRO",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "LIAÑO VARELA, DANIEL",
+    "TODERO, JOAQUIN KONRAD",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "CABRIA MACHO, LUISMI",
+    "PRADA DE MIGUEL, DARIO",
+    "PUENTE HERNANDEZ, MARIO"
+  ],
+  "jugadores_visitante": [
+    "BRAVO BLANCO, PEDRO",
+    "SECK DE LA HOZ, ROBERTO",
+    "CUEVAS ARRUZA, LUCAS",
+    "MORETON GONZALEZ, LUCAS",
+    "LOPEZ CORRALES, MARCO",
+    "PACHECO GUTIERREZ, MARTIN",
+    "GONZALEZ TOCA, NICOLAS",
+    "BLANCO PORTILLA, SERGIO",
+    "DIEGO ACEBO, DIEGO",
+    "HIERRO MENEZO, NICOLAS",
+    "LOPEZ CORRALES, LUCAS",
+    "ABASCAL BARQUIN, HUGO",
+    "BECI ESTEVE, MARCO",
+    "BARQUIN HAYA, JAVIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "CABRIA MACHO, LUISMI",
+      "sale": "AZNAR NUÑO, HUGO"
+    },
+    {
+      "min": 53,
+      "entra": "PRADA DE MIGUEL, DARIO",
+      "sale": "ALBO ZORRILLA, EDGAR"
+    },
+    {
+      "min": 69,
+      "entra": "PUENTE HERNANDEZ, MARIO",
+      "sale": "LIAÑO VARELA, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "ABASCAL BARQUIN, HUGO",
+      "sale": "PACHECO GUTIERREZ, MARTIN"
+    },
+    {
+      "min": 45,
+      "entra": "BECI ESTEVE, MARCO",
+      "sale": "MORETON GONZALEZ, LUCAS"
+    },
+    {
+      "min": 60,
+      "entra": "BARQUIN HAYA, JAVIER",
+      "sale": "DIEGO ACEBO, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONÇALVES JORRIN, SAMUEL": 90,
+    "RUIZ SANZ, MARIO": 90,
+    "TRICIO MARTÍN, MATEO": 90,
+    "AZNAR NUÑO, HUGO": 53,
+    "ALBO ZORRILLA, EDGAR": 53,
+    "FERNANDEZ GUTIERREZ, ELOY": 90,
+    "PÉREZ MARTIN, JAIRO": 90,
+    "HAYA SÁNCHEZ, RODRIGO": 90,
+    "LIAÑO VARELA, DANIEL": 69,
+    "TODERO, JOAQUIN KONRAD": 90,
+    "FERNANDEZ NAVAMUEL, JENS": 90,
+    "CABRIA MACHO, LUISMI": 37,
+    "PRADA DE MIGUEL, DARIO": 37,
+    "PUENTE HERNANDEZ, MARIO": 21,
+    "BRAVO BLANCO, PEDRO": 90,
+    "SECK DE LA HOZ, ROBERTO": 90,
+    "CUEVAS ARRUZA, LUCAS": 90,
+    "MORETON GONZALEZ, LUCAS": 45,
+    "LOPEZ CORRALES, MARCO": 90,
+    "PACHECO GUTIERREZ, MARTIN": 45,
+    "GONZALEZ TOCA, NICOLAS": 90,
+    "BLANCO PORTILLA, SERGIO": 90,
+    "DIEGO ACEBO, DIEGO": 60,
+    "HIERRO MENEZO, NICOLAS": 90,
+    "LOPEZ CORRALES, LUCAS": 90,
+    "ABASCAL BARQUIN, HUGO": 45,
+    "BECI ESTEVE, MARCO": 45,
+    "BARQUIN HAYA, JAVIER": 30
+  },
+  "portero_local": "GONÇALVES JORRIN, SAMUEL",
+  "portero_visitante": "BRAVO BLANCO, PEDRO",
+  "dorsales_local": {
+    "GONÇALVES JORRIN, SAMUEL": 1,
+    "RUIZ SANZ, MARIO": 2,
+    "TRICIO MARTÍN, MATEO": 4,
+    "AZNAR NUÑO, HUGO": 6,
+    "ALBO ZORRILLA, EDGAR": 7,
+    "FERNANDEZ GUTIERREZ, ELOY": 8,
+    "PÉREZ MARTIN, JAIRO": 10,
+    "HAYA SÁNCHEZ, RODRIGO": 14,
+    "LIAÑO VARELA, DANIEL": 15,
+    "TODERO, JOAQUIN KONRAD": 17,
+    "FERNANDEZ NAVAMUEL, JENS": 18
+  },
+  "dorsales_visitante": {
+    "BRAVO BLANCO, PEDRO": 1,
+    "SECK DE LA HOZ, ROBERTO": 3,
+    "CUEVAS ARRUZA, LUCAS": 4,
+    "MORETON GONZALEZ, LUCAS": 5,
+    "LOPEZ CORRALES, MARCO": 7,
+    "PACHECO GUTIERREZ, MARTIN": 8,
+    "GONZALEZ TOCA, NICOLAS": 9,
+    "BLANCO PORTILLA, SERGIO": 10,
+    "DIEGO ACEBO, DIEGO": 11,
+    "HIERRO MENEZO, NICOLAS": 14,
+    "LOPEZ CORRALES, LUCAS": 19
+  },
+  "suspendidos": []
+}
