@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_244068",
+  "filename": "Acta_C_244068.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "11:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "E.D.M. CAYON A",
+  "equipo_visitante": "CLUB BANSANDER A",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GÓMEZ BRIZUELA, ADRIÁN"
+  ],
+  "estadio": "Saron 2",
+  "ciudad": "Santa María de Cayón",
+  "goleadores": [
+    {
+      "minuto": 38,
+      "jugador": "LOPEZ PUENTE, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "LOPEZ IBARGUEN, NEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "LOPEZ IBARGUEN, NEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "LOPEZ IBARGUEN, NEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "TANASA TANASA, PABLO CRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 31,
+      "jugador": "GUNEN, MEHMET MUSA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 31,
+      "jugador": "CLUB BANSANDER A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 20,
+      "jugador": "GUTIERREZ CUETO, MARCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CEBALLOS PRIETO, MARIO",
+  "entrenador_visitante": "GUTIERREZ GUTIERREZ, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "OJEMBARRENA PEÑA, SERGIO",
+  "titulares_local": [
+    "BECERRIL ALONSO, ALVARO",
+    "GUNEN, MEHMET MUSA",
+    "FERNANDEZ RUMAZO, JUAN",
+    "GOMEZ MAZON, MARIO",
+    "RODRIGUEZ PEREZ, ALVARO",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "MANTECON DIEGO, NICOLAS",
+    "ORIA ARCE, ENZO",
+    "DIAZ GARZON, RODRIGO",
+    "GUTIERREZ RUIZ, MATEO",
+    "KRISTIANOV DAFINKICHOV, VICTOR"
+  ],
+  "titulares_visitante": [
+    "VILLA VARA, ALEJANDRO",
+    "CARRO LOSADA, BRUNO",
+    "GUTIERREZ CUETO, MARCO",
+    "HERRERO CORTA, NECO",
+    "QUIROGA PAZ, PABLO",
+    "YOMEJOU GANZO, JEAN PAUL",
+    "LOPEZ PUENTE, IVAN",
+    "GARCIA BENITEZ, FERNANDO",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "MUNAR RODRIGUEZ, RODRIGO",
+    "HIGUERA MONTES, ALONSO"
+  ],
+  "suplentes_local": [
+    "POPOVICI, ADRIAN",
+    "MORA FERNANDEZ, LEO"
+  ],
+  "suplentes_visitante": [
+    "MORALES LABRADOR, ENRIQUE",
+    "PEREZ COBO, ALEXIS",
+    "LANDERA LOPEZ, ABELARDO",
+    "CASAS GUTIERREZ, ANDREAS",
+    "LOPEZ IBARGUEN, NEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BECERRIL ALONSO, ALVARO",
+    "GUNEN, MEHMET MUSA",
+    "FERNANDEZ RUMAZO, JUAN",
+    "GOMEZ MAZON, MARIO",
+    "RODRIGUEZ PEREZ, ALVARO",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "MANTECON DIEGO, NICOLAS",
+    "ORIA ARCE, ENZO",
+    "DIAZ GARZON, RODRIGO",
+    "GUTIERREZ RUIZ, MATEO",
+    "KRISTIANOV DAFINKICHOV, VICTOR",
+    "POPOVICI, ADRIAN",
+    "MORA FERNANDEZ, LEO"
+  ],
+  "jugadores_visitante": [
+    "VILLA VARA, ALEJANDRO",
+    "CARRO LOSADA, BRUNO",
+    "GUTIERREZ CUETO, MARCO",
+    "HERRERO CORTA, NECO",
+    "QUIROGA PAZ, PABLO",
+    "YOMEJOU GANZO, JEAN PAUL",
+    "LOPEZ PUENTE, IVAN",
+    "GARCIA BENITEZ, FERNANDO",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "MUNAR RODRIGUEZ, RODRIGO",
+    "HIGUERA MONTES, ALONSO",
+    "MORALES LABRADOR, ENRIQUE",
+    "LOPEZ IBARGUEN, NEL",
+    "CASAS GUTIERREZ, ANDREAS",
+    "PEREZ COBO, ALEXIS",
+    "LANDERA LOPEZ, ABELARDO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 26,
+      "entra": "POPOVICI, ADRIAN",
+      "sale": "RODRIGUEZ PEREZ, ALVARO"
+    },
+    {
+      "min": 46,
+      "entra": "MORA FERNANDEZ, LEO",
+      "sale": "CILLERUELO FERNANDEZ, RAUL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "MORALES LABRADOR, ENRIQUE",
+      "sale": "VILLA VARA, ALEJANDRO"
+    },
+    {
+      "min": 42,
+      "entra": "LOPEZ IBARGUEN, NEL",
+      "sale": "CARRO LOSADA, BRUNO"
+    },
+    {
+      "min": 42,
+      "entra": "CASAS GUTIERREZ, ANDREAS",
+      "sale": "QUIROGA PAZ, PABLO"
+    },
+    {
+      "min": 42,
+      "entra": "PEREZ COBO, ALEXIS",
+      "sale": "GARCIA BENITEZ, FERNANDO"
+    },
+    {
+      "min": 42,
+      "entra": "LANDERA LOPEZ, ABELARDO",
+      "sale": "YOMEJOU GANZO, JEAN PAUL"
+    }
+  ],
+  "minutos_jugadores": {
+    "BECERRIL ALONSO, ALVARO": 90,
+    "GUNEN, MEHMET MUSA": 90,
+    "FERNANDEZ RUMAZO, JUAN": 90,
+    "GOMEZ MAZON, MARIO": 90,
+    "RODRIGUEZ PEREZ, ALVARO": 26,
+    "CILLERUELO FERNANDEZ, RAUL": 46,
+    "MANTECON DIEGO, NICOLAS": 90,
+    "ORIA ARCE, ENZO": 90,
+    "DIAZ GARZON, RODRIGO": 90,
+    "GUTIERREZ RUIZ, MATEO": 90,
+    "KRISTIANOV DAFINKICHOV, VICTOR": 90,
+    "POPOVICI, ADRIAN": 64,
+    "MORA FERNANDEZ, LEO": 44,
+    "VILLA VARA, ALEJANDRO": 35,
+    "CARRO LOSADA, BRUNO": 42,
+    "GUTIERREZ CUETO, MARCO": 90,
+    "HERRERO CORTA, NECO": 90,
+    "QUIROGA PAZ, PABLO": 42,
+    "YOMEJOU GANZO, JEAN PAUL": 42,
+    "LOPEZ PUENTE, IVAN": 90,
+    "GARCIA BENITEZ, FERNANDO": 42,
+    "TANASA TANASA, PABLO CRISTIAN": 90,
+    "MUNAR RODRIGUEZ, RODRIGO": 90,
+    "HIGUERA MONTES, ALONSO": 90,
+    "MORALES LABRADOR, ENRIQUE": 55,
+    "LOPEZ IBARGUEN, NEL": 48,
+    "CASAS GUTIERREZ, ANDREAS": 48,
+    "PEREZ COBO, ALEXIS": 48,
+    "LANDERA LOPEZ, ABELARDO": 48
+  },
+  "portero_local": "BECERRIL ALONSO, ALVARO",
+  "portero_visitante": "VILLA VARA, ALEJANDRO",
+  "dorsales_local": {
+    "BECERRIL ALONSO, ALVARO": 1,
+    "GUNEN, MEHMET MUSA": 3,
+    "FERNANDEZ RUMAZO, JUAN": 4,
+    "GOMEZ MAZON, MARIO": 7,
+    "RODRIGUEZ PEREZ, ALVARO": 9,
+    "CILLERUELO FERNANDEZ, RAUL": 10,
+    "MANTECON DIEGO, NICOLAS": 14,
+    "ORIA ARCE, ENZO": 15,
+    "DIAZ GARZON, RODRIGO": 18,
+    "GUTIERREZ RUIZ, MATEO": 20,
+    "KRISTIANOV DAFINKICHOV, VICTOR": 27
+  },
+  "dorsales_visitante": {
+    "VILLA VARA, ALEJANDRO": 1,
+    "CARRO LOSADA, BRUNO": 4,
+    "GUTIERREZ CUETO, MARCO": 7,
+    "HERRERO CORTA, NECO": 8,
+    "QUIROGA PAZ, PABLO": 10,
+    "YOMEJOU GANZO, JEAN PAUL": 11,
+    "LOPEZ PUENTE, IVAN": 14,
+    "GARCIA BENITEZ, FERNANDO": 15,
+    "TANASA TANASA, PABLO CRISTIAN": 18,
+    "MUNAR RODRIGUEZ, RODRIGO": 19,
+    "HIGUERA MONTES, ALONSO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
