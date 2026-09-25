@@ -1,0 +1,238 @@
+{
+  "acta_id": "C_220730",
+  "filename": "Acta_C_220730.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 12,
+  "fecha": "06-12-2025",
+  "hora": "11:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "E.D.M. CAYON A",
+  "equipo_visitante": "C.D. MONTE A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCÍA RUBIO, VICTOR MANUEL"
+  ],
+  "estadio": "Saron 2",
+  "ciudad": "Santa María de Cayón",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "DEL RIO GONZALEZ, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "GARCES PEDRAJA, ESDRAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "CEBALLOS PRIETO, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 55,
+      "jugador": "C.D. MONTE A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "CASCALES TORRE, BOSCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "RUIZ LOPEZ, LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "SANTOS RODRIGUEZ, MIGUEL ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERREIRA RIBADA, NELSON XAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CEBALLOS PRIETO, MARIO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "BECERRIL ALONSO, ALVARO",
+    "GARCES PEDRAJA, ESDRAS",
+    "RABAGO FERNANDEZ, MARIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "PRECIADO GONZALEZ, DIEGO",
+    "COBO COBO, CRISTIAN",
+    "BARCENA GARCIA, PEDRO",
+    "OBREGON FERNANDEZ, MARIO",
+    "COTERO SAMPERIO, AARON",
+    "SANTAMARIA GUTIERREZ, YAGO",
+    "ASENSIO PILA, HECTOR"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ CAGIGAS, DIEGO",
+    "FRAILE GARCÍA, CARLOS",
+    "ANUARBE CANTERO, ANDER",
+    "RUIZ LOPEZ, LUIS",
+    "FERNANDEZ DIAZ, PABLO",
+    "PARDO NAVA, YAGO",
+    "MEJIAS GARCIA, KEVIN",
+    "DEL RIO GONZALEZ, LUCAS",
+    "BLANCO LOPEZ, MARIO",
+    "DE JULIAN PEROJO, MATEO",
+    "DEL HOYO VILLACORTA, ADRIAN"
+  ],
+  "suplentes_local": [
+    "CILLERUELO FERNANDEZ, RAUL",
+    "ESPINEL RUIZ, IKER",
+    "PEDRAJO PEREZ, CRISTIAN"
+  ],
+  "suplentes_visitante": [
+    "SANCHEZ ARENAL, SANTIAGO",
+    "MARTIN DIEZ, LUCAS",
+    "CASCALES TORRE, BOSCO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BECERRIL ALONSO, ALVARO",
+    "GARCES PEDRAJA, ESDRAS",
+    "RABAGO FERNANDEZ, MARIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "PRECIADO GONZALEZ, DIEGO",
+    "COBO COBO, CRISTIAN",
+    "BARCENA GARCIA, PEDRO",
+    "OBREGON FERNANDEZ, MARIO",
+    "COTERO SAMPERIO, AARON",
+    "SANTAMARIA GUTIERREZ, YAGO",
+    "ASENSIO PILA, HECTOR",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "ESPINEL RUIZ, IKER",
+    "PEDRAJO PEREZ, CRISTIAN"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ CAGIGAS, DIEGO",
+    "FRAILE GARCÍA, CARLOS",
+    "ANUARBE CANTERO, ANDER",
+    "RUIZ LOPEZ, LUIS",
+    "FERNANDEZ DIAZ, PABLO",
+    "PARDO NAVA, YAGO",
+    "MEJIAS GARCIA, KEVIN",
+    "DEL RIO GONZALEZ, LUCAS",
+    "BLANCO LOPEZ, MARIO",
+    "DE JULIAN PEROJO, MATEO",
+    "DEL HOYO VILLACORTA, ADRIAN",
+    "SANCHEZ ARENAL, SANTIAGO",
+    "CASCALES TORRE, BOSCO",
+    "MARTIN DIEZ, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "CILLERUELO FERNANDEZ, RAUL",
+      "sale": "RABAGO FERNANDEZ, MARIO"
+    },
+    {
+      "min": 53,
+      "entra": "ESPINEL RUIZ, IKER",
+      "sale": "PRECIADO GONZALEZ, DIEGO"
+    },
+    {
+      "min": 59,
+      "entra": "PEDRAJO PEREZ, CRISTIAN",
+      "sale": "COBO COBO, CRISTIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "SANCHEZ ARENAL, SANTIAGO",
+      "sale": "FERNANDEZ DIAZ, PABLO"
+    },
+    {
+      "min": 48,
+      "entra": "CASCALES TORRE, BOSCO",
+      "sale": "PARDO NAVA, YAGO"
+    },
+    {
+      "min": 53,
+      "entra": "MARTIN DIEZ, LUCAS",
+      "sale": "SANCHEZ ARENAL, SANTIAGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "BECERRIL ALONSO, ALVARO": 90,
+    "GARCES PEDRAJA, ESDRAS": 90,
+    "RABAGO FERNANDEZ, MARIO": 48,
+    "CRESPO FRECHOSO, VICTOR": 90,
+    "PRECIADO GONZALEZ, DIEGO": 53,
+    "COBO COBO, CRISTIAN": 59,
+    "BARCENA GARCIA, PEDRO": 90,
+    "OBREGON FERNANDEZ, MARIO": 90,
+    "COTERO SAMPERIO, AARON": 90,
+    "SANTAMARIA GUTIERREZ, YAGO": 90,
+    "ASENSIO PILA, HECTOR": 90,
+    "CILLERUELO FERNANDEZ, RAUL": 42,
+    "ESPINEL RUIZ, IKER": 37,
+    "PEDRAJO PEREZ, CRISTIAN": 31,
+    "RODRIGUEZ CAGIGAS, DIEGO": 90,
+    "FRAILE GARCÍA, CARLOS": 90,
+    "ANUARBE CANTERO, ANDER": 90,
+    "RUIZ LOPEZ, LUIS": 90,
+    "FERNANDEZ DIAZ, PABLO": 35,
+    "PARDO NAVA, YAGO": 48,
+    "MEJIAS GARCIA, KEVIN": 90,
+    "DEL RIO GONZALEZ, LUCAS": 90,
+    "BLANCO LOPEZ, MARIO": 90,
+    "DE JULIAN PEROJO, MATEO": 90,
+    "DEL HOYO VILLACORTA, ADRIAN": 90,
+    "SANCHEZ ARENAL, SANTIAGO": 53,
+    "CASCALES TORRE, BOSCO": 42,
+    "MARTIN DIEZ, LUCAS": 37
+  },
+  "portero_local": "BECERRIL ALONSO, ALVARO",
+  "portero_visitante": "RODRIGUEZ CAGIGAS, DIEGO",
+  "dorsales_local": {
+    "BECERRIL ALONSO, ALVARO": 1,
+    "GARCES PEDRAJA, ESDRAS": 2,
+    "RABAGO FERNANDEZ, MARIO": 7,
+    "CRESPO FRECHOSO, VICTOR": 8,
+    "PRECIADO GONZALEZ, DIEGO": 11,
+    "COBO COBO, CRISTIAN": 17,
+    "BARCENA GARCIA, PEDRO": 18,
+    "OBREGON FERNANDEZ, MARIO": 30,
+    "COTERO SAMPERIO, AARON": 31,
+    "SANTAMARIA GUTIERREZ, YAGO": 33,
+    "ASENSIO PILA, HECTOR": 37
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ CAGIGAS, DIEGO": 1,
+    "FRAILE GARCÍA, CARLOS": 2,
+    "ANUARBE CANTERO, ANDER": 3,
+    "RUIZ LOPEZ, LUIS": 4,
+    "FERNANDEZ DIAZ, PABLO": 5,
+    "PARDO NAVA, YAGO": 6,
+    "MEJIAS GARCIA, KEVIN": 8,
+    "DEL RIO GONZALEZ, LUCAS": 9,
+    "BLANCO LOPEZ, MARIO": 10,
+    "DE JULIAN PEROJO, MATEO": 12,
+    "DEL HOYO VILLACORTA, ADRIAN": 14
+  },
+  "suspendidos": []
+}
