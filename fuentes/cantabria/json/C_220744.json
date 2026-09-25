@@ -1,0 +1,235 @@
+{
+  "acta_id": "C_220744",
+  "filename": "Acta_C_220744.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 14,
+  "fecha": "20-12-2025",
+  "hora": "12:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. TROPEZON A",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CARUTA MOROI, EDUARDO"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "BUENO GARCIA, IAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "SASIAN PEREZ, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 43,
+      "jugador": "HOYOS ALUNDA, JOSE ANTONIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 43,
+      "jugador": "C.D. LAREDO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "BARANDA HERRERA, JUAN JOSE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "BARANDA HERRERA, JUAN JOSE",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DEL CASTILLO RUIZ, FRANCISCO JAVIER",
+  "entrenador_visitante": "CAGIGAS TABARES, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LAMO MOLINA, JUAN ANTONIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LAMO MOLINA, JUAN ANTONIO",
+  "delegado_equipo_visitante": "ARISQUETA TOCORNAL, LUIS",
+  "titulares_local": [
+    "FERNANDEZ BLANCO, JORGE",
+    "CASTILLO MONTES, ALEJANDRO",
+    "SASIAN PEREZ, DIEGO",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "HOYOS ALUNDA, JOSE ANTONIO",
+    "DOS REIS REYES, ANDER",
+    "GUERRA GONZALEZ, JACOBO"
+  ],
+  "titulares_visitante": [
+    "BRINGAS LLANO, HUGO",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "BARANDA HERRERA, JUAN JOSE",
+    "AMUTIO CASADO, GABRIEL",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "GUERRERO GARCÍA, DEIVID",
+    "LAHUERTA RUIZ, ARITZA",
+    "GAVILANES LINAJE, MARCO",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "ABASCAL DACOSTA, RUBEN"
+  ],
+  "suplentes_local": [
+    "IBAÑEZ CELORIO, SAUL",
+    "GUTIERREZ MANTECON, MIKEL",
+    "HAKKIOUI KHAMOUSSI, AYMENE",
+    "IGONIN DIAZ, MATEO"
+  ],
+  "suplentes_visitante": [
+    "RAYS VIERA DE SA, THIAGO",
+    "LOPEZ ORTEGA, DYLAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "IBAÑEZ CELORIO, SAUL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ BLANCO, JORGE",
+    "CASTILLO MONTES, ALEJANDRO",
+    "SASIAN PEREZ, DIEGO",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "HOYOS ALUNDA, JOSE ANTONIO",
+    "DOS REIS REYES, ANDER",
+    "GUERRA GONZALEZ, JACOBO",
+    "GUTIERREZ MANTECON, MIKEL",
+    "HAKKIOUI KHAMOUSSI, AYMENE",
+    "IGONIN DIAZ, MATEO"
+  ],
+  "jugadores_visitante": [
+    "BRINGAS LLANO, HUGO",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "BARANDA HERRERA, JUAN JOSE",
+    "AMUTIO CASADO, GABRIEL",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "GUERRERO GARCÍA, DEIVID",
+    "LAHUERTA RUIZ, ARITZA",
+    "GAVILANES LINAJE, MARCO",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "ABASCAL DACOSTA, RUBEN",
+    "RAYS VIERA DE SA, THIAGO",
+    "LOPEZ ORTEGA, DYLAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "GUTIERREZ MANTECON, MIKEL",
+      "sale": "HOYOS ALUNDA, JOSE ANTONIO"
+    },
+    {
+      "min": 55,
+      "entra": "HAKKIOUI KHAMOUSSI, AYMENE",
+      "sale": "COSSIO DELGADO, MARCO"
+    },
+    {
+      "min": 59,
+      "entra": "IGONIN DIAZ, MATEO",
+      "sale": "SALAZAR MANZANO, MIGUEL ANGEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "RAYS VIERA DE SA, THIAGO",
+      "sale": "BRINGAS LLANO, HUGO"
+    },
+    {
+      "min": 59,
+      "entra": "LOPEZ ORTEGA, DYLAN",
+      "sale": "RODRIGUEZ ECHEVARRIA, FRAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ BLANCO, JORGE": 90,
+    "CASTILLO MONTES, ALEJANDRO": 90,
+    "SASIAN PEREZ, DIEGO": 90,
+    "BUENO GARCIA, IAN": 90,
+    "ITURBE ACEBAL, DIEGO": 90,
+    "ROJO AROZAMENA, DAVID": 90,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 59,
+    "COSSIO DELGADO, MARCO": 55,
+    "HOYOS ALUNDA, JOSE ANTONIO": 44,
+    "DOS REIS REYES, ANDER": 90,
+    "GUERRA GONZALEZ, JACOBO": 90,
+    "GUTIERREZ MANTECON, MIKEL": 46,
+    "HAKKIOUI KHAMOUSSI, AYMENE": 35,
+    "IGONIN DIAZ, MATEO": 31,
+    "BRINGAS LLANO, HUGO": 35,
+    "BECI CARRERA, EDUARDO": 90,
+    "PASCUAL ARANA, ELEDER": 90,
+    "BARANDA HERRERA, JUAN JOSE": 90,
+    "AMUTIO CASADO, GABRIEL": 90,
+    "ARISQUETA GUTIERREZ, CARLOS": 90,
+    "GUERRERO GARCÍA, DEIVID": 90,
+    "LAHUERTA RUIZ, ARITZA": 90,
+    "GAVILANES LINAJE, MARCO": 90,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 59,
+    "ABASCAL DACOSTA, RUBEN": 90,
+    "RAYS VIERA DE SA, THIAGO": 55,
+    "LOPEZ ORTEGA, DYLAN": 31
+  },
+  "portero_local": "FERNANDEZ BLANCO, JORGE",
+  "portero_visitante": "BRINGAS LLANO, HUGO",
+  "dorsales_local": {
+    "FERNANDEZ BLANCO, JORGE": 1,
+    "CASTILLO MONTES, ALEJANDRO": 4,
+    "SASIAN PEREZ, DIEGO": 5,
+    "BUENO GARCIA, IAN": 9,
+    "ITURBE ACEBAL, DIEGO": 10,
+    "ROJO AROZAMENA, DAVID": 11,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 12,
+    "COSSIO DELGADO, MARCO": 14,
+    "HOYOS ALUNDA, JOSE ANTONIO": 17,
+    "DOS REIS REYES, ANDER": 18,
+    "GUERRA GONZALEZ, JACOBO": 19
+  },
+  "dorsales_visitante": {
+    "BRINGAS LLANO, HUGO": 1,
+    "BECI CARRERA, EDUARDO": 3,
+    "PASCUAL ARANA, ELEDER": 4,
+    "BARANDA HERRERA, JUAN JOSE": 7,
+    "AMUTIO CASADO, GABRIEL": 8,
+    "ARISQUETA GUTIERREZ, CARLOS": 9,
+    "GUERRERO GARCÍA, DEIVID": 11,
+    "LAHUERTA RUIZ, ARITZA": 12,
+    "GAVILANES LINAJE, MARCO": 15,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 17,
+    "ABASCAL DACOSTA, RUBEN": 26
+  },
+  "suspendidos": [
+    "BARANDA HERRERA, JUAN JOSE"
+  ]
+}
