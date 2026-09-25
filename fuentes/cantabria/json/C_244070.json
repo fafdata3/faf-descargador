@@ -1,0 +1,286 @@
+{
+  "acta_id": "C_244070",
+  "filename": "Acta_C_244070.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "20-09-2026",
+  "hora": "10:45",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. COLINDRES",
+  "equipo_visitante": "S.D. TEXTIL ESCUDO A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "ORIA VALVERDE, JORGE"
+  ],
+  "estadio": "Colindres",
+  "ciudad": "Colindres",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "LOPEZ MIGOYA, FERNANDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 9,
+      "jugador": "ALQUEGUI FERNANDEZ, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "ALQUEGUI FERNANDEZ, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "ALQUEGUI FERNANDEZ, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 11,
+      "jugador": "PONTE TANANTA, JOSUE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "VECI HIERRO, TOMAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "S.D. TEXTIL ESCUDO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 36,
+      "jugador": "ALONSO ECHEVARRIA, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "GUTIERREZ URRACA, MARCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SAIZ SÁNCHEZ, ALBERTO",
+  "entrenador_visitante": "SÁNCHEZ ZUBIAURRE, GONZALO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "CALDERON ELOURAD, HUGO",
+  "titulares_local": [
+    "RODRIGUEZ DOMENECH, UNAI",
+    "PONTE TANANTA, JOSUE",
+    "ARIAS FLORES, MATEO",
+    "VECI HIERRO, TOMAS",
+    "BUSTILLO LUSARES, SAMUEL",
+    "ALQUEGUI FERNANDEZ, IZAN",
+    "DIEZ RUGAMA, LUCAS",
+    "BENGOECHEA LUSARES, GONZALO",
+    "SAEZ MARTINEZ, ENEKO",
+    "GARCIA URRUSUNO, RAFAEL",
+    "GALAN FERNANDEZ, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "GOMEZ RIVERO, IKER",
+    "ALONSO ECHEVARRIA, LUCAS",
+    "ALVAREZ VAZQUEZ, XUNE",
+    "MATA GOMEZ, MAEL",
+    "PEREZ ELOURAD, ISMAEL",
+    "LLANO BESGA, JON",
+    "FERNANDEZ ERICE, LUCAS",
+    "ORTIZ GONZALEZ, NICOLAS",
+    "HERRERO PEREZ, ADRIAN",
+    "MARTINEZ GOMEZ, MANUEL",
+    "LOPEZ MIGOYA, FERNANDO"
+  ],
+  "suplentes_local": [
+    "BLAZQUEZ PECHERO, JAVIER",
+    "MARTINEZ MARENTES, ENOL",
+    "MADRAZO RUIZ, HUGO",
+    "HUMADA GARAY, LEO",
+    "SALAZAR ORTIZ, JESÚS DANIEL"
+  ],
+  "suplentes_visitante": [
+    "ORTIZ SAIZ, ADRIAN",
+    "PEREZ GONZALEZ, ALONSO",
+    "GOMEZ ROMANO, UNAY",
+    "VILLAR CORTIJO, MARIO",
+    "GUTIERREZ URRACA, MARCO"
+  ],
+  "convocados_sin_jugar_local": [
+    "BLAZQUEZ PECHERO, JAVIER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RODRIGUEZ DOMENECH, UNAI",
+    "PONTE TANANTA, JOSUE",
+    "ARIAS FLORES, MATEO",
+    "VECI HIERRO, TOMAS",
+    "BUSTILLO LUSARES, SAMUEL",
+    "ALQUEGUI FERNANDEZ, IZAN",
+    "DIEZ RUGAMA, LUCAS",
+    "BENGOECHEA LUSARES, GONZALO",
+    "SAEZ MARTINEZ, ENEKO",
+    "GARCIA URRUSUNO, RAFAEL",
+    "GALAN FERNANDEZ, RODRIGO",
+    "HUMADA GARAY, LEO",
+    "SALAZAR ORTIZ, JESÚS DANIEL",
+    "MARTINEZ MARENTES, ENOL",
+    "MADRAZO RUIZ, HUGO"
+  ],
+  "jugadores_visitante": [
+    "GOMEZ RIVERO, IKER",
+    "ALONSO ECHEVARRIA, LUCAS",
+    "ALVAREZ VAZQUEZ, XUNE",
+    "MATA GOMEZ, MAEL",
+    "PEREZ ELOURAD, ISMAEL",
+    "LLANO BESGA, JON",
+    "FERNANDEZ ERICE, LUCAS",
+    "ORTIZ GONZALEZ, NICOLAS",
+    "HERRERO PEREZ, ADRIAN",
+    "MARTINEZ GOMEZ, MANUEL",
+    "LOPEZ MIGOYA, FERNANDO",
+    "VILLAR CORTIJO, MARIO",
+    "GOMEZ ROMANO, UNAY",
+    "ORTIZ SAIZ, ADRIAN",
+    "PEREZ GONZALEZ, ALONSO",
+    "GUTIERREZ URRACA, MARCO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "HUMADA GARAY, LEO",
+      "sale": "PONTE TANANTA, JOSUE"
+    },
+    {
+      "min": 48,
+      "entra": "SALAZAR ORTIZ, JESÚS DANIEL",
+      "sale": "DIEZ RUGAMA, LUCAS"
+    },
+    {
+      "min": 55,
+      "entra": "MARTINEZ MARENTES, ENOL",
+      "sale": "GARCIA URRUSUNO, RAFAEL"
+    },
+    {
+      "min": 60,
+      "entra": "MADRAZO RUIZ, HUGO",
+      "sale": "GALAN FERNANDEZ, RODRIGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 22,
+      "entra": "VILLAR CORTIJO, MARIO",
+      "sale": "MATA GOMEZ, MAEL"
+    },
+    {
+      "min": 46,
+      "entra": "GOMEZ ROMANO, UNAY",
+      "sale": "LOPEZ MIGOYA, FERNANDO"
+    },
+    {
+      "min": 51,
+      "entra": "ORTIZ SAIZ, ADRIAN",
+      "sale": "MARTINEZ GOMEZ, MANUEL"
+    },
+    {
+      "min": 53,
+      "entra": "PEREZ GONZALEZ, ALONSO",
+      "sale": "ALONSO ECHEVARRIA, LUCAS"
+    },
+    {
+      "min": 53,
+      "entra": "GUTIERREZ URRACA, MARCO",
+      "sale": "LLANO BESGA, JON"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ DOMENECH, UNAI": 90,
+    "PONTE TANANTA, JOSUE": 35,
+    "ARIAS FLORES, MATEO": 90,
+    "VECI HIERRO, TOMAS": 90,
+    "BUSTILLO LUSARES, SAMUEL": 90,
+    "ALQUEGUI FERNANDEZ, IZAN": 90,
+    "DIEZ RUGAMA, LUCAS": 48,
+    "BENGOECHEA LUSARES, GONZALO": 90,
+    "SAEZ MARTINEZ, ENEKO": 90,
+    "GARCIA URRUSUNO, RAFAEL": 55,
+    "GALAN FERNANDEZ, RODRIGO": 60,
+    "HUMADA GARAY, LEO": 55,
+    "SALAZAR ORTIZ, JESÚS DANIEL": 42,
+    "MARTINEZ MARENTES, ENOL": 35,
+    "MADRAZO RUIZ, HUGO": 30,
+    "GOMEZ RIVERO, IKER": 90,
+    "ALONSO ECHEVARRIA, LUCAS": 53,
+    "ALVAREZ VAZQUEZ, XUNE": 90,
+    "MATA GOMEZ, MAEL": 22,
+    "PEREZ ELOURAD, ISMAEL": 90,
+    "LLANO BESGA, JON": 53,
+    "FERNANDEZ ERICE, LUCAS": 90,
+    "ORTIZ GONZALEZ, NICOLAS": 90,
+    "HERRERO PEREZ, ADRIAN": 90,
+    "MARTINEZ GOMEZ, MANUEL": 51,
+    "LOPEZ MIGOYA, FERNANDO": 46,
+    "VILLAR CORTIJO, MARIO": 68,
+    "GOMEZ ROMANO, UNAY": 44,
+    "ORTIZ SAIZ, ADRIAN": 39,
+    "PEREZ GONZALEZ, ALONSO": 37,
+    "GUTIERREZ URRACA, MARCO": 37
+  },
+  "portero_local": "RODRIGUEZ DOMENECH, UNAI",
+  "portero_visitante": "GOMEZ RIVERO, IKER",
+  "dorsales_local": {
+    "RODRIGUEZ DOMENECH, UNAI": 13,
+    "PONTE TANANTA, JOSUE": 2,
+    "ARIAS FLORES, MATEO": 3,
+    "VECI HIERRO, TOMAS": 4,
+    "BUSTILLO LUSARES, SAMUEL": 7,
+    "ALQUEGUI FERNANDEZ, IZAN": 8,
+    "DIEZ RUGAMA, LUCAS": 9,
+    "BENGOECHEA LUSARES, GONZALO": 11,
+    "SAEZ MARTINEZ, ENEKO": 15,
+    "GARCIA URRUSUNO, RAFAEL": 19,
+    "GALAN FERNANDEZ, RODRIGO": 21
+  },
+  "dorsales_visitante": {
+    "GOMEZ RIVERO, IKER": 13,
+    "ALONSO ECHEVARRIA, LUCAS": 3,
+    "ALVAREZ VAZQUEZ, XUNE": 4,
+    "MATA GOMEZ, MAEL": 5,
+    "PEREZ ELOURAD, ISMAEL": 6,
+    "LLANO BESGA, JON": 7,
+    "FERNANDEZ ERICE, LUCAS": 9,
+    "ORTIZ GONZALEZ, NICOLAS": 10,
+    "HERRERO PEREZ, ADRIAN": 11,
+    "MARTINEZ GOMEZ, MANUEL": 15,
+    "LOPEZ MIGOYA, FERNANDO": 17
+  },
+  "suspendidos": []
+}
