@@ -1,0 +1,232 @@
+{
+  "acta_id": "C_220700",
+  "filename": "Acta_C_220700.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 8,
+  "fecha": "09-11-2025",
+  "hora": "10:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "E.D.M. CAYON A",
+  "equipo_visitante": "C.D. ARENAS DE FRAJANAS A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CARUTA MOROI, CRISTIAN"
+  ],
+  "estadio": "Saron 2",
+  "ciudad": "Santa María de Cayón",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "BARCENA GARCIA, PEDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "PRECIADO GONZALEZ, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "OBREGON FERNANDEZ, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 42,
+      "jugador": "ASENSIO PILA, HECTOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "C.D. ARENAS DE FRAJANAS A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "MATE GARCIA, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERREIRA RIBADA, NELSON XAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CEBALLOS PRIETO, MARIO",
+  "delegado_equipo_visitante": "SANTAMARIA DE BLAS, ALVARO",
+  "titulares_local": [
+    "BECERRIL ALONSO, ALVARO",
+    "RABAGO FERNANDEZ, MARIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "COBO HERRERA, PABLO",
+    "ESPINEL RUIZ, IKER",
+    "COBO COBO, CRISTIAN",
+    "BARCENA GARCIA, PEDRO",
+    "PRECIADO GONZALEZ, DIEGO",
+    "COTERO SAMPERIO, AARON",
+    "SANTAMARIA GUTIERREZ, YAGO",
+    "ASENSIO PILA, HECTOR"
+  ],
+  "titulares_visitante": [
+    "CASTILLO SAIZ, LUCA",
+    "DIOP, ALIOUNE SARR",
+    "PIQUERAS DEL RÍO, DANIEL",
+    "GARCIA PELAYO, MIGUEL",
+    "MATA RODRIGUEZ, ERIK",
+    "RUIZ SANCHEZ, ERIK",
+    "NIANG SYLLA, DAME",
+    "DIEZ GONZALEZ, DANIEL",
+    "DUARTE CASTELLO, NUC",
+    "LOPEZ CASTAÑEDA, MAURO",
+    "SCARNA FRANCO, DENIS"
+  ],
+  "suplentes_local": [
+    "GARCES PEDRAJA, ESDRAS",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "PEDRAJO PEREZ, CRISTIAN",
+    "OBREGON FERNANDEZ, MARIO"
+  ],
+  "suplentes_visitante": [
+    "GUZMAN VALDEZ, MATIAS",
+    "DELGADO SAN MIGUEL, PABLO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BECERRIL ALONSO, ALVARO",
+    "RABAGO FERNANDEZ, MARIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "COBO HERRERA, PABLO",
+    "ESPINEL RUIZ, IKER",
+    "COBO COBO, CRISTIAN",
+    "BARCENA GARCIA, PEDRO",
+    "PRECIADO GONZALEZ, DIEGO",
+    "COTERO SAMPERIO, AARON",
+    "SANTAMARIA GUTIERREZ, YAGO",
+    "ASENSIO PILA, HECTOR",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "GARCES PEDRAJA, ESDRAS",
+    "OBREGON FERNANDEZ, MARIO",
+    "PEDRAJO PEREZ, CRISTIAN"
+  ],
+  "jugadores_visitante": [
+    "CASTILLO SAIZ, LUCA",
+    "DIOP, ALIOUNE SARR",
+    "PIQUERAS DEL RÍO, DANIEL",
+    "GARCIA PELAYO, MIGUEL",
+    "MATA RODRIGUEZ, ERIK",
+    "RUIZ SANCHEZ, ERIK",
+    "NIANG SYLLA, DAME",
+    "DIEZ GONZALEZ, DANIEL",
+    "DUARTE CASTELLO, NUC",
+    "LOPEZ CASTAÑEDA, MAURO",
+    "SCARNA FRANCO, DENIS",
+    "DELGADO SAN MIGUEL, PABLO",
+    "GUZMAN VALDEZ, MATIAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 17,
+      "entra": "CILLERUELO FERNANDEZ, RAUL",
+      "sale": "BARCENA GARCIA, PEDRO"
+    },
+    {
+      "min": 49,
+      "entra": "GARCES PEDRAJA, ESDRAS",
+      "sale": "COTERO SAMPERIO, AARON"
+    },
+    {
+      "min": 50,
+      "entra": "OBREGON FERNANDEZ, MARIO",
+      "sale": "CRESPO FRECHOSO, VICTOR"
+    },
+    {
+      "min": 55,
+      "entra": "PEDRAJO PEREZ, CRISTIAN",
+      "sale": "ESPINEL RUIZ, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "DELGADO SAN MIGUEL, PABLO",
+      "sale": "NIANG SYLLA, DAME"
+    },
+    {
+      "min": 35,
+      "entra": "GUZMAN VALDEZ, MATIAS",
+      "sale": "LOPEZ CASTAÑEDA, MAURO"
+    }
+  ],
+  "minutos_jugadores": {
+    "BECERRIL ALONSO, ALVARO": 90,
+    "RABAGO FERNANDEZ, MARIO": 90,
+    "CRESPO FRECHOSO, VICTOR": 50,
+    "COBO HERRERA, PABLO": 90,
+    "ESPINEL RUIZ, IKER": 55,
+    "COBO COBO, CRISTIAN": 90,
+    "BARCENA GARCIA, PEDRO": 17,
+    "PRECIADO GONZALEZ, DIEGO": 90,
+    "COTERO SAMPERIO, AARON": 49,
+    "SANTAMARIA GUTIERREZ, YAGO": 90,
+    "ASENSIO PILA, HECTOR": 90,
+    "CILLERUELO FERNANDEZ, RAUL": 73,
+    "GARCES PEDRAJA, ESDRAS": 41,
+    "OBREGON FERNANDEZ, MARIO": 40,
+    "PEDRAJO PEREZ, CRISTIAN": 35,
+    "CASTILLO SAIZ, LUCA": 90,
+    "DIOP, ALIOUNE SARR": 90,
+    "PIQUERAS DEL RÍO, DANIEL": 90,
+    "GARCIA PELAYO, MIGUEL": 90,
+    "MATA RODRIGUEZ, ERIK": 90,
+    "RUIZ SANCHEZ, ERIK": 90,
+    "NIANG SYLLA, DAME": 35,
+    "DIEZ GONZALEZ, DANIEL": 90,
+    "DUARTE CASTELLO, NUC": 90,
+    "LOPEZ CASTAÑEDA, MAURO": 35,
+    "SCARNA FRANCO, DENIS": 90,
+    "DELGADO SAN MIGUEL, PABLO": 55,
+    "GUZMAN VALDEZ, MATIAS": 55
+  },
+  "portero_local": "BECERRIL ALONSO, ALVARO",
+  "portero_visitante": "CASTILLO SAIZ, LUCA",
+  "dorsales_local": {
+    "BECERRIL ALONSO, ALVARO": 1,
+    "RABAGO FERNANDEZ, MARIO": 7,
+    "CRESPO FRECHOSO, VICTOR": 8,
+    "COBO HERRERA, PABLO": 14,
+    "ESPINEL RUIZ, IKER": 16,
+    "COBO COBO, CRISTIAN": 17,
+    "BARCENA GARCIA, PEDRO": 18,
+    "PRECIADO GONZALEZ, DIEGO": 23,
+    "COTERO SAMPERIO, AARON": 31,
+    "SANTAMARIA GUTIERREZ, YAGO": 33,
+    "ASENSIO PILA, HECTOR": 37
+  },
+  "dorsales_visitante": {
+    "CASTILLO SAIZ, LUCA": 13,
+    "DIOP, ALIOUNE SARR": 2,
+    "PIQUERAS DEL RÍO, DANIEL": 8,
+    "GARCIA PELAYO, MIGUEL": 9,
+    "MATA RODRIGUEZ, ERIK": 10,
+    "RUIZ SANCHEZ, ERIK": 11,
+    "NIANG SYLLA, DAME": 12,
+    "DIEZ GONZALEZ, DANIEL": 18,
+    "DUARTE CASTELLO, NUC": 20,
+    "LOPEZ CASTAÑEDA, MAURO": 22,
+    "SCARNA FRANCO, DENIS": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
