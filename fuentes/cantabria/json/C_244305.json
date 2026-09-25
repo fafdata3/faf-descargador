@@ -1,0 +1,263 @@
+{
+  "acta_id": "C_244305",
+  "filename": "Acta_C_244305.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "10:15",
+  "categoria": "SEGUNDA INFANTIL (GRUPO A)",
+  "equipo_local": "AYRON CLUB B",
+  "equipo_visitante": "C.D. MARINA SPORT A",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SÁNCHEZ LÓPEZ, MARCO"
+  ],
+  "estadio": "Vargas",
+  "ciudad": "Puente Viesgo",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "FERNANDEZ ALVARADO, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 12,
+      "jugador": "OREÑA LINS, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 24,
+      "jugador": "ESPINOSA TERAN, MANUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "ESPADA CASAR, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "CIPOLLETTI MARTINEZ, ALESSANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 57,
+      "jugador": "FERNANDEZ ALVARADO, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "YUDEGO FERNANDEZ, PABLO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "YUDEGO RABANAL, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "YUDEGO RABANAL, PABLO",
+  "delegado_equipo_visitante": "ARGOS PARDO, GONZALO",
+  "titulares_local": [
+    "BUSTILLO LEON, BRUNO",
+    "GUARDO ARRIBAS, SAÚL",
+    "ARCE ACEREDA, MARIO",
+    "RIOS BENITEZ, NOEL YASIER",
+    "CARMONA RUIZ, MARCOS",
+    "GONZÁLEZ IGLESIAS, LARO",
+    "QUIJANO BURGOS, LARO",
+    "SAINZ DE LA MAZA ALVAREZ, JAIME",
+    "IGLESIAS DE LA ROSA, DENIS",
+    "PONTONES EGUREN, PABLO",
+    "PUENTE FERNANDEZ, MARCO"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ GOMEZ, NOEL",
+    "BARRIENTOS LOPEZ, MIGUEL",
+    "SOBALER SANCHEZ, LUCA",
+    "SANZ COBO, MARIO",
+    "ESPINOSA TERAN, MANUEL",
+    "ALVAREZ PEREZ, LUCAS",
+    "ESPADA CASAR, PABLO",
+    "FERNANDEZ ALVARADO, ADRIAN",
+    "LEON ARIAS, ENZO",
+    "OREÑA LINS, HUGO",
+    "RUILOBA VILLA, MARIO"
+  ],
+  "suplentes_local": [
+    "PÉREZ GONZÁLEZ, MANUEL",
+    "HERRERO OTERINO, MATEO",
+    "MUÑOZ FERNANDEZ, MIGUEL",
+    "LAVIN PATIÑO, MARCOS"
+  ],
+  "suplentes_visitante": [
+    "RODRIGUEZ CASTAÑEDA, MAURO",
+    "PEÑA TEJEDOR, ADRIAN",
+    "MAMOUN MEÑACA, ABEL KARIM",
+    "GOMEZ OUSTAKH, NEIZAN",
+    "CIPOLLETTI MARTINEZ, ALESSANDRO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BUSTILLO LEON, BRUNO",
+    "GUARDO ARRIBAS, SAÚL",
+    "ARCE ACEREDA, MARIO",
+    "RIOS BENITEZ, NOEL YASIER",
+    "CARMONA RUIZ, MARCOS",
+    "GONZÁLEZ IGLESIAS, LARO",
+    "QUIJANO BURGOS, LARO",
+    "SAINZ DE LA MAZA ALVAREZ, JAIME",
+    "IGLESIAS DE LA ROSA, DENIS",
+    "PONTONES EGUREN, PABLO",
+    "PUENTE FERNANDEZ, MARCO",
+    "MUÑOZ FERNANDEZ, MIGUEL",
+    "PÉREZ GONZÁLEZ, MANUEL",
+    "LAVIN PATIÑO, MARCOS",
+    "HERRERO OTERINO, MATEO"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ GOMEZ, NOEL",
+    "BARRIENTOS LOPEZ, MIGUEL",
+    "SOBALER SANCHEZ, LUCA",
+    "SANZ COBO, MARIO",
+    "ESPINOSA TERAN, MANUEL",
+    "ALVAREZ PEREZ, LUCAS",
+    "ESPADA CASAR, PABLO",
+    "FERNANDEZ ALVARADO, ADRIAN",
+    "LEON ARIAS, ENZO",
+    "OREÑA LINS, HUGO",
+    "RUILOBA VILLA, MARIO",
+    "PEÑA TEJEDOR, ADRIAN",
+    "GOMEZ OUSTAKH, NEIZAN",
+    "CIPOLLETTI MARTINEZ, ALESSANDRO",
+    "RODRIGUEZ CASTAÑEDA, MAURO",
+    "MAMOUN MEÑACA, ABEL KARIM"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "MUÑOZ FERNANDEZ, MIGUEL",
+      "sale": "IGLESIAS DE LA ROSA, DENIS"
+    },
+    {
+      "min": 51,
+      "entra": "PÉREZ GONZÁLEZ, MANUEL",
+      "sale": "ARCE ACEREDA, MARIO"
+    },
+    {
+      "min": 54,
+      "entra": "LAVIN PATIÑO, MARCOS",
+      "sale": "SAINZ DE LA MAZA ALVAREZ, JAIME"
+    },
+    {
+      "min": 58,
+      "entra": "HERRERO OTERINO, MATEO",
+      "sale": "GUARDO ARRIBAS, SAÚL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "PEÑA TEJEDOR, ADRIAN",
+      "sale": "RODRIGUEZ GOMEZ, NOEL"
+    },
+    {
+      "min": 41,
+      "entra": "GOMEZ OUSTAKH, NEIZAN",
+      "sale": "ALVAREZ PEREZ, LUCAS"
+    },
+    {
+      "min": 41,
+      "entra": "CIPOLLETTI MARTINEZ, ALESSANDRO",
+      "sale": "RUILOBA VILLA, MARIO"
+    },
+    {
+      "min": 46,
+      "entra": "RODRIGUEZ CASTAÑEDA, MAURO",
+      "sale": "SOBALER SANCHEZ, LUCA"
+    },
+    {
+      "min": 46,
+      "entra": "MAMOUN MEÑACA, ABEL KARIM",
+      "sale": "BARRIENTOS LOPEZ, MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "BUSTILLO LEON, BRUNO": 90,
+    "GUARDO ARRIBAS, SAÚL": 58,
+    "ARCE ACEREDA, MARIO": 51,
+    "RIOS BENITEZ, NOEL YASIER": 90,
+    "CARMONA RUIZ, MARCOS": 90,
+    "GONZÁLEZ IGLESIAS, LARO": 90,
+    "QUIJANO BURGOS, LARO": 90,
+    "SAINZ DE LA MAZA ALVAREZ, JAIME": 54,
+    "IGLESIAS DE LA ROSA, DENIS": 44,
+    "PONTONES EGUREN, PABLO": 90,
+    "PUENTE FERNANDEZ, MARCO": 90,
+    "MUÑOZ FERNANDEZ, MIGUEL": 46,
+    "PÉREZ GONZÁLEZ, MANUEL": 39,
+    "LAVIN PATIÑO, MARCOS": 36,
+    "HERRERO OTERINO, MATEO": 32,
+    "RODRIGUEZ GOMEZ, NOEL": 35,
+    "BARRIENTOS LOPEZ, MIGUEL": 46,
+    "SOBALER SANCHEZ, LUCA": 46,
+    "SANZ COBO, MARIO": 90,
+    "ESPINOSA TERAN, MANUEL": 90,
+    "ALVAREZ PEREZ, LUCAS": 41,
+    "ESPADA CASAR, PABLO": 90,
+    "FERNANDEZ ALVARADO, ADRIAN": 90,
+    "LEON ARIAS, ENZO": 90,
+    "OREÑA LINS, HUGO": 90,
+    "RUILOBA VILLA, MARIO": 41,
+    "PEÑA TEJEDOR, ADRIAN": 55,
+    "GOMEZ OUSTAKH, NEIZAN": 49,
+    "CIPOLLETTI MARTINEZ, ALESSANDRO": 49,
+    "RODRIGUEZ CASTAÑEDA, MAURO": 44,
+    "MAMOUN MEÑACA, ABEL KARIM": 44
+  },
+  "portero_local": "BUSTILLO LEON, BRUNO",
+  "portero_visitante": "RODRIGUEZ GOMEZ, NOEL",
+  "dorsales_local": {
+    "BUSTILLO LEON, BRUNO": 1,
+    "GUARDO ARRIBAS, SAÚL": 2,
+    "ARCE ACEREDA, MARIO": 3,
+    "RIOS BENITEZ, NOEL YASIER": 4,
+    "CARMONA RUIZ, MARCOS": 6,
+    "GONZÁLEZ IGLESIAS, LARO": 8,
+    "QUIJANO BURGOS, LARO": 9,
+    "SAINZ DE LA MAZA ALVAREZ, JAIME": 10,
+    "IGLESIAS DE LA ROSA, DENIS": 12,
+    "PONTONES EGUREN, PABLO": 14,
+    "PUENTE FERNANDEZ, MARCO": 16
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ GOMEZ, NOEL": 1,
+    "BARRIENTOS LOPEZ, MIGUEL": 2,
+    "SOBALER SANCHEZ, LUCA": 3,
+    "SANZ COBO, MARIO": 4,
+    "ESPINOSA TERAN, MANUEL": 5,
+    "ALVAREZ PEREZ, LUCAS": 6,
+    "ESPADA CASAR, PABLO": 7,
+    "FERNANDEZ ALVARADO, ADRIAN": 8,
+    "LEON ARIAS, ENZO": 9,
+    "OREÑA LINS, HUGO": 10,
+    "RUILOBA VILLA, MARIO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
