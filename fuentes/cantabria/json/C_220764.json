@@ -1,0 +1,270 @@
+{
+  "acta_id": "C_220764",
+  "filename": "Acta_C_220764.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "18-01-2026",
+  "hora": "11:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. LAREDO A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 1,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GIL CASTAÑERA, JORGE"
+  ],
+  "estadio": "Laredo 2",
+  "ciudad": "Laredo",
+  "goleadores": [
+    {
+      "minuto": 43,
+      "jugador": "HIERRO MENEZO, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "HIERRO MENEZO, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "GONZALEZ TOCA, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "GONZALEZ TOCA, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "GONZALEZ TOCA, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "GONZALEZ FERNANDEZ, GABRIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 30,
+      "jugador": "AMUTIO CASADO, GABRIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "S.D. SOLARES-MEDIO CUDEYO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "GONZALEZ TOCA, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ROMANO ROSEÑADA, DAVID",
+  "entrenador_visitante": "MARQUEZ SETIEN, CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RUIZ RIESTRA, MARIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARISQUETA TOCORNAL, LUIS",
+  "delegado_equipo_visitante": "MADRAZO PRESMANES, PABLO",
+  "titulares_local": [
+    "RAYS VIERA DE SA, THIAGO",
+    "BECI CARRERA, EDUARDO",
+    "LOPEZ ORTEGA, DYLAN",
+    "ECHEVARRIA ARGUL, LEO",
+    "AMUTIO CASADO, GABRIEL",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "GUERRERO GARCÍA, DEIVID",
+    "LAHUERTA RUIZ, ARITZA",
+    "GAVILANES LINAJE, MARCO",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "ABASCAL DACOSTA, RUBEN"
+  ],
+  "titulares_visitante": [
+    "BRAVO BLANCO, PEDRO",
+    "SECK DE LA HOZ, ROBERTO",
+    "CUEVAS ARRUZA, LUCAS",
+    "BECI ESTEVE, MARCO",
+    "LOPEZ CORRALES, LUCAS",
+    "PACHECO GUTIERREZ, MARTIN",
+    "GONZALEZ TOCA, NICOLAS",
+    "BLANCO PORTILLA, SERGIO",
+    "DIEGO ACEBO, DIEGO",
+    "HIERRO MENEZO, NICOLAS",
+    "GARCIA IRIZABAL, CARLOS"
+  ],
+  "suplentes_local": [
+    "BRINGAS LLANO, HUGO",
+    "ROIZ PEÑA, DAVID",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "PINTADO ALVAREZ, MARTIN"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL",
+    "MORETON GONZALEZ, LUCAS",
+    "SANCHEZ TORRE, AIMAR",
+    "ABASCAL BARQUIN, HUGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL"
+  ],
+  "jugadores_local": [
+    "RAYS VIERA DE SA, THIAGO",
+    "BECI CARRERA, EDUARDO",
+    "LOPEZ ORTEGA, DYLAN",
+    "ECHEVARRIA ARGUL, LEO",
+    "AMUTIO CASADO, GABRIEL",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "GUERRERO GARCÍA, DEIVID",
+    "LAHUERTA RUIZ, ARITZA",
+    "GAVILANES LINAJE, MARCO",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "ABASCAL DACOSTA, RUBEN",
+    "BRINGAS LLANO, HUGO",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "ROIZ PEÑA, DAVID",
+    "PINTADO ALVAREZ, MARTIN"
+  ],
+  "jugadores_visitante": [
+    "BRAVO BLANCO, PEDRO",
+    "SECK DE LA HOZ, ROBERTO",
+    "CUEVAS ARRUZA, LUCAS",
+    "BECI ESTEVE, MARCO",
+    "LOPEZ CORRALES, LUCAS",
+    "PACHECO GUTIERREZ, MARTIN",
+    "GONZALEZ TOCA, NICOLAS",
+    "BLANCO PORTILLA, SERGIO",
+    "DIEGO ACEBO, DIEGO",
+    "HIERRO MENEZO, NICOLAS",
+    "GARCIA IRIZABAL, CARLOS",
+    "ABASCAL BARQUIN, HUGO",
+    "MORETON GONZALEZ, LUCAS",
+    "SANCHEZ TORRE, AIMAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "BRINGAS LLANO, HUGO",
+      "sale": "RAYS VIERA DE SA, THIAGO"
+    },
+    {
+      "min": 50,
+      "entra": "ARISQUETA GUTIERREZ, CARLOS",
+      "sale": "GAVILANES LINAJE, MARCO"
+    },
+    {
+      "min": 50,
+      "entra": "ROIZ PEÑA, DAVID",
+      "sale": "ECHEVARRIA ARGUL, LEO"
+    },
+    {
+      "min": 57,
+      "entra": "PINTADO ALVAREZ, MARTIN",
+      "sale": "RODRIGUEZ ECHEVARRIA, FRAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 48,
+      "entra": "ABASCAL BARQUIN, HUGO",
+      "sale": "PACHECO GUTIERREZ, MARTIN"
+    },
+    {
+      "min": 50,
+      "entra": "MORETON GONZALEZ, LUCAS",
+      "sale": "BECI ESTEVE, MARCO"
+    },
+    {
+      "min": 53,
+      "entra": "SANCHEZ TORRE, AIMAR",
+      "sale": "LOPEZ CORRALES, LUCAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "RAYS VIERA DE SA, THIAGO": 35,
+    "BECI CARRERA, EDUARDO": 90,
+    "LOPEZ ORTEGA, DYLAN": 90,
+    "ECHEVARRIA ARGUL, LEO": 50,
+    "AMUTIO CASADO, GABRIEL": 90,
+    "GONZALEZ FERNANDEZ, GABRIEL": 90,
+    "GUERRERO GARCÍA, DEIVID": 90,
+    "LAHUERTA RUIZ, ARITZA": 90,
+    "GAVILANES LINAJE, MARCO": 50,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 57,
+    "ABASCAL DACOSTA, RUBEN": 90,
+    "BRINGAS LLANO, HUGO": 55,
+    "ARISQUETA GUTIERREZ, CARLOS": 40,
+    "ROIZ PEÑA, DAVID": 40,
+    "PINTADO ALVAREZ, MARTIN": 33,
+    "BRAVO BLANCO, PEDRO": 90,
+    "SECK DE LA HOZ, ROBERTO": 90,
+    "CUEVAS ARRUZA, LUCAS": 90,
+    "BECI ESTEVE, MARCO": 50,
+    "LOPEZ CORRALES, LUCAS": 53,
+    "PACHECO GUTIERREZ, MARTIN": 48,
+    "GONZALEZ TOCA, NICOLAS": 90,
+    "BLANCO PORTILLA, SERGIO": 90,
+    "DIEGO ACEBO, DIEGO": 90,
+    "HIERRO MENEZO, NICOLAS": 90,
+    "GARCIA IRIZABAL, CARLOS": 90,
+    "ABASCAL BARQUIN, HUGO": 42,
+    "MORETON GONZALEZ, LUCAS": 40,
+    "SANCHEZ TORRE, AIMAR": 37
+  },
+  "portero_local": "RAYS VIERA DE SA, THIAGO",
+  "portero_visitante": "BRAVO BLANCO, PEDRO",
+  "dorsales_local": {
+    "RAYS VIERA DE SA, THIAGO": 13,
+    "BECI CARRERA, EDUARDO": 3,
+    "LOPEZ ORTEGA, DYLAN": 5,
+    "ECHEVARRIA ARGUL, LEO": 6,
+    "AMUTIO CASADO, GABRIEL": 8,
+    "GONZALEZ FERNANDEZ, GABRIEL": 10,
+    "GUERRERO GARCÍA, DEIVID": 11,
+    "LAHUERTA RUIZ, ARITZA": 12,
+    "GAVILANES LINAJE, MARCO": 15,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 17,
+    "ABASCAL DACOSTA, RUBEN": 26
+  },
+  "dorsales_visitante": {
+    "BRAVO BLANCO, PEDRO": 1,
+    "SECK DE LA HOZ, ROBERTO": 3,
+    "CUEVAS ARRUZA, LUCAS": 4,
+    "BECI ESTEVE, MARCO": 6,
+    "LOPEZ CORRALES, LUCAS": 7,
+    "PACHECO GUTIERREZ, MARTIN": 8,
+    "GONZALEZ TOCA, NICOLAS": 9,
+    "BLANCO PORTILLA, SERGIO": 10,
+    "DIEGO ACEBO, DIEGO": 11,
+    "HIERRO MENEZO, NICOLAS": 14,
+    "GARCIA IRIZABAL, CARLOS": 15
+  },
+  "suspendidos": []
+}
