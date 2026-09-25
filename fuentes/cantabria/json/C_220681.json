@@ -1,0 +1,272 @@
+{
+  "acta_id": "C_220681",
+  "filename": "Acta_C_220681.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "25-10-2025",
+  "hora": "11:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE A",
+  "equipo_visitante": "C.AT. PERINES A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RUIZ MONTOYA, ALEJANDRO"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "TANASA TANASA, PABLO CRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "FUNARIU, DAVID IULIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 15,
+      "jugador": "TODERO, JOAQUIN KONRAD",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "PRADA DE MIGUEL, DARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "ROBLES LARA, DAIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "TODERO, JOAQUIN KONRAD",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DORRONSORO GONZALEZ, ALBERTO",
+  "entrenador_visitante": "TORRES SAENZ, JOSE ALEJANDRO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DORRONSORO OBREGON, PEDRO MARIA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DORRONSORO OBREGON, PEDRO MARIA",
+  "delegado_equipo_visitante": "SANTAMARIA PEREZ, PABLO",
+  "titulares_local": [
+    "GOMEZ VILLANUEVA, ADRIAN",
+    "DIESTRO PEREZ, MARIO",
+    "DEL RIO PELLICER, MARCO",
+    "PERNIA FERNANDEZ, IVAN",
+    "FUNARIU, DAVID IULIAN",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "ANDRES GARCIA, CARLOS",
+    "VILLEGAS AIZPURUA, ASIER",
+    "POLANCO RUIZ, MARCOS",
+    "SAMPEDRO GUTIERREZ, LEO"
+  ],
+  "titulares_visitante": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "RUIZ SANZ, MARIO",
+    "GUERRA TORRO, ALBERTO",
+    "TRICIO MARTÍN, MATEO",
+    "PUENTE HERNANDEZ, MARIO",
+    "AZNAR NUÑO, HUGO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "PÉREZ MARTIN, JAIRO",
+    "TODERO, JOAQUIN KONRAD"
+  ],
+  "suplentes_local": [
+    "BLANCO GUTIERREZ, ANDER",
+    "ARTECHE PEREZ, DIEGO",
+    "PALAZUELOS ESCALANTE, ENZO",
+    "LÓPEZ CASTANEDO, MARIO",
+    "GARCIA DE LA RASILLA PEREZ, MARTIN"
+  ],
+  "suplentes_visitante": [
+    "ROBLES LARA, DAIAN",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "LIAÑO VARELA, DANIEL",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "PRADA DE MIGUEL, DARIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GOMEZ VILLANUEVA, ADRIAN",
+    "DIESTRO PEREZ, MARIO",
+    "DEL RIO PELLICER, MARCO",
+    "PERNIA FERNANDEZ, IVAN",
+    "FUNARIU, DAVID IULIAN",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "ANDRES GARCIA, CARLOS",
+    "VILLEGAS AIZPURUA, ASIER",
+    "POLANCO RUIZ, MARCOS",
+    "SAMPEDRO GUTIERREZ, LEO",
+    "BLANCO GUTIERREZ, ANDER",
+    "LÓPEZ CASTANEDO, MARIO",
+    "PALAZUELOS ESCALANTE, ENZO",
+    "ARTECHE PEREZ, DIEGO",
+    "GARCIA DE LA RASILLA PEREZ, MARTIN"
+  ],
+  "jugadores_visitante": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "RUIZ SANZ, MARIO",
+    "GUERRA TORRO, ALBERTO",
+    "TRICIO MARTÍN, MATEO",
+    "PUENTE HERNANDEZ, MARIO",
+    "AZNAR NUÑO, HUGO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "PÉREZ MARTIN, JAIRO",
+    "TODERO, JOAQUIN KONRAD",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "ROBLES LARA, DAIAN",
+    "PRADA DE MIGUEL, DARIO",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "LIAÑO VARELA, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "BLANCO GUTIERREZ, ANDER",
+      "sale": "GOMEZ VILLANUEVA, ADRIAN"
+    },
+    {
+      "min": 43,
+      "entra": "LÓPEZ CASTANEDO, MARIO",
+      "sale": "POLANCO RUIZ, MARCOS"
+    },
+    {
+      "min": 55,
+      "entra": "PALAZUELOS ESCALANTE, ENZO",
+      "sale": "ANDRES GARCIA, CARLOS"
+    },
+    {
+      "min": 58,
+      "entra": "ARTECHE PEREZ, DIEGO",
+      "sale": "PERNIA FERNANDEZ, IVAN"
+    },
+    {
+      "min": 61,
+      "entra": "GARCIA DE LA RASILLA PEREZ, MARTIN",
+      "sale": "LOMBILLA FERNANDEZ, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "HAYA SÁNCHEZ, RODRIGO",
+      "sale": "AZNAR NUÑO, HUGO"
+    },
+    {
+      "min": 35,
+      "entra": "ROBLES LARA, DAIAN",
+      "sale": "FERNANDEZ GUTIERREZ, ELOY"
+    },
+    {
+      "min": 35,
+      "entra": "PRADA DE MIGUEL, DARIO",
+      "sale": "PÉREZ MARTIN, JAIRO"
+    },
+    {
+      "min": 40,
+      "entra": "FERNANDEZ NAVAMUEL, JENS",
+      "sale": "RUIZ SANZ, MARIO"
+    },
+    {
+      "min": 65,
+      "entra": "LIAÑO VARELA, DANIEL",
+      "sale": "ALBO ZORRILLA, EDGAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ VILLANUEVA, ADRIAN": 35,
+    "DIESTRO PEREZ, MARIO": 90,
+    "DEL RIO PELLICER, MARCO": 90,
+    "PERNIA FERNANDEZ, IVAN": 58,
+    "FUNARIU, DAVID IULIAN": 90,
+    "LOMBILLA FERNANDEZ, HUGO": 61,
+    "DE LA TORRE MARQUEZ, LUCAS": 90,
+    "ANDRES GARCIA, CARLOS": 55,
+    "VILLEGAS AIZPURUA, ASIER": 90,
+    "POLANCO RUIZ, MARCOS": 43,
+    "SAMPEDRO GUTIERREZ, LEO": 90,
+    "BLANCO GUTIERREZ, ANDER": 55,
+    "LÓPEZ CASTANEDO, MARIO": 47,
+    "PALAZUELOS ESCALANTE, ENZO": 35,
+    "ARTECHE PEREZ, DIEGO": 32,
+    "GARCIA DE LA RASILLA PEREZ, MARTIN": 29,
+    "GONÇALVES JORRIN, SAMUEL": 90,
+    "RUIZ SANZ, MARIO": 40,
+    "GUERRA TORRO, ALBERTO": 90,
+    "TRICIO MARTÍN, MATEO": 90,
+    "PUENTE HERNANDEZ, MARIO": 90,
+    "AZNAR NUÑO, HUGO": 35,
+    "ALBO ZORRILLA, EDGAR": 65,
+    "FERNANDEZ GUTIERREZ, ELOY": 35,
+    "TANASA TANASA, PABLO CRISTIAN": 90,
+    "PÉREZ MARTIN, JAIRO": 35,
+    "TODERO, JOAQUIN KONRAD": 90,
+    "HAYA SÁNCHEZ, RODRIGO": 55,
+    "ROBLES LARA, DAIAN": 55,
+    "PRADA DE MIGUEL, DARIO": 55,
+    "FERNANDEZ NAVAMUEL, JENS": 50,
+    "LIAÑO VARELA, DANIEL": 25
+  },
+  "portero_local": "GOMEZ VILLANUEVA, ADRIAN",
+  "portero_visitante": "GONÇALVES JORRIN, SAMUEL",
+  "dorsales_local": {
+    "GOMEZ VILLANUEVA, ADRIAN": 1,
+    "DIESTRO PEREZ, MARIO": 3,
+    "DEL RIO PELLICER, MARCO": 4,
+    "PERNIA FERNANDEZ, IVAN": 5,
+    "FUNARIU, DAVID IULIAN": 6,
+    "LOMBILLA FERNANDEZ, HUGO": 7,
+    "DE LA TORRE MARQUEZ, LUCAS": 9,
+    "ANDRES GARCIA, CARLOS": 11,
+    "VILLEGAS AIZPURUA, ASIER": 14,
+    "POLANCO RUIZ, MARCOS": 20,
+    "SAMPEDRO GUTIERREZ, LEO": 22
+  },
+  "dorsales_visitante": {
+    "GONÇALVES JORRIN, SAMUEL": 1,
+    "RUIZ SANZ, MARIO": 2,
+    "GUERRA TORRO, ALBERTO": 3,
+    "TRICIO MARTÍN, MATEO": 4,
+    "PUENTE HERNANDEZ, MARIO": 5,
+    "AZNAR NUÑO, HUGO": 6,
+    "ALBO ZORRILLA, EDGAR": 7,
+    "FERNANDEZ GUTIERREZ, ELOY": 8,
+    "TANASA TANASA, PABLO CRISTIAN": 9,
+    "PÉREZ MARTIN, JAIRO": 10,
+    "TODERO, JOAQUIN KONRAD": 17
+  },
+  "suspendidos": [
+    "TODERO, JOAQUIN KONRAD"
+  ]
+}
