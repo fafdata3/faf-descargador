@@ -1,0 +1,255 @@
+{
+  "acta_id": "C_220750",
+  "filename": "Acta_C_220750.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 14,
+  "fecha": "20-12-2025",
+  "hora": "19:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. ARENAS DE FRAJANAS A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZÁLEZ CANTERA, ADRIAN"
+  ],
+  "estadio": "Municipal de Frajanas",
+  "ciudad": "Astillero (El)",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "ALVAREZ DOMINGUEZ, SANTIAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "MÚGICA BLANCO, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "NIANG SYLLA, DAME",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "R.S. GIMNASTICA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 4,
+      "jugador": "MOUSSAID, MOHAMED AMIR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MATE GARCIA, DIEGO",
+  "entrenador_visitante": "URSUGUIA PELAEZ, ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANTAMARIA DE BLAS, ALVARO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "CASTILLO SAIZ, LUCA",
+    "DIOP, ALIOUNE SARR",
+    "GUZMAN VALDEZ, MATIAS",
+    "DELGADO SAN MIGUEL, PABLO",
+    "PIQUERAS DEL RÍO, DANIEL",
+    "MATA RODRIGUEZ, ERIK",
+    "RUIZ SANCHEZ, ERIK",
+    "MEÑACA FERNANDEZ, ANGEL",
+    "DUARTE CASTELLO, NUC",
+    "LOPEZ CASTAÑEDA, MAURO",
+    "SCARNA FRANCO, DENIS"
+  ],
+  "titulares_visitante": [
+    "ORSOLINI PALENCIA, MARIO",
+    "MÚGICA BLANCO, HUGO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "GOMEZ SANCHEZ, MARC",
+    "CIEZA PEREZ, ASIER",
+    "RUIZ LOBETO, IZAN",
+    "MENDARO TERAN, LUIS",
+    "MOUSSAID, MOHAMED AMIR",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "RODICIO DE LA GRANJA, ANDRÉS",
+    "ABARRATEGUI GONZÁLEZ, JAIME"
+  ],
+  "suplentes_local": [
+    "CONEJO CAVIA, ALEX",
+    "NIANG SYLLA, DAME",
+    "SAIZ GONZALEZ, ALEJANDRO",
+    "TORRE GARCIA, OLIVER"
+  ],
+  "suplentes_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "SANCHEZ CUEVAS, SERGIO",
+    "IGLESIAS SANTIAGO, JULEN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CASTILLO SAIZ, LUCA",
+    "DIOP, ALIOUNE SARR",
+    "GUZMAN VALDEZ, MATIAS",
+    "DELGADO SAN MIGUEL, PABLO",
+    "PIQUERAS DEL RÍO, DANIEL",
+    "MATA RODRIGUEZ, ERIK",
+    "RUIZ SANCHEZ, ERIK",
+    "MEÑACA FERNANDEZ, ANGEL",
+    "DUARTE CASTELLO, NUC",
+    "LOPEZ CASTAÑEDA, MAURO",
+    "SCARNA FRANCO, DENIS",
+    "NIANG SYLLA, DAME",
+    "CONEJO CAVIA, ALEX",
+    "SAIZ GONZALEZ, ALEJANDRO",
+    "TORRE GARCIA, OLIVER"
+  ],
+  "jugadores_visitante": [
+    "ORSOLINI PALENCIA, MARIO",
+    "MÚGICA BLANCO, HUGO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "GOMEZ SANCHEZ, MARC",
+    "CIEZA PEREZ, ASIER",
+    "RUIZ LOBETO, IZAN",
+    "MENDARO TERAN, LUIS",
+    "MOUSSAID, MOHAMED AMIR",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "RODICIO DE LA GRANJA, ANDRÉS",
+    "ABARRATEGUI GONZÁLEZ, JAIME",
+    "TRIGO SANTOS, ALEJANDRO",
+    "SANCHEZ CUEVAS, SERGIO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "IGLESIAS SANTIAGO, JULEN",
+    "LUQUE MARTINEZ, AIMAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "NIANG SYLLA, DAME",
+      "sale": "LOPEZ CASTAÑEDA, MAURO"
+    },
+    {
+      "min": 44,
+      "entra": "CONEJO CAVIA, ALEX",
+      "sale": "MEÑACA FERNANDEZ, ANGEL"
+    },
+    {
+      "min": 44,
+      "entra": "SAIZ GONZALEZ, ALEJANDRO",
+      "sale": "GUZMAN VALDEZ, MATIAS"
+    },
+    {
+      "min": 66,
+      "entra": "TORRE GARCIA, OLIVER",
+      "sale": "DUARTE CASTELLO, NUC"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "TRIGO SANTOS, ALEJANDRO",
+      "sale": "ORSOLINI PALENCIA, MARIO"
+    },
+    {
+      "min": 53,
+      "entra": "SANCHEZ CUEVAS, SERGIO",
+      "sale": "MENDARO TERAN, LUIS"
+    },
+    {
+      "min": 53,
+      "entra": "FERNANDEZ TOMAS, ALVARO",
+      "sale": "MINUTA DARIAS, GIANFRANCO JOSE"
+    },
+    {
+      "min": 57,
+      "entra": "IGLESIAS SANTIAGO, JULEN",
+      "sale": "CIEZA PEREZ, ASIER"
+    },
+    {
+      "min": 57,
+      "entra": "LUQUE MARTINEZ, AIMAR",
+      "sale": "ALVAREZ DOMINGUEZ, SANTIAGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "CASTILLO SAIZ, LUCA": 90,
+    "DIOP, ALIOUNE SARR": 90,
+    "GUZMAN VALDEZ, MATIAS": 44,
+    "DELGADO SAN MIGUEL, PABLO": 90,
+    "PIQUERAS DEL RÍO, DANIEL": 90,
+    "MATA RODRIGUEZ, ERIK": 90,
+    "RUIZ SANCHEZ, ERIK": 90,
+    "MEÑACA FERNANDEZ, ANGEL": 44,
+    "DUARTE CASTELLO, NUC": 66,
+    "LOPEZ CASTAÑEDA, MAURO": 35,
+    "SCARNA FRANCO, DENIS": 90,
+    "NIANG SYLLA, DAME": 55,
+    "CONEJO CAVIA, ALEX": 46,
+    "SAIZ GONZALEZ, ALEJANDRO": 46,
+    "TORRE GARCIA, OLIVER": 24,
+    "ORSOLINI PALENCIA, MARIO": 35,
+    "MÚGICA BLANCO, HUGO": 90,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 53,
+    "GOMEZ SANCHEZ, MARC": 90,
+    "CIEZA PEREZ, ASIER": 57,
+    "RUIZ LOBETO, IZAN": 90,
+    "MENDARO TERAN, LUIS": 53,
+    "MOUSSAID, MOHAMED AMIR": 90,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 57,
+    "RODICIO DE LA GRANJA, ANDRÉS": 90,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 90,
+    "TRIGO SANTOS, ALEJANDRO": 55,
+    "SANCHEZ CUEVAS, SERGIO": 37,
+    "FERNANDEZ TOMAS, ALVARO": 37,
+    "IGLESIAS SANTIAGO, JULEN": 33,
+    "LUQUE MARTINEZ, AIMAR": 33
+  },
+  "portero_local": "CASTILLO SAIZ, LUCA",
+  "portero_visitante": "ORSOLINI PALENCIA, MARIO",
+  "dorsales_local": {
+    "CASTILLO SAIZ, LUCA": 13,
+    "DIOP, ALIOUNE SARR": 2,
+    "GUZMAN VALDEZ, MATIAS": 3,
+    "DELGADO SAN MIGUEL, PABLO": 4,
+    "PIQUERAS DEL RÍO, DANIEL": 8,
+    "MATA RODRIGUEZ, ERIK": 10,
+    "RUIZ SANCHEZ, ERIK": 11,
+    "MEÑACA FERNANDEZ, ANGEL": 19,
+    "DUARTE CASTELLO, NUC": 20,
+    "LOPEZ CASTAÑEDA, MAURO": 22,
+    "SCARNA FRANCO, DENIS": 25
+  },
+  "dorsales_visitante": {
+    "ORSOLINI PALENCIA, MARIO": 13,
+    "MÚGICA BLANCO, HUGO": 3,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 4,
+    "GOMEZ SANCHEZ, MARC": 6,
+    "CIEZA PEREZ, ASIER": 8,
+    "RUIZ LOBETO, IZAN": 10,
+    "MENDARO TERAN, LUIS": 11,
+    "MOUSSAID, MOHAMED AMIR": 14,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 16,
+    "RODICIO DE LA GRANJA, ANDRÉS": 19,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 20
+  },
+  "suspendidos": []
+}
