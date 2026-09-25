@@ -1,0 +1,272 @@
+{
+  "acta_id": "C_220766",
+  "filename": "Acta_C_220766.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "18-01-2026",
+  "hora": "10:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. TROPEZON A",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "HERRERA NORIEGA, IVÁN"
+  ],
+  "estadio": "Tanos 1",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "BARBA AGENJO, DARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 7,
+      "jugador": "PEÑA GONZALEZ, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "COSSIO DELGADO, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "GUERRA GONZALEZ, JACOBO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "SASIAN PEREZ, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "GUERRA GONZALEZ, JACOBO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "VELARDE C.F. A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 37,
+      "jugador": "MUÑOZ MORA, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DEL CASTILLO RUIZ, FRANCISCO JAVIER",
+  "entrenador_visitante": "SALCINES PRIETO, LUIS FELIPE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LAMO MOLINA, JUAN ANTONIO",
+  "delegado_equipo_visitante": "MARTINEZ CASTRO, DANIEL",
+  "titulares_local": [
+    "FERNANDEZ BLANCO, JORGE",
+    "GUTIERREZ MANTECON, MIKEL",
+    "CASTILLO MONTES, ALEJANDRO",
+    "SASIAN PEREZ, DIEGO",
+    "PASTOR ALONSO, JORGE",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "GUERRA GONZALEZ, JACOBO"
+  ],
+  "titulares_visitante": [
+    "SALCINES ZARCO, AYMAR",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "PONCE COBA, ERICK AITOR",
+    "PEREZ VILLA, DAVID",
+    "PELAYO GARCIA, NICOLAS"
+  ],
+  "suplentes_local": [
+    "IBAÑEZ CELORIO, SAUL",
+    "HOYOS ALUNDA, JOSE ANTONIO",
+    "HAKKIOUI KHAMOUSSI, AYMENE",
+    "IGONIN DIAZ, MATEO"
+  ],
+  "suplentes_visitante": [
+    "SANCHEZ SOTO, MATEO",
+    "ACHURRA CESAREO, RAFAEL",
+    "MUÑOZ SIERRA, HECTOR",
+    "GARCIA OBREGON, HUGO",
+    "HOYOS ORTEGA, LUCA"
+  ],
+  "convocados_sin_jugar_local": [
+    "IGONIN DIAZ, MATEO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ BLANCO, JORGE",
+    "GUTIERREZ MANTECON, MIKEL",
+    "CASTILLO MONTES, ALEJANDRO",
+    "SASIAN PEREZ, DIEGO",
+    "PASTOR ALONSO, JORGE",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "GUERRA GONZALEZ, JACOBO",
+    "HOYOS ALUNDA, JOSE ANTONIO",
+    "HAKKIOUI KHAMOUSSI, AYMENE",
+    "IBAÑEZ CELORIO, SAUL"
+  ],
+  "jugadores_visitante": [
+    "SALCINES ZARCO, AYMAR",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "PONCE COBA, ERICK AITOR",
+    "PEREZ VILLA, DAVID",
+    "PELAYO GARCIA, NICOLAS",
+    "MUÑOZ SIERRA, HECTOR",
+    "GARCIA OBREGON, HUGO",
+    "ACHURRA CESAREO, RAFAEL",
+    "HOYOS ORTEGA, LUCA",
+    "SANCHEZ SOTO, MATEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 27,
+      "entra": "HOYOS ALUNDA, JOSE ANTONIO",
+      "sale": "GUTIERREZ MANTECON, MIKEL"
+    },
+    {
+      "min": 52,
+      "entra": "HAKKIOUI KHAMOUSSI, AYMENE",
+      "sale": "PASTOR ALONSO, JORGE"
+    },
+    {
+      "min": 68,
+      "entra": "IBAÑEZ CELORIO, SAUL",
+      "sale": "ITURBE ACEBAL, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 29,
+      "entra": "MUÑOZ SIERRA, HECTOR",
+      "sale": "PEREZ VILLA, DAVID"
+    },
+    {
+      "min": 35,
+      "entra": "GARCIA OBREGON, HUGO",
+      "sale": "PELAYO GARCIA, NICOLAS"
+    },
+    {
+      "min": 59,
+      "entra": "ACHURRA CESAREO, RAFAEL",
+      "sale": "DIEZ GARCIA, MATEO"
+    },
+    {
+      "min": 59,
+      "entra": "HOYOS ORTEGA, LUCA",
+      "sale": "PONCE COBA, ERICK AITOR"
+    },
+    {
+      "min": 68,
+      "entra": "SANCHEZ SOTO, MATEO",
+      "sale": "PEÑA GONZALEZ, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ BLANCO, JORGE": 90,
+    "GUTIERREZ MANTECON, MIKEL": 27,
+    "CASTILLO MONTES, ALEJANDRO": 90,
+    "SASIAN PEREZ, DIEGO": 90,
+    "PASTOR ALONSO, JORGE": 52,
+    "BUENO GARCIA, IAN": 90,
+    "ITURBE ACEBAL, DIEGO": 68,
+    "ROJO AROZAMENA, DAVID": 90,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 90,
+    "COSSIO DELGADO, MARCO": 90,
+    "GUERRA GONZALEZ, JACOBO": 90,
+    "HOYOS ALUNDA, JOSE ANTONIO": 63,
+    "HAKKIOUI KHAMOUSSI, AYMENE": 38,
+    "IBAÑEZ CELORIO, SAUL": 22,
+    "SALCINES ZARCO, AYMAR": 90,
+    "MUÑOZ MORA, HUGO": 90,
+    "RUIZ MUÑIZ, MARIO": 90,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 90,
+    "BARBA AGENJO, DARIO": 90,
+    "ARCE ABASCAL, DIEGO": 90,
+    "DIEZ GARCIA, MATEO": 59,
+    "PEÑA GONZALEZ, ALVARO": 68,
+    "PONCE COBA, ERICK AITOR": 59,
+    "PEREZ VILLA, DAVID": 29,
+    "PELAYO GARCIA, NICOLAS": 35,
+    "MUÑOZ SIERRA, HECTOR": 61,
+    "GARCIA OBREGON, HUGO": 55,
+    "ACHURRA CESAREO, RAFAEL": 31,
+    "HOYOS ORTEGA, LUCA": 31,
+    "SANCHEZ SOTO, MATEO": 22
+  },
+  "portero_local": "FERNANDEZ BLANCO, JORGE",
+  "portero_visitante": "SALCINES ZARCO, AYMAR",
+  "dorsales_local": {
+    "FERNANDEZ BLANCO, JORGE": 1,
+    "GUTIERREZ MANTECON, MIKEL": 3,
+    "CASTILLO MONTES, ALEJANDRO": 4,
+    "SASIAN PEREZ, DIEGO": 5,
+    "PASTOR ALONSO, JORGE": 6,
+    "BUENO GARCIA, IAN": 9,
+    "ITURBE ACEBAL, DIEGO": 10,
+    "ROJO AROZAMENA, DAVID": 11,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 12,
+    "COSSIO DELGADO, MARCO": 14,
+    "GUERRA GONZALEZ, JACOBO": 19
+  },
+  "dorsales_visitante": {
+    "SALCINES ZARCO, AYMAR": 1,
+    "MUÑOZ MORA, HUGO": 3,
+    "RUIZ MUÑIZ, MARIO": 4,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 5,
+    "BARBA AGENJO, DARIO": 6,
+    "ARCE ABASCAL, DIEGO": 7,
+    "DIEZ GARCIA, MATEO": 8,
+    "PEÑA GONZALEZ, ALVARO": 9,
+    "PONCE COBA, ERICK AITOR": 11,
+    "PEREZ VILLA, DAVID": 15,
+    "PELAYO GARCIA, NICOLAS": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
