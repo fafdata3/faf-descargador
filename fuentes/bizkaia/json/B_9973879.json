@@ -1,0 +1,277 @@
+{
+  "acta_id": "B_9973879",
+  "filename": "Acta_B_9973879.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 30,
+  "fecha": "10-05-2026",
+  "hora": "17:30",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 7)",
+  "equipo_local": "SANAN",
+  "equipo_visitante": "BASAURIKO KIMUAK",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "PEÑA RAMOS, IÑIGO"
+  ],
+  "estadio": "MUNICIPAL A",
+  "ciudad": "Etxebarri",
+  "goleadores": [
+    {
+      "minuto": 26,
+      "jugador": "TAZARKI BAKIR, AHMED",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "BARRADO AGUILAR, XABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "ORTEGA PEREZ, ENEKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "MOUELI SANCHEZ, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 86,
+      "jugador": "MOUELI SANCHEZ, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "LOPEZ FERNANDEZ, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "BASAURIKO KIMUAK",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LOSADA SANCHEZ, OSCAR",
+  "entrenador_visitante": "FRUTOS DEL VALLE, IÑIGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "AMARIKA LAGO, ASIER",
+  "delegado_equipo_visitante": "BARRADO ARNAIZ, JULIO",
+  "titulares_local": [
+    "ZOHEIR, YAHYA",
+    "GONZALEZ FERNANDEZ, EDER",
+    "BARROETA GONDRA, JOKIN",
+    "AMARIKA VAZQUEZ, JULEN",
+    "JUSTO RUBIO, JULEN",
+    "PEREIRO PELAEZ, HUGO",
+    "BENOUMHANI, HOUCINE",
+    "LOPEZ FERNANDEZ, DAVID",
+    "PORTELA DIZ, JULEN",
+    "ORTEGA PEREZ, ENEKO",
+    "AIT ICHOU, HAMZA"
+  ],
+  "titulares_visitante": [
+    "DEL CORTE FERNANDEZ, JORGE",
+    "DELGADO GOIRIENA, MIKEL",
+    "VELAZQUEZ ALVARENGA, JUSTO JAVIER",
+    "SADABA ARIAS, MARKEL",
+    "CALVO MANSILLA, ANDER",
+    "GARCIA LOPEZ, MARIO",
+    "BARRADO AGUILAR, XABIER",
+    "SOLAS PEREZ, ENAITZ",
+    "NICA, SEBASTIAN VALENTIN",
+    "TAZARKI BAKIR, AHMED",
+    "POSADA ZUAZO, EKAITZ JON"
+  ],
+  "suplentes_local": [
+    "AMRAOU, MOHAMED",
+    "ILIE, GEORGE GABRIEL",
+    "SARR, ALHAGIE",
+    "DENCHE ACHUTEGUI, ENEKO",
+    "ORDOÑEZ MARTINEZ, IKER",
+    "MARTINEZ GALARRAGA, UNAX"
+  ],
+  "suplentes_visitante": [
+    "RIVEROS GONZALEZ, GENARO GASTON",
+    "LOPEZ PASCUAL, IZEI",
+    "MONASTERIO ZARATE, ARITZ",
+    "EL FARSI RAOUGUI, YOUSSEF",
+    "SAEZ YARZA, UNAI",
+    "MOUELI SANCHEZ, DAVID"
+  ],
+  "convocados_sin_jugar_local": [
+    "AMRAOU, MOHAMED",
+    "ORDOÑEZ MARTINEZ, IKER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "RIVEROS GONZALEZ, GENARO GASTON"
+  ],
+  "jugadores_local": [
+    "ZOHEIR, YAHYA",
+    "GONZALEZ FERNANDEZ, EDER",
+    "BARROETA GONDRA, JOKIN",
+    "AMARIKA VAZQUEZ, JULEN",
+    "JUSTO RUBIO, JULEN",
+    "PEREIRO PELAEZ, HUGO",
+    "BENOUMHANI, HOUCINE",
+    "LOPEZ FERNANDEZ, DAVID",
+    "PORTELA DIZ, JULEN",
+    "ORTEGA PEREZ, ENEKO",
+    "AIT ICHOU, HAMZA",
+    "DENCHE ACHUTEGUI, ENEKO",
+    "SARR, ALHAGIE",
+    "ILIE, GEORGE GABRIEL",
+    "MARTINEZ GALARRAGA, UNAX"
+  ],
+  "jugadores_visitante": [
+    "DEL CORTE FERNANDEZ, JORGE",
+    "DELGADO GOIRIENA, MIKEL",
+    "VELAZQUEZ ALVARENGA, JUSTO JAVIER",
+    "SADABA ARIAS, MARKEL",
+    "CALVO MANSILLA, ANDER",
+    "GARCIA LOPEZ, MARIO",
+    "BARRADO AGUILAR, XABIER",
+    "SOLAS PEREZ, ENAITZ",
+    "NICA, SEBASTIAN VALENTIN",
+    "TAZARKI BAKIR, AHMED",
+    "POSADA ZUAZO, EKAITZ JON",
+    "SAEZ YARZA, UNAI",
+    "MOUELI SANCHEZ, DAVID",
+    "MONASTERIO ZARATE, ARITZ",
+    "EL FARSI RAOUGUI, YOUSSEF",
+    "LOPEZ PASCUAL, IZEI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "DENCHE ACHUTEGUI, ENEKO",
+      "sale": "GONZALEZ FERNANDEZ, EDER"
+    },
+    {
+      "min": 45,
+      "entra": "SARR, ALHAGIE",
+      "sale": "PORTELA DIZ, JULEN"
+    },
+    {
+      "min": 50,
+      "entra": "ILIE, GEORGE GABRIEL",
+      "sale": "PEREIRO PELAEZ, HUGO"
+    },
+    {
+      "min": 87,
+      "entra": "MARTINEZ GALARRAGA, UNAX",
+      "sale": "BENOUMHANI, HOUCINE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "SAEZ YARZA, UNAI",
+      "sale": "CALVO MANSILLA, ANDER"
+    },
+    {
+      "min": 52,
+      "entra": "MOUELI SANCHEZ, DAVID",
+      "sale": "NICA, SEBASTIAN VALENTIN"
+    },
+    {
+      "min": 52,
+      "entra": "MONASTERIO ZARATE, ARITZ",
+      "sale": "GARCIA LOPEZ, MARIO"
+    },
+    {
+      "min": 67,
+      "entra": "EL FARSI RAOUGUI, YOUSSEF",
+      "sale": "POSADA ZUAZO, EKAITZ JON"
+    },
+    {
+      "min": 85,
+      "entra": "LOPEZ PASCUAL, IZEI",
+      "sale": "SADABA ARIAS, MARKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "ZOHEIR, YAHYA": 90,
+    "GONZALEZ FERNANDEZ, EDER": 45,
+    "BARROETA GONDRA, JOKIN": 90,
+    "AMARIKA VAZQUEZ, JULEN": 90,
+    "JUSTO RUBIO, JULEN": 90,
+    "PEREIRO PELAEZ, HUGO": 50,
+    "BENOUMHANI, HOUCINE": 87,
+    "LOPEZ FERNANDEZ, DAVID": 90,
+    "PORTELA DIZ, JULEN": 45,
+    "ORTEGA PEREZ, ENEKO": 90,
+    "AIT ICHOU, HAMZA": 90,
+    "DENCHE ACHUTEGUI, ENEKO": 45,
+    "SARR, ALHAGIE": 45,
+    "ILIE, GEORGE GABRIEL": 40,
+    "MARTINEZ GALARRAGA, UNAX": 3,
+    "DEL CORTE FERNANDEZ, JORGE": 90,
+    "DELGADO GOIRIENA, MIKEL": 90,
+    "VELAZQUEZ ALVARENGA, JUSTO JAVIER": 90,
+    "SADABA ARIAS, MARKEL": 85,
+    "CALVO MANSILLA, ANDER": 52,
+    "GARCIA LOPEZ, MARIO": 52,
+    "BARRADO AGUILAR, XABIER": 90,
+    "SOLAS PEREZ, ENAITZ": 90,
+    "NICA, SEBASTIAN VALENTIN": 52,
+    "TAZARKI BAKIR, AHMED": 90,
+    "POSADA ZUAZO, EKAITZ JON": 67,
+    "SAEZ YARZA, UNAI": 38,
+    "MOUELI SANCHEZ, DAVID": 38,
+    "MONASTERIO ZARATE, ARITZ": 38,
+    "EL FARSI RAOUGUI, YOUSSEF": 23,
+    "LOPEZ PASCUAL, IZEI": 5
+  },
+  "portero_local": "ZOHEIR, YAHYA",
+  "portero_visitante": "DEL CORTE FERNANDEZ, JORGE",
+  "dorsales_local": {
+    "ZOHEIR, YAHYA": 13,
+    "GONZALEZ FERNANDEZ, EDER": 2,
+    "BARROETA GONDRA, JOKIN": 3,
+    "AMARIKA VAZQUEZ, JULEN": 4,
+    "JUSTO RUBIO, JULEN": 9,
+    "PEREIRO PELAEZ, HUGO": 10,
+    "BENOUMHANI, HOUCINE": 11,
+    "LOPEZ FERNANDEZ, DAVID": 14,
+    "PORTELA DIZ, JULEN": 17,
+    "ORTEGA PEREZ, ENEKO": 20,
+    "AIT ICHOU, HAMZA": 21
+  },
+  "dorsales_visitante": {
+    "DEL CORTE FERNANDEZ, JORGE": 1,
+    "DELGADO GOIRIENA, MIKEL": 4,
+    "VELAZQUEZ ALVARENGA, JUSTO JAVIER": 5,
+    "SADABA ARIAS, MARKEL": 7,
+    "CALVO MANSILLA, ANDER": 8,
+    "GARCIA LOPEZ, MARIO": 9,
+    "BARRADO AGUILAR, XABIER": 11,
+    "SOLAS PEREZ, ENAITZ": 14,
+    "NICA, SEBASTIAN VALENTIN": 17,
+    "TAZARKI BAKIR, AHMED": 18,
+    "POSADA ZUAZO, EKAITZ JON": 21
+  },
+  "suspendidos": []
+}
