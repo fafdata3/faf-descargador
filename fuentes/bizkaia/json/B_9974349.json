@@ -1,0 +1,255 @@
+{
+  "acta_id": "B_9974349",
+  "filename": "Acta_B_9974349.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 7,
+  "fecha": "30-11-2025",
+  "hora": "11:20",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 1)",
+  "equipo_local": "ZALLA",
+  "equipo_visitante": "SOPUERTA",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "TERMENÓN PORTILLO, XABIER"
+  ],
+  "estadio": "LANDABERRI",
+  "ciudad": "Zalla",
+  "goleadores": [
+    {
+      "minuto": 39,
+      "jugador": "DOMINGUEZ TELLITU, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 67,
+      "jugador": "VELARDE MELENDEZ, MARKO",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "DOMINGUEZ TELLITU, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "MAAMRI JABBARI, ISHAK",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 72,
+      "jugador": "ITURREGUI FERNÁNDEZ, ENEKO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "SOPUERTA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SANTOS URDIALES, MIKEL",
+  "entrenador_visitante": "ORTUZAR UNIBASO, XABIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MAAMRI JABBARI, ISHAK",
+  "delegado_equipo_visitante": "FERRAZ OCHAGAVIA, IÑIGO FELIPE",
+  "titulares_local": [
+    "VELARDE MELENDEZ, MARKO",
+    "MESTRAITUA CABALLERO, ARITZ",
+    "GARCIA-DIEGO PEREZ, ASIER",
+    "MERINO MONTALBÁN, SABIN",
+    "LASHERAS HIDALGO, IZAN",
+    "ORTIZ ASTIKA, XABIER",
+    "AHEDO GUTIERREZ, MARKEL",
+    "ITURREGUI FERNÁNDEZ, ENEKO",
+    "ZAITEGUI ONDARRETA, MARCO",
+    "LOPEZ LOPEZ, HUGO",
+    "CORREAS DELGADO, JON"
+  ],
+  "titulares_visitante": [
+    "ANTÓN RANERO, ARIEL",
+    "PEREZ ORTIZ, ERLANTZ",
+    "AIAD NOCEDAL, HAKIM",
+    "ETXEBARRIETA ANTÓN, XABIER",
+    "PEREZ RUIZ, ALVARO",
+    "GARMA MORIYON, ALAIN",
+    "MARTINEZ SARATXAGA, ANDER",
+    "IBARRONDO RUA, IBAI",
+    "DOMINGUEZ TELLITU, AIMAR",
+    "MARTIN SEGURA, ASIER",
+    "GARAY LOPEZ, LANDER"
+  ],
+  "suplentes_local": [
+    "DIAS VILAR, ERIK",
+    "PANIAGUA GARCIA DE ALBENIZ, ASIER",
+    "FRANCO BLANCO, UNAI"
+  ],
+  "suplentes_visitante": [
+    "CANALES IRANZO, ANER",
+    "LILLO ANTA, ALEJANDRO",
+    "LAHERA CABANILLAS, DIEGO",
+    "BULNES VAZQUEZ, URTZI",
+    "LABRADOR VELEZ, ENEKO",
+    "ORTEGA MARTIN, UNAI",
+    "SANTOS RUSZCZYNSKA, ALVARO"
+  ],
+  "convocados_sin_jugar_local": [
+    "PANIAGUA GARCIA DE ALBENIZ, ASIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CANALES IRANZO, ANER",
+    "SANTOS RUSZCZYNSKA, ALVARO"
+  ],
+  "jugadores_local": [
+    "VELARDE MELENDEZ, MARKO",
+    "MESTRAITUA CABALLERO, ARITZ",
+    "GARCIA-DIEGO PEREZ, ASIER",
+    "MERINO MONTALBÁN, SABIN",
+    "LASHERAS HIDALGO, IZAN",
+    "ORTIZ ASTIKA, XABIER",
+    "AHEDO GUTIERREZ, MARKEL",
+    "ITURREGUI FERNÁNDEZ, ENEKO",
+    "ZAITEGUI ONDARRETA, MARCO",
+    "LOPEZ LOPEZ, HUGO",
+    "CORREAS DELGADO, JON",
+    "FRANCO BLANCO, UNAI",
+    "DIAS VILAR, ERIK"
+  ],
+  "jugadores_visitante": [
+    "ANTÓN RANERO, ARIEL",
+    "PEREZ ORTIZ, ERLANTZ",
+    "AIAD NOCEDAL, HAKIM",
+    "ETXEBARRIETA ANTÓN, XABIER",
+    "PEREZ RUIZ, ALVARO",
+    "GARMA MORIYON, ALAIN",
+    "MARTINEZ SARATXAGA, ANDER",
+    "IBARRONDO RUA, IBAI",
+    "DOMINGUEZ TELLITU, AIMAR",
+    "MARTIN SEGURA, ASIER",
+    "GARAY LOPEZ, LANDER",
+    "LAHERA CABANILLAS, DIEGO",
+    "LILLO ANTA, ALEJANDRO",
+    "BULNES VAZQUEZ, URTZI",
+    "ORTEGA MARTIN, UNAI",
+    "LABRADOR VELEZ, ENEKO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 62,
+      "entra": "FRANCO BLANCO, UNAI",
+      "sale": "MESTRAITUA CABALLERO, ARITZ"
+    },
+    {
+      "min": 62,
+      "entra": "DIAS VILAR, ERIK",
+      "sale": "LOPEZ LOPEZ, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "LAHERA CABANILLAS, DIEGO",
+      "sale": "GARAY LOPEZ, LANDER"
+    },
+    {
+      "min": 72,
+      "entra": "LILLO ANTA, ALEJANDRO",
+      "sale": "MARTINEZ SARATXAGA, ANDER"
+    },
+    {
+      "min": 80,
+      "entra": "BULNES VAZQUEZ, URTZI",
+      "sale": "PEREZ ORTIZ, ERLANTZ"
+    },
+    {
+      "min": 80,
+      "entra": "ORTEGA MARTIN, UNAI",
+      "sale": "DOMINGUEZ TELLITU, AIMAR"
+    },
+    {
+      "min": 80,
+      "entra": "LABRADOR VELEZ, ENEKO",
+      "sale": "PEREZ RUIZ, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "VELARDE MELENDEZ, MARKO": 90,
+    "MESTRAITUA CABALLERO, ARITZ": 62,
+    "GARCIA-DIEGO PEREZ, ASIER": 90,
+    "MERINO MONTALBÁN, SABIN": 90,
+    "LASHERAS HIDALGO, IZAN": 90,
+    "ORTIZ ASTIKA, XABIER": 90,
+    "AHEDO GUTIERREZ, MARKEL": 90,
+    "ITURREGUI FERNÁNDEZ, ENEKO": 90,
+    "ZAITEGUI ONDARRETA, MARCO": 90,
+    "LOPEZ LOPEZ, HUGO": 62,
+    "CORREAS DELGADO, JON": 90,
+    "FRANCO BLANCO, UNAI": 28,
+    "DIAS VILAR, ERIK": 28,
+    "ANTÓN RANERO, ARIEL": 90,
+    "PEREZ ORTIZ, ERLANTZ": 80,
+    "AIAD NOCEDAL, HAKIM": 90,
+    "ETXEBARRIETA ANTÓN, XABIER": 90,
+    "PEREZ RUIZ, ALVARO": 80,
+    "GARMA MORIYON, ALAIN": 90,
+    "MARTINEZ SARATXAGA, ANDER": 72,
+    "IBARRONDO RUA, IBAI": 90,
+    "DOMINGUEZ TELLITU, AIMAR": 80,
+    "MARTIN SEGURA, ASIER": 90,
+    "GARAY LOPEZ, LANDER": 58,
+    "LAHERA CABANILLAS, DIEGO": 32,
+    "LILLO ANTA, ALEJANDRO": 18,
+    "BULNES VAZQUEZ, URTZI": 10,
+    "ORTEGA MARTIN, UNAI": 10,
+    "LABRADOR VELEZ, ENEKO": 10
+  },
+  "portero_local": "VELARDE MELENDEZ, MARKO",
+  "portero_visitante": "ANTÓN RANERO, ARIEL",
+  "dorsales_local": {
+    "VELARDE MELENDEZ, MARKO": 13,
+    "MESTRAITUA CABALLERO, ARITZ": 2,
+    "GARCIA-DIEGO PEREZ, ASIER": 3,
+    "MERINO MONTALBÁN, SABIN": 4,
+    "LASHERAS HIDALGO, IZAN": 5,
+    "ORTIZ ASTIKA, XABIER": 6,
+    "AHEDO GUTIERREZ, MARKEL": 8,
+    "ITURREGUI FERNÁNDEZ, ENEKO": 10,
+    "ZAITEGUI ONDARRETA, MARCO": 11,
+    "LOPEZ LOPEZ, HUGO": 17,
+    "CORREAS DELGADO, JON": 18
+  },
+  "dorsales_visitante": {
+    "ANTÓN RANERO, ARIEL": 13,
+    "PEREZ ORTIZ, ERLANTZ": 3,
+    "AIAD NOCEDAL, HAKIM": 4,
+    "ETXEBARRIETA ANTÓN, XABIER": 6,
+    "PEREZ RUIZ, ALVARO": 7,
+    "GARMA MORIYON, ALAIN": 8,
+    "MARTINEZ SARATXAGA, ANDER": 10,
+    "IBARRONDO RUA, IBAI": 11,
+    "DOMINGUEZ TELLITU, AIMAR": 12,
+    "MARTIN SEGURA, ASIER": 15,
+    "GARAY LOPEZ, LANDER": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
