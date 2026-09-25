@@ -1,0 +1,396 @@
+{
+  "acta_id": "B_9974269",
+  "filename": "Acta_B_9974269.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 22,
+  "fecha": "21-03-2026",
+  "hora": "18:15",
+  "categoria": "TERCERA DIVISIÓN 3A / HIRUGARREN MAILA (GRUPO 4)",
+  "equipo_local": "BASAURI-B.E.A.",
+  "equipo_visitante": "DELTA DUO",
+  "goles_local": 3,
+  "goles_visitante": 3,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "TORNÍN MARTÍNEZ, CARLA"
+  ],
+  "estadio": "SOLOARTE",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "EL BEZZI BEN HAMMOU, BRAHIM",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "JECU, MARIUS COSTEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "BOUFARS, YASSINE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 65,
+      "jugador": "POLO ARTOLA, ENEKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "BRAVO RODRIGUEZ, UNAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 94,
+      "jugador": "OUALI, YASSIR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 17,
+      "jugador": "MESO GARRO, AITOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "VIDAL MARCOS, AGUSTIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "GONZALEZ BARROETA, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "SANTOS GUERRA, DYLAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 96,
+      "jugador": "POLO ARTOLA, ENEKO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "VIDAL MARCOS, AGUSTIN",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "MESO GARRO, AITOR",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "DELTA DUO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "STAN, ADRIAN DANIEL",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "VEGA RODRIGUEZ, CRISTIAN STIVEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "Babesle ofizialak",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "Pribatutasun Politikak",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "Cookien politika",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "Lege Oharra",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "COSME ETXEBARRIETA 5, 1.a",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "KIROL ETXEA - MARTÍN BARUA PICAZA, 27",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "BILBO (BIZKAIA)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "federacion@fvf-bff.eus",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "944 23 61 98",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "944 24 21 80",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "BIZKAIKO FUTBOL FEDERAKUNDEA - VIZCAÍNA FUTBOL FEDERAZIOA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VIDAL MARCOS, AGUSTIN",
+  "entrenador_visitante": "ENACHESCU, CATALIN MARIUS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CELAYA GARCIA, YERAY",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CELAYA GARCIA, YERAY",
+  "delegado_equipo_visitante": "MUSAT, TUDOREL",
+  "titulares_local": [
+    "BRAVO RODRIGUEZ, UNAI",
+    "LEJARRETA GARCIA, UGUTZ",
+    "POLO ARTOLA, ENEKO",
+    "EL BEZZI BEN HAMMOU, BRAHIM",
+    "MESO GARRO, AITOR",
+    "GONZALEZ BARROETA, MARKEL",
+    "ZUFIA ARROYO, GABRIEL",
+    "SANTOS GUERRA, DYLAN",
+    "ANTOLIN RUIZ, UNAI",
+    "GARCIA DE LA FUENTE, GALDER",
+    "COELLO LARRINAGA, AIMAR"
+  ],
+  "titulares_visitante": [
+    "CORDOVA CELIS, BRYAM ANDREE",
+    "OUALI, YASSIR",
+    "RIAÑO URBIZU, UNAI",
+    "ORDOÑEZ OSPINA, JUAN CAMILO",
+    "VILLASANTI NUÑEZ, RAFAEL",
+    "GOURMA, AYOUB",
+    "ENACHESCU, NICOLAE IULIAN",
+    "ADIR, OVIDIO FERNANDO",
+    "JECU, MARIUS COSTEL",
+    "VEGA RODRIGUEZ, CRISTIAN STIVEN",
+    "BOUFARS, YASSINE"
+  ],
+  "suplentes_local": [
+    "ZUBIETA MARISCAL, AITOR",
+    "AGORRIA PEREZ, AITOR",
+    "AGUIRRE GOMEZ, EKAITZ",
+    "GARCIA MATEOS, ENEKO FELMETA",
+    "MARQUEZ VAZQUEZ, JON ANDER",
+    "ARRANZ GONZALEZ, AIMAR"
+  ],
+  "suplentes_visitante": [
+    "BRIZUELA FRAUDITA, KEVIN ENMANUEL",
+    "LOPEZ, MATIAS FEDERICO",
+    "FAUDITA NUÑEZ, YIMMY XAVIER",
+    "STAN, ADRIAN DANIEL",
+    "PRADO ANGULO, CARLOS ANDRES",
+    "VASQUEZ RAMIREZ, ANDERSON ABEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "ZUBIETA MARISCAL, AITOR",
+    "AGORRIA PEREZ, AITOR",
+    "GARCIA MATEOS, ENEKO FELMETA",
+    "ARRANZ GONZALEZ, AIMAR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BRIZUELA FRAUDITA, KEVIN ENMANUEL",
+    "FAUDITA NUÑEZ, YIMMY XAVIER",
+    "STAN, ADRIAN DANIEL"
+  ],
+  "jugadores_local": [
+    "BRAVO RODRIGUEZ, UNAI",
+    "LEJARRETA GARCIA, UGUTZ",
+    "POLO ARTOLA, ENEKO",
+    "EL BEZZI BEN HAMMOU, BRAHIM",
+    "MESO GARRO, AITOR",
+    "GONZALEZ BARROETA, MARKEL",
+    "ZUFIA ARROYO, GABRIEL",
+    "SANTOS GUERRA, DYLAN",
+    "ANTOLIN RUIZ, UNAI",
+    "GARCIA DE LA FUENTE, GALDER",
+    "COELLO LARRINAGA, AIMAR",
+    "MARQUEZ VAZQUEZ, JON ANDER",
+    "AGUIRRE GOMEZ, EKAITZ"
+  ],
+  "jugadores_visitante": [
+    "CORDOVA CELIS, BRYAM ANDREE",
+    "OUALI, YASSIR",
+    "RIAÑO URBIZU, UNAI",
+    "ORDOÑEZ OSPINA, JUAN CAMILO",
+    "VILLASANTI NUÑEZ, RAFAEL",
+    "GOURMA, AYOUB",
+    "ENACHESCU, NICOLAE IULIAN",
+    "ADIR, OVIDIO FERNANDO",
+    "JECU, MARIUS COSTEL",
+    "VEGA RODRIGUEZ, CRISTIAN STIVEN",
+    "BOUFARS, YASSINE",
+    "PRADO ANGULO, CARLOS ANDRES",
+    "VASQUEZ RAMIREZ, ANDERSON ABEL",
+    "LOPEZ, MATIAS FEDERICO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 30,
+      "entra": "MARQUEZ VAZQUEZ, JON ANDER",
+      "sale": "ZUFIA ARROYO, GABRIEL"
+    },
+    {
+      "min": 37,
+      "entra": "AGUIRRE GOMEZ, EKAITZ",
+      "sale": "GARCIA DE LA FUENTE, GALDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "PRADO ANGULO, CARLOS ANDRES",
+      "sale": "ORDOÑEZ OSPINA, JUAN CAMILO"
+    },
+    {
+      "min": 54,
+      "entra": "VASQUEZ RAMIREZ, ANDERSON ABEL",
+      "sale": "GOURMA, AYOUB"
+    },
+    {
+      "min": 68,
+      "entra": "LOPEZ, MATIAS FEDERICO",
+      "sale": "BOUFARS, YASSINE"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRAVO RODRIGUEZ, UNAI": 90,
+    "LEJARRETA GARCIA, UGUTZ": 90,
+    "POLO ARTOLA, ENEKO": 90,
+    "EL BEZZI BEN HAMMOU, BRAHIM": 90,
+    "MESO GARRO, AITOR": 90,
+    "GONZALEZ BARROETA, MARKEL": 90,
+    "ZUFIA ARROYO, GABRIEL": 30,
+    "SANTOS GUERRA, DYLAN": 90,
+    "ANTOLIN RUIZ, UNAI": 90,
+    "GARCIA DE LA FUENTE, GALDER": 37,
+    "COELLO LARRINAGA, AIMAR": 90,
+    "MARQUEZ VAZQUEZ, JON ANDER": 60,
+    "AGUIRRE GOMEZ, EKAITZ": 53,
+    "CORDOVA CELIS, BRYAM ANDREE": 90,
+    "OUALI, YASSIR": 90,
+    "RIAÑO URBIZU, UNAI": 90,
+    "ORDOÑEZ OSPINA, JUAN CAMILO": 45,
+    "VILLASANTI NUÑEZ, RAFAEL": 90,
+    "GOURMA, AYOUB": 54,
+    "ENACHESCU, NICOLAE IULIAN": 90,
+    "ADIR, OVIDIO FERNANDO": 90,
+    "JECU, MARIUS COSTEL": 90,
+    "VEGA RODRIGUEZ, CRISTIAN STIVEN": 90,
+    "BOUFARS, YASSINE": 68,
+    "PRADO ANGULO, CARLOS ANDRES": 45,
+    "VASQUEZ RAMIREZ, ANDERSON ABEL": 36,
+    "LOPEZ, MATIAS FEDERICO": 22
+  },
+  "portero_local": "BRAVO RODRIGUEZ, UNAI",
+  "portero_visitante": "JECU, MARIUS COSTEL",
+  "dorsales_local": {
+    "BRAVO RODRIGUEZ, UNAI": 1,
+    "LEJARRETA GARCIA, UGUTZ": 5,
+    "POLO ARTOLA, ENEKO": 6,
+    "EL BEZZI BEN HAMMOU, BRAHIM": 7,
+    "MESO GARRO, AITOR": 10,
+    "GONZALEZ BARROETA, MARKEL": 11,
+    "ZUFIA ARROYO, GABRIEL": 12,
+    "SANTOS GUERRA, DYLAN": 14,
+    "ANTOLIN RUIZ, UNAI": 17,
+    "GARCIA DE LA FUENTE, GALDER": 21,
+    "COELLO LARRINAGA, AIMAR": 24
+  },
+  "dorsales_visitante": {
+    "CORDOVA CELIS, BRYAM ANDREE": 12,
+    "OUALI, YASSIR": 2,
+    "RIAÑO URBIZU, UNAI": 3,
+    "ORDOÑEZ OSPINA, JUAN CAMILO": 4,
+    "VILLASANTI NUÑEZ, RAFAEL": 5,
+    "GOURMA, AYOUB": 7,
+    "ENACHESCU, NICOLAE IULIAN": 8,
+    "ADIR, OVIDIO FERNANDO": 11,
+    "JECU, MARIUS COSTEL": 13,
+    "VEGA RODRIGUEZ, CRISTIAN STIVEN": 20,
+    "BOUFARS, YASSINE": 21
+  },
+  "suspendidos": [
+    "VIDAL MARCOS, AGUSTIN",
+    "MESO GARRO, AITOR"
+  ]
+}
