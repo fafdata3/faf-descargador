@@ -1,0 +1,255 @@
+{
+  "acta_id": "C_220742",
+  "filename": "Acta_C_220742.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "13-12-2025",
+  "hora": "11:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "VELARDE C.F. A",
+  "equipo_visitante": "C.D. ARENAS DE FRAJANAS A",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SANCHEZ GARCÍA, MARIO"
+  ],
+  "estadio": "Muriedas 2",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "BARBA AGENJO, DARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 7,
+      "jugador": "PEÑA GONZALEZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "ARCE ABASCAL, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "PEÑA GONZALEZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 65,
+      "jugador": "ARCE ABASCAL, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "GUZMAN VALDEZ, MATIAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SALCINES PRIETO, LUIS FELIPE",
+  "entrenador_visitante": "MATE GARCIA, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTINEZ CASTRO, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ CASTRO, DANIEL",
+  "delegado_equipo_visitante": "SANTAMARIA DE BLAS, ALVARO",
+  "titulares_local": [
+    "SALCINES ZARCO, AYMAR",
+    "FRANCO RIEGO, LUCAS",
+    "MUÑOZ MORA, HUGO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "LAVIN TOCA, NECO",
+    "PONCE COBA, ERICK AITOR",
+    "PELAYO GARCIA, NICOLAS"
+  ],
+  "titulares_visitante": [
+    "CASTILLO SAIZ, LUCA",
+    "DIOP, ALIOUNE SARR",
+    "PIQUERAS DEL RÍO, DANIEL",
+    "GARCIA PELAYO, MIGUEL",
+    "MATA RODRIGUEZ, ERIK",
+    "VAYAS RUIZ, HECTOR",
+    "DIEZ GONZALEZ, DANIEL",
+    "MEÑACA FERNANDEZ, ANGEL",
+    "DUARTE CASTELLO, NUC",
+    "LOPEZ CASTAÑEDA, MAURO",
+    "SCARNA FRANCO, DENIS"
+  ],
+  "suplentes_local": [
+    "MARTINEZ GONZALEZ, DANIEL",
+    "PEREZ VILLA, DAVID",
+    "HOYOS ORTEGA, LUCA"
+  ],
+  "suplentes_visitante": [
+    "TORRE GARCIA, OLIVER",
+    "GUZMAN VALDEZ, MATIAS",
+    "DELGADO SAN MIGUEL, PABLO",
+    "RUIZ SANCHEZ, ERIK",
+    "NIANG SYLLA, DAME"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SALCINES ZARCO, AYMAR",
+    "FRANCO RIEGO, LUCAS",
+    "MUÑOZ MORA, HUGO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "LAVIN TOCA, NECO",
+    "PONCE COBA, ERICK AITOR",
+    "PELAYO GARCIA, NICOLAS",
+    "MARTINEZ GONZALEZ, DANIEL",
+    "HOYOS ORTEGA, LUCA",
+    "PEREZ VILLA, DAVID"
+  ],
+  "jugadores_visitante": [
+    "CASTILLO SAIZ, LUCA",
+    "DIOP, ALIOUNE SARR",
+    "PIQUERAS DEL RÍO, DANIEL",
+    "GARCIA PELAYO, MIGUEL",
+    "MATA RODRIGUEZ, ERIK",
+    "VAYAS RUIZ, HECTOR",
+    "DIEZ GONZALEZ, DANIEL",
+    "MEÑACA FERNANDEZ, ANGEL",
+    "DUARTE CASTELLO, NUC",
+    "LOPEZ CASTAÑEDA, MAURO",
+    "SCARNA FRANCO, DENIS",
+    "RUIZ SANCHEZ, ERIK",
+    "TORRE GARCIA, OLIVER",
+    "DELGADO SAN MIGUEL, PABLO",
+    "NIANG SYLLA, DAME",
+    "GUZMAN VALDEZ, MATIAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 42,
+      "entra": "MARTINEZ GONZALEZ, DANIEL",
+      "sale": "FRANCO RIEGO, LUCAS"
+    },
+    {
+      "min": 42,
+      "entra": "HOYOS ORTEGA, LUCA",
+      "sale": "PEÑA GONZALEZ, ALVARO"
+    },
+    {
+      "min": 42,
+      "entra": "PEREZ VILLA, DAVID",
+      "sale": "PELAYO GARCIA, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "RUIZ SANCHEZ, ERIK",
+      "sale": "DIEZ GONZALEZ, DANIEL"
+    },
+    {
+      "min": 35,
+      "entra": "TORRE GARCIA, OLIVER",
+      "sale": "CASTILLO SAIZ, LUCA"
+    },
+    {
+      "min": 48,
+      "entra": "DELGADO SAN MIGUEL, PABLO",
+      "sale": "MEÑACA FERNANDEZ, ANGEL"
+    },
+    {
+      "min": 48,
+      "entra": "NIANG SYLLA, DAME",
+      "sale": "VAYAS RUIZ, HECTOR"
+    },
+    {
+      "min": 48,
+      "entra": "GUZMAN VALDEZ, MATIAS",
+      "sale": "SCARNA FRANCO, DENIS"
+    }
+  ],
+  "minutos_jugadores": {
+    "SALCINES ZARCO, AYMAR": 90,
+    "FRANCO RIEGO, LUCAS": 42,
+    "MUÑOZ MORA, HUGO": 90,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 90,
+    "BARBA AGENJO, DARIO": 90,
+    "ARCE ABASCAL, DIEGO": 90,
+    "DIEZ GARCIA, MATEO": 90,
+    "PEÑA GONZALEZ, ALVARO": 42,
+    "LAVIN TOCA, NECO": 90,
+    "PONCE COBA, ERICK AITOR": 90,
+    "PELAYO GARCIA, NICOLAS": 42,
+    "MARTINEZ GONZALEZ, DANIEL": 48,
+    "HOYOS ORTEGA, LUCA": 48,
+    "PEREZ VILLA, DAVID": 48,
+    "CASTILLO SAIZ, LUCA": 35,
+    "DIOP, ALIOUNE SARR": 90,
+    "PIQUERAS DEL RÍO, DANIEL": 90,
+    "GARCIA PELAYO, MIGUEL": 90,
+    "MATA RODRIGUEZ, ERIK": 90,
+    "VAYAS RUIZ, HECTOR": 48,
+    "DIEZ GONZALEZ, DANIEL": 35,
+    "MEÑACA FERNANDEZ, ANGEL": 48,
+    "DUARTE CASTELLO, NUC": 90,
+    "LOPEZ CASTAÑEDA, MAURO": 90,
+    "SCARNA FRANCO, DENIS": 48,
+    "RUIZ SANCHEZ, ERIK": 55,
+    "TORRE GARCIA, OLIVER": 55,
+    "DELGADO SAN MIGUEL, PABLO": 42,
+    "NIANG SYLLA, DAME": 42,
+    "GUZMAN VALDEZ, MATIAS": 42
+  },
+  "portero_local": "SALCINES ZARCO, AYMAR",
+  "portero_visitante": "CASTILLO SAIZ, LUCA",
+  "dorsales_local": {
+    "SALCINES ZARCO, AYMAR": 13,
+    "FRANCO RIEGO, LUCAS": 2,
+    "MUÑOZ MORA, HUGO": 3,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 5,
+    "BARBA AGENJO, DARIO": 6,
+    "ARCE ABASCAL, DIEGO": 7,
+    "DIEZ GARCIA, MATEO": 8,
+    "PEÑA GONZALEZ, ALVARO": 9,
+    "LAVIN TOCA, NECO": 10,
+    "PONCE COBA, ERICK AITOR": 18,
+    "PELAYO GARCIA, NICOLAS": 19
+  },
+  "dorsales_visitante": {
+    "CASTILLO SAIZ, LUCA": 13,
+    "DIOP, ALIOUNE SARR": 2,
+    "PIQUERAS DEL RÍO, DANIEL": 8,
+    "GARCIA PELAYO, MIGUEL": 9,
+    "MATA RODRIGUEZ, ERIK": 10,
+    "VAYAS RUIZ, HECTOR": 15,
+    "DIEZ GONZALEZ, DANIEL": 18,
+    "MEÑACA FERNANDEZ, ANGEL": 19,
+    "DUARTE CASTELLO, NUC": 20,
+    "LOPEZ CASTAÑEDA, MAURO": 22,
+    "SCARNA FRANCO, DENIS": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
