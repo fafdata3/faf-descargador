@@ -1,0 +1,245 @@
+{
+  "acta_id": "C_244067",
+  "filename": "Acta_C_244067.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "19:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZÁLEZ AJA, PABLO"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "MALLAVIA PEREZ, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "GONZALEZ IBAÑEZ, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 13,
+      "jugador": "GARCIA OBESO, LEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "R.S. GIMNASTICA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "CORDON PRADANOS, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PEREZ MARTINEZ, LORENZO",
+  "entrenador_visitante": "LARUMBE GARCIA, AIMAR",
+  "segundo_entrenador_local": "LOPEZ GUADAÑO, JORGE",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "RAMOS MONTERO, TELMO",
+  "titulares_local": [
+    "CUEVAS TERAN, LUIS",
+    "GOMEZ DIAZ, ENZO",
+    "PEÑA DIAZ, OLIVER",
+    "GARCIA OBESO, LEO",
+    "FERNÁNDEZ MIER, ERNESTO",
+    "ESCUDERO SAIZ, NICOLAS",
+    "GONZALEZ OTERO, LEO",
+    "MALLAVIA PEREZ, NICOLAS",
+    "GONZALEZ IBAÑEZ, PABLO",
+    "EGUSQUIZA HIGUERA, LUIS",
+    "LOPEZ LOPEZ, CARLO"
+  ],
+  "titulares_visitante": [
+    "MARCOS GARCIA, ADRIAN",
+    "FERNÁNDEZ ANDRÉS, ENZO",
+    "FERNANDEZ GARCIA, IZAN",
+    "LOPEZ PELAYO, ALEJANDRO",
+    "BOLADO MASEGOSA, DAVID",
+    "TARDON JARAIZ, JORGE",
+    "HERRUZO RODRIGUEZ, LEO",
+    "CORDON PRADANOS, PABLO",
+    "RUIZ HOYOS, RICARDO",
+    "HARO ISABEL, ABRAHAM",
+    "SAIZ MOYA, SAUL"
+  ],
+  "suplentes_local": [
+    "SANTANDER GONZALEZ, OLIVER",
+    "TORRES ORUÑA, GUILLERMO",
+    "URANGA FEIJOO, JON",
+    "LASO MARTINEZ, LEO"
+  ],
+  "suplentes_visitante": [
+    "ALDEA MARTINEZ, UNAI",
+    "DIACONU PINZARI, NIKITA",
+    "RUIZ GARCIA, DARIO",
+    "DEL BARRIO MONTES, SIRO",
+    "REBOLLEDO GARCIA, OLIVER"
+  ],
+  "convocados_sin_jugar_local": [
+    "SANTANDER GONZALEZ, OLIVER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALDEA MARTINEZ, UNAI"
+  ],
+  "jugadores_local": [
+    "CUEVAS TERAN, LUIS",
+    "GOMEZ DIAZ, ENZO",
+    "PEÑA DIAZ, OLIVER",
+    "GARCIA OBESO, LEO",
+    "FERNÁNDEZ MIER, ERNESTO",
+    "ESCUDERO SAIZ, NICOLAS",
+    "GONZALEZ OTERO, LEO",
+    "MALLAVIA PEREZ, NICOLAS",
+    "GONZALEZ IBAÑEZ, PABLO",
+    "EGUSQUIZA HIGUERA, LUIS",
+    "LOPEZ LOPEZ, CARLO",
+    "TORRES ORUÑA, GUILLERMO",
+    "LASO MARTINEZ, LEO",
+    "URANGA FEIJOO, JON"
+  ],
+  "jugadores_visitante": [
+    "MARCOS GARCIA, ADRIAN",
+    "FERNÁNDEZ ANDRÉS, ENZO",
+    "FERNANDEZ GARCIA, IZAN",
+    "LOPEZ PELAYO, ALEJANDRO",
+    "BOLADO MASEGOSA, DAVID",
+    "TARDON JARAIZ, JORGE",
+    "HERRUZO RODRIGUEZ, LEO",
+    "CORDON PRADANOS, PABLO",
+    "RUIZ HOYOS, RICARDO",
+    "HARO ISABEL, ABRAHAM",
+    "SAIZ MOYA, SAUL",
+    "DEL BARRIO MONTES, SIRO",
+    "DIACONU PINZARI, NIKITA",
+    "RUIZ GARCIA, DARIO",
+    "REBOLLEDO GARCIA, OLIVER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "TORRES ORUÑA, GUILLERMO",
+      "sale": "GOMEZ DIAZ, ENZO"
+    },
+    {
+      "min": 48,
+      "entra": "LASO MARTINEZ, LEO",
+      "sale": "ESCUDERO SAIZ, NICOLAS"
+    },
+    {
+      "min": 48,
+      "entra": "URANGA FEIJOO, JON",
+      "sale": "EGUSQUIZA HIGUERA, LUIS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "DEL BARRIO MONTES, SIRO",
+      "sale": "HARO ISABEL, ABRAHAM"
+    },
+    {
+      "min": 35,
+      "entra": "DIACONU PINZARI, NIKITA",
+      "sale": "FERNÁNDEZ ANDRÉS, ENZO"
+    },
+    {
+      "min": 40,
+      "entra": "RUIZ GARCIA, DARIO",
+      "sale": "LOPEZ PELAYO, ALEJANDRO"
+    },
+    {
+      "min": 45,
+      "entra": "REBOLLEDO GARCIA, OLIVER",
+      "sale": "SAIZ MOYA, SAUL"
+    }
+  ],
+  "minutos_jugadores": {
+    "CUEVAS TERAN, LUIS": 90,
+    "GOMEZ DIAZ, ENZO": 45,
+    "PEÑA DIAZ, OLIVER": 90,
+    "GARCIA OBESO, LEO": 90,
+    "FERNÁNDEZ MIER, ERNESTO": 90,
+    "ESCUDERO SAIZ, NICOLAS": 48,
+    "GONZALEZ OTERO, LEO": 90,
+    "MALLAVIA PEREZ, NICOLAS": 90,
+    "GONZALEZ IBAÑEZ, PABLO": 90,
+    "EGUSQUIZA HIGUERA, LUIS": 48,
+    "LOPEZ LOPEZ, CARLO": 90,
+    "TORRES ORUÑA, GUILLERMO": 45,
+    "LASO MARTINEZ, LEO": 42,
+    "URANGA FEIJOO, JON": 42,
+    "MARCOS GARCIA, ADRIAN": 90,
+    "FERNÁNDEZ ANDRÉS, ENZO": 35,
+    "FERNANDEZ GARCIA, IZAN": 90,
+    "LOPEZ PELAYO, ALEJANDRO": 40,
+    "BOLADO MASEGOSA, DAVID": 90,
+    "TARDON JARAIZ, JORGE": 90,
+    "HERRUZO RODRIGUEZ, LEO": 90,
+    "CORDON PRADANOS, PABLO": 90,
+    "RUIZ HOYOS, RICARDO": 90,
+    "HARO ISABEL, ABRAHAM": 35,
+    "SAIZ MOYA, SAUL": 45,
+    "DEL BARRIO MONTES, SIRO": 55,
+    "DIACONU PINZARI, NIKITA": 55,
+    "RUIZ GARCIA, DARIO": 50,
+    "REBOLLEDO GARCIA, OLIVER": 45
+  },
+  "portero_local": "CUEVAS TERAN, LUIS",
+  "portero_visitante": "MARCOS GARCIA, ADRIAN",
+  "dorsales_local": {
+    "CUEVAS TERAN, LUIS": 1,
+    "GOMEZ DIAZ, ENZO": 4,
+    "PEÑA DIAZ, OLIVER": 5,
+    "GARCIA OBESO, LEO": 6,
+    "FERNÁNDEZ MIER, ERNESTO": 7,
+    "ESCUDERO SAIZ, NICOLAS": 9,
+    "GONZALEZ OTERO, LEO": 11,
+    "MALLAVIA PEREZ, NICOLAS": 12,
+    "GONZALEZ IBAÑEZ, PABLO": 14,
+    "EGUSQUIZA HIGUERA, LUIS": 16,
+    "LOPEZ LOPEZ, CARLO": 19
+  },
+  "dorsales_visitante": {
+    "MARCOS GARCIA, ADRIAN": 1,
+    "FERNÁNDEZ ANDRÉS, ENZO": 4,
+    "FERNANDEZ GARCIA, IZAN": 5,
+    "LOPEZ PELAYO, ALEJANDRO": 6,
+    "BOLADO MASEGOSA, DAVID": 7,
+    "TARDON JARAIZ, JORGE": 8,
+    "HERRUZO RODRIGUEZ, LEO": 9,
+    "CORDON PRADANOS, PABLO": 11,
+    "RUIZ HOYOS, RICARDO": 14,
+    "HARO ISABEL, ABRAHAM": 19,
+    "SAIZ MOYA, SAUL": 22
+  },
+  "suspendidos": []
+}
