@@ -1,0 +1,278 @@
+{
+  "acta_id": "B_9974503",
+  "filename": "Acta_B_9974503.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "01-11-2025",
+  "hora": "09:00",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 2)",
+  "equipo_local": "GOIZTIRI",
+  "equipo_visitante": "BEGOÑAKO ARTEAGABE",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "AZKUENAGA ASTORQUIZA, JON ANDER"
+  ],
+  "estadio": "SAN JORGE",
+  "ciudad": "Santurtzi",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "MONTERO ROLDAN, JULEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 20,
+      "jugador": "FERNANDEZ GARRIDO, ARITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "PRIETO SANCHO, IAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "VIVANCO HERNANDEZ, MIKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "MARTIN PUERTAS, ENEKO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "HOYOS VALLEJO, EDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "GONZALEZ DEL RIO, ARATZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "BEGOÑAKO ARTEAGABE",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PEREZ FERNANDEZ, MARIO",
+  "delegado_equipo_visitante": "FRION CANAL, IGOR",
+  "titulares_local": [
+    "LEIVA LOPEZ, EKAIN",
+    "AUDU ALBISU, DAVID",
+    "GARCIA ARRANZ, IKER",
+    "GONZALEZ DEL RIO, ARATZ",
+    "DE LA QUINTANA SANCHEZ, ANER",
+    "RESCO DE PONGA, BEÑAT",
+    "ANTA BUESO, LIHER",
+    "VIVANCO HERNANDEZ, MIKEL",
+    "REYES MARTINEZ, JAGOBA",
+    "MONTERO ROLDAN, JULEN",
+    "YAÑEZ SANDIVAR, CARLOS ANTONIO"
+  ],
+  "titulares_visitante": [
+    "SANCHEZ MOURE, UNAI",
+    "PRIETO SANCHO, ASIER",
+    "FERNANDEZ GARRIDO, ARITZ",
+    "OCIO SANCHEZ, OIHAN",
+    "PRIETO SANCHO, IAN",
+    "DIEZ OTERO, IRAI",
+    "HOYOS VALLEJO, EDER",
+    "GONZALEZ MOSQUERA, DIEGO",
+    "LASTRA SANTOS, UNAI",
+    "FERNANDEZ VAZQUEZ, MARIO",
+    "MARTIN PUERTAS, ENEKO"
+  ],
+  "suplentes_local": [
+    "PEREZ CASTAÑEDA, MARKEL",
+    "ROMAN DE LA IGLESIA, BEÑAT",
+    "MARTINEZ ALAMO, ASIER",
+    "DE LA CRUZ BARRUL, JOEL",
+    "VALLE MUÑOZ, AIMAR",
+    "LOPEZ ARRIBAS, BEÑAT",
+    "MARTIN GARCIA, IZAN"
+  ],
+  "suplentes_visitante": [
+    "AHEDO MALALO-AN, NOAH",
+    "SANZ SALGADO, JORITZ",
+    "GOMEZ DOS SANTOS, ARKAITZ",
+    "BLANCO PEREDA, ADRIAN",
+    "RENDO RIAL, JULEN"
+  ],
+  "convocados_sin_jugar_local": [
+    "ROMAN DE LA IGLESIA, BEÑAT",
+    "MARTINEZ ALAMO, ASIER",
+    "MARTIN GARCIA, IZAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "AHEDO MALALO-AN, NOAH"
+  ],
+  "jugadores_local": [
+    "LEIVA LOPEZ, EKAIN",
+    "AUDU ALBISU, DAVID",
+    "GARCIA ARRANZ, IKER",
+    "GONZALEZ DEL RIO, ARATZ",
+    "DE LA QUINTANA SANCHEZ, ANER",
+    "RESCO DE PONGA, BEÑAT",
+    "ANTA BUESO, LIHER",
+    "VIVANCO HERNANDEZ, MIKEL",
+    "REYES MARTINEZ, JAGOBA",
+    "MONTERO ROLDAN, JULEN",
+    "YAÑEZ SANDIVAR, CARLOS ANTONIO",
+    "VALLE MUÑOZ, AIMAR",
+    "LOPEZ ARRIBAS, BEÑAT",
+    "DE LA CRUZ BARRUL, JOEL",
+    "PEREZ CASTAÑEDA, MARKEL"
+  ],
+  "jugadores_visitante": [
+    "SANCHEZ MOURE, UNAI",
+    "PRIETO SANCHO, ASIER",
+    "FERNANDEZ GARRIDO, ARITZ",
+    "OCIO SANCHEZ, OIHAN",
+    "PRIETO SANCHO, IAN",
+    "DIEZ OTERO, IRAI",
+    "HOYOS VALLEJO, EDER",
+    "GONZALEZ MOSQUERA, DIEGO",
+    "LASTRA SANTOS, UNAI",
+    "FERNANDEZ VAZQUEZ, MARIO",
+    "MARTIN PUERTAS, ENEKO",
+    "SANZ SALGADO, JORITZ",
+    "RENDO RIAL, JULEN",
+    "GOMEZ DOS SANTOS, ARKAITZ",
+    "BLANCO PEREDA, ADRIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "VALLE MUÑOZ, AIMAR",
+      "sale": "YAÑEZ SANDIVAR, CARLOS ANTONIO"
+    },
+    {
+      "min": 41,
+      "entra": "LOPEZ ARRIBAS, BEÑAT",
+      "sale": "AUDU ALBISU, DAVID"
+    },
+    {
+      "min": 65,
+      "entra": "DE LA CRUZ BARRUL, JOEL",
+      "sale": "VIVANCO HERNANDEZ, MIKEL"
+    },
+    {
+      "min": 72,
+      "entra": "PEREZ CASTAÑEDA, MARKEL",
+      "sale": "GARCIA ARRANZ, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "SANZ SALGADO, JORITZ",
+      "sale": "FERNANDEZ VAZQUEZ, MARIO"
+    },
+    {
+      "min": 49,
+      "entra": "RENDO RIAL, JULEN",
+      "sale": "LASTRA SANTOS, UNAI"
+    },
+    {
+      "min": 49,
+      "entra": "GOMEZ DOS SANTOS, ARKAITZ",
+      "sale": "DIEZ OTERO, IRAI"
+    },
+    {
+      "min": 72,
+      "entra": "BLANCO PEREDA, ADRIAN",
+      "sale": "FERNANDEZ GARRIDO, ARITZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "LEIVA LOPEZ, EKAIN": 90,
+    "AUDU ALBISU, DAVID": 41,
+    "GARCIA ARRANZ, IKER": 72,
+    "GONZALEZ DEL RIO, ARATZ": 90,
+    "DE LA QUINTANA SANCHEZ, ANER": 90,
+    "RESCO DE PONGA, BEÑAT": 90,
+    "ANTA BUESO, LIHER": 90,
+    "VIVANCO HERNANDEZ, MIKEL": 65,
+    "REYES MARTINEZ, JAGOBA": 90,
+    "MONTERO ROLDAN, JULEN": 90,
+    "YAÑEZ SANDIVAR, CARLOS ANTONIO": 41,
+    "VALLE MUÑOZ, AIMAR": 49,
+    "LOPEZ ARRIBAS, BEÑAT": 49,
+    "DE LA CRUZ BARRUL, JOEL": 25,
+    "PEREZ CASTAÑEDA, MARKEL": 18,
+    "SANCHEZ MOURE, UNAI": 90,
+    "PRIETO SANCHO, ASIER": 90,
+    "FERNANDEZ GARRIDO, ARITZ": 72,
+    "OCIO SANCHEZ, OIHAN": 90,
+    "PRIETO SANCHO, IAN": 90,
+    "DIEZ OTERO, IRAI": 49,
+    "HOYOS VALLEJO, EDER": 90,
+    "GONZALEZ MOSQUERA, DIEGO": 90,
+    "LASTRA SANTOS, UNAI": 49,
+    "FERNANDEZ VAZQUEZ, MARIO": 49,
+    "MARTIN PUERTAS, ENEKO": 90,
+    "SANZ SALGADO, JORITZ": 41,
+    "RENDO RIAL, JULEN": 41,
+    "GOMEZ DOS SANTOS, ARKAITZ": 41,
+    "BLANCO PEREDA, ADRIAN": 18
+  },
+  "portero_local": "LEIVA LOPEZ, EKAIN",
+  "portero_visitante": "SANCHEZ MOURE, UNAI",
+  "dorsales_local": {
+    "LEIVA LOPEZ, EKAIN": 1,
+    "AUDU ALBISU, DAVID": 2,
+    "GARCIA ARRANZ, IKER": 3,
+    "GONZALEZ DEL RIO, ARATZ": 4,
+    "DE LA QUINTANA SANCHEZ, ANER": 5,
+    "RESCO DE PONGA, BEÑAT": 7,
+    "ANTA BUESO, LIHER": 8,
+    "VIVANCO HERNANDEZ, MIKEL": 9,
+    "REYES MARTINEZ, JAGOBA": 16,
+    "MONTERO ROLDAN, JULEN": 18,
+    "YAÑEZ SANDIVAR, CARLOS ANTONIO": 22
+  },
+  "dorsales_visitante": {
+    "SANCHEZ MOURE, UNAI": 1,
+    "PRIETO SANCHO, ASIER": 3,
+    "FERNANDEZ GARRIDO, ARITZ": 6,
+    "OCIO SANCHEZ, OIHAN": 8,
+    "PRIETO SANCHO, IAN": 9,
+    "DIEZ OTERO, IRAI": 10,
+    "HOYOS VALLEJO, EDER": 16,
+    "GONZALEZ MOSQUERA, DIEGO": 18,
+    "LASTRA SANTOS, UNAI": 20,
+    "FERNANDEZ VAZQUEZ, MARIO": 21,
+    "MARTIN PUERTAS, ENEKO": 23
+  },
+  "suspendidos": []
+}
