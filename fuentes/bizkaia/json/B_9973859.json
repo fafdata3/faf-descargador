@@ -1,0 +1,254 @@
+{
+  "acta_id": "B_9973859",
+  "filename": "Acta_B_9973859.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 28,
+  "fecha": "26-04-2026",
+  "hora": "12:00",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 7)",
+  "equipo_local": "GALDAKAO B",
+  "equipo_visitante": "BOSCO",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "PEÑA RAMOS, IÑIGO"
+  ],
+  "estadio": "SANTA BARBARA",
+  "ciudad": "Galdakao",
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "CASTRO GARCIA, ROBERTO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "MATIAS GALARRAGA, LIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "EZKURDIA ORUE, PEIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "BOSCO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SAN JOSE LOPEZ, JONATAN",
+  "entrenador_visitante": "MARTINEZ MUÑOZ, MARIANO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SENE AKA, AYA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DIEZ BELLOSO, RUBEN",
+  "delegado_equipo_visitante": "AYESTA TOTORICAGÜENA, FRANCISCO JAVIER",
+  "titulares_local": [
+    "HERNANDEZ FERNANDEZ, IMANOL",
+    "GONZALEZ CASTILLO, IÑIGO",
+    "EZKURDIA ORUE, PEIO",
+    "LANDETA DIEZ, UNAI",
+    "VALLEJO FERNANDEZ, AKETZA",
+    "CASTRO GARCIA, ROBERTO",
+    "MATIAS GALARRAGA, LIER",
+    "RUBIO MIRAGAYA, XABIER",
+    "VILLAVERDE SAGASTIGORDIA, UNAI",
+    "YANG XU, ZHICHEN",
+    "HUERTA ROJO, MARKEL"
+  ],
+  "titulares_visitante": [
+    "LAMAS CORRES, MIKEL",
+    "RUIZ MONTES, OIHAN",
+    "REQUENA RUIZ, JOSU",
+    "FRONTELA GUIMAREY, ALAIN",
+    "GUILLERMO MORENO, ENAITZ",
+    "LACAL VILA, MARTIN",
+    "LOPEZ FERNANDEZ, DANEL",
+    "GOMEZ GARCIMARTIN, ENEKO",
+    "MARTIN GALLASTEGUI, MIKEL",
+    "RODRIGUEZ CACHARRON, ENEKO",
+    "ZENARRUZABEITIA ORDOÑEZ, IKER"
+  ],
+  "suplentes_local": [
+    "DIEZ VALIENTE, MARKEL",
+    "FRANCO MELCHOR, SANTIAGO",
+    "GUEYE, SERIGNE ABDOU KHADRE",
+    "MUÑOZ GONZALEZ, ALEX",
+    "BEITIA CABALLERO, ANDER",
+    "MARTINEZ REVOLLO, AIMAR"
+  ],
+  "suplentes_visitante": [
+    "CONTENTO JIMENEZ, ALEX ALBERTO",
+    "LOPEZ ORVIZ, JULEN",
+    "MARTIN MORILLA, EUKEN",
+    "FERNANDEZ PEREZ, ANDER",
+    "CHEN, JUNHE"
+  ],
+  "convocados_sin_jugar_local": [
+    "DIEZ VALIENTE, MARKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CONTENTO JIMENEZ, ALEX ALBERTO"
+  ],
+  "jugadores_local": [
+    "HERNANDEZ FERNANDEZ, IMANOL",
+    "GONZALEZ CASTILLO, IÑIGO",
+    "EZKURDIA ORUE, PEIO",
+    "LANDETA DIEZ, UNAI",
+    "VALLEJO FERNANDEZ, AKETZA",
+    "CASTRO GARCIA, ROBERTO",
+    "MATIAS GALARRAGA, LIER",
+    "RUBIO MIRAGAYA, XABIER",
+    "VILLAVERDE SAGASTIGORDIA, UNAI",
+    "YANG XU, ZHICHEN",
+    "HUERTA ROJO, MARKEL",
+    "BEITIA CABALLERO, ANDER",
+    "MARTINEZ REVOLLO, AIMAR",
+    "FRANCO MELCHOR, SANTIAGO",
+    "MUÑOZ GONZALEZ, ALEX",
+    "GUEYE, SERIGNE ABDOU KHADRE"
+  ],
+  "jugadores_visitante": [
+    "LAMAS CORRES, MIKEL",
+    "RUIZ MONTES, OIHAN",
+    "REQUENA RUIZ, JOSU",
+    "FRONTELA GUIMAREY, ALAIN",
+    "GUILLERMO MORENO, ENAITZ",
+    "LACAL VILA, MARTIN",
+    "LOPEZ FERNANDEZ, DANEL",
+    "GOMEZ GARCIMARTIN, ENEKO",
+    "MARTIN GALLASTEGUI, MIKEL",
+    "RODRIGUEZ CACHARRON, ENEKO",
+    "ZENARRUZABEITIA ORDOÑEZ, IKER",
+    "FERNANDEZ PEREZ, ANDER",
+    "MARTIN MORILLA, EUKEN",
+    "CHEN, JUNHE",
+    "LOPEZ ORVIZ, JULEN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "BEITIA CABALLERO, ANDER",
+      "sale": "VALLEJO FERNANDEZ, AKETZA"
+    },
+    {
+      "min": 53,
+      "entra": "MARTINEZ REVOLLO, AIMAR",
+      "sale": "LANDETA DIEZ, UNAI"
+    },
+    {
+      "min": 60,
+      "entra": "FRANCO MELCHOR, SANTIAGO",
+      "sale": "VILLAVERDE SAGASTIGORDIA, UNAI"
+    },
+    {
+      "min": 63,
+      "entra": "MUÑOZ GONZALEZ, ALEX",
+      "sale": "RUBIO MIRAGAYA, XABIER"
+    },
+    {
+      "min": 63,
+      "entra": "GUEYE, SERIGNE ABDOU KHADRE",
+      "sale": "HUERTA ROJO, MARKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 65,
+      "entra": "FERNANDEZ PEREZ, ANDER",
+      "sale": "LOPEZ FERNANDEZ, DANEL"
+    },
+    {
+      "min": 76,
+      "entra": "MARTIN MORILLA, EUKEN",
+      "sale": "LACAL VILA, MARTIN"
+    },
+    {
+      "min": 76,
+      "entra": "CHEN, JUNHE",
+      "sale": "GOMEZ GARCIMARTIN, ENEKO"
+    },
+    {
+      "min": 76,
+      "entra": "LOPEZ ORVIZ, JULEN",
+      "sale": "ZENARRUZABEITIA ORDOÑEZ, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "HERNANDEZ FERNANDEZ, IMANOL": 90,
+    "GONZALEZ CASTILLO, IÑIGO": 90,
+    "EZKURDIA ORUE, PEIO": 90,
+    "LANDETA DIEZ, UNAI": 53,
+    "VALLEJO FERNANDEZ, AKETZA": 45,
+    "CASTRO GARCIA, ROBERTO": 90,
+    "MATIAS GALARRAGA, LIER": 90,
+    "RUBIO MIRAGAYA, XABIER": 63,
+    "VILLAVERDE SAGASTIGORDIA, UNAI": 60,
+    "YANG XU, ZHICHEN": 90,
+    "HUERTA ROJO, MARKEL": 63,
+    "BEITIA CABALLERO, ANDER": 45,
+    "MARTINEZ REVOLLO, AIMAR": 37,
+    "FRANCO MELCHOR, SANTIAGO": 30,
+    "MUÑOZ GONZALEZ, ALEX": 27,
+    "GUEYE, SERIGNE ABDOU KHADRE": 27,
+    "LAMAS CORRES, MIKEL": 90,
+    "RUIZ MONTES, OIHAN": 90,
+    "REQUENA RUIZ, JOSU": 90,
+    "FRONTELA GUIMAREY, ALAIN": 90,
+    "GUILLERMO MORENO, ENAITZ": 90,
+    "LACAL VILA, MARTIN": 76,
+    "LOPEZ FERNANDEZ, DANEL": 65,
+    "GOMEZ GARCIMARTIN, ENEKO": 76,
+    "MARTIN GALLASTEGUI, MIKEL": 90,
+    "RODRIGUEZ CACHARRON, ENEKO": 90,
+    "ZENARRUZABEITIA ORDOÑEZ, IKER": 76,
+    "FERNANDEZ PEREZ, ANDER": 25,
+    "MARTIN MORILLA, EUKEN": 14,
+    "CHEN, JUNHE": 14,
+    "LOPEZ ORVIZ, JULEN": 14
+  },
+  "portero_local": "HERNANDEZ FERNANDEZ, IMANOL",
+  "portero_visitante": "LAMAS CORRES, MIKEL",
+  "dorsales_local": {
+    "HERNANDEZ FERNANDEZ, IMANOL": 1,
+    "GONZALEZ CASTILLO, IÑIGO": 2,
+    "EZKURDIA ORUE, PEIO": 5,
+    "LANDETA DIEZ, UNAI": 12,
+    "VALLEJO FERNANDEZ, AKETZA": 14,
+    "CASTRO GARCIA, ROBERTO": 15,
+    "MATIAS GALARRAGA, LIER": 16,
+    "RUBIO MIRAGAYA, XABIER": 18,
+    "VILLAVERDE SAGASTIGORDIA, UNAI": 19,
+    "YANG XU, ZHICHEN": 20,
+    "HUERTA ROJO, MARKEL": 22
+  },
+  "dorsales_visitante": {
+    "LAMAS CORRES, MIKEL": 1,
+    "RUIZ MONTES, OIHAN": 3,
+    "REQUENA RUIZ, JOSU": 4,
+    "FRONTELA GUIMAREY, ALAIN": 5,
+    "GUILLERMO MORENO, ENAITZ": 7,
+    "LACAL VILA, MARTIN": 12,
+    "LOPEZ FERNANDEZ, DANEL": 14,
+    "GOMEZ GARCIMARTIN, ENEKO": 16,
+    "MARTIN GALLASTEGUI, MIKEL": 18,
+    "RODRIGUEZ CACHARRON, ENEKO": 22,
+    "ZENARRUZABEITIA ORDOÑEZ, IKER": 23
+  },
+  "suspendidos": []
+}
