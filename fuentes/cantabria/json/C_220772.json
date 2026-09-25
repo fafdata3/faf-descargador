@@ -1,0 +1,283 @@
+{
+  "acta_id": "C_220772",
+  "filename": "Acta_C_220772.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "24-01-2026",
+  "hora": "10:05",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "REAL RACING CLUB SAD A",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 7,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RUIZ BAHAMONTES, OSCAR"
+  ],
+  "estadio": "Inst. Nando Yosu 3",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "BARRANQUERO RUIZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 7,
+      "jugador": "SOMAVILLA HERRERA, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "VIGIL CAMPO, ALEX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "CORTABITARTE SOBERON, HERNAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "FERNANDEZ GOMEZ, MATEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "FERNANDEZ GOMEZ, MATEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "CORTABITARTE SOBERON, HERNAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "PALLARUELO VELAZQUEZ, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "C.D. LAREDO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CANALES GARCIA, ASIER",
+  "entrenador_visitante": "ROMANO ROSEÑADA, DAVID",
+  "segundo_entrenador_local": "GOMEZ ALVARO, JOSE ANTONIO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ARCE SAINZ, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARCE SAINZ, JAVIER",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "FERNANDEZ GOMEZ, MARIO",
+    "GALBIS CEREZO, NICOLAS",
+    "SOMAVILLA HERRERA, LUCAS",
+    "BARRANQUERO RUIZ, ALVARO",
+    "PÉREZ BARQUIN, ALEIX",
+    "GONZALEZ PAREDES, AIMAR",
+    "PALLARUELO VELAZQUEZ, ADRIAN",
+    "VIGIL CAMPO, ALEX",
+    "CORTABITARTE SOBERON, HERNAN",
+    "IÑAN ESTEVEZ, GONZALO",
+    "VIGO GARCIA, BORJA"
+  ],
+  "titulares_visitante": [
+    "BRINGAS LLANO, HUGO",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "LOPEZ ORTEGA, DYLAN",
+    "ECHEVARRIA ARGUL, LEO",
+    "BARANDA HERRERA, JUAN JOSE",
+    "AMUTIO CASADO, GABRIEL",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "GUERRERO GARCÍA, DEIVID",
+    "ABASCAL DACOSTA, RUBEN"
+  ],
+  "suplentes_local": [
+    "PAEZ MARIN, HEVER ADRIAN",
+    "GALBIS CEREZO, MATEO",
+    "ARGOITIA IGUAL, AIMAR",
+    "BUENAGA SALAS, DAVID",
+    "FERNANDEZ GOMEZ, MATEO"
+  ],
+  "suplentes_visitante": [
+    "RAYS VIERA DE SA, THIAGO",
+    "CASANUEVA LÓPEZ, MIGUEL",
+    "LAHUERTA RUIZ, ARITZA",
+    "RODRIGUEZ ECHEVARRIA, FRAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ GOMEZ, MARIO",
+    "GALBIS CEREZO, NICOLAS",
+    "SOMAVILLA HERRERA, LUCAS",
+    "BARRANQUERO RUIZ, ALVARO",
+    "PÉREZ BARQUIN, ALEIX",
+    "GONZALEZ PAREDES, AIMAR",
+    "PALLARUELO VELAZQUEZ, ADRIAN",
+    "VIGIL CAMPO, ALEX",
+    "CORTABITARTE SOBERON, HERNAN",
+    "IÑAN ESTEVEZ, GONZALO",
+    "VIGO GARCIA, BORJA",
+    "PAEZ MARIN, HEVER ADRIAN",
+    "GALBIS CEREZO, MATEO",
+    "ARGOITIA IGUAL, AIMAR",
+    "BUENAGA SALAS, DAVID",
+    "FERNANDEZ GOMEZ, MATEO"
+  ],
+  "jugadores_visitante": [
+    "BRINGAS LLANO, HUGO",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "LOPEZ ORTEGA, DYLAN",
+    "ECHEVARRIA ARGUL, LEO",
+    "BARANDA HERRERA, JUAN JOSE",
+    "AMUTIO CASADO, GABRIEL",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "GUERRERO GARCÍA, DEIVID",
+    "ABASCAL DACOSTA, RUBEN",
+    "RAYS VIERA DE SA, THIAGO",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "LAHUERTA RUIZ, ARITZA",
+    "CASANUEVA LÓPEZ, MIGUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "PAEZ MARIN, HEVER ADRIAN",
+      "sale": "FERNANDEZ GOMEZ, MARIO"
+    },
+    {
+      "min": 35,
+      "entra": "GALBIS CEREZO, MATEO",
+      "sale": "SOMAVILLA HERRERA, LUCAS"
+    },
+    {
+      "min": 35,
+      "entra": "ARGOITIA IGUAL, AIMAR",
+      "sale": "GALBIS CEREZO, NICOLAS"
+    },
+    {
+      "min": 35,
+      "entra": "BUENAGA SALAS, DAVID",
+      "sale": "BARRANQUERO RUIZ, ALVARO"
+    },
+    {
+      "min": 35,
+      "entra": "FERNANDEZ GOMEZ, MATEO",
+      "sale": "IÑAN ESTEVEZ, GONZALO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "RAYS VIERA DE SA, THIAGO",
+      "sale": "BRINGAS LLANO, HUGO"
+    },
+    {
+      "min": 43,
+      "entra": "RODRIGUEZ ECHEVARRIA, FRAN",
+      "sale": "BARANDA HERRERA, JUAN JOSE"
+    },
+    {
+      "min": 43,
+      "entra": "LAHUERTA RUIZ, ARITZA",
+      "sale": "AMUTIO CASADO, GABRIEL"
+    },
+    {
+      "min": 48,
+      "entra": "CASANUEVA LÓPEZ, MIGUEL",
+      "sale": "GUERRERO GARCÍA, DEIVID"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ GOMEZ, MARIO": 35,
+    "GALBIS CEREZO, NICOLAS": 35,
+    "SOMAVILLA HERRERA, LUCAS": 35,
+    "BARRANQUERO RUIZ, ALVARO": 35,
+    "PÉREZ BARQUIN, ALEIX": 90,
+    "GONZALEZ PAREDES, AIMAR": 90,
+    "PALLARUELO VELAZQUEZ, ADRIAN": 90,
+    "VIGIL CAMPO, ALEX": 90,
+    "CORTABITARTE SOBERON, HERNAN": 90,
+    "IÑAN ESTEVEZ, GONZALO": 35,
+    "VIGO GARCIA, BORJA": 90,
+    "PAEZ MARIN, HEVER ADRIAN": 55,
+    "GALBIS CEREZO, MATEO": 55,
+    "ARGOITIA IGUAL, AIMAR": 55,
+    "BUENAGA SALAS, DAVID": 55,
+    "FERNANDEZ GOMEZ, MATEO": 55,
+    "BRINGAS LLANO, HUGO": 35,
+    "BECI CARRERA, EDUARDO": 90,
+    "PASCUAL ARANA, ELEDER": 90,
+    "LOPEZ ORTEGA, DYLAN": 90,
+    "ECHEVARRIA ARGUL, LEO": 90,
+    "BARANDA HERRERA, JUAN JOSE": 43,
+    "AMUTIO CASADO, GABRIEL": 43,
+    "ARISQUETA GUTIERREZ, CARLOS": 90,
+    "GONZALEZ FERNANDEZ, GABRIEL": 90,
+    "GUERRERO GARCÍA, DEIVID": 48,
+    "ABASCAL DACOSTA, RUBEN": 90,
+    "RAYS VIERA DE SA, THIAGO": 55,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 47,
+    "LAHUERTA RUIZ, ARITZA": 47,
+    "CASANUEVA LÓPEZ, MIGUEL": 42
+  },
+  "portero_local": "FERNANDEZ GOMEZ, MARIO",
+  "portero_visitante": "BRINGAS LLANO, HUGO",
+  "dorsales_local": {
+    "FERNANDEZ GOMEZ, MARIO": 1,
+    "GALBIS CEREZO, NICOLAS": 2,
+    "SOMAVILLA HERRERA, LUCAS": 3,
+    "BARRANQUERO RUIZ, ALVARO": 4,
+    "PÉREZ BARQUIN, ALEIX": 5,
+    "GONZALEZ PAREDES, AIMAR": 6,
+    "PALLARUELO VELAZQUEZ, ADRIAN": 7,
+    "VIGIL CAMPO, ALEX": 8,
+    "CORTABITARTE SOBERON, HERNAN": 9,
+    "IÑAN ESTEVEZ, GONZALO": 10,
+    "VIGO GARCIA, BORJA": 11
+  },
+  "dorsales_visitante": {
+    "BRINGAS LLANO, HUGO": 1,
+    "BECI CARRERA, EDUARDO": 3,
+    "PASCUAL ARANA, ELEDER": 4,
+    "LOPEZ ORTEGA, DYLAN": 5,
+    "ECHEVARRIA ARGUL, LEO": 6,
+    "BARANDA HERRERA, JUAN JOSE": 7,
+    "AMUTIO CASADO, GABRIEL": 8,
+    "ARISQUETA GUTIERREZ, CARLOS": 9,
+    "GONZALEZ FERNANDEZ, GABRIEL": 10,
+    "GUERRERO GARCÍA, DEIVID": 11,
+    "ABASCAL DACOSTA, RUBEN": 26
+  },
+  "suspendidos": []
+}
