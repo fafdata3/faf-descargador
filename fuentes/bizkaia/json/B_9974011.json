@@ -1,0 +1,383 @@
+{
+  "acta_id": "B_9974011",
+  "filename": "Acta_B_9974011.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "01-02-2026",
+  "hora": "12:00",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 8)",
+  "equipo_local": "ZORROZA",
+  "equipo_visitante": "SALESIANOS",
+  "goles_local": 7,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "VALLEJO CORRAL, IKER"
+  ],
+  "estadio": "P.M. ZORROZA",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "CERRO MATEOS, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "GONZALEZ ARRANZ, AITOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "MURILLO MELGAR, KENAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "GONZALEZ ARRANZ, AITOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "RAMIREZ CALLE, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "MURILLO MELGAR, KENAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "MURILLO MELGAR, KENAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "GONZALEZ ARRANZ, AITOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 59,
+      "jugador": "DOMINGUEZ FREIJE, IBON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "SALESIANOS",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "CALLE SOBRON, DAVID",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 41,
+      "jugador": "Babesle ofizialak",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "Pribatutasun Politikak",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "Cookien politika",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "Lege Oharra",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "COSME ETXEBARRIETA 5, 1.a",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "KIROL ETXEA - MARTÍN BARUA PICAZA, 27",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "BILBO (BIZKAIA)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "federacion@fvf-bff.eus",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "944 23 61 98",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "944 24 21 80",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "BIZKAIKO FUTBOL FEDERAKUNDEA - VIZCAÍNA FUTBOL FEDERAZIOA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JIMENEZ GARCIA, AITOR",
+  "entrenador_visitante": "FERNANDEZ CUCO, RUBEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PASTOR HERRERO, UNAX",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PASTOR HERRERO, UNAX",
+  "delegado_equipo_visitante": "CALLE SOBRON, DAVID",
+  "titulares_local": [
+    "PEREZ ALONSO, JON IÑAKI",
+    "GONZALEZ ARRANZ, AITOR",
+    "PANCHENKO LIRNICHENKO, IGOR",
+    "MARIN MARTINEZ, IGOR",
+    "SANTIDRIAN DE LA DEHESA, UNAX",
+    "MARTINEZ MENO, HEGOI",
+    "MURILLO MELGAR, KENAI",
+    "CUESTA GONZALEZ, IKER",
+    "CERRO MATEOS, AIMAR",
+    "CARDONA QUINTANA, UNAI",
+    "DOMINGUEZ FREIJE, IBON"
+  ],
+  "titulares_visitante": [
+    "LLOBREGAT SERRANO, IZAN",
+    "ORTIZ BOULANDIER, AITOR",
+    "VILLANUEVA CAMBRA, ASIER",
+    "ALDEKOETXEA ITURRIZA, JOKIN",
+    "DIAZ VELASCO, UNAI",
+    "SOLARTE ERAZO, MARKEL",
+    "SAIZ MIMENZA, GAIZKA",
+    "ORTIZ DE ARTIÑANO DELGADO, GABRIEL",
+    "BRIÑAS VELASCO, ARITZ",
+    "PILDAIN ARANGUREN, ENEKO",
+    "FORMARIZ HERNANDEZ, HAITZ"
+  ],
+  "suplentes_local": [
+    "ROMERO SANTOS, MARKEL",
+    "COTO HILLERA, ZIGOR",
+    "SANCHA DELGADO, MIKEL",
+    "FLORES VELEZ, EKAITZ",
+    "ORTEGA VILLARAN, SERGIO"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ MERINO, AIMAR",
+    "GRANADOS ARTAL, EKAIN",
+    "ROMERO GARCIA, ARITZ",
+    "LOPEZ CORREAS, ERIC",
+    "ALVAREZ DE EULATE CORREAS, MARTIN",
+    "RAMIREZ CALLE, MIKEL",
+    "CALLE UGARTE, AROTZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "FLORES VELEZ, EKAITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GONZALEZ MERINO, AIMAR",
+    "CALLE UGARTE, AROTZ"
+  ],
+  "jugadores_local": [
+    "PEREZ ALONSO, JON IÑAKI",
+    "GONZALEZ ARRANZ, AITOR",
+    "PANCHENKO LIRNICHENKO, IGOR",
+    "MARIN MARTINEZ, IGOR",
+    "SANTIDRIAN DE LA DEHESA, UNAX",
+    "MARTINEZ MENO, HEGOI",
+    "MURILLO MELGAR, KENAI",
+    "CUESTA GONZALEZ, IKER",
+    "CERRO MATEOS, AIMAR",
+    "CARDONA QUINTANA, UNAI",
+    "DOMINGUEZ FREIJE, IBON",
+    "COTO HILLERA, ZIGOR",
+    "ROMERO SANTOS, MARKEL",
+    "ORTEGA VILLARAN, SERGIO",
+    "SANCHA DELGADO, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "LLOBREGAT SERRANO, IZAN",
+    "ORTIZ BOULANDIER, AITOR",
+    "VILLANUEVA CAMBRA, ASIER",
+    "ALDEKOETXEA ITURRIZA, JOKIN",
+    "DIAZ VELASCO, UNAI",
+    "SOLARTE ERAZO, MARKEL",
+    "SAIZ MIMENZA, GAIZKA",
+    "ORTIZ DE ARTIÑANO DELGADO, GABRIEL",
+    "BRIÑAS VELASCO, ARITZ",
+    "PILDAIN ARANGUREN, ENEKO",
+    "FORMARIZ HERNANDEZ, HAITZ",
+    "RAMIREZ CALLE, MIKEL",
+    "LOPEZ CORREAS, ERIC",
+    "GRANADOS ARTAL, EKAIN",
+    "ROMERO GARCIA, ARITZ",
+    "ALVAREZ DE EULATE CORREAS, MARTIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "COTO HILLERA, ZIGOR",
+      "sale": "MARIN MARTINEZ, IGOR"
+    },
+    {
+      "min": 60,
+      "entra": "ROMERO SANTOS, MARKEL",
+      "sale": "DOMINGUEZ FREIJE, IBON"
+    },
+    {
+      "min": 82,
+      "entra": "ORTEGA VILLARAN, SERGIO",
+      "sale": "SANTIDRIAN DE LA DEHESA, UNAX"
+    },
+    {
+      "min": 82,
+      "entra": "SANCHA DELGADO, MIKEL",
+      "sale": "MARTINEZ MENO, HEGOI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "RAMIREZ CALLE, MIKEL",
+      "sale": "SOLARTE ERAZO, MARKEL"
+    },
+    {
+      "min": 67,
+      "entra": "LOPEZ CORREAS, ERIC",
+      "sale": "DIAZ VELASCO, UNAI"
+    },
+    {
+      "min": 72,
+      "entra": "GRANADOS ARTAL, EKAIN",
+      "sale": "ORTIZ DE ARTIÑANO DELGADO, GABRIEL"
+    },
+    {
+      "min": 72,
+      "entra": "ROMERO GARCIA, ARITZ",
+      "sale": "PILDAIN ARANGUREN, ENEKO"
+    },
+    {
+      "min": 72,
+      "entra": "ALVAREZ DE EULATE CORREAS, MARTIN",
+      "sale": "ALDEKOETXEA ITURRIZA, JOKIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ ALONSO, JON IÑAKI": 90,
+    "GONZALEZ ARRANZ, AITOR": 90,
+    "PANCHENKO LIRNICHENKO, IGOR": 90,
+    "MARIN MARTINEZ, IGOR": 53,
+    "SANTIDRIAN DE LA DEHESA, UNAX": 82,
+    "MARTINEZ MENO, HEGOI": 82,
+    "MURILLO MELGAR, KENAI": 90,
+    "CUESTA GONZALEZ, IKER": 90,
+    "CERRO MATEOS, AIMAR": 90,
+    "CARDONA QUINTANA, UNAI": 90,
+    "DOMINGUEZ FREIJE, IBON": 60,
+    "COTO HILLERA, ZIGOR": 37,
+    "ROMERO SANTOS, MARKEL": 30,
+    "ORTEGA VILLARAN, SERGIO": 8,
+    "SANCHA DELGADO, MIKEL": 8,
+    "LLOBREGAT SERRANO, IZAN": 90,
+    "ORTIZ BOULANDIER, AITOR": 90,
+    "VILLANUEVA CAMBRA, ASIER": 90,
+    "ALDEKOETXEA ITURRIZA, JOKIN": 72,
+    "DIAZ VELASCO, UNAI": 67,
+    "SOLARTE ERAZO, MARKEL": 45,
+    "SAIZ MIMENZA, GAIZKA": 90,
+    "ORTIZ DE ARTIÑANO DELGADO, GABRIEL": 72,
+    "BRIÑAS VELASCO, ARITZ": 90,
+    "PILDAIN ARANGUREN, ENEKO": 72,
+    "FORMARIZ HERNANDEZ, HAITZ": 90,
+    "RAMIREZ CALLE, MIKEL": 45,
+    "LOPEZ CORREAS, ERIC": 23,
+    "GRANADOS ARTAL, EKAIN": 18,
+    "ROMERO GARCIA, ARITZ": 18,
+    "ALVAREZ DE EULATE CORREAS, MARTIN": 18
+  },
+  "portero_local": "PEREZ ALONSO, JON IÑAKI",
+  "portero_visitante": "LLOBREGAT SERRANO, IZAN",
+  "dorsales_local": {
+    "PEREZ ALONSO, JON IÑAKI": 1,
+    "GONZALEZ ARRANZ, AITOR": 2,
+    "PANCHENKO LIRNICHENKO, IGOR": 4,
+    "MARIN MARTINEZ, IGOR": 7,
+    "SANTIDRIAN DE LA DEHESA, UNAX": 8,
+    "MARTINEZ MENO, HEGOI": 9,
+    "MURILLO MELGAR, KENAI": 10,
+    "CUESTA GONZALEZ, IKER": 12,
+    "CERRO MATEOS, AIMAR": 17,
+    "CARDONA QUINTANA, UNAI": 20,
+    "DOMINGUEZ FREIJE, IBON": 22
+  },
+  "dorsales_visitante": {
+    "LLOBREGAT SERRANO, IZAN": 13,
+    "ORTIZ BOULANDIER, AITOR": 4,
+    "VILLANUEVA CAMBRA, ASIER": 5,
+    "ALDEKOETXEA ITURRIZA, JOKIN": 9,
+    "DIAZ VELASCO, UNAI": 15,
+    "SOLARTE ERAZO, MARKEL": 16,
+    "SAIZ MIMENZA, GAIZKA": 19,
+    "ORTIZ DE ARTIÑANO DELGADO, GABRIEL": 20,
+    "BRIÑAS VELASCO, ARITZ": 21,
+    "PILDAIN ARANGUREN, ENEKO": 22,
+    "FORMARIZ HERNANDEZ, HAITZ": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
