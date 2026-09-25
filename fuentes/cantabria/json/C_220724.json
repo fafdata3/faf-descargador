@@ -1,0 +1,256 @@
+{
+  "acta_id": "C_220724",
+  "filename": "Acta_C_220724.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "29-11-2025",
+  "hora": "17:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA A",
+  "equipo_visitante": "REAL RACING CLUB SAD A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "QUEVEDO CALLEJA, DIEGO"
+  ],
+  "estadio": "El Malecón 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "VIGO GARCIA, BORJA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "NIETO MUÑIZ, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "SOMAVILLA HERRERA, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 59,
+      "jugador": "BARRANQUERO RUIZ, ALVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "URSUGUIA PELAEZ, ANGEL",
+  "entrenador_visitante": "CANALES GARCIA, ASIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GOMEZ ALVARO, JOSE ANTONIO",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ARCE SAINZ, JAVIER",
+  "titulares_local": [
+    "ORSOLINI PALENCIA, MARIO",
+    "MÚGICA BLANCO, HUGO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "CIEZA PEREZ, ASIER",
+    "SANCHEZ CUEVAS, SERGIO",
+    "RUIZ LOBETO, IZAN",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "IGLESIAS SANTIAGO, JULEN"
+  ],
+  "titulares_visitante": [
+    "PAEZ MARIN, HEVER ADRIAN",
+    "GONZALEZ PAREDES, AIMAR",
+    "SOMAVILLA HERRERA, LUCAS",
+    "BARRANQUERO RUIZ, ALVARO",
+    "PÉREZ BARQUIN, ALEIX",
+    "ARGOITIA IGUAL, AIMAR",
+    "VIGO GARCIA, BORJA",
+    "COLSA BARRIO, LEO",
+    "NIETO MUÑIZ, DIEGO",
+    "VIGIL CAMPO, ALEX",
+    "IÑAN ESTEVEZ, GONZALO"
+  ],
+  "suplentes_local": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MIER MONTES, ADRIAN",
+    "GOMEZ SANCHEZ, MARC",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "ABARRATEGUI GONZÁLEZ, JAIME"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ GOMEZ, MARIO",
+    "GALBIS CEREZO, NICOLAS",
+    "BUENAGA SALAS, DAVID",
+    "PALLARUELO VELAZQUEZ, ADRIAN",
+    "CORTABITARTE SOBERON, HERNAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ORSOLINI PALENCIA, MARIO",
+    "MÚGICA BLANCO, HUGO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "CIEZA PEREZ, ASIER",
+    "SANCHEZ CUEVAS, SERGIO",
+    "RUIZ LOBETO, IZAN",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "IGLESIAS SANTIAGO, JULEN",
+    "TRIGO SANTOS, ALEJANDRO",
+    "MIER MONTES, ADRIAN",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "ABARRATEGUI GONZÁLEZ, JAIME",
+    "GOMEZ SANCHEZ, MARC"
+  ],
+  "jugadores_visitante": [
+    "PAEZ MARIN, HEVER ADRIAN",
+    "GONZALEZ PAREDES, AIMAR",
+    "SOMAVILLA HERRERA, LUCAS",
+    "BARRANQUERO RUIZ, ALVARO",
+    "PÉREZ BARQUIN, ALEIX",
+    "ARGOITIA IGUAL, AIMAR",
+    "VIGO GARCIA, BORJA",
+    "COLSA BARRIO, LEO",
+    "NIETO MUÑIZ, DIEGO",
+    "VIGIL CAMPO, ALEX",
+    "IÑAN ESTEVEZ, GONZALO",
+    "CORTABITARTE SOBERON, HERNAN",
+    "GALBIS CEREZO, NICOLAS",
+    "PALLARUELO VELAZQUEZ, ADRIAN",
+    "FERNANDEZ GOMEZ, MARIO",
+    "BUENAGA SALAS, DAVID"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "TRIGO SANTOS, ALEJANDRO",
+      "sale": "ORSOLINI PALENCIA, MARIO"
+    },
+    {
+      "min": 46,
+      "entra": "MIER MONTES, ADRIAN",
+      "sale": "MÚGICA BLANCO, HUGO"
+    },
+    {
+      "min": 53,
+      "entra": "MAYORDOMO NAVARRO, CRISTIAN",
+      "sale": "RUIZ LOBETO, IZAN"
+    },
+    {
+      "min": 58,
+      "entra": "ABARRATEGUI GONZÁLEZ, JAIME",
+      "sale": "MENDARO TERAN, LUIS"
+    },
+    {
+      "min": 58,
+      "entra": "GOMEZ SANCHEZ, MARC",
+      "sale": "ALVAREZ DOMINGUEZ, SANTIAGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "CORTABITARTE SOBERON, HERNAN",
+      "sale": "IÑAN ESTEVEZ, GONZALO"
+    },
+    {
+      "min": 36,
+      "entra": "GALBIS CEREZO, NICOLAS",
+      "sale": "GONZALEZ PAREDES, AIMAR"
+    },
+    {
+      "min": 36,
+      "entra": "PALLARUELO VELAZQUEZ, ADRIAN",
+      "sale": "VIGO GARCIA, BORJA"
+    },
+    {
+      "min": 36,
+      "entra": "FERNANDEZ GOMEZ, MARIO",
+      "sale": "PAEZ MARIN, HEVER ADRIAN"
+    },
+    {
+      "min": 36,
+      "entra": "BUENAGA SALAS, DAVID",
+      "sale": "PÉREZ BARQUIN, ALEIX"
+    }
+  ],
+  "minutos_jugadores": {
+    "ORSOLINI PALENCIA, MARIO": 36,
+    "MÚGICA BLANCO, HUGO": 46,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 90,
+    "FERNANDEZ TOMAS, ALVARO": 90,
+    "LUQUE MARTINEZ, AIMAR": 90,
+    "CIEZA PEREZ, ASIER": 90,
+    "SANCHEZ CUEVAS, SERGIO": 90,
+    "RUIZ LOBETO, IZAN": 53,
+    "MENDARO TERAN, LUIS": 58,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 58,
+    "IGLESIAS SANTIAGO, JULEN": 90,
+    "TRIGO SANTOS, ALEJANDRO": 54,
+    "MIER MONTES, ADRIAN": 44,
+    "MAYORDOMO NAVARRO, CRISTIAN": 37,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 32,
+    "GOMEZ SANCHEZ, MARC": 32,
+    "PAEZ MARIN, HEVER ADRIAN": 36,
+    "GONZALEZ PAREDES, AIMAR": 36,
+    "SOMAVILLA HERRERA, LUCAS": 90,
+    "BARRANQUERO RUIZ, ALVARO": 90,
+    "PÉREZ BARQUIN, ALEIX": 36,
+    "ARGOITIA IGUAL, AIMAR": 90,
+    "VIGO GARCIA, BORJA": 36,
+    "COLSA BARRIO, LEO": 90,
+    "NIETO MUÑIZ, DIEGO": 90,
+    "VIGIL CAMPO, ALEX": 90,
+    "IÑAN ESTEVEZ, GONZALO": 36,
+    "CORTABITARTE SOBERON, HERNAN": 54,
+    "GALBIS CEREZO, NICOLAS": 54,
+    "PALLARUELO VELAZQUEZ, ADRIAN": 54,
+    "FERNANDEZ GOMEZ, MARIO": 54,
+    "BUENAGA SALAS, DAVID": 54
+  },
+  "portero_local": "ORSOLINI PALENCIA, MARIO",
+  "portero_visitante": "PAEZ MARIN, HEVER ADRIAN",
+  "dorsales_local": {
+    "ORSOLINI PALENCIA, MARIO": 13,
+    "MÚGICA BLANCO, HUGO": 3,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 4,
+    "FERNANDEZ TOMAS, ALVARO": 5,
+    "LUQUE MARTINEZ, AIMAR": 7,
+    "CIEZA PEREZ, ASIER": 8,
+    "SANCHEZ CUEVAS, SERGIO": 9,
+    "RUIZ LOBETO, IZAN": 10,
+    "MENDARO TERAN, LUIS": 11,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 16,
+    "IGLESIAS SANTIAGO, JULEN": 17
+  },
+  "dorsales_visitante": {
+    "PAEZ MARIN, HEVER ADRIAN": 1,
+    "GONZALEZ PAREDES, AIMAR": 2,
+    "SOMAVILLA HERRERA, LUCAS": 3,
+    "BARRANQUERO RUIZ, ALVARO": 4,
+    "PÉREZ BARQUIN, ALEIX": 5,
+    "ARGOITIA IGUAL, AIMAR": 6,
+    "VIGO GARCIA, BORJA": 7,
+    "COLSA BARRIO, LEO": 8,
+    "NIETO MUÑIZ, DIEGO": 9,
+    "VIGIL CAMPO, ALEX": 10,
+    "IÑAN ESTEVEZ, GONZALO": 11
+  },
+  "suspendidos": []
+}
