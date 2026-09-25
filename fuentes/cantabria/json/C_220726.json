@@ -1,0 +1,278 @@
+{
+  "acta_id": "C_220726",
+  "filename": "Acta_C_220726.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "29-11-2025",
+  "hora": "12:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "VELARDE C.F. A",
+  "equipo_visitante": "C.D. COLINDRES",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SALCINES GARCÍA, MARIO"
+  ],
+  "estadio": "Muriedas 2",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "BLAZQUEZ CALVO, JUAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "MIRANDA TOMEY, AARON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "VAZQUEZ GOMEZ, IKER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "CANO VELA, ARITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "ARCE ABASCAL, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 16,
+      "jugador": "RUIZ MUÑIZ, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 16,
+      "jugador": "C.D. COLINDRES",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "SALCINES DE LA FUENTE, LEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "SANCHEZ LOPEZ, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SALCINES PRIETO, LUIS FELIPE",
+  "entrenador_visitante": "FERNANDEZ MONTES, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MANZANARES MIJANGOS, DIEGO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MANZANARES MIJANGOS, DIEGO",
+  "delegado_equipo_visitante": "ALVAREZ OLIVEROS, CESAR",
+  "titulares_local": [
+    "SALCINES ZARCO, AYMAR",
+    "FRANCO RIEGO, LUCAS",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "PEÑA GONZALEZ, ALVARO",
+    "LAVIN TOCA, NECO",
+    "MARTINEZ GONZALEZ, DANIEL",
+    "PEREZ VILLA, DAVID",
+    "PELAYO GARCIA, NICOLAS"
+  ],
+  "titulares_visitante": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "SALCINES DE LA FUENTE, LEO",
+    "FRIAS ORTIZ, MARTIN",
+    "VAZQUEZ GOMEZ, IKER",
+    "GARAY BUSTOS, JOAN",
+    "BLAZQUEZ CALVO, JUAN",
+    "MIRANDA TOMEY, AARON",
+    "CANO VELA, OIER",
+    "VIÑAS ARNAU, JULIAN",
+    "VEGA SANTAMARIA, TOMAS",
+    "CANO VELA, ARITZ"
+  ],
+  "suplentes_local": [
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "DIEZ GARCIA, MATEO",
+    "SANCHEZ SOTO, MATEO",
+    "HOYOS ORTEGA, LUCA"
+  ],
+  "suplentes_visitante": [
+    "VALLE RUIZ, GONZALO",
+    "SANCHEZ LOPEZ, ALEJANDRO",
+    "RIVERA MARTINEZ, MANUEL",
+    "SILBERMANN BRIGIDO, LEONARD",
+    "ECHEVARRIA AEQUES, MARIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "HOYOS ORTEGA, LUCA"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SALCINES ZARCO, AYMAR",
+    "FRANCO RIEGO, LUCAS",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "PEÑA GONZALEZ, ALVARO",
+    "LAVIN TOCA, NECO",
+    "MARTINEZ GONZALEZ, DANIEL",
+    "PEREZ VILLA, DAVID",
+    "PELAYO GARCIA, NICOLAS",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "SANCHEZ SOTO, MATEO",
+    "DIEZ GARCIA, MATEO"
+  ],
+  "jugadores_visitante": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "SALCINES DE LA FUENTE, LEO",
+    "FRIAS ORTIZ, MARTIN",
+    "VAZQUEZ GOMEZ, IKER",
+    "GARAY BUSTOS, JOAN",
+    "BLAZQUEZ CALVO, JUAN",
+    "MIRANDA TOMEY, AARON",
+    "CANO VELA, OIER",
+    "VIÑAS ARNAU, JULIAN",
+    "VEGA SANTAMARIA, TOMAS",
+    "CANO VELA, ARITZ",
+    "VALLE RUIZ, GONZALO",
+    "SANCHEZ LOPEZ, ALEJANDRO",
+    "ECHEVARRIA AEQUES, MARIO",
+    "SILBERMANN BRIGIDO, LEONARD",
+    "RIVERA MARTINEZ, MANUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 32,
+      "entra": "DE ANDRÉS ORDIEREZ, RUBÉN",
+      "sale": "MUÑOZ MORA, HUGO"
+    },
+    {
+      "min": 35,
+      "entra": "SANCHEZ SOTO, MATEO",
+      "sale": "FRANCO RIEGO, LUCAS"
+    },
+    {
+      "min": 35,
+      "entra": "DIEZ GARCIA, MATEO",
+      "sale": "MARTINEZ GONZALEZ, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "VALLE RUIZ, GONZALO",
+      "sale": "VIÑAS ARNAU, JULIAN"
+    },
+    {
+      "min": 49,
+      "entra": "SANCHEZ LOPEZ, ALEJANDRO",
+      "sale": "BLAZQUEZ CALVO, JUAN"
+    },
+    {
+      "min": 49,
+      "entra": "ECHEVARRIA AEQUES, MARIO",
+      "sale": "VAZQUEZ GOMEZ, IKER"
+    },
+    {
+      "min": 55,
+      "entra": "SILBERMANN BRIGIDO, LEONARD",
+      "sale": "VEGA SANTAMARIA, TOMAS"
+    },
+    {
+      "min": 55,
+      "entra": "RIVERA MARTINEZ, MANUEL",
+      "sale": "MIRANDA TOMEY, AARON"
+    }
+  ],
+  "minutos_jugadores": {
+    "SALCINES ZARCO, AYMAR": 90,
+    "FRANCO RIEGO, LUCAS": 35,
+    "MUÑOZ MORA, HUGO": 32,
+    "RUIZ MUÑIZ, MARIO": 90,
+    "BARBA AGENJO, DARIO": 90,
+    "ARCE ABASCAL, DIEGO": 90,
+    "PEÑA GONZALEZ, ALVARO": 90,
+    "LAVIN TOCA, NECO": 90,
+    "MARTINEZ GONZALEZ, DANIEL": 35,
+    "PEREZ VILLA, DAVID": 90,
+    "PELAYO GARCIA, NICOLAS": 90,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 58,
+    "SANCHEZ SOTO, MATEO": 55,
+    "DIEZ GARCIA, MATEO": 55,
+    "ORDAS ARREDONDO, ISKANDER": 90,
+    "SALCINES DE LA FUENTE, LEO": 90,
+    "FRIAS ORTIZ, MARTIN": 90,
+    "VAZQUEZ GOMEZ, IKER": 49,
+    "GARAY BUSTOS, JOAN": 90,
+    "BLAZQUEZ CALVO, JUAN": 49,
+    "MIRANDA TOMEY, AARON": 55,
+    "CANO VELA, OIER": 90,
+    "VIÑAS ARNAU, JULIAN": 45,
+    "VEGA SANTAMARIA, TOMAS": 55,
+    "CANO VELA, ARITZ": 90,
+    "VALLE RUIZ, GONZALO": 45,
+    "SANCHEZ LOPEZ, ALEJANDRO": 41,
+    "ECHEVARRIA AEQUES, MARIO": 41,
+    "SILBERMANN BRIGIDO, LEONARD": 35,
+    "RIVERA MARTINEZ, MANUEL": 35
+  },
+  "portero_local": "SALCINES ZARCO, AYMAR",
+  "portero_visitante": "ORDAS ARREDONDO, ISKANDER",
+  "dorsales_local": {
+    "SALCINES ZARCO, AYMAR": 1,
+    "FRANCO RIEGO, LUCAS": 2,
+    "MUÑOZ MORA, HUGO": 3,
+    "RUIZ MUÑIZ, MARIO": 4,
+    "BARBA AGENJO, DARIO": 6,
+    "ARCE ABASCAL, DIEGO": 7,
+    "PEÑA GONZALEZ, ALVARO": 9,
+    "LAVIN TOCA, NECO": 10,
+    "MARTINEZ GONZALEZ, DANIEL": 11,
+    "PEREZ VILLA, DAVID": 15,
+    "PELAYO GARCIA, NICOLAS": 19
+  },
+  "dorsales_visitante": {
+    "ORDAS ARREDONDO, ISKANDER": 1,
+    "SALCINES DE LA FUENTE, LEO": 4,
+    "FRIAS ORTIZ, MARTIN": 6,
+    "VAZQUEZ GOMEZ, IKER": 7,
+    "GARAY BUSTOS, JOAN": 8,
+    "BLAZQUEZ CALVO, JUAN": 9,
+    "MIRANDA TOMEY, AARON": 10,
+    "CANO VELA, OIER": 11,
+    "VIÑAS ARNAU, JULIAN": 18,
+    "VEGA SANTAMARIA, TOMAS": 19,
+    "CANO VELA, ARITZ": 21
+  },
+  "suspendidos": []
+}
