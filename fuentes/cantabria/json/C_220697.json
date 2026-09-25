@@ -1,0 +1,269 @@
+{
+  "acta_id": "C_220697",
+  "filename": "Acta_C_220697.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 8,
+  "fecha": "09-11-2025",
+  "hora": "11:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. LAREDO A",
+  "equipo_visitante": "C.D. REVILLA A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CADELO CIMIANO, MARIO"
+  ],
+  "estadio": "Laredo 2",
+  "ciudad": "Laredo",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "GAVILANES LINAJE, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "DIEZ VELASCO, JUAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "GONZALEZ FERNANDEZ, GABRIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "GONZALEZ FERNANDEZ, GABRIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 17,
+      "jugador": "AMUTIO CASADO, GABRIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "GUERRERO GARCÍA, DEIVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "C.D. REVILLA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ESTRADA CANOVAS, MARIO",
+  "entrenador_visitante": "ALVAREZ CARRASCO, OSCAR E",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ OSORIO, JORGE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ OSORIO, JORGE",
+  "delegado_equipo_visitante": "HOZ MUÑOZ, JOSE ALBERTO",
+  "titulares_local": [
+    "BRINGAS LLANO, HUGO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "ECHEVARRIA ARGUL, LEO",
+    "AMUTIO CASADO, GABRIEL",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "GUERRERO GARCÍA, DEIVID",
+    "GAVILANES LINAJE, MARCO",
+    "ABASCAL DACOSTA, RUBEN"
+  ],
+  "titulares_visitante": [
+    "TORRE EXPOSITO, MARCO",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "PATIÑO OREJUELA, DAVID",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "FERRER PENAGOS, MARTÍN",
+    "CHAO VAL, YERAY"
+  ],
+  "suplentes_local": [
+    "RAYS VIERA DE SA, THIAGO",
+    "LOPEZ ORTEGA, DYLAN",
+    "ROIZ PEÑA, DAVID",
+    "LAHUERTA RUIZ, ARITZA",
+    "RODRIGUEZ ECHEVARRIA, FRAN"
+  ],
+  "suplentes_visitante": [
+    "ARCE GONZALEZ, JAIME",
+    "ALONSO IGLESIAS, MATEO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "RUIZ MARTINEZ, JULEN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BRINGAS LLANO, HUGO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "ECHEVARRIA ARGUL, LEO",
+    "AMUTIO CASADO, GABRIEL",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "GUERRERO GARCÍA, DEIVID",
+    "GAVILANES LINAJE, MARCO",
+    "ABASCAL DACOSTA, RUBEN",
+    "RAYS VIERA DE SA, THIAGO",
+    "LOPEZ ORTEGA, DYLAN",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "LAHUERTA RUIZ, ARITZA",
+    "ROIZ PEÑA, DAVID"
+  ],
+  "jugadores_visitante": [
+    "TORRE EXPOSITO, MARCO",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "PATIÑO OREJUELA, DAVID",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "FERRER PENAGOS, MARTÍN",
+    "CHAO VAL, YERAY",
+    "ARCE GONZALEZ, JAIME",
+    "ALONSO IGLESIAS, MATEO",
+    "RUIZ MARTINEZ, JULEN",
+    "REBOLLEDO GARCIA, OLIVER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "RAYS VIERA DE SA, THIAGO",
+      "sale": "BRINGAS LLANO, HUGO"
+    },
+    {
+      "min": 41,
+      "entra": "LOPEZ ORTEGA, DYLAN",
+      "sale": "AMUTIO CASADO, GABRIEL"
+    },
+    {
+      "min": 54,
+      "entra": "RODRIGUEZ ECHEVARRIA, FRAN",
+      "sale": "GUERRERO GARCÍA, DEIVID"
+    },
+    {
+      "min": 58,
+      "entra": "LAHUERTA RUIZ, ARITZA",
+      "sale": "ECHEVARRIA ARGUL, LEO"
+    },
+    {
+      "min": 71,
+      "entra": "ROIZ PEÑA, DAVID",
+      "sale": "ARISQUETA GUTIERREZ, CARLOS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "ARCE GONZALEZ, JAIME",
+      "sale": "TORRE EXPOSITO, MARCO"
+    },
+    {
+      "min": 35,
+      "entra": "ALONSO IGLESIAS, MATEO",
+      "sale": "CHAO VAL, YERAY"
+    },
+    {
+      "min": 41,
+      "entra": "RUIZ MARTINEZ, JULEN",
+      "sale": "FERRER PENAGOS, MARTÍN"
+    },
+    {
+      "min": 41,
+      "entra": "REBOLLEDO GARCIA, OLIVER",
+      "sale": "VAQUERO IGLESIAS, MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRINGAS LLANO, HUGO": 35,
+    "BARANZA PEÑA, DANIEL-STEVEN": 90,
+    "BECI CARRERA, EDUARDO": 90,
+    "PASCUAL ARANA, ELEDER": 90,
+    "ECHEVARRIA ARGUL, LEO": 58,
+    "AMUTIO CASADO, GABRIEL": 41,
+    "ARISQUETA GUTIERREZ, CARLOS": 71,
+    "GONZALEZ FERNANDEZ, GABRIEL": 90,
+    "GUERRERO GARCÍA, DEIVID": 54,
+    "GAVILANES LINAJE, MARCO": 90,
+    "ABASCAL DACOSTA, RUBEN": 90,
+    "RAYS VIERA DE SA, THIAGO": 55,
+    "LOPEZ ORTEGA, DYLAN": 49,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 36,
+    "LAHUERTA RUIZ, ARITZA": 32,
+    "ROIZ PEÑA, DAVID": 19,
+    "TORRE EXPOSITO, MARCO": 35,
+    "JIMENEZ GALDIANO, HUGO": 90,
+    "LOPEZ SAMANIEGO, FEDERICO": 90,
+    "JUANGO HERRERIA, ALVARO": 90,
+    "GUTIERREZ NEGRAL, YAGO": 90,
+    "DIEZ VELASCO, JUAN": 90,
+    "ANDERICA BALAGUER, MARIO": 90,
+    "PATIÑO OREJUELA, DAVID": 90,
+    "VAQUERO IGLESIAS, MIGUEL": 41,
+    "FERRER PENAGOS, MARTÍN": 41,
+    "CHAO VAL, YERAY": 35,
+    "ARCE GONZALEZ, JAIME": 55,
+    "ALONSO IGLESIAS, MATEO": 55,
+    "RUIZ MARTINEZ, JULEN": 49,
+    "REBOLLEDO GARCIA, OLIVER": 49
+  },
+  "portero_local": "BRINGAS LLANO, HUGO",
+  "portero_visitante": "TORRE EXPOSITO, MARCO",
+  "dorsales_local": {
+    "BRINGAS LLANO, HUGO": 1,
+    "BARANZA PEÑA, DANIEL-STEVEN": 2,
+    "BECI CARRERA, EDUARDO": 3,
+    "PASCUAL ARANA, ELEDER": 4,
+    "ECHEVARRIA ARGUL, LEO": 6,
+    "AMUTIO CASADO, GABRIEL": 8,
+    "ARISQUETA GUTIERREZ, CARLOS": 9,
+    "GONZALEZ FERNANDEZ, GABRIEL": 10,
+    "GUERRERO GARCÍA, DEIVID": 11,
+    "GAVILANES LINAJE, MARCO": 15,
+    "ABASCAL DACOSTA, RUBEN": 26
+  },
+  "dorsales_visitante": {
+    "TORRE EXPOSITO, MARCO": 1,
+    "JIMENEZ GALDIANO, HUGO": 2,
+    "LOPEZ SAMANIEGO, FEDERICO": 3,
+    "JUANGO HERRERIA, ALVARO": 4,
+    "GUTIERREZ NEGRAL, YAGO": 5,
+    "DIEZ VELASCO, JUAN": 6,
+    "ANDERICA BALAGUER, MARIO": 8,
+    "PATIÑO OREJUELA, DAVID": 11,
+    "VAQUERO IGLESIAS, MIGUEL": 17,
+    "FERRER PENAGOS, MARTÍN": 23,
+    "CHAO VAL, YERAY": 24
+  },
+  "suspendidos": []
+}
