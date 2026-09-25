@@ -1,0 +1,292 @@
+{
+  "acta_id": "B_9973823",
+  "filename": "Acta_B_9973823.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 23,
+  "fecha": "15-03-2026",
+  "hora": "13:30",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 7)",
+  "equipo_local": "SAN ESTEBAN",
+  "equipo_visitante": "SAN MIGUEL B",
+  "goles_local": 5,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "AGUILERA RICA, ASIER"
+  ],
+  "estadio": "MUNICIPAL A",
+  "ciudad": "Etxebarri",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "ROBLEDINOS ESTEVEZ, UNAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "ARIAS ALVAREZ, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "COTOREI, MISY SERGY COZMIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "LORENZO CANDO, IBAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 82,
+      "jugador": "URANGA ROMAN, ARKAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 83,
+      "jugador": "GOMEZ MARTIN, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "GASCON ARJONA, ASIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "SAN MIGUEL B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "LOMBARDIA HIDALGO, JOSEBA GOTZON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DUEÑAS ESPINOSA, EKAI",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DUEÑAS ESPINOSA, EKAI",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "GARCIA CAMPOS, ALEX",
+    "ROBLEDINOS ESTEVEZ, UNAI",
+    "LORENZO CANDO, IBAI",
+    "ARIAS ALVAREZ, AIMAR",
+    "MORALES ALVARO, MARIO",
+    "TUBIO SANGRONIZ, MIKEL",
+    "URANGA ROMAN, ARKAITZ",
+    "ANDRES GANDOY, IBAI",
+    "BILBAO GRANJA, ENEKO",
+    "VILLAR MARIN, BEÑAT",
+    "GASCON ARJONA, ASIER"
+  ],
+  "titulares_visitante": [
+    "HUERTAS BILBAO, GAIZKA",
+    "GARCIA OLABARRIETA, OIER",
+    "HIERRO GONZALEZ, AIMAR",
+    "CORTES COUTO, OIER",
+    "OLIVA OJEDA, IVAN",
+    "COTOREI, MISY SERGY COZMIN",
+    "BASABE FRANCISCO, MARKEL",
+    "POZUELO FERNANDEZ, ENAITZ",
+    "DIEGO GUTIERREZ, JEREMY",
+    "GARCIA CARRAL, UNAI",
+    "CANALES MENDIVIL, MIKEL"
+  ],
+  "suplentes_local": [
+    "PENOUCOS GARCIA, JON",
+    "CORDOBA DELGADO, ENEKO",
+    "LOPEZ GETINO, GORKA",
+    "ARANA MARTINEZ, ASIER",
+    "GOMEZ BUSTAMANTE, AIMAR",
+    "ZULUAGA ERRASTI, ASIER",
+    "GOMEZ MARTIN, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "CISNEROS CARPINTERO, URKO AMARU",
+    "VENTOSA HERNANDEZ, IBAI",
+    "JIMENEZ AGUIRRE, URDAX",
+    "SIERRA GARCIA, YERAY HERNAN",
+    "GALDEANO ESCURZA, IKER",
+    "PRIETO LOPEZ, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "PENOUCOS GARCIA, JON",
+    "ARANA MARTINEZ, ASIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CISNEROS CARPINTERO, URKO AMARU"
+  ],
+  "jugadores_local": [
+    "GARCIA CAMPOS, ALEX",
+    "ROBLEDINOS ESTEVEZ, UNAI",
+    "LORENZO CANDO, IBAI",
+    "ARIAS ALVAREZ, AIMAR",
+    "MORALES ALVARO, MARIO",
+    "TUBIO SANGRONIZ, MIKEL",
+    "URANGA ROMAN, ARKAITZ",
+    "ANDRES GANDOY, IBAI",
+    "BILBAO GRANJA, ENEKO",
+    "VILLAR MARIN, BEÑAT",
+    "GASCON ARJONA, ASIER",
+    "GOMEZ BUSTAMANTE, AIMAR",
+    "CORDOBA DELGADO, ENEKO",
+    "ZULUAGA ERRASTI, ASIER",
+    "GOMEZ MARTIN, DIEGO",
+    "LOPEZ GETINO, GORKA"
+  ],
+  "jugadores_visitante": [
+    "HUERTAS BILBAO, GAIZKA",
+    "GARCIA OLABARRIETA, OIER",
+    "HIERRO GONZALEZ, AIMAR",
+    "CORTES COUTO, OIER",
+    "OLIVA OJEDA, IVAN",
+    "COTOREI, MISY SERGY COZMIN",
+    "BASABE FRANCISCO, MARKEL",
+    "POZUELO FERNANDEZ, ENAITZ",
+    "DIEGO GUTIERREZ, JEREMY",
+    "GARCIA CARRAL, UNAI",
+    "CANALES MENDIVIL, MIKEL",
+    "GALDEANO ESCURZA, IKER",
+    "PRIETO LOPEZ, DANIEL",
+    "JIMENEZ AGUIRRE, URDAX",
+    "VENTOSA HERNANDEZ, IBAI",
+    "SIERRA GARCIA, YERAY HERNAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "GOMEZ BUSTAMANTE, AIMAR",
+      "sale": "ANDRES GANDOY, IBAI"
+    },
+    {
+      "min": 65,
+      "entra": "CORDOBA DELGADO, ENEKO",
+      "sale": "GASCON ARJONA, ASIER"
+    },
+    {
+      "min": 65,
+      "entra": "ZULUAGA ERRASTI, ASIER",
+      "sale": "VILLAR MARIN, BEÑAT"
+    },
+    {
+      "min": 73,
+      "entra": "GOMEZ MARTIN, DIEGO",
+      "sale": "MORALES ALVARO, MARIO"
+    },
+    {
+      "min": 73,
+      "entra": "LOPEZ GETINO, GORKA",
+      "sale": "ROBLEDINOS ESTEVEZ, UNAI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 65,
+      "entra": "GALDEANO ESCURZA, IKER",
+      "sale": "DIEGO GUTIERREZ, JEREMY"
+    },
+    {
+      "min": 65,
+      "entra": "PRIETO LOPEZ, DANIEL",
+      "sale": "BASABE FRANCISCO, MARKEL"
+    },
+    {
+      "min": 65,
+      "entra": "JIMENEZ AGUIRRE, URDAX",
+      "sale": "CORTES COUTO, OIER"
+    },
+    {
+      "min": 73,
+      "entra": "VENTOSA HERNANDEZ, IBAI",
+      "sale": "CANALES MENDIVIL, MIKEL"
+    },
+    {
+      "min": 73,
+      "entra": "SIERRA GARCIA, YERAY HERNAN",
+      "sale": "OLIVA OJEDA, IVAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA CAMPOS, ALEX": 90,
+    "ROBLEDINOS ESTEVEZ, UNAI": 73,
+    "LORENZO CANDO, IBAI": 90,
+    "ARIAS ALVAREZ, AIMAR": 90,
+    "MORALES ALVARO, MARIO": 73,
+    "TUBIO SANGRONIZ, MIKEL": 90,
+    "URANGA ROMAN, ARKAITZ": 90,
+    "ANDRES GANDOY, IBAI": 58,
+    "BILBAO GRANJA, ENEKO": 90,
+    "VILLAR MARIN, BEÑAT": 65,
+    "GASCON ARJONA, ASIER": 65,
+    "GOMEZ BUSTAMANTE, AIMAR": 32,
+    "CORDOBA DELGADO, ENEKO": 25,
+    "ZULUAGA ERRASTI, ASIER": 25,
+    "GOMEZ MARTIN, DIEGO": 17,
+    "LOPEZ GETINO, GORKA": 17,
+    "HUERTAS BILBAO, GAIZKA": 90,
+    "GARCIA OLABARRIETA, OIER": 90,
+    "HIERRO GONZALEZ, AIMAR": 90,
+    "CORTES COUTO, OIER": 65,
+    "OLIVA OJEDA, IVAN": 73,
+    "COTOREI, MISY SERGY COZMIN": 90,
+    "BASABE FRANCISCO, MARKEL": 65,
+    "POZUELO FERNANDEZ, ENAITZ": 90,
+    "DIEGO GUTIERREZ, JEREMY": 65,
+    "GARCIA CARRAL, UNAI": 90,
+    "CANALES MENDIVIL, MIKEL": 73,
+    "GALDEANO ESCURZA, IKER": 25,
+    "PRIETO LOPEZ, DANIEL": 25,
+    "JIMENEZ AGUIRRE, URDAX": 25,
+    "VENTOSA HERNANDEZ, IBAI": 17,
+    "SIERRA GARCIA, YERAY HERNAN": 17
+  },
+  "portero_local": "GARCIA CAMPOS, ALEX",
+  "portero_visitante": "HUERTAS BILBAO, GAIZKA",
+  "dorsales_local": {
+    "GARCIA CAMPOS, ALEX": 1,
+    "ROBLEDINOS ESTEVEZ, UNAI": 3,
+    "LORENZO CANDO, IBAI": 4,
+    "ARIAS ALVAREZ, AIMAR": 6,
+    "MORALES ALVARO, MARIO": 7,
+    "TUBIO SANGRONIZ, MIKEL": 8,
+    "URANGA ROMAN, ARKAITZ": 9,
+    "ANDRES GANDOY, IBAI": 12,
+    "BILBAO GRANJA, ENEKO": 18,
+    "VILLAR MARIN, BEÑAT": 20,
+    "GASCON ARJONA, ASIER": 23
+  },
+  "dorsales_visitante": {
+    "HUERTAS BILBAO, GAIZKA": 1,
+    "GARCIA OLABARRIETA, OIER": 3,
+    "HIERRO GONZALEZ, AIMAR": 5,
+    "CORTES COUTO, OIER": 7,
+    "OLIVA OJEDA, IVAN": 8,
+    "COTOREI, MISY SERGY COZMIN": 9,
+    "BASABE FRANCISCO, MARKEL": 10,
+    "POZUELO FERNANDEZ, ENAITZ": 12,
+    "DIEGO GUTIERREZ, JEREMY": 15,
+    "GARCIA CARRAL, UNAI": 21,
+    "CANALES MENDIVIL, MIKEL": 22
+  },
+  "suspendidos": []
+}
