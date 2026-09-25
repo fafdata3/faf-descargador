@@ -1,0 +1,248 @@
+{
+  "acta_id": "C_220771",
+  "filename": "Acta_C_220771.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "25-01-2026",
+  "hora": "09:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CAZENAVE SUAREZ, MATIAS"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "DE LA TORRE MARQUEZ, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "POLANCO RUIZ, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 59,
+      "jugador": "CUEVAS RUIZ, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "SÁNCHEZ SÁNCHEZ, RAUL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "C.D. AMISTAD SNIACE A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CUESTA MARTINEZ, RUBEN",
+  "entrenador_visitante": "DORRONSORO GONZALEZ, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAN SEGUNDO GAUTIER, MIGUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VILLEGAS BARRERO, AIMAR",
+  "delegado_equipo_visitante": "DORRONSORO OBREGON, PEDRO MARIA",
+  "titulares_local": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "CUEVAS RUIZ, MARCOS",
+    "ALONSO NOVAL, KENZO",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ REVUELTA, NICOLAS",
+    "PEREZ MIRANDA, IZAN"
+  ],
+  "titulares_visitante": [
+    "BLANCO GUTIERREZ, ANDER",
+    "DIESTRO PEREZ, MARIO",
+    "DEL RIO PELLICER, MARCO",
+    "PERNIA FERNANDEZ, IVAN",
+    "FUNARIU, DAVID IULIAN",
+    "PALAZUELOS ESCALANTE, ENZO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "LÓPEZ CASTANEDO, MARIO",
+    "ANDRES GARCIA, CARLOS",
+    "GARCIA DE LA RASILLA PEREZ, MARTIN",
+    "VILLEGAS AIZPURUA, ASIER"
+  ],
+  "suplentes_local": [
+    "GUERRA GARCIA, LUCAS",
+    "OCEJA ARRANZ, SIMON",
+    "TREGALLO BECERRA, LUIS VICENTE",
+    "GUERRA CALZADA, ÁLVARO",
+    "ACHEHBOUNE BADOURI, ADAM"
+  ],
+  "suplentes_visitante": [
+    "HERNANDEZ DOS REIS, ALAIN",
+    "ARTECHE PEREZ, DIEGO",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "POLANCO RUIZ, MARCOS",
+    "COVARRUBIAS MARTIN, LUCAS"
+  ],
+  "convocados_sin_jugar_local": [
+    "TREGALLO BECERRA, LUIS VICENTE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "HERNANDEZ DOS REIS, ALAIN",
+    "ARTECHE PEREZ, DIEGO"
+  ],
+  "jugadores_local": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "CUEVAS RUIZ, MARCOS",
+    "ALONSO NOVAL, KENZO",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ REVUELTA, NICOLAS",
+    "PEREZ MIRANDA, IZAN",
+    "ACHEHBOUNE BADOURI, ADAM",
+    "OCEJA ARRANZ, SIMON",
+    "GUERRA CALZADA, ÁLVARO",
+    "GUERRA GARCIA, LUCAS"
+  ],
+  "jugadores_visitante": [
+    "BLANCO GUTIERREZ, ANDER",
+    "DIESTRO PEREZ, MARIO",
+    "DEL RIO PELLICER, MARCO",
+    "PERNIA FERNANDEZ, IVAN",
+    "FUNARIU, DAVID IULIAN",
+    "PALAZUELOS ESCALANTE, ENZO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "LÓPEZ CASTANEDO, MARIO",
+    "ANDRES GARCIA, CARLOS",
+    "GARCIA DE LA RASILLA PEREZ, MARTIN",
+    "VILLEGAS AIZPURUA, ASIER",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "POLANCO RUIZ, MARCOS",
+    "COVARRUBIAS MARTIN, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 12,
+      "entra": "ACHEHBOUNE BADOURI, ADAM",
+      "sale": "MORENO FERNANDEZ, HECTOR"
+    },
+    {
+      "min": 47,
+      "entra": "OCEJA ARRANZ, SIMON",
+      "sale": "OLANDA GONZALEZ, HUGO"
+    },
+    {
+      "min": 58,
+      "entra": "GUERRA CALZADA, ÁLVARO",
+      "sale": "PEREZ REVUELTA, NICOLAS"
+    },
+    {
+      "min": 64,
+      "entra": "GUERRA GARCIA, LUCAS",
+      "sale": "SAEZ DIAZ, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "LOMBILLA FERNANDEZ, HUGO",
+      "sale": "PALAZUELOS ESCALANTE, ENZO"
+    },
+    {
+      "min": 46,
+      "entra": "POLANCO RUIZ, MARCOS",
+      "sale": "DEL RIO PELLICER, MARCO"
+    },
+    {
+      "min": 54,
+      "entra": "COVARRUBIAS MARTIN, LUCAS",
+      "sale": "LÓPEZ CASTANEDO, MARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 90,
+    "SAEZ DIAZ, NICOLAS": 64,
+    "OLANDA GONZALEZ, HUGO": 47,
+    "RABAGO GOMEZ, MAURO": 90,
+    "ALVAREZ JIMENEZ, DIEGO": 90,
+    "CUEVAS RUIZ, MARCOS": 90,
+    "ALONSO NOVAL, KENZO": 90,
+    "MORENO FERNANDEZ, HECTOR": 12,
+    "FOMPEROSA GARCÍA, LEO": 90,
+    "PEREZ REVUELTA, NICOLAS": 58,
+    "PEREZ MIRANDA, IZAN": 90,
+    "ACHEHBOUNE BADOURI, ADAM": 78,
+    "OCEJA ARRANZ, SIMON": 43,
+    "GUERRA CALZADA, ÁLVARO": 32,
+    "GUERRA GARCIA, LUCAS": 26,
+    "BLANCO GUTIERREZ, ANDER": 90,
+    "DIESTRO PEREZ, MARIO": 90,
+    "DEL RIO PELLICER, MARCO": 46,
+    "PERNIA FERNANDEZ, IVAN": 90,
+    "FUNARIU, DAVID IULIAN": 90,
+    "PALAZUELOS ESCALANTE, ENZO": 41,
+    "DE LA TORRE MARQUEZ, LUCAS": 90,
+    "LÓPEZ CASTANEDO, MARIO": 54,
+    "ANDRES GARCIA, CARLOS": 90,
+    "GARCIA DE LA RASILLA PEREZ, MARTIN": 90,
+    "VILLEGAS AIZPURUA, ASIER": 90,
+    "LOMBILLA FERNANDEZ, HUGO": 49,
+    "POLANCO RUIZ, MARCOS": 44,
+    "COVARRUBIAS MARTIN, LUCAS": 36
+  },
+  "portero_local": "SÁNCHEZ SÁNCHEZ, RAUL",
+  "portero_visitante": "BLANCO GUTIERREZ, ANDER",
+  "dorsales_local": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 13,
+    "SAEZ DIAZ, NICOLAS": 2,
+    "OLANDA GONZALEZ, HUGO": 4,
+    "RABAGO GOMEZ, MAURO": 6,
+    "ALVAREZ JIMENEZ, DIEGO": 9,
+    "CUEVAS RUIZ, MARCOS": 10,
+    "ALONSO NOVAL, KENZO": 18,
+    "MORENO FERNANDEZ, HECTOR": 19,
+    "FOMPEROSA GARCÍA, LEO": 21,
+    "PEREZ REVUELTA, NICOLAS": 22,
+    "PEREZ MIRANDA, IZAN": 25
+  },
+  "dorsales_visitante": {
+    "BLANCO GUTIERREZ, ANDER": 13,
+    "DIESTRO PEREZ, MARIO": 3,
+    "DEL RIO PELLICER, MARCO": 4,
+    "PERNIA FERNANDEZ, IVAN": 5,
+    "FUNARIU, DAVID IULIAN": 6,
+    "PALAZUELOS ESCALANTE, ENZO": 8,
+    "DE LA TORRE MARQUEZ, LUCAS": 9,
+    "LÓPEZ CASTANEDO, MARIO": 10,
+    "ANDRES GARCIA, CARLOS": 11,
+    "GARCIA DE LA RASILLA PEREZ, MARTIN": 12,
+    "VILLEGAS AIZPURUA, ASIER": 14
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
