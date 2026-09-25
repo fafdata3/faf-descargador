@@ -1,0 +1,249 @@
+{
+  "acta_id": "C_220685",
+  "filename": "Acta_C_220685.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "25-10-2025",
+  "hora": "12:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "E.D.M. CAYON A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "FERNANDEZ DIEZ, IKER"
+  ],
+  "estadio": "Saron 2",
+  "ciudad": "Santa María de Cayón",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "ACHEHBOUNE BADOURI, ADAM",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "GARCES PEDRAJA, ESDRAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "CRESPO FRECHOSO, VICTOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "FERREIRA RIBADA, NELSON XAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 59,
+      "jugador": "CRESPO FRECHOSO, VICTOR",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "FERREIRA RIBADA, NELSON XAVIER",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 67,
+      "jugador": "POLANCO C.F. A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "CUESTA MARTINEZ, RUBEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERREIRA RIBADA, NELSON XAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CEBALLOS PRIETO, MARIO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "BECERRIL ALONSO, ALVARO",
+    "GARCES PEDRAJA, ESDRAS",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "RABAGO FERNANDEZ, MARIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "ESPINEL RUIZ, IKER",
+    "COBO COBO, CRISTIAN",
+    "BARCENA GARCIA, PEDRO",
+    "OBREGON FERNANDEZ, MARIO",
+    "SANTAMARIA GUTIERREZ, YAGO",
+    "ASENSIO PILA, HECTOR"
+  ],
+  "titulares_visitante": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "GUERRA CALZADA, ÁLVARO",
+    "ALONSO NOVAL, KENZO",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ REVUELTA, NICOLAS",
+    "ACHEHBOUNE BADOURI, ADAM",
+    "PEREZ MIRANDA, IZAN"
+  ],
+  "suplentes_local": [
+    "COBO HERRERA, PABLO",
+    "PEDRAJO PEREZ, CRISTIAN",
+    "COTERO SAMPERIO, AARON"
+  ],
+  "suplentes_visitante": [
+    "SAEZ DIAZ, NICOLAS",
+    "OCEJA ARRANZ, SIMON",
+    "CUEVAS RUIZ, MARCOS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BECERRIL ALONSO, ALVARO",
+    "GARCES PEDRAJA, ESDRAS",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "RABAGO FERNANDEZ, MARIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "ESPINEL RUIZ, IKER",
+    "COBO COBO, CRISTIAN",
+    "BARCENA GARCIA, PEDRO",
+    "OBREGON FERNANDEZ, MARIO",
+    "SANTAMARIA GUTIERREZ, YAGO",
+    "ASENSIO PILA, HECTOR",
+    "COBO HERRERA, PABLO",
+    "PEDRAJO PEREZ, CRISTIAN",
+    "COTERO SAMPERIO, AARON"
+  ],
+  "jugadores_visitante": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "GUERRA CALZADA, ÁLVARO",
+    "ALONSO NOVAL, KENZO",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ REVUELTA, NICOLAS",
+    "ACHEHBOUNE BADOURI, ADAM",
+    "PEREZ MIRANDA, IZAN",
+    "OCEJA ARRANZ, SIMON",
+    "CUEVAS RUIZ, MARCOS",
+    "SAEZ DIAZ, NICOLAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 10,
+      "entra": "COBO HERRERA, PABLO",
+      "sale": "ASENSIO PILA, HECTOR"
+    },
+    {
+      "min": 47,
+      "entra": "PEDRAJO PEREZ, CRISTIAN",
+      "sale": "COBO COBO, CRISTIAN"
+    },
+    {
+      "min": 59,
+      "entra": "COTERO SAMPERIO, AARON",
+      "sale": "CILLERUELO FERNANDEZ, RAUL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 47,
+      "entra": "OCEJA ARRANZ, SIMON",
+      "sale": "MORENO FERNANDEZ, HECTOR"
+    },
+    {
+      "min": 47,
+      "entra": "CUEVAS RUIZ, MARCOS",
+      "sale": "ACHEHBOUNE BADOURI, ADAM"
+    },
+    {
+      "min": 63,
+      "entra": "SAEZ DIAZ, NICOLAS",
+      "sale": "PEREZ REVUELTA, NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "BECERRIL ALONSO, ALVARO": 90,
+    "GARCES PEDRAJA, ESDRAS": 90,
+    "CILLERUELO FERNANDEZ, RAUL": 59,
+    "RABAGO FERNANDEZ, MARIO": 90,
+    "CRESPO FRECHOSO, VICTOR": 90,
+    "ESPINEL RUIZ, IKER": 90,
+    "COBO COBO, CRISTIAN": 47,
+    "BARCENA GARCIA, PEDRO": 90,
+    "OBREGON FERNANDEZ, MARIO": 90,
+    "SANTAMARIA GUTIERREZ, YAGO": 90,
+    "ASENSIO PILA, HECTOR": 10,
+    "COBO HERRERA, PABLO": 80,
+    "PEDRAJO PEREZ, CRISTIAN": 43,
+    "COTERO SAMPERIO, AARON": 31,
+    "SÁNCHEZ SÁNCHEZ, RAUL": 90,
+    "OLANDA GONZALEZ, HUGO": 90,
+    "RABAGO GOMEZ, MAURO": 90,
+    "ALVAREZ JIMENEZ, DIEGO": 90,
+    "GUERRA CALZADA, ÁLVARO": 90,
+    "ALONSO NOVAL, KENZO": 90,
+    "MORENO FERNANDEZ, HECTOR": 47,
+    "FOMPEROSA GARCÍA, LEO": 90,
+    "PEREZ REVUELTA, NICOLAS": 63,
+    "ACHEHBOUNE BADOURI, ADAM": 47,
+    "PEREZ MIRANDA, IZAN": 90,
+    "OCEJA ARRANZ, SIMON": 43,
+    "CUEVAS RUIZ, MARCOS": 43,
+    "SAEZ DIAZ, NICOLAS": 27
+  },
+  "portero_local": "BECERRIL ALONSO, ALVARO",
+  "portero_visitante": "SÁNCHEZ SÁNCHEZ, RAUL",
+  "dorsales_local": {
+    "BECERRIL ALONSO, ALVARO": 1,
+    "GARCES PEDRAJA, ESDRAS": 2,
+    "CILLERUELO FERNANDEZ, RAUL": 3,
+    "RABAGO FERNANDEZ, MARIO": 7,
+    "CRESPO FRECHOSO, VICTOR": 8,
+    "ESPINEL RUIZ, IKER": 16,
+    "COBO COBO, CRISTIAN": 17,
+    "BARCENA GARCIA, PEDRO": 18,
+    "OBREGON FERNANDEZ, MARIO": 30,
+    "SANTAMARIA GUTIERREZ, YAGO": 36,
+    "ASENSIO PILA, HECTOR": 37
+  },
+  "dorsales_visitante": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 13,
+    "OLANDA GONZALEZ, HUGO": 4,
+    "RABAGO GOMEZ, MAURO": 6,
+    "ALVAREZ JIMENEZ, DIEGO": 9,
+    "GUERRA CALZADA, ÁLVARO": 17,
+    "ALONSO NOVAL, KENZO": 18,
+    "MORENO FERNANDEZ, HECTOR": 19,
+    "FOMPEROSA GARCÍA, LEO": 21,
+    "PEREZ REVUELTA, NICOLAS": 22,
+    "ACHEHBOUNE BADOURI, ADAM": 23,
+    "PEREZ MIRANDA, IZAN": 25
+  },
+  "suspendidos": [
+    "CRESPO FRECHOSO, VICTOR",
+    "FERREIRA RIBADA, NELSON XAVIER"
+  ],
+  "_marcador_widget": true
+}
