@@ -1,0 +1,254 @@
+{
+  "acta_id": "C_220781",
+  "filename": "Acta_C_220781.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "31-01-2026",
+  "hora": "12:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. TROPEZON A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZÁLEZ AJA, PABLO"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 40,
+      "jugador": "BLANCO PORTILLA, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "GONZALEZ TOCA, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "BLANCO PORTILLA, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "GONZALEZ TOCA, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 29,
+      "jugador": "SASIAN PEREZ, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 29,
+      "jugador": "S.D. SOLARES-MEDIO CUDEYO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 22,
+      "jugador": "SECK DE LA HOZ, ROBERTO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DEL CASTILLO RUIZ, FRANCISCO JAVIER",
+  "entrenador_visitante": "MARQUEZ SETIEN, CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LAMO MOLINA, JUAN ANTONIO",
+  "delegado_equipo_visitante": "MADRAZO PRESMANES, PABLO",
+  "titulares_local": [
+    "FERNANDEZ BLANCO, JORGE",
+    "CASTILLO MONTES, ALEJANDRO",
+    "SASIAN PEREZ, DIEGO",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "DOS REIS REYES, ANDER",
+    "GUERRA GONZALEZ, JACOBO",
+    "HAKKIOUI KHAMOUSSI, AYMENE"
+  ],
+  "titulares_visitante": [
+    "BRAVO BLANCO, PEDRO",
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL",
+    "SECK DE LA HOZ, ROBERTO",
+    "MORETON GONZALEZ, LUCAS",
+    "BECI ESTEVE, MARCO",
+    "GONZALEZ TOCA, NICOLAS",
+    "BLANCO PORTILLA, SERGIO",
+    "DIEGO ACEBO, DIEGO",
+    "HIERRO MENEZO, NICOLAS",
+    "GARCIA IRIZABAL, CARLOS",
+    "DIAZ DIAZ, DYLAN"
+  ],
+  "suplentes_local": [
+    "IBAÑEZ CELORIO, SAUL",
+    "GUTIERREZ MANTECON, MIKEL",
+    "CASTILLO ABASCAL, PABLO",
+    "IGONIN DIAZ, MATEO"
+  ],
+  "suplentes_visitante": [
+    "PACHECO GUTIERREZ, MARTIN",
+    "BARQUIN HAYA, JAVIER",
+    "LOPEZ CORRALES, LUCAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ BLANCO, JORGE",
+    "CASTILLO MONTES, ALEJANDRO",
+    "SASIAN PEREZ, DIEGO",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "DOS REIS REYES, ANDER",
+    "GUERRA GONZALEZ, JACOBO",
+    "HAKKIOUI KHAMOUSSI, AYMENE",
+    "IBAÑEZ CELORIO, SAUL",
+    "GUTIERREZ MANTECON, MIKEL",
+    "IGONIN DIAZ, MATEO",
+    "CASTILLO ABASCAL, PABLO"
+  ],
+  "jugadores_visitante": [
+    "BRAVO BLANCO, PEDRO",
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL",
+    "SECK DE LA HOZ, ROBERTO",
+    "MORETON GONZALEZ, LUCAS",
+    "BECI ESTEVE, MARCO",
+    "GONZALEZ TOCA, NICOLAS",
+    "BLANCO PORTILLA, SERGIO",
+    "DIEGO ACEBO, DIEGO",
+    "HIERRO MENEZO, NICOLAS",
+    "GARCIA IRIZABAL, CARLOS",
+    "DIAZ DIAZ, DYLAN",
+    "PACHECO GUTIERREZ, MARTIN",
+    "BARQUIN HAYA, JAVIER",
+    "LOPEZ CORRALES, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "IBAÑEZ CELORIO, SAUL",
+      "sale": "FERNANDEZ BLANCO, JORGE"
+    },
+    {
+      "min": 47,
+      "entra": "GUTIERREZ MANTECON, MIKEL",
+      "sale": "HAKKIOUI KHAMOUSSI, AYMENE"
+    },
+    {
+      "min": 47,
+      "entra": "IGONIN DIAZ, MATEO",
+      "sale": "CASTILLO MONTES, ALEJANDRO"
+    },
+    {
+      "min": 53,
+      "entra": "CASTILLO ABASCAL, PABLO",
+      "sale": "ROJO AROZAMENA, DAVID"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "PACHECO GUTIERREZ, MARTIN",
+      "sale": "MORETON GONZALEZ, LUCAS"
+    },
+    {
+      "min": 49,
+      "entra": "BARQUIN HAYA, JAVIER",
+      "sale": "BECI ESTEVE, MARCO"
+    },
+    {
+      "min": 53,
+      "entra": "LOPEZ CORRALES, LUCAS",
+      "sale": "HIERRO MENEZO, NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ BLANCO, JORGE": 35,
+    "CASTILLO MONTES, ALEJANDRO": 47,
+    "SASIAN PEREZ, DIEGO": 90,
+    "BUENO GARCIA, IAN": 90,
+    "ITURBE ACEBAL, DIEGO": 90,
+    "ROJO AROZAMENA, DAVID": 53,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 90,
+    "COSSIO DELGADO, MARCO": 90,
+    "DOS REIS REYES, ANDER": 90,
+    "GUERRA GONZALEZ, JACOBO": 90,
+    "HAKKIOUI KHAMOUSSI, AYMENE": 47,
+    "IBAÑEZ CELORIO, SAUL": 55,
+    "GUTIERREZ MANTECON, MIKEL": 43,
+    "IGONIN DIAZ, MATEO": 43,
+    "CASTILLO ABASCAL, PABLO": 37,
+    "BRAVO BLANCO, PEDRO": 90,
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL": 90,
+    "SECK DE LA HOZ, ROBERTO": 90,
+    "MORETON GONZALEZ, LUCAS": 40,
+    "BECI ESTEVE, MARCO": 49,
+    "GONZALEZ TOCA, NICOLAS": 90,
+    "BLANCO PORTILLA, SERGIO": 90,
+    "DIEGO ACEBO, DIEGO": 90,
+    "HIERRO MENEZO, NICOLAS": 53,
+    "GARCIA IRIZABAL, CARLOS": 90,
+    "DIAZ DIAZ, DYLAN": 90,
+    "PACHECO GUTIERREZ, MARTIN": 50,
+    "BARQUIN HAYA, JAVIER": 41,
+    "LOPEZ CORRALES, LUCAS": 37
+  },
+  "portero_local": "FERNANDEZ BLANCO, JORGE",
+  "portero_visitante": "BRAVO BLANCO, PEDRO",
+  "dorsales_local": {
+    "FERNANDEZ BLANCO, JORGE": 1,
+    "CASTILLO MONTES, ALEJANDRO": 4,
+    "SASIAN PEREZ, DIEGO": 5,
+    "BUENO GARCIA, IAN": 9,
+    "ITURBE ACEBAL, DIEGO": 10,
+    "ROJO AROZAMENA, DAVID": 11,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 12,
+    "COSSIO DELGADO, MARCO": 14,
+    "DOS REIS REYES, ANDER": 18,
+    "GUERRA GONZALEZ, JACOBO": 19,
+    "HAKKIOUI KHAMOUSSI, AYMENE": 20
+  },
+  "dorsales_visitante": {
+    "BRAVO BLANCO, PEDRO": 1,
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL": 2,
+    "SECK DE LA HOZ, ROBERTO": 3,
+    "MORETON GONZALEZ, LUCAS": 5,
+    "BECI ESTEVE, MARCO": 6,
+    "GONZALEZ TOCA, NICOLAS": 9,
+    "BLANCO PORTILLA, SERGIO": 10,
+    "DIEGO ACEBO, DIEGO": 11,
+    "HIERRO MENEZO, NICOLAS": 14,
+    "GARCIA IRIZABAL, CARLOS": 15,
+    "DIAZ DIAZ, DYLAN": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
