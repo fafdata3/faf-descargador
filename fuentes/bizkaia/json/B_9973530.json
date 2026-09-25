@@ -1,0 +1,260 @@
+{
+  "acta_id": "B_9973530",
+  "filename": "Acta_B_9973530.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "31-01-2026",
+  "hora": "20:20",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 6)",
+  "equipo_local": "SAN LORENZO",
+  "equipo_visitante": "FRUIZ",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "LOIZAGA CUENA, ENEKO"
+  ],
+  "estadio": "SAN LORENZO",
+  "ciudad": "ERANDIO (ASTRABUDUA)",
+  "goleadores": [
+    {
+      "minuto": 62,
+      "jugador": "BARANDIARAN CABREJAS, PEIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "HERNANDO ROMERO, IBAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "GAMBOA ARRIBALTZAGA, EKHI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 64,
+      "jugador": "DOMINGUEZ VILLALPANDO, AITOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "FRUIZ",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "BARREDO RINCON, MARKEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAEZ MOURILLE, FERMIN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAEZ MOURILLE, FERMIN",
+  "delegado_equipo_visitante": "CUESTA CABALLERO, JESUS",
+  "titulares_local": [
+    "CALVO SANGINES, GAIZKA",
+    "VACA HURTADO, RAFAEL",
+    "PEREZ SALAS, YAGO",
+    "MONASTERIO LASCORZ, ANDER",
+    "MADERA DOMINGUEZ, PEIO",
+    "FERNANDEZ MENTXAKA, IBAI",
+    "MARTINEZ MANJON, MIKEL",
+    "DOMINGUEZ VILLALPANDO, AITOR",
+    "DIEZ DE LA CALLE, FELIX",
+    "MARTINEZ DEL VAL, JORGE",
+    "GUISADO SANTOS, CHRISTIAN"
+  ],
+  "titulares_visitante": [
+    "MAKOAGA ARRIZABALAGA, INHAR",
+    "CUESTA LORENZO, AITOR",
+    "SAN SEVERIANO ABOITIZ, JULEN",
+    "MENTXAKA LATXAGA, UNAX",
+    "ORDOÑEZ GOMEZ, MARKEL",
+    "AGUADO PASCUAL, IKER",
+    "HERNANDO ROMERO, IBAN",
+    "GONZALEZ ALVIS, SAMUEL",
+    "AGOS VILLAR, MARKEL ENDIKA",
+    "BARANDIARAN CABREJAS, PEIO",
+    "BATISTA ROZAS, DANEL"
+  ],
+  "suplentes_local": [
+    "MOABRO SANTAMARIA, PABLO",
+    "CASAS MARTIN, MARKEL",
+    "URQUIDI TERUELO, LUCAS",
+    "TEJIDO FERNANDEZ, ENAITZ",
+    "CARABULEA GUILLEN, IVAN CLAUDIO",
+    "GUTIERREZ FUENTES, PAUL"
+  ],
+  "suplentes_visitante": [
+    "AGOS VILLAR, ASIER JON",
+    "ALONSO PILAR, MIGUEL",
+    "GAMBOA ARRIBALTZAGA, EKHI",
+    "ARRONATEGUI MENDIGUREN, IZEI",
+    "DURAN ESTESO, VICTOR"
+  ],
+  "convocados_sin_jugar_local": [
+    "MOABRO SANTAMARIA, PABLO",
+    "TEJIDO FERNANDEZ, ENAITZ"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CALVO SANGINES, GAIZKA",
+    "VACA HURTADO, RAFAEL",
+    "PEREZ SALAS, YAGO",
+    "MONASTERIO LASCORZ, ANDER",
+    "MADERA DOMINGUEZ, PEIO",
+    "FERNANDEZ MENTXAKA, IBAI",
+    "MARTINEZ MANJON, MIKEL",
+    "DOMINGUEZ VILLALPANDO, AITOR",
+    "DIEZ DE LA CALLE, FELIX",
+    "MARTINEZ DEL VAL, JORGE",
+    "GUISADO SANTOS, CHRISTIAN",
+    "CASAS MARTIN, MARKEL",
+    "URQUIDI TERUELO, LUCAS",
+    "CARABULEA GUILLEN, IVAN CLAUDIO",
+    "GUTIERREZ FUENTES, PAUL"
+  ],
+  "jugadores_visitante": [
+    "MAKOAGA ARRIZABALAGA, INHAR",
+    "CUESTA LORENZO, AITOR",
+    "SAN SEVERIANO ABOITIZ, JULEN",
+    "MENTXAKA LATXAGA, UNAX",
+    "ORDOÑEZ GOMEZ, MARKEL",
+    "AGUADO PASCUAL, IKER",
+    "HERNANDO ROMERO, IBAN",
+    "GONZALEZ ALVIS, SAMUEL",
+    "AGOS VILLAR, MARKEL ENDIKA",
+    "BARANDIARAN CABREJAS, PEIO",
+    "BATISTA ROZAS, DANEL",
+    "GAMBOA ARRIBALTZAGA, EKHI",
+    "ALONSO PILAR, MIGUEL",
+    "DURAN ESTESO, VICTOR",
+    "ARRONATEGUI MENDIGUREN, IZEI",
+    "AGOS VILLAR, ASIER JON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 80,
+      "entra": "CASAS MARTIN, MARKEL",
+      "sale": "MARTINEZ MANJON, MIKEL"
+    },
+    {
+      "min": 80,
+      "entra": "URQUIDI TERUELO, LUCAS",
+      "sale": "DOMINGUEZ VILLALPANDO, AITOR"
+    },
+    {
+      "min": 85,
+      "entra": "CARABULEA GUILLEN, IVAN CLAUDIO",
+      "sale": "PEREZ SALAS, YAGO"
+    },
+    {
+      "min": 85,
+      "entra": "GUTIERREZ FUENTES, PAUL",
+      "sale": "GUISADO SANTOS, CHRISTIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "GAMBOA ARRIBALTZAGA, EKHI",
+      "sale": "AGUADO PASCUAL, IKER"
+    },
+    {
+      "min": 45,
+      "entra": "ALONSO PILAR, MIGUEL",
+      "sale": "CUESTA LORENZO, AITOR"
+    },
+    {
+      "min": 72,
+      "entra": "DURAN ESTESO, VICTOR",
+      "sale": "ORDOÑEZ GOMEZ, MARKEL"
+    },
+    {
+      "min": 80,
+      "entra": "ARRONATEGUI MENDIGUREN, IZEI",
+      "sale": "GONZALEZ ALVIS, SAMUEL"
+    },
+    {
+      "min": 86,
+      "entra": "AGOS VILLAR, ASIER JON",
+      "sale": "AGOS VILLAR, MARKEL ENDIKA"
+    }
+  ],
+  "minutos_jugadores": {
+    "CALVO SANGINES, GAIZKA": 90,
+    "VACA HURTADO, RAFAEL": 90,
+    "PEREZ SALAS, YAGO": 85,
+    "MONASTERIO LASCORZ, ANDER": 90,
+    "MADERA DOMINGUEZ, PEIO": 90,
+    "FERNANDEZ MENTXAKA, IBAI": 90,
+    "MARTINEZ MANJON, MIKEL": 80,
+    "DOMINGUEZ VILLALPANDO, AITOR": 80,
+    "DIEZ DE LA CALLE, FELIX": 90,
+    "MARTINEZ DEL VAL, JORGE": 90,
+    "GUISADO SANTOS, CHRISTIAN": 85,
+    "CASAS MARTIN, MARKEL": 10,
+    "URQUIDI TERUELO, LUCAS": 10,
+    "CARABULEA GUILLEN, IVAN CLAUDIO": 5,
+    "GUTIERREZ FUENTES, PAUL": 5,
+    "MAKOAGA ARRIZABALAGA, INHAR": 90,
+    "CUESTA LORENZO, AITOR": 45,
+    "SAN SEVERIANO ABOITIZ, JULEN": 90,
+    "MENTXAKA LATXAGA, UNAX": 90,
+    "ORDOÑEZ GOMEZ, MARKEL": 72,
+    "AGUADO PASCUAL, IKER": 45,
+    "HERNANDO ROMERO, IBAN": 90,
+    "GONZALEZ ALVIS, SAMUEL": 80,
+    "AGOS VILLAR, MARKEL ENDIKA": 86,
+    "BARANDIARAN CABREJAS, PEIO": 90,
+    "BATISTA ROZAS, DANEL": 90,
+    "GAMBOA ARRIBALTZAGA, EKHI": 45,
+    "ALONSO PILAR, MIGUEL": 45,
+    "DURAN ESTESO, VICTOR": 18,
+    "ARRONATEGUI MENDIGUREN, IZEI": 10,
+    "AGOS VILLAR, ASIER JON": 4
+  },
+  "portero_local": "CALVO SANGINES, GAIZKA",
+  "portero_visitante": "MAKOAGA ARRIZABALAGA, INHAR",
+  "dorsales_local": {
+    "CALVO SANGINES, GAIZKA": 1,
+    "VACA HURTADO, RAFAEL": 2,
+    "PEREZ SALAS, YAGO": 3,
+    "MONASTERIO LASCORZ, ANDER": 5,
+    "MADERA DOMINGUEZ, PEIO": 7,
+    "FERNANDEZ MENTXAKA, IBAI": 8,
+    "MARTINEZ MANJON, MIKEL": 9,
+    "DOMINGUEZ VILLALPANDO, AITOR": 11,
+    "DIEZ DE LA CALLE, FELIX": 12,
+    "MARTINEZ DEL VAL, JORGE": 14,
+    "GUISADO SANTOS, CHRISTIAN": 22
+  },
+  "dorsales_visitante": {
+    "MAKOAGA ARRIZABALAGA, INHAR": 1,
+    "CUESTA LORENZO, AITOR": 2,
+    "SAN SEVERIANO ABOITIZ, JULEN": 3,
+    "MENTXAKA LATXAGA, UNAX": 5,
+    "ORDOÑEZ GOMEZ, MARKEL": 9,
+    "AGUADO PASCUAL, IKER": 11,
+    "HERNANDO ROMERO, IBAN": 14,
+    "GONZALEZ ALVIS, SAMUEL": 16,
+    "AGOS VILLAR, MARKEL ENDIKA": 18,
+    "BARANDIARAN CABREJAS, PEIO": 23,
+    "BATISTA ROZAS, DANEL": 24
+  },
+  "suspendidos": []
+}
