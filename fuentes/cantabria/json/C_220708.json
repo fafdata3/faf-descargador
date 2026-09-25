@@ -1,0 +1,238 @@
+{
+  "acta_id": "C_220708",
+  "filename": "Acta_C_220708.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 9,
+  "fecha": "15-11-2025",
+  "hora": "15:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. ARENAS DE FRAJANAS A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PINTEA PINTEA, MIHAI"
+  ],
+  "estadio": "Municipal de Frajanas",
+  "ciudad": "Astillero (El)",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "GONZALEZ TOCA, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 6,
+      "jugador": "BLANCO PORTILLA, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "LOPEZ CASTAÑEDA, MAURO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "BECI ESTEVE, MARCO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 37,
+      "jugador": "BLANCO PORTILLA, SERGIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MATE GARCIA, DIEGO",
+  "entrenador_visitante": "MARQUEZ SETIEN, CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANTAMARIA DE BLAS, ALVARO",
+  "delegado_equipo_visitante": "MADRAZO PRESMANES, PABLO",
+  "titulares_local": [
+    "CASTILLO SAIZ, LUCA",
+    "DIOP, ALIOUNE SARR",
+    "GUZMAN VALDEZ, MATIAS",
+    "PIQUERAS DEL RÍO, DANIEL",
+    "GARCIA PELAYO, MIGUEL",
+    "MATA RODRIGUEZ, ERIK",
+    "RUIZ SANCHEZ, ERIK",
+    "RASINES SAN MIGUEL, IZAN",
+    "DIEZ GONZALEZ, DANIEL",
+    "LOPEZ CASTAÑEDA, MAURO",
+    "SCARNA FRANCO, DENIS"
+  ],
+  "titulares_visitante": [
+    "BRAVO BLANCO, PEDRO",
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL",
+    "SECK DE LA HOZ, ROBERTO",
+    "BECI ESTEVE, MARCO",
+    "LOPEZ CORRALES, MARCO",
+    "PACHECO GUTIERREZ, MARTIN",
+    "GONZALEZ TOCA, NICOLAS",
+    "BLANCO PORTILLA, SERGIO",
+    "DIEGO ACEBO, DIEGO",
+    "HIERRO MENEZO, NICOLAS",
+    "LOPEZ CORRALES, LUCAS"
+  ],
+  "suplentes_local": [
+    "TORRE GARCIA, OLIVER",
+    "DELGADO SAN MIGUEL, PABLO",
+    "NUÑEZ BARROSO, SEBASTIAN",
+    "VAYAS RUIZ, HECTOR"
+  ],
+  "suplentes_visitante": [
+    "CUEVAS ARRUZA, LUCAS",
+    "MORETON GONZALEZ, LUCAS",
+    "ORTIZ VIADERO, ALONSO",
+    "DIAZ DIAZ, DYLAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "TORRE GARCIA, OLIVER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CUEVAS ARRUZA, LUCAS"
+  ],
+  "jugadores_local": [
+    "CASTILLO SAIZ, LUCA",
+    "DIOP, ALIOUNE SARR",
+    "GUZMAN VALDEZ, MATIAS",
+    "PIQUERAS DEL RÍO, DANIEL",
+    "GARCIA PELAYO, MIGUEL",
+    "MATA RODRIGUEZ, ERIK",
+    "RUIZ SANCHEZ, ERIK",
+    "RASINES SAN MIGUEL, IZAN",
+    "DIEZ GONZALEZ, DANIEL",
+    "LOPEZ CASTAÑEDA, MAURO",
+    "SCARNA FRANCO, DENIS",
+    "VAYAS RUIZ, HECTOR",
+    "DELGADO SAN MIGUEL, PABLO",
+    "NUÑEZ BARROSO, SEBASTIAN"
+  ],
+  "jugadores_visitante": [
+    "BRAVO BLANCO, PEDRO",
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL",
+    "SECK DE LA HOZ, ROBERTO",
+    "BECI ESTEVE, MARCO",
+    "LOPEZ CORRALES, MARCO",
+    "PACHECO GUTIERREZ, MARTIN",
+    "GONZALEZ TOCA, NICOLAS",
+    "BLANCO PORTILLA, SERGIO",
+    "DIEGO ACEBO, DIEGO",
+    "HIERRO MENEZO, NICOLAS",
+    "LOPEZ CORRALES, LUCAS",
+    "DIAZ DIAZ, DYLAN",
+    "MORETON GONZALEZ, LUCAS",
+    "ORTIZ VIADERO, ALONSO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 43,
+      "entra": "VAYAS RUIZ, HECTOR",
+      "sale": "RASINES SAN MIGUEL, IZAN"
+    },
+    {
+      "min": 52,
+      "entra": "DELGADO SAN MIGUEL, PABLO",
+      "sale": "GUZMAN VALDEZ, MATIAS"
+    },
+    {
+      "min": 52,
+      "entra": "NUÑEZ BARROSO, SEBASTIAN",
+      "sale": "PIQUERAS DEL RÍO, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "DIAZ DIAZ, DYLAN",
+      "sale": "DIEGO ACEBO, DIEGO"
+    },
+    {
+      "min": 47,
+      "entra": "MORETON GONZALEZ, LUCAS",
+      "sale": "BECI ESTEVE, MARCO"
+    },
+    {
+      "min": 60,
+      "entra": "ORTIZ VIADERO, ALONSO",
+      "sale": "PACHECO GUTIERREZ, MARTIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "CASTILLO SAIZ, LUCA": 90,
+    "DIOP, ALIOUNE SARR": 90,
+    "GUZMAN VALDEZ, MATIAS": 52,
+    "PIQUERAS DEL RÍO, DANIEL": 52,
+    "GARCIA PELAYO, MIGUEL": 90,
+    "MATA RODRIGUEZ, ERIK": 90,
+    "RUIZ SANCHEZ, ERIK": 90,
+    "RASINES SAN MIGUEL, IZAN": 43,
+    "DIEZ GONZALEZ, DANIEL": 90,
+    "LOPEZ CASTAÑEDA, MAURO": 90,
+    "SCARNA FRANCO, DENIS": 90,
+    "VAYAS RUIZ, HECTOR": 47,
+    "DELGADO SAN MIGUEL, PABLO": 38,
+    "NUÑEZ BARROSO, SEBASTIAN": 38,
+    "BRAVO BLANCO, PEDRO": 90,
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL": 90,
+    "SECK DE LA HOZ, ROBERTO": 90,
+    "BECI ESTEVE, MARCO": 47,
+    "LOPEZ CORRALES, MARCO": 90,
+    "PACHECO GUTIERREZ, MARTIN": 60,
+    "GONZALEZ TOCA, NICOLAS": 90,
+    "BLANCO PORTILLA, SERGIO": 90,
+    "DIEGO ACEBO, DIEGO": 35,
+    "HIERRO MENEZO, NICOLAS": 90,
+    "LOPEZ CORRALES, LUCAS": 90,
+    "DIAZ DIAZ, DYLAN": 55,
+    "MORETON GONZALEZ, LUCAS": 43,
+    "ORTIZ VIADERO, ALONSO": 30
+  },
+  "portero_local": "CASTILLO SAIZ, LUCA",
+  "portero_visitante": "BRAVO BLANCO, PEDRO",
+  "dorsales_local": {
+    "CASTILLO SAIZ, LUCA": 13,
+    "DIOP, ALIOUNE SARR": 2,
+    "GUZMAN VALDEZ, MATIAS": 3,
+    "PIQUERAS DEL RÍO, DANIEL": 8,
+    "GARCIA PELAYO, MIGUEL": 9,
+    "MATA RODRIGUEZ, ERIK": 10,
+    "RUIZ SANCHEZ, ERIK": 11,
+    "RASINES SAN MIGUEL, IZAN": 16,
+    "DIEZ GONZALEZ, DANIEL": 18,
+    "LOPEZ CASTAÑEDA, MAURO": 22,
+    "SCARNA FRANCO, DENIS": 25
+  },
+  "dorsales_visitante": {
+    "BRAVO BLANCO, PEDRO": 1,
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL": 2,
+    "SECK DE LA HOZ, ROBERTO": 3,
+    "BECI ESTEVE, MARCO": 6,
+    "LOPEZ CORRALES, MARCO": 7,
+    "PACHECO GUTIERREZ, MARTIN": 8,
+    "GONZALEZ TOCA, NICOLAS": 9,
+    "BLANCO PORTILLA, SERGIO": 10,
+    "DIEGO ACEBO, DIEGO": 11,
+    "HIERRO MENEZO, NICOLAS": 14,
+    "LOPEZ CORRALES, LUCAS": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
