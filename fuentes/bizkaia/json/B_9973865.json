@@ -1,0 +1,266 @@
+{
+  "acta_id": "B_9973865",
+  "filename": "Acta_B_9973865.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 29,
+  "fecha": "02-05-2026",
+  "hora": "10:30",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 7)",
+  "equipo_local": "LEMOAHARROBI B",
+  "equipo_visitante": "UNION LATINA ÑANDU",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "HORNILLOS GIL, JOAQUÍN"
+  ],
+  "estadio": "ARLONAGUSIA 1",
+  "ciudad": "Lemoa",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "AGUADO INCHAURRAGA, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "ARRESE BARRENETXEA, ASIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "ATUTXA CASTILLO, ALAIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "WU, MINGBO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "GUIJARRO BRACERAS, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 90,
+      "jugador": "CARRO HUEBRA, ENEKO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "GURTUBAI ETXEBARRIA, LIHER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "UNION LATINA ÑANDU",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ITURBE IZAGUIRRE, ETOR",
+  "entrenador_visitante": "IBARRA ZORRILLA, JOSE A",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ GARCIA, UGAITZ",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ GARCIA, UGAITZ",
+  "delegado_equipo_visitante": "BARRANCO AGUILAR, DANIEL",
+  "titulares_local": [
+    "FELIU LARRAMENDI, HODEI",
+    "ATUTXA CASTILLO, ALAIN",
+    "CARRO HUEBRA, ENEKO",
+    "ARRESE BARRENETXEA, ASIER",
+    "INCERTIS BEOBIDE, JON",
+    "EREÑO ABASOLO, MARKEL",
+    "ARANBARRI MADARIAGA, AXIBAR",
+    "GALDOS ANTUNEZ, ASIER",
+    "AGUADO INCHAURRAGA, ADRIAN",
+    "MENDIZABAL AZKUETA, MARTIN",
+    "GURTUBAI ETXEBARRIA, LIHER"
+  ],
+  "titulares_visitante": [
+    "MONTEJO YUGUEROS, UNAI",
+    "ARCE OTAOLA, ERIK",
+    "BURGOS BARBARA, BEÑAT",
+    "BARROCAL CANTERO, LANDER",
+    "RODRIGUEZ GONZALEZ, ANDER",
+    "DJILALI ARBIDE, MARKEL ADDA",
+    "PEDREIRA ESNARRIAGA, ASIER",
+    "BURGOS BARBARA, AITOR",
+    "VERGARA GOMEZ, OIER",
+    "RODRIGUEZ LOPEZ, MARKEL",
+    "GUIJARRO BRACERAS, MARIO"
+  ],
+  "suplentes_local": [
+    "HERVALEJO RODRIGUEZ, UNAI",
+    "VILLADA APARICIO, URIEL",
+    "MORENO GARCIA, ARATZ",
+    "ARETXAGA RECALDE, XEBER",
+    "DEL ARCO MARTINEZ, LIHER"
+  ],
+  "suplentes_visitante": [
+    "DURE RUIZ, CARLOS MANUEL",
+    "ARNEZ JUSTO, GIOVANNI",
+    "LEHBIB BRAHIN SALEM, CORI",
+    "WU, MINGBO"
+  ],
+  "convocados_sin_jugar_local": [
+    "HERVALEJO RODRIGUEZ, UNAI",
+    "VILLADA APARICIO, URIEL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FELIU LARRAMENDI, HODEI",
+    "ATUTXA CASTILLO, ALAIN",
+    "CARRO HUEBRA, ENEKO",
+    "ARRESE BARRENETXEA, ASIER",
+    "INCERTIS BEOBIDE, JON",
+    "EREÑO ABASOLO, MARKEL",
+    "ARANBARRI MADARIAGA, AXIBAR",
+    "GALDOS ANTUNEZ, ASIER",
+    "AGUADO INCHAURRAGA, ADRIAN",
+    "MENDIZABAL AZKUETA, MARTIN",
+    "GURTUBAI ETXEBARRIA, LIHER",
+    "MORENO GARCIA, ARATZ",
+    "DEL ARCO MARTINEZ, LIHER",
+    "ARETXAGA RECALDE, XEBER"
+  ],
+  "jugadores_visitante": [
+    "MONTEJO YUGUEROS, UNAI",
+    "ARCE OTAOLA, ERIK",
+    "BURGOS BARBARA, BEÑAT",
+    "BARROCAL CANTERO, LANDER",
+    "RODRIGUEZ GONZALEZ, ANDER",
+    "DJILALI ARBIDE, MARKEL ADDA",
+    "PEDREIRA ESNARRIAGA, ASIER",
+    "BURGOS BARBARA, AITOR",
+    "VERGARA GOMEZ, OIER",
+    "RODRIGUEZ LOPEZ, MARKEL",
+    "GUIJARRO BRACERAS, MARIO",
+    "ARNEZ JUSTO, GIOVANNI",
+    "LEHBIB BRAHIN SALEM, CORI",
+    "DURE RUIZ, CARLOS MANUEL",
+    "WU, MINGBO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "MORENO GARCIA, ARATZ",
+      "sale": "GALDOS ANTUNEZ, ASIER"
+    },
+    {
+      "min": 41,
+      "entra": "DEL ARCO MARTINEZ, LIHER",
+      "sale": "ARANBARRI MADARIAGA, AXIBAR"
+    },
+    {
+      "min": 65,
+      "entra": "ARETXAGA RECALDE, XEBER",
+      "sale": "EREÑO ABASOLO, MARKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "ARNEZ JUSTO, GIOVANNI",
+      "sale": "BARROCAL CANTERO, LANDER"
+    },
+    {
+      "min": 52,
+      "entra": "LEHBIB BRAHIN SALEM, CORI",
+      "sale": "RODRIGUEZ GONZALEZ, ANDER"
+    },
+    {
+      "min": 55,
+      "entra": "DURE RUIZ, CARLOS MANUEL",
+      "sale": "VERGARA GOMEZ, OIER"
+    },
+    {
+      "min": 60,
+      "entra": "WU, MINGBO",
+      "sale": "BURGOS BARBARA, AITOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "FELIU LARRAMENDI, HODEI": 90,
+    "ATUTXA CASTILLO, ALAIN": 90,
+    "CARRO HUEBRA, ENEKO": 90,
+    "ARRESE BARRENETXEA, ASIER": 90,
+    "INCERTIS BEOBIDE, JON": 90,
+    "EREÑO ABASOLO, MARKEL": 65,
+    "ARANBARRI MADARIAGA, AXIBAR": 41,
+    "GALDOS ANTUNEZ, ASIER": 41,
+    "AGUADO INCHAURRAGA, ADRIAN": 90,
+    "MENDIZABAL AZKUETA, MARTIN": 90,
+    "GURTUBAI ETXEBARRIA, LIHER": 90,
+    "MORENO GARCIA, ARATZ": 49,
+    "DEL ARCO MARTINEZ, LIHER": 49,
+    "ARETXAGA RECALDE, XEBER": 25,
+    "MONTEJO YUGUEROS, UNAI": 90,
+    "ARCE OTAOLA, ERIK": 90,
+    "BURGOS BARBARA, BEÑAT": 90,
+    "BARROCAL CANTERO, LANDER": 46,
+    "RODRIGUEZ GONZALEZ, ANDER": 52,
+    "DJILALI ARBIDE, MARKEL ADDA": 90,
+    "PEDREIRA ESNARRIAGA, ASIER": 90,
+    "BURGOS BARBARA, AITOR": 60,
+    "VERGARA GOMEZ, OIER": 55,
+    "RODRIGUEZ LOPEZ, MARKEL": 90,
+    "GUIJARRO BRACERAS, MARIO": 90,
+    "ARNEZ JUSTO, GIOVANNI": 44,
+    "LEHBIB BRAHIN SALEM, CORI": 38,
+    "DURE RUIZ, CARLOS MANUEL": 35,
+    "WU, MINGBO": 30
+  },
+  "portero_local": "FELIU LARRAMENDI, HODEI",
+  "portero_visitante": "MONTEJO YUGUEROS, UNAI",
+  "dorsales_local": {
+    "FELIU LARRAMENDI, HODEI": 25,
+    "ATUTXA CASTILLO, ALAIN": 4,
+    "CARRO HUEBRA, ENEKO": 7,
+    "ARRESE BARRENETXEA, ASIER": 9,
+    "INCERTIS BEOBIDE, JON": 10,
+    "EREÑO ABASOLO, MARKEL": 11,
+    "ARANBARRI MADARIAGA, AXIBAR": 14,
+    "GALDOS ANTUNEZ, ASIER": 19,
+    "AGUADO INCHAURRAGA, ADRIAN": 20,
+    "MENDIZABAL AZKUETA, MARTIN": 21,
+    "GURTUBAI ETXEBARRIA, LIHER": 24
+  },
+  "dorsales_visitante": {
+    "MONTEJO YUGUEROS, UNAI": 13,
+    "ARCE OTAOLA, ERIK": 2,
+    "BURGOS BARBARA, BEÑAT": 6,
+    "BARROCAL CANTERO, LANDER": 7,
+    "RODRIGUEZ GONZALEZ, ANDER": 9,
+    "DJILALI ARBIDE, MARKEL ADDA": 10,
+    "PEDREIRA ESNARRIAGA, ASIER": 14,
+    "BURGOS BARBARA, AITOR": 15,
+    "VERGARA GOMEZ, OIER": 16,
+    "RODRIGUEZ LOPEZ, MARKEL": 18,
+    "GUIJARRO BRACERAS, MARIO": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
