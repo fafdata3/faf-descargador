@@ -1,0 +1,257 @@
+{
+  "acta_id": "B_9973479",
+  "filename": "Acta_B_9973479.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 10,
+  "fecha": "06-12-2025",
+  "hora": "09:30",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 6)",
+  "equipo_local": "ASKARTZA B",
+  "equipo_visitante": "BERANGO B",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "DIAZ DE SARRALDE MARTIN, JON"
+  ],
+  "estadio": "ASKARTZA CLARET",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 76,
+      "jugador": "DE LAS HERAS SERTUTXA, MIKELATS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 75,
+      "jugador": "ARMOLEA OJANGUREN, EKAIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "BERANGO B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SÁNCHEZ FUENTES, XABIER",
+  "entrenador_visitante": "LAZARO GOMEZ, MIKEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "TELLITU LOZANO, JOSU",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TELLITU LOZANO, JOSU",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RIOS ANTXIA, OIER",
+    "ARMOLEA OJANGUREN, EKAIN",
+    "ARRIETA ZORRAKIN, MIKEL",
+    "CARRASCAL DOMINGUEZ DE VIDAURRETA, JON",
+    "GUTIERREZ HERRAN, SANTIAGO",
+    "RUIZ PEÑA, ELEDER",
+    "ASANZA AYO, ARITZ",
+    "SALGUERO LOZANO, TXABER",
+    "EGUIA PARRA, UNAI",
+    "BILBAO CORIA, PAUL",
+    "BERROETA CAÑAS, AITOR"
+  ],
+  "titulares_visitante": [
+    "NAVIA BARRECHEGUREN, AUKAN",
+    "MATVEEV CEAMBRU, LUCAS",
+    "MANCEÑIDO ABAD, ALEX",
+    "ITURREGUI GOMEZ, MARC",
+    "MURILLO LIMPIAS, OLIVER",
+    "RIAÑO GOMEZ, MIKEL",
+    "GARMENDIA ZARAZUA, UNAI",
+    "LOPEZ CARBAJO, IKER",
+    "GOMEZ LOPEZ, AIMAR",
+    "BORRAS MARTIN, GUILLEM",
+    "URIBE ISUSI, TOMAS"
+  ],
+  "suplentes_local": [
+    "ECHEVARRIA AROSTEGUI, MARKEL",
+    "BILBAO SANTOS, MIKEL",
+    "PEREZ GARCIA, IZAI",
+    "BASTERRETXEA ZULUETA, AITZOL",
+    "ASANZA AYO, ANDER",
+    "DURANA MANGADO, MIKEL",
+    "BILLELABEITIA GARCIA-ESCUDERO, DANEL"
+  ],
+  "suplentes_visitante": [
+    "LARRAMENDI JORGE, PABLO",
+    "LOPEZ ACERO, ARITZ",
+    "REVILLA LOPEZ, SENDOA",
+    "SANCHEZ DELGADO, BRUCE",
+    "SIERRA VILLARROEL, AIMAR",
+    "DE LAS HERAS SERTUTXA, MIKELATS"
+  ],
+  "convocados_sin_jugar_local": [
+    "ECHEVARRIA AROSTEGUI, MARKEL",
+    "BILLELABEITIA GARCIA-ESCUDERO, DANEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "REVILLA LOPEZ, SENDOA"
+  ],
+  "jugadores_local": [
+    "RIOS ANTXIA, OIER",
+    "ARMOLEA OJANGUREN, EKAIN",
+    "ARRIETA ZORRAKIN, MIKEL",
+    "CARRASCAL DOMINGUEZ DE VIDAURRETA, JON",
+    "GUTIERREZ HERRAN, SANTIAGO",
+    "RUIZ PEÑA, ELEDER",
+    "ASANZA AYO, ARITZ",
+    "SALGUERO LOZANO, TXABER",
+    "EGUIA PARRA, UNAI",
+    "BILBAO CORIA, PAUL",
+    "BERROETA CAÑAS, AITOR",
+    "DURANA MANGADO, MIKEL",
+    "PEREZ GARCIA, IZAI",
+    "BILBAO SANTOS, MIKEL",
+    "BASTERRETXEA ZULUETA, AITZOL",
+    "ASANZA AYO, ANDER"
+  ],
+  "jugadores_visitante": [
+    "NAVIA BARRECHEGUREN, AUKAN",
+    "MATVEEV CEAMBRU, LUCAS",
+    "MANCEÑIDO ABAD, ALEX",
+    "ITURREGUI GOMEZ, MARC",
+    "MURILLO LIMPIAS, OLIVER",
+    "RIAÑO GOMEZ, MIKEL",
+    "GARMENDIA ZARAZUA, UNAI",
+    "LOPEZ CARBAJO, IKER",
+    "GOMEZ LOPEZ, AIMAR",
+    "BORRAS MARTIN, GUILLEM",
+    "URIBE ISUSI, TOMAS",
+    "DE LAS HERAS SERTUTXA, MIKELATS",
+    "SANCHEZ DELGADO, BRUCE",
+    "LARRAMENDI JORGE, PABLO",
+    "LOPEZ ACERO, ARITZ",
+    "SIERRA VILLARROEL, AIMAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "DURANA MANGADO, MIKEL",
+      "sale": "SALGUERO LOZANO, TXABER"
+    },
+    {
+      "min": 69,
+      "entra": "PEREZ GARCIA, IZAI",
+      "sale": "ARRIETA ZORRAKIN, MIKEL"
+    },
+    {
+      "min": 69,
+      "entra": "BILBAO SANTOS, MIKEL",
+      "sale": "RUIZ PEÑA, ELEDER"
+    },
+    {
+      "min": 86,
+      "entra": "BASTERRETXEA ZULUETA, AITZOL",
+      "sale": "ARMOLEA OJANGUREN, EKAIN"
+    },
+    {
+      "min": 86,
+      "entra": "ASANZA AYO, ANDER",
+      "sale": "BERROETA CAÑAS, AITOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "DE LAS HERAS SERTUTXA, MIKELATS",
+      "sale": "MURILLO LIMPIAS, OLIVER"
+    },
+    {
+      "min": 62,
+      "entra": "SANCHEZ DELGADO, BRUCE",
+      "sale": "MANCEÑIDO ABAD, ALEX"
+    },
+    {
+      "min": 62,
+      "entra": "LARRAMENDI JORGE, PABLO",
+      "sale": "GARMENDIA ZARAZUA, UNAI"
+    },
+    {
+      "min": 83,
+      "entra": "LOPEZ ACERO, ARITZ",
+      "sale": "RIAÑO GOMEZ, MIKEL"
+    },
+    {
+      "min": 83,
+      "entra": "SIERRA VILLARROEL, AIMAR",
+      "sale": "ITURREGUI GOMEZ, MARC"
+    }
+  ],
+  "minutos_jugadores": {
+    "RIOS ANTXIA, OIER": 90,
+    "ARMOLEA OJANGUREN, EKAIN": 86,
+    "ARRIETA ZORRAKIN, MIKEL": 69,
+    "CARRASCAL DOMINGUEZ DE VIDAURRETA, JON": 90,
+    "GUTIERREZ HERRAN, SANTIAGO": 90,
+    "RUIZ PEÑA, ELEDER": 69,
+    "ASANZA AYO, ARITZ": 90,
+    "SALGUERO LOZANO, TXABER": 58,
+    "EGUIA PARRA, UNAI": 90,
+    "BILBAO CORIA, PAUL": 90,
+    "BERROETA CAÑAS, AITOR": 86,
+    "DURANA MANGADO, MIKEL": 32,
+    "PEREZ GARCIA, IZAI": 21,
+    "BILBAO SANTOS, MIKEL": 21,
+    "BASTERRETXEA ZULUETA, AITZOL": 4,
+    "ASANZA AYO, ANDER": 4,
+    "NAVIA BARRECHEGUREN, AUKAN": 90,
+    "MATVEEV CEAMBRU, LUCAS": 90,
+    "MANCEÑIDO ABAD, ALEX": 62,
+    "ITURREGUI GOMEZ, MARC": 83,
+    "MURILLO LIMPIAS, OLIVER": 46,
+    "RIAÑO GOMEZ, MIKEL": 83,
+    "GARMENDIA ZARAZUA, UNAI": 62,
+    "LOPEZ CARBAJO, IKER": 90,
+    "GOMEZ LOPEZ, AIMAR": 90,
+    "BORRAS MARTIN, GUILLEM": 90,
+    "URIBE ISUSI, TOMAS": 90,
+    "DE LAS HERAS SERTUTXA, MIKELATS": 44,
+    "SANCHEZ DELGADO, BRUCE": 28,
+    "LARRAMENDI JORGE, PABLO": 28,
+    "LOPEZ ACERO, ARITZ": 7,
+    "SIERRA VILLARROEL, AIMAR": 7
+  },
+  "portero_local": "RIOS ANTXIA, OIER",
+  "portero_visitante": "NAVIA BARRECHEGUREN, AUKAN",
+  "dorsales_local": {
+    "RIOS ANTXIA, OIER": 13,
+    "ARMOLEA OJANGUREN, EKAIN": 2,
+    "ARRIETA ZORRAKIN, MIKEL": 4,
+    "CARRASCAL DOMINGUEZ DE VIDAURRETA, JON": 6,
+    "GUTIERREZ HERRAN, SANTIAGO": 8,
+    "RUIZ PEÑA, ELEDER": 9,
+    "ASANZA AYO, ARITZ": 11,
+    "SALGUERO LOZANO, TXABER": 16,
+    "EGUIA PARRA, UNAI": 17,
+    "BILBAO CORIA, PAUL": 21,
+    "BERROETA CAÑAS, AITOR": 22
+  },
+  "dorsales_visitante": {
+    "NAVIA BARRECHEGUREN, AUKAN": 1,
+    "MATVEEV CEAMBRU, LUCAS": 4,
+    "MANCEÑIDO ABAD, ALEX": 5,
+    "ITURREGUI GOMEZ, MARC": 8,
+    "MURILLO LIMPIAS, OLIVER": 9,
+    "RIAÑO GOMEZ, MIKEL": 10,
+    "GARMENDIA ZARAZUA, UNAI": 12,
+    "LOPEZ CARBAJO, IKER": 14,
+    "GOMEZ LOPEZ, AIMAR": 17,
+    "BORRAS MARTIN, GUILLEM": 19,
+    "URIBE ISUSI, TOMAS": 22
+  },
+  "suspendidos": []
+}
