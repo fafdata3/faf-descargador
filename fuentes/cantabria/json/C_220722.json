@@ -1,0 +1,256 @@
+{
+  "acta_id": "C_220722",
+  "filename": "Acta_C_220722.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "29-11-2025",
+  "hora": "11:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. REVILLA A",
+  "equipo_visitante": "E.D.M. CAYON A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GADEA LOPEZ, MARIO"
+  ],
+  "estadio": "Revilla",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 46,
+      "jugador": "VAQUERO IGLESIAS, MIGUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "OBREGON FERNANDEZ, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "COTERO SAMPERIO, AARON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "PEROJO HERNANDO, MANUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "E.D.M. CAYON A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALVAREZ CARRASCO, OSCAR E",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "HOZ MUÑOZ, JOSE ALBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HOZ MUÑOZ, JOSE ALBERTO",
+  "delegado_equipo_visitante": "CEBALLOS PRIETO, MARIO",
+  "titulares_local": [
+    "ARCE GONZALEZ, JAIME",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "PATIÑO OREJUELA, DAVID",
+    "PEROJO HERNANDO, MANUEL",
+    "HORRILLO CAÑEDO, ALEX",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "RUIZ MARTINEZ, JULEN"
+  ],
+  "titulares_visitante": [
+    "BECERRIL ALONSO, ALVARO",
+    "GARCES PEDRAJA, ESDRAS",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "RABAGO FERNANDEZ, MARIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "COBO HERRERA, PABLO",
+    "ESPINEL RUIZ, IKER",
+    "BARCENA GARCIA, PEDRO",
+    "PEDRAJO PEREZ, CRISTIAN",
+    "OBREGON FERNANDEZ, MARIO",
+    "SANTAMARIA GUTIERREZ, YAGO"
+  ],
+  "suplentes_local": [
+    "TORRE EXPOSITO, MARCO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "DIALLO KEBE, EL HADJ MALICK",
+    "STOCKER LAYA, EVAN",
+    "FERRER PENAGOS, MARTÍN"
+  ],
+  "suplentes_visitante": [
+    "PRECIADO GONZALEZ, DIEGO",
+    "COBO COBO, CRISTIAN",
+    "COTERO SAMPERIO, AARON",
+    "ASENSIO PILA, HECTOR"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARCE GONZALEZ, JAIME",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "PATIÑO OREJUELA, DAVID",
+    "PEROJO HERNANDO, MANUEL",
+    "HORRILLO CAÑEDO, ALEX",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "RUIZ MARTINEZ, JULEN",
+    "TORRE EXPOSITO, MARCO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "STOCKER LAYA, EVAN",
+    "FERRER PENAGOS, MARTÍN",
+    "DIALLO KEBE, EL HADJ MALICK"
+  ],
+  "jugadores_visitante": [
+    "BECERRIL ALONSO, ALVARO",
+    "GARCES PEDRAJA, ESDRAS",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "RABAGO FERNANDEZ, MARIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "COBO HERRERA, PABLO",
+    "ESPINEL RUIZ, IKER",
+    "BARCENA GARCIA, PEDRO",
+    "PEDRAJO PEREZ, CRISTIAN",
+    "OBREGON FERNANDEZ, MARIO",
+    "SANTAMARIA GUTIERREZ, YAGO",
+    "PRECIADO GONZALEZ, DIEGO",
+    "ASENSIO PILA, HECTOR",
+    "COTERO SAMPERIO, AARON",
+    "COBO COBO, CRISTIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "TORRE EXPOSITO, MARCO",
+      "sale": "ARCE GONZALEZ, JAIME"
+    },
+    {
+      "min": 48,
+      "entra": "REBOLLEDO GARCIA, OLIVER",
+      "sale": "RUIZ MARTINEZ, JULEN"
+    },
+    {
+      "min": 48,
+      "entra": "STOCKER LAYA, EVAN",
+      "sale": "HORRILLO CAÑEDO, ALEX"
+    },
+    {
+      "min": 60,
+      "entra": "FERRER PENAGOS, MARTÍN",
+      "sale": "VAQUERO IGLESIAS, MIGUEL"
+    },
+    {
+      "min": 60,
+      "entra": "DIALLO KEBE, EL HADJ MALICK",
+      "sale": "PATIÑO OREJUELA, DAVID"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 43,
+      "entra": "PRECIADO GONZALEZ, DIEGO",
+      "sale": "COBO HERRERA, PABLO"
+    },
+    {
+      "min": 43,
+      "entra": "ASENSIO PILA, HECTOR",
+      "sale": "ESPINEL RUIZ, IKER"
+    },
+    {
+      "min": 48,
+      "entra": "COTERO SAMPERIO, AARON",
+      "sale": "CILLERUELO FERNANDEZ, RAUL"
+    },
+    {
+      "min": 54,
+      "entra": "COBO COBO, CRISTIAN",
+      "sale": "PEDRAJO PEREZ, CRISTIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARCE GONZALEZ, JAIME": 35,
+    "JIMENEZ GALDIANO, HUGO": 90,
+    "LOPEZ SAMANIEGO, FEDERICO": 90,
+    "JUANGO HERRERIA, ALVARO": 90,
+    "GUTIERREZ NEGRAL, YAGO": 90,
+    "DIEZ VELASCO, JUAN": 90,
+    "PATIÑO OREJUELA, DAVID": 60,
+    "PEROJO HERNANDO, MANUEL": 90,
+    "HORRILLO CAÑEDO, ALEX": 48,
+    "VAQUERO IGLESIAS, MIGUEL": 60,
+    "RUIZ MARTINEZ, JULEN": 48,
+    "TORRE EXPOSITO, MARCO": 55,
+    "REBOLLEDO GARCIA, OLIVER": 42,
+    "STOCKER LAYA, EVAN": 42,
+    "FERRER PENAGOS, MARTÍN": 30,
+    "DIALLO KEBE, EL HADJ MALICK": 30,
+    "BECERRIL ALONSO, ALVARO": 90,
+    "GARCES PEDRAJA, ESDRAS": 90,
+    "CILLERUELO FERNANDEZ, RAUL": 48,
+    "RABAGO FERNANDEZ, MARIO": 90,
+    "CRESPO FRECHOSO, VICTOR": 90,
+    "COBO HERRERA, PABLO": 43,
+    "ESPINEL RUIZ, IKER": 43,
+    "BARCENA GARCIA, PEDRO": 90,
+    "PEDRAJO PEREZ, CRISTIAN": 54,
+    "OBREGON FERNANDEZ, MARIO": 90,
+    "SANTAMARIA GUTIERREZ, YAGO": 90,
+    "PRECIADO GONZALEZ, DIEGO": 47,
+    "ASENSIO PILA, HECTOR": 47,
+    "COTERO SAMPERIO, AARON": 42,
+    "COBO COBO, CRISTIAN": 36
+  },
+  "portero_local": "ARCE GONZALEZ, JAIME",
+  "portero_visitante": "BECERRIL ALONSO, ALVARO",
+  "dorsales_local": {
+    "ARCE GONZALEZ, JAIME": 13,
+    "JIMENEZ GALDIANO, HUGO": 2,
+    "LOPEZ SAMANIEGO, FEDERICO": 3,
+    "JUANGO HERRERIA, ALVARO": 4,
+    "GUTIERREZ NEGRAL, YAGO": 5,
+    "DIEZ VELASCO, JUAN": 6,
+    "PATIÑO OREJUELA, DAVID": 7,
+    "PEROJO HERNANDO, MANUEL": 12,
+    "HORRILLO CAÑEDO, ALEX": 16,
+    "VAQUERO IGLESIAS, MIGUEL": 17,
+    "RUIZ MARTINEZ, JULEN": 22
+  },
+  "dorsales_visitante": {
+    "BECERRIL ALONSO, ALVARO": 1,
+    "GARCES PEDRAJA, ESDRAS": 2,
+    "CILLERUELO FERNANDEZ, RAUL": 3,
+    "RABAGO FERNANDEZ, MARIO": 7,
+    "CRESPO FRECHOSO, VICTOR": 8,
+    "COBO HERRERA, PABLO": 14,
+    "ESPINEL RUIZ, IKER": 16,
+    "BARCENA GARCIA, PEDRO": 18,
+    "PEDRAJO PEREZ, CRISTIAN": 19,
+    "OBREGON FERNANDEZ, MARIO": 30,
+    "SANTAMARIA GUTIERREZ, YAGO": 33
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
