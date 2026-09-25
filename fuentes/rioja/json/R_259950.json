@@ -1,0 +1,291 @@
+{
+  "acta_id": "R_259950",
+  "filename": "Acta_R_259950.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "18-09-2026",
+  "hora": "17:15",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "VILLEGAS",
+  "equipo_visitante": "UD LOGROÑÉS B",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "RUIZ GOMEZ, MARIO",
+    "Árbitro Asistente",
+    "RUIZ GOMEZ, JORGE",
+    "Árbitro Asistente",
+    "GIL MORRAS, SERGIO"
+  ],
+  "estadio": "C.D.M. LA RIBERA - H.A. (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 40,
+      "jugador": "OCON PESO, JUAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "RIONÉ MARTINEZ, CARLOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 86,
+      "jugador": "GRIJALBA ROYO, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 49,
+      "jugador": "SANZ RUIZ ESQUIDE, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "ROMERO GARCIA, LUIS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "NVE OBAMA, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "UD LOGROÑÉS B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JUANEDA AYENSA, DAVID",
+  "entrenador_visitante": "ADAN ARREA, JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "TRICIO RUIZ, ALBERTO JESUS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ROJO SAEZ, JAVIER",
+  "delegado_equipo_visitante": "SAINZ MARTINEZ, PEDRO J",
+  "titulares_local": [
+    "RIO DIAZ DE GUEREÑU, EÑAUT",
+    "SHAKPOKE EMMANUEL, WESLEY",
+    "DE CORTA MARTINEZ, RODRIGO",
+    "ROJO MARTIN P, ADRIAN",
+    "FERNANDEZ L PEREZ, PABLO",
+    "ZARUMA QUIZHPE, HUGO ALEXANDER",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE",
+    "BURGOS VILAMOR, BRUNO",
+    "MARTINEZ SUSO, MARIO",
+    "SANZ RUIZ ESQUIDE, SERGIO",
+    "FUENTES OVEJAS, MANUEL"
+  ],
+  "titulares_visitante": [
+    "BLANCO ESPARZA, JORGE",
+    "MENA GALAR, NICOLAS",
+    "SAEZ ESCUDER, CARLOS",
+    "RIONÉ MARTINEZ, CARLOS",
+    "BAZ HERNANDEZ, LUKAS",
+    "BERMEJO GALLASTEGUI, ALVARO",
+    "ROMERO SERRANO, DIEGO",
+    "PASCUAL MONTOYA, SAMUEL",
+    "MARTIN BRIONES, DIEGO",
+    "CAÑAS SAN JOSE, ROBERTO",
+    "OCON PESO, JUAN"
+  ],
+  "suplentes_local": [
+    "SAMPEDRO FERNANDEZ, RODRIGO",
+    "LAGLAOUI EL GHERYB, ADAM",
+    "ROMERO GARCIA, LUIS",
+    "APODACA RAME, MATEO",
+    "NVE OBAMA, DANIEL",
+    "GARCIA MIGUEL, PEDRO",
+    "LARA PAREDES, JHENDERSON"
+  ],
+  "suplentes_visitante": [
+    "RUIZ SIGUENZA, CESAR",
+    "GOMEZ SIERRA, ADRIAN",
+    "ERDOZAIN MESEGUER, JAVIER",
+    "SANCHO FERNANDEZ, RODRIGO",
+    "PESO MIGUEL, IÑIGO",
+    "FERNANDEZ SANTOLAYA, AIMAR",
+    "GRIJALBA ROYO, LUCAS"
+  ],
+  "convocados_sin_jugar_local": [
+    "SAMPEDRO FERNANDEZ, RODRIGO",
+    "LARA PAREDES, JHENDERSON"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SANCHO FERNANDEZ, RODRIGO",
+    "PESO MIGUEL, IÑIGO"
+  ],
+  "jugadores_local": [
+    "RIO DIAZ DE GUEREÑU, EÑAUT",
+    "SHAKPOKE EMMANUEL, WESLEY",
+    "DE CORTA MARTINEZ, RODRIGO",
+    "ROJO MARTIN P, ADRIAN",
+    "FERNANDEZ L PEREZ, PABLO",
+    "ZARUMA QUIZHPE, HUGO ALEXANDER",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE",
+    "BURGOS VILAMOR, BRUNO",
+    "MARTINEZ SUSO, MARIO",
+    "SANZ RUIZ ESQUIDE, SERGIO",
+    "FUENTES OVEJAS, MANUEL",
+    "APODACA RAME, MATEO",
+    "NVE OBAMA, DANIEL",
+    "ROMERO GARCIA, LUIS",
+    "GARCIA MIGUEL, PEDRO",
+    "LAGLAOUI EL GHERYB, ADAM"
+  ],
+  "jugadores_visitante": [
+    "BLANCO ESPARZA, JORGE",
+    "MENA GALAR, NICOLAS",
+    "SAEZ ESCUDER, CARLOS",
+    "RIONÉ MARTINEZ, CARLOS",
+    "BAZ HERNANDEZ, LUKAS",
+    "BERMEJO GALLASTEGUI, ALVARO",
+    "ROMERO SERRANO, DIEGO",
+    "PASCUAL MONTOYA, SAMUEL",
+    "MARTIN BRIONES, DIEGO",
+    "CAÑAS SAN JOSE, ROBERTO",
+    "OCON PESO, JUAN",
+    "RUIZ SIGUENZA, CESAR",
+    "GOMEZ SIERRA, ADRIAN",
+    "FERNANDEZ SANTOLAYA, AIMAR",
+    "GRIJALBA ROYO, LUCAS",
+    "ERDOZAIN MESEGUER, JAVIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "APODACA RAME, MATEO",
+      "sale": "FUENTES OVEJAS, MANUEL"
+    },
+    {
+      "min": 52,
+      "entra": "NVE OBAMA, DANIEL",
+      "sale": "VALBUENA GUDIÑO, FRANCISCO JOSE"
+    },
+    {
+      "min": 63,
+      "entra": "ROMERO GARCIA, LUIS",
+      "sale": "ZARUMA QUIZHPE, HUGO ALEXANDER"
+    },
+    {
+      "min": 63,
+      "entra": "GARCIA MIGUEL, PEDRO",
+      "sale": "SANZ RUIZ ESQUIDE, SERGIO"
+    },
+    {
+      "min": 85,
+      "entra": "LAGLAOUI EL GHERYB, ADAM",
+      "sale": "DE CORTA MARTINEZ, RODRIGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "RUIZ SIGUENZA, CESAR",
+      "sale": "BERMEJO GALLASTEGUI, ALVARO"
+    },
+    {
+      "min": 60,
+      "entra": "GOMEZ SIERRA, ADRIAN",
+      "sale": "CAÑAS SAN JOSE, ROBERTO"
+    },
+    {
+      "min": 60,
+      "entra": "FERNANDEZ SANTOLAYA, AIMAR",
+      "sale": "RIONÉ MARTINEZ, CARLOS"
+    },
+    {
+      "min": 60,
+      "entra": "GRIJALBA ROYO, LUCAS",
+      "sale": "ROMERO SERRANO, DIEGO"
+    },
+    {
+      "min": 67,
+      "entra": "ERDOZAIN MESEGUER, JAVIER",
+      "sale": "MENA GALAR, NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "RIO DIAZ DE GUEREÑU, EÑAUT": 90,
+    "SHAKPOKE EMMANUEL, WESLEY": 90,
+    "DE CORTA MARTINEZ, RODRIGO": 85,
+    "ROJO MARTIN P, ADRIAN": 90,
+    "FERNANDEZ L PEREZ, PABLO": 90,
+    "ZARUMA QUIZHPE, HUGO ALEXANDER": 63,
+    "VALBUENA GUDIÑO, FRANCISCO JOSE": 52,
+    "BURGOS VILAMOR, BRUNO": 90,
+    "MARTINEZ SUSO, MARIO": 90,
+    "SANZ RUIZ ESQUIDE, SERGIO": 63,
+    "FUENTES OVEJAS, MANUEL": 52,
+    "APODACA RAME, MATEO": 38,
+    "NVE OBAMA, DANIEL": 38,
+    "ROMERO GARCIA, LUIS": 27,
+    "GARCIA MIGUEL, PEDRO": 27,
+    "LAGLAOUI EL GHERYB, ADAM": 5,
+    "BLANCO ESPARZA, JORGE": 90,
+    "MENA GALAR, NICOLAS": 67,
+    "SAEZ ESCUDER, CARLOS": 90,
+    "RIONÉ MARTINEZ, CARLOS": 60,
+    "BAZ HERNANDEZ, LUKAS": 90,
+    "BERMEJO GALLASTEGUI, ALVARO": 46,
+    "ROMERO SERRANO, DIEGO": 60,
+    "PASCUAL MONTOYA, SAMUEL": 90,
+    "MARTIN BRIONES, DIEGO": 90,
+    "CAÑAS SAN JOSE, ROBERTO": 60,
+    "OCON PESO, JUAN": 90,
+    "RUIZ SIGUENZA, CESAR": 44,
+    "GOMEZ SIERRA, ADRIAN": 30,
+    "FERNANDEZ SANTOLAYA, AIMAR": 30,
+    "GRIJALBA ROYO, LUCAS": 30,
+    "ERDOZAIN MESEGUER, JAVIER": 23
+  },
+  "portero_local": "RIO DIAZ DE GUEREÑU, EÑAUT",
+  "portero_visitante": "BLANCO ESPARZA, JORGE",
+  "dorsales_local": {
+    "RIO DIAZ DE GUEREÑU, EÑAUT": 1,
+    "SHAKPOKE EMMANUEL, WESLEY": 2,
+    "DE CORTA MARTINEZ, RODRIGO": 3,
+    "ROJO MARTIN P, ADRIAN": 4,
+    "FERNANDEZ L PEREZ, PABLO": 5,
+    "ZARUMA QUIZHPE, HUGO ALEXANDER": 6,
+    "VALBUENA GUDIÑO, FRANCISCO JOSE": 7,
+    "BURGOS VILAMOR, BRUNO": 8,
+    "MARTINEZ SUSO, MARIO": 9,
+    "SANZ RUIZ ESQUIDE, SERGIO": 10,
+    "FUENTES OVEJAS, MANUEL": 11
+  },
+  "dorsales_visitante": {
+    "BLANCO ESPARZA, JORGE": 1,
+    "MENA GALAR, NICOLAS": 2,
+    "SAEZ ESCUDER, CARLOS": 3,
+    "RIONÉ MARTINEZ, CARLOS": 4,
+    "BAZ HERNANDEZ, LUKAS": 5,
+    "BERMEJO GALLASTEGUI, ALVARO": 6,
+    "ROMERO SERRANO, DIEGO": 8,
+    "PASCUAL MONTOYA, SAMUEL": 9,
+    "MARTIN BRIONES, DIEGO": 18,
+    "CAÑAS SAN JOSE, ROBERTO": 19,
+    "OCON PESO, JUAN": 24
+  },
+  "suspendidos": []
+}
