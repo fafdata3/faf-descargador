@@ -1,0 +1,258 @@
+{
+  "acta_id": "B_9974233",
+  "filename": "Acta_B_9974233.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "14-02-2026",
+  "hora": "17:45",
+  "categoria": "TERCERA DIVISIÓN 3A / HIRUGARREN MAILA (GRUPO 4)",
+  "equipo_local": "TXURDINAGA",
+  "equipo_visitante": "LA SALLE",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "GALLEGO LAFUENTE, MARTIN"
+  ],
+  "estadio": "IBARSUSI B",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 39,
+      "jugador": "AURREKOETXEA RETORTILLO, IBON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "DIAZ AMAYA, BORJA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "AURREKOETXEA RETORTILLO, IBON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "FERNANDEZ MARTINEZ, ASIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "LA SALLE",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FERNANDEZ GONZALEZ A, DAVID",
+  "entrenador_visitante": "VICARIO MANTRANA, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BARQUÍN BLESA, JOSÉ JAIRO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BARQUÍN BLESA, JOSÉ JAIRO",
+  "delegado_equipo_visitante": "OLEAGA CASTELLET, PEDRO",
+  "titulares_local": [
+    "REY CRUZ, JULEN",
+    "SOLAGUREN LAGOS, XABIER",
+    "FERNANDEZ MARTINEZ, ASIER",
+    "SOLIZ ESTRADA, MARCO ANTONIO",
+    "DIAZ AMAYA, BORJA",
+    "ARNAIZ FRANCO, MARKEL",
+    "PEREZ GOMEZ, MIKEL",
+    "ARGINTXONA GOMEZ, IBAI",
+    "MARTINEZ ARROYUELO, UNAX",
+    "AURREKOETXEA RETORTILLO, IBON",
+    "ALVARO ROMERO, ERLANTZ"
+  ],
+  "titulares_visitante": [
+    "ORBEGOZO MARTIN, DAVID",
+    "RIAÑO VICENTE, DIEGO",
+    "EIZAGUIRRE MARTINEZ, UNAI",
+    "ECHAZARRA ALONSO, AITOR",
+    "BRAVO DE PRADO, JAVIER",
+    "GARRIGA GALINDO, MIKEL",
+    "CASTILLO SANJUAN, ALEXANDER",
+    "LASA SUAREZ, PABLO",
+    "PUJANA BILBAO, ANDER",
+    "IBAÑEZ FERNANDEZ, EKAITZ",
+    "MUGERTZA EZKURRA, BEÑAT"
+  ],
+  "suplentes_local": [
+    "LAWAL, SALEH",
+    "RICO SANZ, LANDER",
+    "PAGOLA PERAL, IMANOL",
+    "GUENDOUL, FOUAD"
+  ],
+  "suplentes_visitante": [
+    "EZAMA MOLINA, JON",
+    "SANCHEZ DE LUNA AGUIAR, URKO",
+    "BARDISA GOROSTIZAGA, IÑIGO",
+    "PILO DE DIEGO, IBON",
+    "RENTERIA BEDIALAUNETA, ENEKO",
+    "RIOJA BURGOA, MIKEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "EZAMA MOLINA, JON"
+  ],
+  "jugadores_local": [
+    "REY CRUZ, JULEN",
+    "SOLAGUREN LAGOS, XABIER",
+    "FERNANDEZ MARTINEZ, ASIER",
+    "SOLIZ ESTRADA, MARCO ANTONIO",
+    "DIAZ AMAYA, BORJA",
+    "ARNAIZ FRANCO, MARKEL",
+    "PEREZ GOMEZ, MIKEL",
+    "ARGINTXONA GOMEZ, IBAI",
+    "MARTINEZ ARROYUELO, UNAX",
+    "AURREKOETXEA RETORTILLO, IBON",
+    "ALVARO ROMERO, ERLANTZ",
+    "LAWAL, SALEH",
+    "PAGOLA PERAL, IMANOL",
+    "RICO SANZ, LANDER",
+    "GUENDOUL, FOUAD"
+  ],
+  "jugadores_visitante": [
+    "ORBEGOZO MARTIN, DAVID",
+    "RIAÑO VICENTE, DIEGO",
+    "EIZAGUIRRE MARTINEZ, UNAI",
+    "ECHAZARRA ALONSO, AITOR",
+    "BRAVO DE PRADO, JAVIER",
+    "GARRIGA GALINDO, MIKEL",
+    "CASTILLO SANJUAN, ALEXANDER",
+    "LASA SUAREZ, PABLO",
+    "PUJANA BILBAO, ANDER",
+    "IBAÑEZ FERNANDEZ, EKAITZ",
+    "MUGERTZA EZKURRA, BEÑAT",
+    "RENTERIA BEDIALAUNETA, ENEKO",
+    "RIOJA BURGOA, MIKEL",
+    "SANCHEZ DE LUNA AGUIAR, URKO",
+    "BARDISA GOROSTIZAGA, IÑIGO",
+    "PILO DE DIEGO, IBON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "LAWAL, SALEH",
+      "sale": "FERNANDEZ MARTINEZ, ASIER"
+    },
+    {
+      "min": 58,
+      "entra": "PAGOLA PERAL, IMANOL",
+      "sale": "SOLIZ ESTRADA, MARCO ANTONIO"
+    },
+    {
+      "min": 73,
+      "entra": "RICO SANZ, LANDER",
+      "sale": "DIAZ AMAYA, BORJA"
+    },
+    {
+      "min": 73,
+      "entra": "GUENDOUL, FOUAD",
+      "sale": "MARTINEZ ARROYUELO, UNAX"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "RENTERIA BEDIALAUNETA, ENEKO",
+      "sale": "BRAVO DE PRADO, JAVIER"
+    },
+    {
+      "min": 61,
+      "entra": "RIOJA BURGOA, MIKEL",
+      "sale": "MUGERTZA EZKURRA, BEÑAT"
+    },
+    {
+      "min": 73,
+      "entra": "SANCHEZ DE LUNA AGUIAR, URKO",
+      "sale": "PUJANA BILBAO, ANDER"
+    },
+    {
+      "min": 83,
+      "entra": "BARDISA GOROSTIZAGA, IÑIGO",
+      "sale": "GARRIGA GALINDO, MIKEL"
+    },
+    {
+      "min": 83,
+      "entra": "PILO DE DIEGO, IBON",
+      "sale": "CASTILLO SANJUAN, ALEXANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "REY CRUZ, JULEN": 90,
+    "SOLAGUREN LAGOS, XABIER": 90,
+    "FERNANDEZ MARTINEZ, ASIER": 44,
+    "SOLIZ ESTRADA, MARCO ANTONIO": 58,
+    "DIAZ AMAYA, BORJA": 73,
+    "ARNAIZ FRANCO, MARKEL": 90,
+    "PEREZ GOMEZ, MIKEL": 90,
+    "ARGINTXONA GOMEZ, IBAI": 90,
+    "MARTINEZ ARROYUELO, UNAX": 73,
+    "AURREKOETXEA RETORTILLO, IBON": 90,
+    "ALVARO ROMERO, ERLANTZ": 90,
+    "LAWAL, SALEH": 46,
+    "PAGOLA PERAL, IMANOL": 32,
+    "RICO SANZ, LANDER": 17,
+    "GUENDOUL, FOUAD": 17,
+    "ORBEGOZO MARTIN, DAVID": 90,
+    "RIAÑO VICENTE, DIEGO": 90,
+    "EIZAGUIRRE MARTINEZ, UNAI": 90,
+    "ECHAZARRA ALONSO, AITOR": 90,
+    "BRAVO DE PRADO, JAVIER": 61,
+    "GARRIGA GALINDO, MIKEL": 83,
+    "CASTILLO SANJUAN, ALEXANDER": 83,
+    "LASA SUAREZ, PABLO": 90,
+    "PUJANA BILBAO, ANDER": 73,
+    "IBAÑEZ FERNANDEZ, EKAITZ": 90,
+    "MUGERTZA EZKURRA, BEÑAT": 61,
+    "RENTERIA BEDIALAUNETA, ENEKO": 29,
+    "RIOJA BURGOA, MIKEL": 29,
+    "SANCHEZ DE LUNA AGUIAR, URKO": 17,
+    "BARDISA GOROSTIZAGA, IÑIGO": 7,
+    "PILO DE DIEGO, IBON": 7
+  },
+  "portero_local": "REY CRUZ, JULEN",
+  "portero_visitante": "ORBEGOZO MARTIN, DAVID",
+  "dorsales_local": {
+    "REY CRUZ, JULEN": 1,
+    "SOLAGUREN LAGOS, XABIER": 3,
+    "FERNANDEZ MARTINEZ, ASIER": 4,
+    "SOLIZ ESTRADA, MARCO ANTONIO": 6,
+    "DIAZ AMAYA, BORJA": 8,
+    "ARNAIZ FRANCO, MARKEL": 10,
+    "PEREZ GOMEZ, MIKEL": 11,
+    "ARGINTXONA GOMEZ, IBAI": 16,
+    "MARTINEZ ARROYUELO, UNAX": 18,
+    "AURREKOETXEA RETORTILLO, IBON": 19,
+    "ALVARO ROMERO, ERLANTZ": 21
+  },
+  "dorsales_visitante": {
+    "ORBEGOZO MARTIN, DAVID": 13,
+    "RIAÑO VICENTE, DIEGO": 2,
+    "EIZAGUIRRE MARTINEZ, UNAI": 3,
+    "ECHAZARRA ALONSO, AITOR": 4,
+    "BRAVO DE PRADO, JAVIER": 6,
+    "GARRIGA GALINDO, MIKEL": 7,
+    "CASTILLO SANJUAN, ALEXANDER": 8,
+    "LASA SUAREZ, PABLO": 9,
+    "PUJANA BILBAO, ANDER": 11,
+    "IBAÑEZ FERNANDEZ, EKAITZ": 20,
+    "MUGERTZA EZKURRA, BEÑAT": 21
+  },
+  "suspendidos": []
+}
