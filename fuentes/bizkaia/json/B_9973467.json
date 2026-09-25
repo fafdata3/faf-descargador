@@ -1,0 +1,252 @@
+{
+  "acta_id": "B_9973467",
+  "filename": "Acta_B_9973467.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 9,
+  "fecha": "29-11-2025",
+  "hora": "17:30",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 6)",
+  "equipo_local": "FRUIZ",
+  "equipo_visitante": "COL. VIZCAYA",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MARTINEZ TURIENZOS, OSCAR"
+  ],
+  "estadio": "LEGARDA",
+  "ciudad": "Mungia",
+  "goleadores": [
+    {
+      "minuto": 43,
+      "jugador": "VICENTE TXARROALDE, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 64,
+      "jugador": "AGUADO PASCUAL, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "BARREDO RINCON, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "COL. VIZCAYA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BARREDO RINCON, MARKEL",
+  "entrenador_visitante": "AVENDAÑO AMOREBIETA, FRANCISCO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CUESTA CABALLERO, JESUS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CUESTA CABALLERO, JESUS",
+  "delegado_equipo_visitante": "AVENDAÑO AMOREBIETA, ENRIQUE",
+  "titulares_local": [
+    "MAKOAGA ARRIZABALAGA, INHAR",
+    "CUESTA LORENZO, AITOR",
+    "ZAMORA GONCALVES, GARITZ",
+    "MENTXAKA LATXAGA, UNAX",
+    "ORDOÑEZ GOMEZ, MARKEL",
+    "HERNANDO ROMERO, IBAN",
+    "GONZALEZ ALVIS, SAMUEL",
+    "GAMBOA ARRIBALTZAGA, EKHI",
+    "AGOS VILLAR, MARKEL ENDIKA",
+    "ARRONATEGUI MENDIGUREN, IZEI",
+    "BATISTA ROZAS, DANEL"
+  ],
+  "titulares_visitante": [
+    "GOMEZ REDONDO, AIMAR",
+    "GIL GONZALEZ, AITOR",
+    "MONTELIO VEGA, DAVID",
+    "CARRASCAL PINILLA, MARKEL",
+    "IJALBA PEREZ, AINGERU",
+    "SERRANO ORTIZ, ADRIAN",
+    "CALZADA GOMEZ, MARTIN",
+    "SANZ RUIZ, MIGUEL",
+    "GONZALEZ GARCIA, IKER",
+    "OLIVEROS SALDAÑA, MIKEL",
+    "VICENTE TXARROALDE, MIKEL"
+  ],
+  "suplentes_local": [
+    "SAN SEVERIANO ABOITIZ, JULEN",
+    "ALONSO PILAR, MIGUEL",
+    "ORENSE LOPATEGUI, UNAX",
+    "AGUADO PASCUAL, IKER",
+    "BALBOA ZORRILLA, CRISTIAN",
+    "DURAN ESTESO, VICTOR"
+  ],
+  "suplentes_visitante": [
+    "CALLE GUERRERO, ENEKO",
+    "BARRAGAN OLAZABAL, LIER",
+    "YANG, YANGLIN",
+    "PARANJAPE, NIHIT SHANTANU"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORENSE LOPATEGUI, UNAX"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MAKOAGA ARRIZABALAGA, INHAR",
+    "CUESTA LORENZO, AITOR",
+    "ZAMORA GONCALVES, GARITZ",
+    "MENTXAKA LATXAGA, UNAX",
+    "ORDOÑEZ GOMEZ, MARKEL",
+    "HERNANDO ROMERO, IBAN",
+    "GONZALEZ ALVIS, SAMUEL",
+    "GAMBOA ARRIBALTZAGA, EKHI",
+    "AGOS VILLAR, MARKEL ENDIKA",
+    "ARRONATEGUI MENDIGUREN, IZEI",
+    "BATISTA ROZAS, DANEL",
+    "AGUADO PASCUAL, IKER",
+    "ALONSO PILAR, MIGUEL",
+    "BALBOA ZORRILLA, CRISTIAN",
+    "SAN SEVERIANO ABOITIZ, JULEN",
+    "DURAN ESTESO, VICTOR"
+  ],
+  "jugadores_visitante": [
+    "GOMEZ REDONDO, AIMAR",
+    "GIL GONZALEZ, AITOR",
+    "MONTELIO VEGA, DAVID",
+    "CARRASCAL PINILLA, MARKEL",
+    "IJALBA PEREZ, AINGERU",
+    "SERRANO ORTIZ, ADRIAN",
+    "CALZADA GOMEZ, MARTIN",
+    "SANZ RUIZ, MIGUEL",
+    "GONZALEZ GARCIA, IKER",
+    "OLIVEROS SALDAÑA, MIKEL",
+    "VICENTE TXARROALDE, MIKEL",
+    "CALLE GUERRERO, ENEKO",
+    "PARANJAPE, NIHIT SHANTANU",
+    "YANG, YANGLIN",
+    "BARRAGAN OLAZABAL, LIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "AGUADO PASCUAL, IKER",
+      "sale": "AGOS VILLAR, MARKEL ENDIKA"
+    },
+    {
+      "min": 46,
+      "entra": "ALONSO PILAR, MIGUEL",
+      "sale": "BATISTA ROZAS, DANEL"
+    },
+    {
+      "min": 46,
+      "entra": "BALBOA ZORRILLA, CRISTIAN",
+      "sale": "ARRONATEGUI MENDIGUREN, IZEI"
+    },
+    {
+      "min": 61,
+      "entra": "SAN SEVERIANO ABOITIZ, JULEN",
+      "sale": "GAMBOA ARRIBALTZAGA, EKHI"
+    },
+    {
+      "min": 69,
+      "entra": "DURAN ESTESO, VICTOR",
+      "sale": "ZAMORA GONCALVES, GARITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "CALLE GUERRERO, ENEKO",
+      "sale": "GOMEZ REDONDO, AIMAR"
+    },
+    {
+      "min": 71,
+      "entra": "PARANJAPE, NIHIT SHANTANU",
+      "sale": "OLIVEROS SALDAÑA, MIKEL"
+    },
+    {
+      "min": 75,
+      "entra": "YANG, YANGLIN",
+      "sale": "SERRANO ORTIZ, ADRIAN"
+    },
+    {
+      "min": 80,
+      "entra": "BARRAGAN OLAZABAL, LIER",
+      "sale": "IJALBA PEREZ, AINGERU"
+    }
+  ],
+  "minutos_jugadores": {
+    "MAKOAGA ARRIZABALAGA, INHAR": 90,
+    "CUESTA LORENZO, AITOR": 90,
+    "ZAMORA GONCALVES, GARITZ": 69,
+    "MENTXAKA LATXAGA, UNAX": 90,
+    "ORDOÑEZ GOMEZ, MARKEL": 90,
+    "HERNANDO ROMERO, IBAN": 90,
+    "GONZALEZ ALVIS, SAMUEL": 90,
+    "GAMBOA ARRIBALTZAGA, EKHI": 61,
+    "AGOS VILLAR, MARKEL ENDIKA": 46,
+    "ARRONATEGUI MENDIGUREN, IZEI": 46,
+    "BATISTA ROZAS, DANEL": 46,
+    "AGUADO PASCUAL, IKER": 44,
+    "ALONSO PILAR, MIGUEL": 44,
+    "BALBOA ZORRILLA, CRISTIAN": 44,
+    "SAN SEVERIANO ABOITIZ, JULEN": 29,
+    "DURAN ESTESO, VICTOR": 21,
+    "GOMEZ REDONDO, AIMAR": 46,
+    "GIL GONZALEZ, AITOR": 90,
+    "MONTELIO VEGA, DAVID": 90,
+    "CARRASCAL PINILLA, MARKEL": 90,
+    "IJALBA PEREZ, AINGERU": 80,
+    "SERRANO ORTIZ, ADRIAN": 75,
+    "CALZADA GOMEZ, MARTIN": 90,
+    "SANZ RUIZ, MIGUEL": 90,
+    "GONZALEZ GARCIA, IKER": 90,
+    "OLIVEROS SALDAÑA, MIKEL": 71,
+    "VICENTE TXARROALDE, MIKEL": 90,
+    "CALLE GUERRERO, ENEKO": 44,
+    "PARANJAPE, NIHIT SHANTANU": 19,
+    "YANG, YANGLIN": 15,
+    "BARRAGAN OLAZABAL, LIER": 10
+  },
+  "portero_local": "MAKOAGA ARRIZABALAGA, INHAR",
+  "portero_visitante": "GOMEZ REDONDO, AIMAR",
+  "dorsales_local": {
+    "MAKOAGA ARRIZABALAGA, INHAR": 1,
+    "CUESTA LORENZO, AITOR": 2,
+    "ZAMORA GONCALVES, GARITZ": 4,
+    "MENTXAKA LATXAGA, UNAX": 5,
+    "ORDOÑEZ GOMEZ, MARKEL": 9,
+    "HERNANDO ROMERO, IBAN": 14,
+    "GONZALEZ ALVIS, SAMUEL": 16,
+    "GAMBOA ARRIBALTZAGA, EKHI": 17,
+    "AGOS VILLAR, MARKEL ENDIKA": 18,
+    "ARRONATEGUI MENDIGUREN, IZEI": 21,
+    "BATISTA ROZAS, DANEL": 24
+  },
+  "dorsales_visitante": {
+    "GOMEZ REDONDO, AIMAR": 1,
+    "GIL GONZALEZ, AITOR": 3,
+    "MONTELIO VEGA, DAVID": 7,
+    "CARRASCAL PINILLA, MARKEL": 10,
+    "IJALBA PEREZ, AINGERU": 11,
+    "SERRANO ORTIZ, ADRIAN": 17,
+    "CALZADA GOMEZ, MARTIN": 18,
+    "SANZ RUIZ, MIGUEL": 19,
+    "GONZALEZ GARCIA, IKER": 20,
+    "OLIVEROS SALDAÑA, MIKEL": 21,
+    "VICENTE TXARROALDE, MIKEL": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
