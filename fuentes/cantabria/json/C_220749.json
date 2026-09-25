@@ -1,0 +1,272 @@
+{
+  "acta_id": "C_220749",
+  "filename": "Acta_C_220749.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 14,
+  "fecha": "20-12-2025",
+  "hora": "11:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. COLINDRES",
+  "equipo_visitante": "C.AT. PERINES A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZALEZ BARRUETABEÑA, BENITO"
+  ],
+  "estadio": "Colindres",
+  "ciudad": "Colindres",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "LIAÑO VARELA, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 30,
+      "jugador": "FRIAS ORTIZ, MARTIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "BLAZQUEZ CALVO, ARTURO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "C.AT. PERINES A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "TANASA TANASA, PABLO CRISTIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "FERNANDEZ NAVAMUEL, JENS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "GUERRA TORRO, ALBERTO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "ALBO ZORRILLA, EDGAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FERNANDEZ MONTES, DAVID",
+  "entrenador_visitante": "TORRES SAENZ, JOSE ALEJANDRO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALVAREZ OLIVEROS, CESAR",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "QUINTELA MORANTE, ALONSO",
+    "VALLE RUIZ, GONZALO",
+    "SALCINES DE LA FUENTE, LEO",
+    "SANCHEZ LOPEZ, ALEJANDRO",
+    "FRIAS ORTIZ, MARTIN",
+    "VAZQUEZ GOMEZ, IKER",
+    "GARAY BUSTOS, JOAN",
+    "BLAZQUEZ CALVO, JUAN",
+    "CANO VELA, OIER",
+    "VEGA SANTAMARIA, TOMAS",
+    "CANO VELA, ARITZ"
+  ],
+  "titulares_visitante": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "RUIZ SANZ, MARIO",
+    "GUERRA TORRO, ALBERTO",
+    "PUENTE HERNANDEZ, MARIO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "PÉREZ MARTIN, JAIRO",
+    "LIAÑO VARELA, DANIEL",
+    "TODERO, JOAQUIN KONRAD",
+    "PRADA DE MIGUEL, DARIO"
+  ],
+  "suplentes_local": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "BLAZQUEZ CALVO, ARTURO",
+    "RIVERA MARTINEZ, MANUEL",
+    "SILBERMANN BRIGIDO, LEONARD",
+    "ECHEVARRIA AEQUES, MARIO"
+  ],
+  "suplentes_visitante": [
+    "TRICIO MARTÍN, MATEO",
+    "AZNAR NUÑO, HUGO",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "FERNANDEZ NAVAMUEL, JENS"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORDAS ARREDONDO, ISKANDER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "QUINTELA MORANTE, ALONSO",
+    "VALLE RUIZ, GONZALO",
+    "SALCINES DE LA FUENTE, LEO",
+    "SANCHEZ LOPEZ, ALEJANDRO",
+    "FRIAS ORTIZ, MARTIN",
+    "VAZQUEZ GOMEZ, IKER",
+    "GARAY BUSTOS, JOAN",
+    "BLAZQUEZ CALVO, JUAN",
+    "CANO VELA, OIER",
+    "VEGA SANTAMARIA, TOMAS",
+    "CANO VELA, ARITZ",
+    "SILBERMANN BRIGIDO, LEONARD",
+    "ECHEVARRIA AEQUES, MARIO",
+    "BLAZQUEZ CALVO, ARTURO",
+    "RIVERA MARTINEZ, MANUEL"
+  ],
+  "jugadores_visitante": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "RUIZ SANZ, MARIO",
+    "GUERRA TORRO, ALBERTO",
+    "PUENTE HERNANDEZ, MARIO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "PÉREZ MARTIN, JAIRO",
+    "LIAÑO VARELA, DANIEL",
+    "TODERO, JOAQUIN KONRAD",
+    "PRADA DE MIGUEL, DARIO",
+    "AZNAR NUÑO, HUGO",
+    "TRICIO MARTÍN, MATEO",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "HAYA SÁNCHEZ, RODRIGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "SILBERMANN BRIGIDO, LEONARD",
+      "sale": "VAZQUEZ GOMEZ, IKER"
+    },
+    {
+      "min": 58,
+      "entra": "ECHEVARRIA AEQUES, MARIO",
+      "sale": "GARAY BUSTOS, JOAN"
+    },
+    {
+      "min": 60,
+      "entra": "BLAZQUEZ CALVO, ARTURO",
+      "sale": "SANCHEZ LOPEZ, ALEJANDRO"
+    },
+    {
+      "min": 60,
+      "entra": "RIVERA MARTINEZ, MANUEL",
+      "sale": "VEGA SANTAMARIA, TOMAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "AZNAR NUÑO, HUGO",
+      "sale": "PRADA DE MIGUEL, DARIO"
+    },
+    {
+      "min": 45,
+      "entra": "TRICIO MARTÍN, MATEO",
+      "sale": "RUIZ SANZ, MARIO"
+    },
+    {
+      "min": 50,
+      "entra": "FERNANDEZ NAVAMUEL, JENS",
+      "sale": "TANASA TANASA, PABLO CRISTIAN"
+    },
+    {
+      "min": 63,
+      "entra": "HAYA SÁNCHEZ, RODRIGO",
+      "sale": "FERNANDEZ GUTIERREZ, ELOY"
+    }
+  ],
+  "minutos_jugadores": {
+    "QUINTELA MORANTE, ALONSO": 90,
+    "VALLE RUIZ, GONZALO": 90,
+    "SALCINES DE LA FUENTE, LEO": 90,
+    "SANCHEZ LOPEZ, ALEJANDRO": 60,
+    "FRIAS ORTIZ, MARTIN": 90,
+    "VAZQUEZ GOMEZ, IKER": 58,
+    "GARAY BUSTOS, JOAN": 58,
+    "BLAZQUEZ CALVO, JUAN": 90,
+    "CANO VELA, OIER": 90,
+    "VEGA SANTAMARIA, TOMAS": 60,
+    "CANO VELA, ARITZ": 90,
+    "SILBERMANN BRIGIDO, LEONARD": 32,
+    "ECHEVARRIA AEQUES, MARIO": 32,
+    "BLAZQUEZ CALVO, ARTURO": 30,
+    "RIVERA MARTINEZ, MANUEL": 30,
+    "GONÇALVES JORRIN, SAMUEL": 90,
+    "RUIZ SANZ, MARIO": 45,
+    "GUERRA TORRO, ALBERTO": 90,
+    "PUENTE HERNANDEZ, MARIO": 90,
+    "ALBO ZORRILLA, EDGAR": 90,
+    "FERNANDEZ GUTIERREZ, ELOY": 63,
+    "TANASA TANASA, PABLO CRISTIAN": 50,
+    "PÉREZ MARTIN, JAIRO": 90,
+    "LIAÑO VARELA, DANIEL": 90,
+    "TODERO, JOAQUIN KONRAD": 90,
+    "PRADA DE MIGUEL, DARIO": 45,
+    "AZNAR NUÑO, HUGO": 45,
+    "TRICIO MARTÍN, MATEO": 45,
+    "FERNANDEZ NAVAMUEL, JENS": 40,
+    "HAYA SÁNCHEZ, RODRIGO": 27
+  },
+  "portero_local": "QUINTELA MORANTE, ALONSO",
+  "portero_visitante": "GONÇALVES JORRIN, SAMUEL",
+  "dorsales_local": {
+    "QUINTELA MORANTE, ALONSO": 13,
+    "VALLE RUIZ, GONZALO": 2,
+    "SALCINES DE LA FUENTE, LEO": 4,
+    "SANCHEZ LOPEZ, ALEJANDRO": 5,
+    "FRIAS ORTIZ, MARTIN": 6,
+    "VAZQUEZ GOMEZ, IKER": 7,
+    "GARAY BUSTOS, JOAN": 8,
+    "BLAZQUEZ CALVO, JUAN": 9,
+    "CANO VELA, OIER": 11,
+    "VEGA SANTAMARIA, TOMAS": 19,
+    "CANO VELA, ARITZ": 21
+  },
+  "dorsales_visitante": {
+    "GONÇALVES JORRIN, SAMUEL": 1,
+    "RUIZ SANZ, MARIO": 2,
+    "GUERRA TORRO, ALBERTO": 3,
+    "PUENTE HERNANDEZ, MARIO": 5,
+    "ALBO ZORRILLA, EDGAR": 7,
+    "FERNANDEZ GUTIERREZ, ELOY": 8,
+    "TANASA TANASA, PABLO CRISTIAN": 9,
+    "PÉREZ MARTIN, JAIRO": 10,
+    "LIAÑO VARELA, DANIEL": 15,
+    "TODERO, JOAQUIN KONRAD": 17,
+    "PRADA DE MIGUEL, DARIO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
