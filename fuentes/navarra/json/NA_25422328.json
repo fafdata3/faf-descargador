@@ -1,0 +1,425 @@
+{
+  "acta_id": "NA_25422328",
+  "filename": "Acta_NA_25422328.txt",
+  "fuente": "navarra",
+  "temporada": "2025-2026",
+  "jornada": 15,
+  "fecha": "24-01-2026",
+  "hora": "11:00",
+  "categoria": "Primera Preferente Cadete (Grupo 1º)",
+  "equipo_local": "Club Atlético Osasuna B",
+  "equipo_visitante": "C.D. Azkoyen B",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "Pérez de Obanos Inchusta, Ibai"
+  ],
+  "estadio": "Instalaciones Tajonar A2",
+  "ciudad": "Aranguren",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "Basarte Diez, Marcos",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "Labiano Cirauqui, Oier",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "El Hazzazi Aouam, Adam",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "Espinal Orbara, Oihan Mikel",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "Domeño Alday, Arturo",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 11,
+      "jugador": "Baquero Musgo, Raul",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "Divasson Goyache, Erik",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "Espinal Orbara, Oihan Mikel",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "C.D. Azkoyen B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "Labiano Cirauqui, Oier",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 40,
+      "jugador": "Goñi Bermejo, Alex",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "Mendieta Merchan, Iker Joseba",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "Riofrio Pachacama, Jordan Efrain",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Mendieta Merchan, Iker Joseba",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Patrocinadores",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Proveedores Oficiales",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Colaboradores",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Canal de denuncias",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Ley de Transparencia",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Mapa web",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Soporte técnico",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Arrieta 3 - 1º planta",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "31002 Pamplona - Navarra (España)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "948 22 99 33",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "- Lunes a jueves: 9:30-17:30",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "- Viernes: 9:00-15:00",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "Federación Navarra de Fútbol^^",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "La configuración de privacidad",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTÍNEZ DÍEZ, PABLO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "CALVO FUENTES, UNAI",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "OIZ CORCUERA, JULEN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "OIZ CORCUERA, JULEN",
+  "delegado_equipo_visitante": "Kliliche Eslaoui, Radeouane",
+  "titulares_local": [
+    "Olcoz Martinez, Alex",
+    "Divasson Goyache, Erik",
+    "Paredes Moreno, Julen",
+    "SAGÜES RUIZ DE ESCUDERO, HEGOI",
+    "DIEZ PALACIOS, JAVIER",
+    "Espinal Orbara, Oihan Mikel",
+    "Ogbemudia Osunde, Orobosa",
+    "CEÑA FERNANDEZ, ASIER",
+    "Izal Perez, Duke",
+    "Zapata Dufur, Mikel",
+    "Baquero Musgo, Raul"
+  ],
+  "titulares_visitante": [
+    "Mendoza Pedrosa, Aitor",
+    "Goñi Bermejo, Alex",
+    "Mendieta Merchan, Iker Joseba",
+    "Musgo Martinez, Hugo",
+    "Perez Vaquero, Hugo",
+    "El Hazzazi Aouam, Adam",
+    "Basarte Diez, Marcos",
+    "Charral Valencia, Javier",
+    "Barcos Castillo, Diego",
+    "Goñi Vidondo, Asier",
+    "Labiano Cirauqui, Oier"
+  ],
+  "suplentes_local": [
+    "Torres Guindano, Xabier",
+    "Urabayen Mendioroz, Xabier",
+    "Echeverría Amatriain, Ander",
+    "Layana Iriguibel, Mikel",
+    "Remirez Navarro, Hugo",
+    "Müller Fonseca, Aaron",
+    "Domeño Alday, Arturo"
+  ],
+  "suplentes_visitante": [
+    "Riofrio Pachacama, Jordan Efrain",
+    "Garces Morales, Yeray",
+    "Diaz Moreno, Daniel",
+    "Amigot Biurrun, Mario"
+  ],
+  "convocados_sin_jugar_local": [
+    "Torres Guindano, Xabier"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "Riofrio Pachacama, Jordan Efrain"
+  ],
+  "jugadores_local": [
+    "Olcoz Martinez, Alex",
+    "Divasson Goyache, Erik",
+    "Paredes Moreno, Julen",
+    "SAGÜES RUIZ DE ESCUDERO, HEGOI",
+    "DIEZ PALACIOS, JAVIER",
+    "Espinal Orbara, Oihan Mikel",
+    "Ogbemudia Osunde, Orobosa",
+    "CEÑA FERNANDEZ, ASIER",
+    "Izal Perez, Duke",
+    "Zapata Dufur, Mikel",
+    "Baquero Musgo, Raul",
+    "Remirez Navarro, Hugo",
+    "Echeverría Amatriain, Ander",
+    "Domeño Alday, Arturo",
+    "Layana Iriguibel, Mikel",
+    "Müller Fonseca, Aaron",
+    "Urabayen Mendioroz, Xabier"
+  ],
+  "jugadores_visitante": [
+    "Mendoza Pedrosa, Aitor",
+    "Goñi Bermejo, Alex",
+    "Mendieta Merchan, Iker Joseba",
+    "Musgo Martinez, Hugo",
+    "Perez Vaquero, Hugo",
+    "El Hazzazi Aouam, Adam",
+    "Basarte Diez, Marcos",
+    "Charral Valencia, Javier",
+    "Barcos Castillo, Diego",
+    "Goñi Vidondo, Asier",
+    "Labiano Cirauqui, Oier",
+    "Garces Morales, Yeray",
+    "Amigot Biurrun, Mario",
+    "Diaz Moreno, Daniel"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "Remirez Navarro, Hugo",
+      "sale": "Izal Perez, Duke"
+    },
+    {
+      "min": 40,
+      "entra": "Echeverría Amatriain, Ander",
+      "sale": "Baquero Musgo, Raul"
+    },
+    {
+      "min": 40,
+      "entra": "Domeño Alday, Arturo",
+      "sale": "CEÑA FERNANDEZ, ASIER"
+    },
+    {
+      "min": 55,
+      "entra": "Layana Iriguibel, Mikel",
+      "sale": "Divasson Goyache, Erik"
+    },
+    {
+      "min": 59,
+      "entra": "Müller Fonseca, Aaron",
+      "sale": "Ogbemudia Osunde, Orobosa"
+    },
+    {
+      "min": 59,
+      "entra": "Urabayen Mendioroz, Xabier",
+      "sale": "DIEZ PALACIOS, JAVIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "Garces Morales, Yeray",
+      "sale": "Musgo Martinez, Hugo"
+    },
+    {
+      "min": 74,
+      "entra": "Amigot Biurrun, Mario",
+      "sale": "Goñi Vidondo, Asier"
+    },
+    {
+      "min": 80,
+      "entra": "Diaz Moreno, Daniel",
+      "sale": "Charral Valencia, Javier"
+    }
+  ],
+  "minutos_jugadores": {
+    "Olcoz Martinez, Alex": 90,
+    "Divasson Goyache, Erik": 55,
+    "Paredes Moreno, Julen": 90,
+    "SAGÜES RUIZ DE ESCUDERO, HEGOI": 90,
+    "DIEZ PALACIOS, JAVIER": 59,
+    "Espinal Orbara, Oihan Mikel": 90,
+    "Ogbemudia Osunde, Orobosa": 59,
+    "CEÑA FERNANDEZ, ASIER": 40,
+    "Izal Perez, Duke": 40,
+    "Zapata Dufur, Mikel": 90,
+    "Baquero Musgo, Raul": 40,
+    "Remirez Navarro, Hugo": 50,
+    "Echeverría Amatriain, Ander": 50,
+    "Domeño Alday, Arturo": 50,
+    "Layana Iriguibel, Mikel": 35,
+    "Müller Fonseca, Aaron": 31,
+    "Urabayen Mendioroz, Xabier": 31,
+    "Mendoza Pedrosa, Aitor": 90,
+    "Goñi Bermejo, Alex": 90,
+    "Mendieta Merchan, Iker Joseba": 90,
+    "Musgo Martinez, Hugo": 59,
+    "Perez Vaquero, Hugo": 90,
+    "El Hazzazi Aouam, Adam": 90,
+    "Basarte Diez, Marcos": 90,
+    "Charral Valencia, Javier": 80,
+    "Barcos Castillo, Diego": 90,
+    "Goñi Vidondo, Asier": 74,
+    "Labiano Cirauqui, Oier": 90,
+    "Garces Morales, Yeray": 31,
+    "Amigot Biurrun, Mario": 16,
+    "Diaz Moreno, Daniel": 10
+  },
+  "portero_local": "Olcoz Martinez, Alex",
+  "portero_visitante": "Mendoza Pedrosa, Aitor",
+  "dorsales_local": {
+    "Olcoz Martinez, Alex": 1,
+    "Divasson Goyache, Erik": 2,
+    "Paredes Moreno, Julen": 3,
+    "SAGÜES RUIZ DE ESCUDERO, HEGOI": 4,
+    "DIEZ PALACIOS, JAVIER": 5,
+    "Espinal Orbara, Oihan Mikel": 6,
+    "Ogbemudia Osunde, Orobosa": 7,
+    "CEÑA FERNANDEZ, ASIER": 8,
+    "Izal Perez, Duke": 9,
+    "Zapata Dufur, Mikel": 10,
+    "Baquero Musgo, Raul": 11
+  },
+  "dorsales_visitante": {
+    "Mendoza Pedrosa, Aitor": 13,
+    "Goñi Bermejo, Alex": 3,
+    "Mendieta Merchan, Iker Joseba": 4,
+    "Musgo Martinez, Hugo": 6,
+    "Perez Vaquero, Hugo": 7,
+    "El Hazzazi Aouam, Adam": 8,
+    "Basarte Diez, Marcos": 9,
+    "Charral Valencia, Javier": 10,
+    "Barcos Castillo, Diego": 14,
+    "Goñi Vidondo, Asier": 17,
+    "Labiano Cirauqui, Oier": 21
+  },
+  "suspendidos": [
+    "Mendieta Merchan, Iker Joseba"
+  ],
+  "_marcador_widget": true
+}
