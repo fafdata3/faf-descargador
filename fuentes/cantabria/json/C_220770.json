@@ -1,0 +1,250 @@
+{
+  "acta_id": "C_220770",
+  "filename": "Acta_C_220770.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "25-01-2026",
+  "hora": "10:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. COLINDRES",
+  "equipo_visitante": "C.D. BEZANA A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SINOVAS SAÑUDO , SERGIO"
+  ],
+  "estadio": "Colindres",
+  "ciudad": "Colindres",
+  "goleadores": [
+    {
+      "minuto": 65,
+      "jugador": "GARCIA GARCIA, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "CANO VELA, OIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "C.D. BEZANA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 20,
+      "jugador": "SANTAEULALIA PEREZ, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "GARCÍA VÁZQUEZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "RUIZ GARCIA, IBAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FERNANDEZ MONTES, DAVID",
+  "entrenador_visitante": "SAIZ ALVAREZ, PABLO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ALVAREZ OLIVEROS, CESAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALVAREZ OLIVEROS, CESAR",
+  "delegado_equipo_visitante": "ORIA ROYANO, MARIO",
+  "titulares_local": [
+    "QUINTELA MORANTE, ALONSO",
+    "SALCINES DE LA FUENTE, LEO",
+    "SANCHEZ LOPEZ, ALEJANDRO",
+    "FRIAS ORTIZ, MARTIN",
+    "VAZQUEZ GOMEZ, IKER",
+    "GARAY BUSTOS, JOAN",
+    "BLAZQUEZ CALVO, JUAN",
+    "MIRANDA TOMEY, AARON",
+    "CANO VELA, OIER",
+    "VEGA SANTAMARIA, TOMAS",
+    "CANO VELA, ARITZ"
+  ],
+  "titulares_visitante": [
+    "MORA PUIG-PEY, LUIS",
+    "ARROYO CESPEDES, DIEGO",
+    "MARTIN GUTIERREZ, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "CRESPO PEÑA, JUAN",
+    "BENEDITED RUIZ, HUGO",
+    "MARTINEZ LUENA, OLIVER",
+    "VELEZ BAHILLO, PEDRO",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "RUIZ GARCIA, IBAI",
+    "GARCÍA VÁZQUEZ, HUGO"
+  ],
+  "suplentes_local": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "BLAZQUEZ CALVO, ARTURO",
+    "SILBERMANN BRIGIDO, LEONARD",
+    "VIÑAS ARNAU, JULIAN",
+    "ECHEVARRIA AEQUES, MARIO"
+  ],
+  "suplentes_visitante": [
+    "BARROSO REBAQUE, ALEX",
+    "PANDO DOSAL, HUGO",
+    "GARCIA GARCIA, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORDAS ARREDONDO, ISKANDER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "QUINTELA MORANTE, ALONSO",
+    "SALCINES DE LA FUENTE, LEO",
+    "SANCHEZ LOPEZ, ALEJANDRO",
+    "FRIAS ORTIZ, MARTIN",
+    "VAZQUEZ GOMEZ, IKER",
+    "GARAY BUSTOS, JOAN",
+    "BLAZQUEZ CALVO, JUAN",
+    "MIRANDA TOMEY, AARON",
+    "CANO VELA, OIER",
+    "VEGA SANTAMARIA, TOMAS",
+    "CANO VELA, ARITZ",
+    "SILBERMANN BRIGIDO, LEONARD",
+    "VIÑAS ARNAU, JULIAN",
+    "BLAZQUEZ CALVO, ARTURO",
+    "ECHEVARRIA AEQUES, MARIO"
+  ],
+  "jugadores_visitante": [
+    "MORA PUIG-PEY, LUIS",
+    "ARROYO CESPEDES, DIEGO",
+    "MARTIN GUTIERREZ, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "CRESPO PEÑA, JUAN",
+    "BENEDITED RUIZ, HUGO",
+    "MARTINEZ LUENA, OLIVER",
+    "VELEZ BAHILLO, PEDRO",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "RUIZ GARCIA, IBAI",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "PANDO DOSAL, HUGO",
+    "GARCIA GARCIA, JAVIER",
+    "BARROSO REBAQUE, ALEX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "SILBERMANN BRIGIDO, LEONARD",
+      "sale": "BLAZQUEZ CALVO, JUAN"
+    },
+    {
+      "min": 49,
+      "entra": "VIÑAS ARNAU, JULIAN",
+      "sale": "VAZQUEZ GOMEZ, IKER"
+    },
+    {
+      "min": 62,
+      "entra": "BLAZQUEZ CALVO, ARTURO",
+      "sale": "GARAY BUSTOS, JOAN"
+    },
+    {
+      "min": 62,
+      "entra": "ECHEVARRIA AEQUES, MARIO",
+      "sale": "VEGA SANTAMARIA, TOMAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "PANDO DOSAL, HUGO",
+      "sale": "VELEZ BAHILLO, PEDRO"
+    },
+    {
+      "min": 57,
+      "entra": "GARCIA GARCIA, JAVIER",
+      "sale": "MARTINEZ LUENA, OLIVER"
+    },
+    {
+      "min": 60,
+      "entra": "BARROSO REBAQUE, ALEX",
+      "sale": "BENEDITED RUIZ, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "QUINTELA MORANTE, ALONSO": 90,
+    "SALCINES DE LA FUENTE, LEO": 90,
+    "SANCHEZ LOPEZ, ALEJANDRO": 90,
+    "FRIAS ORTIZ, MARTIN": 90,
+    "VAZQUEZ GOMEZ, IKER": 49,
+    "GARAY BUSTOS, JOAN": 62,
+    "BLAZQUEZ CALVO, JUAN": 41,
+    "MIRANDA TOMEY, AARON": 90,
+    "CANO VELA, OIER": 90,
+    "VEGA SANTAMARIA, TOMAS": 62,
+    "CANO VELA, ARITZ": 90,
+    "SILBERMANN BRIGIDO, LEONARD": 49,
+    "VIÑAS ARNAU, JULIAN": 41,
+    "BLAZQUEZ CALVO, ARTURO": 28,
+    "ECHEVARRIA AEQUES, MARIO": 28,
+    "MORA PUIG-PEY, LUIS": 90,
+    "ARROYO CESPEDES, DIEGO": 90,
+    "MARTIN GUTIERREZ, LUCAS": 90,
+    "DEL TIO MALMEHG, ERIK": 90,
+    "CRESPO PEÑA, JUAN": 90,
+    "BENEDITED RUIZ, HUGO": 60,
+    "MARTINEZ LUENA, OLIVER": 57,
+    "VELEZ BAHILLO, PEDRO": 55,
+    "SANTAEULALIA PEREZ, NICOLAS": 90,
+    "RUIZ GARCIA, IBAI": 90,
+    "GARCÍA VÁZQUEZ, HUGO": 90,
+    "PANDO DOSAL, HUGO": 35,
+    "GARCIA GARCIA, JAVIER": 33,
+    "BARROSO REBAQUE, ALEX": 30
+  },
+  "portero_local": "QUINTELA MORANTE, ALONSO",
+  "portero_visitante": "MORA PUIG-PEY, LUIS",
+  "dorsales_local": {
+    "QUINTELA MORANTE, ALONSO": 13,
+    "SALCINES DE LA FUENTE, LEO": 4,
+    "SANCHEZ LOPEZ, ALEJANDRO": 5,
+    "FRIAS ORTIZ, MARTIN": 6,
+    "VAZQUEZ GOMEZ, IKER": 7,
+    "GARAY BUSTOS, JOAN": 8,
+    "BLAZQUEZ CALVO, JUAN": 9,
+    "MIRANDA TOMEY, AARON": 10,
+    "CANO VELA, OIER": 11,
+    "VEGA SANTAMARIA, TOMAS": 19,
+    "CANO VELA, ARITZ": 21
+  },
+  "dorsales_visitante": {
+    "MORA PUIG-PEY, LUIS": 13,
+    "ARROYO CESPEDES, DIEGO": 2,
+    "MARTIN GUTIERREZ, LUCAS": 4,
+    "DEL TIO MALMEHG, ERIK": 5,
+    "CRESPO PEÑA, JUAN": 6,
+    "BENEDITED RUIZ, HUGO": 7,
+    "MARTINEZ LUENA, OLIVER": 9,
+    "VELEZ BAHILLO, PEDRO": 10,
+    "SANTAEULALIA PEREZ, NICOLAS": 11,
+    "RUIZ GARCIA, IBAI": 12,
+    "GARCÍA VÁZQUEZ, HUGO": 14
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
