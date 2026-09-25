@@ -1,0 +1,230 @@
+{
+  "acta_id": "B_9974302",
+  "filename": "Acta_B_9974302.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 26,
+  "fecha": "25-04-2026",
+  "hora": "17:30",
+  "categoria": "TERCERA DIVISIÓN 3A / HIRUGARREN MAILA (GRUPO 4)",
+  "equipo_local": "TXURDINAGA",
+  "equipo_visitante": "ARIZ B",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "APRAIZ GARCIA (M), PAULA"
+  ],
+  "estadio": "IBARSUSI B",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 34,
+      "jugador": "VICARIO SEGUIN, XABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "GONZALEZ DE AUDIKANA LUPARDO, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 83,
+      "jugador": "MENDEZ FERNANDEZ, ERIK",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "MENDEZ FERNANDEZ, ERIK",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 71,
+      "jugador": "FERNANDEZ MARTINEZ, ASIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "ARIZ B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FERNANDEZ GONZALEZ A, DAVID",
+  "entrenador_visitante": "GARCIA ROMERO, JOSE MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BARQUÍN BLESA, JOSÉ JAIRO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RUIZ ARIAS, JUAN G",
+  "delegado_equipo_visitante": "PARRON PEREZ, DAVID",
+  "titulares_local": [
+    "BURDALO APARICIO, ARITZ",
+    "SOLAGUREN LAGOS, XABIER",
+    "FERNANDEZ MARTINEZ, ASIER",
+    "DIAZ AMAYA, BORJA",
+    "ARNAIZ FRANCO, MARKEL",
+    "PEREZ GOMEZ, MIKEL",
+    "MARTINEZ ARROYUELO, UNAX",
+    "AURREKOETXEA RETORTILLO, IBON",
+    "ALVARO ROMERO, ERLANTZ",
+    "CASCON JOAQUIN, IVAN",
+    "GUENDOUL, FOUAD"
+  ],
+  "titulares_visitante": [
+    "GAUNA BARRENA, ARATZ",
+    "GOYOGANA DE JUANA, OIER",
+    "ITURBE VALENCIANO, OIER",
+    "ELORRIAGA TEJEDOR, ALAIN",
+    "URTARAN AMO, PEIO",
+    "SANTAMARIA ORGAZ, INHAR",
+    "GAZTELUITURRI GARCIA, ANDEKA",
+    "GONZALEZ DE AUDIKANA LUPARDO, JON",
+    "FERNANDEZ FERNANDEZ, XABIER",
+    "VICARIO SEGUIN, XABIER",
+    "DURAN LOPEZ, EKAIN"
+  ],
+  "suplentes_local": [
+    "RICO SANZ, LANDER",
+    "LOPEZ INCERA, MIGUEL ANGEL"
+  ],
+  "suplentes_visitante": [
+    "MAQUEDA SANZ, ISAI",
+    "MENDEZ FERNANDEZ, ERIK",
+    "URRUTIA NAVAS, IÑIGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BURDALO APARICIO, ARITZ",
+    "SOLAGUREN LAGOS, XABIER",
+    "FERNANDEZ MARTINEZ, ASIER",
+    "DIAZ AMAYA, BORJA",
+    "ARNAIZ FRANCO, MARKEL",
+    "PEREZ GOMEZ, MIKEL",
+    "MARTINEZ ARROYUELO, UNAX",
+    "AURREKOETXEA RETORTILLO, IBON",
+    "ALVARO ROMERO, ERLANTZ",
+    "CASCON JOAQUIN, IVAN",
+    "GUENDOUL, FOUAD",
+    "RICO SANZ, LANDER",
+    "LOPEZ INCERA, MIGUEL ANGEL"
+  ],
+  "jugadores_visitante": [
+    "GAUNA BARRENA, ARATZ",
+    "GOYOGANA DE JUANA, OIER",
+    "ITURBE VALENCIANO, OIER",
+    "ELORRIAGA TEJEDOR, ALAIN",
+    "URTARAN AMO, PEIO",
+    "SANTAMARIA ORGAZ, INHAR",
+    "GAZTELUITURRI GARCIA, ANDEKA",
+    "GONZALEZ DE AUDIKANA LUPARDO, JON",
+    "FERNANDEZ FERNANDEZ, XABIER",
+    "VICARIO SEGUIN, XABIER",
+    "DURAN LOPEZ, EKAIN",
+    "MENDEZ FERNANDEZ, ERIK",
+    "MAQUEDA SANZ, ISAI",
+    "URRUTIA NAVAS, IÑIGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "RICO SANZ, LANDER",
+      "sale": "CASCON JOAQUIN, IVAN"
+    },
+    {
+      "min": 70,
+      "entra": "LOPEZ INCERA, MIGUEL ANGEL",
+      "sale": "GUENDOUL, FOUAD"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "MENDEZ FERNANDEZ, ERIK",
+      "sale": "DURAN LOPEZ, EKAIN"
+    },
+    {
+      "min": 59,
+      "entra": "MAQUEDA SANZ, ISAI",
+      "sale": "FERNANDEZ FERNANDEZ, XABIER"
+    },
+    {
+      "min": 84,
+      "entra": "URRUTIA NAVAS, IÑIGO",
+      "sale": "GONZALEZ DE AUDIKANA LUPARDO, JON"
+    }
+  ],
+  "minutos_jugadores": {
+    "BURDALO APARICIO, ARITZ": 90,
+    "SOLAGUREN LAGOS, XABIER": 90,
+    "FERNANDEZ MARTINEZ, ASIER": 90,
+    "DIAZ AMAYA, BORJA": 90,
+    "ARNAIZ FRANCO, MARKEL": 90,
+    "PEREZ GOMEZ, MIKEL": 90,
+    "MARTINEZ ARROYUELO, UNAX": 90,
+    "AURREKOETXEA RETORTILLO, IBON": 90,
+    "ALVARO ROMERO, ERLANTZ": 90,
+    "CASCON JOAQUIN, IVAN": 45,
+    "GUENDOUL, FOUAD": 70,
+    "RICO SANZ, LANDER": 45,
+    "LOPEZ INCERA, MIGUEL ANGEL": 20,
+    "GAUNA BARRENA, ARATZ": 90,
+    "GOYOGANA DE JUANA, OIER": 90,
+    "ITURBE VALENCIANO, OIER": 90,
+    "ELORRIAGA TEJEDOR, ALAIN": 90,
+    "URTARAN AMO, PEIO": 90,
+    "SANTAMARIA ORGAZ, INHAR": 90,
+    "GAZTELUITURRI GARCIA, ANDEKA": 90,
+    "GONZALEZ DE AUDIKANA LUPARDO, JON": 84,
+    "FERNANDEZ FERNANDEZ, XABIER": 59,
+    "VICARIO SEGUIN, XABIER": 90,
+    "DURAN LOPEZ, EKAIN": 54,
+    "MENDEZ FERNANDEZ, ERIK": 36,
+    "MAQUEDA SANZ, ISAI": 31,
+    "URRUTIA NAVAS, IÑIGO": 6
+  },
+  "portero_local": "BURDALO APARICIO, ARITZ",
+  "portero_visitante": "GAUNA BARRENA, ARATZ",
+  "dorsales_local": {
+    "BURDALO APARICIO, ARITZ": 13,
+    "SOLAGUREN LAGOS, XABIER": 3,
+    "FERNANDEZ MARTINEZ, ASIER": 5,
+    "DIAZ AMAYA, BORJA": 8,
+    "ARNAIZ FRANCO, MARKEL": 10,
+    "PEREZ GOMEZ, MIKEL": 11,
+    "MARTINEZ ARROYUELO, UNAX": 18,
+    "AURREKOETXEA RETORTILLO, IBON": 19,
+    "ALVARO ROMERO, ERLANTZ": 21,
+    "CASCON JOAQUIN, IVAN": 23,
+    "GUENDOUL, FOUAD": 25
+  },
+  "dorsales_visitante": {
+    "GAUNA BARRENA, ARATZ": 13,
+    "GOYOGANA DE JUANA, OIER": 2,
+    "ITURBE VALENCIANO, OIER": 3,
+    "ELORRIAGA TEJEDOR, ALAIN": 4,
+    "URTARAN AMO, PEIO": 5,
+    "SANTAMARIA ORGAZ, INHAR": 6,
+    "GAZTELUITURRI GARCIA, ANDEKA": 7,
+    "GONZALEZ DE AUDIKANA LUPARDO, JON": 9,
+    "FERNANDEZ FERNANDEZ, XABIER": 11,
+    "VICARIO SEGUIN, XABIER": 21,
+    "DURAN LOPEZ, EKAIN": 22
+  },
+  "suspendidos": []
+}
