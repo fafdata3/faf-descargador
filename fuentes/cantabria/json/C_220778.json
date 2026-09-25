@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_220778",
+  "filename": "Acta_C_220778.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "31-01-2026",
+  "hora": "17:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE A",
+  "equipo_visitante": "C.D. COLINDRES",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "VILLA CACHO, BRUNO"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "POLANCO RUIZ, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 24,
+      "jugador": "MIRANDA TOMEY, AARON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "LÓPEZ CASTANEDO, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 32,
+      "jugador": "PERNIA FERNANDEZ, IVAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "C.D. COLINDRES",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "CANO VELA, ARITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DORRONSORO GONZALEZ, ALBERTO",
+  "entrenador_visitante": "FERNANDEZ MONTES, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DORRONSORO OBREGON, PEDRO MARIA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DORRONSORO OBREGON, PEDRO MARIA",
+  "delegado_equipo_visitante": "ALVAREZ OLIVEROS, CESAR",
+  "titulares_local": [
+    "BLANCO GUTIERREZ, ANDER",
+    "ARTECHE PEREZ, DIEGO",
+    "DIESTRO PEREZ, MARIO",
+    "DEL RIO PELLICER, MARCO",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "ANDRES GARCIA, CARLOS",
+    "GARCIA DE LA RASILLA PEREZ, MARTIN",
+    "VILLEGAS AIZPURUA, ASIER",
+    "POLANCO RUIZ, MARCOS",
+    "COVARRUBIAS MARTIN, LUCAS"
+  ],
+  "titulares_visitante": [
+    "QUINTELA MORANTE, ALONSO",
+    "BLAZQUEZ CALVO, ARTURO",
+    "SALCINES DE LA FUENTE, LEO",
+    "FRIAS ORTIZ, MARTIN",
+    "GARAY BUSTOS, JOAN",
+    "MIRANDA TOMEY, AARON",
+    "CANO VELA, OIER",
+    "RIVAS TORRE, GORKA",
+    "RIVERA MARTINEZ, MANUEL",
+    "TORRES SAN MARTÍN, JORGE",
+    "VEGA SANTAMARIA, TOMAS"
+  ],
+  "suplentes_local": [
+    "GOMEZ VILLANUEVA, ADRIAN",
+    "PERNIA FERNANDEZ, IVAN",
+    "FUNARIU, DAVID IULIAN",
+    "PALAZUELOS ESCALANTE, ENZO",
+    "LÓPEZ CASTANEDO, MARIO"
+  ],
+  "suplentes_visitante": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "SANCHEZ LOPEZ, ALEJANDRO",
+    "BLAZQUEZ CALVO, JUAN",
+    "ECHEVARRIA AEQUES, MARIO",
+    "CANO VELA, ARITZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "GOMEZ VILLANUEVA, ADRIAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ORDAS ARREDONDO, ISKANDER"
+  ],
+  "jugadores_local": [
+    "BLANCO GUTIERREZ, ANDER",
+    "ARTECHE PEREZ, DIEGO",
+    "DIESTRO PEREZ, MARIO",
+    "DEL RIO PELLICER, MARCO",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "ANDRES GARCIA, CARLOS",
+    "GARCIA DE LA RASILLA PEREZ, MARTIN",
+    "VILLEGAS AIZPURUA, ASIER",
+    "POLANCO RUIZ, MARCOS",
+    "COVARRUBIAS MARTIN, LUCAS",
+    "FUNARIU, DAVID IULIAN",
+    "LÓPEZ CASTANEDO, MARIO",
+    "PERNIA FERNANDEZ, IVAN",
+    "PALAZUELOS ESCALANTE, ENZO"
+  ],
+  "jugadores_visitante": [
+    "QUINTELA MORANTE, ALONSO",
+    "BLAZQUEZ CALVO, ARTURO",
+    "SALCINES DE LA FUENTE, LEO",
+    "FRIAS ORTIZ, MARTIN",
+    "GARAY BUSTOS, JOAN",
+    "MIRANDA TOMEY, AARON",
+    "CANO VELA, OIER",
+    "RIVAS TORRE, GORKA",
+    "RIVERA MARTINEZ, MANUEL",
+    "TORRES SAN MARTÍN, JORGE",
+    "VEGA SANTAMARIA, TOMAS",
+    "CANO VELA, ARITZ",
+    "SANCHEZ LOPEZ, ALEJANDRO",
+    "BLAZQUEZ CALVO, JUAN",
+    "ECHEVARRIA AEQUES, MARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "FUNARIU, DAVID IULIAN",
+      "sale": "ANDRES GARCIA, CARLOS"
+    },
+    {
+      "min": 41,
+      "entra": "LÓPEZ CASTANEDO, MARIO",
+      "sale": "POLANCO RUIZ, MARCOS"
+    },
+    {
+      "min": 53,
+      "entra": "PERNIA FERNANDEZ, IVAN",
+      "sale": "ARTECHE PEREZ, DIEGO"
+    },
+    {
+      "min": 58,
+      "entra": "PALAZUELOS ESCALANTE, ENZO",
+      "sale": "LOMBILLA FERNANDEZ, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "CANO VELA, ARITZ",
+      "sale": "BLAZQUEZ CALVO, ARTURO"
+    },
+    {
+      "min": 35,
+      "entra": "SANCHEZ LOPEZ, ALEJANDRO",
+      "sale": "RIVAS TORRE, GORKA"
+    },
+    {
+      "min": 46,
+      "entra": "BLAZQUEZ CALVO, JUAN",
+      "sale": "RIVERA MARTINEZ, MANUEL"
+    },
+    {
+      "min": 55,
+      "entra": "ECHEVARRIA AEQUES, MARIO",
+      "sale": "GARAY BUSTOS, JOAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "BLANCO GUTIERREZ, ANDER": 90,
+    "ARTECHE PEREZ, DIEGO": 53,
+    "DIESTRO PEREZ, MARIO": 90,
+    "DEL RIO PELLICER, MARCO": 90,
+    "LOMBILLA FERNANDEZ, HUGO": 58,
+    "DE LA TORRE MARQUEZ, LUCAS": 90,
+    "ANDRES GARCIA, CARLOS": 41,
+    "GARCIA DE LA RASILLA PEREZ, MARTIN": 90,
+    "VILLEGAS AIZPURUA, ASIER": 90,
+    "POLANCO RUIZ, MARCOS": 41,
+    "COVARRUBIAS MARTIN, LUCAS": 90,
+    "FUNARIU, DAVID IULIAN": 49,
+    "LÓPEZ CASTANEDO, MARIO": 49,
+    "PERNIA FERNANDEZ, IVAN": 37,
+    "PALAZUELOS ESCALANTE, ENZO": 32,
+    "QUINTELA MORANTE, ALONSO": 90,
+    "BLAZQUEZ CALVO, ARTURO": 35,
+    "SALCINES DE LA FUENTE, LEO": 90,
+    "FRIAS ORTIZ, MARTIN": 90,
+    "GARAY BUSTOS, JOAN": 55,
+    "MIRANDA TOMEY, AARON": 90,
+    "CANO VELA, OIER": 90,
+    "RIVAS TORRE, GORKA": 35,
+    "RIVERA MARTINEZ, MANUEL": 46,
+    "TORRES SAN MARTÍN, JORGE": 90,
+    "VEGA SANTAMARIA, TOMAS": 90,
+    "CANO VELA, ARITZ": 55,
+    "SANCHEZ LOPEZ, ALEJANDRO": 55,
+    "BLAZQUEZ CALVO, JUAN": 44,
+    "ECHEVARRIA AEQUES, MARIO": 35
+  },
+  "portero_local": "BLANCO GUTIERREZ, ANDER",
+  "portero_visitante": "QUINTELA MORANTE, ALONSO",
+  "dorsales_local": {
+    "BLANCO GUTIERREZ, ANDER": 13,
+    "ARTECHE PEREZ, DIEGO": 2,
+    "DIESTRO PEREZ, MARIO": 3,
+    "DEL RIO PELLICER, MARCO": 4,
+    "LOMBILLA FERNANDEZ, HUGO": 7,
+    "DE LA TORRE MARQUEZ, LUCAS": 9,
+    "ANDRES GARCIA, CARLOS": 11,
+    "GARCIA DE LA RASILLA PEREZ, MARTIN": 12,
+    "VILLEGAS AIZPURUA, ASIER": 14,
+    "POLANCO RUIZ, MARCOS": 20,
+    "COVARRUBIAS MARTIN, LUCAS": 21
+  },
+  "dorsales_visitante": {
+    "QUINTELA MORANTE, ALONSO": 13,
+    "BLAZQUEZ CALVO, ARTURO": 3,
+    "SALCINES DE LA FUENTE, LEO": 4,
+    "FRIAS ORTIZ, MARTIN": 6,
+    "GARAY BUSTOS, JOAN": 8,
+    "MIRANDA TOMEY, AARON": 10,
+    "CANO VELA, OIER": 11,
+    "RIVAS TORRE, GORKA": 12,
+    "RIVERA MARTINEZ, MANUEL": 14,
+    "TORRES SAN MARTÍN, JORGE": 15,
+    "VEGA SANTAMARIA, TOMAS": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
