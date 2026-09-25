@@ -1,0 +1,257 @@
+{
+  "acta_id": "C_240280",
+  "filename": "Acta_C_240280.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "19-09-2026",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA B",
+  "equipo_visitante": "C.F. VIMENOR A",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "REVILLA GÓMEZ, MARIO"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "SANCHEZ CUEVAS, SERGIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "MAYORDOMO NAVARRO, CRISTIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "MAYORDOMO NAVARRO, CRISTIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "LUQUE MARTINEZ, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 43,
+      "jugador": "MIER MONTES, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 43,
+      "jugador": "C.F. VIMENOR A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FIGUEROA MONS, ALVARO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PACHECO COTERO, SAUL",
+  "delegado_equipo_visitante": "GOMEZ LOPEZ, ADRIAN",
+  "titulares_local": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MIER MONTES, ADRIAN",
+    "MÚGICA BLANCO, HUGO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "SANCHEZ CUEVAS, SERGIO",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "GONZALEZ ROTGER, ALVARO",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "GUTIÉRREZ LÓPEZ, DAVID"
+  ],
+  "titulares_visitante": [
+    "MERINO RIANCHO, DANIEL",
+    "DE LA IGLESIA GUTIÉRREZ, DIEGO",
+    "ÁLVAREZ SÁIZ, GAEL",
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO",
+    "GÓMEZ BÁRCENA, AARON",
+    "MORENO LIENDO, RODRIGO",
+    "LAK HAL, ADAM",
+    "DE LA TORRE SUBERO, ALEJANDRO",
+    "ARENAS CASTANEDO, ZEUS",
+    "RIOS GONZALEZ, SERGIO",
+    "SAN MIGUEL DOSAL, DAVID"
+  ],
+  "suplentes_local": [
+    "ORSOLINI PALENCIA, MARIO",
+    "CIEZA PEREZ, ASIER",
+    "GOMEZ SANCHEZ, MARC",
+    "GUERRA MIRANDA, MARTÍN"
+  ],
+  "suplentes_visitante": [
+    "PALENCIA RUIZ, MARTIN",
+    "EL AISSI ZAKHNIOUI, REDA",
+    "BUSTILLO LEÓN, DANIEL",
+    "PELAYO DE JUANA, JONATHAN",
+    "AMEZQUETA SÁIZ, MATEO"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORSOLINI PALENCIA, MARIO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MIER MONTES, ADRIAN",
+    "MÚGICA BLANCO, HUGO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "SANCHEZ CUEVAS, SERGIO",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "GONZALEZ ROTGER, ALVARO",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "GUTIÉRREZ LÓPEZ, DAVID",
+    "GOMEZ SANCHEZ, MARC",
+    "GUERRA MIRANDA, MARTÍN",
+    "CIEZA PEREZ, ASIER"
+  ],
+  "jugadores_visitante": [
+    "MERINO RIANCHO, DANIEL",
+    "DE LA IGLESIA GUTIÉRREZ, DIEGO",
+    "ÁLVAREZ SÁIZ, GAEL",
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO",
+    "GÓMEZ BÁRCENA, AARON",
+    "MORENO LIENDO, RODRIGO",
+    "LAK HAL, ADAM",
+    "DE LA TORRE SUBERO, ALEJANDRO",
+    "ARENAS CASTANEDO, ZEUS",
+    "RIOS GONZALEZ, SERGIO",
+    "SAN MIGUEL DOSAL, DAVID",
+    "AMEZQUETA SÁIZ, MATEO",
+    "PALENCIA RUIZ, MARTIN",
+    "PELAYO DE JUANA, JONATHAN",
+    "BUSTILLO LEÓN, DANIEL",
+    "EL AISSI ZAKHNIOUI, REDA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "GOMEZ SANCHEZ, MARC",
+      "sale": "MIER MONTES, ADRIAN"
+    },
+    {
+      "min": 55,
+      "entra": "GUERRA MIRANDA, MARTÍN",
+      "sale": "SANCHEZ CUEVAS, SERGIO"
+    },
+    {
+      "min": 55,
+      "entra": "CIEZA PEREZ, ASIER",
+      "sale": "FERNANDEZ TOMAS, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "AMEZQUETA SÁIZ, MATEO",
+      "sale": "DE LA TORRE SUBERO, ALEJANDRO"
+    },
+    {
+      "min": 40,
+      "entra": "PALENCIA RUIZ, MARTIN",
+      "sale": "MERINO RIANCHO, DANIEL"
+    },
+    {
+      "min": 50,
+      "entra": "PELAYO DE JUANA, JONATHAN",
+      "sale": "MORENO LIENDO, RODRIGO"
+    },
+    {
+      "min": 60,
+      "entra": "BUSTILLO LEÓN, DANIEL",
+      "sale": "RIOS GONZALEZ, SERGIO"
+    },
+    {
+      "min": 60,
+      "entra": "EL AISSI ZAKHNIOUI, REDA",
+      "sale": "ÁLVAREZ SÁIZ, GAEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "TRIGO SANTOS, ALEJANDRO": 90,
+    "MIER MONTES, ADRIAN": 46,
+    "MÚGICA BLANCO, HUGO": 90,
+    "FERNANDEZ TOMAS, ALVARO": 55,
+    "LUQUE MARTINEZ, AIMAR": 90,
+    "SANCHEZ CUEVAS, SERGIO": 55,
+    "MENDARO TERAN, LUIS": 90,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 90,
+    "GONZALEZ ROTGER, ALVARO": 90,
+    "MAYORDOMO NAVARRO, CRISTIAN": 90,
+    "GUTIÉRREZ LÓPEZ, DAVID": 90,
+    "GOMEZ SANCHEZ, MARC": 44,
+    "GUERRA MIRANDA, MARTÍN": 35,
+    "CIEZA PEREZ, ASIER": 35,
+    "MERINO RIANCHO, DANIEL": 40,
+    "DE LA IGLESIA GUTIÉRREZ, DIEGO": 90,
+    "ÁLVAREZ SÁIZ, GAEL": 60,
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO": 90,
+    "GÓMEZ BÁRCENA, AARON": 90,
+    "MORENO LIENDO, RODRIGO": 50,
+    "LAK HAL, ADAM": 90,
+    "DE LA TORRE SUBERO, ALEJANDRO": 40,
+    "ARENAS CASTANEDO, ZEUS": 90,
+    "RIOS GONZALEZ, SERGIO": 60,
+    "SAN MIGUEL DOSAL, DAVID": 90,
+    "AMEZQUETA SÁIZ, MATEO": 50,
+    "PALENCIA RUIZ, MARTIN": 50,
+    "PELAYO DE JUANA, JONATHAN": 40,
+    "BUSTILLO LEÓN, DANIEL": 30,
+    "EL AISSI ZAKHNIOUI, REDA": 30
+  },
+  "portero_local": "TRIGO SANTOS, ALEJANDRO",
+  "portero_visitante": "MERINO RIANCHO, DANIEL",
+  "dorsales_local": {
+    "TRIGO SANTOS, ALEJANDRO": 1,
+    "MIER MONTES, ADRIAN": 2,
+    "MÚGICA BLANCO, HUGO": 3,
+    "FERNANDEZ TOMAS, ALVARO": 5,
+    "LUQUE MARTINEZ, AIMAR": 7,
+    "SANCHEZ CUEVAS, SERGIO": 9,
+    "MENDARO TERAN, LUIS": 11,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 16,
+    "GONZALEZ ROTGER, ALVARO": 19,
+    "MAYORDOMO NAVARRO, CRISTIAN": 20,
+    "GUTIÉRREZ LÓPEZ, DAVID": 21
+  },
+  "dorsales_visitante": {
+    "MERINO RIANCHO, DANIEL": 1,
+    "DE LA IGLESIA GUTIÉRREZ, DIEGO": 2,
+    "ÁLVAREZ SÁIZ, GAEL": 3,
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO": 4,
+    "GÓMEZ BÁRCENA, AARON": 5,
+    "MORENO LIENDO, RODRIGO": 6,
+    "LAK HAL, ADAM": 7,
+    "DE LA TORRE SUBERO, ALEJANDRO": 8,
+    "ARENAS CASTANEDO, ZEUS": 9,
+    "RIOS GONZALEZ, SERGIO": 10,
+    "SAN MIGUEL DOSAL, DAVID": 11
+  },
+  "suspendidos": []
+}
