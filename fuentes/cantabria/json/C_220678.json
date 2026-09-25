@@ -1,0 +1,270 @@
+{
+  "acta_id": "C_220678",
+  "filename": "Acta_C_220678.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 5,
+  "fecha": "19-10-2025",
+  "hora": "13:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "VELARDE C.F. A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GIL CASTAÑERA, JORGE"
+  ],
+  "estadio": "Muriedas 2",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "BARBA AGENJO, DARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "BLANCO PORTILLA, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 43,
+      "jugador": "BARBA AGENJO, DARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "MUÑOZ SIERRA, HECTOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "MUÑOZ MORA, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "S.D. SOLARES-MEDIO CUDEYO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SALCINES PRIETO, LUIS FELIPE",
+  "entrenador_visitante": "MARQUEZ SETIEN, CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTINEZ CASTRO, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ CASTRO, DANIEL",
+  "delegado_equipo_visitante": "MADRAZO PRESMANES, PABLO",
+  "titulares_local": [
+    "SALCINES ZARCO, AYMAR",
+    "FRANCO RIEGO, LUCAS",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "PEREZ VILLA, DAVID",
+    "MUÑOZ SIERRA, HECTOR",
+    "HOYOS ORTEGA, LUCA"
+  ],
+  "titulares_visitante": [
+    "BRAVO BLANCO, PEDRO",
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL",
+    "SECK DE LA HOZ, ROBERTO",
+    "BECI ESTEVE, MARCO",
+    "GONZALEZ TOCA, NICOLAS",
+    "BLANCO PORTILLA, SERGIO",
+    "LOPEZ CORRALES, LUCAS",
+    "HIERRO MENEZO, NICOLAS",
+    "GARCIA IRIZABAL, CARLOS",
+    "ABASCAL BARQUIN, HUGO",
+    "DIAZ DIAZ, DYLAN"
+  ],
+  "suplentes_local": [
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "MARTINEZ GONZALEZ, DANIEL",
+    "ESTRADA ALONSO, AARON",
+    "SANCHEZ SOTO, MATEO",
+    "SERBAN, MANUEL"
+  ],
+  "suplentes_visitante": [
+    "CUEVAS ARRUZA, LUCAS",
+    "MORETON GONZALEZ, LUCAS",
+    "LOPEZ CORRALES, MARCO",
+    "PACHECO GUTIERREZ, MARTIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SALCINES ZARCO, AYMAR",
+    "FRANCO RIEGO, LUCAS",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "PEREZ VILLA, DAVID",
+    "MUÑOZ SIERRA, HECTOR",
+    "HOYOS ORTEGA, LUCA",
+    "SANCHEZ SOTO, MATEO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "MARTINEZ GONZALEZ, DANIEL",
+    "ESTRADA ALONSO, AARON",
+    "SERBAN, MANUEL"
+  ],
+  "jugadores_visitante": [
+    "BRAVO BLANCO, PEDRO",
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL",
+    "SECK DE LA HOZ, ROBERTO",
+    "BECI ESTEVE, MARCO",
+    "GONZALEZ TOCA, NICOLAS",
+    "BLANCO PORTILLA, SERGIO",
+    "LOPEZ CORRALES, LUCAS",
+    "HIERRO MENEZO, NICOLAS",
+    "GARCIA IRIZABAL, CARLOS",
+    "ABASCAL BARQUIN, HUGO",
+    "DIAZ DIAZ, DYLAN",
+    "PACHECO GUTIERREZ, MARTIN",
+    "CUEVAS ARRUZA, LUCAS",
+    "MORETON GONZALEZ, LUCAS",
+    "LOPEZ CORRALES, MARCO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SANCHEZ SOTO, MATEO",
+      "sale": "FRANCO RIEGO, LUCAS"
+    },
+    {
+      "min": 40,
+      "entra": "DE ANDRÉS ORDIEREZ, RUBÉN",
+      "sale": "HOYOS ORTEGA, LUCA"
+    },
+    {
+      "min": 47,
+      "entra": "MARTINEZ GONZALEZ, DANIEL",
+      "sale": "ARCE ABASCAL, DIEGO"
+    },
+    {
+      "min": 53,
+      "entra": "ESTRADA ALONSO, AARON",
+      "sale": "PEÑA GONZALEZ, ALVARO"
+    },
+    {
+      "min": 57,
+      "entra": "SERBAN, MANUEL",
+      "sale": "MUÑOZ SIERRA, HECTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "PACHECO GUTIERREZ, MARTIN",
+      "sale": "ABASCAL BARQUIN, HUGO"
+    },
+    {
+      "min": 45,
+      "entra": "CUEVAS ARRUZA, LUCAS",
+      "sale": "SECK DE LA HOZ, ROBERTO"
+    },
+    {
+      "min": 49,
+      "entra": "MORETON GONZALEZ, LUCAS",
+      "sale": "BECI ESTEVE, MARCO"
+    },
+    {
+      "min": 52,
+      "entra": "LOPEZ CORRALES, MARCO",
+      "sale": "LOPEZ CORRALES, LUCAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "SALCINES ZARCO, AYMAR": 90,
+    "FRANCO RIEGO, LUCAS": 40,
+    "MUÑOZ MORA, HUGO": 90,
+    "RUIZ MUÑIZ, MARIO": 90,
+    "BARBA AGENJO, DARIO": 90,
+    "ARCE ABASCAL, DIEGO": 47,
+    "DIEZ GARCIA, MATEO": 90,
+    "PEÑA GONZALEZ, ALVARO": 53,
+    "PEREZ VILLA, DAVID": 90,
+    "MUÑOZ SIERRA, HECTOR": 57,
+    "HOYOS ORTEGA, LUCA": 40,
+    "SANCHEZ SOTO, MATEO": 50,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 50,
+    "MARTINEZ GONZALEZ, DANIEL": 43,
+    "ESTRADA ALONSO, AARON": 37,
+    "SERBAN, MANUEL": 33,
+    "BRAVO BLANCO, PEDRO": 90,
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL": 90,
+    "SECK DE LA HOZ, ROBERTO": 45,
+    "BECI ESTEVE, MARCO": 49,
+    "GONZALEZ TOCA, NICOLAS": 90,
+    "BLANCO PORTILLA, SERGIO": 90,
+    "LOPEZ CORRALES, LUCAS": 52,
+    "HIERRO MENEZO, NICOLAS": 90,
+    "GARCIA IRIZABAL, CARLOS": 90,
+    "ABASCAL BARQUIN, HUGO": 35,
+    "DIAZ DIAZ, DYLAN": 90,
+    "PACHECO GUTIERREZ, MARTIN": 55,
+    "CUEVAS ARRUZA, LUCAS": 45,
+    "MORETON GONZALEZ, LUCAS": 41,
+    "LOPEZ CORRALES, MARCO": 38
+  },
+  "portero_local": "SALCINES ZARCO, AYMAR",
+  "portero_visitante": "BRAVO BLANCO, PEDRO",
+  "dorsales_local": {
+    "SALCINES ZARCO, AYMAR": 1,
+    "FRANCO RIEGO, LUCAS": 2,
+    "MUÑOZ MORA, HUGO": 3,
+    "RUIZ MUÑIZ, MARIO": 4,
+    "BARBA AGENJO, DARIO": 6,
+    "ARCE ABASCAL, DIEGO": 7,
+    "DIEZ GARCIA, MATEO": 8,
+    "PEÑA GONZALEZ, ALVARO": 9,
+    "PEREZ VILLA, DAVID": 15,
+    "MUÑOZ SIERRA, HECTOR": 17,
+    "HOYOS ORTEGA, LUCA": 20
+  },
+  "dorsales_visitante": {
+    "BRAVO BLANCO, PEDRO": 1,
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL": 2,
+    "SECK DE LA HOZ, ROBERTO": 3,
+    "BECI ESTEVE, MARCO": 6,
+    "GONZALEZ TOCA, NICOLAS": 9,
+    "BLANCO PORTILLA, SERGIO": 10,
+    "LOPEZ CORRALES, LUCAS": 11,
+    "HIERRO MENEZO, NICOLAS": 14,
+    "GARCIA IRIZABAL, CARLOS": 15,
+    "ABASCAL BARQUIN, HUGO": 17,
+    "DIAZ DIAZ, DYLAN": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
