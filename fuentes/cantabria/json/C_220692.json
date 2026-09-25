@@ -1,0 +1,250 @@
+{
+  "acta_id": "C_220692",
+  "filename": "Acta_C_220692.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 7,
+  "fecha": "01-11-2025",
+  "hora": "10:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. COLINDRES",
+  "equipo_visitante": "E.D.M. CAYON A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "REVUELTA BENGOCHEA, DIEGO"
+  ],
+  "estadio": "Colindres",
+  "ciudad": "Colindres",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "CANO VELA, ARITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 12,
+      "jugador": "CILLERUELO FERNANDEZ, RAUL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "MIRANDA TOMEY, AARON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "E.D.M. CAYON A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "PEDRAJO PEREZ, CRISTIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "SANTAMARIA GUTIERREZ, YAGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FERNANDEZ MONTES, DAVID",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ALVAREZ OLIVEROS, CESAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALVAREZ OLIVEROS, CESAR",
+  "delegado_equipo_visitante": "CEBALLOS PRIETO, MARIO",
+  "titulares_local": [
+    "QUINTELA MORANTE, ALONSO",
+    "SALCINES DE LA FUENTE, LEO",
+    "SANCHEZ LOPEZ, ALEJANDRO",
+    "FRIAS ORTIZ, MARTIN",
+    "VAZQUEZ GOMEZ, IKER",
+    "GARAY BUSTOS, JOAN",
+    "BLAZQUEZ CALVO, JUAN",
+    "MIRANDA TOMEY, AARON",
+    "CANO VELA, OIER",
+    "ECHEVARRIA AEQUES, MARIO",
+    "CANO VELA, ARITZ"
+  ],
+  "titulares_visitante": [
+    "BECERRIL ALONSO, ALVARO",
+    "GARCES PEDRAJA, ESDRAS",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "RABAGO FERNANDEZ, MARIO",
+    "BARCENA GARCIA, PEDRO",
+    "PEDRAJO PEREZ, CRISTIAN",
+    "PRECIADO GONZALEZ, DIEGO",
+    "OBREGON FERNANDEZ, MARIO",
+    "COTERO SAMPERIO, AARON",
+    "SANTAMARIA GUTIERREZ, YAGO",
+    "ASENSIO PILA, HECTOR"
+  ],
+  "suplentes_local": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "RIVAS TORRE, GORKA",
+    "TORRES SAN MARTÍN, JORGE",
+    "SILBERMANN BRIGIDO, LEONARD",
+    "VIÑAS ARNAU, JULIAN"
+  ],
+  "suplentes_visitante": [
+    "COBO HERRERA, PABLO",
+    "ESPINEL RUIZ, IKER",
+    "COBO COBO, CRISTIAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORDAS ARREDONDO, ISKANDER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "QUINTELA MORANTE, ALONSO",
+    "SALCINES DE LA FUENTE, LEO",
+    "SANCHEZ LOPEZ, ALEJANDRO",
+    "FRIAS ORTIZ, MARTIN",
+    "VAZQUEZ GOMEZ, IKER",
+    "GARAY BUSTOS, JOAN",
+    "BLAZQUEZ CALVO, JUAN",
+    "MIRANDA TOMEY, AARON",
+    "CANO VELA, OIER",
+    "ECHEVARRIA AEQUES, MARIO",
+    "CANO VELA, ARITZ",
+    "TORRES SAN MARTÍN, JORGE",
+    "SILBERMANN BRIGIDO, LEONARD",
+    "VIÑAS ARNAU, JULIAN",
+    "RIVAS TORRE, GORKA"
+  ],
+  "jugadores_visitante": [
+    "BECERRIL ALONSO, ALVARO",
+    "GARCES PEDRAJA, ESDRAS",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "RABAGO FERNANDEZ, MARIO",
+    "BARCENA GARCIA, PEDRO",
+    "PEDRAJO PEREZ, CRISTIAN",
+    "PRECIADO GONZALEZ, DIEGO",
+    "OBREGON FERNANDEZ, MARIO",
+    "COTERO SAMPERIO, AARON",
+    "SANTAMARIA GUTIERREZ, YAGO",
+    "ASENSIO PILA, HECTOR",
+    "ESPINEL RUIZ, IKER",
+    "COBO HERRERA, PABLO",
+    "COBO COBO, CRISTIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "TORRES SAN MARTÍN, JORGE",
+      "sale": "VAZQUEZ GOMEZ, IKER"
+    },
+    {
+      "min": 50,
+      "entra": "SILBERMANN BRIGIDO, LEONARD",
+      "sale": "GARAY BUSTOS, JOAN"
+    },
+    {
+      "min": 55,
+      "entra": "VIÑAS ARNAU, JULIAN",
+      "sale": "BLAZQUEZ CALVO, JUAN"
+    },
+    {
+      "min": 57,
+      "entra": "RIVAS TORRE, GORKA",
+      "sale": "SANCHEZ LOPEZ, ALEJANDRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 42,
+      "entra": "ESPINEL RUIZ, IKER",
+      "sale": "COTERO SAMPERIO, AARON"
+    },
+    {
+      "min": 49,
+      "entra": "COBO HERRERA, PABLO",
+      "sale": "CILLERUELO FERNANDEZ, RAUL"
+    },
+    {
+      "min": 55,
+      "entra": "COBO COBO, CRISTIAN",
+      "sale": "PEDRAJO PEREZ, CRISTIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "QUINTELA MORANTE, ALONSO": 90,
+    "SALCINES DE LA FUENTE, LEO": 90,
+    "SANCHEZ LOPEZ, ALEJANDRO": 57,
+    "FRIAS ORTIZ, MARTIN": 90,
+    "VAZQUEZ GOMEZ, IKER": 44,
+    "GARAY BUSTOS, JOAN": 50,
+    "BLAZQUEZ CALVO, JUAN": 55,
+    "MIRANDA TOMEY, AARON": 90,
+    "CANO VELA, OIER": 90,
+    "ECHEVARRIA AEQUES, MARIO": 90,
+    "CANO VELA, ARITZ": 90,
+    "TORRES SAN MARTÍN, JORGE": 46,
+    "SILBERMANN BRIGIDO, LEONARD": 40,
+    "VIÑAS ARNAU, JULIAN": 35,
+    "RIVAS TORRE, GORKA": 33,
+    "BECERRIL ALONSO, ALVARO": 90,
+    "GARCES PEDRAJA, ESDRAS": 90,
+    "CILLERUELO FERNANDEZ, RAUL": 49,
+    "RABAGO FERNANDEZ, MARIO": 90,
+    "BARCENA GARCIA, PEDRO": 90,
+    "PEDRAJO PEREZ, CRISTIAN": 55,
+    "PRECIADO GONZALEZ, DIEGO": 90,
+    "OBREGON FERNANDEZ, MARIO": 90,
+    "COTERO SAMPERIO, AARON": 42,
+    "SANTAMARIA GUTIERREZ, YAGO": 90,
+    "ASENSIO PILA, HECTOR": 90,
+    "ESPINEL RUIZ, IKER": 48,
+    "COBO HERRERA, PABLO": 41,
+    "COBO COBO, CRISTIAN": 35
+  },
+  "portero_local": "QUINTELA MORANTE, ALONSO",
+  "portero_visitante": "BECERRIL ALONSO, ALVARO",
+  "dorsales_local": {
+    "QUINTELA MORANTE, ALONSO": 13,
+    "SALCINES DE LA FUENTE, LEO": 4,
+    "SANCHEZ LOPEZ, ALEJANDRO": 5,
+    "FRIAS ORTIZ, MARTIN": 6,
+    "VAZQUEZ GOMEZ, IKER": 7,
+    "GARAY BUSTOS, JOAN": 8,
+    "BLAZQUEZ CALVO, JUAN": 9,
+    "MIRANDA TOMEY, AARON": 10,
+    "CANO VELA, OIER": 11,
+    "ECHEVARRIA AEQUES, MARIO": 20,
+    "CANO VELA, ARITZ": 21
+  },
+  "dorsales_visitante": {
+    "BECERRIL ALONSO, ALVARO": 1,
+    "GARCES PEDRAJA, ESDRAS": 2,
+    "CILLERUELO FERNANDEZ, RAUL": 3,
+    "RABAGO FERNANDEZ, MARIO": 7,
+    "BARCENA GARCIA, PEDRO": 18,
+    "PEDRAJO PEREZ, CRISTIAN": 19,
+    "PRECIADO GONZALEZ, DIEGO": 23,
+    "OBREGON FERNANDEZ, MARIO": 30,
+    "COTERO SAMPERIO, AARON": 31,
+    "SANTAMARIA GUTIERREZ, YAGO": 36,
+    "ASENSIO PILA, HECTOR": 37
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
