@@ -1,0 +1,276 @@
+{
+  "acta_id": "C_220659",
+  "filename": "Acta_C_220659.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "05-10-2025",
+  "hora": "11:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "HERRERA NORIEGA, IVÁN"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "BARANDA HERRERA, JUAN JOSE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "PEREZ REVUELTA, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "ARISQUETA GUTIERREZ, CARLOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 42,
+      "jugador": "FOMPEROSA GARCÍA, LEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 51,
+      "jugador": "CONCHA OLMO, ORIOL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "SAEZ DIAZ, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "C.D. LAREDO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "BARANDA HERRERA, JUAN JOSE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CUESTA MARTINEZ, RUBEN",
+  "entrenador_visitante": "ESTRADA CANOVAS, MARIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAN SEGUNDO GAUTIER, MIGUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VILLEGAS BARRERO, AIMAR",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "CONCHA OLMO, ORIOL",
+    "RABAGO GOMEZ, MAURO",
+    "OCEJA ARRANZ, SIMON",
+    "CUEVAS RUIZ, MARCOS",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ REVUELTA, NICOLAS",
+    "ACHEHBOUNE BADOURI, ADAM"
+  ],
+  "titulares_visitante": [
+    "BRINGAS LLANO, HUGO",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "ECHEVARRIA ARGUL, LEO",
+    "BARANDA HERRERA, JUAN JOSE",
+    "AMUTIO CASADO, GABRIEL",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "LAHUERTA RUIZ, ARITZA",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "MARTINEZ PALACIO, NAHIA",
+    "ABASCAL DACOSTA, RUBEN"
+  ],
+  "suplentes_local": [
+    "VILLEGAS DE LA HOZ, ASIER",
+    "GUERRA CALZADA, ÁLVARO",
+    "GONZÁLEZ GÓMEZ, NICOLÁS",
+    "PEREZ MIRANDA, IZAN"
+  ],
+  "suplentes_visitante": [
+    "RAYS VIERA DE SA, THIAGO",
+    "LOPEZ ORTEGA, DYLAN",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "CAÑARTE FERNANDEZ, CHRISTIAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "CONCHA OLMO, ORIOL",
+    "RABAGO GOMEZ, MAURO",
+    "OCEJA ARRANZ, SIMON",
+    "CUEVAS RUIZ, MARCOS",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ REVUELTA, NICOLAS",
+    "ACHEHBOUNE BADOURI, ADAM",
+    "PEREZ MIRANDA, IZAN",
+    "GUERRA CALZADA, ÁLVARO",
+    "VILLEGAS DE LA HOZ, ASIER",
+    "GONZÁLEZ GÓMEZ, NICOLÁS"
+  ],
+  "jugadores_visitante": [
+    "BRINGAS LLANO, HUGO",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "ECHEVARRIA ARGUL, LEO",
+    "BARANDA HERRERA, JUAN JOSE",
+    "AMUTIO CASADO, GABRIEL",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "LAHUERTA RUIZ, ARITZA",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "MARTINEZ PALACIO, NAHIA",
+    "ABASCAL DACOSTA, RUBEN",
+    "LOPEZ ORTEGA, DYLAN",
+    "RAYS VIERA DE SA, THIAGO",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "CAÑARTE FERNANDEZ, CHRISTIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 43,
+      "entra": "PEREZ MIRANDA, IZAN",
+      "sale": "ACHEHBOUNE BADOURI, ADAM"
+    },
+    {
+      "min": 43,
+      "entra": "GUERRA CALZADA, ÁLVARO",
+      "sale": "MORENO FERNANDEZ, HECTOR"
+    },
+    {
+      "min": 59,
+      "entra": "VILLEGAS DE LA HOZ, ASIER",
+      "sale": "OCEJA ARRANZ, SIMON"
+    },
+    {
+      "min": 59,
+      "entra": "GONZÁLEZ GÓMEZ, NICOLÁS",
+      "sale": "SAEZ DIAZ, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 27,
+      "entra": "LOPEZ ORTEGA, DYLAN",
+      "sale": "BECI CARRERA, EDUARDO"
+    },
+    {
+      "min": 35,
+      "entra": "RAYS VIERA DE SA, THIAGO",
+      "sale": "BRINGAS LLANO, HUGO"
+    },
+    {
+      "min": 43,
+      "entra": "ARISQUETA GUTIERREZ, CARLOS",
+      "sale": "LAHUERTA RUIZ, ARITZA"
+    },
+    {
+      "min": 49,
+      "entra": "RODRIGUEZ ECHEVARRIA, FRAN",
+      "sale": "ECHEVARRIA ARGUL, LEO"
+    },
+    {
+      "min": 59,
+      "entra": "CAÑARTE FERNANDEZ, CHRISTIAN",
+      "sale": "ABASCAL DACOSTA, RUBEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 90,
+    "SAEZ DIAZ, NICOLAS": 59,
+    "OLANDA GONZALEZ, HUGO": 90,
+    "CONCHA OLMO, ORIOL": 90,
+    "RABAGO GOMEZ, MAURO": 90,
+    "OCEJA ARRANZ, SIMON": 59,
+    "CUEVAS RUIZ, MARCOS": 90,
+    "MORENO FERNANDEZ, HECTOR": 43,
+    "FOMPEROSA GARCÍA, LEO": 90,
+    "PEREZ REVUELTA, NICOLAS": 90,
+    "ACHEHBOUNE BADOURI, ADAM": 43,
+    "PEREZ MIRANDA, IZAN": 47,
+    "GUERRA CALZADA, ÁLVARO": 47,
+    "VILLEGAS DE LA HOZ, ASIER": 31,
+    "GONZÁLEZ GÓMEZ, NICOLÁS": 31,
+    "BRINGAS LLANO, HUGO": 35,
+    "BECI CARRERA, EDUARDO": 27,
+    "PASCUAL ARANA, ELEDER": 90,
+    "ECHEVARRIA ARGUL, LEO": 49,
+    "BARANDA HERRERA, JUAN JOSE": 90,
+    "AMUTIO CASADO, GABRIEL": 90,
+    "GONZALEZ FERNANDEZ, GABRIEL": 90,
+    "LAHUERTA RUIZ, ARITZA": 43,
+    "BARANZA PEÑA, DANIEL-STEVEN": 90,
+    "MARTINEZ PALACIO, NAHIA": 90,
+    "ABASCAL DACOSTA, RUBEN": 59,
+    "LOPEZ ORTEGA, DYLAN": 63,
+    "RAYS VIERA DE SA, THIAGO": 55,
+    "ARISQUETA GUTIERREZ, CARLOS": 47,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 41,
+    "CAÑARTE FERNANDEZ, CHRISTIAN": 31
+  },
+  "portero_local": "SÁNCHEZ SÁNCHEZ, RAUL",
+  "portero_visitante": "BRINGAS LLANO, HUGO",
+  "dorsales_local": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 13,
+    "SAEZ DIAZ, NICOLAS": 2,
+    "OLANDA GONZALEZ, HUGO": 4,
+    "CONCHA OLMO, ORIOL": 5,
+    "RABAGO GOMEZ, MAURO": 6,
+    "OCEJA ARRANZ, SIMON": 8,
+    "CUEVAS RUIZ, MARCOS": 10,
+    "MORENO FERNANDEZ, HECTOR": 19,
+    "FOMPEROSA GARCÍA, LEO": 21,
+    "PEREZ REVUELTA, NICOLAS": 22,
+    "ACHEHBOUNE BADOURI, ADAM": 23
+  },
+  "dorsales_visitante": {
+    "BRINGAS LLANO, HUGO": 1,
+    "BECI CARRERA, EDUARDO": 3,
+    "PASCUAL ARANA, ELEDER": 4,
+    "ECHEVARRIA ARGUL, LEO": 6,
+    "BARANDA HERRERA, JUAN JOSE": 7,
+    "AMUTIO CASADO, GABRIEL": 8,
+    "GONZALEZ FERNANDEZ, GABRIEL": 10,
+    "LAHUERTA RUIZ, ARITZA": 12,
+    "BARANZA PEÑA, DANIEL-STEVEN": 14,
+    "MARTINEZ PALACIO, NAHIA": 24,
+    "ABASCAL DACOSTA, RUBEN": 26
+  },
+  "suspendidos": []
+}
