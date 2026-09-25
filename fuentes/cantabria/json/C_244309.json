@@ -1,0 +1,274 @@
+{
+  "acta_id": "C_244309",
+  "filename": "Acta_C_244309.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "13:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO A)",
+  "equipo_local": "R.S. GIMNASTICA B",
+  "equipo_visitante": "C.D. AMISTAD SNIACE B",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCIA OREÑA, IRENE"
+  ],
+  "estadio": "El Malecón 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "SAN JUAN SZUPILUK, LEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "CELORIO GARCIA, LARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "EKO GOMEZ, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "EKO GOMEZ, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 70,
+      "jugador": "GARCIA RUIZ, JAVIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 54,
+      "jugador": "COSÍO BLANCO, NICOLÁS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "C.D. AMISTAD SNIACE B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 11,
+      "jugador": "FERNANDEZ MARTINEZ, IZAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 20,
+      "jugador": "CASTILLO MIER, NICO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "GOMEZ LOPEZ, SAUL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZALEZ MARTINEZ, JULIAN JOSE",
+  "entrenador_visitante": "DORRONSORO GONZALEZ, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "PACHON MESIERT, IGNACIO",
+  "delegado_campo_local": "GOMEZ ZEVALLOS, STEVEN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GOMEZ ZEVALLOS, STEVEN",
+  "delegado_equipo_visitante": "DORRONSORO OBREGON, PEDRO MARIA",
+  "titulares_local": [
+    "DIAZ GONZALEZ, ESTEBAN",
+    "CASTANEDO MARTINEZ, MARCO",
+    "PAREDES GONZÁLEZ, BOSCO",
+    "PÉREZ LASO, GUILLERMO",
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO",
+    "PEREZ BAIZAN, ALVARO",
+    "COSÍO BLANCO, NICOLÁS",
+    "CELORIO GARCIA, LARO",
+    "GARCIA MARTINEZ, NECO",
+    "GARCIA RUIZ, JAVIER",
+    "PEREZ RICO, IGNACIO"
+  ],
+  "titulares_visitante": [
+    "DORRONSORO DIAZ, LEO",
+    "SANCHEZ LEON, BAUTI",
+    "GOMEZ LOPEZ, SAUL",
+    "LOZANO ORTEGA, MARCOS",
+    "JORGE SAN EMETERIO, OLIVER",
+    "CASTILLO MIER, NICO",
+    "EKO GOMEZ, ALEJANDRO",
+    "FERNANDEZ MARTINEZ, IZAN",
+    "SANCHEZ IZQUIERDO, CESAR",
+    "ESQUIBEL MARIN, HODEI",
+    "SAN JUAN SZUPILUK, LEO"
+  ],
+  "suplentes_local": [
+    "CASERO PUCHE, LUIS",
+    "NICOL BROWN, DICKSON",
+    "HERNANDEZ CANO, HUGO",
+    "ORTIZ CAMPO, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "SANCHEZ RUIZ, DANIEL",
+    "COVARRUBIAS MARTIN, ENZO",
+    "GARCIA RAMOS, DAVID"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DIAZ GONZALEZ, ESTEBAN",
+    "CASTANEDO MARTINEZ, MARCO",
+    "PAREDES GONZÁLEZ, BOSCO",
+    "PÉREZ LASO, GUILLERMO",
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO",
+    "PEREZ BAIZAN, ALVARO",
+    "COSÍO BLANCO, NICOLÁS",
+    "CELORIO GARCIA, LARO",
+    "GARCIA MARTINEZ, NECO",
+    "GARCIA RUIZ, JAVIER",
+    "PEREZ RICO, IGNACIO",
+    "CASERO PUCHE, LUIS",
+    "ORTIZ CAMPO, DIEGO",
+    "NICOL BROWN, DICKSON",
+    "HERNANDEZ CANO, HUGO"
+  ],
+  "jugadores_visitante": [
+    "DORRONSORO DIAZ, LEO",
+    "SANCHEZ LEON, BAUTI",
+    "GOMEZ LOPEZ, SAUL",
+    "LOZANO ORTEGA, MARCOS",
+    "JORGE SAN EMETERIO, OLIVER",
+    "CASTILLO MIER, NICO",
+    "EKO GOMEZ, ALEJANDRO",
+    "FERNANDEZ MARTINEZ, IZAN",
+    "SANCHEZ IZQUIERDO, CESAR",
+    "ESQUIBEL MARIN, HODEI",
+    "SAN JUAN SZUPILUK, LEO",
+    "GARCIA RAMOS, DAVID",
+    "COVARRUBIAS MARTIN, ENZO",
+    "SANCHEZ RUIZ, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "CASERO PUCHE, LUIS",
+      "sale": "DIAZ GONZALEZ, ESTEBAN"
+    },
+    {
+      "min": 47,
+      "entra": "ORTIZ CAMPO, DIEGO",
+      "sale": "PEREZ BAIZAN, ALVARO"
+    },
+    {
+      "min": 47,
+      "entra": "NICOL BROWN, DICKSON",
+      "sale": "PEREZ RICO, IGNACIO"
+    },
+    {
+      "min": 57,
+      "entra": "HERNANDEZ CANO, HUGO",
+      "sale": "GARCIA MARTINEZ, NECO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 24,
+      "entra": "GARCIA RAMOS, DAVID",
+      "sale": "SANCHEZ LEON, BAUTI"
+    },
+    {
+      "min": 35,
+      "entra": "COVARRUBIAS MARTIN, ENZO",
+      "sale": "CASTILLO MIER, NICO"
+    },
+    {
+      "min": 57,
+      "entra": "SANCHEZ RUIZ, DANIEL",
+      "sale": "FERNANDEZ MARTINEZ, IZAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "DIAZ GONZALEZ, ESTEBAN": 35,
+    "CASTANEDO MARTINEZ, MARCO": 90,
+    "PAREDES GONZÁLEZ, BOSCO": 90,
+    "PÉREZ LASO, GUILLERMO": 90,
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO": 90,
+    "PEREZ BAIZAN, ALVARO": 47,
+    "COSÍO BLANCO, NICOLÁS": 90,
+    "CELORIO GARCIA, LARO": 90,
+    "GARCIA MARTINEZ, NECO": 57,
+    "GARCIA RUIZ, JAVIER": 90,
+    "PEREZ RICO, IGNACIO": 47,
+    "CASERO PUCHE, LUIS": 55,
+    "ORTIZ CAMPO, DIEGO": 43,
+    "NICOL BROWN, DICKSON": 43,
+    "HERNANDEZ CANO, HUGO": 33,
+    "DORRONSORO DIAZ, LEO": 90,
+    "SANCHEZ LEON, BAUTI": 24,
+    "GOMEZ LOPEZ, SAUL": 90,
+    "LOZANO ORTEGA, MARCOS": 90,
+    "JORGE SAN EMETERIO, OLIVER": 90,
+    "CASTILLO MIER, NICO": 35,
+    "EKO GOMEZ, ALEJANDRO": 90,
+    "FERNANDEZ MARTINEZ, IZAN": 57,
+    "SANCHEZ IZQUIERDO, CESAR": 90,
+    "ESQUIBEL MARIN, HODEI": 90,
+    "SAN JUAN SZUPILUK, LEO": 90,
+    "GARCIA RAMOS, DAVID": 66,
+    "COVARRUBIAS MARTIN, ENZO": 55,
+    "SANCHEZ RUIZ, DANIEL": 33
+  },
+  "portero_local": "DIAZ GONZALEZ, ESTEBAN",
+  "portero_visitante": "DORRONSORO DIAZ, LEO",
+  "dorsales_local": {
+    "DIAZ GONZALEZ, ESTEBAN": 13,
+    "CASTANEDO MARTINEZ, MARCO": 3,
+    "PAREDES GONZÁLEZ, BOSCO": 4,
+    "PÉREZ LASO, GUILLERMO": 5,
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO": 6,
+    "PEREZ BAIZAN, ALVARO": 7,
+    "COSÍO BLANCO, NICOLÁS": 8,
+    "CELORIO GARCIA, LARO": 10,
+    "GARCIA MARTINEZ, NECO": 11,
+    "GARCIA RUIZ, JAVIER": 14,
+    "PEREZ RICO, IGNACIO": 15
+  },
+  "dorsales_visitante": {
+    "DORRONSORO DIAZ, LEO": 1,
+    "SANCHEZ LEON, BAUTI": 2,
+    "GOMEZ LOPEZ, SAUL": 3,
+    "LOZANO ORTEGA, MARCOS": 4,
+    "JORGE SAN EMETERIO, OLIVER": 5,
+    "CASTILLO MIER, NICO": 6,
+    "EKO GOMEZ, ALEJANDRO": 7,
+    "FERNANDEZ MARTINEZ, IZAN": 10,
+    "SANCHEZ IZQUIERDO, CESAR": 11,
+    "ESQUIBEL MARIN, HODEI": 12,
+    "SAN JUAN SZUPILUK, LEO": 14
+  },
+  "suspendidos": []
+}
