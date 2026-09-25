@@ -1,0 +1,312 @@
+{
+  "acta_id": "R_259941",
+  "filename": "Acta_R_259941.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "18:00",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "UD LOGROÑÉS B",
+  "equipo_visitante": "LOGROÑO UNITED",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "LARHLID , MIMOUN",
+    "Árbitro Asistente",
+    "FUENTES CACABELOS, AITOR",
+    "Árbitro Asistente",
+    "ARENZANA MARTINEZ, ANGELA"
+  ],
+  "estadio": "CIUDAD DEPORTIVA U.D. LOGROÑES - H.A. - 2 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "GOMEZ SIERRA, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "BAZ HERNANDEZ, LUKAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "BIRYUKOV PEREZ, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 44,
+      "jugador": "PESO MIGUEL, IÑIGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "SAEZ ESCUDER, CARLOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "ROMERO SERRANO, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "LOGROÑO UNITED",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "MARTINEZ MARIN, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "CARRERO CASERO, ISMAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "MADORRAN NEGUERUELA, MARCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ADAN ARREA, JAVIER",
+  "entrenador_visitante": "IBAR CHASCO, FRANCISCO J",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAIZ MARTINEZ, PEDRO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAINZ MARTINEZ, PEDRO J",
+  "delegado_equipo_visitante": "VERANO GONZALEZ, JOSE",
+  "titulares_local": [
+    "BLANCO ESPARZA, JORGE",
+    "SAEZ ESCUDER, CARLOS",
+    "BAZ HERNANDEZ, LUKAS",
+    "ROMERO SERRANO, DIEGO",
+    "GOMEZ SIERRA, ADRIAN",
+    "ERDOZAIN MESEGUER, JAVIER",
+    "PESO MIGUEL, IÑIGO",
+    "LOPEZ CAICEDO, JOSE M",
+    "MARTIN BRIONES, DIEGO",
+    "CAÑAS SAN JOSE, ROBERTO",
+    "VIANA CORDERO, DAVID"
+  ],
+  "titulares_visitante": [
+    "HARIJ GHARAFI, ISMAEL",
+    "SAENZ ESCUDERO, JORGE",
+    "GARRIDO RAMIREZ, DANIEL",
+    "CONDE SAENZ-LOPEZ, ALEJANDRO",
+    "DOPAZO GARCIA, LORENZO",
+    "VELASCO DEL RIO, LEO",
+    "BIRYUKOV PEREZ, IVAN",
+    "FERNANDEZ HERNANDO, DARIO",
+    "CORRAL ZORZANO, RUBEN",
+    "MARTINEZ MARIN, HUGO",
+    "CARRERO CASERO, ISMAEL"
+  ],
+  "suplentes_local": [
+    "MENA GALAR, NICOLAS",
+    "RIONÉ MARTINEZ, CARLOS",
+    "BERMEJO GALLASTEGUI, ALVARO",
+    "PASCUAL MONTOYA, SAMUEL",
+    "FERNANDEZ RAMIREZ, GUILLERMO",
+    "SANCHO FERNANDEZ, RODRIGO",
+    "GRIJALBA ROYO, LUCAS"
+  ],
+  "suplentes_visitante": [
+    "SAENZ NAVAS, MIGUEL",
+    "GARRIDO DIEZ, NICOLAS",
+    "LOPEZ ORTIZ V, SERGIO",
+    "IBAÑEZ URDIALES, IKER",
+    "MADORRAN NEGUERUELA, MARCO",
+    "MUÑOZ PEREZ, IVAN",
+    "BLANCO FUENTE, MOISES"
+  ],
+  "convocados_sin_jugar_local": [
+    "SANCHO FERNANDEZ, RODRIGO",
+    "GRIJALBA ROYO, LUCAS"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SAENZ NAVAS, MIGUEL",
+    "LOPEZ ORTIZ V, SERGIO"
+  ],
+  "jugadores_local": [
+    "BLANCO ESPARZA, JORGE",
+    "SAEZ ESCUDER, CARLOS",
+    "BAZ HERNANDEZ, LUKAS",
+    "ROMERO SERRANO, DIEGO",
+    "GOMEZ SIERRA, ADRIAN",
+    "ERDOZAIN MESEGUER, JAVIER",
+    "PESO MIGUEL, IÑIGO",
+    "LOPEZ CAICEDO, JOSE M",
+    "MARTIN BRIONES, DIEGO",
+    "CAÑAS SAN JOSE, ROBERTO",
+    "VIANA CORDERO, DAVID",
+    "BERMEJO GALLASTEGUI, ALVARO",
+    "PASCUAL MONTOYA, SAMUEL",
+    "RIONÉ MARTINEZ, CARLOS",
+    "FERNANDEZ RAMIREZ, GUILLERMO",
+    "MENA GALAR, NICOLAS"
+  ],
+  "jugadores_visitante": [
+    "HARIJ GHARAFI, ISMAEL",
+    "SAENZ ESCUDERO, JORGE",
+    "GARRIDO RAMIREZ, DANIEL",
+    "CONDE SAENZ-LOPEZ, ALEJANDRO",
+    "DOPAZO GARCIA, LORENZO",
+    "VELASCO DEL RIO, LEO",
+    "BIRYUKOV PEREZ, IVAN",
+    "FERNANDEZ HERNANDO, DARIO",
+    "CORRAL ZORZANO, RUBEN",
+    "MARTINEZ MARIN, HUGO",
+    "CARRERO CASERO, ISMAEL",
+    "IBAÑEZ URDIALES, IKER",
+    "MADORRAN NEGUERUELA, MARCO",
+    "BLANCO FUENTE, MOISES",
+    "GARRIDO DIEZ, NICOLAS",
+    "MUÑOZ PEREZ, IVAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "BERMEJO GALLASTEGUI, ALVARO",
+      "sale": "VIANA CORDERO, DAVID"
+    },
+    {
+      "min": 56,
+      "entra": "PASCUAL MONTOYA, SAMUEL",
+      "sale": "CAÑAS SAN JOSE, ROBERTO"
+    },
+    {
+      "min": 56,
+      "entra": "RIONÉ MARTINEZ, CARLOS",
+      "sale": "PESO MIGUEL, IÑIGO"
+    },
+    {
+      "min": 56,
+      "entra": "FERNANDEZ RAMIREZ, GUILLERMO",
+      "sale": "MARTIN BRIONES, DIEGO"
+    },
+    {
+      "min": 69,
+      "entra": "MENA GALAR, NICOLAS",
+      "sale": "ROMERO SERRANO, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "IBAÑEZ URDIALES, IKER",
+      "sale": "GARRIDO RAMIREZ, DANIEL"
+    },
+    {
+      "min": 56,
+      "entra": "MADORRAN NEGUERUELA, MARCO",
+      "sale": "CARRERO CASERO, ISMAEL"
+    },
+    {
+      "min": 76,
+      "entra": "BLANCO FUENTE, MOISES",
+      "sale": "MARTINEZ MARIN, HUGO"
+    },
+    {
+      "min": 76,
+      "entra": "GARRIDO DIEZ, NICOLAS",
+      "sale": "FERNANDEZ HERNANDO, DARIO"
+    },
+    {
+      "min": 85,
+      "entra": "MUÑOZ PEREZ, IVAN",
+      "sale": "CORRAL ZORZANO, RUBEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "BLANCO ESPARZA, JORGE": 90,
+    "SAEZ ESCUDER, CARLOS": 90,
+    "BAZ HERNANDEZ, LUKAS": 90,
+    "ROMERO SERRANO, DIEGO": 69,
+    "GOMEZ SIERRA, ADRIAN": 90,
+    "ERDOZAIN MESEGUER, JAVIER": 90,
+    "PESO MIGUEL, IÑIGO": 56,
+    "LOPEZ CAICEDO, JOSE M": 90,
+    "MARTIN BRIONES, DIEGO": 56,
+    "CAÑAS SAN JOSE, ROBERTO": 56,
+    "VIANA CORDERO, DAVID": 46,
+    "BERMEJO GALLASTEGUI, ALVARO": 44,
+    "PASCUAL MONTOYA, SAMUEL": 34,
+    "RIONÉ MARTINEZ, CARLOS": 34,
+    "FERNANDEZ RAMIREZ, GUILLERMO": 34,
+    "MENA GALAR, NICOLAS": 21,
+    "HARIJ GHARAFI, ISMAEL": 90,
+    "SAENZ ESCUDERO, JORGE": 90,
+    "GARRIDO RAMIREZ, DANIEL": 46,
+    "CONDE SAENZ-LOPEZ, ALEJANDRO": 90,
+    "DOPAZO GARCIA, LORENZO": 90,
+    "VELASCO DEL RIO, LEO": 90,
+    "BIRYUKOV PEREZ, IVAN": 90,
+    "FERNANDEZ HERNANDO, DARIO": 76,
+    "CORRAL ZORZANO, RUBEN": 85,
+    "MARTINEZ MARIN, HUGO": 76,
+    "CARRERO CASERO, ISMAEL": 56,
+    "IBAÑEZ URDIALES, IKER": 44,
+    "MADORRAN NEGUERUELA, MARCO": 34,
+    "BLANCO FUENTE, MOISES": 14,
+    "GARRIDO DIEZ, NICOLAS": 14,
+    "MUÑOZ PEREZ, IVAN": 5
+  },
+  "portero_local": "BLANCO ESPARZA, JORGE",
+  "portero_visitante": "HARIJ GHARAFI, ISMAEL",
+  "dorsales_local": {
+    "BLANCO ESPARZA, JORGE": 1,
+    "SAEZ ESCUDER, CARLOS": 3,
+    "BAZ HERNANDEZ, LUKAS": 5,
+    "ROMERO SERRANO, DIEGO": 8,
+    "GOMEZ SIERRA, ADRIAN": 11,
+    "ERDOZAIN MESEGUER, JAVIER": 12,
+    "PESO MIGUEL, IÑIGO": 14,
+    "LOPEZ CAICEDO, JOSE M": 17,
+    "MARTIN BRIONES, DIEGO": 18,
+    "CAÑAS SAN JOSE, ROBERTO": 19,
+    "VIANA CORDERO, DAVID": 22
+  },
+  "dorsales_visitante": {
+    "HARIJ GHARAFI, ISMAEL": 1,
+    "SAENZ ESCUDERO, JORGE": 2,
+    "GARRIDO RAMIREZ, DANIEL": 3,
+    "CONDE SAENZ-LOPEZ, ALEJANDRO": 4,
+    "DOPAZO GARCIA, LORENZO": 5,
+    "VELASCO DEL RIO, LEO": 6,
+    "BIRYUKOV PEREZ, IVAN": 7,
+    "FERNANDEZ HERNANDO, DARIO": 8,
+    "CORRAL ZORZANO, RUBEN": 9,
+    "MARTINEZ MARIN, HUGO": 10,
+    "CARRERO CASERO, ISMAEL": 11
+  },
+  "suspendidos": []
+}
