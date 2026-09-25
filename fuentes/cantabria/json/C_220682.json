@@ -1,0 +1,242 @@
+{
+  "acta_id": "C_220682",
+  "filename": "Acta_C_220682.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "26-10-2025",
+  "hora": "13:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. LAREDO A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LOZA ENGUITA , JOSE MIGUEL"
+  ],
+  "estadio": "Laredo 2",
+  "ciudad": "Laredo",
+  "goleadores": [
+    {
+      "minuto": 62,
+      "jugador": "LUQUE MARTINEZ, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "SANCHEZ CUEVAS, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "IGLESIAS SANTIAGO, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "PASCUAL ARANA, ELEDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "R.S. GIMNASTICA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ROMANO ROSEÑADA, DAVID",
+  "entrenador_visitante": "URSUGUIA PELAEZ, ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RAYS VIERA DE SA, THIAGO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "ECHEVARRIA ARGUL, LEO",
+    "ROIZ PEÑA, DAVID",
+    "AMUTIO CASADO, GABRIEL",
+    "GUERRERO GARCÍA, DEIVID",
+    "LAHUERTA RUIZ, ARITZA",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "ABASCAL DACOSTA, RUBEN"
+  ],
+  "titulares_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MÚGICA BLANCO, HUGO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "FERNANDEZ TOMAS, ALVARO",
+    "CIEZA PEREZ, ASIER",
+    "SANCHEZ CUEVAS, SERGIO",
+    "IGLESIAS SANTIAGO, JULEN",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "RODICIO DE LA GRANJA, ANDRÉS",
+    "ABARRATEGUI GONZÁLEZ, JAIME"
+  ],
+  "suplentes_local": [
+    "LOPEZ ORTEGA, DYLAN",
+    "SANCHEZ RAMOS, LEO",
+    "CAÑARTE FERNANDEZ, CHRISTIAN"
+  ],
+  "suplentes_visitante": [
+    "ORSOLINI PALENCIA, MARIO",
+    "GOMEZ SANCHEZ, MARC",
+    "LUQUE MARTINEZ, AIMAR",
+    "MIER MONTES, ADRIAN",
+    "MAYORDOMO NAVARRO, CRISTIAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "ORSOLINI PALENCIA, MARIO"
+  ],
+  "jugadores_local": [
+    "RAYS VIERA DE SA, THIAGO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "ECHEVARRIA ARGUL, LEO",
+    "ROIZ PEÑA, DAVID",
+    "AMUTIO CASADO, GABRIEL",
+    "GUERRERO GARCÍA, DEIVID",
+    "LAHUERTA RUIZ, ARITZA",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "ABASCAL DACOSTA, RUBEN",
+    "LOPEZ ORTEGA, DYLAN",
+    "SANCHEZ RAMOS, LEO",
+    "CAÑARTE FERNANDEZ, CHRISTIAN"
+  ],
+  "jugadores_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MÚGICA BLANCO, HUGO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "FERNANDEZ TOMAS, ALVARO",
+    "CIEZA PEREZ, ASIER",
+    "SANCHEZ CUEVAS, SERGIO",
+    "IGLESIAS SANTIAGO, JULEN",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "RODICIO DE LA GRANJA, ANDRÉS",
+    "ABARRATEGUI GONZÁLEZ, JAIME",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "MIER MONTES, ADRIAN",
+    "LUQUE MARTINEZ, AIMAR",
+    "GOMEZ SANCHEZ, MARC"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "LOPEZ ORTEGA, DYLAN",
+      "sale": "LAHUERTA RUIZ, ARITZA"
+    },
+    {
+      "min": 59,
+      "entra": "SANCHEZ RAMOS, LEO",
+      "sale": "ROIZ PEÑA, DAVID"
+    },
+    {
+      "min": 61,
+      "entra": "CAÑARTE FERNANDEZ, CHRISTIAN",
+      "sale": "ECHEVARRIA ARGUL, LEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 39,
+      "entra": "MAYORDOMO NAVARRO, CRISTIAN",
+      "sale": "RODICIO DE LA GRANJA, ANDRÉS"
+    },
+    {
+      "min": 48,
+      "entra": "MIER MONTES, ADRIAN",
+      "sale": "MÚGICA BLANCO, HUGO"
+    },
+    {
+      "min": 52,
+      "entra": "LUQUE MARTINEZ, AIMAR",
+      "sale": "ABARRATEGUI GONZÁLEZ, JAIME"
+    },
+    {
+      "min": 58,
+      "entra": "GOMEZ SANCHEZ, MARC",
+      "sale": "MENDARO TERAN, LUIS"
+    }
+  ],
+  "minutos_jugadores": {
+    "RAYS VIERA DE SA, THIAGO": 90,
+    "BARANZA PEÑA, DANIEL-STEVEN": 90,
+    "BECI CARRERA, EDUARDO": 90,
+    "PASCUAL ARANA, ELEDER": 90,
+    "ECHEVARRIA ARGUL, LEO": 61,
+    "ROIZ PEÑA, DAVID": 59,
+    "AMUTIO CASADO, GABRIEL": 90,
+    "GUERRERO GARCÍA, DEIVID": 90,
+    "LAHUERTA RUIZ, ARITZA": 35,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 90,
+    "ABASCAL DACOSTA, RUBEN": 90,
+    "LOPEZ ORTEGA, DYLAN": 55,
+    "SANCHEZ RAMOS, LEO": 31,
+    "CAÑARTE FERNANDEZ, CHRISTIAN": 29,
+    "TRIGO SANTOS, ALEJANDRO": 90,
+    "MÚGICA BLANCO, HUGO": 48,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 90,
+    "FERNANDEZ TOMAS, ALVARO": 90,
+    "CIEZA PEREZ, ASIER": 90,
+    "SANCHEZ CUEVAS, SERGIO": 90,
+    "IGLESIAS SANTIAGO, JULEN": 90,
+    "MENDARO TERAN, LUIS": 58,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 90,
+    "RODICIO DE LA GRANJA, ANDRÉS": 39,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 52,
+    "MAYORDOMO NAVARRO, CRISTIAN": 51,
+    "MIER MONTES, ADRIAN": 42,
+    "LUQUE MARTINEZ, AIMAR": 38,
+    "GOMEZ SANCHEZ, MARC": 32
+  },
+  "portero_local": "RAYS VIERA DE SA, THIAGO",
+  "portero_visitante": "TRIGO SANTOS, ALEJANDRO",
+  "dorsales_local": {
+    "RAYS VIERA DE SA, THIAGO": 13,
+    "BARANZA PEÑA, DANIEL-STEVEN": 2,
+    "BECI CARRERA, EDUARDO": 3,
+    "PASCUAL ARANA, ELEDER": 4,
+    "ECHEVARRIA ARGUL, LEO": 6,
+    "ROIZ PEÑA, DAVID": 7,
+    "AMUTIO CASADO, GABRIEL": 8,
+    "GUERRERO GARCÍA, DEIVID": 11,
+    "LAHUERTA RUIZ, ARITZA": 12,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 17,
+    "ABASCAL DACOSTA, RUBEN": 26
+  },
+  "dorsales_visitante": {
+    "TRIGO SANTOS, ALEJANDRO": 1,
+    "MÚGICA BLANCO, HUGO": 3,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 4,
+    "FERNANDEZ TOMAS, ALVARO": 5,
+    "CIEZA PEREZ, ASIER": 8,
+    "SANCHEZ CUEVAS, SERGIO": 9,
+    "IGLESIAS SANTIAGO, JULEN": 10,
+    "MENDARO TERAN, LUIS": 11,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 16,
+    "RODICIO DE LA GRANJA, ANDRÉS": 19,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 20
+  },
+  "suspendidos": []
+}
