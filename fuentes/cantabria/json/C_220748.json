@@ -1,0 +1,255 @@
+{
+  "acta_id": "C_220748",
+  "filename": "Acta_C_220748.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 14,
+  "fecha": "20-12-2025",
+  "hora": "16:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "C.D. REVILLA A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LÓPEZ CONDE, JOSÉ ANTONIO"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "VAQUERO IGLESIAS, MIGUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "FOMPEROSA GARCÍA, LEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "C.D. REVILLA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 37,
+      "jugador": "STOCKER LAYA, EVAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "FERRER PENAGOS, MARTÍN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "STOCKER LAYA, LEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CUESTA MARTINEZ, RUBEN",
+  "entrenador_visitante": "ALVAREZ CARRASCO, OSCAR E",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "PUERTAS MARTINEZ, VICTOR",
+  "delegado_campo_local": "SAN SEGUNDO GAUTIER, MIGUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VILLEGAS BARRERO, AIMAR",
+  "delegado_equipo_visitante": "HOZ MUÑOZ, JOSE ALBERTO",
+  "titulares_local": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "CUEVAS RUIZ, MARCOS",
+    "GUERRA CALZADA, ÁLVARO",
+    "ALONSO NOVAL, KENZO",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ MIRANDA, IZAN"
+  ],
+  "titulares_visitante": [
+    "TORRE EXPOSITO, MARCO",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "ALONSO IGLESIAS, MATEO",
+    "JUANGO HERRERIA, ALVARO",
+    "STOCKER LAYA, EVAN",
+    "HORRILLO CAÑEDO, ALEX",
+    "VAQUERO IGLESIAS, MIGUEL"
+  ],
+  "suplentes_local": [
+    "OCEJA ARRANZ, SIMON",
+    "PEREZ REVUELTA, NICOLAS",
+    "ACHEHBOUNE BADOURI, ADAM"
+  ],
+  "suplentes_visitante": [
+    "ARCE GONZALEZ, JAIME",
+    "RUIZ MARTINEZ, JULEN",
+    "REBOLLEDO GARCIA, OLIVER",
+    "STOCKER LAYA, LEO",
+    "FERRER PENAGOS, MARTÍN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "CUEVAS RUIZ, MARCOS",
+    "GUERRA CALZADA, ÁLVARO",
+    "ALONSO NOVAL, KENZO",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ MIRANDA, IZAN",
+    "ACHEHBOUNE BADOURI, ADAM",
+    "PEREZ REVUELTA, NICOLAS",
+    "OCEJA ARRANZ, SIMON"
+  ],
+  "jugadores_visitante": [
+    "TORRE EXPOSITO, MARCO",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "ALONSO IGLESIAS, MATEO",
+    "JUANGO HERRERIA, ALVARO",
+    "STOCKER LAYA, EVAN",
+    "HORRILLO CAÑEDO, ALEX",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "ARCE GONZALEZ, JAIME",
+    "STOCKER LAYA, LEO",
+    "RUIZ MARTINEZ, JULEN",
+    "REBOLLEDO GARCIA, OLIVER",
+    "FERRER PENAGOS, MARTÍN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "ACHEHBOUNE BADOURI, ADAM",
+      "sale": "GUERRA CALZADA, ÁLVARO"
+    },
+    {
+      "min": 35,
+      "entra": "PEREZ REVUELTA, NICOLAS",
+      "sale": "MORENO FERNANDEZ, HECTOR"
+    },
+    {
+      "min": 43,
+      "entra": "OCEJA ARRANZ, SIMON",
+      "sale": "SAEZ DIAZ, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "ARCE GONZALEZ, JAIME",
+      "sale": "TORRE EXPOSITO, MARCO"
+    },
+    {
+      "min": 41,
+      "entra": "STOCKER LAYA, LEO",
+      "sale": "STOCKER LAYA, EVAN"
+    },
+    {
+      "min": 50,
+      "entra": "RUIZ MARTINEZ, JULEN",
+      "sale": "HORRILLO CAÑEDO, ALEX"
+    },
+    {
+      "min": 60,
+      "entra": "REBOLLEDO GARCIA, OLIVER",
+      "sale": "VAQUERO IGLESIAS, MIGUEL"
+    },
+    {
+      "min": 65,
+      "entra": "FERRER PENAGOS, MARTÍN",
+      "sale": "ALONSO IGLESIAS, MATEO"
+    }
+  ],
+  "minutos_jugadores": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 90,
+    "SAEZ DIAZ, NICOLAS": 43,
+    "OLANDA GONZALEZ, HUGO": 90,
+    "RABAGO GOMEZ, MAURO": 90,
+    "ALVAREZ JIMENEZ, DIEGO": 90,
+    "CUEVAS RUIZ, MARCOS": 90,
+    "GUERRA CALZADA, ÁLVARO": 35,
+    "ALONSO NOVAL, KENZO": 90,
+    "MORENO FERNANDEZ, HECTOR": 35,
+    "FOMPEROSA GARCÍA, LEO": 90,
+    "PEREZ MIRANDA, IZAN": 90,
+    "ACHEHBOUNE BADOURI, ADAM": 55,
+    "PEREZ REVUELTA, NICOLAS": 55,
+    "OCEJA ARRANZ, SIMON": 47,
+    "TORRE EXPOSITO, MARCO": 35,
+    "JIMENEZ GALDIANO, HUGO": 90,
+    "LOPEZ SAMANIEGO, FEDERICO": 90,
+    "GUTIERREZ NEGRAL, YAGO": 90,
+    "DIEZ VELASCO, JUAN": 90,
+    "ANDERICA BALAGUER, MARIO": 90,
+    "ALONSO IGLESIAS, MATEO": 65,
+    "JUANGO HERRERIA, ALVARO": 90,
+    "STOCKER LAYA, EVAN": 41,
+    "HORRILLO CAÑEDO, ALEX": 50,
+    "VAQUERO IGLESIAS, MIGUEL": 60,
+    "ARCE GONZALEZ, JAIME": 55,
+    "STOCKER LAYA, LEO": 49,
+    "RUIZ MARTINEZ, JULEN": 40,
+    "REBOLLEDO GARCIA, OLIVER": 30,
+    "FERRER PENAGOS, MARTÍN": 25
+  },
+  "portero_local": "SÁNCHEZ SÁNCHEZ, RAUL",
+  "portero_visitante": "TORRE EXPOSITO, MARCO",
+  "dorsales_local": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 13,
+    "SAEZ DIAZ, NICOLAS": 2,
+    "OLANDA GONZALEZ, HUGO": 4,
+    "RABAGO GOMEZ, MAURO": 6,
+    "ALVAREZ JIMENEZ, DIEGO": 9,
+    "CUEVAS RUIZ, MARCOS": 10,
+    "GUERRA CALZADA, ÁLVARO": 17,
+    "ALONSO NOVAL, KENZO": 18,
+    "MORENO FERNANDEZ, HECTOR": 19,
+    "FOMPEROSA GARCÍA, LEO": 21,
+    "PEREZ MIRANDA, IZAN": 25
+  },
+  "dorsales_visitante": {
+    "TORRE EXPOSITO, MARCO": 1,
+    "JIMENEZ GALDIANO, HUGO": 2,
+    "LOPEZ SAMANIEGO, FEDERICO": 3,
+    "GUTIERREZ NEGRAL, YAGO": 5,
+    "DIEZ VELASCO, JUAN": 6,
+    "ANDERICA BALAGUER, MARIO": 8,
+    "ALONSO IGLESIAS, MATEO": 9,
+    "JUANGO HERRERIA, ALVARO": 11,
+    "STOCKER LAYA, EVAN": 14,
+    "HORRILLO CAÑEDO, ALEX": 16,
+    "VAQUERO IGLESIAS, MIGUEL": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
