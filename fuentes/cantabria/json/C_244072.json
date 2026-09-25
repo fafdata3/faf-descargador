@@ -1,0 +1,284 @@
+{
+  "acta_id": "C_244072",
+  "filename": "Acta_C_244072.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "17:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "E.F. SANTANDER A",
+  "equipo_visitante": "AYRON CLUB A",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SALCINES GARCÍA, MARIO"
+  ],
+  "estadio": "El Regimiento",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "SAINZ MARTIN, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 24,
+      "jugador": "OSORIO CEBALLOS, ANDREW STEVEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "CALLEJA REVILLA, YANEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "PEREZ PAREJA, JUAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "PELAYO RUIZ, BORJA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 36,
+      "jugador": "VILLEGAS CARRAL, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "LOPEZ GARCIA, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "TRUEBA VALDOR, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "EXPÓSITO REVUELTA, ABEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "HERRERA DIAZ, SALVADOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MORENO AVENDAÑO, JULIAN",
+  "delegado_equipo_visitante": "FERNANDEZ DE CAL DELGADO, JAVIER",
+  "titulares_local": [
+    "DE GIL SIMON, RAFAEL",
+    "BENELLI MONTEAGUDO, LUCA",
+    "RUIZ HERRERO, RODRIGO",
+    "NAZHBEER SABAH ABDULLAH, ABDULLAH",
+    "GARCÍA FERNÁNDEZ, MIGUEL",
+    "ELCORO MARTIN, PABLO",
+    "CAMPELO MARTINEZ, DAVID",
+    "CALLEJA REVILLA, YANEL",
+    "OSORIO CEBALLOS, ANDREW STEVEN",
+    "RUIZ FRANDE, SERGIO",
+    "COBO PEREZ, MANUEL"
+  ],
+  "titulares_visitante": [
+    "PELAYO FERNANDEZ, CRISTIAN",
+    "VILLEGAS CARRAL, LUCAS",
+    "TRUEBA VALDOR, MARIO",
+    "GARCÍA FERNÁNDEZ, HÉCTOR",
+    "PELAYO RUIZ, BORJA",
+    "EXPÓSITO GÓMEZ, DAVID",
+    "SAINZ MARTIN, JAVIER",
+    "SANTAMARÍA GONZÁLEZ, BRUNO",
+    "GANDIAGA COS, MARCO",
+    "RUIZ MANTECA, PABLO",
+    "RIAÑO GUTIÉRREZ, OLIVER"
+  ],
+  "suplentes_local": [
+    "CUCURULL AGUERO, ARTURO",
+    "SAN MILLAN GONZALEZ, ALVARO",
+    "AGUDO SANCHEZ, FELIX",
+    "VALERO VEGA, RAUL",
+    "ACHA GOMEZ, ALEJANDRO"
+  ],
+  "suplentes_visitante": [
+    "SIERRA CERRO, LEO",
+    "ALDACO PILA, MATEO",
+    "LOPEZ GARCIA, HUGO",
+    "SANCHEZ CRESPO, JAIRO",
+    "PEREZ PAREJA, JUAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DE GIL SIMON, RAFAEL",
+    "BENELLI MONTEAGUDO, LUCA",
+    "RUIZ HERRERO, RODRIGO",
+    "NAZHBEER SABAH ABDULLAH, ABDULLAH",
+    "GARCÍA FERNÁNDEZ, MIGUEL",
+    "ELCORO MARTIN, PABLO",
+    "CAMPELO MARTINEZ, DAVID",
+    "CALLEJA REVILLA, YANEL",
+    "OSORIO CEBALLOS, ANDREW STEVEN",
+    "RUIZ FRANDE, SERGIO",
+    "COBO PEREZ, MANUEL",
+    "SAN MILLAN GONZALEZ, ALVARO",
+    "CUCURULL AGUERO, ARTURO",
+    "ACHA GOMEZ, ALEJANDRO",
+    "VALERO VEGA, RAUL",
+    "AGUDO SANCHEZ, FELIX"
+  ],
+  "jugadores_visitante": [
+    "PELAYO FERNANDEZ, CRISTIAN",
+    "VILLEGAS CARRAL, LUCAS",
+    "TRUEBA VALDOR, MARIO",
+    "GARCÍA FERNÁNDEZ, HÉCTOR",
+    "PELAYO RUIZ, BORJA",
+    "EXPÓSITO GÓMEZ, DAVID",
+    "SAINZ MARTIN, JAVIER",
+    "SANTAMARÍA GONZÁLEZ, BRUNO",
+    "GANDIAGA COS, MARCO",
+    "RUIZ MANTECA, PABLO",
+    "RIAÑO GUTIÉRREZ, OLIVER",
+    "PEREZ PAREJA, JUAN",
+    "LOPEZ GARCIA, HUGO",
+    "ALDACO PILA, MATEO",
+    "SIERRA CERRO, LEO",
+    "SANCHEZ CRESPO, JAIRO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 42,
+      "entra": "SAN MILLAN GONZALEZ, ALVARO",
+      "sale": "NAZHBEER SABAH ABDULLAH, ABDULLAH"
+    },
+    {
+      "min": 42,
+      "entra": "CUCURULL AGUERO, ARTURO",
+      "sale": "RUIZ FRANDE, SERGIO"
+    },
+    {
+      "min": 45,
+      "entra": "ACHA GOMEZ, ALEJANDRO",
+      "sale": "CALLEJA REVILLA, YANEL"
+    },
+    {
+      "min": 48,
+      "entra": "VALERO VEGA, RAUL",
+      "sale": "CAMPELO MARTINEZ, DAVID"
+    },
+    {
+      "min": 48,
+      "entra": "AGUDO SANCHEZ, FELIX",
+      "sale": "ELCORO MARTIN, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "PEREZ PAREJA, JUAN",
+      "sale": "GANDIAGA COS, MARCO"
+    },
+    {
+      "min": 41,
+      "entra": "LOPEZ GARCIA, HUGO",
+      "sale": "RUIZ MANTECA, PABLO"
+    },
+    {
+      "min": 52,
+      "entra": "ALDACO PILA, MATEO",
+      "sale": "VILLEGAS CARRAL, LUCAS"
+    },
+    {
+      "min": 57,
+      "entra": "SIERRA CERRO, LEO",
+      "sale": "RIAÑO GUTIÉRREZ, OLIVER"
+    },
+    {
+      "min": 57,
+      "entra": "SANCHEZ CRESPO, JAIRO",
+      "sale": "SANTAMARÍA GONZÁLEZ, BRUNO"
+    }
+  ],
+  "minutos_jugadores": {
+    "DE GIL SIMON, RAFAEL": 90,
+    "BENELLI MONTEAGUDO, LUCA": 90,
+    "RUIZ HERRERO, RODRIGO": 90,
+    "NAZHBEER SABAH ABDULLAH, ABDULLAH": 42,
+    "GARCÍA FERNÁNDEZ, MIGUEL": 90,
+    "ELCORO MARTIN, PABLO": 48,
+    "CAMPELO MARTINEZ, DAVID": 48,
+    "CALLEJA REVILLA, YANEL": 45,
+    "OSORIO CEBALLOS, ANDREW STEVEN": 90,
+    "RUIZ FRANDE, SERGIO": 42,
+    "COBO PEREZ, MANUEL": 90,
+    "SAN MILLAN GONZALEZ, ALVARO": 48,
+    "CUCURULL AGUERO, ARTURO": 48,
+    "ACHA GOMEZ, ALEJANDRO": 45,
+    "VALERO VEGA, RAUL": 42,
+    "AGUDO SANCHEZ, FELIX": 42,
+    "PELAYO FERNANDEZ, CRISTIAN": 90,
+    "VILLEGAS CARRAL, LUCAS": 52,
+    "TRUEBA VALDOR, MARIO": 90,
+    "GARCÍA FERNÁNDEZ, HÉCTOR": 90,
+    "PELAYO RUIZ, BORJA": 90,
+    "EXPÓSITO GÓMEZ, DAVID": 90,
+    "SAINZ MARTIN, JAVIER": 90,
+    "SANTAMARÍA GONZÁLEZ, BRUNO": 57,
+    "GANDIAGA COS, MARCO": 41,
+    "RUIZ MANTECA, PABLO": 41,
+    "RIAÑO GUTIÉRREZ, OLIVER": 57,
+    "PEREZ PAREJA, JUAN": 49,
+    "LOPEZ GARCIA, HUGO": 49,
+    "ALDACO PILA, MATEO": 38,
+    "SIERRA CERRO, LEO": 33,
+    "SANCHEZ CRESPO, JAIRO": 33
+  },
+  "portero_local": "DE GIL SIMON, RAFAEL",
+  "portero_visitante": "PELAYO FERNANDEZ, CRISTIAN",
+  "dorsales_local": {
+    "DE GIL SIMON, RAFAEL": 1,
+    "BENELLI MONTEAGUDO, LUCA": 4,
+    "RUIZ HERRERO, RODRIGO": 5,
+    "NAZHBEER SABAH ABDULLAH, ABDULLAH": 6,
+    "GARCÍA FERNÁNDEZ, MIGUEL": 7,
+    "ELCORO MARTIN, PABLO": 10,
+    "CAMPELO MARTINEZ, DAVID": 14,
+    "CALLEJA REVILLA, YANEL": 15,
+    "OSORIO CEBALLOS, ANDREW STEVEN": 16,
+    "RUIZ FRANDE, SERGIO": 17,
+    "COBO PEREZ, MANUEL": 19
+  },
+  "dorsales_visitante": {
+    "PELAYO FERNANDEZ, CRISTIAN": 1,
+    "VILLEGAS CARRAL, LUCAS": 2,
+    "TRUEBA VALDOR, MARIO": 5,
+    "GARCÍA FERNÁNDEZ, HÉCTOR": 6,
+    "PELAYO RUIZ, BORJA": 7,
+    "EXPÓSITO GÓMEZ, DAVID": 8,
+    "SAINZ MARTIN, JAVIER": 9,
+    "SANTAMARÍA GONZÁLEZ, BRUNO": 10,
+    "GANDIAGA COS, MARCO": 11,
+    "RUIZ MANTECA, PABLO": 12,
+    "RIAÑO GUTIÉRREZ, OLIVER": 15
+  },
+  "suspendidos": []
+}
