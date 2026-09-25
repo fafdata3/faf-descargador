@@ -1,0 +1,264 @@
+{
+  "acta_id": "B_9973989",
+  "filename": "Acta_B_9973989.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 14,
+  "fecha": "11-01-2026",
+  "hora": "13:30",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 8)",
+  "equipo_local": "BASURTO B",
+  "equipo_visitante": "SALESIANOS",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "IRIONDO LECUE, ÁLVARO"
+  ],
+  "estadio": "IPARRALDE",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "VELASCO GUTIERREZ, IBAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "APARICIO GARCIA, XABIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "ALDEKOETXEA ITURRIZA, JOKIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "GUTIERREZ SAN CRISTOBAL, MATEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "SAIZ BALGAÑON, MARC",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 90,
+      "jugador": "SALESIANOS",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARAY ARBERAS, IKER",
+  "entrenador_visitante": "FERNANDEZ CUCO, RUBEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CARRASCO MENDOZA, RAMON ANGEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAIZ BALGAÑON, MARC",
+  "delegado_equipo_visitante": "CALLE SOBRON, DAVID",
+  "titulares_local": [
+    "RODRIGUEZ VILLANUEVA, LUIS FERNANDO",
+    "RODRIGUEZ GONZALEZ, IKER",
+    "GARCIA GONZALEZ, JON",
+    "GUTIERREZ SAN CRISTOBAL, MATEO",
+    "ZUAZO BONNIN, ELIAS",
+    "MONTOYA RELLOSO, UNAI",
+    "SOUZA DOS PASSOS, WILLIAM WALLACE",
+    "VELASCO GUTIERREZ, IBAN",
+    "CASTRO CASTRO, GORKA",
+    "CONDE RUBIO, UNAX",
+    "APARICIO GARCIA, XABIER"
+  ],
+  "titulares_visitante": [
+    "LLOBREGAT SERRANO, IZAN",
+    "ORTIZ BOULANDIER, AITOR",
+    "VILLANUEVA CAMBRA, ASIER",
+    "ALDEKOETXEA ITURRIZA, JOKIN",
+    "DIAZ VELASCO, UNAI",
+    "RAMIREZ CALLE, MIKEL",
+    "SAIZ MIMENZA, GAIZKA",
+    "BRIÑAS VELASCO, ARITZ",
+    "PILDAIN ARANGUREN, ENEKO",
+    "FORMARIZ HERNANDEZ, HAITZ",
+    "CALLE UGARTE, AROTZ"
+  ],
+  "suplentes_local": [
+    "GARDEAZABAL MATA, ALVARO",
+    "AGUINAGA ROMAY, BEÑAT",
+    "CAÑAS ORIO, OIER",
+    "MBALLO VAZQUEZ, HAITZ",
+    "ARANA ZANGO, JON"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ MERINO, AIMAR",
+    "FERNANDEZ GARAY, ARITZ",
+    "GRANADOS ARTAL, EKAIN",
+    "ROMERO GARCIA, ARITZ",
+    "LOPEZ CORREAS, ERIC",
+    "SOLARTE ERAZO, MARKEL",
+    "CALLE LAGUNA, ANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "MBALLO VAZQUEZ, HAITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GONZALEZ MERINO, AIMAR",
+    "FERNANDEZ GARAY, ARITZ",
+    "GRANADOS ARTAL, EKAIN"
+  ],
+  "jugadores_local": [
+    "RODRIGUEZ VILLANUEVA, LUIS FERNANDO",
+    "RODRIGUEZ GONZALEZ, IKER",
+    "GARCIA GONZALEZ, JON",
+    "GUTIERREZ SAN CRISTOBAL, MATEO",
+    "ZUAZO BONNIN, ELIAS",
+    "MONTOYA RELLOSO, UNAI",
+    "SOUZA DOS PASSOS, WILLIAM WALLACE",
+    "VELASCO GUTIERREZ, IBAN",
+    "CASTRO CASTRO, GORKA",
+    "CONDE RUBIO, UNAX",
+    "APARICIO GARCIA, XABIER",
+    "ARANA ZANGO, JON",
+    "CAÑAS ORIO, OIER",
+    "AGUINAGA ROMAY, BEÑAT",
+    "GARDEAZABAL MATA, ALVARO"
+  ],
+  "jugadores_visitante": [
+    "LLOBREGAT SERRANO, IZAN",
+    "ORTIZ BOULANDIER, AITOR",
+    "VILLANUEVA CAMBRA, ASIER",
+    "ALDEKOETXEA ITURRIZA, JOKIN",
+    "DIAZ VELASCO, UNAI",
+    "RAMIREZ CALLE, MIKEL",
+    "SAIZ MIMENZA, GAIZKA",
+    "BRIÑAS VELASCO, ARITZ",
+    "PILDAIN ARANGUREN, ENEKO",
+    "FORMARIZ HERNANDEZ, HAITZ",
+    "CALLE UGARTE, AROTZ",
+    "SOLARTE ERAZO, MARKEL",
+    "LOPEZ CORREAS, ERIC",
+    "ROMERO GARCIA, ARITZ",
+    "CALLE LAGUNA, ANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 67,
+      "entra": "ARANA ZANGO, JON",
+      "sale": "APARICIO GARCIA, XABIER"
+    },
+    {
+      "min": 77,
+      "entra": "CAÑAS ORIO, OIER",
+      "sale": "CASTRO CASTRO, GORKA"
+    },
+    {
+      "min": 85,
+      "entra": "AGUINAGA ROMAY, BEÑAT",
+      "sale": "SOUZA DOS PASSOS, WILLIAM WALLACE"
+    },
+    {
+      "min": 85,
+      "entra": "GARDEAZABAL MATA, ALVARO",
+      "sale": "VELASCO GUTIERREZ, IBAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 65,
+      "entra": "SOLARTE ERAZO, MARKEL",
+      "sale": "RAMIREZ CALLE, MIKEL"
+    },
+    {
+      "min": 81,
+      "entra": "LOPEZ CORREAS, ERIC",
+      "sale": "DIAZ VELASCO, UNAI"
+    },
+    {
+      "min": 81,
+      "entra": "ROMERO GARCIA, ARITZ",
+      "sale": "CALLE UGARTE, AROTZ"
+    },
+    {
+      "min": 81,
+      "entra": "CALLE LAGUNA, ANDER",
+      "sale": "ORTIZ BOULANDIER, AITOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ VILLANUEVA, LUIS FERNANDO": 90,
+    "RODRIGUEZ GONZALEZ, IKER": 90,
+    "GARCIA GONZALEZ, JON": 90,
+    "GUTIERREZ SAN CRISTOBAL, MATEO": 90,
+    "ZUAZO BONNIN, ELIAS": 90,
+    "MONTOYA RELLOSO, UNAI": 90,
+    "SOUZA DOS PASSOS, WILLIAM WALLACE": 85,
+    "VELASCO GUTIERREZ, IBAN": 85,
+    "CASTRO CASTRO, GORKA": 77,
+    "CONDE RUBIO, UNAX": 90,
+    "APARICIO GARCIA, XABIER": 67,
+    "ARANA ZANGO, JON": 23,
+    "CAÑAS ORIO, OIER": 13,
+    "AGUINAGA ROMAY, BEÑAT": 5,
+    "GARDEAZABAL MATA, ALVARO": 5,
+    "LLOBREGAT SERRANO, IZAN": 90,
+    "ORTIZ BOULANDIER, AITOR": 81,
+    "VILLANUEVA CAMBRA, ASIER": 90,
+    "ALDEKOETXEA ITURRIZA, JOKIN": 90,
+    "DIAZ VELASCO, UNAI": 81,
+    "RAMIREZ CALLE, MIKEL": 65,
+    "SAIZ MIMENZA, GAIZKA": 90,
+    "BRIÑAS VELASCO, ARITZ": 90,
+    "PILDAIN ARANGUREN, ENEKO": 90,
+    "FORMARIZ HERNANDEZ, HAITZ": 90,
+    "CALLE UGARTE, AROTZ": 81,
+    "SOLARTE ERAZO, MARKEL": 25,
+    "LOPEZ CORREAS, ERIC": 9,
+    "ROMERO GARCIA, ARITZ": 9,
+    "CALLE LAGUNA, ANDER": 9
+  },
+  "portero_local": "RODRIGUEZ VILLANUEVA, LUIS FERNANDO",
+  "portero_visitante": "LLOBREGAT SERRANO, IZAN",
+  "dorsales_local": {
+    "RODRIGUEZ VILLANUEVA, LUIS FERNANDO": 1,
+    "RODRIGUEZ GONZALEZ, IKER": 2,
+    "GARCIA GONZALEZ, JON": 3,
+    "GUTIERREZ SAN CRISTOBAL, MATEO": 4,
+    "ZUAZO BONNIN, ELIAS": 5,
+    "MONTOYA RELLOSO, UNAI": 6,
+    "SOUZA DOS PASSOS, WILLIAM WALLACE": 7,
+    "VELASCO GUTIERREZ, IBAN": 8,
+    "CASTRO CASTRO, GORKA": 9,
+    "CONDE RUBIO, UNAX": 10,
+    "APARICIO GARCIA, XABIER": 11
+  },
+  "dorsales_visitante": {
+    "LLOBREGAT SERRANO, IZAN": 13,
+    "ORTIZ BOULANDIER, AITOR": 4,
+    "VILLANUEVA CAMBRA, ASIER": 5,
+    "ALDEKOETXEA ITURRIZA, JOKIN": 9,
+    "DIAZ VELASCO, UNAI": 15,
+    "RAMIREZ CALLE, MIKEL": 18,
+    "SAIZ MIMENZA, GAIZKA": 19,
+    "BRIÑAS VELASCO, ARITZ": 21,
+    "PILDAIN ARANGUREN, ENEKO": 22,
+    "FORMARIZ HERNANDEZ, HAITZ": 24,
+    "CALLE UGARTE, AROTZ": 25
+  },
+  "suspendidos": []
+}
