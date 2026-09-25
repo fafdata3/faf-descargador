@@ -1,0 +1,268 @@
+{
+  "acta_id": "C_244312",
+  "filename": "Acta_C_244312.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "20-09-2026",
+  "hora": "11:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO A)",
+  "equipo_local": "C.D. CASTROVERDE A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DOMINGUEZ BAÑUELOS, DAVID"
+  ],
+  "estadio": "Comp. Albericia (A)",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "PACHO NOVOA, MARCO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "DE LA RIVA TELECHEA, NACHO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "GUAZO CALVO, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "GARCÍA PEDROSA, SAÚL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "MORÁN POLANCO, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "HIDALGO DE MARIA, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "POLANCO C.F. A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "MORÁN POLANCO, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PESTONI GALLART, JAIRO",
+  "delegado_equipo_visitante": "BORRAGAN ALVAREZ, MARCOS",
+  "titulares_local": [
+    "POMBO BECEDONIZ, GUILLERMO",
+    "GARZON MENDOZA, JERÓNIMO",
+    "VILLEGAS CARDENAL, DIEGO",
+    "GUAZO CALVO, MARTIN",
+    "MONFORT ROYO, PABLO",
+    "HIDALGO DE MARIA, PABLO",
+    "RUIZ PUENTE, MATEO",
+    "MONFORT ROYO, JORGE",
+    "TUDOR, CIPRIAN",
+    "PUENTES ARDILA, NELSON ERIC",
+    "BAEZ FARIÑA, ANDRES MATEO"
+  ],
+  "titulares_visitante": [
+    "GARCÍA DE LA RIVA, LEO",
+    "CUEVAS BENGOA, MARTÍN",
+    "SÁNCHEZ ÁLVAREZ, ALEX",
+    "MORÁN POLANCO, PABLO",
+    "GUTIÉRREZ CIEZA, DAVID",
+    "BUZNEGO GONZÁLEZ, IZAN",
+    "MENOCAL HIDALGO, ALEJANDRO",
+    "DE LA RIVA TELECHEA, NACHO",
+    "IBAÑEZ PÉREZ, PABLO",
+    "PACHO NOVOA, MARCO",
+    "HERNÁNDEZ ÁLVAREZ, NECO"
+  ],
+  "suplentes_local": [
+    "CONDE PEÑA, PABLO",
+    "LOPEZ MONTES, HUGO",
+    "PERAMATO CUARTAS, DANIEL",
+    "GONZÁLEZ FERNÁNDEZ, HUGO",
+    "MARTINEZ BERMUDEZ, SANTIAGO"
+  ],
+  "suplentes_visitante": [
+    "MERINO SALAS, OMAR",
+    "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO",
+    "GARCÍA PEDROSA, SAÚL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "POMBO BECEDONIZ, GUILLERMO",
+    "GARZON MENDOZA, JERÓNIMO",
+    "VILLEGAS CARDENAL, DIEGO",
+    "GUAZO CALVO, MARTIN",
+    "MONFORT ROYO, PABLO",
+    "HIDALGO DE MARIA, PABLO",
+    "RUIZ PUENTE, MATEO",
+    "MONFORT ROYO, JORGE",
+    "TUDOR, CIPRIAN",
+    "PUENTES ARDILA, NELSON ERIC",
+    "BAEZ FARIÑA, ANDRES MATEO",
+    "CONDE PEÑA, PABLO",
+    "MARTINEZ BERMUDEZ, SANTIAGO",
+    "LOPEZ MONTES, HUGO",
+    "GONZÁLEZ FERNÁNDEZ, HUGO",
+    "PERAMATO CUARTAS, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "GARCÍA DE LA RIVA, LEO",
+    "CUEVAS BENGOA, MARTÍN",
+    "SÁNCHEZ ÁLVAREZ, ALEX",
+    "MORÁN POLANCO, PABLO",
+    "GUTIÉRREZ CIEZA, DAVID",
+    "BUZNEGO GONZÁLEZ, IZAN",
+    "MENOCAL HIDALGO, ALEJANDRO",
+    "DE LA RIVA TELECHEA, NACHO",
+    "IBAÑEZ PÉREZ, PABLO",
+    "PACHO NOVOA, MARCO",
+    "HERNÁNDEZ ÁLVAREZ, NECO",
+    "MERINO SALAS, OMAR",
+    "GARCÍA PEDROSA, SAÚL",
+    "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "CONDE PEÑA, PABLO",
+      "sale": "POMBO BECEDONIZ, GUILLERMO"
+    },
+    {
+      "min": 35,
+      "entra": "MARTINEZ BERMUDEZ, SANTIAGO",
+      "sale": "BAEZ FARIÑA, ANDRES MATEO"
+    },
+    {
+      "min": 46,
+      "entra": "LOPEZ MONTES, HUGO",
+      "sale": "TUDOR, CIPRIAN"
+    },
+    {
+      "min": 46,
+      "entra": "GONZÁLEZ FERNÁNDEZ, HUGO",
+      "sale": "GARZON MENDOZA, JERÓNIMO"
+    },
+    {
+      "min": 53,
+      "entra": "PERAMATO CUARTAS, DANIEL",
+      "sale": "MONFORT ROYO, JORGE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "MERINO SALAS, OMAR",
+      "sale": "GARCÍA DE LA RIVA, LEO"
+    },
+    {
+      "min": 52,
+      "entra": "GARCÍA PEDROSA, SAÚL",
+      "sale": "HERNÁNDEZ ÁLVAREZ, NECO"
+    },
+    {
+      "min": 52,
+      "entra": "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO",
+      "sale": "MENOCAL HIDALGO, ALEJANDRO"
+    }
+  ],
+  "minutos_jugadores": {
+    "POMBO BECEDONIZ, GUILLERMO": 35,
+    "GARZON MENDOZA, JERÓNIMO": 46,
+    "VILLEGAS CARDENAL, DIEGO": 90,
+    "GUAZO CALVO, MARTIN": 90,
+    "MONFORT ROYO, PABLO": 90,
+    "HIDALGO DE MARIA, PABLO": 90,
+    "RUIZ PUENTE, MATEO": 90,
+    "MONFORT ROYO, JORGE": 53,
+    "TUDOR, CIPRIAN": 46,
+    "PUENTES ARDILA, NELSON ERIC": 90,
+    "BAEZ FARIÑA, ANDRES MATEO": 35,
+    "CONDE PEÑA, PABLO": 55,
+    "MARTINEZ BERMUDEZ, SANTIAGO": 55,
+    "LOPEZ MONTES, HUGO": 44,
+    "GONZÁLEZ FERNÁNDEZ, HUGO": 44,
+    "PERAMATO CUARTAS, DANIEL": 37,
+    "GARCÍA DE LA RIVA, LEO": 35,
+    "CUEVAS BENGOA, MARTÍN": 90,
+    "SÁNCHEZ ÁLVAREZ, ALEX": 90,
+    "MORÁN POLANCO, PABLO": 90,
+    "GUTIÉRREZ CIEZA, DAVID": 90,
+    "BUZNEGO GONZÁLEZ, IZAN": 90,
+    "MENOCAL HIDALGO, ALEJANDRO": 52,
+    "DE LA RIVA TELECHEA, NACHO": 90,
+    "IBAÑEZ PÉREZ, PABLO": 90,
+    "PACHO NOVOA, MARCO": 90,
+    "HERNÁNDEZ ÁLVAREZ, NECO": 52,
+    "MERINO SALAS, OMAR": 55,
+    "GARCÍA PEDROSA, SAÚL": 38,
+    "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO": 38
+  },
+  "portero_local": "POMBO BECEDONIZ, GUILLERMO",
+  "portero_visitante": "GARCÍA DE LA RIVA, LEO",
+  "dorsales_local": {
+    "POMBO BECEDONIZ, GUILLERMO": 1,
+    "GARZON MENDOZA, JERÓNIMO": 2,
+    "VILLEGAS CARDENAL, DIEGO": 3,
+    "GUAZO CALVO, MARTIN": 4,
+    "MONFORT ROYO, PABLO": 5,
+    "HIDALGO DE MARIA, PABLO": 6,
+    "RUIZ PUENTE, MATEO": 7,
+    "MONFORT ROYO, JORGE": 10,
+    "TUDOR, CIPRIAN": 11,
+    "PUENTES ARDILA, NELSON ERIC": 12,
+    "BAEZ FARIÑA, ANDRES MATEO": 20
+  },
+  "dorsales_visitante": {
+    "GARCÍA DE LA RIVA, LEO": 1,
+    "CUEVAS BENGOA, MARTÍN": 4,
+    "SÁNCHEZ ÁLVAREZ, ALEX": 5,
+    "MORÁN POLANCO, PABLO": 7,
+    "GUTIÉRREZ CIEZA, DAVID": 8,
+    "BUZNEGO GONZÁLEZ, IZAN": 10,
+    "MENOCAL HIDALGO, ALEJANDRO": 11,
+    "DE LA RIVA TELECHEA, NACHO": 16,
+    "IBAÑEZ PÉREZ, PABLO": 17,
+    "PACHO NOVOA, MARCO": 23,
+    "HERNÁNDEZ ÁLVAREZ, NECO": 27
+  },
+  "suspendidos": []
+}
