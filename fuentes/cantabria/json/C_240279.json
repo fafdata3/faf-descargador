@@ -1,0 +1,265 @@
+{
+  "acta_id": "C_240279",
+  "filename": "Acta_C_240279.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "20-09-2026",
+  "hora": "11:15",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "VELARDE C.F. A",
+  "equipo_visitante": "S.D. PEÑA REVILLA A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RAMOS CINOS, ÁNGEL"
+  ],
+  "estadio": "Muriedas 2",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "AJA CIMIANO, IKER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "MUÑOZ MORA, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "PONCE COBA, ERICK AITOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "MUÑOZ MORA, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "S.D. PEÑA REVILLA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "SOBALER DIAZ, JOSE ANTONIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SALCINES PRIETO, LUIS FELIPE",
+  "entrenador_visitante": "GARCIA PUENTE, JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MANZANARES MIJANGOS, DIEGO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MANZANARES MIJANGOS, DIEGO",
+  "delegado_equipo_visitante": "SOLANO RUIZ, ALVARO",
+  "titulares_local": [
+    "ZAMANILLO REZA, LUCAS",
+    "DE JUANA GONZALEZ, PABLO",
+    "MUÑOZ MORA, HUGO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "RODRIGUEZ CAÑAS, CRISTIAN",
+    "SAN EMETERIO SAN EMETERIO, ADRIAN",
+    "LAVIN TOCA, NECO",
+    "CHANCA PACHECO, ASIER",
+    "MUÑOZ SIERRA, HECTOR",
+    "DEL TESO SAINZ, MARIO"
+  ],
+  "titulares_visitante": [
+    "ABAJAS MICHALCZEWSKA, LEO",
+    "ABIAN PACHECO, PABLO",
+    "GUTIERREZ RUIZ, JORGE",
+    "LANZA MARTÍ, HUGO",
+    "FERNANDEZ ARIGITA, JUAN",
+    "CEBALLOS RUIZ, HUGO",
+    "AJA CIMIANO, IKER",
+    "PAUCAR SEVERINO, AARON",
+    "REALPE RIVERA, ESTEBAN",
+    "SOBALER DIAZ, JOSE ANTONIO",
+    "STROE COBO, NICOLÁS"
+  ],
+  "suplentes_local": [
+    "PONCE COBA, ERICK AITOR",
+    "RUIZ MUÑIZ, MARIO",
+    "PELAYO GARCIA, NICOLAS",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "DOHIJO DIAZ, MARCOS",
+    "MARTINEZ BUGARIN, ENZO",
+    "CALLEJA REVILLA, GIOVANNI",
+    "ACEREDA ALVAREZ, GABRIEL",
+    "MURILLO BAHOS, NICOLAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "DOHIJO DIAZ, MARCOS"
+  ],
+  "jugadores_local": [
+    "ZAMANILLO REZA, LUCAS",
+    "DE JUANA GONZALEZ, PABLO",
+    "MUÑOZ MORA, HUGO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "RODRIGUEZ CAÑAS, CRISTIAN",
+    "SAN EMETERIO SAN EMETERIO, ADRIAN",
+    "LAVIN TOCA, NECO",
+    "CHANCA PACHECO, ASIER",
+    "MUÑOZ SIERRA, HECTOR",
+    "DEL TESO SAINZ, MARIO",
+    "PONCE COBA, ERICK AITOR",
+    "PEÑA GONZALEZ, ALVARO",
+    "PELAYO GARCIA, NICOLAS",
+    "RUIZ MUÑIZ, MARIO",
+    "DIEZ GARCIA, MATEO"
+  ],
+  "jugadores_visitante": [
+    "ABAJAS MICHALCZEWSKA, LEO",
+    "ABIAN PACHECO, PABLO",
+    "GUTIERREZ RUIZ, JORGE",
+    "LANZA MARTÍ, HUGO",
+    "FERNANDEZ ARIGITA, JUAN",
+    "CEBALLOS RUIZ, HUGO",
+    "AJA CIMIANO, IKER",
+    "PAUCAR SEVERINO, AARON",
+    "REALPE RIVERA, ESTEBAN",
+    "SOBALER DIAZ, JOSE ANTONIO",
+    "STROE COBO, NICOLÁS",
+    "CALLEJA REVILLA, GIOVANNI",
+    "ACEREDA ALVAREZ, GABRIEL",
+    "MARTINEZ BUGARIN, ENZO",
+    "MURILLO BAHOS, NICOLAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "PONCE COBA, ERICK AITOR",
+      "sale": "MUÑOZ SIERRA, HECTOR"
+    },
+    {
+      "min": 55,
+      "entra": "PEÑA GONZALEZ, ALVARO",
+      "sale": "RODRIGUEZ CAÑAS, CRISTIAN"
+    },
+    {
+      "min": 58,
+      "entra": "PELAYO GARCIA, NICOLAS",
+      "sale": "SAN EMETERIO SAN EMETERIO, ADRIAN"
+    },
+    {
+      "min": 59,
+      "entra": "RUIZ MUÑIZ, MARIO",
+      "sale": "DEL TESO SAINZ, MARIO"
+    },
+    {
+      "min": 65,
+      "entra": "DIEZ GARCIA, MATEO",
+      "sale": "LAVIN TOCA, NECO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "CALLEJA REVILLA, GIOVANNI",
+      "sale": "REALPE RIVERA, ESTEBAN"
+    },
+    {
+      "min": 59,
+      "entra": "ACEREDA ALVAREZ, GABRIEL",
+      "sale": "AJA CIMIANO, IKER"
+    },
+    {
+      "min": 62,
+      "entra": "MARTINEZ BUGARIN, ENZO",
+      "sale": "STROE COBO, NICOLÁS"
+    },
+    {
+      "min": 80,
+      "entra": "MURILLO BAHOS, NICOLAS",
+      "sale": "FERNANDEZ ARIGITA, JUAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ZAMANILLO REZA, LUCAS": 90,
+    "DE JUANA GONZALEZ, PABLO": 90,
+    "MUÑOZ MORA, HUGO": 90,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 90,
+    "BARBA AGENJO, DARIO": 90,
+    "RODRIGUEZ CAÑAS, CRISTIAN": 55,
+    "SAN EMETERIO SAN EMETERIO, ADRIAN": 58,
+    "LAVIN TOCA, NECO": 65,
+    "CHANCA PACHECO, ASIER": 90,
+    "MUÑOZ SIERRA, HECTOR": 45,
+    "DEL TESO SAINZ, MARIO": 59,
+    "PONCE COBA, ERICK AITOR": 45,
+    "PEÑA GONZALEZ, ALVARO": 35,
+    "PELAYO GARCIA, NICOLAS": 32,
+    "RUIZ MUÑIZ, MARIO": 31,
+    "DIEZ GARCIA, MATEO": 25,
+    "ABAJAS MICHALCZEWSKA, LEO": 90,
+    "ABIAN PACHECO, PABLO": 90,
+    "GUTIERREZ RUIZ, JORGE": 90,
+    "LANZA MARTÍ, HUGO": 90,
+    "FERNANDEZ ARIGITA, JUAN": 80,
+    "CEBALLOS RUIZ, HUGO": 90,
+    "AJA CIMIANO, IKER": 59,
+    "PAUCAR SEVERINO, AARON": 90,
+    "REALPE RIVERA, ESTEBAN": 51,
+    "SOBALER DIAZ, JOSE ANTONIO": 90,
+    "STROE COBO, NICOLÁS": 62,
+    "CALLEJA REVILLA, GIOVANNI": 39,
+    "ACEREDA ALVAREZ, GABRIEL": 31,
+    "MARTINEZ BUGARIN, ENZO": 28,
+    "MURILLO BAHOS, NICOLAS": 10
+  },
+  "portero_local": "ZAMANILLO REZA, LUCAS",
+  "portero_visitante": "ABAJAS MICHALCZEWSKA, LEO",
+  "dorsales_local": {
+    "ZAMANILLO REZA, LUCAS": 1,
+    "DE JUANA GONZALEZ, PABLO": 2,
+    "MUÑOZ MORA, HUGO": 3,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 5,
+    "BARBA AGENJO, DARIO": 6,
+    "RODRIGUEZ CAÑAS, CRISTIAN": 8,
+    "SAN EMETERIO SAN EMETERIO, ADRIAN": 10,
+    "LAVIN TOCA, NECO": 11,
+    "CHANCA PACHECO, ASIER": 16,
+    "MUÑOZ SIERRA, HECTOR": 17,
+    "DEL TESO SAINZ, MARIO": 18
+  },
+  "dorsales_visitante": {
+    "ABAJAS MICHALCZEWSKA, LEO": 1,
+    "ABIAN PACHECO, PABLO": 2,
+    "GUTIERREZ RUIZ, JORGE": 3,
+    "LANZA MARTÍ, HUGO": 4,
+    "FERNANDEZ ARIGITA, JUAN": 5,
+    "CEBALLOS RUIZ, HUGO": 7,
+    "AJA CIMIANO, IKER": 10,
+    "PAUCAR SEVERINO, AARON": 11,
+    "REALPE RIVERA, ESTEBAN": 15,
+    "SOBALER DIAZ, JOSE ANTONIO": 16,
+    "STROE COBO, NICOLÁS": 17
+  },
+  "suspendidos": []
+}
