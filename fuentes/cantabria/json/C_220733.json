@@ -1,0 +1,263 @@
+{
+  "acta_id": "C_220733",
+  "filename": "Acta_C_220733.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 12,
+  "fecha": "07-12-2025",
+  "hora": "10:35",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "OTERO MARTÍN, JOEL"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "ACHEHBOUNE BADOURI, ADAM",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "GOMEZ SANCHEZ, MARC",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "SANCHEZ CUEVAS, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 49,
+      "jugador": "ALONSO NOVAL, KENZO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "CUESTA MARTINEZ, RUBEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "R.S. GIMNASTICA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CUESTA MARTINEZ, RUBEN",
+  "entrenador_visitante": "URSUGUIA PELAEZ, ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAN SEGUNDO GAUTIER, MIGUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAN SEGUNDO GAUTIER, MIGUEL",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "GUERRA CALZADA, ÁLVARO",
+    "ALONSO NOVAL, KENZO",
+    "MORENO FERNANDEZ, HECTOR",
+    "PEREZ REVUELTA, NICOLAS",
+    "ACHEHBOUNE BADOURI, ADAM",
+    "PEREZ MIRANDA, IZAN"
+  ],
+  "titulares_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MÚGICA BLANCO, HUGO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "GOMEZ SANCHEZ, MARC",
+    "LUQUE MARTINEZ, AIMAR",
+    "SANCHEZ CUEVAS, SERGIO",
+    "RUIZ LOBETO, IZAN",
+    "MENDARO TERAN, LUIS",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "GUERRA MIRANDA, MARTÍN",
+    "RODICIO DE LA GRANJA, ANDRÉS"
+  ],
+  "suplentes_local": [
+    "CONCHA OLMO, ORIOL",
+    "GUERRA GARCIA, LUCAS",
+    "CASTILLO MIER, NICO",
+    "GONZÁLEZ GÓMEZ, NICOLÁS"
+  ],
+  "suplentes_visitante": [
+    "ORSOLINI PALENCIA, MARIO",
+    "CIEZA PEREZ, ASIER",
+    "MOUSSAID, MOHAMED AMIR",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "IGLESIAS SANTIAGO, JULEN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "GUERRA CALZADA, ÁLVARO",
+    "ALONSO NOVAL, KENZO",
+    "MORENO FERNANDEZ, HECTOR",
+    "PEREZ REVUELTA, NICOLAS",
+    "ACHEHBOUNE BADOURI, ADAM",
+    "PEREZ MIRANDA, IZAN",
+    "CONCHA OLMO, ORIOL",
+    "GONZÁLEZ GÓMEZ, NICOLÁS",
+    "GUERRA GARCIA, LUCAS",
+    "CASTILLO MIER, NICO"
+  ],
+  "jugadores_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MÚGICA BLANCO, HUGO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "GOMEZ SANCHEZ, MARC",
+    "LUQUE MARTINEZ, AIMAR",
+    "SANCHEZ CUEVAS, SERGIO",
+    "RUIZ LOBETO, IZAN",
+    "MENDARO TERAN, LUIS",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "GUERRA MIRANDA, MARTÍN",
+    "RODICIO DE LA GRANJA, ANDRÉS",
+    "IGLESIAS SANTIAGO, JULEN",
+    "ORSOLINI PALENCIA, MARIO",
+    "CIEZA PEREZ, ASIER",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "MOUSSAID, MOHAMED AMIR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "CONCHA OLMO, ORIOL",
+      "sale": "MORENO FERNANDEZ, HECTOR"
+    },
+    {
+      "min": 61,
+      "entra": "GONZÁLEZ GÓMEZ, NICOLÁS",
+      "sale": "ALVAREZ JIMENEZ, DIEGO"
+    },
+    {
+      "min": 66,
+      "entra": "GUERRA GARCIA, LUCAS",
+      "sale": "ALONSO NOVAL, KENZO"
+    },
+    {
+      "min": 66,
+      "entra": "CASTILLO MIER, NICO",
+      "sale": "ACHEHBOUNE BADOURI, ADAM"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 24,
+      "entra": "IGLESIAS SANTIAGO, JULEN",
+      "sale": "RUIZ LOBETO, IZAN"
+    },
+    {
+      "min": 36,
+      "entra": "ORSOLINI PALENCIA, MARIO",
+      "sale": "TRIGO SANTOS, ALEJANDRO"
+    },
+    {
+      "min": 39,
+      "entra": "CIEZA PEREZ, ASIER",
+      "sale": "RODICIO DE LA GRANJA, ANDRÉS"
+    },
+    {
+      "min": 51,
+      "entra": "ALVAREZ DOMINGUEZ, SANTIAGO",
+      "sale": "GOMEZ SANCHEZ, MARC"
+    },
+    {
+      "min": 56,
+      "entra": "MOUSSAID, MOHAMED AMIR",
+      "sale": "MAYORDOMO NAVARRO, CRISTIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 90,
+    "SAEZ DIAZ, NICOLAS": 90,
+    "OLANDA GONZALEZ, HUGO": 90,
+    "RABAGO GOMEZ, MAURO": 90,
+    "ALVAREZ JIMENEZ, DIEGO": 61,
+    "GUERRA CALZADA, ÁLVARO": 90,
+    "ALONSO NOVAL, KENZO": 66,
+    "MORENO FERNANDEZ, HECTOR": 36,
+    "PEREZ REVUELTA, NICOLAS": 90,
+    "ACHEHBOUNE BADOURI, ADAM": 66,
+    "PEREZ MIRANDA, IZAN": 90,
+    "CONCHA OLMO, ORIOL": 54,
+    "GONZÁLEZ GÓMEZ, NICOLÁS": 29,
+    "GUERRA GARCIA, LUCAS": 24,
+    "CASTILLO MIER, NICO": 24,
+    "TRIGO SANTOS, ALEJANDRO": 36,
+    "MÚGICA BLANCO, HUGO": 90,
+    "FERNANDEZ TOMAS, ALVARO": 90,
+    "GOMEZ SANCHEZ, MARC": 51,
+    "LUQUE MARTINEZ, AIMAR": 90,
+    "SANCHEZ CUEVAS, SERGIO": 90,
+    "RUIZ LOBETO, IZAN": 24,
+    "MENDARO TERAN, LUIS": 90,
+    "MAYORDOMO NAVARRO, CRISTIAN": 56,
+    "GUERRA MIRANDA, MARTÍN": 90,
+    "RODICIO DE LA GRANJA, ANDRÉS": 39,
+    "IGLESIAS SANTIAGO, JULEN": 66,
+    "ORSOLINI PALENCIA, MARIO": 54,
+    "CIEZA PEREZ, ASIER": 51,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 39,
+    "MOUSSAID, MOHAMED AMIR": 34
+  },
+  "portero_local": "SÁNCHEZ SÁNCHEZ, RAUL",
+  "portero_visitante": "TRIGO SANTOS, ALEJANDRO",
+  "dorsales_local": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 13,
+    "SAEZ DIAZ, NICOLAS": 2,
+    "OLANDA GONZALEZ, HUGO": 4,
+    "RABAGO GOMEZ, MAURO": 6,
+    "ALVAREZ JIMENEZ, DIEGO": 9,
+    "GUERRA CALZADA, ÁLVARO": 17,
+    "ALONSO NOVAL, KENZO": 18,
+    "MORENO FERNANDEZ, HECTOR": 19,
+    "PEREZ REVUELTA, NICOLAS": 22,
+    "ACHEHBOUNE BADOURI, ADAM": 23,
+    "PEREZ MIRANDA, IZAN": 25
+  },
+  "dorsales_visitante": {
+    "TRIGO SANTOS, ALEJANDRO": 1,
+    "MÚGICA BLANCO, HUGO": 3,
+    "FERNANDEZ TOMAS, ALVARO": 5,
+    "GOMEZ SANCHEZ, MARC": 6,
+    "LUQUE MARTINEZ, AIMAR": 7,
+    "SANCHEZ CUEVAS, SERGIO": 9,
+    "RUIZ LOBETO, IZAN": 10,
+    "MENDARO TERAN, LUIS": 11,
+    "MAYORDOMO NAVARRO, CRISTIAN": 15,
+    "GUERRA MIRANDA, MARTÍN": 18,
+    "RODICIO DE LA GRANJA, ANDRÉS": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
