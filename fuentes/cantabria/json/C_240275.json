@@ -1,0 +1,290 @@
+{
+  "acta_id": "C_240275",
+  "filename": "Acta_C_240275.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "13-09-2026",
+  "hora": "12:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT B",
+  "equipo_visitante": "U.D. SAMANO A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RUMENOV MARINOV, KRISTIAN"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "ORTIZ FERNANDEZ, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "ORTIZ FERNANDEZ, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "MUÑIZ RUIZ, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "CANO GOMEZ, GUILLERMO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "PALLARUELO VELAZQUEZ, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "BARCENA MUÑOZ, SANTIAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "U.D. SAMANO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "FERNANDEZ MUÑECAS, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "CANO GOMEZ, GUILLERMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "LOPEZ GONZALEZ, ARITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SERRANO RODRIGUEZ, DAVID",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LOPEZ GONZALEZ, PEDRO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ GONZALEZ, PEDRO",
+  "delegado_equipo_visitante": "ALTUNA TUEROS, MARCOS",
+  "titulares_local": [
+    "TORRE EXPOSITO, MARCO",
+    "HAYA GIL, LUCAS",
+    "PEÑA FERNANDEZ, DIEGO",
+    "LOPEZ GARZON, LEO",
+    "VAZQUEZ VILLAVERDE, DANIEL",
+    "PALLARUELO VELAZQUEZ, ADRIAN",
+    "MUÑIZ RUIZ, MARTIN",
+    "ORTIZ FERNANDEZ, SAMUEL",
+    "MUNITIS COSTAS, DAVID",
+    "CRUZ FERNANDEZ, NICOLAS",
+    "RUIZ TRUEBA, JAYDEN"
+  ],
+  "titulares_visitante": [
+    "COSIO GUTIERREZ, FIDEL",
+    "GARCIA ZUBIAUR, MARKEL",
+    "MORO LOPEZ, PEIO",
+    "HERNANDEZ BRAGADO, DIEGO",
+    "PLAZA GARCIA, GABRIEL",
+    "FERNANDEZ MUÑECAS, HUGO",
+    "GOMEZ LIAÑO, DIEGO",
+    "JURADO GARCIA, JON",
+    "LOPEZ GONZALEZ, ARITZ",
+    "LIS PARDO, ROI",
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO"
+  ],
+  "suplentes_local": [
+    "BARCENA MUÑOZ, SANTIAGO",
+    "AZNAR NUÑO, HUGO",
+    "MOVELLAN MARTIN, HUGO",
+    "COMPAÑY LLEIDA, AITOR"
+  ],
+  "suplentes_visitante": [
+    "LLONA LORENTE, ERIK",
+    "LOIDI DEL VAL, SERGIO",
+    "AROZAMENA VILLATE, NICOLAS",
+    "CANO GOMEZ, GUILLERMO",
+    "TERRON MIRANDA, IGNACIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "TORRE EXPOSITO, MARCO",
+    "HAYA GIL, LUCAS",
+    "PEÑA FERNANDEZ, DIEGO",
+    "LOPEZ GARZON, LEO",
+    "VAZQUEZ VILLAVERDE, DANIEL",
+    "PALLARUELO VELAZQUEZ, ADRIAN",
+    "MUÑIZ RUIZ, MARTIN",
+    "ORTIZ FERNANDEZ, SAMUEL",
+    "MUNITIS COSTAS, DAVID",
+    "CRUZ FERNANDEZ, NICOLAS",
+    "RUIZ TRUEBA, JAYDEN",
+    "BARCENA MUÑOZ, SANTIAGO",
+    "AZNAR NUÑO, HUGO",
+    "MOVELLAN MARTIN, HUGO",
+    "COMPAÑY LLEIDA, AITOR"
+  ],
+  "jugadores_visitante": [
+    "COSIO GUTIERREZ, FIDEL",
+    "GARCIA ZUBIAUR, MARKEL",
+    "MORO LOPEZ, PEIO",
+    "HERNANDEZ BRAGADO, DIEGO",
+    "PLAZA GARCIA, GABRIEL",
+    "FERNANDEZ MUÑECAS, HUGO",
+    "GOMEZ LIAÑO, DIEGO",
+    "JURADO GARCIA, JON",
+    "LOPEZ GONZALEZ, ARITZ",
+    "LIS PARDO, ROI",
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO",
+    "LLONA LORENTE, ERIK",
+    "TERRON MIRANDA, IGNACIO",
+    "CANO GOMEZ, GUILLERMO",
+    "LOIDI DEL VAL, SERGIO",
+    "AROZAMENA VILLATE, NICOLAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "BARCENA MUÑOZ, SANTIAGO",
+      "sale": "VAZQUEZ VILLAVERDE, DANIEL"
+    },
+    {
+      "min": 56,
+      "entra": "AZNAR NUÑO, HUGO",
+      "sale": "ORTIZ FERNANDEZ, SAMUEL"
+    },
+    {
+      "min": 61,
+      "entra": "MOVELLAN MARTIN, HUGO",
+      "sale": "CRUZ FERNANDEZ, NICOLAS"
+    },
+    {
+      "min": 61,
+      "entra": "COMPAÑY LLEIDA, AITOR",
+      "sale": "HAYA GIL, LUCAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "LLONA LORENTE, ERIK",
+      "sale": "GARCIA ZUBIAUR, MARKEL"
+    },
+    {
+      "min": 49,
+      "entra": "TERRON MIRANDA, IGNACIO",
+      "sale": "GOMEZ LIAÑO, DIEGO"
+    },
+    {
+      "min": 56,
+      "entra": "CANO GOMEZ, GUILLERMO",
+      "sale": "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO"
+    },
+    {
+      "min": 61,
+      "entra": "LOIDI DEL VAL, SERGIO",
+      "sale": "JURADO GARCIA, JON"
+    },
+    {
+      "min": 61,
+      "entra": "AROZAMENA VILLATE, NICOLAS",
+      "sale": "HERNANDEZ BRAGADO, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "TORRE EXPOSITO, MARCO": 90,
+    "HAYA GIL, LUCAS": 61,
+    "PEÑA FERNANDEZ, DIEGO": 90,
+    "LOPEZ GARZON, LEO": 90,
+    "VAZQUEZ VILLAVERDE, DANIEL": 56,
+    "PALLARUELO VELAZQUEZ, ADRIAN": 90,
+    "MUÑIZ RUIZ, MARTIN": 90,
+    "ORTIZ FERNANDEZ, SAMUEL": 56,
+    "MUNITIS COSTAS, DAVID": 90,
+    "CRUZ FERNANDEZ, NICOLAS": 61,
+    "RUIZ TRUEBA, JAYDEN": 90,
+    "BARCENA MUÑOZ, SANTIAGO": 34,
+    "AZNAR NUÑO, HUGO": 34,
+    "MOVELLAN MARTIN, HUGO": 29,
+    "COMPAÑY LLEIDA, AITOR": 29,
+    "COSIO GUTIERREZ, FIDEL": 90,
+    "GARCIA ZUBIAUR, MARKEL": 40,
+    "MORO LOPEZ, PEIO": 90,
+    "HERNANDEZ BRAGADO, DIEGO": 61,
+    "PLAZA GARCIA, GABRIEL": 90,
+    "FERNANDEZ MUÑECAS, HUGO": 90,
+    "GOMEZ LIAÑO, DIEGO": 49,
+    "JURADO GARCIA, JON": 61,
+    "LOPEZ GONZALEZ, ARITZ": 90,
+    "LIS PARDO, ROI": 90,
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO": 56,
+    "LLONA LORENTE, ERIK": 50,
+    "TERRON MIRANDA, IGNACIO": 41,
+    "CANO GOMEZ, GUILLERMO": 34,
+    "LOIDI DEL VAL, SERGIO": 29,
+    "AROZAMENA VILLATE, NICOLAS": 29
+  },
+  "portero_local": "TORRE EXPOSITO, MARCO",
+  "portero_visitante": "COSIO GUTIERREZ, FIDEL",
+  "dorsales_local": {
+    "TORRE EXPOSITO, MARCO": 13,
+    "HAYA GIL, LUCAS": 2,
+    "PEÑA FERNANDEZ, DIEGO": 4,
+    "LOPEZ GARZON, LEO": 5,
+    "VAZQUEZ VILLAVERDE, DANIEL": 6,
+    "PALLARUELO VELAZQUEZ, ADRIAN": 7,
+    "MUÑIZ RUIZ, MARTIN": 8,
+    "ORTIZ FERNANDEZ, SAMUEL": 9,
+    "MUNITIS COSTAS, DAVID": 10,
+    "CRUZ FERNANDEZ, NICOLAS": 11,
+    "RUIZ TRUEBA, JAYDEN": 12
+  },
+  "dorsales_visitante": {
+    "COSIO GUTIERREZ, FIDEL": 13,
+    "GARCIA ZUBIAUR, MARKEL": 3,
+    "MORO LOPEZ, PEIO": 4,
+    "HERNANDEZ BRAGADO, DIEGO": 5,
+    "PLAZA GARCIA, GABRIEL": 6,
+    "FERNANDEZ MUÑECAS, HUGO": 7,
+    "GOMEZ LIAÑO, DIEGO": 8,
+    "JURADO GARCIA, JON": 9,
+    "LOPEZ GONZALEZ, ARITZ": 16,
+    "LIS PARDO, ROI": 17,
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO": 25
+  },
+  "suspendidos": []
+}
