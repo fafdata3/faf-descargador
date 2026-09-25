@@ -1,0 +1,243 @@
+{
+  "acta_id": "C_220775",
+  "filename": "Acta_C_220775.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "31-01-2026",
+  "hora": "15:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. REVILLA A",
+  "equipo_visitante": "C.AT. PERINES A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RODRIGUEZ FERRERAS , ADOLFO"
+  ],
+  "estadio": "Revilla",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "PÉREZ MARTIN, JAIRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 65,
+      "jugador": "FERNANDEZ NAVAMUEL, JENS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "DIEZ VELASCO, JUAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "ALVAREZ CARRASCO, OSCAR E",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "C.AT. PERINES A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALVAREZ CARRASCO, OSCAR E",
+  "entrenador_visitante": "TORRES SAENZ, JOSE ALEJANDRO",
+  "segundo_entrenador_local": "PUERTAS MARTINEZ, VICTOR",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "HOZ MUÑOZ, JOSE ALBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HOZ MUÑOZ, JOSE ALBERTO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "TORRE EXPOSITO, MARCO",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "ALONSO IGLESIAS, MATEO",
+    "PÉREZ MANTECÓN, MARTÍN",
+    "PEROJO HERNANDO, MANUEL",
+    "HORRILLO CAÑEDO, ALEX"
+  ],
+  "titulares_visitante": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "RUIZ SANZ, MARIO",
+    "GUERRA TORRO, ALBERTO",
+    "TRICIO MARTÍN, MATEO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "PÉREZ MARTIN, JAIRO",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "TODERO, JOAQUIN KONRAD",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "PRADA DE MIGUEL, DARIO"
+  ],
+  "suplentes_local": [
+    "ARCE GONZALEZ, JAIME",
+    "PATIÑO OREJUELA, DAVID",
+    "REBOLLEDO GARCIA, OLIVER",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "RUIZ MARTINEZ, JULEN"
+  ],
+  "suplentes_visitante": [
+    "PUENTE HERNANDEZ, MARIO",
+    "AZNAR NUÑO, HUGO",
+    "ROBLES LARA, DAIAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "ROBLES LARA, DAIAN"
+  ],
+  "jugadores_local": [
+    "TORRE EXPOSITO, MARCO",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "ALONSO IGLESIAS, MATEO",
+    "PÉREZ MANTECÓN, MARTÍN",
+    "PEROJO HERNANDO, MANUEL",
+    "HORRILLO CAÑEDO, ALEX",
+    "ARCE GONZALEZ, JAIME",
+    "RUIZ MARTINEZ, JULEN",
+    "REBOLLEDO GARCIA, OLIVER",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "PATIÑO OREJUELA, DAVID"
+  ],
+  "jugadores_visitante": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "RUIZ SANZ, MARIO",
+    "GUERRA TORRO, ALBERTO",
+    "TRICIO MARTÍN, MATEO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "PÉREZ MARTIN, JAIRO",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "TODERO, JOAQUIN KONRAD",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "PRADA DE MIGUEL, DARIO",
+    "PUENTE HERNANDEZ, MARIO",
+    "AZNAR NUÑO, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "ARCE GONZALEZ, JAIME",
+      "sale": "TORRE EXPOSITO, MARCO"
+    },
+    {
+      "min": 41,
+      "entra": "RUIZ MARTINEZ, JULEN",
+      "sale": "ALONSO IGLESIAS, MATEO"
+    },
+    {
+      "min": 41,
+      "entra": "REBOLLEDO GARCIA, OLIVER",
+      "sale": "PEROJO HERNANDO, MANUEL"
+    },
+    {
+      "min": 41,
+      "entra": "VAQUERO IGLESIAS, MIGUEL",
+      "sale": "HORRILLO CAÑEDO, ALEX"
+    },
+    {
+      "min": 50,
+      "entra": "PATIÑO OREJUELA, DAVID",
+      "sale": "DIEZ VELASCO, JUAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "PUENTE HERNANDEZ, MARIO",
+      "sale": "HAYA SÁNCHEZ, RODRIGO"
+    },
+    {
+      "min": 51,
+      "entra": "AZNAR NUÑO, HUGO",
+      "sale": "PRADA DE MIGUEL, DARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "TORRE EXPOSITO, MARCO": 35,
+    "JIMENEZ GALDIANO, HUGO": 90,
+    "LOPEZ SAMANIEGO, FEDERICO": 90,
+    "JUANGO HERRERIA, ALVARO": 90,
+    "GUTIERREZ NEGRAL, YAGO": 90,
+    "DIEZ VELASCO, JUAN": 50,
+    "ANDERICA BALAGUER, MARIO": 90,
+    "ALONSO IGLESIAS, MATEO": 41,
+    "PÉREZ MANTECÓN, MARTÍN": 90,
+    "PEROJO HERNANDO, MANUEL": 41,
+    "HORRILLO CAÑEDO, ALEX": 41,
+    "ARCE GONZALEZ, JAIME": 55,
+    "RUIZ MARTINEZ, JULEN": 49,
+    "REBOLLEDO GARCIA, OLIVER": 49,
+    "VAQUERO IGLESIAS, MIGUEL": 49,
+    "PATIÑO OREJUELA, DAVID": 40,
+    "GONÇALVES JORRIN, SAMUEL": 90,
+    "RUIZ SANZ, MARIO": 90,
+    "GUERRA TORRO, ALBERTO": 90,
+    "TRICIO MARTÍN, MATEO": 90,
+    "ALBO ZORRILLA, EDGAR": 90,
+    "FERNANDEZ GUTIERREZ, ELOY": 90,
+    "PÉREZ MARTIN, JAIRO": 90,
+    "HAYA SÁNCHEZ, RODRIGO": 35,
+    "TODERO, JOAQUIN KONRAD": 90,
+    "FERNANDEZ NAVAMUEL, JENS": 90,
+    "PRADA DE MIGUEL, DARIO": 51,
+    "PUENTE HERNANDEZ, MARIO": 55,
+    "AZNAR NUÑO, HUGO": 39
+  },
+  "portero_local": "TORRE EXPOSITO, MARCO",
+  "portero_visitante": "GONÇALVES JORRIN, SAMUEL",
+  "dorsales_local": {
+    "TORRE EXPOSITO, MARCO": 1,
+    "JIMENEZ GALDIANO, HUGO": 2,
+    "LOPEZ SAMANIEGO, FEDERICO": 3,
+    "JUANGO HERRERIA, ALVARO": 4,
+    "GUTIERREZ NEGRAL, YAGO": 5,
+    "DIEZ VELASCO, JUAN": 6,
+    "ANDERICA BALAGUER, MARIO": 8,
+    "ALONSO IGLESIAS, MATEO": 9,
+    "PÉREZ MANTECÓN, MARTÍN": 11,
+    "PEROJO HERNANDO, MANUEL": 12,
+    "HORRILLO CAÑEDO, ALEX": 16
+  },
+  "dorsales_visitante": {
+    "GONÇALVES JORRIN, SAMUEL": 1,
+    "RUIZ SANZ, MARIO": 2,
+    "GUERRA TORRO, ALBERTO": 3,
+    "TRICIO MARTÍN, MATEO": 4,
+    "ALBO ZORRILLA, EDGAR": 7,
+    "FERNANDEZ GUTIERREZ, ELOY": 8,
+    "PÉREZ MARTIN, JAIRO": 10,
+    "HAYA SÁNCHEZ, RODRIGO": 14,
+    "TODERO, JOAQUIN KONRAD": 17,
+    "FERNANDEZ NAVAMUEL, JENS": 18,
+    "PRADA DE MIGUEL, DARIO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
