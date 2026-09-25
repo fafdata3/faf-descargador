@@ -1,0 +1,258 @@
+{
+  "acta_id": "C_244065",
+  "filename": "Acta_C_244065.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "10:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. MONTE A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAN MARTIN DE LA TEJA, JON"
+  ],
+  "estadio": "Monte 1",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 46,
+      "jugador": "ABASCAL BARQUIN, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 21,
+      "jugador": "TEJA GIL, LEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "ZUBELZU VIADERO, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "LEGARRETA YURRITA, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "S.D. SOLARES-MEDIO CUDEYO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "BLANCO LOBATO, CARLOS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LEGARRETA YURRITA, DIEGO",
+  "entrenador_visitante": "HIERRO GOMEZ, MARCOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CANDELA GALDONA, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CANDELA GALDONA, PABLO",
+  "delegado_equipo_visitante": "MADRAZO PRESMANES, PABLO",
+  "titulares_local": [
+    "SOLORZANO SAIZ, JACOBO FEDERICO",
+    "ZUBELZU VIADERO, ADRIAN",
+    "TOSIO CAPDEVILA, GUILLERMO",
+    "ORTIZ SAÑUDO, ALONSO",
+    "VILLAVERDE TORRES, FELIPE",
+    "BLANCO LANZA, GONZALO",
+    "TEJA GIL, LEO",
+    "DELGADO GARCIA, DANIEL",
+    "FRAILE SANTISTEBAN, FERNANDO",
+    "BRUN ZAMORA, JUAN MANUEL",
+    "COSÍO GONZÁLEZ, DIEGO"
+  ],
+  "titulares_visitante": [
+    "BLANCO LOBATO, CARLOS",
+    "PLA LAVIN, MARIO",
+    "VARGA BUSTIO, ALONSO",
+    "ALVAREZ GARCIA, DANIEL",
+    "FERNANDEZ LAVIN, HUGO",
+    "RUIZ LASTRA, IVAN",
+    "NUÑEZ BARROSO, SEBASTIAN",
+    "ABASCAL BARQUIN, HUGO",
+    "SANCHEZ TORRE, AIMAR",
+    "QUINTANA FERNANDEZ, RODRIGO",
+    "CASTAÑEDA IBAÑEZ, ENZO"
+  ],
+  "suplentes_local": [
+    "SAINZ RUIZ, GABRIEL",
+    "DE JULIAN PEROJO, BRUNO",
+    "MARTÍNEZ TEJA, PABLO",
+    "HERRERA RUIZ, ALVARO",
+    "DEL RIO GONZALEZ, NICO"
+  ],
+  "suplentes_visitante": [
+    "ALONSO MONTERO, MARCOS",
+    "ORTIZ VIADERO, ALONSO",
+    "CARDO DE ANA, ANDER",
+    "LOPEZ FERNANDEZ, MATEO"
+  ],
+  "convocados_sin_jugar_local": [
+    "DE JULIAN PEROJO, BRUNO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SOLORZANO SAIZ, JACOBO FEDERICO",
+    "ZUBELZU VIADERO, ADRIAN",
+    "TOSIO CAPDEVILA, GUILLERMO",
+    "ORTIZ SAÑUDO, ALONSO",
+    "VILLAVERDE TORRES, FELIPE",
+    "BLANCO LANZA, GONZALO",
+    "TEJA GIL, LEO",
+    "DELGADO GARCIA, DANIEL",
+    "FRAILE SANTISTEBAN, FERNANDO",
+    "BRUN ZAMORA, JUAN MANUEL",
+    "COSÍO GONZÁLEZ, DIEGO",
+    "SAINZ RUIZ, GABRIEL",
+    "HERRERA RUIZ, ALVARO",
+    "MARTÍNEZ TEJA, PABLO",
+    "DEL RIO GONZALEZ, NICO"
+  ],
+  "jugadores_visitante": [
+    "BLANCO LOBATO, CARLOS",
+    "PLA LAVIN, MARIO",
+    "VARGA BUSTIO, ALONSO",
+    "ALVAREZ GARCIA, DANIEL",
+    "FERNANDEZ LAVIN, HUGO",
+    "RUIZ LASTRA, IVAN",
+    "NUÑEZ BARROSO, SEBASTIAN",
+    "ABASCAL BARQUIN, HUGO",
+    "SANCHEZ TORRE, AIMAR",
+    "QUINTANA FERNANDEZ, RODRIGO",
+    "CASTAÑEDA IBAÑEZ, ENZO",
+    "CARDO DE ANA, ANDER",
+    "LOPEZ FERNANDEZ, MATEO",
+    "ALONSO MONTERO, MARCOS",
+    "ORTIZ VIADERO, ALONSO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "SAINZ RUIZ, GABRIEL",
+      "sale": "SOLORZANO SAIZ, JACOBO FEDERICO"
+    },
+    {
+      "min": 41,
+      "entra": "HERRERA RUIZ, ALVARO",
+      "sale": "DELGADO GARCIA, DANIEL"
+    },
+    {
+      "min": 46,
+      "entra": "MARTÍNEZ TEJA, PABLO",
+      "sale": "BRUN ZAMORA, JUAN MANUEL"
+    },
+    {
+      "min": 51,
+      "entra": "DEL RIO GONZALEZ, NICO",
+      "sale": "COSÍO GONZÁLEZ, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "CARDO DE ANA, ANDER",
+      "sale": "CASTAÑEDA IBAÑEZ, ENZO"
+    },
+    {
+      "min": 49,
+      "entra": "LOPEZ FERNANDEZ, MATEO",
+      "sale": "NUÑEZ BARROSO, SEBASTIAN"
+    },
+    {
+      "min": 54,
+      "entra": "ALONSO MONTERO, MARCOS",
+      "sale": "RUIZ LASTRA, IVAN"
+    },
+    {
+      "min": 59,
+      "entra": "ORTIZ VIADERO, ALONSO",
+      "sale": "QUINTANA FERNANDEZ, RODRIGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "SOLORZANO SAIZ, JACOBO FEDERICO": 35,
+    "ZUBELZU VIADERO, ADRIAN": 90,
+    "TOSIO CAPDEVILA, GUILLERMO": 90,
+    "ORTIZ SAÑUDO, ALONSO": 90,
+    "VILLAVERDE TORRES, FELIPE": 90,
+    "BLANCO LANZA, GONZALO": 90,
+    "TEJA GIL, LEO": 90,
+    "DELGADO GARCIA, DANIEL": 41,
+    "FRAILE SANTISTEBAN, FERNANDO": 90,
+    "BRUN ZAMORA, JUAN MANUEL": 46,
+    "COSÍO GONZÁLEZ, DIEGO": 51,
+    "SAINZ RUIZ, GABRIEL": 55,
+    "HERRERA RUIZ, ALVARO": 49,
+    "MARTÍNEZ TEJA, PABLO": 44,
+    "DEL RIO GONZALEZ, NICO": 39,
+    "BLANCO LOBATO, CARLOS": 90,
+    "PLA LAVIN, MARIO": 90,
+    "VARGA BUSTIO, ALONSO": 90,
+    "ALVAREZ GARCIA, DANIEL": 90,
+    "FERNANDEZ LAVIN, HUGO": 90,
+    "RUIZ LASTRA, IVAN": 54,
+    "NUÑEZ BARROSO, SEBASTIAN": 49,
+    "ABASCAL BARQUIN, HUGO": 90,
+    "SANCHEZ TORRE, AIMAR": 90,
+    "QUINTANA FERNANDEZ, RODRIGO": 59,
+    "CASTAÑEDA IBAÑEZ, ENZO": 41,
+    "CARDO DE ANA, ANDER": 49,
+    "LOPEZ FERNANDEZ, MATEO": 41,
+    "ALONSO MONTERO, MARCOS": 36,
+    "ORTIZ VIADERO, ALONSO": 31
+  },
+  "portero_local": "SOLORZANO SAIZ, JACOBO FEDERICO",
+  "portero_visitante": "BLANCO LOBATO, CARLOS",
+  "dorsales_local": {
+    "SOLORZANO SAIZ, JACOBO FEDERICO": 1,
+    "ZUBELZU VIADERO, ADRIAN": 4,
+    "TOSIO CAPDEVILA, GUILLERMO": 5,
+    "ORTIZ SAÑUDO, ALONSO": 6,
+    "VILLAVERDE TORRES, FELIPE": 7,
+    "BLANCO LANZA, GONZALO": 8,
+    "TEJA GIL, LEO": 9,
+    "DELGADO GARCIA, DANIEL": 14,
+    "FRAILE SANTISTEBAN, FERNANDO": 15,
+    "BRUN ZAMORA, JUAN MANUEL": 16,
+    "COSÍO GONZÁLEZ, DIEGO": 17
+  },
+  "dorsales_visitante": {
+    "BLANCO LOBATO, CARLOS": 1,
+    "PLA LAVIN, MARIO": 2,
+    "VARGA BUSTIO, ALONSO": 3,
+    "ALVAREZ GARCIA, DANIEL": 5,
+    "FERNANDEZ LAVIN, HUGO": 7,
+    "RUIZ LASTRA, IVAN": 8,
+    "NUÑEZ BARROSO, SEBASTIAN": 9,
+    "ABASCAL BARQUIN, HUGO": 10,
+    "SANCHEZ TORRE, AIMAR": 11,
+    "QUINTANA FERNANDEZ, RODRIGO": 14,
+    "CASTAÑEDA IBAÑEZ, ENZO": 15
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
