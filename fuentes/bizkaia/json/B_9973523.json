@@ -1,0 +1,229 @@
+{
+  "acta_id": "B_9973523",
+  "filename": "Acta_B_9973523.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "24-01-2026",
+  "hora": "12:50",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 6)",
+  "equipo_local": "MUNABE",
+  "equipo_visitante": "SONDIKA B",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANTA OLALLA MARAURI, EKAITZ"
+  ],
+  "estadio": "COL. MUNABE",
+  "ciudad": "Loiu",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "DE LUCIO ZABALA, MARCELO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 6,
+      "jugador": "LOPEZ VILLAR, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "EGUIA IBARRONDO, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "FERNANDEZ VILLAR, ANER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 45,
+      "jugador": "MARTINEZ SEGOVIA, ASIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 88,
+      "jugador": "ZUBIETA LLORCA, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [],
+  "entrenador_local": "FRAILE CHAVES, IBAN",
+  "entrenador_visitante": "AZCORRA AQUESOLO, AITOR IÑAKI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ELORRIAGA SOBRON, IÑIGO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ELORRIAGA SOBRON, IÑIGO",
+  "delegado_equipo_visitante": "EGUZKITZA ATELA, FRANCISCO JAVIER",
+  "titulares_local": [
+    "ANGUIANO FERNANDEZ, ANDER",
+    "DE LUCIO ZABALA, MARCELO",
+    "IBARZABAL SANTAMARIA, ENEKO",
+    "MORALES SAN JUAN, LUCAS",
+    "MARTINEZ SEGOVIA, ASIER",
+    "ARANA MATUTE, JUAN",
+    "GUTIERREZ MARTINEZ, ANDRES",
+    "WANG LIN, ZHI HAO",
+    "DE GRASSA SAINZ, JUAN BOSCO",
+    "URIZAR ELUSTONDO, JAVIER",
+    "NAVARRO ALAEZ, JUAN PABLO"
+  ],
+  "titulares_visitante": [
+    "BERMEJO PUERTAS, OIER",
+    "MANTECA LEKERIKABEASKOA, IBAI",
+    "EGUIA IBARRONDO, JON",
+    "DUMITRU, RAFAEL GABRIEL",
+    "FERNANDEZ VILLAR, ANER",
+    "BELTRAN PINEDA, JUAN DIEGO",
+    "URIARTE RUIZ, ENEKO",
+    "URIARTE SALINAS, UNAX",
+    "REBATE DOMINGUEZ, IBAI",
+    "LOPEZ VILLAR, MIKEL",
+    "AGUIRRE ARCE, ASIER"
+  ],
+  "suplentes_local": [
+    "GARCIA TIMPANARO, IÑIGO",
+    "PASCUAL OLASO, LUIS GERMAN"
+  ],
+  "suplentes_visitante": [
+    "ZUBIETA LLORCA, JON",
+    "BELTRAN ZUBIETA, GONTZAL",
+    "GARCIA IZA, JON"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ANGUIANO FERNANDEZ, ANDER",
+    "DE LUCIO ZABALA, MARCELO",
+    "IBARZABAL SANTAMARIA, ENEKO",
+    "MORALES SAN JUAN, LUCAS",
+    "MARTINEZ SEGOVIA, ASIER",
+    "ARANA MATUTE, JUAN",
+    "GUTIERREZ MARTINEZ, ANDRES",
+    "WANG LIN, ZHI HAO",
+    "DE GRASSA SAINZ, JUAN BOSCO",
+    "URIZAR ELUSTONDO, JAVIER",
+    "NAVARRO ALAEZ, JUAN PABLO",
+    "GARCIA TIMPANARO, IÑIGO",
+    "PASCUAL OLASO, LUIS GERMAN"
+  ],
+  "jugadores_visitante": [
+    "BERMEJO PUERTAS, OIER",
+    "MANTECA LEKERIKABEASKOA, IBAI",
+    "EGUIA IBARRONDO, JON",
+    "DUMITRU, RAFAEL GABRIEL",
+    "FERNANDEZ VILLAR, ANER",
+    "BELTRAN PINEDA, JUAN DIEGO",
+    "URIARTE RUIZ, ENEKO",
+    "URIARTE SALINAS, UNAX",
+    "REBATE DOMINGUEZ, IBAI",
+    "LOPEZ VILLAR, MIKEL",
+    "AGUIRRE ARCE, ASIER",
+    "GARCIA IZA, JON",
+    "ZUBIETA LLORCA, JON",
+    "BELTRAN ZUBIETA, GONTZAL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "GARCIA TIMPANARO, IÑIGO",
+      "sale": "MORALES SAN JUAN, LUCAS"
+    },
+    {
+      "min": 71,
+      "entra": "PASCUAL OLASO, LUIS GERMAN",
+      "sale": "GUTIERREZ MARTINEZ, ANDRES"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "GARCIA IZA, JON",
+      "sale": "LOPEZ VILLAR, MIKEL"
+    },
+    {
+      "min": 70,
+      "entra": "ZUBIETA LLORCA, JON",
+      "sale": "FERNANDEZ VILLAR, ANER"
+    },
+    {
+      "min": 76,
+      "entra": "BELTRAN ZUBIETA, GONTZAL",
+      "sale": "EGUIA IBARRONDO, JON"
+    }
+  ],
+  "minutos_jugadores": {
+    "ANGUIANO FERNANDEZ, ANDER": 90,
+    "DE LUCIO ZABALA, MARCELO": 90,
+    "IBARZABAL SANTAMARIA, ENEKO": 90,
+    "MORALES SAN JUAN, LUCAS": 60,
+    "MARTINEZ SEGOVIA, ASIER": 90,
+    "ARANA MATUTE, JUAN": 90,
+    "GUTIERREZ MARTINEZ, ANDRES": 71,
+    "WANG LIN, ZHI HAO": 90,
+    "DE GRASSA SAINZ, JUAN BOSCO": 90,
+    "URIZAR ELUSTONDO, JAVIER": 90,
+    "NAVARRO ALAEZ, JUAN PABLO": 90,
+    "GARCIA TIMPANARO, IÑIGO": 30,
+    "PASCUAL OLASO, LUIS GERMAN": 19,
+    "BERMEJO PUERTAS, OIER": 90,
+    "MANTECA LEKERIKABEASKOA, IBAI": 90,
+    "EGUIA IBARRONDO, JON": 76,
+    "DUMITRU, RAFAEL GABRIEL": 90,
+    "FERNANDEZ VILLAR, ANER": 70,
+    "BELTRAN PINEDA, JUAN DIEGO": 90,
+    "URIARTE RUIZ, ENEKO": 90,
+    "URIARTE SALINAS, UNAX": 90,
+    "REBATE DOMINGUEZ, IBAI": 90,
+    "LOPEZ VILLAR, MIKEL": 55,
+    "AGUIRRE ARCE, ASIER": 90,
+    "GARCIA IZA, JON": 35,
+    "ZUBIETA LLORCA, JON": 20,
+    "BELTRAN ZUBIETA, GONTZAL": 14
+  },
+  "portero_local": "ANGUIANO FERNANDEZ, ANDER",
+  "portero_visitante": "BERMEJO PUERTAS, OIER",
+  "dorsales_local": {
+    "ANGUIANO FERNANDEZ, ANDER": 1,
+    "DE LUCIO ZABALA, MARCELO": 2,
+    "IBARZABAL SANTAMARIA, ENEKO": 4,
+    "MORALES SAN JUAN, LUCAS": 5,
+    "MARTINEZ SEGOVIA, ASIER": 7,
+    "ARANA MATUTE, JUAN": 9,
+    "GUTIERREZ MARTINEZ, ANDRES": 11,
+    "WANG LIN, ZHI HAO": 14,
+    "DE GRASSA SAINZ, JUAN BOSCO": 15,
+    "URIZAR ELUSTONDO, JAVIER": 17,
+    "NAVARRO ALAEZ, JUAN PABLO": 20
+  },
+  "dorsales_visitante": {
+    "BERMEJO PUERTAS, OIER": 1,
+    "MANTECA LEKERIKABEASKOA, IBAI": 2,
+    "EGUIA IBARRONDO, JON": 5,
+    "DUMITRU, RAFAEL GABRIEL": 6,
+    "FERNANDEZ VILLAR, ANER": 7,
+    "BELTRAN PINEDA, JUAN DIEGO": 8,
+    "URIARTE RUIZ, ENEKO": 10,
+    "URIARTE SALINAS, UNAX": 12,
+    "REBATE DOMINGUEZ, IBAI": 15,
+    "LOPEZ VILLAR, MIKEL": 16,
+    "AGUIRRE ARCE, ASIER": 17
+  },
+  "suspendidos": []
+}
