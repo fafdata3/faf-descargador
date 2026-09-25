@@ -1,0 +1,254 @@
+{
+  "acta_id": "C_244549",
+  "filename": "Acta_C_244549.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "20-09-2026",
+  "hora": "12:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO B)",
+  "equipo_local": "E.M.F. SANTOÑA A",
+  "equipo_visitante": "C.D. REVILLA A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RODRIGUEZ FERRERAS , ADOLFO"
+  ],
+  "estadio": "Santoña 2",
+  "ciudad": "Santoña",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "ARGÜESO DIAZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "PEROJO HERNANDO, MANUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 24,
+      "jugador": "PEROJO HERNANDO, MANUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 33,
+      "jugador": "ARGOS MEDINA, ERIC",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "VILLARIAS LARRINAGA, IGNACIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "C.D. REVILLA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 51,
+      "jugador": "OCERIN CUESTA, LUCA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "DIEZ PEREZ, JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MIGUEL PEREZ, IVAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MIGUEL PEREZ, IVAN",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "MONTERO PACHECO, MARTIN",
+    "HERNANDEZ CORTORREAL, ARMANDO",
+    "CABALLERO DEL REY, DAVID",
+    "PESO ESCARDA, MARCO",
+    "SAMPERIO FERNANDEZ, MIGUEL",
+    "MIGUEL HARO, IVAN",
+    "ARGOS MEDINA, ERIC",
+    "VILLARIAS LARRINAGA, IGNACIO",
+    "MENEZO FURELOS, ANGEL",
+    "CASTILLO CAMARA, SERGIO",
+    "HERBELLA CASTAÑEDA, PEDRO"
+  ],
+  "titulares_visitante": [
+    "RUIZ GUTIERREZ, GONZALO",
+    "HIGUERA SAINZ, MATEO",
+    "GÓMEZ NOVOA, ALBERTO",
+    "OCERIN CUESTA, LUCA",
+    "ARGÜESO DIAZ, PABLO",
+    "MANCINA SIERRA, HUGO",
+    "GARCIA BLANCO, LEO",
+    "LAVIN GONZALEZ, HUGO",
+    "CETKOVIC FERNANDEZ, LUKA",
+    "MONDRAGON LONDOÑO, DILAN JOSUE",
+    "PEROJO HERNANDO, MANUEL"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ SUBISAGA, SERGIO",
+    "LOPEZ DE GUREÑU, UNAI"
+  ],
+  "suplentes_visitante": [
+    "RUIZ CRESPO, LEO",
+    "STOCKER LAYA, LEO",
+    "GUTIERREZ SALVADOR, ALEX",
+    "STOCKER LAYA, EVAN",
+    "TORRE RODRIGUEZ, LUIS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MONTERO PACHECO, MARTIN",
+    "HERNANDEZ CORTORREAL, ARMANDO",
+    "CABALLERO DEL REY, DAVID",
+    "PESO ESCARDA, MARCO",
+    "SAMPERIO FERNANDEZ, MIGUEL",
+    "MIGUEL HARO, IVAN",
+    "ARGOS MEDINA, ERIC",
+    "VILLARIAS LARRINAGA, IGNACIO",
+    "MENEZO FURELOS, ANGEL",
+    "CASTILLO CAMARA, SERGIO",
+    "HERBELLA CASTAÑEDA, PEDRO",
+    "FERNANDEZ SUBISAGA, SERGIO",
+    "LOPEZ DE GUREÑU, UNAI"
+  ],
+  "jugadores_visitante": [
+    "RUIZ GUTIERREZ, GONZALO",
+    "HIGUERA SAINZ, MATEO",
+    "GÓMEZ NOVOA, ALBERTO",
+    "OCERIN CUESTA, LUCA",
+    "ARGÜESO DIAZ, PABLO",
+    "MANCINA SIERRA, HUGO",
+    "GARCIA BLANCO, LEO",
+    "LAVIN GONZALEZ, HUGO",
+    "CETKOVIC FERNANDEZ, LUKA",
+    "MONDRAGON LONDOÑO, DILAN JOSUE",
+    "PEROJO HERNANDO, MANUEL",
+    "RUIZ CRESPO, LEO",
+    "GUTIERREZ SALVADOR, ALEX",
+    "TORRE RODRIGUEZ, LUIS",
+    "STOCKER LAYA, EVAN",
+    "STOCKER LAYA, LEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 27,
+      "entra": "FERNANDEZ SUBISAGA, SERGIO",
+      "sale": "MENEZO FURELOS, ANGEL"
+    },
+    {
+      "min": 35,
+      "entra": "LOPEZ DE GUREÑU, UNAI",
+      "sale": "ARGOS MEDINA, ERIC"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "RUIZ CRESPO, LEO",
+      "sale": "PEROJO HERNANDO, MANUEL"
+    },
+    {
+      "min": 35,
+      "entra": "GUTIERREZ SALVADOR, ALEX",
+      "sale": "MONDRAGON LONDOÑO, DILAN JOSUE"
+    },
+    {
+      "min": 41,
+      "entra": "TORRE RODRIGUEZ, LUIS",
+      "sale": "GÓMEZ NOVOA, ALBERTO"
+    },
+    {
+      "min": 44,
+      "entra": "STOCKER LAYA, EVAN",
+      "sale": "CETKOVIC FERNANDEZ, LUKA"
+    },
+    {
+      "min": 46,
+      "entra": "STOCKER LAYA, LEO",
+      "sale": "LAVIN GONZALEZ, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MONTERO PACHECO, MARTIN": 90,
+    "HERNANDEZ CORTORREAL, ARMANDO": 90,
+    "CABALLERO DEL REY, DAVID": 90,
+    "PESO ESCARDA, MARCO": 90,
+    "SAMPERIO FERNANDEZ, MIGUEL": 90,
+    "MIGUEL HARO, IVAN": 90,
+    "ARGOS MEDINA, ERIC": 35,
+    "VILLARIAS LARRINAGA, IGNACIO": 90,
+    "MENEZO FURELOS, ANGEL": 27,
+    "CASTILLO CAMARA, SERGIO": 90,
+    "HERBELLA CASTAÑEDA, PEDRO": 90,
+    "FERNANDEZ SUBISAGA, SERGIO": 63,
+    "LOPEZ DE GUREÑU, UNAI": 55,
+    "RUIZ GUTIERREZ, GONZALO": 90,
+    "HIGUERA SAINZ, MATEO": 90,
+    "GÓMEZ NOVOA, ALBERTO": 41,
+    "OCERIN CUESTA, LUCA": 90,
+    "ARGÜESO DIAZ, PABLO": 90,
+    "MANCINA SIERRA, HUGO": 90,
+    "GARCIA BLANCO, LEO": 90,
+    "LAVIN GONZALEZ, HUGO": 46,
+    "CETKOVIC FERNANDEZ, LUKA": 44,
+    "MONDRAGON LONDOÑO, DILAN JOSUE": 35,
+    "PEROJO HERNANDO, MANUEL": 35,
+    "RUIZ CRESPO, LEO": 55,
+    "GUTIERREZ SALVADOR, ALEX": 55,
+    "TORRE RODRIGUEZ, LUIS": 49,
+    "STOCKER LAYA, EVAN": 46,
+    "STOCKER LAYA, LEO": 44
+  },
+  "portero_local": "MONTERO PACHECO, MARTIN",
+  "portero_visitante": "RUIZ GUTIERREZ, GONZALO",
+  "dorsales_local": {
+    "MONTERO PACHECO, MARTIN": 1,
+    "HERNANDEZ CORTORREAL, ARMANDO": 9,
+    "CABALLERO DEL REY, DAVID": 17,
+    "PESO ESCARDA, MARCO": 18,
+    "SAMPERIO FERNANDEZ, MIGUEL": 20,
+    "MIGUEL HARO, IVAN": 21,
+    "ARGOS MEDINA, ERIC": 24,
+    "VILLARIAS LARRINAGA, IGNACIO": 28,
+    "MENEZO FURELOS, ANGEL": 30,
+    "CASTILLO CAMARA, SERGIO": 31,
+    "HERBELLA CASTAÑEDA, PEDRO": 39
+  },
+  "dorsales_visitante": {
+    "RUIZ GUTIERREZ, GONZALO": 1,
+    "HIGUERA SAINZ, MATEO": 2,
+    "GÓMEZ NOVOA, ALBERTO": 5,
+    "OCERIN CUESTA, LUCA": 6,
+    "ARGÜESO DIAZ, PABLO": 7,
+    "MANCINA SIERRA, HUGO": 8,
+    "GARCIA BLANCO, LEO": 10,
+    "LAVIN GONZALEZ, HUGO": 12,
+    "CETKOVIC FERNANDEZ, LUKA": 14,
+    "MONDRAGON LONDOÑO, DILAN JOSUE": 18,
+    "PEROJO HERNANDO, MANUEL": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
