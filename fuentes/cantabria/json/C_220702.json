@@ -1,0 +1,277 @@
+{
+  "acta_id": "C_220702",
+  "filename": "Acta_C_220702.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 8,
+  "fecha": "09-11-2025",
+  "hora": "10:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "REAL RACING CLUB SAD A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 6,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CARRERA CHARLÓN, ANTONIO"
+  ],
+  "estadio": "Inst. Nando Yosu 3",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "VIGIL CAMPO, ALEX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "NIETO MUÑIZ, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "ALVAREZ JIMENEZ, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "RABAGO GOMEZ, MAURO",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "COLSA BARRIO, LEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "GONZALEZ PAREDES, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "NIETO MUÑIZ, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 64,
+      "jugador": "PEREZ REVUELTA, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CANALES GARCIA, ASIER",
+  "entrenador_visitante": "CUESTA MARTINEZ, RUBEN",
+  "segundo_entrenador_local": "GOMEZ ALVARO, JOSE ANTONIO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ARCE SAINZ, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARCE SAINZ, JAVIER",
+  "delegado_equipo_visitante": "SAN SEGUNDO GAUTIER, MIGUEL",
+  "titulares_local": [
+    "FERNANDEZ GOMEZ, MARIO",
+    "BARRANQUERO RUIZ, ALVARO",
+    "PALLARUELO VELAZQUEZ, ADRIAN",
+    "BUENAGA SALAS, DAVID",
+    "SOMAVILLA HERRERA, LUCAS",
+    "GONZALEZ PAREDES, AIMAR",
+    "GALBIS CEREZO, MATEO",
+    "VIGIL CAMPO, ALEX",
+    "NIETO MUÑIZ, DIEGO",
+    "FERNANDEZ GOMEZ, MATEO",
+    "IÑAN ESTEVEZ, GONZALO"
+  ],
+  "titulares_visitante": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "OCEJA ARRANZ, SIMON",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "CUEVAS RUIZ, MARCOS",
+    "ALONSO NOVAL, KENZO",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ REVUELTA, NICOLAS"
+  ],
+  "suplentes_local": [
+    "PAEZ MARIN, HEVER ADRIAN",
+    "GALBIS CEREZO, NICOLAS",
+    "ARGOITIA IGUAL, AIMAR",
+    "VIGO GARCIA, BORJA",
+    "COLSA BARRIO, LEO"
+  ],
+  "suplentes_visitante": [
+    "GUERRA CALZADA, ÁLVARO",
+    "GONZÁLEZ GÓMEZ, NICOLÁS",
+    "ACHEHBOUNE BADOURI, ADAM",
+    "PEREZ MIRANDA, IZAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ GOMEZ, MARIO",
+    "BARRANQUERO RUIZ, ALVARO",
+    "PALLARUELO VELAZQUEZ, ADRIAN",
+    "BUENAGA SALAS, DAVID",
+    "SOMAVILLA HERRERA, LUCAS",
+    "GONZALEZ PAREDES, AIMAR",
+    "GALBIS CEREZO, MATEO",
+    "VIGIL CAMPO, ALEX",
+    "NIETO MUÑIZ, DIEGO",
+    "FERNANDEZ GOMEZ, MATEO",
+    "IÑAN ESTEVEZ, GONZALO",
+    "PAEZ MARIN, HEVER ADRIAN",
+    "GALBIS CEREZO, NICOLAS",
+    "VIGO GARCIA, BORJA",
+    "ARGOITIA IGUAL, AIMAR",
+    "COLSA BARRIO, LEO"
+  ],
+  "jugadores_visitante": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "OCEJA ARRANZ, SIMON",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "CUEVAS RUIZ, MARCOS",
+    "ALONSO NOVAL, KENZO",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ REVUELTA, NICOLAS",
+    "ACHEHBOUNE BADOURI, ADAM",
+    "PEREZ MIRANDA, IZAN",
+    "GUERRA CALZADA, ÁLVARO",
+    "GONZÁLEZ GÓMEZ, NICOLÁS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "PAEZ MARIN, HEVER ADRIAN",
+      "sale": "FERNANDEZ GOMEZ, MARIO"
+    },
+    {
+      "min": 35,
+      "entra": "GALBIS CEREZO, NICOLAS",
+      "sale": "BARRANQUERO RUIZ, ALVARO"
+    },
+    {
+      "min": 35,
+      "entra": "VIGO GARCIA, BORJA",
+      "sale": "SOMAVILLA HERRERA, LUCAS"
+    },
+    {
+      "min": 35,
+      "entra": "ARGOITIA IGUAL, AIMAR",
+      "sale": "GALBIS CEREZO, MATEO"
+    },
+    {
+      "min": 35,
+      "entra": "COLSA BARRIO, LEO",
+      "sale": "IÑAN ESTEVEZ, GONZALO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "ACHEHBOUNE BADOURI, ADAM",
+      "sale": "MORENO FERNANDEZ, HECTOR"
+    },
+    {
+      "min": 41,
+      "entra": "PEREZ MIRANDA, IZAN",
+      "sale": "CUEVAS RUIZ, MARCOS"
+    },
+    {
+      "min": 45,
+      "entra": "GUERRA CALZADA, ÁLVARO",
+      "sale": "FOMPEROSA GARCÍA, LEO"
+    },
+    {
+      "min": 66,
+      "entra": "GONZÁLEZ GÓMEZ, NICOLÁS",
+      "sale": "OCEJA ARRANZ, SIMON"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ GOMEZ, MARIO": 35,
+    "BARRANQUERO RUIZ, ALVARO": 35,
+    "PALLARUELO VELAZQUEZ, ADRIAN": 90,
+    "BUENAGA SALAS, DAVID": 90,
+    "SOMAVILLA HERRERA, LUCAS": 35,
+    "GONZALEZ PAREDES, AIMAR": 90,
+    "GALBIS CEREZO, MATEO": 35,
+    "VIGIL CAMPO, ALEX": 90,
+    "NIETO MUÑIZ, DIEGO": 90,
+    "FERNANDEZ GOMEZ, MATEO": 90,
+    "IÑAN ESTEVEZ, GONZALO": 35,
+    "PAEZ MARIN, HEVER ADRIAN": 55,
+    "GALBIS CEREZO, NICOLAS": 55,
+    "VIGO GARCIA, BORJA": 55,
+    "ARGOITIA IGUAL, AIMAR": 55,
+    "COLSA BARRIO, LEO": 55,
+    "SÁNCHEZ SÁNCHEZ, RAUL": 90,
+    "SAEZ DIAZ, NICOLAS": 90,
+    "OLANDA GONZALEZ, HUGO": 90,
+    "RABAGO GOMEZ, MAURO": 90,
+    "OCEJA ARRANZ, SIMON": 66,
+    "ALVAREZ JIMENEZ, DIEGO": 90,
+    "CUEVAS RUIZ, MARCOS": 41,
+    "ALONSO NOVAL, KENZO": 90,
+    "MORENO FERNANDEZ, HECTOR": 35,
+    "FOMPEROSA GARCÍA, LEO": 45,
+    "PEREZ REVUELTA, NICOLAS": 90,
+    "ACHEHBOUNE BADOURI, ADAM": 55,
+    "PEREZ MIRANDA, IZAN": 49,
+    "GUERRA CALZADA, ÁLVARO": 45,
+    "GONZÁLEZ GÓMEZ, NICOLÁS": 24
+  },
+  "portero_local": "FERNANDEZ GOMEZ, MARIO",
+  "portero_visitante": "SÁNCHEZ SÁNCHEZ, RAUL",
+  "dorsales_local": {
+    "FERNANDEZ GOMEZ, MARIO": 1,
+    "BARRANQUERO RUIZ, ALVARO": 2,
+    "PALLARUELO VELAZQUEZ, ADRIAN": 3,
+    "BUENAGA SALAS, DAVID": 4,
+    "SOMAVILLA HERRERA, LUCAS": 5,
+    "GONZALEZ PAREDES, AIMAR": 6,
+    "GALBIS CEREZO, MATEO": 7,
+    "VIGIL CAMPO, ALEX": 8,
+    "NIETO MUÑIZ, DIEGO": 9,
+    "FERNANDEZ GOMEZ, MATEO": 10,
+    "IÑAN ESTEVEZ, GONZALO": 11
+  },
+  "dorsales_visitante": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 13,
+    "SAEZ DIAZ, NICOLAS": 2,
+    "OLANDA GONZALEZ, HUGO": 4,
+    "RABAGO GOMEZ, MAURO": 6,
+    "OCEJA ARRANZ, SIMON": 8,
+    "ALVAREZ JIMENEZ, DIEGO": 9,
+    "CUEVAS RUIZ, MARCOS": 10,
+    "ALONSO NOVAL, KENZO": 18,
+    "MORENO FERNANDEZ, HECTOR": 19,
+    "FOMPEROSA GARCÍA, LEO": 21,
+    "PEREZ REVUELTA, NICOLAS": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
