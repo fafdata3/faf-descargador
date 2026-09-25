@@ -1,0 +1,264 @@
+{
+  "acta_id": "C_220648",
+  "filename": "Acta_C_220648.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 2,
+  "fecha": "27-09-2025",
+  "hora": "10:50",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. REVILLA A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CADELO CIMIANO, SERGIO"
+  ],
+  "estadio": "Revilla",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 37,
+      "jugador": "MENDARO TERAN, LUIS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "ORSOLINI PALENCIA, MARIO",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "MENDARO TERAN, LUIS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "LOPEZ SAMANIEGO, FEDERICO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "R.S. GIMNASTICA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALVAREZ CARRASCO, OSCAR E",
+  "entrenador_visitante": "URSUGUIA PELAEZ, ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HOZ MUÑOZ, JOSE ALBERTO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "ARCE GONZALEZ, JAIME",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "PATIÑO OREJUELA, DAVID",
+    "ANDERICA BALAGUER, MARIO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "STOCKER LAYA, EVAN",
+    "HORRILLO CAÑEDO, ALEX",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "CHAO VAL, YERAY"
+  ],
+  "titulares_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MIER MONTES, ADRIAN",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "FERNANDEZ TOMAS, ALVARO",
+    "GOMEZ SANCHEZ, MARC",
+    "CIEZA PEREZ, ASIER",
+    "MENDARO TERAN, LUIS",
+    "RODICIO DE LA GRANJA, ANDRÉS",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "IGLESIAS SANTIAGO, JULEN",
+    "ABARRATEGUI GONZÁLEZ, JAIME"
+  ],
+  "suplentes_local": [
+    "TORRE EXPOSITO, MARCO",
+    "JUANGO HERRERIA, ALVARO",
+    "ALONSO IGLESIAS, MATEO",
+    "PEROJO HERNANDO, MANUEL",
+    "RUIZ MARTINEZ, JULEN"
+  ],
+  "suplentes_visitante": [
+    "ORSOLINI PALENCIA, MARIO",
+    "LUQUE MARTINEZ, AIMAR",
+    "RUIZ LOBETO, IZAN",
+    "SANCHEZ CUEVAS, SERGIO",
+    "MOUSSAID, MOHAMED AMIR"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARCE GONZALEZ, JAIME",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "PATIÑO OREJUELA, DAVID",
+    "ANDERICA BALAGUER, MARIO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "STOCKER LAYA, EVAN",
+    "HORRILLO CAÑEDO, ALEX",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "CHAO VAL, YERAY",
+    "TORRE EXPOSITO, MARCO",
+    "RUIZ MARTINEZ, JULEN",
+    "JUANGO HERRERIA, ALVARO",
+    "ALONSO IGLESIAS, MATEO",
+    "PEROJO HERNANDO, MANUEL"
+  ],
+  "jugadores_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MIER MONTES, ADRIAN",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "FERNANDEZ TOMAS, ALVARO",
+    "GOMEZ SANCHEZ, MARC",
+    "CIEZA PEREZ, ASIER",
+    "MENDARO TERAN, LUIS",
+    "RODICIO DE LA GRANJA, ANDRÉS",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "IGLESIAS SANTIAGO, JULEN",
+    "ABARRATEGUI GONZÁLEZ, JAIME",
+    "ORSOLINI PALENCIA, MARIO",
+    "SANCHEZ CUEVAS, SERGIO",
+    "RUIZ LOBETO, IZAN",
+    "LUQUE MARTINEZ, AIMAR",
+    "MOUSSAID, MOHAMED AMIR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "TORRE EXPOSITO, MARCO",
+      "sale": "ARCE GONZALEZ, JAIME"
+    },
+    {
+      "min": 40,
+      "entra": "RUIZ MARTINEZ, JULEN",
+      "sale": "HORRILLO CAÑEDO, ALEX"
+    },
+    {
+      "min": 40,
+      "entra": "JUANGO HERRERIA, ALVARO",
+      "sale": "VAQUERO IGLESIAS, MIGUEL"
+    },
+    {
+      "min": 40,
+      "entra": "ALONSO IGLESIAS, MATEO",
+      "sale": "REBOLLEDO GARCIA, OLIVER"
+    },
+    {
+      "min": 48,
+      "entra": "PEROJO HERNANDO, MANUEL",
+      "sale": "ANDERICA BALAGUER, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "ORSOLINI PALENCIA, MARIO",
+      "sale": "TRIGO SANTOS, ALEJANDRO"
+    },
+    {
+      "min": 40,
+      "entra": "SANCHEZ CUEVAS, SERGIO",
+      "sale": "RODICIO DE LA GRANJA, ANDRÉS"
+    },
+    {
+      "min": 48,
+      "entra": "RUIZ LOBETO, IZAN",
+      "sale": "ABARRATEGUI GONZÁLEZ, JAIME"
+    },
+    {
+      "min": 48,
+      "entra": "LUQUE MARTINEZ, AIMAR",
+      "sale": "CIEZA PEREZ, ASIER"
+    },
+    {
+      "min": 61,
+      "entra": "MOUSSAID, MOHAMED AMIR",
+      "sale": "MAYORDOMO NAVARRO, CRISTIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARCE GONZALEZ, JAIME": 35,
+    "JIMENEZ GALDIANO, HUGO": 90,
+    "LOPEZ SAMANIEGO, FEDERICO": 90,
+    "GUTIERREZ NEGRAL, YAGO": 90,
+    "PATIÑO OREJUELA, DAVID": 90,
+    "ANDERICA BALAGUER, MARIO": 48,
+    "REBOLLEDO GARCIA, OLIVER": 40,
+    "STOCKER LAYA, EVAN": 90,
+    "HORRILLO CAÑEDO, ALEX": 40,
+    "VAQUERO IGLESIAS, MIGUEL": 40,
+    "CHAO VAL, YERAY": 90,
+    "TORRE EXPOSITO, MARCO": 55,
+    "RUIZ MARTINEZ, JULEN": 50,
+    "JUANGO HERRERIA, ALVARO": 50,
+    "ALONSO IGLESIAS, MATEO": 50,
+    "PEROJO HERNANDO, MANUEL": 42,
+    "TRIGO SANTOS, ALEJANDRO": 35,
+    "MIER MONTES, ADRIAN": 90,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 90,
+    "FERNANDEZ TOMAS, ALVARO": 90,
+    "GOMEZ SANCHEZ, MARC": 90,
+    "CIEZA PEREZ, ASIER": 48,
+    "MENDARO TERAN, LUIS": 90,
+    "RODICIO DE LA GRANJA, ANDRÉS": 40,
+    "MAYORDOMO NAVARRO, CRISTIAN": 61,
+    "IGLESIAS SANTIAGO, JULEN": 90,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 48,
+    "ORSOLINI PALENCIA, MARIO": 55,
+    "SANCHEZ CUEVAS, SERGIO": 50,
+    "RUIZ LOBETO, IZAN": 42,
+    "LUQUE MARTINEZ, AIMAR": 42,
+    "MOUSSAID, MOHAMED AMIR": 29
+  },
+  "portero_local": "ARCE GONZALEZ, JAIME",
+  "portero_visitante": "TRIGO SANTOS, ALEJANDRO",
+  "dorsales_local": {
+    "ARCE GONZALEZ, JAIME": 13,
+    "JIMENEZ GALDIANO, HUGO": 2,
+    "LOPEZ SAMANIEGO, FEDERICO": 3,
+    "GUTIERREZ NEGRAL, YAGO": 5,
+    "PATIÑO OREJUELA, DAVID": 7,
+    "ANDERICA BALAGUER, MARIO": 8,
+    "REBOLLEDO GARCIA, OLIVER": 10,
+    "STOCKER LAYA, EVAN": 14,
+    "HORRILLO CAÑEDO, ALEX": 16,
+    "VAQUERO IGLESIAS, MIGUEL": 17,
+    "CHAO VAL, YERAY": 24
+  },
+  "dorsales_visitante": {
+    "TRIGO SANTOS, ALEJANDRO": 1,
+    "MIER MONTES, ADRIAN": 3,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 4,
+    "FERNANDEZ TOMAS, ALVARO": 5,
+    "GOMEZ SANCHEZ, MARC": 6,
+    "CIEZA PEREZ, ASIER": 8,
+    "MENDARO TERAN, LUIS": 11,
+    "RODICIO DE LA GRANJA, ANDRÉS": 16,
+    "MAYORDOMO NAVARRO, CRISTIAN": 18,
+    "IGLESIAS SANTIAGO, JULEN": 19,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
