@@ -1,0 +1,280 @@
+{
+  "acta_id": "C_240276",
+  "filename": "Acta_C_240276.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "11:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. REVILLA A",
+  "equipo_visitante": "REAL RACING CLUB SAD B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CADELO CIMIANO, SERGIO"
+  ],
+  "estadio": "Revilla",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 34,
+      "jugador": "BARRANQUERO RUIZ, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "FUENTES BLANCO, FABIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "SOMAVILLA HERRERA, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 43,
+      "jugador": "ALONSO GARCIA, ADRIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "CAVADA MARTIN, IZAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "BASCONCILLOS FERNANDEZ, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "REAL RACING CLUB SAD B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "NIETO MUÑIZ, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "REVUELTA SOTO, ANDRES",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LIMON CONEJO, ANTONIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LIMON CONEJO, ANTONIO",
+  "delegado_equipo_visitante": "LOSADA FEIJOO, PABLO",
+  "titulares_local": [
+    "SETIEN FLORANES, ANDRES",
+    "BASCONCILLOS FERNANDEZ, ALEJANDRO",
+    "ABERASTURI COZAR, NICOLAS",
+    "CUEVAS POSADA, SERGIO",
+    "MARCOS CIMIANO, HUGO",
+    "FUENTES BLANCO, FABIO",
+    "LAREDO PELLON, NICO",
+    "LLATA OROBIO, MARIO",
+    "CASTRO RUIZ, ALEX",
+    "ALONSO GARCIA, ADRIEL",
+    "DELGADO CASTRILLO, FELIPE"
+  ],
+  "titulares_visitante": [
+    "PAEZ MARIN, HEVER ADRIAN",
+    "BARRANQUERO RUIZ, ALVARO",
+    "PÉREZ BARQUIN, ALEIX",
+    "CRESPO FRECHOSO, VICTOR",
+    "BUENAGA SALAS, DAVID",
+    "ARGOITIA IGUAL, AIMAR",
+    "SALAS DEL RIO, HUGO",
+    "GONZALEZ PAREDES, AIMAR",
+    "CORTABITARTE SOBERON, HERNAN",
+    "COLSA BARRIO, LEO",
+    "FERNANDEZ GOMEZ, MATEO"
+  ],
+  "suplentes_local": [
+    "VAZQUEZ VILLALBA, ALEX",
+    "CAMPO SORIANO, ALEJANDRO",
+    "CAVADA MARTIN, IZAN",
+    "CAMARENA DELAFUENTE, JAVIER",
+    "JUANGO MARTINEZ, DARIO"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ GOMEZ, MARIO",
+    "GALBIS CEREZO, MATEO",
+    "SOMAVILLA HERRERA, LUCAS",
+    "NIETO MUÑIZ, DIEGO",
+    "IÑAN ESTEVEZ, GONZALO"
+  ],
+  "convocados_sin_jugar_local": [
+    "VAZQUEZ VILLALBA, ALEX"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SETIEN FLORANES, ANDRES",
+    "BASCONCILLOS FERNANDEZ, ALEJANDRO",
+    "ABERASTURI COZAR, NICOLAS",
+    "CUEVAS POSADA, SERGIO",
+    "MARCOS CIMIANO, HUGO",
+    "FUENTES BLANCO, FABIO",
+    "LAREDO PELLON, NICO",
+    "LLATA OROBIO, MARIO",
+    "CASTRO RUIZ, ALEX",
+    "ALONSO GARCIA, ADRIEL",
+    "DELGADO CASTRILLO, FELIPE",
+    "CAMARENA DELAFUENTE, JAVIER",
+    "CAMPO SORIANO, ALEJANDRO",
+    "CAVADA MARTIN, IZAN",
+    "JUANGO MARTINEZ, DARIO"
+  ],
+  "jugadores_visitante": [
+    "PAEZ MARIN, HEVER ADRIAN",
+    "BARRANQUERO RUIZ, ALVARO",
+    "PÉREZ BARQUIN, ALEIX",
+    "CRESPO FRECHOSO, VICTOR",
+    "BUENAGA SALAS, DAVID",
+    "ARGOITIA IGUAL, AIMAR",
+    "SALAS DEL RIO, HUGO",
+    "GONZALEZ PAREDES, AIMAR",
+    "CORTABITARTE SOBERON, HERNAN",
+    "COLSA BARRIO, LEO",
+    "FERNANDEZ GOMEZ, MATEO",
+    "FERNANDEZ GOMEZ, MARIO",
+    "SOMAVILLA HERRERA, LUCAS",
+    "NIETO MUÑIZ, DIEGO",
+    "GALBIS CEREZO, MATEO",
+    "IÑAN ESTEVEZ, GONZALO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "CAMARENA DELAFUENTE, JAVIER",
+      "sale": "CASTRO RUIZ, ALEX"
+    },
+    {
+      "min": 55,
+      "entra": "CAMPO SORIANO, ALEJANDRO",
+      "sale": "ALONSO GARCIA, ADRIEL"
+    },
+    {
+      "min": 58,
+      "entra": "CAVADA MARTIN, IZAN",
+      "sale": "LAREDO PELLON, NICO"
+    },
+    {
+      "min": 63,
+      "entra": "JUANGO MARTINEZ, DARIO",
+      "sale": "FUENTES BLANCO, FABIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "FERNANDEZ GOMEZ, MARIO",
+      "sale": "PAEZ MARIN, HEVER ADRIAN"
+    },
+    {
+      "min": 47,
+      "entra": "SOMAVILLA HERRERA, LUCAS",
+      "sale": "PÉREZ BARQUIN, ALEIX"
+    },
+    {
+      "min": 47,
+      "entra": "NIETO MUÑIZ, DIEGO",
+      "sale": "COLSA BARRIO, LEO"
+    },
+    {
+      "min": 55,
+      "entra": "GALBIS CEREZO, MATEO",
+      "sale": "FERNANDEZ GOMEZ, MATEO"
+    },
+    {
+      "min": 55,
+      "entra": "IÑAN ESTEVEZ, GONZALO",
+      "sale": "CORTABITARTE SOBERON, HERNAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "SETIEN FLORANES, ANDRES": 90,
+    "BASCONCILLOS FERNANDEZ, ALEJANDRO": 90,
+    "ABERASTURI COZAR, NICOLAS": 90,
+    "CUEVAS POSADA, SERGIO": 90,
+    "MARCOS CIMIANO, HUGO": 90,
+    "FUENTES BLANCO, FABIO": 63,
+    "LAREDO PELLON, NICO": 58,
+    "LLATA OROBIO, MARIO": 90,
+    "CASTRO RUIZ, ALEX": 55,
+    "ALONSO GARCIA, ADRIEL": 55,
+    "DELGADO CASTRILLO, FELIPE": 90,
+    "CAMARENA DELAFUENTE, JAVIER": 35,
+    "CAMPO SORIANO, ALEJANDRO": 35,
+    "CAVADA MARTIN, IZAN": 32,
+    "JUANGO MARTINEZ, DARIO": 27,
+    "PAEZ MARIN, HEVER ADRIAN": 40,
+    "BARRANQUERO RUIZ, ALVARO": 90,
+    "PÉREZ BARQUIN, ALEIX": 47,
+    "CRESPO FRECHOSO, VICTOR": 90,
+    "BUENAGA SALAS, DAVID": 90,
+    "ARGOITIA IGUAL, AIMAR": 90,
+    "SALAS DEL RIO, HUGO": 90,
+    "GONZALEZ PAREDES, AIMAR": 90,
+    "CORTABITARTE SOBERON, HERNAN": 55,
+    "COLSA BARRIO, LEO": 47,
+    "FERNANDEZ GOMEZ, MATEO": 55,
+    "FERNANDEZ GOMEZ, MARIO": 50,
+    "SOMAVILLA HERRERA, LUCAS": 43,
+    "NIETO MUÑIZ, DIEGO": 43,
+    "GALBIS CEREZO, MATEO": 35,
+    "IÑAN ESTEVEZ, GONZALO": 35
+  },
+  "portero_local": "SETIEN FLORANES, ANDRES",
+  "portero_visitante": "PAEZ MARIN, HEVER ADRIAN",
+  "dorsales_local": {
+    "SETIEN FLORANES, ANDRES": 1,
+    "BASCONCILLOS FERNANDEZ, ALEJANDRO": 2,
+    "ABERASTURI COZAR, NICOLAS": 3,
+    "CUEVAS POSADA, SERGIO": 4,
+    "MARCOS CIMIANO, HUGO": 6,
+    "FUENTES BLANCO, FABIO": 9,
+    "LAREDO PELLON, NICO": 10,
+    "LLATA OROBIO, MARIO": 11,
+    "CASTRO RUIZ, ALEX": 14,
+    "ALONSO GARCIA, ADRIEL": 20,
+    "DELGADO CASTRILLO, FELIPE": 22
+  },
+  "dorsales_visitante": {
+    "PAEZ MARIN, HEVER ADRIAN": 1,
+    "BARRANQUERO RUIZ, ALVARO": 2,
+    "PÉREZ BARQUIN, ALEIX": 3,
+    "CRESPO FRECHOSO, VICTOR": 4,
+    "BUENAGA SALAS, DAVID": 5,
+    "ARGOITIA IGUAL, AIMAR": 6,
+    "SALAS DEL RIO, HUGO": 7,
+    "GONZALEZ PAREDES, AIMAR": 8,
+    "CORTABITARTE SOBERON, HERNAN": 9,
+    "COLSA BARRIO, LEO": 10,
+    "FERNANDEZ GOMEZ, MATEO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
