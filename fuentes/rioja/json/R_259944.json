@@ -1,0 +1,341 @@
+{
+  "acta_id": "R_259944",
+  "filename": "Acta_R_259944.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "19-09-2026",
+  "hora": "18:00",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "NÁXARA",
+  "equipo_visitante": "VALVANERA",
+  "goles_local": 2,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MAKHLOUFI AKKAOUI, YOUSSEF",
+    "Árbitro Asistente",
+    "GEN FERNANDEZ, GABRIEL",
+    "Árbitro Asistente",
+    "PASCUAL RUIZ, PAULA"
+  ],
+  "estadio": "C.M. LA SALERA (NAJERA)",
+  "ciudad": "Nájera",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "CANO ROSALES, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 14,
+      "jugador": "SALAS SANTAMARIA, JORGE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "GARCIA FERNANDEZ, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "CALATAYUD LAHERA, IGNACIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "ROJO MARTINEZ, ALEX",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "ITURRIAGA BRETON, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "BARAHONA SATORRE, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "FERNANDEZ PEREZ, IVAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "ROJO MARTINEZ, ALEX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "CASTRESANA BARRON, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "OLANO ESPIGA, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "VALVANERA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "DIAZ C MENDOZA, SERGIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 87,
+      "jugador": "ANGULO URRECHO, ANGEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "NAVAS SANCHEZ, GONZALO",
+  "entrenador_visitante": "DIAZ C MENDOZA, SERGIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "FERNANDEZ GODOY, ORLANDO JOSE ARNALDO",
+  "delegado_campo_local": "GARCIA HERNANDO, ANDRES",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CASTROVIEJO ELVIRA, LUIS M",
+  "delegado_equipo_visitante": "RUIZ CUADRA, OSCAR",
+  "titulares_local": [
+    "GARCIA RUBIO, GINES",
+    "GUTIERREZ NIETO, JAVIER",
+    "ROJO MARTINEZ, ALEX",
+    "POLO BERNAL, PABLO",
+    "SANTOS PASCUAL, ADRIAN",
+    "CANO ROSALES, LUCAS",
+    "CASTRESANA BARRON, ALVARO",
+    "FERNANDEZ PEREZ, IVAN",
+    "CALATAYUD LAHERA, IGNACIO",
+    "RODRIGUEZ SAEZ, IVAN",
+    "LARHLID LARHLID, ACHRAF"
+  ],
+  "titulares_visitante": [
+    "PEREZ GUINEA, CARLOS",
+    "ANGULO URRECHO, ANGEL",
+    "TEJADA SANTOLAYA, IZAN",
+    "BARAHONA SATORRE, UNAI",
+    "GARCIA FERNANDEZ, IVAN",
+    "SALAS SANTAMARIA, JORGE",
+    "HERAS TERROBA, ALEX",
+    "MARQUES DA SILVA, PEDRO MIGUEL",
+    "SANCHEZ GOROSTIZA, JORGE",
+    "RUIZ MARTIN, IVAN",
+    "SOUSA GRAFF, VALENTINO O"
+  ],
+  "suplentes_local": [
+    "CENTENO BAJO, JUAN P",
+    "OLANO ESPIGA, PABLO",
+    "ESQUIDE MARTINEZ, CESAR",
+    "SCARCELLA FERRER, LUCA",
+    "ANDREI, ARTUR DENIS",
+    "LITIM LARHLID, MOHAMMED",
+    "MARTINEZ MENDOZA, OSCAR"
+  ],
+  "suplentes_visitante": [
+    "ANTOLIN VENTURINI, DANIEL",
+    "MUÑOZ CHAVEZ, ANGELO",
+    "ITURRIAGA BRETON, LUCAS",
+    "FERNANDEZ IBAÑEZ, JORGE",
+    "BARRUETABEÑA SANCHEZ, KENAI",
+    "RUIZ BASTIDA, FERNANDO",
+    "DIEZ BAQUERO, CESAR"
+  ],
+  "convocados_sin_jugar_local": [
+    "CENTENO BAJO, JUAN P",
+    "ANDREI, ARTUR DENIS"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ANTOLIN VENTURINI, DANIEL",
+    "DIEZ BAQUERO, CESAR"
+  ],
+  "jugadores_local": [
+    "GARCIA RUBIO, GINES",
+    "GUTIERREZ NIETO, JAVIER",
+    "ROJO MARTINEZ, ALEX",
+    "POLO BERNAL, PABLO",
+    "SANTOS PASCUAL, ADRIAN",
+    "CANO ROSALES, LUCAS",
+    "CASTRESANA BARRON, ALVARO",
+    "FERNANDEZ PEREZ, IVAN",
+    "CALATAYUD LAHERA, IGNACIO",
+    "RODRIGUEZ SAEZ, IVAN",
+    "LARHLID LARHLID, ACHRAF",
+    "LITIM LARHLID, MOHAMMED",
+    "SCARCELLA FERRER, LUCA",
+    "ESQUIDE MARTINEZ, CESAR",
+    "MARTINEZ MENDOZA, OSCAR",
+    "OLANO ESPIGA, PABLO"
+  ],
+  "jugadores_visitante": [
+    "PEREZ GUINEA, CARLOS",
+    "ANGULO URRECHO, ANGEL",
+    "TEJADA SANTOLAYA, IZAN",
+    "BARAHONA SATORRE, UNAI",
+    "GARCIA FERNANDEZ, IVAN",
+    "SALAS SANTAMARIA, JORGE",
+    "HERAS TERROBA, ALEX",
+    "MARQUES DA SILVA, PEDRO MIGUEL",
+    "SANCHEZ GOROSTIZA, JORGE",
+    "RUIZ MARTIN, IVAN",
+    "SOUSA GRAFF, VALENTINO O",
+    "ITURRIAGA BRETON, LUCAS",
+    "RUIZ BASTIDA, FERNANDO",
+    "FERNANDEZ IBAÑEZ, JORGE",
+    "MUÑOZ CHAVEZ, ANGELO",
+    "BARRUETABEÑA SANCHEZ, KENAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 61,
+      "entra": "LITIM LARHLID, MOHAMMED",
+      "sale": "LARHLID LARHLID, ACHRAF"
+    },
+    {
+      "min": 71,
+      "entra": "SCARCELLA FERRER, LUCA",
+      "sale": "CASTRESANA BARRON, ALVARO"
+    },
+    {
+      "min": 71,
+      "entra": "ESQUIDE MARTINEZ, CESAR",
+      "sale": "CANO ROSALES, LUCAS"
+    },
+    {
+      "min": 71,
+      "entra": "MARTINEZ MENDOZA, OSCAR",
+      "sale": "GUTIERREZ NIETO, JAVIER"
+    },
+    {
+      "min": 78,
+      "entra": "OLANO ESPIGA, PABLO",
+      "sale": "POLO BERNAL, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 67,
+      "entra": "ITURRIAGA BRETON, LUCAS",
+      "sale": "HERAS TERROBA, ALEX"
+    },
+    {
+      "min": 78,
+      "entra": "RUIZ BASTIDA, FERNANDO",
+      "sale": "GARCIA FERNANDEZ, IVAN"
+    },
+    {
+      "min": 78,
+      "entra": "FERNANDEZ IBAÑEZ, JORGE",
+      "sale": "TEJADA SANTOLAYA, IZAN"
+    },
+    {
+      "min": 83,
+      "entra": "MUÑOZ CHAVEZ, ANGELO",
+      "sale": "RUIZ MARTIN, IVAN"
+    },
+    {
+      "min": 83,
+      "entra": "BARRUETABEÑA SANCHEZ, KENAI",
+      "sale": "MARQUES DA SILVA, PEDRO MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA RUBIO, GINES": 90,
+    "GUTIERREZ NIETO, JAVIER": 71,
+    "ROJO MARTINEZ, ALEX": 90,
+    "POLO BERNAL, PABLO": 78,
+    "SANTOS PASCUAL, ADRIAN": 90,
+    "CANO ROSALES, LUCAS": 71,
+    "CASTRESANA BARRON, ALVARO": 71,
+    "FERNANDEZ PEREZ, IVAN": 90,
+    "CALATAYUD LAHERA, IGNACIO": 90,
+    "RODRIGUEZ SAEZ, IVAN": 90,
+    "LARHLID LARHLID, ACHRAF": 61,
+    "LITIM LARHLID, MOHAMMED": 29,
+    "SCARCELLA FERRER, LUCA": 19,
+    "ESQUIDE MARTINEZ, CESAR": 19,
+    "MARTINEZ MENDOZA, OSCAR": 19,
+    "OLANO ESPIGA, PABLO": 12,
+    "PEREZ GUINEA, CARLOS": 90,
+    "ANGULO URRECHO, ANGEL": 90,
+    "TEJADA SANTOLAYA, IZAN": 78,
+    "BARAHONA SATORRE, UNAI": 90,
+    "GARCIA FERNANDEZ, IVAN": 78,
+    "SALAS SANTAMARIA, JORGE": 90,
+    "HERAS TERROBA, ALEX": 67,
+    "MARQUES DA SILVA, PEDRO MIGUEL": 83,
+    "SANCHEZ GOROSTIZA, JORGE": 90,
+    "RUIZ MARTIN, IVAN": 83,
+    "SOUSA GRAFF, VALENTINO O": 90,
+    "ITURRIAGA BRETON, LUCAS": 23,
+    "RUIZ BASTIDA, FERNANDO": 12,
+    "FERNANDEZ IBAÑEZ, JORGE": 12,
+    "MUÑOZ CHAVEZ, ANGELO": 7,
+    "BARRUETABEÑA SANCHEZ, KENAI": 7
+  },
+  "portero_local": "GARCIA RUBIO, GINES",
+  "portero_visitante": "PEREZ GUINEA, CARLOS",
+  "dorsales_local": {
+    "GARCIA RUBIO, GINES": 1,
+    "GUTIERREZ NIETO, JAVIER": 2,
+    "ROJO MARTINEZ, ALEX": 4,
+    "POLO BERNAL, PABLO": 5,
+    "SANTOS PASCUAL, ADRIAN": 6,
+    "CANO ROSALES, LUCAS": 7,
+    "CASTRESANA BARRON, ALVARO": 8,
+    "FERNANDEZ PEREZ, IVAN": 9,
+    "CALATAYUD LAHERA, IGNACIO": 10,
+    "RODRIGUEZ SAEZ, IVAN": 15,
+    "LARHLID LARHLID, ACHRAF": 19
+  },
+  "dorsales_visitante": {
+    "PEREZ GUINEA, CARLOS": 13,
+    "ANGULO URRECHO, ANGEL": 2,
+    "TEJADA SANTOLAYA, IZAN": 4,
+    "BARAHONA SATORRE, UNAI": 5,
+    "GARCIA FERNANDEZ, IVAN": 7,
+    "SALAS SANTAMARIA, JORGE": 8,
+    "HERAS TERROBA, ALEX": 10,
+    "MARQUES DA SILVA, PEDRO MIGUEL": 11,
+    "SANCHEZ GOROSTIZA, JORGE": 17,
+    "RUIZ MARTIN, IVAN": 18,
+    "SOUSA GRAFF, VALENTINO O": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
