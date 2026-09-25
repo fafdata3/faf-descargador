@@ -1,0 +1,242 @@
+{
+  "acta_id": "C_220646",
+  "filename": "Acta_C_220646.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "20-09-2025",
+  "hora": "16:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "VELARDE C.F. A",
+  "equipo_visitante": "C.D. TROPEZON A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GUTIÉRREZ ITURRIOZ, MARTÍN"
+  ],
+  "estadio": "Muriedas 2",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "PEÑA GONZALEZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "HOYOS ORTEGA, LUCA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "ROJO AROZAMENA, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "DE ANDRÉS ORDIEREZ, RUBÉN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 68,
+      "jugador": "DOS REIS REYES, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SALCINES PRIETO, LUIS FELIPE",
+  "entrenador_visitante": "DEL CASTILLO RUIZ, FRANCISCO JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTINEZ CASTRO, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ CASTRO, DANIEL",
+  "delegado_equipo_visitante": "LAMO MOLINA, JUAN ANTONIO",
+  "titulares_local": [
+    "SALCINES ZARCO, AYMAR",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "PEREZ VILLA, DAVID",
+    "MUÑOZ SIERRA, HECTOR",
+    "HOYOS ORTEGA, LUCA"
+  ],
+  "titulares_visitante": [
+    "RUIZ TROUILE, JAIRO",
+    "GUTIERREZ MANTECON, MIKEL",
+    "CASTILLO MONTES, ALEJANDRO",
+    "SASIAN PEREZ, DIEGO",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "HOYOS ALUNDA, JOSE ANTONIO",
+    "DOS REIS REYES, ANDER"
+  ],
+  "suplentes_local": [
+    "FRANCO RIEGO, LUCAS",
+    "MARTINEZ GONZALEZ, DANIEL",
+    "SANCHEZ SOTO, MATEO",
+    "PAÑEDA BOLADO, JOSE ANGEL"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ BLANCO, JORGE",
+    "MARTINEZ GARCIA, IAN",
+    "SALDARRIAGA VARELA, LEONARDO",
+    "GUERRA GONZALEZ, JACOBO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "FERNANDEZ BLANCO, JORGE"
+  ],
+  "jugadores_local": [
+    "SALCINES ZARCO, AYMAR",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "PEREZ VILLA, DAVID",
+    "MUÑOZ SIERRA, HECTOR",
+    "HOYOS ORTEGA, LUCA",
+    "PAÑEDA BOLADO, JOSE ANGEL",
+    "FRANCO RIEGO, LUCAS",
+    "SANCHEZ SOTO, MATEO",
+    "MARTINEZ GONZALEZ, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "RUIZ TROUILE, JAIRO",
+    "GUTIERREZ MANTECON, MIKEL",
+    "CASTILLO MONTES, ALEJANDRO",
+    "SASIAN PEREZ, DIEGO",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "HOYOS ALUNDA, JOSE ANTONIO",
+    "DOS REIS REYES, ANDER",
+    "GUERRA GONZALEZ, JACOBO",
+    "MARTINEZ GARCIA, IAN",
+    "SALDARRIAGA VARELA, LEONARDO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 47,
+      "entra": "PAÑEDA BOLADO, JOSE ANGEL",
+      "sale": "ARCE ABASCAL, DIEGO"
+    },
+    {
+      "min": 47,
+      "entra": "FRANCO RIEGO, LUCAS",
+      "sale": "MUÑOZ SIERRA, HECTOR"
+    },
+    {
+      "min": 53,
+      "entra": "SANCHEZ SOTO, MATEO",
+      "sale": "PEÑA GONZALEZ, ALVARO"
+    },
+    {
+      "min": 60,
+      "entra": "MARTINEZ GONZALEZ, DANIEL",
+      "sale": "DIEZ GARCIA, MATEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 6,
+      "entra": "GUERRA GONZALEZ, JACOBO",
+      "sale": "COSSIO DELGADO, MARCO"
+    },
+    {
+      "min": 47,
+      "entra": "MARTINEZ GARCIA, IAN",
+      "sale": "GUTIERREZ MANTECON, MIKEL"
+    },
+    {
+      "min": 47,
+      "entra": "SALDARRIAGA VARELA, LEONARDO",
+      "sale": "HOYOS ALUNDA, JOSE ANTONIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "SALCINES ZARCO, AYMAR": 90,
+    "MUÑOZ MORA, HUGO": 90,
+    "RUIZ MUÑIZ, MARIO": 90,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 90,
+    "BARBA AGENJO, DARIO": 90,
+    "ARCE ABASCAL, DIEGO": 47,
+    "DIEZ GARCIA, MATEO": 60,
+    "PEÑA GONZALEZ, ALVARO": 53,
+    "PEREZ VILLA, DAVID": 90,
+    "MUÑOZ SIERRA, HECTOR": 47,
+    "HOYOS ORTEGA, LUCA": 90,
+    "PAÑEDA BOLADO, JOSE ANGEL": 43,
+    "FRANCO RIEGO, LUCAS": 43,
+    "SANCHEZ SOTO, MATEO": 37,
+    "MARTINEZ GONZALEZ, DANIEL": 30,
+    "RUIZ TROUILE, JAIRO": 90,
+    "GUTIERREZ MANTECON, MIKEL": 47,
+    "CASTILLO MONTES, ALEJANDRO": 90,
+    "SASIAN PEREZ, DIEGO": 90,
+    "BUENO GARCIA, IAN": 90,
+    "ITURBE ACEBAL, DIEGO": 90,
+    "ROJO AROZAMENA, DAVID": 90,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 90,
+    "COSSIO DELGADO, MARCO": 6,
+    "HOYOS ALUNDA, JOSE ANTONIO": 47,
+    "DOS REIS REYES, ANDER": 90,
+    "GUERRA GONZALEZ, JACOBO": 84,
+    "MARTINEZ GARCIA, IAN": 43,
+    "SALDARRIAGA VARELA, LEONARDO": 43
+  },
+  "portero_local": "SALCINES ZARCO, AYMAR",
+  "portero_visitante": "RUIZ TROUILE, JAIRO",
+  "dorsales_local": {
+    "SALCINES ZARCO, AYMAR": 1,
+    "MUÑOZ MORA, HUGO": 3,
+    "RUIZ MUÑIZ, MARIO": 4,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 5,
+    "BARBA AGENJO, DARIO": 6,
+    "ARCE ABASCAL, DIEGO": 7,
+    "DIEZ GARCIA, MATEO": 8,
+    "PEÑA GONZALEZ, ALVARO": 9,
+    "PEREZ VILLA, DAVID": 15,
+    "MUÑOZ SIERRA, HECTOR": 17,
+    "HOYOS ORTEGA, LUCA": 20
+  },
+  "dorsales_visitante": {
+    "RUIZ TROUILE, JAIRO": 13,
+    "GUTIERREZ MANTECON, MIKEL": 3,
+    "CASTILLO MONTES, ALEJANDRO": 4,
+    "SASIAN PEREZ, DIEGO": 5,
+    "BUENO GARCIA, IAN": 9,
+    "ITURBE ACEBAL, DIEGO": 10,
+    "ROJO AROZAMENA, DAVID": 11,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 12,
+    "COSSIO DELGADO, MARCO": 14,
+    "HOYOS ALUNDA, JOSE ANTONIO": 17,
+    "DOS REIS REYES, ANDER": 18
+  },
+  "suspendidos": []
+}
