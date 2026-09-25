@@ -1,0 +1,271 @@
+{
+  "acta_id": "C_220705",
+  "filename": "Acta_C_220705.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 9,
+  "fecha": "15-11-2025",
+  "hora": "10:45",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. REVILLA A",
+  "equipo_visitante": "CLUB BANSANDER A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MOJA DE CELIS, SERGIO"
+  ],
+  "estadio": "Revilla",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "GIL GONZALEZ, ERIC",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 9,
+      "jugador": "SALAS DEL RIO, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "SALAS DEL RIO, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "STOCKER LAYA, EVAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "CLUB BANSANDER A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 43,
+      "jugador": "MAZA CANO, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALVAREZ CARRASCO, OSCAR E",
+  "entrenador_visitante": "RIVERO LASTRE, RAFAEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "HOZ MUÑOZ, JOSE ALBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HOZ MUÑOZ, JOSE ALBERTO",
+  "delegado_equipo_visitante": "BUCSE, ALEXANDRU IONUT",
+  "titulares_local": [
+    "ARCE GONZALEZ, JAIME",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "ALONSO IGLESIAS, MATEO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "PATIÑO OREJUELA, DAVID",
+    "VAQUERO IGLESIAS, MIGUEL"
+  ],
+  "titulares_visitante": [
+    "REVUELTA FERNÁNDEZ, NECO",
+    "DEL VALLE COBO, MARTIN",
+    "QUINTANA RUIZ, ANGEL",
+    "MAZA CANO, MARTIN",
+    "SAINZ MARCHANTE, DANIEL",
+    "CORAVU, ALEX NICOLAS",
+    "LOZANO PURAS, ARNAU",
+    "FERNANDEZ LOPEZ, RAUL",
+    "CORDERO ARAMBURU, SIMON",
+    "GIL GONZALEZ, ERIC",
+    "SALAS DEL RIO, HUGO"
+  ],
+  "suplentes_local": [
+    "TORRE EXPOSITO, MARCO",
+    "PEROJO HERNANDO, MANUEL",
+    "STOCKER LAYA, EVAN",
+    "HORRILLO CAÑEDO, ALEX",
+    "RUIZ MARTINEZ, JULEN"
+  ],
+  "suplentes_visitante": [
+    "GIL MEDINA, ALEJANDRO",
+    "DIEZ CAAMAÑO, JAVIER",
+    "MARCOS PEREDO, MARIO",
+    "GONZALEZ BOLLAIN, NICOLAS",
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARCE GONZALEZ, JAIME",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "ALONSO IGLESIAS, MATEO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "PATIÑO OREJUELA, DAVID",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "TORRE EXPOSITO, MARCO",
+    "PEROJO HERNANDO, MANUEL",
+    "STOCKER LAYA, EVAN",
+    "RUIZ MARTINEZ, JULEN",
+    "HORRILLO CAÑEDO, ALEX"
+  ],
+  "jugadores_visitante": [
+    "REVUELTA FERNÁNDEZ, NECO",
+    "DEL VALLE COBO, MARTIN",
+    "QUINTANA RUIZ, ANGEL",
+    "MAZA CANO, MARTIN",
+    "SAINZ MARCHANTE, DANIEL",
+    "CORAVU, ALEX NICOLAS",
+    "LOZANO PURAS, ARNAU",
+    "FERNANDEZ LOPEZ, RAUL",
+    "CORDERO ARAMBURU, SIMON",
+    "GIL GONZALEZ, ERIC",
+    "SALAS DEL RIO, HUGO",
+    "GIL MEDINA, ALEJANDRO",
+    "GONZALEZ BOLLAIN, NICOLAS",
+    "MARCOS PEREDO, MARIO",
+    "DIEZ CAAMAÑO, JAVIER",
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "TORRE EXPOSITO, MARCO",
+      "sale": "ARCE GONZALEZ, JAIME"
+    },
+    {
+      "min": 35,
+      "entra": "PEROJO HERNANDO, MANUEL",
+      "sale": "ANDERICA BALAGUER, MARIO"
+    },
+    {
+      "min": 35,
+      "entra": "STOCKER LAYA, EVAN",
+      "sale": "ALONSO IGLESIAS, MATEO"
+    },
+    {
+      "min": 47,
+      "entra": "RUIZ MARTINEZ, JULEN",
+      "sale": "PATIÑO OREJUELA, DAVID"
+    },
+    {
+      "min": 47,
+      "entra": "HORRILLO CAÑEDO, ALEX",
+      "sale": "DIEZ VELASCO, JUAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "GIL MEDINA, ALEJANDRO",
+      "sale": "REVUELTA FERNÁNDEZ, NECO"
+    },
+    {
+      "min": 43,
+      "entra": "GONZALEZ BOLLAIN, NICOLAS",
+      "sale": "CORDERO ARAMBURU, SIMON"
+    },
+    {
+      "min": 43,
+      "entra": "MARCOS PEREDO, MARIO",
+      "sale": "DEL VALLE COBO, MARTIN"
+    },
+    {
+      "min": 43,
+      "entra": "DIEZ CAAMAÑO, JAVIER",
+      "sale": "MAZA CANO, MARTIN"
+    },
+    {
+      "min": 55,
+      "entra": "GARCIA DE LA RASILLA PALACIOS, SERGIO",
+      "sale": "GIL GONZALEZ, ERIC"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARCE GONZALEZ, JAIME": 35,
+    "JIMENEZ GALDIANO, HUGO": 90,
+    "LOPEZ SAMANIEGO, FEDERICO": 90,
+    "JUANGO HERRERIA, ALVARO": 90,
+    "GUTIERREZ NEGRAL, YAGO": 90,
+    "DIEZ VELASCO, JUAN": 47,
+    "ANDERICA BALAGUER, MARIO": 35,
+    "ALONSO IGLESIAS, MATEO": 35,
+    "REBOLLEDO GARCIA, OLIVER": 90,
+    "PATIÑO OREJUELA, DAVID": 47,
+    "VAQUERO IGLESIAS, MIGUEL": 90,
+    "TORRE EXPOSITO, MARCO": 55,
+    "PEROJO HERNANDO, MANUEL": 55,
+    "STOCKER LAYA, EVAN": 55,
+    "RUIZ MARTINEZ, JULEN": 43,
+    "HORRILLO CAÑEDO, ALEX": 43,
+    "REVUELTA FERNÁNDEZ, NECO": 35,
+    "DEL VALLE COBO, MARTIN": 43,
+    "QUINTANA RUIZ, ANGEL": 90,
+    "MAZA CANO, MARTIN": 43,
+    "SAINZ MARCHANTE, DANIEL": 90,
+    "CORAVU, ALEX NICOLAS": 90,
+    "LOZANO PURAS, ARNAU": 90,
+    "FERNANDEZ LOPEZ, RAUL": 90,
+    "CORDERO ARAMBURU, SIMON": 43,
+    "GIL GONZALEZ, ERIC": 55,
+    "SALAS DEL RIO, HUGO": 90,
+    "GIL MEDINA, ALEJANDRO": 55,
+    "GONZALEZ BOLLAIN, NICOLAS": 47,
+    "MARCOS PEREDO, MARIO": 47,
+    "DIEZ CAAMAÑO, JAVIER": 47,
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO": 35
+  },
+  "portero_local": "ARCE GONZALEZ, JAIME",
+  "portero_visitante": "REVUELTA FERNÁNDEZ, NECO",
+  "dorsales_local": {
+    "ARCE GONZALEZ, JAIME": 13,
+    "JIMENEZ GALDIANO, HUGO": 2,
+    "LOPEZ SAMANIEGO, FEDERICO": 3,
+    "JUANGO HERRERIA, ALVARO": 4,
+    "GUTIERREZ NEGRAL, YAGO": 5,
+    "DIEZ VELASCO, JUAN": 6,
+    "ANDERICA BALAGUER, MARIO": 8,
+    "ALONSO IGLESIAS, MATEO": 9,
+    "REBOLLEDO GARCIA, OLIVER": 10,
+    "PATIÑO OREJUELA, DAVID": 11,
+    "VAQUERO IGLESIAS, MIGUEL": 17
+  },
+  "dorsales_visitante": {
+    "REVUELTA FERNÁNDEZ, NECO": 1,
+    "DEL VALLE COBO, MARTIN": 2,
+    "QUINTANA RUIZ, ANGEL": 4,
+    "MAZA CANO, MARTIN": 5,
+    "SAINZ MARCHANTE, DANIEL": 6,
+    "CORAVU, ALEX NICOLAS": 7,
+    "LOZANO PURAS, ARNAU": 8,
+    "FERNANDEZ LOPEZ, RAUL": 9,
+    "CORDERO ARAMBURU, SIMON": 14,
+    "GIL GONZALEZ, ERIC": 16,
+    "SALAS DEL RIO, HUGO": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
