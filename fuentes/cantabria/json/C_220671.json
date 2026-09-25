@@ -1,0 +1,259 @@
+{
+  "acta_id": "C_220671",
+  "filename": "Acta_C_220671.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 5,
+  "fecha": "18-10-2025",
+  "hora": "11:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. REVILLA A",
+  "equipo_visitante": "C.D. MONTE A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GADEA LOPEZ, MARIO"
+  ],
+  "estadio": "Revilla",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 26,
+      "jugador": "SANCHEZ ARENAL, SANTIAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "GUTIERREZ GARCIA, FABIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "HORRILLO CAÑEDO, ALEX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "C.D. MONTE A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "GUTIERREZ GARCIA, FABIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALVAREZ CARRASCO, OSCAR E",
+  "entrenador_visitante": "SANTOS RODRIGUEZ, MIGUEL ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "HOZ MUÑOZ, JOSE ALBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HOZ MUÑOZ, JOSE ALBERTO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "TORRE EXPOSITO, MARCO",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "ALONSO IGLESIAS, MATEO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "FERRER PENAGOS, MARTÍN",
+    "CHAO VAL, YERAY"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ CAGIGAS, DIEGO",
+    "FRAILE GARCÍA, CARLOS",
+    "ANUARBE CANTERO, ANDER",
+    "RUIZ LOPEZ, LUIS",
+    "PARDO NAVA, YAGO",
+    "MEJIAS GARCIA, KEVIN",
+    "DEL RIO GONZALEZ, LUCAS",
+    "SANCHEZ ARENAL, SANTIAGO",
+    "MARTIN DIEZ, LUCAS",
+    "SAEZ ALBA, ERIK",
+    "CASCALES TORRE, BOSCO"
+  ],
+  "suplentes_local": [
+    "ARCE GONZALEZ, JAIME",
+    "DIALLO KEBE, EL HADJ MALICK",
+    "HORRILLO CAÑEDO, ALEX",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "RUIZ MARTINEZ, JULEN"
+  ],
+  "suplentes_visitante": [
+    "CALLEJO SALGUERO, HUGO",
+    "FERNANDEZ DIAZ, PABLO",
+    "GUTIERREZ GARCIA, FABIO",
+    "VILLAVERDE TORRES, FELIPE",
+    "DE JULIAN PEROJO, MATEO"
+  ],
+  "convocados_sin_jugar_local": [
+    "VAQUERO IGLESIAS, MIGUEL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "TORRE EXPOSITO, MARCO",
+    "JIMENEZ GALDIANO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "ALONSO IGLESIAS, MATEO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "FERRER PENAGOS, MARTÍN",
+    "CHAO VAL, YERAY",
+    "ARCE GONZALEZ, JAIME",
+    "DIALLO KEBE, EL HADJ MALICK",
+    "RUIZ MARTINEZ, JULEN",
+    "HORRILLO CAÑEDO, ALEX"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ CAGIGAS, DIEGO",
+    "FRAILE GARCÍA, CARLOS",
+    "ANUARBE CANTERO, ANDER",
+    "RUIZ LOPEZ, LUIS",
+    "PARDO NAVA, YAGO",
+    "MEJIAS GARCIA, KEVIN",
+    "DEL RIO GONZALEZ, LUCAS",
+    "SANCHEZ ARENAL, SANTIAGO",
+    "MARTIN DIEZ, LUCAS",
+    "SAEZ ALBA, ERIK",
+    "CASCALES TORRE, BOSCO",
+    "CALLEJO SALGUERO, HUGO",
+    "VILLAVERDE TORRES, FELIPE",
+    "GUTIERREZ GARCIA, FABIO",
+    "DE JULIAN PEROJO, MATEO",
+    "FERNANDEZ DIAZ, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "ARCE GONZALEZ, JAIME",
+      "sale": "TORRE EXPOSITO, MARCO"
+    },
+    {
+      "min": 41,
+      "entra": "DIALLO KEBE, EL HADJ MALICK",
+      "sale": "ALONSO IGLESIAS, MATEO"
+    },
+    {
+      "min": 51,
+      "entra": "RUIZ MARTINEZ, JULEN",
+      "sale": "CHAO VAL, YERAY"
+    },
+    {
+      "min": 51,
+      "entra": "HORRILLO CAÑEDO, ALEX",
+      "sale": "FERRER PENAGOS, MARTÍN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "CALLEJO SALGUERO, HUGO",
+      "sale": "RODRIGUEZ CAGIGAS, DIEGO"
+    },
+    {
+      "min": 35,
+      "entra": "VILLAVERDE TORRES, FELIPE",
+      "sale": "SAEZ ALBA, ERIK"
+    },
+    {
+      "min": 45,
+      "entra": "GUTIERREZ GARCIA, FABIO",
+      "sale": "MARTIN DIEZ, LUCAS"
+    },
+    {
+      "min": 45,
+      "entra": "DE JULIAN PEROJO, MATEO",
+      "sale": "SANCHEZ ARENAL, SANTIAGO"
+    },
+    {
+      "min": 51,
+      "entra": "FERNANDEZ DIAZ, PABLO",
+      "sale": "CASCALES TORRE, BOSCO"
+    }
+  ],
+  "minutos_jugadores": {
+    "TORRE EXPOSITO, MARCO": 41,
+    "JIMENEZ GALDIANO, HUGO": 90,
+    "LOPEZ SAMANIEGO, FEDERICO": 90,
+    "JUANGO HERRERIA, ALVARO": 90,
+    "GUTIERREZ NEGRAL, YAGO": 90,
+    "DIEZ VELASCO, JUAN": 90,
+    "ANDERICA BALAGUER, MARIO": 90,
+    "ALONSO IGLESIAS, MATEO": 41,
+    "REBOLLEDO GARCIA, OLIVER": 90,
+    "FERRER PENAGOS, MARTÍN": 51,
+    "CHAO VAL, YERAY": 51,
+    "ARCE GONZALEZ, JAIME": 49,
+    "DIALLO KEBE, EL HADJ MALICK": 49,
+    "RUIZ MARTINEZ, JULEN": 39,
+    "HORRILLO CAÑEDO, ALEX": 39,
+    "RODRIGUEZ CAGIGAS, DIEGO": 35,
+    "FRAILE GARCÍA, CARLOS": 90,
+    "ANUARBE CANTERO, ANDER": 90,
+    "RUIZ LOPEZ, LUIS": 90,
+    "PARDO NAVA, YAGO": 90,
+    "MEJIAS GARCIA, KEVIN": 90,
+    "DEL RIO GONZALEZ, LUCAS": 90,
+    "SANCHEZ ARENAL, SANTIAGO": 45,
+    "MARTIN DIEZ, LUCAS": 45,
+    "SAEZ ALBA, ERIK": 35,
+    "CASCALES TORRE, BOSCO": 51,
+    "CALLEJO SALGUERO, HUGO": 55,
+    "VILLAVERDE TORRES, FELIPE": 55,
+    "GUTIERREZ GARCIA, FABIO": 45,
+    "DE JULIAN PEROJO, MATEO": 45,
+    "FERNANDEZ DIAZ, PABLO": 39
+  },
+  "portero_local": "TORRE EXPOSITO, MARCO",
+  "portero_visitante": "RODRIGUEZ CAGIGAS, DIEGO",
+  "dorsales_local": {
+    "TORRE EXPOSITO, MARCO": 1,
+    "JIMENEZ GALDIANO, HUGO": 2,
+    "LOPEZ SAMANIEGO, FEDERICO": 3,
+    "JUANGO HERRERIA, ALVARO": 4,
+    "GUTIERREZ NEGRAL, YAGO": 5,
+    "DIEZ VELASCO, JUAN": 6,
+    "ANDERICA BALAGUER, MARIO": 8,
+    "ALONSO IGLESIAS, MATEO": 9,
+    "REBOLLEDO GARCIA, OLIVER": 10,
+    "FERRER PENAGOS, MARTÍN": 23,
+    "CHAO VAL, YERAY": 24
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ CAGIGAS, DIEGO": 1,
+    "FRAILE GARCÍA, CARLOS": 2,
+    "ANUARBE CANTERO, ANDER": 3,
+    "RUIZ LOPEZ, LUIS": 4,
+    "PARDO NAVA, YAGO": 6,
+    "MEJIAS GARCIA, KEVIN": 8,
+    "DEL RIO GONZALEZ, LUCAS": 9,
+    "SANCHEZ ARENAL, SANTIAGO": 11,
+    "MARTIN DIEZ, LUCAS": 15,
+    "SAEZ ALBA, ERIK": 16,
+    "CASCALES TORRE, BOSCO": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
