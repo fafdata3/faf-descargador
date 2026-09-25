@@ -1,0 +1,264 @@
+{
+  "acta_id": "C_220712",
+  "filename": "Acta_C_220712.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 10,
+  "fecha": "23-11-2025",
+  "hora": "11:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. LAREDO A",
+  "equipo_visitante": "C.D. BEZANA A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SISNIEGA SOL, ALAN"
+  ],
+  "estadio": "Laredo 2",
+  "ciudad": "Laredo",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "RUIZ GARCIA, IBAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "SANTAEULALIA PEREZ, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "SANTAEULALIA PEREZ, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 61,
+      "jugador": "BARANDA HERRERA, JUAN JOSE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 56,
+      "jugador": "PASCUAL ARANA, ELEDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "C.D. BEZANA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 33,
+      "jugador": "GARCIA GARCIA, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ROMANO ROSEÑADA, DAVID",
+  "entrenador_visitante": "SAIZ ALVAREZ, PABLO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ OSORIO, JORGE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ORIA ROYANO, MARIO",
+  "titulares_local": [
+    "BRINGAS LLANO, HUGO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "PASCUAL ARANA, ELEDER",
+    "LOPEZ ORTEGA, DYLAN",
+    "ECHEVARRIA ARGUL, LEO",
+    "BARANDA HERRERA, JUAN JOSE",
+    "AMUTIO CASADO, GABRIEL",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "GUERRERO GARCÍA, DEIVID",
+    "GAVILANES LINAJE, MARCO"
+  ],
+  "titulares_visitante": [
+    "MORA PUIG-PEY, LUIS",
+    "ARROYO CESPEDES, DIEGO",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "MARTIN GUTIERREZ, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "FERNANDEZ HOYUELA, ALEJANDRO",
+    "BARROSO REBAQUE, ALEX",
+    "RUIZ GARCIA, IBAI",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "PANDO DOSAL, HUGO",
+    "GARCIA GARCIA, JAVIER"
+  ],
+  "suplentes_local": [
+    "RAYS VIERA DE SA, THIAGO",
+    "LAHUERTA RUIZ, ARITZA",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "ABASCAL DACOSTA, RUBEN"
+  ],
+  "suplentes_visitante": [
+    "MUGICA FERNANDEZ, VICTOR",
+    "CRESPO PEÑA, JUAN",
+    "VELEZ BAHILLO, PEDRO",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "AJURIA CRESPO, NICOLAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "MUGICA FERNANDEZ, VICTOR"
+  ],
+  "jugadores_local": [
+    "BRINGAS LLANO, HUGO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "PASCUAL ARANA, ELEDER",
+    "LOPEZ ORTEGA, DYLAN",
+    "ECHEVARRIA ARGUL, LEO",
+    "BARANDA HERRERA, JUAN JOSE",
+    "AMUTIO CASADO, GABRIEL",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "GUERRERO GARCÍA, DEIVID",
+    "GAVILANES LINAJE, MARCO",
+    "RAYS VIERA DE SA, THIAGO",
+    "ABASCAL DACOSTA, RUBEN",
+    "LAHUERTA RUIZ, ARITZA",
+    "RODRIGUEZ ECHEVARRIA, FRAN"
+  ],
+  "jugadores_visitante": [
+    "MORA PUIG-PEY, LUIS",
+    "ARROYO CESPEDES, DIEGO",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "MARTIN GUTIERREZ, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "FERNANDEZ HOYUELA, ALEJANDRO",
+    "BARROSO REBAQUE, ALEX",
+    "RUIZ GARCIA, IBAI",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "PANDO DOSAL, HUGO",
+    "GARCIA GARCIA, JAVIER",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "VELEZ BAHILLO, PEDRO",
+    "CRESPO PEÑA, JUAN",
+    "AJURIA CRESPO, NICOLAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "RAYS VIERA DE SA, THIAGO",
+      "sale": "BRINGAS LLANO, HUGO"
+    },
+    {
+      "min": 48,
+      "entra": "ABASCAL DACOSTA, RUBEN",
+      "sale": "LOPEZ ORTEGA, DYLAN"
+    },
+    {
+      "min": 53,
+      "entra": "LAHUERTA RUIZ, ARITZA",
+      "sale": "ECHEVARRIA ARGUL, LEO"
+    },
+    {
+      "min": 58,
+      "entra": "RODRIGUEZ ECHEVARRIA, FRAN",
+      "sale": "ARISQUETA GUTIERREZ, CARLOS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "SANTAEULALIA PEREZ, NICOLAS",
+      "sale": "GARCIA GARCIA, JAVIER"
+    },
+    {
+      "min": 35,
+      "entra": "VELEZ BAHILLO, PEDRO",
+      "sale": "GARCÍA VÁZQUEZ, HUGO"
+    },
+    {
+      "min": 48,
+      "entra": "CRESPO PEÑA, JUAN",
+      "sale": "FERNANDEZ HOYUELA, ALEJANDRO"
+    },
+    {
+      "min": 52,
+      "entra": "AJURIA CRESPO, NICOLAS",
+      "sale": "MONTES DE NEIRA BALBOA, LUCAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRINGAS LLANO, HUGO": 35,
+    "BARANZA PEÑA, DANIEL-STEVEN": 90,
+    "PASCUAL ARANA, ELEDER": 90,
+    "LOPEZ ORTEGA, DYLAN": 48,
+    "ECHEVARRIA ARGUL, LEO": 53,
+    "BARANDA HERRERA, JUAN JOSE": 90,
+    "AMUTIO CASADO, GABRIEL": 90,
+    "ARISQUETA GUTIERREZ, CARLOS": 58,
+    "GONZALEZ FERNANDEZ, GABRIEL": 90,
+    "GUERRERO GARCÍA, DEIVID": 90,
+    "GAVILANES LINAJE, MARCO": 90,
+    "RAYS VIERA DE SA, THIAGO": 55,
+    "ABASCAL DACOSTA, RUBEN": 42,
+    "LAHUERTA RUIZ, ARITZA": 37,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 32,
+    "MORA PUIG-PEY, LUIS": 90,
+    "ARROYO CESPEDES, DIEGO": 90,
+    "MONTES DE NEIRA BALBOA, LUCAS": 52,
+    "MARTIN GUTIERREZ, LUCAS": 90,
+    "DEL TIO MALMEHG, ERIK": 90,
+    "FERNANDEZ HOYUELA, ALEJANDRO": 48,
+    "BARROSO REBAQUE, ALEX": 90,
+    "RUIZ GARCIA, IBAI": 90,
+    "GARCÍA VÁZQUEZ, HUGO": 35,
+    "PANDO DOSAL, HUGO": 90,
+    "GARCIA GARCIA, JAVIER": 35,
+    "SANTAEULALIA PEREZ, NICOLAS": 55,
+    "VELEZ BAHILLO, PEDRO": 55,
+    "CRESPO PEÑA, JUAN": 42,
+    "AJURIA CRESPO, NICOLAS": 38
+  },
+  "portero_local": "BRINGAS LLANO, HUGO",
+  "portero_visitante": "MORA PUIG-PEY, LUIS",
+  "dorsales_local": {
+    "BRINGAS LLANO, HUGO": 1,
+    "BARANZA PEÑA, DANIEL-STEVEN": 2,
+    "PASCUAL ARANA, ELEDER": 4,
+    "LOPEZ ORTEGA, DYLAN": 5,
+    "ECHEVARRIA ARGUL, LEO": 6,
+    "BARANDA HERRERA, JUAN JOSE": 7,
+    "AMUTIO CASADO, GABRIEL": 8,
+    "ARISQUETA GUTIERREZ, CARLOS": 9,
+    "GONZALEZ FERNANDEZ, GABRIEL": 10,
+    "GUERRERO GARCÍA, DEIVID": 11,
+    "GAVILANES LINAJE, MARCO": 15
+  },
+  "dorsales_visitante": {
+    "MORA PUIG-PEY, LUIS": 13,
+    "ARROYO CESPEDES, DIEGO": 2,
+    "MONTES DE NEIRA BALBOA, LUCAS": 3,
+    "MARTIN GUTIERREZ, LUCAS": 4,
+    "DEL TIO MALMEHG, ERIK": 5,
+    "FERNANDEZ HOYUELA, ALEJANDRO": 7,
+    "BARROSO REBAQUE, ALEX": 8,
+    "RUIZ GARCIA, IBAI": 12,
+    "GARCÍA VÁZQUEZ, HUGO": 14,
+    "PANDO DOSAL, HUGO": 15,
+    "GARCIA GARCIA, JAVIER": 16
+  },
+  "suspendidos": []
+}
