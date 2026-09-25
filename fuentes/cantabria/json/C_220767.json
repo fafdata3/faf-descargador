@@ -1,0 +1,238 @@
+{
+  "acta_id": "C_220767",
+  "filename": "Acta_C_220767.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "24-01-2026",
+  "hora": "11:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "VELARDE C.F. A",
+  "equipo_visitante": "C.AT. PERINES A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "FERNÁNDEZ ARAGONCILLO, PABLO"
+  ],
+  "estadio": "Muriedas 2",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 62,
+      "jugador": "RUIZ SANZ, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "RUIZ SANZ, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "BARBA AGENJO, DARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "HOYOS ORTEGA, LUCA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "ARCE ABASCAL, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "C.AT. PERINES A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "FERNANDEZ NAVAMUEL, JENS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SALCINES PRIETO, LUIS FELIPE",
+  "entrenador_visitante": "TORRES SAENZ, JOSE ALEJANDRO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "SALCINES ZARCO, AYMAR",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "PONCE COBA, ERICK AITOR",
+    "PEREZ VILLA, DAVID",
+    "MUÑOZ SIERRA, HECTOR",
+    "PELAYO GARCIA, NICOLAS"
+  ],
+  "titulares_visitante": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "GUERRA TORRO, ALBERTO",
+    "TRICIO MARTÍN, MATEO",
+    "PUENTE HERNANDEZ, MARIO",
+    "AZNAR NUÑO, HUGO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "PÉREZ MARTIN, JAIRO",
+    "ROBLES LARA, DAIAN",
+    "TODERO, JOAQUIN KONRAD",
+    "FERNANDEZ NAVAMUEL, JENS"
+  ],
+  "suplentes_local": [
+    "FRANCO RIEGO, LUCAS",
+    "HOYOS ORTEGA, LUCA"
+  ],
+  "suplentes_visitante": [
+    "RUIZ SANZ, MARIO",
+    "HAYA SÁNCHEZ, RODRIGO",
+    "PRADA DE MIGUEL, DARIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SALCINES ZARCO, AYMAR",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "ARCE ABASCAL, DIEGO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "PONCE COBA, ERICK AITOR",
+    "PEREZ VILLA, DAVID",
+    "MUÑOZ SIERRA, HECTOR",
+    "PELAYO GARCIA, NICOLAS",
+    "HOYOS ORTEGA, LUCA",
+    "FRANCO RIEGO, LUCAS"
+  ],
+  "jugadores_visitante": [
+    "GONÇALVES JORRIN, SAMUEL",
+    "GUERRA TORRO, ALBERTO",
+    "TRICIO MARTÍN, MATEO",
+    "PUENTE HERNANDEZ, MARIO",
+    "AZNAR NUÑO, HUGO",
+    "ALBO ZORRILLA, EDGAR",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "PÉREZ MARTIN, JAIRO",
+    "ROBLES LARA, DAIAN",
+    "TODERO, JOAQUIN KONRAD",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "PRADA DE MIGUEL, DARIO",
+    "RUIZ SANZ, MARIO",
+    "HAYA SÁNCHEZ, RODRIGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "HOYOS ORTEGA, LUCA",
+      "sale": "PEÑA GONZALEZ, ALVARO"
+    },
+    {
+      "min": 43,
+      "entra": "FRANCO RIEGO, LUCAS",
+      "sale": "MUÑOZ SIERRA, HECTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "PRADA DE MIGUEL, DARIO",
+      "sale": "AZNAR NUÑO, HUGO"
+    },
+    {
+      "min": 43,
+      "entra": "RUIZ SANZ, MARIO",
+      "sale": "ROBLES LARA, DAIAN"
+    },
+    {
+      "min": 47,
+      "entra": "HAYA SÁNCHEZ, RODRIGO",
+      "sale": "PUENTE HERNANDEZ, MARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "SALCINES ZARCO, AYMAR": 90,
+    "RUIZ MUÑIZ, MARIO": 90,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 90,
+    "BARBA AGENJO, DARIO": 90,
+    "ARCE ABASCAL, DIEGO": 90,
+    "DIEZ GARCIA, MATEO": 90,
+    "PEÑA GONZALEZ, ALVARO": 40,
+    "PONCE COBA, ERICK AITOR": 90,
+    "PEREZ VILLA, DAVID": 90,
+    "MUÑOZ SIERRA, HECTOR": 43,
+    "PELAYO GARCIA, NICOLAS": 90,
+    "HOYOS ORTEGA, LUCA": 50,
+    "FRANCO RIEGO, LUCAS": 47,
+    "GONÇALVES JORRIN, SAMUEL": 90,
+    "GUERRA TORRO, ALBERTO": 90,
+    "TRICIO MARTÍN, MATEO": 90,
+    "PUENTE HERNANDEZ, MARIO": 47,
+    "AZNAR NUÑO, HUGO": 35,
+    "ALBO ZORRILLA, EDGAR": 90,
+    "FERNANDEZ GUTIERREZ, ELOY": 90,
+    "PÉREZ MARTIN, JAIRO": 90,
+    "ROBLES LARA, DAIAN": 43,
+    "TODERO, JOAQUIN KONRAD": 90,
+    "FERNANDEZ NAVAMUEL, JENS": 90,
+    "PRADA DE MIGUEL, DARIO": 55,
+    "RUIZ SANZ, MARIO": 47,
+    "HAYA SÁNCHEZ, RODRIGO": 43
+  },
+  "portero_local": "SALCINES ZARCO, AYMAR",
+  "portero_visitante": "GONÇALVES JORRIN, SAMUEL",
+  "dorsales_local": {
+    "SALCINES ZARCO, AYMAR": 13,
+    "RUIZ MUÑIZ, MARIO": 4,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 5,
+    "BARBA AGENJO, DARIO": 6,
+    "ARCE ABASCAL, DIEGO": 7,
+    "DIEZ GARCIA, MATEO": 8,
+    "PEÑA GONZALEZ, ALVARO": 9,
+    "PONCE COBA, ERICK AITOR": 11,
+    "PEREZ VILLA, DAVID": 15,
+    "MUÑOZ SIERRA, HECTOR": 17,
+    "PELAYO GARCIA, NICOLAS": 19
+  },
+  "dorsales_visitante": {
+    "GONÇALVES JORRIN, SAMUEL": 1,
+    "GUERRA TORRO, ALBERTO": 3,
+    "TRICIO MARTÍN, MATEO": 4,
+    "PUENTE HERNANDEZ, MARIO": 5,
+    "AZNAR NUÑO, HUGO": 6,
+    "ALBO ZORRILLA, EDGAR": 7,
+    "FERNANDEZ GUTIERREZ, ELOY": 8,
+    "PÉREZ MARTIN, JAIRO": 10,
+    "ROBLES LARA, DAIAN": 12,
+    "TODERO, JOAQUIN KONRAD": 17,
+    "FERNANDEZ NAVAMUEL, JENS": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
