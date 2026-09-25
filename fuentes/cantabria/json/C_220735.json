@@ -1,0 +1,264 @@
+{
+  "acta_id": "C_220735",
+  "filename": "Acta_C_220735.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "14-12-2025",
+  "hora": "11:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. LAREDO A",
+  "equipo_visitante": "CLUB BANSANDER A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "ERREA GONZÁLEZ, IZAN"
+  ],
+  "estadio": "Laredo 2",
+  "ciudad": "Laredo",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "SALAS DEL RIO, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "SALAS DEL RIO, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "SALAS DEL RIO, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 30,
+      "jugador": "GUERRERO GARCÍA, DEIVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "CLUB BANSANDER A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "DIEZ CAAMAÑO, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "GARCIA DE LA RASILLA PALACIOS, SERGIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ROMANO ROSEÑADA, DAVID",
+  "entrenador_visitante": "RIVERO LASTRE, RAFAEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ARISQUETA TOCORNAL, LUIS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARISQUETA TOCORNAL, LUIS",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RAYS VIERA DE SA, THIAGO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "ECHEVARRIA ARGUL, LEO",
+    "BARANDA HERRERA, JUAN JOSE",
+    "AMUTIO CASADO, GABRIEL",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "GUERRERO GARCÍA, DEIVID",
+    "LAHUERTA RUIZ, ARITZA",
+    "ABASCAL DACOSTA, RUBEN"
+  ],
+  "titulares_visitante": [
+    "REVUELTA FERNÁNDEZ, NECO",
+    "DEL VALLE COBO, MARTIN",
+    "DIEZ CAAMAÑO, JAVIER",
+    "QUINTANA RUIZ, ANGEL",
+    "MAZA CANO, MARTIN",
+    "LOZANO PURAS, ARNAU",
+    "MARCOS PEREDO, MARIO",
+    "GONZALEZ BOLLAIN, NICOLAS",
+    "CORDERO ARAMBURU, SIMON",
+    "GIL GONZALEZ, ERIC",
+    "SALAS DEL RIO, HUGO"
+  ],
+  "suplentes_local": [
+    "BRINGAS LLANO, HUGO",
+    "LOPEZ ORTEGA, DYLAN",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "RODRIGUEZ ECHEVARRIA, FRAN"
+  ],
+  "suplentes_visitante": [
+    "GIL MEDINA, ALEJANDRO",
+    "SAINZ MARCHANTE, DANIEL",
+    "CORAVU, ALEX NICOLAS",
+    "FERNANDEZ LOPEZ, RAUL",
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "SAINZ MARCHANTE, DANIEL"
+  ],
+  "jugadores_local": [
+    "RAYS VIERA DE SA, THIAGO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "BECI CARRERA, EDUARDO",
+    "PASCUAL ARANA, ELEDER",
+    "ECHEVARRIA ARGUL, LEO",
+    "BARANDA HERRERA, JUAN JOSE",
+    "AMUTIO CASADO, GABRIEL",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "GUERRERO GARCÍA, DEIVID",
+    "LAHUERTA RUIZ, ARITZA",
+    "ABASCAL DACOSTA, RUBEN",
+    "BRINGAS LLANO, HUGO",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "LOPEZ ORTEGA, DYLAN"
+  ],
+  "jugadores_visitante": [
+    "REVUELTA FERNÁNDEZ, NECO",
+    "DEL VALLE COBO, MARTIN",
+    "DIEZ CAAMAÑO, JAVIER",
+    "QUINTANA RUIZ, ANGEL",
+    "MAZA CANO, MARTIN",
+    "LOZANO PURAS, ARNAU",
+    "MARCOS PEREDO, MARIO",
+    "GONZALEZ BOLLAIN, NICOLAS",
+    "CORDERO ARAMBURU, SIMON",
+    "GIL GONZALEZ, ERIC",
+    "SALAS DEL RIO, HUGO",
+    "GIL MEDINA, ALEJANDRO",
+    "FERNANDEZ LOPEZ, RAUL",
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO",
+    "CORAVU, ALEX NICOLAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "BRINGAS LLANO, HUGO",
+      "sale": "RAYS VIERA DE SA, THIAGO"
+    },
+    {
+      "min": 51,
+      "entra": "RODRIGUEZ ECHEVARRIA, FRAN",
+      "sale": "BARANDA HERRERA, JUAN JOSE"
+    },
+    {
+      "min": 51,
+      "entra": "GONZALEZ FERNANDEZ, GABRIEL",
+      "sale": "ARISQUETA GUTIERREZ, CARLOS"
+    },
+    {
+      "min": 55,
+      "entra": "LOPEZ ORTEGA, DYLAN",
+      "sale": "BARANZA PEÑA, DANIEL-STEVEN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "GIL MEDINA, ALEJANDRO",
+      "sale": "REVUELTA FERNÁNDEZ, NECO"
+    },
+    {
+      "min": 40,
+      "entra": "FERNANDEZ LOPEZ, RAUL",
+      "sale": "MARCOS PEREDO, MARIO"
+    },
+    {
+      "min": 40,
+      "entra": "GARCIA DE LA RASILLA PALACIOS, SERGIO",
+      "sale": "LOZANO PURAS, ARNAU"
+    },
+    {
+      "min": 45,
+      "entra": "CORAVU, ALEX NICOLAS",
+      "sale": "CORDERO ARAMBURU, SIMON"
+    }
+  ],
+  "minutos_jugadores": {
+    "RAYS VIERA DE SA, THIAGO": 35,
+    "BARANZA PEÑA, DANIEL-STEVEN": 55,
+    "BECI CARRERA, EDUARDO": 90,
+    "PASCUAL ARANA, ELEDER": 90,
+    "ECHEVARRIA ARGUL, LEO": 90,
+    "BARANDA HERRERA, JUAN JOSE": 51,
+    "AMUTIO CASADO, GABRIEL": 90,
+    "ARISQUETA GUTIERREZ, CARLOS": 51,
+    "GUERRERO GARCÍA, DEIVID": 90,
+    "LAHUERTA RUIZ, ARITZA": 90,
+    "ABASCAL DACOSTA, RUBEN": 90,
+    "BRINGAS LLANO, HUGO": 55,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 39,
+    "GONZALEZ FERNANDEZ, GABRIEL": 39,
+    "LOPEZ ORTEGA, DYLAN": 35,
+    "REVUELTA FERNÁNDEZ, NECO": 35,
+    "DEL VALLE COBO, MARTIN": 90,
+    "DIEZ CAAMAÑO, JAVIER": 90,
+    "QUINTANA RUIZ, ANGEL": 90,
+    "MAZA CANO, MARTIN": 90,
+    "LOZANO PURAS, ARNAU": 40,
+    "MARCOS PEREDO, MARIO": 40,
+    "GONZALEZ BOLLAIN, NICOLAS": 90,
+    "CORDERO ARAMBURU, SIMON": 45,
+    "GIL GONZALEZ, ERIC": 90,
+    "SALAS DEL RIO, HUGO": 90,
+    "GIL MEDINA, ALEJANDRO": 55,
+    "FERNANDEZ LOPEZ, RAUL": 50,
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO": 50,
+    "CORAVU, ALEX NICOLAS": 45
+  },
+  "portero_local": "RAYS VIERA DE SA, THIAGO",
+  "portero_visitante": "REVUELTA FERNÁNDEZ, NECO",
+  "dorsales_local": {
+    "RAYS VIERA DE SA, THIAGO": 13,
+    "BARANZA PEÑA, DANIEL-STEVEN": 2,
+    "BECI CARRERA, EDUARDO": 3,
+    "PASCUAL ARANA, ELEDER": 4,
+    "ECHEVARRIA ARGUL, LEO": 6,
+    "BARANDA HERRERA, JUAN JOSE": 7,
+    "AMUTIO CASADO, GABRIEL": 8,
+    "ARISQUETA GUTIERREZ, CARLOS": 9,
+    "GUERRERO GARCÍA, DEIVID": 11,
+    "LAHUERTA RUIZ, ARITZA": 12,
+    "ABASCAL DACOSTA, RUBEN": 26
+  },
+  "dorsales_visitante": {
+    "REVUELTA FERNÁNDEZ, NECO": 1,
+    "DEL VALLE COBO, MARTIN": 2,
+    "DIEZ CAAMAÑO, JAVIER": 3,
+    "QUINTANA RUIZ, ANGEL": 4,
+    "MAZA CANO, MARTIN": 5,
+    "LOZANO PURAS, ARNAU": 8,
+    "MARCOS PEREDO, MARIO": 10,
+    "GONZALEZ BOLLAIN, NICOLAS": 11,
+    "CORDERO ARAMBURU, SIMON": 14,
+    "GIL GONZALEZ, ERIC": 16,
+    "SALAS DEL RIO, HUGO": 18
+  },
+  "suspendidos": []
+}
