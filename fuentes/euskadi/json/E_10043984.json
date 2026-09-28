@@ -1,0 +1,340 @@
+{
+  "acta_id": "E_10043984",
+  "filename": "Acta_E_10043984.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "27-09-2026",
+  "hora": "17:30",
+  "categoria": "LIGA VASCA JUVENIL / GAZTEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "REAL UNION CLUB SAD",
+  "equipo_visitante": "DANOK BAT C",
+  "goles_local": 3,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ELORTEGI SAN JOSE, XABIER"
+  ],
+  "estadio": "GAL",
+  "ciudad": "Irun",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "BEREAU IRIGOYEN, UNAX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "SOBRINO GIL, ALEX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "BEREAU IRIGOYEN, UNAX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "MONGO, NOE ROLF",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "HERMOSA ANGOÑA, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "SOBRINO GIL, ALEX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "AMO LEGUINA, ALBERTO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 66,
+      "jugador": "VILLAMEA IZAGUIRRE, XAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "CARRION DE LA TORRE, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "GARAT HIRIGARAY, JOKIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "DANOK BAT C",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 37,
+      "jugador": "HERRERO VALLE, LANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "SADEK, KARIM AMIR MOURAD MOFEED",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "ARIZTONDO PORTILLO, OINATZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "GARCIA SANTURTUN, LUIS MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 88,
+      "jugador": "SOBRINO GIL, ALEX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "AMO LEGUINA, ALBERTO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ECHEVESTE, CAMILLE",
+  "entrenador_visitante": "CANO LOPEZ, MIKEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RIVERA CHAVES, ANTONIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RIVERA CHAVES, ANTONIO",
+  "delegado_equipo_visitante": "GARCIA SANTURTUN, LUIS MIGUEL",
+  "titulares_local": [
+    "MIRANDA OLAZABAL, MIKEL",
+    "GOMEZ BARCENA, MARKEL",
+    "RUSANOVSCHI, NICHITA",
+    "URTIZBEREA RICO, IÑIGO",
+    "CARRION DE LA TORRE, ALVARO",
+    "BEREAU IRIGOYEN, UNAX",
+    "URANGA DAGUER, ANER",
+    "AQUERRETA JIMENEZ, UNAI",
+    "MONGO, NOE ROLF",
+    "GARAT HIRIGARAY, JOKIN",
+    "VILLAMEA IZAGUIRRE, XAN"
+  ],
+  "titulares_visitante": [
+    "MOURE BUENO, IKER",
+    "AZNAR AGUIRRE, JON",
+    "GARCIA MARZO, ARKAITZ",
+    "AMO LEGUINA, ALBERTO",
+    "CHARTERINA BARRERAS, ENDIKA",
+    "ALONSO YUSTA, ANDER",
+    "HERRERO VALLE, LANDER",
+    "SADEK, KARIM AMIR MOURAD MOFEED",
+    "HERMOSA ANGOÑA, PABLO",
+    "FRANQUELO VELEZ, ARIEL",
+    "ARIZTONDO PORTILLO, OINATZ"
+  ],
+  "suplentes_local": [
+    "GOMEZ GONZALEZ, MARKEL",
+    "MEJIAS TELLECHEA, LUCAS",
+    "NKUETCHE TAKAM, LARSON SERRANO",
+    "SALGADO IZA, URKO"
+  ],
+  "suplentes_visitante": [
+    "PUENTE ACEDO, ALEJANDRO",
+    "GONZALEZ RUIZ, MARKEL",
+    "SOBRINO GIL, ALEX",
+    "BASTIDA SAEZ SANTURTUN, LUCAS",
+    "ARANA MUGUETA, XABIER",
+    "BERECIBAR HUIDOBRO, UNAX",
+    "VEGA BIKANDI, URTZI"
+  ],
+  "convocados_sin_jugar_local": [
+    "GOMEZ GONZALEZ, MARKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PUENTE ACEDO, ALEJANDRO",
+    "VEGA BIKANDI, URTZI"
+  ],
+  "jugadores_local": [
+    "MIRANDA OLAZABAL, MIKEL",
+    "GOMEZ BARCENA, MARKEL",
+    "RUSANOVSCHI, NICHITA",
+    "URTIZBEREA RICO, IÑIGO",
+    "CARRION DE LA TORRE, ALVARO",
+    "BEREAU IRIGOYEN, UNAX",
+    "URANGA DAGUER, ANER",
+    "AQUERRETA JIMENEZ, UNAI",
+    "MONGO, NOE ROLF",
+    "GARAT HIRIGARAY, JOKIN",
+    "VILLAMEA IZAGUIRRE, XAN",
+    "MEJIAS TELLECHEA, LUCAS",
+    "NKUETCHE TAKAM, LARSON SERRANO",
+    "SALGADO IZA, URKO"
+  ],
+  "jugadores_visitante": [
+    "MOURE BUENO, IKER",
+    "AZNAR AGUIRRE, JON",
+    "GARCIA MARZO, ARKAITZ",
+    "AMO LEGUINA, ALBERTO",
+    "CHARTERINA BARRERAS, ENDIKA",
+    "ALONSO YUSTA, ANDER",
+    "HERRERO VALLE, LANDER",
+    "SADEK, KARIM AMIR MOURAD MOFEED",
+    "HERMOSA ANGOÑA, PABLO",
+    "FRANQUELO VELEZ, ARIEL",
+    "ARIZTONDO PORTILLO, OINATZ",
+    "GONZALEZ RUIZ, MARKEL",
+    "BERECIBAR HUIDOBRO, UNAX",
+    "SOBRINO GIL, ALEX",
+    "BASTIDA SAEZ SANTURTUN, LUCAS",
+    "ARANA MUGUETA, XABIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 69,
+      "entra": "MEJIAS TELLECHEA, LUCAS",
+      "sale": "VILLAMEA IZAGUIRRE, XAN"
+    },
+    {
+      "min": 76,
+      "entra": "NKUETCHE TAKAM, LARSON SERRANO",
+      "sale": "MONGO, NOE ROLF"
+    },
+    {
+      "min": 78,
+      "entra": "SALGADO IZA, URKO",
+      "sale": "BEREAU IRIGOYEN, UNAX"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "GONZALEZ RUIZ, MARKEL",
+      "sale": "FRANQUELO VELEZ, ARIEL"
+    },
+    {
+      "min": 55,
+      "entra": "BERECIBAR HUIDOBRO, UNAX",
+      "sale": "ALONSO YUSTA, ANDER"
+    },
+    {
+      "min": 55,
+      "entra": "SOBRINO GIL, ALEX",
+      "sale": "SADEK, KARIM AMIR MOURAD MOFEED"
+    },
+    {
+      "min": 69,
+      "entra": "BASTIDA SAEZ SANTURTUN, LUCAS",
+      "sale": "HERRERO VALLE, LANDER"
+    },
+    {
+      "min": 77,
+      "entra": "ARANA MUGUETA, XABIER",
+      "sale": "ARIZTONDO PORTILLO, OINATZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "MIRANDA OLAZABAL, MIKEL": 90,
+    "GOMEZ BARCENA, MARKEL": 90,
+    "RUSANOVSCHI, NICHITA": 90,
+    "URTIZBEREA RICO, IÑIGO": 90,
+    "CARRION DE LA TORRE, ALVARO": 90,
+    "BEREAU IRIGOYEN, UNAX": 78,
+    "URANGA DAGUER, ANER": 90,
+    "AQUERRETA JIMENEZ, UNAI": 90,
+    "MONGO, NOE ROLF": 76,
+    "GARAT HIRIGARAY, JOKIN": 90,
+    "VILLAMEA IZAGUIRRE, XAN": 69,
+    "MEJIAS TELLECHEA, LUCAS": 21,
+    "NKUETCHE TAKAM, LARSON SERRANO": 14,
+    "SALGADO IZA, URKO": 12,
+    "MOURE BUENO, IKER": 90,
+    "AZNAR AGUIRRE, JON": 90,
+    "GARCIA MARZO, ARKAITZ": 90,
+    "AMO LEGUINA, ALBERTO": 90,
+    "CHARTERINA BARRERAS, ENDIKA": 90,
+    "ALONSO YUSTA, ANDER": 55,
+    "HERRERO VALLE, LANDER": 69,
+    "SADEK, KARIM AMIR MOURAD MOFEED": 55,
+    "HERMOSA ANGOÑA, PABLO": 90,
+    "FRANQUELO VELEZ, ARIEL": 55,
+    "ARIZTONDO PORTILLO, OINATZ": 77,
+    "GONZALEZ RUIZ, MARKEL": 35,
+    "BERECIBAR HUIDOBRO, UNAX": 35,
+    "SOBRINO GIL, ALEX": 35,
+    "BASTIDA SAEZ SANTURTUN, LUCAS": 21,
+    "ARANA MUGUETA, XABIER": 13
+  },
+  "portero_local": "MIRANDA OLAZABAL, MIKEL",
+  "portero_visitante": "MOURE BUENO, IKER",
+  "dorsales_local": {
+    "MIRANDA OLAZABAL, MIKEL": 13,
+    "GOMEZ BARCENA, MARKEL": 4,
+    "RUSANOVSCHI, NICHITA": 5,
+    "URTIZBEREA RICO, IÑIGO": 6,
+    "CARRION DE LA TORRE, ALVARO": 7,
+    "BEREAU IRIGOYEN, UNAX": 9,
+    "URANGA DAGUER, ANER": 10,
+    "AQUERRETA JIMENEZ, UNAI": 14,
+    "MONGO, NOE ROLF": 19,
+    "GARAT HIRIGARAY, JOKIN": 21,
+    "VILLAMEA IZAGUIRRE, XAN": 24
+  },
+  "dorsales_visitante": {
+    "MOURE BUENO, IKER": 13,
+    "AZNAR AGUIRRE, JON": 4,
+    "GARCIA MARZO, ARKAITZ": 5,
+    "AMO LEGUINA, ALBERTO": 7,
+    "CHARTERINA BARRERAS, ENDIKA": 14,
+    "ALONSO YUSTA, ANDER": 15,
+    "HERRERO VALLE, LANDER": 16,
+    "SADEK, KARIM AMIR MOURAD MOFEED": 17,
+    "HERMOSA ANGOÑA, PABLO": 18,
+    "FRANQUELO VELEZ, ARIEL": 23,
+    "ARIZTONDO PORTILLO, OINATZ": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
