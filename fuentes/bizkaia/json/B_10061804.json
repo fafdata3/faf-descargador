@@ -1,0 +1,269 @@
+{
+  "acta_id": "B_10061804",
+  "filename": "Acta_B_10061804.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "26-09-2026",
+  "hora": "09:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "PADURA A",
+  "equipo_visitante": "ERMUA A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "GARCIA SALEGI, ERLANTZ"
+  ],
+  "estadio": "SANTO CRISTO 1",
+  "ciudad": "Arrigorriaga",
+  "goleadores": [
+    {
+      "minuto": 59,
+      "jugador": "ALVAREZ ALVAREZ, PAUL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "ALVAREZ MOLINA, ERIK",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "AGUIRRE ARRARTE, GAIZKA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 12,
+      "jugador": "NAVEIRA TEIJEIRO, ENDIKA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "LEDEZMA ROJAS, MARCOS LUIS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "ERMUA A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LEDEZMA ROJAS, MARCOS LUIS",
+  "entrenador_visitante": "MADUEÑO GONZALEZ, IVAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ SAGREDO, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ SAGREDO, IKER",
+  "delegado_equipo_visitante": "GARCIA PEREZ, RUBEN",
+  "titulares_local": [
+    "SAN JOSE FLORIDO, ERLANTZ",
+    "SARANDESES MENESES, OIER",
+    "GARCÍA DE ANDOIN ORTEGA, MARKEL",
+    "HAMROUNI OSUNA, SABIER",
+    "RIVEIRO LEIVA, MIKEL",
+    "LUMBRERAS NUÑEZ, MIKEL",
+    "GONZALEZ GARRIDO, IKER",
+    "ZABALA DOMINGUEZ, JORITZ",
+    "UDAETA VALBUENA, AITOR",
+    "PEREZ MARTIN, HECTOR",
+    "NAVEIRA TEIJEIRO, ENDIKA"
+  ],
+  "titulares_visitante": [
+    "RUIZ CRUZ, DANIEL",
+    "GARABAL GARCIA, GALDER",
+    "SANTIAGO GOMEZ, JULEN",
+    "GÓMEZ GALLEGO, IBAI",
+    "LEONARDO GARCÍA, DANEL",
+    "IBAÑEZ FERNANDEZ, KENAI",
+    "ALVAREZ MOLINA, ERIK",
+    "RODRIGUEZ SALDARRIAGA, MIGUEL ANGEL",
+    "CID RUIZ, ANER",
+    "ALVAREZ ALVAREZ, PAUL",
+    "MURUA URKIZU, URKO"
+  ],
+  "suplentes_local": [
+    "OLMOS CHICO, OIER",
+    "CABALLERO IZQUIERDO, MARTIN",
+    "PEDREIRA ESNARRIAGA, ANER",
+    "URRUTIA SALMORAL, UNAI",
+    "LAGUNA ETXEBARRIA, MARTIN",
+    "NOVOA BEDOYA, IAN",
+    "OROZKO AREVALO, BEÑAT"
+  ],
+  "suplentes_visitante": [
+    "ABOU, YASSINE",
+    "PEIXOTO GARCÍA, ADUR",
+    "ALONSO ALONSO, MIKEL",
+    "AGUIRRE ARRARTE, GAIZKA",
+    "AYERBE ASTOLA, OIER",
+    "BAMBA TRAORE, YAYA ADAMA",
+    "CORDÓN QUINTAS, HUGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "OLMOS CHICO, OIER",
+    "PEDREIRA ESNARRIAGA, ANER",
+    "OROZKO AREVALO, BEÑAT"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ABOU, YASSINE",
+    "ALONSO ALONSO, MIKEL",
+    "BAMBA TRAORE, YAYA ADAMA"
+  ],
+  "jugadores_local": [
+    "SAN JOSE FLORIDO, ERLANTZ",
+    "SARANDESES MENESES, OIER",
+    "GARCÍA DE ANDOIN ORTEGA, MARKEL",
+    "HAMROUNI OSUNA, SABIER",
+    "RIVEIRO LEIVA, MIKEL",
+    "LUMBRERAS NUÑEZ, MIKEL",
+    "GONZALEZ GARRIDO, IKER",
+    "ZABALA DOMINGUEZ, JORITZ",
+    "UDAETA VALBUENA, AITOR",
+    "PEREZ MARTIN, HECTOR",
+    "NAVEIRA TEIJEIRO, ENDIKA",
+    "LAGUNA ETXEBARRIA, MARTIN",
+    "CABALLERO IZQUIERDO, MARTIN",
+    "URRUTIA SALMORAL, UNAI",
+    "NOVOA BEDOYA, IAN"
+  ],
+  "jugadores_visitante": [
+    "RUIZ CRUZ, DANIEL",
+    "GARABAL GARCIA, GALDER",
+    "SANTIAGO GOMEZ, JULEN",
+    "GÓMEZ GALLEGO, IBAI",
+    "LEONARDO GARCÍA, DANEL",
+    "IBAÑEZ FERNANDEZ, KENAI",
+    "ALVAREZ MOLINA, ERIK",
+    "RODRIGUEZ SALDARRIAGA, MIGUEL ANGEL",
+    "CID RUIZ, ANER",
+    "ALVAREZ ALVAREZ, PAUL",
+    "MURUA URKIZU, URKO",
+    "CORDÓN QUINTAS, HUGO",
+    "AYERBE ASTOLA, OIER",
+    "PEIXOTO GARCÍA, ADUR",
+    "AGUIRRE ARRARTE, GAIZKA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "LAGUNA ETXEBARRIA, MARTIN",
+      "sale": "NAVEIRA TEIJEIRO, ENDIKA"
+    },
+    {
+      "min": 41,
+      "entra": "CABALLERO IZQUIERDO, MARTIN",
+      "sale": "GONZALEZ GARRIDO, IKER"
+    },
+    {
+      "min": 48,
+      "entra": "URRUTIA SALMORAL, UNAI",
+      "sale": "UDAETA VALBUENA, AITOR"
+    },
+    {
+      "min": 63,
+      "entra": "NOVOA BEDOYA, IAN",
+      "sale": "LUMBRERAS NUÑEZ, MIKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "CORDÓN QUINTAS, HUGO",
+      "sale": "GARABAL GARCIA, GALDER"
+    },
+    {
+      "min": 51,
+      "entra": "AYERBE ASTOLA, OIER",
+      "sale": "RODRIGUEZ SALDARRIAGA, MIGUEL ANGEL"
+    },
+    {
+      "min": 61,
+      "entra": "PEIXOTO GARCÍA, ADUR",
+      "sale": "IBAÑEZ FERNANDEZ, KENAI"
+    },
+    {
+      "min": 71,
+      "entra": "AGUIRRE ARRARTE, GAIZKA",
+      "sale": "ALVAREZ MOLINA, ERIK"
+    }
+  ],
+  "minutos_jugadores": {
+    "SAN JOSE FLORIDO, ERLANTZ": 90,
+    "SARANDESES MENESES, OIER": 90,
+    "GARCÍA DE ANDOIN ORTEGA, MARKEL": 90,
+    "HAMROUNI OSUNA, SABIER": 90,
+    "RIVEIRO LEIVA, MIKEL": 90,
+    "LUMBRERAS NUÑEZ, MIKEL": 63,
+    "GONZALEZ GARRIDO, IKER": 41,
+    "ZABALA DOMINGUEZ, JORITZ": 90,
+    "UDAETA VALBUENA, AITOR": 48,
+    "PEREZ MARTIN, HECTOR": 90,
+    "NAVEIRA TEIJEIRO, ENDIKA": 41,
+    "LAGUNA ETXEBARRIA, MARTIN": 49,
+    "CABALLERO IZQUIERDO, MARTIN": 49,
+    "URRUTIA SALMORAL, UNAI": 42,
+    "NOVOA BEDOYA, IAN": 27,
+    "RUIZ CRUZ, DANIEL": 90,
+    "GARABAL GARCIA, GALDER": 51,
+    "SANTIAGO GOMEZ, JULEN": 90,
+    "GÓMEZ GALLEGO, IBAI": 90,
+    "LEONARDO GARCÍA, DANEL": 90,
+    "IBAÑEZ FERNANDEZ, KENAI": 61,
+    "ALVAREZ MOLINA, ERIK": 71,
+    "RODRIGUEZ SALDARRIAGA, MIGUEL ANGEL": 51,
+    "CID RUIZ, ANER": 90,
+    "ALVAREZ ALVAREZ, PAUL": 90,
+    "MURUA URKIZU, URKO": 90,
+    "CORDÓN QUINTAS, HUGO": 39,
+    "AYERBE ASTOLA, OIER": 39,
+    "PEIXOTO GARCÍA, ADUR": 29,
+    "AGUIRRE ARRARTE, GAIZKA": 19
+  },
+  "portero_local": "SAN JOSE FLORIDO, ERLANTZ",
+  "portero_visitante": "RUIZ CRUZ, DANIEL",
+  "dorsales_local": {
+    "SAN JOSE FLORIDO, ERLANTZ": 13,
+    "SARANDESES MENESES, OIER": 2,
+    "GARCÍA DE ANDOIN ORTEGA, MARKEL": 3,
+    "HAMROUNI OSUNA, SABIER": 4,
+    "RIVEIRO LEIVA, MIKEL": 5,
+    "LUMBRERAS NUÑEZ, MIKEL": 6,
+    "GONZALEZ GARRIDO, IKER": 7,
+    "ZABALA DOMINGUEZ, JORITZ": 8,
+    "UDAETA VALBUENA, AITOR": 9,
+    "PEREZ MARTIN, HECTOR": 14,
+    "NAVEIRA TEIJEIRO, ENDIKA": 20
+  },
+  "dorsales_visitante": {
+    "RUIZ CRUZ, DANIEL": 25,
+    "GARABAL GARCIA, GALDER": 2,
+    "SANTIAGO GOMEZ, JULEN": 3,
+    "GÓMEZ GALLEGO, IBAI": 4,
+    "LEONARDO GARCÍA, DANEL": 6,
+    "IBAÑEZ FERNANDEZ, KENAI": 8,
+    "ALVAREZ MOLINA, ERIK": 10,
+    "RODRIGUEZ SALDARRIAGA, MIGUEL ANGEL": 11,
+    "CID RUIZ, ANER": 16,
+    "ALVAREZ ALVAREZ, PAUL": 19,
+    "MURUA URKIZU, URKO": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
