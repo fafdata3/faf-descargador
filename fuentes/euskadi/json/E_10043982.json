@@ -1,0 +1,272 @@
+{
+  "acta_id": "E_10043982",
+  "filename": "Acta_E_10043982.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "26-09-2026",
+  "hora": "12:30",
+  "categoria": "LIGA VASCA JUVENIL / GAZTEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "ZUMAIAKO F.T.",
+  "equipo_visitante": "ARRUPE-CHAMINADE, C.D.D.F.",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ANDRES ARRILLAGA, JON"
+  ],
+  "estadio": "AITA MARI",
+  "ciudad": "Zumaia",
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "SUAREZ SALINAS, ALEX DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 5,
+      "jugador": "MUJIKA UGARTE, ENEKO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "TEJERA HERMOSA, LANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "ARANGUREN LEGORBURU, JOANES",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "ARRUPE-CHAMINADE, C.D.D.F.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "PRADERA BORISOV, AIMAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "AZPITARTE AYUCAR, IÑAKI",
+  "entrenador_visitante": "OTEGI ZURUTUZA, OIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DOMINGUEZ SORO, ALEX",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "AYUCAR ZAMARREÑO, JOSE IGNACIO",
+  "delegado_equipo_visitante": "HERRERO POSTIGO, IKER",
+  "titulares_local": [
+    "TEJERA HERMOSA, LANDER",
+    "MUJIKA UGARTE, ENEKO",
+    "GONZALEZ ZUBIZARRETA, XANET",
+    "ARANGUREN BERAZADI, GANIX",
+    "MANTEROLA LARRAÑAGA, NIKOLAS",
+    "GASTIAIN ITUARTE, BEÑAT",
+    "ARIZCORRETA DURAN, IKER",
+    "DIAZ MENDIJUR, EGOITZ",
+    "ARAKISTAIN ARRIETA, LIHER",
+    "LARRAÑAGA DIAZ, DENIS",
+    "ZEARRETA ARRIETA, IBON"
+  ],
+  "titulares_visitante": [
+    "BENGOETXEA CANDUELA, JON ANDER",
+    "RECALDE CASTRO, JON",
+    "ANZA ZALAKAIN, PERU",
+    "CROS MERINO, KEANU",
+    "CARBALLA ALVAREZ, RICHARD",
+    "CERDAN COJO, PABLO",
+    "SUAREZ SALINAS, ALEX DAVID",
+    "ODRIOZABALA MUJIKA, EKHI",
+    "IRATZOKI AGIRRE, MARKEL",
+    "OTAÑO USARRALDE, IRAITZ",
+    "URBISTONDO PEREZ, JUAN"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ ERRAZQUIN, DANEL",
+    "ROMERO AGUIRREZABALAGA, XABIER",
+    "AZPITARTE ZULAICA, AIMAR",
+    "UGARTEMENDIA LUJAN, ANDER",
+    "ARANGUREN LEGORBURU, JOANES",
+    "VAZQUEZ EGAÑA, MANEX"
+  ],
+  "suplentes_visitante": [
+    "NIN MARTINEZ, ALVARO",
+    "REGUEIRA ITURBE, MARTIN",
+    "PUENTE CALDERON, CARLOS",
+    "MARTINEZ AGUIRREZABALA, IBAI",
+    "PRADERA BORISOV, AIMAR",
+    "NUÑO IZA, UNAX",
+    "UGALDE IZQUIERDO, IÑIGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "AZPITARTE ZULAICA, AIMAR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "NIN MARTINEZ, ALVARO",
+    "REGUEIRA ITURBE, MARTIN",
+    "NUÑO IZA, UNAX"
+  ],
+  "jugadores_local": [
+    "TEJERA HERMOSA, LANDER",
+    "MUJIKA UGARTE, ENEKO",
+    "GONZALEZ ZUBIZARRETA, XANET",
+    "ARANGUREN BERAZADI, GANIX",
+    "MANTEROLA LARRAÑAGA, NIKOLAS",
+    "GASTIAIN ITUARTE, BEÑAT",
+    "ARIZCORRETA DURAN, IKER",
+    "DIAZ MENDIJUR, EGOITZ",
+    "ARAKISTAIN ARRIETA, LIHER",
+    "LARRAÑAGA DIAZ, DENIS",
+    "ZEARRETA ARRIETA, IBON",
+    "RODRIGUEZ ERRAZQUIN, DANEL",
+    "ROMERO AGUIRREZABALAGA, XABIER",
+    "ARANGUREN LEGORBURU, JOANES",
+    "VAZQUEZ EGAÑA, MANEX",
+    "UGARTEMENDIA LUJAN, ANDER"
+  ],
+  "jugadores_visitante": [
+    "BENGOETXEA CANDUELA, JON ANDER",
+    "RECALDE CASTRO, JON",
+    "ANZA ZALAKAIN, PERU",
+    "CROS MERINO, KEANU",
+    "CARBALLA ALVAREZ, RICHARD",
+    "CERDAN COJO, PABLO",
+    "SUAREZ SALINAS, ALEX DAVID",
+    "ODRIOZABALA MUJIKA, EKHI",
+    "IRATZOKI AGIRRE, MARKEL",
+    "OTAÑO USARRALDE, IRAITZ",
+    "URBISTONDO PEREZ, JUAN",
+    "PRADERA BORISOV, AIMAR",
+    "UGALDE IZQUIERDO, IÑIGO",
+    "MARTINEZ AGUIRREZABALA, IBAI",
+    "PUENTE CALDERON, CARLOS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "RODRIGUEZ ERRAZQUIN, DANEL",
+      "sale": "LARRAÑAGA DIAZ, DENIS"
+    },
+    {
+      "min": 53,
+      "entra": "ROMERO AGUIRREZABALAGA, XABIER",
+      "sale": "ARAKISTAIN ARRIETA, LIHER"
+    },
+    {
+      "min": 65,
+      "entra": "ARANGUREN LEGORBURU, JOANES",
+      "sale": "ARIZCORRETA DURAN, IKER"
+    },
+    {
+      "min": 74,
+      "entra": "VAZQUEZ EGAÑA, MANEX",
+      "sale": "ZEARRETA ARRIETA, IBON"
+    },
+    {
+      "min": 74,
+      "entra": "UGARTEMENDIA LUJAN, ANDER",
+      "sale": "ARANGUREN BERAZADI, GANIX"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 65,
+      "entra": "PRADERA BORISOV, AIMAR",
+      "sale": "ODRIOZABALA MUJIKA, EKHI"
+    },
+    {
+      "min": 71,
+      "entra": "UGALDE IZQUIERDO, IÑIGO",
+      "sale": "CERDAN COJO, PABLO"
+    },
+    {
+      "min": 84,
+      "entra": "MARTINEZ AGUIRREZABALA, IBAI",
+      "sale": "URBISTONDO PEREZ, JUAN"
+    },
+    {
+      "min": 84,
+      "entra": "PUENTE CALDERON, CARLOS",
+      "sale": "CARBALLA ALVAREZ, RICHARD"
+    }
+  ],
+  "minutos_jugadores": {
+    "TEJERA HERMOSA, LANDER": 90,
+    "MUJIKA UGARTE, ENEKO": 90,
+    "GONZALEZ ZUBIZARRETA, XANET": 90,
+    "ARANGUREN BERAZADI, GANIX": 74,
+    "MANTEROLA LARRAÑAGA, NIKOLAS": 90,
+    "GASTIAIN ITUARTE, BEÑAT": 90,
+    "ARIZCORRETA DURAN, IKER": 65,
+    "DIAZ MENDIJUR, EGOITZ": 90,
+    "ARAKISTAIN ARRIETA, LIHER": 53,
+    "LARRAÑAGA DIAZ, DENIS": 45,
+    "ZEARRETA ARRIETA, IBON": 74,
+    "RODRIGUEZ ERRAZQUIN, DANEL": 45,
+    "ROMERO AGUIRREZABALAGA, XABIER": 37,
+    "ARANGUREN LEGORBURU, JOANES": 25,
+    "VAZQUEZ EGAÑA, MANEX": 16,
+    "UGARTEMENDIA LUJAN, ANDER": 16,
+    "BENGOETXEA CANDUELA, JON ANDER": 90,
+    "RECALDE CASTRO, JON": 90,
+    "ANZA ZALAKAIN, PERU": 90,
+    "CROS MERINO, KEANU": 90,
+    "CARBALLA ALVAREZ, RICHARD": 84,
+    "CERDAN COJO, PABLO": 71,
+    "SUAREZ SALINAS, ALEX DAVID": 90,
+    "ODRIOZABALA MUJIKA, EKHI": 65,
+    "IRATZOKI AGIRRE, MARKEL": 90,
+    "OTAÑO USARRALDE, IRAITZ": 90,
+    "URBISTONDO PEREZ, JUAN": 84,
+    "PRADERA BORISOV, AIMAR": 25,
+    "UGALDE IZQUIERDO, IÑIGO": 19,
+    "MARTINEZ AGUIRREZABALA, IBAI": 6,
+    "PUENTE CALDERON, CARLOS": 6
+  },
+  "portero_local": "TEJERA HERMOSA, LANDER",
+  "portero_visitante": "BENGOETXEA CANDUELA, JON ANDER",
+  "dorsales_local": {
+    "TEJERA HERMOSA, LANDER": 1,
+    "MUJIKA UGARTE, ENEKO": 4,
+    "GONZALEZ ZUBIZARRETA, XANET": 5,
+    "ARANGUREN BERAZADI, GANIX": 6,
+    "MANTEROLA LARRAÑAGA, NIKOLAS": 8,
+    "GASTIAIN ITUARTE, BEÑAT": 11,
+    "ARIZCORRETA DURAN, IKER": 19,
+    "DIAZ MENDIJUR, EGOITZ": 20,
+    "ARAKISTAIN ARRIETA, LIHER": 21,
+    "LARRAÑAGA DIAZ, DENIS": 24,
+    "ZEARRETA ARRIETA, IBON": 27
+  },
+  "dorsales_visitante": {
+    "BENGOETXEA CANDUELA, JON ANDER": 1,
+    "RECALDE CASTRO, JON": 6,
+    "ANZA ZALAKAIN, PERU": 7,
+    "CROS MERINO, KEANU": 11,
+    "CARBALLA ALVAREZ, RICHARD": 12,
+    "CERDAN COJO, PABLO": 14,
+    "SUAREZ SALINAS, ALEX DAVID": 16,
+    "ODRIOZABALA MUJIKA, EKHI": 22,
+    "IRATZOKI AGIRRE, MARKEL": 23,
+    "OTAÑO USARRALDE, IRAITZ": 24,
+    "URBISTONDO PEREZ, JUAN": 25
+  },
+  "suspendidos": []
+}
