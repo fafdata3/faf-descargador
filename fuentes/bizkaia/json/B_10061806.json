@@ -1,0 +1,387 @@
+{
+  "acta_id": "B_10061806",
+  "filename": "Acta_B_10061806.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "26-09-2026",
+  "hora": "11:45",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "MORAZA A",
+  "equipo_visitante": "IURRETAKO A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "MIJARES SUSTACHA, ALVARO"
+  ],
+  "estadio": "ARTXANDA",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "DELGADO TERZAGHI, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "JIMENEZ ASTORQUI, ANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "SANCHEZ PARDO, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 59,
+      "jugador": "KORTAZAR GORDO, BEÑAT",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "JIMENEZ ASTORQUI, ANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 33,
+      "jugador": "MARINO ALCALA, ASIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "HERRERO LLORENTE, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "JIMENEZ ASTORQUI, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "HERMIDA DEL BLANCO, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 76,
+      "jugador": "IURRETAKO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "KORTAZAR GORDO, BEÑAT",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "Babesle ofizialak",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "Pribatutasun Politikak",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "Cookien politika",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "Lege Oharra",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "COSME ETXEBARRIETA 5, 1.a",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "KIROL ETXEA - MARTÍN BARUA PICAZA, 27",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "BILBO (BIZKAIA)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "federacion@fvf-bff.eus",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "944 23 61 98",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "944 24 21 80",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "BIZKAIKO FUTBOL FEDERAKUNDEA - VIZCAÍNA FUTBOL FEDERAZIOA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "TASCON HERMIDA, ANDONI",
+  "entrenador_visitante": "BORRACHERO ICOBALCETA, IKER",
+  "segundo_entrenador_local": "HERMIDA DEL BLANCO, DAVID",
+  "segundo_entrenador_visitante": "GOMEZ CASCON, IBAI",
+  "delegado_campo_local": "BOVEDA SAINZ DE ROZAS, MIKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BOVEDA SAINZ DE ROZAS, MIKEL",
+  "delegado_equipo_visitante": "FERNANDEZ GAZTAÑAGA, ASIER",
+  "titulares_local": [
+    "EMBUN RIOS, XABIER",
+    "MARINO ALCALA, ASIER",
+    "AJILA YAGUANA, JAVIER ALEJANDRO",
+    "GABILONDO BASURCO, ENEKO",
+    "BLAZQUEZ URIGÜEN, UNAI",
+    "CASTAÑO SAN JUANES, ARITZ",
+    "ALDASORO CADIÑANOS, MARTIN",
+    "GARCIA VALLEJO, JON",
+    "SANCHEZ PARDO, JON",
+    "HERRERO LLORENTE, NICOLAS",
+    "JIMENEZ ASTORQUI, ANDER"
+  ],
+  "titulares_visitante": [
+    "TABERA GOMEZ, EKAIN",
+    "GONZÁLEZ GONZÁLEZ, PAÚL",
+    "FRANCO DIEZ, ASIER",
+    "ONANDIA CASTRILLO, DANEL",
+    "DELGADO TERZAGHI, UNAI",
+    "LUIS URIZAR, AIMAR",
+    "LORENZO CRENDE, MIKEL",
+    "LAZKANO ZABALA, EKHI",
+    "GONZALEZ GONZALEZ, ANDER",
+    "SOLAGUREN FERNÁNDEZ, ANARTZ",
+    "MENDAZONA ALBIZURI, URKO"
+  ],
+  "suplentes_local": [
+    "DOMINGUEZ ORIVE, XABIER",
+    "SARAIVA LANDIM, TIAGO",
+    "UGARTE CARCOBA, IBAI",
+    "SOLAS SANTOS, LUKA",
+    "IBARRONDO REMENTERIA, ENEKO",
+    "DIEZ DOÑA, MIKEL",
+    "ETXEBERRIA PARDO, LANDER"
+  ],
+  "suplentes_visitante": [
+    "CABREJAS PETITE, AMETS",
+    "MENDIBE IBARRA, EÑAUT",
+    "URIARTE LLONA, MARKEL",
+    "SILVA JUL, IUREN",
+    "BIRITXINAGA AMIANO, JON",
+    "ETXEITA GONZÁLEZ, MIKEL",
+    "KORTAZAR GORDO, BEÑAT"
+  ],
+  "convocados_sin_jugar_local": [
+    "DOMINGUEZ ORIVE, XABIER",
+    "SOLAS SANTOS, LUKA",
+    "DIEZ DOÑA, MIKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "URIARTE LLONA, MARKEL",
+    "SILVA JUL, IUREN"
+  ],
+  "jugadores_local": [
+    "EMBUN RIOS, XABIER",
+    "MARINO ALCALA, ASIER",
+    "AJILA YAGUANA, JAVIER ALEJANDRO",
+    "GABILONDO BASURCO, ENEKO",
+    "BLAZQUEZ URIGÜEN, UNAI",
+    "CASTAÑO SAN JUANES, ARITZ",
+    "ALDASORO CADIÑANOS, MARTIN",
+    "GARCIA VALLEJO, JON",
+    "SANCHEZ PARDO, JON",
+    "HERRERO LLORENTE, NICOLAS",
+    "JIMENEZ ASTORQUI, ANDER",
+    "UGARTE CARCOBA, IBAI",
+    "SARAIVA LANDIM, TIAGO",
+    "IBARRONDO REMENTERIA, ENEKO",
+    "ETXEBERRIA PARDO, LANDER"
+  ],
+  "jugadores_visitante": [
+    "TABERA GOMEZ, EKAIN",
+    "GONZÁLEZ GONZÁLEZ, PAÚL",
+    "FRANCO DIEZ, ASIER",
+    "ONANDIA CASTRILLO, DANEL",
+    "DELGADO TERZAGHI, UNAI",
+    "LUIS URIZAR, AIMAR",
+    "LORENZO CRENDE, MIKEL",
+    "LAZKANO ZABALA, EKHI",
+    "GONZALEZ GONZALEZ, ANDER",
+    "SOLAGUREN FERNÁNDEZ, ANARTZ",
+    "MENDAZONA ALBIZURI, URKO",
+    "KORTAZAR GORDO, BEÑAT",
+    "CABREJAS PETITE, AMETS",
+    "BIRITXINAGA AMIANO, JON",
+    "ETXEITA GONZÁLEZ, MIKEL",
+    "MENDIBE IBARRA, EÑAUT"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "UGARTE CARCOBA, IBAI",
+      "sale": "AJILA YAGUANA, JAVIER ALEJANDRO"
+    },
+    {
+      "min": 56,
+      "entra": "SARAIVA LANDIM, TIAGO",
+      "sale": "MARINO ALCALA, ASIER"
+    },
+    {
+      "min": 65,
+      "entra": "IBARRONDO REMENTERIA, ENEKO",
+      "sale": "HERRERO LLORENTE, NICOLAS"
+    },
+    {
+      "min": 75,
+      "entra": "ETXEBERRIA PARDO, LANDER",
+      "sale": "CASTAÑO SAN JUANES, ARITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "KORTAZAR GORDO, BEÑAT",
+      "sale": "SOLAGUREN FERNÁNDEZ, ANARTZ"
+    },
+    {
+      "min": 51,
+      "entra": "CABREJAS PETITE, AMETS",
+      "sale": "LORENZO CRENDE, MIKEL"
+    },
+    {
+      "min": 58,
+      "entra": "BIRITXINAGA AMIANO, JON",
+      "sale": "DELGADO TERZAGHI, UNAI"
+    },
+    {
+      "min": 58,
+      "entra": "ETXEITA GONZÁLEZ, MIKEL",
+      "sale": "LAZKANO ZABALA, EKHI"
+    },
+    {
+      "min": 65,
+      "entra": "MENDIBE IBARRA, EÑAUT",
+      "sale": "GONZÁLEZ GONZÁLEZ, PAÚL"
+    }
+  ],
+  "minutos_jugadores": {
+    "EMBUN RIOS, XABIER": 90,
+    "MARINO ALCALA, ASIER": 56,
+    "AJILA YAGUANA, JAVIER ALEJANDRO": 56,
+    "GABILONDO BASURCO, ENEKO": 90,
+    "BLAZQUEZ URIGÜEN, UNAI": 90,
+    "CASTAÑO SAN JUANES, ARITZ": 75,
+    "ALDASORO CADIÑANOS, MARTIN": 90,
+    "GARCIA VALLEJO, JON": 90,
+    "SANCHEZ PARDO, JON": 90,
+    "HERRERO LLORENTE, NICOLAS": 65,
+    "JIMENEZ ASTORQUI, ANDER": 90,
+    "UGARTE CARCOBA, IBAI": 34,
+    "SARAIVA LANDIM, TIAGO": 34,
+    "IBARRONDO REMENTERIA, ENEKO": 25,
+    "ETXEBERRIA PARDO, LANDER": 15,
+    "TABERA GOMEZ, EKAIN": 90,
+    "GONZÁLEZ GONZÁLEZ, PAÚL": 65,
+    "FRANCO DIEZ, ASIER": 90,
+    "ONANDIA CASTRILLO, DANEL": 90,
+    "DELGADO TERZAGHI, UNAI": 58,
+    "LUIS URIZAR, AIMAR": 90,
+    "LORENZO CRENDE, MIKEL": 51,
+    "LAZKANO ZABALA, EKHI": 58,
+    "GONZALEZ GONZALEZ, ANDER": 90,
+    "SOLAGUREN FERNÁNDEZ, ANARTZ": 51,
+    "MENDAZONA ALBIZURI, URKO": 90,
+    "KORTAZAR GORDO, BEÑAT": 39,
+    "CABREJAS PETITE, AMETS": 39,
+    "BIRITXINAGA AMIANO, JON": 32,
+    "ETXEITA GONZÁLEZ, MIKEL": 32,
+    "MENDIBE IBARRA, EÑAUT": 25
+  },
+  "portero_local": "EMBUN RIOS, XABIER",
+  "portero_visitante": "TABERA GOMEZ, EKAIN",
+  "dorsales_local": {
+    "EMBUN RIOS, XABIER": 13,
+    "MARINO ALCALA, ASIER": 2,
+    "AJILA YAGUANA, JAVIER ALEJANDRO": 3,
+    "GABILONDO BASURCO, ENEKO": 4,
+    "BLAZQUEZ URIGÜEN, UNAI": 5,
+    "CASTAÑO SAN JUANES, ARITZ": 9,
+    "ALDASORO CADIÑANOS, MARTIN": 11,
+    "GARCIA VALLEJO, JON": 16,
+    "SANCHEZ PARDO, JON": 17,
+    "HERRERO LLORENTE, NICOLAS": 19,
+    "JIMENEZ ASTORQUI, ANDER": 20
+  },
+  "dorsales_visitante": {
+    "TABERA GOMEZ, EKAIN": 1,
+    "GONZÁLEZ GONZÁLEZ, PAÚL": 3,
+    "FRANCO DIEZ, ASIER": 4,
+    "ONANDIA CASTRILLO, DANEL": 6,
+    "DELGADO TERZAGHI, UNAI": 7,
+    "LUIS URIZAR, AIMAR": 8,
+    "LORENZO CRENDE, MIKEL": 14,
+    "LAZKANO ZABALA, EKHI": 16,
+    "GONZALEZ GONZALEZ, ANDER": 18,
+    "SOLAGUREN FERNÁNDEZ, ANARTZ": 19,
+    "MENDAZONA ALBIZURI, URKO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
