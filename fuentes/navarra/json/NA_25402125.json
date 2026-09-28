@@ -1,0 +1,268 @@
+{
+  "acta_id": "NA_25402125",
+  "filename": "Acta_NA_25402125.txt",
+  "fuente": "navarra",
+  "temporada": "2024-2025",
+  "jornada": 23,
+  "fecha": "08-03-2025",
+  "hora": "09:30",
+  "categoria": "Segunda Cadete - Juegos Deportivos de Navarra (Grupo 5º)",
+  "equipo_local": "C.D. Valle de Egües B",
+  "equipo_visitante": "U.C.D. Burlades A",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "Barma Angulo, Adoum Djibrile"
+  ],
+  "estadio": "Sarriguren",
+  "ciudad": "Sarriguren",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "Muñoz Baron, Ion",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "Oroz Lazcano, Oinatz",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "Salcedo Costa, Miquel Smith",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "Gomez Algaba, Aitor",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "Ocaña De Miguel, Alvaro",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "Urrutia Madoz, Josu",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "U.C.D. Burlades A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "Calvo Sanchez, Roberto",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "Calvo Sanchez, Roberto",
+  "delegado_equipo_visitante": "IRIARTE RUIZ, IMANOL",
+  "titulares_local": [
+    "PEREZ VIEIRA, ERIK",
+    "Satrustegui Denia, Mario",
+    "Tenesaca Aushay, James Alexander",
+    "Hernandez Gorriz, Asier",
+    "Calvo Villanueva, Lucas",
+    "CALVO RUIZ DE GAONA, HUGO",
+    "Arranz Zudaire, Markel",
+    "Moreno Ansa, Oier",
+    "Salcedo Costa, Miquel Smith",
+    "DIAZ DE CERIO FLAMARIQUE, HECTOR",
+    "Molina Molina, Aritz"
+  ],
+  "titulares_visitante": [
+    "Arina Garces, Joel",
+    "Pereira Alonso, Sebastián Matias",
+    "Sadaba Arambillet, Yoel",
+    "VASQUEZ CARRION, XABI EDU",
+    "Quintanilla Goicoecheandia, Iker",
+    "Gonzalez Jimenez, Hugo",
+    "Gomez Algaba, Aitor",
+    "Muñoz Baron, Ion",
+    "Iriarte Perez De Urabayen, Alex",
+    "Oroz Lazcano, Oinatz",
+    "Ocaña De Miguel, Alvaro"
+  ],
+  "suplentes_local": [
+    "Mutilva Andueza, Unax",
+    "Larrea Gonzalez, Asier",
+    "Irisarri Aldave, Iñigo",
+    "Arotzarena Martin, Xabier",
+    "Urrutia Madoz, Josu"
+  ],
+  "suplentes_visitante": [
+    "Goñi Goikoa, Aimar",
+    "PEREZ ARAGUAS, XAVIER",
+    "MALLA BENITEZ, ERIK JEREMI",
+    "Aguirre Goñi, Marco",
+    "Alzueta Infante, Ekaitz",
+    "Nafli Benosmane, Ilyes"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "PEREZ ARAGUAS, XAVIER",
+    "MALLA BENITEZ, ERIK JEREMI",
+    "Alzueta Infante, Ekaitz"
+  ],
+  "jugadores_local": [
+    "PEREZ VIEIRA, ERIK",
+    "Satrustegui Denia, Mario",
+    "Tenesaca Aushay, James Alexander",
+    "Hernandez Gorriz, Asier",
+    "Calvo Villanueva, Lucas",
+    "CALVO RUIZ DE GAONA, HUGO",
+    "Arranz Zudaire, Markel",
+    "Moreno Ansa, Oier",
+    "Salcedo Costa, Miquel Smith",
+    "DIAZ DE CERIO FLAMARIQUE, HECTOR",
+    "Molina Molina, Aritz",
+    "Irisarri Aldave, Iñigo",
+    "Larrea Gonzalez, Asier",
+    "Arotzarena Martin, Xabier",
+    "Urrutia Madoz, Josu",
+    "Mutilva Andueza, Unax"
+  ],
+  "jugadores_visitante": [
+    "Arina Garces, Joel",
+    "Pereira Alonso, Sebastián Matias",
+    "Sadaba Arambillet, Yoel",
+    "VASQUEZ CARRION, XABI EDU",
+    "Quintanilla Goicoecheandia, Iker",
+    "Gonzalez Jimenez, Hugo",
+    "Gomez Algaba, Aitor",
+    "Muñoz Baron, Ion",
+    "Iriarte Perez De Urabayen, Alex",
+    "Oroz Lazcano, Oinatz",
+    "Ocaña De Miguel, Alvaro",
+    "Goñi Goikoa, Aimar",
+    "Nafli Benosmane, Ilyes",
+    "Aguirre Goñi, Marco"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "Irisarri Aldave, Iñigo",
+      "sale": "Arranz Zudaire, Markel"
+    },
+    {
+      "min": 40,
+      "entra": "Larrea Gonzalez, Asier",
+      "sale": "Calvo Villanueva, Lucas"
+    },
+    {
+      "min": 40,
+      "entra": "Arotzarena Martin, Xabier",
+      "sale": "Tenesaca Aushay, James Alexander"
+    },
+    {
+      "min": 51,
+      "entra": "Urrutia Madoz, Josu",
+      "sale": "DIAZ DE CERIO FLAMARIQUE, HECTOR"
+    },
+    {
+      "min": 53,
+      "entra": "Mutilva Andueza, Unax",
+      "sale": "Moreno Ansa, Oier"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "Goñi Goikoa, Aimar",
+      "sale": "Arina Garces, Joel"
+    },
+    {
+      "min": 71,
+      "entra": "Nafli Benosmane, Ilyes",
+      "sale": "Muñoz Baron, Ion"
+    },
+    {
+      "min": 71,
+      "entra": "Aguirre Goñi, Marco",
+      "sale": "Sadaba Arambillet, Yoel"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ VIEIRA, ERIK": 90,
+    "Satrustegui Denia, Mario": 90,
+    "Tenesaca Aushay, James Alexander": 40,
+    "Hernandez Gorriz, Asier": 90,
+    "Calvo Villanueva, Lucas": 40,
+    "CALVO RUIZ DE GAONA, HUGO": 90,
+    "Arranz Zudaire, Markel": 40,
+    "Moreno Ansa, Oier": 53,
+    "Salcedo Costa, Miquel Smith": 90,
+    "DIAZ DE CERIO FLAMARIQUE, HECTOR": 51,
+    "Molina Molina, Aritz": 90,
+    "Irisarri Aldave, Iñigo": 50,
+    "Larrea Gonzalez, Asier": 50,
+    "Arotzarena Martin, Xabier": 50,
+    "Urrutia Madoz, Josu": 39,
+    "Mutilva Andueza, Unax": 37,
+    "Arina Garces, Joel": 40,
+    "Pereira Alonso, Sebastián Matias": 90,
+    "Sadaba Arambillet, Yoel": 71,
+    "VASQUEZ CARRION, XABI EDU": 90,
+    "Quintanilla Goicoecheandia, Iker": 90,
+    "Gonzalez Jimenez, Hugo": 90,
+    "Gomez Algaba, Aitor": 90,
+    "Muñoz Baron, Ion": 71,
+    "Iriarte Perez De Urabayen, Alex": 90,
+    "Oroz Lazcano, Oinatz": 90,
+    "Ocaña De Miguel, Alvaro": 90,
+    "Goñi Goikoa, Aimar": 50,
+    "Nafli Benosmane, Ilyes": 19,
+    "Aguirre Goñi, Marco": 19
+  },
+  "portero_local": "PEREZ VIEIRA, ERIK",
+  "portero_visitante": "Arina Garces, Joel",
+  "dorsales_local": {
+    "PEREZ VIEIRA, ERIK": 1,
+    "Satrustegui Denia, Mario": 2,
+    "Tenesaca Aushay, James Alexander": 5,
+    "Hernandez Gorriz, Asier": 8,
+    "Calvo Villanueva, Lucas": 12,
+    "CALVO RUIZ DE GAONA, HUGO": 15,
+    "Arranz Zudaire, Markel": 19,
+    "Moreno Ansa, Oier": 21,
+    "Salcedo Costa, Miquel Smith": 22,
+    "DIAZ DE CERIO FLAMARIQUE, HECTOR": 23,
+    "Molina Molina, Aritz": 25
+  },
+  "dorsales_visitante": {
+    "Arina Garces, Joel": 1,
+    "Pereira Alonso, Sebastián Matias": 2,
+    "Sadaba Arambillet, Yoel": 3,
+    "VASQUEZ CARRION, XABI EDU": 4,
+    "Quintanilla Goicoecheandia, Iker": 5,
+    "Gonzalez Jimenez, Hugo": 6,
+    "Gomez Algaba, Aitor": 8,
+    "Muñoz Baron, Ion": 9,
+    "Iriarte Perez De Urabayen, Alex": 10,
+    "Oroz Lazcano, Oinatz": 14,
+    "Ocaña De Miguel, Alvaro": 16
+  },
+  "suspendidos": []
+}
