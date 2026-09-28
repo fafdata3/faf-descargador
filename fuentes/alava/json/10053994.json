@@ -1,0 +1,243 @@
+{
+  "acta_id": "10053994",
+  "filename": "Acta_10053994.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "25-09-2026",
+  "hora": "19:00",
+  "categoria": "PREFERENTE JUVENIL / GAZTEEN LEHENTASUNEZKO MAILA (GRUPO UNICO / TALDE BAKARRA)",
+  "equipo_local": "ALIPENDI CD",
+  "equipo_visitante": "ARAMBIZKARRA, C.F. A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "JATRI JATRI EL HEJA, SALEK"
+  ],
+  "estadio": "ARRAZPI ARENA",
+  "ciudad": "ARAIA",
+  "goleadores": [
+    {
+      "minuto": 33,
+      "jugador": "URKIA ORMAZABAL, IBAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "REVILLA MARINO, ARITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "TRUJILLO CANTERO, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "MENDIZABAL AUZMENDI, ANER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "ALLA, HAITHAM",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 66,
+      "jugador": "LOPEZ DE LARRINZA DEL VAL, AMETS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "ARAMBIZKARRA, C.F. A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "TRUJILLO CANTERO, UNAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "MARTINEZ GUERRERO, EKAITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ DE ALBENIZ FERNANDEZ DE BETOÑO, DAVID",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "TORVISCO GARCIA, HODEI",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TORVISCO GARCIA, HODEI",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "LECEA JAULAR, BEÑAT AIMAR",
+    "ALLA, HAITHAM",
+    "ALBISU GONZALEZ, ENEKO",
+    "ALONSO IBAÑEZ DE GARAYO, GORKA",
+    "GONZALEZ SALGADO, UNAX",
+    "ARREGUI HEREDIA, OIER",
+    "URKIA ORMAZABAL, IBAI",
+    "SARASKETA ORDOÑO, URKO",
+    "QUINTELA DIEGUEZ, HODEI",
+    "LOPEZ DE LARRINZA DEL VAL, AMETS",
+    "MENDIZABAL AUZMENDI, ANER"
+  ],
+  "titulares_visitante": [
+    "FERDINANDO RODRIGUEZ, EDER",
+    "MARTINEZ GUERRERO, EKAITZ",
+    "CHAPARRO GARRIDO, JULEN",
+    "YECORA MONTILLA, IZEI",
+    "PACIOS ILLERA, AITOR",
+    "ABJAYOU BEN OMAR, SALIM",
+    "REVILLA MARINO, ARITZ",
+    "RODRIGUEZ SCHWAB, IKER XABIER",
+    "MUÑOZ MOLINA, PAU SIMON",
+    "FUENTE ARISPE, EGOITZ",
+    "TRUJILLO CANTERO, UNAI"
+  ],
+  "suplentes_local": [
+    "ARRIZABALAGA MARTIN, IKER",
+    "APAOLAZA LOPEZ DE URALDE, UNAI",
+    "MONTES URTEAGA, IZEI"
+  ],
+  "suplentes_visitante": [
+    "SUBIJANA KONE, IKER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LECEA JAULAR, BEÑAT AIMAR",
+    "ALLA, HAITHAM",
+    "ALBISU GONZALEZ, ENEKO",
+    "ALONSO IBAÑEZ DE GARAYO, GORKA",
+    "GONZALEZ SALGADO, UNAX",
+    "ARREGUI HEREDIA, OIER",
+    "URKIA ORMAZABAL, IBAI",
+    "SARASKETA ORDOÑO, URKO",
+    "QUINTELA DIEGUEZ, HODEI",
+    "LOPEZ DE LARRINZA DEL VAL, AMETS",
+    "MENDIZABAL AUZMENDI, ANER",
+    "MONTES URTEAGA, IZEI",
+    "APAOLAZA LOPEZ DE URALDE, UNAI",
+    "ARRIZABALAGA MARTIN, IKER"
+  ],
+  "jugadores_visitante": [
+    "FERDINANDO RODRIGUEZ, EDER",
+    "MARTINEZ GUERRERO, EKAITZ",
+    "CHAPARRO GARRIDO, JULEN",
+    "YECORA MONTILLA, IZEI",
+    "PACIOS ILLERA, AITOR",
+    "ABJAYOU BEN OMAR, SALIM",
+    "REVILLA MARINO, ARITZ",
+    "RODRIGUEZ SCHWAB, IKER XABIER",
+    "MUÑOZ MOLINA, PAU SIMON",
+    "FUENTE ARISPE, EGOITZ",
+    "TRUJILLO CANTERO, UNAI",
+    "SUBIJANA KONE, IKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "MONTES URTEAGA, IZEI",
+      "sale": "QUINTELA DIEGUEZ, HODEI"
+    },
+    {
+      "min": 55,
+      "entra": "APAOLAZA LOPEZ DE URALDE, UNAI",
+      "sale": "LOPEZ DE LARRINZA DEL VAL, AMETS"
+    },
+    {
+      "min": 66,
+      "entra": "ARRIZABALAGA MARTIN, IKER",
+      "sale": "ALONSO IBAÑEZ DE GARAYO, GORKA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 80,
+      "entra": "SUBIJANA KONE, IKER",
+      "sale": "FUENTE ARISPE, EGOITZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "LECEA JAULAR, BEÑAT AIMAR": 90,
+    "ALLA, HAITHAM": 90,
+    "ALBISU GONZALEZ, ENEKO": 90,
+    "ALONSO IBAÑEZ DE GARAYO, GORKA": 66,
+    "GONZALEZ SALGADO, UNAX": 90,
+    "ARREGUI HEREDIA, OIER": 90,
+    "URKIA ORMAZABAL, IBAI": 90,
+    "SARASKETA ORDOÑO, URKO": 90,
+    "QUINTELA DIEGUEZ, HODEI": 55,
+    "LOPEZ DE LARRINZA DEL VAL, AMETS": 55,
+    "MENDIZABAL AUZMENDI, ANER": 90,
+    "MONTES URTEAGA, IZEI": 35,
+    "APAOLAZA LOPEZ DE URALDE, UNAI": 35,
+    "ARRIZABALAGA MARTIN, IKER": 24,
+    "FERDINANDO RODRIGUEZ, EDER": 90,
+    "MARTINEZ GUERRERO, EKAITZ": 90,
+    "CHAPARRO GARRIDO, JULEN": 90,
+    "YECORA MONTILLA, IZEI": 90,
+    "PACIOS ILLERA, AITOR": 90,
+    "ABJAYOU BEN OMAR, SALIM": 90,
+    "REVILLA MARINO, ARITZ": 90,
+    "RODRIGUEZ SCHWAB, IKER XABIER": 90,
+    "MUÑOZ MOLINA, PAU SIMON": 90,
+    "FUENTE ARISPE, EGOITZ": 80,
+    "TRUJILLO CANTERO, UNAI": 90,
+    "SUBIJANA KONE, IKER": 10
+  },
+  "portero_local": "LECEA JAULAR, BEÑAT AIMAR",
+  "portero_visitante": "FERDINANDO RODRIGUEZ, EDER",
+  "dorsales_local": {
+    "LECEA JAULAR, BEÑAT AIMAR": 99,
+    "ALLA, HAITHAM": 2,
+    "ALBISU GONZALEZ, ENEKO": 4,
+    "ALONSO IBAÑEZ DE GARAYO, GORKA": 5,
+    "GONZALEZ SALGADO, UNAX": 7,
+    "ARREGUI HEREDIA, OIER": 8,
+    "URKIA ORMAZABAL, IBAI": 10,
+    "SARASKETA ORDOÑO, URKO": 16,
+    "QUINTELA DIEGUEZ, HODEI": 22,
+    "LOPEZ DE LARRINZA DEL VAL, AMETS": 26,
+    "MENDIZABAL AUZMENDI, ANER": 27
+  },
+  "dorsales_visitante": {
+    "FERDINANDO RODRIGUEZ, EDER": 1,
+    "MARTINEZ GUERRERO, EKAITZ": 2,
+    "CHAPARRO GARRIDO, JULEN": 4,
+    "YECORA MONTILLA, IZEI": 5,
+    "PACIOS ILLERA, AITOR": 6,
+    "ABJAYOU BEN OMAR, SALIM": 9,
+    "REVILLA MARINO, ARITZ": 11,
+    "RODRIGUEZ SCHWAB, IKER XABIER": 14,
+    "MUÑOZ MOLINA, PAU SIMON": 20,
+    "FUENTE ARISPE, EGOITZ": 22,
+    "TRUJILLO CANTERO, UNAI": 23
+  },
+  "suspendidos": []
+}
