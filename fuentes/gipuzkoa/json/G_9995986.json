@@ -1,0 +1,275 @@
+{
+  "acta_id": "G_9995986",
+  "filename": "Acta_G_9995986.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "11-01-2026",
+  "hora": "10:30",
+  "categoria": "GIZONEZKO KADETEEN 1. MAILA / 1ª CADETE MASCULINO (3. MULTZOA - GRUPO 3)",
+  "equipo_local": "SPORTING DE HERRERA",
+  "equipo_visitante": "SAN MARCIAL C.D. C",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "OUVIÑA AGRELO, ALAIN"
+  ],
+  "estadio": "HERRERA",
+  "ciudad": "DONOSTIA",
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "CARBAJO GUTIERREZ, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "SANCHEZ DE LA FUENTE, IBAI",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "CARBAJO GUTIERREZ, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "CALVO TELLETXEA, IGOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "CHABANE KASPARY, ISMAEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "PALACIOS MARIN, RODRIGO ANDRES",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 65,
+      "jugador": "SAN MARCIAL C.D. C",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LUIS DE LA MATA, IBAN",
+  "entrenador_visitante": "GOMEZ LOPEZ, AIMAR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PALACIOS MARIN, RODRIGO ANDRES",
+  "delegado_equipo_visitante": "MARTINEZ AMUNARRIZ, ALEJANDRO",
+  "titulares_local": [
+    "JORDAN GOCHICOA, MIKEL",
+    "DIAZ DE MENDIVIL PAREDES, ARATZ",
+    "CENZANO SEGURADO, JAVI",
+    "SANCHEZ DE LA FUENTE, IBAI",
+    "SANCHEZ ROMERO, LUIS",
+    "PALACIOS CASTRO, EMMANUELLE",
+    "LACUNZA LEAL, IKER",
+    "ANDRADE SAAVEDRA, JULIAN ANDRES",
+    "STOICA, MARIO ANDRES",
+    "AITA COLOMBO, OIARTZ",
+    "PEREYRA IMAZ, MATIAS"
+  ],
+  "titulares_visitante": [
+    "LAZKANO CALVO, OINATZ",
+    "CARBAJO GUTIERREZ, MIKEL",
+    "MANCISIDOR ORMAZABAL, LUKA",
+    "AMIANO GARCIA, ANTTON",
+    "GONZALEZ MAÑUECO, ARATZ",
+    "MENDES DA SILVA, LUCAS GABRIEL",
+    "SANCHEZ VARELA, ENEKO",
+    "FUERTES MARIEZCURRENA, HODEI",
+    "BELLANCO MARTINEZ, DANEL",
+    "CHABANE KASPARY, ISMAEL",
+    "CALVO TELLETXEA, IGOR"
+  ],
+  "suplentes_local": [
+    "SANTISO MARTIN, ENEKO",
+    "NARBAIZA PARRA, ANDER",
+    "PORRUA GOÑI, OIHAN",
+    "IGLESIAS VÁZQUEZ, ENEKO"
+  ],
+  "suplentes_visitante": [
+    "FERNANDES ORMAZABAL, CONNOR",
+    "CHANTRE SALDAÑA, IÑIGO",
+    "DIEZ FIGUEROA, TELMO",
+    "ARAMENDI PEÑA, JON",
+    "MARTINEZ DE GUEREÑU ARAMBURU, HODEI",
+    "IGLESIA ARAMBURU, ANDER",
+    "AROTSECHE, MARTIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "FERNANDES ORMAZABAL, CONNOR",
+    "ARAMENDI PEÑA, JON"
+  ],
+  "jugadores_local": [
+    "JORDAN GOCHICOA, MIKEL",
+    "DIAZ DE MENDIVIL PAREDES, ARATZ",
+    "CENZANO SEGURADO, JAVI",
+    "SANCHEZ DE LA FUENTE, IBAI",
+    "SANCHEZ ROMERO, LUIS",
+    "PALACIOS CASTRO, EMMANUELLE",
+    "LACUNZA LEAL, IKER",
+    "ANDRADE SAAVEDRA, JULIAN ANDRES",
+    "STOICA, MARIO ANDRES",
+    "AITA COLOMBO, OIARTZ",
+    "PEREYRA IMAZ, MATIAS",
+    "SANTISO MARTIN, ENEKO",
+    "NARBAIZA PARRA, ANDER",
+    "PORRUA GOÑI, OIHAN",
+    "IGLESIAS VÁZQUEZ, ENEKO"
+  ],
+  "jugadores_visitante": [
+    "LAZKANO CALVO, OINATZ",
+    "CARBAJO GUTIERREZ, MIKEL",
+    "MANCISIDOR ORMAZABAL, LUKA",
+    "AMIANO GARCIA, ANTTON",
+    "GONZALEZ MAÑUECO, ARATZ",
+    "MENDES DA SILVA, LUCAS GABRIEL",
+    "SANCHEZ VARELA, ENEKO",
+    "FUERTES MARIEZCURRENA, HODEI",
+    "BELLANCO MARTINEZ, DANEL",
+    "CHABANE KASPARY, ISMAEL",
+    "CALVO TELLETXEA, IGOR",
+    "IGLESIA ARAMBURU, ANDER",
+    "CHANTRE SALDAÑA, IÑIGO",
+    "MARTINEZ DE GUEREÑU ARAMBURU, HODEI",
+    "AROTSECHE, MARTIN",
+    "DIEZ FIGUEROA, TELMO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SANTISO MARTIN, ENEKO",
+      "sale": "AITA COLOMBO, OIARTZ"
+    },
+    {
+      "min": 40,
+      "entra": "NARBAIZA PARRA, ANDER",
+      "sale": "LACUNZA LEAL, IKER"
+    },
+    {
+      "min": 52,
+      "entra": "PORRUA GOÑI, OIHAN",
+      "sale": "STOICA, MARIO ANDRES"
+    },
+    {
+      "min": 65,
+      "entra": "IGLESIAS VÁZQUEZ, ENEKO",
+      "sale": "ANDRADE SAAVEDRA, JULIAN ANDRES"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "IGLESIA ARAMBURU, ANDER",
+      "sale": "MENDES DA SILVA, LUCAS GABRIEL"
+    },
+    {
+      "min": 57,
+      "entra": "CHANTRE SALDAÑA, IÑIGO",
+      "sale": "BELLANCO MARTINEZ, DANEL"
+    },
+    {
+      "min": 60,
+      "entra": "MARTINEZ DE GUEREÑU ARAMBURU, HODEI",
+      "sale": "GONZALEZ MAÑUECO, ARATZ"
+    },
+    {
+      "min": 60,
+      "entra": "AROTSECHE, MARTIN",
+      "sale": "CHABANE KASPARY, ISMAEL"
+    },
+    {
+      "min": 70,
+      "entra": "DIEZ FIGUEROA, TELMO",
+      "sale": "CALVO TELLETXEA, IGOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "JORDAN GOCHICOA, MIKEL": 90,
+    "DIAZ DE MENDIVIL PAREDES, ARATZ": 90,
+    "CENZANO SEGURADO, JAVI": 90,
+    "SANCHEZ DE LA FUENTE, IBAI": 90,
+    "SANCHEZ ROMERO, LUIS": 90,
+    "PALACIOS CASTRO, EMMANUELLE": 90,
+    "LACUNZA LEAL, IKER": 40,
+    "ANDRADE SAAVEDRA, JULIAN ANDRES": 65,
+    "STOICA, MARIO ANDRES": 52,
+    "AITA COLOMBO, OIARTZ": 40,
+    "PEREYRA IMAZ, MATIAS": 90,
+    "SANTISO MARTIN, ENEKO": 50,
+    "NARBAIZA PARRA, ANDER": 50,
+    "PORRUA GOÑI, OIHAN": 38,
+    "IGLESIAS VÁZQUEZ, ENEKO": 25,
+    "LAZKANO CALVO, OINATZ": 90,
+    "CARBAJO GUTIERREZ, MIKEL": 90,
+    "MANCISIDOR ORMAZABAL, LUKA": 90,
+    "AMIANO GARCIA, ANTTON": 90,
+    "GONZALEZ MAÑUECO, ARATZ": 60,
+    "MENDES DA SILVA, LUCAS GABRIEL": 50,
+    "SANCHEZ VARELA, ENEKO": 90,
+    "FUERTES MARIEZCURRENA, HODEI": 90,
+    "BELLANCO MARTINEZ, DANEL": 57,
+    "CHABANE KASPARY, ISMAEL": 60,
+    "CALVO TELLETXEA, IGOR": 70,
+    "IGLESIA ARAMBURU, ANDER": 40,
+    "CHANTRE SALDAÑA, IÑIGO": 33,
+    "MARTINEZ DE GUEREÑU ARAMBURU, HODEI": 30,
+    "AROTSECHE, MARTIN": 30,
+    "DIEZ FIGUEROA, TELMO": 20
+  },
+  "portero_local": "JORDAN GOCHICOA, MIKEL",
+  "portero_visitante": "LAZKANO CALVO, OINATZ",
+  "dorsales_local": {
+    "JORDAN GOCHICOA, MIKEL": 1,
+    "DIAZ DE MENDIVIL PAREDES, ARATZ": 2,
+    "CENZANO SEGURADO, JAVI": 3,
+    "SANCHEZ DE LA FUENTE, IBAI": 5,
+    "SANCHEZ ROMERO, LUIS": 9,
+    "PALACIOS CASTRO, EMMANUELLE": 10,
+    "LACUNZA LEAL, IKER": 12,
+    "ANDRADE SAAVEDRA, JULIAN ANDRES": 14,
+    "STOICA, MARIO ANDRES": 15,
+    "AITA COLOMBO, OIARTZ": 21,
+    "PEREYRA IMAZ, MATIAS": 22
+  },
+  "dorsales_visitante": {
+    "LAZKANO CALVO, OINATZ": 1,
+    "CARBAJO GUTIERREZ, MIKEL": 2,
+    "MANCISIDOR ORMAZABAL, LUKA": 4,
+    "AMIANO GARCIA, ANTTON": 12,
+    "GONZALEZ MAÑUECO, ARATZ": 17,
+    "MENDES DA SILVA, LUCAS GABRIEL": 19,
+    "SANCHEZ VARELA, ENEKO": 20,
+    "FUERTES MARIEZCURRENA, HODEI": 21,
+    "BELLANCO MARTINEZ, DANEL": 22,
+    "CHABANE KASPARY, ISMAEL": 23,
+    "CALVO TELLETXEA, IGOR": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
