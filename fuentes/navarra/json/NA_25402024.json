@@ -1,0 +1,272 @@
+{
+  "acta_id": "NA_25402024",
+  "filename": "Acta_NA_25402024.txt",
+  "fuente": "navarra",
+  "temporada": "2024-2025",
+  "jornada": 10,
+  "fecha": "23-11-2024",
+  "hora": "09:30",
+  "categoria": "Segunda Cadete - Juegos Deportivos de Navarra (Grupo 5º)",
+  "equipo_local": "C.D.Liceo Monjardin B",
+  "equipo_visitante": "C.D. Ardoi",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "Chekkour, Mohamed Said"
+  ],
+  "estadio": "Soto Lezkairu",
+  "ciudad": "Pamplona",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "Delgado Azabamba, Luis Angel",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "Taki , Rayane",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "Urdanoz Mancho, Sergei",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 50,
+      "jugador": "Ruiz Elvira, Mario",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "C.D. Ardoi",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "Erice Latorre, Javier",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "HERNANDEZ LOPEZ, DANIEL",
+    "Ruiz Elvira, Mario",
+    "Andueza Blanco, Miguel",
+    "Arvizu Irurita, Gonzalo",
+    "Charela Aldaz, Mateo",
+    "Santa Olalla Incer, Adrian",
+    "Barbarin Fortun, Pablo",
+    "Agudo Bautista, Pablo",
+    "Espinoza Campoverde, Iñigo",
+    "Huarte Elvira, Mikel",
+    "Naya Erro, Iñigo"
+  ],
+  "titulares_visitante": [
+    "Soret Alonso, Erik",
+    "Ibañez Guembe, Javier",
+    "Urdanoz Mancho, Sergei",
+    "Delgado Azabamba, Luis Angel",
+    "Elizalde Contin, Beñat",
+    "MARIN ROSA, ELBER",
+    "ABUIN MATOS, JON",
+    "Taki , Rayane",
+    "Chandia Arnedo, Ismael",
+    "Maquirriain Rodriguez, Andoni",
+    "Etayo Solana, Aimar"
+  ],
+  "suplentes_local": [
+    "Samitier Ongay, Pablo",
+    "Barrado Sainz De Baranda, Alejandro",
+    "Garcia Perez, Diego",
+    "Alvarez Serveto, Daniel",
+    "MARÍN SALVATIERRA, JON"
+  ],
+  "suplentes_visitante": [
+    "Chej El Banne, Dih",
+    "Pinilla Sanchez, Sergio",
+    "Belando Zubiria, Hector",
+    "MONTES PEREZ, YOHAN MATIAS",
+    "Herras Rabhi, Mohammed",
+    "Fusch Couto, Raphael"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "HERNANDEZ LOPEZ, DANIEL",
+    "Ruiz Elvira, Mario",
+    "Andueza Blanco, Miguel",
+    "Arvizu Irurita, Gonzalo",
+    "Charela Aldaz, Mateo",
+    "Santa Olalla Incer, Adrian",
+    "Barbarin Fortun, Pablo",
+    "Agudo Bautista, Pablo",
+    "Espinoza Campoverde, Iñigo",
+    "Huarte Elvira, Mikel",
+    "Naya Erro, Iñigo",
+    "Barrado Sainz De Baranda, Alejandro",
+    "MARÍN SALVATIERRA, JON",
+    "Samitier Ongay, Pablo",
+    "Garcia Perez, Diego",
+    "Alvarez Serveto, Daniel"
+  ],
+  "jugadores_visitante": [
+    "Soret Alonso, Erik",
+    "Ibañez Guembe, Javier",
+    "Urdanoz Mancho, Sergei",
+    "Delgado Azabamba, Luis Angel",
+    "Elizalde Contin, Beñat",
+    "MARIN ROSA, ELBER",
+    "ABUIN MATOS, JON",
+    "Taki , Rayane",
+    "Chandia Arnedo, Ismael",
+    "Maquirriain Rodriguez, Andoni",
+    "Etayo Solana, Aimar",
+    "MONTES PEREZ, YOHAN MATIAS",
+    "Herras Rabhi, Mohammed",
+    "Pinilla Sanchez, Sergio",
+    "Fusch Couto, Raphael",
+    "Chej El Banne, Dih",
+    "Belando Zubiria, Hector"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "Barrado Sainz De Baranda, Alejandro",
+      "sale": "Andueza Blanco, Miguel"
+    },
+    {
+      "min": 40,
+      "entra": "MARÍN SALVATIERRA, JON",
+      "sale": "Agudo Bautista, Pablo"
+    },
+    {
+      "min": 54,
+      "entra": "Samitier Ongay, Pablo",
+      "sale": "Barbarin Fortun, Pablo"
+    },
+    {
+      "min": 54,
+      "entra": "Garcia Perez, Diego",
+      "sale": "Naya Erro, Iñigo"
+    },
+    {
+      "min": 54,
+      "entra": "Alvarez Serveto, Daniel",
+      "sale": "Ruiz Elvira, Mario"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 27,
+      "entra": "MONTES PEREZ, YOHAN MATIAS",
+      "sale": "Etayo Solana, Aimar"
+    },
+    {
+      "min": 54,
+      "entra": "Herras Rabhi, Mohammed",
+      "sale": "Elizalde Contin, Beñat"
+    },
+    {
+      "min": 54,
+      "entra": "Pinilla Sanchez, Sergio",
+      "sale": "Maquirriain Rodriguez, Andoni"
+    },
+    {
+      "min": 60,
+      "entra": "Fusch Couto, Raphael",
+      "sale": "Ibañez Guembe, Javier"
+    },
+    {
+      "min": 70,
+      "entra": "Chej El Banne, Dih",
+      "sale": "Urdanoz Mancho, Sergei"
+    },
+    {
+      "min": 70,
+      "entra": "Belando Zubiria, Hector",
+      "sale": "Taki , Rayane"
+    }
+  ],
+  "minutos_jugadores": {
+    "HERNANDEZ LOPEZ, DANIEL": 90,
+    "Ruiz Elvira, Mario": 54,
+    "Andueza Blanco, Miguel": 40,
+    "Arvizu Irurita, Gonzalo": 90,
+    "Charela Aldaz, Mateo": 90,
+    "Santa Olalla Incer, Adrian": 90,
+    "Barbarin Fortun, Pablo": 54,
+    "Agudo Bautista, Pablo": 40,
+    "Espinoza Campoverde, Iñigo": 90,
+    "Huarte Elvira, Mikel": 90,
+    "Naya Erro, Iñigo": 54,
+    "Barrado Sainz De Baranda, Alejandro": 50,
+    "MARÍN SALVATIERRA, JON": 50,
+    "Samitier Ongay, Pablo": 36,
+    "Garcia Perez, Diego": 36,
+    "Alvarez Serveto, Daniel": 36,
+    "Soret Alonso, Erik": 90,
+    "Ibañez Guembe, Javier": 60,
+    "Urdanoz Mancho, Sergei": 70,
+    "Delgado Azabamba, Luis Angel": 90,
+    "Elizalde Contin, Beñat": 54,
+    "MARIN ROSA, ELBER": 90,
+    "ABUIN MATOS, JON": 90,
+    "Taki , Rayane": 70,
+    "Chandia Arnedo, Ismael": 90,
+    "Maquirriain Rodriguez, Andoni": 54,
+    "Etayo Solana, Aimar": 27,
+    "MONTES PEREZ, YOHAN MATIAS": 63,
+    "Herras Rabhi, Mohammed": 36,
+    "Pinilla Sanchez, Sergio": 36,
+    "Fusch Couto, Raphael": 30,
+    "Chej El Banne, Dih": 20,
+    "Belando Zubiria, Hector": 20
+  },
+  "portero_local": "HERNANDEZ LOPEZ, DANIEL",
+  "portero_visitante": "Soret Alonso, Erik",
+  "dorsales_local": {
+    "HERNANDEZ LOPEZ, DANIEL": 1,
+    "Ruiz Elvira, Mario": 3,
+    "Andueza Blanco, Miguel": 14,
+    "Arvizu Irurita, Gonzalo": 23,
+    "Charela Aldaz, Mateo": 28,
+    "Santa Olalla Incer, Adrian": 29,
+    "Barbarin Fortun, Pablo": 31,
+    "Agudo Bautista, Pablo": 33,
+    "Espinoza Campoverde, Iñigo": 37,
+    "Huarte Elvira, Mikel": 38,
+    "Naya Erro, Iñigo": 41
+  },
+  "dorsales_visitante": {
+    "Soret Alonso, Erik": 1,
+    "Ibañez Guembe, Javier": 2,
+    "Urdanoz Mancho, Sergei": 4,
+    "Delgado Azabamba, Luis Angel": 5,
+    "Elizalde Contin, Beñat": 8,
+    "MARIN ROSA, ELBER": 12,
+    "ABUIN MATOS, JON": 15,
+    "Taki , Rayane": 17,
+    "Chandia Arnedo, Ismael": 18,
+    "Maquirriain Rodriguez, Andoni": 19,
+    "Etayo Solana, Aimar": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
