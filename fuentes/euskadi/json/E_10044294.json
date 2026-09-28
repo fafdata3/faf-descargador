@@ -1,0 +1,281 @@
+{
+  "acta_id": "E_10044294",
+  "filename": "Acta_E_10044294.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "26-09-2026",
+  "hora": "17:15",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "CULTURAL DPVA. DURANGO, S.",
+  "equipo_visitante": "EIBAR, S.D.",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "CARCEDO SOTO, SERGIO"
+  ],
+  "estadio": "TABIRA",
+  "ciudad": "Durango",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "BASAURI LASA, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "SANZ MUGICA, ENDIKA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "ALONSO MODENES, UNAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DIAZ DE CERIO ROYUELA, IÑIGO",
+  "entrenador_visitante": "ITUARTE OLANO, JON",
+  "segundo_entrenador_local": "GOMEZ-CORONADO PUENTE, DIEGO",
+  "segundo_entrenador_visitante": "GARAGARZA SASIETA, ENDIKA",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GUISASOLA ALTUNA, MARKEL",
+  "titulares_local": [
+    "ORTIZ DE ZARATE IBAÑEZ, LUKA",
+    "AJURIAGERRA RUIZ, ARATZ",
+    "AJURIA RODRIGUEZ, XABIER",
+    "OTXOA DE RETANA GOMES, AITOR",
+    "PADILLA CARRETAS, AIMAR",
+    "ALBERDI ETXABE, ANER",
+    "ARANBURU GONZALEZ DE AUDICANA, MARKEL",
+    "ARRIAGA BERANOAGUIRRE, IPAR",
+    "ETXEBARRIA PEREZ DE LASTRA, PAUL",
+    "GARCIA CHICA, UNAX",
+    "PEREZ ALBARRAN, UNAX"
+  ],
+  "titulares_visitante": [
+    "CAMARA PEREZ, MARCOS",
+    "IRAZABAL MADARIAGA, IGOR",
+    "BASAURI LASA, ANDER",
+    "GONZALEZ SAN JUAN, HODEI",
+    "SAMPEDRO GONZALEZ, NICOLAS",
+    "ALONSO MODENES, UNAI",
+    "VIDAL PEÑA, IMANOL",
+    "DE LA MATA QUESADA, ANER",
+    "ALKORTA DUARTE, IBON",
+    "CONDE MATILLA, JON",
+    "CORMAN LOPEZ, UNAI"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ GULIN, ARATZ",
+    "ALBERDI LAMARIANO, URKO",
+    "LI, ZEXI",
+    "LOPEZ LASUEN, ANER",
+    "MENA DIEZ, OIER",
+    "ARCARAZO ZUMARRAGA, JON",
+    "ARAQUISTAIN SALBIDE, ENEKO"
+  ],
+  "suplentes_visitante": [
+    "URAIN SANTANO, ENEKO",
+    "GISASOLA BERNARDO, EKAIN",
+    "SARASQUETA SALOMON, GALDER",
+    "MAIGA KOITA, CHEICKE HAMALA",
+    "SANZ MUGICA, ENDIKA",
+    "OIANGUREN LEON, LUAR",
+    "TALLEDO AGUSTIN, OIHAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "FERNANDEZ GULIN, ARATZ",
+    "LOPEZ LASUEN, ANER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "URAIN SANTANO, ENEKO",
+    "OIANGUREN LEON, LUAR"
+  ],
+  "jugadores_local": [
+    "ORTIZ DE ZARATE IBAÑEZ, LUKA",
+    "AJURIAGERRA RUIZ, ARATZ",
+    "AJURIA RODRIGUEZ, XABIER",
+    "OTXOA DE RETANA GOMES, AITOR",
+    "PADILLA CARRETAS, AIMAR",
+    "ALBERDI ETXABE, ANER",
+    "ARANBURU GONZALEZ DE AUDICANA, MARKEL",
+    "ARRIAGA BERANOAGUIRRE, IPAR",
+    "ETXEBARRIA PEREZ DE LASTRA, PAUL",
+    "GARCIA CHICA, UNAX",
+    "PEREZ ALBARRAN, UNAX",
+    "LI, ZEXI",
+    "MENA DIEZ, OIER",
+    "ARAQUISTAIN SALBIDE, ENEKO",
+    "ALBERDI LAMARIANO, URKO",
+    "ARCARAZO ZUMARRAGA, JON"
+  ],
+  "jugadores_visitante": [
+    "CAMARA PEREZ, MARCOS",
+    "IRAZABAL MADARIAGA, IGOR",
+    "BASAURI LASA, ANDER",
+    "GONZALEZ SAN JUAN, HODEI",
+    "SAMPEDRO GONZALEZ, NICOLAS",
+    "ALONSO MODENES, UNAI",
+    "VIDAL PEÑA, IMANOL",
+    "DE LA MATA QUESADA, ANER",
+    "ALKORTA DUARTE, IBON",
+    "CONDE MATILLA, JON",
+    "CORMAN LOPEZ, UNAI",
+    "SANZ MUGICA, ENDIKA",
+    "MAIGA KOITA, CHEICKE HAMALA",
+    "GISASOLA BERNARDO, EKAIN",
+    "SARASQUETA SALOMON, GALDER",
+    "TALLEDO AGUSTIN, OIHAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "LI, ZEXI",
+      "sale": "GARCIA CHICA, UNAX"
+    },
+    {
+      "min": 41,
+      "entra": "MENA DIEZ, OIER",
+      "sale": "PEREZ ALBARRAN, UNAX"
+    },
+    {
+      "min": 55,
+      "entra": "ARAQUISTAIN SALBIDE, ENEKO",
+      "sale": "AJURIA RODRIGUEZ, XABIER"
+    },
+    {
+      "min": 62,
+      "entra": "ALBERDI LAMARIANO, URKO",
+      "sale": "ETXEBARRIA PEREZ DE LASTRA, PAUL"
+    },
+    {
+      "min": 68,
+      "entra": "ARCARAZO ZUMARRAGA, JON",
+      "sale": "ALBERDI ETXABE, ANER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "SANZ MUGICA, ENDIKA",
+      "sale": "SAMPEDRO GONZALEZ, NICOLAS"
+    },
+    {
+      "min": 57,
+      "entra": "MAIGA KOITA, CHEICKE HAMALA",
+      "sale": "VIDAL PEÑA, IMANOL"
+    },
+    {
+      "min": 57,
+      "entra": "GISASOLA BERNARDO, EKAIN",
+      "sale": "DE LA MATA QUESADA, ANER"
+    },
+    {
+      "min": 62,
+      "entra": "SARASQUETA SALOMON, GALDER",
+      "sale": "CONDE MATILLA, JON"
+    },
+    {
+      "min": 62,
+      "entra": "TALLEDO AGUSTIN, OIHAN",
+      "sale": "ALKORTA DUARTE, IBON"
+    }
+  ],
+  "minutos_jugadores": {
+    "ORTIZ DE ZARATE IBAÑEZ, LUKA": 90,
+    "AJURIAGERRA RUIZ, ARATZ": 90,
+    "AJURIA RODRIGUEZ, XABIER": 55,
+    "OTXOA DE RETANA GOMES, AITOR": 90,
+    "PADILLA CARRETAS, AIMAR": 90,
+    "ALBERDI ETXABE, ANER": 68,
+    "ARANBURU GONZALEZ DE AUDICANA, MARKEL": 90,
+    "ARRIAGA BERANOAGUIRRE, IPAR": 90,
+    "ETXEBARRIA PEREZ DE LASTRA, PAUL": 62,
+    "GARCIA CHICA, UNAX": 41,
+    "PEREZ ALBARRAN, UNAX": 41,
+    "LI, ZEXI": 49,
+    "MENA DIEZ, OIER": 49,
+    "ARAQUISTAIN SALBIDE, ENEKO": 35,
+    "ALBERDI LAMARIANO, URKO": 28,
+    "ARCARAZO ZUMARRAGA, JON": 22,
+    "CAMARA PEREZ, MARCOS": 90,
+    "IRAZABAL MADARIAGA, IGOR": 90,
+    "BASAURI LASA, ANDER": 90,
+    "GONZALEZ SAN JUAN, HODEI": 90,
+    "SAMPEDRO GONZALEZ, NICOLAS": 50,
+    "ALONSO MODENES, UNAI": 90,
+    "VIDAL PEÑA, IMANOL": 57,
+    "DE LA MATA QUESADA, ANER": 57,
+    "ALKORTA DUARTE, IBON": 62,
+    "CONDE MATILLA, JON": 62,
+    "CORMAN LOPEZ, UNAI": 90,
+    "SANZ MUGICA, ENDIKA": 40,
+    "MAIGA KOITA, CHEICKE HAMALA": 33,
+    "GISASOLA BERNARDO, EKAIN": 33,
+    "SARASQUETA SALOMON, GALDER": 28,
+    "TALLEDO AGUSTIN, OIHAN": 28
+  },
+  "portero_local": "ORTIZ DE ZARATE IBAÑEZ, LUKA",
+  "portero_visitante": "CAMARA PEREZ, MARCOS",
+  "dorsales_local": {
+    "ORTIZ DE ZARATE IBAÑEZ, LUKA": 1,
+    "AJURIAGERRA RUIZ, ARATZ": 2,
+    "AJURIA RODRIGUEZ, XABIER": 3,
+    "OTXOA DE RETANA GOMES, AITOR": 4,
+    "PADILLA CARRETAS, AIMAR": 5,
+    "ALBERDI ETXABE, ANER": 6,
+    "ARANBURU GONZALEZ DE AUDICANA, MARKEL": 7,
+    "ARRIAGA BERANOAGUIRRE, IPAR": 8,
+    "ETXEBARRIA PEREZ DE LASTRA, PAUL": 9,
+    "GARCIA CHICA, UNAX": 10,
+    "PEREZ ALBARRAN, UNAX": 11
+  },
+  "dorsales_visitante": {
+    "CAMARA PEREZ, MARCOS": 13,
+    "IRAZABAL MADARIAGA, IGOR": 5,
+    "BASAURI LASA, ANDER": 6,
+    "GONZALEZ SAN JUAN, HODEI": 7,
+    "SAMPEDRO GONZALEZ, NICOLAS": 8,
+    "ALONSO MODENES, UNAI": 12,
+    "VIDAL PEÑA, IMANOL": 14,
+    "DE LA MATA QUESADA, ANER": 15,
+    "ALKORTA DUARTE, IBON": 17,
+    "CONDE MATILLA, JON": 19,
+    "CORMAN LOPEZ, UNAI": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
