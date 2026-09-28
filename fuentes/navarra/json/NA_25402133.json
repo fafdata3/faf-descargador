@@ -1,0 +1,406 @@
+{
+  "acta_id": "NA_25402133",
+  "filename": "Acta_NA_25402133.txt",
+  "fuente": "navarra",
+  "temporada": "2024-2025",
+  "jornada": 24,
+  "fecha": "15-03-2025",
+  "hora": "12:00",
+  "categoria": "Segunda Cadete - Juegos Deportivos de Navarra (Grupo 5º)",
+  "equipo_local": "Berriozar C.F. C",
+  "equipo_visitante": "C.D. Valle de Egües B",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "Ibáñez Barco, Haritz"
+  ],
+  "estadio": "Municipal de Berriozar",
+  "ciudad": "Berriozar",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "Ventsislavov Koynarov, Antonio",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "Mutilva Andueza, Unax",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "Cambra Salazar, Hugo",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "Salcedo Costa, Miquel Smith",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "Mutilva Andueza, Unax",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "DEL BARCO SANCHEZ, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 53,
+      "jugador": "Fernandez Gonzalez, Esdras",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "C.D. Valle de Egües B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Calvo Sanchez, Roberto",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Patrocinadores",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Proveedores Oficiales",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Colaboradores",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Canal de denuncias",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Ley de Transparencia",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Mapa web",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Soporte técnico",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Arrieta 3 - 1º planta",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "31002 Pamplona - Navarra (España)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "948 22 99 33",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "- Lunes a jueves: 9:30-17:30",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "- Viernes: 9:00-15:00",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "Federación Navarra de Fútbol^^",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "La configuración de privacidad",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ORTEGA ALMENDROS, IVAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DEL BARCO SANCHEZ, SERGIO",
+  "delegado_equipo_visitante": "Calvo Sanchez, Roberto",
+  "titulares_local": [
+    "Pousada Liza, Julen Marcos",
+    "Liberal Rascon, Asier",
+    "Popovici, Daniel Claudiu",
+    "Goldaraz Barbarin, Aitor",
+    "Serna Rodriguez, Martin Telmo",
+    "Boutaleb Zeroual, Sami",
+    "Cambra Salazar, Hugo",
+    "Ventsislavov Koynarov, Antonio",
+    "Gorria Albizu, Julen",
+    "Fernandez Gonzalez, Esdras",
+    "Chanboun Nouali, Riyad"
+  ],
+  "titulares_visitante": [
+    "PEREZ VIEIRA, ERIK",
+    "Martorell Arraiza, Ekaitz",
+    "Zaratiegui Corredor, Mikel",
+    "Tenesaca Aushay, James Alexander",
+    "Mutilva Andueza, Unax",
+    "Hernandez Gorriz, Asier",
+    "Larrea Gonzalez, Asier",
+    "Irisarri Aldave, Iñigo",
+    "CALVO RUIZ DE GAONA, HUGO",
+    "Arotzarena Martin, Xabier",
+    "Urrutia Madoz, Josu"
+  ],
+  "suplentes_local": [
+    "Gonzalo Irañeta, Angel",
+    "Ait Lahcen Bouhamdaine, Hanza",
+    "Vizcano Teixeira, Eneko",
+    "Bermejo Gago, Gabriel",
+    "Gomes Jimenez, Aimar",
+    "Freitas Martins, Nuno Miguel"
+  ],
+  "suplentes_visitante": [
+    "Satrustegui Denia, Mario",
+    "Calvo Villanueva, Lucas",
+    "Arranz Zudaire, Markel",
+    "Salcedo Costa, Miquel Smith",
+    "DIAZ DE CERIO FLAMARIQUE, HECTOR",
+    "Molina Molina, Aritz"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "Pousada Liza, Julen Marcos",
+    "Liberal Rascon, Asier",
+    "Popovici, Daniel Claudiu",
+    "Goldaraz Barbarin, Aitor",
+    "Serna Rodriguez, Martin Telmo",
+    "Boutaleb Zeroual, Sami",
+    "Cambra Salazar, Hugo",
+    "Ventsislavov Koynarov, Antonio",
+    "Gorria Albizu, Julen",
+    "Fernandez Gonzalez, Esdras",
+    "Chanboun Nouali, Riyad",
+    "Gonzalo Irañeta, Angel",
+    "Vizcano Teixeira, Eneko",
+    "Ait Lahcen Bouhamdaine, Hanza",
+    "Gomes Jimenez, Aimar",
+    "Freitas Martins, Nuno Miguel",
+    "Bermejo Gago, Gabriel"
+  ],
+  "jugadores_visitante": [
+    "PEREZ VIEIRA, ERIK",
+    "Martorell Arraiza, Ekaitz",
+    "Zaratiegui Corredor, Mikel",
+    "Tenesaca Aushay, James Alexander",
+    "Mutilva Andueza, Unax",
+    "Hernandez Gorriz, Asier",
+    "Larrea Gonzalez, Asier",
+    "Irisarri Aldave, Iñigo",
+    "CALVO RUIZ DE GAONA, HUGO",
+    "Arotzarena Martin, Xabier",
+    "Urrutia Madoz, Josu",
+    "Salcedo Costa, Miquel Smith",
+    "Arranz Zudaire, Markel",
+    "Calvo Villanueva, Lucas",
+    "DIAZ DE CERIO FLAMARIQUE, HECTOR",
+    "Molina Molina, Aritz",
+    "Satrustegui Denia, Mario"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "Gonzalo Irañeta, Angel",
+      "sale": "Pousada Liza, Julen Marcos"
+    },
+    {
+      "min": 51,
+      "entra": "Vizcano Teixeira, Eneko",
+      "sale": "Ventsislavov Koynarov, Antonio"
+    },
+    {
+      "min": 51,
+      "entra": "Ait Lahcen Bouhamdaine, Hanza",
+      "sale": "Liberal Rascon, Asier"
+    },
+    {
+      "min": 65,
+      "entra": "Gomes Jimenez, Aimar",
+      "sale": "Fernandez Gonzalez, Esdras"
+    },
+    {
+      "min": 73,
+      "entra": "Freitas Martins, Nuno Miguel",
+      "sale": "Cambra Salazar, Hugo"
+    },
+    {
+      "min": 73,
+      "entra": "Bermejo Gago, Gabriel",
+      "sale": "Chanboun Nouali, Riyad"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "Salcedo Costa, Miquel Smith",
+      "sale": "Irisarri Aldave, Iñigo"
+    },
+    {
+      "min": 50,
+      "entra": "Arranz Zudaire, Markel",
+      "sale": "Urrutia Madoz, Josu"
+    },
+    {
+      "min": 50,
+      "entra": "Calvo Villanueva, Lucas",
+      "sale": "Martorell Arraiza, Ekaitz"
+    },
+    {
+      "min": 50,
+      "entra": "DIAZ DE CERIO FLAMARIQUE, HECTOR",
+      "sale": "Larrea Gonzalez, Asier"
+    },
+    {
+      "min": 56,
+      "entra": "Molina Molina, Aritz",
+      "sale": "CALVO RUIZ DE GAONA, HUGO"
+    },
+    {
+      "min": 56,
+      "entra": "Satrustegui Denia, Mario",
+      "sale": "Tenesaca Aushay, James Alexander"
+    }
+  ],
+  "minutos_jugadores": {
+    "Pousada Liza, Julen Marcos": 40,
+    "Liberal Rascon, Asier": 51,
+    "Popovici, Daniel Claudiu": 90,
+    "Goldaraz Barbarin, Aitor": 90,
+    "Serna Rodriguez, Martin Telmo": 90,
+    "Boutaleb Zeroual, Sami": 90,
+    "Cambra Salazar, Hugo": 73,
+    "Ventsislavov Koynarov, Antonio": 51,
+    "Gorria Albizu, Julen": 90,
+    "Fernandez Gonzalez, Esdras": 65,
+    "Chanboun Nouali, Riyad": 73,
+    "Gonzalo Irañeta, Angel": 50,
+    "Vizcano Teixeira, Eneko": 39,
+    "Ait Lahcen Bouhamdaine, Hanza": 39,
+    "Gomes Jimenez, Aimar": 25,
+    "Freitas Martins, Nuno Miguel": 17,
+    "Bermejo Gago, Gabriel": 17,
+    "PEREZ VIEIRA, ERIK": 90,
+    "Martorell Arraiza, Ekaitz": 50,
+    "Zaratiegui Corredor, Mikel": 90,
+    "Tenesaca Aushay, James Alexander": 56,
+    "Mutilva Andueza, Unax": 90,
+    "Hernandez Gorriz, Asier": 90,
+    "Larrea Gonzalez, Asier": 50,
+    "Irisarri Aldave, Iñigo": 40,
+    "CALVO RUIZ DE GAONA, HUGO": 56,
+    "Arotzarena Martin, Xabier": 90,
+    "Urrutia Madoz, Josu": 50,
+    "Salcedo Costa, Miquel Smith": 50,
+    "Arranz Zudaire, Markel": 40,
+    "Calvo Villanueva, Lucas": 40,
+    "DIAZ DE CERIO FLAMARIQUE, HECTOR": 40,
+    "Molina Molina, Aritz": 34,
+    "Satrustegui Denia, Mario": 34
+  },
+  "portero_local": "Pousada Liza, Julen Marcos",
+  "portero_visitante": "PEREZ VIEIRA, ERIK",
+  "dorsales_local": {
+    "Pousada Liza, Julen Marcos": 30,
+    "Liberal Rascon, Asier": 3,
+    "Popovici, Daniel Claudiu": 4,
+    "Goldaraz Barbarin, Aitor": 5,
+    "Serna Rodriguez, Martin Telmo": 6,
+    "Boutaleb Zeroual, Sami": 8,
+    "Cambra Salazar, Hugo": 9,
+    "Ventsislavov Koynarov, Antonio": 11,
+    "Gorria Albizu, Julen": 14,
+    "Fernandez Gonzalez, Esdras": 16,
+    "Chanboun Nouali, Riyad": 19
+  },
+  "dorsales_visitante": {
+    "PEREZ VIEIRA, ERIK": 1,
+    "Martorell Arraiza, Ekaitz": 3,
+    "Zaratiegui Corredor, Mikel": 4,
+    "Tenesaca Aushay, James Alexander": 5,
+    "Mutilva Andueza, Unax": 6,
+    "Hernandez Gorriz, Asier": 8,
+    "Larrea Gonzalez, Asier": 10,
+    "Irisarri Aldave, Iñigo": 11,
+    "CALVO RUIZ DE GAONA, HUGO": 15,
+    "Arotzarena Martin, Xabier": 16,
+    "Urrutia Madoz, Josu": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
