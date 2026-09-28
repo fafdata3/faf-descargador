@@ -1,0 +1,264 @@
+{
+  "acta_id": "10053992",
+  "filename": "Acta_10053992.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "26-09-2026",
+  "hora": "18:00",
+  "categoria": "PREFERENTE JUVENIL / GAZTEEN LEHENTASUNEZKO MAILA (GRUPO UNICO / TALDE BAKARRA)",
+  "equipo_local": "ABETXUKO ADC B",
+  "equipo_visitante": "ZARAMAGA C.F. A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "EL HELOUI OULAD ELKADI, MOHAMED"
+  ],
+  "estadio": "AMETSA",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "DE SOUZA DA SILVA, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "DE SOUZA DA SILVA, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 32,
+      "jugador": "SAENZ DE CAMARA CARBAJO, XABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "CHTAOUI GHACHAD, OMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 9,
+      "jugador": "BIANCO GUTIERREZ, ANGEL ABRAHAM",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 9,
+      "jugador": "ZARAMAGA C.F. A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "CHTAOUI GHACHAD, OMAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "AALLAM OUCHNINE, NIZAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ IBARROLA, JOSE FRANCISCO",
+  "entrenador_visitante": "PROL SANCHEZ, JOSE ANTONIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ELIO GARCIA DE ACILU, ALBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BARCENILLA CORRES, UNAI",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "MARTINEZ DE ANTOÑANA GARAYO, HARRI",
+    "GONZALEZ GUBIA, AITOR",
+    "MUJIKA VICARIO, MARKEL",
+    "NAVARRO MORALES, EMILIO",
+    "ELIO PEREZ DE EULATE, DANIEL",
+    "BIANCO GUTIERREZ, ANGEL ABRAHAM",
+    "ARISTONDO MARTIN, TASIO",
+    "ALDANONDO MARAÑON, UNAX",
+    "DE SOUZA DA SILVA, DAVID",
+    "IBISATE GARCIA, JORITZ",
+    "MOLINUEVO SAENZ DE POBES, GABRIEL"
+  ],
+  "titulares_visitante": [
+    "VILLACIAN LOPEZ DE ALDA, AMAIUR",
+    "ARABULI, AVTANDIL",
+    "DOMINGUEZ SORIA, IGOR",
+    "SAENZ DE CAMARA CARBAJO, XABIER",
+    "TIBOUDA ABARYAH, YOUSSEF",
+    "VERA BASTIDAS, ANTHONY",
+    "LOPEZ SALAZAR, UNAX",
+    "RODRIGUEZ PARRILLA, IÑIGO",
+    "ECHEVERRIA BANGOURA, OUSMAN",
+    "MEDINA GALVEZ, JONATHAN GONZALO",
+    "HUAYLLANI RAMIREZ, IKER JOSE"
+  ],
+  "suplentes_local": [
+    "SUSO ECHEVARRIA, DANIEL",
+    "SOUICI BOURAHLA, AKRAM",
+    "HERNANDEZ BARBERO, JON",
+    "MURUAMENDIARAZ GIL, HODEI"
+  ],
+  "suplentes_visitante": [
+    "CHTAOUI GHACHAD, OMAR",
+    "AALLAM OUCHNINE, NIZAR",
+    "ETXABE SAENZ DE URTURI, EKAIN",
+    "GUINEA BERASATEGUI, ALAI"
+  ],
+  "convocados_sin_jugar_local": [
+    "SUSO ECHEVARRIA, DANIEL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MARTINEZ DE ANTOÑANA GARAYO, HARRI",
+    "GONZALEZ GUBIA, AITOR",
+    "MUJIKA VICARIO, MARKEL",
+    "NAVARRO MORALES, EMILIO",
+    "ELIO PEREZ DE EULATE, DANIEL",
+    "BIANCO GUTIERREZ, ANGEL ABRAHAM",
+    "ARISTONDO MARTIN, TASIO",
+    "ALDANONDO MARAÑON, UNAX",
+    "DE SOUZA DA SILVA, DAVID",
+    "IBISATE GARCIA, JORITZ",
+    "MOLINUEVO SAENZ DE POBES, GABRIEL",
+    "SOUICI BOURAHLA, AKRAM",
+    "HERNANDEZ BARBERO, JON",
+    "MURUAMENDIARAZ GIL, HODEI"
+  ],
+  "jugadores_visitante": [
+    "VILLACIAN LOPEZ DE ALDA, AMAIUR",
+    "ARABULI, AVTANDIL",
+    "DOMINGUEZ SORIA, IGOR",
+    "SAENZ DE CAMARA CARBAJO, XABIER",
+    "TIBOUDA ABARYAH, YOUSSEF",
+    "VERA BASTIDAS, ANTHONY",
+    "LOPEZ SALAZAR, UNAX",
+    "RODRIGUEZ PARRILLA, IÑIGO",
+    "ECHEVERRIA BANGOURA, OUSMAN",
+    "MEDINA GALVEZ, JONATHAN GONZALO",
+    "HUAYLLANI RAMIREZ, IKER JOSE",
+    "CHTAOUI GHACHAD, OMAR",
+    "GUINEA BERASATEGUI, ALAI",
+    "ETXABE SAENZ DE URTURI, EKAIN",
+    "AALLAM OUCHNINE, NIZAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 61,
+      "entra": "SOUICI BOURAHLA, AKRAM",
+      "sale": "GONZALEZ GUBIA, AITOR"
+    },
+    {
+      "min": 66,
+      "entra": "HERNANDEZ BARBERO, JON",
+      "sale": "DE SOUZA DA SILVA, DAVID"
+    },
+    {
+      "min": 90,
+      "entra": "MURUAMENDIARAZ GIL, HODEI",
+      "sale": "SOUICI BOURAHLA, AKRAM"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "CHTAOUI GHACHAD, OMAR",
+      "sale": "HUAYLLANI RAMIREZ, IKER JOSE"
+    },
+    {
+      "min": 66,
+      "entra": "GUINEA BERASATEGUI, ALAI",
+      "sale": "RODRIGUEZ PARRILLA, IÑIGO"
+    },
+    {
+      "min": 75,
+      "entra": "ETXABE SAENZ DE URTURI, EKAIN",
+      "sale": "VERA BASTIDAS, ANTHONY"
+    },
+    {
+      "min": 84,
+      "entra": "AALLAM OUCHNINE, NIZAR",
+      "sale": "ARABULI, AVTANDIL"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTINEZ DE ANTOÑANA GARAYO, HARRI": 90,
+    "GONZALEZ GUBIA, AITOR": 61,
+    "MUJIKA VICARIO, MARKEL": 90,
+    "NAVARRO MORALES, EMILIO": 90,
+    "ELIO PEREZ DE EULATE, DANIEL": 90,
+    "BIANCO GUTIERREZ, ANGEL ABRAHAM": 90,
+    "ARISTONDO MARTIN, TASIO": 90,
+    "ALDANONDO MARAÑON, UNAX": 90,
+    "DE SOUZA DA SILVA, DAVID": 66,
+    "IBISATE GARCIA, JORITZ": 90,
+    "MOLINUEVO SAENZ DE POBES, GABRIEL": 90,
+    "SOUICI BOURAHLA, AKRAM": 90,
+    "HERNANDEZ BARBERO, JON": 24,
+    "MURUAMENDIARAZ GIL, HODEI": 0,
+    "VILLACIAN LOPEZ DE ALDA, AMAIUR": 90,
+    "ARABULI, AVTANDIL": 84,
+    "DOMINGUEZ SORIA, IGOR": 90,
+    "SAENZ DE CAMARA CARBAJO, XABIER": 90,
+    "TIBOUDA ABARYAH, YOUSSEF": 90,
+    "VERA BASTIDAS, ANTHONY": 75,
+    "LOPEZ SALAZAR, UNAX": 90,
+    "RODRIGUEZ PARRILLA, IÑIGO": 66,
+    "ECHEVERRIA BANGOURA, OUSMAN": 90,
+    "MEDINA GALVEZ, JONATHAN GONZALO": 90,
+    "HUAYLLANI RAMIREZ, IKER JOSE": 58,
+    "CHTAOUI GHACHAD, OMAR": 32,
+    "GUINEA BERASATEGUI, ALAI": 24,
+    "ETXABE SAENZ DE URTURI, EKAIN": 15,
+    "AALLAM OUCHNINE, NIZAR": 6
+  },
+  "portero_local": "MARTINEZ DE ANTOÑANA GARAYO, HARRI",
+  "portero_visitante": "VILLACIAN LOPEZ DE ALDA, AMAIUR",
+  "dorsales_local": {
+    "MARTINEZ DE ANTOÑANA GARAYO, HARRI": 66,
+    "GONZALEZ GUBIA, AITOR": 8,
+    "MUJIKA VICARIO, MARKEL": 9,
+    "NAVARRO MORALES, EMILIO": 11,
+    "ELIO PEREZ DE EULATE, DANIEL": 14,
+    "BIANCO GUTIERREZ, ANGEL ABRAHAM": 19,
+    "ARISTONDO MARTIN, TASIO": 20,
+    "ALDANONDO MARAÑON, UNAX": 21,
+    "DE SOUZA DA SILVA, DAVID": 22,
+    "IBISATE GARCIA, JORITZ": 60,
+    "MOLINUEVO SAENZ DE POBES, GABRIEL": 99
+  },
+  "dorsales_visitante": {
+    "VILLACIAN LOPEZ DE ALDA, AMAIUR": 1,
+    "ARABULI, AVTANDIL": 5,
+    "DOMINGUEZ SORIA, IGOR": 7,
+    "SAENZ DE CAMARA CARBAJO, XABIER": 8,
+    "TIBOUDA ABARYAH, YOUSSEF": 12,
+    "VERA BASTIDAS, ANTHONY": 16,
+    "LOPEZ SALAZAR, UNAX": 18,
+    "RODRIGUEZ PARRILLA, IÑIGO": 19,
+    "ECHEVERRIA BANGOURA, OUSMAN": 23,
+    "MEDINA GALVEZ, JONATHAN GONZALO": 27,
+    "HUAYLLANI RAMIREZ, IKER JOSE": 45
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
