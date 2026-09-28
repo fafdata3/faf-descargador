@@ -1,0 +1,286 @@
+{
+  "acta_id": "E_10043974",
+  "filename": "Acta_E_10043974.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "19-09-2026",
+  "hora": "15:30",
+  "categoria": "LIGA VASCA JUVENIL / GAZTEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "ARRUPE-CHAMINADE, C.D.D.F.",
+  "equipo_visitante": "DEUSTO",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CESPEDES URBIETA, JON ANDER"
+  ],
+  "estadio": "FÉLIX GARÍN",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "ANZA ZALAKAIN, PERU",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "ARANA FUENZALIDA, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "OTAÑO USARRALDE, IRAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "ANZA ZALAKAIN, PERU",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "OTAÑO USARRALDE, IRAITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "DEUSTO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "HERRAN OLMOS, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "OTEGI ZURUTUZA, OIER",
+  "entrenador_visitante": "MARTINEZ GOMEZ, ASIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HERRERO POSTIGO, IKER",
+  "delegado_equipo_visitante": "RODRIGUEZ BUENO, LUIS MIGUEL",
+  "titulares_local": [
+    "BENGOETXEA CANDUELA, JON ANDER",
+    "REGUEIRA ITURBE, MARTIN",
+    "ANZA ZALAKAIN, PERU",
+    "PRADERA BORISOV, AIMAR",
+    "DUO MARTINEZ, ANDER",
+    "CROS MERINO, KEANU",
+    "CARBALLA ALVAREZ, RICHARD",
+    "CERDAN COJO, PABLO",
+    "SUAREZ SALINAS, ALEX DAVID",
+    "OTAÑO USARRALDE, IRAITZ",
+    "URBISTONDO PEREZ, JUAN"
+  ],
+  "titulares_visitante": [
+    "GUTIERREZ JUARRERO, ANDER",
+    "DEL OLMO GAREA, MARKEL",
+    "ARRINDA AZPIAZU, BEÑAT",
+    "GALAN AZKUENAGA, AITOR",
+    "HERRAN OLMOS, MARKEL",
+    "CALLE PRESA, MARKEL",
+    "LARRONDO ORTUONDO, MARTIN",
+    "URREIZTIETA LEGINAGOIKOA, ARITZ",
+    "MINETTI AYO, MARKEL",
+    "DE ARROITA FERNANDEZ, PABLO",
+    "ARANA FUENZALIDA, OIER"
+  ],
+  "suplentes_local": [
+    "NIN MARTINEZ, ALVARO",
+    "PUENTE CALDERON, CARLOS",
+    "MARTINEZ AGUIRREZABALA, IBAI",
+    "RECALDE CASTRO, JON",
+    "NUÑO IZA, UNAX",
+    "UGALDE IZQUIERDO, IÑIGO",
+    "ODRIOZABALA MUJIKA, EKHI"
+  ],
+  "suplentes_visitante": [
+    "BASTIDA ESTEBAN, EGOITZ",
+    "RODRIGUEZ DA FONSECA, JULEN",
+    "GOMEZ MARTINEZ, DANIEL",
+    "BARCIA GARCIA, HUGO",
+    "MACEDA CONDE, LANDER",
+    "ELORRIAGA LOPEZ, AIMAR"
+  ],
+  "convocados_sin_jugar_local": [
+    "NIN MARTINEZ, ALVARO",
+    "ODRIOZABALA MUJIKA, EKHI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BASTIDA ESTEBAN, EGOITZ"
+  ],
+  "jugadores_local": [
+    "BENGOETXEA CANDUELA, JON ANDER",
+    "REGUEIRA ITURBE, MARTIN",
+    "ANZA ZALAKAIN, PERU",
+    "PRADERA BORISOV, AIMAR",
+    "DUO MARTINEZ, ANDER",
+    "CROS MERINO, KEANU",
+    "CARBALLA ALVAREZ, RICHARD",
+    "CERDAN COJO, PABLO",
+    "SUAREZ SALINAS, ALEX DAVID",
+    "OTAÑO USARRALDE, IRAITZ",
+    "URBISTONDO PEREZ, JUAN",
+    "UGALDE IZQUIERDO, IÑIGO",
+    "PUENTE CALDERON, CARLOS",
+    "NUÑO IZA, UNAX",
+    "RECALDE CASTRO, JON",
+    "MARTINEZ AGUIRREZABALA, IBAI"
+  ],
+  "jugadores_visitante": [
+    "GUTIERREZ JUARRERO, ANDER",
+    "DEL OLMO GAREA, MARKEL",
+    "ARRINDA AZPIAZU, BEÑAT",
+    "GALAN AZKUENAGA, AITOR",
+    "HERRAN OLMOS, MARKEL",
+    "CALLE PRESA, MARKEL",
+    "LARRONDO ORTUONDO, MARTIN",
+    "URREIZTIETA LEGINAGOIKOA, ARITZ",
+    "MINETTI AYO, MARKEL",
+    "DE ARROITA FERNANDEZ, PABLO",
+    "ARANA FUENZALIDA, OIER",
+    "BARCIA GARCIA, HUGO",
+    "RODRIGUEZ DA FONSECA, JULEN",
+    "GOMEZ MARTINEZ, DANIEL",
+    "MACEDA CONDE, LANDER",
+    "ELORRIAGA LOPEZ, AIMAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 64,
+      "entra": "UGALDE IZQUIERDO, IÑIGO",
+      "sale": "REGUEIRA ITURBE, MARTIN"
+    },
+    {
+      "min": 64,
+      "entra": "PUENTE CALDERON, CARLOS",
+      "sale": "PRADERA BORISOV, AIMAR"
+    },
+    {
+      "min": 78,
+      "entra": "NUÑO IZA, UNAX",
+      "sale": "DUO MARTINEZ, ANDER"
+    },
+    {
+      "min": 78,
+      "entra": "RECALDE CASTRO, JON",
+      "sale": "CERDAN COJO, PABLO"
+    },
+    {
+      "min": 84,
+      "entra": "MARTINEZ AGUIRREZABALA, IBAI",
+      "sale": "CROS MERINO, KEANU"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 57,
+      "entra": "BARCIA GARCIA, HUGO",
+      "sale": "ARANA FUENZALIDA, OIER"
+    },
+    {
+      "min": 57,
+      "entra": "RODRIGUEZ DA FONSECA, JULEN",
+      "sale": "GALAN AZKUENAGA, AITOR"
+    },
+    {
+      "min": 70,
+      "entra": "GOMEZ MARTINEZ, DANIEL",
+      "sale": "URREIZTIETA LEGINAGOIKOA, ARITZ"
+    },
+    {
+      "min": 70,
+      "entra": "MACEDA CONDE, LANDER",
+      "sale": "CALLE PRESA, MARKEL"
+    },
+    {
+      "min": 76,
+      "entra": "ELORRIAGA LOPEZ, AIMAR",
+      "sale": "HERRAN OLMOS, MARKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "BENGOETXEA CANDUELA, JON ANDER": 90,
+    "REGUEIRA ITURBE, MARTIN": 64,
+    "ANZA ZALAKAIN, PERU": 90,
+    "PRADERA BORISOV, AIMAR": 64,
+    "DUO MARTINEZ, ANDER": 78,
+    "CROS MERINO, KEANU": 84,
+    "CARBALLA ALVAREZ, RICHARD": 90,
+    "CERDAN COJO, PABLO": 78,
+    "SUAREZ SALINAS, ALEX DAVID": 90,
+    "OTAÑO USARRALDE, IRAITZ": 90,
+    "URBISTONDO PEREZ, JUAN": 90,
+    "UGALDE IZQUIERDO, IÑIGO": 26,
+    "PUENTE CALDERON, CARLOS": 26,
+    "NUÑO IZA, UNAX": 12,
+    "RECALDE CASTRO, JON": 12,
+    "MARTINEZ AGUIRREZABALA, IBAI": 6,
+    "GUTIERREZ JUARRERO, ANDER": 90,
+    "DEL OLMO GAREA, MARKEL": 90,
+    "ARRINDA AZPIAZU, BEÑAT": 90,
+    "GALAN AZKUENAGA, AITOR": 57,
+    "HERRAN OLMOS, MARKEL": 76,
+    "CALLE PRESA, MARKEL": 70,
+    "LARRONDO ORTUONDO, MARTIN": 90,
+    "URREIZTIETA LEGINAGOIKOA, ARITZ": 70,
+    "MINETTI AYO, MARKEL": 90,
+    "DE ARROITA FERNANDEZ, PABLO": 90,
+    "ARANA FUENZALIDA, OIER": 57,
+    "BARCIA GARCIA, HUGO": 33,
+    "RODRIGUEZ DA FONSECA, JULEN": 33,
+    "GOMEZ MARTINEZ, DANIEL": 20,
+    "MACEDA CONDE, LANDER": 20,
+    "ELORRIAGA LOPEZ, AIMAR": 14
+  },
+  "portero_local": "BENGOETXEA CANDUELA, JON ANDER",
+  "portero_visitante": "GUTIERREZ JUARRERO, ANDER",
+  "dorsales_local": {
+    "BENGOETXEA CANDUELA, JON ANDER": 1,
+    "REGUEIRA ITURBE, MARTIN": 3,
+    "ANZA ZALAKAIN, PERU": 7,
+    "PRADERA BORISOV, AIMAR": 8,
+    "DUO MARTINEZ, ANDER": 10,
+    "CROS MERINO, KEANU": 11,
+    "CARBALLA ALVAREZ, RICHARD": 12,
+    "CERDAN COJO, PABLO": 14,
+    "SUAREZ SALINAS, ALEX DAVID": 16,
+    "OTAÑO USARRALDE, IRAITZ": 24,
+    "URBISTONDO PEREZ, JUAN": 25
+  },
+  "dorsales_visitante": {
+    "GUTIERREZ JUARRERO, ANDER": 13,
+    "DEL OLMO GAREA, MARKEL": 2,
+    "ARRINDA AZPIAZU, BEÑAT": 5,
+    "GALAN AZKUENAGA, AITOR": 7,
+    "HERRAN OLMOS, MARKEL": 8,
+    "CALLE PRESA, MARKEL": 14,
+    "LARRONDO ORTUONDO, MARTIN": 16,
+    "URREIZTIETA LEGINAGOIKOA, ARITZ": 18,
+    "MINETTI AYO, MARKEL": 19,
+    "DE ARROITA FERNANDEZ, PABLO": 22,
+    "ARANA FUENZALIDA, OIER": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
