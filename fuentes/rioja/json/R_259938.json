@@ -1,0 +1,271 @@
+{
+  "acta_id": "R_259938",
+  "filename": "Acta_R_259938.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "16:00",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "PEÑA BALSAMAISO",
+  "equipo_visitante": "OYONESA",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "HERNANDEZ CALVO DE LA BANDA, ALONSO",
+    "Árbitro Asistente",
+    "HERNANDEZ EL FAKIRI, ANUAR",
+    "Árbitro Asistente",
+    "DAVID, ELISEI"
+  ],
+  "estadio": "C.M. LA ESTRELLA - H.A. (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 40,
+      "jugador": "SERRANO MUGICA, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "LOPEZ PASCUAL, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "ALLOUNI ALLOUNI, YASSIR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "GARBA ABDULAI, INUSAH",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "OYONESA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "AGUADO SANTAMARIA, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZALEZ GARCIA, IÑIGO",
+  "entrenador_visitante": "PEREZ ORTEGA, RUBEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SARABIA ABASCAL, IMANOL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SOUAIDY, OUSSAMA",
+  "delegado_equipo_visitante": "FERNANDEZ RUIZ CARRILLO, VICTOR",
+  "titulares_local": [
+    "SALVATIERRA ROMERO, DANIEL",
+    "CARSTEA, ANDREI MANUEL",
+    "CORREA BEDOYA, JERONIMO",
+    "GARBA ABDULAI, INUSAH",
+    "ALLOUNI ALLOUNI, YASSIR",
+    "ORDEN ESPILA, PABLO",
+    "SERRANO MUGICA, OIER",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "MOLOVAE ESPINOZA, JOSEAN",
+    "BAYEME MAYE, DENIS JAVIER"
+  ],
+  "titulares_visitante": [
+    "GASTON MOISI, ENEKO",
+    "GARCIA LOPEZ, JORGE",
+    "DIALLO WLODARCZYK, IBRAHIM S",
+    "FERNANDEZ SANTA C, ARITZ",
+    "RUIZ MOLINA, JORGE",
+    "AGUADO SANTAMARIA, MARIO",
+    "ARKOUBI BOUZIDI, ABDEL MALEK",
+    "HERNANDO RAMIREZ, DIEGO",
+    "GIL TUCKWELL, SAMUEL",
+    "CAMARA SOUMAHORO, SHECK O",
+    "VEGA LOYO, ADRIAN"
+  ],
+  "suplentes_local": [
+    "ARROYO SORLI, ETHANIEL",
+    "HERNANDEZ LAS HERAS, VICTOR",
+    "GARCIA ORTI, BRUNO",
+    "MARCA TURBI, BRUNO",
+    "HERCE NAVARRO, SERGIO",
+    "MARTINEZ AMELIBIA, JORGE",
+    "MARTIN DEL RIO, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "GALVEZ RUBIO, MARCOS",
+    "BALDE, MAMADOU",
+    "MARTINEZ MARIN, MARIO",
+    "TENORIO SOBRON, NICOLAS",
+    "LOPEZ PASCUAL, HUGO",
+    "SANCHEZ NUÑEZ, RAFAEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARROYO SORLI, ETHANIEL",
+    "HERNANDEZ LAS HERAS, VICTOR",
+    "HERCE NAVARRO, SERGIO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GALVEZ RUBIO, MARCOS",
+    "BALDE, MAMADOU"
+  ],
+  "jugadores_local": [
+    "SALVATIERRA ROMERO, DANIEL",
+    "CARSTEA, ANDREI MANUEL",
+    "CORREA BEDOYA, JERONIMO",
+    "GARBA ABDULAI, INUSAH",
+    "ALLOUNI ALLOUNI, YASSIR",
+    "ORDEN ESPILA, PABLO",
+    "SERRANO MUGICA, OIER",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "MOLOVAE ESPINOZA, JOSEAN",
+    "BAYEME MAYE, DENIS JAVIER",
+    "MARCA TURBI, BRUNO",
+    "MARTINEZ AMELIBIA, JORGE",
+    "MARTIN DEL RIO, ALVARO",
+    "GARCIA ORTI, BRUNO"
+  ],
+  "jugadores_visitante": [
+    "GASTON MOISI, ENEKO",
+    "GARCIA LOPEZ, JORGE",
+    "DIALLO WLODARCZYK, IBRAHIM S",
+    "FERNANDEZ SANTA C, ARITZ",
+    "RUIZ MOLINA, JORGE",
+    "AGUADO SANTAMARIA, MARIO",
+    "ARKOUBI BOUZIDI, ABDEL MALEK",
+    "HERNANDO RAMIREZ, DIEGO",
+    "GIL TUCKWELL, SAMUEL",
+    "CAMARA SOUMAHORO, SHECK O",
+    "VEGA LOYO, ADRIAN",
+    "LOPEZ PASCUAL, HUGO",
+    "MARTINEZ MARIN, MARIO",
+    "TENORIO SOBRON, NICOLAS",
+    "SANCHEZ NUÑEZ, RAFAEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "MARCA TURBI, BRUNO",
+      "sale": "VACA ROSSELL, JOSEP CARLOS"
+    },
+    {
+      "min": 62,
+      "entra": "MARTINEZ AMELIBIA, JORGE",
+      "sale": "CORREA BEDOYA, JERONIMO"
+    },
+    {
+      "min": 74,
+      "entra": "MARTIN DEL RIO, ALVARO",
+      "sale": "SHTEMBARI AGARAJ, ALEX"
+    },
+    {
+      "min": 74,
+      "entra": "GARCIA ORTI, BRUNO",
+      "sale": "GARBA ABDULAI, INUSAH"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "LOPEZ PASCUAL, HUGO",
+      "sale": "HERNANDO RAMIREZ, DIEGO"
+    },
+    {
+      "min": 60,
+      "entra": "MARTINEZ MARIN, MARIO",
+      "sale": "RUIZ MOLINA, JORGE"
+    },
+    {
+      "min": 73,
+      "entra": "TENORIO SOBRON, NICOLAS",
+      "sale": "FERNANDEZ SANTA C, ARITZ"
+    },
+    {
+      "min": 84,
+      "entra": "SANCHEZ NUÑEZ, RAFAEL",
+      "sale": "ARKOUBI BOUZIDI, ABDEL MALEK"
+    }
+  ],
+  "minutos_jugadores": {
+    "SALVATIERRA ROMERO, DANIEL": 90,
+    "CARSTEA, ANDREI MANUEL": 90,
+    "CORREA BEDOYA, JERONIMO": 62,
+    "GARBA ABDULAI, INUSAH": 74,
+    "ALLOUNI ALLOUNI, YASSIR": 90,
+    "ORDEN ESPILA, PABLO": 90,
+    "SERRANO MUGICA, OIER": 90,
+    "VACA ROSSELL, JOSEP CARLOS": 59,
+    "SHTEMBARI AGARAJ, ALEX": 74,
+    "MOLOVAE ESPINOZA, JOSEAN": 90,
+    "BAYEME MAYE, DENIS JAVIER": 90,
+    "MARCA TURBI, BRUNO": 31,
+    "MARTINEZ AMELIBIA, JORGE": 28,
+    "MARTIN DEL RIO, ALVARO": 16,
+    "GARCIA ORTI, BRUNO": 16,
+    "GASTON MOISI, ENEKO": 90,
+    "GARCIA LOPEZ, JORGE": 90,
+    "DIALLO WLODARCZYK, IBRAHIM S": 90,
+    "FERNANDEZ SANTA C, ARITZ": 73,
+    "RUIZ MOLINA, JORGE": 60,
+    "AGUADO SANTAMARIA, MARIO": 90,
+    "ARKOUBI BOUZIDI, ABDEL MALEK": 84,
+    "HERNANDO RAMIREZ, DIEGO": 60,
+    "GIL TUCKWELL, SAMUEL": 90,
+    "CAMARA SOUMAHORO, SHECK O": 90,
+    "VEGA LOYO, ADRIAN": 90,
+    "LOPEZ PASCUAL, HUGO": 30,
+    "MARTINEZ MARIN, MARIO": 30,
+    "TENORIO SOBRON, NICOLAS": 17,
+    "SANCHEZ NUÑEZ, RAFAEL": 6
+  },
+  "portero_local": "SALVATIERRA ROMERO, DANIEL",
+  "portero_visitante": "GASTON MOISI, ENEKO",
+  "dorsales_local": {
+    "SALVATIERRA ROMERO, DANIEL": 1,
+    "CARSTEA, ANDREI MANUEL": 3,
+    "CORREA BEDOYA, JERONIMO": 4,
+    "GARBA ABDULAI, INUSAH": 7,
+    "ALLOUNI ALLOUNI, YASSIR": 8,
+    "ORDEN ESPILA, PABLO": 10,
+    "SERRANO MUGICA, OIER": 11,
+    "VACA ROSSELL, JOSEP CARLOS": 12,
+    "SHTEMBARI AGARAJ, ALEX": 14,
+    "MOLOVAE ESPINOZA, JOSEAN": 17,
+    "BAYEME MAYE, DENIS JAVIER": 19
+  },
+  "dorsales_visitante": {
+    "GASTON MOISI, ENEKO": 1,
+    "GARCIA LOPEZ, JORGE": 3,
+    "DIALLO WLODARCZYK, IBRAHIM S": 7,
+    "FERNANDEZ SANTA C, ARITZ": 8,
+    "RUIZ MOLINA, JORGE": 11,
+    "AGUADO SANTAMARIA, MARIO": 12,
+    "ARKOUBI BOUZIDI, ABDEL MALEK": 15,
+    "HERNANDO RAMIREZ, DIEGO": 16,
+    "GIL TUCKWELL, SAMUEL": 19,
+    "CAMARA SOUMAHORO, SHECK O": 21,
+    "VEGA LOYO, ADRIAN": 26
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
