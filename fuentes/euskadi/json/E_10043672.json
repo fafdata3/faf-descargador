@@ -1,0 +1,277 @@
+{
+  "acta_id": "E_10043672",
+  "filename": "Acta_E_10043672.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "26-09-2026",
+  "hora": "19:30",
+  "categoria": "CAMPEONATO DE LIGA NACIONAL JUVENIL / GAZTEEN NAZIONAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "LAUDIO F. SAN ROKEZAR, C.D. A",
+  "equipo_visitante": "HERNANI, C.D.",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "TAYEB PACHA BENYOUSSA, ZAKARIA",
+    "Árbitro Asistente",
+    "FRESNILLO BAROJA, LUCAS",
+    "Árbitro Asistente",
+    "GONZALES GAMBOA, IKER"
+  ],
+  "estadio": "ELLAKURI",
+  "ciudad": "Laudio",
+  "goleadores": [
+    {
+      "minuto": 80,
+      "jugador": "ULIARTE MENOYO, BEÑAT",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 26,
+      "jugador": "SECO LOPEZ, OIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "MATA GARCIA, WALMY",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "ULIARTE MENOYO, BEÑAT",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "HERNANI, C.D.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FERNANDEZ MULERO, BORJA",
+  "entrenador_visitante": "ZUBIETA RODRIGUEZ, GANISH",
+  "segundo_entrenador_local": "GARZON PEÑARANDA, RUBEN",
+  "segundo_entrenador_visitante": "RODRIGUEZ IRAZUSTA, XABIER",
+  "delegado_campo_local": "GAITAN POVEDANO, FRANCISCO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GAITAN POVEDANO, FRANCISCO",
+  "delegado_equipo_visitante": "GARMENDIA GUTIERREZ, ZOHAR",
+  "titulares_local": [
+    "RUIZ LARIZGOITIA, IGOR",
+    "DOMINGUEZ SALGADO, ENAITZ",
+    "PEREZ SERRANO, KEPA",
+    "ULIARTE MENOYO, BEÑAT",
+    "GARCIA ESCUDERO VAZQUEZ, URKO",
+    "ETXEBARRIA TELLAETXE, JULEN",
+    "UGARTE BERGANZA, OIER",
+    "SECO LOPEZ, OIER",
+    "RODRIGUEZ GOMEZ, UNAX",
+    "MATA GARCIA, WALMY",
+    "BRAZO MALLO, UNAX"
+  ],
+  "titulares_visitante": [
+    "BLANCO PEÑA, UNAI",
+    "MUÑOZ ECEOLAZA, AIERT",
+    "ALIAS ALVAREZ, EKAIN",
+    "RODRIGUEZ ORTIZ, IBAI",
+    "URIA PLAZA, XUBAN",
+    "MAIZA GORJON, ANER",
+    "CUELLAR CRUZ, JONATHAN JAFET",
+    "OLARRA AYERDI, EÑAUT",
+    "DIAZ MARTINEZ, LANDER",
+    "AVILA OROZ, IKER",
+    "OSKOTZ ITURRIOZ, UNAX"
+  ],
+  "suplentes_local": [
+    "LUZURIAGA TXAKARTEGI, UNAX",
+    "IGLESIAS BERDUGO, JOEN",
+    "GAITAN VIAN, IBON",
+    "CASTRO GARCIA, MARKEL",
+    "MOURADE KHALLOTA, AMINE",
+    "UNZAGA NIEBLA, UNAI",
+    "DIEZ AMIGO, UNAI"
+  ],
+  "suplentes_visitante": [
+    "BARRIOLA MINER, EÑAUT",
+    "AIZPURUA LANDA, IÑIGO",
+    "RUIZ DE ARZUA GARATE, IÑAKI",
+    "RAHMANI, TAOUFIK",
+    "UNZUETA BASTERRETCHE, JUAN",
+    "MOLINA CABELLO, FERNANDO NICOLAS",
+    "VISNAKOVS, DMITRIJS"
+  ],
+  "convocados_sin_jugar_local": [
+    "LUZURIAGA TXAKARTEGI, UNAX",
+    "DIEZ AMIGO, UNAI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BARRIOLA MINER, EÑAUT",
+    "RAHMANI, TAOUFIK"
+  ],
+  "jugadores_local": [
+    "RUIZ LARIZGOITIA, IGOR",
+    "DOMINGUEZ SALGADO, ENAITZ",
+    "PEREZ SERRANO, KEPA",
+    "ULIARTE MENOYO, BEÑAT",
+    "GARCIA ESCUDERO VAZQUEZ, URKO",
+    "ETXEBARRIA TELLAETXE, JULEN",
+    "UGARTE BERGANZA, OIER",
+    "SECO LOPEZ, OIER",
+    "RODRIGUEZ GOMEZ, UNAX",
+    "MATA GARCIA, WALMY",
+    "BRAZO MALLO, UNAX",
+    "IGLESIAS BERDUGO, JOEN",
+    "MOURADE KHALLOTA, AMINE",
+    "CASTRO GARCIA, MARKEL",
+    "GAITAN VIAN, IBON",
+    "UNZAGA NIEBLA, UNAI"
+  ],
+  "jugadores_visitante": [
+    "BLANCO PEÑA, UNAI",
+    "MUÑOZ ECEOLAZA, AIERT",
+    "ALIAS ALVAREZ, EKAIN",
+    "RODRIGUEZ ORTIZ, IBAI",
+    "URIA PLAZA, XUBAN",
+    "MAIZA GORJON, ANER",
+    "CUELLAR CRUZ, JONATHAN JAFET",
+    "OLARRA AYERDI, EÑAUT",
+    "DIAZ MARTINEZ, LANDER",
+    "AVILA OROZ, IKER",
+    "OSKOTZ ITURRIOZ, UNAX",
+    "RUIZ DE ARZUA GARATE, IÑAKI",
+    "AIZPURUA LANDA, IÑIGO",
+    "MOLINA CABELLO, FERNANDO NICOLAS",
+    "UNZUETA BASTERRETCHE, JUAN",
+    "VISNAKOVS, DMITRIJS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "IGLESIAS BERDUGO, JOEN",
+      "sale": "SECO LOPEZ, OIER"
+    },
+    {
+      "min": 45,
+      "entra": "MOURADE KHALLOTA, AMINE",
+      "sale": "MATA GARCIA, WALMY"
+    },
+    {
+      "min": 81,
+      "entra": "CASTRO GARCIA, MARKEL",
+      "sale": "UGARTE BERGANZA, OIER"
+    },
+    {
+      "min": 82,
+      "entra": "GAITAN VIAN, IBON",
+      "sale": "BRAZO MALLO, UNAX"
+    },
+    {
+      "min": 87,
+      "entra": "UNZAGA NIEBLA, UNAI",
+      "sale": "GARCIA ESCUDERO VAZQUEZ, URKO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 42,
+      "entra": "RUIZ DE ARZUA GARATE, IÑAKI",
+      "sale": "MUÑOZ ECEOLAZA, AIERT"
+    },
+    {
+      "min": 54,
+      "entra": "AIZPURUA LANDA, IÑIGO",
+      "sale": "MAIZA GORJON, ANER"
+    },
+    {
+      "min": 54,
+      "entra": "MOLINA CABELLO, FERNANDO NICOLAS",
+      "sale": "CUELLAR CRUZ, JONATHAN JAFET"
+    },
+    {
+      "min": 68,
+      "entra": "UNZUETA BASTERRETCHE, JUAN",
+      "sale": "OSKOTZ ITURRIOZ, UNAX"
+    },
+    {
+      "min": 68,
+      "entra": "VISNAKOVS, DMITRIJS",
+      "sale": "AVILA OROZ, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ LARIZGOITIA, IGOR": 90,
+    "DOMINGUEZ SALGADO, ENAITZ": 90,
+    "PEREZ SERRANO, KEPA": 90,
+    "ULIARTE MENOYO, BEÑAT": 90,
+    "GARCIA ESCUDERO VAZQUEZ, URKO": 87,
+    "ETXEBARRIA TELLAETXE, JULEN": 90,
+    "UGARTE BERGANZA, OIER": 81,
+    "SECO LOPEZ, OIER": 45,
+    "RODRIGUEZ GOMEZ, UNAX": 90,
+    "MATA GARCIA, WALMY": 45,
+    "BRAZO MALLO, UNAX": 82,
+    "IGLESIAS BERDUGO, JOEN": 45,
+    "MOURADE KHALLOTA, AMINE": 45,
+    "CASTRO GARCIA, MARKEL": 9,
+    "GAITAN VIAN, IBON": 8,
+    "UNZAGA NIEBLA, UNAI": 3,
+    "BLANCO PEÑA, UNAI": 90,
+    "MUÑOZ ECEOLAZA, AIERT": 42,
+    "ALIAS ALVAREZ, EKAIN": 90,
+    "RODRIGUEZ ORTIZ, IBAI": 90,
+    "URIA PLAZA, XUBAN": 90,
+    "MAIZA GORJON, ANER": 54,
+    "CUELLAR CRUZ, JONATHAN JAFET": 54,
+    "OLARRA AYERDI, EÑAUT": 90,
+    "DIAZ MARTINEZ, LANDER": 90,
+    "AVILA OROZ, IKER": 68,
+    "OSKOTZ ITURRIOZ, UNAX": 68,
+    "RUIZ DE ARZUA GARATE, IÑAKI": 48,
+    "AIZPURUA LANDA, IÑIGO": 36,
+    "MOLINA CABELLO, FERNANDO NICOLAS": 36,
+    "UNZUETA BASTERRETCHE, JUAN": 22,
+    "VISNAKOVS, DMITRIJS": 22
+  },
+  "portero_local": "RUIZ LARIZGOITIA, IGOR",
+  "portero_visitante": "BLANCO PEÑA, UNAI",
+  "dorsales_local": {
+    "RUIZ LARIZGOITIA, IGOR": 13,
+    "DOMINGUEZ SALGADO, ENAITZ": 2,
+    "PEREZ SERRANO, KEPA": 5,
+    "ULIARTE MENOYO, BEÑAT": 7,
+    "GARCIA ESCUDERO VAZQUEZ, URKO": 8,
+    "ETXEBARRIA TELLAETXE, JULEN": 14,
+    "UGARTE BERGANZA, OIER": 15,
+    "SECO LOPEZ, OIER": 16,
+    "RODRIGUEZ GOMEZ, UNAX": 17,
+    "MATA GARCIA, WALMY": 19,
+    "BRAZO MALLO, UNAX": 22
+  },
+  "dorsales_visitante": {
+    "BLANCO PEÑA, UNAI": 13,
+    "MUÑOZ ECEOLAZA, AIERT": 2,
+    "ALIAS ALVAREZ, EKAIN": 3,
+    "RODRIGUEZ ORTIZ, IBAI": 4,
+    "URIA PLAZA, XUBAN": 5,
+    "MAIZA GORJON, ANER": 6,
+    "CUELLAR CRUZ, JONATHAN JAFET": 7,
+    "OLARRA AYERDI, EÑAUT": 8,
+    "DIAZ MARTINEZ, LANDER": 9,
+    "AVILA OROZ, IKER": 10,
+    "OSKOTZ ITURRIOZ, UNAX": 11
+  },
+  "suspendidos": []
+}
