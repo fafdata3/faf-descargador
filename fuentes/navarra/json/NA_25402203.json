@@ -1,0 +1,271 @@
+{
+  "acta_id": "NA_25402203",
+  "filename": "Acta_NA_25402203.txt",
+  "fuente": "navarra",
+  "temporada": "2024-2025",
+  "jornada": 16,
+  "fecha": "02-02-2025",
+  "hora": "17:45",
+  "categoria": "Segunda Cadete - Juegos Deportivos de Navarra (Grupo 6º)",
+  "equipo_local": "U.C.D. Burlades B",
+  "equipo_visitante": "C.D. Atarrabia",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "Bougsibah Belfaqyh, Hossin"
+  ],
+  "estadio": "Ripagaina",
+  "ciudad": "Burlada",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "Njagi Rodriguez, BOB ANTHONY",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "Esparza Eslava, Mikel",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 81,
+      "jugador": "Galar Mena, Gaizka",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "C.D. Atarrabia",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "VILLANUEVA IRIARTE, ANDONI",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "Galech Mainz, José Manuel",
+  "titulares_local": [
+    "ALONSO LOZANO, GOREN",
+    "Galar Mena, Gaizka",
+    "OLAIZ ESCOBAR, JON",
+    "Lago Barinaga, Unax",
+    "Figueroa Chuquipoma, Dylan Daniel",
+    "Fernandez Lillo, Markel",
+    "Murillo Villanueva, Lucas",
+    "Lansari Aziz, Nour",
+    "Njagi Rodriguez, BOB ANTHONY",
+    "RUIZ LABARI, AIMAR",
+    "Burgaleta Sadaba, Iker"
+  ],
+  "titulares_visitante": [
+    "Tellon Labiano, Adrian",
+    "Carrasco Martin, Iker",
+    "Iriarte Sagasti, Hector",
+    "Dominguez Hernandez, Iker",
+    "Iragui Garcia, Miguel",
+    "Lacabe Villanueva, Xabier",
+    "Arraiza Gonzalez, Jon",
+    "Amundarain Jimenez, Oier",
+    "Ilundain Gurrea, Acher",
+    "Trebol Ibañez, Markel",
+    "Larraya Merced, Eder"
+  ],
+  "suplentes_local": [
+    "Redrado Gil, JON",
+    "Velasco Ibilceta, Ibai",
+    "MATEO AYBAR, ALEXIS",
+    "Ndiaye , Mouhamed",
+    "Mihaylov, Alek Georgiev",
+    "BENITEZ GONZALEZ, JULEN IÑAKI"
+  ],
+  "suplentes_visitante": [
+    "Iñigo Arrasate, Ganiz",
+    "Rosenov Hadzhiev, Martin",
+    "Esparza Eslava, Mikel",
+    "Martinez Jimenez, Adrian",
+    "Tirapu Rodriguez, Aimar",
+    "ECHEVARRIA MINLLETES, ASIER",
+    "Martinez Rabal, Igor"
+  ],
+  "convocados_sin_jugar_local": [
+    "Redrado Gil, JON"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "Martinez Rabal, Igor"
+  ],
+  "jugadores_local": [
+    "ALONSO LOZANO, GOREN",
+    "Galar Mena, Gaizka",
+    "OLAIZ ESCOBAR, JON",
+    "Lago Barinaga, Unax",
+    "Figueroa Chuquipoma, Dylan Daniel",
+    "Fernandez Lillo, Markel",
+    "Murillo Villanueva, Lucas",
+    "Lansari Aziz, Nour",
+    "Njagi Rodriguez, BOB ANTHONY",
+    "RUIZ LABARI, AIMAR",
+    "Burgaleta Sadaba, Iker",
+    "Ndiaye , Mouhamed",
+    "BENITEZ GONZALEZ, JULEN IÑAKI",
+    "Mihaylov, Alek Georgiev",
+    "MATEO AYBAR, ALEXIS",
+    "Velasco Ibilceta, Ibai"
+  ],
+  "jugadores_visitante": [
+    "Tellon Labiano, Adrian",
+    "Carrasco Martin, Iker",
+    "Iriarte Sagasti, Hector",
+    "Dominguez Hernandez, Iker",
+    "Iragui Garcia, Miguel",
+    "Lacabe Villanueva, Xabier",
+    "Arraiza Gonzalez, Jon",
+    "Amundarain Jimenez, Oier",
+    "Ilundain Gurrea, Acher",
+    "Trebol Ibañez, Markel",
+    "Larraya Merced, Eder",
+    "Martinez Jimenez, Adrian",
+    "Rosenov Hadzhiev, Martin",
+    "Iñigo Arrasate, Ganiz",
+    "Esparza Eslava, Mikel",
+    "ECHEVARRIA MINLLETES, ASIER",
+    "Tirapu Rodriguez, Aimar"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "Ndiaye , Mouhamed",
+      "sale": "Murillo Villanueva, Lucas"
+    },
+    {
+      "min": 59,
+      "entra": "BENITEZ GONZALEZ, JULEN IÑAKI",
+      "sale": "OLAIZ ESCOBAR, JON"
+    },
+    {
+      "min": 63,
+      "entra": "Mihaylov, Alek Georgiev",
+      "sale": "Fernandez Lillo, Markel"
+    },
+    {
+      "min": 63,
+      "entra": "MATEO AYBAR, ALEXIS",
+      "sale": "Lansari Aziz, Nour"
+    },
+    {
+      "min": 70,
+      "entra": "Velasco Ibilceta, Ibai",
+      "sale": "RUIZ LABARI, AIMAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "Martinez Jimenez, Adrian",
+      "sale": "Arraiza Gonzalez, Jon"
+    },
+    {
+      "min": 40,
+      "entra": "Rosenov Hadzhiev, Martin",
+      "sale": "Lacabe Villanueva, Xabier"
+    },
+    {
+      "min": 40,
+      "entra": "Iñigo Arrasate, Ganiz",
+      "sale": "Tellon Labiano, Adrian"
+    },
+    {
+      "min": 49,
+      "entra": "Esparza Eslava, Mikel",
+      "sale": "Carrasco Martin, Iker"
+    },
+    {
+      "min": 58,
+      "entra": "ECHEVARRIA MINLLETES, ASIER",
+      "sale": "Larraya Merced, Eder"
+    },
+    {
+      "min": 58,
+      "entra": "Tirapu Rodriguez, Aimar",
+      "sale": "Dominguez Hernandez, Iker"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALONSO LOZANO, GOREN": 90,
+    "Galar Mena, Gaizka": 90,
+    "OLAIZ ESCOBAR, JON": 59,
+    "Lago Barinaga, Unax": 90,
+    "Figueroa Chuquipoma, Dylan Daniel": 90,
+    "Fernandez Lillo, Markel": 63,
+    "Murillo Villanueva, Lucas": 59,
+    "Lansari Aziz, Nour": 63,
+    "Njagi Rodriguez, BOB ANTHONY": 90,
+    "RUIZ LABARI, AIMAR": 70,
+    "Burgaleta Sadaba, Iker": 90,
+    "Ndiaye , Mouhamed": 31,
+    "BENITEZ GONZALEZ, JULEN IÑAKI": 31,
+    "Mihaylov, Alek Georgiev": 27,
+    "MATEO AYBAR, ALEXIS": 27,
+    "Velasco Ibilceta, Ibai": 20,
+    "Tellon Labiano, Adrian": 40,
+    "Carrasco Martin, Iker": 49,
+    "Iriarte Sagasti, Hector": 90,
+    "Dominguez Hernandez, Iker": 58,
+    "Iragui Garcia, Miguel": 90,
+    "Lacabe Villanueva, Xabier": 40,
+    "Arraiza Gonzalez, Jon": 40,
+    "Amundarain Jimenez, Oier": 90,
+    "Ilundain Gurrea, Acher": 90,
+    "Trebol Ibañez, Markel": 90,
+    "Larraya Merced, Eder": 58,
+    "Martinez Jimenez, Adrian": 50,
+    "Rosenov Hadzhiev, Martin": 50,
+    "Iñigo Arrasate, Ganiz": 50,
+    "Esparza Eslava, Mikel": 41,
+    "ECHEVARRIA MINLLETES, ASIER": 32,
+    "Tirapu Rodriguez, Aimar": 32
+  },
+  "portero_local": "ALONSO LOZANO, GOREN",
+  "portero_visitante": "Tellon Labiano, Adrian",
+  "dorsales_local": {
+    "ALONSO LOZANO, GOREN": 1,
+    "Galar Mena, Gaizka": 2,
+    "OLAIZ ESCOBAR, JON": 3,
+    "Lago Barinaga, Unax": 4,
+    "Figueroa Chuquipoma, Dylan Daniel": 5,
+    "Fernandez Lillo, Markel": 6,
+    "Murillo Villanueva, Lucas": 7,
+    "Lansari Aziz, Nour": 9,
+    "Njagi Rodriguez, BOB ANTHONY": 10,
+    "RUIZ LABARI, AIMAR": 11,
+    "Burgaleta Sadaba, Iker": 14
+  },
+  "dorsales_visitante": {
+    "Tellon Labiano, Adrian": 13,
+    "Carrasco Martin, Iker": 6,
+    "Iriarte Sagasti, Hector": 34,
+    "Dominguez Hernandez, Iker": 37,
+    "Iragui Garcia, Miguel": 45,
+    "Lacabe Villanueva, Xabier": 47,
+    "Arraiza Gonzalez, Jon": 49,
+    "Amundarain Jimenez, Oier": 50,
+    "Ilundain Gurrea, Acher": 51,
+    "Trebol Ibañez, Markel": 52,
+    "Larraya Merced, Eder": 53
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
