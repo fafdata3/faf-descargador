@@ -1,0 +1,306 @@
+{
+  "acta_id": "R_259952",
+  "filename": "Acta_R_259952.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "26-09-2026",
+  "hora": "17:00",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "VALVANERA",
+  "equipo_visitante": "BERCEO",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "VELEZ CASTELAR, GONZALO",
+    "Árbitro Asistente",
+    "FUERTES SÁEZ, CARLOS",
+    "Árbitro Asistente",
+    "AGUSTIN SAEZ, JAIME"
+  ],
+  "estadio": "C.M. ANGEL AGUADO - H.A. (VAREA-LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 39,
+      "jugador": "GARCIA FERNANDEZ, IVAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "GIL FONCEA, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 85,
+      "jugador": "MARTINEZ IÑIGUEZ, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "HERAS TERROBA, ALEX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "SALAS SANTAMARIA, JORGE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "BARAHONA SATORRE, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "DIAZ C MENDOZA, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "BERCEO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 7,
+      "jugador": "FERNANDEZ ELIAS, DIEGO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "BORRAS SANCHEZ, CRISTIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DIAZ C MENDOZA, SERGIO",
+  "entrenador_visitante": "TORRES SOTO, IGNACIO",
+  "segundo_entrenador_local": "FERNANDEZ GODOY, ORLANDO JOSE ARNALDO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CALLE ACHA, MIGUEL ANGEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RUIZ CUADRA, OSCAR",
+  "delegado_equipo_visitante": "CASTILLO RIO, JAVIER",
+  "titulares_local": [
+    "PEREZ GUINEA, CARLOS",
+    "TEJADA SANTOLAYA, IZAN",
+    "BARAHONA SATORRE, UNAI",
+    "GARCIA FERNANDEZ, IVAN",
+    "SALAS SANTAMARIA, JORGE",
+    "HERAS TERROBA, ALEX",
+    "MARQUES DA SILVA, PEDRO MIGUEL",
+    "FERNANDEZ IBAÑEZ, JORGE",
+    "SANCHEZ GOROSTIZA, JORGE",
+    "RUIZ MARTIN, IVAN",
+    "RUIZ BASTIDA, FERNANDO"
+  ],
+  "titulares_visitante": [
+    "PLATAS ALVERO, TIRSO",
+    "SANZ GIL, DANIEL",
+    "BORRAS SANCHEZ, CRISTIAN",
+    "CONDE BERMEJO, LUIS",
+    "PEREZ ALONSO, MARIO",
+    "GIL FONCEA, PABLO",
+    "MARTINEZ SANTAMARIA, CESAR",
+    "TORRECILLA ZANGRONIZ, ALBERTO",
+    "ALVAREZ ORTUBE, HECTOR",
+    "TOBIAS BEZARES, JORGE",
+    "SAENZ FERNANDEZ, PABLO"
+  ],
+  "suplentes_local": [
+    "ANTOLIN VENTURINI, DANIEL",
+    "ANGULO URRECHO, ANGEL",
+    "MUÑOZ CHAVEZ, ANGELO",
+    "BARRUETABEÑA SANCHEZ, KENAI",
+    "SOUSA GRAFF, VALENTINO O",
+    "ESTEPA CENICEROS, MARCOS",
+    "GIL IÑIGUEZ, CHRISTIAN"
+  ],
+  "suplentes_visitante": [
+    "SARABIA CASERO, RUBEN",
+    "ECHAPRESTO PEREZ, MILLAN",
+    "GARCIA CORRES, PABLO",
+    "MARTINEZ PEREZ, LUIS",
+    "PARRA AROCA, DIEGO",
+    "ARMIÑANZAS MERINO, LUCAS",
+    "MARTINEZ IÑIGUEZ, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "ANTOLIN VENTURINI, DANIEL",
+    "GIL IÑIGUEZ, CHRISTIAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SARABIA CASERO, RUBEN",
+    "GARCIA CORRES, PABLO",
+    "ARMIÑANZAS MERINO, LUCAS"
+  ],
+  "jugadores_local": [
+    "PEREZ GUINEA, CARLOS",
+    "TEJADA SANTOLAYA, IZAN",
+    "BARAHONA SATORRE, UNAI",
+    "GARCIA FERNANDEZ, IVAN",
+    "SALAS SANTAMARIA, JORGE",
+    "HERAS TERROBA, ALEX",
+    "MARQUES DA SILVA, PEDRO MIGUEL",
+    "FERNANDEZ IBAÑEZ, JORGE",
+    "SANCHEZ GOROSTIZA, JORGE",
+    "RUIZ MARTIN, IVAN",
+    "RUIZ BASTIDA, FERNANDO",
+    "ANGULO URRECHO, ANGEL",
+    "SOUSA GRAFF, VALENTINO O",
+    "MUÑOZ CHAVEZ, ANGELO",
+    "BARRUETABEÑA SANCHEZ, KENAI",
+    "ESTEPA CENICEROS, MARCOS"
+  ],
+  "jugadores_visitante": [
+    "PLATAS ALVERO, TIRSO",
+    "SANZ GIL, DANIEL",
+    "BORRAS SANCHEZ, CRISTIAN",
+    "CONDE BERMEJO, LUIS",
+    "PEREZ ALONSO, MARIO",
+    "GIL FONCEA, PABLO",
+    "MARTINEZ SANTAMARIA, CESAR",
+    "TORRECILLA ZANGRONIZ, ALBERTO",
+    "ALVAREZ ORTUBE, HECTOR",
+    "TOBIAS BEZARES, JORGE",
+    "SAENZ FERNANDEZ, PABLO",
+    "MARTINEZ IÑIGUEZ, DANIEL",
+    "ECHAPRESTO PEREZ, MILLAN",
+    "MARTINEZ PEREZ, LUIS",
+    "PARRA AROCA, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "ANGULO URRECHO, ANGEL",
+      "sale": "FERNANDEZ IBAÑEZ, JORGE"
+    },
+    {
+      "min": 60,
+      "entra": "SOUSA GRAFF, VALENTINO O",
+      "sale": "RUIZ BASTIDA, FERNANDO"
+    },
+    {
+      "min": 72,
+      "entra": "MUÑOZ CHAVEZ, ANGELO",
+      "sale": "RUIZ MARTIN, IVAN"
+    },
+    {
+      "min": 81,
+      "entra": "BARRUETABEÑA SANCHEZ, KENAI",
+      "sale": "BARAHONA SATORRE, UNAI"
+    },
+    {
+      "min": 81,
+      "entra": "ESTEPA CENICEROS, MARCOS",
+      "sale": "MARQUES DA SILVA, PEDRO MIGUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 65,
+      "entra": "MARTINEZ IÑIGUEZ, DANIEL",
+      "sale": "ALVAREZ ORTUBE, HECTOR"
+    },
+    {
+      "min": 65,
+      "entra": "ECHAPRESTO PEREZ, MILLAN",
+      "sale": "TOBIAS BEZARES, JORGE"
+    },
+    {
+      "min": 77,
+      "entra": "MARTINEZ PEREZ, LUIS",
+      "sale": "SAENZ FERNANDEZ, PABLO"
+    },
+    {
+      "min": 87,
+      "entra": "PARRA AROCA, DIEGO",
+      "sale": "PEREZ ALONSO, MARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ GUINEA, CARLOS": 90,
+    "TEJADA SANTOLAYA, IZAN": 90,
+    "BARAHONA SATORRE, UNAI": 81,
+    "GARCIA FERNANDEZ, IVAN": 90,
+    "SALAS SANTAMARIA, JORGE": 90,
+    "HERAS TERROBA, ALEX": 90,
+    "MARQUES DA SILVA, PEDRO MIGUEL": 81,
+    "FERNANDEZ IBAÑEZ, JORGE": 46,
+    "SANCHEZ GOROSTIZA, JORGE": 90,
+    "RUIZ MARTIN, IVAN": 72,
+    "RUIZ BASTIDA, FERNANDO": 60,
+    "ANGULO URRECHO, ANGEL": 44,
+    "SOUSA GRAFF, VALENTINO O": 30,
+    "MUÑOZ CHAVEZ, ANGELO": 18,
+    "BARRUETABEÑA SANCHEZ, KENAI": 9,
+    "ESTEPA CENICEROS, MARCOS": 9,
+    "PLATAS ALVERO, TIRSO": 90,
+    "SANZ GIL, DANIEL": 90,
+    "BORRAS SANCHEZ, CRISTIAN": 90,
+    "CONDE BERMEJO, LUIS": 90,
+    "PEREZ ALONSO, MARIO": 87,
+    "GIL FONCEA, PABLO": 90,
+    "MARTINEZ SANTAMARIA, CESAR": 90,
+    "TORRECILLA ZANGRONIZ, ALBERTO": 90,
+    "ALVAREZ ORTUBE, HECTOR": 65,
+    "TOBIAS BEZARES, JORGE": 65,
+    "SAENZ FERNANDEZ, PABLO": 77,
+    "MARTINEZ IÑIGUEZ, DANIEL": 25,
+    "ECHAPRESTO PEREZ, MILLAN": 25,
+    "MARTINEZ PEREZ, LUIS": 13,
+    "PARRA AROCA, DIEGO": 3
+  },
+  "portero_local": "PEREZ GUINEA, CARLOS",
+  "portero_visitante": "PLATAS ALVERO, TIRSO",
+  "dorsales_local": {
+    "PEREZ GUINEA, CARLOS": 13,
+    "TEJADA SANTOLAYA, IZAN": 4,
+    "BARAHONA SATORRE, UNAI": 5,
+    "GARCIA FERNANDEZ, IVAN": 7,
+    "SALAS SANTAMARIA, JORGE": 8,
+    "HERAS TERROBA, ALEX": 10,
+    "MARQUES DA SILVA, PEDRO MIGUEL": 11,
+    "FERNANDEZ IBAÑEZ, JORGE": 14,
+    "SANCHEZ GOROSTIZA, JORGE": 17,
+    "RUIZ MARTIN, IVAN": 18,
+    "RUIZ BASTIDA, FERNANDO": 19
+  },
+  "dorsales_visitante": {
+    "PLATAS ALVERO, TIRSO": 13,
+    "SANZ GIL, DANIEL": 2,
+    "BORRAS SANCHEZ, CRISTIAN": 5,
+    "CONDE BERMEJO, LUIS": 6,
+    "PEREZ ALONSO, MARIO": 7,
+    "GIL FONCEA, PABLO": 8,
+    "MARTINEZ SANTAMARIA, CESAR": 10,
+    "TORRECILLA ZANGRONIZ, ALBERTO": 14,
+    "ALVAREZ ORTUBE, HECTOR": 17,
+    "TOBIAS BEZARES, JORGE": 18,
+    "SAENZ FERNANDEZ, PABLO": 23
+  },
+  "suspendidos": []
+}
