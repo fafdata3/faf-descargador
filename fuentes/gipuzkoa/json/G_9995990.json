@@ -1,0 +1,214 @@
+{
+  "acta_id": "G_9995990",
+  "filename": "Acta_G_9995990.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 14,
+  "fecha": "18-01-2026",
+  "hora": "09:30",
+  "categoria": "GIZONEZKO KADETEEN 1. MAILA / 1ª CADETE MASCULINO (3. MULTZOA - GRUPO 3)",
+  "equipo_local": "ORERETA KAFEA, F.C.",
+  "equipo_visitante": "SPORTING DE HERRERA",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "DIAZ GARCIA, PEDRO"
+  ],
+  "estadio": "BERAUN",
+  "ciudad": "RENTERIA",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "ECHEVARRIA PAZ, GORKA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "SANCHEZ ROMERO, LUIS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "SANCHEZ ROMERO, LUIS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "CUADRADO SAN NAZARIO, IBAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "LASA DUHART, IGOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "SPORTING DE HERRERA",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "LUIS DE LA MATA, IBAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FARIÑA VILAR, JOSÉ JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FARIÑA VILAR, JOSÉ JAVIER",
+  "delegado_equipo_visitante": "PALACIOS MARIN, RODRIGO ANDRES",
+  "titulares_local": [
+    "GONZALEZ DE LA FLOR, EDER",
+    "FLORES AVILA, ANGEL EDUARDO",
+    "CUADRADO SAN NAZARIO, IBAI",
+    "TONY THOMAS, IWINOSA FRANK",
+    "SAENZ TEJERO, JULEN",
+    "LASA DUHART, IGOR",
+    "GONZALEZ URBISTAZU, XABIER",
+    "MIGUEL GARCIA, GUILLERMO",
+    "MENDIZABAL ALVAREZ, OIER",
+    "ECHEVARRIA PAZ, GORKA",
+    "LOPEZ CASTRO, IKER"
+  ],
+  "titulares_visitante": [
+    "JORDAN GOCHICOA, MIKEL",
+    "DIAZ DE MENDIVIL PAREDES, ARATZ",
+    "CENZANO SEGURADO, JAVI",
+    "SANTISO MARTIN, ENEKO",
+    "SANCHEZ DE LA FUENTE, IBAI",
+    "NARBAIZA PARRA, ANDER",
+    "SANCHEZ ROMERO, LUIS",
+    "PALACIOS CASTRO, EMMANUELLE",
+    "LACUNZA LEAL, IKER",
+    "ANDRADE SAAVEDRA, JULIAN ANDRES",
+    "IGLESIAS VÁZQUEZ, ENEKO"
+  ],
+  "suplentes_local": [
+    "MENDEZ SANCHEZ, AXELL FARIDD",
+    "CASTILLO GOMEZ, WINDER ALEXANDER"
+  ],
+  "suplentes_visitante": [
+    "PEREYRA IMAZ, MATIAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GONZALEZ DE LA FLOR, EDER",
+    "FLORES AVILA, ANGEL EDUARDO",
+    "CUADRADO SAN NAZARIO, IBAI",
+    "TONY THOMAS, IWINOSA FRANK",
+    "SAENZ TEJERO, JULEN",
+    "LASA DUHART, IGOR",
+    "GONZALEZ URBISTAZU, XABIER",
+    "MIGUEL GARCIA, GUILLERMO",
+    "MENDIZABAL ALVAREZ, OIER",
+    "ECHEVARRIA PAZ, GORKA",
+    "LOPEZ CASTRO, IKER",
+    "MENDEZ SANCHEZ, AXELL FARIDD",
+    "CASTILLO GOMEZ, WINDER ALEXANDER"
+  ],
+  "jugadores_visitante": [
+    "JORDAN GOCHICOA, MIKEL",
+    "DIAZ DE MENDIVIL PAREDES, ARATZ",
+    "CENZANO SEGURADO, JAVI",
+    "SANTISO MARTIN, ENEKO",
+    "SANCHEZ DE LA FUENTE, IBAI",
+    "NARBAIZA PARRA, ANDER",
+    "SANCHEZ ROMERO, LUIS",
+    "PALACIOS CASTRO, EMMANUELLE",
+    "LACUNZA LEAL, IKER",
+    "ANDRADE SAAVEDRA, JULIAN ANDRES",
+    "IGLESIAS VÁZQUEZ, ENEKO",
+    "PEREYRA IMAZ, MATIAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "MENDEZ SANCHEZ, AXELL FARIDD",
+      "sale": "LOPEZ CASTRO, IKER"
+    },
+    {
+      "min": 47,
+      "entra": "CASTILLO GOMEZ, WINDER ALEXANDER",
+      "sale": "ECHEVARRIA PAZ, GORKA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "PEREYRA IMAZ, MATIAS",
+      "sale": "CENZANO SEGURADO, JAVI"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONZALEZ DE LA FLOR, EDER": 90,
+    "FLORES AVILA, ANGEL EDUARDO": 90,
+    "CUADRADO SAN NAZARIO, IBAI": 90,
+    "TONY THOMAS, IWINOSA FRANK": 90,
+    "SAENZ TEJERO, JULEN": 90,
+    "LASA DUHART, IGOR": 90,
+    "GONZALEZ URBISTAZU, XABIER": 90,
+    "MIGUEL GARCIA, GUILLERMO": 90,
+    "MENDIZABAL ALVAREZ, OIER": 90,
+    "ECHEVARRIA PAZ, GORKA": 47,
+    "LOPEZ CASTRO, IKER": 40,
+    "MENDEZ SANCHEZ, AXELL FARIDD": 50,
+    "CASTILLO GOMEZ, WINDER ALEXANDER": 43,
+    "JORDAN GOCHICOA, MIKEL": 90,
+    "DIAZ DE MENDIVIL PAREDES, ARATZ": 90,
+    "CENZANO SEGURADO, JAVI": 50,
+    "SANTISO MARTIN, ENEKO": 90,
+    "SANCHEZ DE LA FUENTE, IBAI": 90,
+    "NARBAIZA PARRA, ANDER": 90,
+    "SANCHEZ ROMERO, LUIS": 90,
+    "PALACIOS CASTRO, EMMANUELLE": 90,
+    "LACUNZA LEAL, IKER": 90,
+    "ANDRADE SAAVEDRA, JULIAN ANDRES": 90,
+    "IGLESIAS VÁZQUEZ, ENEKO": 90,
+    "PEREYRA IMAZ, MATIAS": 40
+  },
+  "portero_local": "GONZALEZ DE LA FLOR, EDER",
+  "portero_visitante": "JORDAN GOCHICOA, MIKEL",
+  "dorsales_local": {
+    "GONZALEZ DE LA FLOR, EDER": 1,
+    "FLORES AVILA, ANGEL EDUARDO": 3,
+    "CUADRADO SAN NAZARIO, IBAI": 5,
+    "TONY THOMAS, IWINOSA FRANK": 9,
+    "SAENZ TEJERO, JULEN": 10,
+    "LASA DUHART, IGOR": 11,
+    "GONZALEZ URBISTAZU, XABIER": 14,
+    "MIGUEL GARCIA, GUILLERMO": 15,
+    "MENDIZABAL ALVAREZ, OIER": 17,
+    "ECHEVARRIA PAZ, GORKA": 18,
+    "LOPEZ CASTRO, IKER": 20
+  },
+  "dorsales_visitante": {
+    "JORDAN GOCHICOA, MIKEL": 1,
+    "DIAZ DE MENDIVIL PAREDES, ARATZ": 2,
+    "CENZANO SEGURADO, JAVI": 3,
+    "SANTISO MARTIN, ENEKO": 4,
+    "SANCHEZ DE LA FUENTE, IBAI": 5,
+    "NARBAIZA PARRA, ANDER": 6,
+    "SANCHEZ ROMERO, LUIS": 9,
+    "PALACIOS CASTRO, EMMANUELLE": 10,
+    "LACUNZA LEAL, IKER": 12,
+    "ANDRADE SAAVEDRA, JULIAN ANDRES": 14,
+    "IGLESIAS VÁZQUEZ, ENEKO": 17
+  },
+  "suspendidos": []
+}
