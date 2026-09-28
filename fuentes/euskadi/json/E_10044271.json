@@ -1,0 +1,280 @@
+{
+  "acta_id": "E_10044271",
+  "filename": "Acta_E_10044271.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "12:30",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "VASCONIA, C.D.",
+  "equipo_visitante": "GETXO, C.D.",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "ETXEBESTE BRIZ, IORITZ"
+  ],
+  "estadio": "PUIO",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 80,
+      "jugador": "ESPINOSA MAGUREGI, KIMETZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 82,
+      "jugador": "RONCERO OJEDA, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 58,
+      "jugador": "AGUIRRE CERON, LUIS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "GETXO, C.D.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "ITURREGUI GOMEZ, LUCA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "DE AREITIO GUTIERREZ, RAMON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "TELLETXEA ITURBURU, JORGE",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": "LEGORBURU BARANDIARAN, ASIER",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ALASTUEY BERRUETA, URTZI",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALASTUEY BERRUETA, URTZI",
+  "delegado_equipo_visitante": "HUARTE ESTEBAN, IVAN ALEJANDRO",
+  "titulares_local": [
+    "FERRER IGLESIAS, AMETS",
+    "DIAZ PRELLEZO, IZAN",
+    "ZABALA BERASATEGUI, UNAI",
+    "MUELAS LILLY, DANEL",
+    "AGUIRRE CERON, LUIS",
+    "GURRUCHAGA MAIZA, URKO",
+    "LEGORBURO ALVAREZ, OIER",
+    "RONCERO OJEDA, JORGE",
+    "ARREGI IRIBAR, HAITZ",
+    "ALEJANDRO CORREAS, XIKER",
+    "SALABERRIA GANBORENA, XUBAN"
+  ],
+  "titulares_visitante": [
+    "SOJO BILBAO, DANEL",
+    "VELASCO ARTAZA, PERU",
+    "DE AREITIO GUTIERREZ, RAMON",
+    "LAISECA LOPEZ, MARTIN",
+    "ITURREGUI GOMEZ, LUCA",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "ANGULO DELGADO, IKER",
+    "NIWA, DAIGO",
+    "GONZALEZ VERA, SEBASTIAN ALONZO",
+    "AZKONA OLANO, ALAIN",
+    "PÉREZ DE ANUCITA FUERTES, PEIO"
+  ],
+  "suplentes_local": [
+    "FRAILE PÉREZ, DAVID",
+    "DORRONSORO TXINTXURRETA, JON",
+    "GUEZURAGA AUSAN, XABIER",
+    "JAUSORO RODRIGUEZ, LUCA",
+    "NUÑEZ BERRA, ZUHAITZ",
+    "SALABERRIA CIRIA, LUR",
+    "ROJO GOMENDIO, EKAIN"
+  ],
+  "suplentes_visitante": [
+    "PEREZ LANDAJO, UNAI",
+    "URRUTIA HORAS, ERIK",
+    "VAZQUEZ MANRIQUE, AITOR",
+    "PALOMINO TORRES, XABI",
+    "LAZCANO GALLEGO, ALVARO",
+    "NAVALPOTRO GOMEZ, AMETS",
+    "DEL HOYO ROMO, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "FRAILE PÉREZ, DAVID",
+    "ROJO GOMENDIO, EKAIN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PEREZ LANDAJO, UNAI",
+    "URRUTIA HORAS, ERIK"
+  ],
+  "jugadores_local": [
+    "FERRER IGLESIAS, AMETS",
+    "DIAZ PRELLEZO, IZAN",
+    "ZABALA BERASATEGUI, UNAI",
+    "MUELAS LILLY, DANEL",
+    "AGUIRRE CERON, LUIS",
+    "GURRUCHAGA MAIZA, URKO",
+    "LEGORBURO ALVAREZ, OIER",
+    "RONCERO OJEDA, JORGE",
+    "ARREGI IRIBAR, HAITZ",
+    "ALEJANDRO CORREAS, XIKER",
+    "SALABERRIA GANBORENA, XUBAN",
+    "NUÑEZ BERRA, ZUHAITZ",
+    "DORRONSORO TXINTXURRETA, JON",
+    "GUEZURAGA AUSAN, XABIER",
+    "SALABERRIA CIRIA, LUR",
+    "JAUSORO RODRIGUEZ, LUCA"
+  ],
+  "jugadores_visitante": [
+    "SOJO BILBAO, DANEL",
+    "VELASCO ARTAZA, PERU",
+    "DE AREITIO GUTIERREZ, RAMON",
+    "LAISECA LOPEZ, MARTIN",
+    "ITURREGUI GOMEZ, LUCA",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "ANGULO DELGADO, IKER",
+    "NIWA, DAIGO",
+    "GONZALEZ VERA, SEBASTIAN ALONZO",
+    "AZKONA OLANO, ALAIN",
+    "PÉREZ DE ANUCITA FUERTES, PEIO",
+    "DEL HOYO ROMO, JON",
+    "LAZCANO GALLEGO, ALVARO",
+    "VAZQUEZ MANRIQUE, AITOR",
+    "NAVALPOTRO GOMEZ, AMETS",
+    "PALOMINO TORRES, XABI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "NUÑEZ BERRA, ZUHAITZ",
+      "sale": "ALEJANDRO CORREAS, XIKER"
+    },
+    {
+      "min": 53,
+      "entra": "DORRONSORO TXINTXURRETA, JON",
+      "sale": "DIAZ PRELLEZO, IZAN"
+    },
+    {
+      "min": 55,
+      "entra": "GUEZURAGA AUSAN, XABIER",
+      "sale": "ARREGI IRIBAR, HAITZ"
+    },
+    {
+      "min": 55,
+      "entra": "SALABERRIA CIRIA, LUR",
+      "sale": "SALABERRIA GANBORENA, XUBAN"
+    },
+    {
+      "min": 70,
+      "entra": "JAUSORO RODRIGUEZ, LUCA",
+      "sale": "AGUIRRE CERON, LUIS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 57,
+      "entra": "DEL HOYO ROMO, JON",
+      "sale": "DE AREITIO GUTIERREZ, RAMON"
+    },
+    {
+      "min": 68,
+      "entra": "LAZCANO GALLEGO, ALVARO",
+      "sale": "ANGULO DELGADO, IKER"
+    },
+    {
+      "min": 68,
+      "entra": "VAZQUEZ MANRIQUE, AITOR",
+      "sale": "GONZALEZ VERA, SEBASTIAN ALONZO"
+    },
+    {
+      "min": 77,
+      "entra": "NAVALPOTRO GOMEZ, AMETS",
+      "sale": "LAISECA LOPEZ, MARTIN"
+    },
+    {
+      "min": 77,
+      "entra": "PALOMINO TORRES, XABI",
+      "sale": "AZKONA OLANO, ALAIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERRER IGLESIAS, AMETS": 90,
+    "DIAZ PRELLEZO, IZAN": 53,
+    "ZABALA BERASATEGUI, UNAI": 90,
+    "MUELAS LILLY, DANEL": 90,
+    "AGUIRRE CERON, LUIS": 70,
+    "GURRUCHAGA MAIZA, URKO": 90,
+    "LEGORBURO ALVAREZ, OIER": 90,
+    "RONCERO OJEDA, JORGE": 90,
+    "ARREGI IRIBAR, HAITZ": 55,
+    "ALEJANDRO CORREAS, XIKER": 53,
+    "SALABERRIA GANBORENA, XUBAN": 55,
+    "NUÑEZ BERRA, ZUHAITZ": 37,
+    "DORRONSORO TXINTXURRETA, JON": 37,
+    "GUEZURAGA AUSAN, XABIER": 35,
+    "SALABERRIA CIRIA, LUR": 35,
+    "JAUSORO RODRIGUEZ, LUCA": 20,
+    "SOJO BILBAO, DANEL": 90,
+    "VELASCO ARTAZA, PERU": 90,
+    "DE AREITIO GUTIERREZ, RAMON": 57,
+    "LAISECA LOPEZ, MARTIN": 77,
+    "ITURREGUI GOMEZ, LUCA": 90,
+    "ESPINOSA MAGUREGI, KIMETZ": 90,
+    "ANGULO DELGADO, IKER": 68,
+    "NIWA, DAIGO": 90,
+    "GONZALEZ VERA, SEBASTIAN ALONZO": 68,
+    "AZKONA OLANO, ALAIN": 77,
+    "PÉREZ DE ANUCITA FUERTES, PEIO": 90,
+    "DEL HOYO ROMO, JON": 33,
+    "LAZCANO GALLEGO, ALVARO": 22,
+    "VAZQUEZ MANRIQUE, AITOR": 22,
+    "NAVALPOTRO GOMEZ, AMETS": 13,
+    "PALOMINO TORRES, XABI": 13
+  },
+  "portero_local": "FERRER IGLESIAS, AMETS",
+  "portero_visitante": "SOJO BILBAO, DANEL",
+  "dorsales_local": {
+    "FERRER IGLESIAS, AMETS": 1,
+    "DIAZ PRELLEZO, IZAN": 2,
+    "ZABALA BERASATEGUI, UNAI": 3,
+    "MUELAS LILLY, DANEL": 4,
+    "AGUIRRE CERON, LUIS": 5,
+    "GURRUCHAGA MAIZA, URKO": 6,
+    "LEGORBURO ALVAREZ, OIER": 7,
+    "RONCERO OJEDA, JORGE": 8,
+    "ARREGI IRIBAR, HAITZ": 9,
+    "ALEJANDRO CORREAS, XIKER": 10,
+    "SALABERRIA GANBORENA, XUBAN": 11
+  },
+  "dorsales_visitante": {
+    "SOJO BILBAO, DANEL": 1,
+    "VELASCO ARTAZA, PERU": 2,
+    "DE AREITIO GUTIERREZ, RAMON": 3,
+    "LAISECA LOPEZ, MARTIN": 4,
+    "ITURREGUI GOMEZ, LUCA": 6,
+    "ESPINOSA MAGUREGI, KIMETZ": 7,
+    "ANGULO DELGADO, IKER": 8,
+    "NIWA, DAIGO": 10,
+    "GONZALEZ VERA, SEBASTIAN ALONZO": 11,
+    "AZKONA OLANO, ALAIN": 18,
+    "PÉREZ DE ANUCITA FUERTES, PEIO": 24
+  },
+  "suspendidos": []
+}
