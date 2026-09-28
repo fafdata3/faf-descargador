@@ -1,0 +1,415 @@
+{
+  "acta_id": "NA_25455300",
+  "filename": "Acta_NA_25455300.txt",
+  "fuente": "navarra",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "20-09-2026",
+  "hora": "10:00",
+  "categoria": "Segunda Juvenil - Juegos Deportivos de Navarra (Grupo 1º)",
+  "equipo_local": "C.D. Castejon",
+  "equipo_visitante": "C.A. Milagres de Futbol",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "Calvo Cabello, Nicolas"
+  ],
+  "estadio": "Castejon (Francisco Barreno Kiko)",
+  "ciudad": "Castejón",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "Boutahri , Noureddine",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "Peña Gutierrez, Aitor",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "Fernandez Salvatierra, Yago",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "Peña Gutierrez, Aitor",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "Boutahri , Noureddine",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "Hernandez Rea, Manuel",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 85,
+      "jugador": "Boutahri , Noureddine",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 85,
+      "jugador": "C.A. Milagres de Futbol",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 24,
+      "jugador": "Diez Pejenaute, SAMUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 36,
+      "jugador": "Almarza Sanchez, Aitor",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "PEREIRA ESTAÑAN, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "Manti Darrazi, REDA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "Patrocinadores",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "Proveedores Oficiales",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "Colaboradores",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "Canal de denuncias",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "Ley de Transparencia",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "Mapa web",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "Soporte técnico",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "Arrieta 3 - 1º planta",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "31002 Pamplona - Navarra (España)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "948 22 99 33",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "- Lunes a jueves: 9:30-17:30",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "- Viernes: 9:00-15:00",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "Federación Navarra de Fútbol^^",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "La configuración de privacidad",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "Lafuente Maria, Ion",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PASQUIER MUNILLA, DAVID",
+  "delegado_equipo_visitante": "Lafuente Arruti, Jose Felix",
+  "titulares_local": [
+    ", xab",
+    "Lopez Atienza, Guillermo",
+    "Lozano Jimenez, Romeo",
+    "Jimenez Marin, Tristan",
+    "Febrero Perez, Eugen",
+    "Boutahri , Noureddine",
+    "Chehboun , Taoufiq",
+    "Ortuño Doiz, Oliver",
+    "Oliver Romanos, Aitor",
+    "Blasco Martinez, Daniel",
+    "Hernandez Rea, Manuel"
+  ],
+  "titulares_visitante": [
+    "Fierro Perez, JHON",
+    "Almarza Sanchez, Aitor",
+    "ARATI LOPEZ, MIGUEL",
+    "Ibáñez Osés, MARIO",
+    "Manti Darrazi, REDA",
+    "Escalada Hernandez, Aimar",
+    "Fernandez Salvatierra, Yago",
+    "PEREIRA ESTAÑAN, HUGO",
+    "Boubadni Arrahmani, OMAR",
+    "Diez Pejenaute, SAMUEL",
+    "Peña Gutierrez, Aitor"
+  ],
+  "suplentes_local": [
+    "Catalan Casas, Guillermo",
+    "Ortuño Doiz, Cristian",
+    "Arigita Garcia, Sergio",
+    "Daoudi , Abdelkader",
+    "Serfaq Jamal, Sofian",
+    "Es Salhi Salhi, Zacaria",
+    "Machrouhi Nfoui, Rayan"
+  ],
+  "suplentes_visitante": [
+    "QUADRELLI MARIN, LAZARO GENARO",
+    "Salvatierra Estañan, Unai",
+    "STIRBEI, IOSUA IOAN DAVID",
+    "Estañan Lebrero, ELOY"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "QUADRELLI MARIN, LAZARO GENARO"
+  ],
+  "jugadores_local": [
+    ", xab",
+    "Lopez Atienza, Guillermo",
+    "Lozano Jimenez, Romeo",
+    "Jimenez Marin, Tristan",
+    "Febrero Perez, Eugen",
+    "Boutahri , Noureddine",
+    "Chehboun , Taoufiq",
+    "Ortuño Doiz, Oliver",
+    "Oliver Romanos, Aitor",
+    "Blasco Martinez, Daniel",
+    "Hernandez Rea, Manuel",
+    "Catalan Casas, Guillermo",
+    "Es Salhi Salhi, Zacaria",
+    "Arigita Garcia, Sergio",
+    "Daoudi , Abdelkader",
+    "Serfaq Jamal, Sofian",
+    "Machrouhi Nfoui, Rayan",
+    "Ortuño Doiz, Cristian"
+  ],
+  "jugadores_visitante": [
+    "Fierro Perez, JHON",
+    "Almarza Sanchez, Aitor",
+    "ARATI LOPEZ, MIGUEL",
+    "Ibáñez Osés, MARIO",
+    "Manti Darrazi, REDA",
+    "Escalada Hernandez, Aimar",
+    "Fernandez Salvatierra, Yago",
+    "PEREIRA ESTAÑAN, HUGO",
+    "Boubadni Arrahmani, OMAR",
+    "Diez Pejenaute, SAMUEL",
+    "Peña Gutierrez, Aitor",
+    "Estañan Lebrero, ELOY",
+    "STIRBEI, IOSUA IOAN DAVID",
+    "Salvatierra Estañan, Unai"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "Catalan Casas, Guillermo",
+      "sale": ", xab"
+    },
+    {
+      "min": 45,
+      "entra": "Es Salhi Salhi, Zacaria",
+      "sale": "Lozano Jimenez, Romeo"
+    },
+    {
+      "min": 45,
+      "entra": "Arigita Garcia, Sergio",
+      "sale": "Ortuño Doiz, Oliver"
+    },
+    {
+      "min": 45,
+      "entra": "Daoudi , Abdelkader",
+      "sale": "Febrero Perez, Eugen"
+    },
+    {
+      "min": 58,
+      "entra": "Serfaq Jamal, Sofian",
+      "sale": "Jimenez Marin, Tristan"
+    },
+    {
+      "min": 63,
+      "entra": "Machrouhi Nfoui, Rayan",
+      "sale": "Hernandez Rea, Manuel"
+    },
+    {
+      "min": 72,
+      "entra": "Ortuño Doiz, Cristian",
+      "sale": "Blasco Martinez, Daniel"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "Estañan Lebrero, ELOY",
+      "sale": "Almarza Sanchez, Aitor"
+    },
+    {
+      "min": 62,
+      "entra": "STIRBEI, IOSUA IOAN DAVID",
+      "sale": "Escalada Hernandez, Aimar"
+    },
+    {
+      "min": 62,
+      "entra": "Salvatierra Estañan, Unai",
+      "sale": "ARATI LOPEZ, MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    ", xab": 45,
+    "Lopez Atienza, Guillermo": 90,
+    "Lozano Jimenez, Romeo": 45,
+    "Jimenez Marin, Tristan": 58,
+    "Febrero Perez, Eugen": 45,
+    "Boutahri , Noureddine": 90,
+    "Chehboun , Taoufiq": 90,
+    "Ortuño Doiz, Oliver": 45,
+    "Oliver Romanos, Aitor": 90,
+    "Blasco Martinez, Daniel": 72,
+    "Hernandez Rea, Manuel": 63,
+    "Catalan Casas, Guillermo": 45,
+    "Es Salhi Salhi, Zacaria": 45,
+    "Arigita Garcia, Sergio": 45,
+    "Daoudi , Abdelkader": 45,
+    "Serfaq Jamal, Sofian": 32,
+    "Machrouhi Nfoui, Rayan": 27,
+    "Ortuño Doiz, Cristian": 18,
+    "Fierro Perez, JHON": 90,
+    "Almarza Sanchez, Aitor": 45,
+    "ARATI LOPEZ, MIGUEL": 62,
+    "Ibáñez Osés, MARIO": 90,
+    "Manti Darrazi, REDA": 90,
+    "Escalada Hernandez, Aimar": 62,
+    "Fernandez Salvatierra, Yago": 90,
+    "PEREIRA ESTAÑAN, HUGO": 90,
+    "Boubadni Arrahmani, OMAR": 90,
+    "Diez Pejenaute, SAMUEL": 90,
+    "Peña Gutierrez, Aitor": 90,
+    "Estañan Lebrero, ELOY": 45,
+    "STIRBEI, IOSUA IOAN DAVID": 28,
+    "Salvatierra Estañan, Unai": 28
+  },
+  "portero_local": ", xab",
+  "portero_visitante": "Fierro Perez, JHON",
+  "dorsales_local": {
+    ", xab": 13,
+    "Lopez Atienza, Guillermo": 4,
+    "Lozano Jimenez, Romeo": 5,
+    "Jimenez Marin, Tristan": 6,
+    "Febrero Perez, Eugen": 11,
+    "Boutahri , Noureddine": 14,
+    "Chehboun , Taoufiq": 15,
+    "Ortuño Doiz, Oliver": 16,
+    "Oliver Romanos, Aitor": 17,
+    "Blasco Martinez, Daniel": 18,
+    "Hernandez Rea, Manuel": 24
+  },
+  "dorsales_visitante": {
+    "Fierro Perez, JHON": 17,
+    "Almarza Sanchez, Aitor": 2,
+    "ARATI LOPEZ, MIGUEL": 3,
+    "Ibáñez Osés, MARIO": 4,
+    "Manti Darrazi, REDA": 5,
+    "Escalada Hernandez, Aimar": 6,
+    "Fernandez Salvatierra, Yago": 7,
+    "PEREIRA ESTAÑAN, HUGO": 8,
+    "Boubadni Arrahmani, OMAR": 9,
+    "Diez Pejenaute, SAMUEL": 10,
+    "Peña Gutierrez, Aitor": 11
+  },
+  "suspendidos": [
+    "Boutahri , Noureddine"
+  ]
+}
