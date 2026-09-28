@@ -1,0 +1,281 @@
+{
+  "acta_id": "B_10061796",
+  "filename": "Acta_B_10061796.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "IURRETAKO A",
+  "equipo_visitante": "DEUSTO A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "OULAHROUR AKSASSE, FASKA"
+  ],
+  "estadio": "LARRAKO-ZELAI",
+  "ciudad": "Iurreta",
+  "goleadores": [
+    {
+      "minuto": 70,
+      "jugador": "VALENCIANO HERNANDEZ, XABIER",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "TEJADA VILARIN, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 14,
+      "jugador": "LUIS URIZAR, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 21,
+      "jugador": "KORTAZAR GORDO, BEÑAT",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "SILVA JUL, IUREN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "DEUSTO A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BORRACHERO ICOBALCETA, IKER",
+  "entrenador_visitante": "BIDAURRAZAGA REBOLLEDA, GORKA",
+  "segundo_entrenador_local": "GOMEZ CASCON, IBAI",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MATEO MADARIAGA, IGNACIO",
+  "delegado_equipo_visitante": "HERRERA JAUREGUI, EGOITZ",
+  "titulares_local": [
+    "TABERA GOMEZ, EKAIN",
+    "CABREJAS PETITE, AMETS",
+    "GONZÁLEZ GONZÁLEZ, PAÚL",
+    "FRANCO DIEZ, ASIER",
+    "ONANDIA CASTRILLO, DANEL",
+    "LUIS URIZAR, AIMAR",
+    "SILVA JUL, IUREN",
+    "SOLAGUREN FERNÁNDEZ, ANARTZ",
+    "MENDAZONA ALBIZURI, URKO",
+    "BIRITXINAGA AMIANO, JON",
+    "KORTAZAR GORDO, BEÑAT"
+  ],
+  "titulares_visitante": [
+    "LETE ARROJO, ARITZ",
+    "TEJADA VILARIN, UNAX",
+    "ORTEGA SANTIAGO, UNAX",
+    "VALENCIANO HERNANDEZ, XABIER",
+    "LOPEZ CHICA, ASIER",
+    "PÉREZ ALONSO, ALAIN",
+    "VIVANCO ANGULO, HUGO",
+    "VILLA URETA, ASER",
+    "RODRIGO ANTON, MIKEL",
+    "DA SILVA CLAUDIO, AINGERU",
+    "EBANG MOKUY, DANIEL SALVADOR"
+  ],
+  "suplentes_local": [
+    "MENDIBE IBARRA, EÑAUT",
+    "DELGADO TERZAGHI, UNAI",
+    "URIARTE LLONA, MARKEL",
+    "LORENZO CRENDE, MIKEL",
+    "LAZKANO ZABALA, EKHI",
+    "BARRENA ARZUBIA, ANDER",
+    "GONZALEZ GONZALEZ, ANDER"
+  ],
+  "suplentes_visitante": [
+    "OTAOLA ANDUEZA, ANDER",
+    "HERRERA NAVAS, UNAI",
+    "AREJULA PRADA, OIER",
+    "MIELGO GOMEZ, YURI",
+    "FERNANDEZ RODRIGUEZ, ANDER",
+    "ESCOLAR LOPEZ, LUKEN",
+    "GARCIA UGARTE, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "MENDIBE IBARRA, EÑAUT",
+    "GONZALEZ GONZALEZ, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "OTAOLA ANDUEZA, ANDER",
+    "GARCIA UGARTE, JON"
+  ],
+  "jugadores_local": [
+    "TABERA GOMEZ, EKAIN",
+    "CABREJAS PETITE, AMETS",
+    "GONZÁLEZ GONZÁLEZ, PAÚL",
+    "FRANCO DIEZ, ASIER",
+    "ONANDIA CASTRILLO, DANEL",
+    "LUIS URIZAR, AIMAR",
+    "SILVA JUL, IUREN",
+    "SOLAGUREN FERNÁNDEZ, ANARTZ",
+    "MENDAZONA ALBIZURI, URKO",
+    "BIRITXINAGA AMIANO, JON",
+    "KORTAZAR GORDO, BEÑAT",
+    "LAZKANO ZABALA, EKHI",
+    "DELGADO TERZAGHI, UNAI",
+    "BARRENA ARZUBIA, ANDER",
+    "URIARTE LLONA, MARKEL",
+    "LORENZO CRENDE, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "LETE ARROJO, ARITZ",
+    "TEJADA VILARIN, UNAX",
+    "ORTEGA SANTIAGO, UNAX",
+    "VALENCIANO HERNANDEZ, XABIER",
+    "LOPEZ CHICA, ASIER",
+    "PÉREZ ALONSO, ALAIN",
+    "VIVANCO ANGULO, HUGO",
+    "VILLA URETA, ASER",
+    "RODRIGO ANTON, MIKEL",
+    "DA SILVA CLAUDIO, AINGERU",
+    "EBANG MOKUY, DANIEL SALVADOR",
+    "HERRERA NAVAS, UNAI",
+    "ESCOLAR LOPEZ, LUKEN",
+    "MIELGO GOMEZ, YURI",
+    "FERNANDEZ RODRIGUEZ, ANDER",
+    "AREJULA PRADA, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "LAZKANO ZABALA, EKHI",
+      "sale": "ONANDIA CASTRILLO, DANEL"
+    },
+    {
+      "min": 51,
+      "entra": "DELGADO TERZAGHI, UNAI",
+      "sale": "KORTAZAR GORDO, BEÑAT"
+    },
+    {
+      "min": 61,
+      "entra": "BARRENA ARZUBIA, ANDER",
+      "sale": "BIRITXINAGA AMIANO, JON"
+    },
+    {
+      "min": 71,
+      "entra": "URIARTE LLONA, MARKEL",
+      "sale": "CABREJAS PETITE, AMETS"
+    },
+    {
+      "min": 71,
+      "entra": "LORENZO CRENDE, MIKEL",
+      "sale": "SOLAGUREN FERNÁNDEZ, ANARTZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "HERRERA NAVAS, UNAI",
+      "sale": "VILLA URETA, ASER"
+    },
+    {
+      "min": 59,
+      "entra": "ESCOLAR LOPEZ, LUKEN",
+      "sale": "VIVANCO ANGULO, HUGO"
+    },
+    {
+      "min": 69,
+      "entra": "MIELGO GOMEZ, YURI",
+      "sale": "LOPEZ CHICA, ASIER"
+    },
+    {
+      "min": 69,
+      "entra": "FERNANDEZ RODRIGUEZ, ANDER",
+      "sale": "EBANG MOKUY, DANIEL SALVADOR"
+    },
+    {
+      "min": 74,
+      "entra": "AREJULA PRADA, OIER",
+      "sale": "ORTEGA SANTIAGO, UNAX"
+    }
+  ],
+  "minutos_jugadores": {
+    "TABERA GOMEZ, EKAIN": 90,
+    "CABREJAS PETITE, AMETS": 71,
+    "GONZÁLEZ GONZÁLEZ, PAÚL": 90,
+    "FRANCO DIEZ, ASIER": 90,
+    "ONANDIA CASTRILLO, DANEL": 41,
+    "LUIS URIZAR, AIMAR": 90,
+    "SILVA JUL, IUREN": 90,
+    "SOLAGUREN FERNÁNDEZ, ANARTZ": 71,
+    "MENDAZONA ALBIZURI, URKO": 90,
+    "BIRITXINAGA AMIANO, JON": 61,
+    "KORTAZAR GORDO, BEÑAT": 51,
+    "LAZKANO ZABALA, EKHI": 49,
+    "DELGADO TERZAGHI, UNAI": 39,
+    "BARRENA ARZUBIA, ANDER": 29,
+    "URIARTE LLONA, MARKEL": 19,
+    "LORENZO CRENDE, MIKEL": 19,
+    "LETE ARROJO, ARITZ": 90,
+    "TEJADA VILARIN, UNAX": 90,
+    "ORTEGA SANTIAGO, UNAX": 74,
+    "VALENCIANO HERNANDEZ, XABIER": 90,
+    "LOPEZ CHICA, ASIER": 69,
+    "PÉREZ ALONSO, ALAIN": 90,
+    "VIVANCO ANGULO, HUGO": 59,
+    "VILLA URETA, ASER": 59,
+    "RODRIGO ANTON, MIKEL": 90,
+    "DA SILVA CLAUDIO, AINGERU": 90,
+    "EBANG MOKUY, DANIEL SALVADOR": 69,
+    "HERRERA NAVAS, UNAI": 31,
+    "ESCOLAR LOPEZ, LUKEN": 31,
+    "MIELGO GOMEZ, YURI": 21,
+    "FERNANDEZ RODRIGUEZ, ANDER": 21,
+    "AREJULA PRADA, OIER": 16
+  },
+  "portero_local": "TABERA GOMEZ, EKAIN",
+  "portero_visitante": "LETE ARROJO, ARITZ",
+  "dorsales_local": {
+    "TABERA GOMEZ, EKAIN": 1,
+    "CABREJAS PETITE, AMETS": 2,
+    "GONZÁLEZ GONZÁLEZ, PAÚL": 3,
+    "FRANCO DIEZ, ASIER": 4,
+    "ONANDIA CASTRILLO, DANEL": 6,
+    "LUIS URIZAR, AIMAR": 8,
+    "SILVA JUL, IUREN": 11,
+    "SOLAGUREN FERNÁNDEZ, ANARTZ": 19,
+    "MENDAZONA ALBIZURI, URKO": 20,
+    "BIRITXINAGA AMIANO, JON": 21,
+    "KORTAZAR GORDO, BEÑAT": 23
+  },
+  "dorsales_visitante": {
+    "LETE ARROJO, ARITZ": 1,
+    "TEJADA VILARIN, UNAX": 3,
+    "ORTEGA SANTIAGO, UNAX": 4,
+    "VALENCIANO HERNANDEZ, XABIER": 6,
+    "LOPEZ CHICA, ASIER": 7,
+    "PÉREZ ALONSO, ALAIN": 8,
+    "VIVANCO ANGULO, HUGO": 10,
+    "VILLA URETA, ASER": 12,
+    "RODRIGO ANTON, MIKEL": 21,
+    "DA SILVA CLAUDIO, AINGERU": 22,
+    "EBANG MOKUY, DANIEL SALVADOR": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
