@@ -1,0 +1,241 @@
+{
+  "acta_id": "E_10043968",
+  "filename": "Acta_E_10043968.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "16:30",
+  "categoria": "LIGA VASCA JUVENIL / GAZTEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "BEASAIN, S.D.",
+  "equipo_visitante": "LAGUN ONAK C.D.",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "CALVILLO LETURIA, JOSU"
+  ],
+  "estadio": "LOINAZ",
+  "ciudad": "Beasain",
+  "goleadores": [
+    {
+      "minuto": 60,
+      "jugador": "ALDALUR ETXEBERRIA, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "CID GARMENDIA, HEGOI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 44,
+      "jugador": "IRURETA ZURIARRAIN, LIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SANTIAGO ARROYO, JORGE",
+  "entrenador_visitante": "IBARLUZEA OLAIZOLA, JULEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PASCHETTA, TOMAS AGUSTIN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PASCHETTA, TOMAS AGUSTIN",
+  "delegado_equipo_visitante": "OLABE IBARLUCEA, IKER",
+  "titulares_local": [
+    "ETXEBERRIA CIRES, MARKEL",
+    "LASA AGUIRRE, MARKEL",
+    "ARANA AGUADO, ADEI",
+    "LASA GARMENDIA, AIMAR",
+    "RODRIGO TRIGUERO, OIHAN",
+    "GOIBURU HERNANDEZ, EKHI",
+    "MEDIAVILLA LIZARRALDE, MARKEL",
+    "CID GARMENDIA, HEGOI",
+    "SARRIEGI IRAZUSTABARRENA, UNAI",
+    "ALONSO SORIO, XANET",
+    "CUENTRA NOGALES, IBAI"
+  ],
+  "titulares_visitante": [
+    "ARANBARRI PEÑAGARIKANO, LANDER",
+    "IRURETA ZURIARRAIN, LIER",
+    "ALBERDI LERCHUNDI, UNAX",
+    "CABUE CARRASCO, XABIER",
+    "URBIETA ECHANIZ, ZEIAN",
+    "PINEDA ARANGUREN, MIKEL",
+    "ALDALUR ETXEBERRIA, OIER",
+    "LIZARBURU ITURZAETA, ANDER",
+    "IPARRAGIRRE ZUGASTI, ARATZ",
+    "URANGA ZUBIZARRETA, JAKES",
+    "ALTUNA LAZKANO, PEIO"
+  ],
+  "suplentes_local": [
+    "ERRAZKIN JAUREGI, INHAR",
+    "MARTIN MUNDUATE, EKI",
+    "BERASATEGI LARREA, ANDER",
+    "MUJIKA MUJIKA, XABAT",
+    "SANCHEZ GARCIA, OSCAR",
+    "ALUSTIZA PALACIOS, LIER",
+    "JAUREGUI ATXAGA, BEÑAT"
+  ],
+  "suplentes_visitante": [
+    "GOGORZA JUARISTI, OIHAN",
+    "URRESTILLA GARATE, ARATZ",
+    "URRESTILLA SOROZABAL, IKER",
+    "AGUIRRE UNANUE, IÑAKI"
+  ],
+  "convocados_sin_jugar_local": [
+    "ERRAZKIN JAUREGI, INHAR",
+    "MUJIKA MUJIKA, XABAT"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GOGORZA JUARISTI, OIHAN"
+  ],
+  "jugadores_local": [
+    "ETXEBERRIA CIRES, MARKEL",
+    "LASA AGUIRRE, MARKEL",
+    "ARANA AGUADO, ADEI",
+    "LASA GARMENDIA, AIMAR",
+    "RODRIGO TRIGUERO, OIHAN",
+    "GOIBURU HERNANDEZ, EKHI",
+    "MEDIAVILLA LIZARRALDE, MARKEL",
+    "CID GARMENDIA, HEGOI",
+    "SARRIEGI IRAZUSTABARRENA, UNAI",
+    "ALONSO SORIO, XANET",
+    "CUENTRA NOGALES, IBAI",
+    "BERASATEGI LARREA, ANDER",
+    "ALUSTIZA PALACIOS, LIER",
+    "MARTIN MUNDUATE, EKI",
+    "JAUREGUI ATXAGA, BEÑAT",
+    "SANCHEZ GARCIA, OSCAR"
+  ],
+  "jugadores_visitante": [
+    "ARANBARRI PEÑAGARIKANO, LANDER",
+    "IRURETA ZURIARRAIN, LIER",
+    "ALBERDI LERCHUNDI, UNAX",
+    "CABUE CARRASCO, XABIER",
+    "URBIETA ECHANIZ, ZEIAN",
+    "PINEDA ARANGUREN, MIKEL",
+    "ALDALUR ETXEBERRIA, OIER",
+    "LIZARBURU ITURZAETA, ANDER",
+    "IPARRAGIRRE ZUGASTI, ARATZ",
+    "URANGA ZUBIZARRETA, JAKES",
+    "ALTUNA LAZKANO, PEIO",
+    "AGUIRRE UNANUE, IÑAKI",
+    "URRESTILLA SOROZABAL, IKER",
+    "URRESTILLA GARATE, ARATZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "BERASATEGI LARREA, ANDER",
+      "sale": "ALONSO SORIO, XANET"
+    },
+    {
+      "min": 59,
+      "entra": "ALUSTIZA PALACIOS, LIER",
+      "sale": "CUENTRA NOGALES, IBAI"
+    },
+    {
+      "min": 75,
+      "entra": "MARTIN MUNDUATE, EKI",
+      "sale": "ARANA AGUADO, ADEI"
+    },
+    {
+      "min": 87,
+      "entra": "JAUREGUI ATXAGA, BEÑAT",
+      "sale": "MEDIAVILLA LIZARRALDE, MARKEL"
+    },
+    {
+      "min": 87,
+      "entra": "SANCHEZ GARCIA, OSCAR",
+      "sale": "SARRIEGI IRAZUSTABARRENA, UNAI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 69,
+      "entra": "AGUIRRE UNANUE, IÑAKI",
+      "sale": "CABUE CARRASCO, XABIER"
+    },
+    {
+      "min": 69,
+      "entra": "URRESTILLA SOROZABAL, IKER",
+      "sale": "IPARRAGIRRE ZUGASTI, ARATZ"
+    },
+    {
+      "min": 85,
+      "entra": "URRESTILLA GARATE, ARATZ",
+      "sale": "URANGA ZUBIZARRETA, JAKES"
+    }
+  ],
+  "minutos_jugadores": {
+    "ETXEBERRIA CIRES, MARKEL": 90,
+    "LASA AGUIRRE, MARKEL": 90,
+    "ARANA AGUADO, ADEI": 75,
+    "LASA GARMENDIA, AIMAR": 90,
+    "RODRIGO TRIGUERO, OIHAN": 90,
+    "GOIBURU HERNANDEZ, EKHI": 90,
+    "MEDIAVILLA LIZARRALDE, MARKEL": 87,
+    "CID GARMENDIA, HEGOI": 90,
+    "SARRIEGI IRAZUSTABARRENA, UNAI": 87,
+    "ALONSO SORIO, XANET": 59,
+    "CUENTRA NOGALES, IBAI": 59,
+    "BERASATEGI LARREA, ANDER": 31,
+    "ALUSTIZA PALACIOS, LIER": 31,
+    "MARTIN MUNDUATE, EKI": 15,
+    "JAUREGUI ATXAGA, BEÑAT": 3,
+    "SANCHEZ GARCIA, OSCAR": 3,
+    "ARANBARRI PEÑAGARIKANO, LANDER": 90,
+    "IRURETA ZURIARRAIN, LIER": 90,
+    "ALBERDI LERCHUNDI, UNAX": 90,
+    "CABUE CARRASCO, XABIER": 69,
+    "URBIETA ECHANIZ, ZEIAN": 90,
+    "PINEDA ARANGUREN, MIKEL": 90,
+    "ALDALUR ETXEBERRIA, OIER": 90,
+    "LIZARBURU ITURZAETA, ANDER": 90,
+    "IPARRAGIRRE ZUGASTI, ARATZ": 69,
+    "URANGA ZUBIZARRETA, JAKES": 85,
+    "ALTUNA LAZKANO, PEIO": 90,
+    "AGUIRRE UNANUE, IÑAKI": 21,
+    "URRESTILLA SOROZABAL, IKER": 21,
+    "URRESTILLA GARATE, ARATZ": 5
+  },
+  "portero_local": "ETXEBERRIA CIRES, MARKEL",
+  "portero_visitante": "ARANBARRI PEÑAGARIKANO, LANDER",
+  "dorsales_local": {
+    "ETXEBERRIA CIRES, MARKEL": 1,
+    "LASA AGUIRRE, MARKEL": 2,
+    "ARANA AGUADO, ADEI": 3,
+    "LASA GARMENDIA, AIMAR": 4,
+    "RODRIGO TRIGUERO, OIHAN": 5,
+    "GOIBURU HERNANDEZ, EKHI": 6,
+    "MEDIAVILLA LIZARRALDE, MARKEL": 7,
+    "CID GARMENDIA, HEGOI": 8,
+    "SARRIEGI IRAZUSTABARRENA, UNAI": 9,
+    "ALONSO SORIO, XANET": 10,
+    "CUENTRA NOGALES, IBAI": 11
+  },
+  "dorsales_visitante": {
+    "ARANBARRI PEÑAGARIKANO, LANDER": 1,
+    "IRURETA ZURIARRAIN, LIER": 2,
+    "ALBERDI LERCHUNDI, UNAX": 3,
+    "CABUE CARRASCO, XABIER": 4,
+    "URBIETA ECHANIZ, ZEIAN": 5,
+    "PINEDA ARANGUREN, MIKEL": 6,
+    "ALDALUR ETXEBERRIA, OIER": 7,
+    "LIZARBURU ITURZAETA, ANDER": 8,
+    "IPARRAGIRRE ZUGASTI, ARATZ": 9,
+    "URANGA ZUBIZARRETA, JAKES": 10,
+    "ALTUNA LAZKANO, PEIO": 11
+  },
+  "suspendidos": []
+}
