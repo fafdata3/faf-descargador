@@ -1,0 +1,309 @@
+{
+  "acta_id": "R_259937",
+  "filename": "Acta_R_259937.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "16:30",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "ALFARO",
+  "equipo_visitante": "BERCEO",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "LÁZARO MARTÍNEZ, ÓLIVER",
+    "Árbitro Asistente",
+    "DAHMANI SOUNAINE, ADAM",
+    "Árbitro Asistente",
+    "HERNANDEZ NIETO, HAROLD"
+  ],
+  "estadio": "C.M. LA MOLINETA - H.A. (ALFARO)",
+  "ciudad": "Alfaro",
+  "goleadores": [
+    {
+      "minuto": 62,
+      "jugador": "GIL FONCEA, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "ANGUIANO SALVADOR, RAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 85,
+      "jugador": "SAENZ FERNANDEZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "FACES NICOLAS, VICENTE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "LOPEZ JIMENEZ, DARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "BELTRAN LOZANO, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "MOUTIK RAZKAOUI, DRISS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "OUBOULKASSEM TAFRANT, YASSER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "BERCEO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "MARTINEZ IÑIGUEZ, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "FACES NICOLAS, VICENTE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ANGUIANO BLAZQUEZ, MIGUEL",
+  "entrenador_visitante": "TORRES SOTO, IGNACIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "NAVACUES MERERO, ÁNGEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ANGUIANO BLAZQUEZ, ANGEL",
+  "delegado_equipo_visitante": "CASTILLO RIO, JAVIER",
+  "titulares_local": [
+    "MORENO ABAD, ALVARO",
+    "ABOUBOU, ADAM",
+    "LOPEZ JIMENEZ, DARIO",
+    "RIVERO ECHAU, MARIO",
+    "BELTRAN LOZANO, ANDER",
+    "CORDON ANTON, MATEO",
+    "ANGUIANO SALVADOR, RAUL",
+    "GARCES TORRES, DERECK ANAEL",
+    "MARTINEZ RUIZ, CRISTIAN",
+    "CASAS MALUMBRES, CARLOS",
+    "MOUTIK RAZKAOUI, DRISS"
+  ],
+  "titulares_visitante": [
+    "SARABIA CASERO, RUBEN",
+    "ECHAPRESTO PEREZ, MILLAN",
+    "GARCIA CORRES, PABLO",
+    "BORRAS SANCHEZ, CRISTIAN",
+    "CONDE BERMEJO, LUIS",
+    "MARTINEZ PEREZ, LUIS",
+    "MARTINEZ SANTAMARIA, CESAR",
+    "PARRA AROCA, DIEGO",
+    "TORRECILLA ZANGRONIZ, ALBERTO",
+    "ALVAREZ ORTUBE, HECTOR",
+    "MARTINEZ IÑIGUEZ, DANIEL"
+  ],
+  "suplentes_local": [
+    "ARNEDO GASPARRINI, GIOVANNI",
+    "MARIN ALFARO, MARCOS",
+    "ARMIJOS LABANDA, ERIK A",
+    "OUBOULKASSEM TAFRANT, YASSER",
+    "QAJJIA OUMBARECH, ACHRAF"
+  ],
+  "suplentes_visitante": [
+    "CALVO CARBAJO, DIEGO",
+    "PEREZ ALONSO, MARIO",
+    "GIL FONCEA, PABLO",
+    "TOBIAS BEZARES, JORGE",
+    "FACES NICOLAS, VICENTE",
+    "RUBIO TORRE, XABIER",
+    "SAENZ FERNANDEZ, PABLO"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARNEDO GASPARRINI, GIOVANNI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CALVO CARBAJO, DIEGO",
+    "RUBIO TORRE, XABIER"
+  ],
+  "jugadores_local": [
+    "MORENO ABAD, ALVARO",
+    "ABOUBOU, ADAM",
+    "LOPEZ JIMENEZ, DARIO",
+    "RIVERO ECHAU, MARIO",
+    "BELTRAN LOZANO, ANDER",
+    "CORDON ANTON, MATEO",
+    "ANGUIANO SALVADOR, RAUL",
+    "GARCES TORRES, DERECK ANAEL",
+    "MARTINEZ RUIZ, CRISTIAN",
+    "CASAS MALUMBRES, CARLOS",
+    "MOUTIK RAZKAOUI, DRISS",
+    "MARIN ALFARO, MARCOS",
+    "QAJJIA OUMBARECH, ACHRAF",
+    "OUBOULKASSEM TAFRANT, YASSER",
+    "ARMIJOS LABANDA, ERIK A"
+  ],
+  "jugadores_visitante": [
+    "SARABIA CASERO, RUBEN",
+    "ECHAPRESTO PEREZ, MILLAN",
+    "GARCIA CORRES, PABLO",
+    "BORRAS SANCHEZ, CRISTIAN",
+    "CONDE BERMEJO, LUIS",
+    "MARTINEZ PEREZ, LUIS",
+    "MARTINEZ SANTAMARIA, CESAR",
+    "PARRA AROCA, DIEGO",
+    "TORRECILLA ZANGRONIZ, ALBERTO",
+    "ALVAREZ ORTUBE, HECTOR",
+    "MARTINEZ IÑIGUEZ, DANIEL",
+    "PEREZ ALONSO, MARIO",
+    "GIL FONCEA, PABLO",
+    "SAENZ FERNANDEZ, PABLO",
+    "TOBIAS BEZARES, JORGE",
+    "FACES NICOLAS, VICENTE"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 12,
+      "entra": "MARIN ALFARO, MARCOS",
+      "sale": "ABOUBOU, ADAM"
+    },
+    {
+      "min": 62,
+      "entra": "QAJJIA OUMBARECH, ACHRAF",
+      "sale": "CASAS MALUMBRES, CARLOS"
+    },
+    {
+      "min": 62,
+      "entra": "OUBOULKASSEM TAFRANT, YASSER",
+      "sale": "MARTINEZ RUIZ, CRISTIAN"
+    },
+    {
+      "min": 66,
+      "entra": "ARMIJOS LABANDA, ERIK A",
+      "sale": "MARIN ALFARO, MARCOS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "PEREZ ALONSO, MARIO",
+      "sale": "PARRA AROCA, DIEGO"
+    },
+    {
+      "min": 58,
+      "entra": "GIL FONCEA, PABLO",
+      "sale": "GARCIA CORRES, PABLO"
+    },
+    {
+      "min": 58,
+      "entra": "SAENZ FERNANDEZ, PABLO",
+      "sale": "MARTINEZ IÑIGUEZ, DANIEL"
+    },
+    {
+      "min": 58,
+      "entra": "TOBIAS BEZARES, JORGE",
+      "sale": "MARTINEZ PEREZ, LUIS"
+    },
+    {
+      "min": 87,
+      "entra": "FACES NICOLAS, VICENTE",
+      "sale": "ALVAREZ ORTUBE, HECTOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "MORENO ABAD, ALVARO": 90,
+    "ABOUBOU, ADAM": 12,
+    "LOPEZ JIMENEZ, DARIO": 90,
+    "RIVERO ECHAU, MARIO": 90,
+    "BELTRAN LOZANO, ANDER": 90,
+    "CORDON ANTON, MATEO": 90,
+    "ANGUIANO SALVADOR, RAUL": 90,
+    "GARCES TORRES, DERECK ANAEL": 90,
+    "MARTINEZ RUIZ, CRISTIAN": 62,
+    "CASAS MALUMBRES, CARLOS": 62,
+    "MOUTIK RAZKAOUI, DRISS": 90,
+    "MARIN ALFARO, MARCOS": 66,
+    "QAJJIA OUMBARECH, ACHRAF": 28,
+    "OUBOULKASSEM TAFRANT, YASSER": 28,
+    "ARMIJOS LABANDA, ERIK A": 24,
+    "SARABIA CASERO, RUBEN": 90,
+    "ECHAPRESTO PEREZ, MILLAN": 90,
+    "GARCIA CORRES, PABLO": 58,
+    "BORRAS SANCHEZ, CRISTIAN": 90,
+    "CONDE BERMEJO, LUIS": 90,
+    "MARTINEZ PEREZ, LUIS": 58,
+    "MARTINEZ SANTAMARIA, CESAR": 90,
+    "PARRA AROCA, DIEGO": 58,
+    "TORRECILLA ZANGRONIZ, ALBERTO": 90,
+    "ALVAREZ ORTUBE, HECTOR": 87,
+    "MARTINEZ IÑIGUEZ, DANIEL": 58,
+    "PEREZ ALONSO, MARIO": 32,
+    "GIL FONCEA, PABLO": 32,
+    "SAENZ FERNANDEZ, PABLO": 32,
+    "TOBIAS BEZARES, JORGE": 32,
+    "FACES NICOLAS, VICENTE": 3
+  },
+  "portero_local": "MORENO ABAD, ALVARO",
+  "portero_visitante": "SARABIA CASERO, RUBEN",
+  "dorsales_local": {
+    "MORENO ABAD, ALVARO": 1,
+    "ABOUBOU, ADAM": 4,
+    "LOPEZ JIMENEZ, DARIO": 6,
+    "RIVERO ECHAU, MARIO": 7,
+    "BELTRAN LOZANO, ANDER": 8,
+    "CORDON ANTON, MATEO": 9,
+    "ANGUIANO SALVADOR, RAUL": 10,
+    "GARCES TORRES, DERECK ANAEL": 11,
+    "MARTINEZ RUIZ, CRISTIAN": 14,
+    "CASAS MALUMBRES, CARLOS": 17,
+    "MOUTIK RAZKAOUI, DRISS": 22
+  },
+  "dorsales_visitante": {
+    "SARABIA CASERO, RUBEN": 13,
+    "ECHAPRESTO PEREZ, MILLAN": 3,
+    "GARCIA CORRES, PABLO": 4,
+    "BORRAS SANCHEZ, CRISTIAN": 5,
+    "CONDE BERMEJO, LUIS": 6,
+    "MARTINEZ PEREZ, LUIS": 9,
+    "MARTINEZ SANTAMARIA, CESAR": 10,
+    "PARRA AROCA, DIEGO": 12,
+    "TORRECILLA ZANGRONIZ, ALBERTO": 14,
+    "ALVAREZ ORTUBE, HECTOR": 17,
+    "MARTINEZ IÑIGUEZ, DANIEL": 22
+  },
+  "suspendidos": []
+}
