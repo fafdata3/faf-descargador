@@ -1,0 +1,335 @@
+{
+  "acta_id": "E_10044277",
+  "filename": "Acta_E_10044277.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "18:30",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "TOLOSA CLUB DE FUTBOL",
+  "equipo_visitante": "EIBAR, S.D.",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ZAMARRON ROYUELA, ENEKO"
+  ],
+  "estadio": "USABAL",
+  "ciudad": "Tolosa",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "TALLEDO AGUSTIN, OIHAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "MAIGA KOITA, CHEICKE HAMALA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "SAMPEDRO GONZALEZ, NICOLAS",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "SANZ MUGICA, ENDIKA",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "AREIZAGA SALEGUI, LUKA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 22,
+      "jugador": "ARIN GARCIA, BEÑAT",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "GODOY BASTIDAS, MAGDIEL JESUS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "TRUJILLO JAUREGUI, IVAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "HERRERA ECEIZABARRENA, NESTOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "EIBAR, S.D.",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "TALLEDO AGUSTIN, OIHAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "DE LA MATA QUESADA, ANER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "VIDAL PEÑA, IMANOL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "TOLOSA ERRONDOSORO, JOSU",
+  "entrenador_visitante": "ITUARTE OLANO, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GARAGARZA SASIETA, ENDIKA",
+  "delegado_campo_local": "LAIZABAL FERNANDEZ, OIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LAIZABAL FERNANDEZ, OIER",
+  "delegado_equipo_visitante": "GUISASOLA ALTUNA, MARKEL",
+  "titulares_local": [
+    "ZUBIZARRETA MARTINEZ, XABIER",
+    "ARIN GARCIA, BEÑAT",
+    "CARDENAL ARANA, AITZOL",
+    "IRASTORZA ELIZALDE, OINATZ",
+    "HERRERO IRURE, HODEI",
+    "ARTETXE ANTOLIN, ALEX",
+    "GODOY BASTIDAS, MAGDIEL JESUS",
+    "IZTUETA GOÑI, OIER",
+    "HERRERA ECEIZABARRENA, NESTOR",
+    "LASARTE ASTIBIA, MANEX",
+    "TRUJILLO JAUREGUI, IVAN"
+  ],
+  "titulares_visitante": [
+    "URAIN SANTANO, ENEKO",
+    "GERENABARRENA YARZA, MARKEL",
+    "IRAZABAL MADARIAGA, IGOR",
+    "BASAURI LASA, ANDER",
+    "GONZALEZ SAN JUAN, HODEI",
+    "SAMPEDRO GONZALEZ, NICOLAS",
+    "MAIGA KOITA, CHEICKE HAMALA",
+    "ALONSO MODENES, UNAI",
+    "DE LA MATA QUESADA, ANER",
+    "TALLEDO AGUSTIN, OIHAN",
+    "CORMAN LOPEZ, UNAI"
+  ],
+  "suplentes_local": [
+    "IZAGUIRRE IMAZ, AMETS",
+    "BALLESTEROS MUGICA, XANET",
+    "TOLOSA OTERMIN, AMETS",
+    "ZALACAIN JIMENEZ, OIER",
+    "KRIO MORALES, KOFI UNAX",
+    "MOZO TOLOSA, ALEX"
+  ],
+  "suplentes_visitante": [
+    "GISASOLA BERNARDO, EKAIN",
+    "SARASQUETA SALOMON, GALDER",
+    "SANZ MUGICA, ENDIKA",
+    "CAMARA PEREZ, MARCOS",
+    "VIDAL PEÑA, IMANOL",
+    "AREIZAGA SALEGUI, LUKA",
+    "ALKORTA DUARTE, IBON"
+  ],
+  "convocados_sin_jugar_local": [
+    "IZAGUIRRE IMAZ, AMETS"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SARASQUETA SALOMON, GALDER",
+    "CAMARA PEREZ, MARCOS"
+  ],
+  "jugadores_local": [
+    "ZUBIZARRETA MARTINEZ, XABIER",
+    "ARIN GARCIA, BEÑAT",
+    "CARDENAL ARANA, AITZOL",
+    "IRASTORZA ELIZALDE, OINATZ",
+    "HERRERO IRURE, HODEI",
+    "ARTETXE ANTOLIN, ALEX",
+    "GODOY BASTIDAS, MAGDIEL JESUS",
+    "IZTUETA GOÑI, OIER",
+    "HERRERA ECEIZABARRENA, NESTOR",
+    "LASARTE ASTIBIA, MANEX",
+    "TRUJILLO JAUREGUI, IVAN",
+    "TOLOSA OTERMIN, AMETS",
+    "KRIO MORALES, KOFI UNAX",
+    "ZALACAIN JIMENEZ, OIER",
+    "MOZO TOLOSA, ALEX",
+    "BALLESTEROS MUGICA, XANET"
+  ],
+  "jugadores_visitante": [
+    "URAIN SANTANO, ENEKO",
+    "GERENABARRENA YARZA, MARKEL",
+    "IRAZABAL MADARIAGA, IGOR",
+    "BASAURI LASA, ANDER",
+    "GONZALEZ SAN JUAN, HODEI",
+    "SAMPEDRO GONZALEZ, NICOLAS",
+    "MAIGA KOITA, CHEICKE HAMALA",
+    "ALONSO MODENES, UNAI",
+    "DE LA MATA QUESADA, ANER",
+    "TALLEDO AGUSTIN, OIHAN",
+    "CORMAN LOPEZ, UNAI",
+    "SANZ MUGICA, ENDIKA",
+    "VIDAL PEÑA, IMANOL",
+    "AREIZAGA SALEGUI, LUKA",
+    "GISASOLA BERNARDO, EKAIN",
+    "ALKORTA DUARTE, IBON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "TOLOSA OTERMIN, AMETS",
+      "sale": "ARIN GARCIA, BEÑAT"
+    },
+    {
+      "min": 57,
+      "entra": "KRIO MORALES, KOFI UNAX",
+      "sale": "GODOY BASTIDAS, MAGDIEL JESUS"
+    },
+    {
+      "min": 57,
+      "entra": "ZALACAIN JIMENEZ, OIER",
+      "sale": "LASARTE ASTIBIA, MANEX"
+    },
+    {
+      "min": 63,
+      "entra": "MOZO TOLOSA, ALEX",
+      "sale": "TRUJILLO JAUREGUI, IVAN"
+    },
+    {
+      "min": 63,
+      "entra": "BALLESTEROS MUGICA, XANET",
+      "sale": "HERRERA ECEIZABARRENA, NESTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "SANZ MUGICA, ENDIKA",
+      "sale": "MAIGA KOITA, CHEICKE HAMALA"
+    },
+    {
+      "min": 52,
+      "entra": "VIDAL PEÑA, IMANOL",
+      "sale": "BASAURI LASA, ANDER"
+    },
+    {
+      "min": 59,
+      "entra": "AREIZAGA SALEGUI, LUKA",
+      "sale": "GONZALEZ SAN JUAN, HODEI"
+    },
+    {
+      "min": 68,
+      "entra": "GISASOLA BERNARDO, EKAIN",
+      "sale": "CORMAN LOPEZ, UNAI"
+    },
+    {
+      "min": 70,
+      "entra": "ALKORTA DUARTE, IBON",
+      "sale": "TALLEDO AGUSTIN, OIHAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ZUBIZARRETA MARTINEZ, XABIER": 90,
+    "ARIN GARCIA, BEÑAT": 41,
+    "CARDENAL ARANA, AITZOL": 90,
+    "IRASTORZA ELIZALDE, OINATZ": 90,
+    "HERRERO IRURE, HODEI": 90,
+    "ARTETXE ANTOLIN, ALEX": 90,
+    "GODOY BASTIDAS, MAGDIEL JESUS": 57,
+    "IZTUETA GOÑI, OIER": 90,
+    "HERRERA ECEIZABARRENA, NESTOR": 63,
+    "LASARTE ASTIBIA, MANEX": 57,
+    "TRUJILLO JAUREGUI, IVAN": 63,
+    "TOLOSA OTERMIN, AMETS": 49,
+    "KRIO MORALES, KOFI UNAX": 33,
+    "ZALACAIN JIMENEZ, OIER": 33,
+    "MOZO TOLOSA, ALEX": 27,
+    "BALLESTEROS MUGICA, XANET": 27,
+    "URAIN SANTANO, ENEKO": 90,
+    "GERENABARRENA YARZA, MARKEL": 90,
+    "IRAZABAL MADARIAGA, IGOR": 90,
+    "BASAURI LASA, ANDER": 52,
+    "GONZALEZ SAN JUAN, HODEI": 59,
+    "SAMPEDRO GONZALEZ, NICOLAS": 90,
+    "MAIGA KOITA, CHEICKE HAMALA": 52,
+    "ALONSO MODENES, UNAI": 90,
+    "DE LA MATA QUESADA, ANER": 90,
+    "TALLEDO AGUSTIN, OIHAN": 70,
+    "CORMAN LOPEZ, UNAI": 68,
+    "SANZ MUGICA, ENDIKA": 38,
+    "VIDAL PEÑA, IMANOL": 38,
+    "AREIZAGA SALEGUI, LUKA": 31,
+    "GISASOLA BERNARDO, EKAIN": 22,
+    "ALKORTA DUARTE, IBON": 20
+  },
+  "portero_local": "ZUBIZARRETA MARTINEZ, XABIER",
+  "portero_visitante": "URAIN SANTANO, ENEKO",
+  "dorsales_local": {
+    "ZUBIZARRETA MARTINEZ, XABIER": 1,
+    "ARIN GARCIA, BEÑAT": 2,
+    "CARDENAL ARANA, AITZOL": 3,
+    "IRASTORZA ELIZALDE, OINATZ": 4,
+    "HERRERO IRURE, HODEI": 5,
+    "ARTETXE ANTOLIN, ALEX": 6,
+    "GODOY BASTIDAS, MAGDIEL JESUS": 7,
+    "IZTUETA GOÑI, OIER": 8,
+    "HERRERA ECEIZABARRENA, NESTOR": 9,
+    "LASARTE ASTIBIA, MANEX": 10,
+    "TRUJILLO JAUREGUI, IVAN": 22
+  },
+  "dorsales_visitante": {
+    "URAIN SANTANO, ENEKO": 1,
+    "GERENABARRENA YARZA, MARKEL": 2,
+    "IRAZABAL MADARIAGA, IGOR": 5,
+    "BASAURI LASA, ANDER": 6,
+    "GONZALEZ SAN JUAN, HODEI": 7,
+    "SAMPEDRO GONZALEZ, NICOLAS": 8,
+    "MAIGA KOITA, CHEICKE HAMALA": 9,
+    "ALONSO MODENES, UNAI": 12,
+    "DE LA MATA QUESADA, ANER": 15,
+    "TALLEDO AGUSTIN, OIHAN": 20,
+    "CORMAN LOPEZ, UNAI": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
