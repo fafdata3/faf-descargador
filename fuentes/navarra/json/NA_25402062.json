@@ -1,0 +1,260 @@
+{
+  "acta_id": "NA_25402062",
+  "filename": "Acta_NA_25402062.txt",
+  "fuente": "navarra",
+  "temporada": "2024-2025",
+  "jornada": 15,
+  "fecha": "12-01-2025",
+  "hora": "11:30",
+  "categoria": "Segunda Cadete - Juegos Deportivos de Navarra (Grupo 5º)",
+  "equipo_local": "C.D. Aurrera K.E.",
+  "equipo_visitante": "C.D. Ardoi",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "Berkaoui Koziel, Alejandro Nayin"
+  ],
+  "estadio": "Leitza (Ardiskil)",
+  "ciudad": "Leitza",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "Lizartza Rodriguez, Oier",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 8,
+      "jugador": "Lizartza Rodriguez, Oier",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 8,
+      "jugador": "Iturbe Saenz, Aimar",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 8,
+      "jugador": "C.D. Ardoi",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "Vicente Olano, Joseba Miren",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "Vicente Olano, Joseba Miren",
+  "delegado_equipo_visitante": "GONZALEZ UNZUE, IKER",
+  "titulares_local": [
+    "Agirre Aguirre, Peio",
+    "Dorronsoro Iparraguirre, Aiert",
+    "Iturbe Saenz, Aimar",
+    "Ugartemendia Mendizabal, Aiur",
+    "Freire Mugica, Ander Rafael",
+    "Belaunzaran Echave, Andoni",
+    "Imaz Ezkurra, Ibai",
+    "Lasarte Altarribas, Ibai",
+    "Alduntzin Otxoteko, Mikel",
+    "Lizartza Rodriguez, Oier",
+    "Labayen Larraya, Unai"
+  ],
+  "titulares_visitante": [
+    "ABUIN MATOS, JON",
+    "Ibañez Guembe, Javier",
+    "Rodriguez Garcia, Saul",
+    "Urdanoz Mancho, Sergei",
+    "Chej El Banne, Dih",
+    "Iraceburu Allue, Mikel",
+    "Pinilla Sanchez, Sergio",
+    "Montes Perez, Yohan Matías",
+    "Hernandez Molina, Asier",
+    "Taki , Rayane",
+    "Chandia Arnedo, Ismael"
+  ],
+  "suplentes_local": [
+    "Zabaleta Navascues, Aner",
+    "Gomez Ariztimuño, Ekaitz",
+    "GARMENDIA HUICI, MATTIN",
+    "Baraibar Loiarte, Oihan",
+    "DOMINTXIN BARRIOLA, OIHAN",
+    "Lizarraga Mendia, Tasio"
+  ],
+  "suplentes_visitante": [
+    "Belando Zubiria, Hector",
+    "Herras Rabhi, Mohammed",
+    "Maquirriain Rodriguez, Andoni",
+    "Belzunce Casellas, Daniel",
+    "De Antonio Ortega, Adrián"
+  ],
+  "convocados_sin_jugar_local": [
+    "Zabaleta Navascues, Aner"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "Agirre Aguirre, Peio",
+    "Dorronsoro Iparraguirre, Aiert",
+    "Iturbe Saenz, Aimar",
+    "Ugartemendia Mendizabal, Aiur",
+    "Freire Mugica, Ander Rafael",
+    "Belaunzaran Echave, Andoni",
+    "Imaz Ezkurra, Ibai",
+    "Lasarte Altarribas, Ibai",
+    "Alduntzin Otxoteko, Mikel",
+    "Lizartza Rodriguez, Oier",
+    "Labayen Larraya, Unai",
+    "GARMENDIA HUICI, MATTIN",
+    "Lizarraga Mendia, Tasio",
+    "DOMINTXIN BARRIOLA, OIHAN",
+    "Gomez Ariztimuño, Ekaitz",
+    "Baraibar Loiarte, Oihan"
+  ],
+  "jugadores_visitante": [
+    "ABUIN MATOS, JON",
+    "Ibañez Guembe, Javier",
+    "Rodriguez Garcia, Saul",
+    "Urdanoz Mancho, Sergei",
+    "Chej El Banne, Dih",
+    "Iraceburu Allue, Mikel",
+    "Pinilla Sanchez, Sergio",
+    "Montes Perez, Yohan Matías",
+    "Hernandez Molina, Asier",
+    "Taki , Rayane",
+    "Chandia Arnedo, Ismael",
+    "Herras Rabhi, Mohammed",
+    "Belzunce Casellas, Daniel",
+    "De Antonio Ortega, Adrián",
+    "Maquirriain Rodriguez, Andoni",
+    "Belando Zubiria, Hector"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "GARMENDIA HUICI, MATTIN",
+      "sale": "Belaunzaran Echave, Andoni"
+    },
+    {
+      "min": 41,
+      "entra": "Lizarraga Mendia, Tasio",
+      "sale": "Dorronsoro Iparraguirre, Aiert"
+    },
+    {
+      "min": 50,
+      "entra": "DOMINTXIN BARRIOLA, OIHAN",
+      "sale": "Iturbe Saenz, Aimar"
+    },
+    {
+      "min": 50,
+      "entra": "Gomez Ariztimuño, Ekaitz",
+      "sale": "Labayen Larraya, Unai"
+    },
+    {
+      "min": 50,
+      "entra": "Baraibar Loiarte, Oihan",
+      "sale": "Imaz Ezkurra, Ibai"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "Herras Rabhi, Mohammed",
+      "sale": "Chej El Banne, Dih"
+    },
+    {
+      "min": 49,
+      "entra": "Belzunce Casellas, Daniel",
+      "sale": "Pinilla Sanchez, Sergio"
+    },
+    {
+      "min": 49,
+      "entra": "De Antonio Ortega, Adrián",
+      "sale": "Iraceburu Allue, Mikel"
+    },
+    {
+      "min": 56,
+      "entra": "Maquirriain Rodriguez, Andoni",
+      "sale": "Rodriguez Garcia, Saul"
+    },
+    {
+      "min": 56,
+      "entra": "Belando Zubiria, Hector",
+      "sale": "Montes Perez, Yohan Matías"
+    }
+  ],
+  "minutos_jugadores": {
+    "Agirre Aguirre, Peio": 90,
+    "Dorronsoro Iparraguirre, Aiert": 41,
+    "Iturbe Saenz, Aimar": 50,
+    "Ugartemendia Mendizabal, Aiur": 90,
+    "Freire Mugica, Ander Rafael": 90,
+    "Belaunzaran Echave, Andoni": 41,
+    "Imaz Ezkurra, Ibai": 50,
+    "Lasarte Altarribas, Ibai": 90,
+    "Alduntzin Otxoteko, Mikel": 90,
+    "Lizartza Rodriguez, Oier": 90,
+    "Labayen Larraya, Unai": 50,
+    "GARMENDIA HUICI, MATTIN": 49,
+    "Lizarraga Mendia, Tasio": 49,
+    "DOMINTXIN BARRIOLA, OIHAN": 40,
+    "Gomez Ariztimuño, Ekaitz": 40,
+    "Baraibar Loiarte, Oihan": 40,
+    "ABUIN MATOS, JON": 90,
+    "Ibañez Guembe, Javier": 90,
+    "Rodriguez Garcia, Saul": 56,
+    "Urdanoz Mancho, Sergei": 90,
+    "Chej El Banne, Dih": 40,
+    "Iraceburu Allue, Mikel": 49,
+    "Pinilla Sanchez, Sergio": 49,
+    "Montes Perez, Yohan Matías": 56,
+    "Hernandez Molina, Asier": 90,
+    "Taki , Rayane": 90,
+    "Chandia Arnedo, Ismael": 90,
+    "Herras Rabhi, Mohammed": 50,
+    "Belzunce Casellas, Daniel": 41,
+    "De Antonio Ortega, Adrián": 41,
+    "Maquirriain Rodriguez, Andoni": 34,
+    "Belando Zubiria, Hector": 34
+  },
+  "portero_local": "Agirre Aguirre, Peio",
+  "portero_visitante": "ABUIN MATOS, JON",
+  "dorsales_local": {
+    "Agirre Aguirre, Peio": 1,
+    "Dorronsoro Iparraguirre, Aiert": 3,
+    "Iturbe Saenz, Aimar": 4,
+    "Ugartemendia Mendizabal, Aiur": 5,
+    "Freire Mugica, Ander Rafael": 7,
+    "Belaunzaran Echave, Andoni": 8,
+    "Imaz Ezkurra, Ibai": 14,
+    "Lasarte Altarribas, Ibai": 15,
+    "Alduntzin Otxoteko, Mikel": 17,
+    "Lizartza Rodriguez, Oier": 18,
+    "Labayen Larraya, Unai": 22
+  },
+  "dorsales_visitante": {
+    "ABUIN MATOS, JON": 1,
+    "Ibañez Guembe, Javier": 2,
+    "Rodriguez Garcia, Saul": 3,
+    "Urdanoz Mancho, Sergei": 4,
+    "Chej El Banne, Dih": 6,
+    "Iraceburu Allue, Mikel": 7,
+    "Pinilla Sanchez, Sergio": 9,
+    "Montes Perez, Yohan Matías": 11,
+    "Hernandez Molina, Asier": 16,
+    "Taki , Rayane": 17,
+    "Chandia Arnedo, Ismael": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
