@@ -1,0 +1,310 @@
+{
+  "acta_id": "NA_25402301",
+  "filename": "Acta_NA_25402301.txt",
+  "fuente": "navarra",
+  "temporada": "2024-2025",
+  "jornada": 17,
+  "fecha": "08-02-2025",
+  "hora": "15:30",
+  "categoria": "Segunda Cadete - Juegos Deportivos de Navarra (Grupo 6º)",
+  "equipo_local": "C.D.A. Rotxa",
+  "equipo_visitante": "C.D. Atarrabia",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "Ezzaidi Hachby, Amine"
+  ],
+  "estadio": "Universidad Pública de Navarra",
+  "ciudad": "Pamplona",
+  "goleadores": [
+    {
+      "minuto": 36,
+      "jugador": "Sánchez , Helio",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "Iriarte Sagasti, Hector",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "Carrasco Martin, Iker",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "Jimenez Mendez, Juan Manuel",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "Amundarain Jimenez, Oier",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 54,
+      "jugador": "APAZA GUARACHI, KENNY ASIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "Gonzalez Meneses, Sergio",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "STRATU NAZDRACIOV, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "C.D. Atarrabia",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "Aitlarguete , Mohamed yassine",
+  "delegado_equipo_visitante": "Galech Mainz, José Manuel",
+  "titulares_local": [
+    "chorda Jorge, Ruben",
+    "Bolivar Moreno, Daniel felipe",
+    "EMMANUEL MOLINERO, FERMIN",
+    "APAZA GUARACHI, KENNY ASIER",
+    "Sanchez Orte, Hugo",
+    "RODRÍGUEZ ARIAS, AIMAR",
+    "Sánchez , Helio",
+    "Gonzalez Meneses, Sergio",
+    "Reis Ivailov, Lucas",
+    "Guaylla Cevallos, Alejandro",
+    "BRITO PEGUERO, AINOR"
+  ],
+  "titulares_visitante": [
+    "Tellon Labiano, Adrian",
+    "Barbarin Urdanoz, Hugo",
+    "Rosenov Hadzhiev, Martin",
+    "Barbarin Urdanoz, Leo",
+    "Martinez Jimenez, Adrian",
+    "Iriarte Sagasti, Hector",
+    "Jimenez Mendez, Juan Manuel",
+    "Oloriz Martinez, Ibai",
+    "Arraiza Gonzalez, Jon",
+    "Amundarain Jimenez, Oier",
+    "Trebol Ibañez, Markel"
+  ],
+  "suplentes_local": [
+    "STRATU NAZDRACIOV, DANIEL",
+    "GUINDANO IRIARTE, DANIEL JOSÉ",
+    "Ezquer Zoco, Luken",
+    "Guzmán Loza, Elian",
+    "MAGALHAES DE OLIVEIRA, VICTOR DAVID",
+    "GARRALDA PRIMO, JORGE",
+    "ARIZ CASTILLEJO, HUGO"
+  ],
+  "suplentes_visitante": [
+    "Orrio Bravo, Odei",
+    "Carrasco Martin, Iker",
+    "Esparza Eslava, Mikel",
+    "Tirapu Rodriguez, Aimar",
+    "Iragui Garcia, Miguel",
+    "Ilundain Gurrea, Acher"
+  ],
+  "convocados_sin_jugar_local": [
+    "MAGALHAES DE OLIVEIRA, VICTOR DAVID"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "chorda Jorge, Ruben",
+    "Bolivar Moreno, Daniel felipe",
+    "EMMANUEL MOLINERO, FERMIN",
+    "APAZA GUARACHI, KENNY ASIER",
+    "Sanchez Orte, Hugo",
+    "RODRÍGUEZ ARIAS, AIMAR",
+    "Sánchez , Helio",
+    "Gonzalez Meneses, Sergio",
+    "Reis Ivailov, Lucas",
+    "Guaylla Cevallos, Alejandro",
+    "BRITO PEGUERO, AINOR",
+    "GARRALDA PRIMO, JORGE",
+    "Ezquer Zoco, Luken",
+    "ARIZ CASTILLEJO, HUGO",
+    "Guzmán Loza, Elian",
+    "GUINDANO IRIARTE, DANIEL JOSÉ",
+    "STRATU NAZDRACIOV, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "Tellon Labiano, Adrian",
+    "Barbarin Urdanoz, Hugo",
+    "Rosenov Hadzhiev, Martin",
+    "Barbarin Urdanoz, Leo",
+    "Martinez Jimenez, Adrian",
+    "Iriarte Sagasti, Hector",
+    "Jimenez Mendez, Juan Manuel",
+    "Oloriz Martinez, Ibai",
+    "Arraiza Gonzalez, Jon",
+    "Amundarain Jimenez, Oier",
+    "Trebol Ibañez, Markel",
+    "Iragui Garcia, Miguel",
+    "Esparza Eslava, Mikel",
+    "Ilundain Gurrea, Acher",
+    "Orrio Bravo, Odei",
+    "Carrasco Martin, Iker",
+    "Tirapu Rodriguez, Aimar"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 33,
+      "entra": "GARRALDA PRIMO, JORGE",
+      "sale": "Reis Ivailov, Lucas"
+    },
+    {
+      "min": 40,
+      "entra": "Ezquer Zoco, Luken",
+      "sale": "APAZA GUARACHI, KENNY ASIER"
+    },
+    {
+      "min": 40,
+      "entra": "ARIZ CASTILLEJO, HUGO",
+      "sale": "BRITO PEGUERO, AINOR"
+    },
+    {
+      "min": 40,
+      "entra": "Guzmán Loza, Elian",
+      "sale": "Bolivar Moreno, Daniel felipe"
+    },
+    {
+      "min": 64,
+      "entra": "GUINDANO IRIARTE, DANIEL JOSÉ",
+      "sale": "Sanchez Orte, Hugo"
+    },
+    {
+      "min": 64,
+      "entra": "STRATU NAZDRACIOV, DANIEL",
+      "sale": "Sánchez , Helio"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "Iragui Garcia, Miguel",
+      "sale": "Barbarin Urdanoz, Leo"
+    },
+    {
+      "min": 40,
+      "entra": "Esparza Eslava, Mikel",
+      "sale": "Rosenov Hadzhiev, Martin"
+    },
+    {
+      "min": 40,
+      "entra": "Ilundain Gurrea, Acher",
+      "sale": "Trebol Ibañez, Markel"
+    },
+    {
+      "min": 40,
+      "entra": "Orrio Bravo, Odei",
+      "sale": "Tellon Labiano, Adrian"
+    },
+    {
+      "min": 40,
+      "entra": "Carrasco Martin, Iker",
+      "sale": "Martinez Jimenez, Adrian"
+    },
+    {
+      "min": 58,
+      "entra": "Tirapu Rodriguez, Aimar",
+      "sale": "Iriarte Sagasti, Hector"
+    }
+  ],
+  "minutos_jugadores": {
+    "chorda Jorge, Ruben": 90,
+    "Bolivar Moreno, Daniel felipe": 40,
+    "EMMANUEL MOLINERO, FERMIN": 90,
+    "APAZA GUARACHI, KENNY ASIER": 40,
+    "Sanchez Orte, Hugo": 64,
+    "RODRÍGUEZ ARIAS, AIMAR": 90,
+    "Sánchez , Helio": 64,
+    "Gonzalez Meneses, Sergio": 90,
+    "Reis Ivailov, Lucas": 33,
+    "Guaylla Cevallos, Alejandro": 90,
+    "BRITO PEGUERO, AINOR": 40,
+    "GARRALDA PRIMO, JORGE": 57,
+    "Ezquer Zoco, Luken": 50,
+    "ARIZ CASTILLEJO, HUGO": 50,
+    "Guzmán Loza, Elian": 50,
+    "GUINDANO IRIARTE, DANIEL JOSÉ": 26,
+    "STRATU NAZDRACIOV, DANIEL": 26,
+    "Tellon Labiano, Adrian": 40,
+    "Barbarin Urdanoz, Hugo": 90,
+    "Rosenov Hadzhiev, Martin": 40,
+    "Barbarin Urdanoz, Leo": 40,
+    "Martinez Jimenez, Adrian": 40,
+    "Iriarte Sagasti, Hector": 58,
+    "Jimenez Mendez, Juan Manuel": 90,
+    "Oloriz Martinez, Ibai": 90,
+    "Arraiza Gonzalez, Jon": 90,
+    "Amundarain Jimenez, Oier": 90,
+    "Trebol Ibañez, Markel": 40,
+    "Iragui Garcia, Miguel": 50,
+    "Esparza Eslava, Mikel": 50,
+    "Ilundain Gurrea, Acher": 50,
+    "Orrio Bravo, Odei": 50,
+    "Carrasco Martin, Iker": 50,
+    "Tirapu Rodriguez, Aimar": 32
+  },
+  "portero_local": "chorda Jorge, Ruben",
+  "portero_visitante": "Tellon Labiano, Adrian",
+  "dorsales_local": {
+    "chorda Jorge, Ruben": 26,
+    "Bolivar Moreno, Daniel felipe": 3,
+    "EMMANUEL MOLINERO, FERMIN": 6,
+    "APAZA GUARACHI, KENNY ASIER": 7,
+    "Sanchez Orte, Hugo": 8,
+    "RODRÍGUEZ ARIAS, AIMAR": 10,
+    "Sánchez , Helio": 17,
+    "Gonzalez Meneses, Sergio": 20,
+    "Reis Ivailov, Lucas": 21,
+    "Guaylla Cevallos, Alejandro": 22,
+    "BRITO PEGUERO, AINOR": 24
+  },
+  "dorsales_visitante": {
+    "Tellon Labiano, Adrian": 13,
+    "Barbarin Urdanoz, Hugo": 3,
+    "Rosenov Hadzhiev, Martin": 8,
+    "Barbarin Urdanoz, Leo": 15,
+    "Martinez Jimenez, Adrian": 32,
+    "Iriarte Sagasti, Hector": 34,
+    "Jimenez Mendez, Juan Manuel": 40,
+    "Oloriz Martinez, Ibai": 42,
+    "Arraiza Gonzalez, Jon": 49,
+    "Amundarain Jimenez, Oier": 50,
+    "Trebol Ibañez, Markel": 52
+  },
+  "suspendidos": []
+}
