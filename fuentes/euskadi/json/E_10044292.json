@@ -1,0 +1,273 @@
+{
+  "acta_id": "E_10044292",
+  "filename": "Acta_E_10044292.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "26-09-2026",
+  "hora": "11:00",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "SANTUTXU F.C.",
+  "equipo_visitante": "BETOÑO, CD",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "REAL DE ASUA GARCIA, ENDIKA"
+  ],
+  "estadio": "MALLONA 1",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 57,
+      "jugador": "EYAGA MBASOGO, ANGEL JESUS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "BEURCO DE LA HOZ, UNAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "MOSTEIRO BARCO, AIZKIBEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 57,
+      "jugador": "VALLEJOS URZANQUI, UNAX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "ARRIETA ARRONIZ, XABIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BERMUDEZ SALGUERO, IGNACIO",
+  "entrenador_visitante": "FERREIRA GOMEZ, IMANOL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "SAEZ DE CAMARA SASIGAIN, XABIER",
+  "delegado_campo_local": "LOPEZ RUIZ, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ RUIZ, IKER",
+  "delegado_equipo_visitante": "DIAZ SIMON, ADRIAN",
+  "titulares_local": [
+    "VILLUELA GARCIA, AIMAR",
+    "ARABIOURRUTIA PEREZ, EIDAN",
+    "DEL AMO IBAÑEZ, DANEL",
+    "CABALLERO ASTONDOA, JULEN",
+    "EYAGA MBASOGO, ANGEL JESUS",
+    "CASADO ELCOROBARRUTIA, UNAI",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "OTAOLA MOLINA, IBAI",
+    "ATXURRA MONTES, MARKEL",
+    "MOSTEIRO BARCO, AIZKIBEL",
+    "BEURCO DE LA HOZ, UNAI"
+  ],
+  "titulares_visitante": [
+    "ARRIETA ARRONIZ, XABIER",
+    "QUINTANA ECHEZARRETA, JULEN",
+    "VALLEJOS URZANQUI, UNAX",
+    "UBAH NWAKAMMA, WISDOM",
+    "VASILENCO, ANDREI",
+    "GARCIA SOBRINO, JULEN",
+    "CEA SAENZ DEL BURGO, IKER",
+    "SANCHEZ RUIZ DE EGUINO, EKHI",
+    "LANERO ZARATE, MARTIN",
+    "MALLOCH ALTUBE, JON SCOTT",
+    "PICON RODRIGUEZ, ERLANTZ"
+  ],
+  "suplentes_local": [
+    "ORTIZ DE VALLEJUELO CASTRO, AIMAR",
+    "MARTINEZ EXPOSITO, ERLANTZ",
+    "GARCÍA SÁNCHEZ, IZEI",
+    "MARTIN GOTI, GALDER",
+    "FARAPON, ANDREI",
+    "OKHOMINA GARCIA, DAVID",
+    "DE LUIS AGUIRREGOITIA, GARIKOITZ"
+  ],
+  "suplentes_visitante": [
+    "PEÑA ALONSO, IÑIGO",
+    "MARTINEZ DE ILARDUYA BADIOLA, MIKEL",
+    "CARRASCO BENGOA, UNAX",
+    "GORROCHATEGUI SUSO, IRAITZ",
+    "MARTINEZ GARRIDO, FERMIN",
+    "GUINALDO RITUERTO, IZEI",
+    "GARCIA REDONDO, ALAIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORTIZ DE VALLEJUELO CASTRO, AIMAR",
+    "MARTINEZ EXPOSITO, ERLANTZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MARTINEZ DE ILARDUYA BADIOLA, MIKEL",
+    "CARRASCO BENGOA, UNAX"
+  ],
+  "jugadores_local": [
+    "VILLUELA GARCIA, AIMAR",
+    "ARABIOURRUTIA PEREZ, EIDAN",
+    "DEL AMO IBAÑEZ, DANEL",
+    "CABALLERO ASTONDOA, JULEN",
+    "EYAGA MBASOGO, ANGEL JESUS",
+    "CASADO ELCOROBARRUTIA, UNAI",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "OTAOLA MOLINA, IBAI",
+    "ATXURRA MONTES, MARKEL",
+    "MOSTEIRO BARCO, AIZKIBEL",
+    "BEURCO DE LA HOZ, UNAI",
+    "MARTIN GOTI, GALDER",
+    "DE LUIS AGUIRREGOITIA, GARIKOITZ",
+    "OKHOMINA GARCIA, DAVID",
+    "FARAPON, ANDREI",
+    "GARCÍA SÁNCHEZ, IZEI"
+  ],
+  "jugadores_visitante": [
+    "ARRIETA ARRONIZ, XABIER",
+    "QUINTANA ECHEZARRETA, JULEN",
+    "VALLEJOS URZANQUI, UNAX",
+    "UBAH NWAKAMMA, WISDOM",
+    "VASILENCO, ANDREI",
+    "GARCIA SOBRINO, JULEN",
+    "CEA SAENZ DEL BURGO, IKER",
+    "SANCHEZ RUIZ DE EGUINO, EKHI",
+    "LANERO ZARATE, MARTIN",
+    "MALLOCH ALTUBE, JON SCOTT",
+    "PICON RODRIGUEZ, ERLANTZ",
+    "GORROCHATEGUI SUSO, IRAITZ",
+    "GARCIA REDONDO, ALAIN",
+    "PEÑA ALONSO, IÑIGO",
+    "MARTINEZ GARRIDO, FERMIN",
+    "GUINALDO RITUERTO, IZEI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "MARTIN GOTI, GALDER",
+      "sale": "ARABIOURRUTIA PEREZ, EIDAN"
+    },
+    {
+      "min": 57,
+      "entra": "DE LUIS AGUIRREGOITIA, GARIKOITZ",
+      "sale": "CASADO ELCOROBARRUTIA, UNAI"
+    },
+    {
+      "min": 57,
+      "entra": "OKHOMINA GARCIA, DAVID",
+      "sale": "MAQUEDA HERNANDEZ, IZAN"
+    },
+    {
+      "min": 70,
+      "entra": "FARAPON, ANDREI",
+      "sale": "BEURCO DE LA HOZ, UNAI"
+    },
+    {
+      "min": 70,
+      "entra": "GARCÍA SÁNCHEZ, IZEI",
+      "sale": "MOSTEIRO BARCO, AIZKIBEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "GORROCHATEGUI SUSO, IRAITZ",
+      "sale": "GARCIA SOBRINO, JULEN"
+    },
+    {
+      "min": 53,
+      "entra": "GARCIA REDONDO, ALAIN",
+      "sale": "MALLOCH ALTUBE, JON SCOTT"
+    },
+    {
+      "min": 65,
+      "entra": "PEÑA ALONSO, IÑIGO",
+      "sale": "VALLEJOS URZANQUI, UNAX"
+    },
+    {
+      "min": 65,
+      "entra": "MARTINEZ GARRIDO, FERMIN",
+      "sale": "VASILENCO, ANDREI"
+    },
+    {
+      "min": 65,
+      "entra": "GUINALDO RITUERTO, IZEI",
+      "sale": "CEA SAENZ DEL BURGO, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "VILLUELA GARCIA, AIMAR": 90,
+    "ARABIOURRUTIA PEREZ, EIDAN": 41,
+    "DEL AMO IBAÑEZ, DANEL": 90,
+    "CABALLERO ASTONDOA, JULEN": 90,
+    "EYAGA MBASOGO, ANGEL JESUS": 90,
+    "CASADO ELCOROBARRUTIA, UNAI": 57,
+    "MAQUEDA HERNANDEZ, IZAN": 57,
+    "OTAOLA MOLINA, IBAI": 90,
+    "ATXURRA MONTES, MARKEL": 90,
+    "MOSTEIRO BARCO, AIZKIBEL": 70,
+    "BEURCO DE LA HOZ, UNAI": 70,
+    "MARTIN GOTI, GALDER": 49,
+    "DE LUIS AGUIRREGOITIA, GARIKOITZ": 33,
+    "OKHOMINA GARCIA, DAVID": 33,
+    "FARAPON, ANDREI": 20,
+    "GARCÍA SÁNCHEZ, IZEI": 20,
+    "ARRIETA ARRONIZ, XABIER": 90,
+    "QUINTANA ECHEZARRETA, JULEN": 90,
+    "VALLEJOS URZANQUI, UNAX": 65,
+    "UBAH NWAKAMMA, WISDOM": 90,
+    "VASILENCO, ANDREI": 65,
+    "GARCIA SOBRINO, JULEN": 53,
+    "CEA SAENZ DEL BURGO, IKER": 65,
+    "SANCHEZ RUIZ DE EGUINO, EKHI": 90,
+    "LANERO ZARATE, MARTIN": 90,
+    "MALLOCH ALTUBE, JON SCOTT": 53,
+    "PICON RODRIGUEZ, ERLANTZ": 90,
+    "GORROCHATEGUI SUSO, IRAITZ": 37,
+    "GARCIA REDONDO, ALAIN": 37,
+    "PEÑA ALONSO, IÑIGO": 25,
+    "MARTINEZ GARRIDO, FERMIN": 25,
+    "GUINALDO RITUERTO, IZEI": 25
+  },
+  "portero_local": "VILLUELA GARCIA, AIMAR",
+  "portero_visitante": "ARRIETA ARRONIZ, XABIER",
+  "dorsales_local": {
+    "VILLUELA GARCIA, AIMAR": 1,
+    "ARABIOURRUTIA PEREZ, EIDAN": 3,
+    "DEL AMO IBAÑEZ, DANEL": 4,
+    "CABALLERO ASTONDOA, JULEN": 6,
+    "EYAGA MBASOGO, ANGEL JESUS": 7,
+    "CASADO ELCOROBARRUTIA, UNAI": 9,
+    "MAQUEDA HERNANDEZ, IZAN": 11,
+    "OTAOLA MOLINA, IBAI": 16,
+    "ATXURRA MONTES, MARKEL": 17,
+    "MOSTEIRO BARCO, AIZKIBEL": 21,
+    "BEURCO DE LA HOZ, UNAI": 22
+  },
+  "dorsales_visitante": {
+    "ARRIETA ARRONIZ, XABIER": 1,
+    "QUINTANA ECHEZARRETA, JULEN": 4,
+    "VALLEJOS URZANQUI, UNAX": 5,
+    "UBAH NWAKAMMA, WISDOM": 6,
+    "VASILENCO, ANDREI": 7,
+    "GARCIA SOBRINO, JULEN": 9,
+    "CEA SAENZ DEL BURGO, IKER": 10,
+    "SANCHEZ RUIZ DE EGUINO, EKHI": 11,
+    "LANERO ZARATE, MARTIN": 14,
+    "MALLOCH ALTUBE, JON SCOTT": 16,
+    "PICON RODRIGUEZ, ERLANTZ": 20
+  },
+  "suspendidos": []
+}
