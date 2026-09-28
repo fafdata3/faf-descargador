@@ -1,0 +1,247 @@
+{
+  "acta_id": "NA_25402178",
+  "filename": "Acta_NA_25402178.txt",
+  "fuente": "navarra",
+  "temporada": "2024-2025",
+  "jornada": 30,
+  "fecha": "03-05-2025",
+  "hora": "17:15",
+  "categoria": "Segunda Cadete - Juegos Deportivos de Navarra (Grupo 5º)",
+  "equipo_local": "Berriozar C.F. C",
+  "equipo_visitante": "S.D. Alsasua",
+  "goles_local": 7,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "Mauleon Arnaiz, Eunate"
+  ],
+  "estadio": "Municipal de Berriozar",
+  "ciudad": "Berriozar",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "Popovici, Daniel Claudiu",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "Serna Rodriguez, Martin Telmo",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "Ventsislavov Koynarov, Antonio",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "Boutaleb Zeroual, Sami",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "Freitas Martins, Nuno Miguel",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "Fernandez Gonzalez, Esdras",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "Goldaraz Barbarin, Aitor",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 74,
+      "jugador": "Gorria Albizu, Julen",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "S.D. Alsasua",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DEL BARCO SANCHEZ, SERGIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "Morais Alvarez, Fernando Alberto",
+  "titulares_local": [
+    "Gonzalo Irañeta, Angel",
+    "Ait Lahcen Bouhamdaine, Hanza",
+    "Liberal Rascon, Asier",
+    "Serna Rodriguez, Martin Telmo",
+    "Boutaleb Zeroual, Sami",
+    "Cambra Salazar, Hugo",
+    "Ventsislavov Koynarov, Antonio",
+    "Popovici, Daniel Claudiu",
+    "Fernandez Gonzalez, Esdras",
+    "Gomes Jimenez, Aimar",
+    "Erro Sarasa, Ander"
+  ],
+  "titulares_visitante": [
+    "Carpintero Vazquez, Millan",
+    "HADDADI BOURZIK, OMAR",
+    "BEN AMAR BEN EL MOKADEM, SAID",
+    "EMBAREK BRAHIM, YUSEF",
+    "Urteaga Celaya, Markel",
+    "Zehhi Hamdi, Mahdi",
+    "MATIAS TAPIA, ARTURO",
+    "TOME LANCHARES, LUKA",
+    "ALKORTA ARIAS, URKO",
+    "Kebede García, Ohian",
+    "Jaca López De Aguileta, Oier"
+  ],
+  "suplentes_local": [
+    "Goldaraz Barbarin, Aitor",
+    "Vizcano Teixeira, Eneko",
+    "Bermejo Gago, Gabriel",
+    "Gorria Albizu, Julen",
+    "Chanboun Nouali, Riyad",
+    "Freitas Martins, Nuno Miguel"
+  ],
+  "suplentes_visitante": [],
+  "convocados_sin_jugar_local": [
+    "Vizcano Teixeira, Eneko",
+    "Chanboun Nouali, Riyad"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "Gonzalo Irañeta, Angel",
+    "Ait Lahcen Bouhamdaine, Hanza",
+    "Liberal Rascon, Asier",
+    "Serna Rodriguez, Martin Telmo",
+    "Boutaleb Zeroual, Sami",
+    "Cambra Salazar, Hugo",
+    "Ventsislavov Koynarov, Antonio",
+    "Popovici, Daniel Claudiu",
+    "Fernandez Gonzalez, Esdras",
+    "Gomes Jimenez, Aimar",
+    "Erro Sarasa, Ander",
+    "Gorria Albizu, Julen",
+    "Goldaraz Barbarin, Aitor",
+    "Freitas Martins, Nuno Miguel",
+    "Bermejo Gago, Gabriel"
+  ],
+  "jugadores_visitante": [
+    "Carpintero Vazquez, Millan",
+    "HADDADI BOURZIK, OMAR",
+    "BEN AMAR BEN EL MOKADEM, SAID",
+    "EMBAREK BRAHIM, YUSEF",
+    "Urteaga Celaya, Markel",
+    "Zehhi Hamdi, Mahdi",
+    "MATIAS TAPIA, ARTURO",
+    "TOME LANCHARES, LUKA",
+    "ALKORTA ARIAS, URKO",
+    "Kebede García, Ohian",
+    "Jaca López De Aguileta, Oier"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "Gorria Albizu, Julen",
+      "sale": "Liberal Rascon, Asier"
+    },
+    {
+      "min": 40,
+      "entra": "Goldaraz Barbarin, Aitor",
+      "sale": "Popovici, Daniel Claudiu"
+    },
+    {
+      "min": 54,
+      "entra": "Freitas Martins, Nuno Miguel",
+      "sale": "Ait Lahcen Bouhamdaine, Hanza"
+    },
+    {
+      "min": 61,
+      "entra": "Bermejo Gago, Gabriel",
+      "sale": "Serna Rodriguez, Martin Telmo"
+    }
+  ],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "Gonzalo Irañeta, Angel": 90,
+    "Ait Lahcen Bouhamdaine, Hanza": 54,
+    "Liberal Rascon, Asier": 40,
+    "Serna Rodriguez, Martin Telmo": 61,
+    "Boutaleb Zeroual, Sami": 90,
+    "Cambra Salazar, Hugo": 90,
+    "Ventsislavov Koynarov, Antonio": 90,
+    "Popovici, Daniel Claudiu": 40,
+    "Fernandez Gonzalez, Esdras": 90,
+    "Gomes Jimenez, Aimar": 90,
+    "Erro Sarasa, Ander": 90,
+    "Gorria Albizu, Julen": 50,
+    "Goldaraz Barbarin, Aitor": 50,
+    "Freitas Martins, Nuno Miguel": 36,
+    "Bermejo Gago, Gabriel": 29,
+    "Carpintero Vazquez, Millan": 90,
+    "HADDADI BOURZIK, OMAR": 90,
+    "BEN AMAR BEN EL MOKADEM, SAID": 90,
+    "EMBAREK BRAHIM, YUSEF": 90,
+    "Urteaga Celaya, Markel": 90,
+    "Zehhi Hamdi, Mahdi": 90,
+    "MATIAS TAPIA, ARTURO": 90,
+    "TOME LANCHARES, LUKA": 90,
+    "ALKORTA ARIAS, URKO": 90,
+    "Kebede García, Ohian": 90,
+    "Jaca López De Aguileta, Oier": 90
+  },
+  "portero_local": "Gonzalo Irañeta, Angel",
+  "portero_visitante": "Carpintero Vazquez, Millan",
+  "dorsales_local": {
+    "Gonzalo Irañeta, Angel": 18,
+    "Ait Lahcen Bouhamdaine, Hanza": 2,
+    "Liberal Rascon, Asier": 3,
+    "Serna Rodriguez, Martin Telmo": 6,
+    "Boutaleb Zeroual, Sami": 8,
+    "Cambra Salazar, Hugo": 9,
+    "Ventsislavov Koynarov, Antonio": 11,
+    "Popovici, Daniel Claudiu": 15,
+    "Fernandez Gonzalez, Esdras": 16,
+    "Gomes Jimenez, Aimar": 17,
+    "Erro Sarasa, Ander": 20
+  },
+  "dorsales_visitante": {
+    "Carpintero Vazquez, Millan": 25,
+    "HADDADI BOURZIK, OMAR": 5,
+    "BEN AMAR BEN EL MOKADEM, SAID": 7,
+    "EMBAREK BRAHIM, YUSEF": 8,
+    "Urteaga Celaya, Markel": 9,
+    "Zehhi Hamdi, Mahdi": 10,
+    "MATIAS TAPIA, ARTURO": 12,
+    "TOME LANCHARES, LUKA": 14,
+    "ALKORTA ARIAS, URKO": 15,
+    "Kebede García, Ohian": 16,
+    "Jaca López De Aguileta, Oier": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
