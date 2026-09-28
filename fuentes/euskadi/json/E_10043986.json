@@ -1,0 +1,286 @@
+{
+  "acta_id": "E_10043986",
+  "filename": "Acta_E_10043986.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "26-09-2026",
+  "hora": "13:03",
+  "categoria": "LIGA VASCA JUVENIL / GAZTEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "SANTUTXU F.C. B",
+  "equipo_visitante": "BETOÑO, CD B",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "DIAZ DE SARRALDE MARTIN, JON"
+  ],
+  "estadio": "MALLONA 1",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "ALEGRE ONDO, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "MARTINEZ DE LAGOS BASTERRA, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 26,
+      "jugador": "SANTIAGO GONZALEZ, OIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "SARACHAGA GUTIERREZ, UNAX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "BETOÑO, CD B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "URRUTIA GALLEGO, ALBERTO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "VICENTE BARANCO, EKAIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MERAYO DE BUSTOS, JOSU",
+  "entrenador_visitante": "URRUTIA GALLEGO, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "CRESPO TORREALBA, MIGUEL A",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "SAENZ DE CAMARA CARBAJO, MIKEL",
+  "titulares_local": [
+    "RODRIGUEZ GONZALEZ, ENEKO",
+    "SARACHAGA GUTIERREZ, UNAX",
+    "MARDONES MILLARES, AIMAR",
+    "SANTIAGO GONZALEZ, OIER",
+    "SILVA TEJEDOR, ENEKO",
+    "ALEGRE ONDO, MARCOS",
+    "GARCIA ABAD, AIMAR",
+    "EL MAIMOUNI EL MALLOUKI, YASIN",
+    "ONZAIN VICARIO, JON",
+    "ARENAL BAYER, ALAIN",
+    "RODRIGUEZ ALVAREZ, SENDOA"
+  ],
+  "titulares_visitante": [
+    "PEREZ DE ALBENIZ MONTAÑO, IKER",
+    "HUERTOS CALLEJA, MIKEL",
+    "PEREZ DE CASTRO, KIMETZ",
+    "GIMENEZ RUIPEREZ, MARKEL",
+    "CHEMSI FLORIA, FADI",
+    "NECHADI DOMINGUEZ, NABIL",
+    "IBRAHIM JOHN, DESTINY",
+    "DE PAULA GUZMAN, LUI",
+    "IBISATE LEGARDA, JULEN",
+    "MARTINEZ DE LAGOS BASTERRA, AIMAR",
+    "SAEZ RUBINA, URKO"
+  ],
+  "suplentes_local": [
+    "GARCIA LORIDO, UNAI",
+    "AGUIRRE GOMEZ, OIER",
+    "ATXUKARRO OLABARRIETA, URTZI",
+    "ALVAREZ ARNAIZ, ANDER",
+    "BEITIA RODRIGO, TXABER",
+    "LEIBA GONZALEZ, ERLANTZ",
+    "GONZALEZ PLAZA, ERLANTZ"
+  ],
+  "suplentes_visitante": [
+    "CHEMSI FLORIA, ADAM",
+    "URRUTIA MARTIN, ASEL KAI",
+    "VICENTE BARANCO, EKAIN",
+    "AGUDELO VILLAMIL, JERONIMO",
+    "TOBARIAS CHURRUCA, ENEKO",
+    "ARANEGUI MORALES, GERMAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA LORIDO, UNAI",
+    "LEIBA GONZALEZ, ERLANTZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CHEMSI FLORIA, ADAM"
+  ],
+  "jugadores_local": [
+    "RODRIGUEZ GONZALEZ, ENEKO",
+    "SARACHAGA GUTIERREZ, UNAX",
+    "MARDONES MILLARES, AIMAR",
+    "SANTIAGO GONZALEZ, OIER",
+    "SILVA TEJEDOR, ENEKO",
+    "ALEGRE ONDO, MARCOS",
+    "GARCIA ABAD, AIMAR",
+    "EL MAIMOUNI EL MALLOUKI, YASIN",
+    "ONZAIN VICARIO, JON",
+    "ARENAL BAYER, ALAIN",
+    "RODRIGUEZ ALVAREZ, SENDOA",
+    "ATXUKARRO OLABARRIETA, URTZI",
+    "AGUIRRE GOMEZ, OIER",
+    "BEITIA RODRIGO, TXABER",
+    "ALVAREZ ARNAIZ, ANDER",
+    "GONZALEZ PLAZA, ERLANTZ"
+  ],
+  "jugadores_visitante": [
+    "PEREZ DE ALBENIZ MONTAÑO, IKER",
+    "HUERTOS CALLEJA, MIKEL",
+    "PEREZ DE CASTRO, KIMETZ",
+    "GIMENEZ RUIPEREZ, MARKEL",
+    "CHEMSI FLORIA, FADI",
+    "NECHADI DOMINGUEZ, NABIL",
+    "IBRAHIM JOHN, DESTINY",
+    "DE PAULA GUZMAN, LUI",
+    "IBISATE LEGARDA, JULEN",
+    "MARTINEZ DE LAGOS BASTERRA, AIMAR",
+    "SAEZ RUBINA, URKO",
+    "VICENTE BARANCO, EKAIN",
+    "AGUDELO VILLAMIL, JERONIMO",
+    "ARANEGUI MORALES, GERMAN",
+    "URRUTIA MARTIN, ASEL KAI",
+    "TOBARIAS CHURRUCA, ENEKO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 61,
+      "entra": "ATXUKARRO OLABARRIETA, URTZI",
+      "sale": "GARCIA ABAD, AIMAR"
+    },
+    {
+      "min": 61,
+      "entra": "AGUIRRE GOMEZ, OIER",
+      "sale": "MARDONES MILLARES, AIMAR"
+    },
+    {
+      "min": 69,
+      "entra": "BEITIA RODRIGO, TXABER",
+      "sale": "ARENAL BAYER, ALAIN"
+    },
+    {
+      "min": 69,
+      "entra": "ALVAREZ ARNAIZ, ANDER",
+      "sale": "EL MAIMOUNI EL MALLOUKI, YASIN"
+    },
+    {
+      "min": 80,
+      "entra": "GONZALEZ PLAZA, ERLANTZ",
+      "sale": "SILVA TEJEDOR, ENEKO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "VICENTE BARANCO, EKAIN",
+      "sale": "GIMENEZ RUIPEREZ, MARKEL"
+    },
+    {
+      "min": 58,
+      "entra": "AGUDELO VILLAMIL, JERONIMO",
+      "sale": "IBISATE LEGARDA, JULEN"
+    },
+    {
+      "min": 69,
+      "entra": "ARANEGUI MORALES, GERMAN",
+      "sale": "IBRAHIM JOHN, DESTINY"
+    },
+    {
+      "min": 69,
+      "entra": "URRUTIA MARTIN, ASEL KAI",
+      "sale": "DE PAULA GUZMAN, LUI"
+    },
+    {
+      "min": 76,
+      "entra": "TOBARIAS CHURRUCA, ENEKO",
+      "sale": "ARANEGUI MORALES, GERMAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ GONZALEZ, ENEKO": 90,
+    "SARACHAGA GUTIERREZ, UNAX": 90,
+    "MARDONES MILLARES, AIMAR": 61,
+    "SANTIAGO GONZALEZ, OIER": 90,
+    "SILVA TEJEDOR, ENEKO": 80,
+    "ALEGRE ONDO, MARCOS": 90,
+    "GARCIA ABAD, AIMAR": 61,
+    "EL MAIMOUNI EL MALLOUKI, YASIN": 69,
+    "ONZAIN VICARIO, JON": 90,
+    "ARENAL BAYER, ALAIN": 69,
+    "RODRIGUEZ ALVAREZ, SENDOA": 90,
+    "ATXUKARRO OLABARRIETA, URTZI": 29,
+    "AGUIRRE GOMEZ, OIER": 29,
+    "BEITIA RODRIGO, TXABER": 21,
+    "ALVAREZ ARNAIZ, ANDER": 21,
+    "GONZALEZ PLAZA, ERLANTZ": 10,
+    "PEREZ DE ALBENIZ MONTAÑO, IKER": 90,
+    "HUERTOS CALLEJA, MIKEL": 90,
+    "PEREZ DE CASTRO, KIMETZ": 90,
+    "GIMENEZ RUIPEREZ, MARKEL": 58,
+    "CHEMSI FLORIA, FADI": 90,
+    "NECHADI DOMINGUEZ, NABIL": 90,
+    "IBRAHIM JOHN, DESTINY": 69,
+    "DE PAULA GUZMAN, LUI": 69,
+    "IBISATE LEGARDA, JULEN": 58,
+    "MARTINEZ DE LAGOS BASTERRA, AIMAR": 90,
+    "SAEZ RUBINA, URKO": 90,
+    "VICENTE BARANCO, EKAIN": 32,
+    "AGUDELO VILLAMIL, JERONIMO": 32,
+    "ARANEGUI MORALES, GERMAN": 76,
+    "URRUTIA MARTIN, ASEL KAI": 21,
+    "TOBARIAS CHURRUCA, ENEKO": 14
+  },
+  "portero_local": "RODRIGUEZ GONZALEZ, ENEKO",
+  "portero_visitante": "PEREZ DE ALBENIZ MONTAÑO, IKER",
+  "dorsales_local": {
+    "RODRIGUEZ GONZALEZ, ENEKO": 1,
+    "SARACHAGA GUTIERREZ, UNAX": 2,
+    "MARDONES MILLARES, AIMAR": 3,
+    "SANTIAGO GONZALEZ, OIER": 5,
+    "SILVA TEJEDOR, ENEKO": 8,
+    "ALEGRE ONDO, MARCOS": 10,
+    "GARCIA ABAD, AIMAR": 11,
+    "EL MAIMOUNI EL MALLOUKI, YASIN": 15,
+    "ONZAIN VICARIO, JON": 16,
+    "ARENAL BAYER, ALAIN": 22,
+    "RODRIGUEZ ALVAREZ, SENDOA": 27
+  },
+  "dorsales_visitante": {
+    "PEREZ DE ALBENIZ MONTAÑO, IKER": 1,
+    "HUERTOS CALLEJA, MIKEL": 2,
+    "PEREZ DE CASTRO, KIMETZ": 3,
+    "GIMENEZ RUIPEREZ, MARKEL": 5,
+    "CHEMSI FLORIA, FADI": 6,
+    "NECHADI DOMINGUEZ, NABIL": 8,
+    "IBRAHIM JOHN, DESTINY": 9,
+    "DE PAULA GUZMAN, LUI": 14,
+    "IBISATE LEGARDA, JULEN": 16,
+    "MARTINEZ DE LAGOS BASTERRA, AIMAR": 19,
+    "SAEZ RUBINA, URKO": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
