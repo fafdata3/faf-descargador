@@ -1,0 +1,264 @@
+{
+  "acta_id": "B_10061498",
+  "filename": "Acta_B_10061498.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "27-09-2026",
+  "hora": "11:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "PORTUGALETE B",
+  "equipo_visitante": "BARAKALDO B",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANTOS GARCIA, AITOR"
+  ],
+  "estadio": "PARQUE RIVAS",
+  "ciudad": "Portugalete",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "ROCA ALCALDE, EDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "ROCA ALCALDE, EDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "LANDAIDA PEREZ, ASEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "TOBALINA LOPEZ, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "BARAKALDO B",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RODRÍGUEZ CASTELLANO, FRANCISCO GABRIEL",
+  "entrenador_visitante": "ARREGI ESTARTA, JOKIN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "HIGES DE COS, ENDIKA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HIGES DE COS, ENDIKA",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "ALCALDE ORTE, NAHIEL",
+    "GASTAÑAGA BLAZQUEZ, ALVARO",
+    "BLANCO PALAZUELOS, ASIER",
+    "ROCA ALCALDE, EDER",
+    "MATO MARTÍN, ENAITZ",
+    "MARTINEZ JIMENEZ, DANEL",
+    "TOBALINA LOPEZ, UNAI",
+    "MADARIAGA ZAMORA, MARKEL",
+    "ARGAIZ IBARRA, ALAIN",
+    "RODRIGUEZ PICATOSTE, ADRIAN",
+    "SANCHEZ CAZALLA, ARITZ"
+  ],
+  "titulares_visitante": [
+    "ARTETA CRUZ, ARITZ",
+    "AMIROLA LOPEZ, IORITZ",
+    "CABALLERO RIOS, ARITZ",
+    "AMESTI CASTRO, ANDER",
+    "LIEDO ROJO, IELTXU",
+    "ORBETA URIARTE, DANEL",
+    "PALOMERO BAYON, OIER",
+    "SAAVEDRA GUTIERREZ, DYLAN",
+    "SIMON ARDANAZ, AMETZ",
+    "ORBETA URIARTE, BEÑAT",
+    "AMADOU JOHN, OROBOSA"
+  ],
+  "suplentes_local": [
+    "RUIZ GARCIA, IBAI",
+    "PADRONES LLAMAS, ENEKO",
+    "ORIBE MARTINEZ, EIHAR",
+    "IBARRECHE NEGRITO, IKER",
+    "QUERENDEZ MARTINEZ, XABIER"
+  ],
+  "suplentes_visitante": [
+    "FRANCO GOYENECHEA, NIKOLA",
+    "RUIZ SANZ, MARIO",
+    "TAZARKI JERBI, MAHDI",
+    "OCEJO ATIENZA, ERIK",
+    "MAKOLI ANTOLINEZ, BEÑAT",
+    "LANDAIDA PEREZ, ASEL",
+    "NLEND CHABAB, SAMUEL RAYAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "RUIZ GARCIA, IBAI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "FRANCO GOYENECHEA, NIKOLA",
+    "RUIZ SANZ, MARIO"
+  ],
+  "jugadores_local": [
+    "ALCALDE ORTE, NAHIEL",
+    "GASTAÑAGA BLAZQUEZ, ALVARO",
+    "BLANCO PALAZUELOS, ASIER",
+    "ROCA ALCALDE, EDER",
+    "MATO MARTÍN, ENAITZ",
+    "MARTINEZ JIMENEZ, DANEL",
+    "TOBALINA LOPEZ, UNAI",
+    "MADARIAGA ZAMORA, MARKEL",
+    "ARGAIZ IBARRA, ALAIN",
+    "RODRIGUEZ PICATOSTE, ADRIAN",
+    "SANCHEZ CAZALLA, ARITZ",
+    "QUERENDEZ MARTINEZ, XABIER",
+    "ORIBE MARTINEZ, EIHAR",
+    "PADRONES LLAMAS, ENEKO",
+    "IBARRECHE NEGRITO, IKER"
+  ],
+  "jugadores_visitante": [
+    "ARTETA CRUZ, ARITZ",
+    "AMIROLA LOPEZ, IORITZ",
+    "CABALLERO RIOS, ARITZ",
+    "AMESTI CASTRO, ANDER",
+    "LIEDO ROJO, IELTXU",
+    "ORBETA URIARTE, DANEL",
+    "PALOMERO BAYON, OIER",
+    "SAAVEDRA GUTIERREZ, DYLAN",
+    "SIMON ARDANAZ, AMETZ",
+    "ORBETA URIARTE, BEÑAT",
+    "AMADOU JOHN, OROBOSA",
+    "TAZARKI JERBI, MAHDI",
+    "OCEJO ATIENZA, ERIK",
+    "NLEND CHABAB, SAMUEL RAYAN",
+    "MAKOLI ANTOLINEZ, BEÑAT",
+    "LANDAIDA PEREZ, ASEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "QUERENDEZ MARTINEZ, XABIER",
+      "sale": "ARGAIZ IBARRA, ALAIN"
+    },
+    {
+      "min": 48,
+      "entra": "ORIBE MARTINEZ, EIHAR",
+      "sale": "RODRIGUEZ PICATOSTE, ADRIAN"
+    },
+    {
+      "min": 57,
+      "entra": "PADRONES LLAMAS, ENEKO",
+      "sale": "MATO MARTÍN, ENAITZ"
+    },
+    {
+      "min": 69,
+      "entra": "IBARRECHE NEGRITO, IKER",
+      "sale": "MADARIAGA ZAMORA, MARKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "TAZARKI JERBI, MAHDI",
+      "sale": "AMIROLA LOPEZ, IORITZ"
+    },
+    {
+      "min": 49,
+      "entra": "OCEJO ATIENZA, ERIK",
+      "sale": "ORBETA URIARTE, DANEL"
+    },
+    {
+      "min": 49,
+      "entra": "NLEND CHABAB, SAMUEL RAYAN",
+      "sale": "AMESTI CASTRO, ANDER"
+    },
+    {
+      "min": 54,
+      "entra": "MAKOLI ANTOLINEZ, BEÑAT",
+      "sale": "LIEDO ROJO, IELTXU"
+    },
+    {
+      "min": 62,
+      "entra": "LANDAIDA PEREZ, ASEL",
+      "sale": "CABALLERO RIOS, ARITZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALCALDE ORTE, NAHIEL": 90,
+    "GASTAÑAGA BLAZQUEZ, ALVARO": 90,
+    "BLANCO PALAZUELOS, ASIER": 90,
+    "ROCA ALCALDE, EDER": 90,
+    "MATO MARTÍN, ENAITZ": 57,
+    "MARTINEZ JIMENEZ, DANEL": 90,
+    "TOBALINA LOPEZ, UNAI": 90,
+    "MADARIAGA ZAMORA, MARKEL": 69,
+    "ARGAIZ IBARRA, ALAIN": 48,
+    "RODRIGUEZ PICATOSTE, ADRIAN": 48,
+    "SANCHEZ CAZALLA, ARITZ": 90,
+    "QUERENDEZ MARTINEZ, XABIER": 42,
+    "ORIBE MARTINEZ, EIHAR": 42,
+    "PADRONES LLAMAS, ENEKO": 33,
+    "IBARRECHE NEGRITO, IKER": 21,
+    "ARTETA CRUZ, ARITZ": 90,
+    "AMIROLA LOPEZ, IORITZ": 41,
+    "CABALLERO RIOS, ARITZ": 62,
+    "AMESTI CASTRO, ANDER": 49,
+    "LIEDO ROJO, IELTXU": 54,
+    "ORBETA URIARTE, DANEL": 49,
+    "PALOMERO BAYON, OIER": 90,
+    "SAAVEDRA GUTIERREZ, DYLAN": 90,
+    "SIMON ARDANAZ, AMETZ": 90,
+    "ORBETA URIARTE, BEÑAT": 90,
+    "AMADOU JOHN, OROBOSA": 90,
+    "TAZARKI JERBI, MAHDI": 49,
+    "OCEJO ATIENZA, ERIK": 41,
+    "NLEND CHABAB, SAMUEL RAYAN": 41,
+    "MAKOLI ANTOLINEZ, BEÑAT": 36,
+    "LANDAIDA PEREZ, ASEL": 28
+  },
+  "portero_local": "ALCALDE ORTE, NAHIEL",
+  "portero_visitante": "ARTETA CRUZ, ARITZ",
+  "dorsales_local": {
+    "ALCALDE ORTE, NAHIEL": 1,
+    "GASTAÑAGA BLAZQUEZ, ALVARO": 2,
+    "BLANCO PALAZUELOS, ASIER": 3,
+    "ROCA ALCALDE, EDER": 6,
+    "MATO MARTÍN, ENAITZ": 7,
+    "MARTINEZ JIMENEZ, DANEL": 8,
+    "TOBALINA LOPEZ, UNAI": 14,
+    "MADARIAGA ZAMORA, MARKEL": 15,
+    "ARGAIZ IBARRA, ALAIN": 18,
+    "RODRIGUEZ PICATOSTE, ADRIAN": 23,
+    "SANCHEZ CAZALLA, ARITZ": 24
+  },
+  "dorsales_visitante": {
+    "ARTETA CRUZ, ARITZ": 13,
+    "AMIROLA LOPEZ, IORITZ": 2,
+    "CABALLERO RIOS, ARITZ": 5,
+    "AMESTI CASTRO, ANDER": 6,
+    "LIEDO ROJO, IELTXU": 7,
+    "ORBETA URIARTE, DANEL": 9,
+    "PALOMERO BAYON, OIER": 15,
+    "SAAVEDRA GUTIERREZ, DYLAN": 16,
+    "SIMON ARDANAZ, AMETZ": 17,
+    "ORBETA URIARTE, BEÑAT": 18,
+    "AMADOU JOHN, OROBOSA": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
