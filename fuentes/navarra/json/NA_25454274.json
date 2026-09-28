@@ -1,0 +1,263 @@
+{
+  "acta_id": "NA_25454274",
+  "filename": "Acta_NA_25454274.txt",
+  "fuente": "navarra",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "19-09-2026",
+  "hora": "10:00",
+  "categoria": "Liga Cadete Navarra (Liga Cadete Navarra)",
+  "equipo_local": "C.D. Izarra",
+  "equipo_visitante": "C.D. Valle de Egües",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "Gondán Cabrera, Joseba"
+  ],
+  "estadio": "Merkatondoa",
+  "ciudad": "Estella",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "Ducay Elorza, Ibai",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "Landa Aramendia, Jon",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "Ducay Elorza, Ibai",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "Montero Barno, Hugo",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 26,
+      "jugador": "Echeverria Azcona, Eneko",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 26,
+      "jugador": "C.D. Valle de Egües",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "Igarreta Acaz, Xabier",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "Esparza Sánchez, Josu",
+  "delegado_equipo_visitante": "Chocarro Lerga, Daniel",
+  "titulares_local": [
+    "Roca Urabayen, Eneko",
+    "Montero Barno, Hugo",
+    "Echeverria Azcona, Eneko",
+    "Alvarez Arizcun, Adrian",
+    "Cortabarria Pascual, Martin",
+    "Larraona Jiménez, Unai",
+    "Jeddi SAGASTI, ADAM",
+    "Estrada Mayo, Ion",
+    "Landa Aramendia, Jon",
+    "Sanchez Ortiz, Tadeo",
+    "Guazha Gómez, Dylan Alexander"
+  ],
+  "titulares_visitante": [
+    "Mayo Mayo, Belai",
+    "Moreno Morras, Diego",
+    "Gordoa Rodriguez, Iraitz",
+    "Linde Pagola, Oier",
+    "Andres Zabala, Iker",
+    "Ducay Elorza, Ibai",
+    "Esparza Maeztu, Koldo",
+    "Coulibaly Kane, Moussa Zan",
+    "Roa Pagola, Asier",
+    "Flores Gracia, Bosco",
+    "Pérez Zarranz, Adur"
+  ],
+  "suplentes_local": [
+    "Izkoa Fernandez, Aner",
+    "Peral Zudaire, Ander",
+    "Echarri Macua, Aitor",
+    "Oses Alfonso, Markel",
+    "Goldaraz Beruete, Julen",
+    "Ilzarbe Oteiza, Sergio"
+  ],
+  "suplentes_visitante": [
+    "Mendaza Ochoa, Martín",
+    "Asin Muratori, Mikel",
+    "Ondarra Barrachina, Oier",
+    "Andueza Andueza, Ander",
+    "Ripodas Vitas, Edur"
+  ],
+  "convocados_sin_jugar_local": [
+    "Izkoa Fernandez, Aner",
+    "Echarri Macua, Aitor"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "Mendaza Ochoa, Martín"
+  ],
+  "jugadores_local": [
+    "Roca Urabayen, Eneko",
+    "Montero Barno, Hugo",
+    "Echeverria Azcona, Eneko",
+    "Alvarez Arizcun, Adrian",
+    "Cortabarria Pascual, Martin",
+    "Larraona Jiménez, Unai",
+    "Jeddi SAGASTI, ADAM",
+    "Estrada Mayo, Ion",
+    "Landa Aramendia, Jon",
+    "Sanchez Ortiz, Tadeo",
+    "Guazha Gómez, Dylan Alexander",
+    "Goldaraz Beruete, Julen",
+    "Oses Alfonso, Markel",
+    "Ilzarbe Oteiza, Sergio",
+    "Peral Zudaire, Ander"
+  ],
+  "jugadores_visitante": [
+    "Mayo Mayo, Belai",
+    "Moreno Morras, Diego",
+    "Gordoa Rodriguez, Iraitz",
+    "Linde Pagola, Oier",
+    "Andres Zabala, Iker",
+    "Ducay Elorza, Ibai",
+    "Esparza Maeztu, Koldo",
+    "Coulibaly Kane, Moussa Zan",
+    "Roa Pagola, Asier",
+    "Flores Gracia, Bosco",
+    "Pérez Zarranz, Adur",
+    "Andueza Andueza, Ander",
+    "Asin Muratori, Mikel",
+    "Ondarra Barrachina, Oier",
+    "Ripodas Vitas, Edur"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "Goldaraz Beruete, Julen",
+      "sale": "Estrada Mayo, Ion"
+    },
+    {
+      "min": 50,
+      "entra": "Oses Alfonso, Markel",
+      "sale": "Echeverria Azcona, Eneko"
+    },
+    {
+      "min": 63,
+      "entra": "Ilzarbe Oteiza, Sergio",
+      "sale": "Landa Aramendia, Jon"
+    },
+    {
+      "min": 70,
+      "entra": "Peral Zudaire, Ander",
+      "sale": "Jeddi SAGASTI, ADAM"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "Andueza Andueza, Ander",
+      "sale": "Coulibaly Kane, Moussa Zan"
+    },
+    {
+      "min": 55,
+      "entra": "Asin Muratori, Mikel",
+      "sale": "Andres Zabala, Iker"
+    },
+    {
+      "min": 55,
+      "entra": "Ondarra Barrachina, Oier",
+      "sale": "Esparza Maeztu, Koldo"
+    },
+    {
+      "min": 64,
+      "entra": "Ripodas Vitas, Edur",
+      "sale": "Moreno Morras, Diego"
+    }
+  ],
+  "minutos_jugadores": {
+    "Roca Urabayen, Eneko": 90,
+    "Montero Barno, Hugo": 90,
+    "Echeverria Azcona, Eneko": 50,
+    "Alvarez Arizcun, Adrian": 90,
+    "Cortabarria Pascual, Martin": 90,
+    "Larraona Jiménez, Unai": 90,
+    "Jeddi SAGASTI, ADAM": 70,
+    "Estrada Mayo, Ion": 50,
+    "Landa Aramendia, Jon": 63,
+    "Sanchez Ortiz, Tadeo": 90,
+    "Guazha Gómez, Dylan Alexander": 90,
+    "Goldaraz Beruete, Julen": 40,
+    "Oses Alfonso, Markel": 40,
+    "Ilzarbe Oteiza, Sergio": 27,
+    "Peral Zudaire, Ander": 20,
+    "Mayo Mayo, Belai": 90,
+    "Moreno Morras, Diego": 64,
+    "Gordoa Rodriguez, Iraitz": 90,
+    "Linde Pagola, Oier": 90,
+    "Andres Zabala, Iker": 55,
+    "Ducay Elorza, Ibai": 90,
+    "Esparza Maeztu, Koldo": 55,
+    "Coulibaly Kane, Moussa Zan": 55,
+    "Roa Pagola, Asier": 90,
+    "Flores Gracia, Bosco": 90,
+    "Pérez Zarranz, Adur": 90,
+    "Andueza Andueza, Ander": 35,
+    "Asin Muratori, Mikel": 35,
+    "Ondarra Barrachina, Oier": 35,
+    "Ripodas Vitas, Edur": 26
+  },
+  "portero_local": "Roca Urabayen, Eneko",
+  "portero_visitante": "Mayo Mayo, Belai",
+  "dorsales_local": {
+    "Roca Urabayen, Eneko": 1,
+    "Montero Barno, Hugo": 5,
+    "Echeverria Azcona, Eneko": 6,
+    "Alvarez Arizcun, Adrian": 7,
+    "Cortabarria Pascual, Martin": 10,
+    "Larraona Jiménez, Unai": 14,
+    "Jeddi SAGASTI, ADAM": 15,
+    "Estrada Mayo, Ion": 17,
+    "Landa Aramendia, Jon": 18,
+    "Sanchez Ortiz, Tadeo": 19,
+    "Guazha Gómez, Dylan Alexander": 20
+  },
+  "dorsales_visitante": {
+    "Mayo Mayo, Belai": 1,
+    "Moreno Morras, Diego": 2,
+    "Gordoa Rodriguez, Iraitz": 4,
+    "Linde Pagola, Oier": 5,
+    "Andres Zabala, Iker": 7,
+    "Ducay Elorza, Ibai": 10,
+    "Esparza Maeztu, Koldo": 15,
+    "Coulibaly Kane, Moussa Zan": 17,
+    "Roa Pagola, Asier": 18,
+    "Flores Gracia, Bosco": 20,
+    "Pérez Zarranz, Adur": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
