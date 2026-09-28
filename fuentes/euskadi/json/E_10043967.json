@@ -1,0 +1,260 @@
+{
+  "acta_id": "E_10043967",
+  "filename": "Acta_E_10043967.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "18:00",
+  "categoria": "LIGA VASCA JUVENIL / GAZTEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "SANTUTXU F.C. B",
+  "equipo_visitante": "DANOK BAT C",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ARRIZABALAGA BLASCO, ANDER"
+  ],
+  "estadio": "MALLONA 1",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "BEITIA RODRIGO, TXABER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 4,
+      "jugador": "REY REBOLLO, OIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 4,
+      "jugador": "DANOK BAT C",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MERAYO DE BUSTOS, JOSU",
+  "entrenador_visitante": "CANO LOPEZ, MIKEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALONSO ALBILLA, ENEKO",
+  "delegado_equipo_visitante": "GARCIA SANTURTUN, LUIS MIGUEL",
+  "titulares_local": [
+    "RODRIGUEZ GONZALEZ, ENEKO",
+    "SARACHAGA GUTIERREZ, UNAX",
+    "SANTIAGO GONZALEZ, OIER",
+    "REY REBOLLO, OIER",
+    "SILVA TEJEDOR, ENEKO",
+    "ALEGRE ONDO, MARCOS",
+    "ALVAREZ ARNAIZ, ANDER",
+    "BEITIA RODRIGO, TXABER",
+    "SANGIAO ABASCAL, IZAN",
+    "URIZAR ANGULO, MARCOS",
+    "RODRIGUEZ ALVAREZ, SENDOA"
+  ],
+  "titulares_visitante": [
+    "PUENTE ACEDO, ALEJANDRO",
+    "GONZALEZ RUIZ, MARKEL",
+    "AZNAR AGUIRRE, JON",
+    "GARCIA MARZO, ARKAITZ",
+    "SOBRINO GIL, ALEX",
+    "BASTIDA SAEZ SANTURTUN, LUCAS",
+    "CHARTERINA BARRERAS, ENDIKA",
+    "HERRERO VALLE, LANDER",
+    "HERMOSA ANGOÑA, PABLO",
+    "ARANA MUGUETA, XABIER",
+    "BERECIBAR HUIDOBRO, UNAX"
+  ],
+  "suplentes_local": [
+    "GARCIA LORIDO, UNAI",
+    "AGUIRRE GOMEZ, OIER",
+    "CASADO MARTINEZ, MARTZEL",
+    "GARCIA ABAD, AIMAR",
+    "ATXUKARRO OLABARRIETA, URTZI",
+    "EL MAIMOUNI EL MALLOUKI, YASIN",
+    "ARENAL BAYER, ALAIN"
+  ],
+  "suplentes_visitante": [
+    "ALDAITURRIAGA BAYON, ARATZ",
+    "OLABARRI CHARTERINA, LUKEN",
+    "ANDRES RODRIGUEZ, ALAIN",
+    "AMO LEGUINA, ALBERTO",
+    "GONZALEZ CEANURI, AMETS",
+    "FRANQUELO VELEZ, ARIEL",
+    "ARIZTONDO PORTILLO, OINATZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA LORIDO, UNAI",
+    "GARCIA ABAD, AIMAR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALDAITURRIAGA BAYON, ARATZ",
+    "ARIZTONDO PORTILLO, OINATZ"
+  ],
+  "jugadores_local": [
+    "RODRIGUEZ GONZALEZ, ENEKO",
+    "SARACHAGA GUTIERREZ, UNAX",
+    "SANTIAGO GONZALEZ, OIER",
+    "REY REBOLLO, OIER",
+    "SILVA TEJEDOR, ENEKO",
+    "ALEGRE ONDO, MARCOS",
+    "ALVAREZ ARNAIZ, ANDER",
+    "BEITIA RODRIGO, TXABER",
+    "SANGIAO ABASCAL, IZAN",
+    "URIZAR ANGULO, MARCOS",
+    "RODRIGUEZ ALVAREZ, SENDOA",
+    "AGUIRRE GOMEZ, OIER",
+    "ARENAL BAYER, ALAIN",
+    "CASADO MARTINEZ, MARTZEL",
+    "EL MAIMOUNI EL MALLOUKI, YASIN",
+    "ATXUKARRO OLABARRIETA, URTZI"
+  ],
+  "jugadores_visitante": [
+    "PUENTE ACEDO, ALEJANDRO",
+    "GONZALEZ RUIZ, MARKEL",
+    "AZNAR AGUIRRE, JON",
+    "GARCIA MARZO, ARKAITZ",
+    "SOBRINO GIL, ALEX",
+    "BASTIDA SAEZ SANTURTUN, LUCAS",
+    "CHARTERINA BARRERAS, ENDIKA",
+    "HERRERO VALLE, LANDER",
+    "HERMOSA ANGOÑA, PABLO",
+    "ARANA MUGUETA, XABIER",
+    "BERECIBAR HUIDOBRO, UNAX",
+    "FRANQUELO VELEZ, ARIEL",
+    "OLABARRI CHARTERINA, LUKEN",
+    "GONZALEZ CEANURI, AMETS",
+    "AMO LEGUINA, ALBERTO",
+    "ANDRES RODRIGUEZ, ALAIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "AGUIRRE GOMEZ, OIER",
+      "sale": "BEITIA RODRIGO, TXABER"
+    },
+    {
+      "min": 65,
+      "entra": "ARENAL BAYER, ALAIN",
+      "sale": "URIZAR ANGULO, MARCOS"
+    },
+    {
+      "min": 65,
+      "entra": "CASADO MARTINEZ, MARTZEL",
+      "sale": "ALEGRE ONDO, MARCOS"
+    },
+    {
+      "min": 65,
+      "entra": "EL MAIMOUNI EL MALLOUKI, YASIN",
+      "sale": "ALVAREZ ARNAIZ, ANDER"
+    },
+    {
+      "min": 73,
+      "entra": "ATXUKARRO OLABARRIETA, URTZI",
+      "sale": "RODRIGUEZ ALVAREZ, SENDOA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "FRANQUELO VELEZ, ARIEL",
+      "sale": "AZNAR AGUIRRE, JON"
+    },
+    {
+      "min": 65,
+      "entra": "OLABARRI CHARTERINA, LUKEN",
+      "sale": "HERMOSA ANGOÑA, PABLO"
+    },
+    {
+      "min": 65,
+      "entra": "GONZALEZ CEANURI, AMETS",
+      "sale": "HERRERO VALLE, LANDER"
+    },
+    {
+      "min": 67,
+      "entra": "AMO LEGUINA, ALBERTO",
+      "sale": "BASTIDA SAEZ SANTURTUN, LUCAS"
+    },
+    {
+      "min": 67,
+      "entra": "ANDRES RODRIGUEZ, ALAIN",
+      "sale": "GONZALEZ RUIZ, MARKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ GONZALEZ, ENEKO": 90,
+    "SARACHAGA GUTIERREZ, UNAX": 90,
+    "SANTIAGO GONZALEZ, OIER": 90,
+    "REY REBOLLO, OIER": 90,
+    "SILVA TEJEDOR, ENEKO": 90,
+    "ALEGRE ONDO, MARCOS": 65,
+    "ALVAREZ ARNAIZ, ANDER": 65,
+    "BEITIA RODRIGO, TXABER": 55,
+    "SANGIAO ABASCAL, IZAN": 90,
+    "URIZAR ANGULO, MARCOS": 65,
+    "RODRIGUEZ ALVAREZ, SENDOA": 73,
+    "AGUIRRE GOMEZ, OIER": 35,
+    "ARENAL BAYER, ALAIN": 25,
+    "CASADO MARTINEZ, MARTZEL": 25,
+    "EL MAIMOUNI EL MALLOUKI, YASIN": 25,
+    "ATXUKARRO OLABARRIETA, URTZI": 17,
+    "PUENTE ACEDO, ALEJANDRO": 90,
+    "GONZALEZ RUIZ, MARKEL": 67,
+    "AZNAR AGUIRRE, JON": 58,
+    "GARCIA MARZO, ARKAITZ": 90,
+    "SOBRINO GIL, ALEX": 90,
+    "BASTIDA SAEZ SANTURTUN, LUCAS": 67,
+    "CHARTERINA BARRERAS, ENDIKA": 90,
+    "HERRERO VALLE, LANDER": 65,
+    "HERMOSA ANGOÑA, PABLO": 65,
+    "ARANA MUGUETA, XABIER": 90,
+    "BERECIBAR HUIDOBRO, UNAX": 90,
+    "FRANQUELO VELEZ, ARIEL": 32,
+    "OLABARRI CHARTERINA, LUKEN": 25,
+    "GONZALEZ CEANURI, AMETS": 25,
+    "AMO LEGUINA, ALBERTO": 23,
+    "ANDRES RODRIGUEZ, ALAIN": 23
+  },
+  "portero_local": "RODRIGUEZ GONZALEZ, ENEKO",
+  "portero_visitante": "PUENTE ACEDO, ALEJANDRO",
+  "dorsales_local": {
+    "RODRIGUEZ GONZALEZ, ENEKO": 1,
+    "SARACHAGA GUTIERREZ, UNAX": 2,
+    "SANTIAGO GONZALEZ, OIER": 5,
+    "REY REBOLLO, OIER": 6,
+    "SILVA TEJEDOR, ENEKO": 8,
+    "ALEGRE ONDO, MARCOS": 10,
+    "ALVAREZ ARNAIZ, ANDER": 14,
+    "BEITIA RODRIGO, TXABER": 17,
+    "SANGIAO ABASCAL, IZAN": 18,
+    "URIZAR ANGULO, MARCOS": 20,
+    "RODRIGUEZ ALVAREZ, SENDOA": 27
+  },
+  "dorsales_visitante": {
+    "PUENTE ACEDO, ALEJANDRO": 1,
+    "GONZALEZ RUIZ, MARKEL": 2,
+    "AZNAR AGUIRRE, JON": 4,
+    "GARCIA MARZO, ARKAITZ": 5,
+    "SOBRINO GIL, ALEX": 9,
+    "BASTIDA SAEZ SANTURTUN, LUCAS": 11,
+    "CHARTERINA BARRERAS, ENDIKA": 14,
+    "HERRERO VALLE, LANDER": 16,
+    "HERMOSA ANGOÑA, PABLO": 18,
+    "ARANA MUGUETA, XABIER": 20,
+    "BERECIBAR HUIDOBRO, UNAX": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
