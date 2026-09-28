@@ -1,0 +1,258 @@
+{
+  "acta_id": "E_10044282",
+  "filename": "Acta_E_10044282.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "19-09-2026",
+  "hora": "11:00",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "DANOK BAT C.",
+  "equipo_visitante": "ARRUPE CHAMINADE C.D.D.F.",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "DOMINGO RODRÍGUEZ, BORJA"
+  ],
+  "estadio": "MALLONA 1",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 47,
+      "jugador": "INCHAURZA LANDALUZE, AMETS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "SANCHO ETXEZARRETA, LUAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 42,
+      "jugador": "LEKAROZ SALVADOR, URKO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RODRIGUEZ MANZANO, EGOITZ",
+  "entrenador_visitante": "IRIONDO CORTABARRIA, ALEXANDER",
+  "segundo_entrenador_local": "IZAGUIRRE SAN JOSE, ASIER",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GONZALEZ GOMEZ, JOSE ANGEL",
+  "delegado_equipo_visitante": "BENGOETXEA INTXAURTIETA, MARTIN",
+  "titulares_local": [
+    "ALDAITURRIAGA BAYON, ARATZ",
+    "DIAZ ZAMORANO, URKO",
+    "SANCHO ETXEZARRETA, LUAR",
+    "SACRISTAN MIÑON, OIER",
+    "LORENZO CALVENTE, MAREN",
+    "INCHAURZA LANDALUZE, AMETS",
+    "DIAZ MARTINEZ-INTXAUSTI, MARTIN",
+    "LAUZIRIKA LASA, AMETZ",
+    "CARROMERO VILLAVERDE, ARATZ",
+    "IBARRONDO TERCILLA, XABIER",
+    "MERELES GONZALEZ, MAXWELL MANUEL"
+  ],
+  "titulares_visitante": [
+    "YUBERO RUIZ DE MUNAIN, PABLO",
+    "GAZTAÑAGA RODRIGUEZ, UNAI",
+    "AYESTARAN TERRILL, JOHN MICHAEL",
+    "ARREGUI ZARATE, JULEN",
+    "MANSOA ANTIA, TELMO",
+    "BARRADO PLAZAOLA, EDER",
+    "VARGAS VALDEZ, JUAN DIEGO",
+    "LABAKA UGARTE, JON",
+    "BEÑARAN EZCURRA, DANIEL",
+    "LOPEZ VILLANUEVA, LUKEN",
+    "MARTIN DELGADO, ADRIAN"
+  ],
+  "suplentes_local": [
+    "ARROYO MANDAYO, HARITZ",
+    "PALMA BARROSO, MARKEL",
+    "MADARIAGA MOLINA, LEO",
+    "LIZARRALDE REGIDOR, PEIO",
+    "SAINZ GARCIA, MARKEL",
+    "BILBAO LOPEZ, LIHER"
+  ],
+  "suplentes_visitante": [
+    "SOTO VAAMONDE, FERNANDO",
+    "LEKAROZ SALVADOR, URKO",
+    "RODRIGUEZ IGLESIAS, KEITA",
+    "CARO SAENZ, MATEO",
+    "CRESPO GRAÑA, ANDER",
+    "NGUEPDJOP BEYALA, ALANE GIOVANNI",
+    "EGUINOA JUAMPÉREZ, OIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARROYO MANDAYO, HARITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SOTO VAAMONDE, FERNANDO",
+    "CRESPO GRAÑA, ANDER"
+  ],
+  "jugadores_local": [
+    "ALDAITURRIAGA BAYON, ARATZ",
+    "DIAZ ZAMORANO, URKO",
+    "SANCHO ETXEZARRETA, LUAR",
+    "SACRISTAN MIÑON, OIER",
+    "LORENZO CALVENTE, MAREN",
+    "INCHAURZA LANDALUZE, AMETS",
+    "DIAZ MARTINEZ-INTXAUSTI, MARTIN",
+    "LAUZIRIKA LASA, AMETZ",
+    "CARROMERO VILLAVERDE, ARATZ",
+    "IBARRONDO TERCILLA, XABIER",
+    "MERELES GONZALEZ, MAXWELL MANUEL",
+    "PALMA BARROSO, MARKEL",
+    "MADARIAGA MOLINA, LEO",
+    "SAINZ GARCIA, MARKEL",
+    "LIZARRALDE REGIDOR, PEIO",
+    "BILBAO LOPEZ, LIHER"
+  ],
+  "jugadores_visitante": [
+    "YUBERO RUIZ DE MUNAIN, PABLO",
+    "GAZTAÑAGA RODRIGUEZ, UNAI",
+    "AYESTARAN TERRILL, JOHN MICHAEL",
+    "ARREGUI ZARATE, JULEN",
+    "MANSOA ANTIA, TELMO",
+    "BARRADO PLAZAOLA, EDER",
+    "VARGAS VALDEZ, JUAN DIEGO",
+    "LABAKA UGARTE, JON",
+    "BEÑARAN EZCURRA, DANIEL",
+    "LOPEZ VILLANUEVA, LUKEN",
+    "MARTIN DELGADO, ADRIAN",
+    "LEKAROZ SALVADOR, URKO",
+    "CARO SAENZ, MATEO",
+    "RODRIGUEZ IGLESIAS, KEITA",
+    "NGUEPDJOP BEYALA, ALANE GIOVANNI",
+    "EGUINOA JUAMPÉREZ, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "PALMA BARROSO, MARKEL",
+      "sale": "DIAZ ZAMORANO, URKO"
+    },
+    {
+      "min": 54,
+      "entra": "MADARIAGA MOLINA, LEO",
+      "sale": "DIAZ MARTINEZ-INTXAUSTI, MARTIN"
+    },
+    {
+      "min": 54,
+      "entra": "SAINZ GARCIA, MARKEL",
+      "sale": "IBARRONDO TERCILLA, XABIER"
+    },
+    {
+      "min": 59,
+      "entra": "LIZARRALDE REGIDOR, PEIO",
+      "sale": "INCHAURZA LANDALUZE, AMETS"
+    },
+    {
+      "min": 59,
+      "entra": "BILBAO LOPEZ, LIHER",
+      "sale": "MERELES GONZALEZ, MAXWELL MANUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "LEKAROZ SALVADOR, URKO",
+      "sale": "ARREGUI ZARATE, JULEN"
+    },
+    {
+      "min": 55,
+      "entra": "CARO SAENZ, MATEO",
+      "sale": "LABAKA UGARTE, JON"
+    },
+    {
+      "min": 55,
+      "entra": "RODRIGUEZ IGLESIAS, KEITA",
+      "sale": "LOPEZ VILLANUEVA, LUKEN"
+    },
+    {
+      "min": 71,
+      "entra": "NGUEPDJOP BEYALA, ALANE GIOVANNI",
+      "sale": "GAZTAÑAGA RODRIGUEZ, UNAI"
+    },
+    {
+      "min": 71,
+      "entra": "EGUINOA JUAMPÉREZ, OIER",
+      "sale": "MARTIN DELGADO, ADRIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALDAITURRIAGA BAYON, ARATZ": 90,
+    "DIAZ ZAMORANO, URKO": 40,
+    "SANCHO ETXEZARRETA, LUAR": 90,
+    "SACRISTAN MIÑON, OIER": 90,
+    "LORENZO CALVENTE, MAREN": 90,
+    "INCHAURZA LANDALUZE, AMETS": 59,
+    "DIAZ MARTINEZ-INTXAUSTI, MARTIN": 54,
+    "LAUZIRIKA LASA, AMETZ": 90,
+    "CARROMERO VILLAVERDE, ARATZ": 90,
+    "IBARRONDO TERCILLA, XABIER": 54,
+    "MERELES GONZALEZ, MAXWELL MANUEL": 59,
+    "PALMA BARROSO, MARKEL": 50,
+    "MADARIAGA MOLINA, LEO": 36,
+    "SAINZ GARCIA, MARKEL": 36,
+    "LIZARRALDE REGIDOR, PEIO": 31,
+    "BILBAO LOPEZ, LIHER": 31,
+    "YUBERO RUIZ DE MUNAIN, PABLO": 90,
+    "GAZTAÑAGA RODRIGUEZ, UNAI": 71,
+    "AYESTARAN TERRILL, JOHN MICHAEL": 90,
+    "ARREGUI ZARATE, JULEN": 40,
+    "MANSOA ANTIA, TELMO": 90,
+    "BARRADO PLAZAOLA, EDER": 90,
+    "VARGAS VALDEZ, JUAN DIEGO": 90,
+    "LABAKA UGARTE, JON": 55,
+    "BEÑARAN EZCURRA, DANIEL": 90,
+    "LOPEZ VILLANUEVA, LUKEN": 55,
+    "MARTIN DELGADO, ADRIAN": 71,
+    "LEKAROZ SALVADOR, URKO": 50,
+    "CARO SAENZ, MATEO": 35,
+    "RODRIGUEZ IGLESIAS, KEITA": 35,
+    "NGUEPDJOP BEYALA, ALANE GIOVANNI": 19,
+    "EGUINOA JUAMPÉREZ, OIER": 19
+  },
+  "portero_local": "ALDAITURRIAGA BAYON, ARATZ",
+  "portero_visitante": "YUBERO RUIZ DE MUNAIN, PABLO",
+  "dorsales_local": {
+    "ALDAITURRIAGA BAYON, ARATZ": 13,
+    "DIAZ ZAMORANO, URKO": 2,
+    "SANCHO ETXEZARRETA, LUAR": 3,
+    "SACRISTAN MIÑON, OIER": 4,
+    "LORENZO CALVENTE, MAREN": 6,
+    "INCHAURZA LANDALUZE, AMETS": 7,
+    "DIAZ MARTINEZ-INTXAUSTI, MARTIN": 17,
+    "LAUZIRIKA LASA, AMETZ": 19,
+    "CARROMERO VILLAVERDE, ARATZ": 20,
+    "IBARRONDO TERCILLA, XABIER": 21,
+    "MERELES GONZALEZ, MAXWELL MANUEL": 23
+  },
+  "dorsales_visitante": {
+    "YUBERO RUIZ DE MUNAIN, PABLO": 13,
+    "GAZTAÑAGA RODRIGUEZ, UNAI": 2,
+    "AYESTARAN TERRILL, JOHN MICHAEL": 3,
+    "ARREGUI ZARATE, JULEN": 4,
+    "MANSOA ANTIA, TELMO": 5,
+    "BARRADO PLAZAOLA, EDER": 6,
+    "VARGAS VALDEZ, JUAN DIEGO": 8,
+    "LABAKA UGARTE, JON": 9,
+    "BEÑARAN EZCURRA, DANIEL": 12,
+    "LOPEZ VILLANUEVA, LUKEN": 14,
+    "MARTIN DELGADO, ADRIAN": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
