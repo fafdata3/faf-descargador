@@ -1,0 +1,409 @@
+{
+  "acta_id": "NA_25402275",
+  "filename": "Acta_NA_25402275.txt",
+  "fuente": "navarra",
+  "temporada": "2024-2025",
+  "jornada": 13,
+  "fecha": "12-01-2025",
+  "hora": "17:30",
+  "categoria": "Segunda Cadete - Juegos Deportivos de Navarra (Grupo 6º)",
+  "equipo_local": "CD Baztan KE",
+  "equipo_visitante": "C.D. Huarte",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "Pinto Casado, Diego"
+  ],
+  "estadio": "Elizondo (Giltxaurdi)",
+  "ciudad": "Baztan",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "Echavarri Gaztelu, Mikel",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 12,
+      "jugador": "Perez Ecay, Iñaki",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "Moran GUERRERO, JAYDEN SEBASTHIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "Larrayoz Alzuri, JOSU",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 70,
+      "jugador": "Celayeta Migueltorena, Eneko",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "Iturralde Goñi, Urko",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "Celayeta Migueltorena, Eneko",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "C.D. Huarte",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Briansó Boyano, Julen",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Patrocinadores",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Proveedores Oficiales",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Colaboradores",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Canal de denuncias",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Ley de Transparencia",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Mapa web",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Soporte técnico",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Arrieta 3 - 1º planta",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "31002 Pamplona - Navarra (España)",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "948 22 99 33",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "- Lunes a jueves: 9:30-17:30",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "- Viernes: 9:00-15:00",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "Federación Navarra de Fútbol^^",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "La configuración de privacidad",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ARRAZTOA BRUST, MIKEL",
+  "entrenador_visitante": "Briansó Heras, Javier",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "Arraztoa Brust, Mixel",
+  "delegado_equipo_visitante": "BENITO CORCHON, IGNACIO",
+  "titulares_local": [
+    "Arraztoa Vicente, Ohian",
+    "Irazoqui Viela, Eneko",
+    "Ripa Eritze, AITOR",
+    "Arrupea Iribarren, Antton",
+    "Zabalza Garcia, Haritz",
+    "Echavarri Gaztelu, Mikel",
+    "Alaña Ciaurriz, Iñaki",
+    "Larrayoz Alzuri, JOSU",
+    "Iturralde Goñi, Urko",
+    "Escorcia Lopez, Adriel Antonio",
+    "Baldanta Arruiz, Julen"
+  ],
+  "titulares_visitante": [
+    "Armendariz Binaburo, Iker",
+    "Larraz Araiz, Nicolas",
+    "Suescun Ocáriz, Jorge",
+    "Goñi Chocarro, Markel",
+    "Los Arcos Eguia, Beñat",
+    "Mendia Ruperez, Martin",
+    "Moran GUERRERO, JAYDEN SEBASTHIAN",
+    "Ibañez Soto, Aitor",
+    "Flamarique Carrera, Mikel",
+    "Perez Ecay, Iñaki",
+    "Briansó Boyano, Julen"
+  ],
+  "suplentes_local": [
+    "ALEMAN IRISARRI, AXULAR",
+    "Celayeta Migueltorena, Eneko",
+    "ALDACO IRURUETA, JULEN",
+    "Jubera Idoate, Marko",
+    "Goñi Mendiburu, Oier",
+    "EGUIGUREN AGOS, EHIARTZ",
+    "Barberena Opoca, Mikel"
+  ],
+  "suplentes_visitante": [
+    "Garralda Zubitur, Markel",
+    "Sanz Goñi, Xabier",
+    "Iribarren Iribarren, Aimar",
+    "Peña Nagumanova, Sasha",
+    "Brave Caballero, Omar",
+    "Etxaleku Collado, Eder"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "Garralda Zubitur, Markel"
+  ],
+  "jugadores_local": [
+    "Arraztoa Vicente, Ohian",
+    "Irazoqui Viela, Eneko",
+    "Ripa Eritze, AITOR",
+    "Arrupea Iribarren, Antton",
+    "Zabalza Garcia, Haritz",
+    "Echavarri Gaztelu, Mikel",
+    "Alaña Ciaurriz, Iñaki",
+    "Larrayoz Alzuri, JOSU",
+    "Iturralde Goñi, Urko",
+    "Escorcia Lopez, Adriel Antonio",
+    "Baldanta Arruiz, Julen",
+    "ALEMAN IRISARRI, AXULAR",
+    "Goñi Mendiburu, Oier",
+    "Celayeta Migueltorena, Eneko",
+    "EGUIGUREN AGOS, EHIARTZ",
+    "Barberena Opoca, Mikel",
+    "Jubera Idoate, Marko",
+    "ALDACO IRURUETA, JULEN"
+  ],
+  "jugadores_visitante": [
+    "Armendariz Binaburo, Iker",
+    "Larraz Araiz, Nicolas",
+    "Suescun Ocáriz, Jorge",
+    "Goñi Chocarro, Markel",
+    "Los Arcos Eguia, Beñat",
+    "Mendia Ruperez, Martin",
+    "Moran GUERRERO, JAYDEN SEBASTHIAN",
+    "Ibañez Soto, Aitor",
+    "Flamarique Carrera, Mikel",
+    "Perez Ecay, Iñaki",
+    "Briansó Boyano, Julen",
+    "Iribarren Iribarren, Aimar",
+    "Etxaleku Collado, Eder",
+    "Peña Nagumanova, Sasha",
+    "Brave Caballero, Omar",
+    "Sanz Goñi, Xabier"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "ALEMAN IRISARRI, AXULAR",
+      "sale": "Arraztoa Vicente, Ohian"
+    },
+    {
+      "min": 40,
+      "entra": "Goñi Mendiburu, Oier",
+      "sale": "Echavarri Gaztelu, Mikel"
+    },
+    {
+      "min": 40,
+      "entra": "Celayeta Migueltorena, Eneko",
+      "sale": "Alaña Ciaurriz, Iñaki"
+    },
+    {
+      "min": 55,
+      "entra": "EGUIGUREN AGOS, EHIARTZ",
+      "sale": "Baldanta Arruiz, Julen"
+    },
+    {
+      "min": 65,
+      "entra": "Barberena Opoca, Mikel",
+      "sale": "Arrupea Iribarren, Antton"
+    },
+    {
+      "min": 65,
+      "entra": "Jubera Idoate, Marko",
+      "sale": "Iturralde Goñi, Urko"
+    },
+    {
+      "min": 68,
+      "entra": "ALDACO IRURUETA, JULEN",
+      "sale": "Escorcia Lopez, Adriel Antonio"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 28,
+      "entra": "Iribarren Iribarren, Aimar",
+      "sale": "Goñi Chocarro, Markel"
+    },
+    {
+      "min": 58,
+      "entra": "Etxaleku Collado, Eder",
+      "sale": "Briansó Boyano, Julen"
+    },
+    {
+      "min": 68,
+      "entra": "Peña Nagumanova, Sasha",
+      "sale": "Moran GUERRERO, JAYDEN SEBASTHIAN"
+    },
+    {
+      "min": 68,
+      "entra": "Brave Caballero, Omar",
+      "sale": "Perez Ecay, Iñaki"
+    },
+    {
+      "min": 71,
+      "entra": "Sanz Goñi, Xabier",
+      "sale": "Mendia Ruperez, Martin"
+    }
+  ],
+  "minutos_jugadores": {
+    "Arraztoa Vicente, Ohian": 40,
+    "Irazoqui Viela, Eneko": 90,
+    "Ripa Eritze, AITOR": 90,
+    "Arrupea Iribarren, Antton": 65,
+    "Zabalza Garcia, Haritz": 90,
+    "Echavarri Gaztelu, Mikel": 40,
+    "Alaña Ciaurriz, Iñaki": 40,
+    "Larrayoz Alzuri, JOSU": 90,
+    "Iturralde Goñi, Urko": 65,
+    "Escorcia Lopez, Adriel Antonio": 68,
+    "Baldanta Arruiz, Julen": 55,
+    "ALEMAN IRISARRI, AXULAR": 50,
+    "Goñi Mendiburu, Oier": 50,
+    "Celayeta Migueltorena, Eneko": 50,
+    "EGUIGUREN AGOS, EHIARTZ": 35,
+    "Barberena Opoca, Mikel": 25,
+    "Jubera Idoate, Marko": 25,
+    "ALDACO IRURUETA, JULEN": 22,
+    "Armendariz Binaburo, Iker": 90,
+    "Larraz Araiz, Nicolas": 90,
+    "Suescun Ocáriz, Jorge": 90,
+    "Goñi Chocarro, Markel": 28,
+    "Los Arcos Eguia, Beñat": 90,
+    "Mendia Ruperez, Martin": 71,
+    "Moran GUERRERO, JAYDEN SEBASTHIAN": 68,
+    "Ibañez Soto, Aitor": 90,
+    "Flamarique Carrera, Mikel": 90,
+    "Perez Ecay, Iñaki": 68,
+    "Briansó Boyano, Julen": 58,
+    "Iribarren Iribarren, Aimar": 62,
+    "Etxaleku Collado, Eder": 32,
+    "Peña Nagumanova, Sasha": 22,
+    "Brave Caballero, Omar": 22,
+    "Sanz Goñi, Xabier": 19
+  },
+  "portero_local": "Arraztoa Vicente, Ohian",
+  "portero_visitante": "Armendariz Binaburo, Iker",
+  "dorsales_local": {
+    "Arraztoa Vicente, Ohian": 1,
+    "Irazoqui Viela, Eneko": 2,
+    "Ripa Eritze, AITOR": 3,
+    "Arrupea Iribarren, Antton": 4,
+    "Zabalza Garcia, Haritz": 5,
+    "Echavarri Gaztelu, Mikel": 6,
+    "Alaña Ciaurriz, Iñaki": 8,
+    "Larrayoz Alzuri, JOSU": 10,
+    "Iturralde Goñi, Urko": 11,
+    "Escorcia Lopez, Adriel Antonio": 12,
+    "Baldanta Arruiz, Julen": 17
+  },
+  "dorsales_visitante": {
+    "Armendariz Binaburo, Iker": 1,
+    "Larraz Araiz, Nicolas": 2,
+    "Suescun Ocáriz, Jorge": 4,
+    "Goñi Chocarro, Markel": 6,
+    "Los Arcos Eguia, Beñat": 7,
+    "Mendia Ruperez, Martin": 12,
+    "Moran GUERRERO, JAYDEN SEBASTHIAN": 15,
+    "Ibañez Soto, Aitor": 16,
+    "Flamarique Carrera, Mikel": 18,
+    "Perez Ecay, Iñaki": 20,
+    "Briansó Boyano, Julen": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
