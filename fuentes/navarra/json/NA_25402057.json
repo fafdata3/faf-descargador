@@ -1,0 +1,272 @@
+{
+  "acta_id": "NA_25402057",
+  "filename": "Acta_NA_25402057.txt",
+  "fuente": "navarra",
+  "temporada": "2024-2025",
+  "jornada": 15,
+  "fecha": "12-01-2025",
+  "hora": "15:45",
+  "categoria": "Segunda Cadete - Juegos Deportivos de Navarra (Grupo 5º)",
+  "equipo_local": "C.D.Lagun Artea B",
+  "equipo_visitante": "U.C.D. Burlades A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "Garayoa Casado, David"
+  ],
+  "estadio": "Lakuntza (Itxesalde)",
+  "ciudad": "Lakuntza",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "Perez Cordero, Alain",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "Beraza Petriati, Amaiur",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "Lizarraga Beraza, Adur",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "YEREGUI CARRETERO, OIHAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "U.C.D. Burlades A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "IRIARTE RUIZ, IMANOL",
+  "titulares_local": [
+    "MARTIARENA VALENCIA, ENAITZ",
+    "HAMDI YOUSFI, ADAM",
+    "Lizarraga Beraza, Adur",
+    "Celaya Huarte, Mikel",
+    "YEREGUI CARRETERO, OIHAN",
+    "ECHAVARRI BERASTEGUI, XABIER",
+    "Perez Cordero, Alain",
+    "Gomez Mundiñano, Oier",
+    "Razkin Igoa, Ion",
+    "Mendinueta PEREZ DE VILLARREAL, UNAX",
+    "Apaolaza Delgado, Asier"
+  ],
+  "titulares_visitante": [
+    "Goñi Goikoa, Aimar",
+    "Pereira Alonso, Sebastián matias",
+    "Zazu Donazar, Beñat",
+    "VASQUEZ CARRION, XABI EDU",
+    "Quintanilla Goicoecheandia, Iker",
+    "Gomez Algaba, Aitor",
+    "Cayon Delgado, Unai",
+    "PEREZ ARAGUAS, XAVIER",
+    "Iriarte Perez De Urabayen, Alex",
+    "Oroz Lazcano, Oinatz",
+    "Ocaña De Miguel, Alvaro"
+  ],
+  "suplentes_local": [
+    "Beorlegi Areta, Luar",
+    "San Sebastian Arraiza, Aitzol",
+    "Zubeldia Lopetegi, Manex",
+    "Garmendia Toyos, Telmo",
+    "Beraza Petriati, Amaiur",
+    "Vergara Iraola, Iker"
+  ],
+  "suplentes_visitante": [
+    "Azanza Viana, Mikel",
+    "Ivanov Miroslav, Ivaylov",
+    "MALLA BENITEZ, ERIK JEREMI",
+    "Nafli Benosmane, Ilyes",
+    "Alzueta Infante, Ekaitz"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MARTIARENA VALENCIA, ENAITZ",
+    "HAMDI YOUSFI, ADAM",
+    "Lizarraga Beraza, Adur",
+    "Celaya Huarte, Mikel",
+    "YEREGUI CARRETERO, OIHAN",
+    "ECHAVARRI BERASTEGUI, XABIER",
+    "Perez Cordero, Alain",
+    "Gomez Mundiñano, Oier",
+    "Razkin Igoa, Ion",
+    "Mendinueta PEREZ DE VILLARREAL, UNAX",
+    "Apaolaza Delgado, Asier",
+    "San Sebastian Arraiza, Aitzol",
+    "Garmendia Toyos, Telmo",
+    "Zubeldia Lopetegi, Manex",
+    "Beorlegi Areta, Luar",
+    "Beraza Petriati, Amaiur",
+    "Vergara Iraola, Iker"
+  ],
+  "jugadores_visitante": [
+    "Goñi Goikoa, Aimar",
+    "Pereira Alonso, Sebastián matias",
+    "Zazu Donazar, Beñat",
+    "VASQUEZ CARRION, XABI EDU",
+    "Quintanilla Goicoecheandia, Iker",
+    "Gomez Algaba, Aitor",
+    "Cayon Delgado, Unai",
+    "PEREZ ARAGUAS, XAVIER",
+    "Iriarte Perez De Urabayen, Alex",
+    "Oroz Lazcano, Oinatz",
+    "Ocaña De Miguel, Alvaro",
+    "MALLA BENITEZ, ERIK JEREMI",
+    "Azanza Viana, Mikel",
+    "Ivanov Miroslav, Ivaylov",
+    "Alzueta Infante, Ekaitz",
+    "Nafli Benosmane, Ilyes"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "San Sebastian Arraiza, Aitzol",
+      "sale": "Celaya Huarte, Mikel"
+    },
+    {
+      "min": 40,
+      "entra": "Garmendia Toyos, Telmo",
+      "sale": "Lizarraga Beraza, Adur"
+    },
+    {
+      "min": 40,
+      "entra": "Zubeldia Lopetegi, Manex",
+      "sale": "YEREGUI CARRETERO, OIHAN"
+    },
+    {
+      "min": 40,
+      "entra": "Beorlegi Areta, Luar",
+      "sale": "MARTIARENA VALENCIA, ENAITZ"
+    },
+    {
+      "min": 59,
+      "entra": "Beraza Petriati, Amaiur",
+      "sale": "Apaolaza Delgado, Asier"
+    },
+    {
+      "min": 63,
+      "entra": "Vergara Iraola, Iker",
+      "sale": "Mendinueta PEREZ DE VILLARREAL, UNAX"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "MALLA BENITEZ, ERIK JEREMI",
+      "sale": "Iriarte Perez De Urabayen, Alex"
+    },
+    {
+      "min": 54,
+      "entra": "Azanza Viana, Mikel",
+      "sale": "Oroz Lazcano, Oinatz"
+    },
+    {
+      "min": 54,
+      "entra": "Ivanov Miroslav, Ivaylov",
+      "sale": "Ocaña De Miguel, Alvaro"
+    },
+    {
+      "min": 57,
+      "entra": "Alzueta Infante, Ekaitz",
+      "sale": "VASQUEZ CARRION, XABI EDU"
+    },
+    {
+      "min": 72,
+      "entra": "Nafli Benosmane, Ilyes",
+      "sale": "Pereira Alonso, Sebastián matias"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTIARENA VALENCIA, ENAITZ": 40,
+    "HAMDI YOUSFI, ADAM": 90,
+    "Lizarraga Beraza, Adur": 40,
+    "Celaya Huarte, Mikel": 40,
+    "YEREGUI CARRETERO, OIHAN": 40,
+    "ECHAVARRI BERASTEGUI, XABIER": 90,
+    "Perez Cordero, Alain": 90,
+    "Gomez Mundiñano, Oier": 90,
+    "Razkin Igoa, Ion": 90,
+    "Mendinueta PEREZ DE VILLARREAL, UNAX": 63,
+    "Apaolaza Delgado, Asier": 59,
+    "San Sebastian Arraiza, Aitzol": 50,
+    "Garmendia Toyos, Telmo": 50,
+    "Zubeldia Lopetegi, Manex": 50,
+    "Beorlegi Areta, Luar": 50,
+    "Beraza Petriati, Amaiur": 31,
+    "Vergara Iraola, Iker": 27,
+    "Goñi Goikoa, Aimar": 90,
+    "Pereira Alonso, Sebastián matias": 72,
+    "Zazu Donazar, Beñat": 90,
+    "VASQUEZ CARRION, XABI EDU": 57,
+    "Quintanilla Goicoecheandia, Iker": 90,
+    "Gomez Algaba, Aitor": 90,
+    "Cayon Delgado, Unai": 90,
+    "PEREZ ARAGUAS, XAVIER": 90,
+    "Iriarte Perez De Urabayen, Alex": 40,
+    "Oroz Lazcano, Oinatz": 54,
+    "Ocaña De Miguel, Alvaro": 54,
+    "MALLA BENITEZ, ERIK JEREMI": 50,
+    "Azanza Viana, Mikel": 36,
+    "Ivanov Miroslav, Ivaylov": 36,
+    "Alzueta Infante, Ekaitz": 33,
+    "Nafli Benosmane, Ilyes": 18
+  },
+  "portero_local": "MARTIARENA VALENCIA, ENAITZ",
+  "portero_visitante": "Goñi Goikoa, Aimar",
+  "dorsales_local": {
+    "MARTIARENA VALENCIA, ENAITZ": 13,
+    "HAMDI YOUSFI, ADAM": 23,
+    "Lizarraga Beraza, Adur": 24,
+    "Celaya Huarte, Mikel": 26,
+    "YEREGUI CARRETERO, OIHAN": 28,
+    "ECHAVARRI BERASTEGUI, XABIER": 29,
+    "Perez Cordero, Alain": 30,
+    "Gomez Mundiñano, Oier": 31,
+    "Razkin Igoa, Ion": 32,
+    "Mendinueta PEREZ DE VILLARREAL, UNAX": 35,
+    "Apaolaza Delgado, Asier": 36
+  },
+  "dorsales_visitante": {
+    "Goñi Goikoa, Aimar": 13,
+    "Pereira Alonso, Sebastián matias": 2,
+    "Zazu Donazar, Beñat": 3,
+    "VASQUEZ CARRION, XABI EDU": 4,
+    "Quintanilla Goicoecheandia, Iker": 5,
+    "Gomez Algaba, Aitor": 7,
+    "Cayon Delgado, Unai": 8,
+    "PEREZ ARAGUAS, XAVIER": 9,
+    "Iriarte Perez De Urabayen, Alex": 10,
+    "Oroz Lazcano, Oinatz": 14,
+    "Ocaña De Miguel, Alvaro": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
