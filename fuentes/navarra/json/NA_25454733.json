@@ -1,0 +1,299 @@
+{
+  "acta_id": "NA_25454733",
+  "filename": "Acta_NA_25454733.txt",
+  "fuente": "navarra",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "11:15",
+  "categoria": "Primera Preferente Juvenil (Grupo 2º)",
+  "equipo_local": "Rotxapea C.D.",
+  "equipo_visitante": "C.D. San Cernin",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "Legarra Gorgoñon, Gaizka"
+  ],
+  "estadio": "El Irati",
+  "ciudad": "Pamplona",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "Gastaminza Gracia, Mikel",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "Castro Dufur, Mateo",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "Goikoetxea Bengoetxea, Iñigo",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "Labiano Urdániz, Mateo",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 21,
+      "jugador": "Urtiaga Zabalza, Iker",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "Castro Dufur, Mateo",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "C.D. San Cernin",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CARAZAS PINTO, RICHARD ABEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "AMEZTOY MELÓN, DIEGO",
+  "titulares_local": [
+    "De Los Llanos Otxotorena, Jon",
+    "Espatolero Iriarte, Iñaki",
+    "Callejon De Lara, Pablo",
+    "Macaya Martinez, Ander",
+    "Castro Dufur, Mateo",
+    "San Julian Abrego, FRANCISCO JAVIER",
+    "Urtiaga Zabalza, Iker",
+    "Fortun Alonso, Juan",
+    "Egaña Taboada, Ibai",
+    "Etxaide Arenaza, Joseba",
+    "Ruiz Marin, Aitor"
+  ],
+  "titulares_visitante": [
+    "Arístegui Fernández, Javier",
+    "Etayo Tajadura, David",
+    "Jones Monge, Eduardo",
+    "Anaut MARRADES, Iñigo",
+    "López Rezusta, Iñigo",
+    "Gastaminza Gracia, Mikel",
+    "Suarez Garcia Lanz, Jacinto",
+    "Gaston Perez, Nicolas",
+    "Zozaya Uribe, Iñaki",
+    "Ameztoy Melon, Iñigo",
+    "Ochoa Beorlegui, Miguel"
+  ],
+  "suplentes_local": [
+    "Muñoz Lezaun, Asier",
+    "Minondo Astiz, Martín",
+    "Perez Gil, Alejandro",
+    "FRANCO VERA, LAUTARO LEONEL",
+    "Goikoetxea Bengoetxea, Fermin",
+    "Goikoetxea Bengoetxea, Iñigo",
+    "Boutaleb Zeroual, Sami"
+  ],
+  "suplentes_visitante": [
+    "Labiano Urdániz, Mateo",
+    "Pereyra Mongelos, Nicolás",
+    "De Prada Elia, Igor",
+    "Mallavibarrena Mallen, Gonzalo",
+    "Artieda Martín, Lucas",
+    "Lorca Madrid, Miguel",
+    "Collantes Gladkow, Carlos"
+  ],
+  "convocados_sin_jugar_local": [
+    "Muñoz Lezaun, Asier",
+    "Minondo Astiz, Martín"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "De Los Llanos Otxotorena, Jon",
+    "Espatolero Iriarte, Iñaki",
+    "Callejon De Lara, Pablo",
+    "Macaya Martinez, Ander",
+    "Castro Dufur, Mateo",
+    "San Julian Abrego, FRANCISCO JAVIER",
+    "Urtiaga Zabalza, Iker",
+    "Fortun Alonso, Juan",
+    "Egaña Taboada, Ibai",
+    "Etxaide Arenaza, Joseba",
+    "Ruiz Marin, Aitor",
+    "Perez Gil, Alejandro",
+    "Goikoetxea Bengoetxea, Iñigo",
+    "Goikoetxea Bengoetxea, Fermin",
+    "Boutaleb Zeroual, Sami",
+    "FRANCO VERA, LAUTARO LEONEL"
+  ],
+  "jugadores_visitante": [
+    "Arístegui Fernández, Javier",
+    "Etayo Tajadura, David",
+    "Jones Monge, Eduardo",
+    "Anaut MARRADES, Iñigo",
+    "López Rezusta, Iñigo",
+    "Gastaminza Gracia, Mikel",
+    "Suarez Garcia Lanz, Jacinto",
+    "Gaston Perez, Nicolas",
+    "Zozaya Uribe, Iñaki",
+    "Ameztoy Melon, Iñigo",
+    "Ochoa Beorlegui, Miguel",
+    "De Prada Elia, Igor",
+    "Collantes Gladkow, Carlos",
+    "Pereyra Mongelos, Nicolás",
+    "Mallavibarrena Mallen, Gonzalo",
+    "Artieda Martín, Lucas",
+    "Lorca Madrid, Miguel",
+    "Labiano Urdániz, Mateo"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "Perez Gil, Alejandro",
+      "sale": "Egaña Taboada, Ibai"
+    },
+    {
+      "min": 69,
+      "entra": "Goikoetxea Bengoetxea, Iñigo",
+      "sale": "Espatolero Iriarte, Iñaki"
+    },
+    {
+      "min": 69,
+      "entra": "Goikoetxea Bengoetxea, Fermin",
+      "sale": "Fortun Alonso, Juan"
+    },
+    {
+      "min": 85,
+      "entra": "Boutaleb Zeroual, Sami",
+      "sale": "Urtiaga Zabalza, Iker"
+    },
+    {
+      "min": 85,
+      "entra": "FRANCO VERA, LAUTARO LEONEL",
+      "sale": "Castro Dufur, Mateo"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "De Prada Elia, Igor",
+      "sale": "Jones Monge, Eduardo"
+    },
+    {
+      "min": 56,
+      "entra": "Collantes Gladkow, Carlos",
+      "sale": "Gaston Perez, Nicolas"
+    },
+    {
+      "min": 63,
+      "entra": "Pereyra Mongelos, Nicolás",
+      "sale": "Ameztoy Melon, Iñigo"
+    },
+    {
+      "min": 63,
+      "entra": "Mallavibarrena Mallen, Gonzalo",
+      "sale": "Gastaminza Gracia, Mikel"
+    },
+    {
+      "min": 77,
+      "entra": "Artieda Martín, Lucas",
+      "sale": "Etayo Tajadura, David"
+    },
+    {
+      "min": 77,
+      "entra": "Lorca Madrid, Miguel",
+      "sale": "Ochoa Beorlegui, Miguel"
+    },
+    {
+      "min": 77,
+      "entra": "Labiano Urdániz, Mateo",
+      "sale": "Suarez Garcia Lanz, Jacinto"
+    }
+  ],
+  "minutos_jugadores": {
+    "De Los Llanos Otxotorena, Jon": 90,
+    "Espatolero Iriarte, Iñaki": 69,
+    "Callejon De Lara, Pablo": 90,
+    "Macaya Martinez, Ander": 90,
+    "Castro Dufur, Mateo": 85,
+    "San Julian Abrego, FRANCISCO JAVIER": 90,
+    "Urtiaga Zabalza, Iker": 85,
+    "Fortun Alonso, Juan": 69,
+    "Egaña Taboada, Ibai": 59,
+    "Etxaide Arenaza, Joseba": 90,
+    "Ruiz Marin, Aitor": 90,
+    "Perez Gil, Alejandro": 31,
+    "Goikoetxea Bengoetxea, Iñigo": 21,
+    "Goikoetxea Bengoetxea, Fermin": 21,
+    "Boutaleb Zeroual, Sami": 5,
+    "FRANCO VERA, LAUTARO LEONEL": 5,
+    "Arístegui Fernández, Javier": 90,
+    "Etayo Tajadura, David": 77,
+    "Jones Monge, Eduardo": 56,
+    "Anaut MARRADES, Iñigo": 90,
+    "López Rezusta, Iñigo": 90,
+    "Gastaminza Gracia, Mikel": 63,
+    "Suarez Garcia Lanz, Jacinto": 77,
+    "Gaston Perez, Nicolas": 56,
+    "Zozaya Uribe, Iñaki": 90,
+    "Ameztoy Melon, Iñigo": 63,
+    "Ochoa Beorlegui, Miguel": 77,
+    "De Prada Elia, Igor": 34,
+    "Collantes Gladkow, Carlos": 34,
+    "Pereyra Mongelos, Nicolás": 27,
+    "Mallavibarrena Mallen, Gonzalo": 27,
+    "Artieda Martín, Lucas": 13,
+    "Lorca Madrid, Miguel": 13,
+    "Labiano Urdániz, Mateo": 13
+  },
+  "portero_local": "De Los Llanos Otxotorena, Jon",
+  "portero_visitante": "Arístegui Fernández, Javier",
+  "dorsales_local": {
+    "De Los Llanos Otxotorena, Jon": 13,
+    "Espatolero Iriarte, Iñaki": 3,
+    "Callejon De Lara, Pablo": 4,
+    "Macaya Martinez, Ander": 5,
+    "Castro Dufur, Mateo": 6,
+    "San Julian Abrego, FRANCISCO JAVIER": 9,
+    "Urtiaga Zabalza, Iker": 10,
+    "Fortun Alonso, Juan": 11,
+    "Egaña Taboada, Ibai": 20,
+    "Etxaide Arenaza, Joseba": 21,
+    "Ruiz Marin, Aitor": 22
+  },
+  "dorsales_visitante": {
+    "Arístegui Fernández, Javier": 1,
+    "Etayo Tajadura, David": 2,
+    "Jones Monge, Eduardo": 4,
+    "Anaut MARRADES, Iñigo": 5,
+    "López Rezusta, Iñigo": 7,
+    "Gastaminza Gracia, Mikel": 9,
+    "Suarez Garcia Lanz, Jacinto": 10,
+    "Gaston Perez, Nicolas": 14,
+    "Zozaya Uribe, Iñaki": 18,
+    "Ameztoy Melon, Iñigo": 22,
+    "Ochoa Beorlegui, Miguel": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
