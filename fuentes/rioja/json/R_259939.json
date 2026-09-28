@@ -1,0 +1,359 @@
+{
+  "acta_id": "R_259939",
+  "filename": "Acta_R_259939.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "16:00",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "COMILLAS",
+  "equipo_visitante": "RIVER EBRO",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "COVALEDA NAVARRO, HUGO",
+    "Árbitro Asistente",
+    "COSANO CUESTA, JUAN JOSÉ",
+    "Árbitro Asistente",
+    "CUEVAS GARZON, DAVID"
+  ],
+  "estadio": "C.M. EL SALVADOR-GONZALO ESPINOSA - H.A. (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "ESTEFANIA MARTINEZ, MAURO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "DELGADO SALVADOR, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "PEREZ RUIZ, RAFAEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "GOMEZ LOPEZ, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "SOLA ARCALÁ, FELIX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "DELGADO SALVADOR, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "COULIBALY KONE, ALOU",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "GOMEZ LOPEZ, ANGEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "SANCHEZ ARELLANO, FABIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "RIDRUEJO TREVIJANO, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "RIVER EBRO",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 22,
+      "jugador": "PEREZ MERLE, ALEX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "MATUTE ESCALADA, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "MALO GUTIERREZ, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "PEREZ RUIZ, RAFAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "SOLA ARCALÁ, FELIX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "DAYFOLLAH EL ATIFI, ADAM",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GODOY SAN JOSE, IVAN",
+  "entrenador_visitante": "MUÑOZ LOPEZ, ALVARO",
+  "segundo_entrenador_local": "MUÑOZ ANSO, JAIME",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DIAZ PEREZ, ANGEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ PEREZ, JOSE MARIA",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RIDRUEJO TREVIJANO, ALEJANDRO",
+    "COULIBALY KONE, ALOU",
+    "GOMEZ LOPEZ, ANGEL",
+    "MESQUITA FERNANDEZ, HUGO",
+    "PALACIOS ESTEBAN, PABLO",
+    "ESTEFANIA MARTINEZ, MAURO",
+    "CASADO PEREZ, IKER",
+    "DELGADO CAZORLA, ANDER",
+    "GUIJARRO DIEZ, DAVID HA",
+    "BARINAGA MAS, MARCOS",
+    "BETEAR TODORAN, CHRISTIAN"
+  ],
+  "titulares_visitante": [
+    "VALLS PASTOR, IKER",
+    "JIMENEZ LORENTE, LUCAS",
+    "CHACON HERNANDEZ, JOSE",
+    "PEREZ MERLE, ALEX",
+    "DELGADO SALVADOR, ADRIAN",
+    "MALO GUTIERREZ, DIEGO",
+    "PEREZ RUIZ, RAFAEL",
+    "LATORRE HERNANDEZ, GERMAN",
+    "MATUTE ESCALADA, IKER",
+    "SCANDOLA SAINZ, ALBERTO",
+    "SOLA ARCALÁ, FELIX"
+  ],
+  "suplentes_local": [
+    "LOPEZ SANTANDER, MATEO",
+    "GANDARA PEREZ, ASIER",
+    "EZQUERRO CALLE, GONZALO",
+    "PASCUAL VAZQUEZ, JULIO",
+    "FALLANZA CRESPO, LUIS",
+    "SANCHEZ ARELLANO, FABIO",
+    "MARTINEZ ARAGON, BRUNO"
+  ],
+  "suplentes_visitante": [
+    "PEREZ GIL, FABIO",
+    "SOLANO RUIZ, MARTIN",
+    "PARDO MATUTE, HUGO",
+    "PAUL LAZARO, ELIAS",
+    "HASSIOUI EL BOUABDELLAOUI, ISMAIL",
+    "DAYFOLLAH EL ATIFI, ADAM"
+  ],
+  "convocados_sin_jugar_local": [
+    "LOPEZ SANTANDER, MATEO",
+    "GANDARA PEREZ, ASIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PEREZ GIL, FABIO"
+  ],
+  "jugadores_local": [
+    "RIDRUEJO TREVIJANO, ALEJANDRO",
+    "COULIBALY KONE, ALOU",
+    "GOMEZ LOPEZ, ANGEL",
+    "MESQUITA FERNANDEZ, HUGO",
+    "PALACIOS ESTEBAN, PABLO",
+    "ESTEFANIA MARTINEZ, MAURO",
+    "CASADO PEREZ, IKER",
+    "DELGADO CAZORLA, ANDER",
+    "GUIJARRO DIEZ, DAVID HA",
+    "BARINAGA MAS, MARCOS",
+    "BETEAR TODORAN, CHRISTIAN",
+    "MARTINEZ ARAGON, BRUNO",
+    "SANCHEZ ARELLANO, FABIO",
+    "PASCUAL VAZQUEZ, JULIO",
+    "EZQUERRO CALLE, GONZALO",
+    "FALLANZA CRESPO, LUIS"
+  ],
+  "jugadores_visitante": [
+    "VALLS PASTOR, IKER",
+    "JIMENEZ LORENTE, LUCAS",
+    "CHACON HERNANDEZ, JOSE",
+    "PEREZ MERLE, ALEX",
+    "DELGADO SALVADOR, ADRIAN",
+    "MALO GUTIERREZ, DIEGO",
+    "PEREZ RUIZ, RAFAEL",
+    "LATORRE HERNANDEZ, GERMAN",
+    "MATUTE ESCALADA, IKER",
+    "SCANDOLA SAINZ, ALBERTO",
+    "SOLA ARCALÁ, FELIX",
+    "DAYFOLLAH EL ATIFI, ADAM",
+    "HASSIOUI EL BOUABDELLAOUI, ISMAIL",
+    "PARDO MATUTE, HUGO",
+    "SOLANO RUIZ, MARTIN",
+    "PAUL LAZARO, ELIAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "MARTINEZ ARAGON, BRUNO",
+      "sale": "GOMEZ LOPEZ, ANGEL"
+    },
+    {
+      "min": 59,
+      "entra": "SANCHEZ ARELLANO, FABIO",
+      "sale": "CASADO PEREZ, IKER"
+    },
+    {
+      "min": 66,
+      "entra": "PASCUAL VAZQUEZ, JULIO",
+      "sale": "GUIJARRO DIEZ, DAVID HA"
+    },
+    {
+      "min": 75,
+      "entra": "EZQUERRO CALLE, GONZALO",
+      "sale": "COULIBALY KONE, ALOU"
+    },
+    {
+      "min": 75,
+      "entra": "FALLANZA CRESPO, LUIS",
+      "sale": "MESQUITA FERNANDEZ, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "DAYFOLLAH EL ATIFI, ADAM",
+      "sale": "JIMENEZ LORENTE, LUCAS"
+    },
+    {
+      "min": 68,
+      "entra": "HASSIOUI EL BOUABDELLAOUI, ISMAIL",
+      "sale": "PEREZ MERLE, ALEX"
+    },
+    {
+      "min": 68,
+      "entra": "PARDO MATUTE, HUGO",
+      "sale": "MATUTE ESCALADA, IKER"
+    },
+    {
+      "min": 81,
+      "entra": "SOLANO RUIZ, MARTIN",
+      "sale": "PEREZ RUIZ, RAFAEL"
+    },
+    {
+      "min": 81,
+      "entra": "PAUL LAZARO, ELIAS",
+      "sale": "SOLA ARCALÁ, FELIX"
+    }
+  ],
+  "minutos_jugadores": {
+    "RIDRUEJO TREVIJANO, ALEJANDRO": 90,
+    "COULIBALY KONE, ALOU": 75,
+    "GOMEZ LOPEZ, ANGEL": 59,
+    "MESQUITA FERNANDEZ, HUGO": 75,
+    "PALACIOS ESTEBAN, PABLO": 90,
+    "ESTEFANIA MARTINEZ, MAURO": 90,
+    "CASADO PEREZ, IKER": 59,
+    "DELGADO CAZORLA, ANDER": 90,
+    "GUIJARRO DIEZ, DAVID HA": 66,
+    "BARINAGA MAS, MARCOS": 90,
+    "BETEAR TODORAN, CHRISTIAN": 90,
+    "MARTINEZ ARAGON, BRUNO": 31,
+    "SANCHEZ ARELLANO, FABIO": 31,
+    "PASCUAL VAZQUEZ, JULIO": 24,
+    "EZQUERRO CALLE, GONZALO": 15,
+    "FALLANZA CRESPO, LUIS": 15,
+    "VALLS PASTOR, IKER": 90,
+    "JIMENEZ LORENTE, LUCAS": 54,
+    "CHACON HERNANDEZ, JOSE": 90,
+    "PEREZ MERLE, ALEX": 68,
+    "DELGADO SALVADOR, ADRIAN": 90,
+    "MALO GUTIERREZ, DIEGO": 90,
+    "PEREZ RUIZ, RAFAEL": 81,
+    "LATORRE HERNANDEZ, GERMAN": 90,
+    "MATUTE ESCALADA, IKER": 68,
+    "SCANDOLA SAINZ, ALBERTO": 90,
+    "SOLA ARCALÁ, FELIX": 81,
+    "DAYFOLLAH EL ATIFI, ADAM": 36,
+    "HASSIOUI EL BOUABDELLAOUI, ISMAIL": 22,
+    "PARDO MATUTE, HUGO": 22,
+    "SOLANO RUIZ, MARTIN": 9,
+    "PAUL LAZARO, ELIAS": 9
+  },
+  "portero_local": "RIDRUEJO TREVIJANO, ALEJANDRO",
+  "portero_visitante": "VALLS PASTOR, IKER",
+  "dorsales_local": {
+    "RIDRUEJO TREVIJANO, ALEJANDRO": 1,
+    "COULIBALY KONE, ALOU": 3,
+    "GOMEZ LOPEZ, ANGEL": 5,
+    "MESQUITA FERNANDEZ, HUGO": 6,
+    "PALACIOS ESTEBAN, PABLO": 10,
+    "ESTEFANIA MARTINEZ, MAURO": 11,
+    "CASADO PEREZ, IKER": 17,
+    "DELGADO CAZORLA, ANDER": 18,
+    "GUIJARRO DIEZ, DAVID HA": 20,
+    "BARINAGA MAS, MARCOS": 21,
+    "BETEAR TODORAN, CHRISTIAN": 22
+  },
+  "dorsales_visitante": {
+    "VALLS PASTOR, IKER": 13,
+    "JIMENEZ LORENTE, LUCAS": 2,
+    "CHACON HERNANDEZ, JOSE": 3,
+    "PEREZ MERLE, ALEX": 4,
+    "DELGADO SALVADOR, ADRIAN": 7,
+    "MALO GUTIERREZ, DIEGO": 8,
+    "PEREZ RUIZ, RAFAEL": 10,
+    "LATORRE HERNANDEZ, GERMAN": 11,
+    "MATUTE ESCALADA, IKER": 18,
+    "SCANDOLA SAINZ, ALBERTO": 21,
+    "SOLA ARCALÁ, FELIX": 22
+  },
+  "suspendidos": []
+}
