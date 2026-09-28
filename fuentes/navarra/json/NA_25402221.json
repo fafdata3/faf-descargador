@@ -1,0 +1,272 @@
+{
+  "acta_id": "NA_25402221",
+  "filename": "Acta_NA_25402221.txt",
+  "fuente": "navarra",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "27-10-2024",
+  "hora": "12:15",
+  "categoria": "Segunda Cadete - Juegos Deportivos de Navarra (Grupo 6º)",
+  "equipo_local": "Berriozar C.F. A",
+  "equipo_visitante": "C.D. Lezkairu A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "Ibáñez Barco, Haritz"
+  ],
+  "estadio": "Municipal de Berriozar",
+  "ciudad": "Berriozar",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "Oliver Ibañez, Aser",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "Ramirez Beaumont, Oihan",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "Larrarte Tanco, Mikel",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 78,
+      "jugador": "Santamaria Abiol, Iker",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 78,
+      "jugador": "C.D. Lezkairu A",
+      "equipo": "?",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "Santamaria Abiol, Iker",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "Luquin Hernandez, Jose Javier",
+  "delegado_equipo_visitante": "Idiaquez Garcia, Gaizka",
+  "titulares_local": [
+    "Vigo Erdociain, Asier",
+    "De Carlos Iraizoz, Xabier",
+    "Sanz Nuin, Julen",
+    "Luquin Abiol, David",
+    "Ramirez Orduna, Asier",
+    "Ramirez Beaumont, Oihan",
+    "Zandio Latasa, Jon",
+    "Oliver Ibañez, Aser",
+    "Larrarte Tanco, Mikel",
+    "Martinez Torrecillas, Ander",
+    "Urbieta Apesteguia, Asier"
+  ],
+  "titulares_visitante": [
+    "Aiyamasebie Joseph, Endurance Osahenwumwen",
+    "Jimenez Ruiz, Pablo",
+    "Saenz Velez, Ibon",
+    "Alaez Sola, Martin",
+    "Zozaya Rodriguez, IÑIGO",
+    "Ramirez Alvarez, ADUR",
+    "Espatolero Iriarte, Iñaki",
+    "Echaide Arenaza, Ander",
+    "Ferrero Archanco, Tasio",
+    "Calvo Aylagas, Alex",
+    "Alaminos Olcoz, Alejandro"
+  ],
+  "suplentes_local": [
+    "Salanueva Galvez, Jose Miguel",
+    "Mikunda Ceron, Diego Aimar",
+    "Elustondo Iriarte, Garai",
+    "Larrasoain Urroz, Oihan",
+    "HEREDIA PEDROSA, EGOI"
+  ],
+  "suplentes_visitante": [
+    "Guerrero Oreja, Juan",
+    "Sanz Ochoa, Dani",
+    "Lacunza Iribarren, Iñaki",
+    "Garces Braco, Mikel Aritza",
+    "Perez Solana, JURDAN",
+    "Perez Burtsev, Erik"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "Vigo Erdociain, Asier",
+    "De Carlos Iraizoz, Xabier",
+    "Sanz Nuin, Julen",
+    "Luquin Abiol, David",
+    "Ramirez Orduna, Asier",
+    "Ramirez Beaumont, Oihan",
+    "Zandio Latasa, Jon",
+    "Oliver Ibañez, Aser",
+    "Larrarte Tanco, Mikel",
+    "Martinez Torrecillas, Ander",
+    "Urbieta Apesteguia, Asier",
+    "Salanueva Galvez, Jose Miguel",
+    "Mikunda Ceron, Diego Aimar",
+    "HEREDIA PEDROSA, EGOI",
+    "Larrasoain Urroz, Oihan",
+    "Elustondo Iriarte, Garai"
+  ],
+  "jugadores_visitante": [
+    "Aiyamasebie Joseph, Endurance Osahenwumwen",
+    "Jimenez Ruiz, Pablo",
+    "Saenz Velez, Ibon",
+    "Alaez Sola, Martin",
+    "Zozaya Rodriguez, IÑIGO",
+    "Ramirez Alvarez, ADUR",
+    "Espatolero Iriarte, Iñaki",
+    "Echaide Arenaza, Ander",
+    "Ferrero Archanco, Tasio",
+    "Calvo Aylagas, Alex",
+    "Alaminos Olcoz, Alejandro",
+    "Perez Burtsev, Erik",
+    "Guerrero Oreja, Juan",
+    "Sanz Ochoa, Dani",
+    "Garces Braco, Mikel Aritza",
+    "Perez Solana, JURDAN",
+    "Lacunza Iribarren, Iñaki"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "Salanueva Galvez, Jose Miguel",
+      "sale": "Martinez Torrecillas, Ander"
+    },
+    {
+      "min": 52,
+      "entra": "Mikunda Ceron, Diego Aimar",
+      "sale": "De Carlos Iraizoz, Xabier"
+    },
+    {
+      "min": 52,
+      "entra": "HEREDIA PEDROSA, EGOI",
+      "sale": "Oliver Ibañez, Aser"
+    },
+    {
+      "min": 62,
+      "entra": "Larrasoain Urroz, Oihan",
+      "sale": "Luquin Abiol, David"
+    },
+    {
+      "min": 70,
+      "entra": "Elustondo Iriarte, Garai",
+      "sale": "Larrarte Tanco, Mikel"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 25,
+      "entra": "Perez Burtsev, Erik",
+      "sale": "Calvo Aylagas, Alex"
+    },
+    {
+      "min": 25,
+      "entra": "Guerrero Oreja, Juan",
+      "sale": "Zozaya Rodriguez, IÑIGO"
+    },
+    {
+      "min": 40,
+      "entra": "Sanz Ochoa, Dani",
+      "sale": "Alaez Sola, Martin"
+    },
+    {
+      "min": 40,
+      "entra": "Garces Braco, Mikel Aritza",
+      "sale": "Ramirez Alvarez, ADUR"
+    },
+    {
+      "min": 58,
+      "entra": "Perez Solana, JURDAN",
+      "sale": "Ferrero Archanco, Tasio"
+    },
+    {
+      "min": 58,
+      "entra": "Lacunza Iribarren, Iñaki",
+      "sale": "Espatolero Iriarte, Iñaki"
+    }
+  ],
+  "minutos_jugadores": {
+    "Vigo Erdociain, Asier": 90,
+    "De Carlos Iraizoz, Xabier": 52,
+    "Sanz Nuin, Julen": 90,
+    "Luquin Abiol, David": 62,
+    "Ramirez Orduna, Asier": 90,
+    "Ramirez Beaumont, Oihan": 90,
+    "Zandio Latasa, Jon": 90,
+    "Oliver Ibañez, Aser": 52,
+    "Larrarte Tanco, Mikel": 70,
+    "Martinez Torrecillas, Ander": 40,
+    "Urbieta Apesteguia, Asier": 90,
+    "Salanueva Galvez, Jose Miguel": 50,
+    "Mikunda Ceron, Diego Aimar": 38,
+    "HEREDIA PEDROSA, EGOI": 38,
+    "Larrasoain Urroz, Oihan": 28,
+    "Elustondo Iriarte, Garai": 20,
+    "Aiyamasebie Joseph, Endurance Osahenwumwen": 90,
+    "Jimenez Ruiz, Pablo": 90,
+    "Saenz Velez, Ibon": 90,
+    "Alaez Sola, Martin": 40,
+    "Zozaya Rodriguez, IÑIGO": 25,
+    "Ramirez Alvarez, ADUR": 40,
+    "Espatolero Iriarte, Iñaki": 58,
+    "Echaide Arenaza, Ander": 90,
+    "Ferrero Archanco, Tasio": 58,
+    "Calvo Aylagas, Alex": 25,
+    "Alaminos Olcoz, Alejandro": 90,
+    "Perez Burtsev, Erik": 65,
+    "Guerrero Oreja, Juan": 65,
+    "Sanz Ochoa, Dani": 50,
+    "Garces Braco, Mikel Aritza": 50,
+    "Perez Solana, JURDAN": 32,
+    "Lacunza Iribarren, Iñaki": 32
+  },
+  "portero_local": "Vigo Erdociain, Asier",
+  "portero_visitante": "Aiyamasebie Joseph, Endurance Osahenwumwen",
+  "dorsales_local": {
+    "Vigo Erdociain, Asier": 1,
+    "De Carlos Iraizoz, Xabier": 2,
+    "Sanz Nuin, Julen": 3,
+    "Luquin Abiol, David": 4,
+    "Ramirez Orduna, Asier": 5,
+    "Ramirez Beaumont, Oihan": 6,
+    "Zandio Latasa, Jon": 7,
+    "Oliver Ibañez, Aser": 8,
+    "Larrarte Tanco, Mikel": 10,
+    "Martinez Torrecillas, Ander": 14,
+    "Urbieta Apesteguia, Asier": 18
+  },
+  "dorsales_visitante": {
+    "Aiyamasebie Joseph, Endurance Osahenwumwen": 1,
+    "Jimenez Ruiz, Pablo": 2,
+    "Saenz Velez, Ibon": 3,
+    "Alaez Sola, Martin": 5,
+    "Zozaya Rodriguez, IÑIGO": 7,
+    "Ramirez Alvarez, ADUR": 8,
+    "Espatolero Iriarte, Iñaki": 9,
+    "Echaide Arenaza, Ander": 11,
+    "Ferrero Archanco, Tasio": 12,
+    "Calvo Aylagas, Alex": 18,
+    "Alaminos Olcoz, Alejandro": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
