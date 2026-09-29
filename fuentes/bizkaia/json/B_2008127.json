@@ -1,0 +1,261 @@
+{
+  "acta_id": "B_2008127",
+  "filename": "Acta_B_2008127.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "09-11-2024",
+  "hora": "20:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "RETUERTO B",
+  "equipo_visitante": "SPORTING DE LUTXANA A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "IZQUIERDO FRAGA, AITOR"
+  ],
+  "estadio": "IBARRETA",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "ORTIZ LAGO, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 33,
+      "jugador": "FERNANDEZ BIDAURRAZAGA, XABIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "ORTIZ LAGO, UNAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "CONDE PRIETO, EGOITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "LOPEZ LAGO, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "LIRA GONZALEZ, AIMAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PIÑEIRO ARAMAIONA, PABLO",
+  "entrenador_visitante": "GARRIDO COSTA, GAIZKA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FRANCES ASSIS, IGNACIO",
+  "delegado_equipo_visitante": "ZUAZO IGLESIAS, IÑIGO",
+  "titulares_local": [
+    "SANCHEZ SANTISTEBAN, ALEJANDRO",
+    "FERNANDEZ BIDAURRAZAGA, XABIER",
+    "MARIJUAN FERRUZ, MARKEL",
+    "CANO MOLEDO, ENDIKA",
+    "VICENTE ESTEBANEZ, IBAI",
+    "SANZ AYALA, ENDIKA",
+    "MUÑOZ RODRIGUEZ, ADRIAN",
+    "FERRERO BEOBIDE, OIER",
+    "MONTERO BORDALLO, ALAIN",
+    "CANTERO GIL, ERIK",
+    "RODRIGUEZ MELENDO, JON"
+  ],
+  "titulares_visitante": [
+    "ARROYO SORLI, ETHANIEL",
+    "CONDE PRIETO, EGOITZ",
+    "GOMEZ LOPEZ, ANDER",
+    "SANCHEZ FIKA, JOSU",
+    "SANCHEZ QUINTAS, AITOR",
+    "LIRA GONZALEZ, AIMAR",
+    "ORTIZ LAGO, UNAI",
+    "JAZOULI EL GHAZI, HOUSSAM",
+    "OLIVA BERNAL, UNAX",
+    "VELASQUEZ GODOY, STEFANO RAFAEL",
+    "ROMERO ANGULO, ALEXIS SANTIAGO"
+  ],
+  "suplentes_local": [
+    "IBARRA FERNANDEZ, XABIER",
+    "NOURI ASSDIR, MOHAMED REDA",
+    "MENENDEZ VALLE, ERLANTZ",
+    "PEREZ ESPADA, MARTIN",
+    "HERNANDEZ SANZ, HODEI",
+    "GONZALEZ RUIZ, AITZOL",
+    "MENDOZA DE TRINCHERIA, MIKEL"
+  ],
+  "suplentes_visitante": [
+    "ROMERO PEREZ, MIKEL",
+    "MONTES SANGRONIZ, ASIER",
+    "LOPEZ LAGO, ANDER",
+    "ASTIASO SANCHEZ, MIKEL",
+    "SORIANO CARPINTERO, IORITZ",
+    "LOPEZ CARRASCO, DANEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "NOURI ASSDIR, MOHAMED REDA",
+    "MENDOZA DE TRINCHERIA, MIKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MONTES SANGRONIZ, ASIER",
+    "ASTIASO SANCHEZ, MIKEL",
+    "SORIANO CARPINTERO, IORITZ",
+    "LOPEZ CARRASCO, DANEL"
+  ],
+  "jugadores_local": [
+    "SANCHEZ SANTISTEBAN, ALEJANDRO",
+    "FERNANDEZ BIDAURRAZAGA, XABIER",
+    "MARIJUAN FERRUZ, MARKEL",
+    "CANO MOLEDO, ENDIKA",
+    "VICENTE ESTEBANEZ, IBAI",
+    "SANZ AYALA, ENDIKA",
+    "MUÑOZ RODRIGUEZ, ADRIAN",
+    "FERRERO BEOBIDE, OIER",
+    "MONTERO BORDALLO, ALAIN",
+    "CANTERO GIL, ERIK",
+    "RODRIGUEZ MELENDO, JON",
+    "GONZALEZ RUIZ, AITZOL",
+    "MENENDEZ VALLE, ERLANTZ",
+    "PEREZ ESPADA, MARTIN",
+    "HERNANDEZ SANZ, HODEI",
+    "IBARRA FERNANDEZ, XABIER"
+  ],
+  "jugadores_visitante": [
+    "ARROYO SORLI, ETHANIEL",
+    "CONDE PRIETO, EGOITZ",
+    "GOMEZ LOPEZ, ANDER",
+    "SANCHEZ FIKA, JOSU",
+    "SANCHEZ QUINTAS, AITOR",
+    "LIRA GONZALEZ, AIMAR",
+    "ORTIZ LAGO, UNAI",
+    "JAZOULI EL GHAZI, HOUSSAM",
+    "OLIVA BERNAL, UNAX",
+    "VELASQUEZ GODOY, STEFANO RAFAEL",
+    "ROMERO ANGULO, ALEXIS SANTIAGO",
+    "ROMERO PEREZ, MIKEL",
+    "LOPEZ LAGO, ANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "GONZALEZ RUIZ, AITZOL",
+      "sale": "FERNANDEZ BIDAURRAZAGA, XABIER"
+    },
+    {
+      "min": 41,
+      "entra": "MENENDEZ VALLE, ERLANTZ",
+      "sale": "CANTERO GIL, ERIK"
+    },
+    {
+      "min": 54,
+      "entra": "PEREZ ESPADA, MARTIN",
+      "sale": "MUÑOZ RODRIGUEZ, ADRIAN"
+    },
+    {
+      "min": 69,
+      "entra": "HERNANDEZ SANZ, HODEI",
+      "sale": "SANZ AYALA, ENDIKA"
+    },
+    {
+      "min": 73,
+      "entra": "IBARRA FERNANDEZ, XABIER",
+      "sale": "VICENTE ESTEBANEZ, IBAI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "ROMERO PEREZ, MIKEL",
+      "sale": "ROMERO ANGULO, ALEXIS SANTIAGO"
+    },
+    {
+      "min": 61,
+      "entra": "LOPEZ LAGO, ANDER",
+      "sale": "CONDE PRIETO, EGOITZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANCHEZ SANTISTEBAN, ALEJANDRO": 90,
+    "FERNANDEZ BIDAURRAZAGA, XABIER": 41,
+    "MARIJUAN FERRUZ, MARKEL": 90,
+    "CANO MOLEDO, ENDIKA": 90,
+    "VICENTE ESTEBANEZ, IBAI": 73,
+    "SANZ AYALA, ENDIKA": 69,
+    "MUÑOZ RODRIGUEZ, ADRIAN": 54,
+    "FERRERO BEOBIDE, OIER": 90,
+    "MONTERO BORDALLO, ALAIN": 90,
+    "CANTERO GIL, ERIK": 41,
+    "RODRIGUEZ MELENDO, JON": 90,
+    "GONZALEZ RUIZ, AITZOL": 49,
+    "MENENDEZ VALLE, ERLANTZ": 49,
+    "PEREZ ESPADA, MARTIN": 36,
+    "HERNANDEZ SANZ, HODEI": 21,
+    "IBARRA FERNANDEZ, XABIER": 17,
+    "ARROYO SORLI, ETHANIEL": 90,
+    "CONDE PRIETO, EGOITZ": 61,
+    "GOMEZ LOPEZ, ANDER": 90,
+    "SANCHEZ FIKA, JOSU": 90,
+    "SANCHEZ QUINTAS, AITOR": 90,
+    "LIRA GONZALEZ, AIMAR": 90,
+    "ORTIZ LAGO, UNAI": 90,
+    "JAZOULI EL GHAZI, HOUSSAM": 90,
+    "OLIVA BERNAL, UNAX": 90,
+    "VELASQUEZ GODOY, STEFANO RAFAEL": 90,
+    "ROMERO ANGULO, ALEXIS SANTIAGO": 54,
+    "ROMERO PEREZ, MIKEL": 36,
+    "LOPEZ LAGO, ANDER": 29
+  },
+  "portero_local": "SANCHEZ SANTISTEBAN, ALEJANDRO",
+  "portero_visitante": "ARROYO SORLI, ETHANIEL",
+  "dorsales_local": {
+    "SANCHEZ SANTISTEBAN, ALEJANDRO": 1,
+    "FERNANDEZ BIDAURRAZAGA, XABIER": 3,
+    "MARIJUAN FERRUZ, MARKEL": 5,
+    "CANO MOLEDO, ENDIKA": 6,
+    "VICENTE ESTEBANEZ, IBAI": 7,
+    "SANZ AYALA, ENDIKA": 9,
+    "MUÑOZ RODRIGUEZ, ADRIAN": 10,
+    "FERRERO BEOBIDE, OIER": 15,
+    "MONTERO BORDALLO, ALAIN": 17,
+    "CANTERO GIL, ERIK": 20,
+    "RODRIGUEZ MELENDO, JON": 22
+  },
+  "dorsales_visitante": {
+    "ARROYO SORLI, ETHANIEL": 1,
+    "CONDE PRIETO, EGOITZ": 2,
+    "GOMEZ LOPEZ, ANDER": 4,
+    "SANCHEZ FIKA, JOSU": 5,
+    "SANCHEZ QUINTAS, AITOR": 8,
+    "LIRA GONZALEZ, AIMAR": 10,
+    "ORTIZ LAGO, UNAI": 11,
+    "JAZOULI EL GHAZI, HOUSSAM": 14,
+    "OLIVA BERNAL, UNAX": 16,
+    "VELASQUEZ GODOY, STEFANO RAFAEL": 19,
+    "ROMERO ANGULO, ALEXIS SANTIAGO": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
