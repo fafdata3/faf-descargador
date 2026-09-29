@@ -1,0 +1,244 @@
+{
+  "acta_id": "C_193322",
+  "filename": "Acta_C_193322.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 33,
+  "fecha": "17-05-2025",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. LAREDO A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MARUGÁN MOYA, FRANCISCO JAVIER"
+  ],
+  "estadio": "Laredo 2",
+  "ciudad": "Laredo",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "SARABIA CAVIEDES, JANO ISIDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "SARABIA PARDO, ASIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "SARABIA CAVIEDES, JANO ISIDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "HERNÁNDEZ ÁLVAREZ, GAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CAGIGAS TABARES, ALBERTO",
+  "entrenador_visitante": "CICERO MONTES, RAFAEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ OSORIO, JORGE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ OSORIO, JORGE",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PIEDRA RUIZ, ASIER",
+    "RUEDA FONFRIA, DANIEL",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "SARABIA PARDO, ASIER",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "AGUILERA AGUILERA, DIEGO",
+    "LOPEZ DURAN, FABIO",
+    "COBO HERVELLA, GONZALO",
+    "FELICES VIVANCO, MARCO",
+    "POSTIGO MIGUEL, ALVARO"
+  ],
+  "titulares_visitante": [
+    "GRANDE SALVADOR, GAEL",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "NOVOA TARDÍO, HUGO",
+    "GONZALEZ BENITO, PABLO",
+    "ROBETA DIAZ, JORGE",
+    "CRUZADO CUESTA, FABIO",
+    "MARTINEZ PEREZ, MIGUEL",
+    "ROJO CANADELL, ALEJANDRO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "DIAZ DIAZ, GONZALO",
+    "GOMEZ CABIELLES, ALEJANDRO"
+  ],
+  "suplentes_local": [
+    "PELLON FUENTES, NICOLAS",
+    "HAZAS SANTOS, DENNIS",
+    "FERNANDEZ ARANCHETA, IZAN",
+    "MARSELLA GONZALEZ, MATEO",
+    "REVUELTA FERNÁNDEZ, NORBERTO"
+  ],
+  "suplentes_visitante": [
+    "VELATEGUI PRIETO, ADAN",
+    "MENENDEZ FERNANDEZ, OSCAR",
+    "RODRÍGUEZ LASO, KEVIN",
+    "VELARDE VEGA, HECTOR"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "VELATEGUI PRIETO, ADAN"
+  ],
+  "jugadores_local": [
+    "PIEDRA RUIZ, ASIER",
+    "RUEDA FONFRIA, DANIEL",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "SARABIA PARDO, ASIER",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "AGUILERA AGUILERA, DIEGO",
+    "LOPEZ DURAN, FABIO",
+    "COBO HERVELLA, GONZALO",
+    "FELICES VIVANCO, MARCO",
+    "POSTIGO MIGUEL, ALVARO",
+    "PELLON FUENTES, NICOLAS",
+    "FERNANDEZ ARANCHETA, IZAN",
+    "MARSELLA GONZALEZ, MATEO",
+    "HAZAS SANTOS, DENNIS",
+    "REVUELTA FERNÁNDEZ, NORBERTO"
+  ],
+  "jugadores_visitante": [
+    "GRANDE SALVADOR, GAEL",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "NOVOA TARDÍO, HUGO",
+    "GONZALEZ BENITO, PABLO",
+    "ROBETA DIAZ, JORGE",
+    "CRUZADO CUESTA, FABIO",
+    "MARTINEZ PEREZ, MIGUEL",
+    "ROJO CANADELL, ALEJANDRO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "DIAZ DIAZ, GONZALO",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "VELARDE VEGA, HECTOR",
+    "RODRÍGUEZ LASO, KEVIN",
+    "MENENDEZ FERNANDEZ, OSCAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "PELLON FUENTES, NICOLAS",
+      "sale": "PIEDRA RUIZ, ASIER"
+    },
+    {
+      "min": 54,
+      "entra": "FERNANDEZ ARANCHETA, IZAN",
+      "sale": "FELICES VIVANCO, MARCO"
+    },
+    {
+      "min": 54,
+      "entra": "MARSELLA GONZALEZ, MATEO",
+      "sale": "AGUILERA AGUILERA, DIEGO"
+    },
+    {
+      "min": 57,
+      "entra": "HAZAS SANTOS, DENNIS",
+      "sale": "POSTIGO MIGUEL, ALVARO"
+    },
+    {
+      "min": 57,
+      "entra": "REVUELTA FERNÁNDEZ, NORBERTO",
+      "sale": "COBO HERVELLA, GONZALO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 16,
+      "entra": "VELARDE VEGA, HECTOR",
+      "sale": "MARTINEZ PEREZ, MIGUEL"
+    },
+    {
+      "min": 63,
+      "entra": "RODRÍGUEZ LASO, KEVIN",
+      "sale": "GONZALEZ BENITO, PABLO"
+    },
+    {
+      "min": 69,
+      "entra": "MENENDEZ FERNANDEZ, OSCAR",
+      "sale": "DIAZ DIAZ, GONZALO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PIEDRA RUIZ, ASIER": 40,
+    "RUEDA FONFRIA, DANIEL": 90,
+    "SARABIA CAVIEDES, JANO ISIDRO": 90,
+    "SARABIA PARDO, ASIER": 90,
+    "MARTÍNEZ MADRAZO, ANDREA": 90,
+    "ARRATE ORTIZ, JUAN MARIA": 90,
+    "AGUILERA AGUILERA, DIEGO": 54,
+    "LOPEZ DURAN, FABIO": 90,
+    "COBO HERVELLA, GONZALO": 57,
+    "FELICES VIVANCO, MARCO": 54,
+    "POSTIGO MIGUEL, ALVARO": 57,
+    "PELLON FUENTES, NICOLAS": 50,
+    "FERNANDEZ ARANCHETA, IZAN": 36,
+    "MARSELLA GONZALEZ, MATEO": 36,
+    "HAZAS SANTOS, DENNIS": 33,
+    "REVUELTA FERNÁNDEZ, NORBERTO": 33,
+    "GRANDE SALVADOR, GAEL": 90,
+    "DEL CASTILLO SARAÑANA, LUCAS": 90,
+    "NOVOA TARDÍO, HUGO": 90,
+    "GONZALEZ BENITO, PABLO": 63,
+    "ROBETA DIAZ, JORGE": 90,
+    "CRUZADO CUESTA, FABIO": 90,
+    "MARTINEZ PEREZ, MIGUEL": 16,
+    "ROJO CANADELL, ALEJANDRO": 90,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 90,
+    "DIAZ DIAZ, GONZALO": 69,
+    "GOMEZ CABIELLES, ALEJANDRO": 90,
+    "VELARDE VEGA, HECTOR": 74,
+    "RODRÍGUEZ LASO, KEVIN": 27,
+    "MENENDEZ FERNANDEZ, OSCAR": 21
+  },
+  "portero_local": "PIEDRA RUIZ, ASIER",
+  "portero_visitante": "GRANDE SALVADOR, GAEL",
+  "dorsales_local": {
+    "PIEDRA RUIZ, ASIER": 1,
+    "RUEDA FONFRIA, DANIEL": 3,
+    "SARABIA CAVIEDES, JANO ISIDRO": 5,
+    "SARABIA PARDO, ASIER": 7,
+    "MARTÍNEZ MADRAZO, ANDREA": 9,
+    "ARRATE ORTIZ, JUAN MARIA": 10,
+    "AGUILERA AGUILERA, DIEGO": 11,
+    "LOPEZ DURAN, FABIO": 12,
+    "COBO HERVELLA, GONZALO": 14,
+    "FELICES VIVANCO, MARCO": 15,
+    "POSTIGO MIGUEL, ALVARO": 16
+  },
+  "dorsales_visitante": {
+    "GRANDE SALVADOR, GAEL": 13,
+    "DEL CASTILLO SARAÑANA, LUCAS": 4,
+    "NOVOA TARDÍO, HUGO": 7,
+    "GONZALEZ BENITO, PABLO": 8,
+    "ROBETA DIAZ, JORGE": 9,
+    "CRUZADO CUESTA, FABIO": 11,
+    "MARTINEZ PEREZ, MIGUEL": 12,
+    "ROJO CANADELL, ALEJANDRO": 14,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 15,
+    "DIAZ DIAZ, GONZALO": 16,
+    "GOMEZ CABIELLES, ALEJANDRO": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
