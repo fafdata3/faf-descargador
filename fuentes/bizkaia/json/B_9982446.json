@@ -1,0 +1,253 @@
+{
+  "acta_id": "B_9982446",
+  "filename": "Acta_B_9982446.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 15,
+  "fecha": "17-01-2026",
+  "hora": "17:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "BASKAURI A",
+  "equipo_visitante": "LOYOLA INDAUCHU A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "RODRIGO RABANAL, JULEN"
+  ],
+  "estadio": "ARTUNDUAGA 2",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 43,
+      "jugador": "VILLANUEVA SALTERAIN, AGER",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "RIBOTE LACALLE, EDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "ALEJO LEJARRAGA, ENAITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ MUÑIZ, AITOR",
+  "entrenador_visitante": "MANCISIDOR DE LA FUENTE, OIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BEASKOETXEA SAN MARTIN, GORKA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BEASKOETXEA SAN MARTIN, GORKA",
+  "delegado_equipo_visitante": "BUSTAMANTE SALGADO, JON KARLOS",
+  "titulares_local": [
+    "MOLINA GARCIA, ALEX",
+    "MARUNTELU, IONUT EDUARD",
+    "RUIZ GARCIA DE VICUÑA, EDER",
+    "ALEJO LEJARRAGA, ENAITZ",
+    "RIBOTE LACALLE, EDER",
+    "GONZALEZ PEREZ, HUGO",
+    "TRIGUEROS BULLON, UNAX",
+    "ETXEZARRAGA URKIJO, PEIO",
+    "BEASKOETXEA SANCHEZ, GALDER",
+    "LOZANO LOPEZ, MARKEL",
+    "COBELO VELEZ, IBAI"
+  ],
+  "titulares_visitante": [
+    "GARCIA LOPEZ, DANIEL",
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL",
+    "KIESE NDONZUAO, SCHADRAC",
+    "GORDOA ARCE, LANDER",
+    "LOPEZ BARRIO, ANDER",
+    "COLL GONZALEZ, ANDONI",
+    "PERDON RIO, DANEL",
+    "VILLANUEVA SALTERAIN, AGER",
+    "LOMA FLAQUER, AIMAR",
+    "MARTIN ANTXIA, JON",
+    "GOMEZ GONZALEZ, JON"
+  ],
+  "suplentes_local": [
+    "MARTIN LOPEZ, IKER",
+    "OTERO LABRADOR, UNAI",
+    "AGINAKO SOLAUN, XABIER",
+    "BLANCO MARTIN, UNAI",
+    "PEÑA PEREZ, IZAN",
+    "CORO LOPEZ, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "CIORDIA SUBINAS, UNAI",
+    "MIJANGOS LARRABE, UNAI",
+    "TORRE MORENO, JORGE",
+    "GALÁN PÉREZ DE NANCLARES, PAUL",
+    "AGUIRRE FERNANDINO, JOSU"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTIN LOPEZ, IKER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MOLINA GARCIA, ALEX",
+    "MARUNTELU, IONUT EDUARD",
+    "RUIZ GARCIA DE VICUÑA, EDER",
+    "ALEJO LEJARRAGA, ENAITZ",
+    "RIBOTE LACALLE, EDER",
+    "GONZALEZ PEREZ, HUGO",
+    "TRIGUEROS BULLON, UNAX",
+    "ETXEZARRAGA URKIJO, PEIO",
+    "BEASKOETXEA SANCHEZ, GALDER",
+    "LOZANO LOPEZ, MARKEL",
+    "COBELO VELEZ, IBAI",
+    "AGINAKO SOLAUN, XABIER",
+    "OTERO LABRADOR, UNAI",
+    "BLANCO MARTIN, UNAI",
+    "PEÑA PEREZ, IZAN",
+    "CORO LOPEZ, ALVARO"
+  ],
+  "jugadores_visitante": [
+    "GARCIA LOPEZ, DANIEL",
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL",
+    "KIESE NDONZUAO, SCHADRAC",
+    "GORDOA ARCE, LANDER",
+    "LOPEZ BARRIO, ANDER",
+    "COLL GONZALEZ, ANDONI",
+    "PERDON RIO, DANEL",
+    "VILLANUEVA SALTERAIN, AGER",
+    "LOMA FLAQUER, AIMAR",
+    "MARTIN ANTXIA, JON",
+    "GOMEZ GONZALEZ, JON",
+    "TORRE MORENO, JORGE",
+    "MIJANGOS LARRABE, UNAI",
+    "AGUIRRE FERNANDINO, JOSU",
+    "CIORDIA SUBINAS, UNAI",
+    "GALÁN PÉREZ DE NANCLARES, PAUL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "AGINAKO SOLAUN, XABIER",
+      "sale": "LOZANO LOPEZ, MARKEL"
+    },
+    {
+      "min": 56,
+      "entra": "OTERO LABRADOR, UNAI",
+      "sale": "MARUNTELU, IONUT EDUARD"
+    },
+    {
+      "min": 56,
+      "entra": "BLANCO MARTIN, UNAI",
+      "sale": "COBELO VELEZ, IBAI"
+    },
+    {
+      "min": 68,
+      "entra": "PEÑA PEREZ, IZAN",
+      "sale": "BEASKOETXEA SANCHEZ, GALDER"
+    },
+    {
+      "min": 68,
+      "entra": "CORO LOPEZ, ALVARO",
+      "sale": "GONZALEZ PEREZ, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "TORRE MORENO, JORGE",
+      "sale": "LOMA FLAQUER, AIMAR"
+    },
+    {
+      "min": 56,
+      "entra": "MIJANGOS LARRABE, UNAI",
+      "sale": "GOMEZ GONZALEZ, JON"
+    },
+    {
+      "min": 67,
+      "entra": "AGUIRRE FERNANDINO, JOSU",
+      "sale": "PERDON RIO, DANEL"
+    },
+    {
+      "min": 67,
+      "entra": "CIORDIA SUBINAS, UNAI",
+      "sale": "LOPEZ BARRIO, ANDER"
+    },
+    {
+      "min": 76,
+      "entra": "GALÁN PÉREZ DE NANCLARES, PAUL",
+      "sale": "VILLANUEVA SALTERAIN, AGER"
+    }
+  ],
+  "minutos_jugadores": {
+    "MOLINA GARCIA, ALEX": 90,
+    "MARUNTELU, IONUT EDUARD": 56,
+    "RUIZ GARCIA DE VICUÑA, EDER": 90,
+    "ALEJO LEJARRAGA, ENAITZ": 90,
+    "RIBOTE LACALLE, EDER": 90,
+    "GONZALEZ PEREZ, HUGO": 68,
+    "TRIGUEROS BULLON, UNAX": 90,
+    "ETXEZARRAGA URKIJO, PEIO": 90,
+    "BEASKOETXEA SANCHEZ, GALDER": 68,
+    "LOZANO LOPEZ, MARKEL": 40,
+    "COBELO VELEZ, IBAI": 56,
+    "AGINAKO SOLAUN, XABIER": 50,
+    "OTERO LABRADOR, UNAI": 34,
+    "BLANCO MARTIN, UNAI": 34,
+    "PEÑA PEREZ, IZAN": 22,
+    "CORO LOPEZ, ALVARO": 22,
+    "GARCIA LOPEZ, DANIEL": 90,
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL": 90,
+    "KIESE NDONZUAO, SCHADRAC": 90,
+    "GORDOA ARCE, LANDER": 90,
+    "LOPEZ BARRIO, ANDER": 67,
+    "COLL GONZALEZ, ANDONI": 90,
+    "PERDON RIO, DANEL": 67,
+    "VILLANUEVA SALTERAIN, AGER": 76,
+    "LOMA FLAQUER, AIMAR": 56,
+    "MARTIN ANTXIA, JON": 90,
+    "GOMEZ GONZALEZ, JON": 56,
+    "TORRE MORENO, JORGE": 34,
+    "MIJANGOS LARRABE, UNAI": 34,
+    "AGUIRRE FERNANDINO, JOSU": 23,
+    "CIORDIA SUBINAS, UNAI": 23,
+    "GALÁN PÉREZ DE NANCLARES, PAUL": 14
+  },
+  "portero_local": "MOLINA GARCIA, ALEX",
+  "portero_visitante": "GARCIA LOPEZ, DANIEL",
+  "dorsales_local": {
+    "MOLINA GARCIA, ALEX": 13,
+    "MARUNTELU, IONUT EDUARD": 2,
+    "RUIZ GARCIA DE VICUÑA, EDER": 3,
+    "ALEJO LEJARRAGA, ENAITZ": 4,
+    "RIBOTE LACALLE, EDER": 5,
+    "GONZALEZ PEREZ, HUGO": 6,
+    "TRIGUEROS BULLON, UNAX": 8,
+    "ETXEZARRAGA URKIJO, PEIO": 9,
+    "BEASKOETXEA SANCHEZ, GALDER": 11,
+    "LOZANO LOPEZ, MARKEL": 14,
+    "COBELO VELEZ, IBAI": 18
+  },
+  "dorsales_visitante": {
+    "GARCIA LOPEZ, DANIEL": 13,
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL": 4,
+    "KIESE NDONZUAO, SCHADRAC": 5,
+    "GORDOA ARCE, LANDER": 6,
+    "LOPEZ BARRIO, ANDER": 7,
+    "COLL GONZALEZ, ANDONI": 8,
+    "PERDON RIO, DANEL": 12,
+    "VILLANUEVA SALTERAIN, AGER": 14,
+    "LOMA FLAQUER, AIMAR": 19,
+    "MARTIN ANTXIA, JON": 21,
+    "GOMEZ GONZALEZ, JON": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
