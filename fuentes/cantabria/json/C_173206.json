@@ -1,0 +1,229 @@
+{
+  "acta_id": "C_173206",
+  "filename": "Acta_C_173206.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 8,
+  "fecha": "11-11-2023",
+  "hora": "16:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "ESC.MPAL. SANTANDER A",
+  "equipo_visitante": "S.D. PEÑA REVILLA",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LASTRA SANTIAGO, DIEGO"
+  ],
+  "estadio": "Comp. Albericia (A)",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "ABASCAL DE JUANA, JOSÉ RAMÓN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 11,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "COROZO TARIRA, SAMUEL LENIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 56,
+      "jugador": "LOPEZ LAMEIRO, MATEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "MUÑOZ MUÑOZ, TOMÁS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "COSTALES ALVAREZ, RICARDO",
+  "entrenador_visitante": "MOLINA SECO, AURELIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "MOLINA DE LA SERNA, DAVID",
+  "delegado_campo_local": "HERRERA DIAZ, SALVADOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "LAVIN VELARDE, MARCOS",
+    "LOPEZ SAN MARTIN, HUGO",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "LOPEZ LAMEIRO, MATEO",
+    "FERNÁNDEZ FERNÁNDEZ, ANGEL JOSÉ",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "CARNICERO SANZ, MIGUEL ANGEL",
+    "FERNANDEZ DE DIEGO, ALVARO"
+  ],
+  "titulares_visitante": [
+    "ALVAREZ CAGIGAS, MATEO",
+    "ABASCAL DE JUANA, JOSÉ RAMÓN",
+    "DASILVA PEREIRA, EDUARDO",
+    "PÓO TORRES, AARÓN",
+    "NARVAEZ GOMEZ, HUGO",
+    "MUÑOZ MUÑOZ, TOMÁS",
+    "LAREDO PELLON, NICO",
+    "CASTILLO MONTES, MAURO",
+    "PESQUERA THOMSEN, RAUL-EGIL",
+    "CALVO GONZALEZ, MATEO",
+    "OCAMPO MUÑOZ, FELIPE"
+  ],
+  "suplentes_local": [
+    "RUIZ OCHOANTESANA, SIMON",
+    "GORI GORI, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "AJA CIMIANO, IKER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "LAVIN VELARDE, MARCOS",
+    "LOPEZ SAN MARTIN, HUGO",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "LOPEZ LAMEIRO, MATEO",
+    "FERNÁNDEZ FERNÁNDEZ, ANGEL JOSÉ",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "CARNICERO SANZ, MIGUEL ANGEL",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "RUIZ OCHOANTESANA, SIMON",
+    "GORI GORI, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "ALVAREZ CAGIGAS, MATEO",
+    "ABASCAL DE JUANA, JOSÉ RAMÓN",
+    "DASILVA PEREIRA, EDUARDO",
+    "PÓO TORRES, AARÓN",
+    "NARVAEZ GOMEZ, HUGO",
+    "MUÑOZ MUÑOZ, TOMÁS",
+    "LAREDO PELLON, NICO",
+    "CASTILLO MONTES, MAURO",
+    "PESQUERA THOMSEN, RAUL-EGIL",
+    "CALVO GONZALEZ, MATEO",
+    "OCAMPO MUÑOZ, FELIPE",
+    "CUENDE RAMOS, YAGO",
+    "AJA CIMIANO, IKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "RUIZ OCHOANTESANA, SIMON",
+      "sale": "CARNICERO SANZ, MIGUEL ANGEL"
+    },
+    {
+      "min": 43,
+      "entra": "GORI GORI, DANIEL",
+      "sale": "FERNÁNDEZ FERNÁNDEZ, ANGEL JOSÉ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "CUENDE RAMOS, YAGO",
+      "sale": "ALVAREZ CAGIGAS, MATEO"
+    },
+    {
+      "min": 46,
+      "entra": "AJA CIMIANO, IKER",
+      "sale": "PESQUERA THOMSEN, RAUL-EGIL"
+    }
+  ],
+  "minutos_jugadores": {
+    "DE LA FUENTE GUILLARON, MARCOS": 90,
+    "LAVIN VELARDE, MARCOS": 90,
+    "LOPEZ SAN MARTIN, HUGO": 90,
+    "COROZO TARIRA, SAMUEL LENIN": 90,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 90,
+    "MARTINEZ IBAÑEZ, LUCAS": 90,
+    "LOPEZ LAMEIRO, MATEO": 90,
+    "FERNÁNDEZ FERNÁNDEZ, ANGEL JOSÉ": 43,
+    "DOMINGUEZ RUIZ, SAMUEL": 90,
+    "CARNICERO SANZ, MIGUEL ANGEL": 40,
+    "FERNANDEZ DE DIEGO, ALVARO": 90,
+    "RUIZ OCHOANTESANA, SIMON": 50,
+    "GORI GORI, DANIEL": 47,
+    "ALVAREZ CAGIGAS, MATEO": 35,
+    "ABASCAL DE JUANA, JOSÉ RAMÓN": 90,
+    "DASILVA PEREIRA, EDUARDO": 90,
+    "PÓO TORRES, AARÓN": 90,
+    "NARVAEZ GOMEZ, HUGO": 90,
+    "MUÑOZ MUÑOZ, TOMÁS": 90,
+    "LAREDO PELLON, NICO": 90,
+    "CASTILLO MONTES, MAURO": 90,
+    "PESQUERA THOMSEN, RAUL-EGIL": 46,
+    "CALVO GONZALEZ, MATEO": 90,
+    "OCAMPO MUÑOZ, FELIPE": 90,
+    "CUENDE RAMOS, YAGO": 55,
+    "AJA CIMIANO, IKER": 44
+  },
+  "portero_local": "DE LA FUENTE GUILLARON, MARCOS",
+  "portero_visitante": "ALVAREZ CAGIGAS, MATEO",
+  "dorsales_local": {
+    "DE LA FUENTE GUILLARON, MARCOS": 1,
+    "LAVIN VELARDE, MARCOS": 3,
+    "LOPEZ SAN MARTIN, HUGO": 4,
+    "COROZO TARIRA, SAMUEL LENIN": 7,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 8,
+    "MARTINEZ IBAÑEZ, LUCAS": 10,
+    "LOPEZ LAMEIRO, MATEO": 11,
+    "FERNÁNDEZ FERNÁNDEZ, ANGEL JOSÉ": 12,
+    "DOMINGUEZ RUIZ, SAMUEL": 18,
+    "CARNICERO SANZ, MIGUEL ANGEL": 19,
+    "FERNANDEZ DE DIEGO, ALVARO": 21
+  },
+  "dorsales_visitante": {
+    "ALVAREZ CAGIGAS, MATEO": 1,
+    "ABASCAL DE JUANA, JOSÉ RAMÓN": 4,
+    "DASILVA PEREIRA, EDUARDO": 5,
+    "PÓO TORRES, AARÓN": 6,
+    "NARVAEZ GOMEZ, HUGO": 7,
+    "MUÑOZ MUÑOZ, TOMÁS": 8,
+    "LAREDO PELLON, NICO": 9,
+    "CASTILLO MONTES, MAURO": 11,
+    "PESQUERA THOMSEN, RAUL-EGIL": 12,
+    "CALVO GONZALEZ, MATEO": 15,
+    "OCAMPO MUÑOZ, FELIPE": 16
+  },
+  "suspendidos": []
+}
