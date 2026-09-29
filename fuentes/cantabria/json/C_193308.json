@@ -1,0 +1,257 @@
+{
+  "acta_id": "C_193308",
+  "filename": "Acta_C_193308.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 31,
+  "fecha": "03-05-2025",
+  "hora": "15:45",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE B",
+  "equipo_visitante": "R.S. GIMNASTICA B",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "COBO TORRES, CRISTIAN"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "BORREGA BALZA, ISAAC",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "HOYUELA COBO, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "ESCALANTE BUENO, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "CZACHOR, DAMIAN KRZYSZTOF",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "BORREGA BALZA, ISAAC",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "ZHEKOV, ATANASIO ATANASOV",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 51,
+      "jugador": "MENDEZ RODRIGUEZ, JOSE RAMON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RUIZ GARCIA, DAVID",
+  "entrenador_visitante": "JIMENO DIEZ, UNAI",
+  "segundo_entrenador_local": "RUIZ DIAZ, FRANCISCO JAVIER",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "NUÑEZ MORENO, MARCOS",
+    "DURÁN GÓMEZ, MARCOS",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "ECHAVES CASO, EDER",
+    "ESCALANTE BUENO, OIER",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "MALLAVIA PEREZ, ASIER",
+    "SOLANA PEREZ, LEO",
+    "ROCES RONDO, CRUZ",
+    "CZACHOR, DAMIAN KRZYSZTOF"
+  ],
+  "titulares_visitante": [
+    "ARROYO FERNANDEZ, PABLO",
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "MARAÑA SIERRA, CARLOS",
+    "GALLO VERGARA, PABLO",
+    "DEL VALLE COBO, DANIEL",
+    "ALONSO MOTA, IVAN",
+    "GUTIERREZ REVUELTA, NECO",
+    "BORREGA BALZA, ISAAC",
+    "MARQUEZ REVUELTA, ALEX",
+    "HOYUELA COBO, HUGO",
+    "PEREZ EGUREN, DAVID"
+  ],
+  "suplentes_local": [
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+    "LOPEZ ALCALDE, IZAN",
+    "DAHHAOUI RACHID, YAKOUB",
+    "MONTES SANTOS, CARLOS"
+  ],
+  "suplentes_visitante": [
+    "PINEDA DIAZ, JORGE",
+    "MALLAVIA MUGICA, MIKEL",
+    "BOLADO GOMEZ, LUCAS",
+    "MOUSSAID MAKRANE, RAYANE"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "PINEDA DIAZ, JORGE"
+  ],
+  "jugadores_local": [
+    "NUÑEZ MORENO, MARCOS",
+    "DURÁN GÓMEZ, MARCOS",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "ECHAVES CASO, EDER",
+    "ESCALANTE BUENO, OIER",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "MALLAVIA PEREZ, ASIER",
+    "SOLANA PEREZ, LEO",
+    "ROCES RONDO, CRUZ",
+    "CZACHOR, DAMIAN KRZYSZTOF",
+    "LOPEZ ALCALDE, IZAN",
+    "DAHHAOUI RACHID, YAKOUB",
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+    "MONTES SANTOS, CARLOS"
+  ],
+  "jugadores_visitante": [
+    "ARROYO FERNANDEZ, PABLO",
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "MARAÑA SIERRA, CARLOS",
+    "GALLO VERGARA, PABLO",
+    "DEL VALLE COBO, DANIEL",
+    "ALONSO MOTA, IVAN",
+    "GUTIERREZ REVUELTA, NECO",
+    "BORREGA BALZA, ISAAC",
+    "MARQUEZ REVUELTA, ALEX",
+    "HOYUELA COBO, HUGO",
+    "PEREZ EGUREN, DAVID",
+    "MALLAVIA MUGICA, MIKEL",
+    "MOUSSAID MAKRANE, RAYANE",
+    "BOLADO GOMEZ, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "LOPEZ ALCALDE, IZAN",
+      "sale": "CZACHOR, DAMIAN KRZYSZTOF"
+    },
+    {
+      "min": 53,
+      "entra": "DAHHAOUI RACHID, YAKOUB",
+      "sale": "GONZALEZ GONZALEZ, DANIEL"
+    },
+    {
+      "min": 55,
+      "entra": "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+      "sale": "ECHAVES CASO, EDER"
+    },
+    {
+      "min": 62,
+      "entra": "MONTES SANTOS, CARLOS",
+      "sale": "ZAMAN, VICTOR ALEXANDRU"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "MALLAVIA MUGICA, MIKEL",
+      "sale": "MENDEZ RODRIGUEZ, JOSE RAMON"
+    },
+    {
+      "min": 55,
+      "entra": "MOUSSAID MAKRANE, RAYANE",
+      "sale": "ALONSO MOTA, IVAN"
+    },
+    {
+      "min": 72,
+      "entra": "BOLADO GOMEZ, LUCAS",
+      "sale": "GUTIERREZ REVUELTA, NECO"
+    }
+  ],
+  "minutos_jugadores": {
+    "NUÑEZ MORENO, MARCOS": 90,
+    "DURÁN GÓMEZ, MARCOS": 90,
+    "ZHEKOV, ATANASIO ATANASOV": 90,
+    "GONZALEZ GONZALEZ, DANIEL": 53,
+    "ECHAVES CASO, EDER": 55,
+    "ESCALANTE BUENO, OIER": 90,
+    "ZAMAN, VICTOR ALEXANDRU": 62,
+    "MALLAVIA PEREZ, ASIER": 90,
+    "SOLANA PEREZ, LEO": 90,
+    "ROCES RONDO, CRUZ": 90,
+    "CZACHOR, DAMIAN KRZYSZTOF": 40,
+    "LOPEZ ALCALDE, IZAN": 50,
+    "DAHHAOUI RACHID, YAKOUB": 37,
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN": 35,
+    "MONTES SANTOS, CARLOS": 28,
+    "ARROYO FERNANDEZ, PABLO": 90,
+    "MENDEZ RODRIGUEZ, JOSE RAMON": 55,
+    "MARAÑA SIERRA, CARLOS": 90,
+    "GALLO VERGARA, PABLO": 90,
+    "DEL VALLE COBO, DANIEL": 90,
+    "ALONSO MOTA, IVAN": 55,
+    "GUTIERREZ REVUELTA, NECO": 72,
+    "BORREGA BALZA, ISAAC": 90,
+    "MARQUEZ REVUELTA, ALEX": 90,
+    "HOYUELA COBO, HUGO": 90,
+    "PEREZ EGUREN, DAVID": 90,
+    "MALLAVIA MUGICA, MIKEL": 35,
+    "MOUSSAID MAKRANE, RAYANE": 35,
+    "BOLADO GOMEZ, LUCAS": 18
+  },
+  "portero_local": "NUÑEZ MORENO, MARCOS",
+  "portero_visitante": "ARROYO FERNANDEZ, PABLO",
+  "dorsales_local": {
+    "NUÑEZ MORENO, MARCOS": 13,
+    "DURÁN GÓMEZ, MARCOS": 3,
+    "ZHEKOV, ATANASIO ATANASOV": 4,
+    "GONZALEZ GONZALEZ, DANIEL": 5,
+    "ECHAVES CASO, EDER": 8,
+    "ESCALANTE BUENO, OIER": 9,
+    "ZAMAN, VICTOR ALEXANDRU": 10,
+    "MALLAVIA PEREZ, ASIER": 12,
+    "SOLANA PEREZ, LEO": 14,
+    "ROCES RONDO, CRUZ": 17,
+    "CZACHOR, DAMIAN KRZYSZTOF": 19
+  },
+  "dorsales_visitante": {
+    "ARROYO FERNANDEZ, PABLO": 1,
+    "MENDEZ RODRIGUEZ, JOSE RAMON": 2,
+    "MARAÑA SIERRA, CARLOS": 4,
+    "GALLO VERGARA, PABLO": 5,
+    "DEL VALLE COBO, DANIEL": 7,
+    "ALONSO MOTA, IVAN": 8,
+    "GUTIERREZ REVUELTA, NECO": 9,
+    "BORREGA BALZA, ISAAC": 11,
+    "MARQUEZ REVUELTA, ALEX": 15,
+    "HOYUELA COBO, HUGO": 17,
+    "PEREZ EGUREN, DAVID": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
