@@ -1,0 +1,230 @@
+{
+  "acta_id": "C_173172",
+  "filename": "Acta_C_173172.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 4,
+  "fecha": "14-10-2023",
+  "hora": "12:45",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.F. VIMENOR A",
+  "equipo_visitante": "S.D. PEÑA REVILLA",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAHAGUN SAIZ, ALVARO"
+  ],
+  "estadio": "Vioño",
+  "ciudad": "Piélagos",
+  "goleadores": [
+    {
+      "minuto": 62,
+      "jugador": "ALISEDA RODRIGUES, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "ABASCAL DE JUANA, JOSÉ RAMÓN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 36,
+      "jugador": "CAPELLAN ROBLEDO, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 31,
+      "jugador": "OCAMPO MUÑOZ, FELIPE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CHAVES OBREGON, FERNANDO",
+  "entrenador_visitante": "MOLINA SECO, AURELIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "PEREZ COLLANTES, LUIS GONZALO",
+  "delegado_campo_local": "CALDERON HARO, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CALDERON HARO, DANIEL",
+  "delegado_equipo_visitante": "SAN MIGUEL BODEGAS, VICENTE",
+  "titulares_local": [
+    "GÓMEZ MUÑIZ, MARTÍN",
+    "PRIETO BARCENA, ABEL",
+    "SIERRA VÁZQUEZ, SALVADOR",
+    "ALISEDA RODRIGUES, HUGO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "IBÁÑEZ ESCUDERO, HUGO",
+    "PÉREZ VELA, MARCOS",
+    "GUTIÉRREZ LÓPEZ, JOSÉ",
+    "URDA GARCIA, JUAN",
+    "MARTIN LOPEZ, IKER",
+    "LOIS VEGAS, SANCHO"
+  ],
+  "titulares_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "ABASCAL DE JUANA, JOSÉ RAMÓN",
+    "DASILVA PEREIRA, EDUARDO",
+    "NARVAEZ GOMEZ, HUGO",
+    "MUÑOZ MUÑOZ, TOMÁS",
+    "LAREDO PELLON, NICO",
+    "CASTILLO MONTES, MAURO",
+    "PESQUERA THOMSEN, RAUL-EGIL",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "CALVO GONZALEZ, MATEO",
+    "OCAMPO MUÑOZ, FELIPE"
+  ],
+  "suplentes_local": [
+    "MERINO RIANCHO, DANIEL",
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO",
+    "GÓMEZ BÁRCENA, AARON",
+    "CAYÓN GUTIERREZ, CARLOS",
+    "ÁLVAREZ SÁIZ, GAEL"
+  ],
+  "suplentes_visitante": [
+    "ALVAREZ CAGIGAS, MATEO",
+    "PÓO TORRES, AARÓN",
+    "LOPEZ REVILLA, RAUL"
+  ],
+  "convocados_sin_jugar_local": [
+    "MERINO RIANCHO, DANIEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALVAREZ CAGIGAS, MATEO"
+  ],
+  "jugadores_local": [
+    "GÓMEZ MUÑIZ, MARTÍN",
+    "PRIETO BARCENA, ABEL",
+    "SIERRA VÁZQUEZ, SALVADOR",
+    "ALISEDA RODRIGUES, HUGO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "IBÁÑEZ ESCUDERO, HUGO",
+    "PÉREZ VELA, MARCOS",
+    "GUTIÉRREZ LÓPEZ, JOSÉ",
+    "URDA GARCIA, JUAN",
+    "MARTIN LOPEZ, IKER",
+    "LOIS VEGAS, SANCHO",
+    "GÓMEZ BÁRCENA, AARON",
+    "ÁLVAREZ SÁIZ, GAEL",
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO",
+    "CAYÓN GUTIERREZ, CARLOS"
+  ],
+  "jugadores_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "ABASCAL DE JUANA, JOSÉ RAMÓN",
+    "DASILVA PEREIRA, EDUARDO",
+    "NARVAEZ GOMEZ, HUGO",
+    "MUÑOZ MUÑOZ, TOMÁS",
+    "LAREDO PELLON, NICO",
+    "CASTILLO MONTES, MAURO",
+    "PESQUERA THOMSEN, RAUL-EGIL",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "CALVO GONZALEZ, MATEO",
+    "OCAMPO MUÑOZ, FELIPE",
+    "LOPEZ REVILLA, RAUL",
+    "PÓO TORRES, AARÓN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 8,
+      "entra": "GÓMEZ BÁRCENA, AARON",
+      "sale": "IBÁÑEZ ESCUDERO, HUGO"
+    },
+    {
+      "min": 54,
+      "entra": "ÁLVAREZ SÁIZ, GAEL",
+      "sale": "URDA GARCIA, JUAN"
+    },
+    {
+      "min": 61,
+      "entra": "DEL BARRIO LAVÍN, JOSÉ ANTONIO",
+      "sale": "LOIS VEGAS, SANCHO"
+    },
+    {
+      "min": 63,
+      "entra": "CAYÓN GUTIERREZ, CARLOS",
+      "sale": "PRIETO BARCENA, ABEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 42,
+      "entra": "LOPEZ REVILLA, RAUL",
+      "sale": "NARVAEZ GOMEZ, HUGO"
+    },
+    {
+      "min": 62,
+      "entra": "PÓO TORRES, AARÓN",
+      "sale": "LAREDO PELLON, NICO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GÓMEZ MUÑIZ, MARTÍN": 90,
+    "PRIETO BARCENA, ABEL": 63,
+    "SIERRA VÁZQUEZ, SALVADOR": 90,
+    "ALISEDA RODRIGUES, HUGO": 90,
+    "CAPELLAN ROBLEDO, DANIEL": 90,
+    "IBÁÑEZ ESCUDERO, HUGO": 8,
+    "PÉREZ VELA, MARCOS": 90,
+    "GUTIÉRREZ LÓPEZ, JOSÉ": 90,
+    "URDA GARCIA, JUAN": 54,
+    "MARTIN LOPEZ, IKER": 90,
+    "LOIS VEGAS, SANCHO": 61,
+    "GÓMEZ BÁRCENA, AARON": 82,
+    "ÁLVAREZ SÁIZ, GAEL": 36,
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO": 29,
+    "CAYÓN GUTIERREZ, CARLOS": 27,
+    "CUENDE RAMOS, YAGO": 90,
+    "ABASCAL DE JUANA, JOSÉ RAMÓN": 90,
+    "DASILVA PEREIRA, EDUARDO": 90,
+    "NARVAEZ GOMEZ, HUGO": 42,
+    "MUÑOZ MUÑOZ, TOMÁS": 90,
+    "LAREDO PELLON, NICO": 62,
+    "CASTILLO MONTES, MAURO": 90,
+    "PESQUERA THOMSEN, RAUL-EGIL": 90,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 90,
+    "CALVO GONZALEZ, MATEO": 90,
+    "OCAMPO MUÑOZ, FELIPE": 90,
+    "LOPEZ REVILLA, RAUL": 48,
+    "PÓO TORRES, AARÓN": 28
+  },
+  "portero_local": "GÓMEZ MUÑIZ, MARTÍN",
+  "portero_visitante": "CUENDE RAMOS, YAGO",
+  "dorsales_local": {
+    "GÓMEZ MUÑIZ, MARTÍN": 1,
+    "PRIETO BARCENA, ABEL": 2,
+    "SIERRA VÁZQUEZ, SALVADOR": 3,
+    "ALISEDA RODRIGUES, HUGO": 4,
+    "CAPELLAN ROBLEDO, DANIEL": 5,
+    "IBÁÑEZ ESCUDERO, HUGO": 6,
+    "PÉREZ VELA, MARCOS": 7,
+    "GUTIÉRREZ LÓPEZ, JOSÉ": 8,
+    "URDA GARCIA, JUAN": 9,
+    "MARTIN LOPEZ, IKER": 10,
+    "LOIS VEGAS, SANCHO": 11
+  },
+  "dorsales_visitante": {
+    "CUENDE RAMOS, YAGO": 13,
+    "ABASCAL DE JUANA, JOSÉ RAMÓN": 4,
+    "DASILVA PEREIRA, EDUARDO": 5,
+    "NARVAEZ GOMEZ, HUGO": 7,
+    "MUÑOZ MUÑOZ, TOMÁS": 8,
+    "LAREDO PELLON, NICO": 9,
+    "CASTILLO MONTES, MAURO": 11,
+    "PESQUERA THOMSEN, RAUL-EGIL": 12,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 14,
+    "CALVO GONZALEZ, MATEO": 15,
+    "OCAMPO MUÑOZ, FELIPE": 16
+  },
+  "suspendidos": []
+}
