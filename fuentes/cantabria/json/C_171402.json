@@ -1,0 +1,262 @@
+{
+  "acta_id": "C_171402",
+  "filename": "Acta_C_171402.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 28,
+  "fecha": "20-04-2024",
+  "hora": "17:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "A.D. SAN AGUSTIN A",
+  "equipo_visitante": "E.D.M. VILLAESCUSA A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CRUZ TRUEBA, MARIO"
+  ],
+  "estadio": "Liberto Toca",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 72,
+      "jugador": "BENITEZ SOBREMAZAS, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "PANOJO PANTRIGO, ISAIAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "SEBRANGO ABAD, RODRIGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "ANDRES REDONDO, MIGUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "RUIZ CUMBRADOS, GUILLERMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "CRIADO PEÑA, RODRIGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "PEREZ GARCIA, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CASCALES TORRE, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CASCALES TORRE, JAVIER",
+  "delegado_equipo_visitante": "GONZALEZ SARABIA, CARLOS",
+  "titulares_local": [
+    "PRADA PORTERO, LUIS",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "VILLAMERIEL MONTES, SERGIO",
+    "MARTINEZ ORTIZ, LUCAS",
+    "ELOLA BADOLATO, JUAN",
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+    "GONZALEZ MEDINA, JOSE",
+    "LAINZ MORAN, NICOLAS",
+    "ANDRES REDONDO, MIGUEL",
+    "CASCALES TORRE, PABLO",
+    "SEBRANGO ABAD, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "CRIADO PEÑA, RODRIGO",
+    "CIANCA LIAÑO, RODRIGO",
+    "PEREZ GARCIA, ALEJANDRO",
+    "SANTIAGO RASILLA, IVAN",
+    "COSTA CATALINA, JUAN JOSE",
+    "ALVAREZ LOPEZ, DANIEL",
+    "PRATS TORRE, MARIO",
+    "BAHILLO HERRERIAS, DANIEL",
+    "BENITEZ SOBREMAZAS, NICOLAS",
+    "ARCE CANO, DIEGO",
+    "RUIZ CUMBRADOS, GUILLERMO"
+  ],
+  "suplentes_local": [
+    "HERRERO HERNANDO, DANIEL",
+    "PANOJO PANTRIGO, ISAIAS",
+    "RUIZ FRADEJAS, DANIEL",
+    "SILIO FERNANDEZ, CESAR",
+    "SILIO SANZ, PABLO"
+  ],
+  "suplentes_visitante": [
+    "MARTIN SOLORZANO, DANIEL",
+    "maillo haya, PABLO",
+    "diego herrero, rodrigo"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PRADA PORTERO, LUIS",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "VILLAMERIEL MONTES, SERGIO",
+    "MARTINEZ ORTIZ, LUCAS",
+    "ELOLA BADOLATO, JUAN",
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+    "GONZALEZ MEDINA, JOSE",
+    "LAINZ MORAN, NICOLAS",
+    "ANDRES REDONDO, MIGUEL",
+    "CASCALES TORRE, PABLO",
+    "SEBRANGO ABAD, RODRIGO",
+    "PANOJO PANTRIGO, ISAIAS",
+    "SILIO SANZ, PABLO",
+    "SILIO FERNANDEZ, CESAR",
+    "RUIZ FRADEJAS, DANIEL",
+    "HERRERO HERNANDO, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "CRIADO PEÑA, RODRIGO",
+    "CIANCA LIAÑO, RODRIGO",
+    "PEREZ GARCIA, ALEJANDRO",
+    "SANTIAGO RASILLA, IVAN",
+    "COSTA CATALINA, JUAN JOSE",
+    "ALVAREZ LOPEZ, DANIEL",
+    "PRATS TORRE, MARIO",
+    "BAHILLO HERRERIAS, DANIEL",
+    "BENITEZ SOBREMAZAS, NICOLAS",
+    "ARCE CANO, DIEGO",
+    "RUIZ CUMBRADOS, GUILLERMO",
+    "maillo haya, PABLO",
+    "diego herrero, rodrigo",
+    "MARTIN SOLORZANO, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 47,
+      "entra": "PANOJO PANTRIGO, ISAIAS",
+      "sale": "GALLO JUANCO, JAVIER ARTURO"
+    },
+    {
+      "min": 76,
+      "entra": "SILIO SANZ, PABLO",
+      "sale": "MARTINEZ ORTIZ, LUCAS"
+    },
+    {
+      "min": 76,
+      "entra": "SILIO FERNANDEZ, CESAR",
+      "sale": "LAINZ MORAN, NICOLAS"
+    },
+    {
+      "min": 76,
+      "entra": "RUIZ FRADEJAS, DANIEL",
+      "sale": "SEBRANGO ABAD, RODRIGO"
+    },
+    {
+      "min": 76,
+      "entra": "HERRERO HERNANDO, DANIEL",
+      "sale": "GONZALEZ MEDINA, JOSE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "maillo haya, PABLO",
+      "sale": "BAHILLO HERRERIAS, DANIEL"
+    },
+    {
+      "min": 50,
+      "entra": "diego herrero, rodrigo",
+      "sale": "ARCE CANO, DIEGO"
+    },
+    {
+      "min": 61,
+      "entra": "MARTIN SOLORZANO, DANIEL",
+      "sale": "COSTA CATALINA, JUAN JOSE"
+    }
+  ],
+  "minutos_jugadores": {
+    "PRADA PORTERO, LUIS": 90,
+    "GALLO JUANCO, JAVIER ARTURO": 47,
+    "VILLAMERIEL MONTES, SERGIO": 90,
+    "MARTINEZ ORTIZ, LUCAS": 76,
+    "ELOLA BADOLATO, JUAN": 90,
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN": 90,
+    "GONZALEZ MEDINA, JOSE": 76,
+    "LAINZ MORAN, NICOLAS": 76,
+    "ANDRES REDONDO, MIGUEL": 90,
+    "CASCALES TORRE, PABLO": 90,
+    "SEBRANGO ABAD, RODRIGO": 76,
+    "PANOJO PANTRIGO, ISAIAS": 43,
+    "SILIO SANZ, PABLO": 14,
+    "SILIO FERNANDEZ, CESAR": 14,
+    "RUIZ FRADEJAS, DANIEL": 14,
+    "HERRERO HERNANDO, DANIEL": 14,
+    "CRIADO PEÑA, RODRIGO": 90,
+    "CIANCA LIAÑO, RODRIGO": 90,
+    "PEREZ GARCIA, ALEJANDRO": 90,
+    "SANTIAGO RASILLA, IVAN": 90,
+    "COSTA CATALINA, JUAN JOSE": 61,
+    "ALVAREZ LOPEZ, DANIEL": 90,
+    "PRATS TORRE, MARIO": 90,
+    "BAHILLO HERRERIAS, DANIEL": 50,
+    "BENITEZ SOBREMAZAS, NICOLAS": 90,
+    "ARCE CANO, DIEGO": 50,
+    "RUIZ CUMBRADOS, GUILLERMO": 90,
+    "maillo haya, PABLO": 40,
+    "diego herrero, rodrigo": 40,
+    "MARTIN SOLORZANO, DANIEL": 29
+  },
+  "portero_local": "PRADA PORTERO, LUIS",
+  "portero_visitante": "CRIADO PEÑA, RODRIGO",
+  "dorsales_local": {
+    "PRADA PORTERO, LUIS": 25,
+    "GALLO JUANCO, JAVIER ARTURO": 2,
+    "VILLAMERIEL MONTES, SERGIO": 4,
+    "MARTINEZ ORTIZ, LUCAS": 6,
+    "ELOLA BADOLATO, JUAN": 8,
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN": 10,
+    "GONZALEZ MEDINA, JOSE": 16,
+    "LAINZ MORAN, NICOLAS": 20,
+    "ANDRES REDONDO, MIGUEL": 22,
+    "CASCALES TORRE, PABLO": 23,
+    "SEBRANGO ABAD, RODRIGO": 34
+  },
+  "dorsales_visitante": {
+    "CRIADO PEÑA, RODRIGO": 13,
+    "CIANCA LIAÑO, RODRIGO": 2,
+    "PEREZ GARCIA, ALEJANDRO": 4,
+    "SANTIAGO RASILLA, IVAN": 5,
+    "COSTA CATALINA, JUAN JOSE": 6,
+    "ALVAREZ LOPEZ, DANIEL": 7,
+    "PRATS TORRE, MARIO": 8,
+    "BAHILLO HERRERIAS, DANIEL": 9,
+    "BENITEZ SOBREMAZAS, NICOLAS": 10,
+    "ARCE CANO, DIEGO": 11,
+    "RUIZ CUMBRADOS, GUILLERMO": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
