@@ -1,0 +1,284 @@
+{
+  "acta_id": "B_9982420",
+  "filename": "Acta_B_9982420.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "13-12-2025",
+  "hora": "19:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "CULTURAL DURANGO B",
+  "equipo_visitante": "ETXEBARRI A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "IBERNIA ECENARRO , KERMAN"
+  ],
+  "estadio": "TABIRA 1",
+  "ciudad": "Durango",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "ESPAÑA RAMOS, NIKOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "PEREZ ALBARRAN, UNAX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "LI, ZEXI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 82,
+      "jugador": "ABDUL-HAMID MUFTAWU, HAMID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 26,
+      "jugador": "LI, ZEXI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "LAIZ JIMENO, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "LAIZ JIMENO, JON",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CID RUIZ, JULEN",
+  "entrenador_visitante": "ALONSO ETXEBARRIA, IMANOL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "POLO MARTIN, ENRIQUE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "POLO MARTIN, ENRIQUE",
+  "delegado_equipo_visitante": "CID HOMPANERA, ALEX",
+  "titulares_local": [
+    "INTXAURRAGA ATXURRA, ARATZ",
+    "LOPEZ LASUEN, ANER",
+    "ARANBURU GONZALEZ DE AUDICANA, MARKEL",
+    "ARRIAGA BERANOAGUIRRE, IPAR",
+    "PEREZ ALBARRAN, UNAX",
+    "REYES QUINTERO, JORGE ALEXANDER",
+    "LI, ZEXI",
+    "UNZALU MARTINEZ, IBAI",
+    "ETXEBARRIA PEREZ DE LASTRA, PAUL",
+    "BIKANDI FONSECA, AIMAR",
+    "SANTAMARIA SAN ANTON, DANIEL"
+  ],
+  "titulares_visitante": [
+    "ANTOLIN HERRAEZ, ION",
+    "SACRISTAN MARTIN, GABRIEL",
+    "HIGUERO URIBE, LIER",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "MARTIN MUNGUIRA, ANDER",
+    "ARTOLA BROCH, UNAI",
+    "HERNANDEZ BRAZO, ARETX",
+    "DE LA FUENTE GARCIA, MARKEL",
+    "MORALES BASAÑEZ, ARITZ"
+  ],
+  "suplentes_local": [
+    "ORTIZ DE ZARATE IBAÑEZ, LUKA",
+    "AJURIAGERRA RUIZ, ARATZ",
+    "URIGOITIA MELENDEZ, JON",
+    "MOLINA ROMERO, ALEX",
+    "MEZO PEREZ, OIHAN",
+    "ABDUL-HAMID MUFTAWU, HAMID",
+    "URIGOITIA NOGUEIRA, PELLO"
+  ],
+  "suplentes_visitante": [
+    "LAIZ JIMENO, JON",
+    "PAREDES PANIAGUA, MARKEL",
+    "RENTERIA BLANCO, IZEI",
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+    "ALONSO VERGARA, MARKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORTIZ DE ZARATE IBAÑEZ, LUKA",
+    "URIGOITIA MELENDEZ, JON"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "INTXAURRAGA ATXURRA, ARATZ",
+    "LOPEZ LASUEN, ANER",
+    "ARANBURU GONZALEZ DE AUDICANA, MARKEL",
+    "ARRIAGA BERANOAGUIRRE, IPAR",
+    "PEREZ ALBARRAN, UNAX",
+    "REYES QUINTERO, JORGE ALEXANDER",
+    "LI, ZEXI",
+    "UNZALU MARTINEZ, IBAI",
+    "ETXEBARRIA PEREZ DE LASTRA, PAUL",
+    "BIKANDI FONSECA, AIMAR",
+    "SANTAMARIA SAN ANTON, DANIEL",
+    "URIGOITIA NOGUEIRA, PELLO",
+    "ABDUL-HAMID MUFTAWU, HAMID",
+    "AJURIAGERRA RUIZ, ARATZ",
+    "MOLINA ROMERO, ALEX",
+    "MEZO PEREZ, OIHAN"
+  ],
+  "jugadores_visitante": [
+    "ANTOLIN HERRAEZ, ION",
+    "SACRISTAN MARTIN, GABRIEL",
+    "HIGUERO URIBE, LIER",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "MARTIN MUNGUIRA, ANDER",
+    "ARTOLA BROCH, UNAI",
+    "HERNANDEZ BRAZO, ARETX",
+    "DE LA FUENTE GARCIA, MARKEL",
+    "MORALES BASAÑEZ, ARITZ",
+    "RENTERIA BLANCO, IZEI",
+    "PAREDES PANIAGUA, MARKEL",
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+    "ALONSO VERGARA, MARKEL",
+    "LAIZ JIMENO, JON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 63,
+      "entra": "URIGOITIA NOGUEIRA, PELLO",
+      "sale": "ARANBURU GONZALEZ DE AUDICANA, MARKEL"
+    },
+    {
+      "min": 63,
+      "entra": "ABDUL-HAMID MUFTAWU, HAMID",
+      "sale": "ETXEBARRIA PEREZ DE LASTRA, PAUL"
+    },
+    {
+      "min": 75,
+      "entra": "AJURIAGERRA RUIZ, ARATZ",
+      "sale": "LI, ZEXI"
+    },
+    {
+      "min": 75,
+      "entra": "MOLINA ROMERO, ALEX",
+      "sale": "UNZALU MARTINEZ, IBAI"
+    },
+    {
+      "min": 84,
+      "entra": "MEZO PEREZ, OIHAN",
+      "sale": "PEREZ ALBARRAN, UNAX"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "RENTERIA BLANCO, IZEI",
+      "sale": "HIGUERO URIBE, LIER"
+    },
+    {
+      "min": 53,
+      "entra": "PAREDES PANIAGUA, MARKEL",
+      "sale": "DE LA FUENTE GARCIA, MARKEL"
+    },
+    {
+      "min": 53,
+      "entra": "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+      "sale": "MORALES BASAÑEZ, ARITZ"
+    },
+    {
+      "min": 68,
+      "entra": "ALONSO VERGARA, MARKEL",
+      "sale": "FERNANDEZ PAÑOS, AIMAR"
+    },
+    {
+      "min": 68,
+      "entra": "LAIZ JIMENO, JON",
+      "sale": "HERNANDEZ BRAZO, ARETX"
+    }
+  ],
+  "minutos_jugadores": {
+    "INTXAURRAGA ATXURRA, ARATZ": 90,
+    "LOPEZ LASUEN, ANER": 90,
+    "ARANBURU GONZALEZ DE AUDICANA, MARKEL": 63,
+    "ARRIAGA BERANOAGUIRRE, IPAR": 90,
+    "PEREZ ALBARRAN, UNAX": 84,
+    "REYES QUINTERO, JORGE ALEXANDER": 90,
+    "LI, ZEXI": 75,
+    "UNZALU MARTINEZ, IBAI": 75,
+    "ETXEBARRIA PEREZ DE LASTRA, PAUL": 63,
+    "BIKANDI FONSECA, AIMAR": 90,
+    "SANTAMARIA SAN ANTON, DANIEL": 90,
+    "URIGOITIA NOGUEIRA, PELLO": 27,
+    "ABDUL-HAMID MUFTAWU, HAMID": 27,
+    "AJURIAGERRA RUIZ, ARATZ": 15,
+    "MOLINA ROMERO, ALEX": 15,
+    "MEZO PEREZ, OIHAN": 6,
+    "ANTOLIN HERRAEZ, ION": 90,
+    "SACRISTAN MARTIN, GABRIEL": 90,
+    "HIGUERO URIBE, LIER": 49,
+    "HERNANDEZ SANTISTEBAN, OIER": 90,
+    "FERNANDEZ PAÑOS, AIMAR": 68,
+    "ESPAÑA RAMOS, NIKOLAS": 90,
+    "MARTIN MUNGUIRA, ANDER": 90,
+    "ARTOLA BROCH, UNAI": 90,
+    "HERNANDEZ BRAZO, ARETX": 68,
+    "DE LA FUENTE GARCIA, MARKEL": 53,
+    "MORALES BASAÑEZ, ARITZ": 53,
+    "RENTERIA BLANCO, IZEI": 41,
+    "PAREDES PANIAGUA, MARKEL": 37,
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER": 37,
+    "ALONSO VERGARA, MARKEL": 22,
+    "LAIZ JIMENO, JON": 22
+  },
+  "portero_local": "INTXAURRAGA ATXURRA, ARATZ",
+  "portero_visitante": "ANTOLIN HERRAEZ, ION",
+  "dorsales_local": {
+    "INTXAURRAGA ATXURRA, ARATZ": 13,
+    "LOPEZ LASUEN, ANER": 2,
+    "ARANBURU GONZALEZ DE AUDICANA, MARKEL": 7,
+    "ARRIAGA BERANOAGUIRRE, IPAR": 8,
+    "PEREZ ALBARRAN, UNAX": 11,
+    "REYES QUINTERO, JORGE ALEXANDER": 12,
+    "LI, ZEXI": 14,
+    "UNZALU MARTINEZ, IBAI": 18,
+    "ETXEBARRIA PEREZ DE LASTRA, PAUL": 19,
+    "BIKANDI FONSECA, AIMAR": 21,
+    "SANTAMARIA SAN ANTON, DANIEL": 24
+  },
+  "dorsales_visitante": {
+    "ANTOLIN HERRAEZ, ION": 1,
+    "SACRISTAN MARTIN, GABRIEL": 2,
+    "HIGUERO URIBE, LIER": 4,
+    "HERNANDEZ SANTISTEBAN, OIER": 6,
+    "FERNANDEZ PAÑOS, AIMAR": 10,
+    "ESPAÑA RAMOS, NIKOLAS": 11,
+    "MARTIN MUNGUIRA, ANDER": 14,
+    "ARTOLA BROCH, UNAI": 15,
+    "HERNANDEZ BRAZO, ARETX": 18,
+    "DE LA FUENTE GARCIA, MARKEL": 20,
+    "MORALES BASAÑEZ, ARITZ": 21
+  },
+  "suspendidos": [
+    "LAIZ JIMENO, JON"
+  ]
+}
