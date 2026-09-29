@@ -1,0 +1,270 @@
+{
+  "acta_id": "C_193071",
+  "filename": "Acta_C_193071.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 5,
+  "fecha": "05-10-2024",
+  "hora": "16:45",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. ARENAS DE FRAJANAS A",
+  "equipo_visitante": "C.D. MONTE B",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAN MARTIN DE LA TEJA, JON"
+  ],
+  "estadio": "Municipal de Frajanas",
+  "ciudad": "Astillero (El)",
+  "goleadores": [
+    {
+      "minuto": 33,
+      "jugador": "YEDRA MARTIN, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "LOMAS AYUSO, GERARDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "DIAZ SANCHEZ, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "CUESTA GARCIA MAURIÑO, JORGE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "VICENTE LOPEZ, IVAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "YEDRA MARTIN, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "MUÑOZ MENDEZ, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MATE GARCIA, DIEGO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DE JUANA RODRIGUEZ, BORJA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DE JUANA RODRIGUEZ, BORJA",
+  "delegado_equipo_visitante": "LÓPEZ CASO, RICARDO",
+  "titulares_local": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "YEDRA MARTIN, NICOLAS",
+    "BRAVO HERRERO, MARIO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "SAÑUDO HERRAN, HUGO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "belver duran, ivan"
+  ],
+  "titulares_visitante": [
+    "RUIZ VELA, DANIEL",
+    "MARQUEZ MACHO-QUEVEDO, RAUL",
+    "MUÑOZ MENDEZ, JAVIER",
+    "PEREDA MUÑOZ, JAVIER",
+    "CORDERO ARAMBURU, MATEO",
+    "TORRE MERINO, MARIO",
+    "DOMINGUEZ MONROY, KEVIN ANDRES",
+    "MARTINEZ RADO, MIGUEL",
+    "POBO FERNANDEZ, JORGE",
+    "DE LA VEGA PEREZ, ALEJANDRO",
+    "HERRAN ESTERAS, DANIEL"
+  ],
+  "suplentes_local": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "MARTIN SECO, BRUNO",
+    "QUIJANO SOTO, PABLO",
+    "CUERO BENITO, HUGO"
+  ],
+  "suplentes_visitante": [
+    "SAEZ CASTRILLO, MARIO",
+    "SAN EMETERIO PONTON, MARCOS",
+    "CUESTA GARCIA MAURIÑO, JORGE",
+    "ARCO LOPEZ, AIMAR",
+    "ODRIOZOLA HERNANDEZ, MARCO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "YEDRA MARTIN, NICOLAS",
+    "BRAVO HERRERO, MARIO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "SAÑUDO HERRAN, HUGO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "belver duran, ivan",
+    "JIMENEZ LASTRA, MIGUEL",
+    "MARTIN SECO, BRUNO",
+    "CUERO BENITO, HUGO",
+    "QUIJANO SOTO, PABLO"
+  ],
+  "jugadores_visitante": [
+    "RUIZ VELA, DANIEL",
+    "MARQUEZ MACHO-QUEVEDO, RAUL",
+    "MUÑOZ MENDEZ, JAVIER",
+    "PEREDA MUÑOZ, JAVIER",
+    "CORDERO ARAMBURU, MATEO",
+    "TORRE MERINO, MARIO",
+    "DOMINGUEZ MONROY, KEVIN ANDRES",
+    "MARTINEZ RADO, MIGUEL",
+    "POBO FERNANDEZ, JORGE",
+    "DE LA VEGA PEREZ, ALEJANDRO",
+    "HERRAN ESTERAS, DANIEL",
+    "SAEZ CASTRILLO, MARIO",
+    "ARCO LOPEZ, AIMAR",
+    "ODRIOZOLA HERNANDEZ, MARCO",
+    "CUESTA GARCIA MAURIÑO, JORGE",
+    "SAN EMETERIO PONTON, MARCOS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "JIMENEZ LASTRA, MIGUEL",
+      "sale": "HERRERO VILLALOBOS, MARCOS"
+    },
+    {
+      "min": 49,
+      "entra": "MARTIN SECO, BRUNO",
+      "sale": "MATE GARCIA, ALVARO"
+    },
+    {
+      "min": 52,
+      "entra": "CUERO BENITO, HUGO",
+      "sale": "SAÑUDO HERRAN, HUGO"
+    },
+    {
+      "min": 52,
+      "entra": "QUIJANO SOTO, PABLO",
+      "sale": "DIAZ SANCHEZ, IZAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "SAEZ CASTRILLO, MARIO",
+      "sale": "POBO FERNANDEZ, JORGE"
+    },
+    {
+      "min": 52,
+      "entra": "ARCO LOPEZ, AIMAR",
+      "sale": "CORDERO ARAMBURU, MATEO"
+    },
+    {
+      "min": 55,
+      "entra": "ODRIOZOLA HERNANDEZ, MARCO",
+      "sale": "DE LA VEGA PEREZ, ALEJANDRO"
+    },
+    {
+      "min": 56,
+      "entra": "CUESTA GARCIA MAURIÑO, JORGE",
+      "sale": "TORRE MERINO, MARIO"
+    },
+    {
+      "min": 56,
+      "entra": "SAN EMETERIO PONTON, MARCOS",
+      "sale": "MARTINEZ RADO, MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "HERRERO VILLALOBOS, MARCOS": 40,
+    "YEDRA MARTIN, NICOLAS": 90,
+    "BRAVO HERRERO, MARIO": 90,
+    "VICENTE LOPEZ, IVAN": 90,
+    "TORIBIO ARCE, EDUARDO": 90,
+    "LOMAS AYUSO, GERARDO": 90,
+    "SAÑUDO HERRAN, HUGO": 52,
+    "FUERTES LOPEZ, ANGEL": 90,
+    "MATE GARCIA, ALVARO": 49,
+    "DIAZ SANCHEZ, IZAN": 52,
+    "belver duran, ivan": 90,
+    "JIMENEZ LASTRA, MIGUEL": 50,
+    "MARTIN SECO, BRUNO": 41,
+    "CUERO BENITO, HUGO": 38,
+    "QUIJANO SOTO, PABLO": 38,
+    "RUIZ VELA, DANIEL": 90,
+    "MARQUEZ MACHO-QUEVEDO, RAUL": 90,
+    "MUÑOZ MENDEZ, JAVIER": 90,
+    "PEREDA MUÑOZ, JAVIER": 90,
+    "CORDERO ARAMBURU, MATEO": 52,
+    "TORRE MERINO, MARIO": 56,
+    "DOMINGUEZ MONROY, KEVIN ANDRES": 90,
+    "MARTINEZ RADO, MIGUEL": 56,
+    "POBO FERNANDEZ, JORGE": 49,
+    "DE LA VEGA PEREZ, ALEJANDRO": 55,
+    "HERRAN ESTERAS, DANIEL": 90,
+    "SAEZ CASTRILLO, MARIO": 41,
+    "ARCO LOPEZ, AIMAR": 38,
+    "ODRIOZOLA HERNANDEZ, MARCO": 35,
+    "CUESTA GARCIA MAURIÑO, JORGE": 34,
+    "SAN EMETERIO PONTON, MARCOS": 34
+  },
+  "portero_local": "HERRERO VILLALOBOS, MARCOS",
+  "portero_visitante": "RUIZ VELA, DANIEL",
+  "dorsales_local": {
+    "HERRERO VILLALOBOS, MARCOS": 1,
+    "YEDRA MARTIN, NICOLAS": 2,
+    "BRAVO HERRERO, MARIO": 3,
+    "VICENTE LOPEZ, IVAN": 5,
+    "TORIBIO ARCE, EDUARDO": 6,
+    "LOMAS AYUSO, GERARDO": 7,
+    "SAÑUDO HERRAN, HUGO": 8,
+    "FUERTES LOPEZ, ANGEL": 9,
+    "MATE GARCIA, ALVARO": 10,
+    "DIAZ SANCHEZ, IZAN": 11,
+    "belver duran, ivan": 15
+  },
+  "dorsales_visitante": {
+    "RUIZ VELA, DANIEL": 13,
+    "MARQUEZ MACHO-QUEVEDO, RAUL": 2,
+    "MUÑOZ MENDEZ, JAVIER": 4,
+    "PEREDA MUÑOZ, JAVIER": 6,
+    "CORDERO ARAMBURU, MATEO": 7,
+    "TORRE MERINO, MARIO": 8,
+    "DOMINGUEZ MONROY, KEVIN ANDRES": 9,
+    "MARTINEZ RADO, MIGUEL": 10,
+    "POBO FERNANDEZ, JORGE": 11,
+    "DE LA VEGA PEREZ, ALEJANDRO": 12,
+    "HERRAN ESTERAS, DANIEL": 15
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
