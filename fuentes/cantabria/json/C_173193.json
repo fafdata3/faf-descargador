@@ -1,0 +1,262 @@
+{
+  "acta_id": "C_173193",
+  "filename": "Acta_C_173193.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 6,
+  "fecha": "28-10-2023",
+  "hora": "18:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.AT. PERINES A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 5,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "TORRE PELAYO, JAVIER"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "TRESGALLO RODRIGUEZ, ULISES",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "DESIRE BONILLA, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "DESIRE BONILLA, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "MORENO ARRIETA, AKETX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "GARCIA TARANO, BRAYAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "SOLANA PEREZ, LEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 73,
+      "jugador": "CORONA DE MATEO, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "CORONA DE MATEO, DAVID",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "URSUGUIA PELAEZ, ANGEL",
+  "entrenador_visitante": "CICERO MONTES, RAFAEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MADRAZO CARRASCO, JOSE L",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MADRAZO CARRASCO, JOSE L",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PEÑA DIEZ, DAVID",
+    "DE LA GRANJA PEREZ, HUGO",
+    "SOL SANTAMARINA, DANIEL",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "DESIRE BONILLA, DANIEL",
+    "RUIZ TOCA, MARIO",
+    "MORENO ARRIETA, AKETX",
+    "VILLA GARCIA, ARAN",
+    "PONTONES FERREIRA, MARIO",
+    "VEGA CASAS, CARLOS"
+  ],
+  "titulares_visitante": [
+    "MOROGLU OYARBIDE, LEO",
+    "CRESPO SÁINZ, ISIDRO",
+    "CRESPO SÁINZ, ÁNGEL",
+    "BARREDA MENDEZ, EDGAR",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "VELARDE VEGA, HECTOR",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "CRUZADO CUESTA, FABIO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "HORNERO PEREZ, ROMAN",
+    "HERRERA RUIZ, ADAHY"
+  ],
+  "suplentes_local": [
+    "GARCIA HELGUERA, SAMUEL",
+    "AZNAR NUÑO, ALEX",
+    "SOLANA PEREZ, LEO",
+    "CORONA DE MATEO, DAVID",
+    "DIAZ ALPISTE, SAMUEL"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ GUERRA, VICTOR",
+    "PEREDA MONJE, FERNANDO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PEÑA DIEZ, DAVID",
+    "DE LA GRANJA PEREZ, HUGO",
+    "SOL SANTAMARINA, DANIEL",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "DESIRE BONILLA, DANIEL",
+    "RUIZ TOCA, MARIO",
+    "MORENO ARRIETA, AKETX",
+    "VILLA GARCIA, ARAN",
+    "PONTONES FERREIRA, MARIO",
+    "VEGA CASAS, CARLOS",
+    "GARCIA HELGUERA, SAMUEL",
+    "DIAZ ALPISTE, SAMUEL",
+    "SOLANA PEREZ, LEO",
+    "AZNAR NUÑO, ALEX",
+    "CORONA DE MATEO, DAVID"
+  ],
+  "jugadores_visitante": [
+    "MOROGLU OYARBIDE, LEO",
+    "CRESPO SÁINZ, ISIDRO",
+    "CRESPO SÁINZ, ÁNGEL",
+    "BARREDA MENDEZ, EDGAR",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "VELARDE VEGA, HECTOR",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "CRUZADO CUESTA, FABIO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "HORNERO PEREZ, ROMAN",
+    "HERRERA RUIZ, ADAHY",
+    "PEREDA MONJE, FERNANDO",
+    "LOPEZ GUERRA, VICTOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "GARCIA HELGUERA, SAMUEL",
+      "sale": "PEÑA DIEZ, DAVID"
+    },
+    {
+      "min": 47,
+      "entra": "DIAZ ALPISTE, SAMUEL",
+      "sale": "VEGA CASAS, CARLOS"
+    },
+    {
+      "min": 47,
+      "entra": "SOLANA PEREZ, LEO",
+      "sale": "MORENO ARRIETA, AKETX"
+    },
+    {
+      "min": 51,
+      "entra": "AZNAR NUÑO, ALEX",
+      "sale": "RUIZ TOCA, MARIO"
+    },
+    {
+      "min": 51,
+      "entra": "CORONA DE MATEO, DAVID",
+      "sale": "PONTONES FERREIRA, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "PEREDA MONJE, FERNANDO",
+      "sale": "BARREDA MENDEZ, EDGAR"
+    },
+    {
+      "min": 56,
+      "entra": "LOPEZ GUERRA, VICTOR",
+      "sale": "CRESPO SÁINZ, ÁNGEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEÑA DIEZ, DAVID": 35,
+    "DE LA GRANJA PEREZ, HUGO": 90,
+    "SOL SANTAMARINA, DANIEL": 90,
+    "SAN MIGUEL VÉLEZ, HUGO": 90,
+    "GARCIA TARANO, BRAYAN": 90,
+    "DESIRE BONILLA, DANIEL": 90,
+    "RUIZ TOCA, MARIO": 51,
+    "MORENO ARRIETA, AKETX": 47,
+    "VILLA GARCIA, ARAN": 90,
+    "PONTONES FERREIRA, MARIO": 51,
+    "VEGA CASAS, CARLOS": 47,
+    "GARCIA HELGUERA, SAMUEL": 55,
+    "DIAZ ALPISTE, SAMUEL": 43,
+    "SOLANA PEREZ, LEO": 43,
+    "AZNAR NUÑO, ALEX": 39,
+    "CORONA DE MATEO, DAVID": 39,
+    "MOROGLU OYARBIDE, LEO": 90,
+    "CRESPO SÁINZ, ISIDRO": 90,
+    "CRESPO SÁINZ, ÁNGEL": 56,
+    "BARREDA MENDEZ, EDGAR": 51,
+    "GOMEZ CABIELLES, ALEJANDRO": 90,
+    "VELARDE VEGA, HECTOR": 90,
+    "TRESGALLO RODRIGUEZ, ULISES": 90,
+    "CRUZADO CUESTA, FABIO": 90,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 90,
+    "HORNERO PEREZ, ROMAN": 90,
+    "HERRERA RUIZ, ADAHY": 90,
+    "PEREDA MONJE, FERNANDO": 39,
+    "LOPEZ GUERRA, VICTOR": 34
+  },
+  "portero_local": "PEÑA DIEZ, DAVID",
+  "portero_visitante": "MOROGLU OYARBIDE, LEO",
+  "dorsales_local": {
+    "PEÑA DIEZ, DAVID": 1,
+    "DE LA GRANJA PEREZ, HUGO": 3,
+    "SOL SANTAMARINA, DANIEL": 4,
+    "SAN MIGUEL VÉLEZ, HUGO": 5,
+    "GARCIA TARANO, BRAYAN": 6,
+    "DESIRE BONILLA, DANIEL": 7,
+    "RUIZ TOCA, MARIO": 9,
+    "MORENO ARRIETA, AKETX": 10,
+    "VILLA GARCIA, ARAN": 15,
+    "PONTONES FERREIRA, MARIO": 18,
+    "VEGA CASAS, CARLOS": 20
+  },
+  "dorsales_visitante": {
+    "MOROGLU OYARBIDE, LEO": 1,
+    "CRESPO SÁINZ, ISIDRO": 4,
+    "CRESPO SÁINZ, ÁNGEL": 5,
+    "BARREDA MENDEZ, EDGAR": 6,
+    "GOMEZ CABIELLES, ALEJANDRO": 7,
+    "VELARDE VEGA, HECTOR": 9,
+    "TRESGALLO RODRIGUEZ, ULISES": 10,
+    "CRUZADO CUESTA, FABIO": 11,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 15,
+    "HORNERO PEREZ, ROMAN": 18,
+    "HERRERA RUIZ, ADAHY": 21
+  },
+  "suspendidos": [
+    "CORONA DE MATEO, DAVID"
+  ]
+}
