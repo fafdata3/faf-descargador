@@ -1,0 +1,266 @@
+{
+  "acta_id": "C_193114",
+  "filename": "Acta_C_193114.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 10,
+  "fecha": "09-11-2024",
+  "hora": "18:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. MONTE B",
+  "equipo_visitante": "CLUB BANSANDER B",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RESPUELA VALIÑO, IVÁN"
+  ],
+  "estadio": "Monte 1",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "ABAD BECERRA, ALEX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "CAÑARTE SOTO, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "LÓPEZ DÍAZ, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "SAINZ DE LA MAZA CARRERAS, ANGEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 78,
+      "jugador": "MARQUEZ MACHO-QUEVEDO, RAUL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "RUIZ FERNANDEZ, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LOPEZ CEBALLOS, JAVIER",
+  "entrenador_visitante": "CRUZ GALLARDO, PEDRO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LÓPEZ CASO, RICARDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LÓPEZ CASO, RICARDO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DEL VALLE GARCIA, RUBEN",
+    "MARQUEZ MACHO-QUEVEDO, RAUL",
+    "SAEZ CASTRILLO, MARIO",
+    "PEREDA MUÑOZ, JAVIER",
+    "CORDERO ARAMBURU, MATEO",
+    "DOMINGUEZ MONROY, KEVIN ANDRES",
+    "MARTINEZ RADO, MIGUEL",
+    "POBO FERNANDEZ, JORGE",
+    "DE LA VEGA PEREZ, ALEJANDRO",
+    "BLANCO RUIZ, MARIO",
+    "ARCO LOPEZ, AIMAR"
+  ],
+  "titulares_visitante": [
+    "GHINDA GHINDA, DAVID",
+    "LÓPEZ DÍAZ, IZAN",
+    "ABAD BECERRA, ALEX",
+    "LOPEZ SAIZ, PABLO",
+    "PENILLA FERNANDEZ, SERGIO",
+    "GOMEZ VILLALABEITIA, ENOL",
+    "CAÑARTE SOTO, UNAI",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "VILLA GARCIA, ARAN",
+    "RUIZ NORIEGA, MIGUEL",
+    "SALAS GOMEZ, HUGO"
+  ],
+  "suplentes_local": [
+    "MUÑOZ MENDEZ, JAVIER",
+    "SAN EMETERIO PONTON, MARCOS",
+    "HERRAN ESTERAS, DANIEL",
+    "CUESTA GARCIA MAURIÑO, JORGE",
+    "ODRIOZOLA HERNANDEZ, MARCO"
+  ],
+  "suplentes_visitante": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "RUIZ FERNANDEZ, MARTIN",
+    "MARTIN GARCIA, DIEGO",
+    "ARENAS VIERA, DIEGO",
+    "TEJA TORRE, AURELIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "LEBEÑA RODRIGUEZ, ADRIAN"
+  ],
+  "jugadores_local": [
+    "DEL VALLE GARCIA, RUBEN",
+    "MARQUEZ MACHO-QUEVEDO, RAUL",
+    "SAEZ CASTRILLO, MARIO",
+    "PEREDA MUÑOZ, JAVIER",
+    "CORDERO ARAMBURU, MATEO",
+    "DOMINGUEZ MONROY, KEVIN ANDRES",
+    "MARTINEZ RADO, MIGUEL",
+    "POBO FERNANDEZ, JORGE",
+    "DE LA VEGA PEREZ, ALEJANDRO",
+    "BLANCO RUIZ, MARIO",
+    "ARCO LOPEZ, AIMAR",
+    "CUESTA GARCIA MAURIÑO, JORGE",
+    "HERRAN ESTERAS, DANIEL",
+    "MUÑOZ MENDEZ, JAVIER",
+    "SAN EMETERIO PONTON, MARCOS",
+    "ODRIOZOLA HERNANDEZ, MARCO"
+  ],
+  "jugadores_visitante": [
+    "GHINDA GHINDA, DAVID",
+    "LÓPEZ DÍAZ, IZAN",
+    "ABAD BECERRA, ALEX",
+    "LOPEZ SAIZ, PABLO",
+    "PENILLA FERNANDEZ, SERGIO",
+    "GOMEZ VILLALABEITIA, ENOL",
+    "CAÑARTE SOTO, UNAI",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "VILLA GARCIA, ARAN",
+    "RUIZ NORIEGA, MIGUEL",
+    "SALAS GOMEZ, HUGO",
+    "ARENAS VIERA, DIEGO",
+    "MARTIN GARCIA, DIEGO",
+    "RUIZ FERNANDEZ, MARTIN",
+    "TEJA TORRE, AURELIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "CUESTA GARCIA MAURIÑO, JORGE",
+      "sale": "POBO FERNANDEZ, JORGE"
+    },
+    {
+      "min": 51,
+      "entra": "HERRAN ESTERAS, DANIEL",
+      "sale": "DOMINGUEZ MONROY, KEVIN ANDRES"
+    },
+    {
+      "min": 58,
+      "entra": "MUÑOZ MENDEZ, JAVIER",
+      "sale": "PEREDA MUÑOZ, JAVIER"
+    },
+    {
+      "min": 58,
+      "entra": "SAN EMETERIO PONTON, MARCOS",
+      "sale": "ARCO LOPEZ, AIMAR"
+    },
+    {
+      "min": 58,
+      "entra": "ODRIOZOLA HERNANDEZ, MARCO",
+      "sale": "MARTINEZ RADO, MIGUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "ARENAS VIERA, DIEGO",
+      "sale": "PENILLA FERNANDEZ, SERGIO"
+    },
+    {
+      "min": 40,
+      "entra": "MARTIN GARCIA, DIEGO",
+      "sale": "LOPEZ SAIZ, PABLO"
+    },
+    {
+      "min": 40,
+      "entra": "RUIZ FERNANDEZ, MARTIN",
+      "sale": "ABAD BECERRA, ALEX"
+    },
+    {
+      "min": 53,
+      "entra": "TEJA TORRE, AURELIO",
+      "sale": "RUIZ NORIEGA, MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "DEL VALLE GARCIA, RUBEN": 90,
+    "MARQUEZ MACHO-QUEVEDO, RAUL": 90,
+    "SAEZ CASTRILLO, MARIO": 90,
+    "PEREDA MUÑOZ, JAVIER": 58,
+    "CORDERO ARAMBURU, MATEO": 90,
+    "DOMINGUEZ MONROY, KEVIN ANDRES": 51,
+    "MARTINEZ RADO, MIGUEL": 58,
+    "POBO FERNANDEZ, JORGE": 51,
+    "DE LA VEGA PEREZ, ALEJANDRO": 90,
+    "BLANCO RUIZ, MARIO": 90,
+    "ARCO LOPEZ, AIMAR": 58,
+    "CUESTA GARCIA MAURIÑO, JORGE": 39,
+    "HERRAN ESTERAS, DANIEL": 39,
+    "MUÑOZ MENDEZ, JAVIER": 32,
+    "SAN EMETERIO PONTON, MARCOS": 32,
+    "ODRIOZOLA HERNANDEZ, MARCO": 32,
+    "GHINDA GHINDA, DAVID": 90,
+    "LÓPEZ DÍAZ, IZAN": 90,
+    "ABAD BECERRA, ALEX": 40,
+    "LOPEZ SAIZ, PABLO": 40,
+    "PENILLA FERNANDEZ, SERGIO": 40,
+    "GOMEZ VILLALABEITIA, ENOL": 90,
+    "CAÑARTE SOTO, UNAI": 90,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 90,
+    "VILLA GARCIA, ARAN": 90,
+    "RUIZ NORIEGA, MIGUEL": 53,
+    "SALAS GOMEZ, HUGO": 90,
+    "ARENAS VIERA, DIEGO": 50,
+    "MARTIN GARCIA, DIEGO": 50,
+    "RUIZ FERNANDEZ, MARTIN": 50,
+    "TEJA TORRE, AURELIO": 37
+  },
+  "portero_local": "DEL VALLE GARCIA, RUBEN",
+  "portero_visitante": "GHINDA GHINDA, DAVID",
+  "dorsales_local": {
+    "DEL VALLE GARCIA, RUBEN": 1,
+    "MARQUEZ MACHO-QUEVEDO, RAUL": 2,
+    "SAEZ CASTRILLO, MARIO": 3,
+    "PEREDA MUÑOZ, JAVIER": 6,
+    "CORDERO ARAMBURU, MATEO": 7,
+    "DOMINGUEZ MONROY, KEVIN ANDRES": 9,
+    "MARTINEZ RADO, MIGUEL": 10,
+    "POBO FERNANDEZ, JORGE": 11,
+    "DE LA VEGA PEREZ, ALEJANDRO": 12,
+    "BLANCO RUIZ, MARIO": 16,
+    "ARCO LOPEZ, AIMAR": 18
+  },
+  "dorsales_visitante": {
+    "GHINDA GHINDA, DAVID": 13,
+    "LÓPEZ DÍAZ, IZAN": 3,
+    "ABAD BECERRA, ALEX": 4,
+    "LOPEZ SAIZ, PABLO": 5,
+    "PENILLA FERNANDEZ, SERGIO": 7,
+    "GOMEZ VILLALABEITIA, ENOL": 11,
+    "CAÑARTE SOTO, UNAI": 12,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 14,
+    "VILLA GARCIA, ARAN": 15,
+    "RUIZ NORIEGA, MIGUEL": 19,
+    "SALAS GOMEZ, HUGO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
