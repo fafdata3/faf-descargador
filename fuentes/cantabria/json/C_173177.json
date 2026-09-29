@@ -1,0 +1,253 @@
+{
+  "acta_id": "C_173177",
+  "filename": "Acta_C_173177.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 4,
+  "fecha": "14-10-2023",
+  "hora": "13:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D.E. ATCO. MINEROS A",
+  "equipo_visitante": "C.AT. PERINES A",
+  "goles_local": 1,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "HOLANDA PELAYO, JOSE LUIS"
+  ],
+  "estadio": "Puente San Miguel",
+  "ciudad": "Reocín",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "PONTONES FERREIRA, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 6,
+      "jugador": "CORONA DE MATEO, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 13,
+      "jugador": "GUTIERREZ TERAN, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "GARCIA TARANO, BRAYAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "CORONA DE MATEO, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "SOL SANTAMARINA, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 50,
+      "jugador": "SOL SANTAMARINA, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "URSUGUIA PELAEZ, ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DIAZ SANCHEZ, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TORRE SAMPEDRO, FERNANDO",
+  "delegado_equipo_visitante": "MADRAZO CARRASCO, JOSE L",
+  "titulares_local": [
+    "FERNANDEZ DE COS, JAIME",
+    "VEGA VASYAKIN, AITOR",
+    "FERNANDEZ GINES, ADRIAN",
+    "IGLESIAS BALADO, SIMON",
+    "GUTIERREZ TERAN, PABLO",
+    "CALDERON GOMEZ, BORJA",
+    "STAN, NICOLAE CRISTIAN",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "FERNÁNDEZ MONTES, DAVID",
+    "PEREZ TEZANOS, IZAN",
+    "BARREDO FERNANDEZ, GAEL"
+  ],
+  "titulares_visitante": [
+    "GARCIA HELGUERA, SAMUEL",
+    "COBO NDONG, DANIEL",
+    "DE LA GRANJA PEREZ, HUGO",
+    "SOL SANTAMARINA, DANIEL",
+    "GARCIA TARANO, BRAYAN",
+    "AZNAR NUÑO, ALEX",
+    "RUIZ TOCA, MARIO",
+    "MORENO ARRIETA, AKETX",
+    "CORONA DE MATEO, DAVID",
+    "VILLA GARCIA, ARAN",
+    "PONTONES FERREIRA, MARIO"
+  ],
+  "suplentes_local": [
+    "ROBLES CORCHADO, ALEX",
+    "KODUKOV GONCHAR, VLADIMIR"
+  ],
+  "suplentes_visitante": [
+    "PEÑA DIEZ, DAVID",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "HERRERA CASANOVA, IZAN",
+    "PEREZ GONZALEZ, HUGO",
+    "VEGA CASAS, CARLOS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ DE COS, JAIME",
+    "VEGA VASYAKIN, AITOR",
+    "FERNANDEZ GINES, ADRIAN",
+    "IGLESIAS BALADO, SIMON",
+    "GUTIERREZ TERAN, PABLO",
+    "CALDERON GOMEZ, BORJA",
+    "STAN, NICOLAE CRISTIAN",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "FERNÁNDEZ MONTES, DAVID",
+    "PEREZ TEZANOS, IZAN",
+    "BARREDO FERNANDEZ, GAEL",
+    "KODUKOV GONCHAR, VLADIMIR",
+    "ROBLES CORCHADO, ALEX"
+  ],
+  "jugadores_visitante": [
+    "GARCIA HELGUERA, SAMUEL",
+    "COBO NDONG, DANIEL",
+    "DE LA GRANJA PEREZ, HUGO",
+    "SOL SANTAMARINA, DANIEL",
+    "GARCIA TARANO, BRAYAN",
+    "AZNAR NUÑO, ALEX",
+    "RUIZ TOCA, MARIO",
+    "MORENO ARRIETA, AKETX",
+    "CORONA DE MATEO, DAVID",
+    "VILLA GARCIA, ARAN",
+    "PONTONES FERREIRA, MARIO",
+    "PEÑA DIEZ, DAVID",
+    "VEGA CASAS, CARLOS",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "PEREZ GONZALEZ, HUGO",
+    "HERRERA CASANOVA, IZAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "KODUKOV GONCHAR, VLADIMIR",
+      "sale": "BARREDO FERNANDEZ, GAEL"
+    },
+    {
+      "min": 46,
+      "entra": "ROBLES CORCHADO, ALEX",
+      "sale": "IGLESIAS BALADO, SIMON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "PEÑA DIEZ, DAVID",
+      "sale": "GARCIA HELGUERA, SAMUEL"
+    },
+    {
+      "min": 43,
+      "entra": "VEGA CASAS, CARLOS",
+      "sale": "COBO NDONG, DANIEL"
+    },
+    {
+      "min": 49,
+      "entra": "SAN MIGUEL VÉLEZ, HUGO",
+      "sale": "DE LA GRANJA PEREZ, HUGO"
+    },
+    {
+      "min": 49,
+      "entra": "PEREZ GONZALEZ, HUGO",
+      "sale": "PONTONES FERREIRA, MARIO"
+    },
+    {
+      "min": 49,
+      "entra": "HERRERA CASANOVA, IZAN",
+      "sale": "MORENO ARRIETA, AKETX"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ DE COS, JAIME": 90,
+    "VEGA VASYAKIN, AITOR": 90,
+    "FERNANDEZ GINES, ADRIAN": 90,
+    "IGLESIAS BALADO, SIMON": 46,
+    "GUTIERREZ TERAN, PABLO": 90,
+    "CALDERON GOMEZ, BORJA": 90,
+    "STAN, NICOLAE CRISTIAN": 90,
+    "NDIAYE RUIZ, MALICK JAVIER": 90,
+    "FERNÁNDEZ MONTES, DAVID": 90,
+    "PEREZ TEZANOS, IZAN": 90,
+    "BARREDO FERNANDEZ, GAEL": 45,
+    "KODUKOV GONCHAR, VLADIMIR": 45,
+    "ROBLES CORCHADO, ALEX": 44,
+    "GARCIA HELGUERA, SAMUEL": 35,
+    "COBO NDONG, DANIEL": 43,
+    "DE LA GRANJA PEREZ, HUGO": 49,
+    "SOL SANTAMARINA, DANIEL": 90,
+    "GARCIA TARANO, BRAYAN": 90,
+    "AZNAR NUÑO, ALEX": 90,
+    "RUIZ TOCA, MARIO": 90,
+    "MORENO ARRIETA, AKETX": 49,
+    "CORONA DE MATEO, DAVID": 90,
+    "VILLA GARCIA, ARAN": 90,
+    "PONTONES FERREIRA, MARIO": 49,
+    "PEÑA DIEZ, DAVID": 55,
+    "VEGA CASAS, CARLOS": 47,
+    "SAN MIGUEL VÉLEZ, HUGO": 41,
+    "PEREZ GONZALEZ, HUGO": 41,
+    "HERRERA CASANOVA, IZAN": 41
+  },
+  "portero_local": "FERNANDEZ DE COS, JAIME",
+  "portero_visitante": "GARCIA HELGUERA, SAMUEL",
+  "dorsales_local": {
+    "FERNANDEZ DE COS, JAIME": 1,
+    "VEGA VASYAKIN, AITOR": 2,
+    "FERNANDEZ GINES, ADRIAN": 3,
+    "IGLESIAS BALADO, SIMON": 6,
+    "GUTIERREZ TERAN, PABLO": 7,
+    "CALDERON GOMEZ, BORJA": 8,
+    "STAN, NICOLAE CRISTIAN": 9,
+    "NDIAYE RUIZ, MALICK JAVIER": 10,
+    "FERNÁNDEZ MONTES, DAVID": 11,
+    "PEREZ TEZANOS, IZAN": 15,
+    "BARREDO FERNANDEZ, GAEL": 22
+  },
+  "dorsales_visitante": {
+    "GARCIA HELGUERA, SAMUEL": 13,
+    "COBO NDONG, DANIEL": 2,
+    "DE LA GRANJA PEREZ, HUGO": 3,
+    "SOL SANTAMARINA, DANIEL": 4,
+    "GARCIA TARANO, BRAYAN": 6,
+    "AZNAR NUÑO, ALEX": 8,
+    "RUIZ TOCA, MARIO": 9,
+    "MORENO ARRIETA, AKETX": 10,
+    "CORONA DE MATEO, DAVID": 14,
+    "VILLA GARCIA, ARAN": 15,
+    "PONTONES FERREIRA, MARIO": 18
+  },
+  "suspendidos": []
+}
