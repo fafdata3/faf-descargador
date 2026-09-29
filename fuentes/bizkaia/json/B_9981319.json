@@ -1,0 +1,242 @@
+{
+  "acta_id": "B_9981319",
+  "filename": "Acta_B_9981319.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 19,
+  "fecha": "14-02-2026",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ASTI-LEKU A",
+  "equipo_visitante": "ITZUBALTZETA",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CHAKOUCH EL BADAOUI (M), ANAS"
+  ],
+  "estadio": "LOS LLANOS",
+  "ciudad": "Portugalete",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "ABAD MEDIAVILLA, LIHER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 52,
+      "jugador": "CUÑADO AIZPURU, JOSU",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 999,
+      "jugador": "ELORZA CORRALES, IÑAKI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MERINO CURIEL, MIGUEL",
+  "entrenador_visitante": "BARRENETXEA ATXURRA, IÑIGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "MARROQUIN LEON, MIKEL",
+  "delegado_campo_local": "IDIAÑEZ BERASTEGUI, EKAIN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "IDIAÑEZ BERASTEGUI, EKAIN",
+  "delegado_equipo_visitante": "GOMEZ GARRIDO, JON",
+  "titulares_local": [
+    "DEL RIO GIL, MARKEL",
+    "CUÑADO AIZPURU, JOSU",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "ELORZA CORRALES, IÑAKI",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "QUIROS DEL MOLINO, ENEKO",
+    "FERNANDEZ GONZALEZ, OIER",
+    "CALVO PEÑAFIEL, ASIER"
+  ],
+  "titulares_visitante": [
+    "MENDEZ ROSALES, JUAN PABLO",
+    "EXTREMO RUIZ, BEÑAT",
+    "JAKA ZABALA, JULEN",
+    "ABADIN SALOMON, IKER",
+    "ARANAGA SANCHEZ, UNAI",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "URQUIZA CORDERO, BEÑAT",
+    "INÉS FERNÁNDEZ, GORKA",
+    "ODRIOZOLA SANCHEZ, JON",
+    "NOCEDAL ARECHAVALA, AITOR",
+    "KRIDA GOMEZ, RAYAN"
+  ],
+  "suplentes_local": [
+    "BAZ LUQUE, JÖEL",
+    "PLANS DE DIEGO, LEZO",
+    "ARTEAGA DOUEIL, IKER",
+    "MURGA FERNANDEZ, LANDER",
+    "LORENTE PRADO, ANER",
+    "FERNANDEZ CARIDAD, ENEKO",
+    "GARCIA MARTINEZ, OIER"
+  ],
+  "suplentes_visitante": [
+    "ALFAYE SANZ, DANEL",
+    "PUERTAS BULNES, EDER",
+    "VIVANCO MIGUEL, EDER",
+    "ORMAZABAL SOMALO, MIGUEL",
+    "FERNANDEZ MAS, PEDRO",
+    "IGLESIAS SADA, BEÑAT",
+    "MARTINEZ RODRIGUEZ, ANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "BAZ LUQUE, JÖEL",
+    "ARTEAGA DOUEIL, IKER",
+    "MURGA FERNANDEZ, LANDER",
+    "FERNANDEZ CARIDAD, ENEKO",
+    "GARCIA MARTINEZ, OIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALFAYE SANZ, DANEL",
+    "MARTINEZ RODRIGUEZ, ANDER"
+  ],
+  "jugadores_local": [
+    "DEL RIO GIL, MARKEL",
+    "CUÑADO AIZPURU, JOSU",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "ELORZA CORRALES, IÑAKI",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "QUIROS DEL MOLINO, ENEKO",
+    "FERNANDEZ GONZALEZ, OIER",
+    "CALVO PEÑAFIEL, ASIER",
+    "PLANS DE DIEGO, LEZO",
+    "LORENTE PRADO, ANER"
+  ],
+  "jugadores_visitante": [
+    "MENDEZ ROSALES, JUAN PABLO",
+    "EXTREMO RUIZ, BEÑAT",
+    "JAKA ZABALA, JULEN",
+    "ABADIN SALOMON, IKER",
+    "ARANAGA SANCHEZ, UNAI",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "URQUIZA CORDERO, BEÑAT",
+    "INÉS FERNÁNDEZ, GORKA",
+    "ODRIOZOLA SANCHEZ, JON",
+    "NOCEDAL ARECHAVALA, AITOR",
+    "KRIDA GOMEZ, RAYAN",
+    "PUERTAS BULNES, EDER",
+    "VIVANCO MIGUEL, EDER",
+    "ORMAZABAL SOMALO, MIGUEL",
+    "FERNANDEZ MAS, PEDRO",
+    "IGLESIAS SADA, BEÑAT"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 64,
+      "entra": "PLANS DE DIEGO, LEZO",
+      "sale": "ELORZA CORRALES, IÑAKI"
+    },
+    {
+      "min": 71,
+      "entra": "LORENTE PRADO, ANER",
+      "sale": "QUIROS DEL MOLINO, ENEKO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "PUERTAS BULNES, EDER",
+      "sale": "INÉS FERNÁNDEZ, GORKA"
+    },
+    {
+      "min": 57,
+      "entra": "VIVANCO MIGUEL, EDER",
+      "sale": "URQUIZA CORDERO, BEÑAT"
+    },
+    {
+      "min": 57,
+      "entra": "ORMAZABAL SOMALO, MIGUEL",
+      "sale": "ARANAGA SANCHEZ, UNAI"
+    },
+    {
+      "min": 60,
+      "entra": "FERNANDEZ MAS, PEDRO",
+      "sale": "KRIDA GOMEZ, RAYAN"
+    },
+    {
+      "min": 74,
+      "entra": "IGLESIAS SADA, BEÑAT",
+      "sale": "ABADIN SALOMON, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "DEL RIO GIL, MARKEL": 90,
+    "CUÑADO AIZPURU, JOSU": 90,
+    "ALCANTARA IBAÑEZ, BEÑAT": 90,
+    "ABAD MEDIAVILLA, LIHER": 90,
+    "ELEXPURU GOMEZ, GORKA": 90,
+    "ELORZA CORRALES, IÑAKI": 64,
+    "VADILLO CASTRILLEJO, JON": 90,
+    "FORTEA BARABINO, MATEO": 90,
+    "QUIROS DEL MOLINO, ENEKO": 71,
+    "FERNANDEZ GONZALEZ, OIER": 90,
+    "CALVO PEÑAFIEL, ASIER": 90,
+    "PLANS DE DIEGO, LEZO": 26,
+    "LORENTE PRADO, ANER": 19,
+    "MENDEZ ROSALES, JUAN PABLO": 90,
+    "EXTREMO RUIZ, BEÑAT": 90,
+    "JAKA ZABALA, JULEN": 90,
+    "ABADIN SALOMON, IKER": 74,
+    "ARANAGA SANCHEZ, UNAI": 57,
+    "ITURRIZAGA ALONSO, KOLDO": 90,
+    "URQUIZA CORDERO, BEÑAT": 57,
+    "INÉS FERNÁNDEZ, GORKA": 45,
+    "ODRIOZOLA SANCHEZ, JON": 90,
+    "NOCEDAL ARECHAVALA, AITOR": 90,
+    "KRIDA GOMEZ, RAYAN": 60,
+    "PUERTAS BULNES, EDER": 45,
+    "VIVANCO MIGUEL, EDER": 33,
+    "ORMAZABAL SOMALO, MIGUEL": 33,
+    "FERNANDEZ MAS, PEDRO": 30,
+    "IGLESIAS SADA, BEÑAT": 16
+  },
+  "portero_local": "DEL RIO GIL, MARKEL",
+  "portero_visitante": "MENDEZ ROSALES, JUAN PABLO",
+  "dorsales_local": {
+    "DEL RIO GIL, MARKEL": 1,
+    "CUÑADO AIZPURU, JOSU": 3,
+    "ALCANTARA IBAÑEZ, BEÑAT": 4,
+    "ABAD MEDIAVILLA, LIHER": 5,
+    "ELEXPURU GOMEZ, GORKA": 6,
+    "ELORZA CORRALES, IÑAKI": 9,
+    "VADILLO CASTRILLEJO, JON": 10,
+    "FORTEA BARABINO, MATEO": 11,
+    "QUIROS DEL MOLINO, ENEKO": 18,
+    "FERNANDEZ GONZALEZ, OIER": 19,
+    "CALVO PEÑAFIEL, ASIER": 22
+  },
+  "dorsales_visitante": {
+    "MENDEZ ROSALES, JUAN PABLO": 1,
+    "EXTREMO RUIZ, BEÑAT": 2,
+    "JAKA ZABALA, JULEN": 3,
+    "ABADIN SALOMON, IKER": 6,
+    "ARANAGA SANCHEZ, UNAI": 8,
+    "ITURRIZAGA ALONSO, KOLDO": 11,
+    "URQUIZA CORDERO, BEÑAT": 14,
+    "INÉS FERNÁNDEZ, GORKA": 15,
+    "ODRIOZOLA SANCHEZ, JON": 16,
+    "NOCEDAL ARECHAVALA, AITOR": 20,
+    "KRIDA GOMEZ, RAYAN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
