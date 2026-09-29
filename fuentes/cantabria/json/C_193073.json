@@ -1,0 +1,257 @@
+{
+  "acta_id": "C_193073",
+  "filename": "Acta_C_193073.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 5,
+  "fecha": "05-10-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "E.M.F. SANTOÑA",
+  "goles_local": 3,
+  "goles_visitante": 3,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "ÁBALOS PÉREZ, PABLO"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "CRUZADO CUESTA, FABIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 14,
+      "jugador": "RESTREPO VALENCIA, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "NOVOA TARDÍO, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "ALONSO MAZA, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "SOLANA FERNANDEZ, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "VELATEGUI PRIETO, ADAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "CICERO MONTES, RAFAEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "CICERO MONTES, RAFAEL",
+  "entrenador_visitante": "ALONSO SAMPEDRO, JESUS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "GRANDE SALVADOR, GAEL",
+    "VELATEGUI PRIETO, ADAN",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "MORAN POLANCO, ALVARO",
+    "NOVOA TARDÍO, HUGO",
+    "GONZALEZ BENITO, PABLO",
+    "ROBETA DIAZ, JORGE",
+    "CRUZADO CUESTA, FABIO",
+    "MARTINEZ PEREZ, MIGUEL",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "RODRÍGUEZ LASO, KEVIN"
+  ],
+  "titulares_visitante": [
+    "GOMEZ MARTIN, DANILO",
+    "BLANCO GONZALEZ, OIER",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "CABALLERO DEL REY, ALVARO",
+    "SANTAMARIA HOYOS, DARIO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "BARBERARENA BODEGAS, SERGIO",
+    "RESTREPO VALENCIA, ALEJANDRO",
+    "LAVIN ARGOS, GONZALO",
+    "RENEDO ANSOLA, ABEL",
+    "ALONSO MAZA, AIMAR"
+  ],
+  "suplentes_local": [
+    "DAVIES MORRISON, RAFAEL",
+    "HERRERA RUIZ, ADAHY",
+    "VELARDE VEGA, HECTOR"
+  ],
+  "suplentes_visitante": [
+    "COLINA MARTINEZ, CAYETANO",
+    "ARCOS QUINTANA, ELVER ALEXANDER",
+    "SOLANO PRADA, VICTOR",
+    "PLA DIEZ, MARTIN",
+    "ABIA SANTAMARIA, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "PLA DIEZ, MARTIN"
+  ],
+  "jugadores_local": [
+    "GRANDE SALVADOR, GAEL",
+    "VELATEGUI PRIETO, ADAN",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "MORAN POLANCO, ALVARO",
+    "NOVOA TARDÍO, HUGO",
+    "GONZALEZ BENITO, PABLO",
+    "ROBETA DIAZ, JORGE",
+    "CRUZADO CUESTA, FABIO",
+    "MARTINEZ PEREZ, MIGUEL",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "RODRÍGUEZ LASO, KEVIN",
+    "VELARDE VEGA, HECTOR",
+    "DAVIES MORRISON, RAFAEL",
+    "HERRERA RUIZ, ADAHY"
+  ],
+  "jugadores_visitante": [
+    "GOMEZ MARTIN, DANILO",
+    "BLANCO GONZALEZ, OIER",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "CABALLERO DEL REY, ALVARO",
+    "SANTAMARIA HOYOS, DARIO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "BARBERARENA BODEGAS, SERGIO",
+    "RESTREPO VALENCIA, ALEJANDRO",
+    "LAVIN ARGOS, GONZALO",
+    "RENEDO ANSOLA, ABEL",
+    "ALONSO MAZA, AIMAR",
+    "COLINA MARTINEZ, CAYETANO",
+    "SOLANO PRADA, VICTOR",
+    "ABIA SANTAMARIA, JAVIER",
+    "ARCOS QUINTANA, ELVER ALEXANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "VELARDE VEGA, HECTOR",
+      "sale": "DEL CASTILLO SARAÑANA, LUCAS"
+    },
+    {
+      "min": 52,
+      "entra": "DAVIES MORRISON, RAFAEL",
+      "sale": "NOVOA TARDÍO, HUGO"
+    },
+    {
+      "min": 52,
+      "entra": "HERRERA RUIZ, ADAHY",
+      "sale": "RODRÍGUEZ LASO, KEVIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 68,
+      "entra": "COLINA MARTINEZ, CAYETANO",
+      "sale": "RESTREPO VALENCIA, ALEJANDRO"
+    },
+    {
+      "min": 71,
+      "entra": "SOLANO PRADA, VICTOR",
+      "sale": "RENEDO ANSOLA, ABEL"
+    },
+    {
+      "min": 79,
+      "entra": "ABIA SANTAMARIA, JAVIER",
+      "sale": "BARBERARENA BODEGAS, SERGIO"
+    },
+    {
+      "min": 79,
+      "entra": "ARCOS QUINTANA, ELVER ALEXANDER",
+      "sale": "LAVIN ARGOS, GONZALO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GRANDE SALVADOR, GAEL": 90,
+    "VELATEGUI PRIETO, ADAN": 90,
+    "DEL CASTILLO SARAÑANA, LUCAS": 44,
+    "MORAN POLANCO, ALVARO": 90,
+    "NOVOA TARDÍO, HUGO": 52,
+    "GONZALEZ BENITO, PABLO": 90,
+    "ROBETA DIAZ, JORGE": 90,
+    "CRUZADO CUESTA, FABIO": 90,
+    "MARTINEZ PEREZ, MIGUEL": 90,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 90,
+    "RODRÍGUEZ LASO, KEVIN": 52,
+    "VELARDE VEGA, HECTOR": 46,
+    "DAVIES MORRISON, RAFAEL": 38,
+    "HERRERA RUIZ, ADAHY": 38,
+    "GOMEZ MARTIN, DANILO": 90,
+    "BLANCO GONZALEZ, OIER": 90,
+    "ANSOLA FERNANDEZ, VINDIO": 90,
+    "CABALLERO DEL REY, ALVARO": 90,
+    "SANTAMARIA HOYOS, DARIO": 90,
+    "SOLANA FERNANDEZ, ALEJANDRO": 90,
+    "BARBERARENA BODEGAS, SERGIO": 79,
+    "RESTREPO VALENCIA, ALEJANDRO": 68,
+    "LAVIN ARGOS, GONZALO": 79,
+    "RENEDO ANSOLA, ABEL": 71,
+    "ALONSO MAZA, AIMAR": 90,
+    "COLINA MARTINEZ, CAYETANO": 22,
+    "SOLANO PRADA, VICTOR": 19,
+    "ABIA SANTAMARIA, JAVIER": 11,
+    "ARCOS QUINTANA, ELVER ALEXANDER": 11
+  },
+  "portero_local": "GRANDE SALVADOR, GAEL",
+  "portero_visitante": "GOMEZ MARTIN, DANILO",
+  "dorsales_local": {
+    "GRANDE SALVADOR, GAEL": 13,
+    "VELATEGUI PRIETO, ADAN": 3,
+    "DEL CASTILLO SARAÑANA, LUCAS": 4,
+    "MORAN POLANCO, ALVARO": 6,
+    "NOVOA TARDÍO, HUGO": 7,
+    "GONZALEZ BENITO, PABLO": 8,
+    "ROBETA DIAZ, JORGE": 9,
+    "CRUZADO CUESTA, FABIO": 11,
+    "MARTINEZ PEREZ, MIGUEL": 12,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 15,
+    "RODRÍGUEZ LASO, KEVIN": 23
+  },
+  "dorsales_visitante": {
+    "GOMEZ MARTIN, DANILO": 1,
+    "BLANCO GONZALEZ, OIER": 2,
+    "ANSOLA FERNANDEZ, VINDIO": 4,
+    "CABALLERO DEL REY, ALVARO": 5,
+    "SANTAMARIA HOYOS, DARIO": 6,
+    "SOLANA FERNANDEZ, ALEJANDRO": 8,
+    "BARBERARENA BODEGAS, SERGIO": 9,
+    "RESTREPO VALENCIA, ALEJANDRO": 14,
+    "LAVIN ARGOS, GONZALO": 15,
+    "RENEDO ANSOLA, ABEL": 16,
+    "ALONSO MAZA, AIMAR": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
