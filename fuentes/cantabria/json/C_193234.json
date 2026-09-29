@@ -1,0 +1,258 @@
+{
+  "acta_id": "C_193234",
+  "filename": "Acta_C_193234.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 23,
+  "fecha": "22-02-2025",
+  "hora": "15:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. ARENAS DE FRAJANAS A",
+  "equipo_visitante": "C.D. RAMALES",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GIL CASTAÑERA, JORGE"
+  ],
+  "estadio": "Municipal de Frajanas",
+  "ciudad": "Astillero (El)",
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "FUERTES LOPEZ, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "DE LAS HERAS VARONA, ASIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "LOMAS AYUSO, GERARDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 78,
+      "jugador": "DE LAS HERAS VARONA, ASIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "GALAZ GOMEZ, GUILLERMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "LOPEZ GONZALEZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MATE GARCIA, DIEGO",
+  "entrenador_visitante": "JOVER FERNANDEZ, IÑIGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ESTRAVIZ BASCONES, ALEJANDRO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DE JUANA RODRIGUEZ, BORJA",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "QUIJANO SOTO, PABLO",
+    "belver duran, ivan"
+  ],
+  "titulares_visitante": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "LLAMA GOMEZ, MARIO",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "LOPEZ SAEZ, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "MAZA NOVOA, MARIO",
+    "IBAÑEZ AHEDO, EGOITZ"
+  ],
+  "suplentes_local": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "MARTIN SECO, BRUNO",
+    "LOPEZ RAMIREZ, ALBERTO",
+    "DE LA IGLESIA SALVADOR, RODRIGO"
+  ],
+  "suplentes_visitante": [
+    "VILLASOL GARCIA, MARIO",
+    "MAZA FERNANDEZ, IÑIGO",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "CARRERA SANCHEZ, MARCOS",
+    "SIERRA GONZALEZ, KEVIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "VILLASOL GARCIA, MARIO"
+  ],
+  "jugadores_local": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "QUIJANO SOTO, PABLO",
+    "belver duran, ivan",
+    "HERRERO VILLALOBOS, MARCOS",
+    "LOPEZ RAMIREZ, ALBERTO",
+    "MARTIN SECO, BRUNO",
+    "DE LA IGLESIA SALVADOR, RODRIGO"
+  ],
+  "jugadores_visitante": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "LLAMA GOMEZ, MARIO",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "LOPEZ SAEZ, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "MAZA NOVOA, MARIO",
+    "IBAÑEZ AHEDO, EGOITZ",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "SIERRA GONZALEZ, KEVIN",
+    "MAZA FERNANDEZ, IÑIGO",
+    "CARRERA SANCHEZ, MARCOS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "HERRERO VILLALOBOS, MARCOS",
+      "sale": "JIMENEZ LASTRA, MIGUEL"
+    },
+    {
+      "min": 58,
+      "entra": "LOPEZ RAMIREZ, ALBERTO",
+      "sale": "QUIJANO SOTO, PABLO"
+    },
+    {
+      "min": 60,
+      "entra": "MARTIN SECO, BRUNO",
+      "sale": "belver duran, ivan"
+    },
+    {
+      "min": 60,
+      "entra": "DE LA IGLESIA SALVADOR, RODRIGO",
+      "sale": "DIAZ SANCHEZ, IZAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "COBREROS ZUBILLAGA, SAMUEL",
+      "sale": "LOPEZ SAEZ, ANDER"
+    },
+    {
+      "min": 40,
+      "entra": "SIERRA GONZALEZ, KEVIN",
+      "sale": "HOLGADO RODRIGUEZ, IKER"
+    },
+    {
+      "min": 72,
+      "entra": "MAZA FERNANDEZ, IÑIGO",
+      "sale": "MAZA NOVOA, MARIO"
+    },
+    {
+      "min": 72,
+      "entra": "CARRERA SANCHEZ, MARCOS",
+      "sale": "GOMEZ RANERO, ANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "JIMENEZ LASTRA, MIGUEL": 40,
+    "BRAVO HERRERO, MARIO": 90,
+    "ALONSO GONZALEZ, FERNANDO": 90,
+    "VICENTE LOPEZ, IVAN": 90,
+    "TORIBIO ARCE, EDUARDO": 90,
+    "LOMAS AYUSO, GERARDO": 90,
+    "FUERTES LOPEZ, ANGEL": 90,
+    "MATE GARCIA, ALVARO": 90,
+    "DIAZ SANCHEZ, IZAN": 60,
+    "QUIJANO SOTO, PABLO": 58,
+    "belver duran, ivan": 60,
+    "HERRERO VILLALOBOS, MARCOS": 50,
+    "LOPEZ RAMIREZ, ALBERTO": 32,
+    "MARTIN SECO, BRUNO": 30,
+    "DE LA IGLESIA SALVADOR, RODRIGO": 30,
+    "FURIOL SALCEDO, RUBÉN": 90,
+    "TREVILLA VELA, RAMON": 90,
+    "LLAMA GOMEZ, MARIO": 90,
+    "DE LAS HERAS VARONA, ASIER": 90,
+    "LOPEZ GONZALEZ, HUGO": 90,
+    "GALAZ GOMEZ, GUILLERMO": 90,
+    "GOMEZ RANERO, ANDER": 72,
+    "LOPEZ SAEZ, ANDER": 40,
+    "HOLGADO RODRIGUEZ, IKER": 40,
+    "MAZA NOVOA, MARIO": 72,
+    "IBAÑEZ AHEDO, EGOITZ": 90,
+    "COBREROS ZUBILLAGA, SAMUEL": 50,
+    "SIERRA GONZALEZ, KEVIN": 50,
+    "MAZA FERNANDEZ, IÑIGO": 18,
+    "CARRERA SANCHEZ, MARCOS": 18
+  },
+  "portero_local": "JIMENEZ LASTRA, MIGUEL",
+  "portero_visitante": "FURIOL SALCEDO, RUBÉN",
+  "dorsales_local": {
+    "JIMENEZ LASTRA, MIGUEL": 13,
+    "BRAVO HERRERO, MARIO": 3,
+    "ALONSO GONZALEZ, FERNANDO": 4,
+    "VICENTE LOPEZ, IVAN": 5,
+    "TORIBIO ARCE, EDUARDO": 6,
+    "LOMAS AYUSO, GERARDO": 7,
+    "FUERTES LOPEZ, ANGEL": 9,
+    "MATE GARCIA, ALVARO": 10,
+    "DIAZ SANCHEZ, IZAN": 11,
+    "QUIJANO SOTO, PABLO": 14,
+    "belver duran, ivan": 15
+  },
+  "dorsales_visitante": {
+    "FURIOL SALCEDO, RUBÉN": 1,
+    "TREVILLA VELA, RAMON": 2,
+    "LLAMA GOMEZ, MARIO": 5,
+    "DE LAS HERAS VARONA, ASIER": 7,
+    "LOPEZ GONZALEZ, HUGO": 8,
+    "GALAZ GOMEZ, GUILLERMO": 10,
+    "GOMEZ RANERO, ANDER": 11,
+    "LOPEZ SAEZ, ANDER": 12,
+    "HOLGADO RODRIGUEZ, IKER": 14,
+    "MAZA NOVOA, MARIO": 15,
+    "IBAÑEZ AHEDO, EGOITZ": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
