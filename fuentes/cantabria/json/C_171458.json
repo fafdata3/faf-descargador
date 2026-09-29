@@ -1,0 +1,251 @@
+{
+  "acta_id": "C_171458",
+  "filename": "Acta_C_171458.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 34,
+  "fecha": "01-06-2024",
+  "hora": "12:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE B",
+  "equipo_visitante": "REAL RACING CLUB SAD B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MARTÍNEZ TERÁN, OSCAR"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 45,
+      "jugador": "GUTIERREZ SANZ, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "PERNIA RODRIGUEZ, JOEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "ECHEVARRIA LAMEIRO, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 76,
+      "jugador": "SOMOHANO TAMAYO, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "GALVAN LOMBILLA, FRANCISCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PALAZUELOS TRUEBA, JORGE",
+  "entrenador_visitante": "PORRAS RUIZ, CESAR",
+  "segundo_entrenador_local": "GONZALEZ ARENAL, PEDRO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ARCE SAINZ, JAVIER",
+  "titulares_local": [
+    "RUIZ SANTOS, AITOR",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "PERNÍA FERNÁNDEZ, MARCO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "SAEZ PEREZ, LUCAS",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "BARRIO OBREGON, IZAN",
+    "GOMEZ BOLADO, MIGUEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO"
+  ],
+  "titulares_visitante": [
+    "PIEDRA REVUELTA, GABRIEL",
+    "ORTIZ SAMPERIO, MANUEL",
+    "ECHEVARRIA LAMEIRO, LUCAS",
+    "GAITAN PEREZ, PABLO",
+    "PRIETO ALONSO, MARCOS",
+    "DIESTRO LANZA, RODRIGO",
+    "GARCIA REVUELTA, SERGIO",
+    "GUTIERREZ SANZ, DAVID",
+    "GOMEZ CUEVAS, RODRIGO",
+    "AMBROSIO OBREGON, ENRIQUE MANUEL",
+    "MARTINEZ SANCHEZ, PEDRO"
+  ],
+  "suplentes_local": [
+    "GOMEZ VILLANUEVA, DIEGO",
+    "DAHHAOUI RACHID, YAKOUB",
+    "PERNIA RODRIGUEZ, JOEL",
+    "GOMEZ NUÑEZ, IKER"
+  ],
+  "suplentes_visitante": [
+    "CABIELLES COSIO, MANUEL",
+    "GALVAN LOMBILLA, FRANCISCO",
+    "MUNIENTE CHIOGNA, ALBERTO",
+    "MANTECON TEJEDOR, MARCOS",
+    "CUESTA ORTIZ, FABIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GOMEZ VILLANUEVA, DIEGO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RUIZ SANTOS, AITOR",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "PERNÍA FERNÁNDEZ, MARCO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "SAEZ PEREZ, LUCAS",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "BARRIO OBREGON, IZAN",
+    "GOMEZ BOLADO, MIGUEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "PERNIA RODRIGUEZ, JOEL",
+    "GOMEZ NUÑEZ, IKER",
+    "DAHHAOUI RACHID, YAKOUB"
+  ],
+  "jugadores_visitante": [
+    "PIEDRA REVUELTA, GABRIEL",
+    "ORTIZ SAMPERIO, MANUEL",
+    "ECHEVARRIA LAMEIRO, LUCAS",
+    "GAITAN PEREZ, PABLO",
+    "PRIETO ALONSO, MARCOS",
+    "DIESTRO LANZA, RODRIGO",
+    "GARCIA REVUELTA, SERGIO",
+    "GUTIERREZ SANZ, DAVID",
+    "GOMEZ CUEVAS, RODRIGO",
+    "AMBROSIO OBREGON, ENRIQUE MANUEL",
+    "MARTINEZ SANCHEZ, PEDRO",
+    "MANTECON TEJEDOR, MARCOS",
+    "GALVAN LOMBILLA, FRANCISCO",
+    "MUNIENTE CHIOGNA, ALBERTO",
+    "CABIELLES COSIO, MANUEL",
+    "CUESTA ORTIZ, FABIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "PERNIA RODRIGUEZ, JOEL",
+      "sale": "RENEDO COSIO, DIEGO"
+    },
+    {
+      "min": 63,
+      "entra": "GOMEZ NUÑEZ, IKER",
+      "sale": "FERNÁNDEZ VICENTE, ALEJANDRO"
+    },
+    {
+      "min": 63,
+      "entra": "DAHHAOUI RACHID, YAKOUB",
+      "sale": "MOURA REVUELTA, ROMEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "MANTECON TEJEDOR, MARCOS",
+      "sale": "MARTINEZ SANCHEZ, PEDRO"
+    },
+    {
+      "min": 40,
+      "entra": "GALVAN LOMBILLA, FRANCISCO",
+      "sale": "PRIETO ALONSO, MARCOS"
+    },
+    {
+      "min": 40,
+      "entra": "MUNIENTE CHIOGNA, ALBERTO",
+      "sale": "GOMEZ CUEVAS, RODRIGO"
+    },
+    {
+      "min": 40,
+      "entra": "CABIELLES COSIO, MANUEL",
+      "sale": "PIEDRA REVUELTA, GABRIEL"
+    },
+    {
+      "min": 40,
+      "entra": "CUESTA ORTIZ, FABIO",
+      "sale": "AMBROSIO OBREGON, ENRIQUE MANUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ SANTOS, AITOR": 90,
+    "ALONSO Melo, Ruben": 90,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "PERNÍA FERNÁNDEZ, MARCO": 90,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 63,
+    "SAEZ PEREZ, LUCAS": 90,
+    "CUADRADO PEREZ RUBIN, MATEO": 90,
+    "BARRIO OBREGON, IZAN": 90,
+    "GOMEZ BOLADO, MIGUEL": 90,
+    "RENEDO COSIO, DIEGO": 52,
+    "MOURA REVUELTA, ROMEO": 63,
+    "PERNIA RODRIGUEZ, JOEL": 38,
+    "GOMEZ NUÑEZ, IKER": 27,
+    "DAHHAOUI RACHID, YAKOUB": 27,
+    "PIEDRA REVUELTA, GABRIEL": 40,
+    "ORTIZ SAMPERIO, MANUEL": 90,
+    "ECHEVARRIA LAMEIRO, LUCAS": 90,
+    "GAITAN PEREZ, PABLO": 90,
+    "PRIETO ALONSO, MARCOS": 40,
+    "DIESTRO LANZA, RODRIGO": 90,
+    "GARCIA REVUELTA, SERGIO": 90,
+    "GUTIERREZ SANZ, DAVID": 90,
+    "GOMEZ CUEVAS, RODRIGO": 40,
+    "AMBROSIO OBREGON, ENRIQUE MANUEL": 40,
+    "MARTINEZ SANCHEZ, PEDRO": 40,
+    "MANTECON TEJEDOR, MARCOS": 50,
+    "GALVAN LOMBILLA, FRANCISCO": 50,
+    "MUNIENTE CHIOGNA, ALBERTO": 50,
+    "CABIELLES COSIO, MANUEL": 50,
+    "CUESTA ORTIZ, FABIO": 50
+  },
+  "portero_local": "RUIZ SANTOS, AITOR",
+  "portero_visitante": "PIEDRA REVUELTA, GABRIEL",
+  "dorsales_local": {
+    "RUIZ SANTOS, AITOR": 1,
+    "ALONSO Melo, Ruben": 3,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "PERNÍA FERNÁNDEZ, MARCO": 5,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "SAEZ PEREZ, LUCAS": 8,
+    "CUADRADO PEREZ RUBIN, MATEO": 9,
+    "BARRIO OBREGON, IZAN": 10,
+    "GOMEZ BOLADO, MIGUEL": 12,
+    "RENEDO COSIO, DIEGO": 18,
+    "MOURA REVUELTA, ROMEO": 20
+  },
+  "dorsales_visitante": {
+    "PIEDRA REVUELTA, GABRIEL": 1,
+    "ORTIZ SAMPERIO, MANUEL": 2,
+    "ECHEVARRIA LAMEIRO, LUCAS": 3,
+    "GAITAN PEREZ, PABLO": 4,
+    "PRIETO ALONSO, MARCOS": 5,
+    "DIESTRO LANZA, RODRIGO": 6,
+    "GARCIA REVUELTA, SERGIO": 7,
+    "GUTIERREZ SANZ, DAVID": 8,
+    "GOMEZ CUEVAS, RODRIGO": 9,
+    "AMBROSIO OBREGON, ENRIQUE MANUEL": 10,
+    "MARTINEZ SANCHEZ, PEDRO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
