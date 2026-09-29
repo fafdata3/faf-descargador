@@ -1,0 +1,277 @@
+{
+  "acta_id": "B_2008123",
+  "filename": "Acta_B_2008123.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 5,
+  "fecha": "03-11-2024",
+  "hora": "12:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ABANTO",
+  "equipo_visitante": "GAZTELUETA A",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "RUZICKA IGLESIAS, OIER"
+  ],
+  "estadio": "EL MORTUERO",
+  "ciudad": "LAS CARRERAS",
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "INFANTE LOPEZ, JUAN",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 22,
+      "jugador": "ELOLA ARRIBAS, UNAX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "MENDIZABAL OTERO, XABI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "MIGUELEZ DELGADO, JONAY",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "ZUGAZABEITIA BENGOA, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "IBAÑEZ ZAMORA, DANEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 33,
+      "jugador": "ARISTI DEL FRESNO, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "DEL RIO CASTIELLA, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RIVERA MON, SERGIO",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ECHEVARRIA ARANA, ANDER",
+  "delegado_equipo_visitante": "BURON PAREDES, RODRIGO",
+  "titulares_local": [
+    "COTA SOUTO, EGOITZ",
+    "MEDINA ESTEPAR, ARATZ",
+    "ALVAREZ LOPEZ, KIMETZ",
+    "AZKONA PEREZ, ENEKO",
+    "DIAZ SEGURA, UNAI",
+    "ELOLA ARRIBAS, UNAX",
+    "MENDIZABAL OTERO, XABI",
+    "IBAÑEZ ZAMORA, DANEL",
+    "MARCOS MONDELO, JON",
+    "BARRANCO URANGA, MARKEL",
+    "MIGUELEZ DELGADO, JONAY"
+  ],
+  "titulares_visitante": [
+    "VÁZQUEZ ZALBIDEA, IGNACIO",
+    "ARISTI DEL FRESNO, PABLO",
+    "DEL RIO CASTIELLA, NICOLAS",
+    "INFANTE LOPEZ, JUAN",
+    "LOPEZ SANZ, JULEN",
+    "TUBET POCH, PABLO",
+    "ZUGAZABEITIA BENGOA, ALVARO",
+    "YBARRA ROQUETTE, NICOLAS",
+    "RÍO DEL NOZAL, UNAX",
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS",
+    "HERVÁS PASCUAL, JAVIER"
+  ],
+  "suplentes_local": [
+    "GARCIA LEON, IRAULTZA",
+    "ARRIBAS GARRIDO, UNAI",
+    "BASAGOITI ANGULO, HODEI",
+    "CRUZ SANCHEZ, URKO",
+    "MEDINA CAUSO, BEÑAT"
+  ],
+  "suplentes_visitante": [
+    "SÁNCHEZ MURGA, LEOPOLDO",
+    "LECANDA LORENZO, MARTIN",
+    "ECHEVARRIA DENIZ, IGNACIO",
+    "FERNANDEZ DE PRADO, GABRIEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "COTA SOUTO, EGOITZ",
+    "MEDINA ESTEPAR, ARATZ",
+    "ALVAREZ LOPEZ, KIMETZ",
+    "AZKONA PEREZ, ENEKO",
+    "DIAZ SEGURA, UNAI",
+    "ELOLA ARRIBAS, UNAX",
+    "MENDIZABAL OTERO, XABI",
+    "IBAÑEZ ZAMORA, DANEL",
+    "MARCOS MONDELO, JON",
+    "BARRANCO URANGA, MARKEL",
+    "MIGUELEZ DELGADO, JONAY",
+    "ARRIBAS GARRIDO, UNAI",
+    "CRUZ SANCHEZ, URKO",
+    "BASAGOITI ANGULO, HODEI",
+    "MEDINA CAUSO, BEÑAT",
+    "GARCIA LEON, IRAULTZA"
+  ],
+  "jugadores_visitante": [
+    "VÁZQUEZ ZALBIDEA, IGNACIO",
+    "ARISTI DEL FRESNO, PABLO",
+    "DEL RIO CASTIELLA, NICOLAS",
+    "INFANTE LOPEZ, JUAN",
+    "LOPEZ SANZ, JULEN",
+    "TUBET POCH, PABLO",
+    "ZUGAZABEITIA BENGOA, ALVARO",
+    "YBARRA ROQUETTE, NICOLAS",
+    "RÍO DEL NOZAL, UNAX",
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS",
+    "HERVÁS PASCUAL, JAVIER",
+    "SÁNCHEZ MURGA, LEOPOLDO",
+    "FERNANDEZ DE PRADO, GABRIEL",
+    "LECANDA LORENZO, MARTIN",
+    "ECHEVARRIA DENIZ, IGNACIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 65,
+      "entra": "ARRIBAS GARRIDO, UNAI",
+      "sale": "AZKONA PEREZ, ENEKO"
+    },
+    {
+      "min": 65,
+      "entra": "CRUZ SANCHEZ, URKO",
+      "sale": "BARRANCO URANGA, MARKEL"
+    },
+    {
+      "min": 71,
+      "entra": "BASAGOITI ANGULO, HODEI",
+      "sale": "MEDINA ESTEPAR, ARATZ"
+    },
+    {
+      "min": 77,
+      "entra": "MEDINA CAUSO, BEÑAT",
+      "sale": "MIGUELEZ DELGADO, JONAY"
+    },
+    {
+      "min": 77,
+      "entra": "GARCIA LEON, IRAULTZA",
+      "sale": "COTA SOUTO, EGOITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "SÁNCHEZ MURGA, LEOPOLDO",
+      "sale": "PRADO AROSTEGUI, FRANCISCO DE ASIS"
+    },
+    {
+      "min": 53,
+      "entra": "FERNANDEZ DE PRADO, GABRIEL",
+      "sale": "RÍO DEL NOZAL, UNAX"
+    },
+    {
+      "min": 65,
+      "entra": "LECANDA LORENZO, MARTIN",
+      "sale": "INFANTE LOPEZ, JUAN"
+    },
+    {
+      "min": 71,
+      "entra": "ECHEVARRIA DENIZ, IGNACIO",
+      "sale": "ARISTI DEL FRESNO, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "COTA SOUTO, EGOITZ": 77,
+    "MEDINA ESTEPAR, ARATZ": 71,
+    "ALVAREZ LOPEZ, KIMETZ": 90,
+    "AZKONA PEREZ, ENEKO": 65,
+    "DIAZ SEGURA, UNAI": 90,
+    "ELOLA ARRIBAS, UNAX": 90,
+    "MENDIZABAL OTERO, XABI": 90,
+    "IBAÑEZ ZAMORA, DANEL": 90,
+    "MARCOS MONDELO, JON": 90,
+    "BARRANCO URANGA, MARKEL": 65,
+    "MIGUELEZ DELGADO, JONAY": 77,
+    "ARRIBAS GARRIDO, UNAI": 25,
+    "CRUZ SANCHEZ, URKO": 25,
+    "BASAGOITI ANGULO, HODEI": 19,
+    "MEDINA CAUSO, BEÑAT": 13,
+    "GARCIA LEON, IRAULTZA": 13,
+    "VÁZQUEZ ZALBIDEA, IGNACIO": 90,
+    "ARISTI DEL FRESNO, PABLO": 71,
+    "DEL RIO CASTIELLA, NICOLAS": 90,
+    "INFANTE LOPEZ, JUAN": 65,
+    "LOPEZ SANZ, JULEN": 90,
+    "TUBET POCH, PABLO": 90,
+    "ZUGAZABEITIA BENGOA, ALVARO": 90,
+    "YBARRA ROQUETTE, NICOLAS": 90,
+    "RÍO DEL NOZAL, UNAX": 53,
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS": 53,
+    "HERVÁS PASCUAL, JAVIER": 90,
+    "SÁNCHEZ MURGA, LEOPOLDO": 37,
+    "FERNANDEZ DE PRADO, GABRIEL": 37,
+    "LECANDA LORENZO, MARTIN": 25,
+    "ECHEVARRIA DENIZ, IGNACIO": 19
+  },
+  "portero_local": "COTA SOUTO, EGOITZ",
+  "portero_visitante": "VÁZQUEZ ZALBIDEA, IGNACIO",
+  "dorsales_local": {
+    "COTA SOUTO, EGOITZ": 1,
+    "MEDINA ESTEPAR, ARATZ": 3,
+    "ALVAREZ LOPEZ, KIMETZ": 4,
+    "AZKONA PEREZ, ENEKO": 5,
+    "DIAZ SEGURA, UNAI": 6,
+    "ELOLA ARRIBAS, UNAX": 7,
+    "MENDIZABAL OTERO, XABI": 8,
+    "IBAÑEZ ZAMORA, DANEL": 9,
+    "MARCOS MONDELO, JON": 10,
+    "BARRANCO URANGA, MARKEL": 11,
+    "MIGUELEZ DELGADO, JONAY": 22
+  },
+  "dorsales_visitante": {
+    "VÁZQUEZ ZALBIDEA, IGNACIO": 1,
+    "ARISTI DEL FRESNO, PABLO": 4,
+    "DEL RIO CASTIELLA, NICOLAS": 5,
+    "INFANTE LOPEZ, JUAN": 6,
+    "LOPEZ SANZ, JULEN": 7,
+    "TUBET POCH, PABLO": 9,
+    "ZUGAZABEITIA BENGOA, ALVARO": 12,
+    "YBARRA ROQUETTE, NICOLAS": 15,
+    "RÍO DEL NOZAL, UNAX": 16,
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS": 21,
+    "HERVÁS PASCUAL, JAVIER": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
