@@ -1,0 +1,274 @@
+{
+  "acta_id": "B_9982408",
+  "filename": "Acta_B_9982408.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 10,
+  "fecha": "06-12-2025",
+  "hora": "09:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "BASCONIA A",
+  "equipo_visitante": "INDAUTXU B",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ALVAREZ ZARZOSA, IÑIGO"
+  ],
+  "estadio": "SOLOARTE",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 51,
+      "jugador": "COELLO LARRINAGA, OINATZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 78,
+      "jugador": "BERDONCES GONZALEZ, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "LOPEZ MADARIAGA, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "GALARZA GARCIA, ALEX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "BARTON, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "LOPEZ SANTAMARIA, IÑAKI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GALDAMES IBAÑEZ, JOSE MANUEL",
+  "entrenador_visitante": "MENENDEZ FERRERAS, LUIS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAGREDO FUENTE, VICTOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAGREDO FUENTE, VICTOR",
+  "delegado_equipo_visitante": "GONZALEZ ALMELA, IVAN",
+  "titulares_local": [
+    "GOMEZ BOUZO, JON",
+    "HUERGA GREGORIO, JON",
+    "ALONSO BORGE, ALVARO",
+    "YARAAHALLAH SALEK, MOHAMED",
+    "BILLALABEITIA URRUTIKOETXEA, ENAITZ",
+    "GOMEZ ROMERO, MARKEL",
+    "LARRAGOITI LEON, ENEKO",
+    "CORTES ALARCON, IKER",
+    "BENATIA LOPEZ, ISAM",
+    "COELLO LARRINAGA, OINATZ",
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA"
+  ],
+  "titulares_visitante": [
+    "BARTON, MARTIN",
+    "CORTAZAR MAGADAN, KAIET",
+    "LOPEZ MADARIAGA, LUCAS",
+    "GOMEZ ARIÑO, BEÑAT",
+    "SAGLIARDI ROMERO, MASSIMO",
+    "MARTIN MERA, EKAITZ",
+    "PEREZ BECERRA, MARCO JAEL",
+    "AHED MESSAOUD GARCIA, TAREK",
+    "ZABALA GOÑI, MARTXELO",
+    "RUIZ LLORENTE, XABIER",
+    "GALARZA GARCIA, ALEX"
+  ],
+  "suplentes_local": [
+    "GUARROTXENA ECHAIDE, ANER",
+    "BERDONCES GONZALEZ, ALVARO",
+    "VIEIRA ZUAZOLA, IZAN",
+    "CANO TABARES, JAIDER FELIPE",
+    "SAGREDO VALDERRAMA, AIMAR",
+    "MARTIN LADRON DE GUEVARA, LIER",
+    "SAN JOSE JIMENEZ, IKER"
+  ],
+  "suplentes_visitante": [
+    "BLANCO GARCIA, MIKEL",
+    "VITORES GODOY, MARTIN",
+    "LOPEZ SANTAMARIA, IÑAKI",
+    "ARANA RECALDE, XABIER",
+    "NAVARRO ROBLES, XABIER",
+    "MURUA SERNA, JULEN",
+    "URIZAR ELUSTONDO, MARTIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "GUARROTXENA ECHAIDE, ANER",
+    "CANO TABARES, JAIDER FELIPE",
+    "SAN JOSE JIMENEZ, IKER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BLANCO GARCIA, MIKEL",
+    "URIZAR ELUSTONDO, MARTIN"
+  ],
+  "jugadores_local": [
+    "GOMEZ BOUZO, JON",
+    "HUERGA GREGORIO, JON",
+    "ALONSO BORGE, ALVARO",
+    "YARAAHALLAH SALEK, MOHAMED",
+    "BILLALABEITIA URRUTIKOETXEA, ENAITZ",
+    "GOMEZ ROMERO, MARKEL",
+    "LARRAGOITI LEON, ENEKO",
+    "CORTES ALARCON, IKER",
+    "BENATIA LOPEZ, ISAM",
+    "COELLO LARRINAGA, OINATZ",
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA",
+    "MARTIN LADRON DE GUEVARA, LIER",
+    "VIEIRA ZUAZOLA, IZAN",
+    "BERDONCES GONZALEZ, ALVARO",
+    "SAGREDO VALDERRAMA, AIMAR"
+  ],
+  "jugadores_visitante": [
+    "BARTON, MARTIN",
+    "CORTAZAR MAGADAN, KAIET",
+    "LOPEZ MADARIAGA, LUCAS",
+    "GOMEZ ARIÑO, BEÑAT",
+    "SAGLIARDI ROMERO, MASSIMO",
+    "MARTIN MERA, EKAITZ",
+    "PEREZ BECERRA, MARCO JAEL",
+    "AHED MESSAOUD GARCIA, TAREK",
+    "ZABALA GOÑI, MARTXELO",
+    "RUIZ LLORENTE, XABIER",
+    "GALARZA GARCIA, ALEX",
+    "MURUA SERNA, JULEN",
+    "NAVARRO ROBLES, XABIER",
+    "VITORES GODOY, MARTIN",
+    "LOPEZ SANTAMARIA, IÑAKI",
+    "ARANA RECALDE, XABIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 61,
+      "entra": "MARTIN LADRON DE GUEVARA, LIER",
+      "sale": "COELLO LARRINAGA, OINATZ"
+    },
+    {
+      "min": 73,
+      "entra": "VIEIRA ZUAZOLA, IZAN",
+      "sale": "GOMEZ ROMERO, MARKEL"
+    },
+    {
+      "min": 79,
+      "entra": "BERDONCES GONZALEZ, ALVARO",
+      "sale": "LARRAGOITI LEON, ENEKO"
+    },
+    {
+      "min": 79,
+      "entra": "SAGREDO VALDERRAMA, AIMAR",
+      "sale": "BENATIA LOPEZ, ISAM"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "MURUA SERNA, JULEN",
+      "sale": "LOPEZ MADARIAGA, LUCAS"
+    },
+    {
+      "min": 61,
+      "entra": "NAVARRO ROBLES, XABIER",
+      "sale": "SAGLIARDI ROMERO, MASSIMO"
+    },
+    {
+      "min": 61,
+      "entra": "VITORES GODOY, MARTIN",
+      "sale": "GOMEZ ARIÑO, BEÑAT"
+    },
+    {
+      "min": 69,
+      "entra": "LOPEZ SANTAMARIA, IÑAKI",
+      "sale": "RUIZ LLORENTE, XABIER"
+    },
+    {
+      "min": 69,
+      "entra": "ARANA RECALDE, XABIER",
+      "sale": "PEREZ BECERRA, MARCO JAEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ BOUZO, JON": 90,
+    "HUERGA GREGORIO, JON": 90,
+    "ALONSO BORGE, ALVARO": 90,
+    "YARAAHALLAH SALEK, MOHAMED": 90,
+    "BILLALABEITIA URRUTIKOETXEA, ENAITZ": 90,
+    "GOMEZ ROMERO, MARKEL": 73,
+    "LARRAGOITI LEON, ENEKO": 79,
+    "CORTES ALARCON, IKER": 90,
+    "BENATIA LOPEZ, ISAM": 79,
+    "COELLO LARRINAGA, OINATZ": 61,
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA": 90,
+    "MARTIN LADRON DE GUEVARA, LIER": 29,
+    "VIEIRA ZUAZOLA, IZAN": 17,
+    "BERDONCES GONZALEZ, ALVARO": 11,
+    "SAGREDO VALDERRAMA, AIMAR": 11,
+    "BARTON, MARTIN": 90,
+    "CORTAZAR MAGADAN, KAIET": 90,
+    "LOPEZ MADARIAGA, LUCAS": 61,
+    "GOMEZ ARIÑO, BEÑAT": 61,
+    "SAGLIARDI ROMERO, MASSIMO": 61,
+    "MARTIN MERA, EKAITZ": 90,
+    "PEREZ BECERRA, MARCO JAEL": 69,
+    "AHED MESSAOUD GARCIA, TAREK": 90,
+    "ZABALA GOÑI, MARTXELO": 90,
+    "RUIZ LLORENTE, XABIER": 69,
+    "GALARZA GARCIA, ALEX": 90,
+    "MURUA SERNA, JULEN": 29,
+    "NAVARRO ROBLES, XABIER": 29,
+    "VITORES GODOY, MARTIN": 29,
+    "LOPEZ SANTAMARIA, IÑAKI": 21,
+    "ARANA RECALDE, XABIER": 21
+  },
+  "portero_local": "GOMEZ BOUZO, JON",
+  "portero_visitante": "BARTON, MARTIN",
+  "dorsales_local": {
+    "GOMEZ BOUZO, JON": 13,
+    "HUERGA GREGORIO, JON": 2,
+    "ALONSO BORGE, ALVARO": 4,
+    "YARAAHALLAH SALEK, MOHAMED": 5,
+    "BILLALABEITIA URRUTIKOETXEA, ENAITZ": 6,
+    "GOMEZ ROMERO, MARKEL": 7,
+    "LARRAGOITI LEON, ENEKO": 8,
+    "CORTES ALARCON, IKER": 17,
+    "BENATIA LOPEZ, ISAM": 19,
+    "COELLO LARRINAGA, OINATZ": 20,
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA": 21
+  },
+  "dorsales_visitante": {
+    "BARTON, MARTIN": 1,
+    "CORTAZAR MAGADAN, KAIET": 2,
+    "LOPEZ MADARIAGA, LUCAS": 5,
+    "GOMEZ ARIÑO, BEÑAT": 6,
+    "SAGLIARDI ROMERO, MASSIMO": 7,
+    "MARTIN MERA, EKAITZ": 9,
+    "PEREZ BECERRA, MARCO JAEL": 11,
+    "AHED MESSAOUD GARCIA, TAREK": 15,
+    "ZABALA GOÑI, MARTXELO": 16,
+    "RUIZ LLORENTE, XABIER": 17,
+    "GALARZA GARCIA, ALEX": 22
+  },
+  "suspendidos": []
+}
