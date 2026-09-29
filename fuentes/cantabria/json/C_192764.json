@@ -1,0 +1,246 @@
+{
+  "acta_id": "C_192764",
+  "filename": "Acta_C_192764.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 5,
+  "fecha": "06-10-2024",
+  "hora": "12:15",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LÓPEZ CONDE, JOSÉ ANTONIO"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "BARBA AGENJO, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "EXPOSITO MARTIN, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 37,
+      "jugador": "QUINTANA CALDERON, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "SOMOHANO TAMAYO, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALONSO ALONSO, HECTOR",
+  "entrenador_visitante": "PALAZUELOS TRUEBA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GONZALEZ ARENAL, PEDRO",
+  "delegado_campo_local": "SAMPERIO GUTIERREZ, ALEJANDRO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAMPERIO GUTIERREZ, ALEJANDRO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "GONZALEZ SORDO, ALEX",
+    "VARON SANCHEZ, CESAR",
+    "LOPEZ LOPEZ, IKER",
+    "BARBA AGENJO, ADRIAN",
+    "QUINTANA CALDERON, MARCOS",
+    "RUIZ MIGUEZ, DANIEL",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "YELA GONZALEZ, MAURICIO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GONZALEZ CELIS, MARCO"
+  ],
+  "titulares_visitante": [
+    "LASO MARTINEZ, ADRIAN",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "PERNÍA FERNÁNDEZ, MARCO",
+    "RODEÑO DIAZ, GABRIEL",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "SAEZ PEREZ, LUCAS",
+    "BARRIO OBREGON, IZAN",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "DIAZ NAVEA, MARIO",
+    "MOURA REVUELTA, ROMEO"
+  ],
+  "suplentes_local": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "Garcia Roiz, Dario",
+    "GONZALEZ RODRIGUEZ, DAVID",
+    "EXPOSITO MARTIN, PABLO",
+    "FERNANDEZ MARTIN, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "Gaviria Cataño, JUAN DIEGO",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL",
+    "RENEDO COSIO, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GONZÁLEZ TRESGALLO, ARMANDO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BERNARDO MIRAVALLES, IZAN"
+  ],
+  "jugadores_local": [
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "GONZALEZ SORDO, ALEX",
+    "VARON SANCHEZ, CESAR",
+    "LOPEZ LOPEZ, IKER",
+    "BARBA AGENJO, ADRIAN",
+    "QUINTANA CALDERON, MARCOS",
+    "RUIZ MIGUEZ, DANIEL",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "YELA GONZALEZ, MAURICIO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GONZALEZ CELIS, MARCO",
+    "EXPOSITO MARTIN, PABLO",
+    "GONZALEZ RODRIGUEZ, DAVID",
+    "FERNANDEZ MARTIN, DIEGO",
+    "Garcia Roiz, Dario"
+  ],
+  "jugadores_visitante": [
+    "LASO MARTINEZ, ADRIAN",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "PERNÍA FERNÁNDEZ, MARCO",
+    "RODEÑO DIAZ, GABRIEL",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "SAEZ PEREZ, LUCAS",
+    "BARRIO OBREGON, IZAN",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "DIAZ NAVEA, MARIO",
+    "MOURA REVUELTA, ROMEO",
+    "Gaviria Cataño, JUAN DIEGO",
+    "PERNIA RODRIGUEZ, JOEL",
+    "GOMEZ BOLADO, MIGUEL",
+    "RENEDO COSIO, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "EXPOSITO MARTIN, PABLO",
+      "sale": "YELA GONZALEZ, MAURICIO"
+    },
+    {
+      "min": 56,
+      "entra": "GONZALEZ RODRIGUEZ, DAVID",
+      "sale": "GONZALEZ CELIS, MARCO"
+    },
+    {
+      "min": 62,
+      "entra": "FERNANDEZ MARTIN, DIEGO",
+      "sale": "BARBA AGENJO, ADRIAN"
+    },
+    {
+      "min": 62,
+      "entra": "Garcia Roiz, Dario",
+      "sale": "DEL RIO PRIETO, JUAN VICENTE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "Gaviria Cataño, JUAN DIEGO",
+      "sale": "PERNÍA FERNÁNDEZ, MARCO"
+    },
+    {
+      "min": 59,
+      "entra": "PERNIA RODRIGUEZ, JOEL",
+      "sale": "CUADRADO PEREZ RUBIN, MATEO"
+    },
+    {
+      "min": 59,
+      "entra": "GOMEZ BOLADO, MIGUEL",
+      "sale": "RODEÑO DIAZ, GABRIEL"
+    },
+    {
+      "min": 59,
+      "entra": "RENEDO COSIO, DIEGO",
+      "sale": "ALONSO Melo, Ruben"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ SAÑUDO, GERMAN": 90,
+    "GONZALEZ SORDO, ALEX": 90,
+    "VARON SANCHEZ, CESAR": 90,
+    "LOPEZ LOPEZ, IKER": 90,
+    "BARBA AGENJO, ADRIAN": 62,
+    "QUINTANA CALDERON, MARCOS": 90,
+    "RUIZ MIGUEZ, DANIEL": 90,
+    "MARTINEZ BUSTAMANTE, HUGO": 90,
+    "YELA GONZALEZ, MAURICIO": 52,
+    "DEL RIO PRIETO, JUAN VICENTE": 62,
+    "GONZALEZ CELIS, MARCO": 56,
+    "EXPOSITO MARTIN, PABLO": 38,
+    "GONZALEZ RODRIGUEZ, DAVID": 34,
+    "FERNANDEZ MARTIN, DIEGO": 28,
+    "Garcia Roiz, Dario": 28,
+    "LASO MARTINEZ, ADRIAN": 90,
+    "ALONSO Melo, Ruben": 59,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "PERNÍA FERNÁNDEZ, MARCO": 52,
+    "RODEÑO DIAZ, GABRIEL": 59,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 90,
+    "SAEZ PEREZ, LUCAS": 90,
+    "BARRIO OBREGON, IZAN": 90,
+    "CUADRADO PEREZ RUBIN, MATEO": 59,
+    "DIAZ NAVEA, MARIO": 90,
+    "MOURA REVUELTA, ROMEO": 90,
+    "Gaviria Cataño, JUAN DIEGO": 38,
+    "PERNIA RODRIGUEZ, JOEL": 31,
+    "GOMEZ BOLADO, MIGUEL": 31,
+    "RENEDO COSIO, DIEGO": 31
+  },
+  "portero_local": "FERNANDEZ SAÑUDO, GERMAN",
+  "portero_visitante": "LASO MARTINEZ, ADRIAN",
+  "dorsales_local": {
+    "FERNANDEZ SAÑUDO, GERMAN": 1,
+    "GONZALEZ SORDO, ALEX": 3,
+    "VARON SANCHEZ, CESAR": 4,
+    "LOPEZ LOPEZ, IKER": 8,
+    "BARBA AGENJO, ADRIAN": 10,
+    "QUINTANA CALDERON, MARCOS": 12,
+    "RUIZ MIGUEZ, DANIEL": 14,
+    "MARTINEZ BUSTAMANTE, HUGO": 16,
+    "YELA GONZALEZ, MAURICIO": 17,
+    "DEL RIO PRIETO, JUAN VICENTE": 19,
+    "GONZALEZ CELIS, MARCO": 20
+  },
+  "dorsales_visitante": {
+    "LASO MARTINEZ, ADRIAN": 1,
+    "ALONSO Melo, Ruben": 3,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "PERNÍA FERNÁNDEZ, MARCO": 5,
+    "RODEÑO DIAZ, GABRIEL": 6,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "SAEZ PEREZ, LUCAS": 8,
+    "BARRIO OBREGON, IZAN": 10,
+    "CUADRADO PEREZ RUBIN, MATEO": 11,
+    "DIAZ NAVEA, MARIO": 19,
+    "MOURA REVUELTA, ROMEO": 20
+  },
+  "suspendidos": []
+}
