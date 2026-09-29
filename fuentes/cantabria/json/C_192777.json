@@ -1,0 +1,266 @@
+{
+  "acta_id": "C_192777",
+  "filename": "Acta_C_192777.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "13-10-2024",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "CLUB BANSANDER A",
+  "equipo_visitante": "C.D.E. ATCO. MINEROS A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CASTRO RUIZ, SERGIO"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 54,
+      "jugador": "GARCIA GONZALEZ, CARLOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "VAN DE WORP HERNANDO, LUKAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "DE SANTIAGO BEZANILLA, GERMAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 50,
+      "jugador": "VELASCO GONZALEZ, DARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "GOMEZ PEÑA, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "BURTAN, DEMIS CONSTANTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SAIZ RUIZ, OSCAR",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SANZ GIL, IGNACIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANZ GIL, IGNACIO",
+  "delegado_equipo_visitante": "DIAZ SANCHEZ, PABLO",
+  "titulares_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GALA RUIZ, HUGO",
+    "DE SANTIAGO BEZANILLA, GERMAN",
+    "ORALLO GOMEZ, JACOBO",
+    "MOLINA PRADA, MARIO",
+    "MARTIN HERRERO, HUGO",
+    "CANALES CHAMIZO, GONZALO",
+    "ARCE PIÑAL, HUGO",
+    "VAN DE WORP HERNANDO, LUKAS",
+    "LIAÑO ABASCAL, ROMAN",
+    "VIDIELLA GONZALEZ, MARCO"
+  ],
+  "titulares_visitante": [
+    "SAEZ PISANO, ADRIAN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "GUTIERREZ GOMEZ, HECTOR",
+    "MATA SANGUIAO, CARLOS"
+  ],
+  "suplentes_local": [
+    "GONZALEZ AMOROS, MARCO",
+    "VELASCO GONZALEZ, DARIO",
+    "PEREZ ASOREY, OIER",
+    "QUINTANA GUTIERREZ, JORGE",
+    "GARCIA GONZALEZ, CARLOS"
+  ],
+  "suplentes_visitante": [
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "STAN, NICOLAE CRISTIAN",
+    "DIAZ DIAZ, GONZALO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "RUIZ FERNÁNDEZ, KEVIN"
+  ],
+  "jugadores_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GALA RUIZ, HUGO",
+    "DE SANTIAGO BEZANILLA, GERMAN",
+    "ORALLO GOMEZ, JACOBO",
+    "MOLINA PRADA, MARIO",
+    "MARTIN HERRERO, HUGO",
+    "CANALES CHAMIZO, GONZALO",
+    "ARCE PIÑAL, HUGO",
+    "VAN DE WORP HERNANDO, LUKAS",
+    "LIAÑO ABASCAL, ROMAN",
+    "VIDIELLA GONZALEZ, MARCO",
+    "VELASCO GONZALEZ, DARIO",
+    "QUINTANA GUTIERREZ, JORGE",
+    "GARCIA GONZALEZ, CARLOS",
+    "GONZALEZ AMOROS, MARCO",
+    "PEREZ ASOREY, OIER"
+  ],
+  "jugadores_visitante": [
+    "SAEZ PISANO, ADRIAN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "GUTIERREZ GOMEZ, HECTOR",
+    "MATA SANGUIAO, CARLOS",
+    "solar rabadan, DANIEL",
+    "DIAZ DIAZ, GONZALO",
+    "STAN, NICOLAE CRISTIAN",
+    "GUTIERREZ REDONDO, MARTIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "VELASCO GONZALEZ, DARIO",
+      "sale": "ARCE PIÑAL, HUGO"
+    },
+    {
+      "min": 52,
+      "entra": "QUINTANA GUTIERREZ, JORGE",
+      "sale": "LIAÑO ABASCAL, ROMAN"
+    },
+    {
+      "min": 52,
+      "entra": "GARCIA GONZALEZ, CARLOS",
+      "sale": "CANALES CHAMIZO, GONZALO"
+    },
+    {
+      "min": 64,
+      "entra": "GONZALEZ AMOROS, MARCO",
+      "sale": "VIDIELLA GONZALEZ, MARCO"
+    },
+    {
+      "min": 67,
+      "entra": "PEREZ ASOREY, OIER",
+      "sale": "VAN DE WORP HERNANDO, LUKAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "solar rabadan, DANIEL",
+      "sale": "SAINZ CALDERON, JOSE MIGUEL"
+    },
+    {
+      "min": 58,
+      "entra": "DIAZ DIAZ, GONZALO",
+      "sale": "GUTIERREZ GOMEZ, HECTOR"
+    },
+    {
+      "min": 58,
+      "entra": "STAN, NICOLAE CRISTIAN",
+      "sale": "MARTINEZ ALVAREZ, JESUS EMMANUEL"
+    },
+    {
+      "min": 60,
+      "entra": "GUTIERREZ REDONDO, MARTIN",
+      "sale": "MATA SANGUIAO, CARLOS"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRIZ ESTEBANEZ, ALBERTO": 90,
+    "GALA RUIZ, HUGO": 90,
+    "DE SANTIAGO BEZANILLA, GERMAN": 90,
+    "ORALLO GOMEZ, JACOBO": 90,
+    "MOLINA PRADA, MARIO": 90,
+    "MARTIN HERRERO, HUGO": 90,
+    "CANALES CHAMIZO, GONZALO": 52,
+    "ARCE PIÑAL, HUGO": 40,
+    "VAN DE WORP HERNANDO, LUKAS": 67,
+    "LIAÑO ABASCAL, ROMAN": 52,
+    "VIDIELLA GONZALEZ, MARCO": 64,
+    "VELASCO GONZALEZ, DARIO": 50,
+    "QUINTANA GUTIERREZ, JORGE": 38,
+    "GARCIA GONZALEZ, CARLOS": 38,
+    "GONZALEZ AMOROS, MARCO": 26,
+    "PEREZ ASOREY, OIER": 23,
+    "SAEZ PISANO, ADRIAN": 90,
+    "ORTEGA DEL RIO, AITOR": 90,
+    "MAZON SHAROV, HUGO": 90,
+    "SAINZ CALDERON, JOSE MIGUEL": 58,
+    "SOLARES PICAZO, LUCAS": 90,
+    "GOMEZ PEÑA, LUCAS": 90,
+    "BURTAN, DEMIS CONSTANTIN": 90,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 90,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 58,
+    "GUTIERREZ GOMEZ, HECTOR": 58,
+    "MATA SANGUIAO, CARLOS": 60,
+    "solar rabadan, DANIEL": 32,
+    "DIAZ DIAZ, GONZALO": 32,
+    "STAN, NICOLAE CRISTIAN": 32,
+    "GUTIERREZ REDONDO, MARTIN": 30
+  },
+  "portero_local": "BRIZ ESTEBANEZ, ALBERTO",
+  "portero_visitante": "SAEZ PISANO, ADRIAN",
+  "dorsales_local": {
+    "BRIZ ESTEBANEZ, ALBERTO": 1,
+    "GALA RUIZ, HUGO": 2,
+    "DE SANTIAGO BEZANILLA, GERMAN": 3,
+    "ORALLO GOMEZ, JACOBO": 4,
+    "MOLINA PRADA, MARIO": 5,
+    "MARTIN HERRERO, HUGO": 6,
+    "CANALES CHAMIZO, GONZALO": 7,
+    "ARCE PIÑAL, HUGO": 8,
+    "VAN DE WORP HERNANDO, LUKAS": 9,
+    "LIAÑO ABASCAL, ROMAN": 10,
+    "VIDIELLA GONZALEZ, MARCO": 11
+  },
+  "dorsales_visitante": {
+    "SAEZ PISANO, ADRIAN": 1,
+    "ORTEGA DEL RIO, AITOR": 4,
+    "MAZON SHAROV, HUGO": 6,
+    "SAINZ CALDERON, JOSE MIGUEL": 10,
+    "SOLARES PICAZO, LUCAS": 11,
+    "GOMEZ PEÑA, LUCAS": 12,
+    "BURTAN, DEMIS CONSTANTIN": 14,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 17,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 19,
+    "GUTIERREZ GOMEZ, HECTOR": 20,
+    "MATA SANGUIAO, CARLOS": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
