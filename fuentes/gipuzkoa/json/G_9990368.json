@@ -1,0 +1,269 @@
+{
+  "acta_id": "G_9990368",
+  "filename": "Acta_G_9990368.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "07-02-2026",
+  "hora": "12:00",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "TRINTXERPE C.D.",
+  "equipo_visitante": "LENGOKOAK S.D.",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "QUEIRUGA VAZ-ROMERO, IKER"
+  ],
+  "estadio": "TRINTXER",
+  "ciudad": "Pasaia",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "DELA CRUZ JOVES, RAVEN JAMES",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "ZUBIRIA ARRESE-IGOR, URKO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "TORRES ETXARRI, UNAX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 46,
+      "jugador": "MUNOA LOPEZ DE TEJADA, TELMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "DELA CRUZ JOVES, RAVEN JAMES",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA RAMOS, FRANCISCO JAVIER",
+  "entrenador_visitante": "GRELA GARCIA, JOSU",
+  "segundo_entrenador_local": "SANCHEZ AVEDILLO, DAVID",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ELGUEZABAL GUEREÑO, ROBERTO",
+  "delegado_equipo_visitante": "AMADOR CABALLE, EDSON",
+  "titulares_local": [
+    "AGÜERO DE APELLANIZ, NAHUEL MAURICIO",
+    "PASCUAL AGUIRREZABALA, VALENTIN",
+    "INSAUSTI FERNANDEZ, LANDER",
+    "MATEO VIDAURRETA, BEÑAT",
+    "MARTINEZ FERNANDEZ, ARIAN UNAI",
+    "IRAZUSTA TORRES, JULEN",
+    "DEL HOYO MARIEZCURRENA, AIMAR",
+    "MARAÑA TAMAYO, GORKA",
+    "VAZQUEZ POYALES, MIKEL",
+    "GARCIA GONZALEZ, OIER",
+    "LOPEZ RODRIGUEZ, MARKEL"
+  ],
+  "titulares_visitante": [
+    "LARREA RUIZ DE CORTAZAR, ENEKO",
+    "OYARZABAL BASURTO, OIER",
+    "CASTILLO ARRIETA, UNAX",
+    "GARIN OLLAKINDIA, AMETS",
+    "ETXEBESTE MERINO, AMETS",
+    "BERISTAIN SUINAGA, ANDER",
+    "VEGA, SANTIAGO",
+    "BENGOETXEA BLADES, LUKEN",
+    "DELA CRUZ JOVES, RAVEN JAMES",
+    "LLAMES DIAZ, ALAIN",
+    "MUNOA LOPEZ DE TEJADA, TELMO"
+  ],
+  "suplentes_local": [
+    "MARCOS CORTES, ADAY",
+    "IGLESIAS IBARZABAL, EKAIN",
+    "NARANTSOGT, SUKHBATZOTI",
+    "TORRES ETXARRI, UNAX",
+    "VARELA IZAGUIRRE, IRAITZ",
+    "SANTIAGO DE LA MERCED, HECTOR",
+    "GOMEZ ORDOÑEZ, LUCAS"
+  ],
+  "suplentes_visitante": [
+    "SAEZ MANZANAS, LUAR",
+    "JAURRIETA EGUINO, PAUL",
+    "SANZ MUÑOZ, UNAI",
+    "IMIZCOZ GIL, ANDER",
+    "ZUBIRIA ARRESE-IGOR, URKO"
+  ],
+  "convocados_sin_jugar_local": [
+    "IGLESIAS IBARZABAL, EKAIN",
+    "SANTIAGO DE LA MERCED, HECTOR"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "AGÜERO DE APELLANIZ, NAHUEL MAURICIO",
+    "PASCUAL AGUIRREZABALA, VALENTIN",
+    "INSAUSTI FERNANDEZ, LANDER",
+    "MATEO VIDAURRETA, BEÑAT",
+    "MARTINEZ FERNANDEZ, ARIAN UNAI",
+    "IRAZUSTA TORRES, JULEN",
+    "DEL HOYO MARIEZCURRENA, AIMAR",
+    "MARAÑA TAMAYO, GORKA",
+    "VAZQUEZ POYALES, MIKEL",
+    "GARCIA GONZALEZ, OIER",
+    "LOPEZ RODRIGUEZ, MARKEL",
+    "VARELA IZAGUIRRE, IRAITZ",
+    "TORRES ETXARRI, UNAX",
+    "MARCOS CORTES, ADAY",
+    "GOMEZ ORDOÑEZ, LUCAS",
+    "NARANTSOGT, SUKHBATZOTI"
+  ],
+  "jugadores_visitante": [
+    "LARREA RUIZ DE CORTAZAR, ENEKO",
+    "OYARZABAL BASURTO, OIER",
+    "CASTILLO ARRIETA, UNAX",
+    "GARIN OLLAKINDIA, AMETS",
+    "ETXEBESTE MERINO, AMETS",
+    "BERISTAIN SUINAGA, ANDER",
+    "VEGA, SANTIAGO",
+    "BENGOETXEA BLADES, LUKEN",
+    "DELA CRUZ JOVES, RAVEN JAMES",
+    "LLAMES DIAZ, ALAIN",
+    "MUNOA LOPEZ DE TEJADA, TELMO",
+    "SANZ MUÑOZ, UNAI",
+    "ZUBIRIA ARRESE-IGOR, URKO",
+    "SAEZ MANZANAS, LUAR",
+    "IMIZCOZ GIL, ANDER",
+    "JAURRIETA EGUINO, PAUL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "VARELA IZAGUIRRE, IRAITZ",
+      "sale": "MARAÑA TAMAYO, GORKA"
+    },
+    {
+      "min": 55,
+      "entra": "TORRES ETXARRI, UNAX",
+      "sale": "VAZQUEZ POYALES, MIKEL"
+    },
+    {
+      "min": 68,
+      "entra": "MARCOS CORTES, ADAY",
+      "sale": "LOPEZ RODRIGUEZ, MARKEL"
+    },
+    {
+      "min": 74,
+      "entra": "GOMEZ ORDOÑEZ, LUCAS",
+      "sale": "DEL HOYO MARIEZCURRENA, AIMAR"
+    },
+    {
+      "min": 76,
+      "entra": "NARANTSOGT, SUKHBATZOTI",
+      "sale": "PASCUAL AGUIRREZABALA, VALENTIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SANZ MUÑOZ, UNAI",
+      "sale": "GARIN OLLAKINDIA, AMETS"
+    },
+    {
+      "min": 40,
+      "entra": "ZUBIRIA ARRESE-IGOR, URKO",
+      "sale": "ETXEBESTE MERINO, AMETS"
+    },
+    {
+      "min": 40,
+      "entra": "SAEZ MANZANAS, LUAR",
+      "sale": "VEGA, SANTIAGO"
+    },
+    {
+      "min": 55,
+      "entra": "IMIZCOZ GIL, ANDER",
+      "sale": "BENGOETXEA BLADES, LUKEN"
+    },
+    {
+      "min": 76,
+      "entra": "JAURRIETA EGUINO, PAUL",
+      "sale": "DELA CRUZ JOVES, RAVEN JAMES"
+    }
+  ],
+  "minutos_jugadores": {
+    "AGÜERO DE APELLANIZ, NAHUEL MAURICIO": 90,
+    "PASCUAL AGUIRREZABALA, VALENTIN": 76,
+    "INSAUSTI FERNANDEZ, LANDER": 90,
+    "MATEO VIDAURRETA, BEÑAT": 90,
+    "MARTINEZ FERNANDEZ, ARIAN UNAI": 90,
+    "IRAZUSTA TORRES, JULEN": 90,
+    "DEL HOYO MARIEZCURRENA, AIMAR": 74,
+    "MARAÑA TAMAYO, GORKA": 40,
+    "VAZQUEZ POYALES, MIKEL": 55,
+    "GARCIA GONZALEZ, OIER": 90,
+    "LOPEZ RODRIGUEZ, MARKEL": 68,
+    "VARELA IZAGUIRRE, IRAITZ": 50,
+    "TORRES ETXARRI, UNAX": 35,
+    "MARCOS CORTES, ADAY": 22,
+    "GOMEZ ORDOÑEZ, LUCAS": 16,
+    "NARANTSOGT, SUKHBATZOTI": 14,
+    "LARREA RUIZ DE CORTAZAR, ENEKO": 90,
+    "OYARZABAL BASURTO, OIER": 90,
+    "CASTILLO ARRIETA, UNAX": 90,
+    "GARIN OLLAKINDIA, AMETS": 40,
+    "ETXEBESTE MERINO, AMETS": 40,
+    "BERISTAIN SUINAGA, ANDER": 90,
+    "VEGA, SANTIAGO": 40,
+    "BENGOETXEA BLADES, LUKEN": 55,
+    "DELA CRUZ JOVES, RAVEN JAMES": 76,
+    "LLAMES DIAZ, ALAIN": 90,
+    "MUNOA LOPEZ DE TEJADA, TELMO": 90,
+    "SANZ MUÑOZ, UNAI": 50,
+    "ZUBIRIA ARRESE-IGOR, URKO": 50,
+    "SAEZ MANZANAS, LUAR": 50,
+    "IMIZCOZ GIL, ANDER": 35,
+    "JAURRIETA EGUINO, PAUL": 14
+  },
+  "portero_local": "AGÜERO DE APELLANIZ, NAHUEL MAURICIO",
+  "portero_visitante": "LARREA RUIZ DE CORTAZAR, ENEKO",
+  "dorsales_local": {
+    "AGÜERO DE APELLANIZ, NAHUEL MAURICIO": 1,
+    "PASCUAL AGUIRREZABALA, VALENTIN": 3,
+    "INSAUSTI FERNANDEZ, LANDER": 4,
+    "MATEO VIDAURRETA, BEÑAT": 9,
+    "MARTINEZ FERNANDEZ, ARIAN UNAI": 10,
+    "IRAZUSTA TORRES, JULEN": 11,
+    "DEL HOYO MARIEZCURRENA, AIMAR": 12,
+    "MARAÑA TAMAYO, GORKA": 14,
+    "VAZQUEZ POYALES, MIKEL": 17,
+    "GARCIA GONZALEZ, OIER": 18,
+    "LOPEZ RODRIGUEZ, MARKEL": 21
+  },
+  "dorsales_visitante": {
+    "LARREA RUIZ DE CORTAZAR, ENEKO": 1,
+    "OYARZABAL BASURTO, OIER": 2,
+    "CASTILLO ARRIETA, UNAX": 3,
+    "GARIN OLLAKINDIA, AMETS": 5,
+    "ETXEBESTE MERINO, AMETS": 6,
+    "BERISTAIN SUINAGA, ANDER": 8,
+    "VEGA, SANTIAGO": 10,
+    "BENGOETXEA BLADES, LUKEN": 11,
+    "DELA CRUZ JOVES, RAVEN JAMES": 20,
+    "LLAMES DIAZ, ALAIN": 23,
+    "MUNOA LOPEZ DE TEJADA, TELMO": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
