@@ -1,0 +1,258 @@
+{
+  "acta_id": "B_2008080",
+  "filename": "Acta_B_2008080.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 34,
+  "fecha": "24-05-2025",
+  "hora": "09:00",
+  "categoria": "DIVISIÓN DE HONOR HC / OHOREZKO MAILA (GRUPO 1)",
+  "equipo_local": "URDULIZ A",
+  "equipo_visitante": "AMOREBIETA A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANTOS GARCIA, AITOR"
+  ],
+  "estadio": "IPARRALDE-URDULIZ",
+  "ciudad": "Urduliz",
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "INTXAUSTI LAUZIRIKA, XABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "SILLONIZ ARIZMENDIARRIETA, GARI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 49,
+      "jugador": "RODRIGUEZ RAMOS, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "HERNANDEZ PEREZ, OSCAR JAVIER",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": "LOPEZ BARRIOS, IÑIGO",
+  "segundo_entrenador_visitante": "ANDALUZ GARCIA, JULEN",
+  "delegado_campo_local": "LANDEA AYLLON, GORKA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "UBERUAGA REGULEZ, UNAI",
+  "titulares_local": [
+    "FRANCES BENGOECHEA, EDER",
+    "ELORZA DESSEL, MARKEL",
+    "MARINA FERNANDEZ, IBAI",
+    "UGARTE VELASCO, JON",
+    "RODRIGUEZ RAMOS, IKER",
+    "URRUTIA URIBARRI, LANDER",
+    "ANTON BEGOÑA, ELEDER",
+    "GOMEZ LOPEZ, AIMAR",
+    "GARAY GOIRIGOLZARRI, ANER",
+    "RIAÑO GOMEZ, MIKEL",
+    "URIARTE ESNAL, KIMETZ"
+  ],
+  "titulares_visitante": [
+    "ROJO DE JUAN, XANET",
+    "GUTIERREZ RODRIGUEZ, OIHAN",
+    "URTAZA ACEDO, XABAT",
+    "ACEVEDO IZA, DANEL",
+    "INTXAUSTI LAUZIRIKA, XABIER",
+    "MARTINEZ ZUAZAGA, MARKEL",
+    "FERNANDEZ URIARTE, MARKEL",
+    "MILITEI, ALEXANDRU CHRISTIAN",
+    "MANDALUNIZ LAUCIRICA, EKAITZ",
+    "DOMINGUEZ ALBERDI, IKER",
+    "LAVIN PEREZ, PAUL"
+  ],
+  "suplentes_local": [
+    "GALLO DE LARA, HEGOI",
+    "HERNANDEZ VERA, AKETX",
+    "AZUA SAIKKONEN, EINAR",
+    "FRESNEDO CLEMENTE, AIERT",
+    "ARROLA MARMAÑAZ, ARITZ",
+    "GOROSTIZA IBAÑEZ, MARTIN"
+  ],
+  "suplentes_visitante": [
+    "MILITEI, DAVID",
+    "LARREA GORROÑO, JOSU",
+    "RODRIGUEZ CERCADILLO, ANDER MANUEL",
+    "SEVILLANO ORTIZ, ERIC",
+    "CHKAIRI EL OUIZI, OUISSAM",
+    "SILLONIZ ARIZMENDIARRIETA, GARI",
+    "INUNCIAGA ZUGAZABEITIA, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "GALLO DE LARA, HEGOI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MILITEI, DAVID",
+    "RODRIGUEZ CERCADILLO, ANDER MANUEL"
+  ],
+  "jugadores_local": [
+    "FRANCES BENGOECHEA, EDER",
+    "ELORZA DESSEL, MARKEL",
+    "MARINA FERNANDEZ, IBAI",
+    "UGARTE VELASCO, JON",
+    "RODRIGUEZ RAMOS, IKER",
+    "URRUTIA URIBARRI, LANDER",
+    "ANTON BEGOÑA, ELEDER",
+    "GOMEZ LOPEZ, AIMAR",
+    "GARAY GOIRIGOLZARRI, ANER",
+    "RIAÑO GOMEZ, MIKEL",
+    "URIARTE ESNAL, KIMETZ",
+    "GOROSTIZA IBAÑEZ, MARTIN",
+    "FRESNEDO CLEMENTE, AIERT",
+    "ARROLA MARMAÑAZ, ARITZ",
+    "HERNANDEZ VERA, AKETX",
+    "AZUA SAIKKONEN, EINAR"
+  ],
+  "jugadores_visitante": [
+    "ROJO DE JUAN, XANET",
+    "GUTIERREZ RODRIGUEZ, OIHAN",
+    "URTAZA ACEDO, XABAT",
+    "ACEVEDO IZA, DANEL",
+    "INTXAUSTI LAUZIRIKA, XABIER",
+    "MARTINEZ ZUAZAGA, MARKEL",
+    "FERNANDEZ URIARTE, MARKEL",
+    "MILITEI, ALEXANDRU CHRISTIAN",
+    "MANDALUNIZ LAUCIRICA, EKAITZ",
+    "DOMINGUEZ ALBERDI, IKER",
+    "LAVIN PEREZ, PAUL",
+    "SEVILLANO ORTIZ, ERIC",
+    "SILLONIZ ARIZMENDIARRIETA, GARI",
+    "INUNCIAGA ZUGAZABEITIA, JON",
+    "CHKAIRI EL OUIZI, OUISSAM",
+    "LARREA GORROÑO, JOSU"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "GOROSTIZA IBAÑEZ, MARTIN",
+      "sale": "MARINA FERNANDEZ, IBAI"
+    },
+    {
+      "min": 52,
+      "entra": "FRESNEDO CLEMENTE, AIERT",
+      "sale": "URIARTE ESNAL, KIMETZ"
+    },
+    {
+      "min": 55,
+      "entra": "ARROLA MARMAÑAZ, ARITZ",
+      "sale": "GARAY GOIRIGOLZARRI, ANER"
+    },
+    {
+      "min": 55,
+      "entra": "HERNANDEZ VERA, AKETX",
+      "sale": "RIAÑO GOMEZ, MIKEL"
+    },
+    {
+      "min": 55,
+      "entra": "AZUA SAIKKONEN, EINAR",
+      "sale": "ELORZA DESSEL, MARKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "SEVILLANO ORTIZ, ERIC",
+      "sale": "MILITEI, ALEXANDRU CHRISTIAN"
+    },
+    {
+      "min": 61,
+      "entra": "SILLONIZ ARIZMENDIARRIETA, GARI",
+      "sale": "MANDALUNIZ LAUCIRICA, EKAITZ"
+    },
+    {
+      "min": 61,
+      "entra": "INUNCIAGA ZUGAZABEITIA, JON",
+      "sale": "MARTINEZ ZUAZAGA, MARKEL"
+    },
+    {
+      "min": 75,
+      "entra": "CHKAIRI EL OUIZI, OUISSAM",
+      "sale": "ACEVEDO IZA, DANEL"
+    },
+    {
+      "min": 75,
+      "entra": "LARREA GORROÑO, JOSU",
+      "sale": "DOMINGUEZ ALBERDI, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "FRANCES BENGOECHEA, EDER": 90,
+    "ELORZA DESSEL, MARKEL": 55,
+    "MARINA FERNANDEZ, IBAI": 52,
+    "UGARTE VELASCO, JON": 90,
+    "RODRIGUEZ RAMOS, IKER": 90,
+    "URRUTIA URIBARRI, LANDER": 90,
+    "ANTON BEGOÑA, ELEDER": 90,
+    "GOMEZ LOPEZ, AIMAR": 90,
+    "GARAY GOIRIGOLZARRI, ANER": 55,
+    "RIAÑO GOMEZ, MIKEL": 55,
+    "URIARTE ESNAL, KIMETZ": 52,
+    "GOROSTIZA IBAÑEZ, MARTIN": 38,
+    "FRESNEDO CLEMENTE, AIERT": 38,
+    "ARROLA MARMAÑAZ, ARITZ": 35,
+    "HERNANDEZ VERA, AKETX": 35,
+    "AZUA SAIKKONEN, EINAR": 35,
+    "ROJO DE JUAN, XANET": 90,
+    "GUTIERREZ RODRIGUEZ, OIHAN": 90,
+    "URTAZA ACEDO, XABAT": 90,
+    "ACEVEDO IZA, DANEL": 75,
+    "INTXAUSTI LAUZIRIKA, XABIER": 90,
+    "MARTINEZ ZUAZAGA, MARKEL": 61,
+    "FERNANDEZ URIARTE, MARKEL": 90,
+    "MILITEI, ALEXANDRU CHRISTIAN": 50,
+    "MANDALUNIZ LAUCIRICA, EKAITZ": 61,
+    "DOMINGUEZ ALBERDI, IKER": 75,
+    "LAVIN PEREZ, PAUL": 90,
+    "SEVILLANO ORTIZ, ERIC": 40,
+    "SILLONIZ ARIZMENDIARRIETA, GARI": 29,
+    "INUNCIAGA ZUGAZABEITIA, JON": 29,
+    "CHKAIRI EL OUIZI, OUISSAM": 15,
+    "LARREA GORROÑO, JOSU": 15
+  },
+  "portero_local": "FRANCES BENGOECHEA, EDER",
+  "portero_visitante": "ROJO DE JUAN, XANET",
+  "dorsales_local": {
+    "FRANCES BENGOECHEA, EDER": 1,
+    "ELORZA DESSEL, MARKEL": 2,
+    "MARINA FERNANDEZ, IBAI": 3,
+    "UGARTE VELASCO, JON": 4,
+    "RODRIGUEZ RAMOS, IKER": 5,
+    "URRUTIA URIBARRI, LANDER": 6,
+    "ANTON BEGOÑA, ELEDER": 7,
+    "GOMEZ LOPEZ, AIMAR": 10,
+    "GARAY GOIRIGOLZARRI, ANER": 14,
+    "RIAÑO GOMEZ, MIKEL": 15,
+    "URIARTE ESNAL, KIMETZ": 16
+  },
+  "dorsales_visitante": {
+    "ROJO DE JUAN, XANET": 13,
+    "GUTIERREZ RODRIGUEZ, OIHAN": 4,
+    "URTAZA ACEDO, XABAT": 5,
+    "ACEVEDO IZA, DANEL": 6,
+    "INTXAUSTI LAUZIRIKA, XABIER": 7,
+    "MARTINEZ ZUAZAGA, MARKEL": 9,
+    "FERNANDEZ URIARTE, MARKEL": 10,
+    "MILITEI, ALEXANDRU CHRISTIAN": 11,
+    "MANDALUNIZ LAUCIRICA, EKAITZ": 15,
+    "DOMINGUEZ ALBERDI, IKER": 16,
+    "LAVIN PEREZ, PAUL": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
