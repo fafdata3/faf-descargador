@@ -1,0 +1,252 @@
+{
+  "acta_id": "C_192751",
+  "filename": "Acta_C_192751.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 4,
+  "fecha": "28-09-2024",
+  "hora": "13:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO A",
+  "equipo_visitante": "C.F. VIMENOR A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CADELO CIMIANO, MARIO"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "MEDINA RICO, MAICOL STIVEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 71,
+      "jugador": "HERRAN ALONSO, MARCO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 9,
+      "jugador": "MARTIN LOPEZ, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "CAPELLAN ROBLEDO, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PALACIO NAVARRO, DIEGO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RUIZ PEREZ, MARIA JOSE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DE LA FUENTE DIEGO, LIAN",
+  "delegado_equipo_visitante": "SAIZ MARISCAL, ADRIAN",
+  "titulares_local": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "GUTIERREZ MARTIN, JAVIER",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "HERRAN ALONSO, MARCO",
+    "MEDINA RICO, MAICOL STIVEN",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "TORRE MACIA, RODRIGO",
+    "GARCIA SAYALERO, ALEJANDRO"
+  ],
+  "titulares_visitante": [
+    "PUENTE BUSTILLO, ENRIQUE",
+    "LOIS VEGAS, LEO",
+    "CANO FERNANDEZ, ALONSO",
+    "FRAGA GARCIA, FRANCISCO",
+    "PELLÓN CRESPO, SERGIO",
+    "ABARRATEGUI GONZALEZ, GERMAN",
+    "DE LA VEGA TOCA, ÁNGEL",
+    "FERNÁNDEZ ÁLVAREZ, DAVID",
+    "MARTIN LOPEZ, IKER",
+    "DE PRADO DIB, ALVARO",
+    "SAN PEDRO SEGURA, DANIEL"
+  ],
+  "suplentes_local": [
+    "COZ SOTA, JAVIER",
+    "gomara rivas, MANUEL",
+    "BEZANILLA GARCIA, AARON",
+    "PRIETO GONZALEZ, ADRIAN",
+    "TOMAS AJA, JAVIER"
+  ],
+  "suplentes_visitante": [
+    "SAENZ COBO, ALEJANDRO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "CIFRIÁN CONTADOR, JACOBO",
+    "IBÁÑEZ ESCUDERO, HUGO",
+    "RUIZ DE LA ROSA, GONZALO"
+  ],
+  "convocados_sin_jugar_local": [
+    "COZ SOTA, JAVIER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "GUTIERREZ MARTIN, JAVIER",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "HERRAN ALONSO, MARCO",
+    "MEDINA RICO, MAICOL STIVEN",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "TORRE MACIA, RODRIGO",
+    "GARCIA SAYALERO, ALEJANDRO",
+    "PRIETO GONZALEZ, ADRIAN",
+    "TOMAS AJA, JAVIER",
+    "gomara rivas, MANUEL",
+    "BEZANILLA GARCIA, AARON"
+  ],
+  "jugadores_visitante": [
+    "PUENTE BUSTILLO, ENRIQUE",
+    "LOIS VEGAS, LEO",
+    "CANO FERNANDEZ, ALONSO",
+    "FRAGA GARCIA, FRANCISCO",
+    "PELLÓN CRESPO, SERGIO",
+    "ABARRATEGUI GONZALEZ, GERMAN",
+    "DE LA VEGA TOCA, ÁNGEL",
+    "FERNÁNDEZ ÁLVAREZ, DAVID",
+    "MARTIN LOPEZ, IKER",
+    "DE PRADO DIB, ALVARO",
+    "SAN PEDRO SEGURA, DANIEL",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "CIFRIÁN CONTADOR, JACOBO",
+    "RUIZ DE LA ROSA, GONZALO",
+    "SAENZ COBO, ALEJANDRO",
+    "IBÁÑEZ ESCUDERO, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "PRIETO GONZALEZ, ADRIAN",
+      "sale": "RODRIGUEZ LABRADOR, PABLO"
+    },
+    {
+      "min": 59,
+      "entra": "TOMAS AJA, JAVIER",
+      "sale": "HERRAN ALONSO, MARCO"
+    },
+    {
+      "min": 59,
+      "entra": "gomara rivas, MANUEL",
+      "sale": "SAÑUDO BLAZQUEZ, ADRIAN"
+    },
+    {
+      "min": 65,
+      "entra": "BEZANILLA GARCIA, AARON",
+      "sale": "GARCIA DIEGO PEREZ, ANGEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 43,
+      "entra": "CAPELLAN ROBLEDO, DANIEL",
+      "sale": "PELLÓN CRESPO, SERGIO"
+    },
+    {
+      "min": 54,
+      "entra": "CIFRIÁN CONTADOR, JACOBO",
+      "sale": "DE PRADO DIB, ALVARO"
+    },
+    {
+      "min": 54,
+      "entra": "RUIZ DE LA ROSA, GONZALO",
+      "sale": "DE LA VEGA TOCA, ÁNGEL"
+    },
+    {
+      "min": 65,
+      "entra": "SAENZ COBO, ALEJANDRO",
+      "sale": "LOIS VEGAS, LEO"
+    },
+    {
+      "min": 67,
+      "entra": "IBÁÑEZ ESCUDERO, HUGO",
+      "sale": "MARTIN LOPEZ, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ AGUDO, HUGO": 90,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 59,
+    "GUTIERREZ MARTIN, JAVIER": 90,
+    "GARCIA DIEGO PEREZ, ANGEL": 65,
+    "HERRAN ALONSO, MARCO": 59,
+    "MEDINA RICO, MAICOL STIVEN": 90,
+    "NAVARRO SEOANE, NICOLAS": 90,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 90,
+    "RODRIGUEZ LABRADOR, PABLO": 52,
+    "TORRE MACIA, RODRIGO": 90,
+    "GARCIA SAYALERO, ALEJANDRO": 90,
+    "PRIETO GONZALEZ, ADRIAN": 38,
+    "TOMAS AJA, JAVIER": 31,
+    "gomara rivas, MANUEL": 31,
+    "BEZANILLA GARCIA, AARON": 25,
+    "PUENTE BUSTILLO, ENRIQUE": 90,
+    "LOIS VEGAS, LEO": 65,
+    "CANO FERNANDEZ, ALONSO": 90,
+    "FRAGA GARCIA, FRANCISCO": 90,
+    "PELLÓN CRESPO, SERGIO": 43,
+    "ABARRATEGUI GONZALEZ, GERMAN": 90,
+    "DE LA VEGA TOCA, ÁNGEL": 54,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 90,
+    "MARTIN LOPEZ, IKER": 67,
+    "DE PRADO DIB, ALVARO": 54,
+    "SAN PEDRO SEGURA, DANIEL": 90,
+    "CAPELLAN ROBLEDO, DANIEL": 47,
+    "CIFRIÁN CONTADOR, JACOBO": 36,
+    "RUIZ DE LA ROSA, GONZALO": 36,
+    "SAENZ COBO, ALEJANDRO": 25,
+    "IBÁÑEZ ESCUDERO, HUGO": 23
+  },
+  "portero_local": "RODRIGUEZ AGUDO, HUGO",
+  "portero_visitante": "PUENTE BUSTILLO, ENRIQUE",
+  "dorsales_local": {
+    "RODRIGUEZ AGUDO, HUGO": 13,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 4,
+    "GUTIERREZ MARTIN, JAVIER": 5,
+    "GARCIA DIEGO PEREZ, ANGEL": 6,
+    "HERRAN ALONSO, MARCO": 8,
+    "MEDINA RICO, MAICOL STIVEN": 9,
+    "NAVARRO SEOANE, NICOLAS": 12,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 14,
+    "RODRIGUEZ LABRADOR, PABLO": 16,
+    "TORRE MACIA, RODRIGO": 19,
+    "GARCIA SAYALERO, ALEJANDRO": 20
+  },
+  "dorsales_visitante": {
+    "PUENTE BUSTILLO, ENRIQUE": 13,
+    "LOIS VEGAS, LEO": 2,
+    "CANO FERNANDEZ, ALONSO": 3,
+    "FRAGA GARCIA, FRANCISCO": 4,
+    "PELLÓN CRESPO, SERGIO": 5,
+    "ABARRATEGUI GONZALEZ, GERMAN": 6,
+    "DE LA VEGA TOCA, ÁNGEL": 7,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 8,
+    "MARTIN LOPEZ, IKER": 9,
+    "DE PRADO DIB, ALVARO": 10,
+    "SAN PEDRO SEGURA, DANIEL": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
