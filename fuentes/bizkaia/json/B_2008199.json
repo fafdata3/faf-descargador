@@ -1,0 +1,306 @@
+{
+  "acta_id": "B_2008199",
+  "filename": "Acta_B_2008199.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 15,
+  "fecha": "18-01-2025",
+  "hora": "13:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ASTRABUDUAKO A",
+  "equipo_visitante": "URDANETA A",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "LAVIÑA PLÁGARO, AITOR"
+  ],
+  "estadio": "SAN LORENZO",
+  "ciudad": "ERANDIO (ASTRABUDUA)",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "ALFARO CALVO, IBON",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "SANCHEZ SANDIN, IKER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "ALONSO DE LA QUINTANA, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "IGLESIAS DUEÑAS, ARATZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "PEREZ CASTEJON, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "RILOVA MOCHA, JULEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "IGLESIAS DUEÑAS, ARATZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "MOREDA MARTIN, YAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 7,
+      "jugador": "ARTEAGA MARTINEZ, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 8,
+      "jugador": "GONZALEZ CALVO, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "CORCOSTEGUI GUIO, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FANO ESKAURIATZA, IGOR",
+  "entrenador_visitante": "ARTEAGA MARTINEZ, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "HORMAECHE CANTERA, ENDIKA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HORMAECHE CANTERA, ENDIKA",
+  "delegado_equipo_visitante": "VALES CALVO, EKAITZ",
+  "titulares_local": [
+    "TERUELO ZUAZO, UNAI",
+    "CAMPOS MARCOS, ANDEKA",
+    "MENDEZ RASINES, HODEI",
+    "RILOVA MOCHA, JULEN",
+    "AGUIRRE GARCIA, IKER",
+    "JORGE ARRUE, MIKEL",
+    "CORNAGO DE LA VEGA, MARTIN",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "ALONSO DE LA QUINTANA, OIER",
+    "IGLESIAS DUEÑAS, ARATZ",
+    "LARRAZABAL SANTISTEBAN, XABI"
+  ],
+  "titulares_visitante": [
+    "ALFARO CALVO, IBON",
+    "GARCIA-CARDENAL MARTIN, VIDAL",
+    "LAZKANO RODRIGUEZ, ANER",
+    "GONZALEZ ROMO, AITOR",
+    "GONZALEZ CALVO, ANDER",
+    "ELVIRA NAVARRO, IÑIGO",
+    "SANCHEZ SANDIN, IKER",
+    "SUBINAS EIZAGUIRRE, LEO",
+    "JAUREGUI CASTRESANA, MATEO",
+    "BUENO AYZAGAR, DANEL",
+    "TARONCHER VERDAGUER, ALEX"
+  ],
+  "suplentes_local": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "CABALLERO TRINIDAD, ASIER",
+    "ALBA AYALA, JUAN DAVID",
+    "MOREDA MARTIN, YAGO",
+    "PEREZ CASTEJON, IKER",
+    "BURGUEÑO GONZALEZ, ADEI",
+    "PARDO INCHAURBE, ANER"
+  ],
+  "suplentes_visitante": [
+    "CORCOSTEGUI GUIO, DANIEL",
+    "SANCHEZ RIVERA, DANIEL",
+    "HORMAECHEA BEITIA, GONZALO",
+    "BILBAO ZABALA, MIKEL",
+    "GALLO GONZALEZ, XABIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "PARDO INCHAURBE, ANER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GALLO GONZALEZ, XABIER"
+  ],
+  "jugadores_local": [
+    "TERUELO ZUAZO, UNAI",
+    "CAMPOS MARCOS, ANDEKA",
+    "MENDEZ RASINES, HODEI",
+    "RILOVA MOCHA, JULEN",
+    "AGUIRRE GARCIA, IKER",
+    "JORGE ARRUE, MIKEL",
+    "CORNAGO DE LA VEGA, MARTIN",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "ALONSO DE LA QUINTANA, OIER",
+    "IGLESIAS DUEÑAS, ARATZ",
+    "LARRAZABAL SANTISTEBAN, XABI",
+    "MOREDA MARTIN, YAGO",
+    "BURGUEÑO GONZALEZ, ADEI",
+    "CABALLERO TRINIDAD, ASIER",
+    "PEREZ CASTEJON, IKER",
+    "ALBA AYALA, JUAN DAVID"
+  ],
+  "jugadores_visitante": [
+    "ALFARO CALVO, IBON",
+    "GARCIA-CARDENAL MARTIN, VIDAL",
+    "LAZKANO RODRIGUEZ, ANER",
+    "GONZALEZ ROMO, AITOR",
+    "GONZALEZ CALVO, ANDER",
+    "ELVIRA NAVARRO, IÑIGO",
+    "SANCHEZ SANDIN, IKER",
+    "SUBINAS EIZAGUIRRE, LEO",
+    "JAUREGUI CASTRESANA, MATEO",
+    "BUENO AYZAGAR, DANEL",
+    "TARONCHER VERDAGUER, ALEX",
+    "CORCOSTEGUI GUIO, DANIEL",
+    "BILBAO ZABALA, MIKEL",
+    "HORMAECHEA BEITIA, GONZALO",
+    "SANCHEZ RIVERA, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "MOREDA MARTIN, YAGO",
+      "sale": "CORNAGO DE LA VEGA, MARTIN"
+    },
+    {
+      "min": 54,
+      "entra": "BURGUEÑO GONZALEZ, ADEI",
+      "sale": "AGUIRRE GARCIA, IKER"
+    },
+    {
+      "min": 54,
+      "entra": "CABALLERO TRINIDAD, ASIER",
+      "sale": "CAMPO GURRUTXAGA, ALAIN"
+    },
+    {
+      "min": 65,
+      "entra": "PEREZ CASTEJON, IKER",
+      "sale": "JORGE ARRUE, MIKEL"
+    },
+    {
+      "min": 74,
+      "entra": "ALBA AYALA, JUAN DAVID",
+      "sale": "RILOVA MOCHA, JULEN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 67,
+      "entra": "CORCOSTEGUI GUIO, DANIEL",
+      "sale": "SANCHEZ SANDIN, IKER"
+    },
+    {
+      "min": 67,
+      "entra": "BILBAO ZABALA, MIKEL",
+      "sale": "ELVIRA NAVARRO, IÑIGO"
+    },
+    {
+      "min": 76,
+      "entra": "HORMAECHEA BEITIA, GONZALO",
+      "sale": "SUBINAS EIZAGUIRRE, LEO"
+    },
+    {
+      "min": 76,
+      "entra": "SANCHEZ RIVERA, DANIEL",
+      "sale": "JAUREGUI CASTRESANA, MATEO"
+    }
+  ],
+  "minutos_jugadores": {
+    "TERUELO ZUAZO, UNAI": 90,
+    "CAMPOS MARCOS, ANDEKA": 90,
+    "MENDEZ RASINES, HODEI": 90,
+    "RILOVA MOCHA, JULEN": 74,
+    "AGUIRRE GARCIA, IKER": 54,
+    "JORGE ARRUE, MIKEL": 65,
+    "CORNAGO DE LA VEGA, MARTIN": 40,
+    "CAMPO GURRUTXAGA, ALAIN": 54,
+    "ALONSO DE LA QUINTANA, OIER": 90,
+    "IGLESIAS DUEÑAS, ARATZ": 90,
+    "LARRAZABAL SANTISTEBAN, XABI": 90,
+    "MOREDA MARTIN, YAGO": 50,
+    "BURGUEÑO GONZALEZ, ADEI": 36,
+    "CABALLERO TRINIDAD, ASIER": 36,
+    "PEREZ CASTEJON, IKER": 25,
+    "ALBA AYALA, JUAN DAVID": 16,
+    "ALFARO CALVO, IBON": 90,
+    "GARCIA-CARDENAL MARTIN, VIDAL": 90,
+    "LAZKANO RODRIGUEZ, ANER": 90,
+    "GONZALEZ ROMO, AITOR": 90,
+    "GONZALEZ CALVO, ANDER": 90,
+    "ELVIRA NAVARRO, IÑIGO": 67,
+    "SANCHEZ SANDIN, IKER": 67,
+    "SUBINAS EIZAGUIRRE, LEO": 76,
+    "JAUREGUI CASTRESANA, MATEO": 76,
+    "BUENO AYZAGAR, DANEL": 90,
+    "TARONCHER VERDAGUER, ALEX": 90,
+    "CORCOSTEGUI GUIO, DANIEL": 23,
+    "BILBAO ZABALA, MIKEL": 23,
+    "HORMAECHEA BEITIA, GONZALO": 14,
+    "SANCHEZ RIVERA, DANIEL": 14
+  },
+  "portero_local": "TERUELO ZUAZO, UNAI",
+  "portero_visitante": "ALFARO CALVO, IBON",
+  "dorsales_local": {
+    "TERUELO ZUAZO, UNAI": 1,
+    "CAMPOS MARCOS, ANDEKA": 3,
+    "MENDEZ RASINES, HODEI": 4,
+    "RILOVA MOCHA, JULEN": 5,
+    "AGUIRRE GARCIA, IKER": 10,
+    "JORGE ARRUE, MIKEL": 11,
+    "CORNAGO DE LA VEGA, MARTIN": 17,
+    "CAMPO GURRUTXAGA, ALAIN": 19,
+    "ALONSO DE LA QUINTANA, OIER": 21,
+    "IGLESIAS DUEÑAS, ARATZ": 23,
+    "LARRAZABAL SANTISTEBAN, XABI": 24
+  },
+  "dorsales_visitante": {
+    "ALFARO CALVO, IBON": 13,
+    "GARCIA-CARDENAL MARTIN, VIDAL": 2,
+    "LAZKANO RODRIGUEZ, ANER": 3,
+    "GONZALEZ ROMO, AITOR": 4,
+    "GONZALEZ CALVO, ANDER": 5,
+    "ELVIRA NAVARRO, IÑIGO": 7,
+    "SANCHEZ SANDIN, IKER": 9,
+    "SUBINAS EIZAGUIRRE, LEO": 10,
+    "JAUREGUI CASTRESANA, MATEO": 14,
+    "BUENO AYZAGAR, DANEL": 23,
+    "TARONCHER VERDAGUER, ALEX": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
