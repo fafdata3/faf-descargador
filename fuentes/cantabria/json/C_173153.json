@@ -1,0 +1,259 @@
+{
+  "acta_id": "C_173153",
+  "filename": "Acta_C_173153.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "24-09-2023",
+  "hora": "12:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "AYRON CLUB A",
+  "equipo_visitante": "ESC.MPAL. SANTANDER A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "QUINZAÑOS SAIZ, DAVID"
+  ],
+  "estadio": "Vargas",
+  "ciudad": "Puente Viesgo",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "COROZO TARIRA, SAMUEL LENIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 24,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "RUIZ CRESPO, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "RUIZ CRESPO, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 56,
+      "jugador": "HIDALGO VILLANUEVA, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ACEBO BUSTILLO, FRANCISCO",
+  "entrenador_visitante": "COSTALES ALVAREZ, RICARDO",
+  "segundo_entrenador_local": "GOMEZ DIAZ, VENTURA",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "HERRERA DIAZ, SALVADOR",
+  "titulares_local": [
+    "GOMEZ NIETO, JESÚS",
+    "PEREA ABAD, AITOR",
+    "PARDO GOMEZ, LUIS",
+    "GALLO VERGARA, PABLO",
+    "MARTIN BARQUIN, LEO",
+    "LIAÑO MANTECÓN, HUGO",
+    "RUIZ CRESPO, NICOLAS",
+    "BUENAGA GONZÁLEZ, IZAN",
+    "RUIZ CRESPO, HUGO",
+    "ALVAREZ DIEGO, GABRIEL",
+    "BALDOR MARTINEZ, NOE"
+  ],
+  "titulares_visitante": [
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "LAVIN VELARDE, MARCOS",
+    "LOPEZ SAN MARTIN, HUGO",
+    "PEREZ DEL TIO, LUCAS",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "CAMPELO MARTINEZ, PABLO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "CARNICERO SANZ, MIGUEL ANGEL",
+    "GORI GORI, DANIEL",
+    "FERNANDEZ DE DIEGO, ALVARO"
+  ],
+  "suplentes_local": [
+    "ALVAREZ SAN EMETERIO, ERIK",
+    "CALANTE CABRILLO, ADRIÁN",
+    "LLANO CARRAL, MARCO",
+    "GOMEZ OBESO, PABLO",
+    "BURDIE FERNANDEZ, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "SAINZ GARCÍA, CESÁR",
+    "GUTIERREZ OTERO, DIEGO",
+    "LOPEZ LAMEIRO, MATEO",
+    "HIDALGO VILLANUEVA, DANIEL",
+    "DEL OJO HERRERO, LUCA"
+  ],
+  "convocados_sin_jugar_local": [
+    "LLANO CARRAL, MARCO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GOMEZ NIETO, JESÚS",
+    "PEREA ABAD, AITOR",
+    "PARDO GOMEZ, LUIS",
+    "GALLO VERGARA, PABLO",
+    "MARTIN BARQUIN, LEO",
+    "LIAÑO MANTECÓN, HUGO",
+    "RUIZ CRESPO, NICOLAS",
+    "BUENAGA GONZÁLEZ, IZAN",
+    "RUIZ CRESPO, HUGO",
+    "ALVAREZ DIEGO, GABRIEL",
+    "BALDOR MARTINEZ, NOE",
+    "GOMEZ OBESO, PABLO",
+    "CALANTE CABRILLO, ADRIÁN",
+    "ALVAREZ SAN EMETERIO, ERIK",
+    "BURDIE FERNANDEZ, DIEGO"
+  ],
+  "jugadores_visitante": [
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "LAVIN VELARDE, MARCOS",
+    "LOPEZ SAN MARTIN, HUGO",
+    "PEREZ DEL TIO, LUCAS",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "CAMPELO MARTINEZ, PABLO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "CARNICERO SANZ, MIGUEL ANGEL",
+    "GORI GORI, DANIEL",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "GUTIERREZ OTERO, DIEGO",
+    "SAINZ GARCÍA, CESÁR",
+    "HIDALGO VILLANUEVA, DANIEL",
+    "LOPEZ LAMEIRO, MATEO",
+    "DEL OJO HERRERO, LUCA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "GOMEZ OBESO, PABLO",
+      "sale": "BALDOR MARTINEZ, NOE"
+    },
+    {
+      "min": 36,
+      "entra": "CALANTE CABRILLO, ADRIÁN",
+      "sale": "MARTIN BARQUIN, LEO"
+    },
+    {
+      "min": 52,
+      "entra": "ALVAREZ SAN EMETERIO, ERIK",
+      "sale": "ALVAREZ DIEGO, GABRIEL"
+    },
+    {
+      "min": 70,
+      "entra": "BURDIE FERNANDEZ, DIEGO",
+      "sale": "LIAÑO MANTECÓN, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "GUTIERREZ OTERO, DIEGO",
+      "sale": "CARNICERO SANZ, MIGUEL ANGEL"
+    },
+    {
+      "min": 36,
+      "entra": "SAINZ GARCÍA, CESÁR",
+      "sale": "DE LA FUENTE GUILLARON, MARCOS"
+    },
+    {
+      "min": 40,
+      "entra": "HIDALGO VILLANUEVA, DANIEL",
+      "sale": "LOPEZ SAN MARTIN, HUGO"
+    },
+    {
+      "min": 40,
+      "entra": "LOPEZ LAMEIRO, MATEO",
+      "sale": "GORI GORI, DANIEL"
+    },
+    {
+      "min": 45,
+      "entra": "DEL OJO HERRERO, LUCA",
+      "sale": "COROZO TARIRA, SAMUEL LENIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ NIETO, JESÚS": 90,
+    "PEREA ABAD, AITOR": 90,
+    "PARDO GOMEZ, LUIS": 90,
+    "GALLO VERGARA, PABLO": 90,
+    "MARTIN BARQUIN, LEO": 36,
+    "LIAÑO MANTECÓN, HUGO": 70,
+    "RUIZ CRESPO, NICOLAS": 90,
+    "BUENAGA GONZÁLEZ, IZAN": 90,
+    "RUIZ CRESPO, HUGO": 90,
+    "ALVAREZ DIEGO, GABRIEL": 52,
+    "BALDOR MARTINEZ, NOE": 36,
+    "GOMEZ OBESO, PABLO": 54,
+    "CALANTE CABRILLO, ADRIÁN": 54,
+    "ALVAREZ SAN EMETERIO, ERIK": 38,
+    "BURDIE FERNANDEZ, DIEGO": 20,
+    "DE LA FUENTE GUILLARON, MARCOS": 36,
+    "LAVIN VELARDE, MARCOS": 90,
+    "LOPEZ SAN MARTIN, HUGO": 40,
+    "PEREZ DEL TIO, LUCAS": 90,
+    "DOMINGUEZ RUIZ, SAMUEL": 90,
+    "COROZO TARIRA, SAMUEL LENIN": 45,
+    "CAMPELO MARTINEZ, PABLO": 90,
+    "MARTINEZ IBAÑEZ, LUCAS": 90,
+    "CARNICERO SANZ, MIGUEL ANGEL": 36,
+    "GORI GORI, DANIEL": 40,
+    "FERNANDEZ DE DIEGO, ALVARO": 90,
+    "GUTIERREZ OTERO, DIEGO": 54,
+    "SAINZ GARCÍA, CESÁR": 54,
+    "HIDALGO VILLANUEVA, DANIEL": 50,
+    "LOPEZ LAMEIRO, MATEO": 50,
+    "DEL OJO HERRERO, LUCA": 45
+  },
+  "portero_local": "GOMEZ NIETO, JESÚS",
+  "portero_visitante": "DE LA FUENTE GUILLARON, MARCOS",
+  "dorsales_local": {
+    "GOMEZ NIETO, JESÚS": 1,
+    "PEREA ABAD, AITOR": 2,
+    "PARDO GOMEZ, LUIS": 4,
+    "GALLO VERGARA, PABLO": 5,
+    "MARTIN BARQUIN, LEO": 6,
+    "LIAÑO MANTECÓN, HUGO": 7,
+    "RUIZ CRESPO, NICOLAS": 8,
+    "BUENAGA GONZÁLEZ, IZAN": 9,
+    "RUIZ CRESPO, HUGO": 10,
+    "ALVAREZ DIEGO, GABRIEL": 14,
+    "BALDOR MARTINEZ, NOE": 17
+  },
+  "dorsales_visitante": {
+    "DE LA FUENTE GUILLARON, MARCOS": 1,
+    "LAVIN VELARDE, MARCOS": 3,
+    "LOPEZ SAN MARTIN, HUGO": 4,
+    "PEREZ DEL TIO, LUCAS": 5,
+    "DOMINGUEZ RUIZ, SAMUEL": 6,
+    "COROZO TARIRA, SAMUEL LENIN": 7,
+    "CAMPELO MARTINEZ, PABLO": 9,
+    "MARTINEZ IBAÑEZ, LUCAS": 10,
+    "CARNICERO SANZ, MIGUEL ANGEL": 19,
+    "GORI GORI, DANIEL": 20,
+    "FERNANDEZ DE DIEGO, ALVARO": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
