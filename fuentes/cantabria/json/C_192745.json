@@ -1,0 +1,265 @@
+{
+  "acta_id": "C_192745",
+  "filename": "Acta_C_192745.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 3,
+  "fecha": "22-09-2024",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA A",
+  "equipo_visitante": "C.D. CAYON A",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "VISPO RODRIGUEZ, ISRAEL"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 26,
+      "jugador": "LOPEZ LOPEZ, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "GONZALEZ CELIS, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "DEL RIO PRIETO, JUAN VICENTE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "Garcia Roiz, Dario",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 2,
+      "jugador": "SAINZ DE LA HOZ, CESAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "GUTIERREZ FERNANDEZ, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALONSO ALONSO, HECTOR",
+  "entrenador_visitante": "SAINZ DEL RIO, GUILLERMO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "RUIZ SIMON, DAVID",
+  "titulares_local": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "VARON SANCHEZ, CESAR",
+    "LOPEZ LOPEZ, IKER",
+    "BARBA AGENJO, ADRIAN",
+    "QUINTANA CALDERON, MARCOS",
+    "RUIZ MIGUEZ, DANIEL",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "YELA GONZALEZ, MAURICIO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GONZALEZ CELIS, MARCO",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ PEREZ, SAMUEL",
+    "GUTIERREZ CRESPO, MARTIN",
+    "CASTELA HERRERO, PABLO",
+    "REVUELTA SAINZ, DIEGO",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "García Fernández, AARON",
+    "FERNANDEZ CASTIBLANCO, NICOLAS",
+    "LAZA ORTIZ, PABLO",
+    "SAINZ DE LA HOZ, CESAR",
+    "GARCIA ALONSO, SAMUEL",
+    "GUTIERREZ FERNANDEZ, IKER"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "COSSIO PEÑA, DIEGO",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+    "Garcia Roiz, Dario",
+    "EXPOSITO MARTIN, PABLO"
+  ],
+  "suplentes_visitante": [
+    "POPOVICI, MADALIN",
+    "BECERRIL ALONSO, SERGIO",
+    "DIAZ REVUELTA, RODRIGO",
+    "GILENE GOMEZ, ISRAEL",
+    "SAINZ FERNANDEZ, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "FERNANDEZ SAÑUDO, GERMAN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "VARON SANCHEZ, CESAR",
+    "LOPEZ LOPEZ, IKER",
+    "BARBA AGENJO, ADRIAN",
+    "QUINTANA CALDERON, MARCOS",
+    "RUIZ MIGUEZ, DANIEL",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "YELA GONZALEZ, MAURICIO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GONZALEZ CELIS, MARCO",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+    "EXPOSITO MARTIN, PABLO",
+    "Garcia Roiz, Dario",
+    "COSSIO PEÑA, DIEGO"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ PEREZ, SAMUEL",
+    "GUTIERREZ CRESPO, MARTIN",
+    "CASTELA HERRERO, PABLO",
+    "REVUELTA SAINZ, DIEGO",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "García Fernández, AARON",
+    "FERNANDEZ CASTIBLANCO, NICOLAS",
+    "LAZA ORTIZ, PABLO",
+    "SAINZ DE LA HOZ, CESAR",
+    "GARCIA ALONSO, SAMUEL",
+    "GUTIERREZ FERNANDEZ, IKER",
+    "POPOVICI, MADALIN",
+    "DIAZ REVUELTA, RODRIGO",
+    "SAINZ FERNANDEZ, DANIEL",
+    "GILENE GOMEZ, ISRAEL",
+    "BECERRIL ALONSO, SERGIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 47,
+      "entra": "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+      "sale": "LOPEZ LOPEZ, IKER"
+    },
+    {
+      "min": 55,
+      "entra": "EXPOSITO MARTIN, PABLO",
+      "sale": "BARBA AGENJO, ADRIAN"
+    },
+    {
+      "min": 55,
+      "entra": "Garcia Roiz, Dario",
+      "sale": "DEL RIO PRIETO, JUAN VICENTE"
+    },
+    {
+      "min": 61,
+      "entra": "COSSIO PEÑA, DIEGO",
+      "sale": "VARON SANCHEZ, CESAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "POPOVICI, MADALIN",
+      "sale": "SAINZ DE LA HOZ, CESAR"
+    },
+    {
+      "min": 41,
+      "entra": "DIAZ REVUELTA, RODRIGO",
+      "sale": "GARCIA ALONSO, SAMUEL"
+    },
+    {
+      "min": 47,
+      "entra": "SAINZ FERNANDEZ, DANIEL",
+      "sale": "GUTIERREZ FERNANDEZ, IKER"
+    },
+    {
+      "min": 52,
+      "entra": "GILENE GOMEZ, ISRAEL",
+      "sale": "LOPEZ GARCIA DEL POMAR, PELAYO"
+    },
+    {
+      "min": 57,
+      "entra": "BECERRIL ALONSO, SERGIO",
+      "sale": "FERNANDEZ CASTIBLANCO, NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONZÁLEZ TRESGALLO, ARMANDO": 90,
+    "VARON SANCHEZ, CESAR": 61,
+    "LOPEZ LOPEZ, IKER": 47,
+    "BARBA AGENJO, ADRIAN": 55,
+    "QUINTANA CALDERON, MARCOS": 90,
+    "RUIZ MIGUEZ, DANIEL": 90,
+    "MARTINEZ BUSTAMANTE, HUGO": 90,
+    "YELA GONZALEZ, MAURICIO": 90,
+    "DEL RIO PRIETO, JUAN VICENTE": 55,
+    "GONZALEZ CELIS, MARCO": 90,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 90,
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO": 43,
+    "EXPOSITO MARTIN, PABLO": 35,
+    "Garcia Roiz, Dario": 35,
+    "COSSIO PEÑA, DIEGO": 29,
+    "RODRIGUEZ PEREZ, SAMUEL": 90,
+    "GUTIERREZ CRESPO, MARTIN": 90,
+    "CASTELA HERRERO, PABLO": 90,
+    "REVUELTA SAINZ, DIEGO": 90,
+    "LOPEZ GARCIA DEL POMAR, PELAYO": 52,
+    "García Fernández, AARON": 90,
+    "FERNANDEZ CASTIBLANCO, NICOLAS": 57,
+    "LAZA ORTIZ, PABLO": 90,
+    "SAINZ DE LA HOZ, CESAR": 41,
+    "GARCIA ALONSO, SAMUEL": 41,
+    "GUTIERREZ FERNANDEZ, IKER": 47,
+    "POPOVICI, MADALIN": 49,
+    "DIAZ REVUELTA, RODRIGO": 49,
+    "SAINZ FERNANDEZ, DANIEL": 43,
+    "GILENE GOMEZ, ISRAEL": 38,
+    "BECERRIL ALONSO, SERGIO": 33
+  },
+  "portero_local": "GONZÁLEZ TRESGALLO, ARMANDO",
+  "portero_visitante": "RODRIGUEZ PEREZ, SAMUEL",
+  "dorsales_local": {
+    "GONZÁLEZ TRESGALLO, ARMANDO": 13,
+    "VARON SANCHEZ, CESAR": 4,
+    "LOPEZ LOPEZ, IKER": 8,
+    "BARBA AGENJO, ADRIAN": 10,
+    "QUINTANA CALDERON, MARCOS": 12,
+    "RUIZ MIGUEZ, DANIEL": 14,
+    "MARTINEZ BUSTAMANTE, HUGO": 16,
+    "YELA GONZALEZ, MAURICIO": 17,
+    "DEL RIO PRIETO, JUAN VICENTE": 19,
+    "GONZALEZ CELIS, MARCO": 20,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 21
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ PEREZ, SAMUEL": 1,
+    "GUTIERREZ CRESPO, MARTIN": 4,
+    "CASTELA HERRERO, PABLO": 5,
+    "REVUELTA SAINZ, DIEGO": 6,
+    "LOPEZ GARCIA DEL POMAR, PELAYO": 8,
+    "García Fernández, AARON": 9,
+    "FERNANDEZ CASTIBLANCO, NICOLAS": 10,
+    "LAZA ORTIZ, PABLO": 11,
+    "SAINZ DE LA HOZ, CESAR": 12,
+    "GARCIA ALONSO, SAMUEL": 17,
+    "GUTIERREZ FERNANDEZ, IKER": 18
+  },
+  "suspendidos": []
+}
