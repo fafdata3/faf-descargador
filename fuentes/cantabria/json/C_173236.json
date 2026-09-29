@@ -1,0 +1,228 @@
+{
+  "acta_id": "C_173236",
+  "filename": "Acta_C_173236.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 12,
+  "fecha": "09-12-2023",
+  "hora": "16:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "ESC.MPAL. SANTANDER A",
+  "equipo_visitante": "C.F. VIMENOR A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GANZO BERZOSA, JUAN"
+  ],
+  "estadio": "Comp. Albericia (A)",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "CAMPELO MARTINEZ, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "DOMINGUEZ RUIZ, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "COROZO TARIRA, SAMUEL LENIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "SIERRA VÁZQUEZ, SALVADOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "CHAVES OBREGON, FERNANDO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "CAPELLAN ROBLEDO, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "COSTALES ALVAREZ, RICARDO",
+  "entrenador_visitante": "CHAVES OBREGON, FERNANDO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "HERRERA DIAZ, SALVADOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HERRERA DIAZ, SALVADOR",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "GUTIERREZ OTERO, DIEGO",
+    "LOPEZ SAN MARTIN, HUGO",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "CAMPELO MARTINEZ, PABLO",
+    "LOPEZ LAMEIRO, MATEO",
+    "DEL OJO HERRERO, LUCA",
+    "CARNICERO SANZ, MIGUEL ANGEL",
+    "GORI GORI, DANIEL"
+  ],
+  "titulares_visitante": [
+    "GÓMEZ MUÑIZ, MARTÍN",
+    "CAYÓN GUTIERREZ, CARLOS",
+    "SIERRA VÁZQUEZ, SALVADOR",
+    "PRIETO BARCENA, ABEL",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "GÓMEZ BÁRCENA, AARON",
+    "MARTIN LOPEZ, IKER",
+    "PÉREZ VELA, MARCOS",
+    "URDA GARCIA, JUAN",
+    "FERNÁNDEZ ÁLVAREZ, DAVID",
+    "NACER, YOUCEF"
+  ],
+  "suplentes_local": [
+    "RUIZ OCHOANTESANA, SIMON",
+    "FERNANDEZ DE DIEGO, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "MERINO RIANCHO, DANIEL",
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO",
+    "MENDEZ COBO, SAUL",
+    "ALISEDA RODRIGUES, HUGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "FERNANDEZ DE DIEGO, ALVARO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MERINO RIANCHO, DANIEL"
+  ],
+  "jugadores_local": [
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "GUTIERREZ OTERO, DIEGO",
+    "LOPEZ SAN MARTIN, HUGO",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "CAMPELO MARTINEZ, PABLO",
+    "LOPEZ LAMEIRO, MATEO",
+    "DEL OJO HERRERO, LUCA",
+    "CARNICERO SANZ, MIGUEL ANGEL",
+    "GORI GORI, DANIEL",
+    "RUIZ OCHOANTESANA, SIMON"
+  ],
+  "jugadores_visitante": [
+    "GÓMEZ MUÑIZ, MARTÍN",
+    "CAYÓN GUTIERREZ, CARLOS",
+    "SIERRA VÁZQUEZ, SALVADOR",
+    "PRIETO BARCENA, ABEL",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "GÓMEZ BÁRCENA, AARON",
+    "MARTIN LOPEZ, IKER",
+    "PÉREZ VELA, MARCOS",
+    "URDA GARCIA, JUAN",
+    "FERNÁNDEZ ÁLVAREZ, DAVID",
+    "NACER, YOUCEF",
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO",
+    "MENDEZ COBO, SAUL",
+    "ALISEDA RODRIGUES, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 39,
+      "entra": "RUIZ OCHOANTESANA, SIMON",
+      "sale": "CAMPELO MARTINEZ, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "DEL BARRIO LAVÍN, JOSÉ ANTONIO",
+      "sale": "SIERRA VÁZQUEZ, SALVADOR"
+    },
+    {
+      "min": 45,
+      "entra": "MENDEZ COBO, SAUL",
+      "sale": "CAYÓN GUTIERREZ, CARLOS"
+    },
+    {
+      "min": 49,
+      "entra": "ALISEDA RODRIGUES, HUGO",
+      "sale": "URDA GARCIA, JUAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "DE LA FUENTE GUILLARON, MARCOS": 90,
+    "GUTIERREZ OTERO, DIEGO": 90,
+    "LOPEZ SAN MARTIN, HUGO": 90,
+    "DOMINGUEZ RUIZ, SAMUEL": 90,
+    "COROZO TARIRA, SAMUEL LENIN": 90,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 90,
+    "CAMPELO MARTINEZ, PABLO": 39,
+    "LOPEZ LAMEIRO, MATEO": 90,
+    "DEL OJO HERRERO, LUCA": 90,
+    "CARNICERO SANZ, MIGUEL ANGEL": 90,
+    "GORI GORI, DANIEL": 90,
+    "RUIZ OCHOANTESANA, SIMON": 51,
+    "GÓMEZ MUÑIZ, MARTÍN": 90,
+    "CAYÓN GUTIERREZ, CARLOS": 45,
+    "SIERRA VÁZQUEZ, SALVADOR": 45,
+    "PRIETO BARCENA, ABEL": 90,
+    "CAPELLAN ROBLEDO, DANIEL": 90,
+    "GÓMEZ BÁRCENA, AARON": 90,
+    "MARTIN LOPEZ, IKER": 90,
+    "PÉREZ VELA, MARCOS": 90,
+    "URDA GARCIA, JUAN": 49,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 90,
+    "NACER, YOUCEF": 90,
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO": 45,
+    "MENDEZ COBO, SAUL": 45,
+    "ALISEDA RODRIGUES, HUGO": 41
+  },
+  "portero_local": "DE LA FUENTE GUILLARON, MARCOS",
+  "portero_visitante": "GÓMEZ MUÑIZ, MARTÍN",
+  "dorsales_local": {
+    "DE LA FUENTE GUILLARON, MARCOS": 13,
+    "GUTIERREZ OTERO, DIEGO": 2,
+    "LOPEZ SAN MARTIN, HUGO": 4,
+    "DOMINGUEZ RUIZ, SAMUEL": 6,
+    "COROZO TARIRA, SAMUEL LENIN": 7,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 8,
+    "CAMPELO MARTINEZ, PABLO": 9,
+    "LOPEZ LAMEIRO, MATEO": 11,
+    "DEL OJO HERRERO, LUCA": 15,
+    "CARNICERO SANZ, MIGUEL ANGEL": 19,
+    "GORI GORI, DANIEL": 20
+  },
+  "dorsales_visitante": {
+    "GÓMEZ MUÑIZ, MARTÍN": 1,
+    "CAYÓN GUTIERREZ, CARLOS": 2,
+    "SIERRA VÁZQUEZ, SALVADOR": 3,
+    "PRIETO BARCENA, ABEL": 4,
+    "CAPELLAN ROBLEDO, DANIEL": 5,
+    "GÓMEZ BÁRCENA, AARON": 6,
+    "MARTIN LOPEZ, IKER": 7,
+    "PÉREZ VELA, MARCOS": 8,
+    "URDA GARCIA, JUAN": 9,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 10,
+    "NACER, YOUCEF": 11
+  },
+  "suspendidos": []
+}
