@@ -1,0 +1,290 @@
+{
+  "acta_id": "C_193103",
+  "filename": "Acta_C_193103.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 9,
+  "fecha": "02-11-2024",
+  "hora": "12:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D.E. ATCO. MINEROS B",
+  "equipo_visitante": "C.D. TROPEZON B",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCÍA YURRIETA, DANIEL"
+  ],
+  "estadio": "Puente San Miguel",
+  "ciudad": "Reocín",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "MARTINEZ RODRIGUEZ, AARON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "CUESTA FEIJOO, CARLOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "GARCIA DIAZ, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "ESCALANTE MARGÜELLES, ABRAHAM",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 25,
+      "jugador": "COSSIO PEÑA, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "CALDERON GOMEZ, BORJA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "GUTIÉRREZ SERNA, JESÚS ANGEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 21,
+      "jugador": "LANDEO LLANCAYA, LUIS FRANCISCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 60,
+      "jugador": "CAMPO FERNANDEZ, SAMUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "MENDARO TERAN, ANTONIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "QUEVEDO VARGAS, EMILIANO",
+  "entrenador_visitante": "GONZALEZ ALVAREZ, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "UBALDO RODRIGUEZ, DAVID",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "UBALDO RODRIGUEZ, DAVID",
+  "delegado_equipo_visitante": "LANDEO LLANCAYA, LUIS FRANCISCO",
+  "titulares_local": [
+    "FERNANDEZ DE COS, JAIME",
+    "ROBLES CORCHADO, ALEX",
+    "ALVAREZ PEREZ, MARIO",
+    "CALDERON GOMEZ, BORJA",
+    "GUTIERREZ CUETO, IKER",
+    "ESCALANTE MARGÜELLES, ABRAHAM",
+    "GUTIERREZ SAN MIGUEL, MANUEL",
+    "RUIZ DA SILVA, GUSTAVO",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "COSSIO PEÑA, DIEGO",
+    "ARROYO SAIZ, RUBEN"
+  ],
+  "titulares_visitante": [
+    "CRUZ ABASCAL, JAVIER",
+    "ORIA SAINZ, MARCOS",
+    "ALONSO EDILLA, MIGUEL",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "CUESTA FEIJOO, CARLOS",
+    "GONZALEZ BLUM, MANUEL",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "GARCIA DIAZ, JAVIER"
+  ],
+  "suplentes_local": [
+    "GUTIÉRREZ SERNA, JESÚS ANGEL",
+    "GUTIERREZ TERAN, PABLO",
+    "MARTINEZ LOPEZ, IZAN",
+    "GARCÍA RÁBAGO, SAMUEL"
+  ],
+  "suplentes_visitante": [
+    "pachon garcia, DIEGO",
+    "MENDARO TERAN, ANTONIO",
+    "CAMPO FERNANDEZ, SAMUEL",
+    "REBANAL RIVERO, ALBERTO",
+    "GUTIERREZ TORRE, MATEO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ DE COS, JAIME",
+    "ROBLES CORCHADO, ALEX",
+    "ALVAREZ PEREZ, MARIO",
+    "CALDERON GOMEZ, BORJA",
+    "GUTIERREZ CUETO, IKER",
+    "ESCALANTE MARGÜELLES, ABRAHAM",
+    "GUTIERREZ SAN MIGUEL, MANUEL",
+    "RUIZ DA SILVA, GUSTAVO",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "COSSIO PEÑA, DIEGO",
+    "ARROYO SAIZ, RUBEN",
+    "GUTIÉRREZ SERNA, JESÚS ANGEL",
+    "MARTINEZ LOPEZ, IZAN",
+    "GUTIERREZ TERAN, PABLO",
+    "GARCÍA RÁBAGO, SAMUEL"
+  ],
+  "jugadores_visitante": [
+    "CRUZ ABASCAL, JAVIER",
+    "ORIA SAINZ, MARCOS",
+    "ALONSO EDILLA, MIGUEL",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "CUESTA FEIJOO, CARLOS",
+    "GONZALEZ BLUM, MANUEL",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "GARCIA DIAZ, JAVIER",
+    "MENDARO TERAN, ANTONIO",
+    "CAMPO FERNANDEZ, SAMUEL",
+    "REBANAL RIVERO, ALBERTO",
+    "GUTIERREZ TORRE, MATEO",
+    "pachon garcia, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "GUTIÉRREZ SERNA, JESÚS ANGEL",
+      "sale": "NDIAYE RUIZ, MALICK JAVIER"
+    },
+    {
+      "min": 50,
+      "entra": "MARTINEZ LOPEZ, IZAN",
+      "sale": "RUIZ DA SILVA, GUSTAVO"
+    },
+    {
+      "min": 62,
+      "entra": "GUTIERREZ TERAN, PABLO",
+      "sale": "ARROYO SAIZ, RUBEN"
+    },
+    {
+      "min": 70,
+      "entra": "GARCÍA RÁBAGO, SAMUEL",
+      "sale": "GUTIERREZ SAN MIGUEL, MANUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "MENDARO TERAN, ANTONIO",
+      "sale": "ARROYO GONZALEZ, HUGO"
+    },
+    {
+      "min": 58,
+      "entra": "CAMPO FERNANDEZ, SAMUEL",
+      "sale": "GONZALEZ BLUM, MANUEL"
+    },
+    {
+      "min": 70,
+      "entra": "REBANAL RIVERO, ALBERTO",
+      "sale": "MARTINEZ RODRIGUEZ, AARON"
+    },
+    {
+      "min": 70,
+      "entra": "GUTIERREZ TORRE, MATEO",
+      "sale": "ORIA SAINZ, MARCOS"
+    },
+    {
+      "min": 76,
+      "entra": "pachon garcia, DIEGO",
+      "sale": "QUINTANAL ZARRABETIA, ASIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ DE COS, JAIME": 90,
+    "ROBLES CORCHADO, ALEX": 90,
+    "ALVAREZ PEREZ, MARIO": 90,
+    "CALDERON GOMEZ, BORJA": 90,
+    "GUTIERREZ CUETO, IKER": 90,
+    "ESCALANTE MARGÜELLES, ABRAHAM": 90,
+    "GUTIERREZ SAN MIGUEL, MANUEL": 70,
+    "RUIZ DA SILVA, GUSTAVO": 50,
+    "NDIAYE RUIZ, MALICK JAVIER": 50,
+    "COSSIO PEÑA, DIEGO": 90,
+    "ARROYO SAIZ, RUBEN": 62,
+    "GUTIÉRREZ SERNA, JESÚS ANGEL": 40,
+    "MARTINEZ LOPEZ, IZAN": 40,
+    "GUTIERREZ TERAN, PABLO": 28,
+    "GARCÍA RÁBAGO, SAMUEL": 20,
+    "CRUZ ABASCAL, JAVIER": 90,
+    "ORIA SAINZ, MARCOS": 70,
+    "ALONSO EDILLA, MIGUEL": 90,
+    "SEIJAS SANZ-BAZA, AITOR": 90,
+    "CUESTA FEIJOO, CARLOS": 90,
+    "GONZALEZ BLUM, MANUEL": 58,
+    "ARROYO GONZALEZ, HUGO": 50,
+    "MARTINEZ FERNANDEZ, ASIER": 90,
+    "MARTINEZ RODRIGUEZ, AARON": 70,
+    "QUINTANAL ZARRABETIA, ASIER": 76,
+    "GARCIA DIAZ, JAVIER": 90,
+    "MENDARO TERAN, ANTONIO": 40,
+    "CAMPO FERNANDEZ, SAMUEL": 32,
+    "REBANAL RIVERO, ALBERTO": 20,
+    "GUTIERREZ TORRE, MATEO": 20,
+    "pachon garcia, DIEGO": 14
+  },
+  "portero_local": "FERNANDEZ DE COS, JAIME",
+  "portero_visitante": "CRUZ ABASCAL, JAVIER",
+  "dorsales_local": {
+    "FERNANDEZ DE COS, JAIME": 13,
+    "ROBLES CORCHADO, ALEX": 3,
+    "ALVAREZ PEREZ, MARIO": 5,
+    "CALDERON GOMEZ, BORJA": 6,
+    "GUTIERREZ CUETO, IKER": 9,
+    "ESCALANTE MARGÜELLES, ABRAHAM": 10,
+    "GUTIERREZ SAN MIGUEL, MANUEL": 14,
+    "RUIZ DA SILVA, GUSTAVO": 15,
+    "NDIAYE RUIZ, MALICK JAVIER": 17,
+    "COSSIO PEÑA, DIEGO": 21,
+    "ARROYO SAIZ, RUBEN": 99
+  },
+  "dorsales_visitante": {
+    "CRUZ ABASCAL, JAVIER": 1,
+    "ORIA SAINZ, MARCOS": 2,
+    "ALONSO EDILLA, MIGUEL": 3,
+    "SEIJAS SANZ-BAZA, AITOR": 5,
+    "CUESTA FEIJOO, CARLOS": 6,
+    "GONZALEZ BLUM, MANUEL": 7,
+    "ARROYO GONZALEZ, HUGO": 8,
+    "MARTINEZ FERNANDEZ, ASIER": 9,
+    "MARTINEZ RODRIGUEZ, AARON": 10,
+    "QUINTANAL ZARRABETIA, ASIER": 11,
+    "GARCIA DIAZ, JAVIER": 19
+  },
+  "suspendidos": []
+}
