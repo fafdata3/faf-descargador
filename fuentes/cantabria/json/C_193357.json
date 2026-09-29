@@ -1,0 +1,270 @@
+{
+  "acta_id": "C_193357",
+  "filename": "Acta_C_193357.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 3,
+  "fecha": "05-10-2024",
+  "hora": "11:45",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. COLINDRES A",
+  "equipo_visitante": "C.D. NAVAL A",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CASTRO RUIZ, SERGIO"
+  ],
+  "estadio": "Colindres",
+  "ciudad": "Colindres",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "MARTINEZ GARCIA, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "SAINZ DE LA MAZA AJA, EDUARDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "TERAN MENESES, SANTIAGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "TERAN MENESES, SANTIAGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "SAN EMETERIO FERNANDEZ, ENZO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "GONZALEZ DEL BARRIO, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "MANTILLA MARTIN, MAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "GARCIA GOMEZ, JESUS ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "OSORIO LOPEZ, MIGUEL ANGEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CAMPO ANTUÑANO, LUIS",
+  "delegado_equipo_visitante": "BERNARDO CUERVO, ALEJANDRO",
+  "titulares_local": [
+    "RUIZ CAÑARTE, RAUL",
+    "SAN MIGUEL SARACHAGA, MARCO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "MARTINEZ GARCIA, DIEGO",
+    "PABLOS SUAREZ, IBAI",
+    "FERNANDEZ PEREZ, MAURO",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "BRIGIDO HERRERO, MARIO",
+    "BLANCO CUETO, IKER",
+    "TERAN MENESES, SANTIAGO"
+  ],
+  "titulares_visitante": [
+    "BERNARDO AGUILERA, DIEGO",
+    "JORRIN GARCIA, IKER",
+    "VELEZ VALDES, ABRAHAM",
+    "FERNANDEZ OSMA, ANGEL",
+    "FERNANDEZ TRAVIESA, MATEO",
+    "GARRIDO GARCIA, MATEO JULIAN",
+    "RUIZ MARTINEZ, LUCAS",
+    "GONZALEZ ALVAREZ, ALONSO",
+    "SERNA RODRIGUEZ, HECTOR",
+    "MANTILLA MARTIN, MAEL",
+    "CIEZA PEREZ, ASIER"
+  ],
+  "suplentes_local": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "ANDIA FLEXER, ALBANO",
+    "CRIADO DIEZ, ENEKO",
+    "GARCIA GOMEZ, LUCAS",
+    "CHATBI, AMINE"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ DEL BARRIO, DANIEL",
+    "PEREZ GARCIA, MANUEL",
+    "PEÑASCO RUIZ, HUGO",
+    "GONZALEZ MENDES, MARTIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RUIZ CAÑARTE, RAUL",
+    "SAN MIGUEL SARACHAGA, MARCO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "MARTINEZ GARCIA, DIEGO",
+    "PABLOS SUAREZ, IBAI",
+    "FERNANDEZ PEREZ, MAURO",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "BRIGIDO HERRERO, MARIO",
+    "BLANCO CUETO, IKER",
+    "TERAN MENESES, SANTIAGO",
+    "CHATBI, AMINE",
+    "GARCIA GOMEZ, LUCAS",
+    "ORDAS ARREDONDO, ISKANDER",
+    "ANDIA FLEXER, ALBANO",
+    "CRIADO DIEZ, ENEKO"
+  ],
+  "jugadores_visitante": [
+    "BERNARDO AGUILERA, DIEGO",
+    "JORRIN GARCIA, IKER",
+    "VELEZ VALDES, ABRAHAM",
+    "FERNANDEZ OSMA, ANGEL",
+    "FERNANDEZ TRAVIESA, MATEO",
+    "GARRIDO GARCIA, MATEO JULIAN",
+    "RUIZ MARTINEZ, LUCAS",
+    "GONZALEZ ALVAREZ, ALONSO",
+    "SERNA RODRIGUEZ, HECTOR",
+    "MANTILLA MARTIN, MAEL",
+    "CIEZA PEREZ, ASIER",
+    "GONZALEZ DEL BARRIO, DANIEL",
+    "GONZALEZ MENDES, MARTIN",
+    "PEREZ GARCIA, MANUEL",
+    "PEÑASCO RUIZ, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 34,
+      "entra": "CHATBI, AMINE",
+      "sale": "FERNANDEZ PEREZ, MAURO"
+    },
+    {
+      "min": 48,
+      "entra": "GARCIA GOMEZ, LUCAS",
+      "sale": "SAN EMETERIO FERNANDEZ, ENZO"
+    },
+    {
+      "min": 55,
+      "entra": "ORDAS ARREDONDO, ISKANDER",
+      "sale": "RUIZ CAÑARTE, RAUL"
+    },
+    {
+      "min": 56,
+      "entra": "ANDIA FLEXER, ALBANO",
+      "sale": "SAN MIGUEL SARACHAGA, MARCO"
+    },
+    {
+      "min": 58,
+      "entra": "CRIADO DIEZ, ENEKO",
+      "sale": "SAINZ DE LA MAZA AJA, EDUARDO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 38,
+      "entra": "GONZALEZ DEL BARRIO, DANIEL",
+      "sale": "GONZALEZ ALVAREZ, ALONSO"
+    },
+    {
+      "min": 44,
+      "entra": "GONZALEZ MENDES, MARTIN",
+      "sale": "GARRIDO GARCIA, MATEO JULIAN"
+    },
+    {
+      "min": 48,
+      "entra": "PEREZ GARCIA, MANUEL",
+      "sale": "VELEZ VALDES, ABRAHAM"
+    },
+    {
+      "min": 48,
+      "entra": "PEÑASCO RUIZ, HUGO",
+      "sale": "FERNANDEZ TRAVIESA, MATEO"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ CAÑARTE, RAUL": 55,
+    "SAN MIGUEL SARACHAGA, MARCO": 56,
+    "CAMPOS SAN EMETERIO, DIEGO": 90,
+    "MARTINEZ GARCIA, DIEGO": 90,
+    "PABLOS SUAREZ, IBAI": 90,
+    "FERNANDEZ PEREZ, MAURO": 34,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 58,
+    "SAN EMETERIO FERNANDEZ, ENZO": 48,
+    "BRIGIDO HERRERO, MARIO": 90,
+    "BLANCO CUETO, IKER": 90,
+    "TERAN MENESES, SANTIAGO": 90,
+    "CHATBI, AMINE": 56,
+    "GARCIA GOMEZ, LUCAS": 42,
+    "ORDAS ARREDONDO, ISKANDER": 35,
+    "ANDIA FLEXER, ALBANO": 34,
+    "CRIADO DIEZ, ENEKO": 32,
+    "BERNARDO AGUILERA, DIEGO": 90,
+    "JORRIN GARCIA, IKER": 90,
+    "VELEZ VALDES, ABRAHAM": 48,
+    "FERNANDEZ OSMA, ANGEL": 90,
+    "FERNANDEZ TRAVIESA, MATEO": 48,
+    "GARRIDO GARCIA, MATEO JULIAN": 44,
+    "RUIZ MARTINEZ, LUCAS": 90,
+    "GONZALEZ ALVAREZ, ALONSO": 38,
+    "SERNA RODRIGUEZ, HECTOR": 90,
+    "MANTILLA MARTIN, MAEL": 90,
+    "CIEZA PEREZ, ASIER": 90,
+    "GONZALEZ DEL BARRIO, DANIEL": 52,
+    "GONZALEZ MENDES, MARTIN": 46,
+    "PEREZ GARCIA, MANUEL": 42,
+    "PEÑASCO RUIZ, HUGO": 42
+  },
+  "portero_local": "RUIZ CAÑARTE, RAUL",
+  "portero_visitante": "BERNARDO AGUILERA, DIEGO",
+  "dorsales_local": {
+    "RUIZ CAÑARTE, RAUL": 1,
+    "SAN MIGUEL SARACHAGA, MARCO": 3,
+    "CAMPOS SAN EMETERIO, DIEGO": 5,
+    "MARTINEZ GARCIA, DIEGO": 7,
+    "PABLOS SUAREZ, IBAI": 8,
+    "FERNANDEZ PEREZ, MAURO": 9,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 10,
+    "SAN EMETERIO FERNANDEZ, ENZO": 11,
+    "BRIGIDO HERRERO, MARIO": 17,
+    "BLANCO CUETO, IKER": 20,
+    "TERAN MENESES, SANTIAGO": 21
+  },
+  "dorsales_visitante": {
+    "BERNARDO AGUILERA, DIEGO": 13,
+    "JORRIN GARCIA, IKER": 2,
+    "VELEZ VALDES, ABRAHAM": 3,
+    "FERNANDEZ OSMA, ANGEL": 4,
+    "FERNANDEZ TRAVIESA, MATEO": 5,
+    "GARRIDO GARCIA, MATEO JULIAN": 6,
+    "RUIZ MARTINEZ, LUCAS": 7,
+    "GONZALEZ ALVAREZ, ALONSO": 8,
+    "SERNA RODRIGUEZ, HECTOR": 9,
+    "MANTILLA MARTIN, MAEL": 10,
+    "CIEZA PEREZ, ASIER": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
