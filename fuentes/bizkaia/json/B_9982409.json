@@ -1,0 +1,245 @@
+{
+  "acta_id": "B_9982409",
+  "filename": "Acta_B_9982409.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 10,
+  "fecha": "06-12-2025",
+  "hora": "10:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "LOYOLA INDAUCHU A",
+  "equipo_visitante": "ERMUA BLUES A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ECHEANDIA ANTOLIN, ENEKO"
+  ],
+  "estadio": "AITXARTE",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "ALBERDI ETXABE, ANER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "ALBERDI ETXABE, ANER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "SELLAH KARALI, AYOUB",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MANCISIDOR DE LA FUENTE, OIER",
+  "entrenador_visitante": "BARQUERO SIERRA, JOSE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "COLINO HIDALGO, LUIS SANTIAGO",
+  "delegado_campo_local": "BUSTAMANTE SALGADO, JON KARLOS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BUSTAMANTE SALGADO, JON KARLOS",
+  "delegado_equipo_visitante": "CID GONZALEZ, ABEL",
+  "titulares_local": [
+    "VERÁSTEGUI MARTITEGI, JON",
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL",
+    "KIESE NDONZUAO, SCHADRAC",
+    "GORDOA ARCE, LANDER",
+    "LOPEZ BARRIO, ANDER",
+    "COLL GONZALEZ, ANDONI",
+    "VILLANUEVA SALTERAIN, AGER",
+    "MIJANGOS LARRABE, UNAI",
+    "LOMA FLAQUER, AIMAR",
+    "MARTIN ANTXIA, JON",
+    "TORRE MORENO, JORGE"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ CORTIJO, ANER",
+    "CID DELGADO, HODEI",
+    "SOLOZABAL ARAUJO, MARKEL",
+    "DE DIOS AGIRREGOMEZKORTA, KIMETZ",
+    "AKSSASS NACIRI, NAOFAL",
+    "SELLAH KARALI, AYOUB",
+    "VILLAR GOMEZ, OINATZ",
+    "KHOUKH EL AZZAB, HARON",
+    "AGHBALOU BENSLAIMAN, OMAR",
+    "TREVIÑO VEGA, MIKEL",
+    "ALBERDI ETXABE, ANER"
+  ],
+  "suplentes_local": [
+    "CIORDIA SUBINAS, UNAI",
+    "PAREJO OROQUIETA, IÑAKI",
+    "PERDON RIO, DANEL",
+    "GALÁN PÉREZ DE NANCLARES, PAUL",
+    "GOMEZ GONZALEZ, JON"
+  ],
+  "suplentes_visitante": [
+    "MANERO ZAFRA, DANEL",
+    "CARNERO VIEIRA, ALAIN",
+    "BEN DRISS OURDI, ANAS",
+    "TELLERIA ALVAREZ, BEÑAT",
+    "DIALLO, IBRAHIMA OUMAR"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "BEN DRISS OURDI, ANAS"
+  ],
+  "jugadores_local": [
+    "VERÁSTEGUI MARTITEGI, JON",
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL",
+    "KIESE NDONZUAO, SCHADRAC",
+    "GORDOA ARCE, LANDER",
+    "LOPEZ BARRIO, ANDER",
+    "COLL GONZALEZ, ANDONI",
+    "VILLANUEVA SALTERAIN, AGER",
+    "MIJANGOS LARRABE, UNAI",
+    "LOMA FLAQUER, AIMAR",
+    "MARTIN ANTXIA, JON",
+    "TORRE MORENO, JORGE",
+    "PAREJO OROQUIETA, IÑAKI",
+    "CIORDIA SUBINAS, UNAI",
+    "GALÁN PÉREZ DE NANCLARES, PAUL",
+    "GOMEZ GONZALEZ, JON",
+    "PERDON RIO, DANEL"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ CORTIJO, ANER",
+    "CID DELGADO, HODEI",
+    "SOLOZABAL ARAUJO, MARKEL",
+    "DE DIOS AGIRREGOMEZKORTA, KIMETZ",
+    "AKSSASS NACIRI, NAOFAL",
+    "SELLAH KARALI, AYOUB",
+    "VILLAR GOMEZ, OINATZ",
+    "KHOUKH EL AZZAB, HARON",
+    "AGHBALOU BENSLAIMAN, OMAR",
+    "TREVIÑO VEGA, MIKEL",
+    "ALBERDI ETXABE, ANER",
+    "CARNERO VIEIRA, ALAIN",
+    "DIALLO, IBRAHIMA OUMAR",
+    "MANERO ZAFRA, DANEL",
+    "TELLERIA ALVAREZ, BEÑAT"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "PAREJO OROQUIETA, IÑAKI",
+      "sale": "TORRE MORENO, JORGE"
+    },
+    {
+      "min": 45,
+      "entra": "CIORDIA SUBINAS, UNAI",
+      "sale": "LOMA FLAQUER, AIMAR"
+    },
+    {
+      "min": 53,
+      "entra": "GALÁN PÉREZ DE NANCLARES, PAUL",
+      "sale": "LOPEZ BARRIO, ANDER"
+    },
+    {
+      "min": 61,
+      "entra": "GOMEZ GONZALEZ, JON",
+      "sale": "MIJANGOS LARRABE, UNAI"
+    },
+    {
+      "min": 71,
+      "entra": "PERDON RIO, DANEL",
+      "sale": "VILLANUEVA SALTERAIN, AGER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "CARNERO VIEIRA, ALAIN",
+      "sale": "VILLAR GOMEZ, OINATZ"
+    },
+    {
+      "min": 60,
+      "entra": "DIALLO, IBRAHIMA OUMAR",
+      "sale": "AKSSASS NACIRI, NAOFAL"
+    },
+    {
+      "min": 72,
+      "entra": "MANERO ZAFRA, DANEL",
+      "sale": "SELLAH KARALI, AYOUB"
+    },
+    {
+      "min": 72,
+      "entra": "TELLERIA ALVAREZ, BEÑAT",
+      "sale": "AGHBALOU BENSLAIMAN, OMAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "VERÁSTEGUI MARTITEGI, JON": 90,
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL": 90,
+    "KIESE NDONZUAO, SCHADRAC": 90,
+    "GORDOA ARCE, LANDER": 90,
+    "LOPEZ BARRIO, ANDER": 53,
+    "COLL GONZALEZ, ANDONI": 90,
+    "VILLANUEVA SALTERAIN, AGER": 71,
+    "MIJANGOS LARRABE, UNAI": 61,
+    "LOMA FLAQUER, AIMAR": 45,
+    "MARTIN ANTXIA, JON": 90,
+    "TORRE MORENO, JORGE": 45,
+    "PAREJO OROQUIETA, IÑAKI": 45,
+    "CIORDIA SUBINAS, UNAI": 45,
+    "GALÁN PÉREZ DE NANCLARES, PAUL": 37,
+    "GOMEZ GONZALEZ, JON": 29,
+    "PERDON RIO, DANEL": 19,
+    "FERNANDEZ CORTIJO, ANER": 90,
+    "CID DELGADO, HODEI": 90,
+    "SOLOZABAL ARAUJO, MARKEL": 90,
+    "DE DIOS AGIRREGOMEZKORTA, KIMETZ": 90,
+    "AKSSASS NACIRI, NAOFAL": 60,
+    "SELLAH KARALI, AYOUB": 72,
+    "VILLAR GOMEZ, OINATZ": 60,
+    "KHOUKH EL AZZAB, HARON": 90,
+    "AGHBALOU BENSLAIMAN, OMAR": 72,
+    "TREVIÑO VEGA, MIKEL": 90,
+    "ALBERDI ETXABE, ANER": 90,
+    "CARNERO VIEIRA, ALAIN": 30,
+    "DIALLO, IBRAHIMA OUMAR": 30,
+    "MANERO ZAFRA, DANEL": 18,
+    "TELLERIA ALVAREZ, BEÑAT": 18
+  },
+  "portero_local": "VERÁSTEGUI MARTITEGI, JON",
+  "portero_visitante": "FERNANDEZ CORTIJO, ANER",
+  "dorsales_local": {
+    "VERÁSTEGUI MARTITEGI, JON": 1,
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL": 4,
+    "KIESE NDONZUAO, SCHADRAC": 5,
+    "GORDOA ARCE, LANDER": 6,
+    "LOPEZ BARRIO, ANDER": 7,
+    "COLL GONZALEZ, ANDONI": 8,
+    "VILLANUEVA SALTERAIN, AGER": 14,
+    "MIJANGOS LARRABE, UNAI": 15,
+    "LOMA FLAQUER, AIMAR": 19,
+    "MARTIN ANTXIA, JON": 21,
+    "TORRE MORENO, JORGE": 23
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ CORTIJO, ANER": 1,
+    "CID DELGADO, HODEI": 3,
+    "SOLOZABAL ARAUJO, MARKEL": 4,
+    "DE DIOS AGIRREGOMEZKORTA, KIMETZ": 5,
+    "AKSSASS NACIRI, NAOFAL": 7,
+    "SELLAH KARALI, AYOUB": 11,
+    "VILLAR GOMEZ, OINATZ": 12,
+    "KHOUKH EL AZZAB, HARON": 17,
+    "AGHBALOU BENSLAIMAN, OMAR": 18,
+    "TREVIÑO VEGA, MIKEL": 22,
+    "ALBERDI ETXABE, ANER": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
