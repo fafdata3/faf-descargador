@@ -1,0 +1,253 @@
+{
+  "acta_id": "B_2008093",
+  "filename": "Acta_B_2008093.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 2,
+  "fecha": "12-10-2024",
+  "hora": "10:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "GURUTZETA A",
+  "equipo_visitante": "SPORTING DE LUTXANA A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "BRITO MARTINEZ, JULIO CESAR"
+  ],
+  "estadio": "LA SIEBE",
+  "ciudad": "CRUCES-BARAKALDO",
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "SOTORRIO RODRIGUEZ, IRAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "GONZALEZ TOLEDO, HERMES NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 18,
+      "jugador": "GONZALEZ VALTIERRA, ALAIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 22,
+      "jugador": "SANCHEZ QUINTAS, AITOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BILBAO DEL POZO, ARITZ",
+  "entrenador_visitante": "GARRIDO COSTA, GAIZKA",
+  "segundo_entrenador_local": "CARBAJO VAQUERO, GAIZKA",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ZELAIA GOROSTIAGA, ANTON",
+  "delegado_equipo_visitante": "ZUAZO IGLESIAS, IÑIGO",
+  "titulares_local": [
+    "PEREZ MUÑOZ, XABIER",
+    "LANCIANO GROBAS, ANDONI",
+    "DAMOTA OURO, HECTOR",
+    "NKILI PEREZ, BEÑAT",
+    "GARCIA ALVAREZ, SAMUEL",
+    "IZQUIERDO PEREZ, LUKEN",
+    "NOGALES GAVILAN, MARKEL",
+    "PRIETO CIEZA, IVAN",
+    "GONZALEZ VALTIERRA, ALAIN",
+    "SOTORRIO RODRIGUEZ, IRAI",
+    "CARMONA HERNANDEZ, JUAN ESTEBAN"
+  ],
+  "titulares_visitante": [
+    "VARONA LIZARAZU, ALAIN",
+    "GOMEZ LOPEZ, ANDER",
+    "SANCHEZ FIKA, JOSU",
+    "ORTIZ LAGO, UNAI",
+    "SANCHEZ QUINTAS, AITOR",
+    "GONZALEZ TOLEDO, HERMES NICOLAS",
+    "MONTES SANGRONIZ, ASIER",
+    "JAZOULI EL GHAZI, HOUSSAM",
+    "LOPEZ LAGO, ANDER",
+    "VELASQUEZ GODOY, STEFANO RAFAEL",
+    "OLIVA BERNAL, UNAX"
+  ],
+  "suplentes_local": [
+    "GARCÍA ALCAIDE, EDER",
+    "BARCENA CALVO, XABIER",
+    "MERINO BARROETA, ANDER",
+    "RUIZ MARCANO, GABRIEL JOSE",
+    "GARCIA SANCHEZ, OIER",
+    "PATZI CHOQUE, GERARD JOSEP"
+  ],
+  "suplentes_visitante": [
+    "ARROYO SORLI, ETHANIEL",
+    "CONDE PRIETO, EGOITZ",
+    "LIRA GONZALEZ, AIMAR",
+    "ASTIASO SANCHEZ, MIKEL",
+    "SORIANO CARPINTERO, IORITZ",
+    "LOPEZ CARRASCO, DANEL",
+    "ROMERO ANGULO, ALEXIS SANTIAGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCÍA ALCAIDE, EDER",
+    "GARCIA SANCHEZ, OIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ARROYO SORLI, ETHANIEL",
+    "ASTIASO SANCHEZ, MIKEL",
+    "LOPEZ CARRASCO, DANEL"
+  ],
+  "jugadores_local": [
+    "PEREZ MUÑOZ, XABIER",
+    "LANCIANO GROBAS, ANDONI",
+    "DAMOTA OURO, HECTOR",
+    "NKILI PEREZ, BEÑAT",
+    "GARCIA ALVAREZ, SAMUEL",
+    "IZQUIERDO PEREZ, LUKEN",
+    "NOGALES GAVILAN, MARKEL",
+    "PRIETO CIEZA, IVAN",
+    "GONZALEZ VALTIERRA, ALAIN",
+    "SOTORRIO RODRIGUEZ, IRAI",
+    "CARMONA HERNANDEZ, JUAN ESTEBAN",
+    "RUIZ MARCANO, GABRIEL JOSE",
+    "PATZI CHOQUE, GERARD JOSEP",
+    "MERINO BARROETA, ANDER",
+    "BARCENA CALVO, XABIER"
+  ],
+  "jugadores_visitante": [
+    "VARONA LIZARAZU, ALAIN",
+    "GOMEZ LOPEZ, ANDER",
+    "SANCHEZ FIKA, JOSU",
+    "ORTIZ LAGO, UNAI",
+    "SANCHEZ QUINTAS, AITOR",
+    "GONZALEZ TOLEDO, HERMES NICOLAS",
+    "MONTES SANGRONIZ, ASIER",
+    "JAZOULI EL GHAZI, HOUSSAM",
+    "LOPEZ LAGO, ANDER",
+    "VELASQUEZ GODOY, STEFANO RAFAEL",
+    "OLIVA BERNAL, UNAX",
+    "LIRA GONZALEZ, AIMAR",
+    "CONDE PRIETO, EGOITZ",
+    "ROMERO ANGULO, ALEXIS SANTIAGO",
+    "SORIANO CARPINTERO, IORITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "RUIZ MARCANO, GABRIEL JOSE",
+      "sale": "NOGALES GAVILAN, MARKEL"
+    },
+    {
+      "min": 55,
+      "entra": "PATZI CHOQUE, GERARD JOSEP",
+      "sale": "NKILI PEREZ, BEÑAT"
+    },
+    {
+      "min": 65,
+      "entra": "MERINO BARROETA, ANDER",
+      "sale": "IZQUIERDO PEREZ, LUKEN"
+    },
+    {
+      "min": 73,
+      "entra": "BARCENA CALVO, XABIER",
+      "sale": "GARCIA ALVAREZ, SAMUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 22,
+      "entra": "LIRA GONZALEZ, AIMAR",
+      "sale": "MONTES SANGRONIZ, ASIER"
+    },
+    {
+      "min": 49,
+      "entra": "CONDE PRIETO, EGOITZ",
+      "sale": "GOMEZ LOPEZ, ANDER"
+    },
+    {
+      "min": 60,
+      "entra": "ROMERO ANGULO, ALEXIS SANTIAGO",
+      "sale": "LOPEZ LAGO, ANDER"
+    },
+    {
+      "min": 60,
+      "entra": "SORIANO CARPINTERO, IORITZ",
+      "sale": "SANCHEZ QUINTAS, AITOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ MUÑOZ, XABIER": 90,
+    "LANCIANO GROBAS, ANDONI": 90,
+    "DAMOTA OURO, HECTOR": 90,
+    "NKILI PEREZ, BEÑAT": 55,
+    "GARCIA ALVAREZ, SAMUEL": 73,
+    "IZQUIERDO PEREZ, LUKEN": 65,
+    "NOGALES GAVILAN, MARKEL": 55,
+    "PRIETO CIEZA, IVAN": 90,
+    "GONZALEZ VALTIERRA, ALAIN": 90,
+    "SOTORRIO RODRIGUEZ, IRAI": 90,
+    "CARMONA HERNANDEZ, JUAN ESTEBAN": 90,
+    "RUIZ MARCANO, GABRIEL JOSE": 35,
+    "PATZI CHOQUE, GERARD JOSEP": 35,
+    "MERINO BARROETA, ANDER": 25,
+    "BARCENA CALVO, XABIER": 17,
+    "VARONA LIZARAZU, ALAIN": 90,
+    "GOMEZ LOPEZ, ANDER": 49,
+    "SANCHEZ FIKA, JOSU": 90,
+    "ORTIZ LAGO, UNAI": 90,
+    "SANCHEZ QUINTAS, AITOR": 60,
+    "GONZALEZ TOLEDO, HERMES NICOLAS": 90,
+    "MONTES SANGRONIZ, ASIER": 22,
+    "JAZOULI EL GHAZI, HOUSSAM": 90,
+    "LOPEZ LAGO, ANDER": 60,
+    "VELASQUEZ GODOY, STEFANO RAFAEL": 90,
+    "OLIVA BERNAL, UNAX": 90,
+    "LIRA GONZALEZ, AIMAR": 68,
+    "CONDE PRIETO, EGOITZ": 41,
+    "ROMERO ANGULO, ALEXIS SANTIAGO": 30,
+    "SORIANO CARPINTERO, IORITZ": 30
+  },
+  "portero_local": "PEREZ MUÑOZ, XABIER",
+  "portero_visitante": "VARONA LIZARAZU, ALAIN",
+  "dorsales_local": {
+    "PEREZ MUÑOZ, XABIER": 1,
+    "LANCIANO GROBAS, ANDONI": 4,
+    "DAMOTA OURO, HECTOR": 5,
+    "NKILI PEREZ, BEÑAT": 7,
+    "GARCIA ALVAREZ, SAMUEL": 8,
+    "IZQUIERDO PEREZ, LUKEN": 11,
+    "NOGALES GAVILAN, MARKEL": 12,
+    "PRIETO CIEZA, IVAN": 16,
+    "GONZALEZ VALTIERRA, ALAIN": 18,
+    "SOTORRIO RODRIGUEZ, IRAI": 20,
+    "CARMONA HERNANDEZ, JUAN ESTEBAN": 23
+  },
+  "dorsales_visitante": {
+    "VARONA LIZARAZU, ALAIN": 13,
+    "GOMEZ LOPEZ, ANDER": 4,
+    "SANCHEZ FIKA, JOSU": 5,
+    "ORTIZ LAGO, UNAI": 7,
+    "SANCHEZ QUINTAS, AITOR": 8,
+    "GONZALEZ TOLEDO, HERMES NICOLAS": 11,
+    "MONTES SANGRONIZ, ASIER": 12,
+    "JAZOULI EL GHAZI, HOUSSAM": 14,
+    "LOPEZ LAGO, ANDER": 17,
+    "VELASQUEZ GODOY, STEFANO RAFAEL": 19,
+    "OLIVA BERNAL, UNAX": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
