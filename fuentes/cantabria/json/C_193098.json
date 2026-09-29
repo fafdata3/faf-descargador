@@ -1,0 +1,274 @@
+{
+  "acta_id": "C_193098",
+  "filename": "Acta_C_193098.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "26-10-2024",
+  "hora": "12:45",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. RAMALES",
+  "equipo_visitante": "C.D. AMISTAD SNIACE B",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SALAZAR CASTAÑO, SERGIO"
+  ],
+  "estadio": "Cubillas - Ramales",
+  "ciudad": "Ramales De La Victoria",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "ESCALANTE BUENO, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "DE LAS HERAS VARONA, ASIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "SAIZ GARCÍA, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "ESCALANTE BUENO, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 64,
+      "jugador": "LOPEZ GONZALEZ, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 11,
+      "jugador": "ZHEKOV, ATANASIO ATANASOV",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "SAIZ GARCÍA, IVAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "DIAZ NAVEA, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "RUIZ GARCIA, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "RUIZ DIAZ, FRANCISCO JAVIER",
+  "delegado_campo_local": "LAVIADA ARAUJO, IVAN ROBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LAVIADA ARAUJO, IVAN ROBERTO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "LLAMA GOMEZ, MARIO",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "LOPEZ SAEZ, ANDER",
+    "MAZA NOVOA, MARIO",
+    "SIERRA GONZALEZ, KEVIN",
+    "IBAÑEZ AHEDO, EGOITZ"
+  ],
+  "titulares_visitante": [
+    "PEREZ CAYON, ALIO",
+    "SOLANA PEREZ, LEO",
+    "DURÁN GÓMEZ, MARCOS",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "ESCALANTE BUENO, OIER",
+    "SANCHEZ SALAS, SERGIO",
+    "MALLAVIA PEREZ, ASIER",
+    "DIAZ NAVEA, MARIO",
+    "DAHHAOUI RACHID, YAKOUB",
+    "ROCES RONDO, CRUZ",
+    "SAIZ BOLADO, LUCAS"
+  ],
+  "suplentes_local": [
+    "ABASCAL RUIZ, JOAQUIN",
+    "DEL MORAL ALONSO, RODRIGO",
+    "GOMEZ RANERO, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "CARRERA SANCHEZ, MARCOS"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ GONZALEZ, DANIEL",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "SAIZ GARCÍA, IVAN",
+    "CZACHOR, DAMIAN KRZYSZTOF",
+    "MONTES SANTOS, CARLOS"
+  ],
+  "convocados_sin_jugar_local": [
+    "ABASCAL RUIZ, JOAQUIN",
+    "HOLGADO RODRIGUEZ, IKER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "LLAMA GOMEZ, MARIO",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "LOPEZ SAEZ, ANDER",
+    "MAZA NOVOA, MARIO",
+    "SIERRA GONZALEZ, KEVIN",
+    "IBAÑEZ AHEDO, EGOITZ",
+    "DEL MORAL ALONSO, RODRIGO",
+    "GOMEZ RANERO, ANDER",
+    "CARRERA SANCHEZ, MARCOS"
+  ],
+  "jugadores_visitante": [
+    "PEREZ CAYON, ALIO",
+    "SOLANA PEREZ, LEO",
+    "DURÁN GÓMEZ, MARCOS",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "ESCALANTE BUENO, OIER",
+    "SANCHEZ SALAS, SERGIO",
+    "MALLAVIA PEREZ, ASIER",
+    "DIAZ NAVEA, MARIO",
+    "DAHHAOUI RACHID, YAKOUB",
+    "ROCES RONDO, CRUZ",
+    "SAIZ BOLADO, LUCAS",
+    "SAIZ GARCÍA, IVAN",
+    "MONTES SANTOS, CARLOS",
+    "CZACHOR, DAMIAN KRZYSZTOF",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "ZAMAN, VICTOR ALEXANDRU"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "DEL MORAL ALONSO, RODRIGO",
+      "sale": "LOPEZ SAEZ, ANDER"
+    },
+    {
+      "min": 40,
+      "entra": "GOMEZ RANERO, ANDER",
+      "sale": "MAZA NOVOA, MARIO"
+    },
+    {
+      "min": 61,
+      "entra": "CARRERA SANCHEZ, MARCOS",
+      "sale": "COBREROS ZUBILLAGA, SAMUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "SAIZ GARCÍA, IVAN",
+      "sale": "DAHHAOUI RACHID, YAKOUB"
+    },
+    {
+      "min": 57,
+      "entra": "MONTES SANTOS, CARLOS",
+      "sale": "DURÁN GÓMEZ, MARCOS"
+    },
+    {
+      "min": 72,
+      "entra": "CZACHOR, DAMIAN KRZYSZTOF",
+      "sale": "SANCHEZ SALAS, SERGIO"
+    },
+    {
+      "min": 75,
+      "entra": "GONZALEZ GONZALEZ, DANIEL",
+      "sale": "SAIZ BOLADO, LUCAS"
+    },
+    {
+      "min": 75,
+      "entra": "ZAMAN, VICTOR ALEXANDRU",
+      "sale": "ESCALANTE BUENO, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "FURIOL SALCEDO, RUBÉN": 90,
+    "TREVILLA VELA, RAMON": 90,
+    "LLAMA GOMEZ, MARIO": 90,
+    "COBREROS ZUBILLAGA, SAMUEL": 61,
+    "DE LAS HERAS VARONA, ASIER": 90,
+    "LOPEZ GONZALEZ, HUGO": 90,
+    "GALAZ GOMEZ, GUILLERMO": 90,
+    "LOPEZ SAEZ, ANDER": 40,
+    "MAZA NOVOA, MARIO": 40,
+    "SIERRA GONZALEZ, KEVIN": 90,
+    "IBAÑEZ AHEDO, EGOITZ": 90,
+    "DEL MORAL ALONSO, RODRIGO": 50,
+    "GOMEZ RANERO, ANDER": 50,
+    "CARRERA SANCHEZ, MARCOS": 29,
+    "PEREZ CAYON, ALIO": 90,
+    "SOLANA PEREZ, LEO": 90,
+    "DURÁN GÓMEZ, MARCOS": 57,
+    "ZHEKOV, ATANASIO ATANASOV": 90,
+    "ESCALANTE BUENO, OIER": 75,
+    "SANCHEZ SALAS, SERGIO": 72,
+    "MALLAVIA PEREZ, ASIER": 90,
+    "DIAZ NAVEA, MARIO": 90,
+    "DAHHAOUI RACHID, YAKOUB": 49,
+    "ROCES RONDO, CRUZ": 90,
+    "SAIZ BOLADO, LUCAS": 75,
+    "SAIZ GARCÍA, IVAN": 41,
+    "MONTES SANTOS, CARLOS": 33,
+    "CZACHOR, DAMIAN KRZYSZTOF": 18,
+    "GONZALEZ GONZALEZ, DANIEL": 15,
+    "ZAMAN, VICTOR ALEXANDRU": 15
+  },
+  "portero_local": "FURIOL SALCEDO, RUBÉN",
+  "portero_visitante": "PEREZ CAYON, ALIO",
+  "dorsales_local": {
+    "FURIOL SALCEDO, RUBÉN": 1,
+    "TREVILLA VELA, RAMON": 2,
+    "LLAMA GOMEZ, MARIO": 5,
+    "COBREROS ZUBILLAGA, SAMUEL": 6,
+    "DE LAS HERAS VARONA, ASIER": 7,
+    "LOPEZ GONZALEZ, HUGO": 8,
+    "GALAZ GOMEZ, GUILLERMO": 10,
+    "LOPEZ SAEZ, ANDER": 12,
+    "MAZA NOVOA, MARIO": 15,
+    "SIERRA GONZALEZ, KEVIN": 17,
+    "IBAÑEZ AHEDO, EGOITZ": 18
+  },
+  "dorsales_visitante": {
+    "PEREZ CAYON, ALIO": 1,
+    "SOLANA PEREZ, LEO": 2,
+    "DURÁN GÓMEZ, MARCOS": 3,
+    "ZHEKOV, ATANASIO ATANASOV": 4,
+    "ESCALANTE BUENO, OIER": 9,
+    "SANCHEZ SALAS, SERGIO": 11,
+    "MALLAVIA PEREZ, ASIER": 12,
+    "DIAZ NAVEA, MARIO": 14,
+    "DAHHAOUI RACHID, YAKOUB": 15,
+    "ROCES RONDO, CRUZ": 17,
+    "SAIZ BOLADO, LUCAS": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
