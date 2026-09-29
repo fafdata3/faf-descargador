@@ -1,0 +1,258 @@
+{
+  "acta_id": "B_2008413",
+  "filename": "Acta_B_2008413.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 12,
+  "fecha": "21-12-2024",
+  "hora": "17:45",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ETXEBARRI A",
+  "equipo_visitante": "AURRERA",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CANDELA TELLETXEA, KOLDOBIKA"
+  ],
+  "estadio": "MUNICIPAL A",
+  "ciudad": "Etxebarri",
+  "goleadores": [
+    {
+      "minuto": 36,
+      "jugador": "MEDEL MOLINERO, SAÚL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 28,
+      "jugador": "DE SANTIAGO LOPEZ, FRANCISCO JAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "ALVAREZ MAESO, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "GARCIA MARQUEZ, HARITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "ALVAREZ MAESO, PABLO",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DE SANTIAGO LOPEZ, FRANCISCO JAVIER",
+  "entrenador_visitante": "ARAMBURU URKIZA, UNAI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RASTROLLO ARENAS, ANDONI",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RASTROLLO ARENAS, ANDONI",
+  "delegado_equipo_visitante": "BADIOLA IRUETA, JAVIER",
+  "titulares_local": [
+    "ESTEVEZ MEDIAVILLA, MIKEL",
+    "BASALDUA ANAYA, UNAI",
+    "GARCIA MARQUEZ, HARITZ",
+    "FUENTE OTERO, ANDER",
+    "ALVAREZ MAESO, PABLO",
+    "GOMEZ DELGADO, EKAITZ",
+    "ALBANO GONZALES, JAGOBA VICTOR",
+    "MEDEL MOLINERO, SAÚL",
+    "VARGAS MORENO, JULEN",
+    "MIRANDA USUBIAGA, EGOITZ",
+    "LLARENA ALTARRIBA, DANEL"
+  ],
+  "titulares_visitante": [
+    "TOÑA ITUARTE, GURUTZ",
+    "BASARAS KORTABARRIA, ANDDE LUKA",
+    "MORCHON ITUARTE, ENEKO NAHUEL",
+    "OUSMANE SALL CAMARA, MOUHAMED",
+    "NIÑO MARTIN, ENEKO",
+    "MARINO ARANBARRI, ENEKO",
+    "ANDRADES DE OLIVEIRA, EIHAR",
+    "ITUARTE AGUIRRE, OIER",
+    "QUIZHPE GONZALEZ, NAIM",
+    "NIEVES SAGARNA, XUBAN",
+    "ETXABURU ZATON, UNAI"
+  ],
+  "suplentes_local": [
+    "ARELLANO CERROS, ANDER",
+    "MORALES ALVARO, MARIO",
+    "MERINO DE ANTOLIN, OIER",
+    "RENTERIA BLANCO, IZEI",
+    "TUBIO SANGRONIZ, MIKEL",
+    "CHRAYAH, MOHAMMED",
+    "EL HASSOUNI BENBADDI, ISMAEL"
+  ],
+  "suplentes_visitante": [
+    "ARANTZAMENDI SIERRA, MANEX",
+    "BADIOLA SOBRADELO, EÑAUT",
+    "ROCANDIO BORGES, UNAI",
+    "BADIOLA RODRIGUEZ, GORKA",
+    "BADIOLA BELAUSTEGI, GARI",
+    "IRIONDO GARALDE, ENAITZ",
+    "URKIRI LEKUE, AIMAR"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARELLANO CERROS, ANDER",
+    "MERINO DE ANTOLIN, OIER",
+    "RENTERIA BLANCO, IZEI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ARANTZAMENDI SIERRA, MANEX",
+    "BADIOLA RODRIGUEZ, GORKA",
+    "IRIONDO GARALDE, ENAITZ",
+    "URKIRI LEKUE, AIMAR"
+  ],
+  "jugadores_local": [
+    "ESTEVEZ MEDIAVILLA, MIKEL",
+    "BASALDUA ANAYA, UNAI",
+    "GARCIA MARQUEZ, HARITZ",
+    "FUENTE OTERO, ANDER",
+    "ALVAREZ MAESO, PABLO",
+    "GOMEZ DELGADO, EKAITZ",
+    "ALBANO GONZALES, JAGOBA VICTOR",
+    "MEDEL MOLINERO, SAÚL",
+    "VARGAS MORENO, JULEN",
+    "MIRANDA USUBIAGA, EGOITZ",
+    "LLARENA ALTARRIBA, DANEL",
+    "EL HASSOUNI BENBADDI, ISMAEL",
+    "CHRAYAH, MOHAMMED",
+    "MORALES ALVARO, MARIO",
+    "TUBIO SANGRONIZ, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "TOÑA ITUARTE, GURUTZ",
+    "BASARAS KORTABARRIA, ANDDE LUKA",
+    "MORCHON ITUARTE, ENEKO NAHUEL",
+    "OUSMANE SALL CAMARA, MOUHAMED",
+    "NIÑO MARTIN, ENEKO",
+    "MARINO ARANBARRI, ENEKO",
+    "ANDRADES DE OLIVEIRA, EIHAR",
+    "ITUARTE AGUIRRE, OIER",
+    "QUIZHPE GONZALEZ, NAIM",
+    "NIEVES SAGARNA, XUBAN",
+    "ETXABURU ZATON, UNAI",
+    "BADIOLA BELAUSTEGI, GARI",
+    "ROCANDIO BORGES, UNAI",
+    "BADIOLA SOBRADELO, EÑAUT"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "EL HASSOUNI BENBADDI, ISMAEL",
+      "sale": "VARGAS MORENO, JULEN"
+    },
+    {
+      "min": 65,
+      "entra": "CHRAYAH, MOHAMMED",
+      "sale": "LLARENA ALTARRIBA, DANEL"
+    },
+    {
+      "min": 73,
+      "entra": "MORALES ALVARO, MARIO",
+      "sale": "MIRANDA USUBIAGA, EGOITZ"
+    },
+    {
+      "min": 73,
+      "entra": "TUBIO SANGRONIZ, MIKEL",
+      "sale": "MEDEL MOLINERO, SAÚL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "BADIOLA BELAUSTEGI, GARI",
+      "sale": "NIEVES SAGARNA, XUBAN"
+    },
+    {
+      "min": 55,
+      "entra": "ROCANDIO BORGES, UNAI",
+      "sale": "ITUARTE AGUIRRE, OIER"
+    },
+    {
+      "min": 63,
+      "entra": "BADIOLA SOBRADELO, EÑAUT",
+      "sale": "BASARAS KORTABARRIA, ANDDE LUKA"
+    }
+  ],
+  "minutos_jugadores": {
+    "ESTEVEZ MEDIAVILLA, MIKEL": 90,
+    "BASALDUA ANAYA, UNAI": 90,
+    "GARCIA MARQUEZ, HARITZ": 90,
+    "FUENTE OTERO, ANDER": 90,
+    "ALVAREZ MAESO, PABLO": 90,
+    "GOMEZ DELGADO, EKAITZ": 90,
+    "ALBANO GONZALES, JAGOBA VICTOR": 90,
+    "MEDEL MOLINERO, SAÚL": 73,
+    "VARGAS MORENO, JULEN": 57,
+    "MIRANDA USUBIAGA, EGOITZ": 73,
+    "LLARENA ALTARRIBA, DANEL": 65,
+    "EL HASSOUNI BENBADDI, ISMAEL": 33,
+    "CHRAYAH, MOHAMMED": 25,
+    "MORALES ALVARO, MARIO": 17,
+    "TUBIO SANGRONIZ, MIKEL": 17,
+    "TOÑA ITUARTE, GURUTZ": 90,
+    "BASARAS KORTABARRIA, ANDDE LUKA": 63,
+    "MORCHON ITUARTE, ENEKO NAHUEL": 90,
+    "OUSMANE SALL CAMARA, MOUHAMED": 90,
+    "NIÑO MARTIN, ENEKO": 90,
+    "MARINO ARANBARRI, ENEKO": 90,
+    "ANDRADES DE OLIVEIRA, EIHAR": 90,
+    "ITUARTE AGUIRRE, OIER": 55,
+    "QUIZHPE GONZALEZ, NAIM": 90,
+    "NIEVES SAGARNA, XUBAN": 41,
+    "ETXABURU ZATON, UNAI": 90,
+    "BADIOLA BELAUSTEGI, GARI": 49,
+    "ROCANDIO BORGES, UNAI": 35,
+    "BADIOLA SOBRADELO, EÑAUT": 27
+  },
+  "portero_local": "ESTEVEZ MEDIAVILLA, MIKEL",
+  "portero_visitante": "TOÑA ITUARTE, GURUTZ",
+  "dorsales_local": {
+    "ESTEVEZ MEDIAVILLA, MIKEL": 1,
+    "BASALDUA ANAYA, UNAI": 2,
+    "GARCIA MARQUEZ, HARITZ": 4,
+    "FUENTE OTERO, ANDER": 5,
+    "ALVAREZ MAESO, PABLO": 7,
+    "GOMEZ DELGADO, EKAITZ": 8,
+    "ALBANO GONZALES, JAGOBA VICTOR": 12,
+    "MEDEL MOLINERO, SAÚL": 17,
+    "VARGAS MORENO, JULEN": 18,
+    "MIRANDA USUBIAGA, EGOITZ": 19,
+    "LLARENA ALTARRIBA, DANEL": 21
+  },
+  "dorsales_visitante": {
+    "TOÑA ITUARTE, GURUTZ": 1,
+    "BASARAS KORTABARRIA, ANDDE LUKA": 2,
+    "MORCHON ITUARTE, ENEKO NAHUEL": 3,
+    "OUSMANE SALL CAMARA, MOUHAMED": 6,
+    "NIÑO MARTIN, ENEKO": 7,
+    "MARINO ARANBARRI, ENEKO": 8,
+    "ANDRADES DE OLIVEIRA, EIHAR": 9,
+    "ITUARTE AGUIRRE, OIER": 10,
+    "QUIZHPE GONZALEZ, NAIM": 12,
+    "NIEVES SAGARNA, XUBAN": 16,
+    "ETXABURU ZATON, UNAI": 17
+  },
+  "suspendidos": [
+    "ALVAREZ MAESO, PABLO"
+  ],
+  "_marcador_widget": true
+}
