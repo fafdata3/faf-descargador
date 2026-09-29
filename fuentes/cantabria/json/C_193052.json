@@ -1,0 +1,264 @@
+{
+  "acta_id": "C_193052",
+  "filename": "Acta_C_193052.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 3,
+  "fecha": "22-09-2024",
+  "hora": "12:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. ARENAS DE FRAJANAS A",
+  "equipo_visitante": "C.D. TROPEZON B",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LAVÍN GARCÍA, SERGIO"
+  ],
+  "estadio": "Municipal de Frajanas",
+  "ciudad": "Astillero (El)",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "DIAZ SANCHEZ, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "GONZALEZ BLUM, MANUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "FUERTES LOPEZ, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "FUERTES LOPEZ, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 56,
+      "jugador": "ALONSO EDILLA, MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MATE GARCIA, DIEGO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DE JUANA RODRIGUEZ, BORJA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DE JUANA RODRIGUEZ, BORJA",
+  "delegado_equipo_visitante": "LANDEO LLANCAYA, LUIS FRANCISCO",
+  "titulares_local": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "MARTIN SECO, BRUNO",
+    "QUIJANO SOTO, PABLO",
+    "belver duran, ivan"
+  ],
+  "titulares_visitante": [
+    "CRUZ ABASCAL, JAVIER",
+    "ORIA SAINZ, MARCOS",
+    "ALONSO EDILLA, MIGUEL",
+    "HOUFRI BAKBACHI, HARON",
+    "CUESTA FEIJOO, CARLOS",
+    "GONZALEZ BLUM, MANUEL",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MENDARO TERAN, ANTONIO",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "GARCIA DIAZ, JAVIER"
+  ],
+  "suplentes_local": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "YEDRA MARTIN, NICOLAS",
+    "SAÑUDO HERRAN, HUGO",
+    "FUERTES LOPEZ, ANGEL",
+    "DE LA IGLESIA SALVADOR, RODRIGO"
+  ],
+  "suplentes_visitante": [
+    "MARTINEZ RODRIGUEZ, AARON",
+    "pachon garcia, DIEGO",
+    "GOITIA GUTIERREZ, PABLO",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "GUTIERREZ MARTINEZ, ALVARO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "MARTIN SECO, BRUNO",
+    "QUIJANO SOTO, PABLO",
+    "belver duran, ivan",
+    "HERRERO VILLALOBOS, MARCOS",
+    "FUERTES LOPEZ, ANGEL",
+    "SAÑUDO HERRAN, HUGO",
+    "DE LA IGLESIA SALVADOR, RODRIGO",
+    "YEDRA MARTIN, NICOLAS"
+  ],
+  "jugadores_visitante": [
+    "CRUZ ABASCAL, JAVIER",
+    "ORIA SAINZ, MARCOS",
+    "ALONSO EDILLA, MIGUEL",
+    "HOUFRI BAKBACHI, HARON",
+    "CUESTA FEIJOO, CARLOS",
+    "GONZALEZ BLUM, MANUEL",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MENDARO TERAN, ANTONIO",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "GARCIA DIAZ, JAVIER",
+    "GOITIA GUTIERREZ, PABLO",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "pachon garcia, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "HERRERO VILLALOBOS, MARCOS",
+      "sale": "JIMENEZ LASTRA, MIGUEL"
+    },
+    {
+      "min": 40,
+      "entra": "FUERTES LOPEZ, ANGEL",
+      "sale": "QUIJANO SOTO, PABLO"
+    },
+    {
+      "min": 65,
+      "entra": "SAÑUDO HERRAN, HUGO",
+      "sale": "MATE GARCIA, ALVARO"
+    },
+    {
+      "min": 67,
+      "entra": "DE LA IGLESIA SALVADOR, RODRIGO",
+      "sale": "belver duran, ivan"
+    },
+    {
+      "min": 68,
+      "entra": "YEDRA MARTIN, NICOLAS",
+      "sale": "DIAZ SANCHEZ, IZAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GOITIA GUTIERREZ, PABLO",
+      "sale": "MENDARO TERAN, ANTONIO"
+    },
+    {
+      "min": 45,
+      "entra": "MARTINEZ RODRIGUEZ, AARON",
+      "sale": "GARCIA DIAZ, JAVIER"
+    },
+    {
+      "min": 49,
+      "entra": "QUINTANAL ZARRABETIA, ASIER",
+      "sale": "ARROYO GONZALEZ, HUGO"
+    },
+    {
+      "min": 61,
+      "entra": "GUTIERREZ MARTINEZ, ALVARO",
+      "sale": "MARTINEZ FERNANDEZ, ASIER"
+    },
+    {
+      "min": 69,
+      "entra": "pachon garcia, DIEGO",
+      "sale": "HOUFRI BAKBACHI, HARON"
+    }
+  ],
+  "minutos_jugadores": {
+    "JIMENEZ LASTRA, MIGUEL": 40,
+    "BRAVO HERRERO, MARIO": 90,
+    "ALONSO GONZALEZ, FERNANDO": 90,
+    "VICENTE LOPEZ, IVAN": 90,
+    "TORIBIO ARCE, EDUARDO": 90,
+    "LOMAS AYUSO, GERARDO": 90,
+    "MATE GARCIA, ALVARO": 65,
+    "DIAZ SANCHEZ, IZAN": 68,
+    "MARTIN SECO, BRUNO": 90,
+    "QUIJANO SOTO, PABLO": 40,
+    "belver duran, ivan": 67,
+    "HERRERO VILLALOBOS, MARCOS": 50,
+    "FUERTES LOPEZ, ANGEL": 50,
+    "SAÑUDO HERRAN, HUGO": 25,
+    "DE LA IGLESIA SALVADOR, RODRIGO": 23,
+    "YEDRA MARTIN, NICOLAS": 22,
+    "CRUZ ABASCAL, JAVIER": 90,
+    "ORIA SAINZ, MARCOS": 90,
+    "ALONSO EDILLA, MIGUEL": 90,
+    "HOUFRI BAKBACHI, HARON": 69,
+    "CUESTA FEIJOO, CARLOS": 90,
+    "GONZALEZ BLUM, MANUEL": 90,
+    "ARROYO GONZALEZ, HUGO": 49,
+    "MARTINEZ FERNANDEZ, ASIER": 61,
+    "MENDARO TERAN, ANTONIO": 40,
+    "SEIJAS SANZ-BAZA, AITOR": 90,
+    "GARCIA DIAZ, JAVIER": 45,
+    "GOITIA GUTIERREZ, PABLO": 50,
+    "MARTINEZ RODRIGUEZ, AARON": 45,
+    "QUINTANAL ZARRABETIA, ASIER": 41,
+    "GUTIERREZ MARTINEZ, ALVARO": 29,
+    "pachon garcia, DIEGO": 21
+  },
+  "portero_local": "JIMENEZ LASTRA, MIGUEL",
+  "portero_visitante": "CRUZ ABASCAL, JAVIER",
+  "dorsales_local": {
+    "JIMENEZ LASTRA, MIGUEL": 13,
+    "BRAVO HERRERO, MARIO": 3,
+    "ALONSO GONZALEZ, FERNANDO": 4,
+    "VICENTE LOPEZ, IVAN": 5,
+    "TORIBIO ARCE, EDUARDO": 6,
+    "LOMAS AYUSO, GERARDO": 7,
+    "MATE GARCIA, ALVARO": 10,
+    "DIAZ SANCHEZ, IZAN": 11,
+    "MARTIN SECO, BRUNO": 12,
+    "QUIJANO SOTO, PABLO": 14,
+    "belver duran, ivan": 15
+  },
+  "dorsales_visitante": {
+    "CRUZ ABASCAL, JAVIER": 1,
+    "ORIA SAINZ, MARCOS": 2,
+    "ALONSO EDILLA, MIGUEL": 3,
+    "HOUFRI BAKBACHI, HARON": 4,
+    "CUESTA FEIJOO, CARLOS": 6,
+    "GONZALEZ BLUM, MANUEL": 7,
+    "ARROYO GONZALEZ, HUGO": 8,
+    "MARTINEZ FERNANDEZ, ASIER": 9,
+    "MENDARO TERAN, ANTONIO": 14,
+    "SEIJAS SANZ-BAZA, AITOR": 16,
+    "GARCIA DIAZ, JAVIER": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
