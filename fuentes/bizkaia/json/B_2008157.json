@@ -1,0 +1,256 @@
+{
+  "acta_id": "B_2008157",
+  "filename": "Acta_B_2008157.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 10,
+  "fecha": "06-12-2024",
+  "hora": "11:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "RETUERTO B",
+  "equipo_visitante": "ASTRABUDUAKO A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "HORNILLOS GIL, JOAQUÍN"
+  ],
+  "estadio": "IBARRETA",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "CABALLERO TRINIDAD, ASIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "SOTO INCLAN, URKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 51,
+      "jugador": "SANZ AYALA, ENDIKA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "RODRIGUEZ MELENDO, JON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "CABALLERO TRINIDAD, ASIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CAMPOS VILLAVIEJA, ENRIQUE",
+  "entrenador_visitante": "FANO ESKAURIATZA, IGOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FANO LOPEZ, EKAITZ",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FANO LOPEZ, EKAITZ",
+  "delegado_equipo_visitante": "HORMAECHE CANTERA, ENDIKA",
+  "titulares_local": [
+    "SANCHEZ SANTISTEBAN, ALEJANDRO",
+    "BARBA PANIZO, EDER",
+    "MARIJUAN FERRUZ, MARKEL",
+    "CANO MOLEDO, ENDIKA",
+    "VICENTE ESTEBANEZ, IBAI",
+    "SANZ AYALA, ENDIKA",
+    "ARREGUI GODINO, URKO",
+    "MUÑOZ RODRIGUEZ, ADRIAN",
+    "SOTO INCLAN, URKO",
+    "FERRERO BEOBIDE, OIER",
+    "MONTERO BORDALLO, ALAIN"
+  ],
+  "titulares_visitante": [
+    "TERUELO ZUAZO, UNAI",
+    "CAMPOS MARCOS, ANDEKA",
+    "MENDEZ RASINES, HODEI",
+    "RILOVA MOCHA, JULEN",
+    "BLANCO GOMEZ, EKAIN",
+    "CABALLERO TRINIDAD, ASIER",
+    "GIL MAZO, IÑIGO",
+    "MOREDA MARTIN, YAGO",
+    "ALONSO DE LA QUINTANA, OIER",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "LARRAZABAL SANTISTEBAN, XABI"
+  ],
+  "suplentes_local": [
+    "SANCHEZ BRAVO, RENZO JUNIOR",
+    "NAVARRO DE LA ROSA, JEINER STIVEN",
+    "MENENDEZ VALLE, ERLANTZ",
+    "GONZALEZ RUIZ, AITZOL",
+    "CANTERO GIL, ERIK",
+    "RODRIGUEZ MELENDO, JON",
+    "MARDARATS LINAZA, OIHAN"
+  ],
+  "suplentes_visitante": [
+    "JAUREGI LOPEZ, ADUR",
+    "BOLAÑOS MARTIN, AXULAR",
+    "BURGUEÑO GONZALEZ, ADEI",
+    "PALACIO GARCIA, OIER",
+    "AGUIRRE GARCIA, IKER",
+    "JORGE ARRUE, MIKEL",
+    "CUARTO DELA ROSA, BENJAMIN EVAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "SANCHEZ BRAVO, RENZO JUNIOR",
+    "NAVARRO DE LA ROSA, JEINER STIVEN",
+    "MENENDEZ VALLE, ERLANTZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "JAUREGI LOPEZ, ADUR",
+    "BOLAÑOS MARTIN, AXULAR",
+    "BURGUEÑO GONZALEZ, ADEI",
+    "PALACIO GARCIA, OIER"
+  ],
+  "jugadores_local": [
+    "SANCHEZ SANTISTEBAN, ALEJANDRO",
+    "BARBA PANIZO, EDER",
+    "MARIJUAN FERRUZ, MARKEL",
+    "CANO MOLEDO, ENDIKA",
+    "VICENTE ESTEBANEZ, IBAI",
+    "SANZ AYALA, ENDIKA",
+    "ARREGUI GODINO, URKO",
+    "MUÑOZ RODRIGUEZ, ADRIAN",
+    "SOTO INCLAN, URKO",
+    "FERRERO BEOBIDE, OIER",
+    "MONTERO BORDALLO, ALAIN",
+    "GONZALEZ RUIZ, AITZOL",
+    "RODRIGUEZ MELENDO, JON",
+    "MARDARATS LINAZA, OIHAN",
+    "CANTERO GIL, ERIK"
+  ],
+  "jugadores_visitante": [
+    "TERUELO ZUAZO, UNAI",
+    "CAMPOS MARCOS, ANDEKA",
+    "MENDEZ RASINES, HODEI",
+    "RILOVA MOCHA, JULEN",
+    "BLANCO GOMEZ, EKAIN",
+    "CABALLERO TRINIDAD, ASIER",
+    "GIL MAZO, IÑIGO",
+    "MOREDA MARTIN, YAGO",
+    "ALONSO DE LA QUINTANA, OIER",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "LARRAZABAL SANTISTEBAN, XABI",
+    "AGUIRRE GARCIA, IKER",
+    "CUARTO DELA ROSA, BENJAMIN EVAN",
+    "JORGE ARRUE, MIKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "GONZALEZ RUIZ, AITZOL",
+      "sale": "MUÑOZ RODRIGUEZ, ADRIAN"
+    },
+    {
+      "min": 53,
+      "entra": "RODRIGUEZ MELENDO, JON",
+      "sale": "SANZ AYALA, ENDIKA"
+    },
+    {
+      "min": 53,
+      "entra": "MARDARATS LINAZA, OIHAN",
+      "sale": "VICENTE ESTEBANEZ, IBAI"
+    },
+    {
+      "min": 72,
+      "entra": "CANTERO GIL, ERIK",
+      "sale": "MONTERO BORDALLO, ALAIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "AGUIRRE GARCIA, IKER",
+      "sale": "BLANCO GOMEZ, EKAIN"
+    },
+    {
+      "min": 63,
+      "entra": "CUARTO DELA ROSA, BENJAMIN EVAN",
+      "sale": "CAMPO GURRUTXAGA, ALAIN"
+    },
+    {
+      "min": 69,
+      "entra": "JORGE ARRUE, MIKEL",
+      "sale": "ALONSO DE LA QUINTANA, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANCHEZ SANTISTEBAN, ALEJANDRO": 90,
+    "BARBA PANIZO, EDER": 90,
+    "MARIJUAN FERRUZ, MARKEL": 90,
+    "CANO MOLEDO, ENDIKA": 90,
+    "VICENTE ESTEBANEZ, IBAI": 53,
+    "SANZ AYALA, ENDIKA": 53,
+    "ARREGUI GODINO, URKO": 90,
+    "MUÑOZ RODRIGUEZ, ADRIAN": 41,
+    "SOTO INCLAN, URKO": 90,
+    "FERRERO BEOBIDE, OIER": 90,
+    "MONTERO BORDALLO, ALAIN": 72,
+    "GONZALEZ RUIZ, AITZOL": 49,
+    "RODRIGUEZ MELENDO, JON": 37,
+    "MARDARATS LINAZA, OIHAN": 37,
+    "CANTERO GIL, ERIK": 18,
+    "TERUELO ZUAZO, UNAI": 90,
+    "CAMPOS MARCOS, ANDEKA": 90,
+    "MENDEZ RASINES, HODEI": 90,
+    "RILOVA MOCHA, JULEN": 90,
+    "BLANCO GOMEZ, EKAIN": 41,
+    "CABALLERO TRINIDAD, ASIER": 90,
+    "GIL MAZO, IÑIGO": 90,
+    "MOREDA MARTIN, YAGO": 90,
+    "ALONSO DE LA QUINTANA, OIER": 69,
+    "CAMPO GURRUTXAGA, ALAIN": 63,
+    "LARRAZABAL SANTISTEBAN, XABI": 90,
+    "AGUIRRE GARCIA, IKER": 49,
+    "CUARTO DELA ROSA, BENJAMIN EVAN": 27,
+    "JORGE ARRUE, MIKEL": 21
+  },
+  "portero_local": "SANCHEZ SANTISTEBAN, ALEJANDRO",
+  "portero_visitante": "TERUELO ZUAZO, UNAI",
+  "dorsales_local": {
+    "SANCHEZ SANTISTEBAN, ALEJANDRO": 1,
+    "BARBA PANIZO, EDER": 2,
+    "MARIJUAN FERRUZ, MARKEL": 5,
+    "CANO MOLEDO, ENDIKA": 6,
+    "VICENTE ESTEBANEZ, IBAI": 7,
+    "SANZ AYALA, ENDIKA": 8,
+    "ARREGUI GODINO, URKO": 9,
+    "MUÑOZ RODRIGUEZ, ADRIAN": 10,
+    "SOTO INCLAN, URKO": 11,
+    "FERRERO BEOBIDE, OIER": 15,
+    "MONTERO BORDALLO, ALAIN": 17
+  },
+  "dorsales_visitante": {
+    "TERUELO ZUAZO, UNAI": 1,
+    "CAMPOS MARCOS, ANDEKA": 2,
+    "MENDEZ RASINES, HODEI": 3,
+    "RILOVA MOCHA, JULEN": 4,
+    "BLANCO GOMEZ, EKAIN": 5,
+    "CABALLERO TRINIDAD, ASIER": 7,
+    "GIL MAZO, IÑIGO": 8,
+    "MOREDA MARTIN, YAGO": 9,
+    "ALONSO DE LA QUINTANA, OIER": 10,
+    "CAMPO GURRUTXAGA, ALAIN": 11,
+    "LARRAZABAL SANTISTEBAN, XABI": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
