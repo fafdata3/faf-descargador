@@ -1,0 +1,279 @@
+{
+  "acta_id": "C_193100",
+  "filename": "Acta_C_193100.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "26-10-2024",
+  "hora": "09:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "A.D. SAN AGUSTIN A",
+  "equipo_visitante": "C.D. ARENAS DE FRAJANAS A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GÜEMES CALZADA, JONATAN"
+  ],
+  "estadio": "Liberto Toca",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "NOGUES FERNANDEZ, ALEJANDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "GONZALEZ SANCHES, JUAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "SAÑUDO HERRAN, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "MATE GARCIA, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "CANTARERO PASCUAL, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "TORIBIO ARCE, EDUARDO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "DE JUANA RODRIGUEZ, BORJA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 73,
+      "jugador": "FUERTES LOPEZ, ANGEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GRIFFITHS SANCHEZ, SAMUEL ERNESTO",
+  "entrenador_visitante": "MATE GARCIA, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "NIETO LEAL, JAVIER",
+  "delegado_equipo_visitante": "DE JUANA RODRIGUEZ, BORJA",
+  "titulares_local": [
+    "SAURA SANCHEZ, SERGIO",
+    "CASTILLO ESPINOSA, MIGUEL",
+    "FRANCO GARCIA - MONCO, DAVID",
+    "NOGUES FERNANDEZ, ALEJANDRO",
+    "ROZAS BENITO, GONZALO",
+    "GONZALEZ SANCHES, JUAN",
+    "QUIJANO GARCIA, JAIME",
+    "BALBAS GONZALEZ, MIGUEL",
+    "GARCIA LUNA, ALEJO",
+    "CANTARERO PASCUAL, ALEJANDRO",
+    "CASCALES TORRE, DAVID"
+  ],
+  "titulares_visitante": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "SAÑUDO HERRAN, HUGO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "MARTIN SECO, BRUNO",
+    "belver duran, ivan"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+    "SEBRANGO ABAD, RODRIGO",
+    "VAQUERO ARTEAGA, JAIME",
+    "LAINZ MORAN, JACOBO",
+    "PUENTE RUIZ, RICARDO"
+  ],
+  "suplentes_visitante": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "YEDRA MARTIN, NICOLAS",
+    "CUERO BENITO, HUGO",
+    "LOPEZ RAMIREZ, ALBERTO",
+    "DE LA IGLESIA SALVADOR, RODRIGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "SEBRANGO ABAD, RODRIGO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SAURA SANCHEZ, SERGIO",
+    "CASTILLO ESPINOSA, MIGUEL",
+    "FRANCO GARCIA - MONCO, DAVID",
+    "NOGUES FERNANDEZ, ALEJANDRO",
+    "ROZAS BENITO, GONZALO",
+    "GONZALEZ SANCHES, JUAN",
+    "QUIJANO GARCIA, JAIME",
+    "BALBAS GONZALEZ, MIGUEL",
+    "GARCIA LUNA, ALEJO",
+    "CANTARERO PASCUAL, ALEJANDRO",
+    "CASCALES TORRE, DAVID",
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+    "PUENTE RUIZ, RICARDO",
+    "VAQUERO ARTEAGA, JAIME",
+    "LAINZ MORAN, JACOBO"
+  ],
+  "jugadores_visitante": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "SAÑUDO HERRAN, HUGO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "MARTIN SECO, BRUNO",
+    "belver duran, ivan",
+    "HERRERO VILLALOBOS, MARCOS",
+    "LOPEZ RAMIREZ, ALBERTO",
+    "DE LA IGLESIA SALVADOR, RODRIGO",
+    "CUERO BENITO, HUGO",
+    "YEDRA MARTIN, NICOLAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+      "sale": "SAURA SANCHEZ, SERGIO"
+    },
+    {
+      "min": 51,
+      "entra": "PUENTE RUIZ, RICARDO",
+      "sale": "CANTARERO PASCUAL, ALEJANDRO"
+    },
+    {
+      "min": 60,
+      "entra": "VAQUERO ARTEAGA, JAIME",
+      "sale": "QUIJANO GARCIA, JAIME"
+    },
+    {
+      "min": 63,
+      "entra": "LAINZ MORAN, JACOBO",
+      "sale": "FRANCO GARCIA - MONCO, DAVID"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "HERRERO VILLALOBOS, MARCOS",
+      "sale": "JIMENEZ LASTRA, MIGUEL"
+    },
+    {
+      "min": 48,
+      "entra": "LOPEZ RAMIREZ, ALBERTO",
+      "sale": "TORIBIO ARCE, EDUARDO"
+    },
+    {
+      "min": 51,
+      "entra": "DE LA IGLESIA SALVADOR, RODRIGO",
+      "sale": "belver duran, ivan"
+    },
+    {
+      "min": 51,
+      "entra": "CUERO BENITO, HUGO",
+      "sale": "MARTIN SECO, BRUNO"
+    },
+    {
+      "min": 62,
+      "entra": "YEDRA MARTIN, NICOLAS",
+      "sale": "SAÑUDO HERRAN, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "SAURA SANCHEZ, SERGIO": 40,
+    "CASTILLO ESPINOSA, MIGUEL": 90,
+    "FRANCO GARCIA - MONCO, DAVID": 63,
+    "NOGUES FERNANDEZ, ALEJANDRO": 90,
+    "ROZAS BENITO, GONZALO": 90,
+    "GONZALEZ SANCHES, JUAN": 90,
+    "QUIJANO GARCIA, JAIME": 60,
+    "BALBAS GONZALEZ, MIGUEL": 90,
+    "GARCIA LUNA, ALEJO": 90,
+    "CANTARERO PASCUAL, ALEJANDRO": 51,
+    "CASCALES TORRE, DAVID": 90,
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME": 50,
+    "PUENTE RUIZ, RICARDO": 39,
+    "VAQUERO ARTEAGA, JAIME": 30,
+    "LAINZ MORAN, JACOBO": 27,
+    "JIMENEZ LASTRA, MIGUEL": 40,
+    "BRAVO HERRERO, MARIO": 90,
+    "ALONSO GONZALEZ, FERNANDO": 90,
+    "VICENTE LOPEZ, IVAN": 90,
+    "TORIBIO ARCE, EDUARDO": 48,
+    "LOMAS AYUSO, GERARDO": 90,
+    "SAÑUDO HERRAN, HUGO": 62,
+    "FUERTES LOPEZ, ANGEL": 90,
+    "MATE GARCIA, ALVARO": 90,
+    "MARTIN SECO, BRUNO": 51,
+    "belver duran, ivan": 51,
+    "HERRERO VILLALOBOS, MARCOS": 50,
+    "LOPEZ RAMIREZ, ALBERTO": 42,
+    "DE LA IGLESIA SALVADOR, RODRIGO": 39,
+    "CUERO BENITO, HUGO": 39,
+    "YEDRA MARTIN, NICOLAS": 28
+  },
+  "portero_local": "SAURA SANCHEZ, SERGIO",
+  "portero_visitante": "JIMENEZ LASTRA, MIGUEL",
+  "dorsales_local": {
+    "SAURA SANCHEZ, SERGIO": 1,
+    "CASTILLO ESPINOSA, MIGUEL": 3,
+    "FRANCO GARCIA - MONCO, DAVID": 4,
+    "NOGUES FERNANDEZ, ALEJANDRO": 6,
+    "ROZAS BENITO, GONZALO": 7,
+    "GONZALEZ SANCHES, JUAN": 9,
+    "QUIJANO GARCIA, JAIME": 10,
+    "BALBAS GONZALEZ, MIGUEL": 11,
+    "GARCIA LUNA, ALEJO": 19,
+    "CANTARERO PASCUAL, ALEJANDRO": 34,
+    "CASCALES TORRE, DAVID": 37
+  },
+  "dorsales_visitante": {
+    "JIMENEZ LASTRA, MIGUEL": 13,
+    "BRAVO HERRERO, MARIO": 3,
+    "ALONSO GONZALEZ, FERNANDO": 4,
+    "VICENTE LOPEZ, IVAN": 5,
+    "TORIBIO ARCE, EDUARDO": 6,
+    "LOMAS AYUSO, GERARDO": 7,
+    "SAÑUDO HERRAN, HUGO": 8,
+    "FUERTES LOPEZ, ANGEL": 9,
+    "MATE GARCIA, ALVARO": 10,
+    "MARTIN SECO, BRUNO": 12,
+    "belver duran, ivan": 15
+  },
+  "suspendidos": []
+}
