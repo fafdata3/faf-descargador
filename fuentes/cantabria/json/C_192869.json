@@ -1,0 +1,265 @@
+{
+  "acta_id": "C_192869",
+  "filename": "Acta_C_192869.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 17,
+  "fecha": "12-01-2025",
+  "hora": "13:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE A",
+  "equipo_visitante": "REAL RACING CLUB SAD A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZÁLEZ AJA, PABLO"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "MANTECON TEJEDOR, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "GAITAN PEREZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "COBO MARTINEZ, KELLYAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 27,
+      "jugador": "GONZALEZ ARENAL, PEDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 74,
+      "jugador": "PALAZUELOS TRUEBA, JORGE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "CABIELLES COSIO, MANUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PALAZUELOS TRUEBA, JORGE",
+  "entrenador_visitante": "REVUELTA SOTO, ANDRES",
+  "segundo_entrenador_local": "GONZALEZ ARENAL, PEDRO",
+  "segundo_entrenador_visitante": "PALAZUELOS GARCIA, RUBEN",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "RODRIGUEZ PINEY, MIGUEL",
+  "titulares_local": [
+    "LASO MARTINEZ, ADRIAN",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "RODEÑO DIAZ, GABRIEL",
+    "Gaviria Cataño, JUAN DIEGO",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "titulares_visitante": [
+    "CABIELLES COSIO, MANUEL",
+    "ECHEVARRIA PELAYO, MANUEL",
+    "MANTECON TEJEDOR, MARCOS",
+    "GAITAN PEREZ, PABLO",
+    "SANCHEZ MEDINA, MARCO",
+    "DIESTRO LANZA, RODRIGO",
+    "GUTIERREZ SANZ, DAVID",
+    "ORIA OCERIN, PABLO",
+    "VERDEJA ASTORECA, JORGE",
+    "GOMEZ CUEVAS, RODRIGO",
+    "GARCIA REVUELTA, SERGIO"
+  ],
+  "suplentes_local": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "CALVO MORTE, SAMUEL",
+    "MALLAVIA PEREZ, ASIER",
+    "BARRIO OBREGON, IZAN",
+    "DIAZ NAVEA, MARIO"
+  ],
+  "suplentes_visitante": [
+    "LAVIN DEL HOYO, RAUL",
+    "PRIETO ALONSO, MARCOS",
+    "AMBROSIO OBREGON, ENRIQUE MANUEL",
+    "CORTABITARTE SOBERON, ILAN",
+    "MUNIENTE CHIOGNA, ALBERTO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "LAVIN DEL HOYO, RAUL"
+  ],
+  "jugadores_local": [
+    "LASO MARTINEZ, ADRIAN",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "RODEÑO DIAZ, GABRIEL",
+    "Gaviria Cataño, JUAN DIEGO",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN",
+    "BERNARDO MIRAVALLES, IZAN",
+    "BARRIO OBREGON, IZAN",
+    "CALVO MORTE, SAMUEL",
+    "MALLAVIA PEREZ, ASIER",
+    "DIAZ NAVEA, MARIO"
+  ],
+  "jugadores_visitante": [
+    "CABIELLES COSIO, MANUEL",
+    "ECHEVARRIA PELAYO, MANUEL",
+    "MANTECON TEJEDOR, MARCOS",
+    "GAITAN PEREZ, PABLO",
+    "SANCHEZ MEDINA, MARCO",
+    "DIESTRO LANZA, RODRIGO",
+    "GUTIERREZ SANZ, DAVID",
+    "ORIA OCERIN, PABLO",
+    "VERDEJA ASTORECA, JORGE",
+    "GOMEZ CUEVAS, RODRIGO",
+    "GARCIA REVUELTA, SERGIO",
+    "CORTABITARTE SOBERON, ILAN",
+    "MUNIENTE CHIOGNA, ALBERTO",
+    "PRIETO ALONSO, MARCOS",
+    "AMBROSIO OBREGON, ENRIQUE MANUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "BERNARDO MIRAVALLES, IZAN",
+      "sale": "LASO MARTINEZ, ADRIAN"
+    },
+    {
+      "min": 60,
+      "entra": "BARRIO OBREGON, IZAN",
+      "sale": "RENEDO COSIO, DIEGO"
+    },
+    {
+      "min": 67,
+      "entra": "CALVO MORTE, SAMUEL",
+      "sale": "CUADRADO PEREZ RUBIN, MATEO"
+    },
+    {
+      "min": 67,
+      "entra": "MALLAVIA PEREZ, ASIER",
+      "sale": "MOURA REVUELTA, ROMEO"
+    },
+    {
+      "min": 76,
+      "entra": "DIAZ NAVEA, MARIO",
+      "sale": "GOMEZ BOLADO, MIGUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "CORTABITARTE SOBERON, ILAN",
+      "sale": "ORIA OCERIN, PABLO"
+    },
+    {
+      "min": 40,
+      "entra": "MUNIENTE CHIOGNA, ALBERTO",
+      "sale": "VERDEJA ASTORECA, JORGE"
+    },
+    {
+      "min": 50,
+      "entra": "PRIETO ALONSO, MARCOS",
+      "sale": "MANTECON TEJEDOR, MARCOS"
+    },
+    {
+      "min": 50,
+      "entra": "AMBROSIO OBREGON, ENRIQUE MANUEL",
+      "sale": "ECHEVARRIA PELAYO, MANUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "LASO MARTINEZ, ADRIAN": 40,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 90,
+    "RODEÑO DIAZ, GABRIEL": 90,
+    "Gaviria Cataño, JUAN DIEGO": 90,
+    "CUADRADO PEREZ RUBIN, MATEO": 67,
+    "GOMEZ BOLADO, MIGUEL": 76,
+    "PERNIA RODRIGUEZ, JOEL": 90,
+    "RENEDO COSIO, DIEGO": 60,
+    "MOURA REVUELTA, ROMEO": 67,
+    "COBO MARTINEZ, KELLYAN": 90,
+    "BERNARDO MIRAVALLES, IZAN": 50,
+    "BARRIO OBREGON, IZAN": 30,
+    "CALVO MORTE, SAMUEL": 23,
+    "MALLAVIA PEREZ, ASIER": 23,
+    "DIAZ NAVEA, MARIO": 14,
+    "CABIELLES COSIO, MANUEL": 90,
+    "ECHEVARRIA PELAYO, MANUEL": 50,
+    "MANTECON TEJEDOR, MARCOS": 50,
+    "GAITAN PEREZ, PABLO": 90,
+    "SANCHEZ MEDINA, MARCO": 90,
+    "DIESTRO LANZA, RODRIGO": 90,
+    "GUTIERREZ SANZ, DAVID": 90,
+    "ORIA OCERIN, PABLO": 40,
+    "VERDEJA ASTORECA, JORGE": 40,
+    "GOMEZ CUEVAS, RODRIGO": 90,
+    "GARCIA REVUELTA, SERGIO": 90,
+    "CORTABITARTE SOBERON, ILAN": 50,
+    "MUNIENTE CHIOGNA, ALBERTO": 50,
+    "PRIETO ALONSO, MARCOS": 40,
+    "AMBROSIO OBREGON, ENRIQUE MANUEL": 40
+  },
+  "portero_local": "LASO MARTINEZ, ADRIAN",
+  "portero_visitante": "CABIELLES COSIO, MANUEL",
+  "dorsales_local": {
+    "LASO MARTINEZ, ADRIAN": 1,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "RODEÑO DIAZ, GABRIEL": 8,
+    "Gaviria Cataño, JUAN DIEGO": 9,
+    "CUADRADO PEREZ RUBIN, MATEO": 11,
+    "GOMEZ BOLADO, MIGUEL": 12,
+    "PERNIA RODRIGUEZ, JOEL": 17,
+    "RENEDO COSIO, DIEGO": 18,
+    "MOURA REVUELTA, ROMEO": 20,
+    "COBO MARTINEZ, KELLYAN": 22
+  },
+  "dorsales_visitante": {
+    "CABIELLES COSIO, MANUEL": 1,
+    "ECHEVARRIA PELAYO, MANUEL": 2,
+    "MANTECON TEJEDOR, MARCOS": 3,
+    "GAITAN PEREZ, PABLO": 4,
+    "SANCHEZ MEDINA, MARCO": 5,
+    "DIESTRO LANZA, RODRIGO": 6,
+    "GUTIERREZ SANZ, DAVID": 8,
+    "ORIA OCERIN, PABLO": 9,
+    "VERDEJA ASTORECA, JORGE": 10,
+    "GOMEZ CUEVAS, RODRIGO": 11,
+    "GARCIA REVUELTA, SERGIO": 17
+  },
+  "suspendidos": []
+}
