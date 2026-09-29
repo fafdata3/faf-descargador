@@ -1,0 +1,265 @@
+{
+  "acta_id": "B_2008191",
+  "filename": "Acta_B_2008191.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 14,
+  "fecha": "11-01-2025",
+  "hora": "12:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "GAZTELUETA A",
+  "equipo_visitante": "ASTRABUDUAKO A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ZARRABEITIA ARRIETA, ANDER"
+  ],
+  "estadio": "GAZTELUETA",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "MOREDA MARTIN, YAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "MOREDA MARTIN, YAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "MOREDA MARTIN, YAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 46,
+      "jugador": "GARTEIZ-GOGEASCOA ORAA, JORGE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "HERRERIAS BLANCO, JORGE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 73,
+      "jugador": "GIL MAZO, IÑIGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "FANO ESKAURIATZA, IGOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BURON PAREDES, RODRIGO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HERRERIAS BLANCO, JORGE",
+  "delegado_equipo_visitante": "BERAZA UGARTE, JON IMANOL",
+  "titulares_local": [
+    "YERMO ARTIACH, JOSE",
+    "SÁNCHEZ MURGA, LEOPOLDO",
+    "DEL RIO CASTIELLA, NICOLAS",
+    "INFANTE LOPEZ, JUAN",
+    "LOPEZ SANZ, JULEN",
+    "DEL RIO DE LECEA, ELIAS",
+    "LASA IRIGORAS, IÑIGO",
+    "GARTEIZ-GOGEASCOA ORAA, JORGE",
+    "YBARRA ROQUETTE, NICOLAS",
+    "HERVÁS PASCUAL, JAVIER",
+    "FERNANDEZ DE PRADO, GABRIEL"
+  ],
+  "titulares_visitante": [
+    "TERUELO ZUAZO, UNAI",
+    "GIL MAZO, IÑIGO",
+    "CAMPOS MARCOS, ANDEKA",
+    "RILOVA MOCHA, JULEN",
+    "BLANCO GOMEZ, EKAIN",
+    "MOREDA MARTIN, YAGO",
+    "CORNAGO DE LA VEGA, MARTIN",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "ALONSO DE LA QUINTANA, OIER",
+    "IGLESIAS DUEÑAS, ARATZ",
+    "LARRAZABAL SANTISTEBAN, XABI"
+  ],
+  "suplentes_local": [
+    "ZUGAZABEITIA BENGOA, ALVARO",
+    "VÁZQUEZ ZALBIDEA, IGNACIO",
+    "VIDONDO ANGULO, PABLO",
+    "LECANDA LORENZO, MARTIN",
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS"
+  ],
+  "suplentes_visitante": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "MENDEZ RASINES, HODEI",
+    "ALBA AYALA, JUAN DAVID",
+    "AGUIRRE GARCIA, IKER",
+    "JORGE ARRUE, MIKEL",
+    "PEREZ CASTEJON, IKER",
+    "CUARTO DELA ROSA, BENJAMIN EVAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "VÁZQUEZ ZALBIDEA, IGNACIO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "JORGE ARRUE, MIKEL",
+    "CUARTO DELA ROSA, BENJAMIN EVAN"
+  ],
+  "jugadores_local": [
+    "YERMO ARTIACH, JOSE",
+    "SÁNCHEZ MURGA, LEOPOLDO",
+    "DEL RIO CASTIELLA, NICOLAS",
+    "INFANTE LOPEZ, JUAN",
+    "LOPEZ SANZ, JULEN",
+    "DEL RIO DE LECEA, ELIAS",
+    "LASA IRIGORAS, IÑIGO",
+    "GARTEIZ-GOGEASCOA ORAA, JORGE",
+    "YBARRA ROQUETTE, NICOLAS",
+    "HERVÁS PASCUAL, JAVIER",
+    "FERNANDEZ DE PRADO, GABRIEL",
+    "VIDONDO ANGULO, PABLO",
+    "ZUGAZABEITIA BENGOA, ALVARO",
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS",
+    "LECANDA LORENZO, MARTIN"
+  ],
+  "jugadores_visitante": [
+    "TERUELO ZUAZO, UNAI",
+    "GIL MAZO, IÑIGO",
+    "CAMPOS MARCOS, ANDEKA",
+    "RILOVA MOCHA, JULEN",
+    "BLANCO GOMEZ, EKAIN",
+    "MOREDA MARTIN, YAGO",
+    "CORNAGO DE LA VEGA, MARTIN",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "ALONSO DE LA QUINTANA, OIER",
+    "IGLESIAS DUEÑAS, ARATZ",
+    "LARRAZABAL SANTISTEBAN, XABI",
+    "AGUIRRE GARCIA, IKER",
+    "PEREZ CASTEJON, IKER",
+    "ALBA AYALA, JUAN DAVID",
+    "MENDEZ RASINES, HODEI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 15,
+      "entra": "VIDONDO ANGULO, PABLO",
+      "sale": "YBARRA ROQUETTE, NICOLAS"
+    },
+    {
+      "min": 47,
+      "entra": "ZUGAZABEITIA BENGOA, ALVARO",
+      "sale": "FERNANDEZ DE PRADO, GABRIEL"
+    },
+    {
+      "min": 57,
+      "entra": "PRADO AROSTEGUI, FRANCISCO DE ASIS",
+      "sale": "INFANTE LOPEZ, JUAN"
+    },
+    {
+      "min": 57,
+      "entra": "LECANDA LORENZO, MARTIN",
+      "sale": "DEL RIO DE LECEA, ELIAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "AGUIRRE GARCIA, IKER",
+      "sale": "CAMPO GURRUTXAGA, ALAIN"
+    },
+    {
+      "min": 71,
+      "entra": "PEREZ CASTEJON, IKER",
+      "sale": "CORNAGO DE LA VEGA, MARTIN"
+    },
+    {
+      "min": 71,
+      "entra": "ALBA AYALA, JUAN DAVID",
+      "sale": "BLANCO GOMEZ, EKAIN"
+    },
+    {
+      "min": 71,
+      "entra": "MENDEZ RASINES, HODEI",
+      "sale": "ALONSO DE LA QUINTANA, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "YERMO ARTIACH, JOSE": 90,
+    "SÁNCHEZ MURGA, LEOPOLDO": 90,
+    "DEL RIO CASTIELLA, NICOLAS": 90,
+    "INFANTE LOPEZ, JUAN": 57,
+    "LOPEZ SANZ, JULEN": 90,
+    "DEL RIO DE LECEA, ELIAS": 57,
+    "LASA IRIGORAS, IÑIGO": 90,
+    "GARTEIZ-GOGEASCOA ORAA, JORGE": 90,
+    "YBARRA ROQUETTE, NICOLAS": 15,
+    "HERVÁS PASCUAL, JAVIER": 90,
+    "FERNANDEZ DE PRADO, GABRIEL": 47,
+    "VIDONDO ANGULO, PABLO": 75,
+    "ZUGAZABEITIA BENGOA, ALVARO": 43,
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS": 33,
+    "LECANDA LORENZO, MARTIN": 33,
+    "TERUELO ZUAZO, UNAI": 90,
+    "GIL MAZO, IÑIGO": 90,
+    "CAMPOS MARCOS, ANDEKA": 90,
+    "RILOVA MOCHA, JULEN": 90,
+    "BLANCO GOMEZ, EKAIN": 71,
+    "MOREDA MARTIN, YAGO": 90,
+    "CORNAGO DE LA VEGA, MARTIN": 71,
+    "CAMPO GURRUTXAGA, ALAIN": 58,
+    "ALONSO DE LA QUINTANA, OIER": 71,
+    "IGLESIAS DUEÑAS, ARATZ": 90,
+    "LARRAZABAL SANTISTEBAN, XABI": 90,
+    "AGUIRRE GARCIA, IKER": 32,
+    "PEREZ CASTEJON, IKER": 19,
+    "ALBA AYALA, JUAN DAVID": 19,
+    "MENDEZ RASINES, HODEI": 19
+  },
+  "portero_local": "YERMO ARTIACH, JOSE",
+  "portero_visitante": "TERUELO ZUAZO, UNAI",
+  "dorsales_local": {
+    "YERMO ARTIACH, JOSE": 1,
+    "SÁNCHEZ MURGA, LEOPOLDO": 2,
+    "DEL RIO CASTIELLA, NICOLAS": 5,
+    "INFANTE LOPEZ, JUAN": 6,
+    "LOPEZ SANZ, JULEN": 7,
+    "DEL RIO DE LECEA, ELIAS": 8,
+    "LASA IRIGORAS, IÑIGO": 10,
+    "GARTEIZ-GOGEASCOA ORAA, JORGE": 11,
+    "YBARRA ROQUETTE, NICOLAS": 15,
+    "HERVÁS PASCUAL, JAVIER": 22,
+    "FERNANDEZ DE PRADO, GABRIEL": 24
+  },
+  "dorsales_visitante": {
+    "TERUELO ZUAZO, UNAI": 1,
+    "GIL MAZO, IÑIGO": 2,
+    "CAMPOS MARCOS, ANDEKA": 3,
+    "RILOVA MOCHA, JULEN": 5,
+    "BLANCO GOMEZ, EKAIN": 6,
+    "MOREDA MARTIN, YAGO": 9,
+    "CORNAGO DE LA VEGA, MARTIN": 17,
+    "CAMPO GURRUTXAGA, ALAIN": 19,
+    "ALONSO DE LA QUINTANA, OIER": 21,
+    "IGLESIAS DUEÑAS, ARATZ": 23,
+    "LARRAZABAL SANTISTEBAN, XABI": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
