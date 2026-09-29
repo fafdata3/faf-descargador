@@ -1,0 +1,243 @@
+{
+  "acta_id": "B_9981314",
+  "filename": "Acta_B_9981314.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "07-02-2026",
+  "hora": "09:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "LEIOA C",
+  "equipo_visitante": "ITURRIGORRI A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "CRESPO FERNÁNDEZ, ÁLVARO"
+  ],
+  "estadio": "SARRIENA 1",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 36,
+      "jugador": "BARRENECHEA QUERO, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 22,
+      "jugador": "MARTINEZ HORTELANO, IZEI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "SANTISTEBAN VIGO, ARITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "GARATE MARTINEZ, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MORAL ARES, GORKA",
+  "entrenador_visitante": "ARNAIZ SERRADILLA, JOSE IGNACIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "LOPEZ SANTAMARINA, JESUS IGNACIO",
+  "delegado_campo_local": "BARRENECHEA PEREA, ASIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BARRENECHEA PEREA, ASIER",
+  "delegado_equipo_visitante": "OLANO AYARZA, IGOR",
+  "titulares_local": [
+    "ORELLANA YARZA, MARKEL",
+    "ALONSO FERNANDEZ, MARKEL",
+    "DELVAL GONZALEZ, IÑIGO",
+    "MINGO LECUE, ALAIN",
+    "GARCIA CUEVAS, EDER",
+    "PERALLOS URUEÑA, OIER",
+    "CASADO CARMONA, IVÁN",
+    "NEGRETE PIZARRO, PABLO",
+    "FERNANDEZ LERMA, JULEN",
+    "MARTINEZ HORTELANO, IZEI",
+    "NAÑEZ CAMPO, YEISSON"
+  ],
+  "titulares_visitante": [
+    "PANIAGUA RODRIGUEZ, IZAN",
+    "MIJANGOS BARDISA, IBAI",
+    "SANTISTEBAN VIGO, ARITZ",
+    "TORRE GUTIERREZ, ASIER",
+    "HERRAIZ BENITO, JON",
+    "ORTIZ ROSALES, PEIO",
+    "BARRENECHEA QUERO, ANDER",
+    "ZALDO DEL CAMPO, IKER",
+    "GARATE MARTINEZ, ANDER",
+    "LOPEZ MUR, ANDER",
+    "PRESA SEVILLA, ANDER"
+  ],
+  "suplentes_local": [
+    "BARRENECHEA PEREA, JON",
+    "SAN MARTIN INTXAUSTI, ANDER",
+    "LEONARDO ETXEBESTE, JULEN",
+    "GALACHE DIEZ, ANDER",
+    "BOMBIN LLANOS, AINGERU",
+    "CASTRILLO MATEO, IBON"
+  ],
+  "suplentes_visitante": [
+    "GENTO GARCIA, UNAX",
+    "PALOMINO GONZALEZ, JON",
+    "PEREZ HELGUERA, ANDER",
+    "PELLITERO GARRIDO, LUKEN",
+    "ONDARRA ESTEBAN, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "BARRENECHEA PEREA, JON",
+    "GALACHE DIEZ, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GENTO GARCIA, UNAX",
+    "PEREZ HELGUERA, ANDER"
+  ],
+  "jugadores_local": [
+    "ORELLANA YARZA, MARKEL",
+    "ALONSO FERNANDEZ, MARKEL",
+    "DELVAL GONZALEZ, IÑIGO",
+    "MINGO LECUE, ALAIN",
+    "GARCIA CUEVAS, EDER",
+    "PERALLOS URUEÑA, OIER",
+    "CASADO CARMONA, IVÁN",
+    "NEGRETE PIZARRO, PABLO",
+    "FERNANDEZ LERMA, JULEN",
+    "MARTINEZ HORTELANO, IZEI",
+    "NAÑEZ CAMPO, YEISSON",
+    "SAN MARTIN INTXAUSTI, ANDER",
+    "LEONARDO ETXEBESTE, JULEN",
+    "CASTRILLO MATEO, IBON",
+    "BOMBIN LLANOS, AINGERU"
+  ],
+  "jugadores_visitante": [
+    "PANIAGUA RODRIGUEZ, IZAN",
+    "MIJANGOS BARDISA, IBAI",
+    "SANTISTEBAN VIGO, ARITZ",
+    "TORRE GUTIERREZ, ASIER",
+    "HERRAIZ BENITO, JON",
+    "ORTIZ ROSALES, PEIO",
+    "BARRENECHEA QUERO, ANDER",
+    "ZALDO DEL CAMPO, IKER",
+    "GARATE MARTINEZ, ANDER",
+    "LOPEZ MUR, ANDER",
+    "PRESA SEVILLA, ANDER",
+    "PELLITERO GARRIDO, LUKEN",
+    "PALOMINO GONZALEZ, JON",
+    "ONDARRA ESTEBAN, JON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "SAN MARTIN INTXAUSTI, ANDER",
+      "sale": "MARTINEZ HORTELANO, IZEI"
+    },
+    {
+      "min": 57,
+      "entra": "LEONARDO ETXEBESTE, JULEN",
+      "sale": "NEGRETE PIZARRO, PABLO"
+    },
+    {
+      "min": 66,
+      "entra": "CASTRILLO MATEO, IBON",
+      "sale": "NAÑEZ CAMPO, YEISSON"
+    },
+    {
+      "min": 66,
+      "entra": "BOMBIN LLANOS, AINGERU",
+      "sale": "CASADO CARMONA, IVÁN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "PELLITERO GARRIDO, LUKEN",
+      "sale": "ZALDO DEL CAMPO, IKER"
+    },
+    {
+      "min": 54,
+      "entra": "PALOMINO GONZALEZ, JON",
+      "sale": "TORRE GUTIERREZ, ASIER"
+    },
+    {
+      "min": 62,
+      "entra": "ONDARRA ESTEBAN, JON",
+      "sale": "ORTIZ ROSALES, PEIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ORELLANA YARZA, MARKEL": 90,
+    "ALONSO FERNANDEZ, MARKEL": 90,
+    "DELVAL GONZALEZ, IÑIGO": 90,
+    "MINGO LECUE, ALAIN": 90,
+    "GARCIA CUEVAS, EDER": 90,
+    "PERALLOS URUEÑA, OIER": 90,
+    "CASADO CARMONA, IVÁN": 66,
+    "NEGRETE PIZARRO, PABLO": 57,
+    "FERNANDEZ LERMA, JULEN": 90,
+    "MARTINEZ HORTELANO, IZEI": 57,
+    "NAÑEZ CAMPO, YEISSON": 66,
+    "SAN MARTIN INTXAUSTI, ANDER": 33,
+    "LEONARDO ETXEBESTE, JULEN": 33,
+    "CASTRILLO MATEO, IBON": 24,
+    "BOMBIN LLANOS, AINGERU": 24,
+    "PANIAGUA RODRIGUEZ, IZAN": 90,
+    "MIJANGOS BARDISA, IBAI": 90,
+    "SANTISTEBAN VIGO, ARITZ": 90,
+    "TORRE GUTIERREZ, ASIER": 54,
+    "HERRAIZ BENITO, JON": 90,
+    "ORTIZ ROSALES, PEIO": 62,
+    "BARRENECHEA QUERO, ANDER": 90,
+    "ZALDO DEL CAMPO, IKER": 54,
+    "GARATE MARTINEZ, ANDER": 90,
+    "LOPEZ MUR, ANDER": 90,
+    "PRESA SEVILLA, ANDER": 90,
+    "PELLITERO GARRIDO, LUKEN": 36,
+    "PALOMINO GONZALEZ, JON": 36,
+    "ONDARRA ESTEBAN, JON": 28
+  },
+  "portero_local": "ORELLANA YARZA, MARKEL",
+  "portero_visitante": "PANIAGUA RODRIGUEZ, IZAN",
+  "dorsales_local": {
+    "ORELLANA YARZA, MARKEL": 1,
+    "ALONSO FERNANDEZ, MARKEL": 3,
+    "DELVAL GONZALEZ, IÑIGO": 4,
+    "MINGO LECUE, ALAIN": 6,
+    "GARCIA CUEVAS, EDER": 10,
+    "PERALLOS URUEÑA, OIER": 12,
+    "CASADO CARMONA, IVÁN": 14,
+    "NEGRETE PIZARRO, PABLO": 16,
+    "FERNANDEZ LERMA, JULEN": 17,
+    "MARTINEZ HORTELANO, IZEI": 18,
+    "NAÑEZ CAMPO, YEISSON": 23
+  },
+  "dorsales_visitante": {
+    "PANIAGUA RODRIGUEZ, IZAN": 1,
+    "MIJANGOS BARDISA, IBAI": 2,
+    "SANTISTEBAN VIGO, ARITZ": 3,
+    "TORRE GUTIERREZ, ASIER": 5,
+    "HERRAIZ BENITO, JON": 6,
+    "ORTIZ ROSALES, PEIO": 7,
+    "BARRENECHEA QUERO, ANDER": 10,
+    "ZALDO DEL CAMPO, IKER": 11,
+    "GARATE MARTINEZ, ANDER": 14,
+    "LOPEZ MUR, ANDER": 16,
+    "PRESA SEVILLA, ANDER": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
