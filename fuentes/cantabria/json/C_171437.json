@@ -1,0 +1,255 @@
+{
+  "acta_id": "C_171437",
+  "filename": "Acta_C_171437.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 32,
+  "fecha": "18-05-2024",
+  "hora": "19:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D.E. ATCO. MINEROS B",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "COBO TORRES, CRISTIAN"
+  ],
+  "estadio": "Puente San Miguel",
+  "ciudad": "Reocín",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "CABEZA ZARCO, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "RICCIARDIELLO CABRILLANA, HECTOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "BERNARDO BECARES, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 13,
+      "jugador": "BURTAN, DEMIS CONSTANTIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "SAINZ CALDERON, JOSE MIGUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 51,
+      "jugador": "MUÑOZ BARQUIN, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "SALCINES PRIETO, LUIS FELIPE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DIAZ SANCHEZ, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA TAMAYO, CRISTIAN",
+  "delegado_equipo_visitante": "PAÑEDA PORTILLA, JOSE ANGEL",
+  "titulares_local": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "STAN, NICOLAE CRISTIAN",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "GUTIERREZ CUETO, IKER",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "RICCIARDIELLO CABRILLANA, HECTOR",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "MATA SANGUIAO, CARLOS"
+  ],
+  "titulares_visitante": [
+    "GARCIA CRUZ, IKER",
+    "MUÑOZ BARQUIN, DIEGO",
+    "CABEZA ZARCO, DANIEL",
+    "BERNARDO BECARES, MARIO",
+    "ALVAREZ PEREZ, PABLO",
+    "SALCINES ZARCO, IZAN",
+    "SOLANA OCERIN, IVAN",
+    "PAÑEDA BOLADO, FERNANDO",
+    "ARCE ABASCAL, RUBEN",
+    "ANDRES MENA, MARCOS",
+    "POLETAEVI, LUKA"
+  ],
+  "suplentes_local": [
+    "VILLEGAS SAIZ, JAVIER",
+    "SOLARES PICAZO, LUCAS",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "GARCÍA RÁBAGO, SAMUEL",
+    "ARROYO SAIZ, RUBEN"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ PRIETO, ARIAN",
+    "MALDONADO RUIZ, HECTOR",
+    "PEREZ NOVAL, LUCAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "STAN, NICOLAE CRISTIAN",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "GUTIERREZ CUETO, IKER",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "RICCIARDIELLO CABRILLANA, HECTOR",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "MATA SANGUIAO, CARLOS",
+    "GARCÍA RÁBAGO, SAMUEL",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "VILLEGAS SAIZ, JAVIER",
+    "ARROYO SAIZ, RUBEN",
+    "SOLARES PICAZO, LUCAS"
+  ],
+  "jugadores_visitante": [
+    "GARCIA CRUZ, IKER",
+    "MUÑOZ BARQUIN, DIEGO",
+    "CABEZA ZARCO, DANIEL",
+    "BERNARDO BECARES, MARIO",
+    "ALVAREZ PEREZ, PABLO",
+    "SALCINES ZARCO, IZAN",
+    "SOLANA OCERIN, IVAN",
+    "PAÑEDA BOLADO, FERNANDO",
+    "ARCE ABASCAL, RUBEN",
+    "ANDRES MENA, MARCOS",
+    "POLETAEVI, LUKA",
+    "MALDONADO RUIZ, HECTOR",
+    "GONZALEZ PRIETO, ARIAN",
+    "PEREZ NOVAL, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "GARCÍA RÁBAGO, SAMUEL",
+      "sale": "STAN, NICOLAE CRISTIAN"
+    },
+    {
+      "min": 62,
+      "entra": "PEREZ GUTIERREZ, JOSE MANUEL",
+      "sale": "GUTIERREZ CUETO, IKER"
+    },
+    {
+      "min": 62,
+      "entra": "VILLEGAS SAIZ, JAVIER",
+      "sale": "GUTIERREZ REDONDO, MARTIN"
+    },
+    {
+      "min": 66,
+      "entra": "ARROYO SAIZ, RUBEN",
+      "sale": "solar rabadan, DANIEL"
+    },
+    {
+      "min": 70,
+      "entra": "SOLARES PICAZO, LUCAS",
+      "sale": "RICCIARDIELLO CABRILLANA, HECTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "MALDONADO RUIZ, HECTOR",
+      "sale": "POLETAEVI, LUKA"
+    },
+    {
+      "min": 53,
+      "entra": "GONZALEZ PRIETO, ARIAN",
+      "sale": "ANDRES MENA, MARCOS"
+    },
+    {
+      "min": 53,
+      "entra": "PEREZ NOVAL, LUCAS",
+      "sale": "MUÑOZ BARQUIN, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ FERNÁNDEZ, KEVIN": 90,
+    "STAN, NICOLAE CRISTIAN": 60,
+    "GUTIERREZ REDONDO, MARTIN": 62,
+    "solar rabadan, DANIEL": 66,
+    "GUTIERREZ CUETO, IKER": 62,
+    "SAINZ CALDERON, JOSE MIGUEL": 90,
+    "GOMEZ PEÑA, LUCAS": 90,
+    "BURTAN, DEMIS CONSTANTIN": 90,
+    "RICCIARDIELLO CABRILLANA, HECTOR": 70,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 90,
+    "MATA SANGUIAO, CARLOS": 90,
+    "GARCÍA RÁBAGO, SAMUEL": 30,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 28,
+    "VILLEGAS SAIZ, JAVIER": 28,
+    "ARROYO SAIZ, RUBEN": 24,
+    "SOLARES PICAZO, LUCAS": 20,
+    "GARCIA CRUZ, IKER": 90,
+    "MUÑOZ BARQUIN, DIEGO": 53,
+    "CABEZA ZARCO, DANIEL": 90,
+    "BERNARDO BECARES, MARIO": 90,
+    "ALVAREZ PEREZ, PABLO": 90,
+    "SALCINES ZARCO, IZAN": 90,
+    "SOLANA OCERIN, IVAN": 90,
+    "PAÑEDA BOLADO, FERNANDO": 90,
+    "ARCE ABASCAL, RUBEN": 90,
+    "ANDRES MENA, MARCOS": 53,
+    "POLETAEVI, LUKA": 40,
+    "MALDONADO RUIZ, HECTOR": 50,
+    "GONZALEZ PRIETO, ARIAN": 37,
+    "PEREZ NOVAL, LUCAS": 37
+  },
+  "portero_local": "RUIZ FERNÁNDEZ, KEVIN",
+  "portero_visitante": "GARCIA CRUZ, IKER",
+  "dorsales_local": {
+    "RUIZ FERNÁNDEZ, KEVIN": 1,
+    "STAN, NICOLAE CRISTIAN": 2,
+    "GUTIERREZ REDONDO, MARTIN": 7,
+    "solar rabadan, DANIEL": 8,
+    "GUTIERREZ CUETO, IKER": 9,
+    "SAINZ CALDERON, JOSE MIGUEL": 10,
+    "GOMEZ PEÑA, LUCAS": 12,
+    "BURTAN, DEMIS CONSTANTIN": 14,
+    "RICCIARDIELLO CABRILLANA, HECTOR": 15,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 18,
+    "MATA SANGUIAO, CARLOS": 20
+  },
+  "dorsales_visitante": {
+    "GARCIA CRUZ, IKER": 1,
+    "MUÑOZ BARQUIN, DIEGO": 2,
+    "CABEZA ZARCO, DANIEL": 3,
+    "BERNARDO BECARES, MARIO": 4,
+    "ALVAREZ PEREZ, PABLO": 6,
+    "SALCINES ZARCO, IZAN": 8,
+    "SOLANA OCERIN, IVAN": 9,
+    "PAÑEDA BOLADO, FERNANDO": 11,
+    "ARCE ABASCAL, RUBEN": 12,
+    "ANDRES MENA, MARCOS": 16,
+    "POLETAEVI, LUKA": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
