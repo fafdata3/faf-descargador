@@ -1,0 +1,274 @@
+{
+  "acta_id": "B_9981267",
+  "filename": "Acta_B_9981267.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 12,
+  "fecha": "20-12-2025",
+  "hora": "17:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "MSC BUTROE A",
+  "equipo_visitante": "ITZUBALTZETA",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ESTEBAN LÓPEZ, ENDIKA"
+  ],
+  "estadio": "ASTIENE",
+  "ciudad": "Mungia",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "NOCEDAL ARECHAVALA, AITOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 5,
+      "jugador": "ELORRIAGA CARLOS, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "YANES INORIZA, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 22,
+      "jugador": "ITURRIZAGA ALONSO, KOLDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 12,
+      "jugador": "ELORRIAGA CARLOS, OIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "PALOMO GOMILA, ENDIKA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "BEITIA ASLA, AXULAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ELORRIAGA SOBRON, JON",
+  "entrenador_visitante": "BARRENETXEA ATXURRA, IÑIGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "MARROQUIN LEON, MIKEL",
+  "delegado_campo_local": "ESCONDRILLAS SOLERA, JON KOLDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ESCONDRILLAS SOLERA, JON KOLDO",
+  "delegado_equipo_visitante": "GOMEZ GARRIDO, JON",
+  "titulares_local": [
+    "LEGARRETA BILBAO, ENEKO",
+    "MUÑIZ ITURBE-ORMAETXE, PERU",
+    "ELORRIAGA CARLOS, OIER",
+    "PALOMO GOMILA, ENDIKA",
+    "BEITIA ASLA, AXULAR",
+    "BARBOSA BILBAO, LIER",
+    "ELORDUY ARTECHE, TELMO",
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON",
+    "MENTXAKA HORMAETXE, MIKEL",
+    "ZUGAZAGA BARCOS, DEI",
+    "EGUIÑO ARRIETA, UNAI"
+  ],
+  "titulares_visitante": [
+    "MENDEZ ROSALES, JUAN PABLO",
+    "PUERTAS BULNES, EDER",
+    "ABADIN SALOMON, IKER",
+    "VIVANCO MIGUEL, EDER",
+    "ARANAGA SANCHEZ, UNAI",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "ODRIOZOLA SANCHEZ, JON",
+    "YANES INORIZA, JON",
+    "NOCEDAL ARECHAVALA, AITOR",
+    "MARTINEZ RODRIGUEZ, ANDER",
+    "KRIDA GOMEZ, RAYAN"
+  ],
+  "suplentes_local": [
+    "LEKERIKA MENDIA, IÑIGO",
+    "GEZURAGA MARDARAS, INAR",
+    "CORDOBA LADINO, EMMANUEL",
+    "IBAÑEZ PEREZ, ANDER"
+  ],
+  "suplentes_visitante": [
+    "EXTREMO RUIZ, BEÑAT",
+    "JAKA ZABALA, JULEN",
+    "ORMAZABAL SOMALO, MIGUEL",
+    "URQUIZA CORDERO, BEÑAT",
+    "INÉS FERNÁNDEZ, GORKA",
+    "FERNANDEZ MAS, PEDRO",
+    "IGLESIAS SADA, BEÑAT"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "EXTREMO RUIZ, BEÑAT",
+    "JAKA ZABALA, JULEN"
+  ],
+  "jugadores_local": [
+    "LEGARRETA BILBAO, ENEKO",
+    "MUÑIZ ITURBE-ORMAETXE, PERU",
+    "ELORRIAGA CARLOS, OIER",
+    "PALOMO GOMILA, ENDIKA",
+    "BEITIA ASLA, AXULAR",
+    "BARBOSA BILBAO, LIER",
+    "ELORDUY ARTECHE, TELMO",
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON",
+    "MENTXAKA HORMAETXE, MIKEL",
+    "ZUGAZAGA BARCOS, DEI",
+    "EGUIÑO ARRIETA, UNAI",
+    "CORDOBA LADINO, EMMANUEL",
+    "LEKERIKA MENDIA, IÑIGO",
+    "IBAÑEZ PEREZ, ANDER",
+    "GEZURAGA MARDARAS, INAR"
+  ],
+  "jugadores_visitante": [
+    "MENDEZ ROSALES, JUAN PABLO",
+    "PUERTAS BULNES, EDER",
+    "ABADIN SALOMON, IKER",
+    "VIVANCO MIGUEL, EDER",
+    "ARANAGA SANCHEZ, UNAI",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "ODRIOZOLA SANCHEZ, JON",
+    "YANES INORIZA, JON",
+    "NOCEDAL ARECHAVALA, AITOR",
+    "MARTINEZ RODRIGUEZ, ANDER",
+    "KRIDA GOMEZ, RAYAN",
+    "URQUIZA CORDERO, BEÑAT",
+    "IGLESIAS SADA, BEÑAT",
+    "ORMAZABAL SOMALO, MIGUEL",
+    "INÉS FERNÁNDEZ, GORKA",
+    "FERNANDEZ MAS, PEDRO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "CORDOBA LADINO, EMMANUEL",
+      "sale": "BEITIA ASLA, AXULAR"
+    },
+    {
+      "min": 54,
+      "entra": "LEKERIKA MENDIA, IÑIGO",
+      "sale": "PALOMO GOMILA, ENDIKA"
+    },
+    {
+      "min": 56,
+      "entra": "IBAÑEZ PEREZ, ANDER",
+      "sale": "ZUGAZAGA BARCOS, DEI"
+    },
+    {
+      "min": 58,
+      "entra": "GEZURAGA MARDARAS, INAR",
+      "sale": "MUÑIZ ITURBE-ORMAETXE, PERU"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "URQUIZA CORDERO, BEÑAT",
+      "sale": "YANES INORIZA, JON"
+    },
+    {
+      "min": 58,
+      "entra": "IGLESIAS SADA, BEÑAT",
+      "sale": "ITURRIZAGA ALONSO, KOLDO"
+    },
+    {
+      "min": 66,
+      "entra": "ORMAZABAL SOMALO, MIGUEL",
+      "sale": "KRIDA GOMEZ, RAYAN"
+    },
+    {
+      "min": 66,
+      "entra": "INÉS FERNÁNDEZ, GORKA",
+      "sale": "PUERTAS BULNES, EDER"
+    },
+    {
+      "min": 71,
+      "entra": "FERNANDEZ MAS, PEDRO",
+      "sale": "NOCEDAL ARECHAVALA, AITOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "LEGARRETA BILBAO, ENEKO": 90,
+    "MUÑIZ ITURBE-ORMAETXE, PERU": 58,
+    "ELORRIAGA CARLOS, OIER": 90,
+    "PALOMO GOMILA, ENDIKA": 54,
+    "BEITIA ASLA, AXULAR": 54,
+    "BARBOSA BILBAO, LIER": 90,
+    "ELORDUY ARTECHE, TELMO": 90,
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON": 90,
+    "MENTXAKA HORMAETXE, MIKEL": 90,
+    "ZUGAZAGA BARCOS, DEI": 56,
+    "EGUIÑO ARRIETA, UNAI": 90,
+    "CORDOBA LADINO, EMMANUEL": 36,
+    "LEKERIKA MENDIA, IÑIGO": 36,
+    "IBAÑEZ PEREZ, ANDER": 34,
+    "GEZURAGA MARDARAS, INAR": 32,
+    "MENDEZ ROSALES, JUAN PABLO": 90,
+    "PUERTAS BULNES, EDER": 66,
+    "ABADIN SALOMON, IKER": 90,
+    "VIVANCO MIGUEL, EDER": 90,
+    "ARANAGA SANCHEZ, UNAI": 90,
+    "ITURRIZAGA ALONSO, KOLDO": 58,
+    "ODRIOZOLA SANCHEZ, JON": 90,
+    "YANES INORIZA, JON": 54,
+    "NOCEDAL ARECHAVALA, AITOR": 71,
+    "MARTINEZ RODRIGUEZ, ANDER": 90,
+    "KRIDA GOMEZ, RAYAN": 66,
+    "URQUIZA CORDERO, BEÑAT": 36,
+    "IGLESIAS SADA, BEÑAT": 32,
+    "ORMAZABAL SOMALO, MIGUEL": 24,
+    "INÉS FERNÁNDEZ, GORKA": 24,
+    "FERNANDEZ MAS, PEDRO": 19
+  },
+  "portero_local": "LEGARRETA BILBAO, ENEKO",
+  "portero_visitante": "MENDEZ ROSALES, JUAN PABLO",
+  "dorsales_local": {
+    "LEGARRETA BILBAO, ENEKO": 13,
+    "MUÑIZ ITURBE-ORMAETXE, PERU": 3,
+    "ELORRIAGA CARLOS, OIER": 4,
+    "PALOMO GOMILA, ENDIKA": 5,
+    "BEITIA ASLA, AXULAR": 7,
+    "BARBOSA BILBAO, LIER": 9,
+    "ELORDUY ARTECHE, TELMO": 10,
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON": 12,
+    "MENTXAKA HORMAETXE, MIKEL": 14,
+    "ZUGAZAGA BARCOS, DEI": 20,
+    "EGUIÑO ARRIETA, UNAI": 21
+  },
+  "dorsales_visitante": {
+    "MENDEZ ROSALES, JUAN PABLO": 1,
+    "PUERTAS BULNES, EDER": 5,
+    "ABADIN SALOMON, IKER": 6,
+    "VIVANCO MIGUEL, EDER": 7,
+    "ARANAGA SANCHEZ, UNAI": 8,
+    "ITURRIZAGA ALONSO, KOLDO": 11,
+    "ODRIOZOLA SANCHEZ, JON": 16,
+    "YANES INORIZA, JON": 18,
+    "NOCEDAL ARECHAVALA, AITOR": 20,
+    "MARTINEZ RODRIGUEZ, ANDER": 21,
+    "KRIDA GOMEZ, RAYAN": 22
+  },
+  "suspendidos": []
+}
