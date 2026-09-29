@@ -1,0 +1,263 @@
+{
+  "acta_id": "C_171450",
+  "filename": "Acta_C_171450.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 33,
+  "fecha": "26-05-2024",
+  "hora": "11:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "E.D.M. VILLAESCUSA A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE B",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CANALES FRANCO, IVÁN"
+  ],
+  "estadio": "Villaescusa",
+  "ciudad": "Villaescusa",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "SOMOHANO TAMAYO, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 13,
+      "jugador": "RENEDO COSIO, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "BAHILLO HERRERIAS, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 87,
+      "jugador": "FERNÁNDEZ VICENTE, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 26,
+      "jugador": "ALVAREZ LOPEZ, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "COBO MARTINEZ, KELLYAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JERRU SOROA, ALVARO",
+  "entrenador_visitante": "PALAZUELOS TRUEBA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GONZALEZ ARENAL, PEDRO",
+  "delegado_campo_local": "GONZALEZ SARABIA, CARLOS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GONZALEZ SARABIA, CARLOS",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "CRIADO PEÑA, RODRIGO",
+    "CIANCA LIAÑO, RODRIGO",
+    "PEREZ GARCIA, ALEJANDRO",
+    "SANTIAGO RASILLA, IVAN",
+    "COSTA CATALINA, JUAN JOSE",
+    "ALVAREZ LOPEZ, DANIEL",
+    "PRATS TORRE, MARIO",
+    "BENITEZ SOBREMAZAS, NICOLAS",
+    "ARCE CANO, DIEGO",
+    "maillo haya, PABLO",
+    "RUIZ CUMBRADOS, GUILLERMO"
+  ],
+  "titulares_visitante": [
+    "RUIZ SANTOS, AITOR",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "PERNÍA FERNÁNDEZ, MARCO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "SAEZ PEREZ, LUCAS",
+    "DAHHAOUI RACHID, YAKOUB",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "GOMEZ NUÑEZ, IKER",
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "suplentes_local": [
+    "VIADERO GARCIA, LUCAS",
+    "BAHILLO HERRERIAS, DANIEL",
+    "MARTIN SOLORZANO, DANIEL",
+    "AJA SORIANO, PEDRO",
+    "diego herrero, rodrigo"
+  ],
+  "suplentes_visitante": [
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "BARRIO OBREGON, IZAN",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CRIADO PEÑA, RODRIGO",
+    "CIANCA LIAÑO, RODRIGO",
+    "PEREZ GARCIA, ALEJANDRO",
+    "SANTIAGO RASILLA, IVAN",
+    "COSTA CATALINA, JUAN JOSE",
+    "ALVAREZ LOPEZ, DANIEL",
+    "PRATS TORRE, MARIO",
+    "BENITEZ SOBREMAZAS, NICOLAS",
+    "ARCE CANO, DIEGO",
+    "maillo haya, PABLO",
+    "RUIZ CUMBRADOS, GUILLERMO",
+    "diego herrero, rodrigo",
+    "BAHILLO HERRERIAS, DANIEL",
+    "VIADERO GARCIA, LUCAS",
+    "MARTIN SOLORZANO, DANIEL",
+    "AJA SORIANO, PEDRO"
+  ],
+  "jugadores_visitante": [
+    "RUIZ SANTOS, AITOR",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "PERNÍA FERNÁNDEZ, MARCO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "SAEZ PEREZ, LUCAS",
+    "DAHHAOUI RACHID, YAKOUB",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "GOMEZ NUÑEZ, IKER",
+    "COBO MARTINEZ, KELLYAN",
+    "GOMEZ BOLADO, MIGUEL",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "PERNIA RODRIGUEZ, JOEL",
+    "BARRIO OBREGON, IZAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "diego herrero, rodrigo",
+      "sale": "ARCE CANO, DIEGO"
+    },
+    {
+      "min": 52,
+      "entra": "BAHILLO HERRERIAS, DANIEL",
+      "sale": "COSTA CATALINA, JUAN JOSE"
+    },
+    {
+      "min": 66,
+      "entra": "VIADERO GARCIA, LUCAS",
+      "sale": "CIANCA LIAÑO, RODRIGO"
+    },
+    {
+      "min": 82,
+      "entra": "MARTIN SOLORZANO, DANIEL",
+      "sale": "PEREZ GARCIA, ALEJANDRO"
+    },
+    {
+      "min": 82,
+      "entra": "AJA SORIANO, PEDRO",
+      "sale": "maillo haya, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GOMEZ BOLADO, MIGUEL",
+      "sale": "SOMOHANO TAMAYO, PABLO"
+    },
+    {
+      "min": 58,
+      "entra": "CUADRADO PEREZ RUBIN, MATEO",
+      "sale": "PERNÍA FERNÁNDEZ, MARCO"
+    },
+    {
+      "min": 63,
+      "entra": "PERNIA RODRIGUEZ, JOEL",
+      "sale": "MOURA REVUELTA, ROMEO"
+    },
+    {
+      "min": 63,
+      "entra": "BARRIO OBREGON, IZAN",
+      "sale": "SAEZ PEREZ, LUCAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "CRIADO PEÑA, RODRIGO": 90,
+    "CIANCA LIAÑO, RODRIGO": 66,
+    "PEREZ GARCIA, ALEJANDRO": 82,
+    "SANTIAGO RASILLA, IVAN": 90,
+    "COSTA CATALINA, JUAN JOSE": 52,
+    "ALVAREZ LOPEZ, DANIEL": 90,
+    "PRATS TORRE, MARIO": 90,
+    "BENITEZ SOBREMAZAS, NICOLAS": 90,
+    "ARCE CANO, DIEGO": 40,
+    "maillo haya, PABLO": 82,
+    "RUIZ CUMBRADOS, GUILLERMO": 90,
+    "diego herrero, rodrigo": 50,
+    "BAHILLO HERRERIAS, DANIEL": 38,
+    "VIADERO GARCIA, LUCAS": 24,
+    "MARTIN SOLORZANO, DANIEL": 8,
+    "AJA SORIANO, PEDRO": 8,
+    "RUIZ SANTOS, AITOR": 90,
+    "ALONSO Melo, Ruben": 90,
+    "SOMOHANO TAMAYO, PABLO": 40,
+    "PERNÍA FERNÁNDEZ, MARCO": 58,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 90,
+    "SAEZ PEREZ, LUCAS": 63,
+    "DAHHAOUI RACHID, YAKOUB": 90,
+    "RENEDO COSIO, DIEGO": 90,
+    "MOURA REVUELTA, ROMEO": 63,
+    "GOMEZ NUÑEZ, IKER": 90,
+    "COBO MARTINEZ, KELLYAN": 90,
+    "GOMEZ BOLADO, MIGUEL": 50,
+    "CUADRADO PEREZ RUBIN, MATEO": 32,
+    "PERNIA RODRIGUEZ, JOEL": 27,
+    "BARRIO OBREGON, IZAN": 27
+  },
+  "portero_local": "CRIADO PEÑA, RODRIGO",
+  "portero_visitante": "RUIZ SANTOS, AITOR",
+  "dorsales_local": {
+    "CRIADO PEÑA, RODRIGO": 13,
+    "CIANCA LIAÑO, RODRIGO": 2,
+    "PEREZ GARCIA, ALEJANDRO": 4,
+    "SANTIAGO RASILLA, IVAN": 5,
+    "COSTA CATALINA, JUAN JOSE": 6,
+    "ALVAREZ LOPEZ, DANIEL": 7,
+    "PRATS TORRE, MARIO": 8,
+    "BENITEZ SOBREMAZAS, NICOLAS": 10,
+    "ARCE CANO, DIEGO": 11,
+    "maillo haya, PABLO": 15,
+    "RUIZ CUMBRADOS, GUILLERMO": 16
+  },
+  "dorsales_visitante": {
+    "RUIZ SANTOS, AITOR": 1,
+    "ALONSO Melo, Ruben": 3,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "PERNÍA FERNÁNDEZ, MARCO": 5,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "SAEZ PEREZ, LUCAS": 8,
+    "DAHHAOUI RACHID, YAKOUB": 15,
+    "RENEDO COSIO, DIEGO": 18,
+    "MOURA REVUELTA, ROMEO": 20,
+    "GOMEZ NUÑEZ, IKER": 21,
+    "COBO MARTINEZ, KELLYAN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
