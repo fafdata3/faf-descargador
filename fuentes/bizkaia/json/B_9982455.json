@@ -1,0 +1,266 @@
+{
+  "acta_id": "B_9982455",
+  "filename": "Acta_B_9982455.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "25-01-2026",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "IBARREKO A",
+  "equipo_visitante": "ETXEBARRI A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "QUINTANILLA URIONABARRENECHEA, IBON"
+  ],
+  "estadio": "P.M. SAN IGNACIO",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 54,
+      "jugador": "ESPAÑA RAMOS, NIKOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "PEREZ GOMEZ, LIHER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 73,
+      "jugador": "LARRAURI LETE, KOLDOBIKA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "DE LA FUENTE GARCIA, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "PAREDES PANIAGUA, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "RENTERIA BLANCO, IZEI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZALEZ GARCIA, LUIS",
+  "entrenador_visitante": "MARTINEZ BALSERA, ERLAITZ",
+  "segundo_entrenador_local": "GUERRA TUDELA, EÑAUT",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LOPEZ HERRERO, ROBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ HERRERO, ROBERTO",
+  "delegado_equipo_visitante": "CID HOMPANERA, ALEX",
+  "titulares_local": [
+    "ATELA DIEZ, EÑAUT",
+    "CONDE ZORROZUA, ERIK",
+    "QASEMI HAIDARY, ABUL FAZL",
+    "FERNANDEZ CORTES, NEO",
+    "PEREZ GOMEZ, LIHER",
+    "GOYARZUN GONZÁLEZ, URTZI",
+    "LARRAURI LETE, KOLDOBIKA",
+    "FERNANDEZ SAINZ, MARTIN",
+    "PÉREZ ALONSO, ALAIN",
+    "SEGURA PUENTE, OIER",
+    "ESCURZA VALVERDE, ALAIN"
+  ],
+  "titulares_visitante": [
+    "ANTOLIN HERRAEZ, ION",
+    "ARELLANO CERROS, ANDER",
+    "SACRISTAN MARTIN, GABRIEL",
+    "LAIZ JIMENO, JON",
+    "PAREDES PANIAGUA, MARKEL",
+    "RENTERIA BLANCO, IZEI",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ARTOLA BROCH, UNAI",
+    "MURUA SERNA, JULEN",
+    "MEDEL MOLINERO, SAÚL",
+    "DE LA FUENTE GARCIA, MARKEL"
+  ],
+  "suplentes_local": [
+    "CORDOBA AGUIRRE, JORGE",
+    "ATXA ZEBERIO, DANIEL",
+    "GONZALEZ VERA, SEBASTIAN ALONZO",
+    "LOPEZ ORTEGA, OIER",
+    "ESCAMILLA GARCIA, ANDER",
+    "ULIARTE BASARTE, MARKEL",
+    "GOMEZ ETXEBARRIA, ALAIN"
+  ],
+  "suplentes_visitante": [
+    "HIGUERO URIBE, LIER",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "ALONSO VERGARA, MARKEL",
+    "DEL TESO CANDIL, MARKEL",
+    "HERNANDEZ BRAZO, ARETX"
+  ],
+  "convocados_sin_jugar_local": [
+    "CORDOBA AGUIRRE, JORGE",
+    "ULIARTE BASARTE, MARKEL",
+    "GOMEZ ETXEBARRIA, ALAIN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALONSO VERGARA, MARKEL",
+    "DEL TESO CANDIL, MARKEL"
+  ],
+  "jugadores_local": [
+    "ATELA DIEZ, EÑAUT",
+    "CONDE ZORROZUA, ERIK",
+    "QASEMI HAIDARY, ABUL FAZL",
+    "FERNANDEZ CORTES, NEO",
+    "PEREZ GOMEZ, LIHER",
+    "GOYARZUN GONZÁLEZ, URTZI",
+    "LARRAURI LETE, KOLDOBIKA",
+    "FERNANDEZ SAINZ, MARTIN",
+    "PÉREZ ALONSO, ALAIN",
+    "SEGURA PUENTE, OIER",
+    "ESCURZA VALVERDE, ALAIN",
+    "GONZALEZ VERA, SEBASTIAN ALONZO",
+    "LOPEZ ORTEGA, OIER",
+    "ESCAMILLA GARCIA, ANDER",
+    "ATXA ZEBERIO, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "ANTOLIN HERRAEZ, ION",
+    "ARELLANO CERROS, ANDER",
+    "SACRISTAN MARTIN, GABRIEL",
+    "LAIZ JIMENO, JON",
+    "PAREDES PANIAGUA, MARKEL",
+    "RENTERIA BLANCO, IZEI",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ARTOLA BROCH, UNAI",
+    "MURUA SERNA, JULEN",
+    "MEDEL MOLINERO, SAÚL",
+    "DE LA FUENTE GARCIA, MARKEL",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "HERNANDEZ BRAZO, ARETX",
+    "HIGUERO URIBE, LIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "GONZALEZ VERA, SEBASTIAN ALONZO",
+      "sale": "PÉREZ ALONSO, ALAIN"
+    },
+    {
+      "min": 61,
+      "entra": "LOPEZ ORTEGA, OIER",
+      "sale": "FERNANDEZ CORTES, NEO"
+    },
+    {
+      "min": 78,
+      "entra": "ESCAMILLA GARCIA, ANDER",
+      "sale": "ESCURZA VALVERDE, ALAIN"
+    },
+    {
+      "min": 78,
+      "entra": "ATXA ZEBERIO, DANIEL",
+      "sale": "LARRAURI LETE, KOLDOBIKA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "ESPAÑA RAMOS, NIKOLAS",
+      "sale": "LAIZ JIMENO, JON"
+    },
+    {
+      "min": 41,
+      "entra": "HERNANDEZ SANTISTEBAN, OIER",
+      "sale": "DE LA FUENTE GARCIA, MARKEL"
+    },
+    {
+      "min": 62,
+      "entra": "HERNANDEZ BRAZO, ARETX",
+      "sale": "MEDEL MOLINERO, SAÚL"
+    },
+    {
+      "min": 62,
+      "entra": "HIGUERO URIBE, LIER",
+      "sale": "MURUA SERNA, JULEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ATELA DIEZ, EÑAUT": 90,
+    "CONDE ZORROZUA, ERIK": 90,
+    "QASEMI HAIDARY, ABUL FAZL": 90,
+    "FERNANDEZ CORTES, NEO": 61,
+    "PEREZ GOMEZ, LIHER": 90,
+    "GOYARZUN GONZÁLEZ, URTZI": 90,
+    "LARRAURI LETE, KOLDOBIKA": 78,
+    "FERNANDEZ SAINZ, MARTIN": 90,
+    "PÉREZ ALONSO, ALAIN": 50,
+    "SEGURA PUENTE, OIER": 90,
+    "ESCURZA VALVERDE, ALAIN": 78,
+    "GONZALEZ VERA, SEBASTIAN ALONZO": 40,
+    "LOPEZ ORTEGA, OIER": 29,
+    "ESCAMILLA GARCIA, ANDER": 12,
+    "ATXA ZEBERIO, DANIEL": 12,
+    "ANTOLIN HERRAEZ, ION": 90,
+    "ARELLANO CERROS, ANDER": 90,
+    "SACRISTAN MARTIN, GABRIEL": 90,
+    "LAIZ JIMENO, JON": 41,
+    "PAREDES PANIAGUA, MARKEL": 90,
+    "RENTERIA BLANCO, IZEI": 90,
+    "FERNANDEZ PAÑOS, AIMAR": 90,
+    "ARTOLA BROCH, UNAI": 90,
+    "MURUA SERNA, JULEN": 62,
+    "MEDEL MOLINERO, SAÚL": 62,
+    "DE LA FUENTE GARCIA, MARKEL": 41,
+    "ESPAÑA RAMOS, NIKOLAS": 49,
+    "HERNANDEZ SANTISTEBAN, OIER": 49,
+    "HERNANDEZ BRAZO, ARETX": 28,
+    "HIGUERO URIBE, LIER": 28
+  },
+  "portero_local": "ATELA DIEZ, EÑAUT",
+  "portero_visitante": "ANTOLIN HERRAEZ, ION",
+  "dorsales_local": {
+    "ATELA DIEZ, EÑAUT": 1,
+    "CONDE ZORROZUA, ERIK": 5,
+    "QASEMI HAIDARY, ABUL FAZL": 6,
+    "FERNANDEZ CORTES, NEO": 10,
+    "PEREZ GOMEZ, LIHER": 11,
+    "GOYARZUN GONZÁLEZ, URTZI": 12,
+    "LARRAURI LETE, KOLDOBIKA": 20,
+    "FERNANDEZ SAINZ, MARTIN": 21,
+    "PÉREZ ALONSO, ALAIN": 22,
+    "SEGURA PUENTE, OIER": 23,
+    "ESCURZA VALVERDE, ALAIN": 25
+  },
+  "dorsales_visitante": {
+    "ANTOLIN HERRAEZ, ION": 1,
+    "ARELLANO CERROS, ANDER": 2,
+    "SACRISTAN MARTIN, GABRIEL": 3,
+    "LAIZ JIMENO, JON": 5,
+    "PAREDES PANIAGUA, MARKEL": 7,
+    "RENTERIA BLANCO, IZEI": 8,
+    "FERNANDEZ PAÑOS, AIMAR": 10,
+    "ARTOLA BROCH, UNAI": 15,
+    "MURUA SERNA, JULEN": 16,
+    "MEDEL MOLINERO, SAÚL": 17,
+    "DE LA FUENTE GARCIA, MARKEL": 20
+  },
+  "suspendidos": []
+}
