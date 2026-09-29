@@ -1,0 +1,281 @@
+{
+  "acta_id": "G_9990428",
+  "filename": "Acta_G_9990428.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 26,
+  "fecha": "25-04-2026",
+  "hora": "11:45",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "TRINTXERPE C.D.",
+  "equipo_visitante": "MARIÑO C.D.",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "GUERRA VILLANUEVA, MARKEL"
+  ],
+  "estadio": "TRINTXER",
+  "ciudad": "Pasaia",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "IRAZUSTA TORRES, JULEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "CANO TEMEZ, JULEN UGAITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 71,
+      "jugador": "UGARTE MANSO, ALAIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "UGARTE MANSO, ALAIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "CARDENAS ESCOBAR, DREYMAN SANTIAGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "ORTEZ JIMENEZ, JATNIEL NOE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PICAMILLS LOPEZ, HARITZ",
+  "entrenador_visitante": "NUÑEZ ARNES, JAVIER",
+  "segundo_entrenador_local": "PIÑAIRA SETIEN, IKER",
+  "segundo_entrenador_visitante": "SANCHEZ RODRIGUEZ, RUBEN",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARANBURU RODRIGUEZ, JOSE L",
+  "delegado_equipo_visitante": "ALVAREZ SERRANO, CHRISTIAN",
+  "titulares_local": [
+    "AGÜERO DE APELLANIZ, NAHUEL MAURICIO",
+    "PASCUAL AGUIRREZABALA, VALENTIN",
+    "TORRES ETXARRI, UNAX",
+    "VARELA IZAGUIRRE, IRAITZ",
+    "MATEO VIDAURRETA, BEÑAT",
+    "MARTINEZ FERNANDEZ, ARIAN UNAI",
+    "IRAZUSTA TORRES, JULEN",
+    "VAZQUEZ POYALES, MIKEL",
+    "GARCIA GONZALEZ, OIER",
+    "LEANDRO VELUZ, IKER",
+    "LOPEZ RODRIGUEZ, MARKEL"
+  ],
+  "titulares_visitante": [
+    "EIZAGUIRRE MARTINEZ, PABLO",
+    "AGUILAR BRIONES, EÑAUT",
+    "TXAPARTEGI GALVANY, MATTIN",
+    "ERAUSQUIN SEVILLA, PABLO",
+    "BLANCO DOMINGUEZ, GONZALO",
+    "MARIÑO NAVA, MARKEL",
+    "GARCIA HERNANDEZ, UNAI",
+    "ORDÓÑEZ MARTÍNEZ, AGER",
+    "CARDENAS ESCOBAR, DREYMAN SANTIAGO",
+    "NOGUES PEREZ, MARKEL",
+    "UGARTE MANSO, ALAIN"
+  ],
+  "suplentes_local": [
+    "MARCOS CORTES, ADAY",
+    "MARAÑA TAMAYO, GORKA",
+    "GOMEZ ORDOÑEZ, LUCAS",
+    "TORRES COUSO, PEIO",
+    "LOVERA YUSTI, RAMSES ALEJANDRO",
+    "GARCIA MEZU, SAMI ESNEIDER",
+    "POSTIGO ALZUGARAY, JURGI"
+  ],
+  "suplentes_visitante": [
+    "AZCUNE ZUAZO, JON IÑAKI",
+    "HERNANDEZ CIPITRIA, AMETS",
+    "CANO TEMEZ, JULEN UGAITZ",
+    "ORTEZ JIMENEZ, JATNIEL NOE",
+    "GONZALEZ BLANCO, JON",
+    "GONZÁLEZ VALLADARES, MARKEL",
+    "NUÑEZ MANGAS, CARLOS"
+  ],
+  "convocados_sin_jugar_local": [
+    "GOMEZ ORDOÑEZ, LUCAS",
+    "TORRES COUSO, PEIO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "AZCUNE ZUAZO, JON IÑAKI",
+    "NUÑEZ MANGAS, CARLOS"
+  ],
+  "jugadores_local": [
+    "AGÜERO DE APELLANIZ, NAHUEL MAURICIO",
+    "PASCUAL AGUIRREZABALA, VALENTIN",
+    "TORRES ETXARRI, UNAX",
+    "VARELA IZAGUIRRE, IRAITZ",
+    "MATEO VIDAURRETA, BEÑAT",
+    "MARTINEZ FERNANDEZ, ARIAN UNAI",
+    "IRAZUSTA TORRES, JULEN",
+    "VAZQUEZ POYALES, MIKEL",
+    "GARCIA GONZALEZ, OIER",
+    "LEANDRO VELUZ, IKER",
+    "LOPEZ RODRIGUEZ, MARKEL",
+    "LOVERA YUSTI, RAMSES ALEJANDRO",
+    "GARCIA MEZU, SAMI ESNEIDER",
+    "MARCOS CORTES, ADAY",
+    "MARAÑA TAMAYO, GORKA",
+    "POSTIGO ALZUGARAY, JURGI"
+  ],
+  "jugadores_visitante": [
+    "EIZAGUIRRE MARTINEZ, PABLO",
+    "AGUILAR BRIONES, EÑAUT",
+    "TXAPARTEGI GALVANY, MATTIN",
+    "ERAUSQUIN SEVILLA, PABLO",
+    "BLANCO DOMINGUEZ, GONZALO",
+    "MARIÑO NAVA, MARKEL",
+    "GARCIA HERNANDEZ, UNAI",
+    "ORDÓÑEZ MARTÍNEZ, AGER",
+    "CARDENAS ESCOBAR, DREYMAN SANTIAGO",
+    "NOGUES PEREZ, MARKEL",
+    "UGARTE MANSO, ALAIN",
+    "HERNANDEZ CIPITRIA, AMETS",
+    "ORTEZ JIMENEZ, JATNIEL NOE",
+    "GONZÁLEZ VALLADARES, MARKEL",
+    "GONZALEZ BLANCO, JON",
+    "CANO TEMEZ, JULEN UGAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "LOVERA YUSTI, RAMSES ALEJANDRO",
+      "sale": "IRAZUSTA TORRES, JULEN"
+    },
+    {
+      "min": 64,
+      "entra": "GARCIA MEZU, SAMI ESNEIDER",
+      "sale": "TORRES ETXARRI, UNAX"
+    },
+    {
+      "min": 71,
+      "entra": "MARCOS CORTES, ADAY",
+      "sale": "LOPEZ RODRIGUEZ, MARKEL"
+    },
+    {
+      "min": 73,
+      "entra": "MARAÑA TAMAYO, GORKA",
+      "sale": "VAZQUEZ POYALES, MIKEL"
+    },
+    {
+      "min": 80,
+      "entra": "POSTIGO ALZUGARAY, JURGI",
+      "sale": "PASCUAL AGUIRREZABALA, VALENTIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 17,
+      "entra": "HERNANDEZ CIPITRIA, AMETS",
+      "sale": "BLANCO DOMINGUEZ, GONZALO"
+    },
+    {
+      "min": 36,
+      "entra": "ORTEZ JIMENEZ, JATNIEL NOE",
+      "sale": "TXAPARTEGI GALVANY, MATTIN"
+    },
+    {
+      "min": 51,
+      "entra": "GONZÁLEZ VALLADARES, MARKEL",
+      "sale": "NOGUES PEREZ, MARKEL"
+    },
+    {
+      "min": 63,
+      "entra": "GONZALEZ BLANCO, JON",
+      "sale": "MARIÑO NAVA, MARKEL"
+    },
+    {
+      "min": 63,
+      "entra": "CANO TEMEZ, JULEN UGAITZ",
+      "sale": "ERAUSQUIN SEVILLA, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "AGÜERO DE APELLANIZ, NAHUEL MAURICIO": 90,
+    "PASCUAL AGUIRREZABALA, VALENTIN": 80,
+    "TORRES ETXARRI, UNAX": 64,
+    "VARELA IZAGUIRRE, IRAITZ": 90,
+    "MATEO VIDAURRETA, BEÑAT": 90,
+    "MARTINEZ FERNANDEZ, ARIAN UNAI": 90,
+    "IRAZUSTA TORRES, JULEN": 58,
+    "VAZQUEZ POYALES, MIKEL": 73,
+    "GARCIA GONZALEZ, OIER": 90,
+    "LEANDRO VELUZ, IKER": 90,
+    "LOPEZ RODRIGUEZ, MARKEL": 71,
+    "LOVERA YUSTI, RAMSES ALEJANDRO": 32,
+    "GARCIA MEZU, SAMI ESNEIDER": 26,
+    "MARCOS CORTES, ADAY": 19,
+    "MARAÑA TAMAYO, GORKA": 17,
+    "POSTIGO ALZUGARAY, JURGI": 10,
+    "EIZAGUIRRE MARTINEZ, PABLO": 90,
+    "AGUILAR BRIONES, EÑAUT": 90,
+    "TXAPARTEGI GALVANY, MATTIN": 36,
+    "ERAUSQUIN SEVILLA, PABLO": 63,
+    "BLANCO DOMINGUEZ, GONZALO": 17,
+    "MARIÑO NAVA, MARKEL": 63,
+    "GARCIA HERNANDEZ, UNAI": 90,
+    "ORDÓÑEZ MARTÍNEZ, AGER": 90,
+    "CARDENAS ESCOBAR, DREYMAN SANTIAGO": 90,
+    "NOGUES PEREZ, MARKEL": 51,
+    "UGARTE MANSO, ALAIN": 90,
+    "HERNANDEZ CIPITRIA, AMETS": 73,
+    "ORTEZ JIMENEZ, JATNIEL NOE": 54,
+    "GONZÁLEZ VALLADARES, MARKEL": 39,
+    "GONZALEZ BLANCO, JON": 27,
+    "CANO TEMEZ, JULEN UGAITZ": 27
+  },
+  "portero_local": "AGÜERO DE APELLANIZ, NAHUEL MAURICIO",
+  "portero_visitante": "EIZAGUIRRE MARTINEZ, PABLO",
+  "dorsales_local": {
+    "AGÜERO DE APELLANIZ, NAHUEL MAURICIO": 1,
+    "PASCUAL AGUIRREZABALA, VALENTIN": 3,
+    "TORRES ETXARRI, UNAX": 7,
+    "VARELA IZAGUIRRE, IRAITZ": 8,
+    "MATEO VIDAURRETA, BEÑAT": 9,
+    "MARTINEZ FERNANDEZ, ARIAN UNAI": 10,
+    "IRAZUSTA TORRES, JULEN": 11,
+    "VAZQUEZ POYALES, MIKEL": 17,
+    "GARCIA GONZALEZ, OIER": 18,
+    "LEANDRO VELUZ, IKER": 20,
+    "LOPEZ RODRIGUEZ, MARKEL": 21
+  },
+  "dorsales_visitante": {
+    "EIZAGUIRRE MARTINEZ, PABLO": 13,
+    "AGUILAR BRIONES, EÑAUT": 2,
+    "TXAPARTEGI GALVANY, MATTIN": 3,
+    "ERAUSQUIN SEVILLA, PABLO": 5,
+    "BLANCO DOMINGUEZ, GONZALO": 6,
+    "MARIÑO NAVA, MARKEL": 7,
+    "GARCIA HERNANDEZ, UNAI": 10,
+    "ORDÓÑEZ MARTÍNEZ, AGER": 18,
+    "CARDENAS ESCOBAR, DREYMAN SANTIAGO": 19,
+    "NOGUES PEREZ, MARKEL": 21,
+    "UGARTE MANSO, ALAIN": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
