@@ -1,0 +1,260 @@
+{
+  "acta_id": "B_2008132",
+  "filename": "Acta_B_2008132.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 7,
+  "fecha": "17-11-2024",
+  "hora": "17:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "UGERAGA A",
+  "equipo_visitante": "ASTRABUDUAKO A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "PUEYO MADINA, GUILLERMO"
+  ],
+  "estadio": "URKO-LARRABASTERRA 1",
+  "ciudad": "Sopelana",
+  "goleadores": [
+    {
+      "minuto": 38,
+      "jugador": "CORRAL MENTXAKA, HODEI",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "LARRAZABAL SANTISTEBAN, XABI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "MUNICIO CAMPO, HANOT",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ANDERSEN ARROYO, MIKEL",
+  "entrenador_visitante": "FANO ESKAURIATZA, IGOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "HORMAECHE CANTERA, ENDIKA",
+  "titulares_local": [
+    "EGUSKIZA ARRIBAS, JON",
+    "LARREA NIEVA, AIMAR MIRENA",
+    "CORRAL MENTXAKA, HODEI",
+    "MEDINA KANI, KAI",
+    "AYUSO GONZALEZ, ARETX",
+    "MUNICIO CAMPO, HANOT",
+    "GONZALEZ DEL HERRERO OREJA, IZEI",
+    "ZABALBEASKOA KORTABITARTE, LUKEN",
+    "PEÑA RIVERA, ERLANTZ",
+    "ARRIAGA CASAL, GORKA",
+    "GOIKOETXEA DE GOYARZU, EKHI"
+  ],
+  "titulares_visitante": [
+    "TERUELO ZUAZO, UNAI",
+    "GIL MAZO, IÑIGO",
+    "CAMPOS MARCOS, ANDEKA",
+    "MENDEZ RASINES, HODEI",
+    "RILOVA MOCHA, JULEN",
+    "MOREDA MARTIN, YAGO",
+    "AGUIRRE GARCIA, IKER",
+    "CORNAGO DE LA VEGA, MARTIN",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "ALONSO DE LA QUINTANA, OIER",
+    "LARRAZABAL SANTISTEBAN, XABI"
+  ],
+  "suplentes_local": [
+    "CASTRESANA MITXELENA, LIER",
+    "LORENTE BILBAO, IORITZ",
+    "MARIN BLANCO, GARIKOITZ",
+    "LOPEZ KORKOSTEGI, JON",
+    "SUNYER BAJO, AIERT",
+    "GARCIA QUIROGA, OIER",
+    "SANTURTUN LIBARONA, AITZOL"
+  ],
+  "suplentes_visitante": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "BLANCO GOMEZ, EKAIN",
+    "CABALLERO TRINIDAD, ASIER",
+    "ALBA AYALA, JUAN DAVID",
+    "JORGE ARRUE, MIKEL",
+    "PALACIO GARCIA, OIER",
+    "IGLESIAS DUEÑAS, ARATZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "LOPEZ KORKOSTEGI, JON",
+    "SANTURTUN LIBARONA, AITZOL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "JORGE ARRUE, MIKEL"
+  ],
+  "jugadores_local": [
+    "EGUSKIZA ARRIBAS, JON",
+    "LARREA NIEVA, AIMAR MIRENA",
+    "CORRAL MENTXAKA, HODEI",
+    "MEDINA KANI, KAI",
+    "AYUSO GONZALEZ, ARETX",
+    "MUNICIO CAMPO, HANOT",
+    "GONZALEZ DEL HERRERO OREJA, IZEI",
+    "ZABALBEASKOA KORTABITARTE, LUKEN",
+    "PEÑA RIVERA, ERLANTZ",
+    "ARRIAGA CASAL, GORKA",
+    "GOIKOETXEA DE GOYARZU, EKHI",
+    "SUNYER BAJO, AIERT",
+    "LORENTE BILBAO, IORITZ",
+    "CASTRESANA MITXELENA, LIER",
+    "MARIN BLANCO, GARIKOITZ",
+    "GARCIA QUIROGA, OIER"
+  ],
+  "jugadores_visitante": [
+    "TERUELO ZUAZO, UNAI",
+    "GIL MAZO, IÑIGO",
+    "CAMPOS MARCOS, ANDEKA",
+    "MENDEZ RASINES, HODEI",
+    "RILOVA MOCHA, JULEN",
+    "MOREDA MARTIN, YAGO",
+    "AGUIRRE GARCIA, IKER",
+    "CORNAGO DE LA VEGA, MARTIN",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "ALONSO DE LA QUINTANA, OIER",
+    "LARRAZABAL SANTISTEBAN, XABI",
+    "CABALLERO TRINIDAD, ASIER",
+    "BLANCO GOMEZ, EKAIN",
+    "IGLESIAS DUEÑAS, ARATZ",
+    "ALBA AYALA, JUAN DAVID",
+    "PALACIO GARCIA, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "SUNYER BAJO, AIERT",
+      "sale": "AYUSO GONZALEZ, ARETX"
+    },
+    {
+      "min": 52,
+      "entra": "LORENTE BILBAO, IORITZ",
+      "sale": "ZABALBEASKOA KORTABITARTE, LUKEN"
+    },
+    {
+      "min": 52,
+      "entra": "CASTRESANA MITXELENA, LIER",
+      "sale": "MUNICIO CAMPO, HANOT"
+    },
+    {
+      "min": 62,
+      "entra": "MARIN BLANCO, GARIKOITZ",
+      "sale": "PEÑA RIVERA, ERLANTZ"
+    },
+    {
+      "min": 62,
+      "entra": "GARCIA QUIROGA, OIER",
+      "sale": "GONZALEZ DEL HERRERO OREJA, IZEI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "CABALLERO TRINIDAD, ASIER",
+      "sale": "AGUIRRE GARCIA, IKER"
+    },
+    {
+      "min": 60,
+      "entra": "BLANCO GOMEZ, EKAIN",
+      "sale": "CAMPO GURRUTXAGA, ALAIN"
+    },
+    {
+      "min": 66,
+      "entra": "IGLESIAS DUEÑAS, ARATZ",
+      "sale": "CAMPOS MARCOS, ANDEKA"
+    },
+    {
+      "min": 77,
+      "entra": "ALBA AYALA, JUAN DAVID",
+      "sale": "MOREDA MARTIN, YAGO"
+    },
+    {
+      "min": 77,
+      "entra": "PALACIO GARCIA, OIER",
+      "sale": "ALONSO DE LA QUINTANA, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "EGUSKIZA ARRIBAS, JON": 90,
+    "LARREA NIEVA, AIMAR MIRENA": 90,
+    "CORRAL MENTXAKA, HODEI": 90,
+    "MEDINA KANI, KAI": 90,
+    "AYUSO GONZALEZ, ARETX": 52,
+    "MUNICIO CAMPO, HANOT": 52,
+    "GONZALEZ DEL HERRERO OREJA, IZEI": 62,
+    "ZABALBEASKOA KORTABITARTE, LUKEN": 52,
+    "PEÑA RIVERA, ERLANTZ": 62,
+    "ARRIAGA CASAL, GORKA": 90,
+    "GOIKOETXEA DE GOYARZU, EKHI": 90,
+    "SUNYER BAJO, AIERT": 38,
+    "LORENTE BILBAO, IORITZ": 38,
+    "CASTRESANA MITXELENA, LIER": 38,
+    "MARIN BLANCO, GARIKOITZ": 28,
+    "GARCIA QUIROGA, OIER": 28,
+    "TERUELO ZUAZO, UNAI": 90,
+    "GIL MAZO, IÑIGO": 90,
+    "CAMPOS MARCOS, ANDEKA": 66,
+    "MENDEZ RASINES, HODEI": 90,
+    "RILOVA MOCHA, JULEN": 90,
+    "MOREDA MARTIN, YAGO": 77,
+    "AGUIRRE GARCIA, IKER": 60,
+    "CORNAGO DE LA VEGA, MARTIN": 90,
+    "CAMPO GURRUTXAGA, ALAIN": 60,
+    "ALONSO DE LA QUINTANA, OIER": 77,
+    "LARRAZABAL SANTISTEBAN, XABI": 90,
+    "CABALLERO TRINIDAD, ASIER": 30,
+    "BLANCO GOMEZ, EKAIN": 30,
+    "IGLESIAS DUEÑAS, ARATZ": 24,
+    "ALBA AYALA, JUAN DAVID": 13,
+    "PALACIO GARCIA, OIER": 13
+  },
+  "portero_local": "EGUSKIZA ARRIBAS, JON",
+  "portero_visitante": "TERUELO ZUAZO, UNAI",
+  "dorsales_local": {
+    "EGUSKIZA ARRIBAS, JON": 1,
+    "LARREA NIEVA, AIMAR MIRENA": 3,
+    "CORRAL MENTXAKA, HODEI": 4,
+    "MEDINA KANI, KAI": 7,
+    "AYUSO GONZALEZ, ARETX": 9,
+    "MUNICIO CAMPO, HANOT": 10,
+    "GONZALEZ DEL HERRERO OREJA, IZEI": 14,
+    "ZABALBEASKOA KORTABITARTE, LUKEN": 15,
+    "PEÑA RIVERA, ERLANTZ": 16,
+    "ARRIAGA CASAL, GORKA": 19,
+    "GOIKOETXEA DE GOYARZU, EKHI": 20
+  },
+  "dorsales_visitante": {
+    "TERUELO ZUAZO, UNAI": 1,
+    "GIL MAZO, IÑIGO": 2,
+    "CAMPOS MARCOS, ANDEKA": 3,
+    "MENDEZ RASINES, HODEI": 4,
+    "RILOVA MOCHA, JULEN": 5,
+    "MOREDA MARTIN, YAGO": 9,
+    "AGUIRRE GARCIA, IKER": 10,
+    "CORNAGO DE LA VEGA, MARTIN": 17,
+    "CAMPO GURRUTXAGA, ALAIN": 19,
+    "ALONSO DE LA QUINTANA, OIER": 21,
+    "LARRAZABAL SANTISTEBAN, XABI": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
