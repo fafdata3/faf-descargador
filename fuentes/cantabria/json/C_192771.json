@@ -1,0 +1,292 @@
+{
+  "acta_id": "C_192771",
+  "filename": "Acta_C_192771.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "12-10-2024",
+  "hora": "16:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. CAYON A",
+  "equipo_visitante": "DEPORTIVO PERINES",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZÁLEZ AJA, PABLO"
+  ],
+  "estadio": "Saron 2",
+  "ciudad": "Santa María de Cayón",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "DIAZ REVUELTA, RODRIGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "DIAZ ALPISTE, SAMUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "DESIRE BONILLA, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 81,
+      "jugador": "LOPEZ GONZALEZ, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "García Fernández, AARON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 51,
+      "jugador": "POPOVICI, MADALIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "DESIRE BONILLA, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "LOPEZ GONZALEZ, IZAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "GARCIA TARANO, BRAYAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SAINZ DEL RIO, GUILLERMO",
+  "entrenador_visitante": "ALEGRIA NUÑEZ, DANIEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RUIZ SIMON, DAVID",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RUIZ SIMON, DAVID",
+  "delegado_equipo_visitante": "ALCANTARA ARCE, ANDRES",
+  "titulares_local": [
+    "SANCHEZ MUÑOZ, ALEJANDRO",
+    "POPOVICI, MADALIN",
+    "CASTELA HERRERO, PABLO",
+    "REVUELTA SAINZ, DIEGO",
+    "DIAZ REVUELTA, RODRIGO",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "García Fernández, AARON",
+    "FERNANDEZ CASTIBLANCO, NICOLAS",
+    "GUTIERREZ FERNANDEZ, IKER",
+    "GILENE GOMEZ, ISRAEL",
+    "SAINZ FERNANDEZ, DANIEL"
+  ],
+  "titulares_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "LOPEZ GONZALEZ, IZAN",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "PONTONES FERREIRA, MARIO",
+    "CORONA DE MATEO, DAVID",
+    "AZNAR NUÑO, ALEX",
+    "COBO NDONG, DANIEL",
+    "COTERILLO COBO, MATEO",
+    "MARTE MUGICA, EDUARD",
+    "HERRERA CASANOVA, IZAN"
+  ],
+  "suplentes_local": [
+    "BECERRIL ALONSO, SERGIO",
+    "GUTIERREZ CRESPO, MARTIN",
+    "LAZA ORTIZ, PABLO",
+    "LEMES REYES, ARNOLD MATIAS",
+    "GARCIA ALONSO, SAMUEL"
+  ],
+  "suplentes_visitante": [
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "GOMEZ CONCHA, MATEO",
+    "DESIRE BONILLA, DANIEL",
+    "JIMENEZ NIÑO, DAVID",
+    "DIAZ ALPISTE, SAMUEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SANCHEZ MUÑOZ, ALEJANDRO",
+    "POPOVICI, MADALIN",
+    "CASTELA HERRERO, PABLO",
+    "REVUELTA SAINZ, DIEGO",
+    "DIAZ REVUELTA, RODRIGO",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "García Fernández, AARON",
+    "FERNANDEZ CASTIBLANCO, NICOLAS",
+    "GUTIERREZ FERNANDEZ, IKER",
+    "GILENE GOMEZ, ISRAEL",
+    "SAINZ FERNANDEZ, DANIEL",
+    "LAZA ORTIZ, PABLO",
+    "GUTIERREZ CRESPO, MARTIN",
+    "GARCIA ALONSO, SAMUEL",
+    "LEMES REYES, ARNOLD MATIAS",
+    "BECERRIL ALONSO, SERGIO"
+  ],
+  "jugadores_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "LOPEZ GONZALEZ, IZAN",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "PONTONES FERREIRA, MARIO",
+    "CORONA DE MATEO, DAVID",
+    "AZNAR NUÑO, ALEX",
+    "COBO NDONG, DANIEL",
+    "COTERILLO COBO, MATEO",
+    "MARTE MUGICA, EDUARD",
+    "HERRERA CASANOVA, IZAN",
+    "GOMEZ CONCHA, MATEO",
+    "DESIRE BONILLA, DANIEL",
+    "DIAZ ALPISTE, SAMUEL",
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "JIMENEZ NIÑO, DAVID"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "LAZA ORTIZ, PABLO",
+      "sale": "García Fernández, AARON"
+    },
+    {
+      "min": 52,
+      "entra": "GUTIERREZ CRESPO, MARTIN",
+      "sale": "POPOVICI, MADALIN"
+    },
+    {
+      "min": 56,
+      "entra": "GARCIA ALONSO, SAMUEL",
+      "sale": "FERNANDEZ CASTIBLANCO, NICOLAS"
+    },
+    {
+      "min": 63,
+      "entra": "LEMES REYES, ARNOLD MATIAS",
+      "sale": "LOPEZ GARCIA DEL POMAR, PELAYO"
+    },
+    {
+      "min": 71,
+      "entra": "BECERRIL ALONSO, SERGIO",
+      "sale": "DIAZ REVUELTA, RODRIGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 13,
+      "entra": "GOMEZ CONCHA, MATEO",
+      "sale": "SAN MIGUEL VÉLEZ, HUGO"
+    },
+    {
+      "min": 40,
+      "entra": "DESIRE BONILLA, DANIEL",
+      "sale": "PONTONES FERREIRA, MARIO"
+    },
+    {
+      "min": 40,
+      "entra": "DIAZ ALPISTE, SAMUEL",
+      "sale": "HERRERA CASANOVA, IZAN"
+    },
+    {
+      "min": 40,
+      "entra": "RODRIGUEZ RODRIGUEZ, CARLOS",
+      "sale": "CUENDE RAMOS, YAGO"
+    },
+    {
+      "min": 51,
+      "entra": "JIMENEZ NIÑO, DAVID",
+      "sale": "AZNAR NUÑO, ALEX"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANCHEZ MUÑOZ, ALEJANDRO": 90,
+    "POPOVICI, MADALIN": 52,
+    "CASTELA HERRERO, PABLO": 90,
+    "REVUELTA SAINZ, DIEGO": 90,
+    "DIAZ REVUELTA, RODRIGO": 71,
+    "LOPEZ GARCIA DEL POMAR, PELAYO": 63,
+    "García Fernández, AARON": 40,
+    "FERNANDEZ CASTIBLANCO, NICOLAS": 56,
+    "GUTIERREZ FERNANDEZ, IKER": 90,
+    "GILENE GOMEZ, ISRAEL": 90,
+    "SAINZ FERNANDEZ, DANIEL": 90,
+    "LAZA ORTIZ, PABLO": 50,
+    "GUTIERREZ CRESPO, MARTIN": 38,
+    "GARCIA ALONSO, SAMUEL": 34,
+    "LEMES REYES, ARNOLD MATIAS": 27,
+    "BECERRIL ALONSO, SERGIO": 19,
+    "CUENDE RAMOS, YAGO": 40,
+    "LOPEZ GONZALEZ, IZAN": 90,
+    "SAN MIGUEL VÉLEZ, HUGO": 13,
+    "GARCIA TARANO, BRAYAN": 90,
+    "PONTONES FERREIRA, MARIO": 40,
+    "CORONA DE MATEO, DAVID": 90,
+    "AZNAR NUÑO, ALEX": 51,
+    "COBO NDONG, DANIEL": 90,
+    "COTERILLO COBO, MATEO": 90,
+    "MARTE MUGICA, EDUARD": 90,
+    "HERRERA CASANOVA, IZAN": 40,
+    "GOMEZ CONCHA, MATEO": 77,
+    "DESIRE BONILLA, DANIEL": 50,
+    "DIAZ ALPISTE, SAMUEL": 50,
+    "RODRIGUEZ RODRIGUEZ, CARLOS": 50,
+    "JIMENEZ NIÑO, DAVID": 39
+  },
+  "portero_local": "SANCHEZ MUÑOZ, ALEJANDRO",
+  "portero_visitante": "CUENDE RAMOS, YAGO",
+  "dorsales_local": {
+    "SANCHEZ MUÑOZ, ALEJANDRO": 1,
+    "POPOVICI, MADALIN": 2,
+    "CASTELA HERRERO, PABLO": 5,
+    "REVUELTA SAINZ, DIEGO": 6,
+    "DIAZ REVUELTA, RODRIGO": 7,
+    "LOPEZ GARCIA DEL POMAR, PELAYO": 8,
+    "García Fernández, AARON": 9,
+    "FERNANDEZ CASTIBLANCO, NICOLAS": 10,
+    "GUTIERREZ FERNANDEZ, IKER": 18,
+    "GILENE GOMEZ, ISRAEL": 20,
+    "SAINZ FERNANDEZ, DANIEL": 22
+  },
+  "dorsales_visitante": {
+    "CUENDE RAMOS, YAGO": 13,
+    "LOPEZ GONZALEZ, IZAN": 3,
+    "SAN MIGUEL VÉLEZ, HUGO": 5,
+    "GARCIA TARANO, BRAYAN": 6,
+    "PONTONES FERREIRA, MARIO": 8,
+    "CORONA DE MATEO, DAVID": 10,
+    "AZNAR NUÑO, ALEX": 12,
+    "COBO NDONG, DANIEL": 14,
+    "COTERILLO COBO, MATEO": 15,
+    "MARTE MUGICA, EDUARD": 16,
+    "HERRERA CASANOVA, IZAN": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
