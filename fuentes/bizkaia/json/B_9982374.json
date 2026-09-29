@@ -1,0 +1,272 @@
+{
+  "acta_id": "B_9982374",
+  "filename": "Acta_B_9982374.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "08-11-2025",
+  "hora": "15:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ARRATIA A",
+  "equipo_visitante": "INDAUTXU B",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "PEÑA RAMOS, IÑIGO"
+  ],
+  "estadio": "URBIETA-IGORRE",
+  "ciudad": "Igorre",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "JUARROS MANTEROLA, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "RUIZ LLORENTE, XABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 11,
+      "jugador": "URIARTE GURTUBAI, OIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "INTXAURRAGA SERNA, ENAITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "CASTELLANO RODRIGUEZ, ERLANTZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "CORTAZAR MAGADAN, KAIET",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PEREZ GARCIA, DAVID",
+  "entrenador_visitante": "MENENDEZ FERRERAS, LUIS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAGARNA URIARTE, ARATZ",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAGARNA URIARTE, ARATZ",
+  "delegado_equipo_visitante": "GONZALEZ ALMELA, IVAN",
+  "titulares_local": [
+    "DELGADO PARADA, UNAX",
+    "SLIMANI CHAKOR, ABU BAKR",
+    "EGUSKITZA AGUILAR, UNAX",
+    "SAGARNA ETXEBARRIA, HAITZ",
+    "URIARTE GURTUBAI, OIER",
+    "INTXAURRAGA SERNA, ENAITZ",
+    "JUARROS MANTEROLA, OIER",
+    "CASTELLANO RODRIGUEZ, ERLANTZ",
+    "ATUTXA ATUTXA, IGOTZ",
+    "IBARRONDO LASA, MARKEL",
+    "BILBAO AZURMENDI, OIHAN"
+  ],
+  "titulares_visitante": [
+    "BARTON, MARTIN",
+    "CORTAZAR MAGADAN, KAIET",
+    "AYUSO ANGULO, IGOR",
+    "VITORES GODOY, MARTIN",
+    "SAGLIARDI ROMERO, MASSIMO",
+    "PEREZ BECERRA, MARCO JAEL",
+    "ARANA RECALDE, XABIER",
+    "ZABALA GOÑI, MARTXELO",
+    "RUIZ LLORENTE, XABIER",
+    "LOPATEGUI ATXA, URKO",
+    "URIZAR ELUSTONDO, MARTIN"
+  ],
+  "suplentes_local": [
+    "PRIETO AZURMENDI, TELMO",
+    "IZAGIRRE ZENIKAZELAIA, OIHAN",
+    "AGIRRE RUIZ, EKAIN",
+    "ABURTO JUGO, OIHAN",
+    "BENGOETXEA DONIS, AIMAR",
+    "MARTINEZ EALO, IZEI"
+  ],
+  "suplentes_visitante": [
+    "CABALLERO CORTEZ, JAVIER",
+    "LOPEZ MADARIAGA, LUCAS",
+    "GOMEZ ARIÑO, BEÑAT",
+    "LOPEZ SANTAMARIA, IÑAKI",
+    "NAVARRO ROBLES, XABIER",
+    "MEDINA GARRIDO, ALAIN",
+    "MURUA SERNA, JULEN"
+  ],
+  "convocados_sin_jugar_local": [
+    "PRIETO AZURMENDI, TELMO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CABALLERO CORTEZ, JAVIER",
+    "LOPEZ MADARIAGA, LUCAS",
+    "MURUA SERNA, JULEN"
+  ],
+  "jugadores_local": [
+    "DELGADO PARADA, UNAX",
+    "SLIMANI CHAKOR, ABU BAKR",
+    "EGUSKITZA AGUILAR, UNAX",
+    "SAGARNA ETXEBARRIA, HAITZ",
+    "URIARTE GURTUBAI, OIER",
+    "INTXAURRAGA SERNA, ENAITZ",
+    "JUARROS MANTEROLA, OIER",
+    "CASTELLANO RODRIGUEZ, ERLANTZ",
+    "ATUTXA ATUTXA, IGOTZ",
+    "IBARRONDO LASA, MARKEL",
+    "BILBAO AZURMENDI, OIHAN",
+    "BENGOETXEA DONIS, AIMAR",
+    "ABURTO JUGO, OIHAN",
+    "IZAGIRRE ZENIKAZELAIA, OIHAN",
+    "MARTINEZ EALO, IZEI",
+    "AGIRRE RUIZ, EKAIN"
+  ],
+  "jugadores_visitante": [
+    "BARTON, MARTIN",
+    "CORTAZAR MAGADAN, KAIET",
+    "AYUSO ANGULO, IGOR",
+    "VITORES GODOY, MARTIN",
+    "SAGLIARDI ROMERO, MASSIMO",
+    "PEREZ BECERRA, MARCO JAEL",
+    "ARANA RECALDE, XABIER",
+    "ZABALA GOÑI, MARTXELO",
+    "RUIZ LLORENTE, XABIER",
+    "LOPATEGUI ATXA, URKO",
+    "URIZAR ELUSTONDO, MARTIN",
+    "LOPEZ SANTAMARIA, IÑAKI",
+    "GOMEZ ARIÑO, BEÑAT",
+    "NAVARRO ROBLES, XABIER",
+    "MEDINA GARRIDO, ALAIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "BENGOETXEA DONIS, AIMAR",
+      "sale": "BILBAO AZURMENDI, OIHAN"
+    },
+    {
+      "min": 62,
+      "entra": "ABURTO JUGO, OIHAN",
+      "sale": "URIARTE GURTUBAI, OIER"
+    },
+    {
+      "min": 62,
+      "entra": "IZAGIRRE ZENIKAZELAIA, OIHAN",
+      "sale": "IBARRONDO LASA, MARKEL"
+    },
+    {
+      "min": 62,
+      "entra": "MARTINEZ EALO, IZEI",
+      "sale": "CASTELLANO RODRIGUEZ, ERLANTZ"
+    },
+    {
+      "min": 80,
+      "entra": "AGIRRE RUIZ, EKAIN",
+      "sale": "INTXAURRAGA SERNA, ENAITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "LOPEZ SANTAMARIA, IÑAKI",
+      "sale": "ARANA RECALDE, XABIER"
+    },
+    {
+      "min": 40,
+      "entra": "GOMEZ ARIÑO, BEÑAT",
+      "sale": "VITORES GODOY, MARTIN"
+    },
+    {
+      "min": 58,
+      "entra": "NAVARRO ROBLES, XABIER",
+      "sale": "PEREZ BECERRA, MARCO JAEL"
+    },
+    {
+      "min": 81,
+      "entra": "MEDINA GARRIDO, ALAIN",
+      "sale": "RUIZ LLORENTE, XABIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "DELGADO PARADA, UNAX": 90,
+    "SLIMANI CHAKOR, ABU BAKR": 90,
+    "EGUSKITZA AGUILAR, UNAX": 90,
+    "SAGARNA ETXEBARRIA, HAITZ": 90,
+    "URIARTE GURTUBAI, OIER": 62,
+    "INTXAURRAGA SERNA, ENAITZ": 80,
+    "JUARROS MANTEROLA, OIER": 90,
+    "CASTELLANO RODRIGUEZ, ERLANTZ": 62,
+    "ATUTXA ATUTXA, IGOTZ": 90,
+    "IBARRONDO LASA, MARKEL": 62,
+    "BILBAO AZURMENDI, OIHAN": 52,
+    "BENGOETXEA DONIS, AIMAR": 38,
+    "ABURTO JUGO, OIHAN": 28,
+    "IZAGIRRE ZENIKAZELAIA, OIHAN": 28,
+    "MARTINEZ EALO, IZEI": 28,
+    "AGIRRE RUIZ, EKAIN": 10,
+    "BARTON, MARTIN": 90,
+    "CORTAZAR MAGADAN, KAIET": 90,
+    "AYUSO ANGULO, IGOR": 90,
+    "VITORES GODOY, MARTIN": 40,
+    "SAGLIARDI ROMERO, MASSIMO": 90,
+    "PEREZ BECERRA, MARCO JAEL": 58,
+    "ARANA RECALDE, XABIER": 40,
+    "ZABALA GOÑI, MARTXELO": 90,
+    "RUIZ LLORENTE, XABIER": 81,
+    "LOPATEGUI ATXA, URKO": 90,
+    "URIZAR ELUSTONDO, MARTIN": 90,
+    "LOPEZ SANTAMARIA, IÑAKI": 50,
+    "GOMEZ ARIÑO, BEÑAT": 50,
+    "NAVARRO ROBLES, XABIER": 32,
+    "MEDINA GARRIDO, ALAIN": 9
+  },
+  "portero_local": "DELGADO PARADA, UNAX",
+  "portero_visitante": "BARTON, MARTIN",
+  "dorsales_local": {
+    "DELGADO PARADA, UNAX": 25,
+    "SLIMANI CHAKOR, ABU BAKR": 2,
+    "EGUSKITZA AGUILAR, UNAX": 4,
+    "SAGARNA ETXEBARRIA, HAITZ": 5,
+    "URIARTE GURTUBAI, OIER": 7,
+    "INTXAURRAGA SERNA, ENAITZ": 8,
+    "JUARROS MANTEROLA, OIER": 9,
+    "CASTELLANO RODRIGUEZ, ERLANTZ": 12,
+    "ATUTXA ATUTXA, IGOTZ": 15,
+    "IBARRONDO LASA, MARKEL": 16,
+    "BILBAO AZURMENDI, OIHAN": 23
+  },
+  "dorsales_visitante": {
+    "BARTON, MARTIN": 1,
+    "CORTAZAR MAGADAN, KAIET": 2,
+    "AYUSO ANGULO, IGOR": 3,
+    "VITORES GODOY, MARTIN": 4,
+    "SAGLIARDI ROMERO, MASSIMO": 7,
+    "PEREZ BECERRA, MARCO JAEL": 11,
+    "ARANA RECALDE, XABIER": 12,
+    "ZABALA GOÑI, MARTXELO": 16,
+    "RUIZ LLORENTE, XABIER": 17,
+    "LOPATEGUI ATXA, URKO": 19,
+    "URIZAR ELUSTONDO, MARTIN": 24
+  },
+  "suspendidos": []
+}
