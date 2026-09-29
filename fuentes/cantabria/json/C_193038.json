@@ -1,0 +1,225 @@
+{
+  "acta_id": "C_193038",
+  "filename": "Acta_C_193038.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 1,
+  "fecha": "08-09-2024",
+  "hora": "11:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. NAVAL A",
+  "equipo_visitante": "C.D. RAMALES",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CARUTA MOROI, EDUARDO"
+  ],
+  "estadio": "Reinosa",
+  "ciudad": "Reinosa",
+  "goleadores": [
+    {
+      "minuto": 53,
+      "jugador": "GOMEZ DEL POZO, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "DEL MORAL ALONSO, RODRIGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "GUTIERREZ VEGA, HECTOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA GUTIERREZ, JOSE I",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "JORRIN FERNANDEZ, OSCAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PEREZ LOPEZ, RUBEN",
+  "delegado_equipo_visitante": "LAVIADA ARAUJO, IVAN ROBERTO",
+  "titulares_local": [
+    "PEREZ HERRERO, IKER",
+    "ARGUESO GARCIA, JAVIER",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "ALONSO GUERRA, MARCOS",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL",
+    "SIMÓN GUTIERREZ, DANIEL"
+  ],
+  "titulares_visitante": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "MAZA FERNANDEZ, IÑIGO",
+    "LLAMA GOMEZ, MARIO",
+    "LOPEZ GONZALEZ, HUGO",
+    "DEL MORAL ALONSO, RODRIGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "MAZA NOVOA, MARIO",
+    "CARRERA SANCHEZ, MARCOS",
+    "SIERRA GONZALEZ, KEVIN",
+    "IBAÑEZ AHEDO, EGOITZ"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GOMEZ DEL POZO, ALVARO",
+    "GOMEZ CALVO, ALVARO",
+    "GUTIERREZ VEGA, HECTOR"
+  ],
+  "suplentes_visitante": [
+    "ABASCAL RUIZ, JOAQUIN",
+    "ALBISU ROZAS, LEO",
+    "HOLGADO RODRIGUEZ, IKER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PEREZ HERRERO, IKER",
+    "ARGUESO GARCIA, JAVIER",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "ALONSO GUERRA, MARCOS",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL",
+    "SIMÓN GUTIERREZ, DANIEL",
+    "GUTIERREZ VEGA, HECTOR",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GOMEZ DEL POZO, ALVARO",
+    "GOMEZ CALVO, ALVARO"
+  ],
+  "jugadores_visitante": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "MAZA FERNANDEZ, IÑIGO",
+    "LLAMA GOMEZ, MARIO",
+    "LOPEZ GONZALEZ, HUGO",
+    "DEL MORAL ALONSO, RODRIGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "MAZA NOVOA, MARIO",
+    "CARRERA SANCHEZ, MARCOS",
+    "SIERRA GONZALEZ, KEVIN",
+    "IBAÑEZ AHEDO, EGOITZ",
+    "ALBISU ROZAS, LEO",
+    "HOLGADO RODRIGUEZ, IKER",
+    "ABASCAL RUIZ, JOAQUIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "GUTIERREZ VEGA, HECTOR",
+      "sale": "LOPEZ GUTIERREZ, ALONSO"
+    },
+    {
+      "min": 41,
+      "entra": "RODRIGUEZ GONZALEZ, IZAN",
+      "sale": "MONTES RODRIGUEZ, OROEL"
+    },
+    {
+      "min": 41,
+      "entra": "GOMEZ DEL POZO, ALVARO",
+      "sale": "ARGUESO GARCIA, JAVIER"
+    },
+    {
+      "min": 61,
+      "entra": "GOMEZ CALVO, ALVARO",
+      "sale": "GONZALEZ RODRIGUEZ, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "ALBISU ROZAS, LEO",
+      "sale": "MAZA NOVOA, MARIO"
+    },
+    {
+      "min": 61,
+      "entra": "HOLGADO RODRIGUEZ, IKER",
+      "sale": "LLAMA GOMEZ, MARIO"
+    },
+    {
+      "min": 61,
+      "entra": "ABASCAL RUIZ, JOAQUIN",
+      "sale": "TREVILLA VELA, RAMON"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ HERRERO, IKER": 90,
+    "ARGUESO GARCIA, JAVIER": 41,
+    "GARCIA DIEZ, GABRIEL": 90,
+    "CEBALLOS CAYON, LUCAS": 90,
+    "GONZALEZ RODRIGUEZ, ALVARO": 61,
+    "LOPEZ GUTIERREZ, ALONSO": 41,
+    "GUTIERREZ GARCIA, SAMUEL": 90,
+    "ALONSO GUERRA, MARCOS": 90,
+    "MACHO RUIZ, LUCAS": 90,
+    "MONTES RODRIGUEZ, OROEL": 41,
+    "SIMÓN GUTIERREZ, DANIEL": 90,
+    "GUTIERREZ VEGA, HECTOR": 49,
+    "RODRIGUEZ GONZALEZ, IZAN": 49,
+    "GOMEZ DEL POZO, ALVARO": 49,
+    "GOMEZ CALVO, ALVARO": 29,
+    "FURIOL SALCEDO, RUBÉN": 90,
+    "TREVILLA VELA, RAMON": 61,
+    "MAZA FERNANDEZ, IÑIGO": 90,
+    "LLAMA GOMEZ, MARIO": 61,
+    "LOPEZ GONZALEZ, HUGO": 90,
+    "DEL MORAL ALONSO, RODRIGO": 90,
+    "GALAZ GOMEZ, GUILLERMO": 90,
+    "MAZA NOVOA, MARIO": 61,
+    "CARRERA SANCHEZ, MARCOS": 90,
+    "SIERRA GONZALEZ, KEVIN": 90,
+    "IBAÑEZ AHEDO, EGOITZ": 90,
+    "ALBISU ROZAS, LEO": 29,
+    "HOLGADO RODRIGUEZ, IKER": 29,
+    "ABASCAL RUIZ, JOAQUIN": 29
+  },
+  "portero_local": "PEREZ HERRERO, IKER",
+  "portero_visitante": "FURIOL SALCEDO, RUBÉN",
+  "dorsales_local": {
+    "PEREZ HERRERO, IKER": 1,
+    "ARGUESO GARCIA, JAVIER": 3,
+    "GARCIA DIEZ, GABRIEL": 5,
+    "CEBALLOS CAYON, LUCAS": 6,
+    "GONZALEZ RODRIGUEZ, ALVARO": 7,
+    "LOPEZ GUTIERREZ, ALONSO": 8,
+    "GUTIERREZ GARCIA, SAMUEL": 10,
+    "ALONSO GUERRA, MARCOS": 12,
+    "MACHO RUIZ, LUCAS": 14,
+    "MONTES RODRIGUEZ, OROEL": 15,
+    "SIMÓN GUTIERREZ, DANIEL": 21
+  },
+  "dorsales_visitante": {
+    "FURIOL SALCEDO, RUBÉN": 1,
+    "TREVILLA VELA, RAMON": 2,
+    "MAZA FERNANDEZ, IÑIGO": 4,
+    "LLAMA GOMEZ, MARIO": 5,
+    "LOPEZ GONZALEZ, HUGO": 8,
+    "DEL MORAL ALONSO, RODRIGO": 9,
+    "GALAZ GOMEZ, GUILLERMO": 10,
+    "MAZA NOVOA, MARIO": 15,
+    "CARRERA SANCHEZ, MARCOS": 16,
+    "SIERRA GONZALEZ, KEVIN": 17,
+    "IBAÑEZ AHEDO, EGOITZ": 18
+  },
+  "suspendidos": []
+}
