@@ -1,0 +1,271 @@
+{
+  "acta_id": "C_171446",
+  "filename": "Acta_C_171446.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 33,
+  "fecha": "22-05-2024",
+  "hora": "19:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. TROPEZON B",
+  "equipo_visitante": "C.D.E. ATCO. MINEROS B",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCIA RUBIO, JOEL"
+  ],
+  "estadio": "Tanos 1",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 38,
+      "jugador": "CALDERON SAIZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 50,
+      "jugador": "MATA SANGUIAO, CARLOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "PEREZ PINILLA, EMILIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "MATA SANGUIAO, CARLOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "PEREZ PINILLA, EMILIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "GOMEZ PEÑA, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GUTIERREZ GUTIERREZ, DAVID",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTIN GONZALEZ, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTIN GONZALEZ, JAVIER",
+  "delegado_equipo_visitante": "DIAZ SANCHEZ, PABLO",
+  "titulares_local": [
+    "LOPEZ CAYON, BORJA",
+    "DE DIEGO RUBAYO, SAUL",
+    "GONZALEZ SAIZ, IKER",
+    "PEREZ PINILLA, EMILIO",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "CALDERON SAIZ, ALVARO",
+    "GALLO POZUETA, ALVARO",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "DIAZ CORONA, MARCOS",
+    "MARTIN RUIZ, PABLO",
+    "NOUKEU BALBAS, THIERRY STEVE"
+  ],
+  "titulares_visitante": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "STAN, NICOLAE CRISTIAN",
+    "ORTEGA DEL RIO, AITOR",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "GOMEZ PEÑA, LUCAS",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "MATA SANGUIAO, CARLOS",
+    "GARCÍA RÁBAGO, SAMUEL"
+  ],
+  "suplentes_local": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "blanco gonzalez, MARIO",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "pachon garcia, DIEGO",
+    "GOITIA GUTIERREZ, PABLO"
+  ],
+  "suplentes_visitante": [
+    "ROBLES CORCHADO, ALEX",
+    "VILLEGAS SAIZ, JAVIER",
+    "GUTIERREZ CUETO, IKER",
+    "ARROYO SAIZ, RUBEN",
+    "CALDERON GOMEZ, BORJA"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LOPEZ CAYON, BORJA",
+    "DE DIEGO RUBAYO, SAUL",
+    "GONZALEZ SAIZ, IKER",
+    "PEREZ PINILLA, EMILIO",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "CALDERON SAIZ, ALVARO",
+    "GALLO POZUETA, ALVARO",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "DIAZ CORONA, MARCOS",
+    "MARTIN RUIZ, PABLO",
+    "NOUKEU BALBAS, THIERRY STEVE",
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "blanco gonzalez, MARIO",
+    "pachon garcia, DIEGO",
+    "GOITIA GUTIERREZ, PABLO",
+    "MARTINEZ RODRIGUEZ, AARON"
+  ],
+  "jugadores_visitante": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "STAN, NICOLAE CRISTIAN",
+    "ORTEGA DEL RIO, AITOR",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "GOMEZ PEÑA, LUCAS",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "MATA SANGUIAO, CARLOS",
+    "GARCÍA RÁBAGO, SAMUEL",
+    "CALDERON GOMEZ, BORJA",
+    "GUTIERREZ CUETO, IKER",
+    "VILLEGAS SAIZ, JAVIER",
+    "ROBLES CORCHADO, ALEX",
+    "ARROYO SAIZ, RUBEN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "DE LA FUENTE CAYUSO, NICOLAS",
+      "sale": "LOPEZ CAYON, BORJA"
+    },
+    {
+      "min": 59,
+      "entra": "blanco gonzalez, MARIO",
+      "sale": "GONZALEZ SAIZ, IKER"
+    },
+    {
+      "min": 59,
+      "entra": "pachon garcia, DIEGO",
+      "sale": "DIPSE, AUGUSTIN VALENTIN"
+    },
+    {
+      "min": 65,
+      "entra": "GOITIA GUTIERREZ, PABLO",
+      "sale": "CALDERON SAIZ, ALVARO"
+    },
+    {
+      "min": 68,
+      "entra": "MARTINEZ RODRIGUEZ, AARON",
+      "sale": "GALLO POZUETA, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "CALDERON GOMEZ, BORJA",
+      "sale": "GARCÍA RÁBAGO, SAMUEL"
+    },
+    {
+      "min": 56,
+      "entra": "GUTIERREZ CUETO, IKER",
+      "sale": "ORTEGA DEL RIO, AITOR"
+    },
+    {
+      "min": 59,
+      "entra": "VILLEGAS SAIZ, JAVIER",
+      "sale": "GUTIERREZ REDONDO, MARTIN"
+    },
+    {
+      "min": 63,
+      "entra": "ROBLES CORCHADO, ALEX",
+      "sale": "solar rabadan, DANIEL"
+    },
+    {
+      "min": 67,
+      "entra": "ARROYO SAIZ, RUBEN",
+      "sale": "SAINZ CALDERON, JOSE MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "LOPEZ CAYON, BORJA": 40,
+    "DE DIEGO RUBAYO, SAUL": 90,
+    "GONZALEZ SAIZ, IKER": 59,
+    "PEREZ PINILLA, EMILIO": 90,
+    "GUTIERREZ MARTINEZ, ALVARO": 90,
+    "CALDERON SAIZ, ALVARO": 65,
+    "GALLO POZUETA, ALVARO": 68,
+    "DIPSE, AUGUSTIN VALENTIN": 59,
+    "DIAZ CORONA, MARCOS": 90,
+    "MARTIN RUIZ, PABLO": 90,
+    "NOUKEU BALBAS, THIERRY STEVE": 90,
+    "DE LA FUENTE CAYUSO, NICOLAS": 50,
+    "blanco gonzalez, MARIO": 31,
+    "pachon garcia, DIEGO": 31,
+    "GOITIA GUTIERREZ, PABLO": 25,
+    "MARTINEZ RODRIGUEZ, AARON": 22,
+    "RUIZ FERNÁNDEZ, KEVIN": 90,
+    "STAN, NICOLAE CRISTIAN": 90,
+    "ORTEGA DEL RIO, AITOR": 56,
+    "GUTIERREZ REDONDO, MARTIN": 59,
+    "solar rabadan, DANIEL": 63,
+    "SAINZ CALDERON, JOSE MIGUEL": 67,
+    "GOMEZ PEÑA, LUCAS": 90,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 90,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 90,
+    "MATA SANGUIAO, CARLOS": 90,
+    "GARCÍA RÁBAGO, SAMUEL": 51,
+    "CALDERON GOMEZ, BORJA": 39,
+    "GUTIERREZ CUETO, IKER": 34,
+    "VILLEGAS SAIZ, JAVIER": 31,
+    "ROBLES CORCHADO, ALEX": 27,
+    "ARROYO SAIZ, RUBEN": 23
+  },
+  "portero_local": "LOPEZ CAYON, BORJA",
+  "portero_visitante": "RUIZ FERNÁNDEZ, KEVIN",
+  "dorsales_local": {
+    "LOPEZ CAYON, BORJA": 13,
+    "DE DIEGO RUBAYO, SAUL": 2,
+    "GONZALEZ SAIZ, IKER": 5,
+    "PEREZ PINILLA, EMILIO": 6,
+    "GUTIERREZ MARTINEZ, ALVARO": 8,
+    "CALDERON SAIZ, ALVARO": 9,
+    "GALLO POZUETA, ALVARO": 11,
+    "DIPSE, AUGUSTIN VALENTIN": 17,
+    "DIAZ CORONA, MARCOS": 18,
+    "MARTIN RUIZ, PABLO": 22,
+    "NOUKEU BALBAS, THIERRY STEVE": 23
+  },
+  "dorsales_visitante": {
+    "RUIZ FERNÁNDEZ, KEVIN": 13,
+    "STAN, NICOLAE CRISTIAN": 2,
+    "ORTEGA DEL RIO, AITOR": 4,
+    "GUTIERREZ REDONDO, MARTIN": 7,
+    "solar rabadan, DANIEL": 8,
+    "SAINZ CALDERON, JOSE MIGUEL": 10,
+    "GOMEZ PEÑA, LUCAS": 12,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 17,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 18,
+    "MATA SANGUIAO, CARLOS": 20,
+    "GARCÍA RÁBAGO, SAMUEL": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
