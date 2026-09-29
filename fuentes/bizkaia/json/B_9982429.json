@@ -1,0 +1,283 @@
+{
+  "acta_id": "B_9982429",
+  "filename": "Acta_B_9982429.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "03-01-2026",
+  "hora": "12:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "BASKAURI A",
+  "equipo_visitante": "LEKEITIO A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "VALLEJO PARRADO, PABLO"
+  ],
+  "estadio": "ARTUNDUAGA 2",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "BALENCIAGA FERNANDEZ, DANEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "COBELO VELEZ, IBAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "COBELO VELEZ, IBAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "RUIZ GARCIA DE VICUÑA, EDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "COBELO VELEZ, IBAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "RIBOTE LACALLE, EDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 28,
+      "jugador": "ZABALETA UGARTEBURU, URKO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ MUÑIZ, AITOR",
+  "entrenador_visitante": "URBANO LANDABASO, IMANOL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BEASKOETXEA SAN MARTIN, GORKA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BEASKOETXEA SAN MARTIN, GORKA",
+  "delegado_equipo_visitante": "ORIBE POBLACION, UNAI",
+  "titulares_local": [
+    "SALMERON RUIZ, OIHAN",
+    "MARUNTELU, IONUT EDUARD",
+    "RUIZ GARCIA DE VICUÑA, EDER",
+    "ALEJO LEJARRAGA, ENAITZ",
+    "RIBOTE LACALLE, EDER",
+    "GONZALEZ PEREZ, HUGO",
+    "TRIGUEROS BULLON, UNAX",
+    "ETXEZARRAGA URKIJO, PEIO",
+    "AGINAKO SOLAUN, XABIER",
+    "COBELO VELEZ, IBAI",
+    "CORO LOPEZ, ALVARO"
+  ],
+  "titulares_visitante": [
+    "BARAINKA BARAINKA, IKER",
+    "ZABALETA UGARTEBURU, URKO",
+    "ARANBERRI CASTORENE, UNAI",
+    "BALENCIAGA FERNANDEZ, DANEL",
+    "GOITIA EIZAGIRRE, DANEL",
+    "BEASKOETXEA ITURAT, IZEI",
+    "TXOPITEA PAGAEGI, LIZAR",
+    "DIATTA DIATTA, OULYA-SANDIA",
+    "ORIBE IRIGOIEN, EKAIN",
+    "MURELAGA ERDOZIA, MIKEL",
+    "SULA PAULLAN, JHOSTYN JESUS"
+  ],
+  "suplentes_local": [
+    "MOLINA GARCIA, ALEX",
+    "OTERO LABRADOR, UNAI",
+    "BEASKOETXEA SANCHEZ, GALDER",
+    "LOZANO LOPEZ, MARKEL",
+    "BLANCO MARTIN, UNAI",
+    "GONZALEZ CASTILLO, DANEL"
+  ],
+  "suplentes_visitante": [
+    "GABIOLA ZABALETA, LANTZ",
+    "ANAKABE SOLAUN, LANDER",
+    "ALZOLA BERMEJO, IBAI",
+    "DIAZ IKARAN, UNAX",
+    "EGIA BUA, ENAITZ",
+    "ARRASATE ECHEBARRIA, URKO"
+  ],
+  "convocados_sin_jugar_local": [
+    "MOLINA GARCIA, ALEX"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GABIOLA ZABALETA, LANTZ"
+  ],
+  "jugadores_local": [
+    "SALMERON RUIZ, OIHAN",
+    "MARUNTELU, IONUT EDUARD",
+    "RUIZ GARCIA DE VICUÑA, EDER",
+    "ALEJO LEJARRAGA, ENAITZ",
+    "RIBOTE LACALLE, EDER",
+    "GONZALEZ PEREZ, HUGO",
+    "TRIGUEROS BULLON, UNAX",
+    "ETXEZARRAGA URKIJO, PEIO",
+    "AGINAKO SOLAUN, XABIER",
+    "COBELO VELEZ, IBAI",
+    "CORO LOPEZ, ALVARO",
+    "BLANCO MARTIN, UNAI",
+    "GONZALEZ CASTILLO, DANEL",
+    "BEASKOETXEA SANCHEZ, GALDER",
+    "OTERO LABRADOR, UNAI",
+    "LOZANO LOPEZ, MARKEL"
+  ],
+  "jugadores_visitante": [
+    "BARAINKA BARAINKA, IKER",
+    "ZABALETA UGARTEBURU, URKO",
+    "ARANBERRI CASTORENE, UNAI",
+    "BALENCIAGA FERNANDEZ, DANEL",
+    "GOITIA EIZAGIRRE, DANEL",
+    "BEASKOETXEA ITURAT, IZEI",
+    "TXOPITEA PAGAEGI, LIZAR",
+    "DIATTA DIATTA, OULYA-SANDIA",
+    "ORIBE IRIGOIEN, EKAIN",
+    "MURELAGA ERDOZIA, MIKEL",
+    "SULA PAULLAN, JHOSTYN JESUS",
+    "DIAZ IKARAN, UNAX",
+    "ANAKABE SOLAUN, LANDER",
+    "ALZOLA BERMEJO, IBAI",
+    "ARRASATE ECHEBARRIA, URKO",
+    "EGIA BUA, ENAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 28,
+      "entra": "BLANCO MARTIN, UNAI",
+      "sale": "GONZALEZ PEREZ, HUGO"
+    },
+    {
+      "min": 28,
+      "entra": "GONZALEZ CASTILLO, DANEL",
+      "sale": "MARUNTELU, IONUT EDUARD"
+    },
+    {
+      "min": 57,
+      "entra": "BEASKOETXEA SANCHEZ, GALDER",
+      "sale": "AGINAKO SOLAUN, XABIER"
+    },
+    {
+      "min": 70,
+      "entra": "OTERO LABRADOR, UNAI",
+      "sale": "ETXEZARRAGA URKIJO, PEIO"
+    },
+    {
+      "min": 70,
+      "entra": "LOZANO LOPEZ, MARKEL",
+      "sale": "GONZALEZ CASTILLO, DANEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "DIAZ IKARAN, UNAX",
+      "sale": "SULA PAULLAN, JHOSTYN JESUS"
+    },
+    {
+      "min": 60,
+      "entra": "ANAKABE SOLAUN, LANDER",
+      "sale": "TXOPITEA PAGAEGI, LIZAR"
+    },
+    {
+      "min": 60,
+      "entra": "ALZOLA BERMEJO, IBAI",
+      "sale": "ZABALETA UGARTEBURU, URKO"
+    },
+    {
+      "min": 72,
+      "entra": "ARRASATE ECHEBARRIA, URKO",
+      "sale": "MURELAGA ERDOZIA, MIKEL"
+    },
+    {
+      "min": 72,
+      "entra": "EGIA BUA, ENAITZ",
+      "sale": "GOITIA EIZAGIRRE, DANEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "SALMERON RUIZ, OIHAN": 90,
+    "MARUNTELU, IONUT EDUARD": 28,
+    "RUIZ GARCIA DE VICUÑA, EDER": 90,
+    "ALEJO LEJARRAGA, ENAITZ": 90,
+    "RIBOTE LACALLE, EDER": 90,
+    "GONZALEZ PEREZ, HUGO": 28,
+    "TRIGUEROS BULLON, UNAX": 90,
+    "ETXEZARRAGA URKIJO, PEIO": 70,
+    "AGINAKO SOLAUN, XABIER": 57,
+    "COBELO VELEZ, IBAI": 90,
+    "CORO LOPEZ, ALVARO": 90,
+    "BLANCO MARTIN, UNAI": 62,
+    "GONZALEZ CASTILLO, DANEL": 70,
+    "BEASKOETXEA SANCHEZ, GALDER": 33,
+    "OTERO LABRADOR, UNAI": 20,
+    "LOZANO LOPEZ, MARKEL": 20,
+    "BARAINKA BARAINKA, IKER": 90,
+    "ZABALETA UGARTEBURU, URKO": 60,
+    "ARANBERRI CASTORENE, UNAI": 90,
+    "BALENCIAGA FERNANDEZ, DANEL": 90,
+    "GOITIA EIZAGIRRE, DANEL": 72,
+    "BEASKOETXEA ITURAT, IZEI": 90,
+    "TXOPITEA PAGAEGI, LIZAR": 60,
+    "DIATTA DIATTA, OULYA-SANDIA": 90,
+    "ORIBE IRIGOIEN, EKAIN": 90,
+    "MURELAGA ERDOZIA, MIKEL": 72,
+    "SULA PAULLAN, JHOSTYN JESUS": 50,
+    "DIAZ IKARAN, UNAX": 40,
+    "ANAKABE SOLAUN, LANDER": 30,
+    "ALZOLA BERMEJO, IBAI": 30,
+    "ARRASATE ECHEBARRIA, URKO": 18,
+    "EGIA BUA, ENAITZ": 18
+  },
+  "portero_local": "SALMERON RUIZ, OIHAN",
+  "portero_visitante": "BARAINKA BARAINKA, IKER",
+  "dorsales_local": {
+    "SALMERON RUIZ, OIHAN": 1,
+    "MARUNTELU, IONUT EDUARD": 2,
+    "RUIZ GARCIA DE VICUÑA, EDER": 3,
+    "ALEJO LEJARRAGA, ENAITZ": 4,
+    "RIBOTE LACALLE, EDER": 5,
+    "GONZALEZ PEREZ, HUGO": 6,
+    "TRIGUEROS BULLON, UNAX": 8,
+    "ETXEZARRAGA URKIJO, PEIO": 9,
+    "AGINAKO SOLAUN, XABIER": 12,
+    "COBELO VELEZ, IBAI": 18,
+    "CORO LOPEZ, ALVARO": 22
+  },
+  "dorsales_visitante": {
+    "BARAINKA BARAINKA, IKER": 13,
+    "ZABALETA UGARTEBURU, URKO": 2,
+    "ARANBERRI CASTORENE, UNAI": 3,
+    "BALENCIAGA FERNANDEZ, DANEL": 4,
+    "GOITIA EIZAGIRRE, DANEL": 5,
+    "BEASKOETXEA ITURAT, IZEI": 7,
+    "TXOPITEA PAGAEGI, LIZAR": 8,
+    "DIATTA DIATTA, OULYA-SANDIA": 9,
+    "ORIBE IRIGOIEN, EKAIN": 10,
+    "MURELAGA ERDOZIA, MIKEL": 12,
+    "SULA PAULLAN, JHOSTYN JESUS": 18
+  },
+  "suspendidos": []
+}
