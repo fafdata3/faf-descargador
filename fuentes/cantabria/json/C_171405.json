@@ -1,0 +1,238 @@
+{
+  "acta_id": "C_171405",
+  "filename": "Acta_C_171405.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 28,
+  "fecha": "20-04-2024",
+  "hora": "17:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. CAYON A",
+  "equipo_visitante": "C.D. CASTROVERDE",
+  "goles_local": 6,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAHAGUN SAIZ, ALVARO"
+  ],
+  "estadio": "Saron 2",
+  "ciudad": "Santa María de Cayón",
+  "goleadores": [
+    {
+      "minuto": 33,
+      "jugador": "LOPEZ GARCIA DEL POMAR, PELAYO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "ESCALADA COBO, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "LAZA ORTIZ, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "DIAZ REVUELTA, RODRIGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "García Fernández, AARON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "García Fernández, AARON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 54,
+      "jugador": "ESCALADA COBO, SAMUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "COBO RUIZ, MARIO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "NEGUERUELA RUIZ, SERGIO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DIAZ RUIZ, MARCOS",
+    "POPOVICI, MADALIN",
+    "BECERRIL ALONSO, SERGIO",
+    "SAINZ SAINZ, ISMAEL",
+    "PARDO ANUARBE, HUGO",
+    "ESCALADA COBO, SAMUEL",
+    "BARCENA CASTRO, HUGO",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "LAZA ORTIZ, PABLO",
+    "GANDARILLAS BUSTILLO, LUIS",
+    "DIAZ REVUELTA, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "GARCIA DEL OLMO, DIEGO",
+    "PEREZ MAESTRE, JUAN",
+    "negrete minguez, DANIEL",
+    "IBARRA SARO, ANGEL",
+    "MALO GARCIA, LARO",
+    "AREVALO DASCALU, CARLOS",
+    "SANCHEZ ALONSO, MANUEL PEDRO",
+    "PEÑA LLANES, FRANCISCO JAVIER",
+    "SUBIRANA PAIS, CARLOS",
+    "BA, YOUNOUSS",
+    "CENTENO VARILLAS, JORGE"
+  ],
+  "suplentes_local": [
+    "PRIETO RODRIGUEZ, JOSE MARIA",
+    "GONZALEZ GONZALEZ, RAUL",
+    "García Fernández, AARON"
+  ],
+  "suplentes_visitante": [
+    "LOSADA VIADERO, PABLO",
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DIAZ RUIZ, MARCOS",
+    "POPOVICI, MADALIN",
+    "BECERRIL ALONSO, SERGIO",
+    "SAINZ SAINZ, ISMAEL",
+    "PARDO ANUARBE, HUGO",
+    "ESCALADA COBO, SAMUEL",
+    "BARCENA CASTRO, HUGO",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "LAZA ORTIZ, PABLO",
+    "GANDARILLAS BUSTILLO, LUIS",
+    "DIAZ REVUELTA, RODRIGO",
+    "GONZALEZ GONZALEZ, RAUL",
+    "García Fernández, AARON",
+    "PRIETO RODRIGUEZ, JOSE MARIA"
+  ],
+  "jugadores_visitante": [
+    "GARCIA DEL OLMO, DIEGO",
+    "PEREZ MAESTRE, JUAN",
+    "negrete minguez, DANIEL",
+    "IBARRA SARO, ANGEL",
+    "MALO GARCIA, LARO",
+    "AREVALO DASCALU, CARLOS",
+    "SANCHEZ ALONSO, MANUEL PEDRO",
+    "PEÑA LLANES, FRANCISCO JAVIER",
+    "SUBIRANA PAIS, CARLOS",
+    "BA, YOUNOUSS",
+    "CENTENO VARILLAS, JORGE",
+    "LOSADA VIADERO, PABLO",
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "GONZALEZ GONZALEZ, RAUL",
+      "sale": "BARCENA CASTRO, HUGO"
+    },
+    {
+      "min": 62,
+      "entra": "García Fernández, AARON",
+      "sale": "ESCALADA COBO, SAMUEL"
+    },
+    {
+      "min": 62,
+      "entra": "PRIETO RODRIGUEZ, JOSE MARIA",
+      "sale": "PARDO ANUARBE, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "LOSADA VIADERO, PABLO",
+      "sale": "IBARRA SARO, ANGEL"
+    },
+    {
+      "min": 54,
+      "entra": "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE",
+      "sale": "PEREZ MAESTRE, JUAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "DIAZ RUIZ, MARCOS": 90,
+    "POPOVICI, MADALIN": 90,
+    "BECERRIL ALONSO, SERGIO": 90,
+    "SAINZ SAINZ, ISMAEL": 90,
+    "PARDO ANUARBE, HUGO": 62,
+    "ESCALADA COBO, SAMUEL": 62,
+    "BARCENA CASTRO, HUGO": 58,
+    "LOPEZ GARCIA DEL POMAR, PELAYO": 90,
+    "LAZA ORTIZ, PABLO": 90,
+    "GANDARILLAS BUSTILLO, LUIS": 90,
+    "DIAZ REVUELTA, RODRIGO": 90,
+    "GONZALEZ GONZALEZ, RAUL": 32,
+    "García Fernández, AARON": 28,
+    "PRIETO RODRIGUEZ, JOSE MARIA": 28,
+    "GARCIA DEL OLMO, DIEGO": 90,
+    "PEREZ MAESTRE, JUAN": 54,
+    "negrete minguez, DANIEL": 90,
+    "IBARRA SARO, ANGEL": 41,
+    "MALO GARCIA, LARO": 90,
+    "AREVALO DASCALU, CARLOS": 90,
+    "SANCHEZ ALONSO, MANUEL PEDRO": 90,
+    "PEÑA LLANES, FRANCISCO JAVIER": 90,
+    "SUBIRANA PAIS, CARLOS": 90,
+    "BA, YOUNOUSS": 90,
+    "CENTENO VARILLAS, JORGE": 90,
+    "LOSADA VIADERO, PABLO": 49,
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE": 36
+  },
+  "portero_local": "DIAZ RUIZ, MARCOS",
+  "portero_visitante": "GARCIA DEL OLMO, DIEGO",
+  "dorsales_local": {
+    "DIAZ RUIZ, MARCOS": 1,
+    "POPOVICI, MADALIN": 2,
+    "BECERRIL ALONSO, SERGIO": 3,
+    "SAINZ SAINZ, ISMAEL": 4,
+    "PARDO ANUARBE, HUGO": 5,
+    "ESCALADA COBO, SAMUEL": 6,
+    "BARCENA CASTRO, HUGO": 7,
+    "LOPEZ GARCIA DEL POMAR, PELAYO": 8,
+    "LAZA ORTIZ, PABLO": 9,
+    "GANDARILLAS BUSTILLO, LUIS": 10,
+    "DIAZ REVUELTA, RODRIGO": 11
+  },
+  "dorsales_visitante": {
+    "GARCIA DEL OLMO, DIEGO": 13,
+    "PEREZ MAESTRE, JUAN": 3,
+    "negrete minguez, DANIEL": 4,
+    "IBARRA SARO, ANGEL": 7,
+    "MALO GARCIA, LARO": 8,
+    "AREVALO DASCALU, CARLOS": 12,
+    "SANCHEZ ALONSO, MANUEL PEDRO": 15,
+    "PEÑA LLANES, FRANCISCO JAVIER": 18,
+    "SUBIRANA PAIS, CARLOS": 29,
+    "BA, YOUNOUSS": 30,
+    "CENTENO VARILLAS, JORGE": 38
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
