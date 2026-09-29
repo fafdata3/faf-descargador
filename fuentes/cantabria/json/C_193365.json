@@ -1,0 +1,233 @@
+{
+  "acta_id": "C_193365",
+  "filename": "Acta_C_193365.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 4,
+  "fecha": "12-10-2024",
+  "hora": "11:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. NAVAL A",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MARTINEZ ONECHA, CLAUDIA"
+  ],
+  "estadio": "Reinosa",
+  "ciudad": "Reinosa",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "MANTILLA MARTIN, MAEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 15,
+      "jugador": "MANTILLA MARTIN, MAEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "MANTILLA MARTIN, MAEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 41,
+      "jugador": "ROMANO ROSEÑADA, DAVID",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    }
+  ],
+  "entrenador_local": "GARCIA GOMEZ, JESUS ANGEL",
+  "entrenador_visitante": "ESTRADA CANOVAS, MARIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BERNARDO CUERVO, ALEJANDRO",
+  "delegado_equipo_visitante": "ROMANO ROSEÑADA, DAVID",
+  "titulares_local": [
+    "BERNARDO AGUILERA, DIEGO",
+    "JORRIN GARCIA, IKER",
+    "VELEZ VALDES, ABRAHAM",
+    "FERNANDEZ OSMA, ANGEL",
+    "FERNANDEZ TRAVIESA, MATEO",
+    "GARRIDO GARCIA, MATEO JULIAN",
+    "GONZALEZ ALVAREZ, ALONSO",
+    "SERNA RODRIGUEZ, HECTOR",
+    "MANTILLA MARTIN, MAEL",
+    "CIEZA PEREZ, ASIER",
+    "RUIZ MARTINEZ, LUCAS"
+  ],
+  "titulares_visitante": [
+    "PIEDRA RUIZ, ASIER",
+    "MARSELLA GONZALEZ, SERGIO",
+    "ZUAZO IBAÑEZ, GONZALO",
+    "ABASCAL ITURRALDE, HUGO",
+    "MARTINEZ ARGOS, IBER",
+    "BARANDA HERRERA, JUAN JOSE",
+    "PRADA DE MIGUEL, DARIO",
+    "ANTOLIN RODRIGUEZ, MATEO",
+    "REVUELTA FERNÁNDEZ, NORBERTO",
+    "RUAS GARCÍA, MARIO",
+    "GARCIA GONZALEZ, DIEGO"
+  ],
+  "suplentes_local": [
+    "GONZALEZ MENDES, MARTIN",
+    "PEÑASCO RUIZ, HUGO",
+    "MARTINEZ JORRIN, MATEO"
+  ],
+  "suplentes_visitante": [
+    "CORIA, THIAGO",
+    "CANO VELA, ARITZ",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "BASTIDA TÚRREZ, SAMUEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BERNARDO AGUILERA, DIEGO",
+    "JORRIN GARCIA, IKER",
+    "VELEZ VALDES, ABRAHAM",
+    "FERNANDEZ OSMA, ANGEL",
+    "FERNANDEZ TRAVIESA, MATEO",
+    "GARRIDO GARCIA, MATEO JULIAN",
+    "GONZALEZ ALVAREZ, ALONSO",
+    "SERNA RODRIGUEZ, HECTOR",
+    "MANTILLA MARTIN, MAEL",
+    "CIEZA PEREZ, ASIER",
+    "RUIZ MARTINEZ, LUCAS",
+    "GONZALEZ MENDES, MARTIN",
+    "PEÑASCO RUIZ, HUGO",
+    "MARTINEZ JORRIN, MATEO"
+  ],
+  "jugadores_visitante": [
+    "PIEDRA RUIZ, ASIER",
+    "MARSELLA GONZALEZ, SERGIO",
+    "ZUAZO IBAÑEZ, GONZALO",
+    "ABASCAL ITURRALDE, HUGO",
+    "MARTINEZ ARGOS, IBER",
+    "BARANDA HERRERA, JUAN JOSE",
+    "PRADA DE MIGUEL, DARIO",
+    "ANTOLIN RODRIGUEZ, MATEO",
+    "REVUELTA FERNÁNDEZ, NORBERTO",
+    "RUAS GARCÍA, MARIO",
+    "GARCIA GONZALEZ, DIEGO",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "CANO VELA, ARITZ",
+    "BASTIDA TÚRREZ, SAMUEL",
+    "CORIA, THIAGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 37,
+      "entra": "GONZALEZ MENDES, MARTIN",
+      "sale": "SERNA RODRIGUEZ, HECTOR"
+    },
+    {
+      "min": 50,
+      "entra": "PEÑASCO RUIZ, HUGO",
+      "sale": "FERNANDEZ TRAVIESA, MATEO"
+    },
+    {
+      "min": 57,
+      "entra": "MARTINEZ JORRIN, MATEO",
+      "sale": "RUIZ MARTINEZ, LUCAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 39,
+      "entra": "GONZALEZ FERNANDEZ, GABRIEL",
+      "sale": "BARANDA HERRERA, JUAN JOSE"
+    },
+    {
+      "min": 53,
+      "entra": "CANO VELA, ARITZ",
+      "sale": "MARTINEZ ARGOS, IBER"
+    },
+    {
+      "min": 56,
+      "entra": "BASTIDA TÚRREZ, SAMUEL",
+      "sale": "ZUAZO IBAÑEZ, GONZALO"
+    },
+    {
+      "min": 56,
+      "entra": "CORIA, THIAGO",
+      "sale": "RUAS GARCÍA, MARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "BERNARDO AGUILERA, DIEGO": 90,
+    "JORRIN GARCIA, IKER": 90,
+    "VELEZ VALDES, ABRAHAM": 90,
+    "FERNANDEZ OSMA, ANGEL": 90,
+    "FERNANDEZ TRAVIESA, MATEO": 50,
+    "GARRIDO GARCIA, MATEO JULIAN": 90,
+    "GONZALEZ ALVAREZ, ALONSO": 90,
+    "SERNA RODRIGUEZ, HECTOR": 37,
+    "MANTILLA MARTIN, MAEL": 90,
+    "CIEZA PEREZ, ASIER": 90,
+    "RUIZ MARTINEZ, LUCAS": 57,
+    "GONZALEZ MENDES, MARTIN": 53,
+    "PEÑASCO RUIZ, HUGO": 40,
+    "MARTINEZ JORRIN, MATEO": 33,
+    "PIEDRA RUIZ, ASIER": 90,
+    "MARSELLA GONZALEZ, SERGIO": 90,
+    "ZUAZO IBAÑEZ, GONZALO": 56,
+    "ABASCAL ITURRALDE, HUGO": 90,
+    "MARTINEZ ARGOS, IBER": 53,
+    "BARANDA HERRERA, JUAN JOSE": 39,
+    "PRADA DE MIGUEL, DARIO": 90,
+    "ANTOLIN RODRIGUEZ, MATEO": 90,
+    "REVUELTA FERNÁNDEZ, NORBERTO": 90,
+    "RUAS GARCÍA, MARIO": 56,
+    "GARCIA GONZALEZ, DIEGO": 90,
+    "GONZALEZ FERNANDEZ, GABRIEL": 51,
+    "CANO VELA, ARITZ": 37,
+    "BASTIDA TÚRREZ, SAMUEL": 34,
+    "CORIA, THIAGO": 34
+  },
+  "portero_local": "BERNARDO AGUILERA, DIEGO",
+  "portero_visitante": "PIEDRA RUIZ, ASIER",
+  "dorsales_local": {
+    "BERNARDO AGUILERA, DIEGO": 13,
+    "JORRIN GARCIA, IKER": 2,
+    "VELEZ VALDES, ABRAHAM": 3,
+    "FERNANDEZ OSMA, ANGEL": 4,
+    "FERNANDEZ TRAVIESA, MATEO": 5,
+    "GARRIDO GARCIA, MATEO JULIAN": 6,
+    "GONZALEZ ALVAREZ, ALONSO": 8,
+    "SERNA RODRIGUEZ, HECTOR": 9,
+    "MANTILLA MARTIN, MAEL": 10,
+    "CIEZA PEREZ, ASIER": 14,
+    "RUIZ MARTINEZ, LUCAS": 19
+  },
+  "dorsales_visitante": {
+    "PIEDRA RUIZ, ASIER": 1,
+    "MARSELLA GONZALEZ, SERGIO": 2,
+    "ZUAZO IBAÑEZ, GONZALO": 5,
+    "ABASCAL ITURRALDE, HUGO": 6,
+    "MARTINEZ ARGOS, IBER": 8,
+    "BARANDA HERRERA, JUAN JOSE": 9,
+    "PRADA DE MIGUEL, DARIO": 10,
+    "ANTOLIN RODRIGUEZ, MATEO": 12,
+    "REVUELTA FERNÁNDEZ, NORBERTO": 14,
+    "RUAS GARCÍA, MARIO": 19,
+    "GARCIA GONZALEZ, DIEGO": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
