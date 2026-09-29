@@ -1,0 +1,274 @@
+{
+  "acta_id": "C_192763",
+  "filename": "Acta_C_192763.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 5,
+  "fecha": "05-10-2024",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. MONTE A",
+  "equipo_visitante": "C.D. TROPEZON A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "ALVAREZ CALDERON, PABLO"
+  ],
+  "estadio": "Monte 1",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "PEREZ PINILLA, EMILIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 47,
+      "jugador": "FERRADAS GONZALEZ-CORDERO, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "TOSIO CAPDEVILA, JAIME",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "PEREZ BUSTAMANTE, FERNANDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 4,
+      "jugador": "GIL PANDO, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "ALVES DOS SANTOS, EDUARDO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "MONTES RIEGA, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "MENDIGUCHIA MONTES, AITOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 42,
+      "jugador": "GOMEZ GARCIA, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MONTES RIEGA, ADRIAN",
+  "entrenador_visitante": "MONTES VACAS, ANGEL L",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MENDIGUCHIA MONTES, AITOR",
+  "delegado_equipo_visitante": "CANO MANTECON, IVAN",
+  "titulares_local": [
+    "REVILLA REYES, ALVARO",
+    "ALVES DOS SANTOS, EDUARDO",
+    "SAÑUDO MIER, NICOLAS",
+    "GIL PANDO, ALEJANDRO",
+    "FERRADAS GONZALEZ-CORDERO, DIEGO",
+    "CARRASCO ALBA, ARES",
+    "OJEA ALONSO, HUGO",
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL",
+    "ELORZA, KYLE JASON",
+    "URIARTE MADRAZO, ADRIAN",
+    "TOSIO CAPDEVILA, JAIME"
+  ],
+  "titulares_visitante": [
+    "LOPEZ CAYON, BORJA",
+    "EZZAKRAOUI, OSAMA",
+    "SAINZ GONZALEZ, VALENTIN",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "GONZALEZ SAIZ, IKER",
+    "DIAZ CORONA, MARCOS",
+    "PEREZ PINILLA, EMILIO",
+    "TERAN RUIZ, GERARDO",
+    "GALLO POZUETA, ALVARO",
+    "DE DIEGO RUBAYO, SAUL",
+    "NOUKEU BALBAS, THIERRY STEVE"
+  ],
+  "suplentes_local": [
+    "VEGA GUTIERREZ, ALBERTO",
+    "SOLAR LAVIN, EDUARDO",
+    "DE SILONIZ MARTINEZ, DANIEL",
+    "PEREZ BUSTAMANTE, FERNANDO"
+  ],
+  "suplentes_visitante": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "MARTIN RUIZ, PABLO",
+    "GOMEZ GARCIA, LUCAS",
+    "SAMANO TAZON, MANUEL",
+    "blanco gonzalez, MARIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "VEGA GUTIERREZ, ALBERTO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DE LA FUENTE CAYUSO, NICOLAS"
+  ],
+  "jugadores_local": [
+    "REVILLA REYES, ALVARO",
+    "ALVES DOS SANTOS, EDUARDO",
+    "SAÑUDO MIER, NICOLAS",
+    "GIL PANDO, ALEJANDRO",
+    "FERRADAS GONZALEZ-CORDERO, DIEGO",
+    "CARRASCO ALBA, ARES",
+    "OJEA ALONSO, HUGO",
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL",
+    "ELORZA, KYLE JASON",
+    "URIARTE MADRAZO, ADRIAN",
+    "TOSIO CAPDEVILA, JAIME",
+    "DE SILONIZ MARTINEZ, DANIEL",
+    "PEREZ BUSTAMANTE, FERNANDO",
+    "SOLAR LAVIN, EDUARDO"
+  ],
+  "jugadores_visitante": [
+    "LOPEZ CAYON, BORJA",
+    "EZZAKRAOUI, OSAMA",
+    "SAINZ GONZALEZ, VALENTIN",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "GONZALEZ SAIZ, IKER",
+    "DIAZ CORONA, MARCOS",
+    "PEREZ PINILLA, EMILIO",
+    "TERAN RUIZ, GERARDO",
+    "GALLO POZUETA, ALVARO",
+    "DE DIEGO RUBAYO, SAUL",
+    "NOUKEU BALBAS, THIERRY STEVE",
+    "GOMEZ GARCIA, LUCAS",
+    "SAMANO TAZON, MANUEL",
+    "MARTIN RUIZ, PABLO",
+    "blanco gonzalez, MARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "DE SILONIZ MARTINEZ, DANIEL",
+      "sale": "KEMAMI TCHANTCHOU, NGASSAM ISMAEL"
+    },
+    {
+      "min": 44,
+      "entra": "PEREZ BUSTAMANTE, FERNANDO",
+      "sale": "ELORZA, KYLE JASON"
+    },
+    {
+      "min": 50,
+      "entra": "SOLAR LAVIN, EDUARDO",
+      "sale": "OJEA ALONSO, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "GOMEZ GARCIA, LUCAS",
+      "sale": "GONZALEZ SAIZ, IKER"
+    },
+    {
+      "min": 41,
+      "entra": "SAMANO TAZON, MANUEL",
+      "sale": "PEREZ PINILLA, EMILIO"
+    },
+    {
+      "min": 44,
+      "entra": "MARTIN RUIZ, PABLO",
+      "sale": "DE DIEGO RUBAYO, SAUL"
+    },
+    {
+      "min": 48,
+      "entra": "blanco gonzalez, MARIO",
+      "sale": "GALLO POZUETA, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "REVILLA REYES, ALVARO": 90,
+    "ALVES DOS SANTOS, EDUARDO": 90,
+    "SAÑUDO MIER, NICOLAS": 90,
+    "GIL PANDO, ALEJANDRO": 90,
+    "FERRADAS GONZALEZ-CORDERO, DIEGO": 90,
+    "CARRASCO ALBA, ARES": 90,
+    "OJEA ALONSO, HUGO": 50,
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL": 44,
+    "ELORZA, KYLE JASON": 44,
+    "URIARTE MADRAZO, ADRIAN": 90,
+    "TOSIO CAPDEVILA, JAIME": 90,
+    "DE SILONIZ MARTINEZ, DANIEL": 46,
+    "PEREZ BUSTAMANTE, FERNANDO": 46,
+    "SOLAR LAVIN, EDUARDO": 40,
+    "LOPEZ CAYON, BORJA": 90,
+    "EZZAKRAOUI, OSAMA": 90,
+    "SAINZ GONZALEZ, VALENTIN": 90,
+    "DIPSE, AUGUSTIN VALENTIN": 90,
+    "GONZALEZ SAIZ, IKER": 41,
+    "DIAZ CORONA, MARCOS": 90,
+    "PEREZ PINILLA, EMILIO": 41,
+    "TERAN RUIZ, GERARDO": 90,
+    "GALLO POZUETA, ALVARO": 48,
+    "DE DIEGO RUBAYO, SAUL": 44,
+    "NOUKEU BALBAS, THIERRY STEVE": 90,
+    "GOMEZ GARCIA, LUCAS": 49,
+    "SAMANO TAZON, MANUEL": 49,
+    "MARTIN RUIZ, PABLO": 46,
+    "blanco gonzalez, MARIO": 42
+  },
+  "portero_local": "REVILLA REYES, ALVARO",
+  "portero_visitante": "LOPEZ CAYON, BORJA",
+  "dorsales_local": {
+    "REVILLA REYES, ALVARO": 13,
+    "ALVES DOS SANTOS, EDUARDO": 2,
+    "SAÑUDO MIER, NICOLAS": 3,
+    "GIL PANDO, ALEJANDRO": 5,
+    "FERRADAS GONZALEZ-CORDERO, DIEGO": 8,
+    "CARRASCO ALBA, ARES": 10,
+    "OJEA ALONSO, HUGO": 11,
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL": 14,
+    "ELORZA, KYLE JASON": 15,
+    "URIARTE MADRAZO, ADRIAN": 16,
+    "TOSIO CAPDEVILA, JAIME": 17
+  },
+  "dorsales_visitante": {
+    "LOPEZ CAYON, BORJA": 13,
+    "EZZAKRAOUI, OSAMA": 3,
+    "SAINZ GONZALEZ, VALENTIN": 4,
+    "DIPSE, AUGUSTIN VALENTIN": 7,
+    "GONZALEZ SAIZ, IKER": 8,
+    "DIAZ CORONA, MARCOS": 9,
+    "PEREZ PINILLA, EMILIO": 10,
+    "TERAN RUIZ, GERARDO": 14,
+    "GALLO POZUETA, ALVARO": 20,
+    "DE DIEGO RUBAYO, SAUL": 22,
+    "NOUKEU BALBAS, THIERRY STEVE": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
