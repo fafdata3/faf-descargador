@@ -1,0 +1,262 @@
+{
+  "acta_id": "B_2008211",
+  "filename": "Acta_B_2008211.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 16,
+  "fecha": "26-01-2025",
+  "hora": "17:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "TRAPAGARAN A",
+  "equipo_visitante": "ABANTO",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ARRANZ ROMAÑA, AITOR"
+  ],
+  "estadio": "ERROTARTE",
+  "ciudad": "TRAPAGARAN",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "MBA MBA, MIGUEL MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "CASADEMUNT QUIROGA, ANARTZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "BAYON CALVO, ARITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "IBAÑEZ ZAMORA, DANEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA URQUIJO, GAIZKA",
+  "entrenador_visitante": "RIVERA MON, SERGIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "AGUILAR LLINARES, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "AGUILAR LLINARES, IKER",
+  "delegado_equipo_visitante": "FERNANDEZ OCEJO, SERGIO",
+  "titulares_local": [
+    "GOMEZ GONZALEZ, AITOR",
+    "BAYON CALVO, ARITZ",
+    "GARAY LOPEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "CASADEMUNT QUIROGA, ANARTZ",
+    "GOYOAGA ENRIQUE, XABIER",
+    "ROMERO VARAS, UGATZ",
+    "ZUBIZARRETA VALLEJO, AIMAR",
+    "MBA MBA, MIGUEL MANUEL",
+    "GONZALEZ REDONDO, ISKANDER",
+    "MARIN GARCIA, ALVARO"
+  ],
+  "titulares_visitante": [
+    "GARCIA LEON, IRAULTZA",
+    "MEDINA ESTEPAR, ARATZ",
+    "ALVAREZ LOPEZ, KIMETZ",
+    "DIAZ SEGURA, UNAI",
+    "ELOLA ARRIBAS, UNAX",
+    "MENDIZABAL OTERO, XABI",
+    "MARCOS MONDELO, JON",
+    "ARRIBAS GARRIDO, UNAI",
+    "IBAÑEZ ZAMORA, DANEL",
+    "AYALA MOYANO, AIMAR",
+    "MIGUELEZ DELGADO, JONAY"
+  ],
+  "suplentes_local": [
+    "EROA SORIANO, OIER",
+    "NIEVES FERNANDEZ, ENAITZ",
+    "MORQUILLAS FERNANDEZ, TXEMA",
+    "INCHAUSTI BENITO, ENEKO",
+    "URIBE ESCRIBANO, IGARKI",
+    "PIZARRO GUISASOLA, PABLO",
+    "LOPEZ GONZALEZ, GAIZKA"
+  ],
+  "suplentes_visitante": [
+    "MEDINA CAUSO, BEÑAT",
+    "AZKONA PEREZ, ENEKO",
+    "BARRANCO URANGA, MARKEL",
+    "BASAGOITI ANGULO, HODEI",
+    "CRUZ SANCHEZ, URKO"
+  ],
+  "convocados_sin_jugar_local": [
+    "NIEVES FERNANDEZ, ENAITZ",
+    "MORQUILLAS FERNANDEZ, TXEMA"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GOMEZ GONZALEZ, AITOR",
+    "BAYON CALVO, ARITZ",
+    "GARAY LOPEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "CASADEMUNT QUIROGA, ANARTZ",
+    "GOYOAGA ENRIQUE, XABIER",
+    "ROMERO VARAS, UGATZ",
+    "ZUBIZARRETA VALLEJO, AIMAR",
+    "MBA MBA, MIGUEL MANUEL",
+    "GONZALEZ REDONDO, ISKANDER",
+    "MARIN GARCIA, ALVARO",
+    "EROA SORIANO, OIER",
+    "INCHAUSTI BENITO, ENEKO",
+    "PIZARRO GUISASOLA, PABLO",
+    "LOPEZ GONZALEZ, GAIZKA",
+    "URIBE ESCRIBANO, IGARKI"
+  ],
+  "jugadores_visitante": [
+    "GARCIA LEON, IRAULTZA",
+    "MEDINA ESTEPAR, ARATZ",
+    "ALVAREZ LOPEZ, KIMETZ",
+    "DIAZ SEGURA, UNAI",
+    "ELOLA ARRIBAS, UNAX",
+    "MENDIZABAL OTERO, XABI",
+    "MARCOS MONDELO, JON",
+    "ARRIBAS GARRIDO, UNAI",
+    "IBAÑEZ ZAMORA, DANEL",
+    "AYALA MOYANO, AIMAR",
+    "MIGUELEZ DELGADO, JONAY",
+    "BARRANCO URANGA, MARKEL",
+    "CRUZ SANCHEZ, URKO",
+    "BASAGOITI ANGULO, HODEI",
+    "AZKONA PEREZ, ENEKO",
+    "MEDINA CAUSO, BEÑAT"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "EROA SORIANO, OIER",
+      "sale": "ROMERO VARAS, UGATZ"
+    },
+    {
+      "min": 54,
+      "entra": "INCHAUSTI BENITO, ENEKO",
+      "sale": "CASADEMUNT QUIROGA, ANARTZ"
+    },
+    {
+      "min": 70,
+      "entra": "PIZARRO GUISASOLA, PABLO",
+      "sale": "MARIN GARCIA, ALVARO"
+    },
+    {
+      "min": 70,
+      "entra": "LOPEZ GONZALEZ, GAIZKA",
+      "sale": "BAYON CALVO, ARITZ"
+    },
+    {
+      "min": 70,
+      "entra": "URIBE ESCRIBANO, IGARKI",
+      "sale": "ZUBIZARRETA VALLEJO, AIMAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "BARRANCO URANGA, MARKEL",
+      "sale": "AYALA MOYANO, AIMAR"
+    },
+    {
+      "min": 55,
+      "entra": "CRUZ SANCHEZ, URKO",
+      "sale": "ARRIBAS GARRIDO, UNAI"
+    },
+    {
+      "min": 65,
+      "entra": "BASAGOITI ANGULO, HODEI",
+      "sale": "MIGUELEZ DELGADO, JONAY"
+    },
+    {
+      "min": 65,
+      "entra": "AZKONA PEREZ, ENEKO",
+      "sale": "MEDINA ESTEPAR, ARATZ"
+    },
+    {
+      "min": 79,
+      "entra": "MEDINA CAUSO, BEÑAT",
+      "sale": "DIAZ SEGURA, UNAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ GONZALEZ, AITOR": 90,
+    "BAYON CALVO, ARITZ": 70,
+    "GARAY LOPEZ, IKER": 90,
+    "SESMERO RUIZ, XABIER": 90,
+    "CASADEMUNT QUIROGA, ANARTZ": 54,
+    "GOYOAGA ENRIQUE, XABIER": 90,
+    "ROMERO VARAS, UGATZ": 48,
+    "ZUBIZARRETA VALLEJO, AIMAR": 70,
+    "MBA MBA, MIGUEL MANUEL": 90,
+    "GONZALEZ REDONDO, ISKANDER": 90,
+    "MARIN GARCIA, ALVARO": 70,
+    "EROA SORIANO, OIER": 42,
+    "INCHAUSTI BENITO, ENEKO": 36,
+    "PIZARRO GUISASOLA, PABLO": 20,
+    "LOPEZ GONZALEZ, GAIZKA": 20,
+    "URIBE ESCRIBANO, IGARKI": 20,
+    "GARCIA LEON, IRAULTZA": 90,
+    "MEDINA ESTEPAR, ARATZ": 65,
+    "ALVAREZ LOPEZ, KIMETZ": 90,
+    "DIAZ SEGURA, UNAI": 79,
+    "ELOLA ARRIBAS, UNAX": 90,
+    "MENDIZABAL OTERO, XABI": 90,
+    "MARCOS MONDELO, JON": 90,
+    "ARRIBAS GARRIDO, UNAI": 55,
+    "IBAÑEZ ZAMORA, DANEL": 90,
+    "AYALA MOYANO, AIMAR": 55,
+    "MIGUELEZ DELGADO, JONAY": 65,
+    "BARRANCO URANGA, MARKEL": 35,
+    "CRUZ SANCHEZ, URKO": 35,
+    "BASAGOITI ANGULO, HODEI": 25,
+    "AZKONA PEREZ, ENEKO": 25,
+    "MEDINA CAUSO, BEÑAT": 11
+  },
+  "portero_local": "GOMEZ GONZALEZ, AITOR",
+  "portero_visitante": "GARCIA LEON, IRAULTZA",
+  "dorsales_local": {
+    "GOMEZ GONZALEZ, AITOR": 1,
+    "BAYON CALVO, ARITZ": 2,
+    "GARAY LOPEZ, IKER": 4,
+    "SESMERO RUIZ, XABIER": 5,
+    "CASADEMUNT QUIROGA, ANARTZ": 7,
+    "GOYOAGA ENRIQUE, XABIER": 8,
+    "ROMERO VARAS, UGATZ": 10,
+    "ZUBIZARRETA VALLEJO, AIMAR": 11,
+    "MBA MBA, MIGUEL MANUEL": 12,
+    "GONZALEZ REDONDO, ISKANDER": 15,
+    "MARIN GARCIA, ALVARO": 22
+  },
+  "dorsales_visitante": {
+    "GARCIA LEON, IRAULTZA": 13,
+    "MEDINA ESTEPAR, ARATZ": 3,
+    "ALVAREZ LOPEZ, KIMETZ": 4,
+    "DIAZ SEGURA, UNAI": 6,
+    "ELOLA ARRIBAS, UNAX": 7,
+    "MENDIZABAL OTERO, XABI": 8,
+    "MARCOS MONDELO, JON": 10,
+    "ARRIBAS GARRIDO, UNAI": 14,
+    "IBAÑEZ ZAMORA, DANEL": 16,
+    "AYALA MOYANO, AIMAR": 18,
+    "MIGUELEZ DELGADO, JONAY": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
