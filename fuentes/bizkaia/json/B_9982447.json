@@ -1,0 +1,272 @@
+{
+  "acta_id": "B_9982447",
+  "filename": "Acta_B_9982447.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 15,
+  "fecha": "17-01-2026",
+  "hora": "19:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "BERMEO A",
+  "equipo_visitante": "GERNIKA B",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CANO PÉREZ, JOSU"
+  ],
+  "estadio": "PENTA",
+  "ciudad": "Bermeo",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "ESPINOSA MAGUREGI, KIMETZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "FERNANDEZ BILBAO, ANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 1,
+      "jugador": "PARDO ZABALETA, AITOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "EL ABDELLAOUI BOUGUA, ADAM",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "LLERA PABLOS, UNAX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "LLERA PABLOS, UNAX",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "OLAETA ALVAREZ, JAVIER MANUEL",
+  "entrenador_visitante": "DEL RIO SESMA, BORJA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SOTO ROJO, MITXELKO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TAKOUISING, ALAIN BERTRAND",
+  "delegado_equipo_visitante": "ENDEMAÑO BARRENA, IÑIGO",
+  "titulares_local": [
+    "HERRAN AGUADO, ANDER",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "PARDO ZABALETA, AITOR",
+    "LAPAZA URIONDO, DANEL",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "HULTOANA, SERGIU DUMITRU",
+    "FERNANDEZ BILBAO, ANDER",
+    "LANDETA BATIS, ANER",
+    "ECHEVARRIA ARAUZ, ANDER",
+    "ROZA TELLETXEA, IBON",
+    "MIHAILA CALOTA, MIKEL"
+  ],
+  "titulares_visitante": [
+    "GUEDE ALCELAY, ANER",
+    "ENBEITA OLAETA, ENEKO",
+    "LLERA PABLOS, UNAX",
+    "HORMAETXEA ARRIEN, ENAITZ",
+    "ONCIOIU, IANIS MANUEL",
+    "ELORDUY LEBEDYEVA, ANDER KEPA",
+    "EGURROLA AURTENETXEA, MARKEL",
+    "ROMERO LOTINA, JON",
+    "MARTINEZ BILBAO, JON",
+    "ARRIZABALAGA ARECHEDERRETA, JON",
+    "ALVAREZ DA SILVA, EKAITZ"
+  ],
+  "suplentes_local": [
+    "SOTO URIARTE, KIMETZ",
+    "PASCUAL CABALLERO, MIKEL",
+    "OLIVEIRA GARCIA, PAUL",
+    "UNGUREANU, RADU IONUT",
+    "GOITIA GOIENETXEA, ANDER",
+    "SOTO ARTETXE, EKAITZ",
+    "ARROYO BILBAO, TXABER"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ COTRINA, UNAX XABIER",
+    "FARAPON, ANDREI",
+    "ZALLOETXEBARRIA EGUINO, UNAX",
+    "DE PRADO SEGADE, URKO",
+    "QUEVEDO OSORIO, DANIEL ALEXIS"
+  ],
+  "convocados_sin_jugar_local": [
+    "SOTO URIARTE, KIMETZ",
+    "ARROYO BILBAO, TXABER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "FERNANDEZ COTRINA, UNAX XABIER"
+  ],
+  "jugadores_local": [
+    "HERRAN AGUADO, ANDER",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "PARDO ZABALETA, AITOR",
+    "LAPAZA URIONDO, DANEL",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "HULTOANA, SERGIU DUMITRU",
+    "FERNANDEZ BILBAO, ANDER",
+    "LANDETA BATIS, ANER",
+    "ECHEVARRIA ARAUZ, ANDER",
+    "ROZA TELLETXEA, IBON",
+    "MIHAILA CALOTA, MIKEL",
+    "SOTO ARTETXE, EKAITZ",
+    "OLIVEIRA GARCIA, PAUL",
+    "PASCUAL CABALLERO, MIKEL",
+    "GOITIA GOIENETXEA, ANDER",
+    "UNGUREANU, RADU IONUT"
+  ],
+  "jugadores_visitante": [
+    "GUEDE ALCELAY, ANER",
+    "ENBEITA OLAETA, ENEKO",
+    "LLERA PABLOS, UNAX",
+    "HORMAETXEA ARRIEN, ENAITZ",
+    "ONCIOIU, IANIS MANUEL",
+    "ELORDUY LEBEDYEVA, ANDER KEPA",
+    "EGURROLA AURTENETXEA, MARKEL",
+    "ROMERO LOTINA, JON",
+    "MARTINEZ BILBAO, JON",
+    "ARRIZABALAGA ARECHEDERRETA, JON",
+    "ALVAREZ DA SILVA, EKAITZ",
+    "ZALLOETXEBARRIA EGUINO, UNAX",
+    "DE PRADO SEGADE, URKO",
+    "QUEVEDO OSORIO, DANIEL ALEXIS",
+    "FARAPON, ANDREI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "SOTO ARTETXE, EKAITZ",
+      "sale": "ECHEVARRIA ARAUZ, ANDER"
+    },
+    {
+      "min": 41,
+      "entra": "OLIVEIRA GARCIA, PAUL",
+      "sale": "MIHAILA CALOTA, MIKEL"
+    },
+    {
+      "min": 54,
+      "entra": "PASCUAL CABALLERO, MIKEL",
+      "sale": "ROZA TELLETXEA, IBON"
+    },
+    {
+      "min": 54,
+      "entra": "GOITIA GOIENETXEA, ANDER",
+      "sale": "HULTOANA, SERGIU DUMITRU"
+    },
+    {
+      "min": 54,
+      "entra": "UNGUREANU, RADU IONUT",
+      "sale": "PARDO ZABALETA, AITOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "ZALLOETXEBARRIA EGUINO, UNAX",
+      "sale": "ONCIOIU, IANIS MANUEL"
+    },
+    {
+      "min": 61,
+      "entra": "DE PRADO SEGADE, URKO",
+      "sale": "MARTINEZ BILBAO, JON"
+    },
+    {
+      "min": 64,
+      "entra": "QUEVEDO OSORIO, DANIEL ALEXIS",
+      "sale": "ROMERO LOTINA, JON"
+    },
+    {
+      "min": 64,
+      "entra": "FARAPON, ANDREI",
+      "sale": "ALVAREZ DA SILVA, EKAITZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "HERRAN AGUADO, ANDER": 90,
+    "ESPINOSA MAGUREGI, KIMETZ": 90,
+    "PARDO ZABALETA, AITOR": 54,
+    "LAPAZA URIONDO, DANEL": 90,
+    "EL ABDELLAOUI BOUGUA, ADAM": 90,
+    "HULTOANA, SERGIU DUMITRU": 54,
+    "FERNANDEZ BILBAO, ANDER": 90,
+    "LANDETA BATIS, ANER": 90,
+    "ECHEVARRIA ARAUZ, ANDER": 41,
+    "ROZA TELLETXEA, IBON": 54,
+    "MIHAILA CALOTA, MIKEL": 41,
+    "SOTO ARTETXE, EKAITZ": 49,
+    "OLIVEIRA GARCIA, PAUL": 49,
+    "PASCUAL CABALLERO, MIKEL": 36,
+    "GOITIA GOIENETXEA, ANDER": 36,
+    "UNGUREANU, RADU IONUT": 36,
+    "GUEDE ALCELAY, ANER": 90,
+    "ENBEITA OLAETA, ENEKO": 90,
+    "LLERA PABLOS, UNAX": 90,
+    "HORMAETXEA ARRIEN, ENAITZ": 90,
+    "ONCIOIU, IANIS MANUEL": 41,
+    "ELORDUY LEBEDYEVA, ANDER KEPA": 90,
+    "EGURROLA AURTENETXEA, MARKEL": 90,
+    "ROMERO LOTINA, JON": 64,
+    "MARTINEZ BILBAO, JON": 61,
+    "ARRIZABALAGA ARECHEDERRETA, JON": 90,
+    "ALVAREZ DA SILVA, EKAITZ": 64,
+    "ZALLOETXEBARRIA EGUINO, UNAX": 49,
+    "DE PRADO SEGADE, URKO": 29,
+    "QUEVEDO OSORIO, DANIEL ALEXIS": 26,
+    "FARAPON, ANDREI": 26
+  },
+  "portero_local": "HERRAN AGUADO, ANDER",
+  "portero_visitante": "GUEDE ALCELAY, ANER",
+  "dorsales_local": {
+    "HERRAN AGUADO, ANDER": 1,
+    "ESPINOSA MAGUREGI, KIMETZ": 3,
+    "PARDO ZABALETA, AITOR": 4,
+    "LAPAZA URIONDO, DANEL": 5,
+    "EL ABDELLAOUI BOUGUA, ADAM": 6,
+    "HULTOANA, SERGIU DUMITRU": 7,
+    "FERNANDEZ BILBAO, ANDER": 9,
+    "LANDETA BATIS, ANER": 10,
+    "ECHEVARRIA ARAUZ, ANDER": 12,
+    "ROZA TELLETXEA, IBON": 15,
+    "MIHAILA CALOTA, MIKEL": 23
+  },
+  "dorsales_visitante": {
+    "GUEDE ALCELAY, ANER": 13,
+    "ENBEITA OLAETA, ENEKO": 4,
+    "LLERA PABLOS, UNAX": 6,
+    "HORMAETXEA ARRIEN, ENAITZ": 8,
+    "ONCIOIU, IANIS MANUEL": 11,
+    "ELORDUY LEBEDYEVA, ANDER KEPA": 12,
+    "EGURROLA AURTENETXEA, MARKEL": 17,
+    "ROMERO LOTINA, JON": 20,
+    "MARTINEZ BILBAO, JON": 22,
+    "ARRIZABALAGA ARECHEDERRETA, JON": 23,
+    "ALVAREZ DA SILVA, EKAITZ": 27
+  },
+  "suspendidos": [
+    "LLERA PABLOS, UNAX"
+  ]
+}
