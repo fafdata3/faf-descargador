@@ -1,0 +1,250 @@
+{
+  "acta_id": "B_2008423",
+  "filename": "Acta_B_2008423.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 13,
+  "fecha": "04-01-2025",
+  "hora": "18:45",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ERMUA A",
+  "equipo_visitante": "INDAUTXU B",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MADERA LANDA, JON"
+  ],
+  "estadio": "TEODORO ZUAZUA",
+  "ciudad": "Ermua",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "JUBERA CANTADOR, LANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 74,
+      "jugador": "CASTRILLO ISASI, BEÑAT",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "ARAIZTEGI BERRIOZABAL, XARLES",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "AUSIN ANGULO, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CID RUIZ, JULEN",
+  "entrenador_visitante": "ARBULU GONZALEZ, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "DE LA HERRAN ARRIAZU, NICOLAS",
+  "delegado_campo_local": "POLO MARTIN, ENRIQUE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "POLO MARTIN, ENRIQUE",
+  "delegado_equipo_visitante": "GARCIA MATIAS, JUAN CARLOS",
+  "titulares_local": [
+    "LARREATEGUI SANTAMARIA, ANDER",
+    "MARTINEZ ZUBIZARRETA, JON",
+    "LARRAÑAGA LOPEZ, BEÑAT",
+    "AFASSI EL HAKKOUNI, ADIL",
+    "BLANCO MORALES, LUKEN",
+    "CARRASCOSA ARRIAGA, MARTXEL",
+    "MARTIN HONRUBIA, SERGIO",
+    "DOMINGO CARMONA, GARI",
+    "AHANNACH EL MESRI, GHASSAN",
+    "ALVAREZ ALVAREZ, ANER",
+    "ARAIZTEGI BERRIOZABAL, XARLES"
+  ],
+  "titulares_visitante": [
+    "RAIGOSA RAMIREZ, GEOVANI",
+    "ALONSO LOPEZ-MOLINA, MIKEL",
+    "TUBIA DE MIGUEL, DIEGO",
+    "JUBERA CANTADOR, LANDER",
+    "RUBIO SAINZ, EKAIN",
+    "MINTEGUI PINEDA, KERMAN",
+    "FONSECA JIMENEZ, ARITZ",
+    "BRUNET MORILLO, ASIER",
+    "MARIN GARCIA, TELMO",
+    "DE PEDRO ORTEGA, ORGI",
+    "TAMAYO ZAITEGUI, ALEX"
+  ],
+  "suplentes_local": [
+    "SANCHEZ PEREZ, IKER",
+    "LUQUE FERNANDEZ, ANDER",
+    "ACHAHBAR HADIR, AKRAM",
+    "GUISASOLA FERNANDEZ, OIHAN",
+    "GRAJALES VELEZ, JEAN PIERRE",
+    "CASTRILLO ISASI, BEÑAT"
+  ],
+  "suplentes_visitante": [
+    "MENDIBE CRESPO, ASIER",
+    "GAUBEKA ETCHEVERRY, DENIS",
+    "AUSIN ANGULO, DIEGO",
+    "FOKAM FOUHA, ROLLS ALEJANDRO",
+    "ZABALA GOÑI, MARTXELO",
+    "SAGLIARDI ROMERO, MASSIMO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GUISASOLA FERNANDEZ, OIHAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MENDIBE CRESPO, ASIER",
+    "GAUBEKA ETCHEVERRY, DENIS",
+    "SAGLIARDI ROMERO, MASSIMO"
+  ],
+  "jugadores_local": [
+    "LARREATEGUI SANTAMARIA, ANDER",
+    "MARTINEZ ZUBIZARRETA, JON",
+    "LARRAÑAGA LOPEZ, BEÑAT",
+    "AFASSI EL HAKKOUNI, ADIL",
+    "BLANCO MORALES, LUKEN",
+    "CARRASCOSA ARRIAGA, MARTXEL",
+    "MARTIN HONRUBIA, SERGIO",
+    "DOMINGO CARMONA, GARI",
+    "AHANNACH EL MESRI, GHASSAN",
+    "ALVAREZ ALVAREZ, ANER",
+    "ARAIZTEGI BERRIOZABAL, XARLES",
+    "CASTRILLO ISASI, BEÑAT",
+    "GRAJALES VELEZ, JEAN PIERRE",
+    "LUQUE FERNANDEZ, ANDER",
+    "SANCHEZ PEREZ, IKER",
+    "ACHAHBAR HADIR, AKRAM"
+  ],
+  "jugadores_visitante": [
+    "RAIGOSA RAMIREZ, GEOVANI",
+    "ALONSO LOPEZ-MOLINA, MIKEL",
+    "TUBIA DE MIGUEL, DIEGO",
+    "JUBERA CANTADOR, LANDER",
+    "RUBIO SAINZ, EKAIN",
+    "MINTEGUI PINEDA, KERMAN",
+    "FONSECA JIMENEZ, ARITZ",
+    "BRUNET MORILLO, ASIER",
+    "MARIN GARCIA, TELMO",
+    "DE PEDRO ORTEGA, ORGI",
+    "TAMAYO ZAITEGUI, ALEX",
+    "ZABALA GOÑI, MARTXELO",
+    "AUSIN ANGULO, DIEGO",
+    "FOKAM FOUHA, ROLLS ALEJANDRO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "CASTRILLO ISASI, BEÑAT",
+      "sale": "MARTIN HONRUBIA, SERGIO"
+    },
+    {
+      "min": 54,
+      "entra": "GRAJALES VELEZ, JEAN PIERRE",
+      "sale": "MARTINEZ ZUBIZARRETA, JON"
+    },
+    {
+      "min": 54,
+      "entra": "LUQUE FERNANDEZ, ANDER",
+      "sale": "ALVAREZ ALVAREZ, ANER"
+    },
+    {
+      "min": 71,
+      "entra": "SANCHEZ PEREZ, IKER",
+      "sale": "DOMINGO CARMONA, GARI"
+    },
+    {
+      "min": 77,
+      "entra": "ACHAHBAR HADIR, AKRAM",
+      "sale": "AFASSI EL HAKKOUNI, ADIL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 8,
+      "entra": "ZABALA GOÑI, MARTXELO",
+      "sale": "TUBIA DE MIGUEL, DIEGO"
+    },
+    {
+      "min": 54,
+      "entra": "AUSIN ANGULO, DIEGO",
+      "sale": "TAMAYO ZAITEGUI, ALEX"
+    },
+    {
+      "min": 65,
+      "entra": "FOKAM FOUHA, ROLLS ALEJANDRO",
+      "sale": "DE PEDRO ORTEGA, ORGI"
+    }
+  ],
+  "minutos_jugadores": {
+    "LARREATEGUI SANTAMARIA, ANDER": 90,
+    "MARTINEZ ZUBIZARRETA, JON": 54,
+    "LARRAÑAGA LOPEZ, BEÑAT": 90,
+    "AFASSI EL HAKKOUNI, ADIL": 77,
+    "BLANCO MORALES, LUKEN": 90,
+    "CARRASCOSA ARRIAGA, MARTXEL": 90,
+    "MARTIN HONRUBIA, SERGIO": 41,
+    "DOMINGO CARMONA, GARI": 71,
+    "AHANNACH EL MESRI, GHASSAN": 90,
+    "ALVAREZ ALVAREZ, ANER": 54,
+    "ARAIZTEGI BERRIOZABAL, XARLES": 90,
+    "CASTRILLO ISASI, BEÑAT": 49,
+    "GRAJALES VELEZ, JEAN PIERRE": 36,
+    "LUQUE FERNANDEZ, ANDER": 36,
+    "SANCHEZ PEREZ, IKER": 19,
+    "ACHAHBAR HADIR, AKRAM": 13,
+    "RAIGOSA RAMIREZ, GEOVANI": 90,
+    "ALONSO LOPEZ-MOLINA, MIKEL": 90,
+    "TUBIA DE MIGUEL, DIEGO": 8,
+    "JUBERA CANTADOR, LANDER": 90,
+    "RUBIO SAINZ, EKAIN": 90,
+    "MINTEGUI PINEDA, KERMAN": 90,
+    "FONSECA JIMENEZ, ARITZ": 90,
+    "BRUNET MORILLO, ASIER": 90,
+    "MARIN GARCIA, TELMO": 90,
+    "DE PEDRO ORTEGA, ORGI": 65,
+    "TAMAYO ZAITEGUI, ALEX": 54,
+    "ZABALA GOÑI, MARTXELO": 82,
+    "AUSIN ANGULO, DIEGO": 36,
+    "FOKAM FOUHA, ROLLS ALEJANDRO": 25
+  },
+  "portero_local": "LARREATEGUI SANTAMARIA, ANDER",
+  "portero_visitante": "RAIGOSA RAMIREZ, GEOVANI",
+  "dorsales_local": {
+    "LARREATEGUI SANTAMARIA, ANDER": 1,
+    "MARTINEZ ZUBIZARRETA, JON": 2,
+    "LARRAÑAGA LOPEZ, BEÑAT": 3,
+    "AFASSI EL HAKKOUNI, ADIL": 4,
+    "BLANCO MORALES, LUKEN": 5,
+    "CARRASCOSA ARRIAGA, MARTXEL": 6,
+    "MARTIN HONRUBIA, SERGIO": 10,
+    "DOMINGO CARMONA, GARI": 11,
+    "AHANNACH EL MESRI, GHASSAN": 16,
+    "ALVAREZ ALVAREZ, ANER": 18,
+    "ARAIZTEGI BERRIOZABAL, XARLES": 21
+  },
+  "dorsales_visitante": {
+    "RAIGOSA RAMIREZ, GEOVANI": 13,
+    "ALONSO LOPEZ-MOLINA, MIKEL": 2,
+    "TUBIA DE MIGUEL, DIEGO": 3,
+    "JUBERA CANTADOR, LANDER": 4,
+    "RUBIO SAINZ, EKAIN": 5,
+    "MINTEGUI PINEDA, KERMAN": 6,
+    "FONSECA JIMENEZ, ARITZ": 7,
+    "BRUNET MORILLO, ASIER": 8,
+    "MARIN GARCIA, TELMO": 9,
+    "DE PEDRO ORTEGA, ORGI": 10,
+    "TAMAYO ZAITEGUI, ALEX": 11
+  },
+  "suspendidos": []
+}
