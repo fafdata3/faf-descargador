@@ -1,0 +1,231 @@
+{
+  "acta_id": "C_173192",
+  "filename": "Acta_C_173192.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 6,
+  "fecha": "29-10-2023",
+  "hora": "10:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D.E. ATCO. MINEROS A",
+  "equipo_visitante": "C.D.E. AGORA F.C. A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SÁNCHEZ BUSTARA, ALBERTO"
+  ],
+  "estadio": "Puente San Miguel",
+  "ciudad": "Reocín",
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "ESPINOSA SOBRINO, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "FERNÁNDEZ MONTES, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 1,
+      "jugador": "GARCIA TROYANO, ALAIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "ESPINOSA SOBRINO, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "RANERO GARCIA, MARCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DIAZ SANCHEZ, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TORRE SAMPEDRO, FERNANDO",
+  "delegado_equipo_visitante": "PASTOR SALAS, SERGIO",
+  "titulares_local": [
+    "FERNANDEZ DE COS, JAIME",
+    "FERNANDEZ GINES, ADRIAN",
+    "ROBLES CORCHADO, ALEX",
+    "KODUKOV GONCHAR, VLADIMIR",
+    "IGLESIAS BALADO, SIMON",
+    "GUTIERREZ TERAN, PABLO",
+    "CALDERON GOMEZ, BORJA",
+    "STAN, NICOLAE CRISTIAN",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "FERNÁNDEZ MONTES, DAVID",
+    "BARREDO FERNANDEZ, GAEL"
+  ],
+  "titulares_visitante": [
+    "GARCIA TROYANO, ALAIN",
+    "SARDON HERRERO, MIKEL",
+    "RODRIGUEZ SARABIA, AIMAR",
+    "ALVAREZ DURAN, SAMUEL",
+    "SAUTO ROMA, HUGO",
+    "ESPINOSA SOBRINO, ALEJANDRO",
+    "DE PRADO MARTINEZ, IKER",
+    "RANERO GARCIA, MARCO",
+    "DIAZ ALONSO, GORKA",
+    "MARTINEZ IZQUIERDO, RODRIGO",
+    "AGUDO GARCIA, ASIER"
+  ],
+  "suplentes_local": [
+    "MARTINEZ ARENAS, IVAN",
+    "PEREZ TEZANOS, IZAN"
+  ],
+  "suplentes_visitante": [
+    "MARTIN PETRUS, DANIEL",
+    "VELEZ MONTES, LUIS",
+    "RODRIGUEZ GARATE, EGOITZ",
+    "CANO MELENDEZ, HUGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ DE COS, JAIME",
+    "FERNANDEZ GINES, ADRIAN",
+    "ROBLES CORCHADO, ALEX",
+    "KODUKOV GONCHAR, VLADIMIR",
+    "IGLESIAS BALADO, SIMON",
+    "GUTIERREZ TERAN, PABLO",
+    "CALDERON GOMEZ, BORJA",
+    "STAN, NICOLAE CRISTIAN",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "FERNÁNDEZ MONTES, DAVID",
+    "BARREDO FERNANDEZ, GAEL",
+    "PEREZ TEZANOS, IZAN",
+    "MARTINEZ ARENAS, IVAN"
+  ],
+  "jugadores_visitante": [
+    "GARCIA TROYANO, ALAIN",
+    "SARDON HERRERO, MIKEL",
+    "RODRIGUEZ SARABIA, AIMAR",
+    "ALVAREZ DURAN, SAMUEL",
+    "SAUTO ROMA, HUGO",
+    "ESPINOSA SOBRINO, ALEJANDRO",
+    "DE PRADO MARTINEZ, IKER",
+    "RANERO GARCIA, MARCO",
+    "DIAZ ALONSO, GORKA",
+    "MARTINEZ IZQUIERDO, RODRIGO",
+    "AGUDO GARCIA, ASIER",
+    "VELEZ MONTES, LUIS",
+    "RODRIGUEZ GARATE, EGOITZ",
+    "MARTIN PETRUS, DANIEL",
+    "CANO MELENDEZ, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "PEREZ TEZANOS, IZAN",
+      "sale": "KODUKOV GONCHAR, VLADIMIR"
+    },
+    {
+      "min": 47,
+      "entra": "MARTINEZ ARENAS, IVAN",
+      "sale": "BARREDO FERNANDEZ, GAEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 47,
+      "entra": "VELEZ MONTES, LUIS",
+      "sale": "MARTINEZ IZQUIERDO, RODRIGO"
+    },
+    {
+      "min": 47,
+      "entra": "RODRIGUEZ GARATE, EGOITZ",
+      "sale": "SARDON HERRERO, MIKEL"
+    },
+    {
+      "min": 54,
+      "entra": "MARTIN PETRUS, DANIEL",
+      "sale": "AGUDO GARCIA, ASIER"
+    },
+    {
+      "min": 54,
+      "entra": "CANO MELENDEZ, HUGO",
+      "sale": "DIAZ ALONSO, GORKA"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ DE COS, JAIME": 90,
+    "FERNANDEZ GINES, ADRIAN": 90,
+    "ROBLES CORCHADO, ALEX": 90,
+    "KODUKOV GONCHAR, VLADIMIR": 45,
+    "IGLESIAS BALADO, SIMON": 90,
+    "GUTIERREZ TERAN, PABLO": 90,
+    "CALDERON GOMEZ, BORJA": 90,
+    "STAN, NICOLAE CRISTIAN": 90,
+    "NDIAYE RUIZ, MALICK JAVIER": 90,
+    "FERNÁNDEZ MONTES, DAVID": 90,
+    "BARREDO FERNANDEZ, GAEL": 47,
+    "PEREZ TEZANOS, IZAN": 45,
+    "MARTINEZ ARENAS, IVAN": 43,
+    "GARCIA TROYANO, ALAIN": 90,
+    "SARDON HERRERO, MIKEL": 47,
+    "RODRIGUEZ SARABIA, AIMAR": 90,
+    "ALVAREZ DURAN, SAMUEL": 90,
+    "SAUTO ROMA, HUGO": 90,
+    "ESPINOSA SOBRINO, ALEJANDRO": 90,
+    "DE PRADO MARTINEZ, IKER": 90,
+    "RANERO GARCIA, MARCO": 90,
+    "DIAZ ALONSO, GORKA": 54,
+    "MARTINEZ IZQUIERDO, RODRIGO": 47,
+    "AGUDO GARCIA, ASIER": 54,
+    "VELEZ MONTES, LUIS": 43,
+    "RODRIGUEZ GARATE, EGOITZ": 43,
+    "MARTIN PETRUS, DANIEL": 36,
+    "CANO MELENDEZ, HUGO": 36
+  },
+  "portero_local": "FERNANDEZ DE COS, JAIME",
+  "portero_visitante": "GARCIA TROYANO, ALAIN",
+  "dorsales_local": {
+    "FERNANDEZ DE COS, JAIME": 1,
+    "FERNANDEZ GINES, ADRIAN": 3,
+    "ROBLES CORCHADO, ALEX": 4,
+    "KODUKOV GONCHAR, VLADIMIR": 5,
+    "IGLESIAS BALADO, SIMON": 6,
+    "GUTIERREZ TERAN, PABLO": 7,
+    "CALDERON GOMEZ, BORJA": 8,
+    "STAN, NICOLAE CRISTIAN": 9,
+    "NDIAYE RUIZ, MALICK JAVIER": 10,
+    "FERNÁNDEZ MONTES, DAVID": 11,
+    "BARREDO FERNANDEZ, GAEL": 22
+  },
+  "dorsales_visitante": {
+    "GARCIA TROYANO, ALAIN": 13,
+    "SARDON HERRERO, MIKEL": 2,
+    "RODRIGUEZ SARABIA, AIMAR": 3,
+    "ALVAREZ DURAN, SAMUEL": 5,
+    "SAUTO ROMA, HUGO": 9,
+    "ESPINOSA SOBRINO, ALEJANDRO": 10,
+    "DE PRADO MARTINEZ, IKER": 15,
+    "RANERO GARCIA, MARCO": 16,
+    "DIAZ ALONSO, GORKA": 18,
+    "MARTINEZ IZQUIERDO, RODRIGO": 20,
+    "AGUDO GARCIA, ASIER": 31
+  },
+  "suspendidos": []
+}
