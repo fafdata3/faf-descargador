@@ -1,0 +1,253 @@
+{
+  "acta_id": "B_2008129",
+  "filename": "Acta_B_2008129.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "10-11-2024",
+  "hora": "18:45",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "TRAPAGARAN A",
+  "equipo_visitante": "DEUSTO B",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "PÉREZ VALLE, ENDIKA"
+  ],
+  "estadio": "ERROTARTE",
+  "ciudad": "TRAPAGARAN",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "INCHAUSTI BENITO, ENEKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "MURCIEGO VAQUERO, AGER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "SIERRA ROJO, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA URQUIJO, GAIZKA",
+  "entrenador_visitante": "DEL HOYO ANGULO, ALVARO",
+  "segundo_entrenador_local": "GOYOAGA ZABALA, FRANCISCO JAVIER",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PRIETO RODRIGUEZ, SERGIO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "GOMEZ GONZALEZ, AITOR",
+    "BAYON CALVO, ARITZ",
+    "GARAY LOPEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "NIEVES FERNANDEZ, ENAITZ",
+    "CASADEMUNT QUIROGA, ANARTZ",
+    "GOYOAGA ENRIQUE, XABIER",
+    "MBA MBA, MIGUEL MANUEL",
+    "GONZALEZ REDONDO, ISKANDER",
+    "INCHAUSTI BENITO, ENEKO",
+    "PIZARRO GUISASOLA, PABLO"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ GONZALEZ, ENEKO",
+    "CALVO DOMINGUEZ, UNAI",
+    "BÚNEZ BIKANDI, MIKEL",
+    "ARAMBURU TATO, URKO",
+    "ATXA ZEBERIO, DANIEL",
+    "CANARIAS FERNANDEZ, EKAITZ",
+    "AMO LEGUINA, ALBERTO",
+    "DIAZ DE CORCUERA IBASETA, MARKEL",
+    "SIERRA ROJO, MARIO",
+    "MURCIEGO VAQUERO, AGER",
+    "REQUERO FERNANDEZ, ANER"
+  ],
+  "suplentes_local": [
+    "MORQUILLAS FERNANDEZ, TXEMA",
+    "EROA SORIANO, OIER",
+    "MARTIN SALVADOR, ADRIAN",
+    "ZUBIZARRETA VALLEJO, AIMAR",
+    "URIBE ESCRIBANO, IGARKI",
+    "ALFONSO ORTEGA, LIHER",
+    "MARIN GARCIA, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "GORROCHATEGUI OCHOA, GALDER",
+    "NAVARRO SANTOS, BEÑAT",
+    "RUIZ SAINZ-MAZA, RICARDO",
+    "ESCAMILLA GARCIA, ANDER",
+    "ANITUA FERNANDEZ, MARKEL",
+    "VEGA ESPLIGARES, OIHAN",
+    "DE LEON ROMERO, IZAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "MORQUILLAS FERNANDEZ, TXEMA",
+    "URIBE ESCRIBANO, IGARKI",
+    "MARIN GARCIA, ALVARO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GORROCHATEGUI OCHOA, GALDER",
+    "ANITUA FERNANDEZ, MARKEL"
+  ],
+  "jugadores_local": [
+    "GOMEZ GONZALEZ, AITOR",
+    "BAYON CALVO, ARITZ",
+    "GARAY LOPEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "NIEVES FERNANDEZ, ENAITZ",
+    "CASADEMUNT QUIROGA, ANARTZ",
+    "GOYOAGA ENRIQUE, XABIER",
+    "MBA MBA, MIGUEL MANUEL",
+    "GONZALEZ REDONDO, ISKANDER",
+    "INCHAUSTI BENITO, ENEKO",
+    "PIZARRO GUISASOLA, PABLO",
+    "ALFONSO ORTEGA, LIHER",
+    "ZUBIZARRETA VALLEJO, AIMAR",
+    "EROA SORIANO, OIER",
+    "MARTIN SALVADOR, ADRIAN"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ GONZALEZ, ENEKO",
+    "CALVO DOMINGUEZ, UNAI",
+    "BÚNEZ BIKANDI, MIKEL",
+    "ARAMBURU TATO, URKO",
+    "ATXA ZEBERIO, DANIEL",
+    "CANARIAS FERNANDEZ, EKAITZ",
+    "AMO LEGUINA, ALBERTO",
+    "DIAZ DE CORCUERA IBASETA, MARKEL",
+    "SIERRA ROJO, MARIO",
+    "MURCIEGO VAQUERO, AGER",
+    "REQUERO FERNANDEZ, ANER",
+    "NAVARRO SANTOS, BEÑAT",
+    "ESCAMILLA GARCIA, ANDER",
+    "VEGA ESPLIGARES, OIHAN",
+    "DE LEON ROMERO, IZAN",
+    "RUIZ SAINZ-MAZA, RICARDO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "ALFONSO ORTEGA, LIHER",
+      "sale": "PIZARRO GUISASOLA, PABLO"
+    },
+    {
+      "min": 51,
+      "entra": "ZUBIZARRETA VALLEJO, AIMAR",
+      "sale": "BAYON CALVO, ARITZ"
+    },
+    {
+      "min": 51,
+      "entra": "EROA SORIANO, OIER",
+      "sale": "NIEVES FERNANDEZ, ENAITZ"
+    },
+    {
+      "min": 66,
+      "entra": "MARTIN SALVADOR, ADRIAN",
+      "sale": "INCHAUSTI BENITO, ENEKO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "NAVARRO SANTOS, BEÑAT",
+      "sale": "DIAZ DE CORCUERA IBASETA, MARKEL"
+    },
+    {
+      "min": 64,
+      "entra": "ESCAMILLA GARCIA, ANDER",
+      "sale": "CANARIAS FERNANDEZ, EKAITZ"
+    },
+    {
+      "min": 64,
+      "entra": "VEGA ESPLIGARES, OIHAN",
+      "sale": "ATXA ZEBERIO, DANIEL"
+    },
+    {
+      "min": 64,
+      "entra": "DE LEON ROMERO, IZAN",
+      "sale": "SIERRA ROJO, MARIO"
+    },
+    {
+      "min": 76,
+      "entra": "RUIZ SAINZ-MAZA, RICARDO",
+      "sale": "REQUERO FERNANDEZ, ANER"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ GONZALEZ, AITOR": 90,
+    "BAYON CALVO, ARITZ": 51,
+    "GARAY LOPEZ, IKER": 90,
+    "SESMERO RUIZ, XABIER": 90,
+    "NIEVES FERNANDEZ, ENAITZ": 51,
+    "CASADEMUNT QUIROGA, ANARTZ": 90,
+    "GOYOAGA ENRIQUE, XABIER": 90,
+    "MBA MBA, MIGUEL MANUEL": 90,
+    "GONZALEZ REDONDO, ISKANDER": 90,
+    "INCHAUSTI BENITO, ENEKO": 66,
+    "PIZARRO GUISASOLA, PABLO": 51,
+    "ALFONSO ORTEGA, LIHER": 39,
+    "ZUBIZARRETA VALLEJO, AIMAR": 39,
+    "EROA SORIANO, OIER": 39,
+    "MARTIN SALVADOR, ADRIAN": 24,
+    "RODRIGUEZ GONZALEZ, ENEKO": 90,
+    "CALVO DOMINGUEZ, UNAI": 90,
+    "BÚNEZ BIKANDI, MIKEL": 90,
+    "ARAMBURU TATO, URKO": 90,
+    "ATXA ZEBERIO, DANIEL": 64,
+    "CANARIAS FERNANDEZ, EKAITZ": 64,
+    "AMO LEGUINA, ALBERTO": 90,
+    "DIAZ DE CORCUERA IBASETA, MARKEL": 55,
+    "SIERRA ROJO, MARIO": 64,
+    "MURCIEGO VAQUERO, AGER": 90,
+    "REQUERO FERNANDEZ, ANER": 76,
+    "NAVARRO SANTOS, BEÑAT": 35,
+    "ESCAMILLA GARCIA, ANDER": 26,
+    "VEGA ESPLIGARES, OIHAN": 26,
+    "DE LEON ROMERO, IZAN": 26,
+    "RUIZ SAINZ-MAZA, RICARDO": 14
+  },
+  "portero_local": "GOMEZ GONZALEZ, AITOR",
+  "portero_visitante": "RODRIGUEZ GONZALEZ, ENEKO",
+  "dorsales_local": {
+    "GOMEZ GONZALEZ, AITOR": 1,
+    "BAYON CALVO, ARITZ": 2,
+    "GARAY LOPEZ, IKER": 4,
+    "SESMERO RUIZ, XABIER": 5,
+    "NIEVES FERNANDEZ, ENAITZ": 6,
+    "CASADEMUNT QUIROGA, ANARTZ": 7,
+    "GOYOAGA ENRIQUE, XABIER": 8,
+    "MBA MBA, MIGUEL MANUEL": 12,
+    "GONZALEZ REDONDO, ISKANDER": 15,
+    "INCHAUSTI BENITO, ENEKO": 16,
+    "PIZARRO GUISASOLA, PABLO": 19
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ GONZALEZ, ENEKO": 1,
+    "CALVO DOMINGUEZ, UNAI": 2,
+    "BÚNEZ BIKANDI, MIKEL": 5,
+    "ARAMBURU TATO, URKO": 7,
+    "ATXA ZEBERIO, DANIEL": 12,
+    "CANARIAS FERNANDEZ, EKAITZ": 14,
+    "AMO LEGUINA, ALBERTO": 15,
+    "DIAZ DE CORCUERA IBASETA, MARKEL": 17,
+    "SIERRA ROJO, MARIO": 18,
+    "MURCIEGO VAQUERO, AGER": 19,
+    "REQUERO FERNANDEZ, ANER": 23
+  },
+  "suspendidos": []
+}
