@@ -1,0 +1,257 @@
+{
+  "acta_id": "C_193092",
+  "filename": "Acta_C_193092.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 7,
+  "fecha": "19-10-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. NAVAL A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCÍA RUBIO, VICTOR MANUEL"
+  ],
+  "estadio": "Reinosa",
+  "ciudad": "Reinosa",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "RODRÍGUEZ LASO, KEVIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "CRUZADO CUESTA, FABIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "GOMEZ DEL POZO, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 72,
+      "jugador": "GOMEZ CALVO, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "TORICES PEREZ, PEDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 54,
+      "jugador": "RODRÍGUEZ LASO, KEVIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "HERNÁNDEZ ÁLVAREZ, GAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA GUTIERREZ, JOSE I",
+  "entrenador_visitante": "CICERO MONTES, RAFAEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PEREZ LOPEZ, RUBEN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TORICES PEREZ, PEDRO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PEREZ HERRERO, IKER",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GOMEZ DEL POZO, ALVARO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "ALONSO GUERRA, MARCOS",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL"
+  ],
+  "titulares_visitante": [
+    "GRANDE SALVADOR, GAEL",
+    "VELATEGUI PRIETO, ADAN",
+    "SEDANO TORRE, DARIO",
+    "MORAN POLANCO, ALVARO",
+    "NOVOA TARDÍO, HUGO",
+    "DAVIES MORRISON, RAFAEL",
+    "CRUZADO CUESTA, FABIO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "HERRERA RUIZ, ADAHY",
+    "RODRÍGUEZ LASO, KEVIN",
+    "VELARDE VEGA, HECTOR"
+  ],
+  "suplentes_local": [
+    "ARGUESO GARCIA, JAVIER",
+    "GOMEZ CALVO, ALVARO",
+    "GUTIERREZ VEGA, HECTOR",
+    "AGUIRRE BAZA, CRISTIAN DAVID"
+  ],
+  "suplentes_visitante": [
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "GONZALEZ BENITO, PABLO",
+    "ROBETA DIAZ, JORGE",
+    "MARTINEZ PEREZ, MIGUEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "GUTIERREZ VEGA, HECTOR"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PEREZ HERRERO, IKER",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GOMEZ DEL POZO, ALVARO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "ALONSO GUERRA, MARCOS",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL",
+    "AGUIRRE BAZA, CRISTIAN DAVID",
+    "ARGUESO GARCIA, JAVIER",
+    "GOMEZ CALVO, ALVARO"
+  ],
+  "jugadores_visitante": [
+    "GRANDE SALVADOR, GAEL",
+    "VELATEGUI PRIETO, ADAN",
+    "SEDANO TORRE, DARIO",
+    "MORAN POLANCO, ALVARO",
+    "NOVOA TARDÍO, HUGO",
+    "DAVIES MORRISON, RAFAEL",
+    "CRUZADO CUESTA, FABIO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "HERRERA RUIZ, ADAHY",
+    "RODRÍGUEZ LASO, KEVIN",
+    "VELARDE VEGA, HECTOR",
+    "MARTINEZ PEREZ, MIGUEL",
+    "ROBETA DIAZ, JORGE",
+    "GONZALEZ BENITO, PABLO",
+    "DEL CASTILLO SARAÑANA, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "AGUIRRE BAZA, CRISTIAN DAVID",
+      "sale": "GARCIA DIEZ, GABRIEL"
+    },
+    {
+      "min": 57,
+      "entra": "ARGUESO GARCIA, JAVIER",
+      "sale": "LOPEZ GUTIERREZ, ALONSO"
+    },
+    {
+      "min": 63,
+      "entra": "GOMEZ CALVO, ALVARO",
+      "sale": "MACHO RUIZ, LUCAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "MARTINEZ PEREZ, MIGUEL",
+      "sale": "VELARDE VEGA, HECTOR"
+    },
+    {
+      "min": 54,
+      "entra": "ROBETA DIAZ, JORGE",
+      "sale": "RODRÍGUEZ LASO, KEVIN"
+    },
+    {
+      "min": 57,
+      "entra": "GONZALEZ BENITO, PABLO",
+      "sale": "DAVIES MORRISON, RAFAEL"
+    },
+    {
+      "min": 67,
+      "entra": "DEL CASTILLO SARAÑANA, LUCAS",
+      "sale": "HERRERA RUIZ, ADAHY"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ HERRERO, IKER": 90,
+    "RODRIGUEZ GONZALEZ, IZAN": 90,
+    "GARCIA DIEZ, GABRIEL": 48,
+    "CEBALLOS CAYON, LUCAS": 90,
+    "GONZALEZ RODRIGUEZ, ALVARO": 90,
+    "LOPEZ GUTIERREZ, ALONSO": 57,
+    "GOMEZ DEL POZO, ALVARO": 90,
+    "GUTIERREZ GARCIA, SAMUEL": 90,
+    "ALONSO GUERRA, MARCOS": 90,
+    "MACHO RUIZ, LUCAS": 63,
+    "MONTES RODRIGUEZ, OROEL": 90,
+    "AGUIRRE BAZA, CRISTIAN DAVID": 42,
+    "ARGUESO GARCIA, JAVIER": 33,
+    "GOMEZ CALVO, ALVARO": 27,
+    "GRANDE SALVADOR, GAEL": 90,
+    "VELATEGUI PRIETO, ADAN": 90,
+    "SEDANO TORRE, DARIO": 90,
+    "MORAN POLANCO, ALVARO": 90,
+    "NOVOA TARDÍO, HUGO": 90,
+    "DAVIES MORRISON, RAFAEL": 57,
+    "CRUZADO CUESTA, FABIO": 90,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 90,
+    "HERRERA RUIZ, ADAHY": 67,
+    "RODRÍGUEZ LASO, KEVIN": 54,
+    "VELARDE VEGA, HECTOR": 52,
+    "MARTINEZ PEREZ, MIGUEL": 38,
+    "ROBETA DIAZ, JORGE": 36,
+    "GONZALEZ BENITO, PABLO": 33,
+    "DEL CASTILLO SARAÑANA, LUCAS": 23
+  },
+  "portero_local": "PEREZ HERRERO, IKER",
+  "portero_visitante": "GRANDE SALVADOR, GAEL",
+  "dorsales_local": {
+    "PEREZ HERRERO, IKER": 1,
+    "RODRIGUEZ GONZALEZ, IZAN": 4,
+    "GARCIA DIEZ, GABRIEL": 5,
+    "CEBALLOS CAYON, LUCAS": 6,
+    "GONZALEZ RODRIGUEZ, ALVARO": 7,
+    "LOPEZ GUTIERREZ, ALONSO": 8,
+    "GOMEZ DEL POZO, ALVARO": 9,
+    "GUTIERREZ GARCIA, SAMUEL": 10,
+    "ALONSO GUERRA, MARCOS": 12,
+    "MACHO RUIZ, LUCAS": 14,
+    "MONTES RODRIGUEZ, OROEL": 15
+  },
+  "dorsales_visitante": {
+    "GRANDE SALVADOR, GAEL": 13,
+    "VELATEGUI PRIETO, ADAN": 3,
+    "SEDANO TORRE, DARIO": 5,
+    "MORAN POLANCO, ALVARO": 6,
+    "NOVOA TARDÍO, HUGO": 7,
+    "DAVIES MORRISON, RAFAEL": 10,
+    "CRUZADO CUESTA, FABIO": 11,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 15,
+    "HERRERA RUIZ, ADAHY": 21,
+    "RODRÍGUEZ LASO, KEVIN": 23,
+    "VELARDE VEGA, HECTOR": 99
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
