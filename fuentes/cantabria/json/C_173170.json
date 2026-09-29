@@ -1,0 +1,292 @@
+{
+  "acta_id": "C_173170",
+  "filename": "Acta_C_173170.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 4,
+  "fecha": "15-10-2023",
+  "hora": "12:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT A",
+  "equipo_visitante": "AYRON CLUB A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LÓPEZ ARCE, JUAN IGNACIO"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "ALONSO MOTA, IVAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 13,
+      "jugador": "GALLO VERGARA, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "ALONSO MOTA, IVAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "RUIZ CRESPO, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "JIMENEZ NIÑO, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 2,
+      "jugador": "PARDO GOMEZ, LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 20,
+      "jugador": "CALANTE CABRILLO, ADRIÁN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "GALLO VERGARA, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "RUIZ CRESPO, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ENTRECANALES SAN MIGUEL, SERGIO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GOMEZ DIAZ, VENTURA",
+  "delegado_campo_local": "DURAN HERNANDEZ, JESUS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DURAN HERNANDEZ, JESUS",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "ALONSO CRUZ, DIEGO",
+    "GARCIA VARELA, ALAN",
+    "ROJO CANADELL, ALEJANDRO",
+    "GARCIA CASTILLO, JORGE",
+    "DE FELIPE MONTES, OSCAR",
+    "MARTE MUGICA, EDUARD",
+    "ALONSO MOTA, IVAN",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "RUIZ ORTEGA, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "GOMEZ NIETO, JESÚS",
+    "PEREA ABAD, AITOR",
+    "PARDO GOMEZ, LUIS",
+    "GALLO VERGARA, PABLO",
+    "RUIZ CRESPO, NICOLAS",
+    "BUENAGA GONZÁLEZ, IZAN",
+    "RUIZ CRESPO, HUGO",
+    "CALANTE CABRILLO, ADRIÁN",
+    "ALVAREZ DIEGO, GABRIEL",
+    "GOMEZ OBESO, PABLO",
+    "BALDOR MARTINEZ, NOE"
+  ],
+  "suplentes_local": [
+    "SAUQUILLO ALONSO, MARCO",
+    "DIEZ RIVERA, JAIME",
+    "ORTIZ FILGUEIRAS, JAVIER",
+    "JIMENEZ NIÑO, DAVID",
+    "RUIZ SAIZ, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "ALVAREZ SAN EMETERIO, ERIK",
+    "LIAÑO MANTECÓN, HUGO",
+    "LLANO CARRAL, MARCO",
+    "REAL SAINZ, DANIEL",
+    "BURDIE FERNANDEZ, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "ALONSO CRUZ, DIEGO",
+    "GARCIA VARELA, ALAN",
+    "ROJO CANADELL, ALEJANDRO",
+    "GARCIA CASTILLO, JORGE",
+    "DE FELIPE MONTES, OSCAR",
+    "MARTE MUGICA, EDUARD",
+    "ALONSO MOTA, IVAN",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "RUIZ ORTEGA, RODRIGO",
+    "SAUQUILLO ALONSO, MARCO",
+    "JIMENEZ NIÑO, DAVID",
+    "RUIZ SAIZ, DANIEL",
+    "ORTIZ FILGUEIRAS, JAVIER",
+    "DIEZ RIVERA, JAIME"
+  ],
+  "jugadores_visitante": [
+    "GOMEZ NIETO, JESÚS",
+    "PEREA ABAD, AITOR",
+    "PARDO GOMEZ, LUIS",
+    "GALLO VERGARA, PABLO",
+    "RUIZ CRESPO, NICOLAS",
+    "BUENAGA GONZÁLEZ, IZAN",
+    "RUIZ CRESPO, HUGO",
+    "CALANTE CABRILLO, ADRIÁN",
+    "ALVAREZ DIEGO, GABRIEL",
+    "GOMEZ OBESO, PABLO",
+    "BALDOR MARTINEZ, NOE",
+    "LIAÑO MANTECÓN, HUGO",
+    "ALVAREZ SAN EMETERIO, ERIK",
+    "REAL SAINZ, DANIEL",
+    "LLANO CARRAL, MARCO",
+    "BURDIE FERNANDEZ, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "SAUQUILLO ALONSO, MARCO",
+      "sale": "RODRIGUEZ RODRIGUEZ, CARLOS"
+    },
+    {
+      "min": 35,
+      "entra": "JIMENEZ NIÑO, DAVID",
+      "sale": "ROJO CANADELL, ALEJANDRO"
+    },
+    {
+      "min": 45,
+      "entra": "RUIZ SAIZ, DANIEL",
+      "sale": "GARCIA CASTILLO, JORGE"
+    },
+    {
+      "min": 62,
+      "entra": "ORTIZ FILGUEIRAS, JAVIER",
+      "sale": "NAVARRO FERNANDEZ, ALEJANDRO"
+    },
+    {
+      "min": 70,
+      "entra": "DIEZ RIVERA, JAIME",
+      "sale": "MARTE MUGICA, EDUARD"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "LIAÑO MANTECÓN, HUGO",
+      "sale": "BALDOR MARTINEZ, NOE"
+    },
+    {
+      "min": 55,
+      "entra": "ALVAREZ SAN EMETERIO, ERIK",
+      "sale": "CALANTE CABRILLO, ADRIÁN"
+    },
+    {
+      "min": 59,
+      "entra": "REAL SAINZ, DANIEL",
+      "sale": "GOMEZ OBESO, PABLO"
+    },
+    {
+      "min": 68,
+      "entra": "LLANO CARRAL, MARCO",
+      "sale": "ALVAREZ DIEGO, GABRIEL"
+    },
+    {
+      "min": 70,
+      "entra": "BURDIE FERNANDEZ, DIEGO",
+      "sale": "BUENAGA GONZÁLEZ, IZAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ RODRIGUEZ, CARLOS": 35,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 90,
+    "ALONSO CRUZ, DIEGO": 90,
+    "GARCIA VARELA, ALAN": 90,
+    "ROJO CANADELL, ALEJANDRO": 35,
+    "GARCIA CASTILLO, JORGE": 45,
+    "DE FELIPE MONTES, OSCAR": 90,
+    "MARTE MUGICA, EDUARD": 70,
+    "ALONSO MOTA, IVAN": 90,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 62,
+    "RUIZ ORTEGA, RODRIGO": 90,
+    "SAUQUILLO ALONSO, MARCO": 55,
+    "JIMENEZ NIÑO, DAVID": 55,
+    "RUIZ SAIZ, DANIEL": 45,
+    "ORTIZ FILGUEIRAS, JAVIER": 28,
+    "DIEZ RIVERA, JAIME": 20,
+    "GOMEZ NIETO, JESÚS": 90,
+    "PEREA ABAD, AITOR": 90,
+    "PARDO GOMEZ, LUIS": 90,
+    "GALLO VERGARA, PABLO": 90,
+    "RUIZ CRESPO, NICOLAS": 90,
+    "BUENAGA GONZÁLEZ, IZAN": 70,
+    "RUIZ CRESPO, HUGO": 90,
+    "CALANTE CABRILLO, ADRIÁN": 55,
+    "ALVAREZ DIEGO, GABRIEL": 68,
+    "GOMEZ OBESO, PABLO": 59,
+    "BALDOR MARTINEZ, NOE": 46,
+    "LIAÑO MANTECÓN, HUGO": 44,
+    "ALVAREZ SAN EMETERIO, ERIK": 35,
+    "REAL SAINZ, DANIEL": 31,
+    "LLANO CARRAL, MARCO": 22,
+    "BURDIE FERNANDEZ, DIEGO": 20
+  },
+  "portero_local": "RODRIGUEZ RODRIGUEZ, CARLOS",
+  "portero_visitante": "GOMEZ NIETO, JESÚS",
+  "dorsales_local": {
+    "RODRIGUEZ RODRIGUEZ, CARLOS": 1,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 2,
+    "ALONSO CRUZ, DIEGO": 3,
+    "GARCIA VARELA, ALAN": 4,
+    "ROJO CANADELL, ALEJANDRO": 5,
+    "GARCIA CASTILLO, JORGE": 6,
+    "DE FELIPE MONTES, OSCAR": 7,
+    "MARTE MUGICA, EDUARD": 8,
+    "ALONSO MOTA, IVAN": 9,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 10,
+    "RUIZ ORTEGA, RODRIGO": 11
+  },
+  "dorsales_visitante": {
+    "GOMEZ NIETO, JESÚS": 1,
+    "PEREA ABAD, AITOR": 2,
+    "PARDO GOMEZ, LUIS": 4,
+    "GALLO VERGARA, PABLO": 5,
+    "RUIZ CRESPO, NICOLAS": 8,
+    "BUENAGA GONZÁLEZ, IZAN": 9,
+    "RUIZ CRESPO, HUGO": 10,
+    "CALANTE CABRILLO, ADRIÁN": 11,
+    "ALVAREZ DIEGO, GABRIEL": 14,
+    "GOMEZ OBESO, PABLO": 15,
+    "BALDOR MARTINEZ, NOE": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
