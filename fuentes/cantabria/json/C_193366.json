@@ -1,0 +1,264 @@
+{
+  "acta_id": "C_193366",
+  "filename": "Acta_C_193366.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 4,
+  "fecha": "12-10-2024",
+  "hora": "11:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. MONTE A",
+  "equipo_visitante": "C.D. COLINDRES A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZALEZ BARQUIN, SERGIO"
+  ],
+  "estadio": "Monte 1",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "MARTINEZ GARCIA, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "PEREIRA DOSAL, CRISTIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "SAINZ DE LA MAZA AJA, EDUARDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "SAINZ DE LA MAZA AJA, EDUARDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 53,
+      "jugador": "SANCHO PANIEGO, BELTRAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LEGARRETA YURRITA, DIEGO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SOMAZA GOMEZ, MARCOS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SOMAZA GOMEZ, MARCOS",
+  "delegado_equipo_visitante": "CAMPO ANTUÑANO, LUIS",
+  "titulares_local": [
+    "GARCIA RODRIGUEZ, LEO",
+    "CASADO LANZA, ALVARO",
+    "ANDRONIC, DANIEL",
+    "RUIZ ALONSO, GONZALO",
+    "GOMEZ ALONSO, NICOLAS",
+    "BLANCO LANZA, ALVARO",
+    "PEREIRA DOSAL, CRISTIAN",
+    "RUIZ JUAREZ, LEANDRO",
+    "BARROSO BARQUÍN, HUGO",
+    "CABEZAS REMIRO, MAURO",
+    "SALVADOR MIERA, HUGO"
+  ],
+  "titulares_visitante": [
+    "RUIZ CAÑARTE, RAUL",
+    "RODRIGUEZ GARCIA, DIEGO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "MARTINEZ GARCIA, DIEGO",
+    "PABLOS SUAREZ, IBAI",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "MATEOS NAVARRO, ROBERTO",
+    "COBO PELLON, MARIO",
+    "BRIGIDO HERRERO, MARIO",
+    "RODRIGUEZ BOLAÑO, MARIO",
+    "CHATBI, AMINE"
+  ],
+  "suplentes_local": [
+    "PUMAREJO SANCHEZ, ALVARO",
+    "GUTIÉRREZ CARRANCEDO, DIEGO",
+    "PEREZ DE DIEGO, MARTIN",
+    "SANCHO PANIEGO, BELTRAN",
+    "BAIZÁN YAHARI, MARIO"
+  ],
+  "suplentes_visitante": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "SAN MIGUEL SARACHAGA, MARCO",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "GARCIA GOMEZ, LUCAS",
+    "TERAN MENESES, SANTIAGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GARCIA RODRIGUEZ, LEO",
+    "CASADO LANZA, ALVARO",
+    "ANDRONIC, DANIEL",
+    "RUIZ ALONSO, GONZALO",
+    "GOMEZ ALONSO, NICOLAS",
+    "BLANCO LANZA, ALVARO",
+    "PEREIRA DOSAL, CRISTIAN",
+    "RUIZ JUAREZ, LEANDRO",
+    "BARROSO BARQUÍN, HUGO",
+    "CABEZAS REMIRO, MAURO",
+    "SALVADOR MIERA, HUGO",
+    "PUMAREJO SANCHEZ, ALVARO",
+    "PEREZ DE DIEGO, MARTIN",
+    "BAIZÁN YAHARI, MARIO",
+    "SANCHO PANIEGO, BELTRAN",
+    "GUTIÉRREZ CARRANCEDO, DIEGO"
+  ],
+  "jugadores_visitante": [
+    "RUIZ CAÑARTE, RAUL",
+    "RODRIGUEZ GARCIA, DIEGO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "MARTINEZ GARCIA, DIEGO",
+    "PABLOS SUAREZ, IBAI",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "MATEOS NAVARRO, ROBERTO",
+    "COBO PELLON, MARIO",
+    "BRIGIDO HERRERO, MARIO",
+    "RODRIGUEZ BOLAÑO, MARIO",
+    "CHATBI, AMINE",
+    "ORDAS ARREDONDO, ISKANDER",
+    "SAN MIGUEL SARACHAGA, MARCO",
+    "TERAN MENESES, SANTIAGO",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "GARCIA GOMEZ, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "PUMAREJO SANCHEZ, ALVARO",
+      "sale": "GARCIA RODRIGUEZ, LEO"
+    },
+    {
+      "min": 35,
+      "entra": "PEREZ DE DIEGO, MARTIN",
+      "sale": "GOMEZ ALONSO, NICOLAS"
+    },
+    {
+      "min": 45,
+      "entra": "BAIZÁN YAHARI, MARIO",
+      "sale": "CABEZAS REMIRO, MAURO"
+    },
+    {
+      "min": 45,
+      "entra": "SANCHO PANIEGO, BELTRAN",
+      "sale": "ANDRONIC, DANIEL"
+    },
+    {
+      "min": 61,
+      "entra": "GUTIÉRREZ CARRANCEDO, DIEGO",
+      "sale": "PEREIRA DOSAL, CRISTIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "ORDAS ARREDONDO, ISKANDER",
+      "sale": "RUIZ CAÑARTE, RAUL"
+    },
+    {
+      "min": 43,
+      "entra": "SAN MIGUEL SARACHAGA, MARCO",
+      "sale": "MATEOS NAVARRO, ROBERTO"
+    },
+    {
+      "min": 56,
+      "entra": "TERAN MENESES, SANTIAGO",
+      "sale": "COBO PELLON, MARIO"
+    },
+    {
+      "min": 56,
+      "entra": "SAN EMETERIO FERNANDEZ, ENZO",
+      "sale": "CHATBI, AMINE"
+    },
+    {
+      "min": 61,
+      "entra": "GARCIA GOMEZ, LUCAS",
+      "sale": "RODRIGUEZ GARCIA, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA RODRIGUEZ, LEO": 35,
+    "CASADO LANZA, ALVARO": 90,
+    "ANDRONIC, DANIEL": 45,
+    "RUIZ ALONSO, GONZALO": 90,
+    "GOMEZ ALONSO, NICOLAS": 35,
+    "BLANCO LANZA, ALVARO": 90,
+    "PEREIRA DOSAL, CRISTIAN": 61,
+    "RUIZ JUAREZ, LEANDRO": 90,
+    "BARROSO BARQUÍN, HUGO": 90,
+    "CABEZAS REMIRO, MAURO": 45,
+    "SALVADOR MIERA, HUGO": 90,
+    "PUMAREJO SANCHEZ, ALVARO": 55,
+    "PEREZ DE DIEGO, MARTIN": 55,
+    "BAIZÁN YAHARI, MARIO": 45,
+    "SANCHO PANIEGO, BELTRAN": 45,
+    "GUTIÉRREZ CARRANCEDO, DIEGO": 29,
+    "RUIZ CAÑARTE, RAUL": 35,
+    "RODRIGUEZ GARCIA, DIEGO": 61,
+    "CAMPOS SAN EMETERIO, DIEGO": 90,
+    "MARTINEZ GARCIA, DIEGO": 90,
+    "PABLOS SUAREZ, IBAI": 90,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 90,
+    "MATEOS NAVARRO, ROBERTO": 43,
+    "COBO PELLON, MARIO": 56,
+    "BRIGIDO HERRERO, MARIO": 90,
+    "RODRIGUEZ BOLAÑO, MARIO": 90,
+    "CHATBI, AMINE": 56,
+    "ORDAS ARREDONDO, ISKANDER": 55,
+    "SAN MIGUEL SARACHAGA, MARCO": 47,
+    "TERAN MENESES, SANTIAGO": 34,
+    "SAN EMETERIO FERNANDEZ, ENZO": 34,
+    "GARCIA GOMEZ, LUCAS": 29
+  },
+  "portero_local": "GARCIA RODRIGUEZ, LEO",
+  "portero_visitante": "RUIZ CAÑARTE, RAUL",
+  "dorsales_local": {
+    "GARCIA RODRIGUEZ, LEO": 13,
+    "CASADO LANZA, ALVARO": 4,
+    "ANDRONIC, DANIEL": 5,
+    "RUIZ ALONSO, GONZALO": 6,
+    "GOMEZ ALONSO, NICOLAS": 9,
+    "BLANCO LANZA, ALVARO": 10,
+    "PEREIRA DOSAL, CRISTIAN": 11,
+    "RUIZ JUAREZ, LEANDRO": 15,
+    "BARROSO BARQUÍN, HUGO": 16,
+    "CABEZAS REMIRO, MAURO": 21,
+    "SALVADOR MIERA, HUGO": 22
+  },
+  "dorsales_visitante": {
+    "RUIZ CAÑARTE, RAUL": 1,
+    "RODRIGUEZ GARCIA, DIEGO": 4,
+    "CAMPOS SAN EMETERIO, DIEGO": 5,
+    "MARTINEZ GARCIA, DIEGO": 7,
+    "PABLOS SUAREZ, IBAI": 8,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 10,
+    "MATEOS NAVARRO, ROBERTO": 12,
+    "COBO PELLON, MARIO": 14,
+    "BRIGIDO HERRERO, MARIO": 17,
+    "RODRIGUEZ BOLAÑO, MARIO": 18,
+    "CHATBI, AMINE": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
