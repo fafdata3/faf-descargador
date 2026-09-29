@@ -1,0 +1,286 @@
+{
+  "acta_id": "C_193106",
+  "filename": "Acta_C_193106.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 9,
+  "fecha": "03-11-2024",
+  "hora": "11:45",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT B",
+  "equipo_visitante": "C.D. RAMALES",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "VELASCO FUENTES, JUAN"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 38,
+      "jugador": "GALAZ GOMEZ, GUILLERMO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 39,
+      "jugador": "PORRAS CADELO, MATEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "NAVARRO FERNANDEZ, ALEJANDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "MAZA NOVOA, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "PORRAS CADELO, MATEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 72,
+      "jugador": "GARCIA MORENO, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "NAVARRO FERNANDEZ, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 16,
+      "jugador": "LOPEZ GONZALEZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 22,
+      "jugador": "CARRERA SANCHEZ, MARCOS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "TREVILLA VELA, RAMON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FLOR RODRIGUEZ, ALFONSO JOSE",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "POO CELIS, LUIS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "POO CELIS, LUIS",
+  "delegado_equipo_visitante": "LAVIADA ARAUJO, IVAN ROBERTO",
+  "titulares_local": [
+    "SAUQUILLO ALONSO, MARCO",
+    "ALONSO CRUZ, DIEGO",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "DASILVA PEREIRA, EDUARDO",
+    "NGOUNOU NCHAMA, NEREO STEVE",
+    "PORRAS CADELO, MATEO",
+    "GARCIA MORENO, MARIO",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "RUIZ ORTEGA, RODRIGO",
+    "Montenegro Perez, MARCOS GERMAN",
+    "GARCIA CASTILLO, JORGE"
+  ],
+  "titulares_visitante": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "LLAMA GOMEZ, MARIO",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "LOPEZ SAEZ, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "CARRERA SANCHEZ, MARCOS",
+    "IBAÑEZ AHEDO, EGOITZ"
+  ],
+  "suplentes_local": [
+    "OBREGON MERINO, ELAN-BERNARDO",
+    "JURNA ANERO, EDUARDO",
+    "DIEZ RIVERA, JAIME",
+    "ORTIZ FILGUEIRAS, JAVIER"
+  ],
+  "suplentes_visitante": [
+    "ABASCAL RUIZ, JOAQUIN",
+    "MAZA FERNANDEZ, IÑIGO",
+    "DEL MORAL ALONSO, RODRIGO",
+    "MAZA NOVOA, MARIO",
+    "SIERRA GONZALEZ, KEVIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "OBREGON MERINO, ELAN-BERNARDO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SAUQUILLO ALONSO, MARCO",
+    "ALONSO CRUZ, DIEGO",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "DASILVA PEREIRA, EDUARDO",
+    "NGOUNOU NCHAMA, NEREO STEVE",
+    "PORRAS CADELO, MATEO",
+    "GARCIA MORENO, MARIO",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "RUIZ ORTEGA, RODRIGO",
+    "Montenegro Perez, MARCOS GERMAN",
+    "GARCIA CASTILLO, JORGE",
+    "JURNA ANERO, EDUARDO",
+    "ORTIZ FILGUEIRAS, JAVIER",
+    "DIEZ RIVERA, JAIME"
+  ],
+  "jugadores_visitante": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "LLAMA GOMEZ, MARIO",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "LOPEZ SAEZ, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "CARRERA SANCHEZ, MARCOS",
+    "IBAÑEZ AHEDO, EGOITZ",
+    "SIERRA GONZALEZ, KEVIN",
+    "ABASCAL RUIZ, JOAQUIN",
+    "MAZA NOVOA, MARIO",
+    "MAZA FERNANDEZ, IÑIGO",
+    "DEL MORAL ALONSO, RODRIGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 30,
+      "entra": "JURNA ANERO, EDUARDO",
+      "sale": "FERNÁNDEZ GÓMEZ, BRUNO"
+    },
+    {
+      "min": 52,
+      "entra": "ORTIZ FILGUEIRAS, JAVIER",
+      "sale": "RUIZ ORTEGA, RODRIGO"
+    },
+    {
+      "min": 71,
+      "entra": "DIEZ RIVERA, JAIME",
+      "sale": "ALONSO CRUZ, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SIERRA GONZALEZ, KEVIN",
+      "sale": "LOPEZ SAEZ, ANDER"
+    },
+    {
+      "min": 40,
+      "entra": "ABASCAL RUIZ, JOAQUIN",
+      "sale": "GALAZ GOMEZ, GUILLERMO"
+    },
+    {
+      "min": 40,
+      "entra": "MAZA NOVOA, MARIO",
+      "sale": "DE LAS HERAS VARONA, ASIER"
+    },
+    {
+      "min": 62,
+      "entra": "MAZA FERNANDEZ, IÑIGO",
+      "sale": "HOLGADO RODRIGUEZ, IKER"
+    },
+    {
+      "min": 66,
+      "entra": "DEL MORAL ALONSO, RODRIGO",
+      "sale": "CARRERA SANCHEZ, MARCOS"
+    }
+  ],
+  "minutos_jugadores": {
+    "SAUQUILLO ALONSO, MARCO": 90,
+    "ALONSO CRUZ, DIEGO": 71,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 30,
+    "DASILVA PEREIRA, EDUARDO": 90,
+    "NGOUNOU NCHAMA, NEREO STEVE": 90,
+    "PORRAS CADELO, MATEO": 90,
+    "GARCIA MORENO, MARIO": 90,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 90,
+    "RUIZ ORTEGA, RODRIGO": 52,
+    "Montenegro Perez, MARCOS GERMAN": 90,
+    "GARCIA CASTILLO, JORGE": 90,
+    "JURNA ANERO, EDUARDO": 60,
+    "ORTIZ FILGUEIRAS, JAVIER": 38,
+    "DIEZ RIVERA, JAIME": 19,
+    "FURIOL SALCEDO, RUBÉN": 90,
+    "TREVILLA VELA, RAMON": 90,
+    "LLAMA GOMEZ, MARIO": 90,
+    "DE LAS HERAS VARONA, ASIER": 40,
+    "LOPEZ GONZALEZ, HUGO": 90,
+    "GALAZ GOMEZ, GUILLERMO": 40,
+    "GOMEZ RANERO, ANDER": 90,
+    "LOPEZ SAEZ, ANDER": 40,
+    "HOLGADO RODRIGUEZ, IKER": 62,
+    "CARRERA SANCHEZ, MARCOS": 66,
+    "IBAÑEZ AHEDO, EGOITZ": 90,
+    "SIERRA GONZALEZ, KEVIN": 50,
+    "ABASCAL RUIZ, JOAQUIN": 50,
+    "MAZA NOVOA, MARIO": 50,
+    "MAZA FERNANDEZ, IÑIGO": 28,
+    "DEL MORAL ALONSO, RODRIGO": 24
+  },
+  "portero_local": "SAUQUILLO ALONSO, MARCO",
+  "portero_visitante": "FURIOL SALCEDO, RUBÉN",
+  "dorsales_local": {
+    "SAUQUILLO ALONSO, MARCO": 1,
+    "ALONSO CRUZ, DIEGO": 2,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 4,
+    "DASILVA PEREIRA, EDUARDO": 5,
+    "NGOUNOU NCHAMA, NEREO STEVE": 7,
+    "PORRAS CADELO, MATEO": 8,
+    "GARCIA MORENO, MARIO": 9,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 10,
+    "RUIZ ORTEGA, RODRIGO": 11,
+    "Montenegro Perez, MARCOS GERMAN": 17,
+    "GARCIA CASTILLO, JORGE": 18
+  },
+  "dorsales_visitante": {
+    "FURIOL SALCEDO, RUBÉN": 1,
+    "TREVILLA VELA, RAMON": 2,
+    "LLAMA GOMEZ, MARIO": 5,
+    "DE LAS HERAS VARONA, ASIER": 7,
+    "LOPEZ GONZALEZ, HUGO": 8,
+    "GALAZ GOMEZ, GUILLERMO": 10,
+    "GOMEZ RANERO, ANDER": 11,
+    "LOPEZ SAEZ, ANDER": 12,
+    "HOLGADO RODRIGUEZ, IKER": 14,
+    "CARRERA SANCHEZ, MARCOS": 16,
+    "IBAÑEZ AHEDO, EGOITZ": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
