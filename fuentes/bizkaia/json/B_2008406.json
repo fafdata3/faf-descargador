@@ -1,0 +1,354 @@
+{
+  "acta_id": "B_2008406",
+  "filename": "Acta_B_2008406.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 11,
+  "fecha": "15-12-2024",
+  "hora": "18:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ERMUA A",
+  "equipo_visitante": "BASCONIA A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "GARTZIA LEKUE, PEIO"
+  ],
+  "estadio": "TEODORO ZUAZUA",
+  "ciudad": "Ermua",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "RODRIGUEZ SOLIZ, ARIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 13,
+      "jugador": "RODRIGUEZ SOLIZ, ARIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "OLIVEROS PAREJA, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 28,
+      "jugador": "ALVAREZ ALVAREZ, ANER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "RODRIGUEZ SOLIZ, ARIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 83,
+      "jugador": "RODRIGUEZ PEREZ, MARTIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 85,
+      "jugador": "CASTRILLO ISASI, BEÑAT",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "LARRAÑAGA LOPEZ, BEÑAT",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 87,
+      "jugador": "GOMEZ MORENTE, NADIM",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "MAMBUENY, EDER JOSE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 36,
+      "jugador": "AMEZAGA AMEZUA, MIKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "AMEZAGA AMEZUA, MIKEL",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "ALVAREZ CASANOVA, MICHAEL JR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "GALDOS RAMOS, IÑIGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "VACHE MARTINEZ, DARIO NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "ORTEGA MARTIN, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "GUARROTXENA ECHAIDE, ANER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CID RUIZ, JULEN",
+  "entrenador_visitante": "AMEZAGA AMEZUA, MIKEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "POLO MARTIN, ENRIQUE",
+  "delegado_equipo_visitante": "ETXANO GANDARIASBEITIA, IKER",
+  "titulares_local": [
+    "GOMEZ MORENTE, NADIM",
+    "BLANCO MORALES, LUKEN",
+    "CARRASCOSA ARRIAGA, MARTXEL",
+    "MARTIN HONRUBIA, SERGIO",
+    "DOMINGO CARMONA, GARI",
+    "BOUTRASSEYT LAARIK, YOUSSEF",
+    "AHANNACH EL MESRI, GHASSAN",
+    "ALVAREZ ALVAREZ, ANER",
+    "ARAIZTEGI BERRIOZABAL, XARLES",
+    "CASTRILLO ISASI, BEÑAT",
+    "RODRIGUEZ SOLIZ, ARIEL"
+  ],
+  "titulares_visitante": [
+    "GUARROTXENA ECHAIDE, ANER",
+    "FERNANDEZ SANTAMARIA, ENAITZ",
+    "ORTEGA MARTIN, MARKEL",
+    "VICENTE MIGUEL, MIKEL",
+    "RODRIGUEZ DEL RIO, AIMAR",
+    "OLIVEROS PAREJA, IZAN",
+    "ESTEVEZ ECHEVARRIA, JULEN",
+    "ILLARO LLANOS, ANER",
+    "CAMISON REINARES, ADRIAN",
+    "MAMBUENY, EDER JOSE",
+    "NUÑEZ VILLALBA, JESUS SAMUEL"
+  ],
+  "suplentes_local": [
+    "GARATE LAFUENTE, JON ANDER",
+    "MARTINEZ ZUBIZARRETA, JON",
+    "LARRAÑAGA LOPEZ, BEÑAT",
+    "AFASSI EL HAKKOUNI, ADIL",
+    "GUISASOLA FERNANDEZ, OIHAN",
+    "RODRIGUEZ PEREZ, MARTIN",
+    "RAMOS OTERO, UNAI"
+  ],
+  "suplentes_visitante": [
+    "COLLADO LOPEZ, MIKEL",
+    "LARRAGOITI LEON, ENEKO",
+    "CAMARA, SEYDINA MOHAMED",
+    "HRIB, ERIC ALEXANDRU",
+    "GALDOS RAMOS, IÑIGO",
+    "VACHE MARTINEZ, DARIO NICOLAS",
+    "ALVAREZ CASANOVA, MICHAEL JR"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARATE LAFUENTE, JON ANDER",
+    "RAMOS OTERO, UNAI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "COLLADO LOPEZ, MIKEL",
+    "CAMARA, SEYDINA MOHAMED",
+    "HRIB, ERIC ALEXANDRU"
+  ],
+  "jugadores_local": [
+    "GOMEZ MORENTE, NADIM",
+    "BLANCO MORALES, LUKEN",
+    "CARRASCOSA ARRIAGA, MARTXEL",
+    "MARTIN HONRUBIA, SERGIO",
+    "DOMINGO CARMONA, GARI",
+    "BOUTRASSEYT LAARIK, YOUSSEF",
+    "AHANNACH EL MESRI, GHASSAN",
+    "ALVAREZ ALVAREZ, ANER",
+    "ARAIZTEGI BERRIOZABAL, XARLES",
+    "CASTRILLO ISASI, BEÑAT",
+    "RODRIGUEZ SOLIZ, ARIEL",
+    "LARRAÑAGA LOPEZ, BEÑAT",
+    "GUISASOLA FERNANDEZ, OIHAN",
+    "RODRIGUEZ PEREZ, MARTIN",
+    "MARTINEZ ZUBIZARRETA, JON",
+    "AFASSI EL HAKKOUNI, ADIL"
+  ],
+  "jugadores_visitante": [
+    "GUARROTXENA ECHAIDE, ANER",
+    "FERNANDEZ SANTAMARIA, ENAITZ",
+    "ORTEGA MARTIN, MARKEL",
+    "VICENTE MIGUEL, MIKEL",
+    "RODRIGUEZ DEL RIO, AIMAR",
+    "OLIVEROS PAREJA, IZAN",
+    "ESTEVEZ ECHEVARRIA, JULEN",
+    "ILLARO LLANOS, ANER",
+    "CAMISON REINARES, ADRIAN",
+    "MAMBUENY, EDER JOSE",
+    "NUÑEZ VILLALBA, JESUS SAMUEL",
+    "GALDOS RAMOS, IÑIGO",
+    "LARRAGOITI LEON, ENEKO",
+    "VACHE MARTINEZ, DARIO NICOLAS",
+    "ALVAREZ CASANOVA, MICHAEL JR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "LARRAÑAGA LOPEZ, BEÑAT",
+      "sale": "MARTIN HONRUBIA, SERGIO"
+    },
+    {
+      "min": 51,
+      "entra": "GUISASOLA FERNANDEZ, OIHAN",
+      "sale": "BOUTRASSEYT LAARIK, YOUSSEF"
+    },
+    {
+      "min": 58,
+      "entra": "RODRIGUEZ PEREZ, MARTIN",
+      "sale": "ALVAREZ ALVAREZ, ANER"
+    },
+    {
+      "min": 73,
+      "entra": "MARTINEZ ZUBIZARRETA, JON",
+      "sale": "DOMINGO CARMONA, GARI"
+    },
+    {
+      "min": 73,
+      "entra": "AFASSI EL HAKKOUNI, ADIL",
+      "sale": "ARAIZTEGI BERRIOZABAL, XARLES"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GALDOS RAMOS, IÑIGO",
+      "sale": "ILLARO LLANOS, ANER"
+    },
+    {
+      "min": 40,
+      "entra": "LARRAGOITI LEON, ENEKO",
+      "sale": "ESTEVEZ ECHEVARRIA, JULEN"
+    },
+    {
+      "min": 62,
+      "entra": "VACHE MARTINEZ, DARIO NICOLAS",
+      "sale": "FERNANDEZ SANTAMARIA, ENAITZ"
+    },
+    {
+      "min": 69,
+      "entra": "ALVAREZ CASANOVA, MICHAEL JR",
+      "sale": "MAMBUENY, EDER JOSE"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ MORENTE, NADIM": 90,
+    "BLANCO MORALES, LUKEN": 90,
+    "CARRASCOSA ARRIAGA, MARTXEL": 90,
+    "MARTIN HONRUBIA, SERGIO": 51,
+    "DOMINGO CARMONA, GARI": 73,
+    "BOUTRASSEYT LAARIK, YOUSSEF": 51,
+    "AHANNACH EL MESRI, GHASSAN": 90,
+    "ALVAREZ ALVAREZ, ANER": 58,
+    "ARAIZTEGI BERRIOZABAL, XARLES": 73,
+    "CASTRILLO ISASI, BEÑAT": 90,
+    "RODRIGUEZ SOLIZ, ARIEL": 90,
+    "LARRAÑAGA LOPEZ, BEÑAT": 39,
+    "GUISASOLA FERNANDEZ, OIHAN": 39,
+    "RODRIGUEZ PEREZ, MARTIN": 32,
+    "MARTINEZ ZUBIZARRETA, JON": 17,
+    "AFASSI EL HAKKOUNI, ADIL": 17,
+    "GUARROTXENA ECHAIDE, ANER": 90,
+    "FERNANDEZ SANTAMARIA, ENAITZ": 62,
+    "ORTEGA MARTIN, MARKEL": 90,
+    "VICENTE MIGUEL, MIKEL": 90,
+    "RODRIGUEZ DEL RIO, AIMAR": 90,
+    "OLIVEROS PAREJA, IZAN": 90,
+    "ESTEVEZ ECHEVARRIA, JULEN": 40,
+    "ILLARO LLANOS, ANER": 40,
+    "CAMISON REINARES, ADRIAN": 90,
+    "MAMBUENY, EDER JOSE": 69,
+    "NUÑEZ VILLALBA, JESUS SAMUEL": 90,
+    "GALDOS RAMOS, IÑIGO": 50,
+    "LARRAGOITI LEON, ENEKO": 50,
+    "VACHE MARTINEZ, DARIO NICOLAS": 28,
+    "ALVAREZ CASANOVA, MICHAEL JR": 21
+  },
+  "portero_local": "GOMEZ MORENTE, NADIM",
+  "portero_visitante": "GUARROTXENA ECHAIDE, ANER",
+  "dorsales_local": {
+    "GOMEZ MORENTE, NADIM": 13,
+    "BLANCO MORALES, LUKEN": 5,
+    "CARRASCOSA ARRIAGA, MARTXEL": 6,
+    "MARTIN HONRUBIA, SERGIO": 10,
+    "DOMINGO CARMONA, GARI": 11,
+    "BOUTRASSEYT LAARIK, YOUSSEF": 12,
+    "AHANNACH EL MESRI, GHASSAN": 16,
+    "ALVAREZ ALVAREZ, ANER": 18,
+    "ARAIZTEGI BERRIOZABAL, XARLES": 21,
+    "CASTRILLO ISASI, BEÑAT": 22,
+    "RODRIGUEZ SOLIZ, ARIEL": 24
+  },
+  "dorsales_visitante": {
+    "GUARROTXENA ECHAIDE, ANER": 1,
+    "FERNANDEZ SANTAMARIA, ENAITZ": 2,
+    "ORTEGA MARTIN, MARKEL": 4,
+    "VICENTE MIGUEL, MIKEL": 6,
+    "RODRIGUEZ DEL RIO, AIMAR": 8,
+    "OLIVEROS PAREJA, IZAN": 9,
+    "ESTEVEZ ECHEVARRIA, JULEN": 11,
+    "ILLARO LLANOS, ANER": 15,
+    "CAMISON REINARES, ADRIAN": 21,
+    "MAMBUENY, EDER JOSE": 22,
+    "NUÑEZ VILLALBA, JESUS SAMUEL": 24
+  },
+  "suspendidos": [
+    "AMEZAGA AMEZUA, MIKEL"
+  ],
+  "_marcador_widget": true
+}
