@@ -1,0 +1,280 @@
+{
+  "acta_id": "C_192860",
+  "filename": "Acta_C_192860.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 16,
+  "fecha": "22-12-2024",
+  "hora": "09:30",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "ALEGRE VELASCO, JUAN CARLOS"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "PERNIA RODRIGUEZ, JOEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "RENEDO COSIO, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "GARCIA GARCIA, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "GARCIA GARCIA, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 37,
+      "jugador": "ASON BALAGUER, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "DE ANGEL BATYREV, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "RENEDO COSIO, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "BARRIO OBREGON, IZAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CAVIA ROIG, GERARDO",
+  "entrenador_visitante": "PALAZUELOS TRUEBA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GONZALEZ ARENAL, PEDRO",
+  "delegado_campo_local": "VEGA GUTIERREZ, JUAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VEGA GUTIERREZ, JUAN",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "COLLANTES GOMEZ, HUGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "DE ANGEL BATYREV, LUCAS",
+    "Flor Martinez, IAGO",
+    "ASON BALAGUER, MARIO",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "RUIZ SAIZ, MARIO",
+    "GARCIA GARCIA, MARCOS",
+    "RUBIN MUÑOZ, MICHEL",
+    "FUENTES PALLEJA, ERIK"
+  ],
+  "titulares_visitante": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "RODEÑO DIAZ, GABRIEL",
+    "Gaviria Cataño, JUAN DIEGO",
+    "BARRIO OBREGON, IZAN",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO"
+  ],
+  "suplentes_local": [
+    "agudo cuenca, DIEGO",
+    "GARCIA GOMEZ, DANIEL",
+    "GARCIA AGUADO, DANIEL",
+    "GONZALEZ CAMUS, MARCO",
+    "REY LASTRA, JOSE LUIS"
+  ],
+  "suplentes_visitante": [
+    "LASO MARTINEZ, ADRIAN",
+    "CALVO MORTE, SAMUEL",
+    "SANCHEZ SALAS, SERGIO",
+    "SAIZ GARCÍA, IVAN",
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "LASO MARTINEZ, ADRIAN"
+  ],
+  "jugadores_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "COLLANTES GOMEZ, HUGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "DE ANGEL BATYREV, LUCAS",
+    "Flor Martinez, IAGO",
+    "ASON BALAGUER, MARIO",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "RUIZ SAIZ, MARIO",
+    "GARCIA GARCIA, MARCOS",
+    "RUBIN MUÑOZ, MICHEL",
+    "FUENTES PALLEJA, ERIK",
+    "GARCIA AGUADO, DANIEL",
+    "GARCIA GOMEZ, DANIEL",
+    "agudo cuenca, DIEGO",
+    "GONZALEZ CAMUS, MARCO",
+    "REY LASTRA, JOSE LUIS"
+  ],
+  "jugadores_visitante": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "RODEÑO DIAZ, GABRIEL",
+    "Gaviria Cataño, JUAN DIEGO",
+    "BARRIO OBREGON, IZAN",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN",
+    "CALVO MORTE, SAMUEL",
+    "SANCHEZ SALAS, SERGIO",
+    "SAIZ GARCÍA, IVAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GARCIA AGUADO, DANIEL",
+      "sale": "RUBIN MUÑOZ, MICHEL"
+    },
+    {
+      "min": 60,
+      "entra": "GARCIA GOMEZ, DANIEL",
+      "sale": "RUIZ SAIZ, MARIO"
+    },
+    {
+      "min": 68,
+      "entra": "agudo cuenca, DIEGO",
+      "sale": "COLLANTES GOMEZ, HUGO"
+    },
+    {
+      "min": 68,
+      "entra": "GONZALEZ CAMUS, MARCO",
+      "sale": "PORTILLA CAMUS, ALEJANDRO"
+    },
+    {
+      "min": 70,
+      "entra": "REY LASTRA, JOSE LUIS",
+      "sale": "FUENTES PALLEJA, ERIK"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "COBO MARTINEZ, KELLYAN",
+      "sale": "RODEÑO DIAZ, GABRIEL"
+    },
+    {
+      "min": 68,
+      "entra": "CALVO MORTE, SAMUEL",
+      "sale": "FERNÁNDEZ VICENTE, ALEJANDRO"
+    },
+    {
+      "min": 72,
+      "entra": "SANCHEZ SALAS, SERGIO",
+      "sale": "CUADRADO PEREZ RUBIN, MATEO"
+    },
+    {
+      "min": 75,
+      "entra": "SAIZ GARCÍA, IVAN",
+      "sale": "RENEDO COSIO, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ GOMEZ, HUGO": 90,
+    "COLLANTES GOMEZ, HUGO": 68,
+    "PORTILLA CAMUS, ALEJANDRO": 68,
+    "DE ANGEL BATYREV, LUCAS": 90,
+    "Flor Martinez, IAGO": 90,
+    "ASON BALAGUER, MARIO": 90,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 90,
+    "RUIZ SAIZ, MARIO": 60,
+    "GARCIA GARCIA, MARCOS": 90,
+    "RUBIN MUÑOZ, MICHEL": 40,
+    "FUENTES PALLEJA, ERIK": 70,
+    "GARCIA AGUADO, DANIEL": 50,
+    "GARCIA GOMEZ, DANIEL": 30,
+    "agudo cuenca, DIEGO": 22,
+    "GONZALEZ CAMUS, MARCO": 22,
+    "REY LASTRA, JOSE LUIS": 20,
+    "BERNARDO MIRAVALLES, IZAN": 90,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 68,
+    "RODEÑO DIAZ, GABRIEL": 61,
+    "Gaviria Cataño, JUAN DIEGO": 90,
+    "BARRIO OBREGON, IZAN": 90,
+    "CUADRADO PEREZ RUBIN, MATEO": 72,
+    "GOMEZ BOLADO, MIGUEL": 90,
+    "PERNIA RODRIGUEZ, JOEL": 90,
+    "RENEDO COSIO, DIEGO": 75,
+    "MOURA REVUELTA, ROMEO": 90,
+    "COBO MARTINEZ, KELLYAN": 29,
+    "CALVO MORTE, SAMUEL": 22,
+    "SANCHEZ SALAS, SERGIO": 18,
+    "SAIZ GARCÍA, IVAN": 15
+  },
+  "portero_local": "RODRIGUEZ GOMEZ, HUGO",
+  "portero_visitante": "BERNARDO MIRAVALLES, IZAN",
+  "dorsales_local": {
+    "RODRIGUEZ GOMEZ, HUGO": 1,
+    "COLLANTES GOMEZ, HUGO": 2,
+    "PORTILLA CAMUS, ALEJANDRO": 3,
+    "DE ANGEL BATYREV, LUCAS": 5,
+    "Flor Martinez, IAGO": 10,
+    "ASON BALAGUER, MARIO": 11,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 12,
+    "RUIZ SAIZ, MARIO": 14,
+    "GARCIA GARCIA, MARCOS": 15,
+    "RUBIN MUÑOZ, MICHEL": 17,
+    "FUENTES PALLEJA, ERIK": 18
+  },
+  "dorsales_visitante": {
+    "BERNARDO MIRAVALLES, IZAN": 13,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "RODEÑO DIAZ, GABRIEL": 8,
+    "Gaviria Cataño, JUAN DIEGO": 9,
+    "BARRIO OBREGON, IZAN": 10,
+    "CUADRADO PEREZ RUBIN, MATEO": 11,
+    "GOMEZ BOLADO, MIGUEL": 12,
+    "PERNIA RODRIGUEZ, JOEL": 17,
+    "RENEDO COSIO, DIEGO": 18,
+    "MOURA REVUELTA, ROMEO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
