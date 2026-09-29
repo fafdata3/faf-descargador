@@ -1,0 +1,308 @@
+{
+  "acta_id": "B_9981320",
+  "filename": "Acta_B_9981320.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 19,
+  "fecha": "14-02-2026",
+  "hora": "13:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ERANDIO A",
+  "equipo_visitante": "BIZKERRE",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "LANDETA MATEOS, JULEN"
+  ],
+  "estadio": "ARTEAGA",
+  "ciudad": "Erandio",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "URRUTIA HORAS, ERIK",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "RIVAS MARTIN, LUKEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "MENDIA SUAREZ, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 58,
+      "jugador": "POSADA ENRIQUEZ, ENAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "LAUZIRIKA LASA, AMETZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "MAROTO ALDANA, XABIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 11,
+      "jugador": "MENDIA SUAREZ, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "PÉREZ DE ANUCITA FUERTES, PEIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "GONZALEZ GONZALEZ, LEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "PÉREZ DE ANUCITA FUERTES, PEIO",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MAROTO ALDANA, XABIER",
+  "entrenador_visitante": "ALCORTA MARTINEZ, OSCAR",
+  "segundo_entrenador_local": "QUINTANO NIETO, EKAITZ",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GONZALEZ GONZALEZ, ERLANTZ",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GONZALEZ GONZALEZ, ERLANTZ",
+  "delegado_equipo_visitante": "ARGOITIA IBARROLAZA , JOSEBA MIRENA",
+  "titulares_local": [
+    "GONZALEZ BAZACO, MARKEL",
+    "CLAVERO OTAOLA, ALEX",
+    "GARCIA DEL ARCO, IKER",
+    "GONZALEZ ROJAS, OMAR",
+    "POSADA ENRIQUEZ, ENAITZ",
+    "SANTOS GARCIA, ERLANTZ",
+    "GIL FERNANDEZ, MARCOS",
+    "MARTIN MENDIOLA, UNAX",
+    "VAZQUEZ MANRIQUE, AITOR",
+    "DIABATE MICHA, MIGUEL AMARA",
+    "SERRANO ROCHA, JON ANDER"
+  ],
+  "titulares_visitante": [
+    "PEREZ LANDAJO, UNAI",
+    "LAISECA LOPEZ, MARTIN",
+    "ITURREGUI GOMEZ, LUCA",
+    "OBREGON CUEVA, JON",
+    "LAUZIRIKA LASA, AMETZ",
+    "VELASCO ARTAZA, PERU",
+    "MENDIA SUAREZ, MARIO",
+    "SARACHO GARCIA, ENDIKA",
+    "PALOMINO TORRES, XABI",
+    "URRUTIA HORAS, ERIK",
+    "DE AREITIO GUTIERREZ, RAMON"
+  ],
+  "suplentes_local": [
+    "BONATXEA BERISTAIN, HEGOI",
+    "ESPINA LOIZAGA, ALAIN",
+    "SANCHEZ MARTINEZ, DIEGO",
+    "CABIDA ALCORTA, KERMAN",
+    "RIVAS MARTIN, LUKEN",
+    "BABUGLIA SARASOLA, LUKEN"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ GONZALEZ, LEO",
+    "ARGOITIA MENDIZABAL, XABI",
+    "PÉREZ DE ANUCITA FUERTES, PEIO",
+    "ETXEBARRIETA MERINO, EKAIN",
+    "ALDAITURRIAGA BAYON, ARATZ",
+    "LAZKANO CRESPO, MARKEL",
+    "ALVEREZ ROMO, GORKA"
+  ],
+  "convocados_sin_jugar_local": [
+    "BONATXEA BERISTAIN, HEGOI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALDAITURRIAGA BAYON, ARATZ",
+    "LAZKANO CRESPO, MARKEL"
+  ],
+  "jugadores_local": [
+    "GONZALEZ BAZACO, MARKEL",
+    "CLAVERO OTAOLA, ALEX",
+    "GARCIA DEL ARCO, IKER",
+    "GONZALEZ ROJAS, OMAR",
+    "POSADA ENRIQUEZ, ENAITZ",
+    "SANTOS GARCIA, ERLANTZ",
+    "GIL FERNANDEZ, MARCOS",
+    "MARTIN MENDIOLA, UNAX",
+    "VAZQUEZ MANRIQUE, AITOR",
+    "DIABATE MICHA, MIGUEL AMARA",
+    "SERRANO ROCHA, JON ANDER",
+    "RIVAS MARTIN, LUKEN",
+    "ESPINA LOIZAGA, ALAIN",
+    "CABIDA ALCORTA, KERMAN",
+    "SANCHEZ MARTINEZ, DIEGO",
+    "BABUGLIA SARASOLA, LUKEN"
+  ],
+  "jugadores_visitante": [
+    "PEREZ LANDAJO, UNAI",
+    "LAISECA LOPEZ, MARTIN",
+    "ITURREGUI GOMEZ, LUCA",
+    "OBREGON CUEVA, JON",
+    "LAUZIRIKA LASA, AMETZ",
+    "VELASCO ARTAZA, PERU",
+    "MENDIA SUAREZ, MARIO",
+    "SARACHO GARCIA, ENDIKA",
+    "PALOMINO TORRES, XABI",
+    "URRUTIA HORAS, ERIK",
+    "DE AREITIO GUTIERREZ, RAMON",
+    "ARGOITIA MENDIZABAL, XABI",
+    "PÉREZ DE ANUCITA FUERTES, PEIO",
+    "ALVEREZ ROMO, GORKA",
+    "ETXEBARRIETA MERINO, EKAIN",
+    "GONZALEZ GONZALEZ, LEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "RIVAS MARTIN, LUKEN",
+      "sale": "DIABATE MICHA, MIGUEL AMARA"
+    },
+    {
+      "min": 50,
+      "entra": "ESPINA LOIZAGA, ALAIN",
+      "sale": "MARTIN MENDIOLA, UNAX"
+    },
+    {
+      "min": 65,
+      "entra": "CABIDA ALCORTA, KERMAN",
+      "sale": "POSADA ENRIQUEZ, ENAITZ"
+    },
+    {
+      "min": 73,
+      "entra": "SANCHEZ MARTINEZ, DIEGO",
+      "sale": "GARCIA DEL ARCO, IKER"
+    },
+    {
+      "min": 73,
+      "entra": "BABUGLIA SARASOLA, LUKEN",
+      "sale": "VAZQUEZ MANRIQUE, AITOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "ARGOITIA MENDIZABAL, XABI",
+      "sale": "OBREGON CUEVA, JON"
+    },
+    {
+      "min": 50,
+      "entra": "PÉREZ DE ANUCITA FUERTES, PEIO",
+      "sale": "SARACHO GARCIA, ENDIKA"
+    },
+    {
+      "min": 74,
+      "entra": "ALVEREZ ROMO, GORKA",
+      "sale": "DE AREITIO GUTIERREZ, RAMON"
+    },
+    {
+      "min": 74,
+      "entra": "ETXEBARRIETA MERINO, EKAIN",
+      "sale": "ITURREGUI GOMEZ, LUCA"
+    },
+    {
+      "min": 78,
+      "entra": "GONZALEZ GONZALEZ, LEO",
+      "sale": "MENDIA SUAREZ, MARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONZALEZ BAZACO, MARKEL": 90,
+    "CLAVERO OTAOLA, ALEX": 90,
+    "GARCIA DEL ARCO, IKER": 73,
+    "GONZALEZ ROJAS, OMAR": 90,
+    "POSADA ENRIQUEZ, ENAITZ": 65,
+    "SANTOS GARCIA, ERLANTZ": 90,
+    "GIL FERNANDEZ, MARCOS": 90,
+    "MARTIN MENDIOLA, UNAX": 50,
+    "VAZQUEZ MANRIQUE, AITOR": 73,
+    "DIABATE MICHA, MIGUEL AMARA": 40,
+    "SERRANO ROCHA, JON ANDER": 90,
+    "RIVAS MARTIN, LUKEN": 50,
+    "ESPINA LOIZAGA, ALAIN": 40,
+    "CABIDA ALCORTA, KERMAN": 25,
+    "SANCHEZ MARTINEZ, DIEGO": 17,
+    "BABUGLIA SARASOLA, LUKEN": 17,
+    "PEREZ LANDAJO, UNAI": 90,
+    "LAISECA LOPEZ, MARTIN": 90,
+    "ITURREGUI GOMEZ, LUCA": 74,
+    "OBREGON CUEVA, JON": 50,
+    "LAUZIRIKA LASA, AMETZ": 90,
+    "VELASCO ARTAZA, PERU": 90,
+    "MENDIA SUAREZ, MARIO": 78,
+    "SARACHO GARCIA, ENDIKA": 50,
+    "PALOMINO TORRES, XABI": 90,
+    "URRUTIA HORAS, ERIK": 90,
+    "DE AREITIO GUTIERREZ, RAMON": 74,
+    "ARGOITIA MENDIZABAL, XABI": 40,
+    "PÉREZ DE ANUCITA FUERTES, PEIO": 40,
+    "ALVEREZ ROMO, GORKA": 16,
+    "ETXEBARRIETA MERINO, EKAIN": 16,
+    "GONZALEZ GONZALEZ, LEO": 12
+  },
+  "portero_local": "GONZALEZ BAZACO, MARKEL",
+  "portero_visitante": "PEREZ LANDAJO, UNAI",
+  "dorsales_local": {
+    "GONZALEZ BAZACO, MARKEL": 13,
+    "CLAVERO OTAOLA, ALEX": 2,
+    "GARCIA DEL ARCO, IKER": 4,
+    "GONZALEZ ROJAS, OMAR": 5,
+    "POSADA ENRIQUEZ, ENAITZ": 6,
+    "SANTOS GARCIA, ERLANTZ": 7,
+    "GIL FERNANDEZ, MARCOS": 8,
+    "MARTIN MENDIOLA, UNAX": 9,
+    "VAZQUEZ MANRIQUE, AITOR": 10,
+    "DIABATE MICHA, MIGUEL AMARA": 19,
+    "SERRANO ROCHA, JON ANDER": 22
+  },
+  "dorsales_visitante": {
+    "PEREZ LANDAJO, UNAI": 1,
+    "LAISECA LOPEZ, MARTIN": 4,
+    "ITURREGUI GOMEZ, LUCA": 6,
+    "OBREGON CUEVA, JON": 9,
+    "LAUZIRIKA LASA, AMETZ": 12,
+    "VELASCO ARTAZA, PERU": 16,
+    "MENDIA SUAREZ, MARIO": 17,
+    "SARACHO GARCIA, ENDIKA": 20,
+    "PALOMINO TORRES, XABI": 21,
+    "URRUTIA HORAS, ERIK": 22,
+    "DE AREITIO GUTIERREZ, RAMON": 23
+  },
+  "suspendidos": [
+    "PÉREZ DE ANUCITA FUERTES, PEIO"
+  ]
+}
