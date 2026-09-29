@@ -1,0 +1,273 @@
+{
+  "acta_id": "B_2008341",
+  "filename": "Acta_B_2008341.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 3,
+  "fecha": "20-10-2024",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ARIZ A",
+  "equipo_visitante": "ERMUA A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MATA AGUADO, XABIER"
+  ],
+  "estadio": "SOLOARTE",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 43,
+      "jugador": "ALVAREZ ALVAREZ, ANER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "ALVAREZ ALVAREZ, ANER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 78,
+      "jugador": "ACHAHBAR HADIR, AKRAM",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 51,
+      "jugador": "PEREÑA SANCHEZ, EDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "CASTRILLO ISASI, BEÑAT",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DE LUCAS HERNANDEZ, ALBERTO",
+  "entrenador_visitante": "CID RUIZ, JULEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CEDRUN VESGA, JUAN IGNACIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CEDRUN VESGA, JUAN IGNACIO",
+  "delegado_equipo_visitante": "POLO MARTIN, ENRIQUE",
+  "titulares_local": [
+    "ZHAN, YIHANG",
+    "GARCIA ERNESTO, ALAN",
+    "GARCIA GARCIA, JULEN",
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA",
+    "AMARITA ROMERO, UNAI",
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ",
+    "HERNANDEZ ARZA, UNAX",
+    "DEL RIO GONZALEZ, ERIK",
+    "SILVA ALAINEZ, IAN",
+    "LOPEZ FRANCO, EDER",
+    "PEREÑA SANCHEZ, EDER"
+  ],
+  "titulares_visitante": [
+    "LARREATEGUI SANTAMARIA, ANDER",
+    "LARRAÑAGA LOPEZ, BEÑAT",
+    "CARRASCOSA ARRIAGA, MARTXEL",
+    "MARTIN HONRUBIA, SERGIO",
+    "DOMINGO CARMONA, GARI",
+    "BLANCO MORALES, LUKEN",
+    "ALVAREZ ALVAREZ, ANER",
+    "RAMOS OTERO, UNAI",
+    "ARAIZTEGI BERRIOZABAL, XARLES",
+    "CASTRILLO ISASI, BEÑAT",
+    "RODRIGUEZ SOLIZ, ARIEL"
+  ],
+  "suplentes_local": [
+    "LAVIÑA FREIRE, JOSE MIGUEL",
+    "SOBRADO RAMIREZ, UGATZ",
+    "CISSOKO SIDIBE, HAMZA",
+    "ROMERO BLANCO, UNAI",
+    "OUZENNOU BAYACHOU, YAMINE",
+    "LARRINAGA VILLASANTE, PABLO",
+    "BEZOS VELASCO, JON"
+  ],
+  "suplentes_visitante": [
+    "GOMEZ MORENTE, NADIM",
+    "SANCHEZ PEREZ, IKER",
+    "LUQUE FERNANDEZ, ANDER",
+    "ACHAHBAR HADIR, AKRAM",
+    "GUISASOLA FERNANDEZ, OIHAN",
+    "GRAJALES VELEZ, JEAN PIERRE",
+    "AHANNACH EL MESRI, GHASSAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "LAVIÑA FREIRE, JOSE MIGUEL",
+    "OUZENNOU BAYACHOU, YAMINE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GOMEZ MORENTE, NADIM",
+    "AHANNACH EL MESRI, GHASSAN"
+  ],
+  "jugadores_local": [
+    "ZHAN, YIHANG",
+    "GARCIA ERNESTO, ALAN",
+    "GARCIA GARCIA, JULEN",
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA",
+    "AMARITA ROMERO, UNAI",
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ",
+    "HERNANDEZ ARZA, UNAX",
+    "DEL RIO GONZALEZ, ERIK",
+    "SILVA ALAINEZ, IAN",
+    "LOPEZ FRANCO, EDER",
+    "PEREÑA SANCHEZ, EDER",
+    "BEZOS VELASCO, JON",
+    "SOBRADO RAMIREZ, UGATZ",
+    "LARRINAGA VILLASANTE, PABLO",
+    "ROMERO BLANCO, UNAI",
+    "CISSOKO SIDIBE, HAMZA"
+  ],
+  "jugadores_visitante": [
+    "LARREATEGUI SANTAMARIA, ANDER",
+    "LARRAÑAGA LOPEZ, BEÑAT",
+    "CARRASCOSA ARRIAGA, MARTXEL",
+    "MARTIN HONRUBIA, SERGIO",
+    "DOMINGO CARMONA, GARI",
+    "BLANCO MORALES, LUKEN",
+    "ALVAREZ ALVAREZ, ANER",
+    "RAMOS OTERO, UNAI",
+    "ARAIZTEGI BERRIOZABAL, XARLES",
+    "CASTRILLO ISASI, BEÑAT",
+    "RODRIGUEZ SOLIZ, ARIEL",
+    "LUQUE FERNANDEZ, ANDER",
+    "SANCHEZ PEREZ, IKER",
+    "GRAJALES VELEZ, JEAN PIERRE",
+    "GUISASOLA FERNANDEZ, OIHAN",
+    "ACHAHBAR HADIR, AKRAM"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "BEZOS VELASCO, JON",
+      "sale": "SILVA ALAINEZ, IAN"
+    },
+    {
+      "min": 65,
+      "entra": "SOBRADO RAMIREZ, UGATZ",
+      "sale": "GARCIA ERNESTO, ALAN"
+    },
+    {
+      "min": 65,
+      "entra": "LARRINAGA VILLASANTE, PABLO",
+      "sale": "AMARITA ROMERO, UNAI"
+    },
+    {
+      "min": 65,
+      "entra": "ROMERO BLANCO, UNAI",
+      "sale": "ASTIGARRAGA BELLIDO, KOLDOBIKA"
+    },
+    {
+      "min": 77,
+      "entra": "CISSOKO SIDIBE, HAMZA",
+      "sale": "HERNANDEZ ARZA, UNAX"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "LUQUE FERNANDEZ, ANDER",
+      "sale": "ALVAREZ ALVAREZ, ANER"
+    },
+    {
+      "min": 59,
+      "entra": "SANCHEZ PEREZ, IKER",
+      "sale": "RAMOS OTERO, UNAI"
+    },
+    {
+      "min": 70,
+      "entra": "GRAJALES VELEZ, JEAN PIERRE",
+      "sale": "CASTRILLO ISASI, BEÑAT"
+    },
+    {
+      "min": 70,
+      "entra": "GUISASOLA FERNANDEZ, OIHAN",
+      "sale": "ARAIZTEGI BERRIOZABAL, XARLES"
+    },
+    {
+      "min": 76,
+      "entra": "ACHAHBAR HADIR, AKRAM",
+      "sale": "MARTIN HONRUBIA, SERGIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ZHAN, YIHANG": 90,
+    "GARCIA ERNESTO, ALAN": 65,
+    "GARCIA GARCIA, JULEN": 90,
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA": 65,
+    "AMARITA ROMERO, UNAI": 65,
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ": 90,
+    "HERNANDEZ ARZA, UNAX": 77,
+    "DEL RIO GONZALEZ, ERIK": 90,
+    "SILVA ALAINEZ, IAN": 54,
+    "LOPEZ FRANCO, EDER": 90,
+    "PEREÑA SANCHEZ, EDER": 90,
+    "BEZOS VELASCO, JON": 36,
+    "SOBRADO RAMIREZ, UGATZ": 25,
+    "LARRINAGA VILLASANTE, PABLO": 25,
+    "ROMERO BLANCO, UNAI": 25,
+    "CISSOKO SIDIBE, HAMZA": 13,
+    "LARREATEGUI SANTAMARIA, ANDER": 90,
+    "LARRAÑAGA LOPEZ, BEÑAT": 90,
+    "CARRASCOSA ARRIAGA, MARTXEL": 90,
+    "MARTIN HONRUBIA, SERGIO": 76,
+    "DOMINGO CARMONA, GARI": 90,
+    "BLANCO MORALES, LUKEN": 90,
+    "ALVAREZ ALVAREZ, ANER": 59,
+    "RAMOS OTERO, UNAI": 59,
+    "ARAIZTEGI BERRIOZABAL, XARLES": 70,
+    "CASTRILLO ISASI, BEÑAT": 70,
+    "RODRIGUEZ SOLIZ, ARIEL": 90,
+    "LUQUE FERNANDEZ, ANDER": 31,
+    "SANCHEZ PEREZ, IKER": 31,
+    "GRAJALES VELEZ, JEAN PIERRE": 20,
+    "GUISASOLA FERNANDEZ, OIHAN": 20,
+    "ACHAHBAR HADIR, AKRAM": 14
+  },
+  "portero_local": "ZHAN, YIHANG",
+  "portero_visitante": "LARREATEGUI SANTAMARIA, ANDER",
+  "dorsales_local": {
+    "ZHAN, YIHANG": 1,
+    "GARCIA ERNESTO, ALAN": 5,
+    "GARCIA GARCIA, JULEN": 7,
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA": 8,
+    "AMARITA ROMERO, UNAI": 9,
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ": 10,
+    "HERNANDEZ ARZA, UNAX": 11,
+    "DEL RIO GONZALEZ, ERIK": 17,
+    "SILVA ALAINEZ, IAN": 23,
+    "LOPEZ FRANCO, EDER": 24,
+    "PEREÑA SANCHEZ, EDER": 25
+  },
+  "dorsales_visitante": {
+    "LARREATEGUI SANTAMARIA, ANDER": 1,
+    "LARRAÑAGA LOPEZ, BEÑAT": 3,
+    "CARRASCOSA ARRIAGA, MARTXEL": 6,
+    "MARTIN HONRUBIA, SERGIO": 10,
+    "DOMINGO CARMONA, GARI": 11,
+    "BLANCO MORALES, LUKEN": 16,
+    "ALVAREZ ALVAREZ, ANER": 18,
+    "RAMOS OTERO, UNAI": 19,
+    "ARAIZTEGI BERRIOZABAL, XARLES": 21,
+    "CASTRILLO ISASI, BEÑAT": 22,
+    "RODRIGUEZ SOLIZ, ARIEL": 24
+  },
+  "suspendidos": []
+}
