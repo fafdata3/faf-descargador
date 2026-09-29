@@ -1,0 +1,250 @@
+{
+  "acta_id": "C_173157",
+  "filename": "Acta_C_173157.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "01-10-2023",
+  "hora": "10:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.F. VIMENOR A",
+  "equipo_visitante": "AT. ESPAÑA DE CUETO A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCIA OREÑA, IRENE"
+  ],
+  "estadio": "Vioño",
+  "ciudad": "Piélagos",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "LOIS VEGAS, SANCHO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "CAPELLAN ROBLEDO, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "MARTIN LOPEZ, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "CAPELLAN ROBLEDO, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "GARCIA GARCIA, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CHAVES OBREGON, FERNANDO",
+  "entrenador_visitante": "GOMEZ ARRANZ, IVAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "TOCA CASADO, RAFAEL",
+  "delegado_campo_local": "CALDERON HARO, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CALDERON HARO, DANIEL",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "MERINO RIANCHO, DANIEL",
+    "PRIETO BARCENA, ABEL",
+    "ÁLVAREZ SÁIZ, GAEL",
+    "ALISEDA RODRIGUES, HUGO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "IBÁÑEZ ESCUDERO, HUGO",
+    "PÉREZ VELA, MARCOS",
+    "SIERRA VÁZQUEZ, SALVADOR",
+    "MARTIN LOPEZ, IKER",
+    "LOIS VEGAS, SANCHO",
+    "URDA GARCIA, JUAN"
+  ],
+  "titulares_visitante": [
+    "FUENTES LEMA, LAUREANO",
+    "SANCHEZ GALONCE, HECTOR",
+    "DELGADO MELLADO, JUAN",
+    "GARCIA GARCIA, ADRIAN",
+    "GONZALEZ GOMEZ, JAVIER",
+    "GONZALEZ USIN, GABRIEL",
+    "MATEO OLALLA, MARKEL",
+    "TAPIA IBAÑEZ, NACHO",
+    "CURADO GUTIERREZ, ALVARO",
+    "RODRIGUEZ GUTIERREZ, DANIEL",
+    "CALABRESE CRESPO, GIANLUCA"
+  ],
+  "suplentes_local": [
+    "GÓMEZ MUÑIZ, MARTÍN",
+    "CAYÓN GUTIERREZ, CARLOS",
+    "GUTIÉRREZ LÓPEZ, JOSÉ",
+    "MENDEZ COBO, SAUL",
+    "GÓMEZ BÁRCENA, AARON"
+  ],
+  "suplentes_visitante": [
+    "VILLAR GARCIA, LARO",
+    "GARCIA GARCIA, JORGE",
+    "PERA DE LA LOMA, IKER",
+    "HOZ MARTINEZ, MARCOS"
+  ],
+  "convocados_sin_jugar_local": [
+    "GÓMEZ MUÑIZ, MARTÍN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MERINO RIANCHO, DANIEL",
+    "PRIETO BARCENA, ABEL",
+    "ÁLVAREZ SÁIZ, GAEL",
+    "ALISEDA RODRIGUES, HUGO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "IBÁÑEZ ESCUDERO, HUGO",
+    "PÉREZ VELA, MARCOS",
+    "SIERRA VÁZQUEZ, SALVADOR",
+    "MARTIN LOPEZ, IKER",
+    "LOIS VEGAS, SANCHO",
+    "URDA GARCIA, JUAN",
+    "MENDEZ COBO, SAUL",
+    "GUTIÉRREZ LÓPEZ, JOSÉ",
+    "GÓMEZ BÁRCENA, AARON",
+    "CAYÓN GUTIERREZ, CARLOS"
+  ],
+  "jugadores_visitante": [
+    "FUENTES LEMA, LAUREANO",
+    "SANCHEZ GALONCE, HECTOR",
+    "DELGADO MELLADO, JUAN",
+    "GARCIA GARCIA, ADRIAN",
+    "GONZALEZ GOMEZ, JAVIER",
+    "GONZALEZ USIN, GABRIEL",
+    "MATEO OLALLA, MARKEL",
+    "TAPIA IBAÑEZ, NACHO",
+    "CURADO GUTIERREZ, ALVARO",
+    "RODRIGUEZ GUTIERREZ, DANIEL",
+    "CALABRESE CRESPO, GIANLUCA",
+    "PERA DE LA LOMA, IKER",
+    "VILLAR GARCIA, LARO",
+    "GARCIA GARCIA, JORGE",
+    "HOZ MARTINEZ, MARCOS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "MENDEZ COBO, SAUL",
+      "sale": "URDA GARCIA, JUAN"
+    },
+    {
+      "min": 52,
+      "entra": "GUTIÉRREZ LÓPEZ, JOSÉ",
+      "sale": "ÁLVAREZ SÁIZ, GAEL"
+    },
+    {
+      "min": 56,
+      "entra": "GÓMEZ BÁRCENA, AARON",
+      "sale": "PRIETO BARCENA, ABEL"
+    },
+    {
+      "min": 60,
+      "entra": "CAYÓN GUTIERREZ, CARLOS",
+      "sale": "LOIS VEGAS, SANCHO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "PERA DE LA LOMA, IKER",
+      "sale": "CALABRESE CRESPO, GIANLUCA"
+    },
+    {
+      "min": 41,
+      "entra": "VILLAR GARCIA, LARO",
+      "sale": "TAPIA IBAÑEZ, NACHO"
+    },
+    {
+      "min": 42,
+      "entra": "GARCIA GARCIA, JORGE",
+      "sale": "RODRIGUEZ GUTIERREZ, DANIEL"
+    },
+    {
+      "min": 52,
+      "entra": "HOZ MARTINEZ, MARCOS",
+      "sale": "SANCHEZ GALONCE, HECTOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "MERINO RIANCHO, DANIEL": 90,
+    "PRIETO BARCENA, ABEL": 56,
+    "ÁLVAREZ SÁIZ, GAEL": 52,
+    "ALISEDA RODRIGUES, HUGO": 90,
+    "CAPELLAN ROBLEDO, DANIEL": 90,
+    "IBÁÑEZ ESCUDERO, HUGO": 90,
+    "PÉREZ VELA, MARCOS": 90,
+    "SIERRA VÁZQUEZ, SALVADOR": 90,
+    "MARTIN LOPEZ, IKER": 90,
+    "LOIS VEGAS, SANCHO": 60,
+    "URDA GARCIA, JUAN": 48,
+    "MENDEZ COBO, SAUL": 42,
+    "GUTIÉRREZ LÓPEZ, JOSÉ": 38,
+    "GÓMEZ BÁRCENA, AARON": 34,
+    "CAYÓN GUTIERREZ, CARLOS": 30,
+    "FUENTES LEMA, LAUREANO": 90,
+    "SANCHEZ GALONCE, HECTOR": 52,
+    "DELGADO MELLADO, JUAN": 90,
+    "GARCIA GARCIA, ADRIAN": 90,
+    "GONZALEZ GOMEZ, JAVIER": 90,
+    "GONZALEZ USIN, GABRIEL": 90,
+    "MATEO OLALLA, MARKEL": 90,
+    "TAPIA IBAÑEZ, NACHO": 41,
+    "CURADO GUTIERREZ, ALVARO": 90,
+    "RODRIGUEZ GUTIERREZ, DANIEL": 42,
+    "CALABRESE CRESPO, GIANLUCA": 41,
+    "PERA DE LA LOMA, IKER": 49,
+    "VILLAR GARCIA, LARO": 49,
+    "GARCIA GARCIA, JORGE": 48,
+    "HOZ MARTINEZ, MARCOS": 38
+  },
+  "portero_local": "MERINO RIANCHO, DANIEL",
+  "portero_visitante": "FUENTES LEMA, LAUREANO",
+  "dorsales_local": {
+    "MERINO RIANCHO, DANIEL": 1,
+    "PRIETO BARCENA, ABEL": 2,
+    "ÁLVAREZ SÁIZ, GAEL": 3,
+    "ALISEDA RODRIGUES, HUGO": 4,
+    "CAPELLAN ROBLEDO, DANIEL": 5,
+    "IBÁÑEZ ESCUDERO, HUGO": 6,
+    "PÉREZ VELA, MARCOS": 7,
+    "SIERRA VÁZQUEZ, SALVADOR": 8,
+    "MARTIN LOPEZ, IKER": 9,
+    "LOIS VEGAS, SANCHO": 10,
+    "URDA GARCIA, JUAN": 11
+  },
+  "dorsales_visitante": {
+    "FUENTES LEMA, LAUREANO": 13,
+    "SANCHEZ GALONCE, HECTOR": 2,
+    "DELGADO MELLADO, JUAN": 3,
+    "GARCIA GARCIA, ADRIAN": 4,
+    "GONZALEZ GOMEZ, JAVIER": 7,
+    "GONZALEZ USIN, GABRIEL": 8,
+    "MATEO OLALLA, MARKEL": 9,
+    "TAPIA IBAÑEZ, NACHO": 11,
+    "CURADO GUTIERREZ, ALVARO": 14,
+    "RODRIGUEZ GUTIERREZ, DANIEL": 16,
+    "CALABRESE CRESPO, GIANLUCA": 17
+  },
+  "suspendidos": []
+}
