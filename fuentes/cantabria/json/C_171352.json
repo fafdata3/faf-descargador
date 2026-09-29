@@ -1,0 +1,263 @@
+{
+  "acta_id": "C_171352",
+  "filename": "Acta_C_171352.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 22,
+  "fecha": "02-03-2024",
+  "hora": "12:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D.E. ATCO. MINEROS B",
+  "equipo_visitante": "C.D. AMISTAD SNIACE B",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "FERNÁNDEZ QUINTANA, RAÚL"
+  ],
+  "estadio": "Puente San Miguel",
+  "ciudad": "Reocín",
+  "goleadores": [
+    {
+      "minuto": 55,
+      "jugador": "VIÑUELA SOMOHANO, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 52,
+      "jugador": "MATA SANGUIAO, CARLOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 31,
+      "jugador": "SOMOHANO TAMAYO, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "VIÑUELA SOMOHANO, MATEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "PERNIA RODRIGUEZ, JOEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "PALAZUELOS TRUEBA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GONZALEZ ARENAL, PEDRO",
+  "delegado_campo_local": "RODRIGUEZ SANGIAO, ALFONSO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TORRE SAMPEDRO, FERNANDO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "RICCIARDIELLO CABRILLANA, HECTOR",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "DIAZ NAVEA, MARIO",
+    "MATA SANGUIAO, CARLOS"
+  ],
+  "titulares_visitante": [
+    "LASO MARTINEZ, ADRIAN",
+    "VIÑUELA SOMOHANO, MATEO",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "SAEZ PEREZ, LUCAS",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "suplentes_local": [
+    "CASTAÑO MORALES, EDWIN",
+    "VILLEGAS SAIZ, JAVIER",
+    "solar rabadan, DANIEL",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "GARCÍA RÁBAGO, SAMUEL"
+  ],
+  "suplentes_visitante": [
+    "DAHHAOUI RACHID, YAKOUB",
+    "GOMEZ CONDE, DIMAS",
+    "RENEDO COSIO, DIEGO",
+    "ECHAVES CASO, EDER",
+    "CABEZA LUQUE, EKAITZ"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "RICCIARDIELLO CABRILLANA, HECTOR",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "DIAZ NAVEA, MARIO",
+    "MATA SANGUIAO, CARLOS",
+    "CASTAÑO MORALES, EDWIN",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "solar rabadan, DANIEL",
+    "GARCÍA RÁBAGO, SAMUEL",
+    "VILLEGAS SAIZ, JAVIER"
+  ],
+  "jugadores_visitante": [
+    "LASO MARTINEZ, ADRIAN",
+    "VIÑUELA SOMOHANO, MATEO",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "SAEZ PEREZ, LUCAS",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN",
+    "RENEDO COSIO, DIEGO",
+    "GOMEZ CONDE, DIMAS",
+    "DAHHAOUI RACHID, YAKOUB",
+    "ECHAVES CASO, EDER",
+    "CABEZA LUQUE, EKAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "CASTAÑO MORALES, EDWIN",
+      "sale": "RUIZ FERNÁNDEZ, KEVIN"
+    },
+    {
+      "min": 60,
+      "entra": "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+      "sale": "MATA SANGUIAO, CARLOS"
+    },
+    {
+      "min": 60,
+      "entra": "solar rabadan, DANIEL",
+      "sale": "SAINZ CALDERON, JOSE MIGUEL"
+    },
+    {
+      "min": 66,
+      "entra": "GARCÍA RÁBAGO, SAMUEL",
+      "sale": "RICCIARDIELLO CABRILLANA, HECTOR"
+    },
+    {
+      "min": 66,
+      "entra": "VILLEGAS SAIZ, JAVIER",
+      "sale": "BURTAN, DEMIS CONSTANTIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 66,
+      "entra": "RENEDO COSIO, DIEGO",
+      "sale": "ALONSO Melo, Ruben"
+    },
+    {
+      "min": 66,
+      "entra": "GOMEZ CONDE, DIMAS",
+      "sale": "MOURA REVUELTA, ROMEO"
+    },
+    {
+      "min": 73,
+      "entra": "DAHHAOUI RACHID, YAKOUB",
+      "sale": "CUADRADO PEREZ RUBIN, MATEO"
+    },
+    {
+      "min": 73,
+      "entra": "ECHAVES CASO, EDER",
+      "sale": "SAEZ PEREZ, LUCAS"
+    },
+    {
+      "min": 77,
+      "entra": "CABEZA LUQUE, EKAITZ",
+      "sale": "PERNIA RODRIGUEZ, JOEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ FERNÁNDEZ, KEVIN": 40,
+    "ORTEGA DEL RIO, AITOR": 90,
+    "MAZON SHAROV, HUGO": 90,
+    "SAINZ CALDERON, JOSE MIGUEL": 60,
+    "SOLARES PICAZO, LUCAS": 90,
+    "GOMEZ PEÑA, LUCAS": 90,
+    "BURTAN, DEMIS CONSTANTIN": 66,
+    "RICCIARDIELLO CABRILLANA, HECTOR": 66,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 90,
+    "DIAZ NAVEA, MARIO": 90,
+    "MATA SANGUIAO, CARLOS": 60,
+    "CASTAÑO MORALES, EDWIN": 50,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 30,
+    "solar rabadan, DANIEL": 30,
+    "GARCÍA RÁBAGO, SAMUEL": 24,
+    "VILLEGAS SAIZ, JAVIER": 24,
+    "LASO MARTINEZ, ADRIAN": 90,
+    "VIÑUELA SOMOHANO, MATEO": 90,
+    "ALONSO Melo, Ruben": 66,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 90,
+    "SAEZ PEREZ, LUCAS": 73,
+    "CUADRADO PEREZ RUBIN, MATEO": 73,
+    "GOMEZ BOLADO, MIGUEL": 90,
+    "PERNIA RODRIGUEZ, JOEL": 77,
+    "MOURA REVUELTA, ROMEO": 66,
+    "COBO MARTINEZ, KELLYAN": 90,
+    "RENEDO COSIO, DIEGO": 24,
+    "GOMEZ CONDE, DIMAS": 24,
+    "DAHHAOUI RACHID, YAKOUB": 17,
+    "ECHAVES CASO, EDER": 17,
+    "CABEZA LUQUE, EKAITZ": 13
+  },
+  "portero_local": "RUIZ FERNÁNDEZ, KEVIN",
+  "portero_visitante": "LASO MARTINEZ, ADRIAN",
+  "dorsales_local": {
+    "RUIZ FERNÁNDEZ, KEVIN": 13,
+    "ORTEGA DEL RIO, AITOR": 4,
+    "MAZON SHAROV, HUGO": 6,
+    "SAINZ CALDERON, JOSE MIGUEL": 10,
+    "SOLARES PICAZO, LUCAS": 11,
+    "GOMEZ PEÑA, LUCAS": 12,
+    "BURTAN, DEMIS CONSTANTIN": 14,
+    "RICCIARDIELLO CABRILLANA, HECTOR": 15,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 17,
+    "DIAZ NAVEA, MARIO": 19,
+    "MATA SANGUIAO, CARLOS": 20
+  },
+  "dorsales_visitante": {
+    "LASO MARTINEZ, ADRIAN": 13,
+    "VIÑUELA SOMOHANO, MATEO": 2,
+    "ALONSO Melo, Ruben": 3,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "SAEZ PEREZ, LUCAS": 8,
+    "CUADRADO PEREZ RUBIN, MATEO": 9,
+    "GOMEZ BOLADO, MIGUEL": 12,
+    "PERNIA RODRIGUEZ, JOEL": 17,
+    "MOURA REVUELTA, ROMEO": 20,
+    "COBO MARTINEZ, KELLYAN": 22
+  },
+  "suspendidos": []
+}
