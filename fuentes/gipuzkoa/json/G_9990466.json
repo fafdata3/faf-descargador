@@ -1,0 +1,274 @@
+{
+  "acta_id": "G_9990466",
+  "filename": "Acta_G_9990466.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 30,
+  "fecha": "24-05-2026",
+  "hora": "17:00",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "URNIETA K.E.",
+  "equipo_visitante": "KOSTKAS C.D. C",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANCHEZ MENDIBURU, JOKIN"
+  ],
+  "estadio": "HARANE",
+  "ciudad": "Usurbil",
+  "goleadores": [
+    {
+      "minuto": 38,
+      "jugador": "EGAÑA EGAÑA, ANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "EZAMA DIAZ, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "UGARTE BERISTAIN, UNAX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 52,
+      "jugador": "EZAMA DIAZ, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 25,
+      "jugador": "JAUREGUI LOPEZ, IGOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "CASLA AYALA, PAUL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "ARRIETA BARANDIARAN, EKI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "ORIA ROIZ, TELMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": "AZPILLAGA ORMAZABAL, AXIER",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GOYARAN DORRONSORO, BEÑAT",
+  "delegado_equipo_visitante": "MAIZ BIENZOBAS, MANUEL",
+  "titulares_local": [
+    "GONZALEZ GARCIA, JACKSON AMAURI",
+    "COLLADO LOPEZ VAILO, ALAI",
+    "AGIRRE LIZASO, XABIER",
+    "EGAÑA EGAÑA, ANDER",
+    "GALLO SALGUERO, AXEL",
+    "EZAMA DIAZ, MARKEL",
+    "UGARTE BERISTAIN, UNAX",
+    "IRAOLA ALBIZU, IOAR",
+    "SALINAS MARTIN, JULEN",
+    "SANTIN LINARES, OIHAN",
+    "CESTER NAHARRO, JULEN"
+  ],
+  "titulares_visitante": [
+    "ARZALLUS GONZALEZ, ANER",
+    "MARTIN MARTIN, ALEX",
+    "SCARPETTA MITJANA, DONOVAN",
+    "MUÑOZ ERQUICIA, ELUR",
+    "HERRAN FERNANDEZ, BRUNO",
+    "ORIA ROIZ, TELMO",
+    "GARCIA BADIOLA, UNAX",
+    "JAUREGUI LOPEZ, IGOR",
+    "URSUA PEÑA, TELMO",
+    "ARRIETA BARANDIARAN, EKI",
+    "CASTRO RANDEZ, GORKA"
+  ],
+  "suplentes_local": [
+    "GARCIA SOBRADO, IURGI",
+    "LOPEZ GARCIA, GORKA",
+    "TRANCHE GOÑI, ANDONI",
+    "LOPEZ BARRERA, HODEI",
+    "GOÑI LERIA, IBAI",
+    "ARANA MANDAYO, ASIER",
+    "MARTIN MAESE, ABRAHAM"
+  ],
+  "suplentes_visitante": [
+    "SACRISTAN ALBENIZ, PAUL",
+    "OLAIZOLA MARIEZCURRENA, ALAIN",
+    "CASLA AYALA, PAUL"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA SOBRADO, IURGI",
+    "GOÑI LERIA, IBAI"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GONZALEZ GARCIA, JACKSON AMAURI",
+    "COLLADO LOPEZ VAILO, ALAI",
+    "AGIRRE LIZASO, XABIER",
+    "EGAÑA EGAÑA, ANDER",
+    "GALLO SALGUERO, AXEL",
+    "EZAMA DIAZ, MARKEL",
+    "UGARTE BERISTAIN, UNAX",
+    "IRAOLA ALBIZU, IOAR",
+    "SALINAS MARTIN, JULEN",
+    "SANTIN LINARES, OIHAN",
+    "CESTER NAHARRO, JULEN",
+    "MARTIN MAESE, ABRAHAM",
+    "ARANA MANDAYO, ASIER",
+    "TRANCHE GOÑI, ANDONI",
+    "LOPEZ GARCIA, GORKA",
+    "LOPEZ BARRERA, HODEI"
+  ],
+  "jugadores_visitante": [
+    "ARZALLUS GONZALEZ, ANER",
+    "MARTIN MARTIN, ALEX",
+    "SCARPETTA MITJANA, DONOVAN",
+    "MUÑOZ ERQUICIA, ELUR",
+    "HERRAN FERNANDEZ, BRUNO",
+    "ORIA ROIZ, TELMO",
+    "GARCIA BADIOLA, UNAX",
+    "JAUREGUI LOPEZ, IGOR",
+    "URSUA PEÑA, TELMO",
+    "ARRIETA BARANDIARAN, EKI",
+    "CASTRO RANDEZ, GORKA",
+    "CASLA AYALA, PAUL",
+    "OLAIZOLA MARIEZCURRENA, ALAIN",
+    "SACRISTAN ALBENIZ, PAUL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "MARTIN MAESE, ABRAHAM",
+      "sale": "SANTIN LINARES, OIHAN"
+    },
+    {
+      "min": 57,
+      "entra": "ARANA MANDAYO, ASIER",
+      "sale": "GALLO SALGUERO, AXEL"
+    },
+    {
+      "min": 65,
+      "entra": "TRANCHE GOÑI, ANDONI",
+      "sale": "COLLADO LOPEZ VAILO, ALAI"
+    },
+    {
+      "min": 67,
+      "entra": "LOPEZ GARCIA, GORKA",
+      "sale": "AGIRRE LIZASO, XABIER"
+    },
+    {
+      "min": 67,
+      "entra": "LOPEZ BARRERA, HODEI",
+      "sale": "CESTER NAHARRO, JULEN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "CASLA AYALA, PAUL",
+      "sale": "GARCIA BADIOLA, UNAX"
+    },
+    {
+      "min": 64,
+      "entra": "OLAIZOLA MARIEZCURRENA, ALAIN",
+      "sale": "JAUREGUI LOPEZ, IGOR"
+    },
+    {
+      "min": 70,
+      "entra": "SACRISTAN ALBENIZ, PAUL",
+      "sale": "MARTIN MARTIN, ALEX"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONZALEZ GARCIA, JACKSON AMAURI": 90,
+    "COLLADO LOPEZ VAILO, ALAI": 65,
+    "AGIRRE LIZASO, XABIER": 67,
+    "EGAÑA EGAÑA, ANDER": 90,
+    "GALLO SALGUERO, AXEL": 57,
+    "EZAMA DIAZ, MARKEL": 90,
+    "UGARTE BERISTAIN, UNAX": 90,
+    "IRAOLA ALBIZU, IOAR": 90,
+    "SALINAS MARTIN, JULEN": 90,
+    "SANTIN LINARES, OIHAN": 53,
+    "CESTER NAHARRO, JULEN": 67,
+    "MARTIN MAESE, ABRAHAM": 37,
+    "ARANA MANDAYO, ASIER": 33,
+    "TRANCHE GOÑI, ANDONI": 25,
+    "LOPEZ GARCIA, GORKA": 23,
+    "LOPEZ BARRERA, HODEI": 23,
+    "ARZALLUS GONZALEZ, ANER": 90,
+    "MARTIN MARTIN, ALEX": 70,
+    "SCARPETTA MITJANA, DONOVAN": 90,
+    "MUÑOZ ERQUICIA, ELUR": 90,
+    "HERRAN FERNANDEZ, BRUNO": 90,
+    "ORIA ROIZ, TELMO": 90,
+    "GARCIA BADIOLA, UNAX": 55,
+    "JAUREGUI LOPEZ, IGOR": 64,
+    "URSUA PEÑA, TELMO": 90,
+    "ARRIETA BARANDIARAN, EKI": 90,
+    "CASTRO RANDEZ, GORKA": 90,
+    "CASLA AYALA, PAUL": 35,
+    "OLAIZOLA MARIEZCURRENA, ALAIN": 26,
+    "SACRISTAN ALBENIZ, PAUL": 20
+  },
+  "portero_local": "GONZALEZ GARCIA, JACKSON AMAURI",
+  "portero_visitante": "ARZALLUS GONZALEZ, ANER",
+  "dorsales_local": {
+    "GONZALEZ GARCIA, JACKSON AMAURI": 1,
+    "COLLADO LOPEZ VAILO, ALAI": 4,
+    "AGIRRE LIZASO, XABIER": 5,
+    "EGAÑA EGAÑA, ANDER": 6,
+    "GALLO SALGUERO, AXEL": 7,
+    "EZAMA DIAZ, MARKEL": 8,
+    "UGARTE BERISTAIN, UNAX": 10,
+    "IRAOLA ALBIZU, IOAR": 11,
+    "SALINAS MARTIN, JULEN": 14,
+    "SANTIN LINARES, OIHAN": 18,
+    "CESTER NAHARRO, JULEN": 22
+  },
+  "dorsales_visitante": {
+    "ARZALLUS GONZALEZ, ANER": 13,
+    "MARTIN MARTIN, ALEX": 3,
+    "SCARPETTA MITJANA, DONOVAN": 4,
+    "MUÑOZ ERQUICIA, ELUR": 5,
+    "HERRAN FERNANDEZ, BRUNO": 6,
+    "ORIA ROIZ, TELMO": 7,
+    "GARCIA BADIOLA, UNAX": 8,
+    "JAUREGUI LOPEZ, IGOR": 9,
+    "URSUA PEÑA, TELMO": 10,
+    "ARRIETA BARANDIARAN, EKI": 17,
+    "CASTRO RANDEZ, GORKA": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
