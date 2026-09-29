@@ -1,0 +1,259 @@
+{
+  "acta_id": "G_9990594",
+  "filename": "Acta_G_9990594.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "25-01-2026",
+  "hora": "11:00",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (2. MULTZOA - GRUPO 2)",
+  "equipo_local": "ELGOIBAR C.D. B",
+  "equipo_visitante": "ZESTOA K.B.",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "LOPEZ ALVAREZ, MIKEL"
+  ],
+  "estadio": "MINTXETA",
+  "ciudad": "Elgoibar",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "GALEANO TADEO, PAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 20,
+      "jugador": "FUENTES PUNINA, IKER ALEXANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "CARCEDO BOYER, ONAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 82,
+      "jugador": "AGIRRE ANSOLA, BEÑAT",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "LETAMENDIA OLAZABAL, URAITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "ARANGUREN MORCUENDE, ENAITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CARRASCOSA CARRERO, SANTIAGO",
+  "entrenador_visitante": "UNANUE ETXEBERRIA, HARITZ",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "UNANUE ZABALA, GAIZKA",
+  "titulares_local": [
+    "RODRIGUEZ VILLARROEL, ARIEL",
+    "TAPIA OLAIZOLA, OIER",
+    "RODRIGUEZ EUGUI, JULEN",
+    "GALEANO TADEO, PAUL",
+    "SAGASTA PEREZ, AXIER",
+    "GALARRAGA GURRUTXAGA, XABAT",
+    "FERNANDEZ PEREIRA, ALAIN",
+    "AGIRRE ANSOLA, BEÑAT",
+    "CARCEDO BOYER, ONAR",
+    "ETXABE ZABALA, MIKEL",
+    "MIR ROZAS, LANDER"
+  ],
+  "titulares_visitante": [
+    "REGILLAGA ALDALUR, KAIET",
+    "CARRASCO IRIBARREN, IRAITZ",
+    "ARTOLA ANCIN, MIKEL",
+    "ARANGUREN MORCUENDE, ENAITZ",
+    "POZO URQUIA, IKER",
+    "CHIGUER MEDDAH, ZAKARIA",
+    "FUENTES PUNINA, IKER ALEXANDER",
+    "GARATE ARRIETA, IKER",
+    "OLLAKINDIA OLAZABAL, EÑAUT",
+    "ZELAIA ARAKISTAIN, OIHAN",
+    "LETAMENDIA OLAZABAL, URAITZ"
+  ],
+  "suplentes_local": [
+    "GANDIAGA ETXEBERRIA, XENKI",
+    "MEJUTO GARCIA, UNAI",
+    "SENDIN MORENO, ASEL",
+    "SOTO BEREZIARTUA, EKAIN",
+    "MENDOZA ALTAMIRANO, CHISTIAN ARTURO",
+    "EL FATHI MOUSAIF, YASSER",
+    "MATAMOROS LOPEZ, MOISES LEONIDAS"
+  ],
+  "suplentes_visitante": [
+    "ECHANIZ CORVO, UNAX",
+    "CABALLERO BLANCO, JOANES",
+    "GURMENDI ZUBIA, ANDER",
+    "BENTALEB IMEYNANE, SOHAIB",
+    "MENDIZABAL EZENARRO, JAKES"
+  ],
+  "convocados_sin_jugar_local": [
+    "GANDIAGA ETXEBERRIA, XENKI",
+    "MENDOZA ALTAMIRANO, CHISTIAN ARTURO",
+    "EL FATHI MOUSAIF, YASSER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ECHANIZ CORVO, UNAX",
+    "CABALLERO BLANCO, JOANES"
+  ],
+  "jugadores_local": [
+    "RODRIGUEZ VILLARROEL, ARIEL",
+    "TAPIA OLAIZOLA, OIER",
+    "RODRIGUEZ EUGUI, JULEN",
+    "GALEANO TADEO, PAUL",
+    "SAGASTA PEREZ, AXIER",
+    "GALARRAGA GURRUTXAGA, XABAT",
+    "FERNANDEZ PEREIRA, ALAIN",
+    "AGIRRE ANSOLA, BEÑAT",
+    "CARCEDO BOYER, ONAR",
+    "ETXABE ZABALA, MIKEL",
+    "MIR ROZAS, LANDER",
+    "MATAMOROS LOPEZ, MOISES LEONIDAS",
+    "MEJUTO GARCIA, UNAI",
+    "SENDIN MORENO, ASEL",
+    "SOTO BEREZIARTUA, EKAIN"
+  ],
+  "jugadores_visitante": [
+    "REGILLAGA ALDALUR, KAIET",
+    "CARRASCO IRIBARREN, IRAITZ",
+    "ARTOLA ANCIN, MIKEL",
+    "ARANGUREN MORCUENDE, ENAITZ",
+    "POZO URQUIA, IKER",
+    "CHIGUER MEDDAH, ZAKARIA",
+    "FUENTES PUNINA, IKER ALEXANDER",
+    "GARATE ARRIETA, IKER",
+    "OLLAKINDIA OLAZABAL, EÑAUT",
+    "ZELAIA ARAKISTAIN, OIHAN",
+    "LETAMENDIA OLAZABAL, URAITZ",
+    "GURMENDI ZUBIA, ANDER",
+    "MENDIZABAL EZENARRO, JAKES",
+    "BENTALEB IMEYNANE, SOHAIB"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "MATAMOROS LOPEZ, MOISES LEONIDAS",
+      "sale": "CARCEDO BOYER, ONAR"
+    },
+    {
+      "min": 62,
+      "entra": "MEJUTO GARCIA, UNAI",
+      "sale": "ETXABE ZABALA, MIKEL"
+    },
+    {
+      "min": 71,
+      "entra": "SENDIN MORENO, ASEL",
+      "sale": "SAGASTA PEREZ, AXIER"
+    },
+    {
+      "min": 78,
+      "entra": "SOTO BEREZIARTUA, EKAIN",
+      "sale": "TAPIA OLAIZOLA, OIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "GURMENDI ZUBIA, ANDER",
+      "sale": "LETAMENDIA OLAZABAL, URAITZ"
+    },
+    {
+      "min": 59,
+      "entra": "MENDIZABAL EZENARRO, JAKES",
+      "sale": "FUENTES PUNINA, IKER ALEXANDER"
+    },
+    {
+      "min": 59,
+      "entra": "BENTALEB IMEYNANE, SOHAIB",
+      "sale": "OLLAKINDIA OLAZABAL, EÑAUT"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ VILLARROEL, ARIEL": 90,
+    "TAPIA OLAIZOLA, OIER": 78,
+    "RODRIGUEZ EUGUI, JULEN": 90,
+    "GALEANO TADEO, PAUL": 90,
+    "SAGASTA PEREZ, AXIER": 71,
+    "GALARRAGA GURRUTXAGA, XABAT": 90,
+    "FERNANDEZ PEREIRA, ALAIN": 90,
+    "AGIRRE ANSOLA, BEÑAT": 90,
+    "CARCEDO BOYER, ONAR": 49,
+    "ETXABE ZABALA, MIKEL": 62,
+    "MIR ROZAS, LANDER": 90,
+    "MATAMOROS LOPEZ, MOISES LEONIDAS": 41,
+    "MEJUTO GARCIA, UNAI": 28,
+    "SENDIN MORENO, ASEL": 19,
+    "SOTO BEREZIARTUA, EKAIN": 12,
+    "REGILLAGA ALDALUR, KAIET": 90,
+    "CARRASCO IRIBARREN, IRAITZ": 90,
+    "ARTOLA ANCIN, MIKEL": 90,
+    "ARANGUREN MORCUENDE, ENAITZ": 90,
+    "POZO URQUIA, IKER": 90,
+    "CHIGUER MEDDAH, ZAKARIA": 90,
+    "FUENTES PUNINA, IKER ALEXANDER": 59,
+    "GARATE ARRIETA, IKER": 90,
+    "OLLAKINDIA OLAZABAL, EÑAUT": 59,
+    "ZELAIA ARAKISTAIN, OIHAN": 90,
+    "LETAMENDIA OLAZABAL, URAITZ": 49,
+    "GURMENDI ZUBIA, ANDER": 41,
+    "MENDIZABAL EZENARRO, JAKES": 31,
+    "BENTALEB IMEYNANE, SOHAIB": 31
+  },
+  "portero_local": "RODRIGUEZ VILLARROEL, ARIEL",
+  "portero_visitante": "REGILLAGA ALDALUR, KAIET",
+  "dorsales_local": {
+    "RODRIGUEZ VILLARROEL, ARIEL": 1,
+    "TAPIA OLAIZOLA, OIER": 3,
+    "RODRIGUEZ EUGUI, JULEN": 4,
+    "GALEANO TADEO, PAUL": 6,
+    "SAGASTA PEREZ, AXIER": 7,
+    "GALARRAGA GURRUTXAGA, XABAT": 8,
+    "FERNANDEZ PEREIRA, ALAIN": 10,
+    "AGIRRE ANSOLA, BEÑAT": 15,
+    "CARCEDO BOYER, ONAR": 16,
+    "ETXABE ZABALA, MIKEL": 17,
+    "MIR ROZAS, LANDER": 20
+  },
+  "dorsales_visitante": {
+    "REGILLAGA ALDALUR, KAIET": 1,
+    "CARRASCO IRIBARREN, IRAITZ": 2,
+    "ARTOLA ANCIN, MIKEL": 4,
+    "ARANGUREN MORCUENDE, ENAITZ": 5,
+    "POZO URQUIA, IKER": 6,
+    "CHIGUER MEDDAH, ZAKARIA": 9,
+    "FUENTES PUNINA, IKER ALEXANDER": 11,
+    "GARATE ARRIETA, IKER": 14,
+    "OLLAKINDIA OLAZABAL, EÑAUT": 16,
+    "ZELAIA ARAKISTAIN, OIHAN": 17,
+    "LETAMENDIA OLAZABAL, URAITZ": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
