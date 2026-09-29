@@ -1,0 +1,276 @@
+{
+  "acta_id": "G_9990490",
+  "filename": "Acta_G_9990490.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "05-10-2025",
+  "hora": "11:00",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (2. MULTZOA - GRUPO 2)",
+  "equipo_local": "ZESTOA K.B.",
+  "equipo_visitante": "LAGUN ONAK C.D. B",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANCHEZ MENDIBURU, JOKIN"
+  ],
+  "estadio": "IRAETA",
+  "ciudad": "Zestoa",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "URANGA KORTA, MANEX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "SANCHEZ MUÑOZ, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "IBARZABAL SALEGI, LANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 70,
+      "jugador": "BELAMEIRI AMRAOUI, OSAMA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "CORTES CERRAJERO, ADUR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 74,
+      "jugador": "CARRASCO IRIBARREN, IRAITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "UNANUE ETXEBERRIA, HARITZ",
+  "entrenador_visitante": "URRESTILLA ERRAZQUIN, AITOR",
+  "segundo_entrenador_local": "DIAZ BRAVO, JON",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "UNANUE ZABALA, GAIZKA",
+  "delegado_equipo_visitante": "URRESTILLA SOROZABAL, IKER",
+  "titulares_local": [
+    "ECHANIZ CORVO, UNAX",
+    "CARRASCO IRIBARREN, IRAITZ",
+    "ARTOLA ANCIN, MIKEL",
+    "ARANGUREN MORCUENDE, ENAITZ",
+    "POZO URQUIA, IKER",
+    "GURMENDI ZUBIA, ANDER",
+    "CHIGUER MEDDAH, ZAKARIA",
+    "FUENTES PUNINA, IKER ALEXANDER",
+    "GARATE ARRIETA, IKER",
+    "OLLAKINDIA OLAZABAL, EÑAUT",
+    "SAADI JEFFALI, BAKR"
+  ],
+  "titulares_visitante": [
+    "ACEBAL HIDALGO, EGOITZ",
+    "GOENAGA AGIRRE, BEÑAT",
+    "ZORROZA UCIN, MARKEL",
+    "ARANAGA MARTIN, XUBAN",
+    "SAGARMENDI URBIETA, MIKEL",
+    "LARRAMENDI ARAMBARRI, MIKEL",
+    "AROCENA OTAMENDI, ADUR",
+    "IBARZABAL SALEGI, LANDER",
+    "URANGA KORTA, MANEX",
+    "CORTES CERRAJERO, ADUR",
+    "SANCHEZ MUÑOZ, JULEN"
+  ],
+  "suplentes_local": [
+    "REGILLAGA ALDALUR, KAIET",
+    "PAGAEGI RODRIGUEZ, AMETS",
+    "BENTALEB IMEYNANE, SOHAIB",
+    "EL OUADI BOABASLAM, MOHAMED",
+    "MENDIZABAL EZENARRO, JAKES",
+    "BELAMEIRI AMRAOUI, OSAMA"
+  ],
+  "suplentes_visitante": [
+    "RODRIGUEZ GURRUCHAGA, IKER",
+    "EGUIBAR SEGUROLA, JON",
+    "OSINALDE ETXEBERRIA, KEPA",
+    "OSORO ARAQUISTAIN, PAUL",
+    "ETXEBERRIA ARZAMENDI, JAKES",
+    "ERRAZU ITURRIA, IBAI"
+  ],
+  "convocados_sin_jugar_local": [
+    "REGILLAGA ALDALUR, KAIET"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "RODRIGUEZ GURRUCHAGA, IKER"
+  ],
+  "jugadores_local": [
+    "ECHANIZ CORVO, UNAX",
+    "CARRASCO IRIBARREN, IRAITZ",
+    "ARTOLA ANCIN, MIKEL",
+    "ARANGUREN MORCUENDE, ENAITZ",
+    "POZO URQUIA, IKER",
+    "GURMENDI ZUBIA, ANDER",
+    "CHIGUER MEDDAH, ZAKARIA",
+    "FUENTES PUNINA, IKER ALEXANDER",
+    "GARATE ARRIETA, IKER",
+    "OLLAKINDIA OLAZABAL, EÑAUT",
+    "SAADI JEFFALI, BAKR",
+    "BENTALEB IMEYNANE, SOHAIB",
+    "MENDIZABAL EZENARRO, JAKES",
+    "PAGAEGI RODRIGUEZ, AMETS",
+    "BELAMEIRI AMRAOUI, OSAMA",
+    "EL OUADI BOABASLAM, MOHAMED"
+  ],
+  "jugadores_visitante": [
+    "ACEBAL HIDALGO, EGOITZ",
+    "GOENAGA AGIRRE, BEÑAT",
+    "ZORROZA UCIN, MARKEL",
+    "ARANAGA MARTIN, XUBAN",
+    "SAGARMENDI URBIETA, MIKEL",
+    "LARRAMENDI ARAMBARRI, MIKEL",
+    "AROCENA OTAMENDI, ADUR",
+    "IBARZABAL SALEGI, LANDER",
+    "URANGA KORTA, MANEX",
+    "CORTES CERRAJERO, ADUR",
+    "SANCHEZ MUÑOZ, JULEN",
+    "OSORO ARAQUISTAIN, PAUL",
+    "EGUIBAR SEGUROLA, JON",
+    "OSINALDE ETXEBERRIA, KEPA",
+    "ETXEBERRIA ARZAMENDI, JAKES",
+    "ERRAZU ITURRIA, IBAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "BENTALEB IMEYNANE, SOHAIB",
+      "sale": "CHIGUER MEDDAH, ZAKARIA"
+    },
+    {
+      "min": 50,
+      "entra": "MENDIZABAL EZENARRO, JAKES",
+      "sale": "GARATE ARRIETA, IKER"
+    },
+    {
+      "min": 50,
+      "entra": "PAGAEGI RODRIGUEZ, AMETS",
+      "sale": "GURMENDI ZUBIA, ANDER"
+    },
+    {
+      "min": 63,
+      "entra": "BELAMEIRI AMRAOUI, OSAMA",
+      "sale": "FUENTES PUNINA, IKER ALEXANDER"
+    },
+    {
+      "min": 63,
+      "entra": "EL OUADI BOABASLAM, MOHAMED",
+      "sale": "OLLAKINDIA OLAZABAL, EÑAUT"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "OSORO ARAQUISTAIN, PAUL",
+      "sale": "LARRAMENDI ARAMBARRI, MIKEL"
+    },
+    {
+      "min": 40,
+      "entra": "EGUIBAR SEGUROLA, JON",
+      "sale": "ARANAGA MARTIN, XUBAN"
+    },
+    {
+      "min": 51,
+      "entra": "OSINALDE ETXEBERRIA, KEPA",
+      "sale": "SANCHEZ MUÑOZ, JULEN"
+    },
+    {
+      "min": 62,
+      "entra": "ETXEBERRIA ARZAMENDI, JAKES",
+      "sale": "GOENAGA AGIRRE, BEÑAT"
+    },
+    {
+      "min": 67,
+      "entra": "ERRAZU ITURRIA, IBAI",
+      "sale": "IBARZABAL SALEGI, LANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "ECHANIZ CORVO, UNAX": 90,
+    "CARRASCO IRIBARREN, IRAITZ": 90,
+    "ARTOLA ANCIN, MIKEL": 90,
+    "ARANGUREN MORCUENDE, ENAITZ": 90,
+    "POZO URQUIA, IKER": 90,
+    "GURMENDI ZUBIA, ANDER": 50,
+    "CHIGUER MEDDAH, ZAKARIA": 50,
+    "FUENTES PUNINA, IKER ALEXANDER": 63,
+    "GARATE ARRIETA, IKER": 50,
+    "OLLAKINDIA OLAZABAL, EÑAUT": 63,
+    "SAADI JEFFALI, BAKR": 90,
+    "BENTALEB IMEYNANE, SOHAIB": 40,
+    "MENDIZABAL EZENARRO, JAKES": 40,
+    "PAGAEGI RODRIGUEZ, AMETS": 40,
+    "BELAMEIRI AMRAOUI, OSAMA": 27,
+    "EL OUADI BOABASLAM, MOHAMED": 27,
+    "ACEBAL HIDALGO, EGOITZ": 90,
+    "GOENAGA AGIRRE, BEÑAT": 62,
+    "ZORROZA UCIN, MARKEL": 90,
+    "ARANAGA MARTIN, XUBAN": 40,
+    "SAGARMENDI URBIETA, MIKEL": 90,
+    "LARRAMENDI ARAMBARRI, MIKEL": 40,
+    "AROCENA OTAMENDI, ADUR": 90,
+    "IBARZABAL SALEGI, LANDER": 67,
+    "URANGA KORTA, MANEX": 90,
+    "CORTES CERRAJERO, ADUR": 90,
+    "SANCHEZ MUÑOZ, JULEN": 51,
+    "OSORO ARAQUISTAIN, PAUL": 50,
+    "EGUIBAR SEGUROLA, JON": 50,
+    "OSINALDE ETXEBERRIA, KEPA": 39,
+    "ETXEBERRIA ARZAMENDI, JAKES": 28,
+    "ERRAZU ITURRIA, IBAI": 23
+  },
+  "portero_local": "ECHANIZ CORVO, UNAX",
+  "portero_visitante": "ACEBAL HIDALGO, EGOITZ",
+  "dorsales_local": {
+    "ECHANIZ CORVO, UNAX": 13,
+    "CARRASCO IRIBARREN, IRAITZ": 2,
+    "ARTOLA ANCIN, MIKEL": 4,
+    "ARANGUREN MORCUENDE, ENAITZ": 5,
+    "POZO URQUIA, IKER": 6,
+    "GURMENDI ZUBIA, ANDER": 7,
+    "CHIGUER MEDDAH, ZAKARIA": 9,
+    "FUENTES PUNINA, IKER ALEXANDER": 11,
+    "GARATE ARRIETA, IKER": 14,
+    "OLLAKINDIA OLAZABAL, EÑAUT": 16,
+    "SAADI JEFFALI, BAKR": 22
+  },
+  "dorsales_visitante": {
+    "ACEBAL HIDALGO, EGOITZ": 13,
+    "GOENAGA AGIRRE, BEÑAT": 2,
+    "ZORROZA UCIN, MARKEL": 3,
+    "ARANAGA MARTIN, XUBAN": 5,
+    "SAGARMENDI URBIETA, MIKEL": 6,
+    "LARRAMENDI ARAMBARRI, MIKEL": 7,
+    "AROCENA OTAMENDI, ADUR": 8,
+    "IBARZABAL SALEGI, LANDER": 11,
+    "URANGA KORTA, MANEX": 18,
+    "CORTES CERRAJERO, ADUR": 20,
+    "SANCHEZ MUÑOZ, JULEN": 21
+  },
+  "suspendidos": []
+}
