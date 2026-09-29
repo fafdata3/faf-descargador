@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_192847",
+  "filename": "Acta_C_192847.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 14,
+  "fecha": "06-12-2024",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "S.D. TEXTIL ESCUDO A",
+  "equipo_visitante": "DEPORTIVO PERINES",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCÍA RUIZ, JAVIER"
+  ],
+  "estadio": "Cabezón de la Sal",
+  "ciudad": "Cabezón De La Sal",
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "MANTILLA ANDRES, MATEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "JIMENEZ NIÑO, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "JIMENEZ NIÑO, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "DESIRE BONILLA, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "DESIRE BONILLA, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 50,
+      "jugador": "SAIZ BORBOLLA, PEDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "ACEBAL PALII, LEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "COTERILLO COBO, MATEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GUIJARRO GOMEZ, ALEJANDRO",
+  "entrenador_visitante": "ALEGRIA NUÑEZ, DANIEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ALCANTARA ARCE, ANDRES",
+  "titulares_local": [
+    "CELIS CELIS, RUBEN",
+    "Perez Rubin, Ismael",
+    "CORPA PEREDA, MARIO",
+    "SAIZ BORBOLLA, PEDRO",
+    "CADAVIECO IBAÑEZ, ENRIQUE",
+    "LOPEZ ORTEGA, MANUEL",
+    "BARREDA ARCE, NICOLAS",
+    "GOMEZ BEJARANO, ADRIAN",
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+    "ACEBAL PALII, LEO",
+    "MANTILLA ANDRES, MATEO"
+  ],
+  "titulares_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "LOPEZ GONZALEZ, IZAN",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "DESIRE BONILLA, DANIEL",
+    "PONTONES FERREIRA, MARIO",
+    "JIMENEZ NIÑO, DAVID",
+    "AZNAR NUÑO, ALEX",
+    "COTERILLO COBO, MATEO",
+    "MARTE MUGICA, EDUARD",
+    "DIAZ ALPISTE, SAMUEL",
+    "VEGA CASAS, CARLOS"
+  ],
+  "suplentes_local": [
+    "COBO MACHO, MATIAS",
+    "CASO SIERRA, JOEL",
+    "Herrera Uberti, IKER",
+    "CRUZ GONZALEZ, ALVARO",
+    "GONZALEZ GARCIA, ALEX"
+  ],
+  "suplentes_visitante": [
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "ALONSO PEREZ, DARIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CELIS CELIS, RUBEN",
+    "Perez Rubin, Ismael",
+    "CORPA PEREDA, MARIO",
+    "SAIZ BORBOLLA, PEDRO",
+    "CADAVIECO IBAÑEZ, ENRIQUE",
+    "LOPEZ ORTEGA, MANUEL",
+    "BARREDA ARCE, NICOLAS",
+    "GOMEZ BEJARANO, ADRIAN",
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+    "ACEBAL PALII, LEO",
+    "MANTILLA ANDRES, MATEO",
+    "COBO MACHO, MATIAS",
+    "Herrera Uberti, IKER",
+    "CASO SIERRA, JOEL",
+    "GONZALEZ GARCIA, ALEX",
+    "CRUZ GONZALEZ, ALVARO"
+  ],
+  "jugadores_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "LOPEZ GONZALEZ, IZAN",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "DESIRE BONILLA, DANIEL",
+    "PONTONES FERREIRA, MARIO",
+    "JIMENEZ NIÑO, DAVID",
+    "AZNAR NUÑO, ALEX",
+    "COTERILLO COBO, MATEO",
+    "MARTE MUGICA, EDUARD",
+    "DIAZ ALPISTE, SAMUEL",
+    "VEGA CASAS, CARLOS",
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "ALONSO PEREZ, DARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "COBO MACHO, MATIAS",
+      "sale": "CELIS CELIS, RUBEN"
+    },
+    {
+      "min": 52,
+      "entra": "Herrera Uberti, IKER",
+      "sale": "Perez Rubin, Ismael"
+    },
+    {
+      "min": 62,
+      "entra": "CASO SIERRA, JOEL",
+      "sale": "SAIZ BORBOLLA, PEDRO"
+    },
+    {
+      "min": 75,
+      "entra": "GONZALEZ GARCIA, ALEX",
+      "sale": "GOMEZ BEJARANO, ADRIAN"
+    },
+    {
+      "min": 75,
+      "entra": "CRUZ GONZALEZ, ALVARO",
+      "sale": "ACEBAL PALII, LEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "RODRIGUEZ RODRIGUEZ, CARLOS",
+      "sale": "CUENDE RAMOS, YAGO"
+    },
+    {
+      "min": 65,
+      "entra": "ALONSO PEREZ, DARIO",
+      "sale": "DIAZ ALPISTE, SAMUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "CELIS CELIS, RUBEN": 40,
+    "Perez Rubin, Ismael": 52,
+    "CORPA PEREDA, MARIO": 90,
+    "SAIZ BORBOLLA, PEDRO": 62,
+    "CADAVIECO IBAÑEZ, ENRIQUE": 90,
+    "LOPEZ ORTEGA, MANUEL": 90,
+    "BARREDA ARCE, NICOLAS": 90,
+    "GOMEZ BEJARANO, ADRIAN": 75,
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL": 90,
+    "ACEBAL PALII, LEO": 75,
+    "MANTILLA ANDRES, MATEO": 90,
+    "COBO MACHO, MATIAS": 50,
+    "Herrera Uberti, IKER": 38,
+    "CASO SIERRA, JOEL": 28,
+    "GONZALEZ GARCIA, ALEX": 15,
+    "CRUZ GONZALEZ, ALVARO": 15,
+    "CUENDE RAMOS, YAGO": 40,
+    "LOPEZ GONZALEZ, IZAN": 90,
+    "SAN MIGUEL VÉLEZ, HUGO": 90,
+    "DESIRE BONILLA, DANIEL": 90,
+    "PONTONES FERREIRA, MARIO": 90,
+    "JIMENEZ NIÑO, DAVID": 90,
+    "AZNAR NUÑO, ALEX": 90,
+    "COTERILLO COBO, MATEO": 90,
+    "MARTE MUGICA, EDUARD": 90,
+    "DIAZ ALPISTE, SAMUEL": 65,
+    "VEGA CASAS, CARLOS": 90,
+    "RODRIGUEZ RODRIGUEZ, CARLOS": 50,
+    "ALONSO PEREZ, DARIO": 25
+  },
+  "portero_local": "CELIS CELIS, RUBEN",
+  "portero_visitante": "CUENDE RAMOS, YAGO",
+  "dorsales_local": {
+    "CELIS CELIS, RUBEN": 13,
+    "Perez Rubin, Ismael": 3,
+    "CORPA PEREDA, MARIO": 4,
+    "SAIZ BORBOLLA, PEDRO": 5,
+    "CADAVIECO IBAÑEZ, ENRIQUE": 6,
+    "LOPEZ ORTEGA, MANUEL": 7,
+    "BARREDA ARCE, NICOLAS": 9,
+    "GOMEZ BEJARANO, ADRIAN": 10,
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL": 16,
+    "ACEBAL PALII, LEO": 17,
+    "MANTILLA ANDRES, MATEO": 18
+  },
+  "dorsales_visitante": {
+    "CUENDE RAMOS, YAGO": 13,
+    "LOPEZ GONZALEZ, IZAN": 3,
+    "SAN MIGUEL VÉLEZ, HUGO": 5,
+    "DESIRE BONILLA, DANIEL": 7,
+    "PONTONES FERREIRA, MARIO": 8,
+    "JIMENEZ NIÑO, DAVID": 9,
+    "AZNAR NUÑO, ALEX": 12,
+    "COTERILLO COBO, MATEO": 15,
+    "MARTE MUGICA, EDUARD": 16,
+    "DIAZ ALPISTE, SAMUEL": 19,
+    "VEGA CASAS, CARLOS": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
