@@ -1,0 +1,270 @@
+{
+  "acta_id": "C_192843",
+  "filename": "Acta_C_192843.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 14,
+  "fecha": "06-12-2024",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT A",
+  "equipo_visitante": "C.D. CAYON A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CADELO CIMIANO, MARIO"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "GARCIA GARCIA, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "GARCIA AGUADO, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "Flor Martinez, IAGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 64,
+      "jugador": "RUBIN MUÑOZ, MICHEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 37,
+      "jugador": "SAINZ DE LA HOZ, CESAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "LEMES REYES, ARNOLD MATIAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CAVIA ROIG, GERARDO",
+  "entrenador_visitante": "SAINZ DEL RIO, GUILLERMO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "VEGA GUTIERREZ, JUAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VEGA GUTIERREZ, JUAN",
+  "delegado_equipo_visitante": "RUIZ SIMON, DAVID",
+  "titulares_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "COLLANTES GOMEZ, HUGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "agudo cuenca, DIEGO",
+    "GARCIA GOMEZ, DANIEL",
+    "GARCIA AGUADO, DANIEL",
+    "Flor Martinez, IAGO",
+    "ASON BALAGUER, MARIO",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "GARCIA GARCIA, MARCOS",
+    "FUENTES PALLEJA, ERIK"
+  ],
+  "titulares_visitante": [
+    "SANCHEZ MUÑOZ, ALEJANDRO",
+    "POPOVICI, MADALIN",
+    "REVUELTA SAINZ, DIEGO",
+    "García Fernández, AARON",
+    "LAZA ORTIZ, PABLO",
+    "SAINZ DE LA HOZ, CESAR",
+    "GARCIA ALONSO, SAMUEL",
+    "GUTIERREZ FERNANDEZ, IKER",
+    "HERRERO PÉREZ, DIEGO",
+    "GILENE GOMEZ, ISRAEL",
+    "SAINZ FERNANDEZ, DANIEL"
+  ],
+  "suplentes_local": [
+    "DE ANGEL BATYREV, LUCAS",
+    "GONZALEZ CAMUS, MARCO",
+    "REY LASTRA, JOSE LUIS",
+    "RUIZ SAIZ, MARIO",
+    "RUBIN MUÑOZ, MICHEL"
+  ],
+  "suplentes_visitante": [
+    "BECERRIL ALONSO, SERGIO",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "FERNANDEZ CASTIBLANCO, NICOLAS",
+    "LEMES REYES, ARNOLD MATIAS",
+    "ALONSO Melo, Ruben"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "COLLANTES GOMEZ, HUGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "agudo cuenca, DIEGO",
+    "GARCIA GOMEZ, DANIEL",
+    "GARCIA AGUADO, DANIEL",
+    "Flor Martinez, IAGO",
+    "ASON BALAGUER, MARIO",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "GARCIA GARCIA, MARCOS",
+    "FUENTES PALLEJA, ERIK",
+    "GONZALEZ CAMUS, MARCO",
+    "RUBIN MUÑOZ, MICHEL",
+    "REY LASTRA, JOSE LUIS",
+    "DE ANGEL BATYREV, LUCAS",
+    "RUIZ SAIZ, MARIO"
+  ],
+  "jugadores_visitante": [
+    "SANCHEZ MUÑOZ, ALEJANDRO",
+    "POPOVICI, MADALIN",
+    "REVUELTA SAINZ, DIEGO",
+    "García Fernández, AARON",
+    "LAZA ORTIZ, PABLO",
+    "SAINZ DE LA HOZ, CESAR",
+    "GARCIA ALONSO, SAMUEL",
+    "GUTIERREZ FERNANDEZ, IKER",
+    "HERRERO PÉREZ, DIEGO",
+    "GILENE GOMEZ, ISRAEL",
+    "SAINZ FERNANDEZ, DANIEL",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "ALONSO Melo, Ruben",
+    "FERNANDEZ CASTIBLANCO, NICOLAS",
+    "BECERRIL ALONSO, SERGIO",
+    "LEMES REYES, ARNOLD MATIAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "GONZALEZ CAMUS, MARCO",
+      "sale": "FUENTES PALLEJA, ERIK"
+    },
+    {
+      "min": 54,
+      "entra": "RUBIN MUÑOZ, MICHEL",
+      "sale": "PORTILLA CAMUS, ALEJANDRO"
+    },
+    {
+      "min": 60,
+      "entra": "REY LASTRA, JOSE LUIS",
+      "sale": "GARCIA GARCIA, MARCOS"
+    },
+    {
+      "min": 67,
+      "entra": "DE ANGEL BATYREV, LUCAS",
+      "sale": "GARCIA AGUADO, DANIEL"
+    },
+    {
+      "min": 69,
+      "entra": "RUIZ SAIZ, MARIO",
+      "sale": "Flor Martinez, IAGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "LOPEZ GARCIA DEL POMAR, PELAYO",
+      "sale": "GUTIERREZ FERNANDEZ, IKER"
+    },
+    {
+      "min": 40,
+      "entra": "ALONSO Melo, Ruben",
+      "sale": "GILENE GOMEZ, ISRAEL"
+    },
+    {
+      "min": 40,
+      "entra": "FERNANDEZ CASTIBLANCO, NICOLAS",
+      "sale": "HERRERO PÉREZ, DIEGO"
+    },
+    {
+      "min": 49,
+      "entra": "BECERRIL ALONSO, SERGIO",
+      "sale": "LAZA ORTIZ, PABLO"
+    },
+    {
+      "min": 49,
+      "entra": "LEMES REYES, ARNOLD MATIAS",
+      "sale": "GARCIA ALONSO, SAMUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ GOMEZ, HUGO": 90,
+    "COLLANTES GOMEZ, HUGO": 90,
+    "PORTILLA CAMUS, ALEJANDRO": 54,
+    "agudo cuenca, DIEGO": 90,
+    "GARCIA GOMEZ, DANIEL": 90,
+    "GARCIA AGUADO, DANIEL": 67,
+    "Flor Martinez, IAGO": 69,
+    "ASON BALAGUER, MARIO": 90,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 90,
+    "GARCIA GARCIA, MARCOS": 60,
+    "FUENTES PALLEJA, ERIK": 54,
+    "GONZALEZ CAMUS, MARCO": 36,
+    "RUBIN MUÑOZ, MICHEL": 36,
+    "REY LASTRA, JOSE LUIS": 30,
+    "DE ANGEL BATYREV, LUCAS": 23,
+    "RUIZ SAIZ, MARIO": 21,
+    "SANCHEZ MUÑOZ, ALEJANDRO": 90,
+    "POPOVICI, MADALIN": 90,
+    "REVUELTA SAINZ, DIEGO": 90,
+    "García Fernández, AARON": 90,
+    "LAZA ORTIZ, PABLO": 49,
+    "SAINZ DE LA HOZ, CESAR": 90,
+    "GARCIA ALONSO, SAMUEL": 49,
+    "GUTIERREZ FERNANDEZ, IKER": 40,
+    "HERRERO PÉREZ, DIEGO": 40,
+    "GILENE GOMEZ, ISRAEL": 40,
+    "SAINZ FERNANDEZ, DANIEL": 90,
+    "LOPEZ GARCIA DEL POMAR, PELAYO": 50,
+    "ALONSO Melo, Ruben": 50,
+    "FERNANDEZ CASTIBLANCO, NICOLAS": 50,
+    "BECERRIL ALONSO, SERGIO": 41,
+    "LEMES REYES, ARNOLD MATIAS": 41
+  },
+  "portero_local": "RODRIGUEZ GOMEZ, HUGO",
+  "portero_visitante": "SANCHEZ MUÑOZ, ALEJANDRO",
+  "dorsales_local": {
+    "RODRIGUEZ GOMEZ, HUGO": 1,
+    "COLLANTES GOMEZ, HUGO": 2,
+    "PORTILLA CAMUS, ALEJANDRO": 3,
+    "agudo cuenca, DIEGO": 4,
+    "GARCIA GOMEZ, DANIEL": 6,
+    "GARCIA AGUADO, DANIEL": 7,
+    "Flor Martinez, IAGO": 10,
+    "ASON BALAGUER, MARIO": 11,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 12,
+    "GARCIA GARCIA, MARCOS": 15,
+    "FUENTES PALLEJA, ERIK": 18
+  },
+  "dorsales_visitante": {
+    "SANCHEZ MUÑOZ, ALEJANDRO": 1,
+    "POPOVICI, MADALIN": 2,
+    "REVUELTA SAINZ, DIEGO": 6,
+    "García Fernández, AARON": 9,
+    "LAZA ORTIZ, PABLO": 11,
+    "SAINZ DE LA HOZ, CESAR": 12,
+    "GARCIA ALONSO, SAMUEL": 17,
+    "GUTIERREZ FERNANDEZ, IKER": 18,
+    "HERRERO PÉREZ, DIEGO": 19,
+    "GILENE GOMEZ, ISRAEL": 20,
+    "SAINZ FERNANDEZ, DANIEL": 22
+  },
+  "suspendidos": []
+}
