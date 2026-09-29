@@ -1,0 +1,314 @@
+{
+  "acta_id": "B_9981153",
+  "filename": "Acta_B_9981153.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 32,
+  "fecha": "09-05-2026",
+  "hora": "17:30",
+  "categoria": "PRIMERA DIVISIÓN 1A / LEHENENGO MAILA (GRUPO 1)",
+  "equipo_local": "ARRONTEGI",
+  "equipo_visitante": "TRAPAGARAN A",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MARTIN SAN SEBASTIAN, ALEXANDER",
+    "Árbitro Asistente",
+    "RODRIGUEZ MAFFIOLI, MARCOS",
+    "Árbitro Asistente",
+    "MUSONS MARTIN, MIKEL"
+  ],
+  "estadio": "IBARRETA",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "CRUZ DIEZ, ANDONI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "RIVEROS CABRERA, JOSE MARCELO DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "MORILLO SANCHEZ, ARKAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "IGLESIAS MORIN, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "SANCHEZ PIÑEIRO, AMETS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 40,
+      "jugador": "RECALDE QUIÑONEZ, VICENTE NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 87,
+      "jugador": "RIVEROS CABRERA, JOSE MARCELO DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "MOLLEDO URIARTE, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "MARTINEZ MUÑOZ, GARIKOITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 87,
+      "jugador": "GYAMFI, EMMANUEL ROBERT",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "ROQUE MEDA, FRAILIN WILBER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZALEZ MORCILLO, PEDRO MARIA",
+  "entrenador_visitante": "MARTINEZ MUÑOZ, GARIKOITZ",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "TAVERA RECART, IÑAKI",
+  "delegado_campo_local": "GARAY CASTIÑEIRA, AINGERU",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARAY CASTIÑEIRA, AINGERU",
+  "delegado_equipo_visitante": "ESTEFANIA ARIZMENDI, LUCIO",
+  "titulares_local": [
+    "MAROTO VIRTUS, GORKA",
+    "MORILLO SANCHEZ, ARKAITZ",
+    "RIVEROS CABRERA, JOSE MARCELO DAVID",
+    "FERRO SANCHEZ, BRAIS",
+    "LOPEZ IGLESIAS, GAIZKA",
+    "AKOUDAD, MOHAMED",
+    "MESA GUEVARA, JUAN DAVID",
+    "OÑA CERVERA, RAUL",
+    "MORENO BARAJA, ALVARO",
+    "RECALDE QUIÑONEZ, VICENTE NICOLAS",
+    "BERNAL RODRIGUEZ, IVAN"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ CASTAÑO, KOLDO",
+    "GYAMFI, EMMANUEL ROBERT",
+    "COTO ANTONIO, EDER",
+    "MOLLEDO URIARTE, JON",
+    "PALACIO FERNANDEZ, MARKEL",
+    "JAMAL, IDDRISSU",
+    "LOPEZ GONZALEZ, JON",
+    "IGLESIAS MORIN, AIMAR",
+    "ALDAMA DEL RIO, URKO",
+    "ALDAMA DEL RIO, UNAI",
+    "CRUZ DIEZ, ANDONI"
+  ],
+  "suplentes_local": [
+    "MENDOZA BLANCO, ANUAR RODRIGO ANTONIO",
+    "CUÑADO GONZALEZ, OIER",
+    "GONZALEZ, ANGEL GABRIEL",
+    "LASANTA GUANTES, AITOR",
+    "HERNANDEZ LEDESMA, ASEL",
+    "ACOSTA ADORNO, CARLOS NICOLAS",
+    "BAEZ GAVILAN, VICTOR MANUEL"
+  ],
+  "suplentes_visitante": [
+    "GOMEZ GONZALEZ, AITOR",
+    "BALLESTEROS RILO, XABIER",
+    "FRANCISCO REMENTERIA, ARKAITZ",
+    "SANCHEZ PIÑEIRO, AMETS",
+    "SANCHEZ PIÑEIRO, HODEI",
+    "ROQUE MEDA, FRAILIN WILBER",
+    "SIPOGNE TALLA, MOSE"
+  ],
+  "convocados_sin_jugar_local": [
+    "MENDOZA BLANCO, ANUAR RODRIGO ANTONIO",
+    "LASANTA GUANTES, AITOR",
+    "HERNANDEZ LEDESMA, ASEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GOMEZ GONZALEZ, AITOR",
+    "FRANCISCO REMENTERIA, ARKAITZ"
+  ],
+  "jugadores_local": [
+    "MAROTO VIRTUS, GORKA",
+    "MORILLO SANCHEZ, ARKAITZ",
+    "RIVEROS CABRERA, JOSE MARCELO DAVID",
+    "FERRO SANCHEZ, BRAIS",
+    "LOPEZ IGLESIAS, GAIZKA",
+    "AKOUDAD, MOHAMED",
+    "MESA GUEVARA, JUAN DAVID",
+    "OÑA CERVERA, RAUL",
+    "MORENO BARAJA, ALVARO",
+    "RECALDE QUIÑONEZ, VICENTE NICOLAS",
+    "BERNAL RODRIGUEZ, IVAN",
+    "ACOSTA ADORNO, CARLOS NICOLAS",
+    "GONZALEZ, ANGEL GABRIEL",
+    "BAEZ GAVILAN, VICTOR MANUEL",
+    "CUÑADO GONZALEZ, OIER"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ CASTAÑO, KOLDO",
+    "GYAMFI, EMMANUEL ROBERT",
+    "COTO ANTONIO, EDER",
+    "MOLLEDO URIARTE, JON",
+    "PALACIO FERNANDEZ, MARKEL",
+    "JAMAL, IDDRISSU",
+    "LOPEZ GONZALEZ, JON",
+    "IGLESIAS MORIN, AIMAR",
+    "ALDAMA DEL RIO, URKO",
+    "ALDAMA DEL RIO, UNAI",
+    "CRUZ DIEZ, ANDONI",
+    "SANCHEZ PIÑEIRO, HODEI",
+    "SANCHEZ PIÑEIRO, AMETS",
+    "SIPOGNE TALLA, MOSE",
+    "BALLESTEROS RILO, XABIER",
+    "ROQUE MEDA, FRAILIN WILBER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 61,
+      "entra": "ACOSTA ADORNO, CARLOS NICOLAS",
+      "sale": "RECALDE QUIÑONEZ, VICENTE NICOLAS"
+    },
+    {
+      "min": 61,
+      "entra": "GONZALEZ, ANGEL GABRIEL",
+      "sale": "MORENO BARAJA, ALVARO"
+    },
+    {
+      "min": 78,
+      "entra": "BAEZ GAVILAN, VICTOR MANUEL",
+      "sale": "MORILLO SANCHEZ, ARKAITZ"
+    },
+    {
+      "min": 82,
+      "entra": "CUÑADO GONZALEZ, OIER",
+      "sale": "FERRO SANCHEZ, BRAIS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "SANCHEZ PIÑEIRO, HODEI",
+      "sale": "LOPEZ GONZALEZ, JON"
+    },
+    {
+      "min": 72,
+      "entra": "SANCHEZ PIÑEIRO, AMETS",
+      "sale": "PALACIO FERNANDEZ, MARKEL"
+    },
+    {
+      "min": 72,
+      "entra": "SIPOGNE TALLA, MOSE",
+      "sale": "MOLLEDO URIARTE, JON"
+    },
+    {
+      "min": 83,
+      "entra": "BALLESTEROS RILO, XABIER",
+      "sale": "CRUZ DIEZ, ANDONI"
+    },
+    {
+      "min": 83,
+      "entra": "ROQUE MEDA, FRAILIN WILBER",
+      "sale": "ALDAMA DEL RIO, UNAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "MAROTO VIRTUS, GORKA": 90,
+    "MORILLO SANCHEZ, ARKAITZ": 78,
+    "RIVEROS CABRERA, JOSE MARCELO DAVID": 90,
+    "FERRO SANCHEZ, BRAIS": 82,
+    "LOPEZ IGLESIAS, GAIZKA": 90,
+    "AKOUDAD, MOHAMED": 90,
+    "MESA GUEVARA, JUAN DAVID": 90,
+    "OÑA CERVERA, RAUL": 90,
+    "MORENO BARAJA, ALVARO": 61,
+    "RECALDE QUIÑONEZ, VICENTE NICOLAS": 61,
+    "BERNAL RODRIGUEZ, IVAN": 90,
+    "ACOSTA ADORNO, CARLOS NICOLAS": 29,
+    "GONZALEZ, ANGEL GABRIEL": 29,
+    "BAEZ GAVILAN, VICTOR MANUEL": 12,
+    "CUÑADO GONZALEZ, OIER": 8,
+    "FERNANDEZ CASTAÑO, KOLDO": 90,
+    "GYAMFI, EMMANUEL ROBERT": 90,
+    "COTO ANTONIO, EDER": 90,
+    "MOLLEDO URIARTE, JON": 72,
+    "PALACIO FERNANDEZ, MARKEL": 72,
+    "JAMAL, IDDRISSU": 90,
+    "LOPEZ GONZALEZ, JON": 61,
+    "IGLESIAS MORIN, AIMAR": 90,
+    "ALDAMA DEL RIO, URKO": 90,
+    "ALDAMA DEL RIO, UNAI": 83,
+    "CRUZ DIEZ, ANDONI": 83,
+    "SANCHEZ PIÑEIRO, HODEI": 29,
+    "SANCHEZ PIÑEIRO, AMETS": 18,
+    "SIPOGNE TALLA, MOSE": 18,
+    "BALLESTEROS RILO, XABIER": 7,
+    "ROQUE MEDA, FRAILIN WILBER": 7
+  },
+  "portero_local": "MAROTO VIRTUS, GORKA",
+  "portero_visitante": "FERNANDEZ CASTAÑO, KOLDO",
+  "dorsales_local": {
+    "MAROTO VIRTUS, GORKA": 1,
+    "MORILLO SANCHEZ, ARKAITZ": 2,
+    "RIVEROS CABRERA, JOSE MARCELO DAVID": 3,
+    "FERRO SANCHEZ, BRAIS": 4,
+    "LOPEZ IGLESIAS, GAIZKA": 5,
+    "AKOUDAD, MOHAMED": 6,
+    "MESA GUEVARA, JUAN DAVID": 7,
+    "OÑA CERVERA, RAUL": 8,
+    "MORENO BARAJA, ALVARO": 9,
+    "RECALDE QUIÑONEZ, VICENTE NICOLAS": 10,
+    "BERNAL RODRIGUEZ, IVAN": 11
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ CASTAÑO, KOLDO": 1,
+    "GYAMFI, EMMANUEL ROBERT": 2,
+    "COTO ANTONIO, EDER": 3,
+    "MOLLEDO URIARTE, JON": 4,
+    "PALACIO FERNANDEZ, MARKEL": 5,
+    "JAMAL, IDDRISSU": 6,
+    "LOPEZ GONZALEZ, JON": 7,
+    "IGLESIAS MORIN, AIMAR": 8,
+    "ALDAMA DEL RIO, URKO": 9,
+    "ALDAMA DEL RIO, UNAI": 10,
+    "CRUZ DIEZ, ANDONI": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
