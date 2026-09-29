@@ -1,0 +1,290 @@
+{
+  "acta_id": "C_192825",
+  "filename": "Acta_C_192825.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 12,
+  "fecha": "23-11-2024",
+  "hora": "12:30",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "VELARDE C.F. A",
+  "equipo_visitante": "E.M. FUTBOL SANTANDER A",
+  "goles_local": 3,
+  "goles_visitante": 3,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CADELO CIMIANO, MARIO"
+  ],
+  "estadio": "Muriedas 2",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "FERNANDEZ ALONSO, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "maillo haya, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 60,
+      "jugador": "SAN MIGUEL PÉREZ, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "ANDRES MENA, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 79,
+      "jugador": "MORENO QUINTANILLA, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 17,
+      "jugador": "RAMIREZ VALLE, JAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "ANDRES MENA, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "DOMINGUEZ RUIZ, SAMUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "HERRERA DIAZ, SALVADOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "COSTALES ALVAREZ, RICARDO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "VALLE TRUEBA, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VALLE TRUEBA, JAVIER",
+  "delegado_equipo_visitante": "HERRERA DIAZ, SALVADOR",
+  "titulares_local": [
+    "ARCE CAMPO, LUCAS",
+    "BRAVO DE CELIS, HUGO",
+    "RAMIREZ VALLE, JAVIER",
+    "CANCELA SUAREZ, OLIVER",
+    "maillo haya, PABLO",
+    "DIEZ HERMOSA, SAUL",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "ALONSO GARCIA, DANIEL",
+    "TABERNILLA GÓMEZ, GABRIEL",
+    "CHANCA PACHECO, IKER",
+    "BOLADO PALACIO, ALVARO"
+  ],
+  "titulares_visitante": [
+    "LAUCELLI DÍAZ, CÉSAR",
+    "MANTECÓN HERMANA, ADRIÁN",
+    "BEDIA PEÑA, DANIEL",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "VELATEGUI TOCA, IGNACIO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "FERNANDEZ ALONSO, DANIEL",
+    "RONCAL SAIZ, MATEO",
+    "COBO PEREZ, JAVIER",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "SEVERINO HERRERA, ADRIAN DANIEL"
+  ],
+  "suplentes_local": [
+    "MARTINEZ MARTINEZ, FRANCISCO",
+    "ANDRES MENA, MARCOS",
+    "CASUSO IGLESIAS, IAGO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "ALAMO DIAZ, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "LEDESMA ESUN, GONZALO",
+    "BALBAS RUIZ, MATEO",
+    "SAN MIGUEL PÉREZ, DIEGO",
+    "LAVIN VELARDE, MARCOS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARCE CAMPO, LUCAS",
+    "BRAVO DE CELIS, HUGO",
+    "RAMIREZ VALLE, JAVIER",
+    "CANCELA SUAREZ, OLIVER",
+    "maillo haya, PABLO",
+    "DIEZ HERMOSA, SAUL",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "ALONSO GARCIA, DANIEL",
+    "TABERNILLA GÓMEZ, GABRIEL",
+    "CHANCA PACHECO, IKER",
+    "BOLADO PALACIO, ALVARO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "ANDRES MENA, MARCOS",
+    "ALAMO DIAZ, DIEGO",
+    "MARTINEZ MARTINEZ, FRANCISCO",
+    "CASUSO IGLESIAS, IAGO"
+  ],
+  "jugadores_visitante": [
+    "LAUCELLI DÍAZ, CÉSAR",
+    "MANTECÓN HERMANA, ADRIÁN",
+    "BEDIA PEÑA, DANIEL",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "VELATEGUI TOCA, IGNACIO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "FERNANDEZ ALONSO, DANIEL",
+    "RONCAL SAIZ, MATEO",
+    "COBO PEREZ, JAVIER",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "LEDESMA ESUN, GONZALO",
+    "LAVIN VELARDE, MARCOS",
+    "BALBAS RUIZ, MATEO",
+    "SAN MIGUEL PÉREZ, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "MORENO QUINTANILLA, NICOLAS",
+      "sale": "CANCELA SUAREZ, OLIVER"
+    },
+    {
+      "min": 52,
+      "entra": "ANDRES MENA, MARCOS",
+      "sale": "BRAVO DE CELIS, HUGO"
+    },
+    {
+      "min": 57,
+      "entra": "ALAMO DIAZ, DIEGO",
+      "sale": "BOLADO PALACIO, ALVARO"
+    },
+    {
+      "min": 63,
+      "entra": "MARTINEZ MARTINEZ, FRANCISCO",
+      "sale": "DIEZ HERMOSA, SAUL"
+    },
+    {
+      "min": 63,
+      "entra": "CASUSO IGLESIAS, IAGO",
+      "sale": "TABERNILLA GÓMEZ, GABRIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "LEDESMA ESUN, GONZALO",
+      "sale": "LAUCELLI DÍAZ, CÉSAR"
+    },
+    {
+      "min": 45,
+      "entra": "LAVIN VELARDE, MARCOS",
+      "sale": "RONCAL SAIZ, MATEO"
+    },
+    {
+      "min": 49,
+      "entra": "BALBAS RUIZ, MATEO",
+      "sale": "COBO PEREZ, JAVIER"
+    },
+    {
+      "min": 58,
+      "entra": "SAN MIGUEL PÉREZ, DIEGO",
+      "sale": "FERNANDEZ DE DIEGO, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARCE CAMPO, LUCAS": 90,
+    "BRAVO DE CELIS, HUGO": 52,
+    "RAMIREZ VALLE, JAVIER": 90,
+    "CANCELA SUAREZ, OLIVER": 50,
+    "maillo haya, PABLO": 90,
+    "DIEZ HERMOSA, SAUL": 63,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 90,
+    "ALONSO GARCIA, DANIEL": 90,
+    "TABERNILLA GÓMEZ, GABRIEL": 63,
+    "CHANCA PACHECO, IKER": 90,
+    "BOLADO PALACIO, ALVARO": 57,
+    "MORENO QUINTANILLA, NICOLAS": 40,
+    "ANDRES MENA, MARCOS": 38,
+    "ALAMO DIAZ, DIEGO": 33,
+    "MARTINEZ MARTINEZ, FRANCISCO": 27,
+    "CASUSO IGLESIAS, IAGO": 27,
+    "LAUCELLI DÍAZ, CÉSAR": 40,
+    "MANTECÓN HERMANA, ADRIÁN": 90,
+    "BEDIA PEÑA, DANIEL": 90,
+    "DOMINGUEZ RUIZ, SAMUEL": 90,
+    "VELATEGUI TOCA, IGNACIO": 90,
+    "MARTINEZ IBAÑEZ, LUCAS": 90,
+    "FERNANDEZ ALONSO, DANIEL": 90,
+    "RONCAL SAIZ, MATEO": 45,
+    "COBO PEREZ, JAVIER": 49,
+    "FERNANDEZ DE DIEGO, ALVARO": 58,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 90,
+    "LEDESMA ESUN, GONZALO": 50,
+    "LAVIN VELARDE, MARCOS": 45,
+    "BALBAS RUIZ, MATEO": 41,
+    "SAN MIGUEL PÉREZ, DIEGO": 32
+  },
+  "portero_local": "ARCE CAMPO, LUCAS",
+  "portero_visitante": "LAUCELLI DÍAZ, CÉSAR",
+  "dorsales_local": {
+    "ARCE CAMPO, LUCAS": 1,
+    "BRAVO DE CELIS, HUGO": 3,
+    "RAMIREZ VALLE, JAVIER": 6,
+    "CANCELA SUAREZ, OLIVER": 7,
+    "maillo haya, PABLO": 9,
+    "DIEZ HERMOSA, SAUL": 11,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 14,
+    "ALONSO GARCIA, DANIEL": 16,
+    "TABERNILLA GÓMEZ, GABRIEL": 17,
+    "CHANCA PACHECO, IKER": 18,
+    "BOLADO PALACIO, ALVARO": 19
+  },
+  "dorsales_visitante": {
+    "LAUCELLI DÍAZ, CÉSAR": 13,
+    "MANTECÓN HERMANA, ADRIÁN": 3,
+    "BEDIA PEÑA, DANIEL": 5,
+    "DOMINGUEZ RUIZ, SAMUEL": 6,
+    "VELATEGUI TOCA, IGNACIO": 8,
+    "MARTINEZ IBAÑEZ, LUCAS": 9,
+    "FERNANDEZ ALONSO, DANIEL": 10,
+    "RONCAL SAIZ, MATEO": 12,
+    "COBO PEREZ, JAVIER": 14,
+    "FERNANDEZ DE DIEGO, ALVARO": 15,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 17
+  },
+  "suspendidos": []
+}
