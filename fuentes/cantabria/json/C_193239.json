@@ -1,0 +1,251 @@
+{
+  "acta_id": "C_193239",
+  "filename": "Acta_C_193239.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 24,
+  "fecha": "09-03-2025",
+  "hora": "10:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. TROPEZON B",
+  "equipo_visitante": "REAL RACING CLUB SAD B",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAHAGUN SAIZ, ALVARO"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "MARTINEZ MONTERO, MANUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "MARTINEZ CALVO, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "COROZO TARIRA, SAMUEL LENIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "HOUFRI BAKBACHI, HARON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "GUTIERREZ RUIZ, MATEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZALEZ ALVAREZ, DIEGO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "GUTIERREZ GUTIERREZ, DAVID",
+  "segundo_entrenador_visitante": "GOMEZ ALVARO, JOSE ANTONIO",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "BOUWE KAMGA, ULRICH BRICE",
+  "titulares_local": [
+    "PÉREZ GARCÍA, CÉSAR",
+    "ALONSO EDILLA, MIGUEL",
+    "HOUFRI BAKBACHI, HARON",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "CUESTA FEIJOO, CARLOS",
+    "GONZALEZ BLUM, MANUEL",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "MENDARO TERAN, ANTONIO",
+    "CAMPO FERNANDEZ, SAMUEL",
+    "GARCIA DIAZ, JAVIER"
+  ],
+  "titulares_visitante": [
+    "LAVIN DEL HOYO, RAUL",
+    "GUTIERREZ RUIZ, MATEO",
+    "DE LA GRANJA PEREZ, HUGO",
+    "SAN EMETERIO ISA, RAUL",
+    "URIARTE LOPEZ, HUGO",
+    "PRESMANES PADILLA, IKER",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "LOPEZ ARJONA, DANIEL THERA",
+    "MARTINEZ MONTERO, MANUEL",
+    "TEJERO ESTEBAN, MIGUEL",
+    "COROZO TARIRA, SAMUEL LENIN"
+  ],
+  "suplentes_local": [
+    "CRUZ ABASCAL, JAVIER",
+    "ORIA SAINZ, MARCOS",
+    "ARROYO GONZALEZ, HUGO",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "GUTIERREZ MARTINEZ, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "RODRIGUEZ SANCHEZ, MATEO",
+    "GOMEZ SERRANO, MANUEL",
+    "RIVAS LEZCANO, MARTIN",
+    "MARTINEZ CALVO, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "CRUZ ABASCAL, JAVIER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PÉREZ GARCÍA, CÉSAR",
+    "ALONSO EDILLA, MIGUEL",
+    "HOUFRI BAKBACHI, HARON",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "CUESTA FEIJOO, CARLOS",
+    "GONZALEZ BLUM, MANUEL",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "MENDARO TERAN, ANTONIO",
+    "CAMPO FERNANDEZ, SAMUEL",
+    "GARCIA DIAZ, JAVIER",
+    "ARROYO GONZALEZ, HUGO",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "ORIA SAINZ, MARCOS"
+  ],
+  "jugadores_visitante": [
+    "LAVIN DEL HOYO, RAUL",
+    "GUTIERREZ RUIZ, MATEO",
+    "DE LA GRANJA PEREZ, HUGO",
+    "SAN EMETERIO ISA, RAUL",
+    "URIARTE LOPEZ, HUGO",
+    "PRESMANES PADILLA, IKER",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "LOPEZ ARJONA, DANIEL THERA",
+    "MARTINEZ MONTERO, MANUEL",
+    "TEJERO ESTEBAN, MIGUEL",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "MARTINEZ CALVO, DANIEL",
+    "RODRIGUEZ SANCHEZ, MATEO",
+    "RIVAS LEZCANO, MARTIN",
+    "GOMEZ SERRANO, MANUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "ARROYO GONZALEZ, HUGO",
+      "sale": "MARTINEZ RODRIGUEZ, AARON"
+    },
+    {
+      "min": 64,
+      "entra": "QUINTANAL ZARRABETIA, ASIER",
+      "sale": "HOUFRI BAKBACHI, HARON"
+    },
+    {
+      "min": 64,
+      "entra": "GUTIERREZ MARTINEZ, ALVARO",
+      "sale": "GONZALEZ BLUM, MANUEL"
+    },
+    {
+      "min": 64,
+      "entra": "ORIA SAINZ, MARCOS",
+      "sale": "MENDARO TERAN, ANTONIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "MARTINEZ CALVO, DANIEL",
+      "sale": "DE LA GRANJA PEREZ, HUGO"
+    },
+    {
+      "min": 41,
+      "entra": "RODRIGUEZ SANCHEZ, MATEO",
+      "sale": "TEJERO ESTEBAN, MIGUEL"
+    },
+    {
+      "min": 50,
+      "entra": "RIVAS LEZCANO, MARTIN",
+      "sale": "TRESGALLO RODRIGUEZ, ULISES"
+    },
+    {
+      "min": 50,
+      "entra": "GOMEZ SERRANO, MANUEL",
+      "sale": "MARTINEZ MONTERO, MANUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "PÉREZ GARCÍA, CÉSAR": 90,
+    "ALONSO EDILLA, MIGUEL": 90,
+    "HOUFRI BAKBACHI, HARON": 64,
+    "SEIJAS SANZ-BAZA, AITOR": 90,
+    "CUESTA FEIJOO, CARLOS": 90,
+    "GONZALEZ BLUM, MANUEL": 64,
+    "MARTINEZ FERNANDEZ, ASIER": 90,
+    "MARTINEZ RODRIGUEZ, AARON": 55,
+    "MENDARO TERAN, ANTONIO": 64,
+    "CAMPO FERNANDEZ, SAMUEL": 90,
+    "GARCIA DIAZ, JAVIER": 90,
+    "ARROYO GONZALEZ, HUGO": 35,
+    "QUINTANAL ZARRABETIA, ASIER": 26,
+    "GUTIERREZ MARTINEZ, ALVARO": 26,
+    "ORIA SAINZ, MARCOS": 26,
+    "LAVIN DEL HOYO, RAUL": 90,
+    "GUTIERREZ RUIZ, MATEO": 90,
+    "DE LA GRANJA PEREZ, HUGO": 41,
+    "SAN EMETERIO ISA, RAUL": 90,
+    "URIARTE LOPEZ, HUGO": 90,
+    "PRESMANES PADILLA, IKER": 90,
+    "TRESGALLO RODRIGUEZ, ULISES": 50,
+    "LOPEZ ARJONA, DANIEL THERA": 90,
+    "MARTINEZ MONTERO, MANUEL": 50,
+    "TEJERO ESTEBAN, MIGUEL": 41,
+    "COROZO TARIRA, SAMUEL LENIN": 90,
+    "MARTINEZ CALVO, DANIEL": 49,
+    "RODRIGUEZ SANCHEZ, MATEO": 49,
+    "RIVAS LEZCANO, MARTIN": 40,
+    "GOMEZ SERRANO, MANUEL": 40
+  },
+  "portero_local": "PÉREZ GARCÍA, CÉSAR",
+  "portero_visitante": "LAVIN DEL HOYO, RAUL",
+  "dorsales_local": {
+    "PÉREZ GARCÍA, CÉSAR": 13,
+    "ALONSO EDILLA, MIGUEL": 3,
+    "HOUFRI BAKBACHI, HARON": 4,
+    "SEIJAS SANZ-BAZA, AITOR": 5,
+    "CUESTA FEIJOO, CARLOS": 6,
+    "GONZALEZ BLUM, MANUEL": 7,
+    "MARTINEZ FERNANDEZ, ASIER": 9,
+    "MARTINEZ RODRIGUEZ, AARON": 10,
+    "MENDARO TERAN, ANTONIO": 14,
+    "CAMPO FERNANDEZ, SAMUEL": 16,
+    "GARCIA DIAZ, JAVIER": 19
+  },
+  "dorsales_visitante": {
+    "LAVIN DEL HOYO, RAUL": 1,
+    "GUTIERREZ RUIZ, MATEO": 2,
+    "DE LA GRANJA PEREZ, HUGO": 3,
+    "SAN EMETERIO ISA, RAUL": 4,
+    "URIARTE LOPEZ, HUGO": 5,
+    "PRESMANES PADILLA, IKER": 6,
+    "TRESGALLO RODRIGUEZ, ULISES": 7,
+    "LOPEZ ARJONA, DANIEL THERA": 8,
+    "MARTINEZ MONTERO, MANUEL": 9,
+    "TEJERO ESTEBAN, MIGUEL": 10,
+    "COROZO TARIRA, SAMUEL LENIN": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
