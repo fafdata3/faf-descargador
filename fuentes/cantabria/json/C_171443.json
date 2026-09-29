@@ -1,0 +1,225 @@
+{
+  "acta_id": "C_171443",
+  "filename": "Acta_C_171443.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 32,
+  "fecha": "18-05-2024",
+  "hora": "12:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "CLUB BANSANDER B",
+  "equipo_visitante": "C.D. CASTROVERDE",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LAVÍN GARCÍA, SERGIO"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "DEL RIO PRIETO, JUAN VICENTE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "VAN DE WORP HERNANDO, LUKAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "MOLINA PRADA, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "LOPEZ FERNANDEZ, IAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "LOPEZ FERNANDEZ, IAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [],
+  "entrenador_local": "SANZ GIL, AITOR",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SANZ GIL, IGNACIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANZ GIL, IGNACIO",
+  "delegado_equipo_visitante": "CASTAÑEDA RODRIGUEZ, FERNANDO",
+  "titulares_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GONZALEZ AMOROS, MARCO",
+    "ORALLO GOMEZ, JACOBO",
+    "MOLINA PRADA, MARIO",
+    "PEREZ ASOREY, OIER",
+    "LOPEZ FERNANDEZ, IAN",
+    "SANTURDE DIEZ, DARIO",
+    "MAZA HONTAVILLA, ERIC",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "VAN DE WORP HERNANDO, LUKAS",
+    "MARTIN HERRERO, HUGO"
+  ],
+  "titulares_visitante": [
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE",
+    "PEREZ MAESTRE, JUAN",
+    "MALO GARCIA, LARO",
+    "RODRIGUEZ MARTIN, IÑIGO",
+    "GONZALEZ DIRUBE, MATEO",
+    "AREVALO DASCALU, CARLOS",
+    "PEÑA LLANES, FRANCISCO JAVIER",
+    "IZQUIERDO SOTO, JAIME",
+    "SUBIRANA PAIS, CARLOS",
+    "BA, YOUNOUSS",
+    "CENTENO VARILLAS, JORGE"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "QUINTANA GUTIERREZ, JORGE",
+    "ARCE PIÑAL, HUGO"
+  ],
+  "suplentes_visitante": [
+    "GARCIA DEL OLMO, DIEGO",
+    "LOSADA VIADERO, PABLO",
+    "IBARRA SARO, ANGEL",
+    "garcia-barcena diaz, GONZALO",
+    "LOPEZ DORIGA LATORRE, IKER"
+  ],
+  "convocados_sin_jugar_local": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "QUINTANA GUTIERREZ, JORGE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GARCIA DEL OLMO, DIEGO",
+    "LOPEZ DORIGA LATORRE, IKER"
+  ],
+  "jugadores_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GONZALEZ AMOROS, MARCO",
+    "ORALLO GOMEZ, JACOBO",
+    "MOLINA PRADA, MARIO",
+    "PEREZ ASOREY, OIER",
+    "LOPEZ FERNANDEZ, IAN",
+    "SANTURDE DIEZ, DARIO",
+    "MAZA HONTAVILLA, ERIC",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "VAN DE WORP HERNANDO, LUKAS",
+    "MARTIN HERRERO, HUGO",
+    "ARCE PIÑAL, HUGO"
+  ],
+  "jugadores_visitante": [
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE",
+    "PEREZ MAESTRE, JUAN",
+    "MALO GARCIA, LARO",
+    "RODRIGUEZ MARTIN, IÑIGO",
+    "GONZALEZ DIRUBE, MATEO",
+    "AREVALO DASCALU, CARLOS",
+    "PEÑA LLANES, FRANCISCO JAVIER",
+    "IZQUIERDO SOTO, JAIME",
+    "SUBIRANA PAIS, CARLOS",
+    "BA, YOUNOUSS",
+    "CENTENO VARILLAS, JORGE",
+    "IBARRA SARO, ANGEL",
+    "LOSADA VIADERO, PABLO",
+    "garcia-barcena diaz, GONZALO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 42,
+      "entra": "ARCE PIÑAL, HUGO",
+      "sale": "ORALLO GOMEZ, JACOBO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "IBARRA SARO, ANGEL",
+      "sale": "PEREZ MAESTRE, JUAN"
+    },
+    {
+      "min": 50,
+      "entra": "LOSADA VIADERO, PABLO",
+      "sale": "GONZALEZ DIRUBE, MATEO"
+    },
+    {
+      "min": 54,
+      "entra": "garcia-barcena diaz, GONZALO",
+      "sale": "AREVALO DASCALU, CARLOS"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRIZ ESTEBANEZ, ALBERTO": 90,
+    "GONZALEZ AMOROS, MARCO": 90,
+    "ORALLO GOMEZ, JACOBO": 42,
+    "MOLINA PRADA, MARIO": 90,
+    "PEREZ ASOREY, OIER": 90,
+    "LOPEZ FERNANDEZ, IAN": 90,
+    "SANTURDE DIEZ, DARIO": 90,
+    "MAZA HONTAVILLA, ERIC": 90,
+    "DEL RIO PRIETO, JUAN VICENTE": 90,
+    "VAN DE WORP HERNANDO, LUKAS": 90,
+    "MARTIN HERRERO, HUGO": 90,
+    "ARCE PIÑAL, HUGO": 48,
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE": 90,
+    "PEREZ MAESTRE, JUAN": 50,
+    "MALO GARCIA, LARO": 90,
+    "RODRIGUEZ MARTIN, IÑIGO": 90,
+    "GONZALEZ DIRUBE, MATEO": 50,
+    "AREVALO DASCALU, CARLOS": 54,
+    "PEÑA LLANES, FRANCISCO JAVIER": 90,
+    "IZQUIERDO SOTO, JAIME": 90,
+    "SUBIRANA PAIS, CARLOS": 90,
+    "BA, YOUNOUSS": 90,
+    "CENTENO VARILLAS, JORGE": 90,
+    "IBARRA SARO, ANGEL": 40,
+    "LOSADA VIADERO, PABLO": 40,
+    "garcia-barcena diaz, GONZALO": 36
+  },
+  "portero_local": "BRIZ ESTEBANEZ, ALBERTO",
+  "portero_visitante": "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE",
+  "dorsales_local": {
+    "BRIZ ESTEBANEZ, ALBERTO": 1,
+    "GONZALEZ AMOROS, MARCO": 3,
+    "ORALLO GOMEZ, JACOBO": 4,
+    "MOLINA PRADA, MARIO": 5,
+    "PEREZ ASOREY, OIER": 6,
+    "LOPEZ FERNANDEZ, IAN": 11,
+    "SANTURDE DIEZ, DARIO": 14,
+    "MAZA HONTAVILLA, ERIC": 15,
+    "DEL RIO PRIETO, JUAN VICENTE": 16,
+    "VAN DE WORP HERNANDO, LUKAS": 20,
+    "MARTIN HERRERO, HUGO": 22
+  },
+  "dorsales_visitante": {
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE": 1,
+    "PEREZ MAESTRE, JUAN": 3,
+    "MALO GARCIA, LARO": 8,
+    "RODRIGUEZ MARTIN, IÑIGO": 10,
+    "GONZALEZ DIRUBE, MATEO": 11,
+    "AREVALO DASCALU, CARLOS": 12,
+    "PEÑA LLANES, FRANCISCO JAVIER": 18,
+    "IZQUIERDO SOTO, JAIME": 22,
+    "SUBIRANA PAIS, CARLOS": 29,
+    "BA, YOUNOUSS": 30,
+    "CENTENO VARILLAS, JORGE": 38
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
