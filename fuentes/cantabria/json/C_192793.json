@@ -1,0 +1,241 @@
+{
+  "acta_id": "C_192793",
+  "filename": "Acta_C_192793.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "27-10-2024",
+  "hora": "12:15",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "REAL RACING CLUB SAD A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GOMEZ CARRAL, MIGUEL"
+  ],
+  "estadio": "Inst. Nando Yosu 3",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 75,
+      "jugador": "ZAVALA ESTEVE, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 49,
+      "jugador": "MANTECON TEJEDOR, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "SANCHEZ MEDINA, MARCO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "ZAVALA ESTEVE, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 24,
+      "jugador": "GUTIERREZ RODRIGUEZ, CRISTIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "REVUELTA SOTO, ANDRES",
+  "entrenador_visitante": "ALONSO ALONSO, HECTOR",
+  "segundo_entrenador_local": "PALAZUELOS GARCIA, RUBEN",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RODRIGUEZ PINEY, MIGUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RODRIGUEZ PINEY, MIGUEL",
+  "delegado_equipo_visitante": "SAMPERIO GUTIERREZ, ALEJANDRO",
+  "titulares_local": [
+    "PIEDRA REVUELTA, GABRIEL",
+    "ORTIZ SAMPERIO, MANUEL",
+    "MANTECON TEJEDOR, MARCOS",
+    "GAITAN PEREZ, PABLO",
+    "SANCHEZ MEDINA, MARCO",
+    "DIESTRO LANZA, RODRIGO",
+    "GOMEZ CUEVAS, RODRIGO",
+    "VERDEJA ASTORECA, JORGE",
+    "MUNIENTE CHIOGNA, ALBERTO",
+    "DÍEZ SEGUNDO, FERNANDO",
+    "ECHEVARRIA LAMEIRO, LUCAS"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "GONZALEZ SORDO, ALEX",
+    "VARON SANCHEZ, CESAR",
+    "LOPEZ LOPEZ, IKER",
+    "BARBA AGENJO, ADRIAN",
+    "QUINTANA CALDERON, MARCOS",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "YELA GONZALEZ, MAURICIO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GONZALEZ CELIS, MARCO",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN"
+  ],
+  "suplentes_local": [
+    "CABIELLES COSIO, MANUEL",
+    "PRIETO ALONSO, MARCOS",
+    "SOL SANTAMARINA, DANIEL",
+    "AIFUWA PETER, KELECHI KELVIN",
+    "ZAVALA ESTEVE, MARIO"
+  ],
+  "suplentes_visitante": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "Garcia Roiz, Dario",
+    "GONZALEZ RODRIGUEZ, DAVID",
+    "EXPOSITO MARTIN, PABLO",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO"
+  ],
+  "convocados_sin_jugar_local": [
+    "CABIELLES COSIO, MANUEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "Garcia Roiz, Dario",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO"
+  ],
+  "jugadores_local": [
+    "PIEDRA REVUELTA, GABRIEL",
+    "ORTIZ SAMPERIO, MANUEL",
+    "MANTECON TEJEDOR, MARCOS",
+    "GAITAN PEREZ, PABLO",
+    "SANCHEZ MEDINA, MARCO",
+    "DIESTRO LANZA, RODRIGO",
+    "GOMEZ CUEVAS, RODRIGO",
+    "VERDEJA ASTORECA, JORGE",
+    "MUNIENTE CHIOGNA, ALBERTO",
+    "DÍEZ SEGUNDO, FERNANDO",
+    "ECHEVARRIA LAMEIRO, LUCAS",
+    "SOL SANTAMARINA, DANIEL",
+    "ZAVALA ESTEVE, MARIO",
+    "AIFUWA PETER, KELECHI KELVIN",
+    "PRIETO ALONSO, MARCOS"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "GONZALEZ SORDO, ALEX",
+    "VARON SANCHEZ, CESAR",
+    "LOPEZ LOPEZ, IKER",
+    "BARBA AGENJO, ADRIAN",
+    "QUINTANA CALDERON, MARCOS",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "YELA GONZALEZ, MAURICIO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GONZALEZ CELIS, MARCO",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN",
+    "EXPOSITO MARTIN, PABLO",
+    "GONZALEZ RODRIGUEZ, DAVID"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SOL SANTAMARINA, DANIEL",
+      "sale": "ORTIZ SAMPERIO, MANUEL"
+    },
+    {
+      "min": 40,
+      "entra": "ZAVALA ESTEVE, MARIO",
+      "sale": "MUNIENTE CHIOGNA, ALBERTO"
+    },
+    {
+      "min": 53,
+      "entra": "AIFUWA PETER, KELECHI KELVIN",
+      "sale": "MANTECON TEJEDOR, MARCOS"
+    },
+    {
+      "min": 53,
+      "entra": "PRIETO ALONSO, MARCOS",
+      "sale": "GOMEZ CUEVAS, RODRIGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "EXPOSITO MARTIN, PABLO",
+      "sale": "GONZALEZ CELIS, MARCO"
+    },
+    {
+      "min": 67,
+      "entra": "GONZALEZ RODRIGUEZ, DAVID",
+      "sale": "BARBA AGENJO, ADRIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "PIEDRA REVUELTA, GABRIEL": 90,
+    "ORTIZ SAMPERIO, MANUEL": 40,
+    "MANTECON TEJEDOR, MARCOS": 53,
+    "GAITAN PEREZ, PABLO": 90,
+    "SANCHEZ MEDINA, MARCO": 90,
+    "DIESTRO LANZA, RODRIGO": 90,
+    "GOMEZ CUEVAS, RODRIGO": 53,
+    "VERDEJA ASTORECA, JORGE": 90,
+    "MUNIENTE CHIOGNA, ALBERTO": 40,
+    "DÍEZ SEGUNDO, FERNANDO": 90,
+    "ECHEVARRIA LAMEIRO, LUCAS": 90,
+    "SOL SANTAMARINA, DANIEL": 50,
+    "ZAVALA ESTEVE, MARIO": 50,
+    "AIFUWA PETER, KELECHI KELVIN": 37,
+    "PRIETO ALONSO, MARCOS": 37,
+    "FERNANDEZ SAÑUDO, GERMAN": 90,
+    "GONZALEZ SORDO, ALEX": 90,
+    "VARON SANCHEZ, CESAR": 90,
+    "LOPEZ LOPEZ, IKER": 90,
+    "BARBA AGENJO, ADRIAN": 67,
+    "QUINTANA CALDERON, MARCOS": 90,
+    "MARTINEZ BUSTAMANTE, HUGO": 90,
+    "YELA GONZALEZ, MAURICIO": 90,
+    "DEL RIO PRIETO, JUAN VICENTE": 90,
+    "GONZALEZ CELIS, MARCO": 59,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 90,
+    "EXPOSITO MARTIN, PABLO": 31,
+    "GONZALEZ RODRIGUEZ, DAVID": 23
+  },
+  "portero_local": "PIEDRA REVUELTA, GABRIEL",
+  "portero_visitante": "FERNANDEZ SAÑUDO, GERMAN",
+  "dorsales_local": {
+    "PIEDRA REVUELTA, GABRIEL": 1,
+    "ORTIZ SAMPERIO, MANUEL": 2,
+    "MANTECON TEJEDOR, MARCOS": 3,
+    "GAITAN PEREZ, PABLO": 4,
+    "SANCHEZ MEDINA, MARCO": 5,
+    "DIESTRO LANZA, RODRIGO": 6,
+    "GOMEZ CUEVAS, RODRIGO": 7,
+    "VERDEJA ASTORECA, JORGE": 8,
+    "MUNIENTE CHIOGNA, ALBERTO": 9,
+    "DÍEZ SEGUNDO, FERNANDO": 10,
+    "ECHEVARRIA LAMEIRO, LUCAS": 11
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ SAÑUDO, GERMAN": 1,
+    "GONZALEZ SORDO, ALEX": 3,
+    "VARON SANCHEZ, CESAR": 6,
+    "LOPEZ LOPEZ, IKER": 8,
+    "BARBA AGENJO, ADRIAN": 10,
+    "QUINTANA CALDERON, MARCOS": 12,
+    "MARTINEZ BUSTAMANTE, HUGO": 16,
+    "YELA GONZALEZ, MAURICIO": 17,
+    "DEL RIO PRIETO, JUAN VICENTE": 19,
+    "GONZALEZ CELIS, MARCO": 20,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 21
+  },
+  "suspendidos": []
+}
