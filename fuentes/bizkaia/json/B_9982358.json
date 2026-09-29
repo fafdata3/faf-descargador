@@ -1,0 +1,261 @@
+{
+  "acta_id": "B_9982358",
+  "filename": "Acta_B_9982358.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 4,
+  "fecha": "25-10-2025",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "IBARREKO A",
+  "equipo_visitante": "ERMUA BLUES A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ALONSO FERRERO, GORKA"
+  ],
+  "estadio": "P.M. SAN IGNACIO",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "ALBERDI ETXABE, ANER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 3,
+      "jugador": "FERNANDEZ CORTES, NEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "QUINDOS LOPEZ, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "ALBERDI ETXABE, ANER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "QUINDOS LOPEZ, JULEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZALEZ GARCIA, LUIS",
+  "entrenador_visitante": "BARQUERO SIERRA, JOSE",
+  "segundo_entrenador_local": "GUERRA TUDELA, EÑAUT",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CONTRERAS LOPEZ, FEDERICO",
+  "delegado_equipo_visitante": "CID GONZALEZ, ABEL",
+  "titulares_local": [
+    "CORDOBA AGUIRRE, JORGE",
+    "ZARRAGA ABASOLO, AMETS",
+    "CONDE ZORROZUA, ERIK",
+    "QASEMI HAIDARY, ABUL FAZL",
+    "LOPEZ ORTEGA, OIER",
+    "FERNANDEZ CORTES, NEO",
+    "PEREZ GOMEZ, LIHER",
+    "FERNANDEZ EIGUREN, KAIET",
+    "PÉREZ ALONSO, ALAIN",
+    "SEGURA PUENTE, OIER",
+    "GOMEZ ETXEBARRIA, ALAIN"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ CORTIJO, ANER",
+    "GOMEZ BABARRO, JOEL",
+    "CID DELGADO, HODEI",
+    "SOLOZABAL ARAUJO, MARKEL",
+    "QUINDOS LOPEZ, JULEN",
+    "SELLAH KARALI, AYOUB",
+    "VILLAR GOMEZ, OINATZ",
+    "AZCUNE RUIZ DE EGUINO, XIKER",
+    "AGHBALOU BENSLAIMAN, OMAR",
+    "ALVEAR CORDOBA, ESTEBAN",
+    "ALBERDI ETXABE, ANER"
+  ],
+  "suplentes_local": [
+    "ATELA DIEZ, EÑAUT",
+    "ATXA ZEBERIO, DANIEL",
+    "CRISTOBAL GIL, LUKA",
+    "GOYARZUN GONZÁLEZ, URTZI",
+    "ESCAMILLA GARCIA, ANDER",
+    "LARRAURI LETE, KOLDOBIKA",
+    "FERNANDEZ SAINZ, MARTIN"
+  ],
+  "suplentes_visitante": [
+    "DE DIOS AGIRREGOMEZKORTA, KIMETZ",
+    "ORUETA GONZALEZ, MANEX",
+    "BARREIRA FERNANDES, GAIZKA",
+    "BEN DRISS OURDI, ANAS",
+    "TELLERIA ALVAREZ, BEÑAT",
+    "AKSSASS NACIRI, NAOFAL",
+    "HERNAEZ PEREZ, IBAI"
+  ],
+  "convocados_sin_jugar_local": [
+    "ATELA DIEZ, EÑAUT",
+    "ATXA ZEBERIO, DANIEL",
+    "ESCAMILLA GARCIA, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ORUETA GONZALEZ, MANEX",
+    "BARREIRA FERNANDES, GAIZKA",
+    "TELLERIA ALVAREZ, BEÑAT"
+  ],
+  "jugadores_local": [
+    "CORDOBA AGUIRRE, JORGE",
+    "ZARRAGA ABASOLO, AMETS",
+    "CONDE ZORROZUA, ERIK",
+    "QASEMI HAIDARY, ABUL FAZL",
+    "LOPEZ ORTEGA, OIER",
+    "FERNANDEZ CORTES, NEO",
+    "PEREZ GOMEZ, LIHER",
+    "FERNANDEZ EIGUREN, KAIET",
+    "PÉREZ ALONSO, ALAIN",
+    "SEGURA PUENTE, OIER",
+    "GOMEZ ETXEBARRIA, ALAIN",
+    "LARRAURI LETE, KOLDOBIKA",
+    "FERNANDEZ SAINZ, MARTIN",
+    "GOYARZUN GONZÁLEZ, URTZI",
+    "CRISTOBAL GIL, LUKA"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ CORTIJO, ANER",
+    "GOMEZ BABARRO, JOEL",
+    "CID DELGADO, HODEI",
+    "SOLOZABAL ARAUJO, MARKEL",
+    "QUINDOS LOPEZ, JULEN",
+    "SELLAH KARALI, AYOUB",
+    "VILLAR GOMEZ, OINATZ",
+    "AZCUNE RUIZ DE EGUINO, XIKER",
+    "AGHBALOU BENSLAIMAN, OMAR",
+    "ALVEAR CORDOBA, ESTEBAN",
+    "ALBERDI ETXABE, ANER",
+    "DE DIOS AGIRREGOMEZKORTA, KIMETZ",
+    "AKSSASS NACIRI, NAOFAL",
+    "HERNAEZ PEREZ, IBAI",
+    "BEN DRISS OURDI, ANAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 30,
+      "entra": "LARRAURI LETE, KOLDOBIKA",
+      "sale": "FERNANDEZ EIGUREN, KAIET"
+    },
+    {
+      "min": 40,
+      "entra": "FERNANDEZ SAINZ, MARTIN",
+      "sale": "ZARRAGA ABASOLO, AMETS"
+    },
+    {
+      "min": 59,
+      "entra": "GOYARZUN GONZÁLEZ, URTZI",
+      "sale": "GOMEZ ETXEBARRIA, ALAIN"
+    },
+    {
+      "min": 69,
+      "entra": "CRISTOBAL GIL, LUKA",
+      "sale": "PÉREZ ALONSO, ALAIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "DE DIOS AGIRREGOMEZKORTA, KIMETZ",
+      "sale": "QUINDOS LOPEZ, JULEN"
+    },
+    {
+      "min": 58,
+      "entra": "AKSSASS NACIRI, NAOFAL",
+      "sale": "AGHBALOU BENSLAIMAN, OMAR"
+    },
+    {
+      "min": 71,
+      "entra": "HERNAEZ PEREZ, IBAI",
+      "sale": "GOMEZ BABARRO, JOEL"
+    },
+    {
+      "min": 79,
+      "entra": "BEN DRISS OURDI, ANAS",
+      "sale": "VILLAR GOMEZ, OINATZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "CORDOBA AGUIRRE, JORGE": 90,
+    "ZARRAGA ABASOLO, AMETS": 40,
+    "CONDE ZORROZUA, ERIK": 90,
+    "QASEMI HAIDARY, ABUL FAZL": 90,
+    "LOPEZ ORTEGA, OIER": 90,
+    "FERNANDEZ CORTES, NEO": 90,
+    "PEREZ GOMEZ, LIHER": 90,
+    "FERNANDEZ EIGUREN, KAIET": 30,
+    "PÉREZ ALONSO, ALAIN": 69,
+    "SEGURA PUENTE, OIER": 90,
+    "GOMEZ ETXEBARRIA, ALAIN": 59,
+    "LARRAURI LETE, KOLDOBIKA": 60,
+    "FERNANDEZ SAINZ, MARTIN": 50,
+    "GOYARZUN GONZÁLEZ, URTZI": 31,
+    "CRISTOBAL GIL, LUKA": 21,
+    "FERNANDEZ CORTIJO, ANER": 90,
+    "GOMEZ BABARRO, JOEL": 71,
+    "CID DELGADO, HODEI": 90,
+    "SOLOZABAL ARAUJO, MARKEL": 90,
+    "QUINDOS LOPEZ, JULEN": 58,
+    "SELLAH KARALI, AYOUB": 90,
+    "VILLAR GOMEZ, OINATZ": 79,
+    "AZCUNE RUIZ DE EGUINO, XIKER": 90,
+    "AGHBALOU BENSLAIMAN, OMAR": 58,
+    "ALVEAR CORDOBA, ESTEBAN": 90,
+    "ALBERDI ETXABE, ANER": 90,
+    "DE DIOS AGIRREGOMEZKORTA, KIMETZ": 32,
+    "AKSSASS NACIRI, NAOFAL": 32,
+    "HERNAEZ PEREZ, IBAI": 19,
+    "BEN DRISS OURDI, ANAS": 11
+  },
+  "portero_local": "CORDOBA AGUIRRE, JORGE",
+  "portero_visitante": "FERNANDEZ CORTIJO, ANER",
+  "dorsales_local": {
+    "CORDOBA AGUIRRE, JORGE": 13,
+    "ZARRAGA ABASOLO, AMETS": 4,
+    "CONDE ZORROZUA, ERIK": 5,
+    "QASEMI HAIDARY, ABUL FAZL": 6,
+    "LOPEZ ORTEGA, OIER": 8,
+    "FERNANDEZ CORTES, NEO": 10,
+    "PEREZ GOMEZ, LIHER": 11,
+    "FERNANDEZ EIGUREN, KAIET": 17,
+    "PÉREZ ALONSO, ALAIN": 22,
+    "SEGURA PUENTE, OIER": 23,
+    "GOMEZ ETXEBARRIA, ALAIN": 24
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ CORTIJO, ANER": 1,
+    "GOMEZ BABARRO, JOEL": 2,
+    "CID DELGADO, HODEI": 3,
+    "SOLOZABAL ARAUJO, MARKEL": 4,
+    "QUINDOS LOPEZ, JULEN": 10,
+    "SELLAH KARALI, AYOUB": 11,
+    "VILLAR GOMEZ, OINATZ": 12,
+    "AZCUNE RUIZ DE EGUINO, XIKER": 16,
+    "AGHBALOU BENSLAIMAN, OMAR": 18,
+    "ALVEAR CORDOBA, ESTEBAN": 19,
+    "ALBERDI ETXABE, ANER": 25
+  },
+  "suspendidos": []
+}
