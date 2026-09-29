@@ -1,0 +1,271 @@
+{
+  "acta_id": "C_171436",
+  "filename": "Acta_C_171436.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 32,
+  "fecha": "18-05-2024",
+  "hora": "17:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "A.D. SAN AGUSTIN A",
+  "equipo_visitante": "C.D. TROPEZON B",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DE LAS HERAS BERZOSA, MIGUEL"
+  ],
+  "estadio": "Liberto Toca",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "LAINZ MORAN, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "ANDRES REDONDO, MIGUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "CALDERON SAIZ, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 64,
+      "jugador": "PANOJO PANTRIGO, ISAIAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "MARTIN GONZALEZ, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    }
+  ],
+  "entrenador_local": "MAZA AIZCORBE, FERNANDO",
+  "entrenador_visitante": "GUTIERREZ GUTIERREZ, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CASCALES TORRE, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CASCALES TORRE, JAVIER",
+  "delegado_equipo_visitante": "MARTIN GONZALEZ, JAVIER",
+  "titulares_local": [
+    "PRADA PORTERO, LUIS",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "HERRERO HERNANDO, DANIEL",
+    "VILLAMERIEL MONTES, SERGIO",
+    "CANTARERO PASCUAL, ALEJANDRO",
+    "ELOLA BADOLATO, JUAN",
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+    "ANDRES REDONDO, MIGUEL",
+    "LAINZ MORAN, NICOLAS",
+    "CASCALES TORRE, PABLO",
+    "SEBRANGO ABAD, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "DE DIEGO RUBAYO, SAUL",
+    "GONZALEZ SAIZ, IKER",
+    "blanco gonzalez, MARIO",
+    "RODEÑO DIAZ, GABRIEL",
+    "GALLO POZUETA, ALVARO",
+    "pachon garcia, DIEGO",
+    "VARON SANCHEZ, CESAR",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "DIAZ CORONA, MARCOS",
+    "GOITIA GUTIERREZ, PABLO"
+  ],
+  "suplentes_local": [
+    "MARTINEZ ORTIZ, LUCAS",
+    "PANOJO PANTRIGO, ISAIAS",
+    "ROZAS BENITO, GONZALO",
+    "SILIO FERNANDEZ, CESAR",
+    "CASCALES TORRE, DAVID"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ CAYON, BORJA",
+    "PEREZ PINILLA, EMILIO",
+    "CALDERON SAIZ, ALVARO",
+    "MARTIN RUIZ, PABLO",
+    "NOUKEU BALBAS, THIERRY STEVE"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PRADA PORTERO, LUIS",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "HERRERO HERNANDO, DANIEL",
+    "VILLAMERIEL MONTES, SERGIO",
+    "CANTARERO PASCUAL, ALEJANDRO",
+    "ELOLA BADOLATO, JUAN",
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+    "ANDRES REDONDO, MIGUEL",
+    "LAINZ MORAN, NICOLAS",
+    "CASCALES TORRE, PABLO",
+    "SEBRANGO ABAD, RODRIGO",
+    "PANOJO PANTRIGO, ISAIAS",
+    "MARTINEZ ORTIZ, LUCAS",
+    "SILIO FERNANDEZ, CESAR",
+    "ROZAS BENITO, GONZALO",
+    "CASCALES TORRE, DAVID"
+  ],
+  "jugadores_visitante": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "DE DIEGO RUBAYO, SAUL",
+    "GONZALEZ SAIZ, IKER",
+    "blanco gonzalez, MARIO",
+    "RODEÑO DIAZ, GABRIEL",
+    "GALLO POZUETA, ALVARO",
+    "pachon garcia, DIEGO",
+    "VARON SANCHEZ, CESAR",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "DIAZ CORONA, MARCOS",
+    "GOITIA GUTIERREZ, PABLO",
+    "LOPEZ CAYON, BORJA",
+    "NOUKEU BALBAS, THIERRY STEVE",
+    "PEREZ PINILLA, EMILIO",
+    "MARTIN RUIZ, PABLO",
+    "CALDERON SAIZ, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "PANOJO PANTRIGO, ISAIAS",
+      "sale": "LAINZ MORAN, NICOLAS"
+    },
+    {
+      "min": 61,
+      "entra": "MARTINEZ ORTIZ, LUCAS",
+      "sale": "CASCALES TORRE, PABLO"
+    },
+    {
+      "min": 63,
+      "entra": "SILIO FERNANDEZ, CESAR",
+      "sale": "CANTARERO PASCUAL, ALEJANDRO"
+    },
+    {
+      "min": 68,
+      "entra": "ROZAS BENITO, GONZALO",
+      "sale": "SAEZ DEL BARRIO, ALEJANDRO GUZMAN"
+    },
+    {
+      "min": 74,
+      "entra": "CASCALES TORRE, DAVID",
+      "sale": "ELOLA BADOLATO, JUAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "LOPEZ CAYON, BORJA",
+      "sale": "DE LA FUENTE CAYUSO, NICOLAS"
+    },
+    {
+      "min": 53,
+      "entra": "NOUKEU BALBAS, THIERRY STEVE",
+      "sale": "GALLO POZUETA, ALVARO"
+    },
+    {
+      "min": 53,
+      "entra": "PEREZ PINILLA, EMILIO",
+      "sale": "GONZALEZ SAIZ, IKER"
+    },
+    {
+      "min": 53,
+      "entra": "MARTIN RUIZ, PABLO",
+      "sale": "blanco gonzalez, MARIO"
+    },
+    {
+      "min": 53,
+      "entra": "CALDERON SAIZ, ALVARO",
+      "sale": "GOITIA GUTIERREZ, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PRADA PORTERO, LUIS": 90,
+    "GALLO JUANCO, JAVIER ARTURO": 90,
+    "HERRERO HERNANDO, DANIEL": 90,
+    "VILLAMERIEL MONTES, SERGIO": 90,
+    "CANTARERO PASCUAL, ALEJANDRO": 63,
+    "ELOLA BADOLATO, JUAN": 74,
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN": 68,
+    "ANDRES REDONDO, MIGUEL": 90,
+    "LAINZ MORAN, NICOLAS": 48,
+    "CASCALES TORRE, PABLO": 61,
+    "SEBRANGO ABAD, RODRIGO": 90,
+    "PANOJO PANTRIGO, ISAIAS": 42,
+    "MARTINEZ ORTIZ, LUCAS": 29,
+    "SILIO FERNANDEZ, CESAR": 27,
+    "ROZAS BENITO, GONZALO": 22,
+    "CASCALES TORRE, DAVID": 16,
+    "DE LA FUENTE CAYUSO, NICOLAS": 40,
+    "DE DIEGO RUBAYO, SAUL": 90,
+    "GONZALEZ SAIZ, IKER": 53,
+    "blanco gonzalez, MARIO": 53,
+    "RODEÑO DIAZ, GABRIEL": 90,
+    "GALLO POZUETA, ALVARO": 53,
+    "pachon garcia, DIEGO": 90,
+    "VARON SANCHEZ, CESAR": 90,
+    "DIPSE, AUGUSTIN VALENTIN": 90,
+    "DIAZ CORONA, MARCOS": 90,
+    "GOITIA GUTIERREZ, PABLO": 53,
+    "LOPEZ CAYON, BORJA": 50,
+    "NOUKEU BALBAS, THIERRY STEVE": 37,
+    "PEREZ PINILLA, EMILIO": 37,
+    "MARTIN RUIZ, PABLO": 37,
+    "CALDERON SAIZ, ALVARO": 37
+  },
+  "portero_local": "PRADA PORTERO, LUIS",
+  "portero_visitante": "DE LA FUENTE CAYUSO, NICOLAS",
+  "dorsales_local": {
+    "PRADA PORTERO, LUIS": 25,
+    "GALLO JUANCO, JAVIER ARTURO": 2,
+    "HERRERO HERNANDO, DANIEL": 3,
+    "VILLAMERIEL MONTES, SERGIO": 4,
+    "CANTARERO PASCUAL, ALEJANDRO": 5,
+    "ELOLA BADOLATO, JUAN": 8,
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN": 10,
+    "ANDRES REDONDO, MIGUEL": 15,
+    "LAINZ MORAN, NICOLAS": 20,
+    "CASCALES TORRE, PABLO": 23,
+    "SEBRANGO ABAD, RODRIGO": 34
+  },
+  "dorsales_visitante": {
+    "DE LA FUENTE CAYUSO, NICOLAS": 1,
+    "DE DIEGO RUBAYO, SAUL": 2,
+    "GONZALEZ SAIZ, IKER": 5,
+    "blanco gonzalez, MARIO": 7,
+    "RODEÑO DIAZ, GABRIEL": 10,
+    "GALLO POZUETA, ALVARO": 11,
+    "pachon garcia, DIEGO": 12,
+    "VARON SANCHEZ, CESAR": 14,
+    "DIPSE, AUGUSTIN VALENTIN": 17,
+    "DIAZ CORONA, MARCOS": 18,
+    "GOITIA GUTIERREZ, PABLO": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
