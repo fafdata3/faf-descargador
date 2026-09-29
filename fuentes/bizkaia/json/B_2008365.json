@@ -1,0 +1,273 @@
+{
+  "acta_id": "B_2008365",
+  "filename": "Acta_B_2008365.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "10-11-2024",
+  "hora": "11:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "URITARRA",
+  "equipo_visitante": "BASKAURI A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MOLINA JAÉN, MIKEL"
+  ],
+  "estadio": "ERREBALE",
+  "ciudad": "Larrabetzu",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "BUENO GARCIA DE BIKUÑA, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 12,
+      "jugador": "SANABRIA ESPINOLA, MIKEL DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "DE LA VEGA JUAREZ, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 41,
+      "jugador": "ARREGI OLABARRIETA, EKAIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 73,
+      "jugador": "LANDA AIESTA, ARATZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GAZTELU FOLLA, IORITZ",
+  "entrenador_visitante": "SANTIAGO GUTIERREZ, RUBEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARREGI OLABARRIETA, EKAIN",
+  "delegado_equipo_visitante": "GARCIA PAREDES, URKO",
+  "titulares_local": [
+    "UNDABARRENA LARRABIDE, LANDER",
+    "SAGASTI SALGADO, ENAITZ",
+    "BAGAN CORTAZAR, JULEN",
+    "ROLA BADIOLA, ASIER",
+    "SANCHEZ CUADRADO, IKER",
+    "MANDALUNIZ HERNANDEZ, UNAI",
+    "LANDA ALVAREZ, PEIO",
+    "TEJERA JAUREGIZURIA, LANDER",
+    "SOLAUN ELIZONDO, MAIU",
+    "IYAWE IYAWE, JASON AIZENOSA",
+    "FONCEA GOROSTIOLA, XIMUN"
+  ],
+  "titulares_visitante": [
+    "SANTIAGO BUITRON, EDER",
+    "FERNANDEZ MARTINEZ, ENEKO",
+    "UBIERNA CARRASCO, IBAI",
+    "BUENO GARCIA DE BIKUÑA, MIKEL",
+    "DE LA VEGA JUAREZ, DIEGO",
+    "CARO SANCHEZ, JESUS MARIA",
+    "SANABRIA ESPINOLA, MIKEL DANIEL",
+    "RODRIGO LARRAÑAGA, ANDER",
+    "MORENO RODRIGUEZ, DANEL",
+    "VIAFARA CUENU, NICOLAS",
+    "LANDA AIESTA, ARATZ"
+  ],
+  "suplentes_local": [
+    "BILBAO LOPEZ, BEÑAT",
+    "BALLARIN CARRO, ENEKO",
+    "PEREZ LARRAURI, ELEDER",
+    "UGALDE LOPEZ, KIMETZ",
+    "CASTILLA MARTINEZ, ADRIAN",
+    "IYAWE IYAWE, NOSAZENA AXEL",
+    "AGIRRE ETXEZARRETA, MARKEL"
+  ],
+  "suplentes_visitante": [
+    "ARROYO ASTOBIZA, KAIET",
+    "POUDEL NIURE, ANISH",
+    "OSINAGA FLORES, FERNANDO",
+    "URBIZU ARENAS, NACOR",
+    "GONZALEZ VEJO, AKETZA",
+    "COTORE BLANCO, MIGUEL ANGEL",
+    "GARCIA DIEGUEZ, AINGERU"
+  ],
+  "convocados_sin_jugar_local": [
+    "BILBAO LOPEZ, BEÑAT",
+    "UGALDE LOPEZ, KIMETZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "POUDEL NIURE, ANISH",
+    "COTORE BLANCO, MIGUEL ANGEL"
+  ],
+  "jugadores_local": [
+    "UNDABARRENA LARRABIDE, LANDER",
+    "SAGASTI SALGADO, ENAITZ",
+    "BAGAN CORTAZAR, JULEN",
+    "ROLA BADIOLA, ASIER",
+    "SANCHEZ CUADRADO, IKER",
+    "MANDALUNIZ HERNANDEZ, UNAI",
+    "LANDA ALVAREZ, PEIO",
+    "TEJERA JAUREGIZURIA, LANDER",
+    "SOLAUN ELIZONDO, MAIU",
+    "IYAWE IYAWE, JASON AIZENOSA",
+    "FONCEA GOROSTIOLA, XIMUN",
+    "IYAWE IYAWE, NOSAZENA AXEL",
+    "PEREZ LARRAURI, ELEDER",
+    "AGIRRE ETXEZARRETA, MARKEL",
+    "BALLARIN CARRO, ENEKO",
+    "CASTILLA MARTINEZ, ADRIAN"
+  ],
+  "jugadores_visitante": [
+    "SANTIAGO BUITRON, EDER",
+    "FERNANDEZ MARTINEZ, ENEKO",
+    "UBIERNA CARRASCO, IBAI",
+    "BUENO GARCIA DE BIKUÑA, MIKEL",
+    "DE LA VEGA JUAREZ, DIEGO",
+    "CARO SANCHEZ, JESUS MARIA",
+    "SANABRIA ESPINOLA, MIKEL DANIEL",
+    "RODRIGO LARRAÑAGA, ANDER",
+    "MORENO RODRIGUEZ, DANEL",
+    "VIAFARA CUENU, NICOLAS",
+    "LANDA AIESTA, ARATZ",
+    "OSINAGA FLORES, FERNANDO",
+    "GARCIA DIEGUEZ, AINGERU",
+    "ARROYO ASTOBIZA, KAIET",
+    "GONZALEZ VEJO, AKETZA",
+    "URBIZU ARENAS, NACOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "IYAWE IYAWE, NOSAZENA AXEL",
+      "sale": "ROLA BADIOLA, ASIER"
+    },
+    {
+      "min": 55,
+      "entra": "PEREZ LARRAURI, ELEDER",
+      "sale": "SANCHEZ CUADRADO, IKER"
+    },
+    {
+      "min": 55,
+      "entra": "AGIRRE ETXEZARRETA, MARKEL",
+      "sale": "TEJERA JAUREGIZURIA, LANDER"
+    },
+    {
+      "min": 73,
+      "entra": "BALLARIN CARRO, ENEKO",
+      "sale": "LANDA ALVAREZ, PEIO"
+    },
+    {
+      "min": 76,
+      "entra": "CASTILLA MARTINEZ, ADRIAN",
+      "sale": "FONCEA GOROSTIOLA, XIMUN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "OSINAGA FLORES, FERNANDO",
+      "sale": "SANABRIA ESPINOLA, MIKEL DANIEL"
+    },
+    {
+      "min": 55,
+      "entra": "GARCIA DIEGUEZ, AINGERU",
+      "sale": "DE LA VEGA JUAREZ, DIEGO"
+    },
+    {
+      "min": 62,
+      "entra": "ARROYO ASTOBIZA, KAIET",
+      "sale": "BUENO GARCIA DE BIKUÑA, MIKEL"
+    },
+    {
+      "min": 62,
+      "entra": "GONZALEZ VEJO, AKETZA",
+      "sale": "CARO SANCHEZ, JESUS MARIA"
+    },
+    {
+      "min": 66,
+      "entra": "URBIZU ARENAS, NACOR",
+      "sale": "RODRIGO LARRAÑAGA, ANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "UNDABARRENA LARRABIDE, LANDER": 90,
+    "SAGASTI SALGADO, ENAITZ": 90,
+    "BAGAN CORTAZAR, JULEN": 90,
+    "ROLA BADIOLA, ASIER": 40,
+    "SANCHEZ CUADRADO, IKER": 55,
+    "MANDALUNIZ HERNANDEZ, UNAI": 90,
+    "LANDA ALVAREZ, PEIO": 73,
+    "TEJERA JAUREGIZURIA, LANDER": 55,
+    "SOLAUN ELIZONDO, MAIU": 90,
+    "IYAWE IYAWE, JASON AIZENOSA": 90,
+    "FONCEA GOROSTIOLA, XIMUN": 76,
+    "IYAWE IYAWE, NOSAZENA AXEL": 50,
+    "PEREZ LARRAURI, ELEDER": 35,
+    "AGIRRE ETXEZARRETA, MARKEL": 35,
+    "BALLARIN CARRO, ENEKO": 17,
+    "CASTILLA MARTINEZ, ADRIAN": 14,
+    "SANTIAGO BUITRON, EDER": 90,
+    "FERNANDEZ MARTINEZ, ENEKO": 90,
+    "UBIERNA CARRASCO, IBAI": 90,
+    "BUENO GARCIA DE BIKUÑA, MIKEL": 62,
+    "DE LA VEGA JUAREZ, DIEGO": 55,
+    "CARO SANCHEZ, JESUS MARIA": 62,
+    "SANABRIA ESPINOLA, MIKEL DANIEL": 55,
+    "RODRIGO LARRAÑAGA, ANDER": 66,
+    "MORENO RODRIGUEZ, DANEL": 90,
+    "VIAFARA CUENU, NICOLAS": 90,
+    "LANDA AIESTA, ARATZ": 90,
+    "OSINAGA FLORES, FERNANDO": 35,
+    "GARCIA DIEGUEZ, AINGERU": 35,
+    "ARROYO ASTOBIZA, KAIET": 28,
+    "GONZALEZ VEJO, AKETZA": 28,
+    "URBIZU ARENAS, NACOR": 24
+  },
+  "portero_local": "UNDABARRENA LARRABIDE, LANDER",
+  "portero_visitante": "SANTIAGO BUITRON, EDER",
+  "dorsales_local": {
+    "UNDABARRENA LARRABIDE, LANDER": 1,
+    "SAGASTI SALGADO, ENAITZ": 4,
+    "BAGAN CORTAZAR, JULEN": 5,
+    "ROLA BADIOLA, ASIER": 6,
+    "SANCHEZ CUADRADO, IKER": 7,
+    "MANDALUNIZ HERNANDEZ, UNAI": 8,
+    "LANDA ALVAREZ, PEIO": 12,
+    "TEJERA JAUREGIZURIA, LANDER": 14,
+    "SOLAUN ELIZONDO, MAIU": 18,
+    "IYAWE IYAWE, JASON AIZENOSA": 23,
+    "FONCEA GOROSTIOLA, XIMUN": 24
+  },
+  "dorsales_visitante": {
+    "SANTIAGO BUITRON, EDER": 1,
+    "FERNANDEZ MARTINEZ, ENEKO": 3,
+    "UBIERNA CARRASCO, IBAI": 5,
+    "BUENO GARCIA DE BIKUÑA, MIKEL": 6,
+    "DE LA VEGA JUAREZ, DIEGO": 7,
+    "CARO SANCHEZ, JESUS MARIA": 9,
+    "SANABRIA ESPINOLA, MIKEL DANIEL": 10,
+    "RODRIGO LARRAÑAGA, ANDER": 11,
+    "MORENO RODRIGUEZ, DANEL": 12,
+    "VIAFARA CUENU, NICOLAS": 15,
+    "LANDA AIESTA, ARATZ": 20
+  },
+  "suspendidos": []
+}
