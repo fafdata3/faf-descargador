@@ -1,0 +1,254 @@
+{
+  "acta_id": "B_9982439",
+  "filename": "Acta_B_9982439.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 14,
+  "fecha": "11-01-2026",
+  "hora": "17:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "LOYOLA INDAUCHU A",
+  "equipo_visitante": "BERMEO A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SVET GALII, IULIAN"
+  ],
+  "estadio": "AITXARTE",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "FERNANDEZ BILBAO, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "FERNANDEZ BILBAO, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 5,
+      "jugador": "ELORRIETA ORTIZ DE ZARATE, MIKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "ESPINOSA MAGUREGI, KIMETZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MANCISIDOR DE LA FUENTE, OIER",
+  "entrenador_visitante": "OLAETA ALVAREZ, JAVIER MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BUSTAMANTE SALGADO, JON KARLOS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BUSTAMANTE SALGADO, JON KARLOS",
+  "delegado_equipo_visitante": "TAKOUISING, ALAIN BERTRAND",
+  "titulares_local": [
+    "GARCIA LOPEZ, DANIEL",
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL",
+    "KIESE NDONZUAO, SCHADRAC",
+    "GORDOA ARCE, LANDER",
+    "LOPEZ BARRIO, ANDER",
+    "COLL GONZALEZ, ANDONI",
+    "LARRINAGA UNDABEITIA, IBON",
+    "PERDON RIO, DANEL",
+    "VILLANUEVA SALTERAIN, AGER",
+    "GALÁN PÉREZ DE NANCLARES, PAUL",
+    "MARTIN ANTXIA, JON"
+  ],
+  "titulares_visitante": [
+    "HERRAN AGUADO, ANDER",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "PARDO ZABALETA, AITOR",
+    "LAPAZA URIONDO, DANEL",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "LANDETA BATIS, ANER",
+    "OLIVEIRA GARCIA, PAUL",
+    "FERNANDEZ BILBAO, ANDER",
+    "ROZA TELLETXEA, IBON",
+    "SOTO ARTETXE, EKAITZ",
+    "ARROYO BILBAO, TXABER"
+  ],
+  "suplentes_local": [
+    "CIORDIA SUBINAS, UNAI",
+    "MIJANGOS LARRABE, UNAI",
+    "TORRE MORENO, JORGE",
+    "LOMA FLAQUER, AIMAR",
+    "GOMEZ GONZALEZ, JON"
+  ],
+  "suplentes_visitante": [
+    "HULTOANA, SERGIU DUMITRU",
+    "PASCUAL CABALLERO, MIKEL",
+    "ECHEVARRIA ARAUZ, ANDER",
+    "LLANOS ANASAGASTI, ONAR",
+    "GOITIA GOIENETXEA, ANDER",
+    "MIHAILA CALOTA, MIKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "CIORDIA SUBINAS, UNAI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "LLANOS ANASAGASTI, ONAR"
+  ],
+  "jugadores_local": [
+    "GARCIA LOPEZ, DANIEL",
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL",
+    "KIESE NDONZUAO, SCHADRAC",
+    "GORDOA ARCE, LANDER",
+    "LOPEZ BARRIO, ANDER",
+    "COLL GONZALEZ, ANDONI",
+    "LARRINAGA UNDABEITIA, IBON",
+    "PERDON RIO, DANEL",
+    "VILLANUEVA SALTERAIN, AGER",
+    "GALÁN PÉREZ DE NANCLARES, PAUL",
+    "MARTIN ANTXIA, JON",
+    "MIJANGOS LARRABE, UNAI",
+    "LOMA FLAQUER, AIMAR",
+    "TORRE MORENO, JORGE",
+    "GOMEZ GONZALEZ, JON"
+  ],
+  "jugadores_visitante": [
+    "HERRAN AGUADO, ANDER",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "PARDO ZABALETA, AITOR",
+    "LAPAZA URIONDO, DANEL",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "LANDETA BATIS, ANER",
+    "OLIVEIRA GARCIA, PAUL",
+    "FERNANDEZ BILBAO, ANDER",
+    "ROZA TELLETXEA, IBON",
+    "SOTO ARTETXE, EKAITZ",
+    "ARROYO BILBAO, TXABER",
+    "GOITIA GOIENETXEA, ANDER",
+    "ECHEVARRIA ARAUZ, ANDER",
+    "MIHAILA CALOTA, MIKEL",
+    "PASCUAL CABALLERO, MIKEL",
+    "HULTOANA, SERGIU DUMITRU"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "MIJANGOS LARRABE, UNAI",
+      "sale": "GALÁN PÉREZ DE NANCLARES, PAUL"
+    },
+    {
+      "min": 41,
+      "entra": "LOMA FLAQUER, AIMAR",
+      "sale": "LARRINAGA UNDABEITIA, IBON"
+    },
+    {
+      "min": 56,
+      "entra": "TORRE MORENO, JORGE",
+      "sale": "VILLANUEVA SALTERAIN, AGER"
+    },
+    {
+      "min": 60,
+      "entra": "GOMEZ GONZALEZ, JON",
+      "sale": "KIESE NDONZUAO, SCHADRAC"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "GOITIA GOIENETXEA, ANDER",
+      "sale": "ARROYO BILBAO, TXABER"
+    },
+    {
+      "min": 50,
+      "entra": "ECHEVARRIA ARAUZ, ANDER",
+      "sale": "SOTO ARTETXE, EKAITZ"
+    },
+    {
+      "min": 64,
+      "entra": "MIHAILA CALOTA, MIKEL",
+      "sale": "ROZA TELLETXEA, IBON"
+    },
+    {
+      "min": 70,
+      "entra": "PASCUAL CABALLERO, MIKEL",
+      "sale": "LAPAZA URIONDO, DANEL"
+    },
+    {
+      "min": 70,
+      "entra": "HULTOANA, SERGIU DUMITRU",
+      "sale": "OLIVEIRA GARCIA, PAUL"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA LOPEZ, DANIEL": 90,
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL": 90,
+    "KIESE NDONZUAO, SCHADRAC": 60,
+    "GORDOA ARCE, LANDER": 90,
+    "LOPEZ BARRIO, ANDER": 90,
+    "COLL GONZALEZ, ANDONI": 90,
+    "LARRINAGA UNDABEITIA, IBON": 41,
+    "PERDON RIO, DANEL": 90,
+    "VILLANUEVA SALTERAIN, AGER": 56,
+    "GALÁN PÉREZ DE NANCLARES, PAUL": 41,
+    "MARTIN ANTXIA, JON": 90,
+    "MIJANGOS LARRABE, UNAI": 49,
+    "LOMA FLAQUER, AIMAR": 49,
+    "TORRE MORENO, JORGE": 34,
+    "GOMEZ GONZALEZ, JON": 30,
+    "HERRAN AGUADO, ANDER": 90,
+    "ESPINOSA MAGUREGI, KIMETZ": 90,
+    "PARDO ZABALETA, AITOR": 90,
+    "LAPAZA URIONDO, DANEL": 70,
+    "EL ABDELLAOUI BOUGUA, ADAM": 90,
+    "LANDETA BATIS, ANER": 90,
+    "OLIVEIRA GARCIA, PAUL": 70,
+    "FERNANDEZ BILBAO, ANDER": 90,
+    "ROZA TELLETXEA, IBON": 64,
+    "SOTO ARTETXE, EKAITZ": 50,
+    "ARROYO BILBAO, TXABER": 50,
+    "GOITIA GOIENETXEA, ANDER": 40,
+    "ECHEVARRIA ARAUZ, ANDER": 40,
+    "MIHAILA CALOTA, MIKEL": 26,
+    "PASCUAL CABALLERO, MIKEL": 20,
+    "HULTOANA, SERGIU DUMITRU": 20
+  },
+  "portero_local": "GARCIA LOPEZ, DANIEL",
+  "portero_visitante": "HERRAN AGUADO, ANDER",
+  "dorsales_local": {
+    "GARCIA LOPEZ, DANIEL": 13,
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL": 4,
+    "KIESE NDONZUAO, SCHADRAC": 5,
+    "GORDOA ARCE, LANDER": 6,
+    "LOPEZ BARRIO, ANDER": 7,
+    "COLL GONZALEZ, ANDONI": 8,
+    "LARRINAGA UNDABEITIA, IBON": 11,
+    "PERDON RIO, DANEL": 12,
+    "VILLANUEVA SALTERAIN, AGER": 14,
+    "GALÁN PÉREZ DE NANCLARES, PAUL": 18,
+    "MARTIN ANTXIA, JON": 21
+  },
+  "dorsales_visitante": {
+    "HERRAN AGUADO, ANDER": 1,
+    "ESPINOSA MAGUREGI, KIMETZ": 3,
+    "PARDO ZABALETA, AITOR": 4,
+    "LAPAZA URIONDO, DANEL": 5,
+    "EL ABDELLAOUI BOUGUA, ADAM": 6,
+    "LANDETA BATIS, ANER": 10,
+    "OLIVEIRA GARCIA, PAUL": 11,
+    "FERNANDEZ BILBAO, ANDER": 14,
+    "ROZA TELLETXEA, IBON": 15,
+    "SOTO ARTETXE, EKAITZ": 20,
+    "ARROYO BILBAO, TXABER": 24
+  },
+  "suspendidos": []
+}
