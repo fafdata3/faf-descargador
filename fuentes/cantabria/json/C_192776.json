@@ -1,0 +1,258 @@
+{
+  "acta_id": "C_192776",
+  "filename": "Acta_C_192776.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "12-10-2024",
+  "hora": "12:15",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "REAL RACING CLUB SAD A",
+  "equipo_visitante": "S.D. TEXTIL ESCUDO A",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAN MARTIN DE LA TEJA, JON"
+  ],
+  "estadio": "Inst. Nando Yosu 3",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "SOL SANTAMARINA, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "CORTABITARTE SOBERON, ILAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "MANTECON TEJEDOR, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "CORTABITARTE SOBERON, ILAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "MUNIENTE CHIOGNA, ALBERTO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [],
+  "entrenador_local": "REVUELTA SOTO, ANDRES",
+  "entrenador_visitante": "GUIJARRO GOMEZ, ALEJANDRO",
+  "segundo_entrenador_local": "ARCE DURAN, PABLO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GONZALEZ DE GODOS, ALBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GONZALEZ DE GODOS, ALBERTO",
+  "delegado_equipo_visitante": "DIAZ GARCIA, ADRIAN",
+  "titulares_local": [
+    "CABIELLES COSIO, MANUEL",
+    "ORTIZ SAMPERIO, MANUEL",
+    "MANTECON TEJEDOR, MARCOS",
+    "SOL SANTAMARINA, DANIEL",
+    "DIESTRO LANZA, RODRIGO",
+    "ZAVALA ESTEVE, MARIO",
+    "VERDEJA ASTORECA, JORGE",
+    "CORTABITARTE SOBERON, ILAN",
+    "ORIA OCERIN, PABLO",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SANCHEZ MEDINA, MARCO"
+  ],
+  "titulares_visitante": [
+    "CELIS CELIS, RUBEN",
+    "CASO SIERRA, JOEL",
+    "ACEBAL PALII, LEO",
+    "CORPA PEREDA, MARIO",
+    "BARREDA ARCE, NICOLAS",
+    "LOPEZ ORTEGA, MANUEL",
+    "ECHEVARRIA PACHECO, JAVIER",
+    "CADAVIECO IBAÑEZ, ENRIQUE",
+    "GOMEZ BEJARANO, ADRIAN",
+    "SAIZ BORBOLLA, PEDRO",
+    "CRUZ GONZALEZ, ALVARO"
+  ],
+  "suplentes_local": [
+    "PIEDRA REVUELTA, GABRIEL",
+    "PRIETO ALONSO, MARCOS",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "GOMEZ CUEVAS, RODRIGO",
+    "MUNIENTE CHIOGNA, ALBERTO"
+  ],
+  "suplentes_visitante": [
+    "COBO MACHO, MATIAS",
+    "Herrera Uberti, IKER",
+    "GONZALEZ GARCIA, ALEX",
+    "CALDERON ELOURAD, HUGO",
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "PIEDRA REVUELTA, GABRIEL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CABIELLES COSIO, MANUEL",
+    "ORTIZ SAMPERIO, MANUEL",
+    "MANTECON TEJEDOR, MARCOS",
+    "SOL SANTAMARINA, DANIEL",
+    "DIESTRO LANZA, RODRIGO",
+    "ZAVALA ESTEVE, MARIO",
+    "VERDEJA ASTORECA, JORGE",
+    "CORTABITARTE SOBERON, ILAN",
+    "ORIA OCERIN, PABLO",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SANCHEZ MEDINA, MARCO",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "GOMEZ CUEVAS, RODRIGO",
+    "MUNIENTE CHIOGNA, ALBERTO",
+    "PRIETO ALONSO, MARCOS"
+  ],
+  "jugadores_visitante": [
+    "CELIS CELIS, RUBEN",
+    "CASO SIERRA, JOEL",
+    "ACEBAL PALII, LEO",
+    "CORPA PEREDA, MARIO",
+    "BARREDA ARCE, NICOLAS",
+    "LOPEZ ORTEGA, MANUEL",
+    "ECHEVARRIA PACHECO, JAVIER",
+    "CADAVIECO IBAÑEZ, ENRIQUE",
+    "GOMEZ BEJARANO, ADRIAN",
+    "SAIZ BORBOLLA, PEDRO",
+    "CRUZ GONZALEZ, ALVARO",
+    "COBO MACHO, MATIAS",
+    "CALDERON ELOURAD, HUGO",
+    "Herrera Uberti, IKER",
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+    "GONZALEZ GARCIA, ALEX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "TRESGALLO RODRIGUEZ, ULISES",
+      "sale": "ZAVALA ESTEVE, MARIO"
+    },
+    {
+      "min": 40,
+      "entra": "GOMEZ CUEVAS, RODRIGO",
+      "sale": "COROZO TARIRA, SAMUEL LENIN"
+    },
+    {
+      "min": 50,
+      "entra": "MUNIENTE CHIOGNA, ALBERTO",
+      "sale": "ORTIZ SAMPERIO, MANUEL"
+    },
+    {
+      "min": 50,
+      "entra": "PRIETO ALONSO, MARCOS",
+      "sale": "ORIA OCERIN, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "COBO MACHO, MATIAS",
+      "sale": "CELIS CELIS, RUBEN"
+    },
+    {
+      "min": 43,
+      "entra": "CALDERON ELOURAD, HUGO",
+      "sale": "ACEBAL PALII, LEO"
+    },
+    {
+      "min": 48,
+      "entra": "Herrera Uberti, IKER",
+      "sale": "CRUZ GONZALEZ, ALVARO"
+    },
+    {
+      "min": 58,
+      "entra": "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+      "sale": "CASO SIERRA, JOEL"
+    },
+    {
+      "min": 61,
+      "entra": "GONZALEZ GARCIA, ALEX",
+      "sale": "GOMEZ BEJARANO, ADRIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "CABIELLES COSIO, MANUEL": 90,
+    "ORTIZ SAMPERIO, MANUEL": 50,
+    "MANTECON TEJEDOR, MARCOS": 90,
+    "SOL SANTAMARINA, DANIEL": 90,
+    "DIESTRO LANZA, RODRIGO": 90,
+    "ZAVALA ESTEVE, MARIO": 40,
+    "VERDEJA ASTORECA, JORGE": 90,
+    "CORTABITARTE SOBERON, ILAN": 90,
+    "ORIA OCERIN, PABLO": 50,
+    "COROZO TARIRA, SAMUEL LENIN": 40,
+    "SANCHEZ MEDINA, MARCO": 90,
+    "TRESGALLO RODRIGUEZ, ULISES": 50,
+    "GOMEZ CUEVAS, RODRIGO": 50,
+    "MUNIENTE CHIOGNA, ALBERTO": 40,
+    "PRIETO ALONSO, MARCOS": 40,
+    "CELIS CELIS, RUBEN": 40,
+    "CASO SIERRA, JOEL": 58,
+    "ACEBAL PALII, LEO": 43,
+    "CORPA PEREDA, MARIO": 90,
+    "BARREDA ARCE, NICOLAS": 90,
+    "LOPEZ ORTEGA, MANUEL": 90,
+    "ECHEVARRIA PACHECO, JAVIER": 90,
+    "CADAVIECO IBAÑEZ, ENRIQUE": 90,
+    "GOMEZ BEJARANO, ADRIAN": 61,
+    "SAIZ BORBOLLA, PEDRO": 90,
+    "CRUZ GONZALEZ, ALVARO": 48,
+    "COBO MACHO, MATIAS": 50,
+    "CALDERON ELOURAD, HUGO": 47,
+    "Herrera Uberti, IKER": 42,
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL": 32,
+    "GONZALEZ GARCIA, ALEX": 29
+  },
+  "portero_local": "CABIELLES COSIO, MANUEL",
+  "portero_visitante": "CELIS CELIS, RUBEN",
+  "dorsales_local": {
+    "CABIELLES COSIO, MANUEL": 1,
+    "ORTIZ SAMPERIO, MANUEL": 2,
+    "MANTECON TEJEDOR, MARCOS": 3,
+    "SOL SANTAMARINA, DANIEL": 4,
+    "DIESTRO LANZA, RODRIGO": 6,
+    "ZAVALA ESTEVE, MARIO": 7,
+    "VERDEJA ASTORECA, JORGE": 8,
+    "CORTABITARTE SOBERON, ILAN": 9,
+    "ORIA OCERIN, PABLO": 10,
+    "COROZO TARIRA, SAMUEL LENIN": 11,
+    "SANCHEZ MEDINA, MARCO": 20
+  },
+  "dorsales_visitante": {
+    "CELIS CELIS, RUBEN": 13,
+    "CASO SIERRA, JOEL": 2,
+    "ACEBAL PALII, LEO": 3,
+    "CORPA PEREDA, MARIO": 4,
+    "BARREDA ARCE, NICOLAS": 5,
+    "LOPEZ ORTEGA, MANUEL": 6,
+    "ECHEVARRIA PACHECO, JAVIER": 7,
+    "CADAVIECO IBAÑEZ, ENRIQUE": 8,
+    "GOMEZ BEJARANO, ADRIAN": 9,
+    "SAIZ BORBOLLA, PEDRO": 10,
+    "CRUZ GONZALEZ, ALVARO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
