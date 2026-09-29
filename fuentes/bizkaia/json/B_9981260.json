@@ -1,0 +1,288 @@
+{
+  "acta_id": "B_9981260",
+  "filename": "Acta_B_9981260.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "13-12-2025",
+  "hora": "10:50",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "SPORTING DE LUTXANA A",
+  "equipo_visitante": "BARAKALDO B",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BOO ETXEBARRIA, OIHAN"
+  ],
+  "estadio": "SERRALTA",
+  "ciudad": "LUTXANA - BARAKALDO",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "HERRERA IGLESIAS, AGER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "BLANCO MOLLEDA, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "MIGUEZ GARCIA, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "BLANCO MOLLEDA, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 56,
+      "jugador": "BRINGAS FREIRE, BINGEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "TEMPLADO BARROSO, ISAÍ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ZULAICA GONZALEZ, DIEGO",
+  "entrenador_visitante": "SANCHEZ GUTIERREZ, JOSE MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ HIDALGO, MARKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ HIDALGO, MARKEL",
+  "delegado_equipo_visitante": "GARCIA CRESPO, JOSE MARIA",
+  "titulares_local": [
+    "MATA GONZALEZ, HUGO",
+    "SANCHEZ TEMPLADO, JULEN",
+    "MAQUEDA GOMEZ, MARKEL",
+    "BRINGAS FREIRE, BINGEN",
+    "CONTRERAS MURIEL, MICHAEL",
+    "RODRÍGUEZ PÉREZ, OIER",
+    "MIGUEZ GARCIA, AIMAR",
+    "BLANCO MOLLEDA, OIER",
+    "SANCHEZ LOPEZ, GORKA",
+    "FERNÁNDEZ FERNÁNDEZ, TELMO",
+    "VARELA REYES, JULIO CESAR"
+  ],
+  "titulares_visitante": [
+    "MARTIN MARTIN, AIMAR",
+    "VAZQUEZ AGUIRRE, KOLDO",
+    "LORENZO OTERO, ERIK",
+    "ATXURRA MONTES, MARKEL",
+    "ROMERA OLIVENZA, JULEN",
+    "HERRERA IGLESIAS, AGER",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "CORMAN LOPEZ, UNAI",
+    "GOIRI UGARTE, ALAIN",
+    "LOPEZ MARTINEZ, AMETS",
+    "MERELES GONZALEZ, MAXWELL MANUEL"
+  ],
+  "suplentes_local": [
+    "PEDRAZA CASTRO, DIEGO ROBERTO",
+    "LAGE GARIN, XABIER",
+    "SILVA GARCIA, JAGOBA",
+    "TEMPLADO BARROSO, ISAÍ",
+    "AYALA SOLORZANO, KESSLER",
+    "KINTANA ARRANZ, UNAX",
+    "BOBBIO LAZO, RODRIGO"
+  ],
+  "suplentes_visitante": [
+    "ARTETA CRUZ, ARITZ",
+    "SANTOS DOTOR, SENDOA",
+    "MONTERO SARMIENTO, MIKEL ALEXANDER",
+    "GARCIA ARNAIZ, ENEKO",
+    "PIÑOL CONDE, ANDONI",
+    "AXPE GONZALEZ, ENEKO",
+    "CAPITAN ORCIANI, ALAIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "PEDRAZA CASTRO, DIEGO ROBERTO",
+    "BOBBIO LAZO, RODRIGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ARTETA CRUZ, ARITZ",
+    "CAPITAN ORCIANI, ALAIN"
+  ],
+  "jugadores_local": [
+    "MATA GONZALEZ, HUGO",
+    "SANCHEZ TEMPLADO, JULEN",
+    "MAQUEDA GOMEZ, MARKEL",
+    "BRINGAS FREIRE, BINGEN",
+    "CONTRERAS MURIEL, MICHAEL",
+    "RODRÍGUEZ PÉREZ, OIER",
+    "MIGUEZ GARCIA, AIMAR",
+    "BLANCO MOLLEDA, OIER",
+    "SANCHEZ LOPEZ, GORKA",
+    "FERNÁNDEZ FERNÁNDEZ, TELMO",
+    "VARELA REYES, JULIO CESAR",
+    "SILVA GARCIA, JAGOBA",
+    "KINTANA ARRANZ, UNAX",
+    "TEMPLADO BARROSO, ISAÍ",
+    "LAGE GARIN, XABIER",
+    "AYALA SOLORZANO, KESSLER"
+  ],
+  "jugadores_visitante": [
+    "MARTIN MARTIN, AIMAR",
+    "VAZQUEZ AGUIRRE, KOLDO",
+    "LORENZO OTERO, ERIK",
+    "ATXURRA MONTES, MARKEL",
+    "ROMERA OLIVENZA, JULEN",
+    "HERRERA IGLESIAS, AGER",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "CORMAN LOPEZ, UNAI",
+    "GOIRI UGARTE, ALAIN",
+    "LOPEZ MARTINEZ, AMETS",
+    "MERELES GONZALEZ, MAXWELL MANUEL",
+    "PIÑOL CONDE, ANDONI",
+    "AXPE GONZALEZ, ENEKO",
+    "GARCIA ARNAIZ, ENEKO",
+    "MONTERO SARMIENTO, MIKEL ALEXANDER",
+    "SANTOS DOTOR, SENDOA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SILVA GARCIA, JAGOBA",
+      "sale": "VARELA REYES, JULIO CESAR"
+    },
+    {
+      "min": 59,
+      "entra": "KINTANA ARRANZ, UNAX",
+      "sale": "CONTRERAS MURIEL, MICHAEL"
+    },
+    {
+      "min": 59,
+      "entra": "TEMPLADO BARROSO, ISAÍ",
+      "sale": "FERNÁNDEZ FERNÁNDEZ, TELMO"
+    },
+    {
+      "min": 64,
+      "entra": "LAGE GARIN, XABIER",
+      "sale": "SANCHEZ LOPEZ, GORKA"
+    },
+    {
+      "min": 76,
+      "entra": "AYALA SOLORZANO, KESSLER",
+      "sale": "RODRÍGUEZ PÉREZ, OIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "PIÑOL CONDE, ANDONI",
+      "sale": "HERRERA IGLESIAS, AGER"
+    },
+    {
+      "min": 52,
+      "entra": "AXPE GONZALEZ, ENEKO",
+      "sale": "LOPEZ MARTINEZ, AMETS"
+    },
+    {
+      "min": 62,
+      "entra": "GARCIA ARNAIZ, ENEKO",
+      "sale": "MAQUEDA HERNANDEZ, IZAN"
+    },
+    {
+      "min": 62,
+      "entra": "MONTERO SARMIENTO, MIKEL ALEXANDER",
+      "sale": "GOIRI UGARTE, ALAIN"
+    },
+    {
+      "min": 71,
+      "entra": "SANTOS DOTOR, SENDOA",
+      "sale": "VAZQUEZ AGUIRRE, KOLDO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MATA GONZALEZ, HUGO": 90,
+    "SANCHEZ TEMPLADO, JULEN": 90,
+    "MAQUEDA GOMEZ, MARKEL": 90,
+    "BRINGAS FREIRE, BINGEN": 90,
+    "CONTRERAS MURIEL, MICHAEL": 59,
+    "RODRÍGUEZ PÉREZ, OIER": 76,
+    "MIGUEZ GARCIA, AIMAR": 90,
+    "BLANCO MOLLEDA, OIER": 90,
+    "SANCHEZ LOPEZ, GORKA": 64,
+    "FERNÁNDEZ FERNÁNDEZ, TELMO": 59,
+    "VARELA REYES, JULIO CESAR": 40,
+    "SILVA GARCIA, JAGOBA": 50,
+    "KINTANA ARRANZ, UNAX": 31,
+    "TEMPLADO BARROSO, ISAÍ": 31,
+    "LAGE GARIN, XABIER": 26,
+    "AYALA SOLORZANO, KESSLER": 14,
+    "MARTIN MARTIN, AIMAR": 90,
+    "VAZQUEZ AGUIRRE, KOLDO": 71,
+    "LORENZO OTERO, ERIK": 90,
+    "ATXURRA MONTES, MARKEL": 90,
+    "ROMERA OLIVENZA, JULEN": 90,
+    "HERRERA IGLESIAS, AGER": 52,
+    "MAQUEDA HERNANDEZ, IZAN": 62,
+    "CORMAN LOPEZ, UNAI": 90,
+    "GOIRI UGARTE, ALAIN": 62,
+    "LOPEZ MARTINEZ, AMETS": 52,
+    "MERELES GONZALEZ, MAXWELL MANUEL": 90,
+    "PIÑOL CONDE, ANDONI": 38,
+    "AXPE GONZALEZ, ENEKO": 38,
+    "GARCIA ARNAIZ, ENEKO": 28,
+    "MONTERO SARMIENTO, MIKEL ALEXANDER": 28,
+    "SANTOS DOTOR, SENDOA": 19
+  },
+  "portero_local": "MATA GONZALEZ, HUGO",
+  "portero_visitante": "MARTIN MARTIN, AIMAR",
+  "dorsales_local": {
+    "MATA GONZALEZ, HUGO": 1,
+    "SANCHEZ TEMPLADO, JULEN": 2,
+    "MAQUEDA GOMEZ, MARKEL": 4,
+    "BRINGAS FREIRE, BINGEN": 5,
+    "CONTRERAS MURIEL, MICHAEL": 6,
+    "RODRÍGUEZ PÉREZ, OIER": 8,
+    "MIGUEZ GARCIA, AIMAR": 9,
+    "BLANCO MOLLEDA, OIER": 17,
+    "SANCHEZ LOPEZ, GORKA": 19,
+    "FERNÁNDEZ FERNÁNDEZ, TELMO": 20,
+    "VARELA REYES, JULIO CESAR": 22
+  },
+  "dorsales_visitante": {
+    "MARTIN MARTIN, AIMAR": 1,
+    "VAZQUEZ AGUIRRE, KOLDO": 2,
+    "LORENZO OTERO, ERIK": 3,
+    "ATXURRA MONTES, MARKEL": 4,
+    "ROMERA OLIVENZA, JULEN": 5,
+    "HERRERA IGLESIAS, AGER": 6,
+    "MAQUEDA HERNANDEZ, IZAN": 10,
+    "CORMAN LOPEZ, UNAI": 11,
+    "GOIRI UGARTE, ALAIN": 17,
+    "LOPEZ MARTINEZ, AMETS": 23,
+    "MERELES GONZALEZ, MAXWELL MANUEL": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
