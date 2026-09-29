@@ -1,0 +1,238 @@
+{
+  "acta_id": "C_173176",
+  "filename": "Acta_C_173176.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 4,
+  "fecha": "14-10-2023",
+  "hora": "16:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "ESC.MPAL. SANTANDER A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZALEZ PULIDO, ALVARO"
+  ],
+  "estadio": "El Regimiento",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "SEVERINO HERRERA, ADRIAN DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "GORI GORI, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "GOMEZ CABIELLES, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 59,
+      "jugador": "DOMINGUEZ RUIZ, SAMUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "HERNÁNDEZ ÁLVAREZ, GAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "COSTALES ALVAREZ, RICARDO",
+  "entrenador_visitante": "CICERO MONTES, RAFAEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "HERRERA DIAZ, SALVADOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HERRERA DIAZ, SALVADOR",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "SAINZ GARCÍA, CESÁR",
+    "LAVIN VELARDE, MARCOS",
+    "LOPEZ SAN MARTIN, HUGO",
+    "PEREZ DEL TIO, LUCAS",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "CAMPELO MARTINEZ, PABLO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "LOPEZ LAMEIRO, MATEO",
+    "FERNANDEZ DE DIEGO, ALVARO"
+  ],
+  "titulares_visitante": [
+    "MOROGLU OYARBIDE, LEO",
+    "CRESPO SÁINZ, ISIDRO",
+    "CRESPO SÁINZ, ÁNGEL",
+    "BARREDA MENDEZ, EDGAR",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "VELARDE VEGA, HECTOR",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "CRUZADO CUESTA, FABIO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "HORNERO PEREZ, ROMAN",
+    "HERRERA RUIZ, ADAHY"
+  ],
+  "suplentes_local": [
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "DEL OJO HERRERO, LUCA",
+    "CARNICERO SANZ, MIGUEL ANGEL",
+    "GORI GORI, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "PEREDA MONJE, FERNANDO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SAINZ GARCÍA, CESÁR",
+    "LAVIN VELARDE, MARCOS",
+    "LOPEZ SAN MARTIN, HUGO",
+    "PEREZ DEL TIO, LUCAS",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "CAMPELO MARTINEZ, PABLO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "LOPEZ LAMEIRO, MATEO",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "CARNICERO SANZ, MIGUEL ANGEL",
+    "DEL OJO HERRERO, LUCA",
+    "GORI GORI, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "MOROGLU OYARBIDE, LEO",
+    "CRESPO SÁINZ, ISIDRO",
+    "CRESPO SÁINZ, ÁNGEL",
+    "BARREDA MENDEZ, EDGAR",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "VELARDE VEGA, HECTOR",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "CRUZADO CUESTA, FABIO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "HORNERO PEREZ, ROMAN",
+    "HERRERA RUIZ, ADAHY",
+    "PEREDA MONJE, FERNANDO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "DE LA FUENTE GUILLARON, MARCOS",
+      "sale": "SAINZ GARCÍA, CESÁR"
+    },
+    {
+      "min": 48,
+      "entra": "CARNICERO SANZ, MIGUEL ANGEL",
+      "sale": "LOPEZ SAN MARTIN, HUGO"
+    },
+    {
+      "min": 49,
+      "entra": "DEL OJO HERRERO, LUCA",
+      "sale": "FERNANDEZ DE DIEGO, ALVARO"
+    },
+    {
+      "min": 55,
+      "entra": "GORI GORI, DANIEL",
+      "sale": "COROZO TARIRA, SAMUEL LENIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 48,
+      "entra": "PEREDA MONJE, FERNANDO",
+      "sale": "BARREDA MENDEZ, EDGAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "SAINZ GARCÍA, CESÁR": 35,
+    "LAVIN VELARDE, MARCOS": 90,
+    "LOPEZ SAN MARTIN, HUGO": 48,
+    "PEREZ DEL TIO, LUCAS": 90,
+    "DOMINGUEZ RUIZ, SAMUEL": 90,
+    "COROZO TARIRA, SAMUEL LENIN": 55,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 90,
+    "CAMPELO MARTINEZ, PABLO": 90,
+    "MARTINEZ IBAÑEZ, LUCAS": 90,
+    "LOPEZ LAMEIRO, MATEO": 90,
+    "FERNANDEZ DE DIEGO, ALVARO": 49,
+    "DE LA FUENTE GUILLARON, MARCOS": 55,
+    "CARNICERO SANZ, MIGUEL ANGEL": 42,
+    "DEL OJO HERRERO, LUCA": 41,
+    "GORI GORI, DANIEL": 35,
+    "MOROGLU OYARBIDE, LEO": 90,
+    "CRESPO SÁINZ, ISIDRO": 90,
+    "CRESPO SÁINZ, ÁNGEL": 90,
+    "BARREDA MENDEZ, EDGAR": 48,
+    "GOMEZ CABIELLES, ALEJANDRO": 90,
+    "VELARDE VEGA, HECTOR": 90,
+    "TRESGALLO RODRIGUEZ, ULISES": 90,
+    "CRUZADO CUESTA, FABIO": 90,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 90,
+    "HORNERO PEREZ, ROMAN": 90,
+    "HERRERA RUIZ, ADAHY": 90,
+    "PEREDA MONJE, FERNANDO": 42
+  },
+  "portero_local": "SAINZ GARCÍA, CESÁR",
+  "portero_visitante": "MOROGLU OYARBIDE, LEO",
+  "dorsales_local": {
+    "SAINZ GARCÍA, CESÁR": 13,
+    "LAVIN VELARDE, MARCOS": 3,
+    "LOPEZ SAN MARTIN, HUGO": 4,
+    "PEREZ DEL TIO, LUCAS": 5,
+    "DOMINGUEZ RUIZ, SAMUEL": 6,
+    "COROZO TARIRA, SAMUEL LENIN": 7,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 8,
+    "CAMPELO MARTINEZ, PABLO": 9,
+    "MARTINEZ IBAÑEZ, LUCAS": 10,
+    "LOPEZ LAMEIRO, MATEO": 11,
+    "FERNANDEZ DE DIEGO, ALVARO": 21
+  },
+  "dorsales_visitante": {
+    "MOROGLU OYARBIDE, LEO": 1,
+    "CRESPO SÁINZ, ISIDRO": 4,
+    "CRESPO SÁINZ, ÁNGEL": 5,
+    "BARREDA MENDEZ, EDGAR": 6,
+    "GOMEZ CABIELLES, ALEJANDRO": 7,
+    "VELARDE VEGA, HECTOR": 9,
+    "TRESGALLO RODRIGUEZ, ULISES": 10,
+    "CRUZADO CUESTA, FABIO": 11,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 15,
+    "HORNERO PEREZ, ROMAN": 18,
+    "HERRERA RUIZ, ADAHY": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
