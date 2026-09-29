@@ -1,0 +1,278 @@
+{
+  "acta_id": "B_9981176",
+  "filename": "Acta_B_9981176.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "04-10-2025",
+  "hora": "15:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "RETUERTO B",
+  "equipo_visitante": "ITZUBALTZETA",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "VILLAMAYOR AMADO, IKER"
+  ],
+  "estadio": "IBARRETA",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 47,
+      "jugador": "QUINTANA NARDIZ, AIMAR ANDONI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "QUINTANA NARDIZ, AIMAR ANDONI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "CASCO SANTOS, ANDERSON ARIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 19,
+      "jugador": "MENDOZA DE TRINCHERIA, MIKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "INÉS FERNÁNDEZ, GORKA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "YANES INORIZA, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARZON PEÑARANDA, RUBEN",
+  "entrenador_visitante": "BARRENETXEA ATXURRA, IÑIGO",
+  "segundo_entrenador_local": "GUINEA CRIADO, ALEX",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LATORRE BLANCO, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GOMEZ GARRIDO, JON",
+  "titulares_local": [
+    "MARTIN DIAZ, LUCAS",
+    "VAZQUEZ MENDEZ, ANARTZ",
+    "GONZALEZ GARCIA, IBAI",
+    "ISTURIZ MARTINEZ, UNAX",
+    "NUÑEZ BUSTO, JON",
+    "SALAZAR BARNESE, IKER",
+    "PRADO ASPIAZU, AIMAR",
+    "SANTAMARIA VALDUVIECO, JON",
+    "FERNANDEZ BIDAURRAZAGA, XABIER",
+    "MENDOZA DE TRINCHERIA, MIKEL",
+    "BLAYA GARCIA, GORKA"
+  ],
+  "titulares_visitante": [
+    "ALFAYE SANZ, DANEL",
+    "EXTREMO RUIZ, BEÑAT",
+    "JAKA ZABALA, JULEN",
+    "MALO DE MOLINA TAIBO, GONZALO",
+    "PUERTAS BULNES, EDER",
+    "ABADIN SALOMON, IKER",
+    "ARANAGA SANCHEZ, UNAI",
+    "ELORRIAGA ETXENIKE, LUKEN",
+    "QUINTANA NARDIZ, AIMAR ANDONI",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "URQUIZA CORDERO, BEÑAT"
+  ],
+  "suplentes_local": [
+    "SOUSA MARTIN, AIMAR",
+    "GONZALEZ RUIZ, AITZOL",
+    "GARCIA FERNANDEZ, ADRIAN ENZO",
+    "PEREZ GARCIA, ASIER",
+    "SAMBU VIEIRA, OIER OZIL",
+    "CASCO SANTOS, ANDERSON ARIEL"
+  ],
+  "suplentes_visitante": [
+    "MENDEZ ROSALES, JUAN PABLO",
+    "VIVANCO MIGUEL, EDER",
+    "INÉS FERNÁNDEZ, GORKA",
+    "ODRIOZOLA SANCHEZ, JON",
+    "FERNANDEZ MAS, PEDRO",
+    "YANES INORIZA, JON",
+    "NOCEDAL ARECHAVALA, AITOR"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA FERNANDEZ, ADRIAN ENZO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MENDEZ ROSALES, JUAN PABLO",
+    "ODRIOZOLA SANCHEZ, JON"
+  ],
+  "jugadores_local": [
+    "MARTIN DIAZ, LUCAS",
+    "VAZQUEZ MENDEZ, ANARTZ",
+    "GONZALEZ GARCIA, IBAI",
+    "ISTURIZ MARTINEZ, UNAX",
+    "NUÑEZ BUSTO, JON",
+    "SALAZAR BARNESE, IKER",
+    "PRADO ASPIAZU, AIMAR",
+    "SANTAMARIA VALDUVIECO, JON",
+    "FERNANDEZ BIDAURRAZAGA, XABIER",
+    "MENDOZA DE TRINCHERIA, MIKEL",
+    "BLAYA GARCIA, GORKA",
+    "CASCO SANTOS, ANDERSON ARIEL",
+    "GONZALEZ RUIZ, AITZOL",
+    "SAMBU VIEIRA, OIER OZIL",
+    "PEREZ GARCIA, ASIER",
+    "SOUSA MARTIN, AIMAR"
+  ],
+  "jugadores_visitante": [
+    "ALFAYE SANZ, DANEL",
+    "EXTREMO RUIZ, BEÑAT",
+    "JAKA ZABALA, JULEN",
+    "MALO DE MOLINA TAIBO, GONZALO",
+    "PUERTAS BULNES, EDER",
+    "ABADIN SALOMON, IKER",
+    "ARANAGA SANCHEZ, UNAI",
+    "ELORRIAGA ETXENIKE, LUKEN",
+    "QUINTANA NARDIZ, AIMAR ANDONI",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "URQUIZA CORDERO, BEÑAT",
+    "INÉS FERNÁNDEZ, GORKA",
+    "YANES INORIZA, JON",
+    "NOCEDAL ARECHAVALA, AITOR",
+    "VIVANCO MIGUEL, EDER",
+    "FERNANDEZ MAS, PEDRO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "CASCO SANTOS, ANDERSON ARIEL",
+      "sale": "MENDOZA DE TRINCHERIA, MIKEL"
+    },
+    {
+      "min": 53,
+      "entra": "GONZALEZ RUIZ, AITZOL",
+      "sale": "BLAYA GARCIA, GORKA"
+    },
+    {
+      "min": 53,
+      "entra": "SAMBU VIEIRA, OIER OZIL",
+      "sale": "FERNANDEZ BIDAURRAZAGA, XABIER"
+    },
+    {
+      "min": 61,
+      "entra": "PEREZ GARCIA, ASIER",
+      "sale": "ISTURIZ MARTINEZ, UNAX"
+    },
+    {
+      "min": 61,
+      "entra": "SOUSA MARTIN, AIMAR",
+      "sale": "VAZQUEZ MENDEZ, ANARTZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "INÉS FERNÁNDEZ, GORKA",
+      "sale": "PUERTAS BULNES, EDER"
+    },
+    {
+      "min": 53,
+      "entra": "YANES INORIZA, JON",
+      "sale": "URQUIZA CORDERO, BEÑAT"
+    },
+    {
+      "min": 58,
+      "entra": "NOCEDAL ARECHAVALA, AITOR",
+      "sale": "ELORRIAGA ETXENIKE, LUKEN"
+    },
+    {
+      "min": 58,
+      "entra": "VIVANCO MIGUEL, EDER",
+      "sale": "ARANAGA SANCHEZ, UNAI"
+    },
+    {
+      "min": 74,
+      "entra": "FERNANDEZ MAS, PEDRO",
+      "sale": "ITURRIZAGA ALONSO, KOLDO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTIN DIAZ, LUCAS": 90,
+    "VAZQUEZ MENDEZ, ANARTZ": 61,
+    "GONZALEZ GARCIA, IBAI": 90,
+    "ISTURIZ MARTINEZ, UNAX": 61,
+    "NUÑEZ BUSTO, JON": 90,
+    "SALAZAR BARNESE, IKER": 90,
+    "PRADO ASPIAZU, AIMAR": 90,
+    "SANTAMARIA VALDUVIECO, JON": 90,
+    "FERNANDEZ BIDAURRAZAGA, XABIER": 53,
+    "MENDOZA DE TRINCHERIA, MIKEL": 40,
+    "BLAYA GARCIA, GORKA": 53,
+    "CASCO SANTOS, ANDERSON ARIEL": 50,
+    "GONZALEZ RUIZ, AITZOL": 37,
+    "SAMBU VIEIRA, OIER OZIL": 37,
+    "PEREZ GARCIA, ASIER": 29,
+    "SOUSA MARTIN, AIMAR": 29,
+    "ALFAYE SANZ, DANEL": 90,
+    "EXTREMO RUIZ, BEÑAT": 90,
+    "JAKA ZABALA, JULEN": 90,
+    "MALO DE MOLINA TAIBO, GONZALO": 90,
+    "PUERTAS BULNES, EDER": 53,
+    "ABADIN SALOMON, IKER": 90,
+    "ARANAGA SANCHEZ, UNAI": 58,
+    "ELORRIAGA ETXENIKE, LUKEN": 58,
+    "QUINTANA NARDIZ, AIMAR ANDONI": 90,
+    "ITURRIZAGA ALONSO, KOLDO": 74,
+    "URQUIZA CORDERO, BEÑAT": 53,
+    "INÉS FERNÁNDEZ, GORKA": 37,
+    "YANES INORIZA, JON": 37,
+    "NOCEDAL ARECHAVALA, AITOR": 32,
+    "VIVANCO MIGUEL, EDER": 32,
+    "FERNANDEZ MAS, PEDRO": 16
+  },
+  "portero_local": "MARTIN DIAZ, LUCAS",
+  "portero_visitante": "ALFAYE SANZ, DANEL",
+  "dorsales_local": {
+    "MARTIN DIAZ, LUCAS": 1,
+    "VAZQUEZ MENDEZ, ANARTZ": 2,
+    "GONZALEZ GARCIA, IBAI": 5,
+    "ISTURIZ MARTINEZ, UNAX": 8,
+    "NUÑEZ BUSTO, JON": 9,
+    "SALAZAR BARNESE, IKER": 12,
+    "PRADO ASPIAZU, AIMAR": 14,
+    "SANTAMARIA VALDUVIECO, JON": 16,
+    "FERNANDEZ BIDAURRAZAGA, XABIER": 18,
+    "MENDOZA DE TRINCHERIA, MIKEL": 21,
+    "BLAYA GARCIA, GORKA": 23
+  },
+  "dorsales_visitante": {
+    "ALFAYE SANZ, DANEL": 13,
+    "EXTREMO RUIZ, BEÑAT": 2,
+    "JAKA ZABALA, JULEN": 3,
+    "MALO DE MOLINA TAIBO, GONZALO": 4,
+    "PUERTAS BULNES, EDER": 5,
+    "ABADIN SALOMON, IKER": 6,
+    "ARANAGA SANCHEZ, UNAI": 8,
+    "ELORRIAGA ETXENIKE, LUKEN": 9,
+    "QUINTANA NARDIZ, AIMAR ANDONI": 10,
+    "ITURRIZAGA ALONSO, KOLDO": 11,
+    "URQUIZA CORDERO, BEÑAT": 14
+  },
+  "suspendidos": []
+}
