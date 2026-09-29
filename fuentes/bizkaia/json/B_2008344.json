@@ -1,0 +1,284 @@
+{
+  "acta_id": "B_2008344",
+  "filename": "Acta_B_2008344.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 3,
+  "fecha": "19-10-2024",
+  "hora": "17:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "LOYOLA INDAUCHU A",
+  "equipo_visitante": "LEKEITIO A",
+  "goles_local": 3,
+  "goles_visitante": 3,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "HUESTAMENDIA AGUIRREBURUALDE, IGOR"
+  ],
+  "estadio": "AITXARTE",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "DE LA RIVA OLAETA, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 4,
+      "jugador": "BERMEJO LARRONDO, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 7,
+      "jugador": "BERMEJO LARRONDO, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "BERMEJO LARRONDO, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "DE LA RIVA OLAETA, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "DE LA RIVA OLAETA, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 14,
+      "jugador": "RUIZ BILBAO, JAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MIGOYA OLAORTUA, JUAN",
+  "entrenador_visitante": "ZUMARAN ABOITIZ, XANTI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CABEZON EPELDE, BORJA",
+  "delegado_equipo_visitante": "ALEGRIA SESMA, ASIER",
+  "titulares_local": [
+    "ROSALES MARTIN, MARCO",
+    "GORDOA ARCE, LANDER",
+    "PASCUAL ZABALA, IKER",
+    "MARTINEZ URIARTE, MARIO",
+    "URIARTE MARTINEZ, ENEKO",
+    "CANO MENA, HARITZ",
+    "CAMARERO CRESPO, ENEKO",
+    "ELORRIETA MARTINEZ, PABLO",
+    "BERMEJO LARRONDO, JON",
+    "RUIZ BILBAO, JAVIER",
+    "MARDONES MILLARES, AIMAR"
+  ],
+  "titulares_visitante": [
+    "BELAUSTEGUI GONCALVES, IRAIL",
+    "BEASKOETXEA ITURAT, IZEI",
+    "GUEZURAGA ALDANA, LANDER",
+    "ELORDI GOMEZ, OINATZ",
+    "IZAGIRRE GOITIA, GAIZKA",
+    "CABRERA ROLON, EDWARD FRANCISCO",
+    "DE LA RIVA OLAETA, UNAI",
+    "GOGENOLA PRIETO, ENAITZ",
+    "ALEGRIA ZABALA, AIMAR",
+    "FRANCO AZUMENDI, TXOMIN",
+    "IBARZABAL LARIZ, JULEN"
+  ],
+  "suplentes_local": [
+    "SUSTACHA ITURRALDE, UNAI",
+    "ARANGUREN APARICIO, JON",
+    "SANCHEZ RODRIGUEZ, IKER",
+    "NOVOA ALONSO, ENEKO",
+    "VILLANUEVA SALTERAIN, AGER",
+    "COLL GONZALEZ, ANDONI"
+  ],
+  "suplentes_visitante": [
+    "GABIOLA ZABALETA, LANTZ",
+    "MONTEJO SANCHEZ, HODEI",
+    "BALENCIAGA FERNANDEZ, DANEL",
+    "ORIBE IRIGOIEN, EKAIN",
+    "TXOPITEA PAGAEGI, LIZAR",
+    "ANAKABE SOLAUN, LANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "SANCHEZ RODRIGUEZ, IKER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GABIOLA ZABALETA, LANTZ"
+  ],
+  "jugadores_local": [
+    "ROSALES MARTIN, MARCO",
+    "GORDOA ARCE, LANDER",
+    "PASCUAL ZABALA, IKER",
+    "MARTINEZ URIARTE, MARIO",
+    "URIARTE MARTINEZ, ENEKO",
+    "CANO MENA, HARITZ",
+    "CAMARERO CRESPO, ENEKO",
+    "ELORRIETA MARTINEZ, PABLO",
+    "BERMEJO LARRONDO, JON",
+    "RUIZ BILBAO, JAVIER",
+    "MARDONES MILLARES, AIMAR",
+    "NOVOA ALONSO, ENEKO",
+    "SUSTACHA ITURRALDE, UNAI",
+    "VILLANUEVA SALTERAIN, AGER",
+    "ARANGUREN APARICIO, JON",
+    "COLL GONZALEZ, ANDONI"
+  ],
+  "jugadores_visitante": [
+    "BELAUSTEGUI GONCALVES, IRAIL",
+    "BEASKOETXEA ITURAT, IZEI",
+    "GUEZURAGA ALDANA, LANDER",
+    "ELORDI GOMEZ, OINATZ",
+    "IZAGIRRE GOITIA, GAIZKA",
+    "CABRERA ROLON, EDWARD FRANCISCO",
+    "DE LA RIVA OLAETA, UNAI",
+    "GOGENOLA PRIETO, ENAITZ",
+    "ALEGRIA ZABALA, AIMAR",
+    "FRANCO AZUMENDI, TXOMIN",
+    "IBARZABAL LARIZ, JULEN",
+    "ANAKABE SOLAUN, LANDER",
+    "ORIBE IRIGOIEN, EKAIN",
+    "TXOPITEA PAGAEGI, LIZAR",
+    "BALENCIAGA FERNANDEZ, DANEL",
+    "MONTEJO SANCHEZ, HODEI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "NOVOA ALONSO, ENEKO",
+      "sale": "ELORRIETA MARTINEZ, PABLO"
+    },
+    {
+      "min": 50,
+      "entra": "SUSTACHA ITURRALDE, UNAI",
+      "sale": "RUIZ BILBAO, JAVIER"
+    },
+    {
+      "min": 62,
+      "entra": "VILLANUEVA SALTERAIN, AGER",
+      "sale": "MARTINEZ URIARTE, MARIO"
+    },
+    {
+      "min": 62,
+      "entra": "ARANGUREN APARICIO, JON",
+      "sale": "GORDOA ARCE, LANDER"
+    },
+    {
+      "min": 62,
+      "entra": "COLL GONZALEZ, ANDONI",
+      "sale": "PASCUAL ZABALA, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "ANAKABE SOLAUN, LANDER",
+      "sale": "ALEGRIA ZABALA, AIMAR"
+    },
+    {
+      "min": 53,
+      "entra": "ORIBE IRIGOIEN, EKAIN",
+      "sale": "BEASKOETXEA ITURAT, IZEI"
+    },
+    {
+      "min": 61,
+      "entra": "TXOPITEA PAGAEGI, LIZAR",
+      "sale": "FRANCO AZUMENDI, TXOMIN"
+    },
+    {
+      "min": 71,
+      "entra": "BALENCIAGA FERNANDEZ, DANEL",
+      "sale": "ELORDI GOMEZ, OINATZ"
+    },
+    {
+      "min": 71,
+      "entra": "MONTEJO SANCHEZ, HODEI",
+      "sale": "GOGENOLA PRIETO, ENAITZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "ROSALES MARTIN, MARCO": 90,
+    "GORDOA ARCE, LANDER": 62,
+    "PASCUAL ZABALA, IKER": 62,
+    "MARTINEZ URIARTE, MARIO": 62,
+    "URIARTE MARTINEZ, ENEKO": 90,
+    "CANO MENA, HARITZ": 90,
+    "CAMARERO CRESPO, ENEKO": 90,
+    "ELORRIETA MARTINEZ, PABLO": 40,
+    "BERMEJO LARRONDO, JON": 90,
+    "RUIZ BILBAO, JAVIER": 50,
+    "MARDONES MILLARES, AIMAR": 90,
+    "NOVOA ALONSO, ENEKO": 50,
+    "SUSTACHA ITURRALDE, UNAI": 40,
+    "VILLANUEVA SALTERAIN, AGER": 28,
+    "ARANGUREN APARICIO, JON": 28,
+    "COLL GONZALEZ, ANDONI": 28,
+    "BELAUSTEGUI GONCALVES, IRAIL": 90,
+    "BEASKOETXEA ITURAT, IZEI": 53,
+    "GUEZURAGA ALDANA, LANDER": 90,
+    "ELORDI GOMEZ, OINATZ": 71,
+    "IZAGIRRE GOITIA, GAIZKA": 90,
+    "CABRERA ROLON, EDWARD FRANCISCO": 90,
+    "DE LA RIVA OLAETA, UNAI": 90,
+    "GOGENOLA PRIETO, ENAITZ": 71,
+    "ALEGRIA ZABALA, AIMAR": 53,
+    "FRANCO AZUMENDI, TXOMIN": 61,
+    "IBARZABAL LARIZ, JULEN": 90,
+    "ANAKABE SOLAUN, LANDER": 37,
+    "ORIBE IRIGOIEN, EKAIN": 37,
+    "TXOPITEA PAGAEGI, LIZAR": 29,
+    "BALENCIAGA FERNANDEZ, DANEL": 19,
+    "MONTEJO SANCHEZ, HODEI": 19
+  },
+  "portero_local": "ROSALES MARTIN, MARCO",
+  "portero_visitante": "BELAUSTEGUI GONCALVES, IRAIL",
+  "dorsales_local": {
+    "ROSALES MARTIN, MARCO": 13,
+    "GORDOA ARCE, LANDER": 4,
+    "PASCUAL ZABALA, IKER": 5,
+    "MARTINEZ URIARTE, MARIO": 6,
+    "URIARTE MARTINEZ, ENEKO": 7,
+    "CANO MENA, HARITZ": 8,
+    "CAMARERO CRESPO, ENEKO": 9,
+    "ELORRIETA MARTINEZ, PABLO": 10,
+    "BERMEJO LARRONDO, JON": 14,
+    "RUIZ BILBAO, JAVIER": 19,
+    "MARDONES MILLARES, AIMAR": 23
+  },
+  "dorsales_visitante": {
+    "BELAUSTEGUI GONCALVES, IRAIL": 13,
+    "BEASKOETXEA ITURAT, IZEI": 3,
+    "GUEZURAGA ALDANA, LANDER": 5,
+    "ELORDI GOMEZ, OINATZ": 6,
+    "IZAGIRRE GOITIA, GAIZKA": 7,
+    "CABRERA ROLON, EDWARD FRANCISCO": 8,
+    "DE LA RIVA OLAETA, UNAI": 9,
+    "GOGENOLA PRIETO, ENAITZ": 11,
+    "ALEGRIA ZABALA, AIMAR": 14,
+    "FRANCO AZUMENDI, TXOMIN": 17,
+    "IBARZABAL LARIZ, JULEN": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
