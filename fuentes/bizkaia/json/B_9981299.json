@@ -1,0 +1,286 @@
+{
+  "acta_id": "B_9981299",
+  "filename": "Acta_B_9981299.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "24-01-2026",
+  "hora": "11:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "LEIOA C",
+  "equipo_visitante": "BARAKALDO B",
+  "goles_local": 3,
+  "goles_visitante": 3,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "ZARRABEITIA ARRIETA, ANDER"
+  ],
+  "estadio": "SARRIENA 1",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "ANTIZA ARRANZ, GALDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "LOPEZ MARTINEZ, AMETS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "FERNANDEZ LERMA, JULEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "PERALLOS URUEÑA, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "VAZQUEZ AGUIRRE, KOLDO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MORAL ARES, GORKA",
+  "entrenador_visitante": "SANCHEZ GUTIERREZ, JOSE MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "DE LA TORRE LANDERA, ARNAU",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GARCIA CRESPO, JOSE MARIA",
+  "titulares_local": [
+    "JIMÉNEZ IGLESIAS, ANER",
+    "BARRENECHEA PEREA, JON",
+    "DELVAL GONZALEZ, IÑIGO",
+    "SAN MARTIN INTXAUSTI, ANDER",
+    "MINGO LECUE, ALAIN",
+    "LEONARDO ETXEBESTE, JULEN",
+    "ANTIZA ARRANZ, GALDER",
+    "GARCIA CUEVAS, EDER",
+    "PERALLOS URUEÑA, OIER",
+    "CASADO CARMONA, IVÁN",
+    "FERNANDEZ LERMA, JULEN"
+  ],
+  "titulares_visitante": [
+    "MARTIN MARTIN, AIMAR",
+    "LORENZO OTERO, ERIK",
+    "HERRERA IGLESIAS, AGER",
+    "LOPEZ MARTINEZ, AMETS",
+    "SANTOS DOTOR, SENDOA",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "CORMAN LOPEZ, UNAI",
+    "VILLARIAS BRIÑAS, ALEXANDER",
+    "GARCIA ARNAIZ, ENEKO",
+    "CAPITAN ORCIANI, ALAIN",
+    "MERELES GONZALEZ, MAXWELL MANUEL"
+  ],
+  "suplentes_local": [
+    "GALACHE DIEZ, ANDER",
+    "ALONSO FERNANDEZ, MARKEL",
+    "ESPIGA BAÑARES, ADRIAN",
+    "BOMBIN LLANOS, AINGERU",
+    "CASTRILLO MATEO, IBON",
+    "NAÑEZ CAMPO, YEISSON"
+  ],
+  "suplentes_visitante": [
+    "VAZQUEZ AGUIRRE, KOLDO",
+    "ROMERA OLIVENZA, JULEN",
+    "MONTERO SARMIENTO, MIKEL ALEXANDER",
+    "EBENYE EMEDI, ANGEL YVES",
+    "BALANDIN POUSADAS, IBAI",
+    "PIÑOL CONDE, ANDONI",
+    "AXPE GONZALEZ, ENEKO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GALACHE DIEZ, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "EBENYE EMEDI, ANGEL YVES",
+    "PIÑOL CONDE, ANDONI"
+  ],
+  "jugadores_local": [
+    "JIMÉNEZ IGLESIAS, ANER",
+    "BARRENECHEA PEREA, JON",
+    "DELVAL GONZALEZ, IÑIGO",
+    "SAN MARTIN INTXAUSTI, ANDER",
+    "MINGO LECUE, ALAIN",
+    "LEONARDO ETXEBESTE, JULEN",
+    "ANTIZA ARRANZ, GALDER",
+    "GARCIA CUEVAS, EDER",
+    "PERALLOS URUEÑA, OIER",
+    "CASADO CARMONA, IVÁN",
+    "FERNANDEZ LERMA, JULEN",
+    "BOMBIN LLANOS, AINGERU",
+    "CASTRILLO MATEO, IBON",
+    "ESPIGA BAÑARES, ADRIAN",
+    "ALONSO FERNANDEZ, MARKEL",
+    "NAÑEZ CAMPO, YEISSON"
+  ],
+  "jugadores_visitante": [
+    "MARTIN MARTIN, AIMAR",
+    "LORENZO OTERO, ERIK",
+    "HERRERA IGLESIAS, AGER",
+    "LOPEZ MARTINEZ, AMETS",
+    "SANTOS DOTOR, SENDOA",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "CORMAN LOPEZ, UNAI",
+    "VILLARIAS BRIÑAS, ALEXANDER",
+    "GARCIA ARNAIZ, ENEKO",
+    "CAPITAN ORCIANI, ALAIN",
+    "MERELES GONZALEZ, MAXWELL MANUEL",
+    "VAZQUEZ AGUIRRE, KOLDO",
+    "ROMERA OLIVENZA, JULEN",
+    "BALANDIN POUSADAS, IBAI",
+    "AXPE GONZALEZ, ENEKO",
+    "MONTERO SARMIENTO, MIKEL ALEXANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "BOMBIN LLANOS, AINGERU",
+      "sale": "ANTIZA ARRANZ, GALDER"
+    },
+    {
+      "min": 64,
+      "entra": "CASTRILLO MATEO, IBON",
+      "sale": "MINGO LECUE, ALAIN"
+    },
+    {
+      "min": 67,
+      "entra": "ESPIGA BAÑARES, ADRIAN",
+      "sale": "GARCIA CUEVAS, EDER"
+    },
+    {
+      "min": 75,
+      "entra": "ALONSO FERNANDEZ, MARKEL",
+      "sale": "FERNANDEZ LERMA, JULEN"
+    },
+    {
+      "min": 75,
+      "entra": "NAÑEZ CAMPO, YEISSON",
+      "sale": "CASADO CARMONA, IVÁN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 38,
+      "entra": "VAZQUEZ AGUIRRE, KOLDO",
+      "sale": "SANTOS DOTOR, SENDOA"
+    },
+    {
+      "min": 41,
+      "entra": "ROMERA OLIVENZA, JULEN",
+      "sale": "CAPITAN ORCIANI, ALAIN"
+    },
+    {
+      "min": 49,
+      "entra": "BALANDIN POUSADAS, IBAI",
+      "sale": "GARCIA ARNAIZ, ENEKO"
+    },
+    {
+      "min": 49,
+      "entra": "AXPE GONZALEZ, ENEKO",
+      "sale": "MAQUEDA HERNANDEZ, IZAN"
+    },
+    {
+      "min": 64,
+      "entra": "MONTERO SARMIENTO, MIKEL ALEXANDER",
+      "sale": "LOPEZ MARTINEZ, AMETS"
+    }
+  ],
+  "minutos_jugadores": {
+    "JIMÉNEZ IGLESIAS, ANER": 90,
+    "BARRENECHEA PEREA, JON": 90,
+    "DELVAL GONZALEZ, IÑIGO": 90,
+    "SAN MARTIN INTXAUSTI, ANDER": 90,
+    "MINGO LECUE, ALAIN": 64,
+    "LEONARDO ETXEBESTE, JULEN": 90,
+    "ANTIZA ARRANZ, GALDER": 41,
+    "GARCIA CUEVAS, EDER": 67,
+    "PERALLOS URUEÑA, OIER": 90,
+    "CASADO CARMONA, IVÁN": 75,
+    "FERNANDEZ LERMA, JULEN": 75,
+    "BOMBIN LLANOS, AINGERU": 49,
+    "CASTRILLO MATEO, IBON": 26,
+    "ESPIGA BAÑARES, ADRIAN": 23,
+    "ALONSO FERNANDEZ, MARKEL": 15,
+    "NAÑEZ CAMPO, YEISSON": 15,
+    "MARTIN MARTIN, AIMAR": 90,
+    "LORENZO OTERO, ERIK": 90,
+    "HERRERA IGLESIAS, AGER": 90,
+    "LOPEZ MARTINEZ, AMETS": 64,
+    "SANTOS DOTOR, SENDOA": 38,
+    "MAQUEDA HERNANDEZ, IZAN": 49,
+    "CORMAN LOPEZ, UNAI": 90,
+    "VILLARIAS BRIÑAS, ALEXANDER": 90,
+    "GARCIA ARNAIZ, ENEKO": 49,
+    "CAPITAN ORCIANI, ALAIN": 41,
+    "MERELES GONZALEZ, MAXWELL MANUEL": 90,
+    "VAZQUEZ AGUIRRE, KOLDO": 52,
+    "ROMERA OLIVENZA, JULEN": 49,
+    "BALANDIN POUSADAS, IBAI": 41,
+    "AXPE GONZALEZ, ENEKO": 41,
+    "MONTERO SARMIENTO, MIKEL ALEXANDER": 26
+  },
+  "portero_local": "JIMÉNEZ IGLESIAS, ANER",
+  "portero_visitante": "MARTIN MARTIN, AIMAR",
+  "dorsales_local": {
+    "JIMÉNEZ IGLESIAS, ANER": 13,
+    "BARRENECHEA PEREA, JON": 2,
+    "DELVAL GONZALEZ, IÑIGO": 4,
+    "SAN MARTIN INTXAUSTI, ANDER": 5,
+    "MINGO LECUE, ALAIN": 6,
+    "LEONARDO ETXEBESTE, JULEN": 8,
+    "ANTIZA ARRANZ, GALDER": 9,
+    "GARCIA CUEVAS, EDER": 10,
+    "PERALLOS URUEÑA, OIER": 12,
+    "CASADO CARMONA, IVÁN": 14,
+    "FERNANDEZ LERMA, JULEN": 17
+  },
+  "dorsales_visitante": {
+    "MARTIN MARTIN, AIMAR": 1,
+    "LORENZO OTERO, ERIK": 3,
+    "HERRERA IGLESIAS, AGER": 6,
+    "LOPEZ MARTINEZ, AMETS": 7,
+    "SANTOS DOTOR, SENDOA": 8,
+    "MAQUEDA HERNANDEZ, IZAN": 10,
+    "CORMAN LOPEZ, UNAI": 11,
+    "VILLARIAS BRIÑAS, ALEXANDER": 15,
+    "GARCIA ARNAIZ, ENEKO": 19,
+    "CAPITAN ORCIANI, ALAIN": 23,
+    "MERELES GONZALEZ, MAXWELL MANUEL": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
