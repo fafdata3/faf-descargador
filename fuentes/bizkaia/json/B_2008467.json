@@ -1,0 +1,277 @@
+{
+  "acta_id": "B_2008467",
+  "filename": "Acta_B_2008467.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 18,
+  "fecha": "08-02-2025",
+  "hora": "15:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "GERNIKA B",
+  "equipo_visitante": "IBARREKO A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "SAINZ GARZON, AINGERU"
+  ],
+  "estadio": "URBIETA 2 - Gernika",
+  "ciudad": "GERNIKA",
+  "goleadores": [
+    {
+      "minuto": 47,
+      "jugador": "ABDELLAHI SIDI CHREIF, CHEJ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "ANGULO MARTINEZ, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 65,
+      "jugador": "MANDALUNIZ OARBEASKOA, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "URIZAR ANGULO, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "IRIAS HERRERA, LUIS IVAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "AZKUNAGA IBARGUENGOITIA, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "TORREALDAI ALONSO, EKHI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 85,
+      "jugador": "GARCIA SANZ, AGER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "HERNANDEZ RODRIGUEZ, JUAN MARIA",
+  "entrenador_visitante": "SANCHO REDONDO, JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "ORTEGA MONGE, XABIER",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ANGULO REGULEZ, ALBERTO",
+  "titulares_local": [
+    "ZATINGA, ALEXANDRU AVRAM",
+    "DELGADO GUERRERO, UNAI",
+    "URKIRI ANAKABE, DANEL",
+    "ABDELLAHI SIDI CHREIF, CHEJ",
+    "ZABALA PLAZA, OIER",
+    "ORTIZ IRIBAR, MANEX",
+    "IRIAS HERRERA, LUIS IVAN",
+    "AZKUNAGA IBARGUENGOITIA, UNAI",
+    "TORREALDAI ALONSO, EKHI",
+    "ARRIAGA LARRETA, URKO",
+    "BERAZA CALZADA, AIMAR"
+  ],
+  "titulares_visitante": [
+    "GOIKOLEA BAZA, UNAI",
+    "GONZALEZ MERINO, UNAI",
+    "CALLE FERNADEZ, AITOR",
+    "INTXAUSTI ARAGONES, AIMAR",
+    "ANGULO MARTINEZ, ANDER",
+    "EIZAGUIRRE PEREZ, JON",
+    "URIZAR ANGULO, MARCOS",
+    "LEIBA GONZALEZ, ERLANTZ",
+    "ABASOLO ARRIBAS, HEGOI",
+    "GARCIA GALAN, DAVID",
+    "GARCIA SANZ, AGER"
+  ],
+  "suplentes_local": [
+    "ARRIZABALAGA IBARGUENGOITIA, MARKEL",
+    "MUNIOZGUREN PAGAZAURTUNDUA, PEIO",
+    "GARITAONANDIA EIZAGUIRRE, ANER",
+    "BASTERRETXEA GARATE, IBAI",
+    "LARRUZEA ARRIEN, IKER",
+    "MANDALUNIZ OARBEASKOA, IKER"
+  ],
+  "suplentes_visitante": [
+    "AGUILAR NIÑO, OIER",
+    "AZCARATE LOPEZ-GOMEZ, ASIER",
+    "DANIEL ASIEDU, RAYMOND",
+    "AGUILAR NIÑO, EKAITZ",
+    "LIZARRALDE GOMEZ, MIKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARRIZABALAGA IBARGUENGOITIA, MARKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "AGUILAR NIÑO, OIER",
+    "LIZARRALDE GOMEZ, MIKEL"
+  ],
+  "jugadores_local": [
+    "ZATINGA, ALEXANDRU AVRAM",
+    "DELGADO GUERRERO, UNAI",
+    "URKIRI ANAKABE, DANEL",
+    "ABDELLAHI SIDI CHREIF, CHEJ",
+    "ZABALA PLAZA, OIER",
+    "ORTIZ IRIBAR, MANEX",
+    "IRIAS HERRERA, LUIS IVAN",
+    "AZKUNAGA IBARGUENGOITIA, UNAI",
+    "TORREALDAI ALONSO, EKHI",
+    "ARRIAGA LARRETA, URKO",
+    "BERAZA CALZADA, AIMAR",
+    "BASTERRETXEA GARATE, IBAI",
+    "MUNIOZGUREN PAGAZAURTUNDUA, PEIO",
+    "MANDALUNIZ OARBEASKOA, IKER",
+    "LARRUZEA ARRIEN, IKER",
+    "GARITAONANDIA EIZAGUIRRE, ANER"
+  ],
+  "jugadores_visitante": [
+    "GOIKOLEA BAZA, UNAI",
+    "GONZALEZ MERINO, UNAI",
+    "CALLE FERNADEZ, AITOR",
+    "INTXAUSTI ARAGONES, AIMAR",
+    "ANGULO MARTINEZ, ANDER",
+    "EIZAGUIRRE PEREZ, JON",
+    "URIZAR ANGULO, MARCOS",
+    "LEIBA GONZALEZ, ERLANTZ",
+    "ABASOLO ARRIBAS, HEGOI",
+    "GARCIA GALAN, DAVID",
+    "GARCIA SANZ, AGER",
+    "AGUILAR NIÑO, EKAITZ",
+    "AZCARATE LOPEZ-GOMEZ, ASIER",
+    "DANIEL ASIEDU, RAYMOND"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "BASTERRETXEA GARATE, IBAI",
+      "sale": "ORTIZ IRIBAR, MANEX"
+    },
+    {
+      "min": 47,
+      "entra": "MUNIOZGUREN PAGAZAURTUNDUA, PEIO",
+      "sale": "ZABALA PLAZA, OIER"
+    },
+    {
+      "min": 47,
+      "entra": "MANDALUNIZ OARBEASKOA, IKER",
+      "sale": "DELGADO GUERRERO, UNAI"
+    },
+    {
+      "min": 56,
+      "entra": "LARRUZEA ARRIEN, IKER",
+      "sale": "URKIRI ANAKABE, DANEL"
+    },
+    {
+      "min": 60,
+      "entra": "GARITAONANDIA EIZAGUIRRE, ANER",
+      "sale": "AZKUNAGA IBARGUENGOITIA, UNAI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "AGUILAR NIÑO, EKAITZ",
+      "sale": "ANGULO MARTINEZ, ANDER"
+    },
+    {
+      "min": 74,
+      "entra": "AZCARATE LOPEZ-GOMEZ, ASIER",
+      "sale": "GONZALEZ MERINO, UNAI"
+    },
+    {
+      "min": 74,
+      "entra": "DANIEL ASIEDU, RAYMOND",
+      "sale": "CALLE FERNADEZ, AITOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "ZATINGA, ALEXANDRU AVRAM": 90,
+    "DELGADO GUERRERO, UNAI": 47,
+    "URKIRI ANAKABE, DANEL": 56,
+    "ABDELLAHI SIDI CHREIF, CHEJ": 90,
+    "ZABALA PLAZA, OIER": 47,
+    "ORTIZ IRIBAR, MANEX": 41,
+    "IRIAS HERRERA, LUIS IVAN": 90,
+    "AZKUNAGA IBARGUENGOITIA, UNAI": 60,
+    "TORREALDAI ALONSO, EKHI": 90,
+    "ARRIAGA LARRETA, URKO": 90,
+    "BERAZA CALZADA, AIMAR": 90,
+    "BASTERRETXEA GARATE, IBAI": 49,
+    "MUNIOZGUREN PAGAZAURTUNDUA, PEIO": 43,
+    "MANDALUNIZ OARBEASKOA, IKER": 43,
+    "LARRUZEA ARRIEN, IKER": 34,
+    "GARITAONANDIA EIZAGUIRRE, ANER": 30,
+    "GOIKOLEA BAZA, UNAI": 90,
+    "GONZALEZ MERINO, UNAI": 74,
+    "CALLE FERNADEZ, AITOR": 74,
+    "INTXAUSTI ARAGONES, AIMAR": 90,
+    "ANGULO MARTINEZ, ANDER": 53,
+    "EIZAGUIRRE PEREZ, JON": 90,
+    "URIZAR ANGULO, MARCOS": 90,
+    "LEIBA GONZALEZ, ERLANTZ": 90,
+    "ABASOLO ARRIBAS, HEGOI": 90,
+    "GARCIA GALAN, DAVID": 90,
+    "GARCIA SANZ, AGER": 90,
+    "AGUILAR NIÑO, EKAITZ": 37,
+    "AZCARATE LOPEZ-GOMEZ, ASIER": 16,
+    "DANIEL ASIEDU, RAYMOND": 16
+  },
+  "portero_local": "ZATINGA, ALEXANDRU AVRAM",
+  "portero_visitante": "GOIKOLEA BAZA, UNAI",
+  "dorsales_local": {
+    "ZATINGA, ALEXANDRU AVRAM": 1,
+    "DELGADO GUERRERO, UNAI": 4,
+    "URKIRI ANAKABE, DANEL": 6,
+    "ABDELLAHI SIDI CHREIF, CHEJ": 7,
+    "ZABALA PLAZA, OIER": 8,
+    "ORTIZ IRIBAR, MANEX": 10,
+    "IRIAS HERRERA, LUIS IVAN": 11,
+    "AZKUNAGA IBARGUENGOITIA, UNAI": 12,
+    "TORREALDAI ALONSO, EKHI": 14,
+    "ARRIAGA LARRETA, URKO": 16,
+    "BERAZA CALZADA, AIMAR": 21
+  },
+  "dorsales_visitante": {
+    "GOIKOLEA BAZA, UNAI": 1,
+    "GONZALEZ MERINO, UNAI": 2,
+    "CALLE FERNADEZ, AITOR": 3,
+    "INTXAUSTI ARAGONES, AIMAR": 4,
+    "ANGULO MARTINEZ, ANDER": 6,
+    "EIZAGUIRRE PEREZ, JON": 8,
+    "URIZAR ANGULO, MARCOS": 9,
+    "LEIBA GONZALEZ, ERLANTZ": 10,
+    "ABASOLO ARRIBAS, HEGOI": 11,
+    "GARCIA GALAN, DAVID": 14,
+    "GARCIA SANZ, AGER": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
