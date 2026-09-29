@@ -1,0 +1,259 @@
+{
+  "acta_id": "C_192765",
+  "filename": "Acta_C_192765.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 5,
+  "fecha": "06-10-2024",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. REVILLA A",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MORA HERRERO, EDGAR"
+  ],
+  "estadio": "Revilla",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "ANDRES MENA, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 50,
+      "jugador": "SIERRA JIMENEZ, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "MANCEBO BOLADO, SANTIAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "SIERRA JIMENEZ, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 51,
+      "jugador": "RAMIREZ VALLE, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CANALES CAVADA, SAMUEL",
+  "delegado_equipo_visitante": "VALLE TRUEBA, JAVIER",
+  "titulares_local": [
+    "SANCHEZ RODRÍGUEZ, SAMUEL",
+    "PEÑA LANZA, DAVID",
+    "SOLORZANO BRAVO, ALVARO",
+    "MIERA MARTINEZ, HUGO",
+    "TRUEBA MORENO, VICTOR",
+    "MANCEBO BOLADO, SANTIAGO",
+    "DEL HIERRO LOPEZ, ADRIAN",
+    "GARCIA COTERA, MATEO",
+    "SIERRA JIMENEZ, ADRIAN",
+    "CORTA PENAGOS, FERNANDO",
+    "SALGADO ENACHE, BRUNO"
+  ],
+  "titulares_visitante": [
+    "ARCE CAMPO, LUCAS",
+    "GARCIA AMIGO, HUGO",
+    "ANDRES MENA, MARCOS",
+    "RAMIREZ VALLE, JAVIER",
+    "CANCELA SUAREZ, OLIVER",
+    "CASUSO IGLESIAS, IAGO",
+    "DIEZ HERMOSA, SAUL",
+    "ALAMO DIAZ, DIEGO",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "ALONSO GARCIA, DANIEL",
+    "BOLADO PALACIO, ALVARO"
+  ],
+  "suplentes_local": [
+    "CIFRIAN CALZADA, SERGIO",
+    "LOPEZ PEREZ, GONZALO",
+    "AGUERO AGUNDEZ, LUIS",
+    "CUETO BARBERO, DAVID",
+    "PUENTE GARCIA, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "MARTINEZ MARTINEZ, FRANCISCO",
+    "maillo haya, PABLO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "TABERNILLA GÓMEZ, GABRIEL",
+    "CHANCA PACHECO, IKER"
+  ],
+  "convocados_sin_jugar_local": [
+    "LOPEZ PEREZ, GONZALO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SANCHEZ RODRÍGUEZ, SAMUEL",
+    "PEÑA LANZA, DAVID",
+    "SOLORZANO BRAVO, ALVARO",
+    "MIERA MARTINEZ, HUGO",
+    "TRUEBA MORENO, VICTOR",
+    "MANCEBO BOLADO, SANTIAGO",
+    "DEL HIERRO LOPEZ, ADRIAN",
+    "GARCIA COTERA, MATEO",
+    "SIERRA JIMENEZ, ADRIAN",
+    "CORTA PENAGOS, FERNANDO",
+    "SALGADO ENACHE, BRUNO",
+    "CIFRIAN CALZADA, SERGIO",
+    "PUENTE GARCIA, DIEGO",
+    "CUETO BARBERO, DAVID",
+    "AGUERO AGUNDEZ, LUIS"
+  ],
+  "jugadores_visitante": [
+    "ARCE CAMPO, LUCAS",
+    "GARCIA AMIGO, HUGO",
+    "ANDRES MENA, MARCOS",
+    "RAMIREZ VALLE, JAVIER",
+    "CANCELA SUAREZ, OLIVER",
+    "CASUSO IGLESIAS, IAGO",
+    "DIEZ HERMOSA, SAUL",
+    "ALAMO DIAZ, DIEGO",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "ALONSO GARCIA, DANIEL",
+    "BOLADO PALACIO, ALVARO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "MARTINEZ MARTINEZ, FRANCISCO",
+    "maillo haya, PABLO",
+    "TABERNILLA GÓMEZ, GABRIEL",
+    "CHANCA PACHECO, IKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 43,
+      "entra": "CIFRIAN CALZADA, SERGIO",
+      "sale": "GARCIA COTERA, MATEO"
+    },
+    {
+      "min": 43,
+      "entra": "PUENTE GARCIA, DIEGO",
+      "sale": "DEL HIERRO LOPEZ, ADRIAN"
+    },
+    {
+      "min": 61,
+      "entra": "CUETO BARBERO, DAVID",
+      "sale": "SALGADO ENACHE, BRUNO"
+    },
+    {
+      "min": 75,
+      "entra": "AGUERO AGUNDEZ, LUIS",
+      "sale": "MIERA MARTINEZ, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "MORENO QUINTANILLA, NICOLAS",
+      "sale": "ALAMO DIAZ, DIEGO"
+    },
+    {
+      "min": 50,
+      "entra": "MARTINEZ MARTINEZ, FRANCISCO",
+      "sale": "CASUSO IGLESIAS, IAGO"
+    },
+    {
+      "min": 53,
+      "entra": "maillo haya, PABLO",
+      "sale": "BOLADO PALACIO, ALVARO"
+    },
+    {
+      "min": 59,
+      "entra": "TABERNILLA GÓMEZ, GABRIEL",
+      "sale": "DIEZ HERMOSA, SAUL"
+    },
+    {
+      "min": 64,
+      "entra": "CHANCA PACHECO, IKER",
+      "sale": "GARCIA AMIGO, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANCHEZ RODRÍGUEZ, SAMUEL": 90,
+    "PEÑA LANZA, DAVID": 90,
+    "SOLORZANO BRAVO, ALVARO": 90,
+    "MIERA MARTINEZ, HUGO": 75,
+    "TRUEBA MORENO, VICTOR": 90,
+    "MANCEBO BOLADO, SANTIAGO": 90,
+    "DEL HIERRO LOPEZ, ADRIAN": 43,
+    "GARCIA COTERA, MATEO": 43,
+    "SIERRA JIMENEZ, ADRIAN": 90,
+    "CORTA PENAGOS, FERNANDO": 90,
+    "SALGADO ENACHE, BRUNO": 61,
+    "CIFRIAN CALZADA, SERGIO": 47,
+    "PUENTE GARCIA, DIEGO": 47,
+    "CUETO BARBERO, DAVID": 29,
+    "AGUERO AGUNDEZ, LUIS": 15,
+    "ARCE CAMPO, LUCAS": 90,
+    "GARCIA AMIGO, HUGO": 64,
+    "ANDRES MENA, MARCOS": 90,
+    "RAMIREZ VALLE, JAVIER": 90,
+    "CANCELA SUAREZ, OLIVER": 90,
+    "CASUSO IGLESIAS, IAGO": 50,
+    "DIEZ HERMOSA, SAUL": 59,
+    "ALAMO DIAZ, DIEGO": 40,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 90,
+    "ALONSO GARCIA, DANIEL": 90,
+    "BOLADO PALACIO, ALVARO": 53,
+    "MORENO QUINTANILLA, NICOLAS": 50,
+    "MARTINEZ MARTINEZ, FRANCISCO": 40,
+    "maillo haya, PABLO": 37,
+    "TABERNILLA GÓMEZ, GABRIEL": 31,
+    "CHANCA PACHECO, IKER": 26
+  },
+  "portero_local": "SANCHEZ RODRÍGUEZ, SAMUEL",
+  "portero_visitante": "ARCE CAMPO, LUCAS",
+  "dorsales_local": {
+    "SANCHEZ RODRÍGUEZ, SAMUEL": 1,
+    "PEÑA LANZA, DAVID": 2,
+    "SOLORZANO BRAVO, ALVARO": 3,
+    "MIERA MARTINEZ, HUGO": 4,
+    "TRUEBA MORENO, VICTOR": 5,
+    "MANCEBO BOLADO, SANTIAGO": 8,
+    "DEL HIERRO LOPEZ, ADRIAN": 9,
+    "GARCIA COTERA, MATEO": 10,
+    "SIERRA JIMENEZ, ADRIAN": 12,
+    "CORTA PENAGOS, FERNANDO": 14,
+    "SALGADO ENACHE, BRUNO": 17
+  },
+  "dorsales_visitante": {
+    "ARCE CAMPO, LUCAS": 1,
+    "GARCIA AMIGO, HUGO": 2,
+    "ANDRES MENA, MARCOS": 5,
+    "RAMIREZ VALLE, JAVIER": 6,
+    "CANCELA SUAREZ, OLIVER": 7,
+    "CASUSO IGLESIAS, IAGO": 8,
+    "DIEZ HERMOSA, SAUL": 11,
+    "ALAMO DIAZ, DIEGO": 12,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 14,
+    "ALONSO GARCIA, DANIEL": 16,
+    "BOLADO PALACIO, ALVARO": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
