@@ -1,0 +1,270 @@
+{
+  "acta_id": "C_193112",
+  "filename": "Acta_C_193112.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 10,
+  "fecha": "10-11-2024",
+  "hora": "12:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. TROPEZON B",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MATA SANGIAO, BORJA"
+  ],
+  "estadio": "Tanos 1",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "GARCIA DIAZ, JAVIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "MARTÍNEZ MADRAZO, ANDREA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "POSTIGO MIGUEL, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "MAZA SILVAN, AITOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 53,
+      "jugador": "MARTINEZ RODRIGUEZ, AARON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "pachon garcia, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZALEZ ALVAREZ, DIEGO",
+  "entrenador_visitante": "CAGIGAS TABARES, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LANDEO LLANCAYA, LUIS FRANCISCO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LANDEO LLANCAYA, LUIS FRANCISCO",
+  "delegado_equipo_visitante": "FERNANDEZ OSORIO, JORGE",
+  "titulares_local": [
+    "PÉREZ GARCÍA, CÉSAR",
+    "ORIA SAINZ, MARCOS",
+    "ALONSO EDILLA, MIGUEL",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "CUESTA FEIJOO, CARLOS",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "MENDARO TERAN, ANTONIO",
+    "GARCIA DIAZ, JAVIER"
+  ],
+  "titulares_visitante": [
+    "PELLON FUENTES, NICOLAS",
+    "HAZAS SANTOS, DENNIS",
+    "RUEDA FONFRIA, DANIEL",
+    "FERNANDEZ ARANCHETA, IZAN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "SARABIA PARDO, ASIER",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "AGUILERA AGUILERA, DIEGO",
+    "LOPEZ DURAN, FABIO",
+    "POSTIGO MIGUEL, ALVARO"
+  ],
+  "suplentes_local": [
+    "CRUZ ABASCAL, JAVIER",
+    "GONZALEZ BLUM, MANUEL",
+    "pachon garcia, DIEGO",
+    "GOITIA GUTIERREZ, PABLO",
+    "CAMPO FERNANDEZ, SAMUEL"
+  ],
+  "suplentes_visitante": [
+    "PIEDRA RUIZ, ASIER",
+    "COBO HERVELLA, GONZALO",
+    "FELICES VIVANCO, MARCO",
+    "MAZA SILVAN, AITOR",
+    "AGUILERA AGUILERA, FERNANDO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PÉREZ GARCÍA, CÉSAR",
+    "ORIA SAINZ, MARCOS",
+    "ALONSO EDILLA, MIGUEL",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "CUESTA FEIJOO, CARLOS",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "MENDARO TERAN, ANTONIO",
+    "GARCIA DIAZ, JAVIER",
+    "GONZALEZ BLUM, MANUEL",
+    "CAMPO FERNANDEZ, SAMUEL",
+    "pachon garcia, DIEGO",
+    "GOITIA GUTIERREZ, PABLO",
+    "CRUZ ABASCAL, JAVIER"
+  ],
+  "jugadores_visitante": [
+    "PELLON FUENTES, NICOLAS",
+    "HAZAS SANTOS, DENNIS",
+    "RUEDA FONFRIA, DANIEL",
+    "FERNANDEZ ARANCHETA, IZAN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "SARABIA PARDO, ASIER",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "AGUILERA AGUILERA, DIEGO",
+    "LOPEZ DURAN, FABIO",
+    "POSTIGO MIGUEL, ALVARO",
+    "PIEDRA RUIZ, ASIER",
+    "COBO HERVELLA, GONZALO",
+    "FELICES VIVANCO, MARCO",
+    "AGUILERA AGUILERA, FERNANDO",
+    "MAZA SILVAN, AITOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GONZALEZ BLUM, MANUEL",
+      "sale": "ARROYO GONZALEZ, HUGO"
+    },
+    {
+      "min": 40,
+      "entra": "CAMPO FERNANDEZ, SAMUEL",
+      "sale": "ORIA SAINZ, MARCOS"
+    },
+    {
+      "min": 40,
+      "entra": "pachon garcia, DIEGO",
+      "sale": "QUINTANAL ZARRABETIA, ASIER"
+    },
+    {
+      "min": 55,
+      "entra": "GOITIA GUTIERREZ, PABLO",
+      "sale": "MARTINEZ RODRIGUEZ, AARON"
+    },
+    {
+      "min": 79,
+      "entra": "CRUZ ABASCAL, JAVIER",
+      "sale": "PÉREZ GARCÍA, CÉSAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "PIEDRA RUIZ, ASIER",
+      "sale": "PELLON FUENTES, NICOLAS"
+    },
+    {
+      "min": 58,
+      "entra": "COBO HERVELLA, GONZALO",
+      "sale": "AGUILERA AGUILERA, DIEGO"
+    },
+    {
+      "min": 65,
+      "entra": "FELICES VIVANCO, MARCO",
+      "sale": "RUEDA FONFRIA, DANIEL"
+    },
+    {
+      "min": 69,
+      "entra": "AGUILERA AGUILERA, FERNANDO",
+      "sale": "MARTÍNEZ MADRAZO, ANDREA"
+    },
+    {
+      "min": 69,
+      "entra": "MAZA SILVAN, AITOR",
+      "sale": "POSTIGO MIGUEL, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PÉREZ GARCÍA, CÉSAR": 79,
+    "ORIA SAINZ, MARCOS": 40,
+    "ALONSO EDILLA, MIGUEL": 90,
+    "SEIJAS SANZ-BAZA, AITOR": 90,
+    "CUESTA FEIJOO, CARLOS": 90,
+    "ARROYO GONZALEZ, HUGO": 40,
+    "MARTINEZ FERNANDEZ, ASIER": 90,
+    "MARTINEZ RODRIGUEZ, AARON": 55,
+    "QUINTANAL ZARRABETIA, ASIER": 40,
+    "MENDARO TERAN, ANTONIO": 90,
+    "GARCIA DIAZ, JAVIER": 90,
+    "GONZALEZ BLUM, MANUEL": 50,
+    "CAMPO FERNANDEZ, SAMUEL": 50,
+    "pachon garcia, DIEGO": 50,
+    "GOITIA GUTIERREZ, PABLO": 35,
+    "CRUZ ABASCAL, JAVIER": 11,
+    "PELLON FUENTES, NICOLAS": 40,
+    "HAZAS SANTOS, DENNIS": 90,
+    "RUEDA FONFRIA, DANIEL": 65,
+    "FERNANDEZ ARANCHETA, IZAN": 90,
+    "SARABIA CAVIEDES, JANO ISIDRO": 90,
+    "SARABIA PARDO, ASIER": 90,
+    "MARTÍNEZ MADRAZO, ANDREA": 69,
+    "ARRATE ORTIZ, JUAN MARIA": 90,
+    "AGUILERA AGUILERA, DIEGO": 58,
+    "LOPEZ DURAN, FABIO": 90,
+    "POSTIGO MIGUEL, ALVARO": 69,
+    "PIEDRA RUIZ, ASIER": 50,
+    "COBO HERVELLA, GONZALO": 32,
+    "FELICES VIVANCO, MARCO": 25,
+    "AGUILERA AGUILERA, FERNANDO": 21,
+    "MAZA SILVAN, AITOR": 21
+  },
+  "portero_local": "PÉREZ GARCÍA, CÉSAR",
+  "portero_visitante": "PELLON FUENTES, NICOLAS",
+  "dorsales_local": {
+    "PÉREZ GARCÍA, CÉSAR": 1,
+    "ORIA SAINZ, MARCOS": 2,
+    "ALONSO EDILLA, MIGUEL": 3,
+    "SEIJAS SANZ-BAZA, AITOR": 5,
+    "CUESTA FEIJOO, CARLOS": 6,
+    "ARROYO GONZALEZ, HUGO": 8,
+    "MARTINEZ FERNANDEZ, ASIER": 9,
+    "MARTINEZ RODRIGUEZ, AARON": 10,
+    "QUINTANAL ZARRABETIA, ASIER": 11,
+    "MENDARO TERAN, ANTONIO": 14,
+    "GARCIA DIAZ, JAVIER": 19
+  },
+  "dorsales_visitante": {
+    "PELLON FUENTES, NICOLAS": 1,
+    "HAZAS SANTOS, DENNIS": 2,
+    "RUEDA FONFRIA, DANIEL": 3,
+    "FERNANDEZ ARANCHETA, IZAN": 4,
+    "SARABIA CAVIEDES, JANO ISIDRO": 5,
+    "SARABIA PARDO, ASIER": 7,
+    "MARTÍNEZ MADRAZO, ANDREA": 9,
+    "ARRATE ORTIZ, JUAN MARIA": 10,
+    "AGUILERA AGUILERA, DIEGO": 11,
+    "LOPEZ DURAN, FABIO": 12,
+    "POSTIGO MIGUEL, ALVARO": 31
+  },
+  "suspendidos": []
+}
