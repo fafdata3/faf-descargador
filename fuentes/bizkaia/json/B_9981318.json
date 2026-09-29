@@ -1,0 +1,256 @@
+{
+  "acta_id": "B_9981318",
+  "filename": "Acta_B_9981318.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "07-02-2026",
+  "hora": "19:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "TRAPAGARAN A",
+  "equipo_visitante": "ASTI-LEKU A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANCHEZ GUTIERREZ, MARKEL"
+  ],
+  "estadio": "ERROTARTE",
+  "ciudad": "TRAPAGARAN",
+  "goleadores": [
+    {
+      "minuto": 52,
+      "jugador": "ROMERO PEREZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "ELORZA CORRALES, IÑAKI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "MARIN GARCIA, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 16,
+      "jugador": "HERNANDO MIELGO, URKO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "FERNANDEZ CARIDAD, ENEKO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "IGLESIAS VELASCO, JOSE RAMON",
+  "entrenador_visitante": "MERINO CURIEL, MIGUEL",
+  "segundo_entrenador_local": "DIEZ GUERRERO, JOKIN",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "REGUEIRO GARCÍA, MIKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "REGUEIRO GARCÍA, MIKEL",
+  "delegado_equipo_visitante": "IDIAÑEZ BERASTEGUI, EKAIN",
+  "titulares_local": [
+    "DÍAZ MULERO, ANDER",
+    "SARMANTON GALLO, LIER",
+    "EROA SORIANO, OIER",
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "GONZALEZ MARTINEZ, URKO",
+    "RUIZ FRAILE, URKO",
+    "ARMENTIA LARRAURI, XABIER",
+    "GUTIERREZ CACERES, DYLAN MISAEL",
+    "ROMERO PEREZ, ALVARO",
+    "MARIN GARCIA, ALVARO"
+  ],
+  "titulares_visitante": [
+    "BAZ LUQUE, JÖEL",
+    "CUÑADO AIZPURU, JOSU",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "FERNANDEZ GONZALEZ, OIER",
+    "QUIROS DEL MOLINO, ENEKO",
+    "CALVO PEÑAFIEL, ASIER",
+    "HERNANDO MIELGO, URKO"
+  ],
+  "suplentes_local": [
+    "FERNÁNDEZ AGUILAR, UNAI",
+    "FUENTES OCHOA, IÑIGO",
+    "SAIZ CARBAJO, KERMAN",
+    "BRAHIM AHMED, MOHAMED",
+    "RODRIGUEZ FERNANDEZ, AXEL",
+    "DÍAZ MULERO, MIKEL",
+    "BLAYA GARCIA, GORKA"
+  ],
+  "suplentes_visitante": [
+    "DEL RIO GIL, MARKEL",
+    "PLANS DE DIEGO, LEZO",
+    "ELORZA CORRALES, IÑAKI",
+    "ORRANTIA ORTIZ DE ZARATE, GORKA",
+    "MURGA FERNANDEZ, LANDER",
+    "LORENTE PRADO, ANER",
+    "FERNANDEZ CARIDAD, ENEKO"
+  ],
+  "convocados_sin_jugar_local": [
+    "FERNÁNDEZ AGUILAR, UNAI",
+    "BRAHIM AHMED, MOHAMED",
+    "RODRIGUEZ FERNANDEZ, AXEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DEL RIO GIL, MARKEL",
+    "ORRANTIA ORTIZ DE ZARATE, GORKA",
+    "MURGA FERNANDEZ, LANDER",
+    "LORENTE PRADO, ANER"
+  ],
+  "jugadores_local": [
+    "DÍAZ MULERO, ANDER",
+    "SARMANTON GALLO, LIER",
+    "EROA SORIANO, OIER",
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "GONZALEZ MARTINEZ, URKO",
+    "RUIZ FRAILE, URKO",
+    "ARMENTIA LARRAURI, XABIER",
+    "GUTIERREZ CACERES, DYLAN MISAEL",
+    "ROMERO PEREZ, ALVARO",
+    "MARIN GARCIA, ALVARO",
+    "SAIZ CARBAJO, KERMAN",
+    "FUENTES OCHOA, IÑIGO",
+    "BLAYA GARCIA, GORKA",
+    "DÍAZ MULERO, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "BAZ LUQUE, JÖEL",
+    "CUÑADO AIZPURU, JOSU",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "FERNANDEZ GONZALEZ, OIER",
+    "QUIROS DEL MOLINO, ENEKO",
+    "CALVO PEÑAFIEL, ASIER",
+    "HERNANDO MIELGO, URKO",
+    "ELORZA CORRALES, IÑAKI",
+    "PLANS DE DIEGO, LEZO",
+    "FERNANDEZ CARIDAD, ENEKO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SAIZ CARBAJO, KERMAN",
+      "sale": "GUTIERREZ CACERES, DYLAN MISAEL"
+    },
+    {
+      "min": 59,
+      "entra": "FUENTES OCHOA, IÑIGO",
+      "sale": "GONZALEZ MARTINEZ, URKO"
+    },
+    {
+      "min": 59,
+      "entra": "BLAYA GARCIA, GORKA",
+      "sale": "SARMANTON GALLO, LIER"
+    },
+    {
+      "min": 75,
+      "entra": "DÍAZ MULERO, MIKEL",
+      "sale": "RUIZ FRAILE, URKO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "ELORZA CORRALES, IÑAKI",
+      "sale": "FERNANDEZ GONZALEZ, OIER"
+    },
+    {
+      "min": 76,
+      "entra": "PLANS DE DIEGO, LEZO",
+      "sale": "QUIROS DEL MOLINO, ENEKO"
+    },
+    {
+      "min": 76,
+      "entra": "FERNANDEZ CARIDAD, ENEKO",
+      "sale": "ELEXPURU GOMEZ, GORKA"
+    }
+  ],
+  "minutos_jugadores": {
+    "DÍAZ MULERO, ANDER": 90,
+    "SARMANTON GALLO, LIER": 59,
+    "EROA SORIANO, OIER": 90,
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER": 90,
+    "SESMERO RUIZ, XABIER": 90,
+    "GONZALEZ MARTINEZ, URKO": 59,
+    "RUIZ FRAILE, URKO": 75,
+    "ARMENTIA LARRAURI, XABIER": 90,
+    "GUTIERREZ CACERES, DYLAN MISAEL": 40,
+    "ROMERO PEREZ, ALVARO": 90,
+    "MARIN GARCIA, ALVARO": 90,
+    "SAIZ CARBAJO, KERMAN": 50,
+    "FUENTES OCHOA, IÑIGO": 31,
+    "BLAYA GARCIA, GORKA": 31,
+    "DÍAZ MULERO, MIKEL": 15,
+    "BAZ LUQUE, JÖEL": 90,
+    "CUÑADO AIZPURU, JOSU": 90,
+    "ALCANTARA IBAÑEZ, BEÑAT": 90,
+    "ABAD MEDIAVILLA, LIHER": 90,
+    "ELEXPURU GOMEZ, GORKA": 76,
+    "VADILLO CASTRILLEJO, JON": 90,
+    "FORTEA BARABINO, MATEO": 90,
+    "FERNANDEZ GONZALEZ, OIER": 60,
+    "QUIROS DEL MOLINO, ENEKO": 76,
+    "CALVO PEÑAFIEL, ASIER": 90,
+    "HERNANDO MIELGO, URKO": 90,
+    "ELORZA CORRALES, IÑAKI": 30,
+    "PLANS DE DIEGO, LEZO": 14,
+    "FERNANDEZ CARIDAD, ENEKO": 14
+  },
+  "portero_local": "DÍAZ MULERO, ANDER",
+  "portero_visitante": "BAZ LUQUE, JÖEL",
+  "dorsales_local": {
+    "DÍAZ MULERO, ANDER": 13,
+    "SARMANTON GALLO, LIER": 2,
+    "EROA SORIANO, OIER": 3,
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER": 4,
+    "SESMERO RUIZ, XABIER": 5,
+    "GONZALEZ MARTINEZ, URKO": 8,
+    "RUIZ FRAILE, URKO": 10,
+    "ARMENTIA LARRAURI, XABIER": 14,
+    "GUTIERREZ CACERES, DYLAN MISAEL": 15,
+    "ROMERO PEREZ, ALVARO": 16,
+    "MARIN GARCIA, ALVARO": 22
+  },
+  "dorsales_visitante": {
+    "BAZ LUQUE, JÖEL": 13,
+    "CUÑADO AIZPURU, JOSU": 3,
+    "ALCANTARA IBAÑEZ, BEÑAT": 4,
+    "ABAD MEDIAVILLA, LIHER": 5,
+    "ELEXPURU GOMEZ, GORKA": 6,
+    "VADILLO CASTRILLEJO, JON": 10,
+    "FORTEA BARABINO, MATEO": 11,
+    "FERNANDEZ GONZALEZ, OIER": 16,
+    "QUIROS DEL MOLINO, ENEKO": 18,
+    "CALVO PEÑAFIEL, ASIER": 22,
+    "HERNANDO MIELGO, URKO": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
