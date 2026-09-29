@@ -1,0 +1,280 @@
+{
+  "acta_id": "C_171462",
+  "filename": "Acta_C_171462.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 34,
+  "fecha": "01-06-2024",
+  "hora": "17:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "E.M.F. SANTOÑA",
+  "equipo_visitante": "C.D. CASTROVERDE",
+  "goles_local": 5,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "IBÁÑEZ CAMPO, PABLO"
+  ],
+  "estadio": "Santoña 1",
+  "ciudad": "Santoña",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "DIEZ PALOMARES, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "RODRIGUEZ MARTIN, IÑIGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "DIEZ PALOMARES, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "ANSOLA FERNANDEZ, VINDIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "MONTES SANZ, SERGIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "ALONSO MAZA, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "DIEZ PALOMARES, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "BA, YOUNOUSS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LARRAÑAGA TUÑON, JUAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LARRAÑAGA TUÑON, JUAN",
+  "delegado_equipo_visitante": "CASTAÑEDA RODRIGUEZ, FERNANDO",
+  "titulares_local": [
+    "ALONSO SANCHEZ, FERNANDO",
+    "HAZAS QUINTANA, ANTONIO",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "ALONSO MAZA, AIMAR",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "DIEZ PALOMARES, DIEGO",
+    "SAN MILLAN BECERRA, DYLAN",
+    "VALLE MARTINEZ, IZAN",
+    "MONTES SANZ, SERGIO",
+    "BLANCO GONZALEZ, OIER",
+    "SOLANO PRADA, VICTOR"
+  ],
+  "titulares_visitante": [
+    "GARCIA DEL OLMO, DIEGO",
+    "IBARRA SARO, ANGEL",
+    "MALO GARCIA, LARO",
+    "RODRIGUEZ MARTIN, IÑIGO",
+    "SANCHEZ ALONSO, MANUEL PEDRO",
+    "PEÑA LLANES, FRANCISCO JAVIER",
+    "garcia-barcena diaz, GONZALO",
+    "IZQUIERDO SOTO, JAIME",
+    "SUBIRANA PAIS, CARLOS",
+    "BA, YOUNOUSS",
+    "CENTENO VARILLAS, JORGE"
+  ],
+  "suplentes_local": [
+    "XIANG, JUNKAI",
+    "GARCIA PEREZ, ASIER",
+    "RESTREPO VALENCIA, ALEJANDRO",
+    "LAVIN ARGOS, GONZALO",
+    "CABALLERO DEL REY, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE",
+    "PEREZ MAESTRE, JUAN",
+    "negrete minguez, DANIEL",
+    "LOSADA VIADERO, PABLO",
+    "AREVALO DASCALU, CARLOS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "AREVALO DASCALU, CARLOS"
+  ],
+  "jugadores_local": [
+    "ALONSO SANCHEZ, FERNANDO",
+    "HAZAS QUINTANA, ANTONIO",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "ALONSO MAZA, AIMAR",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "DIEZ PALOMARES, DIEGO",
+    "SAN MILLAN BECERRA, DYLAN",
+    "VALLE MARTINEZ, IZAN",
+    "MONTES SANZ, SERGIO",
+    "BLANCO GONZALEZ, OIER",
+    "SOLANO PRADA, VICTOR",
+    "RESTREPO VALENCIA, ALEJANDRO",
+    "GARCIA PEREZ, ASIER",
+    "LAVIN ARGOS, GONZALO",
+    "CABALLERO DEL REY, ALVARO",
+    "XIANG, JUNKAI"
+  ],
+  "jugadores_visitante": [
+    "GARCIA DEL OLMO, DIEGO",
+    "IBARRA SARO, ANGEL",
+    "MALO GARCIA, LARO",
+    "RODRIGUEZ MARTIN, IÑIGO",
+    "SANCHEZ ALONSO, MANUEL PEDRO",
+    "PEÑA LLANES, FRANCISCO JAVIER",
+    "garcia-barcena diaz, GONZALO",
+    "IZQUIERDO SOTO, JAIME",
+    "SUBIRANA PAIS, CARLOS",
+    "BA, YOUNOUSS",
+    "CENTENO VARILLAS, JORGE",
+    "negrete minguez, DANIEL",
+    "PEREZ MAESTRE, JUAN",
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE",
+    "LOSADA VIADERO, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "RESTREPO VALENCIA, ALEJANDRO",
+      "sale": "SAN MILLAN BECERRA, DYLAN"
+    },
+    {
+      "min": 57,
+      "entra": "GARCIA PEREZ, ASIER",
+      "sale": "SOLANO PRADA, VICTOR"
+    },
+    {
+      "min": 63,
+      "entra": "LAVIN ARGOS, GONZALO",
+      "sale": "BLANCO GONZALEZ, OIER"
+    },
+    {
+      "min": 69,
+      "entra": "CABALLERO DEL REY, ALVARO",
+      "sale": "SOLANA FERNANDEZ, ALEJANDRO"
+    },
+    {
+      "min": 72,
+      "entra": "XIANG, JUNKAI",
+      "sale": "ALONSO SANCHEZ, FERNANDO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "negrete minguez, DANIEL",
+      "sale": "SUBIRANA PAIS, CARLOS"
+    },
+    {
+      "min": 62,
+      "entra": "PEREZ MAESTRE, JUAN",
+      "sale": "garcia-barcena diaz, GONZALO"
+    },
+    {
+      "min": 62,
+      "entra": "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE",
+      "sale": "GARCIA DEL OLMO, DIEGO"
+    },
+    {
+      "min": 67,
+      "entra": "LOSADA VIADERO, PABLO",
+      "sale": "IBARRA SARO, ANGEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALONSO SANCHEZ, FERNANDO": 72,
+    "HAZAS QUINTANA, ANTONIO": 90,
+    "ANSOLA FERNANDEZ, VINDIO": 90,
+    "ALONSO MAZA, AIMAR": 90,
+    "SOLANA FERNANDEZ, ALEJANDRO": 69,
+    "DIEZ PALOMARES, DIEGO": 90,
+    "SAN MILLAN BECERRA, DYLAN": 52,
+    "VALLE MARTINEZ, IZAN": 90,
+    "MONTES SANZ, SERGIO": 90,
+    "BLANCO GONZALEZ, OIER": 63,
+    "SOLANO PRADA, VICTOR": 57,
+    "RESTREPO VALENCIA, ALEJANDRO": 38,
+    "GARCIA PEREZ, ASIER": 33,
+    "LAVIN ARGOS, GONZALO": 27,
+    "CABALLERO DEL REY, ALVARO": 21,
+    "XIANG, JUNKAI": 18,
+    "GARCIA DEL OLMO, DIEGO": 62,
+    "IBARRA SARO, ANGEL": 67,
+    "MALO GARCIA, LARO": 90,
+    "RODRIGUEZ MARTIN, IÑIGO": 90,
+    "SANCHEZ ALONSO, MANUEL PEDRO": 90,
+    "PEÑA LLANES, FRANCISCO JAVIER": 90,
+    "garcia-barcena diaz, GONZALO": 62,
+    "IZQUIERDO SOTO, JAIME": 90,
+    "SUBIRANA PAIS, CARLOS": 40,
+    "BA, YOUNOUSS": 90,
+    "CENTENO VARILLAS, JORGE": 90,
+    "negrete minguez, DANIEL": 50,
+    "PEREZ MAESTRE, JUAN": 28,
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE": 28,
+    "LOSADA VIADERO, PABLO": 23
+  },
+  "portero_local": "ALONSO SANCHEZ, FERNANDO",
+  "portero_visitante": "GARCIA DEL OLMO, DIEGO",
+  "dorsales_local": {
+    "ALONSO SANCHEZ, FERNANDO": 1,
+    "HAZAS QUINTANA, ANTONIO": 2,
+    "ANSOLA FERNANDEZ, VINDIO": 4,
+    "ALONSO MAZA, AIMAR": 5,
+    "SOLANA FERNANDEZ, ALEJANDRO": 6,
+    "DIEZ PALOMARES, DIEGO": 7,
+    "SAN MILLAN BECERRA, DYLAN": 8,
+    "VALLE MARTINEZ, IZAN": 9,
+    "MONTES SANZ, SERGIO": 10,
+    "BLANCO GONZALEZ, OIER": 12,
+    "SOLANO PRADA, VICTOR": 18
+  },
+  "dorsales_visitante": {
+    "GARCIA DEL OLMO, DIEGO": 13,
+    "IBARRA SARO, ANGEL": 7,
+    "MALO GARCIA, LARO": 8,
+    "RODRIGUEZ MARTIN, IÑIGO": 10,
+    "SANCHEZ ALONSO, MANUEL PEDRO": 15,
+    "PEÑA LLANES, FRANCISCO JAVIER": 18,
+    "garcia-barcena diaz, GONZALO": 20,
+    "IZQUIERDO SOTO, JAIME": 22,
+    "SUBIRANA PAIS, CARLOS": 29,
+    "BA, YOUNOUSS": 30,
+    "CENTENO VARILLAS, JORGE": 38
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
