@@ -1,0 +1,243 @@
+{
+  "acta_id": "C_173204",
+  "filename": "Acta_C_173204.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 8,
+  "fecha": "12-11-2023",
+  "hora": "11:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO A",
+  "equipo_visitante": "C.D. MARINA SPORT A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "FERNÁNDEZ ARAGONCILLO, PABLO"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "PORTILLA MAZA, ISMAEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "NAVARRO FERNANDEZ, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "ALONSO MOTA, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 58,
+      "jugador": "BEZANILLA GARCIA, AARON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "DIEZ RIVERA, JAIME",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "ENTRECANALES SAN MIGUEL, SERGIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MADRAZO ARCO, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MINONDO SIERRA, MIGUEL",
+  "delegado_equipo_visitante": "DURAN HERNANDEZ, JESUS",
+  "titulares_local": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "BEZANILLA GARCIA, AARON",
+    "QUINTANA TORRE, MARTIN",
+    "GARCÍA ABASCAL, HECTOR",
+    "TRICIO USLE, EDUARDO",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "PORTILLA MAZA, ISMAEL",
+    "GUTIERREZ SARABIA, OSEL",
+    "SIERRA GONZALEZ, KEVIN",
+    "ALONSO PEREZ, DARIO"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "ALONSO CRUZ, DIEGO",
+    "RUIZ ORTEGA, RODRIGO",
+    "GARCIA VARELA, ALAN",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "ROJO CANADELL, ALEJANDRO",
+    "DE FELIPE MONTES, OSCAR",
+    "FUENTE BARRERA, JUAN",
+    "JIMENEZ NIÑO, DAVID",
+    "ORTIZ FILGUEIRAS, JAVIER",
+    "GARCIA CASTILLO, JORGE"
+  ],
+  "suplentes_local": [
+    "COLINA DE LA HOZ, HUGO",
+    "ORTIZ MANZANAS, LUCAS",
+    "SAINZ ZAMORANO, NOE"
+  ],
+  "suplentes_visitante": [
+    "SAUQUILLO ALONSO, MARCO",
+    "DIEZ RIVERA, JAIME",
+    "MARTE MUGICA, EDUARD",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "ALONSO MOTA, IVAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "SAINZ ZAMORANO, NOE"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "BEZANILLA GARCIA, AARON",
+    "QUINTANA TORRE, MARTIN",
+    "GARCÍA ABASCAL, HECTOR",
+    "TRICIO USLE, EDUARDO",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "PORTILLA MAZA, ISMAEL",
+    "GUTIERREZ SARABIA, OSEL",
+    "SIERRA GONZALEZ, KEVIN",
+    "ALONSO PEREZ, DARIO",
+    "ORTIZ MANZANAS, LUCAS",
+    "COLINA DE LA HOZ, HUGO"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "ALONSO CRUZ, DIEGO",
+    "RUIZ ORTEGA, RODRIGO",
+    "GARCIA VARELA, ALAN",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "ROJO CANADELL, ALEJANDRO",
+    "DE FELIPE MONTES, OSCAR",
+    "FUENTE BARRERA, JUAN",
+    "JIMENEZ NIÑO, DAVID",
+    "ORTIZ FILGUEIRAS, JAVIER",
+    "GARCIA CASTILLO, JORGE",
+    "SAUQUILLO ALONSO, MARCO",
+    "DIEZ RIVERA, JAIME",
+    "ALONSO MOTA, IVAN",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "MARTE MUGICA, EDUARD"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "ORTIZ MANZANAS, LUCAS",
+      "sale": "QUINTANA TORRE, MARTIN"
+    },
+    {
+      "min": 55,
+      "entra": "COLINA DE LA HOZ, HUGO",
+      "sale": "RODRIGUEZ LABRADOR, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "SAUQUILLO ALONSO, MARCO",
+      "sale": "RODRIGUEZ RODRIGUEZ, CARLOS"
+    },
+    {
+      "min": 43,
+      "entra": "DIEZ RIVERA, JAIME",
+      "sale": "FUENTE BARRERA, JUAN"
+    },
+    {
+      "min": 43,
+      "entra": "ALONSO MOTA, IVAN",
+      "sale": "ALONSO CRUZ, DIEGO"
+    },
+    {
+      "min": 43,
+      "entra": "NAVARRO FERNANDEZ, ALEJANDRO",
+      "sale": "ORTIZ FILGUEIRAS, JAVIER"
+    },
+    {
+      "min": 58,
+      "entra": "MARTE MUGICA, EDUARD",
+      "sale": "ROJO CANADELL, ALEJANDRO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 90,
+    "BEZANILLA GARCIA, AARON": 90,
+    "QUINTANA TORRE, MARTIN": 55,
+    "GARCÍA ABASCAL, HECTOR": 90,
+    "TRICIO USLE, EDUARDO": 90,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 90,
+    "RODRIGUEZ LABRADOR, PABLO": 55,
+    "PORTILLA MAZA, ISMAEL": 90,
+    "GUTIERREZ SARABIA, OSEL": 90,
+    "SIERRA GONZALEZ, KEVIN": 90,
+    "ALONSO PEREZ, DARIO": 90,
+    "ORTIZ MANZANAS, LUCAS": 35,
+    "COLINA DE LA HOZ, HUGO": 35,
+    "RODRIGUEZ RODRIGUEZ, CARLOS": 35,
+    "ALONSO CRUZ, DIEGO": 43,
+    "RUIZ ORTEGA, RODRIGO": 90,
+    "GARCIA VARELA, ALAN": 90,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 90,
+    "ROJO CANADELL, ALEJANDRO": 58,
+    "DE FELIPE MONTES, OSCAR": 90,
+    "FUENTE BARRERA, JUAN": 43,
+    "JIMENEZ NIÑO, DAVID": 90,
+    "ORTIZ FILGUEIRAS, JAVIER": 43,
+    "GARCIA CASTILLO, JORGE": 90,
+    "SAUQUILLO ALONSO, MARCO": 55,
+    "DIEZ RIVERA, JAIME": 47,
+    "ALONSO MOTA, IVAN": 47,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 47,
+    "MARTE MUGICA, EDUARD": 32
+  },
+  "portero_local": "ROMILA VASILACHE, ALEJANDRO ANDREI",
+  "portero_visitante": "RODRIGUEZ RODRIGUEZ, CARLOS",
+  "dorsales_local": {
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 13,
+    "BEZANILLA GARCIA, AARON": 2,
+    "QUINTANA TORRE, MARTIN": 4,
+    "GARCÍA ABASCAL, HECTOR": 5,
+    "TRICIO USLE, EDUARDO": 8,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 9,
+    "RODRIGUEZ LABRADOR, PABLO": 10,
+    "PORTILLA MAZA, ISMAEL": 12,
+    "GUTIERREZ SARABIA, OSEL": 14,
+    "SIERRA GONZALEZ, KEVIN": 17,
+    "ALONSO PEREZ, DARIO": 19
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ RODRIGUEZ, CARLOS": 1,
+    "ALONSO CRUZ, DIEGO": 2,
+    "RUIZ ORTEGA, RODRIGO": 3,
+    "GARCIA VARELA, ALAN": 4,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 5,
+    "ROJO CANADELL, ALEJANDRO": 6,
+    "DE FELIPE MONTES, OSCAR": 7,
+    "FUENTE BARRERA, JUAN": 8,
+    "JIMENEZ NIÑO, DAVID": 9,
+    "ORTIZ FILGUEIRAS, JAVIER": 10,
+    "GARCIA CASTILLO, JORGE": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
