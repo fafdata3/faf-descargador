@@ -1,0 +1,277 @@
+{
+  "acta_id": "B_2008148",
+  "filename": "Acta_B_2008148.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 9,
+  "fecha": "30-11-2024",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ASTRABUDUAKO A",
+  "equipo_visitante": "BIZKERRE",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "DUARTE ARRIETA, ASIER"
+  ],
+  "estadio": "SAN LORENZO",
+  "ciudad": "ERANDIO (ASTRABUDUA)",
+  "goleadores": [
+    {
+      "minuto": 43,
+      "jugador": "CABALLERO TRINIDAD, ASIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "JIMENEZ YAGUE, IBAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "CABALLERO TRINIDAD, ASIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 52,
+      "jugador": "RILOVA MOCHA, JULEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "LARRAZABAL SANTISTEBAN, XABI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "GIL MAZO, IÑIGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "FRANCO ERAÑA, DANEL XABIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FANO ESKAURIATZA, IGOR",
+  "entrenador_visitante": "ALCORTA MARTINEZ, OSCAR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "HORMAECHE CANTERA, ENDIKA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HORMAECHE CANTERA, ENDIKA",
+  "delegado_equipo_visitante": "BOLAÑOS IZA, ASIER",
+  "titulares_local": [
+    "TERUELO ZUAZO, UNAI",
+    "GIL MAZO, IÑIGO",
+    "CAMPOS MARCOS, ANDEKA",
+    "MENDEZ RASINES, HODEI",
+    "RILOVA MOCHA, JULEN",
+    "CABALLERO TRINIDAD, ASIER",
+    "MOREDA MARTIN, YAGO",
+    "AGUIRRE GARCIA, IKER",
+    "CORNAGO DE LA VEGA, MARTIN",
+    "ALONSO DE LA QUINTANA, OIER",
+    "LARRAZABAL SANTISTEBAN, XABI"
+  ],
+  "titulares_visitante": [
+    "MATEO GONZALEZ, IKER",
+    "FRANCO ERAÑA, DANEL XABIER",
+    "JIMENEZ YAGUE, IBAI",
+    "BLANCO ARRILLAGA, MARKEL",
+    "SOLORZANO ELORDUY, ANER",
+    "MARTIN HURTADO, OIER",
+    "CASTILLO ALONSO, KERMAN",
+    "GOMEZ GOYARROLA, ASIER",
+    "LAZKANO CRESPO, MARKEL",
+    "ARNAIZ MARTINEZ, AIMAR",
+    "SARACHO GARCIA, ENDIKA"
+  ],
+  "suplentes_local": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "BLANCO GOMEZ, EKAIN",
+    "ALBA AYALA, JUAN DAVID",
+    "JORGE ARRUE, MIKEL",
+    "PALACIO GARCIA, OIER",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "IGLESIAS DUEÑAS, ARATZ"
+  ],
+  "suplentes_visitante": [
+    "LOTINA POZA, UNAX",
+    "LLANO RODRIGUEZ, TELMO GONZALO",
+    "SANZ GUARDIA, ALAN",
+    "LARRINAGA DIEZ, MARTXEL",
+    "SAGASTI SANTAMARIA, OIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "BLANCO GOMEZ, EKAIN",
+    "PALACIO GARCIA, OIER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "TERUELO ZUAZO, UNAI",
+    "GIL MAZO, IÑIGO",
+    "CAMPOS MARCOS, ANDEKA",
+    "MENDEZ RASINES, HODEI",
+    "RILOVA MOCHA, JULEN",
+    "CABALLERO TRINIDAD, ASIER",
+    "MOREDA MARTIN, YAGO",
+    "AGUIRRE GARCIA, IKER",
+    "CORNAGO DE LA VEGA, MARTIN",
+    "ALONSO DE LA QUINTANA, OIER",
+    "LARRAZABAL SANTISTEBAN, XABI",
+    "JORGE ARRUE, MIKEL",
+    "IGLESIAS DUEÑAS, ARATZ",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "ALBA AYALA, JUAN DAVID"
+  ],
+  "jugadores_visitante": [
+    "MATEO GONZALEZ, IKER",
+    "FRANCO ERAÑA, DANEL XABIER",
+    "JIMENEZ YAGUE, IBAI",
+    "BLANCO ARRILLAGA, MARKEL",
+    "SOLORZANO ELORDUY, ANER",
+    "MARTIN HURTADO, OIER",
+    "CASTILLO ALONSO, KERMAN",
+    "GOMEZ GOYARROLA, ASIER",
+    "LAZKANO CRESPO, MARKEL",
+    "ARNAIZ MARTINEZ, AIMAR",
+    "SARACHO GARCIA, ENDIKA",
+    "LARRINAGA DIEZ, MARTXEL",
+    "LOTINA POZA, UNAX",
+    "LLANO RODRIGUEZ, TELMO GONZALO",
+    "SANZ GUARDIA, ALAN",
+    "SAGASTI SANTAMARIA, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "JORGE ARRUE, MIKEL",
+      "sale": "ALONSO DE LA QUINTANA, OIER"
+    },
+    {
+      "min": 66,
+      "entra": "IGLESIAS DUEÑAS, ARATZ",
+      "sale": "AGUIRRE GARCIA, IKER"
+    },
+    {
+      "min": 66,
+      "entra": "CAMPO GURRUTXAGA, ALAIN",
+      "sale": "MOREDA MARTIN, YAGO"
+    },
+    {
+      "min": 79,
+      "entra": "ALBA AYALA, JUAN DAVID",
+      "sale": "RILOVA MOCHA, JULEN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "LARRINAGA DIEZ, MARTXEL",
+      "sale": "LAZKANO CRESPO, MARKEL"
+    },
+    {
+      "min": 54,
+      "entra": "LOTINA POZA, UNAX",
+      "sale": "MARTIN HURTADO, OIER"
+    },
+    {
+      "min": 62,
+      "entra": "LLANO RODRIGUEZ, TELMO GONZALO",
+      "sale": "SARACHO GARCIA, ENDIKA"
+    },
+    {
+      "min": 62,
+      "entra": "SANZ GUARDIA, ALAN",
+      "sale": "FRANCO ERAÑA, DANEL XABIER"
+    },
+    {
+      "min": 68,
+      "entra": "SAGASTI SANTAMARIA, OIER",
+      "sale": "GOMEZ GOYARROLA, ASIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "TERUELO ZUAZO, UNAI": 90,
+    "GIL MAZO, IÑIGO": 90,
+    "CAMPOS MARCOS, ANDEKA": 90,
+    "MENDEZ RASINES, HODEI": 90,
+    "RILOVA MOCHA, JULEN": 79,
+    "CABALLERO TRINIDAD, ASIER": 90,
+    "MOREDA MARTIN, YAGO": 66,
+    "AGUIRRE GARCIA, IKER": 66,
+    "CORNAGO DE LA VEGA, MARTIN": 90,
+    "ALONSO DE LA QUINTANA, OIER": 41,
+    "LARRAZABAL SANTISTEBAN, XABI": 90,
+    "JORGE ARRUE, MIKEL": 49,
+    "IGLESIAS DUEÑAS, ARATZ": 24,
+    "CAMPO GURRUTXAGA, ALAIN": 24,
+    "ALBA AYALA, JUAN DAVID": 11,
+    "MATEO GONZALEZ, IKER": 90,
+    "FRANCO ERAÑA, DANEL XABIER": 62,
+    "JIMENEZ YAGUE, IBAI": 90,
+    "BLANCO ARRILLAGA, MARKEL": 90,
+    "SOLORZANO ELORDUY, ANER": 90,
+    "MARTIN HURTADO, OIER": 54,
+    "CASTILLO ALONSO, KERMAN": 90,
+    "GOMEZ GOYARROLA, ASIER": 68,
+    "LAZKANO CRESPO, MARKEL": 54,
+    "ARNAIZ MARTINEZ, AIMAR": 90,
+    "SARACHO GARCIA, ENDIKA": 62,
+    "LARRINAGA DIEZ, MARTXEL": 36,
+    "LOTINA POZA, UNAX": 36,
+    "LLANO RODRIGUEZ, TELMO GONZALO": 28,
+    "SANZ GUARDIA, ALAN": 28,
+    "SAGASTI SANTAMARIA, OIER": 22
+  },
+  "portero_local": "TERUELO ZUAZO, UNAI",
+  "portero_visitante": "MATEO GONZALEZ, IKER",
+  "dorsales_local": {
+    "TERUELO ZUAZO, UNAI": 1,
+    "GIL MAZO, IÑIGO": 2,
+    "CAMPOS MARCOS, ANDEKA": 3,
+    "MENDEZ RASINES, HODEI": 4,
+    "RILOVA MOCHA, JULEN": 5,
+    "CABALLERO TRINIDAD, ASIER": 7,
+    "MOREDA MARTIN, YAGO": 9,
+    "AGUIRRE GARCIA, IKER": 10,
+    "CORNAGO DE LA VEGA, MARTIN": 17,
+    "ALONSO DE LA QUINTANA, OIER": 21,
+    "LARRAZABAL SANTISTEBAN, XABI": 24
+  },
+  "dorsales_visitante": {
+    "MATEO GONZALEZ, IKER": 1,
+    "FRANCO ERAÑA, DANEL XABIER": 4,
+    "JIMENEZ YAGUE, IBAI": 6,
+    "BLANCO ARRILLAGA, MARKEL": 7,
+    "SOLORZANO ELORDUY, ANER": 9,
+    "MARTIN HURTADO, OIER": 12,
+    "CASTILLO ALONSO, KERMAN": 14,
+    "GOMEZ GOYARROLA, ASIER": 17,
+    "LAZKANO CRESPO, MARKEL": 18,
+    "ARNAIZ MARTINEZ, AIMAR": 19,
+    "SARACHO GARCIA, ENDIKA": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
