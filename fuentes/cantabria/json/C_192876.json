@@ -1,0 +1,282 @@
+{
+  "acta_id": "C_192876",
+  "filename": "Acta_C_192876.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 17,
+  "fecha": "12-01-2025",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.AT. PERINES",
+  "equipo_visitante": "C.F. VIMENOR A",
+  "goles_local": 7,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAN MARTIN DE LA TEJA, JON"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 35,
+      "jugador": "HERNANDEZ DÍAZ, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 42,
+      "jugador": "ORDAX IBAÑEZ, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "ABARRATEGUI GONZALEZ, GERMAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "CANALES VILLA, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "CARRASCAL RUIZ, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "LASTRA CAÑEDO, FIDEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "DE LA FUENTE TORRE, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 31,
+      "jugador": "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "LASTRA CAÑEDO, FIDEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "CANO FERNANDEZ, ALONSO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARCOS NUÑEZ, JUAN JOSE",
+  "entrenador_visitante": "RODRIGUEZ PEREZ, VICTOR MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "SAIZ MARISCAL, ADRIAN",
+  "titulares_local": [
+    "SERTUCHA PEREZ, EDUARDO",
+    "GARCIA RUEDA, BELTRAN",
+    "MARTINEZ SANCHEZ, PEDRO",
+    "MARTINEZ MURIEDAS, PABLO",
+    "DE LA FUENTE TORRE, DANIEL",
+    "CANALES VILLA, IKER",
+    "ORDAX IBAÑEZ, DAVID",
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+    "HERNANDEZ DÍAZ, IKER",
+    "LOPEZ FERNANDEZ, IAN",
+    "FERNANDEZ FERNANDEZ, IKER"
+  ],
+  "titulares_visitante": [
+    "LÓPEZ ARROYO, IZAN",
+    "SAENZ COBO, ALEJANDRO",
+    "FRAGA GARCIA, FRANCISCO",
+    "GAÑO PINEDA, MANUEL",
+    "PELLÓN CRESPO, SERGIO",
+    "CANO FERNANDEZ, ALONSO",
+    "FERNÁNDEZ ÁLVAREZ, DAVID",
+    "VIERA AGUADO, SERGIO",
+    "SAN PEDRO SEGURA, DANIEL",
+    "DE PRADO DIB, ALVARO",
+    "IBÁÑEZ ESCUDERO, HUGO"
+  ],
+  "suplentes_local": [
+    "LASTRA CAÑEDO, FIDEL",
+    "CARRASCAL RUIZ, IZAN"
+  ],
+  "suplentes_visitante": [
+    "CAPELLAN ROBLEDO, DANIEL",
+    "DE LA VEGA TOCA, ÁNGEL",
+    "CIFRIÁN CONTADOR, JACOBO",
+    "ABARRATEGUI GONZALEZ, GERMAN",
+    "RUIZ DE LA ROSA, GONZALO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SERTUCHA PEREZ, EDUARDO",
+    "GARCIA RUEDA, BELTRAN",
+    "MARTINEZ SANCHEZ, PEDRO",
+    "MARTINEZ MURIEDAS, PABLO",
+    "DE LA FUENTE TORRE, DANIEL",
+    "CANALES VILLA, IKER",
+    "ORDAX IBAÑEZ, DAVID",
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+    "HERNANDEZ DÍAZ, IKER",
+    "LOPEZ FERNANDEZ, IAN",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "CARRASCAL RUIZ, IZAN",
+    "LASTRA CAÑEDO, FIDEL"
+  ],
+  "jugadores_visitante": [
+    "LÓPEZ ARROYO, IZAN",
+    "SAENZ COBO, ALEJANDRO",
+    "FRAGA GARCIA, FRANCISCO",
+    "GAÑO PINEDA, MANUEL",
+    "PELLÓN CRESPO, SERGIO",
+    "CANO FERNANDEZ, ALONSO",
+    "FERNÁNDEZ ÁLVAREZ, DAVID",
+    "VIERA AGUADO, SERGIO",
+    "SAN PEDRO SEGURA, DANIEL",
+    "DE PRADO DIB, ALVARO",
+    "IBÁÑEZ ESCUDERO, HUGO",
+    "CIFRIÁN CONTADOR, JACOBO",
+    "DE LA VEGA TOCA, ÁNGEL",
+    "ABARRATEGUI GONZALEZ, GERMAN",
+    "RUIZ DE LA ROSA, GONZALO",
+    "CAPELLAN ROBLEDO, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 63,
+      "entra": "CARRASCAL RUIZ, IZAN",
+      "sale": "MARTINEZ SANCHEZ, PEDRO"
+    },
+    {
+      "min": 70,
+      "entra": "LASTRA CAÑEDO, FIDEL",
+      "sale": "DE ARRIBA FERRERAS, ANGEL ANTHONY"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "CIFRIÁN CONTADOR, JACOBO",
+      "sale": "VIERA AGUADO, SERGIO"
+    },
+    {
+      "min": 52,
+      "entra": "DE LA VEGA TOCA, ÁNGEL",
+      "sale": "DE PRADO DIB, ALVARO"
+    },
+    {
+      "min": 52,
+      "entra": "ABARRATEGUI GONZALEZ, GERMAN",
+      "sale": "SAENZ COBO, ALEJANDRO"
+    },
+    {
+      "min": 59,
+      "entra": "RUIZ DE LA ROSA, GONZALO",
+      "sale": "SAN PEDRO SEGURA, DANIEL"
+    },
+    {
+      "min": 59,
+      "entra": "CAPELLAN ROBLEDO, DANIEL",
+      "sale": "GAÑO PINEDA, MANUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "SERTUCHA PEREZ, EDUARDO": 90,
+    "GARCIA RUEDA, BELTRAN": 90,
+    "MARTINEZ SANCHEZ, PEDRO": 63,
+    "MARTINEZ MURIEDAS, PABLO": 90,
+    "DE LA FUENTE TORRE, DANIEL": 90,
+    "CANALES VILLA, IKER": 90,
+    "ORDAX IBAÑEZ, DAVID": 90,
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY": 70,
+    "HERNANDEZ DÍAZ, IKER": 90,
+    "LOPEZ FERNANDEZ, IAN": 90,
+    "FERNANDEZ FERNANDEZ, IKER": 90,
+    "CARRASCAL RUIZ, IZAN": 27,
+    "LASTRA CAÑEDO, FIDEL": 20,
+    "LÓPEZ ARROYO, IZAN": 90,
+    "SAENZ COBO, ALEJANDRO": 52,
+    "FRAGA GARCIA, FRANCISCO": 90,
+    "GAÑO PINEDA, MANUEL": 59,
+    "PELLÓN CRESPO, SERGIO": 90,
+    "CANO FERNANDEZ, ALONSO": 90,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 90,
+    "VIERA AGUADO, SERGIO": 40,
+    "SAN PEDRO SEGURA, DANIEL": 59,
+    "DE PRADO DIB, ALVARO": 52,
+    "IBÁÑEZ ESCUDERO, HUGO": 90,
+    "CIFRIÁN CONTADOR, JACOBO": 50,
+    "DE LA VEGA TOCA, ÁNGEL": 38,
+    "ABARRATEGUI GONZALEZ, GERMAN": 38,
+    "RUIZ DE LA ROSA, GONZALO": 31,
+    "CAPELLAN ROBLEDO, DANIEL": 31
+  },
+  "portero_local": "SERTUCHA PEREZ, EDUARDO",
+  "portero_visitante": "LÓPEZ ARROYO, IZAN",
+  "dorsales_local": {
+    "SERTUCHA PEREZ, EDUARDO": 1,
+    "GARCIA RUEDA, BELTRAN": 2,
+    "MARTINEZ SANCHEZ, PEDRO": 3,
+    "MARTINEZ MURIEDAS, PABLO": 6,
+    "DE LA FUENTE TORRE, DANIEL": 7,
+    "CANALES VILLA, IKER": 9,
+    "ORDAX IBAÑEZ, DAVID": 10,
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY": 14,
+    "HERNANDEZ DÍAZ, IKER": 15,
+    "LOPEZ FERNANDEZ, IAN": 16,
+    "FERNANDEZ FERNANDEZ, IKER": 18
+  },
+  "dorsales_visitante": {
+    "LÓPEZ ARROYO, IZAN": 1,
+    "SAENZ COBO, ALEJANDRO": 2,
+    "FRAGA GARCIA, FRANCISCO": 3,
+    "GAÑO PINEDA, MANUEL": 4,
+    "PELLÓN CRESPO, SERGIO": 5,
+    "CANO FERNANDEZ, ALONSO": 6,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 7,
+    "VIERA AGUADO, SERGIO": 8,
+    "SAN PEDRO SEGURA, DANIEL": 9,
+    "DE PRADO DIB, ALVARO": 10,
+    "IBÁÑEZ ESCUDERO, HUGO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
