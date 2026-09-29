@@ -1,0 +1,265 @@
+{
+  "acta_id": "C_193062",
+  "filename": "Acta_C_193062.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 4,
+  "fecha": "28-09-2024",
+  "hora": "18:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "S.D. PEÑA REVILLA",
+  "equipo_visitante": "C.D. ARENAS DE FRAJANAS A",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DOMINGO FERNÁNDEZ, PABLO"
+  ],
+  "estadio": "El Regimiento",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 33,
+      "jugador": "ALONSO GONZALEZ, FERNANDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "LOMAS AYUSO, GERARDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "SAEZ HERNANDEZ, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "DÍEZ DOBARGANES, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "VICENTE LOPEZ, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "SAEZ HERNANDEZ, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RUIZ GARCIA, ALEJANDRO",
+  "entrenador_visitante": "MATE GARCIA, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DIAZ FERNANDEZ, ROBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DIAZ FERNANDEZ, ROBERTO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "MOLLEDA DEL OLMO, ADRIAN",
+    "GONZALEZ BOCANEGRA, IZAN",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "NARVAEZ GOMEZ, HUGO",
+    "ARENAS GÓMEZ, MARIO",
+    "SAEZ HERNANDEZ, MARCOS",
+    "CASTILLO FUENMAYOR, LEOMER DAVID",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER"
+  ],
+  "titulares_visitante": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "SAÑUDO HERRAN, HUGO",
+    "FUERTES LOPEZ, ANGEL",
+    "DIAZ SANCHEZ, IZAN",
+    "QUIJANO SOTO, PABLO",
+    "DE LA IGLESIA SALVADOR, RODRIGO"
+  ],
+  "suplentes_local": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "DELGADO CASTELLANOS, JEISON STIVEN",
+    "DÍEZ DOBARGANES, LUCAS",
+    "CASTILLO MONTES, MAURO",
+    "OCAMPO MUÑOZ, FELIPE"
+  ],
+  "suplentes_visitante": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "YEDRA MARTIN, NICOLAS",
+    "MATE GARCIA, ALVARO",
+    "MARTIN SECO, BRUNO",
+    "belver duran, ivan"
+  ],
+  "convocados_sin_jugar_local": [
+    "CORONADO RUIZ, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MOLLEDA DEL OLMO, ADRIAN",
+    "GONZALEZ BOCANEGRA, IZAN",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "NARVAEZ GOMEZ, HUGO",
+    "ARENAS GÓMEZ, MARIO",
+    "SAEZ HERNANDEZ, MARCOS",
+    "CASTILLO FUENMAYOR, LEOMER DAVID",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER",
+    "DÍEZ DOBARGANES, LUCAS",
+    "OCAMPO MUÑOZ, FELIPE",
+    "CASTILLO MONTES, MAURO",
+    "DELGADO CASTELLANOS, JEISON STIVEN"
+  ],
+  "jugadores_visitante": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "SAÑUDO HERRAN, HUGO",
+    "FUERTES LOPEZ, ANGEL",
+    "DIAZ SANCHEZ, IZAN",
+    "QUIJANO SOTO, PABLO",
+    "DE LA IGLESIA SALVADOR, RODRIGO",
+    "HERRERO VILLALOBOS, MARCOS",
+    "MATE GARCIA, ALVARO",
+    "MARTIN SECO, BRUNO",
+    "YEDRA MARTIN, NICOLAS",
+    "belver duran, ivan"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 24,
+      "entra": "DÍEZ DOBARGANES, LUCAS",
+      "sale": "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO"
+    },
+    {
+      "min": 62,
+      "entra": "OCAMPO MUÑOZ, FELIPE",
+      "sale": "NARVAEZ GOMEZ, HUGO"
+    },
+    {
+      "min": 73,
+      "entra": "CASTILLO MONTES, MAURO",
+      "sale": "VELEZ MEDINA, ALEXANDER"
+    },
+    {
+      "min": 75,
+      "entra": "DELGADO CASTELLANOS, JEISON STIVEN",
+      "sale": "CASTILLO FUENMAYOR, LEOMER DAVID"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "HERRERO VILLALOBOS, MARCOS",
+      "sale": "JIMENEZ LASTRA, MIGUEL"
+    },
+    {
+      "min": 40,
+      "entra": "MATE GARCIA, ALVARO",
+      "sale": "SAÑUDO HERRAN, HUGO"
+    },
+    {
+      "min": 59,
+      "entra": "MARTIN SECO, BRUNO",
+      "sale": "DIAZ SANCHEZ, IZAN"
+    },
+    {
+      "min": 65,
+      "entra": "YEDRA MARTIN, NICOLAS",
+      "sale": "ALONSO GONZALEZ, FERNANDO"
+    },
+    {
+      "min": 70,
+      "entra": "belver duran, ivan",
+      "sale": "QUIJANO SOTO, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MOLLEDA DEL OLMO, ADRIAN": 90,
+    "GONZALEZ BOCANEGRA, IZAN": 90,
+    "GUARDEÑO KRASIMIROV, DANIEL": 90,
+    "PASCAL, DAVID OCTAVIAN": 90,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 90,
+    "NARVAEZ GOMEZ, HUGO": 62,
+    "ARENAS GÓMEZ, MARIO": 90,
+    "SAEZ HERNANDEZ, MARCOS": 90,
+    "CASTILLO FUENMAYOR, LEOMER DAVID": 75,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 24,
+    "VELEZ MEDINA, ALEXANDER": 73,
+    "DÍEZ DOBARGANES, LUCAS": 66,
+    "OCAMPO MUÑOZ, FELIPE": 28,
+    "CASTILLO MONTES, MAURO": 17,
+    "DELGADO CASTELLANOS, JEISON STIVEN": 15,
+    "JIMENEZ LASTRA, MIGUEL": 40,
+    "BRAVO HERRERO, MARIO": 90,
+    "ALONSO GONZALEZ, FERNANDO": 65,
+    "VICENTE LOPEZ, IVAN": 90,
+    "TORIBIO ARCE, EDUARDO": 90,
+    "LOMAS AYUSO, GERARDO": 90,
+    "SAÑUDO HERRAN, HUGO": 40,
+    "FUERTES LOPEZ, ANGEL": 90,
+    "DIAZ SANCHEZ, IZAN": 59,
+    "QUIJANO SOTO, PABLO": 70,
+    "DE LA IGLESIA SALVADOR, RODRIGO": 90,
+    "HERRERO VILLALOBOS, MARCOS": 50,
+    "MATE GARCIA, ALVARO": 50,
+    "MARTIN SECO, BRUNO": 31,
+    "YEDRA MARTIN, NICOLAS": 25,
+    "belver duran, ivan": 20
+  },
+  "portero_local": "MOLLEDA DEL OLMO, ADRIAN",
+  "portero_visitante": "JIMENEZ LASTRA, MIGUEL",
+  "dorsales_local": {
+    "MOLLEDA DEL OLMO, ADRIAN": 1,
+    "GONZALEZ BOCANEGRA, IZAN": 2,
+    "GUARDEÑO KRASIMIROV, DANIEL": 3,
+    "PASCAL, DAVID OCTAVIAN": 4,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 5,
+    "NARVAEZ GOMEZ, HUGO": 6,
+    "ARENAS GÓMEZ, MARIO": 7,
+    "SAEZ HERNANDEZ, MARCOS": 8,
+    "CASTILLO FUENMAYOR, LEOMER DAVID": 9,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 10,
+    "VELEZ MEDINA, ALEXANDER": 11
+  },
+  "dorsales_visitante": {
+    "JIMENEZ LASTRA, MIGUEL": 13,
+    "BRAVO HERRERO, MARIO": 3,
+    "ALONSO GONZALEZ, FERNANDO": 4,
+    "VICENTE LOPEZ, IVAN": 5,
+    "TORIBIO ARCE, EDUARDO": 6,
+    "LOMAS AYUSO, GERARDO": 7,
+    "SAÑUDO HERRAN, HUGO": 8,
+    "FUERTES LOPEZ, ANGEL": 9,
+    "DIAZ SANCHEZ, IZAN": 11,
+    "QUIJANO SOTO, PABLO": 14,
+    "DE LA IGLESIA SALVADOR, RODRIGO": 23
+  },
+  "suspendidos": []
+}
