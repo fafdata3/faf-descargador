@@ -1,0 +1,293 @@
+{
+  "acta_id": "C_192732",
+  "filename": "Acta_C_192732.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 1,
+  "fecha": "07-09-2024",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.F. VIMENOR A",
+  "equipo_visitante": "C.D. MARINA SPORT A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RAMON TURRADO, JAVIER"
+  ],
+  "estadio": "Vioño",
+  "ciudad": "Piélagos",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "MARTIN LOPEZ, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "ABARRATEGUI GONZALEZ, GERMAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "GARCIA AGUADO, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 82,
+      "jugador": "Flor Martinez, IAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "MARTIN LOPEZ, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "PELLÓN CRESPO, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "ABARRATEGUI GONZALEZ, GERMAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 24,
+      "jugador": "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "COLLANTES GOMEZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "COLLANTES GOMEZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RODRIGUEZ PEREZ, VICTOR MANUEL",
+  "entrenador_visitante": "CAVIA ROIG, GERARDO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAIZ MARISCAL, ADRIAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAIZ MARISCAL, ADRIAN",
+  "delegado_equipo_visitante": "VEGA GUTIERREZ, JUAN",
+  "titulares_local": [
+    "PUENTE BUSTILLO, ENRIQUE",
+    "GAÑO PINEDA, MANUEL",
+    "LOIS VEGAS, LEO",
+    "FRAGA GARCIA, FRANCISCO",
+    "PELLÓN CRESPO, SERGIO",
+    "CIFRIÁN CONTADOR, JACOBO",
+    "MARTIN LOPEZ, IKER",
+    "IBÁÑEZ ESCUDERO, HUGO",
+    "RUIZ DE LA ROSA, GONZALO",
+    "ABARRATEGUI GONZALEZ, GERMAN",
+    "FERNÁNDEZ ÁLVAREZ, DAVID"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "COLLANTES GOMEZ, HUGO",
+    "DE ANGEL BATYREV, LUCAS",
+    "RUIZ SAIZ, MARIO",
+    "GARCIA AGUADO, DANIEL",
+    "GONZALEZ CAMUS, MARCO",
+    "REY LASTRA, JOSE LUIS",
+    "Flor Martinez, IAGO",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "agudo cuenca, DIEGO",
+    "FUENTES PALLEJA, ERIK"
+  ],
+  "suplentes_local": [
+    "CANO FERNANDEZ, ALONSO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "VIERA AGUADO, SERGIO",
+    "DE LA VEGA TOCA, ÁNGEL",
+    "SAN PEDRO SEGURA, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "PORTILLA CAMUS, ALEJANDRO",
+    "ASON BALAGUER, MARIO",
+    "GARCIA GARCIA, MARCOS",
+    "RUBIN MUÑOZ, MICHEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PUENTE BUSTILLO, ENRIQUE",
+    "GAÑO PINEDA, MANUEL",
+    "LOIS VEGAS, LEO",
+    "FRAGA GARCIA, FRANCISCO",
+    "PELLÓN CRESPO, SERGIO",
+    "CIFRIÁN CONTADOR, JACOBO",
+    "MARTIN LOPEZ, IKER",
+    "IBÁÑEZ ESCUDERO, HUGO",
+    "RUIZ DE LA ROSA, GONZALO",
+    "ABARRATEGUI GONZALEZ, GERMAN",
+    "FERNÁNDEZ ÁLVAREZ, DAVID",
+    "SAN PEDRO SEGURA, DANIEL",
+    "CANO FERNANDEZ, ALONSO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "VIERA AGUADO, SERGIO",
+    "DE LA VEGA TOCA, ÁNGEL"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "COLLANTES GOMEZ, HUGO",
+    "DE ANGEL BATYREV, LUCAS",
+    "RUIZ SAIZ, MARIO",
+    "GARCIA AGUADO, DANIEL",
+    "GONZALEZ CAMUS, MARCO",
+    "REY LASTRA, JOSE LUIS",
+    "Flor Martinez, IAGO",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "agudo cuenca, DIEGO",
+    "FUENTES PALLEJA, ERIK",
+    "GARCIA GARCIA, MARCOS",
+    "ASON BALAGUER, MARIO",
+    "RUBIN MUÑOZ, MICHEL",
+    "PORTILLA CAMUS, ALEJANDRO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "SAN PEDRO SEGURA, DANIEL",
+      "sale": "MARTIN LOPEZ, IKER"
+    },
+    {
+      "min": 51,
+      "entra": "CANO FERNANDEZ, ALONSO",
+      "sale": "GAÑO PINEDA, MANUEL"
+    },
+    {
+      "min": 60,
+      "entra": "CAPELLAN ROBLEDO, DANIEL",
+      "sale": "RUIZ DE LA ROSA, GONZALO"
+    },
+    {
+      "min": 67,
+      "entra": "VIERA AGUADO, SERGIO",
+      "sale": "CIFRIÁN CONTADOR, JACOBO"
+    },
+    {
+      "min": 67,
+      "entra": "DE LA VEGA TOCA, ÁNGEL",
+      "sale": "FERNÁNDEZ ÁLVAREZ, DAVID"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GARCIA GARCIA, MARCOS",
+      "sale": "RUIZ SAIZ, MARIO"
+    },
+    {
+      "min": 40,
+      "entra": "ASON BALAGUER, MARIO",
+      "sale": "REY LASTRA, JOSE LUIS"
+    },
+    {
+      "min": 65,
+      "entra": "RUBIN MUÑOZ, MICHEL",
+      "sale": "FUENTES PALLEJA, ERIK"
+    },
+    {
+      "min": 65,
+      "entra": "PORTILLA CAMUS, ALEJANDRO",
+      "sale": "agudo cuenca, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PUENTE BUSTILLO, ENRIQUE": 90,
+    "GAÑO PINEDA, MANUEL": 51,
+    "LOIS VEGAS, LEO": 90,
+    "FRAGA GARCIA, FRANCISCO": 90,
+    "PELLÓN CRESPO, SERGIO": 90,
+    "CIFRIÁN CONTADOR, JACOBO": 67,
+    "MARTIN LOPEZ, IKER": 51,
+    "IBÁÑEZ ESCUDERO, HUGO": 90,
+    "RUIZ DE LA ROSA, GONZALO": 60,
+    "ABARRATEGUI GONZALEZ, GERMAN": 90,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 67,
+    "SAN PEDRO SEGURA, DANIEL": 39,
+    "CANO FERNANDEZ, ALONSO": 39,
+    "CAPELLAN ROBLEDO, DANIEL": 30,
+    "VIERA AGUADO, SERGIO": 23,
+    "DE LA VEGA TOCA, ÁNGEL": 23,
+    "RODRIGUEZ GOMEZ, HUGO": 90,
+    "COLLANTES GOMEZ, HUGO": 90,
+    "DE ANGEL BATYREV, LUCAS": 90,
+    "RUIZ SAIZ, MARIO": 40,
+    "GARCIA AGUADO, DANIEL": 90,
+    "GONZALEZ CAMUS, MARCO": 90,
+    "REY LASTRA, JOSE LUIS": 40,
+    "Flor Martinez, IAGO": 90,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 90,
+    "agudo cuenca, DIEGO": 65,
+    "FUENTES PALLEJA, ERIK": 65,
+    "GARCIA GARCIA, MARCOS": 50,
+    "ASON BALAGUER, MARIO": 50,
+    "RUBIN MUÑOZ, MICHEL": 25,
+    "PORTILLA CAMUS, ALEJANDRO": 25
+  },
+  "portero_local": "PUENTE BUSTILLO, ENRIQUE",
+  "portero_visitante": "RODRIGUEZ GOMEZ, HUGO",
+  "dorsales_local": {
+    "PUENTE BUSTILLO, ENRIQUE": 1,
+    "GAÑO PINEDA, MANUEL": 2,
+    "LOIS VEGAS, LEO": 3,
+    "FRAGA GARCIA, FRANCISCO": 4,
+    "PELLÓN CRESPO, SERGIO": 5,
+    "CIFRIÁN CONTADOR, JACOBO": 6,
+    "MARTIN LOPEZ, IKER": 7,
+    "IBÁÑEZ ESCUDERO, HUGO": 8,
+    "RUIZ DE LA ROSA, GONZALO": 9,
+    "ABARRATEGUI GONZALEZ, GERMAN": 10,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 11
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ GOMEZ, HUGO": 1,
+    "COLLANTES GOMEZ, HUGO": 2,
+    "DE ANGEL BATYREV, LUCAS": 5,
+    "RUIZ SAIZ, MARIO": 6,
+    "GARCIA AGUADO, DANIEL": 7,
+    "GONZALEZ CAMUS, MARCO": 8,
+    "REY LASTRA, JOSE LUIS": 9,
+    "Flor Martinez, IAGO": 10,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 12,
+    "agudo cuenca, DIEGO": 16,
+    "FUENTES PALLEJA, ERIK": 18
+  },
+  "suspendidos": [
+    "COLLANTES GOMEZ, HUGO"
+  ],
+  "_marcador_widget": true
+}
