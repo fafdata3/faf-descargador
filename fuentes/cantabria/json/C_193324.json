@@ -1,0 +1,228 @@
+{
+  "acta_id": "C_193324",
+  "filename": "Acta_C_193324.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 33,
+  "fecha": "17-05-2025",
+  "hora": "12:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "CLUB BANSANDER B",
+  "equipo_visitante": "C.D. ARENAS DE FRAJANAS A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GOMEZ MARTINEZ, SERGIO"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 47,
+      "jugador": "SAINZ DE LA MAZA CARRERAS, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 68,
+      "jugador": "CARRANDI DIAZ, DARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "TORIBIO ARCE, EDUARDO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "belver duran, ivan",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CRUZ GALLARDO, PEDRO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SUAREZ MOREDA, CARLOS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SUAREZ MOREDA, CARLOS",
+  "delegado_equipo_visitante": "DE JUANA RODRIGUEZ, BORJA",
+  "titulares_local": [
+    "GHINDA GHINDA, DAVID",
+    "LÓPEZ DÍAZ, IZAN",
+    "ABAD BECERRA, ALEX",
+    "LOPEZ SAIZ, PABLO",
+    "PENILLA FERNANDEZ, SERGIO",
+    "MARTIN GARCIA, DIEGO",
+    "SANCHEZ BILBAO, MIGUEL",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "VILLA GARCIA, ARAN",
+    "ARENAS VIERA, DIEGO",
+    "SALAS GOMEZ, HUGO"
+  ],
+  "titulares_visitante": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "YEDRA MARTIN, NICOLAS",
+    "BRAVO HERRERO, MARIO",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "MARTIN SECO, BRUNO",
+    "QUIJANO SOTO, PABLO",
+    "belver duran, ivan",
+    "VALLE GUATE, JONAS"
+  ],
+  "suplentes_local": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "CARRANDI DIAZ, DARIO",
+    "GOMEZ VILLALABEITIA, ENOL",
+    "CAÑARTE SOTO, UNAI",
+    "TEJA TORRE, AURELIO"
+  ],
+  "suplentes_visitante": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "FUERTES LOPEZ, ANGEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "LEBEÑA RODRIGUEZ, ADRIAN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GHINDA GHINDA, DAVID",
+    "LÓPEZ DÍAZ, IZAN",
+    "ABAD BECERRA, ALEX",
+    "LOPEZ SAIZ, PABLO",
+    "PENILLA FERNANDEZ, SERGIO",
+    "MARTIN GARCIA, DIEGO",
+    "SANCHEZ BILBAO, MIGUEL",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "VILLA GARCIA, ARAN",
+    "ARENAS VIERA, DIEGO",
+    "SALAS GOMEZ, HUGO",
+    "CAÑARTE SOTO, UNAI",
+    "GOMEZ VILLALABEITIA, ENOL",
+    "CARRANDI DIAZ, DARIO",
+    "TEJA TORRE, AURELIO"
+  ],
+  "jugadores_visitante": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "YEDRA MARTIN, NICOLAS",
+    "BRAVO HERRERO, MARIO",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "MARTIN SECO, BRUNO",
+    "QUIJANO SOTO, PABLO",
+    "belver duran, ivan",
+    "VALLE GUATE, JONAS",
+    "JIMENEZ LASTRA, MIGUEL",
+    "FUERTES LOPEZ, ANGEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "CAÑARTE SOTO, UNAI",
+      "sale": "ARENAS VIERA, DIEGO"
+    },
+    {
+      "min": 40,
+      "entra": "GOMEZ VILLALABEITIA, ENOL",
+      "sale": "PENILLA FERNANDEZ, SERGIO"
+    },
+    {
+      "min": 40,
+      "entra": "CARRANDI DIAZ, DARIO",
+      "sale": "VILLA GARCIA, ARAN"
+    },
+    {
+      "min": 72,
+      "entra": "TEJA TORRE, AURELIO",
+      "sale": "SAINZ DE LA MAZA CARRERAS, ANGEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "JIMENEZ LASTRA, MIGUEL",
+      "sale": "HERRERO VILLALOBOS, MARCOS"
+    },
+    {
+      "min": 61,
+      "entra": "FUERTES LOPEZ, ANGEL",
+      "sale": "MATE GARCIA, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GHINDA GHINDA, DAVID": 90,
+    "LÓPEZ DÍAZ, IZAN": 90,
+    "ABAD BECERRA, ALEX": 90,
+    "LOPEZ SAIZ, PABLO": 90,
+    "PENILLA FERNANDEZ, SERGIO": 40,
+    "MARTIN GARCIA, DIEGO": 90,
+    "SANCHEZ BILBAO, MIGUEL": 90,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 72,
+    "VILLA GARCIA, ARAN": 40,
+    "ARENAS VIERA, DIEGO": 40,
+    "SALAS GOMEZ, HUGO": 90,
+    "CAÑARTE SOTO, UNAI": 50,
+    "GOMEZ VILLALABEITIA, ENOL": 50,
+    "CARRANDI DIAZ, DARIO": 50,
+    "TEJA TORRE, AURELIO": 18,
+    "HERRERO VILLALOBOS, MARCOS": 40,
+    "YEDRA MARTIN, NICOLAS": 90,
+    "BRAVO HERRERO, MARIO": 90,
+    "TORIBIO ARCE, EDUARDO": 90,
+    "LOMAS AYUSO, GERARDO": 90,
+    "MATE GARCIA, ALVARO": 61,
+    "DIAZ SANCHEZ, IZAN": 90,
+    "MARTIN SECO, BRUNO": 90,
+    "QUIJANO SOTO, PABLO": 90,
+    "belver duran, ivan": 90,
+    "VALLE GUATE, JONAS": 90,
+    "JIMENEZ LASTRA, MIGUEL": 50,
+    "FUERTES LOPEZ, ANGEL": 29
+  },
+  "portero_local": "GHINDA GHINDA, DAVID",
+  "portero_visitante": "HERRERO VILLALOBOS, MARCOS",
+  "dorsales_local": {
+    "GHINDA GHINDA, DAVID": 13,
+    "LÓPEZ DÍAZ, IZAN": 3,
+    "ABAD BECERRA, ALEX": 4,
+    "LOPEZ SAIZ, PABLO": 5,
+    "PENILLA FERNANDEZ, SERGIO": 7,
+    "MARTIN GARCIA, DIEGO": 9,
+    "SANCHEZ BILBAO, MIGUEL": 10,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 14,
+    "VILLA GARCIA, ARAN": 15,
+    "ARENAS VIERA, DIEGO": 17,
+    "SALAS GOMEZ, HUGO": 20
+  },
+  "dorsales_visitante": {
+    "HERRERO VILLALOBOS, MARCOS": 1,
+    "YEDRA MARTIN, NICOLAS": 2,
+    "BRAVO HERRERO, MARIO": 3,
+    "TORIBIO ARCE, EDUARDO": 6,
+    "LOMAS AYUSO, GERARDO": 7,
+    "MATE GARCIA, ALVARO": 10,
+    "DIAZ SANCHEZ, IZAN": 11,
+    "MARTIN SECO, BRUNO": 12,
+    "QUIJANO SOTO, PABLO": 14,
+    "belver duran, ivan": 15,
+    "VALLE GUATE, JONAS": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
