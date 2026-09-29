@@ -1,0 +1,257 @@
+{
+  "acta_id": "C_171421",
+  "filename": "Acta_C_171421.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 30,
+  "fecha": "04-05-2024",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. MONTE B",
+  "equipo_visitante": "E.D.M. VILLAESCUSA A",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCIA MAYO, OSCAR"
+  ],
+  "estadio": "Monte 1",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "CANALES CHAMIZO, GONZALO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "CANALES CHAMIZO, GONZALO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "FERRADAS GONZALEZ-CORDERO, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "ESPINOSA ANGULO, LUCA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "maillo haya, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "COSTA CATALINA, JUAN JOSE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "CIANCA LIAÑO, RODRIGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CRUZ AGUDO, CIPRIANO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CRUZ AGUDO, CIPRIANO",
+  "delegado_equipo_visitante": "GONZALEZ SARABIA, CARLOS",
+  "titulares_local": [
+    "VEGA GUTIERREZ, ALBERTO",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "SOLAR LAVIN, EDUARDO",
+    "VILLA CARDENAS, CHRISTIAN",
+    "SANTODOMINGO MARTINS, FERNANDO SAMUEL",
+    "ROZAS ATECA, JUAN",
+    "FERRADAS GONZALEZ-CORDERO, DIEGO",
+    "MARTIN PUENTE, HUGO",
+    "CANALES CHAMIZO, GONZALO",
+    "ESPINOSA ANGULO, LUCA",
+    "PEREZ MONGE, MARCOS"
+  ],
+  "titulares_visitante": [
+    "CRIADO PEÑA, RODRIGO",
+    "CIANCA LIAÑO, RODRIGO",
+    "PEREZ GARCIA, ALEJANDRO",
+    "SANTIAGO RASILLA, IVAN",
+    "COSTA CATALINA, JUAN JOSE",
+    "ALVAREZ LOPEZ, DANIEL",
+    "PRATS TORRE, MARIO",
+    "BAHILLO HERRERIAS, DANIEL",
+    "BENITEZ SOBREMAZAS, NICOLAS",
+    "ARCE CANO, DIEGO",
+    "RUIZ CUMBRADOS, GUILLERMO"
+  ],
+  "suplentes_local": [
+    "ALONSO ARRANZ, SERGIO",
+    "OJEA ALONSO, HUGO",
+    "ELORZA, KYLE JASON",
+    "GONZALEZ GIL, IVAN"
+  ],
+  "suplentes_visitante": [
+    "MARTIN SOLORZANO, DANIEL",
+    "maillo haya, PABLO",
+    "AJA SORIANO, PEDRO",
+    "diego herrero, rodrigo"
+  ],
+  "convocados_sin_jugar_local": [
+    "ALONSO ARRANZ, SERGIO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "VEGA GUTIERREZ, ALBERTO",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "SOLAR LAVIN, EDUARDO",
+    "VILLA CARDENAS, CHRISTIAN",
+    "SANTODOMINGO MARTINS, FERNANDO SAMUEL",
+    "ROZAS ATECA, JUAN",
+    "FERRADAS GONZALEZ-CORDERO, DIEGO",
+    "MARTIN PUENTE, HUGO",
+    "CANALES CHAMIZO, GONZALO",
+    "ESPINOSA ANGULO, LUCA",
+    "PEREZ MONGE, MARCOS",
+    "ELORZA, KYLE JASON",
+    "GONZALEZ GIL, IVAN",
+    "OJEA ALONSO, HUGO"
+  ],
+  "jugadores_visitante": [
+    "CRIADO PEÑA, RODRIGO",
+    "CIANCA LIAÑO, RODRIGO",
+    "PEREZ GARCIA, ALEJANDRO",
+    "SANTIAGO RASILLA, IVAN",
+    "COSTA CATALINA, JUAN JOSE",
+    "ALVAREZ LOPEZ, DANIEL",
+    "PRATS TORRE, MARIO",
+    "BAHILLO HERRERIAS, DANIEL",
+    "BENITEZ SOBREMAZAS, NICOLAS",
+    "ARCE CANO, DIEGO",
+    "RUIZ CUMBRADOS, GUILLERMO",
+    "maillo haya, PABLO",
+    "diego herrero, rodrigo",
+    "MARTIN SOLORZANO, DANIEL",
+    "AJA SORIANO, PEDRO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 73,
+      "entra": "ELORZA, KYLE JASON",
+      "sale": "FERRADAS GONZALEZ-CORDERO, DIEGO"
+    },
+    {
+      "min": 73,
+      "entra": "GONZALEZ GIL, IVAN",
+      "sale": "MARTIN PUENTE, HUGO"
+    },
+    {
+      "min": 73,
+      "entra": "OJEA ALONSO, HUGO",
+      "sale": "SANTODOMINGO MARTINS, FERNANDO SAMUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "maillo haya, PABLO",
+      "sale": "BAHILLO HERRERIAS, DANIEL"
+    },
+    {
+      "min": 51,
+      "entra": "diego herrero, rodrigo",
+      "sale": "ARCE CANO, DIEGO"
+    },
+    {
+      "min": 61,
+      "entra": "MARTIN SOLORZANO, DANIEL",
+      "sale": "COSTA CATALINA, JUAN JOSE"
+    },
+    {
+      "min": 70,
+      "entra": "AJA SORIANO, PEDRO",
+      "sale": "CIANCA LIAÑO, RODRIGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "VEGA GUTIERREZ, ALBERTO": 90,
+    "FERNANDEZ FERNANDEZ, IKER": 90,
+    "SOLAR LAVIN, EDUARDO": 90,
+    "VILLA CARDENAS, CHRISTIAN": 90,
+    "SANTODOMINGO MARTINS, FERNANDO SAMUEL": 73,
+    "ROZAS ATECA, JUAN": 90,
+    "FERRADAS GONZALEZ-CORDERO, DIEGO": 73,
+    "MARTIN PUENTE, HUGO": 73,
+    "CANALES CHAMIZO, GONZALO": 90,
+    "ESPINOSA ANGULO, LUCA": 90,
+    "PEREZ MONGE, MARCOS": 90,
+    "ELORZA, KYLE JASON": 17,
+    "GONZALEZ GIL, IVAN": 17,
+    "OJEA ALONSO, HUGO": 17,
+    "CRIADO PEÑA, RODRIGO": 90,
+    "CIANCA LIAÑO, RODRIGO": 70,
+    "PEREZ GARCIA, ALEJANDRO": 90,
+    "SANTIAGO RASILLA, IVAN": 90,
+    "COSTA CATALINA, JUAN JOSE": 61,
+    "ALVAREZ LOPEZ, DANIEL": 90,
+    "PRATS TORRE, MARIO": 90,
+    "BAHILLO HERRERIAS, DANIEL": 45,
+    "BENITEZ SOBREMAZAS, NICOLAS": 90,
+    "ARCE CANO, DIEGO": 51,
+    "RUIZ CUMBRADOS, GUILLERMO": 90,
+    "maillo haya, PABLO": 45,
+    "diego herrero, rodrigo": 39,
+    "MARTIN SOLORZANO, DANIEL": 29,
+    "AJA SORIANO, PEDRO": 20
+  },
+  "portero_local": "VEGA GUTIERREZ, ALBERTO",
+  "portero_visitante": "CRIADO PEÑA, RODRIGO",
+  "dorsales_local": {
+    "VEGA GUTIERREZ, ALBERTO": 1,
+    "FERNANDEZ FERNANDEZ, IKER": 3,
+    "SOLAR LAVIN, EDUARDO": 5,
+    "VILLA CARDENAS, CHRISTIAN": 6,
+    "SANTODOMINGO MARTINS, FERNANDO SAMUEL": 7,
+    "ROZAS ATECA, JUAN": 8,
+    "FERRADAS GONZALEZ-CORDERO, DIEGO": 15,
+    "MARTIN PUENTE, HUGO": 17,
+    "CANALES CHAMIZO, GONZALO": 19,
+    "ESPINOSA ANGULO, LUCA": 21,
+    "PEREZ MONGE, MARCOS": 22
+  },
+  "dorsales_visitante": {
+    "CRIADO PEÑA, RODRIGO": 13,
+    "CIANCA LIAÑO, RODRIGO": 2,
+    "PEREZ GARCIA, ALEJANDRO": 4,
+    "SANTIAGO RASILLA, IVAN": 5,
+    "COSTA CATALINA, JUAN JOSE": 6,
+    "ALVAREZ LOPEZ, DANIEL": 7,
+    "PRATS TORRE, MARIO": 8,
+    "BAHILLO HERRERIAS, DANIEL": 9,
+    "BENITEZ SOBREMAZAS, NICOLAS": 10,
+    "ARCE CANO, DIEGO": 11,
+    "RUIZ CUMBRADOS, GUILLERMO": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
