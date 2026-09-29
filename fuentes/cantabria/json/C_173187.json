@@ -1,0 +1,226 @@
+{
+  "acta_id": "C_173187",
+  "filename": "Acta_C_173187.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 6,
+  "fecha": "28-10-2023",
+  "hora": "12:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.F. VIMENOR A",
+  "equipo_visitante": "C.D. MARINA SPORT A",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCÍA RUIZ, JAVIER"
+  ],
+  "estadio": "Vioño",
+  "ciudad": "Piélagos",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "DE FELIPE MONTES, OSCAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "JIMENEZ NIÑO, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "ALONSO MOTA, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "MARTE MUGICA, EDUARD",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "JIMENEZ NIÑO, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "PRIETO BARCENA, ABEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "MARTIN LOPEZ, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "SIERRA VÁZQUEZ, SALVADOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CHAVES OBREGON, FERNANDO",
+  "entrenador_visitante": "ENTRECANALES SAN MIGUEL, SERGIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CALDERON HARO, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CALDERON HARO, DANIEL",
+  "delegado_equipo_visitante": "DURAN HERNANDEZ, JESUS",
+  "titulares_local": [
+    "GÓMEZ MUÑIZ, MARTÍN",
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO",
+    "SIERRA VÁZQUEZ, SALVADOR",
+    "ALISEDA RODRIGUES, HUGO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "GÓMEZ BÁRCENA, AARON",
+    "MENDEZ COBO, SAUL",
+    "CAYÓN GUTIERREZ, CARLOS",
+    "MARTIN LOPEZ, IKER",
+    "LOIS VEGAS, SANCHO",
+    "PRIETO BARCENA, ABEL"
+  ],
+  "titulares_visitante": [
+    "SAUQUILLO ALONSO, MARCO",
+    "DIEZ RIVERA, JAIME",
+    "RUIZ ORTEGA, RODRIGO",
+    "GARCIA VARELA, ALAN",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "ROJO CANADELL, ALEJANDRO",
+    "DE FELIPE MONTES, OSCAR",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "JIMENEZ NIÑO, DAVID",
+    "ALONSO MOTA, IVAN",
+    "GARCIA CASTILLO, JORGE"
+  ],
+  "suplentes_local": [
+    "MERINO RIANCHO, DANIEL",
+    "PÉREZ VELA, MARCOS",
+    "URDA GARCIA, JUAN"
+  ],
+  "suplentes_visitante": [
+    "ALONSO CRUZ, DIEGO",
+    "MARTE MUGICA, EDUARD"
+  ],
+  "convocados_sin_jugar_local": [
+    "MERINO RIANCHO, DANIEL",
+    "PÉREZ VELA, MARCOS",
+    "URDA GARCIA, JUAN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GÓMEZ MUÑIZ, MARTÍN",
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO",
+    "SIERRA VÁZQUEZ, SALVADOR",
+    "ALISEDA RODRIGUES, HUGO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "GÓMEZ BÁRCENA, AARON",
+    "MENDEZ COBO, SAUL",
+    "CAYÓN GUTIERREZ, CARLOS",
+    "MARTIN LOPEZ, IKER",
+    "LOIS VEGAS, SANCHO",
+    "PRIETO BARCENA, ABEL"
+  ],
+  "jugadores_visitante": [
+    "SAUQUILLO ALONSO, MARCO",
+    "DIEZ RIVERA, JAIME",
+    "RUIZ ORTEGA, RODRIGO",
+    "GARCIA VARELA, ALAN",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "ROJO CANADELL, ALEJANDRO",
+    "DE FELIPE MONTES, OSCAR",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "JIMENEZ NIÑO, DAVID",
+    "ALONSO MOTA, IVAN",
+    "GARCIA CASTILLO, JORGE",
+    "MARTE MUGICA, EDUARD",
+    "ALONSO CRUZ, DIEGO"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "MARTE MUGICA, EDUARD",
+      "sale": "NAVARRO FERNANDEZ, ALEJANDRO"
+    },
+    {
+      "min": 48,
+      "entra": "ALONSO CRUZ, DIEGO",
+      "sale": "DIEZ RIVERA, JAIME"
+    }
+  ],
+  "minutos_jugadores": {
+    "GÓMEZ MUÑIZ, MARTÍN": 90,
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO": 90,
+    "SIERRA VÁZQUEZ, SALVADOR": 90,
+    "ALISEDA RODRIGUES, HUGO": 90,
+    "CAPELLAN ROBLEDO, DANIEL": 90,
+    "GÓMEZ BÁRCENA, AARON": 90,
+    "MENDEZ COBO, SAUL": 90,
+    "CAYÓN GUTIERREZ, CARLOS": 90,
+    "MARTIN LOPEZ, IKER": 90,
+    "LOIS VEGAS, SANCHO": 90,
+    "PRIETO BARCENA, ABEL": 90,
+    "SAUQUILLO ALONSO, MARCO": 90,
+    "DIEZ RIVERA, JAIME": 48,
+    "RUIZ ORTEGA, RODRIGO": 90,
+    "GARCIA VARELA, ALAN": 90,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 90,
+    "ROJO CANADELL, ALEJANDRO": 90,
+    "DE FELIPE MONTES, OSCAR": 90,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 41,
+    "JIMENEZ NIÑO, DAVID": 90,
+    "ALONSO MOTA, IVAN": 90,
+    "GARCIA CASTILLO, JORGE": 90,
+    "MARTE MUGICA, EDUARD": 49,
+    "ALONSO CRUZ, DIEGO": 42
+  },
+  "portero_local": "GÓMEZ MUÑIZ, MARTÍN",
+  "portero_visitante": "SAUQUILLO ALONSO, MARCO",
+  "dorsales_local": {
+    "GÓMEZ MUÑIZ, MARTÍN": 1,
+    "DEL BARRIO LAVÍN, JOSÉ ANTONIO": 2,
+    "SIERRA VÁZQUEZ, SALVADOR": 3,
+    "ALISEDA RODRIGUES, HUGO": 4,
+    "CAPELLAN ROBLEDO, DANIEL": 5,
+    "GÓMEZ BÁRCENA, AARON": 6,
+    "MENDEZ COBO, SAUL": 8,
+    "CAYÓN GUTIERREZ, CARLOS": 9,
+    "MARTIN LOPEZ, IKER": 10,
+    "LOIS VEGAS, SANCHO": 11,
+    "PRIETO BARCENA, ABEL": 12
+  },
+  "dorsales_visitante": {
+    "SAUQUILLO ALONSO, MARCO": 1,
+    "DIEZ RIVERA, JAIME": 2,
+    "RUIZ ORTEGA, RODRIGO": 3,
+    "GARCIA VARELA, ALAN": 4,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 5,
+    "ROJO CANADELL, ALEJANDRO": 6,
+    "DE FELIPE MONTES, OSCAR": 7,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 8,
+    "JIMENEZ NIÑO, DAVID": 9,
+    "ALONSO MOTA, IVAN": 10,
+    "GARCIA CASTILLO, JORGE": 11
+  },
+  "suspendidos": []
+}
