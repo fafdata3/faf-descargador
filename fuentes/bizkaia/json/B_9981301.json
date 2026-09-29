@@ -1,0 +1,268 @@
+{
+  "acta_id": "B_9981301",
+  "filename": "Acta_B_9981301.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "24-01-2026",
+  "hora": "12:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "PORTUGALETE B",
+  "equipo_visitante": "TRAPAGARAN A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BRITO MARTINEZ, JULIO CESAR"
+  ],
+  "estadio": "LOS LLANOS",
+  "ciudad": "Portugalete",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "DÍAZ MULERO, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "MOREIRO FERNÁNDEZ, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "PAVON FERNANDEZ, ENAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 42,
+      "jugador": "LAZCANO GALLEGO, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "MOREIRO FERNÁNDEZ, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "DORIN, ROMICA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "DORIN, ROMICA",
+  "entrenador_visitante": "IGLESIAS VELASCO, JOSE RAMON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "DIEZ GUERRERO, JOKIN",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "REGUEIRO GARCÍA, MIKEL",
+  "titulares_local": [
+    "LOPEZ SANCHEZ, MARKEL",
+    "GALAN MAZAS, IMANOL",
+    "BLASCO MUÑOZ, ASIER",
+    "ESCAPA PEREZ, MARCO",
+    "RUIZ MARCANO, LIER",
+    "PAVON FERNANDEZ, ENAITZ",
+    "ORTIZ NEGRO, ANDER",
+    "LAZCANO GALLEGO, ALVARO",
+    "MOREIRO FERNÁNDEZ, AIMAR",
+    "MESA LOPEZ, HUGO",
+    "LORENZO GARCIA, JON"
+  ],
+  "titulares_visitante": [
+    "FERNÁNDEZ AGUILAR, UNAI",
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "GONZALEZ MARTINEZ, URKO",
+    "SAIZ CARBAJO, KERMAN",
+    "RUIZ FRAILE, URKO",
+    "ARMENTIA LARRAURI, XABIER",
+    "ROMERO PEREZ, ALVARO",
+    "FERNÁNDEZ AGUILAR, MARIO",
+    "DÍAZ MULERO, MIKEL",
+    "MARIN GARCIA, ALVARO"
+  ],
+  "suplentes_local": [
+    "LÓPEZ DEL VAL, ROBERTO",
+    "CHAMORRO PEREIRA, GERARD",
+    "ARRIANDIAGA ADRIAN, BEÑAT",
+    "PUENTE GONZALEZ, IKER",
+    "ARCE RAMÓN, IZAN"
+  ],
+  "suplentes_visitante": [
+    "SARMANTON GALLO, LIER",
+    "EROA SORIANO, OIER",
+    "FUENTES OCHOA, IÑIGO",
+    "RUIZ PARIS, ASIER",
+    "DÍAZ MULERO, ANDER",
+    "GUTIERREZ CACERES, DYLAN MISAEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARRIANDIAGA ADRIAN, BEÑAT"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DÍAZ MULERO, ANDER"
+  ],
+  "jugadores_local": [
+    "LOPEZ SANCHEZ, MARKEL",
+    "GALAN MAZAS, IMANOL",
+    "BLASCO MUÑOZ, ASIER",
+    "ESCAPA PEREZ, MARCO",
+    "RUIZ MARCANO, LIER",
+    "PAVON FERNANDEZ, ENAITZ",
+    "ORTIZ NEGRO, ANDER",
+    "LAZCANO GALLEGO, ALVARO",
+    "MOREIRO FERNÁNDEZ, AIMAR",
+    "MESA LOPEZ, HUGO",
+    "LORENZO GARCIA, JON",
+    "ARCE RAMÓN, IZAN",
+    "PUENTE GONZALEZ, IKER",
+    "LÓPEZ DEL VAL, ROBERTO",
+    "CHAMORRO PEREIRA, GERARD"
+  ],
+  "jugadores_visitante": [
+    "FERNÁNDEZ AGUILAR, UNAI",
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "GONZALEZ MARTINEZ, URKO",
+    "SAIZ CARBAJO, KERMAN",
+    "RUIZ FRAILE, URKO",
+    "ARMENTIA LARRAURI, XABIER",
+    "ROMERO PEREZ, ALVARO",
+    "FERNÁNDEZ AGUILAR, MARIO",
+    "DÍAZ MULERO, MIKEL",
+    "MARIN GARCIA, ALVARO",
+    "EROA SORIANO, OIER",
+    "RUIZ PARIS, ASIER",
+    "SARMANTON GALLO, LIER",
+    "FUENTES OCHOA, IÑIGO",
+    "GUTIERREZ CACERES, DYLAN MISAEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "ARCE RAMÓN, IZAN",
+      "sale": "RUIZ MARCANO, LIER"
+    },
+    {
+      "min": 51,
+      "entra": "PUENTE GONZALEZ, IKER",
+      "sale": "ORTIZ NEGRO, ANDER"
+    },
+    {
+      "min": 61,
+      "entra": "LÓPEZ DEL VAL, ROBERTO",
+      "sale": "LORENZO GARCIA, JON"
+    },
+    {
+      "min": 61,
+      "entra": "CHAMORRO PEREIRA, GERARD",
+      "sale": "MOREIRO FERNÁNDEZ, AIMAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 32,
+      "entra": "EROA SORIANO, OIER",
+      "sale": "FERNÁNDEZ AGUILAR, MARIO"
+    },
+    {
+      "min": 55,
+      "entra": "RUIZ PARIS, ASIER",
+      "sale": "GONZALEZ MARTINEZ, URKO"
+    },
+    {
+      "min": 55,
+      "entra": "SARMANTON GALLO, LIER",
+      "sale": "ROMERO PEREZ, ALVARO"
+    },
+    {
+      "min": 71,
+      "entra": "FUENTES OCHOA, IÑIGO",
+      "sale": "SAIZ CARBAJO, KERMAN"
+    },
+    {
+      "min": 71,
+      "entra": "GUTIERREZ CACERES, DYLAN MISAEL",
+      "sale": "DÍAZ MULERO, MIKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "LOPEZ SANCHEZ, MARKEL": 90,
+    "GALAN MAZAS, IMANOL": 90,
+    "BLASCO MUÑOZ, ASIER": 90,
+    "ESCAPA PEREZ, MARCO": 90,
+    "RUIZ MARCANO, LIER": 40,
+    "PAVON FERNANDEZ, ENAITZ": 90,
+    "ORTIZ NEGRO, ANDER": 51,
+    "LAZCANO GALLEGO, ALVARO": 90,
+    "MOREIRO FERNÁNDEZ, AIMAR": 61,
+    "MESA LOPEZ, HUGO": 90,
+    "LORENZO GARCIA, JON": 61,
+    "ARCE RAMÓN, IZAN": 50,
+    "PUENTE GONZALEZ, IKER": 39,
+    "LÓPEZ DEL VAL, ROBERTO": 29,
+    "CHAMORRO PEREIRA, GERARD": 29,
+    "FERNÁNDEZ AGUILAR, UNAI": 90,
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER": 90,
+    "SESMERO RUIZ, XABIER": 90,
+    "GONZALEZ MARTINEZ, URKO": 55,
+    "SAIZ CARBAJO, KERMAN": 71,
+    "RUIZ FRAILE, URKO": 90,
+    "ARMENTIA LARRAURI, XABIER": 90,
+    "ROMERO PEREZ, ALVARO": 55,
+    "FERNÁNDEZ AGUILAR, MARIO": 32,
+    "DÍAZ MULERO, MIKEL": 71,
+    "MARIN GARCIA, ALVARO": 90,
+    "EROA SORIANO, OIER": 58,
+    "RUIZ PARIS, ASIER": 35,
+    "SARMANTON GALLO, LIER": 35,
+    "FUENTES OCHOA, IÑIGO": 19,
+    "GUTIERREZ CACERES, DYLAN MISAEL": 19
+  },
+  "portero_local": "LOPEZ SANCHEZ, MARKEL",
+  "portero_visitante": "FERNÁNDEZ AGUILAR, UNAI",
+  "dorsales_local": {
+    "LOPEZ SANCHEZ, MARKEL": 1,
+    "GALAN MAZAS, IMANOL": 3,
+    "BLASCO MUÑOZ, ASIER": 4,
+    "ESCAPA PEREZ, MARCO": 5,
+    "RUIZ MARCANO, LIER": 11,
+    "PAVON FERNANDEZ, ENAITZ": 12,
+    "ORTIZ NEGRO, ANDER": 14,
+    "LAZCANO GALLEGO, ALVARO": 15,
+    "MOREIRO FERNÁNDEZ, AIMAR": 16,
+    "MESA LOPEZ, HUGO": 17,
+    "LORENZO GARCIA, JON": 20
+  },
+  "dorsales_visitante": {
+    "FERNÁNDEZ AGUILAR, UNAI": 1,
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER": 4,
+    "SESMERO RUIZ, XABIER": 5,
+    "GONZALEZ MARTINEZ, URKO": 8,
+    "SAIZ CARBAJO, KERMAN": 9,
+    "RUIZ FRAILE, URKO": 10,
+    "ARMENTIA LARRAURI, XABIER": 14,
+    "ROMERO PEREZ, ALVARO": 16,
+    "FERNÁNDEZ AGUILAR, MARIO": 17,
+    "DÍAZ MULERO, MIKEL": 18,
+    "MARIN GARCIA, ALVARO": 22
+  },
+  "suspendidos": []
+}
