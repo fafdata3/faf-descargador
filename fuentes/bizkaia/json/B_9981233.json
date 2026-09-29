@@ -1,0 +1,262 @@
+{
+  "acta_id": "B_9981233",
+  "filename": "Acta_B_9981233.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 8,
+  "fecha": "23-11-2025",
+  "hora": "13:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "DEUSTO B",
+  "equipo_visitante": "ITZUBALTZETA",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "SEDANO MIJARES, ANDER"
+  ],
+  "estadio": "ETXEZURI",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 68,
+      "jugador": "VILLA URETA, ASER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "KRIDA GOMEZ, RAYAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "VALENCIANO HERNANDEZ, XABIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "DE LEON ROMERO, IZAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "AIBA, KANJI",
+  "entrenador_visitante": "BARRENETXEA ATXURRA, IÑIGO",
+  "segundo_entrenador_local": "ARREGI ESTARTA, JOKIN",
+  "segundo_entrenador_visitante": "MARROQUIN LEON, MIKEL",
+  "delegado_campo_local": "HERRERA JAUREGUI, EGOITZ",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HERRERA JAUREGUI, EGOITZ",
+  "delegado_equipo_visitante": "GOMEZ GARRIDO, JON",
+  "titulares_local": [
+    "DE LA VARGA ALDAY, PERU",
+    "VALENCIANO HERNANDEZ, XABIER",
+    "ORTEGA SANTIAGO, UNAX",
+    "SANTIAGO BILBAO, ANTXON",
+    "MIELGO GOMEZ, YURI",
+    "GARTZIA CISNEROS, MANEX",
+    "HERRERA FERNANDEZ, JULEN",
+    "VEGA ESPLIGARES, OIHAN",
+    "DE LEON ROMERO, IZAN",
+    "EBANG MOKUY, DANIEL SALVADOR",
+    "ANDRES RODRIGUEZ, AIMAR"
+  ],
+  "titulares_visitante": [
+    "ALFAYE SANZ, DANEL",
+    "EXTREMO RUIZ, BEÑAT",
+    "JAKA ZABALA, JULEN",
+    "PUERTAS BULNES, EDER",
+    "ELORRIAGA ETXENIKE, LUKEN",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "INÉS FERNÁNDEZ, GORKA",
+    "ODRIOZOLA SANCHEZ, JON",
+    "YANES INORIZA, JON",
+    "NOCEDAL ARECHAVALA, AITOR",
+    "KRIDA GOMEZ, RAYAN"
+  ],
+  "suplentes_local": [
+    "TEJADA VILARIN, UNAX",
+    "VILLA URETA, ASER",
+    "AREJULA PRADA, OIER",
+    "GALINDO JARAMILLO, ENAI",
+    "FERNANDEZ RODRIGUEZ, ANDER"
+  ],
+  "suplentes_visitante": [
+    "MENDEZ ROSALES, JUAN PABLO",
+    "ABADIN SALOMON, IKER",
+    "QUINTANA NARDIZ, AIMAR ANDONI",
+    "ORMAZABAL SOMALO, MIGUEL",
+    "URQUIZA CORDERO, BEÑAT",
+    "FERNANDEZ MAS, PEDRO",
+    "IGLESIAS SADA, BEÑAT"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "MENDEZ ROSALES, JUAN PABLO",
+    "FERNANDEZ MAS, PEDRO"
+  ],
+  "jugadores_local": [
+    "DE LA VARGA ALDAY, PERU",
+    "VALENCIANO HERNANDEZ, XABIER",
+    "ORTEGA SANTIAGO, UNAX",
+    "SANTIAGO BILBAO, ANTXON",
+    "MIELGO GOMEZ, YURI",
+    "GARTZIA CISNEROS, MANEX",
+    "HERRERA FERNANDEZ, JULEN",
+    "VEGA ESPLIGARES, OIHAN",
+    "DE LEON ROMERO, IZAN",
+    "EBANG MOKUY, DANIEL SALVADOR",
+    "ANDRES RODRIGUEZ, AIMAR",
+    "TEJADA VILARIN, UNAX",
+    "VILLA URETA, ASER",
+    "FERNANDEZ RODRIGUEZ, ANDER",
+    "GALINDO JARAMILLO, ENAI",
+    "AREJULA PRADA, OIER"
+  ],
+  "jugadores_visitante": [
+    "ALFAYE SANZ, DANEL",
+    "EXTREMO RUIZ, BEÑAT",
+    "JAKA ZABALA, JULEN",
+    "PUERTAS BULNES, EDER",
+    "ELORRIAGA ETXENIKE, LUKEN",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "INÉS FERNÁNDEZ, GORKA",
+    "ODRIOZOLA SANCHEZ, JON",
+    "YANES INORIZA, JON",
+    "NOCEDAL ARECHAVALA, AITOR",
+    "KRIDA GOMEZ, RAYAN",
+    "QUINTANA NARDIZ, AIMAR ANDONI",
+    "URQUIZA CORDERO, BEÑAT",
+    "ABADIN SALOMON, IKER",
+    "ORMAZABAL SOMALO, MIGUEL",
+    "IGLESIAS SADA, BEÑAT"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "TEJADA VILARIN, UNAX",
+      "sale": "HERRERA FERNANDEZ, JULEN"
+    },
+    {
+      "min": 53,
+      "entra": "VILLA URETA, ASER",
+      "sale": "GARTZIA CISNEROS, MANEX"
+    },
+    {
+      "min": 53,
+      "entra": "FERNANDEZ RODRIGUEZ, ANDER",
+      "sale": "ANDRES RODRIGUEZ, AIMAR"
+    },
+    {
+      "min": 66,
+      "entra": "GALINDO JARAMILLO, ENAI",
+      "sale": "EBANG MOKUY, DANIEL SALVADOR"
+    },
+    {
+      "min": 78,
+      "entra": "AREJULA PRADA, OIER",
+      "sale": "MIELGO GOMEZ, YURI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "QUINTANA NARDIZ, AIMAR ANDONI",
+      "sale": "NOCEDAL ARECHAVALA, AITOR"
+    },
+    {
+      "min": 59,
+      "entra": "URQUIZA CORDERO, BEÑAT",
+      "sale": "YANES INORIZA, JON"
+    },
+    {
+      "min": 72,
+      "entra": "ABADIN SALOMON, IKER",
+      "sale": "PUERTAS BULNES, EDER"
+    },
+    {
+      "min": 72,
+      "entra": "ORMAZABAL SOMALO, MIGUEL",
+      "sale": "JAKA ZABALA, JULEN"
+    },
+    {
+      "min": 72,
+      "entra": "IGLESIAS SADA, BEÑAT",
+      "sale": "EXTREMO RUIZ, BEÑAT"
+    }
+  ],
+  "minutos_jugadores": {
+    "DE LA VARGA ALDAY, PERU": 90,
+    "VALENCIANO HERNANDEZ, XABIER": 90,
+    "ORTEGA SANTIAGO, UNAX": 90,
+    "SANTIAGO BILBAO, ANTXON": 90,
+    "MIELGO GOMEZ, YURI": 78,
+    "GARTZIA CISNEROS, MANEX": 53,
+    "HERRERA FERNANDEZ, JULEN": 40,
+    "VEGA ESPLIGARES, OIHAN": 90,
+    "DE LEON ROMERO, IZAN": 90,
+    "EBANG MOKUY, DANIEL SALVADOR": 66,
+    "ANDRES RODRIGUEZ, AIMAR": 53,
+    "TEJADA VILARIN, UNAX": 50,
+    "VILLA URETA, ASER": 37,
+    "FERNANDEZ RODRIGUEZ, ANDER": 37,
+    "GALINDO JARAMILLO, ENAI": 24,
+    "AREJULA PRADA, OIER": 12,
+    "ALFAYE SANZ, DANEL": 90,
+    "EXTREMO RUIZ, BEÑAT": 72,
+    "JAKA ZABALA, JULEN": 72,
+    "PUERTAS BULNES, EDER": 72,
+    "ELORRIAGA ETXENIKE, LUKEN": 90,
+    "ITURRIZAGA ALONSO, KOLDO": 90,
+    "INÉS FERNÁNDEZ, GORKA": 90,
+    "ODRIOZOLA SANCHEZ, JON": 90,
+    "YANES INORIZA, JON": 59,
+    "NOCEDAL ARECHAVALA, AITOR": 52,
+    "KRIDA GOMEZ, RAYAN": 90,
+    "QUINTANA NARDIZ, AIMAR ANDONI": 38,
+    "URQUIZA CORDERO, BEÑAT": 31,
+    "ABADIN SALOMON, IKER": 18,
+    "ORMAZABAL SOMALO, MIGUEL": 18,
+    "IGLESIAS SADA, BEÑAT": 18
+  },
+  "portero_local": "DE LA VARGA ALDAY, PERU",
+  "portero_visitante": "ALFAYE SANZ, DANEL",
+  "dorsales_local": {
+    "DE LA VARGA ALDAY, PERU": 1,
+    "VALENCIANO HERNANDEZ, XABIER": 4,
+    "ORTEGA SANTIAGO, UNAX": 6,
+    "SANTIAGO BILBAO, ANTXON": 10,
+    "MIELGO GOMEZ, YURI": 16,
+    "GARTZIA CISNEROS, MANEX": 19,
+    "HERRERA FERNANDEZ, JULEN": 20,
+    "VEGA ESPLIGARES, OIHAN": 21,
+    "DE LEON ROMERO, IZAN": 22,
+    "EBANG MOKUY, DANIEL SALVADOR": 23,
+    "ANDRES RODRIGUEZ, AIMAR": 25
+  },
+  "dorsales_visitante": {
+    "ALFAYE SANZ, DANEL": 13,
+    "EXTREMO RUIZ, BEÑAT": 2,
+    "JAKA ZABALA, JULEN": 3,
+    "PUERTAS BULNES, EDER": 5,
+    "ELORRIAGA ETXENIKE, LUKEN": 9,
+    "ITURRIZAGA ALONSO, KOLDO": 11,
+    "INÉS FERNÁNDEZ, GORKA": 15,
+    "ODRIOZOLA SANCHEZ, JON": 16,
+    "YANES INORIZA, JON": 18,
+    "NOCEDAL ARECHAVALA, AITOR": 20,
+    "KRIDA GOMEZ, RAYAN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
