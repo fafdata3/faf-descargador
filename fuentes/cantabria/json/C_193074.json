@@ -1,0 +1,270 @@
+{
+  "acta_id": "C_193074",
+  "filename": "Acta_C_193074.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 5,
+  "fecha": "05-10-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. NAVAL A",
+  "equipo_visitante": "A.D. SAN AGUSTIN A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "HOLANDA PELAYO, JOSE LUIS"
+  ],
+  "estadio": "Reinosa",
+  "ciudad": "Reinosa",
+  "goleadores": [
+    {
+      "minuto": 26,
+      "jugador": "GONZALEZ MEDINA, JOSE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "MACHO RUIZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "GARCIA DIEZ, GABRIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 82,
+      "jugador": "ALONSO GUERRA, MARCOS",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 83,
+      "jugador": "AGUIRRE BAZA, CRISTIAN DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "GARCIA DIEZ, GABRIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "GOMEZ DEL POZO, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "ALONSO GUERRA, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 83,
+      "jugador": "CEBALLOS CAYON, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 28,
+      "jugador": "QUIJANO GARCIA, JAIME",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA GUTIERREZ, JOSE I",
+  "entrenador_visitante": "GRIFFITHS SANCHEZ, SAMUEL ERNESTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "JORRIN FERNANDEZ, OSCAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TORICES PEREZ, PEDRO",
+  "delegado_equipo_visitante": "NIETO LEAL, JAVIER",
+  "titulares_local": [
+    "PEREZ HERRERO, IKER",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GOMEZ DEL POZO, ALVARO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "ALONSO GUERRA, MARCOS",
+    "MACHO RUIZ, LUCAS",
+    "GARCIA DIEZ, GABRIEL",
+    "GUTIERREZ VEGA, HECTOR"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+    "CASTILLO ESPINOSA, MIGUEL",
+    "ROZAS BENITO, GONZALO",
+    "GONZALEZ SANCHES, JUAN",
+    "QUIJANO GARCIA, JAIME",
+    "BALBAS GONZALEZ, MIGUEL",
+    "VAQUERO ARTEAGA, JAIME",
+    "GONZALEZ MEDINA, JOSE",
+    "GARCIA LUNA, ALEJO",
+    "LAINZ MORAN, JACOBO",
+    "CASCALES TORRE, DAVID"
+  ],
+  "suplentes_local": [
+    "GOMEZ CALVO, ALVARO",
+    "MONTES RODRIGUEZ, OROEL",
+    "AGUIRRE BAZA, CRISTIAN DAVID"
+  ],
+  "suplentes_visitante": [
+    "FRANCO GARCIA - MONCO, DAVID",
+    "SEBRANGO ABAD, RODRIGO",
+    "PUENTE RUIZ, RICARDO",
+    "CANTARERO PASCUAL, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "SEBRANGO ABAD, RODRIGO"
+  ],
+  "jugadores_local": [
+    "PEREZ HERRERO, IKER",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GOMEZ DEL POZO, ALVARO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "ALONSO GUERRA, MARCOS",
+    "MACHO RUIZ, LUCAS",
+    "GARCIA DIEZ, GABRIEL",
+    "GUTIERREZ VEGA, HECTOR",
+    "MONTES RODRIGUEZ, OROEL",
+    "AGUIRRE BAZA, CRISTIAN DAVID",
+    "GOMEZ CALVO, ALVARO"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+    "CASTILLO ESPINOSA, MIGUEL",
+    "ROZAS BENITO, GONZALO",
+    "GONZALEZ SANCHES, JUAN",
+    "QUIJANO GARCIA, JAIME",
+    "BALBAS GONZALEZ, MIGUEL",
+    "VAQUERO ARTEAGA, JAIME",
+    "GONZALEZ MEDINA, JOSE",
+    "GARCIA LUNA, ALEJO",
+    "LAINZ MORAN, JACOBO",
+    "CASCALES TORRE, DAVID",
+    "FRANCO GARCIA - MONCO, DAVID",
+    "CANTARERO PASCUAL, ALEJANDRO",
+    "PUENTE RUIZ, RICARDO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "MONTES RODRIGUEZ, OROEL",
+      "sale": "GUTIERREZ VEGA, HECTOR"
+    },
+    {
+      "min": 61,
+      "entra": "AGUIRRE BAZA, CRISTIAN DAVID",
+      "sale": "GONZALEZ RODRIGUEZ, ALVARO"
+    },
+    {
+      "min": 61,
+      "entra": "GOMEZ CALVO, ALVARO",
+      "sale": "GOMEZ DEL POZO, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "FRANCO GARCIA - MONCO, DAVID",
+      "sale": "GARCIA LUNA, ALEJO"
+    },
+    {
+      "min": 57,
+      "entra": "CANTARERO PASCUAL, ALEJANDRO",
+      "sale": "ROZAS BENITO, GONZALO"
+    },
+    {
+      "min": 57,
+      "entra": "PUENTE RUIZ, RICARDO",
+      "sale": "QUIJANO GARCIA, JAIME"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ HERRERO, IKER": 90,
+    "RODRIGUEZ GONZALEZ, IZAN": 90,
+    "CEBALLOS CAYON, LUCAS": 90,
+    "GONZALEZ RODRIGUEZ, ALVARO": 61,
+    "LOPEZ GUTIERREZ, ALONSO": 90,
+    "GOMEZ DEL POZO, ALVARO": 61,
+    "GUTIERREZ GARCIA, SAMUEL": 90,
+    "ALONSO GUERRA, MARCOS": 90,
+    "MACHO RUIZ, LUCAS": 90,
+    "GARCIA DIEZ, GABRIEL": 90,
+    "GUTIERREZ VEGA, HECTOR": 40,
+    "MONTES RODRIGUEZ, OROEL": 50,
+    "AGUIRRE BAZA, CRISTIAN DAVID": 29,
+    "GOMEZ CALVO, ALVARO": 29,
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME": 90,
+    "CASTILLO ESPINOSA, MIGUEL": 90,
+    "ROZAS BENITO, GONZALO": 57,
+    "GONZALEZ SANCHES, JUAN": 90,
+    "QUIJANO GARCIA, JAIME": 57,
+    "BALBAS GONZALEZ, MIGUEL": 90,
+    "VAQUERO ARTEAGA, JAIME": 90,
+    "GONZALEZ MEDINA, JOSE": 90,
+    "GARCIA LUNA, ALEJO": 49,
+    "LAINZ MORAN, JACOBO": 90,
+    "CASCALES TORRE, DAVID": 90,
+    "FRANCO GARCIA - MONCO, DAVID": 41,
+    "CANTARERO PASCUAL, ALEJANDRO": 33,
+    "PUENTE RUIZ, RICARDO": 33
+  },
+  "portero_local": "PEREZ HERRERO, IKER",
+  "portero_visitante": "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+  "dorsales_local": {
+    "PEREZ HERRERO, IKER": 1,
+    "RODRIGUEZ GONZALEZ, IZAN": 4,
+    "CEBALLOS CAYON, LUCAS": 6,
+    "GONZALEZ RODRIGUEZ, ALVARO": 7,
+    "LOPEZ GUTIERREZ, ALONSO": 8,
+    "GOMEZ DEL POZO, ALVARO": 9,
+    "GUTIERREZ GARCIA, SAMUEL": 10,
+    "ALONSO GUERRA, MARCOS": 12,
+    "MACHO RUIZ, LUCAS": 14,
+    "GARCIA DIEZ, GABRIEL": 16,
+    "GUTIERREZ VEGA, HECTOR": 17
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME": 25,
+    "CASTILLO ESPINOSA, MIGUEL": 3,
+    "ROZAS BENITO, GONZALO": 7,
+    "GONZALEZ SANCHES, JUAN": 9,
+    "QUIJANO GARCIA, JAIME": 10,
+    "BALBAS GONZALEZ, MIGUEL": 11,
+    "VAQUERO ARTEAGA, JAIME": 14,
+    "GONZALEZ MEDINA, JOSE": 16,
+    "GARCIA LUNA, ALEJO": 19,
+    "LAINZ MORAN, JACOBO": 22,
+    "CASCALES TORRE, DAVID": 37
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
