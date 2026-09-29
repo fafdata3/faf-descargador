@@ -1,0 +1,273 @@
+{
+  "acta_id": "C_193097",
+  "filename": "Acta_C_193097.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "26-10-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. MONTE B",
+  "equipo_visitante": "C.D. MARINA SPORT B",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DE LAS HERAS BERZOSA, MIGUEL"
+  ],
+  "estadio": "Monte 1",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "GARCIA MORENO, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "PORRAS CADELO, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "MARTINEZ RADO, MIGUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "POBO FERNANDEZ, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "POBO FERNANDEZ, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 33,
+      "jugador": "POBO FERNANDEZ, JORGE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 51,
+      "jugador": "GARCIA CASTILLO, JORGE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "NGOUNOU NCHAMA, NEREO STEVE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LOPEZ CEBALLOS, JAVIER",
+  "entrenador_visitante": "FLOR RODRIGUEZ, ALFONSO JOSE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LÓPEZ CASO, RICARDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LÓPEZ CASO, RICARDO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DEL VALLE GARCIA, RUBEN",
+    "MARQUEZ MACHO-QUEVEDO, RAUL",
+    "SAEZ CASTRILLO, MARIO",
+    "PEREDA MUÑOZ, JAVIER",
+    "CORDERO ARAMBURU, MATEO",
+    "DOMINGUEZ MONROY, KEVIN ANDRES",
+    "MARTINEZ RADO, MIGUEL",
+    "POBO FERNANDEZ, JORGE",
+    "DE LA VEGA PEREZ, ALEJANDRO",
+    "BLANCO RUIZ, MARIO",
+    "ODRIOZOLA HERNANDEZ, MARCO"
+  ],
+  "titulares_visitante": [
+    "FLOR MARTINEZ, OIER",
+    "ALONSO CRUZ, DIEGO",
+    "DASILVA PEREIRA, EDUARDO",
+    "JURNA ANERO, EDUARDO",
+    "NGOUNOU NCHAMA, NEREO STEVE",
+    "PORRAS CADELO, MATEO",
+    "GARCIA MORENO, MARIO",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "RUIZ ORTEGA, RODRIGO",
+    "Montenegro Perez, MARCOS GERMAN",
+    "GARCIA CASTILLO, JORGE"
+  ],
+  "suplentes_local": [
+    "MUÑOZ MENDEZ, JAVIER",
+    "TORRE MERINO, MARIO",
+    "SAN EMETERIO PONTON, MARCOS",
+    "HERRAN ESTERAS, DANIEL",
+    "CUESTA GARCIA MAURIÑO, JORGE"
+  ],
+  "suplentes_visitante": [
+    "SAUQUILLO ALONSO, MARCO",
+    "OBREGON MERINO, ELAN-BERNARDO",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "DIEZ RIVERA, JAIME",
+    "ORTIZ FILGUEIRAS, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "OBREGON MERINO, ELAN-BERNARDO",
+    "DIEZ RIVERA, JAIME"
+  ],
+  "jugadores_local": [
+    "DEL VALLE GARCIA, RUBEN",
+    "MARQUEZ MACHO-QUEVEDO, RAUL",
+    "SAEZ CASTRILLO, MARIO",
+    "PEREDA MUÑOZ, JAVIER",
+    "CORDERO ARAMBURU, MATEO",
+    "DOMINGUEZ MONROY, KEVIN ANDRES",
+    "MARTINEZ RADO, MIGUEL",
+    "POBO FERNANDEZ, JORGE",
+    "DE LA VEGA PEREZ, ALEJANDRO",
+    "BLANCO RUIZ, MARIO",
+    "ODRIOZOLA HERNANDEZ, MARCO",
+    "TORRE MERINO, MARIO",
+    "HERRAN ESTERAS, DANIEL",
+    "CUESTA GARCIA MAURIÑO, JORGE",
+    "SAN EMETERIO PONTON, MARCOS",
+    "MUÑOZ MENDEZ, JAVIER"
+  ],
+  "jugadores_visitante": [
+    "FLOR MARTINEZ, OIER",
+    "ALONSO CRUZ, DIEGO",
+    "DASILVA PEREIRA, EDUARDO",
+    "JURNA ANERO, EDUARDO",
+    "NGOUNOU NCHAMA, NEREO STEVE",
+    "PORRAS CADELO, MATEO",
+    "GARCIA MORENO, MARIO",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "RUIZ ORTEGA, RODRIGO",
+    "Montenegro Perez, MARCOS GERMAN",
+    "GARCIA CASTILLO, JORGE",
+    "SAUQUILLO ALONSO, MARCO",
+    "ORTIZ FILGUEIRAS, JAVIER",
+    "FERNÁNDEZ GÓMEZ, BRUNO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 23,
+      "entra": "TORRE MERINO, MARIO",
+      "sale": "ODRIOZOLA HERNANDEZ, MARCO"
+    },
+    {
+      "min": 64,
+      "entra": "HERRAN ESTERAS, DANIEL",
+      "sale": "SAEZ CASTRILLO, MARIO"
+    },
+    {
+      "min": 72,
+      "entra": "CUESTA GARCIA MAURIÑO, JORGE",
+      "sale": "POBO FERNANDEZ, JORGE"
+    },
+    {
+      "min": 74,
+      "entra": "SAN EMETERIO PONTON, MARCOS",
+      "sale": "DOMINGUEZ MONROY, KEVIN ANDRES"
+    },
+    {
+      "min": 77,
+      "entra": "MUÑOZ MENDEZ, JAVIER",
+      "sale": "CORDERO ARAMBURU, MATEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SAUQUILLO ALONSO, MARCO",
+      "sale": "FLOR MARTINEZ, OIER"
+    },
+    {
+      "min": 55,
+      "entra": "ORTIZ FILGUEIRAS, JAVIER",
+      "sale": "NGOUNOU NCHAMA, NEREO STEVE"
+    },
+    {
+      "min": 66,
+      "entra": "FERNÁNDEZ GÓMEZ, BRUNO",
+      "sale": "JURNA ANERO, EDUARDO"
+    }
+  ],
+  "minutos_jugadores": {
+    "DEL VALLE GARCIA, RUBEN": 90,
+    "MARQUEZ MACHO-QUEVEDO, RAUL": 90,
+    "SAEZ CASTRILLO, MARIO": 64,
+    "PEREDA MUÑOZ, JAVIER": 90,
+    "CORDERO ARAMBURU, MATEO": 77,
+    "DOMINGUEZ MONROY, KEVIN ANDRES": 74,
+    "MARTINEZ RADO, MIGUEL": 90,
+    "POBO FERNANDEZ, JORGE": 72,
+    "DE LA VEGA PEREZ, ALEJANDRO": 90,
+    "BLANCO RUIZ, MARIO": 90,
+    "ODRIOZOLA HERNANDEZ, MARCO": 23,
+    "TORRE MERINO, MARIO": 67,
+    "HERRAN ESTERAS, DANIEL": 26,
+    "CUESTA GARCIA MAURIÑO, JORGE": 18,
+    "SAN EMETERIO PONTON, MARCOS": 16,
+    "MUÑOZ MENDEZ, JAVIER": 13,
+    "FLOR MARTINEZ, OIER": 40,
+    "ALONSO CRUZ, DIEGO": 90,
+    "DASILVA PEREIRA, EDUARDO": 90,
+    "JURNA ANERO, EDUARDO": 66,
+    "NGOUNOU NCHAMA, NEREO STEVE": 55,
+    "PORRAS CADELO, MATEO": 90,
+    "GARCIA MORENO, MARIO": 90,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 90,
+    "RUIZ ORTEGA, RODRIGO": 90,
+    "Montenegro Perez, MARCOS GERMAN": 90,
+    "GARCIA CASTILLO, JORGE": 90,
+    "SAUQUILLO ALONSO, MARCO": 50,
+    "ORTIZ FILGUEIRAS, JAVIER": 35,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 24
+  },
+  "portero_local": "DEL VALLE GARCIA, RUBEN",
+  "portero_visitante": "FLOR MARTINEZ, OIER",
+  "dorsales_local": {
+    "DEL VALLE GARCIA, RUBEN": 1,
+    "MARQUEZ MACHO-QUEVEDO, RAUL": 2,
+    "SAEZ CASTRILLO, MARIO": 3,
+    "PEREDA MUÑOZ, JAVIER": 6,
+    "CORDERO ARAMBURU, MATEO": 7,
+    "DOMINGUEZ MONROY, KEVIN ANDRES": 9,
+    "MARTINEZ RADO, MIGUEL": 10,
+    "POBO FERNANDEZ, JORGE": 11,
+    "DE LA VEGA PEREZ, ALEJANDRO": 12,
+    "BLANCO RUIZ, MARIO": 16,
+    "ODRIOZOLA HERNANDEZ, MARCO": 20
+  },
+  "dorsales_visitante": {
+    "FLOR MARTINEZ, OIER": 13,
+    "ALONSO CRUZ, DIEGO": 2,
+    "DASILVA PEREIRA, EDUARDO": 5,
+    "JURNA ANERO, EDUARDO": 6,
+    "NGOUNOU NCHAMA, NEREO STEVE": 7,
+    "PORRAS CADELO, MATEO": 8,
+    "GARCIA MORENO, MARIO": 9,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 10,
+    "RUIZ ORTEGA, RODRIGO": 11,
+    "Montenegro Perez, MARCOS GERMAN": 17,
+    "GARCIA CASTILLO, JORGE": 18
+  },
+  "suspendidos": []
+}
