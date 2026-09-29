@@ -1,0 +1,284 @@
+{
+  "acta_id": "C_171454",
+  "filename": "Acta_C_171454.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 34,
+  "fecha": "02-06-2024",
+  "hora": "10:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D.E. ATCO. MINEROS B",
+  "equipo_visitante": "A.D. SAN AGUSTIN A",
+  "goles_local": 5,
+  "goles_visitante": 3,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "REVILLA GÓMEZ, MARIO"
+  ],
+  "estadio": "Puente San Miguel",
+  "ciudad": "Reocín",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "LAINZ MORAN, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "RICCIARDIELLO CABRILLANA, HECTOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 24,
+      "jugador": "SOLARES PICAZO, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 48,
+      "jugador": "RICCIARDIELLO CABRILLANA, HECTOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "PANOJO PANTRIGO, ISAIAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "SEBRANGO ABAD, RODRIGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "PEREZ GUTIERREZ, JOSE MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 64,
+      "jugador": "PALACIO RODERO, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "MAZA AIZCORBE, FERNANDO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GARCIA TAMAYO, CRISTIAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DIAZ SANCHEZ, PABLO",
+  "delegado_equipo_visitante": "CASCALES TORRE, JAVIER",
+  "titulares_local": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "RICCIARDIELLO CABRILLANA, HECTOR",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "MATA SANGUIAO, CARLOS"
+  ],
+  "titulares_visitante": [
+    "PRADA PORTERO, LUIS",
+    "HERRERO HERNANDO, DANIEL",
+    "VILLAMERIEL MONTES, SERGIO",
+    "CANTARERO PASCUAL, ALEJANDRO",
+    "MARTINEZ ORTIZ, LUCAS",
+    "PANOJO PANTRIGO, ISAIAS",
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+    "GONZALEZ MEDINA, JOSE",
+    "LAINZ MORAN, NICOLAS",
+    "CASCALES TORRE, PABLO",
+    "SEBRANGO ABAD, RODRIGO"
+  ],
+  "suplentes_local": [
+    "SAEZ PISANO, ADRIAN",
+    "VILLEGAS SAIZ, JAVIER",
+    "GUTIERREZ CUETO, IKER",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "GARCÍA RÁBAGO, SAMUEL"
+  ],
+  "suplentes_visitante": [
+    "GALLO JUANCO, JAVIER ARTURO",
+    "ROZAS BENITO, GONZALO",
+    "PALACIO RODERO, DANIEL",
+    "CASCALES TORRE, DAVID"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "RICCIARDIELLO CABRILLANA, HECTOR",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "MATA SANGUIAO, CARLOS",
+    "SAEZ PISANO, ADRIAN",
+    "VILLEGAS SAIZ, JAVIER",
+    "GARCÍA RÁBAGO, SAMUEL",
+    "GUTIERREZ CUETO, IKER",
+    "PEREZ GUTIERREZ, JOSE MANUEL"
+  ],
+  "jugadores_visitante": [
+    "PRADA PORTERO, LUIS",
+    "HERRERO HERNANDO, DANIEL",
+    "VILLAMERIEL MONTES, SERGIO",
+    "CANTARERO PASCUAL, ALEJANDRO",
+    "MARTINEZ ORTIZ, LUCAS",
+    "PANOJO PANTRIGO, ISAIAS",
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+    "GONZALEZ MEDINA, JOSE",
+    "LAINZ MORAN, NICOLAS",
+    "CASCALES TORRE, PABLO",
+    "SEBRANGO ABAD, RODRIGO",
+    "PALACIO RODERO, DANIEL",
+    "ROZAS BENITO, GONZALO",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "CASCALES TORRE, DAVID"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "SAEZ PISANO, ADRIAN",
+      "sale": "MAZON SHAROV, HUGO"
+    },
+    {
+      "min": 47,
+      "entra": "VILLEGAS SAIZ, JAVIER",
+      "sale": "SOLARES PICAZO, LUCAS"
+    },
+    {
+      "min": 49,
+      "entra": "GARCÍA RÁBAGO, SAMUEL",
+      "sale": "RICCIARDIELLO CABRILLANA, HECTOR"
+    },
+    {
+      "min": 53,
+      "entra": "GUTIERREZ CUETO, IKER",
+      "sale": "ORTEGA DEL RIO, AITOR"
+    },
+    {
+      "min": 58,
+      "entra": "PEREZ GUTIERREZ, JOSE MANUEL",
+      "sale": "BURTAN, DEMIS CONSTANTIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 38,
+      "entra": "PALACIO RODERO, DANIEL",
+      "sale": "MARTINEZ ORTIZ, LUCAS"
+    },
+    {
+      "min": 46,
+      "entra": "ROZAS BENITO, GONZALO",
+      "sale": "CASCALES TORRE, PABLO"
+    },
+    {
+      "min": 49,
+      "entra": "GALLO JUANCO, JAVIER ARTURO",
+      "sale": "CANTARERO PASCUAL, ALEJANDRO"
+    },
+    {
+      "min": 60,
+      "entra": "CASCALES TORRE, DAVID",
+      "sale": "GONZALEZ MEDINA, JOSE"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ FERNÁNDEZ, KEVIN": 90,
+    "ORTEGA DEL RIO, AITOR": 53,
+    "MAZON SHAROV, HUGO": 41,
+    "GUTIERREZ REDONDO, MARTIN": 90,
+    "solar rabadan, DANIEL": 90,
+    "SAINZ CALDERON, JOSE MIGUEL": 90,
+    "SOLARES PICAZO, LUCAS": 47,
+    "BURTAN, DEMIS CONSTANTIN": 58,
+    "RICCIARDIELLO CABRILLANA, HECTOR": 49,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 90,
+    "MATA SANGUIAO, CARLOS": 90,
+    "SAEZ PISANO, ADRIAN": 49,
+    "VILLEGAS SAIZ, JAVIER": 43,
+    "GARCÍA RÁBAGO, SAMUEL": 41,
+    "GUTIERREZ CUETO, IKER": 37,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 32,
+    "PRADA PORTERO, LUIS": 90,
+    "HERRERO HERNANDO, DANIEL": 90,
+    "VILLAMERIEL MONTES, SERGIO": 90,
+    "CANTARERO PASCUAL, ALEJANDRO": 49,
+    "MARTINEZ ORTIZ, LUCAS": 38,
+    "PANOJO PANTRIGO, ISAIAS": 90,
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN": 90,
+    "GONZALEZ MEDINA, JOSE": 60,
+    "LAINZ MORAN, NICOLAS": 90,
+    "CASCALES TORRE, PABLO": 46,
+    "SEBRANGO ABAD, RODRIGO": 90,
+    "PALACIO RODERO, DANIEL": 52,
+    "ROZAS BENITO, GONZALO": 44,
+    "GALLO JUANCO, JAVIER ARTURO": 41,
+    "CASCALES TORRE, DAVID": 30
+  },
+  "portero_local": "RUIZ FERNÁNDEZ, KEVIN",
+  "portero_visitante": "PRADA PORTERO, LUIS",
+  "dorsales_local": {
+    "RUIZ FERNÁNDEZ, KEVIN": 13,
+    "ORTEGA DEL RIO, AITOR": 4,
+    "MAZON SHAROV, HUGO": 6,
+    "GUTIERREZ REDONDO, MARTIN": 7,
+    "solar rabadan, DANIEL": 8,
+    "SAINZ CALDERON, JOSE MIGUEL": 10,
+    "SOLARES PICAZO, LUCAS": 11,
+    "BURTAN, DEMIS CONSTANTIN": 14,
+    "RICCIARDIELLO CABRILLANA, HECTOR": 15,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 18,
+    "MATA SANGUIAO, CARLOS": 20
+  },
+  "dorsales_visitante": {
+    "PRADA PORTERO, LUIS": 25,
+    "HERRERO HERNANDO, DANIEL": 3,
+    "VILLAMERIEL MONTES, SERGIO": 4,
+    "CANTARERO PASCUAL, ALEJANDRO": 5,
+    "MARTINEZ ORTIZ, LUCAS": 6,
+    "PANOJO PANTRIGO, ISAIAS": 7,
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN": 10,
+    "GONZALEZ MEDINA, JOSE": 16,
+    "LAINZ MORAN, NICOLAS": 20,
+    "CASCALES TORRE, PABLO": 23,
+    "SEBRANGO ABAD, RODRIGO": 34
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
