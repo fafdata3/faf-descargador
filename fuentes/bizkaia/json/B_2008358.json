@@ -1,0 +1,254 @@
+{
+  "acta_id": "B_2008358",
+  "filename": "Acta_B_2008358.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 5,
+  "fecha": "01-11-2024",
+  "hora": "17:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ARIZ A",
+  "equipo_visitante": "AURRERA",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CAUSO ZORRILLA, ESTEBAN"
+  ],
+  "estadio": "SOLOARTE",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 32,
+      "jugador": "LOPEZ FRANCO, EDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "GARCIA GARCIA, JULEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "PEREÑA SANCHEZ, EDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 43,
+      "jugador": "DEL RIO GONZALEZ, ERIK",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "GARCIA GARCIA, JULEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 21,
+      "jugador": "OUSMANE SALL CAMARA, MOUHAMED",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DE LUCAS HERNANDEZ, ALBERTO",
+  "entrenador_visitante": "ARAMBURU URKIZA, UNAI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CEDRUN VESGA, JUAN IGNACIO",
+  "delegado_equipo_visitante": "BADIOLA IRUETA, JAVIER",
+  "titulares_local": [
+    "ZHAN, YIHANG",
+    "GARCIA GARCIA, JULEN",
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA",
+    "AMARITA ROMERO, UNAI",
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ",
+    "HERNANDEZ ARZA, UNAX",
+    "GOUAGOUA, MOHAMMED",
+    "DEL RIO GONZALEZ, ERIK",
+    "SILVA ALAINEZ, IAN",
+    "LOPEZ FRANCO, EDER",
+    "PEREÑA SANCHEZ, EDER"
+  ],
+  "titulares_visitante": [
+    "TOÑA ITUARTE, GURUTZ",
+    "BADIOLA SOBRADELO, EÑAUT",
+    "OUSMANE SALL CAMARA, MOUHAMED",
+    "NIÑO MARTIN, ENEKO",
+    "MARINO ARANBARRI, ENEKO",
+    "ANDRADES DE OLIVEIRA, EIHAR",
+    "ITUARTE AGUIRRE, OIER",
+    "QUIZHPE GONZALEZ, NAIM",
+    "BADIOLA BELAUSTEGI, GARI",
+    "ETXANO ILLARRAMENDI, ENEKO",
+    "ETXABURU ZATON, UNAI"
+  ],
+  "suplentes_local": [
+    "LAVIÑA FREIRE, JOSE MIGUEL",
+    "SOBRADO RAMIREZ, UGATZ",
+    "CISSOKO SIDIBE, HAMZA",
+    "ROMERO BLANCO, UNAI",
+    "LARRINAGA VILLASANTE, PABLO",
+    "BEZOS VELASCO, JON",
+    "PEREZ MARTINEZ, URKO"
+  ],
+  "suplentes_visitante": [
+    "BADIOLA RODRIGUEZ, GORKA",
+    "BASARAS KORTABARRIA, ANDDE LUKA",
+    "MORCHON ITUARTE, ENEKO NAHUEL",
+    "ARANTZAMENDI SIERRA, MANEX",
+    "ROCANDIO BORGES, UNAI",
+    "URKIRI LEKUE, AIMAR"
+  ],
+  "convocados_sin_jugar_local": [
+    "LAVIÑA FREIRE, JOSE MIGUEL",
+    "LARRINAGA VILLASANTE, PABLO",
+    "BEZOS VELASCO, JON",
+    "PEREZ MARTINEZ, URKO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BADIOLA RODRIGUEZ, GORKA",
+    "MORCHON ITUARTE, ENEKO NAHUEL",
+    "ROCANDIO BORGES, UNAI"
+  ],
+  "jugadores_local": [
+    "ZHAN, YIHANG",
+    "GARCIA GARCIA, JULEN",
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA",
+    "AMARITA ROMERO, UNAI",
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ",
+    "HERNANDEZ ARZA, UNAX",
+    "GOUAGOUA, MOHAMMED",
+    "DEL RIO GONZALEZ, ERIK",
+    "SILVA ALAINEZ, IAN",
+    "LOPEZ FRANCO, EDER",
+    "PEREÑA SANCHEZ, EDER",
+    "ROMERO BLANCO, UNAI",
+    "SOBRADO RAMIREZ, UGATZ",
+    "CISSOKO SIDIBE, HAMZA"
+  ],
+  "jugadores_visitante": [
+    "TOÑA ITUARTE, GURUTZ",
+    "BADIOLA SOBRADELO, EÑAUT",
+    "OUSMANE SALL CAMARA, MOUHAMED",
+    "NIÑO MARTIN, ENEKO",
+    "MARINO ARANBARRI, ENEKO",
+    "ANDRADES DE OLIVEIRA, EIHAR",
+    "ITUARTE AGUIRRE, OIER",
+    "QUIZHPE GONZALEZ, NAIM",
+    "BADIOLA BELAUSTEGI, GARI",
+    "ETXANO ILLARRAMENDI, ENEKO",
+    "ETXABURU ZATON, UNAI",
+    "BASARAS KORTABARRIA, ANDDE LUKA",
+    "URKIRI LEKUE, AIMAR",
+    "ARANTZAMENDI SIERRA, MANEX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 13,
+      "entra": "ROMERO BLANCO, UNAI",
+      "sale": "SILVA ALAINEZ, IAN"
+    },
+    {
+      "min": 68,
+      "entra": "SOBRADO RAMIREZ, UGATZ",
+      "sale": "PEREÑA SANCHEZ, EDER"
+    },
+    {
+      "min": 80,
+      "entra": "CISSOKO SIDIBE, HAMZA",
+      "sale": "AMARITA ROMERO, UNAI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 32,
+      "entra": "BASARAS KORTABARRIA, ANDDE LUKA",
+      "sale": "ANDRADES DE OLIVEIRA, EIHAR"
+    },
+    {
+      "min": 62,
+      "entra": "URKIRI LEKUE, AIMAR",
+      "sale": "ITUARTE AGUIRRE, OIER"
+    },
+    {
+      "min": 88,
+      "entra": "ARANTZAMENDI SIERRA, MANEX",
+      "sale": "ETXANO ILLARRAMENDI, ENEKO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ZHAN, YIHANG": 90,
+    "GARCIA GARCIA, JULEN": 90,
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA": 90,
+    "AMARITA ROMERO, UNAI": 80,
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ": 90,
+    "HERNANDEZ ARZA, UNAX": 90,
+    "GOUAGOUA, MOHAMMED": 90,
+    "DEL RIO GONZALEZ, ERIK": 90,
+    "SILVA ALAINEZ, IAN": 13,
+    "LOPEZ FRANCO, EDER": 90,
+    "PEREÑA SANCHEZ, EDER": 68,
+    "ROMERO BLANCO, UNAI": 77,
+    "SOBRADO RAMIREZ, UGATZ": 22,
+    "CISSOKO SIDIBE, HAMZA": 10,
+    "TOÑA ITUARTE, GURUTZ": 90,
+    "BADIOLA SOBRADELO, EÑAUT": 90,
+    "OUSMANE SALL CAMARA, MOUHAMED": 90,
+    "NIÑO MARTIN, ENEKO": 90,
+    "MARINO ARANBARRI, ENEKO": 90,
+    "ANDRADES DE OLIVEIRA, EIHAR": 32,
+    "ITUARTE AGUIRRE, OIER": 62,
+    "QUIZHPE GONZALEZ, NAIM": 90,
+    "BADIOLA BELAUSTEGI, GARI": 90,
+    "ETXANO ILLARRAMENDI, ENEKO": 88,
+    "ETXABURU ZATON, UNAI": 90,
+    "BASARAS KORTABARRIA, ANDDE LUKA": 58,
+    "URKIRI LEKUE, AIMAR": 28,
+    "ARANTZAMENDI SIERRA, MANEX": 2
+  },
+  "portero_local": "ZHAN, YIHANG",
+  "portero_visitante": "TOÑA ITUARTE, GURUTZ",
+  "dorsales_local": {
+    "ZHAN, YIHANG": 1,
+    "GARCIA GARCIA, JULEN": 7,
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA": 8,
+    "AMARITA ROMERO, UNAI": 9,
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ": 10,
+    "HERNANDEZ ARZA, UNAX": 11,
+    "GOUAGOUA, MOHAMMED": 16,
+    "DEL RIO GONZALEZ, ERIK": 17,
+    "SILVA ALAINEZ, IAN": 23,
+    "LOPEZ FRANCO, EDER": 24,
+    "PEREÑA SANCHEZ, EDER": 25
+  },
+  "dorsales_visitante": {
+    "TOÑA ITUARTE, GURUTZ": 1,
+    "BADIOLA SOBRADELO, EÑAUT": 5,
+    "OUSMANE SALL CAMARA, MOUHAMED": 6,
+    "NIÑO MARTIN, ENEKO": 7,
+    "MARINO ARANBARRI, ENEKO": 8,
+    "ANDRADES DE OLIVEIRA, EIHAR": 9,
+    "ITUARTE AGUIRRE, OIER": 10,
+    "QUIZHPE GONZALEZ, NAIM": 12,
+    "BADIOLA BELAUSTEGI, GARI": 14,
+    "ETXANO ILLARRAMENDI, ENEKO": 19,
+    "ETXABURU ZATON, UNAI": 20
+  },
+  "suspendidos": []
+}
