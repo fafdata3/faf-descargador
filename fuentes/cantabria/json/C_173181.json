@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_173181",
+  "filename": "Acta_C_173181.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 5,
+  "fecha": "22-10-2023",
+  "hora": "12:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "CLUB BANSANDER A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "BARREDA TORRE, MANUEL"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "RUIZ NORIEGA, MIGUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "PENILLA FERNANDEZ, SERGIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "RUIZ NORIEGA, MIGUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "RUIZ NORIEGA, MIGUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "PENILLA FERNANDEZ, SERGIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "GOMEZ VILLALABEITIA, ENOL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "PORTILLA MAZA, ISMAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LOPEZ ESCALADA, EDUARDO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CALDERON PEREZ, RAFAEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CALDERON PEREZ, RAFAEL",
+  "delegado_equipo_visitante": "MADRAZO ARCO, JAVIER",
+  "titulares_local": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "RUIZ FERNANDEZ, MARTIN",
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "CARRANDI DIAZ, DARIO",
+    "MARTÍNEZ DÍAZ, NICOLAS",
+    "SANCHEZ BILBAO, MIGUEL",
+    "PENILLA FERNANDEZ, SERGIO",
+    "MARTIN GARCIA, DIEGO",
+    "SIERRA ALVARADO, DANIEL",
+    "ARENAS VIERA, DIEGO",
+    "RUIZ NORIEGA, MIGUEL"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ FERNANDEZ, GABRIEL",
+    "BEZANILLA GARCIA, AARON",
+    "QUINTANA TORRE, MARTIN",
+    "GARCÍA ABASCAL, HECTOR",
+    "GOMEZ CONCHA, MATEO",
+    "PORTILLA MAZA, ISMAEL",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "GUTIERREZ SARABIA, OSEL",
+    "SAINZ ZAMORANO, NOE",
+    "ALONSO PEREZ, DARIO"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ GOMEZ, BOSCO",
+    "TRUEBA MORENO, VICTOR",
+    "ZAVALA ESTEVE, MARIO",
+    "GOMEZ VILLALABEITIA, ENOL"
+  ],
+  "suplentes_visitante": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "TRICIO USLE, EDUARDO",
+    "ORTIZ MANZANAS, LUCAS",
+    "SIERRA GONZALEZ, KEVIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "RUIZ FERNANDEZ, MARTIN",
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "CARRANDI DIAZ, DARIO",
+    "MARTÍNEZ DÍAZ, NICOLAS",
+    "SANCHEZ BILBAO, MIGUEL",
+    "PENILLA FERNANDEZ, SERGIO",
+    "MARTIN GARCIA, DIEGO",
+    "SIERRA ALVARADO, DANIEL",
+    "ARENAS VIERA, DIEGO",
+    "RUIZ NORIEGA, MIGUEL",
+    "RODRIGUEZ GOMEZ, BOSCO",
+    "GOMEZ VILLALABEITIA, ENOL",
+    "TRUEBA MORENO, VICTOR",
+    "ZAVALA ESTEVE, MARIO"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ FERNANDEZ, GABRIEL",
+    "BEZANILLA GARCIA, AARON",
+    "QUINTANA TORRE, MARTIN",
+    "GARCÍA ABASCAL, HECTOR",
+    "GOMEZ CONCHA, MATEO",
+    "PORTILLA MAZA, ISMAEL",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "GUTIERREZ SARABIA, OSEL",
+    "SAINZ ZAMORANO, NOE",
+    "ALONSO PEREZ, DARIO",
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "ORTIZ MANZANAS, LUCAS",
+    "SIERRA GONZALEZ, KEVIN",
+    "TRICIO USLE, EDUARDO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 42,
+      "entra": "RODRIGUEZ GOMEZ, BOSCO",
+      "sale": "MENDEZ RODRIGUEZ, JOSE RAMON"
+    },
+    {
+      "min": 42,
+      "entra": "GOMEZ VILLALABEITIA, ENOL",
+      "sale": "MARTÍNEZ DÍAZ, NICOLAS"
+    },
+    {
+      "min": 49,
+      "entra": "TRUEBA MORENO, VICTOR",
+      "sale": "ARENAS VIERA, DIEGO"
+    },
+    {
+      "min": 57,
+      "entra": "ZAVALA ESTEVE, MARIO",
+      "sale": "RUIZ NORIEGA, MIGUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "ROMILA VASILACHE, ALEJANDRO ANDREI",
+      "sale": "FERNANDEZ FERNANDEZ, GABRIEL"
+    },
+    {
+      "min": 49,
+      "entra": "ORTIZ MANZANAS, LUCAS",
+      "sale": "GUTIERREZ SARABIA, OSEL"
+    },
+    {
+      "min": 49,
+      "entra": "SIERRA GONZALEZ, KEVIN",
+      "sale": "SAINZ DE LA MAZA CARRERAS, ANGEL"
+    },
+    {
+      "min": 51,
+      "entra": "TRICIO USLE, EDUARDO",
+      "sale": "GOMEZ CONCHA, MATEO"
+    }
+  ],
+  "minutos_jugadores": {
+    "LEBEÑA RODRIGUEZ, ADRIAN": 90,
+    "RUIZ FERNANDEZ, MARTIN": 90,
+    "MENDEZ RODRIGUEZ, JOSE RAMON": 42,
+    "CARRANDI DIAZ, DARIO": 90,
+    "MARTÍNEZ DÍAZ, NICOLAS": 42,
+    "SANCHEZ BILBAO, MIGUEL": 90,
+    "PENILLA FERNANDEZ, SERGIO": 90,
+    "MARTIN GARCIA, DIEGO": 90,
+    "SIERRA ALVARADO, DANIEL": 90,
+    "ARENAS VIERA, DIEGO": 49,
+    "RUIZ NORIEGA, MIGUEL": 57,
+    "RODRIGUEZ GOMEZ, BOSCO": 48,
+    "GOMEZ VILLALABEITIA, ENOL": 48,
+    "TRUEBA MORENO, VICTOR": 41,
+    "ZAVALA ESTEVE, MARIO": 33,
+    "FERNANDEZ FERNANDEZ, GABRIEL": 35,
+    "BEZANILLA GARCIA, AARON": 90,
+    "QUINTANA TORRE, MARTIN": 90,
+    "GARCÍA ABASCAL, HECTOR": 90,
+    "GOMEZ CONCHA, MATEO": 51,
+    "PORTILLA MAZA, ISMAEL": 90,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 49,
+    "RODRIGUEZ LABRADOR, PABLO": 90,
+    "GUTIERREZ SARABIA, OSEL": 49,
+    "SAINZ ZAMORANO, NOE": 90,
+    "ALONSO PEREZ, DARIO": 90,
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 55,
+    "ORTIZ MANZANAS, LUCAS": 41,
+    "SIERRA GONZALEZ, KEVIN": 41,
+    "TRICIO USLE, EDUARDO": 39
+  },
+  "portero_local": "LEBEÑA RODRIGUEZ, ADRIAN",
+  "portero_visitante": "FERNANDEZ FERNANDEZ, GABRIEL",
+  "dorsales_local": {
+    "LEBEÑA RODRIGUEZ, ADRIAN": 1,
+    "RUIZ FERNANDEZ, MARTIN": 2,
+    "MENDEZ RODRIGUEZ, JOSE RAMON": 4,
+    "CARRANDI DIAZ, DARIO": 6,
+    "MARTÍNEZ DÍAZ, NICOLAS": 8,
+    "SANCHEZ BILBAO, MIGUEL": 10,
+    "PENILLA FERNANDEZ, SERGIO": 12,
+    "MARTIN GARCIA, DIEGO": 14,
+    "SIERRA ALVARADO, DANIEL": 16,
+    "ARENAS VIERA, DIEGO": 17,
+    "RUIZ NORIEGA, MIGUEL": 19
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ FERNANDEZ, GABRIEL": 1,
+    "BEZANILLA GARCIA, AARON": 2,
+    "QUINTANA TORRE, MARTIN": 4,
+    "GARCÍA ABASCAL, HECTOR": 5,
+    "GOMEZ CONCHA, MATEO": 6,
+    "PORTILLA MAZA, ISMAEL": 7,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 9,
+    "RODRIGUEZ LABRADOR, PABLO": 10,
+    "GUTIERREZ SARABIA, OSEL": 14,
+    "SAINZ ZAMORANO, NOE": 15,
+    "ALONSO PEREZ, DARIO": 16
+  },
+  "suspendidos": []
+}
