@@ -1,0 +1,248 @@
+{
+  "acta_id": "B_2008348",
+  "filename": "Acta_B_2008348.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 4,
+  "fecha": "26-10-2024",
+  "hora": "19:05",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "BASKAURI A",
+  "equipo_visitante": "IBARREKO A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "REAL DE ASUA GARCIA, ENDIKA"
+  ],
+  "estadio": "ARTUNDUAGA 2",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "SANABRIA ESPINOLA, MIKEL DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "URIZAR ANGULO, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "UBIERNA CARRASCO, IBAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SANTIAGO GUTIERREZ, RUBEN",
+  "entrenador_visitante": "SANCHO REDONDO, JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA PAREDES, URKO",
+  "delegado_equipo_visitante": "ANGULO REGULEZ, ALBERTO",
+  "titulares_local": [
+    "SANTIAGO BUITRON, EDER",
+    "RODRIGO LARRAÑAGA, ANDER",
+    "FERNANDEZ MARTINEZ, ENEKO",
+    "LOZANO BURGOS, EDER",
+    "UBIERNA CARRASCO, IBAI",
+    "DE LA VEGA JUAREZ, DIEGO",
+    "ARROYO ASTOBIZA, KAIET",
+    "CARO SANCHEZ, JESUS MARIA",
+    "SANABRIA ESPINOLA, MIKEL DANIEL",
+    "MORENO RODRIGUEZ, DANEL",
+    "GONZALEZ VEJO, AKETZA"
+  ],
+  "titulares_visitante": [
+    "GOIKOLEA BAZA, UNAI",
+    "CALLE FERNADEZ, AITOR",
+    "INTXAUSTI ARAGONES, AIMAR",
+    "SOBRINO ALONSO, HEGOI",
+    "ANGULO MARTINEZ, ANDER",
+    "EIZAGUIRRE PEREZ, JON",
+    "URIZAR ANGULO, MARCOS",
+    "LEIBA GONZALEZ, ERLANTZ",
+    "GARCIA SANZ, AGER",
+    "AGUILAR NIÑO, EKAITZ",
+    "AGRA GARATEA, XABIER"
+  ],
+  "suplentes_local": [
+    "POUDEL NIURE, ANISH",
+    "OSINAGA FLORES, FERNANDO",
+    "BUENO GARCIA DE BIKUÑA, MIKEL",
+    "VIAFARA CUENU, NICOLAS",
+    "COTORE BLANCO, MIGUEL ANGEL",
+    "GARCIA DIEGUEZ, AINGERU",
+    "LORENZO HOLGUIN, XABIER"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ MERINO, UNAI",
+    "PAYAS FRANCO, OIER",
+    "ABASOLO ARRIBAS, HEGOI",
+    "ATELA DIEZ, EÑAUT",
+    "AZCARATE LOPEZ-GOMEZ, ASIER",
+    "MARTIN RUIZ, IKER",
+    "DANIEL ASIEDU, RAYMOND"
+  ],
+  "convocados_sin_jugar_local": [
+    "POUDEL NIURE, ANISH",
+    "BUENO GARCIA DE BIKUÑA, MIKEL",
+    "LORENZO HOLGUIN, XABIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PAYAS FRANCO, OIER",
+    "ATELA DIEZ, EÑAUT",
+    "AZCARATE LOPEZ-GOMEZ, ASIER"
+  ],
+  "jugadores_local": [
+    "SANTIAGO BUITRON, EDER",
+    "RODRIGO LARRAÑAGA, ANDER",
+    "FERNANDEZ MARTINEZ, ENEKO",
+    "LOZANO BURGOS, EDER",
+    "UBIERNA CARRASCO, IBAI",
+    "DE LA VEGA JUAREZ, DIEGO",
+    "ARROYO ASTOBIZA, KAIET",
+    "CARO SANCHEZ, JESUS MARIA",
+    "SANABRIA ESPINOLA, MIKEL DANIEL",
+    "MORENO RODRIGUEZ, DANEL",
+    "GONZALEZ VEJO, AKETZA",
+    "VIAFARA CUENU, NICOLAS",
+    "GARCIA DIEGUEZ, AINGERU",
+    "COTORE BLANCO, MIGUEL ANGEL",
+    "OSINAGA FLORES, FERNANDO"
+  ],
+  "jugadores_visitante": [
+    "GOIKOLEA BAZA, UNAI",
+    "CALLE FERNADEZ, AITOR",
+    "INTXAUSTI ARAGONES, AIMAR",
+    "SOBRINO ALONSO, HEGOI",
+    "ANGULO MARTINEZ, ANDER",
+    "EIZAGUIRRE PEREZ, JON",
+    "URIZAR ANGULO, MARCOS",
+    "LEIBA GONZALEZ, ERLANTZ",
+    "GARCIA SANZ, AGER",
+    "AGUILAR NIÑO, EKAITZ",
+    "AGRA GARATEA, XABIER",
+    "ABASOLO ARRIBAS, HEGOI",
+    "DANIEL ASIEDU, RAYMOND",
+    "MARTIN RUIZ, IKER",
+    "GONZALEZ MERINO, UNAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "VIAFARA CUENU, NICOLAS",
+      "sale": "GONZALEZ VEJO, AKETZA"
+    },
+    {
+      "min": 53,
+      "entra": "GARCIA DIEGUEZ, AINGERU",
+      "sale": "MORENO RODRIGUEZ, DANEL"
+    },
+    {
+      "min": 62,
+      "entra": "COTORE BLANCO, MIGUEL ANGEL",
+      "sale": "CARO SANCHEZ, JESUS MARIA"
+    },
+    {
+      "min": 69,
+      "entra": "OSINAGA FLORES, FERNANDO",
+      "sale": "ARROYO ASTOBIZA, KAIET"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "ABASOLO ARRIBAS, HEGOI",
+      "sale": "GARCIA SANZ, AGER"
+    },
+    {
+      "min": 53,
+      "entra": "DANIEL ASIEDU, RAYMOND",
+      "sale": "AGUILAR NIÑO, EKAITZ"
+    },
+    {
+      "min": 62,
+      "entra": "MARTIN RUIZ, IKER",
+      "sale": "ANGULO MARTINEZ, ANDER"
+    },
+    {
+      "min": 75,
+      "entra": "GONZALEZ MERINO, UNAI",
+      "sale": "AGRA GARATEA, XABIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANTIAGO BUITRON, EDER": 90,
+    "RODRIGO LARRAÑAGA, ANDER": 90,
+    "FERNANDEZ MARTINEZ, ENEKO": 90,
+    "LOZANO BURGOS, EDER": 90,
+    "UBIERNA CARRASCO, IBAI": 90,
+    "DE LA VEGA JUAREZ, DIEGO": 90,
+    "ARROYO ASTOBIZA, KAIET": 69,
+    "CARO SANCHEZ, JESUS MARIA": 62,
+    "SANABRIA ESPINOLA, MIKEL DANIEL": 90,
+    "MORENO RODRIGUEZ, DANEL": 53,
+    "GONZALEZ VEJO, AKETZA": 53,
+    "VIAFARA CUENU, NICOLAS": 37,
+    "GARCIA DIEGUEZ, AINGERU": 37,
+    "COTORE BLANCO, MIGUEL ANGEL": 28,
+    "OSINAGA FLORES, FERNANDO": 21,
+    "GOIKOLEA BAZA, UNAI": 90,
+    "CALLE FERNADEZ, AITOR": 90,
+    "INTXAUSTI ARAGONES, AIMAR": 90,
+    "SOBRINO ALONSO, HEGOI": 90,
+    "ANGULO MARTINEZ, ANDER": 62,
+    "EIZAGUIRRE PEREZ, JON": 90,
+    "URIZAR ANGULO, MARCOS": 90,
+    "LEIBA GONZALEZ, ERLANTZ": 90,
+    "GARCIA SANZ, AGER": 53,
+    "AGUILAR NIÑO, EKAITZ": 53,
+    "AGRA GARATEA, XABIER": 75,
+    "ABASOLO ARRIBAS, HEGOI": 37,
+    "DANIEL ASIEDU, RAYMOND": 37,
+    "MARTIN RUIZ, IKER": 28,
+    "GONZALEZ MERINO, UNAI": 15
+  },
+  "portero_local": "SANTIAGO BUITRON, EDER",
+  "portero_visitante": "GOIKOLEA BAZA, UNAI",
+  "dorsales_local": {
+    "SANTIAGO BUITRON, EDER": 1,
+    "RODRIGO LARRAÑAGA, ANDER": 2,
+    "FERNANDEZ MARTINEZ, ENEKO": 3,
+    "LOZANO BURGOS, EDER": 4,
+    "UBIERNA CARRASCO, IBAI": 5,
+    "DE LA VEGA JUAREZ, DIEGO": 7,
+    "ARROYO ASTOBIZA, KAIET": 8,
+    "CARO SANCHEZ, JESUS MARIA": 9,
+    "SANABRIA ESPINOLA, MIKEL DANIEL": 10,
+    "MORENO RODRIGUEZ, DANEL": 12,
+    "GONZALEZ VEJO, AKETZA": 17
+  },
+  "dorsales_visitante": {
+    "GOIKOLEA BAZA, UNAI": 1,
+    "CALLE FERNADEZ, AITOR": 3,
+    "INTXAUSTI ARAGONES, AIMAR": 4,
+    "SOBRINO ALONSO, HEGOI": 5,
+    "ANGULO MARTINEZ, ANDER": 6,
+    "EIZAGUIRRE PEREZ, JON": 8,
+    "URIZAR ANGULO, MARCOS": 9,
+    "LEIBA GONZALEZ, ERLANTZ": 10,
+    "GARCIA SANZ, AGER": 21,
+    "AGUILAR NIÑO, EKAITZ": 23,
+    "AGRA GARATEA, XABIER": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
