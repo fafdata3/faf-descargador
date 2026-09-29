@@ -1,0 +1,267 @@
+{
+  "acta_id": "C_173209",
+  "filename": "Acta_C_173209.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 8,
+  "fecha": "11-11-2023",
+  "hora": "17:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "C.D.E. AGORA F.C. A",
+  "goles_local": 4,
+  "goles_visitante": 3,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCIA RUBIO, JOEL"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "HERRERA RUIZ, ADAHY",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "RODRIGUEZ SARABIA, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "ESPINOSA SOBRINO, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "TRESGALLO RODRIGUEZ, ULISES",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "RANERO GARCIA, MARCO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "TRESGALLO RODRIGUEZ, ULISES",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "TRESGALLO RODRIGUEZ, ULISES",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 27,
+      "jugador": "CRESPO SÁINZ, ÁNGEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "RODRIGUEZ SARABIA, AIMAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "DE PRADO MARTINEZ, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CICERO MONTES, RAFAEL",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "PASTOR SALAS, SERGIO",
+  "titulares_local": [
+    "HERRERA MAROTO, ROBERTO",
+    "CRESPO SÁINZ, ISIDRO",
+    "CRESPO SÁINZ, ÁNGEL",
+    "BARREDA MENDEZ, EDGAR",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "VELARDE VEGA, HECTOR",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "CRUZADO CUESTA, FABIO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "PEREDA MONJE, FERNANDO",
+    "HERRERA RUIZ, ADAHY"
+  ],
+  "titulares_visitante": [
+    "GARCIA TROYANO, ALAIN",
+    "SARDON HERRERO, MIKEL",
+    "RODRIGUEZ SARABIA, AIMAR",
+    "MARTIN PETRUS, DANIEL",
+    "ALVAREZ DURAN, SAMUEL",
+    "SAUTO ROMA, HUGO",
+    "ESPINOSA SOBRINO, ALEJANDRO",
+    "RANERO GARCIA, MARCO",
+    "DIAZ ALONSO, GORKA",
+    "GARCIA ZUBIAUR, NICOLAS",
+    "AGUDO GARCIA, ASIER"
+  ],
+  "suplentes_local": [
+    "MOROGLU OYARBIDE, LEO"
+  ],
+  "suplentes_visitante": [
+    "VELEZ MONTES, LUIS",
+    "RODRIGUEZ GARATE, EGOITZ",
+    "DE PRADO MARTINEZ, IKER",
+    "MARTINEZ IZQUIERDO, RODRIGO",
+    "CANO MELENDEZ, HUGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "HERRERA MAROTO, ROBERTO",
+    "CRESPO SÁINZ, ISIDRO",
+    "CRESPO SÁINZ, ÁNGEL",
+    "BARREDA MENDEZ, EDGAR",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "VELARDE VEGA, HECTOR",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "CRUZADO CUESTA, FABIO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "PEREDA MONJE, FERNANDO",
+    "HERRERA RUIZ, ADAHY",
+    "MOROGLU OYARBIDE, LEO"
+  ],
+  "jugadores_visitante": [
+    "GARCIA TROYANO, ALAIN",
+    "SARDON HERRERO, MIKEL",
+    "RODRIGUEZ SARABIA, AIMAR",
+    "MARTIN PETRUS, DANIEL",
+    "ALVAREZ DURAN, SAMUEL",
+    "SAUTO ROMA, HUGO",
+    "ESPINOSA SOBRINO, ALEJANDRO",
+    "RANERO GARCIA, MARCO",
+    "DIAZ ALONSO, GORKA",
+    "GARCIA ZUBIAUR, NICOLAS",
+    "AGUDO GARCIA, ASIER",
+    "DE PRADO MARTINEZ, IKER",
+    "RODRIGUEZ GARATE, EGOITZ",
+    "MARTINEZ IZQUIERDO, RODRIGO",
+    "VELEZ MONTES, LUIS",
+    "CANO MELENDEZ, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "MOROGLU OYARBIDE, LEO",
+      "sale": "HERRERA MAROTO, ROBERTO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 47,
+      "entra": "DE PRADO MARTINEZ, IKER",
+      "sale": "ESPINOSA SOBRINO, ALEJANDRO"
+    },
+    {
+      "min": 55,
+      "entra": "RODRIGUEZ GARATE, EGOITZ",
+      "sale": "SARDON HERRERO, MIKEL"
+    },
+    {
+      "min": 62,
+      "entra": "MARTINEZ IZQUIERDO, RODRIGO",
+      "sale": "SAUTO ROMA, HUGO"
+    },
+    {
+      "min": 62,
+      "entra": "VELEZ MONTES, LUIS",
+      "sale": "DIAZ ALONSO, GORKA"
+    },
+    {
+      "min": 68,
+      "entra": "CANO MELENDEZ, HUGO",
+      "sale": "GARCIA ZUBIAUR, NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "HERRERA MAROTO, ROBERTO": 36,
+    "CRESPO SÁINZ, ISIDRO": 90,
+    "CRESPO SÁINZ, ÁNGEL": 90,
+    "BARREDA MENDEZ, EDGAR": 90,
+    "GOMEZ CABIELLES, ALEJANDRO": 90,
+    "VELARDE VEGA, HECTOR": 90,
+    "TRESGALLO RODRIGUEZ, ULISES": 90,
+    "CRUZADO CUESTA, FABIO": 90,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 90,
+    "PEREDA MONJE, FERNANDO": 90,
+    "HERRERA RUIZ, ADAHY": 90,
+    "MOROGLU OYARBIDE, LEO": 54,
+    "GARCIA TROYANO, ALAIN": 90,
+    "SARDON HERRERO, MIKEL": 55,
+    "RODRIGUEZ SARABIA, AIMAR": 90,
+    "MARTIN PETRUS, DANIEL": 90,
+    "ALVAREZ DURAN, SAMUEL": 90,
+    "SAUTO ROMA, HUGO": 62,
+    "ESPINOSA SOBRINO, ALEJANDRO": 47,
+    "RANERO GARCIA, MARCO": 90,
+    "DIAZ ALONSO, GORKA": 62,
+    "GARCIA ZUBIAUR, NICOLAS": 68,
+    "AGUDO GARCIA, ASIER": 90,
+    "DE PRADO MARTINEZ, IKER": 43,
+    "RODRIGUEZ GARATE, EGOITZ": 35,
+    "MARTINEZ IZQUIERDO, RODRIGO": 28,
+    "VELEZ MONTES, LUIS": 28,
+    "CANO MELENDEZ, HUGO": 22
+  },
+  "portero_local": "HERRERA MAROTO, ROBERTO",
+  "portero_visitante": "GARCIA TROYANO, ALAIN",
+  "dorsales_local": {
+    "HERRERA MAROTO, ROBERTO": 1,
+    "CRESPO SÁINZ, ISIDRO": 4,
+    "CRESPO SÁINZ, ÁNGEL": 5,
+    "BARREDA MENDEZ, EDGAR": 6,
+    "GOMEZ CABIELLES, ALEJANDRO": 7,
+    "VELARDE VEGA, HECTOR": 9,
+    "TRESGALLO RODRIGUEZ, ULISES": 10,
+    "CRUZADO CUESTA, FABIO": 11,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 15,
+    "PEREDA MONJE, FERNANDO": 20,
+    "HERRERA RUIZ, ADAHY": 21
+  },
+  "dorsales_visitante": {
+    "GARCIA TROYANO, ALAIN": 13,
+    "SARDON HERRERO, MIKEL": 2,
+    "RODRIGUEZ SARABIA, AIMAR": 3,
+    "MARTIN PETRUS, DANIEL": 4,
+    "ALVAREZ DURAN, SAMUEL": 5,
+    "SAUTO ROMA, HUGO": 9,
+    "ESPINOSA SOBRINO, ALEJANDRO": 10,
+    "RANERO GARCIA, MARCO": 16,
+    "DIAZ ALONSO, GORKA": 18,
+    "GARCIA ZUBIAUR, NICOLAS": 21,
+    "AGUDO GARCIA, ASIER": 31
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
