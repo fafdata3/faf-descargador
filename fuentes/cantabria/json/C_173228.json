@@ -1,0 +1,254 @@
+{
+  "acta_id": "C_173228",
+  "filename": "Acta_C_173228.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 11,
+  "fecha": "02-12-2023",
+  "hora": "19:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE A",
+  "equipo_visitante": "ESC.MPAL. SANTANDER A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCIA OREÑA, IRENE"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "LOPEZ ALCALDE, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 9,
+      "jugador": "CAMPELO MARTINEZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "LAVIN VELARDE, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 58,
+      "jugador": "SARO ALLENDE, ALEJO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "CORDOVILLO PEREZ, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "SEVERINO HERRERA, ADRIAN DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "HERRERA DIAZ, SALVADOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "COSTALES ALVAREZ, RICARDO",
+  "segundo_entrenador_local": "PEREZ ENGUITA, FERNANDO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "HERRERA DIAZ, SALVADOR",
+  "titulares_local": [
+    "MARTIN SUAREZ, HUGO",
+    "CUEVAS ALLENDE, NACHO",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "MORAN POLANCO, ALVARO",
+    "LOPEZ ALCALDE, IZAN",
+    "CORDOVILLO PEREZ, MARCOS",
+    "GARCIA RUIZ, HERNAN",
+    "VILLA OTERO, BRUNO",
+    "SARO ALLENDE, ALEJO",
+    "MONTES SANTOS, CARLOS",
+    "PEÑA SÁIZ, RAFA"
+  ],
+  "titulares_visitante": [
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "GUTIERREZ OTERO, DIEGO",
+    "LAVIN VELARDE, MARCOS",
+    "LOPEZ SAN MARTIN, HUGO",
+    "RUIZ OCHOANTESANA, SIMON",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "CAMPELO MARTINEZ, PABLO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "DEL OJO HERRERO, LUCA",
+    "FERNANDEZ DE DIEGO, ALVARO"
+  ],
+  "suplentes_local": [
+    "NUÑEZ MORENO, MARCOS",
+    "OTERO MARTIN, JOEL",
+    "ROCES RONDO, CRUZ",
+    "ELGHOULLAT DRIOUCH, ISMAEL",
+    "LASO MARTINEZ, BRUNO"
+  ],
+  "suplentes_visitante": [
+    "SAINZ GARCÍA, CESÁR",
+    "FERNÁNDEZ FERNÁNDEZ, ANGEL JOSÉ"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MARTIN SUAREZ, HUGO",
+    "CUEVAS ALLENDE, NACHO",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "MORAN POLANCO, ALVARO",
+    "LOPEZ ALCALDE, IZAN",
+    "CORDOVILLO PEREZ, MARCOS",
+    "GARCIA RUIZ, HERNAN",
+    "VILLA OTERO, BRUNO",
+    "SARO ALLENDE, ALEJO",
+    "MONTES SANTOS, CARLOS",
+    "PEÑA SÁIZ, RAFA",
+    "NUÑEZ MORENO, MARCOS",
+    "LASO MARTINEZ, BRUNO",
+    "ROCES RONDO, CRUZ",
+    "OTERO MARTIN, JOEL",
+    "ELGHOULLAT DRIOUCH, ISMAEL"
+  ],
+  "jugadores_visitante": [
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "GUTIERREZ OTERO, DIEGO",
+    "LAVIN VELARDE, MARCOS",
+    "LOPEZ SAN MARTIN, HUGO",
+    "RUIZ OCHOANTESANA, SIMON",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "CAMPELO MARTINEZ, PABLO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "DEL OJO HERRERO, LUCA",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "SAINZ GARCÍA, CESÁR",
+    "FERNÁNDEZ FERNÁNDEZ, ANGEL JOSÉ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "NUÑEZ MORENO, MARCOS",
+      "sale": "MARTIN SUAREZ, HUGO"
+    },
+    {
+      "min": 43,
+      "entra": "LASO MARTINEZ, BRUNO",
+      "sale": "MONTES SANTOS, CARLOS"
+    },
+    {
+      "min": 55,
+      "entra": "ROCES RONDO, CRUZ",
+      "sale": "GARCIA RUIZ, HERNAN"
+    },
+    {
+      "min": 58,
+      "entra": "OTERO MARTIN, JOEL",
+      "sale": "SARO ALLENDE, ALEJO"
+    },
+    {
+      "min": 65,
+      "entra": "ELGHOULLAT DRIOUCH, ISMAEL",
+      "sale": "GONZALEZ GONZALEZ, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "SAINZ GARCÍA, CESÁR",
+      "sale": "DE LA FUENTE GUILLARON, MARCOS"
+    },
+    {
+      "min": 43,
+      "entra": "FERNÁNDEZ FERNÁNDEZ, ANGEL JOSÉ",
+      "sale": "DEL OJO HERRERO, LUCA"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTIN SUAREZ, HUGO": 36,
+    "CUEVAS ALLENDE, NACHO": 90,
+    "GONZALEZ GONZALEZ, DANIEL": 65,
+    "MORAN POLANCO, ALVARO": 90,
+    "LOPEZ ALCALDE, IZAN": 90,
+    "CORDOVILLO PEREZ, MARCOS": 90,
+    "GARCIA RUIZ, HERNAN": 55,
+    "VILLA OTERO, BRUNO": 90,
+    "SARO ALLENDE, ALEJO": 58,
+    "MONTES SANTOS, CARLOS": 43,
+    "PEÑA SÁIZ, RAFA": 90,
+    "NUÑEZ MORENO, MARCOS": 54,
+    "LASO MARTINEZ, BRUNO": 47,
+    "ROCES RONDO, CRUZ": 35,
+    "OTERO MARTIN, JOEL": 32,
+    "ELGHOULLAT DRIOUCH, ISMAEL": 25,
+    "DE LA FUENTE GUILLARON, MARCOS": 36,
+    "GUTIERREZ OTERO, DIEGO": 90,
+    "LAVIN VELARDE, MARCOS": 90,
+    "LOPEZ SAN MARTIN, HUGO": 90,
+    "RUIZ OCHOANTESANA, SIMON": 90,
+    "COROZO TARIRA, SAMUEL LENIN": 90,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 90,
+    "CAMPELO MARTINEZ, PABLO": 90,
+    "MARTINEZ IBAÑEZ, LUCAS": 90,
+    "DEL OJO HERRERO, LUCA": 43,
+    "FERNANDEZ DE DIEGO, ALVARO": 90,
+    "SAINZ GARCÍA, CESÁR": 54,
+    "FERNÁNDEZ FERNÁNDEZ, ANGEL JOSÉ": 47
+  },
+  "portero_local": "MARTIN SUAREZ, HUGO",
+  "portero_visitante": "DE LA FUENTE GUILLARON, MARCOS",
+  "dorsales_local": {
+    "MARTIN SUAREZ, HUGO": 1,
+    "CUEVAS ALLENDE, NACHO": 3,
+    "GONZALEZ GONZALEZ, DANIEL": 5,
+    "MORAN POLANCO, ALVARO": 6,
+    "LOPEZ ALCALDE, IZAN": 7,
+    "CORDOVILLO PEREZ, MARCOS": 9,
+    "GARCIA RUIZ, HERNAN": 11,
+    "VILLA OTERO, BRUNO": 14,
+    "SARO ALLENDE, ALEJO": 16,
+    "MONTES SANTOS, CARLOS": 20,
+    "PEÑA SÁIZ, RAFA": 21
+  },
+  "dorsales_visitante": {
+    "DE LA FUENTE GUILLARON, MARCOS": 13,
+    "GUTIERREZ OTERO, DIEGO": 2,
+    "LAVIN VELARDE, MARCOS": 3,
+    "LOPEZ SAN MARTIN, HUGO": 4,
+    "RUIZ OCHOANTESANA, SIMON": 5,
+    "COROZO TARIRA, SAMUEL LENIN": 7,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 8,
+    "CAMPELO MARTINEZ, PABLO": 9,
+    "MARTINEZ IBAÑEZ, LUCAS": 10,
+    "DEL OJO HERRERO, LUCA": 15,
+    "FERNANDEZ DE DIEGO, ALVARO": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
