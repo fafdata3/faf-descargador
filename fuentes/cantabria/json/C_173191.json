@@ -1,0 +1,282 @@
+{
+  "acta_id": "C_173191",
+  "filename": "Acta_C_173191.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 6,
+  "fecha": "28-10-2023",
+  "hora": "16:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "ESC.MPAL. SANTANDER A",
+  "equipo_visitante": "AT. ESPAÑA DE CUETO A",
+  "goles_local": 7,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LAVÍN GARCÍA, SERGIO"
+  ],
+  "estadio": "Comp. Albericia (A)",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "COROZO TARIRA, SAMUEL LENIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "MATEO OLALLA, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "DELGADO MELLADO, JUAN",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "GONZALEZ GOMEZ, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "GORI GORI, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "CAMPELO MARTINEZ, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "RODRIGUEZ GUTIERREZ, DANIEL",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 28,
+      "jugador": "MATEO OLALLA, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "GARCIA GARCIA, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "COSTALES ALVAREZ, RICARDO",
+  "entrenador_visitante": "GOMEZ ARRANZ, IVAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "TOCA CASADO, RAFAEL",
+  "delegado_campo_local": "HERRERA DIAZ, SALVADOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HERRERA DIAZ, SALVADOR",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "LAVIN VELARDE, MARCOS",
+    "PEREZ DEL TIO, LUCAS",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "LOPEZ LAMEIRO, MATEO",
+    "DEL OJO HERRERO, LUCA",
+    "CARNICERO SANZ, MIGUEL ANGEL",
+    "GORI GORI, DANIEL",
+    "FERNANDEZ DE DIEGO, ALVARO"
+  ],
+  "titulares_visitante": [
+    "FUENTES LEMA, LAUREANO",
+    "SANCHEZ GALONCE, HECTOR",
+    "DELGADO MELLADO, JUAN",
+    "GARCIA GARCIA, ADRIAN",
+    "GONZALEZ GOMEZ, JAVIER",
+    "GONZALEZ USIN, GABRIEL",
+    "MATEO OLALLA, MARKEL",
+    "RODRIGUEZ GUTIERREZ, DANIEL",
+    "VILLAR GARCIA, LARO",
+    "CURADO GUTIERREZ, ALVARO",
+    "TAPIA IBAÑEZ, NACHO"
+  ],
+  "suplentes_local": [
+    "SAINZ GARCÍA, CESÁR",
+    "LOPEZ SAN MARTIN, HUGO",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "CAMPELO MARTINEZ, PABLO"
+  ],
+  "suplentes_visitante": [
+    "PERA DE LA LOMA, IKER",
+    "FERNANDEZ DIAZ, GUILLERMO",
+    "CALABRESE CRESPO, GIANLUCA"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DE LA FUENTE GUILLARON, MARCOS",
+    "LAVIN VELARDE, MARCOS",
+    "PEREZ DEL TIO, LUCAS",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "LOPEZ LAMEIRO, MATEO",
+    "DEL OJO HERRERO, LUCA",
+    "CARNICERO SANZ, MIGUEL ANGEL",
+    "GORI GORI, DANIEL",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "CAMPELO MARTINEZ, PABLO",
+    "SAINZ GARCÍA, CESÁR",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "LOPEZ SAN MARTIN, HUGO"
+  ],
+  "jugadores_visitante": [
+    "FUENTES LEMA, LAUREANO",
+    "SANCHEZ GALONCE, HECTOR",
+    "DELGADO MELLADO, JUAN",
+    "GARCIA GARCIA, ADRIAN",
+    "GONZALEZ GOMEZ, JAVIER",
+    "GONZALEZ USIN, GABRIEL",
+    "MATEO OLALLA, MARKEL",
+    "RODRIGUEZ GUTIERREZ, DANIEL",
+    "VILLAR GARCIA, LARO",
+    "CURADO GUTIERREZ, ALVARO",
+    "TAPIA IBAÑEZ, NACHO",
+    "PERA DE LA LOMA, IKER",
+    "FERNANDEZ DIAZ, GUILLERMO",
+    "CALABRESE CRESPO, GIANLUCA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "CAMPELO MARTINEZ, PABLO",
+      "sale": "SEVERINO HERRERA, ADRIAN DANIEL"
+    },
+    {
+      "min": 36,
+      "entra": "SAINZ GARCÍA, CESÁR",
+      "sale": "DE LA FUENTE GUILLARON, MARCOS"
+    },
+    {
+      "min": 36,
+      "entra": "DOMINGUEZ RUIZ, SAMUEL",
+      "sale": "COROZO TARIRA, SAMUEL LENIN"
+    },
+    {
+      "min": 60,
+      "entra": "LOPEZ SAN MARTIN, HUGO",
+      "sale": "LOPEZ LAMEIRO, MATEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "PERA DE LA LOMA, IKER",
+      "sale": "GONZALEZ USIN, GABRIEL"
+    },
+    {
+      "min": 57,
+      "entra": "FERNANDEZ DIAZ, GUILLERMO",
+      "sale": "VILLAR GARCIA, LARO"
+    },
+    {
+      "min": 57,
+      "entra": "CALABRESE CRESPO, GIANLUCA",
+      "sale": "TAPIA IBAÑEZ, NACHO"
+    }
+  ],
+  "minutos_jugadores": {
+    "DE LA FUENTE GUILLARON, MARCOS": 36,
+    "LAVIN VELARDE, MARCOS": 90,
+    "PEREZ DEL TIO, LUCAS": 90,
+    "COROZO TARIRA, SAMUEL LENIN": 36,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 36,
+    "MARTINEZ IBAÑEZ, LUCAS": 90,
+    "LOPEZ LAMEIRO, MATEO": 60,
+    "DEL OJO HERRERO, LUCA": 90,
+    "CARNICERO SANZ, MIGUEL ANGEL": 90,
+    "GORI GORI, DANIEL": 90,
+    "FERNANDEZ DE DIEGO, ALVARO": 90,
+    "CAMPELO MARTINEZ, PABLO": 54,
+    "SAINZ GARCÍA, CESÁR": 54,
+    "DOMINGUEZ RUIZ, SAMUEL": 54,
+    "LOPEZ SAN MARTIN, HUGO": 30,
+    "FUENTES LEMA, LAUREANO": 90,
+    "SANCHEZ GALONCE, HECTOR": 90,
+    "DELGADO MELLADO, JUAN": 90,
+    "GARCIA GARCIA, ADRIAN": 90,
+    "GONZALEZ GOMEZ, JAVIER": 90,
+    "GONZALEZ USIN, GABRIEL": 46,
+    "MATEO OLALLA, MARKEL": 90,
+    "RODRIGUEZ GUTIERREZ, DANIEL": 90,
+    "VILLAR GARCIA, LARO": 57,
+    "CURADO GUTIERREZ, ALVARO": 90,
+    "TAPIA IBAÑEZ, NACHO": 57,
+    "PERA DE LA LOMA, IKER": 44,
+    "FERNANDEZ DIAZ, GUILLERMO": 33,
+    "CALABRESE CRESPO, GIANLUCA": 33
+  },
+  "portero_local": "DE LA FUENTE GUILLARON, MARCOS",
+  "portero_visitante": "FUENTES LEMA, LAUREANO",
+  "dorsales_local": {
+    "DE LA FUENTE GUILLARON, MARCOS": 1,
+    "LAVIN VELARDE, MARCOS": 3,
+    "PEREZ DEL TIO, LUCAS": 5,
+    "COROZO TARIRA, SAMUEL LENIN": 7,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 8,
+    "MARTINEZ IBAÑEZ, LUCAS": 10,
+    "LOPEZ LAMEIRO, MATEO": 11,
+    "DEL OJO HERRERO, LUCA": 15,
+    "CARNICERO SANZ, MIGUEL ANGEL": 19,
+    "GORI GORI, DANIEL": 20,
+    "FERNANDEZ DE DIEGO, ALVARO": 21
+  },
+  "dorsales_visitante": {
+    "FUENTES LEMA, LAUREANO": 13,
+    "SANCHEZ GALONCE, HECTOR": 2,
+    "DELGADO MELLADO, JUAN": 3,
+    "GARCIA GARCIA, ADRIAN": 4,
+    "GONZALEZ GOMEZ, JAVIER": 7,
+    "GONZALEZ USIN, GABRIEL": 8,
+    "MATEO OLALLA, MARKEL": 9,
+    "RODRIGUEZ GUTIERREZ, DANIEL": 11,
+    "VILLAR GARCIA, LARO": 12,
+    "CURADO GUTIERREZ, ALVARO": 14,
+    "TAPIA IBAÑEZ, NACHO": 15
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
