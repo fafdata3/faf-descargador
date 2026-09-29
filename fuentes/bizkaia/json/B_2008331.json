@@ -1,0 +1,285 @@
+{
+  "acta_id": "B_2008331",
+  "filename": "Acta_B_2008331.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 1,
+  "fecha": "05-10-2024",
+  "hora": "12:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "IBARREKO A",
+  "equipo_visitante": "BASCONIA A",
+  "goles_local": 4,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SEDANO MIJARES, ANDER"
+  ],
+  "estadio": "P.M. SAN IGNACIO",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "VICENTE MIGUEL, MIKEL",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "OLIVEROS PAREJA, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "RODRIGUEZ DEL RIO, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "URIZAR ANGULO, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "ABASOLO ARRIBAS, HEGOI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "DANIEL ASIEDU, RAYMOND",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 46,
+      "jugador": "INTXAUSTI ARAGONES, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "HERNANDEZ COLMENARES, JOSE ANGEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SANCHO REDONDO, JAVIER",
+  "entrenador_visitante": "AMEZAGA AMEZUA, MIKEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ANGULO REGULEZ, ALBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ANGULO REGULEZ, ALBERTO",
+  "delegado_equipo_visitante": "ETXANO GANDARIASBEITIA, IKER",
+  "titulares_local": [
+    "GOIKOLEA BAZA, UNAI",
+    "INTXAUSTI ARAGONES, AIMAR",
+    "SOBRINO ALONSO, HEGOI",
+    "ANGULO MARTINEZ, ANDER",
+    "EIZAGUIRRE PEREZ, JON",
+    "URIZAR ANGULO, MARCOS",
+    "LEIBA GONZALEZ, ERLANTZ",
+    "ABASOLO ARRIBAS, HEGOI",
+    "GARCIA GALAN, DAVID",
+    "GARCIA SANZ, AGER",
+    "AGUILAR NIÑO, EKAITZ"
+  ],
+  "titulares_visitante": [
+    "GUARROTXENA ECHAIDE, ANER",
+    "FERNANDEZ SANTAMARIA, ENAITZ",
+    "ORTEGA MARTIN, MARKEL",
+    "VICENTE MIGUEL, MIKEL",
+    "URIARTE LUENGO, UNAX",
+    "RODRIGUEZ DEL RIO, AIMAR",
+    "OLIVEROS PAREJA, IZAN",
+    "HERNANDEZ COLMENARES, JOSE ANGEL",
+    "HRIB, ERIC ALEXANDRU",
+    "VACHE MARTINEZ, DARIO NICOLAS",
+    "GALDOS RAMOS, IÑIGO"
+  ],
+  "suplentes_local": [
+    "GONZALEZ MERINO, UNAI",
+    "PAYAS FRANCO, OIER",
+    "AZCARATE LOPEZ-GOMEZ, ASIER",
+    "MARTIN RUIZ, IKER",
+    "DANIEL ASIEDU, RAYMOND",
+    "AGRA GARATEA, XABIER"
+  ],
+  "suplentes_visitante": [
+    "COLLADO LOPEZ, MIKEL",
+    "ILLARO LLANOS, ANER",
+    "ESTEVEZ ECHEVARRIA, JULEN",
+    "CAMARA, SEYDINA MOHAMED",
+    "ALVAREZ CASANOVA, MICHAEL JR",
+    "NUÑEZ VILLALBA, JESUS SAMUEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "AZCARATE LOPEZ-GOMEZ, ASIER",
+    "AGRA GARATEA, XABIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "COLLADO LOPEZ, MIKEL"
+  ],
+  "jugadores_local": [
+    "GOIKOLEA BAZA, UNAI",
+    "INTXAUSTI ARAGONES, AIMAR",
+    "SOBRINO ALONSO, HEGOI",
+    "ANGULO MARTINEZ, ANDER",
+    "EIZAGUIRRE PEREZ, JON",
+    "URIZAR ANGULO, MARCOS",
+    "LEIBA GONZALEZ, ERLANTZ",
+    "ABASOLO ARRIBAS, HEGOI",
+    "GARCIA GALAN, DAVID",
+    "GARCIA SANZ, AGER",
+    "AGUILAR NIÑO, EKAITZ",
+    "GONZALEZ MERINO, UNAI",
+    "DANIEL ASIEDU, RAYMOND",
+    "PAYAS FRANCO, OIER",
+    "MARTIN RUIZ, IKER"
+  ],
+  "jugadores_visitante": [
+    "GUARROTXENA ECHAIDE, ANER",
+    "FERNANDEZ SANTAMARIA, ENAITZ",
+    "ORTEGA MARTIN, MARKEL",
+    "VICENTE MIGUEL, MIKEL",
+    "URIARTE LUENGO, UNAX",
+    "RODRIGUEZ DEL RIO, AIMAR",
+    "OLIVEROS PAREJA, IZAN",
+    "HERNANDEZ COLMENARES, JOSE ANGEL",
+    "HRIB, ERIC ALEXANDRU",
+    "VACHE MARTINEZ, DARIO NICOLAS",
+    "GALDOS RAMOS, IÑIGO",
+    "NUÑEZ VILLALBA, JESUS SAMUEL",
+    "CAMARA, SEYDINA MOHAMED",
+    "ESTEVEZ ECHEVARRIA, JULEN",
+    "ALVAREZ CASANOVA, MICHAEL JR",
+    "ILLARO LLANOS, ANER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "GONZALEZ MERINO, UNAI",
+      "sale": "GARCIA SANZ, AGER"
+    },
+    {
+      "min": 52,
+      "entra": "DANIEL ASIEDU, RAYMOND",
+      "sale": "AGUILAR NIÑO, EKAITZ"
+    },
+    {
+      "min": 59,
+      "entra": "PAYAS FRANCO, OIER",
+      "sale": "ABASOLO ARRIBAS, HEGOI"
+    },
+    {
+      "min": 79,
+      "entra": "MARTIN RUIZ, IKER",
+      "sale": "ANGULO MARTINEZ, ANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "NUÑEZ VILLALBA, JESUS SAMUEL",
+      "sale": "VACHE MARTINEZ, DARIO NICOLAS"
+    },
+    {
+      "min": 59,
+      "entra": "CAMARA, SEYDINA MOHAMED",
+      "sale": "HERNANDEZ COLMENARES, JOSE ANGEL"
+    },
+    {
+      "min": 69,
+      "entra": "ESTEVEZ ECHEVARRIA, JULEN",
+      "sale": "OLIVEROS PAREJA, IZAN"
+    },
+    {
+      "min": 69,
+      "entra": "ALVAREZ CASANOVA, MICHAEL JR",
+      "sale": "URIARTE LUENGO, UNAX"
+    },
+    {
+      "min": 75,
+      "entra": "ILLARO LLANOS, ANER",
+      "sale": "HRIB, ERIC ALEXANDRU"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOIKOLEA BAZA, UNAI": 90,
+    "INTXAUSTI ARAGONES, AIMAR": 90,
+    "SOBRINO ALONSO, HEGOI": 90,
+    "ANGULO MARTINEZ, ANDER": 79,
+    "EIZAGUIRRE PEREZ, JON": 90,
+    "URIZAR ANGULO, MARCOS": 90,
+    "LEIBA GONZALEZ, ERLANTZ": 90,
+    "ABASOLO ARRIBAS, HEGOI": 59,
+    "GARCIA GALAN, DAVID": 90,
+    "GARCIA SANZ, AGER": 52,
+    "AGUILAR NIÑO, EKAITZ": 52,
+    "GONZALEZ MERINO, UNAI": 38,
+    "DANIEL ASIEDU, RAYMOND": 38,
+    "PAYAS FRANCO, OIER": 31,
+    "MARTIN RUIZ, IKER": 11,
+    "GUARROTXENA ECHAIDE, ANER": 90,
+    "FERNANDEZ SANTAMARIA, ENAITZ": 90,
+    "ORTEGA MARTIN, MARKEL": 90,
+    "VICENTE MIGUEL, MIKEL": 90,
+    "URIARTE LUENGO, UNAX": 69,
+    "RODRIGUEZ DEL RIO, AIMAR": 90,
+    "OLIVEROS PAREJA, IZAN": 69,
+    "HERNANDEZ COLMENARES, JOSE ANGEL": 59,
+    "HRIB, ERIC ALEXANDRU": 75,
+    "VACHE MARTINEZ, DARIO NICOLAS": 40,
+    "GALDOS RAMOS, IÑIGO": 90,
+    "NUÑEZ VILLALBA, JESUS SAMUEL": 50,
+    "CAMARA, SEYDINA MOHAMED": 31,
+    "ESTEVEZ ECHEVARRIA, JULEN": 21,
+    "ALVAREZ CASANOVA, MICHAEL JR": 21,
+    "ILLARO LLANOS, ANER": 15
+  },
+  "portero_local": "GOIKOLEA BAZA, UNAI",
+  "portero_visitante": "GUARROTXENA ECHAIDE, ANER",
+  "dorsales_local": {
+    "GOIKOLEA BAZA, UNAI": 1,
+    "INTXAUSTI ARAGONES, AIMAR": 4,
+    "SOBRINO ALONSO, HEGOI": 5,
+    "ANGULO MARTINEZ, ANDER": 6,
+    "EIZAGUIRRE PEREZ, JON": 8,
+    "URIZAR ANGULO, MARCOS": 9,
+    "LEIBA GONZALEZ, ERLANTZ": 10,
+    "ABASOLO ARRIBAS, HEGOI": 11,
+    "GARCIA GALAN, DAVID": 14,
+    "GARCIA SANZ, AGER": 21,
+    "AGUILAR NIÑO, EKAITZ": 23
+  },
+  "dorsales_visitante": {
+    "GUARROTXENA ECHAIDE, ANER": 1,
+    "FERNANDEZ SANTAMARIA, ENAITZ": 2,
+    "ORTEGA MARTIN, MARKEL": 4,
+    "VICENTE MIGUEL, MIKEL": 6,
+    "URIARTE LUENGO, UNAX": 7,
+    "RODRIGUEZ DEL RIO, AIMAR": 8,
+    "OLIVEROS PAREJA, IZAN": 9,
+    "HERNANDEZ COLMENARES, JOSE ANGEL": 10,
+    "HRIB, ERIC ALEXANDRU": 16,
+    "VACHE MARTINEZ, DARIO NICOLAS": 19,
+    "GALDOS RAMOS, IÑIGO": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
