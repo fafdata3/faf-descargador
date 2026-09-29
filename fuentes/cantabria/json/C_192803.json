@@ -1,0 +1,286 @@
+{
+  "acta_id": "C_192803",
+  "filename": "Acta_C_192803.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 9,
+  "fecha": "02-11-2024",
+  "hora": "17:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. REVILLA A",
+  "equipo_visitante": "C.D.E. ATCO. MINEROS A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CABEZA ALFONSO, ARTURO"
+  ],
+  "estadio": "Revilla",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 47,
+      "jugador": "DEL HIERRO LOPEZ, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "DIAZ DIAZ, GONZALO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "SOLARES PICAZO, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "MIERA MARTINEZ, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "SALGADO ENACHE, BRUNO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "CORTA PENAGOS, FERNANDO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "SANCHEZ RODRÍGUEZ, SAMUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "SIERRA JIMENEZ, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "MAZON SHAROV, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "GOMEZ PEÑA, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CANALES CAVADA, SAMUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CANALES CAVADA, SAMUEL",
+  "delegado_equipo_visitante": "DIAZ SANCHEZ, PABLO",
+  "titulares_local": [
+    "SANCHEZ RODRÍGUEZ, SAMUEL",
+    "MIERA MARTINEZ, HUGO",
+    "TRUEBA MORENO, VICTOR",
+    "PEREZ GONZALEZ, HUGO",
+    "MANCEBO BOLADO, SANTIAGO",
+    "DEL HIERRO LOPEZ, ADRIAN",
+    "CIFRIAN CALZADA, SERGIO",
+    "SIERRA JIMENEZ, ADRIAN",
+    "CORTA PENAGOS, FERNANDO",
+    "AGUERO AGUNDEZ, LUIS",
+    "CUETO BARBERO, DAVID"
+  ],
+  "titulares_visitante": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "solar rabadan, DANIEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "STAN, NICOLAE CRISTIAN",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "GUTIERREZ GOMEZ, HECTOR",
+    "MATA SANGUIAO, CARLOS"
+  ],
+  "suplentes_local": [
+    "LOPEZ PEREZ, GONZALO",
+    "GARCIA GARCIA, BORJA",
+    "GARCIA COTERA, MATEO",
+    "SALGADO ENACHE, BRUNO",
+    "PUENTE GARCIA, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "LASA SIERRA, HECTOR",
+    "GUTIERREZ REDONDO, MARTIN",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "DIAZ DIAZ, GONZALO"
+  ],
+  "convocados_sin_jugar_local": [
+    "LOPEZ PEREZ, GONZALO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SANCHEZ RODRÍGUEZ, SAMUEL",
+    "MIERA MARTINEZ, HUGO",
+    "TRUEBA MORENO, VICTOR",
+    "PEREZ GONZALEZ, HUGO",
+    "MANCEBO BOLADO, SANTIAGO",
+    "DEL HIERRO LOPEZ, ADRIAN",
+    "CIFRIAN CALZADA, SERGIO",
+    "SIERRA JIMENEZ, ADRIAN",
+    "CORTA PENAGOS, FERNANDO",
+    "AGUERO AGUNDEZ, LUIS",
+    "CUETO BARBERO, DAVID",
+    "SALGADO ENACHE, BRUNO",
+    "PUENTE GARCIA, DIEGO",
+    "GARCIA COTERA, MATEO",
+    "GARCIA GARCIA, BORJA"
+  ],
+  "jugadores_visitante": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "solar rabadan, DANIEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "STAN, NICOLAE CRISTIAN",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "GUTIERREZ GOMEZ, HECTOR",
+    "MATA SANGUIAO, CARLOS",
+    "LASA SIERRA, HECTOR",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "GUTIERREZ REDONDO, MARTIN",
+    "DIAZ DIAZ, GONZALO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "SALGADO ENACHE, BRUNO",
+      "sale": "CUETO BARBERO, DAVID"
+    },
+    {
+      "min": 67,
+      "entra": "PUENTE GARCIA, DIEGO",
+      "sale": "PEREZ GONZALEZ, HUGO"
+    },
+    {
+      "min": 67,
+      "entra": "GARCIA COTERA, MATEO",
+      "sale": "DEL HIERRO LOPEZ, ADRIAN"
+    },
+    {
+      "min": 76,
+      "entra": "GARCIA GARCIA, BORJA",
+      "sale": "MANCEBO BOLADO, SANTIAGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 57,
+      "entra": "LASA SIERRA, HECTOR",
+      "sale": "solar rabadan, DANIEL"
+    },
+    {
+      "min": 57,
+      "entra": "SAINZ CALDERON, JOSE MIGUEL",
+      "sale": "PEREZ GUTIERREZ, JOSE MANUEL"
+    },
+    {
+      "min": 62,
+      "entra": "GUTIERREZ REDONDO, MARTIN",
+      "sale": "STAN, NICOLAE CRISTIAN"
+    },
+    {
+      "min": 65,
+      "entra": "DIAZ DIAZ, GONZALO",
+      "sale": "MARTINEZ ALVAREZ, JESUS EMMANUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANCHEZ RODRÍGUEZ, SAMUEL": 90,
+    "MIERA MARTINEZ, HUGO": 90,
+    "TRUEBA MORENO, VICTOR": 90,
+    "PEREZ GONZALEZ, HUGO": 67,
+    "MANCEBO BOLADO, SANTIAGO": 76,
+    "DEL HIERRO LOPEZ, ADRIAN": 67,
+    "CIFRIAN CALZADA, SERGIO": 90,
+    "SIERRA JIMENEZ, ADRIAN": 90,
+    "CORTA PENAGOS, FERNANDO": 90,
+    "AGUERO AGUNDEZ, LUIS": 90,
+    "CUETO BARBERO, DAVID": 53,
+    "SALGADO ENACHE, BRUNO": 37,
+    "PUENTE GARCIA, DIEGO": 23,
+    "GARCIA COTERA, MATEO": 23,
+    "GARCIA GARCIA, BORJA": 14,
+    "RUIZ FERNÁNDEZ, KEVIN": 90,
+    "ORTEGA DEL RIO, AITOR": 90,
+    "MAZON SHAROV, HUGO": 90,
+    "solar rabadan, DANIEL": 57,
+    "SOLARES PICAZO, LUCAS": 90,
+    "GOMEZ PEÑA, LUCAS": 90,
+    "STAN, NICOLAE CRISTIAN": 62,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 57,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 65,
+    "GUTIERREZ GOMEZ, HECTOR": 90,
+    "MATA SANGUIAO, CARLOS": 90,
+    "LASA SIERRA, HECTOR": 33,
+    "SAINZ CALDERON, JOSE MIGUEL": 33,
+    "GUTIERREZ REDONDO, MARTIN": 28,
+    "DIAZ DIAZ, GONZALO": 25
+  },
+  "portero_local": "SANCHEZ RODRÍGUEZ, SAMUEL",
+  "portero_visitante": "RUIZ FERNÁNDEZ, KEVIN",
+  "dorsales_local": {
+    "SANCHEZ RODRÍGUEZ, SAMUEL": 1,
+    "MIERA MARTINEZ, HUGO": 4,
+    "TRUEBA MORENO, VICTOR": 5,
+    "PEREZ GONZALEZ, HUGO": 7,
+    "MANCEBO BOLADO, SANTIAGO": 8,
+    "DEL HIERRO LOPEZ, ADRIAN": 9,
+    "CIFRIAN CALZADA, SERGIO": 11,
+    "SIERRA JIMENEZ, ADRIAN": 12,
+    "CORTA PENAGOS, FERNANDO": 14,
+    "AGUERO AGUNDEZ, LUIS": 15,
+    "CUETO BARBERO, DAVID": 16
+  },
+  "dorsales_visitante": {
+    "RUIZ FERNÁNDEZ, KEVIN": 13,
+    "ORTEGA DEL RIO, AITOR": 4,
+    "MAZON SHAROV, HUGO": 6,
+    "solar rabadan, DANIEL": 8,
+    "SOLARES PICAZO, LUCAS": 11,
+    "GOMEZ PEÑA, LUCAS": 12,
+    "STAN, NICOLAE CRISTIAN": 15,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 17,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 19,
+    "GUTIERREZ GOMEZ, HECTOR": 20,
+    "MATA SANGUIAO, CARLOS": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
