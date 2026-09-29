@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_173156",
+  "filename": "Acta_C_173156.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "30-09-2023",
+  "hora": "19:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE A",
+  "equipo_visitante": "CLUB BANSANDER A",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PORTOCARRERO CÓRDOVA, HELEN JHULIANA"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "ZAVALA ESTEVE, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "PENILLA FERNANDEZ, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "AYARZA CANO, XABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "ZAVALA ESTEVE, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 4,
+      "jugador": "RUIZ FERNANDEZ, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 14,
+      "jugador": "SANCHEZ BILBAO, MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "PENILLA FERNANDEZ, SERGIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PEREZ MARTINEZ, LORENZO",
+  "entrenador_visitante": "SAIZ RUIZ, OSCAR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "CALDERON PEREZ, RAFAEL",
+  "titulares_local": [
+    "MARTIN SUAREZ, HUGO",
+    "CUEVAS ALLENDE, NACHO",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "MORAN POLANCO, ALVARO",
+    "LOPEZ ALCALDE, IZAN",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "OTERO MARTIN, JOEL",
+    "MALLAVIA PEREZ, ASIER",
+    "RUIZ DA SILVA, GUSTAVO",
+    "ROCES RONDO, CRUZ",
+    "ZHEKOV, ATANASIO ATANASOV"
+  ],
+  "titulares_visitante": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "RUIZ FERNANDEZ, MARTIN",
+    "TRUEBA MORENO, VICTOR",
+    "ZAVALA ESTEVE, MARIO",
+    "AYARZA CANO, XABIER",
+    "SANCHEZ BILBAO, MIGUEL",
+    "GOMEZ VILLALABEITIA, ENOL",
+    "PENILLA FERNANDEZ, SERGIO",
+    "SIERRA ALVARADO, DANIEL",
+    "ARENAS VIERA, DIEGO",
+    "RUIZ NORIEGA, MIGUEL"
+  ],
+  "suplentes_local": [
+    "NUÑEZ MORENO, MARCOS",
+    "CORDOVILLO PEREZ, MARCOS",
+    "SARO ALLENDE, ALEJO",
+    "CZACHOR, DAMIAN KRZYSZTOF",
+    "MONTES SANTOS, CARLOS"
+  ],
+  "suplentes_visitante": [
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "CARRANDI DIAZ, DARIO",
+    "MARTINEZ ARGOS, IBER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MARTIN SUAREZ, HUGO",
+    "CUEVAS ALLENDE, NACHO",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "MORAN POLANCO, ALVARO",
+    "LOPEZ ALCALDE, IZAN",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "OTERO MARTIN, JOEL",
+    "MALLAVIA PEREZ, ASIER",
+    "RUIZ DA SILVA, GUSTAVO",
+    "ROCES RONDO, CRUZ",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "CORDOVILLO PEREZ, MARCOS",
+    "NUÑEZ MORENO, MARCOS",
+    "CZACHOR, DAMIAN KRZYSZTOF",
+    "MONTES SANTOS, CARLOS",
+    "SARO ALLENDE, ALEJO"
+  ],
+  "jugadores_visitante": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "RUIZ FERNANDEZ, MARTIN",
+    "TRUEBA MORENO, VICTOR",
+    "ZAVALA ESTEVE, MARIO",
+    "AYARZA CANO, XABIER",
+    "SANCHEZ BILBAO, MIGUEL",
+    "GOMEZ VILLALABEITIA, ENOL",
+    "PENILLA FERNANDEZ, SERGIO",
+    "SIERRA ALVARADO, DANIEL",
+    "ARENAS VIERA, DIEGO",
+    "RUIZ NORIEGA, MIGUEL",
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "CARRANDI DIAZ, DARIO",
+    "MARTINEZ ARGOS, IBER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 29,
+      "entra": "CORDOVILLO PEREZ, MARCOS",
+      "sale": "MALLAVIA PEREZ, ASIER"
+    },
+    {
+      "min": 35,
+      "entra": "NUÑEZ MORENO, MARCOS",
+      "sale": "MARTIN SUAREZ, HUGO"
+    },
+    {
+      "min": 35,
+      "entra": "CZACHOR, DAMIAN KRZYSZTOF",
+      "sale": "RUIZ DA SILVA, GUSTAVO"
+    },
+    {
+      "min": 42,
+      "entra": "MONTES SANTOS, CARLOS",
+      "sale": "OTERO MARTIN, JOEL"
+    },
+    {
+      "min": 44,
+      "entra": "SARO ALLENDE, ALEJO",
+      "sale": "ROCES RONDO, CRUZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "MENDEZ RODRIGUEZ, JOSE RAMON",
+      "sale": "RUIZ FERNANDEZ, MARTIN"
+    },
+    {
+      "min": 59,
+      "entra": "CARRANDI DIAZ, DARIO",
+      "sale": "ZAVALA ESTEVE, MARIO"
+    },
+    {
+      "min": 59,
+      "entra": "MARTINEZ ARGOS, IBER",
+      "sale": "AYARZA CANO, XABIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTIN SUAREZ, HUGO": 35,
+    "CUEVAS ALLENDE, NACHO": 90,
+    "GONZALEZ GONZALEZ, DANIEL": 90,
+    "MORAN POLANCO, ALVARO": 90,
+    "LOPEZ ALCALDE, IZAN": 90,
+    "ZAMAN, VICTOR ALEXANDRU": 90,
+    "OTERO MARTIN, JOEL": 42,
+    "MALLAVIA PEREZ, ASIER": 29,
+    "RUIZ DA SILVA, GUSTAVO": 35,
+    "ROCES RONDO, CRUZ": 44,
+    "ZHEKOV, ATANASIO ATANASOV": 90,
+    "CORDOVILLO PEREZ, MARCOS": 61,
+    "NUÑEZ MORENO, MARCOS": 55,
+    "CZACHOR, DAMIAN KRZYSZTOF": 55,
+    "MONTES SANTOS, CARLOS": 48,
+    "SARO ALLENDE, ALEJO": 46,
+    "LEBEÑA RODRIGUEZ, ADRIAN": 90,
+    "RUIZ FERNANDEZ, MARTIN": 59,
+    "TRUEBA MORENO, VICTOR": 90,
+    "ZAVALA ESTEVE, MARIO": 59,
+    "AYARZA CANO, XABIER": 59,
+    "SANCHEZ BILBAO, MIGUEL": 90,
+    "GOMEZ VILLALABEITIA, ENOL": 90,
+    "PENILLA FERNANDEZ, SERGIO": 90,
+    "SIERRA ALVARADO, DANIEL": 90,
+    "ARENAS VIERA, DIEGO": 90,
+    "RUIZ NORIEGA, MIGUEL": 90,
+    "MENDEZ RODRIGUEZ, JOSE RAMON": 31,
+    "CARRANDI DIAZ, DARIO": 31,
+    "MARTINEZ ARGOS, IBER": 31
+  },
+  "portero_local": "MARTIN SUAREZ, HUGO",
+  "portero_visitante": "LEBEÑA RODRIGUEZ, ADRIAN",
+  "dorsales_local": {
+    "MARTIN SUAREZ, HUGO": 1,
+    "CUEVAS ALLENDE, NACHO": 3,
+    "GONZALEZ GONZALEZ, DANIEL": 5,
+    "MORAN POLANCO, ALVARO": 6,
+    "LOPEZ ALCALDE, IZAN": 7,
+    "ZAMAN, VICTOR ALEXANDRU": 8,
+    "OTERO MARTIN, JOEL": 10,
+    "MALLAVIA PEREZ, ASIER": 12,
+    "RUIZ DA SILVA, GUSTAVO": 15,
+    "ROCES RONDO, CRUZ": 17,
+    "ZHEKOV, ATANASIO ATANASOV": 24
+  },
+  "dorsales_visitante": {
+    "LEBEÑA RODRIGUEZ, ADRIAN": 1,
+    "RUIZ FERNANDEZ, MARTIN": 2,
+    "TRUEBA MORENO, VICTOR": 5,
+    "ZAVALA ESTEVE, MARIO": 7,
+    "AYARZA CANO, XABIER": 9,
+    "SANCHEZ BILBAO, MIGUEL": 10,
+    "GOMEZ VILLALABEITIA, ENOL": 11,
+    "PENILLA FERNANDEZ, SERGIO": 12,
+    "SIERRA ALVARADO, DANIEL": 16,
+    "ARENAS VIERA, DIEGO": 17,
+    "RUIZ NORIEGA, MIGUEL": 19
+  },
+  "suspendidos": []
+}
