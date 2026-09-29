@@ -1,0 +1,248 @@
+{
+  "acta_id": "C_193329",
+  "filename": "Acta_C_193329.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 34,
+  "fecha": "25-05-2025",
+  "hora": "11:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "A.D. SAN AGUSTIN A",
+  "equipo_visitante": "C.D. TROPEZON B",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "ALEGRE VELASCO, JUAN CARLOS"
+  ],
+  "estadio": "Liberto Toca",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "MARTINEZ FERNANDEZ, ASIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "CUESTA FEIJOO, CARLOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "GARCIA DIAZ, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 25,
+      "jugador": "GARCIA LUNA, ALEJO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 36,
+      "jugador": "HOUFRI BAKBACHI, HARON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GRIFFITHS SANCHEZ, SAMUEL ERNESTO",
+  "entrenador_visitante": "EL MAHFOUDY ZINE EL AABIDINE, ANAS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "NIETO LEAL, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "NIETO LEAL, JAVIER",
+  "delegado_equipo_visitante": "GARCÍA GÓMEZ, JESÚS MANUEL",
+  "titulares_local": [
+    "CASTILLO ESPINOSA, MIGUEL",
+    "SEBRANGO ABAD, RODRIGO",
+    "ROZAS BENITO, GONZALO",
+    "GONZALEZ SANCHES, JUAN",
+    "VAQUERO ARTEAGA, JAIME",
+    "GONZALEZ MEDINA, JOSE",
+    "NOGUES FERNANDEZ, ALEJANDRO",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "GARCIA LUNA, ALEJO",
+    "LAINZ MORAN, JACOBO",
+    "PUENTE RUIZ, RICARDO"
+  ],
+  "titulares_visitante": [
+    "PÉREZ GARCÍA, CÉSAR",
+    "ORIA SAINZ, MARCOS",
+    "HOUFRI BAKBACHI, HARON",
+    "CUESTA FEIJOO, CARLOS",
+    "GONZALEZ BLUM, MANUEL",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "pachon garcia, DIEGO",
+    "MENDARO TERAN, ANTONIO",
+    "GARCIA DIAZ, JAVIER"
+  ],
+  "suplentes_local": [
+    "MAZAIRA SANTAMARIA, LUCAS",
+    "ALONSO FERNANDEZ, MATEO",
+    "BALBAS GONZALEZ, MIGUEL",
+    "CANTARERO PASCUAL, ALEJANDRO"
+  ],
+  "suplentes_visitante": [
+    "CRUZ ABASCAL, JAVIER",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "CAMPO FERNANDEZ, SAMUEL",
+    "GUTIERREZ MARTINEZ, ALVARO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CASTILLO ESPINOSA, MIGUEL",
+    "SEBRANGO ABAD, RODRIGO",
+    "ROZAS BENITO, GONZALO",
+    "GONZALEZ SANCHES, JUAN",
+    "VAQUERO ARTEAGA, JAIME",
+    "GONZALEZ MEDINA, JOSE",
+    "NOGUES FERNANDEZ, ALEJANDRO",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "GARCIA LUNA, ALEJO",
+    "LAINZ MORAN, JACOBO",
+    "PUENTE RUIZ, RICARDO",
+    "CANTARERO PASCUAL, ALEJANDRO",
+    "BALBAS GONZALEZ, MIGUEL",
+    "ALONSO FERNANDEZ, MATEO",
+    "MAZAIRA SANTAMARIA, LUCAS"
+  ],
+  "jugadores_visitante": [
+    "PÉREZ GARCÍA, CÉSAR",
+    "ORIA SAINZ, MARCOS",
+    "HOUFRI BAKBACHI, HARON",
+    "CUESTA FEIJOO, CARLOS",
+    "GONZALEZ BLUM, MANUEL",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "pachon garcia, DIEGO",
+    "MENDARO TERAN, ANTONIO",
+    "GARCIA DIAZ, JAVIER",
+    "CRUZ ABASCAL, JAVIER",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "CAMPO FERNANDEZ, SAMUEL",
+    "SEIJAS SANZ-BAZA, AITOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "CANTARERO PASCUAL, ALEJANDRO",
+      "sale": "ROZAS BENITO, GONZALO"
+    },
+    {
+      "min": 48,
+      "entra": "BALBAS GONZALEZ, MIGUEL",
+      "sale": "VAQUERO ARTEAGA, JAIME"
+    },
+    {
+      "min": 52,
+      "entra": "ALONSO FERNANDEZ, MATEO",
+      "sale": "PUENTE RUIZ, RICARDO"
+    },
+    {
+      "min": 52,
+      "entra": "MAZAIRA SANTAMARIA, LUCAS",
+      "sale": "GALLO JUANCO, JAVIER ARTURO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "CRUZ ABASCAL, JAVIER",
+      "sale": "PÉREZ GARCÍA, CÉSAR"
+    },
+    {
+      "min": 53,
+      "entra": "GUTIERREZ MARTINEZ, ALVARO",
+      "sale": "ARROYO GONZALEZ, HUGO"
+    },
+    {
+      "min": 53,
+      "entra": "CAMPO FERNANDEZ, SAMUEL",
+      "sale": "GONZALEZ BLUM, MANUEL"
+    },
+    {
+      "min": 56,
+      "entra": "SEIJAS SANZ-BAZA, AITOR",
+      "sale": "MENDARO TERAN, ANTONIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "CASTILLO ESPINOSA, MIGUEL": 90,
+    "SEBRANGO ABAD, RODRIGO": 90,
+    "ROZAS BENITO, GONZALO": 48,
+    "GONZALEZ SANCHES, JUAN": 90,
+    "VAQUERO ARTEAGA, JAIME": 48,
+    "GONZALEZ MEDINA, JOSE": 90,
+    "NOGUES FERNANDEZ, ALEJANDRO": 90,
+    "GALLO JUANCO, JAVIER ARTURO": 52,
+    "GARCIA LUNA, ALEJO": 90,
+    "LAINZ MORAN, JACOBO": 90,
+    "PUENTE RUIZ, RICARDO": 52,
+    "CANTARERO PASCUAL, ALEJANDRO": 42,
+    "BALBAS GONZALEZ, MIGUEL": 42,
+    "ALONSO FERNANDEZ, MATEO": 38,
+    "MAZAIRA SANTAMARIA, LUCAS": 38,
+    "PÉREZ GARCÍA, CÉSAR": 40,
+    "ORIA SAINZ, MARCOS": 90,
+    "HOUFRI BAKBACHI, HARON": 90,
+    "CUESTA FEIJOO, CARLOS": 90,
+    "GONZALEZ BLUM, MANUEL": 53,
+    "ARROYO GONZALEZ, HUGO": 53,
+    "MARTINEZ FERNANDEZ, ASIER": 90,
+    "QUINTANAL ZARRABETIA, ASIER": 90,
+    "pachon garcia, DIEGO": 90,
+    "MENDARO TERAN, ANTONIO": 56,
+    "GARCIA DIAZ, JAVIER": 90,
+    "CRUZ ABASCAL, JAVIER": 50,
+    "GUTIERREZ MARTINEZ, ALVARO": 37,
+    "CAMPO FERNANDEZ, SAMUEL": 37,
+    "SEIJAS SANZ-BAZA, AITOR": 34
+  },
+  "portero_local": "CASTILLO ESPINOSA, MIGUEL",
+  "portero_visitante": "PÉREZ GARCÍA, CÉSAR",
+  "dorsales_local": {
+    "CASTILLO ESPINOSA, MIGUEL": 25,
+    "SEBRANGO ABAD, RODRIGO": 2,
+    "ROZAS BENITO, GONZALO": 7,
+    "GONZALEZ SANCHES, JUAN": 9,
+    "VAQUERO ARTEAGA, JAIME": 14,
+    "GONZALEZ MEDINA, JOSE": 16,
+    "NOGUES FERNANDEZ, ALEJANDRO": 17,
+    "GALLO JUANCO, JAVIER ARTURO": 18,
+    "GARCIA LUNA, ALEJO": 19,
+    "LAINZ MORAN, JACOBO": 22,
+    "PUENTE RUIZ, RICARDO": 23
+  },
+  "dorsales_visitante": {
+    "PÉREZ GARCÍA, CÉSAR": 13,
+    "ORIA SAINZ, MARCOS": 2,
+    "HOUFRI BAKBACHI, HARON": 4,
+    "CUESTA FEIJOO, CARLOS": 6,
+    "GONZALEZ BLUM, MANUEL": 7,
+    "ARROYO GONZALEZ, HUGO": 8,
+    "MARTINEZ FERNANDEZ, ASIER": 9,
+    "QUINTANAL ZARRABETIA, ASIER": 11,
+    "pachon garcia, DIEGO": 12,
+    "MENDARO TERAN, ANTONIO": 14,
+    "GARCIA DIAZ, JAVIER": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
