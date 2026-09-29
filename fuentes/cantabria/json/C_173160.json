@@ -1,0 +1,266 @@
+{
+  "acta_id": "C_173160",
+  "filename": "Acta_C_173160.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "30-09-2023",
+  "hora": "15:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. TROPEZON A",
+  "equipo_visitante": "C.AT. PERINES A",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GÁLVEZ JIMÉNEZ, JOSÉ M."
+  ],
+  "estadio": "Tanos 1",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "ALONSO EDILLA, MIGUEL",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 12,
+      "jugador": "CORONA DE MATEO, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "DE LA GRANJA PEREZ, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "HERRERA CASANOVA, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "GARCIA TARANO, BRAYAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 56,
+      "jugador": "CORONA DE MATEO, DAVID",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZALEZ ALVAREZ, DIEGO",
+  "entrenador_visitante": "URSUGUIA PELAEZ, ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LANDEO LLANCAYA, LUIS FRANCISCO",
+  "delegado_equipo_visitante": "MADRAZO CARRASCO, JOSE L",
+  "titulares_local": [
+    "CRUZ ABASCAL, JAVIER",
+    "ALONSO EDILLA, MIGUEL",
+    "HOUFRI BAKBACHI, HARON",
+    "ORIA SAINZ, MARCOS",
+    "PEREZ EGUREN, DAVID",
+    "GONZALEZ BLUM, MANUEL",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "RUIZ MORAN, SAMUEL",
+    "QUINTANAL ZARRABETIA, ASIER"
+  ],
+  "titulares_visitante": [
+    "GARCIA HELGUERA, SAMUEL",
+    "DE LA GRANJA PEREZ, HUGO",
+    "SOL SANTAMARINA, DANIEL",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "DESIRE BONILLA, DANIEL",
+    "AZNAR NUÑO, ALEX",
+    "CORONA DE MATEO, DAVID",
+    "VILLA GARCIA, ARAN",
+    "PONTONES FERREIRA, MARIO",
+    "DIAZ ALPISTE, SAMUEL"
+  ],
+  "suplentes_local": [
+    "BARCELO ZUNZUNEGUI, JUAN",
+    "LEIRA ALCANTARA, ANGEL GABRIEL",
+    "URANGA FEIJO, BRUNO",
+    "RAMOS VERDUGO, MATEO",
+    "DE LA FUENTE AGUEROS, MARCO"
+  ],
+  "suplentes_visitante": [
+    "PEÑA DIEZ, DAVID",
+    "COBO NDONG, DANIEL",
+    "RUIZ TOCA, MARIO",
+    "SOLANA PEREZ, LEO",
+    "HERRERA CASANOVA, IZAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "BARCELO ZUNZUNEGUI, JUAN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CRUZ ABASCAL, JAVIER",
+    "ALONSO EDILLA, MIGUEL",
+    "HOUFRI BAKBACHI, HARON",
+    "ORIA SAINZ, MARCOS",
+    "PEREZ EGUREN, DAVID",
+    "GONZALEZ BLUM, MANUEL",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "RUIZ MORAN, SAMUEL",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "DE LA FUENTE AGUEROS, MARCO",
+    "LEIRA ALCANTARA, ANGEL GABRIEL",
+    "URANGA FEIJO, BRUNO",
+    "RAMOS VERDUGO, MATEO"
+  ],
+  "jugadores_visitante": [
+    "GARCIA HELGUERA, SAMUEL",
+    "DE LA GRANJA PEREZ, HUGO",
+    "SOL SANTAMARINA, DANIEL",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "DESIRE BONILLA, DANIEL",
+    "AZNAR NUÑO, ALEX",
+    "CORONA DE MATEO, DAVID",
+    "VILLA GARCIA, ARAN",
+    "PONTONES FERREIRA, MARIO",
+    "DIAZ ALPISTE, SAMUEL",
+    "PEÑA DIEZ, DAVID",
+    "SOLANA PEREZ, LEO",
+    "HERRERA CASANOVA, IZAN",
+    "RUIZ TOCA, MARIO",
+    "COBO NDONG, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 39,
+      "entra": "DE LA FUENTE AGUEROS, MARCO",
+      "sale": "QUINTANAL ZARRABETIA, ASIER"
+    },
+    {
+      "min": 41,
+      "entra": "LEIRA ALCANTARA, ANGEL GABRIEL",
+      "sale": "GONZALEZ BLUM, MANUEL"
+    },
+    {
+      "min": 47,
+      "entra": "URANGA FEIJO, BRUNO",
+      "sale": "RUIZ MORAN, SAMUEL"
+    },
+    {
+      "min": 51,
+      "entra": "RAMOS VERDUGO, MATEO",
+      "sale": "ARROYO GONZALEZ, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "PEÑA DIEZ, DAVID",
+      "sale": "GARCIA HELGUERA, SAMUEL"
+    },
+    {
+      "min": 40,
+      "entra": "SOLANA PEREZ, LEO",
+      "sale": "PONTONES FERREIRA, MARIO"
+    },
+    {
+      "min": 48,
+      "entra": "HERRERA CASANOVA, IZAN",
+      "sale": "AZNAR NUÑO, ALEX"
+    },
+    {
+      "min": 51,
+      "entra": "RUIZ TOCA, MARIO",
+      "sale": "SAN MIGUEL VÉLEZ, HUGO"
+    },
+    {
+      "min": 51,
+      "entra": "COBO NDONG, DANIEL",
+      "sale": "DESIRE BONILLA, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "CRUZ ABASCAL, JAVIER": 90,
+    "ALONSO EDILLA, MIGUEL": 90,
+    "HOUFRI BAKBACHI, HARON": 90,
+    "ORIA SAINZ, MARCOS": 90,
+    "PEREZ EGUREN, DAVID": 90,
+    "GONZALEZ BLUM, MANUEL": 41,
+    "ARROYO GONZALEZ, HUGO": 51,
+    "MARTINEZ FERNANDEZ, ASIER": 90,
+    "MARTINEZ RODRIGUEZ, AARON": 90,
+    "RUIZ MORAN, SAMUEL": 47,
+    "QUINTANAL ZARRABETIA, ASIER": 39,
+    "DE LA FUENTE AGUEROS, MARCO": 51,
+    "LEIRA ALCANTARA, ANGEL GABRIEL": 49,
+    "URANGA FEIJO, BRUNO": 43,
+    "RAMOS VERDUGO, MATEO": 39,
+    "GARCIA HELGUERA, SAMUEL": 35,
+    "DE LA GRANJA PEREZ, HUGO": 90,
+    "SOL SANTAMARINA, DANIEL": 90,
+    "SAN MIGUEL VÉLEZ, HUGO": 51,
+    "GARCIA TARANO, BRAYAN": 90,
+    "DESIRE BONILLA, DANIEL": 51,
+    "AZNAR NUÑO, ALEX": 48,
+    "CORONA DE MATEO, DAVID": 90,
+    "VILLA GARCIA, ARAN": 90,
+    "PONTONES FERREIRA, MARIO": 40,
+    "DIAZ ALPISTE, SAMUEL": 90,
+    "PEÑA DIEZ, DAVID": 55,
+    "SOLANA PEREZ, LEO": 50,
+    "HERRERA CASANOVA, IZAN": 42,
+    "RUIZ TOCA, MARIO": 39,
+    "COBO NDONG, DANIEL": 39
+  },
+  "portero_local": "CRUZ ABASCAL, JAVIER",
+  "portero_visitante": "GARCIA HELGUERA, SAMUEL",
+  "dorsales_local": {
+    "CRUZ ABASCAL, JAVIER": 1,
+    "ALONSO EDILLA, MIGUEL": 2,
+    "HOUFRI BAKBACHI, HARON": 4,
+    "ORIA SAINZ, MARCOS": 5,
+    "PEREZ EGUREN, DAVID": 6,
+    "GONZALEZ BLUM, MANUEL": 7,
+    "ARROYO GONZALEZ, HUGO": 8,
+    "MARTINEZ FERNANDEZ, ASIER": 9,
+    "MARTINEZ RODRIGUEZ, AARON": 10,
+    "RUIZ MORAN, SAMUEL": 14,
+    "QUINTANAL ZARRABETIA, ASIER": 16
+  },
+  "dorsales_visitante": {
+    "GARCIA HELGUERA, SAMUEL": 13,
+    "DE LA GRANJA PEREZ, HUGO": 3,
+    "SOL SANTAMARINA, DANIEL": 4,
+    "SAN MIGUEL VÉLEZ, HUGO": 5,
+    "GARCIA TARANO, BRAYAN": 6,
+    "DESIRE BONILLA, DANIEL": 7,
+    "AZNAR NUÑO, ALEX": 8,
+    "CORONA DE MATEO, DAVID": 14,
+    "VILLA GARCIA, ARAN": 15,
+    "PONTONES FERREIRA, MARIO": 18,
+    "DIAZ ALPISTE, SAMUEL": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
