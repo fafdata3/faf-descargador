@@ -1,0 +1,282 @@
+{
+  "acta_id": "B_9981195",
+  "filename": "Acta_B_9981195.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "19-10-2025",
+  "hora": "18:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "GALEA A",
+  "equipo_visitante": "DEUSTO B",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "SURJA HERRANZ, JON"
+  ],
+  "estadio": "BOLUE 3",
+  "ciudad": "Getxo",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "KORTABARRIA LARREA, MANEX",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "OTEO EGUREN, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "DE LEON ROMERO, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "ALONSO GIL, GONZALO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "MUÑOZ EGUSQUIZA, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 26,
+      "jugador": "ANDRES RODRIGUEZ, AIMAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "DE LEON ROMERO, IZAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BARTOLOME RODRIGO, ALVARO",
+  "entrenador_visitante": "AIBA, KANJI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "ARREGI ESTARTA, JOKIN",
+  "delegado_campo_local": "MENIKA MORAGA, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MENIKA MORAGA, IKER",
+  "delegado_equipo_visitante": "HERRERA JAUREGUI, EGOITZ",
+  "titulares_local": [
+    "TORRE GONZALEZ, MARKEL",
+    "ARTIAGOITIA BILLALABEITIA, MIKEL",
+    "LLANO RODRIGUEZ, TELMO GONZALO",
+    "KORTABARRIA LARREA, MANEX",
+    "FERNANDEZ DIEZ, IBON",
+    "RODRÍGUEZ ELESGARAY, JON",
+    "PEREZ RAMOS, MARKEL",
+    "NICOLAS GONZALEZ, MARCO",
+    "OTEO EGUREN, AIMAR",
+    "ALONSO GIL, GONZALO",
+    "NICOLAS GONZALEZ, MAREN"
+  ],
+  "titulares_visitante": [
+    "LETE ARROJO, ARITZ",
+    "TEJADA VILARIN, UNAX",
+    "ORTEGA SANTIAGO, UNAX",
+    "VILLA URETA, ASER",
+    "SANTIAGO BILBAO, ANTXON",
+    "MIELGO GOMEZ, YURI",
+    "VIVANCO ANGULO, HUGO",
+    "GARTZIA CISNEROS, MANEX",
+    "HERRERA FERNANDEZ, JULEN",
+    "VEGA ESPLIGARES, OIHAN",
+    "ANDRES RODRIGUEZ, AIMAR"
+  ],
+  "suplentes_local": [
+    "SANTAMARIA GUAITA, IBAI",
+    "MAZUERA IRIGOYEN, MIKEL",
+    "TORDERA PICAZA, NIKOLA",
+    "RIEGO RODRIGUEZ, ENEKO",
+    "PEREZ TORRES, LUKAS",
+    "ALONSO GARRIDO, ASIER",
+    "MUÑOZ EGUSQUIZA, ANDER"
+  ],
+  "suplentes_visitante": [
+    "DE LA VARGA ALDAY, PERU",
+    "VALENCIANO HERNANDEZ, XABIER",
+    "MARTINEZ CAREAGA, DARIO",
+    "AREJULA PRADA, OIER",
+    "GALINDO JARAMILLO, ENAI",
+    "DE LEON ROMERO, IZAN",
+    "EBANG MOKUY, DANIEL SALVADOR"
+  ],
+  "convocados_sin_jugar_local": [
+    "SANTAMARIA GUAITA, IBAI",
+    "MAZUERA IRIGOYEN, MIKEL",
+    "TORDERA PICAZA, NIKOLA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DE LA VARGA ALDAY, PERU",
+    "AREJULA PRADA, OIER"
+  ],
+  "jugadores_local": [
+    "TORRE GONZALEZ, MARKEL",
+    "ARTIAGOITIA BILLALABEITIA, MIKEL",
+    "LLANO RODRIGUEZ, TELMO GONZALO",
+    "KORTABARRIA LARREA, MANEX",
+    "FERNANDEZ DIEZ, IBON",
+    "RODRÍGUEZ ELESGARAY, JON",
+    "PEREZ RAMOS, MARKEL",
+    "NICOLAS GONZALEZ, MARCO",
+    "OTEO EGUREN, AIMAR",
+    "ALONSO GIL, GONZALO",
+    "NICOLAS GONZALEZ, MAREN",
+    "RIEGO RODRIGUEZ, ENEKO",
+    "ALONSO GARRIDO, ASIER",
+    "MUÑOZ EGUSQUIZA, ANDER",
+    "PEREZ TORRES, LUKAS"
+  ],
+  "jugadores_visitante": [
+    "LETE ARROJO, ARITZ",
+    "TEJADA VILARIN, UNAX",
+    "ORTEGA SANTIAGO, UNAX",
+    "VILLA URETA, ASER",
+    "SANTIAGO BILBAO, ANTXON",
+    "MIELGO GOMEZ, YURI",
+    "VIVANCO ANGULO, HUGO",
+    "GARTZIA CISNEROS, MANEX",
+    "HERRERA FERNANDEZ, JULEN",
+    "VEGA ESPLIGARES, OIHAN",
+    "ANDRES RODRIGUEZ, AIMAR",
+    "GALINDO JARAMILLO, ENAI",
+    "VALENCIANO HERNANDEZ, XABIER",
+    "EBANG MOKUY, DANIEL SALVADOR",
+    "DE LEON ROMERO, IZAN",
+    "MARTINEZ CAREAGA, DARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 61,
+      "entra": "RIEGO RODRIGUEZ, ENEKO",
+      "sale": "RODRÍGUEZ ELESGARAY, JON"
+    },
+    {
+      "min": 61,
+      "entra": "ALONSO GARRIDO, ASIER",
+      "sale": "LLANO RODRIGUEZ, TELMO GONZALO"
+    },
+    {
+      "min": 65,
+      "entra": "MUÑOZ EGUSQUIZA, ANDER",
+      "sale": "OTEO EGUREN, AIMAR"
+    },
+    {
+      "min": 73,
+      "entra": "PEREZ TORRES, LUKAS",
+      "sale": "PEREZ RAMOS, MARKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "GALINDO JARAMILLO, ENAI",
+      "sale": "VILLA URETA, ASER"
+    },
+    {
+      "min": 50,
+      "entra": "VALENCIANO HERNANDEZ, XABIER",
+      "sale": "ANDRES RODRIGUEZ, AIMAR"
+    },
+    {
+      "min": 62,
+      "entra": "EBANG MOKUY, DANIEL SALVADOR",
+      "sale": "GARTZIA CISNEROS, MANEX"
+    },
+    {
+      "min": 72,
+      "entra": "DE LEON ROMERO, IZAN",
+      "sale": "VIVANCO ANGULO, HUGO"
+    },
+    {
+      "min": 72,
+      "entra": "MARTINEZ CAREAGA, DARIO",
+      "sale": "MIELGO GOMEZ, YURI"
+    }
+  ],
+  "minutos_jugadores": {
+    "TORRE GONZALEZ, MARKEL": 90,
+    "ARTIAGOITIA BILLALABEITIA, MIKEL": 90,
+    "LLANO RODRIGUEZ, TELMO GONZALO": 61,
+    "KORTABARRIA LARREA, MANEX": 90,
+    "FERNANDEZ DIEZ, IBON": 90,
+    "RODRÍGUEZ ELESGARAY, JON": 61,
+    "PEREZ RAMOS, MARKEL": 73,
+    "NICOLAS GONZALEZ, MARCO": 90,
+    "OTEO EGUREN, AIMAR": 65,
+    "ALONSO GIL, GONZALO": 90,
+    "NICOLAS GONZALEZ, MAREN": 90,
+    "RIEGO RODRIGUEZ, ENEKO": 29,
+    "ALONSO GARRIDO, ASIER": 29,
+    "MUÑOZ EGUSQUIZA, ANDER": 25,
+    "PEREZ TORRES, LUKAS": 17,
+    "LETE ARROJO, ARITZ": 90,
+    "TEJADA VILARIN, UNAX": 90,
+    "ORTEGA SANTIAGO, UNAX": 90,
+    "VILLA URETA, ASER": 50,
+    "SANTIAGO BILBAO, ANTXON": 90,
+    "MIELGO GOMEZ, YURI": 72,
+    "VIVANCO ANGULO, HUGO": 72,
+    "GARTZIA CISNEROS, MANEX": 62,
+    "HERRERA FERNANDEZ, JULEN": 90,
+    "VEGA ESPLIGARES, OIHAN": 90,
+    "ANDRES RODRIGUEZ, AIMAR": 50,
+    "GALINDO JARAMILLO, ENAI": 40,
+    "VALENCIANO HERNANDEZ, XABIER": 40,
+    "EBANG MOKUY, DANIEL SALVADOR": 28,
+    "DE LEON ROMERO, IZAN": 18,
+    "MARTINEZ CAREAGA, DARIO": 18
+  },
+  "portero_local": "TORRE GONZALEZ, MARKEL",
+  "portero_visitante": "LETE ARROJO, ARITZ",
+  "dorsales_local": {
+    "TORRE GONZALEZ, MARKEL": 1,
+    "ARTIAGOITIA BILLALABEITIA, MIKEL": 3,
+    "LLANO RODRIGUEZ, TELMO GONZALO": 4,
+    "KORTABARRIA LARREA, MANEX": 6,
+    "FERNANDEZ DIEZ, IBON": 8,
+    "RODRÍGUEZ ELESGARAY, JON": 9,
+    "PEREZ RAMOS, MARKEL": 10,
+    "NICOLAS GONZALEZ, MARCO": 15,
+    "OTEO EGUREN, AIMAR": 16,
+    "ALONSO GIL, GONZALO": 19,
+    "NICOLAS GONZALEZ, MAREN": 22
+  },
+  "dorsales_visitante": {
+    "LETE ARROJO, ARITZ": 13,
+    "TEJADA VILARIN, UNAX": 3,
+    "ORTEGA SANTIAGO, UNAX": 6,
+    "VILLA URETA, ASER": 7,
+    "SANTIAGO BILBAO, ANTXON": 10,
+    "MIELGO GOMEZ, YURI": 16,
+    "VIVANCO ANGULO, HUGO": 17,
+    "GARTZIA CISNEROS, MANEX": 19,
+    "HERRERA FERNANDEZ, JULEN": 20,
+    "VEGA ESPLIGARES, OIHAN": 21,
+    "ANDRES RODRIGUEZ, AIMAR": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
