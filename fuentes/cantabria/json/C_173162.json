@@ -1,0 +1,245 @@
+{
+  "acta_id": "C_173162",
+  "filename": "Acta_C_173162.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 3,
+  "fecha": "07-10-2023",
+  "hora": "17:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA A",
+  "equipo_visitante": "C.D. MARINA SPORT A",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MARTINEZ ONECHA, CLAUDIA"
+  ],
+  "estadio": "El Malecón 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "FERNÁNDEZ GÓMEZ, BRUNO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 9,
+      "jugador": "JIMENEZ NIÑO, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "JIMENEZ NIÑO, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "GARCIA VARELA, ALAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 56,
+      "jugador": "SANCHEZ CUEVAS, SAUL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JIMENO DIEZ, UNAI",
+  "entrenador_visitante": "ENTRECANALES SAN MIGUEL, SERGIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SANCHO GARCIA, ANDONI",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "DURAN HERNANDEZ, JESUS",
+  "titulares_local": [
+    "ARROYO FERNANDEZ, PABLO",
+    "ZAMANILLO ARGUELLO, PABLO",
+    "MARAÑA SIERRA, CARLOS",
+    "DEL VALLE COBO, DANIEL",
+    "CRESPO LOPEZ, DANIEL",
+    "GUTIERREZ REVUELTA, NECO",
+    "BLANCO OTERO, JANO",
+    "MALLAVIA MUGICA, MIKEL",
+    "BOLADO GOMEZ, LUCAS",
+    "GARCIA COTERA, MATEO",
+    "SANCHEZ CUEVAS, SAUL"
+  ],
+  "titulares_visitante": [
+    "FLOR MARTINEZ, OIER",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "ALONSO CRUZ, DIEGO",
+    "GARCIA VARELA, ALAN",
+    "ROJO CANADELL, ALEJANDRO",
+    "FUENTE BARRERA, JUAN",
+    "RUIZ ORTEGA, RODRIGO",
+    "MARTE MUGICA, EDUARD",
+    "JIMENEZ NIÑO, DAVID",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "ALONSO MOTA, IVAN"
+  ],
+  "suplentes_local": [
+    "PINEDA DIAZ, JORGE",
+    "AGUERO AGUNDEZ, LUIS",
+    "MONTES DE NEIRA BALBOA, LUIS",
+    "MARQUEZ REVUELTA, ALEX"
+  ],
+  "suplentes_visitante": [
+    "SAUQUILLO ALONSO, MARCO",
+    "RUIZ SAIZ, DANIEL",
+    "ORTIZ FILGUEIRAS, JAVIER",
+    "GARCIA CASTILLO, JORGE",
+    "DE FELIPE MONTES, OSCAR"
+  ],
+  "convocados_sin_jugar_local": [
+    "PINEDA DIAZ, JORGE",
+    "MARQUEZ REVUELTA, ALEX"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARROYO FERNANDEZ, PABLO",
+    "ZAMANILLO ARGUELLO, PABLO",
+    "MARAÑA SIERRA, CARLOS",
+    "DEL VALLE COBO, DANIEL",
+    "CRESPO LOPEZ, DANIEL",
+    "GUTIERREZ REVUELTA, NECO",
+    "BLANCO OTERO, JANO",
+    "MALLAVIA MUGICA, MIKEL",
+    "BOLADO GOMEZ, LUCAS",
+    "GARCIA COTERA, MATEO",
+    "SANCHEZ CUEVAS, SAUL",
+    "MONTES DE NEIRA BALBOA, LUIS",
+    "AGUERO AGUNDEZ, LUIS"
+  ],
+  "jugadores_visitante": [
+    "FLOR MARTINEZ, OIER",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "ALONSO CRUZ, DIEGO",
+    "GARCIA VARELA, ALAN",
+    "ROJO CANADELL, ALEJANDRO",
+    "FUENTE BARRERA, JUAN",
+    "RUIZ ORTEGA, RODRIGO",
+    "MARTE MUGICA, EDUARD",
+    "JIMENEZ NIÑO, DAVID",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "ALONSO MOTA, IVAN",
+    "SAUQUILLO ALONSO, MARCO",
+    "DE FELIPE MONTES, OSCAR",
+    "RUIZ SAIZ, DANIEL",
+    "GARCIA CASTILLO, JORGE",
+    "ORTIZ FILGUEIRAS, JAVIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "MONTES DE NEIRA BALBOA, LUIS",
+      "sale": "GARCIA COTERA, MATEO"
+    },
+    {
+      "min": 49,
+      "entra": "AGUERO AGUNDEZ, LUIS",
+      "sale": "MALLAVIA MUGICA, MIKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "SAUQUILLO ALONSO, MARCO",
+      "sale": "FLOR MARTINEZ, OIER"
+    },
+    {
+      "min": 43,
+      "entra": "DE FELIPE MONTES, OSCAR",
+      "sale": "RUIZ ORTEGA, RODRIGO"
+    },
+    {
+      "min": 47,
+      "entra": "RUIZ SAIZ, DANIEL",
+      "sale": "ROJO CANADELL, ALEJANDRO"
+    },
+    {
+      "min": 65,
+      "entra": "GARCIA CASTILLO, JORGE",
+      "sale": "JIMENEZ NIÑO, DAVID"
+    },
+    {
+      "min": 65,
+      "entra": "ORTIZ FILGUEIRAS, JAVIER",
+      "sale": "ALONSO MOTA, IVAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARROYO FERNANDEZ, PABLO": 90,
+    "ZAMANILLO ARGUELLO, PABLO": 90,
+    "MARAÑA SIERRA, CARLOS": 90,
+    "DEL VALLE COBO, DANIEL": 90,
+    "CRESPO LOPEZ, DANIEL": 90,
+    "GUTIERREZ REVUELTA, NECO": 90,
+    "BLANCO OTERO, JANO": 90,
+    "MALLAVIA MUGICA, MIKEL": 49,
+    "BOLADO GOMEZ, LUCAS": 90,
+    "GARCIA COTERA, MATEO": 45,
+    "SANCHEZ CUEVAS, SAUL": 90,
+    "MONTES DE NEIRA BALBOA, LUIS": 45,
+    "AGUERO AGUNDEZ, LUIS": 41,
+    "FLOR MARTINEZ, OIER": 35,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 90,
+    "ALONSO CRUZ, DIEGO": 90,
+    "GARCIA VARELA, ALAN": 90,
+    "ROJO CANADELL, ALEJANDRO": 47,
+    "FUENTE BARRERA, JUAN": 90,
+    "RUIZ ORTEGA, RODRIGO": 43,
+    "MARTE MUGICA, EDUARD": 90,
+    "JIMENEZ NIÑO, DAVID": 65,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 90,
+    "ALONSO MOTA, IVAN": 65,
+    "SAUQUILLO ALONSO, MARCO": 55,
+    "DE FELIPE MONTES, OSCAR": 47,
+    "RUIZ SAIZ, DANIEL": 43,
+    "GARCIA CASTILLO, JORGE": 25,
+    "ORTIZ FILGUEIRAS, JAVIER": 25
+  },
+  "portero_local": "ARROYO FERNANDEZ, PABLO",
+  "portero_visitante": "FLOR MARTINEZ, OIER",
+  "dorsales_local": {
+    "ARROYO FERNANDEZ, PABLO": 1,
+    "ZAMANILLO ARGUELLO, PABLO": 2,
+    "MARAÑA SIERRA, CARLOS": 4,
+    "DEL VALLE COBO, DANIEL": 7,
+    "CRESPO LOPEZ, DANIEL": 8,
+    "GUTIERREZ REVUELTA, NECO": 9,
+    "BLANCO OTERO, JANO": 10,
+    "MALLAVIA MUGICA, MIKEL": 12,
+    "BOLADO GOMEZ, LUCAS": 14,
+    "GARCIA COTERA, MATEO": 16,
+    "SANCHEZ CUEVAS, SAUL": 30
+  },
+  "dorsales_visitante": {
+    "FLOR MARTINEZ, OIER": 1,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 2,
+    "ALONSO CRUZ, DIEGO": 3,
+    "GARCIA VARELA, ALAN": 4,
+    "ROJO CANADELL, ALEJANDRO": 5,
+    "FUENTE BARRERA, JUAN": 6,
+    "RUIZ ORTEGA, RODRIGO": 7,
+    "MARTE MUGICA, EDUARD": 8,
+    "JIMENEZ NIÑO, DAVID": 9,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 10,
+    "ALONSO MOTA, IVAN": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
