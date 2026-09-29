@@ -1,0 +1,255 @@
+{
+  "acta_id": "C_171367",
+  "filename": "Acta_C_171367.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 24,
+  "fecha": "17-03-2024",
+  "hora": "09:45",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. TROPEZON B",
+  "equipo_visitante": "C.D. CASTROVERDE",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CARUTA MOROI, EDUARDO"
+  ],
+  "estadio": "Tanos 1",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "PEREZ PINILLA, EMILIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "CENTENO VARILLAS, JORGE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "DIAZ CORONA, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "RODEÑO DIAZ, GABRIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 59,
+      "jugador": "GALLO POZUETA, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "LOPEZ DORIGA LATORRE, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GUTIERREZ GUTIERREZ, DAVID",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "CASTAÑEDA RODRIGUEZ, FERNANDO",
+  "titulares_local": [
+    "LOPEZ CAYON, BORJA",
+    "DE DIEGO RUBAYO, SAUL",
+    "GONZALEZ SAIZ, IKER",
+    "PEREZ PINILLA, EMILIO",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "RODEÑO DIAZ, GABRIEL",
+    "GALLO POZUETA, ALVARO",
+    "pachon garcia, DIEGO",
+    "VARON SANCHEZ, CESAR",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "DIAZ CORONA, MARCOS"
+  ],
+  "titulares_visitante": [
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE",
+    "negrete minguez, DANIEL",
+    "MALO GARCIA, LARO",
+    "RODRIGUEZ MARTIN, IÑIGO",
+    "GONZALEZ DIRUBE, MATEO",
+    "AREVALO DASCALU, CARLOS",
+    "PEÑA LLANES, FRANCISCO JAVIER",
+    "garcia-barcena diaz, GONZALO",
+    "LOPEZ DORIGA LATORRE, IKER",
+    "CENTENO VARILLAS, JORGE",
+    "BA, YOUNOUSS"
+  ],
+  "suplentes_local": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "blanco gonzalez, MARIO",
+    "GOITIA GUTIERREZ, PABLO",
+    "MARTIN RUIZ, PABLO",
+    "NOUKEU BALBAS, THIERRY STEVE"
+  ],
+  "suplentes_visitante": [
+    "GARCIA DEL OLMO, DIEGO",
+    "PEREZ MAESTRE, JUAN",
+    "IBARRA SARO, ANGEL",
+    "IZQUIERDO SOTO, JAIME",
+    "SUBIRANA PAIS, CARLOS"
+  ],
+  "convocados_sin_jugar_local": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "blanco gonzalez, MARIO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GARCIA DEL OLMO, DIEGO"
+  ],
+  "jugadores_local": [
+    "LOPEZ CAYON, BORJA",
+    "DE DIEGO RUBAYO, SAUL",
+    "GONZALEZ SAIZ, IKER",
+    "PEREZ PINILLA, EMILIO",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "RODEÑO DIAZ, GABRIEL",
+    "GALLO POZUETA, ALVARO",
+    "pachon garcia, DIEGO",
+    "VARON SANCHEZ, CESAR",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "DIAZ CORONA, MARCOS",
+    "NOUKEU BALBAS, THIERRY STEVE",
+    "GOITIA GUTIERREZ, PABLO",
+    "MARTIN RUIZ, PABLO"
+  ],
+  "jugadores_visitante": [
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE",
+    "negrete minguez, DANIEL",
+    "MALO GARCIA, LARO",
+    "RODRIGUEZ MARTIN, IÑIGO",
+    "GONZALEZ DIRUBE, MATEO",
+    "AREVALO DASCALU, CARLOS",
+    "PEÑA LLANES, FRANCISCO JAVIER",
+    "garcia-barcena diaz, GONZALO",
+    "LOPEZ DORIGA LATORRE, IKER",
+    "CENTENO VARILLAS, JORGE",
+    "BA, YOUNOUSS",
+    "IBARRA SARO, ANGEL",
+    "IZQUIERDO SOTO, JAIME",
+    "SUBIRANA PAIS, CARLOS",
+    "PEREZ MAESTRE, JUAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "NOUKEU BALBAS, THIERRY STEVE",
+      "sale": "DE DIEGO RUBAYO, SAUL"
+    },
+    {
+      "min": 48,
+      "entra": "GOITIA GUTIERREZ, PABLO",
+      "sale": "DIPSE, AUGUSTIN VALENTIN"
+    },
+    {
+      "min": 57,
+      "entra": "MARTIN RUIZ, PABLO",
+      "sale": "GUTIERREZ MARTINEZ, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "IBARRA SARO, ANGEL",
+      "sale": "GONZALEZ DIRUBE, MATEO"
+    },
+    {
+      "min": 54,
+      "entra": "IZQUIERDO SOTO, JAIME",
+      "sale": "AREVALO DASCALU, CARLOS"
+    },
+    {
+      "min": 69,
+      "entra": "SUBIRANA PAIS, CARLOS",
+      "sale": "PEÑA LLANES, FRANCISCO JAVIER"
+    },
+    {
+      "min": 75,
+      "entra": "PEREZ MAESTRE, JUAN",
+      "sale": "LOPEZ DORIGA LATORRE, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "LOPEZ CAYON, BORJA": 90,
+    "DE DIEGO RUBAYO, SAUL": 48,
+    "GONZALEZ SAIZ, IKER": 90,
+    "PEREZ PINILLA, EMILIO": 90,
+    "GUTIERREZ MARTINEZ, ALVARO": 57,
+    "RODEÑO DIAZ, GABRIEL": 90,
+    "GALLO POZUETA, ALVARO": 90,
+    "pachon garcia, DIEGO": 90,
+    "VARON SANCHEZ, CESAR": 90,
+    "DIPSE, AUGUSTIN VALENTIN": 48,
+    "DIAZ CORONA, MARCOS": 90,
+    "NOUKEU BALBAS, THIERRY STEVE": 42,
+    "GOITIA GUTIERREZ, PABLO": 42,
+    "MARTIN RUIZ, PABLO": 33,
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE": 90,
+    "negrete minguez, DANIEL": 90,
+    "MALO GARCIA, LARO": 90,
+    "RODRIGUEZ MARTIN, IÑIGO": 90,
+    "GONZALEZ DIRUBE, MATEO": 54,
+    "AREVALO DASCALU, CARLOS": 54,
+    "PEÑA LLANES, FRANCISCO JAVIER": 69,
+    "garcia-barcena diaz, GONZALO": 90,
+    "LOPEZ DORIGA LATORRE, IKER": 75,
+    "CENTENO VARILLAS, JORGE": 90,
+    "BA, YOUNOUSS": 90,
+    "IBARRA SARO, ANGEL": 36,
+    "IZQUIERDO SOTO, JAIME": 36,
+    "SUBIRANA PAIS, CARLOS": 21,
+    "PEREZ MAESTRE, JUAN": 15
+  },
+  "portero_local": "LOPEZ CAYON, BORJA",
+  "portero_visitante": "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE",
+  "dorsales_local": {
+    "LOPEZ CAYON, BORJA": 13,
+    "DE DIEGO RUBAYO, SAUL": 2,
+    "GONZALEZ SAIZ, IKER": 5,
+    "PEREZ PINILLA, EMILIO": 6,
+    "GUTIERREZ MARTINEZ, ALVARO": 8,
+    "RODEÑO DIAZ, GABRIEL": 10,
+    "GALLO POZUETA, ALVARO": 11,
+    "pachon garcia, DIEGO": 12,
+    "VARON SANCHEZ, CESAR": 14,
+    "DIPSE, AUGUSTIN VALENTIN": 17,
+    "DIAZ CORONA, MARCOS": 18
+  },
+  "dorsales_visitante": {
+    "GARCIA-ARGUELLES SANCHEZ-CALVO, JORGE": 13,
+    "negrete minguez, DANIEL": 4,
+    "MALO GARCIA, LARO": 8,
+    "RODRIGUEZ MARTIN, IÑIGO": 10,
+    "GONZALEZ DIRUBE, MATEO": 11,
+    "AREVALO DASCALU, CARLOS": 12,
+    "PEÑA LLANES, FRANCISCO JAVIER": 18,
+    "garcia-barcena diaz, GONZALO": 20,
+    "LOPEZ DORIGA LATORRE, IKER": 21,
+    "CENTENO VARILLAS, JORGE": 27,
+    "BA, YOUNOUSS": 30
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
