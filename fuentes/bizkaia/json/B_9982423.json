@@ -1,0 +1,265 @@
+{
+  "acta_id": "B_9982423",
+  "filename": "Acta_B_9982423.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 12,
+  "fecha": "20-12-2025",
+  "hora": "13:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "BASCONIA A",
+  "equipo_visitante": "ARRATIA A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "MARTINEZ LAFUENTE, AITOR"
+  ],
+  "estadio": "SOLOARTE",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "GOMEZ ROMERO, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "MARTIN LADRON DE GUEVARA, LIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 22,
+      "jugador": "GOMEZ ROMERO, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "JUARROS MANTEROLA, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 78,
+      "jugador": "VIEIRA ZUAZOLA, IZAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "SAGARNA ETXEBARRIA, HAITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GALDAMES IBAÑEZ, JOSE MANUEL",
+  "entrenador_visitante": "PEREZ GARCIA, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAGREDO FUENTE, VICTOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAGREDO FUENTE, VICTOR",
+  "delegado_equipo_visitante": "SAGARNA URIARTE, ARATZ",
+  "titulares_local": [
+    "GOMEZ BOUZO, JON",
+    "ALONSO BORGE, ALVARO",
+    "YARAAHALLAH SALEK, MOHAMED",
+    "BILLALABEITIA URRUTIKOETXEA, ENAITZ",
+    "GOMEZ ROMERO, MARKEL",
+    "LARRAGOITI LEON, ENEKO",
+    "BERDONCES GONZALEZ, ALVARO",
+    "MARTIN LADRON DE GUEVARA, LIER",
+    "CORTES ALARCON, IKER",
+    "COELLO LARRINAGA, OINATZ",
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA"
+  ],
+  "titulares_visitante": [
+    "PRIETO AZURMENDI, TELMO",
+    "SLIMANI CHAKOR, ABU BAKR",
+    "EGUSKITZA AGUILAR, UNAX",
+    "SAGARNA ETXEBARRIA, HAITZ",
+    "URIARTE GURTUBAI, OIER",
+    "JUARROS MANTEROLA, OIER",
+    "IZAGIRRE ZENIKAZELAIA, OIHAN",
+    "ABURTO JUGO, OIHAN",
+    "ATUTXA ATUTXA, IGOTZ",
+    "IBARRONDO LASA, MARKEL",
+    "BENGOETXEA DONIS, AIMAR"
+  ],
+  "suplentes_local": [
+    "GUARROTXENA ECHAIDE, ANER",
+    "HUERGA GREGORIO, JON",
+    "VIEIRA ZUAZOLA, IZAN",
+    "CANO TABARES, JAIDER FELIPE",
+    "SAGREDO VALDERRAMA, AIMAR",
+    "SAN JOSE JIMENEZ, IKER",
+    "PINO FERNANDEZ, TADEO JOAQUIN"
+  ],
+  "suplentes_visitante": [
+    "DELGADO PARADA, UNAX",
+    "GARCIA FERRAGUT, IKER",
+    "BILBAO AZURMENDI, OIHAN",
+    "MORILLAS LOROÑO, OIER",
+    "MARTINEZ EALO, IZEI"
+  ],
+  "convocados_sin_jugar_local": [
+    "GUARROTXENA ECHAIDE, ANER",
+    "HUERGA GREGORIO, JON",
+    "CANO TABARES, JAIDER FELIPE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DELGADO PARADA, UNAX"
+  ],
+  "jugadores_local": [
+    "GOMEZ BOUZO, JON",
+    "ALONSO BORGE, ALVARO",
+    "YARAAHALLAH SALEK, MOHAMED",
+    "BILLALABEITIA URRUTIKOETXEA, ENAITZ",
+    "GOMEZ ROMERO, MARKEL",
+    "LARRAGOITI LEON, ENEKO",
+    "BERDONCES GONZALEZ, ALVARO",
+    "MARTIN LADRON DE GUEVARA, LIER",
+    "CORTES ALARCON, IKER",
+    "COELLO LARRINAGA, OINATZ",
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA",
+    "PINO FERNANDEZ, TADEO JOAQUIN",
+    "VIEIRA ZUAZOLA, IZAN",
+    "SAN JOSE JIMENEZ, IKER",
+    "SAGREDO VALDERRAMA, AIMAR"
+  ],
+  "jugadores_visitante": [
+    "PRIETO AZURMENDI, TELMO",
+    "SLIMANI CHAKOR, ABU BAKR",
+    "EGUSKITZA AGUILAR, UNAX",
+    "SAGARNA ETXEBARRIA, HAITZ",
+    "URIARTE GURTUBAI, OIER",
+    "JUARROS MANTEROLA, OIER",
+    "IZAGIRRE ZENIKAZELAIA, OIHAN",
+    "ABURTO JUGO, OIHAN",
+    "ATUTXA ATUTXA, IGOTZ",
+    "IBARRONDO LASA, MARKEL",
+    "BENGOETXEA DONIS, AIMAR",
+    "MARTINEZ EALO, IZEI",
+    "BILBAO AZURMENDI, OIHAN",
+    "MORILLAS LOROÑO, OIER",
+    "GARCIA FERRAGUT, IKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "PINO FERNANDEZ, TADEO JOAQUIN",
+      "sale": "MARTIN LADRON DE GUEVARA, LIER"
+    },
+    {
+      "min": 54,
+      "entra": "VIEIRA ZUAZOLA, IZAN",
+      "sale": "YARAAHALLAH SALEK, MOHAMED"
+    },
+    {
+      "min": 69,
+      "entra": "SAN JOSE JIMENEZ, IKER",
+      "sale": "COELLO LARRINAGA, OINATZ"
+    },
+    {
+      "min": 69,
+      "entra": "SAGREDO VALDERRAMA, AIMAR",
+      "sale": "GOMEZ ROMERO, MARKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "MARTINEZ EALO, IZEI",
+      "sale": "URIARTE GURTUBAI, OIER"
+    },
+    {
+      "min": 52,
+      "entra": "BILBAO AZURMENDI, OIHAN",
+      "sale": "BENGOETXEA DONIS, AIMAR"
+    },
+    {
+      "min": 61,
+      "entra": "MORILLAS LOROÑO, OIER",
+      "sale": "IBARRONDO LASA, MARKEL"
+    },
+    {
+      "min": 64,
+      "entra": "GARCIA FERRAGUT, IKER",
+      "sale": "ABURTO JUGO, OIHAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ BOUZO, JON": 90,
+    "ALONSO BORGE, ALVARO": 90,
+    "YARAAHALLAH SALEK, MOHAMED": 54,
+    "BILLALABEITIA URRUTIKOETXEA, ENAITZ": 90,
+    "GOMEZ ROMERO, MARKEL": 69,
+    "LARRAGOITI LEON, ENEKO": 90,
+    "BERDONCES GONZALEZ, ALVARO": 90,
+    "MARTIN LADRON DE GUEVARA, LIER": 49,
+    "CORTES ALARCON, IKER": 90,
+    "COELLO LARRINAGA, OINATZ": 69,
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA": 90,
+    "PINO FERNANDEZ, TADEO JOAQUIN": 41,
+    "VIEIRA ZUAZOLA, IZAN": 36,
+    "SAN JOSE JIMENEZ, IKER": 21,
+    "SAGREDO VALDERRAMA, AIMAR": 21,
+    "PRIETO AZURMENDI, TELMO": 90,
+    "SLIMANI CHAKOR, ABU BAKR": 90,
+    "EGUSKITZA AGUILAR, UNAX": 90,
+    "SAGARNA ETXEBARRIA, HAITZ": 90,
+    "URIARTE GURTUBAI, OIER": 52,
+    "JUARROS MANTEROLA, OIER": 90,
+    "IZAGIRRE ZENIKAZELAIA, OIHAN": 90,
+    "ABURTO JUGO, OIHAN": 64,
+    "ATUTXA ATUTXA, IGOTZ": 90,
+    "IBARRONDO LASA, MARKEL": 61,
+    "BENGOETXEA DONIS, AIMAR": 52,
+    "MARTINEZ EALO, IZEI": 38,
+    "BILBAO AZURMENDI, OIHAN": 38,
+    "MORILLAS LOROÑO, OIER": 29,
+    "GARCIA FERRAGUT, IKER": 26
+  },
+  "portero_local": "GOMEZ BOUZO, JON",
+  "portero_visitante": "PRIETO AZURMENDI, TELMO",
+  "dorsales_local": {
+    "GOMEZ BOUZO, JON": 13,
+    "ALONSO BORGE, ALVARO": 4,
+    "YARAAHALLAH SALEK, MOHAMED": 5,
+    "BILLALABEITIA URRUTIKOETXEA, ENAITZ": 6,
+    "GOMEZ ROMERO, MARKEL": 7,
+    "LARRAGOITI LEON, ENEKO": 8,
+    "BERDONCES GONZALEZ, ALVARO": 12,
+    "MARTIN LADRON DE GUEVARA, LIER": 15,
+    "CORTES ALARCON, IKER": 17,
+    "COELLO LARRINAGA, OINATZ": 20,
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA": 21
+  },
+  "dorsales_visitante": {
+    "PRIETO AZURMENDI, TELMO": 13,
+    "SLIMANI CHAKOR, ABU BAKR": 2,
+    "EGUSKITZA AGUILAR, UNAX": 4,
+    "SAGARNA ETXEBARRIA, HAITZ": 5,
+    "URIARTE GURTUBAI, OIER": 7,
+    "JUARROS MANTEROLA, OIER": 9,
+    "IZAGIRRE ZENIKAZELAIA, OIHAN": 10,
+    "ABURTO JUGO, OIHAN": 14,
+    "ATUTXA ATUTXA, IGOTZ": 15,
+    "IBARRONDO LASA, MARKEL": 16,
+    "BENGOETXEA DONIS, AIMAR": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
