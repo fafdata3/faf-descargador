@@ -1,0 +1,250 @@
+{
+  "acta_id": "C_193145",
+  "filename": "Acta_C_193145.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 13,
+  "fecha": "01-12-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE B",
+  "equipo_visitante": "C.D. ARENAS DE FRAJANAS A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "COBO PELAYO, ALVARO"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "LOMAS AYUSO, GERARDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "TORIBIO ARCE, EDUARDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "DURÁN GÓMEZ, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "TORIBIO ARCE, EDUARDO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "belver duran, ivan",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RUIZ GARCIA, DAVID",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "RUIZ DIAZ, FRANCISCO JAVIER",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "DE JUANA RODRIGUEZ, BORJA",
+  "titulares_local": [
+    "NUÑEZ MORENO, MARCOS",
+    "SOLANA PEREZ, LEO",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+    "ECHAVES CASO, EDER",
+    "ESCALANTE BUENO, OIER",
+    "SANCHEZ SALAS, SERGIO",
+    "MALLAVIA PEREZ, ASIER",
+    "ROCES RONDO, CRUZ",
+    "SAIZ GARCÍA, IVAN",
+    "CZACHOR, DAMIAN KRZYSZTOF"
+  ],
+  "titulares_visitante": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "SAÑUDO HERRAN, HUGO",
+    "FUERTES LOPEZ, ANGEL",
+    "DIAZ SANCHEZ, IZAN",
+    "MARTIN SECO, BRUNO",
+    "belver duran, ivan"
+  ],
+  "suplentes_local": [
+    "PEREZ CAYON, ALIO",
+    "DURÁN GÓMEZ, MARCOS",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "MONTES SANTOS, CARLOS"
+  ],
+  "suplentes_visitante": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "MATE GARCIA, ALVARO",
+    "DE LA IGLESIA SALVADOR, RODRIGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "PEREZ CAYON, ALIO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "NUÑEZ MORENO, MARCOS",
+    "SOLANA PEREZ, LEO",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+    "ECHAVES CASO, EDER",
+    "ESCALANTE BUENO, OIER",
+    "SANCHEZ SALAS, SERGIO",
+    "MALLAVIA PEREZ, ASIER",
+    "ROCES RONDO, CRUZ",
+    "SAIZ GARCÍA, IVAN",
+    "CZACHOR, DAMIAN KRZYSZTOF",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "DURÁN GÓMEZ, MARCOS",
+    "MONTES SANTOS, CARLOS",
+    "ZAMAN, VICTOR ALEXANDRU"
+  ],
+  "jugadores_visitante": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "SAÑUDO HERRAN, HUGO",
+    "FUERTES LOPEZ, ANGEL",
+    "DIAZ SANCHEZ, IZAN",
+    "MARTIN SECO, BRUNO",
+    "belver duran, ivan",
+    "JIMENEZ LASTRA, MIGUEL",
+    "DE LA IGLESIA SALVADOR, RODRIGO",
+    "MATE GARCIA, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "GONZALEZ GONZALEZ, DANIEL",
+      "sale": "CZACHOR, DAMIAN KRZYSZTOF"
+    },
+    {
+      "min": 54,
+      "entra": "DURÁN GÓMEZ, MARCOS",
+      "sale": "SAIZ GARCÍA, IVAN"
+    },
+    {
+      "min": 59,
+      "entra": "MONTES SANTOS, CARLOS",
+      "sale": "ROCES RONDO, CRUZ"
+    },
+    {
+      "min": 59,
+      "entra": "ZAMAN, VICTOR ALEXANDRU",
+      "sale": "SANCHEZ SALAS, SERGIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "JIMENEZ LASTRA, MIGUEL",
+      "sale": "HERRERO VILLALOBOS, MARCOS"
+    },
+    {
+      "min": 58,
+      "entra": "DE LA IGLESIA SALVADOR, RODRIGO",
+      "sale": "belver duran, ivan"
+    },
+    {
+      "min": 59,
+      "entra": "MATE GARCIA, ALVARO",
+      "sale": "MARTIN SECO, BRUNO"
+    }
+  ],
+  "minutos_jugadores": {
+    "NUÑEZ MORENO, MARCOS": 90,
+    "SOLANA PEREZ, LEO": 90,
+    "ZHEKOV, ATANASIO ATANASOV": 90,
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN": 90,
+    "ECHAVES CASO, EDER": 90,
+    "ESCALANTE BUENO, OIER": 90,
+    "SANCHEZ SALAS, SERGIO": 59,
+    "MALLAVIA PEREZ, ASIER": 90,
+    "ROCES RONDO, CRUZ": 59,
+    "SAIZ GARCÍA, IVAN": 54,
+    "CZACHOR, DAMIAN KRZYSZTOF": 41,
+    "GONZALEZ GONZALEZ, DANIEL": 49,
+    "DURÁN GÓMEZ, MARCOS": 36,
+    "MONTES SANTOS, CARLOS": 31,
+    "ZAMAN, VICTOR ALEXANDRU": 31,
+    "HERRERO VILLALOBOS, MARCOS": 41,
+    "BRAVO HERRERO, MARIO": 90,
+    "ALONSO GONZALEZ, FERNANDO": 90,
+    "VICENTE LOPEZ, IVAN": 90,
+    "TORIBIO ARCE, EDUARDO": 90,
+    "LOMAS AYUSO, GERARDO": 90,
+    "SAÑUDO HERRAN, HUGO": 90,
+    "FUERTES LOPEZ, ANGEL": 90,
+    "DIAZ SANCHEZ, IZAN": 90,
+    "MARTIN SECO, BRUNO": 59,
+    "belver duran, ivan": 58,
+    "JIMENEZ LASTRA, MIGUEL": 49,
+    "DE LA IGLESIA SALVADOR, RODRIGO": 32,
+    "MATE GARCIA, ALVARO": 31
+  },
+  "portero_local": "NUÑEZ MORENO, MARCOS",
+  "portero_visitante": "HERRERO VILLALOBOS, MARCOS",
+  "dorsales_local": {
+    "NUÑEZ MORENO, MARCOS": 13,
+    "SOLANA PEREZ, LEO": 2,
+    "ZHEKOV, ATANASIO ATANASOV": 4,
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN": 6,
+    "ECHAVES CASO, EDER": 8,
+    "ESCALANTE BUENO, OIER": 9,
+    "SANCHEZ SALAS, SERGIO": 11,
+    "MALLAVIA PEREZ, ASIER": 12,
+    "ROCES RONDO, CRUZ": 17,
+    "SAIZ GARCÍA, IVAN": 18,
+    "CZACHOR, DAMIAN KRZYSZTOF": 19
+  },
+  "dorsales_visitante": {
+    "HERRERO VILLALOBOS, MARCOS": 1,
+    "BRAVO HERRERO, MARIO": 3,
+    "ALONSO GONZALEZ, FERNANDO": 4,
+    "VICENTE LOPEZ, IVAN": 5,
+    "TORIBIO ARCE, EDUARDO": 6,
+    "LOMAS AYUSO, GERARDO": 7,
+    "SAÑUDO HERRAN, HUGO": 8,
+    "FUERTES LOPEZ, ANGEL": 9,
+    "DIAZ SANCHEZ, IZAN": 11,
+    "MARTIN SECO, BRUNO": 12,
+    "belver duran, ivan": 15
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
