@@ -1,0 +1,200 @@
+{
+  "acta_id": "C_173211",
+  "filename": "Acta_C_173211.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 9,
+  "fecha": "19-11-2023",
+  "hora": "12:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCIA RUBIO, JOEL"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "LOPEZ ALCALDE, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "RODRIGUEZ LABRADOR, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "SAINZ DE LA MAZA CARRERAS, ANGEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "SAINZ DE LA MAZA CARRERAS, ANGEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "MONTES SANTOS, CARLOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PEREZ MARTINEZ, LORENZO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "FERNANDEZ FERNANDEZ, JORGE",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "MADRAZO ARCO, JAVIER",
+  "titulares_local": [
+    "NUÑEZ MORENO, MARCOS",
+    "CUEVAS ALLENDE, NACHO",
+    "MORAN POLANCO, ALVARO",
+    "LOPEZ ALCALDE, IZAN",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "GARCIA RUIZ, HERNAN",
+    "MALLAVIA PEREZ, ASIER",
+    "VILLA OTERO, BRUNO",
+    "SARO ALLENDE, ALEJO",
+    "CRESPO DIEGO, RAUL",
+    "MONTES SANTOS, CARLOS"
+  ],
+  "titulares_visitante": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "QUINTANA TORRE, MARTIN",
+    "GARCÍA ABASCAL, HECTOR",
+    "PORTILLA MAZA, ISMAEL",
+    "TRICIO USLE, EDUARDO",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "ORTIZ MANZANAS, LUCAS",
+    "GUTIERREZ SARABIA, OSEL",
+    "SAINZ ZAMORANO, NOE",
+    "ALONSO PEREZ, DARIO"
+  ],
+  "suplentes_local": [
+    "MARTIN SUAREZ, HUGO",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "CORDOVILLO PEREZ, MARCOS",
+    "ROCES RONDO, CRUZ",
+    "ELGHOULLAT DRIOUCH, ISMAEL"
+  ],
+  "suplentes_visitante": [
+    "BEZANILLA GARCIA, AARON",
+    "COLINA DE LA HOZ, HUGO",
+    "SIERRA GONZALEZ, KEVIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTIN SUAREZ, HUGO",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "CORDOVILLO PEREZ, MARCOS",
+    "ROCES RONDO, CRUZ",
+    "ELGHOULLAT DRIOUCH, ISMAEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BEZANILLA GARCIA, AARON",
+    "COLINA DE LA HOZ, HUGO",
+    "SIERRA GONZALEZ, KEVIN"
+  ],
+  "jugadores_local": [
+    "NUÑEZ MORENO, MARCOS",
+    "CUEVAS ALLENDE, NACHO",
+    "MORAN POLANCO, ALVARO",
+    "LOPEZ ALCALDE, IZAN",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "GARCIA RUIZ, HERNAN",
+    "MALLAVIA PEREZ, ASIER",
+    "VILLA OTERO, BRUNO",
+    "SARO ALLENDE, ALEJO",
+    "CRESPO DIEGO, RAUL",
+    "MONTES SANTOS, CARLOS"
+  ],
+  "jugadores_visitante": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "QUINTANA TORRE, MARTIN",
+    "GARCÍA ABASCAL, HECTOR",
+    "PORTILLA MAZA, ISMAEL",
+    "TRICIO USLE, EDUARDO",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "ORTIZ MANZANAS, LUCAS",
+    "GUTIERREZ SARABIA, OSEL",
+    "SAINZ ZAMORANO, NOE",
+    "ALONSO PEREZ, DARIO"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "NUÑEZ MORENO, MARCOS": 90,
+    "CUEVAS ALLENDE, NACHO": 90,
+    "MORAN POLANCO, ALVARO": 90,
+    "LOPEZ ALCALDE, IZAN": 90,
+    "ZAMAN, VICTOR ALEXANDRU": 90,
+    "GARCIA RUIZ, HERNAN": 90,
+    "MALLAVIA PEREZ, ASIER": 90,
+    "VILLA OTERO, BRUNO": 90,
+    "SARO ALLENDE, ALEJO": 90,
+    "CRESPO DIEGO, RAUL": 90,
+    "MONTES SANTOS, CARLOS": 90,
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 90,
+    "QUINTANA TORRE, MARTIN": 90,
+    "GARCÍA ABASCAL, HECTOR": 90,
+    "PORTILLA MAZA, ISMAEL": 90,
+    "TRICIO USLE, EDUARDO": 90,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 90,
+    "RODRIGUEZ LABRADOR, PABLO": 90,
+    "ORTIZ MANZANAS, LUCAS": 90,
+    "GUTIERREZ SARABIA, OSEL": 90,
+    "SAINZ ZAMORANO, NOE": 90,
+    "ALONSO PEREZ, DARIO": 90
+  },
+  "portero_local": "NUÑEZ MORENO, MARCOS",
+  "portero_visitante": "ROMILA VASILACHE, ALEJANDRO ANDREI",
+  "dorsales_local": {
+    "NUÑEZ MORENO, MARCOS": 13,
+    "CUEVAS ALLENDE, NACHO": 3,
+    "MORAN POLANCO, ALVARO": 6,
+    "LOPEZ ALCALDE, IZAN": 7,
+    "ZAMAN, VICTOR ALEXANDRU": 8,
+    "GARCIA RUIZ, HERNAN": 11,
+    "MALLAVIA PEREZ, ASIER": 12,
+    "VILLA OTERO, BRUNO": 14,
+    "SARO ALLENDE, ALEJO": 16,
+    "CRESPO DIEGO, RAUL": 19,
+    "MONTES SANTOS, CARLOS": 20
+  },
+  "dorsales_visitante": {
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 13,
+    "QUINTANA TORRE, MARTIN": 4,
+    "GARCÍA ABASCAL, HECTOR": 5,
+    "PORTILLA MAZA, ISMAEL": 7,
+    "TRICIO USLE, EDUARDO": 8,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 9,
+    "RODRIGUEZ LABRADOR, PABLO": 10,
+    "ORTIZ MANZANAS, LUCAS": 11,
+    "GUTIERREZ SARABIA, OSEL": 14,
+    "SAINZ ZAMORANO, NOE": 15,
+    "ALONSO PEREZ, DARIO": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
