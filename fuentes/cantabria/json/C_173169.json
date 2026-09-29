@@ -1,0 +1,249 @@
+{
+  "acta_id": "C_173169",
+  "filename": "Acta_C_173169.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 3,
+  "fecha": "08-10-2023",
+  "hora": "12:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "AYRON CLUB A",
+  "equipo_visitante": "C.D.E. ATCO. MINEROS A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PEÑA GONZÁLEZ, ALFREDO"
+  ],
+  "estadio": "Vargas",
+  "ciudad": "Puente Viesgo",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "ALVAREZ DIEGO, GABRIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "GALLO VERGARA, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "FERNÁNDEZ MONTES, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "RUIZ CRESPO, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "GALLO VERGARA, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "VEGA VASYAKIN, AITOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ACEBO BUSTILLO, FRANCISCO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "GOMEZ DIAZ, VENTURA",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "TORRE SAMPEDRO, FERNANDO",
+  "titulares_local": [
+    "GOMEZ NIETO, JESÚS",
+    "PEREA ABAD, AITOR",
+    "PARDO GOMEZ, LUIS",
+    "GALLO VERGARA, PABLO",
+    "LIAÑO MANTECÓN, HUGO",
+    "RUIZ CRESPO, NICOLAS",
+    "BUENAGA GONZÁLEZ, IZAN",
+    "RUIZ CRESPO, HUGO",
+    "ALVAREZ DIEGO, GABRIEL",
+    "GOMEZ OBESO, PABLO",
+    "BALDOR MARTINEZ, NOE"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ DE COS, JAIME",
+    "VEGA VASYAKIN, AITOR",
+    "FERNANDEZ GINES, ADRIAN",
+    "ROBLES CORCHADO, ALEX",
+    "KODUKOV GONCHAR, VLADIMIR",
+    "GUTIERREZ TERAN, PABLO",
+    "CALDERON GOMEZ, BORJA",
+    "STAN, NICOLAE CRISTIAN",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "FERNÁNDEZ MONTES, DAVID",
+    "BARREDO FERNANDEZ, GAEL"
+  ],
+  "suplentes_local": [
+    "ALVAREZ SAN EMETERIO, ERIK",
+    "CALANTE CABRILLO, ADRIÁN",
+    "LLANO CARRAL, MARCO",
+    "REAL SAINZ, DANIEL",
+    "BURDIE FERNANDEZ, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "GUTIERREZ VELEZ, DANIEL",
+    "IGLESIAS BALADO, SIMON",
+    "PEREZ TEZANOS, IZAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "GUTIERREZ VELEZ, DANIEL"
+  ],
+  "jugadores_local": [
+    "GOMEZ NIETO, JESÚS",
+    "PEREA ABAD, AITOR",
+    "PARDO GOMEZ, LUIS",
+    "GALLO VERGARA, PABLO",
+    "LIAÑO MANTECÓN, HUGO",
+    "RUIZ CRESPO, NICOLAS",
+    "BUENAGA GONZÁLEZ, IZAN",
+    "RUIZ CRESPO, HUGO",
+    "ALVAREZ DIEGO, GABRIEL",
+    "GOMEZ OBESO, PABLO",
+    "BALDOR MARTINEZ, NOE",
+    "CALANTE CABRILLO, ADRIÁN",
+    "ALVAREZ SAN EMETERIO, ERIK",
+    "BURDIE FERNANDEZ, DIEGO",
+    "REAL SAINZ, DANIEL",
+    "LLANO CARRAL, MARCO"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ DE COS, JAIME",
+    "VEGA VASYAKIN, AITOR",
+    "FERNANDEZ GINES, ADRIAN",
+    "ROBLES CORCHADO, ALEX",
+    "KODUKOV GONCHAR, VLADIMIR",
+    "GUTIERREZ TERAN, PABLO",
+    "CALDERON GOMEZ, BORJA",
+    "STAN, NICOLAE CRISTIAN",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "FERNÁNDEZ MONTES, DAVID",
+    "BARREDO FERNANDEZ, GAEL",
+    "IGLESIAS BALADO, SIMON",
+    "PEREZ TEZANOS, IZAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "CALANTE CABRILLO, ADRIÁN",
+      "sale": "BALDOR MARTINEZ, NOE"
+    },
+    {
+      "min": 53,
+      "entra": "ALVAREZ SAN EMETERIO, ERIK",
+      "sale": "BUENAGA GONZÁLEZ, IZAN"
+    },
+    {
+      "min": 53,
+      "entra": "BURDIE FERNANDEZ, DIEGO",
+      "sale": "LIAÑO MANTECÓN, HUGO"
+    },
+    {
+      "min": 62,
+      "entra": "REAL SAINZ, DANIEL",
+      "sale": "GOMEZ OBESO, PABLO"
+    },
+    {
+      "min": 68,
+      "entra": "LLANO CARRAL, MARCO",
+      "sale": "PARDO GOMEZ, LUIS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 48,
+      "entra": "IGLESIAS BALADO, SIMON",
+      "sale": "KODUKOV GONCHAR, VLADIMIR"
+    },
+    {
+      "min": 48,
+      "entra": "PEREZ TEZANOS, IZAN",
+      "sale": "BARREDO FERNANDEZ, GAEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ NIETO, JESÚS": 90,
+    "PEREA ABAD, AITOR": 90,
+    "PARDO GOMEZ, LUIS": 68,
+    "GALLO VERGARA, PABLO": 90,
+    "LIAÑO MANTECÓN, HUGO": 53,
+    "RUIZ CRESPO, NICOLAS": 90,
+    "BUENAGA GONZÁLEZ, IZAN": 53,
+    "RUIZ CRESPO, HUGO": 90,
+    "ALVAREZ DIEGO, GABRIEL": 90,
+    "GOMEZ OBESO, PABLO": 62,
+    "BALDOR MARTINEZ, NOE": 44,
+    "CALANTE CABRILLO, ADRIÁN": 46,
+    "ALVAREZ SAN EMETERIO, ERIK": 37,
+    "BURDIE FERNANDEZ, DIEGO": 37,
+    "REAL SAINZ, DANIEL": 28,
+    "LLANO CARRAL, MARCO": 22,
+    "FERNANDEZ DE COS, JAIME": 90,
+    "VEGA VASYAKIN, AITOR": 90,
+    "FERNANDEZ GINES, ADRIAN": 90,
+    "ROBLES CORCHADO, ALEX": 90,
+    "KODUKOV GONCHAR, VLADIMIR": 48,
+    "GUTIERREZ TERAN, PABLO": 90,
+    "CALDERON GOMEZ, BORJA": 90,
+    "STAN, NICOLAE CRISTIAN": 90,
+    "NDIAYE RUIZ, MALICK JAVIER": 90,
+    "FERNÁNDEZ MONTES, DAVID": 90,
+    "BARREDO FERNANDEZ, GAEL": 48,
+    "IGLESIAS BALADO, SIMON": 42,
+    "PEREZ TEZANOS, IZAN": 42
+  },
+  "portero_local": "GOMEZ NIETO, JESÚS",
+  "portero_visitante": "FERNANDEZ DE COS, JAIME",
+  "dorsales_local": {
+    "GOMEZ NIETO, JESÚS": 1,
+    "PEREA ABAD, AITOR": 2,
+    "PARDO GOMEZ, LUIS": 4,
+    "GALLO VERGARA, PABLO": 5,
+    "LIAÑO MANTECÓN, HUGO": 7,
+    "RUIZ CRESPO, NICOLAS": 8,
+    "BUENAGA GONZÁLEZ, IZAN": 9,
+    "RUIZ CRESPO, HUGO": 10,
+    "ALVAREZ DIEGO, GABRIEL": 14,
+    "GOMEZ OBESO, PABLO": 15,
+    "BALDOR MARTINEZ, NOE": 17
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ DE COS, JAIME": 1,
+    "VEGA VASYAKIN, AITOR": 2,
+    "FERNANDEZ GINES, ADRIAN": 3,
+    "ROBLES CORCHADO, ALEX": 4,
+    "KODUKOV GONCHAR, VLADIMIR": 5,
+    "GUTIERREZ TERAN, PABLO": 7,
+    "CALDERON GOMEZ, BORJA": 8,
+    "STAN, NICOLAE CRISTIAN": 9,
+    "NDIAYE RUIZ, MALICK JAVIER": 10,
+    "FERNÁNDEZ MONTES, DAVID": 11,
+    "BARREDO FERNANDEZ, GAEL": 22
+  },
+  "suspendidos": []
+}
