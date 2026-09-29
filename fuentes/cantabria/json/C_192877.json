@@ -1,0 +1,253 @@
+{
+  "acta_id": "C_192877",
+  "filename": "Acta_C_192877.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 18,
+  "fecha": "19-01-2025",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "DEPORTIVO PERINES",
+  "equipo_visitante": "C.AT. PERINES",
+  "goles_local": 1,
+  "goles_visitante": 6,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RUIZ ALONSO, CARLOS"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "CARRASCAL RUIZ, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 13,
+      "jugador": "ORDAX IBAÑEZ, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "DESIRE BONILLA, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "CANALES VILLA, IKER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "ORDAX IBAÑEZ, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "GARCIA TARANO, BRAYAN",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 3,
+      "jugador": "DESIRE BONILLA, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALEGRIA NUÑEZ, DANIEL",
+  "entrenador_visitante": "MARCOS NUÑEZ, JUAN JOSE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ALCANTARA ARCE, ANDRES",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALCANTARA ARCE, ANDRES",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "CUENDE RAMOS, YAGO",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "DESIRE BONILLA, DANIEL",
+    "JIMENEZ NIÑO, DAVID",
+    "CORONA DE MATEO, DAVID",
+    "ALONSO PEREZ, DARIO",
+    "AZNAR NUÑO, ALEX",
+    "COBO NDONG, DANIEL",
+    "MARTE MUGICA, EDUARD",
+    "VEGA CASAS, CARLOS"
+  ],
+  "titulares_visitante": [
+    "SERTUCHA PEREZ, EDUARDO",
+    "GARCIA RUEDA, BELTRAN",
+    "MARTINEZ SANCHEZ, PEDRO",
+    "LASTRA CAÑEDO, FIDEL",
+    "MARTINEZ MURIEDAS, PABLO",
+    "CANALES VILLA, IKER",
+    "ORDAX IBAÑEZ, DAVID",
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+    "HERNANDEZ DÍAZ, IKER",
+    "CARRASCAL RUIZ, IZAN",
+    "FERNANDEZ FERNANDEZ, IKER"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "LOPEZ GONZALEZ, IZAN",
+    "PONTONES FERREIRA, MARIO",
+    "COTERILLO COBO, MATEO",
+    "HERRERA CASANOVA, IZAN"
+  ],
+  "suplentes_visitante": [
+    "CAVADA MARTIN, IZAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CUENDE RAMOS, YAGO",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "DESIRE BONILLA, DANIEL",
+    "JIMENEZ NIÑO, DAVID",
+    "CORONA DE MATEO, DAVID",
+    "ALONSO PEREZ, DARIO",
+    "AZNAR NUÑO, ALEX",
+    "COBO NDONG, DANIEL",
+    "MARTE MUGICA, EDUARD",
+    "VEGA CASAS, CARLOS",
+    "PONTONES FERREIRA, MARIO",
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "COTERILLO COBO, MATEO",
+    "LOPEZ GONZALEZ, IZAN",
+    "HERRERA CASANOVA, IZAN"
+  ],
+  "jugadores_visitante": [
+    "SERTUCHA PEREZ, EDUARDO",
+    "GARCIA RUEDA, BELTRAN",
+    "MARTINEZ SANCHEZ, PEDRO",
+    "LASTRA CAÑEDO, FIDEL",
+    "MARTINEZ MURIEDAS, PABLO",
+    "CANALES VILLA, IKER",
+    "ORDAX IBAÑEZ, DAVID",
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+    "HERNANDEZ DÍAZ, IKER",
+    "CARRASCAL RUIZ, IZAN",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "CAVADA MARTIN, IZAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "PONTONES FERREIRA, MARIO",
+      "sale": "AZNAR NUÑO, ALEX"
+    },
+    {
+      "min": 40,
+      "entra": "RODRIGUEZ RODRIGUEZ, CARLOS",
+      "sale": "CUENDE RAMOS, YAGO"
+    },
+    {
+      "min": 58,
+      "entra": "COTERILLO COBO, MATEO",
+      "sale": "VEGA CASAS, CARLOS"
+    },
+    {
+      "min": 58,
+      "entra": "LOPEZ GONZALEZ, IZAN",
+      "sale": "MARTE MUGICA, EDUARD"
+    },
+    {
+      "min": 58,
+      "entra": "HERRERA CASANOVA, IZAN",
+      "sale": "ALONSO PEREZ, DARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 71,
+      "entra": "CAVADA MARTIN, IZAN",
+      "sale": "CANALES VILLA, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "CUENDE RAMOS, YAGO": 40,
+    "SAN MIGUEL VÉLEZ, HUGO": 90,
+    "GARCIA TARANO, BRAYAN": 90,
+    "DESIRE BONILLA, DANIEL": 90,
+    "JIMENEZ NIÑO, DAVID": 90,
+    "CORONA DE MATEO, DAVID": 90,
+    "ALONSO PEREZ, DARIO": 58,
+    "AZNAR NUÑO, ALEX": 40,
+    "COBO NDONG, DANIEL": 90,
+    "MARTE MUGICA, EDUARD": 58,
+    "VEGA CASAS, CARLOS": 58,
+    "PONTONES FERREIRA, MARIO": 50,
+    "RODRIGUEZ RODRIGUEZ, CARLOS": 50,
+    "COTERILLO COBO, MATEO": 32,
+    "LOPEZ GONZALEZ, IZAN": 32,
+    "HERRERA CASANOVA, IZAN": 32,
+    "SERTUCHA PEREZ, EDUARDO": 90,
+    "GARCIA RUEDA, BELTRAN": 90,
+    "MARTINEZ SANCHEZ, PEDRO": 90,
+    "LASTRA CAÑEDO, FIDEL": 90,
+    "MARTINEZ MURIEDAS, PABLO": 90,
+    "CANALES VILLA, IKER": 71,
+    "ORDAX IBAÑEZ, DAVID": 90,
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY": 90,
+    "HERNANDEZ DÍAZ, IKER": 90,
+    "CARRASCAL RUIZ, IZAN": 90,
+    "FERNANDEZ FERNANDEZ, IKER": 90,
+    "CAVADA MARTIN, IZAN": 19
+  },
+  "portero_local": "CUENDE RAMOS, YAGO",
+  "portero_visitante": "SERTUCHA PEREZ, EDUARDO",
+  "dorsales_local": {
+    "CUENDE RAMOS, YAGO": 13,
+    "SAN MIGUEL VÉLEZ, HUGO": 5,
+    "GARCIA TARANO, BRAYAN": 6,
+    "DESIRE BONILLA, DANIEL": 7,
+    "JIMENEZ NIÑO, DAVID": 9,
+    "CORONA DE MATEO, DAVID": 10,
+    "ALONSO PEREZ, DARIO": 11,
+    "AZNAR NUÑO, ALEX": 12,
+    "COBO NDONG, DANIEL": 14,
+    "MARTE MUGICA, EDUARD": 16,
+    "VEGA CASAS, CARLOS": 20
+  },
+  "dorsales_visitante": {
+    "SERTUCHA PEREZ, EDUARDO": 1,
+    "GARCIA RUEDA, BELTRAN": 2,
+    "MARTINEZ SANCHEZ, PEDRO": 3,
+    "LASTRA CAÑEDO, FIDEL": 5,
+    "MARTINEZ MURIEDAS, PABLO": 6,
+    "CANALES VILLA, IKER": 9,
+    "ORDAX IBAÑEZ, DAVID": 10,
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY": 11,
+    "HERNANDEZ DÍAZ, IKER": 15,
+    "CARRASCAL RUIZ, IZAN": 17,
+    "FERNANDEZ FERNANDEZ, IKER": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
