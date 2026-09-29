@@ -1,0 +1,264 @@
+{
+  "acta_id": "C_193349",
+  "filename": "Acta_C_193349.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 2,
+  "fecha": "28-09-2024",
+  "hora": "10:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "AYRON CLUB A",
+  "equipo_visitante": "C.D. COLINDRES A",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAIZ BOLADO, LUCAS"
+  ],
+  "estadio": "Vargas",
+  "ciudad": "Puente Viesgo",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "SAN EMETERIO FERNANDEZ, ENZO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 20,
+      "jugador": "FERNANDEZ PEREZ, MAURO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "SAINZ DE LA MAZA AJA, EDUARDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "TERAN MENESES, SANTIAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "PATIÑO OREJUELA, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "VELO RUIZ, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "RODRIGUEZ GARCIA, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "COLLERA ANUARBE, JUAN",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GUTIERREZ POO, MARIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GUTIERREZ POO, MARIO",
+  "delegado_equipo_visitante": "CAMPO ANTUÑANO, LUIS",
+  "titulares_local": [
+    "GUTIERREZ MANTECON, HECTOR",
+    "CUETARA GOMEZ, JUAN PABLO",
+    "VILLEGAS CARRAL, NICOLAS",
+    "VELO RUIZ, HUGO",
+    "GUTIÉRREZ LÓPEZ, DAVID",
+    "MARTIN MANTECON, CRISTIAN",
+    "GONZÁLEZ CASTILLO, ÁNGEL",
+    "GOMEZ TOCA, RAÚL",
+    "ALCALDE GREGOROVA, MARK",
+    "SANTALLA PEREZ, JORGE",
+    "PATIÑO OREJUELA, DAVID"
+  ],
+  "titulares_visitante": [
+    "RUIZ CAÑARTE, RAUL",
+    "RODRIGUEZ GARCIA, DIEGO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "MARTINEZ GARCIA, DIEGO",
+    "PABLOS SUAREZ, IBAI",
+    "FERNANDEZ PEREZ, MAURO",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "RODRIGUEZ BOLAÑO, MARIO",
+    "BLANCO CUETO, IKER",
+    "TERAN MENESES, SANTIAGO"
+  ],
+  "suplentes_local": [
+    "SAIZ LOPEZ, LUCAS",
+    "CASTAÑEDA RODRÍGUEZ, ADRIÁN",
+    "ARCE ACEREDA, JORGE",
+    "RUIZ GONZALEZ, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "MATEOS NAVARRO, ROBERTO",
+    "COBO PELLON, MARIO",
+    "CRIADO DIEZ, ENEKO",
+    "CHATBI, AMINE"
+  ],
+  "convocados_sin_jugar_local": [
+    "CASTAÑEDA RODRÍGUEZ, ADRIÁN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GUTIERREZ MANTECON, HECTOR",
+    "CUETARA GOMEZ, JUAN PABLO",
+    "VILLEGAS CARRAL, NICOLAS",
+    "VELO RUIZ, HUGO",
+    "GUTIÉRREZ LÓPEZ, DAVID",
+    "MARTIN MANTECON, CRISTIAN",
+    "GONZÁLEZ CASTILLO, ÁNGEL",
+    "GOMEZ TOCA, RAÚL",
+    "ALCALDE GREGOROVA, MARK",
+    "SANTALLA PEREZ, JORGE",
+    "PATIÑO OREJUELA, DAVID",
+    "ARCE ACEREDA, JORGE",
+    "RUIZ GONZALEZ, DIEGO",
+    "SAIZ LOPEZ, LUCAS"
+  ],
+  "jugadores_visitante": [
+    "RUIZ CAÑARTE, RAUL",
+    "RODRIGUEZ GARCIA, DIEGO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "MARTINEZ GARCIA, DIEGO",
+    "PABLOS SUAREZ, IBAI",
+    "FERNANDEZ PEREZ, MAURO",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "RODRIGUEZ BOLAÑO, MARIO",
+    "BLANCO CUETO, IKER",
+    "TERAN MENESES, SANTIAGO",
+    "ORDAS ARREDONDO, ISKANDER",
+    "COBO PELLON, MARIO",
+    "CHATBI, AMINE",
+    "MATEOS NAVARRO, ROBERTO",
+    "CRIADO DIEZ, ENEKO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "ARCE ACEREDA, JORGE",
+      "sale": "VILLEGAS CARRAL, NICOLAS"
+    },
+    {
+      "min": 41,
+      "entra": "RUIZ GONZALEZ, DIEGO",
+      "sale": "GUTIÉRREZ LÓPEZ, DAVID"
+    },
+    {
+      "min": 55,
+      "entra": "SAIZ LOPEZ, LUCAS",
+      "sale": "ALCALDE GREGOROVA, MARK"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 38,
+      "entra": "ORDAS ARREDONDO, ISKANDER",
+      "sale": "RUIZ CAÑARTE, RAUL"
+    },
+    {
+      "min": 48,
+      "entra": "COBO PELLON, MARIO",
+      "sale": "SAN EMETERIO FERNANDEZ, ENZO"
+    },
+    {
+      "min": 53,
+      "entra": "CHATBI, AMINE",
+      "sale": "FERNANDEZ PEREZ, MAURO"
+    },
+    {
+      "min": 63,
+      "entra": "MATEOS NAVARRO, ROBERTO",
+      "sale": "SAINZ DE LA MAZA AJA, EDUARDO"
+    },
+    {
+      "min": 65,
+      "entra": "CRIADO DIEZ, ENEKO",
+      "sale": "RODRIGUEZ GARCIA, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GUTIERREZ MANTECON, HECTOR": 90,
+    "CUETARA GOMEZ, JUAN PABLO": 90,
+    "VILLEGAS CARRAL, NICOLAS": 35,
+    "VELO RUIZ, HUGO": 90,
+    "GUTIÉRREZ LÓPEZ, DAVID": 41,
+    "MARTIN MANTECON, CRISTIAN": 90,
+    "GONZÁLEZ CASTILLO, ÁNGEL": 90,
+    "GOMEZ TOCA, RAÚL": 90,
+    "ALCALDE GREGOROVA, MARK": 55,
+    "SANTALLA PEREZ, JORGE": 90,
+    "PATIÑO OREJUELA, DAVID": 90,
+    "ARCE ACEREDA, JORGE": 55,
+    "RUIZ GONZALEZ, DIEGO": 49,
+    "SAIZ LOPEZ, LUCAS": 35,
+    "RUIZ CAÑARTE, RAUL": 38,
+    "RODRIGUEZ GARCIA, DIEGO": 65,
+    "CAMPOS SAN EMETERIO, DIEGO": 90,
+    "MARTINEZ GARCIA, DIEGO": 90,
+    "PABLOS SUAREZ, IBAI": 90,
+    "FERNANDEZ PEREZ, MAURO": 53,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 63,
+    "SAN EMETERIO FERNANDEZ, ENZO": 48,
+    "RODRIGUEZ BOLAÑO, MARIO": 90,
+    "BLANCO CUETO, IKER": 90,
+    "TERAN MENESES, SANTIAGO": 90,
+    "ORDAS ARREDONDO, ISKANDER": 52,
+    "COBO PELLON, MARIO": 42,
+    "CHATBI, AMINE": 37,
+    "MATEOS NAVARRO, ROBERTO": 27,
+    "CRIADO DIEZ, ENEKO": 25
+  },
+  "portero_local": "GUTIERREZ MANTECON, HECTOR",
+  "portero_visitante": "RUIZ CAÑARTE, RAUL",
+  "dorsales_local": {
+    "GUTIERREZ MANTECON, HECTOR": 1,
+    "CUETARA GOMEZ, JUAN PABLO": 2,
+    "VILLEGAS CARRAL, NICOLAS": 4,
+    "VELO RUIZ, HUGO": 5,
+    "GUTIÉRREZ LÓPEZ, DAVID": 8,
+    "MARTIN MANTECON, CRISTIAN": 9,
+    "GONZÁLEZ CASTILLO, ÁNGEL": 12,
+    "GOMEZ TOCA, RAÚL": 14,
+    "ALCALDE GREGOROVA, MARK": 15,
+    "SANTALLA PEREZ, JORGE": 16,
+    "PATIÑO OREJUELA, DAVID": 17
+  },
+  "dorsales_visitante": {
+    "RUIZ CAÑARTE, RAUL": 1,
+    "RODRIGUEZ GARCIA, DIEGO": 4,
+    "CAMPOS SAN EMETERIO, DIEGO": 5,
+    "MARTINEZ GARCIA, DIEGO": 7,
+    "PABLOS SUAREZ, IBAI": 8,
+    "FERNANDEZ PEREZ, MAURO": 9,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 10,
+    "SAN EMETERIO FERNANDEZ, ENZO": 11,
+    "RODRIGUEZ BOLAÑO, MARIO": 18,
+    "BLANCO CUETO, IKER": 20,
+    "TERAN MENESES, SANTIAGO": 21
+  },
+  "suspendidos": []
+}
