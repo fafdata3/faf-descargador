@@ -1,0 +1,278 @@
+{
+  "acta_id": "G_9990329",
+  "filename": "Acta_G_9990329.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "20-12-2025",
+  "hora": "10:30",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "KOSTKAS C.D. C",
+  "equipo_visitante": "VASCONIA C.D. C",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "AGUIRRE ALESON, JON"
+  ],
+  "estadio": "MATIGOXOTEGI",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "PELLEJERO MINCHOLE, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "SILVA NUÑEZ, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "IBARBURU ASENSIO, UNAI",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "MENDIOLA ZABALEGI, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 6,
+      "jugador": "LOPEZ NAVARLAZ, OLIVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "OCHOA GUERRERO, IBON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "AMATRIAIN LARUMBE, OIHAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ETXARRI ANTOÑANZAS, ANDONI",
+  "entrenador_visitante": "ANACABE GURRUCHAGA, IÑIGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MAIZ BIENZOBAS, MANUEL",
+  "delegado_equipo_visitante": "FERNÁNDEZ MUGUERZA, EDUARDO",
+  "titulares_local": [
+    "VITORIA IRURE, JULEN",
+    "TOLARECHIPI REINOSO, IKER",
+    "OCHOA GUERRERO, IBON",
+    "PEREZ HERNANDEZ, TELMO",
+    "GARCIA BADIOLA, UNAX",
+    "ORIA ROIZ, TELMO",
+    "URSUA PEÑA, TELMO",
+    "JAUREGUI LOPEZ, IGOR",
+    "LOPEZ NAVARLAZ, OLIVIER",
+    "CASLA AYALA, PAUL",
+    "PELLEJERO MINCHOLE, HUGO"
+  ],
+  "titulares_visitante": [
+    "IZQUIERDO LACABEX, LUCAS",
+    "ALTUNA ASTRAIN, MARTIN",
+    "BELTRAN FLORES, PABLO",
+    "IBARBURU ASENSIO, UNAI",
+    "MUELAS LILLY, DANEL",
+    "RODRIGUEZ APEZARENA, DIEGO",
+    "GONZALEZ MUÑOZ, PABLO",
+    "RAMOS SANCHIZ, XABIER",
+    "SILVA NUÑEZ, MARCOS",
+    "MENDIOLA ZABALEGI, UNAI",
+    "ECHEBARRIA MENDIA, POL"
+  ],
+  "suplentes_local": [
+    "ARZALLUS GONZALEZ, ANER",
+    "AZURMENDI LORENZO, IÑAKI",
+    "HERRAN FERNANDEZ, BRUNO",
+    "ARRIETA BARANDIARAN, EKI",
+    "MICHELENA CASERO, ION"
+  ],
+  "suplentes_visitante": [
+    "BAROJA ADRIAN, XABIER",
+    "ALTUNA ASTRAIN, LUIS",
+    "MONTES FRANCO, DIEGO",
+    "LANDA CHARTON, DANEL",
+    "RAMOS ARCONADA, ADEI",
+    "JAUREGUI MATHIS, TELMO",
+    "AMATRIAIN LARUMBE, OIHAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARZALLUS GONZALEZ, ANER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BAROJA ADRIAN, XABIER",
+    "JAUREGUI MATHIS, TELMO"
+  ],
+  "jugadores_local": [
+    "VITORIA IRURE, JULEN",
+    "TOLARECHIPI REINOSO, IKER",
+    "OCHOA GUERRERO, IBON",
+    "PEREZ HERNANDEZ, TELMO",
+    "GARCIA BADIOLA, UNAX",
+    "ORIA ROIZ, TELMO",
+    "URSUA PEÑA, TELMO",
+    "JAUREGUI LOPEZ, IGOR",
+    "LOPEZ NAVARLAZ, OLIVIER",
+    "CASLA AYALA, PAUL",
+    "PELLEJERO MINCHOLE, HUGO",
+    "HERRAN FERNANDEZ, BRUNO",
+    "ARRIETA BARANDIARAN, EKI",
+    "AZURMENDI LORENZO, IÑAKI",
+    "MICHELENA CASERO, ION"
+  ],
+  "jugadores_visitante": [
+    "IZQUIERDO LACABEX, LUCAS",
+    "ALTUNA ASTRAIN, MARTIN",
+    "BELTRAN FLORES, PABLO",
+    "IBARBURU ASENSIO, UNAI",
+    "MUELAS LILLY, DANEL",
+    "RODRIGUEZ APEZARENA, DIEGO",
+    "GONZALEZ MUÑOZ, PABLO",
+    "RAMOS SANCHIZ, XABIER",
+    "SILVA NUÑEZ, MARCOS",
+    "MENDIOLA ZABALEGI, UNAI",
+    "ECHEBARRIA MENDIA, POL",
+    "RAMOS ARCONADA, ADEI",
+    "LANDA CHARTON, DANEL",
+    "MONTES FRANCO, DIEGO",
+    "ALTUNA ASTRAIN, LUIS",
+    "AMATRIAIN LARUMBE, OIHAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "HERRAN FERNANDEZ, BRUNO",
+      "sale": "PEREZ HERNANDEZ, TELMO"
+    },
+    {
+      "min": 63,
+      "entra": "ARRIETA BARANDIARAN, EKI",
+      "sale": "LOPEZ NAVARLAZ, OLIVIER"
+    },
+    {
+      "min": 65,
+      "entra": "AZURMENDI LORENZO, IÑAKI",
+      "sale": "PELLEJERO MINCHOLE, HUGO"
+    },
+    {
+      "min": 75,
+      "entra": "MICHELENA CASERO, ION",
+      "sale": "CASLA AYALA, PAUL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 9,
+      "entra": "RAMOS ARCONADA, ADEI",
+      "sale": "ECHEBARRIA MENDIA, POL"
+    },
+    {
+      "min": 40,
+      "entra": "LANDA CHARTON, DANEL",
+      "sale": "ALTUNA ASTRAIN, MARTIN"
+    },
+    {
+      "min": 55,
+      "entra": "MONTES FRANCO, DIEGO",
+      "sale": "RAMOS SANCHIZ, XABIER"
+    },
+    {
+      "min": 62,
+      "entra": "ALTUNA ASTRAIN, LUIS",
+      "sale": "BELTRAN FLORES, PABLO"
+    },
+    {
+      "min": 73,
+      "entra": "AMATRIAIN LARUMBE, OIHAN",
+      "sale": "RODRIGUEZ APEZARENA, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "VITORIA IRURE, JULEN": 90,
+    "TOLARECHIPI REINOSO, IKER": 90,
+    "OCHOA GUERRERO, IBON": 90,
+    "PEREZ HERNANDEZ, TELMO": 53,
+    "GARCIA BADIOLA, UNAX": 90,
+    "ORIA ROIZ, TELMO": 90,
+    "URSUA PEÑA, TELMO": 90,
+    "JAUREGUI LOPEZ, IGOR": 90,
+    "LOPEZ NAVARLAZ, OLIVIER": 63,
+    "CASLA AYALA, PAUL": 75,
+    "PELLEJERO MINCHOLE, HUGO": 65,
+    "HERRAN FERNANDEZ, BRUNO": 37,
+    "ARRIETA BARANDIARAN, EKI": 27,
+    "AZURMENDI LORENZO, IÑAKI": 25,
+    "MICHELENA CASERO, ION": 15,
+    "IZQUIERDO LACABEX, LUCAS": 90,
+    "ALTUNA ASTRAIN, MARTIN": 40,
+    "BELTRAN FLORES, PABLO": 62,
+    "IBARBURU ASENSIO, UNAI": 90,
+    "MUELAS LILLY, DANEL": 90,
+    "RODRIGUEZ APEZARENA, DIEGO": 73,
+    "GONZALEZ MUÑOZ, PABLO": 90,
+    "RAMOS SANCHIZ, XABIER": 55,
+    "SILVA NUÑEZ, MARCOS": 90,
+    "MENDIOLA ZABALEGI, UNAI": 90,
+    "ECHEBARRIA MENDIA, POL": 9,
+    "RAMOS ARCONADA, ADEI": 81,
+    "LANDA CHARTON, DANEL": 50,
+    "MONTES FRANCO, DIEGO": 35,
+    "ALTUNA ASTRAIN, LUIS": 28,
+    "AMATRIAIN LARUMBE, OIHAN": 17
+  },
+  "portero_local": "VITORIA IRURE, JULEN",
+  "portero_visitante": "IZQUIERDO LACABEX, LUCAS",
+  "dorsales_local": {
+    "VITORIA IRURE, JULEN": 1,
+    "TOLARECHIPI REINOSO, IKER": 3,
+    "OCHOA GUERRERO, IBON": 4,
+    "PEREZ HERNANDEZ, TELMO": 5,
+    "GARCIA BADIOLA, UNAX": 6,
+    "ORIA ROIZ, TELMO": 7,
+    "URSUA PEÑA, TELMO": 8,
+    "JAUREGUI LOPEZ, IGOR": 11,
+    "LOPEZ NAVARLAZ, OLIVIER": 12,
+    "CASLA AYALA, PAUL": 14,
+    "PELLEJERO MINCHOLE, HUGO": 21
+  },
+  "dorsales_visitante": {
+    "IZQUIERDO LACABEX, LUCAS": 1,
+    "ALTUNA ASTRAIN, MARTIN": 2,
+    "BELTRAN FLORES, PABLO": 3,
+    "IBARBURU ASENSIO, UNAI": 4,
+    "MUELAS LILLY, DANEL": 5,
+    "RODRIGUEZ APEZARENA, DIEGO": 6,
+    "GONZALEZ MUÑOZ, PABLO": 7,
+    "RAMOS SANCHIZ, XABIER": 8,
+    "SILVA NUÑEZ, MARCOS": 9,
+    "MENDIOLA ZABALEGI, UNAI": 10,
+    "ECHEBARRIA MENDIA, POL": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
