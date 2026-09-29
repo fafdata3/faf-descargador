@@ -1,0 +1,243 @@
+{
+  "acta_id": "C_192789",
+  "filename": "Acta_C_192789.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "26-10-2024",
+  "hora": "15:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. TROPEZON A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCIA RUBIO, JOEL"
+  ],
+  "estadio": "Tanos 1",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "PRIETO GONZALEZ, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "PRIETO GONZALEZ, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "MEDINA RICO, MAICOL STIVEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "GONZALEZ SAIZ, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "GOMEZ GARCIA, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "HERRAN ALONSO, MARCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MONTES VACAS, ANGEL L",
+  "entrenador_visitante": "PALACIO NAVARRO, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CANO MANTECON, IVAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CANO MANTECON, IVAN",
+  "delegado_equipo_visitante": "DE LA FUENTE DIEGO, LIAN",
+  "titulares_local": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "SORDO GOMEZ, ISMAEL",
+    "EZZAKRAOUI, OSAMA",
+    "SAINZ GONZALEZ, VALENTIN",
+    "MARTIN RUIZ, PABLO",
+    "GOMEZ GARCIA, LUCAS",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "PEREZ PINILLA, EMILIO",
+    "TERAN RUIZ, GERARDO",
+    "SAMANO TAZON, MANUEL",
+    "NOUKEU BALBAS, THIERRY STEVE"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "gomara rivas, MANUEL",
+    "GUTIERREZ MARTIN, JAVIER",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "HERRAN ALONSO, MARCO",
+    "MEDINA RICO, MAICOL STIVEN",
+    "PRIETO GONZALEZ, ADRIAN",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "TORRE MACIA, RODRIGO",
+    "GARCIA SAYALERO, ALEJANDRO"
+  ],
+  "suplentes_local": [
+    "LOPEZ CAYON, BORJA",
+    "GONZALEZ SAIZ, IKER",
+    "DIAZ CORONA, MARCOS",
+    "GALLO POZUETA, ALVARO",
+    "DE DIEGO RUBAYO, SAUL"
+  ],
+  "suplentes_visitante": [
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "FERNANDEZ RUIZ, MARCO",
+    "TOMAS AJA, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "DIAZ CORONA, MARCOS",
+    "GALLO POZUETA, ALVARO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "SORDO GOMEZ, ISMAEL",
+    "EZZAKRAOUI, OSAMA",
+    "SAINZ GONZALEZ, VALENTIN",
+    "MARTIN RUIZ, PABLO",
+    "GOMEZ GARCIA, LUCAS",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "PEREZ PINILLA, EMILIO",
+    "TERAN RUIZ, GERARDO",
+    "SAMANO TAZON, MANUEL",
+    "NOUKEU BALBAS, THIERRY STEVE",
+    "GONZALEZ SAIZ, IKER",
+    "DE DIEGO RUBAYO, SAUL",
+    "LOPEZ CAYON, BORJA"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "gomara rivas, MANUEL",
+    "GUTIERREZ MARTIN, JAVIER",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "HERRAN ALONSO, MARCO",
+    "MEDINA RICO, MAICOL STIVEN",
+    "PRIETO GONZALEZ, ADRIAN",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "TORRE MACIA, RODRIGO",
+    "GARCIA SAYALERO, ALEJANDRO",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "FERNANDEZ RUIZ, MARCO",
+    "TOMAS AJA, JAVIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "GONZALEZ SAIZ, IKER",
+      "sale": "NOUKEU BALBAS, THIERRY STEVE"
+    },
+    {
+      "min": 67,
+      "entra": "DE DIEGO RUBAYO, SAUL",
+      "sale": "SAMANO TAZON, MANUEL"
+    },
+    {
+      "min": 73,
+      "entra": "LOPEZ CAYON, BORJA",
+      "sale": "SORDO GOMEZ, ISMAEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "SAÑUDO BLAZQUEZ, ADRIAN",
+      "sale": "gomara rivas, MANUEL"
+    },
+    {
+      "min": 64,
+      "entra": "FERNANDEZ RUIZ, MARCO",
+      "sale": "PRIETO GONZALEZ, ADRIAN"
+    },
+    {
+      "min": 64,
+      "entra": "TOMAS AJA, JAVIER",
+      "sale": "NAVARRO SEOANE, NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "DE LA FUENTE CAYUSO, NICOLAS": 90,
+    "SORDO GOMEZ, ISMAEL": 73,
+    "EZZAKRAOUI, OSAMA": 90,
+    "SAINZ GONZALEZ, VALENTIN": 90,
+    "MARTIN RUIZ, PABLO": 90,
+    "GOMEZ GARCIA, LUCAS": 90,
+    "DIPSE, AUGUSTIN VALENTIN": 90,
+    "PEREZ PINILLA, EMILIO": 90,
+    "TERAN RUIZ, GERARDO": 90,
+    "SAMANO TAZON, MANUEL": 67,
+    "NOUKEU BALBAS, THIERRY STEVE": 50,
+    "GONZALEZ SAIZ, IKER": 40,
+    "DE DIEGO RUBAYO, SAUL": 23,
+    "LOPEZ CAYON, BORJA": 17,
+    "RODRIGUEZ AGUDO, HUGO": 90,
+    "gomara rivas, MANUEL": 61,
+    "GUTIERREZ MARTIN, JAVIER": 90,
+    "GARCIA DIEGO PEREZ, ANGEL": 90,
+    "HERRAN ALONSO, MARCO": 90,
+    "MEDINA RICO, MAICOL STIVEN": 90,
+    "PRIETO GONZALEZ, ADRIAN": 64,
+    "NAVARRO SEOANE, NICOLAS": 64,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 90,
+    "TORRE MACIA, RODRIGO": 90,
+    "GARCIA SAYALERO, ALEJANDRO": 90,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 29,
+    "FERNANDEZ RUIZ, MARCO": 26,
+    "TOMAS AJA, JAVIER": 26
+  },
+  "portero_local": "DE LA FUENTE CAYUSO, NICOLAS",
+  "portero_visitante": "RODRIGUEZ AGUDO, HUGO",
+  "dorsales_local": {
+    "DE LA FUENTE CAYUSO, NICOLAS": 1,
+    "SORDO GOMEZ, ISMAEL": 2,
+    "EZZAKRAOUI, OSAMA": 3,
+    "SAINZ GONZALEZ, VALENTIN": 4,
+    "MARTIN RUIZ, PABLO": 5,
+    "GOMEZ GARCIA, LUCAS": 6,
+    "DIPSE, AUGUSTIN VALENTIN": 7,
+    "PEREZ PINILLA, EMILIO": 10,
+    "TERAN RUIZ, GERARDO": 14,
+    "SAMANO TAZON, MANUEL": 19,
+    "NOUKEU BALBAS, THIERRY STEVE": 23
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ AGUDO, HUGO": 13,
+    "gomara rivas, MANUEL": 2,
+    "GUTIERREZ MARTIN, JAVIER": 5,
+    "GARCIA DIEGO PEREZ, ANGEL": 6,
+    "HERRAN ALONSO, MARCO": 8,
+    "MEDINA RICO, MAICOL STIVEN": 9,
+    "PRIETO GONZALEZ, ADRIAN": 11,
+    "NAVARRO SEOANE, NICOLAS": 12,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 14,
+    "TORRE MACIA, RODRIGO": 19,
+    "GARCIA SAYALERO, ALEJANDRO": 20
+  },
+  "suspendidos": []
+}
