@@ -1,0 +1,239 @@
+{
+  "acta_id": "B_9981262",
+  "filename": "Acta_B_9981262.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "14-12-2025",
+  "hora": "13:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ASTI-LEKU A",
+  "equipo_visitante": "ITURRIGORRI A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "VILLAMAYOR AMADO, IKER"
+  ],
+  "estadio": "LOS LLANOS",
+  "ciudad": "Portugalete",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "BARRENECHEA QUERO, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "CUÑADO AIZPURU, JOSU",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MERINO CURIEL, MIGUEL",
+  "entrenador_visitante": "ARNAIZ SERRADILLA, JOSE IGNACIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "LOPEZ SANTAMARINA, JESUS IGNACIO",
+  "delegado_campo_local": "IDIAÑEZ BERASTEGUI, EKAIN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "OLANO AYARZA, IGOR",
+  "titulares_local": [
+    "BAZ LUQUE, JÖEL",
+    "CUÑADO AIZPURU, JOSU",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "ELORZA CORRALES, IÑAKI",
+    "MURGA FERNANDEZ, LANDER",
+    "FERNANDEZ GONZALEZ, OIER",
+    "FERNANDEZ CARIDAD, ENEKO",
+    "CALVO PEÑAFIEL, ASIER",
+    "HERNANDO MIELGO, URKO"
+  ],
+  "titulares_visitante": [
+    "PANIAGUA RODRIGUEZ, IZAN",
+    "MIJANGOS BARDISA, IBAI",
+    "SANTISTEBAN VIGO, ARITZ",
+    "PALOMINO GONZALEZ, JON",
+    "HERRAIZ BENITO, JON",
+    "ORTIZ ROSALES, PEIO",
+    "PEREZ HELGUERA, ANDER",
+    "BARRENECHEA QUERO, ANDER",
+    "PRESA SEVILLA, ANDER",
+    "ATIENZA HUIDOBRO, JADEN",
+    "ZALDO DEL CAMPO, IKER"
+  ],
+  "suplentes_local": [
+    "DEL RIO GIL, MARKEL",
+    "PLANS DE DIEGO, LEZO",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "ORRANTIA ORTIZ DE ZARATE, GORKA",
+    "QUIROS DEL MOLINO, ENEKO",
+    "LORENTE PRADO, ANER"
+  ],
+  "suplentes_visitante": [
+    "GENTO GARCIA, UNAX",
+    "TORRE GUTIERREZ, ASIER",
+    "PELLITERO GARRIDO, LUKEN",
+    "RIBADULLA OBREGON, IZER",
+    "GARATE MARTINEZ, ANDER",
+    "LOPEZ MUR, ANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "DEL RIO GIL, MARKEL",
+    "VADILLO CASTRILLEJO, JON"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GENTO GARCIA, UNAX",
+    "PELLITERO GARRIDO, LUKEN",
+    "LOPEZ MUR, ANDER"
+  ],
+  "jugadores_local": [
+    "BAZ LUQUE, JÖEL",
+    "CUÑADO AIZPURU, JOSU",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "ELORZA CORRALES, IÑAKI",
+    "MURGA FERNANDEZ, LANDER",
+    "FERNANDEZ GONZALEZ, OIER",
+    "FERNANDEZ CARIDAD, ENEKO",
+    "CALVO PEÑAFIEL, ASIER",
+    "HERNANDO MIELGO, URKO",
+    "QUIROS DEL MOLINO, ENEKO",
+    "PLANS DE DIEGO, LEZO",
+    "LORENTE PRADO, ANER",
+    "ORRANTIA ORTIZ DE ZARATE, GORKA",
+    "FORTEA BARABINO, MATEO"
+  ],
+  "jugadores_visitante": [
+    "PANIAGUA RODRIGUEZ, IZAN",
+    "MIJANGOS BARDISA, IBAI",
+    "SANTISTEBAN VIGO, ARITZ",
+    "PALOMINO GONZALEZ, JON",
+    "HERRAIZ BENITO, JON",
+    "ORTIZ ROSALES, PEIO",
+    "PEREZ HELGUERA, ANDER",
+    "BARRENECHEA QUERO, ANDER",
+    "PRESA SEVILLA, ANDER",
+    "ATIENZA HUIDOBRO, JADEN",
+    "ZALDO DEL CAMPO, IKER",
+    "GARATE MARTINEZ, ANDER",
+    "TORRE GUTIERREZ, ASIER",
+    "RIBADULLA OBREGON, IZER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "QUIROS DEL MOLINO, ENEKO",
+      "sale": "CUÑADO AIZPURU, JOSU"
+    },
+    {
+      "min": 51,
+      "entra": "PLANS DE DIEGO, LEZO",
+      "sale": "ELORZA CORRALES, IÑAKI"
+    },
+    {
+      "min": 62,
+      "entra": "LORENTE PRADO, ANER",
+      "sale": "HERNANDO MIELGO, URKO"
+    },
+    {
+      "min": 62,
+      "entra": "ORRANTIA ORTIZ DE ZARATE, GORKA",
+      "sale": "FERNANDEZ GONZALEZ, OIER"
+    },
+    {
+      "min": 65,
+      "entra": "FORTEA BARABINO, MATEO",
+      "sale": "ELEXPURU GOMEZ, GORKA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GARATE MARTINEZ, ANDER",
+      "sale": "ZALDO DEL CAMPO, IKER"
+    },
+    {
+      "min": 40,
+      "entra": "TORRE GUTIERREZ, ASIER",
+      "sale": "PALOMINO GONZALEZ, JON"
+    },
+    {
+      "min": 58,
+      "entra": "RIBADULLA OBREGON, IZER",
+      "sale": "ATIENZA HUIDOBRO, JADEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "BAZ LUQUE, JÖEL": 90,
+    "CUÑADO AIZPURU, JOSU": 51,
+    "ALCANTARA IBAÑEZ, BEÑAT": 90,
+    "ABAD MEDIAVILLA, LIHER": 90,
+    "ELEXPURU GOMEZ, GORKA": 65,
+    "ELORZA CORRALES, IÑAKI": 51,
+    "MURGA FERNANDEZ, LANDER": 90,
+    "FERNANDEZ GONZALEZ, OIER": 62,
+    "FERNANDEZ CARIDAD, ENEKO": 90,
+    "CALVO PEÑAFIEL, ASIER": 90,
+    "HERNANDO MIELGO, URKO": 62,
+    "QUIROS DEL MOLINO, ENEKO": 39,
+    "PLANS DE DIEGO, LEZO": 39,
+    "LORENTE PRADO, ANER": 28,
+    "ORRANTIA ORTIZ DE ZARATE, GORKA": 28,
+    "FORTEA BARABINO, MATEO": 25,
+    "PANIAGUA RODRIGUEZ, IZAN": 90,
+    "MIJANGOS BARDISA, IBAI": 90,
+    "SANTISTEBAN VIGO, ARITZ": 90,
+    "PALOMINO GONZALEZ, JON": 40,
+    "HERRAIZ BENITO, JON": 90,
+    "ORTIZ ROSALES, PEIO": 90,
+    "PEREZ HELGUERA, ANDER": 90,
+    "BARRENECHEA QUERO, ANDER": 90,
+    "PRESA SEVILLA, ANDER": 90,
+    "ATIENZA HUIDOBRO, JADEN": 58,
+    "ZALDO DEL CAMPO, IKER": 40,
+    "GARATE MARTINEZ, ANDER": 50,
+    "TORRE GUTIERREZ, ASIER": 50,
+    "RIBADULLA OBREGON, IZER": 32
+  },
+  "portero_local": "BAZ LUQUE, JÖEL",
+  "portero_visitante": "PANIAGUA RODRIGUEZ, IZAN",
+  "dorsales_local": {
+    "BAZ LUQUE, JÖEL": 13,
+    "CUÑADO AIZPURU, JOSU": 3,
+    "ALCANTARA IBAÑEZ, BEÑAT": 4,
+    "ABAD MEDIAVILLA, LIHER": 5,
+    "ELEXPURU GOMEZ, GORKA": 6,
+    "ELORZA CORRALES, IÑAKI": 9,
+    "MURGA FERNANDEZ, LANDER": 15,
+    "FERNANDEZ GONZALEZ, OIER": 19,
+    "FERNANDEZ CARIDAD, ENEKO": 21,
+    "CALVO PEÑAFIEL, ASIER": 22,
+    "HERNANDO MIELGO, URKO": 23
+  },
+  "dorsales_visitante": {
+    "PANIAGUA RODRIGUEZ, IZAN": 13,
+    "MIJANGOS BARDISA, IBAI": 2,
+    "SANTISTEBAN VIGO, ARITZ": 3,
+    "PALOMINO GONZALEZ, JON": 4,
+    "HERRAIZ BENITO, JON": 6,
+    "ORTIZ ROSALES, PEIO": 7,
+    "PEREZ HELGUERA, ANDER": 8,
+    "BARRENECHEA QUERO, ANDER": 10,
+    "PRESA SEVILLA, ANDER": 17,
+    "ATIENZA HUIDOBRO, JADEN": 19,
+    "ZALDO DEL CAMPO, IKER": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
