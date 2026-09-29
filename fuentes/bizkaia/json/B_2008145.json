@@ -1,0 +1,287 @@
+{
+  "acta_id": "B_2008145",
+  "filename": "Acta_B_2008145.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "24-11-2024",
+  "hora": "12:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ASKARTZA A",
+  "equipo_visitante": "BARAKALDO B",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "FRANCO SANTANA, MIKEL ANDER"
+  ],
+  "estadio": "ASKARTZA CLARET",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "VAZQUEZ SANGUINO, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "BUSTOS BARRIO, IKER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "SOBRADO MENDEZ, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "ARRIZABALAGA BLASCO, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "LOPEZ ORTEGA, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 33,
+      "jugador": "MARDONES SAITUA, JULEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 33,
+      "jugador": "SANZ BANCALERO, XABIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SÁNCHEZ FUENTES, XABIER",
+  "entrenador_visitante": "BERASALUCE CAMPOS, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BENGOA GAZTELU, ASIER",
+  "delegado_equipo_visitante": "PEDROSA MARTIN, OSKAR",
+  "titulares_local": [
+    "EZPELETA CORCOSTEGUI, UNAX",
+    "ARMOLEA OJANGUREN, EKAIN",
+    "ARRUEBARRENA ATUTXA, UNAX",
+    "TOLEDO ARANZABE, ARITZ",
+    "SOUTO YESTE, ADRIAN",
+    "OROZKO BUSTILLO, MARKEL",
+    "MARDONES SAITUA, JULEN",
+    "ASANZA AYO, ARITZ",
+    "MORENO PERSONA, ANDER",
+    "RODRIGUEZ GAMAZO, AGER",
+    "EGUIA PARRA, UNAI"
+  ],
+  "titulares_visitante": [
+    "GARCIA MADROÑAL, JUN",
+    "SOBRADO MENDEZ, MARKEL",
+    "GARCIA GONZALEZ, UNAI",
+    "PRIETO RUIZ, JULEN",
+    "GARCIA MELLA, IZAN",
+    "TAZARKI JERBI, OMAR",
+    "SANZ BANCALERO, XABIER",
+    "LOPEZ LECUE, UNAI",
+    "ARIZTONDO PORTILLO, OINATZ",
+    "VAZQUEZ SANGUINO, MIKEL",
+    "BUSTOS BARRIO, IKER"
+  ],
+  "suplentes_local": [
+    "ECHEVARRIA AROSTEGUI, MARKEL",
+    "SALGUERO LOZANO, TXABER",
+    "RUIZ PEÑA, ELEDER",
+    "FARENC OSTALOZA, DAMIAN",
+    "IBAÑEZ FERNÁNDEZ, ANDER",
+    "VAZ IBAÑEZ, ARITZ",
+    "BERROETA CAÑAS, AITOR"
+  ],
+  "suplentes_visitante": [
+    "MARTIN DIAZ, LUCAS",
+    "LOPEZ ORTEGA, OIER",
+    "ARRIZABALAGA BLASCO, MIKEL",
+    "GONZALEZ ALDAY, ANDER",
+    "SAINZ AVILA, LUCAS",
+    "GOROSPE MAZA, ARITZ",
+    "ESPINACO PEREDA, ANDONI"
+  ],
+  "convocados_sin_jugar_local": [
+    "ECHEVARRIA AROSTEGUI, MARKEL",
+    "VAZ IBAÑEZ, ARITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MARTIN DIAZ, LUCAS",
+    "SAINZ AVILA, LUCAS"
+  ],
+  "jugadores_local": [
+    "EZPELETA CORCOSTEGUI, UNAX",
+    "ARMOLEA OJANGUREN, EKAIN",
+    "ARRUEBARRENA ATUTXA, UNAX",
+    "TOLEDO ARANZABE, ARITZ",
+    "SOUTO YESTE, ADRIAN",
+    "OROZKO BUSTILLO, MARKEL",
+    "MARDONES SAITUA, JULEN",
+    "ASANZA AYO, ARITZ",
+    "MORENO PERSONA, ANDER",
+    "RODRIGUEZ GAMAZO, AGER",
+    "EGUIA PARRA, UNAI",
+    "RUIZ PEÑA, ELEDER",
+    "BERROETA CAÑAS, AITOR",
+    "IBAÑEZ FERNÁNDEZ, ANDER",
+    "FARENC OSTALOZA, DAMIAN",
+    "SALGUERO LOZANO, TXABER"
+  ],
+  "jugadores_visitante": [
+    "GARCIA MADROÑAL, JUN",
+    "SOBRADO MENDEZ, MARKEL",
+    "GARCIA GONZALEZ, UNAI",
+    "PRIETO RUIZ, JULEN",
+    "GARCIA MELLA, IZAN",
+    "TAZARKI JERBI, OMAR",
+    "SANZ BANCALERO, XABIER",
+    "LOPEZ LECUE, UNAI",
+    "ARIZTONDO PORTILLO, OINATZ",
+    "VAZQUEZ SANGUINO, MIKEL",
+    "BUSTOS BARRIO, IKER",
+    "ARRIZABALAGA BLASCO, MIKEL",
+    "ESPINACO PEREDA, ANDONI",
+    "LOPEZ ORTEGA, OIER",
+    "GOROSPE MAZA, ARITZ",
+    "GONZALEZ ALDAY, ANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "RUIZ PEÑA, ELEDER",
+      "sale": "SOUTO YESTE, ADRIAN"
+    },
+    {
+      "min": 50,
+      "entra": "BERROETA CAÑAS, AITOR",
+      "sale": "ARMOLEA OJANGUREN, EKAIN"
+    },
+    {
+      "min": 57,
+      "entra": "IBAÑEZ FERNÁNDEZ, ANDER",
+      "sale": "RODRIGUEZ GAMAZO, AGER"
+    },
+    {
+      "min": 68,
+      "entra": "FARENC OSTALOZA, DAMIAN",
+      "sale": "EGUIA PARRA, UNAI"
+    },
+    {
+      "min": 68,
+      "entra": "SALGUERO LOZANO, TXABER",
+      "sale": "ASANZA AYO, ARITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "ARRIZABALAGA BLASCO, MIKEL",
+      "sale": "GARCIA GONZALEZ, UNAI"
+    },
+    {
+      "min": 53,
+      "entra": "ESPINACO PEREDA, ANDONI",
+      "sale": "LOPEZ LECUE, UNAI"
+    },
+    {
+      "min": 63,
+      "entra": "LOPEZ ORTEGA, OIER",
+      "sale": "BUSTOS BARRIO, IKER"
+    },
+    {
+      "min": 63,
+      "entra": "GOROSPE MAZA, ARITZ",
+      "sale": "VAZQUEZ SANGUINO, MIKEL"
+    },
+    {
+      "min": 68,
+      "entra": "GONZALEZ ALDAY, ANDER",
+      "sale": "TAZARKI JERBI, OMAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "EZPELETA CORCOSTEGUI, UNAX": 90,
+    "ARMOLEA OJANGUREN, EKAIN": 50,
+    "ARRUEBARRENA ATUTXA, UNAX": 90,
+    "TOLEDO ARANZABE, ARITZ": 90,
+    "SOUTO YESTE, ADRIAN": 50,
+    "OROZKO BUSTILLO, MARKEL": 90,
+    "MARDONES SAITUA, JULEN": 90,
+    "ASANZA AYO, ARITZ": 68,
+    "MORENO PERSONA, ANDER": 90,
+    "RODRIGUEZ GAMAZO, AGER": 57,
+    "EGUIA PARRA, UNAI": 68,
+    "RUIZ PEÑA, ELEDER": 40,
+    "BERROETA CAÑAS, AITOR": 40,
+    "IBAÑEZ FERNÁNDEZ, ANDER": 33,
+    "FARENC OSTALOZA, DAMIAN": 22,
+    "SALGUERO LOZANO, TXABER": 22,
+    "GARCIA MADROÑAL, JUN": 90,
+    "SOBRADO MENDEZ, MARKEL": 90,
+    "GARCIA GONZALEZ, UNAI": 53,
+    "PRIETO RUIZ, JULEN": 90,
+    "GARCIA MELLA, IZAN": 90,
+    "TAZARKI JERBI, OMAR": 68,
+    "SANZ BANCALERO, XABIER": 90,
+    "LOPEZ LECUE, UNAI": 53,
+    "ARIZTONDO PORTILLO, OINATZ": 90,
+    "VAZQUEZ SANGUINO, MIKEL": 63,
+    "BUSTOS BARRIO, IKER": 63,
+    "ARRIZABALAGA BLASCO, MIKEL": 37,
+    "ESPINACO PEREDA, ANDONI": 37,
+    "LOPEZ ORTEGA, OIER": 27,
+    "GOROSPE MAZA, ARITZ": 27,
+    "GONZALEZ ALDAY, ANDER": 22
+  },
+  "portero_local": "EZPELETA CORCOSTEGUI, UNAX",
+  "portero_visitante": "GARCIA MADROÑAL, JUN",
+  "dorsales_local": {
+    "EZPELETA CORCOSTEGUI, UNAX": 13,
+    "ARMOLEA OJANGUREN, EKAIN": 2,
+    "ARRUEBARRENA ATUTXA, UNAX": 3,
+    "TOLEDO ARANZABE, ARITZ": 5,
+    "SOUTO YESTE, ADRIAN": 7,
+    "OROZKO BUSTILLO, MARKEL": 9,
+    "MARDONES SAITUA, JULEN": 10,
+    "ASANZA AYO, ARITZ": 11,
+    "MORENO PERSONA, ANDER": 12,
+    "RODRIGUEZ GAMAZO, AGER": 15,
+    "EGUIA PARRA, UNAI": 17
+  },
+  "dorsales_visitante": {
+    "GARCIA MADROÑAL, JUN": 13,
+    "SOBRADO MENDEZ, MARKEL": 2,
+    "GARCIA GONZALEZ, UNAI": 3,
+    "PRIETO RUIZ, JULEN": 4,
+    "GARCIA MELLA, IZAN": 5,
+    "TAZARKI JERBI, OMAR": 8,
+    "SANZ BANCALERO, XABIER": 10,
+    "LOPEZ LECUE, UNAI": 12,
+    "ARIZTONDO PORTILLO, OINATZ": 19,
+    "VAZQUEZ SANGUINO, MIKEL": 21,
+    "BUSTOS BARRIO, IKER": 22
+  },
+  "suspendidos": []
+}
