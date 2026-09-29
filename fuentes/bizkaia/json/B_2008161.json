@@ -1,0 +1,252 @@
+{
+  "acta_id": "B_2008161",
+  "filename": "Acta_B_2008161.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 10,
+  "fecha": "07-12-2024",
+  "hora": "18:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "GAZTELUETA A",
+  "equipo_visitante": "SPORTING DE LUTXANA A",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "BILBAO ZUGAZA, SANTIAGO"
+  ],
+  "estadio": "GAZTELUETA",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "ZUGAZABEITIA BENGOA, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "ORTIZ LAGO, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 32,
+      "jugador": "GONZALEZ TOLEDO, HERMES NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "GONZALEZ TOLEDO, HERMES NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "GARTEIZ-GOGEASCOA ORAA, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 71,
+      "jugador": "FERNANDEZ DE PRADO, GABRIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "GOMEZ LOPEZ, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "OLIVA BERNAL, UNAX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "GARRIDO COSTA, GAIZKA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BURON PAREDES, RODRIGO",
+  "delegado_equipo_visitante": "ZUAZO IGLESIAS, IÑIGO",
+  "titulares_local": [
+    "VÁZQUEZ ZALBIDEA, IGNACIO",
+    "SÁNCHEZ MURGA, LEOPOLDO",
+    "ARISTI DEL FRESNO, PABLO",
+    "DEL RIO CASTIELLA, NICOLAS",
+    "INFANTE LOPEZ, JUAN",
+    "LOPEZ SANZ, JULEN",
+    "LASA IRIGORAS, IÑIGO",
+    "GARTEIZ-GOGEASCOA ORAA, JORGE",
+    "ZUGAZABEITIA BENGOA, ALVARO",
+    "ZUMÁRRAGA MUGURUZA, JAIME",
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS"
+  ],
+  "titulares_visitante": [
+    "VARONA LIZARAZU, ALAIN",
+    "CONDE PRIETO, EGOITZ",
+    "GOMEZ LOPEZ, ANDER",
+    "ORTIZ LAGO, UNAI",
+    "ROMERO PEREZ, MIKEL",
+    "LIRA GONZALEZ, AIMAR",
+    "GONZALEZ TOLEDO, HERMES NICOLAS",
+    "MONTES SANGRONIZ, ASIER",
+    "JAZOULI EL GHAZI, HOUSSAM",
+    "LOPEZ LAGO, ANDER",
+    "OLIVA BERNAL, UNAX"
+  ],
+  "suplentes_local": [
+    "DEL RIO DE LECEA, ELIAS",
+    "TUBET POCH, PABLO",
+    "VIDONDO ANGULO, PABLO",
+    "HERVÁS PASCUAL, JAVIER",
+    "FERNANDEZ DE PRADO, GABRIEL"
+  ],
+  "suplentes_visitante": [
+    "VELASQUEZ GODOY, STEFANO RAFAEL",
+    "SORIANO CARPINTERO, IORITZ",
+    "ROMERO ANGULO, ALEXIS SANTIAGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "TUBET POCH, PABLO",
+    "VIDONDO ANGULO, PABLO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "VELASQUEZ GODOY, STEFANO RAFAEL"
+  ],
+  "jugadores_local": [
+    "VÁZQUEZ ZALBIDEA, IGNACIO",
+    "SÁNCHEZ MURGA, LEOPOLDO",
+    "ARISTI DEL FRESNO, PABLO",
+    "DEL RIO CASTIELLA, NICOLAS",
+    "INFANTE LOPEZ, JUAN",
+    "LOPEZ SANZ, JULEN",
+    "LASA IRIGORAS, IÑIGO",
+    "GARTEIZ-GOGEASCOA ORAA, JORGE",
+    "ZUGAZABEITIA BENGOA, ALVARO",
+    "ZUMÁRRAGA MUGURUZA, JAIME",
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS",
+    "HERVÁS PASCUAL, JAVIER",
+    "FERNANDEZ DE PRADO, GABRIEL",
+    "DEL RIO DE LECEA, ELIAS"
+  ],
+  "jugadores_visitante": [
+    "VARONA LIZARAZU, ALAIN",
+    "CONDE PRIETO, EGOITZ",
+    "GOMEZ LOPEZ, ANDER",
+    "ORTIZ LAGO, UNAI",
+    "ROMERO PEREZ, MIKEL",
+    "LIRA GONZALEZ, AIMAR",
+    "GONZALEZ TOLEDO, HERMES NICOLAS",
+    "MONTES SANGRONIZ, ASIER",
+    "JAZOULI EL GHAZI, HOUSSAM",
+    "LOPEZ LAGO, ANDER",
+    "OLIVA BERNAL, UNAX",
+    "ROMERO ANGULO, ALEXIS SANTIAGO",
+    "SORIANO CARPINTERO, IORITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "HERVÁS PASCUAL, JAVIER",
+      "sale": "PRADO AROSTEGUI, FRANCISCO DE ASIS"
+    },
+    {
+      "min": 57,
+      "entra": "FERNANDEZ DE PRADO, GABRIEL",
+      "sale": "ZUGAZABEITIA BENGOA, ALVARO"
+    },
+    {
+      "min": 73,
+      "entra": "DEL RIO DE LECEA, ELIAS",
+      "sale": "LASA IRIGORAS, IÑIGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "ROMERO ANGULO, ALEXIS SANTIAGO",
+      "sale": "LOPEZ LAGO, ANDER"
+    },
+    {
+      "min": 57,
+      "entra": "SORIANO CARPINTERO, IORITZ",
+      "sale": "MONTES SANGRONIZ, ASIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "VÁZQUEZ ZALBIDEA, IGNACIO": 90,
+    "SÁNCHEZ MURGA, LEOPOLDO": 90,
+    "ARISTI DEL FRESNO, PABLO": 90,
+    "DEL RIO CASTIELLA, NICOLAS": 90,
+    "INFANTE LOPEZ, JUAN": 90,
+    "LOPEZ SANZ, JULEN": 90,
+    "LASA IRIGORAS, IÑIGO": 73,
+    "GARTEIZ-GOGEASCOA ORAA, JORGE": 90,
+    "ZUGAZABEITIA BENGOA, ALVARO": 57,
+    "ZUMÁRRAGA MUGURUZA, JAIME": 90,
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS": 52,
+    "HERVÁS PASCUAL, JAVIER": 38,
+    "FERNANDEZ DE PRADO, GABRIEL": 33,
+    "DEL RIO DE LECEA, ELIAS": 17,
+    "VARONA LIZARAZU, ALAIN": 90,
+    "CONDE PRIETO, EGOITZ": 90,
+    "GOMEZ LOPEZ, ANDER": 90,
+    "ORTIZ LAGO, UNAI": 90,
+    "ROMERO PEREZ, MIKEL": 90,
+    "LIRA GONZALEZ, AIMAR": 90,
+    "GONZALEZ TOLEDO, HERMES NICOLAS": 90,
+    "MONTES SANGRONIZ, ASIER": 57,
+    "JAZOULI EL GHAZI, HOUSSAM": 90,
+    "LOPEZ LAGO, ANDER": 53,
+    "OLIVA BERNAL, UNAX": 90,
+    "ROMERO ANGULO, ALEXIS SANTIAGO": 37,
+    "SORIANO CARPINTERO, IORITZ": 33
+  },
+  "portero_local": "VÁZQUEZ ZALBIDEA, IGNACIO",
+  "portero_visitante": "VARONA LIZARAZU, ALAIN",
+  "dorsales_local": {
+    "VÁZQUEZ ZALBIDEA, IGNACIO": 1,
+    "SÁNCHEZ MURGA, LEOPOLDO": 2,
+    "ARISTI DEL FRESNO, PABLO": 4,
+    "DEL RIO CASTIELLA, NICOLAS": 5,
+    "INFANTE LOPEZ, JUAN": 6,
+    "LOPEZ SANZ, JULEN": 7,
+    "LASA IRIGORAS, IÑIGO": 10,
+    "GARTEIZ-GOGEASCOA ORAA, JORGE": 11,
+    "ZUGAZABEITIA BENGOA, ALVARO": 12,
+    "ZUMÁRRAGA MUGURUZA, JAIME": 20,
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS": 21
+  },
+  "dorsales_visitante": {
+    "VARONA LIZARAZU, ALAIN": 13,
+    "CONDE PRIETO, EGOITZ": 2,
+    "GOMEZ LOPEZ, ANDER": 4,
+    "ORTIZ LAGO, UNAI": 7,
+    "ROMERO PEREZ, MIKEL": 9,
+    "LIRA GONZALEZ, AIMAR": 10,
+    "GONZALEZ TOLEDO, HERMES NICOLAS": 11,
+    "MONTES SANGRONIZ, ASIER": 12,
+    "JAZOULI EL GHAZI, HOUSSAM": 14,
+    "LOPEZ LAGO, ANDER": 17,
+    "OLIVA BERNAL, UNAX": 23
+  },
+  "suspendidos": []
+}
