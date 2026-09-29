@@ -1,0 +1,279 @@
+{
+  "acta_id": "G_9990231",
+  "filename": "Acta_G_9990231.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "21-09-2025",
+  "hora": "13:45",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "LENGOKOAK S.D.",
+  "equipo_visitante": "MARTUTENE KE B",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "LACASA LUNA, SERGIO"
+  ],
+  "estadio": "CESAR BENITO",
+  "ciudad": "DONOSTIA",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "VEGA, SANTIAGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "MUNOA LOPEZ DE TEJADA, TELMO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "OYARZABAL BASURTO, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 33,
+      "jugador": "CASTILLO ARRIETA, UNAX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "VEGA, SANTIAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "ORBE SANCHEZ, GUILLERMO VICENTE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PEREZ SUBIJANA, ASIER",
+  "entrenador_visitante": "TORRES DE LA CRUZ, HODEI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANZ DE GABIÑA, IKER",
+  "delegado_equipo_visitante": "SANCHEZ RODRIGUEZ, RUBEN",
+  "titulares_local": [
+    "MARAÑON GUILLAN, ASIER",
+    "OYARZABAL BASURTO, OIER",
+    "CASTILLO ARRIETA, UNAX",
+    "BEKHTI SAIM, ILIES ZINI",
+    "BERISTAIN SUINAGA, ANDER",
+    "VEGA, SANTIAGO",
+    "JAURRIETA EGUINO, PAUL",
+    "IMIZCOZ GIL, ANDER",
+    "URIZAR MENDOZA, JULEN",
+    "ZUBIRIA ARRESE-IGOR, URKO",
+    "MUNOA LOPEZ DE TEJADA, TELMO"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ ALONSO, DANEL",
+    "GALDOS SANZ, ODEI CHEN",
+    "ORBE SANCHEZ, GUILLERMO VICENTE",
+    "BENGOA SUSPERREGUI, JUAN",
+    "MANSOA TOLOSA, DIEGO",
+    "GRACIA GOÑI, ANDER",
+    "PLAZA ARTAJO, PABLO",
+    "RODRIGUEZ FERNANDEZ-IBARBURU, MATEO",
+    "IBAÑEZ ALVAREZ, IÑIGO",
+    "CINTERO LOZANO, OIHAN",
+    "SALAVERRIA NOGUEIRA, TOMAS"
+  ],
+  "suplentes_local": [
+    "LARREA RUIZ DE CORTAZAR, ENEKO",
+    "GARIN OLLAKINDIA, AMETS",
+    "ETXEBESTE MERINO, AMETS",
+    "SANZ MUÑOZ, UNAI",
+    "DELA CRUZ JOVES, RAVEN JAMES",
+    "ROZZI CACHO, DIEGO",
+    "GONZALEZ RAMOS, LIER"
+  ],
+  "suplentes_visitante": [
+    "KERSCHBAUM ELIZONDO, DANEL",
+    "MURUA DE LA MATA, AITOR",
+    "CUADRADO BUSTILLO, ALEXANDER",
+    "DEL POZO OZCARIZ, JON",
+    "GUIJARRO MARTIN, DIEGO",
+    "MINGUEZ GARRIDO, OIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "LARREA RUIZ DE CORTAZAR, ENEKO",
+    "ROZZI CACHO, DIEGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "KERSCHBAUM ELIZONDO, DANEL"
+  ],
+  "jugadores_local": [
+    "MARAÑON GUILLAN, ASIER",
+    "OYARZABAL BASURTO, OIER",
+    "CASTILLO ARRIETA, UNAX",
+    "BEKHTI SAIM, ILIES ZINI",
+    "BERISTAIN SUINAGA, ANDER",
+    "VEGA, SANTIAGO",
+    "JAURRIETA EGUINO, PAUL",
+    "IMIZCOZ GIL, ANDER",
+    "URIZAR MENDOZA, JULEN",
+    "ZUBIRIA ARRESE-IGOR, URKO",
+    "MUNOA LOPEZ DE TEJADA, TELMO",
+    "DELA CRUZ JOVES, RAVEN JAMES",
+    "ETXEBESTE MERINO, AMETS",
+    "GONZALEZ RAMOS, LIER",
+    "GARIN OLLAKINDIA, AMETS",
+    "SANZ MUÑOZ, UNAI"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ ALONSO, DANEL",
+    "GALDOS SANZ, ODEI CHEN",
+    "ORBE SANCHEZ, GUILLERMO VICENTE",
+    "BENGOA SUSPERREGUI, JUAN",
+    "MANSOA TOLOSA, DIEGO",
+    "GRACIA GOÑI, ANDER",
+    "PLAZA ARTAJO, PABLO",
+    "RODRIGUEZ FERNANDEZ-IBARBURU, MATEO",
+    "IBAÑEZ ALVAREZ, IÑIGO",
+    "CINTERO LOZANO, OIHAN",
+    "SALAVERRIA NOGUEIRA, TOMAS",
+    "CUADRADO BUSTILLO, ALEXANDER",
+    "MINGUEZ GARRIDO, OIER",
+    "DEL POZO OZCARIZ, JON",
+    "MURUA DE LA MATA, AITOR",
+    "GUIJARRO MARTIN, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 27,
+      "entra": "DELA CRUZ JOVES, RAVEN JAMES",
+      "sale": "BEKHTI SAIM, ILIES ZINI"
+    },
+    {
+      "min": 51,
+      "entra": "ETXEBESTE MERINO, AMETS",
+      "sale": "IMIZCOZ GIL, ANDER"
+    },
+    {
+      "min": 61,
+      "entra": "GONZALEZ RAMOS, LIER",
+      "sale": "CASTILLO ARRIETA, UNAX"
+    },
+    {
+      "min": 64,
+      "entra": "GARIN OLLAKINDIA, AMETS",
+      "sale": "JAURRIETA EGUINO, PAUL"
+    },
+    {
+      "min": 64,
+      "entra": "SANZ MUÑOZ, UNAI",
+      "sale": "MUNOA LOPEZ DE TEJADA, TELMO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "CUADRADO BUSTILLO, ALEXANDER",
+      "sale": "GRACIA GOÑI, ANDER"
+    },
+    {
+      "min": 40,
+      "entra": "MINGUEZ GARRIDO, OIER",
+      "sale": "IBAÑEZ ALVAREZ, IÑIGO"
+    },
+    {
+      "min": 50,
+      "entra": "DEL POZO OZCARIZ, JON",
+      "sale": "BENGOA SUSPERREGUI, JUAN"
+    },
+    {
+      "min": 55,
+      "entra": "MURUA DE LA MATA, AITOR",
+      "sale": "CINTERO LOZANO, OIHAN"
+    },
+    {
+      "min": 55,
+      "entra": "GUIJARRO MARTIN, DIEGO",
+      "sale": "ORBE SANCHEZ, GUILLERMO VICENTE"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARAÑON GUILLAN, ASIER": 90,
+    "OYARZABAL BASURTO, OIER": 90,
+    "CASTILLO ARRIETA, UNAX": 61,
+    "BEKHTI SAIM, ILIES ZINI": 27,
+    "BERISTAIN SUINAGA, ANDER": 90,
+    "VEGA, SANTIAGO": 90,
+    "JAURRIETA EGUINO, PAUL": 64,
+    "IMIZCOZ GIL, ANDER": 51,
+    "URIZAR MENDOZA, JULEN": 90,
+    "ZUBIRIA ARRESE-IGOR, URKO": 90,
+    "MUNOA LOPEZ DE TEJADA, TELMO": 64,
+    "DELA CRUZ JOVES, RAVEN JAMES": 63,
+    "ETXEBESTE MERINO, AMETS": 39,
+    "GONZALEZ RAMOS, LIER": 29,
+    "GARIN OLLAKINDIA, AMETS": 26,
+    "SANZ MUÑOZ, UNAI": 26,
+    "RODRIGUEZ ALONSO, DANEL": 90,
+    "GALDOS SANZ, ODEI CHEN": 90,
+    "ORBE SANCHEZ, GUILLERMO VICENTE": 55,
+    "BENGOA SUSPERREGUI, JUAN": 50,
+    "MANSOA TOLOSA, DIEGO": 90,
+    "GRACIA GOÑI, ANDER": 40,
+    "PLAZA ARTAJO, PABLO": 90,
+    "RODRIGUEZ FERNANDEZ-IBARBURU, MATEO": 90,
+    "IBAÑEZ ALVAREZ, IÑIGO": 40,
+    "CINTERO LOZANO, OIHAN": 55,
+    "SALAVERRIA NOGUEIRA, TOMAS": 90,
+    "CUADRADO BUSTILLO, ALEXANDER": 50,
+    "MINGUEZ GARRIDO, OIER": 50,
+    "DEL POZO OZCARIZ, JON": 40,
+    "MURUA DE LA MATA, AITOR": 35,
+    "GUIJARRO MARTIN, DIEGO": 35
+  },
+  "portero_local": "MARAÑON GUILLAN, ASIER",
+  "portero_visitante": "RODRIGUEZ ALONSO, DANEL",
+  "dorsales_local": {
+    "MARAÑON GUILLAN, ASIER": 13,
+    "OYARZABAL BASURTO, OIER": 2,
+    "CASTILLO ARRIETA, UNAX": 3,
+    "BEKHTI SAIM, ILIES ZINI": 7,
+    "BERISTAIN SUINAGA, ANDER": 8,
+    "VEGA, SANTIAGO": 12,
+    "JAURRIETA EGUINO, PAUL": 14,
+    "IMIZCOZ GIL, ANDER": 18,
+    "URIZAR MENDOZA, JULEN": 19,
+    "ZUBIRIA ARRESE-IGOR, URKO": 22,
+    "MUNOA LOPEZ DE TEJADA, TELMO": 25
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ ALONSO, DANEL": 13,
+    "GALDOS SANZ, ODEI CHEN": 3,
+    "ORBE SANCHEZ, GUILLERMO VICENTE": 4,
+    "BENGOA SUSPERREGUI, JUAN": 5,
+    "MANSOA TOLOSA, DIEGO": 8,
+    "GRACIA GOÑI, ANDER": 10,
+    "PLAZA ARTAJO, PABLO": 11,
+    "RODRIGUEZ FERNANDEZ-IBARBURU, MATEO": 15,
+    "IBAÑEZ ALVAREZ, IÑIGO": 17,
+    "CINTERO LOZANO, OIHAN": 20,
+    "SALAVERRIA NOGUEIRA, TOMAS": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
