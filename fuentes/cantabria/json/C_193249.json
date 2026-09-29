@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_193249",
+  "filename": "Acta_C_193249.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 25,
+  "fecha": "15-03-2025",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "REAL RACING CLUB SAD B",
+  "equipo_visitante": "S.D. PEÑA REVILLA",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DE LA FUENTE RAMIREZ, JAVIER"
+  ],
+  "estadio": "Inst. Nando Yosu 3",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "RIVAS LEZCANO, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "RODRIGUEZ SANCHEZ, MATEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "URIARTE LOPEZ, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "ZULUAGA CATAÑO, CARLOS FELIPE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "VELEZ MEDINA, ALEXANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "MOLINA SECO, AURELIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "MOLINA SECO, AURELIO",
+  "segundo_entrenador_local": "GOMEZ ALVARO, JOSE ANTONIO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BOUWE KAMGA, ULRICH BRICE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BOUWE KAMGA, ULRICH BRICE",
+  "delegado_equipo_visitante": "MOLINA DE LA SERNA, DAVID",
+  "titulares_local": [
+    "LAVIN DEL HOYO, RAUL",
+    "PRESMANES PADILLA, IKER",
+    "MARTINEZ CALVO, DANIEL",
+    "URIARTE LOPEZ, HUGO",
+    "DE LA GRANJA PEREZ, HUGO",
+    "GOMEZ SERRANO, MANUEL",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "LOPEZ ARJONA, DANIEL THERA",
+    "MARTINEZ MONTERO, MANUEL",
+    "TEJERO ESTEBAN, MIGUEL",
+    "RIVAS LEZCANO, MARTIN"
+  ],
+  "titulares_visitante": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "CALVO GONZALEZ, MATEO",
+    "NARVAEZ GOMEZ, HUGO",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "NÚÑEZ GALINDO, DIEGO",
+    "ARENAS GÓMEZ, MARIO",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "DÍEZ DOBARGANES, LUCAS",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ SANCHEZ, MATEO",
+    "GARCIA PUERTO, IAN",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "GUTIERREZ RUIZ, MATEO",
+    "ZAVALA ESTEVE, MARIO"
+  ],
+  "suplentes_visitante": [
+    "MOLLEDA DEL OLMO, ADRIAN",
+    "PEREZ CASTRO, MARCO",
+    "CASTILLO FUENMAYOR, LEOMER DAVID",
+    "CASTILLO MONTES, MAURO",
+    "GONZALEZ BOCANEGRA, IZAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA PUERTO, IAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MOLLEDA DEL OLMO, ADRIAN"
+  ],
+  "jugadores_local": [
+    "LAVIN DEL HOYO, RAUL",
+    "PRESMANES PADILLA, IKER",
+    "MARTINEZ CALVO, DANIEL",
+    "URIARTE LOPEZ, HUGO",
+    "DE LA GRANJA PEREZ, HUGO",
+    "GOMEZ SERRANO, MANUEL",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "LOPEZ ARJONA, DANIEL THERA",
+    "MARTINEZ MONTERO, MANUEL",
+    "TEJERO ESTEBAN, MIGUEL",
+    "RIVAS LEZCANO, MARTIN",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "GUTIERREZ RUIZ, MATEO",
+    "RODRIGUEZ SANCHEZ, MATEO",
+    "ZAVALA ESTEVE, MARIO"
+  ],
+  "jugadores_visitante": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "CALVO GONZALEZ, MATEO",
+    "NARVAEZ GOMEZ, HUGO",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "NÚÑEZ GALINDO, DIEGO",
+    "ARENAS GÓMEZ, MARIO",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "DÍEZ DOBARGANES, LUCAS",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER",
+    "CASTILLO FUENMAYOR, LEOMER DAVID",
+    "GONZALEZ BOCANEGRA, IZAN",
+    "PEREZ CASTRO, MARCO",
+    "CASTILLO MONTES, MAURO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "COROZO TARIRA, SAMUEL LENIN",
+      "sale": "RIVAS LEZCANO, MARTIN"
+    },
+    {
+      "min": 40,
+      "entra": "GUTIERREZ RUIZ, MATEO",
+      "sale": "TEJERO ESTEBAN, MIGUEL"
+    },
+    {
+      "min": 50,
+      "entra": "RODRIGUEZ SANCHEZ, MATEO",
+      "sale": "MARTINEZ MONTERO, MANUEL"
+    },
+    {
+      "min": 50,
+      "entra": "ZAVALA ESTEVE, MARIO",
+      "sale": "MARTINEZ CALVO, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "CASTILLO FUENMAYOR, LEOMER DAVID",
+      "sale": "DÍEZ DOBARGANES, LUCAS"
+    },
+    {
+      "min": 67,
+      "entra": "GONZALEZ BOCANEGRA, IZAN",
+      "sale": "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO"
+    },
+    {
+      "min": 75,
+      "entra": "PEREZ CASTRO, MARCO",
+      "sale": "VELEZ MEDINA, ALEXANDER"
+    },
+    {
+      "min": 78,
+      "entra": "CASTILLO MONTES, MAURO",
+      "sale": "PASCAL, DAVID OCTAVIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "LAVIN DEL HOYO, RAUL": 90,
+    "PRESMANES PADILLA, IKER": 90,
+    "MARTINEZ CALVO, DANIEL": 50,
+    "URIARTE LOPEZ, HUGO": 90,
+    "DE LA GRANJA PEREZ, HUGO": 90,
+    "GOMEZ SERRANO, MANUEL": 90,
+    "TRESGALLO RODRIGUEZ, ULISES": 90,
+    "LOPEZ ARJONA, DANIEL THERA": 90,
+    "MARTINEZ MONTERO, MANUEL": 50,
+    "TEJERO ESTEBAN, MIGUEL": 40,
+    "RIVAS LEZCANO, MARTIN": 40,
+    "COROZO TARIRA, SAMUEL LENIN": 50,
+    "GUTIERREZ RUIZ, MATEO": 50,
+    "RODRIGUEZ SANCHEZ, MATEO": 40,
+    "ZAVALA ESTEVE, MARIO": 40,
+    "CORONADO RUIZ, ALEJANDRO": 90,
+    "CALVO GONZALEZ, MATEO": 90,
+    "NARVAEZ GOMEZ, HUGO": 90,
+    "PASCAL, DAVID OCTAVIAN": 78,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 90,
+    "NÚÑEZ GALINDO, DIEGO": 90,
+    "ARENAS GÓMEZ, MARIO": 90,
+    "GUARDEÑO KRASIMIROV, DANIEL": 90,
+    "DÍEZ DOBARGANES, LUCAS": 58,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 67,
+    "VELEZ MEDINA, ALEXANDER": 75,
+    "CASTILLO FUENMAYOR, LEOMER DAVID": 32,
+    "GONZALEZ BOCANEGRA, IZAN": 23,
+    "PEREZ CASTRO, MARCO": 15,
+    "CASTILLO MONTES, MAURO": 12
+  },
+  "portero_local": "LAVIN DEL HOYO, RAUL",
+  "portero_visitante": "CORONADO RUIZ, ALEJANDRO",
+  "dorsales_local": {
+    "LAVIN DEL HOYO, RAUL": 1,
+    "PRESMANES PADILLA, IKER": 2,
+    "MARTINEZ CALVO, DANIEL": 3,
+    "URIARTE LOPEZ, HUGO": 4,
+    "DE LA GRANJA PEREZ, HUGO": 5,
+    "GOMEZ SERRANO, MANUEL": 6,
+    "TRESGALLO RODRIGUEZ, ULISES": 7,
+    "LOPEZ ARJONA, DANIEL THERA": 8,
+    "MARTINEZ MONTERO, MANUEL": 9,
+    "TEJERO ESTEBAN, MIGUEL": 10,
+    "RIVAS LEZCANO, MARTIN": 11
+  },
+  "dorsales_visitante": {
+    "CORONADO RUIZ, ALEJANDRO": 13,
+    "CALVO GONZALEZ, MATEO": 2,
+    "NARVAEZ GOMEZ, HUGO": 3,
+    "PASCAL, DAVID OCTAVIAN": 4,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 5,
+    "NÚÑEZ GALINDO, DIEGO": 6,
+    "ARENAS GÓMEZ, MARIO": 7,
+    "GUARDEÑO KRASIMIROV, DANIEL": 8,
+    "DÍEZ DOBARGANES, LUCAS": 9,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 10,
+    "VELEZ MEDINA, ALEXANDER": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
