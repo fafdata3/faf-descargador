@@ -1,0 +1,291 @@
+{
+  "acta_id": "C_171363",
+  "filename": "Acta_C_171363.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 23,
+  "fecha": "10-03-2024",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT B",
+  "equipo_visitante": "C.D. CAYON A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DIEZ RODRIGUEZ, YERAY"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "García Fernández, AARON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "PARDO ANUARBE, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "agudo cuenca, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "ASON BALAGUER, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "REY LASTRA, JOSE LUIS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 25,
+      "jugador": "GANDARILLAS BUSTILLO, LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "LOPEZ GARCIA DEL POMAR, PELAYO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "ESCALADA COBO, SAMUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "SANTAMARIA SAINZ PARDO, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MESA SUAREZ, GERARDO",
+  "entrenador_visitante": "COBO RUIZ, MARIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "NEGUERUELA RUIZ, SERGIO",
+  "delegado_campo_local": "DEL CASTILLO SAEZ, MANUEL A",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DEL CASTILLO SAEZ, MANUEL A",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "agudo cuenca, DIEGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "RUBIN MUÑOZ, MICHEL",
+    "DE ANGEL BATYREV, LUCAS",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "RUIZ SAIZ, MARIO",
+    "Flor Martinez, IAGO",
+    "YELA GONZALEZ, MAURICIO",
+    "FUENTES PALLEJA, ERIK",
+    "ASON BALAGUER, MARIO"
+  ],
+  "titulares_visitante": [
+    "DIAZ RUIZ, MARCOS",
+    "PRIETO RODRIGUEZ, JOSE MARIA",
+    "SAINZ SAINZ, ISMAEL",
+    "SANTAMARIA SAINZ PARDO, ADRIAN",
+    "PARDO ANUARBE, HUGO",
+    "REVUELTA SAINZ, DIEGO",
+    "DIAZ REVUELTA, RODRIGO",
+    "ESCALADA COBO, SAMUEL",
+    "García Fernández, AARON",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "GANDARILLAS BUSTILLO, LUIS"
+  ],
+  "suplentes_local": [
+    "GARCIA GOMEZ, DANIEL",
+    "BRAVO DE CELIS, HUGO",
+    "REY LASTRA, JOSE LUIS",
+    "Montenegro Perez, MARCOS GERMAN",
+    "GONZALEZ CAMUS, MARCO"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ CASTIBLANCO, NICOLAS",
+    "POPOVICI, MADALIN",
+    "BARCENA CASTRO, HUGO",
+    "BECERRIL ALONSO, SERGIO",
+    "LAZA ORTIZ, PABLO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "agudo cuenca, DIEGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "RUBIN MUÑOZ, MICHEL",
+    "DE ANGEL BATYREV, LUCAS",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "RUIZ SAIZ, MARIO",
+    "Flor Martinez, IAGO",
+    "YELA GONZALEZ, MAURICIO",
+    "FUENTES PALLEJA, ERIK",
+    "ASON BALAGUER, MARIO",
+    "GARCIA GOMEZ, DANIEL",
+    "BRAVO DE CELIS, HUGO",
+    "REY LASTRA, JOSE LUIS",
+    "Montenegro Perez, MARCOS GERMAN",
+    "GONZALEZ CAMUS, MARCO"
+  ],
+  "jugadores_visitante": [
+    "DIAZ RUIZ, MARCOS",
+    "PRIETO RODRIGUEZ, JOSE MARIA",
+    "SAINZ SAINZ, ISMAEL",
+    "SANTAMARIA SAINZ PARDO, ADRIAN",
+    "PARDO ANUARBE, HUGO",
+    "REVUELTA SAINZ, DIEGO",
+    "DIAZ REVUELTA, RODRIGO",
+    "ESCALADA COBO, SAMUEL",
+    "García Fernández, AARON",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "GANDARILLAS BUSTILLO, LUIS",
+    "LAZA ORTIZ, PABLO",
+    "BECERRIL ALONSO, SERGIO",
+    "POPOVICI, MADALIN",
+    "FERNANDEZ CASTIBLANCO, NICOLAS",
+    "BARCENA CASTRO, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GARCIA GOMEZ, DANIEL",
+      "sale": "YELA GONZALEZ, MAURICIO"
+    },
+    {
+      "min": 66,
+      "entra": "BRAVO DE CELIS, HUGO",
+      "sale": "RUIZ SAIZ, MARIO"
+    },
+    {
+      "min": 68,
+      "entra": "REY LASTRA, JOSE LUIS",
+      "sale": "Flor Martinez, IAGO"
+    },
+    {
+      "min": 73,
+      "entra": "Montenegro Perez, MARCOS GERMAN",
+      "sale": "agudo cuenca, DIEGO"
+    },
+    {
+      "min": 73,
+      "entra": "GONZALEZ CAMUS, MARCO",
+      "sale": "LÓPEZ-VÁZQUEZ BELINCHON, MARCO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "LAZA ORTIZ, PABLO",
+      "sale": "GANDARILLAS BUSTILLO, LUIS"
+    },
+    {
+      "min": 56,
+      "entra": "BECERRIL ALONSO, SERGIO",
+      "sale": "LOPEZ GARCIA DEL POMAR, PELAYO"
+    },
+    {
+      "min": 70,
+      "entra": "POPOVICI, MADALIN",
+      "sale": "DIAZ REVUELTA, RODRIGO"
+    },
+    {
+      "min": 72,
+      "entra": "FERNANDEZ CASTIBLANCO, NICOLAS",
+      "sale": "García Fernández, AARON"
+    },
+    {
+      "min": 72,
+      "entra": "BARCENA CASTRO, HUGO",
+      "sale": "REVUELTA SAINZ, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ GOMEZ, HUGO": 90,
+    "agudo cuenca, DIEGO": 73,
+    "PORTILLA CAMUS, ALEJANDRO": 90,
+    "RUBIN MUÑOZ, MICHEL": 90,
+    "DE ANGEL BATYREV, LUCAS": 90,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 73,
+    "RUIZ SAIZ, MARIO": 66,
+    "Flor Martinez, IAGO": 68,
+    "YELA GONZALEZ, MAURICIO": 40,
+    "FUENTES PALLEJA, ERIK": 90,
+    "ASON BALAGUER, MARIO": 90,
+    "GARCIA GOMEZ, DANIEL": 50,
+    "BRAVO DE CELIS, HUGO": 24,
+    "REY LASTRA, JOSE LUIS": 22,
+    "Montenegro Perez, MARCOS GERMAN": 17,
+    "GONZALEZ CAMUS, MARCO": 17,
+    "DIAZ RUIZ, MARCOS": 90,
+    "PRIETO RODRIGUEZ, JOSE MARIA": 90,
+    "SAINZ SAINZ, ISMAEL": 90,
+    "SANTAMARIA SAINZ PARDO, ADRIAN": 90,
+    "PARDO ANUARBE, HUGO": 90,
+    "REVUELTA SAINZ, DIEGO": 72,
+    "DIAZ REVUELTA, RODRIGO": 70,
+    "ESCALADA COBO, SAMUEL": 90,
+    "García Fernández, AARON": 72,
+    "LOPEZ GARCIA DEL POMAR, PELAYO": 56,
+    "GANDARILLAS BUSTILLO, LUIS": 56,
+    "LAZA ORTIZ, PABLO": 34,
+    "BECERRIL ALONSO, SERGIO": 34,
+    "POPOVICI, MADALIN": 20,
+    "FERNANDEZ CASTIBLANCO, NICOLAS": 18,
+    "BARCENA CASTRO, HUGO": 18
+  },
+  "portero_local": "RODRIGUEZ GOMEZ, HUGO",
+  "portero_visitante": "DIAZ RUIZ, MARCOS",
+  "dorsales_local": {
+    "RODRIGUEZ GOMEZ, HUGO": 1,
+    "agudo cuenca, DIEGO": 2,
+    "PORTILLA CAMUS, ALEJANDRO": 3,
+    "RUBIN MUÑOZ, MICHEL": 4,
+    "DE ANGEL BATYREV, LUCAS": 5,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 6,
+    "RUIZ SAIZ, MARIO": 7,
+    "Flor Martinez, IAGO": 8,
+    "YELA GONZALEZ, MAURICIO": 9,
+    "FUENTES PALLEJA, ERIK": 10,
+    "ASON BALAGUER, MARIO": 11
+  },
+  "dorsales_visitante": {
+    "DIAZ RUIZ, MARCOS": 1,
+    "PRIETO RODRIGUEZ, JOSE MARIA": 2,
+    "SAINZ SAINZ, ISMAEL": 3,
+    "SANTAMARIA SAINZ PARDO, ADRIAN": 4,
+    "PARDO ANUARBE, HUGO": 5,
+    "REVUELTA SAINZ, DIEGO": 6,
+    "DIAZ REVUELTA, RODRIGO": 7,
+    "ESCALADA COBO, SAMUEL": 8,
+    "García Fernández, AARON": 9,
+    "LOPEZ GARCIA DEL POMAR, PELAYO": 10,
+    "GANDARILLAS BUSTILLO, LUIS": 11
+  },
+  "suspendidos": []
+}
