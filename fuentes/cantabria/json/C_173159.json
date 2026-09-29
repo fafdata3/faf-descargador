@@ -1,0 +1,330 @@
+{
+  "acta_id": "C_173159",
+  "filename": "Acta_C_173159.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "01-10-2023",
+  "hora": "11:25",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 4,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SISNIEGA SOL, IVAN"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "SIERRA GONZALEZ, KEVIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 7,
+      "jugador": "BEZANILLA GARCIA, AARON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "SAINZ DE LA MAZA CARRERAS, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "CRUZADO CUESTA, FABIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "HERRERA RUIZ, ADAHY",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "TRESGALLO RODRIGUEZ, ULISES",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "GOMEZ CONCHA, MATEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "TRESGALLO RODRIGUEZ, ULISES",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "HERRERA RUIZ, ADAHY",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "QUINTANA TORRE, MARTIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "GOMEZ CONCHA, MATEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "BEZANILLA GARCIA, AARON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "QUINTANA TORRE, MARTIN",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "TRICIO USLE, EDUARDO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "MADRAZO ARCO, JAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 31,
+      "jugador": "BARREDA MENDEZ, EDGAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "CRUZADO CUESTA, FABIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "TRESGALLO RODRIGUEZ, ULISES",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "CICERO MONTES, RAFAEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MINONDO SIERRA, MIGUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MADRAZO ARCO, JAVIER",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "FERNANDEZ FERNANDEZ, GABRIEL",
+    "BEZANILLA GARCIA, AARON",
+    "QUINTANA TORRE, MARTIN",
+    "GOMEZ CONCHA, MATEO",
+    "TRICIO USLE, EDUARDO",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "ORTIZ MANZANAS, LUCAS",
+    "GUTIERREZ SARABIA, OSEL",
+    "SIERRA GONZALEZ, KEVIN",
+    "ALONSO PEREZ, DARIO"
+  ],
+  "titulares_visitante": [
+    "HERRERA MAROTO, ROBERTO",
+    "CRESPO SÁINZ, ISIDRO",
+    "CRESPO SÁINZ, ÁNGEL",
+    "BARREDA MENDEZ, EDGAR",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "VELARDE VEGA, HECTOR",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "CRUZADO CUESTA, FABIO",
+    "HORNERO PEREZ, ROMAN",
+    "PEREDA MONJE, FERNANDO",
+    "HERRERA RUIZ, ADAHY"
+  ],
+  "suplentes_local": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "PORTILLA MAZA, ISMAEL",
+    "SAINZ ZAMORANO, NOE",
+    "SECADAS BARQUIN, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "MOROGLU OYARBIDE, LEO",
+    "LOPEZ GUERRA, VICTOR",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "SANCHEZ MONTEJO, MARIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "LOPEZ GUERRA, VICTOR",
+    "HERNÁNDEZ ÁLVAREZ, GAEL"
+  ],
+  "jugadores_local": [
+    "FERNANDEZ FERNANDEZ, GABRIEL",
+    "BEZANILLA GARCIA, AARON",
+    "QUINTANA TORRE, MARTIN",
+    "GOMEZ CONCHA, MATEO",
+    "TRICIO USLE, EDUARDO",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "ORTIZ MANZANAS, LUCAS",
+    "GUTIERREZ SARABIA, OSEL",
+    "SIERRA GONZALEZ, KEVIN",
+    "ALONSO PEREZ, DARIO",
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "PORTILLA MAZA, ISMAEL",
+    "SAINZ ZAMORANO, NOE",
+    "SECADAS BARQUIN, DIEGO"
+  ],
+  "jugadores_visitante": [
+    "HERRERA MAROTO, ROBERTO",
+    "CRESPO SÁINZ, ISIDRO",
+    "CRESPO SÁINZ, ÁNGEL",
+    "BARREDA MENDEZ, EDGAR",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "VELARDE VEGA, HECTOR",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "CRUZADO CUESTA, FABIO",
+    "HORNERO PEREZ, ROMAN",
+    "PEREDA MONJE, FERNANDO",
+    "HERRERA RUIZ, ADAHY",
+    "SANCHEZ MONTEJO, MARIO",
+    "MOROGLU OYARBIDE, LEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "ROMILA VASILACHE, ALEJANDRO ANDREI",
+      "sale": "FERNANDEZ FERNANDEZ, GABRIEL"
+    },
+    {
+      "min": 47,
+      "entra": "PORTILLA MAZA, ISMAEL",
+      "sale": "GOMEZ CONCHA, MATEO"
+    },
+    {
+      "min": 47,
+      "entra": "SAINZ ZAMORANO, NOE",
+      "sale": "SIERRA GONZALEZ, KEVIN"
+    },
+    {
+      "min": 54,
+      "entra": "SECADAS BARQUIN, DIEGO",
+      "sale": "RODRIGUEZ LABRADOR, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 29,
+      "entra": "SANCHEZ MONTEJO, MARIO",
+      "sale": "PEREDA MONJE, FERNANDO"
+    },
+    {
+      "min": 35,
+      "entra": "MOROGLU OYARBIDE, LEO",
+      "sale": "HERRERA MAROTO, ROBERTO"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ FERNANDEZ, GABRIEL": 35,
+    "BEZANILLA GARCIA, AARON": 90,
+    "QUINTANA TORRE, MARTIN": 90,
+    "GOMEZ CONCHA, MATEO": 47,
+    "TRICIO USLE, EDUARDO": 90,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 90,
+    "RODRIGUEZ LABRADOR, PABLO": 54,
+    "ORTIZ MANZANAS, LUCAS": 90,
+    "GUTIERREZ SARABIA, OSEL": 90,
+    "SIERRA GONZALEZ, KEVIN": 47,
+    "ALONSO PEREZ, DARIO": 90,
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 55,
+    "PORTILLA MAZA, ISMAEL": 43,
+    "SAINZ ZAMORANO, NOE": 43,
+    "SECADAS BARQUIN, DIEGO": 36,
+    "HERRERA MAROTO, ROBERTO": 35,
+    "CRESPO SÁINZ, ISIDRO": 90,
+    "CRESPO SÁINZ, ÁNGEL": 90,
+    "BARREDA MENDEZ, EDGAR": 90,
+    "GOMEZ CABIELLES, ALEJANDRO": 90,
+    "VELARDE VEGA, HECTOR": 90,
+    "TRESGALLO RODRIGUEZ, ULISES": 90,
+    "CRUZADO CUESTA, FABIO": 90,
+    "HORNERO PEREZ, ROMAN": 90,
+    "PEREDA MONJE, FERNANDO": 29,
+    "HERRERA RUIZ, ADAHY": 90,
+    "SANCHEZ MONTEJO, MARIO": 61,
+    "MOROGLU OYARBIDE, LEO": 55
+  },
+  "portero_local": "FERNANDEZ FERNANDEZ, GABRIEL",
+  "portero_visitante": "HERRERA MAROTO, ROBERTO",
+  "dorsales_local": {
+    "FERNANDEZ FERNANDEZ, GABRIEL": 1,
+    "BEZANILLA GARCIA, AARON": 2,
+    "QUINTANA TORRE, MARTIN": 4,
+    "GOMEZ CONCHA, MATEO": 6,
+    "TRICIO USLE, EDUARDO": 8,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 9,
+    "RODRIGUEZ LABRADOR, PABLO": 10,
+    "ORTIZ MANZANAS, LUCAS": 11,
+    "GUTIERREZ SARABIA, OSEL": 14,
+    "SIERRA GONZALEZ, KEVIN": 17,
+    "ALONSO PEREZ, DARIO": 19
+  },
+  "dorsales_visitante": {
+    "HERRERA MAROTO, ROBERTO": 1,
+    "CRESPO SÁINZ, ISIDRO": 4,
+    "CRESPO SÁINZ, ÁNGEL": 5,
+    "BARREDA MENDEZ, EDGAR": 6,
+    "GOMEZ CABIELLES, ALEJANDRO": 7,
+    "VELARDE VEGA, HECTOR": 9,
+    "TRESGALLO RODRIGUEZ, ULISES": 10,
+    "CRUZADO CUESTA, FABIO": 11,
+    "HORNERO PEREZ, ROMAN": 18,
+    "PEREDA MONJE, FERNANDO": 20,
+    "HERRERA RUIZ, ADAHY": 21
+  },
+  "suspendidos": [
+    "QUINTANA TORRE, MARTIN"
+  ],
+  "_marcador_widget": true
+}
