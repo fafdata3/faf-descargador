@@ -1,0 +1,248 @@
+{
+  "acta_id": "B_9982481",
+  "filename": "Acta_B_9982481.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 19,
+  "fecha": "14-02-2026",
+  "hora": "13:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ETXEBARRI A",
+  "equipo_visitante": "BASKAURI A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "HERNANDEZ GONZALEZ, PABLO"
+  ],
+  "estadio": "MUNICIPAL A",
+  "ciudad": "Etxebarri",
+  "goleadores": [
+    {
+      "minuto": 43,
+      "jugador": "GONZALEZ CASTILLO, DANEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "FERNANDEZ PAÑOS, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "RUIZ GARCIA DE VICUÑA, EDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "HERNANDEZ SANTISTEBAN, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "RIBOTE LACALLE, EDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ BALSERA, ERLAITZ",
+  "entrenador_visitante": "MARTINEZ MUÑIZ, AITOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CID HOMPANERA, ALEX",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "BEASKOETXEA SAN MARTIN, GORKA",
+  "titulares_local": [
+    "ANTOLIN HERRAEZ, ION",
+    "HIGUERO URIBE, LIER",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "RENTERIA BLANCO, IZEI",
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ALONSO VERGARA, MARKEL",
+    "ARTOLA BROCH, UNAI",
+    "MURUA SERNA, JULEN",
+    "MEDEL MOLINERO, SAÚL",
+    "GONZALEZ RUEDA, JON"
+  ],
+  "titulares_visitante": [
+    "MOLINA GARCIA, ALEX",
+    "MARUNTELU, IONUT EDUARD",
+    "RUIZ GARCIA DE VICUÑA, EDER",
+    "ALEJO LEJARRAGA, ENAITZ",
+    "RIBOTE LACALLE, EDER",
+    "TRIGUEROS BULLON, UNAX",
+    "ETXEZARRAGA URKIJO, PEIO",
+    "AGINAKO SOLAUN, XABIER",
+    "LOZANO LOPEZ, MARKEL",
+    "ESTEBAN GALLO, OIHAN",
+    "CORO LOPEZ, ALVARO"
+  ],
+  "suplentes_local": [
+    "SACRISTAN MARTIN, GABRIEL",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "DEL TESO CANDIL, MARKEL",
+    "RUFO CARRASCO, DANEL"
+  ],
+  "suplentes_visitante": [
+    "FUENTE OLIVA, MAREN",
+    "GONZALEZ CASTILLO, DANEL",
+    "OTERO LABRADOR, UNAI",
+    "BEASKOETXEA SANCHEZ, GALDER",
+    "LAMAS ZORRILLA, ENZO",
+    "GOMEZ LEJARZEGI, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "DEL TESO CANDIL, MARKEL",
+    "RUFO CARRASCO, DANEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "FUENTE OLIVA, MAREN"
+  ],
+  "jugadores_local": [
+    "ANTOLIN HERRAEZ, ION",
+    "HIGUERO URIBE, LIER",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "RENTERIA BLANCO, IZEI",
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ALONSO VERGARA, MARKEL",
+    "ARTOLA BROCH, UNAI",
+    "MURUA SERNA, JULEN",
+    "MEDEL MOLINERO, SAÚL",
+    "GONZALEZ RUEDA, JON",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "SACRISTAN MARTIN, GABRIEL"
+  ],
+  "jugadores_visitante": [
+    "MOLINA GARCIA, ALEX",
+    "MARUNTELU, IONUT EDUARD",
+    "RUIZ GARCIA DE VICUÑA, EDER",
+    "ALEJO LEJARRAGA, ENAITZ",
+    "RIBOTE LACALLE, EDER",
+    "TRIGUEROS BULLON, UNAX",
+    "ETXEZARRAGA URKIJO, PEIO",
+    "AGINAKO SOLAUN, XABIER",
+    "LOZANO LOPEZ, MARKEL",
+    "ESTEBAN GALLO, OIHAN",
+    "CORO LOPEZ, ALVARO",
+    "BEASKOETXEA SANCHEZ, GALDER",
+    "GONZALEZ CASTILLO, DANEL",
+    "LAMAS ZORRILLA, ENZO",
+    "GOMEZ LEJARZEGI, JON",
+    "OTERO LABRADOR, UNAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "ESPAÑA RAMOS, NIKOLAS",
+      "sale": "GONZALEZ RUEDA, JON"
+    },
+    {
+      "min": 50,
+      "entra": "SACRISTAN MARTIN, GABRIEL",
+      "sale": "ALONSO VERGARA, MARKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "BEASKOETXEA SANCHEZ, GALDER",
+      "sale": "ESTEBAN GALLO, OIHAN"
+    },
+    {
+      "min": 41,
+      "entra": "GONZALEZ CASTILLO, DANEL",
+      "sale": "LOZANO LOPEZ, MARKEL"
+    },
+    {
+      "min": 65,
+      "entra": "LAMAS ZORRILLA, ENZO",
+      "sale": "AGINAKO SOLAUN, XABIER"
+    },
+    {
+      "min": 70,
+      "entra": "GOMEZ LEJARZEGI, JON",
+      "sale": "CORO LOPEZ, ALVARO"
+    },
+    {
+      "min": 73,
+      "entra": "OTERO LABRADOR, UNAI",
+      "sale": "MARUNTELU, IONUT EDUARD"
+    }
+  ],
+  "minutos_jugadores": {
+    "ANTOLIN HERRAEZ, ION": 90,
+    "HIGUERO URIBE, LIER": 90,
+    "HERNANDEZ SANTISTEBAN, OIER": 90,
+    "RENTERIA BLANCO, IZEI": 90,
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER": 90,
+    "FERNANDEZ PAÑOS, AIMAR": 90,
+    "ALONSO VERGARA, MARKEL": 50,
+    "ARTOLA BROCH, UNAI": 90,
+    "MURUA SERNA, JULEN": 90,
+    "MEDEL MOLINERO, SAÚL": 90,
+    "GONZALEZ RUEDA, JON": 41,
+    "ESPAÑA RAMOS, NIKOLAS": 49,
+    "SACRISTAN MARTIN, GABRIEL": 40,
+    "MOLINA GARCIA, ALEX": 90,
+    "MARUNTELU, IONUT EDUARD": 73,
+    "RUIZ GARCIA DE VICUÑA, EDER": 90,
+    "ALEJO LEJARRAGA, ENAITZ": 90,
+    "RIBOTE LACALLE, EDER": 90,
+    "TRIGUEROS BULLON, UNAX": 90,
+    "ETXEZARRAGA URKIJO, PEIO": 90,
+    "AGINAKO SOLAUN, XABIER": 65,
+    "LOZANO LOPEZ, MARKEL": 41,
+    "ESTEBAN GALLO, OIHAN": 41,
+    "CORO LOPEZ, ALVARO": 70,
+    "BEASKOETXEA SANCHEZ, GALDER": 49,
+    "GONZALEZ CASTILLO, DANEL": 49,
+    "LAMAS ZORRILLA, ENZO": 25,
+    "GOMEZ LEJARZEGI, JON": 20,
+    "OTERO LABRADOR, UNAI": 17
+  },
+  "portero_local": "ANTOLIN HERRAEZ, ION",
+  "portero_visitante": "MOLINA GARCIA, ALEX",
+  "dorsales_local": {
+    "ANTOLIN HERRAEZ, ION": 1,
+    "HIGUERO URIBE, LIER": 4,
+    "HERNANDEZ SANTISTEBAN, OIER": 6,
+    "RENTERIA BLANCO, IZEI": 8,
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER": 9,
+    "FERNANDEZ PAÑOS, AIMAR": 10,
+    "ALONSO VERGARA, MARKEL": 12,
+    "ARTOLA BROCH, UNAI": 15,
+    "MURUA SERNA, JULEN": 16,
+    "MEDEL MOLINERO, SAÚL": 17,
+    "GONZALEZ RUEDA, JON": 21
+  },
+  "dorsales_visitante": {
+    "MOLINA GARCIA, ALEX": 13,
+    "MARUNTELU, IONUT EDUARD": 2,
+    "RUIZ GARCIA DE VICUÑA, EDER": 3,
+    "ALEJO LEJARRAGA, ENAITZ": 4,
+    "RIBOTE LACALLE, EDER": 5,
+    "TRIGUEROS BULLON, UNAX": 8,
+    "ETXEZARRAGA URKIJO, PEIO": 9,
+    "AGINAKO SOLAUN, XABIER": 12,
+    "LOZANO LOPEZ, MARKEL": 14,
+    "ESTEBAN GALLO, OIHAN": 21,
+    "CORO LOPEZ, ALVARO": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
