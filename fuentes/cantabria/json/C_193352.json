@@ -1,0 +1,265 @@
+{
+  "acta_id": "C_193352",
+  "filename": "Acta_C_193352.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 3,
+  "fecha": "05-10-2024",
+  "hora": "10:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "REAL RACING CLUB SAD A",
+  "equipo_visitante": "CLUB BANSANDER A",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PACHECO COTERO, MARIO"
+  ],
+  "estadio": "Inst. Nando Yosu 3",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "VILLAR IEVMENOV, BRYAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "STEGEN FERREIRA, GUILLERMO BASTIAN JUNIOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "STEGEN FERREIRA, GUILLERMO BASTIAN JUNIOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "RUIZ FERNÁNDEZ, JOEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "LINAJE GONZALEZ, PELAYO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 25,
+      "jugador": "LOPEZ ESCALADA, EDUARDO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "ASENSIO GARCÍA, MANUEL",
+  "entrenador_visitante": "LOPEZ ESCALADA, EDUARDO",
+  "segundo_entrenador_local": "BARQUIN CASAR, FRANCISCO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "TERAN LOPEZ, JULIAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TERAN LOPEZ, JULIAN",
+  "delegado_equipo_visitante": "PACHON MESIERT, IGNACIO",
+  "titulares_local": [
+    "GARCIA PUERTO, IAN",
+    "VELADO RIOS, CARLOS",
+    "ORTIZ VIADERO, SAMUEL",
+    "LOPEZ LAMEIRO, MATEO",
+    "COTERILLO FERNANDEZ, HECTOR",
+    "COLSA AGUIRREBURUALDE, ROMAN",
+    "BUENO CASTILLO, DANIEL",
+    "DIAZ CAMPO, MARIO",
+    "STEGEN FERREIRA, GUILLERMO BASTIAN JUNIOR",
+    "SALAS GARRIDO, MAURO",
+    "LOPEZ-TAFALL AUTILLO, JACOBO"
+  ],
+  "titulares_visitante": [
+    "SAMPEDRO GOMEZ, JOSE RAMON",
+    "LOPEZ PELAYO, GONZALO",
+    "LIAÑO PILA, MARIO",
+    "VILLAR IEVMENOV, BRYAN",
+    "CARRERA ALONSO, DARIO",
+    "RUIZ FERNÁNDEZ, JOEL",
+    "PELAYO CANO, ALVARO",
+    "DIAZ ESPESO, HUGO",
+    "DE ANGEL BATYREV, ENRIQUE ADRIAN",
+    "RUIZ ALONSO, ANTONIO",
+    "SANTAMARIA PEREZ, MARIO"
+  ],
+  "suplentes_local": [
+    "SAÑUDO CAMUS, JORGE",
+    "PELLON PEREZ, JUAN",
+    "LANZA CAVIEDES, JORGE",
+    "VALLE OBREGON, MARTIN",
+    "CARRAL RUISANCHEZ, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "MEJIAS CABRERO, GONZALO",
+    "NEWTON HOWIE, ELEK LUI",
+    "PRIETO SAIZ, ALEJANDRO",
+    "LINAJE GONZALEZ, PELAYO",
+    "CABRERA CALVO, LEO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "MEJIAS CABRERO, GONZALO"
+  ],
+  "jugadores_local": [
+    "GARCIA PUERTO, IAN",
+    "VELADO RIOS, CARLOS",
+    "ORTIZ VIADERO, SAMUEL",
+    "LOPEZ LAMEIRO, MATEO",
+    "COTERILLO FERNANDEZ, HECTOR",
+    "COLSA AGUIRREBURUALDE, ROMAN",
+    "BUENO CASTILLO, DANIEL",
+    "DIAZ CAMPO, MARIO",
+    "STEGEN FERREIRA, GUILLERMO BASTIAN JUNIOR",
+    "SALAS GARRIDO, MAURO",
+    "LOPEZ-TAFALL AUTILLO, JACOBO",
+    "LANZA CAVIEDES, JORGE",
+    "VALLE OBREGON, MARTIN",
+    "SAÑUDO CAMUS, JORGE",
+    "PELLON PEREZ, JUAN",
+    "CARRAL RUISANCHEZ, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "SAMPEDRO GOMEZ, JOSE RAMON",
+    "LOPEZ PELAYO, GONZALO",
+    "LIAÑO PILA, MARIO",
+    "VILLAR IEVMENOV, BRYAN",
+    "CARRERA ALONSO, DARIO",
+    "RUIZ FERNÁNDEZ, JOEL",
+    "PELAYO CANO, ALVARO",
+    "DIAZ ESPESO, HUGO",
+    "DE ANGEL BATYREV, ENRIQUE ADRIAN",
+    "RUIZ ALONSO, ANTONIO",
+    "SANTAMARIA PEREZ, MARIO",
+    "CABRERA CALVO, LEO",
+    "PRIETO SAIZ, ALEJANDRO",
+    "LINAJE GONZALEZ, PELAYO",
+    "NEWTON HOWIE, ELEK LUI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "LANZA CAVIEDES, JORGE",
+      "sale": "ORTIZ VIADERO, SAMUEL"
+    },
+    {
+      "min": 35,
+      "entra": "VALLE OBREGON, MARTIN",
+      "sale": "STEGEN FERREIRA, GUILLERMO BASTIAN JUNIOR"
+    },
+    {
+      "min": 35,
+      "entra": "SAÑUDO CAMUS, JORGE",
+      "sale": "GARCIA PUERTO, IAN"
+    },
+    {
+      "min": 35,
+      "entra": "PELLON PEREZ, JUAN",
+      "sale": "VELADO RIOS, CARLOS"
+    },
+    {
+      "min": 35,
+      "entra": "CARRAL RUISANCHEZ, DANIEL",
+      "sale": "SALAS GARRIDO, MAURO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "CABRERA CALVO, LEO",
+      "sale": "DE ANGEL BATYREV, ENRIQUE ADRIAN"
+    },
+    {
+      "min": 48,
+      "entra": "PRIETO SAIZ, ALEJANDRO",
+      "sale": "PELAYO CANO, ALVARO"
+    },
+    {
+      "min": 48,
+      "entra": "LINAJE GONZALEZ, PELAYO",
+      "sale": "RUIZ ALONSO, ANTONIO"
+    },
+    {
+      "min": 58,
+      "entra": "NEWTON HOWIE, ELEK LUI",
+      "sale": "VILLAR IEVMENOV, BRYAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA PUERTO, IAN": 35,
+    "VELADO RIOS, CARLOS": 35,
+    "ORTIZ VIADERO, SAMUEL": 35,
+    "LOPEZ LAMEIRO, MATEO": 90,
+    "COTERILLO FERNANDEZ, HECTOR": 90,
+    "COLSA AGUIRREBURUALDE, ROMAN": 90,
+    "BUENO CASTILLO, DANIEL": 90,
+    "DIAZ CAMPO, MARIO": 90,
+    "STEGEN FERREIRA, GUILLERMO BASTIAN JUNIOR": 35,
+    "SALAS GARRIDO, MAURO": 35,
+    "LOPEZ-TAFALL AUTILLO, JACOBO": 90,
+    "LANZA CAVIEDES, JORGE": 55,
+    "VALLE OBREGON, MARTIN": 55,
+    "SAÑUDO CAMUS, JORGE": 55,
+    "PELLON PEREZ, JUAN": 55,
+    "CARRAL RUISANCHEZ, DANIEL": 55,
+    "SAMPEDRO GOMEZ, JOSE RAMON": 90,
+    "LOPEZ PELAYO, GONZALO": 90,
+    "LIAÑO PILA, MARIO": 90,
+    "VILLAR IEVMENOV, BRYAN": 58,
+    "CARRERA ALONSO, DARIO": 90,
+    "RUIZ FERNÁNDEZ, JOEL": 90,
+    "PELAYO CANO, ALVARO": 48,
+    "DIAZ ESPESO, HUGO": 90,
+    "DE ANGEL BATYREV, ENRIQUE ADRIAN": 35,
+    "RUIZ ALONSO, ANTONIO": 48,
+    "SANTAMARIA PEREZ, MARIO": 90,
+    "CABRERA CALVO, LEO": 55,
+    "PRIETO SAIZ, ALEJANDRO": 42,
+    "LINAJE GONZALEZ, PELAYO": 42,
+    "NEWTON HOWIE, ELEK LUI": 32
+  },
+  "portero_local": "GARCIA PUERTO, IAN",
+  "portero_visitante": "SAMPEDRO GOMEZ, JOSE RAMON",
+  "dorsales_local": {
+    "GARCIA PUERTO, IAN": 1,
+    "VELADO RIOS, CARLOS": 2,
+    "ORTIZ VIADERO, SAMUEL": 3,
+    "LOPEZ LAMEIRO, MATEO": 4,
+    "COTERILLO FERNANDEZ, HECTOR": 5,
+    "COLSA AGUIRREBURUALDE, ROMAN": 6,
+    "BUENO CASTILLO, DANIEL": 7,
+    "DIAZ CAMPO, MARIO": 8,
+    "STEGEN FERREIRA, GUILLERMO BASTIAN JUNIOR": 9,
+    "SALAS GARRIDO, MAURO": 10,
+    "LOPEZ-TAFALL AUTILLO, JACOBO": 11
+  },
+  "dorsales_visitante": {
+    "SAMPEDRO GOMEZ, JOSE RAMON": 1,
+    "LOPEZ PELAYO, GONZALO": 2,
+    "LIAÑO PILA, MARIO": 5,
+    "VILLAR IEVMENOV, BRYAN": 6,
+    "CARRERA ALONSO, DARIO": 8,
+    "RUIZ FERNÁNDEZ, JOEL": 9,
+    "PELAYO CANO, ALVARO": 10,
+    "DIAZ ESPESO, HUGO": 14,
+    "DE ANGEL BATYREV, ENRIQUE ADRIAN": 15,
+    "RUIZ ALONSO, ANTONIO": 17,
+    "SANTAMARIA PEREZ, MARIO": 19
+  },
+  "suspendidos": []
+}
