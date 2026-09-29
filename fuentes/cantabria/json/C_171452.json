@@ -1,0 +1,293 @@
+{
+  "acta_id": "C_171452",
+  "filename": "Acta_C_171452.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 33,
+  "fecha": "25-05-2024",
+  "hora": "12:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. LAREDO A",
+  "equipo_visitante": "CLUB BANSANDER B",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GÓMEZ PEÑA, JESÚS"
+  ],
+  "estadio": "Laredo 2",
+  "ciudad": "Laredo",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "BLANCO SOLANA, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "CUESTA ROCILLO, BRUNO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "SANTURDE DIEZ, DARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "VAN DE WORP HERNANDO, LUKAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "SANTURDE DIEZ, DARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 76,
+      "jugador": "OÑATE CANO, ROMÁN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "CAVADA LAYA, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 10,
+      "jugador": "MAZA HONTAVILLA, ERIC",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "VAN DE WORP HERNANDO, LUKAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "MAZA HONTAVILLA, ERIC",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "HERBOSO RANERO, IVAN",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GÜIZA CARBALLO, ASER",
+  "delegado_equipo_visitante": "SANZ GIL, IGNACIO",
+  "titulares_local": [
+    "GUTIERREZ HONTALVILLA, DIEGO",
+    "SARABIA PARDO, ASIER",
+    "OÑATE CANO, ROMÁN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "CERRO COBO, OIER",
+    "RUEDA FONFRIA, DANIEL",
+    "CALVO MIRANDA, LUCAS",
+    "BLANCO SOLANA, NICOLAS",
+    "CUESTA ROCILLO, BRUNO",
+    "AGUILERA AGUILERA, DIEGO",
+    "CAVADA LAYA, PABLO"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "GALA RUIZ, HUGO",
+    "GONZALEZ AMOROS, MARCO",
+    "MOLINA PRADA, MARIO",
+    "LIAÑO ABASCAL, ROMAN",
+    "DE SANTIAGO BEZANILLA, GERMAN",
+    "SANTURDE DIEZ, DARIO",
+    "MAZA HONTAVILLA, ERIC",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "VAN DE WORP HERNANDO, LUKAS",
+    "MARTIN HERRERO, HUGO"
+  ],
+  "suplentes_local": [
+    "FELICES VIVANCO, MARCO",
+    "SAN MIGUEL MIGUEL, JAVIER",
+    "HAZAS SANTOS, DENNIS",
+    "MARSELLA GONZALEZ, MATEO"
+  ],
+  "suplentes_visitante": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "PEREZ ASOREY, OIER",
+    "QUINTANA GUTIERREZ, JORGE",
+    "CORTABITARTE SOBERON, ILAN",
+    "ARCE PIÑAL, HUGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GUTIERREZ HONTALVILLA, DIEGO",
+    "SARABIA PARDO, ASIER",
+    "OÑATE CANO, ROMÁN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "CERRO COBO, OIER",
+    "RUEDA FONFRIA, DANIEL",
+    "CALVO MIRANDA, LUCAS",
+    "BLANCO SOLANA, NICOLAS",
+    "CUESTA ROCILLO, BRUNO",
+    "AGUILERA AGUILERA, DIEGO",
+    "CAVADA LAYA, PABLO",
+    "MARSELLA GONZALEZ, MATEO",
+    "HAZAS SANTOS, DENNIS",
+    "SAN MIGUEL MIGUEL, JAVIER",
+    "FELICES VIVANCO, MARCO"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "GALA RUIZ, HUGO",
+    "GONZALEZ AMOROS, MARCO",
+    "MOLINA PRADA, MARIO",
+    "LIAÑO ABASCAL, ROMAN",
+    "DE SANTIAGO BEZANILLA, GERMAN",
+    "SANTURDE DIEZ, DARIO",
+    "MAZA HONTAVILLA, ERIC",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "VAN DE WORP HERNANDO, LUKAS",
+    "MARTIN HERRERO, HUGO",
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "QUINTANA GUTIERREZ, JORGE",
+    "ARCE PIÑAL, HUGO",
+    "CORTABITARTE SOBERON, ILAN",
+    "PEREZ ASOREY, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "MARSELLA GONZALEZ, MATEO",
+      "sale": "CERRO COBO, OIER"
+    },
+    {
+      "min": 47,
+      "entra": "HAZAS SANTOS, DENNIS",
+      "sale": "CUESTA ROCILLO, BRUNO"
+    },
+    {
+      "min": 65,
+      "entra": "SAN MIGUEL MIGUEL, JAVIER",
+      "sale": "AGUILERA AGUILERA, DIEGO"
+    },
+    {
+      "min": 70,
+      "entra": "FELICES VIVANCO, MARCO",
+      "sale": "SARABIA PARDO, ASIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "BRIZ ESTEBANEZ, ALBERTO",
+      "sale": "RODRIGUEZ AGUDO, HUGO"
+    },
+    {
+      "min": 46,
+      "entra": "QUINTANA GUTIERREZ, JORGE",
+      "sale": "DEL RIO PRIETO, JUAN VICENTE"
+    },
+    {
+      "min": 55,
+      "entra": "ARCE PIÑAL, HUGO",
+      "sale": "MARTIN HERRERO, HUGO"
+    },
+    {
+      "min": 55,
+      "entra": "CORTABITARTE SOBERON, ILAN",
+      "sale": "VAN DE WORP HERNANDO, LUKAS"
+    },
+    {
+      "min": 70,
+      "entra": "PEREZ ASOREY, OIER",
+      "sale": "SANTURDE DIEZ, DARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GUTIERREZ HONTALVILLA, DIEGO": 90,
+    "SARABIA PARDO, ASIER": 70,
+    "OÑATE CANO, ROMÁN": 90,
+    "SARABIA CAVIEDES, JANO ISIDRO": 90,
+    "CERRO COBO, OIER": 40,
+    "RUEDA FONFRIA, DANIEL": 90,
+    "CALVO MIRANDA, LUCAS": 90,
+    "BLANCO SOLANA, NICOLAS": 90,
+    "CUESTA ROCILLO, BRUNO": 47,
+    "AGUILERA AGUILERA, DIEGO": 65,
+    "CAVADA LAYA, PABLO": 90,
+    "MARSELLA GONZALEZ, MATEO": 50,
+    "HAZAS SANTOS, DENNIS": 43,
+    "SAN MIGUEL MIGUEL, JAVIER": 25,
+    "FELICES VIVANCO, MARCO": 20,
+    "RODRIGUEZ AGUDO, HUGO": 40,
+    "GALA RUIZ, HUGO": 90,
+    "GONZALEZ AMOROS, MARCO": 90,
+    "MOLINA PRADA, MARIO": 90,
+    "LIAÑO ABASCAL, ROMAN": 90,
+    "DE SANTIAGO BEZANILLA, GERMAN": 90,
+    "SANTURDE DIEZ, DARIO": 70,
+    "MAZA HONTAVILLA, ERIC": 90,
+    "DEL RIO PRIETO, JUAN VICENTE": 46,
+    "VAN DE WORP HERNANDO, LUKAS": 55,
+    "MARTIN HERRERO, HUGO": 55,
+    "BRIZ ESTEBANEZ, ALBERTO": 50,
+    "QUINTANA GUTIERREZ, JORGE": 44,
+    "ARCE PIÑAL, HUGO": 35,
+    "CORTABITARTE SOBERON, ILAN": 35,
+    "PEREZ ASOREY, OIER": 20
+  },
+  "portero_local": "GUTIERREZ HONTALVILLA, DIEGO",
+  "portero_visitante": "RODRIGUEZ AGUDO, HUGO",
+  "dorsales_local": {
+    "GUTIERREZ HONTALVILLA, DIEGO": 13,
+    "SARABIA PARDO, ASIER": 2,
+    "OÑATE CANO, ROMÁN": 3,
+    "SARABIA CAVIEDES, JANO ISIDRO": 5,
+    "CERRO COBO, OIER": 9,
+    "RUEDA FONFRIA, DANIEL": 14,
+    "CALVO MIRANDA, LUCAS": 15,
+    "BLANCO SOLANA, NICOLAS": 16,
+    "CUESTA ROCILLO, BRUNO": 17,
+    "AGUILERA AGUILERA, DIEGO": 19,
+    "CAVADA LAYA, PABLO": 20
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ AGUDO, HUGO": 13,
+    "GALA RUIZ, HUGO": 2,
+    "GONZALEZ AMOROS, MARCO": 3,
+    "MOLINA PRADA, MARIO": 5,
+    "LIAÑO ABASCAL, ROMAN": 10,
+    "DE SANTIAGO BEZANILLA, GERMAN": 12,
+    "SANTURDE DIEZ, DARIO": 14,
+    "MAZA HONTAVILLA, ERIC": 15,
+    "DEL RIO PRIETO, JUAN VICENTE": 16,
+    "VAN DE WORP HERNANDO, LUKAS": 20,
+    "MARTIN HERRERO, HUGO": 22
+  },
+  "suspendidos": [
+    "MAZA HONTAVILLA, ERIC"
+  ],
+  "_marcador_widget": true
+}
