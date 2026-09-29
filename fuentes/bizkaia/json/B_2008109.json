@@ -1,0 +1,281 @@
+{
+  "acta_id": "B_2008109",
+  "filename": "Acta_B_2008109.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 4,
+  "fecha": "26-10-2024",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "UGERAGA A",
+  "equipo_visitante": "SANTUTXU B",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANCHEZ GUTIERREZ, MARKEL"
+  ],
+  "estadio": "URKO-LARRABASTERRA 2",
+  "ciudad": "Sopelana",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "ALBILLO TACON, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "AGUIRREGOICOA OLAGORTA, LANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "PEREZ ZALDUNBIDE, URKO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "BILBAO DIAZ, IKER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "ALBILLO TACON, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 78,
+      "jugador": "MURIEL MARTIN, ENDIKA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ANDERSEN ARROYO, MIKEL",
+  "entrenador_visitante": "BERMUDEZ SALGUERO, IGNACIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "MARCOS PORTAL, OSCAR",
+  "delegado_campo_local": "RIKE CALVO, GURIA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ALVAREZ DIEGUEZ, JUAN ANTONIO",
+  "titulares_local": [
+    "MOURE BUENO, IKER",
+    "DE GAMBOA GARCIA, ALAIN",
+    "CORRAL MENTXAKA, HODEI",
+    "CASTRESANA MITXELENA, LIER",
+    "MARIN BLANCO, GARIKOITZ",
+    "AYUSO GONZALEZ, ARETX",
+    "MUNICIO CAMPO, HANOT",
+    "GONZALEZ DEL HERRERO OREJA, IZEI",
+    "ZABALBEASKOA KORTABITARTE, LUKEN",
+    "SUNYER BAJO, AIERT",
+    "ARRIAGA CASAL, GORKA"
+  ],
+  "titulares_visitante": [
+    "GIRON NOVOA, DAREK",
+    "PANERA SEDANO, MARTIN",
+    "BILBAO DIAZ, IKER",
+    "AGUIRREGOICOA OLAGORTA, LANDER",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "MURIEL MARTIN, ENDIKA",
+    "AVILA ESPIRITUSANTO, ENMANUEL",
+    "REY REBOLLO, OIER",
+    "GARCIA ABAD, AIMAR",
+    "ALBILLO TACON, UNAX",
+    "CEPEDA SOMORI, IKER"
+  ],
+  "suplentes_local": [
+    "PEREZ ALBONIGA, DANEL",
+    "LORENTE BILBAO, IORITZ",
+    "VILLAR TAMAYO, JON",
+    "PEÑA RIVERA, ERLANTZ",
+    "GARCIA QUIROGA, OIER",
+    "GOIKOETXEA DE GOYARZU, EKHI",
+    "SANTURTUN LIBARONA, AITZOL"
+  ],
+  "suplentes_visitante": [
+    "ORTEGO SANTURTUN, MIKEL",
+    "SARACHAGA GUTIERREZ, UNAX",
+    "ALVAREZ ARNAIZ, ANDER",
+    "GOMEZ MARTIN, ENAITZ",
+    "PEREZ ZALDUNBIDE, URKO",
+    "TOUAYLI GOMEZ, NAIM",
+    "ARRAÑA RUBIO, MIKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "PEREZ ALBONIGA, DANEL",
+    "SANTURTUN LIBARONA, AITZOL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ORTEGO SANTURTUN, MIKEL",
+    "GOMEZ MARTIN, ENAITZ"
+  ],
+  "jugadores_local": [
+    "MOURE BUENO, IKER",
+    "DE GAMBOA GARCIA, ALAIN",
+    "CORRAL MENTXAKA, HODEI",
+    "CASTRESANA MITXELENA, LIER",
+    "MARIN BLANCO, GARIKOITZ",
+    "AYUSO GONZALEZ, ARETX",
+    "MUNICIO CAMPO, HANOT",
+    "GONZALEZ DEL HERRERO OREJA, IZEI",
+    "ZABALBEASKOA KORTABITARTE, LUKEN",
+    "SUNYER BAJO, AIERT",
+    "ARRIAGA CASAL, GORKA",
+    "GOIKOETXEA DE GOYARZU, EKHI",
+    "PEÑA RIVERA, ERLANTZ",
+    "VILLAR TAMAYO, JON",
+    "LORENTE BILBAO, IORITZ",
+    "GARCIA QUIROGA, OIER"
+  ],
+  "jugadores_visitante": [
+    "GIRON NOVOA, DAREK",
+    "PANERA SEDANO, MARTIN",
+    "BILBAO DIAZ, IKER",
+    "AGUIRREGOICOA OLAGORTA, LANDER",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "MURIEL MARTIN, ENDIKA",
+    "AVILA ESPIRITUSANTO, ENMANUEL",
+    "REY REBOLLO, OIER",
+    "GARCIA ABAD, AIMAR",
+    "ALBILLO TACON, UNAX",
+    "CEPEDA SOMORI, IKER",
+    "PEREZ ZALDUNBIDE, URKO",
+    "TOUAYLI GOMEZ, NAIM",
+    "ALVAREZ ARNAIZ, ANDER",
+    "SARACHAGA GUTIERREZ, UNAX",
+    "ARRAÑA RUBIO, MIKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GOIKOETXEA DE GOYARZU, EKHI",
+      "sale": "ARRIAGA CASAL, GORKA"
+    },
+    {
+      "min": 40,
+      "entra": "PEÑA RIVERA, ERLANTZ",
+      "sale": "MARIN BLANCO, GARIKOITZ"
+    },
+    {
+      "min": 51,
+      "entra": "VILLAR TAMAYO, JON",
+      "sale": "SUNYER BAJO, AIERT"
+    },
+    {
+      "min": 51,
+      "entra": "LORENTE BILBAO, IORITZ",
+      "sale": "ZABALBEASKOA KORTABITARTE, LUKEN"
+    },
+    {
+      "min": 64,
+      "entra": "GARCIA QUIROGA, OIER",
+      "sale": "MUNICIO CAMPO, HANOT"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "PEREZ ZALDUNBIDE, URKO",
+      "sale": "AVILA ESPIRITUSANTO, ENMANUEL"
+    },
+    {
+      "min": 55,
+      "entra": "TOUAYLI GOMEZ, NAIM",
+      "sale": "PANERA SEDANO, MARTIN"
+    },
+    {
+      "min": 55,
+      "entra": "ALVAREZ ARNAIZ, ANDER",
+      "sale": "ESPAÑA RAMOS, NIKOLAS"
+    },
+    {
+      "min": 61,
+      "entra": "SARACHAGA GUTIERREZ, UNAX",
+      "sale": "REY REBOLLO, OIER"
+    },
+    {
+      "min": 61,
+      "entra": "ARRAÑA RUBIO, MIKEL",
+      "sale": "GARCIA ABAD, AIMAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "MOURE BUENO, IKER": 90,
+    "DE GAMBOA GARCIA, ALAIN": 90,
+    "CORRAL MENTXAKA, HODEI": 90,
+    "CASTRESANA MITXELENA, LIER": 90,
+    "MARIN BLANCO, GARIKOITZ": 40,
+    "AYUSO GONZALEZ, ARETX": 90,
+    "MUNICIO CAMPO, HANOT": 64,
+    "GONZALEZ DEL HERRERO OREJA, IZEI": 90,
+    "ZABALBEASKOA KORTABITARTE, LUKEN": 51,
+    "SUNYER BAJO, AIERT": 51,
+    "ARRIAGA CASAL, GORKA": 40,
+    "GOIKOETXEA DE GOYARZU, EKHI": 50,
+    "PEÑA RIVERA, ERLANTZ": 50,
+    "VILLAR TAMAYO, JON": 39,
+    "LORENTE BILBAO, IORITZ": 39,
+    "GARCIA QUIROGA, OIER": 26,
+    "GIRON NOVOA, DAREK": 90,
+    "PANERA SEDANO, MARTIN": 55,
+    "BILBAO DIAZ, IKER": 90,
+    "AGUIRREGOICOA OLAGORTA, LANDER": 90,
+    "ESPAÑA RAMOS, NIKOLAS": 55,
+    "MURIEL MARTIN, ENDIKA": 90,
+    "AVILA ESPIRITUSANTO, ENMANUEL": 40,
+    "REY REBOLLO, OIER": 61,
+    "GARCIA ABAD, AIMAR": 61,
+    "ALBILLO TACON, UNAX": 90,
+    "CEPEDA SOMORI, IKER": 90,
+    "PEREZ ZALDUNBIDE, URKO": 50,
+    "TOUAYLI GOMEZ, NAIM": 35,
+    "ALVAREZ ARNAIZ, ANDER": 35,
+    "SARACHAGA GUTIERREZ, UNAX": 29,
+    "ARRAÑA RUBIO, MIKEL": 29
+  },
+  "portero_local": "MOURE BUENO, IKER",
+  "portero_visitante": "GIRON NOVOA, DAREK",
+  "dorsales_local": {
+    "MOURE BUENO, IKER": 13,
+    "DE GAMBOA GARCIA, ALAIN": 2,
+    "CORRAL MENTXAKA, HODEI": 4,
+    "CASTRESANA MITXELENA, LIER": 5,
+    "MARIN BLANCO, GARIKOITZ": 8,
+    "AYUSO GONZALEZ, ARETX": 9,
+    "MUNICIO CAMPO, HANOT": 10,
+    "GONZALEZ DEL HERRERO OREJA, IZEI": 14,
+    "ZABALBEASKOA KORTABITARTE, LUKEN": 15,
+    "SUNYER BAJO, AIERT": 17,
+    "ARRIAGA CASAL, GORKA": 19
+  },
+  "dorsales_visitante": {
+    "GIRON NOVOA, DAREK": 1,
+    "PANERA SEDANO, MARTIN": 2,
+    "BILBAO DIAZ, IKER": 5,
+    "AGUIRREGOICOA OLAGORTA, LANDER": 8,
+    "ESPAÑA RAMOS, NIKOLAS": 9,
+    "MURIEL MARTIN, ENDIKA": 12,
+    "AVILA ESPIRITUSANTO, ENMANUEL": 15,
+    "REY REBOLLO, OIER": 16,
+    "GARCIA ABAD, AIMAR": 17,
+    "ALBILLO TACON, UNAX": 18,
+    "CEPEDA SOMORI, IKER": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
