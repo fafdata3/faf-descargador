@@ -1,0 +1,287 @@
+{
+  "acta_id": "B_2008067",
+  "filename": "Acta_B_2008067.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 33,
+  "fecha": "17-05-2025",
+  "hora": "18:00",
+  "categoria": "DIVISIÓN DE HONOR HC / OHOREZKO MAILA (GRUPO 1)",
+  "equipo_local": "ARRATIA A",
+  "equipo_visitante": "ITZUBALTZETA",
+  "goles_local": 1,
+  "goles_visitante": 7,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "RENOBALES GALNARES, OIER"
+  ],
+  "estadio": "URBIETA-IGORRE",
+  "ciudad": "Igorre",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "IRIBARREN URANGA, ENEKO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 9,
+      "jugador": "FERNANDEZ URIARTE, AITOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "CALVO RECALDE, DANEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "RODRIGUEZ RODRIGUEZ, ALEX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "RODRIGUEZ RODRIGUEZ, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "DOMINGUEZ GARCIA, MARTIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "ATELA ZALDUONDO, NIKOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "BENGOETXEA DONIS, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 15,
+      "jugador": "BERECIBAR HUIDOBRO, UNAX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PEREZ GARCIA, DAVID",
+  "entrenador_visitante": "ANTONIO LARRINAGA, MARKEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "OCERIN ECHEVARRIA, KEPA",
+  "delegado_equipo_visitante": "OLAGUIBEL SABIN, JOAQUIN",
+  "titulares_local": [
+    "PRIETO AZURMENDI, TELMO",
+    "CASTELLANO RODRIGUEZ, ERLANTZ",
+    "GOTI IZAGUIRRE, URKO",
+    "ALCAIRE COSTA, IBAI",
+    "INCERTIS MARTINEZ, BEÑAT",
+    "SALCEDO ABENDAÑO, GARI",
+    "ZULUAGA ETXEBARRIA, IZORTZ",
+    "URUTXURTU JORDAN, UNAX",
+    "OCERIN ARANA, PEIO",
+    "URIARTE GURTUBAI, OIER",
+    "ARRIARAN AMURIZA, BEÑAT"
+  ],
+  "titulares_visitante": [
+    "ONDIZ LOZA, IORITZ",
+    "ALONSO YUSTA, ANDER",
+    "BERECIBAR HUIDOBRO, UNAX",
+    "CALVO RECALDE, DANEL",
+    "FERNANDEZ URIARTE, AITOR",
+    "IRIBARREN URANGA, ENEKO",
+    "RODRIGUEZ RODRIGUEZ, ALEX",
+    "SOLANO BASAÑEZ, IÑIGO",
+    "DOMINGUEZ GARCIA, MARTIN",
+    "CONDE ESTEBAN, BELATZ",
+    "BLANCO NAVAS, PEDRO"
+  ],
+  "suplentes_local": [
+    "DELGADO PARADA, UNAX",
+    "MORAL VALLES, ENEKO",
+    "JUARROS MANTEROLA, OIER",
+    "BENGOETXEA DONIS, AIMAR",
+    "AGIRRE RUIZ, EKAIN"
+  ],
+  "suplentes_visitante": [
+    "PEÑIN ALVAREZ, MATEO",
+    "BELKHIR QUINZAÑOS, NAYIM",
+    "LAFARGA VERDEGUER, ALONSO",
+    "RODRIGUEZ RODRIGUEZ, MARCOS",
+    "ATELA ZALDUONDO, NIKOLAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "PEÑIN ALVAREZ, MATEO"
+  ],
+  "jugadores_local": [
+    "PRIETO AZURMENDI, TELMO",
+    "CASTELLANO RODRIGUEZ, ERLANTZ",
+    "GOTI IZAGUIRRE, URKO",
+    "ALCAIRE COSTA, IBAI",
+    "INCERTIS MARTINEZ, BEÑAT",
+    "SALCEDO ABENDAÑO, GARI",
+    "ZULUAGA ETXEBARRIA, IZORTZ",
+    "URUTXURTU JORDAN, UNAX",
+    "OCERIN ARANA, PEIO",
+    "URIARTE GURTUBAI, OIER",
+    "ARRIARAN AMURIZA, BEÑAT",
+    "AGIRRE RUIZ, EKAIN",
+    "BENGOETXEA DONIS, AIMAR",
+    "MORAL VALLES, ENEKO",
+    "JUARROS MANTEROLA, OIER",
+    "DELGADO PARADA, UNAX"
+  ],
+  "jugadores_visitante": [
+    "ONDIZ LOZA, IORITZ",
+    "ALONSO YUSTA, ANDER",
+    "BERECIBAR HUIDOBRO, UNAX",
+    "CALVO RECALDE, DANEL",
+    "FERNANDEZ URIARTE, AITOR",
+    "IRIBARREN URANGA, ENEKO",
+    "RODRIGUEZ RODRIGUEZ, ALEX",
+    "SOLANO BASAÑEZ, IÑIGO",
+    "DOMINGUEZ GARCIA, MARTIN",
+    "CONDE ESTEBAN, BELATZ",
+    "BLANCO NAVAS, PEDRO",
+    "BELKHIR QUINZAÑOS, NAYIM",
+    "RODRIGUEZ RODRIGUEZ, MARCOS",
+    "LAFARGA VERDEGUER, ALONSO",
+    "ATELA ZALDUONDO, NIKOLAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "AGIRRE RUIZ, EKAIN",
+      "sale": "OCERIN ARANA, PEIO"
+    },
+    {
+      "min": 51,
+      "entra": "BENGOETXEA DONIS, AIMAR",
+      "sale": "URIARTE GURTUBAI, OIER"
+    },
+    {
+      "min": 51,
+      "entra": "MORAL VALLES, ENEKO",
+      "sale": "INCERTIS MARTINEZ, BEÑAT"
+    },
+    {
+      "min": 51,
+      "entra": "JUARROS MANTEROLA, OIER",
+      "sale": "SALCEDO ABENDAÑO, GARI"
+    },
+    {
+      "min": 51,
+      "entra": "DELGADO PARADA, UNAX",
+      "sale": "PRIETO AZURMENDI, TELMO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "BELKHIR QUINZAÑOS, NAYIM",
+      "sale": "CALVO RECALDE, DANEL"
+    },
+    {
+      "min": 51,
+      "entra": "RODRIGUEZ RODRIGUEZ, MARCOS",
+      "sale": "BERECIBAR HUIDOBRO, UNAX"
+    },
+    {
+      "min": 57,
+      "entra": "LAFARGA VERDEGUER, ALONSO",
+      "sale": "RODRIGUEZ RODRIGUEZ, ALEX"
+    },
+    {
+      "min": 57,
+      "entra": "ATELA ZALDUONDO, NIKOLAS",
+      "sale": "IRIBARREN URANGA, ENEKO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PRIETO AZURMENDI, TELMO": 51,
+    "CASTELLANO RODRIGUEZ, ERLANTZ": 90,
+    "GOTI IZAGUIRRE, URKO": 90,
+    "ALCAIRE COSTA, IBAI": 90,
+    "INCERTIS MARTINEZ, BEÑAT": 51,
+    "SALCEDO ABENDAÑO, GARI": 51,
+    "ZULUAGA ETXEBARRIA, IZORTZ": 90,
+    "URUTXURTU JORDAN, UNAX": 90,
+    "OCERIN ARANA, PEIO": 51,
+    "URIARTE GURTUBAI, OIER": 51,
+    "ARRIARAN AMURIZA, BEÑAT": 90,
+    "AGIRRE RUIZ, EKAIN": 39,
+    "BENGOETXEA DONIS, AIMAR": 39,
+    "MORAL VALLES, ENEKO": 39,
+    "JUARROS MANTEROLA, OIER": 39,
+    "DELGADO PARADA, UNAX": 39,
+    "ONDIZ LOZA, IORITZ": 90,
+    "ALONSO YUSTA, ANDER": 90,
+    "BERECIBAR HUIDOBRO, UNAX": 51,
+    "CALVO RECALDE, DANEL": 51,
+    "FERNANDEZ URIARTE, AITOR": 90,
+    "IRIBARREN URANGA, ENEKO": 57,
+    "RODRIGUEZ RODRIGUEZ, ALEX": 57,
+    "SOLANO BASAÑEZ, IÑIGO": 90,
+    "DOMINGUEZ GARCIA, MARTIN": 90,
+    "CONDE ESTEBAN, BELATZ": 90,
+    "BLANCO NAVAS, PEDRO": 90,
+    "BELKHIR QUINZAÑOS, NAYIM": 39,
+    "RODRIGUEZ RODRIGUEZ, MARCOS": 39,
+    "LAFARGA VERDEGUER, ALONSO": 33,
+    "ATELA ZALDUONDO, NIKOLAS": 33
+  },
+  "portero_local": "PRIETO AZURMENDI, TELMO",
+  "portero_visitante": "ONDIZ LOZA, IORITZ",
+  "dorsales_local": {
+    "PRIETO AZURMENDI, TELMO": 1,
+    "CASTELLANO RODRIGUEZ, ERLANTZ": 2,
+    "GOTI IZAGUIRRE, URKO": 3,
+    "ALCAIRE COSTA, IBAI": 4,
+    "INCERTIS MARTINEZ, BEÑAT": 6,
+    "SALCEDO ABENDAÑO, GARI": 7,
+    "ZULUAGA ETXEBARRIA, IZORTZ": 8,
+    "URUTXURTU JORDAN, UNAX": 10,
+    "OCERIN ARANA, PEIO": 12,
+    "URIARTE GURTUBAI, OIER": 17,
+    "ARRIARAN AMURIZA, BEÑAT": 21
+  },
+  "dorsales_visitante": {
+    "ONDIZ LOZA, IORITZ": 1,
+    "ALONSO YUSTA, ANDER": 5,
+    "BERECIBAR HUIDOBRO, UNAX": 6,
+    "CALVO RECALDE, DANEL": 7,
+    "FERNANDEZ URIARTE, AITOR": 10,
+    "IRIBARREN URANGA, ENEKO": 12,
+    "RODRIGUEZ RODRIGUEZ, ALEX": 14,
+    "SOLANO BASAÑEZ, IÑIGO": 16,
+    "DOMINGUEZ GARCIA, MARTIN": 17,
+    "CONDE ESTEBAN, BELATZ": 20,
+    "BLANCO NAVAS, PEDRO": 26
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
