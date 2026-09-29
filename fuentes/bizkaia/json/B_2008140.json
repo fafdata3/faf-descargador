@@ -1,0 +1,264 @@
+{
+  "acta_id": "B_2008140",
+  "filename": "Acta_B_2008140.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "23-11-2024",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ASTRABUDUAKO A",
+  "equipo_visitante": "ABANTO",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "GOITIA CABRERA, ANDONI"
+  ],
+  "estadio": "SAN LORENZO",
+  "ciudad": "ERANDIO (ASTRABUDUA)",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "MIGUELEZ DELGADO, JONAY",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "MIGUELEZ DELGADO, JONAY",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "RILOVA MOCHA, JULEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "AGUIRRE GARCIA, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "CORNAGO DE LA VEGA, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "IBAÑEZ ZAMORA, DANEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "ARRIBAS GARRIDO, UNAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FANO ESKAURIATZA, IGOR",
+  "entrenador_visitante": "RIVERA MON, SERGIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "HORMAECHE CANTERA, ENDIKA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ECHEVARRIA ARANA, ANDER",
+  "titulares_local": [
+    "TERUELO ZUAZO, UNAI",
+    "GIL MAZO, IÑIGO",
+    "CAMPOS MARCOS, ANDEKA",
+    "RILOVA MOCHA, JULEN",
+    "BLANCO GOMEZ, EKAIN",
+    "CABALLERO TRINIDAD, ASIER",
+    "MOREDA MARTIN, YAGO",
+    "JORGE ARRUE, MIKEL",
+    "ALONSO DE LA QUINTANA, OIER",
+    "IGLESIAS DUEÑAS, ARATZ",
+    "LARRAZABAL SANTISTEBAN, XABI"
+  ],
+  "titulares_visitante": [
+    "COTA SOUTO, EGOITZ",
+    "MEDINA ESTEPAR, ARATZ",
+    "ALVAREZ LOPEZ, KIMETZ",
+    "DIAZ SEGURA, UNAI",
+    "ELOLA ARRIBAS, UNAX",
+    "MENDIZABAL OTERO, XABI",
+    "BARRANCO URANGA, MARKEL",
+    "ARRIBAS GARRIDO, UNAI",
+    "IBAÑEZ ZAMORA, DANEL",
+    "CRUZ SANCHEZ, URKO",
+    "MIGUELEZ DELGADO, JONAY"
+  ],
+  "suplentes_local": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "MENDEZ RASINES, HODEI",
+    "ALBA AYALA, JUAN DAVID",
+    "AGUIRRE GARCIA, IKER",
+    "PALACIO GARCIA, OIER",
+    "CORNAGO DE LA VEGA, MARTIN",
+    "CAMPO GURRUTXAGA, ALAIN"
+  ],
+  "suplentes_visitante": [
+    "GARCIA LEON, IRAULTZA",
+    "MEDINA CAUSO, BEÑAT",
+    "AZKONA PEREZ, ENEKO",
+    "BASAGOITI ANGULO, HODEI"
+  ],
+  "convocados_sin_jugar_local": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "ALBA AYALA, JUAN DAVID",
+    "PALACIO GARCIA, OIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GARCIA LEON, IRAULTZA"
+  ],
+  "jugadores_local": [
+    "TERUELO ZUAZO, UNAI",
+    "GIL MAZO, IÑIGO",
+    "CAMPOS MARCOS, ANDEKA",
+    "RILOVA MOCHA, JULEN",
+    "BLANCO GOMEZ, EKAIN",
+    "CABALLERO TRINIDAD, ASIER",
+    "MOREDA MARTIN, YAGO",
+    "JORGE ARRUE, MIKEL",
+    "ALONSO DE LA QUINTANA, OIER",
+    "IGLESIAS DUEÑAS, ARATZ",
+    "LARRAZABAL SANTISTEBAN, XABI",
+    "AGUIRRE GARCIA, IKER",
+    "CORNAGO DE LA VEGA, MARTIN",
+    "MENDEZ RASINES, HODEI",
+    "CAMPO GURRUTXAGA, ALAIN"
+  ],
+  "jugadores_visitante": [
+    "COTA SOUTO, EGOITZ",
+    "MEDINA ESTEPAR, ARATZ",
+    "ALVAREZ LOPEZ, KIMETZ",
+    "DIAZ SEGURA, UNAI",
+    "ELOLA ARRIBAS, UNAX",
+    "MENDIZABAL OTERO, XABI",
+    "BARRANCO URANGA, MARKEL",
+    "ARRIBAS GARRIDO, UNAI",
+    "IBAÑEZ ZAMORA, DANEL",
+    "CRUZ SANCHEZ, URKO",
+    "MIGUELEZ DELGADO, JONAY",
+    "BASAGOITI ANGULO, HODEI",
+    "AZKONA PEREZ, ENEKO",
+    "MEDINA CAUSO, BEÑAT"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "AGUIRRE GARCIA, IKER",
+      "sale": "BLANCO GOMEZ, EKAIN"
+    },
+    {
+      "min": 40,
+      "entra": "CORNAGO DE LA VEGA, MARTIN",
+      "sale": "JORGE ARRUE, MIKEL"
+    },
+    {
+      "min": 40,
+      "entra": "MENDEZ RASINES, HODEI",
+      "sale": "CAMPOS MARCOS, ANDEKA"
+    },
+    {
+      "min": 71,
+      "entra": "CAMPO GURRUTXAGA, ALAIN",
+      "sale": "ALONSO DE LA QUINTANA, OIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 64,
+      "entra": "BASAGOITI ANGULO, HODEI",
+      "sale": "CRUZ SANCHEZ, URKO"
+    },
+    {
+      "min": 76,
+      "entra": "AZKONA PEREZ, ENEKO",
+      "sale": "ALVAREZ LOPEZ, KIMETZ"
+    },
+    {
+      "min": 79,
+      "entra": "MEDINA CAUSO, BEÑAT",
+      "sale": "MIGUELEZ DELGADO, JONAY"
+    }
+  ],
+  "minutos_jugadores": {
+    "TERUELO ZUAZO, UNAI": 90,
+    "GIL MAZO, IÑIGO": 90,
+    "CAMPOS MARCOS, ANDEKA": 40,
+    "RILOVA MOCHA, JULEN": 90,
+    "BLANCO GOMEZ, EKAIN": 40,
+    "CABALLERO TRINIDAD, ASIER": 90,
+    "MOREDA MARTIN, YAGO": 90,
+    "JORGE ARRUE, MIKEL": 40,
+    "ALONSO DE LA QUINTANA, OIER": 71,
+    "IGLESIAS DUEÑAS, ARATZ": 90,
+    "LARRAZABAL SANTISTEBAN, XABI": 90,
+    "AGUIRRE GARCIA, IKER": 50,
+    "CORNAGO DE LA VEGA, MARTIN": 50,
+    "MENDEZ RASINES, HODEI": 50,
+    "CAMPO GURRUTXAGA, ALAIN": 19,
+    "COTA SOUTO, EGOITZ": 90,
+    "MEDINA ESTEPAR, ARATZ": 90,
+    "ALVAREZ LOPEZ, KIMETZ": 76,
+    "DIAZ SEGURA, UNAI": 90,
+    "ELOLA ARRIBAS, UNAX": 90,
+    "MENDIZABAL OTERO, XABI": 90,
+    "BARRANCO URANGA, MARKEL": 90,
+    "ARRIBAS GARRIDO, UNAI": 90,
+    "IBAÑEZ ZAMORA, DANEL": 90,
+    "CRUZ SANCHEZ, URKO": 64,
+    "MIGUELEZ DELGADO, JONAY": 79,
+    "BASAGOITI ANGULO, HODEI": 26,
+    "AZKONA PEREZ, ENEKO": 14,
+    "MEDINA CAUSO, BEÑAT": 11
+  },
+  "portero_local": "TERUELO ZUAZO, UNAI",
+  "portero_visitante": "COTA SOUTO, EGOITZ",
+  "dorsales_local": {
+    "TERUELO ZUAZO, UNAI": 1,
+    "GIL MAZO, IÑIGO": 2,
+    "CAMPOS MARCOS, ANDEKA": 3,
+    "RILOVA MOCHA, JULEN": 5,
+    "BLANCO GOMEZ, EKAIN": 6,
+    "CABALLERO TRINIDAD, ASIER": 7,
+    "MOREDA MARTIN, YAGO": 9,
+    "JORGE ARRUE, MIKEL": 11,
+    "ALONSO DE LA QUINTANA, OIER": 21,
+    "IGLESIAS DUEÑAS, ARATZ": 23,
+    "LARRAZABAL SANTISTEBAN, XABI": 24
+  },
+  "dorsales_visitante": {
+    "COTA SOUTO, EGOITZ": 1,
+    "MEDINA ESTEPAR, ARATZ": 3,
+    "ALVAREZ LOPEZ, KIMETZ": 4,
+    "DIAZ SEGURA, UNAI": 6,
+    "ELOLA ARRIBAS, UNAX": 7,
+    "MENDIZABAL OTERO, XABI": 8,
+    "BARRANCO URANGA, MARKEL": 11,
+    "ARRIBAS GARRIDO, UNAI": 14,
+    "IBAÑEZ ZAMORA, DANEL": 16,
+    "CRUZ SANCHEZ, URKO": 19,
+    "MIGUELEZ DELGADO, JONAY": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
