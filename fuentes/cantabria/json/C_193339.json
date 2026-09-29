@@ -1,0 +1,291 @@
+{
+  "acta_id": "C_193339",
+  "filename": "Acta_C_193339.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 1,
+  "fecha": "21-09-2024",
+  "hora": "13:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. LAREDO A",
+  "equipo_visitante": "C.D. REVILLA A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "VEGAS MANRIQUE, ERIK"
+  ],
+  "estadio": "Laredo 2",
+  "ciudad": "Laredo",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "FUENTES BLANCO, FABIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "FUENTES BLANCO, FABIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "ARISQUETA GUTIERREZ, CARLOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "ABASCAL ITURRALDE, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "BARANDA HERRERA, JUAN JOSE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 26,
+      "jugador": "ROMANO ROSEÑADA, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 50,
+      "jugador": "GARCIA GONZALEZ, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 51,
+      "jugador": "ROMANO ROSEÑADA, DAVID",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 16,
+      "jugador": "BASCONCILLOS FERNANDEZ, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "LOPEZ SAMANIEGO, FEDERICO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "MARCOS CIMIANO, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ESTRADA CANOVAS, MARIO",
+  "entrenador_visitante": "ALVAREZ CARRASCO, OSCAR E",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ROMANO ROSEÑADA, DAVID",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ROMANO ROSEÑADA, DAVID",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PIEDRA RUIZ, ASIER",
+    "MARSELLA GONZALEZ, SERGIO",
+    "ZUAZO IBAÑEZ, GONZALO",
+    "ABASCAL ITURRALDE, HUGO",
+    "MARTINEZ ARGOS, IBER",
+    "PRADA DE MIGUEL, DARIO",
+    "ANTOLIN RODRIGUEZ, MATEO",
+    "REVUELTA FERNÁNDEZ, NORBERTO",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "GARCIA GONZALEZ, DIEGO",
+    "BECI CARRERA, EDUARDO"
+  ],
+  "titulares_visitante": [
+    "SETIEN FLORANES, ANDRES",
+    "MOGOLLON GARCIA, YOAN MANUEL",
+    "BASCONCILLOS FERNANDEZ, ALEJANDRO",
+    "MARCOS CIMIANO, HUGO",
+    "LAREDO PELLON, NICO",
+    "FUENTES BLANCO, FABIO",
+    "CAMARENA DELAFUENTE, JAVIER",
+    "EGUIA FERNANDEZ, DANIEL",
+    "LLATA OROBIO, MARIO",
+    "RUBIN ALVAREZ, MANUEL",
+    "ALONSO GARCIA, ADRIEL"
+  ],
+  "suplentes_local": [
+    "CORIA, THIAGO",
+    "BARANDA HERRERA, JUAN JOSE",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "CANO VELA, OIER"
+  ],
+  "suplentes_visitante": [
+    "VAZQUEZ VILLALBA, ALEX",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "MARTIN DE COS, OLIVER",
+    "RUIZ CAZORLA, MARCOS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PIEDRA RUIZ, ASIER",
+    "MARSELLA GONZALEZ, SERGIO",
+    "ZUAZO IBAÑEZ, GONZALO",
+    "ABASCAL ITURRALDE, HUGO",
+    "MARTINEZ ARGOS, IBER",
+    "PRADA DE MIGUEL, DARIO",
+    "ANTOLIN RODRIGUEZ, MATEO",
+    "REVUELTA FERNÁNDEZ, NORBERTO",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "GARCIA GONZALEZ, DIEGO",
+    "BECI CARRERA, EDUARDO",
+    "CORIA, THIAGO",
+    "BARANDA HERRERA, JUAN JOSE",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "CANO VELA, OIER"
+  ],
+  "jugadores_visitante": [
+    "SETIEN FLORANES, ANDRES",
+    "MOGOLLON GARCIA, YOAN MANUEL",
+    "BASCONCILLOS FERNANDEZ, ALEJANDRO",
+    "MARCOS CIMIANO, HUGO",
+    "LAREDO PELLON, NICO",
+    "FUENTES BLANCO, FABIO",
+    "CAMARENA DELAFUENTE, JAVIER",
+    "EGUIA FERNANDEZ, DANIEL",
+    "LLATA OROBIO, MARIO",
+    "RUBIN ALVAREZ, MANUEL",
+    "ALONSO GARCIA, ADRIEL",
+    "VAZQUEZ VILLALBA, ALEX",
+    "MARTIN DE COS, OLIVER",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "RUIZ CAZORLA, MARCOS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "CORIA, THIAGO",
+      "sale": "PRADA DE MIGUEL, DARIO"
+    },
+    {
+      "min": 35,
+      "entra": "BARANDA HERRERA, JUAN JOSE",
+      "sale": "GONZALEZ FERNANDEZ, GABRIEL"
+    },
+    {
+      "min": 47,
+      "entra": "ARISQUETA GUTIERREZ, CARLOS",
+      "sale": "MARTINEZ ARGOS, IBER"
+    },
+    {
+      "min": 56,
+      "entra": "CANO VELA, OIER",
+      "sale": "BECI CARRERA, EDUARDO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "VAZQUEZ VILLALBA, ALEX",
+      "sale": "SETIEN FLORANES, ANDRES"
+    },
+    {
+      "min": 39,
+      "entra": "MARTIN DE COS, OLIVER",
+      "sale": "EGUIA FERNANDEZ, DANIEL"
+    },
+    {
+      "min": 47,
+      "entra": "LOPEZ SAMANIEGO, FEDERICO",
+      "sale": "ALONSO GARCIA, ADRIEL"
+    },
+    {
+      "min": 47,
+      "entra": "RUIZ CAZORLA, MARCOS",
+      "sale": "FUENTES BLANCO, FABIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PIEDRA RUIZ, ASIER": 90,
+    "MARSELLA GONZALEZ, SERGIO": 90,
+    "ZUAZO IBAÑEZ, GONZALO": 90,
+    "ABASCAL ITURRALDE, HUGO": 90,
+    "MARTINEZ ARGOS, IBER": 47,
+    "PRADA DE MIGUEL, DARIO": 35,
+    "ANTOLIN RODRIGUEZ, MATEO": 90,
+    "REVUELTA FERNÁNDEZ, NORBERTO": 90,
+    "GONZALEZ FERNANDEZ, GABRIEL": 35,
+    "GARCIA GONZALEZ, DIEGO": 90,
+    "BECI CARRERA, EDUARDO": 56,
+    "CORIA, THIAGO": 55,
+    "BARANDA HERRERA, JUAN JOSE": 55,
+    "ARISQUETA GUTIERREZ, CARLOS": 43,
+    "CANO VELA, OIER": 34,
+    "SETIEN FLORANES, ANDRES": 35,
+    "MOGOLLON GARCIA, YOAN MANUEL": 90,
+    "BASCONCILLOS FERNANDEZ, ALEJANDRO": 90,
+    "MARCOS CIMIANO, HUGO": 90,
+    "LAREDO PELLON, NICO": 90,
+    "FUENTES BLANCO, FABIO": 47,
+    "CAMARENA DELAFUENTE, JAVIER": 90,
+    "EGUIA FERNANDEZ, DANIEL": 39,
+    "LLATA OROBIO, MARIO": 90,
+    "RUBIN ALVAREZ, MANUEL": 90,
+    "ALONSO GARCIA, ADRIEL": 47,
+    "VAZQUEZ VILLALBA, ALEX": 55,
+    "MARTIN DE COS, OLIVER": 51,
+    "LOPEZ SAMANIEGO, FEDERICO": 43,
+    "RUIZ CAZORLA, MARCOS": 43
+  },
+  "portero_local": "PIEDRA RUIZ, ASIER",
+  "portero_visitante": "SETIEN FLORANES, ANDRES",
+  "dorsales_local": {
+    "PIEDRA RUIZ, ASIER": 1,
+    "MARSELLA GONZALEZ, SERGIO": 2,
+    "ZUAZO IBAÑEZ, GONZALO": 5,
+    "ABASCAL ITURRALDE, HUGO": 6,
+    "MARTINEZ ARGOS, IBER": 8,
+    "PRADA DE MIGUEL, DARIO": 10,
+    "ANTOLIN RODRIGUEZ, MATEO": 12,
+    "REVUELTA FERNÁNDEZ, NORBERTO": 14,
+    "GONZALEZ FERNANDEZ, GABRIEL": 17,
+    "GARCIA GONZALEZ, DIEGO": 23,
+    "BECI CARRERA, EDUARDO": 26
+  },
+  "dorsales_visitante": {
+    "SETIEN FLORANES, ANDRES": 13,
+    "MOGOLLON GARCIA, YOAN MANUEL": 2,
+    "BASCONCILLOS FERNANDEZ, ALEJANDRO": 5,
+    "MARCOS CIMIANO, HUGO": 6,
+    "LAREDO PELLON, NICO": 7,
+    "FUENTES BLANCO, FABIO": 8,
+    "CAMARENA DELAFUENTE, JAVIER": 9,
+    "EGUIA FERNANDEZ, DANIEL": 10,
+    "LLATA OROBIO, MARIO": 11,
+    "RUBIN ALVAREZ, MANUEL": 15,
+    "ALONSO GARCIA, ADRIEL": 16
+  },
+  "suspendidos": [
+    "ROMANO ROSEÑADA, DAVID"
+  ]
+}
