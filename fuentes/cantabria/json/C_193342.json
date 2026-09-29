@@ -1,0 +1,265 @@
+{
+  "acta_id": "C_193342",
+  "filename": "Acta_C_193342.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 1,
+  "fecha": "21-09-2024",
+  "hora": "12:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT A",
+  "equipo_visitante": "C.D. NAVAL A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "FERNÁNDEZ CAGIGAS, CHRISTIAN"
+  ],
+  "estadio": "Campo Manolo Preciado",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 26,
+      "jugador": "MANTILLA MARTIN, MAEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "MANTILLA MARTIN, MAEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 64,
+      "jugador": "MANTILLA MARTIN, MAEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "FERNANDEZ NAVAMUEL, JENS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 999,
+      "jugador": "REDRUELLO GONZALEZ, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "GARRIDO GARCIA, MATEO JULIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "CIEZA PEREZ, ASIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "REDRUELLO GONZALEZ, ALVARO",
+  "entrenador_visitante": "GARCIA GOMEZ, JESUS ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ARGOS BOLADO, GONZALO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARGOS BOLADO, GONZALO",
+  "delegado_equipo_visitante": "BERNARDO CUERVO, ALEJANDRO",
+  "titulares_local": [
+    "ROJO ARRANZ, JAVIER",
+    "VERDEJA GONZALEZ, JORGE",
+    "LOPEZ GARZON, LEO",
+    "SOBERON GARCIA, DIEGO",
+    "URIBE DELGADO, MARCO",
+    "GUTIERREZ GARCIA, MARTIN",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "ELOLA BADOLATO, JACOBO",
+    "RODICIO VALENZUELA, DIEGO",
+    "BARRIO RODRIGUEZ, DIEGO",
+    "BARCENA MUÑOZ, SANTIAGO"
+  ],
+  "titulares_visitante": [
+    "BERNARDO AGUILERA, DIEGO",
+    "JORRIN GARCIA, IKER",
+    "PEREZ GARCIA, MANUEL",
+    "FERNANDEZ OSMA, ANGEL",
+    "FERNANDEZ TRAVIESA, MATEO",
+    "GARRIDO GARCIA, MATEO JULIAN",
+    "RUIZ MARTINEZ, LUCAS",
+    "GONZALEZ ALVAREZ, ALONSO",
+    "SERNA RODRIGUEZ, HECTOR",
+    "MANTILLA MARTIN, MAEL",
+    "GONZALEZ DEL BARRIO, DANIEL"
+  ],
+  "suplentes_local": [
+    "MOROGLU OYARBIDE, LEO",
+    "GARCIA SAINZ, LUCAS",
+    "BOLLOQUE PRIETO, TRISTAN",
+    "DÍAZ-GUARDAMINO SANTOS, GABRIEL",
+    "COSGAYA FRANCES, LARO"
+  ],
+  "suplentes_visitante": [
+    "CIEZA PEREZ, ASIER",
+    "VELEZ VALDES, ABRAHAM",
+    "PEÑASCO RUIZ, HUGO",
+    "GONZALEZ MENDES, MARTIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "DÍAZ-GUARDAMINO SANTOS, GABRIEL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ROJO ARRANZ, JAVIER",
+    "VERDEJA GONZALEZ, JORGE",
+    "LOPEZ GARZON, LEO",
+    "SOBERON GARCIA, DIEGO",
+    "URIBE DELGADO, MARCO",
+    "GUTIERREZ GARCIA, MARTIN",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "ELOLA BADOLATO, JACOBO",
+    "RODICIO VALENZUELA, DIEGO",
+    "BARRIO RODRIGUEZ, DIEGO",
+    "BARCENA MUÑOZ, SANTIAGO",
+    "MOROGLU OYARBIDE, LEO",
+    "GARCIA SAINZ, LUCAS",
+    "BOLLOQUE PRIETO, TRISTAN",
+    "COSGAYA FRANCES, LARO"
+  ],
+  "jugadores_visitante": [
+    "BERNARDO AGUILERA, DIEGO",
+    "JORRIN GARCIA, IKER",
+    "PEREZ GARCIA, MANUEL",
+    "FERNANDEZ OSMA, ANGEL",
+    "FERNANDEZ TRAVIESA, MATEO",
+    "GARRIDO GARCIA, MATEO JULIAN",
+    "RUIZ MARTINEZ, LUCAS",
+    "GONZALEZ ALVAREZ, ALONSO",
+    "SERNA RODRIGUEZ, HECTOR",
+    "MANTILLA MARTIN, MAEL",
+    "GONZALEZ DEL BARRIO, DANIEL",
+    "CIEZA PEREZ, ASIER",
+    "GONZALEZ MENDES, MARTIN",
+    "PEÑASCO RUIZ, HUGO",
+    "VELEZ VALDES, ABRAHAM"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "MOROGLU OYARBIDE, LEO",
+      "sale": "ROJO ARRANZ, JAVIER"
+    },
+    {
+      "min": 46,
+      "entra": "GARCIA SAINZ, LUCAS",
+      "sale": "BARCENA MUÑOZ, SANTIAGO"
+    },
+    {
+      "min": 46,
+      "entra": "BOLLOQUE PRIETO, TRISTAN",
+      "sale": "LOPEZ GARZON, LEO"
+    },
+    {
+      "min": 56,
+      "entra": "COSGAYA FRANCES, LARO",
+      "sale": "SOBERON GARCIA, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "CIEZA PEREZ, ASIER",
+      "sale": "GONZALEZ DEL BARRIO, DANIEL"
+    },
+    {
+      "min": 47,
+      "entra": "GONZALEZ MENDES, MARTIN",
+      "sale": "RUIZ MARTINEZ, LUCAS"
+    },
+    {
+      "min": 50,
+      "entra": "PEÑASCO RUIZ, HUGO",
+      "sale": "FERNANDEZ OSMA, ANGEL"
+    },
+    {
+      "min": 54,
+      "entra": "VELEZ VALDES, ABRAHAM",
+      "sale": "PEREZ GARCIA, MANUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "ROJO ARRANZ, JAVIER": 35,
+    "VERDEJA GONZALEZ, JORGE": 90,
+    "LOPEZ GARZON, LEO": 46,
+    "SOBERON GARCIA, DIEGO": 56,
+    "URIBE DELGADO, MARCO": 90,
+    "GUTIERREZ GARCIA, MARTIN": 90,
+    "FERNANDEZ NAVAMUEL, JENS": 90,
+    "ELOLA BADOLATO, JACOBO": 90,
+    "RODICIO VALENZUELA, DIEGO": 90,
+    "BARRIO RODRIGUEZ, DIEGO": 90,
+    "BARCENA MUÑOZ, SANTIAGO": 46,
+    "MOROGLU OYARBIDE, LEO": 55,
+    "GARCIA SAINZ, LUCAS": 44,
+    "BOLLOQUE PRIETO, TRISTAN": 44,
+    "COSGAYA FRANCES, LARO": 34,
+    "BERNARDO AGUILERA, DIEGO": 90,
+    "JORRIN GARCIA, IKER": 90,
+    "PEREZ GARCIA, MANUEL": 54,
+    "FERNANDEZ OSMA, ANGEL": 50,
+    "FERNANDEZ TRAVIESA, MATEO": 90,
+    "GARRIDO GARCIA, MATEO JULIAN": 90,
+    "RUIZ MARTINEZ, LUCAS": 47,
+    "GONZALEZ ALVAREZ, ALONSO": 90,
+    "SERNA RODRIGUEZ, HECTOR": 90,
+    "MANTILLA MARTIN, MAEL": 90,
+    "GONZALEZ DEL BARRIO, DANIEL": 35,
+    "CIEZA PEREZ, ASIER": 55,
+    "GONZALEZ MENDES, MARTIN": 43,
+    "PEÑASCO RUIZ, HUGO": 40,
+    "VELEZ VALDES, ABRAHAM": 36
+  },
+  "portero_local": "ROJO ARRANZ, JAVIER",
+  "portero_visitante": "BERNARDO AGUILERA, DIEGO",
+  "dorsales_local": {
+    "ROJO ARRANZ, JAVIER": 13,
+    "VERDEJA GONZALEZ, JORGE": 2,
+    "LOPEZ GARZON, LEO": 4,
+    "SOBERON GARCIA, DIEGO": 6,
+    "URIBE DELGADO, MARCO": 7,
+    "GUTIERREZ GARCIA, MARTIN": 8,
+    "FERNANDEZ NAVAMUEL, JENS": 9,
+    "ELOLA BADOLATO, JACOBO": 10,
+    "RODICIO VALENZUELA, DIEGO": 11,
+    "BARRIO RODRIGUEZ, DIEGO": 14,
+    "BARCENA MUÑOZ, SANTIAGO": 15
+  },
+  "dorsales_visitante": {
+    "BERNARDO AGUILERA, DIEGO": 13,
+    "JORRIN GARCIA, IKER": 2,
+    "PEREZ GARCIA, MANUEL": 3,
+    "FERNANDEZ OSMA, ANGEL": 4,
+    "FERNANDEZ TRAVIESA, MATEO": 5,
+    "GARRIDO GARCIA, MATEO JULIAN": 6,
+    "RUIZ MARTINEZ, LUCAS": 7,
+    "GONZALEZ ALVAREZ, ALONSO": 8,
+    "SERNA RODRIGUEZ, HECTOR": 9,
+    "MANTILLA MARTIN, MAEL": 10,
+    "GONZALEZ DEL BARRIO, DANIEL": 15
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
