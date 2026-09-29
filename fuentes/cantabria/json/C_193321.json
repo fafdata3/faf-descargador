@@ -1,0 +1,243 @@
+{
+  "acta_id": "C_193321",
+  "filename": "Acta_C_193321.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 33,
+  "fecha": "18-05-2025",
+  "hora": "10:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "AA. VV. LA MARISMA A",
+  "equipo_visitante": "A.D. SAN AGUSTIN A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LAVÍN GARCÍA, RUBÉN"
+  ],
+  "estadio": "Municipal de Frajanas",
+  "ciudad": "Astillero (El)",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "MARTINEZ RUIZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 22,
+      "jugador": "MARTINEZ RUIZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "LAINZ MORAN, JACOBO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "SARACHAGA GAÑAN, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "CANTARERO PASCUAL, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RUIZ GUTIERREZ, ENRIQUE",
+  "entrenador_visitante": "GRIFFITHS SANCHEZ, SAMUEL ERNESTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SARACHAGA GIL, JOSE LUIS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SARACHAGA GIL, JOSE LUIS",
+  "delegado_equipo_visitante": "NIETO LEAL, JAVIER",
+  "titulares_local": [
+    "FALL FALL, MOR",
+    "GONZALEZ OSORIO, DANIEL",
+    "MOJA GOMEZ, DIEGO",
+    "HERRERA MACIA, NICOLAS",
+    "MARTINEZ RUIZ, LUCAS",
+    "SARACHAGA GAÑAN, IKER",
+    "HIGUERA MARTINEZ, DIEGO",
+    "JIMENEZ AGUEROS, NICOLAS",
+    "AVENDAÑO SILIO, ADRIAN",
+    "CAVADA CAVADA, ADRIAN",
+    "LIEBANA GUTIERREZ, ADRIAN"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+    "SEBRANGO ABAD, RODRIGO",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "ROZAS BENITO, GONZALO",
+    "ALONSO FERNANDEZ, MATEO",
+    "QUIJANO GARCIA, JAIME",
+    "GONZALEZ MEDINA, JOSE",
+    "NOGUES FERNANDEZ, ALEJANDRO",
+    "GARCIA LUNA, ALEJO",
+    "LAINZ MORAN, JACOBO",
+    "PUENTE RUIZ, RICARDO"
+  ],
+  "suplentes_local": [
+    "HARO FERNANDEZ, HUGO",
+    "GUTIERREZ ECHEVARRIA, DARIO",
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO",
+    "GARCIA GONZALEZ, PABLO"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ SANCHES, JUAN",
+    "VAQUERO ARTEAGA, JAIME",
+    "VERDE ARRANZ, DIEGO",
+    "CANTARERO PASCUAL, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_local": [
+    "HARO FERNANDEZ, HUGO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FALL FALL, MOR",
+    "GONZALEZ OSORIO, DANIEL",
+    "MOJA GOMEZ, DIEGO",
+    "HERRERA MACIA, NICOLAS",
+    "MARTINEZ RUIZ, LUCAS",
+    "SARACHAGA GAÑAN, IKER",
+    "HIGUERA MARTINEZ, DIEGO",
+    "JIMENEZ AGUEROS, NICOLAS",
+    "AVENDAÑO SILIO, ADRIAN",
+    "CAVADA CAVADA, ADRIAN",
+    "LIEBANA GUTIERREZ, ADRIAN",
+    "GARCIA GONZALEZ, PABLO",
+    "GUTIERREZ ECHEVARRIA, DARIO",
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+    "SEBRANGO ABAD, RODRIGO",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "ROZAS BENITO, GONZALO",
+    "ALONSO FERNANDEZ, MATEO",
+    "QUIJANO GARCIA, JAIME",
+    "GONZALEZ MEDINA, JOSE",
+    "NOGUES FERNANDEZ, ALEJANDRO",
+    "GARCIA LUNA, ALEJO",
+    "LAINZ MORAN, JACOBO",
+    "PUENTE RUIZ, RICARDO",
+    "GONZALEZ SANCHES, JUAN",
+    "VERDE ARRANZ, DIEGO",
+    "CANTARERO PASCUAL, ALEJANDRO",
+    "VAQUERO ARTEAGA, JAIME"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "GARCIA GONZALEZ, PABLO",
+      "sale": "MOJA GOMEZ, DIEGO"
+    },
+    {
+      "min": 63,
+      "entra": "GUTIERREZ ECHEVARRIA, DARIO",
+      "sale": "JIMENEZ AGUEROS, NICOLAS"
+    },
+    {
+      "min": 69,
+      "entra": "NUÑEZ CORDOVA, WLADIMIR ANTONIO",
+      "sale": "SARACHAGA GAÑAN, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 2,
+      "entra": "GONZALEZ SANCHES, JUAN",
+      "sale": "FERNANDEZ-CUETO RODRIGUEZ, JAIME"
+    },
+    {
+      "min": 43,
+      "entra": "VERDE ARRANZ, DIEGO",
+      "sale": "QUIJANO GARCIA, JAIME"
+    },
+    {
+      "min": 53,
+      "entra": "CANTARERO PASCUAL, ALEJANDRO",
+      "sale": "PUENTE RUIZ, RICARDO"
+    },
+    {
+      "min": 53,
+      "entra": "VAQUERO ARTEAGA, JAIME",
+      "sale": "GARCIA LUNA, ALEJO"
+    }
+  ],
+  "minutos_jugadores": {
+    "FALL FALL, MOR": 90,
+    "GONZALEZ OSORIO, DANIEL": 90,
+    "MOJA GOMEZ, DIEGO": 56,
+    "HERRERA MACIA, NICOLAS": 90,
+    "MARTINEZ RUIZ, LUCAS": 90,
+    "SARACHAGA GAÑAN, IKER": 69,
+    "HIGUERA MARTINEZ, DIEGO": 90,
+    "JIMENEZ AGUEROS, NICOLAS": 63,
+    "AVENDAÑO SILIO, ADRIAN": 90,
+    "CAVADA CAVADA, ADRIAN": 90,
+    "LIEBANA GUTIERREZ, ADRIAN": 90,
+    "GARCIA GONZALEZ, PABLO": 34,
+    "GUTIERREZ ECHEVARRIA, DARIO": 27,
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO": 21,
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME": 2,
+    "SEBRANGO ABAD, RODRIGO": 90,
+    "GALLO JUANCO, JAVIER ARTURO": 90,
+    "ROZAS BENITO, GONZALO": 90,
+    "ALONSO FERNANDEZ, MATEO": 90,
+    "QUIJANO GARCIA, JAIME": 43,
+    "GONZALEZ MEDINA, JOSE": 90,
+    "NOGUES FERNANDEZ, ALEJANDRO": 90,
+    "GARCIA LUNA, ALEJO": 53,
+    "LAINZ MORAN, JACOBO": 90,
+    "PUENTE RUIZ, RICARDO": 53,
+    "GONZALEZ SANCHES, JUAN": 88,
+    "VERDE ARRANZ, DIEGO": 47,
+    "CANTARERO PASCUAL, ALEJANDRO": 37,
+    "VAQUERO ARTEAGA, JAIME": 37
+  },
+  "portero_local": "FALL FALL, MOR",
+  "portero_visitante": "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+  "dorsales_local": {
+    "FALL FALL, MOR": 1,
+    "GONZALEZ OSORIO, DANIEL": 2,
+    "MOJA GOMEZ, DIEGO": 3,
+    "HERRERA MACIA, NICOLAS": 4,
+    "MARTINEZ RUIZ, LUCAS": 5,
+    "SARACHAGA GAÑAN, IKER": 6,
+    "HIGUERA MARTINEZ, DIEGO": 8,
+    "JIMENEZ AGUEROS, NICOLAS": 10,
+    "AVENDAÑO SILIO, ADRIAN": 12,
+    "CAVADA CAVADA, ADRIAN": 17,
+    "LIEBANA GUTIERREZ, ADRIAN": 20
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME": 25,
+    "SEBRANGO ABAD, RODRIGO": 2,
+    "GALLO JUANCO, JAVIER ARTURO": 3,
+    "ROZAS BENITO, GONZALO": 7,
+    "ALONSO FERNANDEZ, MATEO": 8,
+    "QUIJANO GARCIA, JAIME": 10,
+    "GONZALEZ MEDINA, JOSE": 16,
+    "NOGUES FERNANDEZ, ALEJANDRO": 17,
+    "GARCIA LUNA, ALEJO": 19,
+    "LAINZ MORAN, JACOBO": 22,
+    "PUENTE RUIZ, RICARDO": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
