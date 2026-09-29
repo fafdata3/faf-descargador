@@ -1,0 +1,280 @@
+{
+  "acta_id": "G_9990303",
+  "filename": "Acta_G_9990303.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 10,
+  "fecha": "22-11-2025",
+  "hora": "12:30",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "REAL UNION CLUB SAD B",
+  "equipo_visitante": "ARRUPE CHAMINADE C.D.D.F. B",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "CONDE ESTEBAN, TELMO"
+  ],
+  "estadio": "GAL",
+  "ciudad": "Irun",
+  "goleadores": [
+    {
+      "minuto": 36,
+      "jugador": "MANSOA ANTIA, TELMO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 13,
+      "jugador": "MARTINEZ ESTOMBA, MATTIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "ARRUTI GURRUCHAGA, TELMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "ARAMBURU DEL VALLE, DANEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "SUAREZ LEBRERO, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "ARCELUS SENDON, IVAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MADRAZO BOTAS, JON ANDER",
+  "entrenador_visitante": "ARRUTI GURRUCHAGA, TELMO",
+  "segundo_entrenador_local": "ECHEVESTE, CAMILLE",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GRACIA POLO, PABLO",
+  "titulares_local": [
+    "NAUSIA MARTIN, TELMO",
+    "MARTINEZ ESTOMBA, MATTIN",
+    "ZAPIRAIN NAVARRO, BEÑAT",
+    "GONZALEZ ALONSO, TELMO",
+    "RODRIGUEZ IRIGOYEN, JON",
+    "HAIVAZ, DANIEL",
+    "LEGORBURO ALVAREZ, OIER",
+    "TEJEDOR PARCERO, OIHAN",
+    "GARCIA ZABARTE, AIUR",
+    "FRANCISCO ARTEAGA, EDER",
+    "VILLAMOR IRASTORZA, MARKEL"
+  ],
+  "titulares_visitante": [
+    "YUBERO RUIZ DE MUNAIN, PABLO",
+    "MANSOA ANTIA, TELMO",
+    "CERCEGA, NICHOLAS CASIAN",
+    "HERNANDEZ ORIA, ADEI",
+    "NERIA LEGARDA, ALVARO",
+    "ARCELUS SENDON, XABI",
+    "BELLO MORAN, MATEO",
+    "CICILIANO BICA, GUILLERMO",
+    "UBARRECHENA DUBLANG, PABLO",
+    "MENENDEZ EGIDO, LUKAS",
+    "DE MIGUEL DURAN, ESTEBAN"
+  ],
+  "suplentes_local": [
+    "CRESPO URTIZBEREA, ZEIAN",
+    "PEÑA GARMENDIA, PABLO",
+    "NAVAL BOUIFFROR, NOAIM",
+    "ETXEBESTE PEREZ, MARTIN",
+    "PEREÑA GARRANCHO, IKER",
+    "GUEZURAGA AUSAN, XABIER",
+    "SANHAJI TAMOUH, ILYES ADAM"
+  ],
+  "suplentes_visitante": [
+    "COCERO MACHIN, INHAR",
+    "SANZ GAYUBAS, UNAI",
+    "MARTINEZ-ITURRA EZKURRA, IÑIGO",
+    "SUAREZ LEBRERO, ANDER",
+    "ARAMBURU DEL VALLE, DANEL",
+    "HERNANDEZ ORIA, EKI",
+    "ARCELUS SENDON, IVAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "CRESPO URTIZBEREA, ZEIAN",
+    "PEREÑA GARRANCHO, IKER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "COCERO MACHIN, INHAR",
+    "HERNANDEZ ORIA, EKI"
+  ],
+  "jugadores_local": [
+    "NAUSIA MARTIN, TELMO",
+    "MARTINEZ ESTOMBA, MATTIN",
+    "ZAPIRAIN NAVARRO, BEÑAT",
+    "GONZALEZ ALONSO, TELMO",
+    "RODRIGUEZ IRIGOYEN, JON",
+    "HAIVAZ, DANIEL",
+    "LEGORBURO ALVAREZ, OIER",
+    "TEJEDOR PARCERO, OIHAN",
+    "GARCIA ZABARTE, AIUR",
+    "FRANCISCO ARTEAGA, EDER",
+    "VILLAMOR IRASTORZA, MARKEL",
+    "NAVAL BOUIFFROR, NOAIM",
+    "GUEZURAGA AUSAN, XABIER",
+    "PEÑA GARMENDIA, PABLO",
+    "ETXEBESTE PEREZ, MARTIN",
+    "SANHAJI TAMOUH, ILYES ADAM"
+  ],
+  "jugadores_visitante": [
+    "YUBERO RUIZ DE MUNAIN, PABLO",
+    "MANSOA ANTIA, TELMO",
+    "CERCEGA, NICHOLAS CASIAN",
+    "HERNANDEZ ORIA, ADEI",
+    "NERIA LEGARDA, ALVARO",
+    "ARCELUS SENDON, XABI",
+    "BELLO MORAN, MATEO",
+    "CICILIANO BICA, GUILLERMO",
+    "UBARRECHENA DUBLANG, PABLO",
+    "MENENDEZ EGIDO, LUKAS",
+    "DE MIGUEL DURAN, ESTEBAN",
+    "SUAREZ LEBRERO, ANDER",
+    "ARAMBURU DEL VALLE, DANEL",
+    "MARTINEZ-ITURRA EZKURRA, IÑIGO",
+    "ARCELUS SENDON, IVAN",
+    "SANZ GAYUBAS, UNAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "NAVAL BOUIFFROR, NOAIM",
+      "sale": "GARCIA ZABARTE, AIUR"
+    },
+    {
+      "min": 41,
+      "entra": "GUEZURAGA AUSAN, XABIER",
+      "sale": "GONZALEZ ALONSO, TELMO"
+    },
+    {
+      "min": 51,
+      "entra": "PEÑA GARMENDIA, PABLO",
+      "sale": "FRANCISCO ARTEAGA, EDER"
+    },
+    {
+      "min": 51,
+      "entra": "ETXEBESTE PEREZ, MARTIN",
+      "sale": "TEJEDOR PARCERO, OIHAN"
+    },
+    {
+      "min": 51,
+      "entra": "SANHAJI TAMOUH, ILYES ADAM",
+      "sale": "HAIVAZ, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "SUAREZ LEBRERO, ANDER",
+      "sale": "MENENDEZ EGIDO, LUKAS"
+    },
+    {
+      "min": 53,
+      "entra": "ARAMBURU DEL VALLE, DANEL",
+      "sale": "ARCELUS SENDON, XABI"
+    },
+    {
+      "min": 60,
+      "entra": "MARTINEZ-ITURRA EZKURRA, IÑIGO",
+      "sale": "BELLO MORAN, MATEO"
+    },
+    {
+      "min": 70,
+      "entra": "ARCELUS SENDON, IVAN",
+      "sale": "UBARRECHENA DUBLANG, PABLO"
+    },
+    {
+      "min": 75,
+      "entra": "SANZ GAYUBAS, UNAI",
+      "sale": "HERNANDEZ ORIA, ADEI"
+    }
+  ],
+  "minutos_jugadores": {
+    "NAUSIA MARTIN, TELMO": 90,
+    "MARTINEZ ESTOMBA, MATTIN": 90,
+    "ZAPIRAIN NAVARRO, BEÑAT": 90,
+    "GONZALEZ ALONSO, TELMO": 41,
+    "RODRIGUEZ IRIGOYEN, JON": 90,
+    "HAIVAZ, DANIEL": 51,
+    "LEGORBURO ALVAREZ, OIER": 90,
+    "TEJEDOR PARCERO, OIHAN": 51,
+    "GARCIA ZABARTE, AIUR": 41,
+    "FRANCISCO ARTEAGA, EDER": 51,
+    "VILLAMOR IRASTORZA, MARKEL": 90,
+    "NAVAL BOUIFFROR, NOAIM": 49,
+    "GUEZURAGA AUSAN, XABIER": 49,
+    "PEÑA GARMENDIA, PABLO": 39,
+    "ETXEBESTE PEREZ, MARTIN": 39,
+    "SANHAJI TAMOUH, ILYES ADAM": 39,
+    "YUBERO RUIZ DE MUNAIN, PABLO": 90,
+    "MANSOA ANTIA, TELMO": 90,
+    "CERCEGA, NICHOLAS CASIAN": 90,
+    "HERNANDEZ ORIA, ADEI": 75,
+    "NERIA LEGARDA, ALVARO": 90,
+    "ARCELUS SENDON, XABI": 53,
+    "BELLO MORAN, MATEO": 60,
+    "CICILIANO BICA, GUILLERMO": 90,
+    "UBARRECHENA DUBLANG, PABLO": 70,
+    "MENENDEZ EGIDO, LUKAS": 45,
+    "DE MIGUEL DURAN, ESTEBAN": 90,
+    "SUAREZ LEBRERO, ANDER": 45,
+    "ARAMBURU DEL VALLE, DANEL": 37,
+    "MARTINEZ-ITURRA EZKURRA, IÑIGO": 30,
+    "ARCELUS SENDON, IVAN": 20,
+    "SANZ GAYUBAS, UNAI": 15
+  },
+  "portero_local": "NAUSIA MARTIN, TELMO",
+  "portero_visitante": "YUBERO RUIZ DE MUNAIN, PABLO",
+  "dorsales_local": {
+    "NAUSIA MARTIN, TELMO": 1,
+    "MARTINEZ ESTOMBA, MATTIN": 5,
+    "ZAPIRAIN NAVARRO, BEÑAT": 6,
+    "GONZALEZ ALONSO, TELMO": 8,
+    "RODRIGUEZ IRIGOYEN, JON": 10,
+    "HAIVAZ, DANIEL": 11,
+    "LEGORBURO ALVAREZ, OIER": 12,
+    "TEJEDOR PARCERO, OIHAN": 16,
+    "GARCIA ZABARTE, AIUR": 20,
+    "FRANCISCO ARTEAGA, EDER": 21,
+    "VILLAMOR IRASTORZA, MARKEL": 22
+  },
+  "dorsales_visitante": {
+    "YUBERO RUIZ DE MUNAIN, PABLO": 13,
+    "MANSOA ANTIA, TELMO": 4,
+    "CERCEGA, NICHOLAS CASIAN": 5,
+    "HERNANDEZ ORIA, ADEI": 6,
+    "NERIA LEGARDA, ALVARO": 7,
+    "ARCELUS SENDON, XABI": 10,
+    "BELLO MORAN, MATEO": 14,
+    "CICILIANO BICA, GUILLERMO": 15,
+    "UBARRECHENA DUBLANG, PABLO": 20,
+    "MENENDEZ EGIDO, LUKAS": 23,
+    "DE MIGUEL DURAN, ESTEBAN": 24
+  },
+  "suspendidos": []
+}
