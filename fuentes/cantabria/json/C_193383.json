@@ -1,0 +1,254 @@
+{
+  "acta_id": "C_193383",
+  "filename": "Acta_C_193383.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "27-10-2024",
+  "hora": "12:45",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO A",
+  "equipo_visitante": "C.D. COLINDRES A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RUAS ZAMANILLO, ALEJANDRO"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "VASCO ARNAIZ, MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "GARCIA GOMEZ, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "GONZALEZ PEÑA, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 42,
+      "jugador": "LAVIN AGUERO, CRISTIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "USLE MORALES, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "MARTINEZ GARCIA, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "CAMPO ANTUÑANO, LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    }
+  ],
+  "entrenador_local": "SAN JUAN ALONSO, FCO. JAVIER",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "SALGUERO CALDERA, BORJA",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "CAMPO ANTUÑANO, LUIS",
+  "titulares_local": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "LAVIN GUTIERREZ, MARINA",
+    "GARCIA AHEDO, MIKEL",
+    "QUINTANA SOLORZANO, SERGIO",
+    "GUTIERREZ MARTIN, PABLO",
+    "RODRIGUEZ CAÑAS, CRISTIAN",
+    "GOMEZ CEBALLOS, HUGO",
+    "SECADAS BARQUIN, DIEGO",
+    "GONZALEZ PEÑA, MARCOS",
+    "LAVIN AGUERO, CRISTIAN",
+    "VASCO ARNAIZ, MANUEL"
+  ],
+  "titulares_visitante": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "SAN MIGUEL SARACHAGA, MARCO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "ANDIA FLEXER, ALBANO",
+    "MARTINEZ GARCIA, DIEGO",
+    "PABLOS SUAREZ, IBAI",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "RODRIGUEZ BOLAÑO, MARIO",
+    "GARCIA GOMEZ, LUCAS",
+    "TERAN MENESES, SANTIAGO",
+    "CHATBI, AMINE"
+  ],
+  "suplentes_local": [
+    "GOMEZ COBO, LEO",
+    "USLE MORALES, ADRIAN",
+    "DIEZ VELASCO, JUAN"
+  ],
+  "suplentes_visitante": [
+    "RUIZ CAÑARTE, RAUL",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "MATEOS NAVARRO, ROBERTO",
+    "CRIADO DIEZ, ENEKO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "LAVIN GUTIERREZ, MARINA",
+    "GARCIA AHEDO, MIKEL",
+    "QUINTANA SOLORZANO, SERGIO",
+    "GUTIERREZ MARTIN, PABLO",
+    "RODRIGUEZ CAÑAS, CRISTIAN",
+    "GOMEZ CEBALLOS, HUGO",
+    "SECADAS BARQUIN, DIEGO",
+    "GONZALEZ PEÑA, MARCOS",
+    "LAVIN AGUERO, CRISTIAN",
+    "VASCO ARNAIZ, MANUEL",
+    "USLE MORALES, ADRIAN",
+    "DIEZ VELASCO, JUAN",
+    "GOMEZ COBO, LEO"
+  ],
+  "jugadores_visitante": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "SAN MIGUEL SARACHAGA, MARCO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "ANDIA FLEXER, ALBANO",
+    "MARTINEZ GARCIA, DIEGO",
+    "PABLOS SUAREZ, IBAI",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "RODRIGUEZ BOLAÑO, MARIO",
+    "GARCIA GOMEZ, LUCAS",
+    "TERAN MENESES, SANTIAGO",
+    "CHATBI, AMINE",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "MATEOS NAVARRO, ROBERTO",
+    "CRIADO DIEZ, ENEKO",
+    "RUIZ CAÑARTE, RAUL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "USLE MORALES, ADRIAN",
+      "sale": "VASCO ARNAIZ, MANUEL"
+    },
+    {
+      "min": 53,
+      "entra": "DIEZ VELASCO, JUAN",
+      "sale": "GARCIA AHEDO, MIKEL"
+    },
+    {
+      "min": 58,
+      "entra": "GOMEZ COBO, LEO",
+      "sale": "RODRIGUEZ CAÑAS, CRISTIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "SAN EMETERIO FERNANDEZ, ENZO",
+      "sale": "GARCIA GOMEZ, LUCAS"
+    },
+    {
+      "min": 54,
+      "entra": "MATEOS NAVARRO, ROBERTO",
+      "sale": "SAINZ DE LA MAZA AJA, EDUARDO"
+    },
+    {
+      "min": 60,
+      "entra": "CRIADO DIEZ, ENEKO",
+      "sale": "ANDIA FLEXER, ALBANO"
+    },
+    {
+      "min": 68,
+      "entra": "RUIZ CAÑARTE, RAUL",
+      "sale": "TERAN MENESES, SANTIAGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 90,
+    "LAVIN GUTIERREZ, MARINA": 90,
+    "GARCIA AHEDO, MIKEL": 53,
+    "QUINTANA SOLORZANO, SERGIO": 90,
+    "GUTIERREZ MARTIN, PABLO": 90,
+    "RODRIGUEZ CAÑAS, CRISTIAN": 58,
+    "GOMEZ CEBALLOS, HUGO": 90,
+    "SECADAS BARQUIN, DIEGO": 90,
+    "GONZALEZ PEÑA, MARCOS": 90,
+    "LAVIN AGUERO, CRISTIAN": 90,
+    "VASCO ARNAIZ, MANUEL": 45,
+    "USLE MORALES, ADRIAN": 45,
+    "DIEZ VELASCO, JUAN": 37,
+    "GOMEZ COBO, LEO": 32,
+    "ORDAS ARREDONDO, ISKANDER": 90,
+    "SAN MIGUEL SARACHAGA, MARCO": 90,
+    "CAMPOS SAN EMETERIO, DIEGO": 90,
+    "ANDIA FLEXER, ALBANO": 60,
+    "MARTINEZ GARCIA, DIEGO": 90,
+    "PABLOS SUAREZ, IBAI": 90,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 54,
+    "RODRIGUEZ BOLAÑO, MARIO": 90,
+    "GARCIA GOMEZ, LUCAS": 54,
+    "TERAN MENESES, SANTIAGO": 68,
+    "CHATBI, AMINE": 90,
+    "SAN EMETERIO FERNANDEZ, ENZO": 36,
+    "MATEOS NAVARRO, ROBERTO": 36,
+    "CRIADO DIEZ, ENEKO": 30,
+    "RUIZ CAÑARTE, RAUL": 22
+  },
+  "portero_local": "ROMILA VASILACHE, ALEJANDRO ANDREI",
+  "portero_visitante": "ORDAS ARREDONDO, ISKANDER",
+  "dorsales_local": {
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 13,
+    "LAVIN GUTIERREZ, MARINA": 2,
+    "GARCIA AHEDO, MIKEL": 3,
+    "QUINTANA SOLORZANO, SERGIO": 5,
+    "GUTIERREZ MARTIN, PABLO": 6,
+    "RODRIGUEZ CAÑAS, CRISTIAN": 7,
+    "GOMEZ CEBALLOS, HUGO": 8,
+    "SECADAS BARQUIN, DIEGO": 10,
+    "GONZALEZ PEÑA, MARCOS": 11,
+    "LAVIN AGUERO, CRISTIAN": 12,
+    "VASCO ARNAIZ, MANUEL": 14
+  },
+  "dorsales_visitante": {
+    "ORDAS ARREDONDO, ISKANDER": 13,
+    "SAN MIGUEL SARACHAGA, MARCO": 3,
+    "CAMPOS SAN EMETERIO, DIEGO": 5,
+    "ANDIA FLEXER, ALBANO": 6,
+    "MARTINEZ GARCIA, DIEGO": 7,
+    "PABLOS SUAREZ, IBAI": 8,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 10,
+    "RODRIGUEZ BOLAÑO, MARIO": 18,
+    "GARCIA GOMEZ, LUCAS": 19,
+    "TERAN MENESES, SANTIAGO": 21,
+    "CHATBI, AMINE": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
