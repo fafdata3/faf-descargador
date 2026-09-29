@@ -1,0 +1,273 @@
+{
+  "acta_id": "B_2008229",
+  "filename": "Acta_B_2008229.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 19,
+  "fecha": "16-02-2025",
+  "hora": "18:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "SANTUTXU B",
+  "equipo_visitante": "UGERAGA A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ALAEZ CALVO, CESAR"
+  ],
+  "estadio": "MAIONA A",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "GARCIA ABAD, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "PEREZ ZALDUNBIDE, URKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 49,
+      "jugador": "GARCIA ABAD, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "CORRAL MENTXAKA, HODEI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "GONZALEZ DEL HERRERO OREJA, IZEI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BERMUDEZ SALGUERO, IGNACIO",
+  "entrenador_visitante": "ANDERSEN ARROYO, MIKEL",
+  "segundo_entrenador_local": "MARCOS PORTAL, OSCAR",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ALVAREZ DIEGUEZ, JUAN ANTONIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALVAREZ DIEGUEZ, JUAN ANTONIO",
+  "delegado_equipo_visitante": "RIKE CALVO, GURIA",
+  "titulares_local": [
+    "ORTEGO SANTURTUN, MIKEL",
+    "SARACHAGA GUTIERREZ, UNAX",
+    "ALVAREZ ARNAIZ, ANDER",
+    "GOMEZ MARTIN, ENAITZ",
+    "AGUIRREGOICOA OLAGORTA, LANDER",
+    "TOUAYLI GOMEZ, NAIM",
+    "MURIEL MARTIN, ENDIKA",
+    "REY REBOLLO, OIER",
+    "GARCIA ABAD, AIMAR",
+    "CRISOSTOMO PORTELA, ARKAITZ",
+    "CEPEDA SOMORI, IKER"
+  ],
+  "titulares_visitante": [
+    "MOURE BUENO, IKER",
+    "LARREA NIEVA, AIMAR MIRENA",
+    "CORRAL MENTXAKA, HODEI",
+    "CASTRESANA MITXELENA, LIER",
+    "LORENTE BILBAO, IORITZ",
+    "MEDINA KANI, KAI",
+    "AYUSO GONZALEZ, ARETX",
+    "LOPEZ KORKOSTEGI, JON",
+    "GONZALEZ DEL HERRERO OREJA, IZEI",
+    "PEÑA RIVERA, ERLANTZ",
+    "GARCIA QUIROGA, OIER"
+  ],
+  "suplentes_local": [
+    "GIRON NOVOA, DAREK",
+    "DAVILA BARRIUSO, JON",
+    "BILBAO DIAZ, IKER",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "PEREZ ZALDUNBIDE, URKO",
+    "ALBILLO TACON, UNAX",
+    "ARRAÑA RUBIO, MIKEL"
+  ],
+  "suplentes_visitante": [
+    "MARIN BLANCO, GARIKOITZ",
+    "MUNICIO CAMPO, HANOT",
+    "GARCIA CALVO, XABIER",
+    "ZABALBEASKOA KORTABITARTE, LUKEN",
+    "ARRIAGA CASAL, GORKA",
+    "GOIKOETXEA DE GOYARZU, EKHI",
+    "VILLAR TAMAYO, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "GIRON NOVOA, DAREK",
+    "DAVILA BARRIUSO, JON"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GOIKOETXEA DE GOYARZU, EKHI",
+    "VILLAR TAMAYO, JON"
+  ],
+  "jugadores_local": [
+    "ORTEGO SANTURTUN, MIKEL",
+    "SARACHAGA GUTIERREZ, UNAX",
+    "ALVAREZ ARNAIZ, ANDER",
+    "GOMEZ MARTIN, ENAITZ",
+    "AGUIRREGOICOA OLAGORTA, LANDER",
+    "TOUAYLI GOMEZ, NAIM",
+    "MURIEL MARTIN, ENDIKA",
+    "REY REBOLLO, OIER",
+    "GARCIA ABAD, AIMAR",
+    "CRISOSTOMO PORTELA, ARKAITZ",
+    "CEPEDA SOMORI, IKER",
+    "ARRAÑA RUBIO, MIKEL",
+    "ALBILLO TACON, UNAX",
+    "PEREZ ZALDUNBIDE, URKO",
+    "BILBAO DIAZ, IKER",
+    "ESPAÑA RAMOS, NIKOLAS"
+  ],
+  "jugadores_visitante": [
+    "MOURE BUENO, IKER",
+    "LARREA NIEVA, AIMAR MIRENA",
+    "CORRAL MENTXAKA, HODEI",
+    "CASTRESANA MITXELENA, LIER",
+    "LORENTE BILBAO, IORITZ",
+    "MEDINA KANI, KAI",
+    "AYUSO GONZALEZ, ARETX",
+    "LOPEZ KORKOSTEGI, JON",
+    "GONZALEZ DEL HERRERO OREJA, IZEI",
+    "PEÑA RIVERA, ERLANTZ",
+    "GARCIA QUIROGA, OIER",
+    "ARRIAGA CASAL, GORKA",
+    "ZABALBEASKOA KORTABITARTE, LUKEN",
+    "MUNICIO CAMPO, HANOT",
+    "GARCIA CALVO, XABIER",
+    "MARIN BLANCO, GARIKOITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "ARRAÑA RUBIO, MIKEL",
+      "sale": "TOUAYLI GOMEZ, NAIM"
+    },
+    {
+      "min": 59,
+      "entra": "ALBILLO TACON, UNAX",
+      "sale": "GOMEZ MARTIN, ENAITZ"
+    },
+    {
+      "min": 65,
+      "entra": "PEREZ ZALDUNBIDE, URKO",
+      "sale": "ALVAREZ ARNAIZ, ANDER"
+    },
+    {
+      "min": 80,
+      "entra": "BILBAO DIAZ, IKER",
+      "sale": "SARACHAGA GUTIERREZ, UNAX"
+    },
+    {
+      "min": 80,
+      "entra": "ESPAÑA RAMOS, NIKOLAS",
+      "sale": "GARCIA ABAD, AIMAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "ARRIAGA CASAL, GORKA",
+      "sale": "MEDINA KANI, KAI"
+    },
+    {
+      "min": 46,
+      "entra": "ZABALBEASKOA KORTABITARTE, LUKEN",
+      "sale": "LOPEZ KORKOSTEGI, JON"
+    },
+    {
+      "min": 59,
+      "entra": "MUNICIO CAMPO, HANOT",
+      "sale": "GARCIA QUIROGA, OIER"
+    },
+    {
+      "min": 59,
+      "entra": "GARCIA CALVO, XABIER",
+      "sale": "PEÑA RIVERA, ERLANTZ"
+    },
+    {
+      "min": 75,
+      "entra": "MARIN BLANCO, GARIKOITZ",
+      "sale": "LORENTE BILBAO, IORITZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "ORTEGO SANTURTUN, MIKEL": 90,
+    "SARACHAGA GUTIERREZ, UNAX": 80,
+    "ALVAREZ ARNAIZ, ANDER": 65,
+    "GOMEZ MARTIN, ENAITZ": 59,
+    "AGUIRREGOICOA OLAGORTA, LANDER": 90,
+    "TOUAYLI GOMEZ, NAIM": 59,
+    "MURIEL MARTIN, ENDIKA": 90,
+    "REY REBOLLO, OIER": 90,
+    "GARCIA ABAD, AIMAR": 80,
+    "CRISOSTOMO PORTELA, ARKAITZ": 90,
+    "CEPEDA SOMORI, IKER": 90,
+    "ARRAÑA RUBIO, MIKEL": 31,
+    "ALBILLO TACON, UNAX": 31,
+    "PEREZ ZALDUNBIDE, URKO": 25,
+    "BILBAO DIAZ, IKER": 10,
+    "ESPAÑA RAMOS, NIKOLAS": 10,
+    "MOURE BUENO, IKER": 90,
+    "LARREA NIEVA, AIMAR MIRENA": 90,
+    "CORRAL MENTXAKA, HODEI": 90,
+    "CASTRESANA MITXELENA, LIER": 90,
+    "LORENTE BILBAO, IORITZ": 75,
+    "MEDINA KANI, KAI": 46,
+    "AYUSO GONZALEZ, ARETX": 90,
+    "LOPEZ KORKOSTEGI, JON": 46,
+    "GONZALEZ DEL HERRERO OREJA, IZEI": 90,
+    "PEÑA RIVERA, ERLANTZ": 59,
+    "GARCIA QUIROGA, OIER": 59,
+    "ARRIAGA CASAL, GORKA": 44,
+    "ZABALBEASKOA KORTABITARTE, LUKEN": 44,
+    "MUNICIO CAMPO, HANOT": 31,
+    "GARCIA CALVO, XABIER": 31,
+    "MARIN BLANCO, GARIKOITZ": 15
+  },
+  "portero_local": "ORTEGO SANTURTUN, MIKEL",
+  "portero_visitante": "MOURE BUENO, IKER",
+  "dorsales_local": {
+    "ORTEGO SANTURTUN, MIKEL": 13,
+    "SARACHAGA GUTIERREZ, UNAX": 4,
+    "ALVAREZ ARNAIZ, ANDER": 6,
+    "GOMEZ MARTIN, ENAITZ": 7,
+    "AGUIRREGOICOA OLAGORTA, LANDER": 8,
+    "TOUAYLI GOMEZ, NAIM": 11,
+    "MURIEL MARTIN, ENDIKA": 12,
+    "REY REBOLLO, OIER": 16,
+    "GARCIA ABAD, AIMAR": 17,
+    "CRISOSTOMO PORTELA, ARKAITZ": 19,
+    "CEPEDA SOMORI, IKER": 20
+  },
+  "dorsales_visitante": {
+    "MOURE BUENO, IKER": 13,
+    "LARREA NIEVA, AIMAR MIRENA": 3,
+    "CORRAL MENTXAKA, HODEI": 4,
+    "CASTRESANA MITXELENA, LIER": 5,
+    "LORENTE BILBAO, IORITZ": 6,
+    "MEDINA KANI, KAI": 7,
+    "AYUSO GONZALEZ, ARETX": 9,
+    "LOPEZ KORKOSTEGI, JON": 12,
+    "GONZALEZ DEL HERRERO OREJA, IZEI": 14,
+    "PEÑA RIVERA, ERLANTZ": 16,
+    "GARCIA QUIROGA, OIER": 18
+  },
+  "suspendidos": []
+}
