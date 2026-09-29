@@ -1,0 +1,281 @@
+{
+  "acta_id": "C_193104",
+  "filename": "Acta_C_193104.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 9,
+  "fecha": "02-11-2024",
+  "hora": "12:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "CLUB BANSANDER B",
+  "equipo_visitante": "S.D. PEÑA REVILLA",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZÁLEZ OBESO, RUBÉN"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 43,
+      "jugador": "GONZALEZ BOCANEGRA, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 64,
+      "jugador": "SAINZ DE LA MAZA CARRERAS, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "ABAD BECERRA, ALEX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "CAÑARTE SOTO, UNAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 59,
+      "jugador": "PENILLA FERNANDEZ, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "SANCHEZ BILBAO, MIGUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "RUIZ FERNANDEZ, MARTIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "ABAD BECERRA, ALEX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 26,
+      "jugador": "DIAZ FERNANDEZ, ROBERTO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 66,
+      "jugador": "GUARDEÑO KRASIMIROV, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CRUZ GALLARDO, PEDRO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SANCHEZ GUTIERREZ, ANGEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANCHEZ GUTIERREZ, ANGEL",
+  "delegado_equipo_visitante": "DIAZ FERNANDEZ, ROBERTO",
+  "titulares_local": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "RUIZ FERNANDEZ, MARTIN",
+    "LÓPEZ DÍAZ, IZAN",
+    "ABAD BECERRA, ALEX",
+    "LOPEZ SAIZ, PABLO",
+    "CARRANDI DIAZ, DARIO",
+    "PENILLA FERNANDEZ, SERGIO",
+    "SANCHEZ BILBAO, MIGUEL",
+    "CAÑARTE SOTO, UNAI",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "SALAS GOMEZ, HUGO"
+  ],
+  "titulares_visitante": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "GONZALEZ BOCANEGRA, IZAN",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "NARVAEZ GOMEZ, HUGO",
+    "ARENAS GÓMEZ, MARIO",
+    "SAEZ HERNANDEZ, MARCOS",
+    "CASTILLO FUENMAYOR, LEOMER DAVID",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER"
+  ],
+  "suplentes_local": [
+    "GHINDA GHINDA, DAVID",
+    "GOMEZ VILLALABEITIA, ENOL",
+    "VILLA GARCIA, ARAN",
+    "TEJA TORRE, AURELIO"
+  ],
+  "suplentes_visitante": [
+    "MOLLEDA DEL OLMO, ADRIAN",
+    "NÚÑEZ GALINDO, DIEGO",
+    "CASTILLO MONTES, MAURO",
+    "CALVO GONZALEZ, MATEO",
+    "PEREZ CASTRO, MARCO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GHINDA GHINDA, DAVID"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MOLLEDA DEL OLMO, ADRIAN"
+  ],
+  "jugadores_local": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "RUIZ FERNANDEZ, MARTIN",
+    "LÓPEZ DÍAZ, IZAN",
+    "ABAD BECERRA, ALEX",
+    "LOPEZ SAIZ, PABLO",
+    "CARRANDI DIAZ, DARIO",
+    "PENILLA FERNANDEZ, SERGIO",
+    "SANCHEZ BILBAO, MIGUEL",
+    "CAÑARTE SOTO, UNAI",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "SALAS GOMEZ, HUGO",
+    "GOMEZ VILLALABEITIA, ENOL",
+    "VILLA GARCIA, ARAN",
+    "TEJA TORRE, AURELIO"
+  ],
+  "jugadores_visitante": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "GONZALEZ BOCANEGRA, IZAN",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "NARVAEZ GOMEZ, HUGO",
+    "ARENAS GÓMEZ, MARIO",
+    "SAEZ HERNANDEZ, MARCOS",
+    "CASTILLO FUENMAYOR, LEOMER DAVID",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER",
+    "PEREZ CASTRO, MARCO",
+    "CALVO GONZALEZ, MATEO",
+    "NÚÑEZ GALINDO, DIEGO",
+    "CASTILLO MONTES, MAURO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 66,
+      "entra": "GOMEZ VILLALABEITIA, ENOL",
+      "sale": "PENILLA FERNANDEZ, SERGIO"
+    },
+    {
+      "min": 72,
+      "entra": "VILLA GARCIA, ARAN",
+      "sale": "SANCHEZ BILBAO, MIGUEL"
+    },
+    {
+      "min": 75,
+      "entra": "TEJA TORRE, AURELIO",
+      "sale": "SAINZ DE LA MAZA CARRERAS, ANGEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "PEREZ CASTRO, MARCO",
+      "sale": "ZULUAGA CATAÑO, CARLOS FELIPE"
+    },
+    {
+      "min": 57,
+      "entra": "CALVO GONZALEZ, MATEO",
+      "sale": "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO"
+    },
+    {
+      "min": 66,
+      "entra": "NÚÑEZ GALINDO, DIEGO",
+      "sale": "VELEZ MEDINA, ALEXANDER"
+    },
+    {
+      "min": 69,
+      "entra": "CASTILLO MONTES, MAURO",
+      "sale": "NARVAEZ GOMEZ, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "LEBEÑA RODRIGUEZ, ADRIAN": 90,
+    "RUIZ FERNANDEZ, MARTIN": 90,
+    "LÓPEZ DÍAZ, IZAN": 90,
+    "ABAD BECERRA, ALEX": 90,
+    "LOPEZ SAIZ, PABLO": 90,
+    "CARRANDI DIAZ, DARIO": 90,
+    "PENILLA FERNANDEZ, SERGIO": 66,
+    "SANCHEZ BILBAO, MIGUEL": 72,
+    "CAÑARTE SOTO, UNAI": 90,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 75,
+    "SALAS GOMEZ, HUGO": 90,
+    "GOMEZ VILLALABEITIA, ENOL": 24,
+    "VILLA GARCIA, ARAN": 18,
+    "TEJA TORRE, AURELIO": 15,
+    "CORONADO RUIZ, ALEJANDRO": 90,
+    "GONZALEZ BOCANEGRA, IZAN": 90,
+    "GUARDEÑO KRASIMIROV, DANIEL": 90,
+    "PASCAL, DAVID OCTAVIAN": 90,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 40,
+    "NARVAEZ GOMEZ, HUGO": 69,
+    "ARENAS GÓMEZ, MARIO": 90,
+    "SAEZ HERNANDEZ, MARCOS": 90,
+    "CASTILLO FUENMAYOR, LEOMER DAVID": 90,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 57,
+    "VELEZ MEDINA, ALEXANDER": 66,
+    "PEREZ CASTRO, MARCO": 50,
+    "CALVO GONZALEZ, MATEO": 33,
+    "NÚÑEZ GALINDO, DIEGO": 24,
+    "CASTILLO MONTES, MAURO": 21
+  },
+  "portero_local": "LEBEÑA RODRIGUEZ, ADRIAN",
+  "portero_visitante": "CORONADO RUIZ, ALEJANDRO",
+  "dorsales_local": {
+    "LEBEÑA RODRIGUEZ, ADRIAN": 1,
+    "RUIZ FERNANDEZ, MARTIN": 2,
+    "LÓPEZ DÍAZ, IZAN": 3,
+    "ABAD BECERRA, ALEX": 4,
+    "LOPEZ SAIZ, PABLO": 5,
+    "CARRANDI DIAZ, DARIO": 6,
+    "PENILLA FERNANDEZ, SERGIO": 7,
+    "SANCHEZ BILBAO, MIGUEL": 10,
+    "CAÑARTE SOTO, UNAI": 12,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 14,
+    "SALAS GOMEZ, HUGO": 20
+  },
+  "dorsales_visitante": {
+    "CORONADO RUIZ, ALEJANDRO": 13,
+    "GONZALEZ BOCANEGRA, IZAN": 2,
+    "GUARDEÑO KRASIMIROV, DANIEL": 3,
+    "PASCAL, DAVID OCTAVIAN": 4,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 5,
+    "NARVAEZ GOMEZ, HUGO": 6,
+    "ARENAS GÓMEZ, MARIO": 7,
+    "SAEZ HERNANDEZ, MARCOS": 8,
+    "CASTILLO FUENMAYOR, LEOMER DAVID": 9,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 10,
+    "VELEZ MEDINA, ALEXANDER": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
