@@ -1,0 +1,260 @@
+{
+  "acta_id": "C_193276",
+  "filename": "Acta_C_193276.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 28,
+  "fecha": "05-04-2025",
+  "hora": "11:45",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. RAMALES",
+  "equipo_visitante": "CLUB BANSANDER B",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "EZCURRA SÁNCHEZ, UNAI"
+  ],
+  "estadio": "Cubillas - Ramales",
+  "ciudad": "Ramales De La Victoria",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "SAINZ DE LA MAZA CARRERAS, ANGEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "LÓPEZ DÍAZ, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "MARTIN GARCIA, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "MAZA NOVOA, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "ABASCAL RUIZ, JOAQUIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "RUIZ FERNANDEZ, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JOVER FERNANDEZ, IÑIGO",
+  "entrenador_visitante": "CRUZ GALLARDO, PEDRO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTINEZ FRESNEDO, ENRIQUE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ FRESNEDO, ENRIQUE",
+  "delegado_equipo_visitante": "SANCHEZ GUTIERREZ, ANGEL",
+  "titulares_local": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "MAZA FERNANDEZ, IÑIGO",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "MAZA NOVOA, MARIO",
+    "IBAÑEZ AHEDO, EGOITZ"
+  ],
+  "titulares_visitante": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "RUIZ FERNANDEZ, MARTIN",
+    "LÓPEZ DÍAZ, IZAN",
+    "ABAD BECERRA, ALEX",
+    "LOPEZ SAIZ, PABLO",
+    "SANCHEZ BILBAO, MIGUEL",
+    "CAÑARTE SOTO, UNAI",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "ARENAS VIERA, DIEGO",
+    "RUIZ NORIEGA, MIGUEL",
+    "SALAS GOMEZ, HUGO"
+  ],
+  "suplentes_local": [
+    "VILLASOL GARCIA, MARIO",
+    "ABASCAL RUIZ, JOAQUIN",
+    "DEL MORAL ALONSO, RODRIGO",
+    "LOPEZ SAEZ, ANDER",
+    "CARRERA SANCHEZ, MARCOS"
+  ],
+  "suplentes_visitante": [
+    "GHINDA GHINDA, DAVID",
+    "MARTÍNEZ DÍAZ, NICOLAS",
+    "MARTIN GARCIA, DIEGO",
+    "GOMEZ VILLALABEITIA, ENOL",
+    "TEJA TORRE, AURELIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "VILLASOL GARCIA, MARIO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GHINDA GHINDA, DAVID"
+  ],
+  "jugadores_local": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "MAZA FERNANDEZ, IÑIGO",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "MAZA NOVOA, MARIO",
+    "IBAÑEZ AHEDO, EGOITZ",
+    "DEL MORAL ALONSO, RODRIGO",
+    "CARRERA SANCHEZ, MARCOS",
+    "ABASCAL RUIZ, JOAQUIN",
+    "LOPEZ SAEZ, ANDER"
+  ],
+  "jugadores_visitante": [
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "RUIZ FERNANDEZ, MARTIN",
+    "LÓPEZ DÍAZ, IZAN",
+    "ABAD BECERRA, ALEX",
+    "LOPEZ SAIZ, PABLO",
+    "SANCHEZ BILBAO, MIGUEL",
+    "CAÑARTE SOTO, UNAI",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "ARENAS VIERA, DIEGO",
+    "RUIZ NORIEGA, MIGUEL",
+    "SALAS GOMEZ, HUGO",
+    "MARTIN GARCIA, DIEGO",
+    "MARTÍNEZ DÍAZ, NICOLAS",
+    "GOMEZ VILLALABEITIA, ENOL",
+    "TEJA TORRE, AURELIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "DEL MORAL ALONSO, RODRIGO",
+      "sale": "HOLGADO RODRIGUEZ, IKER"
+    },
+    {
+      "min": 59,
+      "entra": "CARRERA SANCHEZ, MARCOS",
+      "sale": "MAZA NOVOA, MARIO"
+    },
+    {
+      "min": 69,
+      "entra": "ABASCAL RUIZ, JOAQUIN",
+      "sale": "COBREROS ZUBILLAGA, SAMUEL"
+    },
+    {
+      "min": 71,
+      "entra": "LOPEZ SAEZ, ANDER",
+      "sale": "DE LAS HERAS VARONA, ASIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "MARTIN GARCIA, DIEGO",
+      "sale": "ARENAS VIERA, DIEGO"
+    },
+    {
+      "min": 40,
+      "entra": "MARTÍNEZ DÍAZ, NICOLAS",
+      "sale": "LOPEZ SAIZ, PABLO"
+    },
+    {
+      "min": 64,
+      "entra": "GOMEZ VILLALABEITIA, ENOL",
+      "sale": "SALAS GOMEZ, HUGO"
+    },
+    {
+      "min": 69,
+      "entra": "TEJA TORRE, AURELIO",
+      "sale": "SAINZ DE LA MAZA CARRERAS, ANGEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "FURIOL SALCEDO, RUBÉN": 90,
+    "TREVILLA VELA, RAMON": 90,
+    "MAZA FERNANDEZ, IÑIGO": 90,
+    "COBREROS ZUBILLAGA, SAMUEL": 69,
+    "DE LAS HERAS VARONA, ASIER": 71,
+    "LOPEZ GONZALEZ, HUGO": 90,
+    "GALAZ GOMEZ, GUILLERMO": 90,
+    "GOMEZ RANERO, ANDER": 90,
+    "HOLGADO RODRIGUEZ, IKER": 40,
+    "MAZA NOVOA, MARIO": 59,
+    "IBAÑEZ AHEDO, EGOITZ": 90,
+    "DEL MORAL ALONSO, RODRIGO": 50,
+    "CARRERA SANCHEZ, MARCOS": 31,
+    "ABASCAL RUIZ, JOAQUIN": 21,
+    "LOPEZ SAEZ, ANDER": 19,
+    "LEBEÑA RODRIGUEZ, ADRIAN": 90,
+    "RUIZ FERNANDEZ, MARTIN": 90,
+    "LÓPEZ DÍAZ, IZAN": 90,
+    "ABAD BECERRA, ALEX": 90,
+    "LOPEZ SAIZ, PABLO": 40,
+    "SANCHEZ BILBAO, MIGUEL": 90,
+    "CAÑARTE SOTO, UNAI": 90,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 69,
+    "ARENAS VIERA, DIEGO": 40,
+    "RUIZ NORIEGA, MIGUEL": 90,
+    "SALAS GOMEZ, HUGO": 64,
+    "MARTIN GARCIA, DIEGO": 50,
+    "MARTÍNEZ DÍAZ, NICOLAS": 50,
+    "GOMEZ VILLALABEITIA, ENOL": 26,
+    "TEJA TORRE, AURELIO": 21
+  },
+  "portero_local": "FURIOL SALCEDO, RUBÉN",
+  "portero_visitante": "LEBEÑA RODRIGUEZ, ADRIAN",
+  "dorsales_local": {
+    "FURIOL SALCEDO, RUBÉN": 1,
+    "TREVILLA VELA, RAMON": 2,
+    "MAZA FERNANDEZ, IÑIGO": 4,
+    "COBREROS ZUBILLAGA, SAMUEL": 6,
+    "DE LAS HERAS VARONA, ASIER": 7,
+    "LOPEZ GONZALEZ, HUGO": 8,
+    "GALAZ GOMEZ, GUILLERMO": 10,
+    "GOMEZ RANERO, ANDER": 11,
+    "HOLGADO RODRIGUEZ, IKER": 14,
+    "MAZA NOVOA, MARIO": 15,
+    "IBAÑEZ AHEDO, EGOITZ": 18
+  },
+  "dorsales_visitante": {
+    "LEBEÑA RODRIGUEZ, ADRIAN": 1,
+    "RUIZ FERNANDEZ, MARTIN": 2,
+    "LÓPEZ DÍAZ, IZAN": 3,
+    "ABAD BECERRA, ALEX": 4,
+    "LOPEZ SAIZ, PABLO": 5,
+    "SANCHEZ BILBAO, MIGUEL": 10,
+    "CAÑARTE SOTO, UNAI": 12,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 14,
+    "ARENAS VIERA, DIEGO": 17,
+    "RUIZ NORIEGA, MIGUEL": 19,
+    "SALAS GOMEZ, HUGO": 20
+  },
+  "suspendidos": []
+}
