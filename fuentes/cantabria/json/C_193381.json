@@ -1,0 +1,241 @@
+{
+  "acta_id": "C_193381",
+  "filename": "Acta_C_193381.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "26-10-2024",
+  "hora": "09:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. MONTE A",
+  "equipo_visitante": "E.D.M. CAYON A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "TORRE PELAYO, JAVIER"
+  ],
+  "estadio": "Monte 1",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "CRESPO FRECHOSO, VICTOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 57,
+      "jugador": "LEGARRETA YURRITA, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "SOMAZA GOMEZ, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 60,
+      "jugador": "MAZA CIEZA, RUBEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LEGARRETA YURRITA, DIEGO",
+  "entrenador_visitante": "CEBALLOS PRIETO, CRISTIAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SOMAZA GOMEZ, MARCOS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SOMAZA GOMEZ, MARCOS",
+  "delegado_equipo_visitante": "CEBALLOS PRIETO, MARIO",
+  "titulares_local": [
+    "GARCIA RODRIGUEZ, LEO",
+    "RUIZ ALONSO, GONZALO",
+    "PEREZ DE DIEGO, MARTIN",
+    "SANCHO PANIEGO, BELTRAN",
+    "BLANCO LANZA, ALVARO",
+    "PEREIRA DOSAL, CRISTIAN",
+    "DOMINGUEZ LOZANO, ADRIAN",
+    "BARROSO BARQUÍN, HUGO",
+    "BESOY MOYA, FERNANDO",
+    "CABEZAS REMIRO, MAURO",
+    "SALVADOR MIERA, HUGO"
+  ],
+  "titulares_visitante": [
+    "MAZA CIEZA, RUBEN",
+    "ROSSI PEDERNERA, MATEO",
+    "SANCHEZ URBIETA, SERGIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "RIVERO NUÑEZ, ANDRES",
+    "FERNANDEZ CEA, MARCOS",
+    "GUERRA DIAZ, MARIO",
+    "GUTIERREZ QUINTANA, MARCO",
+    "ORTIZ TORAYA, JAVIER",
+    "ASENSIO PILA, HECTOR",
+    "SANCHEZ URBIETA, PABLO"
+  ],
+  "suplentes_local": [
+    "PUMAREJO SANCHEZ, ALVARO",
+    "RUIZ JUAREZ, LEANDRO",
+    "ANDRONIC, DANIEL",
+    "GOMEZ ALONSO, NICOLAS"
+  ],
+  "suplentes_visitante": [
+    "PERNIA CAVADA, LEO",
+    "BARCENA GARCIA, PEDRO",
+    "PRECIADO GONZALEZ, DIEGO",
+    "FERNANDEZ CALA, AARON"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GARCIA RODRIGUEZ, LEO",
+    "RUIZ ALONSO, GONZALO",
+    "PEREZ DE DIEGO, MARTIN",
+    "SANCHO PANIEGO, BELTRAN",
+    "BLANCO LANZA, ALVARO",
+    "PEREIRA DOSAL, CRISTIAN",
+    "DOMINGUEZ LOZANO, ADRIAN",
+    "BARROSO BARQUÍN, HUGO",
+    "BESOY MOYA, FERNANDO",
+    "CABEZAS REMIRO, MAURO",
+    "SALVADOR MIERA, HUGO",
+    "ANDRONIC, DANIEL",
+    "GOMEZ ALONSO, NICOLAS",
+    "PUMAREJO SANCHEZ, ALVARO",
+    "RUIZ JUAREZ, LEANDRO"
+  ],
+  "jugadores_visitante": [
+    "MAZA CIEZA, RUBEN",
+    "ROSSI PEDERNERA, MATEO",
+    "SANCHEZ URBIETA, SERGIO",
+    "CRESPO FRECHOSO, VICTOR",
+    "RIVERO NUÑEZ, ANDRES",
+    "FERNANDEZ CEA, MARCOS",
+    "GUERRA DIAZ, MARIO",
+    "GUTIERREZ QUINTANA, MARCO",
+    "ORTIZ TORAYA, JAVIER",
+    "ASENSIO PILA, HECTOR",
+    "SANCHEZ URBIETA, PABLO",
+    "PRECIADO GONZALEZ, DIEGO",
+    "BARCENA GARCIA, PEDRO",
+    "FERNANDEZ CALA, AARON",
+    "PERNIA CAVADA, LEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "ANDRONIC, DANIEL",
+      "sale": "SANCHO PANIEGO, BELTRAN"
+    },
+    {
+      "min": 35,
+      "entra": "GOMEZ ALONSO, NICOLAS",
+      "sale": "BESOY MOYA, FERNANDO"
+    },
+    {
+      "min": 35,
+      "entra": "PUMAREJO SANCHEZ, ALVARO",
+      "sale": "GARCIA RODRIGUEZ, LEO"
+    },
+    {
+      "min": 40,
+      "entra": "RUIZ JUAREZ, LEANDRO",
+      "sale": "DOMINGUEZ LOZANO, ADRIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 43,
+      "entra": "PRECIADO GONZALEZ, DIEGO",
+      "sale": "ASENSIO PILA, HECTOR"
+    },
+    {
+      "min": 43,
+      "entra": "BARCENA GARCIA, PEDRO",
+      "sale": "ORTIZ TORAYA, JAVIER"
+    },
+    {
+      "min": 49,
+      "entra": "FERNANDEZ CALA, AARON",
+      "sale": "FERNANDEZ CEA, MARCOS"
+    },
+    {
+      "min": 53,
+      "entra": "PERNIA CAVADA, LEO",
+      "sale": "RIVERO NUÑEZ, ANDRES"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA RODRIGUEZ, LEO": 35,
+    "RUIZ ALONSO, GONZALO": 90,
+    "PEREZ DE DIEGO, MARTIN": 90,
+    "SANCHO PANIEGO, BELTRAN": 35,
+    "BLANCO LANZA, ALVARO": 90,
+    "PEREIRA DOSAL, CRISTIAN": 90,
+    "DOMINGUEZ LOZANO, ADRIAN": 40,
+    "BARROSO BARQUÍN, HUGO": 90,
+    "BESOY MOYA, FERNANDO": 35,
+    "CABEZAS REMIRO, MAURO": 90,
+    "SALVADOR MIERA, HUGO": 90,
+    "ANDRONIC, DANIEL": 55,
+    "GOMEZ ALONSO, NICOLAS": 55,
+    "PUMAREJO SANCHEZ, ALVARO": 55,
+    "RUIZ JUAREZ, LEANDRO": 50,
+    "MAZA CIEZA, RUBEN": 90,
+    "ROSSI PEDERNERA, MATEO": 90,
+    "SANCHEZ URBIETA, SERGIO": 90,
+    "CRESPO FRECHOSO, VICTOR": 90,
+    "RIVERO NUÑEZ, ANDRES": 53,
+    "FERNANDEZ CEA, MARCOS": 49,
+    "GUERRA DIAZ, MARIO": 90,
+    "GUTIERREZ QUINTANA, MARCO": 90,
+    "ORTIZ TORAYA, JAVIER": 43,
+    "ASENSIO PILA, HECTOR": 43,
+    "SANCHEZ URBIETA, PABLO": 90,
+    "PRECIADO GONZALEZ, DIEGO": 47,
+    "BARCENA GARCIA, PEDRO": 47,
+    "FERNANDEZ CALA, AARON": 41,
+    "PERNIA CAVADA, LEO": 37
+  },
+  "portero_local": "GARCIA RODRIGUEZ, LEO",
+  "portero_visitante": "MAZA CIEZA, RUBEN",
+  "dorsales_local": {
+    "GARCIA RODRIGUEZ, LEO": 13,
+    "RUIZ ALONSO, GONZALO": 6,
+    "PEREZ DE DIEGO, MARTIN": 7,
+    "SANCHO PANIEGO, BELTRAN": 8,
+    "BLANCO LANZA, ALVARO": 10,
+    "PEREIRA DOSAL, CRISTIAN": 11,
+    "DOMINGUEZ LOZANO, ADRIAN": 12,
+    "BARROSO BARQUÍN, HUGO": 16,
+    "BESOY MOYA, FERNANDO": 17,
+    "CABEZAS REMIRO, MAURO": 21,
+    "SALVADOR MIERA, HUGO": 22
+  },
+  "dorsales_visitante": {
+    "MAZA CIEZA, RUBEN": 1,
+    "ROSSI PEDERNERA, MATEO": 3,
+    "SANCHEZ URBIETA, SERGIO": 7,
+    "CRESPO FRECHOSO, VICTOR": 8,
+    "RIVERO NUÑEZ, ANDRES": 10,
+    "FERNANDEZ CEA, MARCOS": 11,
+    "GUERRA DIAZ, MARIO": 14,
+    "GUTIERREZ QUINTANA, MARCO": 17,
+    "ORTIZ TORAYA, JAVIER": 20,
+    "ASENSIO PILA, HECTOR": 24,
+    "SANCHEZ URBIETA, PABLO": 29
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
