@@ -1,0 +1,250 @@
+{
+  "acta_id": "C_192752",
+  "filename": "Acta_C_192752.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 4,
+  "fecha": "28-09-2024",
+  "hora": "12:15",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. COLINDRES A",
+  "equipo_visitante": "DEPORTIVO PERINES",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "ÁLVAREZ ESTRADA, RICARDO"
+  ],
+  "estadio": "Colindres",
+  "ciudad": "Colindres",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "GARCIA TARANO, BRAYAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 41,
+      "jugador": "FRIAS MAESTRE, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "RUIZ RODRIGUEZ, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FRIAS MAESTRE, ADRIAN",
+  "entrenador_visitante": "ALEGRIA NUÑEZ, DANIEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SALCINES PELLON, JAVIER FRANCISCO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SALCINES PELLON, JAVIER FRANCISCO",
+  "delegado_equipo_visitante": "ALCANTARA ARCE, ANDRES",
+  "titulares_local": [
+    "ÑIGUEL LAVIN, LUCAS",
+    "IDIAQUEZ MAZA, SAMUEL",
+    "FRANCO ORTIZ, ADRIAN",
+    "SAN EMETERIO SIERRA, PABLO",
+    "GOMEZ GUTIERREZ, DIEGO",
+    "ROCILLO MAZA, TIRSO",
+    "ROZAS BOLIVAR, DIEGO",
+    "MARQUEZ ACOSTA, FELIPE EMANUEL",
+    "RUIZ RODRIGUEZ, MARCOS",
+    "ARRONTE MERINO, RODRIGO",
+    "VARELA MATEOS, JAVIER"
+  ],
+  "titulares_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "JIMENEZ NIÑO, DAVID",
+    "CORONA DE MATEO, DAVID",
+    "SOLANA PEREZ, LEO",
+    "COBO NDONG, DANIEL",
+    "COTERILLO COBO, MATEO",
+    "MARTE MUGICA, EDUARD",
+    "HERRERA CASANOVA, IZAN",
+    "VEGA CASAS, CARLOS"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ TORRE, DIEGO",
+    "GONZALEZ ATECA, PIERO",
+    "CRESPO LUENGO, GAEL",
+    "VAZQUEZ JUEZ, JORGE",
+    "WILLIAMS ZEVALLOS, CRISTOPHER DANIEL"
+  ],
+  "suplentes_visitante": [
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "GOMEZ CONCHA, MATEO",
+    "DESIRE BONILLA, DANIEL",
+    "PONTONES FERREIRA, MARIO",
+    "AZNAR NUÑO, ALEX"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ÑIGUEL LAVIN, LUCAS",
+    "IDIAQUEZ MAZA, SAMUEL",
+    "FRANCO ORTIZ, ADRIAN",
+    "SAN EMETERIO SIERRA, PABLO",
+    "GOMEZ GUTIERREZ, DIEGO",
+    "ROCILLO MAZA, TIRSO",
+    "ROZAS BOLIVAR, DIEGO",
+    "MARQUEZ ACOSTA, FELIPE EMANUEL",
+    "RUIZ RODRIGUEZ, MARCOS",
+    "ARRONTE MERINO, RODRIGO",
+    "VARELA MATEOS, JAVIER",
+    "GONZALEZ ATECA, PIERO",
+    "FERNANDEZ TORRE, DIEGO",
+    "WILLIAMS ZEVALLOS, CRISTOPHER DANIEL",
+    "CRESPO LUENGO, GAEL",
+    "VAZQUEZ JUEZ, JORGE"
+  ],
+  "jugadores_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "JIMENEZ NIÑO, DAVID",
+    "CORONA DE MATEO, DAVID",
+    "SOLANA PEREZ, LEO",
+    "COBO NDONG, DANIEL",
+    "COTERILLO COBO, MATEO",
+    "MARTE MUGICA, EDUARD",
+    "HERRERA CASANOVA, IZAN",
+    "VEGA CASAS, CARLOS",
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "DESIRE BONILLA, DANIEL",
+    "PONTONES FERREIRA, MARIO",
+    "AZNAR NUÑO, ALEX",
+    "GOMEZ CONCHA, MATEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "GONZALEZ ATECA, PIERO",
+      "sale": "GOMEZ GUTIERREZ, DIEGO"
+    },
+    {
+      "min": 56,
+      "entra": "FERNANDEZ TORRE, DIEGO",
+      "sale": "SAN EMETERIO SIERRA, PABLO"
+    },
+    {
+      "min": 61,
+      "entra": "WILLIAMS ZEVALLOS, CRISTOPHER DANIEL",
+      "sale": "MARQUEZ ACOSTA, FELIPE EMANUEL"
+    },
+    {
+      "min": 77,
+      "entra": "CRESPO LUENGO, GAEL",
+      "sale": "ARRONTE MERINO, RODRIGO"
+    },
+    {
+      "min": 77,
+      "entra": "VAZQUEZ JUEZ, JORGE",
+      "sale": "RUIZ RODRIGUEZ, MARCOS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "RODRIGUEZ RODRIGUEZ, CARLOS",
+      "sale": "CUENDE RAMOS, YAGO"
+    },
+    {
+      "min": 49,
+      "entra": "DESIRE BONILLA, DANIEL",
+      "sale": "COTERILLO COBO, MATEO"
+    },
+    {
+      "min": 49,
+      "entra": "PONTONES FERREIRA, MARIO",
+      "sale": "HERRERA CASANOVA, IZAN"
+    },
+    {
+      "min": 60,
+      "entra": "AZNAR NUÑO, ALEX",
+      "sale": "SOLANA PEREZ, LEO"
+    },
+    {
+      "min": 60,
+      "entra": "GOMEZ CONCHA, MATEO",
+      "sale": "JIMENEZ NIÑO, DAVID"
+    }
+  ],
+  "minutos_jugadores": {
+    "ÑIGUEL LAVIN, LUCAS": 90,
+    "IDIAQUEZ MAZA, SAMUEL": 90,
+    "FRANCO ORTIZ, ADRIAN": 90,
+    "SAN EMETERIO SIERRA, PABLO": 56,
+    "GOMEZ GUTIERREZ, DIEGO": 48,
+    "ROCILLO MAZA, TIRSO": 90,
+    "ROZAS BOLIVAR, DIEGO": 90,
+    "MARQUEZ ACOSTA, FELIPE EMANUEL": 61,
+    "RUIZ RODRIGUEZ, MARCOS": 77,
+    "ARRONTE MERINO, RODRIGO": 77,
+    "VARELA MATEOS, JAVIER": 90,
+    "GONZALEZ ATECA, PIERO": 42,
+    "FERNANDEZ TORRE, DIEGO": 34,
+    "WILLIAMS ZEVALLOS, CRISTOPHER DANIEL": 29,
+    "CRESPO LUENGO, GAEL": 13,
+    "VAZQUEZ JUEZ, JORGE": 13,
+    "CUENDE RAMOS, YAGO": 40,
+    "SAN MIGUEL VÉLEZ, HUGO": 90,
+    "GARCIA TARANO, BRAYAN": 90,
+    "JIMENEZ NIÑO, DAVID": 60,
+    "CORONA DE MATEO, DAVID": 90,
+    "SOLANA PEREZ, LEO": 60,
+    "COBO NDONG, DANIEL": 90,
+    "COTERILLO COBO, MATEO": 49,
+    "MARTE MUGICA, EDUARD": 90,
+    "HERRERA CASANOVA, IZAN": 49,
+    "VEGA CASAS, CARLOS": 90,
+    "RODRIGUEZ RODRIGUEZ, CARLOS": 50,
+    "DESIRE BONILLA, DANIEL": 41,
+    "PONTONES FERREIRA, MARIO": 41,
+    "AZNAR NUÑO, ALEX": 30,
+    "GOMEZ CONCHA, MATEO": 30
+  },
+  "portero_local": "ÑIGUEL LAVIN, LUCAS",
+  "portero_visitante": "CUENDE RAMOS, YAGO",
+  "dorsales_local": {
+    "ÑIGUEL LAVIN, LUCAS": 13,
+    "IDIAQUEZ MAZA, SAMUEL": 2,
+    "FRANCO ORTIZ, ADRIAN": 4,
+    "SAN EMETERIO SIERRA, PABLO": 5,
+    "GOMEZ GUTIERREZ, DIEGO": 6,
+    "ROCILLO MAZA, TIRSO": 7,
+    "ROZAS BOLIVAR, DIEGO": 9,
+    "MARQUEZ ACOSTA, FELIPE EMANUEL": 10,
+    "RUIZ RODRIGUEZ, MARCOS": 11,
+    "ARRONTE MERINO, RODRIGO": 15,
+    "VARELA MATEOS, JAVIER": 16
+  },
+  "dorsales_visitante": {
+    "CUENDE RAMOS, YAGO": 13,
+    "SAN MIGUEL VÉLEZ, HUGO": 5,
+    "GARCIA TARANO, BRAYAN": 6,
+    "JIMENEZ NIÑO, DAVID": 9,
+    "CORONA DE MATEO, DAVID": 10,
+    "SOLANA PEREZ, LEO": 11,
+    "COBO NDONG, DANIEL": 14,
+    "COTERILLO COBO, MATEO": 15,
+    "MARTE MUGICA, EDUARD": 16,
+    "HERRERA CASANOVA, IZAN": 18,
+    "VEGA CASAS, CARLOS": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
