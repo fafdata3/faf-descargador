@@ -1,0 +1,263 @@
+{
+  "acta_id": "C_193375",
+  "filename": "Acta_C_193375.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 5,
+  "fecha": "19-10-2024",
+  "hora": "15:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "S.D. PEÑA REVILLA",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SOUSA MACHADO, JESÚS"
+  ],
+  "estadio": "El Regimiento",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "QUINTANA SOLORZANO, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 38,
+      "jugador": "SECADAS BARQUIN, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "RODRIGUEZ CAÑAS, CRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "QUINTANA SOLORZANO, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "RODRIGUEZ CAÑAS, CRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "GUTIÉRREZ COBO, JAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BUSTAMANTE SALAS, RUBEN",
+  "entrenador_visitante": "SAN JUAN ALONSO, FCO. JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "SALGUERO CALDERA, BORJA",
+  "delegado_campo_local": "DIAZ FERNANDEZ, ROBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ GOMEZ, MARIO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "GUTIÉRREZ GUTIÉRREZ, JOSÉ FRANCISCO",
+    "GUTIÉRREZ GUTIÉRREZ, ADRIÁN",
+    "MANJON GONZALEZ, ANDRES",
+    "BERASATEGUI MAZA, LUIS",
+    "SANCHEZ ARENAL, SANTIAGO",
+    "ACEREDA ALVAREZ, GABRIEL",
+    "AJA CIMIANO, IKER",
+    "LANZA MARTÍ, HUGO",
+    "MARCOS GARCIA, LUCAS",
+    "BORBOLLA GÓMEZ, DAVID",
+    "GUTIÉRREZ COBO, JAVIER"
+  ],
+  "titulares_visitante": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "LAVIN GUTIERREZ, MARINA",
+    "GARCIA AHEDO, MIKEL",
+    "QUINTANA SOLORZANO, SERGIO",
+    "GUTIERREZ MARTIN, PABLO",
+    "RODRIGUEZ CAÑAS, CRISTIAN",
+    "GOMEZ CEBALLOS, HUGO",
+    "GOMEZ COBO, LEO",
+    "GONZALEZ PEÑA, MARCOS",
+    "VASCO ARNAIZ, MANUEL",
+    "ABASCAL BARQUIN, ALVARO"
+  ],
+  "suplentes_local": [
+    "FERRER PENAGOS, MARTÍN",
+    "DIAZ FERNANDEZ, JOSE MANUEL",
+    "POVEDANO GOMEZ, DANIEL",
+    "MURILLO BAHOS, NICOLAS",
+    "ARENAL AGUIRREZABAL, NICO"
+  ],
+  "suplentes_visitante": [
+    "GOMEZ MIER, MARCOS",
+    "SECADAS BARQUIN, DIEGO",
+    "LAVIN AGUERO, CRISTIAN",
+    "USLE MORALES, ADRIAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GUTIÉRREZ GUTIÉRREZ, JOSÉ FRANCISCO",
+    "GUTIÉRREZ GUTIÉRREZ, ADRIÁN",
+    "MANJON GONZALEZ, ANDRES",
+    "BERASATEGUI MAZA, LUIS",
+    "SANCHEZ ARENAL, SANTIAGO",
+    "ACEREDA ALVAREZ, GABRIEL",
+    "AJA CIMIANO, IKER",
+    "LANZA MARTÍ, HUGO",
+    "MARCOS GARCIA, LUCAS",
+    "BORBOLLA GÓMEZ, DAVID",
+    "GUTIÉRREZ COBO, JAVIER",
+    "FERRER PENAGOS, MARTÍN",
+    "MURILLO BAHOS, NICOLAS",
+    "DIAZ FERNANDEZ, JOSE MANUEL",
+    "POVEDANO GOMEZ, DANIEL",
+    "ARENAL AGUIRREZABAL, NICO"
+  ],
+  "jugadores_visitante": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "LAVIN GUTIERREZ, MARINA",
+    "GARCIA AHEDO, MIKEL",
+    "QUINTANA SOLORZANO, SERGIO",
+    "GUTIERREZ MARTIN, PABLO",
+    "RODRIGUEZ CAÑAS, CRISTIAN",
+    "GOMEZ CEBALLOS, HUGO",
+    "GOMEZ COBO, LEO",
+    "GONZALEZ PEÑA, MARCOS",
+    "VASCO ARNAIZ, MANUEL",
+    "ABASCAL BARQUIN, ALVARO",
+    "SECADAS BARQUIN, DIEGO",
+    "GOMEZ MIER, MARCOS",
+    "USLE MORALES, ADRIAN",
+    "LAVIN AGUERO, CRISTIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "FERRER PENAGOS, MARTÍN",
+      "sale": "BERASATEGUI MAZA, LUIS"
+    },
+    {
+      "min": 51,
+      "entra": "MURILLO BAHOS, NICOLAS",
+      "sale": "GUTIÉRREZ GUTIÉRREZ, ADRIÁN"
+    },
+    {
+      "min": 60,
+      "entra": "DIAZ FERNANDEZ, JOSE MANUEL",
+      "sale": "GUTIÉRREZ COBO, JAVIER"
+    },
+    {
+      "min": 60,
+      "entra": "POVEDANO GOMEZ, DANIEL",
+      "sale": "ACEREDA ALVAREZ, GABRIEL"
+    },
+    {
+      "min": 60,
+      "entra": "ARENAL AGUIRREZABAL, NICO",
+      "sale": "SANCHEZ ARENAL, SANTIAGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "SECADAS BARQUIN, DIEGO",
+      "sale": "VASCO ARNAIZ, MANUEL"
+    },
+    {
+      "min": 35,
+      "entra": "GOMEZ MIER, MARCOS",
+      "sale": "LAVIN GUTIERREZ, MARINA"
+    },
+    {
+      "min": 46,
+      "entra": "USLE MORALES, ADRIAN",
+      "sale": "GOMEZ COBO, LEO"
+    },
+    {
+      "min": 50,
+      "entra": "LAVIN AGUERO, CRISTIAN",
+      "sale": "GONZALEZ PEÑA, MARCOS"
+    }
+  ],
+  "minutos_jugadores": {
+    "GUTIÉRREZ GUTIÉRREZ, JOSÉ FRANCISCO": 90,
+    "GUTIÉRREZ GUTIÉRREZ, ADRIÁN": 51,
+    "MANJON GONZALEZ, ANDRES": 90,
+    "BERASATEGUI MAZA, LUIS": 51,
+    "SANCHEZ ARENAL, SANTIAGO": 60,
+    "ACEREDA ALVAREZ, GABRIEL": 60,
+    "AJA CIMIANO, IKER": 90,
+    "LANZA MARTÍ, HUGO": 90,
+    "MARCOS GARCIA, LUCAS": 90,
+    "BORBOLLA GÓMEZ, DAVID": 90,
+    "GUTIÉRREZ COBO, JAVIER": 60,
+    "FERRER PENAGOS, MARTÍN": 39,
+    "MURILLO BAHOS, NICOLAS": 39,
+    "DIAZ FERNANDEZ, JOSE MANUEL": 30,
+    "POVEDANO GOMEZ, DANIEL": 30,
+    "ARENAL AGUIRREZABAL, NICO": 30,
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 90,
+    "LAVIN GUTIERREZ, MARINA": 35,
+    "GARCIA AHEDO, MIKEL": 90,
+    "QUINTANA SOLORZANO, SERGIO": 90,
+    "GUTIERREZ MARTIN, PABLO": 90,
+    "RODRIGUEZ CAÑAS, CRISTIAN": 90,
+    "GOMEZ CEBALLOS, HUGO": 90,
+    "GOMEZ COBO, LEO": 46,
+    "GONZALEZ PEÑA, MARCOS": 50,
+    "VASCO ARNAIZ, MANUEL": 35,
+    "ABASCAL BARQUIN, ALVARO": 90,
+    "SECADAS BARQUIN, DIEGO": 55,
+    "GOMEZ MIER, MARCOS": 55,
+    "USLE MORALES, ADRIAN": 44,
+    "LAVIN AGUERO, CRISTIAN": 40
+  },
+  "portero_local": "GUTIÉRREZ GUTIÉRREZ, JOSÉ FRANCISCO",
+  "portero_visitante": "ROMILA VASILACHE, ALEJANDRO ANDREI",
+  "dorsales_local": {
+    "GUTIÉRREZ GUTIÉRREZ, JOSÉ FRANCISCO": 1,
+    "GUTIÉRREZ GUTIÉRREZ, ADRIÁN": 3,
+    "MANJON GONZALEZ, ANDRES": 5,
+    "BERASATEGUI MAZA, LUIS": 7,
+    "SANCHEZ ARENAL, SANTIAGO": 8,
+    "ACEREDA ALVAREZ, GABRIEL": 9,
+    "AJA CIMIANO, IKER": 10,
+    "LANZA MARTÍ, HUGO": 11,
+    "MARCOS GARCIA, LUCAS": 12,
+    "BORBOLLA GÓMEZ, DAVID": 15,
+    "GUTIÉRREZ COBO, JAVIER": 16
+  },
+  "dorsales_visitante": {
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 13,
+    "LAVIN GUTIERREZ, MARINA": 2,
+    "GARCIA AHEDO, MIKEL": 3,
+    "QUINTANA SOLORZANO, SERGIO": 5,
+    "GUTIERREZ MARTIN, PABLO": 6,
+    "RODRIGUEZ CAÑAS, CRISTIAN": 7,
+    "GOMEZ CEBALLOS, HUGO": 8,
+    "GOMEZ COBO, LEO": 9,
+    "GONZALEZ PEÑA, MARCOS": 11,
+    "VASCO ARNAIZ, MANUEL": 14,
+    "ABASCAL BARQUIN, ALVARO": 15
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
