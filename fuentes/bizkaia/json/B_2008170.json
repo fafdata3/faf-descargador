@@ -1,0 +1,269 @@
+{
+  "acta_id": "B_2008170",
+  "filename": "Acta_B_2008170.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 11,
+  "fecha": "15-12-2024",
+  "hora": "16:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "BARAKALDO B",
+  "equipo_visitante": "SESTAO RIVER A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SERNA LANBARRI, IÑIGO"
+  ],
+  "estadio": "SAN VICENTE C.D.M.",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "VALLE GARCIA, IBON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "SANZ BANCALERO, XABIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 71,
+      "jugador": "GARCIA IBARRA, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "PRIETO RUIZ, JULEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "PRIETO RUIZ, JULEN",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "LALIASHVILI, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "RODRIGUEZ URIARTE, GAIZKA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "RODRIGUEZ URIARTE, GAIZKA",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "PERIAÑEZ RODRIGUEZ, UNAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BERASALUCE CAMPOS, ALBERTO",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GONZALEZ ZORZABALBERE, ASIER",
+  "delegado_campo_local": "LÓPEZ GONZÁLEZ, KOLDO JAKOBE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LÓPEZ GONZÁLEZ, KOLDO JAKOBE",
+  "delegado_equipo_visitante": "GONZALEZ FERNANDEZ, AMADO",
+  "titulares_local": [
+    "GARCIA MADROÑAL, JUN",
+    "SOBRADO MENDEZ, MARKEL",
+    "GARCIA GONZALEZ, UNAI",
+    "PRIETO RUIZ, JULEN",
+    "GARCIA MELLA, IZAN",
+    "TAZARKI JERBI, OMAR",
+    "SANZ BANCALERO, XABIER",
+    "ARIZTONDO PORTILLO, OINATZ",
+    "LALIASHVILI, SERGIO",
+    "VAZQUEZ SANGUINO, MIKEL",
+    "BUSTOS BARRIO, IKER"
+  ],
+  "titulares_visitante": [
+    "ALONSO JUSTO, GALDER",
+    "HERNANDEZ GARCIA, ERLANTZ",
+    "GONZALEZ RIVERO, ADRIAN",
+    "RODRIGUEZ ENCINAS, MARCOS",
+    "GARCIA IBARRA, MIKEL",
+    "RODRIGUEZ URIARTE, GAIZKA",
+    "RAMOS MARTIN, HODEI",
+    "VALLE GARCIA, IBON",
+    "GONZALEZ DE LA QUINTANA, DANIEL",
+    "ARIAS MARTINEZ, ANDER",
+    "TOME DEL VAL, HEGOI"
+  ],
+  "suplentes_local": [
+    "MARTIN DIAZ, LUCAS",
+    "LOPEZ ORTEGA, OIER",
+    "BLANCO MOLLEDA, OIER",
+    "ARRIZABALAGA BLASCO, MIKEL",
+    "LOPEZ LECUE, UNAI",
+    "GONZALEZ ALDAY, ANDER",
+    "ESPINACO PEREDA, ANDONI"
+  ],
+  "suplentes_visitante": [
+    "FERREIRO ANABITARTE, AMETZ",
+    "PINTOS IBARROLA, KEVIN MANUEL",
+    "GOMEZ TORRES, ANDER",
+    "ARIAS BELTRAN, ENDIKA",
+    "ARROLA NIETO, AGER",
+    "CORBO MENDEZ, OIER",
+    "PERIAÑEZ RODRIGUEZ, UNAI"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTIN DIAZ, LUCAS",
+    "LOPEZ ORTEGA, OIER",
+    "BLANCO MOLLEDA, OIER",
+    "LOPEZ LECUE, UNAI",
+    "GONZALEZ ALDAY, ANDER",
+    "ESPINACO PEREDA, ANDONI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "FERREIRO ANABITARTE, AMETZ",
+    "PINTOS IBARROLA, KEVIN MANUEL",
+    "ARIAS BELTRAN, ENDIKA",
+    "ARROLA NIETO, AGER"
+  ],
+  "jugadores_local": [
+    "GARCIA MADROÑAL, JUN",
+    "SOBRADO MENDEZ, MARKEL",
+    "GARCIA GONZALEZ, UNAI",
+    "PRIETO RUIZ, JULEN",
+    "GARCIA MELLA, IZAN",
+    "TAZARKI JERBI, OMAR",
+    "SANZ BANCALERO, XABIER",
+    "ARIZTONDO PORTILLO, OINATZ",
+    "LALIASHVILI, SERGIO",
+    "VAZQUEZ SANGUINO, MIKEL",
+    "BUSTOS BARRIO, IKER",
+    "ARRIZABALAGA BLASCO, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "ALONSO JUSTO, GALDER",
+    "HERNANDEZ GARCIA, ERLANTZ",
+    "GONZALEZ RIVERO, ADRIAN",
+    "RODRIGUEZ ENCINAS, MARCOS",
+    "GARCIA IBARRA, MIKEL",
+    "RODRIGUEZ URIARTE, GAIZKA",
+    "RAMOS MARTIN, HODEI",
+    "VALLE GARCIA, IBON",
+    "GONZALEZ DE LA QUINTANA, DANIEL",
+    "ARIAS MARTINEZ, ANDER",
+    "TOME DEL VAL, HEGOI",
+    "CORBO MENDEZ, OIER",
+    "GOMEZ TORRES, ANDER",
+    "PERIAÑEZ RODRIGUEZ, UNAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 67,
+      "entra": "ARRIZABALAGA BLASCO, MIKEL",
+      "sale": "VAZQUEZ SANGUINO, MIKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "CORBO MENDEZ, OIER",
+      "sale": "GONZALEZ RIVERO, ADRIAN"
+    },
+    {
+      "min": 65,
+      "entra": "GOMEZ TORRES, ANDER",
+      "sale": "ARIAS MARTINEZ, ANDER"
+    },
+    {
+      "min": 78,
+      "entra": "PERIAÑEZ RODRIGUEZ, UNAI",
+      "sale": "RAMOS MARTIN, HODEI"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA MADROÑAL, JUN": 90,
+    "SOBRADO MENDEZ, MARKEL": 90,
+    "GARCIA GONZALEZ, UNAI": 90,
+    "PRIETO RUIZ, JULEN": 90,
+    "GARCIA MELLA, IZAN": 90,
+    "TAZARKI JERBI, OMAR": 90,
+    "SANZ BANCALERO, XABIER": 90,
+    "ARIZTONDO PORTILLO, OINATZ": 90,
+    "LALIASHVILI, SERGIO": 90,
+    "VAZQUEZ SANGUINO, MIKEL": 67,
+    "BUSTOS BARRIO, IKER": 90,
+    "ARRIZABALAGA BLASCO, MIKEL": 23,
+    "ALONSO JUSTO, GALDER": 90,
+    "HERNANDEZ GARCIA, ERLANTZ": 90,
+    "GONZALEZ RIVERO, ADRIAN": 61,
+    "RODRIGUEZ ENCINAS, MARCOS": 90,
+    "GARCIA IBARRA, MIKEL": 90,
+    "RODRIGUEZ URIARTE, GAIZKA": 90,
+    "RAMOS MARTIN, HODEI": 78,
+    "VALLE GARCIA, IBON": 90,
+    "GONZALEZ DE LA QUINTANA, DANIEL": 90,
+    "ARIAS MARTINEZ, ANDER": 65,
+    "TOME DEL VAL, HEGOI": 90,
+    "CORBO MENDEZ, OIER": 29,
+    "GOMEZ TORRES, ANDER": 25,
+    "PERIAÑEZ RODRIGUEZ, UNAI": 12
+  },
+  "portero_local": "GARCIA MADROÑAL, JUN",
+  "portero_visitante": "ALONSO JUSTO, GALDER",
+  "dorsales_local": {
+    "GARCIA MADROÑAL, JUN": 1,
+    "SOBRADO MENDEZ, MARKEL": 2,
+    "GARCIA GONZALEZ, UNAI": 3,
+    "PRIETO RUIZ, JULEN": 4,
+    "GARCIA MELLA, IZAN": 5,
+    "TAZARKI JERBI, OMAR": 8,
+    "SANZ BANCALERO, XABIER": 10,
+    "ARIZTONDO PORTILLO, OINATZ": 19,
+    "LALIASHVILI, SERGIO": 20,
+    "VAZQUEZ SANGUINO, MIKEL": 21,
+    "BUSTOS BARRIO, IKER": 22
+  },
+  "dorsales_visitante": {
+    "ALONSO JUSTO, GALDER": 1,
+    "HERNANDEZ GARCIA, ERLANTZ": 2,
+    "GONZALEZ RIVERO, ADRIAN": 3,
+    "RODRIGUEZ ENCINAS, MARCOS": 4,
+    "GARCIA IBARRA, MIKEL": 5,
+    "RODRIGUEZ URIARTE, GAIZKA": 9,
+    "RAMOS MARTIN, HODEI": 15,
+    "VALLE GARCIA, IBON": 16,
+    "GONZALEZ DE LA QUINTANA, DANIEL": 19,
+    "ARIAS MARTINEZ, ANDER": 20,
+    "TOME DEL VAL, HEGOI": 22
+  },
+  "suspendidos": [
+    "PRIETO RUIZ, JULEN",
+    "RODRIGUEZ URIARTE, GAIZKA"
+  ],
+  "_marcador_widget": true
+}
