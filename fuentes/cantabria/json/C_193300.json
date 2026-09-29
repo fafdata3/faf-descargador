@@ -1,0 +1,260 @@
+{
+  "acta_id": "C_193300",
+  "filename": "Acta_C_193300.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 31,
+  "fecha": "04-05-2025",
+  "hora": "11:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. NAVAL A",
+  "equipo_visitante": "S.D. PEÑA REVILLA",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "BOLADO BENÍTEZ, SAÚL"
+  ],
+  "estadio": "Reinosa",
+  "ciudad": "Reinosa",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "LOPEZ GUTIERREZ, ALONSO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 13,
+      "jugador": "GUTIERREZ GARCIA, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "DÍEZ DOBARGANES, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 42,
+      "jugador": "ARENAS GÓMEZ, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "CASTILLO MONTES, MAURO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "RODRIGUEZ GONZALEZ, IZAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "GARCIA GUTIERREZ, JOSE I",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "LOPEZ GUTIERREZ, ALONSO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "VELEZ MEDINA, ALEXANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA GUTIERREZ, JOSE I",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "JORRIN FERNANDEZ, OSCAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TORICES PEREZ, PEDRO",
+  "delegado_equipo_visitante": "DIAZ FERNANDEZ, ROBERTO",
+  "titulares_local": [
+    "PEREZ HERRERO, IKER",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "GOMEZ CALVO, ALVARO",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL",
+    "SIMÓN GUTIERREZ, DANIEL"
+  ],
+  "titulares_visitante": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "CALVO GONZALEZ, MATEO",
+    "NARVAEZ GOMEZ, HUGO",
+    "PASCAL, DAVID OCTAVIAN",
+    "NÚÑEZ GALINDO, DIEGO",
+    "CASTILLO FUENMAYOR, LEOMER DAVID",
+    "ARENAS GÓMEZ, MARIO",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "DÍEZ DOBARGANES, LUCAS",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER"
+  ],
+  "suplentes_local": [
+    "BEN ELAOUJA, YASSIR",
+    "ALONSO GUERRA, MARCOS",
+    "GUTIERREZ VEGA, HECTOR",
+    "AGUIRRE BAZA, CRISTIAN DAVID"
+  ],
+  "suplentes_visitante": [
+    "CASTILLO MONTES, MAURO",
+    "MOLLEDA DEL OLMO, ADRIAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PEREZ HERRERO, IKER",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "GOMEZ CALVO, ALVARO",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL",
+    "SIMÓN GUTIERREZ, DANIEL",
+    "GUTIERREZ VEGA, HECTOR",
+    "AGUIRRE BAZA, CRISTIAN DAVID",
+    "ALONSO GUERRA, MARCOS",
+    "BEN ELAOUJA, YASSIR"
+  ],
+  "jugadores_visitante": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "CALVO GONZALEZ, MATEO",
+    "NARVAEZ GOMEZ, HUGO",
+    "PASCAL, DAVID OCTAVIAN",
+    "NÚÑEZ GALINDO, DIEGO",
+    "CASTILLO FUENMAYOR, LEOMER DAVID",
+    "ARENAS GÓMEZ, MARIO",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "DÍEZ DOBARGANES, LUCAS",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER",
+    "CASTILLO MONTES, MAURO",
+    "MOLLEDA DEL OLMO, ADRIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "GUTIERREZ VEGA, HECTOR",
+      "sale": "SIMÓN GUTIERREZ, DANIEL"
+    },
+    {
+      "min": 49,
+      "entra": "AGUIRRE BAZA, CRISTIAN DAVID",
+      "sale": "MONTES RODRIGUEZ, OROEL"
+    },
+    {
+      "min": 57,
+      "entra": "ALONSO GUERRA, MARCOS",
+      "sale": "GONZALEZ RODRIGUEZ, ALVARO"
+    },
+    {
+      "min": 75,
+      "entra": "BEN ELAOUJA, YASSIR",
+      "sale": "GOMEZ CALVO, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 68,
+      "entra": "CASTILLO MONTES, MAURO",
+      "sale": "CASTILLO FUENMAYOR, LEOMER DAVID"
+    },
+    {
+      "min": 79,
+      "entra": "MOLLEDA DEL OLMO, ADRIAN",
+      "sale": "ARENAS GÓMEZ, MARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ HERRERO, IKER": 90,
+    "RODRIGUEZ GONZALEZ, IZAN": 90,
+    "GARCIA DIEZ, GABRIEL": 90,
+    "CEBALLOS CAYON, LUCAS": 90,
+    "GONZALEZ RODRIGUEZ, ALVARO": 57,
+    "LOPEZ GUTIERREZ, ALONSO": 90,
+    "GUTIERREZ GARCIA, SAMUEL": 90,
+    "GOMEZ CALVO, ALVARO": 75,
+    "MACHO RUIZ, LUCAS": 90,
+    "MONTES RODRIGUEZ, OROEL": 49,
+    "SIMÓN GUTIERREZ, DANIEL": 49,
+    "GUTIERREZ VEGA, HECTOR": 41,
+    "AGUIRRE BAZA, CRISTIAN DAVID": 41,
+    "ALONSO GUERRA, MARCOS": 33,
+    "BEN ELAOUJA, YASSIR": 15,
+    "CORONADO RUIZ, ALEJANDRO": 90,
+    "CALVO GONZALEZ, MATEO": 90,
+    "NARVAEZ GOMEZ, HUGO": 90,
+    "PASCAL, DAVID OCTAVIAN": 90,
+    "NÚÑEZ GALINDO, DIEGO": 90,
+    "CASTILLO FUENMAYOR, LEOMER DAVID": 68,
+    "ARENAS GÓMEZ, MARIO": 79,
+    "GUARDEÑO KRASIMIROV, DANIEL": 90,
+    "DÍEZ DOBARGANES, LUCAS": 90,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 90,
+    "VELEZ MEDINA, ALEXANDER": 90,
+    "CASTILLO MONTES, MAURO": 22,
+    "MOLLEDA DEL OLMO, ADRIAN": 11
+  },
+  "portero_local": "PEREZ HERRERO, IKER",
+  "portero_visitante": "CORONADO RUIZ, ALEJANDRO",
+  "dorsales_local": {
+    "PEREZ HERRERO, IKER": 1,
+    "RODRIGUEZ GONZALEZ, IZAN": 4,
+    "GARCIA DIEZ, GABRIEL": 5,
+    "CEBALLOS CAYON, LUCAS": 6,
+    "GONZALEZ RODRIGUEZ, ALVARO": 7,
+    "LOPEZ GUTIERREZ, ALONSO": 8,
+    "GUTIERREZ GARCIA, SAMUEL": 10,
+    "GOMEZ CALVO, ALVARO": 11,
+    "MACHO RUIZ, LUCAS": 14,
+    "MONTES RODRIGUEZ, OROEL": 15,
+    "SIMÓN GUTIERREZ, DANIEL": 16
+  },
+  "dorsales_visitante": {
+    "CORONADO RUIZ, ALEJANDRO": 13,
+    "CALVO GONZALEZ, MATEO": 2,
+    "NARVAEZ GOMEZ, HUGO": 3,
+    "PASCAL, DAVID OCTAVIAN": 4,
+    "NÚÑEZ GALINDO, DIEGO": 5,
+    "CASTILLO FUENMAYOR, LEOMER DAVID": 6,
+    "ARENAS GÓMEZ, MARIO": 7,
+    "GUARDEÑO KRASIMIROV, DANIEL": 8,
+    "DÍEZ DOBARGANES, LUCAS": 9,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 10,
+    "VELEZ MEDINA, ALEXANDER": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
