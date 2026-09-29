@@ -1,0 +1,247 @@
+{
+  "acta_id": "C_171385",
+  "filename": "Acta_C_171385.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 26,
+  "fecha": "06-04-2024",
+  "hora": "19:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "A.D. SAN AGUSTIN A",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LÓPEZ ARCE, JUAN IGNACIO"
+  ],
+  "estadio": "Liberto Toca",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "ANDRES REDONDO, MIGUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 18,
+      "jugador": "VILLAMERIEL MONTES, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "MARTINEZ ORTIZ, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "PALACIO RODERO, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "CLAVERO PEREZ, HECTOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MAZA AIZCORBE, FERNANDO",
+  "entrenador_visitante": "CAGIGAS TABARES, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GÜIZA CARBALLO, ASER",
+  "titulares_local": [
+    "PRADA PORTERO, LUIS",
+    "HERRERO HERNANDO, DANIEL",
+    "VILLAMERIEL MONTES, SERGIO",
+    "PANOJO PANTRIGO, ISAIAS",
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+    "GONZALEZ MEDINA, JOSE",
+    "ALVAREZ GARCIA, LUIS PELAYO",
+    "LAINZ MORAN, NICOLAS",
+    "ANDRES REDONDO, MIGUEL",
+    "CASCALES TORRE, PABLO",
+    "SEBRANGO ABAD, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "DOMINGUEZ FREIRE, HUGO",
+    "OÑATE CANO, ROMÁN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "AMUTIO CASADO, ANGEL",
+    "CLAVERO PEREZ, HECTOR",
+    "BLANCO SOLANA, NICOLAS",
+    "AGUILERA AGUILERA, DIEGO",
+    "CUESTA ROCILLO, BRUNO",
+    "LOPEZ DURAN, FABIO",
+    "SARABIA PARDO, ASIER",
+    "CALVO MIRANDA, LUCAS"
+  ],
+  "suplentes_local": [
+    "GALLO JUANCO, JAVIER ARTURO",
+    "MARTINEZ ORTIZ, LUCAS",
+    "ROZAS BENITO, GONZALO",
+    "RUIZ FRADEJAS, DANIEL",
+    "PALACIO RODERO, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "VIÑAS MARTINEZ, GABRIEL",
+    "RUEDA FONFRIA, DANIEL",
+    "SAN MIGUEL MIGUEL, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PRADA PORTERO, LUIS",
+    "HERRERO HERNANDO, DANIEL",
+    "VILLAMERIEL MONTES, SERGIO",
+    "PANOJO PANTRIGO, ISAIAS",
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+    "GONZALEZ MEDINA, JOSE",
+    "ALVAREZ GARCIA, LUIS PELAYO",
+    "LAINZ MORAN, NICOLAS",
+    "ANDRES REDONDO, MIGUEL",
+    "CASCALES TORRE, PABLO",
+    "SEBRANGO ABAD, RODRIGO",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "PALACIO RODERO, DANIEL",
+    "ROZAS BENITO, GONZALO",
+    "MARTINEZ ORTIZ, LUCAS",
+    "RUIZ FRADEJAS, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "DOMINGUEZ FREIRE, HUGO",
+    "OÑATE CANO, ROMÁN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "AMUTIO CASADO, ANGEL",
+    "CLAVERO PEREZ, HECTOR",
+    "BLANCO SOLANA, NICOLAS",
+    "AGUILERA AGUILERA, DIEGO",
+    "CUESTA ROCILLO, BRUNO",
+    "LOPEZ DURAN, FABIO",
+    "SARABIA PARDO, ASIER",
+    "CALVO MIRANDA, LUCAS",
+    "VIÑAS MARTINEZ, GABRIEL",
+    "RUEDA FONFRIA, DANIEL",
+    "SAN MIGUEL MIGUEL, JAVIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "GALLO JUANCO, JAVIER ARTURO",
+      "sale": "SEBRANGO ABAD, RODRIGO"
+    },
+    {
+      "min": 53,
+      "entra": "PALACIO RODERO, DANIEL",
+      "sale": "PANOJO PANTRIGO, ISAIAS"
+    },
+    {
+      "min": 60,
+      "entra": "ROZAS BENITO, GONZALO",
+      "sale": "ALVAREZ GARCIA, LUIS PELAYO"
+    },
+    {
+      "min": 65,
+      "entra": "MARTINEZ ORTIZ, LUCAS",
+      "sale": "GONZALEZ MEDINA, JOSE"
+    },
+    {
+      "min": 77,
+      "entra": "RUIZ FRADEJAS, DANIEL",
+      "sale": "LAINZ MORAN, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "VIÑAS MARTINEZ, GABRIEL",
+      "sale": "CUESTA ROCILLO, BRUNO"
+    },
+    {
+      "min": 57,
+      "entra": "RUEDA FONFRIA, DANIEL",
+      "sale": "OÑATE CANO, ROMÁN"
+    },
+    {
+      "min": 61,
+      "entra": "SAN MIGUEL MIGUEL, JAVIER",
+      "sale": "CLAVERO PEREZ, HECTOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "PRADA PORTERO, LUIS": 90,
+    "HERRERO HERNANDO, DANIEL": 90,
+    "VILLAMERIEL MONTES, SERGIO": 90,
+    "PANOJO PANTRIGO, ISAIAS": 53,
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN": 90,
+    "GONZALEZ MEDINA, JOSE": 65,
+    "ALVAREZ GARCIA, LUIS PELAYO": 60,
+    "LAINZ MORAN, NICOLAS": 77,
+    "ANDRES REDONDO, MIGUEL": 90,
+    "CASCALES TORRE, PABLO": 90,
+    "SEBRANGO ABAD, RODRIGO": 48,
+    "GALLO JUANCO, JAVIER ARTURO": 42,
+    "PALACIO RODERO, DANIEL": 37,
+    "ROZAS BENITO, GONZALO": 30,
+    "MARTINEZ ORTIZ, LUCAS": 25,
+    "RUIZ FRADEJAS, DANIEL": 13,
+    "DOMINGUEZ FREIRE, HUGO": 90,
+    "OÑATE CANO, ROMÁN": 57,
+    "SARABIA CAVIEDES, JANO ISIDRO": 90,
+    "AMUTIO CASADO, ANGEL": 90,
+    "CLAVERO PEREZ, HECTOR": 61,
+    "BLANCO SOLANA, NICOLAS": 90,
+    "AGUILERA AGUILERA, DIEGO": 90,
+    "CUESTA ROCILLO, BRUNO": 40,
+    "LOPEZ DURAN, FABIO": 90,
+    "SARABIA PARDO, ASIER": 90,
+    "CALVO MIRANDA, LUCAS": 90,
+    "VIÑAS MARTINEZ, GABRIEL": 50,
+    "RUEDA FONFRIA, DANIEL": 33,
+    "SAN MIGUEL MIGUEL, JAVIER": 29
+  },
+  "portero_local": "PRADA PORTERO, LUIS",
+  "portero_visitante": "DOMINGUEZ FREIRE, HUGO",
+  "dorsales_local": {
+    "PRADA PORTERO, LUIS": 25,
+    "HERRERO HERNANDO, DANIEL": 3,
+    "VILLAMERIEL MONTES, SERGIO": 4,
+    "PANOJO PANTRIGO, ISAIAS": 7,
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN": 10,
+    "GONZALEZ MEDINA, JOSE": 16,
+    "ALVAREZ GARCIA, LUIS PELAYO": 17,
+    "LAINZ MORAN, NICOLAS": 20,
+    "ANDRES REDONDO, MIGUEL": 22,
+    "CASCALES TORRE, PABLO": 23,
+    "SEBRANGO ABAD, RODRIGO": 34
+  },
+  "dorsales_visitante": {
+    "DOMINGUEZ FREIRE, HUGO": 1,
+    "OÑATE CANO, ROMÁN": 3,
+    "SARABIA CAVIEDES, JANO ISIDRO": 5,
+    "AMUTIO CASADO, ANGEL": 6,
+    "CLAVERO PEREZ, HECTOR": 7,
+    "BLANCO SOLANA, NICOLAS": 8,
+    "AGUILERA AGUILERA, DIEGO": 9,
+    "CUESTA ROCILLO, BRUNO": 17,
+    "LOPEZ DURAN, FABIO": 18,
+    "SARABIA PARDO, ASIER": 19,
+    "CALVO MIRANDA, LUCAS": 21
+  },
+  "suspendidos": []
+}
