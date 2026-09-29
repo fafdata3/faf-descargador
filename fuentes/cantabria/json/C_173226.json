@@ -1,0 +1,270 @@
+{
+  "acta_id": "C_173226",
+  "filename": "Acta_C_173226.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 11,
+  "fecha": "02-12-2023",
+  "hora": "12:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "REAL RACING CLUB SAD A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MUÑOZ DE MATEO, ALBERTO"
+  ],
+  "estadio": "Inst. Nando Yosu 3",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 39,
+      "jugador": "RIVAS LEZCANO, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "RIVAS LEZCANO, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "PORTILLA MAZA, ISMAEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "ORTIZ MANZANAS, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "MADRAZO ARCO, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 66,
+      "jugador": "PORTILLA MAZA, ISMAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "GARCÍA ABASCAL, HECTOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GOMEZ ALVARO, JOSE ANTONIO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MANCEBO GARCIA, JUAN MANUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MANCEBO GARCIA, JUAN MANUEL",
+  "delegado_equipo_visitante": "MADRAZO ARCO, JAVIER",
+  "titulares_local": [
+    "SANCHEZ MUÑOZ, ALEJANDRO",
+    "LOPEZ SAIZ, PABLO",
+    "LÓPEZ DÍAZ, IZAN",
+    "PRESMANES PADILLA, IKER",
+    "URIARTE LOPEZ, HUGO",
+    "VERDEJA ASTORECA, JORGE",
+    "AMUNEKE ALONSO, JOSEPH",
+    "GOMEZ SERRANO, MANUEL",
+    "MARTINEZ MONTERO, MANUEL",
+    "RODRIGUEZ SANCHEZ, MATEO",
+    "ORIA OCERIN, PABLO"
+  ],
+  "titulares_visitante": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "BEZANILLA GARCIA, AARON",
+    "QUINTANA TORRE, MARTIN",
+    "GARCÍA ABASCAL, HECTOR",
+    "TRICIO USLE, EDUARDO",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "ORTIZ MANZANAS, LUCAS",
+    "GUTIERREZ SARABIA, OSEL",
+    "SAINZ ZAMORANO, NOE",
+    "ALONSO PEREZ, DARIO"
+  ],
+  "suplentes_local": [
+    "LAVIN DEL HOYO, RAUL",
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+    "GONZALEZ GOMEZ, MARCOS",
+    "RIVAS LEZCANO, MARTIN",
+    "TEJERO ESTEBAN, MIGUEL"
+  ],
+  "suplentes_visitante": [
+    "COLINA DE LA HOZ, HUGO",
+    "GOMEZ CONCHA, MATEO",
+    "PORTILLA MAZA, ISMAEL",
+    "SIERRA GONZALEZ, KEVIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SANCHEZ MUÑOZ, ALEJANDRO",
+    "LOPEZ SAIZ, PABLO",
+    "LÓPEZ DÍAZ, IZAN",
+    "PRESMANES PADILLA, IKER",
+    "URIARTE LOPEZ, HUGO",
+    "VERDEJA ASTORECA, JORGE",
+    "AMUNEKE ALONSO, JOSEPH",
+    "GOMEZ SERRANO, MANUEL",
+    "MARTINEZ MONTERO, MANUEL",
+    "RODRIGUEZ SANCHEZ, MATEO",
+    "ORIA OCERIN, PABLO",
+    "RIVAS LEZCANO, MARTIN",
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+    "GONZALEZ GOMEZ, MARCOS",
+    "LAVIN DEL HOYO, RAUL",
+    "TEJERO ESTEBAN, MIGUEL"
+  ],
+  "jugadores_visitante": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "BEZANILLA GARCIA, AARON",
+    "QUINTANA TORRE, MARTIN",
+    "GARCÍA ABASCAL, HECTOR",
+    "TRICIO USLE, EDUARDO",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "ORTIZ MANZANAS, LUCAS",
+    "GUTIERREZ SARABIA, OSEL",
+    "SAINZ ZAMORANO, NOE",
+    "ALONSO PEREZ, DARIO",
+    "GOMEZ CONCHA, MATEO",
+    "PORTILLA MAZA, ISMAEL",
+    "SIERRA GONZALEZ, KEVIN",
+    "COLINA DE LA HOZ, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "RIVAS LEZCANO, MARTIN",
+      "sale": "VERDEJA ASTORECA, JORGE"
+    },
+    {
+      "min": 35,
+      "entra": "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+      "sale": "LOPEZ SAIZ, PABLO"
+    },
+    {
+      "min": 35,
+      "entra": "GONZALEZ GOMEZ, MARCOS",
+      "sale": "RODRIGUEZ SANCHEZ, MATEO"
+    },
+    {
+      "min": 35,
+      "entra": "LAVIN DEL HOYO, RAUL",
+      "sale": "SANCHEZ MUÑOZ, ALEJANDRO"
+    },
+    {
+      "min": 35,
+      "entra": "TEJERO ESTEBAN, MIGUEL",
+      "sale": "LÓPEZ DÍAZ, IZAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "GOMEZ CONCHA, MATEO",
+      "sale": "ORTIZ MANZANAS, LUCAS"
+    },
+    {
+      "min": 49,
+      "entra": "PORTILLA MAZA, ISMAEL",
+      "sale": "SAINZ ZAMORANO, NOE"
+    },
+    {
+      "min": 52,
+      "entra": "SIERRA GONZALEZ, KEVIN",
+      "sale": "TRICIO USLE, EDUARDO"
+    },
+    {
+      "min": 56,
+      "entra": "COLINA DE LA HOZ, HUGO",
+      "sale": "RODRIGUEZ LABRADOR, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANCHEZ MUÑOZ, ALEJANDRO": 35,
+    "LOPEZ SAIZ, PABLO": 35,
+    "LÓPEZ DÍAZ, IZAN": 35,
+    "PRESMANES PADILLA, IKER": 90,
+    "URIARTE LOPEZ, HUGO": 90,
+    "VERDEJA ASTORECA, JORGE": 35,
+    "AMUNEKE ALONSO, JOSEPH": 90,
+    "GOMEZ SERRANO, MANUEL": 90,
+    "MARTINEZ MONTERO, MANUEL": 90,
+    "RODRIGUEZ SANCHEZ, MATEO": 35,
+    "ORIA OCERIN, PABLO": 90,
+    "RIVAS LEZCANO, MARTIN": 55,
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN": 55,
+    "GONZALEZ GOMEZ, MARCOS": 55,
+    "LAVIN DEL HOYO, RAUL": 55,
+    "TEJERO ESTEBAN, MIGUEL": 55,
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 90,
+    "BEZANILLA GARCIA, AARON": 90,
+    "QUINTANA TORRE, MARTIN": 90,
+    "GARCÍA ABASCAL, HECTOR": 90,
+    "TRICIO USLE, EDUARDO": 52,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 90,
+    "RODRIGUEZ LABRADOR, PABLO": 56,
+    "ORTIZ MANZANAS, LUCAS": 49,
+    "GUTIERREZ SARABIA, OSEL": 90,
+    "SAINZ ZAMORANO, NOE": 49,
+    "ALONSO PEREZ, DARIO": 90,
+    "GOMEZ CONCHA, MATEO": 41,
+    "PORTILLA MAZA, ISMAEL": 41,
+    "SIERRA GONZALEZ, KEVIN": 38,
+    "COLINA DE LA HOZ, HUGO": 34
+  },
+  "portero_local": "SANCHEZ MUÑOZ, ALEJANDRO",
+  "portero_visitante": "ROMILA VASILACHE, ALEJANDRO ANDREI",
+  "dorsales_local": {
+    "SANCHEZ MUÑOZ, ALEJANDRO": 1,
+    "LOPEZ SAIZ, PABLO": 2,
+    "LÓPEZ DÍAZ, IZAN": 3,
+    "PRESMANES PADILLA, IKER": 4,
+    "URIARTE LOPEZ, HUGO": 5,
+    "VERDEJA ASTORECA, JORGE": 6,
+    "AMUNEKE ALONSO, JOSEPH": 7,
+    "GOMEZ SERRANO, MANUEL": 8,
+    "MARTINEZ MONTERO, MANUEL": 9,
+    "RODRIGUEZ SANCHEZ, MATEO": 10,
+    "ORIA OCERIN, PABLO": 11
+  },
+  "dorsales_visitante": {
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 13,
+    "BEZANILLA GARCIA, AARON": 2,
+    "QUINTANA TORRE, MARTIN": 4,
+    "GARCÍA ABASCAL, HECTOR": 5,
+    "TRICIO USLE, EDUARDO": 8,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 9,
+    "RODRIGUEZ LABRADOR, PABLO": 10,
+    "ORTIZ MANZANAS, LUCAS": 11,
+    "GUTIERREZ SARABIA, OSEL": 14,
+    "SAINZ ZAMORANO, NOE": 15,
+    "ALONSO PEREZ, DARIO": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
