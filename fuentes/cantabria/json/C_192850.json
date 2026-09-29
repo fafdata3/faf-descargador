@@ -1,0 +1,265 @@
+{
+  "acta_id": "C_192850",
+  "filename": "Acta_C_192850.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 15,
+  "fecha": "15-12-2024",
+  "hora": "11:30",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE A",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "IGLESIAS GUTIÉRREZ, DAVID"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 32,
+      "jugador": "CUADRADO PEREZ RUBIN, MATEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "PERNIA RODRIGUEZ, JOEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "MORENO QUINTANILLA, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "SOMOHANO TAMAYO, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "RODEÑO DIAZ, GABRIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "RAMIREZ VALLE, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PALAZUELOS TRUEBA, JORGE",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "GONZALEZ ARENAL, PEDRO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "VALLE TRUEBA, JAVIER",
+  "titulares_local": [
+    "LASO MARTINEZ, ADRIAN",
+    "CALVO MORTE, SAMUEL",
+    "MALLAVIA PEREZ, ASIER",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "RODEÑO DIAZ, GABRIEL",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "DURÁN GÓMEZ, MARCOS",
+    "PERNIA RODRIGUEZ, JOEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO"
+  ],
+  "titulares_visitante": [
+    "ARCE CAMPO, LUCAS",
+    "BOLADO PALACIO, ALVARO",
+    "CHANCA PACHECO, IKER",
+    "ANDRES MENA, MARCOS",
+    "RAMIREZ VALLE, JAVIER",
+    "CANCELA SUAREZ, OLIVER",
+    "maillo haya, PABLO",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "BRAVO DE CELIS, HUGO",
+    "ALONSO GARCIA, DANIEL",
+    "TABERNILLA GÓMEZ, GABRIEL"
+  ],
+  "suplentes_local": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "Gaviria Cataño, JUAN DIEGO",
+    "GOMEZ BOLADO, MIGUEL",
+    "SOLANA PEREZ, LEO",
+    "SAIZ GARCÍA, IVAN"
+  ],
+  "suplentes_visitante": [
+    "GARCIA AMIGO, HUGO",
+    "CASUSO IGLESIAS, IAGO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "DIEZ HERMOSA, SAUL",
+    "ALAMO DIAZ, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "BERNARDO MIRAVALLES, IZAN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LASO MARTINEZ, ADRIAN",
+    "CALVO MORTE, SAMUEL",
+    "MALLAVIA PEREZ, ASIER",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "RODEÑO DIAZ, GABRIEL",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "DURÁN GÓMEZ, MARCOS",
+    "PERNIA RODRIGUEZ, JOEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "Gaviria Cataño, JUAN DIEGO",
+    "GOMEZ BOLADO, MIGUEL",
+    "SOLANA PEREZ, LEO",
+    "SAIZ GARCÍA, IVAN"
+  ],
+  "jugadores_visitante": [
+    "ARCE CAMPO, LUCAS",
+    "BOLADO PALACIO, ALVARO",
+    "CHANCA PACHECO, IKER",
+    "ANDRES MENA, MARCOS",
+    "RAMIREZ VALLE, JAVIER",
+    "CANCELA SUAREZ, OLIVER",
+    "maillo haya, PABLO",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "BRAVO DE CELIS, HUGO",
+    "ALONSO GARCIA, DANIEL",
+    "TABERNILLA GÓMEZ, GABRIEL",
+    "CASUSO IGLESIAS, IAGO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "DIEZ HERMOSA, SAUL",
+    "GARCIA AMIGO, HUGO",
+    "ALAMO DIAZ, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "Gaviria Cataño, JUAN DIEGO",
+      "sale": "MALLAVIA PEREZ, ASIER"
+    },
+    {
+      "min": 40,
+      "entra": "GOMEZ BOLADO, MIGUEL",
+      "sale": "DURÁN GÓMEZ, MARCOS"
+    },
+    {
+      "min": 63,
+      "entra": "SOLANA PEREZ, LEO",
+      "sale": "FERNÁNDEZ VICENTE, ALEJANDRO"
+    },
+    {
+      "min": 67,
+      "entra": "SAIZ GARCÍA, IVAN",
+      "sale": "MOURA REVUELTA, ROMEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "CASUSO IGLESIAS, IAGO",
+      "sale": "TABERNILLA GÓMEZ, GABRIEL"
+    },
+    {
+      "min": 57,
+      "entra": "MORENO QUINTANILLA, NICOLAS",
+      "sale": "BOLADO PALACIO, ALVARO"
+    },
+    {
+      "min": 63,
+      "entra": "DIEZ HERMOSA, SAUL",
+      "sale": "CHANCA PACHECO, IKER"
+    },
+    {
+      "min": 67,
+      "entra": "GARCIA AMIGO, HUGO",
+      "sale": "ALONSO GARCIA, DANIEL"
+    },
+    {
+      "min": 67,
+      "entra": "ALAMO DIAZ, DIEGO",
+      "sale": "BRAVO DE CELIS, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "LASO MARTINEZ, ADRIAN": 90,
+    "CALVO MORTE, SAMUEL": 90,
+    "MALLAVIA PEREZ, ASIER": 40,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 63,
+    "RODEÑO DIAZ, GABRIEL": 90,
+    "CUADRADO PEREZ RUBIN, MATEO": 90,
+    "DURÁN GÓMEZ, MARCOS": 40,
+    "PERNIA RODRIGUEZ, JOEL": 90,
+    "RENEDO COSIO, DIEGO": 90,
+    "MOURA REVUELTA, ROMEO": 67,
+    "Gaviria Cataño, JUAN DIEGO": 50,
+    "GOMEZ BOLADO, MIGUEL": 50,
+    "SOLANA PEREZ, LEO": 27,
+    "SAIZ GARCÍA, IVAN": 23,
+    "ARCE CAMPO, LUCAS": 90,
+    "BOLADO PALACIO, ALVARO": 57,
+    "CHANCA PACHECO, IKER": 63,
+    "ANDRES MENA, MARCOS": 90,
+    "RAMIREZ VALLE, JAVIER": 90,
+    "CANCELA SUAREZ, OLIVER": 90,
+    "maillo haya, PABLO": 90,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 90,
+    "BRAVO DE CELIS, HUGO": 67,
+    "ALONSO GARCIA, DANIEL": 67,
+    "TABERNILLA GÓMEZ, GABRIEL": 50,
+    "CASUSO IGLESIAS, IAGO": 40,
+    "MORENO QUINTANILLA, NICOLAS": 33,
+    "DIEZ HERMOSA, SAUL": 27,
+    "GARCIA AMIGO, HUGO": 23,
+    "ALAMO DIAZ, DIEGO": 23
+  },
+  "portero_local": "LASO MARTINEZ, ADRIAN",
+  "portero_visitante": "ARCE CAMPO, LUCAS",
+  "dorsales_local": {
+    "LASO MARTINEZ, ADRIAN": 1,
+    "CALVO MORTE, SAMUEL": 2,
+    "MALLAVIA PEREZ, ASIER": 3,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "RODEÑO DIAZ, GABRIEL": 8,
+    "CUADRADO PEREZ RUBIN, MATEO": 11,
+    "DURÁN GÓMEZ, MARCOS": 14,
+    "PERNIA RODRIGUEZ, JOEL": 17,
+    "RENEDO COSIO, DIEGO": 18,
+    "MOURA REVUELTA, ROMEO": 20
+  },
+  "dorsales_visitante": {
+    "ARCE CAMPO, LUCAS": 1,
+    "BOLADO PALACIO, ALVARO": 3,
+    "CHANCA PACHECO, IKER": 4,
+    "ANDRES MENA, MARCOS": 5,
+    "RAMIREZ VALLE, JAVIER": 6,
+    "CANCELA SUAREZ, OLIVER": 7,
+    "maillo haya, PABLO": 9,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 14,
+    "BRAVO DE CELIS, HUGO": 15,
+    "ALONSO GARCIA, DANIEL": 16,
+    "TABERNILLA GÓMEZ, GABRIEL": 17
+  },
+  "suspendidos": []
+}
