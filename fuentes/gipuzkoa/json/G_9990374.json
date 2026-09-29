@@ -1,0 +1,291 @@
+{
+  "acta_id": "G_9990374",
+  "filename": "Acta_G_9990374.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 19,
+  "fecha": "14-02-2026",
+  "hora": "10:20",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "IGELTEGI DE DONOSTIA C.F. B",
+  "equipo_visitante": "MARTUTENE KE B",
+  "goles_local": 4,
+  "goles_visitante": 3,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "LOPEZ NAVARLAZ, ALAIN"
+  ],
+  "estadio": "LA SALLE",
+  "ciudad": "DONOSTIA",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "GUIJARRO MARTIN, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 6,
+      "jugador": "ANSOALDE AVILA, LEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "MURILLO LEON, EMILIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "NIETO GARITANO, JAIME",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "VARGAS VALDEZ, JUAN DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "ISTRATE ISTRATE, DARIO ENAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 74,
+      "jugador": "ISTRATE ISTRATE, DARIO ENAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 83,
+      "jugador": "BENGOA SUSPERREGUI, JUAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VELA LLARENA, BORJA",
+  "entrenador_visitante": "LASARTE ALZAGA, UNAI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "RAMOS SANZ, PEDRO ANTONIO",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "INCHAUSTI IRAOLA, ANDER",
+    "GARCIA CHAPARRO, MAURO",
+    "LASALA SOAGE, JON",
+    "GOENAGA HIERRO, ASIER",
+    "YARNOZ OYARZABAL, XABIER",
+    "ARREGUI IRURETAGOYENA, ANDONI PABLO",
+    "ZABALA BERASATEGUI, UNAI",
+    "VARGAS VALDEZ, JUAN DIEGO",
+    "ANSOALDE AVILA, LEO",
+    "RODRIGUEZ IGLESIAS, KEITA",
+    "ISTRATE ISTRATE, DARIO ENAITZ"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ ALONSO, DANEL",
+    "MURUA DE LA MATA, AITOR",
+    "GALDOS SANZ, ODEI CHEN",
+    "ORBE SANCHEZ, GUILLERMO VICENTE",
+    "MURILLO LEON, EMILIO",
+    "NIETO GARITANO, JAIME",
+    "IBAÑEZ ALVAREZ, IÑIGO",
+    "SAID, VICTORY AISOSA",
+    "SALAVERRIA NOGUEIRA, TOMAS",
+    "VALLEJO BONILLA, ROGER ALEXANDER",
+    "GUIJARRO MARTIN, DIEGO"
+  ],
+  "suplentes_local": [
+    "CRUZ MARTIN, AIMAR",
+    "CASTRO MUÑOZ, IRVING AUGUSTO",
+    "PIÑEIRO GONZALEZ, HUGO",
+    "NUÑEZ MACARRO, JON",
+    "OCHOA PRIETO, ASIER",
+    "CUELLO CORTEGOSO, PABLO"
+  ],
+  "suplentes_visitante": [
+    "KERSCHBAUM ELIZONDO, DANEL",
+    "PLAZA ARTAJO, PABLO",
+    "DEL POZO OZCARIZ, JON",
+    "PONCE RODRIGUEZ, ALVARO",
+    "SARASOLA BEDOYA, ANDER",
+    "BENGOA SUSPERREGUI, JUAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "CRUZ MARTIN, AIMAR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "KERSCHBAUM ELIZONDO, DANEL"
+  ],
+  "jugadores_local": [
+    "INCHAUSTI IRAOLA, ANDER",
+    "GARCIA CHAPARRO, MAURO",
+    "LASALA SOAGE, JON",
+    "GOENAGA HIERRO, ASIER",
+    "YARNOZ OYARZABAL, XABIER",
+    "ARREGUI IRURETAGOYENA, ANDONI PABLO",
+    "ZABALA BERASATEGUI, UNAI",
+    "VARGAS VALDEZ, JUAN DIEGO",
+    "ANSOALDE AVILA, LEO",
+    "RODRIGUEZ IGLESIAS, KEITA",
+    "ISTRATE ISTRATE, DARIO ENAITZ",
+    "CUELLO CORTEGOSO, PABLO",
+    "OCHOA PRIETO, ASIER",
+    "PIÑEIRO GONZALEZ, HUGO",
+    "NUÑEZ MACARRO, JON",
+    "CASTRO MUÑOZ, IRVING AUGUSTO"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ ALONSO, DANEL",
+    "MURUA DE LA MATA, AITOR",
+    "GALDOS SANZ, ODEI CHEN",
+    "ORBE SANCHEZ, GUILLERMO VICENTE",
+    "MURILLO LEON, EMILIO",
+    "NIETO GARITANO, JAIME",
+    "IBAÑEZ ALVAREZ, IÑIGO",
+    "SAID, VICTORY AISOSA",
+    "SALAVERRIA NOGUEIRA, TOMAS",
+    "VALLEJO BONILLA, ROGER ALEXANDER",
+    "GUIJARRO MARTIN, DIEGO",
+    "PLAZA ARTAJO, PABLO",
+    "SARASOLA BEDOYA, ANDER",
+    "BENGOA SUSPERREGUI, JUAN",
+    "DEL POZO OZCARIZ, JON",
+    "PONCE RODRIGUEZ, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 24,
+      "entra": "CUELLO CORTEGOSO, PABLO",
+      "sale": "GOENAGA HIERRO, ASIER"
+    },
+    {
+      "min": 56,
+      "entra": "OCHOA PRIETO, ASIER",
+      "sale": "GARCIA CHAPARRO, MAURO"
+    },
+    {
+      "min": 56,
+      "entra": "PIÑEIRO GONZALEZ, HUGO",
+      "sale": "RODRIGUEZ IGLESIAS, KEITA"
+    },
+    {
+      "min": 79,
+      "entra": "NUÑEZ MACARRO, JON",
+      "sale": "LASALA SOAGE, JON"
+    },
+    {
+      "min": 81,
+      "entra": "CASTRO MUÑOZ, IRVING AUGUSTO",
+      "sale": "ANSOALDE AVILA, LEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "PLAZA ARTAJO, PABLO",
+      "sale": "VALLEJO BONILLA, ROGER ALEXANDER"
+    },
+    {
+      "min": 58,
+      "entra": "SARASOLA BEDOYA, ANDER",
+      "sale": "GUIJARRO MARTIN, DIEGO"
+    },
+    {
+      "min": 66,
+      "entra": "BENGOA SUSPERREGUI, JUAN",
+      "sale": "SAID, VICTORY AISOSA"
+    },
+    {
+      "min": 66,
+      "entra": "DEL POZO OZCARIZ, JON",
+      "sale": "MURILLO LEON, EMILIO"
+    },
+    {
+      "min": 68,
+      "entra": "PONCE RODRIGUEZ, ALVARO",
+      "sale": "MURUA DE LA MATA, AITOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "INCHAUSTI IRAOLA, ANDER": 90,
+    "GARCIA CHAPARRO, MAURO": 56,
+    "LASALA SOAGE, JON": 79,
+    "GOENAGA HIERRO, ASIER": 24,
+    "YARNOZ OYARZABAL, XABIER": 90,
+    "ARREGUI IRURETAGOYENA, ANDONI PABLO": 90,
+    "ZABALA BERASATEGUI, UNAI": 90,
+    "VARGAS VALDEZ, JUAN DIEGO": 90,
+    "ANSOALDE AVILA, LEO": 81,
+    "RODRIGUEZ IGLESIAS, KEITA": 56,
+    "ISTRATE ISTRATE, DARIO ENAITZ": 90,
+    "CUELLO CORTEGOSO, PABLO": 66,
+    "OCHOA PRIETO, ASIER": 34,
+    "PIÑEIRO GONZALEZ, HUGO": 34,
+    "NUÑEZ MACARRO, JON": 11,
+    "CASTRO MUÑOZ, IRVING AUGUSTO": 9,
+    "RODRIGUEZ ALONSO, DANEL": 90,
+    "MURUA DE LA MATA, AITOR": 68,
+    "GALDOS SANZ, ODEI CHEN": 90,
+    "ORBE SANCHEZ, GUILLERMO VICENTE": 90,
+    "MURILLO LEON, EMILIO": 66,
+    "NIETO GARITANO, JAIME": 90,
+    "IBAÑEZ ALVAREZ, IÑIGO": 90,
+    "SAID, VICTORY AISOSA": 66,
+    "SALAVERRIA NOGUEIRA, TOMAS": 90,
+    "VALLEJO BONILLA, ROGER ALEXANDER": 49,
+    "GUIJARRO MARTIN, DIEGO": 58,
+    "PLAZA ARTAJO, PABLO": 41,
+    "SARASOLA BEDOYA, ANDER": 32,
+    "BENGOA SUSPERREGUI, JUAN": 24,
+    "DEL POZO OZCARIZ, JON": 24,
+    "PONCE RODRIGUEZ, ALVARO": 22
+  },
+  "portero_local": "INCHAUSTI IRAOLA, ANDER",
+  "portero_visitante": "RODRIGUEZ ALONSO, DANEL",
+  "dorsales_local": {
+    "INCHAUSTI IRAOLA, ANDER": 1,
+    "GARCIA CHAPARRO, MAURO": 2,
+    "LASALA SOAGE, JON": 3,
+    "GOENAGA HIERRO, ASIER": 4,
+    "YARNOZ OYARZABAL, XABIER": 5,
+    "ARREGUI IRURETAGOYENA, ANDONI PABLO": 6,
+    "ZABALA BERASATEGUI, UNAI": 7,
+    "VARGAS VALDEZ, JUAN DIEGO": 8,
+    "ANSOALDE AVILA, LEO": 9,
+    "RODRIGUEZ IGLESIAS, KEITA": 10,
+    "ISTRATE ISTRATE, DARIO ENAITZ": 11
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ ALONSO, DANEL": 13,
+    "MURUA DE LA MATA, AITOR": 5,
+    "GALDOS SANZ, ODEI CHEN": 6,
+    "ORBE SANCHEZ, GUILLERMO VICENTE": 7,
+    "MURILLO LEON, EMILIO": 11,
+    "NIETO GARITANO, JAIME": 12,
+    "IBAÑEZ ALVAREZ, IÑIGO": 16,
+    "SAID, VICTORY AISOSA": 17,
+    "SALAVERRIA NOGUEIRA, TOMAS": 20,
+    "VALLEJO BONILLA, ROGER ALEXANDER": 24,
+    "GUIJARRO MARTIN, DIEGO": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
