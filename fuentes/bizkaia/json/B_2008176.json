@@ -1,0 +1,257 @@
+{
+  "acta_id": "B_2008176",
+  "filename": "Acta_B_2008176.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 12,
+  "fecha": "22-12-2024",
+  "hora": "17:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "GAZTELUETA A",
+  "equipo_visitante": "GURUTZETA A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "HERRAN ALVAREZ, JON"
+  ],
+  "estadio": "GAZTELUETA",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "IZQUIERDO PEREZ, LUKEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "GARTEIZ-GOGEASCOA ORAA, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 52,
+      "jugador": "SÁNCHEZ MURGA, LEOPOLDO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "RUIZ MARCANO, GABRIEL JOSE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "BILBAO DEL POZO, ARITZ",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "CARBAJO VAQUERO, GAIZKA",
+  "delegado_campo_local": "HERRERIAS BLANCO, JORGE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BURON PAREDES, RODRIGO",
+  "delegado_equipo_visitante": "ZELAIA GOROSTIAGA, ANTON",
+  "titulares_local": [
+    "YERMO ARTIACH, JOSE",
+    "SÁNCHEZ MURGA, LEOPOLDO",
+    "ARISTI DEL FRESNO, PABLO",
+    "DEL RIO CASTIELLA, NICOLAS",
+    "INFANTE LOPEZ, JUAN",
+    "LASA IRIGORAS, IÑIGO",
+    "GARTEIZ-GOGEASCOA ORAA, JORGE",
+    "VIDONDO ANGULO, PABLO",
+    "ZUMÁRRAGA MUGURUZA, JAIME",
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS",
+    "HERVÁS PASCUAL, JAVIER"
+  ],
+  "titulares_visitante": [
+    "UREÑA ACHACOLLO, MANUEL",
+    "LANCIANO GROBAS, ANDONI",
+    "DAMOTA OURO, HECTOR",
+    "NKILI PEREZ, BEÑAT",
+    "GARCIA ALVAREZ, SAMUEL",
+    "MERINO BARROETA, ANDER",
+    "IZQUIERDO PEREZ, LUKEN",
+    "PRIETO CIEZA, IVAN",
+    "PATZI CHOQUE, GERARD JOSEP",
+    "BARREIRO GARCIA, ENEKO",
+    "CARMONA HERNANDEZ, JUAN ESTEBAN"
+  ],
+  "suplentes_local": [
+    "VÁZQUEZ ZALBIDEA, IGNACIO",
+    "DEL RIO DE LECEA, ELIAS",
+    "ZUGAZABEITIA BENGOA, ALVARO",
+    "YBARRA ROQUETTE, NICOLAS",
+    "MARTIN PASTOR, MARKEL",
+    "FERNANDEZ DE PRADO, GABRIEL"
+  ],
+  "suplentes_visitante": [
+    "BLÁZQUEZ LUCAS, IELTXU",
+    "GARCÍA ALCAIDE, EDER",
+    "RUIZ MARCANO, GABRIEL JOSE",
+    "NOGALES GAVILAN, MARKEL",
+    "JIMENEZ AGIRREBENGOA, UNAI",
+    "SOTORRIO RODRIGUEZ, IRAI"
+  ],
+  "convocados_sin_jugar_local": [
+    "VÁZQUEZ ZALBIDEA, IGNACIO",
+    "FERNANDEZ DE PRADO, GABRIEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BLÁZQUEZ LUCAS, IELTXU"
+  ],
+  "jugadores_local": [
+    "YERMO ARTIACH, JOSE",
+    "SÁNCHEZ MURGA, LEOPOLDO",
+    "ARISTI DEL FRESNO, PABLO",
+    "DEL RIO CASTIELLA, NICOLAS",
+    "INFANTE LOPEZ, JUAN",
+    "LASA IRIGORAS, IÑIGO",
+    "GARTEIZ-GOGEASCOA ORAA, JORGE",
+    "VIDONDO ANGULO, PABLO",
+    "ZUMÁRRAGA MUGURUZA, JAIME",
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS",
+    "HERVÁS PASCUAL, JAVIER",
+    "YBARRA ROQUETTE, NICOLAS",
+    "MARTIN PASTOR, MARKEL",
+    "DEL RIO DE LECEA, ELIAS",
+    "ZUGAZABEITIA BENGOA, ALVARO"
+  ],
+  "jugadores_visitante": [
+    "UREÑA ACHACOLLO, MANUEL",
+    "LANCIANO GROBAS, ANDONI",
+    "DAMOTA OURO, HECTOR",
+    "NKILI PEREZ, BEÑAT",
+    "GARCIA ALVAREZ, SAMUEL",
+    "MERINO BARROETA, ANDER",
+    "IZQUIERDO PEREZ, LUKEN",
+    "PRIETO CIEZA, IVAN",
+    "PATZI CHOQUE, GERARD JOSEP",
+    "BARREIRO GARCIA, ENEKO",
+    "CARMONA HERNANDEZ, JUAN ESTEBAN",
+    "GARCÍA ALCAIDE, EDER",
+    "SOTORRIO RODRIGUEZ, IRAI",
+    "NOGALES GAVILAN, MARKEL",
+    "RUIZ MARCANO, GABRIEL JOSE",
+    "JIMENEZ AGIRREBENGOA, UNAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "YBARRA ROQUETTE, NICOLAS",
+      "sale": "VIDONDO ANGULO, PABLO"
+    },
+    {
+      "min": 62,
+      "entra": "MARTIN PASTOR, MARKEL",
+      "sale": "PRADO AROSTEGUI, FRANCISCO DE ASIS"
+    },
+    {
+      "min": 62,
+      "entra": "DEL RIO DE LECEA, ELIAS",
+      "sale": "INFANTE LOPEZ, JUAN"
+    },
+    {
+      "min": 74,
+      "entra": "ZUGAZABEITIA BENGOA, ALVARO",
+      "sale": "LASA IRIGORAS, IÑIGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GARCÍA ALCAIDE, EDER",
+      "sale": "MERINO BARROETA, ANDER"
+    },
+    {
+      "min": 40,
+      "entra": "SOTORRIO RODRIGUEZ, IRAI",
+      "sale": "DAMOTA OURO, HECTOR"
+    },
+    {
+      "min": 50,
+      "entra": "NOGALES GAVILAN, MARKEL",
+      "sale": "GARCIA ALVAREZ, SAMUEL"
+    },
+    {
+      "min": 54,
+      "entra": "RUIZ MARCANO, GABRIEL JOSE",
+      "sale": "PATZI CHOQUE, GERARD JOSEP"
+    },
+    {
+      "min": 68,
+      "entra": "JIMENEZ AGIRREBENGOA, UNAI",
+      "sale": "NKILI PEREZ, BEÑAT"
+    }
+  ],
+  "minutos_jugadores": {
+    "YERMO ARTIACH, JOSE": 90,
+    "SÁNCHEZ MURGA, LEOPOLDO": 90,
+    "ARISTI DEL FRESNO, PABLO": 90,
+    "DEL RIO CASTIELLA, NICOLAS": 90,
+    "INFANTE LOPEZ, JUAN": 62,
+    "LASA IRIGORAS, IÑIGO": 74,
+    "GARTEIZ-GOGEASCOA ORAA, JORGE": 90,
+    "VIDONDO ANGULO, PABLO": 40,
+    "ZUMÁRRAGA MUGURUZA, JAIME": 90,
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS": 62,
+    "HERVÁS PASCUAL, JAVIER": 90,
+    "YBARRA ROQUETTE, NICOLAS": 50,
+    "MARTIN PASTOR, MARKEL": 28,
+    "DEL RIO DE LECEA, ELIAS": 28,
+    "ZUGAZABEITIA BENGOA, ALVARO": 16,
+    "UREÑA ACHACOLLO, MANUEL": 90,
+    "LANCIANO GROBAS, ANDONI": 90,
+    "DAMOTA OURO, HECTOR": 40,
+    "NKILI PEREZ, BEÑAT": 68,
+    "GARCIA ALVAREZ, SAMUEL": 50,
+    "MERINO BARROETA, ANDER": 40,
+    "IZQUIERDO PEREZ, LUKEN": 90,
+    "PRIETO CIEZA, IVAN": 90,
+    "PATZI CHOQUE, GERARD JOSEP": 54,
+    "BARREIRO GARCIA, ENEKO": 90,
+    "CARMONA HERNANDEZ, JUAN ESTEBAN": 90,
+    "GARCÍA ALCAIDE, EDER": 50,
+    "SOTORRIO RODRIGUEZ, IRAI": 50,
+    "NOGALES GAVILAN, MARKEL": 40,
+    "RUIZ MARCANO, GABRIEL JOSE": 36,
+    "JIMENEZ AGIRREBENGOA, UNAI": 22
+  },
+  "portero_local": "YERMO ARTIACH, JOSE",
+  "portero_visitante": "UREÑA ACHACOLLO, MANUEL",
+  "dorsales_local": {
+    "YERMO ARTIACH, JOSE": 13,
+    "SÁNCHEZ MURGA, LEOPOLDO": 2,
+    "ARISTI DEL FRESNO, PABLO": 4,
+    "DEL RIO CASTIELLA, NICOLAS": 5,
+    "INFANTE LOPEZ, JUAN": 6,
+    "LASA IRIGORAS, IÑIGO": 10,
+    "GARTEIZ-GOGEASCOA ORAA, JORGE": 11,
+    "VIDONDO ANGULO, PABLO": 14,
+    "ZUMÁRRAGA MUGURUZA, JAIME": 20,
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS": 21,
+    "HERVÁS PASCUAL, JAVIER": 22
+  },
+  "dorsales_visitante": {
+    "UREÑA ACHACOLLO, MANUEL": 13,
+    "LANCIANO GROBAS, ANDONI": 4,
+    "DAMOTA OURO, HECTOR": 5,
+    "NKILI PEREZ, BEÑAT": 7,
+    "GARCIA ALVAREZ, SAMUEL": 8,
+    "MERINO BARROETA, ANDER": 9,
+    "IZQUIERDO PEREZ, LUKEN": 11,
+    "PRIETO CIEZA, IVAN": 16,
+    "PATZI CHOQUE, GERARD JOSEP": 21,
+    "BARREIRO GARCIA, ENEKO": 22,
+    "CARMONA HERNANDEZ, JUAN ESTEBAN": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
