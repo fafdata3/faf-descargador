@@ -1,0 +1,254 @@
+{
+  "acta_id": "B_2008215",
+  "filename": "Acta_B_2008215.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 17,
+  "fecha": "02-02-2025",
+  "hora": "09:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "DEUSTO B",
+  "equipo_visitante": "ASTRABUDUAKO A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "ARRANZ ROMAÑA, AITOR"
+  ],
+  "estadio": "ETXEZURI",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "ALONSO DE LA QUINTANA, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "AMO LEGUINA, ALBERTO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 77,
+      "jugador": "AMO LEGUINA, ALBERTO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DEL HOYO ANGULO, ALVARO",
+  "entrenador_visitante": "FANO ESKAURIATZA, IGOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GORROCHATEGUI ESCARIZ, AITOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GORROCHATEGUI ESCARIZ, AITOR",
+  "delegado_equipo_visitante": "HORMAECHE CANTERA, ENDIKA",
+  "titulares_local": [
+    "GORROCHATEGUI OCHOA, GALDER",
+    "CALVO DOMINGUEZ, UNAI",
+    "GALLO ORTIZ, EKAITZ",
+    "BÚNEZ BIKANDI, MIKEL",
+    "NAVARRO SANTOS, BEÑAT",
+    "CANARIAS FERNANDEZ, EKAITZ",
+    "AMO LEGUINA, ALBERTO",
+    "SIERRA ROJO, MARIO",
+    "MURCIEGO VAQUERO, AGER",
+    "MURCIEGO VAQUERO, AIMAR",
+    "REQUERO FERNANDEZ, ANER"
+  ],
+  "titulares_visitante": [
+    "TERUELO ZUAZO, UNAI",
+    "CAMPOS MARCOS, ANDEKA",
+    "MENDEZ RASINES, HODEI",
+    "RILOVA MOCHA, JULEN",
+    "IGLESIAS DUEÑAS, ARATZ",
+    "BLANCO GOMEZ, EKAIN",
+    "ALONSO DE LA QUINTANA, OIER",
+    "AGUIRRE GARCIA, IKER",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "MOREDA MARTIN, YAGO",
+    "CORNAGO DE LA VEGA, MARTIN"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ GONZALEZ, ENEKO",
+    "FUENTES ALFONSO, GABRIEL",
+    "ARAMBURU TATO, URKO",
+    "AMOREBIETA MONTOYA, EÑAUT",
+    "RUIZ SAINZ-MAZA, RICARDO",
+    "VEGA ESPLIGARES, OIHAN",
+    "DE LEON ROMERO, IZAN"
+  ],
+  "suplentes_visitante": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "GIL MAZO, IÑIGO",
+    "BURGUEÑO GONZALEZ, ADEI",
+    "ALBA AYALA, JUAN DAVID",
+    "PEREZ CASTEJON, IKER",
+    "JORGE ARRUE, MIKEL",
+    "CABALLERO TRINIDAD, ASIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "RODRIGUEZ GONZALEZ, ENEKO",
+    "RUIZ SAINZ-MAZA, RICARDO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "BURGUEÑO GONZALEZ, ADEI",
+    "ALBA AYALA, JUAN DAVID"
+  ],
+  "jugadores_local": [
+    "GORROCHATEGUI OCHOA, GALDER",
+    "CALVO DOMINGUEZ, UNAI",
+    "GALLO ORTIZ, EKAITZ",
+    "BÚNEZ BIKANDI, MIKEL",
+    "NAVARRO SANTOS, BEÑAT",
+    "CANARIAS FERNANDEZ, EKAITZ",
+    "AMO LEGUINA, ALBERTO",
+    "SIERRA ROJO, MARIO",
+    "MURCIEGO VAQUERO, AGER",
+    "MURCIEGO VAQUERO, AIMAR",
+    "REQUERO FERNANDEZ, ANER",
+    "VEGA ESPLIGARES, OIHAN",
+    "FUENTES ALFONSO, GABRIEL",
+    "ARAMBURU TATO, URKO",
+    "AMOREBIETA MONTOYA, EÑAUT",
+    "DE LEON ROMERO, IZAN"
+  ],
+  "jugadores_visitante": [
+    "TERUELO ZUAZO, UNAI",
+    "CAMPOS MARCOS, ANDEKA",
+    "MENDEZ RASINES, HODEI",
+    "RILOVA MOCHA, JULEN",
+    "IGLESIAS DUEÑAS, ARATZ",
+    "BLANCO GOMEZ, EKAIN",
+    "ALONSO DE LA QUINTANA, OIER",
+    "AGUIRRE GARCIA, IKER",
+    "CAMPO GURRUTXAGA, ALAIN",
+    "MOREDA MARTIN, YAGO",
+    "CORNAGO DE LA VEGA, MARTIN",
+    "CABALLERO TRINIDAD, ASIER",
+    "GIL MAZO, IÑIGO",
+    "JORGE ARRUE, MIKEL",
+    "PEREZ CASTEJON, IKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "VEGA ESPLIGARES, OIHAN",
+      "sale": "BÚNEZ BIKANDI, MIKEL"
+    },
+    {
+      "min": 59,
+      "entra": "FUENTES ALFONSO, GABRIEL",
+      "sale": "CANARIAS FERNANDEZ, EKAITZ"
+    },
+    {
+      "min": 59,
+      "entra": "ARAMBURU TATO, URKO",
+      "sale": "MURCIEGO VAQUERO, AIMAR"
+    },
+    {
+      "min": 74,
+      "entra": "AMOREBIETA MONTOYA, EÑAUT",
+      "sale": "NAVARRO SANTOS, BEÑAT"
+    },
+    {
+      "min": 74,
+      "entra": "DE LEON ROMERO, IZAN",
+      "sale": "SIERRA ROJO, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "CABALLERO TRINIDAD, ASIER",
+      "sale": "CAMPO GURRUTXAGA, ALAIN"
+    },
+    {
+      "min": 59,
+      "entra": "GIL MAZO, IÑIGO",
+      "sale": "CORNAGO DE LA VEGA, MARTIN"
+    },
+    {
+      "min": 59,
+      "entra": "JORGE ARRUE, MIKEL",
+      "sale": "AGUIRRE GARCIA, IKER"
+    },
+    {
+      "min": 71,
+      "entra": "PEREZ CASTEJON, IKER",
+      "sale": "ALONSO DE LA QUINTANA, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "GORROCHATEGUI OCHOA, GALDER": 90,
+    "CALVO DOMINGUEZ, UNAI": 90,
+    "GALLO ORTIZ, EKAITZ": 90,
+    "BÚNEZ BIKANDI, MIKEL": 51,
+    "NAVARRO SANTOS, BEÑAT": 74,
+    "CANARIAS FERNANDEZ, EKAITZ": 59,
+    "AMO LEGUINA, ALBERTO": 90,
+    "SIERRA ROJO, MARIO": 74,
+    "MURCIEGO VAQUERO, AGER": 90,
+    "MURCIEGO VAQUERO, AIMAR": 59,
+    "REQUERO FERNANDEZ, ANER": 90,
+    "VEGA ESPLIGARES, OIHAN": 39,
+    "FUENTES ALFONSO, GABRIEL": 31,
+    "ARAMBURU TATO, URKO": 31,
+    "AMOREBIETA MONTOYA, EÑAUT": 16,
+    "DE LEON ROMERO, IZAN": 16,
+    "TERUELO ZUAZO, UNAI": 90,
+    "CAMPOS MARCOS, ANDEKA": 90,
+    "MENDEZ RASINES, HODEI": 90,
+    "RILOVA MOCHA, JULEN": 90,
+    "IGLESIAS DUEÑAS, ARATZ": 90,
+    "BLANCO GOMEZ, EKAIN": 90,
+    "ALONSO DE LA QUINTANA, OIER": 71,
+    "AGUIRRE GARCIA, IKER": 59,
+    "CAMPO GURRUTXAGA, ALAIN": 56,
+    "MOREDA MARTIN, YAGO": 90,
+    "CORNAGO DE LA VEGA, MARTIN": 59,
+    "CABALLERO TRINIDAD, ASIER": 34,
+    "GIL MAZO, IÑIGO": 31,
+    "JORGE ARRUE, MIKEL": 31,
+    "PEREZ CASTEJON, IKER": 19
+  },
+  "portero_local": "GORROCHATEGUI OCHOA, GALDER",
+  "portero_visitante": "TERUELO ZUAZO, UNAI",
+  "dorsales_local": {
+    "GORROCHATEGUI OCHOA, GALDER": 13,
+    "CALVO DOMINGUEZ, UNAI": 2,
+    "GALLO ORTIZ, EKAITZ": 4,
+    "BÚNEZ BIKANDI, MIKEL": 5,
+    "NAVARRO SANTOS, BEÑAT": 6,
+    "CANARIAS FERNANDEZ, EKAITZ": 14,
+    "AMO LEGUINA, ALBERTO": 15,
+    "SIERRA ROJO, MARIO": 18,
+    "MURCIEGO VAQUERO, AGER": 19,
+    "MURCIEGO VAQUERO, AIMAR": 20,
+    "REQUERO FERNANDEZ, ANER": 23
+  },
+  "dorsales_visitante": {
+    "TERUELO ZUAZO, UNAI": 1,
+    "CAMPOS MARCOS, ANDEKA": 2,
+    "MENDEZ RASINES, HODEI": 3,
+    "RILOVA MOCHA, JULEN": 4,
+    "IGLESIAS DUEÑAS, ARATZ": 5,
+    "BLANCO GOMEZ, EKAIN": 6,
+    "ALONSO DE LA QUINTANA, OIER": 7,
+    "AGUIRRE GARCIA, IKER": 8,
+    "CAMPO GURRUTXAGA, ALAIN": 9,
+    "MOREDA MARTIN, YAGO": 10,
+    "CORNAGO DE LA VEGA, MARTIN": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
