@@ -1,0 +1,232 @@
+{
+  "acta_id": "B_9981270",
+  "filename": "Acta_B_9981270.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 12,
+  "fecha": "20-12-2025",
+  "hora": "12:45",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ITURRIGORRI A",
+  "equipo_visitante": "RETUERTO B",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "GALAN PEREZ, AITOR"
+  ],
+  "estadio": "LA ROSETA",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 79,
+      "jugador": "ATIENZA HUIDOBRO, JADEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "TORRE GUTIERREZ, ASIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "GONZALEZ RUIZ, AITZOL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ARNAIZ SERRADILLA, JOSE IGNACIO",
+  "entrenador_visitante": "GARZON PEÑARANDA, RUBEN",
+  "segundo_entrenador_local": "LOPEZ SANTAMARINA, JESUS IGNACIO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "OLANO AYARZA, IGOR",
+  "delegado_equipo_visitante": "LATORRE BLANCO, IKER",
+  "titulares_local": [
+    "GENTO GARCIA, UNAX",
+    "SANTISTEBAN VIGO, ARITZ",
+    "TORRE GUTIERREZ, ASIER",
+    "HERRAIZ BENITO, JON",
+    "PEREZ HELGUERA, ANDER",
+    "BARRENECHEA QUERO, ANDER",
+    "RIBADULLA OBREGON, IZER",
+    "GARATE MARTINEZ, ANDER",
+    "PRESA SEVILLA, ANDER",
+    "ZALDO DEL CAMPO, IKER",
+    "LOPEZ MUR, ANDER"
+  ],
+  "titulares_visitante": [
+    "MARTIN DIAZ, LUCAS",
+    "VAZQUEZ MENDEZ, ANARTZ",
+    "AGRELO MUÑOZ, DANIEL",
+    "GONZALEZ GARCIA, IBAI",
+    "NUÑEZ BUSTO, JON",
+    "SALAZAR BARNESE, IKER",
+    "PRADO ASPIAZU, AIMAR",
+    "PEREZ GARCIA, ASIER",
+    "MENDOZA DE TRINCHERIA, MIKEL",
+    "BLAYA GARCIA, GORKA",
+    "SANTAMARIA VALDUVIECO, JON"
+  ],
+  "suplentes_local": [
+    "PANIAGUA RODRIGUEZ, IZAN",
+    "MIJANGOS BARDISA, IBAI",
+    "ORTIZ ROSALES, PEIO",
+    "PELLITERO GARRIDO, LUKEN",
+    "ATIENZA HUIDOBRO, JADEN"
+  ],
+  "suplentes_visitante": [
+    "GARCIA FERNANDEZ, ADRIAN ENZO",
+    "BILBAO GONZALEZ, ANGEL",
+    "ISTURIZ MARTINEZ, UNAX",
+    "GONZALEZ RUIZ, AITZOL",
+    "SAMBU VIEIRA, OIER OZIL",
+    "FERNANDEZ BIDAURRAZAGA, XABIER",
+    "CASCO SANTOS, ANDERSON ARIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "PANIAGUA RODRIGUEZ, IZAN",
+    "MIJANGOS BARDISA, IBAI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GARCIA FERNANDEZ, ADRIAN ENZO",
+    "BILBAO GONZALEZ, ANGEL",
+    "FERNANDEZ BIDAURRAZAGA, XABIER",
+    "CASCO SANTOS, ANDERSON ARIEL"
+  ],
+  "jugadores_local": [
+    "GENTO GARCIA, UNAX",
+    "SANTISTEBAN VIGO, ARITZ",
+    "TORRE GUTIERREZ, ASIER",
+    "HERRAIZ BENITO, JON",
+    "PEREZ HELGUERA, ANDER",
+    "BARRENECHEA QUERO, ANDER",
+    "RIBADULLA OBREGON, IZER",
+    "GARATE MARTINEZ, ANDER",
+    "PRESA SEVILLA, ANDER",
+    "ZALDO DEL CAMPO, IKER",
+    "LOPEZ MUR, ANDER",
+    "ORTIZ ROSALES, PEIO",
+    "PELLITERO GARRIDO, LUKEN",
+    "ATIENZA HUIDOBRO, JADEN"
+  ],
+  "jugadores_visitante": [
+    "MARTIN DIAZ, LUCAS",
+    "VAZQUEZ MENDEZ, ANARTZ",
+    "AGRELO MUÑOZ, DANIEL",
+    "GONZALEZ GARCIA, IBAI",
+    "NUÑEZ BUSTO, JON",
+    "SALAZAR BARNESE, IKER",
+    "PRADO ASPIAZU, AIMAR",
+    "PEREZ GARCIA, ASIER",
+    "MENDOZA DE TRINCHERIA, MIKEL",
+    "BLAYA GARCIA, GORKA",
+    "SANTAMARIA VALDUVIECO, JON",
+    "GONZALEZ RUIZ, AITZOL",
+    "SAMBU VIEIRA, OIER OZIL",
+    "ISTURIZ MARTINEZ, UNAX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "ORTIZ ROSALES, PEIO",
+      "sale": "ZALDO DEL CAMPO, IKER"
+    },
+    {
+      "min": 62,
+      "entra": "PELLITERO GARRIDO, LUKEN",
+      "sale": "BARRENECHEA QUERO, ANDER"
+    },
+    {
+      "min": 73,
+      "entra": "ATIENZA HUIDOBRO, JADEN",
+      "sale": "PEREZ HELGUERA, ANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "GONZALEZ RUIZ, AITZOL",
+      "sale": "BLAYA GARCIA, GORKA"
+    },
+    {
+      "min": 62,
+      "entra": "SAMBU VIEIRA, OIER OZIL",
+      "sale": "VAZQUEZ MENDEZ, ANARTZ"
+    },
+    {
+      "min": 71,
+      "entra": "ISTURIZ MARTINEZ, UNAX",
+      "sale": "GONZALEZ GARCIA, IBAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "GENTO GARCIA, UNAX": 90,
+    "SANTISTEBAN VIGO, ARITZ": 90,
+    "TORRE GUTIERREZ, ASIER": 90,
+    "HERRAIZ BENITO, JON": 90,
+    "PEREZ HELGUERA, ANDER": 73,
+    "BARRENECHEA QUERO, ANDER": 62,
+    "RIBADULLA OBREGON, IZER": 90,
+    "GARATE MARTINEZ, ANDER": 90,
+    "PRESA SEVILLA, ANDER": 90,
+    "ZALDO DEL CAMPO, IKER": 59,
+    "LOPEZ MUR, ANDER": 90,
+    "ORTIZ ROSALES, PEIO": 31,
+    "PELLITERO GARRIDO, LUKEN": 28,
+    "ATIENZA HUIDOBRO, JADEN": 17,
+    "MARTIN DIAZ, LUCAS": 90,
+    "VAZQUEZ MENDEZ, ANARTZ": 62,
+    "AGRELO MUÑOZ, DANIEL": 90,
+    "GONZALEZ GARCIA, IBAI": 71,
+    "NUÑEZ BUSTO, JON": 90,
+    "SALAZAR BARNESE, IKER": 90,
+    "PRADO ASPIAZU, AIMAR": 90,
+    "PEREZ GARCIA, ASIER": 90,
+    "MENDOZA DE TRINCHERIA, MIKEL": 90,
+    "BLAYA GARCIA, GORKA": 51,
+    "SANTAMARIA VALDUVIECO, JON": 90,
+    "GONZALEZ RUIZ, AITZOL": 39,
+    "SAMBU VIEIRA, OIER OZIL": 28,
+    "ISTURIZ MARTINEZ, UNAX": 19
+  },
+  "portero_local": "GENTO GARCIA, UNAX",
+  "portero_visitante": "MARTIN DIAZ, LUCAS",
+  "dorsales_local": {
+    "GENTO GARCIA, UNAX": 1,
+    "SANTISTEBAN VIGO, ARITZ": 3,
+    "TORRE GUTIERREZ, ASIER": 5,
+    "HERRAIZ BENITO, JON": 6,
+    "PEREZ HELGUERA, ANDER": 8,
+    "BARRENECHEA QUERO, ANDER": 10,
+    "RIBADULLA OBREGON, IZER": 11,
+    "GARATE MARTINEZ, ANDER": 14,
+    "PRESA SEVILLA, ANDER": 17,
+    "ZALDO DEL CAMPO, IKER": 20,
+    "LOPEZ MUR, ANDER": 21
+  },
+  "dorsales_visitante": {
+    "MARTIN DIAZ, LUCAS": 1,
+    "VAZQUEZ MENDEZ, ANARTZ": 2,
+    "AGRELO MUÑOZ, DANIEL": 3,
+    "GONZALEZ GARCIA, IBAI": 5,
+    "NUÑEZ BUSTO, JON": 9,
+    "SALAZAR BARNESE, IKER": 12,
+    "PRADO ASPIAZU, AIMAR": 14,
+    "PEREZ GARCIA, ASIER": 15,
+    "MENDOZA DE TRINCHERIA, MIKEL": 21,
+    "BLAYA GARCIA, GORKA": 23,
+    "SANTAMARIA VALDUVIECO, JON": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
