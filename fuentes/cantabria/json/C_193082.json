@@ -1,0 +1,265 @@
+{
+  "acta_id": "C_193082",
+  "filename": "Acta_C_193082.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "12-10-2024",
+  "hora": "11:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "E.M.F. SANTOÑA",
+  "equipo_visitante": "CASTRO F.C. A",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "FERNANDEZ-MOREIRA FERNANDEZ, CHRISTIAN"
+  ],
+  "estadio": "Santoña 1",
+  "ciudad": "Santoña",
+  "goleadores": [
+    {
+      "minuto": 43,
+      "jugador": "VIZCAYA ALVAREZ, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "LAISECA ALONSO, EDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "RODRÍGUEZ LÓPEZ, JON ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "RODRÍGUEZ LÓPEZ, JON ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "JIMENEZ BARTOLOME, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "LAVIN ARGOS, GONZALO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALONSO SAMPEDRO, JESUS",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "JAUREGUI RECIO, XABIER",
+  "titulares_local": [
+    "GOMEZ MARTIN, DANILO",
+    "BLANCO GONZALEZ, OIER",
+    "CABALLERO DEL REY, ALVARO",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "SANTAMARIA HOYOS, DARIO",
+    "BARBERARENA BODEGAS, SERGIO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "LAVIN ARGOS, GONZALO",
+    "RESTREPO VALENCIA, ALEJANDRO",
+    "ALONSO MAZA, AIMAR",
+    "RENEDO ANSOLA, ABEL"
+  ],
+  "titulares_visitante": [
+    "CARRASQUILLA VARGAS, XABIER",
+    "ARRIOLA IRIARTE, HUGO",
+    "LOPEZ SANTOS, IZAN",
+    "RODRIGUEZ GOMEZ, HECTOR",
+    "JIMENEZ BARTOLOME, IZAN",
+    "LAISECA ALONSO, EDER",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "GOMEZ ALONSO, HUGO",
+    "CORTES LANDABEREA, RUBEN",
+    "VIZCAYA ALVAREZ, ADRIAN",
+    "ALONSO SOLDEVILLA, IÑAKI"
+  ],
+  "suplentes_local": [
+    "ARCOS QUINTANA, ELVER ALEXANDER",
+    "ELIZALDE ALONSO, BELTRAN",
+    "PLA DIEZ, MARTIN",
+    "SOLANO PRADA, VICTOR",
+    "PLA DIEZ, HUGO"
+  ],
+  "suplentes_visitante": [
+    "CUEVAS NUÑEZ, UNAI",
+    "FERRERO VILLASANTE, RAUL",
+    "AGUSTIN PELLON, HUGO",
+    "MARTINEZ PEREZ, PABLO",
+    "ALONSO SANCHEZ, AITOR"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "CUEVAS NUÑEZ, UNAI"
+  ],
+  "jugadores_local": [
+    "GOMEZ MARTIN, DANILO",
+    "BLANCO GONZALEZ, OIER",
+    "CABALLERO DEL REY, ALVARO",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "SANTAMARIA HOYOS, DARIO",
+    "BARBERARENA BODEGAS, SERGIO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "LAVIN ARGOS, GONZALO",
+    "RESTREPO VALENCIA, ALEJANDRO",
+    "ALONSO MAZA, AIMAR",
+    "RENEDO ANSOLA, ABEL",
+    "PLA DIEZ, HUGO",
+    "PLA DIEZ, MARTIN",
+    "SOLANO PRADA, VICTOR",
+    "ELIZALDE ALONSO, BELTRAN",
+    "ARCOS QUINTANA, ELVER ALEXANDER"
+  ],
+  "jugadores_visitante": [
+    "CARRASQUILLA VARGAS, XABIER",
+    "ARRIOLA IRIARTE, HUGO",
+    "LOPEZ SANTOS, IZAN",
+    "RODRIGUEZ GOMEZ, HECTOR",
+    "JIMENEZ BARTOLOME, IZAN",
+    "LAISECA ALONSO, EDER",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "GOMEZ ALONSO, HUGO",
+    "CORTES LANDABEREA, RUBEN",
+    "VIZCAYA ALVAREZ, ADRIAN",
+    "ALONSO SOLDEVILLA, IÑAKI",
+    "FERRERO VILLASANTE, RAUL",
+    "AGUSTIN PELLON, HUGO",
+    "MARTINEZ PEREZ, PABLO",
+    "ALONSO SANCHEZ, AITOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 70,
+      "entra": "PLA DIEZ, HUGO",
+      "sale": "SANTAMARIA HOYOS, DARIO"
+    },
+    {
+      "min": 73,
+      "entra": "PLA DIEZ, MARTIN",
+      "sale": "LAVIN ARGOS, GONZALO"
+    },
+    {
+      "min": 73,
+      "entra": "SOLANO PRADA, VICTOR",
+      "sale": "RENEDO ANSOLA, ABEL"
+    },
+    {
+      "min": 76,
+      "entra": "ELIZALDE ALONSO, BELTRAN",
+      "sale": "BLANCO GONZALEZ, OIER"
+    },
+    {
+      "min": 76,
+      "entra": "ARCOS QUINTANA, ELVER ALEXANDER",
+      "sale": "RESTREPO VALENCIA, ALEJANDRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "FERRERO VILLASANTE, RAUL",
+      "sale": "LOPEZ SANTOS, IZAN"
+    },
+    {
+      "min": 40,
+      "entra": "AGUSTIN PELLON, HUGO",
+      "sale": "CORTES LANDABEREA, RUBEN"
+    },
+    {
+      "min": 54,
+      "entra": "MARTINEZ PEREZ, PABLO",
+      "sale": "LAISECA ALONSO, EDER"
+    },
+    {
+      "min": 62,
+      "entra": "ALONSO SANCHEZ, AITOR",
+      "sale": "ALONSO SOLDEVILLA, IÑAKI"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ MARTIN, DANILO": 90,
+    "BLANCO GONZALEZ, OIER": 76,
+    "CABALLERO DEL REY, ALVARO": 90,
+    "ANSOLA FERNANDEZ, VINDIO": 90,
+    "SANTAMARIA HOYOS, DARIO": 70,
+    "BARBERARENA BODEGAS, SERGIO": 90,
+    "SOLANA FERNANDEZ, ALEJANDRO": 90,
+    "LAVIN ARGOS, GONZALO": 73,
+    "RESTREPO VALENCIA, ALEJANDRO": 76,
+    "ALONSO MAZA, AIMAR": 90,
+    "RENEDO ANSOLA, ABEL": 73,
+    "PLA DIEZ, HUGO": 20,
+    "PLA DIEZ, MARTIN": 17,
+    "SOLANO PRADA, VICTOR": 17,
+    "ELIZALDE ALONSO, BELTRAN": 14,
+    "ARCOS QUINTANA, ELVER ALEXANDER": 14,
+    "CARRASQUILLA VARGAS, XABIER": 90,
+    "ARRIOLA IRIARTE, HUGO": 90,
+    "LOPEZ SANTOS, IZAN": 40,
+    "RODRIGUEZ GOMEZ, HECTOR": 90,
+    "JIMENEZ BARTOLOME, IZAN": 90,
+    "LAISECA ALONSO, EDER": 54,
+    "RODRÍGUEZ LÓPEZ, JON ANDER": 90,
+    "GOMEZ ALONSO, HUGO": 90,
+    "CORTES LANDABEREA, RUBEN": 40,
+    "VIZCAYA ALVAREZ, ADRIAN": 90,
+    "ALONSO SOLDEVILLA, IÑAKI": 62,
+    "FERRERO VILLASANTE, RAUL": 50,
+    "AGUSTIN PELLON, HUGO": 50,
+    "MARTINEZ PEREZ, PABLO": 36,
+    "ALONSO SANCHEZ, AITOR": 28
+  },
+  "portero_local": "GOMEZ MARTIN, DANILO",
+  "portero_visitante": "CARRASQUILLA VARGAS, XABIER",
+  "dorsales_local": {
+    "GOMEZ MARTIN, DANILO": 1,
+    "BLANCO GONZALEZ, OIER": 2,
+    "CABALLERO DEL REY, ALVARO": 3,
+    "ANSOLA FERNANDEZ, VINDIO": 4,
+    "SANTAMARIA HOYOS, DARIO": 5,
+    "BARBERARENA BODEGAS, SERGIO": 6,
+    "SOLANA FERNANDEZ, ALEJANDRO": 8,
+    "LAVIN ARGOS, GONZALO": 9,
+    "RESTREPO VALENCIA, ALEJANDRO": 14,
+    "ALONSO MAZA, AIMAR": 17,
+    "RENEDO ANSOLA, ABEL": 34
+  },
+  "dorsales_visitante": {
+    "CARRASQUILLA VARGAS, XABIER": 1,
+    "ARRIOLA IRIARTE, HUGO": 3,
+    "LOPEZ SANTOS, IZAN": 4,
+    "RODRIGUEZ GOMEZ, HECTOR": 5,
+    "JIMENEZ BARTOLOME, IZAN": 9,
+    "LAISECA ALONSO, EDER": 10,
+    "RODRÍGUEZ LÓPEZ, JON ANDER": 11,
+    "GOMEZ ALONSO, HUGO": 14,
+    "CORTES LANDABEREA, RUBEN": 15,
+    "VIZCAYA ALVAREZ, ADRIAN": 18,
+    "ALONSO SOLDEVILLA, IÑAKI": 19
+  },
+  "suspendidos": []
+}
