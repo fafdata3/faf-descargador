@@ -1,0 +1,288 @@
+{
+  "acta_id": "B_2008179",
+  "filename": "Acta_B_2008179.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 12,
+  "fecha": "21-12-2024",
+  "hora": "13:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "DEUSTO B",
+  "equipo_visitante": "BARAKALDO B",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SEDANO MIJARES, ANDER"
+  ],
+  "estadio": "ETXEZURI",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "CALVO DOMINGUEZ, UNAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "GONZALEZ ALDAY, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "AMO LEGUINA, ALBERTO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 37,
+      "jugador": "AMOREBIETA MONTOYA, EÑAUT",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "CALVO DOMINGUEZ, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "AMO LEGUINA, ALBERTO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "MARTIN DIAZ, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DEL HOYO ANGULO, ALVARO",
+  "entrenador_visitante": "BERASALUCE CAMPOS, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CRESPO RAMOS, MARKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GORROCHATEGUI ESCARIZ, AITOR",
+  "delegado_equipo_visitante": "PEDROSA MARTIN, OSKAR",
+  "titulares_local": [
+    "GORROCHATEGUI OCHOA, GALDER",
+    "CALVO DOMINGUEZ, UNAI",
+    "GALLO ORTIZ, EKAITZ",
+    "AMOREBIETA MONTOYA, EÑAUT",
+    "ANITUA FERNANDEZ, MARKEL",
+    "CANARIAS FERNANDEZ, EKAITZ",
+    "AMO LEGUINA, ALBERTO",
+    "DIAZ DE CORCUERA IBASETA, MARKEL",
+    "SIERRA ROJO, MARIO",
+    "MURCIEGO VAQUERO, AGER",
+    "VEGA ESPLIGARES, OIHAN"
+  ],
+  "titulares_visitante": [
+    "MARTIN DIAZ, LUCAS",
+    "SOBRADO MENDEZ, MARKEL",
+    "GARCIA GONZALEZ, UNAI",
+    "GARCIA MELLA, IZAN",
+    "TAZARKI JERBI, OMAR",
+    "SANZ BANCALERO, XABIER",
+    "GONZALEZ ALDAY, ANDER",
+    "ESTEVEZ ARRUZAS, ANDER",
+    "LALIASHVILI, SERGIO",
+    "BUSTOS BARRIO, IKER",
+    "ESPINACO PEREDA, ANDONI"
+  ],
+  "suplentes_local": [
+    "FUENTES ALFONSO, GABRIEL",
+    "BÚNEZ BIKANDI, MIKEL",
+    "NAVARRO SANTOS, BEÑAT",
+    "ARAMBURU TATO, URKO",
+    "RUIZ SAINZ-MAZA, RICARDO",
+    "ATXA ZEBERIO, DANIEL",
+    "REQUERO FERNANDEZ, ANER"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ ORTEGA, OIER",
+    "BLANCO MOLLEDA, OIER",
+    "ARRIZABALAGA BLASCO, MIKEL",
+    "LOPEZ LECUE, UNAI",
+    "SAINZ AVILA, LUCAS",
+    "GOROSPE MAZA, ARITZ",
+    "ARIZTONDO PORTILLO, OINATZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "BÚNEZ BIKANDI, MIKEL",
+    "ATXA ZEBERIO, DANIEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ARRIZABALAGA BLASCO, MIKEL",
+    "LOPEZ LECUE, UNAI"
+  ],
+  "jugadores_local": [
+    "GORROCHATEGUI OCHOA, GALDER",
+    "CALVO DOMINGUEZ, UNAI",
+    "GALLO ORTIZ, EKAITZ",
+    "AMOREBIETA MONTOYA, EÑAUT",
+    "ANITUA FERNANDEZ, MARKEL",
+    "CANARIAS FERNANDEZ, EKAITZ",
+    "AMO LEGUINA, ALBERTO",
+    "DIAZ DE CORCUERA IBASETA, MARKEL",
+    "SIERRA ROJO, MARIO",
+    "MURCIEGO VAQUERO, AGER",
+    "VEGA ESPLIGARES, OIHAN",
+    "NAVARRO SANTOS, BEÑAT",
+    "FUENTES ALFONSO, GABRIEL",
+    "ARAMBURU TATO, URKO",
+    "REQUERO FERNANDEZ, ANER",
+    "RUIZ SAINZ-MAZA, RICARDO"
+  ],
+  "jugadores_visitante": [
+    "MARTIN DIAZ, LUCAS",
+    "SOBRADO MENDEZ, MARKEL",
+    "GARCIA GONZALEZ, UNAI",
+    "GARCIA MELLA, IZAN",
+    "TAZARKI JERBI, OMAR",
+    "SANZ BANCALERO, XABIER",
+    "GONZALEZ ALDAY, ANDER",
+    "ESTEVEZ ARRUZAS, ANDER",
+    "LALIASHVILI, SERGIO",
+    "BUSTOS BARRIO, IKER",
+    "ESPINACO PEREDA, ANDONI",
+    "ARIZTONDO PORTILLO, OINATZ",
+    "SAINZ AVILA, LUCAS",
+    "BLANCO MOLLEDA, OIER",
+    "LOPEZ ORTEGA, OIER",
+    "GOROSPE MAZA, ARITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "NAVARRO SANTOS, BEÑAT",
+      "sale": "AMOREBIETA MONTOYA, EÑAUT"
+    },
+    {
+      "min": 49,
+      "entra": "FUENTES ALFONSO, GABRIEL",
+      "sale": "MURCIEGO VAQUERO, AGER"
+    },
+    {
+      "min": 56,
+      "entra": "ARAMBURU TATO, URKO",
+      "sale": "CANARIAS FERNANDEZ, EKAITZ"
+    },
+    {
+      "min": 56,
+      "entra": "REQUERO FERNANDEZ, ANER",
+      "sale": "DIAZ DE CORCUERA IBASETA, MARKEL"
+    },
+    {
+      "min": 69,
+      "entra": "RUIZ SAINZ-MAZA, RICARDO",
+      "sale": "SIERRA ROJO, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "ARIZTONDO PORTILLO, OINATZ",
+      "sale": "ESTEVEZ ARRUZAS, ANDER"
+    },
+    {
+      "min": 55,
+      "entra": "SAINZ AVILA, LUCAS",
+      "sale": "SANZ BANCALERO, XABIER"
+    },
+    {
+      "min": 55,
+      "entra": "BLANCO MOLLEDA, OIER",
+      "sale": "GONZALEZ ALDAY, ANDER"
+    },
+    {
+      "min": 65,
+      "entra": "LOPEZ ORTEGA, OIER",
+      "sale": "TAZARKI JERBI, OMAR"
+    },
+    {
+      "min": 65,
+      "entra": "GOROSPE MAZA, ARITZ",
+      "sale": "LALIASHVILI, SERGIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GORROCHATEGUI OCHOA, GALDER": 90,
+    "CALVO DOMINGUEZ, UNAI": 90,
+    "GALLO ORTIZ, EKAITZ": 90,
+    "AMOREBIETA MONTOYA, EÑAUT": 40,
+    "ANITUA FERNANDEZ, MARKEL": 90,
+    "CANARIAS FERNANDEZ, EKAITZ": 56,
+    "AMO LEGUINA, ALBERTO": 90,
+    "DIAZ DE CORCUERA IBASETA, MARKEL": 56,
+    "SIERRA ROJO, MARIO": 69,
+    "MURCIEGO VAQUERO, AGER": 49,
+    "VEGA ESPLIGARES, OIHAN": 90,
+    "NAVARRO SANTOS, BEÑAT": 50,
+    "FUENTES ALFONSO, GABRIEL": 41,
+    "ARAMBURU TATO, URKO": 34,
+    "REQUERO FERNANDEZ, ANER": 34,
+    "RUIZ SAINZ-MAZA, RICARDO": 21,
+    "MARTIN DIAZ, LUCAS": 90,
+    "SOBRADO MENDEZ, MARKEL": 90,
+    "GARCIA GONZALEZ, UNAI": 90,
+    "GARCIA MELLA, IZAN": 90,
+    "TAZARKI JERBI, OMAR": 65,
+    "SANZ BANCALERO, XABIER": 55,
+    "GONZALEZ ALDAY, ANDER": 55,
+    "ESTEVEZ ARRUZAS, ANDER": 40,
+    "LALIASHVILI, SERGIO": 65,
+    "BUSTOS BARRIO, IKER": 90,
+    "ESPINACO PEREDA, ANDONI": 90,
+    "ARIZTONDO PORTILLO, OINATZ": 50,
+    "SAINZ AVILA, LUCAS": 35,
+    "BLANCO MOLLEDA, OIER": 35,
+    "LOPEZ ORTEGA, OIER": 25,
+    "GOROSPE MAZA, ARITZ": 25
+  },
+  "portero_local": "GORROCHATEGUI OCHOA, GALDER",
+  "portero_visitante": "MARTIN DIAZ, LUCAS",
+  "dorsales_local": {
+    "GORROCHATEGUI OCHOA, GALDER": 13,
+    "CALVO DOMINGUEZ, UNAI": 2,
+    "GALLO ORTIZ, EKAITZ": 4,
+    "AMOREBIETA MONTOYA, EÑAUT": 8,
+    "ANITUA FERNANDEZ, MARKEL": 11,
+    "CANARIAS FERNANDEZ, EKAITZ": 14,
+    "AMO LEGUINA, ALBERTO": 15,
+    "DIAZ DE CORCUERA IBASETA, MARKEL": 17,
+    "SIERRA ROJO, MARIO": 18,
+    "MURCIEGO VAQUERO, AGER": 19,
+    "VEGA ESPLIGARES, OIHAN": 21
+  },
+  "dorsales_visitante": {
+    "MARTIN DIAZ, LUCAS": 1,
+    "SOBRADO MENDEZ, MARKEL": 2,
+    "GARCIA GONZALEZ, UNAI": 3,
+    "GARCIA MELLA, IZAN": 5,
+    "TAZARKI JERBI, OMAR": 8,
+    "SANZ BANCALERO, XABIER": 10,
+    "GONZALEZ ALDAY, ANDER": 14,
+    "ESTEVEZ ARRUZAS, ANDER": 16,
+    "LALIASHVILI, SERGIO": 20,
+    "BUSTOS BARRIO, IKER": 22,
+    "ESPINACO PEREDA, ANDONI": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
