@@ -1,0 +1,251 @@
+{
+  "acta_id": "B_9982375",
+  "filename": "Acta_B_9982375.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "08-11-2025",
+  "hora": "15:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "BERMEO A",
+  "equipo_visitante": "ERMUA BLUES A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "HABBA AKADAR, BILAL"
+  ],
+  "estadio": "PENTA",
+  "ciudad": "Bermeo",
+  "goleadores": [
+    {
+      "minuto": 42,
+      "jugador": "ESPINOSA MAGUREGI, KIMETZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "ECHEVARRIA ARAUZ, ANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 30,
+      "jugador": "GOITIA GOIENETXEA, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "CID DELGADO, HODEI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "SOLOZABAL ARAUJO, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 83,
+      "jugador": "ALBERDI ETXABE, ANER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "OLAETA ALVAREZ, JAVIER MANUEL",
+  "entrenador_visitante": "BARQUERO SIERRA, JOSE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "COLINO HIDALGO, LUIS SANTIAGO",
+  "delegado_campo_local": "TAKOUISING, ALAIN BERTRAND",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SOTO ROJO, MITXELKO",
+  "delegado_equipo_visitante": "CID GONZALEZ, ABEL",
+  "titulares_local": [
+    "HERRAN AGUADO, ANDER",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "PARDO ZABALETA, AITOR",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "HULTOANA, SERGIU DUMITRU",
+    "PASCUAL CABALLERO, MIKEL",
+    "FERNANDEZ BILBAO, ANDER",
+    "ROZA TELLETXEA, IBON",
+    "GOITIA GOIENETXEA, ANDER",
+    "SOTO ARTETXE, EKAITZ",
+    "MIHAILA CALOTA, MIKEL"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ CORTIJO, ANER",
+    "GOMEZ BABARRO, JOEL",
+    "CID DELGADO, HODEI",
+    "SOLOZABAL ARAUJO, MARKEL",
+    "SELLAH KARALI, AYOUB",
+    "VILLAR GOMEZ, OINATZ",
+    "AKSSASS NACIRI, NAOFAL",
+    "AGHBALOU BENSLAIMAN, OMAR",
+    "ALVEAR CORDOBA, ESTEBAN",
+    "TREVIÑO VEGA, MIKEL",
+    "ALBERDI ETXABE, ANER"
+  ],
+  "suplentes_local": [
+    "LLANOS ANASAGASTI, ONAR",
+    "LAPAZA URIONDO, DANEL",
+    "LANDETA BATIS, ANER",
+    "ECHEVARRIA ARAUZ, ANDER"
+  ],
+  "suplentes_visitante": [
+    "PUGA DE LA TORRE, JOKIN",
+    "DE DIOS AGIRREGOMEZKORTA, KIMETZ",
+    "ORUETA GONZALEZ, MANEX",
+    "MANERO ZAFRA, DANEL",
+    "CARNERO VIEIRA, ALAIN",
+    "BEN DRISS OURDI, ANAS",
+    "KHOUKH EL AZZAB, HARON"
+  ],
+  "convocados_sin_jugar_local": [
+    "LLANOS ANASAGASTI, ONAR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PUGA DE LA TORRE, JOKIN",
+    "DE DIOS AGIRREGOMEZKORTA, KIMETZ",
+    "ORUETA GONZALEZ, MANEX",
+    "BEN DRISS OURDI, ANAS"
+  ],
+  "jugadores_local": [
+    "HERRAN AGUADO, ANDER",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "PARDO ZABALETA, AITOR",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "HULTOANA, SERGIU DUMITRU",
+    "PASCUAL CABALLERO, MIKEL",
+    "FERNANDEZ BILBAO, ANDER",
+    "ROZA TELLETXEA, IBON",
+    "GOITIA GOIENETXEA, ANDER",
+    "SOTO ARTETXE, EKAITZ",
+    "MIHAILA CALOTA, MIKEL",
+    "ECHEVARRIA ARAUZ, ANDER",
+    "LANDETA BATIS, ANER",
+    "LAPAZA URIONDO, DANEL"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ CORTIJO, ANER",
+    "GOMEZ BABARRO, JOEL",
+    "CID DELGADO, HODEI",
+    "SOLOZABAL ARAUJO, MARKEL",
+    "SELLAH KARALI, AYOUB",
+    "VILLAR GOMEZ, OINATZ",
+    "AKSSASS NACIRI, NAOFAL",
+    "AGHBALOU BENSLAIMAN, OMAR",
+    "ALVEAR CORDOBA, ESTEBAN",
+    "TREVIÑO VEGA, MIKEL",
+    "ALBERDI ETXABE, ANER",
+    "CARNERO VIEIRA, ALAIN",
+    "MANERO ZAFRA, DANEL",
+    "KHOUKH EL AZZAB, HARON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 21,
+      "entra": "ECHEVARRIA ARAUZ, ANDER",
+      "sale": "GOITIA GOIENETXEA, ANDER"
+    },
+    {
+      "min": 54,
+      "entra": "LANDETA BATIS, ANER",
+      "sale": "HULTOANA, SERGIU DUMITRU"
+    },
+    {
+      "min": 54,
+      "entra": "LAPAZA URIONDO, DANEL",
+      "sale": "SOTO ARTETXE, EKAITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 34,
+      "entra": "CARNERO VIEIRA, ALAIN",
+      "sale": "SELLAH KARALI, AYOUB"
+    },
+    {
+      "min": 45,
+      "entra": "MANERO ZAFRA, DANEL",
+      "sale": "AGHBALOU BENSLAIMAN, OMAR"
+    },
+    {
+      "min": 77,
+      "entra": "KHOUKH EL AZZAB, HARON",
+      "sale": "SOLOZABAL ARAUJO, MARKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "HERRAN AGUADO, ANDER": 90,
+    "ESPINOSA MAGUREGI, KIMETZ": 90,
+    "PARDO ZABALETA, AITOR": 90,
+    "EL ABDELLAOUI BOUGUA, ADAM": 90,
+    "HULTOANA, SERGIU DUMITRU": 54,
+    "PASCUAL CABALLERO, MIKEL": 90,
+    "FERNANDEZ BILBAO, ANDER": 90,
+    "ROZA TELLETXEA, IBON": 90,
+    "GOITIA GOIENETXEA, ANDER": 21,
+    "SOTO ARTETXE, EKAITZ": 54,
+    "MIHAILA CALOTA, MIKEL": 90,
+    "ECHEVARRIA ARAUZ, ANDER": 69,
+    "LANDETA BATIS, ANER": 36,
+    "LAPAZA URIONDO, DANEL": 36,
+    "FERNANDEZ CORTIJO, ANER": 90,
+    "GOMEZ BABARRO, JOEL": 90,
+    "CID DELGADO, HODEI": 90,
+    "SOLOZABAL ARAUJO, MARKEL": 77,
+    "SELLAH KARALI, AYOUB": 34,
+    "VILLAR GOMEZ, OINATZ": 90,
+    "AKSSASS NACIRI, NAOFAL": 90,
+    "AGHBALOU BENSLAIMAN, OMAR": 45,
+    "ALVEAR CORDOBA, ESTEBAN": 90,
+    "TREVIÑO VEGA, MIKEL": 90,
+    "ALBERDI ETXABE, ANER": 90,
+    "CARNERO VIEIRA, ALAIN": 56,
+    "MANERO ZAFRA, DANEL": 45,
+    "KHOUKH EL AZZAB, HARON": 13
+  },
+  "portero_local": "HERRAN AGUADO, ANDER",
+  "portero_visitante": "FERNANDEZ CORTIJO, ANER",
+  "dorsales_local": {
+    "HERRAN AGUADO, ANDER": 1,
+    "ESPINOSA MAGUREGI, KIMETZ": 3,
+    "PARDO ZABALETA, AITOR": 4,
+    "EL ABDELLAOUI BOUGUA, ADAM": 6,
+    "HULTOANA, SERGIU DUMITRU": 7,
+    "PASCUAL CABALLERO, MIKEL": 8,
+    "FERNANDEZ BILBAO, ANDER": 9,
+    "ROZA TELLETXEA, IBON": 15,
+    "GOITIA GOIENETXEA, ANDER": 19,
+    "SOTO ARTETXE, EKAITZ": 20,
+    "MIHAILA CALOTA, MIKEL": 23
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ CORTIJO, ANER": 1,
+    "GOMEZ BABARRO, JOEL": 2,
+    "CID DELGADO, HODEI": 3,
+    "SOLOZABAL ARAUJO, MARKEL": 4,
+    "SELLAH KARALI, AYOUB": 11,
+    "VILLAR GOMEZ, OINATZ": 12,
+    "AKSSASS NACIRI, NAOFAL": 15,
+    "AGHBALOU BENSLAIMAN, OMAR": 18,
+    "ALVEAR CORDOBA, ESTEBAN": 19,
+    "TREVIÑO VEGA, MIKEL": 22,
+    "ALBERDI ETXABE, ANER": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
