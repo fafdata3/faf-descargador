@@ -1,0 +1,286 @@
+{
+  "acta_id": "B_9982480",
+  "filename": "Acta_B_9982480.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 19,
+  "fecha": "15-02-2026",
+  "hora": "15:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "DERIO A",
+  "equipo_visitante": "BERMEO A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "TROCAOLA VILLATE, IGNACIO"
+  ],
+  "estadio": "IBAIONDO-DERIO",
+  "ciudad": "Derio",
+  "goleadores": [
+    {
+      "minuto": 41,
+      "jugador": "GOITIA GOIENETXEA, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 80,
+      "jugador": "SOTO ARTETXE, EKAITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "RAMOS ETXEBARRIA, TXABER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "DEL MORAL SALGUERO, NOAH",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "CHELIZ LANDA, JOSU",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "REMENTERIA SOLAUN, IGOTZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "UNGUREANU, RADU IONUT",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FERREIRO PELAYO, GALDER",
+  "entrenador_visitante": "OLAETA ALVAREZ, JAVIER MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "TRESPALACIOS JORGE, GONZALO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TRESPALACIOS JORGE, GONZALO",
+  "delegado_equipo_visitante": "TAKOUISING, ALAIN BERTRAND",
+  "titulares_local": [
+    "LEGORBURU DIEZ, ISKANDER",
+    "GUTIERREZ GORDON, GORKA",
+    "RAMOS ETXEBARRIA, TXABER",
+    "REMENTERIA SOLAUN, IGOTZ",
+    "ROZAS MINTEGUI, XABIER",
+    "BAUTISTA MENDEZ, OIER",
+    "CHELIZ LANDA, JOSU",
+    "RODRIGO ADAN, GALDER",
+    "CALLE DIAZ, IKER",
+    "COBAS BLANCO, ANER",
+    "SALOMON DE TORRE, SUHAR"
+  ],
+  "titulares_visitante": [
+    "HERRAN AGUADO, ANDER",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "PARDO ZABALETA, AITOR",
+    "LAPAZA URIONDO, DANEL",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "FERNANDEZ BILBAO, ANDER",
+    "LANDETA BATIS, ANER",
+    "OLIVEIRA GARCIA, PAUL",
+    "ROZA TELLETXEA, IBON",
+    "GOITIA GOIENETXEA, ANDER",
+    "ARROYO BILBAO, TXABER"
+  ],
+  "suplentes_local": [
+    "MAYAN RUIZ, JULEN IMANOL",
+    "ARRATE FLORES, ENEKO",
+    "ROJO HERREROS, EDER",
+    "DEL MORAL SALGUERO, NOAH",
+    "MARTIN BUENO, MARKEL",
+    "ARREBOLA BASCONES, IMANOL",
+    "GARCIA ASENSIO, LANDER"
+  ],
+  "suplentes_visitante": [
+    "SOTO URIARTE, KIMETZ",
+    "HULTOANA, SERGIU DUMITRU",
+    "ECHEVARRIA ARAUZ, ANDER",
+    "UNGUREANU, RADU IONUT",
+    "SOTO ARTETXE, EKAITZ",
+    "MIHAILA CALOTA, MIKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "MAYAN RUIZ, JULEN IMANOL",
+    "ARRATE FLORES, ENEKO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SOTO URIARTE, KIMETZ"
+  ],
+  "jugadores_local": [
+    "LEGORBURU DIEZ, ISKANDER",
+    "GUTIERREZ GORDON, GORKA",
+    "RAMOS ETXEBARRIA, TXABER",
+    "REMENTERIA SOLAUN, IGOTZ",
+    "ROZAS MINTEGUI, XABIER",
+    "BAUTISTA MENDEZ, OIER",
+    "CHELIZ LANDA, JOSU",
+    "RODRIGO ADAN, GALDER",
+    "CALLE DIAZ, IKER",
+    "COBAS BLANCO, ANER",
+    "SALOMON DE TORRE, SUHAR",
+    "ARREBOLA BASCONES, IMANOL",
+    "DEL MORAL SALGUERO, NOAH",
+    "MARTIN BUENO, MARKEL",
+    "ROJO HERREROS, EDER",
+    "GARCIA ASENSIO, LANDER"
+  ],
+  "jugadores_visitante": [
+    "HERRAN AGUADO, ANDER",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "PARDO ZABALETA, AITOR",
+    "LAPAZA URIONDO, DANEL",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "FERNANDEZ BILBAO, ANDER",
+    "LANDETA BATIS, ANER",
+    "OLIVEIRA GARCIA, PAUL",
+    "ROZA TELLETXEA, IBON",
+    "GOITIA GOIENETXEA, ANDER",
+    "ARROYO BILBAO, TXABER",
+    "MIHAILA CALOTA, MIKEL",
+    "HULTOANA, SERGIU DUMITRU",
+    "UNGUREANU, RADU IONUT",
+    "SOTO ARTETXE, EKAITZ",
+    "ECHEVARRIA ARAUZ, ANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 43,
+      "entra": "ARREBOLA BASCONES, IMANOL",
+      "sale": "GUTIERREZ GORDON, GORKA"
+    },
+    {
+      "min": 43,
+      "entra": "DEL MORAL SALGUERO, NOAH",
+      "sale": "RAMOS ETXEBARRIA, TXABER"
+    },
+    {
+      "min": 53,
+      "entra": "MARTIN BUENO, MARKEL",
+      "sale": "DEL MORAL SALGUERO, NOAH"
+    },
+    {
+      "min": 80,
+      "entra": "ROJO HERREROS, EDER",
+      "sale": "COBAS BLANCO, ANER"
+    },
+    {
+      "min": 80,
+      "entra": "GARCIA ASENSIO, LANDER",
+      "sale": "CHELIZ LANDA, JOSU"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "MIHAILA CALOTA, MIKEL",
+      "sale": "ARROYO BILBAO, TXABER"
+    },
+    {
+      "min": 41,
+      "entra": "HULTOANA, SERGIU DUMITRU",
+      "sale": "ROZA TELLETXEA, IBON"
+    },
+    {
+      "min": 57,
+      "entra": "UNGUREANU, RADU IONUT",
+      "sale": "GOITIA GOIENETXEA, ANDER"
+    },
+    {
+      "min": 62,
+      "entra": "SOTO ARTETXE, EKAITZ",
+      "sale": "OLIVEIRA GARCIA, PAUL"
+    },
+    {
+      "min": 62,
+      "entra": "ECHEVARRIA ARAUZ, ANDER",
+      "sale": "PARDO ZABALETA, AITOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "LEGORBURU DIEZ, ISKANDER": 90,
+    "GUTIERREZ GORDON, GORKA": 43,
+    "RAMOS ETXEBARRIA, TXABER": 43,
+    "REMENTERIA SOLAUN, IGOTZ": 90,
+    "ROZAS MINTEGUI, XABIER": 90,
+    "BAUTISTA MENDEZ, OIER": 90,
+    "CHELIZ LANDA, JOSU": 80,
+    "RODRIGO ADAN, GALDER": 90,
+    "CALLE DIAZ, IKER": 90,
+    "COBAS BLANCO, ANER": 80,
+    "SALOMON DE TORRE, SUHAR": 90,
+    "ARREBOLA BASCONES, IMANOL": 47,
+    "DEL MORAL SALGUERO, NOAH": 53,
+    "MARTIN BUENO, MARKEL": 37,
+    "ROJO HERREROS, EDER": 10,
+    "GARCIA ASENSIO, LANDER": 10,
+    "HERRAN AGUADO, ANDER": 90,
+    "ESPINOSA MAGUREGI, KIMETZ": 90,
+    "PARDO ZABALETA, AITOR": 62,
+    "LAPAZA URIONDO, DANEL": 90,
+    "EL ABDELLAOUI BOUGUA, ADAM": 90,
+    "FERNANDEZ BILBAO, ANDER": 90,
+    "LANDETA BATIS, ANER": 90,
+    "OLIVEIRA GARCIA, PAUL": 62,
+    "ROZA TELLETXEA, IBON": 41,
+    "GOITIA GOIENETXEA, ANDER": 57,
+    "ARROYO BILBAO, TXABER": 41,
+    "MIHAILA CALOTA, MIKEL": 49,
+    "HULTOANA, SERGIU DUMITRU": 49,
+    "UNGUREANU, RADU IONUT": 33,
+    "SOTO ARTETXE, EKAITZ": 28,
+    "ECHEVARRIA ARAUZ, ANDER": 28
+  },
+  "portero_local": "LEGORBURU DIEZ, ISKANDER",
+  "portero_visitante": "HERRAN AGUADO, ANDER",
+  "dorsales_local": {
+    "LEGORBURU DIEZ, ISKANDER": 23,
+    "GUTIERREZ GORDON, GORKA": 3,
+    "RAMOS ETXEBARRIA, TXABER": 4,
+    "REMENTERIA SOLAUN, IGOTZ": 6,
+    "ROZAS MINTEGUI, XABIER": 7,
+    "BAUTISTA MENDEZ, OIER": 8,
+    "CHELIZ LANDA, JOSU": 11,
+    "RODRIGO ADAN, GALDER": 12,
+    "CALLE DIAZ, IKER": 15,
+    "COBAS BLANCO, ANER": 21,
+    "SALOMON DE TORRE, SUHAR": 24
+  },
+  "dorsales_visitante": {
+    "HERRAN AGUADO, ANDER": 13,
+    "ESPINOSA MAGUREGI, KIMETZ": 3,
+    "PARDO ZABALETA, AITOR": 4,
+    "LAPAZA URIONDO, DANEL": 5,
+    "EL ABDELLAOUI BOUGUA, ADAM": 6,
+    "FERNANDEZ BILBAO, ANDER": 9,
+    "LANDETA BATIS, ANER": 10,
+    "OLIVEIRA GARCIA, PAUL": 11,
+    "ROZA TELLETXEA, IBON": 15,
+    "GOITIA GOIENETXEA, ANDER": 19,
+    "ARROYO BILBAO, TXABER": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
