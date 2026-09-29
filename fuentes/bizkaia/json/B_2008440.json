@@ -1,0 +1,254 @@
+{
+  "acta_id": "B_2008440",
+  "filename": "Acta_B_2008440.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 15,
+  "fecha": "19-01-2025",
+  "hora": "12:45",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ERMUA A",
+  "equipo_visitante": "LOYOLA INDAUCHU A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "MARTIN SAN SEBASTIAN, ALEXANDER"
+  ],
+  "estadio": "TEODORO ZUAZUA",
+  "ciudad": "Ermua",
+  "goleadores": [
+    {
+      "minuto": 55,
+      "jugador": "ALVAREZ ALVAREZ, ANER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "MARTIN HONRUBIA, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "CAMARERO CRESPO, ENEKO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CID RUIZ, JULEN",
+  "entrenador_visitante": "MIGOYA OLAORTUA, JUAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "POLO MARTIN, ENRIQUE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "POLO MARTIN, ENRIQUE",
+  "delegado_equipo_visitante": "CUESTA ALDAMIZ, IÑIGO",
+  "titulares_local": [
+    "GOMEZ MORENTE, NADIM",
+    "MARTINEZ ZUBIZARRETA, JON",
+    "LARRAÑAGA LOPEZ, BEÑAT",
+    "AFASSI EL HAKKOUNI, ADIL",
+    "CARRASCOSA ARRIAGA, MARTXEL",
+    "DOMINGO CARMONA, GARI",
+    "AHANNACH EL MESRI, GHASSAN",
+    "RODRIGUEZ PEREZ, MARTIN",
+    "ALVAREZ ALVAREZ, ANER",
+    "ARAIZTEGI BERRIOZABAL, XARLES",
+    "RODRIGUEZ SOLIZ, ARIEL"
+  ],
+  "titulares_visitante": [
+    "ROSALES MARTIN, MARCO",
+    "GORDOA ARCE, LANDER",
+    "PASCUAL ZABALA, IKER",
+    "MARTINEZ URIARTE, MARIO",
+    "URIARTE MARTINEZ, ENEKO",
+    "CANO MENA, HARITZ",
+    "CAMARERO CRESPO, ENEKO",
+    "SANCHEZ RODRIGUEZ, IKER",
+    "BERMEJO LARRONDO, JON",
+    "RUIZ BILBAO, JAVIER",
+    "MARDONES MILLARES, AIMAR"
+  ],
+  "suplentes_local": [
+    "LARREATEGUI SANTAMARIA, ANDER",
+    "LUQUE FERNANDEZ, ANDER",
+    "ACHAHBAR HADIR, AKRAM",
+    "MARTIN HONRUBIA, SERGIO",
+    "BOUTRASSEYT LAARIK, YOUSSEF",
+    "GUISASOLA FERNANDEZ, OIHAN",
+    "GRAJALES VELEZ, JEAN PIERRE"
+  ],
+  "suplentes_visitante": [
+    "SUSTACHA ITURRALDE, UNAI",
+    "NOVOA ALONSO, ENEKO",
+    "KIESE NDONZUAO, SCHADRAC",
+    "MARTIN ANTXIA, JON",
+    "COLL GONZALEZ, ANDONI"
+  ],
+  "convocados_sin_jugar_local": [
+    "LARREATEGUI SANTAMARIA, ANDER",
+    "LUQUE FERNANDEZ, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GOMEZ MORENTE, NADIM",
+    "MARTINEZ ZUBIZARRETA, JON",
+    "LARRAÑAGA LOPEZ, BEÑAT",
+    "AFASSI EL HAKKOUNI, ADIL",
+    "CARRASCOSA ARRIAGA, MARTXEL",
+    "DOMINGO CARMONA, GARI",
+    "AHANNACH EL MESRI, GHASSAN",
+    "RODRIGUEZ PEREZ, MARTIN",
+    "ALVAREZ ALVAREZ, ANER",
+    "ARAIZTEGI BERRIOZABAL, XARLES",
+    "RODRIGUEZ SOLIZ, ARIEL",
+    "MARTIN HONRUBIA, SERGIO",
+    "BOUTRASSEYT LAARIK, YOUSSEF",
+    "GRAJALES VELEZ, JEAN PIERRE",
+    "GUISASOLA FERNANDEZ, OIHAN",
+    "ACHAHBAR HADIR, AKRAM"
+  ],
+  "jugadores_visitante": [
+    "ROSALES MARTIN, MARCO",
+    "GORDOA ARCE, LANDER",
+    "PASCUAL ZABALA, IKER",
+    "MARTINEZ URIARTE, MARIO",
+    "URIARTE MARTINEZ, ENEKO",
+    "CANO MENA, HARITZ",
+    "CAMARERO CRESPO, ENEKO",
+    "SANCHEZ RODRIGUEZ, IKER",
+    "BERMEJO LARRONDO, JON",
+    "RUIZ BILBAO, JAVIER",
+    "MARDONES MILLARES, AIMAR",
+    "COLL GONZALEZ, ANDONI",
+    "SUSTACHA ITURRALDE, UNAI",
+    "MARTIN ANTXIA, JON",
+    "NOVOA ALONSO, ENEKO",
+    "KIESE NDONZUAO, SCHADRAC"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "MARTIN HONRUBIA, SERGIO",
+      "sale": "AFASSI EL HAKKOUNI, ADIL"
+    },
+    {
+      "min": 57,
+      "entra": "BOUTRASSEYT LAARIK, YOUSSEF",
+      "sale": "MARTINEZ ZUBIZARRETA, JON"
+    },
+    {
+      "min": 67,
+      "entra": "GRAJALES VELEZ, JEAN PIERRE",
+      "sale": "RODRIGUEZ PEREZ, MARTIN"
+    },
+    {
+      "min": 67,
+      "entra": "GUISASOLA FERNANDEZ, OIHAN",
+      "sale": "ARAIZTEGI BERRIOZABAL, XARLES"
+    },
+    {
+      "min": 75,
+      "entra": "ACHAHBAR HADIR, AKRAM",
+      "sale": "CARRASCOSA ARRIAGA, MARTXEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "COLL GONZALEZ, ANDONI",
+      "sale": "GORDOA ARCE, LANDER"
+    },
+    {
+      "min": 61,
+      "entra": "SUSTACHA ITURRALDE, UNAI",
+      "sale": "CANO MENA, HARITZ"
+    },
+    {
+      "min": 61,
+      "entra": "MARTIN ANTXIA, JON",
+      "sale": "RUIZ BILBAO, JAVIER"
+    },
+    {
+      "min": 70,
+      "entra": "NOVOA ALONSO, ENEKO",
+      "sale": "MARTINEZ URIARTE, MARIO"
+    },
+    {
+      "min": 70,
+      "entra": "KIESE NDONZUAO, SCHADRAC",
+      "sale": "URIARTE MARTINEZ, ENEKO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ MORENTE, NADIM": 90,
+    "MARTINEZ ZUBIZARRETA, JON": 57,
+    "LARRAÑAGA LOPEZ, BEÑAT": 90,
+    "AFASSI EL HAKKOUNI, ADIL": 57,
+    "CARRASCOSA ARRIAGA, MARTXEL": 75,
+    "DOMINGO CARMONA, GARI": 90,
+    "AHANNACH EL MESRI, GHASSAN": 90,
+    "RODRIGUEZ PEREZ, MARTIN": 67,
+    "ALVAREZ ALVAREZ, ANER": 90,
+    "ARAIZTEGI BERRIOZABAL, XARLES": 67,
+    "RODRIGUEZ SOLIZ, ARIEL": 90,
+    "MARTIN HONRUBIA, SERGIO": 33,
+    "BOUTRASSEYT LAARIK, YOUSSEF": 33,
+    "GRAJALES VELEZ, JEAN PIERRE": 23,
+    "GUISASOLA FERNANDEZ, OIHAN": 23,
+    "ACHAHBAR HADIR, AKRAM": 15,
+    "ROSALES MARTIN, MARCO": 90,
+    "GORDOA ARCE, LANDER": 40,
+    "PASCUAL ZABALA, IKER": 90,
+    "MARTINEZ URIARTE, MARIO": 70,
+    "URIARTE MARTINEZ, ENEKO": 70,
+    "CANO MENA, HARITZ": 61,
+    "CAMARERO CRESPO, ENEKO": 90,
+    "SANCHEZ RODRIGUEZ, IKER": 90,
+    "BERMEJO LARRONDO, JON": 90,
+    "RUIZ BILBAO, JAVIER": 61,
+    "MARDONES MILLARES, AIMAR": 90,
+    "COLL GONZALEZ, ANDONI": 50,
+    "SUSTACHA ITURRALDE, UNAI": 29,
+    "MARTIN ANTXIA, JON": 29,
+    "NOVOA ALONSO, ENEKO": 20,
+    "KIESE NDONZUAO, SCHADRAC": 20
+  },
+  "portero_local": "GOMEZ MORENTE, NADIM",
+  "portero_visitante": "ROSALES MARTIN, MARCO",
+  "dorsales_local": {
+    "GOMEZ MORENTE, NADIM": 13,
+    "MARTINEZ ZUBIZARRETA, JON": 2,
+    "LARRAÑAGA LOPEZ, BEÑAT": 3,
+    "AFASSI EL HAKKOUNI, ADIL": 4,
+    "CARRASCOSA ARRIAGA, MARTXEL": 6,
+    "DOMINGO CARMONA, GARI": 11,
+    "AHANNACH EL MESRI, GHASSAN": 16,
+    "RODRIGUEZ PEREZ, MARTIN": 17,
+    "ALVAREZ ALVAREZ, ANER": 18,
+    "ARAIZTEGI BERRIOZABAL, XARLES": 21,
+    "RODRIGUEZ SOLIZ, ARIEL": 24
+  },
+  "dorsales_visitante": {
+    "ROSALES MARTIN, MARCO": 1,
+    "GORDOA ARCE, LANDER": 4,
+    "PASCUAL ZABALA, IKER": 5,
+    "MARTINEZ URIARTE, MARIO": 6,
+    "URIARTE MARTINEZ, ENEKO": 7,
+    "CANO MENA, HARITZ": 8,
+    "CAMARERO CRESPO, ENEKO": 9,
+    "SANCHEZ RODRIGUEZ, IKER": 11,
+    "BERMEJO LARRONDO, JON": 14,
+    "RUIZ BILBAO, JAVIER": 19,
+    "MARDONES MILLARES, AIMAR": 23
+  },
+  "suspendidos": []
+}
