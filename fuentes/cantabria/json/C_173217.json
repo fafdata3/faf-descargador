@@ -1,0 +1,269 @@
+{
+  "acta_id": "C_173217",
+  "filename": "Acta_C_173217.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 9,
+  "fecha": "19-11-2023",
+  "hora": "10:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "AYRON CLUB A",
+  "equipo_visitante": "C.D.E. AGORA F.C. A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "HERRERA NORIEGA, IVÁN"
+  ],
+  "estadio": "Vargas",
+  "ciudad": "Puente Viesgo",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "SAUTO ROMA, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "ALVAREZ DIEGO, GABRIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "RUIZ CRESPO, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 54,
+      "jugador": "GALLO VERGARA, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "LLANO CARRAL, MARCO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 24,
+      "jugador": "DE PRADO MARTINEZ, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "SAUTO ROMA, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ACEBO BUSTILLO, FRANCISCO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "GOMEZ DIAZ, VENTURA",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "PASTOR SALAS, SERGIO",
+  "titulares_local": [
+    "GOMEZ NIETO, JESÚS",
+    "PEREA ABAD, AITOR",
+    "ALVAREZ SAN EMETERIO, ERIK",
+    "PARDO GOMEZ, LUIS",
+    "GALLO VERGARA, PABLO",
+    "MARTIN BARQUIN, LEO",
+    "LIAÑO MANTECÓN, HUGO",
+    "RUIZ CRESPO, NICOLAS",
+    "BUENAGA GONZÁLEZ, IZAN",
+    "ALVAREZ DIEGO, GABRIEL",
+    "BALDOR MARTINEZ, NOE"
+  ],
+  "titulares_visitante": [
+    "ORTIZ DEL RIO, MARKEL",
+    "ALVAREZ DURAN, SAMUEL",
+    "VELEZ MONTES, LUIS",
+    "SAUTO ROMA, HUGO",
+    "ESPINOSA SOBRINO, ALEJANDRO",
+    "RODRIGUEZ GARATE, EGOITZ",
+    "DE PRADO MARTINEZ, IKER",
+    "RANERO GARCIA, MARCO",
+    "DIAZ ALONSO, GORKA",
+    "GARCIA ZUBIAUR, NICOLAS",
+    "AGUDO GARCIA, ASIER"
+  ],
+  "suplentes_local": [
+    "RUIZ CRESPO, HUGO",
+    "CALANTE CABRILLO, ADRIÁN",
+    "LLANO CARRAL, MARCO",
+    "GOMEZ OBESO, PABLO",
+    "BURDIE FERNANDEZ, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "SARDON HERRERO, MIKEL",
+    "MARTIN PETRUS, DANIEL",
+    "MARTINEZ IZQUIERDO, RODRIGO",
+    "CANO MELENDEZ, HUGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GOMEZ NIETO, JESÚS",
+    "PEREA ABAD, AITOR",
+    "ALVAREZ SAN EMETERIO, ERIK",
+    "PARDO GOMEZ, LUIS",
+    "GALLO VERGARA, PABLO",
+    "MARTIN BARQUIN, LEO",
+    "LIAÑO MANTECÓN, HUGO",
+    "RUIZ CRESPO, NICOLAS",
+    "BUENAGA GONZÁLEZ, IZAN",
+    "ALVAREZ DIEGO, GABRIEL",
+    "BALDOR MARTINEZ, NOE",
+    "CALANTE CABRILLO, ADRIÁN",
+    "RUIZ CRESPO, HUGO",
+    "GOMEZ OBESO, PABLO",
+    "BURDIE FERNANDEZ, DIEGO",
+    "LLANO CARRAL, MARCO"
+  ],
+  "jugadores_visitante": [
+    "ORTIZ DEL RIO, MARKEL",
+    "ALVAREZ DURAN, SAMUEL",
+    "VELEZ MONTES, LUIS",
+    "SAUTO ROMA, HUGO",
+    "ESPINOSA SOBRINO, ALEJANDRO",
+    "RODRIGUEZ GARATE, EGOITZ",
+    "DE PRADO MARTINEZ, IKER",
+    "RANERO GARCIA, MARCO",
+    "DIAZ ALONSO, GORKA",
+    "GARCIA ZUBIAUR, NICOLAS",
+    "AGUDO GARCIA, ASIER",
+    "SARDON HERRERO, MIKEL",
+    "MARTINEZ IZQUIERDO, RODRIGO",
+    "MARTIN PETRUS, DANIEL",
+    "CANO MELENDEZ, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "CALANTE CABRILLO, ADRIÁN",
+      "sale": "ALVAREZ SAN EMETERIO, ERIK"
+    },
+    {
+      "min": 49,
+      "entra": "RUIZ CRESPO, HUGO",
+      "sale": "MARTIN BARQUIN, LEO"
+    },
+    {
+      "min": 55,
+      "entra": "GOMEZ OBESO, PABLO",
+      "sale": "BALDOR MARTINEZ, NOE"
+    },
+    {
+      "min": 56,
+      "entra": "BURDIE FERNANDEZ, DIEGO",
+      "sale": "LIAÑO MANTECÓN, HUGO"
+    },
+    {
+      "min": 64,
+      "entra": "LLANO CARRAL, MARCO",
+      "sale": "RUIZ CRESPO, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "SARDON HERRERO, MIKEL",
+      "sale": "RODRIGUEZ GARATE, EGOITZ"
+    },
+    {
+      "min": 49,
+      "entra": "MARTINEZ IZQUIERDO, RODRIGO",
+      "sale": "VELEZ MONTES, LUIS"
+    },
+    {
+      "min": 61,
+      "entra": "MARTIN PETRUS, DANIEL",
+      "sale": "SAUTO ROMA, HUGO"
+    },
+    {
+      "min": 62,
+      "entra": "CANO MELENDEZ, HUGO",
+      "sale": "GARCIA ZUBIAUR, NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ NIETO, JESÚS": 90,
+    "PEREA ABAD, AITOR": 90,
+    "ALVAREZ SAN EMETERIO, ERIK": 44,
+    "PARDO GOMEZ, LUIS": 90,
+    "GALLO VERGARA, PABLO": 90,
+    "MARTIN BARQUIN, LEO": 49,
+    "LIAÑO MANTECÓN, HUGO": 56,
+    "RUIZ CRESPO, NICOLAS": 64,
+    "BUENAGA GONZÁLEZ, IZAN": 90,
+    "ALVAREZ DIEGO, GABRIEL": 90,
+    "BALDOR MARTINEZ, NOE": 55,
+    "CALANTE CABRILLO, ADRIÁN": 46,
+    "RUIZ CRESPO, HUGO": 41,
+    "GOMEZ OBESO, PABLO": 35,
+    "BURDIE FERNANDEZ, DIEGO": 34,
+    "LLANO CARRAL, MARCO": 26,
+    "ORTIZ DEL RIO, MARKEL": 90,
+    "ALVAREZ DURAN, SAMUEL": 90,
+    "VELEZ MONTES, LUIS": 49,
+    "SAUTO ROMA, HUGO": 61,
+    "ESPINOSA SOBRINO, ALEJANDRO": 90,
+    "RODRIGUEZ GARATE, EGOITZ": 49,
+    "DE PRADO MARTINEZ, IKER": 90,
+    "RANERO GARCIA, MARCO": 90,
+    "DIAZ ALONSO, GORKA": 90,
+    "GARCIA ZUBIAUR, NICOLAS": 62,
+    "AGUDO GARCIA, ASIER": 90,
+    "SARDON HERRERO, MIKEL": 41,
+    "MARTINEZ IZQUIERDO, RODRIGO": 41,
+    "MARTIN PETRUS, DANIEL": 29,
+    "CANO MELENDEZ, HUGO": 28
+  },
+  "portero_local": "GOMEZ NIETO, JESÚS",
+  "portero_visitante": "ORTIZ DEL RIO, MARKEL",
+  "dorsales_local": {
+    "GOMEZ NIETO, JESÚS": 1,
+    "PEREA ABAD, AITOR": 2,
+    "ALVAREZ SAN EMETERIO, ERIK": 3,
+    "PARDO GOMEZ, LUIS": 4,
+    "GALLO VERGARA, PABLO": 5,
+    "MARTIN BARQUIN, LEO": 6,
+    "LIAÑO MANTECÓN, HUGO": 7,
+    "RUIZ CRESPO, NICOLAS": 8,
+    "BUENAGA GONZÁLEZ, IZAN": 9,
+    "ALVAREZ DIEGO, GABRIEL": 14,
+    "BALDOR MARTINEZ, NOE": 17
+  },
+  "dorsales_visitante": {
+    "ORTIZ DEL RIO, MARKEL": 1,
+    "ALVAREZ DURAN, SAMUEL": 5,
+    "VELEZ MONTES, LUIS": 7,
+    "SAUTO ROMA, HUGO": 9,
+    "ESPINOSA SOBRINO, ALEJANDRO": 10,
+    "RODRIGUEZ GARATE, EGOITZ": 11,
+    "DE PRADO MARTINEZ, IKER": 15,
+    "RANERO GARCIA, MARCO": 16,
+    "DIAZ ALONSO, GORKA": 18,
+    "GARCIA ZUBIAUR, NICOLAS": 21,
+    "AGUDO GARCIA, ASIER": 31
+  },
+  "suspendidos": []
+}
