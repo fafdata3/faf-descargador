@@ -1,0 +1,259 @@
+{
+  "acta_id": "C_192774",
+  "filename": "Acta_C_192774.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "12-10-2024",
+  "hora": "19:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "VELARDE C.F. A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MARTINEZ GONZALEZ, GUILLERMO"
+  ],
+  "estadio": "Muriedas 2",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 39,
+      "jugador": "MARTINEZ BUSTAMANTE, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "GONZALEZ RODRIGUEZ, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "DEL RIO PRIETO, JUAN VICENTE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "DEL RIO PRIETO, JUAN VICENTE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "MARTINEZ BUSTAMANTE, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "ALONSO ALONSO, HECTOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VALLE TRUEBA, JAVIER",
+  "delegado_equipo_visitante": "SAMPERIO GUTIERREZ, ALEJANDRO",
+  "titulares_local": [
+    "ARCE CAMPO, LUCAS",
+    "GARCIA AMIGO, HUGO",
+    "ANDRES MENA, MARCOS",
+    "RAMIREZ VALLE, JAVIER",
+    "CASUSO IGLESIAS, IAGO",
+    "maillo haya, PABLO",
+    "DIEZ HERMOSA, SAUL",
+    "ALAMO DIAZ, DIEGO",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "ALONSO GARCIA, DANIEL",
+    "CHANCA PACHECO, IKER"
+  ],
+  "titulares_visitante": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "VARON SANCHEZ, CESAR",
+    "GALLO VERGARA, PABLO",
+    "Garcia Roiz, Dario",
+    "GONZALEZ RODRIGUEZ, DAVID",
+    "BARBA AGENJO, ADRIAN",
+    "EXPOSITO MARTIN, PABLO",
+    "QUINTANA CALDERON, MARCOS",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN",
+    "FERNANDEZ MARTIN, DIEGO"
+  ],
+  "suplentes_local": [
+    "MARTINEZ MARTINEZ, FRANCISCO",
+    "CANTERO HERMOSA, SAUL",
+    "CANCELA SUAREZ, OLIVER",
+    "TABERNILLA GÓMEZ, GABRIEL",
+    "BOLADO PALACIO, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+    "YELA GONZALEZ, MAURICIO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GONZALEZ CELIS, MARCO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "FERNANDEZ SAÑUDO, GERMAN"
+  ],
+  "jugadores_local": [
+    "ARCE CAMPO, LUCAS",
+    "GARCIA AMIGO, HUGO",
+    "ANDRES MENA, MARCOS",
+    "RAMIREZ VALLE, JAVIER",
+    "CASUSO IGLESIAS, IAGO",
+    "maillo haya, PABLO",
+    "DIEZ HERMOSA, SAUL",
+    "ALAMO DIAZ, DIEGO",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "ALONSO GARCIA, DANIEL",
+    "CHANCA PACHECO, IKER",
+    "CANCELA SUAREZ, OLIVER",
+    "MARTINEZ MARTINEZ, FRANCISCO",
+    "TABERNILLA GÓMEZ, GABRIEL",
+    "BOLADO PALACIO, ALVARO",
+    "CANTERO HERMOSA, SAUL"
+  ],
+  "jugadores_visitante": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "VARON SANCHEZ, CESAR",
+    "GALLO VERGARA, PABLO",
+    "Garcia Roiz, Dario",
+    "GONZALEZ RODRIGUEZ, DAVID",
+    "BARBA AGENJO, ADRIAN",
+    "EXPOSITO MARTIN, PABLO",
+    "QUINTANA CALDERON, MARCOS",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN",
+    "FERNANDEZ MARTIN, DIEGO",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GONZALEZ CELIS, MARCO",
+    "YELA GONZALEZ, MAURICIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "CANCELA SUAREZ, OLIVER",
+      "sale": "CHANCA PACHECO, IKER"
+    },
+    {
+      "min": 50,
+      "entra": "MARTINEZ MARTINEZ, FRANCISCO",
+      "sale": "ALAMO DIAZ, DIEGO"
+    },
+    {
+      "min": 55,
+      "entra": "TABERNILLA GÓMEZ, GABRIEL",
+      "sale": "ALONSO GARCIA, DANIEL"
+    },
+    {
+      "min": 55,
+      "entra": "BOLADO PALACIO, ALVARO",
+      "sale": "DIEZ HERMOSA, SAUL"
+    },
+    {
+      "min": 58,
+      "entra": "CANTERO HERMOSA, SAUL",
+      "sale": "CASUSO IGLESIAS, IAGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+      "sale": "FERNANDEZ MARTIN, DIEGO"
+    },
+    {
+      "min": 51,
+      "entra": "DEL RIO PRIETO, JUAN VICENTE",
+      "sale": "Garcia Roiz, Dario"
+    },
+    {
+      "min": 60,
+      "entra": "GONZALEZ CELIS, MARCO",
+      "sale": "GONZALEZ RODRIGUEZ, DAVID"
+    },
+    {
+      "min": 60,
+      "entra": "YELA GONZALEZ, MAURICIO",
+      "sale": "EXPOSITO MARTIN, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARCE CAMPO, LUCAS": 90,
+    "GARCIA AMIGO, HUGO": 90,
+    "ANDRES MENA, MARCOS": 90,
+    "RAMIREZ VALLE, JAVIER": 90,
+    "CASUSO IGLESIAS, IAGO": 58,
+    "maillo haya, PABLO": 90,
+    "DIEZ HERMOSA, SAUL": 55,
+    "ALAMO DIAZ, DIEGO": 50,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 90,
+    "ALONSO GARCIA, DANIEL": 55,
+    "CHANCA PACHECO, IKER": 41,
+    "CANCELA SUAREZ, OLIVER": 49,
+    "MARTINEZ MARTINEZ, FRANCISCO": 40,
+    "TABERNILLA GÓMEZ, GABRIEL": 35,
+    "BOLADO PALACIO, ALVARO": 35,
+    "CANTERO HERMOSA, SAUL": 32,
+    "GONZÁLEZ TRESGALLO, ARMANDO": 90,
+    "VARON SANCHEZ, CESAR": 90,
+    "GALLO VERGARA, PABLO": 90,
+    "Garcia Roiz, Dario": 51,
+    "GONZALEZ RODRIGUEZ, DAVID": 60,
+    "BARBA AGENJO, ADRIAN": 90,
+    "EXPOSITO MARTIN, PABLO": 60,
+    "QUINTANA CALDERON, MARCOS": 90,
+    "MARTINEZ BUSTAMANTE, HUGO": 90,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 90,
+    "FERNANDEZ MARTIN, DIEGO": 50,
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO": 40,
+    "DEL RIO PRIETO, JUAN VICENTE": 39,
+    "GONZALEZ CELIS, MARCO": 30,
+    "YELA GONZALEZ, MAURICIO": 30
+  },
+  "portero_local": "ARCE CAMPO, LUCAS",
+  "portero_visitante": "GONZÁLEZ TRESGALLO, ARMANDO",
+  "dorsales_local": {
+    "ARCE CAMPO, LUCAS": 1,
+    "GARCIA AMIGO, HUGO": 2,
+    "ANDRES MENA, MARCOS": 5,
+    "RAMIREZ VALLE, JAVIER": 6,
+    "CASUSO IGLESIAS, IAGO": 8,
+    "maillo haya, PABLO": 9,
+    "DIEZ HERMOSA, SAUL": 11,
+    "ALAMO DIAZ, DIEGO": 12,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 14,
+    "ALONSO GARCIA, DANIEL": 16,
+    "CHANCA PACHECO, IKER": 20
+  },
+  "dorsales_visitante": {
+    "GONZÁLEZ TRESGALLO, ARMANDO": 13,
+    "VARON SANCHEZ, CESAR": 4,
+    "GALLO VERGARA, PABLO": 5,
+    "Garcia Roiz, Dario": 7,
+    "GONZALEZ RODRIGUEZ, DAVID": 9,
+    "BARBA AGENJO, ADRIAN": 10,
+    "EXPOSITO MARTIN, PABLO": 11,
+    "QUINTANA CALDERON, MARCOS": 12,
+    "MARTINEZ BUSTAMANTE, HUGO": 16,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 21,
+    "FERNANDEZ MARTIN, DIEGO": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
