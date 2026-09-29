@@ -1,0 +1,219 @@
+{
+  "acta_id": "C_193307",
+  "filename": "Acta_C_193307.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 31,
+  "fecha": "03-05-2025",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT B",
+  "equipo_visitante": "C.D. ARENAS DE FRAJANAS A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GRANDE FERNANDEZ, MIGUEL"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 65,
+      "jugador": "DIAZ SANCHEZ, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 3,
+      "jugador": "belver duran, ivan",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FLOR RODRIGUEZ, ALFONSO JOSE",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "POO CELIS, LUIS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "POO CELIS, LUIS",
+  "delegado_equipo_visitante": "DE JUANA RODRIGUEZ, BORJA",
+  "titulares_local": [
+    "SAUQUILLO ALONSO, MARCO",
+    "NGOUNOU NCHAMA, NEREO STEVE",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "DASILVA PEREIRA, EDUARDO",
+    "JURNA ANERO, EDUARDO",
+    "CARRERA GUTIERREZ, RODRIGO",
+    "PORRAS CADELO, MATEO",
+    "ALONSO CRUZ, DIEGO",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "GUTIERREZ ABASCAL, MARCOS",
+    "GARCIA MORENO, MARIO"
+  ],
+  "titulares_visitante": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "YEDRA MARTIN, NICOLAS",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "QUIJANO SOTO, PABLO",
+    "belver duran, ivan"
+  ],
+  "suplentes_local": [
+    "FLOR MARTINEZ, OIER",
+    "ORTIZ FILGUEIRAS, JAVIER",
+    "BARCENA VILLA, JOEL"
+  ],
+  "suplentes_visitante": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "LOMAS AYUSO, GERARDO",
+    "MARTIN SECO, BRUNO",
+    "DE LA IGLESIA SALVADOR, RODRIGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SAUQUILLO ALONSO, MARCO",
+    "NGOUNOU NCHAMA, NEREO STEVE",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "DASILVA PEREIRA, EDUARDO",
+    "JURNA ANERO, EDUARDO",
+    "CARRERA GUTIERREZ, RODRIGO",
+    "PORRAS CADELO, MATEO",
+    "ALONSO CRUZ, DIEGO",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "GUTIERREZ ABASCAL, MARCOS",
+    "GARCIA MORENO, MARIO",
+    "FLOR MARTINEZ, OIER",
+    "BARCENA VILLA, JOEL",
+    "ORTIZ FILGUEIRAS, JAVIER"
+  ],
+  "jugadores_visitante": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "YEDRA MARTIN, NICOLAS",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "QUIJANO SOTO, PABLO",
+    "belver duran, ivan",
+    "MARTIN SECO, BRUNO",
+    "HERRERO VILLALOBOS, MARCOS",
+    "LOMAS AYUSO, GERARDO",
+    "DE LA IGLESIA SALVADOR, RODRIGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "FLOR MARTINEZ, OIER",
+      "sale": "SAUQUILLO ALONSO, MARCO"
+    },
+    {
+      "min": 48,
+      "entra": "BARCENA VILLA, JOEL",
+      "sale": "ALONSO CRUZ, DIEGO"
+    },
+    {
+      "min": 62,
+      "entra": "ORTIZ FILGUEIRAS, JAVIER",
+      "sale": "NAVARRO FERNANDEZ, ALEJANDRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 22,
+      "entra": "MARTIN SECO, BRUNO",
+      "sale": "ALONSO GONZALEZ, FERNANDO"
+    },
+    {
+      "min": 40,
+      "entra": "HERRERO VILLALOBOS, MARCOS",
+      "sale": "JIMENEZ LASTRA, MIGUEL"
+    },
+    {
+      "min": 48,
+      "entra": "LOMAS AYUSO, GERARDO",
+      "sale": "YEDRA MARTIN, NICOLAS"
+    },
+    {
+      "min": 59,
+      "entra": "DE LA IGLESIA SALVADOR, RODRIGO",
+      "sale": "belver duran, ivan"
+    }
+  ],
+  "minutos_jugadores": {
+    "SAUQUILLO ALONSO, MARCO": 40,
+    "NGOUNOU NCHAMA, NEREO STEVE": 90,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 90,
+    "DASILVA PEREIRA, EDUARDO": 90,
+    "JURNA ANERO, EDUARDO": 90,
+    "CARRERA GUTIERREZ, RODRIGO": 90,
+    "PORRAS CADELO, MATEO": 90,
+    "ALONSO CRUZ, DIEGO": 48,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 62,
+    "GUTIERREZ ABASCAL, MARCOS": 90,
+    "GARCIA MORENO, MARIO": 90,
+    "FLOR MARTINEZ, OIER": 50,
+    "BARCENA VILLA, JOEL": 42,
+    "ORTIZ FILGUEIRAS, JAVIER": 28,
+    "JIMENEZ LASTRA, MIGUEL": 40,
+    "YEDRA MARTIN, NICOLAS": 48,
+    "BRAVO HERRERO, MARIO": 90,
+    "ALONSO GONZALEZ, FERNANDO": 22,
+    "VICENTE LOPEZ, IVAN": 90,
+    "TORIBIO ARCE, EDUARDO": 90,
+    "FUERTES LOPEZ, ANGEL": 90,
+    "MATE GARCIA, ALVARO": 90,
+    "DIAZ SANCHEZ, IZAN": 90,
+    "QUIJANO SOTO, PABLO": 90,
+    "belver duran, ivan": 59,
+    "MARTIN SECO, BRUNO": 68,
+    "HERRERO VILLALOBOS, MARCOS": 50,
+    "LOMAS AYUSO, GERARDO": 42,
+    "DE LA IGLESIA SALVADOR, RODRIGO": 31
+  },
+  "portero_local": "SAUQUILLO ALONSO, MARCO",
+  "portero_visitante": "JIMENEZ LASTRA, MIGUEL",
+  "dorsales_local": {
+    "SAUQUILLO ALONSO, MARCO": 1,
+    "NGOUNOU NCHAMA, NEREO STEVE": 2,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 4,
+    "DASILVA PEREIRA, EDUARDO": 5,
+    "JURNA ANERO, EDUARDO": 6,
+    "CARRERA GUTIERREZ, RODRIGO": 7,
+    "PORRAS CADELO, MATEO": 8,
+    "ALONSO CRUZ, DIEGO": 9,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 10,
+    "GUTIERREZ ABASCAL, MARCOS": 12,
+    "GARCIA MORENO, MARIO": 18
+  },
+  "dorsales_visitante": {
+    "JIMENEZ LASTRA, MIGUEL": 13,
+    "YEDRA MARTIN, NICOLAS": 2,
+    "BRAVO HERRERO, MARIO": 3,
+    "ALONSO GONZALEZ, FERNANDO": 4,
+    "VICENTE LOPEZ, IVAN": 5,
+    "TORIBIO ARCE, EDUARDO": 6,
+    "FUERTES LOPEZ, ANGEL": 9,
+    "MATE GARCIA, ALVARO": 10,
+    "DIAZ SANCHEZ, IZAN": 11,
+    "QUIJANO SOTO, PABLO": 14,
+    "belver duran, ivan": 15
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
