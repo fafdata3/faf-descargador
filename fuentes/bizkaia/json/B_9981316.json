@@ -1,0 +1,294 @@
+{
+  "acta_id": "B_9981316",
+  "filename": "Acta_B_9981316.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "08-02-2026",
+  "hora": "09:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "PORTUGALETE B",
+  "equipo_visitante": "BARAKALDO B",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "PINTOR SANCHEZ, DAVID"
+  ],
+  "estadio": "LOS LLANOS",
+  "ciudad": "Portugalete",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "MAQUEDA HERNANDEZ, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "LORENZO GARCIA, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "ESCAPA PEREZ, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 79,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "RODRIGUEZ VALDERAS, MIKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "DORIN, ROMICA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "ESCAPA PEREZ, MARCO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "MAQUEDA HERNANDEZ, IZAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DORIN, ROMICA",
+  "entrenador_visitante": "SANCHEZ GUTIERREZ, JOSE MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "DUEÑAS GARCÍA , XABIER",
+  "titulares_local": [
+    "LOPEZ SANCHEZ, MARKEL",
+    "GALAN MAZAS, IMANOL",
+    "BLASCO MUÑOZ, ASIER",
+    "ESCAPA PEREZ, MARCO",
+    "RODRIGUEZ VALDERAS, MIKEL",
+    "VARGAS CARRIL, ADRIAN",
+    "LÓPEZ DEL VAL, ROBERTO",
+    "LAZCANO GALLEGO, ALVARO",
+    "MOREIRO FERNÁNDEZ, AIMAR",
+    "MESA LOPEZ, HUGO",
+    "LORENZO GARCIA, JON"
+  ],
+  "titulares_visitante": [
+    "MARTIN MARTIN, AIMAR",
+    "LORENZO OTERO, ERIK",
+    "ROMERA OLIVENZA, JULEN",
+    "HERRERA IGLESIAS, AGER",
+    "MONTERO SARMIENTO, MIKEL ALEXANDER",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "CORMAN LOPEZ, UNAI",
+    "MERELES GONZALEZ, MAXWELL MANUEL",
+    "PALIN DE JESUS, BRAWNY YANIEL",
+    "ATXURRA MONTES, MARKEL",
+    "PIÑOL CONDE, ANDONI"
+  ],
+  "suplentes_local": [
+    "CHAMORRO PEREIRA, GERARD",
+    "RUIZ MARCANO, LIER",
+    "ORTIZ NEGRO, ANDER",
+    "PUENTE GONZALEZ, IKER",
+    "RIVERA OVALLE, THOMAS ALEJANDRO"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ MARTINEZ, AMETS",
+    "BALANDIN POUSADAS, IBAI",
+    "EBENYE EMEDI, ANGEL YVES",
+    "AXPE GONZALEZ, ENEKO",
+    "VILLARIAS BRIÑAS, ALEXANDER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "EBENYE EMEDI, ANGEL YVES"
+  ],
+  "jugadores_local": [
+    "LOPEZ SANCHEZ, MARKEL",
+    "GALAN MAZAS, IMANOL",
+    "BLASCO MUÑOZ, ASIER",
+    "ESCAPA PEREZ, MARCO",
+    "RODRIGUEZ VALDERAS, MIKEL",
+    "VARGAS CARRIL, ADRIAN",
+    "LÓPEZ DEL VAL, ROBERTO",
+    "LAZCANO GALLEGO, ALVARO",
+    "MOREIRO FERNÁNDEZ, AIMAR",
+    "MESA LOPEZ, HUGO",
+    "LORENZO GARCIA, JON",
+    "PUENTE GONZALEZ, IKER",
+    "CHAMORRO PEREIRA, GERARD",
+    "ORTIZ NEGRO, ANDER",
+    "RUIZ MARCANO, LIER",
+    "RIVERA OVALLE, THOMAS ALEJANDRO"
+  ],
+  "jugadores_visitante": [
+    "MARTIN MARTIN, AIMAR",
+    "LORENZO OTERO, ERIK",
+    "ROMERA OLIVENZA, JULEN",
+    "HERRERA IGLESIAS, AGER",
+    "MONTERO SARMIENTO, MIKEL ALEXANDER",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "CORMAN LOPEZ, UNAI",
+    "MERELES GONZALEZ, MAXWELL MANUEL",
+    "PALIN DE JESUS, BRAWNY YANIEL",
+    "ATXURRA MONTES, MARKEL",
+    "PIÑOL CONDE, ANDONI",
+    "LOPEZ MARTINEZ, AMETS",
+    "VILLARIAS BRIÑAS, ALEXANDER",
+    "AXPE GONZALEZ, ENEKO",
+    "BALANDIN POUSADAS, IBAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "PUENTE GONZALEZ, IKER",
+      "sale": "LÓPEZ DEL VAL, ROBERTO"
+    },
+    {
+      "min": 58,
+      "entra": "CHAMORRO PEREIRA, GERARD",
+      "sale": "VARGAS CARRIL, ADRIAN"
+    },
+    {
+      "min": 76,
+      "entra": "ORTIZ NEGRO, ANDER",
+      "sale": "LORENZO GARCIA, JON"
+    },
+    {
+      "min": 76,
+      "entra": "RUIZ MARCANO, LIER",
+      "sale": "LAZCANO GALLEGO, ALVARO"
+    },
+    {
+      "min": 76,
+      "entra": "RIVERA OVALLE, THOMAS ALEJANDRO",
+      "sale": "MESA LOPEZ, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "LOPEZ MARTINEZ, AMETS",
+      "sale": "PIÑOL CONDE, ANDONI"
+    },
+    {
+      "min": 40,
+      "entra": "VILLARIAS BRIÑAS, ALEXANDER",
+      "sale": "ATXURRA MONTES, MARKEL"
+    },
+    {
+      "min": 60,
+      "entra": "AXPE GONZALEZ, ENEKO",
+      "sale": "MAQUEDA HERNANDEZ, IZAN"
+    },
+    {
+      "min": 72,
+      "entra": "BALANDIN POUSADAS, IBAI",
+      "sale": "MONTERO SARMIENTO, MIKEL ALEXANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "LOPEZ SANCHEZ, MARKEL": 90,
+    "GALAN MAZAS, IMANOL": 90,
+    "BLASCO MUÑOZ, ASIER": 90,
+    "ESCAPA PEREZ, MARCO": 90,
+    "RODRIGUEZ VALDERAS, MIKEL": 90,
+    "VARGAS CARRIL, ADRIAN": 58,
+    "LÓPEZ DEL VAL, ROBERTO": 50,
+    "LAZCANO GALLEGO, ALVARO": 76,
+    "MOREIRO FERNÁNDEZ, AIMAR": 90,
+    "MESA LOPEZ, HUGO": 76,
+    "LORENZO GARCIA, JON": 76,
+    "PUENTE GONZALEZ, IKER": 40,
+    "CHAMORRO PEREIRA, GERARD": 32,
+    "ORTIZ NEGRO, ANDER": 14,
+    "RUIZ MARCANO, LIER": 14,
+    "RIVERA OVALLE, THOMAS ALEJANDRO": 14,
+    "MARTIN MARTIN, AIMAR": 90,
+    "LORENZO OTERO, ERIK": 90,
+    "ROMERA OLIVENZA, JULEN": 90,
+    "HERRERA IGLESIAS, AGER": 90,
+    "MONTERO SARMIENTO, MIKEL ALEXANDER": 72,
+    "MAQUEDA HERNANDEZ, IZAN": 60,
+    "CORMAN LOPEZ, UNAI": 90,
+    "MERELES GONZALEZ, MAXWELL MANUEL": 90,
+    "PALIN DE JESUS, BRAWNY YANIEL": 90,
+    "ATXURRA MONTES, MARKEL": 40,
+    "PIÑOL CONDE, ANDONI": 40,
+    "LOPEZ MARTINEZ, AMETS": 50,
+    "VILLARIAS BRIÑAS, ALEXANDER": 50,
+    "AXPE GONZALEZ, ENEKO": 30,
+    "BALANDIN POUSADAS, IBAI": 18
+  },
+  "portero_local": "LOPEZ SANCHEZ, MARKEL",
+  "portero_visitante": "MARTIN MARTIN, AIMAR",
+  "dorsales_local": {
+    "LOPEZ SANCHEZ, MARKEL": 1,
+    "GALAN MAZAS, IMANOL": 3,
+    "BLASCO MUÑOZ, ASIER": 4,
+    "ESCAPA PEREZ, MARCO": 5,
+    "RODRIGUEZ VALDERAS, MIKEL": 7,
+    "VARGAS CARRIL, ADRIAN": 8,
+    "LÓPEZ DEL VAL, ROBERTO": 9,
+    "LAZCANO GALLEGO, ALVARO": 15,
+    "MOREIRO FERNÁNDEZ, AIMAR": 16,
+    "MESA LOPEZ, HUGO": 17,
+    "LORENZO GARCIA, JON": 20
+  },
+  "dorsales_visitante": {
+    "MARTIN MARTIN, AIMAR": 1,
+    "LORENZO OTERO, ERIK": 2,
+    "ROMERA OLIVENZA, JULEN": 5,
+    "HERRERA IGLESIAS, AGER": 6,
+    "MONTERO SARMIENTO, MIKEL ALEXANDER": 9,
+    "MAQUEDA HERNANDEZ, IZAN": 10,
+    "CORMAN LOPEZ, UNAI": 11,
+    "MERELES GONZALEZ, MAXWELL MANUEL": 14,
+    "PALIN DE JESUS, BRAWNY YANIEL": 16,
+    "ATXURRA MONTES, MARKEL": 17,
+    "PIÑOL CONDE, ANDONI": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
