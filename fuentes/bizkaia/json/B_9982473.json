@@ -1,0 +1,280 @@
+{
+  "acta_id": "B_9982473",
+  "filename": "Acta_B_9982473.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "07-02-2026",
+  "hora": "17:03",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "BASKAURI A",
+  "equipo_visitante": "PADURA A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "BRITO MARTINEZ, JULIO CESAR"
+  ],
+  "estadio": "ARTUNDUAGA 2",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 32,
+      "jugador": "CORO LOPEZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "GARCIA CARRASCO, XABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 43,
+      "jugador": "COBELO VELEZ, IBAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "COBELO VELEZ, IBAI",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "TRIGUEROS BULLON, UNAX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "SANCHEZ PEÑA, PEIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "GARCIA CHICA, UNAX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ MUÑIZ, AITOR",
+  "entrenador_visitante": "BOUZA FERNANDEZ, JUAN CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BEASKOETXEA SAN MARTIN, GORKA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BEASKOETXEA SAN MARTIN, GORKA",
+  "delegado_equipo_visitante": "AGUIRRE HUERGA, JOSU",
+  "titulares_local": [
+    "MOLINA GARCIA, ALEX",
+    "MARUNTELU, IONUT EDUARD",
+    "RUIZ GARCIA DE VICUÑA, EDER",
+    "ALEJO LEJARRAGA, ENAITZ",
+    "RIBOTE LACALLE, EDER",
+    "GONZALEZ CASTILLO, DANEL",
+    "TRIGUEROS BULLON, UNAX",
+    "ETXEZARRAGA URKIJO, PEIO",
+    "BEASKOETXEA SANCHEZ, GALDER",
+    "COBELO VELEZ, IBAI",
+    "CORO LOPEZ, ALVARO"
+  ],
+  "titulares_visitante": [
+    "GONZALEZ CABEZUDO, NOAH",
+    "SANCHEZ PEÑA, PEIO",
+    "GARCIA CARRASCO, XABIER",
+    "ALBIZUA ESCUZA, KOLDO",
+    "GILLATE CORRALES, ANDDE",
+    "GARTZIA MOJA, EGOITZ",
+    "RODRIGUEZ LEZAMETA, MIKEL",
+    "FUSCEL, PATRICK IOAN",
+    "LEKUE LEKUE, AIMAR",
+    "REQUEJO RODRIGUEZ, GAIZKA",
+    "ARRAÑA RUBIO, MIKEL"
+  ],
+  "suplentes_local": [
+    "FUENTE OLIVA, MAREN",
+    "OTERO LABRADOR, UNAI",
+    "AGINAKO SOLAUN, XABIER",
+    "LOZANO LOPEZ, MARKEL",
+    "PEÑA PEREZ, IZAN",
+    "ESTEBAN GALLO, OIHAN"
+  ],
+  "suplentes_visitante": [
+    "OLMOS CHICO, OIER",
+    "GARCIA CHICA, UNAX",
+    "LOPES GOMES, ARKAITZ",
+    "RODRIGUEZ FERNANDEZ, MARKEL",
+    "SANCHEZ PARDO, JON",
+    "HAMROUNI OSUNA, SABIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "FUENTE OLIVA, MAREN",
+    "PEÑA PEREZ, IZAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "OLMOS CHICO, OIER"
+  ],
+  "jugadores_local": [
+    "MOLINA GARCIA, ALEX",
+    "MARUNTELU, IONUT EDUARD",
+    "RUIZ GARCIA DE VICUÑA, EDER",
+    "ALEJO LEJARRAGA, ENAITZ",
+    "RIBOTE LACALLE, EDER",
+    "GONZALEZ CASTILLO, DANEL",
+    "TRIGUEROS BULLON, UNAX",
+    "ETXEZARRAGA URKIJO, PEIO",
+    "BEASKOETXEA SANCHEZ, GALDER",
+    "COBELO VELEZ, IBAI",
+    "CORO LOPEZ, ALVARO",
+    "AGINAKO SOLAUN, XABIER",
+    "LOZANO LOPEZ, MARKEL",
+    "OTERO LABRADOR, UNAI",
+    "ESTEBAN GALLO, OIHAN"
+  ],
+  "jugadores_visitante": [
+    "GONZALEZ CABEZUDO, NOAH",
+    "SANCHEZ PEÑA, PEIO",
+    "GARCIA CARRASCO, XABIER",
+    "ALBIZUA ESCUZA, KOLDO",
+    "GILLATE CORRALES, ANDDE",
+    "GARTZIA MOJA, EGOITZ",
+    "RODRIGUEZ LEZAMETA, MIKEL",
+    "FUSCEL, PATRICK IOAN",
+    "LEKUE LEKUE, AIMAR",
+    "REQUEJO RODRIGUEZ, GAIZKA",
+    "ARRAÑA RUBIO, MIKEL",
+    "GARCIA CHICA, UNAX",
+    "SANCHEZ PARDO, JON",
+    "LOPES GOMES, ARKAITZ",
+    "RODRIGUEZ FERNANDEZ, MARKEL",
+    "HAMROUNI OSUNA, SABIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "AGINAKO SOLAUN, XABIER",
+      "sale": "GONZALEZ CASTILLO, DANEL"
+    },
+    {
+      "min": 53,
+      "entra": "LOZANO LOPEZ, MARKEL",
+      "sale": "MARUNTELU, IONUT EDUARD"
+    },
+    {
+      "min": 62,
+      "entra": "OTERO LABRADOR, UNAI",
+      "sale": "BEASKOETXEA SANCHEZ, GALDER"
+    },
+    {
+      "min": 71,
+      "entra": "ESTEBAN GALLO, OIHAN",
+      "sale": "ALEJO LEJARRAGA, ENAITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "GARCIA CHICA, UNAX",
+      "sale": "SANCHEZ PEÑA, PEIO"
+    },
+    {
+      "min": 55,
+      "entra": "SANCHEZ PARDO, JON",
+      "sale": "ALBIZUA ESCUZA, KOLDO"
+    },
+    {
+      "min": 71,
+      "entra": "LOPES GOMES, ARKAITZ",
+      "sale": "ARRAÑA RUBIO, MIKEL"
+    },
+    {
+      "min": 75,
+      "entra": "RODRIGUEZ FERNANDEZ, MARKEL",
+      "sale": "RODRIGUEZ LEZAMETA, MIKEL"
+    },
+    {
+      "min": 75,
+      "entra": "HAMROUNI OSUNA, SABIER",
+      "sale": "LEKUE LEKUE, AIMAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "MOLINA GARCIA, ALEX": 90,
+    "MARUNTELU, IONUT EDUARD": 53,
+    "RUIZ GARCIA DE VICUÑA, EDER": 90,
+    "ALEJO LEJARRAGA, ENAITZ": 71,
+    "RIBOTE LACALLE, EDER": 90,
+    "GONZALEZ CASTILLO, DANEL": 53,
+    "TRIGUEROS BULLON, UNAX": 90,
+    "ETXEZARRAGA URKIJO, PEIO": 90,
+    "BEASKOETXEA SANCHEZ, GALDER": 62,
+    "COBELO VELEZ, IBAI": 90,
+    "CORO LOPEZ, ALVARO": 90,
+    "AGINAKO SOLAUN, XABIER": 37,
+    "LOZANO LOPEZ, MARKEL": 37,
+    "OTERO LABRADOR, UNAI": 28,
+    "ESTEBAN GALLO, OIHAN": 19,
+    "GONZALEZ CABEZUDO, NOAH": 90,
+    "SANCHEZ PEÑA, PEIO": 55,
+    "GARCIA CARRASCO, XABIER": 90,
+    "ALBIZUA ESCUZA, KOLDO": 55,
+    "GILLATE CORRALES, ANDDE": 90,
+    "GARTZIA MOJA, EGOITZ": 90,
+    "RODRIGUEZ LEZAMETA, MIKEL": 75,
+    "FUSCEL, PATRICK IOAN": 90,
+    "LEKUE LEKUE, AIMAR": 75,
+    "REQUEJO RODRIGUEZ, GAIZKA": 90,
+    "ARRAÑA RUBIO, MIKEL": 71,
+    "GARCIA CHICA, UNAX": 35,
+    "SANCHEZ PARDO, JON": 35,
+    "LOPES GOMES, ARKAITZ": 19,
+    "RODRIGUEZ FERNANDEZ, MARKEL": 15,
+    "HAMROUNI OSUNA, SABIER": 15
+  },
+  "portero_local": "MOLINA GARCIA, ALEX",
+  "portero_visitante": "GONZALEZ CABEZUDO, NOAH",
+  "dorsales_local": {
+    "MOLINA GARCIA, ALEX": 13,
+    "MARUNTELU, IONUT EDUARD": 2,
+    "RUIZ GARCIA DE VICUÑA, EDER": 3,
+    "ALEJO LEJARRAGA, ENAITZ": 4,
+    "RIBOTE LACALLE, EDER": 5,
+    "GONZALEZ CASTILLO, DANEL": 7,
+    "TRIGUEROS BULLON, UNAX": 8,
+    "ETXEZARRAGA URKIJO, PEIO": 9,
+    "BEASKOETXEA SANCHEZ, GALDER": 11,
+    "COBELO VELEZ, IBAI": 18,
+    "CORO LOPEZ, ALVARO": 22
+  },
+  "dorsales_visitante": {
+    "GONZALEZ CABEZUDO, NOAH": 1,
+    "SANCHEZ PEÑA, PEIO": 2,
+    "GARCIA CARRASCO, XABIER": 3,
+    "ALBIZUA ESCUZA, KOLDO": 4,
+    "GILLATE CORRALES, ANDDE": 5,
+    "GARTZIA MOJA, EGOITZ": 6,
+    "RODRIGUEZ LEZAMETA, MIKEL": 7,
+    "FUSCEL, PATRICK IOAN": 8,
+    "LEKUE LEKUE, AIMAR": 9,
+    "REQUEJO RODRIGUEZ, GAIZKA": 10,
+    "ARRAÑA RUBIO, MIKEL": 11
+  },
+  "suspendidos": [
+    "COBELO VELEZ, IBAI"
+  ],
+  "_marcador_widget": true
+}
