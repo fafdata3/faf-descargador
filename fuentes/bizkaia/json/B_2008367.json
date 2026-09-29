@@ -1,0 +1,267 @@
+{
+  "acta_id": "B_2008367",
+  "filename": "Acta_B_2008367.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 6,
+  "fecha": "10-11-2024",
+  "hora": "12:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "LEKEITIO A",
+  "equipo_visitante": "ARIZ A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "DEL PALACIO OLAZABALAGA, GAIZKA"
+  ],
+  "estadio": "KEPA NABERAN KALZAKORTA",
+  "ciudad": "Lekeitio",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "DEL RIO GONZALEZ, ERIK",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 13,
+      "jugador": "GARCIA GARCIA, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "GARCIA GARCIA, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "DE LA RIVA OLAETA, UNAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "GUEZURAGA ALDANA, LANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "DE LA RIVA OLAETA, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "GOUAGOUA, MOHAMMED",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "LOPEZ FRANCO, EDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "DE LUCAS HERNANDEZ, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA AKARREGI, JON",
+  "delegado_equipo_visitante": "CEDRUN VESGA, JUAN IGNACIO",
+  "titulares_local": [
+    "GABIOLA ZABALETA, LANTZ",
+    "MONTEJO SANCHEZ, HODEI",
+    "BALENCIAGA FERNANDEZ, DANEL",
+    "GUEZURAGA ALDANA, LANDER",
+    "IZAGIRRE GOITIA, GAIZKA",
+    "CABRERA ROLON, EDWARD FRANCISCO",
+    "DE LA RIVA OLAETA, UNAI",
+    "ORIBE IRIGOIEN, EKAIN",
+    "TXOPITEA PAGAEGI, LIZAR",
+    "ALEGRIA ZABALA, AIMAR",
+    "ARANBERRI CASTORENE, UNAI"
+  ],
+  "titulares_visitante": [
+    "ZHAN, YIHANG",
+    "SOBRADO RAMIREZ, UGATZ",
+    "GARCIA GARCIA, JULEN",
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA",
+    "AMARITA ROMERO, UNAI",
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ",
+    "HERNANDEZ ARZA, UNAX",
+    "GOUAGOUA, MOHAMMED",
+    "DEL RIO GONZALEZ, ERIK",
+    "LOPEZ FRANCO, EDER",
+    "PEREÑA SANCHEZ, EDER"
+  ],
+  "suplentes_local": [
+    "ELORDI GOMEZ, OINATZ",
+    "ZABALETA UGARTEBURU, URKO",
+    "FRANCO AZUMENDI, TXOMIN",
+    "IBARZABAL LARIZ, JULEN"
+  ],
+  "suplentes_visitante": [
+    "LAVIÑA FREIRE, JOSE MIGUEL",
+    "CISSOKO SIDIBE, HAMZA",
+    "VILLALBA PEREZ, ALEX",
+    "ROMERO BLANCO, UNAI",
+    "LARRINAGA VILLASANTE, PABLO",
+    "BEZOS VELASCO, JON"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "LAVIÑA FREIRE, JOSE MIGUEL",
+    "ROMERO BLANCO, UNAI",
+    "LARRINAGA VILLASANTE, PABLO"
+  ],
+  "jugadores_local": [
+    "GABIOLA ZABALETA, LANTZ",
+    "MONTEJO SANCHEZ, HODEI",
+    "BALENCIAGA FERNANDEZ, DANEL",
+    "GUEZURAGA ALDANA, LANDER",
+    "IZAGIRRE GOITIA, GAIZKA",
+    "CABRERA ROLON, EDWARD FRANCISCO",
+    "DE LA RIVA OLAETA, UNAI",
+    "ORIBE IRIGOIEN, EKAIN",
+    "TXOPITEA PAGAEGI, LIZAR",
+    "ALEGRIA ZABALA, AIMAR",
+    "ARANBERRI CASTORENE, UNAI",
+    "ELORDI GOMEZ, OINATZ",
+    "IBARZABAL LARIZ, JULEN",
+    "ZABALETA UGARTEBURU, URKO",
+    "FRANCO AZUMENDI, TXOMIN"
+  ],
+  "jugadores_visitante": [
+    "ZHAN, YIHANG",
+    "SOBRADO RAMIREZ, UGATZ",
+    "GARCIA GARCIA, JULEN",
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA",
+    "AMARITA ROMERO, UNAI",
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ",
+    "HERNANDEZ ARZA, UNAX",
+    "GOUAGOUA, MOHAMMED",
+    "DEL RIO GONZALEZ, ERIK",
+    "LOPEZ FRANCO, EDER",
+    "PEREÑA SANCHEZ, EDER",
+    "VILLALBA PEREZ, ALEX",
+    "BEZOS VELASCO, JON",
+    "CISSOKO SIDIBE, HAMZA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "ELORDI GOMEZ, OINATZ",
+      "sale": "MONTEJO SANCHEZ, HODEI"
+    },
+    {
+      "min": 40,
+      "entra": "IBARZABAL LARIZ, JULEN",
+      "sale": "ARANBERRI CASTORENE, UNAI"
+    },
+    {
+      "min": 50,
+      "entra": "ZABALETA UGARTEBURU, URKO",
+      "sale": "ALEGRIA ZABALA, AIMAR"
+    },
+    {
+      "min": 56,
+      "entra": "FRANCO AZUMENDI, TXOMIN",
+      "sale": "TXOPITEA PAGAEGI, LIZAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "VILLALBA PEREZ, ALEX",
+      "sale": "GOUAGOUA, MOHAMMED"
+    },
+    {
+      "min": 63,
+      "entra": "BEZOS VELASCO, JON",
+      "sale": "AMARITA ROMERO, UNAI"
+    },
+    {
+      "min": 76,
+      "entra": "CISSOKO SIDIBE, HAMZA",
+      "sale": "SOBRADO RAMIREZ, UGATZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "GABIOLA ZABALETA, LANTZ": 90,
+    "MONTEJO SANCHEZ, HODEI": 40,
+    "BALENCIAGA FERNANDEZ, DANEL": 90,
+    "GUEZURAGA ALDANA, LANDER": 90,
+    "IZAGIRRE GOITIA, GAIZKA": 90,
+    "CABRERA ROLON, EDWARD FRANCISCO": 90,
+    "DE LA RIVA OLAETA, UNAI": 90,
+    "ORIBE IRIGOIEN, EKAIN": 90,
+    "TXOPITEA PAGAEGI, LIZAR": 56,
+    "ALEGRIA ZABALA, AIMAR": 50,
+    "ARANBERRI CASTORENE, UNAI": 40,
+    "ELORDI GOMEZ, OINATZ": 50,
+    "IBARZABAL LARIZ, JULEN": 50,
+    "ZABALETA UGARTEBURU, URKO": 40,
+    "FRANCO AZUMENDI, TXOMIN": 34,
+    "ZHAN, YIHANG": 90,
+    "SOBRADO RAMIREZ, UGATZ": 76,
+    "GARCIA GARCIA, JULEN": 90,
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA": 90,
+    "AMARITA ROMERO, UNAI": 63,
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ": 90,
+    "HERNANDEZ ARZA, UNAX": 90,
+    "GOUAGOUA, MOHAMMED": 40,
+    "DEL RIO GONZALEZ, ERIK": 90,
+    "LOPEZ FRANCO, EDER": 90,
+    "PEREÑA SANCHEZ, EDER": 90,
+    "VILLALBA PEREZ, ALEX": 50,
+    "BEZOS VELASCO, JON": 27,
+    "CISSOKO SIDIBE, HAMZA": 14
+  },
+  "portero_local": "GABIOLA ZABALETA, LANTZ",
+  "portero_visitante": "ZHAN, YIHANG",
+  "dorsales_local": {
+    "GABIOLA ZABALETA, LANTZ": 1,
+    "MONTEJO SANCHEZ, HODEI": 2,
+    "BALENCIAGA FERNANDEZ, DANEL": 4,
+    "GUEZURAGA ALDANA, LANDER": 5,
+    "IZAGIRRE GOITIA, GAIZKA": 7,
+    "CABRERA ROLON, EDWARD FRANCISCO": 8,
+    "DE LA RIVA OLAETA, UNAI": 9,
+    "ORIBE IRIGOIEN, EKAIN": 10,
+    "TXOPITEA PAGAEGI, LIZAR": 12,
+    "ALEGRIA ZABALA, AIMAR": 14,
+    "ARANBERRI CASTORENE, UNAI": 25
+  },
+  "dorsales_visitante": {
+    "ZHAN, YIHANG": 1,
+    "SOBRADO RAMIREZ, UGATZ": 4,
+    "GARCIA GARCIA, JULEN": 7,
+    "ASTIGARRAGA BELLIDO, KOLDOBIKA": 8,
+    "AMARITA ROMERO, UNAI": 9,
+    "DE LUCAS LOPEZ DE VICUÑA, ARITZ": 10,
+    "HERNANDEZ ARZA, UNAX": 11,
+    "GOUAGOUA, MOHAMMED": 16,
+    "DEL RIO GONZALEZ, ERIK": 17,
+    "LOPEZ FRANCO, EDER": 24,
+    "PEREÑA SANCHEZ, EDER": 25
+  },
+  "suspendidos": []
+}
