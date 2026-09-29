@@ -1,0 +1,240 @@
+{
+  "acta_id": "C_173268",
+  "filename": "Acta_C_173268.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 16,
+  "fecha": "27-01-2024",
+  "hora": "17:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE A",
+  "equipo_visitante": "AT. ESPAÑA DE CUETO A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "IGLESIAS GUTIÉRREZ, DAVID"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "ZHEKOV, ATANASIO ATANASOV",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "GARCIA GARCIA, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "LOPEZ ALCALDE, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "MATEO OLALLA, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "GOMEZ ARRANZ, IVAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "PEREZ MARTINEZ, LORENZO",
+  "entrenador_visitante": "GOMEZ ARRANZ, IVAN",
+  "segundo_entrenador_local": "PEREZ ENGUITA, FERNANDO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "MARTIN SUAREZ, HUGO",
+    "MORAN POLANCO, ALVARO",
+    "LOPEZ ALCALDE, IZAN",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "CORDOVILLO PEREZ, MARCOS",
+    "GARCIA RUIZ, HERNAN",
+    "VILLA OTERO, BRUNO",
+    "SARO ALLENDE, ALEJO",
+    "ROCES RONDO, CRUZ",
+    "MONTES SANTOS, CARLOS",
+    "ZHEKOV, ATANASIO ATANASOV"
+  ],
+  "titulares_visitante": [
+    "FUENTES LEMA, LAUREANO",
+    "SANCHEZ GALONCE, HECTOR",
+    "DELGADO MELLADO, JUAN",
+    "GARCIA GARCIA, ADRIAN",
+    "GARCIA GARCIA, JORGE",
+    "GONZALEZ GOMEZ, JAVIER",
+    "MATEO OLALLA, MARKEL",
+    "PERA DE LA LOMA, IKER",
+    "LOPEZ ARJONA, DANIEL THERA",
+    "CURADO GUTIERREZ, ALVARO",
+    "RODRIGUEZ GUTIERREZ, DANIEL"
+  ],
+  "suplentes_local": [
+    "NUÑEZ MORENO, MARCOS",
+    "CUEVAS ALLENDE, NACHO",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "MALLAVIA PEREZ, ASIER",
+    "DIAZ MUELA, ANGEL"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ USIN, GABRIEL",
+    "VILLAR GARCIA, LARO",
+    "TAPIA IBAÑEZ, NACHO",
+    "FERNANDEZ DIAZ, GUILLERMO"
+  ],
+  "convocados_sin_jugar_local": [
+    "NUÑEZ MORENO, MARCOS"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "VILLAR GARCIA, LARO",
+    "TAPIA IBAÑEZ, NACHO"
+  ],
+  "jugadores_local": [
+    "MARTIN SUAREZ, HUGO",
+    "MORAN POLANCO, ALVARO",
+    "LOPEZ ALCALDE, IZAN",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "CORDOVILLO PEREZ, MARCOS",
+    "GARCIA RUIZ, HERNAN",
+    "VILLA OTERO, BRUNO",
+    "SARO ALLENDE, ALEJO",
+    "ROCES RONDO, CRUZ",
+    "MONTES SANTOS, CARLOS",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "MALLAVIA PEREZ, ASIER",
+    "DIAZ MUELA, ANGEL",
+    "CUEVAS ALLENDE, NACHO"
+  ],
+  "jugadores_visitante": [
+    "FUENTES LEMA, LAUREANO",
+    "SANCHEZ GALONCE, HECTOR",
+    "DELGADO MELLADO, JUAN",
+    "GARCIA GARCIA, ADRIAN",
+    "GARCIA GARCIA, JORGE",
+    "GONZALEZ GOMEZ, JAVIER",
+    "MATEO OLALLA, MARKEL",
+    "PERA DE LA LOMA, IKER",
+    "LOPEZ ARJONA, DANIEL THERA",
+    "CURADO GUTIERREZ, ALVARO",
+    "RODRIGUEZ GUTIERREZ, DANIEL",
+    "FERNANDEZ DIAZ, GUILLERMO",
+    "GONZALEZ USIN, GABRIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "GONZALEZ GONZALEZ, DANIEL",
+      "sale": "SARO ALLENDE, ALEJO"
+    },
+    {
+      "min": 48,
+      "entra": "MALLAVIA PEREZ, ASIER",
+      "sale": "CORDOVILLO PEREZ, MARCOS"
+    },
+    {
+      "min": 48,
+      "entra": "DIAZ MUELA, ANGEL",
+      "sale": "ZAMAN, VICTOR ALEXANDRU"
+    },
+    {
+      "min": 56,
+      "entra": "CUEVAS ALLENDE, NACHO",
+      "sale": "GARCIA RUIZ, HERNAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 44,
+      "entra": "FERNANDEZ DIAZ, GUILLERMO",
+      "sale": "PERA DE LA LOMA, IKER"
+    },
+    {
+      "min": 53,
+      "entra": "GONZALEZ USIN, GABRIEL",
+      "sale": "GARCIA GARCIA, JORGE"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTIN SUAREZ, HUGO": 90,
+    "MORAN POLANCO, ALVARO": 90,
+    "LOPEZ ALCALDE, IZAN": 90,
+    "ZAMAN, VICTOR ALEXANDRU": 48,
+    "CORDOVILLO PEREZ, MARCOS": 48,
+    "GARCIA RUIZ, HERNAN": 56,
+    "VILLA OTERO, BRUNO": 90,
+    "SARO ALLENDE, ALEJO": 35,
+    "ROCES RONDO, CRUZ": 90,
+    "MONTES SANTOS, CARLOS": 90,
+    "ZHEKOV, ATANASIO ATANASOV": 90,
+    "GONZALEZ GONZALEZ, DANIEL": 55,
+    "MALLAVIA PEREZ, ASIER": 42,
+    "DIAZ MUELA, ANGEL": 42,
+    "CUEVAS ALLENDE, NACHO": 34,
+    "FUENTES LEMA, LAUREANO": 90,
+    "SANCHEZ GALONCE, HECTOR": 90,
+    "DELGADO MELLADO, JUAN": 90,
+    "GARCIA GARCIA, ADRIAN": 90,
+    "GARCIA GARCIA, JORGE": 53,
+    "GONZALEZ GOMEZ, JAVIER": 90,
+    "MATEO OLALLA, MARKEL": 90,
+    "PERA DE LA LOMA, IKER": 44,
+    "LOPEZ ARJONA, DANIEL THERA": 90,
+    "CURADO GUTIERREZ, ALVARO": 90,
+    "RODRIGUEZ GUTIERREZ, DANIEL": 90,
+    "FERNANDEZ DIAZ, GUILLERMO": 46,
+    "GONZALEZ USIN, GABRIEL": 37
+  },
+  "portero_local": "MARTIN SUAREZ, HUGO",
+  "portero_visitante": "FUENTES LEMA, LAUREANO",
+  "dorsales_local": {
+    "MARTIN SUAREZ, HUGO": 1,
+    "MORAN POLANCO, ALVARO": 6,
+    "LOPEZ ALCALDE, IZAN": 7,
+    "ZAMAN, VICTOR ALEXANDRU": 8,
+    "CORDOVILLO PEREZ, MARCOS": 9,
+    "GARCIA RUIZ, HERNAN": 11,
+    "VILLA OTERO, BRUNO": 14,
+    "SARO ALLENDE, ALEJO": 16,
+    "ROCES RONDO, CRUZ": 17,
+    "MONTES SANTOS, CARLOS": 20,
+    "ZHEKOV, ATANASIO ATANASOV": 24
+  },
+  "dorsales_visitante": {
+    "FUENTES LEMA, LAUREANO": 13,
+    "SANCHEZ GALONCE, HECTOR": 2,
+    "DELGADO MELLADO, JUAN": 3,
+    "GARCIA GARCIA, ADRIAN": 4,
+    "GARCIA GARCIA, JORGE": 6,
+    "GONZALEZ GOMEZ, JAVIER": 7,
+    "MATEO OLALLA, MARKEL": 9,
+    "PERA DE LA LOMA, IKER": 10,
+    "LOPEZ ARJONA, DANIEL THERA": 11,
+    "CURADO GUTIERREZ, ALVARO": 14,
+    "RODRIGUEZ GUTIERREZ, DANIEL": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
