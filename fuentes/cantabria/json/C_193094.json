@@ -1,0 +1,266 @@
+{
+  "acta_id": "C_193094",
+  "filename": "Acta_C_193094.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "27-10-2024",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "AA. VV. LA MARISMA A",
+  "equipo_visitante": "C.D.E. ATCO. MINEROS B",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCIA MAYO, OSCAR"
+  ],
+  "estadio": "Municipal de Frajanas",
+  "ciudad": "Astillero (El)",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "MARTINEZ RUIZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "ESCALANTE MARGÜELLES, ABRAHAM",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 55,
+      "jugador": "TORRE CAGIGAS, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "TORRE CAGIGAS, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "GONZALEZ OSORIO, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "ARROYO SAIZ, RUBEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RUIZ GUTIERREZ, ENRIQUE",
+  "entrenador_visitante": "QUEVEDO VARGAS, EMILIANO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SARACHAGA GIL, JOSE LUIS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SARACHAGA GIL, JOSE LUIS",
+  "delegado_equipo_visitante": "UBALDO RODRIGUEZ, DAVID",
+  "titulares_local": [
+    "HARO FERNANDEZ, HUGO",
+    "GONZALEZ OSORIO, DANIEL",
+    "MOJA GOMEZ, DIEGO",
+    "HERRERA MACIA, NICOLAS",
+    "MARTINEZ RUIZ, LUCAS",
+    "SARACHAGA GAÑAN, IKER",
+    "HIGUERA MARTINEZ, DIEGO",
+    "TORRE CAGIGAS, NICOLAS",
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO",
+    "GARCIA GONZALEZ, PABLO",
+    "CERVERA DE LA MAZA, ADRIAN"
+  ],
+  "titulares_visitante": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "GUTIÉRREZ SERNA, JESÚS ANGEL",
+    "ALVAREZ PEREZ, MARIO",
+    "CALDERON GOMEZ, BORJA",
+    "GUTIERREZ CUETO, IKER",
+    "ESCALANTE MARGÜELLES, ABRAHAM",
+    "GALINDO GARCIA, ADRIAN",
+    "GUTIERREZ SAN MIGUEL, MANUEL",
+    "RUIZ DA SILVA, GUSTAVO",
+    "VILLEGAS SAIZ, JAVIER",
+    "ARROYO SAIZ, RUBEN"
+  ],
+  "suplentes_local": [
+    "FALL FALL, MOR",
+    "GUTIERREZ ECHEVARRIA, DARIO",
+    "JIMENEZ AGUEROS, NICOLAS",
+    "CAVADA CAVADA, ADRIAN",
+    "LIEBANA GUTIERREZ, ADRIAN"
+  ],
+  "suplentes_visitante": [
+    "ROBLES CORCHADO, ALEX",
+    "GUTIERREZ TERAN, PABLO",
+    "MARTINEZ LOPEZ, IZAN",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "GARCÍA RÁBAGO, SAMUEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "FALL FALL, MOR"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "HARO FERNANDEZ, HUGO",
+    "GONZALEZ OSORIO, DANIEL",
+    "MOJA GOMEZ, DIEGO",
+    "HERRERA MACIA, NICOLAS",
+    "MARTINEZ RUIZ, LUCAS",
+    "SARACHAGA GAÑAN, IKER",
+    "HIGUERA MARTINEZ, DIEGO",
+    "TORRE CAGIGAS, NICOLAS",
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO",
+    "GARCIA GONZALEZ, PABLO",
+    "CERVERA DE LA MAZA, ADRIAN",
+    "CAVADA CAVADA, ADRIAN",
+    "LIEBANA GUTIERREZ, ADRIAN",
+    "JIMENEZ AGUEROS, NICOLAS",
+    "GUTIERREZ ECHEVARRIA, DARIO"
+  ],
+  "jugadores_visitante": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "GUTIÉRREZ SERNA, JESÚS ANGEL",
+    "ALVAREZ PEREZ, MARIO",
+    "CALDERON GOMEZ, BORJA",
+    "GUTIERREZ CUETO, IKER",
+    "ESCALANTE MARGÜELLES, ABRAHAM",
+    "GALINDO GARCIA, ADRIAN",
+    "GUTIERREZ SAN MIGUEL, MANUEL",
+    "RUIZ DA SILVA, GUSTAVO",
+    "VILLEGAS SAIZ, JAVIER",
+    "ARROYO SAIZ, RUBEN",
+    "ROBLES CORCHADO, ALEX",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "GARCÍA RÁBAGO, SAMUEL",
+    "MARTINEZ LOPEZ, IZAN",
+    "GUTIERREZ TERAN, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "CAVADA CAVADA, ADRIAN",
+      "sale": "HIGUERA MARTINEZ, DIEGO"
+    },
+    {
+      "min": 66,
+      "entra": "LIEBANA GUTIERREZ, ADRIAN",
+      "sale": "SARACHAGA GAÑAN, IKER"
+    },
+    {
+      "min": 69,
+      "entra": "JIMENEZ AGUEROS, NICOLAS",
+      "sale": "NUÑEZ CORDOVA, WLADIMIR ANTONIO"
+    },
+    {
+      "min": 77,
+      "entra": "GUTIERREZ ECHEVARRIA, DARIO",
+      "sale": "GARCIA GONZALEZ, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "ROBLES CORCHADO, ALEX",
+      "sale": "GALINDO GARCIA, ADRIAN"
+    },
+    {
+      "min": 51,
+      "entra": "NDIAYE RUIZ, MALICK JAVIER",
+      "sale": "GUTIERREZ CUETO, IKER"
+    },
+    {
+      "min": 62,
+      "entra": "GARCÍA RÁBAGO, SAMUEL",
+      "sale": "GUTIÉRREZ SERNA, JESÚS ANGEL"
+    },
+    {
+      "min": 70,
+      "entra": "MARTINEZ LOPEZ, IZAN",
+      "sale": "ESCALANTE MARGÜELLES, ABRAHAM"
+    },
+    {
+      "min": 70,
+      "entra": "GUTIERREZ TERAN, PABLO",
+      "sale": "ARROYO SAIZ, RUBEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "HARO FERNANDEZ, HUGO": 90,
+    "GONZALEZ OSORIO, DANIEL": 90,
+    "MOJA GOMEZ, DIEGO": 90,
+    "HERRERA MACIA, NICOLAS": 90,
+    "MARTINEZ RUIZ, LUCAS": 90,
+    "SARACHAGA GAÑAN, IKER": 66,
+    "HIGUERA MARTINEZ, DIEGO": 59,
+    "TORRE CAGIGAS, NICOLAS": 90,
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO": 69,
+    "GARCIA GONZALEZ, PABLO": 77,
+    "CERVERA DE LA MAZA, ADRIAN": 90,
+    "CAVADA CAVADA, ADRIAN": 31,
+    "LIEBANA GUTIERREZ, ADRIAN": 24,
+    "JIMENEZ AGUEROS, NICOLAS": 21,
+    "GUTIERREZ ECHEVARRIA, DARIO": 13,
+    "RUIZ FERNÁNDEZ, KEVIN": 90,
+    "GUTIÉRREZ SERNA, JESÚS ANGEL": 62,
+    "ALVAREZ PEREZ, MARIO": 90,
+    "CALDERON GOMEZ, BORJA": 90,
+    "GUTIERREZ CUETO, IKER": 51,
+    "ESCALANTE MARGÜELLES, ABRAHAM": 70,
+    "GALINDO GARCIA, ADRIAN": 40,
+    "GUTIERREZ SAN MIGUEL, MANUEL": 90,
+    "RUIZ DA SILVA, GUSTAVO": 90,
+    "VILLEGAS SAIZ, JAVIER": 90,
+    "ARROYO SAIZ, RUBEN": 70,
+    "ROBLES CORCHADO, ALEX": 50,
+    "NDIAYE RUIZ, MALICK JAVIER": 39,
+    "GARCÍA RÁBAGO, SAMUEL": 28,
+    "MARTINEZ LOPEZ, IZAN": 20,
+    "GUTIERREZ TERAN, PABLO": 20
+  },
+  "portero_local": "HARO FERNANDEZ, HUGO",
+  "portero_visitante": "RUIZ FERNÁNDEZ, KEVIN",
+  "dorsales_local": {
+    "HARO FERNANDEZ, HUGO": 13,
+    "GONZALEZ OSORIO, DANIEL": 2,
+    "MOJA GOMEZ, DIEGO": 3,
+    "HERRERA MACIA, NICOLAS": 4,
+    "MARTINEZ RUIZ, LUCAS": 5,
+    "SARACHAGA GAÑAN, IKER": 6,
+    "HIGUERA MARTINEZ, DIEGO": 8,
+    "TORRE CAGIGAS, NICOLAS": 9,
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO": 14,
+    "GARCIA GONZALEZ, PABLO": 15,
+    "CERVERA DE LA MAZA, ADRIAN": 21
+  },
+  "dorsales_visitante": {
+    "RUIZ FERNÁNDEZ, KEVIN": 13,
+    "GUTIÉRREZ SERNA, JESÚS ANGEL": 4,
+    "ALVAREZ PEREZ, MARIO": 5,
+    "CALDERON GOMEZ, BORJA": 6,
+    "GUTIERREZ CUETO, IKER": 9,
+    "ESCALANTE MARGÜELLES, ABRAHAM": 10,
+    "GALINDO GARCIA, ADRIAN": 12,
+    "GUTIERREZ SAN MIGUEL, MANUEL": 14,
+    "RUIZ DA SILVA, GUSTAVO": 15,
+    "VILLEGAS SAIZ, JAVIER": 23,
+    "ARROYO SAIZ, RUBEN": 99
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
