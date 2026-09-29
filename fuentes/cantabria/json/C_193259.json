@@ -1,0 +1,229 @@
+{
+  "acta_id": "C_193259",
+  "filename": "Acta_C_193259.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 26,
+  "fecha": "22-03-2025",
+  "hora": "16:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. RAMALES",
+  "equipo_visitante": "C.D. MARINA SPORT B",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PACHECO COTERO, MARIO"
+  ],
+  "estadio": "Cubillas - Ramales",
+  "ciudad": "Ramales De La Victoria",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "LOPEZ GONZALEZ, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "GALAZ GOMEZ, GUILLERMO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "MAZA NOVOA, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "MAZA NOVOA, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "JOVER FERNANDEZ, IÑIGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "GARCIA MORENO, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JOVER FERNANDEZ, IÑIGO",
+  "entrenador_visitante": "FLOR RODRIGUEZ, ALFONSO JOSE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "VEGA GUTIERREZ, JUAN",
+  "delegado_campo_local": "MARTINEZ FRESNEDO, ENRIQUE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ FRESNEDO, ENRIQUE",
+  "delegado_equipo_visitante": "POO CELIS, LUIS",
+  "titulares_local": [
+    "VILLASOL GARCIA, MARIO",
+    "TREVILLA VELA, RAMON",
+    "MAZA FERNANDEZ, IÑIGO",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "DEL MORAL ALONSO, RODRIGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "MAZA NOVOA, MARIO",
+    "IBAÑEZ AHEDO, EGOITZ"
+  ],
+  "titulares_visitante": [
+    "FLOR MARTINEZ, OIER",
+    "ALONSO CRUZ, DIEGO",
+    "DASILVA PEREIRA, EDUARDO",
+    "NGOUNOU NCHAMA, NEREO STEVE",
+    "PORRAS CADELO, MATEO",
+    "GARCIA MORENO, MARIO",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "RUIZ ORTEGA, RODRIGO",
+    "GUTIERREZ ABASCAL, MARCOS",
+    "Montenegro Perez, MARCOS GERMAN",
+    "GARCIA CASTILLO, JORGE"
+  ],
+  "suplentes_local": [
+    "FURIOL SALCEDO, RUBÉN",
+    "ABASCAL RUIZ, JOAQUIN",
+    "LOPEZ SAEZ, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "SIERRA GONZALEZ, KEVIN"
+  ],
+  "suplentes_visitante": [
+    "SAUQUILLO ALONSO, MARCO",
+    "JURNA ANERO, EDUARDO"
+  ],
+  "convocados_sin_jugar_local": [
+    "FURIOL SALCEDO, RUBÉN",
+    "ABASCAL RUIZ, JOAQUIN",
+    "LOPEZ SAEZ, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "VILLASOL GARCIA, MARIO",
+    "TREVILLA VELA, RAMON",
+    "MAZA FERNANDEZ, IÑIGO",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "DEL MORAL ALONSO, RODRIGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "MAZA NOVOA, MARIO",
+    "IBAÑEZ AHEDO, EGOITZ",
+    "SIERRA GONZALEZ, KEVIN",
+    "HOLGADO RODRIGUEZ, IKER"
+  ],
+  "jugadores_visitante": [
+    "FLOR MARTINEZ, OIER",
+    "ALONSO CRUZ, DIEGO",
+    "DASILVA PEREIRA, EDUARDO",
+    "NGOUNOU NCHAMA, NEREO STEVE",
+    "PORRAS CADELO, MATEO",
+    "GARCIA MORENO, MARIO",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "RUIZ ORTEGA, RODRIGO",
+    "GUTIERREZ ABASCAL, MARCOS",
+    "Montenegro Perez, MARCOS GERMAN",
+    "GARCIA CASTILLO, JORGE",
+    "SAUQUILLO ALONSO, MARCO",
+    "JURNA ANERO, EDUARDO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "SIERRA GONZALEZ, KEVIN",
+      "sale": "DEL MORAL ALONSO, RODRIGO"
+    },
+    {
+      "min": 69,
+      "entra": "HOLGADO RODRIGUEZ, IKER",
+      "sale": "MAZA NOVOA, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SAUQUILLO ALONSO, MARCO",
+      "sale": "FLOR MARTINEZ, OIER"
+    },
+    {
+      "min": 52,
+      "entra": "JURNA ANERO, EDUARDO",
+      "sale": "ALONSO CRUZ, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "VILLASOL GARCIA, MARIO": 90,
+    "TREVILLA VELA, RAMON": 90,
+    "MAZA FERNANDEZ, IÑIGO": 90,
+    "COBREROS ZUBILLAGA, SAMUEL": 90,
+    "DE LAS HERAS VARONA, ASIER": 90,
+    "LOPEZ GONZALEZ, HUGO": 90,
+    "DEL MORAL ALONSO, RODRIGO": 60,
+    "GALAZ GOMEZ, GUILLERMO": 90,
+    "GOMEZ RANERO, ANDER": 90,
+    "MAZA NOVOA, MARIO": 69,
+    "IBAÑEZ AHEDO, EGOITZ": 90,
+    "SIERRA GONZALEZ, KEVIN": 30,
+    "HOLGADO RODRIGUEZ, IKER": 21,
+    "FLOR MARTINEZ, OIER": 40,
+    "ALONSO CRUZ, DIEGO": 52,
+    "DASILVA PEREIRA, EDUARDO": 90,
+    "NGOUNOU NCHAMA, NEREO STEVE": 90,
+    "PORRAS CADELO, MATEO": 90,
+    "GARCIA MORENO, MARIO": 90,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 90,
+    "RUIZ ORTEGA, RODRIGO": 90,
+    "GUTIERREZ ABASCAL, MARCOS": 90,
+    "Montenegro Perez, MARCOS GERMAN": 90,
+    "GARCIA CASTILLO, JORGE": 90,
+    "SAUQUILLO ALONSO, MARCO": 50,
+    "JURNA ANERO, EDUARDO": 38
+  },
+  "portero_local": "VILLASOL GARCIA, MARIO",
+  "portero_visitante": "FLOR MARTINEZ, OIER",
+  "dorsales_local": {
+    "VILLASOL GARCIA, MARIO": 13,
+    "TREVILLA VELA, RAMON": 2,
+    "MAZA FERNANDEZ, IÑIGO": 4,
+    "COBREROS ZUBILLAGA, SAMUEL": 6,
+    "DE LAS HERAS VARONA, ASIER": 7,
+    "LOPEZ GONZALEZ, HUGO": 8,
+    "DEL MORAL ALONSO, RODRIGO": 9,
+    "GALAZ GOMEZ, GUILLERMO": 10,
+    "GOMEZ RANERO, ANDER": 11,
+    "MAZA NOVOA, MARIO": 15,
+    "IBAÑEZ AHEDO, EGOITZ": 18
+  },
+  "dorsales_visitante": {
+    "FLOR MARTINEZ, OIER": 13,
+    "ALONSO CRUZ, DIEGO": 3,
+    "DASILVA PEREIRA, EDUARDO": 5,
+    "NGOUNOU NCHAMA, NEREO STEVE": 7,
+    "PORRAS CADELO, MATEO": 8,
+    "GARCIA MORENO, MARIO": 9,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 10,
+    "RUIZ ORTEGA, RODRIGO": 11,
+    "GUTIERREZ ABASCAL, MARCOS": 12,
+    "Montenegro Perez, MARCOS GERMAN": 17,
+    "GARCIA CASTILLO, JORGE": 18
+  },
+  "suspendidos": []
+}
