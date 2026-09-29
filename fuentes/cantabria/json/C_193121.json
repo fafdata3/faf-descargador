@@ -1,0 +1,245 @@
+{
+  "acta_id": "C_193121",
+  "filename": "Acta_C_193121.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 11,
+  "fecha": "17-11-2024",
+  "hora": "11:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. LAREDO A",
+  "equipo_visitante": "S.D. PEÑA REVILLA",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GRANDE FERNANDEZ, MIGUEL"
+  ],
+  "estadio": "Laredo 2",
+  "ciudad": "Laredo",
+  "goleadores": [
+    {
+      "minuto": 36,
+      "jugador": "ARRATE ORTIZ, JUAN MARIA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "ARENAS GÓMEZ, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "SARABIA PARDO, ASIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "AGUILERA AGUILERA, FERNANDO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "MARTÍNEZ MADRAZO, ANDREA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CAGIGAS TABARES, ALBERTO",
+  "entrenador_visitante": "RUIZ GARCIA, ALEJANDRO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ROMANO ROSEÑADA, DAVID",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ OSORIO, JORGE",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PELLON FUENTES, NICOLAS",
+    "RUEDA FONFRIA, DANIEL",
+    "FERNANDEZ ARANCHETA, IZAN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "SARABIA PARDO, ASIER",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "COBO HERVELLA, GONZALO",
+    "FELICES VIVANCO, MARCO",
+    "AGUILERA AGUILERA, FERNANDO",
+    "POSTIGO MIGUEL, ALVARO"
+  ],
+  "titulares_visitante": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "GONZALEZ BOCANEGRA, IZAN",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "NARVAEZ GOMEZ, HUGO",
+    "VELEZ MEDINA, ALEXANDER",
+    "SAEZ HERNANDEZ, MARCOS",
+    "ARENAS GÓMEZ, MARIO",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "NÚÑEZ GALINDO, DIEGO"
+  ],
+  "suplentes_local": [
+    "HAZAS SANTOS, DENNIS",
+    "AGUILERA AGUILERA, DIEGO",
+    "MAZA SILVAN, AITOR",
+    "LOPEZ DURAN, FABIO"
+  ],
+  "suplentes_visitante": [
+    "MOLLEDA DEL OLMO, ADRIAN",
+    "CALVO GONZALEZ, MATEO",
+    "PEREZ CASTRO, MARCO",
+    "DÍEZ DOBARGANES, LUCAS",
+    "PÓO TORRES, AARÓN"
+  ],
+  "convocados_sin_jugar_local": [
+    "LOPEZ DURAN, FABIO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MOLLEDA DEL OLMO, ADRIAN"
+  ],
+  "jugadores_local": [
+    "PELLON FUENTES, NICOLAS",
+    "RUEDA FONFRIA, DANIEL",
+    "FERNANDEZ ARANCHETA, IZAN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "SARABIA PARDO, ASIER",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "COBO HERVELLA, GONZALO",
+    "FELICES VIVANCO, MARCO",
+    "AGUILERA AGUILERA, FERNANDO",
+    "POSTIGO MIGUEL, ALVARO",
+    "MAZA SILVAN, AITOR",
+    "HAZAS SANTOS, DENNIS",
+    "AGUILERA AGUILERA, DIEGO"
+  ],
+  "jugadores_visitante": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "GONZALEZ BOCANEGRA, IZAN",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "NARVAEZ GOMEZ, HUGO",
+    "VELEZ MEDINA, ALEXANDER",
+    "SAEZ HERNANDEZ, MARCOS",
+    "ARENAS GÓMEZ, MARIO",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "NÚÑEZ GALINDO, DIEGO",
+    "PÓO TORRES, AARÓN",
+    "DÍEZ DOBARGANES, LUCAS",
+    "CALVO GONZALEZ, MATEO",
+    "PEREZ CASTRO, MARCO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "MAZA SILVAN, AITOR",
+      "sale": "AGUILERA AGUILERA, FERNANDO"
+    },
+    {
+      "min": 69,
+      "entra": "HAZAS SANTOS, DENNIS",
+      "sale": "COBO HERVELLA, GONZALO"
+    },
+    {
+      "min": 72,
+      "entra": "AGUILERA AGUILERA, DIEGO",
+      "sale": "POSTIGO MIGUEL, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "PÓO TORRES, AARÓN",
+      "sale": "NÚÑEZ GALINDO, DIEGO"
+    },
+    {
+      "min": 45,
+      "entra": "DÍEZ DOBARGANES, LUCAS",
+      "sale": "NARVAEZ GOMEZ, HUGO"
+    },
+    {
+      "min": 65,
+      "entra": "CALVO GONZALEZ, MATEO",
+      "sale": "ZULUAGA CATAÑO, CARLOS FELIPE"
+    },
+    {
+      "min": 65,
+      "entra": "PEREZ CASTRO, MARCO",
+      "sale": "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PELLON FUENTES, NICOLAS": 90,
+    "RUEDA FONFRIA, DANIEL": 90,
+    "FERNANDEZ ARANCHETA, IZAN": 90,
+    "SARABIA CAVIEDES, JANO ISIDRO": 90,
+    "SARABIA PARDO, ASIER": 90,
+    "MARTÍNEZ MADRAZO, ANDREA": 90,
+    "ARRATE ORTIZ, JUAN MARIA": 90,
+    "COBO HERVELLA, GONZALO": 69,
+    "FELICES VIVANCO, MARCO": 90,
+    "AGUILERA AGUILERA, FERNANDO": 52,
+    "POSTIGO MIGUEL, ALVARO": 72,
+    "MAZA SILVAN, AITOR": 38,
+    "HAZAS SANTOS, DENNIS": 21,
+    "AGUILERA AGUILERA, DIEGO": 18,
+    "CORONADO RUIZ, ALEJANDRO": 90,
+    "GONZALEZ BOCANEGRA, IZAN": 90,
+    "GUARDEÑO KRASIMIROV, DANIEL": 90,
+    "PASCAL, DAVID OCTAVIAN": 90,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 65,
+    "NARVAEZ GOMEZ, HUGO": 45,
+    "VELEZ MEDINA, ALEXANDER": 90,
+    "SAEZ HERNANDEZ, MARCOS": 90,
+    "ARENAS GÓMEZ, MARIO": 90,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 65,
+    "NÚÑEZ GALINDO, DIEGO": 45,
+    "PÓO TORRES, AARÓN": 45,
+    "DÍEZ DOBARGANES, LUCAS": 45,
+    "CALVO GONZALEZ, MATEO": 25,
+    "PEREZ CASTRO, MARCO": 25
+  },
+  "portero_local": "PELLON FUENTES, NICOLAS",
+  "portero_visitante": "CORONADO RUIZ, ALEJANDRO",
+  "dorsales_local": {
+    "PELLON FUENTES, NICOLAS": 13,
+    "RUEDA FONFRIA, DANIEL": 3,
+    "FERNANDEZ ARANCHETA, IZAN": 4,
+    "SARABIA CAVIEDES, JANO ISIDRO": 5,
+    "SARABIA PARDO, ASIER": 7,
+    "MARTÍNEZ MADRAZO, ANDREA": 9,
+    "ARRATE ORTIZ, JUAN MARIA": 10,
+    "COBO HERVELLA, GONZALO": 14,
+    "FELICES VIVANCO, MARCO": 15,
+    "AGUILERA AGUILERA, FERNANDO": 22,
+    "POSTIGO MIGUEL, ALVARO": 91
+  },
+  "dorsales_visitante": {
+    "CORONADO RUIZ, ALEJANDRO": 1,
+    "GONZALEZ BOCANEGRA, IZAN": 2,
+    "GUARDEÑO KRASIMIROV, DANIEL": 3,
+    "PASCAL, DAVID OCTAVIAN": 4,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 5,
+    "NARVAEZ GOMEZ, HUGO": 6,
+    "VELEZ MEDINA, ALEXANDER": 7,
+    "SAEZ HERNANDEZ, MARCOS": 8,
+    "ARENAS GÓMEZ, MARIO": 9,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 10,
+    "NÚÑEZ GALINDO, DIEGO": 11
+  },
+  "suspendidos": []
+}
