@@ -1,0 +1,253 @@
+{
+  "acta_id": "C_171409",
+  "filename": "Acta_C_171409.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 29,
+  "fecha": "27-04-2024",
+  "hora": "17:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "E.M.F. SANTOÑA",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "IBÁÑEZ PRIETO, RAÚL"
+  ],
+  "estadio": "Santoña 1",
+  "ciudad": "Santoña",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "PEREZ NOVAL, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 35,
+      "jugador": "PAÑEDA BOLADO, FERNANDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "SOLANA OCERIN, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "VALLE MARTINEZ, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "SOLANA OCERIN, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "MONTES SANZ, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "MONTES SANZ, SERGIO",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "SALCINES PRIETO, LUIS FELIPE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LARRAÑAGA TUÑON, JUAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LARRAÑAGA TUÑON, JUAN",
+  "delegado_equipo_visitante": "PAÑEDA PORTILLA, JOSE ANGEL",
+  "titulares_local": [
+    "ALONSO SANCHEZ, FERNANDO",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "ALONSO MAZA, AIMAR",
+    "DIEZ PALOMARES, DIEGO",
+    "SAN MILLAN BECERRA, DYLAN",
+    "VALLE MARTINEZ, IZAN",
+    "MONTES SANZ, SERGIO",
+    "RESTREPO VALENCIA, ALEJANDRO",
+    "BLANCO GONZALEZ, OIER",
+    "SOLANO PRADA, VICTOR",
+    "GARCIA GAÑANA, ANDER"
+  ],
+  "titulares_visitante": [
+    "GARCIA CRUZ, IKER",
+    "MUÑOZ BARQUIN, DIEGO",
+    "ALONSO GARCIA, DANIEL",
+    "ALVAREZ PEREZ, PABLO",
+    "GONZALEZ PRIETO, ARIAN",
+    "SALCINES ZARCO, IZAN",
+    "SOLANA OCERIN, IVAN",
+    "MALDONADO RUIZ, HECTOR",
+    "PAÑEDA BOLADO, FERNANDO",
+    "ARCE ABASCAL, RUBEN",
+    "PEREZ NOVAL, LUCAS"
+  ],
+  "suplentes_local": [
+    "XIANG, JUNKAI",
+    "GARCIA PEREZ, ASIER",
+    "SOLANA FERNANDEZ, ALEJANDRO"
+  ],
+  "suplentes_visitante": [
+    "CABEZA ZARCO, DANIEL",
+    "BERNARDO BECARES, MARIO",
+    "FALAGAN DIAZ, MARIO",
+    "SAN MIGUEL SUAREZ, PABLO",
+    "POLETAEVI, LUKA"
+  ],
+  "convocados_sin_jugar_local": [
+    "XIANG, JUNKAI",
+    "SOLANA FERNANDEZ, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ALONSO SANCHEZ, FERNANDO",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "ALONSO MAZA, AIMAR",
+    "DIEZ PALOMARES, DIEGO",
+    "SAN MILLAN BECERRA, DYLAN",
+    "VALLE MARTINEZ, IZAN",
+    "MONTES SANZ, SERGIO",
+    "RESTREPO VALENCIA, ALEJANDRO",
+    "BLANCO GONZALEZ, OIER",
+    "SOLANO PRADA, VICTOR",
+    "GARCIA GAÑANA, ANDER",
+    "GARCIA PEREZ, ASIER"
+  ],
+  "jugadores_visitante": [
+    "GARCIA CRUZ, IKER",
+    "MUÑOZ BARQUIN, DIEGO",
+    "ALONSO GARCIA, DANIEL",
+    "ALVAREZ PEREZ, PABLO",
+    "GONZALEZ PRIETO, ARIAN",
+    "SALCINES ZARCO, IZAN",
+    "SOLANA OCERIN, IVAN",
+    "MALDONADO RUIZ, HECTOR",
+    "PAÑEDA BOLADO, FERNANDO",
+    "ARCE ABASCAL, RUBEN",
+    "PEREZ NOVAL, LUCAS",
+    "FALAGAN DIAZ, MARIO",
+    "CABEZA ZARCO, DANIEL",
+    "BERNARDO BECARES, MARIO",
+    "SAN MIGUEL SUAREZ, PABLO",
+    "POLETAEVI, LUKA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "GARCIA PEREZ, ASIER",
+      "sale": "DIEZ PALOMARES, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "FALAGAN DIAZ, MARIO",
+      "sale": "MALDONADO RUIZ, HECTOR"
+    },
+    {
+      "min": 55,
+      "entra": "CABEZA ZARCO, DANIEL",
+      "sale": "MUÑOZ BARQUIN, DIEGO"
+    },
+    {
+      "min": 55,
+      "entra": "BERNARDO BECARES, MARIO",
+      "sale": "ALVAREZ PEREZ, PABLO"
+    },
+    {
+      "min": 59,
+      "entra": "SAN MIGUEL SUAREZ, PABLO",
+      "sale": "PEREZ NOVAL, LUCAS"
+    },
+    {
+      "min": 63,
+      "entra": "POLETAEVI, LUKA",
+      "sale": "SALCINES ZARCO, IZAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALONSO SANCHEZ, FERNANDO": 90,
+    "ANSOLA FERNANDEZ, VINDIO": 90,
+    "ALONSO MAZA, AIMAR": 90,
+    "DIEZ PALOMARES, DIEGO": 59,
+    "SAN MILLAN BECERRA, DYLAN": 90,
+    "VALLE MARTINEZ, IZAN": 90,
+    "MONTES SANZ, SERGIO": 90,
+    "RESTREPO VALENCIA, ALEJANDRO": 90,
+    "BLANCO GONZALEZ, OIER": 90,
+    "SOLANO PRADA, VICTOR": 90,
+    "GARCIA GAÑANA, ANDER": 90,
+    "GARCIA PEREZ, ASIER": 31,
+    "GARCIA CRUZ, IKER": 90,
+    "MUÑOZ BARQUIN, DIEGO": 55,
+    "ALONSO GARCIA, DANIEL": 90,
+    "ALVAREZ PEREZ, PABLO": 55,
+    "GONZALEZ PRIETO, ARIAN": 90,
+    "SALCINES ZARCO, IZAN": 63,
+    "SOLANA OCERIN, IVAN": 90,
+    "MALDONADO RUIZ, HECTOR": 55,
+    "PAÑEDA BOLADO, FERNANDO": 90,
+    "ARCE ABASCAL, RUBEN": 90,
+    "PEREZ NOVAL, LUCAS": 59,
+    "FALAGAN DIAZ, MARIO": 35,
+    "CABEZA ZARCO, DANIEL": 35,
+    "BERNARDO BECARES, MARIO": 35,
+    "SAN MIGUEL SUAREZ, PABLO": 31,
+    "POLETAEVI, LUKA": 27
+  },
+  "portero_local": "ALONSO SANCHEZ, FERNANDO",
+  "portero_visitante": "GARCIA CRUZ, IKER",
+  "dorsales_local": {
+    "ALONSO SANCHEZ, FERNANDO": 1,
+    "ANSOLA FERNANDEZ, VINDIO": 4,
+    "ALONSO MAZA, AIMAR": 5,
+    "DIEZ PALOMARES, DIEGO": 7,
+    "SAN MILLAN BECERRA, DYLAN": 8,
+    "VALLE MARTINEZ, IZAN": 9,
+    "MONTES SANZ, SERGIO": 10,
+    "RESTREPO VALENCIA, ALEJANDRO": 11,
+    "BLANCO GONZALEZ, OIER": 12,
+    "SOLANO PRADA, VICTOR": 18,
+    "GARCIA GAÑANA, ANDER": 20
+  },
+  "dorsales_visitante": {
+    "GARCIA CRUZ, IKER": 13,
+    "MUÑOZ BARQUIN, DIEGO": 2,
+    "ALONSO GARCIA, DANIEL": 5,
+    "ALVAREZ PEREZ, PABLO": 6,
+    "GONZALEZ PRIETO, ARIAN": 7,
+    "SALCINES ZARCO, IZAN": 8,
+    "SOLANA OCERIN, IVAN": 9,
+    "MALDONADO RUIZ, HECTOR": 10,
+    "PAÑEDA BOLADO, FERNANDO": 11,
+    "ARCE ABASCAL, RUBEN": 12,
+    "PEREZ NOVAL, LUCAS": 16
+  },
+  "suspendidos": [
+    "MONTES SANZ, SERGIO"
+  ],
+  "_marcador_widget": true
+}
