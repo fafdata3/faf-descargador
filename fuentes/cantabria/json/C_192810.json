@@ -1,0 +1,267 @@
+{
+  "acta_id": "C_192810",
+  "filename": "Acta_C_192810.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 10,
+  "fecha": "09-11-2024",
+  "hora": "12:15",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "REAL RACING CLUB SAD A",
+  "equipo_visitante": "C.AT. PERINES",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DOMINGO FERNÁNDEZ, PABLO"
+  ],
+  "estadio": "Inst. Nando Yosu 3",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "MUNIENTE CHIOGNA, ALBERTO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "AIFUWA PETER, KELECHI KELVIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 22,
+      "jugador": "GUTIERREZ SANZ, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "SANCHEZ MEDINA, MARCO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "CORTABITARTE SOBERON, ILAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "DE LA FUENTE TORRE, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "CANALES VILLA, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "LASTRA CAÑEDO, FIDEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "REVUELTA SOTO, ANDRES",
+  "entrenador_visitante": "MARCOS NUÑEZ, JUAN JOSE",
+  "segundo_entrenador_local": "PALAZUELOS GARCIA, RUBEN",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RODRIGUEZ PINEY, MIGUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RODRIGUEZ PINEY, MIGUEL",
+  "delegado_equipo_visitante": "GARCIA GARCIA, JUAN PABLO",
+  "titulares_local": [
+    "PIEDRA REVUELTA, GABRIEL",
+    "DIESTRO LANZA, RODRIGO",
+    "SANCHEZ MEDINA, MARCO",
+    "GAITAN PEREZ, PABLO",
+    "PRIETO ALONSO, MARCOS",
+    "GUTIERREZ SANZ, DAVID",
+    "FERNÁNDEZ MONTES, DAVID",
+    "VERDEJA ASTORECA, JORGE",
+    "MUNIENTE CHIOGNA, ALBERTO",
+    "AMBROSIO OBREGON, ENRIQUE MANUEL",
+    "GOMEZ CUEVAS, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "SERTUCHA PEREZ, EDUARDO",
+    "MARTINEZ SANCHEZ, PEDRO",
+    "ROVIRA GUITIAN, RAFAEL",
+    "MARTINEZ MURIEDAS, PABLO",
+    "DE LA FUENTE TORRE, DANIEL",
+    "LAVIN CHAVEZ, MARIO",
+    "CANALES VILLA, IKER",
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+    "HERNANDEZ DÍAZ, IKER",
+    "LOPEZ FERNANDEZ, IAN",
+    "FERNANDEZ FERNANDEZ, IKER"
+  ],
+  "suplentes_local": [
+    "CABIELLES COSIO, MANUEL",
+    "MANTECON TEJEDOR, MARCOS",
+    "DÍEZ SEGUNDO, FERNANDO",
+    "AIFUWA PETER, KELECHI KELVIN",
+    "CORTABITARTE SOBERON, ILAN"
+  ],
+  "suplentes_visitante": [
+    "GUTIERREZ FERNANDEZ, LUCAS",
+    "LASTRA CAÑEDO, FIDEL",
+    "ORDAX IBAÑEZ, DAVID",
+    "CARRASCAL RUIZ, IZAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "CABIELLES COSIO, MANUEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GUTIERREZ FERNANDEZ, LUCAS"
+  ],
+  "jugadores_local": [
+    "PIEDRA REVUELTA, GABRIEL",
+    "DIESTRO LANZA, RODRIGO",
+    "SANCHEZ MEDINA, MARCO",
+    "GAITAN PEREZ, PABLO",
+    "PRIETO ALONSO, MARCOS",
+    "GUTIERREZ SANZ, DAVID",
+    "FERNÁNDEZ MONTES, DAVID",
+    "VERDEJA ASTORECA, JORGE",
+    "MUNIENTE CHIOGNA, ALBERTO",
+    "AMBROSIO OBREGON, ENRIQUE MANUEL",
+    "GOMEZ CUEVAS, RODRIGO",
+    "MANTECON TEJEDOR, MARCOS",
+    "AIFUWA PETER, KELECHI KELVIN",
+    "CORTABITARTE SOBERON, ILAN",
+    "DÍEZ SEGUNDO, FERNANDO"
+  ],
+  "jugadores_visitante": [
+    "SERTUCHA PEREZ, EDUARDO",
+    "MARTINEZ SANCHEZ, PEDRO",
+    "ROVIRA GUITIAN, RAFAEL",
+    "MARTINEZ MURIEDAS, PABLO",
+    "DE LA FUENTE TORRE, DANIEL",
+    "LAVIN CHAVEZ, MARIO",
+    "CANALES VILLA, IKER",
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+    "HERNANDEZ DÍAZ, IKER",
+    "LOPEZ FERNANDEZ, IAN",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "ORDAX IBAÑEZ, DAVID",
+    "LASTRA CAÑEDO, FIDEL",
+    "CARRASCAL RUIZ, IZAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "MANTECON TEJEDOR, MARCOS",
+      "sale": "PRIETO ALONSO, MARCOS"
+    },
+    {
+      "min": 49,
+      "entra": "AIFUWA PETER, KELECHI KELVIN",
+      "sale": "FERNÁNDEZ MONTES, DAVID"
+    },
+    {
+      "min": 49,
+      "entra": "CORTABITARTE SOBERON, ILAN",
+      "sale": "AMBROSIO OBREGON, ENRIQUE MANUEL"
+    },
+    {
+      "min": 49,
+      "entra": "DÍEZ SEGUNDO, FERNANDO",
+      "sale": "MUNIENTE CHIOGNA, ALBERTO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "ORDAX IBAÑEZ, DAVID",
+      "sale": "MARTINEZ SANCHEZ, PEDRO"
+    },
+    {
+      "min": 64,
+      "entra": "LASTRA CAÑEDO, FIDEL",
+      "sale": "HERNANDEZ DÍAZ, IKER"
+    },
+    {
+      "min": 72,
+      "entra": "CARRASCAL RUIZ, IZAN",
+      "sale": "DE LA FUENTE TORRE, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "PIEDRA REVUELTA, GABRIEL": 90,
+    "DIESTRO LANZA, RODRIGO": 90,
+    "SANCHEZ MEDINA, MARCO": 90,
+    "GAITAN PEREZ, PABLO": 90,
+    "PRIETO ALONSO, MARCOS": 40,
+    "GUTIERREZ SANZ, DAVID": 90,
+    "FERNÁNDEZ MONTES, DAVID": 49,
+    "VERDEJA ASTORECA, JORGE": 90,
+    "MUNIENTE CHIOGNA, ALBERTO": 49,
+    "AMBROSIO OBREGON, ENRIQUE MANUEL": 49,
+    "GOMEZ CUEVAS, RODRIGO": 90,
+    "MANTECON TEJEDOR, MARCOS": 50,
+    "AIFUWA PETER, KELECHI KELVIN": 41,
+    "CORTABITARTE SOBERON, ILAN": 41,
+    "DÍEZ SEGUNDO, FERNANDO": 41,
+    "SERTUCHA PEREZ, EDUARDO": 90,
+    "MARTINEZ SANCHEZ, PEDRO": 49,
+    "ROVIRA GUITIAN, RAFAEL": 90,
+    "MARTINEZ MURIEDAS, PABLO": 90,
+    "DE LA FUENTE TORRE, DANIEL": 72,
+    "LAVIN CHAVEZ, MARIO": 90,
+    "CANALES VILLA, IKER": 90,
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY": 90,
+    "HERNANDEZ DÍAZ, IKER": 64,
+    "LOPEZ FERNANDEZ, IAN": 90,
+    "FERNANDEZ FERNANDEZ, IKER": 90,
+    "ORDAX IBAÑEZ, DAVID": 41,
+    "LASTRA CAÑEDO, FIDEL": 26,
+    "CARRASCAL RUIZ, IZAN": 18
+  },
+  "portero_local": "PIEDRA REVUELTA, GABRIEL",
+  "portero_visitante": "SERTUCHA PEREZ, EDUARDO",
+  "dorsales_local": {
+    "PIEDRA REVUELTA, GABRIEL": 1,
+    "DIESTRO LANZA, RODRIGO": 2,
+    "SANCHEZ MEDINA, MARCO": 3,
+    "GAITAN PEREZ, PABLO": 4,
+    "PRIETO ALONSO, MARCOS": 5,
+    "GUTIERREZ SANZ, DAVID": 6,
+    "FERNÁNDEZ MONTES, DAVID": 7,
+    "VERDEJA ASTORECA, JORGE": 8,
+    "MUNIENTE CHIOGNA, ALBERTO": 9,
+    "AMBROSIO OBREGON, ENRIQUE MANUEL": 10,
+    "GOMEZ CUEVAS, RODRIGO": 11
+  },
+  "dorsales_visitante": {
+    "SERTUCHA PEREZ, EDUARDO": 1,
+    "MARTINEZ SANCHEZ, PEDRO": 3,
+    "ROVIRA GUITIAN, RAFAEL": 4,
+    "MARTINEZ MURIEDAS, PABLO": 6,
+    "DE LA FUENTE TORRE, DANIEL": 7,
+    "LAVIN CHAVEZ, MARIO": 8,
+    "CANALES VILLA, IKER": 9,
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY": 11,
+    "HERNANDEZ DÍAZ, IKER": 15,
+    "LOPEZ FERNANDEZ, IAN": 16,
+    "FERNANDEZ FERNANDEZ, IKER": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
