@@ -1,0 +1,246 @@
+{
+  "acta_id": "C_192828",
+  "filename": "Acta_C_192828.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 12,
+  "fecha": "24-11-2024",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "CLUB BANSANDER A",
+  "equipo_visitante": "DEPORTIVO PERINES",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MARTINEZ GONZALEZ, GUILLERMO"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "VIDIELLA GONZALEZ, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "VAN DE WORP HERNANDO, LUKAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "RUIZ NORIEGA, MIGUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "RUIZ NORIEGA, MIGUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "DESIRE BONILLA, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "JIMENEZ NIÑO, DAVID",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SAIZ RUIZ, OSCAR",
+  "entrenador_visitante": "ALEGRIA NUÑEZ, DANIEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SANZ GIL, IGNACIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANZ GIL, IGNACIO",
+  "delegado_equipo_visitante": "ALCANTARA ARCE, ANDRES",
+  "titulares_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GONZALEZ AMOROS, MARCO",
+    "ORALLO GOMEZ, JACOBO",
+    "MOLINA PRADA, MARIO",
+    "PEREZ ASOREY, OIER",
+    "VAN DE WORP HERNANDO, LUKAS",
+    "LIAÑO ABASCAL, ROMAN",
+    "DE SANTIAGO BEZANILLA, GERMAN",
+    "VELASCO GONZALEZ, DARIO",
+    "VIDIELLA GONZALEZ, MARCO",
+    "MARTIN HERRERO, HUGO"
+  ],
+  "titulares_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "LOPEZ GONZALEZ, IZAN",
+    "GOMEZ CONCHA, MATEO",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "DESIRE BONILLA, DANIEL",
+    "PONTONES FERREIRA, MARIO",
+    "CORONA DE MATEO, DAVID",
+    "AZNAR NUÑO, ALEX",
+    "HERRERA CASANOVA, IZAN",
+    "DIAZ ALPISTE, SAMUEL",
+    "VEGA CASAS, CARLOS"
+  ],
+  "suplentes_local": [
+    "GALA RUIZ, HUGO",
+    "QUINTANA GUTIERREZ, JORGE",
+    "RUIZ NORIEGA, MIGUEL",
+    "CANALES CHAMIZO, GONZALO"
+  ],
+  "suplentes_visitante": [
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "JIMENEZ NIÑO, DAVID",
+    "COTERILLO COBO, MATEO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GONZALEZ AMOROS, MARCO",
+    "ORALLO GOMEZ, JACOBO",
+    "MOLINA PRADA, MARIO",
+    "PEREZ ASOREY, OIER",
+    "VAN DE WORP HERNANDO, LUKAS",
+    "LIAÑO ABASCAL, ROMAN",
+    "DE SANTIAGO BEZANILLA, GERMAN",
+    "VELASCO GONZALEZ, DARIO",
+    "VIDIELLA GONZALEZ, MARCO",
+    "MARTIN HERRERO, HUGO",
+    "RUIZ NORIEGA, MIGUEL",
+    "CANALES CHAMIZO, GONZALO",
+    "GALA RUIZ, HUGO",
+    "QUINTANA GUTIERREZ, JORGE"
+  ],
+  "jugadores_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "LOPEZ GONZALEZ, IZAN",
+    "GOMEZ CONCHA, MATEO",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "DESIRE BONILLA, DANIEL",
+    "PONTONES FERREIRA, MARIO",
+    "CORONA DE MATEO, DAVID",
+    "AZNAR NUÑO, ALEX",
+    "HERRERA CASANOVA, IZAN",
+    "DIAZ ALPISTE, SAMUEL",
+    "VEGA CASAS, CARLOS",
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "COTERILLO COBO, MATEO",
+    "JIMENEZ NIÑO, DAVID"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "RUIZ NORIEGA, MIGUEL",
+      "sale": "PEREZ ASOREY, OIER"
+    },
+    {
+      "min": 50,
+      "entra": "CANALES CHAMIZO, GONZALO",
+      "sale": "VAN DE WORP HERNANDO, LUKAS"
+    },
+    {
+      "min": 53,
+      "entra": "GALA RUIZ, HUGO",
+      "sale": "DE SANTIAGO BEZANILLA, GERMAN"
+    },
+    {
+      "min": 58,
+      "entra": "QUINTANA GUTIERREZ, JORGE",
+      "sale": "LIAÑO ABASCAL, ROMAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "RODRIGUEZ RODRIGUEZ, CARLOS",
+      "sale": "LOPEZ GONZALEZ, IZAN"
+    },
+    {
+      "min": 49,
+      "entra": "COTERILLO COBO, MATEO",
+      "sale": "HERRERA CASANOVA, IZAN"
+    },
+    {
+      "min": 49,
+      "entra": "JIMENEZ NIÑO, DAVID",
+      "sale": "DIAZ ALPISTE, SAMUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRIZ ESTEBANEZ, ALBERTO": 90,
+    "GONZALEZ AMOROS, MARCO": 90,
+    "ORALLO GOMEZ, JACOBO": 90,
+    "MOLINA PRADA, MARIO": 90,
+    "PEREZ ASOREY, OIER": 41,
+    "VAN DE WORP HERNANDO, LUKAS": 50,
+    "LIAÑO ABASCAL, ROMAN": 58,
+    "DE SANTIAGO BEZANILLA, GERMAN": 53,
+    "VELASCO GONZALEZ, DARIO": 90,
+    "VIDIELLA GONZALEZ, MARCO": 90,
+    "MARTIN HERRERO, HUGO": 90,
+    "RUIZ NORIEGA, MIGUEL": 49,
+    "CANALES CHAMIZO, GONZALO": 40,
+    "GALA RUIZ, HUGO": 37,
+    "QUINTANA GUTIERREZ, JORGE": 32,
+    "CUENDE RAMOS, YAGO": 90,
+    "LOPEZ GONZALEZ, IZAN": 41,
+    "GOMEZ CONCHA, MATEO": 90,
+    "SAN MIGUEL VÉLEZ, HUGO": 90,
+    "DESIRE BONILLA, DANIEL": 90,
+    "PONTONES FERREIRA, MARIO": 90,
+    "CORONA DE MATEO, DAVID": 90,
+    "AZNAR NUÑO, ALEX": 90,
+    "HERRERA CASANOVA, IZAN": 49,
+    "DIAZ ALPISTE, SAMUEL": 49,
+    "VEGA CASAS, CARLOS": 90,
+    "RODRIGUEZ RODRIGUEZ, CARLOS": 49,
+    "COTERILLO COBO, MATEO": 41,
+    "JIMENEZ NIÑO, DAVID": 41
+  },
+  "portero_local": "BRIZ ESTEBANEZ, ALBERTO",
+  "portero_visitante": "CUENDE RAMOS, YAGO",
+  "dorsales_local": {
+    "BRIZ ESTEBANEZ, ALBERTO": 1,
+    "GONZALEZ AMOROS, MARCO": 3,
+    "ORALLO GOMEZ, JACOBO": 4,
+    "MOLINA PRADA, MARIO": 5,
+    "PEREZ ASOREY, OIER": 6,
+    "VAN DE WORP HERNANDO, LUKAS": 9,
+    "LIAÑO ABASCAL, ROMAN": 10,
+    "DE SANTIAGO BEZANILLA, GERMAN": 11,
+    "VELASCO GONZALEZ, DARIO": 16,
+    "VIDIELLA GONZALEZ, MARCO": 17,
+    "MARTIN HERRERO, HUGO": 18
+  },
+  "dorsales_visitante": {
+    "CUENDE RAMOS, YAGO": 13,
+    "LOPEZ GONZALEZ, IZAN": 3,
+    "GOMEZ CONCHA, MATEO": 4,
+    "SAN MIGUEL VÉLEZ, HUGO": 5,
+    "DESIRE BONILLA, DANIEL": 7,
+    "PONTONES FERREIRA, MARIO": 8,
+    "CORONA DE MATEO, DAVID": 10,
+    "AZNAR NUÑO, ALEX": 12,
+    "HERRERA CASANOVA, IZAN": 18,
+    "DIAZ ALPISTE, SAMUEL": 19,
+    "VEGA CASAS, CARLOS": 20
+  },
+  "suspendidos": []
+}
