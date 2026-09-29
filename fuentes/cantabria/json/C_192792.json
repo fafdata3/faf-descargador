@@ -1,0 +1,258 @@
+{
+  "acta_id": "C_192792",
+  "filename": "Acta_C_192792.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "26-10-2024",
+  "hora": "12:30",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT A",
+  "equipo_visitante": "C.D. MONTE A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GALLO ARENAS, ALVARO"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 49,
+      "jugador": "TOSIO CAPDEVILA, JAIME",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "SAÑUDO MIER, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "ASON BALAGUER, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "GARCIA GARCIA, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 12,
+      "jugador": "DE SILONIZ MARTINEZ, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 25,
+      "jugador": "MONTES RIEGA, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 25,
+      "jugador": "MENDIGUCHIA MONTES, AITOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 33,
+      "jugador": "MONTES RIEGA, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "CAVIA ROIG, GERARDO",
+  "entrenador_visitante": "MONTES RIEGA, ADRIAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VEGA GUTIERREZ, JUAN",
+  "delegado_equipo_visitante": "MENDIGUCHIA MONTES, AITOR",
+  "titulares_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "COLLANTES GOMEZ, HUGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "DE ANGEL BATYREV, LUCAS",
+    "GARCIA AGUADO, DANIEL",
+    "GONZALEZ CAMUS, MARCO",
+    "ASON BALAGUER, MARIO",
+    "RUIZ SAIZ, MARIO",
+    "GARCIA GARCIA, MARCOS",
+    "RUBIN MUÑOZ, MICHEL",
+    "FUENTES PALLEJA, ERIK"
+  ],
+  "titulares_visitante": [
+    "VEGA GUTIERREZ, ALBERTO",
+    "SAÑUDO MIER, NICOLAS",
+    "SOLAR LAVIN, EDUARDO",
+    "GIL PANDO, ALEJANDRO",
+    "DE SILONIZ MARTINEZ, DANIEL",
+    "PEREZ BUSTAMANTE, FERNANDO",
+    "CARRASCO ALBA, ARES",
+    "OJEA ALONSO, HUGO",
+    "TOSIO CAPDEVILA, JAIME",
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL",
+    "URIARTE MADRAZO, ADRIAN"
+  ],
+  "suplentes_local": [
+    "agudo cuenca, DIEGO",
+    "REY LASTRA, JOSE LUIS",
+    "Flor Martinez, IAGO"
+  ],
+  "suplentes_visitante": [
+    "REVILLA REYES, ALVARO",
+    "AYOVI LASTRA, JOEL ALEXANDER",
+    "FERRADAS GONZALEZ-CORDERO, DIEGO",
+    "ELORZA, KYLE JASON"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "REVILLA REYES, ALVARO"
+  ],
+  "jugadores_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "COLLANTES GOMEZ, HUGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "DE ANGEL BATYREV, LUCAS",
+    "GARCIA AGUADO, DANIEL",
+    "GONZALEZ CAMUS, MARCO",
+    "ASON BALAGUER, MARIO",
+    "RUIZ SAIZ, MARIO",
+    "GARCIA GARCIA, MARCOS",
+    "RUBIN MUÑOZ, MICHEL",
+    "FUENTES PALLEJA, ERIK",
+    "Flor Martinez, IAGO",
+    "agudo cuenca, DIEGO",
+    "REY LASTRA, JOSE LUIS"
+  ],
+  "jugadores_visitante": [
+    "VEGA GUTIERREZ, ALBERTO",
+    "SAÑUDO MIER, NICOLAS",
+    "SOLAR LAVIN, EDUARDO",
+    "GIL PANDO, ALEJANDRO",
+    "DE SILONIZ MARTINEZ, DANIEL",
+    "PEREZ BUSTAMANTE, FERNANDO",
+    "CARRASCO ALBA, ARES",
+    "OJEA ALONSO, HUGO",
+    "TOSIO CAPDEVILA, JAIME",
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL",
+    "URIARTE MADRAZO, ADRIAN",
+    "FERRADAS GONZALEZ-CORDERO, DIEGO",
+    "AYOVI LASTRA, JOEL ALEXANDER",
+    "ELORZA, KYLE JASON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "Flor Martinez, IAGO",
+      "sale": "GONZALEZ CAMUS, MARCO"
+    },
+    {
+      "min": 65,
+      "entra": "agudo cuenca, DIEGO",
+      "sale": "COLLANTES GOMEZ, HUGO"
+    },
+    {
+      "min": 65,
+      "entra": "REY LASTRA, JOSE LUIS",
+      "sale": "GARCIA AGUADO, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "FERRADAS GONZALEZ-CORDERO, DIEGO",
+      "sale": "CARRASCO ALBA, ARES"
+    },
+    {
+      "min": 68,
+      "entra": "AYOVI LASTRA, JOEL ALEXANDER",
+      "sale": "PEREZ BUSTAMANTE, FERNANDO"
+    },
+    {
+      "min": 72,
+      "entra": "ELORZA, KYLE JASON",
+      "sale": "TOSIO CAPDEVILA, JAIME"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ GOMEZ, HUGO": 90,
+    "COLLANTES GOMEZ, HUGO": 65,
+    "PORTILLA CAMUS, ALEJANDRO": 90,
+    "DE ANGEL BATYREV, LUCAS": 90,
+    "GARCIA AGUADO, DANIEL": 65,
+    "GONZALEZ CAMUS, MARCO": 55,
+    "ASON BALAGUER, MARIO": 90,
+    "RUIZ SAIZ, MARIO": 90,
+    "GARCIA GARCIA, MARCOS": 90,
+    "RUBIN MUÑOZ, MICHEL": 90,
+    "FUENTES PALLEJA, ERIK": 90,
+    "Flor Martinez, IAGO": 35,
+    "agudo cuenca, DIEGO": 25,
+    "REY LASTRA, JOSE LUIS": 25,
+    "VEGA GUTIERREZ, ALBERTO": 90,
+    "SAÑUDO MIER, NICOLAS": 90,
+    "SOLAR LAVIN, EDUARDO": 90,
+    "GIL PANDO, ALEJANDRO": 90,
+    "DE SILONIZ MARTINEZ, DANIEL": 90,
+    "PEREZ BUSTAMANTE, FERNANDO": 68,
+    "CARRASCO ALBA, ARES": 40,
+    "OJEA ALONSO, HUGO": 90,
+    "TOSIO CAPDEVILA, JAIME": 72,
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL": 90,
+    "URIARTE MADRAZO, ADRIAN": 90,
+    "FERRADAS GONZALEZ-CORDERO, DIEGO": 50,
+    "AYOVI LASTRA, JOEL ALEXANDER": 22,
+    "ELORZA, KYLE JASON": 18
+  },
+  "portero_local": "RODRIGUEZ GOMEZ, HUGO",
+  "portero_visitante": "VEGA GUTIERREZ, ALBERTO",
+  "dorsales_local": {
+    "RODRIGUEZ GOMEZ, HUGO": 1,
+    "COLLANTES GOMEZ, HUGO": 2,
+    "PORTILLA CAMUS, ALEJANDRO": 3,
+    "DE ANGEL BATYREV, LUCAS": 5,
+    "GARCIA AGUADO, DANIEL": 7,
+    "GONZALEZ CAMUS, MARCO": 8,
+    "ASON BALAGUER, MARIO": 11,
+    "RUIZ SAIZ, MARIO": 14,
+    "GARCIA GARCIA, MARCOS": 15,
+    "RUBIN MUÑOZ, MICHEL": 17,
+    "FUENTES PALLEJA, ERIK": 18
+  },
+  "dorsales_visitante": {
+    "VEGA GUTIERREZ, ALBERTO": 1,
+    "SAÑUDO MIER, NICOLAS": 3,
+    "SOLAR LAVIN, EDUARDO": 4,
+    "GIL PANDO, ALEJANDRO": 5,
+    "DE SILONIZ MARTINEZ, DANIEL": 7,
+    "PEREZ BUSTAMANTE, FERNANDO": 9,
+    "CARRASCO ALBA, ARES": 10,
+    "OJEA ALONSO, HUGO": 11,
+    "TOSIO CAPDEVILA, JAIME": 12,
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL": 14,
+    "URIARTE MADRAZO, ADRIAN": 16
+  },
+  "suspendidos": [
+    "MONTES RIEGA, ADRIAN"
+  ],
+  "_marcador_widget": true
+}
