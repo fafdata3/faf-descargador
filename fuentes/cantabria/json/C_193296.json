@@ -1,0 +1,264 @@
+{
+  "acta_id": "C_193296",
+  "filename": "Acta_C_193296.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 30,
+  "fecha": "27-04-2025",
+  "hora": "12:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "REAL RACING CLUB SAD B",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "HAYA CARRAL, SAMUEL"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 54,
+      "jugador": "DE LA GRANJA PEREZ, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "GUTIERREZ RUIZ, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "GUTIERREZ RUIZ, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 10,
+      "jugador": "DEL CASTILLO SARAÑANA, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "DIAZ DIAZ, GONZALO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CICERO MONTES, RAFAEL",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GOMEZ ALVARO, JOSE ANTONIO",
+  "delegado_campo_local": "MONTES VACAS, VICENTE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MONTES VACAS, VICENTE",
+  "delegado_equipo_visitante": "BOUWE KAMGA, ULRICH BRICE",
+  "titulares_local": [
+    "GRANDE SALVADOR, GAEL",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "NOVOA TARDÍO, HUGO",
+    "GONZALEZ BENITO, PABLO",
+    "ROBETA DIAZ, JORGE",
+    "MARTINEZ PEREZ, MIGUEL",
+    "ROJO CANADELL, ALEJANDRO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "DIAZ DIAZ, GONZALO",
+    "HERRERA RUIZ, ADAHY",
+    "VELARDE VEGA, HECTOR"
+  ],
+  "titulares_visitante": [
+    "LAVIN DEL HOYO, RAUL",
+    "GUTIERREZ RUIZ, MATEO",
+    "MARTINEZ CALVO, DANIEL",
+    "GARCIA VARELA, ALAN",
+    "DE LA GRANJA PEREZ, HUGO",
+    "PRESMANES PADILLA, IKER",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "GOMEZ SERRANO, MANUEL",
+    "MARTINEZ MONTERO, MANUEL",
+    "TEJERO ESTEBAN, MIGUEL",
+    "RODRIGUEZ SANCHEZ, MATEO"
+  ],
+  "suplentes_local": [
+    "CRESPO SÁINZ, ÁNGEL",
+    "DAVIES MORRISON, RAFAEL",
+    "GONZALEZ RUIZ, ALVARO",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "HORNERO PEREZ, ROMAN"
+  ],
+  "suplentes_visitante": [
+    "PEÑA DIEZ, DAVID",
+    "SAN EMETERIO ISA, RAUL",
+    "LOPEZ ARJONA, DANIEL THERA",
+    "BUENO CASTILLO, DANIEL",
+    "COROZO TARIRA, SAMUEL LENIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GRANDE SALVADOR, GAEL",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "NOVOA TARDÍO, HUGO",
+    "GONZALEZ BENITO, PABLO",
+    "ROBETA DIAZ, JORGE",
+    "MARTINEZ PEREZ, MIGUEL",
+    "ROJO CANADELL, ALEJANDRO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "DIAZ DIAZ, GONZALO",
+    "HERRERA RUIZ, ADAHY",
+    "VELARDE VEGA, HECTOR",
+    "DAVIES MORRISON, RAFAEL",
+    "HORNERO PEREZ, ROMAN",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "GONZALEZ RUIZ, ALVARO",
+    "CRESPO SÁINZ, ÁNGEL"
+  ],
+  "jugadores_visitante": [
+    "LAVIN DEL HOYO, RAUL",
+    "GUTIERREZ RUIZ, MATEO",
+    "MARTINEZ CALVO, DANIEL",
+    "GARCIA VARELA, ALAN",
+    "DE LA GRANJA PEREZ, HUGO",
+    "PRESMANES PADILLA, IKER",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "GOMEZ SERRANO, MANUEL",
+    "MARTINEZ MONTERO, MANUEL",
+    "TEJERO ESTEBAN, MIGUEL",
+    "RODRIGUEZ SANCHEZ, MATEO",
+    "PEÑA DIEZ, DAVID",
+    "COROZO TARIRA, SAMUEL LENIN",
+    "LOPEZ ARJONA, DANIEL THERA",
+    "SAN EMETERIO ISA, RAUL",
+    "BUENO CASTILLO, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "DAVIES MORRISON, RAFAEL",
+      "sale": "DEL CASTILLO SARAÑANA, LUCAS"
+    },
+    {
+      "min": 48,
+      "entra": "HORNERO PEREZ, ROMAN",
+      "sale": "ROJO CANADELL, ALEJANDRO"
+    },
+    {
+      "min": 52,
+      "entra": "GOMEZ CABIELLES, ALEJANDRO",
+      "sale": "GONZALEZ BENITO, PABLO"
+    },
+    {
+      "min": 57,
+      "entra": "GONZALEZ RUIZ, ALVARO",
+      "sale": "NOVOA TARDÍO, HUGO"
+    },
+    {
+      "min": 60,
+      "entra": "CRESPO SÁINZ, ÁNGEL",
+      "sale": "VELARDE VEGA, HECTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "PEÑA DIEZ, DAVID",
+      "sale": "LAVIN DEL HOYO, RAUL"
+    },
+    {
+      "min": 41,
+      "entra": "COROZO TARIRA, SAMUEL LENIN",
+      "sale": "GOMEZ SERRANO, MANUEL"
+    },
+    {
+      "min": 41,
+      "entra": "LOPEZ ARJONA, DANIEL THERA",
+      "sale": "RODRIGUEZ SANCHEZ, MATEO"
+    },
+    {
+      "min": 41,
+      "entra": "SAN EMETERIO ISA, RAUL",
+      "sale": "MARTINEZ MONTERO, MANUEL"
+    },
+    {
+      "min": 48,
+      "entra": "BUENO CASTILLO, DANIEL",
+      "sale": "TRESGALLO RODRIGUEZ, ULISES"
+    }
+  ],
+  "minutos_jugadores": {
+    "GRANDE SALVADOR, GAEL": 90,
+    "DEL CASTILLO SARAÑANA, LUCAS": 46,
+    "NOVOA TARDÍO, HUGO": 57,
+    "GONZALEZ BENITO, PABLO": 52,
+    "ROBETA DIAZ, JORGE": 90,
+    "MARTINEZ PEREZ, MIGUEL": 90,
+    "ROJO CANADELL, ALEJANDRO": 48,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 90,
+    "DIAZ DIAZ, GONZALO": 90,
+    "HERRERA RUIZ, ADAHY": 90,
+    "VELARDE VEGA, HECTOR": 60,
+    "DAVIES MORRISON, RAFAEL": 44,
+    "HORNERO PEREZ, ROMAN": 42,
+    "GOMEZ CABIELLES, ALEJANDRO": 38,
+    "GONZALEZ RUIZ, ALVARO": 33,
+    "CRESPO SÁINZ, ÁNGEL": 30,
+    "LAVIN DEL HOYO, RAUL": 41,
+    "GUTIERREZ RUIZ, MATEO": 90,
+    "MARTINEZ CALVO, DANIEL": 90,
+    "GARCIA VARELA, ALAN": 90,
+    "DE LA GRANJA PEREZ, HUGO": 90,
+    "PRESMANES PADILLA, IKER": 90,
+    "TRESGALLO RODRIGUEZ, ULISES": 48,
+    "GOMEZ SERRANO, MANUEL": 41,
+    "MARTINEZ MONTERO, MANUEL": 41,
+    "TEJERO ESTEBAN, MIGUEL": 90,
+    "RODRIGUEZ SANCHEZ, MATEO": 41,
+    "PEÑA DIEZ, DAVID": 49,
+    "COROZO TARIRA, SAMUEL LENIN": 49,
+    "LOPEZ ARJONA, DANIEL THERA": 49,
+    "SAN EMETERIO ISA, RAUL": 49,
+    "BUENO CASTILLO, DANIEL": 42
+  },
+  "portero_local": "GRANDE SALVADOR, GAEL",
+  "portero_visitante": "LAVIN DEL HOYO, RAUL",
+  "dorsales_local": {
+    "GRANDE SALVADOR, GAEL": 13,
+    "DEL CASTILLO SARAÑANA, LUCAS": 4,
+    "NOVOA TARDÍO, HUGO": 7,
+    "GONZALEZ BENITO, PABLO": 8,
+    "ROBETA DIAZ, JORGE": 9,
+    "MARTINEZ PEREZ, MIGUEL": 12,
+    "ROJO CANADELL, ALEJANDRO": 14,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 15,
+    "DIAZ DIAZ, GONZALO": 16,
+    "HERRERA RUIZ, ADAHY": 21,
+    "VELARDE VEGA, HECTOR": 99
+  },
+  "dorsales_visitante": {
+    "LAVIN DEL HOYO, RAUL": 1,
+    "GUTIERREZ RUIZ, MATEO": 2,
+    "MARTINEZ CALVO, DANIEL": 3,
+    "GARCIA VARELA, ALAN": 4,
+    "DE LA GRANJA PEREZ, HUGO": 5,
+    "PRESMANES PADILLA, IKER": 6,
+    "TRESGALLO RODRIGUEZ, ULISES": 7,
+    "GOMEZ SERRANO, MANUEL": 8,
+    "MARTINEZ MONTERO, MANUEL": 9,
+    "TEJERO ESTEBAN, MIGUEL": 10,
+    "RODRIGUEZ SANCHEZ, MATEO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
