@@ -1,0 +1,288 @@
+{
+  "acta_id": "C_193110",
+  "filename": "Acta_C_193110.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 9,
+  "fecha": "02-11-2024",
+  "hora": "15:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. NAVAL A",
+  "equipo_visitante": "CASTRO F.C. A",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GÓMEZ BRIZUELA, ADRIÁN"
+  ],
+  "estadio": "Reinosa",
+  "ciudad": "Reinosa",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "VIZCAYA ALVAREZ, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "RODRÍGUEZ LÓPEZ, JON ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 50,
+      "jugador": "JIMENEZ BARTOLOME, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "GALLARRETA MIQUELARENA, SENDOA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "GOMEZ DEL POZO, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 10,
+      "jugador": "PEREZ HERRERO, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "PEREZ HERRERO, IKER",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "GOMEZ CALVO, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "GOMEZ DEL POZO, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "RODRIGUEZ GOMEZ, HECTOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA GUTIERREZ, JOSE I",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PEREZ LOPEZ, RUBEN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TORICES PEREZ, PEDRO",
+  "delegado_equipo_visitante": "JAUREGUI RECIO, XABIER",
+  "titulares_local": [
+    "PEREZ HERRERO, IKER",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "ALONSO GUERRA, MARCOS",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL",
+    "AGUIRRE BAZA, CRISTIAN DAVID"
+  ],
+  "titulares_visitante": [
+    "CARRASQUILLA VARGAS, XABIER",
+    "FERRERO VILLASANTE, RAUL",
+    "ARRIOLA IRIARTE, HUGO",
+    "RODRIGUEZ GOMEZ, HECTOR",
+    "AGUSTIN PELLON, HUGO",
+    "GALLARRETA MIQUELARENA, SENDOA",
+    "JIMENEZ BARTOLOME, IZAN",
+    "LAISECA ALONSO, EDER",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "GOMEZ ALONSO, HUGO",
+    "VIZCAYA ALVAREZ, ADRIAN"
+  ],
+  "suplentes_local": [
+    "ARGUESO GARCIA, JAVIER",
+    "GOMEZ DEL POZO, ALVARO",
+    "GOMEZ CALVO, ALVARO",
+    "GUTIERREZ VEGA, HECTOR"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ SANTOS, IZAN",
+    "CUEVAS NUÑEZ, UNAI",
+    "CORTES LANDABEREA, RUBEN",
+    "HIGINO FERREIRA, NICOLAS LANDER",
+    "MARTINEZ PEREZ, PABLO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GUTIERREZ VEGA, HECTOR"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PEREZ HERRERO, IKER",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "ALONSO GUERRA, MARCOS",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL",
+    "AGUIRRE BAZA, CRISTIAN DAVID",
+    "GOMEZ DEL POZO, ALVARO",
+    "GOMEZ CALVO, ALVARO",
+    "ARGUESO GARCIA, JAVIER"
+  ],
+  "jugadores_visitante": [
+    "CARRASQUILLA VARGAS, XABIER",
+    "FERRERO VILLASANTE, RAUL",
+    "ARRIOLA IRIARTE, HUGO",
+    "RODRIGUEZ GOMEZ, HECTOR",
+    "AGUSTIN PELLON, HUGO",
+    "GALLARRETA MIQUELARENA, SENDOA",
+    "JIMENEZ BARTOLOME, IZAN",
+    "LAISECA ALONSO, EDER",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "GOMEZ ALONSO, HUGO",
+    "VIZCAYA ALVAREZ, ADRIAN",
+    "HIGINO FERREIRA, NICOLAS LANDER",
+    "MARTINEZ PEREZ, PABLO",
+    "LOPEZ SANTOS, IZAN",
+    "CORTES LANDABEREA, RUBEN",
+    "CUEVAS NUÑEZ, UNAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GOMEZ DEL POZO, ALVARO",
+      "sale": "AGUIRRE BAZA, CRISTIAN DAVID"
+    },
+    {
+      "min": 49,
+      "entra": "GOMEZ CALVO, ALVARO",
+      "sale": "LOPEZ GUTIERREZ, ALONSO"
+    },
+    {
+      "min": 60,
+      "entra": "ARGUESO GARCIA, JAVIER",
+      "sale": "MACHO RUIZ, LUCAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "HIGINO FERREIRA, NICOLAS LANDER",
+      "sale": "GOMEZ ALONSO, HUGO"
+    },
+    {
+      "min": 51,
+      "entra": "MARTINEZ PEREZ, PABLO",
+      "sale": "VIZCAYA ALVAREZ, ADRIAN"
+    },
+    {
+      "min": 54,
+      "entra": "LOPEZ SANTOS, IZAN",
+      "sale": "FERRERO VILLASANTE, RAUL"
+    },
+    {
+      "min": 61,
+      "entra": "CORTES LANDABEREA, RUBEN",
+      "sale": "AGUSTIN PELLON, HUGO"
+    },
+    {
+      "min": 68,
+      "entra": "CUEVAS NUÑEZ, UNAI",
+      "sale": "JIMENEZ BARTOLOME, IZAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ HERRERO, IKER": 90,
+    "RODRIGUEZ GONZALEZ, IZAN": 90,
+    "GARCIA DIEZ, GABRIEL": 90,
+    "CEBALLOS CAYON, LUCAS": 90,
+    "GONZALEZ RODRIGUEZ, ALVARO": 90,
+    "LOPEZ GUTIERREZ, ALONSO": 49,
+    "GUTIERREZ GARCIA, SAMUEL": 90,
+    "ALONSO GUERRA, MARCOS": 90,
+    "MACHO RUIZ, LUCAS": 60,
+    "MONTES RODRIGUEZ, OROEL": 90,
+    "AGUIRRE BAZA, CRISTIAN DAVID": 40,
+    "GOMEZ DEL POZO, ALVARO": 50,
+    "GOMEZ CALVO, ALVARO": 41,
+    "ARGUESO GARCIA, JAVIER": 30,
+    "CARRASQUILLA VARGAS, XABIER": 90,
+    "FERRERO VILLASANTE, RAUL": 54,
+    "ARRIOLA IRIARTE, HUGO": 90,
+    "RODRIGUEZ GOMEZ, HECTOR": 90,
+    "AGUSTIN PELLON, HUGO": 61,
+    "GALLARRETA MIQUELARENA, SENDOA": 90,
+    "JIMENEZ BARTOLOME, IZAN": 68,
+    "LAISECA ALONSO, EDER": 90,
+    "RODRÍGUEZ LÓPEZ, JON ANDER": 90,
+    "GOMEZ ALONSO, HUGO": 40,
+    "VIZCAYA ALVAREZ, ADRIAN": 51,
+    "HIGINO FERREIRA, NICOLAS LANDER": 50,
+    "MARTINEZ PEREZ, PABLO": 39,
+    "LOPEZ SANTOS, IZAN": 36,
+    "CORTES LANDABEREA, RUBEN": 29,
+    "CUEVAS NUÑEZ, UNAI": 22
+  },
+  "portero_local": "PEREZ HERRERO, IKER",
+  "portero_visitante": "CARRASQUILLA VARGAS, XABIER",
+  "dorsales_local": {
+    "PEREZ HERRERO, IKER": 1,
+    "RODRIGUEZ GONZALEZ, IZAN": 4,
+    "GARCIA DIEZ, GABRIEL": 5,
+    "CEBALLOS CAYON, LUCAS": 6,
+    "GONZALEZ RODRIGUEZ, ALVARO": 7,
+    "LOPEZ GUTIERREZ, ALONSO": 8,
+    "GUTIERREZ GARCIA, SAMUEL": 10,
+    "ALONSO GUERRA, MARCOS": 12,
+    "MACHO RUIZ, LUCAS": 14,
+    "MONTES RODRIGUEZ, OROEL": 15,
+    "AGUIRRE BAZA, CRISTIAN DAVID": 18
+  },
+  "dorsales_visitante": {
+    "CARRASQUILLA VARGAS, XABIER": 1,
+    "FERRERO VILLASANTE, RAUL": 2,
+    "ARRIOLA IRIARTE, HUGO": 3,
+    "RODRIGUEZ GOMEZ, HECTOR": 5,
+    "AGUSTIN PELLON, HUGO": 6,
+    "GALLARRETA MIQUELARENA, SENDOA": 8,
+    "JIMENEZ BARTOLOME, IZAN": 9,
+    "LAISECA ALONSO, EDER": 10,
+    "RODRÍGUEZ LÓPEZ, JON ANDER": 11,
+    "GOMEZ ALONSO, HUGO": 14,
+    "VIZCAYA ALVAREZ, ADRIAN": 16
+  },
+  "suspendidos": [
+    "PEREZ HERRERO, IKER"
+  ],
+  "_marcador_widget": true
+}
