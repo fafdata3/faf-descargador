@@ -1,0 +1,271 @@
+{
+  "acta_id": "B_2008169",
+  "filename": "Acta_B_2008169.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 11,
+  "fecha": "15-12-2024",
+  "hora": "17:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "SPORTING DE LUTXANA A",
+  "equipo_visitante": "URDANETA A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "NAVIO GARNICA, UNAX"
+  ],
+  "estadio": "SERRALTA",
+  "ciudad": "LUTXANA - BARAKALDO",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "JAUREGUI CASTRESANA, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "OLIVA BERNAL, UNAX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "GONZALEZ TOLEDO, HERMES NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "BUENO AYZAGAR, DANEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 60,
+      "jugador": "ORTIZ LAGO, UNAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 58,
+      "jugador": "GONZALEZ CALVO, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "CORCOSTEGUI GUIO, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARRIDO COSTA, GAIZKA",
+  "entrenador_visitante": "ARTEAGA MARTINEZ, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ZUAZO IGLESIAS, IÑIGO",
+  "delegado_equipo_visitante": "VALES CALVO, EKAITZ",
+  "titulares_local": [
+    "ARROYO SORLI, ETHANIEL",
+    "CONDE PRIETO, EGOITZ",
+    "GOMEZ LOPEZ, ANDER",
+    "ORTIZ LAGO, UNAI",
+    "SANCHEZ QUINTAS, AITOR",
+    "LIRA GONZALEZ, AIMAR",
+    "GONZALEZ TOLEDO, HERMES NICOLAS",
+    "JAZOULI EL GHAZI, HOUSSAM",
+    "SORIANO CARPINTERO, IORITZ",
+    "ROMERO ANGULO, ALEXIS SANTIAGO",
+    "OLIVA BERNAL, UNAX"
+  ],
+  "titulares_visitante": [
+    "SANCHEZ RIVERA, DANIEL",
+    "LAZKANO RODRIGUEZ, ANER",
+    "GONZALEZ ROMO, AITOR",
+    "GONZALEZ CALVO, ANDER",
+    "SUBINAS EIZAGUIRRE, LEO",
+    "CORCOSTEGUI GUIO, DANIEL",
+    "JAUREGUI CASTRESANA, MATEO",
+    "BILBAO ZABALA, MIKEL",
+    "BUENO AYZAGAR, DANEL",
+    "GARRIDO ORDOZGOITI, LUCAS",
+    "TARONCHER VERDAGUER, ALEX"
+  ],
+  "suplentes_local": [
+    "SANCHEZ FIKA, JOSU",
+    "ROMERO PEREZ, MIKEL",
+    "VARONA LIZARAZU, ALAIN",
+    "LOPEZ LAGO, ANDER",
+    "ASTIASO SANCHEZ, MIKEL",
+    "VELASQUEZ GODOY, STEFANO RAFAEL",
+    "LOPEZ CARRASCO, DANEL"
+  ],
+  "suplentes_visitante": [
+    "GARCIA-CARDENAL MARTIN, VIDAL",
+    "ELVIRA NAVARRO, IÑIGO",
+    "SANCHEZ SANDIN, IKER",
+    "HORMAECHEA BEITIA, GONZALO",
+    "GALLO GONZALEZ, XABIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "VARONA LIZARAZU, ALAIN",
+    "LOPEZ LAGO, ANDER",
+    "VELASQUEZ GODOY, STEFANO RAFAEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "HORMAECHEA BEITIA, GONZALO"
+  ],
+  "jugadores_local": [
+    "ARROYO SORLI, ETHANIEL",
+    "CONDE PRIETO, EGOITZ",
+    "GOMEZ LOPEZ, ANDER",
+    "ORTIZ LAGO, UNAI",
+    "SANCHEZ QUINTAS, AITOR",
+    "LIRA GONZALEZ, AIMAR",
+    "GONZALEZ TOLEDO, HERMES NICOLAS",
+    "JAZOULI EL GHAZI, HOUSSAM",
+    "SORIANO CARPINTERO, IORITZ",
+    "ROMERO ANGULO, ALEXIS SANTIAGO",
+    "OLIVA BERNAL, UNAX",
+    "SANCHEZ FIKA, JOSU",
+    "ROMERO PEREZ, MIKEL",
+    "LOPEZ CARRASCO, DANEL",
+    "ASTIASO SANCHEZ, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "SANCHEZ RIVERA, DANIEL",
+    "LAZKANO RODRIGUEZ, ANER",
+    "GONZALEZ ROMO, AITOR",
+    "GONZALEZ CALVO, ANDER",
+    "SUBINAS EIZAGUIRRE, LEO",
+    "CORCOSTEGUI GUIO, DANIEL",
+    "JAUREGUI CASTRESANA, MATEO",
+    "BILBAO ZABALA, MIKEL",
+    "BUENO AYZAGAR, DANEL",
+    "GARRIDO ORDOZGOITI, LUCAS",
+    "TARONCHER VERDAGUER, ALEX",
+    "GARCIA-CARDENAL MARTIN, VIDAL",
+    "SANCHEZ SANDIN, IKER",
+    "ELVIRA NAVARRO, IÑIGO",
+    "GALLO GONZALEZ, XABIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "SANCHEZ FIKA, JOSU",
+      "sale": "SORIANO CARPINTERO, IORITZ"
+    },
+    {
+      "min": 59,
+      "entra": "ROMERO PEREZ, MIKEL",
+      "sale": "GONZALEZ TOLEDO, HERMES NICOLAS"
+    },
+    {
+      "min": 79,
+      "entra": "LOPEZ CARRASCO, DANEL",
+      "sale": "LIRA GONZALEZ, AIMAR"
+    },
+    {
+      "min": 79,
+      "entra": "ASTIASO SANCHEZ, MIKEL",
+      "sale": "SANCHEZ QUINTAS, AITOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GARCIA-CARDENAL MARTIN, VIDAL",
+      "sale": "GARRIDO ORDOZGOITI, LUCAS"
+    },
+    {
+      "min": 48,
+      "entra": "SANCHEZ SANDIN, IKER",
+      "sale": "BILBAO ZABALA, MIKEL"
+    },
+    {
+      "min": 60,
+      "entra": "ELVIRA NAVARRO, IÑIGO",
+      "sale": "JAUREGUI CASTRESANA, MATEO"
+    },
+    {
+      "min": 79,
+      "entra": "GALLO GONZALEZ, XABIER",
+      "sale": "CORCOSTEGUI GUIO, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARROYO SORLI, ETHANIEL": 90,
+    "CONDE PRIETO, EGOITZ": 90,
+    "GOMEZ LOPEZ, ANDER": 90,
+    "ORTIZ LAGO, UNAI": 90,
+    "SANCHEZ QUINTAS, AITOR": 79,
+    "LIRA GONZALEZ, AIMAR": 79,
+    "GONZALEZ TOLEDO, HERMES NICOLAS": 59,
+    "JAZOULI EL GHAZI, HOUSSAM": 90,
+    "SORIANO CARPINTERO, IORITZ": 49,
+    "ROMERO ANGULO, ALEXIS SANTIAGO": 90,
+    "OLIVA BERNAL, UNAX": 90,
+    "SANCHEZ FIKA, JOSU": 41,
+    "ROMERO PEREZ, MIKEL": 31,
+    "LOPEZ CARRASCO, DANEL": 11,
+    "ASTIASO SANCHEZ, MIKEL": 11,
+    "SANCHEZ RIVERA, DANIEL": 90,
+    "LAZKANO RODRIGUEZ, ANER": 90,
+    "GONZALEZ ROMO, AITOR": 90,
+    "GONZALEZ CALVO, ANDER": 90,
+    "SUBINAS EIZAGUIRRE, LEO": 90,
+    "CORCOSTEGUI GUIO, DANIEL": 79,
+    "JAUREGUI CASTRESANA, MATEO": 60,
+    "BILBAO ZABALA, MIKEL": 48,
+    "BUENO AYZAGAR, DANEL": 90,
+    "GARRIDO ORDOZGOITI, LUCAS": 40,
+    "TARONCHER VERDAGUER, ALEX": 90,
+    "GARCIA-CARDENAL MARTIN, VIDAL": 50,
+    "SANCHEZ SANDIN, IKER": 42,
+    "ELVIRA NAVARRO, IÑIGO": 30,
+    "GALLO GONZALEZ, XABIER": 11
+  },
+  "portero_local": "ARROYO SORLI, ETHANIEL",
+  "portero_visitante": "SANCHEZ RIVERA, DANIEL",
+  "dorsales_local": {
+    "ARROYO SORLI, ETHANIEL": 1,
+    "CONDE PRIETO, EGOITZ": 2,
+    "GOMEZ LOPEZ, ANDER": 4,
+    "ORTIZ LAGO, UNAI": 7,
+    "SANCHEZ QUINTAS, AITOR": 8,
+    "LIRA GONZALEZ, AIMAR": 10,
+    "GONZALEZ TOLEDO, HERMES NICOLAS": 11,
+    "JAZOULI EL GHAZI, HOUSSAM": 14,
+    "SORIANO CARPINTERO, IORITZ": 20,
+    "ROMERO ANGULO, ALEXIS SANTIAGO": 22,
+    "OLIVA BERNAL, UNAX": 23
+  },
+  "dorsales_visitante": {
+    "SANCHEZ RIVERA, DANIEL": 13,
+    "LAZKANO RODRIGUEZ, ANER": 3,
+    "GONZALEZ ROMO, AITOR": 4,
+    "GONZALEZ CALVO, ANDER": 5,
+    "SUBINAS EIZAGUIRRE, LEO": 10,
+    "CORCOSTEGUI GUIO, DANIEL": 11,
+    "JAUREGUI CASTRESANA, MATEO": 14,
+    "BILBAO ZABALA, MIKEL": 20,
+    "BUENO AYZAGAR, DANEL": 23,
+    "GARRIDO ORDOZGOITI, LUCAS": 24,
+    "TARONCHER VERDAGUER, ALEX": 25
+  },
+  "suspendidos": []
+}
