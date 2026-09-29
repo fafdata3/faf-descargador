@@ -1,0 +1,306 @@
+{
+  "acta_id": "B_9982463",
+  "filename": "Acta_B_9982463.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "01-02-2026",
+  "hora": "13:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "DERIO A",
+  "equipo_visitante": "IBARREKO A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "BENITO-BUTRON GONZALEZ, IKER"
+  ],
+  "estadio": "IBAIONDO-DERIO",
+  "ciudad": "Derio",
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "FERNANDEZ CORTES, NEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "PEREZ GOMEZ, LIHER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "SEGURA PUENTE, OIER",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "SEGURA PUENTE, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 32,
+      "jugador": "FERREIRO PELAYO, GALDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "SALOMON DE TORRE, SUHAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "COBAS BLANCO, ANER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "FERREIRO PELAYO, GALDER",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "ARREBOLA BASCONES, IMANOL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "FERNANDEZ CORTES, NEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "GOYARZUN GONZÁLEZ, URTZI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FERREIRO PELAYO, GALDER",
+  "entrenador_visitante": "GONZALEZ GARCIA, LUIS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GUERRA TUDELA, EÑAUT",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TRESPALACIOS JORGE, GONZALO",
+  "delegado_equipo_visitante": "LOPEZ HERRERO, ROBERTO",
+  "titulares_local": [
+    "LEGORBURU DIEZ, ISKANDER",
+    "ARRATE FLORES, ENEKO",
+    "RAMOS ETXEBARRIA, TXABER",
+    "REMENTERIA SOLAUN, IGOTZ",
+    "ROZAS MINTEGUI, XABIER",
+    "CHELIZ LANDA, JOSU",
+    "RODRIGO ADAN, GALDER",
+    "GIL GUERRA, EGOITZ",
+    "MARTIN BUENO, MARKEL",
+    "GARCIA ASENSIO, LANDER",
+    "SALOMON DE TORRE, SUHAR"
+  ],
+  "titulares_visitante": [
+    "ATELA DIEZ, EÑAUT",
+    "CONDE ZORROZUA, ERIK",
+    "QASEMI HAIDARY, ABUL FAZL",
+    "GONZALEZ VERA, SEBASTIAN ALONZO",
+    "FERNANDEZ CORTES, NEO",
+    "PEREZ GOMEZ, LIHER",
+    "GOYARZUN GONZÁLEZ, URTZI",
+    "LARRAURI LETE, KOLDOBIKA",
+    "FERNANDEZ SAINZ, MARTIN",
+    "SEGURA PUENTE, OIER",
+    "GOMEZ ETXEBARRIA, ALAIN"
+  ],
+  "suplentes_local": [
+    "MAYAN RUIZ, JULEN IMANOL",
+    "GUTIERREZ GORDON, GORKA",
+    "DEL MORAL SALGUERO, NOAH",
+    "DEL RIO LLORENTE, JOSEBA KOLDOBIKA",
+    "CALLE DIAZ, IKER",
+    "ARREBOLA BASCONES, IMANOL",
+    "COBAS BLANCO, ANER"
+  ],
+  "suplentes_visitante": [
+    "MOSQUERA CORTES, EKAITZ",
+    "COCA CORRALES, JEREMY GAIZKA",
+    "ZARRAGA ABASOLO, AMETS",
+    "LOPEZ ORTEGA, OIER",
+    "CRISTOBAL GIL, LUKA",
+    "ULIARTE BASARTE, MARKEL",
+    "PÉREZ ALONSO, ALAIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "MAYAN RUIZ, JULEN IMANOL",
+    "DEL RIO LLORENTE, JOSEBA KOLDOBIKA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MOSQUERA CORTES, EKAITZ",
+    "COCA CORRALES, JEREMY GAIZKA",
+    "ZARRAGA ABASOLO, AMETS",
+    "CRISTOBAL GIL, LUKA"
+  ],
+  "jugadores_local": [
+    "LEGORBURU DIEZ, ISKANDER",
+    "ARRATE FLORES, ENEKO",
+    "RAMOS ETXEBARRIA, TXABER",
+    "REMENTERIA SOLAUN, IGOTZ",
+    "ROZAS MINTEGUI, XABIER",
+    "CHELIZ LANDA, JOSU",
+    "RODRIGO ADAN, GALDER",
+    "GIL GUERRA, EGOITZ",
+    "MARTIN BUENO, MARKEL",
+    "GARCIA ASENSIO, LANDER",
+    "SALOMON DE TORRE, SUHAR",
+    "COBAS BLANCO, ANER",
+    "CALLE DIAZ, IKER",
+    "GUTIERREZ GORDON, GORKA",
+    "DEL MORAL SALGUERO, NOAH",
+    "ARREBOLA BASCONES, IMANOL"
+  ],
+  "jugadores_visitante": [
+    "ATELA DIEZ, EÑAUT",
+    "CONDE ZORROZUA, ERIK",
+    "QASEMI HAIDARY, ABUL FAZL",
+    "GONZALEZ VERA, SEBASTIAN ALONZO",
+    "FERNANDEZ CORTES, NEO",
+    "PEREZ GOMEZ, LIHER",
+    "GOYARZUN GONZÁLEZ, URTZI",
+    "LARRAURI LETE, KOLDOBIKA",
+    "FERNANDEZ SAINZ, MARTIN",
+    "SEGURA PUENTE, OIER",
+    "GOMEZ ETXEBARRIA, ALAIN",
+    "ULIARTE BASARTE, MARKEL",
+    "PÉREZ ALONSO, ALAIN",
+    "LOPEZ ORTEGA, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "COBAS BLANCO, ANER",
+      "sale": "MARTIN BUENO, MARKEL"
+    },
+    {
+      "min": 52,
+      "entra": "CALLE DIAZ, IKER",
+      "sale": "CHELIZ LANDA, JOSU"
+    },
+    {
+      "min": 52,
+      "entra": "GUTIERREZ GORDON, GORKA",
+      "sale": "GARCIA ASENSIO, LANDER"
+    },
+    {
+      "min": 54,
+      "entra": "DEL MORAL SALGUERO, NOAH",
+      "sale": "REMENTERIA SOLAUN, IGOTZ"
+    },
+    {
+      "min": 72,
+      "entra": "ARREBOLA BASCONES, IMANOL",
+      "sale": "RAMOS ETXEBARRIA, TXABER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "ULIARTE BASARTE, MARKEL",
+      "sale": "GOMEZ ETXEBARRIA, ALAIN"
+    },
+    {
+      "min": 48,
+      "entra": "PÉREZ ALONSO, ALAIN",
+      "sale": "QASEMI HAIDARY, ABUL FAZL"
+    },
+    {
+      "min": 62,
+      "entra": "LOPEZ ORTEGA, OIER",
+      "sale": "LARRAURI LETE, KOLDOBIKA"
+    }
+  ],
+  "minutos_jugadores": {
+    "LEGORBURU DIEZ, ISKANDER": 90,
+    "ARRATE FLORES, ENEKO": 90,
+    "RAMOS ETXEBARRIA, TXABER": 72,
+    "REMENTERIA SOLAUN, IGOTZ": 54,
+    "ROZAS MINTEGUI, XABIER": 90,
+    "CHELIZ LANDA, JOSU": 52,
+    "RODRIGO ADAN, GALDER": 90,
+    "GIL GUERRA, EGOITZ": 90,
+    "MARTIN BUENO, MARKEL": 41,
+    "GARCIA ASENSIO, LANDER": 52,
+    "SALOMON DE TORRE, SUHAR": 90,
+    "COBAS BLANCO, ANER": 49,
+    "CALLE DIAZ, IKER": 38,
+    "GUTIERREZ GORDON, GORKA": 38,
+    "DEL MORAL SALGUERO, NOAH": 36,
+    "ARREBOLA BASCONES, IMANOL": 18,
+    "ATELA DIEZ, EÑAUT": 90,
+    "CONDE ZORROZUA, ERIK": 90,
+    "QASEMI HAIDARY, ABUL FAZL": 48,
+    "GONZALEZ VERA, SEBASTIAN ALONZO": 90,
+    "FERNANDEZ CORTES, NEO": 90,
+    "PEREZ GOMEZ, LIHER": 90,
+    "GOYARZUN GONZÁLEZ, URTZI": 90,
+    "LARRAURI LETE, KOLDOBIKA": 62,
+    "FERNANDEZ SAINZ, MARTIN": 90,
+    "SEGURA PUENTE, OIER": 90,
+    "GOMEZ ETXEBARRIA, ALAIN": 41,
+    "ULIARTE BASARTE, MARKEL": 49,
+    "PÉREZ ALONSO, ALAIN": 42,
+    "LOPEZ ORTEGA, OIER": 28
+  },
+  "portero_local": "LEGORBURU DIEZ, ISKANDER",
+  "portero_visitante": "ATELA DIEZ, EÑAUT",
+  "dorsales_local": {
+    "LEGORBURU DIEZ, ISKANDER": 23,
+    "ARRATE FLORES, ENEKO": 2,
+    "RAMOS ETXEBARRIA, TXABER": 4,
+    "REMENTERIA SOLAUN, IGOTZ": 6,
+    "ROZAS MINTEGUI, XABIER": 7,
+    "CHELIZ LANDA, JOSU": 11,
+    "RODRIGO ADAN, GALDER": 12,
+    "GIL GUERRA, EGOITZ": 16,
+    "MARTIN BUENO, MARKEL": 17,
+    "GARCIA ASENSIO, LANDER": 19,
+    "SALOMON DE TORRE, SUHAR": 24
+  },
+  "dorsales_visitante": {
+    "ATELA DIEZ, EÑAUT": 1,
+    "CONDE ZORROZUA, ERIK": 5,
+    "QASEMI HAIDARY, ABUL FAZL": 6,
+    "GONZALEZ VERA, SEBASTIAN ALONZO": 7,
+    "FERNANDEZ CORTES, NEO": 10,
+    "PEREZ GOMEZ, LIHER": 11,
+    "GOYARZUN GONZÁLEZ, URTZI": 12,
+    "LARRAURI LETE, KOLDOBIKA": 20,
+    "FERNANDEZ SAINZ, MARTIN": 21,
+    "SEGURA PUENTE, OIER": 23,
+    "GOMEZ ETXEBARRIA, ALAIN": 24
+  },
+  "suspendidos": [
+    "FERREIRO PELAYO, GALDER"
+  ],
+  "_marcador_widget": true
+}
