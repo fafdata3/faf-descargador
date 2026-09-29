@@ -1,0 +1,263 @@
+{
+  "acta_id": "C_193343",
+  "filename": "Acta_C_193343.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 1,
+  "fecha": "21-09-2024",
+  "hora": "11:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "S.D. PEÑA REVILLA",
+  "equipo_visitante": "C.D. MONTE A",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CALOCA MORADIELLOS, ADRIÁN"
+  ],
+  "estadio": "El Regimiento",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "PEREZ DE DIEGO, MARTIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "BAIZÁN YAHARI, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "PEREZ DE DIEGO, MARTIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "PEREZ DE DIEGO, MARTIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 14,
+      "jugador": "GUTIÉRREZ COBO, JAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RUIZ GARCIA, ALEJANDRO",
+  "entrenador_visitante": "LEGARRETA YURRITA, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SOLANO MEÑACA, MIGUEL A",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DIAZ FERNANDEZ, ROBERTO",
+  "delegado_equipo_visitante": "SOMAZA GOMEZ, MARCOS",
+  "titulares_local": [
+    "GUTIÉRREZ GUTIÉRREZ, JOSÉ FRANCISCO",
+    "FERRER PENAGOS, MARTÍN",
+    "GUTIÉRREZ GUTIÉRREZ, ADRIÁN",
+    "MANJON GONZALEZ, ANDRES",
+    "BERASATEGUI MAZA, LUIS",
+    "SANCHEZ ARENAL, SANTIAGO",
+    "AJA CIMIANO, IKER",
+    "LANZA MARTÍ, HUGO",
+    "BORBOLLA GÓMEZ, DAVID",
+    "GUTIÉRREZ COBO, JAVIER",
+    "ACEREDA ALVAREZ, GABRIEL"
+  ],
+  "titulares_visitante": [
+    "GARCIA RODRIGUEZ, LEO",
+    "ANDRONIC, DANIEL",
+    "RUIZ ALONSO, GONZALO",
+    "PEREZ DE DIEGO, MARTIN",
+    "GOMEZ ALONSO, NICOLAS",
+    "BLANCO LANZA, ALVARO",
+    "DOMINGUEZ LOZANO, ADRIAN",
+    "RUIZ JUAREZ, LEANDRO",
+    "BARROSO BARQUÍN, HUGO",
+    "BAIZÁN YAHARI, MARIO",
+    "CABEZAS REMIRO, MAURO"
+  ],
+  "suplentes_local": [
+    "POVEDANO GOMEZ, DANIEL",
+    "PALACIO RODERO, ALEJANDRO",
+    "DIAZ FERNANDEZ, JOSE MANUEL",
+    "MARCOS GARCIA, LUCAS",
+    "MURILLO BAHOS, NICOLAS"
+  ],
+  "suplentes_visitante": [
+    "PUMAREJO SANCHEZ, ALVARO",
+    "CASADO LANZA, ALVARO",
+    "SANCHO PANIEGO, BELTRAN",
+    "PEREIRA DOSAL, CRISTIAN",
+    "BESOY MOYA, FERNANDO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GUTIÉRREZ GUTIÉRREZ, JOSÉ FRANCISCO",
+    "FERRER PENAGOS, MARTÍN",
+    "GUTIÉRREZ GUTIÉRREZ, ADRIÁN",
+    "MANJON GONZALEZ, ANDRES",
+    "BERASATEGUI MAZA, LUIS",
+    "SANCHEZ ARENAL, SANTIAGO",
+    "AJA CIMIANO, IKER",
+    "LANZA MARTÍ, HUGO",
+    "BORBOLLA GÓMEZ, DAVID",
+    "GUTIÉRREZ COBO, JAVIER",
+    "ACEREDA ALVAREZ, GABRIEL",
+    "DIAZ FERNANDEZ, JOSE MANUEL",
+    "MARCOS GARCIA, LUCAS",
+    "POVEDANO GOMEZ, DANIEL",
+    "PALACIO RODERO, ALEJANDRO",
+    "MURILLO BAHOS, NICOLAS"
+  ],
+  "jugadores_visitante": [
+    "GARCIA RODRIGUEZ, LEO",
+    "ANDRONIC, DANIEL",
+    "RUIZ ALONSO, GONZALO",
+    "PEREZ DE DIEGO, MARTIN",
+    "GOMEZ ALONSO, NICOLAS",
+    "BLANCO LANZA, ALVARO",
+    "DOMINGUEZ LOZANO, ADRIAN",
+    "RUIZ JUAREZ, LEANDRO",
+    "BARROSO BARQUÍN, HUGO",
+    "BAIZÁN YAHARI, MARIO",
+    "CABEZAS REMIRO, MAURO",
+    "PUMAREJO SANCHEZ, ALVARO",
+    "PEREIRA DOSAL, CRISTIAN",
+    "BESOY MOYA, FERNANDO",
+    "CASADO LANZA, ALVARO",
+    "SANCHO PANIEGO, BELTRAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 43,
+      "entra": "DIAZ FERNANDEZ, JOSE MANUEL",
+      "sale": "ACEREDA ALVAREZ, GABRIEL"
+    },
+    {
+      "min": 43,
+      "entra": "MARCOS GARCIA, LUCAS",
+      "sale": "BERASATEGUI MAZA, LUIS"
+    },
+    {
+      "min": 52,
+      "entra": "POVEDANO GOMEZ, DANIEL",
+      "sale": "LANZA MARTÍ, HUGO"
+    },
+    {
+      "min": 52,
+      "entra": "PALACIO RODERO, ALEJANDRO",
+      "sale": "GUTIÉRREZ GUTIÉRREZ, ADRIÁN"
+    },
+    {
+      "min": 62,
+      "entra": "MURILLO BAHOS, NICOLAS",
+      "sale": "SANCHEZ ARENAL, SANTIAGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "PUMAREJO SANCHEZ, ALVARO",
+      "sale": "GARCIA RODRIGUEZ, LEO"
+    },
+    {
+      "min": 42,
+      "entra": "PEREIRA DOSAL, CRISTIAN",
+      "sale": "BAIZÁN YAHARI, MARIO"
+    },
+    {
+      "min": 42,
+      "entra": "BESOY MOYA, FERNANDO",
+      "sale": "GOMEZ ALONSO, NICOLAS"
+    },
+    {
+      "min": 43,
+      "entra": "CASADO LANZA, ALVARO",
+      "sale": "ANDRONIC, DANIEL"
+    },
+    {
+      "min": 53,
+      "entra": "SANCHO PANIEGO, BELTRAN",
+      "sale": "CABEZAS REMIRO, MAURO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GUTIÉRREZ GUTIÉRREZ, JOSÉ FRANCISCO": 90,
+    "FERRER PENAGOS, MARTÍN": 90,
+    "GUTIÉRREZ GUTIÉRREZ, ADRIÁN": 52,
+    "MANJON GONZALEZ, ANDRES": 90,
+    "BERASATEGUI MAZA, LUIS": 43,
+    "SANCHEZ ARENAL, SANTIAGO": 62,
+    "AJA CIMIANO, IKER": 90,
+    "LANZA MARTÍ, HUGO": 52,
+    "BORBOLLA GÓMEZ, DAVID": 90,
+    "GUTIÉRREZ COBO, JAVIER": 90,
+    "ACEREDA ALVAREZ, GABRIEL": 43,
+    "DIAZ FERNANDEZ, JOSE MANUEL": 47,
+    "MARCOS GARCIA, LUCAS": 47,
+    "POVEDANO GOMEZ, DANIEL": 38,
+    "PALACIO RODERO, ALEJANDRO": 38,
+    "MURILLO BAHOS, NICOLAS": 28,
+    "GARCIA RODRIGUEZ, LEO": 35,
+    "ANDRONIC, DANIEL": 43,
+    "RUIZ ALONSO, GONZALO": 90,
+    "PEREZ DE DIEGO, MARTIN": 90,
+    "GOMEZ ALONSO, NICOLAS": 42,
+    "BLANCO LANZA, ALVARO": 90,
+    "DOMINGUEZ LOZANO, ADRIAN": 90,
+    "RUIZ JUAREZ, LEANDRO": 90,
+    "BARROSO BARQUÍN, HUGO": 90,
+    "BAIZÁN YAHARI, MARIO": 42,
+    "CABEZAS REMIRO, MAURO": 53,
+    "PUMAREJO SANCHEZ, ALVARO": 55,
+    "PEREIRA DOSAL, CRISTIAN": 48,
+    "BESOY MOYA, FERNANDO": 48,
+    "CASADO LANZA, ALVARO": 47,
+    "SANCHO PANIEGO, BELTRAN": 37
+  },
+  "portero_local": "GUTIÉRREZ GUTIÉRREZ, JOSÉ FRANCISCO",
+  "portero_visitante": "GARCIA RODRIGUEZ, LEO",
+  "dorsales_local": {
+    "GUTIÉRREZ GUTIÉRREZ, JOSÉ FRANCISCO": 1,
+    "FERRER PENAGOS, MARTÍN": 2,
+    "GUTIÉRREZ GUTIÉRREZ, ADRIÁN": 3,
+    "MANJON GONZALEZ, ANDRES": 5,
+    "BERASATEGUI MAZA, LUIS": 7,
+    "SANCHEZ ARENAL, SANTIAGO": 8,
+    "AJA CIMIANO, IKER": 10,
+    "LANZA MARTÍ, HUGO": 11,
+    "BORBOLLA GÓMEZ, DAVID": 15,
+    "GUTIÉRREZ COBO, JAVIER": 16,
+    "ACEREDA ALVAREZ, GABRIEL": 18
+  },
+  "dorsales_visitante": {
+    "GARCIA RODRIGUEZ, LEO": 13,
+    "ANDRONIC, DANIEL": 5,
+    "RUIZ ALONSO, GONZALO": 6,
+    "PEREZ DE DIEGO, MARTIN": 7,
+    "GOMEZ ALONSO, NICOLAS": 9,
+    "BLANCO LANZA, ALVARO": 10,
+    "DOMINGUEZ LOZANO, ADRIAN": 12,
+    "RUIZ JUAREZ, LEANDRO": 15,
+    "BARROSO BARQUÍN, HUGO": 16,
+    "BAIZÁN YAHARI, MARIO": 20,
+    "CABEZAS REMIRO, MAURO": 21
+  },
+  "suspendidos": []
+}
