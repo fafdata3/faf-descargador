@@ -1,0 +1,244 @@
+{
+  "acta_id": "C_171399",
+  "filename": "Acta_C_171399.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 27,
+  "fecha": "13-04-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. NAVAL A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "FERNÁNDEZ QUINTANA, RAÚL"
+  ],
+  "estadio": "Reinosa",
+  "ciudad": "Reinosa",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "BLANCO VALDES, PABLO CAYETANO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "CUADRADO PEREZ RUBIN, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "MOURA REVUELTA, ROMEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "CANTERO DE LA PARTE, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA GUTIERREZ, JOSE I",
+  "entrenador_visitante": "PALAZUELOS TRUEBA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GONZALEZ ARENAL, PEDRO",
+  "delegado_campo_local": "JORRIN FERNANDEZ, OSCAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA GUTIERREZ, FRANCISCO JAVIER",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PEREZ HERRERO, IKER",
+    "GONZALEZ PUENTE, HUGO",
+    "CANTERO DE LA PARTE, LUCAS",
+    "BLANCO VALDES, PABLO CAYETANO",
+    "CEBALLOS CAYON, LUCAS",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GOMEZ DEL POZO, ALVARO",
+    "DEL RIO ALONSO, HECTOR",
+    "MARTINEZ PEREZ, ANDRES",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "GARCIA DIEZ, GABRIEL"
+  ],
+  "titulares_visitante": [
+    "GOMEZ VILLANUEVA, DIEGO",
+    "VIÑUELA SOMOHANO, MATEO",
+    "ALONSO Melo, Ruben",
+    "PERNÍA FERNÁNDEZ, MARCO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "BARRIO OBREGON, IZAN",
+    "GOMEZ BOLADO, MIGUEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "suplentes_local": [
+    "GARCIA MARTINEZ, ANTONIO JOSE",
+    "SAIZ RODRIGUEZ, PABLO",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "SIMÓN GUTIERREZ, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "RUIZ SANTOS, AITOR",
+    "SOMOHANO TAMAYO, PABLO",
+    "GOMEZ NUÑEZ, IKER",
+    "DAHHAOUI RACHID, YAKOUB",
+    "PERNIA RODRIGUEZ, JOEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA MARTINEZ, ANTONIO JOSE"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PEREZ HERRERO, IKER",
+    "GONZALEZ PUENTE, HUGO",
+    "CANTERO DE LA PARTE, LUCAS",
+    "BLANCO VALDES, PABLO CAYETANO",
+    "CEBALLOS CAYON, LUCAS",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GOMEZ DEL POZO, ALVARO",
+    "DEL RIO ALONSO, HECTOR",
+    "MARTINEZ PEREZ, ANDRES",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "GARCIA DIEZ, GABRIEL",
+    "SAIZ RODRIGUEZ, PABLO",
+    "SIMÓN GUTIERREZ, DANIEL",
+    "GONZALEZ RODRIGUEZ, ALVARO"
+  ],
+  "jugadores_visitante": [
+    "GOMEZ VILLANUEVA, DIEGO",
+    "VIÑUELA SOMOHANO, MATEO",
+    "ALONSO Melo, Ruben",
+    "PERNÍA FERNÁNDEZ, MARCO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "BARRIO OBREGON, IZAN",
+    "GOMEZ BOLADO, MIGUEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN",
+    "PERNIA RODRIGUEZ, JOEL",
+    "SOMOHANO TAMAYO, PABLO",
+    "RUIZ SANTOS, AITOR",
+    "GOMEZ NUÑEZ, IKER",
+    "DAHHAOUI RACHID, YAKOUB"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SAIZ RODRIGUEZ, PABLO",
+      "sale": "GONZALEZ PUENTE, HUGO"
+    },
+    {
+      "min": 52,
+      "entra": "SIMÓN GUTIERREZ, DANIEL",
+      "sale": "LOPEZ GUTIERREZ, ALONSO"
+    },
+    {
+      "min": 60,
+      "entra": "GONZALEZ RODRIGUEZ, ALVARO",
+      "sale": "DEL RIO ALONSO, HECTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 17,
+      "entra": "PERNIA RODRIGUEZ, JOEL",
+      "sale": "VIÑUELA SOMOHANO, MATEO"
+    },
+    {
+      "min": 35,
+      "entra": "SOMOHANO TAMAYO, PABLO",
+      "sale": "PERNÍA FERNÁNDEZ, MARCO"
+    },
+    {
+      "min": 63,
+      "entra": "RUIZ SANTOS, AITOR",
+      "sale": "GOMEZ VILLANUEVA, DIEGO"
+    },
+    {
+      "min": 67,
+      "entra": "GOMEZ NUÑEZ, IKER",
+      "sale": "FERNÁNDEZ VICENTE, ALEJANDRO"
+    },
+    {
+      "min": 70,
+      "entra": "DAHHAOUI RACHID, YAKOUB",
+      "sale": "MOURA REVUELTA, ROMEO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ HERRERO, IKER": 90,
+    "GONZALEZ PUENTE, HUGO": 40,
+    "CANTERO DE LA PARTE, LUCAS": 90,
+    "BLANCO VALDES, PABLO CAYETANO": 90,
+    "CEBALLOS CAYON, LUCAS": 90,
+    "LOPEZ GUTIERREZ, ALONSO": 52,
+    "GOMEZ DEL POZO, ALVARO": 90,
+    "DEL RIO ALONSO, HECTOR": 60,
+    "MARTINEZ PEREZ, ANDRES": 90,
+    "GUTIERREZ GARCIA, SAMUEL": 90,
+    "GARCIA DIEZ, GABRIEL": 90,
+    "SAIZ RODRIGUEZ, PABLO": 50,
+    "SIMÓN GUTIERREZ, DANIEL": 38,
+    "GONZALEZ RODRIGUEZ, ALVARO": 30,
+    "GOMEZ VILLANUEVA, DIEGO": 63,
+    "VIÑUELA SOMOHANO, MATEO": 17,
+    "ALONSO Melo, Ruben": 90,
+    "PERNÍA FERNÁNDEZ, MARCO": 35,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 67,
+    "CUADRADO PEREZ RUBIN, MATEO": 90,
+    "BARRIO OBREGON, IZAN": 90,
+    "GOMEZ BOLADO, MIGUEL": 90,
+    "RENEDO COSIO, DIEGO": 90,
+    "MOURA REVUELTA, ROMEO": 70,
+    "COBO MARTINEZ, KELLYAN": 90,
+    "PERNIA RODRIGUEZ, JOEL": 73,
+    "SOMOHANO TAMAYO, PABLO": 55,
+    "RUIZ SANTOS, AITOR": 27,
+    "GOMEZ NUÑEZ, IKER": 23,
+    "DAHHAOUI RACHID, YAKOUB": 20
+  },
+  "portero_local": "PEREZ HERRERO, IKER",
+  "portero_visitante": "GOMEZ VILLANUEVA, DIEGO",
+  "dorsales_local": {
+    "PEREZ HERRERO, IKER": 1,
+    "GONZALEZ PUENTE, HUGO": 2,
+    "CANTERO DE LA PARTE, LUCAS": 3,
+    "BLANCO VALDES, PABLO CAYETANO": 5,
+    "CEBALLOS CAYON, LUCAS": 6,
+    "LOPEZ GUTIERREZ, ALONSO": 7,
+    "GOMEZ DEL POZO, ALVARO": 9,
+    "DEL RIO ALONSO, HECTOR": 10,
+    "MARTINEZ PEREZ, ANDRES": 11,
+    "GUTIERREZ GARCIA, SAMUEL": 19,
+    "GARCIA DIEZ, GABRIEL": 22
+  },
+  "dorsales_visitante": {
+    "GOMEZ VILLANUEVA, DIEGO": 13,
+    "VIÑUELA SOMOHANO, MATEO": 2,
+    "ALONSO Melo, Ruben": 3,
+    "PERNÍA FERNÁNDEZ, MARCO": 5,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "CUADRADO PEREZ RUBIN, MATEO": 9,
+    "BARRIO OBREGON, IZAN": 10,
+    "GOMEZ BOLADO, MIGUEL": 12,
+    "RENEDO COSIO, DIEGO": 18,
+    "MOURA REVUELTA, ROMEO": 20,
+    "COBO MARTINEZ, KELLYAN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
