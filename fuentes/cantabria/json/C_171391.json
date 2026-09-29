@@ -1,0 +1,246 @@
+{
+  "acta_id": "C_171391",
+  "filename": "Acta_C_171391.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 27,
+  "fecha": "13-04-2024",
+  "hora": "18:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "E.M.F. SANTOÑA",
+  "equipo_visitante": "C.F. VIMENOR A",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SISNIEGA SOL, ALAN"
+  ],
+  "estadio": "Santoña 1",
+  "ciudad": "Santoña",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "SAN MILLAN BECERRA, DYLAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "PELLÓN CRESPO, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "VALLE MARTINEZ, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "FERNÁNDEZ ABAD, JORGE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "MORENO LIENDO, ANTONIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 77,
+      "jugador": "LOPEZ SANCHEZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "RODRIGUEZ PEREZ, VICTOR MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LARRAÑAGA TUÑON, JUAN",
+  "delegado_equipo_visitante": "PALENCIA SILVA, RUBEN",
+  "titulares_local": [
+    "XIANG, JUNKAI",
+    "HAZAS QUINTANA, ANTONIO",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "ALONSO MAZA, AIMAR",
+    "SAN MILLAN BECERRA, DYLAN",
+    "VALLE MARTINEZ, IZAN",
+    "MONTES SANZ, SERGIO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "BLANCO GONZALEZ, OIER",
+    "SOLANO PRADA, VICTOR",
+    "VELA HERRERA, ENZO"
+  ],
+  "titulares_visitante": [
+    "PEREZ DIAZ, DANIEL",
+    "IRIZABAL GONZALEZ, JAIRO",
+    "LOPEZ SANCHEZ, HUGO",
+    "PEREZ RUIZ, DIEGO",
+    "PELLÓN CRESPO, SERGIO",
+    "SAN MIGUEL PEREZ, RODRIGO",
+    "MORENO LIENDO, ANTONIO",
+    "PELAYO SAINZ, IZAN",
+    "IGLESIAS CRUZ, JOSE",
+    "CADELO LOPEZ, DIEGO",
+    "CISNEROS LEAL, ADRIAN"
+  ],
+  "suplentes_local": [
+    "ALONSO SANCHEZ, FERNANDO",
+    "ARCOS QUINTANA, ELVER ALEXANDER"
+  ],
+  "suplentes_visitante": [
+    "SARDON JIMENEZ, DIEGO",
+    "FERNÁNDEZ ABAD, JORGE",
+    "EZZAKRAOUI, OSAMA",
+    "VEGA LASO, BORJA",
+    "LASTRA CAÑEDO, FIDEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "XIANG, JUNKAI",
+    "HAZAS QUINTANA, ANTONIO",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "ALONSO MAZA, AIMAR",
+    "SAN MILLAN BECERRA, DYLAN",
+    "VALLE MARTINEZ, IZAN",
+    "MONTES SANZ, SERGIO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "BLANCO GONZALEZ, OIER",
+    "SOLANO PRADA, VICTOR",
+    "VELA HERRERA, ENZO",
+    "ARCOS QUINTANA, ELVER ALEXANDER",
+    "ALONSO SANCHEZ, FERNANDO"
+  ],
+  "jugadores_visitante": [
+    "PEREZ DIAZ, DANIEL",
+    "IRIZABAL GONZALEZ, JAIRO",
+    "LOPEZ SANCHEZ, HUGO",
+    "PEREZ RUIZ, DIEGO",
+    "PELLÓN CRESPO, SERGIO",
+    "SAN MIGUEL PEREZ, RODRIGO",
+    "MORENO LIENDO, ANTONIO",
+    "PELAYO SAINZ, IZAN",
+    "IGLESIAS CRUZ, JOSE",
+    "CADELO LOPEZ, DIEGO",
+    "CISNEROS LEAL, ADRIAN",
+    "LASTRA CAÑEDO, FIDEL",
+    "EZZAKRAOUI, OSAMA",
+    "SARDON JIMENEZ, DIEGO",
+    "FERNÁNDEZ ABAD, JORGE",
+    "VEGA LASO, BORJA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "ARCOS QUINTANA, ELVER ALEXANDER",
+      "sale": "SOLANO PRADA, VICTOR"
+    },
+    {
+      "min": 67,
+      "entra": "ALONSO SANCHEZ, FERNANDO",
+      "sale": "XIANG, JUNKAI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "LASTRA CAÑEDO, FIDEL",
+      "sale": "CADELO LOPEZ, DIEGO"
+    },
+    {
+      "min": 51,
+      "entra": "EZZAKRAOUI, OSAMA",
+      "sale": "PEREZ RUIZ, DIEGO"
+    },
+    {
+      "min": 58,
+      "entra": "SARDON JIMENEZ, DIEGO",
+      "sale": "PELAYO SAINZ, IZAN"
+    },
+    {
+      "min": 58,
+      "entra": "FERNÁNDEZ ABAD, JORGE",
+      "sale": "IRIZABAL GONZALEZ, JAIRO"
+    },
+    {
+      "min": 63,
+      "entra": "VEGA LASO, BORJA",
+      "sale": "CISNEROS LEAL, ADRIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "XIANG, JUNKAI": 67,
+    "HAZAS QUINTANA, ANTONIO": 90,
+    "ANSOLA FERNANDEZ, VINDIO": 90,
+    "ALONSO MAZA, AIMAR": 90,
+    "SAN MILLAN BECERRA, DYLAN": 90,
+    "VALLE MARTINEZ, IZAN": 90,
+    "MONTES SANZ, SERGIO": 90,
+    "SOLANA FERNANDEZ, ALEJANDRO": 90,
+    "BLANCO GONZALEZ, OIER": 90,
+    "SOLANO PRADA, VICTOR": 49,
+    "VELA HERRERA, ENZO": 90,
+    "ARCOS QUINTANA, ELVER ALEXANDER": 41,
+    "ALONSO SANCHEZ, FERNANDO": 23,
+    "PEREZ DIAZ, DANIEL": 90,
+    "IRIZABAL GONZALEZ, JAIRO": 58,
+    "LOPEZ SANCHEZ, HUGO": 90,
+    "PEREZ RUIZ, DIEGO": 51,
+    "PELLÓN CRESPO, SERGIO": 90,
+    "SAN MIGUEL PEREZ, RODRIGO": 90,
+    "MORENO LIENDO, ANTONIO": 90,
+    "PELAYO SAINZ, IZAN": 58,
+    "IGLESIAS CRUZ, JOSE": 90,
+    "CADELO LOPEZ, DIEGO": 51,
+    "CISNEROS LEAL, ADRIAN": 63,
+    "LASTRA CAÑEDO, FIDEL": 39,
+    "EZZAKRAOUI, OSAMA": 39,
+    "SARDON JIMENEZ, DIEGO": 32,
+    "FERNÁNDEZ ABAD, JORGE": 32,
+    "VEGA LASO, BORJA": 27
+  },
+  "portero_local": "XIANG, JUNKAI",
+  "portero_visitante": "PEREZ DIAZ, DANIEL",
+  "dorsales_local": {
+    "XIANG, JUNKAI": 13,
+    "HAZAS QUINTANA, ANTONIO": 2,
+    "ANSOLA FERNANDEZ, VINDIO": 4,
+    "ALONSO MAZA, AIMAR": 5,
+    "SAN MILLAN BECERRA, DYLAN": 8,
+    "VALLE MARTINEZ, IZAN": 9,
+    "MONTES SANZ, SERGIO": 10,
+    "SOLANA FERNANDEZ, ALEJANDRO": 11,
+    "BLANCO GONZALEZ, OIER": 12,
+    "SOLANO PRADA, VICTOR": 18,
+    "VELA HERRERA, ENZO": 20
+  },
+  "dorsales_visitante": {
+    "PEREZ DIAZ, DANIEL": 1,
+    "IRIZABAL GONZALEZ, JAIRO": 2,
+    "LOPEZ SANCHEZ, HUGO": 3,
+    "PEREZ RUIZ, DIEGO": 4,
+    "PELLÓN CRESPO, SERGIO": 5,
+    "SAN MIGUEL PEREZ, RODRIGO": 6,
+    "MORENO LIENDO, ANTONIO": 7,
+    "PELAYO SAINZ, IZAN": 8,
+    "IGLESIAS CRUZ, JOSE": 9,
+    "CADELO LOPEZ, DIEGO": 10,
+    "CISNEROS LEAL, ADRIAN": 11
+  },
+  "suspendidos": []
+}
