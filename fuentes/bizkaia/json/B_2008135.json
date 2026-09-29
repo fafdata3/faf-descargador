@@ -1,0 +1,254 @@
+{
+  "acta_id": "B_2008135",
+  "filename": "Acta_B_2008135.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 7,
+  "fecha": "17-11-2024",
+  "hora": "15:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "SPORTING DE LUTXANA A",
+  "equipo_visitante": "ERANDIO A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "LOPEZ DOS SANTOS, DANIEL"
+  ],
+  "estadio": "SERRALTA",
+  "ciudad": "LUTXANA - BARAKALDO",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "SUAREZ GOMEZ, ISAAC",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 9,
+      "jugador": "URIZAR ELUSTONDO, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "MERINO LLANO, LANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 0,
+      "jugador": "LOPEZ LAGO, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARRIDO COSTA, GAIZKA",
+  "entrenador_visitante": "GONZALEZ PEREZ, JUAN JOSE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ZUAZO IGLESIAS, IÑIGO",
+  "delegado_equipo_visitante": "DOÑABEITIA GONZALEZ, GAIZKA",
+  "titulares_local": [
+    "ARROYO SORLI, ETHANIEL",
+    "CONDE PRIETO, EGOITZ",
+    "GOMEZ LOPEZ, ANDER",
+    "SANCHEZ FIKA, JOSU",
+    "ORTIZ LAGO, UNAI",
+    "SANCHEZ QUINTAS, AITOR",
+    "ROMERO PEREZ, MIKEL",
+    "LIRA GONZALEZ, AIMAR",
+    "JAZOULI EL GHAZI, HOUSSAM",
+    "VELASQUEZ GODOY, STEFANO RAFAEL",
+    "OLIVA BERNAL, UNAX"
+  ],
+  "titulares_visitante": [
+    "ASTOBIETA MARTIN, ENDIKA",
+    "BARTOLOME ESCUDERO, ENDIKA",
+    "NUÑO MELGAR, MARKEL",
+    "EL ARMAOUI ABBASSI, RAYAN",
+    "ZARRAGA MARTIN, UNAI",
+    "PINEDA BATISTA, ANDER",
+    "VALGAERTS ALMEIDA, OIHAN",
+    "RODRIGUEZ MARTIN, IBON",
+    "URIZAR ELUSTONDO, JAVIER",
+    "SUAREZ GOMEZ, ISAAC",
+    "MERINO LLANO, LANDER"
+  ],
+  "suplentes_local": [
+    "VARONA LIZARAZU, ALAIN",
+    "MONTES SANGRONIZ, ASIER",
+    "LOPEZ LAGO, ANDER",
+    "ASTIASO SANCHEZ, MIKEL",
+    "SORIANO CARPINTERO, IORITZ",
+    "LOPEZ CARRASCO, DANEL",
+    "ROMERO ANGULO, ALEXIS SANTIAGO"
+  ],
+  "suplentes_visitante": [
+    "DELGADO ARNOSO, ALEX",
+    "DE JESUS RUBIO, AIMAR",
+    "CANALES AYESTA, HODEI",
+    "JUSTINIANO GONGORA, JON ANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "VARONA LIZARAZU, ALAIN",
+    "ROMERO ANGULO, ALEXIS SANTIAGO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARROYO SORLI, ETHANIEL",
+    "CONDE PRIETO, EGOITZ",
+    "GOMEZ LOPEZ, ANDER",
+    "SANCHEZ FIKA, JOSU",
+    "ORTIZ LAGO, UNAI",
+    "SANCHEZ QUINTAS, AITOR",
+    "ROMERO PEREZ, MIKEL",
+    "LIRA GONZALEZ, AIMAR",
+    "JAZOULI EL GHAZI, HOUSSAM",
+    "VELASQUEZ GODOY, STEFANO RAFAEL",
+    "OLIVA BERNAL, UNAX",
+    "MONTES SANGRONIZ, ASIER",
+    "LOPEZ LAGO, ANDER",
+    "LOPEZ CARRASCO, DANEL",
+    "ASTIASO SANCHEZ, MIKEL",
+    "SORIANO CARPINTERO, IORITZ"
+  ],
+  "jugadores_visitante": [
+    "ASTOBIETA MARTIN, ENDIKA",
+    "BARTOLOME ESCUDERO, ENDIKA",
+    "NUÑO MELGAR, MARKEL",
+    "EL ARMAOUI ABBASSI, RAYAN",
+    "ZARRAGA MARTIN, UNAI",
+    "PINEDA BATISTA, ANDER",
+    "VALGAERTS ALMEIDA, OIHAN",
+    "RODRIGUEZ MARTIN, IBON",
+    "URIZAR ELUSTONDO, JAVIER",
+    "SUAREZ GOMEZ, ISAAC",
+    "MERINO LLANO, LANDER",
+    "DE JESUS RUBIO, AIMAR",
+    "DELGADO ARNOSO, ALEX",
+    "JUSTINIANO GONGORA, JON ANDER",
+    "CANALES AYESTA, HODEI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "MONTES SANGRONIZ, ASIER",
+      "sale": "ROMERO PEREZ, MIKEL"
+    },
+    {
+      "min": 56,
+      "entra": "LOPEZ LAGO, ANDER",
+      "sale": "CONDE PRIETO, EGOITZ"
+    },
+    {
+      "min": 68,
+      "entra": "LOPEZ CARRASCO, DANEL",
+      "sale": "ORTIZ LAGO, UNAI"
+    },
+    {
+      "min": 68,
+      "entra": "ASTIASO SANCHEZ, MIKEL",
+      "sale": "OLIVA BERNAL, UNAX"
+    },
+    {
+      "min": 68,
+      "entra": "SORIANO CARPINTERO, IORITZ",
+      "sale": "SANCHEZ QUINTAS, AITOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "DE JESUS RUBIO, AIMAR",
+      "sale": "PINEDA BATISTA, ANDER"
+    },
+    {
+      "min": 56,
+      "entra": "DELGADO ARNOSO, ALEX",
+      "sale": "URIZAR ELUSTONDO, JAVIER"
+    },
+    {
+      "min": 67,
+      "entra": "JUSTINIANO GONGORA, JON ANDER",
+      "sale": "MERINO LLANO, LANDER"
+    },
+    {
+      "min": 67,
+      "entra": "CANALES AYESTA, HODEI",
+      "sale": "BARTOLOME ESCUDERO, ENDIKA"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARROYO SORLI, ETHANIEL": 90,
+    "CONDE PRIETO, EGOITZ": 56,
+    "GOMEZ LOPEZ, ANDER": 90,
+    "SANCHEZ FIKA, JOSU": 90,
+    "ORTIZ LAGO, UNAI": 68,
+    "SANCHEZ QUINTAS, AITOR": 68,
+    "ROMERO PEREZ, MIKEL": 54,
+    "LIRA GONZALEZ, AIMAR": 90,
+    "JAZOULI EL GHAZI, HOUSSAM": 90,
+    "VELASQUEZ GODOY, STEFANO RAFAEL": 90,
+    "OLIVA BERNAL, UNAX": 68,
+    "MONTES SANGRONIZ, ASIER": 36,
+    "LOPEZ LAGO, ANDER": 34,
+    "LOPEZ CARRASCO, DANEL": 22,
+    "ASTIASO SANCHEZ, MIKEL": 22,
+    "SORIANO CARPINTERO, IORITZ": 22,
+    "ASTOBIETA MARTIN, ENDIKA": 90,
+    "BARTOLOME ESCUDERO, ENDIKA": 67,
+    "NUÑO MELGAR, MARKEL": 90,
+    "EL ARMAOUI ABBASSI, RAYAN": 90,
+    "ZARRAGA MARTIN, UNAI": 90,
+    "PINEDA BATISTA, ANDER": 56,
+    "VALGAERTS ALMEIDA, OIHAN": 90,
+    "RODRIGUEZ MARTIN, IBON": 90,
+    "URIZAR ELUSTONDO, JAVIER": 56,
+    "SUAREZ GOMEZ, ISAAC": 90,
+    "MERINO LLANO, LANDER": 67,
+    "DE JESUS RUBIO, AIMAR": 34,
+    "DELGADO ARNOSO, ALEX": 34,
+    "JUSTINIANO GONGORA, JON ANDER": 23,
+    "CANALES AYESTA, HODEI": 23
+  },
+  "portero_local": "ARROYO SORLI, ETHANIEL",
+  "portero_visitante": "ASTOBIETA MARTIN, ENDIKA",
+  "dorsales_local": {
+    "ARROYO SORLI, ETHANIEL": 1,
+    "CONDE PRIETO, EGOITZ": 2,
+    "GOMEZ LOPEZ, ANDER": 4,
+    "SANCHEZ FIKA, JOSU": 5,
+    "ORTIZ LAGO, UNAI": 7,
+    "SANCHEZ QUINTAS, AITOR": 8,
+    "ROMERO PEREZ, MIKEL": 9,
+    "LIRA GONZALEZ, AIMAR": 10,
+    "JAZOULI EL GHAZI, HOUSSAM": 14,
+    "VELASQUEZ GODOY, STEFANO RAFAEL": 19,
+    "OLIVA BERNAL, UNAX": 23
+  },
+  "dorsales_visitante": {
+    "ASTOBIETA MARTIN, ENDIKA": 1,
+    "BARTOLOME ESCUDERO, ENDIKA": 2,
+    "NUÑO MELGAR, MARKEL": 4,
+    "EL ARMAOUI ABBASSI, RAYAN": 5,
+    "ZARRAGA MARTIN, UNAI": 6,
+    "PINEDA BATISTA, ANDER": 9,
+    "VALGAERTS ALMEIDA, OIHAN": 10,
+    "RODRIGUEZ MARTIN, IBON": 12,
+    "URIZAR ELUSTONDO, JAVIER": 17,
+    "SUAREZ GOMEZ, ISAAC": 19,
+    "MERINO LLANO, LANDER": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
