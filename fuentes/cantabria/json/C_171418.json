@@ -1,0 +1,269 @@
+{
+  "acta_id": "C_171418",
+  "filename": "Acta_C_171418.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 30,
+  "fecha": "04-05-2024",
+  "hora": "15:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. TROPEZON B",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MARTÍNEZ TERÁN, OSCAR"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "PAÑEDA BOLADO, FERNANDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "GONZÁLEZ MARTÍNEZ, MAURO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "VARON SANCHEZ, CESAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "GONZALEZ SAIZ, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "GONZÁLEZ MARTÍNEZ, MAURO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 17,
+      "jugador": "CABEZA ZARCO, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "SAN MIGUEL SUAREZ, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GUTIERREZ GUTIERREZ, DAVID",
+  "entrenador_visitante": "SALCINES PRIETO, LUIS FELIPE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "PAÑEDA PORTILLA, JOSE ANGEL",
+  "titulares_local": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "DE DIEGO RUBAYO, SAUL",
+    "LIAÑO ALONSO, MARCELO",
+    "PEREZ PINILLA, EMILIO",
+    "CALDERON SAIZ, ALVARO",
+    "RODEÑO DIAZ, GABRIEL",
+    "GALLO POZUETA, ALVARO",
+    "VARON SANCHEZ, CESAR",
+    "DIAZ CORONA, MARCOS",
+    "BLUM RUIZ, JOSE",
+    "MARTIN RUIZ, PABLO"
+  ],
+  "titulares_visitante": [
+    "GARCIA CRUZ, IKER",
+    "CABEZA ZARCO, DANIEL",
+    "ALVAREZ CORONA, AARON",
+    "ALVAREZ PEREZ, PABLO",
+    "GONZALEZ PRIETO, ARIAN",
+    "SALCINES ZARCO, IZAN",
+    "MALDONADO RUIZ, HECTOR",
+    "PAÑEDA BOLADO, FERNANDO",
+    "ARCE ABASCAL, RUBEN",
+    "FALAGAN DIAZ, MARIO",
+    "PEREZ NOVAL, LUCAS"
+  ],
+  "suplentes_local": [
+    "LOPEZ CAYON, BORJA",
+    "GONZALEZ SAIZ, IKER",
+    "blanco gonzalez, MARIO",
+    "GONZÁLEZ MARTÍNEZ, MAURO",
+    "GOITIA GUTIERREZ, PABLO"
+  ],
+  "suplentes_visitante": [
+    "SOLANA OCERIN, IVAN",
+    "SAN MIGUEL SUAREZ, PABLO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "POLETAEVI, LUKA"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "DE DIEGO RUBAYO, SAUL",
+    "LIAÑO ALONSO, MARCELO",
+    "PEREZ PINILLA, EMILIO",
+    "CALDERON SAIZ, ALVARO",
+    "RODEÑO DIAZ, GABRIEL",
+    "GALLO POZUETA, ALVARO",
+    "VARON SANCHEZ, CESAR",
+    "DIAZ CORONA, MARCOS",
+    "BLUM RUIZ, JOSE",
+    "MARTIN RUIZ, PABLO",
+    "GONZALEZ SAIZ, IKER",
+    "LOPEZ CAYON, BORJA",
+    "GONZÁLEZ MARTÍNEZ, MAURO",
+    "blanco gonzalez, MARIO",
+    "GOITIA GUTIERREZ, PABLO"
+  ],
+  "jugadores_visitante": [
+    "GARCIA CRUZ, IKER",
+    "CABEZA ZARCO, DANIEL",
+    "ALVAREZ CORONA, AARON",
+    "ALVAREZ PEREZ, PABLO",
+    "GONZALEZ PRIETO, ARIAN",
+    "SALCINES ZARCO, IZAN",
+    "MALDONADO RUIZ, HECTOR",
+    "PAÑEDA BOLADO, FERNANDO",
+    "ARCE ABASCAL, RUBEN",
+    "FALAGAN DIAZ, MARIO",
+    "PEREZ NOVAL, LUCAS",
+    "SOLANA OCERIN, IVAN",
+    "SAN MIGUEL SUAREZ, PABLO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "POLETAEVI, LUKA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GONZALEZ SAIZ, IKER",
+      "sale": "GALLO POZUETA, ALVARO"
+    },
+    {
+      "min": 40,
+      "entra": "LOPEZ CAYON, BORJA",
+      "sale": "DE LA FUENTE CAYUSO, NICOLAS"
+    },
+    {
+      "min": 40,
+      "entra": "GONZÁLEZ MARTÍNEZ, MAURO",
+      "sale": "MARTIN RUIZ, PABLO"
+    },
+    {
+      "min": 47,
+      "entra": "blanco gonzalez, MARIO",
+      "sale": "DE DIEGO RUBAYO, SAUL"
+    },
+    {
+      "min": 61,
+      "entra": "GOITIA GUTIERREZ, PABLO",
+      "sale": "CALDERON SAIZ, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SOLANA OCERIN, IVAN",
+      "sale": "GONZALEZ PRIETO, ARIAN"
+    },
+    {
+      "min": 40,
+      "entra": "SAN MIGUEL SUAREZ, PABLO",
+      "sale": "PEREZ NOVAL, LUCAS"
+    },
+    {
+      "min": 56,
+      "entra": "MORENO QUINTANILLA, NICOLAS",
+      "sale": "ARCE ABASCAL, RUBEN"
+    },
+    {
+      "min": 56,
+      "entra": "POLETAEVI, LUKA",
+      "sale": "MALDONADO RUIZ, HECTOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "DE LA FUENTE CAYUSO, NICOLAS": 40,
+    "DE DIEGO RUBAYO, SAUL": 47,
+    "LIAÑO ALONSO, MARCELO": 90,
+    "PEREZ PINILLA, EMILIO": 90,
+    "CALDERON SAIZ, ALVARO": 61,
+    "RODEÑO DIAZ, GABRIEL": 90,
+    "GALLO POZUETA, ALVARO": 40,
+    "VARON SANCHEZ, CESAR": 90,
+    "DIAZ CORONA, MARCOS": 90,
+    "BLUM RUIZ, JOSE": 90,
+    "MARTIN RUIZ, PABLO": 40,
+    "GONZALEZ SAIZ, IKER": 50,
+    "LOPEZ CAYON, BORJA": 50,
+    "GONZÁLEZ MARTÍNEZ, MAURO": 50,
+    "blanco gonzalez, MARIO": 43,
+    "GOITIA GUTIERREZ, PABLO": 29,
+    "GARCIA CRUZ, IKER": 90,
+    "CABEZA ZARCO, DANIEL": 90,
+    "ALVAREZ CORONA, AARON": 90,
+    "ALVAREZ PEREZ, PABLO": 90,
+    "GONZALEZ PRIETO, ARIAN": 40,
+    "SALCINES ZARCO, IZAN": 90,
+    "MALDONADO RUIZ, HECTOR": 56,
+    "PAÑEDA BOLADO, FERNANDO": 90,
+    "ARCE ABASCAL, RUBEN": 56,
+    "FALAGAN DIAZ, MARIO": 90,
+    "PEREZ NOVAL, LUCAS": 40,
+    "SOLANA OCERIN, IVAN": 50,
+    "SAN MIGUEL SUAREZ, PABLO": 50,
+    "MORENO QUINTANILLA, NICOLAS": 34,
+    "POLETAEVI, LUKA": 34
+  },
+  "portero_local": "DE LA FUENTE CAYUSO, NICOLAS",
+  "portero_visitante": "GARCIA CRUZ, IKER",
+  "dorsales_local": {
+    "DE LA FUENTE CAYUSO, NICOLAS": 1,
+    "DE DIEGO RUBAYO, SAUL": 2,
+    "LIAÑO ALONSO, MARCELO": 4,
+    "PEREZ PINILLA, EMILIO": 6,
+    "CALDERON SAIZ, ALVARO": 9,
+    "RODEÑO DIAZ, GABRIEL": 10,
+    "GALLO POZUETA, ALVARO": 11,
+    "VARON SANCHEZ, CESAR": 14,
+    "DIAZ CORONA, MARCOS": 18,
+    "BLUM RUIZ, JOSE": 20,
+    "MARTIN RUIZ, PABLO": 22
+  },
+  "dorsales_visitante": {
+    "GARCIA CRUZ, IKER": 13,
+    "CABEZA ZARCO, DANIEL": 3,
+    "ALVAREZ CORONA, AARON": 5,
+    "ALVAREZ PEREZ, PABLO": 6,
+    "GONZALEZ PRIETO, ARIAN": 7,
+    "SALCINES ZARCO, IZAN": 8,
+    "MALDONADO RUIZ, HECTOR": 10,
+    "PAÑEDA BOLADO, FERNANDO": 11,
+    "ARCE ABASCAL, RUBEN": 12,
+    "FALAGAN DIAZ, MARIO": 14,
+    "PEREZ NOVAL, LUCAS": 19
+  },
+  "suspendidos": []
+}
