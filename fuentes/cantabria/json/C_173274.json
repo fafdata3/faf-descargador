@@ -1,0 +1,271 @@
+{
+  "acta_id": "C_173274",
+  "filename": "Acta_C_173274.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 17,
+  "fecha": "04-02-2024",
+  "hora": "10:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "AYRON CLUB A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "ALEGRE APARICIO, RUBÉN"
+  ],
+  "estadio": "Vargas",
+  "ciudad": "Puente Viesgo",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "RUIZ CRESPO, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "LIAÑO MANTECÓN, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "HOYUELA COBO, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "BUENAGA GONZÁLEZ, IZAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "AGUERO AGUNDEZ, LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "SANCHEZ CUEVAS, SAUL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ACEBO BUSTILLO, FRANCISCO",
+  "entrenador_visitante": "JIMENO DIEZ, UNAI",
+  "segundo_entrenador_local": "GOMEZ DIAZ, VENTURA",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "SANCHO GARCIA, ANDONI",
+  "titulares_local": [
+    "GOMEZ NIETO, JESÚS",
+    "PEREA ABAD, AITOR",
+    "GALLO VERGARA, PABLO",
+    "LIAÑO MANTECÓN, HUGO",
+    "RUIZ CRESPO, NICOLAS",
+    "BUENAGA GONZÁLEZ, IZAN",
+    "RUIZ CRESPO, HUGO",
+    "CALANTE CABRILLO, ADRIÁN",
+    "ALVAREZ DIEGO, GABRIEL",
+    "GOMEZ OBESO, PABLO",
+    "REAL SAINZ, DANIEL"
+  ],
+  "titulares_visitante": [
+    "ARROYO FERNANDEZ, PABLO",
+    "AGUERO AGUNDEZ, LUIS",
+    "MONTES DE NEIRA BALBOA, LUIS",
+    "DEL VALLE COBO, DANIEL",
+    "CRESPO LOPEZ, DANIEL",
+    "GUTIERREZ REVUELTA, NECO",
+    "BORREGA BALZA, ISAAC",
+    "MALLAVIA MUGICA, MIKEL",
+    "BOLADO GOMEZ, LUCAS",
+    "HOYUELA COBO, HUGO",
+    "SANCHEZ CUEVAS, SAUL"
+  ],
+  "suplentes_local": [
+    "ALVAREZ SAN EMETERIO, ERIK",
+    "PARDO GOMEZ, LUIS",
+    "MARTIN BARQUIN, LEO",
+    "LLANO CARRAL, MARCO",
+    "BURDIE FERNANDEZ, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "PINEDA DIAZ, JORGE",
+    "AGUDO IBAÑEZ, CARLOS DANIEL",
+    "BLANCO OTERO, JANO",
+    "MARQUEZ REVUELTA, ALEX",
+    "GARCIA COTERA, MATEO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GOMEZ NIETO, JESÚS",
+    "PEREA ABAD, AITOR",
+    "GALLO VERGARA, PABLO",
+    "LIAÑO MANTECÓN, HUGO",
+    "RUIZ CRESPO, NICOLAS",
+    "BUENAGA GONZÁLEZ, IZAN",
+    "RUIZ CRESPO, HUGO",
+    "CALANTE CABRILLO, ADRIÁN",
+    "ALVAREZ DIEGO, GABRIEL",
+    "GOMEZ OBESO, PABLO",
+    "REAL SAINZ, DANIEL",
+    "ALVAREZ SAN EMETERIO, ERIK",
+    "PARDO GOMEZ, LUIS",
+    "BURDIE FERNANDEZ, DIEGO",
+    "MARTIN BARQUIN, LEO",
+    "LLANO CARRAL, MARCO"
+  ],
+  "jugadores_visitante": [
+    "ARROYO FERNANDEZ, PABLO",
+    "AGUERO AGUNDEZ, LUIS",
+    "MONTES DE NEIRA BALBOA, LUIS",
+    "DEL VALLE COBO, DANIEL",
+    "CRESPO LOPEZ, DANIEL",
+    "GUTIERREZ REVUELTA, NECO",
+    "BORREGA BALZA, ISAAC",
+    "MALLAVIA MUGICA, MIKEL",
+    "BOLADO GOMEZ, LUCAS",
+    "HOYUELA COBO, HUGO",
+    "SANCHEZ CUEVAS, SAUL",
+    "PINEDA DIAZ, JORGE",
+    "AGUDO IBAÑEZ, CARLOS DANIEL",
+    "GARCIA COTERA, MATEO",
+    "BLANCO OTERO, JANO",
+    "MARQUEZ REVUELTA, ALEX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "ALVAREZ SAN EMETERIO, ERIK",
+      "sale": "CALANTE CABRILLO, ADRIÁN"
+    },
+    {
+      "min": 58,
+      "entra": "PARDO GOMEZ, LUIS",
+      "sale": "BUENAGA GONZÁLEZ, IZAN"
+    },
+    {
+      "min": 63,
+      "entra": "BURDIE FERNANDEZ, DIEGO",
+      "sale": "REAL SAINZ, DANIEL"
+    },
+    {
+      "min": 68,
+      "entra": "MARTIN BARQUIN, LEO",
+      "sale": "LIAÑO MANTECÓN, HUGO"
+    },
+    {
+      "min": 69,
+      "entra": "LLANO CARRAL, MARCO",
+      "sale": "RUIZ CRESPO, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "PINEDA DIAZ, JORGE",
+      "sale": "ARROYO FERNANDEZ, PABLO"
+    },
+    {
+      "min": 36,
+      "entra": "AGUDO IBAÑEZ, CARLOS DANIEL",
+      "sale": "BOLADO GOMEZ, LUCAS"
+    },
+    {
+      "min": 36,
+      "entra": "GARCIA COTERA, MATEO",
+      "sale": "MONTES DE NEIRA BALBOA, LUIS"
+    },
+    {
+      "min": 46,
+      "entra": "BLANCO OTERO, JANO",
+      "sale": "GUTIERREZ REVUELTA, NECO"
+    },
+    {
+      "min": 46,
+      "entra": "MARQUEZ REVUELTA, ALEX",
+      "sale": "CRESPO LOPEZ, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ NIETO, JESÚS": 90,
+    "PEREA ABAD, AITOR": 90,
+    "GALLO VERGARA, PABLO": 90,
+    "LIAÑO MANTECÓN, HUGO": 68,
+    "RUIZ CRESPO, NICOLAS": 69,
+    "BUENAGA GONZÁLEZ, IZAN": 58,
+    "RUIZ CRESPO, HUGO": 90,
+    "CALANTE CABRILLO, ADRIÁN": 50,
+    "ALVAREZ DIEGO, GABRIEL": 90,
+    "GOMEZ OBESO, PABLO": 90,
+    "REAL SAINZ, DANIEL": 63,
+    "ALVAREZ SAN EMETERIO, ERIK": 40,
+    "PARDO GOMEZ, LUIS": 32,
+    "BURDIE FERNANDEZ, DIEGO": 27,
+    "MARTIN BARQUIN, LEO": 22,
+    "LLANO CARRAL, MARCO": 21,
+    "ARROYO FERNANDEZ, PABLO": 36,
+    "AGUERO AGUNDEZ, LUIS": 90,
+    "MONTES DE NEIRA BALBOA, LUIS": 36,
+    "DEL VALLE COBO, DANIEL": 90,
+    "CRESPO LOPEZ, DANIEL": 46,
+    "GUTIERREZ REVUELTA, NECO": 46,
+    "BORREGA BALZA, ISAAC": 90,
+    "MALLAVIA MUGICA, MIKEL": 90,
+    "BOLADO GOMEZ, LUCAS": 36,
+    "HOYUELA COBO, HUGO": 90,
+    "SANCHEZ CUEVAS, SAUL": 90,
+    "PINEDA DIAZ, JORGE": 54,
+    "AGUDO IBAÑEZ, CARLOS DANIEL": 54,
+    "GARCIA COTERA, MATEO": 54,
+    "BLANCO OTERO, JANO": 44,
+    "MARQUEZ REVUELTA, ALEX": 44
+  },
+  "portero_local": "GOMEZ NIETO, JESÚS",
+  "portero_visitante": "ARROYO FERNANDEZ, PABLO",
+  "dorsales_local": {
+    "GOMEZ NIETO, JESÚS": 1,
+    "PEREA ABAD, AITOR": 2,
+    "GALLO VERGARA, PABLO": 5,
+    "LIAÑO MANTECÓN, HUGO": 7,
+    "RUIZ CRESPO, NICOLAS": 8,
+    "BUENAGA GONZÁLEZ, IZAN": 9,
+    "RUIZ CRESPO, HUGO": 10,
+    "CALANTE CABRILLO, ADRIÁN": 11,
+    "ALVAREZ DIEGO, GABRIEL": 14,
+    "GOMEZ OBESO, PABLO": 15,
+    "REAL SAINZ, DANIEL": 19
+  },
+  "dorsales_visitante": {
+    "ARROYO FERNANDEZ, PABLO": 1,
+    "AGUERO AGUNDEZ, LUIS": 5,
+    "MONTES DE NEIRA BALBOA, LUIS": 6,
+    "DEL VALLE COBO, DANIEL": 7,
+    "CRESPO LOPEZ, DANIEL": 8,
+    "GUTIERREZ REVUELTA, NECO": 9,
+    "BORREGA BALZA, ISAAC": 11,
+    "MALLAVIA MUGICA, MIKEL": 12,
+    "BOLADO GOMEZ, LUCAS": 14,
+    "HOYUELA COBO, HUGO": 17,
+    "SANCHEZ CUEVAS, SAUL": 30
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
