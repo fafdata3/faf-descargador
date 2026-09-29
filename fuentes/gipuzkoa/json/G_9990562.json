@@ -1,0 +1,246 @@
+{
+  "acta_id": "G_9990562",
+  "filename": "Acta_G_9990562.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 12,
+  "fecha": "13-12-2025",
+  "hora": "12:30",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (2. MULTZOA - GRUPO 2)",
+  "equipo_local": "MONDRAGON C.F.",
+  "equipo_visitante": "SORALUZE C.F.",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "EL ALLALI EL GHABALI, NAIM"
+  ],
+  "estadio": "MOJATEGI",
+  "ciudad": "Arrasate",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "UNAMUNO GARCIA, JURGI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "AUZMENDI BERECIBAR, AITOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "MARTIN AYANI, LUKEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "AUZMENDI BERECIBAR, AITOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 40,
+      "jugador": "UNAMUNO GARCIA, JURGI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ARAMBURU ZUBIA, MARKEL",
+  "entrenador_visitante": "GABILONDO PROL, JULEN",
+  "segundo_entrenador_local": "LAGE SEBASTIAN, IKER",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "IBARGUEN HIDALGO, GORKA",
+  "delegado_equipo_visitante": "OREGI LASKURAIN, AURITZ",
+  "titulares_local": [
+    "URIBETXEBARRIA GRANDE, ALAIN",
+    "IDIGORAS AMADO, HODEI",
+    "GARAY CARMONA, ALAIN",
+    "IZARZUGAZA BASTERRA, OIHAN",
+    "URIEN PEREZ, ALAIN",
+    "CARABIAS BERGARETXE, JOKIN",
+    "AUZMENDI BERECIBAR, AITOR",
+    "ARANBURU ZUBIA, JULEN",
+    "MARTIN AYANI, LUKEN",
+    "UNAMUNO GARCIA, JURGI",
+    "MENOCAL CASADO, ANDER"
+  ],
+  "titulares_visitante": [
+    "HERNANDEZ HERREROS, UNAI",
+    "GISASOLA LARREATEGI, PERU",
+    "AGUIRREGOMEZCORTA CUENDE, ANDER",
+    "AMUCHASTEGUI AZKOITIA, JON",
+    "BOUDFEL MANNOUJA, BAHAADIN",
+    "SALABERRIA SILBETI, ZUNBELTZ",
+    "LARRAÑAGA ELGUETA, ZUHAITZ",
+    "LOSADA ALBERDI, GALDER",
+    "CID BENAYAS, OIER",
+    "ARLUZIAGA MENDIZABAL, HAITZ",
+    "AABI AYAD, RODUAN"
+  ],
+  "suplentes_local": [
+    "ROYO ARAMBARRI, JULEN",
+    "MARQUEZ LOZANO, ANER",
+    "ERRASTI ALTUBE, JOANES",
+    "ORUE JUARISTI, PERU"
+  ],
+  "suplentes_visitante": [
+    "ASTIGARRAGA HERNANDEZ, IÑIGO",
+    "RUIZ ROMAN, IZER",
+    "RAHIM, GHAZI UR",
+    "TREBIÑO LINDEMANN, URKO",
+    "LASKURAIN LOPEZ, UNAI"
+  ],
+  "convocados_sin_jugar_local": [
+    "ROYO ARAMBARRI, JULEN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ASTIGARRAGA HERNANDEZ, IÑIGO"
+  ],
+  "jugadores_local": [
+    "URIBETXEBARRIA GRANDE, ALAIN",
+    "IDIGORAS AMADO, HODEI",
+    "GARAY CARMONA, ALAIN",
+    "IZARZUGAZA BASTERRA, OIHAN",
+    "URIEN PEREZ, ALAIN",
+    "CARABIAS BERGARETXE, JOKIN",
+    "AUZMENDI BERECIBAR, AITOR",
+    "ARANBURU ZUBIA, JULEN",
+    "MARTIN AYANI, LUKEN",
+    "UNAMUNO GARCIA, JURGI",
+    "MENOCAL CASADO, ANDER",
+    "ERRASTI ALTUBE, JOANES",
+    "MARQUEZ LOZANO, ANER",
+    "ORUE JUARISTI, PERU"
+  ],
+  "jugadores_visitante": [
+    "HERNANDEZ HERREROS, UNAI",
+    "GISASOLA LARREATEGI, PERU",
+    "AGUIRREGOMEZCORTA CUENDE, ANDER",
+    "AMUCHASTEGUI AZKOITIA, JON",
+    "BOUDFEL MANNOUJA, BAHAADIN",
+    "SALABERRIA SILBETI, ZUNBELTZ",
+    "LARRAÑAGA ELGUETA, ZUHAITZ",
+    "LOSADA ALBERDI, GALDER",
+    "CID BENAYAS, OIER",
+    "ARLUZIAGA MENDIZABAL, HAITZ",
+    "AABI AYAD, RODUAN",
+    "RAHIM, GHAZI UR",
+    "RUIZ ROMAN, IZER",
+    "LASKURAIN LOPEZ, UNAI",
+    "TREBIÑO LINDEMANN, URKO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 47,
+      "entra": "ERRASTI ALTUBE, JOANES",
+      "sale": "URIEN PEREZ, ALAIN"
+    },
+    {
+      "min": 51,
+      "entra": "MARQUEZ LOZANO, ANER",
+      "sale": "GARAY CARMONA, ALAIN"
+    },
+    {
+      "min": 54,
+      "entra": "ORUE JUARISTI, PERU",
+      "sale": "ARANBURU ZUBIA, JULEN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "RAHIM, GHAZI UR",
+      "sale": "BOUDFEL MANNOUJA, BAHAADIN"
+    },
+    {
+      "min": 46,
+      "entra": "RUIZ ROMAN, IZER",
+      "sale": "ARLUZIAGA MENDIZABAL, HAITZ"
+    },
+    {
+      "min": 50,
+      "entra": "LASKURAIN LOPEZ, UNAI",
+      "sale": "AABI AYAD, RODUAN"
+    },
+    {
+      "min": 54,
+      "entra": "TREBIÑO LINDEMANN, URKO",
+      "sale": "CID BENAYAS, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "URIBETXEBARRIA GRANDE, ALAIN": 90,
+    "IDIGORAS AMADO, HODEI": 90,
+    "GARAY CARMONA, ALAIN": 51,
+    "IZARZUGAZA BASTERRA, OIHAN": 90,
+    "URIEN PEREZ, ALAIN": 47,
+    "CARABIAS BERGARETXE, JOKIN": 90,
+    "AUZMENDI BERECIBAR, AITOR": 90,
+    "ARANBURU ZUBIA, JULEN": 54,
+    "MARTIN AYANI, LUKEN": 90,
+    "UNAMUNO GARCIA, JURGI": 90,
+    "MENOCAL CASADO, ANDER": 90,
+    "ERRASTI ALTUBE, JOANES": 43,
+    "MARQUEZ LOZANO, ANER": 39,
+    "ORUE JUARISTI, PERU": 36,
+    "HERNANDEZ HERREROS, UNAI": 90,
+    "GISASOLA LARREATEGI, PERU": 90,
+    "AGUIRREGOMEZCORTA CUENDE, ANDER": 90,
+    "AMUCHASTEGUI AZKOITIA, JON": 90,
+    "BOUDFEL MANNOUJA, BAHAADIN": 40,
+    "SALABERRIA SILBETI, ZUNBELTZ": 90,
+    "LARRAÑAGA ELGUETA, ZUHAITZ": 90,
+    "LOSADA ALBERDI, GALDER": 90,
+    "CID BENAYAS, OIER": 54,
+    "ARLUZIAGA MENDIZABAL, HAITZ": 46,
+    "AABI AYAD, RODUAN": 50,
+    "RAHIM, GHAZI UR": 50,
+    "RUIZ ROMAN, IZER": 44,
+    "LASKURAIN LOPEZ, UNAI": 40,
+    "TREBIÑO LINDEMANN, URKO": 36
+  },
+  "portero_local": "URIBETXEBARRIA GRANDE, ALAIN",
+  "portero_visitante": "HERNANDEZ HERREROS, UNAI",
+  "dorsales_local": {
+    "URIBETXEBARRIA GRANDE, ALAIN": 1,
+    "IDIGORAS AMADO, HODEI": 2,
+    "GARAY CARMONA, ALAIN": 3,
+    "IZARZUGAZA BASTERRA, OIHAN": 4,
+    "URIEN PEREZ, ALAIN": 5,
+    "CARABIAS BERGARETXE, JOKIN": 6,
+    "AUZMENDI BERECIBAR, AITOR": 7,
+    "ARANBURU ZUBIA, JULEN": 8,
+    "MARTIN AYANI, LUKEN": 9,
+    "UNAMUNO GARCIA, JURGI": 10,
+    "MENOCAL CASADO, ANDER": 11
+  },
+  "dorsales_visitante": {
+    "HERNANDEZ HERREROS, UNAI": 1,
+    "GISASOLA LARREATEGI, PERU": 2,
+    "AGUIRREGOMEZCORTA CUENDE, ANDER": 3,
+    "AMUCHASTEGUI AZKOITIA, JON": 6,
+    "BOUDFEL MANNOUJA, BAHAADIN": 8,
+    "SALABERRIA SILBETI, ZUNBELTZ": 9,
+    "LARRAÑAGA ELGUETA, ZUHAITZ": 10,
+    "LOSADA ALBERDI, GALDER": 11,
+    "CID BENAYAS, OIER": 18,
+    "ARLUZIAGA MENDIZABAL, HAITZ": 21,
+    "AABI AYAD, RODUAN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
