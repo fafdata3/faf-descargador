@@ -1,0 +1,227 @@
+{
+  "acta_id": "B_9982361",
+  "filename": "Acta_B_9982361.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 4,
+  "fecha": "25-10-2025",
+  "hora": "19:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "BASKAURI A",
+  "equipo_visitante": "ETXEBARRI A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BOO ETXEBARRIA, OIHAN"
+  ],
+  "estadio": "ARTUNDUAGA 2",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "COBELO VELEZ, IBAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "COBELO VELEZ, IBAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "ALEJO LEJARRAGA, ENAITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 22,
+      "jugador": "HERNANDEZ BRAZO, ARETX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ MUÑIZ, AITOR",
+  "entrenador_visitante": "ALONSO ETXEBARRIA, IMANOL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BEASKOETXEA SAN MARTIN, GORKA",
+  "delegado_equipo_visitante": "CID HOMPANERA, ALEX",
+  "titulares_local": [
+    "MOLINA GARCIA, ALEX",
+    "RUIZ GARCIA DE VICUÑA, EDER",
+    "ALEJO LEJARRAGA, ENAITZ",
+    "RIBOTE LACALLE, EDER",
+    "TRIGUEROS BULLON, UNAX",
+    "ETXEZARRAGA URKIJO, PEIO",
+    "BEASKOETXEA SANCHEZ, GALDER",
+    "AGINAKO SOLAUN, XABIER",
+    "BLANCO MARTIN, UNAI",
+    "COBELO VELEZ, IBAI",
+    "CORO LOPEZ, ALVARO"
+  ],
+  "titulares_visitante": [
+    "ANTOLIN HERRAEZ, ION",
+    "ARELLANO CERROS, ANDER",
+    "SACRISTAN MARTIN, GABRIEL",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "PAREDES PANIAGUA, MARKEL",
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "MARTIN MUNGUIRA, ANDER",
+    "MEDEL MOLINERO, SAÚL",
+    "HERNANDEZ BRAZO, ARETX"
+  ],
+  "suplentes_local": [
+    "OTERO LABRADOR, UNAI",
+    "LOZANO LOPEZ, MARKEL",
+    "GORROTXATEGI APARICIO, IKER"
+  ],
+  "suplentes_visitante": [
+    "HIGUERO URIBE, LIER",
+    "LAIZ JIMENO, JON",
+    "RENTERIA BLANCO, IZEI",
+    "ALONSO VERGARA, MARKEL",
+    "DEL TESO CANDIL, MARKEL",
+    "ARTOLA BROCH, UNAI",
+    "MORALES BASAÑEZ, ARITZ"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "HIGUERO URIBE, LIER",
+    "LAIZ JIMENO, JON",
+    "RENTERIA BLANCO, IZEI",
+    "DEL TESO CANDIL, MARKEL",
+    "ARTOLA BROCH, UNAI"
+  ],
+  "jugadores_local": [
+    "MOLINA GARCIA, ALEX",
+    "RUIZ GARCIA DE VICUÑA, EDER",
+    "ALEJO LEJARRAGA, ENAITZ",
+    "RIBOTE LACALLE, EDER",
+    "TRIGUEROS BULLON, UNAX",
+    "ETXEZARRAGA URKIJO, PEIO",
+    "BEASKOETXEA SANCHEZ, GALDER",
+    "AGINAKO SOLAUN, XABIER",
+    "BLANCO MARTIN, UNAI",
+    "COBELO VELEZ, IBAI",
+    "CORO LOPEZ, ALVARO",
+    "OTERO LABRADOR, UNAI",
+    "LOZANO LOPEZ, MARKEL",
+    "GORROTXATEGI APARICIO, IKER"
+  ],
+  "jugadores_visitante": [
+    "ANTOLIN HERRAEZ, ION",
+    "ARELLANO CERROS, ANDER",
+    "SACRISTAN MARTIN, GABRIEL",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "PAREDES PANIAGUA, MARKEL",
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "MARTIN MUNGUIRA, ANDER",
+    "MEDEL MOLINERO, SAÚL",
+    "HERNANDEZ BRAZO, ARETX",
+    "ALONSO VERGARA, MARKEL",
+    "MORALES BASAÑEZ, ARITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "OTERO LABRADOR, UNAI",
+      "sale": "AGINAKO SOLAUN, XABIER"
+    },
+    {
+      "min": 60,
+      "entra": "LOZANO LOPEZ, MARKEL",
+      "sale": "BEASKOETXEA SANCHEZ, GALDER"
+    },
+    {
+      "min": 64,
+      "entra": "GORROTXATEGI APARICIO, IKER",
+      "sale": "ETXEZARRAGA URKIJO, PEIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "ALONSO VERGARA, MARKEL",
+      "sale": "PAREDES PANIAGUA, MARKEL"
+    },
+    {
+      "min": 65,
+      "entra": "MORALES BASAÑEZ, ARITZ",
+      "sale": "MARTIN MUNGUIRA, ANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "MOLINA GARCIA, ALEX": 90,
+    "RUIZ GARCIA DE VICUÑA, EDER": 90,
+    "ALEJO LEJARRAGA, ENAITZ": 90,
+    "RIBOTE LACALLE, EDER": 90,
+    "TRIGUEROS BULLON, UNAX": 90,
+    "ETXEZARRAGA URKIJO, PEIO": 64,
+    "BEASKOETXEA SANCHEZ, GALDER": 60,
+    "AGINAKO SOLAUN, XABIER": 60,
+    "BLANCO MARTIN, UNAI": 90,
+    "COBELO VELEZ, IBAI": 90,
+    "CORO LOPEZ, ALVARO": 90,
+    "OTERO LABRADOR, UNAI": 30,
+    "LOZANO LOPEZ, MARKEL": 30,
+    "GORROTXATEGI APARICIO, IKER": 26,
+    "ANTOLIN HERRAEZ, ION": 90,
+    "ARELLANO CERROS, ANDER": 90,
+    "SACRISTAN MARTIN, GABRIEL": 90,
+    "HERNANDEZ SANTISTEBAN, OIER": 90,
+    "PAREDES PANIAGUA, MARKEL": 56,
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER": 90,
+    "FERNANDEZ PAÑOS, AIMAR": 90,
+    "ESPAÑA RAMOS, NIKOLAS": 90,
+    "MARTIN MUNGUIRA, ANDER": 65,
+    "MEDEL MOLINERO, SAÚL": 90,
+    "HERNANDEZ BRAZO, ARETX": 90,
+    "ALONSO VERGARA, MARKEL": 34,
+    "MORALES BASAÑEZ, ARITZ": 25
+  },
+  "portero_local": "MOLINA GARCIA, ALEX",
+  "portero_visitante": "ANTOLIN HERRAEZ, ION",
+  "dorsales_local": {
+    "MOLINA GARCIA, ALEX": 13,
+    "RUIZ GARCIA DE VICUÑA, EDER": 3,
+    "ALEJO LEJARRAGA, ENAITZ": 4,
+    "RIBOTE LACALLE, EDER": 5,
+    "TRIGUEROS BULLON, UNAX": 8,
+    "ETXEZARRAGA URKIJO, PEIO": 9,
+    "BEASKOETXEA SANCHEZ, GALDER": 11,
+    "AGINAKO SOLAUN, XABIER": 12,
+    "BLANCO MARTIN, UNAI": 17,
+    "COBELO VELEZ, IBAI": 18,
+    "CORO LOPEZ, ALVARO": 24
+  },
+  "dorsales_visitante": {
+    "ANTOLIN HERRAEZ, ION": 1,
+    "ARELLANO CERROS, ANDER": 2,
+    "SACRISTAN MARTIN, GABRIEL": 3,
+    "HERNANDEZ SANTISTEBAN, OIER": 6,
+    "PAREDES PANIAGUA, MARKEL": 7,
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER": 9,
+    "FERNANDEZ PAÑOS, AIMAR": 10,
+    "ESPAÑA RAMOS, NIKOLAS": 11,
+    "MARTIN MUNGUIRA, ANDER": 14,
+    "MEDEL MOLINERO, SAÚL": 17,
+    "HERNANDEZ BRAZO, ARETX": 18
+  },
+  "suspendidos": []
+}
