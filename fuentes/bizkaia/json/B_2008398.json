@@ -1,0 +1,253 @@
+{
+  "acta_id": "B_2008398",
+  "filename": "Acta_B_2008398.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 10,
+  "fecha": "07-12-2024",
+  "hora": "10:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ETXEBARRI A",
+  "equipo_visitante": "ERMUA A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ORTIZ DE ZARATE SOBRINO, JAVIER"
+  ],
+  "estadio": "MUNICIPAL A",
+  "ciudad": "Etxebarri",
+  "goleadores": [
+    {
+      "minuto": 44,
+      "jugador": "ALVAREZ ALVAREZ, ANER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "GARCIA MARQUEZ, HARITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DE SANTIAGO LOPEZ, FRANCISCO JAVIER",
+  "entrenador_visitante": "CID RUIZ, JULEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RASTROLLO ARENAS, ANDONI",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RASTROLLO ARENAS, ANDONI",
+  "delegado_equipo_visitante": "POLO MARTIN, ENRIQUE",
+  "titulares_local": [
+    "ESTEVEZ MEDIAVILLA, MIKEL",
+    "BASALDUA ANAYA, UNAI",
+    "ARELLANO CERROS, ANDER",
+    "GARCIA MARQUEZ, HARITZ",
+    "FUENTE OTERO, ANDER",
+    "MORALES ALVARO, MARIO",
+    "ALVAREZ MAESO, PABLO",
+    "GOMEZ DELGADO, EKAITZ",
+    "ALBANO GONZALES, JAGOBA VICTOR",
+    "MIRANDA USUBIAGA, EGOITZ",
+    "LLARENA ALTARRIBA, DANEL"
+  ],
+  "titulares_visitante": [
+    "GOMEZ MORENTE, NADIM",
+    "MARTINEZ ZUBIZARRETA, JON",
+    "BOUTRASSEYT LAARIK, YOUSSEF",
+    "AHANNACH EL MESRI, GHASSAN",
+    "BLANCO MORALES, LUKEN",
+    "RODRIGUEZ SOLIZ, ARIEL",
+    "LUQUE FERNANDEZ, ANDER",
+    "ARAIZTEGI BERRIOZABAL, XARLES",
+    "ALVAREZ ALVAREZ, ANER",
+    "CASTRILLO ISASI, BEÑAT",
+    "CARRASCOSA ARRIAGA, MARTXEL"
+  ],
+  "suplentes_local": [
+    "GARCIA ALVAREZ, IBAI",
+    "MERINO DE ANTOLIN, OIER",
+    "RENTERIA BLANCO, IZEI",
+    "TUBIO SANGRONIZ, MIKEL",
+    "MEDEL MOLINERO, SAÚL",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "CHRAYAH, MOHAMMED"
+  ],
+  "suplentes_visitante": [
+    "LARREATEGUI SANTAMARIA, ANDER",
+    "DOMINGO CARMONA, GARI",
+    "GUISASOLA FERNANDEZ, OIHAN",
+    "LARRAÑAGA LOPEZ, BEÑAT",
+    "MARTIN HONRUBIA, SERGIO",
+    "SANCHEZ PEREZ, IKER",
+    "ACHAHBAR HADIR, AKRAM"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA ALVAREZ, IBAI",
+    "FERNANDEZ PAÑOS, AIMAR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "LARREATEGUI SANTAMARIA, ANDER",
+    "GUISASOLA FERNANDEZ, OIHAN"
+  ],
+  "jugadores_local": [
+    "ESTEVEZ MEDIAVILLA, MIKEL",
+    "BASALDUA ANAYA, UNAI",
+    "ARELLANO CERROS, ANDER",
+    "GARCIA MARQUEZ, HARITZ",
+    "FUENTE OTERO, ANDER",
+    "MORALES ALVARO, MARIO",
+    "ALVAREZ MAESO, PABLO",
+    "GOMEZ DELGADO, EKAITZ",
+    "ALBANO GONZALES, JAGOBA VICTOR",
+    "MIRANDA USUBIAGA, EGOITZ",
+    "LLARENA ALTARRIBA, DANEL",
+    "RENTERIA BLANCO, IZEI",
+    "MERINO DE ANTOLIN, OIER",
+    "TUBIO SANGRONIZ, MIKEL",
+    "MEDEL MOLINERO, SAÚL",
+    "CHRAYAH, MOHAMMED"
+  ],
+  "jugadores_visitante": [
+    "GOMEZ MORENTE, NADIM",
+    "MARTINEZ ZUBIZARRETA, JON",
+    "BOUTRASSEYT LAARIK, YOUSSEF",
+    "AHANNACH EL MESRI, GHASSAN",
+    "BLANCO MORALES, LUKEN",
+    "RODRIGUEZ SOLIZ, ARIEL",
+    "LUQUE FERNANDEZ, ANDER",
+    "ARAIZTEGI BERRIOZABAL, XARLES",
+    "ALVAREZ ALVAREZ, ANER",
+    "CASTRILLO ISASI, BEÑAT",
+    "CARRASCOSA ARRIAGA, MARTXEL",
+    "MARTIN HONRUBIA, SERGIO",
+    "LARRAÑAGA LOPEZ, BEÑAT",
+    "DOMINGO CARMONA, GARI",
+    "ACHAHBAR HADIR, AKRAM",
+    "SANCHEZ PEREZ, IKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "RENTERIA BLANCO, IZEI",
+      "sale": "MIRANDA USUBIAGA, EGOITZ"
+    },
+    {
+      "min": 40,
+      "entra": "MERINO DE ANTOLIN, OIER",
+      "sale": "ARELLANO CERROS, ANDER"
+    },
+    {
+      "min": 47,
+      "entra": "TUBIO SANGRONIZ, MIKEL",
+      "sale": "BASALDUA ANAYA, UNAI"
+    },
+    {
+      "min": 66,
+      "entra": "MEDEL MOLINERO, SAÚL",
+      "sale": "GOMEZ DELGADO, EKAITZ"
+    },
+    {
+      "min": 73,
+      "entra": "CHRAYAH, MOHAMMED",
+      "sale": "FUENTE OTERO, ANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "MARTIN HONRUBIA, SERGIO",
+      "sale": "LUQUE FERNANDEZ, ANDER"
+    },
+    {
+      "min": 55,
+      "entra": "LARRAÑAGA LOPEZ, BEÑAT",
+      "sale": "MARTINEZ ZUBIZARRETA, JON"
+    },
+    {
+      "min": 55,
+      "entra": "DOMINGO CARMONA, GARI",
+      "sale": "BOUTRASSEYT LAARIK, YOUSSEF"
+    },
+    {
+      "min": 66,
+      "entra": "ACHAHBAR HADIR, AKRAM",
+      "sale": "ALVAREZ ALVAREZ, ANER"
+    },
+    {
+      "min": 75,
+      "entra": "SANCHEZ PEREZ, IKER",
+      "sale": "CASTRILLO ISASI, BEÑAT"
+    }
+  ],
+  "minutos_jugadores": {
+    "ESTEVEZ MEDIAVILLA, MIKEL": 90,
+    "BASALDUA ANAYA, UNAI": 47,
+    "ARELLANO CERROS, ANDER": 40,
+    "GARCIA MARQUEZ, HARITZ": 90,
+    "FUENTE OTERO, ANDER": 73,
+    "MORALES ALVARO, MARIO": 90,
+    "ALVAREZ MAESO, PABLO": 90,
+    "GOMEZ DELGADO, EKAITZ": 66,
+    "ALBANO GONZALES, JAGOBA VICTOR": 90,
+    "MIRANDA USUBIAGA, EGOITZ": 40,
+    "LLARENA ALTARRIBA, DANEL": 90,
+    "RENTERIA BLANCO, IZEI": 50,
+    "MERINO DE ANTOLIN, OIER": 50,
+    "TUBIO SANGRONIZ, MIKEL": 43,
+    "MEDEL MOLINERO, SAÚL": 24,
+    "CHRAYAH, MOHAMMED": 17,
+    "GOMEZ MORENTE, NADIM": 90,
+    "MARTINEZ ZUBIZARRETA, JON": 55,
+    "BOUTRASSEYT LAARIK, YOUSSEF": 55,
+    "AHANNACH EL MESRI, GHASSAN": 90,
+    "BLANCO MORALES, LUKEN": 90,
+    "RODRIGUEZ SOLIZ, ARIEL": 90,
+    "LUQUE FERNANDEZ, ANDER": 55,
+    "ARAIZTEGI BERRIOZABAL, XARLES": 90,
+    "ALVAREZ ALVAREZ, ANER": 66,
+    "CASTRILLO ISASI, BEÑAT": 75,
+    "CARRASCOSA ARRIAGA, MARTXEL": 90,
+    "MARTIN HONRUBIA, SERGIO": 35,
+    "LARRAÑAGA LOPEZ, BEÑAT": 35,
+    "DOMINGO CARMONA, GARI": 35,
+    "ACHAHBAR HADIR, AKRAM": 24,
+    "SANCHEZ PEREZ, IKER": 15
+  },
+  "portero_local": "ESTEVEZ MEDIAVILLA, MIKEL",
+  "portero_visitante": "GOMEZ MORENTE, NADIM",
+  "dorsales_local": {
+    "ESTEVEZ MEDIAVILLA, MIKEL": 1,
+    "BASALDUA ANAYA, UNAI": 2,
+    "ARELLANO CERROS, ANDER": 3,
+    "GARCIA MARQUEZ, HARITZ": 4,
+    "FUENTE OTERO, ANDER": 5,
+    "MORALES ALVARO, MARIO": 6,
+    "ALVAREZ MAESO, PABLO": 7,
+    "GOMEZ DELGADO, EKAITZ": 8,
+    "ALBANO GONZALES, JAGOBA VICTOR": 12,
+    "MIRANDA USUBIAGA, EGOITZ": 19,
+    "LLARENA ALTARRIBA, DANEL": 21
+  },
+  "dorsales_visitante": {
+    "GOMEZ MORENTE, NADIM": 13,
+    "MARTINEZ ZUBIZARRETA, JON": 2,
+    "BOUTRASSEYT LAARIK, YOUSSEF": 3,
+    "AHANNACH EL MESRI, GHASSAN": 4,
+    "BLANCO MORALES, LUKEN": 5,
+    "RODRIGUEZ SOLIZ, ARIEL": 6,
+    "LUQUE FERNANDEZ, ANDER": 7,
+    "ARAIZTEGI BERRIOZABAL, XARLES": 8,
+    "ALVAREZ ALVAREZ, ANER": 9,
+    "CASTRILLO ISASI, BEÑAT": 10,
+    "CARRASCOSA ARRIAGA, MARTXEL": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
