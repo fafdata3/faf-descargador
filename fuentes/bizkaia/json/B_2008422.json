@@ -1,0 +1,276 @@
+{
+  "acta_id": "B_2008422",
+  "filename": "Acta_B_2008422.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 13,
+  "fecha": "05-01-2025",
+  "hora": "11:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "URITARRA",
+  "equipo_visitante": "GERNIKA B",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "GARCIA TORRES, IÑAKI"
+  ],
+  "estadio": "ERREBALE",
+  "ciudad": "Larrabetzu",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "ORTIZ IRIBAR, MANEX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "MARTIN AZULA, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "ABDELLAHI SIDI CHREIF, CHEJ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 54,
+      "jugador": "IYAWE IYAWE, JASON AIZENOSA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "MARTIN AZULA, MIKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "ZABALA PLAZA, OIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GAZTELU FOLLA, IORITZ",
+  "entrenador_visitante": "BARASOAIN ODRIOZOLA, IBAI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ARREGI OLABARRIETA, EKAIN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARREGI OLABARRIETA, EKAIN",
+  "delegado_equipo_visitante": "ZABALA ARANGUREN, KEPA",
+  "titulares_local": [
+    "UNDABARRENA LARRABIDE, LANDER",
+    "SAGASTI SALGADO, ENAITZ",
+    "BAGAN CORTAZAR, JULEN",
+    "SANCHEZ CUADRADO, IKER",
+    "MANDALUNIZ HERNANDEZ, UNAI",
+    "LANDA ALVAREZ, PEIO",
+    "TEJERA JAUREGIZURIA, LANDER",
+    "SOLAUN ELIZONDO, MAIU",
+    "FONCEA GOROSTIOLA, KEMEN",
+    "IYAWE IYAWE, JASON AIZENOSA",
+    "FONCEA GOROSTIOLA, XIMUN"
+  ],
+  "titulares_visitante": [
+    "ZATINGA, ALEXANDRU AVRAM",
+    "DELGADO GUERRERO, UNAI",
+    "URKIRI ANAKABE, DANEL",
+    "ABDELLAHI SIDI CHREIF, CHEJ",
+    "ZABALA PLAZA, OIER",
+    "ORTIZ IRIBAR, MANEX",
+    "AZKUNAGA IBARGUENGOITIA, UNAI",
+    "TORREALDAI ALONSO, EKHI",
+    "ARRIAGA LARRETA, URKO",
+    "LARRUZEA ARRIEN, IKER",
+    "BERAZA CALZADA, AIMAR"
+  ],
+  "suplentes_local": [
+    "HORMAETXE BARRENA, XANET",
+    "BILBAO LOPEZ, BEÑAT",
+    "ROLA BADIOLA, ASIER",
+    "ORS URKIDI, UNAI",
+    "UGALDE LOPEZ, KIMETZ",
+    "IYAWE IYAWE, NOSAZENA AXEL",
+    "CRISTOBAL ORUE, PERU"
+  ],
+  "suplentes_visitante": [
+    "UGARTEBURU ZARRABEITIA, AIMAR",
+    "MUNIOZGUREN PAGAZAURTUNDUA, PEIO",
+    "BASTERRETXEA GARATE, IBAI",
+    "MARTIN AZULA, MIKEL",
+    "MANDALUNIZ OARBEASKOA, IKER"
+  ],
+  "convocados_sin_jugar_local": [
+    "HORMAETXE BARRENA, XANET",
+    "BILBAO LOPEZ, BEÑAT"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "UNDABARRENA LARRABIDE, LANDER",
+    "SAGASTI SALGADO, ENAITZ",
+    "BAGAN CORTAZAR, JULEN",
+    "SANCHEZ CUADRADO, IKER",
+    "MANDALUNIZ HERNANDEZ, UNAI",
+    "LANDA ALVAREZ, PEIO",
+    "TEJERA JAUREGIZURIA, LANDER",
+    "SOLAUN ELIZONDO, MAIU",
+    "FONCEA GOROSTIOLA, KEMEN",
+    "IYAWE IYAWE, JASON AIZENOSA",
+    "FONCEA GOROSTIOLA, XIMUN",
+    "IYAWE IYAWE, NOSAZENA AXEL",
+    "ROLA BADIOLA, ASIER",
+    "UGALDE LOPEZ, KIMETZ",
+    "CRISTOBAL ORUE, PERU",
+    "ORS URKIDI, UNAI"
+  ],
+  "jugadores_visitante": [
+    "ZATINGA, ALEXANDRU AVRAM",
+    "DELGADO GUERRERO, UNAI",
+    "URKIRI ANAKABE, DANEL",
+    "ABDELLAHI SIDI CHREIF, CHEJ",
+    "ZABALA PLAZA, OIER",
+    "ORTIZ IRIBAR, MANEX",
+    "AZKUNAGA IBARGUENGOITIA, UNAI",
+    "TORREALDAI ALONSO, EKHI",
+    "ARRIAGA LARRETA, URKO",
+    "LARRUZEA ARRIEN, IKER",
+    "BERAZA CALZADA, AIMAR",
+    "UGARTEBURU ZARRABEITIA, AIMAR",
+    "MANDALUNIZ OARBEASKOA, IKER",
+    "MUNIOZGUREN PAGAZAURTUNDUA, PEIO",
+    "MARTIN AZULA, MIKEL",
+    "BASTERRETXEA GARATE, IBAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "IYAWE IYAWE, NOSAZENA AXEL",
+      "sale": "SANCHEZ CUADRADO, IKER"
+    },
+    {
+      "min": 54,
+      "entra": "ROLA BADIOLA, ASIER",
+      "sale": "FONCEA GOROSTIOLA, KEMEN"
+    },
+    {
+      "min": 54,
+      "entra": "UGALDE LOPEZ, KIMETZ",
+      "sale": "TEJERA JAUREGIZURIA, LANDER"
+    },
+    {
+      "min": 68,
+      "entra": "CRISTOBAL ORUE, PERU",
+      "sale": "IYAWE IYAWE, JASON AIZENOSA"
+    },
+    {
+      "min": 73,
+      "entra": "ORS URKIDI, UNAI",
+      "sale": "LANDA ALVAREZ, PEIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "UGARTEBURU ZARRABEITIA, AIMAR",
+      "sale": "ORTIZ IRIBAR, MANEX"
+    },
+    {
+      "min": 45,
+      "entra": "MANDALUNIZ OARBEASKOA, IKER",
+      "sale": "BERAZA CALZADA, AIMAR"
+    },
+    {
+      "min": 51,
+      "entra": "MUNIOZGUREN PAGAZAURTUNDUA, PEIO",
+      "sale": "URKIRI ANAKABE, DANEL"
+    },
+    {
+      "min": 57,
+      "entra": "MARTIN AZULA, MIKEL",
+      "sale": "TORREALDAI ALONSO, EKHI"
+    },
+    {
+      "min": 57,
+      "entra": "BASTERRETXEA GARATE, IBAI",
+      "sale": "AZKUNAGA IBARGUENGOITIA, UNAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "UNDABARRENA LARRABIDE, LANDER": 90,
+    "SAGASTI SALGADO, ENAITZ": 90,
+    "BAGAN CORTAZAR, JULEN": 90,
+    "SANCHEZ CUADRADO, IKER": 41,
+    "MANDALUNIZ HERNANDEZ, UNAI": 90,
+    "LANDA ALVAREZ, PEIO": 73,
+    "TEJERA JAUREGIZURIA, LANDER": 54,
+    "SOLAUN ELIZONDO, MAIU": 90,
+    "FONCEA GOROSTIOLA, KEMEN": 54,
+    "IYAWE IYAWE, JASON AIZENOSA": 68,
+    "FONCEA GOROSTIOLA, XIMUN": 90,
+    "IYAWE IYAWE, NOSAZENA AXEL": 49,
+    "ROLA BADIOLA, ASIER": 36,
+    "UGALDE LOPEZ, KIMETZ": 36,
+    "CRISTOBAL ORUE, PERU": 22,
+    "ORS URKIDI, UNAI": 17,
+    "ZATINGA, ALEXANDRU AVRAM": 90,
+    "DELGADO GUERRERO, UNAI": 90,
+    "URKIRI ANAKABE, DANEL": 51,
+    "ABDELLAHI SIDI CHREIF, CHEJ": 90,
+    "ZABALA PLAZA, OIER": 90,
+    "ORTIZ IRIBAR, MANEX": 45,
+    "AZKUNAGA IBARGUENGOITIA, UNAI": 57,
+    "TORREALDAI ALONSO, EKHI": 57,
+    "ARRIAGA LARRETA, URKO": 90,
+    "LARRUZEA ARRIEN, IKER": 90,
+    "BERAZA CALZADA, AIMAR": 45,
+    "UGARTEBURU ZARRABEITIA, AIMAR": 45,
+    "MANDALUNIZ OARBEASKOA, IKER": 45,
+    "MUNIOZGUREN PAGAZAURTUNDUA, PEIO": 39,
+    "MARTIN AZULA, MIKEL": 33,
+    "BASTERRETXEA GARATE, IBAI": 33
+  },
+  "portero_local": "UNDABARRENA LARRABIDE, LANDER",
+  "portero_visitante": "ZATINGA, ALEXANDRU AVRAM",
+  "dorsales_local": {
+    "UNDABARRENA LARRABIDE, LANDER": 1,
+    "SAGASTI SALGADO, ENAITZ": 4,
+    "BAGAN CORTAZAR, JULEN": 5,
+    "SANCHEZ CUADRADO, IKER": 7,
+    "MANDALUNIZ HERNANDEZ, UNAI": 8,
+    "LANDA ALVAREZ, PEIO": 12,
+    "TEJERA JAUREGIZURIA, LANDER": 14,
+    "SOLAUN ELIZONDO, MAIU": 18,
+    "FONCEA GOROSTIOLA, KEMEN": 20,
+    "IYAWE IYAWE, JASON AIZENOSA": 23,
+    "FONCEA GOROSTIOLA, XIMUN": 24
+  },
+  "dorsales_visitante": {
+    "ZATINGA, ALEXANDRU AVRAM": 1,
+    "DELGADO GUERRERO, UNAI": 4,
+    "URKIRI ANAKABE, DANEL": 6,
+    "ABDELLAHI SIDI CHREIF, CHEJ": 7,
+    "ZABALA PLAZA, OIER": 8,
+    "ORTIZ IRIBAR, MANEX": 10,
+    "AZKUNAGA IBARGUENGOITIA, UNAI": 12,
+    "TORREALDAI ALONSO, EKHI": 14,
+    "ARRIAGA LARRETA, URKO": 16,
+    "LARRUZEA ARRIEN, IKER": 19,
+    "BERAZA CALZADA, AIMAR": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
