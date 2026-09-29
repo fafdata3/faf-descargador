@@ -1,0 +1,242 @@
+{
+  "acta_id": "C_171426",
+  "filename": "Acta_C_171426.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 30,
+  "fecha": "05-05-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "CLUB BANSANDER B",
+  "equipo_visitante": "E.M.F. SANTOÑA",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "BEZANILLA RODRIGUEZ, MIGUEL"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "SANTURDE DIEZ, DARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "PEREZ ASOREY, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "CORTABITARTE SOBERON, ILAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "QUINTANA GUTIERREZ, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 40,
+      "jugador": "MAZA HONTAVILLA, ERIC",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "MARTIN HERRERO, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SANZ GIL, AITOR",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "LARRAÑAGA TUÑON, JUAN",
+  "titulares_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GALA RUIZ, HUGO",
+    "GONZALEZ AMOROS, MARCO",
+    "MOLINA PRADA, MARIO",
+    "PEREZ ASOREY, OIER",
+    "DE SANTIAGO BEZANILLA, GERMAN",
+    "SANTURDE DIEZ, DARIO",
+    "MAZA HONTAVILLA, ERIC",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "VAN DE WORP HERNANDO, LUKAS",
+    "MARTIN HERRERO, HUGO"
+  ],
+  "titulares_visitante": [
+    "XIANG, JUNKAI",
+    "HAZAS QUINTANA, ANTONIO",
+    "CABALLERO DEL REY, ALVARO",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "ALONSO MAZA, AIMAR",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "DIEZ PALOMARES, DIEGO",
+    "SAN MILLAN BECERRA, DYLAN",
+    "VALLE MARTINEZ, IZAN",
+    "BLANCO GONZALEZ, OIER",
+    "SOLANO PRADA, VICTOR"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "QUINTANA GUTIERREZ, JORGE",
+    "ARCE PIÑAL, HUGO",
+    "CORTABITARTE SOBERON, ILAN",
+    "LOPEZ FERNANDEZ, IAN"
+  ],
+  "suplentes_visitante": [
+    "PESO ESCARDA, GABRIEL",
+    "ARCOS QUINTANA, ELVER ALEXANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "RODRIGUEZ AGUDO, HUGO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GALA RUIZ, HUGO",
+    "GONZALEZ AMOROS, MARCO",
+    "MOLINA PRADA, MARIO",
+    "PEREZ ASOREY, OIER",
+    "DE SANTIAGO BEZANILLA, GERMAN",
+    "SANTURDE DIEZ, DARIO",
+    "MAZA HONTAVILLA, ERIC",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "VAN DE WORP HERNANDO, LUKAS",
+    "MARTIN HERRERO, HUGO",
+    "CORTABITARTE SOBERON, ILAN",
+    "LOPEZ FERNANDEZ, IAN",
+    "QUINTANA GUTIERREZ, JORGE",
+    "ARCE PIÑAL, HUGO"
+  ],
+  "jugadores_visitante": [
+    "XIANG, JUNKAI",
+    "HAZAS QUINTANA, ANTONIO",
+    "CABALLERO DEL REY, ALVARO",
+    "ANSOLA FERNANDEZ, VINDIO",
+    "ALONSO MAZA, AIMAR",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "DIEZ PALOMARES, DIEGO",
+    "SAN MILLAN BECERRA, DYLAN",
+    "VALLE MARTINEZ, IZAN",
+    "BLANCO GONZALEZ, OIER",
+    "SOLANO PRADA, VICTOR",
+    "ARCOS QUINTANA, ELVER ALEXANDER",
+    "PESO ESCARDA, GABRIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "CORTABITARTE SOBERON, ILAN",
+      "sale": "DE SANTIAGO BEZANILLA, GERMAN"
+    },
+    {
+      "min": 50,
+      "entra": "LOPEZ FERNANDEZ, IAN",
+      "sale": "VAN DE WORP HERNANDO, LUKAS"
+    },
+    {
+      "min": 59,
+      "entra": "QUINTANA GUTIERREZ, JORGE",
+      "sale": "PEREZ ASOREY, OIER"
+    },
+    {
+      "min": 73,
+      "entra": "ARCE PIÑAL, HUGO",
+      "sale": "DEL RIO PRIETO, JUAN VICENTE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "ARCOS QUINTANA, ELVER ALEXANDER",
+      "sale": "SOLANA FERNANDEZ, ALEJANDRO"
+    },
+    {
+      "min": 56,
+      "entra": "PESO ESCARDA, GABRIEL",
+      "sale": "SOLANO PRADA, VICTOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRIZ ESTEBANEZ, ALBERTO": 90,
+    "GALA RUIZ, HUGO": 90,
+    "GONZALEZ AMOROS, MARCO": 90,
+    "MOLINA PRADA, MARIO": 90,
+    "PEREZ ASOREY, OIER": 59,
+    "DE SANTIAGO BEZANILLA, GERMAN": 50,
+    "SANTURDE DIEZ, DARIO": 90,
+    "MAZA HONTAVILLA, ERIC": 90,
+    "DEL RIO PRIETO, JUAN VICENTE": 73,
+    "VAN DE WORP HERNANDO, LUKAS": 50,
+    "MARTIN HERRERO, HUGO": 90,
+    "CORTABITARTE SOBERON, ILAN": 40,
+    "LOPEZ FERNANDEZ, IAN": 40,
+    "QUINTANA GUTIERREZ, JORGE": 31,
+    "ARCE PIÑAL, HUGO": 17,
+    "XIANG, JUNKAI": 90,
+    "HAZAS QUINTANA, ANTONIO": 90,
+    "CABALLERO DEL REY, ALVARO": 90,
+    "ANSOLA FERNANDEZ, VINDIO": 90,
+    "ALONSO MAZA, AIMAR": 90,
+    "SOLANA FERNANDEZ, ALEJANDRO": 40,
+    "DIEZ PALOMARES, DIEGO": 90,
+    "SAN MILLAN BECERRA, DYLAN": 90,
+    "VALLE MARTINEZ, IZAN": 90,
+    "BLANCO GONZALEZ, OIER": 90,
+    "SOLANO PRADA, VICTOR": 56,
+    "ARCOS QUINTANA, ELVER ALEXANDER": 50,
+    "PESO ESCARDA, GABRIEL": 34
+  },
+  "portero_local": "BRIZ ESTEBANEZ, ALBERTO",
+  "portero_visitante": "XIANG, JUNKAI",
+  "dorsales_local": {
+    "BRIZ ESTEBANEZ, ALBERTO": 1,
+    "GALA RUIZ, HUGO": 2,
+    "GONZALEZ AMOROS, MARCO": 3,
+    "MOLINA PRADA, MARIO": 5,
+    "PEREZ ASOREY, OIER": 6,
+    "DE SANTIAGO BEZANILLA, GERMAN": 12,
+    "SANTURDE DIEZ, DARIO": 14,
+    "MAZA HONTAVILLA, ERIC": 15,
+    "DEL RIO PRIETO, JUAN VICENTE": 16,
+    "VAN DE WORP HERNANDO, LUKAS": 20,
+    "MARTIN HERRERO, HUGO": 22
+  },
+  "dorsales_visitante": {
+    "XIANG, JUNKAI": 13,
+    "HAZAS QUINTANA, ANTONIO": 2,
+    "CABALLERO DEL REY, ALVARO": 3,
+    "ANSOLA FERNANDEZ, VINDIO": 4,
+    "ALONSO MAZA, AIMAR": 5,
+    "SOLANA FERNANDEZ, ALEJANDRO": 6,
+    "DIEZ PALOMARES, DIEGO": 7,
+    "SAN MILLAN BECERRA, DYLAN": 8,
+    "VALLE MARTINEZ, IZAN": 9,
+    "BLANCO GONZALEZ, OIER": 12,
+    "SOLANO PRADA, VICTOR": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
