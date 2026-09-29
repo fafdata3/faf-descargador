@@ -1,0 +1,250 @@
+{
+  "acta_id": "C_171423",
+  "filename": "Acta_C_171423.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 30,
+  "fecha": "04-05-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT B",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "FERNÁNDEZ TERÁN, PEDRO"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "YELA GONZALEZ, MAURICIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "YELA GONZALEZ, MAURICIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "GARCIA AGUADO, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 58,
+      "jugador": "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "RUEDA FONFRIA, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MESA SUAREZ, GERARDO",
+  "entrenador_visitante": "HERBOSO RANERO, IVAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DEL CASTILLO SAEZ, MANUEL A",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DEL CASTILLO SAEZ, MANUEL A",
+  "delegado_equipo_visitante": "GÜIZA CARBALLO, ASER",
+  "titulares_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "agudo cuenca, DIEGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "RUBIN MUÑOZ, MICHEL",
+    "DE ANGEL BATYREV, LUCAS",
+    "RUIZ SAIZ, MARIO",
+    "GARCIA AGUADO, DANIEL",
+    "FUENTES PALLEJA, ERIK",
+    "ASON BALAGUER, MARIO",
+    "GARCIA GOMEZ, DANIEL",
+    "YELA GONZALEZ, MAURICIO"
+  ],
+  "titulares_visitante": [
+    "DOMINGUEZ FREIRE, HUGO",
+    "SARABIA PARDO, ASIER",
+    "OÑATE CANO, ROMÁN",
+    "VIÑAS MARTINEZ, GABRIEL",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "AMUTIO CASADO, ANGEL",
+    "CLAVERO PEREZ, HECTOR",
+    "RUEDA FONFRIA, DANIEL",
+    "CALVO MIRANDA, LUCAS",
+    "BLANCO SOLANA, NICOLAS",
+    "CAVADA LAYA, PABLO"
+  ],
+  "suplentes_local": [
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "Flor Martinez, IAGO",
+    "Montenegro Perez, MARCOS GERMAN",
+    "COLLANTES GOMEZ, HUGO",
+    "REY LASTRA, JOSE LUIS"
+  ],
+  "suplentes_visitante": [
+    "GUTIERREZ HONTALVILLA, DIEGO",
+    "CERRO COBO, OIER",
+    "SAN MIGUEL MIGUEL, JAVIER",
+    "CUESTA ROCILLO, BRUNO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "GUTIERREZ HONTALVILLA, DIEGO"
+  ],
+  "jugadores_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "agudo cuenca, DIEGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "RUBIN MUÑOZ, MICHEL",
+    "DE ANGEL BATYREV, LUCAS",
+    "RUIZ SAIZ, MARIO",
+    "GARCIA AGUADO, DANIEL",
+    "FUENTES PALLEJA, ERIK",
+    "ASON BALAGUER, MARIO",
+    "GARCIA GOMEZ, DANIEL",
+    "YELA GONZALEZ, MAURICIO",
+    "COLLANTES GOMEZ, HUGO",
+    "REY LASTRA, JOSE LUIS",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "Montenegro Perez, MARCOS GERMAN",
+    "Flor Martinez, IAGO"
+  ],
+  "jugadores_visitante": [
+    "DOMINGUEZ FREIRE, HUGO",
+    "SARABIA PARDO, ASIER",
+    "OÑATE CANO, ROMÁN",
+    "VIÑAS MARTINEZ, GABRIEL",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "AMUTIO CASADO, ANGEL",
+    "CLAVERO PEREZ, HECTOR",
+    "RUEDA FONFRIA, DANIEL",
+    "CALVO MIRANDA, LUCAS",
+    "BLANCO SOLANA, NICOLAS",
+    "CAVADA LAYA, PABLO",
+    "CERRO COBO, OIER",
+    "SAN MIGUEL MIGUEL, JAVIER",
+    "CUESTA ROCILLO, BRUNO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "COLLANTES GOMEZ, HUGO",
+      "sale": "GARCIA GOMEZ, DANIEL"
+    },
+    {
+      "min": 50,
+      "entra": "REY LASTRA, JOSE LUIS",
+      "sale": "agudo cuenca, DIEGO"
+    },
+    {
+      "min": 50,
+      "entra": "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+      "sale": "YELA GONZALEZ, MAURICIO"
+    },
+    {
+      "min": 61,
+      "entra": "Montenegro Perez, MARCOS GERMAN",
+      "sale": "FUENTES PALLEJA, ERIK"
+    },
+    {
+      "min": 61,
+      "entra": "Flor Martinez, IAGO",
+      "sale": "GARCIA AGUADO, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "CERRO COBO, OIER",
+      "sale": "CAVADA LAYA, PABLO"
+    },
+    {
+      "min": 63,
+      "entra": "SAN MIGUEL MIGUEL, JAVIER",
+      "sale": "BLANCO SOLANA, NICOLAS"
+    },
+    {
+      "min": 63,
+      "entra": "CUESTA ROCILLO, BRUNO",
+      "sale": "CLAVERO PEREZ, HECTOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ GOMEZ, HUGO": 90,
+    "agudo cuenca, DIEGO": 50,
+    "PORTILLA CAMUS, ALEJANDRO": 90,
+    "RUBIN MUÑOZ, MICHEL": 90,
+    "DE ANGEL BATYREV, LUCAS": 90,
+    "RUIZ SAIZ, MARIO": 90,
+    "GARCIA AGUADO, DANIEL": 61,
+    "FUENTES PALLEJA, ERIK": 61,
+    "ASON BALAGUER, MARIO": 90,
+    "GARCIA GOMEZ, DANIEL": 50,
+    "YELA GONZALEZ, MAURICIO": 50,
+    "COLLANTES GOMEZ, HUGO": 40,
+    "REY LASTRA, JOSE LUIS": 40,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 40,
+    "Montenegro Perez, MARCOS GERMAN": 29,
+    "Flor Martinez, IAGO": 29,
+    "DOMINGUEZ FREIRE, HUGO": 90,
+    "SARABIA PARDO, ASIER": 90,
+    "OÑATE CANO, ROMÁN": 90,
+    "VIÑAS MARTINEZ, GABRIEL": 90,
+    "SARABIA CAVIEDES, JANO ISIDRO": 90,
+    "AMUTIO CASADO, ANGEL": 90,
+    "CLAVERO PEREZ, HECTOR": 63,
+    "RUEDA FONFRIA, DANIEL": 90,
+    "CALVO MIRANDA, LUCAS": 90,
+    "BLANCO SOLANA, NICOLAS": 63,
+    "CAVADA LAYA, PABLO": 40,
+    "CERRO COBO, OIER": 50,
+    "SAN MIGUEL MIGUEL, JAVIER": 27,
+    "CUESTA ROCILLO, BRUNO": 27
+  },
+  "portero_local": "RODRIGUEZ GOMEZ, HUGO",
+  "portero_visitante": "DOMINGUEZ FREIRE, HUGO",
+  "dorsales_local": {
+    "RODRIGUEZ GOMEZ, HUGO": 1,
+    "agudo cuenca, DIEGO": 2,
+    "PORTILLA CAMUS, ALEJANDRO": 3,
+    "RUBIN MUÑOZ, MICHEL": 4,
+    "DE ANGEL BATYREV, LUCAS": 5,
+    "RUIZ SAIZ, MARIO": 7,
+    "GARCIA AGUADO, DANIEL": 9,
+    "FUENTES PALLEJA, ERIK": 10,
+    "ASON BALAGUER, MARIO": 11,
+    "GARCIA GOMEZ, DANIEL": 14,
+    "YELA GONZALEZ, MAURICIO": 16
+  },
+  "dorsales_visitante": {
+    "DOMINGUEZ FREIRE, HUGO": 1,
+    "SARABIA PARDO, ASIER": 2,
+    "OÑATE CANO, ROMÁN": 3,
+    "VIÑAS MARTINEZ, GABRIEL": 4,
+    "SARABIA CAVIEDES, JANO ISIDRO": 5,
+    "AMUTIO CASADO, ANGEL": 8,
+    "CLAVERO PEREZ, HECTOR": 10,
+    "RUEDA FONFRIA, DANIEL": 14,
+    "CALVO MIRANDA, LUCAS": 15,
+    "BLANCO SOLANA, NICOLAS": 16,
+    "CAVADA LAYA, PABLO": 20
+  },
+  "suspendidos": []
+}
