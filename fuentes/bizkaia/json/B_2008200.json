@@ -1,0 +1,254 @@
+{
+  "acta_id": "B_2008200",
+  "filename": "Acta_B_2008200.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 15,
+  "fecha": "19-01-2025",
+  "hora": "18:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "UGERAGA A",
+  "equipo_visitante": "SESTAO RIVER A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BILBAO RETOLAZA, BIKTOR"
+  ],
+  "estadio": "URKO-LARRABASTERRA 1",
+  "ciudad": "Sopelana",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "MARIN BLANCO, GARIKOITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "AYUSO GONZALEZ, ARETX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "FERREIRO ANABITARTE, AMETZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ANDERSEN ARROYO, MIKEL",
+  "entrenador_visitante": "ECHANIZ LLAMAS, ION",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GONZALEZ ZORZABALBERE, ASIER",
+  "delegado_campo_local": "RIKE CALVO, GURIA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RIKE CALVO, GURIA",
+  "delegado_equipo_visitante": "GONZÁLEZ FERNÁNDEZ , AMADO",
+  "titulares_local": [
+    "MOURE BUENO, IKER",
+    "DE GAMBOA GARCIA, ALAIN",
+    "LARREA NIEVA, AIMAR MIRENA",
+    "CORRAL MENTXAKA, HODEI",
+    "LORENTE BILBAO, IORITZ",
+    "MARIN BLANCO, GARIKOITZ",
+    "AYUSO GONZALEZ, ARETX",
+    "MUNICIO CAMPO, HANOT",
+    "GONZALEZ DEL HERRERO OREJA, IZEI",
+    "GARCIA QUIROGA, OIER",
+    "VILLAR TAMAYO, JON"
+  ],
+  "titulares_visitante": [
+    "FERREIRO ANABITARTE, AMETZ",
+    "GONZALEZ RIVERO, ADRIAN",
+    "RODRIGUEZ ENCINAS, MARCOS",
+    "GARCIA IBARRA, MIKEL",
+    "RODRIGUEZ URIARTE, GAIZKA",
+    "GOMEZ TORRES, ANDER",
+    "VALLE GARCIA, IBON",
+    "ARROLA NIETO, AGER",
+    "ARIAS MARTINEZ, ANDER",
+    "TOME DEL VAL, HEGOI",
+    "PERIAÑEZ RODRIGUEZ, UNAI"
+  ],
+  "suplentes_local": [
+    "MEDINA KANI, KAI",
+    "GARCIA CALVO, XABIER",
+    "LOPEZ KORKOSTEGI, JON",
+    "PEÑA RIVERA, ERLANTZ",
+    "SUNYER BAJO, AIERT",
+    "ARRIAGA CASAL, GORKA",
+    "GOIKOETXEA DE GOYARZU, EKHI"
+  ],
+  "suplentes_visitante": [
+    "ALONSO JUSTO, GALDER",
+    "HERNANDEZ GARCIA, ERLANTZ",
+    "PINTOS IBARROLA, KEVIN MANUEL",
+    "MORENO BÁEZ, LUIS MANUEL",
+    "PARRADO ALBARRACIN, JUAN JOSE",
+    "RAMOS MARTIN, HODEI",
+    "GONZALEZ DE LA QUINTANA, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "LOPEZ KORKOSTEGI, JON",
+    "ARRIAGA CASAL, GORKA",
+    "GOIKOETXEA DE GOYARZU, EKHI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALONSO JUSTO, GALDER",
+    "RAMOS MARTIN, HODEI"
+  ],
+  "jugadores_local": [
+    "MOURE BUENO, IKER",
+    "DE GAMBOA GARCIA, ALAIN",
+    "LARREA NIEVA, AIMAR MIRENA",
+    "CORRAL MENTXAKA, HODEI",
+    "LORENTE BILBAO, IORITZ",
+    "MARIN BLANCO, GARIKOITZ",
+    "AYUSO GONZALEZ, ARETX",
+    "MUNICIO CAMPO, HANOT",
+    "GONZALEZ DEL HERRERO OREJA, IZEI",
+    "GARCIA QUIROGA, OIER",
+    "VILLAR TAMAYO, JON",
+    "MEDINA KANI, KAI",
+    "PEÑA RIVERA, ERLANTZ",
+    "GARCIA CALVO, XABIER",
+    "SUNYER BAJO, AIERT"
+  ],
+  "jugadores_visitante": [
+    "FERREIRO ANABITARTE, AMETZ",
+    "GONZALEZ RIVERO, ADRIAN",
+    "RODRIGUEZ ENCINAS, MARCOS",
+    "GARCIA IBARRA, MIKEL",
+    "RODRIGUEZ URIARTE, GAIZKA",
+    "GOMEZ TORRES, ANDER",
+    "VALLE GARCIA, IBON",
+    "ARROLA NIETO, AGER",
+    "ARIAS MARTINEZ, ANDER",
+    "TOME DEL VAL, HEGOI",
+    "PERIAÑEZ RODRIGUEZ, UNAI",
+    "GONZALEZ DE LA QUINTANA, DANIEL",
+    "MORENO BÁEZ, LUIS MANUEL",
+    "PINTOS IBARROLA, KEVIN MANUEL",
+    "PARRADO ALBARRACIN, JUAN JOSE",
+    "HERNANDEZ GARCIA, ERLANTZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "MEDINA KANI, KAI",
+      "sale": "VILLAR TAMAYO, JON"
+    },
+    {
+      "min": 63,
+      "entra": "PEÑA RIVERA, ERLANTZ",
+      "sale": "GARCIA QUIROGA, OIER"
+    },
+    {
+      "min": 63,
+      "entra": "GARCIA CALVO, XABIER",
+      "sale": "MUNICIO CAMPO, HANOT"
+    },
+    {
+      "min": 68,
+      "entra": "SUNYER BAJO, AIERT",
+      "sale": "LORENTE BILBAO, IORITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GONZALEZ DE LA QUINTANA, DANIEL",
+      "sale": "PERIAÑEZ RODRIGUEZ, UNAI"
+    },
+    {
+      "min": 52,
+      "entra": "MORENO BÁEZ, LUIS MANUEL",
+      "sale": "TOME DEL VAL, HEGOI"
+    },
+    {
+      "min": 52,
+      "entra": "PINTOS IBARROLA, KEVIN MANUEL",
+      "sale": "GARCIA IBARRA, MIKEL"
+    },
+    {
+      "min": 63,
+      "entra": "PARRADO ALBARRACIN, JUAN JOSE",
+      "sale": "GOMEZ TORRES, ANDER"
+    },
+    {
+      "min": 71,
+      "entra": "HERNANDEZ GARCIA, ERLANTZ",
+      "sale": "ARROLA NIETO, AGER"
+    }
+  ],
+  "minutos_jugadores": {
+    "MOURE BUENO, IKER": 90,
+    "DE GAMBOA GARCIA, ALAIN": 90,
+    "LARREA NIEVA, AIMAR MIRENA": 90,
+    "CORRAL MENTXAKA, HODEI": 90,
+    "LORENTE BILBAO, IORITZ": 68,
+    "MARIN BLANCO, GARIKOITZ": 90,
+    "AYUSO GONZALEZ, ARETX": 90,
+    "MUNICIO CAMPO, HANOT": 63,
+    "GONZALEZ DEL HERRERO OREJA, IZEI": 90,
+    "GARCIA QUIROGA, OIER": 63,
+    "VILLAR TAMAYO, JON": 55,
+    "MEDINA KANI, KAI": 35,
+    "PEÑA RIVERA, ERLANTZ": 27,
+    "GARCIA CALVO, XABIER": 27,
+    "SUNYER BAJO, AIERT": 22,
+    "FERREIRO ANABITARTE, AMETZ": 90,
+    "GONZALEZ RIVERO, ADRIAN": 90,
+    "RODRIGUEZ ENCINAS, MARCOS": 90,
+    "GARCIA IBARRA, MIKEL": 52,
+    "RODRIGUEZ URIARTE, GAIZKA": 90,
+    "GOMEZ TORRES, ANDER": 63,
+    "VALLE GARCIA, IBON": 90,
+    "ARROLA NIETO, AGER": 71,
+    "ARIAS MARTINEZ, ANDER": 90,
+    "TOME DEL VAL, HEGOI": 52,
+    "PERIAÑEZ RODRIGUEZ, UNAI": 40,
+    "GONZALEZ DE LA QUINTANA, DANIEL": 50,
+    "MORENO BÁEZ, LUIS MANUEL": 38,
+    "PINTOS IBARROLA, KEVIN MANUEL": 38,
+    "PARRADO ALBARRACIN, JUAN JOSE": 27,
+    "HERNANDEZ GARCIA, ERLANTZ": 19
+  },
+  "portero_local": "MOURE BUENO, IKER",
+  "portero_visitante": "FERREIRO ANABITARTE, AMETZ",
+  "dorsales_local": {
+    "MOURE BUENO, IKER": 13,
+    "DE GAMBOA GARCIA, ALAIN": 2,
+    "LARREA NIEVA, AIMAR MIRENA": 3,
+    "CORRAL MENTXAKA, HODEI": 4,
+    "LORENTE BILBAO, IORITZ": 6,
+    "MARIN BLANCO, GARIKOITZ": 8,
+    "AYUSO GONZALEZ, ARETX": 9,
+    "MUNICIO CAMPO, HANOT": 10,
+    "GONZALEZ DEL HERRERO OREJA, IZEI": 14,
+    "GARCIA QUIROGA, OIER": 18,
+    "VILLAR TAMAYO, JON": 22
+  },
+  "dorsales_visitante": {
+    "FERREIRO ANABITARTE, AMETZ": 25,
+    "GONZALEZ RIVERO, ADRIAN": 3,
+    "RODRIGUEZ ENCINAS, MARCOS": 4,
+    "GARCIA IBARRA, MIKEL": 5,
+    "RODRIGUEZ URIARTE, GAIZKA": 9,
+    "GOMEZ TORRES, ANDER": 11,
+    "VALLE GARCIA, IBON": 16,
+    "ARROLA NIETO, AGER": 17,
+    "ARIAS MARTINEZ, ANDER": 20,
+    "TOME DEL VAL, HEGOI": 22,
+    "PERIAÑEZ RODRIGUEZ, UNAI": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
