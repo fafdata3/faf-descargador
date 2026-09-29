@@ -1,0 +1,273 @@
+{
+  "acta_id": "B_2008460",
+  "filename": "Acta_B_2008460.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 18,
+  "fecha": "09-02-2025",
+  "hora": "10:45",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "BASKAURI A",
+  "equipo_visitante": "INDARTSU A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ARTARAZ BASAGUREN, IÑIGO"
+  ],
+  "estadio": "ARTUNDUAGA 2",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 45,
+      "jugador": "ABUIN MOMOITIO, OIHAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "SAN PEDRO GAVIÑA, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "OSINAGA FLORES, FERNANDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "DE LA VEGA JUAREZ, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "UBIERNA CARRASCO, IBAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "IBAÑEZ GUEVARA, IORITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SANTIAGO GUTIERREZ, RUBEN",
+  "entrenador_visitante": "CASILLAS MUÑOZ, ARKAITZ",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GARCIA PAREDES, URKO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA PAREDES, URKO",
+  "delegado_equipo_visitante": "ELORDUY ELORRIAGA, YOLANDA",
+  "titulares_local": [
+    "SANTIAGO BUITRON, EDER",
+    "FERNANDEZ MARTINEZ, ENEKO",
+    "LOZANO BURGOS, EDER",
+    "UBIERNA CARRASCO, IBAI",
+    "DE LA VEGA JUAREZ, DIEGO",
+    "ARROYO ASTOBIZA, KAIET",
+    "SANABRIA ESPINOLA, MIKEL DANIEL",
+    "RODRIGO LARRAÑAGA, ANDER",
+    "MORENO RODRIGUEZ, DANEL",
+    "GONZALEZ VEJO, AKETZA",
+    "GARCIA DIEGUEZ, AINGERU"
+  ],
+  "titulares_visitante": [
+    "CARAZO GONZALEZ, MARKEL",
+    "SAN PEDRO GAVIÑA, UNAX",
+    "DE LA FUENTE SANTAMARIA, ASIER",
+    "FOURTE EL MARHAOUI, SAAD",
+    "BERNAOLA BAÑUELOS, AETZ",
+    "ABUIN MOMOITIO, OIHAN",
+    "LARREA GRAVALOS, KOLDO",
+    "RETOLAZA VELASCO, IÑIGO",
+    "BALADO PEREZ, JULEN",
+    "SAGARDUY LARRINAGA, ANER",
+    "IBAÑEZ GUEVARA, IORITZ"
+  ],
+  "suplentes_local": [
+    "DEL CORTE FERNANDEZ, JORGE",
+    "URBIZU ARENAS, NACOR",
+    "CARO SANCHEZ, JESUS MARIA",
+    "OSINAGA FLORES, FERNANDO",
+    "VIAFARA CUENU, NICOLAS",
+    "COTORE BLANCO, MIGUEL ANGEL"
+  ],
+  "suplentes_visitante": [
+    "BILBAO PEREZ, GALDER",
+    "GONZALEZ MARTIN, IRAITZ",
+    "GARCIA FERNANDEZ, OIHAN",
+    "FERNANDEZ DEL HOYO, MIKEL",
+    "GUEYE, SERIGNE ABDOU KHADRE",
+    "MUÑOZ ELORDUY, GORKA",
+    "GARCIA MORALES, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "DEL CORTE FERNANDEZ, JORGE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BILBAO PEREZ, GALDER",
+    "GUEYE, SERIGNE ABDOU KHADRE",
+    "GARCIA MORALES, JON"
+  ],
+  "jugadores_local": [
+    "SANTIAGO BUITRON, EDER",
+    "FERNANDEZ MARTINEZ, ENEKO",
+    "LOZANO BURGOS, EDER",
+    "UBIERNA CARRASCO, IBAI",
+    "DE LA VEGA JUAREZ, DIEGO",
+    "ARROYO ASTOBIZA, KAIET",
+    "SANABRIA ESPINOLA, MIKEL DANIEL",
+    "RODRIGO LARRAÑAGA, ANDER",
+    "MORENO RODRIGUEZ, DANEL",
+    "GONZALEZ VEJO, AKETZA",
+    "GARCIA DIEGUEZ, AINGERU",
+    "CARO SANCHEZ, JESUS MARIA",
+    "OSINAGA FLORES, FERNANDO",
+    "COTORE BLANCO, MIGUEL ANGEL",
+    "VIAFARA CUENU, NICOLAS",
+    "URBIZU ARENAS, NACOR"
+  ],
+  "jugadores_visitante": [
+    "CARAZO GONZALEZ, MARKEL",
+    "SAN PEDRO GAVIÑA, UNAX",
+    "DE LA FUENTE SANTAMARIA, ASIER",
+    "FOURTE EL MARHAOUI, SAAD",
+    "BERNAOLA BAÑUELOS, AETZ",
+    "ABUIN MOMOITIO, OIHAN",
+    "LARREA GRAVALOS, KOLDO",
+    "RETOLAZA VELASCO, IÑIGO",
+    "BALADO PEREZ, JULEN",
+    "SAGARDUY LARRINAGA, ANER",
+    "IBAÑEZ GUEVARA, IORITZ",
+    "MUÑOZ ELORDUY, GORKA",
+    "FERNANDEZ DEL HOYO, MIKEL",
+    "GARCIA FERNANDEZ, OIHAN",
+    "GONZALEZ MARTIN, IRAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "CARO SANCHEZ, JESUS MARIA",
+      "sale": "GARCIA DIEGUEZ, AINGERU"
+    },
+    {
+      "min": 54,
+      "entra": "OSINAGA FLORES, FERNANDO",
+      "sale": "SANABRIA ESPINOLA, MIKEL DANIEL"
+    },
+    {
+      "min": 60,
+      "entra": "COTORE BLANCO, MIGUEL ANGEL",
+      "sale": "GONZALEZ VEJO, AKETZA"
+    },
+    {
+      "min": 60,
+      "entra": "VIAFARA CUENU, NICOLAS",
+      "sale": "ARROYO ASTOBIZA, KAIET"
+    },
+    {
+      "min": 75,
+      "entra": "URBIZU ARENAS, NACOR",
+      "sale": "MORENO RODRIGUEZ, DANEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "MUÑOZ ELORDUY, GORKA",
+      "sale": "BALADO PEREZ, JULEN"
+    },
+    {
+      "min": 60,
+      "entra": "FERNANDEZ DEL HOYO, MIKEL",
+      "sale": "RETOLAZA VELASCO, IÑIGO"
+    },
+    {
+      "min": 75,
+      "entra": "GARCIA FERNANDEZ, OIHAN",
+      "sale": "SAN PEDRO GAVIÑA, UNAX"
+    },
+    {
+      "min": 75,
+      "entra": "GONZALEZ MARTIN, IRAITZ",
+      "sale": "FOURTE EL MARHAOUI, SAAD"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANTIAGO BUITRON, EDER": 90,
+    "FERNANDEZ MARTINEZ, ENEKO": 90,
+    "LOZANO BURGOS, EDER": 90,
+    "UBIERNA CARRASCO, IBAI": 90,
+    "DE LA VEGA JUAREZ, DIEGO": 90,
+    "ARROYO ASTOBIZA, KAIET": 60,
+    "SANABRIA ESPINOLA, MIKEL DANIEL": 54,
+    "RODRIGO LARRAÑAGA, ANDER": 90,
+    "MORENO RODRIGUEZ, DANEL": 75,
+    "GONZALEZ VEJO, AKETZA": 60,
+    "GARCIA DIEGUEZ, AINGERU": 54,
+    "CARO SANCHEZ, JESUS MARIA": 36,
+    "OSINAGA FLORES, FERNANDO": 36,
+    "COTORE BLANCO, MIGUEL ANGEL": 30,
+    "VIAFARA CUENU, NICOLAS": 30,
+    "URBIZU ARENAS, NACOR": 15,
+    "CARAZO GONZALEZ, MARKEL": 90,
+    "SAN PEDRO GAVIÑA, UNAX": 75,
+    "DE LA FUENTE SANTAMARIA, ASIER": 90,
+    "FOURTE EL MARHAOUI, SAAD": 75,
+    "BERNAOLA BAÑUELOS, AETZ": 90,
+    "ABUIN MOMOITIO, OIHAN": 90,
+    "LARREA GRAVALOS, KOLDO": 90,
+    "RETOLAZA VELASCO, IÑIGO": 60,
+    "BALADO PEREZ, JULEN": 60,
+    "SAGARDUY LARRINAGA, ANER": 90,
+    "IBAÑEZ GUEVARA, IORITZ": 90,
+    "MUÑOZ ELORDUY, GORKA": 30,
+    "FERNANDEZ DEL HOYO, MIKEL": 30,
+    "GARCIA FERNANDEZ, OIHAN": 15,
+    "GONZALEZ MARTIN, IRAITZ": 15
+  },
+  "portero_local": "SANTIAGO BUITRON, EDER",
+  "portero_visitante": "CARAZO GONZALEZ, MARKEL",
+  "dorsales_local": {
+    "SANTIAGO BUITRON, EDER": 1,
+    "FERNANDEZ MARTINEZ, ENEKO": 3,
+    "LOZANO BURGOS, EDER": 4,
+    "UBIERNA CARRASCO, IBAI": 5,
+    "DE LA VEGA JUAREZ, DIEGO": 7,
+    "ARROYO ASTOBIZA, KAIET": 8,
+    "SANABRIA ESPINOLA, MIKEL DANIEL": 10,
+    "RODRIGO LARRAÑAGA, ANDER": 11,
+    "MORENO RODRIGUEZ, DANEL": 12,
+    "GONZALEZ VEJO, AKETZA": 17,
+    "GARCIA DIEGUEZ, AINGERU": 19
+  },
+  "dorsales_visitante": {
+    "CARAZO GONZALEZ, MARKEL": 1,
+    "SAN PEDRO GAVIÑA, UNAX": 4,
+    "DE LA FUENTE SANTAMARIA, ASIER": 5,
+    "FOURTE EL MARHAOUI, SAAD": 7,
+    "BERNAOLA BAÑUELOS, AETZ": 8,
+    "ABUIN MOMOITIO, OIHAN": 9,
+    "LARREA GRAVALOS, KOLDO": 14,
+    "RETOLAZA VELASCO, IÑIGO": 17,
+    "BALADO PEREZ, JULEN": 18,
+    "SAGARDUY LARRINAGA, ANER": 20,
+    "IBAÑEZ GUEVARA, IORITZ": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
