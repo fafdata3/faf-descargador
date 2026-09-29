@@ -1,0 +1,285 @@
+{
+  "acta_id": "C_192815",
+  "filename": "Acta_C_192815.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 11,
+  "fecha": "16-11-2024",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "E.M. FUTBOL SANTANDER A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SANCHEZ GARCÍA, MARIO"
+  ],
+  "estadio": "Comp. Albericia (B)",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 12,
+      "jugador": "SAN MIGUEL PÉREZ, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "RODEÑO DIAZ, GABRIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "PERNIA RODRIGUEZ, JOEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 59,
+      "jugador": "MANTECÓN HERMANA, ADRIÁN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "BARRIO OBREGON, IZAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "SOMOHANO TAMAYO, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "COSTALES ALVAREZ, RICARDO",
+  "entrenador_visitante": "PALAZUELOS TRUEBA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GONZALEZ ARENAL, PEDRO",
+  "delegado_campo_local": "HERRERA DIAZ, SALVADOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HERRERA DIAZ, SALVADOR",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "LEDESMA ESUN, GONZALO",
+    "LEON RODRIGUEZ, PABLO",
+    "MANTECÓN HERMANA, ADRIÁN",
+    "BEDIA PEÑA, DANIEL",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "SAN MIGUEL PÉREZ, DIEGO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "FERNANDEZ ALONSO, DANIEL",
+    "RONCAL SAIZ, MATEO",
+    "COBO PEREZ, JAVIER",
+    "FERNANDEZ DE DIEGO, ALVARO"
+  ],
+  "titulares_visitante": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "CALVO MORTE, SAMUEL",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "RODEÑO DIAZ, GABRIEL",
+    "Gaviria Cataño, JUAN DIEGO",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "PERNIA RODRIGUEZ, JOEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "suplentes_local": [
+    "LAUCELLI DÍAZ, CÉSAR",
+    "VELATEGUI TOCA, IGNACIO",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "CAMPELO MARTINEZ, PABLO",
+    "LAVIN VELARDE, MARCOS"
+  ],
+  "suplentes_visitante": [
+    "LASO MARTINEZ, ADRIAN",
+    "MALLAVIA PEREZ, ASIER",
+    "BARRIO OBREGON, IZAN",
+    "GOMEZ BOLADO, MIGUEL",
+    "ESCALANTE BUENO, OIER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LEDESMA ESUN, GONZALO",
+    "LEON RODRIGUEZ, PABLO",
+    "MANTECÓN HERMANA, ADRIÁN",
+    "BEDIA PEÑA, DANIEL",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "SAN MIGUEL PÉREZ, DIEGO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "FERNANDEZ ALONSO, DANIEL",
+    "RONCAL SAIZ, MATEO",
+    "COBO PEREZ, JAVIER",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "LAVIN VELARDE, MARCOS",
+    "LAUCELLI DÍAZ, CÉSAR",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "CAMPELO MARTINEZ, PABLO",
+    "VELATEGUI TOCA, IGNACIO"
+  ],
+  "jugadores_visitante": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "CALVO MORTE, SAMUEL",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "RODEÑO DIAZ, GABRIEL",
+    "Gaviria Cataño, JUAN DIEGO",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "PERNIA RODRIGUEZ, JOEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN",
+    "BARRIO OBREGON, IZAN",
+    "LASO MARTINEZ, ADRIAN",
+    "GOMEZ BOLADO, MIGUEL",
+    "MALLAVIA PEREZ, ASIER",
+    "ESCALANTE BUENO, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "LAVIN VELARDE, MARCOS",
+      "sale": "RONCAL SAIZ, MATEO"
+    },
+    {
+      "min": 40,
+      "entra": "LAUCELLI DÍAZ, CÉSAR",
+      "sale": "LEDESMA ESUN, GONZALO"
+    },
+    {
+      "min": 47,
+      "entra": "SEVERINO HERRERA, ADRIAN DANIEL",
+      "sale": "FERNANDEZ DE DIEGO, ALVARO"
+    },
+    {
+      "min": 51,
+      "entra": "CAMPELO MARTINEZ, PABLO",
+      "sale": "DOMINGUEZ RUIZ, SAMUEL"
+    },
+    {
+      "min": 51,
+      "entra": "VELATEGUI TOCA, IGNACIO",
+      "sale": "LEON RODRIGUEZ, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "BARRIO OBREGON, IZAN",
+      "sale": "RENEDO COSIO, DIEGO"
+    },
+    {
+      "min": 40,
+      "entra": "LASO MARTINEZ, ADRIAN",
+      "sale": "BERNARDO MIRAVALLES, IZAN"
+    },
+    {
+      "min": 40,
+      "entra": "GOMEZ BOLADO, MIGUEL",
+      "sale": "CALVO MORTE, SAMUEL"
+    },
+    {
+      "min": 54,
+      "entra": "MALLAVIA PEREZ, ASIER",
+      "sale": "CUADRADO PEREZ RUBIN, MATEO"
+    },
+    {
+      "min": 56,
+      "entra": "ESCALANTE BUENO, OIER",
+      "sale": "MOURA REVUELTA, ROMEO"
+    }
+  ],
+  "minutos_jugadores": {
+    "LEDESMA ESUN, GONZALO": 40,
+    "LEON RODRIGUEZ, PABLO": 51,
+    "MANTECÓN HERMANA, ADRIÁN": 90,
+    "BEDIA PEÑA, DANIEL": 90,
+    "DOMINGUEZ RUIZ, SAMUEL": 51,
+    "SAN MIGUEL PÉREZ, DIEGO": 90,
+    "MARTINEZ IBAÑEZ, LUCAS": 90,
+    "FERNANDEZ ALONSO, DANIEL": 90,
+    "RONCAL SAIZ, MATEO": 40,
+    "COBO PEREZ, JAVIER": 90,
+    "FERNANDEZ DE DIEGO, ALVARO": 47,
+    "LAVIN VELARDE, MARCOS": 50,
+    "LAUCELLI DÍAZ, CÉSAR": 50,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 43,
+    "CAMPELO MARTINEZ, PABLO": 39,
+    "VELATEGUI TOCA, IGNACIO": 39,
+    "BERNARDO MIRAVALLES, IZAN": 40,
+    "CALVO MORTE, SAMUEL": 40,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 90,
+    "RODEÑO DIAZ, GABRIEL": 90,
+    "Gaviria Cataño, JUAN DIEGO": 90,
+    "CUADRADO PEREZ RUBIN, MATEO": 54,
+    "PERNIA RODRIGUEZ, JOEL": 90,
+    "RENEDO COSIO, DIEGO": 40,
+    "MOURA REVUELTA, ROMEO": 56,
+    "COBO MARTINEZ, KELLYAN": 90,
+    "BARRIO OBREGON, IZAN": 50,
+    "LASO MARTINEZ, ADRIAN": 50,
+    "GOMEZ BOLADO, MIGUEL": 50,
+    "MALLAVIA PEREZ, ASIER": 36,
+    "ESCALANTE BUENO, OIER": 34
+  },
+  "portero_local": "LEDESMA ESUN, GONZALO",
+  "portero_visitante": "BERNARDO MIRAVALLES, IZAN",
+  "dorsales_local": {
+    "LEDESMA ESUN, GONZALO": 1,
+    "LEON RODRIGUEZ, PABLO": 2,
+    "MANTECÓN HERMANA, ADRIÁN": 3,
+    "BEDIA PEÑA, DANIEL": 5,
+    "DOMINGUEZ RUIZ, SAMUEL": 6,
+    "SAN MIGUEL PÉREZ, DIEGO": 7,
+    "MARTINEZ IBAÑEZ, LUCAS": 9,
+    "FERNANDEZ ALONSO, DANIEL": 10,
+    "RONCAL SAIZ, MATEO": 12,
+    "COBO PEREZ, JAVIER": 14,
+    "FERNANDEZ DE DIEGO, ALVARO": 15
+  },
+  "dorsales_visitante": {
+    "BERNARDO MIRAVALLES, IZAN": 13,
+    "CALVO MORTE, SAMUEL": 2,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "RODEÑO DIAZ, GABRIEL": 8,
+    "Gaviria Cataño, JUAN DIEGO": 9,
+    "CUADRADO PEREZ RUBIN, MATEO": 11,
+    "PERNIA RODRIGUEZ, JOEL": 17,
+    "RENEDO COSIO, DIEGO": 18,
+    "MOURA REVUELTA, ROMEO": 20,
+    "COBO MARTINEZ, KELLYAN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
