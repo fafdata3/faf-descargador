@@ -1,0 +1,272 @@
+{
+  "acta_id": "C_193056",
+  "filename": "Acta_C_193056.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 3,
+  "fecha": "21-09-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. NAVAL A",
+  "equipo_visitante": "E.M.F. SANTOÑA",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MARTÍNEZ TERÁN, OSCAR"
+  ],
+  "estadio": "Reinosa",
+  "ciudad": "Reinosa",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "MACHO RUIZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "GOMEZ DEL POZO, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "CEBALLOS CAYON, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "GOMEZ DEL POZO, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "GONZALEZ RODRIGUEZ, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "GARCIA DIEZ, GABRIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "RESTREPO VALENCIA, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 29,
+      "jugador": "ALONSO SAMPEDRO, JESUS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "RESTREPO VALENCIA, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA GUTIERREZ, JOSE I",
+  "entrenador_visitante": "ALONSO SAMPEDRO, JESUS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "JORRIN FERNANDEZ, OSCAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TORICES PEREZ, PEDRO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PEREZ HERRERO, IKER",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "GOMEZ DEL POZO, ALVARO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL",
+    "GUTIERREZ VEGA, HECTOR",
+    "SIMÓN GUTIERREZ, DANIEL"
+  ],
+  "titulares_visitante": [
+    "GOMEZ MARTIN, DANILO",
+    "BLANCO GONZALEZ, OIER",
+    "GARCIA PEREZ, ASIER",
+    "CABALLERO DEL REY, ALVARO",
+    "ABIA SANTAMARIA, JAVIER",
+    "LAVIN ARGOS, GONZALO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "RESTREPO VALENCIA, ALEJANDRO",
+    "SANTAMARIA HOYOS, DARIO",
+    "PLA DIEZ, HUGO",
+    "ALONSO MAZA, AIMAR"
+  ],
+  "suplentes_local": [
+    "ARGUESO GARCIA, JAVIER",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "AGUIRRE BAZA, CRISTIAN DAVID"
+  ],
+  "suplentes_visitante": [
+    "ELIZALDE ALONSO, BELTRAN",
+    "PLA DIEZ, MARTIN",
+    "PESO ESCARDA, GABRIEL",
+    "RENEDO ANSOLA, ABEL",
+    "COLINA MARTINEZ, CAYETANO"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARGUESO GARCIA, JAVIER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PEREZ HERRERO, IKER",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "GOMEZ DEL POZO, ALVARO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL",
+    "GUTIERREZ VEGA, HECTOR",
+    "SIMÓN GUTIERREZ, DANIEL",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "AGUIRRE BAZA, CRISTIAN DAVID"
+  ],
+  "jugadores_visitante": [
+    "GOMEZ MARTIN, DANILO",
+    "BLANCO GONZALEZ, OIER",
+    "GARCIA PEREZ, ASIER",
+    "CABALLERO DEL REY, ALVARO",
+    "ABIA SANTAMARIA, JAVIER",
+    "LAVIN ARGOS, GONZALO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "RESTREPO VALENCIA, ALEJANDRO",
+    "SANTAMARIA HOYOS, DARIO",
+    "PLA DIEZ, HUGO",
+    "ALONSO MAZA, AIMAR",
+    "COLINA MARTINEZ, CAYETANO",
+    "RENEDO ANSOLA, ABEL",
+    "ELIZALDE ALONSO, BELTRAN",
+    "PLA DIEZ, MARTIN",
+    "PESO ESCARDA, GABRIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 61,
+      "entra": "LOPEZ GUTIERREZ, ALONSO",
+      "sale": "RODRIGUEZ GONZALEZ, IZAN"
+    },
+    {
+      "min": 65,
+      "entra": "AGUIRRE BAZA, CRISTIAN DAVID",
+      "sale": "SIMÓN GUTIERREZ, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 47,
+      "entra": "COLINA MARTINEZ, CAYETANO",
+      "sale": "ALONSO MAZA, AIMAR"
+    },
+    {
+      "min": 57,
+      "entra": "RENEDO ANSOLA, ABEL",
+      "sale": "SANTAMARIA HOYOS, DARIO"
+    },
+    {
+      "min": 57,
+      "entra": "ELIZALDE ALONSO, BELTRAN",
+      "sale": "PLA DIEZ, HUGO"
+    },
+    {
+      "min": 65,
+      "entra": "PLA DIEZ, MARTIN",
+      "sale": "BLANCO GONZALEZ, OIER"
+    },
+    {
+      "min": 70,
+      "entra": "PESO ESCARDA, GABRIEL",
+      "sale": "SOLANA FERNANDEZ, ALEJANDRO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ HERRERO, IKER": 90,
+    "RODRIGUEZ GONZALEZ, IZAN": 61,
+    "GARCIA DIEZ, GABRIEL": 90,
+    "CEBALLOS CAYON, LUCAS": 90,
+    "GONZALEZ RODRIGUEZ, ALVARO": 90,
+    "GOMEZ DEL POZO, ALVARO": 90,
+    "GUTIERREZ GARCIA, SAMUEL": 90,
+    "MACHO RUIZ, LUCAS": 90,
+    "MONTES RODRIGUEZ, OROEL": 90,
+    "GUTIERREZ VEGA, HECTOR": 90,
+    "SIMÓN GUTIERREZ, DANIEL": 65,
+    "LOPEZ GUTIERREZ, ALONSO": 29,
+    "AGUIRRE BAZA, CRISTIAN DAVID": 25,
+    "GOMEZ MARTIN, DANILO": 90,
+    "BLANCO GONZALEZ, OIER": 65,
+    "GARCIA PEREZ, ASIER": 90,
+    "CABALLERO DEL REY, ALVARO": 90,
+    "ABIA SANTAMARIA, JAVIER": 90,
+    "LAVIN ARGOS, GONZALO": 90,
+    "SOLANA FERNANDEZ, ALEJANDRO": 70,
+    "RESTREPO VALENCIA, ALEJANDRO": 90,
+    "SANTAMARIA HOYOS, DARIO": 57,
+    "PLA DIEZ, HUGO": 57,
+    "ALONSO MAZA, AIMAR": 47,
+    "COLINA MARTINEZ, CAYETANO": 43,
+    "RENEDO ANSOLA, ABEL": 33,
+    "ELIZALDE ALONSO, BELTRAN": 33,
+    "PLA DIEZ, MARTIN": 25,
+    "PESO ESCARDA, GABRIEL": 20
+  },
+  "portero_local": "PEREZ HERRERO, IKER",
+  "portero_visitante": "GOMEZ MARTIN, DANILO",
+  "dorsales_local": {
+    "PEREZ HERRERO, IKER": 1,
+    "RODRIGUEZ GONZALEZ, IZAN": 4,
+    "GARCIA DIEZ, GABRIEL": 5,
+    "CEBALLOS CAYON, LUCAS": 6,
+    "GONZALEZ RODRIGUEZ, ALVARO": 7,
+    "GOMEZ DEL POZO, ALVARO": 9,
+    "GUTIERREZ GARCIA, SAMUEL": 10,
+    "MACHO RUIZ, LUCAS": 14,
+    "MONTES RODRIGUEZ, OROEL": 15,
+    "GUTIERREZ VEGA, HECTOR": 17,
+    "SIMÓN GUTIERREZ, DANIEL": 21
+  },
+  "dorsales_visitante": {
+    "GOMEZ MARTIN, DANILO": 1,
+    "BLANCO GONZALEZ, OIER": 2,
+    "GARCIA PEREZ, ASIER": 3,
+    "CABALLERO DEL REY, ALVARO": 4,
+    "ABIA SANTAMARIA, JAVIER": 5,
+    "LAVIN ARGOS, GONZALO": 7,
+    "SOLANA FERNANDEZ, ALEJANDRO": 8,
+    "RESTREPO VALENCIA, ALEJANDRO": 9,
+    "SANTAMARIA HOYOS, DARIO": 10,
+    "PLA DIEZ, HUGO": 14,
+    "ALONSO MAZA, AIMAR": 22
+  },
+  "suspendidos": [
+    "RESTREPO VALENCIA, ALEJANDRO"
+  ]
+}
