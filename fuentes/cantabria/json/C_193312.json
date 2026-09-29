@@ -1,0 +1,236 @@
+{
+  "acta_id": "C_193312",
+  "filename": "Acta_C_193312.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 32,
+  "fecha": "11-05-2025",
+  "hora": "12:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "A.D. SAN AGUSTIN A",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PINTEA PINTEA, MIHAI"
+  ],
+  "estadio": "Liberto Toca",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "MARTÍNEZ MADRAZO, ANDREA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "ROZAS BENITO, GONZALO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "POSTIGO MIGUEL, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "AGUILERA AGUILERA, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GRIFFITHS SANCHEZ, SAMUEL ERNESTO",
+  "entrenador_visitante": "CAGIGAS TABARES, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "NIETO LEAL, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "NIETO LEAL, JAVIER",
+  "delegado_equipo_visitante": "FERNANDEZ OSORIO, JORGE",
+  "titulares_local": [
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+    "SEBRANGO ABAD, RODRIGO",
+    "FRANCO GARCIA - MONCO, DAVID",
+    "ROZAS BENITO, GONZALO",
+    "GONZALEZ SANCHES, JUAN",
+    "VAQUERO ARTEAGA, JAIME",
+    "NOGUES FERNANDEZ, ALEJANDRO",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "GARCIA LUNA, ALEJO",
+    "LAINZ MORAN, JACOBO",
+    "PUENTE RUIZ, RICARDO"
+  ],
+  "titulares_visitante": [
+    "PELLON FUENTES, NICOLAS",
+    "FERNANDEZ ARANCHETA, IZAN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "LOPEZ DURAN, FABIO",
+    "AGUILERA AGUILERA, DIEGO",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "FELICES VIVANCO, MARCO",
+    "POSTIGO MIGUEL, ALVARO",
+    "MARSELLA GONZALEZ, MATEO",
+    "DE LA FUENTE TORRE, ALBERTO",
+    "HAZAS SANTOS, DENNIS"
+  ],
+  "suplentes_local": [
+    "CASTILLO ESPINOSA, MIGUEL",
+    "QUIJANO GARCIA, JAIME",
+    "GONZALEZ MEDINA, JOSE",
+    "CANTARERO PASCUAL, ALEJANDRO"
+  ],
+  "suplentes_visitante": [
+    "COBO HERVELLA, GONZALO",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "SARABIA PARDO, ASIER",
+    "LLAMOSAS MAZA, MARK"
+  ],
+  "convocados_sin_jugar_local": [
+    "CASTILLO ESPINOSA, MIGUEL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+    "SEBRANGO ABAD, RODRIGO",
+    "FRANCO GARCIA - MONCO, DAVID",
+    "ROZAS BENITO, GONZALO",
+    "GONZALEZ SANCHES, JUAN",
+    "VAQUERO ARTEAGA, JAIME",
+    "NOGUES FERNANDEZ, ALEJANDRO",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "GARCIA LUNA, ALEJO",
+    "LAINZ MORAN, JACOBO",
+    "PUENTE RUIZ, RICARDO",
+    "GONZALEZ MEDINA, JOSE",
+    "QUIJANO GARCIA, JAIME",
+    "CANTARERO PASCUAL, ALEJANDRO"
+  ],
+  "jugadores_visitante": [
+    "PELLON FUENTES, NICOLAS",
+    "FERNANDEZ ARANCHETA, IZAN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "LOPEZ DURAN, FABIO",
+    "AGUILERA AGUILERA, DIEGO",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "FELICES VIVANCO, MARCO",
+    "POSTIGO MIGUEL, ALVARO",
+    "MARSELLA GONZALEZ, MATEO",
+    "DE LA FUENTE TORRE, ALBERTO",
+    "HAZAS SANTOS, DENNIS",
+    "SARABIA PARDO, ASIER",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "COBO HERVELLA, GONZALO",
+    "LLAMOSAS MAZA, MARK"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GONZALEZ MEDINA, JOSE",
+      "sale": "PUENTE RUIZ, RICARDO"
+    },
+    {
+      "min": 40,
+      "entra": "QUIJANO GARCIA, JAIME",
+      "sale": "VAQUERO ARTEAGA, JAIME"
+    },
+    {
+      "min": 63,
+      "entra": "CANTARERO PASCUAL, ALEJANDRO",
+      "sale": "NOGUES FERNANDEZ, ALEJANDRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "SARABIA PARDO, ASIER",
+      "sale": "MARSELLA GONZALEZ, MATEO"
+    },
+    {
+      "min": 46,
+      "entra": "ARRATE ORTIZ, JUAN MARIA",
+      "sale": "DE LA FUENTE TORRE, ALBERTO"
+    },
+    {
+      "min": 53,
+      "entra": "COBO HERVELLA, GONZALO",
+      "sale": "HAZAS SANTOS, DENNIS"
+    },
+    {
+      "min": 63,
+      "entra": "LLAMOSAS MAZA, MARK",
+      "sale": "AGUILERA AGUILERA, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME": 90,
+    "SEBRANGO ABAD, RODRIGO": 90,
+    "FRANCO GARCIA - MONCO, DAVID": 90,
+    "ROZAS BENITO, GONZALO": 90,
+    "GONZALEZ SANCHES, JUAN": 90,
+    "VAQUERO ARTEAGA, JAIME": 40,
+    "NOGUES FERNANDEZ, ALEJANDRO": 63,
+    "GALLO JUANCO, JAVIER ARTURO": 90,
+    "GARCIA LUNA, ALEJO": 90,
+    "LAINZ MORAN, JACOBO": 90,
+    "PUENTE RUIZ, RICARDO": 40,
+    "GONZALEZ MEDINA, JOSE": 50,
+    "QUIJANO GARCIA, JAIME": 50,
+    "CANTARERO PASCUAL, ALEJANDRO": 27,
+    "PELLON FUENTES, NICOLAS": 90,
+    "FERNANDEZ ARANCHETA, IZAN": 90,
+    "SARABIA CAVIEDES, JANO ISIDRO": 90,
+    "LOPEZ DURAN, FABIO": 90,
+    "AGUILERA AGUILERA, DIEGO": 63,
+    "MARTÍNEZ MADRAZO, ANDREA": 90,
+    "FELICES VIVANCO, MARCO": 90,
+    "POSTIGO MIGUEL, ALVARO": 90,
+    "MARSELLA GONZALEZ, MATEO": 46,
+    "DE LA FUENTE TORRE, ALBERTO": 46,
+    "HAZAS SANTOS, DENNIS": 53,
+    "SARABIA PARDO, ASIER": 44,
+    "ARRATE ORTIZ, JUAN MARIA": 44,
+    "COBO HERVELLA, GONZALO": 37,
+    "LLAMOSAS MAZA, MARK": 27
+  },
+  "portero_local": "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+  "portero_visitante": "PELLON FUENTES, NICOLAS",
+  "dorsales_local": {
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME": 25,
+    "SEBRANGO ABAD, RODRIGO": 2,
+    "FRANCO GARCIA - MONCO, DAVID": 4,
+    "ROZAS BENITO, GONZALO": 7,
+    "GONZALEZ SANCHES, JUAN": 9,
+    "VAQUERO ARTEAGA, JAIME": 14,
+    "NOGUES FERNANDEZ, ALEJANDRO": 17,
+    "GALLO JUANCO, JAVIER ARTURO": 18,
+    "GARCIA LUNA, ALEJO": 19,
+    "LAINZ MORAN, JACOBO": 22,
+    "PUENTE RUIZ, RICARDO": 23
+  },
+  "dorsales_visitante": {
+    "PELLON FUENTES, NICOLAS": 13,
+    "FERNANDEZ ARANCHETA, IZAN": 4,
+    "SARABIA CAVIEDES, JANO ISIDRO": 5,
+    "LOPEZ DURAN, FABIO": 6,
+    "AGUILERA AGUILERA, DIEGO": 8,
+    "MARTÍNEZ MADRAZO, ANDREA": 9,
+    "FELICES VIVANCO, MARCO": 15,
+    "POSTIGO MIGUEL, ALVARO": 16,
+    "MARSELLA GONZALEZ, MATEO": 20,
+    "DE LA FUENTE TORRE, ALBERTO": 21,
+    "HAZAS SANTOS, DENNIS": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
