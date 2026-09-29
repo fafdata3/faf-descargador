@@ -1,0 +1,283 @@
+{
+  "acta_id": "C_193297",
+  "filename": "Acta_C_193297.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 30,
+  "fecha": "27-04-2025",
+  "hora": "11:15",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "CASTRO F.C. A",
+  "equipo_visitante": "C.D. MARINA SPORT B",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CADELO CIMIANO, SERGIO"
+  ],
+  "estadio": "Mioño Estacion",
+  "ciudad": "Castro-Urdiales",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "FERRERO VILLASANTE, RAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 11,
+      "jugador": "GOMEZ MUÑOZ, HECTOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "RUIZ ORTEGA, RODRIGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "RODRÍGUEZ LÓPEZ, JON ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 37,
+      "jugador": "HIGINO FERREIRA, NICOLAS LANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "GALLARRETA MIQUELARENA, SENDOA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "FERRERO VILLASANTE, RAUL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "RODRIGUEZ GOMEZ, HECTOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "FERNÁNDEZ GÓMEZ, BRUNO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "FLOR RODRIGUEZ, ALFONSO JOSE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "JAUREGUI RECIO, XABIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "JAUREGUI RECIO, XABIER",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "CARRASQUILLA VARGAS, XABIER",
+    "FERRERO VILLASANTE, RAUL",
+    "RODRIGUEZ GOMEZ, HECTOR",
+    "GALLARRETA MIQUELARENA, SENDOA",
+    "LAISECA ALONSO, EDER",
+    "GOMEZ ALONSO, HUGO",
+    "CORTES LANDABEREA, RUBEN",
+    "VIZCAYA ALVAREZ, ADRIAN",
+    "HIGINO FERREIRA, NICOLAS LANDER",
+    "ALONSO SOLDEVILLA, IÑAKI",
+    "GOMEZ MUÑOZ, HECTOR"
+  ],
+  "titulares_visitante": [
+    "FLOR MARTINEZ, OIER",
+    "NGOUNOU NCHAMA, NEREO STEVE",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "DASILVA PEREIRA, EDUARDO",
+    "JURNA ANERO, EDUARDO",
+    "PORRAS CADELO, MATEO",
+    "ALONSO CRUZ, DIEGO",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "RUIZ ORTEGA, RODRIGO",
+    "GUTIERREZ ABASCAL, MARCOS",
+    "GARCIA MORENO, MARIO"
+  ],
+  "suplentes_local": [
+    "ARRIOLA IRIARTE, HUGO",
+    "AGUSTIN PELLON, HUGO",
+    "JIMENEZ BARTOLOME, IZAN",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "ALONSO SANCHEZ, AITOR"
+  ],
+  "suplentes_visitante": [
+    "SAUQUILLO ALONSO, MARCO",
+    "ORTIZ FILGUEIRAS, JAVIER",
+    "CARRERA GUTIERREZ, RODRIGO",
+    "Montenegro Perez, MARCOS GERMAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CARRASQUILLA VARGAS, XABIER",
+    "FERRERO VILLASANTE, RAUL",
+    "RODRIGUEZ GOMEZ, HECTOR",
+    "GALLARRETA MIQUELARENA, SENDOA",
+    "LAISECA ALONSO, EDER",
+    "GOMEZ ALONSO, HUGO",
+    "CORTES LANDABEREA, RUBEN",
+    "VIZCAYA ALVAREZ, ADRIAN",
+    "HIGINO FERREIRA, NICOLAS LANDER",
+    "ALONSO SOLDEVILLA, IÑAKI",
+    "GOMEZ MUÑOZ, HECTOR",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "JIMENEZ BARTOLOME, IZAN",
+    "AGUSTIN PELLON, HUGO",
+    "ARRIOLA IRIARTE, HUGO",
+    "ALONSO SANCHEZ, AITOR"
+  ],
+  "jugadores_visitante": [
+    "FLOR MARTINEZ, OIER",
+    "NGOUNOU NCHAMA, NEREO STEVE",
+    "FERNÁNDEZ GÓMEZ, BRUNO",
+    "DASILVA PEREIRA, EDUARDO",
+    "JURNA ANERO, EDUARDO",
+    "PORRAS CADELO, MATEO",
+    "ALONSO CRUZ, DIEGO",
+    "NAVARRO FERNANDEZ, ALEJANDRO",
+    "RUIZ ORTEGA, RODRIGO",
+    "GUTIERREZ ABASCAL, MARCOS",
+    "GARCIA MORENO, MARIO",
+    "SAUQUILLO ALONSO, MARCO",
+    "Montenegro Perez, MARCOS GERMAN",
+    "ORTIZ FILGUEIRAS, JAVIER",
+    "CARRERA GUTIERREZ, RODRIGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "RODRÍGUEZ LÓPEZ, JON ANDER",
+      "sale": "GALLARRETA MIQUELARENA, SENDOA"
+    },
+    {
+      "min": 56,
+      "entra": "JIMENEZ BARTOLOME, IZAN",
+      "sale": "ALONSO SOLDEVILLA, IÑAKI"
+    },
+    {
+      "min": 56,
+      "entra": "AGUSTIN PELLON, HUGO",
+      "sale": "CORTES LANDABEREA, RUBEN"
+    },
+    {
+      "min": 65,
+      "entra": "ARRIOLA IRIARTE, HUGO",
+      "sale": "HIGINO FERREIRA, NICOLAS LANDER"
+    },
+    {
+      "min": 65,
+      "entra": "ALONSO SANCHEZ, AITOR",
+      "sale": "GOMEZ MUÑOZ, HECTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SAUQUILLO ALONSO, MARCO",
+      "sale": "FLOR MARTINEZ, OIER"
+    },
+    {
+      "min": 48,
+      "entra": "Montenegro Perez, MARCOS GERMAN",
+      "sale": "ALONSO CRUZ, DIEGO"
+    },
+    {
+      "min": 62,
+      "entra": "ORTIZ FILGUEIRAS, JAVIER",
+      "sale": "NAVARRO FERNANDEZ, ALEJANDRO"
+    },
+    {
+      "min": 67,
+      "entra": "CARRERA GUTIERREZ, RODRIGO",
+      "sale": "JURNA ANERO, EDUARDO"
+    }
+  ],
+  "minutos_jugadores": {
+    "CARRASQUILLA VARGAS, XABIER": 90,
+    "FERRERO VILLASANTE, RAUL": 90,
+    "RODRIGUEZ GOMEZ, HECTOR": 90,
+    "GALLARRETA MIQUELARENA, SENDOA": 40,
+    "LAISECA ALONSO, EDER": 90,
+    "GOMEZ ALONSO, HUGO": 90,
+    "CORTES LANDABEREA, RUBEN": 56,
+    "VIZCAYA ALVAREZ, ADRIAN": 90,
+    "HIGINO FERREIRA, NICOLAS LANDER": 65,
+    "ALONSO SOLDEVILLA, IÑAKI": 56,
+    "GOMEZ MUÑOZ, HECTOR": 65,
+    "RODRÍGUEZ LÓPEZ, JON ANDER": 50,
+    "JIMENEZ BARTOLOME, IZAN": 34,
+    "AGUSTIN PELLON, HUGO": 34,
+    "ARRIOLA IRIARTE, HUGO": 25,
+    "ALONSO SANCHEZ, AITOR": 25,
+    "FLOR MARTINEZ, OIER": 40,
+    "NGOUNOU NCHAMA, NEREO STEVE": 90,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 90,
+    "DASILVA PEREIRA, EDUARDO": 90,
+    "JURNA ANERO, EDUARDO": 67,
+    "PORRAS CADELO, MATEO": 90,
+    "ALONSO CRUZ, DIEGO": 48,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 62,
+    "RUIZ ORTEGA, RODRIGO": 90,
+    "GUTIERREZ ABASCAL, MARCOS": 90,
+    "GARCIA MORENO, MARIO": 90,
+    "SAUQUILLO ALONSO, MARCO": 50,
+    "Montenegro Perez, MARCOS GERMAN": 42,
+    "ORTIZ FILGUEIRAS, JAVIER": 28,
+    "CARRERA GUTIERREZ, RODRIGO": 23
+  },
+  "portero_local": "CARRASQUILLA VARGAS, XABIER",
+  "portero_visitante": "FLOR MARTINEZ, OIER",
+  "dorsales_local": {
+    "CARRASQUILLA VARGAS, XABIER": 1,
+    "FERRERO VILLASANTE, RAUL": 2,
+    "RODRIGUEZ GOMEZ, HECTOR": 5,
+    "GALLARRETA MIQUELARENA, SENDOA": 8,
+    "LAISECA ALONSO, EDER": 10,
+    "GOMEZ ALONSO, HUGO": 14,
+    "CORTES LANDABEREA, RUBEN": 15,
+    "VIZCAYA ALVAREZ, ADRIAN": 16,
+    "HIGINO FERREIRA, NICOLAS LANDER": 17,
+    "ALONSO SOLDEVILLA, IÑAKI": 19,
+    "GOMEZ MUÑOZ, HECTOR": 22
+  },
+  "dorsales_visitante": {
+    "FLOR MARTINEZ, OIER": 13,
+    "NGOUNOU NCHAMA, NEREO STEVE": 2,
+    "FERNÁNDEZ GÓMEZ, BRUNO": 4,
+    "DASILVA PEREIRA, EDUARDO": 5,
+    "JURNA ANERO, EDUARDO": 6,
+    "PORRAS CADELO, MATEO": 8,
+    "ALONSO CRUZ, DIEGO": 9,
+    "NAVARRO FERNANDEZ, ALEJANDRO": 10,
+    "RUIZ ORTEGA, RODRIGO": 11,
+    "GUTIERREZ ABASCAL, MARCOS": 12,
+    "GARCIA MORENO, MARIO": 18
+  },
+  "suspendidos": []
+}
