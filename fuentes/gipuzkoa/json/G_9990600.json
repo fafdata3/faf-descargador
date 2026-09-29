@@ -1,0 +1,259 @@
+{
+  "acta_id": "G_9990600",
+  "filename": "Acta_G_9990600.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "01-02-2026",
+  "hora": "11:30",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (2. MULTZOA - GRUPO 2)",
+  "equipo_local": "ILINTXA S.D.",
+  "equipo_visitante": "MUTRIKU F.T.",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ISASA LARRAÑAGA, HARITZ"
+  ],
+  "estadio": "IRENE PAREDES",
+  "ciudad": "LEGAZPIA",
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "JAUREGUI ATXAGA, BEÑAT",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "JAUREGUI ATXAGA, BEÑAT",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "JAUREGUI ATXAGA, BEÑAT",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "ODRIZABALA ONAINDIA, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "CIRCUJANO ARRIETA, HODEI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 58,
+      "jugador": "GAMIZ PEREZ, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "CIRCUJANO ARRIETA, HODEI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RODRIGUEZ TERRADILLOS, DANEL",
+    "AZAROLA ALTOLAGUIRRE, BEÑAT",
+    "GARMENDIA BELAUNTZETA, OINATZ",
+    "GAMIZ PEREZ, AIMAR",
+    "JAURRIETA ALBERDI, ENEKO",
+    "JAUREGUI ATXAGA, BEÑAT",
+    "URANGA ZABALETA, MARKO",
+    "DEL RIO AGUIRRE, IKER",
+    "POLO NUÑEZ, AIMAR",
+    "MORENO JUEZ, AMETS",
+    "MARTINEZ MONTALVO, SAMUEL"
+  ],
+  "titulares_visitante": [
+    "BLANCO GANCHEGUI, JULEN",
+    "BASURKO BASURKO, ERAIZE",
+    "LOPEZ MADARIETA, XABAT",
+    "ANDONEGUI LECUBE, LIER",
+    "ODRIZABALA ONAINDIA, UNAX",
+    "BERISTAIN RUIZ, BEÑAT",
+    "EPELDE ARRIZABALAGA, UNAX",
+    "PEREZ MUÑOZ, DAVID",
+    "STITOU EL KAHAN, ABDELLAH",
+    "BARRENETXEA GALPARSORO, EKAITZ",
+    "BASURKO IRIONDO, UNAX"
+  ],
+  "suplentes_local": [
+    "URIBEETXEBERRIA RODRIGO, URKI",
+    "IRASTORZA ARRIZABALAGA, URKO",
+    "GALDOS ELCOROBARRUTIA, ANDONI",
+    "ORMEÑO VALOR, URKO"
+  ],
+  "suplentes_visitante": [
+    "JUARISTI ESNAOLA, URTZI",
+    "PINTO AMADO, ANER",
+    "CIRCUJANO ARRIETA, HODEI",
+    "ZAFRA OSA, EÑAUT",
+    "MADERA LARRINAGA, EBER"
+  ],
+  "convocados_sin_jugar_local": [
+    "URIBEETXEBERRIA RODRIGO, URKI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MADERA LARRINAGA, EBER"
+  ],
+  "jugadores_local": [
+    "RODRIGUEZ TERRADILLOS, DANEL",
+    "AZAROLA ALTOLAGUIRRE, BEÑAT",
+    "GARMENDIA BELAUNTZETA, OINATZ",
+    "GAMIZ PEREZ, AIMAR",
+    "JAURRIETA ALBERDI, ENEKO",
+    "JAUREGUI ATXAGA, BEÑAT",
+    "URANGA ZABALETA, MARKO",
+    "DEL RIO AGUIRRE, IKER",
+    "POLO NUÑEZ, AIMAR",
+    "MORENO JUEZ, AMETS",
+    "MARTINEZ MONTALVO, SAMUEL",
+    "IRASTORZA ARRIZABALAGA, URKO",
+    "ORMEÑO VALOR, URKO",
+    "GALDOS ELCOROBARRUTIA, ANDONI"
+  ],
+  "jugadores_visitante": [
+    "BLANCO GANCHEGUI, JULEN",
+    "BASURKO BASURKO, ERAIZE",
+    "LOPEZ MADARIETA, XABAT",
+    "ANDONEGUI LECUBE, LIER",
+    "ODRIZABALA ONAINDIA, UNAX",
+    "BERISTAIN RUIZ, BEÑAT",
+    "EPELDE ARRIZABALAGA, UNAX",
+    "PEREZ MUÑOZ, DAVID",
+    "STITOU EL KAHAN, ABDELLAH",
+    "BARRENETXEA GALPARSORO, EKAITZ",
+    "BASURKO IRIONDO, UNAX",
+    "ZAFRA OSA, EÑAUT",
+    "PINTO AMADO, ANER",
+    "JUARISTI ESNAOLA, URTZI",
+    "CIRCUJANO ARRIETA, HODEI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 64,
+      "entra": "IRASTORZA ARRIZABALAGA, URKO",
+      "sale": "DEL RIO AGUIRRE, IKER"
+    },
+    {
+      "min": 67,
+      "entra": "ORMEÑO VALOR, URKO",
+      "sale": "GAMIZ PEREZ, AIMAR"
+    },
+    {
+      "min": 77,
+      "entra": "GALDOS ELCOROBARRUTIA, ANDONI",
+      "sale": "JAUREGUI ATXAGA, BEÑAT"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 48,
+      "entra": "ZAFRA OSA, EÑAUT",
+      "sale": "STITOU EL KAHAN, ABDELLAH"
+    },
+    {
+      "min": 53,
+      "entra": "PINTO AMADO, ANER",
+      "sale": "BASURKO BASURKO, ERAIZE"
+    },
+    {
+      "min": 53,
+      "entra": "JUARISTI ESNAOLA, URTZI",
+      "sale": "ANDONEGUI LECUBE, LIER"
+    },
+    {
+      "min": 55,
+      "entra": "CIRCUJANO ARRIETA, HODEI",
+      "sale": "BARRENETXEA GALPARSORO, EKAITZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ TERRADILLOS, DANEL": 90,
+    "AZAROLA ALTOLAGUIRRE, BEÑAT": 90,
+    "GARMENDIA BELAUNTZETA, OINATZ": 90,
+    "GAMIZ PEREZ, AIMAR": 67,
+    "JAURRIETA ALBERDI, ENEKO": 90,
+    "JAUREGUI ATXAGA, BEÑAT": 77,
+    "URANGA ZABALETA, MARKO": 90,
+    "DEL RIO AGUIRRE, IKER": 64,
+    "POLO NUÑEZ, AIMAR": 90,
+    "MORENO JUEZ, AMETS": 90,
+    "MARTINEZ MONTALVO, SAMUEL": 90,
+    "IRASTORZA ARRIZABALAGA, URKO": 26,
+    "ORMEÑO VALOR, URKO": 23,
+    "GALDOS ELCOROBARRUTIA, ANDONI": 13,
+    "BLANCO GANCHEGUI, JULEN": 90,
+    "BASURKO BASURKO, ERAIZE": 53,
+    "LOPEZ MADARIETA, XABAT": 90,
+    "ANDONEGUI LECUBE, LIER": 53,
+    "ODRIZABALA ONAINDIA, UNAX": 90,
+    "BERISTAIN RUIZ, BEÑAT": 90,
+    "EPELDE ARRIZABALAGA, UNAX": 90,
+    "PEREZ MUÑOZ, DAVID": 90,
+    "STITOU EL KAHAN, ABDELLAH": 48,
+    "BARRENETXEA GALPARSORO, EKAITZ": 55,
+    "BASURKO IRIONDO, UNAX": 90,
+    "ZAFRA OSA, EÑAUT": 42,
+    "PINTO AMADO, ANER": 37,
+    "JUARISTI ESNAOLA, URTZI": 37,
+    "CIRCUJANO ARRIETA, HODEI": 35
+  },
+  "portero_local": "RODRIGUEZ TERRADILLOS, DANEL",
+  "portero_visitante": "BLANCO GANCHEGUI, JULEN",
+  "dorsales_local": {
+    "RODRIGUEZ TERRADILLOS, DANEL": 1,
+    "AZAROLA ALTOLAGUIRRE, BEÑAT": 4,
+    "GARMENDIA BELAUNTZETA, OINATZ": 6,
+    "GAMIZ PEREZ, AIMAR": 7,
+    "JAURRIETA ALBERDI, ENEKO": 8,
+    "JAUREGUI ATXAGA, BEÑAT": 10,
+    "URANGA ZABALETA, MARKO": 12,
+    "DEL RIO AGUIRRE, IKER": 14,
+    "POLO NUÑEZ, AIMAR": 15,
+    "MORENO JUEZ, AMETS": 16,
+    "MARTINEZ MONTALVO, SAMUEL": 24
+  },
+  "dorsales_visitante": {
+    "BLANCO GANCHEGUI, JULEN": 1,
+    "BASURKO BASURKO, ERAIZE": 2,
+    "LOPEZ MADARIETA, XABAT": 3,
+    "ANDONEGUI LECUBE, LIER": 4,
+    "ODRIZABALA ONAINDIA, UNAX": 5,
+    "BERISTAIN RUIZ, BEÑAT": 6,
+    "EPELDE ARRIZABALAGA, UNAX": 7,
+    "PEREZ MUÑOZ, DAVID": 8,
+    "STITOU EL KAHAN, ABDELLAH": 9,
+    "BARRENETXEA GALPARSORO, EKAITZ": 10,
+    "BASURKO IRIONDO, UNAX": 11
+  },
+  "suspendidos": []
+}
