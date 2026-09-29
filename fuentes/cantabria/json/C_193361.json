@@ -1,0 +1,245 @@
+{
+  "acta_id": "C_193361",
+  "filename": "Acta_C_193361.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 4,
+  "fecha": "12-10-2024",
+  "hora": "10:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "REAL RACING CLUB SAD A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCÍA YURRIETA, DANIEL"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "VALENZUELA FERNANDEZ, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 36,
+      "jugador": "LOPEZ-TAFALL AUTILLO, JACOBO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 43,
+      "jugador": "VALENZUELA FERNANDEZ, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "URBISTONDO MARINO, PEDRO",
+  "entrenador_visitante": "ASENSIO GARCÍA, MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "TERAN LOPEZ, JULIAN",
+  "titulares_local": [
+    "OBESO MARTINEZ, MARCOS",
+    "FERNANDEZ MARTINEZ, LUCAS",
+    "VALENZUELA FERNANDEZ, MARIO",
+    "ZUBIAGA ECHEVARRIA, MAURO",
+    "GONZALEZ MURILLO, MARCO",
+    "GONZALEZ MUÑIZ, LARO",
+    "ABASCAL CAMINO, ALVARO",
+    "VAZQUEZ PORRAS, SERGIO",
+    "FERNANDEZ GONZALEZ, XAEL",
+    "FERNANDEZ GONZALEZ, MARTIN",
+    "CANO GARCIA, RICARDO"
+  ],
+  "titulares_visitante": [
+    "SAÑUDO CAMUS, JORGE",
+    "LOZANO ORTEGA, BORJA",
+    "GARCIA SAN EMETERIO, MARCO",
+    "LANZA CAVIEDES, JORGE",
+    "SANTAMARIA DE BLAS, JULIO",
+    "SALAS GARRIDO, MAURO",
+    "VELADO RIOS, CARLOS",
+    "VALLE OBREGON, MARTIN",
+    "CARRAL RUISANCHEZ, DANIEL",
+    "BURRUCHAGA PRADO, JOAQUIN",
+    "SORDO PÉREZ, SANTIAGO"
+  ],
+  "suplentes_local": [
+    "AJA SERRANO, NECO",
+    "AGUIRRE GARCIA, SAMUEL",
+    "GUTIÉRREZ MIERA, VÍCTOR",
+    "PEREZ MARCANO, MANUEL",
+    "GONZALEZ FERNANDEZ, PABLO"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ LAMEIRO, MATEO",
+    "STEGEN FERREIRA, GUILLERMO BASTIAN JUNIOR",
+    "COTERILLO FERNANDEZ, HECTOR",
+    "BUENO CASTILLO, DANIEL",
+    "LOPEZ-TAFALL AUTILLO, JACOBO"
+  ],
+  "convocados_sin_jugar_local": [
+    "AJA SERRANO, NECO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "OBESO MARTINEZ, MARCOS",
+    "FERNANDEZ MARTINEZ, LUCAS",
+    "VALENZUELA FERNANDEZ, MARIO",
+    "ZUBIAGA ECHEVARRIA, MAURO",
+    "GONZALEZ MURILLO, MARCO",
+    "GONZALEZ MUÑIZ, LARO",
+    "ABASCAL CAMINO, ALVARO",
+    "VAZQUEZ PORRAS, SERGIO",
+    "FERNANDEZ GONZALEZ, XAEL",
+    "FERNANDEZ GONZALEZ, MARTIN",
+    "CANO GARCIA, RICARDO",
+    "GONZALEZ FERNANDEZ, PABLO",
+    "GUTIÉRREZ MIERA, VÍCTOR",
+    "AGUIRRE GARCIA, SAMUEL",
+    "PEREZ MARCANO, MANUEL"
+  ],
+  "jugadores_visitante": [
+    "SAÑUDO CAMUS, JORGE",
+    "LOZANO ORTEGA, BORJA",
+    "GARCIA SAN EMETERIO, MARCO",
+    "LANZA CAVIEDES, JORGE",
+    "SANTAMARIA DE BLAS, JULIO",
+    "SALAS GARRIDO, MAURO",
+    "VELADO RIOS, CARLOS",
+    "VALLE OBREGON, MARTIN",
+    "CARRAL RUISANCHEZ, DANIEL",
+    "BURRUCHAGA PRADO, JOAQUIN",
+    "SORDO PÉREZ, SANTIAGO",
+    "STEGEN FERREIRA, GUILLERMO BASTIAN JUNIOR",
+    "LOPEZ-TAFALL AUTILLO, JACOBO",
+    "BUENO CASTILLO, DANIEL",
+    "LOPEZ LAMEIRO, MATEO",
+    "COTERILLO FERNANDEZ, HECTOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "GONZALEZ FERNANDEZ, PABLO",
+      "sale": "ZUBIAGA ECHEVARRIA, MAURO"
+    },
+    {
+      "min": 56,
+      "entra": "GUTIÉRREZ MIERA, VÍCTOR",
+      "sale": "GONZALEZ MURILLO, MARCO"
+    },
+    {
+      "min": 63,
+      "entra": "AGUIRRE GARCIA, SAMUEL",
+      "sale": "VAZQUEZ PORRAS, SERGIO"
+    },
+    {
+      "min": 69,
+      "entra": "PEREZ MARCANO, MANUEL",
+      "sale": "FERNANDEZ GONZALEZ, XAEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "STEGEN FERREIRA, GUILLERMO BASTIAN JUNIOR",
+      "sale": "LOZANO ORTEGA, BORJA"
+    },
+    {
+      "min": 35,
+      "entra": "LOPEZ-TAFALL AUTILLO, JACOBO",
+      "sale": "SORDO PÉREZ, SANTIAGO"
+    },
+    {
+      "min": 35,
+      "entra": "BUENO CASTILLO, DANIEL",
+      "sale": "VALLE OBREGON, MARTIN"
+    },
+    {
+      "min": 35,
+      "entra": "LOPEZ LAMEIRO, MATEO",
+      "sale": "GARCIA SAN EMETERIO, MARCO"
+    },
+    {
+      "min": 35,
+      "entra": "COTERILLO FERNANDEZ, HECTOR",
+      "sale": "VELADO RIOS, CARLOS"
+    }
+  ],
+  "minutos_jugadores": {
+    "OBESO MARTINEZ, MARCOS": 90,
+    "FERNANDEZ MARTINEZ, LUCAS": 90,
+    "VALENZUELA FERNANDEZ, MARIO": 90,
+    "ZUBIAGA ECHEVARRIA, MAURO": 51,
+    "GONZALEZ MURILLO, MARCO": 56,
+    "GONZALEZ MUÑIZ, LARO": 90,
+    "ABASCAL CAMINO, ALVARO": 90,
+    "VAZQUEZ PORRAS, SERGIO": 63,
+    "FERNANDEZ GONZALEZ, XAEL": 69,
+    "FERNANDEZ GONZALEZ, MARTIN": 90,
+    "CANO GARCIA, RICARDO": 90,
+    "GONZALEZ FERNANDEZ, PABLO": 39,
+    "GUTIÉRREZ MIERA, VÍCTOR": 34,
+    "AGUIRRE GARCIA, SAMUEL": 27,
+    "PEREZ MARCANO, MANUEL": 21,
+    "SAÑUDO CAMUS, JORGE": 90,
+    "LOZANO ORTEGA, BORJA": 35,
+    "GARCIA SAN EMETERIO, MARCO": 35,
+    "LANZA CAVIEDES, JORGE": 90,
+    "SANTAMARIA DE BLAS, JULIO": 90,
+    "SALAS GARRIDO, MAURO": 90,
+    "VELADO RIOS, CARLOS": 35,
+    "VALLE OBREGON, MARTIN": 35,
+    "CARRAL RUISANCHEZ, DANIEL": 90,
+    "BURRUCHAGA PRADO, JOAQUIN": 90,
+    "SORDO PÉREZ, SANTIAGO": 35,
+    "STEGEN FERREIRA, GUILLERMO BASTIAN JUNIOR": 55,
+    "LOPEZ-TAFALL AUTILLO, JACOBO": 55,
+    "BUENO CASTILLO, DANIEL": 55,
+    "LOPEZ LAMEIRO, MATEO": 55,
+    "COTERILLO FERNANDEZ, HECTOR": 55
+  },
+  "portero_local": "OBESO MARTINEZ, MARCOS",
+  "portero_visitante": "SAÑUDO CAMUS, JORGE",
+  "dorsales_local": {
+    "OBESO MARTINEZ, MARCOS": 1,
+    "FERNANDEZ MARTINEZ, LUCAS": 2,
+    "VALENZUELA FERNANDEZ, MARIO": 4,
+    "ZUBIAGA ECHEVARRIA, MAURO": 7,
+    "GONZALEZ MURILLO, MARCO": 8,
+    "GONZALEZ MUÑIZ, LARO": 10,
+    "ABASCAL CAMINO, ALVARO": 11,
+    "VAZQUEZ PORRAS, SERGIO": 19,
+    "FERNANDEZ GONZALEZ, XAEL": 20,
+    "FERNANDEZ GONZALEZ, MARTIN": 21,
+    "CANO GARCIA, RICARDO": 24
+  },
+  "dorsales_visitante": {
+    "SAÑUDO CAMUS, JORGE": 1,
+    "LOZANO ORTEGA, BORJA": 2,
+    "GARCIA SAN EMETERIO, MARCO": 3,
+    "LANZA CAVIEDES, JORGE": 4,
+    "SANTAMARIA DE BLAS, JULIO": 5,
+    "SALAS GARRIDO, MAURO": 6,
+    "VELADO RIOS, CARLOS": 7,
+    "VALLE OBREGON, MARTIN": 8,
+    "CARRAL RUISANCHEZ, DANIEL": 9,
+    "BURRUCHAGA PRADO, JOAQUIN": 10,
+    "SORDO PÉREZ, SANTIAGO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
