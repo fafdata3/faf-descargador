@@ -1,0 +1,282 @@
+{
+  "acta_id": "B_2008205",
+  "filename": "Acta_B_2008205.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 16,
+  "fecha": "26-01-2025",
+  "hora": "13:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "GURUTZETA A",
+  "equipo_visitante": "BARAKALDO B",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "CASTAÑO MERINO, ANDONI"
+  ],
+  "estadio": "LA SIEBE",
+  "ciudad": "CRUCES-BARAKALDO",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "VAZQUEZ SANGUINO, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "VAZQUEZ SANGUINO, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "MERINO BARROETA, ANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "NKILI PEREZ, BEÑAT",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "VAZQUEZ SANGUINO, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "PRIETO RUIZ, JULEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "BUSTOS BARRIO, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BILBAO DEL POZO, ARITZ",
+  "entrenador_visitante": "BERASALUCE CAMPOS, ALBERTO",
+  "segundo_entrenador_local": "CARBAJO VAQUERO, GAIZKA",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ZELAIA GOROSTIAGA, ANTON",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ZELAIA GOROSTIAGA, ANTON",
+  "delegado_equipo_visitante": "PEDROSA MARTIN, OSKAR",
+  "titulares_local": [
+    "UREÑA ACHACOLLO, MANUEL",
+    "GARCÍA ALCAIDE, EDER",
+    "LANCIANO GROBAS, ANDONI",
+    "NKILI PEREZ, BEÑAT",
+    "MERINO BARROETA, ANDER",
+    "RUIZ MARCANO, GABRIEL JOSE",
+    "IZQUIERDO PEREZ, LUKEN",
+    "NOGALES GAVILAN, MARKEL",
+    "GONZALEZ VALTIERRA, ALAIN",
+    "BARREIRO GARCIA, ENEKO",
+    "CARMONA HERNANDEZ, JUAN ESTEBAN"
+  ],
+  "titulares_visitante": [
+    "MARTIN MARTIN, AIMAR",
+    "SOBRADO MENDEZ, MARKEL",
+    "PRIETO RUIZ, JULEN",
+    "GARCIA MELLA, IZAN",
+    "TAZARKI JERBI, OMAR",
+    "SANZ BANCALERO, XABIER",
+    "ESTEVEZ ARRUZAS, ANDER",
+    "ARIZTONDO PORTILLO, OINATZ",
+    "LALIASHVILI, SERGIO",
+    "VAZQUEZ SANGUINO, MIKEL",
+    "ESPINACO PEREDA, ANDONI"
+  ],
+  "suplentes_local": [
+    "PEREZ MUÑOZ, XABIER",
+    "DAMOTA OURO, HECTOR",
+    "BARCENA CALVO, XABIER",
+    "GARCIA ALVAREZ, SAMUEL",
+    "PRIETO CIEZA, IVAN",
+    "JIMENEZ AGIRREBENGOA, UNAI",
+    "PATZI CHOQUE, GERARD JOSEP"
+  ],
+  "suplentes_visitante": [
+    "MARTIN DIAZ, LUCAS",
+    "LOPEZ ORTEGA, OIER",
+    "BLANCO MOLLEDA, OIER",
+    "ARRIZABALAGA BLASCO, MIKEL",
+    "LOPEZ LECUE, UNAI",
+    "SAINZ AVILA, LUCAS",
+    "BUSTOS BARRIO, IKER"
+  ],
+  "convocados_sin_jugar_local": [
+    "PEREZ MUÑOZ, XABIER",
+    "BARCENA CALVO, XABIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MARTIN DIAZ, LUCAS",
+    "LOPEZ ORTEGA, OIER",
+    "ARRIZABALAGA BLASCO, MIKEL"
+  ],
+  "jugadores_local": [
+    "UREÑA ACHACOLLO, MANUEL",
+    "GARCÍA ALCAIDE, EDER",
+    "LANCIANO GROBAS, ANDONI",
+    "NKILI PEREZ, BEÑAT",
+    "MERINO BARROETA, ANDER",
+    "RUIZ MARCANO, GABRIEL JOSE",
+    "IZQUIERDO PEREZ, LUKEN",
+    "NOGALES GAVILAN, MARKEL",
+    "GONZALEZ VALTIERRA, ALAIN",
+    "BARREIRO GARCIA, ENEKO",
+    "CARMONA HERNANDEZ, JUAN ESTEBAN",
+    "JIMENEZ AGIRREBENGOA, UNAI",
+    "GARCIA ALVAREZ, SAMUEL",
+    "PRIETO CIEZA, IVAN",
+    "DAMOTA OURO, HECTOR",
+    "PATZI CHOQUE, GERARD JOSEP"
+  ],
+  "jugadores_visitante": [
+    "MARTIN MARTIN, AIMAR",
+    "SOBRADO MENDEZ, MARKEL",
+    "PRIETO RUIZ, JULEN",
+    "GARCIA MELLA, IZAN",
+    "TAZARKI JERBI, OMAR",
+    "SANZ BANCALERO, XABIER",
+    "ESTEVEZ ARRUZAS, ANDER",
+    "ARIZTONDO PORTILLO, OINATZ",
+    "LALIASHVILI, SERGIO",
+    "VAZQUEZ SANGUINO, MIKEL",
+    "ESPINACO PEREDA, ANDONI",
+    "BUSTOS BARRIO, IKER",
+    "SAINZ AVILA, LUCAS",
+    "LOPEZ LECUE, UNAI",
+    "BLANCO MOLLEDA, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "JIMENEZ AGIRREBENGOA, UNAI",
+      "sale": "RUIZ MARCANO, GABRIEL JOSE"
+    },
+    {
+      "min": 50,
+      "entra": "GARCIA ALVAREZ, SAMUEL",
+      "sale": "NOGALES GAVILAN, MARKEL"
+    },
+    {
+      "min": 58,
+      "entra": "PRIETO CIEZA, IVAN",
+      "sale": "LANCIANO GROBAS, ANDONI"
+    },
+    {
+      "min": 64,
+      "entra": "DAMOTA OURO, HECTOR",
+      "sale": "MERINO BARROETA, ANDER"
+    },
+    {
+      "min": 64,
+      "entra": "PATZI CHOQUE, GERARD JOSEP",
+      "sale": "IZQUIERDO PEREZ, LUKEN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "BUSTOS BARRIO, IKER",
+      "sale": "LALIASHVILI, SERGIO"
+    },
+    {
+      "min": 73,
+      "entra": "SAINZ AVILA, LUCAS",
+      "sale": "ESTEVEZ ARRUZAS, ANDER"
+    },
+    {
+      "min": 73,
+      "entra": "LOPEZ LECUE, UNAI",
+      "sale": "ARIZTONDO PORTILLO, OINATZ"
+    },
+    {
+      "min": 76,
+      "entra": "BLANCO MOLLEDA, OIER",
+      "sale": "PRIETO RUIZ, JULEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "UREÑA ACHACOLLO, MANUEL": 90,
+    "GARCÍA ALCAIDE, EDER": 90,
+    "LANCIANO GROBAS, ANDONI": 58,
+    "NKILI PEREZ, BEÑAT": 90,
+    "MERINO BARROETA, ANDER": 64,
+    "RUIZ MARCANO, GABRIEL JOSE": 50,
+    "IZQUIERDO PEREZ, LUKEN": 64,
+    "NOGALES GAVILAN, MARKEL": 50,
+    "GONZALEZ VALTIERRA, ALAIN": 90,
+    "BARREIRO GARCIA, ENEKO": 90,
+    "CARMONA HERNANDEZ, JUAN ESTEBAN": 90,
+    "JIMENEZ AGIRREBENGOA, UNAI": 40,
+    "GARCIA ALVAREZ, SAMUEL": 40,
+    "PRIETO CIEZA, IVAN": 32,
+    "DAMOTA OURO, HECTOR": 26,
+    "PATZI CHOQUE, GERARD JOSEP": 26,
+    "MARTIN MARTIN, AIMAR": 90,
+    "SOBRADO MENDEZ, MARKEL": 90,
+    "PRIETO RUIZ, JULEN": 76,
+    "GARCIA MELLA, IZAN": 90,
+    "TAZARKI JERBI, OMAR": 90,
+    "SANZ BANCALERO, XABIER": 90,
+    "ESTEVEZ ARRUZAS, ANDER": 73,
+    "ARIZTONDO PORTILLO, OINATZ": 73,
+    "LALIASHVILI, SERGIO": 60,
+    "VAZQUEZ SANGUINO, MIKEL": 90,
+    "ESPINACO PEREDA, ANDONI": 90,
+    "BUSTOS BARRIO, IKER": 30,
+    "SAINZ AVILA, LUCAS": 17,
+    "LOPEZ LECUE, UNAI": 17,
+    "BLANCO MOLLEDA, OIER": 14
+  },
+  "portero_local": "UREÑA ACHACOLLO, MANUEL",
+  "portero_visitante": "MARTIN MARTIN, AIMAR",
+  "dorsales_local": {
+    "UREÑA ACHACOLLO, MANUEL": 13,
+    "GARCÍA ALCAIDE, EDER": 3,
+    "LANCIANO GROBAS, ANDONI": 4,
+    "NKILI PEREZ, BEÑAT": 7,
+    "MERINO BARROETA, ANDER": 9,
+    "RUIZ MARCANO, GABRIEL JOSE": 10,
+    "IZQUIERDO PEREZ, LUKEN": 11,
+    "NOGALES GAVILAN, MARKEL": 12,
+    "GONZALEZ VALTIERRA, ALAIN": 18,
+    "BARREIRO GARCIA, ENEKO": 22,
+    "CARMONA HERNANDEZ, JUAN ESTEBAN": 23
+  },
+  "dorsales_visitante": {
+    "MARTIN MARTIN, AIMAR": 1,
+    "SOBRADO MENDEZ, MARKEL": 2,
+    "PRIETO RUIZ, JULEN": 4,
+    "GARCIA MELLA, IZAN": 5,
+    "TAZARKI JERBI, OMAR": 8,
+    "SANZ BANCALERO, XABIER": 10,
+    "ESTEVEZ ARRUZAS, ANDER": 16,
+    "ARIZTONDO PORTILLO, OINATZ": 19,
+    "LALIASHVILI, SERGIO": 20,
+    "VAZQUEZ SANGUINO, MIKEL": 21,
+    "ESPINACO PEREDA, ANDONI": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
