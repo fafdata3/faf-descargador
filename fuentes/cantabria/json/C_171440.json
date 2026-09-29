@@ -1,0 +1,264 @@
+{
+  "acta_id": "C_171440",
+  "filename": "Acta_C_171440.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 32,
+  "fecha": "18-05-2024",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT B",
+  "equipo_visitante": "E.D.M. VILLAESCUSA A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GIL CASTAÑERA, JORGE"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "GARCIA AGUADO, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "GARCIA AGUADO, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 77,
+      "jugador": "YELA GONZALEZ, MAURICIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "PEREZ GARCIA, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "ALVAREZ LOPEZ, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MESA SUAREZ, GERARDO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DEL CASTILLO SAEZ, MANUEL A",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DEL CASTILLO SAEZ, MANUEL A",
+  "delegado_equipo_visitante": "GONZALEZ SARABIA, CARLOS",
+  "titulares_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "agudo cuenca, DIEGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "DE ANGEL BATYREV, LUCAS",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "Flor Martinez, IAGO",
+    "GARCIA AGUADO, DANIEL",
+    "ASON BALAGUER, MARIO",
+    "GARCIA GOMEZ, DANIEL",
+    "COLLANTES GOMEZ, HUGO",
+    "YELA GONZALEZ, MAURICIO"
+  ],
+  "titulares_visitante": [
+    "CRIADO PEÑA, RODRIGO",
+    "PEREZ GARCIA, ALEJANDRO",
+    "SANTIAGO RASILLA, IVAN",
+    "COSTA CATALINA, JUAN JOSE",
+    "ALVAREZ LOPEZ, DANIEL",
+    "PRATS TORRE, MARIO",
+    "BENITEZ SOBREMAZAS, NICOLAS",
+    "ARCE CANO, DIEGO",
+    "MARTIN SOLORZANO, DANIEL",
+    "maillo haya, PABLO",
+    "RUIZ CUMBRADOS, GUILLERMO"
+  ],
+  "suplentes_local": [
+    "RUIZ SAIZ, MARIO",
+    "PORRAS CADELO, MATEO",
+    "MORALES AGUILERA, CARLOS",
+    "REY LASTRA, JOSE LUIS",
+    "GONZALEZ CAMUS, MARCO"
+  ],
+  "suplentes_visitante": [
+    "CIANCA LIAÑO, RODRIGO",
+    "VIADERO GARCIA, LUCAS",
+    "BAHILLO HERRERIAS, DANIEL",
+    "AJA SORIANO, PEDRO",
+    "diego herrero, rodrigo"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RODRIGUEZ GOMEZ, HUGO",
+    "agudo cuenca, DIEGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "DE ANGEL BATYREV, LUCAS",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "Flor Martinez, IAGO",
+    "GARCIA AGUADO, DANIEL",
+    "ASON BALAGUER, MARIO",
+    "GARCIA GOMEZ, DANIEL",
+    "COLLANTES GOMEZ, HUGO",
+    "YELA GONZALEZ, MAURICIO",
+    "MORALES AGUILERA, CARLOS",
+    "RUIZ SAIZ, MARIO",
+    "GONZALEZ CAMUS, MARCO",
+    "PORRAS CADELO, MATEO",
+    "REY LASTRA, JOSE LUIS"
+  ],
+  "jugadores_visitante": [
+    "CRIADO PEÑA, RODRIGO",
+    "PEREZ GARCIA, ALEJANDRO",
+    "SANTIAGO RASILLA, IVAN",
+    "COSTA CATALINA, JUAN JOSE",
+    "ALVAREZ LOPEZ, DANIEL",
+    "PRATS TORRE, MARIO",
+    "BENITEZ SOBREMAZAS, NICOLAS",
+    "ARCE CANO, DIEGO",
+    "MARTIN SOLORZANO, DANIEL",
+    "maillo haya, PABLO",
+    "RUIZ CUMBRADOS, GUILLERMO",
+    "CIANCA LIAÑO, RODRIGO",
+    "diego herrero, rodrigo",
+    "AJA SORIANO, PEDRO",
+    "BAHILLO HERRERIAS, DANIEL",
+    "VIADERO GARCIA, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "MORALES AGUILERA, CARLOS",
+      "sale": "RODRIGUEZ GOMEZ, HUGO"
+    },
+    {
+      "min": 47,
+      "entra": "RUIZ SAIZ, MARIO",
+      "sale": "PORTILLA CAMUS, ALEJANDRO"
+    },
+    {
+      "min": 57,
+      "entra": "GONZALEZ CAMUS, MARCO",
+      "sale": "GARCIA GOMEZ, DANIEL"
+    },
+    {
+      "min": 57,
+      "entra": "PORRAS CADELO, MATEO",
+      "sale": "Flor Martinez, IAGO"
+    },
+    {
+      "min": 57,
+      "entra": "REY LASTRA, JOSE LUIS",
+      "sale": "GARCIA AGUADO, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "CIANCA LIAÑO, RODRIGO",
+      "sale": "ARCE CANO, DIEGO"
+    },
+    {
+      "min": 40,
+      "entra": "diego herrero, rodrigo",
+      "sale": "PEREZ GARCIA, ALEJANDRO"
+    },
+    {
+      "min": 40,
+      "entra": "AJA SORIANO, PEDRO",
+      "sale": "MARTIN SOLORZANO, DANIEL"
+    },
+    {
+      "min": 53,
+      "entra": "BAHILLO HERRERIAS, DANIEL",
+      "sale": "COSTA CATALINA, JUAN JOSE"
+    },
+    {
+      "min": 58,
+      "entra": "VIADERO GARCIA, LUCAS",
+      "sale": "maillo haya, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ GOMEZ, HUGO": 40,
+    "agudo cuenca, DIEGO": 90,
+    "PORTILLA CAMUS, ALEJANDRO": 47,
+    "DE ANGEL BATYREV, LUCAS": 90,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 90,
+    "Flor Martinez, IAGO": 57,
+    "GARCIA AGUADO, DANIEL": 57,
+    "ASON BALAGUER, MARIO": 90,
+    "GARCIA GOMEZ, DANIEL": 57,
+    "COLLANTES GOMEZ, HUGO": 90,
+    "YELA GONZALEZ, MAURICIO": 90,
+    "MORALES AGUILERA, CARLOS": 50,
+    "RUIZ SAIZ, MARIO": 43,
+    "GONZALEZ CAMUS, MARCO": 33,
+    "PORRAS CADELO, MATEO": 33,
+    "REY LASTRA, JOSE LUIS": 33,
+    "CRIADO PEÑA, RODRIGO": 90,
+    "PEREZ GARCIA, ALEJANDRO": 40,
+    "SANTIAGO RASILLA, IVAN": 90,
+    "COSTA CATALINA, JUAN JOSE": 53,
+    "ALVAREZ LOPEZ, DANIEL": 90,
+    "PRATS TORRE, MARIO": 90,
+    "BENITEZ SOBREMAZAS, NICOLAS": 90,
+    "ARCE CANO, DIEGO": 40,
+    "MARTIN SOLORZANO, DANIEL": 40,
+    "maillo haya, PABLO": 58,
+    "RUIZ CUMBRADOS, GUILLERMO": 90,
+    "CIANCA LIAÑO, RODRIGO": 50,
+    "diego herrero, rodrigo": 50,
+    "AJA SORIANO, PEDRO": 50,
+    "BAHILLO HERRERIAS, DANIEL": 37,
+    "VIADERO GARCIA, LUCAS": 32
+  },
+  "portero_local": "RODRIGUEZ GOMEZ, HUGO",
+  "portero_visitante": "CRIADO PEÑA, RODRIGO",
+  "dorsales_local": {
+    "RODRIGUEZ GOMEZ, HUGO": 1,
+    "agudo cuenca, DIEGO": 2,
+    "PORTILLA CAMUS, ALEJANDRO": 3,
+    "DE ANGEL BATYREV, LUCAS": 5,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 6,
+    "Flor Martinez, IAGO": 8,
+    "GARCIA AGUADO, DANIEL": 9,
+    "ASON BALAGUER, MARIO": 11,
+    "GARCIA GOMEZ, DANIEL": 14,
+    "COLLANTES GOMEZ, HUGO": 15,
+    "YELA GONZALEZ, MAURICIO": 16
+  },
+  "dorsales_visitante": {
+    "CRIADO PEÑA, RODRIGO": 13,
+    "PEREZ GARCIA, ALEJANDRO": 4,
+    "SANTIAGO RASILLA, IVAN": 5,
+    "COSTA CATALINA, JUAN JOSE": 6,
+    "ALVAREZ LOPEZ, DANIEL": 7,
+    "PRATS TORRE, MARIO": 8,
+    "BENITEZ SOBREMAZAS, NICOLAS": 10,
+    "ARCE CANO, DIEGO": 11,
+    "MARTIN SOLORZANO, DANIEL": 14,
+    "maillo haya, PABLO": 15,
+    "RUIZ CUMBRADOS, GUILLERMO": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
