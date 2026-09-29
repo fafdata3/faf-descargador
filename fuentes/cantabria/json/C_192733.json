@@ -1,0 +1,289 @@
+{
+  "acta_id": "C_192733",
+  "filename": "Acta_C_192733.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 2,
+  "fecha": "15-09-2024",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "DEPORTIVO PERINES",
+  "equipo_visitante": "C.F. VIMENOR A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "TEIXEIRA YOLDI, PABLO"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "CORONA DE MATEO, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "MARTE MUGICA, EDUARD",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "LOPEZ GONZALEZ, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 27,
+      "jugador": "JIMENEZ NIÑO, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "MARTE MUGICA, EDUARD",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "CORONA DE MATEO, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "MARTE MUGICA, EDUARD",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "FRAGA GARCIA, FRANCISCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "GAÑO PINEDA, MANUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALEGRIA NUÑEZ, DANIEL",
+  "entrenador_visitante": "RODRIGUEZ PEREZ, VICTOR MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ALCANTARA ARCE, ANDRES",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALCANTARA ARCE, ANDRES",
+  "delegado_equipo_visitante": "SAIZ MARISCAL, ADRIAN",
+  "titulares_local": [
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "LOPEZ GONZALEZ, IZAN",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "DESIRE BONILLA, DANIEL",
+    "JIMENEZ NIÑO, DAVID",
+    "CORONA DE MATEO, DAVID",
+    "SOLANA PEREZ, LEO",
+    "COBO NDONG, DANIEL",
+    "MARTE MUGICA, EDUARD",
+    "DIAZ ALPISTE, SAMUEL"
+  ],
+  "titulares_visitante": [
+    "LÓPEZ ARROYO, IZAN",
+    "LOIS VEGAS, LEO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "FRAGA GARCIA, FRANCISCO",
+    "GAÑO PINEDA, MANUEL",
+    "CIFRIÁN CONTADOR, JACOBO",
+    "MARTIN LOPEZ, IKER",
+    "IBÁÑEZ ESCUDERO, HUGO",
+    "RUIZ DE LA ROSA, GONZALO",
+    "ABARRATEGUI GONZALEZ, GERMAN",
+    "FERNÁNDEZ ÁLVAREZ, DAVID"
+  ],
+  "suplentes_local": [
+    "CUENDE RAMOS, YAGO",
+    "PONTONES FERREIRA, MARIO",
+    "COTERILLO COBO, MATEO",
+    "HERRERA CASANOVA, IZAN",
+    "VEGA CASAS, CARLOS"
+  ],
+  "suplentes_visitante": [
+    "SAENZ COBO, ALEJANDRO",
+    "DE PRADO DIB, ALVARO",
+    "VIERA AGUADO, SERGIO",
+    "DE LA VEGA TOCA, ÁNGEL",
+    "SAN PEDRO SEGURA, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "CUENDE RAMOS, YAGO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RODRIGUEZ RODRIGUEZ, CARLOS",
+    "LOPEZ GONZALEZ, IZAN",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "GARCIA TARANO, BRAYAN",
+    "DESIRE BONILLA, DANIEL",
+    "JIMENEZ NIÑO, DAVID",
+    "CORONA DE MATEO, DAVID",
+    "SOLANA PEREZ, LEO",
+    "COBO NDONG, DANIEL",
+    "MARTE MUGICA, EDUARD",
+    "DIAZ ALPISTE, SAMUEL",
+    "PONTONES FERREIRA, MARIO",
+    "VEGA CASAS, CARLOS",
+    "HERRERA CASANOVA, IZAN",
+    "COTERILLO COBO, MATEO"
+  ],
+  "jugadores_visitante": [
+    "LÓPEZ ARROYO, IZAN",
+    "LOIS VEGAS, LEO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "FRAGA GARCIA, FRANCISCO",
+    "GAÑO PINEDA, MANUEL",
+    "CIFRIÁN CONTADOR, JACOBO",
+    "MARTIN LOPEZ, IKER",
+    "IBÁÑEZ ESCUDERO, HUGO",
+    "RUIZ DE LA ROSA, GONZALO",
+    "ABARRATEGUI GONZALEZ, GERMAN",
+    "FERNÁNDEZ ÁLVAREZ, DAVID",
+    "SAN PEDRO SEGURA, DANIEL",
+    "SAENZ COBO, ALEJANDRO",
+    "VIERA AGUADO, SERGIO",
+    "DE LA VEGA TOCA, ÁNGEL",
+    "DE PRADO DIB, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "PONTONES FERREIRA, MARIO",
+      "sale": "COBO NDONG, DANIEL"
+    },
+    {
+      "min": 51,
+      "entra": "VEGA CASAS, CARLOS",
+      "sale": "SOLANA PEREZ, LEO"
+    },
+    {
+      "min": 61,
+      "entra": "HERRERA CASANOVA, IZAN",
+      "sale": "DESIRE BONILLA, DANIEL"
+    },
+    {
+      "min": 61,
+      "entra": "COTERILLO COBO, MATEO",
+      "sale": "DIAZ ALPISTE, SAMUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SAN PEDRO SEGURA, DANIEL",
+      "sale": "MARTIN LOPEZ, IKER"
+    },
+    {
+      "min": 50,
+      "entra": "SAENZ COBO, ALEJANDRO",
+      "sale": "FRAGA GARCIA, FRANCISCO"
+    },
+    {
+      "min": 55,
+      "entra": "VIERA AGUADO, SERGIO",
+      "sale": "RUIZ DE LA ROSA, GONZALO"
+    },
+    {
+      "min": 55,
+      "entra": "DE LA VEGA TOCA, ÁNGEL",
+      "sale": "ABARRATEGUI GONZALEZ, GERMAN"
+    },
+    {
+      "min": 68,
+      "entra": "DE PRADO DIB, ALVARO",
+      "sale": "GAÑO PINEDA, MANUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ RODRIGUEZ, CARLOS": 90,
+    "LOPEZ GONZALEZ, IZAN": 90,
+    "SAN MIGUEL VÉLEZ, HUGO": 90,
+    "GARCIA TARANO, BRAYAN": 90,
+    "DESIRE BONILLA, DANIEL": 61,
+    "JIMENEZ NIÑO, DAVID": 90,
+    "CORONA DE MATEO, DAVID": 90,
+    "SOLANA PEREZ, LEO": 51,
+    "COBO NDONG, DANIEL": 51,
+    "MARTE MUGICA, EDUARD": 90,
+    "DIAZ ALPISTE, SAMUEL": 61,
+    "PONTONES FERREIRA, MARIO": 39,
+    "VEGA CASAS, CARLOS": 39,
+    "HERRERA CASANOVA, IZAN": 29,
+    "COTERILLO COBO, MATEO": 29,
+    "LÓPEZ ARROYO, IZAN": 90,
+    "LOIS VEGAS, LEO": 90,
+    "CAPELLAN ROBLEDO, DANIEL": 90,
+    "FRAGA GARCIA, FRANCISCO": 50,
+    "GAÑO PINEDA, MANUEL": 68,
+    "CIFRIÁN CONTADOR, JACOBO": 90,
+    "MARTIN LOPEZ, IKER": 40,
+    "IBÁÑEZ ESCUDERO, HUGO": 90,
+    "RUIZ DE LA ROSA, GONZALO": 55,
+    "ABARRATEGUI GONZALEZ, GERMAN": 55,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 90,
+    "SAN PEDRO SEGURA, DANIEL": 50,
+    "SAENZ COBO, ALEJANDRO": 40,
+    "VIERA AGUADO, SERGIO": 35,
+    "DE LA VEGA TOCA, ÁNGEL": 35,
+    "DE PRADO DIB, ALVARO": 22
+  },
+  "portero_local": "RODRIGUEZ RODRIGUEZ, CARLOS",
+  "portero_visitante": "LÓPEZ ARROYO, IZAN",
+  "dorsales_local": {
+    "RODRIGUEZ RODRIGUEZ, CARLOS": 1,
+    "LOPEZ GONZALEZ, IZAN": 3,
+    "SAN MIGUEL VÉLEZ, HUGO": 5,
+    "GARCIA TARANO, BRAYAN": 6,
+    "DESIRE BONILLA, DANIEL": 7,
+    "JIMENEZ NIÑO, DAVID": 9,
+    "CORONA DE MATEO, DAVID": 10,
+    "SOLANA PEREZ, LEO": 11,
+    "COBO NDONG, DANIEL": 14,
+    "MARTE MUGICA, EDUARD": 16,
+    "DIAZ ALPISTE, SAMUEL": 19
+  },
+  "dorsales_visitante": {
+    "LÓPEZ ARROYO, IZAN": 1,
+    "LOIS VEGAS, LEO": 2,
+    "CAPELLAN ROBLEDO, DANIEL": 3,
+    "FRAGA GARCIA, FRANCISCO": 4,
+    "GAÑO PINEDA, MANUEL": 5,
+    "CIFRIÁN CONTADOR, JACOBO": 6,
+    "MARTIN LOPEZ, IKER": 7,
+    "IBÁÑEZ ESCUDERO, HUGO": 8,
+    "RUIZ DE LA ROSA, GONZALO": 9,
+    "ABARRATEGUI GONZALEZ, GERMAN": 10,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 11
+  },
+  "suspendidos": [
+    "MARTE MUGICA, EDUARD"
+  ],
+  "_marcador_widget": true
+}
