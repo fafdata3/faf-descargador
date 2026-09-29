@@ -1,0 +1,294 @@
+{
+  "acta_id": "C_193327",
+  "filename": "Acta_C_193327.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 34,
+  "fecha": "25-05-2025",
+  "hora": "11:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. RAMALES",
+  "equipo_visitante": "C.D. MONTE B",
+  "goles_local": 3,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZALEZ BARRUETABEÑA, BENITO"
+  ],
+  "estadio": "Cubillas - Ramales",
+  "ciudad": "Ramales De La Victoria",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "COBREROS ZUBILLAGA, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 11,
+      "jugador": "GALAZ GOMEZ, GUILLERMO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "TORRE MERINO, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "DOMINGUEZ MONROY, KEVIN ANDRES",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "CORDERO ARAMBURU, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "CORDERO ARAMBURU, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "COBREROS ZUBILLAGA, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "MARTINEZ RADO, MIGUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 71,
+      "jugador": "DE LAS HERAS VARONA, ASIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "HERRAN ESTERAS, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JOVER FERNANDEZ, IÑIGO",
+  "entrenador_visitante": "LOPEZ CEBALLOS, JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTINEZ FRESNEDO, ENRIQUE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ FRESNEDO, ENRIQUE",
+  "delegado_equipo_visitante": "LÓPEZ CASO, RICARDO",
+  "titulares_local": [
+    "VILLASOL GARCIA, MARIO",
+    "TREVILLA VELA, RAMON",
+    "MAZA FERNANDEZ, IÑIGO",
+    "ABASCAL RUIZ, JOAQUIN",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "LOPEZ GONZALEZ, HUGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "MAZA NOVOA, MARIO",
+    "CARRERA SANCHEZ, MARCOS"
+  ],
+  "titulares_visitante": [
+    "DEL VALLE GARCIA, RUBEN",
+    "SAEZ CASTRILLO, MARIO",
+    "MUÑOZ MENDEZ, JAVIER",
+    "TORRE MERINO, MARIO",
+    "DOMINGUEZ MONROY, KEVIN ANDRES",
+    "DE LA VEGA PEREZ, ALEJANDRO",
+    "SAN EMETERIO PONTON, MARCOS",
+    "HERRAN ESTERAS, DANIEL",
+    "CUESTA GARCIA MAURIÑO, JORGE",
+    "ODRIOZOLA HERNANDEZ, MARCO",
+    "garcia-barcena diaz, GONZALO"
+  ],
+  "suplentes_local": [
+    "FURIOL SALCEDO, RUBÉN",
+    "DE LAS HERAS VARONA, ASIER",
+    "ALBISU ROZAS, LEO",
+    "LOPEZ SAEZ, ANDER",
+    "GOMEZ FERNANDEZ, HUGO"
+  ],
+  "suplentes_visitante": [
+    "PEREDA MUÑOZ, JAVIER",
+    "CORDERO ARAMBURU, MATEO",
+    "MARTINEZ RADO, MIGUEL",
+    "POBO FERNANDEZ, JORGE",
+    "FERRADAS GONZALEZ-CORDERO, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "FURIOL SALCEDO, RUBÉN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "VILLASOL GARCIA, MARIO",
+    "TREVILLA VELA, RAMON",
+    "MAZA FERNANDEZ, IÑIGO",
+    "ABASCAL RUIZ, JOAQUIN",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "LOPEZ GONZALEZ, HUGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "MAZA NOVOA, MARIO",
+    "CARRERA SANCHEZ, MARCOS",
+    "DE LAS HERAS VARONA, ASIER",
+    "GOMEZ FERNANDEZ, HUGO",
+    "ALBISU ROZAS, LEO",
+    "LOPEZ SAEZ, ANDER"
+  ],
+  "jugadores_visitante": [
+    "DEL VALLE GARCIA, RUBEN",
+    "SAEZ CASTRILLO, MARIO",
+    "MUÑOZ MENDEZ, JAVIER",
+    "TORRE MERINO, MARIO",
+    "DOMINGUEZ MONROY, KEVIN ANDRES",
+    "DE LA VEGA PEREZ, ALEJANDRO",
+    "SAN EMETERIO PONTON, MARCOS",
+    "HERRAN ESTERAS, DANIEL",
+    "CUESTA GARCIA MAURIÑO, JORGE",
+    "ODRIOZOLA HERNANDEZ, MARCO",
+    "garcia-barcena diaz, GONZALO",
+    "POBO FERNANDEZ, JORGE",
+    "FERRADAS GONZALEZ-CORDERO, DIEGO",
+    "CORDERO ARAMBURU, MATEO",
+    "MARTINEZ RADO, MIGUEL",
+    "PEREDA MUÑOZ, JAVIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "DE LAS HERAS VARONA, ASIER",
+      "sale": "CARRERA SANCHEZ, MARCOS"
+    },
+    {
+      "min": 61,
+      "entra": "GOMEZ FERNANDEZ, HUGO",
+      "sale": "MAZA NOVOA, MARIO"
+    },
+    {
+      "min": 68,
+      "entra": "ALBISU ROZAS, LEO",
+      "sale": "HOLGADO RODRIGUEZ, IKER"
+    },
+    {
+      "min": 76,
+      "entra": "LOPEZ SAEZ, ANDER",
+      "sale": "COBREROS ZUBILLAGA, SAMUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "POBO FERNANDEZ, JORGE",
+      "sale": "SAEZ CASTRILLO, MARIO"
+    },
+    {
+      "min": 52,
+      "entra": "FERRADAS GONZALEZ-CORDERO, DIEGO",
+      "sale": "ODRIOZOLA HERNANDEZ, MARCO"
+    },
+    {
+      "min": 52,
+      "entra": "CORDERO ARAMBURU, MATEO",
+      "sale": "MUÑOZ MENDEZ, JAVIER"
+    },
+    {
+      "min": 52,
+      "entra": "MARTINEZ RADO, MIGUEL",
+      "sale": "DOMINGUEZ MONROY, KEVIN ANDRES"
+    },
+    {
+      "min": 52,
+      "entra": "PEREDA MUÑOZ, JAVIER",
+      "sale": "DE LA VEGA PEREZ, ALEJANDRO"
+    }
+  ],
+  "minutos_jugadores": {
+    "VILLASOL GARCIA, MARIO": 90,
+    "TREVILLA VELA, RAMON": 90,
+    "MAZA FERNANDEZ, IÑIGO": 90,
+    "ABASCAL RUIZ, JOAQUIN": 90,
+    "COBREROS ZUBILLAGA, SAMUEL": 76,
+    "LOPEZ GONZALEZ, HUGO": 90,
+    "GALAZ GOMEZ, GUILLERMO": 90,
+    "GOMEZ RANERO, ANDER": 90,
+    "HOLGADO RODRIGUEZ, IKER": 68,
+    "MAZA NOVOA, MARIO": 61,
+    "CARRERA SANCHEZ, MARCOS": 51,
+    "DE LAS HERAS VARONA, ASIER": 39,
+    "GOMEZ FERNANDEZ, HUGO": 29,
+    "ALBISU ROZAS, LEO": 22,
+    "LOPEZ SAEZ, ANDER": 14,
+    "DEL VALLE GARCIA, RUBEN": 90,
+    "SAEZ CASTRILLO, MARIO": 52,
+    "MUÑOZ MENDEZ, JAVIER": 52,
+    "TORRE MERINO, MARIO": 90,
+    "DOMINGUEZ MONROY, KEVIN ANDRES": 52,
+    "DE LA VEGA PEREZ, ALEJANDRO": 52,
+    "SAN EMETERIO PONTON, MARCOS": 90,
+    "HERRAN ESTERAS, DANIEL": 90,
+    "CUESTA GARCIA MAURIÑO, JORGE": 90,
+    "ODRIOZOLA HERNANDEZ, MARCO": 52,
+    "garcia-barcena diaz, GONZALO": 90,
+    "POBO FERNANDEZ, JORGE": 38,
+    "FERRADAS GONZALEZ-CORDERO, DIEGO": 38,
+    "CORDERO ARAMBURU, MATEO": 38,
+    "MARTINEZ RADO, MIGUEL": 38,
+    "PEREDA MUÑOZ, JAVIER": 38
+  },
+  "portero_local": "VILLASOL GARCIA, MARIO",
+  "portero_visitante": "DEL VALLE GARCIA, RUBEN",
+  "dorsales_local": {
+    "VILLASOL GARCIA, MARIO": 13,
+    "TREVILLA VELA, RAMON": 2,
+    "MAZA FERNANDEZ, IÑIGO": 4,
+    "ABASCAL RUIZ, JOAQUIN": 5,
+    "COBREROS ZUBILLAGA, SAMUEL": 6,
+    "LOPEZ GONZALEZ, HUGO": 8,
+    "GALAZ GOMEZ, GUILLERMO": 10,
+    "GOMEZ RANERO, ANDER": 11,
+    "HOLGADO RODRIGUEZ, IKER": 14,
+    "MAZA NOVOA, MARIO": 15,
+    "CARRERA SANCHEZ, MARCOS": 16
+  },
+  "dorsales_visitante": {
+    "DEL VALLE GARCIA, RUBEN": 1,
+    "SAEZ CASTRILLO, MARIO": 3,
+    "MUÑOZ MENDEZ, JAVIER": 4,
+    "TORRE MERINO, MARIO": 8,
+    "DOMINGUEZ MONROY, KEVIN ANDRES": 9,
+    "DE LA VEGA PEREZ, ALEJANDRO": 12,
+    "SAN EMETERIO PONTON, MARCOS": 14,
+    "HERRAN ESTERAS, DANIEL": 15,
+    "CUESTA GARCIA MAURIÑO, JORGE": 17,
+    "ODRIOZOLA HERNANDEZ, MARCO": 20,
+    "garcia-barcena diaz, GONZALO": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
