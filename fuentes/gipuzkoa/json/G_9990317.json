@@ -1,0 +1,285 @@
+{
+  "acta_id": "G_9990317",
+  "filename": "Acta_G_9990317.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 12,
+  "fecha": "13-12-2025",
+  "hora": "10:30",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "REAL SOCIEDAD S.A.D. C",
+  "equipo_visitante": "MARIÑO C.D.",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "GUERRA VILLANUEVA, MARKEL"
+  ],
+  "estadio": "ZUBIETA Z4",
+  "ciudad": "DONOSTIA",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "MARIÑO NAVA, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 48,
+      "jugador": "CARDENAS ESCOBAR, DREYMAN SANTIAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "FERNANDEZ MARTINEZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "MORENO ROMAN, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 26,
+      "jugador": "ZINKUNEGI ETXEBERRIA, MARTXEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 28,
+      "jugador": "GARCIA HERNANDEZ, UNAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "MARIÑO NAVA, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ORTEGA BLANCO, DAVID",
+  "entrenador_visitante": "NUÑEZ ARNES, JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ELEIZEGI URANGA, XABIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "JIMENEZ ECHEZARRETA, HUGO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RUBIO CANDIA, DANEL JULIAN",
+    "BERNAL VARELA, URKO",
+    "MENDOZA MUÑOA, IBON",
+    "IRURE ZENDOIA, XANET",
+    "ZINKUNEGI ETXEBERRIA, MARTXEL",
+    "RIVERA DEL CAÑO, PABLO",
+    "ZABALETA ZUBIZARRETA, UNAX",
+    "ARANBURU BERISTAIN, OIHAN",
+    "MORENO ROMAN, PABLO",
+    "CORONADO VAZQUEZ, JON",
+    "URKIA BERECIBAR, IBAI"
+  ],
+  "titulares_visitante": [
+    "EIZAGUIRRE MARTINEZ, PABLO",
+    "AGUILAR BRIONES, EÑAUT",
+    "ORDÓÑEZ MARTÍNEZ, AGER",
+    "ERAUSQUIN SEVILLA, PABLO",
+    "MARIÑO NAVA, MARKEL",
+    "GARCIA HERNANDEZ, UNAI",
+    "CARDENAS ESCOBAR, DREYMAN SANTIAGO",
+    "BLANCO DOMINGUEZ, GONZALO",
+    "UGARTE MANSO, ALAIN",
+    "RIVERO FELIPE, HODEI",
+    "NUÑEZ MANGAS, CARLOS"
+  ],
+  "suplentes_local": [
+    "GARMENDIA IPARRAGUIRRE, ANDER",
+    "TELLETXEA OYARZABAL, IRAITZ",
+    "FERNANDEZ MARTINEZ, ALVARO",
+    "ZUBIKARAI LEKUNBERRI, PAUL",
+    "BARQUERO MARTINEZ, EDER",
+    "PRIETO MAGAÑA, JON"
+  ],
+  "suplentes_visitante": [
+    "AZCUNE ZUAZO, JON IÑAKI",
+    "TXAPARTEGI GALVANY, MATTIN",
+    "SOLOZABAL AZPIROZ, PAUL",
+    "HERNANDEZ CIPITRIA, AMETS",
+    "CANO TEMEZ, JULEN UGAITZ",
+    "GONZALEZ BLANCO, JON",
+    "GONZÁLEZ VALLADARES, MARKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "TELLETXEA OYARZABAL, IRAITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "AZCUNE ZUAZO, JON IÑAKI",
+    "SOLOZABAL AZPIROZ, PAUL"
+  ],
+  "jugadores_local": [
+    "RUBIO CANDIA, DANEL JULIAN",
+    "BERNAL VARELA, URKO",
+    "MENDOZA MUÑOA, IBON",
+    "IRURE ZENDOIA, XANET",
+    "ZINKUNEGI ETXEBERRIA, MARTXEL",
+    "RIVERA DEL CAÑO, PABLO",
+    "ZABALETA ZUBIZARRETA, UNAX",
+    "ARANBURU BERISTAIN, OIHAN",
+    "MORENO ROMAN, PABLO",
+    "CORONADO VAZQUEZ, JON",
+    "URKIA BERECIBAR, IBAI",
+    "FERNANDEZ MARTINEZ, ALVARO",
+    "ZUBIKARAI LEKUNBERRI, PAUL",
+    "PRIETO MAGAÑA, JON",
+    "GARMENDIA IPARRAGUIRRE, ANDER",
+    "BARQUERO MARTINEZ, EDER"
+  ],
+  "jugadores_visitante": [
+    "EIZAGUIRRE MARTINEZ, PABLO",
+    "AGUILAR BRIONES, EÑAUT",
+    "ORDÓÑEZ MARTÍNEZ, AGER",
+    "ERAUSQUIN SEVILLA, PABLO",
+    "MARIÑO NAVA, MARKEL",
+    "GARCIA HERNANDEZ, UNAI",
+    "CARDENAS ESCOBAR, DREYMAN SANTIAGO",
+    "BLANCO DOMINGUEZ, GONZALO",
+    "UGARTE MANSO, ALAIN",
+    "RIVERO FELIPE, HODEI",
+    "NUÑEZ MANGAS, CARLOS",
+    "TXAPARTEGI GALVANY, MATTIN",
+    "HERNANDEZ CIPITRIA, AMETS",
+    "GONZÁLEZ VALLADARES, MARKEL",
+    "CANO TEMEZ, JULEN UGAITZ",
+    "GONZALEZ BLANCO, JON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "FERNANDEZ MARTINEZ, ALVARO",
+      "sale": "ARANBURU BERISTAIN, OIHAN"
+    },
+    {
+      "min": 41,
+      "entra": "ZUBIKARAI LEKUNBERRI, PAUL",
+      "sale": "URKIA BERECIBAR, IBAI"
+    },
+    {
+      "min": 49,
+      "entra": "PRIETO MAGAÑA, JON",
+      "sale": "CORONADO VAZQUEZ, JON"
+    },
+    {
+      "min": 49,
+      "entra": "GARMENDIA IPARRAGUIRRE, ANDER",
+      "sale": "ZINKUNEGI ETXEBERRIA, MARTXEL"
+    },
+    {
+      "min": 58,
+      "entra": "BARQUERO MARTINEZ, EDER",
+      "sale": "RIVERA DEL CAÑO, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "TXAPARTEGI GALVANY, MATTIN",
+      "sale": "RIVERO FELIPE, HODEI"
+    },
+    {
+      "min": 49,
+      "entra": "HERNANDEZ CIPITRIA, AMETS",
+      "sale": "NUÑEZ MANGAS, CARLOS"
+    },
+    {
+      "min": 54,
+      "entra": "GONZÁLEZ VALLADARES, MARKEL",
+      "sale": "UGARTE MANSO, ALAIN"
+    },
+    {
+      "min": 58,
+      "entra": "CANO TEMEZ, JULEN UGAITZ",
+      "sale": "ORDÓÑEZ MARTÍNEZ, AGER"
+    },
+    {
+      "min": 58,
+      "entra": "GONZALEZ BLANCO, JON",
+      "sale": "CARDENAS ESCOBAR, DREYMAN SANTIAGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUBIO CANDIA, DANEL JULIAN": 90,
+    "BERNAL VARELA, URKO": 90,
+    "MENDOZA MUÑOA, IBON": 90,
+    "IRURE ZENDOIA, XANET": 90,
+    "ZINKUNEGI ETXEBERRIA, MARTXEL": 49,
+    "RIVERA DEL CAÑO, PABLO": 58,
+    "ZABALETA ZUBIZARRETA, UNAX": 90,
+    "ARANBURU BERISTAIN, OIHAN": 41,
+    "MORENO ROMAN, PABLO": 90,
+    "CORONADO VAZQUEZ, JON": 49,
+    "URKIA BERECIBAR, IBAI": 41,
+    "FERNANDEZ MARTINEZ, ALVARO": 49,
+    "ZUBIKARAI LEKUNBERRI, PAUL": 49,
+    "PRIETO MAGAÑA, JON": 41,
+    "GARMENDIA IPARRAGUIRRE, ANDER": 41,
+    "BARQUERO MARTINEZ, EDER": 32,
+    "EIZAGUIRRE MARTINEZ, PABLO": 90,
+    "AGUILAR BRIONES, EÑAUT": 90,
+    "ORDÓÑEZ MARTÍNEZ, AGER": 58,
+    "ERAUSQUIN SEVILLA, PABLO": 90,
+    "MARIÑO NAVA, MARKEL": 90,
+    "GARCIA HERNANDEZ, UNAI": 90,
+    "CARDENAS ESCOBAR, DREYMAN SANTIAGO": 58,
+    "BLANCO DOMINGUEZ, GONZALO": 90,
+    "UGARTE MANSO, ALAIN": 54,
+    "RIVERO FELIPE, HODEI": 49,
+    "NUÑEZ MANGAS, CARLOS": 49,
+    "TXAPARTEGI GALVANY, MATTIN": 41,
+    "HERNANDEZ CIPITRIA, AMETS": 41,
+    "GONZÁLEZ VALLADARES, MARKEL": 36,
+    "CANO TEMEZ, JULEN UGAITZ": 32,
+    "GONZALEZ BLANCO, JON": 32
+  },
+  "portero_local": "RUBIO CANDIA, DANEL JULIAN",
+  "portero_visitante": "EIZAGUIRRE MARTINEZ, PABLO",
+  "dorsales_local": {
+    "RUBIO CANDIA, DANEL JULIAN": 1,
+    "BERNAL VARELA, URKO": 2,
+    "MENDOZA MUÑOA, IBON": 3,
+    "IRURE ZENDOIA, XANET": 4,
+    "ZINKUNEGI ETXEBERRIA, MARTXEL": 5,
+    "RIVERA DEL CAÑO, PABLO": 6,
+    "ZABALETA ZUBIZARRETA, UNAX": 7,
+    "ARANBURU BERISTAIN, OIHAN": 8,
+    "MORENO ROMAN, PABLO": 9,
+    "CORONADO VAZQUEZ, JON": 10,
+    "URKIA BERECIBAR, IBAI": 11
+  },
+  "dorsales_visitante": {
+    "EIZAGUIRRE MARTINEZ, PABLO": 13,
+    "AGUILAR BRIONES, EÑAUT": 2,
+    "ORDÓÑEZ MARTÍNEZ, AGER": 4,
+    "ERAUSQUIN SEVILLA, PABLO": 5,
+    "MARIÑO NAVA, MARKEL": 7,
+    "GARCIA HERNANDEZ, UNAI": 10,
+    "CARDENAS ESCOBAR, DREYMAN SANTIAGO": 11,
+    "BLANCO DOMINGUEZ, GONZALO": 16,
+    "UGARTE MANSO, ALAIN": 17,
+    "RIVERO FELIPE, HODEI": 18,
+    "NUÑEZ MANGAS, CARLOS": 20
+  },
+  "suspendidos": []
+}
