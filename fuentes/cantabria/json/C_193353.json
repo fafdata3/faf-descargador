@@ -1,0 +1,265 @@
+{
+  "acta_id": "C_193353",
+  "filename": "Acta_C_193353.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 3,
+  "fecha": "06-10-2024",
+  "hora": "11:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.AT. PERINES A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SANCHEZ GARCÍA, MARIO"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "ZUBIAGA ECHEVARRIA, MAURO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "VALENZUELA FERNANDEZ, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 46,
+      "jugador": "HERNANDEZ DIAZ, SANDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "MARTINEZ ABASCAL, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "CRESPO DIEGO, RAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 42,
+      "jugador": "VAZQUEZ PORRAS, SERGIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "URBISTONDO MARINO, PEDRO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ GARCIA, VICTOR ALBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ GARCIA, VICTOR ALBERTO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "ARENAL DIESTRO, LUCA",
+    "LOPEZ HERNANDEZ, MARCO",
+    "ABERASTURI COZAR, NICOLAS",
+    "IRASTORZA BARQUINERO, NECO",
+    "MARTINEZ ABASCAL, SAMUEL",
+    "GONZALEZ ESTEBANEZ, ALVARO",
+    "CATAÑO ARANGO, YULIAN ALEXANDER",
+    "CRESPO DIEGO, RAUL",
+    "SETIEN GUTIERREZ, DARIO",
+    "VILLAMOR FALCONES, SAMUEL",
+    "GUTIÉRREZ SALCEDA, DIEGO"
+  ],
+  "titulares_visitante": [
+    "AJA SERRANO, NECO",
+    "VALENZUELA FERNANDEZ, MARIO",
+    "GUTIÉRREZ MIERA, VÍCTOR",
+    "ZUBIAGA ECHEVARRIA, MAURO",
+    "GONZALEZ MURILLO, MARCO",
+    "GONZALEZ MUÑIZ, LARO",
+    "ABASCAL CAMINO, ALVARO",
+    "VAZQUEZ PORRAS, SERGIO",
+    "FERNANDEZ GONZALEZ, XAEL",
+    "FERNANDEZ GONZALEZ, MARTIN",
+    "CANO GARCIA, RICARDO"
+  ],
+  "suplentes_local": [
+    "MANRIQUE AZPEITIA, LOGAN",
+    "HERNANDEZ DIAZ, SANDRO",
+    "MUÑOZ MUÑOZ, TOMAS",
+    "GARCIA RUIZ, HERNAN",
+    "SANTIAGO GANDARILLAS, YAEL"
+  ],
+  "suplentes_visitante": [
+    "OBESO MARTINEZ, MARCOS",
+    "FERNANDEZ MARTINEZ, LUCAS",
+    "AGUIRRE GARCIA, SAMUEL",
+    "PEREZ MARCANO, MANUEL",
+    "SANCHEZ CUEVAS, SERGIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "OBESO MARTINEZ, MARCOS"
+  ],
+  "jugadores_local": [
+    "ARENAL DIESTRO, LUCA",
+    "LOPEZ HERNANDEZ, MARCO",
+    "ABERASTURI COZAR, NICOLAS",
+    "IRASTORZA BARQUINERO, NECO",
+    "MARTINEZ ABASCAL, SAMUEL",
+    "GONZALEZ ESTEBANEZ, ALVARO",
+    "CATAÑO ARANGO, YULIAN ALEXANDER",
+    "CRESPO DIEGO, RAUL",
+    "SETIEN GUTIERREZ, DARIO",
+    "VILLAMOR FALCONES, SAMUEL",
+    "GUTIÉRREZ SALCEDA, DIEGO",
+    "HERNANDEZ DIAZ, SANDRO",
+    "MUÑOZ MUÑOZ, TOMAS",
+    "GARCIA RUIZ, HERNAN",
+    "MANRIQUE AZPEITIA, LOGAN",
+    "SANTIAGO GANDARILLAS, YAEL"
+  ],
+  "jugadores_visitante": [
+    "AJA SERRANO, NECO",
+    "VALENZUELA FERNANDEZ, MARIO",
+    "GUTIÉRREZ MIERA, VÍCTOR",
+    "ZUBIAGA ECHEVARRIA, MAURO",
+    "GONZALEZ MURILLO, MARCO",
+    "GONZALEZ MUÑIZ, LARO",
+    "ABASCAL CAMINO, ALVARO",
+    "VAZQUEZ PORRAS, SERGIO",
+    "FERNANDEZ GONZALEZ, XAEL",
+    "FERNANDEZ GONZALEZ, MARTIN",
+    "CANO GARCIA, RICARDO",
+    "FERNANDEZ MARTINEZ, LUCAS",
+    "SANCHEZ CUEVAS, SERGIO",
+    "AGUIRRE GARCIA, SAMUEL",
+    "PEREZ MARCANO, MANUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "HERNANDEZ DIAZ, SANDRO",
+      "sale": "GONZALEZ ESTEBANEZ, ALVARO"
+    },
+    {
+      "min": 35,
+      "entra": "MUÑOZ MUÑOZ, TOMAS",
+      "sale": "SETIEN GUTIERREZ, DARIO"
+    },
+    {
+      "min": 35,
+      "entra": "GARCIA RUIZ, HERNAN",
+      "sale": "GUTIÉRREZ SALCEDA, DIEGO"
+    },
+    {
+      "min": 47,
+      "entra": "MANRIQUE AZPEITIA, LOGAN",
+      "sale": "VILLAMOR FALCONES, SAMUEL"
+    },
+    {
+      "min": 47,
+      "entra": "SANTIAGO GANDARILLAS, YAEL",
+      "sale": "LOPEZ HERNANDEZ, MARCO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "FERNANDEZ MARTINEZ, LUCAS",
+      "sale": "ZUBIAGA ECHEVARRIA, MAURO"
+    },
+    {
+      "min": 49,
+      "entra": "SANCHEZ CUEVAS, SERGIO",
+      "sale": "VAZQUEZ PORRAS, SERGIO"
+    },
+    {
+      "min": 54,
+      "entra": "AGUIRRE GARCIA, SAMUEL",
+      "sale": "FERNANDEZ GONZALEZ, XAEL"
+    },
+    {
+      "min": 59,
+      "entra": "PEREZ MARCANO, MANUEL",
+      "sale": "FERNANDEZ GONZALEZ, MARTIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARENAL DIESTRO, LUCA": 90,
+    "LOPEZ HERNANDEZ, MARCO": 47,
+    "ABERASTURI COZAR, NICOLAS": 90,
+    "IRASTORZA BARQUINERO, NECO": 90,
+    "MARTINEZ ABASCAL, SAMUEL": 90,
+    "GONZALEZ ESTEBANEZ, ALVARO": 35,
+    "CATAÑO ARANGO, YULIAN ALEXANDER": 90,
+    "CRESPO DIEGO, RAUL": 90,
+    "SETIEN GUTIERREZ, DARIO": 35,
+    "VILLAMOR FALCONES, SAMUEL": 47,
+    "GUTIÉRREZ SALCEDA, DIEGO": 35,
+    "HERNANDEZ DIAZ, SANDRO": 55,
+    "MUÑOZ MUÑOZ, TOMAS": 55,
+    "GARCIA RUIZ, HERNAN": 55,
+    "MANRIQUE AZPEITIA, LOGAN": 43,
+    "SANTIAGO GANDARILLAS, YAEL": 43,
+    "AJA SERRANO, NECO": 90,
+    "VALENZUELA FERNANDEZ, MARIO": 90,
+    "GUTIÉRREZ MIERA, VÍCTOR": 90,
+    "ZUBIAGA ECHEVARRIA, MAURO": 49,
+    "GONZALEZ MURILLO, MARCO": 90,
+    "GONZALEZ MUÑIZ, LARO": 90,
+    "ABASCAL CAMINO, ALVARO": 90,
+    "VAZQUEZ PORRAS, SERGIO": 49,
+    "FERNANDEZ GONZALEZ, XAEL": 54,
+    "FERNANDEZ GONZALEZ, MARTIN": 59,
+    "CANO GARCIA, RICARDO": 90,
+    "FERNANDEZ MARTINEZ, LUCAS": 41,
+    "SANCHEZ CUEVAS, SERGIO": 41,
+    "AGUIRRE GARCIA, SAMUEL": 36,
+    "PEREZ MARCANO, MANUEL": 31
+  },
+  "portero_local": "ARENAL DIESTRO, LUCA",
+  "portero_visitante": "AJA SERRANO, NECO",
+  "dorsales_local": {
+    "ARENAL DIESTRO, LUCA": 13,
+    "LOPEZ HERNANDEZ, MARCO": 2,
+    "ABERASTURI COZAR, NICOLAS": 3,
+    "IRASTORZA BARQUINERO, NECO": 4,
+    "MARTINEZ ABASCAL, SAMUEL": 5,
+    "GONZALEZ ESTEBANEZ, ALVARO": 6,
+    "CATAÑO ARANGO, YULIAN ALEXANDER": 7,
+    "CRESPO DIEGO, RAUL": 8,
+    "SETIEN GUTIERREZ, DARIO": 9,
+    "VILLAMOR FALCONES, SAMUEL": 10,
+    "GUTIÉRREZ SALCEDA, DIEGO": 11
+  },
+  "dorsales_visitante": {
+    "AJA SERRANO, NECO": 13,
+    "VALENZUELA FERNANDEZ, MARIO": 4,
+    "GUTIÉRREZ MIERA, VÍCTOR": 5,
+    "ZUBIAGA ECHEVARRIA, MAURO": 7,
+    "GONZALEZ MURILLO, MARCO": 8,
+    "GONZALEZ MUÑIZ, LARO": 10,
+    "ABASCAL CAMINO, ALVARO": 11,
+    "VAZQUEZ PORRAS, SERGIO": 19,
+    "FERNANDEZ GONZALEZ, XAEL": 20,
+    "FERNANDEZ GONZALEZ, MARTIN": 21,
+    "CANO GARCIA, RICARDO": 24
+  },
+  "suspendidos": []
+}
