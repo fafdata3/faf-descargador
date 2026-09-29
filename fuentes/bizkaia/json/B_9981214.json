@@ -1,0 +1,240 @@
+{
+  "acta_id": "B_9981214",
+  "filename": "Acta_B_9981214.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 5,
+  "fecha": "01-11-2025",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ASTI-LEKU A",
+  "equipo_visitante": "MSC BUTROE A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "MARTIN SAN SEBASTIAN, ALEXANDER"
+  ],
+  "estadio": "LOS LLANOS",
+  "ciudad": "Portugalete",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "VADILLO CASTRILLEJO, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "ELEXPURU GOMEZ, GORKA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "HERNANDO MIELGO, URKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 71,
+      "jugador": "BEITIA ASLA, AXULAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MERINO CURIEL, MIGUEL",
+  "entrenador_visitante": "ELORRIAGA SOBRON, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MERINO CURIEL, JULEN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MERINO CURIEL, JULEN",
+  "delegado_equipo_visitante": "ESCONDRILLAS SOLERA, JON KOLDO",
+  "titulares_local": [
+    "DEL RIO GIL, MARKEL",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "ARTEAGA DOUEIL, IKER",
+    "ELORZA CORRALES, IÑAKI",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "MURGA FERNANDEZ, LANDER",
+    "QUIROS DEL MOLINO, ENEKO",
+    "FERNANDEZ CARIDAD, ENEKO"
+  ],
+  "titulares_visitante": [
+    "RODRÍGUEZ RUIZ, ANER",
+    "LEKERIKA MENDIA, IÑIGO",
+    "MUÑIZ ITURBE-ORMAETXE, PERU",
+    "ELORRIAGA CARLOS, OIER",
+    "SASTRE LARRABE, LUKEN",
+    "BEITIA ASLA, AXULAR",
+    "BARBOSA BILBAO, LIER",
+    "ELORDUY ARTECHE, TELMO",
+    "GEZURAGA MARDARAS, INAR",
+    "DUBININ KOUKOL, DANIEL DAMIAN",
+    "BRYSON CARDIM, CHRISTIAN"
+  ],
+  "suplentes_local": [
+    "BAZ LUQUE, JÖEL",
+    "CUÑADO AIZPURU, JOSU",
+    "PLANS DE DIEGO, LEZO",
+    "FERNANDEZ ECHARRI, PEIO",
+    "LORENTE PRADO, ANER",
+    "HERNANDO MIELGO, URKO"
+  ],
+  "suplentes_visitante": [
+    "MENTXAKA HORMAETXE, MIKEL",
+    "CORDOBA LADINO, EMMANUEL",
+    "ZUGAZAGA BARCOS, DEI",
+    "IBAÑEZ PEREZ, ANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "BAZ LUQUE, JÖEL",
+    "CUÑADO AIZPURU, JOSU",
+    "FERNANDEZ ECHARRI, PEIO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DEL RIO GIL, MARKEL",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "ARTEAGA DOUEIL, IKER",
+    "ELORZA CORRALES, IÑAKI",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "MURGA FERNANDEZ, LANDER",
+    "QUIROS DEL MOLINO, ENEKO",
+    "FERNANDEZ CARIDAD, ENEKO",
+    "PLANS DE DIEGO, LEZO",
+    "HERNANDO MIELGO, URKO",
+    "LORENTE PRADO, ANER"
+  ],
+  "jugadores_visitante": [
+    "RODRÍGUEZ RUIZ, ANER",
+    "LEKERIKA MENDIA, IÑIGO",
+    "MUÑIZ ITURBE-ORMAETXE, PERU",
+    "ELORRIAGA CARLOS, OIER",
+    "SASTRE LARRABE, LUKEN",
+    "BEITIA ASLA, AXULAR",
+    "BARBOSA BILBAO, LIER",
+    "ELORDUY ARTECHE, TELMO",
+    "GEZURAGA MARDARAS, INAR",
+    "DUBININ KOUKOL, DANIEL DAMIAN",
+    "BRYSON CARDIM, CHRISTIAN",
+    "IBAÑEZ PEREZ, ANDER",
+    "MENTXAKA HORMAETXE, MIKEL",
+    "CORDOBA LADINO, EMMANUEL",
+    "ZUGAZAGA BARCOS, DEI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "PLANS DE DIEGO, LEZO",
+      "sale": "FERNANDEZ CARIDAD, ENEKO"
+    },
+    {
+      "min": 70,
+      "entra": "HERNANDO MIELGO, URKO",
+      "sale": "ELORZA CORRALES, IÑAKI"
+    },
+    {
+      "min": 70,
+      "entra": "LORENTE PRADO, ANER",
+      "sale": "ARTEAGA DOUEIL, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "IBAÑEZ PEREZ, ANDER",
+      "sale": "ELORRIAGA CARLOS, OIER"
+    },
+    {
+      "min": 40,
+      "entra": "MENTXAKA HORMAETXE, MIKEL",
+      "sale": "MUÑIZ ITURBE-ORMAETXE, PERU"
+    },
+    {
+      "min": 40,
+      "entra": "CORDOBA LADINO, EMMANUEL",
+      "sale": "DUBININ KOUKOL, DANIEL DAMIAN"
+    },
+    {
+      "min": 40,
+      "entra": "ZUGAZAGA BARCOS, DEI",
+      "sale": "SASTRE LARRABE, LUKEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "DEL RIO GIL, MARKEL": 90,
+    "ALCANTARA IBAÑEZ, BEÑAT": 90,
+    "ABAD MEDIAVILLA, LIHER": 90,
+    "ELEXPURU GOMEZ, GORKA": 90,
+    "ARTEAGA DOUEIL, IKER": 70,
+    "ELORZA CORRALES, IÑAKI": 70,
+    "VADILLO CASTRILLEJO, JON": 90,
+    "FORTEA BARABINO, MATEO": 90,
+    "MURGA FERNANDEZ, LANDER": 90,
+    "QUIROS DEL MOLINO, ENEKO": 90,
+    "FERNANDEZ CARIDAD, ENEKO": 57,
+    "PLANS DE DIEGO, LEZO": 33,
+    "HERNANDO MIELGO, URKO": 20,
+    "LORENTE PRADO, ANER": 20,
+    "RODRÍGUEZ RUIZ, ANER": 90,
+    "LEKERIKA MENDIA, IÑIGO": 90,
+    "MUÑIZ ITURBE-ORMAETXE, PERU": 40,
+    "ELORRIAGA CARLOS, OIER": 40,
+    "SASTRE LARRABE, LUKEN": 40,
+    "BEITIA ASLA, AXULAR": 90,
+    "BARBOSA BILBAO, LIER": 90,
+    "ELORDUY ARTECHE, TELMO": 90,
+    "GEZURAGA MARDARAS, INAR": 90,
+    "DUBININ KOUKOL, DANIEL DAMIAN": 40,
+    "BRYSON CARDIM, CHRISTIAN": 90,
+    "IBAÑEZ PEREZ, ANDER": 50,
+    "MENTXAKA HORMAETXE, MIKEL": 50,
+    "CORDOBA LADINO, EMMANUEL": 50,
+    "ZUGAZAGA BARCOS, DEI": 50
+  },
+  "portero_local": "DEL RIO GIL, MARKEL",
+  "portero_visitante": "RODRÍGUEZ RUIZ, ANER",
+  "dorsales_local": {
+    "DEL RIO GIL, MARKEL": 25,
+    "ALCANTARA IBAÑEZ, BEÑAT": 4,
+    "ABAD MEDIAVILLA, LIHER": 5,
+    "ELEXPURU GOMEZ, GORKA": 6,
+    "ARTEAGA DOUEIL, IKER": 8,
+    "ELORZA CORRALES, IÑAKI": 9,
+    "VADILLO CASTRILLEJO, JON": 10,
+    "FORTEA BARABINO, MATEO": 11,
+    "MURGA FERNANDEZ, LANDER": 15,
+    "QUIROS DEL MOLINO, ENEKO": 18,
+    "FERNANDEZ CARIDAD, ENEKO": 21
+  },
+  "dorsales_visitante": {
+    "RODRÍGUEZ RUIZ, ANER": 1,
+    "LEKERIKA MENDIA, IÑIGO": 2,
+    "MUÑIZ ITURBE-ORMAETXE, PERU": 3,
+    "ELORRIAGA CARLOS, OIER": 4,
+    "SASTRE LARRABE, LUKEN": 6,
+    "BEITIA ASLA, AXULAR": 7,
+    "BARBOSA BILBAO, LIER": 9,
+    "ELORDUY ARTECHE, TELMO": 10,
+    "GEZURAGA MARDARAS, INAR": 11,
+    "DUBININ KOUKOL, DANIEL DAMIAN": 17,
+    "BRYSON CARDIM, CHRISTIAN": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
