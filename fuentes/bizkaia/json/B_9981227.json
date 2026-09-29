@@ -1,0 +1,250 @@
+{
+  "acta_id": "B_9981227",
+  "filename": "Acta_B_9981227.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 7,
+  "fecha": "15-11-2025",
+  "hora": "19:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "RETUERTO B",
+  "equipo_visitante": "IBAIONDO NERBIOI A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "BASTERRETXEA ALBERDI (M), MIKELE"
+  ],
+  "estadio": "IBARRETA",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "KAREAGA RUIZ DE AUSTRI, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "KAREAGA RUIZ DE AUSTRI, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "MENDOZA DE TRINCHERIA, MIKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 51,
+      "jugador": "CONTRERAS SILVA, OHIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "OCHOA GOÑI, ENEKO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "SORRIKETA VALDIZAN, JOANES",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARZON PEÑARANDA, RUBEN",
+  "entrenador_visitante": "OLMOS MATA, ASIER IGNACIO",
+  "segundo_entrenador_local": "GUINEA CRIADO, ALEX",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LATORRE BLANCO, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "SOLINIS RIOBELLO, FRANCISCO JAVIER",
+  "titulares_local": [
+    "GARCIA FERNANDEZ, ADRIAN ENZO",
+    "GONZALEZ GARCIA, IBAI",
+    "NUÑEZ BUSTO, JON",
+    "GONZALEZ RUIZ, AITZOL",
+    "SALAZAR BARNESE, IKER",
+    "PRADO ASPIAZU, AIMAR",
+    "MARTINEZ BECERRA, IBAI",
+    "SAMBU VIEIRA, OIER OZIL",
+    "FERNANDEZ BIDAURRAZAGA, XABIER",
+    "MENDOZA DE TRINCHERIA, MIKEL",
+    "BLAYA GARCIA, GORKA"
+  ],
+  "titulares_visitante": [
+    "ROS GONZALEZ, UNAI",
+    "LÓPEZ MIR, ANDER",
+    "SAN ANDRES LAESPADA, AMETS",
+    "LÓPEZ MIR, MARKEL",
+    "PEREZ CARBALLO, ANER",
+    "SORRIKETA VALDIZAN, JOANES",
+    "ALDABALDETREKU FAUS, IBON",
+    "ARTATXO GOÑI, AGER",
+    "KAREAGA RUIZ DE AUSTRI, JON",
+    "OCHOA GOÑI, ENEKO",
+    "LONDOÑO LEON, MARLON"
+  ],
+  "suplentes_local": [
+    "MARTIN DIAZ, LUCAS",
+    "BERCERUELO LOPEZ, OIHAN",
+    "ISTURIZ MARTINEZ, UNAX",
+    "PEREZ GARCIA, ASIER",
+    "CASCO SANTOS, ANDERSON ARIEL",
+    "BRINGAS LARRAURI, MARKEL"
+  ],
+  "suplentes_visitante": [
+    "MARTINEZ ALONSO, URTZI",
+    "CONTRERAS SILVA, OHIAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTIN DIAZ, LUCAS"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GARCIA FERNANDEZ, ADRIAN ENZO",
+    "GONZALEZ GARCIA, IBAI",
+    "NUÑEZ BUSTO, JON",
+    "GONZALEZ RUIZ, AITZOL",
+    "SALAZAR BARNESE, IKER",
+    "PRADO ASPIAZU, AIMAR",
+    "MARTINEZ BECERRA, IBAI",
+    "SAMBU VIEIRA, OIER OZIL",
+    "FERNANDEZ BIDAURRAZAGA, XABIER",
+    "MENDOZA DE TRINCHERIA, MIKEL",
+    "BLAYA GARCIA, GORKA",
+    "BERCERUELO LOPEZ, OIHAN",
+    "PEREZ GARCIA, ASIER",
+    "CASCO SANTOS, ANDERSON ARIEL",
+    "ISTURIZ MARTINEZ, UNAX",
+    "BRINGAS LARRAURI, MARKEL"
+  ],
+  "jugadores_visitante": [
+    "ROS GONZALEZ, UNAI",
+    "LÓPEZ MIR, ANDER",
+    "SAN ANDRES LAESPADA, AMETS",
+    "LÓPEZ MIR, MARKEL",
+    "PEREZ CARBALLO, ANER",
+    "SORRIKETA VALDIZAN, JOANES",
+    "ALDABALDETREKU FAUS, IBON",
+    "ARTATXO GOÑI, AGER",
+    "KAREAGA RUIZ DE AUSTRI, JON",
+    "OCHOA GOÑI, ENEKO",
+    "LONDOÑO LEON, MARLON",
+    "CONTRERAS SILVA, OHIAN",
+    "MARTINEZ ALONSO, URTZI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "BERCERUELO LOPEZ, OIHAN",
+      "sale": "FERNANDEZ BIDAURRAZAGA, XABIER"
+    },
+    {
+      "min": 48,
+      "entra": "PEREZ GARCIA, ASIER",
+      "sale": "SAMBU VIEIRA, OIER OZIL"
+    },
+    {
+      "min": 59,
+      "entra": "CASCO SANTOS, ANDERSON ARIEL",
+      "sale": "SALAZAR BARNESE, IKER"
+    },
+    {
+      "min": 68,
+      "entra": "ISTURIZ MARTINEZ, UNAX",
+      "sale": "MARTINEZ BECERRA, IBAI"
+    },
+    {
+      "min": 68,
+      "entra": "BRINGAS LARRAURI, MARKEL",
+      "sale": "BLAYA GARCIA, GORKA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "CONTRERAS SILVA, OHIAN",
+      "sale": "LONDOÑO LEON, MARLON"
+    },
+    {
+      "min": 40,
+      "entra": "MARTINEZ ALONSO, URTZI",
+      "sale": "KAREAGA RUIZ DE AUSTRI, JON"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA FERNANDEZ, ADRIAN ENZO": 90,
+    "GONZALEZ GARCIA, IBAI": 90,
+    "NUÑEZ BUSTO, JON": 90,
+    "GONZALEZ RUIZ, AITZOL": 90,
+    "SALAZAR BARNESE, IKER": 59,
+    "PRADO ASPIAZU, AIMAR": 90,
+    "MARTINEZ BECERRA, IBAI": 68,
+    "SAMBU VIEIRA, OIER OZIL": 48,
+    "FERNANDEZ BIDAURRAZAGA, XABIER": 40,
+    "MENDOZA DE TRINCHERIA, MIKEL": 90,
+    "BLAYA GARCIA, GORKA": 68,
+    "BERCERUELO LOPEZ, OIHAN": 50,
+    "PEREZ GARCIA, ASIER": 42,
+    "CASCO SANTOS, ANDERSON ARIEL": 31,
+    "ISTURIZ MARTINEZ, UNAX": 22,
+    "BRINGAS LARRAURI, MARKEL": 22,
+    "ROS GONZALEZ, UNAI": 90,
+    "LÓPEZ MIR, ANDER": 90,
+    "SAN ANDRES LAESPADA, AMETS": 90,
+    "LÓPEZ MIR, MARKEL": 90,
+    "PEREZ CARBALLO, ANER": 90,
+    "SORRIKETA VALDIZAN, JOANES": 90,
+    "ALDABALDETREKU FAUS, IBON": 90,
+    "ARTATXO GOÑI, AGER": 90,
+    "KAREAGA RUIZ DE AUSTRI, JON": 40,
+    "OCHOA GOÑI, ENEKO": 90,
+    "LONDOÑO LEON, MARLON": 40,
+    "CONTRERAS SILVA, OHIAN": 50,
+    "MARTINEZ ALONSO, URTZI": 50
+  },
+  "portero_local": "GARCIA FERNANDEZ, ADRIAN ENZO",
+  "portero_visitante": "ROS GONZALEZ, UNAI",
+  "dorsales_local": {
+    "GARCIA FERNANDEZ, ADRIAN ENZO": 13,
+    "GONZALEZ GARCIA, IBAI": 5,
+    "NUÑEZ BUSTO, JON": 9,
+    "GONZALEZ RUIZ, AITZOL": 10,
+    "SALAZAR BARNESE, IKER": 12,
+    "PRADO ASPIAZU, AIMAR": 14,
+    "MARTINEZ BECERRA, IBAI": 16,
+    "SAMBU VIEIRA, OIER OZIL": 17,
+    "FERNANDEZ BIDAURRAZAGA, XABIER": 18,
+    "MENDOZA DE TRINCHERIA, MIKEL": 21,
+    "BLAYA GARCIA, GORKA": 23
+  },
+  "dorsales_visitante": {
+    "ROS GONZALEZ, UNAI": 13,
+    "LÓPEZ MIR, ANDER": 2,
+    "SAN ANDRES LAESPADA, AMETS": 3,
+    "LÓPEZ MIR, MARKEL": 4,
+    "PEREZ CARBALLO, ANER": 8,
+    "SORRIKETA VALDIZAN, JOANES": 9,
+    "ALDABALDETREKU FAUS, IBON": 10,
+    "ARTATXO GOÑI, AGER": 11,
+    "KAREAGA RUIZ DE AUSTRI, JON": 20,
+    "OCHOA GOÑI, ENEKO": 22,
+    "LONDOÑO LEON, MARLON": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
