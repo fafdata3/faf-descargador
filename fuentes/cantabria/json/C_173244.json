@@ -1,0 +1,279 @@
+{
+  "acta_id": "C_173244",
+  "filename": "Acta_C_173244.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 13,
+  "fecha": "17-12-2023",
+  "hora": "11:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.F. VIMENOR A",
+  "equipo_visitante": "C.D.E. ATCO. MINEROS A",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LÓPEZ ONANDIA, ADRIÁN"
+  ],
+  "estadio": "Vioño",
+  "ciudad": "Piélagos",
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "LOIS VEGAS, SANCHO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "FERNANDEZ GINES, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "SIERRA VÁZQUEZ, SALVADOR",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "STAN, NICOLAE CRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "STAN, NICOLAE CRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "FERNÁNDEZ ÁLVAREZ, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "PRIETO BARCENA, ABEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "PÉREZ VELA, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "KODUKOV GONCHAR, VLADIMIR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CHAVES OBREGON, FERNANDO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CALDERON HARO, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CALDERON HARO, DANIEL",
+  "delegado_equipo_visitante": "TORRE SAMPEDRO, FERNANDO",
+  "titulares_local": [
+    "MERINO RIANCHO, DANIEL",
+    "NACER, YOUCEF",
+    "SIERRA VÁZQUEZ, SALVADOR",
+    "PRIETO BARCENA, ABEL",
+    "ALISEDA RODRIGUES, HUGO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "LOIS VEGAS, SANCHO",
+    "PÉREZ VELA, MARCOS",
+    "MARTIN LOPEZ, IKER",
+    "FERNÁNDEZ ÁLVAREZ, DAVID",
+    "URDA GARCIA, JUAN"
+  ],
+  "titulares_visitante": [
+    "GUTIERREZ VELEZ, DANIEL",
+    "VEGA VASYAKIN, AITOR",
+    "FERNANDEZ GINES, ADRIAN",
+    "ROBLES CORCHADO, ALEX",
+    "IGLESIAS BALADO, SIMON",
+    "FERNÁNDEZ MONTES, DAVID",
+    "CALDERON GOMEZ, BORJA",
+    "STAN, NICOLAE CRISTIAN",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "GUTIERREZ TERAN, PABLO",
+    "TROYANO GUERRERO, EDUARDO"
+  ],
+  "suplentes_local": [
+    "GÓMEZ MUÑIZ, MARTÍN",
+    "MENDEZ COBO, SAUL",
+    "GÓMEZ BÁRCENA, AARON",
+    "CANO SAINZ-PARDO, JAVIER",
+    "ÁLVAREZ SÁIZ, GAEL"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ DE COS, JAIME",
+    "KODUKOV GONCHAR, VLADIMIR",
+    "MARTINEZ ARENAS, IVAN",
+    "BARREDO FERNANDEZ, GAEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "GÓMEZ MUÑIZ, MARTÍN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MERINO RIANCHO, DANIEL",
+    "NACER, YOUCEF",
+    "SIERRA VÁZQUEZ, SALVADOR",
+    "PRIETO BARCENA, ABEL",
+    "ALISEDA RODRIGUES, HUGO",
+    "CAPELLAN ROBLEDO, DANIEL",
+    "LOIS VEGAS, SANCHO",
+    "PÉREZ VELA, MARCOS",
+    "MARTIN LOPEZ, IKER",
+    "FERNÁNDEZ ÁLVAREZ, DAVID",
+    "URDA GARCIA, JUAN",
+    "GÓMEZ BÁRCENA, AARON",
+    "ÁLVAREZ SÁIZ, GAEL",
+    "CANO SAINZ-PARDO, JAVIER",
+    "MENDEZ COBO, SAUL"
+  ],
+  "jugadores_visitante": [
+    "GUTIERREZ VELEZ, DANIEL",
+    "VEGA VASYAKIN, AITOR",
+    "FERNANDEZ GINES, ADRIAN",
+    "ROBLES CORCHADO, ALEX",
+    "IGLESIAS BALADO, SIMON",
+    "FERNÁNDEZ MONTES, DAVID",
+    "CALDERON GOMEZ, BORJA",
+    "STAN, NICOLAE CRISTIAN",
+    "NDIAYE RUIZ, MALICK JAVIER",
+    "GUTIERREZ TERAN, PABLO",
+    "TROYANO GUERRERO, EDUARDO",
+    "FERNANDEZ DE COS, JAIME",
+    "BARREDO FERNANDEZ, GAEL",
+    "KODUKOV GONCHAR, VLADIMIR",
+    "MARTINEZ ARENAS, IVAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "GÓMEZ BÁRCENA, AARON",
+      "sale": "URDA GARCIA, JUAN"
+    },
+    {
+      "min": 53,
+      "entra": "ÁLVAREZ SÁIZ, GAEL",
+      "sale": "MARTIN LOPEZ, IKER"
+    },
+    {
+      "min": 63,
+      "entra": "CANO SAINZ-PARDO, JAVIER",
+      "sale": "SIERRA VÁZQUEZ, SALVADOR"
+    },
+    {
+      "min": 63,
+      "entra": "MENDEZ COBO, SAUL",
+      "sale": "LOIS VEGAS, SANCHO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "FERNANDEZ DE COS, JAIME",
+      "sale": "GUTIERREZ VELEZ, DANIEL"
+    },
+    {
+      "min": 45,
+      "entra": "BARREDO FERNANDEZ, GAEL",
+      "sale": "VEGA VASYAKIN, AITOR"
+    },
+    {
+      "min": 52,
+      "entra": "KODUKOV GONCHAR, VLADIMIR",
+      "sale": "TROYANO GUERRERO, EDUARDO"
+    },
+    {
+      "min": 56,
+      "entra": "MARTINEZ ARENAS, IVAN",
+      "sale": "GUTIERREZ TERAN, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MERINO RIANCHO, DANIEL": 90,
+    "NACER, YOUCEF": 90,
+    "SIERRA VÁZQUEZ, SALVADOR": 63,
+    "PRIETO BARCENA, ABEL": 90,
+    "ALISEDA RODRIGUES, HUGO": 90,
+    "CAPELLAN ROBLEDO, DANIEL": 90,
+    "LOIS VEGAS, SANCHO": 63,
+    "PÉREZ VELA, MARCOS": 90,
+    "MARTIN LOPEZ, IKER": 53,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 90,
+    "URDA GARCIA, JUAN": 50,
+    "GÓMEZ BÁRCENA, AARON": 40,
+    "ÁLVAREZ SÁIZ, GAEL": 37,
+    "CANO SAINZ-PARDO, JAVIER": 27,
+    "MENDEZ COBO, SAUL": 27,
+    "GUTIERREZ VELEZ, DANIEL": 36,
+    "VEGA VASYAKIN, AITOR": 45,
+    "FERNANDEZ GINES, ADRIAN": 90,
+    "ROBLES CORCHADO, ALEX": 90,
+    "IGLESIAS BALADO, SIMON": 90,
+    "FERNÁNDEZ MONTES, DAVID": 90,
+    "CALDERON GOMEZ, BORJA": 90,
+    "STAN, NICOLAE CRISTIAN": 90,
+    "NDIAYE RUIZ, MALICK JAVIER": 90,
+    "GUTIERREZ TERAN, PABLO": 56,
+    "TROYANO GUERRERO, EDUARDO": 52,
+    "FERNANDEZ DE COS, JAIME": 54,
+    "BARREDO FERNANDEZ, GAEL": 45,
+    "KODUKOV GONCHAR, VLADIMIR": 38,
+    "MARTINEZ ARENAS, IVAN": 34
+  },
+  "portero_local": "MERINO RIANCHO, DANIEL",
+  "portero_visitante": "GUTIERREZ VELEZ, DANIEL",
+  "dorsales_local": {
+    "MERINO RIANCHO, DANIEL": 1,
+    "NACER, YOUCEF": 2,
+    "SIERRA VÁZQUEZ, SALVADOR": 3,
+    "PRIETO BARCENA, ABEL": 4,
+    "ALISEDA RODRIGUES, HUGO": 5,
+    "CAPELLAN ROBLEDO, DANIEL": 6,
+    "LOIS VEGAS, SANCHO": 7,
+    "PÉREZ VELA, MARCOS": 8,
+    "MARTIN LOPEZ, IKER": 9,
+    "FERNÁNDEZ ÁLVAREZ, DAVID": 10,
+    "URDA GARCIA, JUAN": 11
+  },
+  "dorsales_visitante": {
+    "GUTIERREZ VELEZ, DANIEL": 13,
+    "VEGA VASYAKIN, AITOR": 2,
+    "FERNANDEZ GINES, ADRIAN": 3,
+    "ROBLES CORCHADO, ALEX": 4,
+    "IGLESIAS BALADO, SIMON": 6,
+    "FERNÁNDEZ MONTES, DAVID": 7,
+    "CALDERON GOMEZ, BORJA": 8,
+    "STAN, NICOLAE CRISTIAN": 9,
+    "NDIAYE RUIZ, MALICK JAVIER": 10,
+    "GUTIERREZ TERAN, PABLO": 11,
+    "TROYANO GUERRERO, EDUARDO": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
