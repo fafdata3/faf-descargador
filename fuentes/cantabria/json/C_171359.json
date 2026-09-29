@@ -1,0 +1,280 @@
+{
+  "acta_id": "C_171359",
+  "filename": "Acta_C_171359.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 23,
+  "fecha": "09-03-2024",
+  "hora": "12:15",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA B",
+  "equipo_visitante": "C.D. TROPEZON B",
+  "goles_local": 1,
+  "goles_visitante": 6,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAIZ BOLADO, LUCAS"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "RODEÑO DIAZ, GABRIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "RODEÑO DIAZ, GABRIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "VARON SANCHEZ, CESAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 39,
+      "jugador": "BLUM RUIZ, JOSE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "RODEÑO DIAZ, GABRIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "RODEÑO DIAZ, GABRIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "DE LA TORRE ROMANILLO, FELIPE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "DE LA TORRE ROMANILLO, FELIPE",
+  "entrenador_visitante": "GUTIERREZ GUTIERREZ, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "MARTIN GONZALEZ, JAVIER",
+  "titulares_local": [
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "FERNANDEZ MARTIN, DIEGO",
+    "LOPEZ LOPEZ, IKER",
+    "COSSIO PEÑA, DIEGO",
+    "CAVIA SEOANE, MIGUEL ANGEL",
+    "GONZALEZ RODRIGUEZ, DAVID",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN",
+    "EXPOSITO MARTIN, PABLO",
+    "QUINTANA CALDERON, MARCOS",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "GONZALEZ CELIS, MARCO"
+  ],
+  "titulares_visitante": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "LIAÑO ALONSO, MARCELO",
+    "PEREZ PINILLA, EMILIO",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "RODEÑO DIAZ, GABRIEL",
+    "GALLO POZUETA, ALVARO",
+    "VARON SANCHEZ, CESAR",
+    "GONZÁLEZ MARTÍNEZ, MAURO",
+    "DIAZ CORONA, MARCOS",
+    "BLUM RUIZ, JOSE",
+    "MARTIN RUIZ, PABLO"
+  ],
+  "suplentes_local": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "AYOVI GONZALEZ, ADRIÁN",
+    "Garcia Roiz, Dario",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+    "FERNANDEZ DIEZ, IKER"
+  ],
+  "suplentes_visitante": [
+    "DE DIEGO RUBAYO, SAUL",
+    "GONZALEZ SAIZ, IKER",
+    "pachon garcia, DIEGO",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "NOUKEU BALBAS, THIERRY STEVE"
+  ],
+  "convocados_sin_jugar_local": [
+    "GONZÁLEZ TRESGALLO, ARMANDO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "FERNANDEZ MARTIN, DIEGO",
+    "LOPEZ LOPEZ, IKER",
+    "COSSIO PEÑA, DIEGO",
+    "CAVIA SEOANE, MIGUEL ANGEL",
+    "GONZALEZ RODRIGUEZ, DAVID",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN",
+    "EXPOSITO MARTIN, PABLO",
+    "QUINTANA CALDERON, MARCOS",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "GONZALEZ CELIS, MARCO",
+    "AYOVI GONZALEZ, ADRIÁN",
+    "FERNANDEZ DIEZ, IKER",
+    "Garcia Roiz, Dario",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO"
+  ],
+  "jugadores_visitante": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "LIAÑO ALONSO, MARCELO",
+    "PEREZ PINILLA, EMILIO",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "RODEÑO DIAZ, GABRIEL",
+    "GALLO POZUETA, ALVARO",
+    "VARON SANCHEZ, CESAR",
+    "GONZÁLEZ MARTÍNEZ, MAURO",
+    "DIAZ CORONA, MARCOS",
+    "BLUM RUIZ, JOSE",
+    "MARTIN RUIZ, PABLO",
+    "GONZALEZ SAIZ, IKER",
+    "NOUKEU BALBAS, THIERRY STEVE",
+    "DE DIEGO RUBAYO, SAUL",
+    "pachon garcia, DIEGO",
+    "DIPSE, AUGUSTIN VALENTIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "AYOVI GONZALEZ, ADRIÁN",
+      "sale": "QUINTANA CALDERON, MARCOS"
+    },
+    {
+      "min": 35,
+      "entra": "FERNANDEZ DIEZ, IKER",
+      "sale": "CAVIA SEOANE, MIGUEL ANGEL"
+    },
+    {
+      "min": 44,
+      "entra": "Garcia Roiz, Dario",
+      "sale": "GONZALEZ RODRIGUEZ, DAVID"
+    },
+    {
+      "min": 44,
+      "entra": "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+      "sale": "LOPEZ LOPEZ, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 44,
+      "entra": "GONZALEZ SAIZ, IKER",
+      "sale": "GUTIERREZ MARTINEZ, ALVARO"
+    },
+    {
+      "min": 55,
+      "entra": "NOUKEU BALBAS, THIERRY STEVE",
+      "sale": "BLUM RUIZ, JOSE"
+    },
+    {
+      "min": 55,
+      "entra": "DE DIEGO RUBAYO, SAUL",
+      "sale": "GONZÁLEZ MARTÍNEZ, MAURO"
+    },
+    {
+      "min": 61,
+      "entra": "pachon garcia, DIEGO",
+      "sale": "GALLO POZUETA, ALVARO"
+    },
+    {
+      "min": 61,
+      "entra": "DIPSE, AUGUSTIN VALENTIN",
+      "sale": "RODEÑO DIAZ, GABRIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ SAÑUDO, GERMAN": 90,
+    "FERNANDEZ MARTIN, DIEGO": 90,
+    "LOPEZ LOPEZ, IKER": 44,
+    "COSSIO PEÑA, DIEGO": 90,
+    "CAVIA SEOANE, MIGUEL ANGEL": 35,
+    "GONZALEZ RODRIGUEZ, DAVID": 44,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 90,
+    "EXPOSITO MARTIN, PABLO": 90,
+    "QUINTANA CALDERON, MARCOS": 35,
+    "MARTINEZ BUSTAMANTE, HUGO": 90,
+    "GONZALEZ CELIS, MARCO": 90,
+    "AYOVI GONZALEZ, ADRIÁN": 55,
+    "FERNANDEZ DIEZ, IKER": 55,
+    "Garcia Roiz, Dario": 46,
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO": 46,
+    "DE LA FUENTE CAYUSO, NICOLAS": 90,
+    "LIAÑO ALONSO, MARCELO": 90,
+    "PEREZ PINILLA, EMILIO": 90,
+    "GUTIERREZ MARTINEZ, ALVARO": 44,
+    "RODEÑO DIAZ, GABRIEL": 61,
+    "GALLO POZUETA, ALVARO": 61,
+    "VARON SANCHEZ, CESAR": 90,
+    "GONZÁLEZ MARTÍNEZ, MAURO": 55,
+    "DIAZ CORONA, MARCOS": 90,
+    "BLUM RUIZ, JOSE": 55,
+    "MARTIN RUIZ, PABLO": 90,
+    "GONZALEZ SAIZ, IKER": 46,
+    "NOUKEU BALBAS, THIERRY STEVE": 35,
+    "DE DIEGO RUBAYO, SAUL": 35,
+    "pachon garcia, DIEGO": 29,
+    "DIPSE, AUGUSTIN VALENTIN": 29
+  },
+  "portero_local": "FERNANDEZ SAÑUDO, GERMAN",
+  "portero_visitante": "DE LA FUENTE CAYUSO, NICOLAS",
+  "dorsales_local": {
+    "FERNANDEZ SAÑUDO, GERMAN": 1,
+    "FERNANDEZ MARTIN, DIEGO": 2,
+    "LOPEZ LOPEZ, IKER": 4,
+    "COSSIO PEÑA, DIEGO": 5,
+    "CAVIA SEOANE, MIGUEL ANGEL": 8,
+    "GONZALEZ RODRIGUEZ, DAVID": 9,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 10,
+    "EXPOSITO MARTIN, PABLO": 11,
+    "QUINTANA CALDERON, MARCOS": 12,
+    "MARTINEZ BUSTAMANTE, HUGO": 16,
+    "GONZALEZ CELIS, MARCO": 20
+  },
+  "dorsales_visitante": {
+    "DE LA FUENTE CAYUSO, NICOLAS": 1,
+    "LIAÑO ALONSO, MARCELO": 4,
+    "PEREZ PINILLA, EMILIO": 6,
+    "GUTIERREZ MARTINEZ, ALVARO": 8,
+    "RODEÑO DIAZ, GABRIEL": 10,
+    "GALLO POZUETA, ALVARO": 11,
+    "VARON SANCHEZ, CESAR": 14,
+    "GONZÁLEZ MARTÍNEZ, MAURO": 15,
+    "DIAZ CORONA, MARCOS": 18,
+    "BLUM RUIZ, JOSE": 20,
+    "MARTIN RUIZ, PABLO": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
