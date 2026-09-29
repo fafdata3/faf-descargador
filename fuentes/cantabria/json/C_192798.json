@@ -1,0 +1,214 @@
+{
+  "acta_id": "C_192798",
+  "filename": "Acta_C_192798.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 9,
+  "fecha": "02-11-2024",
+  "hora": "12:45",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PACHECO COTERO, MARIO"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 35,
+      "jugador": "MOURA REVUELTA, ROMEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "CALVO MORTE, SAMUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PALACIO NAVARRO, DIEGO",
+  "entrenador_visitante": "PALAZUELOS TRUEBA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GONZALEZ ARENAL, PEDRO",
+  "delegado_campo_local": "RUIZ PEREZ, MARIA JOSE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DE LA FUENTE DIEGO, LIAN",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "gomara rivas, MANUEL",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "HERRAN ALONSO, MARCO",
+    "MEDINA RICO, MAICOL STIVEN",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "TOMAS AJA, JAVIER",
+    "TORRE MACIA, RODRIGO",
+    "GARCIA SAYALERO, ALEJANDRO"
+  ],
+  "titulares_visitante": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "CALVO MORTE, SAMUEL",
+    "SOMOHANO TAMAYO, PABLO",
+    "Gaviria Cataño, JUAN DIEGO",
+    "BARRIO OBREGON, IZAN",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "suplentes_local": [
+    "BEZANILLA GARCIA, AARON",
+    "FERNANDEZ RUIZ, MARCO",
+    "PRIETO GONZALEZ, ADRIAN"
+  ],
+  "suplentes_visitante": [
+    "LASO MARTINEZ, ADRIAN",
+    "RODEÑO DIAZ, GABRIEL",
+    "SOLANA PEREZ, LEO",
+    "MALLAVIA PEREZ, ASIER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "LASO MARTINEZ, ADRIAN"
+  ],
+  "jugadores_local": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "gomara rivas, MANUEL",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "HERRAN ALONSO, MARCO",
+    "MEDINA RICO, MAICOL STIVEN",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "TOMAS AJA, JAVIER",
+    "TORRE MACIA, RODRIGO",
+    "GARCIA SAYALERO, ALEJANDRO",
+    "PRIETO GONZALEZ, ADRIAN",
+    "FERNANDEZ RUIZ, MARCO",
+    "BEZANILLA GARCIA, AARON"
+  ],
+  "jugadores_visitante": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "CALVO MORTE, SAMUEL",
+    "SOMOHANO TAMAYO, PABLO",
+    "Gaviria Cataño, JUAN DIEGO",
+    "BARRIO OBREGON, IZAN",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN",
+    "RODEÑO DIAZ, GABRIEL",
+    "MALLAVIA PEREZ, ASIER",
+    "SOLANA PEREZ, LEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "PRIETO GONZALEZ, ADRIAN",
+      "sale": "GARCIA DIEGO PEREZ, ANGEL"
+    },
+    {
+      "min": 54,
+      "entra": "FERNANDEZ RUIZ, MARCO",
+      "sale": "TOMAS AJA, JAVIER"
+    },
+    {
+      "min": 65,
+      "entra": "BEZANILLA GARCIA, AARON",
+      "sale": "gomara rivas, MANUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 63,
+      "entra": "RODEÑO DIAZ, GABRIEL",
+      "sale": "BARRIO OBREGON, IZAN"
+    },
+    {
+      "min": 63,
+      "entra": "MALLAVIA PEREZ, ASIER",
+      "sale": "CALVO MORTE, SAMUEL"
+    },
+    {
+      "min": 66,
+      "entra": "SOLANA PEREZ, LEO",
+      "sale": "MOURA REVUELTA, ROMEO"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ AGUDO, HUGO": 90,
+    "gomara rivas, MANUEL": 65,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 90,
+    "GARCIA DIEGO PEREZ, ANGEL": 54,
+    "HERRAN ALONSO, MARCO": 90,
+    "MEDINA RICO, MAICOL STIVEN": 90,
+    "NAVARRO SEOANE, NICOLAS": 90,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 90,
+    "TOMAS AJA, JAVIER": 54,
+    "TORRE MACIA, RODRIGO": 90,
+    "GARCIA SAYALERO, ALEJANDRO": 90,
+    "PRIETO GONZALEZ, ADRIAN": 36,
+    "FERNANDEZ RUIZ, MARCO": 36,
+    "BEZANILLA GARCIA, AARON": 25,
+    "BERNARDO MIRAVALLES, IZAN": 90,
+    "CALVO MORTE, SAMUEL": 63,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "Gaviria Cataño, JUAN DIEGO": 90,
+    "BARRIO OBREGON, IZAN": 63,
+    "CUADRADO PEREZ RUBIN, MATEO": 90,
+    "GOMEZ BOLADO, MIGUEL": 90,
+    "PERNIA RODRIGUEZ, JOEL": 90,
+    "RENEDO COSIO, DIEGO": 90,
+    "MOURA REVUELTA, ROMEO": 66,
+    "COBO MARTINEZ, KELLYAN": 90,
+    "RODEÑO DIAZ, GABRIEL": 27,
+    "MALLAVIA PEREZ, ASIER": 27,
+    "SOLANA PEREZ, LEO": 24
+  },
+  "portero_local": "RODRIGUEZ AGUDO, HUGO",
+  "portero_visitante": "BERNARDO MIRAVALLES, IZAN",
+  "dorsales_local": {
+    "RODRIGUEZ AGUDO, HUGO": 13,
+    "gomara rivas, MANUEL": 2,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 4,
+    "GARCIA DIEGO PEREZ, ANGEL": 6,
+    "HERRAN ALONSO, MARCO": 8,
+    "MEDINA RICO, MAICOL STIVEN": 9,
+    "NAVARRO SEOANE, NICOLAS": 12,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 14,
+    "TOMAS AJA, JAVIER": 17,
+    "TORRE MACIA, RODRIGO": 19,
+    "GARCIA SAYALERO, ALEJANDRO": 20
+  },
+  "dorsales_visitante": {
+    "BERNARDO MIRAVALLES, IZAN": 13,
+    "CALVO MORTE, SAMUEL": 2,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "Gaviria Cataño, JUAN DIEGO": 9,
+    "BARRIO OBREGON, IZAN": 10,
+    "CUADRADO PEREZ RUBIN, MATEO": 11,
+    "GOMEZ BOLADO, MIGUEL": 12,
+    "PERNIA RODRIGUEZ, JOEL": 17,
+    "RENEDO COSIO, DIEGO": 18,
+    "MOURA REVUELTA, ROMEO": 20,
+    "COBO MARTINEZ, KELLYAN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
