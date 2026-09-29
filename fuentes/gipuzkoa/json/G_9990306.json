@@ -1,0 +1,275 @@
+{
+  "acta_id": "G_9990306",
+  "filename": "Acta_G_9990306.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2025-2026",
+  "jornada": 10,
+  "fecha": "22-11-2025",
+  "hora": "15:00",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "ORIOKO F.T.",
+  "equipo_visitante": "VASCONIA C.D. C",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "YANIZ ORTUBIA, OIHAN"
+  ],
+  "estadio": "MENDIBELTZ",
+  "ciudad": "Orio",
+  "goleadores": [
+    {
+      "minuto": 34,
+      "jugador": "OSTOLAZA MORENO, HARAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "OSTOLAZA MORENO, HARAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "AGUIRRESAROBE OLIDEN, BEÑAT",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "MENDIOLA ZABALEGI, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "AGUIRRESAROBE OLIDEN, BEÑAT",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "VICENTE LOPEZ, NAKOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 36,
+      "jugador": "SANCHEZ-MARCO MARCHESSI, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "AZPIROZ ARRUTI, IBAI",
+  "entrenador_visitante": "ANACABE GURRUCHAGA, IÑIGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "MARCOS SAN MARTIN, MIGUEL",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ZULOAGA SAN SEBASTIAN, IÑIGO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "BLAZQUEZ BARRAJON, IMANOL",
+    "JAIO EGIA, AMETS",
+    "URRESTILLA URANGA, OIER",
+    "DURANDEGUI DELGADO, JULEN",
+    "GARRIDO ELUSTONDO, ADEI",
+    "LARRAÑAGA FRIAS, ERIK",
+    "AGUIRRESAROBE OLIDEN, BEÑAT",
+    "LIZASO ZULOAGA, MIKEL",
+    "MINTEGI LIZARAZU, JULEN",
+    "OSTOLAZA MORENO, HARAN",
+    "AZKUE FERNANDEZ, LUKA"
+  ],
+  "titulares_visitante": [
+    "IZQUIERDO LACABEX, LUCAS",
+    "SANCHEZ-MARCO MARCHESSI, MARTIN",
+    "ALTUNA ASTRAIN, LUIS",
+    "IBARBURU ASENSIO, UNAI",
+    "BELTRAN FLORES, PABLO",
+    "MONTES FRANCO, DIEGO",
+    "ALTUNA ASTRAIN, MARTIN",
+    "SALEHI KOOHESTANI, SAMIN",
+    "CARRERAS OLANO, IKER",
+    "ECHEBARRIA MENDIA, POL",
+    "GONZALEZ MUÑOZ, PABLO"
+  ],
+  "suplentes_local": [
+    "LARRAÑAGA SALSAMENDI, GOTZON",
+    "LARRAÑAGA FRIAS, OIER",
+    "VICENTE LOPEZ, NAKOR",
+    "ETXABE ELUSTONDO, ENAITZ"
+  ],
+  "suplentes_visitante": [
+    "BAROJA ADRIAN, XABIER",
+    "RAMOS SANCHIZ, XABIER",
+    "MENDIOLA ZABALEGI, UNAI",
+    "LANDA CHARTON, DANEL",
+    "RAMOS ARCONADA, ADEI",
+    "SILVA NUÑEZ, MARCOS",
+    "RODRIGUEZ APEZARENA, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "BAROJA ADRIAN, XABIER",
+    "RODRIGUEZ APEZARENA, DIEGO"
+  ],
+  "jugadores_local": [
+    "BLAZQUEZ BARRAJON, IMANOL",
+    "JAIO EGIA, AMETS",
+    "URRESTILLA URANGA, OIER",
+    "DURANDEGUI DELGADO, JULEN",
+    "GARRIDO ELUSTONDO, ADEI",
+    "LARRAÑAGA FRIAS, ERIK",
+    "AGUIRRESAROBE OLIDEN, BEÑAT",
+    "LIZASO ZULOAGA, MIKEL",
+    "MINTEGI LIZARAZU, JULEN",
+    "OSTOLAZA MORENO, HARAN",
+    "AZKUE FERNANDEZ, LUKA",
+    "LARRAÑAGA FRIAS, OIER",
+    "LARRAÑAGA SALSAMENDI, GOTZON",
+    "VICENTE LOPEZ, NAKOR",
+    "ETXABE ELUSTONDO, ENAITZ"
+  ],
+  "jugadores_visitante": [
+    "IZQUIERDO LACABEX, LUCAS",
+    "SANCHEZ-MARCO MARCHESSI, MARTIN",
+    "ALTUNA ASTRAIN, LUIS",
+    "IBARBURU ASENSIO, UNAI",
+    "BELTRAN FLORES, PABLO",
+    "MONTES FRANCO, DIEGO",
+    "ALTUNA ASTRAIN, MARTIN",
+    "SALEHI KOOHESTANI, SAMIN",
+    "CARRERAS OLANO, IKER",
+    "ECHEBARRIA MENDIA, POL",
+    "GONZALEZ MUÑOZ, PABLO",
+    "SILVA NUÑEZ, MARCOS",
+    "LANDA CHARTON, DANEL",
+    "RAMOS ARCONADA, ADEI",
+    "MENDIOLA ZABALEGI, UNAI",
+    "RAMOS SANCHIZ, XABIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "LARRAÑAGA FRIAS, OIER",
+      "sale": "MINTEGI LIZARAZU, JULEN"
+    },
+    {
+      "min": 55,
+      "entra": "LARRAÑAGA SALSAMENDI, GOTZON",
+      "sale": "AGUIRRESAROBE OLIDEN, BEÑAT"
+    },
+    {
+      "min": 70,
+      "entra": "VICENTE LOPEZ, NAKOR",
+      "sale": "OSTOLAZA MORENO, HARAN"
+    },
+    {
+      "min": 75,
+      "entra": "ETXABE ELUSTONDO, ENAITZ",
+      "sale": "LIZASO ZULOAGA, MIKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SILVA NUÑEZ, MARCOS",
+      "sale": "IBARBURU ASENSIO, UNAI"
+    },
+    {
+      "min": 44,
+      "entra": "LANDA CHARTON, DANEL",
+      "sale": "CARRERAS OLANO, IKER"
+    },
+    {
+      "min": 47,
+      "entra": "RAMOS ARCONADA, ADEI",
+      "sale": "SANCHEZ-MARCO MARCHESSI, MARTIN"
+    },
+    {
+      "min": 51,
+      "entra": "MENDIOLA ZABALEGI, UNAI",
+      "sale": "MONTES FRANCO, DIEGO"
+    },
+    {
+      "min": 51,
+      "entra": "RAMOS SANCHIZ, XABIER",
+      "sale": "SALEHI KOOHESTANI, SAMIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "BLAZQUEZ BARRAJON, IMANOL": 90,
+    "JAIO EGIA, AMETS": 90,
+    "URRESTILLA URANGA, OIER": 90,
+    "DURANDEGUI DELGADO, JULEN": 90,
+    "GARRIDO ELUSTONDO, ADEI": 90,
+    "LARRAÑAGA FRIAS, ERIK": 90,
+    "AGUIRRESAROBE OLIDEN, BEÑAT": 55,
+    "LIZASO ZULOAGA, MIKEL": 75,
+    "MINTEGI LIZARAZU, JULEN": 40,
+    "OSTOLAZA MORENO, HARAN": 70,
+    "AZKUE FERNANDEZ, LUKA": 90,
+    "LARRAÑAGA FRIAS, OIER": 50,
+    "LARRAÑAGA SALSAMENDI, GOTZON": 35,
+    "VICENTE LOPEZ, NAKOR": 20,
+    "ETXABE ELUSTONDO, ENAITZ": 15,
+    "IZQUIERDO LACABEX, LUCAS": 90,
+    "SANCHEZ-MARCO MARCHESSI, MARTIN": 47,
+    "ALTUNA ASTRAIN, LUIS": 90,
+    "IBARBURU ASENSIO, UNAI": 40,
+    "BELTRAN FLORES, PABLO": 90,
+    "MONTES FRANCO, DIEGO": 51,
+    "ALTUNA ASTRAIN, MARTIN": 90,
+    "SALEHI KOOHESTANI, SAMIN": 51,
+    "CARRERAS OLANO, IKER": 44,
+    "ECHEBARRIA MENDIA, POL": 90,
+    "GONZALEZ MUÑOZ, PABLO": 90,
+    "SILVA NUÑEZ, MARCOS": 50,
+    "LANDA CHARTON, DANEL": 46,
+    "RAMOS ARCONADA, ADEI": 43,
+    "MENDIOLA ZABALEGI, UNAI": 39,
+    "RAMOS SANCHIZ, XABIER": 39
+  },
+  "portero_local": "BLAZQUEZ BARRAJON, IMANOL",
+  "portero_visitante": "IZQUIERDO LACABEX, LUCAS",
+  "dorsales_local": {
+    "BLAZQUEZ BARRAJON, IMANOL": 1,
+    "JAIO EGIA, AMETS": 2,
+    "URRESTILLA URANGA, OIER": 5,
+    "DURANDEGUI DELGADO, JULEN": 7,
+    "GARRIDO ELUSTONDO, ADEI": 8,
+    "LARRAÑAGA FRIAS, ERIK": 9,
+    "AGUIRRESAROBE OLIDEN, BEÑAT": 10,
+    "LIZASO ZULOAGA, MIKEL": 14,
+    "MINTEGI LIZARAZU, JULEN": 17,
+    "OSTOLAZA MORENO, HARAN": 19,
+    "AZKUE FERNANDEZ, LUKA": 25
+  },
+  "dorsales_visitante": {
+    "IZQUIERDO LACABEX, LUCAS": 1,
+    "SANCHEZ-MARCO MARCHESSI, MARTIN": 2,
+    "ALTUNA ASTRAIN, LUIS": 3,
+    "IBARBURU ASENSIO, UNAI": 4,
+    "BELTRAN FLORES, PABLO": 5,
+    "MONTES FRANCO, DIEGO": 6,
+    "ALTUNA ASTRAIN, MARTIN": 7,
+    "SALEHI KOOHESTANI, SAMIN": 8,
+    "CARRERAS OLANO, IKER": 9,
+    "ECHEBARRIA MENDIA, POL": 10,
+    "GONZALEZ MUÑOZ, PABLO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
