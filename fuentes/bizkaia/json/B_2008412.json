@@ -1,0 +1,261 @@
+{
+  "acta_id": "B_2008412",
+  "filename": "Acta_B_2008412.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 12,
+  "fecha": "22-12-2024",
+  "hora": "18:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "LEKEITIO A",
+  "equipo_visitante": "IBARREKO A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANCHEZ SANTAMARIA, AITOR"
+  ],
+  "estadio": "KEPA NABERAN KALZAKORTA",
+  "ciudad": "Lekeitio",
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "URIZAR ANGULO, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "ABASOLO ARRIBAS, HEGOI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "IZAGIRRE GOITIA, GAIZKA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 66,
+      "jugador": "SOBRINO ALONSO, HEGOI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ZUMARAN ABOITIZ, XANTI",
+  "entrenador_visitante": "SANCHO REDONDO, JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GARCIA AKARREGI, JON",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA AKARREGI, JON",
+  "delegado_equipo_visitante": "ANGULO REGULEZ, ALBERTO",
+  "titulares_local": [
+    "GABIOLA ZABALETA, LANTZ",
+    "MONTEJO SANCHEZ, HODEI",
+    "BEASKOETXEA ITURAT, IZEI",
+    "GUEZURAGA ALDANA, LANDER",
+    "IZAGIRRE GOITIA, GAIZKA",
+    "DE LA RIVA OLAETA, UNAI",
+    "GOGENOLA PRIETO, ENAITZ",
+    "TXOPITEA PAGAEGI, LIZAR",
+    "ALEGRIA ZABALA, AIMAR",
+    "IBARZABAL LARIZ, JULEN",
+    "GOITIA EIZAGIRRE, DANEL"
+  ],
+  "titulares_visitante": [
+    "GOIKOLEA BAZA, UNAI",
+    "GONZALEZ MERINO, UNAI",
+    "CALLE FERNADEZ, AITOR",
+    "INTXAUSTI ARAGONES, AIMAR",
+    "ANGULO MARTINEZ, ANDER",
+    "EIZAGUIRRE PEREZ, JON",
+    "URIZAR ANGULO, MARCOS",
+    "ABASOLO ARRIBAS, HEGOI",
+    "GARCIA GALAN, DAVID",
+    "AGUILAR NIÑO, EKAITZ",
+    "AGRA GARATEA, XABIER"
+  ],
+  "suplentes_local": [
+    "ELORDI GOMEZ, OINATZ",
+    "CABRERA ROLON, EDWARD FRANCISCO",
+    "ORIBE IRIGOIEN, EKAIN",
+    "ANAKABE AGIRRE, DANEL",
+    "ZABALETA UGARTEBURU, URKO",
+    "FRANCO AZUMENDI, TXOMIN",
+    "DIATTA DIATTA, OULYA-SANDIA"
+  ],
+  "suplentes_visitante": [
+    "SOBRINO ALONSO, HEGOI",
+    "PAYAS FRANCO, OIER",
+    "AZCARATE LOPEZ-GOMEZ, ASIER",
+    "MARTIN RUIZ, IKER",
+    "GARCIA SANZ, AGER"
+  ],
+  "convocados_sin_jugar_local": [
+    "ANAKABE AGIRRE, DANEL",
+    "FRANCO AZUMENDI, TXOMIN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GABIOLA ZABALETA, LANTZ",
+    "MONTEJO SANCHEZ, HODEI",
+    "BEASKOETXEA ITURAT, IZEI",
+    "GUEZURAGA ALDANA, LANDER",
+    "IZAGIRRE GOITIA, GAIZKA",
+    "DE LA RIVA OLAETA, UNAI",
+    "GOGENOLA PRIETO, ENAITZ",
+    "TXOPITEA PAGAEGI, LIZAR",
+    "ALEGRIA ZABALA, AIMAR",
+    "IBARZABAL LARIZ, JULEN",
+    "GOITIA EIZAGIRRE, DANEL",
+    "CABRERA ROLON, EDWARD FRANCISCO",
+    "ORIBE IRIGOIEN, EKAIN",
+    "ZABALETA UGARTEBURU, URKO",
+    "DIATTA DIATTA, OULYA-SANDIA",
+    "ELORDI GOMEZ, OINATZ"
+  ],
+  "jugadores_visitante": [
+    "GOIKOLEA BAZA, UNAI",
+    "GONZALEZ MERINO, UNAI",
+    "CALLE FERNADEZ, AITOR",
+    "INTXAUSTI ARAGONES, AIMAR",
+    "ANGULO MARTINEZ, ANDER",
+    "EIZAGUIRRE PEREZ, JON",
+    "URIZAR ANGULO, MARCOS",
+    "ABASOLO ARRIBAS, HEGOI",
+    "GARCIA GALAN, DAVID",
+    "AGUILAR NIÑO, EKAITZ",
+    "AGRA GARATEA, XABIER",
+    "GARCIA SANZ, AGER",
+    "SOBRINO ALONSO, HEGOI",
+    "MARTIN RUIZ, IKER",
+    "AZCARATE LOPEZ-GOMEZ, ASIER",
+    "PAYAS FRANCO, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "CABRERA ROLON, EDWARD FRANCISCO",
+      "sale": "ALEGRIA ZABALA, AIMAR"
+    },
+    {
+      "min": 51,
+      "entra": "ORIBE IRIGOIEN, EKAIN",
+      "sale": "TXOPITEA PAGAEGI, LIZAR"
+    },
+    {
+      "min": 51,
+      "entra": "ZABALETA UGARTEBURU, URKO",
+      "sale": "GOITIA EIZAGIRRE, DANEL"
+    },
+    {
+      "min": 61,
+      "entra": "DIATTA DIATTA, OULYA-SANDIA",
+      "sale": "MONTEJO SANCHEZ, HODEI"
+    },
+    {
+      "min": 61,
+      "entra": "ELORDI GOMEZ, OINATZ",
+      "sale": "BEASKOETXEA ITURAT, IZEI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 48,
+      "entra": "GARCIA SANZ, AGER",
+      "sale": "GONZALEZ MERINO, UNAI"
+    },
+    {
+      "min": 58,
+      "entra": "SOBRINO ALONSO, HEGOI",
+      "sale": "AGUILAR NIÑO, EKAITZ"
+    },
+    {
+      "min": 68,
+      "entra": "MARTIN RUIZ, IKER",
+      "sale": "AGRA GARATEA, XABIER"
+    },
+    {
+      "min": 68,
+      "entra": "AZCARATE LOPEZ-GOMEZ, ASIER",
+      "sale": "ABASOLO ARRIBAS, HEGOI"
+    },
+    {
+      "min": 68,
+      "entra": "PAYAS FRANCO, OIER",
+      "sale": "CALLE FERNADEZ, AITOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "GABIOLA ZABALETA, LANTZ": 90,
+    "MONTEJO SANCHEZ, HODEI": 61,
+    "BEASKOETXEA ITURAT, IZEI": 61,
+    "GUEZURAGA ALDANA, LANDER": 90,
+    "IZAGIRRE GOITIA, GAIZKA": 90,
+    "DE LA RIVA OLAETA, UNAI": 90,
+    "GOGENOLA PRIETO, ENAITZ": 90,
+    "TXOPITEA PAGAEGI, LIZAR": 51,
+    "ALEGRIA ZABALA, AIMAR": 51,
+    "IBARZABAL LARIZ, JULEN": 90,
+    "GOITIA EIZAGIRRE, DANEL": 51,
+    "CABRERA ROLON, EDWARD FRANCISCO": 39,
+    "ORIBE IRIGOIEN, EKAIN": 39,
+    "ZABALETA UGARTEBURU, URKO": 39,
+    "DIATTA DIATTA, OULYA-SANDIA": 29,
+    "ELORDI GOMEZ, OINATZ": 29,
+    "GOIKOLEA BAZA, UNAI": 90,
+    "GONZALEZ MERINO, UNAI": 48,
+    "CALLE FERNADEZ, AITOR": 68,
+    "INTXAUSTI ARAGONES, AIMAR": 90,
+    "ANGULO MARTINEZ, ANDER": 90,
+    "EIZAGUIRRE PEREZ, JON": 90,
+    "URIZAR ANGULO, MARCOS": 90,
+    "ABASOLO ARRIBAS, HEGOI": 68,
+    "GARCIA GALAN, DAVID": 90,
+    "AGUILAR NIÑO, EKAITZ": 58,
+    "AGRA GARATEA, XABIER": 68,
+    "GARCIA SANZ, AGER": 42,
+    "SOBRINO ALONSO, HEGOI": 32,
+    "MARTIN RUIZ, IKER": 22,
+    "AZCARATE LOPEZ-GOMEZ, ASIER": 22,
+    "PAYAS FRANCO, OIER": 22
+  },
+  "portero_local": "GABIOLA ZABALETA, LANTZ",
+  "portero_visitante": "GOIKOLEA BAZA, UNAI",
+  "dorsales_local": {
+    "GABIOLA ZABALETA, LANTZ": 1,
+    "MONTEJO SANCHEZ, HODEI": 2,
+    "BEASKOETXEA ITURAT, IZEI": 3,
+    "GUEZURAGA ALDANA, LANDER": 5,
+    "IZAGIRRE GOITIA, GAIZKA": 7,
+    "DE LA RIVA OLAETA, UNAI": 9,
+    "GOGENOLA PRIETO, ENAITZ": 11,
+    "TXOPITEA PAGAEGI, LIZAR": 12,
+    "ALEGRIA ZABALA, AIMAR": 14,
+    "IBARZABAL LARIZ, JULEN": 18,
+    "GOITIA EIZAGIRRE, DANEL": 24
+  },
+  "dorsales_visitante": {
+    "GOIKOLEA BAZA, UNAI": 1,
+    "GONZALEZ MERINO, UNAI": 2,
+    "CALLE FERNADEZ, AITOR": 3,
+    "INTXAUSTI ARAGONES, AIMAR": 4,
+    "ANGULO MARTINEZ, ANDER": 6,
+    "EIZAGUIRRE PEREZ, JON": 8,
+    "URIZAR ANGULO, MARCOS": 9,
+    "ABASOLO ARRIBAS, HEGOI": 11,
+    "GARCIA GALAN, DAVID": 14,
+    "AGUILAR NIÑO, EKAITZ": 23,
+    "AGRA GARATEA, XABIER": 24
+  },
+  "suspendidos": []
+}
