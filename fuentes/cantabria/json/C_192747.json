@@ -1,0 +1,259 @@
+{
+  "acta_id": "C_192747",
+  "filename": "Acta_C_192747.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 3,
+  "fecha": "22-09-2024",
+  "hora": "11:30",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "S.D. TEXTIL ESCUDO A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SÁNCHEZ BUSTARA, ALBERTO"
+  ],
+  "estadio": "Cabezón de la Sal",
+  "ciudad": "Cabezón De La Sal",
+  "goleadores": [
+    {
+      "minuto": 67,
+      "jugador": "RODEÑO DIAZ, GABRIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "MOURA REVUELTA, ROMEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "RODEÑO DIAZ, GABRIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 46,
+      "jugador": "LOPEZ ORTEGA, MANUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GUIJARRO GOMEZ, ALEJANDRO",
+  "entrenador_visitante": "PALAZUELOS TRUEBA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "CELIS CELIS, RUBEN",
+    "CORPA PEREDA, MARIO",
+    "CADAVIECO IBAÑEZ, ENRIQUE",
+    "LOPEZ ORTEGA, MANUEL",
+    "BARREDA ARCE, NICOLAS",
+    "Herrera Uberti, IKER",
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+    "ACEBAL PALII, LEO",
+    "PEREZ RIEGAS, NICO",
+    "ECHEVARRIA PACHECO, JAVIER",
+    "GONZALEZ GARCIA, ALEX"
+  ],
+  "titulares_visitante": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "CALVO MORTE, SAMUEL",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "RODEÑO DIAZ, GABRIEL",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "SAEZ PEREZ, LUCAS",
+    "Gaviria Cataño, JUAN DIEGO",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "suplentes_local": [
+    "COBO MACHO, MATIAS",
+    "CASO SIERRA, JOEL",
+    "CALDERON ELOURAD, HUGO",
+    "GOMEZ BEJARANO, ADRIAN",
+    "CRUZ GONZALEZ, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "LASO MARTINEZ, ADRIAN",
+    "PERNÍA FERNÁNDEZ, MARCO",
+    "BARRIO OBREGON, IZAN",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "PERNIA RODRIGUEZ, JOEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "LASO MARTINEZ, ADRIAN"
+  ],
+  "jugadores_local": [
+    "CELIS CELIS, RUBEN",
+    "CORPA PEREDA, MARIO",
+    "CADAVIECO IBAÑEZ, ENRIQUE",
+    "LOPEZ ORTEGA, MANUEL",
+    "BARREDA ARCE, NICOLAS",
+    "Herrera Uberti, IKER",
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+    "ACEBAL PALII, LEO",
+    "PEREZ RIEGAS, NICO",
+    "ECHEVARRIA PACHECO, JAVIER",
+    "GONZALEZ GARCIA, ALEX",
+    "CALDERON ELOURAD, HUGO",
+    "COBO MACHO, MATIAS",
+    "GOMEZ BEJARANO, ADRIAN",
+    "CASO SIERRA, JOEL",
+    "CRUZ GONZALEZ, ALVARO"
+  ],
+  "jugadores_visitante": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "CALVO MORTE, SAMUEL",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "RODEÑO DIAZ, GABRIEL",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "SAEZ PEREZ, LUCAS",
+    "Gaviria Cataño, JUAN DIEGO",
+    "RENEDO COSIO, DIEGO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN",
+    "BARRIO OBREGON, IZAN",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "PERNIA RODRIGUEZ, JOEL",
+    "PERNÍA FERNÁNDEZ, MARCO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "CALDERON ELOURAD, HUGO",
+      "sale": "PEREZ RIEGAS, NICO"
+    },
+    {
+      "min": 41,
+      "entra": "COBO MACHO, MATIAS",
+      "sale": "CELIS CELIS, RUBEN"
+    },
+    {
+      "min": 41,
+      "entra": "GOMEZ BEJARANO, ADRIAN",
+      "sale": "GONZALEZ GARCIA, ALEX"
+    },
+    {
+      "min": 54,
+      "entra": "CASO SIERRA, JOEL",
+      "sale": "LOPEZ ORTEGA, MANUEL"
+    },
+    {
+      "min": 66,
+      "entra": "CRUZ GONZALEZ, ALVARO",
+      "sale": "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "BARRIO OBREGON, IZAN",
+      "sale": "Gaviria Cataño, JUAN DIEGO"
+    },
+    {
+      "min": 51,
+      "entra": "CUADRADO PEREZ RUBIN, MATEO",
+      "sale": "RENEDO COSIO, DIEGO"
+    },
+    {
+      "min": 51,
+      "entra": "PERNIA RODRIGUEZ, JOEL",
+      "sale": "CALVO MORTE, SAMUEL"
+    },
+    {
+      "min": 63,
+      "entra": "PERNÍA FERNÁNDEZ, MARCO",
+      "sale": "COBO MARTINEZ, KELLYAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "CELIS CELIS, RUBEN": 41,
+    "CORPA PEREDA, MARIO": 90,
+    "CADAVIECO IBAÑEZ, ENRIQUE": 90,
+    "LOPEZ ORTEGA, MANUEL": 54,
+    "BARREDA ARCE, NICOLAS": 90,
+    "Herrera Uberti, IKER": 90,
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL": 66,
+    "ACEBAL PALII, LEO": 90,
+    "PEREZ RIEGAS, NICO": 41,
+    "ECHEVARRIA PACHECO, JAVIER": 90,
+    "GONZALEZ GARCIA, ALEX": 41,
+    "CALDERON ELOURAD, HUGO": 49,
+    "COBO MACHO, MATIAS": 49,
+    "GOMEZ BEJARANO, ADRIAN": 49,
+    "CASO SIERRA, JOEL": 36,
+    "CRUZ GONZALEZ, ALVARO": 24,
+    "BERNARDO MIRAVALLES, IZAN": 90,
+    "CALVO MORTE, SAMUEL": 51,
+    "ALONSO Melo, Ruben": 90,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "RODEÑO DIAZ, GABRIEL": 90,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 90,
+    "SAEZ PEREZ, LUCAS": 90,
+    "Gaviria Cataño, JUAN DIEGO": 51,
+    "RENEDO COSIO, DIEGO": 51,
+    "MOURA REVUELTA, ROMEO": 90,
+    "COBO MARTINEZ, KELLYAN": 63,
+    "BARRIO OBREGON, IZAN": 39,
+    "CUADRADO PEREZ RUBIN, MATEO": 39,
+    "PERNIA RODRIGUEZ, JOEL": 39,
+    "PERNÍA FERNÁNDEZ, MARCO": 27
+  },
+  "portero_local": "CELIS CELIS, RUBEN",
+  "portero_visitante": "BERNARDO MIRAVALLES, IZAN",
+  "dorsales_local": {
+    "CELIS CELIS, RUBEN": 13,
+    "CORPA PEREDA, MARIO": 4,
+    "CADAVIECO IBAÑEZ, ENRIQUE": 6,
+    "LOPEZ ORTEGA, MANUEL": 7,
+    "BARREDA ARCE, NICOLAS": 9,
+    "Herrera Uberti, IKER": 11,
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL": 16,
+    "ACEBAL PALII, LEO": 17,
+    "PEREZ RIEGAS, NICO": 20,
+    "ECHEVARRIA PACHECO, JAVIER": 21,
+    "GONZALEZ GARCIA, ALEX": 22
+  },
+  "dorsales_visitante": {
+    "BERNARDO MIRAVALLES, IZAN": 13,
+    "CALVO MORTE, SAMUEL": 2,
+    "ALONSO Melo, Ruben": 3,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "RODEÑO DIAZ, GABRIEL": 6,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "SAEZ PEREZ, LUCAS": 8,
+    "Gaviria Cataño, JUAN DIEGO": 9,
+    "RENEDO COSIO, DIEGO": 16,
+    "MOURA REVUELTA, ROMEO": 20,
+    "COBO MARTINEZ, KELLYAN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
