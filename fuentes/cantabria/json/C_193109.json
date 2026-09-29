@@ -1,0 +1,250 @@
+{
+  "acta_id": "C_193109",
+  "filename": "Acta_C_193109.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 9,
+  "fecha": "02-11-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. ARENAS DE FRAJANAS A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "IBÁÑEZ PRIETO, RAÚL"
+  ],
+  "estadio": "Municipal de Frajanas",
+  "ciudad": "Astillero (El)",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "CRUZADO CUESTA, FABIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "FUERTES LOPEZ, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "CRUZADO CUESTA, FABIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 58,
+      "jugador": "SAÑUDO HERRAN, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "CICERO MONTES, RAFAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "MARTINEZ PEREZ, MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MATE GARCIA, DIEGO",
+  "entrenador_visitante": "CICERO MONTES, RAFAEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DE JUANA RODRIGUEZ, BORJA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DE JUANA RODRIGUEZ, BORJA",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "LOMAS AYUSO, GERARDO",
+    "SAÑUDO HERRAN, HUGO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "QUIJANO SOTO, PABLO",
+    "belver duran, ivan",
+    "DE LA IGLESIA SALVADOR, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "GRANDE SALVADOR, GAEL",
+    "VELATEGUI PRIETO, ADAN",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "MORAN POLANCO, ALVARO",
+    "NOVOA TARDÍO, HUGO",
+    "GONZALEZ BENITO, PABLO",
+    "ROBETA DIAZ, JORGE",
+    "DAVIES MORRISON, RAFAEL",
+    "CRUZADO CUESTA, FABIO",
+    "ROJO CANADELL, ALEJANDRO",
+    "VELARDE VEGA, HECTOR"
+  ],
+  "suplentes_local": [
+    "HERRERO VILLALOBOS, MARCOS",
+    "YEDRA MARTIN, NICOLAS",
+    "TORIBIO ARCE, EDUARDO",
+    "MARTIN SECO, BRUNO"
+  ],
+  "suplentes_visitante": [
+    "SEDANO TORRE, DARIO",
+    "MARTINEZ PEREZ, MIGUEL",
+    "HERRERA RUIZ, ADAHY",
+    "RODRÍGUEZ LASO, KEVIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "SEDANO TORRE, DARIO"
+  ],
+  "jugadores_local": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "LOMAS AYUSO, GERARDO",
+    "SAÑUDO HERRAN, HUGO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "DIAZ SANCHEZ, IZAN",
+    "QUIJANO SOTO, PABLO",
+    "belver duran, ivan",
+    "DE LA IGLESIA SALVADOR, RODRIGO",
+    "HERRERO VILLALOBOS, MARCOS",
+    "YEDRA MARTIN, NICOLAS",
+    "MARTIN SECO, BRUNO",
+    "TORIBIO ARCE, EDUARDO"
+  ],
+  "jugadores_visitante": [
+    "GRANDE SALVADOR, GAEL",
+    "VELATEGUI PRIETO, ADAN",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "MORAN POLANCO, ALVARO",
+    "NOVOA TARDÍO, HUGO",
+    "GONZALEZ BENITO, PABLO",
+    "ROBETA DIAZ, JORGE",
+    "DAVIES MORRISON, RAFAEL",
+    "CRUZADO CUESTA, FABIO",
+    "ROJO CANADELL, ALEJANDRO",
+    "VELARDE VEGA, HECTOR",
+    "HERRERA RUIZ, ADAHY",
+    "MARTINEZ PEREZ, MIGUEL",
+    "RODRÍGUEZ LASO, KEVIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "HERRERO VILLALOBOS, MARCOS",
+      "sale": "JIMENEZ LASTRA, MIGUEL"
+    },
+    {
+      "min": 49,
+      "entra": "YEDRA MARTIN, NICOLAS",
+      "sale": "ALONSO GONZALEZ, FERNANDO"
+    },
+    {
+      "min": 55,
+      "entra": "MARTIN SECO, BRUNO",
+      "sale": "belver duran, ivan"
+    },
+    {
+      "min": 55,
+      "entra": "TORIBIO ARCE, EDUARDO",
+      "sale": "FUERTES LOPEZ, ANGEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 34,
+      "entra": "HERRERA RUIZ, ADAHY",
+      "sale": "DAVIES MORRISON, RAFAEL"
+    },
+    {
+      "min": 55,
+      "entra": "MARTINEZ PEREZ, MIGUEL",
+      "sale": "DEL CASTILLO SARAÑANA, LUCAS"
+    },
+    {
+      "min": 62,
+      "entra": "RODRÍGUEZ LASO, KEVIN",
+      "sale": "ROBETA DIAZ, JORGE"
+    }
+  ],
+  "minutos_jugadores": {
+    "JIMENEZ LASTRA, MIGUEL": 40,
+    "BRAVO HERRERO, MARIO": 90,
+    "ALONSO GONZALEZ, FERNANDO": 49,
+    "LOMAS AYUSO, GERARDO": 90,
+    "SAÑUDO HERRAN, HUGO": 90,
+    "FUERTES LOPEZ, ANGEL": 55,
+    "MATE GARCIA, ALVARO": 90,
+    "DIAZ SANCHEZ, IZAN": 90,
+    "QUIJANO SOTO, PABLO": 90,
+    "belver duran, ivan": 55,
+    "DE LA IGLESIA SALVADOR, RODRIGO": 90,
+    "HERRERO VILLALOBOS, MARCOS": 50,
+    "YEDRA MARTIN, NICOLAS": 41,
+    "MARTIN SECO, BRUNO": 35,
+    "TORIBIO ARCE, EDUARDO": 35,
+    "GRANDE SALVADOR, GAEL": 90,
+    "VELATEGUI PRIETO, ADAN": 90,
+    "DEL CASTILLO SARAÑANA, LUCAS": 55,
+    "MORAN POLANCO, ALVARO": 90,
+    "NOVOA TARDÍO, HUGO": 90,
+    "GONZALEZ BENITO, PABLO": 90,
+    "ROBETA DIAZ, JORGE": 62,
+    "DAVIES MORRISON, RAFAEL": 34,
+    "CRUZADO CUESTA, FABIO": 90,
+    "ROJO CANADELL, ALEJANDRO": 90,
+    "VELARDE VEGA, HECTOR": 90,
+    "HERRERA RUIZ, ADAHY": 56,
+    "MARTINEZ PEREZ, MIGUEL": 35,
+    "RODRÍGUEZ LASO, KEVIN": 28
+  },
+  "portero_local": "JIMENEZ LASTRA, MIGUEL",
+  "portero_visitante": "GRANDE SALVADOR, GAEL",
+  "dorsales_local": {
+    "JIMENEZ LASTRA, MIGUEL": 13,
+    "BRAVO HERRERO, MARIO": 3,
+    "ALONSO GONZALEZ, FERNANDO": 4,
+    "LOMAS AYUSO, GERARDO": 7,
+    "SAÑUDO HERRAN, HUGO": 8,
+    "FUERTES LOPEZ, ANGEL": 9,
+    "MATE GARCIA, ALVARO": 10,
+    "DIAZ SANCHEZ, IZAN": 11,
+    "QUIJANO SOTO, PABLO": 14,
+    "belver duran, ivan": 15,
+    "DE LA IGLESIA SALVADOR, RODRIGO": 25
+  },
+  "dorsales_visitante": {
+    "GRANDE SALVADOR, GAEL": 13,
+    "VELATEGUI PRIETO, ADAN": 3,
+    "DEL CASTILLO SARAÑANA, LUCAS": 4,
+    "MORAN POLANCO, ALVARO": 6,
+    "NOVOA TARDÍO, HUGO": 7,
+    "GONZALEZ BENITO, PABLO": 8,
+    "ROBETA DIAZ, JORGE": 9,
+    "DAVIES MORRISON, RAFAEL": 10,
+    "CRUZADO CUESTA, FABIO": 11,
+    "ROJO CANADELL, ALEJANDRO": 14,
+    "VELARDE VEGA, HECTOR": 99
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
