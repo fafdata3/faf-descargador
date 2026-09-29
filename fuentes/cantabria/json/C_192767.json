@@ -1,0 +1,272 @@
+{
+  "acta_id": "C_192767",
+  "filename": "Acta_C_192767.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 5,
+  "fecha": "05-10-2024",
+  "hora": "12:45",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D.E. ATCO. MINEROS A",
+  "equipo_visitante": "REAL RACING CLUB SAD A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DÍAZ SALCES, ALEJANDRO"
+  ],
+  "estadio": "Puente San Miguel",
+  "ciudad": "Reocín",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "ORIA OCERIN, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 68,
+      "jugador": "MATA SANGUIAO, CARLOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 73,
+      "jugador": "PRIETO ALONSO, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 61,
+      "jugador": "RUIZ FERNÁNDEZ, KEVIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "ORTEGA DEL RIO, AITOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "DIESTRO LANZA, RODRIGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "SANCHEZ MEDINA, MARCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "REVUELTA SOTO, ANDRES",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DIAZ SANCHEZ, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DIAZ SANCHEZ, PABLO",
+  "delegado_equipo_visitante": "RODRIGUEZ PINEY, MIGUEL",
+  "titulares_local": [
+    "SAEZ PISANO, ADRIAN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "solar rabadan, DANIEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "DIAZ DIAZ, GONZALO",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "GUTIERREZ GOMEZ, HECTOR"
+  ],
+  "titulares_visitante": [
+    "CABIELLES COSIO, MANUEL",
+    "ORTIZ SAMPERIO, MANUEL",
+    "MANTECON TEJEDOR, MARCOS",
+    "GAITAN PEREZ, PABLO",
+    "PRIETO ALONSO, MARCOS",
+    "DIESTRO LANZA, RODRIGO",
+    "ORIA OCERIN, PABLO",
+    "VERDEJA ASTORECA, JORGE",
+    "MUNIENTE CHIOGNA, ALBERTO",
+    "GUTIERREZ SANZ, DAVID",
+    "GOMEZ CUEVAS, RODRIGO"
+  ],
+  "suplentes_local": [
+    "LASA SIERRA, HECTOR",
+    "GUTIERREZ REDONDO, MARTIN",
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "STAN, NICOLAE CRISTIAN",
+    "MATA SANGUIAO, CARLOS"
+  ],
+  "suplentes_visitante": [
+    "PIEDRA REVUELTA, GABRIEL",
+    "SANCHEZ MEDINA, MARCO",
+    "SOL SANTAMARINA, DANIEL",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "CORTABITARTE SOBERON, ILAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "PIEDRA REVUELTA, GABRIEL"
+  ],
+  "jugadores_local": [
+    "SAEZ PISANO, ADRIAN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "solar rabadan, DANIEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "DIAZ DIAZ, GONZALO",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "GUTIERREZ GOMEZ, HECTOR",
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "MATA SANGUIAO, CARLOS",
+    "LASA SIERRA, HECTOR",
+    "STAN, NICOLAE CRISTIAN",
+    "GUTIERREZ REDONDO, MARTIN"
+  ],
+  "jugadores_visitante": [
+    "CABIELLES COSIO, MANUEL",
+    "ORTIZ SAMPERIO, MANUEL",
+    "MANTECON TEJEDOR, MARCOS",
+    "GAITAN PEREZ, PABLO",
+    "PRIETO ALONSO, MARCOS",
+    "DIESTRO LANZA, RODRIGO",
+    "ORIA OCERIN, PABLO",
+    "VERDEJA ASTORECA, JORGE",
+    "MUNIENTE CHIOGNA, ALBERTO",
+    "GUTIERREZ SANZ, DAVID",
+    "GOMEZ CUEVAS, RODRIGO",
+    "SOL SANTAMARINA, DANIEL",
+    "TRESGALLO RODRIGUEZ, ULISES",
+    "CORTABITARTE SOBERON, ILAN",
+    "SANCHEZ MEDINA, MARCO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "RUIZ FERNÁNDEZ, KEVIN",
+      "sale": "SAEZ PISANO, ADRIAN"
+    },
+    {
+      "min": 51,
+      "entra": "MATA SANGUIAO, CARLOS",
+      "sale": "DIAZ DIAZ, GONZALO"
+    },
+    {
+      "min": 56,
+      "entra": "LASA SIERRA, HECTOR",
+      "sale": "solar rabadan, DANIEL"
+    },
+    {
+      "min": 61,
+      "entra": "STAN, NICOLAE CRISTIAN",
+      "sale": "MARTINEZ ALVAREZ, JESUS EMMANUEL"
+    },
+    {
+      "min": 65,
+      "entra": "GUTIERREZ REDONDO, MARTIN",
+      "sale": "GUTIERREZ GOMEZ, HECTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "SOL SANTAMARINA, DANIEL",
+      "sale": "GUTIERREZ SANZ, DAVID"
+    },
+    {
+      "min": 50,
+      "entra": "TRESGALLO RODRIGUEZ, ULISES",
+      "sale": "DIESTRO LANZA, RODRIGO"
+    },
+    {
+      "min": 50,
+      "entra": "CORTABITARTE SOBERON, ILAN",
+      "sale": "VERDEJA ASTORECA, JORGE"
+    },
+    {
+      "min": 50,
+      "entra": "SANCHEZ MEDINA, MARCO",
+      "sale": "GOMEZ CUEVAS, RODRIGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "SAEZ PISANO, ADRIAN": 40,
+    "ORTEGA DEL RIO, AITOR": 90,
+    "MAZON SHAROV, HUGO": 90,
+    "solar rabadan, DANIEL": 56,
+    "SOLARES PICAZO, LUCAS": 90,
+    "GOMEZ PEÑA, LUCAS": 90,
+    "BURTAN, DEMIS CONSTANTIN": 90,
+    "DIAZ DIAZ, GONZALO": 51,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 90,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 61,
+    "GUTIERREZ GOMEZ, HECTOR": 65,
+    "RUIZ FERNÁNDEZ, KEVIN": 50,
+    "MATA SANGUIAO, CARLOS": 39,
+    "LASA SIERRA, HECTOR": 34,
+    "STAN, NICOLAE CRISTIAN": 29,
+    "GUTIERREZ REDONDO, MARTIN": 25,
+    "CABIELLES COSIO, MANUEL": 90,
+    "ORTIZ SAMPERIO, MANUEL": 90,
+    "MANTECON TEJEDOR, MARCOS": 90,
+    "GAITAN PEREZ, PABLO": 90,
+    "PRIETO ALONSO, MARCOS": 90,
+    "DIESTRO LANZA, RODRIGO": 50,
+    "ORIA OCERIN, PABLO": 90,
+    "VERDEJA ASTORECA, JORGE": 50,
+    "MUNIENTE CHIOGNA, ALBERTO": 90,
+    "GUTIERREZ SANZ, DAVID": 36,
+    "GOMEZ CUEVAS, RODRIGO": 50,
+    "SOL SANTAMARINA, DANIEL": 54,
+    "TRESGALLO RODRIGUEZ, ULISES": 40,
+    "CORTABITARTE SOBERON, ILAN": 40,
+    "SANCHEZ MEDINA, MARCO": 40
+  },
+  "portero_local": "SAEZ PISANO, ADRIAN",
+  "portero_visitante": "CABIELLES COSIO, MANUEL",
+  "dorsales_local": {
+    "SAEZ PISANO, ADRIAN": 1,
+    "ORTEGA DEL RIO, AITOR": 4,
+    "MAZON SHAROV, HUGO": 6,
+    "solar rabadan, DANIEL": 8,
+    "SOLARES PICAZO, LUCAS": 11,
+    "GOMEZ PEÑA, LUCAS": 12,
+    "BURTAN, DEMIS CONSTANTIN": 14,
+    "DIAZ DIAZ, GONZALO": 16,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 17,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 19,
+    "GUTIERREZ GOMEZ, HECTOR": 20
+  },
+  "dorsales_visitante": {
+    "CABIELLES COSIO, MANUEL": 1,
+    "ORTIZ SAMPERIO, MANUEL": 2,
+    "MANTECON TEJEDOR, MARCOS": 3,
+    "GAITAN PEREZ, PABLO": 4,
+    "PRIETO ALONSO, MARCOS": 5,
+    "DIESTRO LANZA, RODRIGO": 6,
+    "ORIA OCERIN, PABLO": 7,
+    "VERDEJA ASTORECA, JORGE": 8,
+    "MUNIENTE CHIOGNA, ALBERTO": 9,
+    "GUTIERREZ SANZ, DAVID": 10,
+    "GOMEZ CUEVAS, RODRIGO": 11
+  },
+  "suspendidos": []
+}
