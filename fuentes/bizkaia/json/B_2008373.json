@@ -1,0 +1,275 @@
+{
+  "acta_id": "B_2008373",
+  "filename": "Acta_B_2008373.txt",
+  "fuente": "bizkaia",
+  "temporada": "2024-2025",
+  "jornada": 7,
+  "fecha": "17-11-2024",
+  "hora": "12:45",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "BASKAURI A",
+  "equipo_visitante": "AURRERA",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ECHEANDIA ANTOLIN, IBAI"
+  ],
+  "estadio": "ARTUNDUAGA 2",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "NIÑO MARTIN, ENEKO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "NIEVES SAGARNA, XUBAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 37,
+      "jugador": "DE LA VEGA JUAREZ, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "LOZANO BURGOS, EDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 25,
+      "jugador": "ITUARTE AGUIRRE, OIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "BADIOLA SOBRADELO, EÑAUT",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "QUIZHPE GONZALEZ, NAIM",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "NIEVES SAGARNA, XUBAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SANTIAGO GUTIERREZ, RUBEN",
+  "entrenador_visitante": "ARAMBURU URKIZA, UNAI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA PAREDES, URKO",
+  "delegado_equipo_visitante": "TOÑA MARTÍNEZ , IÑIGO",
+  "titulares_local": [
+    "POUDEL NIURE, ANISH",
+    "FERNANDEZ MARTINEZ, ENEKO",
+    "LOZANO BURGOS, EDER",
+    "UBIERNA CARRASCO, IBAI",
+    "BUENO GARCIA DE BIKUÑA, MIKEL",
+    "DE LA VEGA JUAREZ, DIEGO",
+    "ARROYO ASTOBIZA, KAIET",
+    "RODRIGO LARRAÑAGA, ANDER",
+    "MORENO RODRIGUEZ, DANEL",
+    "GARCIA DIEGUEZ, AINGERU",
+    "LANDA AIESTA, ARATZ"
+  ],
+  "titulares_visitante": [
+    "BADIOLA RODRIGUEZ, GORKA",
+    "ARANTZAMENDI SIERRA, MANEX",
+    "BADIOLA SOBRADELO, EÑAUT",
+    "OUSMANE SALL CAMARA, MOUHAMED",
+    "NIÑO MARTIN, ENEKO",
+    "MARINO ARANBARRI, ENEKO",
+    "ITUARTE AGUIRRE, OIER",
+    "QUIZHPE GONZALEZ, NAIM",
+    "NIEVES SAGARNA, XUBAN",
+    "ETXABURU ZATON, UNAI",
+    "ROCANDIO BORGES, UNAI"
+  ],
+  "suplentes_local": [
+    "SANTIAGO BUITRON, EDER",
+    "LORENZO HOLGUIN, XABIER",
+    "CARO SANCHEZ, JESUS MARIA",
+    "SANABRIA ESPINOLA, MIKEL DANIEL",
+    "OSINAGA FLORES, FERNANDO",
+    "VIAFARA CUENU, NICOLAS",
+    "COTORE BLANCO, MIGUEL ANGEL"
+  ],
+  "suplentes_visitante": [
+    "TOÑA ITUARTE, GURUTZ",
+    "BASARAS KORTABARRIA, ANDDE LUKA",
+    "MORCHON ITUARTE, ENEKO NAHUEL",
+    "IRIONDO GARALDE, ENAITZ",
+    "ETXANO ILLARRAMENDI, ENEKO",
+    "URKIRI LEKUE, AIMAR"
+  ],
+  "convocados_sin_jugar_local": [
+    "SANTIAGO BUITRON, EDER",
+    "LORENZO HOLGUIN, XABIER",
+    "VIAFARA CUENU, NICOLAS"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "TOÑA ITUARTE, GURUTZ",
+    "BASARAS KORTABARRIA, ANDDE LUKA",
+    "IRIONDO GARALDE, ENAITZ"
+  ],
+  "jugadores_local": [
+    "POUDEL NIURE, ANISH",
+    "FERNANDEZ MARTINEZ, ENEKO",
+    "LOZANO BURGOS, EDER",
+    "UBIERNA CARRASCO, IBAI",
+    "BUENO GARCIA DE BIKUÑA, MIKEL",
+    "DE LA VEGA JUAREZ, DIEGO",
+    "ARROYO ASTOBIZA, KAIET",
+    "RODRIGO LARRAÑAGA, ANDER",
+    "MORENO RODRIGUEZ, DANEL",
+    "GARCIA DIEGUEZ, AINGERU",
+    "LANDA AIESTA, ARATZ",
+    "SANABRIA ESPINOLA, MIKEL DANIEL",
+    "CARO SANCHEZ, JESUS MARIA",
+    "COTORE BLANCO, MIGUEL ANGEL",
+    "OSINAGA FLORES, FERNANDO"
+  ],
+  "jugadores_visitante": [
+    "BADIOLA RODRIGUEZ, GORKA",
+    "ARANTZAMENDI SIERRA, MANEX",
+    "BADIOLA SOBRADELO, EÑAUT",
+    "OUSMANE SALL CAMARA, MOUHAMED",
+    "NIÑO MARTIN, ENEKO",
+    "MARINO ARANBARRI, ENEKO",
+    "ITUARTE AGUIRRE, OIER",
+    "QUIZHPE GONZALEZ, NAIM",
+    "NIEVES SAGARNA, XUBAN",
+    "ETXABURU ZATON, UNAI",
+    "ROCANDIO BORGES, UNAI",
+    "ETXANO ILLARRAMENDI, ENEKO",
+    "MORCHON ITUARTE, ENEKO NAHUEL",
+    "URKIRI LEKUE, AIMAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "SANABRIA ESPINOLA, MIKEL DANIEL",
+      "sale": "GARCIA DIEGUEZ, AINGERU"
+    },
+    {
+      "min": 49,
+      "entra": "CARO SANCHEZ, JESUS MARIA",
+      "sale": "DE LA VEGA JUAREZ, DIEGO"
+    },
+    {
+      "min": 65,
+      "entra": "COTORE BLANCO, MIGUEL ANGEL",
+      "sale": "ARROYO ASTOBIZA, KAIET"
+    },
+    {
+      "min": 66,
+      "entra": "OSINAGA FLORES, FERNANDO",
+      "sale": "LANDA AIESTA, ARATZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "ETXANO ILLARRAMENDI, ENEKO",
+      "sale": "ITUARTE AGUIRRE, OIER"
+    },
+    {
+      "min": 66,
+      "entra": "MORCHON ITUARTE, ENEKO NAHUEL",
+      "sale": "ROCANDIO BORGES, UNAI"
+    },
+    {
+      "min": 71,
+      "entra": "URKIRI LEKUE, AIMAR",
+      "sale": "BADIOLA SOBRADELO, EÑAUT"
+    }
+  ],
+  "minutos_jugadores": {
+    "POUDEL NIURE, ANISH": 90,
+    "FERNANDEZ MARTINEZ, ENEKO": 90,
+    "LOZANO BURGOS, EDER": 90,
+    "UBIERNA CARRASCO, IBAI": 90,
+    "BUENO GARCIA DE BIKUÑA, MIKEL": 90,
+    "DE LA VEGA JUAREZ, DIEGO": 49,
+    "ARROYO ASTOBIZA, KAIET": 65,
+    "RODRIGO LARRAÑAGA, ANDER": 90,
+    "MORENO RODRIGUEZ, DANEL": 90,
+    "GARCIA DIEGUEZ, AINGERU": 49,
+    "LANDA AIESTA, ARATZ": 66,
+    "SANABRIA ESPINOLA, MIKEL DANIEL": 41,
+    "CARO SANCHEZ, JESUS MARIA": 41,
+    "COTORE BLANCO, MIGUEL ANGEL": 25,
+    "OSINAGA FLORES, FERNANDO": 24,
+    "BADIOLA RODRIGUEZ, GORKA": 90,
+    "ARANTZAMENDI SIERRA, MANEX": 90,
+    "BADIOLA SOBRADELO, EÑAUT": 71,
+    "OUSMANE SALL CAMARA, MOUHAMED": 90,
+    "NIÑO MARTIN, ENEKO": 90,
+    "MARINO ARANBARRI, ENEKO": 90,
+    "ITUARTE AGUIRRE, OIER": 60,
+    "QUIZHPE GONZALEZ, NAIM": 90,
+    "NIEVES SAGARNA, XUBAN": 90,
+    "ETXABURU ZATON, UNAI": 90,
+    "ROCANDIO BORGES, UNAI": 66,
+    "ETXANO ILLARRAMENDI, ENEKO": 30,
+    "MORCHON ITUARTE, ENEKO NAHUEL": 24,
+    "URKIRI LEKUE, AIMAR": 19
+  },
+  "portero_local": "POUDEL NIURE, ANISH",
+  "portero_visitante": "BADIOLA RODRIGUEZ, GORKA",
+  "dorsales_local": {
+    "POUDEL NIURE, ANISH": 13,
+    "FERNANDEZ MARTINEZ, ENEKO": 3,
+    "LOZANO BURGOS, EDER": 4,
+    "UBIERNA CARRASCO, IBAI": 5,
+    "BUENO GARCIA DE BIKUÑA, MIKEL": 6,
+    "DE LA VEGA JUAREZ, DIEGO": 7,
+    "ARROYO ASTOBIZA, KAIET": 8,
+    "RODRIGO LARRAÑAGA, ANDER": 11,
+    "MORENO RODRIGUEZ, DANEL": 12,
+    "GARCIA DIEGUEZ, AINGERU": 19,
+    "LANDA AIESTA, ARATZ": 20
+  },
+  "dorsales_visitante": {
+    "BADIOLA RODRIGUEZ, GORKA": 13,
+    "ARANTZAMENDI SIERRA, MANEX": 4,
+    "BADIOLA SOBRADELO, EÑAUT": 5,
+    "OUSMANE SALL CAMARA, MOUHAMED": 6,
+    "NIÑO MARTIN, ENEKO": 7,
+    "MARINO ARANBARRI, ENEKO": 8,
+    "ITUARTE AGUIRRE, OIER": 10,
+    "QUIZHPE GONZALEZ, NAIM": 12,
+    "NIEVES SAGARNA, XUBAN": 16,
+    "ETXABURU ZATON, UNAI": 20,
+    "ROCANDIO BORGES, UNAI": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
