@@ -1,0 +1,250 @@
+{
+  "acta_id": "G_304620",
+  "filename": "Acta_G_304620.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "30-09-2023",
+  "hora": "12:00",
+  "categoria": "EMAKUMEZKO KADETEEN 1. MAILA / 1ª CADETE FEMENINO (GRUPO - 1)",
+  "equipo_local": "HONDARRIBIA F.E",
+  "equipo_visitante": "TOURING KE B",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANCHEZ STAN, ALEXANDER"
+  ],
+  "estadio": "ONDARTZA-ANEXO",
+  "ciudad": "Hondarribia",
+  "goleadores": [
+    {
+      "minuto": 46,
+      "jugador": "VIDAL NARVARTE, OLIVIA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "DE JUAN ALASTRUEY, KAIAL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "DE JUAN ALASTRUEY, KAIAL",
+  "entrenador_visitante": "FRAILE SOLANO, UNAI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAN MIGUEL IBARZABAL, AIORA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAN MIGUEL IBARZABAL, AIORA",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "OLASCOAGA AMUNARRIZ, UDANE",
+    "PARDILLA SANCHEZ, NAIA",
+    "IÑARRA MENDIZABAL, NARAH",
+    "ARMEZAGA OPORTO, ZURIÑE",
+    "MARTINEZ AMIAMA, NAIA",
+    "MARTIN AMADOR, NAGORE",
+    "ZABALA ARRIZABALAGA, VEGA",
+    "PUY GALDOS, NAHIANE",
+    "BERROCAL DELGADO, ANE",
+    "VIDAL NARVARTE, OLIVIA",
+    "ARBIDE ALONSO, LARRAITZ"
+  ],
+  "titulares_visitante": [
+    "JODAR JIMENEZ, ANE",
+    "CENDOYA VILLOSLADA, NEREA",
+    "IDIGORAS ALFAGEME, ELENE",
+    "GUTIERREZ SANCHEZ, MAIALEN",
+    "PABLO CORCHERO, UXUE",
+    "CARRETON RODRIGUEZ, NAHIA",
+    "AGUILAR OSTOLAZA, NORA",
+    "RIVAS NUÑEZ, LARA",
+    "LARZABAL MARTIN, SOFIA",
+    "MORAN GRAÑERAS, NAROA",
+    "GARMENDIA MANRIQUE, UXUE"
+  ],
+  "suplentes_local": [
+    "IGOS ANUNCIBAY, IZARO",
+    "ARAMBURU IGLESIAS, UDANE",
+    "BLANCO AGIRRE, ELAIA",
+    "PARDILLA SANCHEZ, LEIRE",
+    "IGLESIAS ALZA, AIZPEA",
+    "UGARTE ALZA, NORA"
+  ],
+  "suplentes_visitante": [
+    "BERAZA SANCHEZ, AITANA",
+    "COLINDRES LEDEZMA, CRISTI ALEXANDRA",
+    "LUMBRERAS ENTENZA, AYALA",
+    "GONZALEZ PEREZ, NAROA",
+    "SABILLON PINEDA, ENYELL CAROLINA"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "OLASCOAGA AMUNARRIZ, UDANE",
+    "PARDILLA SANCHEZ, NAIA",
+    "IÑARRA MENDIZABAL, NARAH",
+    "ARMEZAGA OPORTO, ZURIÑE",
+    "MARTINEZ AMIAMA, NAIA",
+    "MARTIN AMADOR, NAGORE",
+    "ZABALA ARRIZABALAGA, VEGA",
+    "PUY GALDOS, NAHIANE",
+    "BERROCAL DELGADO, ANE",
+    "VIDAL NARVARTE, OLIVIA",
+    "ARBIDE ALONSO, LARRAITZ",
+    "BLANCO AGIRRE, ELAIA",
+    "PARDILLA SANCHEZ, LEIRE",
+    "UGARTE ALZA, NORA",
+    "IGOS ANUNCIBAY, IZARO",
+    "ARAMBURU IGLESIAS, UDANE",
+    "IGLESIAS ALZA, AIZPEA"
+  ],
+  "jugadores_visitante": [
+    "JODAR JIMENEZ, ANE",
+    "CENDOYA VILLOSLADA, NEREA",
+    "IDIGORAS ALFAGEME, ELENE",
+    "GUTIERREZ SANCHEZ, MAIALEN",
+    "PABLO CORCHERO, UXUE",
+    "CARRETON RODRIGUEZ, NAHIA",
+    "AGUILAR OSTOLAZA, NORA",
+    "RIVAS NUÑEZ, LARA",
+    "LARZABAL MARTIN, SOFIA",
+    "MORAN GRAÑERAS, NAROA",
+    "GARMENDIA MANRIQUE, UXUE",
+    "LUMBRERAS ENTENZA, AYALA",
+    "SABILLON PINEDA, ENYELL CAROLINA",
+    "GONZALEZ PEREZ, NAROA",
+    "COLINDRES LEDEZMA, CRISTI ALEXANDRA",
+    "BERAZA SANCHEZ, AITANA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 25,
+      "entra": "BLANCO AGIRRE, ELAIA",
+      "sale": "MARTINEZ AMIAMA, NAIA"
+    },
+    {
+      "min": 43,
+      "entra": "PARDILLA SANCHEZ, LEIRE",
+      "sale": "MARTIN AMADOR, NAGORE"
+    },
+    {
+      "min": 48,
+      "entra": "UGARTE ALZA, NORA",
+      "sale": "OLASCOAGA AMUNARRIZ, UDANE"
+    },
+    {
+      "min": 62,
+      "entra": "IGOS ANUNCIBAY, IZARO",
+      "sale": "VIDAL NARVARTE, OLIVIA"
+    },
+    {
+      "min": 68,
+      "entra": "ARAMBURU IGLESIAS, UDANE",
+      "sale": "ARBIDE ALONSO, LARRAITZ"
+    },
+    {
+      "min": 75,
+      "entra": "IGLESIAS ALZA, AIZPEA",
+      "sale": "ARMEZAGA OPORTO, ZURIÑE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 14,
+      "entra": "LUMBRERAS ENTENZA, AYALA",
+      "sale": "PABLO CORCHERO, UXUE"
+    },
+    {
+      "min": 51,
+      "entra": "SABILLON PINEDA, ENYELL CAROLINA",
+      "sale": "IDIGORAS ALFAGEME, ELENE"
+    },
+    {
+      "min": 51,
+      "entra": "GONZALEZ PEREZ, NAROA",
+      "sale": "RIVAS NUÑEZ, LARA"
+    },
+    {
+      "min": 67,
+      "entra": "COLINDRES LEDEZMA, CRISTI ALEXANDRA",
+      "sale": "AGUILAR OSTOLAZA, NORA"
+    },
+    {
+      "min": 67,
+      "entra": "BERAZA SANCHEZ, AITANA",
+      "sale": "MORAN GRAÑERAS, NAROA"
+    }
+  ],
+  "minutos_jugadores": {
+    "OLASCOAGA AMUNARRIZ, UDANE": 48,
+    "PARDILLA SANCHEZ, NAIA": 90,
+    "IÑARRA MENDIZABAL, NARAH": 90,
+    "ARMEZAGA OPORTO, ZURIÑE": 75,
+    "MARTINEZ AMIAMA, NAIA": 25,
+    "MARTIN AMADOR, NAGORE": 43,
+    "ZABALA ARRIZABALAGA, VEGA": 90,
+    "PUY GALDOS, NAHIANE": 90,
+    "BERROCAL DELGADO, ANE": 90,
+    "VIDAL NARVARTE, OLIVIA": 62,
+    "ARBIDE ALONSO, LARRAITZ": 68,
+    "BLANCO AGIRRE, ELAIA": 65,
+    "PARDILLA SANCHEZ, LEIRE": 47,
+    "UGARTE ALZA, NORA": 42,
+    "IGOS ANUNCIBAY, IZARO": 28,
+    "ARAMBURU IGLESIAS, UDANE": 22,
+    "IGLESIAS ALZA, AIZPEA": 15,
+    "JODAR JIMENEZ, ANE": 90,
+    "CENDOYA VILLOSLADA, NEREA": 90,
+    "IDIGORAS ALFAGEME, ELENE": 51,
+    "GUTIERREZ SANCHEZ, MAIALEN": 90,
+    "PABLO CORCHERO, UXUE": 14,
+    "CARRETON RODRIGUEZ, NAHIA": 90,
+    "AGUILAR OSTOLAZA, NORA": 67,
+    "RIVAS NUÑEZ, LARA": 51,
+    "LARZABAL MARTIN, SOFIA": 90,
+    "MORAN GRAÑERAS, NAROA": 67,
+    "GARMENDIA MANRIQUE, UXUE": 90,
+    "LUMBRERAS ENTENZA, AYALA": 76,
+    "SABILLON PINEDA, ENYELL CAROLINA": 39,
+    "GONZALEZ PEREZ, NAROA": 39,
+    "COLINDRES LEDEZMA, CRISTI ALEXANDRA": 23,
+    "BERAZA SANCHEZ, AITANA": 23
+  },
+  "portero_local": "OLASCOAGA AMUNARRIZ, UDANE",
+  "portero_visitante": "JODAR JIMENEZ, ANE",
+  "dorsales_local": {
+    "OLASCOAGA AMUNARRIZ, UDANE": 1,
+    "PARDILLA SANCHEZ, NAIA": 6,
+    "IÑARRA MENDIZABAL, NARAH": 7,
+    "ARMEZAGA OPORTO, ZURIÑE": 8,
+    "MARTINEZ AMIAMA, NAIA": 10,
+    "MARTIN AMADOR, NAGORE": 11,
+    "ZABALA ARRIZABALAGA, VEGA": 16,
+    "PUY GALDOS, NAHIANE": 17,
+    "BERROCAL DELGADO, ANE": 20,
+    "VIDAL NARVARTE, OLIVIA": 21,
+    "ARBIDE ALONSO, LARRAITZ": 22
+  },
+  "dorsales_visitante": {
+    "JODAR JIMENEZ, ANE": 4,
+    "CENDOYA VILLOSLADA, NEREA": 5,
+    "IDIGORAS ALFAGEME, ELENE": 6,
+    "GUTIERREZ SANCHEZ, MAIALEN": 8,
+    "PABLO CORCHERO, UXUE": 10,
+    "CARRETON RODRIGUEZ, NAHIA": 11,
+    "AGUILAR OSTOLAZA, NORA": 14,
+    "RIVAS NUÑEZ, LARA": 15,
+    "LARZABAL MARTIN, SOFIA": 18,
+    "MORAN GRAÑERAS, NAROA": 19,
+    "GARMENDIA MANRIQUE, UXUE": 21
+  },
+  "suspendidos": []
+}
