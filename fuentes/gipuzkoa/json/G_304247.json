@@ -1,0 +1,241 @@
+{
+  "acta_id": "G_304247",
+  "filename": "Acta_G_304247.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "23-09-2023",
+  "hora": "09:00",
+  "categoria": "MUTILEN INFANTIL HANDI / INFANTIL HANDI MASCULINO (GRUPO - 4)",
+  "equipo_local": "BILLABONA F.K.E.",
+  "equipo_visitante": "LAZKAO K.E.",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "AKHROUF CHIADMI, WAIL"
+  ],
+  "estadio": "ARRATZAIN",
+  "ciudad": "Villabona",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "IRAZU JAUREGUI, IORITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 40,
+      "jugador": "ZURIARRAIN MALKORRA, JOANES",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "AGOURRAM RAMLI, MOHAMED",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "ARAMENDI MONASTERIO, AITZOL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ECHABURUA NAVARRO, EKAITZ",
+  "entrenador_visitante": "ODRIOZOLA EGUIGUREN, XABIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PLAZA LAPRESA, JON",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PLAZA LAPRESA, JON",
+  "delegado_equipo_visitante": "GARCIA TIERNO, MIGUEL ANGEL",
+  "titulares_local": [
+    "ARREGUI CENZANO, LIER",
+    "ARRUABARRENA ECHAVE, EÑAUT",
+    "GALARRAGA AGUIRRE, MANEX",
+    "TEJERIA LIZARRAGA, AMETS",
+    "ZURIARRAIN MALKORRA, JOANES",
+    "PLAZA ITURRIA, AIERT",
+    "LARDIES GUIBELALDE, IBAI",
+    "MENDOZA BRAVO, GAEL",
+    "ZIANI EL HASNAOUI, MOHAMED",
+    "AYERZA AIZPUN, AURITZ",
+    "IRAZU JAUREGUI, IORITZ"
+  ],
+  "titulares_visitante": [
+    "OTEGUI ALDASORO, BEÑAT",
+    "ALDASORO LASA, IBAI",
+    "RETA ISIDRO, EGOI",
+    "GARCIA PALACIOS, OIER",
+    "GORJON GARCIA, UNAI",
+    "RUIZ DE ZUAZO ELORZA, HARRI",
+    "ODRIOZOLA COLORADO, IBAI",
+    "ZURIARRAIN AGUIRRE, AHETZ",
+    "ZUBIARRAIN EIZAGIRRE, IÑIGO",
+    "ZARAUZ BIKUÑA, ANDER",
+    "LANDA IMAZ, IBAI"
+  ],
+  "suplentes_local": [
+    "REDONDO CALVO, OIER",
+    "AGOURRAM RAMLI, MOHAMED",
+    "ORMAETXEA ARZA, MATTIN",
+    "ALTUNA ABURUZA, ERITZ"
+  ],
+  "suplentes_visitante": [
+    "GRIJUC, DANIEL",
+    "ARAMENDI MONASTERIO, AITZOL",
+    "SARRIEGI ESTEVEZ, AIMAR",
+    "TATO OYARZABAL, HARRI"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARREGUI CENZANO, LIER",
+    "ARRUABARRENA ECHAVE, EÑAUT",
+    "GALARRAGA AGUIRRE, MANEX",
+    "TEJERIA LIZARRAGA, AMETS",
+    "ZURIARRAIN MALKORRA, JOANES",
+    "PLAZA ITURRIA, AIERT",
+    "LARDIES GUIBELALDE, IBAI",
+    "MENDOZA BRAVO, GAEL",
+    "ZIANI EL HASNAOUI, MOHAMED",
+    "AYERZA AIZPUN, AURITZ",
+    "IRAZU JAUREGUI, IORITZ",
+    "REDONDO CALVO, OIER",
+    "ALTUNA ABURUZA, ERITZ",
+    "AGOURRAM RAMLI, MOHAMED",
+    "ORMAETXEA ARZA, MATTIN"
+  ],
+  "jugadores_visitante": [
+    "OTEGUI ALDASORO, BEÑAT",
+    "ALDASORO LASA, IBAI",
+    "RETA ISIDRO, EGOI",
+    "GARCIA PALACIOS, OIER",
+    "GORJON GARCIA, UNAI",
+    "RUIZ DE ZUAZO ELORZA, HARRI",
+    "ODRIOZOLA COLORADO, IBAI",
+    "ZURIARRAIN AGUIRRE, AHETZ",
+    "ZUBIARRAIN EIZAGIRRE, IÑIGO",
+    "ZARAUZ BIKUÑA, ANDER",
+    "LANDA IMAZ, IBAI",
+    "TATO OYARZABAL, HARRI",
+    "GRIJUC, DANIEL",
+    "SARRIEGI ESTEVEZ, AIMAR",
+    "ARAMENDI MONASTERIO, AITZOL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "REDONDO CALVO, OIER",
+      "sale": "TEJERIA LIZARRAGA, AMETS"
+    },
+    {
+      "min": 43,
+      "entra": "ALTUNA ABURUZA, ERITZ",
+      "sale": "LARDIES GUIBELALDE, IBAI"
+    },
+    {
+      "min": 45,
+      "entra": "AGOURRAM RAMLI, MOHAMED",
+      "sale": "ZIANI EL HASNAOUI, MOHAMED"
+    },
+    {
+      "min": 47,
+      "entra": "ORMAETXEA ARZA, MATTIN",
+      "sale": "AYERZA AIZPUN, AURITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 25,
+      "entra": "TATO OYARZABAL, HARRI",
+      "sale": "ZARAUZ BIKUÑA, ANDER"
+    },
+    {
+      "min": 35,
+      "entra": "GRIJUC, DANIEL",
+      "sale": "ZURIARRAIN AGUIRRE, AHETZ"
+    },
+    {
+      "min": 41,
+      "entra": "SARRIEGI ESTEVEZ, AIMAR",
+      "sale": "RUIZ DE ZUAZO ELORZA, HARRI"
+    },
+    {
+      "min": 46,
+      "entra": "ARAMENDI MONASTERIO, AITZOL",
+      "sale": "OTEGUI ALDASORO, BEÑAT"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARREGUI CENZANO, LIER": 90,
+    "ARRUABARRENA ECHAVE, EÑAUT": 90,
+    "GALARRAGA AGUIRRE, MANEX": 90,
+    "TEJERIA LIZARRAGA, AMETS": 35,
+    "ZURIARRAIN MALKORRA, JOANES": 90,
+    "PLAZA ITURRIA, AIERT": 90,
+    "LARDIES GUIBELALDE, IBAI": 43,
+    "MENDOZA BRAVO, GAEL": 90,
+    "ZIANI EL HASNAOUI, MOHAMED": 45,
+    "AYERZA AIZPUN, AURITZ": 47,
+    "IRAZU JAUREGUI, IORITZ": 90,
+    "REDONDO CALVO, OIER": 55,
+    "ALTUNA ABURUZA, ERITZ": 47,
+    "AGOURRAM RAMLI, MOHAMED": 45,
+    "ORMAETXEA ARZA, MATTIN": 43,
+    "OTEGUI ALDASORO, BEÑAT": 46,
+    "ALDASORO LASA, IBAI": 90,
+    "RETA ISIDRO, EGOI": 90,
+    "GARCIA PALACIOS, OIER": 90,
+    "GORJON GARCIA, UNAI": 90,
+    "RUIZ DE ZUAZO ELORZA, HARRI": 41,
+    "ODRIOZOLA COLORADO, IBAI": 90,
+    "ZURIARRAIN AGUIRRE, AHETZ": 35,
+    "ZUBIARRAIN EIZAGIRRE, IÑIGO": 90,
+    "ZARAUZ BIKUÑA, ANDER": 25,
+    "LANDA IMAZ, IBAI": 90,
+    "TATO OYARZABAL, HARRI": 65,
+    "GRIJUC, DANIEL": 55,
+    "SARRIEGI ESTEVEZ, AIMAR": 49,
+    "ARAMENDI MONASTERIO, AITZOL": 44
+  },
+  "portero_local": "MENDOZA BRAVO, GAEL",
+  "portero_visitante": "ZURIARRAIN AGUIRRE, AHETZ",
+  "dorsales_local": {
+    "ARREGUI CENZANO, LIER": 2,
+    "ARRUABARRENA ECHAVE, EÑAUT": 3,
+    "GALARRAGA AGUIRRE, MANEX": 4,
+    "TEJERIA LIZARRAGA, AMETS": 8,
+    "ZURIARRAIN MALKORRA, JOANES": 10,
+    "PLAZA ITURRIA, AIERT": 11,
+    "LARDIES GUIBELALDE, IBAI": 12,
+    "MENDOZA BRAVO, GAEL": 13,
+    "ZIANI EL HASNAOUI, MOHAMED": 18,
+    "AYERZA AIZPUN, AURITZ": 19,
+    "IRAZU JAUREGUI, IORITZ": 20
+  },
+  "dorsales_visitante": {
+    "OTEGUI ALDASORO, BEÑAT": 2,
+    "ALDASORO LASA, IBAI": 4,
+    "RETA ISIDRO, EGOI": 5,
+    "GARCIA PALACIOS, OIER": 7,
+    "GORJON GARCIA, UNAI": 9,
+    "RUIZ DE ZUAZO ELORZA, HARRI": 11,
+    "ODRIOZOLA COLORADO, IBAI": 12,
+    "ZURIARRAIN AGUIRRE, AHETZ": 13,
+    "ZUBIARRAIN EIZAGIRRE, IÑIGO": 14,
+    "ZARAUZ BIKUÑA, ANDER": 15,
+    "LANDA IMAZ, IBAI": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
