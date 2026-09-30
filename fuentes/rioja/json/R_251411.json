@@ -1,0 +1,289 @@
+{
+  "acta_id": "R_251411",
+  "filename": "Acta_R_251411.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 5,
+  "fecha": "11-10-2025",
+  "hora": "17:00",
+  "categoria": "REGIONAL PREFERENTE (Grupo Único)",
+  "equipo_local": "NAXARA B",
+  "equipo_visitante": "ALBERITE",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SAENZ PEREZ, JUAN JOSE",
+    "Árbitro Asistente",
+    "ALVAREZ ALONSO, SERGIO",
+    "Árbitro Asistente",
+    "LARHLID LARHLID, MUSTAPHA OTHMAN"
+  ],
+  "estadio": "C.M. LA SALERA (NAJERA)",
+  "ciudad": "Nájera",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "GARCIA GARNICA, VICTOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "QUINTANILLA PEREZ, CARLOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 81,
+      "jugador": "DRAGOTA, RAUL GEORGIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "QUINTANILLA PEREZ, CARLOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "TRAPERO URIZ, MIGUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "FERNANDEZ PAYUETA, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "VALDEMOROS MARTÍNEZ, MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "RUIZ N PABLO, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FERNANDEZ MARTINEZ, ALEJANDRO",
+  "entrenador_visitante": "LLADONOSA CASTRO, IVAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "OLANO ESPIGA, IVÁN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SALINAS GIL, RAUL",
+  "delegado_equipo_visitante": "QUIMBAYO GOMEZ, DAVID F",
+  "titulares_local": [
+    "FERNANDEZ GARCIA, LUIS I",
+    "CASTROVIEJO CUADRA, MARIO",
+    "ALESANCO PRADO, OSCAR",
+    "SALINAS MARCA, PABLO",
+    "CASTUERA TUESTA, SERGIO",
+    "ARZA DEL REY, PABLO",
+    "HERNANI HERNAEZ, ALEJANDRO",
+    "CANCELO RIPA, UNAX",
+    "QUINTANILLA PEREZ, CARLOS",
+    "GARCIA GARNICA, VICTOR",
+    "RAYA ALONSO, DANIEL"
+  ],
+  "titulares_visitante": [
+    "BELLIDO NICOLAS, HECTOR",
+    "MEDRANO BODEGA, MARCOS",
+    "VALDEMOROS MARTÍNEZ, MIGUEL",
+    "AGUIRRE ROTA, UNAI",
+    "ARBIA CHLIQA, MARWAN",
+    "DIEZ JULIO, ADAHY",
+    "ORTIZ SOLIS, MANUEL FELIPE",
+    "RUIZ N PABLO, MARTIN",
+    "GONZALEZ IGLESIAS, VICTOR",
+    "ORTIZ SOLIS, MIGUEL A",
+    "MINUT, PAUL ANDRES"
+  ],
+  "suplentes_local": [
+    "CABALLERO DE SAS, UNAI",
+    "HERVIAS PEREZ, DANIEL",
+    "EL MARDI, YASIN",
+    "MARTINEZ PEREZ, ISMAEL",
+    "TRAPERO URIZ, MIGUEL",
+    "FERNANDEZ PAYUETA, DIEGO",
+    "GONZALEZ JIMENEZ, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "CASADO PEREZ, ARKAITZ",
+    "OCHOA MARTINEZ, IVAN",
+    "SAENZ RESCALVO, ENRIQUE",
+    "TOYAS MARIN, JAVIER",
+    "DRAGOTA, RAUL GEORGIAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "CABALLERO DE SAS, UNAI",
+    "MARTINEZ PEREZ, ISMAEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CASADO PEREZ, ARKAITZ"
+  ],
+  "jugadores_local": [
+    "FERNANDEZ GARCIA, LUIS I",
+    "CASTROVIEJO CUADRA, MARIO",
+    "ALESANCO PRADO, OSCAR",
+    "SALINAS MARCA, PABLO",
+    "CASTUERA TUESTA, SERGIO",
+    "ARZA DEL REY, PABLO",
+    "HERNANI HERNAEZ, ALEJANDRO",
+    "CANCELO RIPA, UNAX",
+    "QUINTANILLA PEREZ, CARLOS",
+    "GARCIA GARNICA, VICTOR",
+    "RAYA ALONSO, DANIEL",
+    "EL MARDI, YASIN",
+    "GONZALEZ JIMENEZ, ALVARO",
+    "HERVIAS PEREZ, DANIEL",
+    "TRAPERO URIZ, MIGUEL",
+    "FERNANDEZ PAYUETA, DIEGO"
+  ],
+  "jugadores_visitante": [
+    "BELLIDO NICOLAS, HECTOR",
+    "MEDRANO BODEGA, MARCOS",
+    "VALDEMOROS MARTÍNEZ, MIGUEL",
+    "AGUIRRE ROTA, UNAI",
+    "ARBIA CHLIQA, MARWAN",
+    "DIEZ JULIO, ADAHY",
+    "ORTIZ SOLIS, MANUEL FELIPE",
+    "RUIZ N PABLO, MARTIN",
+    "GONZALEZ IGLESIAS, VICTOR",
+    "ORTIZ SOLIS, MIGUEL A",
+    "MINUT, PAUL ANDRES",
+    "SAENZ RESCALVO, ENRIQUE",
+    "OCHOA MARTINEZ, IVAN",
+    "TOYAS MARIN, JAVIER",
+    "DRAGOTA, RAUL GEORGIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 67,
+      "entra": "EL MARDI, YASIN",
+      "sale": "HERNANI HERNAEZ, ALEJANDRO"
+    },
+    {
+      "min": 76,
+      "entra": "GONZALEZ JIMENEZ, ALVARO",
+      "sale": "RAYA ALONSO, DANIEL"
+    },
+    {
+      "min": 76,
+      "entra": "HERVIAS PEREZ, DANIEL",
+      "sale": "QUINTANILLA PEREZ, CARLOS"
+    },
+    {
+      "min": 76,
+      "entra": "TRAPERO URIZ, MIGUEL",
+      "sale": "ARZA DEL REY, PABLO"
+    },
+    {
+      "min": 79,
+      "entra": "FERNANDEZ PAYUETA, DIEGO",
+      "sale": "GARCIA GARNICA, VICTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 24,
+      "entra": "SAENZ RESCALVO, ENRIQUE",
+      "sale": "GONZALEZ IGLESIAS, VICTOR"
+    },
+    {
+      "min": 46,
+      "entra": "OCHOA MARTINEZ, IVAN",
+      "sale": "ARBIA CHLIQA, MARWAN"
+    },
+    {
+      "min": 46,
+      "entra": "TOYAS MARIN, JAVIER",
+      "sale": "DIEZ JULIO, ADAHY"
+    },
+    {
+      "min": 67,
+      "entra": "DRAGOTA, RAUL GEORGIAN",
+      "sale": "VALDEMOROS MARTÍNEZ, MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ GARCIA, LUIS I": 90,
+    "CASTROVIEJO CUADRA, MARIO": 90,
+    "ALESANCO PRADO, OSCAR": 90,
+    "SALINAS MARCA, PABLO": 90,
+    "CASTUERA TUESTA, SERGIO": 90,
+    "ARZA DEL REY, PABLO": 76,
+    "HERNANI HERNAEZ, ALEJANDRO": 67,
+    "CANCELO RIPA, UNAX": 90,
+    "QUINTANILLA PEREZ, CARLOS": 76,
+    "GARCIA GARNICA, VICTOR": 79,
+    "RAYA ALONSO, DANIEL": 76,
+    "EL MARDI, YASIN": 23,
+    "GONZALEZ JIMENEZ, ALVARO": 14,
+    "HERVIAS PEREZ, DANIEL": 14,
+    "TRAPERO URIZ, MIGUEL": 14,
+    "FERNANDEZ PAYUETA, DIEGO": 11,
+    "BELLIDO NICOLAS, HECTOR": 90,
+    "MEDRANO BODEGA, MARCOS": 90,
+    "VALDEMOROS MARTÍNEZ, MIGUEL": 67,
+    "AGUIRRE ROTA, UNAI": 90,
+    "ARBIA CHLIQA, MARWAN": 46,
+    "DIEZ JULIO, ADAHY": 46,
+    "ORTIZ SOLIS, MANUEL FELIPE": 90,
+    "RUIZ N PABLO, MARTIN": 90,
+    "GONZALEZ IGLESIAS, VICTOR": 24,
+    "ORTIZ SOLIS, MIGUEL A": 90,
+    "MINUT, PAUL ANDRES": 90,
+    "SAENZ RESCALVO, ENRIQUE": 66,
+    "OCHOA MARTINEZ, IVAN": 44,
+    "TOYAS MARIN, JAVIER": 44,
+    "DRAGOTA, RAUL GEORGIAN": 23
+  },
+  "portero_local": "FERNANDEZ GARCIA, LUIS I",
+  "portero_visitante": "BELLIDO NICOLAS, HECTOR",
+  "dorsales_local": {
+    "FERNANDEZ GARCIA, LUIS I": 1,
+    "CASTROVIEJO CUADRA, MARIO": 2,
+    "ALESANCO PRADO, OSCAR": 5,
+    "SALINAS MARCA, PABLO": 6,
+    "CASTUERA TUESTA, SERGIO": 10,
+    "ARZA DEL REY, PABLO": 14,
+    "HERNANI HERNAEZ, ALEJANDRO": 15,
+    "CANCELO RIPA, UNAX": 19,
+    "QUINTANILLA PEREZ, CARLOS": 20,
+    "GARCIA GARNICA, VICTOR": 23,
+    "RAYA ALONSO, DANIEL": 25
+  },
+  "dorsales_visitante": {
+    "BELLIDO NICOLAS, HECTOR": 1,
+    "MEDRANO BODEGA, MARCOS": 2,
+    "VALDEMOROS MARTÍNEZ, MIGUEL": 4,
+    "AGUIRRE ROTA, UNAI": 9,
+    "ARBIA CHLIQA, MARWAN": 11,
+    "DIEZ JULIO, ADAHY": 16,
+    "ORTIZ SOLIS, MANUEL FELIPE": 18,
+    "RUIZ N PABLO, MARTIN": 19,
+    "GONZALEZ IGLESIAS, VICTOR": 22,
+    "ORTIZ SOLIS, MIGUEL A": 23,
+    "MINUT, PAUL ANDRES": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
