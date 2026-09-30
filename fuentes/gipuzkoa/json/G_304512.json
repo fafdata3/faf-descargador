@@ -1,0 +1,301 @@
+{
+  "acta_id": "G_304512",
+  "filename": "Acta_G_304512.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "24-09-2023",
+  "hora": "17:30",
+  "categoria": "GIZONEZKOEN GORENGO MAILA / PREFERENTE MASCULINO (GRUPO - 2)",
+  "equipo_local": "URKI C.D.",
+  "equipo_visitante": "EUSKALDUNA S.D.",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ARAMBERRI VELEZ, ALEX",
+    "Árbitro Asistente",
+    "AZKUE ARSUAGA, IOSU",
+    "Árbitro Auxiliar",
+    "SANCHEZ MENDIBURU, JOKIN"
+  ],
+  "estadio": "UNBE INFERIOR",
+  "ciudad": "Eibar",
+  "goleadores": [
+    {
+      "minuto": 44,
+      "jugador": "BILBAO PINTO, MIKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "PARADA SOLER, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "CORTES ECHEVERRIA, GAIZKA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 44,
+      "jugador": "GABILONDO ITURRIOZ, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "BILBAO PINTO, MIKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "ARGENTE MURILLO, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 83,
+      "jugador": "ZUBIZARRETA ALCERRECA, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "CORTES ECHEVERRIA, GAIZKA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "ZUBIZARRETA ALCERRECA, ANER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "ARRUABARRENA CABRERA, IÑIGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GALLASTEGUI OTADUY, JOSE",
+  "entrenador_visitante": "ECHANIZ BEGUIRISTAIN, ASIER",
+  "segundo_entrenador_local": "ZUBIZARRETA DORRIO, ENRIQUE",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GALLASTEGUI OTADUY, JOSE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GAZTAÑAGA ARROSPIDE, AITOR",
+  "titulares_local": [
+    "MORA OSORO, JOSU",
+    "MADRIGAL URIONAGUENA, MARKEL",
+    "MARTINEZ DE LAGOS TELLERIA, ASIER",
+    "VILLAVA BASTARRICA, JON",
+    "ZUBIZARRETA ALCERRECA, ANER",
+    "KAREAGA SALIDO, GORKA",
+    "BILBAO PINTO, MIKEL",
+    "ARGENTE MURILLO, ANDER",
+    "GABILONDO ITURRIOZ, ANDER",
+    "MAGUNACELAYA ARGOITIA, ANDER",
+    "OROZ OCHANDIANO, ALEXANDER"
+  ],
+  "titulares_visitante": [
+    "DOMINGUEZ ELOSEGUI, JOSU",
+    "SETIEN IGUARAN, ANDER",
+    "BROSA LACALLE, UNAI",
+    "ARRUABARRENA CABRERA, IÑIGO",
+    "IRUIN ZORZANO, TELMO",
+    "ITURRARTE URRUTIA, JOANES",
+    "PARADA SOLER, OIER",
+    "RUIZ DE LARRINAGA TOME, IBAI",
+    "GURRUTXAGA AMONDARAIN, IMANOL",
+    "IPINTZA GURRUTXAGA, IKER",
+    "MURILLO TORREÑO, ASIER"
+  ],
+  "suplentes_local": [
+    "IBARZABAL SAMPEDRO, IKER",
+    "ZUBIZARRETA ALCERRECA, MARKEL",
+    "CORTES ECHEVERRIA, GAIZKA",
+    "ELEXPE AGUIRREGOMEZCORTA, AITOR",
+    "BLAS DEL BARRIO, JON",
+    "ZAMAKOLA ARAKISTAIN, OINATZ",
+    "OSORO AGIRREGABIRIA, PELLO"
+  ],
+  "suplentes_visitante": [
+    "TOLEDO DE CASA, ALVARO",
+    "ECHEVERRIA URRUTIA, JOEL",
+    "ZUBELDIA POZA, XABIER",
+    "BADALLO SANCHEZ, ANDONI",
+    "ORMAETXEA ETXEBERRIA, EKHI",
+    "CARREDANO IGERATEGI, MIKEL",
+    "AZPILLAGA PEREZ, ION"
+  ],
+  "convocados_sin_jugar_local": [
+    "IBARZABAL SAMPEDRO, IKER",
+    "ELEXPE AGUIRREGOMEZCORTA, AITOR",
+    "OSORO AGIRREGABIRIA, PELLO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ZUBELDIA POZA, XABIER",
+    "ORMAETXEA ETXEBERRIA, EKHI",
+    "CARREDANO IGERATEGI, MIKEL"
+  ],
+  "jugadores_local": [
+    "MORA OSORO, JOSU",
+    "MADRIGAL URIONAGUENA, MARKEL",
+    "MARTINEZ DE LAGOS TELLERIA, ASIER",
+    "VILLAVA BASTARRICA, JON",
+    "ZUBIZARRETA ALCERRECA, ANER",
+    "KAREAGA SALIDO, GORKA",
+    "BILBAO PINTO, MIKEL",
+    "ARGENTE MURILLO, ANDER",
+    "GABILONDO ITURRIOZ, ANDER",
+    "MAGUNACELAYA ARGOITIA, ANDER",
+    "OROZ OCHANDIANO, ALEXANDER",
+    "ZUBIZARRETA ALCERRECA, MARKEL",
+    "CORTES ECHEVERRIA, GAIZKA",
+    "BLAS DEL BARRIO, JON",
+    "ZAMAKOLA ARAKISTAIN, OINATZ"
+  ],
+  "jugadores_visitante": [
+    "DOMINGUEZ ELOSEGUI, JOSU",
+    "SETIEN IGUARAN, ANDER",
+    "BROSA LACALLE, UNAI",
+    "ARRUABARRENA CABRERA, IÑIGO",
+    "IRUIN ZORZANO, TELMO",
+    "ITURRARTE URRUTIA, JOANES",
+    "PARADA SOLER, OIER",
+    "RUIZ DE LARRINAGA TOME, IBAI",
+    "GURRUTXAGA AMONDARAIN, IMANOL",
+    "IPINTZA GURRUTXAGA, IKER",
+    "MURILLO TORREÑO, ASIER",
+    "TOLEDO DE CASA, ALVARO",
+    "ECHEVERRIA URRUTIA, JOEL",
+    "AZPILLAGA PEREZ, ION",
+    "BADALLO SANCHEZ, ANDONI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "ZUBIZARRETA ALCERRECA, MARKEL",
+      "sale": "GABILONDO ITURRIOZ, ANDER"
+    },
+    {
+      "min": 46,
+      "entra": "CORTES ECHEVERRIA, GAIZKA",
+      "sale": "MAGUNACELAYA ARGOITIA, ANDER"
+    },
+    {
+      "min": 66,
+      "entra": "BLAS DEL BARRIO, JON",
+      "sale": "KAREAGA SALIDO, GORKA"
+    },
+    {
+      "min": 66,
+      "entra": "ZAMAKOLA ARAKISTAIN, OINATZ",
+      "sale": "VILLAVA BASTARRICA, JON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 61,
+      "entra": "TOLEDO DE CASA, ALVARO",
+      "sale": "MURILLO TORREÑO, ASIER"
+    },
+    {
+      "min": 71,
+      "entra": "ECHEVERRIA URRUTIA, JOEL",
+      "sale": "IRUIN ZORZANO, TELMO"
+    },
+    {
+      "min": 82,
+      "entra": "AZPILLAGA PEREZ, ION",
+      "sale": "IPINTZA GURRUTXAGA, IKER"
+    },
+    {
+      "min": 82,
+      "entra": "BADALLO SANCHEZ, ANDONI",
+      "sale": "PARADA SOLER, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "MORA OSORO, JOSU": 90,
+    "MADRIGAL URIONAGUENA, MARKEL": 90,
+    "MARTINEZ DE LAGOS TELLERIA, ASIER": 90,
+    "VILLAVA BASTARRICA, JON": 66,
+    "ZUBIZARRETA ALCERRECA, ANER": 90,
+    "KAREAGA SALIDO, GORKA": 66,
+    "BILBAO PINTO, MIKEL": 90,
+    "ARGENTE MURILLO, ANDER": 90,
+    "GABILONDO ITURRIOZ, ANDER": 46,
+    "MAGUNACELAYA ARGOITIA, ANDER": 46,
+    "OROZ OCHANDIANO, ALEXANDER": 90,
+    "ZUBIZARRETA ALCERRECA, MARKEL": 44,
+    "CORTES ECHEVERRIA, GAIZKA": 44,
+    "BLAS DEL BARRIO, JON": 24,
+    "ZAMAKOLA ARAKISTAIN, OINATZ": 24,
+    "DOMINGUEZ ELOSEGUI, JOSU": 90,
+    "SETIEN IGUARAN, ANDER": 90,
+    "BROSA LACALLE, UNAI": 90,
+    "ARRUABARRENA CABRERA, IÑIGO": 90,
+    "IRUIN ZORZANO, TELMO": 71,
+    "ITURRARTE URRUTIA, JOANES": 90,
+    "PARADA SOLER, OIER": 82,
+    "RUIZ DE LARRINAGA TOME, IBAI": 90,
+    "GURRUTXAGA AMONDARAIN, IMANOL": 90,
+    "IPINTZA GURRUTXAGA, IKER": 82,
+    "MURILLO TORREÑO, ASIER": 61,
+    "TOLEDO DE CASA, ALVARO": 29,
+    "ECHEVERRIA URRUTIA, JOEL": 19,
+    "AZPILLAGA PEREZ, ION": 8,
+    "BADALLO SANCHEZ, ANDONI": 8
+  },
+  "portero_local": "MORA OSORO, JOSU",
+  "portero_visitante": "DOMINGUEZ ELOSEGUI, JOSU",
+  "dorsales_local": {
+    "MORA OSORO, JOSU": 1,
+    "MADRIGAL URIONAGUENA, MARKEL": 4,
+    "MARTINEZ DE LAGOS TELLERIA, ASIER": 5,
+    "VILLAVA BASTARRICA, JON": 8,
+    "ZUBIZARRETA ALCERRECA, ANER": 11,
+    "KAREAGA SALIDO, GORKA": 12,
+    "BILBAO PINTO, MIKEL": 14,
+    "ARGENTE MURILLO, ANDER": 15,
+    "GABILONDO ITURRIOZ, ANDER": 17,
+    "MAGUNACELAYA ARGOITIA, ANDER": 18,
+    "OROZ OCHANDIANO, ALEXANDER": 25
+  },
+  "dorsales_visitante": {
+    "DOMINGUEZ ELOSEGUI, JOSU": 1,
+    "SETIEN IGUARAN, ANDER": 2,
+    "BROSA LACALLE, UNAI": 3,
+    "ARRUABARRENA CABRERA, IÑIGO": 4,
+    "IRUIN ZORZANO, TELMO": 5,
+    "ITURRARTE URRUTIA, JOANES": 7,
+    "PARADA SOLER, OIER": 11,
+    "RUIZ DE LARRINAGA TOME, IBAI": 12,
+    "GURRUTXAGA AMONDARAIN, IMANOL": 20,
+    "IPINTZA GURRUTXAGA, IKER": 21,
+    "MURILLO TORREÑO, ASIER": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
