@@ -1,0 +1,244 @@
+{
+  "acta_id": "G_304572",
+  "filename": "Acta_G_304572.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 3,
+  "fecha": "30-09-2023",
+  "hora": "11:00",
+  "categoria": "GIZONEZKOEN OHOREZKO KADETE MAILA / CADETE DE HONOR MASCULINO (GRUPO - 2)",
+  "equipo_local": "MONDRAGON C.F.",
+  "equipo_visitante": "BEASAIN S.D.",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "CORREDOR BEJARANO, JHONATAN SEBASTIAN"
+  ],
+  "estadio": "MOJATEGI",
+  "ciudad": "Arrasate",
+  "goleadores": [
+    {
+      "minuto": 41,
+      "jugador": "JUARISTI BEREZIARTUA, BEÑAT",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "ARREGUI ABALIA, ALEX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "LASA GARMENDIA, AIMAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ARIZAGA MURILLO, GORKA",
+  "entrenador_visitante": "LIZARRAGA ESKISABEL, IRATZ",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "RAMIREZ BERRIO, JUAN GERARDO",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "PEREZ CAMBERO, JOSE ANTONIO",
+  "titulares_local": [
+    "AXPE GARRO, OIER",
+    "BENATMANE EL FUNTE, JAOIAD",
+    "RINCON MADINABEITIA, ALAIN",
+    "AGIRREURRETA LITAGO, GAIZKA",
+    "JUARISTI BEREZIARTUA, BEÑAT",
+    "VILLAR MORENO, IGOR",
+    "AFALLAH AZZOUZ, ABDESSAMAD",
+    "APRAIZ ARABIOURRUTIA, UHAITZ",
+    "UGARTECHE GARCIA, JULEN",
+    "ERAÑA EPELDE, MANEX",
+    "LASAGABASTER ZUBILLAGA, ARKAITZ"
+  ],
+  "titulares_visitante": [
+    "LASA AGUIRRE, ANDER",
+    "LASA AGUIRRE, MARKEL",
+    "MEDIAVILLA LIZARRALDE, MARKEL",
+    "LASA GARMENDIA, AIMAR",
+    "IZAGIRRE JUANENA, ENETZ",
+    "GOIBURU HERNANDEZ, EKHI",
+    "ARREGUI ABALIA, ALEX",
+    "LIZARRALDE QUEREJETA, BEÑAT",
+    "CORTES CASTAÑEDA, NICOLAS",
+    "ALONSO SORIO, XANET",
+    "BERASATEGI LARREA, ANDER"
+  ],
+  "suplentes_local": [
+    "DELGADO ESTRELLA, OIER",
+    "ARAMBURUZABALA RUEDA, JOSEBA",
+    "BLAZQUEZ DEL POZO, UNAX",
+    "ARANGUREN AZPILIKUETA, MANEX",
+    "MERCHAN VAZQUEZ, UNAX"
+  ],
+  "suplentes_visitante": [
+    "ITURRIOZ GARRO, ARATZ",
+    "GOIKOETXEA ITURRIOZ, ALAIN",
+    "COLLAZOS ALEGRIA, UGAITZ",
+    "UGALDE GOROSTIZU, MARKEL",
+    "VERDUGO GOICOECHEA, LIER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "ITURRIOZ GARRO, ARATZ"
+  ],
+  "jugadores_local": [
+    "AXPE GARRO, OIER",
+    "BENATMANE EL FUNTE, JAOIAD",
+    "RINCON MADINABEITIA, ALAIN",
+    "AGIRREURRETA LITAGO, GAIZKA",
+    "JUARISTI BEREZIARTUA, BEÑAT",
+    "VILLAR MORENO, IGOR",
+    "AFALLAH AZZOUZ, ABDESSAMAD",
+    "APRAIZ ARABIOURRUTIA, UHAITZ",
+    "UGARTECHE GARCIA, JULEN",
+    "ERAÑA EPELDE, MANEX",
+    "LASAGABASTER ZUBILLAGA, ARKAITZ",
+    "ARAMBURUZABALA RUEDA, JOSEBA",
+    "ARANGUREN AZPILIKUETA, MANEX",
+    "BLAZQUEZ DEL POZO, UNAX",
+    "MERCHAN VAZQUEZ, UNAX",
+    "DELGADO ESTRELLA, OIER"
+  ],
+  "jugadores_visitante": [
+    "LASA AGUIRRE, ANDER",
+    "LASA AGUIRRE, MARKEL",
+    "MEDIAVILLA LIZARRALDE, MARKEL",
+    "LASA GARMENDIA, AIMAR",
+    "IZAGIRRE JUANENA, ENETZ",
+    "GOIBURU HERNANDEZ, EKHI",
+    "ARREGUI ABALIA, ALEX",
+    "LIZARRALDE QUEREJETA, BEÑAT",
+    "CORTES CASTAÑEDA, NICOLAS",
+    "ALONSO SORIO, XANET",
+    "BERASATEGI LARREA, ANDER",
+    "UGALDE GOROSTIZU, MARKEL",
+    "COLLAZOS ALEGRIA, UGAITZ",
+    "GOIKOETXEA ITURRIOZ, ALAIN",
+    "VERDUGO GOICOECHEA, LIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "ARAMBURUZABALA RUEDA, JOSEBA",
+      "sale": "UGARTECHE GARCIA, JULEN"
+    },
+    {
+      "min": 63,
+      "entra": "ARANGUREN AZPILIKUETA, MANEX",
+      "sale": "LASAGABASTER ZUBILLAGA, ARKAITZ"
+    },
+    {
+      "min": 65,
+      "entra": "BLAZQUEZ DEL POZO, UNAX",
+      "sale": "BENATMANE EL FUNTE, JAOIAD"
+    },
+    {
+      "min": 71,
+      "entra": "MERCHAN VAZQUEZ, UNAX",
+      "sale": "AFALLAH AZZOUZ, ABDESSAMAD"
+    },
+    {
+      "min": 75,
+      "entra": "DELGADO ESTRELLA, OIER",
+      "sale": "BENATMANE EL FUNTE, JAOIAD"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 1,
+      "entra": "UGALDE GOROSTIZU, MARKEL",
+      "sale": "ARREGUI ABALIA, ALEX"
+    },
+    {
+      "min": 1,
+      "entra": "COLLAZOS ALEGRIA, UGAITZ",
+      "sale": "CORTES CASTAÑEDA, NICOLAS"
+    },
+    {
+      "min": 1,
+      "entra": "GOIKOETXEA ITURRIOZ, ALAIN",
+      "sale": "MEDIAVILLA LIZARRALDE, MARKEL"
+    },
+    {
+      "min": 1,
+      "entra": "VERDUGO GOICOECHEA, LIER",
+      "sale": "LASA GARMENDIA, AIMAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "AXPE GARRO, OIER": 90,
+    "BENATMANE EL FUNTE, JAOIAD": 75,
+    "RINCON MADINABEITIA, ALAIN": 90,
+    "AGIRREURRETA LITAGO, GAIZKA": 90,
+    "JUARISTI BEREZIARTUA, BEÑAT": 90,
+    "VILLAR MORENO, IGOR": 90,
+    "AFALLAH AZZOUZ, ABDESSAMAD": 71,
+    "APRAIZ ARABIOURRUTIA, UHAITZ": 90,
+    "UGARTECHE GARCIA, JULEN": 44,
+    "ERAÑA EPELDE, MANEX": 90,
+    "LASAGABASTER ZUBILLAGA, ARKAITZ": 63,
+    "ARAMBURUZABALA RUEDA, JOSEBA": 46,
+    "ARANGUREN AZPILIKUETA, MANEX": 27,
+    "BLAZQUEZ DEL POZO, UNAX": 25,
+    "MERCHAN VAZQUEZ, UNAX": 19,
+    "DELGADO ESTRELLA, OIER": 15,
+    "LASA AGUIRRE, ANDER": 90,
+    "LASA AGUIRRE, MARKEL": 90,
+    "MEDIAVILLA LIZARRALDE, MARKEL": 1,
+    "LASA GARMENDIA, AIMAR": 1,
+    "IZAGIRRE JUANENA, ENETZ": 90,
+    "GOIBURU HERNANDEZ, EKHI": 90,
+    "ARREGUI ABALIA, ALEX": 1,
+    "LIZARRALDE QUEREJETA, BEÑAT": 90,
+    "CORTES CASTAÑEDA, NICOLAS": 1,
+    "ALONSO SORIO, XANET": 90,
+    "BERASATEGI LARREA, ANDER": 90,
+    "UGALDE GOROSTIZU, MARKEL": 89,
+    "COLLAZOS ALEGRIA, UGAITZ": 89,
+    "GOIKOETXEA ITURRIOZ, ALAIN": 89,
+    "VERDUGO GOICOECHEA, LIER": 89
+  },
+  "portero_local": "AXPE GARRO, OIER",
+  "portero_visitante": "LASA AGUIRRE, ANDER",
+  "dorsales_local": {
+    "AXPE GARRO, OIER": 1,
+    "BENATMANE EL FUNTE, JAOIAD": 2,
+    "RINCON MADINABEITIA, ALAIN": 3,
+    "AGIRREURRETA LITAGO, GAIZKA": 4,
+    "JUARISTI BEREZIARTUA, BEÑAT": 5,
+    "VILLAR MORENO, IGOR": 6,
+    "AFALLAH AZZOUZ, ABDESSAMAD": 7,
+    "APRAIZ ARABIOURRUTIA, UHAITZ": 8,
+    "UGARTECHE GARCIA, JULEN": 9,
+    "ERAÑA EPELDE, MANEX": 10,
+    "LASAGABASTER ZUBILLAGA, ARKAITZ": 11
+  },
+  "dorsales_visitante": {
+    "LASA AGUIRRE, ANDER": 1,
+    "LASA AGUIRRE, MARKEL": 2,
+    "MEDIAVILLA LIZARRALDE, MARKEL": 3,
+    "LASA GARMENDIA, AIMAR": 4,
+    "IZAGIRRE JUANENA, ENETZ": 5,
+    "GOIBURU HERNANDEZ, EKHI": 6,
+    "ARREGUI ABALIA, ALEX": 7,
+    "LIZARRALDE QUEREJETA, BEÑAT": 8,
+    "CORTES CASTAÑEDA, NICOLAS": 9,
+    "ALONSO SORIO, XANET": 10,
+    "BERASATEGI LARREA, ANDER": 11
+  },
+  "suspendidos": []
+}
