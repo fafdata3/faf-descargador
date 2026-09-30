@@ -1,0 +1,243 @@
+{
+  "acta_id": "R_261413",
+  "filename": "Acta_R_261413.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "27-09-2026",
+  "hora": "11:30",
+  "categoria": "PRIMERA CADETE (Grupo Único)",
+  "equipo_local": "VALVANERA",
+  "equipo_visitante": "ALBERITE Valvanera Corima",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CARO GARRIDO, FABIO"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 6 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "BENMOUSSA AISSAT, IYAD",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "VICARIO GALARZA, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "GARCIA PASCUAL, SERGIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "BENMOUSSA AISSAT, IYAD",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 54,
+      "jugador": "DIEZ BAQUERO, CESAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "TAMAYO RODRIGUEZ, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "ROMERO SARRAMIAN, IVAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "MARIN MONEO, SANTIAGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "TIERNO GARCIA, JUAN IGNACIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "TIERNO GARCIA, JAIME",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    }
+  ],
+  "entrenador_local": "BARCINA RODRIGUEZ, SERGIO",
+  "entrenador_visitante": "TIERNO GARCIA, JUAN IGNACIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ESTEPA ÁLVAREZ, ÁLVARO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ESTEPA ÁLVAREZ, ÁLVARO",
+  "delegado_equipo_visitante": "TIERNO GARCIA, JAIME",
+  "titulares_local": [
+    "CABAÑERO SAIZ, HUGO",
+    "MUÑOZ RAMOS, DARIO",
+    "ESTEPA CENICEROS, MARCOS",
+    "GARCIA PASCUAL, SERGIO",
+    "DIEZ BAQUERO, CESAR",
+    "GIL IÑIGUEZ, CHRISTIAN",
+    "SANGARE DIAKITE, IBRAHIM ROBERTO",
+    "PEREZ RICO, ALEJANDRO",
+    "GARCIA CABELLO, JOAN SEBASTIAN",
+    "BENMOUSSA AISSAT, IYAD",
+    "GUINALDO BURGOS, OIER"
+  ],
+  "titulares_visitante": [
+    "MARTINEZ ALCALA, PABLO",
+    "MARTINEZ AMIANO, MIGUEL",
+    "TAMAYO RODRIGUEZ, LUCAS",
+    "MARIN MONEO, SANTIAGO",
+    "VICARIO GALARZA, ALVARO",
+    "ZORZANO NAJERA, ADRIAN",
+    "LANZA VALDIVIELSO, IZAN",
+    "GOMEZ LAZARO, RAFA",
+    "CHEBAA RADI DAMOUN, ILYAS",
+    "ROMERO SARRAMIAN, IVAN",
+    "ALVAREZ PENIN, RUBEN"
+  ],
+  "suplentes_local": [
+    "NAJERA VIGUERA, IBAI"
+  ],
+  "suplentes_visitante": [
+    "SALIM ANTAR, RAYAN",
+    "ORTIGOSA GARCIA, AIMAR"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CABAÑERO SAIZ, HUGO",
+    "MUÑOZ RAMOS, DARIO",
+    "ESTEPA CENICEROS, MARCOS",
+    "GARCIA PASCUAL, SERGIO",
+    "DIEZ BAQUERO, CESAR",
+    "GIL IÑIGUEZ, CHRISTIAN",
+    "SANGARE DIAKITE, IBRAHIM ROBERTO",
+    "PEREZ RICO, ALEJANDRO",
+    "GARCIA CABELLO, JOAN SEBASTIAN",
+    "BENMOUSSA AISSAT, IYAD",
+    "GUINALDO BURGOS, OIER",
+    "NAJERA VIGUERA, IBAI"
+  ],
+  "jugadores_visitante": [
+    "MARTINEZ ALCALA, PABLO",
+    "MARTINEZ AMIANO, MIGUEL",
+    "TAMAYO RODRIGUEZ, LUCAS",
+    "MARIN MONEO, SANTIAGO",
+    "VICARIO GALARZA, ALVARO",
+    "ZORZANO NAJERA, ADRIAN",
+    "LANZA VALDIVIELSO, IZAN",
+    "GOMEZ LAZARO, RAFA",
+    "CHEBAA RADI DAMOUN, ILYAS",
+    "ROMERO SARRAMIAN, IVAN",
+    "ALVAREZ PENIN, RUBEN",
+    "ORTIGOSA GARCIA, AIMAR",
+    "SALIM ANTAR, RAYAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "NAJERA VIGUERA, IBAI",
+      "sale": "MUÑOZ RAMOS, DARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "ORTIGOSA GARCIA, AIMAR",
+      "sale": "CHEBAA RADI DAMOUN, ILYAS"
+    },
+    {
+      "min": 61,
+      "entra": "SALIM ANTAR, RAYAN",
+      "sale": "MARIN MONEO, SANTIAGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "CABAÑERO SAIZ, HUGO": 90,
+    "MUÑOZ RAMOS, DARIO": 41,
+    "ESTEPA CENICEROS, MARCOS": 90,
+    "GARCIA PASCUAL, SERGIO": 90,
+    "DIEZ BAQUERO, CESAR": 90,
+    "GIL IÑIGUEZ, CHRISTIAN": 90,
+    "SANGARE DIAKITE, IBRAHIM ROBERTO": 90,
+    "PEREZ RICO, ALEJANDRO": 90,
+    "GARCIA CABELLO, JOAN SEBASTIAN": 90,
+    "BENMOUSSA AISSAT, IYAD": 90,
+    "GUINALDO BURGOS, OIER": 90,
+    "NAJERA VIGUERA, IBAI": 49,
+    "MARTINEZ ALCALA, PABLO": 90,
+    "MARTINEZ AMIANO, MIGUEL": 90,
+    "TAMAYO RODRIGUEZ, LUCAS": 90,
+    "MARIN MONEO, SANTIAGO": 61,
+    "VICARIO GALARZA, ALVARO": 90,
+    "ZORZANO NAJERA, ADRIAN": 90,
+    "LANZA VALDIVIELSO, IZAN": 90,
+    "GOMEZ LAZARO, RAFA": 90,
+    "CHEBAA RADI DAMOUN, ILYAS": 46,
+    "ROMERO SARRAMIAN, IVAN": 90,
+    "ALVAREZ PENIN, RUBEN": 90,
+    "ORTIGOSA GARCIA, AIMAR": 44,
+    "SALIM ANTAR, RAYAN": 29
+  },
+  "portero_local": "CABAÑERO SAIZ, HUGO",
+  "portero_visitante": "MARTINEZ ALCALA, PABLO",
+  "dorsales_local": {
+    "CABAÑERO SAIZ, HUGO": 13,
+    "MUÑOZ RAMOS, DARIO": 3,
+    "ESTEPA CENICEROS, MARCOS": 4,
+    "GARCIA PASCUAL, SERGIO": 6,
+    "DIEZ BAQUERO, CESAR": 7,
+    "GIL IÑIGUEZ, CHRISTIAN": 9,
+    "SANGARE DIAKITE, IBRAHIM ROBERTO": 10,
+    "PEREZ RICO, ALEJANDRO": 11,
+    "GARCIA CABELLO, JOAN SEBASTIAN": 12,
+    "BENMOUSSA AISSAT, IYAD": 16,
+    "GUINALDO BURGOS, OIER": 17
+  },
+  "dorsales_visitante": {
+    "MARTINEZ ALCALA, PABLO": 1,
+    "MARTINEZ AMIANO, MIGUEL": 2,
+    "TAMAYO RODRIGUEZ, LUCAS": 3,
+    "MARIN MONEO, SANTIAGO": 5,
+    "VICARIO GALARZA, ALVARO": 9,
+    "ZORZANO NAJERA, ADRIAN": 10,
+    "LANZA VALDIVIELSO, IZAN": 11,
+    "GOMEZ LAZARO, RAFA": 12,
+    "CHEBAA RADI DAMOUN, ILYAS": 14,
+    "ROMERO SARRAMIAN, IVAN": 19,
+    "ALVAREZ PENIN, RUBEN": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
