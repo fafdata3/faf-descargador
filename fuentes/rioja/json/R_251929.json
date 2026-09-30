@@ -1,0 +1,287 @@
+{
+  "acta_id": "R_251929",
+  "filename": "Acta_R_251929.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "18-10-2025",
+  "hora": "18:30",
+  "categoria": "TERCERA FEDERACIÓN DE FÚTBOL FEMENINO (Grupo 16)",
+  "equipo_local": "OYONESA",
+  "equipo_visitante": "VERDIBLANCOS PRADEJON",
+  "goles_local": 6,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CARO GARRIDO, FABIO",
+    "Árbitro Asistente",
+    "MONTES SAINZ A, ANGEL",
+    "Árbitro Asistente",
+    "PALACIOS ESTEBAN, PABLO"
+  ],
+  "estadio": "C.M. OION ARENA - H.A. (OYON)",
+  "ciudad": "Oyón-Oion",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "BARTOLOME ANGULO, ZURIÑE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "ALONSO GARCIA, CARMEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "ANGULO FAJARDO, ALEJANDRA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "LLEYDA JAURRIETA, CARLA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "ERDOCIAIN BARRAGAN, CELIA",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "SAENZ SERRANO, CARMEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 85,
+      "jugador": "ANGULO FAJARDO, ALEJANDRA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 87,
+      "jugador": "HERNANDEZ RUIZ, ANGELA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LARIOS SERRANO, MIGUEL",
+  "entrenador_visitante": "VEA OCON, RUBEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LLEYDA GOMEZ, GERMAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SERRANO RODRIGUEZ, LAURA",
+  "delegado_equipo_visitante": "EZQUERRO LOPEZ, MARIA",
+  "titulares_local": [
+    "SAENZ MENDOZA, AITANA",
+    "RODRIGUEZ HEREDIA, CARLA",
+    "BARTOLOME ANGULO, ZURIÑE",
+    "ALONSO GARCIA, CARMEN",
+    "PEREZ APIÑANIZ, ROCIO",
+    "LLEYDA JAURRIETA, CARLA",
+    "ANGULO FAJARDO, ALEJANDRA",
+    "SOMOVILLA DIEZ, CARMEN",
+    "RODRIGUEZ VILLADONIGA, ANIA",
+    "SAENZ SERRANO, CARMEN",
+    "RUIZ O SORIA, MARTINA"
+  ],
+  "titulares_visitante": [
+    "DOMINGUEZ HERREROS, LOLA",
+    "MARTINEZ MORENO, EMMA",
+    "RUBIO PEREZ, IRENE",
+    "CARRERAS ULECIA, ANDREA",
+    "JIMENEZ EZQUERRO, NURIA",
+    "RUBIO HERNANDEZ, TANIA",
+    "GURPEGUI ESPARZA, PAULA",
+    "URDIALES TOMAS, CLAUDIA",
+    "BAÑOL CASTAÑO, ALISON V",
+    "LAKHDIM HACHIMI, MYSSAA",
+    "LOBATO ESPINOSA, IRATI"
+  ],
+  "suplentes_local": [
+    "TURLAN ABAD, SILVIA",
+    "SAEZ PELLEJERO, CARLA",
+    "RESA MARIN, LUCIA",
+    "BELMONTE CASADO, ANA",
+    "SÁENZ MENDOZA, DIANA",
+    "RUPEREZ ALSASUA, MARIA"
+  ],
+  "suplentes_visitante": [
+    "SAIZ MACUA, LOLA",
+    "ERDOCIAIN BARRAGAN, CELIA",
+    "MORENO GIL, AROA",
+    "BRUÑA RUBIO, ANA",
+    "HERNANDEZ RUIZ, ANGELA"
+  ],
+  "convocados_sin_jugar_local": [
+    "TURLAN ABAD, SILVIA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SAIZ MACUA, LOLA"
+  ],
+  "jugadores_local": [
+    "SAENZ MENDOZA, AITANA",
+    "RODRIGUEZ HEREDIA, CARLA",
+    "BARTOLOME ANGULO, ZURIÑE",
+    "ALONSO GARCIA, CARMEN",
+    "PEREZ APIÑANIZ, ROCIO",
+    "LLEYDA JAURRIETA, CARLA",
+    "ANGULO FAJARDO, ALEJANDRA",
+    "SOMOVILLA DIEZ, CARMEN",
+    "RODRIGUEZ VILLADONIGA, ANIA",
+    "SAENZ SERRANO, CARMEN",
+    "RUIZ O SORIA, MARTINA",
+    "RESA MARIN, LUCIA",
+    "BELMONTE CASADO, ANA",
+    "SAEZ PELLEJERO, CARLA",
+    "SÁENZ MENDOZA, DIANA",
+    "RUPEREZ ALSASUA, MARIA"
+  ],
+  "jugadores_visitante": [
+    "DOMINGUEZ HERREROS, LOLA",
+    "MARTINEZ MORENO, EMMA",
+    "RUBIO PEREZ, IRENE",
+    "CARRERAS ULECIA, ANDREA",
+    "JIMENEZ EZQUERRO, NURIA",
+    "RUBIO HERNANDEZ, TANIA",
+    "GURPEGUI ESPARZA, PAULA",
+    "URDIALES TOMAS, CLAUDIA",
+    "BAÑOL CASTAÑO, ALISON V",
+    "LAKHDIM HACHIMI, MYSSAA",
+    "LOBATO ESPINOSA, IRATI",
+    "ERDOCIAIN BARRAGAN, CELIA",
+    "BRUÑA RUBIO, ANA",
+    "MORENO GIL, AROA",
+    "HERNANDEZ RUIZ, ANGELA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 62,
+      "entra": "RESA MARIN, LUCIA",
+      "sale": "BARTOLOME ANGULO, ZURIÑE"
+    },
+    {
+      "min": 62,
+      "entra": "BELMONTE CASADO, ANA",
+      "sale": "RODRIGUEZ VILLADONIGA, ANIA"
+    },
+    {
+      "min": 68,
+      "entra": "SAEZ PELLEJERO, CARLA",
+      "sale": "RODRIGUEZ HEREDIA, CARLA"
+    },
+    {
+      "min": 68,
+      "entra": "SÁENZ MENDOZA, DIANA",
+      "sale": "PEREZ APIÑANIZ, ROCIO"
+    },
+    {
+      "min": 68,
+      "entra": "RUPEREZ ALSASUA, MARIA",
+      "sale": "RUIZ O SORIA, MARTINA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 62,
+      "entra": "ERDOCIAIN BARRAGAN, CELIA",
+      "sale": "RUBIO HERNANDEZ, TANIA"
+    },
+    {
+      "min": 70,
+      "entra": "BRUÑA RUBIO, ANA",
+      "sale": "CARRERAS ULECIA, ANDREA"
+    },
+    {
+      "min": 81,
+      "entra": "MORENO GIL, AROA",
+      "sale": "MARTINEZ MORENO, EMMA"
+    },
+    {
+      "min": 81,
+      "entra": "HERNANDEZ RUIZ, ANGELA",
+      "sale": "URDIALES TOMAS, CLAUDIA"
+    }
+  ],
+  "minutos_jugadores": {
+    "SAENZ MENDOZA, AITANA": 90,
+    "RODRIGUEZ HEREDIA, CARLA": 68,
+    "BARTOLOME ANGULO, ZURIÑE": 62,
+    "ALONSO GARCIA, CARMEN": 90,
+    "PEREZ APIÑANIZ, ROCIO": 68,
+    "LLEYDA JAURRIETA, CARLA": 90,
+    "ANGULO FAJARDO, ALEJANDRA": 90,
+    "SOMOVILLA DIEZ, CARMEN": 90,
+    "RODRIGUEZ VILLADONIGA, ANIA": 62,
+    "SAENZ SERRANO, CARMEN": 90,
+    "RUIZ O SORIA, MARTINA": 68,
+    "RESA MARIN, LUCIA": 28,
+    "BELMONTE CASADO, ANA": 28,
+    "SAEZ PELLEJERO, CARLA": 22,
+    "SÁENZ MENDOZA, DIANA": 22,
+    "RUPEREZ ALSASUA, MARIA": 22,
+    "DOMINGUEZ HERREROS, LOLA": 90,
+    "MARTINEZ MORENO, EMMA": 81,
+    "RUBIO PEREZ, IRENE": 90,
+    "CARRERAS ULECIA, ANDREA": 70,
+    "JIMENEZ EZQUERRO, NURIA": 90,
+    "RUBIO HERNANDEZ, TANIA": 62,
+    "GURPEGUI ESPARZA, PAULA": 90,
+    "URDIALES TOMAS, CLAUDIA": 81,
+    "BAÑOL CASTAÑO, ALISON V": 90,
+    "LAKHDIM HACHIMI, MYSSAA": 90,
+    "LOBATO ESPINOSA, IRATI": 90,
+    "ERDOCIAIN BARRAGAN, CELIA": 28,
+    "BRUÑA RUBIO, ANA": 20,
+    "MORENO GIL, AROA": 9,
+    "HERNANDEZ RUIZ, ANGELA": 9
+  },
+  "portero_local": "SAENZ MENDOZA, AITANA",
+  "portero_visitante": "DOMINGUEZ HERREROS, LOLA",
+  "dorsales_local": {
+    "SAENZ MENDOZA, AITANA": 1,
+    "RODRIGUEZ HEREDIA, CARLA": 3,
+    "BARTOLOME ANGULO, ZURIÑE": 4,
+    "ALONSO GARCIA, CARMEN": 5,
+    "PEREZ APIÑANIZ, ROCIO": 6,
+    "LLEYDA JAURRIETA, CARLA": 8,
+    "ANGULO FAJARDO, ALEJANDRA": 9,
+    "SOMOVILLA DIEZ, CARMEN": 10,
+    "RODRIGUEZ VILLADONIGA, ANIA": 11,
+    "SAENZ SERRANO, CARMEN": 14,
+    "RUIZ O SORIA, MARTINA": 21
+  },
+  "dorsales_visitante": {
+    "DOMINGUEZ HERREROS, LOLA": 1,
+    "MARTINEZ MORENO, EMMA": 2,
+    "RUBIO PEREZ, IRENE": 3,
+    "CARRERAS ULECIA, ANDREA": 4,
+    "JIMENEZ EZQUERRO, NURIA": 5,
+    "RUBIO HERNANDEZ, TANIA": 6,
+    "GURPEGUI ESPARZA, PAULA": 7,
+    "URDIALES TOMAS, CLAUDIA": 8,
+    "BAÑOL CASTAÑO, ALISON V": 9,
+    "LAKHDIM HACHIMI, MYSSAA": 10,
+    "LOBATO ESPINOSA, IRATI": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
