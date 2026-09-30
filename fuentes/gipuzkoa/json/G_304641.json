@@ -1,0 +1,263 @@
+{
+  "acta_id": "G_304641",
+  "filename": "Acta_G_304641.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 3,
+  "fecha": "30-09-2023",
+  "hora": "12:45",
+  "categoria": "GIZONEZKOEN OHOREZKO KADETE MAILA / CADETE DE HONOR MASCULINO (GRUPO - 2)",
+  "equipo_local": "ZARAUTZ K.E.",
+  "equipo_visitante": "BILLABONA K.E.",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "BARRIOS CHAPARRO, ERIK"
+  ],
+  "estadio": "ASTI - TXIKI",
+  "ciudad": "Zarautz",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "CALVO LOINAZ, ALAIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "SAN SEBASTIAN MAYORA, AMETS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 61,
+      "jugador": "GABIRONDO CHURRUCA, PATXI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "OTXOA DE ERIBE GABIRONDO, MIKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 43,
+      "jugador": "GAZTAÑAGA MUGICA, ENAITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "GAZTAÑAGA MUGICA, ENAITZ",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA PEÑA, JON",
+  "entrenador_visitante": "AMUBIETA BENGOECHEA, ANDER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "LERCHUNDI BENGOECHEA, JULEN",
+  "delegado_campo_local": "IRIGOIEN ETXABE, ANDER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "IRIGOIEN ETXABE, ANDER",
+  "delegado_equipo_visitante": "GARCIA ECEIZA, GARIKOITZ",
+  "titulares_local": [
+    "OTXOA DE ERIBE GABIRONDO, MIKEL",
+    "FEIJOO LARRAMENDI, TELMO",
+    "SAN SEBASTIAN MAYORA, AMETS",
+    "SAN SEBASTIAN MAYORA, OIHAN",
+    "GONZALEZ NUÑEZ, EKHI",
+    "CASTRO TRINCADO, ARITZ",
+    "CID ESNAL, AIMAR",
+    "AZPITARTE ZULAICA, AIMAR",
+    "ARREGI ARAMBURU, JULEN",
+    "GABIRONDO CHURRUCA, PATXI",
+    "MORALES SANCHEZ, GORKA"
+  ],
+  "titulares_visitante": [
+    "SANZ IBARBURU, IKER",
+    "GAZTAÑAGA MUGICA, ENAITZ",
+    "PEÑA CARRETERO, MIKEL",
+    "SANTA CRUZ MEDRANO, OIER",
+    "CALVO LOINAZ, ALAIN",
+    "ABURUZA GOROSTIZU, EÑAUT",
+    "CALVO LOINAZ, IRAI",
+    "GOENAGA FAJARDO, IBAI LAZARO",
+    "ALVAREZ LIZARRAGA, INHAR",
+    "GURRUCHAGA MAIZA, AIMAR",
+    "DACOSTA ACEBO, ODEI"
+  ],
+  "suplentes_local": [
+    "URIA ARRUTI, JURGI",
+    "ARANAZ IBARGUREN, JOSEBA XABIER",
+    "MANTEROLA LARRAÑAGA, NIKOLAS",
+    "OTERMIN ORBEGOZO, HEGOI",
+    "ITXASO LOPETEGI, INDAR",
+    "PENCO MURUA, JULEN",
+    "AZKUE OSORO, IGOR"
+  ],
+  "suplentes_visitante": [
+    "ARTEAGA PALACIOS, LANDER",
+    "GONZALEZ URRUTIA, MANEX",
+    "VITORIA JAUREGUI, AIMAR",
+    "GALARRAGA ARRECHEA, AIUR"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARANAZ IBARGUREN, JOSEBA XABIER",
+    "MANTEROLA LARRAÑAGA, NIKOLAS",
+    "PENCO MURUA, JULEN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "OTXOA DE ERIBE GABIRONDO, MIKEL",
+    "FEIJOO LARRAMENDI, TELMO",
+    "SAN SEBASTIAN MAYORA, AMETS",
+    "SAN SEBASTIAN MAYORA, OIHAN",
+    "GONZALEZ NUÑEZ, EKHI",
+    "CASTRO TRINCADO, ARITZ",
+    "CID ESNAL, AIMAR",
+    "AZPITARTE ZULAICA, AIMAR",
+    "ARREGI ARAMBURU, JULEN",
+    "GABIRONDO CHURRUCA, PATXI",
+    "MORALES SANCHEZ, GORKA",
+    "URIA ARRUTI, JURGI",
+    "ITXASO LOPETEGI, INDAR",
+    "AZKUE OSORO, IGOR",
+    "OTERMIN ORBEGOZO, HEGOI"
+  ],
+  "jugadores_visitante": [
+    "SANZ IBARBURU, IKER",
+    "GAZTAÑAGA MUGICA, ENAITZ",
+    "PEÑA CARRETERO, MIKEL",
+    "SANTA CRUZ MEDRANO, OIER",
+    "CALVO LOINAZ, ALAIN",
+    "ABURUZA GOROSTIZU, EÑAUT",
+    "CALVO LOINAZ, IRAI",
+    "GOENAGA FAJARDO, IBAI LAZARO",
+    "ALVAREZ LIZARRAGA, INHAR",
+    "GURRUCHAGA MAIZA, AIMAR",
+    "DACOSTA ACEBO, ODEI",
+    "ARTEAGA PALACIOS, LANDER",
+    "GONZALEZ URRUTIA, MANEX",
+    "GALARRAGA ARRECHEA, AIUR",
+    "VITORIA JAUREGUI, AIMAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 7,
+      "entra": "URIA ARRUTI, JURGI",
+      "sale": "FEIJOO LARRAMENDI, TELMO"
+    },
+    {
+      "min": 45,
+      "entra": "ITXASO LOPETEGI, INDAR",
+      "sale": "MORALES SANCHEZ, GORKA"
+    },
+    {
+      "min": 54,
+      "entra": "AZKUE OSORO, IGOR",
+      "sale": "SAN SEBASTIAN MAYORA, OIHAN"
+    },
+    {
+      "min": 66,
+      "entra": "OTERMIN ORBEGOZO, HEGOI",
+      "sale": "ARREGI ARAMBURU, JULEN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "ARTEAGA PALACIOS, LANDER",
+      "sale": "DACOSTA ACEBO, ODEI"
+    },
+    {
+      "min": 51,
+      "entra": "GONZALEZ URRUTIA, MANEX",
+      "sale": "GURRUCHAGA MAIZA, AIMAR"
+    },
+    {
+      "min": 61,
+      "entra": "GALARRAGA ARRECHEA, AIUR",
+      "sale": "CALVO LOINAZ, ALAIN"
+    },
+    {
+      "min": 62,
+      "entra": "VITORIA JAUREGUI, AIMAR",
+      "sale": "ALVAREZ LIZARRAGA, INHAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "OTXOA DE ERIBE GABIRONDO, MIKEL": 90,
+    "FEIJOO LARRAMENDI, TELMO": 7,
+    "SAN SEBASTIAN MAYORA, AMETS": 90,
+    "SAN SEBASTIAN MAYORA, OIHAN": 54,
+    "GONZALEZ NUÑEZ, EKHI": 90,
+    "CASTRO TRINCADO, ARITZ": 90,
+    "CID ESNAL, AIMAR": 90,
+    "AZPITARTE ZULAICA, AIMAR": 90,
+    "ARREGI ARAMBURU, JULEN": 66,
+    "GABIRONDO CHURRUCA, PATXI": 90,
+    "MORALES SANCHEZ, GORKA": 45,
+    "URIA ARRUTI, JURGI": 83,
+    "ITXASO LOPETEGI, INDAR": 45,
+    "AZKUE OSORO, IGOR": 36,
+    "OTERMIN ORBEGOZO, HEGOI": 24,
+    "SANZ IBARBURU, IKER": 90,
+    "GAZTAÑAGA MUGICA, ENAITZ": 90,
+    "PEÑA CARRETERO, MIKEL": 90,
+    "SANTA CRUZ MEDRANO, OIER": 90,
+    "CALVO LOINAZ, ALAIN": 61,
+    "ABURUZA GOROSTIZU, EÑAUT": 90,
+    "CALVO LOINAZ, IRAI": 90,
+    "GOENAGA FAJARDO, IBAI LAZARO": 90,
+    "ALVAREZ LIZARRAGA, INHAR": 62,
+    "GURRUCHAGA MAIZA, AIMAR": 51,
+    "DACOSTA ACEBO, ODEI": 49,
+    "ARTEAGA PALACIOS, LANDER": 41,
+    "GONZALEZ URRUTIA, MANEX": 39,
+    "GALARRAGA ARRECHEA, AIUR": 29,
+    "VITORIA JAUREGUI, AIMAR": 28
+  },
+  "portero_local": "OTXOA DE ERIBE GABIRONDO, MIKEL",
+  "portero_visitante": "SANZ IBARBURU, IKER",
+  "dorsales_local": {
+    "OTXOA DE ERIBE GABIRONDO, MIKEL": 1,
+    "FEIJOO LARRAMENDI, TELMO": 3,
+    "SAN SEBASTIAN MAYORA, AMETS": 4,
+    "SAN SEBASTIAN MAYORA, OIHAN": 5,
+    "GONZALEZ NUÑEZ, EKHI": 6,
+    "CASTRO TRINCADO, ARITZ": 7,
+    "CID ESNAL, AIMAR": 9,
+    "AZPITARTE ZULAICA, AIMAR": 10,
+    "ARREGI ARAMBURU, JULEN": 11,
+    "GABIRONDO CHURRUCA, PATXI": 14,
+    "MORALES SANCHEZ, GORKA": 18
+  },
+  "dorsales_visitante": {
+    "SANZ IBARBURU, IKER": 1,
+    "GAZTAÑAGA MUGICA, ENAITZ": 3,
+    "PEÑA CARRETERO, MIKEL": 5,
+    "SANTA CRUZ MEDRANO, OIER": 6,
+    "CALVO LOINAZ, ALAIN": 8,
+    "ABURUZA GOROSTIZU, EÑAUT": 9,
+    "CALVO LOINAZ, IRAI": 10,
+    "GOENAGA FAJARDO, IBAI LAZARO": 11,
+    "ALVAREZ LIZARRAGA, INHAR": 17,
+    "GURRUCHAGA MAIZA, AIMAR": 18,
+    "DACOSTA ACEBO, ODEI": 22
+  },
+  "suspendidos": [
+    "GAZTAÑAGA MUGICA, ENAITZ"
+  ]
+}
