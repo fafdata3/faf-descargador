@@ -1,0 +1,245 @@
+{
+  "acta_id": "R_261415",
+  "filename": "Acta_R_261415.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "26-09-2026",
+  "hora": "11:30",
+  "categoria": "PRIMERA CADETE (Grupo Único)",
+  "equipo_local": "COMILLAS",
+  "equipo_visitante": "AZUL SPORT I Consult",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "OYON HIDALGO, RUBEN"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 2 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "CASTILLO GUERRERO, JEICO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "CASTILLO GUERRERO, JEICO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "ANDRES ZAMORA, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "DIEZ PEREGRINA, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [],
+  "entrenador_local": "GUILLAMON BEJAR, RAUL",
+  "entrenador_visitante": "RUBIO LAFUENTE, ALVARO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ASENSIO AGRUÑA, GAIZKA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ANDRES PEREZ, IGNACIO",
+  "delegado_equipo_visitante": "OCHOA CABRERA, DAVID",
+  "titulares_local": [
+    "MURO REINARES, JAVIER",
+    "CASTILLO GUERRERO, JEICO",
+    "COTELO HIDALGO, FABIO",
+    "AUSEJO SHVEDOV, DANIEL",
+    "MORGA MANZANARES, HUGO",
+    "SAGASTI VIGUERA, ASIER",
+    "TERROBA PEREZ, ALVARO",
+    "DE PABLO EXTREMIANA, HUGO",
+    "ANDRES ZAMORA, DANIEL",
+    "ANTOLIN FERNANDEZ, MARTIN",
+    "BURGOS GIL, MILLAN"
+  ],
+  "titulares_visitante": [
+    "MASIP MACIAS, MARIO",
+    "MIRANDA SAENZ, MIGUEL",
+    "MORENTIN LATORRE, RODRIGO",
+    "MARCO BELTRAN, LUIS",
+    "CALVO PEREZ, ADRIAN",
+    "SORIANO VASALDUA, DANIEL",
+    "MARTINEZ GARRIDO, NICOLAS",
+    "BEISTI PORRES, BRUNO",
+    "RINCON BOZA, ALVARO",
+    "AGUSTIN LOPEZ, IKER",
+    "OLIVAN VILLANUEVA, SERGIO"
+  ],
+  "suplentes_local": [
+    "ALONSO PALACIOS, ANTONIO",
+    "TELLECHEA VALENCIA, PEDRO ARITZ",
+    "QUIJANO GARCIA, MARIO"
+  ],
+  "suplentes_visitante": [
+    "JUBERA PEREZ, AARON",
+    "CALVO ALONSO, MARTIN",
+    "ESTEBAN SANCHO, ADRIAN",
+    "DURO GONZALEZ, ENZO",
+    "CENTENO BAJO, ALEJANDRO JOSE",
+    "DIEZ PEREGRINA, IZAN",
+    "NAVAJAS GARCIA, ALEX"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "JUBERA PEREZ, AARON",
+    "CENTENO BAJO, ALEJANDRO JOSE"
+  ],
+  "jugadores_local": [
+    "MURO REINARES, JAVIER",
+    "CASTILLO GUERRERO, JEICO",
+    "COTELO HIDALGO, FABIO",
+    "AUSEJO SHVEDOV, DANIEL",
+    "MORGA MANZANARES, HUGO",
+    "SAGASTI VIGUERA, ASIER",
+    "TERROBA PEREZ, ALVARO",
+    "DE PABLO EXTREMIANA, HUGO",
+    "ANDRES ZAMORA, DANIEL",
+    "ANTOLIN FERNANDEZ, MARTIN",
+    "BURGOS GIL, MILLAN",
+    "TELLECHEA VALENCIA, PEDRO ARITZ",
+    "QUIJANO GARCIA, MARIO",
+    "ALONSO PALACIOS, ANTONIO"
+  ],
+  "jugadores_visitante": [
+    "MASIP MACIAS, MARIO",
+    "MIRANDA SAENZ, MIGUEL",
+    "MORENTIN LATORRE, RODRIGO",
+    "MARCO BELTRAN, LUIS",
+    "CALVO PEREZ, ADRIAN",
+    "SORIANO VASALDUA, DANIEL",
+    "MARTINEZ GARRIDO, NICOLAS",
+    "BEISTI PORRES, BRUNO",
+    "RINCON BOZA, ALVARO",
+    "AGUSTIN LOPEZ, IKER",
+    "OLIVAN VILLANUEVA, SERGIO",
+    "DIEZ PEREGRINA, IZAN",
+    "DURO GONZALEZ, ENZO",
+    "CALVO ALONSO, MARTIN",
+    "ESTEBAN SANCHO, ADRIAN",
+    "NAVAJAS GARCIA, ALEX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "TELLECHEA VALENCIA, PEDRO ARITZ",
+      "sale": "TERROBA PEREZ, ALVARO"
+    },
+    {
+      "min": 51,
+      "entra": "QUIJANO GARCIA, MARIO",
+      "sale": "ANTOLIN FERNANDEZ, MARTIN"
+    },
+    {
+      "min": 67,
+      "entra": "ALONSO PALACIOS, ANTONIO",
+      "sale": "ANDRES ZAMORA, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "DIEZ PEREGRINA, IZAN",
+      "sale": "CALVO PEREZ, ADRIAN"
+    },
+    {
+      "min": 41,
+      "entra": "DURO GONZALEZ, ENZO",
+      "sale": "OLIVAN VILLANUEVA, SERGIO"
+    },
+    {
+      "min": 55,
+      "entra": "CALVO ALONSO, MARTIN",
+      "sale": "RINCON BOZA, ALVARO"
+    },
+    {
+      "min": 55,
+      "entra": "ESTEBAN SANCHO, ADRIAN",
+      "sale": "SORIANO VASALDUA, DANIEL"
+    },
+    {
+      "min": 73,
+      "entra": "NAVAJAS GARCIA, ALEX",
+      "sale": "BEISTI PORRES, BRUNO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MURO REINARES, JAVIER": 90,
+    "CASTILLO GUERRERO, JEICO": 90,
+    "COTELO HIDALGO, FABIO": 90,
+    "AUSEJO SHVEDOV, DANIEL": 90,
+    "MORGA MANZANARES, HUGO": 90,
+    "SAGASTI VIGUERA, ASIER": 90,
+    "TERROBA PEREZ, ALVARO": 51,
+    "DE PABLO EXTREMIANA, HUGO": 90,
+    "ANDRES ZAMORA, DANIEL": 67,
+    "ANTOLIN FERNANDEZ, MARTIN": 51,
+    "BURGOS GIL, MILLAN": 90,
+    "TELLECHEA VALENCIA, PEDRO ARITZ": 39,
+    "QUIJANO GARCIA, MARIO": 39,
+    "ALONSO PALACIOS, ANTONIO": 23,
+    "MASIP MACIAS, MARIO": 90,
+    "MIRANDA SAENZ, MIGUEL": 90,
+    "MORENTIN LATORRE, RODRIGO": 90,
+    "MARCO BELTRAN, LUIS": 90,
+    "CALVO PEREZ, ADRIAN": 41,
+    "SORIANO VASALDUA, DANIEL": 55,
+    "MARTINEZ GARRIDO, NICOLAS": 90,
+    "BEISTI PORRES, BRUNO": 73,
+    "RINCON BOZA, ALVARO": 55,
+    "AGUSTIN LOPEZ, IKER": 90,
+    "OLIVAN VILLANUEVA, SERGIO": 41,
+    "DIEZ PEREGRINA, IZAN": 49,
+    "DURO GONZALEZ, ENZO": 49,
+    "CALVO ALONSO, MARTIN": 35,
+    "ESTEBAN SANCHO, ADRIAN": 35,
+    "NAVAJAS GARCIA, ALEX": 17
+  },
+  "portero_local": "MURO REINARES, JAVIER",
+  "portero_visitante": "MASIP MACIAS, MARIO",
+  "dorsales_local": {
+    "MURO REINARES, JAVIER": 13,
+    "CASTILLO GUERRERO, JEICO": 2,
+    "COTELO HIDALGO, FABIO": 3,
+    "AUSEJO SHVEDOV, DANIEL": 4,
+    "MORGA MANZANARES, HUGO": 5,
+    "SAGASTI VIGUERA, ASIER": 6,
+    "TERROBA PEREZ, ALVARO": 7,
+    "DE PABLO EXTREMIANA, HUGO": 8,
+    "ANDRES ZAMORA, DANIEL": 10,
+    "ANTOLIN FERNANDEZ, MARTIN": 17,
+    "BURGOS GIL, MILLAN": 18
+  },
+  "dorsales_visitante": {
+    "MASIP MACIAS, MARIO": 13,
+    "MIRANDA SAENZ, MIGUEL": 3,
+    "MORENTIN LATORRE, RODRIGO": 5,
+    "MARCO BELTRAN, LUIS": 7,
+    "CALVO PEREZ, ADRIAN": 8,
+    "SORIANO VASALDUA, DANIEL": 9,
+    "MARTINEZ GARRIDO, NICOLAS": 10,
+    "BEISTI PORRES, BRUNO": 11,
+    "RINCON BOZA, ALVARO": 14,
+    "AGUSTIN LOPEZ, IKER": 15,
+    "OLIVAN VILLANUEVA, SERGIO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
