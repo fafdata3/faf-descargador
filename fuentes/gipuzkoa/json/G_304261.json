@@ -1,0 +1,292 @@
+{
+  "acta_id": "G_304261",
+  "filename": "Acta_G_304261.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "23-09-2023",
+  "hora": "11:00",
+  "categoria": "MUTILEN INFANTIL TXIKI / INFANTIL TXIKI MASCULINO (GRUPO - 2)",
+  "equipo_local": "TOURING K.E.",
+  "equipo_visitante": "ARRUPE CHAMINADE C.D.D.F.",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "QUEIRUGA VAZ-ROMERO, IKER"
+  ],
+  "estadio": "FANDERIA",
+  "ciudad": "Errenteria",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "ARCELUS SENDON, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "ARCELUS SENDON, XABI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "PONCE RODRIGUEZ, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "PONCE RODRIGUEZ, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "DI BARI ALONSO, IKER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 29,
+      "jugador": "ARRIZUBIETA GARAGORRI, LIHER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "DI BARI ALONSO, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "PONCE RODRIGUEZ, ALVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SULIBARRIA SUSPERREGUI, ENEKO",
+  "entrenador_visitante": "AMADOR CABALLE, EDSON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "SIERRA CAMPOO, FRANCISCO JAVIER",
+  "delegado_campo_local": "SULIBARRIA SUSPERREGUI, ENEKO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "BARBADO LOPEZ, OIER",
+    "ARRIZUBIETA GARAGORRI, LIHER",
+    "ERKIZIA SANZ, MIKEL",
+    "SAEZ ERDOCIA, JON",
+    "VELASCO LEUNDA, TELMO",
+    "VOZNIUK, BOHDAN",
+    "BENITO FERNANDEZ, ASIER",
+    "SALABERRIA GANBORENA, XUBAN",
+    "CIA SUSPERREGUI, ANJE",
+    "GARCIA SAN EUGENIO, HODEI",
+    "PABLO CORCHERO, ORIOL"
+  ],
+  "titulares_visitante": [
+    "LLAMES DIAZ, ALAIN",
+    "MANSOA ANTIA, TELMO",
+    "CUYAMI GAIZTARRO, IGNACIO",
+    "RONCERO OJEDA, JORGE",
+    "ARCELUS SENDON, XABI",
+    "CICILIANO BICA, GUILLERMO",
+    "YUBERO RUIZ DE MUNAIN, PABLO",
+    "BELLO MORAN, MATEO",
+    "ARCELUS SENDON, IVAN",
+    "BEÑARAN EZCURRA, DANIEL",
+    "DI BARI ALONSO, IKER"
+  ],
+  "suplentes_local": [
+    "GONZALEZ MERINO, AITOR",
+    "MUXIKA DIAZ, AIUR",
+    "FORMOSO CAMPO, LIHER",
+    "VELASCO VELASCO, GALDER"
+  ],
+  "suplentes_visitante": [
+    "SOTO VAAMONDE, FERNANDO",
+    "PONCE RODRIGUEZ, ALVARO",
+    "DORADO PEREZ, ALVARO",
+    "MARTIN USABIAGA, IGNACIO",
+    "ETXANIZ VILLANUEVA, JULEN",
+    "MIGUEZ CRESPO, EKAIN",
+    "CASTRO MUÑOZ, IRVING AUGUSTO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BARBADO LOPEZ, OIER",
+    "ARRIZUBIETA GARAGORRI, LIHER",
+    "ERKIZIA SANZ, MIKEL",
+    "SAEZ ERDOCIA, JON",
+    "VELASCO LEUNDA, TELMO",
+    "VOZNIUK, BOHDAN",
+    "BENITO FERNANDEZ, ASIER",
+    "SALABERRIA GANBORENA, XUBAN",
+    "CIA SUSPERREGUI, ANJE",
+    "GARCIA SAN EUGENIO, HODEI",
+    "PABLO CORCHERO, ORIOL",
+    "FORMOSO CAMPO, LIHER",
+    "MUXIKA DIAZ, AIUR",
+    "VELASCO VELASCO, GALDER",
+    "GONZALEZ MERINO, AITOR"
+  ],
+  "jugadores_visitante": [
+    "LLAMES DIAZ, ALAIN",
+    "MANSOA ANTIA, TELMO",
+    "CUYAMI GAIZTARRO, IGNACIO",
+    "RONCERO OJEDA, JORGE",
+    "ARCELUS SENDON, XABI",
+    "CICILIANO BICA, GUILLERMO",
+    "YUBERO RUIZ DE MUNAIN, PABLO",
+    "BELLO MORAN, MATEO",
+    "ARCELUS SENDON, IVAN",
+    "BEÑARAN EZCURRA, DANIEL",
+    "DI BARI ALONSO, IKER",
+    "SOTO VAAMONDE, FERNANDO",
+    "MARTIN USABIAGA, IGNACIO",
+    "CASTRO MUÑOZ, IRVING AUGUSTO",
+    "DORADO PEREZ, ALVARO",
+    "MIGUEZ CRESPO, EKAIN",
+    "PONCE RODRIGUEZ, ALVARO",
+    "ETXANIZ VILLANUEVA, JULEN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "FORMOSO CAMPO, LIHER",
+      "sale": "VOZNIUK, BOHDAN"
+    },
+    {
+      "min": 35,
+      "entra": "MUXIKA DIAZ, AIUR",
+      "sale": "BARBADO LOPEZ, OIER"
+    },
+    {
+      "min": 45,
+      "entra": "VELASCO VELASCO, GALDER",
+      "sale": "GARCIA SAN EUGENIO, HODEI"
+    },
+    {
+      "min": 45,
+      "entra": "GONZALEZ MERINO, AITOR",
+      "sale": "ARRIZUBIETA GARAGORRI, LIHER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "SOTO VAAMONDE, FERNANDO",
+      "sale": "YUBERO RUIZ DE MUNAIN, PABLO"
+    },
+    {
+      "min": 35,
+      "entra": "MARTIN USABIAGA, IGNACIO",
+      "sale": "RONCERO OJEDA, JORGE"
+    },
+    {
+      "min": 40,
+      "entra": "CASTRO MUÑOZ, IRVING AUGUSTO",
+      "sale": "BELLO MORAN, MATEO"
+    },
+    {
+      "min": 43,
+      "entra": "DORADO PEREZ, ALVARO",
+      "sale": "CUYAMI GAIZTARRO, IGNACIO"
+    },
+    {
+      "min": 47,
+      "entra": "MIGUEZ CRESPO, EKAIN",
+      "sale": "CICILIANO BICA, GUILLERMO"
+    },
+    {
+      "min": 47,
+      "entra": "PONCE RODRIGUEZ, ALVARO",
+      "sale": "BEÑARAN EZCURRA, DANIEL"
+    },
+    {
+      "min": 47,
+      "entra": "ETXANIZ VILLANUEVA, JULEN",
+      "sale": "ARCELUS SENDON, XABI"
+    }
+  ],
+  "minutos_jugadores": {
+    "BARBADO LOPEZ, OIER": 35,
+    "ARRIZUBIETA GARAGORRI, LIHER": 45,
+    "ERKIZIA SANZ, MIKEL": 90,
+    "SAEZ ERDOCIA, JON": 90,
+    "VELASCO LEUNDA, TELMO": 90,
+    "VOZNIUK, BOHDAN": 35,
+    "BENITO FERNANDEZ, ASIER": 90,
+    "SALABERRIA GANBORENA, XUBAN": 90,
+    "CIA SUSPERREGUI, ANJE": 90,
+    "GARCIA SAN EUGENIO, HODEI": 45,
+    "PABLO CORCHERO, ORIOL": 90,
+    "FORMOSO CAMPO, LIHER": 55,
+    "MUXIKA DIAZ, AIUR": 55,
+    "VELASCO VELASCO, GALDER": 45,
+    "GONZALEZ MERINO, AITOR": 45,
+    "LLAMES DIAZ, ALAIN": 90,
+    "MANSOA ANTIA, TELMO": 90,
+    "CUYAMI GAIZTARRO, IGNACIO": 43,
+    "RONCERO OJEDA, JORGE": 35,
+    "ARCELUS SENDON, XABI": 47,
+    "CICILIANO BICA, GUILLERMO": 47,
+    "YUBERO RUIZ DE MUNAIN, PABLO": 35,
+    "BELLO MORAN, MATEO": 40,
+    "ARCELUS SENDON, IVAN": 90,
+    "BEÑARAN EZCURRA, DANIEL": 47,
+    "DI BARI ALONSO, IKER": 90,
+    "SOTO VAAMONDE, FERNANDO": 55,
+    "MARTIN USABIAGA, IGNACIO": 55,
+    "CASTRO MUÑOZ, IRVING AUGUSTO": 50,
+    "DORADO PEREZ, ALVARO": 47,
+    "MIGUEZ CRESPO, EKAIN": 43,
+    "PONCE RODRIGUEZ, ALVARO": 43,
+    "ETXANIZ VILLANUEVA, JULEN": 43
+  },
+  "portero_local": "BARBADO LOPEZ, OIER",
+  "portero_visitante": "YUBERO RUIZ DE MUNAIN, PABLO",
+  "dorsales_local": {
+    "BARBADO LOPEZ, OIER": 1,
+    "ARRIZUBIETA GARAGORRI, LIHER": 2,
+    "ERKIZIA SANZ, MIKEL": 3,
+    "SAEZ ERDOCIA, JON": 4,
+    "VELASCO LEUNDA, TELMO": 6,
+    "VOZNIUK, BOHDAN": 7,
+    "BENITO FERNANDEZ, ASIER": 8,
+    "SALABERRIA GANBORENA, XUBAN": 9,
+    "CIA SUSPERREGUI, ANJE": 10,
+    "GARCIA SAN EUGENIO, HODEI": 11,
+    "PABLO CORCHERO, ORIOL": 15
+  },
+  "dorsales_visitante": {
+    "LLAMES DIAZ, ALAIN": 3,
+    "MANSOA ANTIA, TELMO": 4,
+    "CUYAMI GAIZTARRO, IGNACIO": 7,
+    "RONCERO OJEDA, JORGE": 8,
+    "ARCELUS SENDON, XABI": 10,
+    "CICILIANO BICA, GUILLERMO": 12,
+    "YUBERO RUIZ DE MUNAIN, PABLO": 13,
+    "BELLO MORAN, MATEO": 14,
+    "ARCELUS SENDON, IVAN": 19,
+    "BEÑARAN EZCURRA, DANIEL": 20,
+    "DI BARI ALONSO, IKER": 24
+  },
+  "suspendidos": []
+}
