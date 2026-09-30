@@ -1,0 +1,275 @@
+{
+  "acta_id": "G_304146",
+  "filename": "Acta_G_304146.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "16-09-2023",
+  "hora": "16:00",
+  "categoria": "GIZONEZKOEN OHOREZKO KADETE MAILA / CADETE DE HONOR MASCULINO (GRUPO - 1)",
+  "equipo_local": "EUSKALDUNA S.D.",
+  "equipo_visitante": "OIARTZUN K.E.",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "GOMEZ MARCOS, GORKA"
+  ],
+  "estadio": "ZUBIETA Z5",
+  "ciudad": "DONOSTIA",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "GARMENDIA OIARTZABAL, EKAIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "TOLOSA JIMENEZ, ILUN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "APEZETXEA SAAVEDRA, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 32,
+      "jugador": "ALONSO BAKERO, EKI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "VALDES NIETO, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "APEZETXEA SAAVEDRA, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA NIETO, ANDONI",
+  "entrenador_visitante": "GAZTELUMENDI MARTINEZ, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "TORON AYUSO, BEÑAT",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TORON AYUSO, BEÑAT",
+  "delegado_equipo_visitante": "OIARTZUN ESPINOSA, ZUHAITZ",
+  "titulares_local": [
+    "AZCUE BARRIO, ANDER",
+    "CILLERO DEL OLMO, GORKA",
+    "ALBIZU VAQUERO, AMETS",
+    "ALONSO BAKERO, EKI",
+    "VALDES NIETO, ALEJANDRO",
+    "IZAGIRRE ERRAZKIN, BEÑAT",
+    "SALGADO DIAZ, UNAI",
+    "ALCAIN URALDE, XIKER",
+    "TELLETXEA OYARZABAL, OIER",
+    "ICHASO VENTANAS, OIER",
+    "TOLOSA JIMENEZ, ILUN"
+  ],
+  "titulares_visitante": [
+    "TXOPEITIA DE MIGUEL, AIMAR",
+    "ARIZMENDI TELLECHEA, EKHI",
+    "LATORRE LARRAYA, NOAR",
+    "YARZA SAN SEBASTIAN, XUBAN",
+    "GARMENDIA OIARTZABAL, EKAIN",
+    "HERRERO OTAOLA, MARKEL",
+    "VARELA IPARRAGUIRRE, MARKEL",
+    "SARRIEGI MADARIAGA, AIUR",
+    "ARBELAIZ POBES, ANDER",
+    "BELOKI ZABALEGI, GEXAN",
+    "IRADI BELOKI, EKHI"
+  ],
+  "suplentes_local": [
+    "IRAZU RODRIGUEZ, UNAI",
+    "CALVO VEGA, DAVID",
+    "TENA TAPIA, ENEKO",
+    "VICENTE ARRANZ, ALEX",
+    "ICETA DORRONSORO, JON",
+    "AGUDO BONAFAU, MIKEL",
+    "ZABALETA HERNANDEZ, EKAIN"
+  ],
+  "suplentes_visitante": [
+    "ERCIBENGOA RECARTE, IÑAKI",
+    "RAZQUIN MORENO, ARETX",
+    "IÑIGO DE MIGUEL, IBAI",
+    "APEZETXEA SAAVEDRA, MARKEL",
+    "MUÑOZ PAGOLA, JON",
+    "ARRUABARRENA ZABALEGUI, ADEI",
+    "FERNANDEZ ALONSO, ANDRES"
+  ],
+  "convocados_sin_jugar_local": [
+    "IRAZU RODRIGUEZ, UNAI",
+    "CALVO VEGA, DAVID",
+    "AGUDO BONAFAU, MIKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "RAZQUIN MORENO, ARETX",
+    "IÑIGO DE MIGUEL, IBAI"
+  ],
+  "jugadores_local": [
+    "AZCUE BARRIO, ANDER",
+    "CILLERO DEL OLMO, GORKA",
+    "ALBIZU VAQUERO, AMETS",
+    "ALONSO BAKERO, EKI",
+    "VALDES NIETO, ALEJANDRO",
+    "IZAGIRRE ERRAZKIN, BEÑAT",
+    "SALGADO DIAZ, UNAI",
+    "ALCAIN URALDE, XIKER",
+    "TELLETXEA OYARZABAL, OIER",
+    "ICHASO VENTANAS, OIER",
+    "TOLOSA JIMENEZ, ILUN",
+    "ICETA DORRONSORO, JON",
+    "VICENTE ARRANZ, ALEX",
+    "TENA TAPIA, ENEKO",
+    "ZABALETA HERNANDEZ, EKAIN"
+  ],
+  "jugadores_visitante": [
+    "TXOPEITIA DE MIGUEL, AIMAR",
+    "ARIZMENDI TELLECHEA, EKHI",
+    "LATORRE LARRAYA, NOAR",
+    "YARZA SAN SEBASTIAN, XUBAN",
+    "GARMENDIA OIARTZABAL, EKAIN",
+    "HERRERO OTAOLA, MARKEL",
+    "VARELA IPARRAGUIRRE, MARKEL",
+    "SARRIEGI MADARIAGA, AIUR",
+    "ARBELAIZ POBES, ANDER",
+    "BELOKI ZABALEGI, GEXAN",
+    "IRADI BELOKI, EKHI",
+    "ERCIBENGOA RECARTE, IÑAKI",
+    "ARRUABARRENA ZABALEGUI, ADEI",
+    "APEZETXEA SAAVEDRA, MARKEL",
+    "MUÑOZ PAGOLA, JON",
+    "FERNANDEZ ALONSO, ANDRES"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "ICETA DORRONSORO, JON",
+      "sale": "ICHASO VENTANAS, OIER"
+    },
+    {
+      "min": 56,
+      "entra": "VICENTE ARRANZ, ALEX",
+      "sale": "TOLOSA JIMENEZ, ILUN"
+    },
+    {
+      "min": 67,
+      "entra": "TENA TAPIA, ENEKO",
+      "sale": "TELLETXEA OYARZABAL, OIER"
+    },
+    {
+      "min": 71,
+      "entra": "ZABALETA HERNANDEZ, EKAIN",
+      "sale": "ALBIZU VAQUERO, AMETS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "ERCIBENGOA RECARTE, IÑAKI",
+      "sale": "ARIZMENDI TELLECHEA, EKHI"
+    },
+    {
+      "min": 56,
+      "entra": "ARRUABARRENA ZABALEGUI, ADEI",
+      "sale": "SARRIEGI MADARIAGA, AIUR"
+    },
+    {
+      "min": 56,
+      "entra": "APEZETXEA SAAVEDRA, MARKEL",
+      "sale": "VARELA IPARRAGUIRRE, MARKEL"
+    },
+    {
+      "min": 66,
+      "entra": "MUÑOZ PAGOLA, JON",
+      "sale": "IRADI BELOKI, EKHI"
+    },
+    {
+      "min": 71,
+      "entra": "FERNANDEZ ALONSO, ANDRES",
+      "sale": "ARBELAIZ POBES, ANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "AZCUE BARRIO, ANDER": 90,
+    "CILLERO DEL OLMO, GORKA": 90,
+    "ALBIZU VAQUERO, AMETS": 71,
+    "ALONSO BAKERO, EKI": 90,
+    "VALDES NIETO, ALEJANDRO": 90,
+    "IZAGIRRE ERRAZKIN, BEÑAT": 90,
+    "SALGADO DIAZ, UNAI": 90,
+    "ALCAIN URALDE, XIKER": 90,
+    "TELLETXEA OYARZABAL, OIER": 67,
+    "ICHASO VENTANAS, OIER": 51,
+    "TOLOSA JIMENEZ, ILUN": 56,
+    "ICETA DORRONSORO, JON": 39,
+    "VICENTE ARRANZ, ALEX": 34,
+    "TENA TAPIA, ENEKO": 23,
+    "ZABALETA HERNANDEZ, EKAIN": 19,
+    "TXOPEITIA DE MIGUEL, AIMAR": 90,
+    "ARIZMENDI TELLECHEA, EKHI": 46,
+    "LATORRE LARRAYA, NOAR": 90,
+    "YARZA SAN SEBASTIAN, XUBAN": 90,
+    "GARMENDIA OIARTZABAL, EKAIN": 90,
+    "HERRERO OTAOLA, MARKEL": 90,
+    "VARELA IPARRAGUIRRE, MARKEL": 56,
+    "SARRIEGI MADARIAGA, AIUR": 56,
+    "ARBELAIZ POBES, ANDER": 71,
+    "BELOKI ZABALEGI, GEXAN": 90,
+    "IRADI BELOKI, EKHI": 66,
+    "ERCIBENGOA RECARTE, IÑAKI": 44,
+    "ARRUABARRENA ZABALEGUI, ADEI": 34,
+    "APEZETXEA SAAVEDRA, MARKEL": 34,
+    "MUÑOZ PAGOLA, JON": 24,
+    "FERNANDEZ ALONSO, ANDRES": 19
+  },
+  "portero_local": "AZCUE BARRIO, ANDER",
+  "portero_visitante": "TXOPEITIA DE MIGUEL, AIMAR",
+  "dorsales_local": {
+    "AZCUE BARRIO, ANDER": 1,
+    "CILLERO DEL OLMO, GORKA": 2,
+    "ALBIZU VAQUERO, AMETS": 3,
+    "ALONSO BAKERO, EKI": 4,
+    "VALDES NIETO, ALEJANDRO": 5,
+    "IZAGIRRE ERRAZKIN, BEÑAT": 8,
+    "SALGADO DIAZ, UNAI": 9,
+    "ALCAIN URALDE, XIKER": 10,
+    "TELLETXEA OYARZABAL, OIER": 15,
+    "ICHASO VENTANAS, OIER": 20,
+    "TOLOSA JIMENEZ, ILUN": 23
+  },
+  "dorsales_visitante": {
+    "TXOPEITIA DE MIGUEL, AIMAR": 1,
+    "ARIZMENDI TELLECHEA, EKHI": 2,
+    "LATORRE LARRAYA, NOAR": 3,
+    "YARZA SAN SEBASTIAN, XUBAN": 4,
+    "GARMENDIA OIARTZABAL, EKAIN": 5,
+    "HERRERO OTAOLA, MARKEL": 6,
+    "VARELA IPARRAGUIRRE, MARKEL": 7,
+    "SARRIEGI MADARIAGA, AIUR": 8,
+    "ARBELAIZ POBES, ANDER": 9,
+    "BELOKI ZABALEGI, GEXAN": 10,
+    "IRADI BELOKI, EKHI": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
