@@ -1,0 +1,255 @@
+{
+  "acta_id": "G_304235",
+  "filename": "Acta_G_304235.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "23-09-2023",
+  "hora": "10:00",
+  "categoria": "GIZONEZKO KADETEEN 1. MAILA / 1ª CADETE MASCULINO (GRUPO - 11)",
+  "equipo_local": "UROLA K.E. C",
+  "equipo_visitante": "BERGARA K.E. C",
+  "goles_local": 5,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CALVILLO LETURIA, JOSU"
+  ],
+  "estadio": "MITXEL BADIOLA",
+  "ciudad": "Zumarraga",
+  "goleadores": [
+    {
+      "minuto": 46,
+      "jugador": "SARASUA ZEBERIO, URTZI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "MERRES QAHOUI, RAFIK",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "MERRES QAHOUI, RAFIK",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "SARASUA ZEBERIO, URTZI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 71,
+      "jugador": "MERRES QAHOUI, RAFIK",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "DA SILVA GARCIA, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "ARRIOLA GALLASTEGUI, JULEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "ROMERO FINCIAS, AIMAR",
+    "LAHRACH EL BANOURI, MOHAMED SABIR",
+    "LEARG CHTIOUI, ADAM",
+    "MERRES QAHOUI, RAFIK",
+    "NDONGO NCOGO, ANTONIO-MBA",
+    "LETE CARRO, EÑAUT",
+    "CALVO URBIETA, ASIER",
+    "GARCIA PALACIN, ANDONI",
+    "FERNANDEZ ARIAS, JULEN",
+    "GORDILLO LORENTE, ANDONI"
+  ],
+  "titulares_visitante": [
+    "SAN ANDRES DOMINGUEZ, LANDER",
+    "UGARTE ARIZABALETA, XABIN",
+    "CACHAFEIRO DAVILA, MARCO",
+    "ANAKABE ITURBE, AIMAR",
+    "ESTEVEZ MORAL, DANEL",
+    "URZELAI GARCIA, PERU",
+    "ALZOLA ALTZERREKA, MARTIN",
+    "RASILLA MAESTRE, AIMAR",
+    "DA SILVA GARCIA, MARTIN",
+    "LARREA GANCHEGUI, ANER"
+  ],
+  "suplentes_local": [
+    "ARANBURU MENDIOLA, MANEX",
+    "LIZARRALDE MENDIZABAL, MARTIN",
+    "ALTUNA GORROTXATEGI, ANDER",
+    "BLAZQUEZ ALVAR, DAVID",
+    "GRANDE LOPEZ, UNAX",
+    "ALVIS GARCIA GIL, MIKEL"
+  ],
+  "suplentes_visitante": [
+    "ALBERDI LASAGABASTER, HAITZ",
+    "EGUREN MANTEROLA, ENEKO",
+    "MATILLA ZUBIA, OINATZ",
+    "LECETA ALBERDI, OIER",
+    "SARASUA ZEBERIO, URTZI"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARANBURU MENDIOLA, MANEX",
+    "ALVIS GARCIA GIL, MIKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "LECETA ALBERDI, OIER"
+  ],
+  "jugadores_local": [
+    "ROMERO FINCIAS, AIMAR",
+    "LAHRACH EL BANOURI, MOHAMED SABIR",
+    "LEARG CHTIOUI, ADAM",
+    "MERRES QAHOUI, RAFIK",
+    "NDONGO NCOGO, ANTONIO-MBA",
+    "LETE CARRO, EÑAUT",
+    "CALVO URBIETA, ASIER",
+    "GARCIA PALACIN, ANDONI",
+    "FERNANDEZ ARIAS, JULEN",
+    "GORDILLO LORENTE, ANDONI",
+    "LIZARRALDE MENDIZABAL, MARTIN",
+    "ALTUNA GORROTXATEGI, ANDER",
+    "BLAZQUEZ ALVAR, DAVID",
+    "GRANDE LOPEZ, UNAX"
+  ],
+  "jugadores_visitante": [
+    "SAN ANDRES DOMINGUEZ, LANDER",
+    "UGARTE ARIZABALETA, XABIN",
+    "CACHAFEIRO DAVILA, MARCO",
+    "ANAKABE ITURBE, AIMAR",
+    "ESTEVEZ MORAL, DANEL",
+    "URZELAI GARCIA, PERU",
+    "ALZOLA ALTZERREKA, MARTIN",
+    "RASILLA MAESTRE, AIMAR",
+    "DA SILVA GARCIA, MARTIN",
+    "LARREA GANCHEGUI, ANER",
+    "EGUREN MANTEROLA, ENEKO",
+    "SARASUA ZEBERIO, URTZI",
+    "MATILLA ZUBIA, OINATZ",
+    "ALBERDI LASAGABASTER, HAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "LIZARRALDE MENDIZABAL, MARTIN",
+      "sale": "GORDILLO LORENTE, ANDONI"
+    },
+    {
+      "min": 57,
+      "entra": "ALTUNA GORROTXATEGI, ANDER",
+      "sale": "LETE CARRO, EÑAUT"
+    },
+    {
+      "min": 67,
+      "entra": "BLAZQUEZ ALVAR, DAVID",
+      "sale": "CALVO URBIETA, ASIER"
+    },
+    {
+      "min": 67,
+      "entra": "GRANDE LOPEZ, UNAX",
+      "sale": "GARCIA PALACIN, ANDONI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "EGUREN MANTEROLA, ENEKO",
+      "sale": "CACHAFEIRO DAVILA, MARCO"
+    },
+    {
+      "min": 48,
+      "entra": "SARASUA ZEBERIO, URTZI",
+      "sale": "LARREA GANCHEGUI, ANER"
+    },
+    {
+      "min": 56,
+      "entra": "MATILLA ZUBIA, OINATZ",
+      "sale": "RASILLA MAESTRE, AIMAR"
+    },
+    {
+      "min": 56,
+      "entra": "ALBERDI LASAGABASTER, HAITZ",
+      "sale": "ALZOLA ALTZERREKA, MARTIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ROMERO FINCIAS, AIMAR": 90,
+    "LAHRACH EL BANOURI, MOHAMED SABIR": 90,
+    "LEARG CHTIOUI, ADAM": 90,
+    "MERRES QAHOUI, RAFIK": 90,
+    "NDONGO NCOGO, ANTONIO-MBA": 90,
+    "LETE CARRO, EÑAUT": 57,
+    "CALVO URBIETA, ASIER": 67,
+    "GARCIA PALACIN, ANDONI": 67,
+    "FERNANDEZ ARIAS, JULEN": 90,
+    "GORDILLO LORENTE, ANDONI": 54,
+    "LIZARRALDE MENDIZABAL, MARTIN": 36,
+    "ALTUNA GORROTXATEGI, ANDER": 33,
+    "BLAZQUEZ ALVAR, DAVID": 23,
+    "GRANDE LOPEZ, UNAX": 23,
+    "SAN ANDRES DOMINGUEZ, LANDER": 90,
+    "UGARTE ARIZABALETA, XABIN": 90,
+    "CACHAFEIRO DAVILA, MARCO": 40,
+    "ANAKABE ITURBE, AIMAR": 90,
+    "ESTEVEZ MORAL, DANEL": 90,
+    "URZELAI GARCIA, PERU": 90,
+    "ALZOLA ALTZERREKA, MARTIN": 56,
+    "RASILLA MAESTRE, AIMAR": 56,
+    "DA SILVA GARCIA, MARTIN": 90,
+    "LARREA GANCHEGUI, ANER": 48,
+    "EGUREN MANTEROLA, ENEKO": 50,
+    "SARASUA ZEBERIO, URTZI": 42,
+    "MATILLA ZUBIA, OINATZ": 34,
+    "ALBERDI LASAGABASTER, HAITZ": 34
+  },
+  "portero_local": "ROMERO FINCIAS, AIMAR",
+  "portero_visitante": "ESTEVEZ MORAL, DANEL",
+  "dorsales_local": {
+    "ROMERO FINCIAS, AIMAR": 1,
+    "LAHRACH EL BANOURI, MOHAMED SABIR": 4,
+    "LEARG CHTIOUI, ADAM": 5,
+    "MERRES QAHOUI, RAFIK": 7,
+    "NDONGO NCOGO, ANTONIO-MBA": 10,
+    "LETE CARRO, EÑAUT": 12,
+    "CALVO URBIETA, ASIER": 19,
+    "GARCIA PALACIN, ANDONI": 21,
+    "FERNANDEZ ARIAS, JULEN": 22,
+    "GORDILLO LORENTE, ANDONI": 24
+  },
+  "dorsales_visitante": {
+    "SAN ANDRES DOMINGUEZ, LANDER": 2,
+    "UGARTE ARIZABALETA, XABIN": 4,
+    "CACHAFEIRO DAVILA, MARCO": 7,
+    "ANAKABE ITURBE, AIMAR": 12,
+    "ESTEVEZ MORAL, DANEL": 13,
+    "URZELAI GARCIA, PERU": 14,
+    "ALZOLA ALTZERREKA, MARTIN": 15,
+    "RASILLA MAESTRE, AIMAR": 20,
+    "DA SILVA GARCIA, MARTIN": 25,
+    "LARREA GANCHEGUI, ANER": 34
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
