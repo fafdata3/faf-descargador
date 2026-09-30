@@ -1,0 +1,288 @@
+{
+  "acta_id": "G_304187",
+  "filename": "Acta_G_304187.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "16-09-2023",
+  "hora": "19:30",
+  "categoria": "GIZONEZKO JUBENILEN GORENGO MAILA / PREFERENTE JUVENIL MASCULINO (GRUPO - 1)",
+  "equipo_local": "SAN MARCIAL C.D. B",
+  "equipo_visitante": "EKINTZA K.E.",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "VISIERS SAINT-GERONS, PEDRO"
+  ],
+  "estadio": "SAN JOSE OBRERO",
+  "ciudad": "Irun",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "GONZALEZ DONAMARIA, TELMO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "ASCOZ RODRIGUEZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "ASCOZ RODRIGUEZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "IZAGUIRRE SILVA, LUKA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "PEREZ ECHEVESTE, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 7,
+      "jugador": "GONZALEZ DONAMARIA, TELMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "PEREZ ALBISTUR, MANUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "CABALLERO POZA, JULEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CUEVAS GARCIA, AITOR",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RAMAJO ALONSO, FRANCISCO JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "TAPIADOR TURNE, JOSU",
+  "titulares_local": [
+    "FERNANDEZ ACHUCARRO, AITOR",
+    "IZAGUIRRE SILVA, LUKA",
+    "HERNANDO GUEVARA, AIMAR",
+    "MANTEROLA POLO, AIMAR",
+    "ELIZALDE ARZAK, JULEN",
+    "EL HADDAR CHAHBOUN, MOHAMED",
+    "ARRUABARRENA RAMON, ENEKO",
+    "MUÑOZ AGUINAGA, JOSU",
+    "PEREZ ECHEVESTE, IKER",
+    "BENCHAREF ., ELIAS MOHAMED",
+    "ALIJOSTES MONTERO, HODEI"
+  ],
+  "titulares_visitante": [
+    "ANGULO MARTIN, ALEX",
+    "FERNANDEZ TORTOSA, ASIER",
+    "SAENZ REVUELTO, ALEMA",
+    "GONZALEZ DONAMARIA, TELMO",
+    "ASCOZ RODRIGUEZ, PABLO",
+    "IZAGIRRE RECONDO, PABLO",
+    "PEREZ ALBISTUR, MANUEL",
+    "ARANGUREN SERNA, PABLO",
+    "LINDNER IDIAQUEZ, LUIS",
+    "URRESTARAZU ALTUNA, IKER",
+    "ZUBIAGUIRRE DE MIGUEL, IÑIGO"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ ACHUCARRO, BEÑAT",
+    "IGUIÑIZ IZAGUIRRE, ANDER",
+    "SALGUERO VAZQUEZ, ANDONI",
+    "MARTINEZ OLAZABAL, JULEN",
+    "ZUBICOA PRIETO, ETHAN",
+    "PERURENA VALERO, UNAX"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ AZPEITIA, JESUS",
+    "CABALLERO POZA, JULEN",
+    "TOLOSA AGUDO, MARKEL",
+    "MUNIATEGUI LARRAÑAGA, PATXI",
+    "ZUBIAGUIRRE DE MIGUEL, ALVARO"
+  ],
+  "convocados_sin_jugar_local": [
+    "IGUIÑIZ IZAGUIRRE, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ ACHUCARRO, AITOR",
+    "IZAGUIRRE SILVA, LUKA",
+    "HERNANDO GUEVARA, AIMAR",
+    "MANTEROLA POLO, AIMAR",
+    "ELIZALDE ARZAK, JULEN",
+    "EL HADDAR CHAHBOUN, MOHAMED",
+    "ARRUABARRENA RAMON, ENEKO",
+    "MUÑOZ AGUINAGA, JOSU",
+    "PEREZ ECHEVESTE, IKER",
+    "BENCHAREF ., ELIAS MOHAMED",
+    "ALIJOSTES MONTERO, HODEI",
+    "FERNANDEZ ACHUCARRO, BEÑAT",
+    "MARTINEZ OLAZABAL, JULEN",
+    "ZUBICOA PRIETO, ETHAN",
+    "SALGUERO VAZQUEZ, ANDONI",
+    "PERURENA VALERO, UNAX"
+  ],
+  "jugadores_visitante": [
+    "ANGULO MARTIN, ALEX",
+    "FERNANDEZ TORTOSA, ASIER",
+    "SAENZ REVUELTO, ALEMA",
+    "GONZALEZ DONAMARIA, TELMO",
+    "ASCOZ RODRIGUEZ, PABLO",
+    "IZAGIRRE RECONDO, PABLO",
+    "PEREZ ALBISTUR, MANUEL",
+    "ARANGUREN SERNA, PABLO",
+    "LINDNER IDIAQUEZ, LUIS",
+    "URRESTARAZU ALTUNA, IKER",
+    "ZUBIAGUIRRE DE MIGUEL, IÑIGO",
+    "TOLOSA AGUDO, MARKEL",
+    "CABALLERO POZA, JULEN",
+    "FERNANDEZ AZPEITIA, JESUS",
+    "ZUBIAGUIRRE DE MIGUEL, ALVARO",
+    "MUNIATEGUI LARRAÑAGA, PATXI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "FERNANDEZ ACHUCARRO, BEÑAT",
+      "sale": "BENCHAREF ., ELIAS MOHAMED"
+    },
+    {
+      "min": 57,
+      "entra": "MARTINEZ OLAZABAL, JULEN",
+      "sale": "ELIZALDE ARZAK, JULEN"
+    },
+    {
+      "min": 57,
+      "entra": "ZUBICOA PRIETO, ETHAN",
+      "sale": "MUÑOZ AGUINAGA, JOSU"
+    },
+    {
+      "min": 70,
+      "entra": "SALGUERO VAZQUEZ, ANDONI",
+      "sale": "HERNANDO GUEVARA, AIMAR"
+    },
+    {
+      "min": 86,
+      "entra": "PERURENA VALERO, UNAX",
+      "sale": "PEREZ ECHEVESTE, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "TOLOSA AGUDO, MARKEL",
+      "sale": "ZUBIAGUIRRE DE MIGUEL, IÑIGO"
+    },
+    {
+      "min": 60,
+      "entra": "CABALLERO POZA, JULEN",
+      "sale": "LINDNER IDIAQUEZ, LUIS"
+    },
+    {
+      "min": 66,
+      "entra": "FERNANDEZ AZPEITIA, JESUS",
+      "sale": "SAENZ REVUELTO, ALEMA"
+    },
+    {
+      "min": 74,
+      "entra": "ZUBIAGUIRRE DE MIGUEL, ALVARO",
+      "sale": "ARANGUREN SERNA, PABLO"
+    },
+    {
+      "min": 74,
+      "entra": "MUNIATEGUI LARRAÑAGA, PATXI",
+      "sale": "PEREZ ALBISTUR, MANUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ ACHUCARRO, AITOR": 90,
+    "IZAGUIRRE SILVA, LUKA": 90,
+    "HERNANDO GUEVARA, AIMAR": 70,
+    "MANTEROLA POLO, AIMAR": 90,
+    "ELIZALDE ARZAK, JULEN": 57,
+    "EL HADDAR CHAHBOUN, MOHAMED": 90,
+    "ARRUABARRENA RAMON, ENEKO": 90,
+    "MUÑOZ AGUINAGA, JOSU": 57,
+    "PEREZ ECHEVESTE, IKER": 86,
+    "BENCHAREF ., ELIAS MOHAMED": 51,
+    "ALIJOSTES MONTERO, HODEI": 90,
+    "FERNANDEZ ACHUCARRO, BEÑAT": 39,
+    "MARTINEZ OLAZABAL, JULEN": 33,
+    "ZUBICOA PRIETO, ETHAN": 33,
+    "SALGUERO VAZQUEZ, ANDONI": 20,
+    "PERURENA VALERO, UNAX": 4,
+    "ANGULO MARTIN, ALEX": 90,
+    "FERNANDEZ TORTOSA, ASIER": 90,
+    "SAENZ REVUELTO, ALEMA": 66,
+    "GONZALEZ DONAMARIA, TELMO": 90,
+    "ASCOZ RODRIGUEZ, PABLO": 90,
+    "IZAGIRRE RECONDO, PABLO": 90,
+    "PEREZ ALBISTUR, MANUEL": 74,
+    "ARANGUREN SERNA, PABLO": 74,
+    "LINDNER IDIAQUEZ, LUIS": 60,
+    "URRESTARAZU ALTUNA, IKER": 90,
+    "ZUBIAGUIRRE DE MIGUEL, IÑIGO": 60,
+    "TOLOSA AGUDO, MARKEL": 30,
+    "CABALLERO POZA, JULEN": 30,
+    "FERNANDEZ AZPEITIA, JESUS": 24,
+    "ZUBIAGUIRRE DE MIGUEL, ALVARO": 16,
+    "MUNIATEGUI LARRAÑAGA, PATXI": 16
+  },
+  "portero_local": "FERNANDEZ ACHUCARRO, AITOR",
+  "portero_visitante": "ANGULO MARTIN, ALEX",
+  "dorsales_local": {
+    "FERNANDEZ ACHUCARRO, AITOR": 1,
+    "IZAGUIRRE SILVA, LUKA": 2,
+    "HERNANDO GUEVARA, AIMAR": 4,
+    "MANTEROLA POLO, AIMAR": 8,
+    "ELIZALDE ARZAK, JULEN": 10,
+    "EL HADDAR CHAHBOUN, MOHAMED": 11,
+    "ARRUABARRENA RAMON, ENEKO": 12,
+    "MUÑOZ AGUINAGA, JOSU": 18,
+    "PEREZ ECHEVESTE, IKER": 19,
+    "BENCHAREF ., ELIAS MOHAMED": 20,
+    "ALIJOSTES MONTERO, HODEI": 21
+  },
+  "dorsales_visitante": {
+    "ANGULO MARTIN, ALEX": 1,
+    "FERNANDEZ TORTOSA, ASIER": 3,
+    "SAENZ REVUELTO, ALEMA": 4,
+    "GONZALEZ DONAMARIA, TELMO": 6,
+    "ASCOZ RODRIGUEZ, PABLO": 7,
+    "IZAGIRRE RECONDO, PABLO": 10,
+    "PEREZ ALBISTUR, MANUEL": 11,
+    "ARANGUREN SERNA, PABLO": 12,
+    "LINDNER IDIAQUEZ, LUIS": 17,
+    "URRESTARAZU ALTUNA, IKER": 19,
+    "ZUBIAGUIRRE DE MIGUEL, IÑIGO": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
