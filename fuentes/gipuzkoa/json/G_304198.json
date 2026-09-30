@@ -1,0 +1,241 @@
+{
+  "acta_id": "G_304198",
+  "filename": "Acta_G_304198.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "17-09-2023",
+  "hora": "16:00",
+  "categoria": "GIZONEZKOEN OHOREZKO KADETE MAILA / CADETE DE HONOR MASCULINO (GRUPO - 2)",
+  "equipo_local": "TOLOSA C.F.",
+  "equipo_visitante": "BILLABONA K.E.",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CALVILLO LETURIA, JOSU"
+  ],
+  "estadio": "ARIZKORRETA",
+  "ciudad": "Idiazabal",
+  "goleadores": [
+    {
+      "minuto": 80,
+      "jugador": "AGUIRREZABALA MURUA, UGAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 72,
+      "jugador": "SANTA CRUZ MEDRANO, OIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CIPITRIA BERNABE, ANDER",
+  "entrenador_visitante": "AMUBIETA BENGOECHEA, ANDER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "LERCHUNDI BENGOECHEA, JULEN",
+  "delegado_campo_local": "LOPEZ SANCHEZ, RUBEN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GARCIA ECEIZA, GARIKOITZ",
+  "titulares_local": [
+    "MENDIZABAL ETXEZARRETA, UNAX",
+    "AGUIRREZABALA MURUA, UGAITZ",
+    "GARMENDIA LOPEZ, ARATZ",
+    "GALARZA GARMENDIA, EÑAUT",
+    "DIAZ DE ALDA SARASOLA, EUSKO",
+    "UGARTEMENDIA MENDEZ, IKER",
+    "CONDE MURUGARREN, OXEL",
+    "ARAMENDI ARABAOLAZA, TELMO",
+    "ZABALA REZOLA, GOAR",
+    "ERRAZKIN JAUREGI, INHAR",
+    "AZCUE NARRO, IBON"
+  ],
+  "titulares_visitante": [
+    "SANZ IBARBURU, IKER",
+    "ARRUABARRENA ECHAVE, XABAT",
+    "GAZTAÑAGA MUGICA, ENAITZ",
+    "ECHEVESTE UGALDE, ANDER",
+    "PEÑA CARRETERO, MIKEL",
+    "SANTA CRUZ MEDRANO, OIER",
+    "CALVO LOINAZ, ALAIN",
+    "ABURUZA GOROSTIZU, EÑAUT",
+    "CALVO LOINAZ, IRAI",
+    "GURRUCHAGA MAIZA, AIMAR",
+    "DACOSTA ACEBO, ODEI"
+  ],
+  "suplentes_local": [
+    "DE LA PARRA OTAMENDI, IKER",
+    "IRAETA ARROSPIDE, URKO",
+    "JAUREGUI BARANDIARAN, MARKEL",
+    "GUERRA RODRIGUEZ, PAUL",
+    "LUENGO OTAMENDI, ANDU",
+    "UNANUE ARMENDARIZ, ANER"
+  ],
+  "suplentes_visitante": [
+    "ARTEAGA PALACIOS, LANDER",
+    "GOENAGA FAJARDO, IBAI LAZARO",
+    "VIDAURRETA GALARZA, MANEX",
+    "ALVAREZ LIZARRAGA, INHAR",
+    "ETXEBERRIA ETXABE, JULEN"
+  ],
+  "convocados_sin_jugar_local": [
+    "DE LA PARRA OTAMENDI, IKER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALVAREZ LIZARRAGA, INHAR"
+  ],
+  "jugadores_local": [
+    "MENDIZABAL ETXEZARRETA, UNAX",
+    "AGUIRREZABALA MURUA, UGAITZ",
+    "GARMENDIA LOPEZ, ARATZ",
+    "GALARZA GARMENDIA, EÑAUT",
+    "DIAZ DE ALDA SARASOLA, EUSKO",
+    "UGARTEMENDIA MENDEZ, IKER",
+    "CONDE MURUGARREN, OXEL",
+    "ARAMENDI ARABAOLAZA, TELMO",
+    "ZABALA REZOLA, GOAR",
+    "ERRAZKIN JAUREGI, INHAR",
+    "AZCUE NARRO, IBON",
+    "UNANUE ARMENDARIZ, ANER",
+    "GUERRA RODRIGUEZ, PAUL",
+    "JAUREGUI BARANDIARAN, MARKEL",
+    "LUENGO OTAMENDI, ANDU",
+    "IRAETA ARROSPIDE, URKO"
+  ],
+  "jugadores_visitante": [
+    "SANZ IBARBURU, IKER",
+    "ARRUABARRENA ECHAVE, XABAT",
+    "GAZTAÑAGA MUGICA, ENAITZ",
+    "ECHEVESTE UGALDE, ANDER",
+    "PEÑA CARRETERO, MIKEL",
+    "SANTA CRUZ MEDRANO, OIER",
+    "CALVO LOINAZ, ALAIN",
+    "ABURUZA GOROSTIZU, EÑAUT",
+    "CALVO LOINAZ, IRAI",
+    "GURRUCHAGA MAIZA, AIMAR",
+    "DACOSTA ACEBO, ODEI",
+    "ARTEAGA PALACIOS, LANDER",
+    "GOENAGA FAJARDO, IBAI LAZARO",
+    "VIDAURRETA GALARZA, MANEX",
+    "ETXEBERRIA ETXABE, JULEN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "UNANUE ARMENDARIZ, ANER",
+      "sale": "CONDE MURUGARREN, OXEL"
+    },
+    {
+      "min": 53,
+      "entra": "GUERRA RODRIGUEZ, PAUL",
+      "sale": "GALARZA GARMENDIA, EÑAUT"
+    },
+    {
+      "min": 53,
+      "entra": "JAUREGUI BARANDIARAN, MARKEL",
+      "sale": "AZCUE NARRO, IBON"
+    },
+    {
+      "min": 67,
+      "entra": "LUENGO OTAMENDI, ANDU",
+      "sale": "DIAZ DE ALDA SARASOLA, EUSKO"
+    },
+    {
+      "min": 72,
+      "entra": "IRAETA ARROSPIDE, URKO",
+      "sale": "MENDIZABAL ETXEZARRETA, UNAX"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "ARTEAGA PALACIOS, LANDER",
+      "sale": "CALVO LOINAZ, ALAIN"
+    },
+    {
+      "min": 58,
+      "entra": "GOENAGA FAJARDO, IBAI LAZARO",
+      "sale": "DACOSTA ACEBO, ODEI"
+    },
+    {
+      "min": 66,
+      "entra": "VIDAURRETA GALARZA, MANEX",
+      "sale": "GURRUCHAGA MAIZA, AIMAR"
+    },
+    {
+      "min": 80,
+      "entra": "ETXEBERRIA ETXABE, JULEN",
+      "sale": "ABURUZA GOROSTIZU, EÑAUT"
+    }
+  ],
+  "minutos_jugadores": {
+    "MENDIZABAL ETXEZARRETA, UNAX": 72,
+    "AGUIRREZABALA MURUA, UGAITZ": 90,
+    "GARMENDIA LOPEZ, ARATZ": 90,
+    "GALARZA GARMENDIA, EÑAUT": 53,
+    "DIAZ DE ALDA SARASOLA, EUSKO": 67,
+    "UGARTEMENDIA MENDEZ, IKER": 90,
+    "CONDE MURUGARREN, OXEL": 40,
+    "ARAMENDI ARABAOLAZA, TELMO": 90,
+    "ZABALA REZOLA, GOAR": 90,
+    "ERRAZKIN JAUREGI, INHAR": 90,
+    "AZCUE NARRO, IBON": 53,
+    "UNANUE ARMENDARIZ, ANER": 50,
+    "GUERRA RODRIGUEZ, PAUL": 37,
+    "JAUREGUI BARANDIARAN, MARKEL": 37,
+    "LUENGO OTAMENDI, ANDU": 23,
+    "IRAETA ARROSPIDE, URKO": 18,
+    "SANZ IBARBURU, IKER": 90,
+    "ARRUABARRENA ECHAVE, XABAT": 90,
+    "GAZTAÑAGA MUGICA, ENAITZ": 90,
+    "ECHEVESTE UGALDE, ANDER": 90,
+    "PEÑA CARRETERO, MIKEL": 90,
+    "SANTA CRUZ MEDRANO, OIER": 90,
+    "CALVO LOINAZ, ALAIN": 51,
+    "ABURUZA GOROSTIZU, EÑAUT": 80,
+    "CALVO LOINAZ, IRAI": 90,
+    "GURRUCHAGA MAIZA, AIMAR": 66,
+    "DACOSTA ACEBO, ODEI": 58,
+    "ARTEAGA PALACIOS, LANDER": 39,
+    "GOENAGA FAJARDO, IBAI LAZARO": 32,
+    "VIDAURRETA GALARZA, MANEX": 24,
+    "ETXEBERRIA ETXABE, JULEN": 10
+  },
+  "portero_local": "ERRAZKIN JAUREGI, INHAR",
+  "portero_visitante": "SANZ IBARBURU, IKER",
+  "dorsales_local": {
+    "MENDIZABAL ETXEZARRETA, UNAX": 2,
+    "AGUIRREZABALA MURUA, UGAITZ": 4,
+    "GARMENDIA LOPEZ, ARATZ": 5,
+    "GALARZA GARMENDIA, EÑAUT": 6,
+    "DIAZ DE ALDA SARASOLA, EUSKO": 7,
+    "UGARTEMENDIA MENDEZ, IKER": 8,
+    "CONDE MURUGARREN, OXEL": 9,
+    "ARAMENDI ARABAOLAZA, TELMO": 10,
+    "ZABALA REZOLA, GOAR": 11,
+    "ERRAZKIN JAUREGI, INHAR": 13,
+    "AZCUE NARRO, IBON": 14
+  },
+  "dorsales_visitante": {
+    "SANZ IBARBURU, IKER": 1,
+    "ARRUABARRENA ECHAVE, XABAT": 2,
+    "GAZTAÑAGA MUGICA, ENAITZ": 3,
+    "ECHEVESTE UGALDE, ANDER": 4,
+    "PEÑA CARRETERO, MIKEL": 5,
+    "SANTA CRUZ MEDRANO, OIER": 6,
+    "CALVO LOINAZ, ALAIN": 8,
+    "ABURUZA GOROSTIZU, EÑAUT": 9,
+    "CALVO LOINAZ, IRAI": 10,
+    "GURRUCHAGA MAIZA, AIMAR": 18,
+    "DACOSTA ACEBO, ODEI": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
