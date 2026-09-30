@@ -1,0 +1,238 @@
+{
+  "acta_id": "G_304234",
+  "filename": "Acta_G_304234.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "23-09-2023",
+  "hora": "09:45",
+  "categoria": "EMAKUMEZKO KADETEEN 1. MAILA / 1ª CADETE FEMENINO (GRUPO - 2)",
+  "equipo_local": "INTXAURDI C.D. C",
+  "equipo_visitante": "URNIETA K.E.",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "MARTINEZ VIGARA, CARLOS"
+  ],
+  "estadio": "CESAR BENITO",
+  "ciudad": "DONOSTIA",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "DIAZ DE MENDIVIL GARCIA, SARA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "DIAZ DE MENDIVIL GARCIA, SARA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "PAMPANO VIZCAINO, ANNE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "GARCIA GONZALEZ, LAIA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "DIAZ DE MENDIVIL GARCIA, SARA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 25,
+      "jugador": "ACHAGA ROBLES, LEIRE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "DE TORRES BILBAO, ALOÑA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "BEOBIDE FRIAS, MALEN",
+    "ECHEVESTE JAUREGUI, INTZA",
+    "GARCIA GONZALEZ, LAIA",
+    "GOÑI BADIOLA, ANE",
+    "MUGUERZA MARTINEZ, LIBE",
+    "SANZ VILLORIA, NAHIA",
+    "SANTOS CRUZ, MAIALEN",
+    "DIAZ DE MENDIVIL GARCIA, SARA",
+    "RODRIGUEZ REY, UXIA",
+    "PAMPANO VIZCAINO, ANNE",
+    "ZUBILLAGA CABADA, MAREN"
+  ],
+  "titulares_visitante": [
+    "RAGANI EL AMRANI, MAISAE",
+    "ACHAGA ROBLES, LEIRE",
+    "MANTEROLA GARMENDIA, LOREA",
+    "GARCIA MUGICA, EIDER",
+    "AGIRRE LIZASO, NORA",
+    "EXPOSITO IBARBIA, NAROA",
+    "AYERZA MUGICA, AIORA",
+    "KORTAXARENA GURRUTXAGA, ELENE",
+    "MIRANDA REZABAL, JUNE",
+    "DEL SOL OYARBIDE, IRAIA",
+    "GARCIA ZIAURRITZ, AIORA"
+  ],
+  "suplentes_local": [
+    "PISANI ANDONEGUI, IZAR",
+    "KOUHAL HERNANDEZ, NOUR"
+  ],
+  "suplentes_visitante": [
+    "BLAZQUEZ GUERRA, ENARA",
+    "CLAUDINO SANCHEZ, DANIELA",
+    "AMIGO POZAS, CLAUDIA",
+    "MARTINEZ ECHENIQUE, ANE",
+    "MARIS SABER, MALAK",
+    "REVUELTA NOGALES, LEIRE"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "AMIGO POZAS, CLAUDIA",
+    "MARIS SABER, MALAK",
+    "REVUELTA NOGALES, LEIRE"
+  ],
+  "jugadores_local": [
+    "BEOBIDE FRIAS, MALEN",
+    "ECHEVESTE JAUREGUI, INTZA",
+    "GARCIA GONZALEZ, LAIA",
+    "GOÑI BADIOLA, ANE",
+    "MUGUERZA MARTINEZ, LIBE",
+    "SANZ VILLORIA, NAHIA",
+    "SANTOS CRUZ, MAIALEN",
+    "DIAZ DE MENDIVIL GARCIA, SARA",
+    "RODRIGUEZ REY, UXIA",
+    "PAMPANO VIZCAINO, ANNE",
+    "ZUBILLAGA CABADA, MAREN",
+    "KOUHAL HERNANDEZ, NOUR",
+    "PISANI ANDONEGUI, IZAR"
+  ],
+  "jugadores_visitante": [
+    "RAGANI EL AMRANI, MAISAE",
+    "ACHAGA ROBLES, LEIRE",
+    "MANTEROLA GARMENDIA, LOREA",
+    "GARCIA MUGICA, EIDER",
+    "AGIRRE LIZASO, NORA",
+    "EXPOSITO IBARBIA, NAROA",
+    "AYERZA MUGICA, AIORA",
+    "KORTAXARENA GURRUTXAGA, ELENE",
+    "MIRANDA REZABAL, JUNE",
+    "DEL SOL OYARBIDE, IRAIA",
+    "GARCIA ZIAURRITZ, AIORA",
+    "MARTINEZ ECHENIQUE, ANE",
+    "CLAUDINO SANCHEZ, DANIELA",
+    "BLAZQUEZ GUERRA, ENARA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "KOUHAL HERNANDEZ, NOUR",
+      "sale": "ZUBILLAGA CABADA, MAREN"
+    },
+    {
+      "min": 50,
+      "entra": "PISANI ANDONEGUI, IZAR",
+      "sale": "PAMPANO VIZCAINO, ANNE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 48,
+      "entra": "MARTINEZ ECHENIQUE, ANE",
+      "sale": "GARCIA MUGICA, EIDER"
+    },
+    {
+      "min": 56,
+      "entra": "CLAUDINO SANCHEZ, DANIELA",
+      "sale": "ACHAGA ROBLES, LEIRE"
+    },
+    {
+      "min": 56,
+      "entra": "BLAZQUEZ GUERRA, ENARA",
+      "sale": "KORTAXARENA GURRUTXAGA, ELENE"
+    }
+  ],
+  "minutos_jugadores": {
+    "BEOBIDE FRIAS, MALEN": 90,
+    "ECHEVESTE JAUREGUI, INTZA": 90,
+    "GARCIA GONZALEZ, LAIA": 90,
+    "GOÑI BADIOLA, ANE": 90,
+    "MUGUERZA MARTINEZ, LIBE": 90,
+    "SANZ VILLORIA, NAHIA": 90,
+    "SANTOS CRUZ, MAIALEN": 90,
+    "DIAZ DE MENDIVIL GARCIA, SARA": 90,
+    "RODRIGUEZ REY, UXIA": 90,
+    "PAMPANO VIZCAINO, ANNE": 50,
+    "ZUBILLAGA CABADA, MAREN": 50,
+    "KOUHAL HERNANDEZ, NOUR": 40,
+    "PISANI ANDONEGUI, IZAR": 40,
+    "RAGANI EL AMRANI, MAISAE": 90,
+    "ACHAGA ROBLES, LEIRE": 56,
+    "MANTEROLA GARMENDIA, LOREA": 90,
+    "GARCIA MUGICA, EIDER": 48,
+    "AGIRRE LIZASO, NORA": 90,
+    "EXPOSITO IBARBIA, NAROA": 90,
+    "AYERZA MUGICA, AIORA": 90,
+    "KORTAXARENA GURRUTXAGA, ELENE": 56,
+    "MIRANDA REZABAL, JUNE": 90,
+    "DEL SOL OYARBIDE, IRAIA": 90,
+    "GARCIA ZIAURRITZ, AIORA": 90,
+    "MARTINEZ ECHENIQUE, ANE": 42,
+    "CLAUDINO SANCHEZ, DANIELA": 34,
+    "BLAZQUEZ GUERRA, ENARA": 34
+  },
+  "portero_local": "BEOBIDE FRIAS, MALEN",
+  "portero_visitante": "RAGANI EL AMRANI, MAISAE",
+  "dorsales_local": {
+    "BEOBIDE FRIAS, MALEN": 1,
+    "ECHEVESTE JAUREGUI, INTZA": 2,
+    "GARCIA GONZALEZ, LAIA": 3,
+    "GOÑI BADIOLA, ANE": 4,
+    "MUGUERZA MARTINEZ, LIBE": 7,
+    "SANZ VILLORIA, NAHIA": 8,
+    "SANTOS CRUZ, MAIALEN": 9,
+    "DIAZ DE MENDIVIL GARCIA, SARA": 10,
+    "RODRIGUEZ REY, UXIA": 19,
+    "PAMPANO VIZCAINO, ANNE": 21,
+    "ZUBILLAGA CABADA, MAREN": 22
+  },
+  "dorsales_visitante": {
+    "RAGANI EL AMRANI, MAISAE": 1,
+    "ACHAGA ROBLES, LEIRE": 3,
+    "MANTEROLA GARMENDIA, LOREA": 7,
+    "GARCIA MUGICA, EIDER": 8,
+    "AGIRRE LIZASO, NORA": 10,
+    "EXPOSITO IBARBIA, NAROA": 11,
+    "AYERZA MUGICA, AIORA": 12,
+    "KORTAXARENA GURRUTXAGA, ELENE": 14,
+    "MIRANDA REZABAL, JUNE": 15,
+    "DEL SOL OYARBIDE, IRAIA": 16,
+    "GARCIA ZIAURRITZ, AIORA": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
