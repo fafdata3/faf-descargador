@@ -1,0 +1,256 @@
+{
+  "acta_id": "G_304113",
+  "filename": "Acta_G_304113.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "16-09-2023",
+  "hora": "10:30",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (GRUPO - 1)",
+  "equipo_local": "VASCONIA C.D. C",
+  "equipo_visitante": "MARIÑO C.D.",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "BERMEJO RIVERO, ODEI"
+  ],
+  "estadio": "PUIO",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 48,
+      "jugador": "ECHEBARRIA MENDIA, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "DIAZ PEREZ, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "ESTOMBA CHANCA, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "NOGAL SÁNCHEZ, JULEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SUBIJANA LARRARTE, ALEX",
+  "entrenador_visitante": "GONZALEZ ZAMARREÑO, OSCAR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SUBIJANA LARRARTE, ADRIAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SUBIJANA LARRARTE, ADRIAN",
+  "delegado_equipo_visitante": "CORTES SEMPER, ANDER",
+  "titulares_local": [
+    "LORENTE GARCIA, ADRIAN",
+    "URBIETA MEIJIDE, ALEX",
+    "SANTANA MARTOS, UNAI",
+    "MIRANDA ARANBARRI, OINATZ",
+    "ERAUSQUIN IJURCO, LANDER",
+    "JAUREGUI MATHIS, IÑIGO",
+    "MEDRANO GARCIA, ANDER",
+    "CURRAS PEREZ, ARITZ",
+    "ECHEBARRIA MENDIA, JON",
+    "VALVERDE ALVAREZ, TELMO",
+    "REGALADO VIVANCO, UNAI"
+  ],
+  "titulares_visitante": [
+    "NOGAL SÁNCHEZ, JULEN",
+    "RIOS CANO, URKO",
+    "ESTOMBA CHANCA, PABLO",
+    "FELIZ RIBERA, LEONARDO",
+    "NUÑO IZA, UNAX",
+    "NIANG NIANG, MOHAMED",
+    "MARTIN PRESEDO, MIKEL",
+    "MARTINEZ POZO, LANDER",
+    "DE MIGUEL CERVIÑO, IZEI",
+    "GOMEZ GONZALEZ, IKER",
+    "LOPEZ ECHANIZ, DANEL"
+  ],
+  "suplentes_local": [
+    "RUIZ DE AZUA GARATE, MIKEL",
+    "OLANO MORAN, ENEKO",
+    "ARRUTI THEYS, IKER",
+    "ROSSET VALDIVIESO, JON",
+    "RAMOS GORJON, ALEX"
+  ],
+  "suplentes_visitante": [
+    "BARRENO BISCOUBY, AMETS",
+    "MENDIZABAL PETRICORENA, IKER",
+    "ARAMBURU PEREZ, AIMAR",
+    "DIAZ PEREZ, MARIO",
+    "BEATO MARISCAL, AIMAR",
+    "EFFIO PUMALLIHUA, PERCY LEONARDO",
+    "ZAIDANI ZIANI, MOHAMED ADAM"
+  ],
+  "convocados_sin_jugar_local": [
+    "OLANO MORAN, ENEKO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BARRENO BISCOUBY, AMETS",
+    "BEATO MARISCAL, AIMAR"
+  ],
+  "jugadores_local": [
+    "LORENTE GARCIA, ADRIAN",
+    "URBIETA MEIJIDE, ALEX",
+    "SANTANA MARTOS, UNAI",
+    "MIRANDA ARANBARRI, OINATZ",
+    "ERAUSQUIN IJURCO, LANDER",
+    "JAUREGUI MATHIS, IÑIGO",
+    "MEDRANO GARCIA, ANDER",
+    "CURRAS PEREZ, ARITZ",
+    "ECHEBARRIA MENDIA, JON",
+    "VALVERDE ALVAREZ, TELMO",
+    "REGALADO VIVANCO, UNAI",
+    "ROSSET VALDIVIESO, JON",
+    "RAMOS GORJON, ALEX",
+    "RUIZ DE AZUA GARATE, MIKEL",
+    "ARRUTI THEYS, IKER"
+  ],
+  "jugadores_visitante": [
+    "NOGAL SÁNCHEZ, JULEN",
+    "RIOS CANO, URKO",
+    "ESTOMBA CHANCA, PABLO",
+    "FELIZ RIBERA, LEONARDO",
+    "NUÑO IZA, UNAX",
+    "NIANG NIANG, MOHAMED",
+    "MARTIN PRESEDO, MIKEL",
+    "MARTINEZ POZO, LANDER",
+    "DE MIGUEL CERVIÑO, IZEI",
+    "GOMEZ GONZALEZ, IKER",
+    "LOPEZ ECHANIZ, DANEL",
+    "ZAIDANI ZIANI, MOHAMED ADAM",
+    "DIAZ PEREZ, MARIO",
+    "ARAMBURU PEREZ, AIMAR",
+    "EFFIO PUMALLIHUA, PERCY LEONARDO",
+    "MENDIZABAL PETRICORENA, IKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "ROSSET VALDIVIESO, JON",
+      "sale": "REGALADO VIVANCO, UNAI"
+    },
+    {
+      "min": 46,
+      "entra": "RAMOS GORJON, ALEX",
+      "sale": "VALVERDE ALVAREZ, TELMO"
+    },
+    {
+      "min": 50,
+      "entra": "RUIZ DE AZUA GARATE, MIKEL",
+      "sale": "ECHEBARRIA MENDIA, JON"
+    },
+    {
+      "min": 52,
+      "entra": "ARRUTI THEYS, IKER",
+      "sale": "CURRAS PEREZ, ARITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "ZAIDANI ZIANI, MOHAMED ADAM",
+      "sale": "NIANG NIANG, MOHAMED"
+    },
+    {
+      "min": 51,
+      "entra": "DIAZ PEREZ, MARIO",
+      "sale": "NUÑO IZA, UNAX"
+    },
+    {
+      "min": 51,
+      "entra": "ARAMBURU PEREZ, AIMAR",
+      "sale": "GOMEZ GONZALEZ, IKER"
+    },
+    {
+      "min": 63,
+      "entra": "EFFIO PUMALLIHUA, PERCY LEONARDO",
+      "sale": "RIOS CANO, URKO"
+    },
+    {
+      "min": 74,
+      "entra": "MENDIZABAL PETRICORENA, IKER",
+      "sale": "MARTINEZ POZO, LANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "LORENTE GARCIA, ADRIAN": 90,
+    "URBIETA MEIJIDE, ALEX": 90,
+    "SANTANA MARTOS, UNAI": 90,
+    "MIRANDA ARANBARRI, OINATZ": 90,
+    "ERAUSQUIN IJURCO, LANDER": 90,
+    "JAUREGUI MATHIS, IÑIGO": 90,
+    "MEDRANO GARCIA, ANDER": 90,
+    "CURRAS PEREZ, ARITZ": 52,
+    "ECHEBARRIA MENDIA, JON": 50,
+    "VALVERDE ALVAREZ, TELMO": 46,
+    "REGALADO VIVANCO, UNAI": 40,
+    "ROSSET VALDIVIESO, JON": 50,
+    "RAMOS GORJON, ALEX": 44,
+    "RUIZ DE AZUA GARATE, MIKEL": 40,
+    "ARRUTI THEYS, IKER": 38,
+    "NOGAL SÁNCHEZ, JULEN": 90,
+    "RIOS CANO, URKO": 63,
+    "ESTOMBA CHANCA, PABLO": 90,
+    "FELIZ RIBERA, LEONARDO": 90,
+    "NUÑO IZA, UNAX": 51,
+    "NIANG NIANG, MOHAMED": 40,
+    "MARTIN PRESEDO, MIKEL": 90,
+    "MARTINEZ POZO, LANDER": 74,
+    "DE MIGUEL CERVIÑO, IZEI": 90,
+    "GOMEZ GONZALEZ, IKER": 51,
+    "LOPEZ ECHANIZ, DANEL": 90,
+    "ZAIDANI ZIANI, MOHAMED ADAM": 50,
+    "DIAZ PEREZ, MARIO": 39,
+    "ARAMBURU PEREZ, AIMAR": 39,
+    "EFFIO PUMALLIHUA, PERCY LEONARDO": 27,
+    "MENDIZABAL PETRICORENA, IKER": 16
+  },
+  "portero_local": "LORENTE GARCIA, ADRIAN",
+  "portero_visitante": "NOGAL SÁNCHEZ, JULEN",
+  "dorsales_local": {
+    "LORENTE GARCIA, ADRIAN": 1,
+    "URBIETA MEIJIDE, ALEX": 2,
+    "SANTANA MARTOS, UNAI": 3,
+    "MIRANDA ARANBARRI, OINATZ": 4,
+    "ERAUSQUIN IJURCO, LANDER": 5,
+    "JAUREGUI MATHIS, IÑIGO": 6,
+    "MEDRANO GARCIA, ANDER": 7,
+    "CURRAS PEREZ, ARITZ": 8,
+    "ECHEBARRIA MENDIA, JON": 9,
+    "VALVERDE ALVAREZ, TELMO": 10,
+    "REGALADO VIVANCO, UNAI": 11
+  },
+  "dorsales_visitante": {
+    "NOGAL SÁNCHEZ, JULEN": 1,
+    "RIOS CANO, URKO": 4,
+    "ESTOMBA CHANCA, PABLO": 5,
+    "FELIZ RIBERA, LEONARDO": 6,
+    "NUÑO IZA, UNAX": 7,
+    "NIANG NIANG, MOHAMED": 8,
+    "MARTIN PRESEDO, MIKEL": 10,
+    "MARTINEZ POZO, LANDER": 11,
+    "DE MIGUEL CERVIÑO, IZEI": 12,
+    "GOMEZ GONZALEZ, IKER": 17,
+    "LOPEZ ECHANIZ, DANEL": 20
+  },
+  "suspendidos": []
+}
