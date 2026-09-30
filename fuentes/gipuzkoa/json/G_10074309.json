@@ -1,0 +1,230 @@
+{
+  "acta_id": "G_10074309",
+  "filename": "Acta_G_10074309.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "27-09-2026",
+  "hora": "17:30",
+  "categoria": "GIZONEZKO KADETEEN 1. MAILA / 1ª CADETE MASCULINO (11. MULTZOA - GRUPO 11)",
+  "equipo_local": "BILLABONA K.E. C",
+  "equipo_visitante": "DANENA K.E. C",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "LORENZO GARCIA, AIMAR"
+  ],
+  "estadio": "ARRATZAIN",
+  "ciudad": "Villabona",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "ZABALA DE MARCOS, XABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "GOMARA ARTOLA, JORITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "ITURRIOZ ALTUNA, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 40,
+      "jugador": "ZABALA DE MARCOS, XABIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MENDIZABAL KORTA, JAGOBA",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BARRIGA , JUANJO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CALVO LOINAZ, IRAI",
+  "delegado_equipo_visitante": "MATEOS , AIMAR",
+  "titulares_local": [
+    "ALBIZU JAUREGI, OIHAN",
+    "ORBEGOZO GARZON, GANIX",
+    "ARISTI IMAZ, UR",
+    "TELLETXEA URDAMPILLETA, LUKEN",
+    "ITURRIOZ ALTUNA, UNAI",
+    "MELON GARCIA, LANDER",
+    "MURIEL AMORES, OIER",
+    "ZIANI EL HASNAOUI, ADAM",
+    "NAZABAL LIZASO, EKHI",
+    "DIEZ CARRASCO, MARKEL",
+    "YASSINE BOUGHZAOUI, IMRAAM"
+  ],
+  "titulares_visitante": [
+    "GOENAGA MOREA, HODEI",
+    "GOMARA ARTOLA, JORITZ",
+    "DE TORO EZQUERRO, OIER",
+    "INZA LANCETA, AMETS",
+    "GOIKOETXEA ALKORTA, ANER",
+    "MUÑOZ LUQUE, UNAX",
+    "LANDABEREA AGIRRE, AURITZ",
+    "TXAPARTEGI ZEBERIO, LIHER",
+    "LUCERO CUADRADO, UNAI",
+    "MENDIZABAL ZUBELDIA, UNAI",
+    "ZABALA DE MARCOS, XABIER"
+  ],
+  "suplentes_local": [
+    "EIZAGIRRE GARAIALDE, HODEI",
+    "OLAZABAL JIMENEZ, OIER",
+    "MARTIN GARCIA, ROBERTO",
+    "ONDARZABAL PETISCO, IGOR",
+    "CABALLERO MILLAN, IKER",
+    "HADIRY OBBAD, YAHIA"
+  ],
+  "suplentes_visitante": [
+    "ALVAREZ GIL, DAVID",
+    "ARANBURU ALKORTA, OINATZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTIN GARCIA, ROBERTO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALVAREZ GIL, DAVID"
+  ],
+  "jugadores_local": [
+    "ALBIZU JAUREGI, OIHAN",
+    "ORBEGOZO GARZON, GANIX",
+    "ARISTI IMAZ, UR",
+    "TELLETXEA URDAMPILLETA, LUKEN",
+    "ITURRIOZ ALTUNA, UNAI",
+    "MELON GARCIA, LANDER",
+    "MURIEL AMORES, OIER",
+    "ZIANI EL HASNAOUI, ADAM",
+    "NAZABAL LIZASO, EKHI",
+    "DIEZ CARRASCO, MARKEL",
+    "YASSINE BOUGHZAOUI, IMRAAM",
+    "HADIRY OBBAD, YAHIA",
+    "CABALLERO MILLAN, IKER",
+    "OLAZABAL JIMENEZ, OIER",
+    "EIZAGIRRE GARAIALDE, HODEI",
+    "ONDARZABAL PETISCO, IGOR"
+  ],
+  "jugadores_visitante": [
+    "GOENAGA MOREA, HODEI",
+    "GOMARA ARTOLA, JORITZ",
+    "DE TORO EZQUERRO, OIER",
+    "INZA LANCETA, AMETS",
+    "GOIKOETXEA ALKORTA, ANER",
+    "MUÑOZ LUQUE, UNAX",
+    "LANDABEREA AGIRRE, AURITZ",
+    "TXAPARTEGI ZEBERIO, LIHER",
+    "LUCERO CUADRADO, UNAI",
+    "MENDIZABAL ZUBELDIA, UNAI",
+    "ZABALA DE MARCOS, XABIER",
+    "ARANBURU ALKORTA, OINATZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "HADIRY OBBAD, YAHIA",
+      "sale": "ITURRIOZ ALTUNA, UNAI"
+    },
+    {
+      "min": 40,
+      "entra": "CABALLERO MILLAN, IKER",
+      "sale": "ZIANI EL HASNAOUI, ADAM"
+    },
+    {
+      "min": 49,
+      "entra": "OLAZABAL JIMENEZ, OIER",
+      "sale": "MURIEL AMORES, OIER"
+    },
+    {
+      "min": 60,
+      "entra": "EIZAGIRRE GARAIALDE, HODEI",
+      "sale": "MELON GARCIA, LANDER"
+    },
+    {
+      "min": 68,
+      "entra": "ONDARZABAL PETISCO, IGOR",
+      "sale": "ARISTI IMAZ, UR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "ARANBURU ALKORTA, OINATZ",
+      "sale": "GOIKOETXEA ALKORTA, ANER"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALBIZU JAUREGI, OIHAN": 90,
+    "ORBEGOZO GARZON, GANIX": 90,
+    "ARISTI IMAZ, UR": 68,
+    "TELLETXEA URDAMPILLETA, LUKEN": 90,
+    "ITURRIOZ ALTUNA, UNAI": 40,
+    "MELON GARCIA, LANDER": 60,
+    "MURIEL AMORES, OIER": 49,
+    "ZIANI EL HASNAOUI, ADAM": 40,
+    "NAZABAL LIZASO, EKHI": 90,
+    "DIEZ CARRASCO, MARKEL": 90,
+    "YASSINE BOUGHZAOUI, IMRAAM": 90,
+    "HADIRY OBBAD, YAHIA": 50,
+    "CABALLERO MILLAN, IKER": 50,
+    "OLAZABAL JIMENEZ, OIER": 41,
+    "EIZAGIRRE GARAIALDE, HODEI": 30,
+    "ONDARZABAL PETISCO, IGOR": 22,
+    "GOENAGA MOREA, HODEI": 90,
+    "GOMARA ARTOLA, JORITZ": 90,
+    "DE TORO EZQUERRO, OIER": 90,
+    "INZA LANCETA, AMETS": 90,
+    "GOIKOETXEA ALKORTA, ANER": 60,
+    "MUÑOZ LUQUE, UNAX": 90,
+    "LANDABEREA AGIRRE, AURITZ": 90,
+    "TXAPARTEGI ZEBERIO, LIHER": 90,
+    "LUCERO CUADRADO, UNAI": 90,
+    "MENDIZABAL ZUBELDIA, UNAI": 90,
+    "ZABALA DE MARCOS, XABIER": 90,
+    "ARANBURU ALKORTA, OINATZ": 30
+  },
+  "portero_local": "ALBIZU JAUREGI, OIHAN",
+  "portero_visitante": "GOENAGA MOREA, HODEI",
+  "dorsales_local": {
+    "ALBIZU JAUREGI, OIHAN": 13,
+    "ORBEGOZO GARZON, GANIX": 7,
+    "ARISTI IMAZ, UR": 8,
+    "TELLETXEA URDAMPILLETA, LUKEN": 10,
+    "ITURRIOZ ALTUNA, UNAI": 12,
+    "MELON GARCIA, LANDER": 15,
+    "MURIEL AMORES, OIER": 16,
+    "ZIANI EL HASNAOUI, ADAM": 18,
+    "NAZABAL LIZASO, EKHI": 19,
+    "DIEZ CARRASCO, MARKEL": 20,
+    "YASSINE BOUGHZAOUI, IMRAAM": 24
+  },
+  "dorsales_visitante": {
+    "GOENAGA MOREA, HODEI": 33,
+    "GOMARA ARTOLA, JORITZ": 2,
+    "DE TORO EZQUERRO, OIER": 3,
+    "INZA LANCETA, AMETS": 5,
+    "GOIKOETXEA ALKORTA, ANER": 6,
+    "MUÑOZ LUQUE, UNAX": 14,
+    "LANDABEREA AGIRRE, AURITZ": 16,
+    "TXAPARTEGI ZEBERIO, LIHER": 17,
+    "LUCERO CUADRADO, UNAI": 20,
+    "MENDIZABAL ZUBELDIA, UNAI": 25,
+    "ZABALA DE MARCOS, XABIER": 80
+  },
+  "suspendidos": []
+}
