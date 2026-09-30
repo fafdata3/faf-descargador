@@ -1,0 +1,280 @@
+{
+  "acta_id": "G_304128",
+  "filename": "Acta_G_304128.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "16-09-2023",
+  "hora": "12:15",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (GRUPO - 1)",
+  "equipo_local": "ANTIGUA LUBERRI K.E.",
+  "equipo_visitante": "SANTO TOMAS LIZEOA",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CLARACO BARCENA, MARKEL"
+  ],
+  "estadio": "BERIO",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 34,
+      "jugador": "ETXEBERRIA AUZMENDI, NIKOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "VAZQUEZ ARANDO, MANEX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "UGARTEBURU TREVIÑO, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 43,
+      "jugador": "IRAZUSTA URABAIEN, LUKA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "IRAZUSTA URABAIEN, LUKA",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "ZUBIAGUIRRE INDABE, MIKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "ZUBIAGUIRRE INDABE, MIKEL",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "IRAOLA ECHEVERRIA, IÑIGO",
+  "entrenador_visitante": "ARRIARAN SAN SEBASTIAN, UNAI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "IRAOLA ECHEVERRIA, IÑIGO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "AZPIAZU MAIZA, IKER",
+  "titulares_local": [
+    "ANTERO FERNANDEZ, MANEX",
+    "MARKIEGI SUSTETA, UNAX",
+    "SAROBE CASADO, ANDER",
+    "TRUEBA ALVAREZ DE EULATE, MARTIN",
+    "SANCHO UGARTE, XABIER",
+    "IRAZUSTA URABAIEN, LUKA",
+    "ZABALETA MARESMA, MANEX",
+    "VAZQUEZ ARANDO, MANEX",
+    "ARAMBURU ASTIAZARAN, OIER",
+    "BRENES CAVA, ASIER",
+    "UGARTEBURU TREVIÑO, MARKEL"
+  ],
+  "titulares_visitante": [
+    "ALBERDI MARTINEZ, JULEN",
+    "PEREZ RODRIGUEZ, ANDER",
+    "DIAZ DE GUEREÑU IRURETAGOYENA, MARKEL",
+    "ZUBIAGUIRRE INDABE, MIKEL",
+    "ETXARRI URRESTI, AIUR",
+    "GARCIA MIRANDA, JULEN",
+    "ETXANIZ ZABALETA, ENEKO",
+    "REZOLA ELIZALDE, DANEL",
+    "ELOSEGUI ZUBILLAGA, DANEL",
+    "OROQUIETA SALDIAS, PABLO",
+    "ETXEBERRIA AUZMENDI, NIKOLAS"
+  ],
+  "suplentes_local": [
+    "SANZ SANZ, MIKEL",
+    "SISTIAGA ITURRALDE, AIMAR",
+    "ASTRAIN MATEU, LANDER",
+    "ESNAOLA AQUERRETA, OIER",
+    "CILVETI EIZMENDI, OIER",
+    "ARITZETA LASAGA, HEGOI",
+    "IRADI LOPEZ, MANEX"
+  ],
+  "suplentes_visitante": [
+    "GARCIA HUERTA, NOAN",
+    "BASTIDA EZAMA, BEÑAT",
+    "GUINART ZAMAKOLA, IÑAKI",
+    "PARRONDO MENDIZABAL, UNAX",
+    "CATEDRA GAYAN, PABLO"
+  ],
+  "convocados_sin_jugar_local": [
+    "SANZ SANZ, MIKEL",
+    "ESNAOLA AQUERRETA, OIER",
+    "IRADI LOPEZ, MANEX"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ANTERO FERNANDEZ, MANEX",
+    "MARKIEGI SUSTETA, UNAX",
+    "SAROBE CASADO, ANDER",
+    "TRUEBA ALVAREZ DE EULATE, MARTIN",
+    "SANCHO UGARTE, XABIER",
+    "IRAZUSTA URABAIEN, LUKA",
+    "ZABALETA MARESMA, MANEX",
+    "VAZQUEZ ARANDO, MANEX",
+    "ARAMBURU ASTIAZARAN, OIER",
+    "BRENES CAVA, ASIER",
+    "UGARTEBURU TREVIÑO, MARKEL",
+    "SISTIAGA ITURRALDE, AIMAR",
+    "CILVETI EIZMENDI, OIER",
+    "ARITZETA LASAGA, HEGOI",
+    "ASTRAIN MATEU, LANDER"
+  ],
+  "jugadores_visitante": [
+    "ALBERDI MARTINEZ, JULEN",
+    "PEREZ RODRIGUEZ, ANDER",
+    "DIAZ DE GUEREÑU IRURETAGOYENA, MARKEL",
+    "ZUBIAGUIRRE INDABE, MIKEL",
+    "ETXARRI URRESTI, AIUR",
+    "GARCIA MIRANDA, JULEN",
+    "ETXANIZ ZABALETA, ENEKO",
+    "REZOLA ELIZALDE, DANEL",
+    "ELOSEGUI ZUBILLAGA, DANEL",
+    "OROQUIETA SALDIAS, PABLO",
+    "ETXEBERRIA AUZMENDI, NIKOLAS",
+    "BASTIDA EZAMA, BEÑAT",
+    "GUINART ZAMAKOLA, IÑAKI",
+    "PARRONDO MENDIZABAL, UNAX",
+    "GARCIA HUERTA, NOAN",
+    "CATEDRA GAYAN, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 24,
+      "entra": "SISTIAGA ITURRALDE, AIMAR",
+      "sale": "MARKIEGI SUSTETA, UNAX"
+    },
+    {
+      "min": 32,
+      "entra": "CILVETI EIZMENDI, OIER",
+      "sale": "TRUEBA ALVAREZ DE EULATE, MARTIN"
+    },
+    {
+      "min": 49,
+      "entra": "ARITZETA LASAGA, HEGOI",
+      "sale": "ARAMBURU ASTIAZARAN, OIER"
+    },
+    {
+      "min": 73,
+      "entra": "ASTRAIN MATEU, LANDER",
+      "sale": "VAZQUEZ ARANDO, MANEX"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 32,
+      "entra": "BASTIDA EZAMA, BEÑAT",
+      "sale": "REZOLA ELIZALDE, DANEL"
+    },
+    {
+      "min": 40,
+      "entra": "GUINART ZAMAKOLA, IÑAKI",
+      "sale": "OROQUIETA SALDIAS, PABLO"
+    },
+    {
+      "min": 50,
+      "entra": "PARRONDO MENDIZABAL, UNAX",
+      "sale": "DIAZ DE GUEREÑU IRURETAGOYENA, MARKEL"
+    },
+    {
+      "min": 50,
+      "entra": "GARCIA HUERTA, NOAN",
+      "sale": "ETXEBERRIA AUZMENDI, NIKOLAS"
+    },
+    {
+      "min": 68,
+      "entra": "CATEDRA GAYAN, PABLO",
+      "sale": "PEREZ RODRIGUEZ, ANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "ANTERO FERNANDEZ, MANEX": 90,
+    "MARKIEGI SUSTETA, UNAX": 24,
+    "SAROBE CASADO, ANDER": 90,
+    "TRUEBA ALVAREZ DE EULATE, MARTIN": 32,
+    "SANCHO UGARTE, XABIER": 90,
+    "IRAZUSTA URABAIEN, LUKA": 90,
+    "ZABALETA MARESMA, MANEX": 90,
+    "VAZQUEZ ARANDO, MANEX": 73,
+    "ARAMBURU ASTIAZARAN, OIER": 49,
+    "BRENES CAVA, ASIER": 90,
+    "UGARTEBURU TREVIÑO, MARKEL": 90,
+    "SISTIAGA ITURRALDE, AIMAR": 66,
+    "CILVETI EIZMENDI, OIER": 58,
+    "ARITZETA LASAGA, HEGOI": 41,
+    "ASTRAIN MATEU, LANDER": 17,
+    "ALBERDI MARTINEZ, JULEN": 90,
+    "PEREZ RODRIGUEZ, ANDER": 68,
+    "DIAZ DE GUEREÑU IRURETAGOYENA, MARKEL": 50,
+    "ZUBIAGUIRRE INDABE, MIKEL": 90,
+    "ETXARRI URRESTI, AIUR": 90,
+    "GARCIA MIRANDA, JULEN": 90,
+    "ETXANIZ ZABALETA, ENEKO": 90,
+    "REZOLA ELIZALDE, DANEL": 32,
+    "ELOSEGUI ZUBILLAGA, DANEL": 90,
+    "OROQUIETA SALDIAS, PABLO": 40,
+    "ETXEBERRIA AUZMENDI, NIKOLAS": 50,
+    "BASTIDA EZAMA, BEÑAT": 58,
+    "GUINART ZAMAKOLA, IÑAKI": 50,
+    "PARRONDO MENDIZABAL, UNAX": 40,
+    "GARCIA HUERTA, NOAN": 40,
+    "CATEDRA GAYAN, PABLO": 22
+  },
+  "portero_local": "ANTERO FERNANDEZ, MANEX",
+  "portero_visitante": "ALBERDI MARTINEZ, JULEN",
+  "dorsales_local": {
+    "ANTERO FERNANDEZ, MANEX": 2,
+    "MARKIEGI SUSTETA, UNAX": 3,
+    "SAROBE CASADO, ANDER": 6,
+    "TRUEBA ALVAREZ DE EULATE, MARTIN": 7,
+    "SANCHO UGARTE, XABIER": 10,
+    "IRAZUSTA URABAIEN, LUKA": 17,
+    "ZABALETA MARESMA, MANEX": 19,
+    "VAZQUEZ ARANDO, MANEX": 22,
+    "ARAMBURU ASTIAZARAN, OIER": 24,
+    "BRENES CAVA, ASIER": 25,
+    "UGARTEBURU TREVIÑO, MARKEL": 33
+  },
+  "dorsales_visitante": {
+    "ALBERDI MARTINEZ, JULEN": 1,
+    "PEREZ RODRIGUEZ, ANDER": 2,
+    "DIAZ DE GUEREÑU IRURETAGOYENA, MARKEL": 3,
+    "ZUBIAGUIRRE INDABE, MIKEL": 4,
+    "ETXARRI URRESTI, AIUR": 6,
+    "GARCIA MIRANDA, JULEN": 7,
+    "ETXANIZ ZABALETA, ENEKO": 8,
+    "REZOLA ELIZALDE, DANEL": 10,
+    "ELOSEGUI ZUBILLAGA, DANEL": 11,
+    "OROQUIETA SALDIAS, PABLO": 13,
+    "ETXEBERRIA AUZMENDI, NIKOLAS": 18
+  },
+  "suspendidos": [
+    "IRAZUSTA URABAIEN, LUKA",
+    "ZUBIAGUIRRE INDABE, MIKEL"
+  ],
+  "_marcador_widget": true
+}
