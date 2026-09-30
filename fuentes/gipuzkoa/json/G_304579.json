@@ -1,0 +1,290 @@
+{
+  "acta_id": "G_304579",
+  "filename": "Acta_G_304579.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "30-09-2023",
+  "hora": "12:55",
+  "categoria": "MUTILEN INFANTIL HANDI / INFANTIL HANDI MASCULINO (GRUPO - 3)",
+  "equipo_local": "OSTADAR S.K.T.",
+  "equipo_visitante": "MARTUTENE KE",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "EL OUARRAQY MBAREK, YAHYA"
+  ],
+  "estadio": "MICHELIN",
+  "ciudad": "LASARTE ORIA",
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "NERIA LEGARDA, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "BOTELHO ALEMANY, ERIK",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 85,
+      "jugador": "REDONDO NAVASCUES, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "REDONDO NAVASCUES, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 77,
+      "jugador": "IZAGIRRE GUIJARRO, NIKOLA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 40,
+      "jugador": "ARCONADA ARAUJO, LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "AGIRRE AZKUE, JON",
+  "entrenador_visitante": "ANTEQUERA VAZQUEZ, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ARZALLUS TOBAJAS, MARKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARZALLUS TOBAJAS, MARKEL",
+  "delegado_equipo_visitante": "AGUADO CASILLAS, JON",
+  "titulares_local": [
+    "CASADO GONZALEZ, XUBAN",
+    "MARTIKORENA UZKUDUN, DANEL",
+    "PEREZ ALTUNA, JULEN",
+    "CABEZAS LAURENCIO, KYRAN",
+    "EGUIGUREN GAINZA, XUBAN",
+    "ZUDAIRE BORREZO, AIMAR",
+    "GARTZIA AZPIROZ, GANIX",
+    "IZQUIERDO GARALOCES, IAGO",
+    "TUMURSUKH, AZBAYAR",
+    "VECILLA TELLERIA, ARATZ",
+    "URRUZMENDI FEIJO, IKER"
+  ],
+  "titulares_visitante": [
+    "ARCONADA ARAUJO, LUIS",
+    "VEGA POSTIGO, IÑIGO",
+    "LOPETEGUI ECHAVE, TELMO",
+    "URDICIAIN NAVARRO, PERU",
+    "IÑIGUEZ IRIARTE, LIER",
+    "CAMPO SAGREDO, JON",
+    "ELIZONDO FELIPE, XABIER",
+    "NERIA LEGARDA, ALVARO",
+    "REDONDO NAVASCUES, MARKEL",
+    "BOTELHO ALEMANY, ERIK",
+    "ESCORCIA GARCIA, ALEJANDRO GABRIEL"
+  ],
+  "suplentes_local": [
+    "URDIAIN LOBATO, DARIO",
+    "GASALLA GALLO, MATEO",
+    "LOPETEGUI MONZON, DANEL",
+    "GARCIA IZQUIERDO, MARIO",
+    "IZAGIRRE GUIJARRO, NIKOLA",
+    "GARCIA AGIRRETXE, MARKEL",
+    "EGIZABAL MARCOS, LUKEN"
+  ],
+  "suplentes_visitante": [
+    "VELA UGARTE, ALEX",
+    "FIDALGO FERNANDEZ, PERU",
+    "ZATARAIN GALARRETA, JON",
+    "RUIZ-LOPETEDI CASTILLO, ALVARO",
+    "ORIA FERNANDEZ, ALEJANDRO",
+    "OZCOIDI FERNANDEZ VELILLA, ASIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA AGIRRETXE, MARKEL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CASADO GONZALEZ, XUBAN",
+    "MARTIKORENA UZKUDUN, DANEL",
+    "PEREZ ALTUNA, JULEN",
+    "CABEZAS LAURENCIO, KYRAN",
+    "EGUIGUREN GAINZA, XUBAN",
+    "ZUDAIRE BORREZO, AIMAR",
+    "GARTZIA AZPIROZ, GANIX",
+    "IZQUIERDO GARALOCES, IAGO",
+    "TUMURSUKH, AZBAYAR",
+    "VECILLA TELLERIA, ARATZ",
+    "URRUZMENDI FEIJO, IKER",
+    "IZAGIRRE GUIJARRO, NIKOLA",
+    "GARCIA IZQUIERDO, MARIO",
+    "GASALLA GALLO, MATEO",
+    "LOPETEGUI MONZON, DANEL",
+    "URDIAIN LOBATO, DARIO",
+    "EGIZABAL MARCOS, LUKEN"
+  ],
+  "jugadores_visitante": [
+    "ARCONADA ARAUJO, LUIS",
+    "VEGA POSTIGO, IÑIGO",
+    "LOPETEGUI ECHAVE, TELMO",
+    "URDICIAIN NAVARRO, PERU",
+    "IÑIGUEZ IRIARTE, LIER",
+    "CAMPO SAGREDO, JON",
+    "ELIZONDO FELIPE, XABIER",
+    "NERIA LEGARDA, ALVARO",
+    "REDONDO NAVASCUES, MARKEL",
+    "BOTELHO ALEMANY, ERIK",
+    "ESCORCIA GARCIA, ALEJANDRO GABRIEL",
+    "ZATARAIN GALARRETA, JON",
+    "ORIA FERNANDEZ, ALEJANDRO",
+    "FIDALGO FERNANDEZ, PERU",
+    "RUIZ-LOPETEDI CASTILLO, ALVARO",
+    "OZCOIDI FERNANDEZ VELILLA, ASIER",
+    "VELA UGARTE, ALEX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "IZAGIRRE GUIJARRO, NIKOLA",
+      "sale": "IZQUIERDO GARALOCES, IAGO"
+    },
+    {
+      "min": 45,
+      "entra": "GARCIA IZQUIERDO, MARIO",
+      "sale": "TUMURSUKH, AZBAYAR"
+    },
+    {
+      "min": 45,
+      "entra": "GASALLA GALLO, MATEO",
+      "sale": "URRUZMENDI FEIJO, IKER"
+    },
+    {
+      "min": 50,
+      "entra": "LOPETEGUI MONZON, DANEL",
+      "sale": "ZUDAIRE BORREZO, AIMAR"
+    },
+    {
+      "min": 55,
+      "entra": "URDIAIN LOBATO, DARIO",
+      "sale": "CABEZAS LAURENCIO, KYRAN"
+    },
+    {
+      "min": 67,
+      "entra": "EGIZABAL MARCOS, LUKEN",
+      "sale": "VECILLA TELLERIA, ARATZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "ZATARAIN GALARRETA, JON",
+      "sale": "IÑIGUEZ IRIARTE, LIER"
+    },
+    {
+      "min": 45,
+      "entra": "ORIA FERNANDEZ, ALEJANDRO",
+      "sale": "NERIA LEGARDA, ALVARO"
+    },
+    {
+      "min": 45,
+      "entra": "FIDALGO FERNANDEZ, PERU",
+      "sale": "ELIZONDO FELIPE, XABIER"
+    },
+    {
+      "min": 50,
+      "entra": "RUIZ-LOPETEDI CASTILLO, ALVARO",
+      "sale": "VEGA POSTIGO, IÑIGO"
+    },
+    {
+      "min": 56,
+      "entra": "OZCOIDI FERNANDEZ VELILLA, ASIER",
+      "sale": "BOTELHO ALEMANY, ERIK"
+    },
+    {
+      "min": 60,
+      "entra": "VELA UGARTE, ALEX",
+      "sale": "ESCORCIA GARCIA, ALEJANDRO GABRIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "CASADO GONZALEZ, XUBAN": 90,
+    "MARTIKORENA UZKUDUN, DANEL": 90,
+    "PEREZ ALTUNA, JULEN": 90,
+    "CABEZAS LAURENCIO, KYRAN": 55,
+    "EGUIGUREN GAINZA, XUBAN": 90,
+    "ZUDAIRE BORREZO, AIMAR": 50,
+    "GARTZIA AZPIROZ, GANIX": 90,
+    "IZQUIERDO GARALOCES, IAGO": 40,
+    "TUMURSUKH, AZBAYAR": 45,
+    "VECILLA TELLERIA, ARATZ": 67,
+    "URRUZMENDI FEIJO, IKER": 45,
+    "IZAGIRRE GUIJARRO, NIKOLA": 50,
+    "GARCIA IZQUIERDO, MARIO": 45,
+    "GASALLA GALLO, MATEO": 45,
+    "LOPETEGUI MONZON, DANEL": 40,
+    "URDIAIN LOBATO, DARIO": 35,
+    "EGIZABAL MARCOS, LUKEN": 23,
+    "ARCONADA ARAUJO, LUIS": 90,
+    "VEGA POSTIGO, IÑIGO": 50,
+    "LOPETEGUI ECHAVE, TELMO": 90,
+    "URDICIAIN NAVARRO, PERU": 90,
+    "IÑIGUEZ IRIARTE, LIER": 45,
+    "CAMPO SAGREDO, JON": 90,
+    "ELIZONDO FELIPE, XABIER": 45,
+    "NERIA LEGARDA, ALVARO": 45,
+    "REDONDO NAVASCUES, MARKEL": 90,
+    "BOTELHO ALEMANY, ERIK": 56,
+    "ESCORCIA GARCIA, ALEJANDRO GABRIEL": 60,
+    "ZATARAIN GALARRETA, JON": 45,
+    "ORIA FERNANDEZ, ALEJANDRO": 45,
+    "FIDALGO FERNANDEZ, PERU": 45,
+    "RUIZ-LOPETEDI CASTILLO, ALVARO": 40,
+    "OZCOIDI FERNANDEZ VELILLA, ASIER": 34,
+    "VELA UGARTE, ALEX": 30
+  },
+  "portero_local": "CASADO GONZALEZ, XUBAN",
+  "portero_visitante": "ESCORCIA GARCIA, ALEJANDRO GABRIEL",
+  "dorsales_local": {
+    "CASADO GONZALEZ, XUBAN": 1,
+    "MARTIKORENA UZKUDUN, DANEL": 2,
+    "PEREZ ALTUNA, JULEN": 4,
+    "CABEZAS LAURENCIO, KYRAN": 6,
+    "EGUIGUREN GAINZA, XUBAN": 10,
+    "ZUDAIRE BORREZO, AIMAR": 11,
+    "GARTZIA AZPIROZ, GANIX": 12,
+    "IZQUIERDO GARALOCES, IAGO": 14,
+    "TUMURSUKH, AZBAYAR": 15,
+    "VECILLA TELLERIA, ARATZ": 16,
+    "URRUZMENDI FEIJO, IKER": 17
+  },
+  "dorsales_visitante": {
+    "ARCONADA ARAUJO, LUIS": 2,
+    "VEGA POSTIGO, IÑIGO": 3,
+    "LOPETEGUI ECHAVE, TELMO": 4,
+    "URDICIAIN NAVARRO, PERU": 5,
+    "IÑIGUEZ IRIARTE, LIER": 6,
+    "CAMPO SAGREDO, JON": 7,
+    "ELIZONDO FELIPE, XABIER": 8,
+    "NERIA LEGARDA, ALVARO": 9,
+    "REDONDO NAVASCUES, MARKEL": 10,
+    "BOTELHO ALEMANY, ERIK": 11,
+    "ESCORCIA GARCIA, ALEJANDRO GABRIEL": 13
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
