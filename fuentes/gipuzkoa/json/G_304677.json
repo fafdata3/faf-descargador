@@ -1,0 +1,270 @@
+{
+  "acta_id": "G_304677",
+  "filename": "Acta_G_304677.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "30-09-2023",
+  "hora": "15:30",
+  "categoria": "GIZONEZKO JUBENILEN 1. MAILA / 1ª JUVENIL MASCULINO (GRUPO - 2)",
+  "equipo_local": "MARTUTENE K.E. B",
+  "equipo_visitante": "TRINTXERPE C.D. B",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "QUEIRUGA VAZ, KEVIN"
+  ],
+  "estadio": "MARTUTENE",
+  "ciudad": "DONOSTIA",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "DRAME, MANSOUR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "ORIA ROIZ, LUKAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "ORRUÑO LASAGABASTER, MIKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "ORIA ROIZ, LUKAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 41,
+      "jugador": "ORIA ROIZ, LUKAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "MANJON ARAMBARRI, MARCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "MANJON ARAMBARRI, IMANOL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 82,
+      "jugador": "MANJON ARAMBARRI, MARCO",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "DRAME, MANSOUR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "SANCHEZ AVEDILLO, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ESCOLAR BARRIOS, MARKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RODRIGUEZ MANZANO, EKAITZ",
+    "AYESTARAN CHAVARRI, MIKEL",
+    "PICABEA GONZÁLEZ, ALAI",
+    "DAMOUCH KASMI, ABDELBASET",
+    "ORRUÑO LASAGABASTER, MIKEL",
+    "ORIA ROIZ, LUKAS",
+    "ZAMARREÑO RODRIGUEZ, IVAN",
+    "MENDINUETA DE DIOS, JULEN",
+    "CARRILLO CERDEIRA, UR",
+    "BERMEJO LARREA, HUGO NOE",
+    "GARCIA NOGUEIRA, MARCOS"
+  ],
+  "titulares_visitante": [
+    "GALA GARCIA, ASIER",
+    "ZALDUA GOMEZ, IBAI",
+    "SENE, DJIBY",
+    "MANJON ARAMBARRI, IMANOL",
+    "FERNANDEZ SAYANS, GAIZKA",
+    "MANJON ARAMBARRI, MARCO",
+    "TORRADO SAN MATIAS, UNAI",
+    "DRAME, MANSOUR",
+    "TRALLERO GUDE, ALVARO",
+    "MARTINEZ ANDINO, AITOR",
+    "MARTINEZ IZAGIRRE, MIKEL"
+  ],
+  "suplentes_local": [
+    "ORTIZ FONCEA, GUILLERMO",
+    "RODRIGUEZ ROSARIO, ALAN JOSE",
+    "ESCUDERO OLARRA, UNAX",
+    "ZUBILLAGA GARMENDIA, URKO",
+    "HERNANDEZ AMADOR, EDUARDO JOSUE"
+  ],
+  "suplentes_visitante": [
+    "SPASSINI SERRANO, ALEX",
+    "MARTOS GUERRA, DANEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RODRIGUEZ MANZANO, EKAITZ",
+    "AYESTARAN CHAVARRI, MIKEL",
+    "PICABEA GONZÁLEZ, ALAI",
+    "DAMOUCH KASMI, ABDELBASET",
+    "ORRUÑO LASAGABASTER, MIKEL",
+    "ORIA ROIZ, LUKAS",
+    "ZAMARREÑO RODRIGUEZ, IVAN",
+    "MENDINUETA DE DIOS, JULEN",
+    "CARRILLO CERDEIRA, UR",
+    "BERMEJO LARREA, HUGO NOE",
+    "GARCIA NOGUEIRA, MARCOS",
+    "RODRIGUEZ ROSARIO, ALAN JOSE",
+    "ZUBILLAGA GARMENDIA, URKO",
+    "HERNANDEZ AMADOR, EDUARDO JOSUE",
+    "ORTIZ FONCEA, GUILLERMO",
+    "ESCUDERO OLARRA, UNAX"
+  ],
+  "jugadores_visitante": [
+    "GALA GARCIA, ASIER",
+    "ZALDUA GOMEZ, IBAI",
+    "SENE, DJIBY",
+    "MANJON ARAMBARRI, IMANOL",
+    "FERNANDEZ SAYANS, GAIZKA",
+    "MANJON ARAMBARRI, MARCO",
+    "TORRADO SAN MATIAS, UNAI",
+    "DRAME, MANSOUR",
+    "TRALLERO GUDE, ALVARO",
+    "MARTINEZ ANDINO, AITOR",
+    "MARTINEZ IZAGIRRE, MIKEL",
+    "SPASSINI SERRANO, ALEX",
+    "MARTOS GUERRA, DANEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "RODRIGUEZ ROSARIO, ALAN JOSE",
+      "sale": "CARRILLO CERDEIRA, UR"
+    },
+    {
+      "min": 49,
+      "entra": "ZUBILLAGA GARMENDIA, URKO",
+      "sale": "GARCIA NOGUEIRA, MARCOS"
+    },
+    {
+      "min": 49,
+      "entra": "HERNANDEZ AMADOR, EDUARDO JOSUE",
+      "sale": "PICABEA GONZÁLEZ, ALAI"
+    },
+    {
+      "min": 53,
+      "entra": "ORTIZ FONCEA, GUILLERMO",
+      "sale": "AYESTARAN CHAVARRI, MIKEL"
+    },
+    {
+      "min": 61,
+      "entra": "ESCUDERO OLARRA, UNAX",
+      "sale": "BERMEJO LARREA, HUGO NOE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 70,
+      "entra": "SPASSINI SERRANO, ALEX",
+      "sale": "SENE, DJIBY"
+    },
+    {
+      "min": 80,
+      "entra": "MARTOS GUERRA, DANEL",
+      "sale": "MARTINEZ ANDINO, AITOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ MANZANO, EKAITZ": 90,
+    "AYESTARAN CHAVARRI, MIKEL": 53,
+    "PICABEA GONZÁLEZ, ALAI": 49,
+    "DAMOUCH KASMI, ABDELBASET": 90,
+    "ORRUÑO LASAGABASTER, MIKEL": 90,
+    "ORIA ROIZ, LUKAS": 90,
+    "ZAMARREÑO RODRIGUEZ, IVAN": 90,
+    "MENDINUETA DE DIOS, JULEN": 90,
+    "CARRILLO CERDEIRA, UR": 49,
+    "BERMEJO LARREA, HUGO NOE": 61,
+    "GARCIA NOGUEIRA, MARCOS": 49,
+    "RODRIGUEZ ROSARIO, ALAN JOSE": 41,
+    "ZUBILLAGA GARMENDIA, URKO": 41,
+    "HERNANDEZ AMADOR, EDUARDO JOSUE": 41,
+    "ORTIZ FONCEA, GUILLERMO": 37,
+    "ESCUDERO OLARRA, UNAX": 29,
+    "GALA GARCIA, ASIER": 90,
+    "ZALDUA GOMEZ, IBAI": 90,
+    "SENE, DJIBY": 70,
+    "MANJON ARAMBARRI, IMANOL": 90,
+    "FERNANDEZ SAYANS, GAIZKA": 90,
+    "MANJON ARAMBARRI, MARCO": 90,
+    "TORRADO SAN MATIAS, UNAI": 90,
+    "DRAME, MANSOUR": 90,
+    "TRALLERO GUDE, ALVARO": 90,
+    "MARTINEZ ANDINO, AITOR": 80,
+    "MARTINEZ IZAGIRRE, MIKEL": 90,
+    "SPASSINI SERRANO, ALEX": 20,
+    "MARTOS GUERRA, DANEL": 10
+  },
+  "portero_local": "ZAMARREÑO RODRIGUEZ, IVAN",
+  "portero_visitante": "GALA GARCIA, ASIER",
+  "dorsales_local": {
+    "RODRIGUEZ MANZANO, EKAITZ": 3,
+    "AYESTARAN CHAVARRI, MIKEL": 4,
+    "PICABEA GONZÁLEZ, ALAI": 6,
+    "DAMOUCH KASMI, ABDELBASET": 8,
+    "ORRUÑO LASAGABASTER, MIKEL": 10,
+    "ORIA ROIZ, LUKAS": 12,
+    "ZAMARREÑO RODRIGUEZ, IVAN": 13,
+    "MENDINUETA DE DIOS, JULEN": 14,
+    "CARRILLO CERDEIRA, UR": 17,
+    "BERMEJO LARREA, HUGO NOE": 18,
+    "GARCIA NOGUEIRA, MARCOS": 23
+  },
+  "dorsales_visitante": {
+    "GALA GARCIA, ASIER": 1,
+    "ZALDUA GOMEZ, IBAI": 29,
+    "SENE, DJIBY": 30,
+    "MANJON ARAMBARRI, IMANOL": 31,
+    "FERNANDEZ SAYANS, GAIZKA": 33,
+    "MANJON ARAMBARRI, MARCO": 37,
+    "TORRADO SAN MATIAS, UNAI": 38,
+    "DRAME, MANSOUR": 39,
+    "TRALLERO GUDE, ALVARO": 45,
+    "MARTINEZ ANDINO, AITOR": 65,
+    "MARTINEZ IZAGIRRE, MIKEL": 71
+  },
+  "suspendidos": [
+    "MANJON ARAMBARRI, MARCO"
+  ],
+  "_marcador_widget": true
+}
