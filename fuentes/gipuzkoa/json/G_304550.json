@@ -1,0 +1,284 @@
+{
+  "acta_id": "G_304550",
+  "filename": "Acta_G_304550.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "30-09-2023",
+  "hora": "09:30",
+  "categoria": "GIZONEZKO KADETEEN 1. MAILA / 1ª CADETE MASCULINO (GRUPO - 8)",
+  "equipo_local": "DANENA K.E. C",
+  "equipo_visitante": "TOLOSA C.F. C",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "LANDA PETRICORENA, ANDONI"
+  ],
+  "estadio": "ELBARRENA",
+  "ciudad": "Zizurkil",
+  "goleadores": [
+    {
+      "minuto": 37,
+      "jugador": "EISSA BAKKOUR, WALID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "SARALEGI ARTOLA, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "VICENTE SANCHEZ, GORKA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "RIAÑO PETISCO, ENDIKA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 81,
+      "jugador": "RIAÑO PETISCO, ENDIKA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 83,
+      "jugador": "GUERETA LARRETA, IZEI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "ORBEGOZO ARROSPIDE, ENEKO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "VITORIA BENGOECHEA, ENEKO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ZABALA ECHEVERRIA, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "ZUBILLAGA VILLABONA, ANTTON",
+    "GOMEZ ZABALA, IRAITZ",
+    "UNANUE ARMENDARIZ, UNAX",
+    "EISSA BAKKOUR, WALID",
+    "VICENTE SANCHEZ, ENEKO",
+    "VICENTE SANCHEZ, GORKA",
+    "ALCORTA URRUZOLA, IGOR",
+    "GUERETA LARRETA, IZEI",
+    "AMRIOUI FATHI, ILYAS",
+    "ZABALA TEJERIA, URKO",
+    "ITURRIOZ CRUZ, JAKES"
+  ],
+  "titulares_visitante": [
+    "GALLEGO DOS SANTOS, EKAIN",
+    "SASIAIN SARALEGUI, EKHI",
+    "ORBEGOZO ARROSPIDE, ENEKO",
+    "CURRAS SALAZAR, PABLO",
+    "SAGASTI GOENAGA, ADEI",
+    "GARAYALDE ASENSIO, UNAX",
+    "SAN MILLAN OLANO, ENEKO",
+    "ORMAZABAL DORRONSORO, BEÑAT",
+    "AYERRA IZTUETA, OIHAN",
+    "GUIBELALDE AGUIRRE, PAUL",
+    "ARTETXE ANTOLIN, UNAX"
+  ],
+  "suplentes_local": [
+    "ECHARRI ALTUNA, MARKEL",
+    "GARCIA DE ANDOIN ARAMBURU, ASIER",
+    "LARRARTE ARTOLA, ITOITZ",
+    "DIAZ LEITE, ANER",
+    "MOVELLAN HERNANDEZ, AITOR",
+    "ALONSO AMATRIAIN, ENAI"
+  ],
+  "suplentes_visitante": [
+    "GALLEGO DOS SANTOS, OIHAN",
+    "IZTUETA KARRERA, ARITZ",
+    "RIAÑO PETISCO, ENDIKA",
+    "SARALEGI ARTOLA, JULEN",
+    "OTAEGI OLANO, UNAX",
+    "ORBEGOZO BENGOECHEA, IRAITZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA DE ANDOIN ARAMBURU, ASIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GALLEGO DOS SANTOS, OIHAN"
+  ],
+  "jugadores_local": [
+    "ZUBILLAGA VILLABONA, ANTTON",
+    "GOMEZ ZABALA, IRAITZ",
+    "UNANUE ARMENDARIZ, UNAX",
+    "EISSA BAKKOUR, WALID",
+    "VICENTE SANCHEZ, ENEKO",
+    "VICENTE SANCHEZ, GORKA",
+    "ALCORTA URRUZOLA, IGOR",
+    "GUERETA LARRETA, IZEI",
+    "AMRIOUI FATHI, ILYAS",
+    "ZABALA TEJERIA, URKO",
+    "ITURRIOZ CRUZ, JAKES",
+    "ECHARRI ALTUNA, MARKEL",
+    "ALONSO AMATRIAIN, ENAI",
+    "MOVELLAN HERNANDEZ, AITOR",
+    "LARRARTE ARTOLA, ITOITZ",
+    "DIAZ LEITE, ANER"
+  ],
+  "jugadores_visitante": [
+    "GALLEGO DOS SANTOS, EKAIN",
+    "SASIAIN SARALEGUI, EKHI",
+    "ORBEGOZO ARROSPIDE, ENEKO",
+    "CURRAS SALAZAR, PABLO",
+    "SAGASTI GOENAGA, ADEI",
+    "GARAYALDE ASENSIO, UNAX",
+    "SAN MILLAN OLANO, ENEKO",
+    "ORMAZABAL DORRONSORO, BEÑAT",
+    "AYERRA IZTUETA, OIHAN",
+    "GUIBELALDE AGUIRRE, PAUL",
+    "ARTETXE ANTOLIN, UNAX",
+    "OTAEGI OLANO, UNAX",
+    "SARALEGI ARTOLA, JULEN",
+    "ORBEGOZO BENGOECHEA, IRAITZ",
+    "RIAÑO PETISCO, ENDIKA",
+    "IZTUETA KARRERA, ARITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 47,
+      "entra": "ECHARRI ALTUNA, MARKEL",
+      "sale": "VICENTE SANCHEZ, GORKA"
+    },
+    {
+      "min": 55,
+      "entra": "ALONSO AMATRIAIN, ENAI",
+      "sale": "GOMEZ ZABALA, IRAITZ"
+    },
+    {
+      "min": 55,
+      "entra": "MOVELLAN HERNANDEZ, AITOR",
+      "sale": "VICENTE SANCHEZ, ENEKO"
+    },
+    {
+      "min": 63,
+      "entra": "LARRARTE ARTOLA, ITOITZ",
+      "sale": "AMRIOUI FATHI, ILYAS"
+    },
+    {
+      "min": 63,
+      "entra": "DIAZ LEITE, ANER",
+      "sale": "ITURRIOZ CRUZ, JAKES"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "OTAEGI OLANO, UNAX",
+      "sale": "ORMAZABAL DORRONSORO, BEÑAT"
+    },
+    {
+      "min": 41,
+      "entra": "SARALEGI ARTOLA, JULEN",
+      "sale": "ARTETXE ANTOLIN, UNAX"
+    },
+    {
+      "min": 59,
+      "entra": "ORBEGOZO BENGOECHEA, IRAITZ",
+      "sale": "ORBEGOZO ARROSPIDE, ENEKO"
+    },
+    {
+      "min": 59,
+      "entra": "RIAÑO PETISCO, ENDIKA",
+      "sale": "GUIBELALDE AGUIRRE, PAUL"
+    },
+    {
+      "min": 59,
+      "entra": "IZTUETA KARRERA, ARITZ",
+      "sale": "SAN MILLAN OLANO, ENEKO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ZUBILLAGA VILLABONA, ANTTON": 90,
+    "GOMEZ ZABALA, IRAITZ": 55,
+    "UNANUE ARMENDARIZ, UNAX": 90,
+    "EISSA BAKKOUR, WALID": 90,
+    "VICENTE SANCHEZ, ENEKO": 55,
+    "VICENTE SANCHEZ, GORKA": 47,
+    "ALCORTA URRUZOLA, IGOR": 90,
+    "GUERETA LARRETA, IZEI": 90,
+    "AMRIOUI FATHI, ILYAS": 63,
+    "ZABALA TEJERIA, URKO": 90,
+    "ITURRIOZ CRUZ, JAKES": 63,
+    "ECHARRI ALTUNA, MARKEL": 43,
+    "ALONSO AMATRIAIN, ENAI": 35,
+    "MOVELLAN HERNANDEZ, AITOR": 35,
+    "LARRARTE ARTOLA, ITOITZ": 27,
+    "DIAZ LEITE, ANER": 27,
+    "GALLEGO DOS SANTOS, EKAIN": 90,
+    "SASIAIN SARALEGUI, EKHI": 90,
+    "ORBEGOZO ARROSPIDE, ENEKO": 59,
+    "CURRAS SALAZAR, PABLO": 90,
+    "SAGASTI GOENAGA, ADEI": 90,
+    "GARAYALDE ASENSIO, UNAX": 90,
+    "SAN MILLAN OLANO, ENEKO": 59,
+    "ORMAZABAL DORRONSORO, BEÑAT": 41,
+    "AYERRA IZTUETA, OIHAN": 90,
+    "GUIBELALDE AGUIRRE, PAUL": 59,
+    "ARTETXE ANTOLIN, UNAX": 41,
+    "OTAEGI OLANO, UNAX": 49,
+    "SARALEGI ARTOLA, JULEN": 49,
+    "ORBEGOZO BENGOECHEA, IRAITZ": 31,
+    "RIAÑO PETISCO, ENDIKA": 31,
+    "IZTUETA KARRERA, ARITZ": 31
+  },
+  "portero_local": "ZUBILLAGA VILLABONA, ANTTON",
+  "portero_visitante": "GARAYALDE ASENSIO, UNAX",
+  "dorsales_local": {
+    "ZUBILLAGA VILLABONA, ANTTON": 1,
+    "GOMEZ ZABALA, IRAITZ": 4,
+    "UNANUE ARMENDARIZ, UNAX": 6,
+    "EISSA BAKKOUR, WALID": 7,
+    "VICENTE SANCHEZ, ENEKO": 9,
+    "VICENTE SANCHEZ, GORKA": 10,
+    "ALCORTA URRUZOLA, IGOR": 15,
+    "GUERETA LARRETA, IZEI": 16,
+    "AMRIOUI FATHI, ILYAS": 19,
+    "ZABALA TEJERIA, URKO": 20,
+    "ITURRIOZ CRUZ, JAKES": 22
+  },
+  "dorsales_visitante": {
+    "GALLEGO DOS SANTOS, EKAIN": 3,
+    "SASIAIN SARALEGUI, EKHI": 5,
+    "ORBEGOZO ARROSPIDE, ENEKO": 6,
+    "CURRAS SALAZAR, PABLO": 8,
+    "SAGASTI GOENAGA, ADEI": 12,
+    "GARAYALDE ASENSIO, UNAX": 13,
+    "SAN MILLAN OLANO, ENEKO": 14,
+    "ORMAZABAL DORRONSORO, BEÑAT": 16,
+    "AYERRA IZTUETA, OIHAN": 18,
+    "GUIBELALDE AGUIRRE, PAUL": 19,
+    "ARTETXE ANTOLIN, UNAX": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
