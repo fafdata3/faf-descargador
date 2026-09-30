@@ -1,0 +1,247 @@
+{
+  "acta_id": "G_304672",
+  "filename": "Acta_G_304672.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "30-09-2023",
+  "hora": "15:30",
+  "categoria": "EMAKUMEZKOEN OHOREZKO KADETE MAILA / CADETE DE HONOR FEMENINO (GRUPO - 1)",
+  "equipo_local": "ZARAUTZ K.E.",
+  "equipo_visitante": "TOLOSA C.F.",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SERRANO COTOS, UNAX"
+  ],
+  "estadio": "ASTI - TXIKI",
+  "ciudad": "Zarautz",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "LANDA RODRIGUEZ, KARLOTA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "BALERDI MATEOS, ELENE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "AMUNARRIZ LOZANO, MAITE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 51,
+      "jugador": "ISASA PEÑA, NOA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "FERNANDEZ RAMIREZ, IRATI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ARRUABARRENA BARANDIARAN, ARITZ",
+  "entrenador_visitante": "ETXABURUA URKOLA, IRENE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "AIZPURUA ESTENSORO, XABAT",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TAMAYO VELEZ, AITOR",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "IRURETAGOYENA BERRAONDO, NERE",
+    "OLASKOAGA ODRIOZOLA, XANTAL",
+    "ISASA PEÑA, NOA",
+    "ILLARRAMENDI BERASALUCE, ARAITZ",
+    "TAMAYO MURGA, MARENE",
+    "ODRIOZOLA LOPETEGUI, USOA",
+    "LANDA RODRIGUEZ, KARLOTA",
+    "AZPIAZU ALCORTA, ANNE",
+    "GARRO LARRARTE, AIORA",
+    "LERCHUNDI URALDE, ITXASO",
+    "ARRIOLA IRURETAGOYENA, MAIALEN"
+  ],
+  "titulares_visitante": [
+    "AGUIRRECHE AGUIRRE, NAROA",
+    "SEARA GABARAIN, ONEKA",
+    "ZUBELDIA ERRASTI, IRENE",
+    "AMUNARRIZ LOZANO, MAITE",
+    "FERNANDEZ RAMIREZ, IRATI",
+    "ZURIARRAIN MALKORRA, ALAITZ",
+    "ORKAIZTEGI URKOLA, IZARO",
+    "AZKUE MARTINEZ, NAHIA",
+    "AZNAR EIZMENDI, IRAIA",
+    "MARTIARENA ELOSEGI, ENARA",
+    "SAGASTUME TELLERIA, IMARA"
+  ],
+  "suplentes_local": [
+    "MENDIA ALTUBE, MAIALEN",
+    "MORENO LASA, NORA",
+    "MORI LERTXUNDI, SINEAD"
+  ],
+  "suplentes_visitante": [
+    "GUIBELALDE AGUINALDE, JOANE",
+    "TELLERIA VAREA, JUNE",
+    "MARTIN RODRIGUEZ, ITZIAR",
+    "ALUSTIZA PALOMARES, UXUE",
+    "BALERDI MATEOS, ELENE"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "IRURETAGOYENA BERRAONDO, NERE",
+    "OLASKOAGA ODRIOZOLA, XANTAL",
+    "ISASA PEÑA, NOA",
+    "ILLARRAMENDI BERASALUCE, ARAITZ",
+    "TAMAYO MURGA, MARENE",
+    "ODRIOZOLA LOPETEGUI, USOA",
+    "LANDA RODRIGUEZ, KARLOTA",
+    "AZPIAZU ALCORTA, ANNE",
+    "GARRO LARRARTE, AIORA",
+    "LERCHUNDI URALDE, ITXASO",
+    "ARRIOLA IRURETAGOYENA, MAIALEN",
+    "MENDIA ALTUBE, MAIALEN",
+    "MORI LERTXUNDI, SINEAD",
+    "MORENO LASA, NORA"
+  ],
+  "jugadores_visitante": [
+    "AGUIRRECHE AGUIRRE, NAROA",
+    "SEARA GABARAIN, ONEKA",
+    "ZUBELDIA ERRASTI, IRENE",
+    "AMUNARRIZ LOZANO, MAITE",
+    "FERNANDEZ RAMIREZ, IRATI",
+    "ZURIARRAIN MALKORRA, ALAITZ",
+    "ORKAIZTEGI URKOLA, IZARO",
+    "AZKUE MARTINEZ, NAHIA",
+    "AZNAR EIZMENDI, IRAIA",
+    "MARTIARENA ELOSEGI, ENARA",
+    "SAGASTUME TELLERIA, IMARA",
+    "BALERDI MATEOS, ELENE",
+    "ALUSTIZA PALOMARES, UXUE",
+    "MARTIN RODRIGUEZ, ITZIAR",
+    "GUIBELALDE AGUINALDE, JOANE",
+    "TELLERIA VAREA, JUNE"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "MENDIA ALTUBE, MAIALEN",
+      "sale": "AZPIAZU ALCORTA, ANNE"
+    },
+    {
+      "min": 55,
+      "entra": "MORI LERTXUNDI, SINEAD",
+      "sale": "ARRIOLA IRURETAGOYENA, MAIALEN"
+    },
+    {
+      "min": 57,
+      "entra": "MORENO LASA, NORA",
+      "sale": "ISASA PEÑA, NOA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "BALERDI MATEOS, ELENE",
+      "sale": "SAGASTUME TELLERIA, IMARA"
+    },
+    {
+      "min": 58,
+      "entra": "ALUSTIZA PALOMARES, UXUE",
+      "sale": "FERNANDEZ RAMIREZ, IRATI"
+    },
+    {
+      "min": 58,
+      "entra": "MARTIN RODRIGUEZ, ITZIAR",
+      "sale": "MARTIARENA ELOSEGI, ENARA"
+    },
+    {
+      "min": 66,
+      "entra": "GUIBELALDE AGUINALDE, JOANE",
+      "sale": "SEARA GABARAIN, ONEKA"
+    },
+    {
+      "min": 66,
+      "entra": "TELLERIA VAREA, JUNE",
+      "sale": "ZUBELDIA ERRASTI, IRENE"
+    }
+  ],
+  "minutos_jugadores": {
+    "IRURETAGOYENA BERRAONDO, NERE": 90,
+    "OLASKOAGA ODRIOZOLA, XANTAL": 90,
+    "ISASA PEÑA, NOA": 57,
+    "ILLARRAMENDI BERASALUCE, ARAITZ": 90,
+    "TAMAYO MURGA, MARENE": 90,
+    "ODRIOZOLA LOPETEGUI, USOA": 90,
+    "LANDA RODRIGUEZ, KARLOTA": 90,
+    "AZPIAZU ALCORTA, ANNE": 46,
+    "GARRO LARRARTE, AIORA": 90,
+    "LERCHUNDI URALDE, ITXASO": 90,
+    "ARRIOLA IRURETAGOYENA, MAIALEN": 55,
+    "MENDIA ALTUBE, MAIALEN": 44,
+    "MORI LERTXUNDI, SINEAD": 35,
+    "MORENO LASA, NORA": 33,
+    "AGUIRRECHE AGUIRRE, NAROA": 90,
+    "SEARA GABARAIN, ONEKA": 66,
+    "ZUBELDIA ERRASTI, IRENE": 66,
+    "AMUNARRIZ LOZANO, MAITE": 90,
+    "FERNANDEZ RAMIREZ, IRATI": 58,
+    "ZURIARRAIN MALKORRA, ALAITZ": 90,
+    "ORKAIZTEGI URKOLA, IZARO": 90,
+    "AZKUE MARTINEZ, NAHIA": 90,
+    "AZNAR EIZMENDI, IRAIA": 90,
+    "MARTIARENA ELOSEGI, ENARA": 58,
+    "SAGASTUME TELLERIA, IMARA": 46,
+    "BALERDI MATEOS, ELENE": 44,
+    "ALUSTIZA PALOMARES, UXUE": 32,
+    "MARTIN RODRIGUEZ, ITZIAR": 32,
+    "GUIBELALDE AGUINALDE, JOANE": 24,
+    "TELLERIA VAREA, JUNE": 24
+  },
+  "portero_local": "IRURETAGOYENA BERRAONDO, NERE",
+  "portero_visitante": "AGUIRRECHE AGUIRRE, NAROA",
+  "dorsales_local": {
+    "IRURETAGOYENA BERRAONDO, NERE": 1,
+    "OLASKOAGA ODRIOZOLA, XANTAL": 2,
+    "ISASA PEÑA, NOA": 3,
+    "ILLARRAMENDI BERASALUCE, ARAITZ": 4,
+    "TAMAYO MURGA, MARENE": 5,
+    "ODRIOZOLA LOPETEGUI, USOA": 6,
+    "LANDA RODRIGUEZ, KARLOTA": 7,
+    "AZPIAZU ALCORTA, ANNE": 8,
+    "GARRO LARRARTE, AIORA": 9,
+    "LERCHUNDI URALDE, ITXASO": 10,
+    "ARRIOLA IRURETAGOYENA, MAIALEN": 11
+  },
+  "dorsales_visitante": {
+    "AGUIRRECHE AGUIRRE, NAROA": 1,
+    "SEARA GABARAIN, ONEKA": 2,
+    "ZUBELDIA ERRASTI, IRENE": 6,
+    "AMUNARRIZ LOZANO, MAITE": 7,
+    "FERNANDEZ RAMIREZ, IRATI": 8,
+    "ZURIARRAIN MALKORRA, ALAITZ": 9,
+    "ORKAIZTEGI URKOLA, IZARO": 10,
+    "AZKUE MARTINEZ, NAHIA": 12,
+    "AZNAR EIZMENDI, IRAIA": 15,
+    "MARTIARENA ELOSEGI, ENARA": 18,
+    "SAGASTUME TELLERIA, IMARA": 22
+  },
+  "suspendidos": []
+}
