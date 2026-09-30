@@ -1,0 +1,295 @@
+{
+  "acta_id": "R_251406",
+  "filename": "Acta_R_251406.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 5,
+  "fecha": "11-10-2025",
+  "hora": "18:45",
+  "categoria": "REGIONAL PREFERENTE (Grupo Único)",
+  "equipo_local": "PROMESAS EDF",
+  "equipo_visitante": "VIANES B",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SÁNCHEZ TABOADA, ANDRÉS",
+    "Árbitro Asistente",
+    "MARTIN RUIZ, DARIO",
+    "Árbitro Asistente",
+    "TORROBA BALDUZ, MARK"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 2 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 32,
+      "jugador": "AJMOULA, ABDELKADER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "AJMOULA, ABDELKADER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "TAYA ENTEHAH, SIDAHMED",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "AAKLI AKLI, ANAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 37,
+      "jugador": "RHARSALLA ABDELLAOUI, AIMAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 84,
+      "jugador": "VILLARES SAENZ, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "DAVILA MORENO, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "DAVILA MORENO, IKER",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "OCHOA DIEZ, JOSE A",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SIERRA SOTO, JOSE ANTONIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SIERRA SOTO, JOSE ANTONIO",
+  "delegado_equipo_visitante": "DOMINGO ANTOLIN, JON",
+  "titulares_local": [
+    "NEAGU, SILVIU CONSTANTIN",
+    "MEDEROS ARTILES, DYLAN JOSE",
+    "EL YOUBI EL MENSSOURI, SABIR",
+    "ARRIETA GARRIDO, JOSE M",
+    "RUIZ MONTENEGRO, MATIAS",
+    "BENITEZ RUIZ, SAMUEL",
+    "HERNANDEZ ROCHE, RUBEN",
+    "HERNANDEZ CARNEROS, HUGO",
+    "AJMOULA, ABDELKADER",
+    "TAYA ENTEHAH, SIDAHMED",
+    "CHOUDJA KAYOLE, ISRAEL KOLA"
+  ],
+  "titulares_visitante": [
+    "DUQUE MARTINEZ, ANDER",
+    "DIAZ C ALCOZ, ALAN",
+    "GARCIA GARCIA, JAVIER",
+    "IÑIGUEZ ARBINA, ADRIAN",
+    "VILLARES SAENZ, DANIEL",
+    "RHARSALLA ABDELLAOUI, AIMAN",
+    "DEL PRADO ARINA, CESAR",
+    "REINALDO BURTON, TIAGO",
+    "CORRAL HERRERA, JOSU",
+    "ARPON CADARSO, IMANOL",
+    "FERNANDEZ LOPEZ A, MIGUEL"
+  ],
+  "suplentes_local": [
+    "AAKLI AKLI, ANAS",
+    "GINES OLARTE, JESUS",
+    "GARCIA BENITO, FIDEL P",
+    "CHACON FERNANDEZ, ROBERTO ANTONIO",
+    "LORENZO AGUAYO, ALEJANDRO",
+    "MAGASSA SEMAGA, BEMBA",
+    "VIDAURRE ZUDAIRE, JOSU"
+  ],
+  "suplentes_visitante": [
+    "GIMENEZ ECHEVERRIA, SANTIAGO",
+    "SANTAMARIA SAMPEDRO, ANGEL",
+    "DAVILA MORENO, IKER",
+    "SAINZ GONZALEZ, MARIO",
+    "MARTINEZ GOYENECHEA, LUIS J",
+    "DUQUE ARINA, MIKEL",
+    "LOPEZ LABARTA, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "GINES OLARTE, JESUS",
+    "GARCIA BENITO, FIDEL P"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GIMENEZ ECHEVERRIA, SANTIAGO",
+    "MARTINEZ GOYENECHEA, LUIS J",
+    "LOPEZ LABARTA, DANIEL"
+  ],
+  "jugadores_local": [
+    "NEAGU, SILVIU CONSTANTIN",
+    "MEDEROS ARTILES, DYLAN JOSE",
+    "EL YOUBI EL MENSSOURI, SABIR",
+    "ARRIETA GARRIDO, JOSE M",
+    "RUIZ MONTENEGRO, MATIAS",
+    "BENITEZ RUIZ, SAMUEL",
+    "HERNANDEZ ROCHE, RUBEN",
+    "HERNANDEZ CARNEROS, HUGO",
+    "AJMOULA, ABDELKADER",
+    "TAYA ENTEHAH, SIDAHMED",
+    "CHOUDJA KAYOLE, ISRAEL KOLA",
+    "AAKLI AKLI, ANAS",
+    "LORENZO AGUAYO, ALEJANDRO",
+    "MAGASSA SEMAGA, BEMBA",
+    "VIDAURRE ZUDAIRE, JOSU",
+    "CHACON FERNANDEZ, ROBERTO ANTONIO"
+  ],
+  "jugadores_visitante": [
+    "DUQUE MARTINEZ, ANDER",
+    "DIAZ C ALCOZ, ALAN",
+    "GARCIA GARCIA, JAVIER",
+    "IÑIGUEZ ARBINA, ADRIAN",
+    "VILLARES SAENZ, DANIEL",
+    "RHARSALLA ABDELLAOUI, AIMAN",
+    "DEL PRADO ARINA, CESAR",
+    "REINALDO BURTON, TIAGO",
+    "CORRAL HERRERA, JOSU",
+    "ARPON CADARSO, IMANOL",
+    "FERNANDEZ LOPEZ A, MIGUEL",
+    "DAVILA MORENO, IKER",
+    "SANTAMARIA SAMPEDRO, ANGEL",
+    "SAINZ GONZALEZ, MARIO",
+    "DUQUE ARINA, MIKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "AAKLI AKLI, ANAS",
+      "sale": "EL YOUBI EL MENSSOURI, SABIR"
+    },
+    {
+      "min": 45,
+      "entra": "LORENZO AGUAYO, ALEJANDRO",
+      "sale": "BENITEZ RUIZ, SAMUEL"
+    },
+    {
+      "min": 62,
+      "entra": "MAGASSA SEMAGA, BEMBA",
+      "sale": "HERNANDEZ ROCHE, RUBEN"
+    },
+    {
+      "min": 64,
+      "entra": "VIDAURRE ZUDAIRE, JOSU",
+      "sale": "CHOUDJA KAYOLE, ISRAEL KOLA"
+    },
+    {
+      "min": 71,
+      "entra": "CHACON FERNANDEZ, ROBERTO ANTONIO",
+      "sale": "RUIZ MONTENEGRO, MATIAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "DAVILA MORENO, IKER",
+      "sale": "GARCIA GARCIA, JAVIER"
+    },
+    {
+      "min": 54,
+      "entra": "SANTAMARIA SAMPEDRO, ANGEL",
+      "sale": "RHARSALLA ABDELLAOUI, AIMAN"
+    },
+    {
+      "min": 63,
+      "entra": "SAINZ GONZALEZ, MARIO",
+      "sale": "FERNANDEZ LOPEZ A, MIGUEL"
+    },
+    {
+      "min": 74,
+      "entra": "DUQUE ARINA, MIKEL",
+      "sale": "DEL PRADO ARINA, CESAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "NEAGU, SILVIU CONSTANTIN": 90,
+    "MEDEROS ARTILES, DYLAN JOSE": 90,
+    "EL YOUBI EL MENSSOURI, SABIR": 45,
+    "ARRIETA GARRIDO, JOSE M": 90,
+    "RUIZ MONTENEGRO, MATIAS": 71,
+    "BENITEZ RUIZ, SAMUEL": 45,
+    "HERNANDEZ ROCHE, RUBEN": 62,
+    "HERNANDEZ CARNEROS, HUGO": 90,
+    "AJMOULA, ABDELKADER": 90,
+    "TAYA ENTEHAH, SIDAHMED": 90,
+    "CHOUDJA KAYOLE, ISRAEL KOLA": 64,
+    "AAKLI AKLI, ANAS": 45,
+    "LORENZO AGUAYO, ALEJANDRO": 45,
+    "MAGASSA SEMAGA, BEMBA": 28,
+    "VIDAURRE ZUDAIRE, JOSU": 26,
+    "CHACON FERNANDEZ, ROBERTO ANTONIO": 19,
+    "DUQUE MARTINEZ, ANDER": 90,
+    "DIAZ C ALCOZ, ALAN": 90,
+    "GARCIA GARCIA, JAVIER": 54,
+    "IÑIGUEZ ARBINA, ADRIAN": 90,
+    "VILLARES SAENZ, DANIEL": 90,
+    "RHARSALLA ABDELLAOUI, AIMAN": 54,
+    "DEL PRADO ARINA, CESAR": 74,
+    "REINALDO BURTON, TIAGO": 90,
+    "CORRAL HERRERA, JOSU": 90,
+    "ARPON CADARSO, IMANOL": 90,
+    "FERNANDEZ LOPEZ A, MIGUEL": 63,
+    "DAVILA MORENO, IKER": 36,
+    "SANTAMARIA SAMPEDRO, ANGEL": 36,
+    "SAINZ GONZALEZ, MARIO": 27,
+    "DUQUE ARINA, MIKEL": 16
+  },
+  "portero_local": "NEAGU, SILVIU CONSTANTIN",
+  "portero_visitante": "DUQUE MARTINEZ, ANDER",
+  "dorsales_local": {
+    "NEAGU, SILVIU CONSTANTIN": 1,
+    "MEDEROS ARTILES, DYLAN JOSE": 2,
+    "EL YOUBI EL MENSSOURI, SABIR": 3,
+    "ARRIETA GARRIDO, JOSE M": 4,
+    "RUIZ MONTENEGRO, MATIAS": 5,
+    "BENITEZ RUIZ, SAMUEL": 6,
+    "HERNANDEZ ROCHE, RUBEN": 7,
+    "HERNANDEZ CARNEROS, HUGO": 8,
+    "AJMOULA, ABDELKADER": 9,
+    "TAYA ENTEHAH, SIDAHMED": 10,
+    "CHOUDJA KAYOLE, ISRAEL KOLA": 11
+  },
+  "dorsales_visitante": {
+    "DUQUE MARTINEZ, ANDER": 25,
+    "DIAZ C ALCOZ, ALAN": 3,
+    "GARCIA GARCIA, JAVIER": 4,
+    "IÑIGUEZ ARBINA, ADRIAN": 5,
+    "VILLARES SAENZ, DANIEL": 7,
+    "RHARSALLA ABDELLAOUI, AIMAN": 12,
+    "DEL PRADO ARINA, CESAR": 14,
+    "REINALDO BURTON, TIAGO": 16,
+    "CORRAL HERRERA, JOSU": 17,
+    "ARPON CADARSO, IMANOL": 20,
+    "FERNANDEZ LOPEZ A, MIGUEL": 21
+  },
+  "suspendidos": [
+    "DAVILA MORENO, IKER"
+  ],
+  "_marcador_widget": true
+}
