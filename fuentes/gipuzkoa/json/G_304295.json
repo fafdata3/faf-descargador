@@ -1,0 +1,251 @@
+{
+  "acta_id": "G_304295",
+  "filename": "Acta_G_304295.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "23-09-2023",
+  "hora": "12:00",
+  "categoria": "GIZONEZKO KADETEEN 1. MAILA / 1ª CADETE MASCULINO (GRUPO - 2)",
+  "equipo_local": "HONDARRIBIA F.E C",
+  "equipo_visitante": "BEHOBIA C.D. B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "BLANCO BENITO, LIER"
+  ],
+  "estadio": "ONDARTZA-ANEXO",
+  "ciudad": "Hondarribia",
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "GARCIA LETE, IBINKA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "DE FRANCA DA CONCEICAO, LUKAS VINICIUS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "ZABALA ROJO, EKAIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "CEMBRERO ALZA, MANEX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 33,
+      "jugador": "MATEOS ASENJO, OIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "GARCIA LETE, IBINKA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "GAMERO BERTRAN, JOEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "ARRETXE ZAPIRAIN, DANEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "OLMEDO CELADA, IVAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DIEZ MANTEROLA, JON",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "VILLAVERDE DIAZ DE ILARRAZA, IÑIGO",
+    "ZABALA ROJO, EKAIN",
+    "TERESA PEREZ, OIHAN",
+    "CEMBRERO ALZA, MANEX",
+    "VALDAJOS IRAZUSTA, AIMAR",
+    "ETXEBESTE AMUNARRIZ, TELMO",
+    "IRISARRI AMUNARRIZ, LANDER",
+    "IGIÑIZ BARRIO, OIER",
+    "EMAZABEL GOICOECHEA, ANDER",
+    "LEOZ SARDON, OIER",
+    "TERESA PEREZ, BEÑAT"
+  ],
+  "titulares_visitante": [
+    "PEREIRA JUANENEA, JON",
+    "MATEOS ASENJO, OIER",
+    "UTRERA SERRANO, AIMAR",
+    "GARCIA MARTICORENA, IBAI",
+    "MATAS DUQUE, ADRIAN",
+    "ELORTEGI SAN JOSE, TELMO",
+    "GARCIA LETE, IBINKA",
+    "HAROUACH CHAARA, IYAD",
+    "FERNANDEZ ALONSO, HARITZ",
+    "ZAZPE ELIZONDO, ADUR",
+    "GAMERO BERTRAN, JOEL"
+  ],
+  "suplentes_local": [
+    "RIVERO MARIETA, IÑAKI",
+    "EMAZABEL MUJIKA, AITOR",
+    "OYARZABAL DIP, IKER",
+    "MIMOUNI BASURTO, OMAR"
+  ],
+  "suplentes_visitante": [
+    "CONDE ESTEBAN, TELMO",
+    "DE FRANCA DA CONCEICAO, LUKAS VINICIUS",
+    "ARRETXE ZAPIRAIN, DANEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "EMAZABEL MUJIKA, AITOR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CONDE ESTEBAN, TELMO"
+  ],
+  "jugadores_local": [
+    "VILLAVERDE DIAZ DE ILARRAZA, IÑIGO",
+    "ZABALA ROJO, EKAIN",
+    "TERESA PEREZ, OIHAN",
+    "CEMBRERO ALZA, MANEX",
+    "VALDAJOS IRAZUSTA, AIMAR",
+    "ETXEBESTE AMUNARRIZ, TELMO",
+    "IRISARRI AMUNARRIZ, LANDER",
+    "IGIÑIZ BARRIO, OIER",
+    "EMAZABEL GOICOECHEA, ANDER",
+    "LEOZ SARDON, OIER",
+    "TERESA PEREZ, BEÑAT",
+    "MIMOUNI BASURTO, OMAR",
+    "RIVERO MARIETA, IÑAKI",
+    "OYARZABAL DIP, IKER"
+  ],
+  "jugadores_visitante": [
+    "PEREIRA JUANENEA, JON",
+    "MATEOS ASENJO, OIER",
+    "UTRERA SERRANO, AIMAR",
+    "GARCIA MARTICORENA, IBAI",
+    "MATAS DUQUE, ADRIAN",
+    "ELORTEGI SAN JOSE, TELMO",
+    "GARCIA LETE, IBINKA",
+    "HAROUACH CHAARA, IYAD",
+    "FERNANDEZ ALONSO, HARITZ",
+    "ZAZPE ELIZONDO, ADUR",
+    "GAMERO BERTRAN, JOEL",
+    "DE FRANCA DA CONCEICAO, LUKAS VINICIUS",
+    "ARRETXE ZAPIRAIN, DANEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "MIMOUNI BASURTO, OMAR",
+      "sale": "VALDAJOS IRAZUSTA, AIMAR"
+    },
+    {
+      "min": 54,
+      "entra": "RIVERO MARIETA, IÑAKI",
+      "sale": "IRISARRI AMUNARRIZ, LANDER"
+    },
+    {
+      "min": 55,
+      "entra": "OYARZABAL DIP, IKER",
+      "sale": "LEOZ SARDON, OIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "DE FRANCA DA CONCEICAO, LUKAS VINICIUS",
+      "sale": "MATEOS ASENJO, OIER"
+    },
+    {
+      "min": 61,
+      "entra": "ARRETXE ZAPIRAIN, DANEL",
+      "sale": "PEREIRA JUANENEA, JON"
+    }
+  ],
+  "minutos_jugadores": {
+    "VILLAVERDE DIAZ DE ILARRAZA, IÑIGO": 90,
+    "ZABALA ROJO, EKAIN": 90,
+    "TERESA PEREZ, OIHAN": 90,
+    "CEMBRERO ALZA, MANEX": 90,
+    "VALDAJOS IRAZUSTA, AIMAR": 49,
+    "ETXEBESTE AMUNARRIZ, TELMO": 90,
+    "IRISARRI AMUNARRIZ, LANDER": 54,
+    "IGIÑIZ BARRIO, OIER": 90,
+    "EMAZABEL GOICOECHEA, ANDER": 90,
+    "LEOZ SARDON, OIER": 55,
+    "TERESA PEREZ, BEÑAT": 90,
+    "MIMOUNI BASURTO, OMAR": 41,
+    "RIVERO MARIETA, IÑAKI": 36,
+    "OYARZABAL DIP, IKER": 35,
+    "PEREIRA JUANENEA, JON": 61,
+    "MATEOS ASENJO, OIER": 41,
+    "UTRERA SERRANO, AIMAR": 90,
+    "GARCIA MARTICORENA, IBAI": 90,
+    "MATAS DUQUE, ADRIAN": 90,
+    "ELORTEGI SAN JOSE, TELMO": 90,
+    "GARCIA LETE, IBINKA": 90,
+    "HAROUACH CHAARA, IYAD": 90,
+    "FERNANDEZ ALONSO, HARITZ": 90,
+    "ZAZPE ELIZONDO, ADUR": 90,
+    "GAMERO BERTRAN, JOEL": 90,
+    "DE FRANCA DA CONCEICAO, LUKAS VINICIUS": 49,
+    "ARRETXE ZAPIRAIN, DANEL": 29
+  },
+  "portero_local": "VILLAVERDE DIAZ DE ILARRAZA, IÑIGO",
+  "portero_visitante": "FERNANDEZ ALONSO, HARITZ",
+  "dorsales_local": {
+    "VILLAVERDE DIAZ DE ILARRAZA, IÑIGO": 1,
+    "ZABALA ROJO, EKAIN": 3,
+    "TERESA PEREZ, OIHAN": 4,
+    "CEMBRERO ALZA, MANEX": 5,
+    "VALDAJOS IRAZUSTA, AIMAR": 6,
+    "ETXEBESTE AMUNARRIZ, TELMO": 7,
+    "IRISARRI AMUNARRIZ, LANDER": 10,
+    "IGIÑIZ BARRIO, OIER": 11,
+    "EMAZABEL GOICOECHEA, ANDER": 12,
+    "LEOZ SARDON, OIER": 16,
+    "TERESA PEREZ, BEÑAT": 24
+  },
+  "dorsales_visitante": {
+    "PEREIRA JUANENEA, JON": 2,
+    "MATEOS ASENJO, OIER": 3,
+    "UTRERA SERRANO, AIMAR": 6,
+    "GARCIA MARTICORENA, IBAI": 8,
+    "MATAS DUQUE, ADRIAN": 9,
+    "ELORTEGI SAN JOSE, TELMO": 10,
+    "GARCIA LETE, IBINKA": 11,
+    "HAROUACH CHAARA, IYAD": 12,
+    "FERNANDEZ ALONSO, HARITZ": 13,
+    "ZAZPE ELIZONDO, ADUR": 14,
+    "GAMERO BERTRAN, JOEL": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
