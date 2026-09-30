@@ -1,0 +1,282 @@
+{
+  "acta_id": "G_304279",
+  "filename": "Acta_G_304279.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "23-09-2023",
+  "hora": "11:30",
+  "categoria": "MUTILEN INFANTIL TXIKI / INFANTIL TXIKI MASCULINO (GRUPO - 5)",
+  "equipo_local": "ILINTXA S.D.",
+  "equipo_visitante": "BEASAIN S.D.",
+  "goles_local": 0,
+  "goles_visitante": 7,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ABIDA EL HITIBI, MOSSAAB"
+  ],
+  "estadio": "IRENE PAREDES",
+  "ciudad": "LEGAZPIA",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "MERUELO MENDIA, EGOI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "MERUELO MENDIA, EGOI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "MERUELO MENDIA, EGOI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "ARIZMENDI PALACIN, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "CUERVO ESTEVEZ, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "LIZARRALDE QUEREJETA, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "GARMENDIA BERNARAS, INHAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 29,
+      "jugador": "KURAK, FABIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MORENO RUIZ, IOKIN",
+  "entrenador_visitante": "MERUELO AMENABAR, JOSE MIGUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SEVILLANO CAMARA, RUBEN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DIEZ GOÑI, SUHAR",
+    "MENDIZABAL MADINA, EGOITZ",
+    "VEGA BARBEIRA, OIER",
+    "TORQUEMADA GARCES, ZIGOR",
+    "IRASTORZA ARRIZABALAGA, URKO",
+    "URANGA ZABALETA, MARKO",
+    "MORENO JUEZ, AMETS",
+    "MALO LARIO, PAU",
+    "DEL RIO AGUIRRE, IKER",
+    "EL ABDARY BENTAMA, ADAM",
+    "MAZOUZ OUAFA, BAKR"
+  ],
+  "titulares_visitante": [
+    "MARTELES SANCHEZ, EKAIN",
+    "ALVAREZ GARCIA, AARON",
+    "TELLERIA OTERMIN, URTZI",
+    "ARANA AGUADO, ADEI",
+    "EL HIJRA TUBIA, ISMAEL",
+    "LIZARRALDE QUEREJETA, MARKEL",
+    "SAENZ DE BURUAGA GOIA, EKAIN",
+    "MARTIN MUNDUATE, EKI",
+    "KURAK, FABIAN",
+    "IPENTZA OTEGI, ENETZ",
+    "MERUELO MENDIA, EGOI"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ TERRADILLOS, DANEL",
+    "BOYA GONZALEZ, LUKEN",
+    "MENDIZABAL MADINA, ASIER",
+    "EGAÑA ESTEBAN, OIHAN"
+  ],
+  "suplentes_visitante": [
+    "GARMENDIA AGIRRE, AIMAR",
+    "MADRAZO JUAREZ, LANDER",
+    "GARMENDIA BERNARAS, INHAR",
+    "SARRIEGI ALDASORO, ADUR",
+    "CUERVO ESTEVEZ, MARKEL",
+    "ARIZMENDI PALACIN, UNAX",
+    "VENTUREIRA SARASOLA, IGOR"
+  ],
+  "convocados_sin_jugar_local": [
+    "BOYA GONZALEZ, LUKEN",
+    "MENDIZABAL MADINA, ASIER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DIEZ GOÑI, SUHAR",
+    "MENDIZABAL MADINA, EGOITZ",
+    "VEGA BARBEIRA, OIER",
+    "TORQUEMADA GARCES, ZIGOR",
+    "IRASTORZA ARRIZABALAGA, URKO",
+    "URANGA ZABALETA, MARKO",
+    "MORENO JUEZ, AMETS",
+    "MALO LARIO, PAU",
+    "DEL RIO AGUIRRE, IKER",
+    "EL ABDARY BENTAMA, ADAM",
+    "MAZOUZ OUAFA, BAKR",
+    "RODRIGUEZ TERRADILLOS, DANEL",
+    "EGAÑA ESTEBAN, OIHAN"
+  ],
+  "jugadores_visitante": [
+    "MARTELES SANCHEZ, EKAIN",
+    "ALVAREZ GARCIA, AARON",
+    "TELLERIA OTERMIN, URTZI",
+    "ARANA AGUADO, ADEI",
+    "EL HIJRA TUBIA, ISMAEL",
+    "LIZARRALDE QUEREJETA, MARKEL",
+    "SAENZ DE BURUAGA GOIA, EKAIN",
+    "MARTIN MUNDUATE, EKI",
+    "KURAK, FABIAN",
+    "IPENTZA OTEGI, ENETZ",
+    "MERUELO MENDIA, EGOI",
+    "MADRAZO JUAREZ, LANDER",
+    "GARMENDIA BERNARAS, INHAR",
+    "GARMENDIA AGIRRE, AIMAR",
+    "VENTUREIRA SARASOLA, IGOR",
+    "ARIZMENDI PALACIN, UNAX",
+    "CUERVO ESTEVEZ, MARKEL",
+    "SARRIEGI ALDASORO, ADUR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 23,
+      "entra": "RODRIGUEZ TERRADILLOS, DANEL",
+      "sale": "DIEZ GOÑI, SUHAR"
+    },
+    {
+      "min": 35,
+      "entra": "EGAÑA ESTEBAN, OIHAN",
+      "sale": "MAZOUZ OUAFA, BAKR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "MADRAZO JUAREZ, LANDER",
+      "sale": "MARTELES SANCHEZ, EKAIN"
+    },
+    {
+      "min": 35,
+      "entra": "GARMENDIA BERNARAS, INHAR",
+      "sale": "IPENTZA OTEGI, ENETZ"
+    },
+    {
+      "min": 35,
+      "entra": "GARMENDIA AGIRRE, AIMAR",
+      "sale": "TELLERIA OTERMIN, URTZI"
+    },
+    {
+      "min": 35,
+      "entra": "VENTUREIRA SARASOLA, IGOR",
+      "sale": "EL HIJRA TUBIA, ISMAEL"
+    },
+    {
+      "min": 35,
+      "entra": "ARIZMENDI PALACIN, UNAX",
+      "sale": "ARANA AGUADO, ADEI"
+    },
+    {
+      "min": 38,
+      "entra": "CUERVO ESTEVEZ, MARKEL",
+      "sale": "MERUELO MENDIA, EGOI"
+    },
+    {
+      "min": 38,
+      "entra": "SARRIEGI ALDASORO, ADUR",
+      "sale": "SAENZ DE BURUAGA GOIA, EKAIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "DIEZ GOÑI, SUHAR": 23,
+    "MENDIZABAL MADINA, EGOITZ": 90,
+    "VEGA BARBEIRA, OIER": 90,
+    "TORQUEMADA GARCES, ZIGOR": 90,
+    "IRASTORZA ARRIZABALAGA, URKO": 90,
+    "URANGA ZABALETA, MARKO": 90,
+    "MORENO JUEZ, AMETS": 90,
+    "MALO LARIO, PAU": 90,
+    "DEL RIO AGUIRRE, IKER": 90,
+    "EL ABDARY BENTAMA, ADAM": 90,
+    "MAZOUZ OUAFA, BAKR": 35,
+    "RODRIGUEZ TERRADILLOS, DANEL": 67,
+    "EGAÑA ESTEBAN, OIHAN": 55,
+    "MARTELES SANCHEZ, EKAIN": 35,
+    "ALVAREZ GARCIA, AARON": 90,
+    "TELLERIA OTERMIN, URTZI": 35,
+    "ARANA AGUADO, ADEI": 35,
+    "EL HIJRA TUBIA, ISMAEL": 35,
+    "LIZARRALDE QUEREJETA, MARKEL": 90,
+    "SAENZ DE BURUAGA GOIA, EKAIN": 38,
+    "MARTIN MUNDUATE, EKI": 90,
+    "KURAK, FABIAN": 90,
+    "IPENTZA OTEGI, ENETZ": 35,
+    "MERUELO MENDIA, EGOI": 38,
+    "MADRAZO JUAREZ, LANDER": 55,
+    "GARMENDIA BERNARAS, INHAR": 55,
+    "GARMENDIA AGIRRE, AIMAR": 55,
+    "VENTUREIRA SARASOLA, IGOR": 55,
+    "ARIZMENDI PALACIN, UNAX": 55,
+    "CUERVO ESTEVEZ, MARKEL": 52,
+    "SARRIEGI ALDASORO, ADUR": 52
+  },
+  "portero_local": "DIEZ GOÑI, SUHAR",
+  "portero_visitante": "MARTELES SANCHEZ, EKAIN",
+  "dorsales_local": {
+    "DIEZ GOÑI, SUHAR": 1,
+    "MENDIZABAL MADINA, EGOITZ": 2,
+    "VEGA BARBEIRA, OIER": 4,
+    "TORQUEMADA GARCES, ZIGOR": 5,
+    "IRASTORZA ARRIZABALAGA, URKO": 7,
+    "URANGA ZABALETA, MARKO": 8,
+    "MORENO JUEZ, AMETS": 9,
+    "MALO LARIO, PAU": 10,
+    "DEL RIO AGUIRRE, IKER": 11,
+    "EL ABDARY BENTAMA, ADAM": 15,
+    "MAZOUZ OUAFA, BAKR": 16
+  },
+  "dorsales_visitante": {
+    "MARTELES SANCHEZ, EKAIN": 1,
+    "ALVAREZ GARCIA, AARON": 2,
+    "TELLERIA OTERMIN, URTZI": 3,
+    "ARANA AGUADO, ADEI": 4,
+    "EL HIJRA TUBIA, ISMAEL": 5,
+    "LIZARRALDE QUEREJETA, MARKEL": 6,
+    "SAENZ DE BURUAGA GOIA, EKAIN": 7,
+    "MARTIN MUNDUATE, EKI": 8,
+    "KURAK, FABIAN": 9,
+    "IPENTZA OTEGI, ENETZ": 10,
+    "MERUELO MENDIA, EGOI": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
