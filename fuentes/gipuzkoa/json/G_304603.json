@@ -1,0 +1,255 @@
+{
+  "acta_id": "G_304603",
+  "filename": "Acta_G_304603.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 3,
+  "fecha": "30-09-2023",
+  "hora": "12:00",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (GRUPO - 1)",
+  "equipo_local": "REAL SOCIEDAD S.A.D. C",
+  "equipo_visitante": "ARRUPE CHAMINADE C.D.D.F.",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "RAMOS FABO, DIEGO"
+  ],
+  "estadio": "ZUBIETA",
+  "ciudad": "DONOSTIA",
+  "goleadores": [
+    {
+      "minuto": 39,
+      "jugador": "ODRIOZOLA GARRIDO, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "GARMENDIA IPARRAGUIRRE, MIKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "AYERDI GARBIZU, GORATZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 25,
+      "jugador": "OTAÑO USARRALDE, IRAITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ORTEGA BLANCO, DAVID",
+  "entrenador_visitante": "LETE OROZ, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ROMERO RUIZ, ANDER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ROMERO RUIZ, ANDER",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "MARTINEZ VADILLO, MARKEL",
+    "ALDASORO SARRIEGI, BEÑAT",
+    "URAIN ARRATIBEL, AIMAR",
+    "OTAÑO USARRALDE, IRAITZ",
+    "DUBERNET BOLAÑO, ANDER",
+    "GARMENDIA IPARRAGUIRRE, MIKEL",
+    "MONTORIO ARANGUREN, UNAI",
+    "CID GARMENDIA, HEGOI",
+    "IBARGUREN ARRIZABALAGA, IKER",
+    "ACEREDA VINUESA, AITOR",
+    "IRATZOKI AGIRRE, MARKEL"
+  ],
+  "titulares_visitante": [
+    "ESNAOLA CANABAL, HUGO",
+    "ODRIOZOLA GARRIDO, UNAI",
+    "CASTILLO SANSINENEA, ASIER",
+    "AYERDI GARBIZU, GORATZ",
+    "DUO MARTINEZ, ANDER",
+    "NIN MARTINEZ, ALVARO",
+    "GRANADO HERNANDO, ALVARO",
+    "URBISTONDO PEREZ, JUAN",
+    "RECALDE CASTRO, JON",
+    "FERNANDEZ GRIJALBO, TRISTAN ALAI",
+    "LOSA COCA, LANDER"
+  ],
+  "suplentes_local": [
+    "ALCALA ZABALA, XABIER",
+    "IPINZA AGUIRRE, OIER",
+    "GRANADO ZABALA, DANEL",
+    "URANGA EZEIZABARRENA, HARITZ",
+    "ALBIZU AGUDO, IKER"
+  ],
+  "suplentes_visitante": [
+    "BENGOETXEA CANDUELA, JON ANDER",
+    "BARAHONA LOPEZ, JOSEBA",
+    "REGUEIRA ITURBE, MARTIN",
+    "COLOMA AZURMENDI, IBON",
+    "ESPINOZA JARA, DEREK",
+    "CERDAN COJO, PABLO"
+  ],
+  "convocados_sin_jugar_local": [
+    "IPINZA AGUIRRE, OIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BARAHONA LOPEZ, JOSEBA"
+  ],
+  "jugadores_local": [
+    "MARTINEZ VADILLO, MARKEL",
+    "ALDASORO SARRIEGI, BEÑAT",
+    "URAIN ARRATIBEL, AIMAR",
+    "OTAÑO USARRALDE, IRAITZ",
+    "DUBERNET BOLAÑO, ANDER",
+    "GARMENDIA IPARRAGUIRRE, MIKEL",
+    "MONTORIO ARANGUREN, UNAI",
+    "CID GARMENDIA, HEGOI",
+    "IBARGUREN ARRIZABALAGA, IKER",
+    "ACEREDA VINUESA, AITOR",
+    "IRATZOKI AGIRRE, MARKEL",
+    "ALCALA ZABALA, XABIER",
+    "ALBIZU AGUDO, IKER",
+    "URANGA EZEIZABARRENA, HARITZ",
+    "GRANADO ZABALA, DANEL"
+  ],
+  "jugadores_visitante": [
+    "ESNAOLA CANABAL, HUGO",
+    "ODRIOZOLA GARRIDO, UNAI",
+    "CASTILLO SANSINENEA, ASIER",
+    "AYERDI GARBIZU, GORATZ",
+    "DUO MARTINEZ, ANDER",
+    "NIN MARTINEZ, ALVARO",
+    "GRANADO HERNANDO, ALVARO",
+    "URBISTONDO PEREZ, JUAN",
+    "RECALDE CASTRO, JON",
+    "FERNANDEZ GRIJALBO, TRISTAN ALAI",
+    "LOSA COCA, LANDER",
+    "REGUEIRA ITURBE, MARTIN",
+    "COLOMA AZURMENDI, IBON",
+    "ESPINOZA JARA, DEREK",
+    "BENGOETXEA CANDUELA, JON ANDER",
+    "CERDAN COJO, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 34,
+      "entra": "ALCALA ZABALA, XABIER",
+      "sale": "OTAÑO USARRALDE, IRAITZ"
+    },
+    {
+      "min": 40,
+      "entra": "ALBIZU AGUDO, IKER",
+      "sale": "IRATZOKI AGIRRE, MARKEL"
+    },
+    {
+      "min": 59,
+      "entra": "URANGA EZEIZABARRENA, HARITZ",
+      "sale": "MONTORIO ARANGUREN, UNAI"
+    },
+    {
+      "min": 59,
+      "entra": "GRANADO ZABALA, DANEL",
+      "sale": "IBARGUREN ARRIZABALAGA, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "REGUEIRA ITURBE, MARTIN",
+      "sale": "URBISTONDO PEREZ, JUAN"
+    },
+    {
+      "min": 50,
+      "entra": "COLOMA AZURMENDI, IBON",
+      "sale": "LOSA COCA, LANDER"
+    },
+    {
+      "min": 50,
+      "entra": "ESPINOZA JARA, DEREK",
+      "sale": "FERNANDEZ GRIJALBO, TRISTAN ALAI"
+    },
+    {
+      "min": 60,
+      "entra": "BENGOETXEA CANDUELA, JON ANDER",
+      "sale": "NIN MARTINEZ, ALVARO"
+    },
+    {
+      "min": 65,
+      "entra": "CERDAN COJO, PABLO",
+      "sale": "ODRIOZOLA GARRIDO, UNAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTINEZ VADILLO, MARKEL": 90,
+    "ALDASORO SARRIEGI, BEÑAT": 90,
+    "URAIN ARRATIBEL, AIMAR": 90,
+    "OTAÑO USARRALDE, IRAITZ": 34,
+    "DUBERNET BOLAÑO, ANDER": 90,
+    "GARMENDIA IPARRAGUIRRE, MIKEL": 90,
+    "MONTORIO ARANGUREN, UNAI": 59,
+    "CID GARMENDIA, HEGOI": 90,
+    "IBARGUREN ARRIZABALAGA, IKER": 59,
+    "ACEREDA VINUESA, AITOR": 90,
+    "IRATZOKI AGIRRE, MARKEL": 40,
+    "ALCALA ZABALA, XABIER": 56,
+    "ALBIZU AGUDO, IKER": 50,
+    "URANGA EZEIZABARRENA, HARITZ": 31,
+    "GRANADO ZABALA, DANEL": 31,
+    "ESNAOLA CANABAL, HUGO": 90,
+    "ODRIOZOLA GARRIDO, UNAI": 65,
+    "CASTILLO SANSINENEA, ASIER": 90,
+    "AYERDI GARBIZU, GORATZ": 90,
+    "DUO MARTINEZ, ANDER": 90,
+    "NIN MARTINEZ, ALVARO": 60,
+    "GRANADO HERNANDO, ALVARO": 90,
+    "URBISTONDO PEREZ, JUAN": 50,
+    "RECALDE CASTRO, JON": 90,
+    "FERNANDEZ GRIJALBO, TRISTAN ALAI": 50,
+    "LOSA COCA, LANDER": 50,
+    "REGUEIRA ITURBE, MARTIN": 40,
+    "COLOMA AZURMENDI, IBON": 40,
+    "ESPINOZA JARA, DEREK": 40,
+    "BENGOETXEA CANDUELA, JON ANDER": 30,
+    "CERDAN COJO, PABLO": 25
+  },
+  "portero_local": "MARTINEZ VADILLO, MARKEL",
+  "portero_visitante": "NIN MARTINEZ, ALVARO",
+  "dorsales_local": {
+    "MARTINEZ VADILLO, MARKEL": 1,
+    "ALDASORO SARRIEGI, BEÑAT": 2,
+    "URAIN ARRATIBEL, AIMAR": 3,
+    "OTAÑO USARRALDE, IRAITZ": 4,
+    "DUBERNET BOLAÑO, ANDER": 5,
+    "GARMENDIA IPARRAGUIRRE, MIKEL": 6,
+    "MONTORIO ARANGUREN, UNAI": 7,
+    "CID GARMENDIA, HEGOI": 8,
+    "IBARGUREN ARRIZABALAGA, IKER": 9,
+    "ACEREDA VINUESA, AITOR": 10,
+    "IRATZOKI AGIRRE, MARKEL": 11
+  },
+  "dorsales_visitante": {
+    "ESNAOLA CANABAL, HUGO": 4,
+    "ODRIOZOLA GARRIDO, UNAI": 7,
+    "CASTILLO SANSINENEA, ASIER": 8,
+    "AYERDI GARBIZU, GORATZ": 9,
+    "DUO MARTINEZ, ANDER": 10,
+    "NIN MARTINEZ, ALVARO": 13,
+    "GRANADO HERNANDO, ALVARO": 14,
+    "URBISTONDO PEREZ, JUAN": 20,
+    "RECALDE CASTRO, JON": 21,
+    "FERNANDEZ GRIJALBO, TRISTAN ALAI": 23,
+    "LOSA COCA, LANDER": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
