@@ -1,0 +1,235 @@
+{
+  "acta_id": "G_304102",
+  "filename": "Acta_G_304102.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "10-09-2023",
+  "hora": "11:00",
+  "categoria": "GIZONEZKOEN OHOREZKO KADETE MAILA / CADETE DE HONOR MASCULINO (GRUPO - 1)",
+  "equipo_local": "BETI ONA C.D.",
+  "equipo_visitante": "EUSKALDUNA S.D.",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ZAPIAIN ERRAZQUIN, ASIER"
+  ],
+  "estadio": "BERAUN",
+  "ciudad": "RENTERIA",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "TOLOSA JIMENEZ, ILUN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "TOLOSA JIMENEZ, ILUN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "CABERO GARCIA, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "FUENTE ARANO, AITOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "GARCIA NIETO, ANDONI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "TORON AYUSO, BEÑAT",
+  "titulares_local": [
+    "BARANDIARAN MORO, ADUR",
+    "ARTOLA RIAÑO, OIHAN",
+    "FALQUE CAJIGOS, EKI",
+    "CABERO GARCIA, AIMAR",
+    "DAMASO SAN NAZARIO, UNAI",
+    "FUENTE ARANO, AITOR",
+    "FERNANDES ORBEGOZO, YULEN",
+    "BERNET RODRIGUEZ, IBAI",
+    "GARCIA ORDUÑA, IVAN",
+    "BENDEDDOUCHE GUEMRI, KHEIREEDDIN"
+  ],
+  "titulares_visitante": [
+    "AZCUE BARRIO, ANDER",
+    "CILLERO DEL OLMO, GORKA",
+    "ALBIZU VAQUERO, AMETS",
+    "ALONSO BAKERO, EKI",
+    "VALDES NIETO, ALEJANDRO",
+    "CALVO VEGA, DAVID",
+    "IZAGIRRE ERRAZKIN, BEÑAT",
+    "ALCAIN URALDE, XIKER",
+    "TELLETXEA OYARZABAL, OIER",
+    "ICHASO VENTANAS, OIER",
+    "TOLOSA JIMENEZ, ILUN"
+  ],
+  "suplentes_local": [
+    "PETRON PETRIKORENA, OIER",
+    "VICENTE GARCIA, EUKEN",
+    "TAZON LASA, DARIO",
+    "VALLADOLID BABACE, ASIER",
+    "LOZA MARTIN, ARITZ",
+    "SALVADOR GONZALEZ, ADRIAN"
+  ],
+  "suplentes_visitante": [
+    "IRAZU RODRIGUEZ, UNAI",
+    "SALGADO DIAZ, UNAI",
+    "TENA TAPIA, ENEKO",
+    "VICENTE ARRANZ, ALEX",
+    "ICETA DORRONSORO, JON",
+    "ZABALETA HERNANDEZ, EKAIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "VICENTE GARCIA, EUKEN",
+    "TAZON LASA, DARIO",
+    "VALLADOLID BABACE, ASIER",
+    "LOZA MARTIN, ARITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "IRAZU RODRIGUEZ, UNAI",
+    "ICETA DORRONSORO, JON"
+  ],
+  "jugadores_local": [
+    "BARANDIARAN MORO, ADUR",
+    "ARTOLA RIAÑO, OIHAN",
+    "FALQUE CAJIGOS, EKI",
+    "CABERO GARCIA, AIMAR",
+    "DAMASO SAN NAZARIO, UNAI",
+    "FUENTE ARANO, AITOR",
+    "FERNANDES ORBEGOZO, YULEN",
+    "BERNET RODRIGUEZ, IBAI",
+    "GARCIA ORDUÑA, IVAN",
+    "BENDEDDOUCHE GUEMRI, KHEIREEDDIN",
+    "SALVADOR GONZALEZ, ADRIAN",
+    "PETRON PETRIKORENA, OIER"
+  ],
+  "jugadores_visitante": [
+    "AZCUE BARRIO, ANDER",
+    "CILLERO DEL OLMO, GORKA",
+    "ALBIZU VAQUERO, AMETS",
+    "ALONSO BAKERO, EKI",
+    "VALDES NIETO, ALEJANDRO",
+    "CALVO VEGA, DAVID",
+    "IZAGIRRE ERRAZKIN, BEÑAT",
+    "ALCAIN URALDE, XIKER",
+    "TELLETXEA OYARZABAL, OIER",
+    "ICHASO VENTANAS, OIER",
+    "TOLOSA JIMENEZ, ILUN",
+    "TENA TAPIA, ENEKO",
+    "VICENTE ARRANZ, ALEX",
+    "ZABALETA HERNANDEZ, EKAIN",
+    "SALGADO DIAZ, UNAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SALVADOR GONZALEZ, ADRIAN",
+      "sale": "DAMASO SAN NAZARIO, UNAI"
+    },
+    {
+      "min": 57,
+      "entra": "PETRON PETRIKORENA, OIER",
+      "sale": "BERNET RODRIGUEZ, IBAI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "TENA TAPIA, ENEKO",
+      "sale": "CALVO VEGA, DAVID"
+    },
+    {
+      "min": 68,
+      "entra": "VICENTE ARRANZ, ALEX",
+      "sale": "ALBIZU VAQUERO, AMETS"
+    },
+    {
+      "min": 73,
+      "entra": "ZABALETA HERNANDEZ, EKAIN",
+      "sale": "ICHASO VENTANAS, OIER"
+    },
+    {
+      "min": 73,
+      "entra": "SALGADO DIAZ, UNAI",
+      "sale": "TOLOSA JIMENEZ, ILUN"
+    }
+  ],
+  "minutos_jugadores": {
+    "BARANDIARAN MORO, ADUR": 90,
+    "ARTOLA RIAÑO, OIHAN": 90,
+    "FALQUE CAJIGOS, EKI": 90,
+    "CABERO GARCIA, AIMAR": 90,
+    "DAMASO SAN NAZARIO, UNAI": 40,
+    "FUENTE ARANO, AITOR": 90,
+    "FERNANDES ORBEGOZO, YULEN": 90,
+    "BERNET RODRIGUEZ, IBAI": 57,
+    "GARCIA ORDUÑA, IVAN": 90,
+    "BENDEDDOUCHE GUEMRI, KHEIREEDDIN": 90,
+    "SALVADOR GONZALEZ, ADRIAN": 50,
+    "PETRON PETRIKORENA, OIER": 33,
+    "AZCUE BARRIO, ANDER": 90,
+    "CILLERO DEL OLMO, GORKA": 90,
+    "ALBIZU VAQUERO, AMETS": 68,
+    "ALONSO BAKERO, EKI": 90,
+    "VALDES NIETO, ALEJANDRO": 90,
+    "CALVO VEGA, DAVID": 54,
+    "IZAGIRRE ERRAZKIN, BEÑAT": 90,
+    "ALCAIN URALDE, XIKER": 90,
+    "TELLETXEA OYARZABAL, OIER": 90,
+    "ICHASO VENTANAS, OIER": 73,
+    "TOLOSA JIMENEZ, ILUN": 73,
+    "TENA TAPIA, ENEKO": 36,
+    "VICENTE ARRANZ, ALEX": 22,
+    "ZABALETA HERNANDEZ, EKAIN": 17,
+    "SALGADO DIAZ, UNAI": 17
+  },
+  "portero_local": "BARANDIARAN MORO, ADUR",
+  "portero_visitante": "AZCUE BARRIO, ANDER",
+  "dorsales_local": {
+    "BARANDIARAN MORO, ADUR": 1,
+    "ARTOLA RIAÑO, OIHAN": 4,
+    "FALQUE CAJIGOS, EKI": 5,
+    "CABERO GARCIA, AIMAR": 7,
+    "DAMASO SAN NAZARIO, UNAI": 8,
+    "FUENTE ARANO, AITOR": 10,
+    "FERNANDES ORBEGOZO, YULEN": 11,
+    "BERNET RODRIGUEZ, IBAI": 18,
+    "GARCIA ORDUÑA, IVAN": 20,
+    "BENDEDDOUCHE GUEMRI, KHEIREEDDIN": 21
+  },
+  "dorsales_visitante": {
+    "AZCUE BARRIO, ANDER": 1,
+    "CILLERO DEL OLMO, GORKA": 2,
+    "ALBIZU VAQUERO, AMETS": 3,
+    "ALONSO BAKERO, EKI": 4,
+    "VALDES NIETO, ALEJANDRO": 5,
+    "CALVO VEGA, DAVID": 7,
+    "IZAGIRRE ERRAZKIN, BEÑAT": 8,
+    "ALCAIN URALDE, XIKER": 10,
+    "TELLETXEA OYARZABAL, OIER": 15,
+    "ICHASO VENTANAS, OIER": 20,
+    "TOLOSA JIMENEZ, ILUN": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
