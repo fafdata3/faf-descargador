@@ -1,0 +1,233 @@
+{
+  "acta_id": "G_304147",
+  "filename": "Acta_G_304147.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 1,
+  "fecha": "16-09-2023",
+  "hora": "16:00",
+  "categoria": "GIZONEZKO KADETEEN GORENGO MAILA / PREFERENTE CADETE MASCULINO (GRUPO - 2)",
+  "equipo_local": "URNIETA K.E.",
+  "equipo_visitante": "ARETXABALETA K.E. UDA",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "LEÓN MANRIQUE, VICTOR ALEXANDER"
+  ],
+  "estadio": "URNIETA",
+  "ciudad": "Urnieta",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "AZPITARTE ZUBIZARRETA, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "AZPITARTE ZUBIZARRETA, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "AZPITARTE ZUBIZARRETA, AIMAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ROBLEDO MAGRO, ALVARO",
+  "entrenador_visitante": "DEL BLANCO PEREZ, ALVARO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CUENCA GALLEGO, DAVID",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "BREA MARTIN, ALAIN",
+    "EZAMA DIAZ, MARKEL",
+    "ORBISO CABALLERO, YELKO",
+    "GARCIA GARMENDIA, IBAI",
+    "EGAÑA EGAÑA, EÑAUT",
+    "NIEBLA ANTEQUERA, MARKEL",
+    "GUIRADO REDONDO, LANDER",
+    "GOMEZ GARCIA, URKO",
+    "MARCOS OTEGUI, AMETS",
+    "TOMASENA MURILLO, BEÑAT"
+  ],
+  "titulares_visitante": [
+    "LASAGABASTER ARRIETA, MARTXEL",
+    "LARRINAGA SIERRA, JULEN",
+    "LOUVELLI URRUTIA, ITOITZ",
+    "ZURUTUZA AMOZARRAIN, ANTTON",
+    "AZPITARTE ZUBIZARRETA, AIMAR",
+    "ZUBILLAGA OLABE, DANEL",
+    "DEL REY NAVARRO, UNAX",
+    "URKIA GARAY, GILLEN",
+    "AGIRIANO BEITIA, IBAN",
+    "LEGORBURU EZEIZA, ZUHAITZ",
+    "LARRINAGA SIERRA, MARKEL"
+  ],
+  "suplentes_local": [
+    "FLORIDO CALLEJON, LUCAS",
+    "MARIGIL CARRACEDO, UNAX",
+    "FRADEJAS MORICHE, LAIN",
+    "ZUBELDIA REGUERA, AIMAR",
+    "MERINO RODRIGUEZ, JON",
+    "ARRUE YARZA, TXEMA"
+  ],
+  "suplentes_visitante": [
+    "LOUVELLI URRUTIA, EKHI",
+    "ZUBIZARRETA URIBARREN, BEÑAT",
+    "PEÑACOBA GOMEZ, ENEKO",
+    "DEL FRESNO LEZETA, OIER",
+    "ALTUNA DOMINGOS, AMETS",
+    "GARAI GUTIERREZ, EÑAUT"
+  ],
+  "convocados_sin_jugar_local": [
+    "FLORIDO CALLEJON, LUCAS",
+    "FRADEJAS MORICHE, LAIN",
+    "ZUBELDIA REGUERA, AIMAR",
+    "MERINO RODRIGUEZ, JON"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ZUBIZARRETA URIBARREN, BEÑAT"
+  ],
+  "jugadores_local": [
+    "BREA MARTIN, ALAIN",
+    "EZAMA DIAZ, MARKEL",
+    "ORBISO CABALLERO, YELKO",
+    "GARCIA GARMENDIA, IBAI",
+    "EGAÑA EGAÑA, EÑAUT",
+    "NIEBLA ANTEQUERA, MARKEL",
+    "GUIRADO REDONDO, LANDER",
+    "GOMEZ GARCIA, URKO",
+    "MARCOS OTEGUI, AMETS",
+    "TOMASENA MURILLO, BEÑAT",
+    "MARIGIL CARRACEDO, UNAX",
+    "ARRUE YARZA, TXEMA"
+  ],
+  "jugadores_visitante": [
+    "LASAGABASTER ARRIETA, MARTXEL",
+    "LARRINAGA SIERRA, JULEN",
+    "LOUVELLI URRUTIA, ITOITZ",
+    "ZURUTUZA AMOZARRAIN, ANTTON",
+    "AZPITARTE ZUBIZARRETA, AIMAR",
+    "ZUBILLAGA OLABE, DANEL",
+    "DEL REY NAVARRO, UNAX",
+    "URKIA GARAY, GILLEN",
+    "AGIRIANO BEITIA, IBAN",
+    "LEGORBURU EZEIZA, ZUHAITZ",
+    "LARRINAGA SIERRA, MARKEL",
+    "LOUVELLI URRUTIA, EKHI",
+    "PEÑACOBA GOMEZ, ENEKO",
+    "DEL FRESNO LEZETA, OIER",
+    "GARAI GUTIERREZ, EÑAUT",
+    "ALTUNA DOMINGOS, AMETS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "MARIGIL CARRACEDO, UNAX",
+      "sale": "ORBISO CABALLERO, YELKO"
+    },
+    {
+      "min": 72,
+      "entra": "ARRUE YARZA, TXEMA",
+      "sale": "MARCOS OTEGUI, AMETS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "LOUVELLI URRUTIA, EKHI",
+      "sale": "LARRINAGA SIERRA, MARKEL"
+    },
+    {
+      "min": 61,
+      "entra": "PEÑACOBA GOMEZ, ENEKO",
+      "sale": "LARRINAGA SIERRA, JULEN"
+    },
+    {
+      "min": 61,
+      "entra": "DEL FRESNO LEZETA, OIER",
+      "sale": "LOUVELLI URRUTIA, ITOITZ"
+    },
+    {
+      "min": 64,
+      "entra": "GARAI GUTIERREZ, EÑAUT",
+      "sale": "ZUBILLAGA OLABE, DANEL"
+    },
+    {
+      "min": 64,
+      "entra": "ALTUNA DOMINGOS, AMETS",
+      "sale": "URKIA GARAY, GILLEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "BREA MARTIN, ALAIN": 90,
+    "EZAMA DIAZ, MARKEL": 90,
+    "ORBISO CABALLERO, YELKO": 59,
+    "GARCIA GARMENDIA, IBAI": 90,
+    "EGAÑA EGAÑA, EÑAUT": 90,
+    "NIEBLA ANTEQUERA, MARKEL": 90,
+    "GUIRADO REDONDO, LANDER": 90,
+    "GOMEZ GARCIA, URKO": 90,
+    "MARCOS OTEGUI, AMETS": 72,
+    "TOMASENA MURILLO, BEÑAT": 90,
+    "MARIGIL CARRACEDO, UNAX": 31,
+    "ARRUE YARZA, TXEMA": 18,
+    "LASAGABASTER ARRIETA, MARTXEL": 90,
+    "LARRINAGA SIERRA, JULEN": 61,
+    "LOUVELLI URRUTIA, ITOITZ": 61,
+    "ZURUTUZA AMOZARRAIN, ANTTON": 90,
+    "AZPITARTE ZUBIZARRETA, AIMAR": 90,
+    "ZUBILLAGA OLABE, DANEL": 64,
+    "DEL REY NAVARRO, UNAX": 90,
+    "URKIA GARAY, GILLEN": 64,
+    "AGIRIANO BEITIA, IBAN": 90,
+    "LEGORBURU EZEIZA, ZUHAITZ": 90,
+    "LARRINAGA SIERRA, MARKEL": 56,
+    "LOUVELLI URRUTIA, EKHI": 34,
+    "PEÑACOBA GOMEZ, ENEKO": 29,
+    "DEL FRESNO LEZETA, OIER": 29,
+    "GARAI GUTIERREZ, EÑAUT": 26,
+    "ALTUNA DOMINGOS, AMETS": 26
+  },
+  "portero_local": "BREA MARTIN, ALAIN",
+  "portero_visitante": "LASAGABASTER ARRIETA, MARTXEL",
+  "dorsales_local": {
+    "BREA MARTIN, ALAIN": 1,
+    "EZAMA DIAZ, MARKEL": 3,
+    "ORBISO CABALLERO, YELKO": 5,
+    "GARCIA GARMENDIA, IBAI": 7,
+    "EGAÑA EGAÑA, EÑAUT": 8,
+    "NIEBLA ANTEQUERA, MARKEL": 10,
+    "GUIRADO REDONDO, LANDER": 14,
+    "GOMEZ GARCIA, URKO": 18,
+    "MARCOS OTEGUI, AMETS": 24,
+    "TOMASENA MURILLO, BEÑAT": 25
+  },
+  "dorsales_visitante": {
+    "LASAGABASTER ARRIETA, MARTXEL": 1,
+    "LARRINAGA SIERRA, JULEN": 2,
+    "LOUVELLI URRUTIA, ITOITZ": 3,
+    "ZURUTUZA AMOZARRAIN, ANTTON": 4,
+    "AZPITARTE ZUBIZARRETA, AIMAR": 7,
+    "ZUBILLAGA OLABE, DANEL": 10,
+    "DEL REY NAVARRO, UNAX": 11,
+    "URKIA GARAY, GILLEN": 12,
+    "AGIRIANO BEITIA, IBAN": 14,
+    "LEGORBURU EZEIZA, ZUHAITZ": 17,
+    "LARRINAGA SIERRA, MARKEL": 18
+  },
+  "suspendidos": []
+}
