@@ -1,0 +1,163 @@
+{
+  "acta_id": "G_304566",
+  "filename": "Acta_G_304566.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "30-09-2023",
+  "hora": "10:00",
+  "categoria": "INFANTIL MUTILEN 1.MAILA / 1ª INFANTIL MASCULINO (GRUPO - 4)",
+  "equipo_local": "VASCONIA C.D.",
+  "equipo_visitante": "EKINTZA K.E.",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "PEREZ DE ARRILUZEA ZUDAIRE, IKER"
+  ],
+  "estadio": "PUIO",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 48,
+      "jugador": "CUENCA AYESTARAN, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "CUENCA AYESTARAN, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "ORIA ROIZ, TELMO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "REDONDO IRAOLA, IÑAKI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CASTRO ERRO, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "GARMENDIA RODRIGUEZ, ENEKO",
+    "ALTUNA ASTRAIN, MARTIN",
+    "IBARBURU ASENSIO, UNAI",
+    "ARANGUREN MENDEZ, LIER",
+    "CARRERAS OLANO, IKER",
+    "SALEHI KOOHESTANI, SAMIN",
+    "VICARI ALVAREZ, UNAI",
+    "GONZALEZ MUÑOZ, PABLO",
+    "ORIA ROIZ, TELMO",
+    "SALARRULLANA REVUELTA, DIEGO"
+  ],
+  "titulares_visitante": [],
+  "suplentes_local": [
+    "LANDA CHARTON, DANEL",
+    "SALAVERRIA ECHAONDO, MARKEL",
+    "REDONDO IRAOLA, IÑAKI",
+    "MONTAÑEZ GOENAGA, LUCA",
+    "CUENCA AYESTARAN, MARKEL"
+  ],
+  "suplentes_visitante": [
+    "BAROJA ADRIAN, XABIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "SALAVERRIA ECHAONDO, MARKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BAROJA ADRIAN, XABIER"
+  ],
+  "jugadores_local": [
+    "GARMENDIA RODRIGUEZ, ENEKO",
+    "ALTUNA ASTRAIN, MARTIN",
+    "IBARBURU ASENSIO, UNAI",
+    "ARANGUREN MENDEZ, LIER",
+    "CARRERAS OLANO, IKER",
+    "SALEHI KOOHESTANI, SAMIN",
+    "VICARI ALVAREZ, UNAI",
+    "GONZALEZ MUÑOZ, PABLO",
+    "ORIA ROIZ, TELMO",
+    "SALARRULLANA REVUELTA, DIEGO",
+    "CUENCA AYESTARAN, MARKEL",
+    "REDONDO IRAOLA, IÑAKI",
+    "MONTAÑEZ GOENAGA, LUCA",
+    "LANDA CHARTON, DANEL"
+  ],
+  "jugadores_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "CUENCA AYESTARAN, MARKEL",
+      "sale": "CARRERAS OLANO, IKER"
+    },
+    {
+      "min": 45,
+      "entra": "REDONDO IRAOLA, IÑAKI",
+      "sale": "ORIA ROIZ, TELMO"
+    },
+    {
+      "min": 45,
+      "entra": "MONTAÑEZ GOENAGA, LUCA",
+      "sale": "VICARI ALVAREZ, UNAI"
+    },
+    {
+      "min": 45,
+      "entra": "LANDA CHARTON, DANEL",
+      "sale": "SALEHI KOOHESTANI, SAMIN"
+    }
+  ],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "GARMENDIA RODRIGUEZ, ENEKO": 90,
+    "ALTUNA ASTRAIN, MARTIN": 90,
+    "IBARBURU ASENSIO, UNAI": 90,
+    "ARANGUREN MENDEZ, LIER": 90,
+    "CARRERAS OLANO, IKER": 35,
+    "SALEHI KOOHESTANI, SAMIN": 45,
+    "VICARI ALVAREZ, UNAI": 45,
+    "GONZALEZ MUÑOZ, PABLO": 90,
+    "ORIA ROIZ, TELMO": 45,
+    "SALARRULLANA REVUELTA, DIEGO": 90,
+    "CUENCA AYESTARAN, MARKEL": 55,
+    "REDONDO IRAOLA, IÑAKI": 45,
+    "MONTAÑEZ GOENAGA, LUCA": 45,
+    "LANDA CHARTON, DANEL": 45
+  },
+  "portero_local": "GARMENDIA RODRIGUEZ, ENEKO",
+  "portero_visitante": null,
+  "dorsales_local": {
+    "GARMENDIA RODRIGUEZ, ENEKO": 1,
+    "ALTUNA ASTRAIN, MARTIN": 2,
+    "IBARBURU ASENSIO, UNAI": 5,
+    "ARANGUREN MENDEZ, LIER": 6,
+    "CARRERAS OLANO, IKER": 7,
+    "SALEHI KOOHESTANI, SAMIN": 8,
+    "VICARI ALVAREZ, UNAI": 9,
+    "GONZALEZ MUÑOZ, PABLO": 10,
+    "ORIA ROIZ, TELMO": 11,
+    "SALARRULLANA REVUELTA, DIEGO": 12
+  },
+  "dorsales_visitante": {},
+  "suspendidos": [],
+  "_marcador_widget": true
+}
