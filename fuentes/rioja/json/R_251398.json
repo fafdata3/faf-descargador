@@ -1,0 +1,343 @@
+{
+  "acta_id": "R_251398",
+  "filename": "Acta_R_251398.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 4,
+  "fecha": "05-10-2025",
+  "hora": "19:40",
+  "categoria": "REGIONAL PREFERENTE (Grupo Único)",
+  "equipo_local": "VIANES B",
+  "equipo_visitante": "CASALARREINA",
+  "goles_local": 0,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SÁEZ GÓMEZ , JORGE",
+    "Árbitro Asistente",
+    "OYON HIDALGO, RUBEN",
+    "Árbitro Asistente",
+    "ANOZ CAÑAS, SAMUEL"
+  ],
+  "estadio": "I.D. PRINCIPE DE VIANA - H.A. (VIANA)",
+  "ciudad": "Viana",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "CANO GUTIERREZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "URRUTIA MARTINEZ, JON ERIK",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 58,
+      "jugador": "HAMZA, HAMMAD",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 84,
+      "jugador": "ROJO GONZALEZ, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 88,
+      "jugador": "FERNANDEZ GALIANA, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 11,
+      "jugador": "OLIVEIRA BICA, GRACIANO JOSE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "VILLARES SAENZ, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "REINALDO BURTON, TIAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "CORRAL HERRERA, JOSU",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "VILLARES SAENZ, ADRIAN",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "DAVILA MORENO, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "GIMENEZ ECHEVERRIA, SANTIAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 4,
+      "jugador": "COELHO OLIVEIRA, JOSE AGOSTINHO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "VERGES DE SOUZA, RAUL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VILLARES SAENZ, ADRIAN",
+  "entrenador_visitante": "GAMBOA MARTINEZ, RODRIGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "SEVILLA GARRIDO, FRANCISCO JESUS",
+  "delegado_campo_local": "LOPEZ BLANCO, AITOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ BLANCO, AITOR",
+  "delegado_equipo_visitante": "BRIÑAS CARREIRAS, YANIRA",
+  "titulares_local": [
+    "OLIVEIRA BICA, GRACIANO JOSE",
+    "GIMENEZ ECHEVERRIA, SANTIAGO",
+    "VILLARES SAENZ, DANIEL",
+    "SANTAMARIA SAMPEDRO, ANGEL",
+    "DAVILA MORENO, IKER",
+    "SAINZ GONZALEZ, MARIO",
+    "REINALDO BURTON, TIAGO",
+    "CORRAL HERRERA, JOSU",
+    "DUQUE ARINA, MIKEL",
+    "FERNANDEZ LOPEZ A, MIGUEL",
+    "DIAZ C GARCIA, IVAN"
+  ],
+  "titulares_visitante": [
+    "LOPEZ ARCARAZ, GERMAN",
+    "SOUSA SANTOS, RAFAEL",
+    "CISSE, BABA DIA",
+    "LOPEZ D MONGE, RAUL",
+    "DE PORRAS GOBANTES, RUBEN",
+    "CANO GUTIERREZ, PABLO",
+    "HAMZA, HAMMAD",
+    "GALLEGO JIMENEZ, JOSE DANIEL",
+    "URRUTIA MARTINEZ, JON ERIK",
+    "COELHO OLIVEIRA, JOSE AGOSTINHO",
+    "VERGES DE SOUZA, RAUL"
+  ],
+  "suplentes_local": [
+    "GARCIA GARCIA, JAVIER",
+    "IÑIGUEZ ARBINA, ADRIAN",
+    "IZU GONZALEZ, ALVARO",
+    "RHARSALLA ABDELLAOUI, AIMAN",
+    "DEL PRADO ARINA, CESAR",
+    "GARCIA IPAS, MIKEL",
+    "LOPEZ LABARTA, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "GOMEZ RUIZ, ALEJANDRO",
+    "CERRILLO GARCIA, ADRIAN",
+    "FERNANDEZ GALIANA, HUGO",
+    "ROJO GONZALEZ, ALEJANDRO",
+    "BATI WALLOU, SENY JOAO",
+    "JODAR GUILLEN, JON",
+    "CUESTA MELGOSA, PABLO"
+  ],
+  "convocados_sin_jugar_local": [
+    "RHARSALLA ABDELLAOUI, AIMAN",
+    "GARCIA IPAS, MIKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GOMEZ RUIZ, ALEJANDRO",
+    "CERRILLO GARCIA, ADRIAN"
+  ],
+  "jugadores_local": [
+    "OLIVEIRA BICA, GRACIANO JOSE",
+    "GIMENEZ ECHEVERRIA, SANTIAGO",
+    "VILLARES SAENZ, DANIEL",
+    "SANTAMARIA SAMPEDRO, ANGEL",
+    "DAVILA MORENO, IKER",
+    "SAINZ GONZALEZ, MARIO",
+    "REINALDO BURTON, TIAGO",
+    "CORRAL HERRERA, JOSU",
+    "DUQUE ARINA, MIKEL",
+    "FERNANDEZ LOPEZ A, MIGUEL",
+    "DIAZ C GARCIA, IVAN",
+    "DEL PRADO ARINA, CESAR",
+    "IZU GONZALEZ, ALVARO",
+    "GARCIA GARCIA, JAVIER",
+    "IÑIGUEZ ARBINA, ADRIAN",
+    "LOPEZ LABARTA, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "LOPEZ ARCARAZ, GERMAN",
+    "SOUSA SANTOS, RAFAEL",
+    "CISSE, BABA DIA",
+    "LOPEZ D MONGE, RAUL",
+    "DE PORRAS GOBANTES, RUBEN",
+    "CANO GUTIERREZ, PABLO",
+    "HAMZA, HAMMAD",
+    "GALLEGO JIMENEZ, JOSE DANIEL",
+    "URRUTIA MARTINEZ, JON ERIK",
+    "COELHO OLIVEIRA, JOSE AGOSTINHO",
+    "VERGES DE SOUZA, RAUL",
+    "FERNANDEZ GALIANA, HUGO",
+    "ROJO GONZALEZ, ALEJANDRO",
+    "JODAR GUILLEN, JON",
+    "BATI WALLOU, SENY JOAO",
+    "CUESTA MELGOSA, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 65,
+      "entra": "DEL PRADO ARINA, CESAR",
+      "sale": "SANTAMARIA SAMPEDRO, ANGEL"
+    },
+    {
+      "min": 65,
+      "entra": "IZU GONZALEZ, ALVARO",
+      "sale": "GIMENEZ ECHEVERRIA, SANTIAGO"
+    },
+    {
+      "min": 65,
+      "entra": "GARCIA GARCIA, JAVIER",
+      "sale": "FERNANDEZ LOPEZ A, MIGUEL"
+    },
+    {
+      "min": 65,
+      "entra": "IÑIGUEZ ARBINA, ADRIAN",
+      "sale": "DAVILA MORENO, IKER"
+    },
+    {
+      "min": 77,
+      "entra": "LOPEZ LABARTA, DANIEL",
+      "sale": "REINALDO BURTON, TIAGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "FERNANDEZ GALIANA, HUGO",
+      "sale": "URRUTIA MARTINEZ, JON ERIK"
+    },
+    {
+      "min": 65,
+      "entra": "ROJO GONZALEZ, ALEJANDRO",
+      "sale": "HAMZA, HAMMAD"
+    },
+    {
+      "min": 65,
+      "entra": "JODAR GUILLEN, JON",
+      "sale": "VERGES DE SOUZA, RAUL"
+    },
+    {
+      "min": 65,
+      "entra": "BATI WALLOU, SENY JOAO",
+      "sale": "SOUSA SANTOS, RAFAEL"
+    },
+    {
+      "min": 70,
+      "entra": "CUESTA MELGOSA, PABLO",
+      "sale": "CANO GUTIERREZ, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "OLIVEIRA BICA, GRACIANO JOSE": 90,
+    "GIMENEZ ECHEVERRIA, SANTIAGO": 65,
+    "VILLARES SAENZ, DANIEL": 90,
+    "SANTAMARIA SAMPEDRO, ANGEL": 65,
+    "DAVILA MORENO, IKER": 65,
+    "SAINZ GONZALEZ, MARIO": 90,
+    "REINALDO BURTON, TIAGO": 77,
+    "CORRAL HERRERA, JOSU": 90,
+    "DUQUE ARINA, MIKEL": 90,
+    "FERNANDEZ LOPEZ A, MIGUEL": 65,
+    "DIAZ C GARCIA, IVAN": 90,
+    "DEL PRADO ARINA, CESAR": 25,
+    "IZU GONZALEZ, ALVARO": 25,
+    "GARCIA GARCIA, JAVIER": 25,
+    "IÑIGUEZ ARBINA, ADRIAN": 25,
+    "LOPEZ LABARTA, DANIEL": 13,
+    "LOPEZ ARCARAZ, GERMAN": 90,
+    "SOUSA SANTOS, RAFAEL": 65,
+    "CISSE, BABA DIA": 90,
+    "LOPEZ D MONGE, RAUL": 90,
+    "DE PORRAS GOBANTES, RUBEN": 90,
+    "CANO GUTIERREZ, PABLO": 70,
+    "HAMZA, HAMMAD": 65,
+    "GALLEGO JIMENEZ, JOSE DANIEL": 90,
+    "URRUTIA MARTINEZ, JON ERIK": 46,
+    "COELHO OLIVEIRA, JOSE AGOSTINHO": 90,
+    "VERGES DE SOUZA, RAUL": 65,
+    "FERNANDEZ GALIANA, HUGO": 44,
+    "ROJO GONZALEZ, ALEJANDRO": 25,
+    "JODAR GUILLEN, JON": 25,
+    "BATI WALLOU, SENY JOAO": 25,
+    "CUESTA MELGOSA, PABLO": 20
+  },
+  "portero_local": "OLIVEIRA BICA, GRACIANO JOSE",
+  "portero_visitante": "LOPEZ ARCARAZ, GERMAN",
+  "dorsales_local": {
+    "OLIVEIRA BICA, GRACIANO JOSE": 1,
+    "GIMENEZ ECHEVERRIA, SANTIAGO": 2,
+    "VILLARES SAENZ, DANIEL": 7,
+    "SANTAMARIA SAMPEDRO, ANGEL": 8,
+    "DAVILA MORENO, IKER": 9,
+    "SAINZ GONZALEZ, MARIO": 10,
+    "REINALDO BURTON, TIAGO": 16,
+    "CORRAL HERRERA, JOSU": 17,
+    "DUQUE ARINA, MIKEL": 18,
+    "FERNANDEZ LOPEZ A, MIGUEL": 21,
+    "DIAZ C GARCIA, IVAN": 22
+  },
+  "dorsales_visitante": {
+    "LOPEZ ARCARAZ, GERMAN": 13,
+    "SOUSA SANTOS, RAFAEL": 2,
+    "CISSE, BABA DIA": 3,
+    "LOPEZ D MONGE, RAUL": 4,
+    "DE PORRAS GOBANTES, RUBEN": 5,
+    "CANO GUTIERREZ, PABLO": 6,
+    "HAMZA, HAMMAD": 16,
+    "GALLEGO JIMENEZ, JOSE DANIEL": 19,
+    "URRUTIA MARTINEZ, JON ERIK": 22,
+    "COELHO OLIVEIRA, JOSE AGOSTINHO": 24,
+    "VERGES DE SOUZA, RAUL": 25
+  },
+  "suspendidos": [
+    "VILLARES SAENZ, ADRIAN"
+  ],
+  "_marcador_widget": true
+}
