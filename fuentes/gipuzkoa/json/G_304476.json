@@ -1,0 +1,255 @@
+{
+  "acta_id": "G_304476",
+  "filename": "Acta_G_304476.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2023-2024",
+  "jornada": 2,
+  "fecha": "24-09-2023",
+  "hora": "15:30",
+  "categoria": "GIZONEZKO JUBENILEN GORENGO MAILA / PREFERENTE JUVENIL MASCULINO (GRUPO - 1)",
+  "equipo_local": "EKINTZA K.E.",
+  "equipo_visitante": "TRINTXERPE C.D.",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "RIVAS ETULAIN, ALEX"
+  ],
+  "estadio": "HERRERA",
+  "ciudad": "DONOSTIA",
+  "goleadores": [
+    {
+      "minuto": 42,
+      "jugador": "ZAMFIRESCU SCRIBA, DEMETRIUS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 25,
+      "jugador": "PEREZ ALBISTUR, MANUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 8,
+      "jugador": "TICO MARTIN, XAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GAYTAN DE AYALA IDIAQUEZ, MARCOS",
+  "entrenador_visitante": "PICAMILLS LOPEZ, HARITZ",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "TAPIADOR TURNE, JOSU",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TAPIADOR TURNE, JOSU",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "FERNANDEZ TORTOSA, ASIER",
+    "GARIBI EDERRA, MARTIN",
+    "GONZALEZ DONAMARIA, TELMO",
+    "ASCOZ RODRIGUEZ, PABLO",
+    "IZAGIRRE RECONDO, PABLO",
+    "PEREZ ALBISTUR, MANUEL",
+    "ARANGUREN SERNA, PABLO",
+    "ANGULO MARTIN, ALEX",
+    "LINDNER IDIAQUEZ, LUIS",
+    "URRESTARAZU ALTUNA, IKER",
+    "ZUBIAGUIRRE DE MIGUEL, IÑIGO"
+  ],
+  "titulares_visitante": [
+    "GRACIARENA OYANGUREN, ASIER",
+    "TICO MARTIN, XAVIER",
+    "OSA SOLLA, IBAI",
+    "ZAMFIRESCU SCRIBA, DEMETRIUS",
+    "SANZ DOMINGUEZ, IKER",
+    "PORTAS PARADA, GAILUR",
+    "ABUIN OLABARRIETA, MARKEL",
+    "MATO ALCONADA, YAGO",
+    "CASO MENEZO, ARITZ",
+    "ALVAREZ AZURZA, MARKEL",
+    "SAINZ DE JAVIER, URKO"
+  ],
+  "suplentes_local": [
+    "SAENZ REVUELTO, ALEMA",
+    "CABALLERO POZA, JULEN",
+    "TOLOSA AGUDO, MARKEL",
+    "MUNIATEGUI LARRAÑAGA, PATXI",
+    "ZUBIAGUIRRE DE MIGUEL, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "VENTOSO RECIO, UNAX",
+    "LUIS GOMES, HODEI",
+    "ARGEMI RODRIGUEZ, ANDER",
+    "SORIA RABANEDO, MARKEL",
+    "PIÑAIRA SETIEN, IKER",
+    "PEREZ DE LUCAS, ENEKO",
+    "DORRONSORO ALFAGEME, JON"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "PEREZ DE LUCAS, ENEKO",
+    "DORRONSORO ALFAGEME, JON"
+  ],
+  "jugadores_local": [
+    "FERNANDEZ TORTOSA, ASIER",
+    "GARIBI EDERRA, MARTIN",
+    "GONZALEZ DONAMARIA, TELMO",
+    "ASCOZ RODRIGUEZ, PABLO",
+    "IZAGIRRE RECONDO, PABLO",
+    "PEREZ ALBISTUR, MANUEL",
+    "ARANGUREN SERNA, PABLO",
+    "ANGULO MARTIN, ALEX",
+    "LINDNER IDIAQUEZ, LUIS",
+    "URRESTARAZU ALTUNA, IKER",
+    "ZUBIAGUIRRE DE MIGUEL, IÑIGO",
+    "SAENZ REVUELTO, ALEMA",
+    "MUNIATEGUI LARRAÑAGA, PATXI",
+    "ZUBIAGUIRRE DE MIGUEL, ALVARO",
+    "TOLOSA AGUDO, MARKEL",
+    "CABALLERO POZA, JULEN"
+  ],
+  "jugadores_visitante": [
+    "GRACIARENA OYANGUREN, ASIER",
+    "TICO MARTIN, XAVIER",
+    "OSA SOLLA, IBAI",
+    "ZAMFIRESCU SCRIBA, DEMETRIUS",
+    "SANZ DOMINGUEZ, IKER",
+    "PORTAS PARADA, GAILUR",
+    "ABUIN OLABARRIETA, MARKEL",
+    "MATO ALCONADA, YAGO",
+    "CASO MENEZO, ARITZ",
+    "ALVAREZ AZURZA, MARKEL",
+    "SAINZ DE JAVIER, URKO",
+    "SORIA RABANEDO, MARKEL",
+    "ARGEMI RODRIGUEZ, ANDER",
+    "VENTOSO RECIO, UNAX",
+    "PIÑAIRA SETIEN, IKER",
+    "LUIS GOMES, HODEI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "SAENZ REVUELTO, ALEMA",
+      "sale": "ARANGUREN SERNA, PABLO"
+    },
+    {
+      "min": 45,
+      "entra": "MUNIATEGUI LARRAÑAGA, PATXI",
+      "sale": "ZUBIAGUIRRE DE MIGUEL, IÑIGO"
+    },
+    {
+      "min": 53,
+      "entra": "ZUBIAGUIRRE DE MIGUEL, ALVARO",
+      "sale": "GARIBI EDERRA, MARTIN"
+    },
+    {
+      "min": 69,
+      "entra": "TOLOSA AGUDO, MARKEL",
+      "sale": "LINDNER IDIAQUEZ, LUIS"
+    },
+    {
+      "min": 84,
+      "entra": "CABALLERO POZA, JULEN",
+      "sale": "URRESTARAZU ALTUNA, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 57,
+      "entra": "SORIA RABANEDO, MARKEL",
+      "sale": "CASO MENEZO, ARITZ"
+    },
+    {
+      "min": 63,
+      "entra": "ARGEMI RODRIGUEZ, ANDER",
+      "sale": "ZAMFIRESCU SCRIBA, DEMETRIUS"
+    },
+    {
+      "min": 71,
+      "entra": "VENTOSO RECIO, UNAX",
+      "sale": "ABUIN OLABARRIETA, MARKEL"
+    },
+    {
+      "min": 77,
+      "entra": "PIÑAIRA SETIEN, IKER",
+      "sale": "ALVAREZ AZURZA, MARKEL"
+    },
+    {
+      "min": 80,
+      "entra": "LUIS GOMES, HODEI",
+      "sale": "TICO MARTIN, XAVIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ TORTOSA, ASIER": 90,
+    "GARIBI EDERRA, MARTIN": 53,
+    "GONZALEZ DONAMARIA, TELMO": 90,
+    "ASCOZ RODRIGUEZ, PABLO": 90,
+    "IZAGIRRE RECONDO, PABLO": 90,
+    "PEREZ ALBISTUR, MANUEL": 90,
+    "ARANGUREN SERNA, PABLO": 45,
+    "ANGULO MARTIN, ALEX": 90,
+    "LINDNER IDIAQUEZ, LUIS": 69,
+    "URRESTARAZU ALTUNA, IKER": 84,
+    "ZUBIAGUIRRE DE MIGUEL, IÑIGO": 45,
+    "SAENZ REVUELTO, ALEMA": 45,
+    "MUNIATEGUI LARRAÑAGA, PATXI": 45,
+    "ZUBIAGUIRRE DE MIGUEL, ALVARO": 37,
+    "TOLOSA AGUDO, MARKEL": 21,
+    "CABALLERO POZA, JULEN": 6,
+    "GRACIARENA OYANGUREN, ASIER": 90,
+    "TICO MARTIN, XAVIER": 80,
+    "OSA SOLLA, IBAI": 90,
+    "ZAMFIRESCU SCRIBA, DEMETRIUS": 63,
+    "SANZ DOMINGUEZ, IKER": 90,
+    "PORTAS PARADA, GAILUR": 90,
+    "ABUIN OLABARRIETA, MARKEL": 71,
+    "MATO ALCONADA, YAGO": 90,
+    "CASO MENEZO, ARITZ": 57,
+    "ALVAREZ AZURZA, MARKEL": 77,
+    "SAINZ DE JAVIER, URKO": 90,
+    "SORIA RABANEDO, MARKEL": 33,
+    "ARGEMI RODRIGUEZ, ANDER": 27,
+    "VENTOSO RECIO, UNAX": 19,
+    "PIÑAIRA SETIEN, IKER": 13,
+    "LUIS GOMES, HODEI": 10
+  },
+  "portero_local": "ANGULO MARTIN, ALEX",
+  "portero_visitante": "GRACIARENA OYANGUREN, ASIER",
+  "dorsales_local": {
+    "FERNANDEZ TORTOSA, ASIER": 3,
+    "GARIBI EDERRA, MARTIN": 5,
+    "GONZALEZ DONAMARIA, TELMO": 6,
+    "ASCOZ RODRIGUEZ, PABLO": 7,
+    "IZAGIRRE RECONDO, PABLO": 10,
+    "PEREZ ALBISTUR, MANUEL": 11,
+    "ARANGUREN SERNA, PABLO": 12,
+    "ANGULO MARTIN, ALEX": 13,
+    "LINDNER IDIAQUEZ, LUIS": 17,
+    "URRESTARAZU ALTUNA, IKER": 19,
+    "ZUBIAGUIRRE DE MIGUEL, IÑIGO": 21
+  },
+  "dorsales_visitante": {
+    "GRACIARENA OYANGUREN, ASIER": 1,
+    "TICO MARTIN, XAVIER": 3,
+    "OSA SOLLA, IBAI": 6,
+    "ZAMFIRESCU SCRIBA, DEMETRIUS": 7,
+    "SANZ DOMINGUEZ, IKER": 8,
+    "PORTAS PARADA, GAILUR": 11,
+    "ABUIN OLABARRIETA, MARKEL": 14,
+    "MATO ALCONADA, YAGO": 15,
+    "CASO MENEZO, ARITZ": 17,
+    "ALVAREZ AZURZA, MARKEL": 19,
+    "SAINZ DE JAVIER, URKO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
