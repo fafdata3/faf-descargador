@@ -1,0 +1,263 @@
+{
+  "acta_id": "C_244563",
+  "filename": "Acta_C_244563.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "03-10-2026",
+  "hora": "13:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO B)",
+  "equipo_local": "C.D. ARENAS DE FRAJANAS A",
+  "equipo_visitante": "E.M.F. AMPUERO",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "JIMENEZ GÓMEZ, IGNACIO"
+  ],
+  "estadio": "Municipal de Frajanas",
+  "ciudad": "Astillero (El)",
+  "goleadores": [
+    {
+      "minuto": 47,
+      "jugador": "RODRIGUEZ PEREZ, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "CONEJO CAVIA, ALEX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "CONEJO CAVIA, ALEX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "VAYAS RUIZ, HECTOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "GOMÉ CUESTA, ANDRES",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RIVAS FERNANDEZ, DIEGO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RIVAS FERNANDEZ, DIEGO",
+  "delegado_equipo_visitante": "FERNANDEZ ANDRES, JAVIER",
+  "titulares_local": [
+    "CAVADA PORTILLA, LEO",
+    "GONZALEZ MARTIN, BRUNO",
+    "VAYAS RUIZ, HECTOR",
+    "RODRIGUEZ AZOFRA, DANIEL",
+    "DEL RIO ABAJAS, NECO",
+    "PEREZ GARCIA, DYLAN",
+    "CONEJO CAVIA, ALEX",
+    "MEÑACA FERNANDEZ, ANGEL",
+    "HERNANDEZ CRUZ, CARLOS",
+    "RODRIGUEZ SAN MARTIN, DARIO",
+    "SAN JUAN GALLINAS, DANIEL"
+  ],
+  "titulares_visitante": [
+    "GAMIZO DE PRADO, SAUL",
+    "HERRERÍA PELLITERO, OLIVER",
+    "PORTILLO BALLESTEROS, IKER",
+    "GOMÉ CUESTA, ANDRES",
+    "DE LA MAZA GUTIERREZ, MARIO",
+    "SERNA ORTIZ, LEO",
+    "SETIEN PIÑAL, ERIC",
+    "VERANO CERECEDO, YOEL",
+    "OJEDA, JEREMIAS",
+    "MERINO FERNANDEZ, ALIO",
+    "GONZALEZ MAZA, LOLA"
+  ],
+  "suplentes_local": [
+    "BUSTILLO DIAZ, OLIVER",
+    "SAIZ GONZALEZ, ALEJANDRO",
+    "LEGUINA MARTINEZ, ANDRES",
+    "HERNANDEZ PEREZ, DANIEL",
+    "RODRIGUEZ PEREZ, SAMUEL"
+  ],
+  "suplentes_visitante": [
+    "SETIEN FRESNEDO, IKER",
+    "MONCALEAN LOMBERA, ALVARO",
+    "SOUTO VERDEJA, GABRIEL",
+    "QUINTANA RODRIGUEZ, LEO",
+    "SIMEONOVA IVANOVA, KATERINA"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CAVADA PORTILLA, LEO",
+    "GONZALEZ MARTIN, BRUNO",
+    "VAYAS RUIZ, HECTOR",
+    "RODRIGUEZ AZOFRA, DANIEL",
+    "DEL RIO ABAJAS, NECO",
+    "PEREZ GARCIA, DYLAN",
+    "CONEJO CAVIA, ALEX",
+    "MEÑACA FERNANDEZ, ANGEL",
+    "HERNANDEZ CRUZ, CARLOS",
+    "RODRIGUEZ SAN MARTIN, DARIO",
+    "SAN JUAN GALLINAS, DANIEL",
+    "BUSTILLO DIAZ, OLIVER",
+    "SAIZ GONZALEZ, ALEJANDRO",
+    "HERNANDEZ PEREZ, DANIEL",
+    "RODRIGUEZ PEREZ, SAMUEL",
+    "LEGUINA MARTINEZ, ANDRES"
+  ],
+  "jugadores_visitante": [
+    "GAMIZO DE PRADO, SAUL",
+    "HERRERÍA PELLITERO, OLIVER",
+    "PORTILLO BALLESTEROS, IKER",
+    "GOMÉ CUESTA, ANDRES",
+    "DE LA MAZA GUTIERREZ, MARIO",
+    "SERNA ORTIZ, LEO",
+    "SETIEN PIÑAL, ERIC",
+    "VERANO CERECEDO, YOEL",
+    "OJEDA, JEREMIAS",
+    "MERINO FERNANDEZ, ALIO",
+    "GONZALEZ MAZA, LOLA",
+    "SIMEONOVA IVANOVA, KATERINA",
+    "QUINTANA RODRIGUEZ, LEO",
+    "SOUTO VERDEJA, GABRIEL",
+    "SETIEN FRESNEDO, IKER",
+    "MONCALEAN LOMBERA, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "BUSTILLO DIAZ, OLIVER",
+      "sale": "CAVADA PORTILLA, LEO"
+    },
+    {
+      "min": 36,
+      "entra": "SAIZ GONZALEZ, ALEJANDRO",
+      "sale": "SAN JUAN GALLINAS, DANIEL"
+    },
+    {
+      "min": 43,
+      "entra": "HERNANDEZ PEREZ, DANIEL",
+      "sale": "GONZALEZ MARTIN, BRUNO"
+    },
+    {
+      "min": 46,
+      "entra": "RODRIGUEZ PEREZ, SAMUEL",
+      "sale": "HERNANDEZ CRUZ, CARLOS"
+    },
+    {
+      "min": 50,
+      "entra": "LEGUINA MARTINEZ, ANDRES",
+      "sale": "RODRIGUEZ SAN MARTIN, DARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "SIMEONOVA IVANOVA, KATERINA",
+      "sale": "GONZALEZ MAZA, LOLA"
+    },
+    {
+      "min": 46,
+      "entra": "QUINTANA RODRIGUEZ, LEO",
+      "sale": "GOMÉ CUESTA, ANDRES"
+    },
+    {
+      "min": 58,
+      "entra": "SOUTO VERDEJA, GABRIEL",
+      "sale": "OJEDA, JEREMIAS"
+    },
+    {
+      "min": 65,
+      "entra": "SETIEN FRESNEDO, IKER",
+      "sale": "MERINO FERNANDEZ, ALIO"
+    },
+    {
+      "min": 68,
+      "entra": "MONCALEAN LOMBERA, ALVARO",
+      "sale": "SETIEN PIÑAL, ERIC"
+    }
+  ],
+  "minutos_jugadores": {
+    "CAVADA PORTILLA, LEO": 36,
+    "GONZALEZ MARTIN, BRUNO": 43,
+    "VAYAS RUIZ, HECTOR": 90,
+    "RODRIGUEZ AZOFRA, DANIEL": 90,
+    "DEL RIO ABAJAS, NECO": 90,
+    "PEREZ GARCIA, DYLAN": 90,
+    "CONEJO CAVIA, ALEX": 90,
+    "MEÑACA FERNANDEZ, ANGEL": 90,
+    "HERNANDEZ CRUZ, CARLOS": 46,
+    "RODRIGUEZ SAN MARTIN, DARIO": 50,
+    "SAN JUAN GALLINAS, DANIEL": 36,
+    "BUSTILLO DIAZ, OLIVER": 54,
+    "SAIZ GONZALEZ, ALEJANDRO": 54,
+    "HERNANDEZ PEREZ, DANIEL": 47,
+    "RODRIGUEZ PEREZ, SAMUEL": 44,
+    "LEGUINA MARTINEZ, ANDRES": 40,
+    "GAMIZO DE PRADO, SAUL": 90,
+    "HERRERÍA PELLITERO, OLIVER": 90,
+    "PORTILLO BALLESTEROS, IKER": 90,
+    "GOMÉ CUESTA, ANDRES": 46,
+    "DE LA MAZA GUTIERREZ, MARIO": 90,
+    "SERNA ORTIZ, LEO": 90,
+    "SETIEN PIÑAL, ERIC": 68,
+    "VERANO CERECEDO, YOEL": 90,
+    "OJEDA, JEREMIAS": 58,
+    "MERINO FERNANDEZ, ALIO": 65,
+    "GONZALEZ MAZA, LOLA": 36,
+    "SIMEONOVA IVANOVA, KATERINA": 54,
+    "QUINTANA RODRIGUEZ, LEO": 44,
+    "SOUTO VERDEJA, GABRIEL": 32,
+    "SETIEN FRESNEDO, IKER": 25,
+    "MONCALEAN LOMBERA, ALVARO": 22
+  },
+  "portero_local": "CAVADA PORTILLA, LEO",
+  "portero_visitante": "GAMIZO DE PRADO, SAUL",
+  "dorsales_local": {
+    "CAVADA PORTILLA, LEO": 13,
+    "GONZALEZ MARTIN, BRUNO": 3,
+    "VAYAS RUIZ, HECTOR": 4,
+    "RODRIGUEZ AZOFRA, DANIEL": 5,
+    "DEL RIO ABAJAS, NECO": 6,
+    "PEREZ GARCIA, DYLAN": 8,
+    "CONEJO CAVIA, ALEX": 9,
+    "MEÑACA FERNANDEZ, ANGEL": 10,
+    "HERNANDEZ CRUZ, CARLOS": 11,
+    "RODRIGUEZ SAN MARTIN, DARIO": 12,
+    "SAN JUAN GALLINAS, DANIEL": 14
+  },
+  "dorsales_visitante": {
+    "GAMIZO DE PRADO, SAUL": 13,
+    "HERRERÍA PELLITERO, OLIVER": 2,
+    "PORTILLO BALLESTEROS, IKER": 7,
+    "GOMÉ CUESTA, ANDRES": 11,
+    "DE LA MAZA GUTIERREZ, MARIO": 12,
+    "SERNA ORTIZ, LEO": 14,
+    "SETIEN PIÑAL, ERIC": 15,
+    "VERANO CERECEDO, YOEL": 17,
+    "OJEDA, JEREMIAS": 18,
+    "MERINO FERNANDEZ, ALIO": 20,
+    "GONZALEZ MAZA, LOLA": 25
+  },
+  "suspendidos": []
+}
