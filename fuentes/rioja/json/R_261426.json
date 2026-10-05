@@ -1,0 +1,281 @@
+{
+  "acta_id": "R_261426",
+  "filename": "Acta_R_261426.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "03-10-2026",
+  "hora": "11:30",
+  "categoria": "PRIMERA CADETE (Grupo Único)",
+  "equipo_local": "EF MAREO Logroño",
+  "equipo_visitante": "SD LOGROÑÉS",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "RUIZ GOMEZ, GONZALO"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 6 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "HERNANDO PEREZ, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "DOBRILA, MATEI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "RUIZ-ALEJOS PEREZ, OLIVER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "UGARTE FERRUS, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "MARCOS FERNANDEZ, MANUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "NOUHI ANGRI, ABDELWAHAB",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ HEREDIA, JUAN",
+  "entrenador_visitante": "RUIZ DE OÑA CALVAR, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARIN MARIJUAN, MARIO",
+  "delegado_equipo_visitante": "CARRASCO SANZ, ENRIQUE",
+  "titulares_local": [
+    "SOTO BARTOLOME, MATEO",
+    "BENITO SOLAR, FABIO",
+    "ANGULO GONZALEZ, JORGE",
+    "RUIZ-ALEJOS PEREZ, OLIVER",
+    "IGLESIAS FERNANDEZ, ALEJANDRO",
+    "GARRIDO RODRIGUEZ, ALBERTO",
+    "CALAHORRANO DE LOS SANTOS, ANTONIO",
+    "DOBRILA, MATEI",
+    "AGUADO MENDI, JAIME",
+    "UGARTE FERRUS, DIEGO",
+    "HERNANDO PEREZ, ADRIAN"
+  ],
+  "titulares_visitante": [
+    "MOTOSO CAÑAS, AIMAR",
+    "MARTINEZ DE MARCOS, RAUL",
+    "NOUHI ANGRI, ABDELWAHAB",
+    "MOTOSO CAÑAS, OROITZ",
+    "LATORRE MARTINEZ, HUGO",
+    "NAJERA DEL HOYO, JESUS",
+    "FERNANDEZ RAMIREZ, NICOLAS",
+    "RUIZ DE OÑA MARTINEZ, IVAN",
+    "KEITA, GAGNI",
+    "JIMENEZ MARTINS, AARON",
+    "FLETES GONZALEZ, LUIS ENRIQUE"
+  ],
+  "suplentes_local": [
+    "LARRUS SEVILLA, LUCAS",
+    "MARCOS FERNANDEZ, MANUEL",
+    "SAENZ ALVAREZ, ISMAEL",
+    "FOLOGEA, ERIC DENIS",
+    "FUENTES CASTRESANA, PABLO",
+    "BAYO RUIZ, DIEGO",
+    "SORIA ZORZANO, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "NOUHI ANGRI, ABDENNUR",
+    "RIOJA SOBRON, ANDRES",
+    "OLAVARRIETA LOPEZ, ALVARO",
+    "MEDRANO MENDEZ, RICARDO DANIEL",
+    "HENAO RAMIREZ, SAMUEL",
+    "GODOY SANTANA, GORKA",
+    "BELHACHMI BAKALI NADI, IMRAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "FUENTES CASTRESANA, PABLO",
+    "BAYO RUIZ, DIEGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "RIOJA SOBRON, ANDRES",
+    "HENAO RAMIREZ, SAMUEL"
+  ],
+  "jugadores_local": [
+    "SOTO BARTOLOME, MATEO",
+    "BENITO SOLAR, FABIO",
+    "ANGULO GONZALEZ, JORGE",
+    "RUIZ-ALEJOS PEREZ, OLIVER",
+    "IGLESIAS FERNANDEZ, ALEJANDRO",
+    "GARRIDO RODRIGUEZ, ALBERTO",
+    "CALAHORRANO DE LOS SANTOS, ANTONIO",
+    "DOBRILA, MATEI",
+    "AGUADO MENDI, JAIME",
+    "UGARTE FERRUS, DIEGO",
+    "HERNANDO PEREZ, ADRIAN",
+    "FOLOGEA, ERIC DENIS",
+    "SAENZ ALVAREZ, ISMAEL",
+    "MARCOS FERNANDEZ, MANUEL",
+    "LARRUS SEVILLA, LUCAS",
+    "SORIA ZORZANO, ALVARO"
+  ],
+  "jugadores_visitante": [
+    "MOTOSO CAÑAS, AIMAR",
+    "MARTINEZ DE MARCOS, RAUL",
+    "NOUHI ANGRI, ABDELWAHAB",
+    "MOTOSO CAÑAS, OROITZ",
+    "LATORRE MARTINEZ, HUGO",
+    "NAJERA DEL HOYO, JESUS",
+    "FERNANDEZ RAMIREZ, NICOLAS",
+    "RUIZ DE OÑA MARTINEZ, IVAN",
+    "KEITA, GAGNI",
+    "JIMENEZ MARTINS, AARON",
+    "FLETES GONZALEZ, LUIS ENRIQUE",
+    "MEDRANO MENDEZ, RICARDO DANIEL",
+    "GODOY SANTANA, GORKA",
+    "BELHACHMI BAKALI NADI, IMRAN",
+    "OLAVARRIETA LOPEZ, ALVARO",
+    "NOUHI ANGRI, ABDENNUR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "FOLOGEA, ERIC DENIS",
+      "sale": "UGARTE FERRUS, DIEGO"
+    },
+    {
+      "min": 51,
+      "entra": "SAENZ ALVAREZ, ISMAEL",
+      "sale": "HERNANDO PEREZ, ADRIAN"
+    },
+    {
+      "min": 58,
+      "entra": "MARCOS FERNANDEZ, MANUEL",
+      "sale": "IGLESIAS FERNANDEZ, ALEJANDRO"
+    },
+    {
+      "min": 67,
+      "entra": "LARRUS SEVILLA, LUCAS",
+      "sale": "DOBRILA, MATEI"
+    },
+    {
+      "min": 67,
+      "entra": "SORIA ZORZANO, ALVARO",
+      "sale": "AGUADO MENDI, JAIME"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 48,
+      "entra": "MEDRANO MENDEZ, RICARDO DANIEL",
+      "sale": "JIMENEZ MARTINS, AARON"
+    },
+    {
+      "min": 48,
+      "entra": "GODOY SANTANA, GORKA",
+      "sale": "KEITA, GAGNI"
+    },
+    {
+      "min": 55,
+      "entra": "BELHACHMI BAKALI NADI, IMRAN",
+      "sale": "NAJERA DEL HOYO, JESUS"
+    },
+    {
+      "min": 55,
+      "entra": "OLAVARRIETA LOPEZ, ALVARO",
+      "sale": "NOUHI ANGRI, ABDELWAHAB"
+    },
+    {
+      "min": 68,
+      "entra": "NOUHI ANGRI, ABDENNUR",
+      "sale": "MOTOSO CAÑAS, OROITZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "SOTO BARTOLOME, MATEO": 90,
+    "BENITO SOLAR, FABIO": 90,
+    "ANGULO GONZALEZ, JORGE": 90,
+    "RUIZ-ALEJOS PEREZ, OLIVER": 90,
+    "IGLESIAS FERNANDEZ, ALEJANDRO": 58,
+    "GARRIDO RODRIGUEZ, ALBERTO": 90,
+    "CALAHORRANO DE LOS SANTOS, ANTONIO": 90,
+    "DOBRILA, MATEI": 67,
+    "AGUADO MENDI, JAIME": 67,
+    "UGARTE FERRUS, DIEGO": 51,
+    "HERNANDO PEREZ, ADRIAN": 51,
+    "FOLOGEA, ERIC DENIS": 39,
+    "SAENZ ALVAREZ, ISMAEL": 39,
+    "MARCOS FERNANDEZ, MANUEL": 32,
+    "LARRUS SEVILLA, LUCAS": 23,
+    "SORIA ZORZANO, ALVARO": 23,
+    "MOTOSO CAÑAS, AIMAR": 90,
+    "MARTINEZ DE MARCOS, RAUL": 90,
+    "NOUHI ANGRI, ABDELWAHAB": 55,
+    "MOTOSO CAÑAS, OROITZ": 68,
+    "LATORRE MARTINEZ, HUGO": 90,
+    "NAJERA DEL HOYO, JESUS": 55,
+    "FERNANDEZ RAMIREZ, NICOLAS": 90,
+    "RUIZ DE OÑA MARTINEZ, IVAN": 90,
+    "KEITA, GAGNI": 48,
+    "JIMENEZ MARTINS, AARON": 48,
+    "FLETES GONZALEZ, LUIS ENRIQUE": 90,
+    "MEDRANO MENDEZ, RICARDO DANIEL": 42,
+    "GODOY SANTANA, GORKA": 42,
+    "BELHACHMI BAKALI NADI, IMRAN": 35,
+    "OLAVARRIETA LOPEZ, ALVARO": 35,
+    "NOUHI ANGRI, ABDENNUR": 22
+  },
+  "portero_local": "SOTO BARTOLOME, MATEO",
+  "portero_visitante": "MOTOSO CAÑAS, AIMAR",
+  "dorsales_local": {
+    "SOTO BARTOLOME, MATEO": 1,
+    "BENITO SOLAR, FABIO": 4,
+    "ANGULO GONZALEZ, JORGE": 5,
+    "RUIZ-ALEJOS PEREZ, OLIVER": 9,
+    "IGLESIAS FERNANDEZ, ALEJANDRO": 10,
+    "GARRIDO RODRIGUEZ, ALBERTO": 11,
+    "CALAHORRANO DE LOS SANTOS, ANTONIO": 12,
+    "DOBRILA, MATEI": 15,
+    "AGUADO MENDI, JAIME": 18,
+    "UGARTE FERRUS, DIEGO": 20,
+    "HERNANDO PEREZ, ADRIAN": 26
+  },
+  "dorsales_visitante": {
+    "MOTOSO CAÑAS, AIMAR": 1,
+    "MARTINEZ DE MARCOS, RAUL": 2,
+    "NOUHI ANGRI, ABDELWAHAB": 3,
+    "MOTOSO CAÑAS, OROITZ": 4,
+    "LATORRE MARTINEZ, HUGO": 5,
+    "NAJERA DEL HOYO, JESUS": 6,
+    "FERNANDEZ RAMIREZ, NICOLAS": 7,
+    "RUIZ DE OÑA MARTINEZ, IVAN": 8,
+    "KEITA, GAGNI": 9,
+    "JIMENEZ MARTINS, AARON": 10,
+    "FLETES GONZALEZ, LUIS ENRIQUE": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
