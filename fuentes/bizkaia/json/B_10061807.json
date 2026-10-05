@@ -1,0 +1,270 @@
+{
+  "acta_id": "B_10061807",
+  "filename": "Acta_B_10061807.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "03-10-2026",
+  "hora": "13:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "GALDAKAO A",
+  "equipo_visitante": "BERMEO A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SIMON RUIZ DE LOIZAGA, JOKIN"
+  ],
+  "estadio": "SANTA BARBARA",
+  "ciudad": "Galdakao",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "ORTUONDO BARRENA, ARITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "ASPIAZU SOLANAS, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "OSORIO MARON, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 66,
+      "jugador": "GARCIA CERROS, HODEI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "ELORRIAGA VAZQUEZ, GAIZKA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 48,
+      "jugador": "LAPAZA URIONDO, DANEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "LAPAZA URIONDO, DANEL",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "KORTA ODRIOZOLA, XANTI",
+  "entrenador_visitante": "OLAETA ALVAREZ, JAVIER MANUEL",
+  "segundo_entrenador_local": "ELORRIAGA ATXUTEGUI, XABIER",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ELORRIAGA VAZQUEZ, GAIZKA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ELORRIAGA VAZQUEZ, GAIZKA",
+  "delegado_equipo_visitante": "TAKOUISING, ALAIN BERTRAND",
+  "titulares_local": [
+    "ECHEBARRIA CAMPILLO, ASIER",
+    "GARAI BARRENETXEA, IBAI",
+    "MIJANGOS LARRABE, UNAI",
+    "OSORIO MARON, IKER",
+    "DOMINGUEZ ORTEGA, GORKA",
+    "BILBAO GOMEZ, LIER",
+    "GARCIA SERRANO, GORKA",
+    "ORTUONDO BARRENA, ARITZ",
+    "MAKAZAGA VAZQUEZ, UNAX",
+    "LOROÑO GOMEZ, PEDRO",
+    "ASPIAZU SOLANAS, MARKEL"
+  ],
+  "titulares_visitante": [
+    "LLANOS ANASAGASTI, ONAR",
+    "MIHAILA CALOTA, MIKEL",
+    "MARTIN VILA, IBON",
+    "BILBAO IZQUIERDO, MIKEL",
+    "ARROYO BILBAO, TXABER",
+    "LAPAZA URIONDO, DANEL",
+    "ECHEVARRIA ARAUZ, ANDER",
+    "ARRIEN AROSTEGI, EKAIN",
+    "UNGUREANU, RADU IONUT",
+    "ATIENZA OTAZUA, AIERT",
+    "BACIGALUPE ALTONAGA, XABIER"
+  ],
+  "suplentes_local": [
+    "VALLE ANDRADE, ARITZ",
+    "GARCIA CERROS, HODEI",
+    "ZAMORA GOIRI, URKO",
+    "ELORRIAGA ITURREGI, INHAR",
+    "FUNES DIAZ, AGER"
+  ],
+  "suplentes_visitante": [
+    "SOTO URIARTE, KIMETZ",
+    "ANTA APRAIZ, AMETS",
+    "MAGUNAGOIKOETXEA GABANTXO, KEPA",
+    "BUSTINDUY DE URQUIJO, JON",
+    "ATIENZA OTAZUA, MARKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "VALLE ANDRADE, ARITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SOTO URIARTE, KIMETZ"
+  ],
+  "jugadores_local": [
+    "ECHEBARRIA CAMPILLO, ASIER",
+    "GARAI BARRENETXEA, IBAI",
+    "MIJANGOS LARRABE, UNAI",
+    "OSORIO MARON, IKER",
+    "DOMINGUEZ ORTEGA, GORKA",
+    "BILBAO GOMEZ, LIER",
+    "GARCIA SERRANO, GORKA",
+    "ORTUONDO BARRENA, ARITZ",
+    "MAKAZAGA VAZQUEZ, UNAX",
+    "LOROÑO GOMEZ, PEDRO",
+    "ASPIAZU SOLANAS, MARKEL",
+    "ZAMORA GOIRI, URKO",
+    "FUNES DIAZ, AGER",
+    "GARCIA CERROS, HODEI",
+    "ELORRIAGA ITURREGI, INHAR"
+  ],
+  "jugadores_visitante": [
+    "LLANOS ANASAGASTI, ONAR",
+    "MIHAILA CALOTA, MIKEL",
+    "MARTIN VILA, IBON",
+    "BILBAO IZQUIERDO, MIKEL",
+    "ARROYO BILBAO, TXABER",
+    "LAPAZA URIONDO, DANEL",
+    "ECHEVARRIA ARAUZ, ANDER",
+    "ARRIEN AROSTEGI, EKAIN",
+    "UNGUREANU, RADU IONUT",
+    "ATIENZA OTAZUA, AIERT",
+    "BACIGALUPE ALTONAGA, XABIER",
+    "MAGUNAGOIKOETXEA GABANTXO, KEPA",
+    "ANTA APRAIZ, AMETS",
+    "BUSTINDUY DE URQUIJO, JON",
+    "ATIENZA OTAZUA, MARKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "ZAMORA GOIRI, URKO",
+      "sale": "LOROÑO GOMEZ, PEDRO"
+    },
+    {
+      "min": 60,
+      "entra": "FUNES DIAZ, AGER",
+      "sale": "ASPIAZU SOLANAS, MARKEL"
+    },
+    {
+      "min": 60,
+      "entra": "GARCIA CERROS, HODEI",
+      "sale": "DOMINGUEZ ORTEGA, GORKA"
+    },
+    {
+      "min": 68,
+      "entra": "ELORRIAGA ITURREGI, INHAR",
+      "sale": "ORTUONDO BARRENA, ARITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "MAGUNAGOIKOETXEA GABANTXO, KEPA",
+      "sale": "ECHEVARRIA ARAUZ, ANDER"
+    },
+    {
+      "min": 49,
+      "entra": "ANTA APRAIZ, AMETS",
+      "sale": "ARRIEN AROSTEGI, EKAIN"
+    },
+    {
+      "min": 49,
+      "entra": "BUSTINDUY DE URQUIJO, JON",
+      "sale": "MARTIN VILA, IBON"
+    },
+    {
+      "min": 53,
+      "entra": "ATIENZA OTAZUA, MARKEL",
+      "sale": "UNGUREANU, RADU IONUT"
+    }
+  ],
+  "minutos_jugadores": {
+    "ECHEBARRIA CAMPILLO, ASIER": 90,
+    "GARAI BARRENETXEA, IBAI": 90,
+    "MIJANGOS LARRABE, UNAI": 90,
+    "OSORIO MARON, IKER": 90,
+    "DOMINGUEZ ORTEGA, GORKA": 60,
+    "BILBAO GOMEZ, LIER": 90,
+    "GARCIA SERRANO, GORKA": 90,
+    "ORTUONDO BARRENA, ARITZ": 68,
+    "MAKAZAGA VAZQUEZ, UNAX": 90,
+    "LOROÑO GOMEZ, PEDRO": 49,
+    "ASPIAZU SOLANAS, MARKEL": 60,
+    "ZAMORA GOIRI, URKO": 41,
+    "FUNES DIAZ, AGER": 30,
+    "GARCIA CERROS, HODEI": 30,
+    "ELORRIAGA ITURREGI, INHAR": 22,
+    "LLANOS ANASAGASTI, ONAR": 90,
+    "MIHAILA CALOTA, MIKEL": 90,
+    "MARTIN VILA, IBON": 49,
+    "BILBAO IZQUIERDO, MIKEL": 90,
+    "ARROYO BILBAO, TXABER": 90,
+    "LAPAZA URIONDO, DANEL": 90,
+    "ECHEVARRIA ARAUZ, ANDER": 40,
+    "ARRIEN AROSTEGI, EKAIN": 49,
+    "UNGUREANU, RADU IONUT": 53,
+    "ATIENZA OTAZUA, AIERT": 90,
+    "BACIGALUPE ALTONAGA, XABIER": 90,
+    "MAGUNAGOIKOETXEA GABANTXO, KEPA": 50,
+    "ANTA APRAIZ, AMETS": 41,
+    "BUSTINDUY DE URQUIJO, JON": 41,
+    "ATIENZA OTAZUA, MARKEL": 37
+  },
+  "portero_local": "ECHEBARRIA CAMPILLO, ASIER",
+  "portero_visitante": "LLANOS ANASAGASTI, ONAR",
+  "dorsales_local": {
+    "ECHEBARRIA CAMPILLO, ASIER": 13,
+    "GARAI BARRENETXEA, IBAI": 3,
+    "MIJANGOS LARRABE, UNAI": 5,
+    "OSORIO MARON, IKER": 6,
+    "DOMINGUEZ ORTEGA, GORKA": 7,
+    "BILBAO GOMEZ, LIER": 8,
+    "GARCIA SERRANO, GORKA": 11,
+    "ORTUONDO BARRENA, ARITZ": 12,
+    "MAKAZAGA VAZQUEZ, UNAX": 14,
+    "LOROÑO GOMEZ, PEDRO": 17,
+    "ASPIAZU SOLANAS, MARKEL": 20
+  },
+  "dorsales_visitante": {
+    "LLANOS ANASAGASTI, ONAR": 1,
+    "MIHAILA CALOTA, MIKEL": 2,
+    "MARTIN VILA, IBON": 3,
+    "BILBAO IZQUIERDO, MIKEL": 4,
+    "ARROYO BILBAO, TXABER": 7,
+    "LAPAZA URIONDO, DANEL": 8,
+    "ECHEVARRIA ARAUZ, ANDER": 9,
+    "ARRIEN AROSTEGI, EKAIN": 10,
+    "UNGUREANU, RADU IONUT": 11,
+    "ATIENZA OTAZUA, AIERT": 14,
+    "BACIGALUPE ALTONAGA, XABIER": 23
+  },
+  "suspendidos": [
+    "LAPAZA URIONDO, DANEL"
+  ],
+  "_marcador_widget": true
+}
