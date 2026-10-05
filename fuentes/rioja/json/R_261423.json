@@ -1,0 +1,300 @@
+{
+  "acta_id": "R_261423",
+  "filename": "Acta_R_261423.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "03-10-2026",
+  "hora": "11:30",
+  "categoria": "PRIMERA CADETE (Grupo Único)",
+  "equipo_local": "AZUL SPORT I Consult",
+  "equipo_visitante": "LAURUS",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "PRIOR BACAICOA, SERGIO"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 3 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "MARTINEZ GARRIDO, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "SESMA PEDRERO, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "DURO GONZALEZ, ENZO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 15,
+      "jugador": "DURO GONZALEZ, ENZO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "MARTINEZ GARRIDO, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "CALVO PEREZ, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "OLIVAN VILLANUEVA, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 9,
+      "jugador": "COSANO CUESTA, JUAN JOSÉ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "MONTERO VELEZ, GABRIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RUBIO LAFUENTE, ALVARO",
+  "entrenador_visitante": "MIRANDA RAU, ANGELO NEIDER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "OCHOA CABRERA, ALEX DAVID",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CENTENO BALBI, JUAN A",
+  "delegado_equipo_visitante": "MIRANDA RAU, NEIFER ARTURO",
+  "titulares_local": [
+    "JUBERA PEREZ, AARON",
+    "CALVO ALONSO, MARTIN",
+    "MIRANDA SAENZ, MIGUEL",
+    "ESTEBAN SANCHO, ADRIAN",
+    "MORENTIN LATORRE, RODRIGO",
+    "DURO GONZALEZ, ENZO",
+    "MARCO BELTRAN, LUIS",
+    "MARTINEZ GARRIDO, NICOLAS",
+    "AGUSTIN LOPEZ, IKER",
+    "CENTENO BAJO, ALEJANDRO JOSE",
+    "DIEZ PEREGRINA, IZAN"
+  ],
+  "titulares_visitante": [
+    "BARRAL PEREZ, ADRIAN",
+    "SÁENZ RAMÍREZ, HUGO",
+    "MARIN ESPINA, ANDER",
+    "LOUSAS VILLAJOS, GONZALO",
+    "GARCIA ESCALONA, ADRIAN",
+    "PUMAR CESPEDES, PABLO A",
+    "COSANO CUESTA, JUAN JOSÉ",
+    "MACIAS FERNANDEZ, ALEJANDRO",
+    "RUIZ UCEDA, GABRIEL",
+    "FERNANDEZ BLANCO, CRISTIAN",
+    "NAVARRO BORGES, JAVIER"
+  ],
+  "suplentes_local": [
+    "CALVO PEREZ, ADRIAN",
+    "MASIP MACIAS, MARIO",
+    "RINCON BOZA, ALVARO",
+    "JIMENEZ DUEÑAS, CARLOS",
+    "NAVAJAS GARCIA, ALEX",
+    "OLIVAN VILLANUEVA, SERGIO",
+    "MARTINEZ B CESTAFE, ENZO"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ DE FRANCISCO, MIGUEL",
+    "CARVAJAL BARBOSA, OLIVER",
+    "SOLANO SARRAMIAN, SERGIO",
+    "SESMA PEDRERO, DANIEL",
+    "ISASI GARCIA, MIGUEL",
+    "MONTERO VELEZ, GABRIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "MASIP MACIAS, MARIO",
+    "NAVAJAS GARCIA, ALEX"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CARVAJAL BARBOSA, OLIVER"
+  ],
+  "jugadores_local": [
+    "JUBERA PEREZ, AARON",
+    "CALVO ALONSO, MARTIN",
+    "MIRANDA SAENZ, MIGUEL",
+    "ESTEBAN SANCHO, ADRIAN",
+    "MORENTIN LATORRE, RODRIGO",
+    "DURO GONZALEZ, ENZO",
+    "MARCO BELTRAN, LUIS",
+    "MARTINEZ GARRIDO, NICOLAS",
+    "AGUSTIN LOPEZ, IKER",
+    "CENTENO BAJO, ALEJANDRO JOSE",
+    "DIEZ PEREGRINA, IZAN",
+    "RINCON BOZA, ALVARO",
+    "JIMENEZ DUEÑAS, CARLOS",
+    "MARTINEZ B CESTAFE, ENZO",
+    "CALVO PEREZ, ADRIAN",
+    "OLIVAN VILLANUEVA, SERGIO"
+  ],
+  "jugadores_visitante": [
+    "BARRAL PEREZ, ADRIAN",
+    "SÁENZ RAMÍREZ, HUGO",
+    "MARIN ESPINA, ANDER",
+    "LOUSAS VILLAJOS, GONZALO",
+    "GARCIA ESCALONA, ADRIAN",
+    "PUMAR CESPEDES, PABLO A",
+    "COSANO CUESTA, JUAN JOSÉ",
+    "MACIAS FERNANDEZ, ALEJANDRO",
+    "RUIZ UCEDA, GABRIEL",
+    "FERNANDEZ BLANCO, CRISTIAN",
+    "NAVARRO BORGES, JAVIER",
+    "MONTERO VELEZ, GABRIEL",
+    "GONZALEZ DE FRANCISCO, MIGUEL",
+    "ISASI GARCIA, MIGUEL",
+    "SESMA PEDRERO, DANIEL",
+    "SOLANO SARRAMIAN, SERGIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "RINCON BOZA, ALVARO",
+      "sale": "CALVO ALONSO, MARTIN"
+    },
+    {
+      "min": 41,
+      "entra": "JIMENEZ DUEÑAS, CARLOS",
+      "sale": "ESTEBAN SANCHO, ADRIAN"
+    },
+    {
+      "min": 46,
+      "entra": "MARTINEZ B CESTAFE, ENZO",
+      "sale": "DIEZ PEREGRINA, IZAN"
+    },
+    {
+      "min": 71,
+      "entra": "CALVO PEREZ, ADRIAN",
+      "sale": "MARCO BELTRAN, LUIS"
+    },
+    {
+      "min": 73,
+      "entra": "OLIVAN VILLANUEVA, SERGIO",
+      "sale": "AGUSTIN LOPEZ, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "MONTERO VELEZ, GABRIEL",
+      "sale": "LOUSAS VILLAJOS, GONZALO"
+    },
+    {
+      "min": 41,
+      "entra": "GONZALEZ DE FRANCISCO, MIGUEL",
+      "sale": "BARRAL PEREZ, ADRIAN"
+    },
+    {
+      "min": 51,
+      "entra": "ISASI GARCIA, MIGUEL",
+      "sale": "MACIAS FERNANDEZ, ALEJANDRO"
+    },
+    {
+      "min": 58,
+      "entra": "SESMA PEDRERO, DANIEL",
+      "sale": "RUIZ UCEDA, GABRIEL"
+    },
+    {
+      "min": 66,
+      "entra": "SOLANO SARRAMIAN, SERGIO",
+      "sale": "SÁENZ RAMÍREZ, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "JUBERA PEREZ, AARON": 90,
+    "CALVO ALONSO, MARTIN": 41,
+    "MIRANDA SAENZ, MIGUEL": 90,
+    "ESTEBAN SANCHO, ADRIAN": 41,
+    "MORENTIN LATORRE, RODRIGO": 90,
+    "DURO GONZALEZ, ENZO": 90,
+    "MARCO BELTRAN, LUIS": 71,
+    "MARTINEZ GARRIDO, NICOLAS": 90,
+    "AGUSTIN LOPEZ, IKER": 73,
+    "CENTENO BAJO, ALEJANDRO JOSE": 90,
+    "DIEZ PEREGRINA, IZAN": 46,
+    "RINCON BOZA, ALVARO": 49,
+    "JIMENEZ DUEÑAS, CARLOS": 49,
+    "MARTINEZ B CESTAFE, ENZO": 44,
+    "CALVO PEREZ, ADRIAN": 19,
+    "OLIVAN VILLANUEVA, SERGIO": 17,
+    "BARRAL PEREZ, ADRIAN": 41,
+    "SÁENZ RAMÍREZ, HUGO": 66,
+    "MARIN ESPINA, ANDER": 90,
+    "LOUSAS VILLAJOS, GONZALO": 41,
+    "GARCIA ESCALONA, ADRIAN": 90,
+    "PUMAR CESPEDES, PABLO A": 90,
+    "COSANO CUESTA, JUAN JOSÉ": 90,
+    "MACIAS FERNANDEZ, ALEJANDRO": 51,
+    "RUIZ UCEDA, GABRIEL": 58,
+    "FERNANDEZ BLANCO, CRISTIAN": 90,
+    "NAVARRO BORGES, JAVIER": 90,
+    "MONTERO VELEZ, GABRIEL": 49,
+    "GONZALEZ DE FRANCISCO, MIGUEL": 49,
+    "ISASI GARCIA, MIGUEL": 39,
+    "SESMA PEDRERO, DANIEL": 32,
+    "SOLANO SARRAMIAN, SERGIO": 24
+  },
+  "portero_local": "JUBERA PEREZ, AARON",
+  "portero_visitante": "BARRAL PEREZ, ADRIAN",
+  "dorsales_local": {
+    "JUBERA PEREZ, AARON": 1,
+    "CALVO ALONSO, MARTIN": 2,
+    "MIRANDA SAENZ, MIGUEL": 3,
+    "ESTEBAN SANCHO, ADRIAN": 4,
+    "MORENTIN LATORRE, RODRIGO": 5,
+    "DURO GONZALEZ, ENZO": 6,
+    "MARCO BELTRAN, LUIS": 7,
+    "MARTINEZ GARRIDO, NICOLAS": 10,
+    "AGUSTIN LOPEZ, IKER": 15,
+    "CENTENO BAJO, ALEJANDRO JOSE": 16,
+    "DIEZ PEREGRINA, IZAN": 17
+  },
+  "dorsales_visitante": {
+    "BARRAL PEREZ, ADRIAN": 13,
+    "SÁENZ RAMÍREZ, HUGO": 3,
+    "MARIN ESPINA, ANDER": 4,
+    "LOUSAS VILLAJOS, GONZALO": 6,
+    "GARCIA ESCALONA, ADRIAN": 8,
+    "PUMAR CESPEDES, PABLO A": 9,
+    "COSANO CUESTA, JUAN JOSÉ": 10,
+    "MACIAS FERNANDEZ, ALEJANDRO": 11,
+    "RUIZ UCEDA, GABRIEL": 14,
+    "FERNANDEZ BLANCO, CRISTIAN": 15,
+    "NAVARRO BORGES, JAVIER": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
