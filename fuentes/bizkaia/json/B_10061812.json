@@ -1,0 +1,278 @@
+{
+  "acta_id": "B_10061812",
+  "filename": "Acta_B_10061812.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "03-10-2026",
+  "hora": "17:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ERMUA BLUES A",
+  "equipo_visitante": "PADURA A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "OULAHROUR AKSASSE, FASKA"
+  ],
+  "estadio": "BETIONDO",
+  "ciudad": "Ermua",
+  "goleadores": [
+    {
+      "minuto": 37,
+      "jugador": "HAMROUNI OSUNA, SABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 42,
+      "jugador": "AKSSASS NACIRI, NAOFAL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "AZCUNE RUIZ DE EGUINO, XIKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 76,
+      "jugador": "AZCUNE RUIZ DE EGUINO, XIKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "CRESPO HERNANDEZ, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 17,
+      "jugador": "SARANDESES MENESES, OIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 36,
+      "jugador": "LEDEZMA ROJAS, MARCOS LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "DE CASTRO CASTRO, ALAITZ",
+  "entrenador_visitante": "LEDEZMA ROJAS, MARCOS LUIS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GALLARDO GALLARDO, JOSE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "FERNANDEZ SAGREDO, IKER",
+  "titulares_local": [
+    "ARROYO SANCHEZ, JON",
+    "YACUMAL CHARRY, JUAN FELIPE",
+    "GALLARDO MOLINA, HUGO",
+    "ARROYO LARA, IZAN",
+    "QUINDOS LOPEZ, JULEN",
+    "VILLAR GOMEZ, OINATZ",
+    "AKSSASS NACIRI, NAOFAL",
+    "AZCUNE RUIZ DE EGUINO, XIKER",
+    "DIALLO, IBRAHIMA OUMAR",
+    "LOPEZ EGAÑA, ANER",
+    "KERR ELGUEZUA, IBAI"
+  ],
+  "titulares_visitante": [
+    "SAN JOSE FLORIDO, ERLANTZ",
+    "SARANDESES MENESES, OIER",
+    "GARCÍA DE ANDOIN ORTEGA, MARKEL",
+    "HAMROUNI OSUNA, SABIER",
+    "RIVEIRO LEIVA, MIKEL",
+    "LUMBRERAS NUÑEZ, MIKEL",
+    "ZABALA DOMINGUEZ, JORITZ",
+    "CABALLERO IZQUIERDO, MARTIN",
+    "PEREZ MARTIN, HECTOR",
+    "PEDREIRA ESNARRIAGA, ANER",
+    "URRUTIA SALMORAL, UNAI"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ CORTIZO, DANEL",
+    "PEDROCHE BARRUTIA, MARKEL",
+    "HERNALTES MALVAR, MIKEL",
+    "MEDINA IZQUIERDO, LUKEN",
+    "ETXAIDE ALBERDI, KERMAN",
+    "CRESPO HERNANDEZ, UNAI",
+    "NGENGO MATUVANGA, DAVID"
+  ],
+  "suplentes_visitante": [
+    "MEJIAS BELDA, ARKAITZ",
+    "LAGUNA ETXEBARRIA, MARTIN",
+    "UDAETA VALBUENA, AITOR",
+    "RIOS GARCIA, IKER DAVID",
+    "NAVEIRA TEIJEIRO, ENDIKA"
+  ],
+  "convocados_sin_jugar_local": [
+    "FERNANDEZ CORTIZO, DANEL",
+    "ETXAIDE ALBERDI, KERMAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MEJIAS BELDA, ARKAITZ"
+  ],
+  "jugadores_local": [
+    "ARROYO SANCHEZ, JON",
+    "YACUMAL CHARRY, JUAN FELIPE",
+    "GALLARDO MOLINA, HUGO",
+    "ARROYO LARA, IZAN",
+    "QUINDOS LOPEZ, JULEN",
+    "VILLAR GOMEZ, OINATZ",
+    "AKSSASS NACIRI, NAOFAL",
+    "AZCUNE RUIZ DE EGUINO, XIKER",
+    "DIALLO, IBRAHIMA OUMAR",
+    "LOPEZ EGAÑA, ANER",
+    "KERR ELGUEZUA, IBAI",
+    "PEDROCHE BARRUTIA, MARKEL",
+    "NGENGO MATUVANGA, DAVID",
+    "MEDINA IZQUIERDO, LUKEN",
+    "HERNALTES MALVAR, MIKEL",
+    "CRESPO HERNANDEZ, UNAI"
+  ],
+  "jugadores_visitante": [
+    "SAN JOSE FLORIDO, ERLANTZ",
+    "SARANDESES MENESES, OIER",
+    "GARCÍA DE ANDOIN ORTEGA, MARKEL",
+    "HAMROUNI OSUNA, SABIER",
+    "RIVEIRO LEIVA, MIKEL",
+    "LUMBRERAS NUÑEZ, MIKEL",
+    "ZABALA DOMINGUEZ, JORITZ",
+    "CABALLERO IZQUIERDO, MARTIN",
+    "PEREZ MARTIN, HECTOR",
+    "PEDREIRA ESNARRIAGA, ANER",
+    "URRUTIA SALMORAL, UNAI",
+    "LAGUNA ETXEBARRIA, MARTIN",
+    "UDAETA VALBUENA, AITOR",
+    "NAVEIRA TEIJEIRO, ENDIKA",
+    "RIOS GARCIA, IKER DAVID"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "PEDROCHE BARRUTIA, MARKEL",
+      "sale": "ARROYO LARA, IZAN"
+    },
+    {
+      "min": 62,
+      "entra": "NGENGO MATUVANGA, DAVID",
+      "sale": "QUINDOS LOPEZ, JULEN"
+    },
+    {
+      "min": 62,
+      "entra": "MEDINA IZQUIERDO, LUKEN",
+      "sale": "KERR ELGUEZUA, IBAI"
+    },
+    {
+      "min": 72,
+      "entra": "HERNALTES MALVAR, MIKEL",
+      "sale": "DIALLO, IBRAHIMA OUMAR"
+    },
+    {
+      "min": 72,
+      "entra": "CRESPO HERNANDEZ, UNAI",
+      "sale": "YACUMAL CHARRY, JUAN FELIPE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "LAGUNA ETXEBARRIA, MARTIN",
+      "sale": "URRUTIA SALMORAL, UNAI"
+    },
+    {
+      "min": 50,
+      "entra": "UDAETA VALBUENA, AITOR",
+      "sale": "ZABALA DOMINGUEZ, JORITZ"
+    },
+    {
+      "min": 59,
+      "entra": "NAVEIRA TEIJEIRO, ENDIKA",
+      "sale": "LUMBRERAS NUÑEZ, MIKEL"
+    },
+    {
+      "min": 66,
+      "entra": "RIOS GARCIA, IKER DAVID",
+      "sale": "SARANDESES MENESES, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARROYO SANCHEZ, JON": 90,
+    "YACUMAL CHARRY, JUAN FELIPE": 72,
+    "GALLARDO MOLINA, HUGO": 90,
+    "ARROYO LARA, IZAN": 51,
+    "QUINDOS LOPEZ, JULEN": 62,
+    "VILLAR GOMEZ, OINATZ": 90,
+    "AKSSASS NACIRI, NAOFAL": 90,
+    "AZCUNE RUIZ DE EGUINO, XIKER": 90,
+    "DIALLO, IBRAHIMA OUMAR": 72,
+    "LOPEZ EGAÑA, ANER": 90,
+    "KERR ELGUEZUA, IBAI": 62,
+    "PEDROCHE BARRUTIA, MARKEL": 39,
+    "NGENGO MATUVANGA, DAVID": 28,
+    "MEDINA IZQUIERDO, LUKEN": 28,
+    "HERNALTES MALVAR, MIKEL": 18,
+    "CRESPO HERNANDEZ, UNAI": 18,
+    "SAN JOSE FLORIDO, ERLANTZ": 90,
+    "SARANDESES MENESES, OIER": 66,
+    "GARCÍA DE ANDOIN ORTEGA, MARKEL": 90,
+    "HAMROUNI OSUNA, SABIER": 90,
+    "RIVEIRO LEIVA, MIKEL": 90,
+    "LUMBRERAS NUÑEZ, MIKEL": 59,
+    "ZABALA DOMINGUEZ, JORITZ": 50,
+    "CABALLERO IZQUIERDO, MARTIN": 90,
+    "PEREZ MARTIN, HECTOR": 90,
+    "PEDREIRA ESNARRIAGA, ANER": 90,
+    "URRUTIA SALMORAL, UNAI": 50,
+    "LAGUNA ETXEBARRIA, MARTIN": 40,
+    "UDAETA VALBUENA, AITOR": 40,
+    "NAVEIRA TEIJEIRO, ENDIKA": 31,
+    "RIOS GARCIA, IKER DAVID": 24
+  },
+  "portero_local": "ARROYO SANCHEZ, JON",
+  "portero_visitante": "SAN JOSE FLORIDO, ERLANTZ",
+  "dorsales_local": {
+    "ARROYO SANCHEZ, JON": 1,
+    "YACUMAL CHARRY, JUAN FELIPE": 2,
+    "GALLARDO MOLINA, HUGO": 4,
+    "ARROYO LARA, IZAN": 6,
+    "QUINDOS LOPEZ, JULEN": 10,
+    "VILLAR GOMEZ, OINATZ": 12,
+    "AKSSASS NACIRI, NAOFAL": 15,
+    "AZCUNE RUIZ DE EGUINO, XIKER": 16,
+    "DIALLO, IBRAHIMA OUMAR": 18,
+    "LOPEZ EGAÑA, ANER": 21,
+    "KERR ELGUEZUA, IBAI": 23
+  },
+  "dorsales_visitante": {
+    "SAN JOSE FLORIDO, ERLANTZ": 13,
+    "SARANDESES MENESES, OIER": 2,
+    "GARCÍA DE ANDOIN ORTEGA, MARKEL": 3,
+    "HAMROUNI OSUNA, SABIER": 4,
+    "RIVEIRO LEIVA, MIKEL": 5,
+    "LUMBRERAS NUÑEZ, MIKEL": 6,
+    "ZABALA DOMINGUEZ, JORITZ": 8,
+    "CABALLERO IZQUIERDO, MARTIN": 11,
+    "PEREZ MARTIN, HECTOR": 14,
+    "PEDREIRA ESNARRIAGA, ANER": 15,
+    "URRUTIA SALMORAL, UNAI": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
