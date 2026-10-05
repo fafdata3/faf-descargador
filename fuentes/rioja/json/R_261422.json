@@ -1,0 +1,268 @@
+{
+  "acta_id": "R_261422",
+  "filename": "Acta_R_261422.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "03-10-2026",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (Grupo Único)",
+  "equipo_local": "EFB ALFARO",
+  "equipo_visitante": "VALVANERA",
+  "goles_local": 0,
+  "goles_visitante": 6,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "LÁZARO MARTÍNEZ, ÓLIVER"
+  ],
+  "estadio": "C.M. LA MOLINETA - H.A. (ALFARO)",
+  "ciudad": "Alfaro",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "GOMEZ PEDREGAL, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "BENMOUSSA AISSAT, IYAD",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "SANGARE DIAKITE, IBRAHIM ROBERTO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "GIL IÑIGUEZ, CHRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "GARCIA PASCUAL, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "GUINALDO BURGOS, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 61,
+      "jugador": "BUENO PEREZ, CESAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "SANGARE DIAKITE, IBRAHIM ROBERTO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "BARCINA RODRIGUEZ, SERGIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LAMATA GARCIA, GERMAN",
+  "delegado_equipo_visitante": "ESTEPA ALVAREZ, ALVARO",
+  "titulares_local": [
+    "SOLDEVILLA GAVILAN, ADRIAN",
+    "MARIN ALFARO, MARCOS",
+    "MARTINEZ RUIZ, ERIC",
+    "LATORRE JIMENEZ, IKER",
+    "ORDOYO NAVASCUES, IÑIGO",
+    "BOBADILLA BALDERO, MARIO",
+    "LLORENTE AMEZCUA, GONZALO",
+    "SESMA USARRALDE, RAUL",
+    "LAMATA JIMENEZ, LUCAS",
+    "ARDOUS SAIDI, AZDINE",
+    "DELGADO MELLADO, NICOLAS"
+  ],
+  "titulares_visitante": [
+    "MONJE HORNOS, GONZALO",
+    "NAJERA VIGUERA, IBAI",
+    "ESTEPA CENICEROS, MARCOS",
+    "GOMEZ PEDREGAL, MATEO",
+    "GARCIA PASCUAL, SERGIO",
+    "DIEZ BAQUERO, CESAR",
+    "GIL IÑIGUEZ, CHRISTIAN",
+    "SANGARE DIAKITE, IBRAHIM ROBERTO",
+    "PEREZ RICO, ALEJANDRO",
+    "BATHIA, IBRAHIMA",
+    "BENMOUSSA AISSAT, IYAD"
+  ],
+  "suplentes_local": [
+    "BUENO PEREZ, CESAR",
+    "LAPEÑA GRANDEZ, PABLO",
+    "MESEGUER FERNANDEZ, LEO",
+    "CASAS MALUMBRES, JAVIER",
+    "PASCUAL ARELLANO, ADRIAN",
+    "NAVALES GONZALEZ, GONZALO"
+  ],
+  "suplentes_visitante": [
+    "CABAÑERO SAIZ, HUGO",
+    "MUÑOZ RAMOS, DARIO",
+    "GARCIA CABELLO, JOAN SEBASTIAN",
+    "GUINALDO BURGOS, OIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "CASAS MALUMBRES, JAVIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CABAÑERO SAIZ, HUGO",
+    "MUÑOZ RAMOS, DARIO"
+  ],
+  "jugadores_local": [
+    "SOLDEVILLA GAVILAN, ADRIAN",
+    "MARIN ALFARO, MARCOS",
+    "MARTINEZ RUIZ, ERIC",
+    "LATORRE JIMENEZ, IKER",
+    "ORDOYO NAVASCUES, IÑIGO",
+    "BOBADILLA BALDERO, MARIO",
+    "LLORENTE AMEZCUA, GONZALO",
+    "SESMA USARRALDE, RAUL",
+    "LAMATA JIMENEZ, LUCAS",
+    "ARDOUS SAIDI, AZDINE",
+    "DELGADO MELLADO, NICOLAS",
+    "BUENO PEREZ, CESAR",
+    "MESEGUER FERNANDEZ, LEO",
+    "NAVALES GONZALEZ, GONZALO",
+    "PASCUAL ARELLANO, ADRIAN",
+    "LAPEÑA GRANDEZ, PABLO"
+  ],
+  "jugadores_visitante": [
+    "MONJE HORNOS, GONZALO",
+    "NAJERA VIGUERA, IBAI",
+    "ESTEPA CENICEROS, MARCOS",
+    "GOMEZ PEDREGAL, MATEO",
+    "GARCIA PASCUAL, SERGIO",
+    "DIEZ BAQUERO, CESAR",
+    "GIL IÑIGUEZ, CHRISTIAN",
+    "SANGARE DIAKITE, IBRAHIM ROBERTO",
+    "PEREZ RICO, ALEJANDRO",
+    "BATHIA, IBRAHIMA",
+    "BENMOUSSA AISSAT, IYAD",
+    "GUINALDO BURGOS, OIER",
+    "GARCIA CABELLO, JOAN SEBASTIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "BUENO PEREZ, CESAR",
+      "sale": "SOLDEVILLA GAVILAN, ADRIAN"
+    },
+    {
+      "min": 47,
+      "entra": "MESEGUER FERNANDEZ, LEO",
+      "sale": "LLORENTE AMEZCUA, GONZALO"
+    },
+    {
+      "min": 47,
+      "entra": "NAVALES GONZALEZ, GONZALO",
+      "sale": "SESMA USARRALDE, RAUL"
+    },
+    {
+      "min": 47,
+      "entra": "PASCUAL ARELLANO, ADRIAN",
+      "sale": "MARTINEZ RUIZ, ERIC"
+    },
+    {
+      "min": 66,
+      "entra": "LAPEÑA GRANDEZ, PABLO",
+      "sale": "ARDOUS SAIDI, AZDINE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 47,
+      "entra": "GUINALDO BURGOS, OIER",
+      "sale": "PEREZ RICO, ALEJANDRO"
+    },
+    {
+      "min": 57,
+      "entra": "GARCIA CABELLO, JOAN SEBASTIAN",
+      "sale": "BENMOUSSA AISSAT, IYAD"
+    }
+  ],
+  "minutos_jugadores": {
+    "SOLDEVILLA GAVILAN, ADRIAN": 41,
+    "MARIN ALFARO, MARCOS": 90,
+    "MARTINEZ RUIZ, ERIC": 47,
+    "LATORRE JIMENEZ, IKER": 90,
+    "ORDOYO NAVASCUES, IÑIGO": 90,
+    "BOBADILLA BALDERO, MARIO": 90,
+    "LLORENTE AMEZCUA, GONZALO": 47,
+    "SESMA USARRALDE, RAUL": 47,
+    "LAMATA JIMENEZ, LUCAS": 90,
+    "ARDOUS SAIDI, AZDINE": 66,
+    "DELGADO MELLADO, NICOLAS": 90,
+    "BUENO PEREZ, CESAR": 49,
+    "MESEGUER FERNANDEZ, LEO": 43,
+    "NAVALES GONZALEZ, GONZALO": 43,
+    "PASCUAL ARELLANO, ADRIAN": 43,
+    "LAPEÑA GRANDEZ, PABLO": 24,
+    "MONJE HORNOS, GONZALO": 90,
+    "NAJERA VIGUERA, IBAI": 90,
+    "ESTEPA CENICEROS, MARCOS": 90,
+    "GOMEZ PEDREGAL, MATEO": 90,
+    "GARCIA PASCUAL, SERGIO": 90,
+    "DIEZ BAQUERO, CESAR": 90,
+    "GIL IÑIGUEZ, CHRISTIAN": 90,
+    "SANGARE DIAKITE, IBRAHIM ROBERTO": 90,
+    "PEREZ RICO, ALEJANDRO": 47,
+    "BATHIA, IBRAHIMA": 90,
+    "BENMOUSSA AISSAT, IYAD": 57,
+    "GUINALDO BURGOS, OIER": 43,
+    "GARCIA CABELLO, JOAN SEBASTIAN": 33
+  },
+  "portero_local": "SOLDEVILLA GAVILAN, ADRIAN",
+  "portero_visitante": "MONJE HORNOS, GONZALO",
+  "dorsales_local": {
+    "SOLDEVILLA GAVILAN, ADRIAN": 1,
+    "MARIN ALFARO, MARCOS": 2,
+    "MARTINEZ RUIZ, ERIC": 3,
+    "LATORRE JIMENEZ, IKER": 5,
+    "ORDOYO NAVASCUES, IÑIGO": 6,
+    "BOBADILLA BALDERO, MARIO": 8,
+    "LLORENTE AMEZCUA, GONZALO": 10,
+    "SESMA USARRALDE, RAUL": 12,
+    "LAMATA JIMENEZ, LUCAS": 14,
+    "ARDOUS SAIDI, AZDINE": 15,
+    "DELGADO MELLADO, NICOLAS": 20
+  },
+  "dorsales_visitante": {
+    "MONJE HORNOS, GONZALO": 1,
+    "NAJERA VIGUERA, IBAI": 2,
+    "ESTEPA CENICEROS, MARCOS": 4,
+    "GOMEZ PEDREGAL, MATEO": 5,
+    "GARCIA PASCUAL, SERGIO": 6,
+    "DIEZ BAQUERO, CESAR": 7,
+    "GIL IÑIGUEZ, CHRISTIAN": 9,
+    "SANGARE DIAKITE, IBRAHIM ROBERTO": 10,
+    "PEREZ RICO, ALEJANDRO": 11,
+    "BATHIA, IBRAHIMA": 15,
+    "BENMOUSSA AISSAT, IYAD": 16
+  },
+  "suspendidos": []
+}
