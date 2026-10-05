@@ -1,0 +1,273 @@
+{
+  "acta_id": "B_10061815",
+  "filename": "Acta_B_10061815.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "04-10-2026",
+  "hora": "13:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ETXEBARRI A",
+  "equipo_visitante": "IURRETAKO A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "BERMEJO CASADO, ENEKO"
+  ],
+  "estadio": "MUNICIPAL A",
+  "ciudad": "Etxebarri",
+  "goleadores": [
+    {
+      "minuto": 37,
+      "jugador": "LAGLAITI SATOUT, AMIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "KORTAZAR GORDO, BEÑAT",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "BILDOSOLA ANTOLIN, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "SOLAGUREN FERNÁNDEZ, ANARTZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 18,
+      "jugador": "ARTOLA BROCH, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ARCEGA AGUIRREGABIRIA, GAIZKA",
+  "entrenador_visitante": "BORRACHERO ICOBALCETA, IKER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GOMEZ CASCON, IBAI",
+  "delegado_campo_local": "GUTIERREZ GONZALEZ, JON",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GUTIERREZ GONZALEZ, JON",
+  "delegado_equipo_visitante": "GANDARIAS GAZTAÑAZATORRE, CARMELO",
+  "titulares_local": [
+    "PORTELA DIZ, IKER",
+    "ARTOLA BROCH, UNAI",
+    "PEREZ ROCA, ANDER",
+    "ALESANCO RODRIGUEZ, IAN",
+    "OLMOS RUIZ, MARKEL",
+    "CORDERO ARRANZ, PABLO",
+    "HERNANDEZ OCHOA, IKER",
+    "GOMEZ SAENZ DE SAMANIEGO, OIHAN",
+    "URRESTARAZU PEREZ, ANER",
+    "COSSIO ROZAS, IKER",
+    "LAGLAITI SATOUT, AMIN"
+  ],
+  "titulares_visitante": [
+    "TABERA GOMEZ, EKAIN",
+    "BARRENA ARZUBIA, ANDER",
+    "FRANCO DIEZ, ASIER",
+    "GONZALEZ GONZALEZ, ANDER",
+    "MENDAZONA ALBIZURI, URKO",
+    "ONANDIA CASTRILLO, DANEL",
+    "GONZÁLEZ GONZÁLEZ, PAÚL",
+    "SILVA JUL, IUREN",
+    "KORTAZAR GORDO, BEÑAT",
+    "URIARTE LLONA, MARKEL",
+    "LAZKANO ZABALA, EKHI"
+  ],
+  "suplentes_local": [
+    "MOSQUERA CORTES, EKAITZ",
+    "FRAILE BERNARDOS, DANEL",
+    "MURUA SERNA, JULEN",
+    "GONZALEZ RUEDA, JON",
+    "BILDOSOLA ANTOLIN, OIER",
+    "HERNANDEZ VELEZ, ALEX",
+    "IGHILE, LOUIS OMO"
+  ],
+  "suplentes_visitante": [
+    "CABREJAS PETITE, AMETS",
+    "DELGADO TERZAGHI, UNAI",
+    "LORENZO CRENDE, MIKEL",
+    "SOLAGUREN FERNÁNDEZ, ANARTZ",
+    "LUIS URIZAR, AIMAR",
+    "BIRITXINAGA AMIANO, JON",
+    "ETXEITA GONZÁLEZ, MIKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "MOSQUERA CORTES, EKAITZ",
+    "IGHILE, LOUIS OMO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CABREJAS PETITE, AMETS",
+    "LORENZO CRENDE, MIKEL"
+  ],
+  "jugadores_local": [
+    "PORTELA DIZ, IKER",
+    "ARTOLA BROCH, UNAI",
+    "PEREZ ROCA, ANDER",
+    "ALESANCO RODRIGUEZ, IAN",
+    "OLMOS RUIZ, MARKEL",
+    "CORDERO ARRANZ, PABLO",
+    "HERNANDEZ OCHOA, IKER",
+    "GOMEZ SAENZ DE SAMANIEGO, OIHAN",
+    "URRESTARAZU PEREZ, ANER",
+    "COSSIO ROZAS, IKER",
+    "LAGLAITI SATOUT, AMIN",
+    "BILDOSOLA ANTOLIN, OIER",
+    "HERNANDEZ VELEZ, ALEX",
+    "FRAILE BERNARDOS, DANEL",
+    "MURUA SERNA, JULEN",
+    "GONZALEZ RUEDA, JON"
+  ],
+  "jugadores_visitante": [
+    "TABERA GOMEZ, EKAIN",
+    "BARRENA ARZUBIA, ANDER",
+    "FRANCO DIEZ, ASIER",
+    "GONZALEZ GONZALEZ, ANDER",
+    "MENDAZONA ALBIZURI, URKO",
+    "ONANDIA CASTRILLO, DANEL",
+    "GONZÁLEZ GONZÁLEZ, PAÚL",
+    "SILVA JUL, IUREN",
+    "KORTAZAR GORDO, BEÑAT",
+    "URIARTE LLONA, MARKEL",
+    "LAZKANO ZABALA, EKHI",
+    "ETXEITA GONZÁLEZ, MIKEL",
+    "LUIS URIZAR, AIMAR",
+    "BIRITXINAGA AMIANO, JON",
+    "DELGADO TERZAGHI, UNAI",
+    "SOLAGUREN FERNÁNDEZ, ANARTZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "BILDOSOLA ANTOLIN, OIER",
+      "sale": "URRESTARAZU PEREZ, ANER"
+    },
+    {
+      "min": 62,
+      "entra": "HERNANDEZ VELEZ, ALEX",
+      "sale": "CORDERO ARRANZ, PABLO"
+    },
+    {
+      "min": 62,
+      "entra": "FRAILE BERNARDOS, DANEL",
+      "sale": "COSSIO ROZAS, IKER"
+    },
+    {
+      "min": 70,
+      "entra": "MURUA SERNA, JULEN",
+      "sale": "LAGLAITI SATOUT, AMIN"
+    },
+    {
+      "min": 70,
+      "entra": "GONZALEZ RUEDA, JON",
+      "sale": "OLMOS RUIZ, MARKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "ETXEITA GONZÁLEZ, MIKEL",
+      "sale": "LAZKANO ZABALA, EKHI"
+    },
+    {
+      "min": 40,
+      "entra": "LUIS URIZAR, AIMAR",
+      "sale": "SILVA JUL, IUREN"
+    },
+    {
+      "min": 55,
+      "entra": "BIRITXINAGA AMIANO, JON",
+      "sale": "BARRENA ARZUBIA, ANDER"
+    },
+    {
+      "min": 58,
+      "entra": "DELGADO TERZAGHI, UNAI",
+      "sale": "KORTAZAR GORDO, BEÑAT"
+    },
+    {
+      "min": 65,
+      "entra": "SOLAGUREN FERNÁNDEZ, ANARTZ",
+      "sale": "URIARTE LLONA, MARKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "PORTELA DIZ, IKER": 90,
+    "ARTOLA BROCH, UNAI": 90,
+    "PEREZ ROCA, ANDER": 90,
+    "ALESANCO RODRIGUEZ, IAN": 90,
+    "OLMOS RUIZ, MARKEL": 70,
+    "CORDERO ARRANZ, PABLO": 62,
+    "HERNANDEZ OCHOA, IKER": 90,
+    "GOMEZ SAENZ DE SAMANIEGO, OIHAN": 90,
+    "URRESTARAZU PEREZ, ANER": 51,
+    "COSSIO ROZAS, IKER": 62,
+    "LAGLAITI SATOUT, AMIN": 70,
+    "BILDOSOLA ANTOLIN, OIER": 39,
+    "HERNANDEZ VELEZ, ALEX": 28,
+    "FRAILE BERNARDOS, DANEL": 28,
+    "MURUA SERNA, JULEN": 20,
+    "GONZALEZ RUEDA, JON": 20,
+    "TABERA GOMEZ, EKAIN": 90,
+    "BARRENA ARZUBIA, ANDER": 55,
+    "FRANCO DIEZ, ASIER": 90,
+    "GONZALEZ GONZALEZ, ANDER": 90,
+    "MENDAZONA ALBIZURI, URKO": 90,
+    "ONANDIA CASTRILLO, DANEL": 90,
+    "GONZÁLEZ GONZÁLEZ, PAÚL": 90,
+    "SILVA JUL, IUREN": 40,
+    "KORTAZAR GORDO, BEÑAT": 58,
+    "URIARTE LLONA, MARKEL": 65,
+    "LAZKANO ZABALA, EKHI": 40,
+    "ETXEITA GONZÁLEZ, MIKEL": 50,
+    "LUIS URIZAR, AIMAR": 50,
+    "BIRITXINAGA AMIANO, JON": 35,
+    "DELGADO TERZAGHI, UNAI": 32,
+    "SOLAGUREN FERNÁNDEZ, ANARTZ": 25
+  },
+  "portero_local": "PORTELA DIZ, IKER",
+  "portero_visitante": "TABERA GOMEZ, EKAIN",
+  "dorsales_local": {
+    "PORTELA DIZ, IKER": 25,
+    "ARTOLA BROCH, UNAI": 5,
+    "PEREZ ROCA, ANDER": 6,
+    "ALESANCO RODRIGUEZ, IAN": 7,
+    "OLMOS RUIZ, MARKEL": 8,
+    "CORDERO ARRANZ, PABLO": 10,
+    "HERNANDEZ OCHOA, IKER": 16,
+    "GOMEZ SAENZ DE SAMANIEGO, OIHAN": 18,
+    "URRESTARAZU PEREZ, ANER": 19,
+    "COSSIO ROZAS, IKER": 20,
+    "LAGLAITI SATOUT, AMIN": 21
+  },
+  "dorsales_visitante": {
+    "TABERA GOMEZ, EKAIN": 1,
+    "BARRENA ARZUBIA, ANDER": 2,
+    "FRANCO DIEZ, ASIER": 3,
+    "GONZALEZ GONZALEZ, ANDER": 4,
+    "MENDAZONA ALBIZURI, URKO": 5,
+    "ONANDIA CASTRILLO, DANEL": 6,
+    "GONZÁLEZ GONZÁLEZ, PAÚL": 7,
+    "SILVA JUL, IUREN": 8,
+    "KORTAZAR GORDO, BEÑAT": 9,
+    "URIARTE LLONA, MARKEL": 10,
+    "LAZKANO ZABALA, EKHI": 11
+  },
+  "suspendidos": []
+}
