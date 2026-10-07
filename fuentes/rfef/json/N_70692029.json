@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Selecciones Autonómicas de Futbol Playa SUB-20 femenino (FASE FINAL)",
   "equipo_local": "SELECCIO VALENCIANA",
   "equipo_visitante": "SELECCIÓN EXTREMEÑA",
-  "goles_local": 0,
-  "goles_visitante": 1,
-  "resultado": "L",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "AGUSTÍN MORENO, JORGE",
@@ -29,25 +29,29 @@
       "minuto": 1,
       "jugador": "RODRÍGUEZ BABIANO, PAULA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 20,
       "jugador": "SANCHEZ DIEZ, MARTA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "GALLEGO MUÑOZ, EDURNE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "GALLEGO MUÑOZ, EDURNE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -374,5 +378,6 @@
   "suspendidos": [
     "SELECCIÓN EXTREMEÑA :",
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
