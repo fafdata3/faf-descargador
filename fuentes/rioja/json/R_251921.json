@@ -10,7 +10,7 @@
   "equipo_local": "CALASANCIO",
   "equipo_visitante": "PRADEJON",
   "goles_local": 0,
-  "goles_visitante": 12,
+  "goles_visitante": 2,
   "resultado": "L",
   "arbitros": [
     "Árbitro Principal",
@@ -40,71 +40,71 @@
     {
       "minuto": 34,
       "jugador": "PEREZ VALLEJO, LAURA",
-      "equipo": "visitante",
-      "propia": false,
+      "equipo": "local",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 38,
       "jugador": "AHMADA CHAKI, AYA",
-      "equipo": "visitante",
-      "propia": false,
+      "equipo": "local",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 41,
       "jugador": "AHMADA CHAKI, AYA",
-      "equipo": "visitante",
-      "propia": false,
+      "equipo": "local",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 44,
       "jugador": "PAGOLA ORDOÑEZ, ANA",
-      "equipo": "visitante",
-      "propia": false,
+      "equipo": "local",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 48,
       "jugador": "TELLERIA OCHOA, NEREA",
-      "equipo": "visitante",
-      "propia": false,
+      "equipo": "local",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 49,
       "jugador": "RODRIGO LOPEZ, MIRIAM",
-      "equipo": "visitante",
-      "propia": false,
+      "equipo": "local",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 58,
       "jugador": "AHMADA CHAKI, AYA",
-      "equipo": "visitante",
-      "propia": false,
+      "equipo": "local",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 65,
       "jugador": "AHMADA CHAKI, AYA",
-      "equipo": "visitante",
-      "propia": false,
+      "equipo": "local",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 80,
       "jugador": "EZCURDIA IRUJO, IRATI",
-      "equipo": "visitante",
-      "propia": false,
+      "equipo": "local",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 89,
       "jugador": "TELLERIA OCHOA, NEREA",
-      "equipo": "visitante",
-      "propia": false,
+      "equipo": "local",
+      "propia": true,
       "penalti": false
     }
   ],
@@ -131,7 +131,7 @@
       "destinatario": "jugador"
     }
   ],
-  "entrenador_local": null,
+  "entrenador_local": "JOSE",
   "entrenador_visitante": "LOSA EZQUERRO, ISRAEL",
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": null,
