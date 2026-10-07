@@ -1,0 +1,266 @@
+{
+  "acta_id": "C_173286",
+  "filename": "Acta_C_173286.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 18,
+  "fecha": "11-02-2024",
+  "hora": "12:45",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO A",
+  "equipo_visitante": "C.D.E. AGORA F.C. A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RESPUELA VALIÑO, IVÁN"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "ESPINOSA SOBRINO, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 53,
+      "jugador": "QUINTANA TORRE, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "SAINZ DE LA MAZA CARRERAS, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 28,
+      "jugador": "VELEZ MONTES, LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "RANERO GARCIA, MARCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "GARCIA ZUBIAUR, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MINONDO SIERRA, MIGUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MADRAZO ARCO, JAVIER",
+  "delegado_equipo_visitante": "PASTOR SALAS, SERGIO",
+  "titulares_local": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "BEZANILLA GARCIA, AARON",
+    "GARCÍA ABASCAL, HECTOR",
+    "GOMEZ CONCHA, MATEO",
+    "TRICIO USLE, EDUARDO",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "ORTIZ MANZANAS, LUCAS",
+    "PORTILLA MAZA, ISMAEL",
+    "GUTIERREZ SARABIA, OSEL",
+    "ALONSO PEREZ, DARIO"
+  ],
+  "titulares_visitante": [
+    "GARCIA TROYANO, ALAIN",
+    "SARDON HERRERO, MIKEL",
+    "RODRIGUEZ SARABIA, AIMAR",
+    "ALVAREZ DURAN, SAMUEL",
+    "SAUTO ROMA, HUGO",
+    "ESPINOSA SOBRINO, ALEJANDRO",
+    "MARTIN PETRUS, DANIEL",
+    "CASTILLO VERDE, JULEN",
+    "DIAZ ALONSO, GORKA",
+    "VILLAMIZAR JIMENEZ, JUAN CAMILO",
+    "AGUDO GARCIA, ASIER"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ FERNANDEZ, GABRIEL",
+    "COLINA DE LA HOZ, HUGO",
+    "QUINTANA TORRE, MARTIN",
+    "SAINZ ZAMORANO, NOE",
+    "SIERRA GONZALEZ, KEVIN"
+  ],
+  "suplentes_visitante": [
+    "VELEZ MONTES, LUIS",
+    "RODRIGUEZ GARATE, EGOITZ",
+    "RANERO GARCIA, MARCO",
+    "GARCIA ZUBIAUR, NICOLAS",
+    "CANO MELENDEZ, HUGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "FERNANDEZ FERNANDEZ, GABRIEL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "BEZANILLA GARCIA, AARON",
+    "GARCÍA ABASCAL, HECTOR",
+    "GOMEZ CONCHA, MATEO",
+    "TRICIO USLE, EDUARDO",
+    "SAINZ DE LA MAZA CARRERAS, ANGEL",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "ORTIZ MANZANAS, LUCAS",
+    "PORTILLA MAZA, ISMAEL",
+    "GUTIERREZ SARABIA, OSEL",
+    "ALONSO PEREZ, DARIO",
+    "SIERRA GONZALEZ, KEVIN",
+    "QUINTANA TORRE, MARTIN",
+    "SAINZ ZAMORANO, NOE",
+    "COLINA DE LA HOZ, HUGO"
+  ],
+  "jugadores_visitante": [
+    "GARCIA TROYANO, ALAIN",
+    "SARDON HERRERO, MIKEL",
+    "RODRIGUEZ SARABIA, AIMAR",
+    "ALVAREZ DURAN, SAMUEL",
+    "SAUTO ROMA, HUGO",
+    "ESPINOSA SOBRINO, ALEJANDRO",
+    "MARTIN PETRUS, DANIEL",
+    "CASTILLO VERDE, JULEN",
+    "DIAZ ALONSO, GORKA",
+    "VILLAMIZAR JIMENEZ, JUAN CAMILO",
+    "AGUDO GARCIA, ASIER",
+    "RANERO GARCIA, MARCO",
+    "VELEZ MONTES, LUIS",
+    "GARCIA ZUBIAUR, NICOLAS",
+    "RODRIGUEZ GARATE, EGOITZ",
+    "CANO MELENDEZ, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "SIERRA GONZALEZ, KEVIN",
+      "sale": "TRICIO USLE, EDUARDO"
+    },
+    {
+      "min": 47,
+      "entra": "QUINTANA TORRE, MARTIN",
+      "sale": "GUTIERREZ SARABIA, OSEL"
+    },
+    {
+      "min": 60,
+      "entra": "SAINZ ZAMORANO, NOE",
+      "sale": "ORTIZ MANZANAS, LUCAS"
+    },
+    {
+      "min": 63,
+      "entra": "COLINA DE LA HOZ, HUGO",
+      "sale": "RODRIGUEZ LABRADOR, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "RANERO GARCIA, MARCO",
+      "sale": "MARTIN PETRUS, DANIEL"
+    },
+    {
+      "min": 59,
+      "entra": "VELEZ MONTES, LUIS",
+      "sale": "CASTILLO VERDE, JULEN"
+    },
+    {
+      "min": 59,
+      "entra": "GARCIA ZUBIAUR, NICOLAS",
+      "sale": "VILLAMIZAR JIMENEZ, JUAN CAMILO"
+    },
+    {
+      "min": 68,
+      "entra": "RODRIGUEZ GARATE, EGOITZ",
+      "sale": "AGUDO GARCIA, ASIER"
+    },
+    {
+      "min": 68,
+      "entra": "CANO MELENDEZ, HUGO",
+      "sale": "SARDON HERRERO, MIKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 90,
+    "BEZANILLA GARCIA, AARON": 90,
+    "GARCÍA ABASCAL, HECTOR": 90,
+    "GOMEZ CONCHA, MATEO": 90,
+    "TRICIO USLE, EDUARDO": 35,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 90,
+    "RODRIGUEZ LABRADOR, PABLO": 63,
+    "ORTIZ MANZANAS, LUCAS": 60,
+    "PORTILLA MAZA, ISMAEL": 90,
+    "GUTIERREZ SARABIA, OSEL": 47,
+    "ALONSO PEREZ, DARIO": 90,
+    "SIERRA GONZALEZ, KEVIN": 55,
+    "QUINTANA TORRE, MARTIN": 43,
+    "SAINZ ZAMORANO, NOE": 30,
+    "COLINA DE LA HOZ, HUGO": 27,
+    "GARCIA TROYANO, ALAIN": 90,
+    "SARDON HERRERO, MIKEL": 68,
+    "RODRIGUEZ SARABIA, AIMAR": 90,
+    "ALVAREZ DURAN, SAMUEL": 90,
+    "SAUTO ROMA, HUGO": 90,
+    "ESPINOSA SOBRINO, ALEJANDRO": 90,
+    "MARTIN PETRUS, DANIEL": 49,
+    "CASTILLO VERDE, JULEN": 59,
+    "DIAZ ALONSO, GORKA": 90,
+    "VILLAMIZAR JIMENEZ, JUAN CAMILO": 59,
+    "AGUDO GARCIA, ASIER": 68,
+    "RANERO GARCIA, MARCO": 41,
+    "VELEZ MONTES, LUIS": 31,
+    "GARCIA ZUBIAUR, NICOLAS": 31,
+    "RODRIGUEZ GARATE, EGOITZ": 22,
+    "CANO MELENDEZ, HUGO": 22
+  },
+  "portero_local": "ROMILA VASILACHE, ALEJANDRO ANDREI",
+  "portero_visitante": "GARCIA TROYANO, ALAIN",
+  "dorsales_local": {
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 13,
+    "BEZANILLA GARCIA, AARON": 2,
+    "GARCÍA ABASCAL, HECTOR": 5,
+    "GOMEZ CONCHA, MATEO": 6,
+    "TRICIO USLE, EDUARDO": 8,
+    "SAINZ DE LA MAZA CARRERAS, ANGEL": 9,
+    "RODRIGUEZ LABRADOR, PABLO": 10,
+    "ORTIZ MANZANAS, LUCAS": 11,
+    "PORTILLA MAZA, ISMAEL": 12,
+    "GUTIERREZ SARABIA, OSEL": 14,
+    "ALONSO PEREZ, DARIO": 19
+  },
+  "dorsales_visitante": {
+    "GARCIA TROYANO, ALAIN": 13,
+    "SARDON HERRERO, MIKEL": 2,
+    "RODRIGUEZ SARABIA, AIMAR": 3,
+    "ALVAREZ DURAN, SAMUEL": 5,
+    "SAUTO ROMA, HUGO": 9,
+    "ESPINOSA SOBRINO, ALEJANDRO": 10,
+    "MARTIN PETRUS, DANIEL": 14,
+    "CASTILLO VERDE, JULEN": 17,
+    "DIAZ ALONSO, GORKA": 18,
+    "VILLAMIZAR JIMENEZ, JUAN CAMILO": 30,
+    "AGUDO GARCIA, ASIER": 31
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
