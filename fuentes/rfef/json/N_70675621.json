@@ -1,0 +1,292 @@
+{
+  "acta_id": "N_70675621",
+  "filename": "Acta_N_70675621.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 34,
+  "fecha": "03-05-2026",
+  "hora": "16:30",
+  "categoria": "Division de Honor Juvenil (Grupo 4)",
+  "equipo_local": "UD TOMARES",
+  "equipo_visitante": "U.D. MELILLA",
+  "goles_local": 6,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO",
+    "EXPÓSITO JARAMILLO, FRANCISCO JAVIER",
+    "ÁRBITRO ASISTENTE",
+    "FLORES SÁNCHEZ, MARTA",
+    "ÁRBITRO ASISTENTE",
+    "CANO DIAZ, ANDRES"
+  ],
+  "estadio": "Municipal San Sebastián de Tomares",
+  "ciudad": "Córdoba",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "ACEMEL VELO, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 11,
+      "jugador": "BUENO BENITO, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "VARGAS MARIN, JOAQUIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "LOPEZ GAVILAN, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "GALAN MOREA, ALEX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "ACEMEL VELO, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 81,
+      "jugador": "RAMOS VARGAS, JOSE MARIA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 61,
+      "jugador": "ROBERTO MACIAS, FERNANDO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "ROMERO LOPEZ, JOSE GABRIEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "LAGO RAMA, ROBERTO",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "TABERNERO GARCIA, JAVIER LUIS",
+  "titulares_local": [
+    "CARRASCO PALACIOS, MANUEL",
+    "MARTINEZ RODRIGUEZ, MARIO GABRIEL",
+    "SANTOS SAENZ, ANTONIO",
+    "ARAUJO BUSTOS, ALVARO",
+    "GOMEZ MORILLO, RUBEN",
+    "BENITEZ AVILES, EMILIO",
+    "ACEMEL VELO, DAVID",
+    "LOPEZ GAVILAN, ALVARO",
+    "BEN LAACHIR, MOHAMMED",
+    "BUENO BENITO, IKER",
+    "VARGAS MARIN, JOAQUIN"
+  ],
+  "titulares_visitante": [
+    "LOPEZ LEAL, FRANCISCO",
+    "JIMENEZ KOUDAD, AMINE",
+    "EL KAILA MHAMED, MOHAMED AMIN",
+    "ESQUETA ALBERT, HUGO",
+    "BAGHOURI DARDIZ, MOHAMED",
+    "EL HACHMI HAMED, WALID",
+    "TAHRI BUEZAS, NAIM",
+    "BALLESTA JIMENEZ, SALVADOR",
+    "GALAN MOREA, ALEX",
+    "MARIN COMES, MIGUEL SALVADOR",
+    "PUERTO SOUSA, JORGE"
+  ],
+  "suplentes_local": [
+    "TRONCOSO GARCIA, FERNANDO",
+    "CEJAS CARBALLO, ALEJANDRO",
+    "LEON BOLAÑOS, RUBEN",
+    "CASTILLO CAÑADA, JUAN",
+    "RAMOS VARGAS, JOSE MARIA",
+    "PALACIOS SANCHEZ, ALBERTO"
+  ],
+  "suplentes_visitante": [
+    "MOHAND TAOUIL, AMIR",
+    "MIMUN LOPEZ, AIMAR",
+    "BENITEZ MARTINEZ, ESTEBAN JORGE",
+    "MARTIN GARNICA, ANTONIO CESAR",
+    "ROBERTO MACIAS, FERNANDO"
+  ],
+  "convocados_sin_jugar_local": [
+    "PALACIOS SANCHEZ, ALBERTO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CARRASCO PALACIOS, MANUEL",
+    "MARTINEZ RODRIGUEZ, MARIO GABRIEL",
+    "SANTOS SAENZ, ANTONIO",
+    "ARAUJO BUSTOS, ALVARO",
+    "GOMEZ MORILLO, RUBEN",
+    "BENITEZ AVILES, EMILIO",
+    "ACEMEL VELO, DAVID",
+    "LOPEZ GAVILAN, ALVARO",
+    "BEN LAACHIR, MOHAMMED",
+    "BUENO BENITO, IKER",
+    "VARGAS MARIN, JOAQUIN",
+    "CEJAS CARBALLO, ALEJANDRO",
+    "CASTILLO CAÑADA, JUAN",
+    "LEON BOLAÑOS, RUBEN",
+    "RAMOS VARGAS, JOSE MARIA",
+    "TRONCOSO GARCIA, FERNANDO"
+  ],
+  "jugadores_visitante": [
+    "LOPEZ LEAL, FRANCISCO",
+    "JIMENEZ KOUDAD, AMINE",
+    "EL KAILA MHAMED, MOHAMED AMIN",
+    "ESQUETA ALBERT, HUGO",
+    "BAGHOURI DARDIZ, MOHAMED",
+    "EL HACHMI HAMED, WALID",
+    "TAHRI BUEZAS, NAIM",
+    "BALLESTA JIMENEZ, SALVADOR",
+    "GALAN MOREA, ALEX",
+    "MARIN COMES, MIGUEL SALVADOR",
+    "PUERTO SOUSA, JORGE",
+    "ROBERTO MACIAS, FERNANDO",
+    "MIMUN LOPEZ, AIMAR",
+    "BENITEZ MARTINEZ, ESTEBAN JORGE",
+    "MOHAND TAOUIL, AMIR",
+    "MARTIN GARNICA, ANTONIO CESAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "CEJAS CARBALLO, ALEJANDRO",
+      "sale": "ARAUJO BUSTOS, ALVARO"
+    },
+    {
+      "min": 46,
+      "entra": "CASTILLO CAÑADA, JUAN",
+      "sale": "BUENO BENITO, IKER"
+    },
+    {
+      "min": 46,
+      "entra": "LEON BOLAÑOS, RUBEN",
+      "sale": "LOPEZ GAVILAN, ALVARO"
+    },
+    {
+      "min": 46,
+      "entra": "RAMOS VARGAS, JOSE MARIA",
+      "sale": "VARGAS MARIN, JOAQUIN"
+    },
+    {
+      "min": 46,
+      "entra": "TRONCOSO GARCIA, FERNANDO",
+      "sale": "BEN LAACHIR, MOHAMMED"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 2,
+      "entra": "ROBERTO MACIAS, FERNANDO",
+      "sale": "EL KAILA MHAMED, MOHAMED AMIN"
+    },
+    {
+      "min": 30,
+      "entra": "MIMUN LOPEZ, AIMAR",
+      "sale": "JIMENEZ KOUDAD, AMINE"
+    },
+    {
+      "min": 46,
+      "entra": "BENITEZ MARTINEZ, ESTEBAN JORGE",
+      "sale": "ESQUETA ALBERT, HUGO"
+    },
+    {
+      "min": 46,
+      "entra": "MOHAND TAOUIL, AMIR",
+      "sale": "LOPEZ LEAL, FRANCISCO"
+    },
+    {
+      "min": 46,
+      "entra": "MARTIN GARNICA, ANTONIO CESAR",
+      "sale": "BAGHOURI DARDIZ, MOHAMED"
+    }
+  ],
+  "minutos_jugadores": {
+    "CARRASCO PALACIOS, MANUEL": 90,
+    "MARTINEZ RODRIGUEZ, MARIO GABRIEL": 90,
+    "SANTOS SAENZ, ANTONIO": 90,
+    "ARAUJO BUSTOS, ALVARO": 46,
+    "GOMEZ MORILLO, RUBEN": 90,
+    "BENITEZ AVILES, EMILIO": 90,
+    "ACEMEL VELO, DAVID": 90,
+    "LOPEZ GAVILAN, ALVARO": 46,
+    "BEN LAACHIR, MOHAMMED": 46,
+    "BUENO BENITO, IKER": 46,
+    "VARGAS MARIN, JOAQUIN": 46,
+    "LOPEZ LEAL, FRANCISCO": 46,
+    "JIMENEZ KOUDAD, AMINE": 30,
+    "EL KAILA MHAMED, MOHAMED AMIN": 2,
+    "ESQUETA ALBERT, HUGO": 46,
+    "BAGHOURI DARDIZ, MOHAMED": 46,
+    "EL HACHMI HAMED, WALID": 90,
+    "TAHRI BUEZAS, NAIM": 90,
+    "BALLESTA JIMENEZ, SALVADOR": 90,
+    "GALAN MOREA, ALEX": 90,
+    "MARIN COMES, MIGUEL SALVADOR": 90,
+    "PUERTO SOUSA, JORGE": 90,
+    "CEJAS CARBALLO, ALEJANDRO": 44,
+    "CASTILLO CAÑADA, JUAN": 44,
+    "LEON BOLAÑOS, RUBEN": 44,
+    "RAMOS VARGAS, JOSE MARIA": 44,
+    "TRONCOSO GARCIA, FERNANDO": 44,
+    "ROBERTO MACIAS, FERNANDO": 88,
+    "MIMUN LOPEZ, AIMAR": 60,
+    "BENITEZ MARTINEZ, ESTEBAN JORGE": 44,
+    "MOHAND TAOUIL, AMIR": 44,
+    "MARTIN GARNICA, ANTONIO CESAR": 44
+  },
+  "portero_local": "CARRASCO PALACIOS, MANUEL",
+  "portero_visitante": "LOPEZ LEAL, FRANCISCO",
+  "dorsales_local": {
+    "CARRASCO PALACIOS, MANUEL": 13,
+    "MARTINEZ RODRIGUEZ, MARIO GABRIEL": 2,
+    "SANTOS SAENZ, ANTONIO": 3,
+    "ARAUJO BUSTOS, ALVARO": 4,
+    "GOMEZ MORILLO, RUBEN": 5,
+    "BENITEZ AVILES, EMILIO": 6,
+    "ACEMEL VELO, DAVID": 7,
+    "LOPEZ GAVILAN, ALVARO": 8,
+    "BEN LAACHIR, MOHAMMED": 9,
+    "BUENO BENITO, IKER": 10,
+    "VARGAS MARIN, JOAQUIN": 11
+  },
+  "dorsales_visitante": {
+    "LOPEZ LEAL, FRANCISCO": 30,
+    "JIMENEZ KOUDAD, AMINE": 2,
+    "EL KAILA MHAMED, MOHAMED AMIN": 3,
+    "ESQUETA ALBERT, HUGO": 7,
+    "BAGHOURI DARDIZ, MOHAMED": 8,
+    "EL HACHMI HAMED, WALID": 15,
+    "TAHRI BUEZAS, NAIM": 16,
+    "BALLESTA JIMENEZ, SALVADOR": 17,
+    "GALAN MOREA, ALEX": 19,
+    "MARIN COMES, MIGUEL SALVADOR": 20,
+    "PUERTO SOUSA, JORGE": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
