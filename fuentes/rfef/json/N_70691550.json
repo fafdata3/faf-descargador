@@ -27,37 +27,43 @@
       "minuto": 5,
       "jugador": "DOMINGUEZ MARTOS, IVAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 11,
       "jugador": "SANCHEZ CORTES, MANUEL",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 15,
       "jugador": "SARGHINI KLALOUZI, MOSAAB",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 21,
       "jugador": "PAZ BAHILLO, MARIO",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "PALACIO PARADA, MIGUEL ANGEL",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": true
     },
     {
       "minuto": 31,
       "jugador": "PAZ BAHILLO, MARIO",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
