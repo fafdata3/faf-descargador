@@ -1,0 +1,273 @@
+{
+  "acta_id": "10053166",
+  "filename": "Acta_10053166.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "26-09-2026",
+  "hora": "18:00",
+  "categoria": "JUVENIL DE HONOR / GAZTEEN OHOREZKO MAILA (GRUPO - 1)",
+  "equipo_local": "MARITURRIKOAK KT A",
+  "equipo_visitante": "SANTA MARÍA-VITORIA A.D.",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "CARRASCO SAENZ, JON"
+  ],
+  "estadio": "LA VITORIANA-2",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "FLORIAN SAUCA, VICTOR JOEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "NEGRO BARRIENTOS, ARITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 86,
+      "jugador": "FLORIAN SAUCA, VICTOR JOEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 52,
+      "jugador": "LAMANEC SANABRIA, MAREK",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "EL BAGHDADI KAARACH, AYMAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "NEGRO BARRIENTOS, ARITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "RODRIGUEZ LOPEZ, EGOITZ",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "EL-BOURDI AROUSS, YACINE",
+  "delegado_campo_local": "ALBORNOZ SAEZ DE IBARRA, GAIZKA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BELKAID AZIZI, ISMAEL",
+  "delegado_equipo_visitante": "EL BOURDI AROUSS, NABIL",
+  "titulares_local": [
+    "BEZARES GONZALEZ, ALEJANDRO",
+    "DIABATE DIAKITE, DAYE DAOUDA",
+    "EL BAGHDADI KAARACH, AYMAN",
+    "LAMANEC SANABRIA, MAREK",
+    "NEGRO BARRIENTOS, ARITZ",
+    "FERTAS MAIDI, KHAIR AD DIN",
+    "YOUSSOUF AYOKA, MOUHAMED AKANDJI",
+    "HABIB AIBID, HATEM",
+    "KARIM BAKKALI, AYMAN",
+    "ALVES RODRIGUES, YURI",
+    "MOHAMMADI DEL ARCO, YASSIN"
+  ],
+  "titulares_visitante": [
+    "ZUBIELQUI MOLINS, UNAX",
+    "LARRALDE FERRO, ANDER",
+    "BUSTERO SUAREZ, AITZOL",
+    "GARCIA CAÑAMERO, JOEL",
+    "GARCIA LOPEZ, AIMAR",
+    "GOYARROLA ARTOLA, PEIO",
+    "RUIZ FRIAS, IRAI",
+    "EKEU ANTOLINEZ, MICHEL KENAI",
+    "FLORIAN SAUCA, VICTOR JOEL",
+    "CANTERA FERREIRA, ENZO",
+    "CHAIB LAHOUAZI, MOHAMED HOUWARI"
+  ],
+  "suplentes_local": [
+    "NEGRON SARMIENTO, LINO ALEJANDRO",
+    "ABRAHAM AFOLABI, SAMUEL ANJOLA",
+    "DIALLO DIALLO, MUSTAFA",
+    "RODRIGUEZ GOMES, ALAIN",
+    "BOUZECOUR ACHKIF, SAID",
+    "SAGNO SAGNO, YOUSUF",
+    "SANABRIA CALDERON, ADRIAN SANTIAGO"
+  ],
+  "suplentes_visitante": [
+    "OGUETA ORAA, URKO",
+    "VILLATE RIOS, IKER",
+    "FERNANDEZ LOPEZ, IVAN",
+    "PARDO CIFUENTES, IELTXU",
+    "ADA AYETEBE, XABIER VICENTE",
+    "GOMEZ HERNANDEZ, INTXIXU"
+  ],
+  "convocados_sin_jugar_local": [
+    "NEGRON SARMIENTO, LINO ALEJANDRO",
+    "SANABRIA CALDERON, ADRIAN SANTIAGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "OGUETA ORAA, URKO",
+    "GOMEZ HERNANDEZ, INTXIXU"
+  ],
+  "jugadores_local": [
+    "BEZARES GONZALEZ, ALEJANDRO",
+    "DIABATE DIAKITE, DAYE DAOUDA",
+    "EL BAGHDADI KAARACH, AYMAN",
+    "LAMANEC SANABRIA, MAREK",
+    "NEGRO BARRIENTOS, ARITZ",
+    "FERTAS MAIDI, KHAIR AD DIN",
+    "YOUSSOUF AYOKA, MOUHAMED AKANDJI",
+    "HABIB AIBID, HATEM",
+    "KARIM BAKKALI, AYMAN",
+    "ALVES RODRIGUES, YURI",
+    "MOHAMMADI DEL ARCO, YASSIN",
+    "BOUZECOUR ACHKIF, SAID",
+    "DIALLO DIALLO, MUSTAFA",
+    "SAGNO SAGNO, YOUSUF",
+    "ABRAHAM AFOLABI, SAMUEL ANJOLA",
+    "RODRIGUEZ GOMES, ALAIN"
+  ],
+  "jugadores_visitante": [
+    "ZUBIELQUI MOLINS, UNAX",
+    "LARRALDE FERRO, ANDER",
+    "BUSTERO SUAREZ, AITZOL",
+    "GARCIA CAÑAMERO, JOEL",
+    "GARCIA LOPEZ, AIMAR",
+    "GOYARROLA ARTOLA, PEIO",
+    "RUIZ FRIAS, IRAI",
+    "EKEU ANTOLINEZ, MICHEL KENAI",
+    "FLORIAN SAUCA, VICTOR JOEL",
+    "CANTERA FERREIRA, ENZO",
+    "CHAIB LAHOUAZI, MOHAMED HOUWARI",
+    "VILLATE RIOS, IKER",
+    "PARDO CIFUENTES, IELTXU",
+    "ADA AYETEBE, XABIER VICENTE",
+    "FERNANDEZ LOPEZ, IVAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "BOUZECOUR ACHKIF, SAID",
+      "sale": "DIABATE DIAKITE, DAYE DAOUDA"
+    },
+    {
+      "min": 57,
+      "entra": "DIALLO DIALLO, MUSTAFA",
+      "sale": "FERTAS MAIDI, KHAIR AD DIN"
+    },
+    {
+      "min": 62,
+      "entra": "SAGNO SAGNO, YOUSUF",
+      "sale": "KARIM BAKKALI, AYMAN"
+    },
+    {
+      "min": 84,
+      "entra": "ABRAHAM AFOLABI, SAMUEL ANJOLA",
+      "sale": "HABIB AIBID, HATEM"
+    },
+    {
+      "min": 88,
+      "entra": "RODRIGUEZ GOMES, ALAIN",
+      "sale": "EL BAGHDADI KAARACH, AYMAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "VILLATE RIOS, IKER",
+      "sale": "EKEU ANTOLINEZ, MICHEL KENAI"
+    },
+    {
+      "min": 45,
+      "entra": "PARDO CIFUENTES, IELTXU",
+      "sale": "GARCIA CAÑAMERO, JOEL"
+    },
+    {
+      "min": 45,
+      "entra": "ADA AYETEBE, XABIER VICENTE",
+      "sale": "GOYARROLA ARTOLA, PEIO"
+    },
+    {
+      "min": 73,
+      "entra": "FERNANDEZ LOPEZ, IVAN",
+      "sale": "RUIZ FRIAS, IRAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "BEZARES GONZALEZ, ALEJANDRO": 90,
+    "DIABATE DIAKITE, DAYE DAOUDA": 49,
+    "EL BAGHDADI KAARACH, AYMAN": 88,
+    "LAMANEC SANABRIA, MAREK": 90,
+    "NEGRO BARRIENTOS, ARITZ": 90,
+    "FERTAS MAIDI, KHAIR AD DIN": 57,
+    "YOUSSOUF AYOKA, MOUHAMED AKANDJI": 90,
+    "HABIB AIBID, HATEM": 84,
+    "KARIM BAKKALI, AYMAN": 62,
+    "ALVES RODRIGUES, YURI": 90,
+    "MOHAMMADI DEL ARCO, YASSIN": 90,
+    "BOUZECOUR ACHKIF, SAID": 41,
+    "DIALLO DIALLO, MUSTAFA": 33,
+    "SAGNO SAGNO, YOUSUF": 28,
+    "ABRAHAM AFOLABI, SAMUEL ANJOLA": 6,
+    "RODRIGUEZ GOMES, ALAIN": 2,
+    "ZUBIELQUI MOLINS, UNAX": 90,
+    "LARRALDE FERRO, ANDER": 90,
+    "BUSTERO SUAREZ, AITZOL": 90,
+    "GARCIA CAÑAMERO, JOEL": 45,
+    "GARCIA LOPEZ, AIMAR": 90,
+    "GOYARROLA ARTOLA, PEIO": 45,
+    "RUIZ FRIAS, IRAI": 73,
+    "EKEU ANTOLINEZ, MICHEL KENAI": 45,
+    "FLORIAN SAUCA, VICTOR JOEL": 90,
+    "CANTERA FERREIRA, ENZO": 90,
+    "CHAIB LAHOUAZI, MOHAMED HOUWARI": 90,
+    "VILLATE RIOS, IKER": 45,
+    "PARDO CIFUENTES, IELTXU": 45,
+    "ADA AYETEBE, XABIER VICENTE": 45,
+    "FERNANDEZ LOPEZ, IVAN": 17
+  },
+  "portero_local": "BEZARES GONZALEZ, ALEJANDRO",
+  "portero_visitante": "ZUBIELQUI MOLINS, UNAX",
+  "dorsales_local": {
+    "BEZARES GONZALEZ, ALEJANDRO": 13,
+    "DIABATE DIAKITE, DAYE DAOUDA": 4,
+    "EL BAGHDADI KAARACH, AYMAN": 5,
+    "LAMANEC SANABRIA, MAREK": 7,
+    "NEGRO BARRIENTOS, ARITZ": 8,
+    "FERTAS MAIDI, KHAIR AD DIN": 9,
+    "YOUSSOUF AYOKA, MOUHAMED AKANDJI": 56,
+    "HABIB AIBID, HATEM": 66,
+    "KARIM BAKKALI, AYMAN": 69,
+    "ALVES RODRIGUES, YURI": 77,
+    "MOHAMMADI DEL ARCO, YASSIN": 80
+  },
+  "dorsales_visitante": {
+    "ZUBIELQUI MOLINS, UNAX": 1,
+    "LARRALDE FERRO, ANDER": 6,
+    "BUSTERO SUAREZ, AITZOL": 8,
+    "GARCIA CAÑAMERO, JOEL": 9,
+    "GARCIA LOPEZ, AIMAR": 10,
+    "GOYARROLA ARTOLA, PEIO": 14,
+    "RUIZ FRIAS, IRAI": 15,
+    "EKEU ANTOLINEZ, MICHEL KENAI": 16,
+    "FLORIAN SAUCA, VICTOR JOEL": 20,
+    "CANTERA FERREIRA, ENZO": 22,
+    "CHAIB LAHOUAZI, MOHAMED HOUWARI": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
