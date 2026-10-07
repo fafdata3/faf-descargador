@@ -1,0 +1,240 @@
+{
+  "acta_id": "C_173134",
+  "filename": "Acta_C_173134.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 29,
+  "fecha": "27-04-2024",
+  "hora": "11:30",
+  "categoria": "TERCERA CADETE (GRUPO E)",
+  "equipo_local": "S.D. GAMA A",
+  "equipo_visitante": "C.D. RAMALES",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PUENTE PINO, MIGUEL ANGEL"
+  ],
+  "estadio": "Gama",
+  "ciudad": "Bárcena de Cicero",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "ARENAS CRESPO, OSCAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "LOPEZ GONZALEZ, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "ALVAREZ OLIVEROS, CESAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 49,
+      "jugador": "GARAY TRUJILLO, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "GARAY TRUJILLO, IKER",
+  "entrenador_visitante": "GOMEZ OCEJO, TOMAS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "LASTRA PEÑA, MARIO",
+    "ARGOS RAMOS, MARIO",
+    "PERNIA COLINA, ROBERTO",
+    "BLANCO COBO, PABLO",
+    "GARIN ECHEVARRIA, FELIX",
+    "DE PAOLI, MATIAS",
+    "ROZAS DE COS, MIGUEL",
+    "GABELLA BEGOÑA, EKAITZ",
+    "CALVO SAINZ DE LA MAZA, IZAN",
+    "NADIF EL ARROUBI, MOAD",
+    "GIL GONZALEZ, MARIO"
+  ],
+  "titulares_visitante": [
+    "BAUTISTA SAINZ, YERAI",
+    "MAZA FERNANDEZ, IÑIGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "LOPEZ GONZALEZ, HUGO",
+    "DE LAS HERAS VARONA, ASIER",
+    "LLAMA GOMEZ, ALVARO",
+    "ALVAREZ OLIVEROS, CESAR",
+    "TREVILLA VELA, RAMON",
+    "ARENAS CRESPO, OSCAR",
+    "IBAÑEZ AHEDO, EGOITZ",
+    "HIERRO HERNANDO, DIEGO"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ PRADA, HUGO",
+    "HERNANDEZ COLAS, NICOLAS",
+    "GARCIA ABASCAL, PABLO"
+  ],
+  "suplentes_visitante": [
+    "GOMEZ RANERO, ANDER",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "BUENO MORALES, JAVIER",
+    "DEL MORAL ALONSO, RODRIGO",
+    "MANZANARES BENITO, ALAIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LASTRA PEÑA, MARIO",
+    "ARGOS RAMOS, MARIO",
+    "PERNIA COLINA, ROBERTO",
+    "BLANCO COBO, PABLO",
+    "GARIN ECHEVARRIA, FELIX",
+    "DE PAOLI, MATIAS",
+    "ROZAS DE COS, MIGUEL",
+    "GABELLA BEGOÑA, EKAITZ",
+    "CALVO SAINZ DE LA MAZA, IZAN",
+    "NADIF EL ARROUBI, MOAD",
+    "GIL GONZALEZ, MARIO",
+    "GARCIA ABASCAL, PABLO",
+    "HERNANDEZ COLAS, NICOLAS",
+    "FERNANDEZ PRADA, HUGO"
+  ],
+  "jugadores_visitante": [
+    "BAUTISTA SAINZ, YERAI",
+    "MAZA FERNANDEZ, IÑIGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "LOPEZ GONZALEZ, HUGO",
+    "DE LAS HERAS VARONA, ASIER",
+    "LLAMA GOMEZ, ALVARO",
+    "ALVAREZ OLIVEROS, CESAR",
+    "TREVILLA VELA, RAMON",
+    "ARENAS CRESPO, OSCAR",
+    "IBAÑEZ AHEDO, EGOITZ",
+    "HIERRO HERNANDO, DIEGO",
+    "GOMEZ RANERO, ANDER",
+    "DEL MORAL ALONSO, RODRIGO",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "BUENO MORALES, JAVIER",
+    "MANZANARES BENITO, ALAIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GARCIA ABASCAL, PABLO",
+      "sale": "GABELLA BEGOÑA, EKAITZ"
+    },
+    {
+      "min": 40,
+      "entra": "HERNANDEZ COLAS, NICOLAS",
+      "sale": "GIL GONZALEZ, MARIO"
+    },
+    {
+      "min": 64,
+      "entra": "FERNANDEZ PRADA, HUGO",
+      "sale": "CALVO SAINZ DE LA MAZA, IZAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GOMEZ RANERO, ANDER",
+      "sale": "ARENAS CRESPO, OSCAR"
+    },
+    {
+      "min": 57,
+      "entra": "DEL MORAL ALONSO, RODRIGO",
+      "sale": "DE LAS HERAS VARONA, ASIER"
+    },
+    {
+      "min": 63,
+      "entra": "COBREROS ZUBILLAGA, SAMUEL",
+      "sale": "HIERRO HERNANDO, DIEGO"
+    },
+    {
+      "min": 63,
+      "entra": "BUENO MORALES, JAVIER",
+      "sale": "GALAZ GOMEZ, GUILLERMO"
+    },
+    {
+      "min": 68,
+      "entra": "MANZANARES BENITO, ALAIN",
+      "sale": "IBAÑEZ AHEDO, EGOITZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "LASTRA PEÑA, MARIO": 90,
+    "ARGOS RAMOS, MARIO": 90,
+    "PERNIA COLINA, ROBERTO": 90,
+    "BLANCO COBO, PABLO": 90,
+    "GARIN ECHEVARRIA, FELIX": 90,
+    "DE PAOLI, MATIAS": 90,
+    "ROZAS DE COS, MIGUEL": 90,
+    "GABELLA BEGOÑA, EKAITZ": 40,
+    "CALVO SAINZ DE LA MAZA, IZAN": 64,
+    "NADIF EL ARROUBI, MOAD": 90,
+    "GIL GONZALEZ, MARIO": 40,
+    "GARCIA ABASCAL, PABLO": 50,
+    "HERNANDEZ COLAS, NICOLAS": 50,
+    "FERNANDEZ PRADA, HUGO": 26,
+    "BAUTISTA SAINZ, YERAI": 90,
+    "MAZA FERNANDEZ, IÑIGO": 90,
+    "GALAZ GOMEZ, GUILLERMO": 63,
+    "LOPEZ GONZALEZ, HUGO": 90,
+    "DE LAS HERAS VARONA, ASIER": 57,
+    "LLAMA GOMEZ, ALVARO": 90,
+    "ALVAREZ OLIVEROS, CESAR": 90,
+    "TREVILLA VELA, RAMON": 90,
+    "ARENAS CRESPO, OSCAR": 40,
+    "IBAÑEZ AHEDO, EGOITZ": 68,
+    "HIERRO HERNANDO, DIEGO": 63,
+    "GOMEZ RANERO, ANDER": 50,
+    "DEL MORAL ALONSO, RODRIGO": 33,
+    "COBREROS ZUBILLAGA, SAMUEL": 27,
+    "BUENO MORALES, JAVIER": 27,
+    "MANZANARES BENITO, ALAIN": 22
+  },
+  "portero_local": "LASTRA PEÑA, MARIO",
+  "portero_visitante": "BAUTISTA SAINZ, YERAI",
+  "dorsales_local": {
+    "LASTRA PEÑA, MARIO": 1,
+    "ARGOS RAMOS, MARIO": 2,
+    "PERNIA COLINA, ROBERTO": 3,
+    "BLANCO COBO, PABLO": 4,
+    "GARIN ECHEVARRIA, FELIX": 5,
+    "DE PAOLI, MATIAS": 6,
+    "ROZAS DE COS, MIGUEL": 7,
+    "GABELLA BEGOÑA, EKAITZ": 8,
+    "CALVO SAINZ DE LA MAZA, IZAN": 9,
+    "NADIF EL ARROUBI, MOAD": 10,
+    "GIL GONZALEZ, MARIO": 11
+  },
+  "dorsales_visitante": {
+    "BAUTISTA SAINZ, YERAI": 13,
+    "MAZA FERNANDEZ, IÑIGO": 4,
+    "GALAZ GOMEZ, GUILLERMO": 5,
+    "LOPEZ GONZALEZ, HUGO": 6,
+    "DE LAS HERAS VARONA, ASIER": 7,
+    "LLAMA GOMEZ, ALVARO": 8,
+    "ALVAREZ OLIVEROS, CESAR": 9,
+    "TREVILLA VELA, RAMON": 12,
+    "ARENAS CRESPO, OSCAR": 17,
+    "IBAÑEZ AHEDO, EGOITZ": 18,
+    "HIERRO HERNANDO, DIEGO": 19
+  },
+  "suspendidos": []
+}
