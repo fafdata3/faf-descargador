@@ -10,7 +10,7 @@
   "equipo_local": "ROSES PLATJA",
   "equipo_visitante": "C.D. ENPIE MALAGA FUTBOL PLAYA",
   "goles_local": 3,
-  "goles_visitante": 2,
+  "goles_visitante": 1,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -29,31 +29,36 @@
       "minuto": 1,
       "jugador": "EL HAMIDI SADIQ, SONDOSSE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "LOPEZ-AYALA VILLALOBOS, AMALIA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "YAVOROVA, VIKTORIA ADRIANOVA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 30,
       "jugador": "FARFAN HIDALGO, MARIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "YAVOROVA, VIKTORIA ADRIANOVA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -140,7 +145,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": "MODELO FLORES, SALVADOR DAVID",
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "BRITOS MACH, POL",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "BUISSERET, HUGO OLIVER B",
   "titulares_local": [
@@ -233,6 +238,5 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ],
-  "_marcador_widget": true
+  ]
 }
