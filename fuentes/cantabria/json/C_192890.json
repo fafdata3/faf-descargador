@@ -1,0 +1,250 @@
+{
+  "acta_id": "C_192890",
+  "filename": "Acta_C_192890.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 19,
+  "fecha": "26-01-2025",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. REVILLA A",
+  "equipo_visitante": "C.D. CAYON A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCIA MAYO, OSCAR"
+  ],
+  "estadio": "Revilla",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 64,
+      "jugador": "MANCEBO BOLADO, SANTIAGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 30,
+      "jugador": "GARCIA ALONSO, SAMUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "GUTIERREZ CRESPO, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "SAINZ DEL RIO, GUILLERMO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CANALES CAVADA, SAMUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CANALES CAVADA, SAMUEL",
+  "delegado_equipo_visitante": "RUIZ SIMON, DAVID",
+  "titulares_local": [
+    "SANCHEZ RODRÍGUEZ, SAMUEL",
+    "PEÑA LANZA, DAVID",
+    "MIERA MARTINEZ, HUGO",
+    "AGUERO AGUNDEZ, LUIS",
+    "PEREZ GONZALEZ, HUGO",
+    "MANCEBO BOLADO, SANTIAGO",
+    "DEL HIERRO LOPEZ, ADRIAN",
+    "CIFRIAN CALZADA, SERGIO",
+    "CORTA PENAGOS, FERNANDO",
+    "MARTINEZ JIMENEZ, JORGE",
+    "TOCA SAN JOSE, DIEGO"
+  ],
+  "titulares_visitante": [
+    "SANCHEZ MUÑOZ, ALEJANDRO",
+    "POPOVICI, MADALIN",
+    "GUTIERREZ CRESPO, MARTIN",
+    "CASTELA HERRERO, PABLO",
+    "REVUELTA SAINZ, DIEGO",
+    "García Fernández, AARON",
+    "FERNANDEZ CASTIBLANCO, NICOLAS",
+    "LAZA ORTIZ, PABLO",
+    "LEMES REYES, ARNOLD MATIAS",
+    "GARCIA ALONSO, SAMUEL",
+    "GUTIERREZ FERNANDEZ, IKER"
+  ],
+  "suplentes_local": [
+    "GARCIA GARCIA, BORJA",
+    "GARCIA COTERA, MATEO",
+    "SALGADO ENACHE, BRUNO",
+    "PUENTE GARCIA, DIEGO",
+    "MARTINEZ JIMENEZ, MATEO"
+  ],
+  "suplentes_visitante": [
+    "BECERRIL ALONSO, SERGIO",
+    "DIAZ REVUELTA, RODRIGO",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "SAINZ DE LA HOZ, CESAR",
+    "SAINZ FERNANDEZ, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SANCHEZ RODRÍGUEZ, SAMUEL",
+    "PEÑA LANZA, DAVID",
+    "MIERA MARTINEZ, HUGO",
+    "AGUERO AGUNDEZ, LUIS",
+    "PEREZ GONZALEZ, HUGO",
+    "MANCEBO BOLADO, SANTIAGO",
+    "DEL HIERRO LOPEZ, ADRIAN",
+    "CIFRIAN CALZADA, SERGIO",
+    "CORTA PENAGOS, FERNANDO",
+    "MARTINEZ JIMENEZ, JORGE",
+    "TOCA SAN JOSE, DIEGO",
+    "MARTINEZ JIMENEZ, MATEO",
+    "PUENTE GARCIA, DIEGO",
+    "SALGADO ENACHE, BRUNO",
+    "GARCIA GARCIA, BORJA",
+    "GARCIA COTERA, MATEO"
+  ],
+  "jugadores_visitante": [
+    "SANCHEZ MUÑOZ, ALEJANDRO",
+    "POPOVICI, MADALIN",
+    "GUTIERREZ CRESPO, MARTIN",
+    "CASTELA HERRERO, PABLO",
+    "REVUELTA SAINZ, DIEGO",
+    "García Fernández, AARON",
+    "FERNANDEZ CASTIBLANCO, NICOLAS",
+    "LAZA ORTIZ, PABLO",
+    "LEMES REYES, ARNOLD MATIAS",
+    "GARCIA ALONSO, SAMUEL",
+    "GUTIERREZ FERNANDEZ, IKER",
+    "DIAZ REVUELTA, RODRIGO",
+    "LOPEZ GARCIA DEL POMAR, PELAYO",
+    "SAINZ FERNANDEZ, DANIEL",
+    "SAINZ DE LA HOZ, CESAR",
+    "BECERRIL ALONSO, SERGIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 47,
+      "entra": "MARTINEZ JIMENEZ, MATEO",
+      "sale": "TOCA SAN JOSE, DIEGO"
+    },
+    {
+      "min": 57,
+      "entra": "PUENTE GARCIA, DIEGO",
+      "sale": "CIFRIAN CALZADA, SERGIO"
+    },
+    {
+      "min": 57,
+      "entra": "SALGADO ENACHE, BRUNO",
+      "sale": "PEREZ GONZALEZ, HUGO"
+    },
+    {
+      "min": 75,
+      "entra": "GARCIA GARCIA, BORJA",
+      "sale": "MARTINEZ JIMENEZ, JORGE"
+    },
+    {
+      "min": 75,
+      "entra": "GARCIA COTERA, MATEO",
+      "sale": "DEL HIERRO LOPEZ, ADRIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "DIAZ REVUELTA, RODRIGO",
+      "sale": "GARCIA ALONSO, SAMUEL"
+    },
+    {
+      "min": 55,
+      "entra": "LOPEZ GARCIA DEL POMAR, PELAYO",
+      "sale": "FERNANDEZ CASTIBLANCO, NICOLAS"
+    },
+    {
+      "min": 67,
+      "entra": "SAINZ FERNANDEZ, DANIEL",
+      "sale": "POPOVICI, MADALIN"
+    },
+    {
+      "min": 71,
+      "entra": "SAINZ DE LA HOZ, CESAR",
+      "sale": "CASTELA HERRERO, PABLO"
+    },
+    {
+      "min": 71,
+      "entra": "BECERRIL ALONSO, SERGIO",
+      "sale": "LEMES REYES, ARNOLD MATIAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANCHEZ RODRÍGUEZ, SAMUEL": 90,
+    "PEÑA LANZA, DAVID": 90,
+    "MIERA MARTINEZ, HUGO": 90,
+    "AGUERO AGUNDEZ, LUIS": 90,
+    "PEREZ GONZALEZ, HUGO": 57,
+    "MANCEBO BOLADO, SANTIAGO": 90,
+    "DEL HIERRO LOPEZ, ADRIAN": 75,
+    "CIFRIAN CALZADA, SERGIO": 57,
+    "CORTA PENAGOS, FERNANDO": 90,
+    "MARTINEZ JIMENEZ, JORGE": 75,
+    "TOCA SAN JOSE, DIEGO": 47,
+    "MARTINEZ JIMENEZ, MATEO": 43,
+    "PUENTE GARCIA, DIEGO": 33,
+    "SALGADO ENACHE, BRUNO": 33,
+    "GARCIA GARCIA, BORJA": 15,
+    "GARCIA COTERA, MATEO": 15,
+    "SANCHEZ MUÑOZ, ALEJANDRO": 90,
+    "POPOVICI, MADALIN": 67,
+    "GUTIERREZ CRESPO, MARTIN": 90,
+    "CASTELA HERRERO, PABLO": 71,
+    "REVUELTA SAINZ, DIEGO": 90,
+    "García Fernández, AARON": 90,
+    "FERNANDEZ CASTIBLANCO, NICOLAS": 55,
+    "LAZA ORTIZ, PABLO": 90,
+    "LEMES REYES, ARNOLD MATIAS": 71,
+    "GARCIA ALONSO, SAMUEL": 40,
+    "GUTIERREZ FERNANDEZ, IKER": 90,
+    "DIAZ REVUELTA, RODRIGO": 50,
+    "LOPEZ GARCIA DEL POMAR, PELAYO": 35,
+    "SAINZ FERNANDEZ, DANIEL": 23,
+    "SAINZ DE LA HOZ, CESAR": 19,
+    "BECERRIL ALONSO, SERGIO": 19
+  },
+  "portero_local": "SANCHEZ RODRÍGUEZ, SAMUEL",
+  "portero_visitante": "SANCHEZ MUÑOZ, ALEJANDRO",
+  "dorsales_local": {
+    "SANCHEZ RODRÍGUEZ, SAMUEL": 1,
+    "PEÑA LANZA, DAVID": 2,
+    "MIERA MARTINEZ, HUGO": 4,
+    "AGUERO AGUNDEZ, LUIS": 5,
+    "PEREZ GONZALEZ, HUGO": 7,
+    "MANCEBO BOLADO, SANTIAGO": 8,
+    "DEL HIERRO LOPEZ, ADRIAN": 9,
+    "CIFRIAN CALZADA, SERGIO": 11,
+    "CORTA PENAGOS, FERNANDO": 14,
+    "MARTINEZ JIMENEZ, JORGE": 20,
+    "TOCA SAN JOSE, DIEGO": 22
+  },
+  "dorsales_visitante": {
+    "SANCHEZ MUÑOZ, ALEJANDRO": 1,
+    "POPOVICI, MADALIN": 2,
+    "GUTIERREZ CRESPO, MARTIN": 4,
+    "CASTELA HERRERO, PABLO": 5,
+    "REVUELTA SAINZ, DIEGO": 6,
+    "García Fernández, AARON": 9,
+    "FERNANDEZ CASTIBLANCO, NICOLAS": 10,
+    "LAZA ORTIZ, PABLO": 11,
+    "LEMES REYES, ARNOLD MATIAS": 16,
+    "GARCIA ALONSO, SAMUEL": 17,
+    "GUTIERREZ FERNANDEZ, IKER": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
