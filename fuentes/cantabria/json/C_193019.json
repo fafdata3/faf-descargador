@@ -1,0 +1,241 @@
+{
+  "acta_id": "C_193019",
+  "filename": "Acta_C_193019.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 33,
+  "fecha": "17-05-2025",
+  "hora": "15:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "DEPORTIVO PERINES",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 0,
+  "goles_visitante": 6,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GALLO ARENAS, ALVARO"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "GONZALEZ RODRIGUEZ, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "SANCHEZ CUEVAS, SAUL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "DEL RIO PRIETO, JUAN VICENTE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "EXPOSITO MARTIN, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "YELA GONZALEZ, MAURICIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "EXPOSITO MARTIN, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 72,
+      "jugador": "DESIRE BONILLA, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALEGRIA NUÑEZ, DANIEL",
+  "entrenador_visitante": "ALONSO ALONSO, HECTOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ALCANTARA ARCE, ANDRES",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALCANTARA ARCE, ANDRES",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "CUENDE RAMOS, YAGO",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "PONTONES FERREIRA, MARIO",
+    "JIMENEZ NIÑO, DAVID",
+    "CORONA DE MATEO, DAVID",
+    "ALONSO PEREZ, DARIO",
+    "AZNAR NUÑO, ALEX",
+    "COBO NDONG, DANIEL",
+    "COTERILLO COBO, MATEO",
+    "MARTE MUGICA, EDUARD",
+    "HERRERA CASANOVA, IZAN"
+  ],
+  "titulares_visitante": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "VARON SANCHEZ, CESAR",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+    "Garcia Roiz, Dario",
+    "GONZALEZ RODRIGUEZ, DAVID",
+    "EXPOSITO MARTIN, PABLO",
+    "QUINTANA CALDERON, MARCOS",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN",
+    "SANCHEZ CUEVAS, SAUL"
+  ],
+  "suplentes_local": [
+    "DESIRE BONILLA, DANIEL",
+    "DIAZ ALPISTE, SAMUEL"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "LOPEZ LOPEZ, IKER",
+    "YELA GONZALEZ, MAURICIO",
+    "FERNANDEZ MARTIN, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "FERNANDEZ SAÑUDO, GERMAN"
+  ],
+  "jugadores_local": [
+    "CUENDE RAMOS, YAGO",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "PONTONES FERREIRA, MARIO",
+    "JIMENEZ NIÑO, DAVID",
+    "CORONA DE MATEO, DAVID",
+    "ALONSO PEREZ, DARIO",
+    "AZNAR NUÑO, ALEX",
+    "COBO NDONG, DANIEL",
+    "COTERILLO COBO, MATEO",
+    "MARTE MUGICA, EDUARD",
+    "HERRERA CASANOVA, IZAN",
+    "DIAZ ALPISTE, SAMUEL",
+    "DESIRE BONILLA, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "VARON SANCHEZ, CESAR",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+    "Garcia Roiz, Dario",
+    "GONZALEZ RODRIGUEZ, DAVID",
+    "EXPOSITO MARTIN, PABLO",
+    "QUINTANA CALDERON, MARCOS",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN",
+    "SANCHEZ CUEVAS, SAUL",
+    "LOPEZ LOPEZ, IKER",
+    "FERNANDEZ MARTIN, DIEGO",
+    "YELA GONZALEZ, MAURICIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "DIAZ ALPISTE, SAMUEL",
+      "sale": "CORONA DE MATEO, DAVID"
+    },
+    {
+      "min": 60,
+      "entra": "DESIRE BONILLA, DANIEL",
+      "sale": "HERRERA CASANOVA, IZAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "LOPEZ LOPEZ, IKER",
+      "sale": "QUINTANA CALDERON, MARCOS"
+    },
+    {
+      "min": 52,
+      "entra": "FERNANDEZ MARTIN, DIEGO",
+      "sale": "DEL RIO PRIETO, JUAN VICENTE"
+    },
+    {
+      "min": 64,
+      "entra": "YELA GONZALEZ, MAURICIO",
+      "sale": "SANCHEZ CUEVAS, SAUL"
+    }
+  ],
+  "minutos_jugadores": {
+    "CUENDE RAMOS, YAGO": 90,
+    "SAN MIGUEL VÉLEZ, HUGO": 90,
+    "PONTONES FERREIRA, MARIO": 90,
+    "JIMENEZ NIÑO, DAVID": 90,
+    "CORONA DE MATEO, DAVID": 40,
+    "ALONSO PEREZ, DARIO": 90,
+    "AZNAR NUÑO, ALEX": 90,
+    "COBO NDONG, DANIEL": 90,
+    "COTERILLO COBO, MATEO": 90,
+    "MARTE MUGICA, EDUARD": 90,
+    "HERRERA CASANOVA, IZAN": 60,
+    "DIAZ ALPISTE, SAMUEL": 50,
+    "DESIRE BONILLA, DANIEL": 30,
+    "GONZÁLEZ TRESGALLO, ARMANDO": 90,
+    "VARON SANCHEZ, CESAR": 90,
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO": 90,
+    "Garcia Roiz, Dario": 90,
+    "GONZALEZ RODRIGUEZ, DAVID": 90,
+    "EXPOSITO MARTIN, PABLO": 90,
+    "QUINTANA CALDERON, MARCOS": 40,
+    "MARTINEZ BUSTAMANTE, HUGO": 90,
+    "DEL RIO PRIETO, JUAN VICENTE": 52,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 90,
+    "SANCHEZ CUEVAS, SAUL": 64,
+    "LOPEZ LOPEZ, IKER": 50,
+    "FERNANDEZ MARTIN, DIEGO": 38,
+    "YELA GONZALEZ, MAURICIO": 26
+  },
+  "portero_local": "CUENDE RAMOS, YAGO",
+  "portero_visitante": "GONZÁLEZ TRESGALLO, ARMANDO",
+  "dorsales_local": {
+    "CUENDE RAMOS, YAGO": 13,
+    "SAN MIGUEL VÉLEZ, HUGO": 5,
+    "PONTONES FERREIRA, MARIO": 8,
+    "JIMENEZ NIÑO, DAVID": 9,
+    "CORONA DE MATEO, DAVID": 10,
+    "ALONSO PEREZ, DARIO": 11,
+    "AZNAR NUÑO, ALEX": 12,
+    "COBO NDONG, DANIEL": 14,
+    "COTERILLO COBO, MATEO": 15,
+    "MARTE MUGICA, EDUARD": 16,
+    "HERRERA CASANOVA, IZAN": 18
+  },
+  "dorsales_visitante": {
+    "GONZÁLEZ TRESGALLO, ARMANDO": 13,
+    "VARON SANCHEZ, CESAR": 4,
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO": 6,
+    "Garcia Roiz, Dario": 7,
+    "GONZALEZ RODRIGUEZ, DAVID": 9,
+    "EXPOSITO MARTIN, PABLO": 11,
+    "QUINTANA CALDERON, MARCOS": 12,
+    "MARTINEZ BUSTAMANTE, HUGO": 16,
+    "DEL RIO PRIETO, JUAN VICENTE": 19,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 21,
+    "SANCHEZ CUEVAS, SAUL": 30
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
