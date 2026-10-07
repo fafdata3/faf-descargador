@@ -1,0 +1,236 @@
+{
+  "acta_id": "10079539",
+  "filename": "Acta_10079539.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "03-10-2026",
+  "hora": "17:00",
+  "categoria": "PRIMERA JUVENIL / GAZTEEN LEHEN MAILA (GRUPO - 1)",
+  "equipo_local": "AYUDA CONDADO DE TREVIÑO, CD",
+  "equipo_visitante": "SAN MARTIN C.D.F. B",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SAMANIEGO RECALDE, MIKEL"
+  ],
+  "estadio": "FRANCO",
+  "ciudad": "FRANCO",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "QUESADA DOMINGUEZ, RICHEL LAZARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "LARGO SAN JUAN, ARKAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "BENIGNO DIAZ, GABRIEL NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "DURANA SUEIRO, ERIK",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 84,
+      "jugador": "CRESPO MARTINEZ, DEXTER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 90,
+      "jugador": "CRESPO MARTINEZ, DEXTER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "MARTINEZ LOBO, JULEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "MANJON MATEOS, JONATHAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PALOMO RAMIREZ, OIHANE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "OCIO MARTINEZ, FERNANDO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PALOMO RAMIREZ, JULEN",
+    "BAÑUELOS VICARIO, HECTOR",
+    "CANTERO GOMEZ, JAGOBA",
+    "LARGO SAN JUAN, ARKAITZ",
+    "BENAVIDES TAGUADO, IAN",
+    "MORALES PANEQUE, GONZALO",
+    "CANO ALONSO, UNAX",
+    "CRESPO MARTINEZ, DEXTER",
+    "GONZALEZ-BENGOA SALAZAR, TELMO",
+    "RODRIGUEZ MARTINEZ, BRUNO",
+    "DURANA SUEIRO, ERIK"
+  ],
+  "titulares_visitante": [
+    "ESTENAGA GIL, ENEKO",
+    "IZARRA CALVO, ENEKO",
+    "IZQUIERDO GARIBI, IBON",
+    "MARTINEZ LOBO, JULEN",
+    "BENIGNO DIAZ, GABRIEL NICOLAS",
+    "GIL TERROBA, ALBERTO",
+    "QUESADA DOMINGUEZ, RICHEL LAZARO",
+    "CHICOTE MARTIN, GORKA",
+    "BEOBIDE TEJADA, JON",
+    "ESSOUALI, OUALID",
+    "ZANNOUTI MAZGOUTI, BADR EDDINE"
+  ],
+  "suplentes_local": [],
+  "suplentes_visitante": [
+    "BALSATEGUI SANCHEZ, MIKEL",
+    "COLINO SESTO, DANEL",
+    "RAMOS MARTINEZ, JULEN",
+    "VARGAS CAICEDO, JHOSEP DAVID",
+    "SANTOS SANTIAGO MANTEGAZZA, LUIGI"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PALOMO RAMIREZ, JULEN",
+    "BAÑUELOS VICARIO, HECTOR",
+    "CANTERO GOMEZ, JAGOBA",
+    "LARGO SAN JUAN, ARKAITZ",
+    "BENAVIDES TAGUADO, IAN",
+    "MORALES PANEQUE, GONZALO",
+    "CANO ALONSO, UNAX",
+    "CRESPO MARTINEZ, DEXTER",
+    "GONZALEZ-BENGOA SALAZAR, TELMO",
+    "RODRIGUEZ MARTINEZ, BRUNO",
+    "DURANA SUEIRO, ERIK"
+  ],
+  "jugadores_visitante": [
+    "ESTENAGA GIL, ENEKO",
+    "IZARRA CALVO, ENEKO",
+    "IZQUIERDO GARIBI, IBON",
+    "MARTINEZ LOBO, JULEN",
+    "BENIGNO DIAZ, GABRIEL NICOLAS",
+    "GIL TERROBA, ALBERTO",
+    "QUESADA DOMINGUEZ, RICHEL LAZARO",
+    "CHICOTE MARTIN, GORKA",
+    "BEOBIDE TEJADA, JON",
+    "ESSOUALI, OUALID",
+    "ZANNOUTI MAZGOUTI, BADR EDDINE",
+    "SANTOS SANTIAGO MANTEGAZZA, LUIGI",
+    "RAMOS MARTINEZ, JULEN",
+    "COLINO SESTO, DANEL",
+    "BALSATEGUI SANCHEZ, MIKEL",
+    "VARGAS CAICEDO, JHOSEP DAVID"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "SANTOS SANTIAGO MANTEGAZZA, LUIGI",
+      "sale": "ZANNOUTI MAZGOUTI, BADR EDDINE"
+    },
+    {
+      "min": 59,
+      "entra": "RAMOS MARTINEZ, JULEN",
+      "sale": "IZQUIERDO GARIBI, IBON"
+    },
+    {
+      "min": 78,
+      "entra": "COLINO SESTO, DANEL",
+      "sale": "CHICOTE MARTIN, GORKA"
+    },
+    {
+      "min": 78,
+      "entra": "BALSATEGUI SANCHEZ, MIKEL",
+      "sale": "MARTINEZ LOBO, JULEN"
+    },
+    {
+      "min": 90,
+      "entra": "VARGAS CAICEDO, JHOSEP DAVID",
+      "sale": "BENIGNO DIAZ, GABRIEL NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "PALOMO RAMIREZ, JULEN": 90,
+    "BAÑUELOS VICARIO, HECTOR": 90,
+    "CANTERO GOMEZ, JAGOBA": 90,
+    "LARGO SAN JUAN, ARKAITZ": 90,
+    "BENAVIDES TAGUADO, IAN": 90,
+    "MORALES PANEQUE, GONZALO": 90,
+    "CANO ALONSO, UNAX": 90,
+    "CRESPO MARTINEZ, DEXTER": 90,
+    "GONZALEZ-BENGOA SALAZAR, TELMO": 90,
+    "RODRIGUEZ MARTINEZ, BRUNO": 90,
+    "DURANA SUEIRO, ERIK": 90,
+    "ESTENAGA GIL, ENEKO": 90,
+    "IZARRA CALVO, ENEKO": 90,
+    "IZQUIERDO GARIBI, IBON": 59,
+    "MARTINEZ LOBO, JULEN": 78,
+    "BENIGNO DIAZ, GABRIEL NICOLAS": 90,
+    "GIL TERROBA, ALBERTO": 90,
+    "QUESADA DOMINGUEZ, RICHEL LAZARO": 90,
+    "CHICOTE MARTIN, GORKA": 78,
+    "BEOBIDE TEJADA, JON": 90,
+    "ESSOUALI, OUALID": 90,
+    "ZANNOUTI MAZGOUTI, BADR EDDINE": 59,
+    "SANTOS SANTIAGO MANTEGAZZA, LUIGI": 31,
+    "RAMOS MARTINEZ, JULEN": 31,
+    "COLINO SESTO, DANEL": 12,
+    "BALSATEGUI SANCHEZ, MIKEL": 12,
+    "VARGAS CAICEDO, JHOSEP DAVID": 0
+  },
+  "portero_local": "PALOMO RAMIREZ, JULEN",
+  "portero_visitante": "ESTENAGA GIL, ENEKO",
+  "dorsales_local": {
+    "PALOMO RAMIREZ, JULEN": 1,
+    "BAÑUELOS VICARIO, HECTOR": 2,
+    "CANTERO GOMEZ, JAGOBA": 4,
+    "LARGO SAN JUAN, ARKAITZ": 9,
+    "BENAVIDES TAGUADO, IAN": 11,
+    "MORALES PANEQUE, GONZALO": 16,
+    "CANO ALONSO, UNAX": 17,
+    "CRESPO MARTINEZ, DEXTER": 18,
+    "GONZALEZ-BENGOA SALAZAR, TELMO": 23,
+    "RODRIGUEZ MARTINEZ, BRUNO": 25,
+    "DURANA SUEIRO, ERIK": 29
+  },
+  "dorsales_visitante": {
+    "ESTENAGA GIL, ENEKO": 1,
+    "IZARRA CALVO, ENEKO": 2,
+    "IZQUIERDO GARIBI, IBON": 3,
+    "MARTINEZ LOBO, JULEN": 4,
+    "BENIGNO DIAZ, GABRIEL NICOLAS": 7,
+    "GIL TERROBA, ALBERTO": 8,
+    "QUESADA DOMINGUEZ, RICHEL LAZARO": 9,
+    "CHICOTE MARTIN, GORKA": 17,
+    "BEOBIDE TEJADA, JON": 22,
+    "ESSOUALI, OUALID": 23,
+    "ZANNOUTI MAZGOUTI, BADR EDDINE": 27
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
