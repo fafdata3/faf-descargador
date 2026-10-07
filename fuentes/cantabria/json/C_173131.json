@@ -1,0 +1,277 @@
+{
+  "acta_id": "C_173131",
+  "filename": "Acta_C_173131.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 29,
+  "fecha": "27-04-2024",
+  "hora": "12:00",
+  "categoria": "TERCERA CADETE (GRUPO E)",
+  "equipo_local": "E.M.F. AMPUERO",
+  "equipo_visitante": "E.M.F. COLINDRES A",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "BARRIENTOS PUMA, NIELS BRYAN"
+  ],
+  "estadio": "Ampuero",
+  "ciudad": "Ampuero",
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "SANCHEZ HERNANDEZ, IVAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "MADRAZO ORTIZ, ANDRES",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "LOPEZ CAVADA, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "CAPERAN CANALES, JOEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 44,
+      "jugador": "MARTINEZ SOLANA, RUBEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "SANCHEZ HERNANDEZ, IVAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "NAZABAL ALVAREZ, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "SAN EMETERIO SIERRA, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SAÑUDO FERNANDEZ, RAUL",
+  "entrenador_visitante": "FRIAS MAESTRE, ADRIAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MONCALEAN LOMBERA, SERGIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MONCALEAN LOMBERA, SERGIO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "LLANES GIL, LUCAS",
+    "GALLEGO MARTIN, HECTOR",
+    "MARTINEZ SOLANA, RUBEN",
+    "AHEDO EZQUERRA, GERMAN",
+    "ALLEGUE ORCAJO, JOSE MARIA",
+    "NAVARRO YUSTA, JORGE",
+    "LOPEZ CAVADA, ALVARO",
+    "SANCHEZ HERNANDEZ, IVAN",
+    "MADRAZO ORTIZ, ANDRES",
+    "NAZABAL ALVAREZ, DANIEL",
+    "OCEJO RECIO, ADRIAN"
+  ],
+  "titulares_visitante": [
+    "ÑIGUEL LAVIN, LUCAS",
+    "ARRONTE MERINO, RODRIGO",
+    "SAN EMETERIO SIERRA, PABLO",
+    "GOMEZ GUTIERREZ, DIEGO",
+    "ROCILLO MAZA, TIRSO",
+    "CRESPO LUENGO, GAEL",
+    "RUIZ RODRIGUEZ, MARCOS",
+    "VARELA MATEOS, JAVIER",
+    "AGUIRREZABAL GUTIERREZ, MIGUEL",
+    "FRANCO ORTIZ, ADRIAN",
+    "GONZALEZ ATECA, PIERO"
+  ],
+  "suplentes_local": [
+    "GARCIA BAZO, LUIS",
+    "SAN MARTIN VEGA, PABLO",
+    "GOICOETXEA BRAVO, XABI",
+    "CAPERAN CANALES, JOEL",
+    "RASINES PICO, MARIO"
+  ],
+  "suplentes_visitante": [
+    "IDIAQUEZ MAZA, SAMUEL",
+    "ROZAS BOLIVAR, DIEGO",
+    "MARQUEZ ACOSTA, FELIPE EMANUEL",
+    "RUIZ ALONSO, MARIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LLANES GIL, LUCAS",
+    "GALLEGO MARTIN, HECTOR",
+    "MARTINEZ SOLANA, RUBEN",
+    "AHEDO EZQUERRA, GERMAN",
+    "ALLEGUE ORCAJO, JOSE MARIA",
+    "NAVARRO YUSTA, JORGE",
+    "LOPEZ CAVADA, ALVARO",
+    "SANCHEZ HERNANDEZ, IVAN",
+    "MADRAZO ORTIZ, ANDRES",
+    "NAZABAL ALVAREZ, DANIEL",
+    "OCEJO RECIO, ADRIAN",
+    "GOICOETXEA BRAVO, XABI",
+    "GARCIA BAZO, LUIS",
+    "SAN MARTIN VEGA, PABLO",
+    "CAPERAN CANALES, JOEL",
+    "RASINES PICO, MARIO"
+  ],
+  "jugadores_visitante": [
+    "ÑIGUEL LAVIN, LUCAS",
+    "ARRONTE MERINO, RODRIGO",
+    "SAN EMETERIO SIERRA, PABLO",
+    "GOMEZ GUTIERREZ, DIEGO",
+    "ROCILLO MAZA, TIRSO",
+    "CRESPO LUENGO, GAEL",
+    "RUIZ RODRIGUEZ, MARCOS",
+    "VARELA MATEOS, JAVIER",
+    "AGUIRREZABAL GUTIERREZ, MIGUEL",
+    "FRANCO ORTIZ, ADRIAN",
+    "GONZALEZ ATECA, PIERO",
+    "MARQUEZ ACOSTA, FELIPE EMANUEL",
+    "IDIAQUEZ MAZA, SAMUEL",
+    "ROZAS BOLIVAR, DIEGO",
+    "RUIZ ALONSO, MARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "GOICOETXEA BRAVO, XABI",
+      "sale": "OCEJO RECIO, ADRIAN"
+    },
+    {
+      "min": 56,
+      "entra": "GARCIA BAZO, LUIS",
+      "sale": "MARTINEZ SOLANA, RUBEN"
+    },
+    {
+      "min": 68,
+      "entra": "SAN MARTIN VEGA, PABLO",
+      "sale": "NAZABAL ALVAREZ, DANIEL"
+    },
+    {
+      "min": 68,
+      "entra": "CAPERAN CANALES, JOEL",
+      "sale": "LOPEZ CAVADA, ALVARO"
+    },
+    {
+      "min": 68,
+      "entra": "RASINES PICO, MARIO",
+      "sale": "SANCHEZ HERNANDEZ, IVAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "MARQUEZ ACOSTA, FELIPE EMANUEL",
+      "sale": "ROCILLO MAZA, TIRSO"
+    },
+    {
+      "min": 55,
+      "entra": "IDIAQUEZ MAZA, SAMUEL",
+      "sale": "VARELA MATEOS, JAVIER"
+    },
+    {
+      "min": 56,
+      "entra": "ROZAS BOLIVAR, DIEGO",
+      "sale": "CRESPO LUENGO, GAEL"
+    },
+    {
+      "min": 62,
+      "entra": "RUIZ ALONSO, MARIO",
+      "sale": "SAN EMETERIO SIERRA, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "LLANES GIL, LUCAS": 90,
+    "GALLEGO MARTIN, HECTOR": 90,
+    "MARTINEZ SOLANA, RUBEN": 56,
+    "AHEDO EZQUERRA, GERMAN": 90,
+    "ALLEGUE ORCAJO, JOSE MARIA": 90,
+    "NAVARRO YUSTA, JORGE": 90,
+    "LOPEZ CAVADA, ALVARO": 68,
+    "SANCHEZ HERNANDEZ, IVAN": 68,
+    "MADRAZO ORTIZ, ANDRES": 90,
+    "NAZABAL ALVAREZ, DANIEL": 68,
+    "OCEJO RECIO, ADRIAN": 54,
+    "GOICOETXEA BRAVO, XABI": 36,
+    "GARCIA BAZO, LUIS": 34,
+    "SAN MARTIN VEGA, PABLO": 22,
+    "CAPERAN CANALES, JOEL": 22,
+    "RASINES PICO, MARIO": 22,
+    "ÑIGUEL LAVIN, LUCAS": 90,
+    "ARRONTE MERINO, RODRIGO": 90,
+    "SAN EMETERIO SIERRA, PABLO": 62,
+    "GOMEZ GUTIERREZ, DIEGO": 90,
+    "ROCILLO MAZA, TIRSO": 51,
+    "CRESPO LUENGO, GAEL": 56,
+    "RUIZ RODRIGUEZ, MARCOS": 90,
+    "VARELA MATEOS, JAVIER": 55,
+    "AGUIRREZABAL GUTIERREZ, MIGUEL": 90,
+    "FRANCO ORTIZ, ADRIAN": 90,
+    "GONZALEZ ATECA, PIERO": 90,
+    "MARQUEZ ACOSTA, FELIPE EMANUEL": 39,
+    "IDIAQUEZ MAZA, SAMUEL": 35,
+    "ROZAS BOLIVAR, DIEGO": 34,
+    "RUIZ ALONSO, MARIO": 28
+  },
+  "portero_local": "LLANES GIL, LUCAS",
+  "portero_visitante": "ÑIGUEL LAVIN, LUCAS",
+  "dorsales_local": {
+    "LLANES GIL, LUCAS": 1,
+    "GALLEGO MARTIN, HECTOR": 2,
+    "MARTINEZ SOLANA, RUBEN": 3,
+    "AHEDO EZQUERRA, GERMAN": 4,
+    "ALLEGUE ORCAJO, JOSE MARIA": 5,
+    "NAVARRO YUSTA, JORGE": 8,
+    "LOPEZ CAVADA, ALVARO": 10,
+    "SANCHEZ HERNANDEZ, IVAN": 14,
+    "MADRAZO ORTIZ, ANDRES": 15,
+    "NAZABAL ALVAREZ, DANIEL": 16,
+    "OCEJO RECIO, ADRIAN": 22
+  },
+  "dorsales_visitante": {
+    "ÑIGUEL LAVIN, LUCAS": 1,
+    "ARRONTE MERINO, RODRIGO": 4,
+    "SAN EMETERIO SIERRA, PABLO": 5,
+    "GOMEZ GUTIERREZ, DIEGO": 6,
+    "ROCILLO MAZA, TIRSO": 7,
+    "CRESPO LUENGO, GAEL": 9,
+    "RUIZ RODRIGUEZ, MARCOS": 11,
+    "VARELA MATEOS, JAVIER": 12,
+    "AGUIRREZABAL GUTIERREZ, MIGUEL": 14,
+    "FRANCO ORTIZ, ADRIAN": 15,
+    "GONZALEZ ATECA, PIERO": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
