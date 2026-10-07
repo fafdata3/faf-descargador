@@ -27,49 +27,57 @@
       "minuto": 10,
       "jugador": "MORENO BERTOL, MARÍA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 12,
       "jugador": "FUNATSUKI, HINAKO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 13,
       "jugador": "GARCIA DA SILVA, DEISE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 18,
       "jugador": "MARQUES DE OLIVEIRA, MARIA LEIDJANE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "BATISTA GUIMARAES, ANGELA MARIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "MACHADO DE BARROS, GABRIELA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "BATISTA GUIMARAES, ANGELA MARIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 36,
       "jugador": "MARQUES DE OLIVEIRA, MARIA LEIDJANE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -282,7 +290,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": "LOPEZ ORDOVAS, JORGE",
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "SOPEÑA CUETO, LAURA",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "BENAVENTE ALLUSON, EDUARDO",
   "titulares_local": [
