@@ -1,0 +1,274 @@
+{
+  "acta_id": "R_259965",
+  "filename": "Acta_R_259965.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "16:00",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "VILLEGAS",
+  "equipo_visitante": "COMILLAS",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ALCALDE MARTINEZ, NACHO",
+    "Árbitro Asistente",
+    "AMGHITEN GHARAFI, IYAD",
+    "Árbitro Asistente",
+    "VAZQUEZ QOSJA, JAVIER"
+  ],
+  "estadio": "C.D.M. LA RIBERA - H.A. (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "MESQUITA FERNANDEZ, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "MESQUITA FERNANDEZ, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 66,
+      "jugador": "SHAKPOKE EMMANUEL, WESLEY",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "ROMERO GARCIA, LUIS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "BETEAR TODORAN, CHRISTIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "SANCHEZ ARELLANO, FABIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JUANEDA AYENSA, DAVID",
+  "entrenador_visitante": "GODOY SAN JOSE, IVAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "MUÑOZ ANSO, JAIME",
+  "delegado_campo_local": "FORONDA BRAÑA, ADRIÁN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ROJO SAEZ, JAVIER",
+  "delegado_equipo_visitante": "MARTINEZ PEREZ, JOSE MARIA",
+  "titulares_local": [
+    "RIO DIAZ DE GUEREÑU, EÑAUT",
+    "SHAKPOKE EMMANUEL, WESLEY",
+    "DE CORTA MARTINEZ, RODRIGO",
+    "ROJO MARTIN P, ADRIAN",
+    "FERNANDEZ L PEREZ, PABLO",
+    "ROMERO GARCIA, LUIS",
+    "BURGOS VILAMOR, BRUNO",
+    "MORENO ANDRES, JUAN",
+    "MARTINEZ SUSO, MARIO",
+    "SANZ RUIZ ESQUIDE, SERGIO",
+    "GARCIA MIGUEL, PEDRO"
+  ],
+  "titulares_visitante": [
+    "LOPEZ SANTANDER, MATEO",
+    "GANDARA PEREZ, ASIER",
+    "COULIBALY KONE, ALOU",
+    "GOMEZ LOPEZ, ANGEL",
+    "MESQUITA FERNANDEZ, HUGO",
+    "PASCUAL VAZQUEZ, JULIO",
+    "VESGA ALVARADO, GUILLERMO",
+    "PALACIOS ESTEBAN, PABLO",
+    "DELGADO CAZORLA, JULEN",
+    "GUIJARRO DIEZ, DAVID HA",
+    "BETEAR TODORAN, CHRISTIAN"
+  ],
+  "suplentes_local": [
+    "ANNI AIBOUD, ABDELLAH",
+    "LAGLAOUI EL GHERYB, ADAM",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE",
+    "APODACA RAME, MATEO",
+    "NVE OBAMA, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "EZQUERRO CALLE, GONZALO",
+    "ESTEFANIA MARTINEZ, MAURO",
+    "SANCHEZ ARELLANO, FABIO",
+    "CASADO PEREZ, IKER",
+    "DELGADO CAZORLA, ANDER",
+    "MARTINEZ ARAGON, BRUNO",
+    "BARINAGA MAS, MARCOS"
+  ],
+  "convocados_sin_jugar_local": [
+    "ANNI AIBOUD, ABDELLAH"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MARTINEZ ARAGON, BRUNO",
+    "BARINAGA MAS, MARCOS"
+  ],
+  "jugadores_local": [
+    "RIO DIAZ DE GUEREÑU, EÑAUT",
+    "SHAKPOKE EMMANUEL, WESLEY",
+    "DE CORTA MARTINEZ, RODRIGO",
+    "ROJO MARTIN P, ADRIAN",
+    "FERNANDEZ L PEREZ, PABLO",
+    "ROMERO GARCIA, LUIS",
+    "BURGOS VILAMOR, BRUNO",
+    "MORENO ANDRES, JUAN",
+    "MARTINEZ SUSO, MARIO",
+    "SANZ RUIZ ESQUIDE, SERGIO",
+    "GARCIA MIGUEL, PEDRO",
+    "LAGLAOUI EL GHERYB, ADAM",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE",
+    "NVE OBAMA, DANIEL",
+    "APODACA RAME, MATEO"
+  ],
+  "jugadores_visitante": [
+    "LOPEZ SANTANDER, MATEO",
+    "GANDARA PEREZ, ASIER",
+    "COULIBALY KONE, ALOU",
+    "GOMEZ LOPEZ, ANGEL",
+    "MESQUITA FERNANDEZ, HUGO",
+    "PASCUAL VAZQUEZ, JULIO",
+    "VESGA ALVARADO, GUILLERMO",
+    "PALACIOS ESTEBAN, PABLO",
+    "DELGADO CAZORLA, JULEN",
+    "GUIJARRO DIEZ, DAVID HA",
+    "BETEAR TODORAN, CHRISTIAN",
+    "EZQUERRO CALLE, GONZALO",
+    "CASADO PEREZ, IKER",
+    "ESTEFANIA MARTINEZ, MAURO",
+    "SANCHEZ ARELLANO, FABIO",
+    "DELGADO CAZORLA, ANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "LAGLAOUI EL GHERYB, ADAM",
+      "sale": "MORENO ANDRES, JUAN"
+    },
+    {
+      "min": 66,
+      "entra": "VALBUENA GUDIÑO, FRANCISCO JOSE",
+      "sale": "BURGOS VILAMOR, BRUNO"
+    },
+    {
+      "min": 66,
+      "entra": "NVE OBAMA, DANIEL",
+      "sale": "SHAKPOKE EMMANUEL, WESLEY"
+    },
+    {
+      "min": 75,
+      "entra": "APODACA RAME, MATEO",
+      "sale": "ROMERO GARCIA, LUIS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "EZQUERRO CALLE, GONZALO",
+      "sale": "GANDARA PEREZ, ASIER"
+    },
+    {
+      "min": 63,
+      "entra": "CASADO PEREZ, IKER",
+      "sale": "VESGA ALVARADO, GUILLERMO"
+    },
+    {
+      "min": 63,
+      "entra": "ESTEFANIA MARTINEZ, MAURO",
+      "sale": "PASCUAL VAZQUEZ, JULIO"
+    },
+    {
+      "min": 63,
+      "entra": "SANCHEZ ARELLANO, FABIO",
+      "sale": "MESQUITA FERNANDEZ, HUGO"
+    },
+    {
+      "min": 72,
+      "entra": "DELGADO CAZORLA, ANDER",
+      "sale": "GOMEZ LOPEZ, ANGEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "RIO DIAZ DE GUEREÑU, EÑAUT": 90,
+    "SHAKPOKE EMMANUEL, WESLEY": 66,
+    "DE CORTA MARTINEZ, RODRIGO": 90,
+    "ROJO MARTIN P, ADRIAN": 90,
+    "FERNANDEZ L PEREZ, PABLO": 90,
+    "ROMERO GARCIA, LUIS": 75,
+    "BURGOS VILAMOR, BRUNO": 66,
+    "MORENO ANDRES, JUAN": 46,
+    "MARTINEZ SUSO, MARIO": 90,
+    "SANZ RUIZ ESQUIDE, SERGIO": 90,
+    "GARCIA MIGUEL, PEDRO": 90,
+    "LAGLAOUI EL GHERYB, ADAM": 44,
+    "VALBUENA GUDIÑO, FRANCISCO JOSE": 24,
+    "NVE OBAMA, DANIEL": 24,
+    "APODACA RAME, MATEO": 15,
+    "LOPEZ SANTANDER, MATEO": 90,
+    "GANDARA PEREZ, ASIER": 46,
+    "COULIBALY KONE, ALOU": 90,
+    "GOMEZ LOPEZ, ANGEL": 72,
+    "MESQUITA FERNANDEZ, HUGO": 63,
+    "PASCUAL VAZQUEZ, JULIO": 63,
+    "VESGA ALVARADO, GUILLERMO": 63,
+    "PALACIOS ESTEBAN, PABLO": 90,
+    "DELGADO CAZORLA, JULEN": 90,
+    "GUIJARRO DIEZ, DAVID HA": 90,
+    "BETEAR TODORAN, CHRISTIAN": 90,
+    "EZQUERRO CALLE, GONZALO": 44,
+    "CASADO PEREZ, IKER": 27,
+    "ESTEFANIA MARTINEZ, MAURO": 27,
+    "SANCHEZ ARELLANO, FABIO": 27,
+    "DELGADO CAZORLA, ANDER": 18
+  },
+  "portero_local": "RIO DIAZ DE GUEREÑU, EÑAUT",
+  "portero_visitante": "LOPEZ SANTANDER, MATEO",
+  "dorsales_local": {
+    "RIO DIAZ DE GUEREÑU, EÑAUT": 1,
+    "SHAKPOKE EMMANUEL, WESLEY": 2,
+    "DE CORTA MARTINEZ, RODRIGO": 3,
+    "ROJO MARTIN P, ADRIAN": 4,
+    "FERNANDEZ L PEREZ, PABLO": 5,
+    "ROMERO GARCIA, LUIS": 6,
+    "BURGOS VILAMOR, BRUNO": 7,
+    "MORENO ANDRES, JUAN": 8,
+    "MARTINEZ SUSO, MARIO": 9,
+    "SANZ RUIZ ESQUIDE, SERGIO": 10,
+    "GARCIA MIGUEL, PEDRO": 11
+  },
+  "dorsales_visitante": {
+    "LOPEZ SANTANDER, MATEO": 13,
+    "GANDARA PEREZ, ASIER": 2,
+    "COULIBALY KONE, ALOU": 3,
+    "GOMEZ LOPEZ, ANGEL": 5,
+    "MESQUITA FERNANDEZ, HUGO": 6,
+    "PASCUAL VAZQUEZ, JULIO": 7,
+    "VESGA ALVARADO, GUILLERMO": 9,
+    "PALACIOS ESTEBAN, PABLO": 10,
+    "DELGADO CAZORLA, JULEN": 12,
+    "GUIJARRO DIEZ, DAVID HA": 20,
+    "BETEAR TODORAN, CHRISTIAN": 22
+  },
+  "suspendidos": []
+}
