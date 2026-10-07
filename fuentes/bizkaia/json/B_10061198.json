@@ -1,0 +1,282 @@
+{
+  "acta_id": "B_10061198",
+  "filename": "Acta_B_10061198.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "03-10-2026",
+  "hora": "17:15",
+  "categoria": "DIVISIÓN DE HONOR HC / OHOREZKO MAILA (GRUPO 1)",
+  "equipo_local": "RETUERTO A",
+  "equipo_visitante": "ABADIÑO A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "MENDEZ SESAR, IKER"
+  ],
+  "estadio": "IBARRETA",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "BALANDIN POUSADAS, IBAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "BALANDIN POUSADAS, IBAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "ABDUL-HAMID MUFTAWU, HAMID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "GONZALEZ GARCIA, IBAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "TARRIO ESPIÑO, OIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "ISTURIZ MARTINEZ, UNAX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "BALANDIN POUSADAS, IBAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "HUMARAN GARCIA, AIMAR",
+  "entrenador_visitante": "FERRERO FERRERO, ALEXANDER",
+  "segundo_entrenador_local": "GARRIDO COSTA, GAIZKA",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MACHÓN ONTIVERO, MARKEL",
+  "delegado_equipo_visitante": "CABALLERO GARCIA, PEIO",
+  "titulares_local": [
+    "GARCIA FERNANDEZ, ADRIAN ENZO",
+    "GARCIA GARAY, AGER",
+    "SANTAMARIA VALDUVIECO, JON",
+    "GONZALEZ GARCIA, IBAI",
+    "BALANDIN POUSADAS, IBAI",
+    "NUÑEZ BUSTO, JON",
+    "ROMAN CRUZ, HUGO",
+    "PRADO ASPIAZU, AIMAR",
+    "SAMBU VIEIRA, OIER OZIL",
+    "GONZALEZ PIÑAN, MARKEL",
+    "SANTOS DOTOR, SENDOA"
+  ],
+  "titulares_visitante": [
+    "UGARTE ITURRIAGA ETXEBERRIA, EÑAUT",
+    "GREÑO CERVIÑO, ANDONI",
+    "CUEVAS PACHÓN, OIHAN",
+    "SANDINO LOPEZ, AMETS",
+    "ARROYO NARANJO, IKER",
+    "ELORRIAGA VILLA, URKO",
+    "LOPEZ GARCIA, UNAX",
+    "BARRUTIETA VARELA, LUKEN",
+    "ZABALA ARRIEN, IKER",
+    "ABDUL-HAMID MUFTAWU, HAMID",
+    "ZUGAZA-ARTAZA ALBERDI, HUR"
+  ],
+  "suplentes_local": [
+    "BLANCO SANCHO, UNAX",
+    "AGRELO MUÑOZ, DANIEL",
+    "CONTRERAS MURIEL, MICHAEL",
+    "ISTURIZ MARTINEZ, UNAX",
+    "TARRIO ESPIÑO, OIER",
+    "CORTON VAZQUEZ, UNAX",
+    "GARTZIA CISNEROS, MANEX"
+  ],
+  "suplentes_visitante": [
+    "SARRIONANDIA ARDANZA, ANDONI",
+    "LOPEZ GARCIA, PAUL",
+    "AGUIRRE URIEN, INAR",
+    "GORRITXO LASUEN, JON",
+    "LACAMBRA GONZALEZ, ANDONI",
+    "RODRIGUEZ LAZPITA, PEIO",
+    "GONZALEZ MARTINEZ, ANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "BLANCO SANCHO, UNAX",
+    "GARTZIA CISNEROS, MANEX"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SARRIONANDIA ARDANZA, ANDONI",
+    "AGUIRRE URIEN, INAR",
+    "GONZALEZ MARTINEZ, ANDER"
+  ],
+  "jugadores_local": [
+    "GARCIA FERNANDEZ, ADRIAN ENZO",
+    "GARCIA GARAY, AGER",
+    "SANTAMARIA VALDUVIECO, JON",
+    "GONZALEZ GARCIA, IBAI",
+    "BALANDIN POUSADAS, IBAI",
+    "NUÑEZ BUSTO, JON",
+    "ROMAN CRUZ, HUGO",
+    "PRADO ASPIAZU, AIMAR",
+    "SAMBU VIEIRA, OIER OZIL",
+    "GONZALEZ PIÑAN, MARKEL",
+    "SANTOS DOTOR, SENDOA",
+    "TARRIO ESPIÑO, OIER",
+    "AGRELO MUÑOZ, DANIEL",
+    "ISTURIZ MARTINEZ, UNAX",
+    "CORTON VAZQUEZ, UNAX",
+    "CONTRERAS MURIEL, MICHAEL"
+  ],
+  "jugadores_visitante": [
+    "UGARTE ITURRIAGA ETXEBERRIA, EÑAUT",
+    "GREÑO CERVIÑO, ANDONI",
+    "CUEVAS PACHÓN, OIHAN",
+    "SANDINO LOPEZ, AMETS",
+    "ARROYO NARANJO, IKER",
+    "ELORRIAGA VILLA, URKO",
+    "LOPEZ GARCIA, UNAX",
+    "BARRUTIETA VARELA, LUKEN",
+    "ZABALA ARRIEN, IKER",
+    "ABDUL-HAMID MUFTAWU, HAMID",
+    "ZUGAZA-ARTAZA ALBERDI, HUR",
+    "LOPEZ GARCIA, PAUL",
+    "RODRIGUEZ LAZPITA, PEIO",
+    "GORRITXO LASUEN, JON",
+    "LACAMBRA GONZALEZ, ANDONI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "TARRIO ESPIÑO, OIER",
+      "sale": "GONZALEZ PIÑAN, MARKEL"
+    },
+    {
+      "min": 48,
+      "entra": "AGRELO MUÑOZ, DANIEL",
+      "sale": "PRADO ASPIAZU, AIMAR"
+    },
+    {
+      "min": 57,
+      "entra": "ISTURIZ MARTINEZ, UNAX",
+      "sale": "GONZALEZ GARCIA, IBAI"
+    },
+    {
+      "min": 67,
+      "entra": "CORTON VAZQUEZ, UNAX",
+      "sale": "ROMAN CRUZ, HUGO"
+    },
+    {
+      "min": 67,
+      "entra": "CONTRERAS MURIEL, MICHAEL",
+      "sale": "SAMBU VIEIRA, OIER OZIL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "LOPEZ GARCIA, PAUL",
+      "sale": "ZABALA ARRIEN, IKER"
+    },
+    {
+      "min": 53,
+      "entra": "RODRIGUEZ LAZPITA, PEIO",
+      "sale": "GREÑO CERVIÑO, ANDONI"
+    },
+    {
+      "min": 70,
+      "entra": "GORRITXO LASUEN, JON",
+      "sale": "ELORRIAGA VILLA, URKO"
+    },
+    {
+      "min": 70,
+      "entra": "LACAMBRA GONZALEZ, ANDONI",
+      "sale": "SANDINO LOPEZ, AMETS"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA FERNANDEZ, ADRIAN ENZO": 90,
+    "GARCIA GARAY, AGER": 90,
+    "SANTAMARIA VALDUVIECO, JON": 90,
+    "GONZALEZ GARCIA, IBAI": 57,
+    "BALANDIN POUSADAS, IBAI": 90,
+    "NUÑEZ BUSTO, JON": 90,
+    "ROMAN CRUZ, HUGO": 67,
+    "PRADO ASPIAZU, AIMAR": 48,
+    "SAMBU VIEIRA, OIER OZIL": 67,
+    "GONZALEZ PIÑAN, MARKEL": 48,
+    "SANTOS DOTOR, SENDOA": 90,
+    "TARRIO ESPIÑO, OIER": 42,
+    "AGRELO MUÑOZ, DANIEL": 42,
+    "ISTURIZ MARTINEZ, UNAX": 33,
+    "CORTON VAZQUEZ, UNAX": 23,
+    "CONTRERAS MURIEL, MICHAEL": 23,
+    "UGARTE ITURRIAGA ETXEBERRIA, EÑAUT": 90,
+    "GREÑO CERVIÑO, ANDONI": 53,
+    "CUEVAS PACHÓN, OIHAN": 90,
+    "SANDINO LOPEZ, AMETS": 70,
+    "ARROYO NARANJO, IKER": 90,
+    "ELORRIAGA VILLA, URKO": 70,
+    "LOPEZ GARCIA, UNAX": 90,
+    "BARRUTIETA VARELA, LUKEN": 90,
+    "ZABALA ARRIEN, IKER": 53,
+    "ABDUL-HAMID MUFTAWU, HAMID": 90,
+    "ZUGAZA-ARTAZA ALBERDI, HUR": 90,
+    "LOPEZ GARCIA, PAUL": 37,
+    "RODRIGUEZ LAZPITA, PEIO": 37,
+    "GORRITXO LASUEN, JON": 20,
+    "LACAMBRA GONZALEZ, ANDONI": 20
+  },
+  "portero_local": "GARCIA FERNANDEZ, ADRIAN ENZO",
+  "portero_visitante": "UGARTE ITURRIAGA ETXEBERRIA, EÑAUT",
+  "dorsales_local": {
+    "GARCIA FERNANDEZ, ADRIAN ENZO": 13,
+    "GARCIA GARAY, AGER": 2,
+    "SANTAMARIA VALDUVIECO, JON": 4,
+    "GONZALEZ GARCIA, IBAI": 5,
+    "BALANDIN POUSADAS, IBAI": 7,
+    "NUÑEZ BUSTO, JON": 9,
+    "ROMAN CRUZ, HUGO": 11,
+    "PRADO ASPIAZU, AIMAR": 14,
+    "SAMBU VIEIRA, OIER OZIL": 17,
+    "GONZALEZ PIÑAN, MARKEL": 20,
+    "SANTOS DOTOR, SENDOA": 21
+  },
+  "dorsales_visitante": {
+    "UGARTE ITURRIAGA ETXEBERRIA, EÑAUT": 13,
+    "GREÑO CERVIÑO, ANDONI": 2,
+    "CUEVAS PACHÓN, OIHAN": 5,
+    "SANDINO LOPEZ, AMETS": 6,
+    "ARROYO NARANJO, IKER": 7,
+    "ELORRIAGA VILLA, URKO": 9,
+    "LOPEZ GARCIA, UNAX": 11,
+    "BARRUTIETA VARELA, LUKEN": 14,
+    "ZABALA ARRIEN, IKER": 17,
+    "ABDUL-HAMID MUFTAWU, HAMID": 18,
+    "ZUGAZA-ARTAZA ALBERDI, HUR": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
