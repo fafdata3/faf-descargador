@@ -9,9 +9,9 @@
   "categoria": "PlayOff por el Título Primera División Fútbol Sala Masculino (PlayOff por el Título Primera División)",
   "equipo_local": "QUESOS EL HIDALGO MANZANARES F.S.",
   "equipo_visitante": "ILLES BALEARS PALMA FUTSAL",
-  "goles_local": 3,
-  "goles_visitante": 4,
-  "resultado": "L",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "URDÁNOZ APEZTEGUÍA, DAVID",
@@ -31,43 +31,50 @@
       "minuto": 8,
       "jugador": "BOUZID STITOU, KHALID",
       "equipo": "?",
-      "propia": true
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 14,
       "jugador": "FERREIRA DA SILVA, CHARLES HENRIQUE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "RIBEIRO RESENDE, HUMBERTO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "DE SANTANA BRITO, LUCAS VINICIUS",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "LOPEZ DEL PINO, ALVARO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "FERREIRA DA SILVA, CHARLES HENRIQUE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "GABRIEL GARCIA, DANIEL",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -215,6 +222,5 @@
   },
   "suspendidos": [
     "NEVES DE LIMA, ALISSON"
-  ],
-  "_marcador_widget": true
+  ]
 }
