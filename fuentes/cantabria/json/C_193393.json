@@ -1,0 +1,247 @@
+{
+  "acta_id": "C_193393",
+  "filename": "Acta_C_193393.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "10-11-2024",
+  "hora": "10:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. TROPEZON A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SIERRA RUIZ, VALENTIN"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "GUTIERREZ TORRE, MATEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "SEDANO GOMEZ, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 18,
+      "jugador": "VALDES GUTIERREZ, BORJA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "MORANTE CASTILLO, MATEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CAYON VALERO, ALEJANDRO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CAYON VALERO, ALEJANDRO",
+  "delegado_equipo_visitante": "GARCIA SANTIAGO, VICTOR",
+  "titulares_local": [
+    "ROJO MANTILLA, DAVID",
+    "MIER GONZALEZ, CRISTIAN",
+    "GONZALEZ PECHERO, HECTOR",
+    "MARTINEZ CALDERON, JAVIER",
+    "VALDES GUTIERREZ, BORJA",
+    "MARTINEZ PEÑA, GUZMAN",
+    "GUTIERREZ TORRE, MATEO",
+    "REBANAL RIVERO, ALBERTO",
+    "MOUTAOUKKILI CHARAT, ADAM",
+    "SAIZ FERNANDEZ, MATEO",
+    "SEDANO GOMEZ, MARTIN"
+  ],
+  "titulares_visitante": [
+    "ORUÑA MARCILLA, ALVARO",
+    "FERNANDEZ MARTINEZ, LUCAS",
+    "PEREZ MARCANO, MANUEL",
+    "ZUBIAGA ECHEVARRIA, MAURO",
+    "GONZALEZ MURILLO, MARCO",
+    "GONZALEZ FERNANDEZ, PABLO",
+    "GONZALEZ MUÑIZ, LARO",
+    "ABASCAL CAMINO, ALVARO",
+    "VAZQUEZ PORRAS, SERGIO",
+    "FERNANDEZ GONZALEZ, XAEL",
+    "CANO GARCIA, RICARDO"
+  ],
+  "suplentes_local": [
+    "DIAZ RUMOROSO, IZAN",
+    "BARCELO ZUNZUNEGUI, MARCO",
+    "DIAZ ALPISTE, MARCOS",
+    "HOLANDA PELAYO, BELTRAN",
+    "MORANTE CASTILLO, MATEO"
+  ],
+  "suplentes_visitante": [
+    "AJA SERRANO, NECO",
+    "AGUIRRE GARCIA, SAMUEL",
+    "GUTIÉRREZ MIERA, VÍCTOR",
+    "SANCHEZ CUEVAS, SERGIO",
+    "ALVAREZ JIMENEZ, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "DIAZ RUMOROSO, IZAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "AJA SERRANO, NECO"
+  ],
+  "jugadores_local": [
+    "ROJO MANTILLA, DAVID",
+    "MIER GONZALEZ, CRISTIAN",
+    "GONZALEZ PECHERO, HECTOR",
+    "MARTINEZ CALDERON, JAVIER",
+    "VALDES GUTIERREZ, BORJA",
+    "MARTINEZ PEÑA, GUZMAN",
+    "GUTIERREZ TORRE, MATEO",
+    "REBANAL RIVERO, ALBERTO",
+    "MOUTAOUKKILI CHARAT, ADAM",
+    "SAIZ FERNANDEZ, MATEO",
+    "SEDANO GOMEZ, MARTIN",
+    "MORANTE CASTILLO, MATEO",
+    "DIAZ ALPISTE, MARCOS",
+    "HOLANDA PELAYO, BELTRAN",
+    "BARCELO ZUNZUNEGUI, MARCO"
+  ],
+  "jugadores_visitante": [
+    "ORUÑA MARCILLA, ALVARO",
+    "FERNANDEZ MARTINEZ, LUCAS",
+    "PEREZ MARCANO, MANUEL",
+    "ZUBIAGA ECHEVARRIA, MAURO",
+    "GONZALEZ MURILLO, MARCO",
+    "GONZALEZ FERNANDEZ, PABLO",
+    "GONZALEZ MUÑIZ, LARO",
+    "ABASCAL CAMINO, ALVARO",
+    "VAZQUEZ PORRAS, SERGIO",
+    "FERNANDEZ GONZALEZ, XAEL",
+    "CANO GARCIA, RICARDO",
+    "SANCHEZ CUEVAS, SERGIO",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "GUTIÉRREZ MIERA, VÍCTOR",
+    "AGUIRRE GARCIA, SAMUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "MORANTE CASTILLO, MATEO",
+      "sale": "SAIZ FERNANDEZ, MATEO"
+    },
+    {
+      "min": 50,
+      "entra": "DIAZ ALPISTE, MARCOS",
+      "sale": "GONZALEZ PECHERO, HECTOR"
+    },
+    {
+      "min": 53,
+      "entra": "HOLANDA PELAYO, BELTRAN",
+      "sale": "MARTINEZ PEÑA, GUZMAN"
+    },
+    {
+      "min": 57,
+      "entra": "BARCELO ZUNZUNEGUI, MARCO",
+      "sale": "MIER GONZALEZ, CRISTIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "SANCHEZ CUEVAS, SERGIO",
+      "sale": "ZUBIAGA ECHEVARRIA, MAURO"
+    },
+    {
+      "min": 36,
+      "entra": "ALVAREZ JIMENEZ, DIEGO",
+      "sale": "PEREZ MARCANO, MANUEL"
+    },
+    {
+      "min": 39,
+      "entra": "GUTIÉRREZ MIERA, VÍCTOR",
+      "sale": "GONZALEZ MURILLO, MARCO"
+    },
+    {
+      "min": 57,
+      "entra": "AGUIRRE GARCIA, SAMUEL",
+      "sale": "VAZQUEZ PORRAS, SERGIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ROJO MANTILLA, DAVID": 90,
+    "MIER GONZALEZ, CRISTIAN": 57,
+    "GONZALEZ PECHERO, HECTOR": 50,
+    "MARTINEZ CALDERON, JAVIER": 90,
+    "VALDES GUTIERREZ, BORJA": 90,
+    "MARTINEZ PEÑA, GUZMAN": 53,
+    "GUTIERREZ TORRE, MATEO": 90,
+    "REBANAL RIVERO, ALBERTO": 90,
+    "MOUTAOUKKILI CHARAT, ADAM": 90,
+    "SAIZ FERNANDEZ, MATEO": 44,
+    "SEDANO GOMEZ, MARTIN": 90,
+    "MORANTE CASTILLO, MATEO": 46,
+    "DIAZ ALPISTE, MARCOS": 40,
+    "HOLANDA PELAYO, BELTRAN": 37,
+    "BARCELO ZUNZUNEGUI, MARCO": 33,
+    "ORUÑA MARCILLA, ALVARO": 90,
+    "FERNANDEZ MARTINEZ, LUCAS": 90,
+    "PEREZ MARCANO, MANUEL": 36,
+    "ZUBIAGA ECHEVARRIA, MAURO": 36,
+    "GONZALEZ MURILLO, MARCO": 39,
+    "GONZALEZ FERNANDEZ, PABLO": 90,
+    "GONZALEZ MUÑIZ, LARO": 90,
+    "ABASCAL CAMINO, ALVARO": 90,
+    "VAZQUEZ PORRAS, SERGIO": 57,
+    "FERNANDEZ GONZALEZ, XAEL": 90,
+    "CANO GARCIA, RICARDO": 90,
+    "SANCHEZ CUEVAS, SERGIO": 54,
+    "ALVAREZ JIMENEZ, DIEGO": 54,
+    "GUTIÉRREZ MIERA, VÍCTOR": 51,
+    "AGUIRRE GARCIA, SAMUEL": 33
+  },
+  "portero_local": "ROJO MANTILLA, DAVID",
+  "portero_visitante": "ORUÑA MARCILLA, ALVARO",
+  "dorsales_local": {
+    "ROJO MANTILLA, DAVID": 13,
+    "MIER GONZALEZ, CRISTIAN": 3,
+    "GONZALEZ PECHERO, HECTOR": 4,
+    "MARTINEZ CALDERON, JAVIER": 5,
+    "VALDES GUTIERREZ, BORJA": 6,
+    "MARTINEZ PEÑA, GUZMAN": 8,
+    "GUTIERREZ TORRE, MATEO": 9,
+    "REBANAL RIVERO, ALBERTO": 12,
+    "MOUTAOUKKILI CHARAT, ADAM": 16,
+    "SAIZ FERNANDEZ, MATEO": 19,
+    "SEDANO GOMEZ, MARTIN": 22
+  },
+  "dorsales_visitante": {
+    "ORUÑA MARCILLA, ALVARO": 1,
+    "FERNANDEZ MARTINEZ, LUCAS": 2,
+    "PEREZ MARCANO, MANUEL": 6,
+    "ZUBIAGA ECHEVARRIA, MAURO": 7,
+    "GONZALEZ MURILLO, MARCO": 8,
+    "GONZALEZ FERNANDEZ, PABLO": 9,
+    "GONZALEZ MUÑIZ, LARO": 10,
+    "ABASCAL CAMINO, ALVARO": 11,
+    "VAZQUEZ PORRAS, SERGIO": 19,
+    "FERNANDEZ GONZALEZ, XAEL": 20,
+    "CANO GARCIA, RICARDO": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
