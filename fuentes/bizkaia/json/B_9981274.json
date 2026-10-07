@@ -1,0 +1,275 @@
+{
+  "acta_id": "B_9981274",
+  "filename": "Acta_B_9981274.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "03-01-2026",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "BIZKERRE",
+  "equipo_visitante": "MSC BUTROE A",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "LOPEZ PUENTE, BEÑAT"
+  ],
+  "estadio": "BOLUE 1",
+  "ciudad": "Getxo",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "ELORDUY ARTECHE, TELMO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 14,
+      "jugador": "VELASCO ARTAZA, PERU",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "MENDIA SUAREZ, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 58,
+      "jugador": "MENDIA SUAREZ, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "LAUZIRIKA LASA, AMETZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "ELORRIAGA CARLOS, OIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALCORTA MARTINEZ, OSCAR",
+  "entrenador_visitante": "ELORRIAGA SOBRON, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MINTEGI FELIX, ANDER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MINTEGI FELIX, ANDER",
+  "delegado_equipo_visitante": "ESCONDRILLAS SOLERA, JON KOLDO",
+  "titulares_local": [
+    "PEREZ LANDAJO, UNAI",
+    "SAGASTI SANTAMARIA, OIER",
+    "LAISECA LOPEZ, MARTIN",
+    "ARGOITIA MENDIZABAL, XABI",
+    "ITURREGUI GOMEZ, LUCA",
+    "LAUZIRIKA LASA, AMETZ",
+    "DE AREITIO GUTIERREZ, RAMON",
+    "VELASCO ARTAZA, PERU",
+    "MENDIA SUAREZ, MARIO",
+    "LAZKANO CRESPO, MARKEL",
+    "URRUTIA HORAS, ERIK"
+  ],
+  "titulares_visitante": [
+    "LEGARRETA BILBAO, ENEKO",
+    "LEKERIKA MENDIA, IÑIGO",
+    "ELORRIAGA CARLOS, OIER",
+    "PALOMO GOMILA, ENDIKA",
+    "SASTRE LARRABE, LUKEN",
+    "BEITIA ASLA, AXULAR",
+    "BARBOSA BILBAO, LIER",
+    "ELORDUY ARTECHE, TELMO",
+    "GEZURAGA MARDARAS, INAR",
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON",
+    "MENTXAKA HORMAETXE, MIKEL"
+  ],
+  "suplentes_local": [
+    "GONZALEZ GONZALEZ, LEO",
+    "PÉREZ DE ANUCITA FUERTES, PEIO",
+    "OBREGON CUEVA, JON",
+    "ETXEBARRIETA MERINO, EKAIN",
+    "ALDAITURRIAGA BAYON, ARATZ",
+    "ALVEREZ ROMO, GORKA",
+    "PALOMINO TORRES, XABI"
+  ],
+  "suplentes_visitante": [
+    "BILBAO BERMEOSOLO, UNAX",
+    "CORDOBA LADINO, EMMANUEL",
+    "ZUGAZAGA BARCOS, DEI",
+    "EGUIÑO ARRIETA, UNAI",
+    "IBAÑEZ PEREZ, ANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "GONZALEZ GONZALEZ, LEO",
+    "ALDAITURRIAGA BAYON, ARATZ"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PEREZ LANDAJO, UNAI",
+    "SAGASTI SANTAMARIA, OIER",
+    "LAISECA LOPEZ, MARTIN",
+    "ARGOITIA MENDIZABAL, XABI",
+    "ITURREGUI GOMEZ, LUCA",
+    "LAUZIRIKA LASA, AMETZ",
+    "DE AREITIO GUTIERREZ, RAMON",
+    "VELASCO ARTAZA, PERU",
+    "MENDIA SUAREZ, MARIO",
+    "LAZKANO CRESPO, MARKEL",
+    "URRUTIA HORAS, ERIK",
+    "PALOMINO TORRES, XABI",
+    "OBREGON CUEVA, JON",
+    "PÉREZ DE ANUCITA FUERTES, PEIO",
+    "ALVEREZ ROMO, GORKA",
+    "ETXEBARRIETA MERINO, EKAIN"
+  ],
+  "jugadores_visitante": [
+    "LEGARRETA BILBAO, ENEKO",
+    "LEKERIKA MENDIA, IÑIGO",
+    "ELORRIAGA CARLOS, OIER",
+    "PALOMO GOMILA, ENDIKA",
+    "SASTRE LARRABE, LUKEN",
+    "BEITIA ASLA, AXULAR",
+    "BARBOSA BILBAO, LIER",
+    "ELORDUY ARTECHE, TELMO",
+    "GEZURAGA MARDARAS, INAR",
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON",
+    "MENTXAKA HORMAETXE, MIKEL",
+    "EGUIÑO ARRIETA, UNAI",
+    "BILBAO BERMEOSOLO, UNAX",
+    "IBAÑEZ PEREZ, ANDER",
+    "CORDOBA LADINO, EMMANUEL",
+    "ZUGAZAGA BARCOS, DEI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "PALOMINO TORRES, XABI",
+      "sale": "LAISECA LOPEZ, MARTIN"
+    },
+    {
+      "min": 51,
+      "entra": "OBREGON CUEVA, JON",
+      "sale": "URRUTIA HORAS, ERIK"
+    },
+    {
+      "min": 51,
+      "entra": "PÉREZ DE ANUCITA FUERTES, PEIO",
+      "sale": "LAZKANO CRESPO, MARKEL"
+    },
+    {
+      "min": 65,
+      "entra": "ALVEREZ ROMO, GORKA",
+      "sale": "ARGOITIA MENDIZABAL, XABI"
+    },
+    {
+      "min": 65,
+      "entra": "ETXEBARRIETA MERINO, EKAIN",
+      "sale": "DE AREITIO GUTIERREZ, RAMON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 63,
+      "entra": "EGUIÑO ARRIETA, UNAI",
+      "sale": "ELORDUY ARTECHE, TELMO"
+    },
+    {
+      "min": 63,
+      "entra": "BILBAO BERMEOSOLO, UNAX",
+      "sale": "ESCONDRILLAS RUIZ DE GORDEJUELA, JON"
+    },
+    {
+      "min": 67,
+      "entra": "IBAÑEZ PEREZ, ANDER",
+      "sale": "SASTRE LARRABE, LUKEN"
+    },
+    {
+      "min": 67,
+      "entra": "CORDOBA LADINO, EMMANUEL",
+      "sale": "PALOMO GOMILA, ENDIKA"
+    },
+    {
+      "min": 67,
+      "entra": "ZUGAZAGA BARCOS, DEI",
+      "sale": "BEITIA ASLA, AXULAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ LANDAJO, UNAI": 90,
+    "SAGASTI SANTAMARIA, OIER": 90,
+    "LAISECA LOPEZ, MARTIN": 40,
+    "ARGOITIA MENDIZABAL, XABI": 65,
+    "ITURREGUI GOMEZ, LUCA": 90,
+    "LAUZIRIKA LASA, AMETZ": 90,
+    "DE AREITIO GUTIERREZ, RAMON": 65,
+    "VELASCO ARTAZA, PERU": 90,
+    "MENDIA SUAREZ, MARIO": 90,
+    "LAZKANO CRESPO, MARKEL": 51,
+    "URRUTIA HORAS, ERIK": 51,
+    "PALOMINO TORRES, XABI": 50,
+    "OBREGON CUEVA, JON": 39,
+    "PÉREZ DE ANUCITA FUERTES, PEIO": 39,
+    "ALVEREZ ROMO, GORKA": 25,
+    "ETXEBARRIETA MERINO, EKAIN": 25,
+    "LEGARRETA BILBAO, ENEKO": 90,
+    "LEKERIKA MENDIA, IÑIGO": 90,
+    "ELORRIAGA CARLOS, OIER": 90,
+    "PALOMO GOMILA, ENDIKA": 67,
+    "SASTRE LARRABE, LUKEN": 67,
+    "BEITIA ASLA, AXULAR": 67,
+    "BARBOSA BILBAO, LIER": 90,
+    "ELORDUY ARTECHE, TELMO": 63,
+    "GEZURAGA MARDARAS, INAR": 90,
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON": 63,
+    "MENTXAKA HORMAETXE, MIKEL": 90,
+    "EGUIÑO ARRIETA, UNAI": 27,
+    "BILBAO BERMEOSOLO, UNAX": 27,
+    "IBAÑEZ PEREZ, ANDER": 23,
+    "CORDOBA LADINO, EMMANUEL": 23,
+    "ZUGAZAGA BARCOS, DEI": 23
+  },
+  "portero_local": "PEREZ LANDAJO, UNAI",
+  "portero_visitante": "LEGARRETA BILBAO, ENEKO",
+  "dorsales_local": {
+    "PEREZ LANDAJO, UNAI": 1,
+    "SAGASTI SANTAMARIA, OIER": 3,
+    "LAISECA LOPEZ, MARTIN": 4,
+    "ARGOITIA MENDIZABAL, XABI": 5,
+    "ITURREGUI GOMEZ, LUCA": 6,
+    "LAUZIRIKA LASA, AMETZ": 12,
+    "DE AREITIO GUTIERREZ, RAMON": 15,
+    "VELASCO ARTAZA, PERU": 16,
+    "MENDIA SUAREZ, MARIO": 17,
+    "LAZKANO CRESPO, MARKEL": 18,
+    "URRUTIA HORAS, ERIK": 23
+  },
+  "dorsales_visitante": {
+    "LEGARRETA BILBAO, ENEKO": 13,
+    "LEKERIKA MENDIA, IÑIGO": 2,
+    "ELORRIAGA CARLOS, OIER": 4,
+    "PALOMO GOMILA, ENDIKA": 5,
+    "SASTRE LARRABE, LUKEN": 6,
+    "BEITIA ASLA, AXULAR": 7,
+    "BARBOSA BILBAO, LIER": 9,
+    "ELORDUY ARTECHE, TELMO": 10,
+    "GEZURAGA MARDARAS, INAR": 11,
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON": 12,
+    "MENTXAKA HORMAETXE, MIKEL": 14
+  },
+  "suspendidos": []
+}
