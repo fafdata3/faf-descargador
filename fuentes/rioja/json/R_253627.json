@@ -9,7 +9,7 @@
   "categoria": "SENIOR FÚTBOL SALA - 1ª FASE (Grupo 1)",
   "equipo_local": "MONACO Café San Mateo",
   "equipo_visitante": "YAGUE Rest. La Portalada",
-  "goles_local": 1,
+  "goles_local": 2,
   "goles_visitante": 4,
   "resultado": "L",
   "arbitros": [
@@ -23,72 +23,50 @@
       "minuto": 20,
       "jugador": "JAVIER ALONSO, ALVARO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "AREVALO FERNANDEZ, ENRIQUE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 38,
       "jugador": "MARTINEZ BARRIOS, ANGEL",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
     },
     {
       "minuto": 40,
       "jugador": "MARTINEZ GARCIA, OMAR",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 50,
       "jugador": "MARTINEZ GARCIA, OMAR",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 59,
       "jugador": "MARTINEZ GARCIA, OMAR",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
     {
-      "minuto": 44,
-      "jugador": "MORENO OCHOA, JORGE",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 55,
-      "jugador": "GARCIA MARTIN, DANIEL",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 55,
-      "jugador": "YAGUE Rest. La Portalada",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
       "minuto": 12,
       "jugador": "MARTINEZ BARRIOS, ANGEL",
       "equipo": "visitante",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 50,
-      "jugador": "DA CRUZ SANTANDER, GONZALO",
-      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     }
@@ -191,5 +169,6 @@
     "MARTINEZ GARCIA, OMAR": 11,
     "MENDOZA TORRES, SAMUEL": 14
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
