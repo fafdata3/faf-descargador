@@ -1,0 +1,285 @@
+{
+  "acta_id": "E_9901412",
+  "filename": "Acta_E_9901412.txt",
+  "fuente": "euskadi",
+  "temporada": "2024-2025",
+  "jornada": 34,
+  "fecha": "31-05-2025",
+  "hora": "12:00",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2024/25)",
+  "equipo_local": "DANOK BAT C.",
+  "equipo_visitante": "SANTUTXU F.C.",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ARRIZABALAGA BLASCO, ANDER"
+  ],
+  "estadio": "MALLONA 1",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "BENITO MORALEDA, LANDER",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "ROMERO LOTINA, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "RODRIGUEZ RUIZ, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "RODRIGUEZ RUIZ, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 73,
+      "jugador": "SERRANO ACERO, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 36,
+      "jugador": "BENITO MORALEDA, LANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "DOMINGUEZ SALGADO, ENAITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "SANGIAO ABASCAL, IZAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BEZANILLA IRIARTE, NICOLAS",
+  "entrenador_visitante": "SANCHEZ BARAHONA, GUILLERMO",
+  "segundo_entrenador_local": "MIJANGOS AMEZAGA, IÑIGO",
+  "segundo_entrenador_visitante": "VIAN CARRILLO, AITOR",
+  "delegado_campo_local": "BARBERENA GONZALEZ, IÑIGO JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BARBERENA GONZALEZ, IÑIGO JAVIER",
+  "delegado_equipo_visitante": "SANCHEZ AMADO, PEDRO MARIA",
+  "titulares_local": [
+    "ARROYO CASTILLO, MARKEL",
+    "NAVARRO GUTIERREZ, MARCOS",
+    "ESKALZA URTIAGA, XUBAN",
+    "ROMERO LOTINA, IKER",
+    "ALONSO ESTEBAN, JUAN NICOLAS",
+    "ORTIZ ANTON, TEO",
+    "SERRANO ACERO, IKER",
+    "GOMEZ NEGRO, JON",
+    "MINETTI AYO, MARKEL",
+    "MENDIZABAL ITURRI, MIKEL",
+    "OLEAGA ALBERDI, HAITZ"
+  ],
+  "titulares_visitante": [
+    "VAZQUEZ PEREZ, ANDER",
+    "ANES DE LOS REYES, EKHI",
+    "PORRAS PROL, MARKEL",
+    "AGUIRREGOICOA OLAGORTA, LANDER",
+    "BENITO MORALEDA, LANDER",
+    "VARGAS CONTRERAS, LEONARDO DAVID",
+    "SANGIAO ABASCAL, IZAN",
+    "GONZALEZ PLAZA, ERLANTZ",
+    "DOMINGUEZ SALGADO, ENAITZ",
+    "RODRIGUEZ GOMEZ, UNAX",
+    "RODRIGUEZ ALVAREZ, SENDOA"
+  ],
+  "suplentes_local": [
+    "LEJARAZU ALEPUZ, KOLDO",
+    "LOBATO MUÑOZ, UNAX",
+    "RODRIGUEZ FIGUERO, SAID",
+    "DIAZ GARCIA, GORKA",
+    "RODRIGUEZ RUIZ, NICOLAS",
+    "BARBERENA PELLEJERO, OIHAN",
+    "SANGUINO LOPEZ, ALAIN"
+  ],
+  "suplentes_visitante": [
+    "ATCHAAKPO, IMANDUDI",
+    "ATXUKARRO OLABARRIETA, URTZI",
+    "CALLEJA GARCIA, JULEN",
+    "GARCIA BONILLA, ANDER",
+    "REY REBOLLO, OIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "LOBATO MUÑOZ, UNAX",
+    "BARBERENA PELLEJERO, OIHAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ATCHAAKPO, IMANDUDI"
+  ],
+  "jugadores_local": [
+    "ARROYO CASTILLO, MARKEL",
+    "NAVARRO GUTIERREZ, MARCOS",
+    "ESKALZA URTIAGA, XUBAN",
+    "ROMERO LOTINA, IKER",
+    "ALONSO ESTEBAN, JUAN NICOLAS",
+    "ORTIZ ANTON, TEO",
+    "SERRANO ACERO, IKER",
+    "GOMEZ NEGRO, JON",
+    "MINETTI AYO, MARKEL",
+    "MENDIZABAL ITURRI, MIKEL",
+    "OLEAGA ALBERDI, HAITZ",
+    "LEJARAZU ALEPUZ, KOLDO",
+    "DIAZ GARCIA, GORKA",
+    "RODRIGUEZ RUIZ, NICOLAS",
+    "RODRIGUEZ FIGUERO, SAID",
+    "SANGUINO LOPEZ, ALAIN"
+  ],
+  "jugadores_visitante": [
+    "VAZQUEZ PEREZ, ANDER",
+    "ANES DE LOS REYES, EKHI",
+    "PORRAS PROL, MARKEL",
+    "AGUIRREGOICOA OLAGORTA, LANDER",
+    "BENITO MORALEDA, LANDER",
+    "VARGAS CONTRERAS, LEONARDO DAVID",
+    "SANGIAO ABASCAL, IZAN",
+    "GONZALEZ PLAZA, ERLANTZ",
+    "DOMINGUEZ SALGADO, ENAITZ",
+    "RODRIGUEZ GOMEZ, UNAX",
+    "RODRIGUEZ ALVAREZ, SENDOA",
+    "CALLEJA GARCIA, JULEN",
+    "GARCIA BONILLA, ANDER",
+    "ATXUKARRO OLABARRIETA, URTZI",
+    "REY REBOLLO, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "LEJARAZU ALEPUZ, KOLDO",
+      "sale": "OLEAGA ALBERDI, HAITZ"
+    },
+    {
+      "min": 55,
+      "entra": "DIAZ GARCIA, GORKA",
+      "sale": "ROMERO LOTINA, IKER"
+    },
+    {
+      "min": 60,
+      "entra": "RODRIGUEZ RUIZ, NICOLAS",
+      "sale": "GOMEZ NEGRO, JON"
+    },
+    {
+      "min": 60,
+      "entra": "RODRIGUEZ FIGUERO, SAID",
+      "sale": "MINETTI AYO, MARKEL"
+    },
+    {
+      "min": 65,
+      "entra": "SANGUINO LOPEZ, ALAIN",
+      "sale": "SERRANO ACERO, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "CALLEJA GARCIA, JULEN",
+      "sale": "PORRAS PROL, MARKEL"
+    },
+    {
+      "min": 40,
+      "entra": "GARCIA BONILLA, ANDER",
+      "sale": "RODRIGUEZ GOMEZ, UNAX"
+    },
+    {
+      "min": 40,
+      "entra": "ATXUKARRO OLABARRIETA, URTZI",
+      "sale": "VARGAS CONTRERAS, LEONARDO DAVID"
+    },
+    {
+      "min": 65,
+      "entra": "REY REBOLLO, OIER",
+      "sale": "BENITO MORALEDA, LANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARROYO CASTILLO, MARKEL": 90,
+    "NAVARRO GUTIERREZ, MARCOS": 90,
+    "ESKALZA URTIAGA, XUBAN": 90,
+    "ROMERO LOTINA, IKER": 55,
+    "ALONSO ESTEBAN, JUAN NICOLAS": 90,
+    "ORTIZ ANTON, TEO": 90,
+    "SERRANO ACERO, IKER": 65,
+    "GOMEZ NEGRO, JON": 60,
+    "MINETTI AYO, MARKEL": 60,
+    "MENDIZABAL ITURRI, MIKEL": 90,
+    "OLEAGA ALBERDI, HAITZ": 55,
+    "LEJARAZU ALEPUZ, KOLDO": 35,
+    "DIAZ GARCIA, GORKA": 35,
+    "RODRIGUEZ RUIZ, NICOLAS": 30,
+    "RODRIGUEZ FIGUERO, SAID": 30,
+    "SANGUINO LOPEZ, ALAIN": 25,
+    "VAZQUEZ PEREZ, ANDER": 90,
+    "ANES DE LOS REYES, EKHI": 90,
+    "PORRAS PROL, MARKEL": 40,
+    "AGUIRREGOICOA OLAGORTA, LANDER": 90,
+    "BENITO MORALEDA, LANDER": 65,
+    "VARGAS CONTRERAS, LEONARDO DAVID": 40,
+    "SANGIAO ABASCAL, IZAN": 90,
+    "GONZALEZ PLAZA, ERLANTZ": 90,
+    "DOMINGUEZ SALGADO, ENAITZ": 90,
+    "RODRIGUEZ GOMEZ, UNAX": 40,
+    "RODRIGUEZ ALVAREZ, SENDOA": 90,
+    "CALLEJA GARCIA, JULEN": 50,
+    "GARCIA BONILLA, ANDER": 50,
+    "ATXUKARRO OLABARRIETA, URTZI": 50,
+    "REY REBOLLO, OIER": 25
+  },
+  "portero_local": "ARROYO CASTILLO, MARKEL",
+  "portero_visitante": "VAZQUEZ PEREZ, ANDER",
+  "dorsales_local": {
+    "ARROYO CASTILLO, MARKEL": 1,
+    "NAVARRO GUTIERREZ, MARCOS": 3,
+    "ESKALZA URTIAGA, XUBAN": 4,
+    "ROMERO LOTINA, IKER": 10,
+    "ALONSO ESTEBAN, JUAN NICOLAS": 15,
+    "ORTIZ ANTON, TEO": 16,
+    "SERRANO ACERO, IKER": 18,
+    "GOMEZ NEGRO, JON": 19,
+    "MINETTI AYO, MARKEL": 20,
+    "MENDIZABAL ITURRI, MIKEL": 22,
+    "OLEAGA ALBERDI, HAITZ": 24
+  },
+  "dorsales_visitante": {
+    "VAZQUEZ PEREZ, ANDER": 25,
+    "ANES DE LOS REYES, EKHI": 2,
+    "PORRAS PROL, MARKEL": 5,
+    "AGUIRREGOICOA OLAGORTA, LANDER": 6,
+    "BENITO MORALEDA, LANDER": 10,
+    "VARGAS CONTRERAS, LEONARDO DAVID": 12,
+    "SANGIAO ABASCAL, IZAN": 14,
+    "GONZALEZ PLAZA, ERLANTZ": 15,
+    "DOMINGUEZ SALGADO, ENAITZ": 16,
+    "RODRIGUEZ GOMEZ, UNAX": 17,
+    "RODRIGUEZ ALVAREZ, SENDOA": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
