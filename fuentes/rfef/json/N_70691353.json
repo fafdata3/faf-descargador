@@ -9,8 +9,8 @@
   "categoria": "PlayOff de Ascenso a Segunda División de Fútbol Sala (2ª eliminatoria)",
   "equipo_local": "ILLES BALEARS PALMA FUTSAL",
   "equipo_visitante": "CD ALBACETE FS",
-  "goles_local": 2,
-  "goles_visitante": 1,
+  "goles_local": 6,
+  "goles_visitante": 2,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -27,49 +27,57 @@
       "minuto": 18,
       "jugador": "REQUERO GIL, JUAN LUIS",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "MARTINEZ SERRANO, JUAN L",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "MARTÍNEZ BARRIONUEVO, NEIZAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 27,
       "jugador": "YEVES BAUTISTA, MAGI",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 32,
       "jugador": "MARTÍNEZ BARRIONUEVO, NEIZAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "PÉREZ SORIANO, JAVIER",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 37,
       "jugador": "GOMEZ ROLDAN, DIEGO",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 38,
       "jugador": "SUAREZ NAVARRO, GONZALO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -121,7 +129,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": null,
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "EL MORABITI, MUSTAPHA",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "MARTINEZ ROCA, ALEJANDRO",
   "titulares_local": [
@@ -228,5 +236,6 @@
   },
   "suspendidos": [
     "GREGORIO RODRIGUEZ, ROBERTO"
-  ]
+  ],
+  "_marcador_widget": true
 }
