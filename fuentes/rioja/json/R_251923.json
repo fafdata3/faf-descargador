@@ -9,9 +9,9 @@
   "categoria": "TERCERA FEDERACIÓN DE FÚTBOL FEMENINO (Grupo 16)",
   "equipo_local": "DUX LOGROÑO B",
   "equipo_visitante": "INTERSOOCER ACADEMY",
-  "goles_local": 0,
+  "goles_local": 1,
   "goles_visitante": 1,
-  "resultado": "L",
+  "resultado": "D",
   "arbitros": [
     "Árbitro Principal",
     "PEREZ MERINO, ADRIAN",
@@ -26,8 +26,8 @@
     {
       "minuto": 11,
       "jugador": "CARNERO MONTECELO, CELIA",
-      "equipo": "visitante",
-      "propia": true,
+      "equipo": "local",
+      "propia": false,
       "penalti": false
     },
     {
