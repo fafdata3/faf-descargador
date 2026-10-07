@@ -23,37 +23,43 @@
       "minuto": 20,
       "jugador": "HERNANDEZ RUIZ, ANGELA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "DIAZ ESCOBES, REBECA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 41,
       "jugador": "HERNANDEZ RUIZ, ANGELA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 49,
       "jugador": "HERNANDEZ RUIZ, ANGELA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 59,
       "jugador": "EZQUERRO EZQUERRO, CAROLINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 61,
       "jugador": "HERNANDEZ RUIZ, ANGELA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -103,7 +109,7 @@
     "DIAZ ESCOBES, REBECA",
     "FERNANDEZ NAJERA, CANDELA",
     "FERNANDEZ CONTRERAS, MARIA LUCIA",
-    "HAMZAOUI, SALMA",
+    "HAMZAOUI ERROUZI, SALMA",
     "LORENZO JIMENEZ, MARA"
   ],
   "suplentes_local": [
@@ -150,7 +156,7 @@
     "DIAZ ESCOBES, REBECA",
     "FERNANDEZ NAJERA, CANDELA",
     "FERNANDEZ CONTRERAS, MARIA LUCIA",
-    "HAMZAOUI, SALMA",
+    "HAMZAOUI ERROUZI, SALMA",
     "LORENZO JIMENEZ, MARA",
     "SECO MABOTE, ALIYA",
     "BELGOUR COLLADO, SARA"
@@ -191,7 +197,7 @@
     {
       "min": 57,
       "entra": "BELGOUR COLLADO, SARA",
-      "sale": "HAMZAOUI, SALMA"
+      "sale": "HAMZAOUI ERROUZI, SALMA"
     }
   ],
   "minutos_jugadores": {
@@ -220,7 +226,7 @@
     "DIAZ ESCOBES, REBECA": 90,
     "FERNANDEZ NAJERA, CANDELA": 41,
     "FERNANDEZ CONTRERAS, MARIA LUCIA": 90,
-    "HAMZAOUI, SALMA": 57,
+    "HAMZAOUI ERROUZI, SALMA": 57,
     "LORENZO JIMENEZ, MARA": 90,
     "SECO MABOTE, ALIYA": 49,
     "BELGOUR COLLADO, SARA": 33
@@ -250,7 +256,7 @@
     "DIAZ ESCOBES, REBECA": 9,
     "FERNANDEZ NAJERA, CANDELA": 12,
     "FERNANDEZ CONTRERAS, MARIA LUCIA": 14,
-    "HAMZAOUI, SALMA": 17,
+    "HAMZAOUI ERROUZI, SALMA": 17,
     "LORENZO JIMENEZ, MARA": 19
   },
   "suspendidos": []
