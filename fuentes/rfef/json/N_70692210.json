@@ -1,0 +1,271 @@
+{
+  "acta_id": "N_70692210",
+  "filename": "Acta_N_70692210.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "18:00",
+  "categoria": "Division de Honor Juvenil (Grupo 1)",
+  "equipo_local": "REAL OVIEDO",
+  "equipo_visitante": "C.D. MARINA SPORT",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO",
+    "RODRÍGUEZ MONTES, IVÁN",
+    "ÁRBITRO ASISTENTE",
+    "SANGUINO PRADO, ALVARO",
+    "ÁRBITRO ASISTENTE",
+    "ORVIZ RODRIGUEZ, MATEO"
+  ],
+  "estadio": "La Pixarra",
+  "ciudad": "Oviedo",
+  "goleadores": [
+    {
+      "minuto": 81,
+      "jugador": "RODRIGUEZ DIAZ, LEONARDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 86,
+      "jugador": "MENENDEZ GARCIA, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "RODRIGUEZ CABRERA, ASUR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "MENENDEZ GARCIA, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "PORRAS RUIZ, CESAR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "DE LA PEÑA ARANA, ANDER",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "COLLAZO ALONSO, CESAR",
+  "titulares_local": [
+    "LODEIRO GARCIA, HUGO",
+    "LOPEZ DIAZ, PELAYO",
+    "ARRIBAS GARCIA, ARTURO",
+    "TORRON ROCES, ALVARO",
+    "ABRIL ARGUELLES, ALVARO",
+    "RODRIGUEZ CABRERA, ASUR",
+    "OKEKE, UGOMSINACHI PRINCE",
+    "MENENDEZ GARCIA, LUCAS",
+    "LARA EIRIN, DANIEL",
+    "MENES HEVIA, IVAN",
+    "RODRIGUEZ DIAZ, LEONARDO"
+  ],
+  "titulares_visitante": [
+    "CARRASCAL GARCIA, ELIAS",
+    "FRANCO CAMPILLO, IVAN",
+    "CAVIA BUENDIA, NICOLAS",
+    "JURNA ANERO, LEONARDO",
+    "URIBE DELGADO, BRUNO",
+    "FUSE, RYOMA",
+    "CISNEROS LEAL, ADRIAN",
+    "FERNANDEZ COBO, SAMUEL",
+    "FERNANDEZ FABERO, MARIO",
+    "GARCIA BLANCO, PABLO",
+    "CANALES VILLA, IKER"
+  ],
+  "suplentes_local": [
+    "ALVAREZ MESA, HUGO",
+    "ALVAREZ MARQUÉS, MATEO",
+    "ESPAÑA RODRIGUEZ, ALVARO",
+    "MADERA FERNANDEZ, PABLO",
+    "ARIAS CANO, SAUL",
+    "GONZALEZ FERNANDEZ, MARIO",
+    "FERNANDEZ GATON, PELAYO"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ PEREZ, MIGUEL ANGEL",
+    "ALVAREZ CORONA, AARON",
+    "GUTIERREZ ZUBILLAGA, VICTOR",
+    "SOBERON GARCIA, MARCOS",
+    "SANCHO POMPOSO, ALVARO",
+    "FUENTES PALLEJA, ERIK",
+    "MANTECÓN HERMANA, ADRIÁN"
+  ],
+  "convocados_sin_jugar_local": [
+    "ALVAREZ MESA, HUGO",
+    "MADERA FERNANDEZ, PABLO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "LOPEZ PEREZ, MIGUEL ANGEL",
+    "MANTECÓN HERMANA, ADRIÁN"
+  ],
+  "jugadores_local": [
+    "LODEIRO GARCIA, HUGO",
+    "LOPEZ DIAZ, PELAYO",
+    "ARRIBAS GARCIA, ARTURO",
+    "TORRON ROCES, ALVARO",
+    "ABRIL ARGUELLES, ALVARO",
+    "RODRIGUEZ CABRERA, ASUR",
+    "OKEKE, UGOMSINACHI PRINCE",
+    "MENENDEZ GARCIA, LUCAS",
+    "LARA EIRIN, DANIEL",
+    "MENES HEVIA, IVAN",
+    "RODRIGUEZ DIAZ, LEONARDO",
+    "ESPAÑA RODRIGUEZ, ALVARO",
+    "ARIAS CANO, SAUL",
+    "GONZALEZ FERNANDEZ, MARIO",
+    "FERNANDEZ GATON, PELAYO",
+    "ALVAREZ MARQUÉS, MATEO"
+  ],
+  "jugadores_visitante": [
+    "CARRASCAL GARCIA, ELIAS",
+    "FRANCO CAMPILLO, IVAN",
+    "CAVIA BUENDIA, NICOLAS",
+    "JURNA ANERO, LEONARDO",
+    "URIBE DELGADO, BRUNO",
+    "FUSE, RYOMA",
+    "CISNEROS LEAL, ADRIAN",
+    "FERNANDEZ COBO, SAMUEL",
+    "FERNANDEZ FABERO, MARIO",
+    "GARCIA BLANCO, PABLO",
+    "CANALES VILLA, IKER",
+    "SOBERON GARCIA, MARCOS",
+    "ALVAREZ CORONA, AARON",
+    "FUENTES PALLEJA, ERIK",
+    "GUTIERREZ ZUBILLAGA, VICTOR",
+    "SANCHO POMPOSO, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "ESPAÑA RODRIGUEZ, ALVARO",
+      "sale": "OKEKE, UGOMSINACHI PRINCE"
+    },
+    {
+      "min": 52,
+      "entra": "ARIAS CANO, SAUL",
+      "sale": "LARA EIRIN, DANIEL"
+    },
+    {
+      "min": 65,
+      "entra": "GONZALEZ FERNANDEZ, MARIO",
+      "sale": "LOPEZ DIAZ, PELAYO"
+    },
+    {
+      "min": 65,
+      "entra": "FERNANDEZ GATON, PELAYO",
+      "sale": "ABRIL ARGUELLES, ALVARO"
+    },
+    {
+      "min": 72,
+      "entra": "ALVAREZ MARQUÉS, MATEO",
+      "sale": "RODRIGUEZ CABRERA, ASUR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "SOBERON GARCIA, MARCOS",
+      "sale": "FERNANDEZ FABERO, MARIO"
+    },
+    {
+      "min": 71,
+      "entra": "ALVAREZ CORONA, AARON",
+      "sale": "URIBE DELGADO, BRUNO"
+    },
+    {
+      "min": 71,
+      "entra": "FUENTES PALLEJA, ERIK",
+      "sale": "GARCIA BLANCO, PABLO"
+    },
+    {
+      "min": 83,
+      "entra": "GUTIERREZ ZUBILLAGA, VICTOR",
+      "sale": "JURNA ANERO, LEONARDO"
+    },
+    {
+      "min": 83,
+      "entra": "SANCHO POMPOSO, ALVARO",
+      "sale": "CISNEROS LEAL, ADRIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "LODEIRO GARCIA, HUGO": 90,
+    "LOPEZ DIAZ, PELAYO": 65,
+    "ARRIBAS GARCIA, ARTURO": 90,
+    "TORRON ROCES, ALVARO": 90,
+    "ABRIL ARGUELLES, ALVARO": 65,
+    "RODRIGUEZ CABRERA, ASUR": 72,
+    "OKEKE, UGOMSINACHI PRINCE": 52,
+    "MENENDEZ GARCIA, LUCAS": 90,
+    "LARA EIRIN, DANIEL": 52,
+    "MENES HEVIA, IVAN": 90,
+    "RODRIGUEZ DIAZ, LEONARDO": 90,
+    "CARRASCAL GARCIA, ELIAS": 90,
+    "FRANCO CAMPILLO, IVAN": 90,
+    "CAVIA BUENDIA, NICOLAS": 90,
+    "JURNA ANERO, LEONARDO": 83,
+    "URIBE DELGADO, BRUNO": 71,
+    "FUSE, RYOMA": 90,
+    "CISNEROS LEAL, ADRIAN": 83,
+    "FERNANDEZ COBO, SAMUEL": 90,
+    "FERNANDEZ FABERO, MARIO": 58,
+    "GARCIA BLANCO, PABLO": 71,
+    "CANALES VILLA, IKER": 90,
+    "ESPAÑA RODRIGUEZ, ALVARO": 38,
+    "ARIAS CANO, SAUL": 38,
+    "GONZALEZ FERNANDEZ, MARIO": 25,
+    "FERNANDEZ GATON, PELAYO": 25,
+    "ALVAREZ MARQUÉS, MATEO": 18,
+    "SOBERON GARCIA, MARCOS": 32,
+    "ALVAREZ CORONA, AARON": 19,
+    "FUENTES PALLEJA, ERIK": 19,
+    "GUTIERREZ ZUBILLAGA, VICTOR": 7,
+    "SANCHO POMPOSO, ALVARO": 7
+  },
+  "portero_local": "LODEIRO GARCIA, HUGO",
+  "portero_visitante": "CARRASCAL GARCIA, ELIAS",
+  "dorsales_local": {
+    "LODEIRO GARCIA, HUGO": 27,
+    "LOPEZ DIAZ, PELAYO": 3,
+    "ARRIBAS GARCIA, ARTURO": 5,
+    "TORRON ROCES, ALVARO": 7,
+    "ABRIL ARGUELLES, ALVARO": 8,
+    "RODRIGUEZ CABRERA, ASUR": 9,
+    "OKEKE, UGOMSINACHI PRINCE": 15,
+    "MENENDEZ GARCIA, LUCAS": 18,
+    "LARA EIRIN, DANIEL": 23,
+    "MENES HEVIA, IVAN": 25,
+    "RODRIGUEZ DIAZ, LEONARDO": 33
+  },
+  "dorsales_visitante": {
+    "CARRASCAL GARCIA, ELIAS": 1,
+    "FRANCO CAMPILLO, IVAN": 2,
+    "CAVIA BUENDIA, NICOLAS": 5,
+    "JURNA ANERO, LEONARDO": 9,
+    "URIBE DELGADO, BRUNO": 11,
+    "FUSE, RYOMA": 14,
+    "CISNEROS LEAL, ADRIAN": 16,
+    "FERNANDEZ COBO, SAMUEL": 17,
+    "FERNANDEZ FABERO, MARIO": 20,
+    "GARCIA BLANCO, PABLO": 24,
+    "CANALES VILLA, IKER": 27
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
