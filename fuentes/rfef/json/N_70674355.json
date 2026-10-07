@@ -1,0 +1,264 @@
+{
+  "acta_id": "N_70674355",
+  "filename": "Acta_N_70674355.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 30,
+  "fecha": "02-05-2026",
+  "hora": "12:00",
+  "categoria": "Division de Honor Juvenil (Grupo 1)",
+  "equipo_local": "TSK ROCES",
+  "equipo_visitante": "R.S. GIMNASTICA DE TORRELAVEGA",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO",
+    "SAHELICES PUGA, ÁLVARO",
+    "ÁRBITRO ASISTENTE",
+    "MARTÍNEZ GONZÁLEZ, JAVIER",
+    "ÁRBITRO ASISTENTE",
+    "SOMMER LOPEZ, EDUARDO"
+  ],
+  "estadio": "COVADONGA (H.Sintetica)",
+  "ciudad": "Gijón",
+  "goleadores": [
+    {
+      "minuto": 60,
+      "jugador": "ARGANZA GONZALEZ, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "PEREIRA VACAS, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 43,
+      "jugador": "PALACIO GARCIA, NACHO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "FERNANDEZ DEL BLANCO, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 51,
+      "jugador": "FERNANDEZ DIEZ, GONZALO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "LOPEZ SALAS, ALEJANDRO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GOYA LOPEZ, NICOLAS",
+  "titulares_local": [
+    "CARCEDO DIAZ, DIEGO",
+    "PAJARES ALVAREZ, TEDDY",
+    "JAMART CAO, DIEGO",
+    "ALVAREZ ALVAREZ, MATEO JOSE",
+    "TRAVIESA CUELI, ADRIAN",
+    "MARQUES PEREZ, ADRIAN",
+    "PALACIO GARCIA, NACHO",
+    "DIAZ WEI, DARIO",
+    "PEREIRA VACAS, PABLO",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "CASADO FERNANDEZ, ADRIAN"
+  ],
+  "titulares_visitante": [
+    "CARREIRA PENAS, ALEX",
+    "COBO MACHO, NICOLAS",
+    "FERNANDEZ DIEZ, GONZALO",
+    "TORRE ARCO, CESAR",
+    "EL AMRAQUI FARSSI, MOHAMED",
+    "CELORIO GARCIA, ELIO",
+    "MEDINA MUÑOZ, YOEL",
+    "SAMPEDRO GUTIERREZ, ALEX",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "MATANZA ACEBO, NOAH",
+    "RIOS IGLESIAS, PABLO"
+  ],
+  "suplentes_local": [
+    "HUETE CASTRO, RUBEN",
+    "FERNANDEZ DEL BLANCO, PABLO",
+    "ARGANZA GONZALEZ, DANIEL",
+    "ÁLVAREZ RABANAL, VÍCTOR"
+  ],
+  "suplentes_visitante": [
+    "FRAILE LOPEZ, GAEL",
+    "CASAR ZUBIAURRE, LUCAS",
+    "YELA GONZALEZ, MAURICIO",
+    "FERNANDEZ IZARA, LORENZO",
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "GONZALEZ SORDO, ALEX",
+    "RUIZ BOLADO, DAVID"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "FRAILE LOPEZ, GAEL",
+    "FERNANDEZ SAÑUDO, GERMAN"
+  ],
+  "jugadores_local": [
+    "CARCEDO DIAZ, DIEGO",
+    "PAJARES ALVAREZ, TEDDY",
+    "JAMART CAO, DIEGO",
+    "ALVAREZ ALVAREZ, MATEO JOSE",
+    "TRAVIESA CUELI, ADRIAN",
+    "MARQUES PEREZ, ADRIAN",
+    "PALACIO GARCIA, NACHO",
+    "DIAZ WEI, DARIO",
+    "PEREIRA VACAS, PABLO",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "CASADO FERNANDEZ, ADRIAN",
+    "HUETE CASTRO, RUBEN",
+    "ARGANZA GONZALEZ, DANIEL",
+    "ÁLVAREZ RABANAL, VÍCTOR",
+    "FERNANDEZ DEL BLANCO, PABLO"
+  ],
+  "jugadores_visitante": [
+    "CARREIRA PENAS, ALEX",
+    "COBO MACHO, NICOLAS",
+    "FERNANDEZ DIEZ, GONZALO",
+    "TORRE ARCO, CESAR",
+    "EL AMRAQUI FARSSI, MOHAMED",
+    "CELORIO GARCIA, ELIO",
+    "MEDINA MUÑOZ, YOEL",
+    "SAMPEDRO GUTIERREZ, ALEX",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "MATANZA ACEBO, NOAH",
+    "RIOS IGLESIAS, PABLO",
+    "YELA GONZALEZ, MAURICIO",
+    "RUIZ BOLADO, DAVID",
+    "FERNANDEZ IZARA, LORENZO",
+    "CASAR ZUBIAURRE, LUCAS",
+    "GONZALEZ SORDO, ALEX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "HUETE CASTRO, RUBEN",
+      "sale": "CARCEDO DIAZ, DIEGO"
+    },
+    {
+      "min": 57,
+      "entra": "ARGANZA GONZALEZ, DANIEL",
+      "sale": "FERNANDEZ FERNANDEZ, IKER"
+    },
+    {
+      "min": 57,
+      "entra": "ÁLVAREZ RABANAL, VÍCTOR",
+      "sale": "PALACIO GARCIA, NACHO"
+    },
+    {
+      "min": 66,
+      "entra": "FERNANDEZ DEL BLANCO, PABLO",
+      "sale": "DIAZ WEI, DARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 25,
+      "entra": "YELA GONZALEZ, MAURICIO",
+      "sale": "CELORIO GARCIA, ELIO"
+    },
+    {
+      "min": 58,
+      "entra": "RUIZ BOLADO, DAVID",
+      "sale": "YELA GONZALEZ, MAURICIO"
+    },
+    {
+      "min": 58,
+      "entra": "FERNANDEZ IZARA, LORENZO",
+      "sale": "RIOS IGLESIAS, PABLO"
+    },
+    {
+      "min": 60,
+      "entra": "CASAR ZUBIAURRE, LUCAS",
+      "sale": "FERNANDEZ DIEZ, GONZALO"
+    },
+    {
+      "min": 60,
+      "entra": "GONZALEZ SORDO, ALEX",
+      "sale": "TORRE ARCO, CESAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "CARCEDO DIAZ, DIEGO": 48,
+    "PAJARES ALVAREZ, TEDDY": 90,
+    "JAMART CAO, DIEGO": 90,
+    "ALVAREZ ALVAREZ, MATEO JOSE": 90,
+    "TRAVIESA CUELI, ADRIAN": 90,
+    "MARQUES PEREZ, ADRIAN": 90,
+    "PALACIO GARCIA, NACHO": 57,
+    "DIAZ WEI, DARIO": 66,
+    "PEREIRA VACAS, PABLO": 90,
+    "FERNANDEZ FERNANDEZ, IKER": 57,
+    "CASADO FERNANDEZ, ADRIAN": 90,
+    "CARREIRA PENAS, ALEX": 90,
+    "COBO MACHO, NICOLAS": 90,
+    "FERNANDEZ DIEZ, GONZALO": 60,
+    "TORRE ARCO, CESAR": 60,
+    "EL AMRAQUI FARSSI, MOHAMED": 90,
+    "CELORIO GARCIA, ELIO": 25,
+    "MEDINA MUÑOZ, YOEL": 90,
+    "SAMPEDRO GUTIERREZ, ALEX": 90,
+    "DEL RIO PRIETO, JUAN VICENTE": 90,
+    "MATANZA ACEBO, NOAH": 90,
+    "RIOS IGLESIAS, PABLO": 58,
+    "HUETE CASTRO, RUBEN": 42,
+    "ARGANZA GONZALEZ, DANIEL": 33,
+    "ÁLVAREZ RABANAL, VÍCTOR": 33,
+    "FERNANDEZ DEL BLANCO, PABLO": 24,
+    "YELA GONZALEZ, MAURICIO": 58,
+    "RUIZ BOLADO, DAVID": 32,
+    "FERNANDEZ IZARA, LORENZO": 32,
+    "CASAR ZUBIAURRE, LUCAS": 30,
+    "GONZALEZ SORDO, ALEX": 30
+  },
+  "portero_local": "CARCEDO DIAZ, DIEGO",
+  "portero_visitante": "CARREIRA PENAS, ALEX",
+  "dorsales_local": {
+    "CARCEDO DIAZ, DIEGO": 1,
+    "PAJARES ALVAREZ, TEDDY": 2,
+    "JAMART CAO, DIEGO": 3,
+    "ALVAREZ ALVAREZ, MATEO JOSE": 4,
+    "TRAVIESA CUELI, ADRIAN": 5,
+    "MARQUES PEREZ, ADRIAN": 6,
+    "PALACIO GARCIA, NACHO": 7,
+    "DIAZ WEI, DARIO": 8,
+    "PEREIRA VACAS, PABLO": 9,
+    "FERNANDEZ FERNANDEZ, IKER": 10,
+    "CASADO FERNANDEZ, ADRIAN": 11
+  },
+  "dorsales_visitante": {
+    "CARREIRA PENAS, ALEX": 1,
+    "COBO MACHO, NICOLAS": 3,
+    "FERNANDEZ DIEZ, GONZALO": 4,
+    "TORRE ARCO, CESAR": 5,
+    "EL AMRAQUI FARSSI, MOHAMED": 9,
+    "CELORIO GARCIA, ELIO": 10,
+    "MEDINA MUÑOZ, YOEL": 11,
+    "SAMPEDRO GUTIERREZ, ALEX": 14,
+    "DEL RIO PRIETO, JUAN VICENTE": 17,
+    "MATANZA ACEBO, NOAH": 19,
+    "RIOS IGLESIAS, PABLO": 21
+  },
+  "suspendidos": []
+}
