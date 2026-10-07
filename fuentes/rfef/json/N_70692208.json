@@ -1,0 +1,264 @@
+{
+  "acta_id": "N_70692208",
+  "filename": "Acta_N_70692208.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "04-10-2026",
+  "hora": "13:23",
+  "categoria": "Division de Honor Juvenil (Grupo 1)",
+  "equipo_local": "E.D. VAL MIÑOR NIGRAN",
+  "equipo_visitante": "VICTORIA C.F.",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO",
+    "GONZALEZ LAMAS, RODRIGO",
+    "ÁRBITRO ASISTENTE",
+    "FRAGUEIRO BAUTISTA, EDUARDO",
+    "ÁRBITRO ASISTENTE",
+    "CACERES MUÑIZ, JORGE"
+  ],
+  "estadio": "Condominguez",
+  "ciudad": "Nigrán",
+  "goleadores": [
+    {
+      "minuto": 58,
+      "jugador": "PEREZ MARTINEZ, BRAIS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 83,
+      "jugador": "FERNANDEZ SENRA, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "CAO SANCHEZ, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "RODRIGUEZ TEIJEIRO, MARCO ANTONIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "PATIÑO GOMEZ, IVAN",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "AMBOADE ALVAREZ, BRAIS",
+  "titulares_local": [
+    "PEREZ GONZALEZ, IVAN",
+    "FERNANDEZ CEREZO, MARCO",
+    "TOUCEDO RODRIGUEZ, GUILLERMO",
+    "NUÑEZ GARCIA, HUGO",
+    "NOGUEIRA LAMA, JORGE",
+    "RUA CARRO, SERGIO",
+    "MOURULLO ESCUDERO, HUGO",
+    "AGUILAR PEREZ, IAGO",
+    "VALLE RIVAS, SAMUEL",
+    "PEREZ MARTINEZ, BRAIS",
+    "OJEA MARTINEZ, PEDRO"
+  ],
+  "titulares_visitante": [
+    "CURTO MIRANDA, ADRIAN",
+    "ALVAREZ SERBAN, MARIO",
+    "OJEA DA SILVEIRA, JULIAN ALEJANDRO",
+    "VILAS PARAPAR, EDER",
+    "CONCHEIRO DÁVILA, MAEL",
+    "CARIDAD MARIÑAS, PABLO",
+    "BENITO GOMEZ, GUILLERMO",
+    "TRILLO ABELLEIRA, JOEL",
+    "BAAMONDE FERREIRO, NICOLAS",
+    "PREGO PENA, ERIC",
+    "GARCIA PAIS, ISMAEL"
+  ],
+  "suplentes_local": [
+    "MORALES REY, RODRIGO",
+    "FERNANDEZ SENRA, PABLO",
+    "GONZALEZ CID, LUCAS",
+    "SANTOS MOURO, SERGIO",
+    "RIAL HERMELO, ALEXANDRE",
+    "CAO SANCHEZ, NICOLAS",
+    "PADIN GONZALEZ, BRUNO"
+  ],
+  "suplentes_visitante": [
+    "DASILVA GOMEZ, PABLO",
+    "DURAN LEON, GABRIEL ALEJANDRO",
+    "MURCIEGO DIAZ, GORKA",
+    "SUAREZ GARCIA, ANXO",
+    "GARRIDO PEREZ, ADRIAN",
+    "RAMOS RODRIGUEZ, MATEO",
+    "YAHIAOUI, ELYAS"
+  ],
+  "convocados_sin_jugar_local": [
+    "MORALES REY, RODRIGO",
+    "RIAL HERMELO, ALEXANDRE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DASILVA GOMEZ, PABLO",
+    "GARRIDO PEREZ, ADRIAN"
+  ],
+  "jugadores_local": [
+    "PEREZ GONZALEZ, IVAN",
+    "FERNANDEZ CEREZO, MARCO",
+    "TOUCEDO RODRIGUEZ, GUILLERMO",
+    "NUÑEZ GARCIA, HUGO",
+    "NOGUEIRA LAMA, JORGE",
+    "RUA CARRO, SERGIO",
+    "MOURULLO ESCUDERO, HUGO",
+    "AGUILAR PEREZ, IAGO",
+    "VALLE RIVAS, SAMUEL",
+    "PEREZ MARTINEZ, BRAIS",
+    "OJEA MARTINEZ, PEDRO",
+    "CAO SANCHEZ, NICOLAS",
+    "SANTOS MOURO, SERGIO",
+    "FERNANDEZ SENRA, PABLO",
+    "GONZALEZ CID, LUCAS",
+    "PADIN GONZALEZ, BRUNO"
+  ],
+  "jugadores_visitante": [
+    "CURTO MIRANDA, ADRIAN",
+    "ALVAREZ SERBAN, MARIO",
+    "OJEA DA SILVEIRA, JULIAN ALEJANDRO",
+    "VILAS PARAPAR, EDER",
+    "CONCHEIRO DÁVILA, MAEL",
+    "CARIDAD MARIÑAS, PABLO",
+    "BENITO GOMEZ, GUILLERMO",
+    "TRILLO ABELLEIRA, JOEL",
+    "BAAMONDE FERREIRO, NICOLAS",
+    "PREGO PENA, ERIC",
+    "GARCIA PAIS, ISMAEL",
+    "DURAN LEON, GABRIEL ALEJANDRO",
+    "RAMOS RODRIGUEZ, MATEO",
+    "MURCIEGO DIAZ, GORKA",
+    "YAHIAOUI, ELYAS",
+    "SUAREZ GARCIA, ANXO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "CAO SANCHEZ, NICOLAS",
+      "sale": "RUA CARRO, SERGIO"
+    },
+    {
+      "min": 62,
+      "entra": "SANTOS MOURO, SERGIO",
+      "sale": "OJEA MARTINEZ, PEDRO"
+    },
+    {
+      "min": 62,
+      "entra": "FERNANDEZ SENRA, PABLO",
+      "sale": "PEREZ MARTINEZ, BRAIS"
+    },
+    {
+      "min": 70,
+      "entra": "GONZALEZ CID, LUCAS",
+      "sale": "NOGUEIRA LAMA, JORGE"
+    },
+    {
+      "min": 70,
+      "entra": "PADIN GONZALEZ, BRUNO",
+      "sale": "VALLE RIVAS, SAMUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 64,
+      "entra": "DURAN LEON, GABRIEL ALEJANDRO",
+      "sale": "PREGO PENA, ERIC"
+    },
+    {
+      "min": 64,
+      "entra": "RAMOS RODRIGUEZ, MATEO",
+      "sale": "VILAS PARAPAR, EDER"
+    },
+    {
+      "min": 69,
+      "entra": "MURCIEGO DIAZ, GORKA",
+      "sale": "OJEA DA SILVEIRA, JULIAN ALEJANDRO"
+    },
+    {
+      "min": 69,
+      "entra": "YAHIAOUI, ELYAS",
+      "sale": "GARCIA PAIS, ISMAEL"
+    },
+    {
+      "min": 69,
+      "entra": "SUAREZ GARCIA, ANXO",
+      "sale": "CARIDAD MARIÑAS, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ GONZALEZ, IVAN": 90,
+    "FERNANDEZ CEREZO, MARCO": 90,
+    "TOUCEDO RODRIGUEZ, GUILLERMO": 90,
+    "NUÑEZ GARCIA, HUGO": 90,
+    "NOGUEIRA LAMA, JORGE": 70,
+    "RUA CARRO, SERGIO": 36,
+    "MOURULLO ESCUDERO, HUGO": 90,
+    "AGUILAR PEREZ, IAGO": 90,
+    "VALLE RIVAS, SAMUEL": 70,
+    "PEREZ MARTINEZ, BRAIS": 62,
+    "OJEA MARTINEZ, PEDRO": 62,
+    "CURTO MIRANDA, ADRIAN": 90,
+    "ALVAREZ SERBAN, MARIO": 90,
+    "OJEA DA SILVEIRA, JULIAN ALEJANDRO": 69,
+    "VILAS PARAPAR, EDER": 64,
+    "CONCHEIRO DÁVILA, MAEL": 90,
+    "CARIDAD MARIÑAS, PABLO": 69,
+    "BENITO GOMEZ, GUILLERMO": 90,
+    "TRILLO ABELLEIRA, JOEL": 90,
+    "BAAMONDE FERREIRO, NICOLAS": 90,
+    "PREGO PENA, ERIC": 64,
+    "GARCIA PAIS, ISMAEL": 69,
+    "CAO SANCHEZ, NICOLAS": 54,
+    "SANTOS MOURO, SERGIO": 28,
+    "FERNANDEZ SENRA, PABLO": 28,
+    "GONZALEZ CID, LUCAS": 20,
+    "PADIN GONZALEZ, BRUNO": 20,
+    "DURAN LEON, GABRIEL ALEJANDRO": 26,
+    "RAMOS RODRIGUEZ, MATEO": 26,
+    "MURCIEGO DIAZ, GORKA": 21,
+    "YAHIAOUI, ELYAS": 21,
+    "SUAREZ GARCIA, ANXO": 21
+  },
+  "portero_local": "PEREZ GONZALEZ, IVAN",
+  "portero_visitante": "CURTO MIRANDA, ADRIAN",
+  "dorsales_local": {
+    "PEREZ GONZALEZ, IVAN": 1,
+    "FERNANDEZ CEREZO, MARCO": 2,
+    "TOUCEDO RODRIGUEZ, GUILLERMO": 3,
+    "NUÑEZ GARCIA, HUGO": 4,
+    "NOGUEIRA LAMA, JORGE": 5,
+    "RUA CARRO, SERGIO": 6,
+    "MOURULLO ESCUDERO, HUGO": 7,
+    "AGUILAR PEREZ, IAGO": 8,
+    "VALLE RIVAS, SAMUEL": 9,
+    "PEREZ MARTINEZ, BRAIS": 10,
+    "OJEA MARTINEZ, PEDRO": 11
+  },
+  "dorsales_visitante": {
+    "CURTO MIRANDA, ADRIAN": 1,
+    "ALVAREZ SERBAN, MARIO": 2,
+    "OJEA DA SILVEIRA, JULIAN ALEJANDRO": 3,
+    "VILAS PARAPAR, EDER": 4,
+    "CONCHEIRO DÁVILA, MAEL": 5,
+    "CARIDAD MARIÑAS, PABLO": 6,
+    "BENITO GOMEZ, GUILLERMO": 7,
+    "TRILLO ABELLEIRA, JOEL": 8,
+    "BAAMONDE FERREIRO, NICOLAS": 9,
+    "PREGO PENA, ERIC": 10,
+    "GARCIA PAIS, ISMAEL": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
