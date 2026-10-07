@@ -23,73 +23,85 @@
       "minuto": 7,
       "jugador": "ARRAIZ ARANSAY, PABLO",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 10,
       "jugador": "RUIZ OCHAGAVIA, HUGO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 12,
       "jugador": "RUIZ OCHAGAVIA, HUGO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 15,
       "jugador": "GARCIA JAUREGUI, ADRIAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 18,
       "jugador": "RUIZ OCHAGAVIA, HUGO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "GARCIA JAUREGUI, ADRIAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "RUIZ OCHAGAVIA, HUGO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "GOMEZ JALON, DANIEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "RUIZ OCHAGAVIA, HUGO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "GIL OCHAGAVIA, JUAN",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 33,
       "jugador": "PASCUAL MONU, ALVARO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 56,
       "jugador": "RUIZ OCHAGAVIA, HUGO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -185,5 +197,6 @@
     "ARRAIZ ARANSAY, PABLO": 10,
     "ROJAS DEL MORAL, ALEX": 13
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
