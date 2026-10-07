@@ -23,43 +23,50 @@
       "minuto": 10,
       "jugador": "RIOS MONTIEL, JAVIER",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 12,
       "jugador": "URTURI OLIVAN, CHRISTIAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "LANGARICA SIERRA, MARIO",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "RIOS MONTIEL, JAVIER",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 53,
       "jugador": "MOYA LAHOYA, RUBEN A",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 55,
       "jugador": "DEL RIO CUADRA, ADRIAN",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 57,
       "jugador": "MARTINEZ CASADO, JAVIER",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -67,13 +74,6 @@
       "minuto": 20,
       "jugador": "BARBEITO, BRAIAN",
       "equipo": "local",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 20,
-      "jugador": "FUENMAYOR FC",
-      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     }
