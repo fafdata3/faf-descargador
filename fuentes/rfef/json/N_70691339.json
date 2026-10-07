@@ -10,8 +10,8 @@
   "equipo_local": "CITY LADIES F.C.",
   "equipo_visitante": "C.D. LAS FAVELAS BEACH SOCCER",
   "goles_local": 3,
-  "goles_visitante": 2,
-  "resultado": "W",
+  "goles_visitante": 3,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "MENGÍBAR DÉNIZ, NEMROD",
@@ -29,37 +29,43 @@
       "minuto": 5,
       "jugador": "VELAZQUEZ MIRANDA, CRISTINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 15,
       "jugador": "VELAZQUEZ MIRANDA, CRISTINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 16,
       "jugador": "RICO RODRIGUEZ, ELENA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "MARTÍNEZ SÁNCHEZ, JULIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 18,
       "jugador": "VELAZQUEZ MIRANDA, CRISTINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 30,
       "jugador": "MAESE GAITAN, MARIA DEL CARMEN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -250,5 +256,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
