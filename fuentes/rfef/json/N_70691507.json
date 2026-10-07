@@ -29,25 +29,29 @@
       "minuto": 20,
       "jugador": "GOMES FERNANDES, CRISTINA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "MARTIN IGLESIAS, MADDI",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 36,
       "jugador": "LIZCANO VALENCIANO, CLAUDIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 61,
       "jugador": "MARTIN IGLESIAS, MADDI",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -176,7 +180,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": "MARTINS ANDRE, DIOGO",
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "ALONSO TRICIO, JOANNA",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "ALONSO TRICIO, JOANNA",
   "titulares_local": [
@@ -226,25 +230,9 @@
     "ASCENSO ARRAIANO, KARINA MARIE"
   ],
   "convocados_sin_jugar_local": [
-    "LIMPIAS GONZALEZ, NAGORE MAGALI",
-    "BEITIA TREPIANA, OLATZ",
-    "BORDAGARAY CASADO, ANE",
-    "OCHOA DE ERIBE VILLANUEVA, AIALA",
-    "BELZUNCE IRIARTE, INES",
-    "SANTAMARIA HERNANDEZ, ARIXEN",
-    "BELOKI ALBONIGA, JUNE"
+    "BELZUNCE IRIARTE, INES"
   ],
-  "convocados_sin_jugar_visitante": [
-    "DURAN DELGADO, CAROLINA",
-    "DE BRITO PEREIRA BAIAO, EVA",
-    "TAVARES ROLNIK, GABRIELA",
-    "BRANCO INACIO, MARIANA",
-    "MADUREIRA DE ALMEIDA, DIANA AMORIM",
-    "DIDELET NERI PEREIRA, CATARINA DUARTE",
-    "MARIANO EDMUNDO GASPAR, LUANA CHITAO",
-    "DA SILVA DIAS VARELA, INES ALEXANDRA",
-    "ASCENSO ARRAIANO, KARINA MARIE"
-  ],
+  "convocados_sin_jugar_visitante": [],
   "jugadores_local": [
     "FERRAZ IBARRONDO, GOIATZ",
     "FERNANDEZ HERNANDEZ, ENARA",
@@ -256,7 +244,13 @@
     "VALLADARES MESA, MAIALEN",
     "LIZCANO VALENCIANO, CLAUDIA",
     "CADENATO GARCIA, UZURI",
-    "MARTIN IGLESIAS, MADDI"
+    "MARTIN IGLESIAS, MADDI",
+    "LIMPIAS GONZALEZ, NAGORE MAGALI",
+    "BORDAGARAY CASADO, ANE",
+    "BELOKI ALBONIGA, JUNE",
+    "BEITIA TREPIANA, OLATZ",
+    "SANTAMARIA HERNANDEZ, ARIXEN",
+    "OCHOA DE ERIBE VILLANUEVA, AIALA"
   ],
   "jugadores_visitante": [
     "NASCIMENTO MACEDO, SARA MARIA",
@@ -269,33 +263,134 @@
     "BARATA MARQUES ROSA, MATILDE ANTUNES",
     "GONÇALVES DE MATOS, MATILDE",
     "DIDELET NERI PEREIRA, BEATRIZ DUARTE",
-    "GOMES FERNANDES, CRISTINA"
+    "GOMES FERNANDES, CRISTINA",
+    "BRANCO INACIO, MARIANA",
+    "ASCENSO ARRAIANO, KARINA MARIE",
+    "DIDELET NERI PEREIRA, CATARINA DUARTE",
+    "TAVARES ROLNIK, GABRIELA",
+    "DURAN DELGADO, CAROLINA",
+    "MARIANO EDMUNDO GASPAR, LUANA CHITAO",
+    "DE BRITO PEREIRA BAIAO, EVA",
+    "DA SILVA DIAS VARELA, INES ALEXANDRA",
+    "MADUREIRA DE ALMEIDA, DIANA AMORIM"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 28,
+      "entra": "LIMPIAS GONZALEZ, NAGORE MAGALI",
+      "sale": "FERRAZ IBARRONDO, GOIATZ"
+    },
+    {
+      "min": 46,
+      "entra": "BORDAGARAY CASADO, ANE",
+      "sale": "AGUIRRE PEREZ DE ALBENIZ, INES"
+    },
+    {
+      "min": 46,
+      "entra": "BELOKI ALBONIGA, JUNE",
+      "sale": "FERNANDEZ EXPOSITO, ALIZA"
+    },
+    {
+      "min": 46,
+      "entra": "BEITIA TREPIANA, OLATZ",
+      "sale": "CIECIERSKA, VICTORIA"
+    },
+    {
+      "min": 67,
+      "entra": "SANTAMARIA HERNANDEZ, ARIXEN",
+      "sale": "OLIVA ALONSO, AINHOA"
+    },
+    {
+      "min": 67,
+      "entra": "OCHOA DE ERIBE VILLANUEVA, AIALA",
+      "sale": "LIZCANO VALENCIANO, CLAUDIA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "BRANCO INACIO, MARIANA",
+      "sale": "NASCIMENTO MACEDO, SARA MARIA"
+    },
+    {
+      "min": 55,
+      "entra": "ASCENSO ARRAIANO, KARINA MARIE",
+      "sale": "BARATA MARQUES ROSA, MATILDE ANTUNES"
+    },
+    {
+      "min": 55,
+      "entra": "DIDELET NERI PEREIRA, CATARINA DUARTE",
+      "sale": "MARGARIDA HORTA MARQUES, ANA"
+    },
+    {
+      "min": 55,
+      "entra": "TAVARES ROLNIK, GABRIELA",
+      "sale": "BEATRIZ GUERREIRO, SOFIA"
+    },
+    {
+      "min": 65,
+      "entra": "DURAN DELGADO, CAROLINA",
+      "sale": "ANDRES-LUNA SCHÄFER, ARIANA"
+    },
+    {
+      "min": 69,
+      "entra": "MARIANO EDMUNDO GASPAR, LUANA CHITAO",
+      "sale": "ALMEIDA MARTINS LOUÇAO, MADALENA"
+    },
+    {
+      "min": 69,
+      "entra": "DE BRITO PEREIRA BAIAO, EVA",
+      "sale": "GONÇALVES DE MATOS, MATILDE"
+    },
+    {
+      "min": 69,
+      "entra": "DA SILVA DIAS VARELA, INES ALEXANDRA",
+      "sale": "MONTEIRO SARAIVA, IARA"
+    },
+    {
+      "min": 69,
+      "entra": "MADUREIRA DE ALMEIDA, DIANA AMORIM",
+      "sale": "GOMES FERNANDES, CRISTINA"
+    }
+  ],
   "minutos_jugadores": {
-    "FERRAZ IBARRONDO, GOIATZ": 90,
+    "FERRAZ IBARRONDO, GOIATZ": 28,
     "FERNANDEZ HERNANDEZ, ENARA": 90,
-    "OLIVA ALONSO, AINHOA": 90,
-    "CIECIERSKA, VICTORIA": 90,
-    "AGUIRRE PEREZ DE ALBENIZ, INES": 90,
-    "FERNANDEZ EXPOSITO, ALIZA": 90,
+    "OLIVA ALONSO, AINHOA": 67,
+    "CIECIERSKA, VICTORIA": 46,
+    "AGUIRRE PEREZ DE ALBENIZ, INES": 46,
+    "FERNANDEZ EXPOSITO, ALIZA": 46,
     "ORTEGA RUIZ, MARIA": 90,
     "VALLADARES MESA, MAIALEN": 90,
-    "LIZCANO VALENCIANO, CLAUDIA": 90,
+    "LIZCANO VALENCIANO, CLAUDIA": 67,
     "CADENATO GARCIA, UZURI": 90,
     "MARTIN IGLESIAS, MADDI": 90,
-    "NASCIMENTO MACEDO, SARA MARIA": 90,
-    "BEATRIZ GUERREIRO, SOFIA": 90,
+    "NASCIMENTO MACEDO, SARA MARIA": 36,
+    "BEATRIZ GUERREIRO, SOFIA": 55,
     "DE MATOS VITORINO, RAQUEL": 90,
-    "ANDRES-LUNA SCHÄFER, ARIANA": 90,
-    "MARGARIDA HORTA MARQUES, ANA": 90,
-    "MONTEIRO SARAIVA, IARA": 90,
-    "ALMEIDA MARTINS LOUÇAO, MADALENA": 90,
-    "BARATA MARQUES ROSA, MATILDE ANTUNES": 90,
-    "GONÇALVES DE MATOS, MATILDE": 90,
+    "ANDRES-LUNA SCHÄFER, ARIANA": 65,
+    "MARGARIDA HORTA MARQUES, ANA": 55,
+    "MONTEIRO SARAIVA, IARA": 69,
+    "ALMEIDA MARTINS LOUÇAO, MADALENA": 69,
+    "BARATA MARQUES ROSA, MATILDE ANTUNES": 55,
+    "GONÇALVES DE MATOS, MATILDE": 69,
     "DIDELET NERI PEREIRA, BEATRIZ DUARTE": 90,
-    "GOMES FERNANDES, CRISTINA": 90
+    "GOMES FERNANDES, CRISTINA": 69,
+    "LIMPIAS GONZALEZ, NAGORE MAGALI": 62,
+    "BORDAGARAY CASADO, ANE": 44,
+    "BELOKI ALBONIGA, JUNE": 44,
+    "BEITIA TREPIANA, OLATZ": 44,
+    "SANTAMARIA HERNANDEZ, ARIXEN": 23,
+    "OCHOA DE ERIBE VILLANUEVA, AIALA": 23,
+    "BRANCO INACIO, MARIANA": 54,
+    "ASCENSO ARRAIANO, KARINA MARIE": 35,
+    "DIDELET NERI PEREIRA, CATARINA DUARTE": 35,
+    "TAVARES ROLNIK, GABRIELA": 35,
+    "DURAN DELGADO, CAROLINA": 25,
+    "MARIANO EDMUNDO GASPAR, LUANA CHITAO": 21,
+    "DE BRITO PEREIRA BAIAO, EVA": 21,
+    "DA SILVA DIAS VARELA, INES ALEXANDRA": 21,
+    "MADUREIRA DE ALMEIDA, DIANA AMORIM": 21
   },
   "portero_local": "FERRAZ IBARRONDO, GOIATZ",
   "portero_visitante": "NASCIMENTO MACEDO, SARA MARIA",
