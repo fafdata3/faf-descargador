@@ -1,0 +1,255 @@
+{
+  "acta_id": "B_9974369",
+  "filename": "Acta_B_9974369.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 10,
+  "fecha": "20-12-2025",
+  "hora": "12:30",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 1)",
+  "equipo_local": "SOPUERTA",
+  "equipo_visitante": "SANTURTZI B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "VARONA SANCHEZ, ANDEKA"
+  ],
+  "estadio": "SANTA ANA",
+  "ciudad": "Sopuerta",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "PEREZ RUIZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "VALBUENA GARCIA, ABEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "MARTINEZ VIDAL, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 73,
+      "jugador": "PEREZ LOPEZ, JULEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ORTUZAR UNIBASO, XABIER",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERRAZ OCHAGAVIA, IÑIGO FELIPE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERRAZ OCHAGAVIA, IÑIGO FELIPE",
+  "delegado_equipo_visitante": "MARTIN LORENZO, IKER",
+  "titulares_local": [
+    "ANTÓN RANERO, ARIEL",
+    "AIAD NOCEDAL, HAKIM",
+    "LILLO ANTA, ALEJANDRO",
+    "ETXEBARRIETA ANTÓN, XABIER",
+    "PEREZ RUIZ, ALVARO",
+    "GARMA MORIYON, ALAIN",
+    "MARTINEZ SARATXAGA, ANDER",
+    "DOMINGUEZ TELLITU, AIMAR",
+    "MARTIN SEGURA, ASIER",
+    "SANTOS RUSZCZYNSKA, ALVARO",
+    "GARAY LÓPEZ , LANDER"
+  ],
+  "titulares_visitante": [
+    "SEGURA TEJADA, MIKEL",
+    "GONZÁLEZ BLANCO, UGAITZ",
+    "BEZARES GUERRA, MARKEL",
+    "ORTIZ ORTIZ, IBAI",
+    "VALBUENA GARCIA, ABEL",
+    "MARTINEZ VIDAL, HUGO",
+    "ALVAREZ VILLA, URDAX",
+    "MACIAS ISPIERTO, UNAI",
+    "VAZQUEZ MONROY, SERGIO",
+    "CALVO GARCIA, ANDER",
+    "ALVAREZ GARCIA, JULEN"
+  ],
+  "suplentes_local": [
+    "ROZAS MARTÍNEZ , OINATZ",
+    "CANALES IRANZO, ANER",
+    "PEREZ ORTIZ, ERLANTZ",
+    "LAHERA CABANILLAS, DIEGO",
+    "IBARRONDO RUA, IBAI",
+    "LABRADOR VELEZ, ENEKO",
+    "ORTEGA MARTIN, UNAI"
+  ],
+  "suplentes_visitante": [
+    "VAZQUEZ GARCIA, MARKEL",
+    "QUINTANILLA ROPERO, HARKAITZ",
+    "BERRIOS GUERRERO, IKER",
+    "GASCON ANSEDE, MIKEL",
+    "PEREZ LOPEZ, JULEN",
+    "MARTINEZ MARTIN, UNAI",
+    "FREIJO HERRERO, HUGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "ROZAS MARTÍNEZ , OINATZ",
+    "CANALES IRANZO, ANER",
+    "LABRADOR VELEZ, ENEKO",
+    "ORTEGA MARTIN, UNAI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "VAZQUEZ GARCIA, MARKEL",
+    "BERRIOS GUERRERO, IKER"
+  ],
+  "jugadores_local": [
+    "ANTÓN RANERO, ARIEL",
+    "AIAD NOCEDAL, HAKIM",
+    "LILLO ANTA, ALEJANDRO",
+    "ETXEBARRIETA ANTÓN, XABIER",
+    "PEREZ RUIZ, ALVARO",
+    "GARMA MORIYON, ALAIN",
+    "MARTINEZ SARATXAGA, ANDER",
+    "DOMINGUEZ TELLITU, AIMAR",
+    "MARTIN SEGURA, ASIER",
+    "SANTOS RUSZCZYNSKA, ALVARO",
+    "GARAY LÓPEZ , LANDER",
+    "LAHERA CABANILLAS, DIEGO",
+    "IBARRONDO RUA, IBAI",
+    "PEREZ ORTIZ, ERLANTZ"
+  ],
+  "jugadores_visitante": [
+    "SEGURA TEJADA, MIKEL",
+    "GONZÁLEZ BLANCO, UGAITZ",
+    "BEZARES GUERRA, MARKEL",
+    "ORTIZ ORTIZ, IBAI",
+    "VALBUENA GARCIA, ABEL",
+    "MARTINEZ VIDAL, HUGO",
+    "ALVAREZ VILLA, URDAX",
+    "MACIAS ISPIERTO, UNAI",
+    "VAZQUEZ MONROY, SERGIO",
+    "CALVO GARCIA, ANDER",
+    "ALVAREZ GARCIA, JULEN",
+    "QUINTANILLA ROPERO, HARKAITZ",
+    "PEREZ LOPEZ, JULEN",
+    "FREIJO HERRERO, HUGO",
+    "MARTINEZ MARTIN, UNAI",
+    "GASCON ANSEDE, MIKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "LAHERA CABANILLAS, DIEGO",
+      "sale": "SANTOS RUSZCZYNSKA, ALVARO"
+    },
+    {
+      "min": 68,
+      "entra": "IBARRONDO RUA, IBAI",
+      "sale": "GARAY LÓPEZ , LANDER"
+    },
+    {
+      "min": 77,
+      "entra": "PEREZ ORTIZ, ERLANTZ",
+      "sale": "LILLO ANTA, ALEJANDRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "QUINTANILLA ROPERO, HARKAITZ",
+      "sale": "MACIAS ISPIERTO, UNAI"
+    },
+    {
+      "min": 40,
+      "entra": "PEREZ LOPEZ, JULEN",
+      "sale": "VALBUENA GARCIA, ABEL"
+    },
+    {
+      "min": 64,
+      "entra": "FREIJO HERRERO, HUGO",
+      "sale": "ORTIZ ORTIZ, IBAI"
+    },
+    {
+      "min": 72,
+      "entra": "MARTINEZ MARTIN, UNAI",
+      "sale": "MARTINEZ VIDAL, HUGO"
+    },
+    {
+      "min": 77,
+      "entra": "GASCON ANSEDE, MIKEL",
+      "sale": "ALVAREZ VILLA, URDAX"
+    }
+  ],
+  "minutos_jugadores": {
+    "ANTÓN RANERO, ARIEL": 90,
+    "AIAD NOCEDAL, HAKIM": 90,
+    "LILLO ANTA, ALEJANDRO": 77,
+    "ETXEBARRIETA ANTÓN, XABIER": 90,
+    "PEREZ RUIZ, ALVARO": 90,
+    "GARMA MORIYON, ALAIN": 90,
+    "MARTINEZ SARATXAGA, ANDER": 90,
+    "DOMINGUEZ TELLITU, AIMAR": 90,
+    "MARTIN SEGURA, ASIER": 90,
+    "SANTOS RUSZCZYNSKA, ALVARO": 60,
+    "GARAY LÓPEZ , LANDER": 68,
+    "LAHERA CABANILLAS, DIEGO": 30,
+    "IBARRONDO RUA, IBAI": 22,
+    "PEREZ ORTIZ, ERLANTZ": 13,
+    "SEGURA TEJADA, MIKEL": 90,
+    "GONZÁLEZ BLANCO, UGAITZ": 90,
+    "BEZARES GUERRA, MARKEL": 90,
+    "ORTIZ ORTIZ, IBAI": 64,
+    "VALBUENA GARCIA, ABEL": 40,
+    "MARTINEZ VIDAL, HUGO": 72,
+    "ALVAREZ VILLA, URDAX": 77,
+    "MACIAS ISPIERTO, UNAI": 40,
+    "VAZQUEZ MONROY, SERGIO": 90,
+    "CALVO GARCIA, ANDER": 90,
+    "ALVAREZ GARCIA, JULEN": 90,
+    "QUINTANILLA ROPERO, HARKAITZ": 50,
+    "PEREZ LOPEZ, JULEN": 50,
+    "FREIJO HERRERO, HUGO": 26,
+    "MARTINEZ MARTIN, UNAI": 18,
+    "GASCON ANSEDE, MIKEL": 13
+  },
+  "portero_local": "ANTÓN RANERO, ARIEL",
+  "portero_visitante": "SEGURA TEJADA, MIKEL",
+  "dorsales_local": {
+    "ANTÓN RANERO, ARIEL": 13,
+    "AIAD NOCEDAL, HAKIM": 4,
+    "LILLO ANTA, ALEJANDRO": 5,
+    "ETXEBARRIETA ANTÓN, XABIER": 6,
+    "PEREZ RUIZ, ALVARO": 7,
+    "GARMA MORIYON, ALAIN": 8,
+    "MARTINEZ SARATXAGA, ANDER": 10,
+    "DOMINGUEZ TELLITU, AIMAR": 12,
+    "MARTIN SEGURA, ASIER": 15,
+    "SANTOS RUSZCZYNSKA, ALVARO": 21,
+    "GARAY LÓPEZ , LANDER": 25
+  },
+  "dorsales_visitante": {
+    "SEGURA TEJADA, MIKEL": 1,
+    "GONZÁLEZ BLANCO, UGAITZ": 4,
+    "BEZARES GUERRA, MARKEL": 6,
+    "ORTIZ ORTIZ, IBAI": 11,
+    "VALBUENA GARCIA, ABEL": 14,
+    "MARTINEZ VIDAL, HUGO": 16,
+    "ALVAREZ VILLA, URDAX": 18,
+    "MACIAS ISPIERTO, UNAI": 19,
+    "VAZQUEZ MONROY, SERGIO": 20,
+    "CALVO GARCIA, ANDER": 21,
+    "ALVAREZ GARCIA, JULEN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
