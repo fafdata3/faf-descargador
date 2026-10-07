@@ -1,0 +1,282 @@
+{
+  "acta_id": "B_9974624",
+  "filename": "Acta_B_9974624.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 20,
+  "fecha": "08-03-2026",
+  "hora": "16:00",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 2)",
+  "equipo_local": "GOIZTIRI",
+  "equipo_visitante": "ALBERRI",
+  "goles_local": 4,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "MENDEZ TARRIÑO, ASIER"
+  ],
+  "estadio": "SAN JORGE",
+  "ciudad": "Santurtzi",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "MARTINEZ ALAMO, ASIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 11,
+      "jugador": "MARTINEZ ALAMO, ASIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "FERNÁNDEZ PÁRAMO, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "MONTERO ROLDAN, JULEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "MONTERO ROLDAN, JULEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 81,
+      "jugador": "DOSUNA BERNAL, LANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 25,
+      "jugador": "PEREZ CASTAÑEDA, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "LAZCANO HERNANDO, IBAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "IZKARA LOPEZDEMENDOZA, KOLDO",
+  "entrenador_visitante": "SANGINES BARRERAS, URKO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RUIZ GARCIA, IBAI",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RUIZ GARCIA, IBAI",
+  "delegado_equipo_visitante": "MELENDEZ ARRINDA, GAIZKA",
+  "titulares_local": [
+    "ORTIZ DE JIMENEZ SANCHEZ, EDORTA",
+    "AUDU ALBISU, DAVID",
+    "GONZALEZ DEL RIO, ARATZ",
+    "DE LA QUINTANA SANCHEZ, ANER",
+    "PEREZ CASTAÑEDA, MARKEL",
+    "RESCO DE PONGA, BEÑAT",
+    "ANTA BUESO, LIHER",
+    "VIVANCO HERNANDEZ, MIKEL",
+    "MARTINEZ ALAMO, ASIER",
+    "LOPEZ ARRIBAS, BEÑAT",
+    "MONTERO ROLDAN, JULEN"
+  ],
+  "titulares_visitante": [
+    "ARTEAGA DOUEIL, JON",
+    "FERNÁNDEZ PÁRAMO, OIER",
+    "LOPEZ BLANCO, JUAN",
+    "MARAÑA KINTANA, BEÑAT",
+    "PREGUNTEGI FERNÁNDEZ, ARATZ",
+    "DOSUNA BERNAL, LANDER",
+    "SARRIA MARTINEZ, PEIO",
+    "LAZCANO HERNANDO, IBAI",
+    "CORRAL FERREÑO, ENEKO",
+    "QUINTANA GONZALEZ, JON",
+    "SANCHEZ DOBLAS, JOEL"
+  ],
+  "suplentes_local": [
+    "LEIVA LOPEZ, EKAIN",
+    "CABALLERO FERNANDEZ, MATIAS RICARDO",
+    "ROMAN DE LA IGLESIA, BEÑAT",
+    "VALLE MUÑOZ, AIMAR",
+    "REYES MARTINEZ, JAGOBA",
+    "MARTIN GARCIA, IZAN"
+  ],
+  "suplentes_visitante": [
+    "ASTORECA CEREZO, OIER",
+    "MTALAA, HAROUN",
+    "BOLAÑO PADRONES, GAIZKA",
+    "PÉREZ SANMIGUEL, IZAN",
+    "AGUADO ZABALA, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "LEIVA LOPEZ, EKAIN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ASTORECA CEREZO, OIER"
+  ],
+  "jugadores_local": [
+    "ORTIZ DE JIMENEZ SANCHEZ, EDORTA",
+    "AUDU ALBISU, DAVID",
+    "GONZALEZ DEL RIO, ARATZ",
+    "DE LA QUINTANA SANCHEZ, ANER",
+    "PEREZ CASTAÑEDA, MARKEL",
+    "RESCO DE PONGA, BEÑAT",
+    "ANTA BUESO, LIHER",
+    "VIVANCO HERNANDEZ, MIKEL",
+    "MARTINEZ ALAMO, ASIER",
+    "LOPEZ ARRIBAS, BEÑAT",
+    "MONTERO ROLDAN, JULEN",
+    "CABALLERO FERNANDEZ, MATIAS RICARDO",
+    "VALLE MUÑOZ, AIMAR",
+    "REYES MARTINEZ, JAGOBA",
+    "ROMAN DE LA IGLESIA, BEÑAT",
+    "MARTIN GARCIA, IZAN"
+  ],
+  "jugadores_visitante": [
+    "ARTEAGA DOUEIL, JON",
+    "FERNÁNDEZ PÁRAMO, OIER",
+    "LOPEZ BLANCO, JUAN",
+    "MARAÑA KINTANA, BEÑAT",
+    "PREGUNTEGI FERNÁNDEZ, ARATZ",
+    "DOSUNA BERNAL, LANDER",
+    "SARRIA MARTINEZ, PEIO",
+    "LAZCANO HERNANDO, IBAI",
+    "CORRAL FERREÑO, ENEKO",
+    "QUINTANA GONZALEZ, JON",
+    "SANCHEZ DOBLAS, JOEL",
+    "AGUADO ZABALA, JON",
+    "PÉREZ SANMIGUEL, IZAN",
+    "MTALAA, HAROUN",
+    "BOLAÑO PADRONES, GAIZKA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "CABALLERO FERNANDEZ, MATIAS RICARDO",
+      "sale": "ANTA BUESO, LIHER"
+    },
+    {
+      "min": 53,
+      "entra": "VALLE MUÑOZ, AIMAR",
+      "sale": "MARTINEZ ALAMO, ASIER"
+    },
+    {
+      "min": 53,
+      "entra": "REYES MARTINEZ, JAGOBA",
+      "sale": "AUDU ALBISU, DAVID"
+    },
+    {
+      "min": 62,
+      "entra": "ROMAN DE LA IGLESIA, BEÑAT",
+      "sale": "LOPEZ ARRIBAS, BEÑAT"
+    },
+    {
+      "min": 62,
+      "entra": "MARTIN GARCIA, IZAN",
+      "sale": "PEREZ CASTAÑEDA, MARKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "AGUADO ZABALA, JON",
+      "sale": "MARAÑA KINTANA, BEÑAT"
+    },
+    {
+      "min": 40,
+      "entra": "PÉREZ SANMIGUEL, IZAN",
+      "sale": "LOPEZ BLANCO, JUAN"
+    },
+    {
+      "min": 50,
+      "entra": "MTALAA, HAROUN",
+      "sale": "PREGUNTEGI FERNÁNDEZ, ARATZ"
+    },
+    {
+      "min": 60,
+      "entra": "BOLAÑO PADRONES, GAIZKA",
+      "sale": "QUINTANA GONZALEZ, JON"
+    }
+  ],
+  "minutos_jugadores": {
+    "ORTIZ DE JIMENEZ SANCHEZ, EDORTA": 90,
+    "AUDU ALBISU, DAVID": 53,
+    "GONZALEZ DEL RIO, ARATZ": 90,
+    "DE LA QUINTANA SANCHEZ, ANER": 90,
+    "PEREZ CASTAÑEDA, MARKEL": 62,
+    "RESCO DE PONGA, BEÑAT": 90,
+    "ANTA BUESO, LIHER": 40,
+    "VIVANCO HERNANDEZ, MIKEL": 90,
+    "MARTINEZ ALAMO, ASIER": 53,
+    "LOPEZ ARRIBAS, BEÑAT": 62,
+    "MONTERO ROLDAN, JULEN": 90,
+    "CABALLERO FERNANDEZ, MATIAS RICARDO": 50,
+    "VALLE MUÑOZ, AIMAR": 37,
+    "REYES MARTINEZ, JAGOBA": 37,
+    "ROMAN DE LA IGLESIA, BEÑAT": 28,
+    "MARTIN GARCIA, IZAN": 28,
+    "ARTEAGA DOUEIL, JON": 90,
+    "FERNÁNDEZ PÁRAMO, OIER": 90,
+    "LOPEZ BLANCO, JUAN": 40,
+    "MARAÑA KINTANA, BEÑAT": 40,
+    "PREGUNTEGI FERNÁNDEZ, ARATZ": 50,
+    "DOSUNA BERNAL, LANDER": 90,
+    "SARRIA MARTINEZ, PEIO": 90,
+    "LAZCANO HERNANDO, IBAI": 90,
+    "CORRAL FERREÑO, ENEKO": 90,
+    "QUINTANA GONZALEZ, JON": 60,
+    "SANCHEZ DOBLAS, JOEL": 90,
+    "AGUADO ZABALA, JON": 50,
+    "PÉREZ SANMIGUEL, IZAN": 50,
+    "MTALAA, HAROUN": 40,
+    "BOLAÑO PADRONES, GAIZKA": 30
+  },
+  "portero_local": "ORTIZ DE JIMENEZ SANCHEZ, EDORTA",
+  "portero_visitante": "ARTEAGA DOUEIL, JON",
+  "dorsales_local": {
+    "ORTIZ DE JIMENEZ SANCHEZ, EDORTA": 13,
+    "AUDU ALBISU, DAVID": 2,
+    "GONZALEZ DEL RIO, ARATZ": 4,
+    "DE LA QUINTANA SANCHEZ, ANER": 5,
+    "PEREZ CASTAÑEDA, MARKEL": 6,
+    "RESCO DE PONGA, BEÑAT": 7,
+    "ANTA BUESO, LIHER": 8,
+    "VIVANCO HERNANDEZ, MIKEL": 9,
+    "MARTINEZ ALAMO, ASIER": 12,
+    "LOPEZ ARRIBAS, BEÑAT": 17,
+    "MONTERO ROLDAN, JULEN": 18
+  },
+  "dorsales_visitante": {
+    "ARTEAGA DOUEIL, JON": 13,
+    "FERNÁNDEZ PÁRAMO, OIER": 2,
+    "LOPEZ BLANCO, JUAN": 4,
+    "MARAÑA KINTANA, BEÑAT": 7,
+    "PREGUNTEGI FERNÁNDEZ, ARATZ": 8,
+    "DOSUNA BERNAL, LANDER": 9,
+    "SARRIA MARTINEZ, PEIO": 10,
+    "LAZCANO HERNANDO, IBAI": 12,
+    "CORRAL FERREÑO, ENEKO": 16,
+    "QUINTANA GONZALEZ, JON": 17,
+    "SANCHEZ DOBLAS, JOEL": 18
+  },
+  "suspendidos": []
+}
