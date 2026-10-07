@@ -1,0 +1,213 @@
+{
+  "acta_id": "B_9974442",
+  "filename": "Acta_B_9974442.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 20,
+  "fecha": "07-03-2026",
+  "hora": "18:00",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 1)",
+  "equipo_local": "KARRANTZA",
+  "equipo_visitante": "DINAMO SAN JUAN A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "GOMEZ MARTINEZ, ALEX"
+  ],
+  "estadio": "BALANDRAN",
+  "ciudad": "Karrantza Harana",
+  "goleadores": [
+    {
+      "minuto": 79,
+      "jugador": "ALICANTE RODRIGUEZ, UGAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 9,
+      "jugador": "ELETXIGERRA MANRIQUE, AMETS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "SAN MARTIN RAFAEL, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PALACIO OTZA, BORJA",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ OLAZABAL, MARIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ULIBARRI EDESA, IKER",
+  "delegado_equipo_visitante": "LOPEZ LOPERA, ELLERY",
+  "titulares_local": [
+    "GARCIA MARTIN, UNAX",
+    "CRUZ TORRES, DANNIS LEONEL",
+    "BENGOCHEA LESMES, JON",
+    "SAN MARTIN RAFAEL, UNAI",
+    "ELETXIGERRA MANRIQUE, AMETS",
+    "BEN ITTO, BRAHIM",
+    "AÑIBARRO ORCASITAS, KERMAN",
+    "IRANZO PEÑA, AIEKO",
+    "LAZARO SANTISTEBAN, EKAITZ",
+    "PALACIO GARCIA, UNAI",
+    "RODRIGUEZ IRASTORZA, ADEI"
+  ],
+  "titulares_visitante": [
+    "RELIEGOS FERNANDEZ, ALEJANDRO",
+    "MUR HERNANDEZ, GAEL",
+    "GIL MORENO, ANDER",
+    "GOMEZ GONZALEZ, OIER",
+    "MARTIN GONZALEZ, KIMETZ",
+    "BEN NACEUR BEN NACEUR, OUALID",
+    "MENA BERMEJO, AARÓN",
+    "GARCIA IGLESIAS, ELEDER",
+    "REMESAL BERROCAL, HELDAI",
+    "AZPILLAGA BLANCO, OIER",
+    "LOPEZ MARTINEZ, OINATZ"
+  ],
+  "suplentes_local": [
+    "ZULUETA ARAS, EGOITZ",
+    "GAROÑA CARRANZA, ANDER",
+    "ALICANTE RODRIGUEZ, UGAITZ"
+  ],
+  "suplentes_visitante": [
+    "JIN, YUZE",
+    "BECERRA BALLESTERO, ENAITZ",
+    "ECHANIZ PAREDES, BEÑAT"
+  ],
+  "convocados_sin_jugar_local": [
+    "ZULUETA ARAS, EGOITZ"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GARCIA MARTIN, UNAX",
+    "CRUZ TORRES, DANNIS LEONEL",
+    "BENGOCHEA LESMES, JON",
+    "SAN MARTIN RAFAEL, UNAI",
+    "ELETXIGERRA MANRIQUE, AMETS",
+    "BEN ITTO, BRAHIM",
+    "AÑIBARRO ORCASITAS, KERMAN",
+    "IRANZO PEÑA, AIEKO",
+    "LAZARO SANTISTEBAN, EKAITZ",
+    "PALACIO GARCIA, UNAI",
+    "RODRIGUEZ IRASTORZA, ADEI",
+    "GAROÑA CARRANZA, ANDER",
+    "ALICANTE RODRIGUEZ, UGAITZ"
+  ],
+  "jugadores_visitante": [
+    "RELIEGOS FERNANDEZ, ALEJANDRO",
+    "MUR HERNANDEZ, GAEL",
+    "GIL MORENO, ANDER",
+    "GOMEZ GONZALEZ, OIER",
+    "MARTIN GONZALEZ, KIMETZ",
+    "BEN NACEUR BEN NACEUR, OUALID",
+    "MENA BERMEJO, AARÓN",
+    "GARCIA IGLESIAS, ELEDER",
+    "REMESAL BERROCAL, HELDAI",
+    "AZPILLAGA BLANCO, OIER",
+    "LOPEZ MARTINEZ, OINATZ",
+    "BECERRA BALLESTERO, ENAITZ",
+    "ECHANIZ PAREDES, BEÑAT",
+    "JIN, YUZE"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "GAROÑA CARRANZA, ANDER",
+      "sale": "BENGOCHEA LESMES, JON"
+    },
+    {
+      "min": 50,
+      "entra": "ALICANTE RODRIGUEZ, UGAITZ",
+      "sale": "CRUZ TORRES, DANNIS LEONEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "BECERRA BALLESTERO, ENAITZ",
+      "sale": "GARCIA IGLESIAS, ELEDER"
+    },
+    {
+      "min": 58,
+      "entra": "ECHANIZ PAREDES, BEÑAT",
+      "sale": "MARTIN GONZALEZ, KIMETZ"
+    },
+    {
+      "min": 76,
+      "entra": "JIN, YUZE",
+      "sale": "AZPILLAGA BLANCO, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA MARTIN, UNAX": 90,
+    "CRUZ TORRES, DANNIS LEONEL": 50,
+    "BENGOCHEA LESMES, JON": 46,
+    "SAN MARTIN RAFAEL, UNAI": 90,
+    "ELETXIGERRA MANRIQUE, AMETS": 90,
+    "BEN ITTO, BRAHIM": 90,
+    "AÑIBARRO ORCASITAS, KERMAN": 90,
+    "IRANZO PEÑA, AIEKO": 90,
+    "LAZARO SANTISTEBAN, EKAITZ": 90,
+    "PALACIO GARCIA, UNAI": 90,
+    "RODRIGUEZ IRASTORZA, ADEI": 90,
+    "GAROÑA CARRANZA, ANDER": 44,
+    "ALICANTE RODRIGUEZ, UGAITZ": 40,
+    "RELIEGOS FERNANDEZ, ALEJANDRO": 90,
+    "MUR HERNANDEZ, GAEL": 90,
+    "GIL MORENO, ANDER": 90,
+    "GOMEZ GONZALEZ, OIER": 90,
+    "MARTIN GONZALEZ, KIMETZ": 58,
+    "BEN NACEUR BEN NACEUR, OUALID": 90,
+    "MENA BERMEJO, AARÓN": 90,
+    "GARCIA IGLESIAS, ELEDER": 50,
+    "REMESAL BERROCAL, HELDAI": 90,
+    "AZPILLAGA BLANCO, OIER": 76,
+    "LOPEZ MARTINEZ, OINATZ": 90,
+    "BECERRA BALLESTERO, ENAITZ": 40,
+    "ECHANIZ PAREDES, BEÑAT": 32,
+    "JIN, YUZE": 14
+  },
+  "portero_local": "GARCIA MARTIN, UNAX",
+  "portero_visitante": "RELIEGOS FERNANDEZ, ALEJANDRO",
+  "dorsales_local": {
+    "GARCIA MARTIN, UNAX": 13,
+    "CRUZ TORRES, DANNIS LEONEL": 2,
+    "BENGOCHEA LESMES, JON": 3,
+    "SAN MARTIN RAFAEL, UNAI": 5,
+    "ELETXIGERRA MANRIQUE, AMETS": 6,
+    "BEN ITTO, BRAHIM": 7,
+    "AÑIBARRO ORCASITAS, KERMAN": 8,
+    "IRANZO PEÑA, AIEKO": 9,
+    "LAZARO SANTISTEBAN, EKAITZ": 16,
+    "PALACIO GARCIA, UNAI": 21,
+    "RODRIGUEZ IRASTORZA, ADEI": 22
+  },
+  "dorsales_visitante": {
+    "RELIEGOS FERNANDEZ, ALEJANDRO": 13,
+    "MUR HERNANDEZ, GAEL": 2,
+    "GIL MORENO, ANDER": 4,
+    "GOMEZ GONZALEZ, OIER": 5,
+    "MARTIN GONZALEZ, KIMETZ": 7,
+    "BEN NACEUR BEN NACEUR, OUALID": 8,
+    "MENA BERMEJO, AARÓN": 10,
+    "GARCIA IGLESIAS, ELEDER": 17,
+    "REMESAL BERROCAL, HELDAI": 18,
+    "AZPILLAGA BLANCO, OIER": 20,
+    "LOPEZ MARTINEZ, OINATZ": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
