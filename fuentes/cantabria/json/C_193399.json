@@ -1,0 +1,244 @@
+{
+  "acta_id": "C_193399",
+  "filename": "Acta_C_193399.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "09-11-2024",
+  "hora": "11:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. COLINDRES A",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SISNIEGA SOL, IVAN"
+  ],
+  "estadio": "Colindres",
+  "ciudad": "Colindres",
+  "goleadores": [
+    {
+      "minuto": 29,
+      "jugador": "MARTINEZ GARCIA, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "MARTINEZ GARCIA, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "MARTINEZ GARCIA, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "ABASCAL ITURRALDE, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "ESTRADA CANOVAS, MARIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "OSORIO LOPEZ, MIGUEL ANGEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CAMPO ANTUÑANO, LUIS",
+  "delegado_equipo_visitante": "ROMANO ROSEÑADA, DAVID",
+  "titulares_local": [
+    "RUIZ CAÑARTE, RAUL",
+    "SAN MIGUEL SARACHAGA, MARCO",
+    "RODRIGUEZ GARCIA, DIEGO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "MARTINEZ GARCIA, DIEGO",
+    "PABLOS SUAREZ, IBAI",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "BRIGIDO HERRERO, MARIO",
+    "TERAN MENESES, SANTIAGO",
+    "CHATBI, AMINE"
+  ],
+  "titulares_visitante": [
+    "PIEDRA RUIZ, ASIER",
+    "ZUAZO IBAÑEZ, GONZALO",
+    "ABASCAL ITURRALDE, HUGO",
+    "MARTINEZ ARGOS, IBER",
+    "PRADA DE MIGUEL, DARIO",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "ANTOLIN RODRIGUEZ, MATEO",
+    "REVUELTA FERNÁNDEZ, NORBERTO",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "RUAS GARCÍA, MARIO",
+    "GARCIA GONZALEZ, DIEGO"
+  ],
+  "suplentes_local": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "COBO PELLON, MARIO",
+    "RODRIGUEZ BOLAÑO, MARIO",
+    "GARCIA GOMEZ, LUCAS",
+    "BLANCO CUETO, IKER"
+  ],
+  "suplentes_visitante": [
+    "CORIA, THIAGO",
+    "CANO VELA, OIER",
+    "BASTIDA TÚRREZ, SAMUEL",
+    "CANO VELA, ARITZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORDAS ARREDONDO, ISKANDER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RUIZ CAÑARTE, RAUL",
+    "SAN MIGUEL SARACHAGA, MARCO",
+    "RODRIGUEZ GARCIA, DIEGO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "MARTINEZ GARCIA, DIEGO",
+    "PABLOS SUAREZ, IBAI",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "BRIGIDO HERRERO, MARIO",
+    "TERAN MENESES, SANTIAGO",
+    "CHATBI, AMINE",
+    "RODRIGUEZ BOLAÑO, MARIO",
+    "COBO PELLON, MARIO",
+    "BLANCO CUETO, IKER",
+    "GARCIA GOMEZ, LUCAS"
+  ],
+  "jugadores_visitante": [
+    "PIEDRA RUIZ, ASIER",
+    "ZUAZO IBAÑEZ, GONZALO",
+    "ABASCAL ITURRALDE, HUGO",
+    "MARTINEZ ARGOS, IBER",
+    "PRADA DE MIGUEL, DARIO",
+    "ARISQUETA GUTIERREZ, CARLOS",
+    "ANTOLIN RODRIGUEZ, MATEO",
+    "REVUELTA FERNÁNDEZ, NORBERTO",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "RUAS GARCÍA, MARIO",
+    "GARCIA GONZALEZ, DIEGO",
+    "CANO VELA, ARITZ",
+    "BASTIDA TÚRREZ, SAMUEL",
+    "CORIA, THIAGO",
+    "CANO VELA, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "RODRIGUEZ BOLAÑO, MARIO",
+      "sale": "CHATBI, AMINE"
+    },
+    {
+      "min": 57,
+      "entra": "COBO PELLON, MARIO",
+      "sale": "SAN EMETERIO FERNANDEZ, ENZO"
+    },
+    {
+      "min": 60,
+      "entra": "BLANCO CUETO, IKER",
+      "sale": "SAN MIGUEL SARACHAGA, MARCO"
+    },
+    {
+      "min": 60,
+      "entra": "GARCIA GOMEZ, LUCAS",
+      "sale": "SAINZ DE LA MAZA AJA, EDUARDO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "CANO VELA, ARITZ",
+      "sale": "ANTOLIN RODRIGUEZ, MATEO"
+    },
+    {
+      "min": 35,
+      "entra": "BASTIDA TÚRREZ, SAMUEL",
+      "sale": "ARISQUETA GUTIERREZ, CARLOS"
+    },
+    {
+      "min": 55,
+      "entra": "CORIA, THIAGO",
+      "sale": "MARTINEZ ARGOS, IBER"
+    },
+    {
+      "min": 55,
+      "entra": "CANO VELA, OIER",
+      "sale": "PRADA DE MIGUEL, DARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ CAÑARTE, RAUL": 90,
+    "SAN MIGUEL SARACHAGA, MARCO": 60,
+    "RODRIGUEZ GARCIA, DIEGO": 90,
+    "CAMPOS SAN EMETERIO, DIEGO": 90,
+    "MARTINEZ GARCIA, DIEGO": 90,
+    "PABLOS SUAREZ, IBAI": 90,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 60,
+    "SAN EMETERIO FERNANDEZ, ENZO": 57,
+    "BRIGIDO HERRERO, MARIO": 90,
+    "TERAN MENESES, SANTIAGO": 90,
+    "CHATBI, AMINE": 53,
+    "RODRIGUEZ BOLAÑO, MARIO": 37,
+    "COBO PELLON, MARIO": 33,
+    "BLANCO CUETO, IKER": 30,
+    "GARCIA GOMEZ, LUCAS": 30,
+    "PIEDRA RUIZ, ASIER": 90,
+    "ZUAZO IBAÑEZ, GONZALO": 90,
+    "ABASCAL ITURRALDE, HUGO": 90,
+    "MARTINEZ ARGOS, IBER": 55,
+    "PRADA DE MIGUEL, DARIO": 55,
+    "ARISQUETA GUTIERREZ, CARLOS": 35,
+    "ANTOLIN RODRIGUEZ, MATEO": 35,
+    "REVUELTA FERNÁNDEZ, NORBERTO": 90,
+    "GONZALEZ FERNANDEZ, GABRIEL": 90,
+    "RUAS GARCÍA, MARIO": 90,
+    "GARCIA GONZALEZ, DIEGO": 90,
+    "CANO VELA, ARITZ": 55,
+    "BASTIDA TÚRREZ, SAMUEL": 55,
+    "CORIA, THIAGO": 35,
+    "CANO VELA, OIER": 35
+  },
+  "portero_local": "RUIZ CAÑARTE, RAUL",
+  "portero_visitante": "PIEDRA RUIZ, ASIER",
+  "dorsales_local": {
+    "RUIZ CAÑARTE, RAUL": 1,
+    "SAN MIGUEL SARACHAGA, MARCO": 3,
+    "RODRIGUEZ GARCIA, DIEGO": 4,
+    "CAMPOS SAN EMETERIO, DIEGO": 5,
+    "MARTINEZ GARCIA, DIEGO": 7,
+    "PABLOS SUAREZ, IBAI": 8,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 10,
+    "SAN EMETERIO FERNANDEZ, ENZO": 11,
+    "BRIGIDO HERRERO, MARIO": 17,
+    "TERAN MENESES, SANTIAGO": 21,
+    "CHATBI, AMINE": 22
+  },
+  "dorsales_visitante": {
+    "PIEDRA RUIZ, ASIER": 1,
+    "ZUAZO IBAÑEZ, GONZALO": 4,
+    "ABASCAL ITURRALDE, HUGO": 6,
+    "MARTINEZ ARGOS, IBER": 8,
+    "PRADA DE MIGUEL, DARIO": 10,
+    "ARISQUETA GUTIERREZ, CARLOS": 11,
+    "ANTOLIN RODRIGUEZ, MATEO": 12,
+    "REVUELTA FERNÁNDEZ, NORBERTO": 14,
+    "GONZALEZ FERNANDEZ, GABRIEL": 17,
+    "RUAS GARCÍA, MARIO": 19,
+    "GARCIA GONZALEZ, DIEGO": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
