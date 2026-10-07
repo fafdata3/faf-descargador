@@ -1,0 +1,245 @@
+{
+  "acta_id": "C_173123",
+  "filename": "Acta_C_173123.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 28,
+  "fecha": "21-04-2024",
+  "hora": "09:30",
+  "categoria": "TERCERA CADETE (GRUPO E)",
+  "equipo_local": "E.M.F. COLINDRES A",
+  "equipo_visitante": "C.D.E. AGORA F.C. A",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "OLEA MANRIQUE, JUAN CARLOS"
+  ],
+  "estadio": "Colindres",
+  "ciudad": "Colindres",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "GOMEZ GUTIERREZ, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "RUIZ RODRIGUEZ, MARCOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "RESANO RUIZ, GUILLERMO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "VARELA MATEOS, JAVIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "AGUIRREZABAL GUTIERREZ, MIGUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "AGUIRREZABAL GUTIERREZ, MIGUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "IDIAQUEZ MAZA, SAMUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "HORMILLA MAÑERU, UNAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FRIAS MAESTRE, ADRIAN",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "CASTELO MARIÑO, RAMON",
+  "titulares_local": [
+    "ÑIGUEL LAVIN, LUCAS",
+    "IDIAQUEZ MAZA, SAMUEL",
+    "ARRONTE MERINO, RODRIGO",
+    "SAN EMETERIO SIERRA, PABLO",
+    "GOMEZ GUTIERREZ, DIEGO",
+    "ROCILLO MAZA, TIRSO",
+    "MARQUEZ ACOSTA, FELIPE EMANUEL",
+    "RUIZ RODRIGUEZ, MARCOS",
+    "GONZALEZ ATECA, PIERO",
+    "VARELA MATEOS, JAVIER",
+    "AGUIRREZABAL GUTIERREZ, MIGUEL"
+  ],
+  "titulares_visitante": [
+    "SAN MIGUEL OLABARRIETA, OMAR",
+    "TRABADO MAGUREGUI, ASIER",
+    "HORMILLA MAÑERU, UNAI",
+    "BOUZA FERNANDEZ, DANIEL",
+    "BOUZAS FERNANDEZ, ALAIN",
+    "HUERTAS VALBUENA, MARTIN ELIAS",
+    "SERRANO GUTIERREZ, EKAITZ",
+    "TARANILLA CORNEJO, MARKEL",
+    "HUERTA BARTOLOME, HODEI",
+    "MUÑOZ SANTOVEÑA, ALVARO",
+    "RESANO RUIZ, GUILLERMO"
+  ],
+  "suplentes_local": [
+    "CRESPO LUENGO, GAEL",
+    "FRANCO ORTIZ, ADRIAN"
+  ],
+  "suplentes_visitante": [
+    "CASTELO ANGULO, PEDRO",
+    "CUENCO FORCELLEDO, DANIEL",
+    "LOPEZ FERNANDEZ, JACOBO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ÑIGUEL LAVIN, LUCAS",
+    "IDIAQUEZ MAZA, SAMUEL",
+    "ARRONTE MERINO, RODRIGO",
+    "SAN EMETERIO SIERRA, PABLO",
+    "GOMEZ GUTIERREZ, DIEGO",
+    "ROCILLO MAZA, TIRSO",
+    "MARQUEZ ACOSTA, FELIPE EMANUEL",
+    "RUIZ RODRIGUEZ, MARCOS",
+    "GONZALEZ ATECA, PIERO",
+    "VARELA MATEOS, JAVIER",
+    "AGUIRREZABAL GUTIERREZ, MIGUEL",
+    "FRANCO ORTIZ, ADRIAN",
+    "CRESPO LUENGO, GAEL"
+  ],
+  "jugadores_visitante": [
+    "SAN MIGUEL OLABARRIETA, OMAR",
+    "TRABADO MAGUREGUI, ASIER",
+    "HORMILLA MAÑERU, UNAI",
+    "BOUZA FERNANDEZ, DANIEL",
+    "BOUZAS FERNANDEZ, ALAIN",
+    "HUERTAS VALBUENA, MARTIN ELIAS",
+    "SERRANO GUTIERREZ, EKAITZ",
+    "TARANILLA CORNEJO, MARKEL",
+    "HUERTA BARTOLOME, HODEI",
+    "MUÑOZ SANTOVEÑA, ALVARO",
+    "RESANO RUIZ, GUILLERMO",
+    "LOPEZ FERNANDEZ, JACOBO",
+    "CUENCO FORCELLEDO, DANIEL",
+    "CASTELO ANGULO, PEDRO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 63,
+      "entra": "FRANCO ORTIZ, ADRIAN",
+      "sale": "SAN EMETERIO SIERRA, PABLO"
+    },
+    {
+      "min": 67,
+      "entra": "CRESPO LUENGO, GAEL",
+      "sale": "ROCILLO MAZA, TIRSO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "LOPEZ FERNANDEZ, JACOBO",
+      "sale": "TRABADO MAGUREGUI, ASIER"
+    },
+    {
+      "min": 61,
+      "entra": "CUENCO FORCELLEDO, DANIEL",
+      "sale": "MUÑOZ SANTOVEÑA, ALVARO"
+    },
+    {
+      "min": 67,
+      "entra": "CASTELO ANGULO, PEDRO",
+      "sale": "HUERTA BARTOLOME, HODEI"
+    }
+  ],
+  "minutos_jugadores": {
+    "ÑIGUEL LAVIN, LUCAS": 90,
+    "IDIAQUEZ MAZA, SAMUEL": 90,
+    "ARRONTE MERINO, RODRIGO": 90,
+    "SAN EMETERIO SIERRA, PABLO": 63,
+    "GOMEZ GUTIERREZ, DIEGO": 90,
+    "ROCILLO MAZA, TIRSO": 67,
+    "MARQUEZ ACOSTA, FELIPE EMANUEL": 90,
+    "RUIZ RODRIGUEZ, MARCOS": 90,
+    "GONZALEZ ATECA, PIERO": 90,
+    "VARELA MATEOS, JAVIER": 90,
+    "AGUIRREZABAL GUTIERREZ, MIGUEL": 90,
+    "FRANCO ORTIZ, ADRIAN": 27,
+    "CRESPO LUENGO, GAEL": 23,
+    "SAN MIGUEL OLABARRIETA, OMAR": 90,
+    "TRABADO MAGUREGUI, ASIER": 40,
+    "HORMILLA MAÑERU, UNAI": 90,
+    "BOUZA FERNANDEZ, DANIEL": 90,
+    "BOUZAS FERNANDEZ, ALAIN": 90,
+    "HUERTAS VALBUENA, MARTIN ELIAS": 90,
+    "SERRANO GUTIERREZ, EKAITZ": 90,
+    "TARANILLA CORNEJO, MARKEL": 90,
+    "HUERTA BARTOLOME, HODEI": 67,
+    "MUÑOZ SANTOVEÑA, ALVARO": 61,
+    "RESANO RUIZ, GUILLERMO": 90,
+    "LOPEZ FERNANDEZ, JACOBO": 50,
+    "CUENCO FORCELLEDO, DANIEL": 29,
+    "CASTELO ANGULO, PEDRO": 23
+  },
+  "portero_local": "ÑIGUEL LAVIN, LUCAS",
+  "portero_visitante": "SAN MIGUEL OLABARRIETA, OMAR",
+  "dorsales_local": {
+    "ÑIGUEL LAVIN, LUCAS": 1,
+    "IDIAQUEZ MAZA, SAMUEL": 3,
+    "ARRONTE MERINO, RODRIGO": 4,
+    "SAN EMETERIO SIERRA, PABLO": 5,
+    "GOMEZ GUTIERREZ, DIEGO": 6,
+    "ROCILLO MAZA, TIRSO": 7,
+    "MARQUEZ ACOSTA, FELIPE EMANUEL": 10,
+    "RUIZ RODRIGUEZ, MARCOS": 11,
+    "GONZALEZ ATECA, PIERO": 17,
+    "VARELA MATEOS, JAVIER": 20,
+    "AGUIRREZABAL GUTIERREZ, MIGUEL": 22
+  },
+  "dorsales_visitante": {
+    "SAN MIGUEL OLABARRIETA, OMAR": 1,
+    "TRABADO MAGUREGUI, ASIER": 2,
+    "HORMILLA MAÑERU, UNAI": 3,
+    "BOUZA FERNANDEZ, DANIEL": 4,
+    "BOUZAS FERNANDEZ, ALAIN": 6,
+    "HUERTAS VALBUENA, MARTIN ELIAS": 7,
+    "SERRANO GUTIERREZ, EKAITZ": 10,
+    "TARANILLA CORNEJO, MARKEL": 11,
+    "HUERTA BARTOLOME, HODEI": 14,
+    "MUÑOZ SANTOVEÑA, ALVARO": 18,
+    "RESANO RUIZ, GUILLERMO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
