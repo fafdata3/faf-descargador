@@ -1,0 +1,255 @@
+{
+  "acta_id": "C_193191",
+  "filename": "Acta_C_193191.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 18,
+  "fecha": "18-01-2025",
+  "hora": "16:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. RAMALES",
+  "equipo_visitante": "C.D. NAVAL A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZALEZ BARRUETABEÑA, BENITO"
+  ],
+  "estadio": "Cubillas - Ramales",
+  "ciudad": "Ramales De La Victoria",
+  "goleadores": [
+    {
+      "minuto": 43,
+      "jugador": "MONTES RODRIGUEZ, OROEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "SIERRA GONZALEZ, KEVIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "GOMEZ DEL POZO, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 76,
+      "jugador": "GALAZ GOMEZ, GUILLERMO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "GOMEZ DEL POZO, ALVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "LOPEZ GUTIERREZ, ALONSO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "GARCIA GUTIERREZ, JOSE I",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTINEZ FRESNEDO, ENRIQUE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ FRESNEDO, ENRIQUE",
+  "delegado_equipo_visitante": "TORICES PEREZ, PEDRO",
+  "titulares_local": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "ABASCAL RUIZ, JOAQUIN",
+    "LLAMA GOMEZ, MARIO",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "DEL MORAL ALONSO, RODRIGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "HOLGADO RODRIGUEZ, IKER"
+  ],
+  "titulares_visitante": [
+    "BERNARDO AGUILERA, DIEGO",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GOMEZ DEL POZO, ALVARO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "GOMEZ CALVO, ALVARO",
+    "ALONSO GUERRA, MARCOS",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL"
+  ],
+  "suplentes_local": [
+    "MAZA FERNANDEZ, IÑIGO",
+    "LOPEZ SAEZ, ANDER",
+    "CARRERA SANCHEZ, MARCOS",
+    "SIERRA GONZALEZ, KEVIN",
+    "IBAÑEZ AHEDO, EGOITZ"
+  ],
+  "suplentes_visitante": [
+    "ARGUESO GARCIA, JAVIER",
+    "AGUIRRE BAZA, CRISTIAN DAVID",
+    "SIMÓN GUTIERREZ, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "ABASCAL RUIZ, JOAQUIN",
+    "LLAMA GOMEZ, MARIO",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "DEL MORAL ALONSO, RODRIGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "SIERRA GONZALEZ, KEVIN",
+    "IBAÑEZ AHEDO, EGOITZ",
+    "MAZA FERNANDEZ, IÑIGO",
+    "LOPEZ SAEZ, ANDER",
+    "CARRERA SANCHEZ, MARCOS"
+  ],
+  "jugadores_visitante": [
+    "BERNARDO AGUILERA, DIEGO",
+    "GARCIA DIEZ, GABRIEL",
+    "CEBALLOS CAYON, LUCAS",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "GOMEZ DEL POZO, ALVARO",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "GOMEZ CALVO, ALVARO",
+    "ALONSO GUERRA, MARCOS",
+    "MACHO RUIZ, LUCAS",
+    "MONTES RODRIGUEZ, OROEL",
+    "AGUIRRE BAZA, CRISTIAN DAVID",
+    "SIMÓN GUTIERREZ, DANIEL",
+    "ARGUESO GARCIA, JAVIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "SIERRA GONZALEZ, KEVIN",
+      "sale": "GOMEZ RANERO, ANDER"
+    },
+    {
+      "min": 46,
+      "entra": "IBAÑEZ AHEDO, EGOITZ",
+      "sale": "ABASCAL RUIZ, JOAQUIN"
+    },
+    {
+      "min": 54,
+      "entra": "MAZA FERNANDEZ, IÑIGO",
+      "sale": "DEL MORAL ALONSO, RODRIGO"
+    },
+    {
+      "min": 63,
+      "entra": "LOPEZ SAEZ, ANDER",
+      "sale": "DE LAS HERAS VARONA, ASIER"
+    },
+    {
+      "min": 70,
+      "entra": "CARRERA SANCHEZ, MARCOS",
+      "sale": "COBREROS ZUBILLAGA, SAMUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "AGUIRRE BAZA, CRISTIAN DAVID",
+      "sale": "MACHO RUIZ, LUCAS"
+    },
+    {
+      "min": 54,
+      "entra": "SIMÓN GUTIERREZ, DANIEL",
+      "sale": "GOMEZ CALVO, ALVARO"
+    },
+    {
+      "min": 68,
+      "entra": "ARGUESO GARCIA, JAVIER",
+      "sale": "GOMEZ DEL POZO, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "FURIOL SALCEDO, RUBÉN": 90,
+    "TREVILLA VELA, RAMON": 90,
+    "ABASCAL RUIZ, JOAQUIN": 46,
+    "LLAMA GOMEZ, MARIO": 90,
+    "COBREROS ZUBILLAGA, SAMUEL": 70,
+    "DE LAS HERAS VARONA, ASIER": 63,
+    "LOPEZ GONZALEZ, HUGO": 90,
+    "DEL MORAL ALONSO, RODRIGO": 54,
+    "GALAZ GOMEZ, GUILLERMO": 90,
+    "GOMEZ RANERO, ANDER": 46,
+    "HOLGADO RODRIGUEZ, IKER": 90,
+    "SIERRA GONZALEZ, KEVIN": 44,
+    "IBAÑEZ AHEDO, EGOITZ": 44,
+    "MAZA FERNANDEZ, IÑIGO": 36,
+    "LOPEZ SAEZ, ANDER": 27,
+    "CARRERA SANCHEZ, MARCOS": 20,
+    "BERNARDO AGUILERA, DIEGO": 90,
+    "GARCIA DIEZ, GABRIEL": 90,
+    "CEBALLOS CAYON, LUCAS": 90,
+    "GONZALEZ RODRIGUEZ, ALVARO": 90,
+    "LOPEZ GUTIERREZ, ALONSO": 90,
+    "GOMEZ DEL POZO, ALVARO": 68,
+    "GUTIERREZ GARCIA, SAMUEL": 90,
+    "GOMEZ CALVO, ALVARO": 54,
+    "ALONSO GUERRA, MARCOS": 90,
+    "MACHO RUIZ, LUCAS": 40,
+    "MONTES RODRIGUEZ, OROEL": 90,
+    "AGUIRRE BAZA, CRISTIAN DAVID": 50,
+    "SIMÓN GUTIERREZ, DANIEL": 36,
+    "ARGUESO GARCIA, JAVIER": 22
+  },
+  "portero_local": "FURIOL SALCEDO, RUBÉN",
+  "portero_visitante": "BERNARDO AGUILERA, DIEGO",
+  "dorsales_local": {
+    "FURIOL SALCEDO, RUBÉN": 1,
+    "TREVILLA VELA, RAMON": 2,
+    "ABASCAL RUIZ, JOAQUIN": 3,
+    "LLAMA GOMEZ, MARIO": 5,
+    "COBREROS ZUBILLAGA, SAMUEL": 6,
+    "DE LAS HERAS VARONA, ASIER": 7,
+    "LOPEZ GONZALEZ, HUGO": 8,
+    "DEL MORAL ALONSO, RODRIGO": 9,
+    "GALAZ GOMEZ, GUILLERMO": 10,
+    "GOMEZ RANERO, ANDER": 11,
+    "HOLGADO RODRIGUEZ, IKER": 14
+  },
+  "dorsales_visitante": {
+    "BERNARDO AGUILERA, DIEGO": 13,
+    "GARCIA DIEZ, GABRIEL": 5,
+    "CEBALLOS CAYON, LUCAS": 6,
+    "GONZALEZ RODRIGUEZ, ALVARO": 7,
+    "LOPEZ GUTIERREZ, ALONSO": 8,
+    "GOMEZ DEL POZO, ALVARO": 9,
+    "GUTIERREZ GARCIA, SAMUEL": 10,
+    "GOMEZ CALVO, ALVARO": 11,
+    "ALONSO GUERRA, MARCOS": 12,
+    "MACHO RUIZ, LUCAS": 14,
+    "MONTES RODRIGUEZ, OROEL": 15
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
