@@ -1,0 +1,286 @@
+{
+  "acta_id": "R_259959",
+  "filename": "Acta_R_259959.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "04-10-2026",
+  "hora": "17:00",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "NÁXARA",
+  "equipo_visitante": "LAURUS",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "RUIZ GOMEZ, MARIO",
+    "Árbitro Asistente",
+    "RUIZ GOMEZ, JORGE",
+    "Árbitro Asistente",
+    "FUENTES CACABELOS, AITOR"
+  ],
+  "estadio": "C.M. LA SALERA (NAJERA)",
+  "ciudad": "Nájera",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "ELIAS BENZAL, ALONSO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 22,
+      "jugador": "NESTARES MARTOS, RICARDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "ELIAS BENZAL, RODRIGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 81,
+      "jugador": "PRADA RUEDA, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 44,
+      "jugador": "ELIAS BENZAL, RODRIGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "ELIAS BENZAL, RODRIGO",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "ELIAS BENZAL, ALONSO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "NAVAS SANCHEZ, GONZALO",
+  "entrenador_visitante": "ZARCO RUIZ, PEDRO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAEZ GONZALEZ, FERNANDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CASTROVIEJO ELVIRA, LUIS M",
+  "delegado_equipo_visitante": "VILCHES CARDENAL, ROBERTO",
+  "titulares_local": [
+    "GARCIA RUBIO, GINES",
+    "GUTIERREZ NIETO, JAVIER",
+    "OLANO ESPIGA, PABLO",
+    "POLO BERNAL, PABLO",
+    "SANTOS PASCUAL, ADRIAN",
+    "FERNANDEZ PEREZ, IVAN",
+    "CALATAYUD LAHERA, IGNACIO",
+    "BOZZANO SOSA, BAUTISTA",
+    "ESQUIDE MARTINEZ, CESAR",
+    "RODRIGUEZ SAEZ, IVAN",
+    "LITIM LARHLID, MOHAMMED"
+  ],
+  "titulares_visitante": [
+    "SANTO DOMINGO LOPEZ, YOEL",
+    "PUIG DE AQUINO, PABLO",
+    "BAQUEDANO MARTINEZ, ANGEL",
+    "GARCINUÑO ALONSO, RODRIGO",
+    "BOITE, SIDICK",
+    "ELIAS BENZAL, RODRIGO",
+    "PEREZ ZABALETA, MIKEL",
+    "ARNEDILLO PUELLES, SERGIO",
+    "OJEDA GARCIA M, MARCO",
+    "ELIAS BENZAL, ALONSO",
+    "NESTARES MARTOS, RICARDO"
+  ],
+  "suplentes_local": [
+    "ROJO MARTINEZ, ALEX",
+    "CANO ROSALES, LUCAS",
+    "SCARCELLA FERRER, LUCA",
+    "ANDREI, ARTUR DENIS",
+    "LARHLID LARHLID, ACHRAF",
+    "SANTOS SAENZ, IBAI",
+    "CENTENO BAJO, JUAN P"
+  ],
+  "suplentes_visitante": [
+    "CABALLERO SAENZ, SAMUEL",
+    "BERRADRE JIMENEZ, SERGIO",
+    "PRADA RUEDA, MARCOS",
+    "ETXEBERRIA CHINCHETRU, JON",
+    "SAGREDO CHASCO, LUCAS",
+    "MONTES SAINZ A, ANGEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "ROJO MARTINEZ, ALEX",
+    "CENTENO BAJO, JUAN P"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CABALLERO SAENZ, SAMUEL",
+    "BERRADRE JIMENEZ, SERGIO"
+  ],
+  "jugadores_local": [
+    "GARCIA RUBIO, GINES",
+    "GUTIERREZ NIETO, JAVIER",
+    "OLANO ESPIGA, PABLO",
+    "POLO BERNAL, PABLO",
+    "SANTOS PASCUAL, ADRIAN",
+    "FERNANDEZ PEREZ, IVAN",
+    "CALATAYUD LAHERA, IGNACIO",
+    "BOZZANO SOSA, BAUTISTA",
+    "ESQUIDE MARTINEZ, CESAR",
+    "RODRIGUEZ SAEZ, IVAN",
+    "LITIM LARHLID, MOHAMMED",
+    "CANO ROSALES, LUCAS",
+    "ANDREI, ARTUR DENIS",
+    "LARHLID LARHLID, ACHRAF",
+    "SANTOS SAENZ, IBAI",
+    "SCARCELLA FERRER, LUCA"
+  ],
+  "jugadores_visitante": [
+    "SANTO DOMINGO LOPEZ, YOEL",
+    "PUIG DE AQUINO, PABLO",
+    "BAQUEDANO MARTINEZ, ANGEL",
+    "GARCINUÑO ALONSO, RODRIGO",
+    "BOITE, SIDICK",
+    "ELIAS BENZAL, RODRIGO",
+    "PEREZ ZABALETA, MIKEL",
+    "ARNEDILLO PUELLES, SERGIO",
+    "OJEDA GARCIA M, MARCO",
+    "ELIAS BENZAL, ALONSO",
+    "NESTARES MARTOS, RICARDO",
+    "ETXEBERRIA CHINCHETRU, JON",
+    "MONTES SAINZ A, ANGEL",
+    "PRADA RUEDA, MARCOS",
+    "SAGREDO CHASCO, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "CANO ROSALES, LUCAS",
+      "sale": "OLANO ESPIGA, PABLO"
+    },
+    {
+      "min": 46,
+      "entra": "ANDREI, ARTUR DENIS",
+      "sale": "BOZZANO SOSA, BAUTISTA"
+    },
+    {
+      "min": 57,
+      "entra": "LARHLID LARHLID, ACHRAF",
+      "sale": "LITIM LARHLID, MOHAMMED"
+    },
+    {
+      "min": 57,
+      "entra": "SANTOS SAENZ, IBAI",
+      "sale": "ESQUIDE MARTINEZ, CESAR"
+    },
+    {
+      "min": 77,
+      "entra": "SCARCELLA FERRER, LUCA",
+      "sale": "POLO BERNAL, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "ETXEBERRIA CHINCHETRU, JON",
+      "sale": "BAQUEDANO MARTINEZ, ANGEL"
+    },
+    {
+      "min": 58,
+      "entra": "MONTES SAINZ A, ANGEL",
+      "sale": "NESTARES MARTOS, RICARDO"
+    },
+    {
+      "min": 58,
+      "entra": "PRADA RUEDA, MARCOS",
+      "sale": "OJEDA GARCIA M, MARCO"
+    },
+    {
+      "min": 85,
+      "entra": "SAGREDO CHASCO, LUCAS",
+      "sale": "ELIAS BENZAL, ALONSO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA RUBIO, GINES": 90,
+    "GUTIERREZ NIETO, JAVIER": 90,
+    "OLANO ESPIGA, PABLO": 46,
+    "POLO BERNAL, PABLO": 77,
+    "SANTOS PASCUAL, ADRIAN": 90,
+    "FERNANDEZ PEREZ, IVAN": 90,
+    "CALATAYUD LAHERA, IGNACIO": 90,
+    "BOZZANO SOSA, BAUTISTA": 46,
+    "ESQUIDE MARTINEZ, CESAR": 57,
+    "RODRIGUEZ SAEZ, IVAN": 90,
+    "LITIM LARHLID, MOHAMMED": 57,
+    "CANO ROSALES, LUCAS": 44,
+    "ANDREI, ARTUR DENIS": 44,
+    "LARHLID LARHLID, ACHRAF": 33,
+    "SANTOS SAENZ, IBAI": 33,
+    "SCARCELLA FERRER, LUCA": 13,
+    "SANTO DOMINGO LOPEZ, YOEL": 90,
+    "PUIG DE AQUINO, PABLO": 90,
+    "BAQUEDANO MARTINEZ, ANGEL": 46,
+    "GARCINUÑO ALONSO, RODRIGO": 90,
+    "BOITE, SIDICK": 90,
+    "ELIAS BENZAL, RODRIGO": 90,
+    "PEREZ ZABALETA, MIKEL": 90,
+    "ARNEDILLO PUELLES, SERGIO": 90,
+    "OJEDA GARCIA M, MARCO": 58,
+    "ELIAS BENZAL, ALONSO": 85,
+    "NESTARES MARTOS, RICARDO": 58,
+    "ETXEBERRIA CHINCHETRU, JON": 44,
+    "MONTES SAINZ A, ANGEL": 32,
+    "PRADA RUEDA, MARCOS": 32,
+    "SAGREDO CHASCO, LUCAS": 5
+  },
+  "portero_local": "GARCIA RUBIO, GINES",
+  "portero_visitante": "SANTO DOMINGO LOPEZ, YOEL",
+  "dorsales_local": {
+    "GARCIA RUBIO, GINES": 1,
+    "GUTIERREZ NIETO, JAVIER": 2,
+    "OLANO ESPIGA, PABLO": 3,
+    "POLO BERNAL, PABLO": 5,
+    "SANTOS PASCUAL, ADRIAN": 6,
+    "FERNANDEZ PEREZ, IVAN": 9,
+    "CALATAYUD LAHERA, IGNACIO": 10,
+    "BOZZANO SOSA, BAUTISTA": 11,
+    "ESQUIDE MARTINEZ, CESAR": 12,
+    "RODRIGUEZ SAEZ, IVAN": 15,
+    "LITIM LARHLID, MOHAMMED": 18
+  },
+  "dorsales_visitante": {
+    "SANTO DOMINGO LOPEZ, YOEL": 1,
+    "PUIG DE AQUINO, PABLO": 2,
+    "BAQUEDANO MARTINEZ, ANGEL": 3,
+    "GARCINUÑO ALONSO, RODRIGO": 5,
+    "BOITE, SIDICK": 6,
+    "ELIAS BENZAL, RODRIGO": 9,
+    "PEREZ ZABALETA, MIKEL": 10,
+    "ARNEDILLO PUELLES, SERGIO": 14,
+    "OJEDA GARCIA M, MARCO": 16,
+    "ELIAS BENZAL, ALONSO": 17,
+    "NESTARES MARTOS, RICARDO": 20
+  },
+  "suspendidos": [
+    "ELIAS BENZAL, RODRIGO"
+  ],
+  "_marcador_widget": true
+}
