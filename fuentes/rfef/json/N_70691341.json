@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO B)",
   "equipo_local": "GUADALCACIN C.D.",
   "equipo_visitante": "BARRIADA LA PLAYA C.D.",
-  "goles_local": 0,
+  "goles_local": 5,
   "goles_visitante": 0,
-  "resultado": "D",
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "ORTEGA PEÑA, MATEO",
@@ -29,31 +29,36 @@
       "minuto": 12,
       "jugador": "FRIAS VALLE, MINERVA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "PALMA JIMENEZ, FERGIE SUSANA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 30,
       "jugador": "PEREZ IBAÑEZ, NAYARA DEL ROCIO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "HERNANDEZ CORDERO, DANIELA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "HERNANDEZ CORDERO, DANIELA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -155,5 +160,6 @@
     "GUISADO BORNES, DANIELA": 12,
     "RIOS BERNAL, ELENA": 20
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
