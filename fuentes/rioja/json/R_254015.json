@@ -1,0 +1,264 @@
+{
+  "acta_id": "R_254015",
+  "filename": "Acta_R_254015.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "26-10-2025",
+  "hora": "11:30",
+  "categoria": "CADETE FEMENINO (Grupo Único)",
+  "equipo_local": "DUX LOGROÑO",
+  "equipo_visitante": "UD LOGROÑES",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "RUIZ RIVAS, SARA"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 4 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "PINILLOS RUIZ, PAULA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 74,
+      "jugador": "DOMINGUEZ PITA, IRIA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "DEL CAMPO VIZUETE, JOSE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    }
+  ],
+  "entrenador_local": "GALILEA FERNANDEZ, ANDRES JAVIER",
+  "entrenador_visitante": "JORDEDO PAJARO, LUIS ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAN MARTÍN LERENA, MIGUEL ÁNGEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAN MARTÍN LERENA, MIGUEL ÁNGEL",
+  "delegado_equipo_visitante": "DEL CAMPO VIZUETE, JOSE",
+  "titulares_local": [
+    "PECO OROZCO, LEYRE",
+    "ONGAY ALVARO, ANE",
+    "CARBONERAS ROYO, AITANA",
+    "MARTINEZ VIEIRA, LUCIA",
+    "CASCAN MEDRANO, MARTINA",
+    "DAVILA VEGAS, NAIA",
+    "MARTINEZ BAZO, NORA",
+    "CABALLERO RUIZ, IRENE",
+    "PEREZ DE CORTA, NOA",
+    "FERNANDEZ REDONDO, CLARA",
+    "CASTILLO GARCIA, VALERIA"
+  ],
+  "titulares_visitante": [
+    "SOLANA GARCIA, VALERIA",
+    "DE CORTA MARTINEZ, SARA",
+    "PEREZ H GUTIERREZ R, AMELIA",
+    "PEÑA ITURRIOZ, SOFIA",
+    "PINILLOS RUIZ, PAULA",
+    "DEL CAMPO GAMARRA, DANIELLA",
+    "LUCIA",
+    "RITUERTO MUNILLA, MAR",
+    "RUIZ RINCON, CLAUDIA",
+    "LANGARICA FERNANDEZ, MARTINA",
+    "DOMINGUEZ PITA, IRIA"
+  ],
+  "suplentes_local": [
+    "JALON BERNEDO, ADRIANA",
+    "BALTANAS ECHAZARRA, BLANCA",
+    "GANGUTIA PEREZ, VALLE",
+    "RIAÑO SIERRA, SARA",
+    "SANCHEZ GARCIA, ELENA",
+    "CASTRESANA DEL VALLE, CARLA",
+    "SAN MARTIN CABELLO, BLANCA"
+  ],
+  "suplentes_visitante": [
+    "PALACIOS CHECA, CELIA",
+    "PILOÑETA GARCIA, AFRICA",
+    "CUADRA GALARRETA, NOA",
+    "MARINA ZANGRONIZ, JIMENA",
+    "RUEDA CASTRO, ADRIANA",
+    "LOPEZ GARCIA, NOA"
+  ],
+  "convocados_sin_jugar_local": [
+    "SAN MARTIN CABELLO, BLANCA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PILOÑETA GARCIA, AFRICA"
+  ],
+  "jugadores_local": [
+    "PECO OROZCO, LEYRE",
+    "ONGAY ALVARO, ANE",
+    "CARBONERAS ROYO, AITANA",
+    "MARTINEZ VIEIRA, LUCIA",
+    "CASCAN MEDRANO, MARTINA",
+    "DAVILA VEGAS, NAIA",
+    "MARTINEZ BAZO, NORA",
+    "CABALLERO RUIZ, IRENE",
+    "PEREZ DE CORTA, NOA",
+    "FERNANDEZ REDONDO, CLARA",
+    "CASTILLO GARCIA, VALERIA",
+    "JALON BERNEDO, ADRIANA",
+    "CASTRESANA DEL VALLE, CARLA",
+    "GANGUTIA PEREZ, VALLE",
+    "RIAÑO SIERRA, SARA",
+    "BALTANAS ECHAZARRA, BLANCA",
+    "SANCHEZ GARCIA, ELENA"
+  ],
+  "jugadores_visitante": [
+    "SOLANA GARCIA, VALERIA",
+    "DE CORTA MARTINEZ, SARA",
+    "PEREZ H GUTIERREZ R, AMELIA",
+    "PEÑA ITURRIOZ, SOFIA",
+    "PINILLOS RUIZ, PAULA",
+    "DEL CAMPO GAMARRA, DANIELLA",
+    "LUCIA",
+    "RITUERTO MUNILLA, MAR",
+    "RUIZ RINCON, CLAUDIA",
+    "LANGARICA FERNANDEZ, MARTINA",
+    "DOMINGUEZ PITA, IRIA",
+    "PALACIOS CHECA, CELIA",
+    "RUEDA CASTRO, ADRIANA",
+    "MARINA ZANGRONIZ, JIMENA",
+    "LOPEZ GARCIA, NOA",
+    "CUADRA GALARRETA, NOA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "JALON BERNEDO, ADRIANA",
+      "sale": "PECO OROZCO, LEYRE"
+    },
+    {
+      "min": 41,
+      "entra": "CASTRESANA DEL VALLE, CARLA",
+      "sale": "PEREZ DE CORTA, NOA"
+    },
+    {
+      "min": 55,
+      "entra": "GANGUTIA PEREZ, VALLE",
+      "sale": "CABALLERO RUIZ, IRENE"
+    },
+    {
+      "min": 55,
+      "entra": "RIAÑO SIERRA, SARA",
+      "sale": "CARBONERAS ROYO, AITANA"
+    },
+    {
+      "min": 57,
+      "entra": "BALTANAS ECHAZARRA, BLANCA",
+      "sale": "CASTILLO GARCIA, VALERIA"
+    },
+    {
+      "min": 79,
+      "entra": "SANCHEZ GARCIA, ELENA",
+      "sale": "CASCAN MEDRANO, MARTINA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "PALACIOS CHECA, CELIA",
+      "sale": "SOLANA GARCIA, VALERIA"
+    },
+    {
+      "min": 57,
+      "entra": "RUEDA CASTRO, ADRIANA",
+      "sale": "PEÑA ITURRIOZ, SOFIA"
+    },
+    {
+      "min": 57,
+      "entra": "MARINA ZANGRONIZ, JIMENA",
+      "sale": "DE CORTA MARTINEZ, SARA"
+    },
+    {
+      "min": 62,
+      "entra": "LOPEZ GARCIA, NOA",
+      "sale": "RITUERTO MUNILLA, MAR"
+    },
+    {
+      "min": 79,
+      "entra": "CUADRA GALARRETA, NOA",
+      "sale": "PINILLOS RUIZ, PAULA"
+    }
+  ],
+  "minutos_jugadores": {
+    "PECO OROZCO, LEYRE": 41,
+    "ONGAY ALVARO, ANE": 90,
+    "CARBONERAS ROYO, AITANA": 55,
+    "MARTINEZ VIEIRA, LUCIA": 90,
+    "CASCAN MEDRANO, MARTINA": 79,
+    "DAVILA VEGAS, NAIA": 90,
+    "MARTINEZ BAZO, NORA": 90,
+    "CABALLERO RUIZ, IRENE": 55,
+    "PEREZ DE CORTA, NOA": 41,
+    "FERNANDEZ REDONDO, CLARA": 90,
+    "CASTILLO GARCIA, VALERIA": 57,
+    "JALON BERNEDO, ADRIANA": 49,
+    "CASTRESANA DEL VALLE, CARLA": 49,
+    "GANGUTIA PEREZ, VALLE": 35,
+    "RIAÑO SIERRA, SARA": 35,
+    "BALTANAS ECHAZARRA, BLANCA": 33,
+    "SANCHEZ GARCIA, ELENA": 11,
+    "SOLANA GARCIA, VALERIA": 41,
+    "DE CORTA MARTINEZ, SARA": 57,
+    "PEREZ H GUTIERREZ R, AMELIA": 90,
+    "PEÑA ITURRIOZ, SOFIA": 57,
+    "PINILLOS RUIZ, PAULA": 79,
+    "DEL CAMPO GAMARRA, DANIELLA": 90,
+    "LUCIA": 90,
+    "RITUERTO MUNILLA, MAR": 62,
+    "RUIZ RINCON, CLAUDIA": 90,
+    "LANGARICA FERNANDEZ, MARTINA": 90,
+    "DOMINGUEZ PITA, IRIA": 90,
+    "PALACIOS CHECA, CELIA": 49,
+    "RUEDA CASTRO, ADRIANA": 33,
+    "MARINA ZANGRONIZ, JIMENA": 33,
+    "LOPEZ GARCIA, NOA": 28,
+    "CUADRA GALARRETA, NOA": 11
+  },
+  "portero_local": "PECO OROZCO, LEYRE",
+  "portero_visitante": "SOLANA GARCIA, VALERIA",
+  "dorsales_local": {
+    "PECO OROZCO, LEYRE": 1,
+    "ONGAY ALVARO, ANE": 2,
+    "CARBONERAS ROYO, AITANA": 3,
+    "MARTINEZ VIEIRA, LUCIA": 4,
+    "CASCAN MEDRANO, MARTINA": 5,
+    "DAVILA VEGAS, NAIA": 6,
+    "MARTINEZ BAZO, NORA": 7,
+    "CABALLERO RUIZ, IRENE": 8,
+    "PEREZ DE CORTA, NOA": 9,
+    "FERNANDEZ REDONDO, CLARA": 10,
+    "CASTILLO GARCIA, VALERIA": 11
+  },
+  "dorsales_visitante": {
+    "SOLANA GARCIA, VALERIA": 13,
+    "DE CORTA MARTINEZ, SARA": 3,
+    "PEREZ H GUTIERREZ R, AMELIA": 4,
+    "PEÑA ITURRIOZ, SOFIA": 5,
+    "PINILLOS RUIZ, PAULA": 6,
+    "DEL CAMPO GAMARRA, DANIELLA": 8,
+    "LUCIA": 10,
+    "RITUERTO MUNILLA, MAR": 17,
+    "RUIZ RINCON, CLAUDIA": 20,
+    "LANGARICA FERNANDEZ, MARTINA": 21,
+    "DOMINGUEZ PITA, IRIA": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
