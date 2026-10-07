@@ -1,0 +1,267 @@
+{
+  "acta_id": "C_192889",
+  "filename": "Acta_C_192889.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 19,
+  "fecha": "26-01-2025",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA A",
+  "equipo_visitante": "E.M. FUTBOL SANTANDER A",
+  "goles_local": 4,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "COBO TORRES, CRISTIAN"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "MARTINEZ IBAÑEZ, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "SANCHEZ CUEVAS, SAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "EXPOSITO MARTIN, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "GUTIERREZ RODRIGUEZ, CRISTIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "DOMINGUEZ RUIZ, SAMUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "GUTIERREZ RODRIGUEZ, CRISTIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "HERRERA DIAZ, SALVADOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    }
+  ],
+  "entrenador_local": "ALONSO ALONSO, HECTOR",
+  "entrenador_visitante": "COSTALES ALVAREZ, RICARDO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAMPERIO GUTIERREZ, ALEJANDRO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAMPERIO GUTIERREZ, ALEJANDRO",
+  "delegado_equipo_visitante": "HERRERA DIAZ, SALVADOR",
+  "titulares_local": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "VARON SANCHEZ, CESAR",
+    "Garcia Roiz, Dario",
+    "GONZALEZ RODRIGUEZ, DAVID",
+    "BARBA AGENJO, ADRIAN",
+    "EXPOSITO MARTIN, PABLO",
+    "QUINTANA CALDERON, MARCOS",
+    "RUIZ MIGUEZ, DANIEL",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN",
+    "SANCHEZ CUEVAS, SAUL"
+  ],
+  "titulares_visitante": [
+    "LAUCELLI DÍAZ, CÉSAR",
+    "MANTECÓN HERMANA, ADRIÁN",
+    "BEDIA PEÑA, DANIEL",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "VELATEGUI TOCA, IGNACIO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "FERNANDEZ ALONSO, DANIEL",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "CAMPELO MARTINEZ, PABLO",
+    "LEON RODRIGUEZ, PABLO",
+    "LAVIN VELARDE, MARCOS"
+  ],
+  "suplentes_local": [
+    "ARROYO FERNANDEZ, PABLO",
+    "GALLO VERGARA, PABLO",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+    "HOYUELA COBO, HUGO",
+    "FERNANDEZ MARTIN, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "LEDESMA ESUN, GONZALO",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "COBO PEREZ, JAVIER",
+    "BALBAS RUIZ, MATEO",
+    "FUENTE BARRERA, JUAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARROYO FERNANDEZ, PABLO",
+    "GALLO VERGARA, PABLO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "VARON SANCHEZ, CESAR",
+    "Garcia Roiz, Dario",
+    "GONZALEZ RODRIGUEZ, DAVID",
+    "BARBA AGENJO, ADRIAN",
+    "EXPOSITO MARTIN, PABLO",
+    "QUINTANA CALDERON, MARCOS",
+    "RUIZ MIGUEZ, DANIEL",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "GUTIERREZ RODRIGUEZ, CRISTIAN",
+    "SANCHEZ CUEVAS, SAUL",
+    "FERNANDEZ MARTIN, DIEGO",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+    "HOYUELA COBO, HUGO"
+  ],
+  "jugadores_visitante": [
+    "LAUCELLI DÍAZ, CÉSAR",
+    "MANTECÓN HERMANA, ADRIÁN",
+    "BEDIA PEÑA, DANIEL",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "VELATEGUI TOCA, IGNACIO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "FERNANDEZ ALONSO, DANIEL",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "CAMPELO MARTINEZ, PABLO",
+    "LEON RODRIGUEZ, PABLO",
+    "LAVIN VELARDE, MARCOS",
+    "LEDESMA ESUN, GONZALO",
+    "COBO PEREZ, JAVIER",
+    "FUENTE BARRERA, JUAN",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "BALBAS RUIZ, MATEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "FERNANDEZ MARTIN, DIEGO",
+      "sale": "EXPOSITO MARTIN, PABLO"
+    },
+    {
+      "min": 62,
+      "entra": "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+      "sale": "Garcia Roiz, Dario"
+    },
+    {
+      "min": 64,
+      "entra": "HOYUELA COBO, HUGO",
+      "sale": "GONZALEZ RODRIGUEZ, DAVID"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "LEDESMA ESUN, GONZALO",
+      "sale": "LAUCELLI DÍAZ, CÉSAR"
+    },
+    {
+      "min": 47,
+      "entra": "COBO PEREZ, JAVIER",
+      "sale": "CAMPELO MARTINEZ, PABLO"
+    },
+    {
+      "min": 50,
+      "entra": "FUENTE BARRERA, JUAN",
+      "sale": "LEON RODRIGUEZ, PABLO"
+    },
+    {
+      "min": 50,
+      "entra": "FERNANDEZ DE DIEGO, ALVARO",
+      "sale": "FERNANDEZ ALONSO, DANIEL"
+    },
+    {
+      "min": 52,
+      "entra": "BALBAS RUIZ, MATEO",
+      "sale": "BEDIA PEÑA, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONZÁLEZ TRESGALLO, ARMANDO": 90,
+    "VARON SANCHEZ, CESAR": 90,
+    "Garcia Roiz, Dario": 62,
+    "GONZALEZ RODRIGUEZ, DAVID": 64,
+    "BARBA AGENJO, ADRIAN": 90,
+    "EXPOSITO MARTIN, PABLO": 52,
+    "QUINTANA CALDERON, MARCOS": 90,
+    "RUIZ MIGUEZ, DANIEL": 90,
+    "MARTINEZ BUSTAMANTE, HUGO": 90,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 90,
+    "SANCHEZ CUEVAS, SAUL": 90,
+    "FERNANDEZ MARTIN, DIEGO": 38,
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO": 28,
+    "HOYUELA COBO, HUGO": 26,
+    "LAUCELLI DÍAZ, CÉSAR": 40,
+    "MANTECÓN HERMANA, ADRIÁN": 90,
+    "BEDIA PEÑA, DANIEL": 52,
+    "DOMINGUEZ RUIZ, SAMUEL": 90,
+    "VELATEGUI TOCA, IGNACIO": 90,
+    "MARTINEZ IBAÑEZ, LUCAS": 90,
+    "FERNANDEZ ALONSO, DANIEL": 50,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 90,
+    "CAMPELO MARTINEZ, PABLO": 47,
+    "LEON RODRIGUEZ, PABLO": 50,
+    "LAVIN VELARDE, MARCOS": 90,
+    "LEDESMA ESUN, GONZALO": 50,
+    "COBO PEREZ, JAVIER": 43,
+    "FUENTE BARRERA, JUAN": 40,
+    "FERNANDEZ DE DIEGO, ALVARO": 40,
+    "BALBAS RUIZ, MATEO": 38
+  },
+  "portero_local": "GONZÁLEZ TRESGALLO, ARMANDO",
+  "portero_visitante": "LAUCELLI DÍAZ, CÉSAR",
+  "dorsales_local": {
+    "GONZÁLEZ TRESGALLO, ARMANDO": 13,
+    "VARON SANCHEZ, CESAR": 4,
+    "Garcia Roiz, Dario": 7,
+    "GONZALEZ RODRIGUEZ, DAVID": 9,
+    "BARBA AGENJO, ADRIAN": 10,
+    "EXPOSITO MARTIN, PABLO": 11,
+    "QUINTANA CALDERON, MARCOS": 12,
+    "RUIZ MIGUEZ, DANIEL": 14,
+    "MARTINEZ BUSTAMANTE, HUGO": 16,
+    "GUTIERREZ RODRIGUEZ, CRISTIAN": 21,
+    "SANCHEZ CUEVAS, SAUL": 30
+  },
+  "dorsales_visitante": {
+    "LAUCELLI DÍAZ, CÉSAR": 13,
+    "MANTECÓN HERMANA, ADRIÁN": 3,
+    "BEDIA PEÑA, DANIEL": 5,
+    "DOMINGUEZ RUIZ, SAMUEL": 6,
+    "VELATEGUI TOCA, IGNACIO": 8,
+    "MARTINEZ IBAÑEZ, LUCAS": 9,
+    "FERNANDEZ ALONSO, DANIEL": 10,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 17,
+    "CAMPELO MARTINEZ, PABLO": 18,
+    "LEON RODRIGUEZ, PABLO": 19,
+    "LAVIN VELARDE, MARCOS": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
