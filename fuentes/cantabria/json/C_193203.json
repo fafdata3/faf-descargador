@@ -1,0 +1,300 @@
+{
+  "acta_id": "C_193203",
+  "filename": "Acta_C_193203.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 20,
+  "fecha": "02-02-2025",
+  "hora": "11:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. LAREDO A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE B",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CADELO CIMIANO, SERGIO"
+  ],
+  "estadio": "Laredo 2",
+  "ciudad": "Laredo",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "MARTÍNEZ MADRAZO, ANDREA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "SARABIA PARDO, ASIER",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "MARTÍNEZ MADRAZO, ANDREA",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "MAZA SILVAN, AITOR",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": true
+    },
+    {
+      "minuto": 49,
+      "jugador": "POSTIGO MIGUEL, ALVARO",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "HAZAS SANTOS, DENNIS",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "COBO HERVELLA, GONZALO",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "ARRATE ORTIZ, JUAN MARIA",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "COBO HERVELLA, GONZALO",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "SARABIA CAVIEDES, JANO ISIDRO",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "LOPEZ DURAN, FABIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CAGIGAS TABARES, ALBERTO",
+  "entrenador_visitante": "RUIZ GARCIA, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "RUIZ DIAZ, FRANCISCO JAVIER",
+  "delegado_campo_local": "ROMANO ROSEÑADA, DAVID",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ROMANO ROSEÑADA, DAVID",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PIEDRA RUIZ, ASIER",
+    "HAZAS SANTOS, DENNIS",
+    "RUEDA FONFRIA, DANIEL",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "SARABIA PARDO, ASIER",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "AGUILERA AGUILERA, DIEGO",
+    "LOPEZ DURAN, FABIO",
+    "FELICES VIVANCO, MARCO",
+    "POSTIGO MIGUEL, ALVARO",
+    "MAZA SILVAN, AITOR"
+  ],
+  "titulares_visitante": [
+    "PEREZ CAYON, ALIO",
+    "DURÁN GÓMEZ, MARCOS",
+    "SOLANA PEREZ, LEO",
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+    "ESCALANTE BUENO, OIER",
+    "MALLAVIA PEREZ, ASIER",
+    "SANCHEZ SALAS, SERGIO",
+    "ROCES RONDO, CRUZ",
+    "SAIZ GARCÍA, IVAN",
+    "CZACHOR, DAMIAN KRZYSZTOF",
+    "SAIZ BOLADO, LUCAS"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ ARANCHETA, IZAN",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "COBO HERVELLA, GONZALO",
+    "AGUILERA AGUILERA, FERNANDO"
+  ],
+  "suplentes_visitante": [
+    "NUÑEZ MORENO, MARCOS",
+    "CUEVAS ALLENDE, NACHO",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "DAHHAOUI RACHID, YAKOUB"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "NUÑEZ MORENO, MARCOS"
+  ],
+  "jugadores_local": [
+    "PIEDRA RUIZ, ASIER",
+    "HAZAS SANTOS, DENNIS",
+    "RUEDA FONFRIA, DANIEL",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "SARABIA PARDO, ASIER",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "AGUILERA AGUILERA, DIEGO",
+    "LOPEZ DURAN, FABIO",
+    "FELICES VIVANCO, MARCO",
+    "POSTIGO MIGUEL, ALVARO",
+    "MAZA SILVAN, AITOR",
+    "AGUILERA AGUILERA, FERNANDO",
+    "FERNANDEZ ARANCHETA, IZAN",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "COBO HERVELLA, GONZALO"
+  ],
+  "jugadores_visitante": [
+    "PEREZ CAYON, ALIO",
+    "DURÁN GÓMEZ, MARCOS",
+    "SOLANA PEREZ, LEO",
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+    "ESCALANTE BUENO, OIER",
+    "MALLAVIA PEREZ, ASIER",
+    "SANCHEZ SALAS, SERGIO",
+    "ROCES RONDO, CRUZ",
+    "SAIZ GARCÍA, IVAN",
+    "CZACHOR, DAMIAN KRZYSZTOF",
+    "SAIZ BOLADO, LUCAS",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "DAHHAOUI RACHID, YAKOUB",
+    "CUEVAS ALLENDE, NACHO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "AGUILERA AGUILERA, FERNANDO",
+      "sale": "POSTIGO MIGUEL, ALVARO"
+    },
+    {
+      "min": 60,
+      "entra": "FERNANDEZ ARANCHETA, IZAN",
+      "sale": "MARTÍNEZ MADRAZO, ANDREA"
+    },
+    {
+      "min": 60,
+      "entra": "ARRATE ORTIZ, JUAN MARIA",
+      "sale": "SARABIA PARDO, ASIER"
+    },
+    {
+      "min": 60,
+      "entra": "COBO HERVELLA, GONZALO",
+      "sale": "AGUILERA AGUILERA, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "GONZALEZ GONZALEZ, DANIEL",
+      "sale": "SAIZ BOLADO, LUCAS"
+    },
+    {
+      "min": 51,
+      "entra": "ZAMAN, VICTOR ALEXANDRU",
+      "sale": "CZACHOR, DAMIAN KRZYSZTOF"
+    },
+    {
+      "min": 60,
+      "entra": "DAHHAOUI RACHID, YAKOUB",
+      "sale": "ROCES RONDO, CRUZ"
+    },
+    {
+      "min": 60,
+      "entra": "CUEVAS ALLENDE, NACHO",
+      "sale": "SANCHEZ SALAS, SERGIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PIEDRA RUIZ, ASIER": 90,
+    "HAZAS SANTOS, DENNIS": 90,
+    "RUEDA FONFRIA, DANIEL": 90,
+    "SARABIA CAVIEDES, JANO ISIDRO": 90,
+    "SARABIA PARDO, ASIER": 60,
+    "MARTÍNEZ MADRAZO, ANDREA": 60,
+    "AGUILERA AGUILERA, DIEGO": 60,
+    "LOPEZ DURAN, FABIO": 90,
+    "FELICES VIVANCO, MARCO": 90,
+    "POSTIGO MIGUEL, ALVARO": 51,
+    "MAZA SILVAN, AITOR": 90,
+    "AGUILERA AGUILERA, FERNANDO": 39,
+    "FERNANDEZ ARANCHETA, IZAN": 30,
+    "ARRATE ORTIZ, JUAN MARIA": 30,
+    "COBO HERVELLA, GONZALO": 30,
+    "PEREZ CAYON, ALIO": 90,
+    "DURÁN GÓMEZ, MARCOS": 90,
+    "SOLANA PEREZ, LEO": 90,
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN": 90,
+    "ESCALANTE BUENO, OIER": 90,
+    "MALLAVIA PEREZ, ASIER": 90,
+    "SANCHEZ SALAS, SERGIO": 60,
+    "ROCES RONDO, CRUZ": 60,
+    "SAIZ GARCÍA, IVAN": 90,
+    "CZACHOR, DAMIAN KRZYSZTOF": 51,
+    "SAIZ BOLADO, LUCAS": 51,
+    "GONZALEZ GONZALEZ, DANIEL": 39,
+    "ZAMAN, VICTOR ALEXANDRU": 39,
+    "DAHHAOUI RACHID, YAKOUB": 30,
+    "CUEVAS ALLENDE, NACHO": 30
+  },
+  "portero_local": "PIEDRA RUIZ, ASIER",
+  "portero_visitante": "PEREZ CAYON, ALIO",
+  "dorsales_local": {
+    "PIEDRA RUIZ, ASIER": 1,
+    "HAZAS SANTOS, DENNIS": 2,
+    "RUEDA FONFRIA, DANIEL": 3,
+    "SARABIA CAVIEDES, JANO ISIDRO": 5,
+    "SARABIA PARDO, ASIER": 7,
+    "MARTÍNEZ MADRAZO, ANDREA": 9,
+    "AGUILERA AGUILERA, DIEGO": 11,
+    "LOPEZ DURAN, FABIO": 12,
+    "FELICES VIVANCO, MARCO": 15,
+    "POSTIGO MIGUEL, ALVARO": 16,
+    "MAZA SILVAN, AITOR": 21
+  },
+  "dorsales_visitante": {
+    "PEREZ CAYON, ALIO": 1,
+    "DURÁN GÓMEZ, MARCOS": 3,
+    "SOLANA PEREZ, LEO": 4,
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN": 6,
+    "ESCALANTE BUENO, OIER": 9,
+    "MALLAVIA PEREZ, ASIER": 12,
+    "SANCHEZ SALAS, SERGIO": 14,
+    "ROCES RONDO, CRUZ": 17,
+    "SAIZ GARCÍA, IVAN": 18,
+    "CZACHOR, DAMIAN KRZYSZTOF": 19,
+    "SAIZ BOLADO, LUCAS": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
