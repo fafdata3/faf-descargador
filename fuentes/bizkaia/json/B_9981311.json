@@ -1,0 +1,266 @@
+{
+  "acta_id": "B_9981311",
+  "filename": "Acta_B_9981311.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 18,
+  "fecha": "07-02-2026",
+  "hora": "14:45",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ITZUBALTZETA",
+  "equipo_visitante": "ERANDIO A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "GARCIA TORRES, IÑAKI"
+  ],
+  "estadio": "GOBELA",
+  "ciudad": "Getxo",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "JAKA ZABALA, JULEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "POSADA ENRIQUEZ, ENAITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "GARCIA DEL ARCO, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "MAROTO ALDANA, XABIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "ESPINA LOIZAGA, ALAIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "BABUGLIA SARASOLA, LUKEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BARRENETXEA ATXURRA, IÑIGO",
+  "entrenador_visitante": "MAROTO ALDANA, XABIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "QUINTANO NIETO, EKAITZ",
+  "delegado_campo_local": "OLAGUIBEL SABIN, JOAQUIN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MOTOVYLETS SMETANYUK, ANDRII",
+  "delegado_equipo_visitante": "GONZALEZ GONZALEZ, ERLANTZ",
+  "titulares_local": [
+    "ALFAYE SANZ, DANEL",
+    "EXTREMO RUIZ, BEÑAT",
+    "JAKA ZABALA, JULEN",
+    "PUERTAS BULNES, EDER",
+    "ABADIN SALOMON, IKER",
+    "VIVANCO MIGUEL, EDER",
+    "ARANAGA SANCHEZ, UNAI",
+    "ELORRIAGA ETXENIKE, LUKEN",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "INÉS FERNÁNDEZ, GORKA",
+    "NOCEDAL ARECHAVALA, AITOR"
+  ],
+  "titulares_visitante": [
+    "GONZALEZ BAZACO, MARKEL",
+    "CLAVERO OTAOLA, ALEX",
+    "GARCIA DEL ARCO, IKER",
+    "POSADA ENRIQUEZ, ENAITZ",
+    "SANTOS GARCIA, ERLANTZ",
+    "GIL FERNANDEZ, MARCOS",
+    "VAZQUEZ MANRIQUE, AITOR",
+    "DIABATE MICHA, MIGUEL AMARA",
+    "RIVAS MARTIN, LUKEN",
+    "SERRANO ROCHA, JON ANDER",
+    "BABUGLIA SARASOLA, LUKEN"
+  ],
+  "suplentes_local": [
+    "MENDEZ ROSALES, JUAN PABLO",
+    "QUINTANA NARDIZ, AIMAR ANDONI",
+    "URQUIZA CORDERO, BEÑAT",
+    "ODRIOZOLA SANCHEZ, JON",
+    "FERNANDEZ MAS, PEDRO",
+    "IGLESIAS SADA, BEÑAT",
+    "KRIDA GOMEZ, RAYAN"
+  ],
+  "suplentes_visitante": [
+    "BONATXEA BERISTAIN, HEGOI",
+    "DOÑABEITIA RODRIGUEZ, XABIER",
+    "MARTIN MENDIOLA, UNAX",
+    "ESPINA LOIZAGA, ALAIN",
+    "SANCHEZ MARTINEZ, DIEGO",
+    "CABIDA ALCORTA, KERMAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "MENDEZ ROSALES, JUAN PABLO",
+    "ODRIOZOLA SANCHEZ, JON",
+    "FERNANDEZ MAS, PEDRO",
+    "IGLESIAS SADA, BEÑAT"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BONATXEA BERISTAIN, HEGOI"
+  ],
+  "jugadores_local": [
+    "ALFAYE SANZ, DANEL",
+    "EXTREMO RUIZ, BEÑAT",
+    "JAKA ZABALA, JULEN",
+    "PUERTAS BULNES, EDER",
+    "ABADIN SALOMON, IKER",
+    "VIVANCO MIGUEL, EDER",
+    "ARANAGA SANCHEZ, UNAI",
+    "ELORRIAGA ETXENIKE, LUKEN",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "INÉS FERNÁNDEZ, GORKA",
+    "NOCEDAL ARECHAVALA, AITOR",
+    "KRIDA GOMEZ, RAYAN",
+    "URQUIZA CORDERO, BEÑAT",
+    "QUINTANA NARDIZ, AIMAR ANDONI"
+  ],
+  "jugadores_visitante": [
+    "GONZALEZ BAZACO, MARKEL",
+    "CLAVERO OTAOLA, ALEX",
+    "GARCIA DEL ARCO, IKER",
+    "POSADA ENRIQUEZ, ENAITZ",
+    "SANTOS GARCIA, ERLANTZ",
+    "GIL FERNANDEZ, MARCOS",
+    "VAZQUEZ MANRIQUE, AITOR",
+    "DIABATE MICHA, MIGUEL AMARA",
+    "RIVAS MARTIN, LUKEN",
+    "SERRANO ROCHA, JON ANDER",
+    "BABUGLIA SARASOLA, LUKEN",
+    "ESPINA LOIZAGA, ALAIN",
+    "MARTIN MENDIOLA, UNAX",
+    "CABIDA ALCORTA, KERMAN",
+    "SANCHEZ MARTINEZ, DIEGO",
+    "DOÑABEITIA RODRIGUEZ, XABIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "KRIDA GOMEZ, RAYAN",
+      "sale": "ELORRIAGA ETXENIKE, LUKEN"
+    },
+    {
+      "min": 41,
+      "entra": "URQUIZA CORDERO, BEÑAT",
+      "sale": "ARANAGA SANCHEZ, UNAI"
+    },
+    {
+      "min": 48,
+      "entra": "QUINTANA NARDIZ, AIMAR ANDONI",
+      "sale": "VIVANCO MIGUEL, EDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "ESPINA LOIZAGA, ALAIN",
+      "sale": "RIVAS MARTIN, LUKEN"
+    },
+    {
+      "min": 61,
+      "entra": "MARTIN MENDIOLA, UNAX",
+      "sale": "VAZQUEZ MANRIQUE, AITOR"
+    },
+    {
+      "min": 67,
+      "entra": "CABIDA ALCORTA, KERMAN",
+      "sale": "GIL FERNANDEZ, MARCOS"
+    },
+    {
+      "min": 77,
+      "entra": "SANCHEZ MARTINEZ, DIEGO",
+      "sale": "DIABATE MICHA, MIGUEL AMARA"
+    },
+    {
+      "min": 77,
+      "entra": "DOÑABEITIA RODRIGUEZ, XABIER",
+      "sale": "SANTOS GARCIA, ERLANTZ"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALFAYE SANZ, DANEL": 90,
+    "EXTREMO RUIZ, BEÑAT": 90,
+    "JAKA ZABALA, JULEN": 90,
+    "PUERTAS BULNES, EDER": 90,
+    "ABADIN SALOMON, IKER": 90,
+    "VIVANCO MIGUEL, EDER": 48,
+    "ARANAGA SANCHEZ, UNAI": 41,
+    "ELORRIAGA ETXENIKE, LUKEN": 41,
+    "ITURRIZAGA ALONSO, KOLDO": 90,
+    "INÉS FERNÁNDEZ, GORKA": 90,
+    "NOCEDAL ARECHAVALA, AITOR": 90,
+    "KRIDA GOMEZ, RAYAN": 49,
+    "URQUIZA CORDERO, BEÑAT": 49,
+    "QUINTANA NARDIZ, AIMAR ANDONI": 42,
+    "GONZALEZ BAZACO, MARKEL": 90,
+    "CLAVERO OTAOLA, ALEX": 90,
+    "GARCIA DEL ARCO, IKER": 90,
+    "POSADA ENRIQUEZ, ENAITZ": 90,
+    "SANTOS GARCIA, ERLANTZ": 77,
+    "GIL FERNANDEZ, MARCOS": 67,
+    "VAZQUEZ MANRIQUE, AITOR": 61,
+    "DIABATE MICHA, MIGUEL AMARA": 77,
+    "RIVAS MARTIN, LUKEN": 41,
+    "SERRANO ROCHA, JON ANDER": 90,
+    "BABUGLIA SARASOLA, LUKEN": 90,
+    "ESPINA LOIZAGA, ALAIN": 49,
+    "MARTIN MENDIOLA, UNAX": 29,
+    "CABIDA ALCORTA, KERMAN": 23,
+    "SANCHEZ MARTINEZ, DIEGO": 13,
+    "DOÑABEITIA RODRIGUEZ, XABIER": 13
+  },
+  "portero_local": "ALFAYE SANZ, DANEL",
+  "portero_visitante": "GONZALEZ BAZACO, MARKEL",
+  "dorsales_local": {
+    "ALFAYE SANZ, DANEL": 13,
+    "EXTREMO RUIZ, BEÑAT": 2,
+    "JAKA ZABALA, JULEN": 3,
+    "PUERTAS BULNES, EDER": 5,
+    "ABADIN SALOMON, IKER": 6,
+    "VIVANCO MIGUEL, EDER": 7,
+    "ARANAGA SANCHEZ, UNAI": 8,
+    "ELORRIAGA ETXENIKE, LUKEN": 9,
+    "ITURRIZAGA ALONSO, KOLDO": 11,
+    "INÉS FERNÁNDEZ, GORKA": 15,
+    "NOCEDAL ARECHAVALA, AITOR": 20
+  },
+  "dorsales_visitante": {
+    "GONZALEZ BAZACO, MARKEL": 13,
+    "CLAVERO OTAOLA, ALEX": 2,
+    "GARCIA DEL ARCO, IKER": 4,
+    "POSADA ENRIQUEZ, ENAITZ": 6,
+    "SANTOS GARCIA, ERLANTZ": 7,
+    "GIL FERNANDEZ, MARCOS": 8,
+    "VAZQUEZ MANRIQUE, AITOR": 10,
+    "DIABATE MICHA, MIGUEL AMARA": 19,
+    "RIVAS MARTIN, LUKEN": 21,
+    "SERRANO ROCHA, JON ANDER": 22,
+    "BABUGLIA SARASOLA, LUKEN": 23
+  },
+  "suspendidos": []
+}
