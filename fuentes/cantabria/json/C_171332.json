@@ -1,0 +1,267 @@
+{
+  "acta_id": "C_171332",
+  "filename": "Acta_C_171332.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 20,
+  "fecha": "10-02-2024",
+  "hora": "19:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "VELARDE C.F. A",
+  "equipo_visitante": "C.D. NAVAL A",
+  "goles_local": 4,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MARISCAL GALLARDO, IKER MIGUEL"
+  ],
+  "estadio": "Muriedas 2",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "GONZALEZ PUENTE, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "PAÑEDA BOLADO, FERNANDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "ARCE ABASCAL, RUBEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "DEL RIO ALONSO, HECTOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 48,
+      "jugador": "PAÑEDA BOLADO, FERNANDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "ARCE ABASCAL, RUBEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 28,
+      "jugador": "BERNARDO BECARES, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 29,
+      "jugador": "CEBALLOS CAYON, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "GUTIERREZ VEGA, HECTOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SALCINES PRIETO, LUIS FELIPE",
+  "entrenador_visitante": "GARCIA GUTIERREZ, JOSE I",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PAÑEDA PORTILLA, JOSE ANGEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PAÑEDA PORTILLA, JOSE ANGEL",
+  "delegado_equipo_visitante": "GARCIA GUTIERREZ, FRANCISCO JAVIER",
+  "titulares_local": [
+    "GARCIA CRUZ, IKER",
+    "CABEZA ZARCO, DANIEL",
+    "BERNARDO BECARES, MARIO",
+    "ALVAREZ CORONA, AARON",
+    "ALVAREZ PEREZ, PABLO",
+    "MALDONADO RUIZ, HECTOR",
+    "PAÑEDA BOLADO, FERNANDO",
+    "ARCE ABASCAL, RUBEN",
+    "FALAGAN DIAZ, MARIO",
+    "SAN MIGUEL SUAREZ, PABLO",
+    "PEREZ NOVAL, LUCAS"
+  ],
+  "titulares_visitante": [
+    "PEREZ HERRERO, IKER",
+    "GONZALEZ PUENTE, HUGO",
+    "CANTERO DE LA PARTE, LUCAS",
+    "BLANCO VALDES, PABLO CAYETANO",
+    "CEBALLOS CAYON, LUCAS",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "DEL RIO ALONSO, HECTOR",
+    "MARTINEZ PEREZ, ANDRES",
+    "MONTES RODRIGUEZ, OROEL",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "SIMÓN GUTIERREZ, DANIEL"
+  ],
+  "suplentes_local": [
+    "SALCINES ZARCO, IZAN",
+    "ALONSO GARCIA, DANIEL",
+    "POLETAEVI, LUKA"
+  ],
+  "suplentes_visitante": [
+    "SAIZ RODRIGUEZ, PABLO",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GONZALEZ RODRIGUEZ, ALVARO",
+    "GUTIERREZ VEGA, HECTOR"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GARCIA CRUZ, IKER",
+    "CABEZA ZARCO, DANIEL",
+    "BERNARDO BECARES, MARIO",
+    "ALVAREZ CORONA, AARON",
+    "ALVAREZ PEREZ, PABLO",
+    "MALDONADO RUIZ, HECTOR",
+    "PAÑEDA BOLADO, FERNANDO",
+    "ARCE ABASCAL, RUBEN",
+    "FALAGAN DIAZ, MARIO",
+    "SAN MIGUEL SUAREZ, PABLO",
+    "PEREZ NOVAL, LUCAS",
+    "SALCINES ZARCO, IZAN",
+    "ALONSO GARCIA, DANIEL",
+    "POLETAEVI, LUKA"
+  ],
+  "jugadores_visitante": [
+    "PEREZ HERRERO, IKER",
+    "GONZALEZ PUENTE, HUGO",
+    "CANTERO DE LA PARTE, LUCAS",
+    "BLANCO VALDES, PABLO CAYETANO",
+    "CEBALLOS CAYON, LUCAS",
+    "LOPEZ GUTIERREZ, ALONSO",
+    "DEL RIO ALONSO, HECTOR",
+    "MARTINEZ PEREZ, ANDRES",
+    "MONTES RODRIGUEZ, OROEL",
+    "GUTIERREZ GARCIA, SAMUEL",
+    "SIMÓN GUTIERREZ, DANIEL",
+    "SAIZ RODRIGUEZ, PABLO",
+    "GUTIERREZ VEGA, HECTOR",
+    "RODRIGUEZ GONZALEZ, IZAN",
+    "GONZALEZ RODRIGUEZ, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SALCINES ZARCO, IZAN",
+      "sale": "BERNARDO BECARES, MARIO"
+    },
+    {
+      "min": 57,
+      "entra": "ALONSO GARCIA, DANIEL",
+      "sale": "FALAGAN DIAZ, MARIO"
+    },
+    {
+      "min": 57,
+      "entra": "POLETAEVI, LUKA",
+      "sale": "CABEZA ZARCO, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SAIZ RODRIGUEZ, PABLO",
+      "sale": "GONZALEZ PUENTE, HUGO"
+    },
+    {
+      "min": 51,
+      "entra": "GUTIERREZ VEGA, HECTOR",
+      "sale": "LOPEZ GUTIERREZ, ALONSO"
+    },
+    {
+      "min": 57,
+      "entra": "RODRIGUEZ GONZALEZ, IZAN",
+      "sale": "GUTIERREZ GARCIA, SAMUEL"
+    },
+    {
+      "min": 64,
+      "entra": "GONZALEZ RODRIGUEZ, ALVARO",
+      "sale": "MONTES RODRIGUEZ, OROEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA CRUZ, IKER": 90,
+    "CABEZA ZARCO, DANIEL": 57,
+    "BERNARDO BECARES, MARIO": 40,
+    "ALVAREZ CORONA, AARON": 90,
+    "ALVAREZ PEREZ, PABLO": 90,
+    "MALDONADO RUIZ, HECTOR": 90,
+    "PAÑEDA BOLADO, FERNANDO": 90,
+    "ARCE ABASCAL, RUBEN": 90,
+    "FALAGAN DIAZ, MARIO": 57,
+    "SAN MIGUEL SUAREZ, PABLO": 90,
+    "PEREZ NOVAL, LUCAS": 90,
+    "SALCINES ZARCO, IZAN": 50,
+    "ALONSO GARCIA, DANIEL": 33,
+    "POLETAEVI, LUKA": 33,
+    "PEREZ HERRERO, IKER": 90,
+    "GONZALEZ PUENTE, HUGO": 40,
+    "CANTERO DE LA PARTE, LUCAS": 90,
+    "BLANCO VALDES, PABLO CAYETANO": 90,
+    "CEBALLOS CAYON, LUCAS": 90,
+    "LOPEZ GUTIERREZ, ALONSO": 51,
+    "DEL RIO ALONSO, HECTOR": 90,
+    "MARTINEZ PEREZ, ANDRES": 90,
+    "MONTES RODRIGUEZ, OROEL": 64,
+    "GUTIERREZ GARCIA, SAMUEL": 57,
+    "SIMÓN GUTIERREZ, DANIEL": 90,
+    "SAIZ RODRIGUEZ, PABLO": 50,
+    "GUTIERREZ VEGA, HECTOR": 39,
+    "RODRIGUEZ GONZALEZ, IZAN": 33,
+    "GONZALEZ RODRIGUEZ, ALVARO": 26
+  },
+  "portero_local": "GARCIA CRUZ, IKER",
+  "portero_visitante": "PEREZ HERRERO, IKER",
+  "dorsales_local": {
+    "GARCIA CRUZ, IKER": 1,
+    "CABEZA ZARCO, DANIEL": 3,
+    "BERNARDO BECARES, MARIO": 4,
+    "ALVAREZ CORONA, AARON": 5,
+    "ALVAREZ PEREZ, PABLO": 6,
+    "MALDONADO RUIZ, HECTOR": 10,
+    "PAÑEDA BOLADO, FERNANDO": 11,
+    "ARCE ABASCAL, RUBEN": 12,
+    "FALAGAN DIAZ, MARIO": 14,
+    "SAN MIGUEL SUAREZ, PABLO": 15,
+    "PEREZ NOVAL, LUCAS": 19
+  },
+  "dorsales_visitante": {
+    "PEREZ HERRERO, IKER": 1,
+    "GONZALEZ PUENTE, HUGO": 2,
+    "CANTERO DE LA PARTE, LUCAS": 3,
+    "BLANCO VALDES, PABLO CAYETANO": 5,
+    "CEBALLOS CAYON, LUCAS": 6,
+    "LOPEZ GUTIERREZ, ALONSO": 7,
+    "DEL RIO ALONSO, HECTOR": 10,
+    "MARTINEZ PEREZ, ANDRES": 11,
+    "MONTES RODRIGUEZ, OROEL": 15,
+    "GUTIERREZ GARCIA, SAMUEL": 19,
+    "SIMÓN GUTIERREZ, DANIEL": 21
+  },
+  "suspendidos": []
+}
