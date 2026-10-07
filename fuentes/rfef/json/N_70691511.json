@@ -9,8 +9,8 @@
   "categoria": "PlayOff por el Título Primera División Fútbol Sala Femenino (Semifinales PlayOff por el Título)",
   "equipo_local": "STV ROLDÁN F.S",
   "equipo_visitante": "MELILLA CIUDAD DEL DEPORTE TORREBLANCA C. F.",
-  "goles_local": 2,
-  "goles_visitante": 6,
+  "goles_local": 0,
+  "goles_visitante": 3,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -31,49 +31,57 @@
       "minuto": 4,
       "jugador": "ALMEIDA DO NASCIMIENTO, ANA LUIZA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 7,
       "jugador": "UÑA CANALES, LAURA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 10,
       "jugador": "GANDÍA GIL, ALBA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 16,
       "jugador": "MATEO GONZÁLEZ, MARÍA TERESA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "MARCONDES, EMILLY MICAELA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 27,
       "jugador": "MARCONDES, EMILLY MICAELA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 32,
       "jugador": "UÑA CANALES, LAURA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 40,
       "jugador": "SAMPER BILBAO, IRENE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -324,6 +332,5 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ],
-  "_marcador_widget": true
+  ]
 }
