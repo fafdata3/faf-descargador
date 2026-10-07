@@ -23,49 +23,57 @@
       "minuto": 6,
       "jugador": "DIAZ ESCOBES, REBECA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 23,
       "jugador": "STEFANINI BLANCO, MARTINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "MERINO DELGADO, EVA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 63,
       "jugador": "MERINO DELGADO, EVA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 67,
       "jugador": "MERINO DELGADO, EVA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 69,
       "jugador": "FERNANDEZ PUERTA, MARTINA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 78,
       "jugador": "MERINO DELGADO, EVA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 89,
       "jugador": "MERINO DELGADO, EVA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -95,7 +103,7 @@
     "DIAZ ESCOBES, REBECA",
     "SANZ LECHUGA, NOA",
     "FERNANDEZ CONTRERAS, MARIA LUCIA",
-    "HAMZAOUI, SALMA",
+    "HAMZAOUI ERROUZI, SALMA",
     "LORENZO JIMENEZ, MARA"
   ],
   "titulares_visitante": [
@@ -133,7 +141,7 @@
     "DIAZ ESCOBES, REBECA",
     "SANZ LECHUGA, NOA",
     "FERNANDEZ CONTRERAS, MARIA LUCIA",
-    "HAMZAOUI, SALMA",
+    "HAMZAOUI ERROUZI, SALMA",
     "LORENZO JIMENEZ, MARA",
     "BELGOUR COLLADO, SARA",
     "CARRASCO FERNANDEZ, ALEXIA",
@@ -199,7 +207,7 @@
     "DIAZ ESCOBES, REBECA": 70,
     "SANZ LECHUGA, NOA": 55,
     "FERNANDEZ CONTRERAS, MARIA LUCIA": 90,
-    "HAMZAOUI, SALMA": 90,
+    "HAMZAOUI ERROUZI, SALMA": 90,
     "LORENZO JIMENEZ, MARA": 70,
     "BELGOUR COLLADO, SARA": 49,
     "CARRASCO FERNANDEZ, ALEXIA": 49,
@@ -231,7 +239,7 @@
     "DIAZ ESCOBES, REBECA": 9,
     "SANZ LECHUGA, NOA": 10,
     "FERNANDEZ CONTRERAS, MARIA LUCIA": 14,
-    "HAMZAOUI, SALMA": 17,
+    "HAMZAOUI ERROUZI, SALMA": 17,
     "LORENZO JIMENEZ, MARA": 19
   },
   "dorsales_visitante": {
@@ -247,6 +255,5 @@
     "FERNANDEZ PUERTA, MARTINA": 17,
     "ODILADZE KAROSANIDZE, ANA": 23
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
