@@ -1,0 +1,235 @@
+{
+  "acta_id": "C_220796",
+  "filename": "Acta_C_220796.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 20,
+  "fecha": "15-02-2026",
+  "hora": "10:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. TROPEZON A",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "IGLESIAS GUTIÉRREZ, DAVID"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 40,
+      "jugador": "FOMPEROSA GARCÍA, LEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "BUENO GARCIA, IAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "COSSIO DELGADO, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "SASIAN PEREZ, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "FOMPEROSA GARCÍA, LEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DEL CASTILLO RUIZ, FRANCISCO JAVIER",
+  "entrenador_visitante": "CUESTA MARTINEZ, RUBEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LAMO MOLINA, JUAN ANTONIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LAMO MOLINA, JUAN ANTONIO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "RUIZ TROUILE, JAIRO",
+    "GUTIERREZ MANTECON, MIKEL",
+    "CASTILLO MONTES, ALEJANDRO",
+    "SASIAN PEREZ, DIEGO",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "DOS REIS REYES, ANDER",
+    "GUERRA GONZALEZ, JACOBO"
+  ],
+  "titulares_visitante": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "GUERRA CALZADA, ÁLVARO",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ REVUELTA, NICOLAS",
+    "ACHEHBOUNE BADOURI, ADAM",
+    "PEREZ MIRANDA, IZAN"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ BLANCO, JORGE",
+    "MARTINEZ GARCIA, IAN",
+    "CASTILLO ABASCAL, PABLO",
+    "HAKKIOUI KHAMOUSSI, AYMENE"
+  ],
+  "suplentes_visitante": [
+    "OCEJA ARRANZ, SIMON",
+    "CUEVAS RUIZ, MARCOS",
+    "DE LA RIVA TELECHEA, NACHO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "CUEVAS RUIZ, MARCOS"
+  ],
+  "jugadores_local": [
+    "RUIZ TROUILE, JAIRO",
+    "GUTIERREZ MANTECON, MIKEL",
+    "CASTILLO MONTES, ALEJANDRO",
+    "SASIAN PEREZ, DIEGO",
+    "BUENO GARCIA, IAN",
+    "ITURBE ACEBAL, DIEGO",
+    "ROJO AROZAMENA, DAVID",
+    "SALAZAR MANZANO, MIGUEL ANGEL",
+    "COSSIO DELGADO, MARCO",
+    "DOS REIS REYES, ANDER",
+    "GUERRA GONZALEZ, JACOBO",
+    "FERNANDEZ BLANCO, JORGE",
+    "MARTINEZ GARCIA, IAN",
+    "HAKKIOUI KHAMOUSSI, AYMENE",
+    "CASTILLO ABASCAL, PABLO"
+  ],
+  "jugadores_visitante": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAEZ DIAZ, NICOLAS",
+    "OLANDA GONZALEZ, HUGO",
+    "RABAGO GOMEZ, MAURO",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "GUERRA CALZADA, ÁLVARO",
+    "MORENO FERNANDEZ, HECTOR",
+    "FOMPEROSA GARCÍA, LEO",
+    "PEREZ REVUELTA, NICOLAS",
+    "ACHEHBOUNE BADOURI, ADAM",
+    "PEREZ MIRANDA, IZAN",
+    "OCEJA ARRANZ, SIMON",
+    "DE LA RIVA TELECHEA, NACHO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "FERNANDEZ BLANCO, JORGE",
+      "sale": "RUIZ TROUILE, JAIRO"
+    },
+    {
+      "min": 35,
+      "entra": "MARTINEZ GARCIA, IAN",
+      "sale": "GUTIERREZ MANTECON, MIKEL"
+    },
+    {
+      "min": 54,
+      "entra": "HAKKIOUI KHAMOUSSI, AYMENE",
+      "sale": "COSSIO DELGADO, MARCO"
+    },
+    {
+      "min": 59,
+      "entra": "CASTILLO ABASCAL, PABLO",
+      "sale": "ROJO AROZAMENA, DAVID"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "OCEJA ARRANZ, SIMON",
+      "sale": "MORENO FERNANDEZ, HECTOR"
+    },
+    {
+      "min": 57,
+      "entra": "DE LA RIVA TELECHEA, NACHO",
+      "sale": "GUERRA CALZADA, ÁLVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ TROUILE, JAIRO": 35,
+    "GUTIERREZ MANTECON, MIKEL": 35,
+    "CASTILLO MONTES, ALEJANDRO": 90,
+    "SASIAN PEREZ, DIEGO": 90,
+    "BUENO GARCIA, IAN": 90,
+    "ITURBE ACEBAL, DIEGO": 90,
+    "ROJO AROZAMENA, DAVID": 59,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 90,
+    "COSSIO DELGADO, MARCO": 54,
+    "DOS REIS REYES, ANDER": 90,
+    "GUERRA GONZALEZ, JACOBO": 90,
+    "FERNANDEZ BLANCO, JORGE": 55,
+    "MARTINEZ GARCIA, IAN": 55,
+    "HAKKIOUI KHAMOUSSI, AYMENE": 36,
+    "CASTILLO ABASCAL, PABLO": 31,
+    "SÁNCHEZ SÁNCHEZ, RAUL": 90,
+    "SAEZ DIAZ, NICOLAS": 90,
+    "OLANDA GONZALEZ, HUGO": 90,
+    "RABAGO GOMEZ, MAURO": 90,
+    "ALVAREZ JIMENEZ, DIEGO": 90,
+    "GUERRA CALZADA, ÁLVARO": 57,
+    "MORENO FERNANDEZ, HECTOR": 52,
+    "FOMPEROSA GARCÍA, LEO": 90,
+    "PEREZ REVUELTA, NICOLAS": 90,
+    "ACHEHBOUNE BADOURI, ADAM": 90,
+    "PEREZ MIRANDA, IZAN": 90,
+    "OCEJA ARRANZ, SIMON": 38,
+    "DE LA RIVA TELECHEA, NACHO": 33
+  },
+  "portero_local": "RUIZ TROUILE, JAIRO",
+  "portero_visitante": "SÁNCHEZ SÁNCHEZ, RAUL",
+  "dorsales_local": {
+    "RUIZ TROUILE, JAIRO": 13,
+    "GUTIERREZ MANTECON, MIKEL": 3,
+    "CASTILLO MONTES, ALEJANDRO": 4,
+    "SASIAN PEREZ, DIEGO": 5,
+    "BUENO GARCIA, IAN": 9,
+    "ITURBE ACEBAL, DIEGO": 10,
+    "ROJO AROZAMENA, DAVID": 11,
+    "SALAZAR MANZANO, MIGUEL ANGEL": 12,
+    "COSSIO DELGADO, MARCO": 14,
+    "DOS REIS REYES, ANDER": 18,
+    "GUERRA GONZALEZ, JACOBO": 19
+  },
+  "dorsales_visitante": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 13,
+    "SAEZ DIAZ, NICOLAS": 2,
+    "OLANDA GONZALEZ, HUGO": 4,
+    "RABAGO GOMEZ, MAURO": 6,
+    "ALVAREZ JIMENEZ, DIEGO": 9,
+    "GUERRA CALZADA, ÁLVARO": 17,
+    "MORENO FERNANDEZ, HECTOR": 19,
+    "FOMPEROSA GARCÍA, LEO": 21,
+    "PEREZ REVUELTA, NICOLAS": 22,
+    "ACHEHBOUNE BADOURI, ADAM": 23,
+    "PEREZ MIRANDA, IZAN": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
