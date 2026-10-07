@@ -1,0 +1,277 @@
+{
+  "acta_id": "R_251918",
+  "filename": "Acta_R_251918.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "05-10-2025",
+  "hora": "13:15",
+  "categoria": "TERCERA FEDERACIÓN DE FÚTBOL FEMENINO (Grupo 16)",
+  "equipo_local": "OYONESA",
+  "equipo_visitante": "DUX LOGROÑO B",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "VASALDUA JUSTO, RAQUEL",
+    "Árbitro Asistente",
+    "CALVO MARTINEZ, LORENA",
+    "Árbitro Asistente",
+    "PERALTA NOGUERA, LORENA YOLANDA"
+  ],
+  "estadio": "C.M. OION ARENA - H.A. (OYON)",
+  "ciudad": "Oyón-Oion",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "JACKSON SOPENA, ELENA",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "ANGULO FAJARDO, ALEJANDRA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "PEREZ APIÑANIZ, ROCIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 88,
+      "jugador": "RODRIGUEZ HEREDIA, CARLA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 31,
+      "jugador": "DE VICENTE MAYA, ELSA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 85,
+      "jugador": "RIPALDA MARAÑON, SANDRA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LARIOS SERRANO, MIGUEL",
+  "entrenador_visitante": "MONTOYA LEZA, DANIEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SERRANO RODRIGUEZ , LAURA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LLEYDA GOMEZ, GERMAN",
+  "delegado_equipo_visitante": "BLASCO BLASCO, JAVIER",
+  "titulares_local": [
+    "TURLAN ABAD, SILVIA",
+    "RODRIGUEZ HEREDIA, CARLA",
+    "ALONSO GARCIA, CARMEN",
+    "PEREZ APIÑANIZ, ROCIO",
+    "LLEYDA JAURRIETA, CARLA",
+    "ANGULO FAJARDO, ALEJANDRA",
+    "SOMOVILLA DIEZ, CARMEN",
+    "RODRIGUEZ VILLADONIGA, ANIA",
+    "RESA MARIN, LUCIA",
+    "SAENZ SERRANO, CARMEN",
+    "RUIZ O SORIA, MARTINA"
+  ],
+  "titulares_visitante": [
+    "GALVEZ IBAÑEZ, CANDELA",
+    "HERNANDEZ MARTÍN, PAOLA",
+    "SANTAMARIA SAENZ, IRATI",
+    "SEBASTIAN MARIN, CARLA",
+    "DE VICENTE MAYA, ELSA",
+    "RIPALDA MARAÑON, SANDRA",
+    "JACKSON SOPENA, ELENA",
+    "NANCLARES CALVO, ARIADNA",
+    "KEMAMI TCHANTCHOU, NDJADJEU TIFFANY",
+    "ARNAEZ GARCIA, OLARTIA",
+    "SOUTO LOPEZ, CAROLINA"
+  ],
+  "suplentes_local": [
+    "SAENZ MENDOZA, AITANA",
+    "SAEZ PELLEJERO, CARLA",
+    "BARTOLOME ANGULO, ZURIÑE",
+    "RUPEREZ ALSASUA, MARIA",
+    "BELMONTE CASADO, ANA",
+    "SÁENZ MENDOZA, DIANA"
+  ],
+  "suplentes_visitante": [
+    "SOTO ANTON, CECILIA",
+    "LOPEZ ARCARAZ, CANDELA",
+    "CARNERO MONTECELO, CELIA",
+    "MORENO MUÑOZ, SOFIA",
+    "VILLAMOR ANGULO, LEYRE",
+    "QUINTANO DÍEZ, ELISA",
+    "JIMENEZ TOLEDO, IRAIA"
+  ],
+  "convocados_sin_jugar_local": [
+    "SAENZ MENDOZA, AITANA",
+    "SAEZ PELLEJERO, CARLA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SOTO ANTON, CECILIA",
+    "MORENO MUÑOZ, SOFIA"
+  ],
+  "jugadores_local": [
+    "TURLAN ABAD, SILVIA",
+    "RODRIGUEZ HEREDIA, CARLA",
+    "ALONSO GARCIA, CARMEN",
+    "PEREZ APIÑANIZ, ROCIO",
+    "LLEYDA JAURRIETA, CARLA",
+    "ANGULO FAJARDO, ALEJANDRA",
+    "SOMOVILLA DIEZ, CARMEN",
+    "RODRIGUEZ VILLADONIGA, ANIA",
+    "RESA MARIN, LUCIA",
+    "SAENZ SERRANO, CARMEN",
+    "RUIZ O SORIA, MARTINA",
+    "BARTOLOME ANGULO, ZURIÑE",
+    "RUPEREZ ALSASUA, MARIA",
+    "SÁENZ MENDOZA, DIANA",
+    "BELMONTE CASADO, ANA"
+  ],
+  "jugadores_visitante": [
+    "GALVEZ IBAÑEZ, CANDELA",
+    "HERNANDEZ MARTÍN, PAOLA",
+    "SANTAMARIA SAENZ, IRATI",
+    "SEBASTIAN MARIN, CARLA",
+    "DE VICENTE MAYA, ELSA",
+    "RIPALDA MARAÑON, SANDRA",
+    "JACKSON SOPENA, ELENA",
+    "NANCLARES CALVO, ARIADNA",
+    "KEMAMI TCHANTCHOU, NDJADJEU TIFFANY",
+    "ARNAEZ GARCIA, OLARTIA",
+    "SOUTO LOPEZ, CAROLINA",
+    "JIMENEZ TOLEDO, IRAIA",
+    "QUINTANO DÍEZ, ELISA",
+    "CARNERO MONTECELO, CELIA",
+    "VILLAMOR ANGULO, LEYRE",
+    "LOPEZ ARCARAZ, CANDELA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "BARTOLOME ANGULO, ZURIÑE",
+      "sale": "RESA MARIN, LUCIA"
+    },
+    {
+      "min": 73,
+      "entra": "RUPEREZ ALSASUA, MARIA",
+      "sale": "ANGULO FAJARDO, ALEJANDRA"
+    },
+    {
+      "min": 83,
+      "entra": "SÁENZ MENDOZA, DIANA",
+      "sale": "PEREZ APIÑANIZ, ROCIO"
+    },
+    {
+      "min": 83,
+      "entra": "BELMONTE CASADO, ANA",
+      "sale": "RUIZ O SORIA, MARTINA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "JIMENEZ TOLEDO, IRAIA",
+      "sale": "DE VICENTE MAYA, ELSA"
+    },
+    {
+      "min": 62,
+      "entra": "QUINTANO DÍEZ, ELISA",
+      "sale": "SEBASTIAN MARIN, CARLA"
+    },
+    {
+      "min": 62,
+      "entra": "CARNERO MONTECELO, CELIA",
+      "sale": "NANCLARES CALVO, ARIADNA"
+    },
+    {
+      "min": 73,
+      "entra": "VILLAMOR ANGULO, LEYRE",
+      "sale": "SANTAMARIA SAENZ, IRATI"
+    },
+    {
+      "min": 73,
+      "entra": "LOPEZ ARCARAZ, CANDELA",
+      "sale": "ARNAEZ GARCIA, OLARTIA"
+    }
+  ],
+  "minutos_jugadores": {
+    "TURLAN ABAD, SILVIA": 90,
+    "RODRIGUEZ HEREDIA, CARLA": 90,
+    "ALONSO GARCIA, CARMEN": 90,
+    "PEREZ APIÑANIZ, ROCIO": 83,
+    "LLEYDA JAURRIETA, CARLA": 90,
+    "ANGULO FAJARDO, ALEJANDRA": 73,
+    "SOMOVILLA DIEZ, CARMEN": 90,
+    "RODRIGUEZ VILLADONIGA, ANIA": 90,
+    "RESA MARIN, LUCIA": 55,
+    "SAENZ SERRANO, CARMEN": 90,
+    "RUIZ O SORIA, MARTINA": 83,
+    "BARTOLOME ANGULO, ZURIÑE": 35,
+    "RUPEREZ ALSASUA, MARIA": 17,
+    "SÁENZ MENDOZA, DIANA": 7,
+    "BELMONTE CASADO, ANA": 7,
+    "GALVEZ IBAÑEZ, CANDELA": 90,
+    "HERNANDEZ MARTÍN, PAOLA": 90,
+    "SANTAMARIA SAENZ, IRATI": 73,
+    "SEBASTIAN MARIN, CARLA": 62,
+    "DE VICENTE MAYA, ELSA": 53,
+    "RIPALDA MARAÑON, SANDRA": 90,
+    "JACKSON SOPENA, ELENA": 90,
+    "NANCLARES CALVO, ARIADNA": 62,
+    "KEMAMI TCHANTCHOU, NDJADJEU TIFFANY": 90,
+    "ARNAEZ GARCIA, OLARTIA": 73,
+    "SOUTO LOPEZ, CAROLINA": 90,
+    "JIMENEZ TOLEDO, IRAIA": 37,
+    "QUINTANO DÍEZ, ELISA": 28,
+    "CARNERO MONTECELO, CELIA": 28,
+    "VILLAMOR ANGULO, LEYRE": 17,
+    "LOPEZ ARCARAZ, CANDELA": 17
+  },
+  "portero_local": "TURLAN ABAD, SILVIA",
+  "portero_visitante": "GALVEZ IBAÑEZ, CANDELA",
+  "dorsales_local": {
+    "TURLAN ABAD, SILVIA": 13,
+    "RODRIGUEZ HEREDIA, CARLA": 3,
+    "ALONSO GARCIA, CARMEN": 5,
+    "PEREZ APIÑANIZ, ROCIO": 6,
+    "LLEYDA JAURRIETA, CARLA": 8,
+    "ANGULO FAJARDO, ALEJANDRA": 9,
+    "SOMOVILLA DIEZ, CARMEN": 10,
+    "RODRIGUEZ VILLADONIGA, ANIA": 11,
+    "RESA MARIN, LUCIA": 12,
+    "SAENZ SERRANO, CARMEN": 14,
+    "RUIZ O SORIA, MARTINA": 21
+  },
+  "dorsales_visitante": {
+    "GALVEZ IBAÑEZ, CANDELA": 1,
+    "HERNANDEZ MARTÍN, PAOLA": 2,
+    "SANTAMARIA SAENZ, IRATI": 7,
+    "SEBASTIAN MARIN, CARLA": 8,
+    "DE VICENTE MAYA, ELSA": 9,
+    "RIPALDA MARAÑON, SANDRA": 11,
+    "JACKSON SOPENA, ELENA": 12,
+    "NANCLARES CALVO, ARIADNA": 14,
+    "KEMAMI TCHANTCHOU, NDJADJEU TIFFANY": 15,
+    "ARNAEZ GARCIA, OLARTIA": 17,
+    "SOUTO LOPEZ, CAROLINA": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
