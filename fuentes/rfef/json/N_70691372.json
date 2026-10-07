@@ -9,8 +9,8 @@
   "categoria": "PlayOff de Ascenso a Primera División Femenina (1ª Eliminatoria)",
   "equipo_local": "CD SALESIANOS PUERTOLLANO",
   "equipo_visitante": "ENCE MARÍN FUTSAL",
-  "goles_local": 3,
-  "goles_visitante": 4,
+  "goles_local": 4,
+  "goles_visitante": 5,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -27,55 +27,64 @@
       "minuto": 3,
       "jugador": "LEAO ARAUJO, PAOLA NICOLLI",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 12,
       "jugador": "LEAO ARAUJO, PAOLA NICOLLI",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
     },
     {
       "minuto": 15,
       "jugador": "BELLA LEDESMA, VICTORIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 24,
       "jugador": "AGULLA FERNANDEZ, CAROLINA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "DE LIMA OLIVEIRA, THAIS",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "BELLA LEDESMA, VICTORIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "PUGA TEJERO, CECILIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 32,
       "jugador": "BELLA LEDESMA, VICTORIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 38,
       "jugador": "SOUTO PATIÑO, LUCIA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -334,5 +343,6 @@
   "suspendidos": [
     "ENCE MARÍN FUTSAL :",
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
