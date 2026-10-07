@@ -1,0 +1,274 @@
+{
+  "acta_id": "B_10061484",
+  "filename": "Acta_B_10061484.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "17:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "LA SALLE A",
+  "equipo_visitante": "ZAZPI LANDA",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "MONGE ERKOREKA (M), IRATI"
+  ],
+  "estadio": "ETXEZURI",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 42,
+      "jugador": "OSORIO ROBLES, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "OSORIO ROBLES, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "DEL CORRO GIL, XABIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "GONZÁLEZ BÁRCENA, IBAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "AGUIRRE DE PRADO, PEIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "AGUIRRE DE PRADO, PEIO",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ ALVAREZ, UNAI",
+  "entrenador_visitante": "AGUIRRE DE PRADO, PEIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ALTARRIBA LOPEZ, JORGE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "URIARTE YANGUAS, EGOITZ",
+  "delegado_equipo_visitante": "CORDERO LOPEZ, JON ANDER",
+  "titulares_local": [
+    "MANRIQUE ARTABE, GORKA",
+    "ALTARRIBA ESTALELLA, EKAIN",
+    "URIARTE PRECIADO, IKER",
+    "DEL CORRO GIL, XABIER",
+    "OSORIO ROBLES, MARKEL",
+    "URRUTIA HERNANDEZ, JON",
+    "GONZÁLEZ BÁRCENA, IBAI",
+    "PAGAZAURTUNDUA RODRÍGUEZ, ASIER",
+    "GALLASTEGUI ORTUONDO, JON",
+    "ETXABE FERNANDEZ, IKER",
+    "SARRIA SIERRA, ANDER"
+  ],
+  "titulares_visitante": [
+    "DANIEL ASIEDU, MATTHEW",
+    "OSTIO SANTAMARIA, EKAIN",
+    "GIL MARTÍNEZ, ASIER",
+    "ORTIZ COBO, MARTÍN",
+    "RUIZ DE LA FUENTE, OIHAN",
+    "RODRIGUEZ AGUINACO, MIKEL",
+    "BILBAO GÁLVEZ, IKER",
+    "SOUSA MARTIN, AIMAR",
+    "ESCRICHE DEL CASTILLO, XABIER",
+    "HUERTAS MARIN, JUAN ESTEBAN",
+    "IRAOLA ROJO, JON"
+  ],
+  "suplentes_local": [
+    "ALONSO ARRIOLA, ANDER",
+    "QUINTANILLA GARCIA, UNAI",
+    "CERMEÑO VÁZQUEZ, LUKA",
+    "IBARRA MIRANDA, ANDER",
+    "PEREZ ARGOS, DIEGO",
+    "CORTA DE HAYA, ASIER",
+    "SISSÉ VEGA, ALAI IRAMÁN"
+  ],
+  "suplentes_visitante": [
+    "TELLECHEA GARCIA, IBAN",
+    "ZAKKAN AJAIZ, MOHAMED AMINE",
+    "YAÑEZ SANDIVAR, CARLOS ANTONIO",
+    "BAZAN RUIZ, ALAN FERNANDO",
+    "MAKANKWE FANG, RONNY",
+    "FERNANDEZ ASENSIO, HECTOR"
+  ],
+  "convocados_sin_jugar_local": [
+    "ALONSO ARRIOLA, ANDER",
+    "IBARRA MIRANDA, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "TELLECHEA GARCIA, IBAN",
+    "MAKANKWE FANG, RONNY"
+  ],
+  "jugadores_local": [
+    "MANRIQUE ARTABE, GORKA",
+    "ALTARRIBA ESTALELLA, EKAIN",
+    "URIARTE PRECIADO, IKER",
+    "DEL CORRO GIL, XABIER",
+    "OSORIO ROBLES, MARKEL",
+    "URRUTIA HERNANDEZ, JON",
+    "GONZÁLEZ BÁRCENA, IBAI",
+    "PAGAZAURTUNDUA RODRÍGUEZ, ASIER",
+    "GALLASTEGUI ORTUONDO, JON",
+    "ETXABE FERNANDEZ, IKER",
+    "SARRIA SIERRA, ANDER",
+    "PEREZ ARGOS, DIEGO",
+    "CORTA DE HAYA, ASIER",
+    "SISSÉ VEGA, ALAI IRAMÁN",
+    "QUINTANILLA GARCIA, UNAI",
+    "CERMEÑO VÁZQUEZ, LUKA"
+  ],
+  "jugadores_visitante": [
+    "DANIEL ASIEDU, MATTHEW",
+    "OSTIO SANTAMARIA, EKAIN",
+    "GIL MARTÍNEZ, ASIER",
+    "ORTIZ COBO, MARTÍN",
+    "RUIZ DE LA FUENTE, OIHAN",
+    "RODRIGUEZ AGUINACO, MIKEL",
+    "BILBAO GÁLVEZ, IKER",
+    "SOUSA MARTIN, AIMAR",
+    "ESCRICHE DEL CASTILLO, XABIER",
+    "HUERTAS MARIN, JUAN ESTEBAN",
+    "IRAOLA ROJO, JON",
+    "YAÑEZ SANDIVAR, CARLOS ANTONIO",
+    "BAZAN RUIZ, ALAN FERNANDO",
+    "FERNANDEZ ASENSIO, HECTOR",
+    "ZAKKAN AJAIZ, MOHAMED AMINE"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 37,
+      "entra": "PEREZ ARGOS, DIEGO",
+      "sale": "GALLASTEGUI ORTUONDO, JON"
+    },
+    {
+      "min": 59,
+      "entra": "CORTA DE HAYA, ASIER",
+      "sale": "SARRIA SIERRA, ANDER"
+    },
+    {
+      "min": 59,
+      "entra": "SISSÉ VEGA, ALAI IRAMÁN",
+      "sale": "DEL CORRO GIL, XABIER"
+    },
+    {
+      "min": 71,
+      "entra": "QUINTANILLA GARCIA, UNAI",
+      "sale": "PAGAZAURTUNDUA RODRÍGUEZ, ASIER"
+    },
+    {
+      "min": 71,
+      "entra": "CERMEÑO VÁZQUEZ, LUKA",
+      "sale": "URRUTIA HERNANDEZ, JON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "YAÑEZ SANDIVAR, CARLOS ANTONIO",
+      "sale": "BILBAO GÁLVEZ, IKER"
+    },
+    {
+      "min": 53,
+      "entra": "BAZAN RUIZ, ALAN FERNANDO",
+      "sale": "ESCRICHE DEL CASTILLO, XABIER"
+    },
+    {
+      "min": 73,
+      "entra": "FERNANDEZ ASENSIO, HECTOR",
+      "sale": "OSTIO SANTAMARIA, EKAIN"
+    },
+    {
+      "min": 73,
+      "entra": "ZAKKAN AJAIZ, MOHAMED AMINE",
+      "sale": "RODRIGUEZ AGUINACO, MIKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "MANRIQUE ARTABE, GORKA": 90,
+    "ALTARRIBA ESTALELLA, EKAIN": 90,
+    "URIARTE PRECIADO, IKER": 90,
+    "DEL CORRO GIL, XABIER": 59,
+    "OSORIO ROBLES, MARKEL": 90,
+    "URRUTIA HERNANDEZ, JON": 71,
+    "GONZÁLEZ BÁRCENA, IBAI": 90,
+    "PAGAZAURTUNDUA RODRÍGUEZ, ASIER": 71,
+    "GALLASTEGUI ORTUONDO, JON": 37,
+    "ETXABE FERNANDEZ, IKER": 90,
+    "SARRIA SIERRA, ANDER": 59,
+    "PEREZ ARGOS, DIEGO": 53,
+    "CORTA DE HAYA, ASIER": 31,
+    "SISSÉ VEGA, ALAI IRAMÁN": 31,
+    "QUINTANILLA GARCIA, UNAI": 19,
+    "CERMEÑO VÁZQUEZ, LUKA": 19,
+    "DANIEL ASIEDU, MATTHEW": 90,
+    "OSTIO SANTAMARIA, EKAIN": 73,
+    "GIL MARTÍNEZ, ASIER": 90,
+    "ORTIZ COBO, MARTÍN": 90,
+    "RUIZ DE LA FUENTE, OIHAN": 90,
+    "RODRIGUEZ AGUINACO, MIKEL": 73,
+    "BILBAO GÁLVEZ, IKER": 51,
+    "SOUSA MARTIN, AIMAR": 90,
+    "ESCRICHE DEL CASTILLO, XABIER": 53,
+    "HUERTAS MARIN, JUAN ESTEBAN": 90,
+    "IRAOLA ROJO, JON": 90,
+    "YAÑEZ SANDIVAR, CARLOS ANTONIO": 39,
+    "BAZAN RUIZ, ALAN FERNANDO": 37,
+    "FERNANDEZ ASENSIO, HECTOR": 17,
+    "ZAKKAN AJAIZ, MOHAMED AMINE": 17
+  },
+  "portero_local": "MANRIQUE ARTABE, GORKA",
+  "portero_visitante": "DANIEL ASIEDU, MATTHEW",
+  "dorsales_local": {
+    "MANRIQUE ARTABE, GORKA": 13,
+    "ALTARRIBA ESTALELLA, EKAIN": 3,
+    "URIARTE PRECIADO, IKER": 4,
+    "DEL CORRO GIL, XABIER": 5,
+    "OSORIO ROBLES, MARKEL": 7,
+    "URRUTIA HERNANDEZ, JON": 10,
+    "GONZÁLEZ BÁRCENA, IBAI": 11,
+    "PAGAZAURTUNDUA RODRÍGUEZ, ASIER": 15,
+    "GALLASTEGUI ORTUONDO, JON": 17,
+    "ETXABE FERNANDEZ, IKER": 18,
+    "SARRIA SIERRA, ANDER": 20
+  },
+  "dorsales_visitante": {
+    "DANIEL ASIEDU, MATTHEW": 13,
+    "OSTIO SANTAMARIA, EKAIN": 2,
+    "GIL MARTÍNEZ, ASIER": 3,
+    "ORTIZ COBO, MARTÍN": 4,
+    "RUIZ DE LA FUENTE, OIHAN": 6,
+    "RODRIGUEZ AGUINACO, MIKEL": 8,
+    "BILBAO GÁLVEZ, IKER": 9,
+    "SOUSA MARTIN, AIMAR": 11,
+    "ESCRICHE DEL CASTILLO, XABIER": 15,
+    "HUERTAS MARIN, JUAN ESTEBAN": 16,
+    "IRAOLA ROJO, JON": 18
+  },
+  "suspendidos": [
+    "AGUIRRE DE PRADO, PEIO"
+  ]
+}
