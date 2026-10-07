@@ -10,8 +10,8 @@
   "equipo_local": "SELECCIÓN ANDALUZA",
   "equipo_visitante": "SELECCIÓN CATALANA",
   "goles_local": 3,
-  "goles_visitante": 1,
-  "resultado": "W",
+  "goles_visitante": 3,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "GUERRERO SANS, SILVIA",
@@ -29,37 +29,43 @@
       "minuto": 6,
       "jugador": "VILLEGAS CARRANZA, MARTA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 7,
       "jugador": "RAMOS GARCIA, MARIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "PEREZ LLUIS, MARTA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 23,
       "jugador": "RAMOS GARCIA, MARIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "MONTAÑÉS FERNÁNDEZ, LOLA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 32,
       "jugador": "PERNIA ROY, ARIADNA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -287,5 +293,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
