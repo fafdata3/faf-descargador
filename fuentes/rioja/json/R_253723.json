@@ -10,8 +10,8 @@
   "equipo_local": "SPORTING CASCAJOS Capos Pizzeria",
   "equipo_visitante": "AD LARDERO Maquimplast",
   "goles_local": 1,
-  "goles_visitante": 3,
-  "resultado": "L",
+  "goles_visitante": 1,
+  "resultado": "D",
   "arbitros": [
     "Árbitro Principal",
     "CABEZÓN NALDA, FERNANDO"
@@ -23,43 +23,32 @@
       "minuto": 8,
       "jugador": "PRADO DIMAS, MARIO JESUS",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 43,
       "jugador": "ANTON JIMENEZ, JORGE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 46,
       "jugador": "GARRIDO OLIVAN, ISAAC",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 56,
       "jugador": "JAIME GARCIA, MIGUEL",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
-  "tarjetas": [
-    {
-      "minuto": 57,
-      "jugador": "ED DERRAZ, FATAH",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 57,
-      "jugador": "AD LARDERO Maquimplast",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    }
-  ],
+  "tarjetas": [],
   "entrenador_local": null,
   "entrenador_visitante": "DUBLAN GARNICA, JOSE A",
   "segundo_entrenador_local": null,
@@ -154,6 +143,5 @@
     "FERNANDEZ LOPEZ, JOEL": 9,
     "JAIME GARCIA, MIGUEL": 12
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
