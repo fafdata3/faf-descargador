@@ -1,0 +1,292 @@
+{
+  "acta_id": "C_193196",
+  "filename": "Acta_C_193196.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 19,
+  "fecha": "25-01-2025",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. ARENAS DE FRAJANAS A",
+  "equipo_visitante": "AA. VV. LA MARISMA A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZÁLEZ OBESO, RUBÉN"
+  ],
+  "estadio": "Municipal de Frajanas",
+  "ciudad": "Astillero (El)",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "TORRE CAGIGAS, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "TORIBIO ARCE, EDUARDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "DE LA IGLESIA SALVADOR, RODRIGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "MARTINEZ RUIZ, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 74,
+      "jugador": "LOMAS AYUSO, GERARDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 12,
+      "jugador": "ALONSO GONZALEZ, FERNANDO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "LOMAS AYUSO, GERARDO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "TORIBIO ARCE, EDUARDO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "DE LA IGLESIA SALVADOR, RODRIGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MATE GARCIA, DIEGO",
+  "entrenador_visitante": "RUIZ GUTIERREZ, ENRIQUE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DE JUANA RODRIGUEZ, BORJA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ESTRAVIZ BASCONES, ALEJANDRO",
+  "delegado_equipo_visitante": "SARACHAGA GIL, JOSE LUIS",
+  "titulares_local": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "belver duran, ivan",
+    "YEDRA MARTIN, NICOLAS",
+    "CUERO BENITO, HUGO"
+  ],
+  "titulares_visitante": [
+    "FALL FALL, MOR",
+    "GONZALEZ OSORIO, DANIEL",
+    "HERRERA MACIA, NICOLAS",
+    "MARTINEZ RUIZ, LUCAS",
+    "HIGUERA MARTINEZ, DIEGO",
+    "TORRE CAGIGAS, NICOLAS",
+    "VALENZUELA COS, GERARDO",
+    "AVENDAÑO SILIO, ADRIAN",
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO",
+    "CAVADA CAVADA, ADRIAN",
+    "LIEBANA GUTIERREZ, ADRIAN"
+  ],
+  "suplentes_local": [
+    "CONDE BORREGUERO, BRUNO",
+    "DIAZ SANCHEZ, IZAN",
+    "MARTIN SECO, BRUNO",
+    "QUIJANO SOTO, PABLO",
+    "DE LA IGLESIA SALVADOR, RODRIGO"
+  ],
+  "suplentes_visitante": [
+    "HARO FERNANDEZ, HUGO",
+    "MOJA GOMEZ, DIEGO",
+    "SARACHAGA GAÑAN, IKER",
+    "GUTIERREZ ECHEVARRIA, DARIO",
+    "LAMADRID RIVAS, HUGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "JIMENEZ LASTRA, MIGUEL",
+    "BRAVO HERRERO, MARIO",
+    "ALONSO GONZALEZ, FERNANDO",
+    "VICENTE LOPEZ, IVAN",
+    "TORIBIO ARCE, EDUARDO",
+    "LOMAS AYUSO, GERARDO",
+    "FUERTES LOPEZ, ANGEL",
+    "MATE GARCIA, ALVARO",
+    "belver duran, ivan",
+    "YEDRA MARTIN, NICOLAS",
+    "CUERO BENITO, HUGO",
+    "DE LA IGLESIA SALVADOR, RODRIGO",
+    "CONDE BORREGUERO, BRUNO",
+    "QUIJANO SOTO, PABLO",
+    "MARTIN SECO, BRUNO",
+    "DIAZ SANCHEZ, IZAN"
+  ],
+  "jugadores_visitante": [
+    "FALL FALL, MOR",
+    "GONZALEZ OSORIO, DANIEL",
+    "HERRERA MACIA, NICOLAS",
+    "MARTINEZ RUIZ, LUCAS",
+    "HIGUERA MARTINEZ, DIEGO",
+    "TORRE CAGIGAS, NICOLAS",
+    "VALENZUELA COS, GERARDO",
+    "AVENDAÑO SILIO, ADRIAN",
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO",
+    "CAVADA CAVADA, ADRIAN",
+    "LIEBANA GUTIERREZ, ADRIAN",
+    "GUTIERREZ ECHEVARRIA, DARIO",
+    "MOJA GOMEZ, DIEGO",
+    "HARO FERNANDEZ, HUGO",
+    "LAMADRID RIVAS, HUGO",
+    "SARACHAGA GAÑAN, IKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 22,
+      "entra": "DE LA IGLESIA SALVADOR, RODRIGO",
+      "sale": "VICENTE LOPEZ, IVAN"
+    },
+    {
+      "min": 40,
+      "entra": "CONDE BORREGUERO, BRUNO",
+      "sale": "JIMENEZ LASTRA, MIGUEL"
+    },
+    {
+      "min": 54,
+      "entra": "QUIJANO SOTO, PABLO",
+      "sale": "YEDRA MARTIN, NICOLAS"
+    },
+    {
+      "min": 54,
+      "entra": "MARTIN SECO, BRUNO",
+      "sale": "TORIBIO ARCE, EDUARDO"
+    },
+    {
+      "min": 62,
+      "entra": "DIAZ SANCHEZ, IZAN",
+      "sale": "ALONSO GONZALEZ, FERNANDO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GUTIERREZ ECHEVARRIA, DARIO",
+      "sale": "HIGUERA MARTINEZ, DIEGO"
+    },
+    {
+      "min": 40,
+      "entra": "MOJA GOMEZ, DIEGO",
+      "sale": "NUÑEZ CORDOVA, WLADIMIR ANTONIO"
+    },
+    {
+      "min": 40,
+      "entra": "HARO FERNANDEZ, HUGO",
+      "sale": "FALL FALL, MOR"
+    },
+    {
+      "min": 65,
+      "entra": "LAMADRID RIVAS, HUGO",
+      "sale": "AVENDAÑO SILIO, ADRIAN"
+    },
+    {
+      "min": 67,
+      "entra": "SARACHAGA GAÑAN, IKER",
+      "sale": "VALENZUELA COS, GERARDO"
+    }
+  ],
+  "minutos_jugadores": {
+    "JIMENEZ LASTRA, MIGUEL": 40,
+    "BRAVO HERRERO, MARIO": 90,
+    "ALONSO GONZALEZ, FERNANDO": 62,
+    "VICENTE LOPEZ, IVAN": 22,
+    "TORIBIO ARCE, EDUARDO": 54,
+    "LOMAS AYUSO, GERARDO": 90,
+    "FUERTES LOPEZ, ANGEL": 90,
+    "MATE GARCIA, ALVARO": 90,
+    "belver duran, ivan": 90,
+    "YEDRA MARTIN, NICOLAS": 54,
+    "CUERO BENITO, HUGO": 90,
+    "DE LA IGLESIA SALVADOR, RODRIGO": 68,
+    "CONDE BORREGUERO, BRUNO": 50,
+    "QUIJANO SOTO, PABLO": 36,
+    "MARTIN SECO, BRUNO": 36,
+    "DIAZ SANCHEZ, IZAN": 28,
+    "FALL FALL, MOR": 40,
+    "GONZALEZ OSORIO, DANIEL": 90,
+    "HERRERA MACIA, NICOLAS": 90,
+    "MARTINEZ RUIZ, LUCAS": 90,
+    "HIGUERA MARTINEZ, DIEGO": 40,
+    "TORRE CAGIGAS, NICOLAS": 90,
+    "VALENZUELA COS, GERARDO": 67,
+    "AVENDAÑO SILIO, ADRIAN": 65,
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO": 40,
+    "CAVADA CAVADA, ADRIAN": 90,
+    "LIEBANA GUTIERREZ, ADRIAN": 90,
+    "GUTIERREZ ECHEVARRIA, DARIO": 50,
+    "MOJA GOMEZ, DIEGO": 50,
+    "HARO FERNANDEZ, HUGO": 50,
+    "LAMADRID RIVAS, HUGO": 25,
+    "SARACHAGA GAÑAN, IKER": 23
+  },
+  "portero_local": "JIMENEZ LASTRA, MIGUEL",
+  "portero_visitante": "FALL FALL, MOR",
+  "dorsales_local": {
+    "JIMENEZ LASTRA, MIGUEL": 13,
+    "BRAVO HERRERO, MARIO": 3,
+    "ALONSO GONZALEZ, FERNANDO": 4,
+    "VICENTE LOPEZ, IVAN": 5,
+    "TORIBIO ARCE, EDUARDO": 6,
+    "LOMAS AYUSO, GERARDO": 7,
+    "FUERTES LOPEZ, ANGEL": 9,
+    "MATE GARCIA, ALVARO": 10,
+    "belver duran, ivan": 15,
+    "YEDRA MARTIN, NICOLAS": 20,
+    "CUERO BENITO, HUGO": 22
+  },
+  "dorsales_visitante": {
+    "FALL FALL, MOR": 1,
+    "GONZALEZ OSORIO, DANIEL": 2,
+    "HERRERA MACIA, NICOLAS": 4,
+    "MARTINEZ RUIZ, LUCAS": 5,
+    "HIGUERA MARTINEZ, DIEGO": 8,
+    "TORRE CAGIGAS, NICOLAS": 9,
+    "VALENZUELA COS, GERARDO": 10,
+    "AVENDAÑO SILIO, ADRIAN": 12,
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO": 14,
+    "CAVADA CAVADA, ADRIAN": 17,
+    "LIEBANA GUTIERREZ, ADRIAN": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
