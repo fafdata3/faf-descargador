@@ -1,0 +1,274 @@
+{
+  "acta_id": "C_193214",
+  "filename": "Acta_C_193214.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 21,
+  "fecha": "08-02-2025",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA B",
+  "equipo_visitante": "C.D. TROPEZON B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "VISPO RODRIGUEZ, ISRAEL"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 33,
+      "jugador": "GARCIA DIAZ, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "MARTINEZ FERNANDEZ, ASIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "HOYUELA COBO, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "PEREZ EGUREN, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "GALLO VERGARA, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "SEIJAS SANZ-BAZA, AITOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "CUESTA FEIJOO, CARLOS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "CAMPO FERNANDEZ, SAMUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JIMENO DIEZ, UNAI",
+  "entrenador_visitante": "GONZALEZ ALVAREZ, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "LANDEO LLANCAYA, LUIS FRANCISCO",
+  "titulares_local": [
+    "ARROYO FERNANDEZ, PABLO",
+    "ZAMANILLO ARGUELLO, PABLO",
+    "GALLO VERGARA, PABLO",
+    "GUTIERREZ REVUELTA, NECO",
+    "BLANCO OTERO, JANO",
+    "BORREGA BALZA, ISAAC",
+    "MALLAVIA MUGICA, MIKEL",
+    "MARQUEZ REVUELTA, ALEX",
+    "HOYUELA COBO, HUGO",
+    "PEREZ EGUREN, DAVID",
+    "SANCHEZ CUEVAS, SAUL"
+  ],
+  "titulares_visitante": [
+    "CRUZ ABASCAL, JAVIER",
+    "ORIA SAINZ, MARCOS",
+    "ALONSO EDILLA, MIGUEL",
+    "HOUFRI BAKBACHI, HARON",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "CUESTA FEIJOO, CARLOS",
+    "GONZALEZ BLUM, MANUEL",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "MENDARO TERAN, ANTONIO",
+    "GARCIA DIAZ, JAVIER"
+  ],
+  "suplentes_local": [
+    "PINEDA DIAZ, JORGE",
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "DEL VALLE COBO, DANIEL",
+    "ALONSO MOTA, IVAN",
+    "RUIZ TOCA, MARIO"
+  ],
+  "suplentes_visitante": [
+    "PÉREZ GARCÍA, CÉSAR",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "GOITIA GUTIERREZ, PABLO",
+    "CAMPO FERNANDEZ, SAMUEL",
+    "GUTIERREZ MARTINEZ, ALVARO"
+  ],
+  "convocados_sin_jugar_local": [
+    "PINEDA DIAZ, JORGE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PÉREZ GARCÍA, CÉSAR"
+  ],
+  "jugadores_local": [
+    "ARROYO FERNANDEZ, PABLO",
+    "ZAMANILLO ARGUELLO, PABLO",
+    "GALLO VERGARA, PABLO",
+    "GUTIERREZ REVUELTA, NECO",
+    "BLANCO OTERO, JANO",
+    "BORREGA BALZA, ISAAC",
+    "MALLAVIA MUGICA, MIKEL",
+    "MARQUEZ REVUELTA, ALEX",
+    "HOYUELA COBO, HUGO",
+    "PEREZ EGUREN, DAVID",
+    "SANCHEZ CUEVAS, SAUL",
+    "RUIZ TOCA, MARIO",
+    "ALONSO MOTA, IVAN",
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "DEL VALLE COBO, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "CRUZ ABASCAL, JAVIER",
+    "ORIA SAINZ, MARCOS",
+    "ALONSO EDILLA, MIGUEL",
+    "HOUFRI BAKBACHI, HARON",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "CUESTA FEIJOO, CARLOS",
+    "GONZALEZ BLUM, MANUEL",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "MARTINEZ RODRIGUEZ, AARON",
+    "MENDARO TERAN, ANTONIO",
+    "GARCIA DIAZ, JAVIER",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "CAMPO FERNANDEZ, SAMUEL",
+    "GOITIA GUTIERREZ, PABLO",
+    "GUTIERREZ MARTINEZ, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "RUIZ TOCA, MARIO",
+      "sale": "GUTIERREZ REVUELTA, NECO"
+    },
+    {
+      "min": 50,
+      "entra": "ALONSO MOTA, IVAN",
+      "sale": "BORREGA BALZA, ISAAC"
+    },
+    {
+      "min": 52,
+      "entra": "MENDEZ RODRIGUEZ, JOSE RAMON",
+      "sale": "MALLAVIA MUGICA, MIKEL"
+    },
+    {
+      "min": 60,
+      "entra": "DEL VALLE COBO, DANIEL",
+      "sale": "BLANCO OTERO, JANO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "QUINTANAL ZARRABETIA, ASIER",
+      "sale": "SEIJAS SANZ-BAZA, AITOR"
+    },
+    {
+      "min": 62,
+      "entra": "CAMPO FERNANDEZ, SAMUEL",
+      "sale": "ORIA SAINZ, MARCOS"
+    },
+    {
+      "min": 67,
+      "entra": "GOITIA GUTIERREZ, PABLO",
+      "sale": "MARTINEZ FERNANDEZ, ASIER"
+    },
+    {
+      "min": 72,
+      "entra": "GUTIERREZ MARTINEZ, ALVARO",
+      "sale": "MARTINEZ RODRIGUEZ, AARON"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARROYO FERNANDEZ, PABLO": 90,
+    "ZAMANILLO ARGUELLO, PABLO": 90,
+    "GALLO VERGARA, PABLO": 90,
+    "GUTIERREZ REVUELTA, NECO": 41,
+    "BLANCO OTERO, JANO": 60,
+    "BORREGA BALZA, ISAAC": 50,
+    "MALLAVIA MUGICA, MIKEL": 52,
+    "MARQUEZ REVUELTA, ALEX": 90,
+    "HOYUELA COBO, HUGO": 90,
+    "PEREZ EGUREN, DAVID": 90,
+    "SANCHEZ CUEVAS, SAUL": 90,
+    "RUIZ TOCA, MARIO": 49,
+    "ALONSO MOTA, IVAN": 40,
+    "MENDEZ RODRIGUEZ, JOSE RAMON": 38,
+    "DEL VALLE COBO, DANIEL": 30,
+    "CRUZ ABASCAL, JAVIER": 90,
+    "ORIA SAINZ, MARCOS": 62,
+    "ALONSO EDILLA, MIGUEL": 90,
+    "HOUFRI BAKBACHI, HARON": 90,
+    "SEIJAS SANZ-BAZA, AITOR": 52,
+    "CUESTA FEIJOO, CARLOS": 90,
+    "GONZALEZ BLUM, MANUEL": 90,
+    "MARTINEZ FERNANDEZ, ASIER": 67,
+    "MARTINEZ RODRIGUEZ, AARON": 72,
+    "MENDARO TERAN, ANTONIO": 90,
+    "GARCIA DIAZ, JAVIER": 90,
+    "QUINTANAL ZARRABETIA, ASIER": 38,
+    "CAMPO FERNANDEZ, SAMUEL": 28,
+    "GOITIA GUTIERREZ, PABLO": 23,
+    "GUTIERREZ MARTINEZ, ALVARO": 18
+  },
+  "portero_local": "ARROYO FERNANDEZ, PABLO",
+  "portero_visitante": "CRUZ ABASCAL, JAVIER",
+  "dorsales_local": {
+    "ARROYO FERNANDEZ, PABLO": 1,
+    "ZAMANILLO ARGUELLO, PABLO": 3,
+    "GALLO VERGARA, PABLO": 5,
+    "GUTIERREZ REVUELTA, NECO": 9,
+    "BLANCO OTERO, JANO": 10,
+    "BORREGA BALZA, ISAAC": 11,
+    "MALLAVIA MUGICA, MIKEL": 12,
+    "MARQUEZ REVUELTA, ALEX": 15,
+    "HOYUELA COBO, HUGO": 17,
+    "PEREZ EGUREN, DAVID": 18,
+    "SANCHEZ CUEVAS, SAUL": 30
+  },
+  "dorsales_visitante": {
+    "CRUZ ABASCAL, JAVIER": 1,
+    "ORIA SAINZ, MARCOS": 2,
+    "ALONSO EDILLA, MIGUEL": 3,
+    "HOUFRI BAKBACHI, HARON": 4,
+    "SEIJAS SANZ-BAZA, AITOR": 5,
+    "CUESTA FEIJOO, CARLOS": 6,
+    "GONZALEZ BLUM, MANUEL": 7,
+    "MARTINEZ FERNANDEZ, ASIER": 9,
+    "MARTINEZ RODRIGUEZ, AARON": 10,
+    "MENDARO TERAN, ANTONIO": 14,
+    "GARCIA DIAZ, JAVIER": 19
+  },
+  "suspendidos": []
+}
