@@ -9,7 +9,7 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO B)",
   "equipo_local": "C.D. ENPIE MALAGA FUTBOL PLAYA",
   "equipo_visitante": "CFF BARBATE",
-  "goles_local": 3,
+  "goles_local": 7,
   "goles_visitante": 2,
   "resultado": "W",
   "arbitros": [
@@ -29,55 +29,64 @@
       "minuto": 6,
       "jugador": "MEDINA TORREBLANCA, ARANTXA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 7,
       "jugador": "WIARD, ANAËLLE JACQUELINE J",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 14,
       "jugador": "PATENAUDE, RILEY",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "MEDINA TORREBLANCA, ARANTXA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 23,
       "jugador": "COLOMBO, JOAQUINA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 23,
       "jugador": "COLOMBO, JOAQUINA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 25,
       "jugador": "WIARD, ANAËLLE JACQUELINE J",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "PEREZ CEBALLOS, LUCIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "BERNAL BARCELO, LUNA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -275,5 +284,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
