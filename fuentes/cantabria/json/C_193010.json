@@ -1,0 +1,247 @@
+{
+  "acta_id": "C_193010",
+  "filename": "Acta_C_193010.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 32,
+  "fecha": "10-05-2025",
+  "hora": "11:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA A",
+  "equipo_visitante": "C.AT. PERINES",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CANALES IGLESIAS, ZEUS"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "GONZALEZ CELIS, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "Garcia Roiz, Dario",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 33,
+      "jugador": "ROVIRA GUITIAN, RAFAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALONSO ALONSO, HECTOR",
+  "entrenador_visitante": "MARCOS NUÑEZ, JUAN JOSE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAMPERIO GUTIERREZ, ALEJANDRO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAMPERIO GUTIERREZ, ALEJANDRO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "MALLAVIA MUGICA, MIKEL",
+    "VARON SANCHEZ, CESAR",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+    "BARBA AGENJO, ADRIAN",
+    "QUINTANA CALDERON, MARCOS",
+    "RUIZ MIGUEZ, DANIEL",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GONZALEZ CELIS, MARCO",
+    "SANCHEZ CUEVAS, SAUL"
+  ],
+  "titulares_visitante": [
+    "SERTUCHA PEREZ, EDUARDO",
+    "GARCIA RUEDA, BELTRAN",
+    "ROVIRA GUITIAN, RAFAEL",
+    "MARTINEZ MURIEDAS, PABLO",
+    "DE LA FUENTE TORRE, DANIEL",
+    "LAVIN CHAVEZ, MARIO",
+    "CANALES VILLA, IKER",
+    "IGLESIAS LOZANO, JOSE MARIA",
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+    "LOPEZ FERNANDEZ, IAN",
+    "FERNANDEZ FERNANDEZ, IKER"
+  ],
+  "suplentes_local": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "GALLO VERGARA, PABLO",
+    "Garcia Roiz, Dario",
+    "EXPOSITO MARTIN, PABLO",
+    "HOYUELA COBO, HUGO"
+  ],
+  "suplentes_visitante": [
+    "MARTINEZ SANCHEZ, PEDRO",
+    "LASTRA CAÑEDO, FIDEL",
+    "ORDAX IBAÑEZ, DAVID",
+    "HERNANDEZ DÍAZ, IKER",
+    "CARRASCAL RUIZ, IZAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "GONZÁLEZ TRESGALLO, ARMANDO",
+    "GALLO VERGARA, PABLO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MARTINEZ SANCHEZ, PEDRO"
+  ],
+  "jugadores_local": [
+    "FERNANDEZ SAÑUDO, GERMAN",
+    "MALLAVIA MUGICA, MIKEL",
+    "VARON SANCHEZ, CESAR",
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO",
+    "BARBA AGENJO, ADRIAN",
+    "QUINTANA CALDERON, MARCOS",
+    "RUIZ MIGUEZ, DANIEL",
+    "MARTINEZ BUSTAMANTE, HUGO",
+    "DEL RIO PRIETO, JUAN VICENTE",
+    "GONZALEZ CELIS, MARCO",
+    "SANCHEZ CUEVAS, SAUL",
+    "EXPOSITO MARTIN, PABLO",
+    "HOYUELA COBO, HUGO",
+    "Garcia Roiz, Dario"
+  ],
+  "jugadores_visitante": [
+    "SERTUCHA PEREZ, EDUARDO",
+    "GARCIA RUEDA, BELTRAN",
+    "ROVIRA GUITIAN, RAFAEL",
+    "MARTINEZ MURIEDAS, PABLO",
+    "DE LA FUENTE TORRE, DANIEL",
+    "LAVIN CHAVEZ, MARIO",
+    "CANALES VILLA, IKER",
+    "IGLESIAS LOZANO, JOSE MARIA",
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+    "LOPEZ FERNANDEZ, IAN",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "ORDAX IBAÑEZ, DAVID",
+    "LASTRA CAÑEDO, FIDEL",
+    "HERNANDEZ DÍAZ, IKER",
+    "CARRASCAL RUIZ, IZAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "EXPOSITO MARTIN, PABLO",
+      "sale": "SANCHEZ CUEVAS, SAUL"
+    },
+    {
+      "min": 64,
+      "entra": "HOYUELA COBO, HUGO",
+      "sale": "GONZALEZ CELIS, MARCO"
+    },
+    {
+      "min": 72,
+      "entra": "Garcia Roiz, Dario",
+      "sale": "FERNÁNDEZ SÁNCHEZ, ÁLVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "ORDAX IBAÑEZ, DAVID",
+      "sale": "IGLESIAS LOZANO, JOSE MARIA"
+    },
+    {
+      "min": 54,
+      "entra": "LASTRA CAÑEDO, FIDEL",
+      "sale": "ROVIRA GUITIAN, RAFAEL"
+    },
+    {
+      "min": 60,
+      "entra": "HERNANDEZ DÍAZ, IKER",
+      "sale": "LOPEZ FERNANDEZ, IAN"
+    },
+    {
+      "min": 68,
+      "entra": "CARRASCAL RUIZ, IZAN",
+      "sale": "DE LA FUENTE TORRE, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ SAÑUDO, GERMAN": 90,
+    "MALLAVIA MUGICA, MIKEL": 90,
+    "VARON SANCHEZ, CESAR": 90,
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO": 72,
+    "BARBA AGENJO, ADRIAN": 90,
+    "QUINTANA CALDERON, MARCOS": 90,
+    "RUIZ MIGUEZ, DANIEL": 90,
+    "MARTINEZ BUSTAMANTE, HUGO": 90,
+    "DEL RIO PRIETO, JUAN VICENTE": 90,
+    "GONZALEZ CELIS, MARCO": 64,
+    "SANCHEZ CUEVAS, SAUL": 54,
+    "EXPOSITO MARTIN, PABLO": 36,
+    "HOYUELA COBO, HUGO": 26,
+    "Garcia Roiz, Dario": 18,
+    "SERTUCHA PEREZ, EDUARDO": 90,
+    "GARCIA RUEDA, BELTRAN": 90,
+    "ROVIRA GUITIAN, RAFAEL": 54,
+    "MARTINEZ MURIEDAS, PABLO": 90,
+    "DE LA FUENTE TORRE, DANIEL": 68,
+    "LAVIN CHAVEZ, MARIO": 90,
+    "CANALES VILLA, IKER": 90,
+    "IGLESIAS LOZANO, JOSE MARIA": 40,
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY": 90,
+    "LOPEZ FERNANDEZ, IAN": 60,
+    "FERNANDEZ FERNANDEZ, IKER": 90,
+    "ORDAX IBAÑEZ, DAVID": 50,
+    "LASTRA CAÑEDO, FIDEL": 36,
+    "HERNANDEZ DÍAZ, IKER": 30,
+    "CARRASCAL RUIZ, IZAN": 22
+  },
+  "portero_local": "FERNANDEZ SAÑUDO, GERMAN",
+  "portero_visitante": "SERTUCHA PEREZ, EDUARDO",
+  "dorsales_local": {
+    "FERNANDEZ SAÑUDO, GERMAN": 1,
+    "MALLAVIA MUGICA, MIKEL": 3,
+    "VARON SANCHEZ, CESAR": 4,
+    "FERNÁNDEZ SÁNCHEZ, ÁLVARO": 6,
+    "BARBA AGENJO, ADRIAN": 10,
+    "QUINTANA CALDERON, MARCOS": 12,
+    "RUIZ MIGUEZ, DANIEL": 14,
+    "MARTINEZ BUSTAMANTE, HUGO": 16,
+    "DEL RIO PRIETO, JUAN VICENTE": 19,
+    "GONZALEZ CELIS, MARCO": 20,
+    "SANCHEZ CUEVAS, SAUL": 30
+  },
+  "dorsales_visitante": {
+    "SERTUCHA PEREZ, EDUARDO": 1,
+    "GARCIA RUEDA, BELTRAN": 2,
+    "ROVIRA GUITIAN, RAFAEL": 4,
+    "MARTINEZ MURIEDAS, PABLO": 6,
+    "DE LA FUENTE TORRE, DANIEL": 7,
+    "LAVIN CHAVEZ, MARIO": 8,
+    "CANALES VILLA, IKER": 9,
+    "IGLESIAS LOZANO, JOSE MARIA": 12,
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY": 14,
+    "LOPEZ FERNANDEZ, IAN": 16,
+    "FERNANDEZ FERNANDEZ, IKER": 18
+  },
+  "suspendidos": []
+}
