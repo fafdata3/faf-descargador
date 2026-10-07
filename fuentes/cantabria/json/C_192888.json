@@ -1,0 +1,275 @@
+{
+  "acta_id": "C_192888",
+  "filename": "Acta_C_192888.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 19,
+  "fecha": "25-01-2025",
+  "hora": "12:30",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. MONTE A",
+  "equipo_visitante": "C.D. COLINDRES A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DE LAS HERAS BERZOSA, MIGUEL"
+  ],
+  "estadio": "Monte 1",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "SAÑUDO MIER, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 7,
+      "jugador": "MATEO OLALLA, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 8,
+      "jugador": "ROCILLO MAZA, TIRSO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "TOSIO CAPDEVILA, JAIME",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "RUIZ RODRIGUEZ, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 29,
+      "jugador": "GOMEZ GUTIERREZ, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "FRANCO ORTIZ, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "SAN EMETERIO SIERRA, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "FRIAS MAESTRE, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "LOPEZ CEBALLOS, JAVIER",
+  "entrenador_visitante": "FRIAS MAESTRE, ADRIAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "SALCINES PELLON, JAVIER FRANCISCO",
+  "titulares_local": [
+    "REVILLA REYES, ALVARO",
+    "SAÑUDO MIER, NICOLAS",
+    "SOLAR LAVIN, EDUARDO",
+    "GIL PANDO, ALEJANDRO",
+    "DE SILONIZ MARTINEZ, DANIEL",
+    "FERRADAS GONZALEZ-CORDERO, DIEGO",
+    "CALZADA CUEVAS, MAURO",
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL",
+    "URIARTE MADRAZO, ADRIAN",
+    "TOSIO CAPDEVILA, JAIME",
+    "MATEO OLALLA, MARKEL"
+  ],
+  "titulares_visitante": [
+    "ÑIGUEL LAVIN, LUCAS",
+    "VARELA MATEOS, JAVIER",
+    "ITURRALDE LAVIN, RUBEN",
+    "GOMEZ GUTIERREZ, DIEGO",
+    "ROCILLO MAZA, TIRSO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "WILLIAMS ZEVALLOS, CRISTOPHER DANIEL",
+    "MARQUEZ ACOSTA, FELIPE EMANUEL",
+    "RUIZ RODRIGUEZ, MARCOS",
+    "GOMEZ GANDARILLAS, HUGO",
+    "PEREZ NARVAEZ, IVAN"
+  ],
+  "suplentes_local": [
+    "DEL VALLE GARCIA, RUBEN",
+    "PEREZ BUSTAMANTE, FERNANDO",
+    "CARRASCO ALBA, ARES",
+    "ELORZA, KYLE JASON",
+    "MARQUEZ MACHO-QUEVEDO, RAUL"
+  ],
+  "suplentes_visitante": [
+    "IDIAQUEZ MAZA, SAMUEL",
+    "SAN EMETERIO SIERRA, PABLO",
+    "FRANCO ORTIZ, ADRIAN",
+    "ARRONTE MERINO, RODRIGO",
+    "CRESPO LUENGO, GAEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "DEL VALLE GARCIA, RUBEN",
+    "CARRASCO ALBA, ARES",
+    "ELORZA, KYLE JASON"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "REVILLA REYES, ALVARO",
+    "SAÑUDO MIER, NICOLAS",
+    "SOLAR LAVIN, EDUARDO",
+    "GIL PANDO, ALEJANDRO",
+    "DE SILONIZ MARTINEZ, DANIEL",
+    "FERRADAS GONZALEZ-CORDERO, DIEGO",
+    "CALZADA CUEVAS, MAURO",
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL",
+    "URIARTE MADRAZO, ADRIAN",
+    "TOSIO CAPDEVILA, JAIME",
+    "MATEO OLALLA, MARKEL",
+    "PEREZ BUSTAMANTE, FERNANDO",
+    "MARQUEZ MACHO-QUEVEDO, RAUL"
+  ],
+  "jugadores_visitante": [
+    "ÑIGUEL LAVIN, LUCAS",
+    "VARELA MATEOS, JAVIER",
+    "ITURRALDE LAVIN, RUBEN",
+    "GOMEZ GUTIERREZ, DIEGO",
+    "ROCILLO MAZA, TIRSO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "WILLIAMS ZEVALLOS, CRISTOPHER DANIEL",
+    "MARQUEZ ACOSTA, FELIPE EMANUEL",
+    "RUIZ RODRIGUEZ, MARCOS",
+    "GOMEZ GANDARILLAS, HUGO",
+    "PEREZ NARVAEZ, IVAN",
+    "FRANCO ORTIZ, ADRIAN",
+    "ARRONTE MERINO, RODRIGO",
+    "SAN EMETERIO SIERRA, PABLO",
+    "IDIAQUEZ MAZA, SAMUEL",
+    "CRESPO LUENGO, GAEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "PEREZ BUSTAMANTE, FERNANDO",
+      "sale": "MATEO OLALLA, MARKEL"
+    },
+    {
+      "min": 56,
+      "entra": "MARQUEZ MACHO-QUEVEDO, RAUL",
+      "sale": "CALZADA CUEVAS, MAURO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "FRANCO ORTIZ, ADRIAN",
+      "sale": "MARQUEZ ACOSTA, FELIPE EMANUEL"
+    },
+    {
+      "min": 55,
+      "entra": "ARRONTE MERINO, RODRIGO",
+      "sale": "ROCILLO MAZA, TIRSO"
+    },
+    {
+      "min": 63,
+      "entra": "SAN EMETERIO SIERRA, PABLO",
+      "sale": "PEREZ NARVAEZ, IVAN"
+    },
+    {
+      "min": 71,
+      "entra": "IDIAQUEZ MAZA, SAMUEL",
+      "sale": "VARELA MATEOS, JAVIER"
+    },
+    {
+      "min": 76,
+      "entra": "CRESPO LUENGO, GAEL",
+      "sale": "WILLIAMS ZEVALLOS, CRISTOPHER DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "REVILLA REYES, ALVARO": 90,
+    "SAÑUDO MIER, NICOLAS": 90,
+    "SOLAR LAVIN, EDUARDO": 90,
+    "GIL PANDO, ALEJANDRO": 90,
+    "DE SILONIZ MARTINEZ, DANIEL": 90,
+    "FERRADAS GONZALEZ-CORDERO, DIEGO": 90,
+    "CALZADA CUEVAS, MAURO": 56,
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL": 90,
+    "URIARTE MADRAZO, ADRIAN": 90,
+    "TOSIO CAPDEVILA, JAIME": 90,
+    "MATEO OLALLA, MARKEL": 51,
+    "PEREZ BUSTAMANTE, FERNANDO": 39,
+    "MARQUEZ MACHO-QUEVEDO, RAUL": 34,
+    "ÑIGUEL LAVIN, LUCAS": 90,
+    "VARELA MATEOS, JAVIER": 71,
+    "ITURRALDE LAVIN, RUBEN": 90,
+    "GOMEZ GUTIERREZ, DIEGO": 90,
+    "ROCILLO MAZA, TIRSO": 55,
+    "SOLANA FERNANDEZ, ALEJANDRO": 90,
+    "WILLIAMS ZEVALLOS, CRISTOPHER DANIEL": 76,
+    "MARQUEZ ACOSTA, FELIPE EMANUEL": 55,
+    "RUIZ RODRIGUEZ, MARCOS": 90,
+    "GOMEZ GANDARILLAS, HUGO": 90,
+    "PEREZ NARVAEZ, IVAN": 63,
+    "FRANCO ORTIZ, ADRIAN": 35,
+    "ARRONTE MERINO, RODRIGO": 35,
+    "SAN EMETERIO SIERRA, PABLO": 27,
+    "IDIAQUEZ MAZA, SAMUEL": 19,
+    "CRESPO LUENGO, GAEL": 14
+  },
+  "portero_local": "REVILLA REYES, ALVARO",
+  "portero_visitante": "ÑIGUEL LAVIN, LUCAS",
+  "dorsales_local": {
+    "REVILLA REYES, ALVARO": 13,
+    "SAÑUDO MIER, NICOLAS": 3,
+    "SOLAR LAVIN, EDUARDO": 4,
+    "GIL PANDO, ALEJANDRO": 5,
+    "DE SILONIZ MARTINEZ, DANIEL": 7,
+    "FERRADAS GONZALEZ-CORDERO, DIEGO": 8,
+    "CALZADA CUEVAS, MAURO": 12,
+    "KEMAMI TCHANTCHOU, NGASSAM ISMAEL": 14,
+    "URIARTE MADRAZO, ADRIAN": 16,
+    "TOSIO CAPDEVILA, JAIME": 17,
+    "MATEO OLALLA, MARKEL": 22
+  },
+  "dorsales_visitante": {
+    "ÑIGUEL LAVIN, LUCAS": 13,
+    "VARELA MATEOS, JAVIER": 3,
+    "ITURRALDE LAVIN, RUBEN": 4,
+    "GOMEZ GUTIERREZ, DIEGO": 6,
+    "ROCILLO MAZA, TIRSO": 7,
+    "SOLANA FERNANDEZ, ALEJANDRO": 8,
+    "WILLIAMS ZEVALLOS, CRISTOPHER DANIEL": 9,
+    "MARQUEZ ACOSTA, FELIPE EMANUEL": 10,
+    "RUIZ RODRIGUEZ, MARCOS": 11,
+    "GOMEZ GANDARILLAS, HUGO": 14,
+    "PEREZ NARVAEZ, IVAN": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
