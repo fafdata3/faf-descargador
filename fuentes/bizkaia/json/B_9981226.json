@@ -1,0 +1,264 @@
+{
+  "acta_id": "B_9981226",
+  "filename": "Acta_B_9981226.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 7,
+  "fecha": "15-11-2025",
+  "hora": "11:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "SPORTING DE LUTXANA A",
+  "equipo_visitante": "PORTUGALETE B",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "GOMEZ LANDAZABAL, XABIER"
+  ],
+  "estadio": "SERRALTA",
+  "ciudad": "LUTXANA - BARAKALDO",
+  "goleadores": [
+    {
+      "minuto": 54,
+      "jugador": "MIGUEZ GARCIA, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "ESCAPA PEREZ, MARCO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 56,
+      "jugador": "RODRÍGUEZ PÉREZ, OIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "SANCHEZ TEMPLADO, JULEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "MIGUEZ GARCIA, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ZULAICA GONZALEZ, DIEGO",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ HIDALGO, MARKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ HIDALGO, MARKEL",
+  "delegado_equipo_visitante": "MENDEZ PAZOS, FERNANDO",
+  "titulares_local": [
+    "PEDRAZA CASTRO, DIEGO ROBERTO",
+    "SANCHEZ TEMPLADO, JULEN",
+    "MAQUEDA GOMEZ, MARKEL",
+    "BRINGAS FREIRE, BINGEN",
+    "LOPEZ MOLINA, ASIER",
+    "RODRÍGUEZ PÉREZ, OIER",
+    "MIGUEZ GARCIA, AIMAR",
+    "RODRIGUEZ LOBATO, MARKEL",
+    "TEMPLADO BARROSO, ISAÍ",
+    "BLANCO MOLLEDA, OIER",
+    "BOBBIO LAZO, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "ARRIANDIAGA ADRIAN, BEÑAT",
+    "GALAN MAZAS, IMANOL",
+    "ESCAPA PEREZ, MARCO",
+    "RODRIGUEZ VALDERAS, MIKEL",
+    "CHAMORRO PEREIRA, GERARD",
+    "RUIZ MARCANO, LIER",
+    "ORTIZ NEGRO, ANDER",
+    "LAZCANO GALLEGO, ALVARO",
+    "MESA LOPEZ, HUGO",
+    "PUENTE GONZALEZ, IKER",
+    "ARCE RAMÓN, IZAN"
+  ],
+  "suplentes_local": [
+    "PINTO IZURIETA, ANDONI",
+    "LAGE GARIN, XABIER",
+    "CONTRERAS MURIEL, MICHAEL",
+    "AYALA SOLORZANO, KESSLER",
+    "KINTANA ARRANZ, UNAX",
+    "GOMEZ CANO, ALAIN",
+    "FERNÁNDEZ FERNÁNDEZ, TELMO"
+  ],
+  "suplentes_visitante": [
+    "RIVERA AZPITARTE, OINATZ",
+    "VARGAS CARRIL, ADRIAN",
+    "LÓPEZ DEL VAL, ROBERTO",
+    "MOREIRO FERNÁNDEZ, AIMAR",
+    "RODRIGUEZ BLANCO, MARKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "PINTO IZURIETA, ANDONI",
+    "KINTANA ARRANZ, UNAX"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "RODRIGUEZ BLANCO, MARKEL"
+  ],
+  "jugadores_local": [
+    "PEDRAZA CASTRO, DIEGO ROBERTO",
+    "SANCHEZ TEMPLADO, JULEN",
+    "MAQUEDA GOMEZ, MARKEL",
+    "BRINGAS FREIRE, BINGEN",
+    "LOPEZ MOLINA, ASIER",
+    "RODRÍGUEZ PÉREZ, OIER",
+    "MIGUEZ GARCIA, AIMAR",
+    "RODRIGUEZ LOBATO, MARKEL",
+    "TEMPLADO BARROSO, ISAÍ",
+    "BLANCO MOLLEDA, OIER",
+    "BOBBIO LAZO, RODRIGO",
+    "CONTRERAS MURIEL, MICHAEL",
+    "GOMEZ CANO, ALAIN",
+    "FERNÁNDEZ FERNÁNDEZ, TELMO",
+    "LAGE GARIN, XABIER",
+    "AYALA SOLORZANO, KESSLER"
+  ],
+  "jugadores_visitante": [
+    "ARRIANDIAGA ADRIAN, BEÑAT",
+    "GALAN MAZAS, IMANOL",
+    "ESCAPA PEREZ, MARCO",
+    "RODRIGUEZ VALDERAS, MIKEL",
+    "CHAMORRO PEREIRA, GERARD",
+    "RUIZ MARCANO, LIER",
+    "ORTIZ NEGRO, ANDER",
+    "LAZCANO GALLEGO, ALVARO",
+    "MESA LOPEZ, HUGO",
+    "PUENTE GONZALEZ, IKER",
+    "ARCE RAMÓN, IZAN",
+    "LÓPEZ DEL VAL, ROBERTO",
+    "RIVERA AZPITARTE, OINATZ",
+    "MOREIRO FERNÁNDEZ, AIMAR",
+    "VARGAS CARRIL, ADRIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "CONTRERAS MURIEL, MICHAEL",
+      "sale": "BOBBIO LAZO, RODRIGO"
+    },
+    {
+      "min": 52,
+      "entra": "GOMEZ CANO, ALAIN",
+      "sale": "LOPEZ MOLINA, ASIER"
+    },
+    {
+      "min": 64,
+      "entra": "FERNÁNDEZ FERNÁNDEZ, TELMO",
+      "sale": "SANCHEZ TEMPLADO, JULEN"
+    },
+    {
+      "min": 77,
+      "entra": "LAGE GARIN, XABIER",
+      "sale": "BLANCO MOLLEDA, OIER"
+    },
+    {
+      "min": 77,
+      "entra": "AYALA SOLORZANO, KESSLER",
+      "sale": "TEMPLADO BARROSO, ISAÍ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "LÓPEZ DEL VAL, ROBERTO",
+      "sale": "RUIZ MARCANO, LIER"
+    },
+    {
+      "min": 52,
+      "entra": "RIVERA AZPITARTE, OINATZ",
+      "sale": "ARCE RAMÓN, IZAN"
+    },
+    {
+      "min": 52,
+      "entra": "MOREIRO FERNÁNDEZ, AIMAR",
+      "sale": "ORTIZ NEGRO, ANDER"
+    },
+    {
+      "min": 62,
+      "entra": "VARGAS CARRIL, ADRIAN",
+      "sale": "MESA LOPEZ, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEDRAZA CASTRO, DIEGO ROBERTO": 90,
+    "SANCHEZ TEMPLADO, JULEN": 64,
+    "MAQUEDA GOMEZ, MARKEL": 90,
+    "BRINGAS FREIRE, BINGEN": 90,
+    "LOPEZ MOLINA, ASIER": 52,
+    "RODRÍGUEZ PÉREZ, OIER": 90,
+    "MIGUEZ GARCIA, AIMAR": 90,
+    "RODRIGUEZ LOBATO, MARKEL": 90,
+    "TEMPLADO BARROSO, ISAÍ": 77,
+    "BLANCO MOLLEDA, OIER": 77,
+    "BOBBIO LAZO, RODRIGO": 52,
+    "CONTRERAS MURIEL, MICHAEL": 38,
+    "GOMEZ CANO, ALAIN": 38,
+    "FERNÁNDEZ FERNÁNDEZ, TELMO": 26,
+    "LAGE GARIN, XABIER": 13,
+    "AYALA SOLORZANO, KESSLER": 13,
+    "ARRIANDIAGA ADRIAN, BEÑAT": 90,
+    "GALAN MAZAS, IMANOL": 90,
+    "ESCAPA PEREZ, MARCO": 90,
+    "RODRIGUEZ VALDERAS, MIKEL": 90,
+    "CHAMORRO PEREIRA, GERARD": 90,
+    "RUIZ MARCANO, LIER": 52,
+    "ORTIZ NEGRO, ANDER": 52,
+    "LAZCANO GALLEGO, ALVARO": 90,
+    "MESA LOPEZ, HUGO": 62,
+    "PUENTE GONZALEZ, IKER": 90,
+    "ARCE RAMÓN, IZAN": 52,
+    "LÓPEZ DEL VAL, ROBERTO": 38,
+    "RIVERA AZPITARTE, OINATZ": 38,
+    "MOREIRO FERNÁNDEZ, AIMAR": 38,
+    "VARGAS CARRIL, ADRIAN": 28
+  },
+  "portero_local": "PEDRAZA CASTRO, DIEGO ROBERTO",
+  "portero_visitante": "ARRIANDIAGA ADRIAN, BEÑAT",
+  "dorsales_local": {
+    "PEDRAZA CASTRO, DIEGO ROBERTO": 13,
+    "SANCHEZ TEMPLADO, JULEN": 2,
+    "MAQUEDA GOMEZ, MARKEL": 4,
+    "BRINGAS FREIRE, BINGEN": 5,
+    "LOPEZ MOLINA, ASIER": 7,
+    "RODRÍGUEZ PÉREZ, OIER": 8,
+    "MIGUEZ GARCIA, AIMAR": 9,
+    "RODRIGUEZ LOBATO, MARKEL": 10,
+    "TEMPLADO BARROSO, ISAÍ": 15,
+    "BLANCO MOLLEDA, OIER": 17,
+    "BOBBIO LAZO, RODRIGO": 21
+  },
+  "dorsales_visitante": {
+    "ARRIANDIAGA ADRIAN, BEÑAT": 13,
+    "GALAN MAZAS, IMANOL": 3,
+    "ESCAPA PEREZ, MARCO": 5,
+    "RODRIGUEZ VALDERAS, MIKEL": 7,
+    "CHAMORRO PEREIRA, GERARD": 10,
+    "RUIZ MARCANO, LIER": 11,
+    "ORTIZ NEGRO, ANDER": 14,
+    "LAZCANO GALLEGO, ALVARO": 15,
+    "MESA LOPEZ, HUGO": 17,
+    "PUENTE GONZALEZ, IKER": 18,
+    "ARCE RAMÓN, IZAN": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
