@@ -1,0 +1,282 @@
+{
+  "acta_id": "R_251393",
+  "filename": "Acta_R_251393.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "27-09-2025",
+  "hora": "16:30",
+  "categoria": "REGIONAL PREFERENTE (Grupo Único)",
+  "equipo_local": "SAN MARCIAL B",
+  "equipo_visitante": "RAPID",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "PRIETO CELORRIO, DAVID",
+    "Árbitro Asistente",
+    "FUERTES SÁEZ, CARLOS",
+    "Árbitro Asistente",
+    "BOZALONGO PLAZA, NACHO"
+  ],
+  "estadio": "C.M. ANGEL DE VICENTE - H.A. (LARDERO)",
+  "ciudad": "Lardero",
+  "goleadores": [
+    {
+      "minuto": 44,
+      "jugador": "GARCIA LANDA, ANGEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "MARTINEZ MARTINEZ, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "OLARTE CAÑAS, EMILIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "GIL IÑIGUEZ, SERGIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "GIL IÑIGUEZ, SERGIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "TRAPERO IÑIGUEZ, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 68,
+      "jugador": "RAMOS CAROL, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 43,
+      "jugador": "LOPEZ MOLINA, SERGIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "MONTEROS DONOSO, CESAR VLADIMIR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "DIAZ C SAEZ, IVAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "MONTEROS DONOSO, CESAR VLADIMIR",
+  "delegado_campo_local": "RAMOS CAROL, LUCAS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TRAPERO IÑIGUEZ, MARIO",
+  "delegado_equipo_visitante": "DIAZ C CALABUIG, IGNACIO A",
+  "titulares_local": [
+    "BASTIDA GRIJALBA, FRANCISCO J",
+    "JIMENEZ PEREZ, DIEGO",
+    "PEREIRA MARTINS, LEANDRO RAFAEL",
+    "ESTEBAN DE IRAZAZABAL, PABLO",
+    "FAURO AGUIRRE, VALENTIN GIO",
+    "CORRAL SALAZAR, JORGE",
+    "GIL IÑIGUEZ, SERGIO",
+    "SAENZ OLMEDO, HUGO",
+    "AUSEJO ZAPATERO, ALVARO",
+    "MARTINEZ MARTIN, IVAN",
+    "LOPEZ VALLEJO, NICOLAS"
+  ],
+  "titulares_visitante": [
+    "MARZO BLANCO, ANGEL",
+    "LOPEZ MOLINA, SERGIO",
+    "MARTINEZ MARTINEZ, SERGIO",
+    "ESTEBAN ORTEGA, BORJA",
+    "PALOMINO MONTIEL, JUAN",
+    "DE MIGUEL LOPEZ, RUBEN",
+    "OLARTE CAÑAS, EMILIO",
+    "AYALA GIL, ALBERTO",
+    "GARCIA LANDA, ANGEL",
+    "AGUIRRE BLANCO, JORGE",
+    "MARIN NIETO, JAVIER"
+  ],
+  "suplentes_local": [
+    "DE TORRE CABALLERO, RODRIGO",
+    "ORTEGA TRAPERO, ADRIAN",
+    "GARCIA TOBIA, FRANCISCO J",
+    "RODRIGUEZ SAN JUAN, JOSE L",
+    "HIDALGO RESA, ABEL",
+    "NALDA GOMEZ, MARTIN"
+  ],
+  "suplentes_visitante": [
+    "SARABIA PEREZ, RUBEN",
+    "SANTOS CINCUNEGUI, JAVIER",
+    "RODRIGUEZ GARCIA, JULIAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "DE TORRE CABALLERO, RODRIGO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BASTIDA GRIJALBA, FRANCISCO J",
+    "JIMENEZ PEREZ, DIEGO",
+    "PEREIRA MARTINS, LEANDRO RAFAEL",
+    "ESTEBAN DE IRAZAZABAL, PABLO",
+    "FAURO AGUIRRE, VALENTIN GIO",
+    "CORRAL SALAZAR, JORGE",
+    "GIL IÑIGUEZ, SERGIO",
+    "SAENZ OLMEDO, HUGO",
+    "AUSEJO ZAPATERO, ALVARO",
+    "MARTINEZ MARTIN, IVAN",
+    "LOPEZ VALLEJO, NICOLAS",
+    "NALDA GOMEZ, MARTIN",
+    "HIDALGO RESA, ABEL",
+    "RODRIGUEZ SAN JUAN, JOSE L",
+    "ORTEGA TRAPERO, ADRIAN",
+    "GARCIA TOBIA, FRANCISCO J"
+  ],
+  "jugadores_visitante": [
+    "MARZO BLANCO, ANGEL",
+    "LOPEZ MOLINA, SERGIO",
+    "MARTINEZ MARTINEZ, SERGIO",
+    "ESTEBAN ORTEGA, BORJA",
+    "PALOMINO MONTIEL, JUAN",
+    "DE MIGUEL LOPEZ, RUBEN",
+    "OLARTE CAÑAS, EMILIO",
+    "AYALA GIL, ALBERTO",
+    "GARCIA LANDA, ANGEL",
+    "AGUIRRE BLANCO, JORGE",
+    "MARIN NIETO, JAVIER",
+    "SANTOS CINCUNEGUI, JAVIER",
+    "SARABIA PEREZ, RUBEN",
+    "RODRIGUEZ GARCIA, JULIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "NALDA GOMEZ, MARTIN",
+      "sale": "ESTEBAN DE IRAZAZABAL, PABLO"
+    },
+    {
+      "min": 57,
+      "entra": "HIDALGO RESA, ABEL",
+      "sale": "SAENZ OLMEDO, HUGO"
+    },
+    {
+      "min": 72,
+      "entra": "RODRIGUEZ SAN JUAN, JOSE L",
+      "sale": "PEREIRA MARTINS, LEANDRO RAFAEL"
+    },
+    {
+      "min": 72,
+      "entra": "ORTEGA TRAPERO, ADRIAN",
+      "sale": "AUSEJO ZAPATERO, ALVARO"
+    },
+    {
+      "min": 87,
+      "entra": "GARCIA TOBIA, FRANCISCO J",
+      "sale": "JIMENEZ PEREZ, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "SANTOS CINCUNEGUI, JAVIER",
+      "sale": "AYALA GIL, ALBERTO"
+    },
+    {
+      "min": 73,
+      "entra": "SARABIA PEREZ, RUBEN",
+      "sale": "GARCIA LANDA, ANGEL"
+    },
+    {
+      "min": 89,
+      "entra": "RODRIGUEZ GARCIA, JULIAN",
+      "sale": "ESTEBAN ORTEGA, BORJA"
+    }
+  ],
+  "minutos_jugadores": {
+    "BASTIDA GRIJALBA, FRANCISCO J": 90,
+    "JIMENEZ PEREZ, DIEGO": 87,
+    "PEREIRA MARTINS, LEANDRO RAFAEL": 72,
+    "ESTEBAN DE IRAZAZABAL, PABLO": 57,
+    "FAURO AGUIRRE, VALENTIN GIO": 90,
+    "CORRAL SALAZAR, JORGE": 90,
+    "GIL IÑIGUEZ, SERGIO": 90,
+    "SAENZ OLMEDO, HUGO": 57,
+    "AUSEJO ZAPATERO, ALVARO": 72,
+    "MARTINEZ MARTIN, IVAN": 90,
+    "LOPEZ VALLEJO, NICOLAS": 90,
+    "NALDA GOMEZ, MARTIN": 33,
+    "HIDALGO RESA, ABEL": 33,
+    "RODRIGUEZ SAN JUAN, JOSE L": 18,
+    "ORTEGA TRAPERO, ADRIAN": 18,
+    "GARCIA TOBIA, FRANCISCO J": 3,
+    "MARZO BLANCO, ANGEL": 90,
+    "LOPEZ MOLINA, SERGIO": 90,
+    "MARTINEZ MARTINEZ, SERGIO": 90,
+    "ESTEBAN ORTEGA, BORJA": 89,
+    "PALOMINO MONTIEL, JUAN": 90,
+    "DE MIGUEL LOPEZ, RUBEN": 90,
+    "OLARTE CAÑAS, EMILIO": 90,
+    "AYALA GIL, ALBERTO": 60,
+    "GARCIA LANDA, ANGEL": 73,
+    "AGUIRRE BLANCO, JORGE": 90,
+    "MARIN NIETO, JAVIER": 90,
+    "SANTOS CINCUNEGUI, JAVIER": 30,
+    "SARABIA PEREZ, RUBEN": 17,
+    "RODRIGUEZ GARCIA, JULIAN": 1
+  },
+  "portero_local": "BASTIDA GRIJALBA, FRANCISCO J",
+  "portero_visitante": "MARZO BLANCO, ANGEL",
+  "dorsales_local": {
+    "BASTIDA GRIJALBA, FRANCISCO J": 1,
+    "JIMENEZ PEREZ, DIEGO": 2,
+    "PEREIRA MARTINS, LEANDRO RAFAEL": 3,
+    "ESTEBAN DE IRAZAZABAL, PABLO": 4,
+    "FAURO AGUIRRE, VALENTIN GIO": 5,
+    "CORRAL SALAZAR, JORGE": 6,
+    "GIL IÑIGUEZ, SERGIO": 7,
+    "SAENZ OLMEDO, HUGO": 8,
+    "AUSEJO ZAPATERO, ALVARO": 9,
+    "MARTINEZ MARTIN, IVAN": 10,
+    "LOPEZ VALLEJO, NICOLAS": 11
+  },
+  "dorsales_visitante": {
+    "MARZO BLANCO, ANGEL": 1,
+    "LOPEZ MOLINA, SERGIO": 2,
+    "MARTINEZ MARTINEZ, SERGIO": 3,
+    "ESTEBAN ORTEGA, BORJA": 4,
+    "PALOMINO MONTIEL, JUAN": 5,
+    "DE MIGUEL LOPEZ, RUBEN": 6,
+    "OLARTE CAÑAS, EMILIO": 7,
+    "AYALA GIL, ALBERTO": 8,
+    "GARCIA LANDA, ANGEL": 9,
+    "AGUIRRE BLANCO, JORGE": 10,
+    "MARIN NIETO, JAVIER": 11
+  },
+  "suspendidos": []
+}
