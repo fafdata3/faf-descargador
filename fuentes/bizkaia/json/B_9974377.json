@@ -1,0 +1,228 @@
+{
+  "acta_id": "B_9974377",
+  "filename": "Acta_B_9974377.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "04-01-2026",
+  "hora": "11:30",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 1)",
+  "equipo_local": "LARRAMENDI",
+  "equipo_visitante": "KARRANTZA",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "ALEJO LEJARRAGA (M), ENAITZ"
+  ],
+  "estadio": "BASTEITA",
+  "ciudad": "Alonsotegi",
+  "goleadores": [
+    {
+      "minuto": 61,
+      "jugador": "RODRIGUEZ RUIZ, PEIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "MONA IZQUIERDO, STEVEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 54,
+      "jugador": "ELETXIGERRA MANRIQUE, AMETS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "ZULUETA ARAS, EGOITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FRANCO GUTIERREZ, JULEN",
+  "entrenador_visitante": "PALACIO OTZA, BORJA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LOPEZ MIGUEL, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ MIGUEL, DANIEL",
+  "delegado_equipo_visitante": "ULIBARRI EDESA, IKER",
+  "titulares_local": [
+    "SAYKOUK EL ASSAL, ANWAR",
+    "ECHEVARRIA GARCIA, HODEI",
+    "PEREZ WEILER, ALEXANDER",
+    "VIA ALONSO, MARK",
+    "BERASATEGUI CECOI, VIKTOR TXOMIN",
+    "DAHNOU DARHDOURHI, HAMZA",
+    "MONA IZQUIERDO, STEVEN",
+    "EL ARBAOUI BELMALEM, SOUHAIL",
+    "CASTRO GALINDEZ, ENEKO",
+    "CASTRO ALONSO, JAM FELIPE",
+    "LOPEZ SALAZAR, ALEX"
+  ],
+  "titulares_visitante": [
+    "ZULUETA ARAS, EGOITZ",
+    "CRUZ TORRES, DANNIS LEONEL",
+    "RODRIGUEZ RUIZ, AIMAR",
+    "SAN MARTIN RAFAEL, UNAI",
+    "ELETXIGERRA MANRIQUE, AMETS",
+    "IRANZO PEÑA, AIEKO",
+    "RODRIGUEZ RUIZ, PEIO",
+    "GAROÑA CARRANZA, ANDER",
+    "LAZARO SANTISTEBAN, EKAITZ",
+    "MODESTO GARCIA , JON",
+    "PALACIO GARCIA , UNAI"
+  ],
+  "suplentes_local": [
+    "ZUBIZARRETA TOMBAS, HODEI",
+    "VALDIVIA OBISPO, UNAI GERARD",
+    "PAD MENDEZ, IOAN"
+  ],
+  "suplentes_visitante": [
+    "GUTIERREZ COLLAZOS, JAREIN",
+    "MUÑOZ PORTILLO , ANDER",
+    "RODRIGUEZ IRASTORZA, ADEI",
+    "GUTIERREZ ALONSO, AITOR"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "RODRIGUEZ IRASTORZA, ADEI"
+  ],
+  "jugadores_local": [
+    "SAYKOUK EL ASSAL, ANWAR",
+    "ECHEVARRIA GARCIA, HODEI",
+    "PEREZ WEILER, ALEXANDER",
+    "VIA ALONSO, MARK",
+    "BERASATEGUI CECOI, VIKTOR TXOMIN",
+    "DAHNOU DARHDOURHI, HAMZA",
+    "MONA IZQUIERDO, STEVEN",
+    "EL ARBAOUI BELMALEM, SOUHAIL",
+    "CASTRO GALINDEZ, ENEKO",
+    "CASTRO ALONSO, JAM FELIPE",
+    "LOPEZ SALAZAR, ALEX",
+    "PAD MENDEZ, IOAN",
+    "VALDIVIA OBISPO, UNAI GERARD",
+    "ZUBIZARRETA TOMBAS, HODEI"
+  ],
+  "jugadores_visitante": [
+    "ZULUETA ARAS, EGOITZ",
+    "CRUZ TORRES, DANNIS LEONEL",
+    "RODRIGUEZ RUIZ, AIMAR",
+    "SAN MARTIN RAFAEL, UNAI",
+    "ELETXIGERRA MANRIQUE, AMETS",
+    "IRANZO PEÑA, AIEKO",
+    "RODRIGUEZ RUIZ, PEIO",
+    "GAROÑA CARRANZA, ANDER",
+    "LAZARO SANTISTEBAN, EKAITZ",
+    "MODESTO GARCIA , JON",
+    "PALACIO GARCIA , UNAI",
+    "GUTIERREZ ALONSO, AITOR",
+    "MUÑOZ PORTILLO , ANDER",
+    "GUTIERREZ COLLAZOS, JAREIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 63,
+      "entra": "PAD MENDEZ, IOAN",
+      "sale": "BERASATEGUI CECOI, VIKTOR TXOMIN"
+    },
+    {
+      "min": 63,
+      "entra": "VALDIVIA OBISPO, UNAI GERARD",
+      "sale": "VIA ALONSO, MARK"
+    },
+    {
+      "min": 75,
+      "entra": "ZUBIZARRETA TOMBAS, HODEI",
+      "sale": "EL ARBAOUI BELMALEM, SOUHAIL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 68,
+      "entra": "GUTIERREZ ALONSO, AITOR",
+      "sale": "PALACIO GARCIA , UNAI"
+    },
+    {
+      "min": 76,
+      "entra": "MUÑOZ PORTILLO , ANDER",
+      "sale": "CRUZ TORRES, DANNIS LEONEL"
+    },
+    {
+      "min": 81,
+      "entra": "GUTIERREZ COLLAZOS, JAREIN",
+      "sale": "MUÑOZ PORTILLO , ANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "SAYKOUK EL ASSAL, ANWAR": 90,
+    "ECHEVARRIA GARCIA, HODEI": 90,
+    "PEREZ WEILER, ALEXANDER": 90,
+    "VIA ALONSO, MARK": 63,
+    "BERASATEGUI CECOI, VIKTOR TXOMIN": 63,
+    "DAHNOU DARHDOURHI, HAMZA": 90,
+    "MONA IZQUIERDO, STEVEN": 90,
+    "EL ARBAOUI BELMALEM, SOUHAIL": 75,
+    "CASTRO GALINDEZ, ENEKO": 90,
+    "CASTRO ALONSO, JAM FELIPE": 90,
+    "LOPEZ SALAZAR, ALEX": 90,
+    "PAD MENDEZ, IOAN": 27,
+    "VALDIVIA OBISPO, UNAI GERARD": 27,
+    "ZUBIZARRETA TOMBAS, HODEI": 15,
+    "ZULUETA ARAS, EGOITZ": 90,
+    "CRUZ TORRES, DANNIS LEONEL": 76,
+    "RODRIGUEZ RUIZ, AIMAR": 90,
+    "SAN MARTIN RAFAEL, UNAI": 90,
+    "ELETXIGERRA MANRIQUE, AMETS": 90,
+    "IRANZO PEÑA, AIEKO": 90,
+    "RODRIGUEZ RUIZ, PEIO": 90,
+    "GAROÑA CARRANZA, ANDER": 90,
+    "LAZARO SANTISTEBAN, EKAITZ": 90,
+    "MODESTO GARCIA , JON": 90,
+    "PALACIO GARCIA , UNAI": 68,
+    "GUTIERREZ ALONSO, AITOR": 22,
+    "MUÑOZ PORTILLO , ANDER": 81,
+    "GUTIERREZ COLLAZOS, JAREIN": 9
+  },
+  "portero_local": "SAYKOUK EL ASSAL, ANWAR",
+  "portero_visitante": "ZULUETA ARAS, EGOITZ",
+  "dorsales_local": {
+    "SAYKOUK EL ASSAL, ANWAR": 13,
+    "ECHEVARRIA GARCIA, HODEI": 3,
+    "PEREZ WEILER, ALEXANDER": 4,
+    "VIA ALONSO, MARK": 5,
+    "BERASATEGUI CECOI, VIKTOR TXOMIN": 7,
+    "DAHNOU DARHDOURHI, HAMZA": 11,
+    "MONA IZQUIERDO, STEVEN": 12,
+    "EL ARBAOUI BELMALEM, SOUHAIL": 14,
+    "CASTRO GALINDEZ, ENEKO": 15,
+    "CASTRO ALONSO, JAM FELIPE": 17,
+    "LOPEZ SALAZAR, ALEX": 20
+  },
+  "dorsales_visitante": {
+    "ZULUETA ARAS, EGOITZ": 1,
+    "CRUZ TORRES, DANNIS LEONEL": 2,
+    "RODRIGUEZ RUIZ, AIMAR": 4,
+    "SAN MARTIN RAFAEL, UNAI": 5,
+    "ELETXIGERRA MANRIQUE, AMETS": 6,
+    "IRANZO PEÑA, AIEKO": 9,
+    "RODRIGUEZ RUIZ, PEIO": 10,
+    "GAROÑA CARRANZA, ANDER": 11,
+    "LAZARO SANTISTEBAN, EKAITZ": 16,
+    "MODESTO GARCIA , JON": 18,
+    "PALACIO GARCIA , UNAI": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
