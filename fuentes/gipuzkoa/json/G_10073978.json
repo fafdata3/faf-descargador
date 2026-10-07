@@ -1,0 +1,230 @@
+{
+  "acta_id": "G_10073978",
+  "filename": "Acta_G_10073978.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "03-10-2026",
+  "hora": "12:15",
+  "categoria": "GIZONEZKO KADETEEN 1. MAILA / 1ª CADETE MASCULINO (4. MULTZOA - GRUPO 4)",
+  "equipo_local": "DUNBOA EGUZKI C.D.",
+  "equipo_visitante": "BETI ONA C.D. B",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "RODRIGUEZ PASCUAL, MARKEL"
+  ],
+  "estadio": "SAN JOSE OBRERO",
+  "ciudad": "Irun",
+  "goleadores": [
+    {
+      "minuto": 52,
+      "jugador": "HERMIDA RUIDO, OIHAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "CARRIZO, GONZALO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 78,
+      "jugador": "AVILES ROMERO, SEBASTIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "VIZ GONZALEZ, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "OCAMPO, MAURO SANTIAGO",
+  "entrenador_visitante": "ABDOULFATAH, IDRISS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "BLANCO BERRA, AIMAR",
+  "titulares_local": [
+    "SANSIÑENA RODRIGO, ASIER",
+    "AVILES ROMERO, DIEGO",
+    "IGUIÑIZ CANALES, XUBAN",
+    "HERNANDEZ ALVAREZ, KELIAN",
+    "ROMERO PEREZ, JOSEP EMANUEL",
+    "GUTIERREZ TERCERO, JON ANDER",
+    "KHOUDI HAMI, IRAT",
+    "CARRIZO, GONZALO",
+    "AVILES ROMERO, SEBASTIAN",
+    "VIDAL LOPEZ, IKER",
+    "BERRUETA TORRADO, IZAN"
+  ],
+  "titulares_visitante": [
+    "SANTAMARIA PICADO, BEÑAT",
+    "JIMENEZ OSUNA, IZAN",
+    "ORTEGA URRETAVIZCAYA, OIHAN",
+    "VIZ GONZALEZ, MARIO",
+    "PEREZ ARRILLAGA, AIMAR",
+    "JACOB OSARUE, NELSON OSARUGUE",
+    "TRIMIÑO OREJA, ERIK",
+    "AZURDUY CASTRO, ASIER",
+    "GIL FERNANDEZ, ALEX",
+    "HERMIDA RUIDO, OIHAN",
+    "BARCINA GARCIA, JON"
+  ],
+  "suplentes_local": [
+    "JIMENEZ JIMENEZ, JESUS TRISTAN",
+    "CARIAS FLORES, CRISTOPHER JOSUE",
+    "DAMOUN AL MERABET, RAYAN"
+  ],
+  "suplentes_visitante": [
+    "BOUCHEFRA FARDI, MOHAMED KHATIM",
+    "FRRGRAGUI AIT LAHBIB, RAYAN",
+    "MALVAREZ TORRES, MARKEL",
+    "SAGASTI PILLADO, AITOR",
+    "RUIZ PARADA, EKHI"
+  ],
+  "convocados_sin_jugar_local": [
+    "JIMENEZ JIMENEZ, JESUS TRISTAN",
+    "DAMOUN AL MERABET, RAYAN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SANSIÑENA RODRIGO, ASIER",
+    "AVILES ROMERO, DIEGO",
+    "IGUIÑIZ CANALES, XUBAN",
+    "HERNANDEZ ALVAREZ, KELIAN",
+    "ROMERO PEREZ, JOSEP EMANUEL",
+    "GUTIERREZ TERCERO, JON ANDER",
+    "KHOUDI HAMI, IRAT",
+    "CARRIZO, GONZALO",
+    "AVILES ROMERO, SEBASTIAN",
+    "VIDAL LOPEZ, IKER",
+    "BERRUETA TORRADO, IZAN",
+    "CARIAS FLORES, CRISTOPHER JOSUE"
+  ],
+  "jugadores_visitante": [
+    "SANTAMARIA PICADO, BEÑAT",
+    "JIMENEZ OSUNA, IZAN",
+    "ORTEGA URRETAVIZCAYA, OIHAN",
+    "VIZ GONZALEZ, MARIO",
+    "PEREZ ARRILLAGA, AIMAR",
+    "JACOB OSARUE, NELSON OSARUGUE",
+    "TRIMIÑO OREJA, ERIK",
+    "AZURDUY CASTRO, ASIER",
+    "GIL FERNANDEZ, ALEX",
+    "HERMIDA RUIDO, OIHAN",
+    "BARCINA GARCIA, JON",
+    "MALVAREZ TORRES, MARKEL",
+    "FRRGRAGUI AIT LAHBIB, RAYAN",
+    "BOUCHEFRA FARDI, MOHAMED KHATIM",
+    "SAGASTI PILLADO, AITOR",
+    "RUIZ PARADA, EKHI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "CARIAS FLORES, CRISTOPHER JOSUE",
+      "sale": "VIDAL LOPEZ, IKER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "MALVAREZ TORRES, MARKEL",
+      "sale": "GIL FERNANDEZ, ALEX"
+    },
+    {
+      "min": 40,
+      "entra": "FRRGRAGUI AIT LAHBIB, RAYAN",
+      "sale": "ORTEGA URRETAVIZCAYA, OIHAN"
+    },
+    {
+      "min": 50,
+      "entra": "BOUCHEFRA FARDI, MOHAMED KHATIM",
+      "sale": "SANTAMARIA PICADO, BEÑAT"
+    },
+    {
+      "min": 55,
+      "entra": "SAGASTI PILLADO, AITOR",
+      "sale": "JACOB OSARUE, NELSON OSARUGUE"
+    },
+    {
+      "min": 58,
+      "entra": "RUIZ PARADA, EKHI",
+      "sale": "HERMIDA RUIDO, OIHAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANSIÑENA RODRIGO, ASIER": 90,
+    "AVILES ROMERO, DIEGO": 90,
+    "IGUIÑIZ CANALES, XUBAN": 90,
+    "HERNANDEZ ALVAREZ, KELIAN": 90,
+    "ROMERO PEREZ, JOSEP EMANUEL": 90,
+    "GUTIERREZ TERCERO, JON ANDER": 90,
+    "KHOUDI HAMI, IRAT": 90,
+    "CARRIZO, GONZALO": 90,
+    "AVILES ROMERO, SEBASTIAN": 90,
+    "VIDAL LOPEZ, IKER": 60,
+    "BERRUETA TORRADO, IZAN": 90,
+    "CARIAS FLORES, CRISTOPHER JOSUE": 30,
+    "SANTAMARIA PICADO, BEÑAT": 50,
+    "JIMENEZ OSUNA, IZAN": 90,
+    "ORTEGA URRETAVIZCAYA, OIHAN": 40,
+    "VIZ GONZALEZ, MARIO": 90,
+    "PEREZ ARRILLAGA, AIMAR": 90,
+    "JACOB OSARUE, NELSON OSARUGUE": 55,
+    "TRIMIÑO OREJA, ERIK": 90,
+    "AZURDUY CASTRO, ASIER": 90,
+    "GIL FERNANDEZ, ALEX": 40,
+    "HERMIDA RUIDO, OIHAN": 58,
+    "BARCINA GARCIA, JON": 90,
+    "MALVAREZ TORRES, MARKEL": 50,
+    "FRRGRAGUI AIT LAHBIB, RAYAN": 50,
+    "BOUCHEFRA FARDI, MOHAMED KHATIM": 40,
+    "SAGASTI PILLADO, AITOR": 35,
+    "RUIZ PARADA, EKHI": 32
+  },
+  "portero_local": "SANSIÑENA RODRIGO, ASIER",
+  "portero_visitante": "SANTAMARIA PICADO, BEÑAT",
+  "dorsales_local": {
+    "SANSIÑENA RODRIGO, ASIER": 1,
+    "AVILES ROMERO, DIEGO": 3,
+    "IGUIÑIZ CANALES, XUBAN": 5,
+    "HERNANDEZ ALVAREZ, KELIAN": 7,
+    "ROMERO PEREZ, JOSEP EMANUEL": 8,
+    "GUTIERREZ TERCERO, JON ANDER": 9,
+    "KHOUDI HAMI, IRAT": 10,
+    "CARRIZO, GONZALO": 11,
+    "AVILES ROMERO, SEBASTIAN": 18,
+    "VIDAL LOPEZ, IKER": 19,
+    "BERRUETA TORRADO, IZAN": 20
+  },
+  "dorsales_visitante": {
+    "SANTAMARIA PICADO, BEÑAT": 1,
+    "JIMENEZ OSUNA, IZAN": 2,
+    "ORTEGA URRETAVIZCAYA, OIHAN": 3,
+    "VIZ GONZALEZ, MARIO": 5,
+    "PEREZ ARRILLAGA, AIMAR": 6,
+    "JACOB OSARUE, NELSON OSARUGUE": 8,
+    "TRIMIÑO OREJA, ERIK": 10,
+    "AZURDUY CASTRO, ASIER": 12,
+    "GIL FERNANDEZ, ALEX": 16,
+    "HERMIDA RUIDO, OIHAN": 17,
+    "BARCINA GARCIA, JON": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
