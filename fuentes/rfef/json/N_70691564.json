@@ -10,7 +10,7 @@
   "equipo_local": "ROLDAN FUTBOL SALA",
   "equipo_visitante": "FUTBOL SALA FEMENINO ZARAGOZA",
   "goles_local": 2,
-  "goles_visitante": 4,
+  "goles_visitante": 5,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -27,43 +27,50 @@
       "minuto": 4,
       "jugador": "ROCA MARIN, AITANA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 4,
       "jugador": "SANCHEZ ROY, CELIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 5,
       "jugador": "SANCHEZ ROY, CELIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 18,
       "jugador": "SANCHEZ ARREGUI, INES",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "ROCA MARIN, AITANA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "SANCHEZ ROY, CELIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "SANCHEZ ROY, CELIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -161,5 +168,6 @@
     "DÍEZ ESCURA, ALMA": 10,
     "MARTINEZ PUEYO, ELORA": 17
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
