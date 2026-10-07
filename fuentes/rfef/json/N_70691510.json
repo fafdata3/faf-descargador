@@ -9,9 +9,9 @@
   "categoria": "PlayOff por el Título Primera División Fútbol Sala Femenino (Semifinales PlayOff por el Título)",
   "equipo_local": "ATLÉTICO NAVALCARNERO",
   "equipo_visitante": "POIO PESCAMAR FS",
-  "goles_local": 3,
-  "goles_visitante": 3,
-  "resultado": "D",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "CIDONCHA CORTES, JOSE JAVIER",
@@ -31,37 +31,43 @@
       "minuto": 27,
       "jugador": "DAL MAZ, RAFAELA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "DE PAZ GONZALEZ, ALEJANDRA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 36,
       "jugador": "NASCIMENTO DA SILVA, ARIANE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 38,
       "jugador": "CORDOBA MONEDERO, IRENE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 41,
       "jugador": "CORDOBA MONEDERO, LAURA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 42,
       "jugador": "BRAVO CURBELO, CAROLINA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -253,7 +259,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": "ALVAREZ SUAREZ, DANIEL",
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "RIBEIRO VICESTE, FABIANA",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "RODRIGUEZ PEREIRA, SOFIA",
   "titulares_local": [
@@ -362,6 +368,5 @@
     "ATLÉTICO NAVALCARNERO :",
     "POIO PESCAMAR FS :",
     "NINGUNA"
-  ],
-  "_marcador_widget": true
+  ]
 }
