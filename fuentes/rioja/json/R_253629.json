@@ -23,19 +23,22 @@
       "minuto": 8,
       "jugador": "GIL GARCIA, DAVID",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 42,
       "jugador": "JIMENEZ SOTO, ALEJANDRO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 59,
       "jugador": "LADRON GALILEA, MARIO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -47,23 +50,9 @@
       "destinatario": "staff"
     },
     {
-      "minuto": 32,
-      "jugador": "LOPEZ A RUBIO, LUIS",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
       "minuto": 57,
       "jugador": "ORTEGA QUESADA, RODRIGO",
       "equipo": "local",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 57,
-      "jugador": "FS NAVARRETE A",
-      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     },
