@@ -1,0 +1,260 @@
+{
+  "acta_id": "C_239987",
+  "filename": "Acta_C_239987.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "26-09-2026",
+  "hora": "17:30",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO A",
+  "equipo_visitante": "C.D. MONTE A",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CADELO CIMIANO, MARIO"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "BARQUIN LOPEZ, JUAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "BARQUIN LOPEZ, JUAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "SECADAS BARQUIN, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "LIAÑO TORRES, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "SAN EMETERIO RUIZ, JOSE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "GUTIERREZ MARTIN, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "PELLON PEREZ, JUAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "HERRERIA LANZA, LUIS ANDRES",
+  "entrenador_visitante": "MONTES RIEGA, ADRIAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RUIZ PEREZ, MARIA JOSE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HERRERIA SAINZ, ALEJANDRO",
+  "delegado_equipo_visitante": "MENDIGUCHIA MONTES, AITOR",
+  "titulares_local": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "MAZAS RODRIGUEZ, DIEGO",
+    "GUTIERREZ MARTIN, PABLO",
+    "LEPADATU, FABIAN",
+    "ESTRADA ISASI, IAN",
+    "QUINTANA SOLORZANO, SERGIO",
+    "BARQUIN LOPEZ, JUAN",
+    "SECADAS BARQUIN, DIEGO",
+    "GONZALEZ PEÑA, MARCOS",
+    "ABASCAL BARQUIN, ALVARO",
+    "LANZA CAVIEDES, JORGE"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ CAGIGAS, DIEGO",
+    "DOMINGUEZ LOZANO, ADRIAN",
+    "RUIZ LOPEZ, LUIS",
+    "BARROSO BARQUÍN, HUGO",
+    "ECHEVARRIA FERNANDEZ, NICOLAS",
+    "SALAS GARRIDO, MAURO",
+    "DEL RIO GONZALEZ, LUCAS",
+    "BLANCO LANZA, ALVARO",
+    "PELLON PEREZ, JUAN",
+    "NEWTON HOWIE, ELEK LUI",
+    "RUIZ JUAREZ, LEANDRO"
+  ],
+  "suplentes_local": [
+    "SADA GUTIERREZ, ALEJANDRO",
+    "LAVIN AGUERO, CRISTIAN",
+    "SAN EMETERIO RUIZ, JOSE",
+    "SETIEN GUTIERREZ, DARIO",
+    "LIAÑO TORRES, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "SAINZ GARCÍA, CESÁR",
+    "REYNA SAIZ, JAIME",
+    "ANDRONIC, DANIEL",
+    "BLANCO LOPEZ, MARIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "SADA GUTIERREZ, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SAINZ GARCÍA, CESÁR"
+  ],
+  "jugadores_local": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "MAZAS RODRIGUEZ, DIEGO",
+    "GUTIERREZ MARTIN, PABLO",
+    "LEPADATU, FABIAN",
+    "ESTRADA ISASI, IAN",
+    "QUINTANA SOLORZANO, SERGIO",
+    "BARQUIN LOPEZ, JUAN",
+    "SECADAS BARQUIN, DIEGO",
+    "GONZALEZ PEÑA, MARCOS",
+    "ABASCAL BARQUIN, ALVARO",
+    "LANZA CAVIEDES, JORGE",
+    "SETIEN GUTIERREZ, DARIO",
+    "LIAÑO TORRES, DIEGO",
+    "SAN EMETERIO RUIZ, JOSE",
+    "LAVIN AGUERO, CRISTIAN"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ CAGIGAS, DIEGO",
+    "DOMINGUEZ LOZANO, ADRIAN",
+    "RUIZ LOPEZ, LUIS",
+    "BARROSO BARQUÍN, HUGO",
+    "ECHEVARRIA FERNANDEZ, NICOLAS",
+    "SALAS GARRIDO, MAURO",
+    "DEL RIO GONZALEZ, LUCAS",
+    "BLANCO LANZA, ALVARO",
+    "PELLON PEREZ, JUAN",
+    "NEWTON HOWIE, ELEK LUI",
+    "RUIZ JUAREZ, LEANDRO",
+    "REYNA SAIZ, JAIME",
+    "BLANCO LOPEZ, MARIO",
+    "ANDRONIC, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "SETIEN GUTIERREZ, DARIO",
+      "sale": "ESTRADA ISASI, IAN"
+    },
+    {
+      "min": 57,
+      "entra": "LIAÑO TORRES, DIEGO",
+      "sale": "SECADAS BARQUIN, DIEGO"
+    },
+    {
+      "min": 57,
+      "entra": "SAN EMETERIO RUIZ, JOSE",
+      "sale": "LEPADATU, FABIAN"
+    },
+    {
+      "min": 65,
+      "entra": "LAVIN AGUERO, CRISTIAN",
+      "sale": "GONZALEZ PEÑA, MARCOS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "REYNA SAIZ, JAIME",
+      "sale": "RUIZ JUAREZ, LEANDRO"
+    },
+    {
+      "min": 50,
+      "entra": "BLANCO LOPEZ, MARIO",
+      "sale": "SALAS GARRIDO, MAURO"
+    },
+    {
+      "min": 58,
+      "entra": "ANDRONIC, DANIEL",
+      "sale": "RUIZ LOPEZ, LUIS"
+    }
+  ],
+  "minutos_jugadores": {
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 90,
+    "MAZAS RODRIGUEZ, DIEGO": 90,
+    "GUTIERREZ MARTIN, PABLO": 90,
+    "LEPADATU, FABIAN": 57,
+    "ESTRADA ISASI, IAN": 52,
+    "QUINTANA SOLORZANO, SERGIO": 90,
+    "BARQUIN LOPEZ, JUAN": 90,
+    "SECADAS BARQUIN, DIEGO": 57,
+    "GONZALEZ PEÑA, MARCOS": 65,
+    "ABASCAL BARQUIN, ALVARO": 90,
+    "LANZA CAVIEDES, JORGE": 90,
+    "SETIEN GUTIERREZ, DARIO": 38,
+    "LIAÑO TORRES, DIEGO": 33,
+    "SAN EMETERIO RUIZ, JOSE": 33,
+    "LAVIN AGUERO, CRISTIAN": 25,
+    "RODRIGUEZ CAGIGAS, DIEGO": 90,
+    "DOMINGUEZ LOZANO, ADRIAN": 90,
+    "RUIZ LOPEZ, LUIS": 58,
+    "BARROSO BARQUÍN, HUGO": 90,
+    "ECHEVARRIA FERNANDEZ, NICOLAS": 90,
+    "SALAS GARRIDO, MAURO": 50,
+    "DEL RIO GONZALEZ, LUCAS": 90,
+    "BLANCO LANZA, ALVARO": 90,
+    "PELLON PEREZ, JUAN": 90,
+    "NEWTON HOWIE, ELEK LUI": 90,
+    "RUIZ JUAREZ, LEANDRO": 40,
+    "REYNA SAIZ, JAIME": 50,
+    "BLANCO LOPEZ, MARIO": 40,
+    "ANDRONIC, DANIEL": 32
+  },
+  "portero_local": "ROMILA VASILACHE, ALEJANDRO ANDREI",
+  "portero_visitante": "RODRIGUEZ CAGIGAS, DIEGO",
+  "dorsales_local": {
+    "ROMILA VASILACHE, ALEJANDRO ANDREI": 13,
+    "MAZAS RODRIGUEZ, DIEGO": 3,
+    "GUTIERREZ MARTIN, PABLO": 5,
+    "LEPADATU, FABIAN": 6,
+    "ESTRADA ISASI, IAN": 7,
+    "QUINTANA SOLORZANO, SERGIO": 8,
+    "BARQUIN LOPEZ, JUAN": 9,
+    "SECADAS BARQUIN, DIEGO": 10,
+    "GONZALEZ PEÑA, MARCOS": 11,
+    "ABASCAL BARQUIN, ALVARO": 15,
+    "LANZA CAVIEDES, JORGE": 20
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ CAGIGAS, DIEGO": 1,
+    "DOMINGUEZ LOZANO, ADRIAN": 3,
+    "RUIZ LOPEZ, LUIS": 4,
+    "BARROSO BARQUÍN, HUGO": 6,
+    "ECHEVARRIA FERNANDEZ, NICOLAS": 7,
+    "SALAS GARRIDO, MAURO": 8,
+    "DEL RIO GONZALEZ, LUCAS": 9,
+    "BLANCO LANZA, ALVARO": 10,
+    "PELLON PEREZ, JUAN": 11,
+    "NEWTON HOWIE, ELEK LUI": 12,
+    "RUIZ JUAREZ, LEANDRO": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
