@@ -1,0 +1,293 @@
+{
+  "acta_id": "R_251372",
+  "filename": "Acta_R_251372.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "13-09-2025",
+  "hora": "10:00",
+  "categoria": "REGIONAL PREFERENTE (Grupo Único)",
+  "equipo_local": "LAURUS",
+  "equipo_visitante": "VIANES B",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "HARRANE BOUDA, ILIAS",
+    "Árbitro Asistente",
+    "BUENO GARCÍA, DIEGO",
+    "Árbitro Asistente",
+    "RUIZ RIVAS, SARA"
+  ],
+  "estadio": "C.M. EL SALVADOR-GONZALO ESPINOSA - H.A. (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "BASTIDA ORLEANS, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "BASTIDA ORLEANS, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 88,
+      "jugador": "SANTAMARIA SAMPEDRO, ANGEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 89,
+      "jugador": "ARPON CADARSO, IMANOL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 87,
+      "jugador": "DEL MOLINO CORTAZAR, CARLOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "BASTIDA ORLEANS, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "JABIR WAHBI, NABIL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 62,
+      "jugador": "GARCIA GARCIA, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BONILLA REDIN, JESUS ALI JAIR",
+  "entrenador_visitante": "VILLARES SAENZ, ADRIAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "JABIR WAHBI, NABIL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "JABIR WAHBI, NABIL",
+  "delegado_equipo_visitante": "LOPEZ BLANCO, AITOR",
+  "titulares_local": [
+    "DEL MOLINO CORTAZAR, CARLOS",
+    "CUEZVA CRESPO, SERGIO",
+    "MURO IBARGUREN, MILLAN",
+    "MOLANO PEÑA, JEREMY",
+    "DIEZ REJADO, LUCAS",
+    "DE LA NATIVIDAD ROLDAN, MARTIN",
+    "ESTEPA CENICEROS, HECTOR",
+    "BOUSSELHAM, MOHAMED",
+    "LOZANO ZABALO, ANDRES",
+    "BASTIDA ORLEANS, IKER",
+    "BAHADI, BELLAFKIH"
+  ],
+  "titulares_visitante": [
+    "MARTINEZ GOYENECHEA, LUIS J",
+    "DIAZ C ALCOZ, ALAN",
+    "GARCIA GARCIA, JAVIER",
+    "IÑIGUEZ ARBINA, ADRIAN",
+    "SAINZ ORTEGA, EDUARDO",
+    "VILLARES SAENZ, DANIEL",
+    "IZU GONZALEZ, ALVARO",
+    "DEL PRADO ARINA, CESAR",
+    "CORRAL HERRERA, JOSU",
+    "FERNANDEZ LOPEZ A, MIGUEL",
+    "DIAZ C GARCIA, IVAN"
+  ],
+  "suplentes_local": [
+    "TORRES HERNANDEZ, HUGO",
+    "ALCALDE GARCIA, JONATHAN",
+    "LAPRESA BAÑUELOS, DANIEL",
+    "SOMALO SOLANO, JAVIER",
+    "RUBIO ARRO, IVAN",
+    "WILSON MARFO, PHILIP RAUL",
+    "CAMPO ARGAIZ, MARTIN"
+  ],
+  "suplentes_visitante": [
+    "OLIVEIRA BICA, GRACIANO JOSE",
+    "GIMENEZ ECHEVERRIA, SANTIAGO",
+    "SANTAMARIA SAMPEDRO, ANGEL",
+    "DAVILA MORENO, IKER",
+    "GARCIA IPAS, MIKEL",
+    "ARPON CADARSO, IMANOL",
+    "LOPEZ LABARTA, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "TORRES HERNANDEZ, HUGO",
+    "RUBIO ARRO, IVAN",
+    "CAMPO ARGAIZ, MARTIN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "OLIVEIRA BICA, GRACIANO JOSE",
+    "LOPEZ LABARTA, DANIEL"
+  ],
+  "jugadores_local": [
+    "DEL MOLINO CORTAZAR, CARLOS",
+    "CUEZVA CRESPO, SERGIO",
+    "MURO IBARGUREN, MILLAN",
+    "MOLANO PEÑA, JEREMY",
+    "DIEZ REJADO, LUCAS",
+    "DE LA NATIVIDAD ROLDAN, MARTIN",
+    "ESTEPA CENICEROS, HECTOR",
+    "BOUSSELHAM, MOHAMED",
+    "LOZANO ZABALO, ANDRES",
+    "BASTIDA ORLEANS, IKER",
+    "BAHADI, BELLAFKIH",
+    "SOMALO SOLANO, JAVIER",
+    "WILSON MARFO, PHILIP RAUL",
+    "LAPRESA BAÑUELOS, DANIEL",
+    "ALCALDE GARCIA, JONATHAN"
+  ],
+  "jugadores_visitante": [
+    "MARTINEZ GOYENECHEA, LUIS J",
+    "DIAZ C ALCOZ, ALAN",
+    "GARCIA GARCIA, JAVIER",
+    "IÑIGUEZ ARBINA, ADRIAN",
+    "SAINZ ORTEGA, EDUARDO",
+    "VILLARES SAENZ, DANIEL",
+    "IZU GONZALEZ, ALVARO",
+    "DEL PRADO ARINA, CESAR",
+    "CORRAL HERRERA, JOSU",
+    "FERNANDEZ LOPEZ A, MIGUEL",
+    "DIAZ C GARCIA, IVAN",
+    "DAVILA MORENO, IKER",
+    "SANTAMARIA SAMPEDRO, ANGEL",
+    "GIMENEZ ECHEVERRIA, SANTIAGO",
+    "GARCIA IPAS, MIKEL",
+    "ARPON CADARSO, IMANOL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 68,
+      "entra": "SOMALO SOLANO, JAVIER",
+      "sale": "ESTEPA CENICEROS, HECTOR"
+    },
+    {
+      "min": 68,
+      "entra": "WILSON MARFO, PHILIP RAUL",
+      "sale": "LOZANO ZABALO, ANDRES"
+    },
+    {
+      "min": 68,
+      "entra": "LAPRESA BAÑUELOS, DANIEL",
+      "sale": "DE LA NATIVIDAD ROLDAN, MARTIN"
+    },
+    {
+      "min": 80,
+      "entra": "ALCALDE GARCIA, JONATHAN",
+      "sale": "BAHADI, BELLAFKIH"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "DAVILA MORENO, IKER",
+      "sale": "IZU GONZALEZ, ALVARO"
+    },
+    {
+      "min": 64,
+      "entra": "SANTAMARIA SAMPEDRO, ANGEL",
+      "sale": "GARCIA GARCIA, JAVIER"
+    },
+    {
+      "min": 64,
+      "entra": "GIMENEZ ECHEVERRIA, SANTIAGO",
+      "sale": "FERNANDEZ LOPEZ A, MIGUEL"
+    },
+    {
+      "min": 71,
+      "entra": "GARCIA IPAS, MIKEL",
+      "sale": "SAINZ ORTEGA, EDUARDO"
+    },
+    {
+      "min": 81,
+      "entra": "ARPON CADARSO, IMANOL",
+      "sale": "VILLARES SAENZ, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "DEL MOLINO CORTAZAR, CARLOS": 90,
+    "CUEZVA CRESPO, SERGIO": 90,
+    "MURO IBARGUREN, MILLAN": 90,
+    "MOLANO PEÑA, JEREMY": 90,
+    "DIEZ REJADO, LUCAS": 90,
+    "DE LA NATIVIDAD ROLDAN, MARTIN": 68,
+    "ESTEPA CENICEROS, HECTOR": 68,
+    "BOUSSELHAM, MOHAMED": 90,
+    "LOZANO ZABALO, ANDRES": 68,
+    "BASTIDA ORLEANS, IKER": 90,
+    "BAHADI, BELLAFKIH": 80,
+    "SOMALO SOLANO, JAVIER": 22,
+    "WILSON MARFO, PHILIP RAUL": 22,
+    "LAPRESA BAÑUELOS, DANIEL": 22,
+    "ALCALDE GARCIA, JONATHAN": 10,
+    "MARTINEZ GOYENECHEA, LUIS J": 90,
+    "DIAZ C ALCOZ, ALAN": 90,
+    "GARCIA GARCIA, JAVIER": 64,
+    "IÑIGUEZ ARBINA, ADRIAN": 90,
+    "SAINZ ORTEGA, EDUARDO": 71,
+    "VILLARES SAENZ, DANIEL": 81,
+    "IZU GONZALEZ, ALVARO": 46,
+    "DEL PRADO ARINA, CESAR": 90,
+    "CORRAL HERRERA, JOSU": 90,
+    "FERNANDEZ LOPEZ A, MIGUEL": 64,
+    "DIAZ C GARCIA, IVAN": 90,
+    "DAVILA MORENO, IKER": 44,
+    "SANTAMARIA SAMPEDRO, ANGEL": 26,
+    "GIMENEZ ECHEVERRIA, SANTIAGO": 26,
+    "GARCIA IPAS, MIKEL": 19,
+    "ARPON CADARSO, IMANOL": 9
+  },
+  "portero_local": "DEL MOLINO CORTAZAR, CARLOS",
+  "portero_visitante": "MARTINEZ GOYENECHEA, LUIS J",
+  "dorsales_local": {
+    "DEL MOLINO CORTAZAR, CARLOS": 1,
+    "CUEZVA CRESPO, SERGIO": 2,
+    "MURO IBARGUREN, MILLAN": 3,
+    "MOLANO PEÑA, JEREMY": 4,
+    "DIEZ REJADO, LUCAS": 5,
+    "DE LA NATIVIDAD ROLDAN, MARTIN": 6,
+    "ESTEPA CENICEROS, HECTOR": 7,
+    "BOUSSELHAM, MOHAMED": 8,
+    "LOZANO ZABALO, ANDRES": 9,
+    "BASTIDA ORLEANS, IKER": 10,
+    "BAHADI, BELLAFKIH": 11
+  },
+  "dorsales_visitante": {
+    "MARTINEZ GOYENECHEA, LUIS J": 13,
+    "DIAZ C ALCOZ, ALAN": 3,
+    "GARCIA GARCIA, JAVIER": 4,
+    "IÑIGUEZ ARBINA, ADRIAN": 5,
+    "SAINZ ORTEGA, EDUARDO": 6,
+    "VILLARES SAENZ, DANIEL": 7,
+    "IZU GONZALEZ, ALVARO": 11,
+    "DEL PRADO ARINA, CESAR": 14,
+    "CORRAL HERRERA, JOSU": 17,
+    "FERNANDEZ LOPEZ A, MIGUEL": 21,
+    "DIAZ C GARCIA, IVAN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
