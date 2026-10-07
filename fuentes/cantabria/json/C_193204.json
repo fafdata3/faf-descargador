@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_193204",
+  "filename": "Acta_C_193204.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 20,
+  "fecha": "02-02-2025",
+  "hora": "12:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "AA. VV. LA MARISMA A",
+  "equipo_visitante": "R.S. GIMNASTICA B",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GIL CASTAÑERA, JORGE"
+  ],
+  "estadio": "Municipal de Frajanas",
+  "ciudad": "Astillero (El)",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "BLANCO OTERO, JANO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "ALONSO MOTA, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "AVENDAÑO SILIO, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "GUTIERREZ ECHEVARRIA, DARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "SANCHEZ CUEVAS, SAUL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "HOYUELA COBO, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RUIZ GUTIERREZ, ENRIQUE",
+  "entrenador_visitante": "JIMENO DIEZ, UNAI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SARACHAGA GIL, JOSE LUIS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SARACHAGA GIL, JOSE LUIS",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "HARO FERNANDEZ, HUGO",
+    "GONZALEZ OSORIO, DANIEL",
+    "HERRERA MACIA, NICOLAS",
+    "MARTINEZ RUIZ, LUCAS",
+    "SARACHAGA GAÑAN, IKER",
+    "GUTIERREZ ECHEVARRIA, DARIO",
+    "TORRE CAGIGAS, NICOLAS",
+    "AVENDAÑO SILIO, ADRIAN",
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO",
+    "CAVADA CAVADA, ADRIAN",
+    "LIEBANA GUTIERREZ, ADRIAN"
+  ],
+  "titulares_visitante": [
+    "PINEDA DIAZ, JORGE",
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "ZAMANILLO ARGUELLO, PABLO",
+    "GALLO VERGARA, PABLO",
+    "ALONSO MOTA, IVAN",
+    "GUTIERREZ REVUELTA, NECO",
+    "BLANCO OTERO, JANO",
+    "BOLADO GOMEZ, LUCAS",
+    "HOYUELA COBO, HUGO",
+    "PEREZ EGUREN, DAVID",
+    "SANCHEZ CUEVAS, SAUL"
+  ],
+  "suplentes_local": [
+    "FALL FALL, MOR",
+    "JIMENEZ AGUEROS, NICOLAS",
+    "GARCIA GONZALEZ, PABLO",
+    "CAMILLERI OCEJA, GIOVANNI",
+    "RODRIGUEZ GUTIERREZ, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "ARROYO FERNANDEZ, PABLO",
+    "DEL VALLE COBO, DANIEL",
+    "MALLAVIA MUGICA, MIKEL",
+    "MARQUEZ REVUELTA, ALEX",
+    "RUIZ TOCA, MARIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "FALL FALL, MOR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ARROYO FERNANDEZ, PABLO"
+  ],
+  "jugadores_local": [
+    "HARO FERNANDEZ, HUGO",
+    "GONZALEZ OSORIO, DANIEL",
+    "HERRERA MACIA, NICOLAS",
+    "MARTINEZ RUIZ, LUCAS",
+    "SARACHAGA GAÑAN, IKER",
+    "GUTIERREZ ECHEVARRIA, DARIO",
+    "TORRE CAGIGAS, NICOLAS",
+    "AVENDAÑO SILIO, ADRIAN",
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO",
+    "CAVADA CAVADA, ADRIAN",
+    "LIEBANA GUTIERREZ, ADRIAN",
+    "CAMILLERI OCEJA, GIOVANNI",
+    "JIMENEZ AGUEROS, NICOLAS",
+    "GARCIA GONZALEZ, PABLO",
+    "RODRIGUEZ GUTIERREZ, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "PINEDA DIAZ, JORGE",
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "ZAMANILLO ARGUELLO, PABLO",
+    "GALLO VERGARA, PABLO",
+    "ALONSO MOTA, IVAN",
+    "GUTIERREZ REVUELTA, NECO",
+    "BLANCO OTERO, JANO",
+    "BOLADO GOMEZ, LUCAS",
+    "HOYUELA COBO, HUGO",
+    "PEREZ EGUREN, DAVID",
+    "SANCHEZ CUEVAS, SAUL",
+    "MARQUEZ REVUELTA, ALEX",
+    "DEL VALLE COBO, DANIEL",
+    "MALLAVIA MUGICA, MIKEL",
+    "RUIZ TOCA, MARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 62,
+      "entra": "CAMILLERI OCEJA, GIOVANNI",
+      "sale": "GUTIERREZ ECHEVARRIA, DARIO"
+    },
+    {
+      "min": 62,
+      "entra": "JIMENEZ AGUEROS, NICOLAS",
+      "sale": "SARACHAGA GAÑAN, IKER"
+    },
+    {
+      "min": 70,
+      "entra": "GARCIA GONZALEZ, PABLO",
+      "sale": "GONZALEZ OSORIO, DANIEL"
+    },
+    {
+      "min": 70,
+      "entra": "RODRIGUEZ GUTIERREZ, DANIEL",
+      "sale": "AVENDAÑO SILIO, ADRIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "MARQUEZ REVUELTA, ALEX",
+      "sale": "BLANCO OTERO, JANO"
+    },
+    {
+      "min": 58,
+      "entra": "DEL VALLE COBO, DANIEL",
+      "sale": "BOLADO GOMEZ, LUCAS"
+    },
+    {
+      "min": 58,
+      "entra": "MALLAVIA MUGICA, MIKEL",
+      "sale": "GUTIERREZ REVUELTA, NECO"
+    },
+    {
+      "min": 63,
+      "entra": "RUIZ TOCA, MARIO",
+      "sale": "MENDEZ RODRIGUEZ, JOSE RAMON"
+    }
+  ],
+  "minutos_jugadores": {
+    "HARO FERNANDEZ, HUGO": 90,
+    "GONZALEZ OSORIO, DANIEL": 70,
+    "HERRERA MACIA, NICOLAS": 90,
+    "MARTINEZ RUIZ, LUCAS": 90,
+    "SARACHAGA GAÑAN, IKER": 62,
+    "GUTIERREZ ECHEVARRIA, DARIO": 62,
+    "TORRE CAGIGAS, NICOLAS": 90,
+    "AVENDAÑO SILIO, ADRIAN": 70,
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO": 90,
+    "CAVADA CAVADA, ADRIAN": 90,
+    "LIEBANA GUTIERREZ, ADRIAN": 90,
+    "CAMILLERI OCEJA, GIOVANNI": 28,
+    "JIMENEZ AGUEROS, NICOLAS": 28,
+    "GARCIA GONZALEZ, PABLO": 20,
+    "RODRIGUEZ GUTIERREZ, DANIEL": 20,
+    "PINEDA DIAZ, JORGE": 90,
+    "MENDEZ RODRIGUEZ, JOSE RAMON": 63,
+    "ZAMANILLO ARGUELLO, PABLO": 90,
+    "GALLO VERGARA, PABLO": 90,
+    "ALONSO MOTA, IVAN": 90,
+    "GUTIERREZ REVUELTA, NECO": 58,
+    "BLANCO OTERO, JANO": 51,
+    "BOLADO GOMEZ, LUCAS": 58,
+    "HOYUELA COBO, HUGO": 90,
+    "PEREZ EGUREN, DAVID": 90,
+    "SANCHEZ CUEVAS, SAUL": 90,
+    "MARQUEZ REVUELTA, ALEX": 39,
+    "DEL VALLE COBO, DANIEL": 32,
+    "MALLAVIA MUGICA, MIKEL": 32,
+    "RUIZ TOCA, MARIO": 27
+  },
+  "portero_local": "HARO FERNANDEZ, HUGO",
+  "portero_visitante": "PINEDA DIAZ, JORGE",
+  "dorsales_local": {
+    "HARO FERNANDEZ, HUGO": 13,
+    "GONZALEZ OSORIO, DANIEL": 2,
+    "HERRERA MACIA, NICOLAS": 4,
+    "MARTINEZ RUIZ, LUCAS": 5,
+    "SARACHAGA GAÑAN, IKER": 6,
+    "GUTIERREZ ECHEVARRIA, DARIO": 7,
+    "TORRE CAGIGAS, NICOLAS": 9,
+    "AVENDAÑO SILIO, ADRIAN": 12,
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO": 14,
+    "CAVADA CAVADA, ADRIAN": 17,
+    "LIEBANA GUTIERREZ, ADRIAN": 20
+  },
+  "dorsales_visitante": {
+    "PINEDA DIAZ, JORGE": 13,
+    "MENDEZ RODRIGUEZ, JOSE RAMON": 2,
+    "ZAMANILLO ARGUELLO, PABLO": 3,
+    "GALLO VERGARA, PABLO": 5,
+    "ALONSO MOTA, IVAN": 8,
+    "GUTIERREZ REVUELTA, NECO": 9,
+    "BLANCO OTERO, JANO": 10,
+    "BOLADO GOMEZ, LUCAS": 14,
+    "HOYUELA COBO, HUGO": 17,
+    "PEREZ EGUREN, DAVID": 18,
+    "SANCHEZ CUEVAS, SAUL": 30
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
