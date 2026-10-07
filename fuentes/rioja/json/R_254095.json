@@ -23,7 +23,8 @@
       "minuto": 5,
       "jugador": "ROZAS DONAMARIA, NAHIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -51,7 +52,7 @@
   "titulares_visitante": [
     "ARIJS GOMEZ, MAITANE",
     "HERVIAS PEREZ, MARÍA",
-    "ROCIO",
+    "SOBRON OLAVARRIETA, ROCIO",
     "ARNAEZ FERNANDEZ, ADRIANA",
     "DE TORRE ESTEBAS, DIANA",
     "ANGUIANO ZAPATERO, EDITA",
@@ -93,7 +94,7 @@
   "jugadores_visitante": [
     "ARIJS GOMEZ, MAITANE",
     "HERVIAS PEREZ, MARÍA",
-    "ROCIO",
+    "SOBRON OLAVARRIETA, ROCIO",
     "ARNAEZ FERNANDEZ, ADRIANA",
     "DE TORRE ESTEBAS, DIANA",
     "ANGUIANO ZAPATERO, EDITA",
@@ -163,7 +164,7 @@
     "ESTEBAN FERNANDEZ, INES": 28,
     "ARIJS GOMEZ, MAITANE": 90,
     "HERVIAS PEREZ, MARÍA": 90,
-    "ROCIO": 90,
+    "SOBRON OLAVARRIETA, ROCIO": 90,
     "ARNAEZ FERNANDEZ, ADRIANA": 90,
     "DE TORRE ESTEBAS, DIANA": 90,
     "ANGUIANO ZAPATERO, EDITA": 47,
@@ -195,7 +196,7 @@
   "dorsales_visitante": {
     "ARIJS GOMEZ, MAITANE": 13,
     "HERVIAS PEREZ, MARÍA": 2,
-    "ROCIO": 5,
+    "SOBRON OLAVARRIETA, ROCIO": 5,
     "ARNAEZ FERNANDEZ, ADRIANA": 6,
     "DE TORRE ESTEBAS, DIANA": 7,
     "ANGUIANO ZAPATERO, EDITA": 8,
@@ -205,6 +206,5 @@
     "SAEZ FERNANDEZ, ALLENDE": 15,
     "COLLADO GONZALEZ, VALERIA": 16
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
