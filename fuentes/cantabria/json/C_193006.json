@@ -1,0 +1,257 @@
+{
+  "acta_id": "C_193006",
+  "filename": "Acta_C_193006.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 32,
+  "fecha": "11-05-2025",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "CLUB BANSANDER A",
+  "equipo_visitante": "E.M. FUTBOL SANTANDER A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RUIZ VALDIVIELSO, MARIO"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "MARTIN HERRERO, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 23,
+      "jugador": "QUINTANA GUTIERREZ, JORGE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 29,
+      "jugador": "MARTIN HERRERO, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "HERRERA DIAZ, SALVADOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    }
+  ],
+  "entrenador_local": "SAIZ RUIZ, OSCAR",
+  "entrenador_visitante": "COSTALES ALVAREZ, RICARDO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SANZ GIL, IGNACIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANZ GIL, IGNACIO",
+  "delegado_equipo_visitante": "HERRERA DIAZ, SALVADOR",
+  "titulares_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GALA RUIZ, HUGO",
+    "ORALLO GOMEZ, JACOBO",
+    "MOLINA PRADA, MARIO",
+    "PEREZ ASOREY, OIER",
+    "QUINTANA GUTIERREZ, JORGE",
+    "DE SANTIAGO BEZANILLA, GERMAN",
+    "MAZA HONTAVILLA, ERIC",
+    "VELASCO GONZALEZ, DARIO",
+    "MARTIN HERRERO, HUGO",
+    "CANALES CHAMIZO, GONZALO"
+  ],
+  "titulares_visitante": [
+    "LEDESMA ESUN, GONZALO",
+    "LEON RODRIGUEZ, PABLO",
+    "BEDIA PEÑA, DANIEL",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "SAN MIGUEL PÉREZ, DIEGO",
+    "VELATEGUI TOCA, IGNACIO",
+    "FERNANDEZ ALONSO, DANIEL",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "SANTIBAÑEZ GARCIA, HECTOR",
+    "LAVIN VELARDE, MARCOS"
+  ],
+  "suplentes_local": [
+    "GONZALEZ AMOROS, MARCO",
+    "ARCE PIÑAL, HUGO",
+    "LIAÑO ABASCAL, ROMAN",
+    "SANTURDE DIEZ, DARIO",
+    "GARCIA GONZALEZ, CARLOS"
+  ],
+  "suplentes_visitante": [
+    "LAUCELLI DÍAZ, CÉSAR",
+    "BALBAS RUIZ, MATEO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "COBO PEREZ, JAVIER",
+    "FUENTE BARRERA, JUAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GALA RUIZ, HUGO",
+    "ORALLO GOMEZ, JACOBO",
+    "MOLINA PRADA, MARIO",
+    "PEREZ ASOREY, OIER",
+    "QUINTANA GUTIERREZ, JORGE",
+    "DE SANTIAGO BEZANILLA, GERMAN",
+    "MAZA HONTAVILLA, ERIC",
+    "VELASCO GONZALEZ, DARIO",
+    "MARTIN HERRERO, HUGO",
+    "CANALES CHAMIZO, GONZALO",
+    "GONZALEZ AMOROS, MARCO",
+    "LIAÑO ABASCAL, ROMAN",
+    "ARCE PIÑAL, HUGO",
+    "GARCIA GONZALEZ, CARLOS",
+    "SANTURDE DIEZ, DARIO"
+  ],
+  "jugadores_visitante": [
+    "LEDESMA ESUN, GONZALO",
+    "LEON RODRIGUEZ, PABLO",
+    "BEDIA PEÑA, DANIEL",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "SAN MIGUEL PÉREZ, DIEGO",
+    "VELATEGUI TOCA, IGNACIO",
+    "FERNANDEZ ALONSO, DANIEL",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "SEVERINO HERRERA, ADRIAN DANIEL",
+    "SANTIBAÑEZ GARCIA, HECTOR",
+    "LAVIN VELARDE, MARCOS",
+    "BALBAS RUIZ, MATEO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "COBO PEREZ, JAVIER",
+    "LAUCELLI DÍAZ, CÉSAR",
+    "FUENTE BARRERA, JUAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GONZALEZ AMOROS, MARCO",
+      "sale": "MAZA HONTAVILLA, ERIC"
+    },
+    {
+      "min": 52,
+      "entra": "LIAÑO ABASCAL, ROMAN",
+      "sale": "VELASCO GONZALEZ, DARIO"
+    },
+    {
+      "min": 52,
+      "entra": "ARCE PIÑAL, HUGO",
+      "sale": "PEREZ ASOREY, OIER"
+    },
+    {
+      "min": 60,
+      "entra": "GARCIA GONZALEZ, CARLOS",
+      "sale": "GALA RUIZ, HUGO"
+    },
+    {
+      "min": 60,
+      "entra": "SANTURDE DIEZ, DARIO",
+      "sale": "CANALES CHAMIZO, GONZALO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "BALBAS RUIZ, MATEO",
+      "sale": "LEON RODRIGUEZ, PABLO"
+    },
+    {
+      "min": 48,
+      "entra": "MARTINEZ IBAÑEZ, LUCAS",
+      "sale": "FERNANDEZ DE DIEGO, ALVARO"
+    },
+    {
+      "min": 48,
+      "entra": "COBO PEREZ, JAVIER",
+      "sale": "SANTIBAÑEZ GARCIA, HECTOR"
+    },
+    {
+      "min": 48,
+      "entra": "LAUCELLI DÍAZ, CÉSAR",
+      "sale": "LEDESMA ESUN, GONZALO"
+    },
+    {
+      "min": 52,
+      "entra": "FUENTE BARRERA, JUAN",
+      "sale": "FERNANDEZ ALONSO, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRIZ ESTEBANEZ, ALBERTO": 90,
+    "GALA RUIZ, HUGO": 60,
+    "ORALLO GOMEZ, JACOBO": 90,
+    "MOLINA PRADA, MARIO": 90,
+    "PEREZ ASOREY, OIER": 52,
+    "QUINTANA GUTIERREZ, JORGE": 90,
+    "DE SANTIAGO BEZANILLA, GERMAN": 90,
+    "MAZA HONTAVILLA, ERIC": 40,
+    "VELASCO GONZALEZ, DARIO": 52,
+    "MARTIN HERRERO, HUGO": 90,
+    "CANALES CHAMIZO, GONZALO": 60,
+    "GONZALEZ AMOROS, MARCO": 50,
+    "LIAÑO ABASCAL, ROMAN": 38,
+    "ARCE PIÑAL, HUGO": 38,
+    "GARCIA GONZALEZ, CARLOS": 30,
+    "SANTURDE DIEZ, DARIO": 30,
+    "LEDESMA ESUN, GONZALO": 48,
+    "LEON RODRIGUEZ, PABLO": 40,
+    "BEDIA PEÑA, DANIEL": 90,
+    "DOMINGUEZ RUIZ, SAMUEL": 90,
+    "SAN MIGUEL PÉREZ, DIEGO": 90,
+    "VELATEGUI TOCA, IGNACIO": 90,
+    "FERNANDEZ ALONSO, DANIEL": 52,
+    "FERNANDEZ DE DIEGO, ALVARO": 48,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 90,
+    "SANTIBAÑEZ GARCIA, HECTOR": 48,
+    "LAVIN VELARDE, MARCOS": 90,
+    "BALBAS RUIZ, MATEO": 50,
+    "MARTINEZ IBAÑEZ, LUCAS": 42,
+    "COBO PEREZ, JAVIER": 42,
+    "LAUCELLI DÍAZ, CÉSAR": 42,
+    "FUENTE BARRERA, JUAN": 38
+  },
+  "portero_local": "BRIZ ESTEBANEZ, ALBERTO",
+  "portero_visitante": "LEDESMA ESUN, GONZALO",
+  "dorsales_local": {
+    "BRIZ ESTEBANEZ, ALBERTO": 1,
+    "GALA RUIZ, HUGO": 2,
+    "ORALLO GOMEZ, JACOBO": 4,
+    "MOLINA PRADA, MARIO": 5,
+    "PEREZ ASOREY, OIER": 6,
+    "QUINTANA GUTIERREZ, JORGE": 7,
+    "DE SANTIAGO BEZANILLA, GERMAN": 11,
+    "MAZA HONTAVILLA, ERIC": 15,
+    "VELASCO GONZALEZ, DARIO": 16,
+    "MARTIN HERRERO, HUGO": 18,
+    "CANALES CHAMIZO, GONZALO": 20
+  },
+  "dorsales_visitante": {
+    "LEDESMA ESUN, GONZALO": 1,
+    "LEON RODRIGUEZ, PABLO": 2,
+    "BEDIA PEÑA, DANIEL": 5,
+    "DOMINGUEZ RUIZ, SAMUEL": 6,
+    "SAN MIGUEL PÉREZ, DIEGO": 7,
+    "VELATEGUI TOCA, IGNACIO": 8,
+    "FERNANDEZ ALONSO, DANIEL": 10,
+    "FERNANDEZ DE DIEGO, ALVARO": 15,
+    "SEVERINO HERRERA, ADRIAN DANIEL": 17,
+    "SANTIBAÑEZ GARCIA, HECTOR": 19,
+    "LAVIN VELARDE, MARCOS": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
