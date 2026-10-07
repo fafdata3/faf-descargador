@@ -1,0 +1,255 @@
+{
+  "acta_id": "B_9982431",
+  "filename": "Acta_B_9982431.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "03-01-2026",
+  "hora": "12:55",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ARRATIA A",
+  "equipo_visitante": "LOYOLA INDAUCHU A",
+  "goles_local": 5,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "RODRIGO RABANAL, JULEN"
+  ],
+  "estadio": "URBIETA-IGORRE",
+  "ciudad": "Igorre",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "JUARROS MANTEROLA, OIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "PAREJO OROQUIETA, IÑAKI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "IZAGIRRE ZENIKAZELAIA, OIHAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "ABURTO JUGO, OIHAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "SALCEDO ABENDAÑO, GARI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "AGIRRE RUIZ, EKAIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "SALCEDO ABENDAÑO, GARI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "IBARRONDO LASA, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PEREZ GARCIA, DAVID",
+  "entrenador_visitante": "MANCISIDOR DE LA FUENTE, OIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAGARNA URIARTE, ARATZ",
+  "delegado_equipo_visitante": "BUSTAMANTE SALGADO, JON KARLOS",
+  "titulares_local": [
+    "PRIETO AZURMENDI, TELMO",
+    "SLIMANI CHAKOR, ABU BAKR",
+    "EGUSKITZA AGUILAR, UNAX",
+    "IZAGIRRE ZENIKAZELAIA, OIHAN",
+    "INTXAURRAGA SERNA, ENAITZ",
+    "JUARROS MANTEROLA, OIER",
+    "CASTELLANO RODRIGUEZ, ERLANTZ",
+    "ABURTO JUGO, OIHAN",
+    "ATUTXA ATUTXA, IGOTZ",
+    "IBARRONDO LASA, MARKEL",
+    "SALCEDO ABENDAÑO, GARI"
+  ],
+  "titulares_visitante": [
+    "GARCIA LOPEZ, DANIEL",
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL",
+    "GORDOA ARCE, LANDER",
+    "LOPEZ BARRIO, ANDER",
+    "PAREJO OROQUIETA, IÑAKI",
+    "LARRINAGA UNDABEITIA, IBON",
+    "PERDON RIO, DANEL",
+    "GALÁN PÉREZ DE NANCLARES, PAUL",
+    "MARTIN ANTXIA, JON",
+    "GOMEZ GONZALEZ, JON",
+    "TORRE MORENO, JORGE"
+  ],
+  "suplentes_local": [
+    "DELGADO PARADA, UNAX",
+    "URIARTE GURTUBAI, OIER",
+    "AGIRRE RUIZ, EKAIN",
+    "BENGOETXEA DONIS, AIMAR",
+    "MARTINEZ EALO, IZEI",
+    "BILBAO AZURMENDI, OIHAN"
+  ],
+  "suplentes_visitante": [
+    "VERÁSTEGUI MARTITEGI, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "DELGADO PARADA, UNAX"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PRIETO AZURMENDI, TELMO",
+    "SLIMANI CHAKOR, ABU BAKR",
+    "EGUSKITZA AGUILAR, UNAX",
+    "IZAGIRRE ZENIKAZELAIA, OIHAN",
+    "INTXAURRAGA SERNA, ENAITZ",
+    "JUARROS MANTEROLA, OIER",
+    "CASTELLANO RODRIGUEZ, ERLANTZ",
+    "ABURTO JUGO, OIHAN",
+    "ATUTXA ATUTXA, IGOTZ",
+    "IBARRONDO LASA, MARKEL",
+    "SALCEDO ABENDAÑO, GARI",
+    "AGIRRE RUIZ, EKAIN",
+    "BENGOETXEA DONIS, AIMAR",
+    "URIARTE GURTUBAI, OIER",
+    "MARTINEZ EALO, IZEI",
+    "BILBAO AZURMENDI, OIHAN"
+  ],
+  "jugadores_visitante": [
+    "GARCIA LOPEZ, DANIEL",
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL",
+    "GORDOA ARCE, LANDER",
+    "LOPEZ BARRIO, ANDER",
+    "PAREJO OROQUIETA, IÑAKI",
+    "LARRINAGA UNDABEITIA, IBON",
+    "PERDON RIO, DANEL",
+    "GALÁN PÉREZ DE NANCLARES, PAUL",
+    "MARTIN ANTXIA, JON",
+    "GOMEZ GONZALEZ, JON",
+    "TORRE MORENO, JORGE",
+    "VERÁSTEGUI MARTITEGI, JON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "AGIRRE RUIZ, EKAIN",
+      "sale": "ABURTO JUGO, OIHAN"
+    },
+    {
+      "min": 58,
+      "entra": "BENGOETXEA DONIS, AIMAR",
+      "sale": "SALCEDO ABENDAÑO, GARI"
+    },
+    {
+      "min": 70,
+      "entra": "URIARTE GURTUBAI, OIER",
+      "sale": "ATUTXA ATUTXA, IGOTZ"
+    },
+    {
+      "min": 70,
+      "entra": "MARTINEZ EALO, IZEI",
+      "sale": "IBARRONDO LASA, MARKEL"
+    },
+    {
+      "min": 70,
+      "entra": "BILBAO AZURMENDI, OIHAN",
+      "sale": "CASTELLANO RODRIGUEZ, ERLANTZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 63,
+      "entra": "VERÁSTEGUI MARTITEGI, JON",
+      "sale": "GARCIA LOPEZ, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "PRIETO AZURMENDI, TELMO": 90,
+    "SLIMANI CHAKOR, ABU BAKR": 90,
+    "EGUSKITZA AGUILAR, UNAX": 90,
+    "IZAGIRRE ZENIKAZELAIA, OIHAN": 90,
+    "INTXAURRAGA SERNA, ENAITZ": 90,
+    "JUARROS MANTEROLA, OIER": 90,
+    "CASTELLANO RODRIGUEZ, ERLANTZ": 70,
+    "ABURTO JUGO, OIHAN": 58,
+    "ATUTXA ATUTXA, IGOTZ": 70,
+    "IBARRONDO LASA, MARKEL": 70,
+    "SALCEDO ABENDAÑO, GARI": 58,
+    "AGIRRE RUIZ, EKAIN": 32,
+    "BENGOETXEA DONIS, AIMAR": 32,
+    "URIARTE GURTUBAI, OIER": 20,
+    "MARTINEZ EALO, IZEI": 20,
+    "BILBAO AZURMENDI, OIHAN": 20,
+    "GARCIA LOPEZ, DANIEL": 63,
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL": 90,
+    "GORDOA ARCE, LANDER": 90,
+    "LOPEZ BARRIO, ANDER": 90,
+    "PAREJO OROQUIETA, IÑAKI": 90,
+    "LARRINAGA UNDABEITIA, IBON": 90,
+    "PERDON RIO, DANEL": 90,
+    "GALÁN PÉREZ DE NANCLARES, PAUL": 90,
+    "MARTIN ANTXIA, JON": 90,
+    "GOMEZ GONZALEZ, JON": 90,
+    "TORRE MORENO, JORGE": 90,
+    "VERÁSTEGUI MARTITEGI, JON": 27
+  },
+  "portero_local": "PRIETO AZURMENDI, TELMO",
+  "portero_visitante": "GARCIA LOPEZ, DANIEL",
+  "dorsales_local": {
+    "PRIETO AZURMENDI, TELMO": 13,
+    "SLIMANI CHAKOR, ABU BAKR": 2,
+    "EGUSKITZA AGUILAR, UNAX": 4,
+    "IZAGIRRE ZENIKAZELAIA, OIHAN": 6,
+    "INTXAURRAGA SERNA, ENAITZ": 8,
+    "JUARROS MANTEROLA, OIER": 9,
+    "CASTELLANO RODRIGUEZ, ERLANTZ": 12,
+    "ABURTO JUGO, OIHAN": 14,
+    "ATUTXA ATUTXA, IGOTZ": 15,
+    "IBARRONDO LASA, MARKEL": 16,
+    "SALCEDO ABENDAÑO, GARI": 22
+  },
+  "dorsales_visitante": {
+    "GARCIA LOPEZ, DANIEL": 13,
+    "ELORRIETA ORTIZ DE ZARATE, MIKEL": 4,
+    "GORDOA ARCE, LANDER": 6,
+    "LOPEZ BARRIO, ANDER": 7,
+    "PAREJO OROQUIETA, IÑAKI": 10,
+    "LARRINAGA UNDABEITIA, IBON": 11,
+    "PERDON RIO, DANEL": 12,
+    "GALÁN PÉREZ DE NANCLARES, PAUL": 18,
+    "MARTIN ANTXIA, JON": 21,
+    "GOMEZ GONZALEZ, JON": 22,
+    "TORRE MORENO, JORGE": 23
+  },
+  "suspendidos": []
+}
