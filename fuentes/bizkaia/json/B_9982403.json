@@ -1,0 +1,272 @@
+{
+  "acta_id": "B_9982403",
+  "filename": "Acta_B_9982403.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 9,
+  "fecha": "29-11-2025",
+  "hora": "10:40",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ETXEBARRI A",
+  "equipo_visitante": "MUNGIA",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CASTAÑO MERINO, ANDONI"
+  ],
+  "estadio": "MUNICIPAL A",
+  "ciudad": "Etxebarri",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "ESPAÑA RAMOS, NIKOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "FERNANDEZ PAÑOS, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 5,
+      "jugador": "LARRABEITI ASTORKIZA, PAUL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "LOPEZ-VAILO MARQUEZ, UNAX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "GODOY SAEZ, UNAX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "ZUAZO AGUIRREBENGOA, IGORTZ",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GARAY LEJONA, TELMO",
+  "delegado_campo_local": "CID HOMPANERA, ALEX",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CID HOMPANERA, ALEX",
+  "delegado_equipo_visitante": "GARCIA DE EULATE LOPEZ, FELIPE",
+  "titulares_local": [
+    "ANTOLIN HERRAEZ, ION",
+    "SACRISTAN MARTIN, GABRIEL",
+    "HIGUERO URIBE, LIER",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "PAREDES PANIAGUA, MARKEL",
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "ALONSO VERGARA, MARKEL",
+    "ARTOLA BROCH, UNAI",
+    "MEDEL MOLINERO, SAÚL"
+  ],
+  "titulares_visitante": [
+    "ARRIETA ENZUNZA, JOKIN",
+    "ELORRIAGA INTXAUSTI, PEIO",
+    "GODOY SAEZ, UNAX",
+    "OBALDIA ELORTEGUI, JOSEBA",
+    "ELORRIAGA OJINAGA, LANDER",
+    "ZURUTUZA ALVAREZ, BERNAT",
+    "BENGOETXEA URRUTIA, MANEX",
+    "LOPEZ-VAILO MARQUEZ, UNAX",
+    "LARRABEITI ASTORKIZA, PAUL",
+    "MENTXAKA SERRANO, GAIZKA",
+    "ETXEBERRIA APALATEGUI, MARKEL"
+  ],
+  "suplentes_local": [
+    "LAIZ JIMENO, JON",
+    "RENTERIA BLANCO, IZEI",
+    "MARTIN MUNGUIRA, ANDER",
+    "HERNANDEZ BRAZO, ARETX",
+    "DE LA FUENTE GARCIA, MARKEL",
+    "ARANDIA RODRIGUEZ, AMETS"
+  ],
+  "suplentes_visitante": [
+    "GARCIA DE EULATE GANDIAGA, OIER",
+    "ARRUZA GOIENETXEA, DANEL",
+    "BOADO GOYA, ANDER",
+    "CARDONA MARTINEZ, DYLAN SAMUEL",
+    "TORRONTEGI SEVILLA, AIMAR",
+    "AGIRREBENGOA GOIRIENA, JOKIN",
+    "SISTIAGA ARAUZO, EGOITZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "LAIZ JIMENO, JON",
+    "MARTIN MUNGUIRA, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BOADO GOYA, ANDER",
+    "AGIRREBENGOA GOIRIENA, JOKIN"
+  ],
+  "jugadores_local": [
+    "ANTOLIN HERRAEZ, ION",
+    "SACRISTAN MARTIN, GABRIEL",
+    "HIGUERO URIBE, LIER",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "PAREDES PANIAGUA, MARKEL",
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ESPAÑA RAMOS, NIKOLAS",
+    "ALONSO VERGARA, MARKEL",
+    "ARTOLA BROCH, UNAI",
+    "MEDEL MOLINERO, SAÚL",
+    "RENTERIA BLANCO, IZEI",
+    "ARANDIA RODRIGUEZ, AMETS",
+    "HERNANDEZ BRAZO, ARETX",
+    "DE LA FUENTE GARCIA, MARKEL"
+  ],
+  "jugadores_visitante": [
+    "ARRIETA ENZUNZA, JOKIN",
+    "ELORRIAGA INTXAUSTI, PEIO",
+    "GODOY SAEZ, UNAX",
+    "OBALDIA ELORTEGUI, JOSEBA",
+    "ELORRIAGA OJINAGA, LANDER",
+    "ZURUTUZA ALVAREZ, BERNAT",
+    "BENGOETXEA URRUTIA, MANEX",
+    "LOPEZ-VAILO MARQUEZ, UNAX",
+    "LARRABEITI ASTORKIZA, PAUL",
+    "MENTXAKA SERRANO, GAIZKA",
+    "ETXEBERRIA APALATEGUI, MARKEL",
+    "ARRUZA GOIENETXEA, DANEL",
+    "GARCIA DE EULATE GANDIAGA, OIER",
+    "CARDONA MARTINEZ, DYLAN SAMUEL",
+    "SISTIAGA ARAUZO, EGOITZ",
+    "TORRONTEGI SEVILLA, AIMAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 61,
+      "entra": "RENTERIA BLANCO, IZEI",
+      "sale": "MIDENCE AMAYA, FRANCISCO ALEXANDER"
+    },
+    {
+      "min": 61,
+      "entra": "ARANDIA RODRIGUEZ, AMETS",
+      "sale": "MEDEL MOLINERO, SAÚL"
+    },
+    {
+      "min": 72,
+      "entra": "HERNANDEZ BRAZO, ARETX",
+      "sale": "ESPAÑA RAMOS, NIKOLAS"
+    },
+    {
+      "min": 72,
+      "entra": "DE LA FUENTE GARCIA, MARKEL",
+      "sale": "FERNANDEZ PAÑOS, AIMAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "ARRUZA GOIENETXEA, DANEL",
+      "sale": "ETXEBERRIA APALATEGUI, MARKEL"
+    },
+    {
+      "min": 45,
+      "entra": "GARCIA DE EULATE GANDIAGA, OIER",
+      "sale": "MENTXAKA SERRANO, GAIZKA"
+    },
+    {
+      "min": 52,
+      "entra": "CARDONA MARTINEZ, DYLAN SAMUEL",
+      "sale": "ELORRIAGA OJINAGA, LANDER"
+    },
+    {
+      "min": 60,
+      "entra": "SISTIAGA ARAUZO, EGOITZ",
+      "sale": "OBALDIA ELORTEGUI, JOSEBA"
+    },
+    {
+      "min": 60,
+      "entra": "TORRONTEGI SEVILLA, AIMAR",
+      "sale": "LOPEZ-VAILO MARQUEZ, UNAX"
+    }
+  ],
+  "minutos_jugadores": {
+    "ANTOLIN HERRAEZ, ION": 90,
+    "SACRISTAN MARTIN, GABRIEL": 90,
+    "HIGUERO URIBE, LIER": 90,
+    "HERNANDEZ SANTISTEBAN, OIER": 90,
+    "PAREDES PANIAGUA, MARKEL": 90,
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER": 61,
+    "FERNANDEZ PAÑOS, AIMAR": 72,
+    "ESPAÑA RAMOS, NIKOLAS": 72,
+    "ALONSO VERGARA, MARKEL": 90,
+    "ARTOLA BROCH, UNAI": 90,
+    "MEDEL MOLINERO, SAÚL": 61,
+    "RENTERIA BLANCO, IZEI": 29,
+    "ARANDIA RODRIGUEZ, AMETS": 29,
+    "HERNANDEZ BRAZO, ARETX": 18,
+    "DE LA FUENTE GARCIA, MARKEL": 18,
+    "ARRIETA ENZUNZA, JOKIN": 90,
+    "ELORRIAGA INTXAUSTI, PEIO": 90,
+    "GODOY SAEZ, UNAX": 90,
+    "OBALDIA ELORTEGUI, JOSEBA": 60,
+    "ELORRIAGA OJINAGA, LANDER": 52,
+    "ZURUTUZA ALVAREZ, BERNAT": 90,
+    "BENGOETXEA URRUTIA, MANEX": 90,
+    "LOPEZ-VAILO MARQUEZ, UNAX": 60,
+    "LARRABEITI ASTORKIZA, PAUL": 90,
+    "MENTXAKA SERRANO, GAIZKA": 45,
+    "ETXEBERRIA APALATEGUI, MARKEL": 45,
+    "ARRUZA GOIENETXEA, DANEL": 45,
+    "GARCIA DE EULATE GANDIAGA, OIER": 45,
+    "CARDONA MARTINEZ, DYLAN SAMUEL": 38,
+    "SISTIAGA ARAUZO, EGOITZ": 30,
+    "TORRONTEGI SEVILLA, AIMAR": 30
+  },
+  "portero_local": "ANTOLIN HERRAEZ, ION",
+  "portero_visitante": "ARRIETA ENZUNZA, JOKIN",
+  "dorsales_local": {
+    "ANTOLIN HERRAEZ, ION": 1,
+    "SACRISTAN MARTIN, GABRIEL": 3,
+    "HIGUERO URIBE, LIER": 4,
+    "HERNANDEZ SANTISTEBAN, OIER": 6,
+    "PAREDES PANIAGUA, MARKEL": 7,
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER": 9,
+    "FERNANDEZ PAÑOS, AIMAR": 10,
+    "ESPAÑA RAMOS, NIKOLAS": 11,
+    "ALONSO VERGARA, MARKEL": 12,
+    "ARTOLA BROCH, UNAI": 15,
+    "MEDEL MOLINERO, SAÚL": 17
+  },
+  "dorsales_visitante": {
+    "ARRIETA ENZUNZA, JOKIN": 13,
+    "ELORRIAGA INTXAUSTI, PEIO": 3,
+    "GODOY SAEZ, UNAX": 5,
+    "OBALDIA ELORTEGUI, JOSEBA": 6,
+    "ELORRIAGA OJINAGA, LANDER": 8,
+    "ZURUTUZA ALVAREZ, BERNAT": 9,
+    "BENGOETXEA URRUTIA, MANEX": 11,
+    "LOPEZ-VAILO MARQUEZ, UNAX": 19,
+    "LARRABEITI ASTORKIZA, PAUL": 21,
+    "MENTXAKA SERRANO, GAIZKA": 23,
+    "ETXEBERRIA APALATEGUI, MARKEL": 24
+  },
+  "suspendidos": []
+}
