@@ -9,8 +9,8 @@
   "categoria": "Campeonato de España de Clubes Base Fútbol Sala Sub-10 Masculino (GRUPO A)",
   "equipo_local": "UD ALBACETE",
   "equipo_visitante": "C.PVO. FLECHA NEGRA",
-  "goles_local": 3,
-  "goles_visitante": 0,
+  "goles_local": 5,
+  "goles_visitante": 3,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -27,49 +27,57 @@
       "minuto": 7,
       "jugador": "GOMEZ DOMINGUEZ, GONZALO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 8,
       "jugador": "RODRIGUEZ MORAGA, PEDRO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 10,
       "jugador": "GOMEZ DOMINGUEZ, GONZALO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 11,
       "jugador": "RODRIGUEZ SILVA, MARIO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 14,
       "jugador": "HURTADO ALCAZAR, HECTOR",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "DOMINGUEZ PIRIZ, IVAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 20,
       "jugador": "DOMINGUEZ PIRIZ, IVAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "RODRIGUEZ MORAGA, PEDRO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -185,5 +193,6 @@
     "ENCINAS PARDO, SERGIO": 5,
     "PEREZ DAVILA, DIEGO": 6
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
