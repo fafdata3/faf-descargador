@@ -1,0 +1,297 @@
+{
+  "acta_id": "N_70676597",
+  "filename": "Acta_N_70676597.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 30,
+  "fecha": "03-05-2026",
+  "hora": "15:30",
+  "categoria": "Division de Honor Juvenil (Grupo 6)",
+  "equipo_local": "ACODETTI C.F.",
+  "equipo_visitante": "C.D. SOBRADILLO",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO",
+    "NUEZ SANTANA, KEVIN",
+    "ÁRBITRO ASISTENTE",
+    "ASCANIO SANTANA, ALEJANDRO FRANCISCO",
+    "ÁRBITRO ASISTENTE",
+    "GARCÍA PÉREZ, ÁNGEL"
+  ],
+  "estadio": "LA MAYORDOMÍA 1",
+  "ciudad": "",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "CUARENTAL CABRERA, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "CUARENTAL CABRERA, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "PEREZ ALVAREZ, DYLAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "DAMASO AUGUSTO, JUAN MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "CASANOVA MENDOZA, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "DORTA MARTIN, EDGAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 82,
+      "jugador": "BAEZ ACOSTA, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "roja",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 87,
+      "jugador": "ACOSTA MARTIN, EDUARDO",
+      "equipo": "visitante",
+      "tipo": "roja",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "RODRIGUEZ REYES, DAVID ANTONIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "BOUZA RAMOS, ADRIAN JESUS",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "CABELLO MEDINA, BASILIO",
+  "titulares_local": [
+    "NAVARRO MEDINA, AIRAM",
+    "GEN GONZALEZ, HUGO",
+    "NAVARRO MIRAVET, RAMON",
+    "GUZMAN GONÇALVES, GABRIEL",
+    "ROSARIO MOULE, MANUEL",
+    "CUARENTAL CABRERA, PABLO",
+    "HIDALGO FALCON, LUIS",
+    "QUINTANA ÁLAMO, SERGIO",
+    "KANTÉ CISSOKO, ADAMA",
+    "WOLINSKY MANCINI, TOBIAS",
+    "GALINDO LUJAN, JUAN CARLOS"
+  ],
+  "titulares_visitante": [
+    "CASTRO GARRIGA, EZEQUIEL",
+    "GONZALEZ PADRINO, IZAN",
+    "HERRERO CABRERA, DANIEL",
+    "CABRERA GONZALEZ, GIOVANNI",
+    "ACOSTA MARTIN, EDUARDO",
+    "CASANOVA MENDOZA, ADRIAN",
+    "MORENO IZQUIERDO, IGNACIO MARTIN",
+    "DE LUIS GALVAN, GERARDO",
+    "PEREZ ALVAREZ, DYLAN",
+    "MONZON DENIZ, ABRAHAM",
+    "DORTA MARTIN, EDGAR"
+  ],
+  "suplentes_local": [
+    "MARTIN CORREA, ALEJANDRO",
+    "BAEZ ACOSTA, ALEJANDRO",
+    "DAMASO AUGUSTO, JUAN MANUEL",
+    "PAZ CORTES, JUAN CARLOS",
+    "LUIS HERRERA, LUCAS",
+    "SILLAH, ADAMA",
+    "MANJON PEREZ, OSCAR"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ CALVO, KIRIAM",
+    "PEREZ DELGADO, DANIEL",
+    "RIVERO BARROSO, EDGAR",
+    "HAFFAF, YANIS",
+    "TRANCHINA, CLAUDIO SALVATORE"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTIN CORREA, ALEJANDRO",
+    "LUIS HERRERA, LUCAS"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "NAVARRO MEDINA, AIRAM",
+    "GEN GONZALEZ, HUGO",
+    "NAVARRO MIRAVET, RAMON",
+    "GUZMAN GONÇALVES, GABRIEL",
+    "ROSARIO MOULE, MANUEL",
+    "CUARENTAL CABRERA, PABLO",
+    "HIDALGO FALCON, LUIS",
+    "QUINTANA ÁLAMO, SERGIO",
+    "KANTÉ CISSOKO, ADAMA",
+    "WOLINSKY MANCINI, TOBIAS",
+    "GALINDO LUJAN, JUAN CARLOS",
+    "BAEZ ACOSTA, ALEJANDRO",
+    "DAMASO AUGUSTO, JUAN MANUEL",
+    "PAZ CORTES, JUAN CARLOS",
+    "MANJON PEREZ, OSCAR",
+    "SILLAH, ADAMA"
+  ],
+  "jugadores_visitante": [
+    "CASTRO GARRIGA, EZEQUIEL",
+    "GONZALEZ PADRINO, IZAN",
+    "HERRERO CABRERA, DANIEL",
+    "CABRERA GONZALEZ, GIOVANNI",
+    "ACOSTA MARTIN, EDUARDO",
+    "CASANOVA MENDOZA, ADRIAN",
+    "MORENO IZQUIERDO, IGNACIO MARTIN",
+    "DE LUIS GALVAN, GERARDO",
+    "PEREZ ALVAREZ, DYLAN",
+    "MONZON DENIZ, ABRAHAM",
+    "DORTA MARTIN, EDGAR",
+    "HAFFAF, YANIS",
+    "TRANCHINA, CLAUDIO SALVATORE",
+    "GONZALEZ CALVO, KIRIAM",
+    "PEREZ DELGADO, DANIEL",
+    "RIVERO BARROSO, EDGAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "BAEZ ACOSTA, ALEJANDRO",
+      "sale": "NAVARRO MIRAVET, RAMON"
+    },
+    {
+      "min": 68,
+      "entra": "DAMASO AUGUSTO, JUAN MANUEL",
+      "sale": "GALINDO LUJAN, JUAN CARLOS"
+    },
+    {
+      "min": 68,
+      "entra": "PAZ CORTES, JUAN CARLOS",
+      "sale": "ROSARIO MOULE, MANUEL"
+    },
+    {
+      "min": 79,
+      "entra": "MANJON PEREZ, OSCAR",
+      "sale": "WOLINSKY MANCINI, TOBIAS"
+    },
+    {
+      "min": 79,
+      "entra": "SILLAH, ADAMA",
+      "sale": "CUARENTAL CABRERA, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "HAFFAF, YANIS",
+      "sale": "DE LUIS GALVAN, GERARDO"
+    },
+    {
+      "min": 51,
+      "entra": "TRANCHINA, CLAUDIO SALVATORE",
+      "sale": "HERRERO CABRERA, DANIEL"
+    },
+    {
+      "min": 51,
+      "entra": "GONZALEZ CALVO, KIRIAM",
+      "sale": "MORENO IZQUIERDO, IGNACIO MARTIN"
+    },
+    {
+      "min": 72,
+      "entra": "PEREZ DELGADO, DANIEL",
+      "sale": "CASANOVA MENDOZA, ADRIAN"
+    },
+    {
+      "min": 78,
+      "entra": "RIVERO BARROSO, EDGAR",
+      "sale": "GONZALEZ PADRINO, IZAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "NAVARRO MEDINA, AIRAM": 90,
+    "GEN GONZALEZ, HUGO": 90,
+    "NAVARRO MIRAVET, RAMON": 52,
+    "GUZMAN GONÇALVES, GABRIEL": 90,
+    "ROSARIO MOULE, MANUEL": 68,
+    "CUARENTAL CABRERA, PABLO": 79,
+    "HIDALGO FALCON, LUIS": 90,
+    "QUINTANA ÁLAMO, SERGIO": 90,
+    "KANTÉ CISSOKO, ADAMA": 90,
+    "WOLINSKY MANCINI, TOBIAS": 79,
+    "GALINDO LUJAN, JUAN CARLOS": 68,
+    "CASTRO GARRIGA, EZEQUIEL": 90,
+    "GONZALEZ PADRINO, IZAN": 78,
+    "HERRERO CABRERA, DANIEL": 51,
+    "CABRERA GONZALEZ, GIOVANNI": 90,
+    "ACOSTA MARTIN, EDUARDO": 90,
+    "CASANOVA MENDOZA, ADRIAN": 72,
+    "MORENO IZQUIERDO, IGNACIO MARTIN": 51,
+    "DE LUIS GALVAN, GERARDO": 51,
+    "PEREZ ALVAREZ, DYLAN": 90,
+    "MONZON DENIZ, ABRAHAM": 90,
+    "DORTA MARTIN, EDGAR": 90,
+    "BAEZ ACOSTA, ALEJANDRO": 38,
+    "DAMASO AUGUSTO, JUAN MANUEL": 22,
+    "PAZ CORTES, JUAN CARLOS": 22,
+    "MANJON PEREZ, OSCAR": 11,
+    "SILLAH, ADAMA": 11,
+    "HAFFAF, YANIS": 39,
+    "TRANCHINA, CLAUDIO SALVATORE": 39,
+    "GONZALEZ CALVO, KIRIAM": 39,
+    "PEREZ DELGADO, DANIEL": 18,
+    "RIVERO BARROSO, EDGAR": 12
+  },
+  "portero_local": "NAVARRO MEDINA, AIRAM",
+  "portero_visitante": "CASTRO GARRIGA, EZEQUIEL",
+  "dorsales_local": {
+    "NAVARRO MEDINA, AIRAM": 1,
+    "GEN GONZALEZ, HUGO": 2,
+    "NAVARRO MIRAVET, RAMON": 3,
+    "GUZMAN GONÇALVES, GABRIEL": 4,
+    "ROSARIO MOULE, MANUEL": 5,
+    "CUARENTAL CABRERA, PABLO": 6,
+    "HIDALGO FALCON, LUIS": 7,
+    "QUINTANA ÁLAMO, SERGIO": 8,
+    "KANTÉ CISSOKO, ADAMA": 9,
+    "WOLINSKY MANCINI, TOBIAS": 10,
+    "GALINDO LUJAN, JUAN CARLOS": 11
+  },
+  "dorsales_visitante": {
+    "CASTRO GARRIGA, EZEQUIEL": 1,
+    "GONZALEZ PADRINO, IZAN": 2,
+    "HERRERO CABRERA, DANIEL": 3,
+    "CABRERA GONZALEZ, GIOVANNI": 4,
+    "ACOSTA MARTIN, EDUARDO": 5,
+    "CASANOVA MENDOZA, ADRIAN": 6,
+    "MORENO IZQUIERDO, IGNACIO MARTIN": 7,
+    "DE LUIS GALVAN, GERARDO": 8,
+    "PEREZ ALVAREZ, DYLAN": 9,
+    "MONZON DENIZ, ABRAHAM": 10,
+    "DORTA MARTIN, EDGAR": 11
+  },
+  "suspendidos": [
+    "BAEZ ACOSTA, ALEJANDRO",
+    "ACOSTA MARTIN, EDUARDO"
+  ],
+  "_marcador_widget": true
+}
