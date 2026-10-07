@@ -1,0 +1,256 @@
+{
+  "acta_id": "E_9966013",
+  "filename": "Acta_E_9966013.txt",
+  "fuente": "euskadi",
+  "temporada": "2025-2026",
+  "jornada": 23,
+  "fecha": "21-02-2026",
+  "hora": "16:30",
+  "categoria": "CAMPEONATO DE TERCERA FEDERACIÓN / RFEF HIRUGARREN MAILA (TEMPORADA 2025/26)",
+  "equipo_local": "TOURING, C.D.",
+  "equipo_visitante": "SANTURTZI, C.D.",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CARBALLO MOREDA, XABIER",
+    "Árbitro Asistente",
+    "SAN JOSE RUIZ, IÑIGO",
+    "Árbitro Asistente",
+    "ITXASO ODRIOZOLA, UNAI"
+  ],
+  "estadio": "FANDERIA",
+  "ciudad": "Errenteria",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "BERNAL CAPEROCHIPI, IGNACIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 88,
+      "jugador": "MARTIN MONTANET, MIKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "IRIONDO CORTABARRIA, ALEXANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "ELGUEZABAL MOLLEDO, DANEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "ROMILLO SAINZ DE LA MAZA, MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "GARCIA FRAILE, CARLOS",
+  "entrenador_visitante": "ROMILLO SAINZ DE LA MAZA, MIGUEL",
+  "segundo_entrenador_local": "MARTINEZ RODRIGUEZ, ANIBAL",
+  "segundo_entrenador_visitante": "PUEYO ASPIRICHAGA, JON ANDER",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARBELAIZ VILLAQUIRAN, JUAN CARLOS",
+  "delegado_equipo_visitante": "AZCUE SOBERA, JOSE ANTONIO",
+  "titulares_local": [
+    "URROSOLO ELGORRIAGA, IBON",
+    "GARCIA ECHARRI, JON",
+    "BERNAL CAPEROCHIPI, IGNACIO",
+    "DORRONSORO OSA, OIHAN",
+    "IRIONDO CORTABARRIA, ALEXANDER",
+    "ARRARAS GABELLANES, OINATZ",
+    "ORTIZ ALONSO, JON",
+    "LASKIBAR ARRIZABALAGA, DANEL",
+    "LANDA SUAREZ, JON YEABSERA",
+    "GARRO OLKOTZ, BEÑAT",
+    "ZABALA KARRIKIRI, OIHAN"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ OTERO, EDER",
+    "ECHEVARRIA QUEREJETA, JAVIER",
+    "ARAMBARRI ORDOZGOITI, JON",
+    "HERNANDEZ ZARRAGA, BEÑAT",
+    "CASTAÑO QUIROS, JOSEBA",
+    "RUIZ LAMBORENA, DIEGO",
+    "GUERRAS ABAITUA, AITOR",
+    "HIERRO ALDAZABAL, IKER",
+    "VENERO NEGRO, IBON",
+    "OULDENIYMIA DARRAK, ZAID",
+    "IMAZ LASA, ASIER"
+  ],
+  "suplentes_local": [
+    "IZA IRIARTE, IKER",
+    "GARCIA ALTUNA, IOSU",
+    "MARTIN MONTANET, MIKEL",
+    "LLORENTE VERTIZ, MIKEL",
+    "FERRER GARCIA, KOLDO",
+    "ARTEAGA ITURRIA, UNAI"
+  ],
+  "suplentes_visitante": [
+    "LLORENTE CARRASCO, UNAI ANDONI",
+    "RAMIREZ CHARTERINA, IBON",
+    "GRANDE DEL CAMPO, IGARKI",
+    "GOMEZ CORRAL, AIMAR",
+    "ELGUEZABAL MOLLEDO, DANEL",
+    "FERNANDEZ DOMINGUEZ, MARIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "IZA IRIARTE, IKER",
+    "ARTEAGA ITURRIA, UNAI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "RAMIREZ CHARTERINA, IBON",
+    "GRANDE DEL CAMPO, IGARKI",
+    "FERNANDEZ DOMINGUEZ, MARIO"
+  ],
+  "jugadores_local": [
+    "URROSOLO ELGORRIAGA, IBON",
+    "GARCIA ECHARRI, JON",
+    "BERNAL CAPEROCHIPI, IGNACIO",
+    "DORRONSORO OSA, OIHAN",
+    "IRIONDO CORTABARRIA, ALEXANDER",
+    "ARRARAS GABELLANES, OINATZ",
+    "ORTIZ ALONSO, JON",
+    "LASKIBAR ARRIZABALAGA, DANEL",
+    "LANDA SUAREZ, JON YEABSERA",
+    "GARRO OLKOTZ, BEÑAT",
+    "ZABALA KARRIKIRI, OIHAN",
+    "MARTIN MONTANET, MIKEL",
+    "FERRER GARCIA, KOLDO",
+    "GARCIA ALTUNA, IOSU",
+    "LLORENTE VERTIZ, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ OTERO, EDER",
+    "ECHEVARRIA QUEREJETA, JAVIER",
+    "ARAMBARRI ORDOZGOITI, JON",
+    "HERNANDEZ ZARRAGA, BEÑAT",
+    "CASTAÑO QUIROS, JOSEBA",
+    "RUIZ LAMBORENA, DIEGO",
+    "GUERRAS ABAITUA, AITOR",
+    "HIERRO ALDAZABAL, IKER",
+    "VENERO NEGRO, IBON",
+    "OULDENIYMIA DARRAK, ZAID",
+    "IMAZ LASA, ASIER",
+    "LLORENTE CARRASCO, UNAI ANDONI",
+    "ELGUEZABAL MOLLEDO, DANEL",
+    "GOMEZ CORRAL, AIMAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 63,
+      "entra": "MARTIN MONTANET, MIKEL",
+      "sale": "LANDA SUAREZ, JON YEABSERA"
+    },
+    {
+      "min": 77,
+      "entra": "FERRER GARCIA, KOLDO",
+      "sale": "BERNAL CAPEROCHIPI, IGNACIO"
+    },
+    {
+      "min": 82,
+      "entra": "GARCIA ALTUNA, IOSU",
+      "sale": "ZABALA KARRIKIRI, OIHAN"
+    },
+    {
+      "min": 82,
+      "entra": "LLORENTE VERTIZ, MIKEL",
+      "sale": "DORRONSORO OSA, OIHAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 42,
+      "entra": "LLORENTE CARRASCO, UNAI ANDONI",
+      "sale": "FERNANDEZ OTERO, EDER"
+    },
+    {
+      "min": 45,
+      "entra": "ELGUEZABAL MOLLEDO, DANEL",
+      "sale": "IMAZ LASA, ASIER"
+    },
+    {
+      "min": 77,
+      "entra": "GOMEZ CORRAL, AIMAR",
+      "sale": "RUIZ LAMBORENA, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "URROSOLO ELGORRIAGA, IBON": 90,
+    "GARCIA ECHARRI, JON": 90,
+    "BERNAL CAPEROCHIPI, IGNACIO": 77,
+    "DORRONSORO OSA, OIHAN": 82,
+    "IRIONDO CORTABARRIA, ALEXANDER": 90,
+    "ARRARAS GABELLANES, OINATZ": 90,
+    "ORTIZ ALONSO, JON": 90,
+    "LASKIBAR ARRIZABALAGA, DANEL": 90,
+    "LANDA SUAREZ, JON YEABSERA": 63,
+    "GARRO OLKOTZ, BEÑAT": 90,
+    "ZABALA KARRIKIRI, OIHAN": 82,
+    "MARTIN MONTANET, MIKEL": 27,
+    "FERRER GARCIA, KOLDO": 13,
+    "GARCIA ALTUNA, IOSU": 8,
+    "LLORENTE VERTIZ, MIKEL": 8,
+    "FERNANDEZ OTERO, EDER": 42,
+    "ECHEVARRIA QUEREJETA, JAVIER": 90,
+    "ARAMBARRI ORDOZGOITI, JON": 90,
+    "HERNANDEZ ZARRAGA, BEÑAT": 90,
+    "CASTAÑO QUIROS, JOSEBA": 90,
+    "RUIZ LAMBORENA, DIEGO": 77,
+    "GUERRAS ABAITUA, AITOR": 90,
+    "HIERRO ALDAZABAL, IKER": 90,
+    "VENERO NEGRO, IBON": 90,
+    "OULDENIYMIA DARRAK, ZAID": 90,
+    "IMAZ LASA, ASIER": 45,
+    "LLORENTE CARRASCO, UNAI ANDONI": 48,
+    "ELGUEZABAL MOLLEDO, DANEL": 45,
+    "GOMEZ CORRAL, AIMAR": 13
+  },
+  "portero_local": "URROSOLO ELGORRIAGA, IBON",
+  "portero_visitante": "FERNANDEZ OTERO, EDER",
+  "dorsales_local": {
+    "URROSOLO ELGORRIAGA, IBON": 13,
+    "GARCIA ECHARRI, JON": 5,
+    "BERNAL CAPEROCHIPI, IGNACIO": 6,
+    "DORRONSORO OSA, OIHAN": 7,
+    "IRIONDO CORTABARRIA, ALEXANDER": 12,
+    "ARRARAS GABELLANES, OINATZ": 14,
+    "ORTIZ ALONSO, JON": 19,
+    "LASKIBAR ARRIZABALAGA, DANEL": 21,
+    "LANDA SUAREZ, JON YEABSERA": 23,
+    "GARRO OLKOTZ, BEÑAT": 24,
+    "ZABALA KARRIKIRI, OIHAN": 27
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ OTERO, EDER": 1,
+    "ECHEVARRIA QUEREJETA, JAVIER": 3,
+    "ARAMBARRI ORDOZGOITI, JON": 5,
+    "HERNANDEZ ZARRAGA, BEÑAT": 8,
+    "CASTAÑO QUIROS, JOSEBA": 11,
+    "RUIZ LAMBORENA, DIEGO": 14,
+    "GUERRAS ABAITUA, AITOR": 17,
+    "HIERRO ALDAZABAL, IKER": 20,
+    "VENERO NEGRO, IBON": 22,
+    "OULDENIYMIA DARRAK, ZAID": 23,
+    "IMAZ LASA, ASIER": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
