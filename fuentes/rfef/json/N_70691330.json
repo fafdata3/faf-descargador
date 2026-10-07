@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO B)",
   "equipo_local": "C.D. CULTURAL ASAKO MOTRIL",
   "equipo_visitante": "BARRIADA LA PLAYA C.D.",
-  "goles_local": 5,
-  "goles_visitante": 1,
+  "goles_local": 6,
+  "goles_visitante": 4,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -29,61 +29,71 @@
       "minuto": 13,
       "jugador": "MOLNER LEYVA, MELINDA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 14,
       "jugador": "BARBOSA GARCIA, ELENA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 15,
       "jugador": "TRIBAK PEREZ, IRIS",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 18,
       "jugador": "MALDONADO GÓMEZ, SARAH",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "ORTEGA GARCÍA, MARÍA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 25,
       "jugador": "MOLNER LEYVA, MELINDA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "MALDONADO GÓMEZ, SARAH",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "RAMÍREZ LÓPEZ, MARÍA DE LAS MERCEDES",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 33,
       "jugador": "GUISADO BORNES, DANIELA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "GUISADO BORNES, DANIELA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -189,5 +199,6 @@
     "TORRES MARTIN ARROYO, INGRID": 11,
     "RIOS BERNAL, ELENA": 20
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
