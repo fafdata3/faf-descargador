@@ -1,0 +1,280 @@
+{
+  "acta_id": "C_193217",
+  "filename": "Acta_C_193217.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 21,
+  "fecha": "08-02-2025",
+  "hora": "15:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "C.D. RAMALES",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DÍAZ SALCES, ALEJANDRO"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 27,
+      "jugador": "ROBETA DIAZ, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "ROJO CANADELL, ALEJANDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "LOPEZ GONZALEZ, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "TREVILLA VELA, RAMON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "TREVILLA VELA, RAMON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 8,
+      "jugador": "CICERO MONTES, RAFAEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "HERNÁNDEZ ÁLVAREZ, GAEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "VELATEGUI PRIETO, ADAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 7,
+      "jugador": "ABASCAL RUIZ, JOAQUIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "COBREROS ZUBILLAGA, SAMUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CICERO MONTES, RAFAEL",
+  "entrenador_visitante": "JOVER FERNANDEZ, IÑIGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "GRANDE SALVADOR, GAEL",
+    "VELATEGUI PRIETO, ADAN",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "ROBETA DIAZ, JORGE",
+    "DAVIES MORRISON, RAFAEL",
+    "CRUZADO CUESTA, FABIO",
+    "MARTINEZ PEREZ, MIGUEL",
+    "ROJO CANADELL, ALEJANDRO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "DIAZ DIAZ, GONZALO",
+    "HERRERA RUIZ, ADAHY"
+  ],
+  "titulares_visitante": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "ABASCAL RUIZ, JOAQUIN",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "LOPEZ GONZALEZ, HUGO",
+    "DEL MORAL ALONSO, RODRIGO",
+    "LOPEZ SAEZ, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "MAZA NOVOA, MARIO",
+    "SIERRA GONZALEZ, KEVIN",
+    "IBAÑEZ AHEDO, EGOITZ"
+  ],
+  "suplentes_local": [
+    "NOVOA TARDÍO, HUGO",
+    "GONZALEZ BENITO, PABLO",
+    "RODRÍGUEZ LASO, KEVIN",
+    "VELARDE VEGA, HECTOR"
+  ],
+  "suplentes_visitante": [
+    "LLAMA GOMEZ, MARIO",
+    "DE LAS HERAS VARONA, ASIER",
+    "GALAZ GOMEZ, GUILLERMO",
+    "GOMEZ RANERO, ANDER",
+    "CARRERA SANCHEZ, MARCOS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "LLAMA GOMEZ, MARIO",
+    "GALAZ GOMEZ, GUILLERMO"
+  ],
+  "jugadores_local": [
+    "GRANDE SALVADOR, GAEL",
+    "VELATEGUI PRIETO, ADAN",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "ROBETA DIAZ, JORGE",
+    "DAVIES MORRISON, RAFAEL",
+    "CRUZADO CUESTA, FABIO",
+    "MARTINEZ PEREZ, MIGUEL",
+    "ROJO CANADELL, ALEJANDRO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "DIAZ DIAZ, GONZALO",
+    "HERRERA RUIZ, ADAHY",
+    "GONZALEZ BENITO, PABLO",
+    "NOVOA TARDÍO, HUGO",
+    "RODRÍGUEZ LASO, KEVIN",
+    "VELARDE VEGA, HECTOR"
+  ],
+  "jugadores_visitante": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "ABASCAL RUIZ, JOAQUIN",
+    "COBREROS ZUBILLAGA, SAMUEL",
+    "LOPEZ GONZALEZ, HUGO",
+    "DEL MORAL ALONSO, RODRIGO",
+    "LOPEZ SAEZ, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "MAZA NOVOA, MARIO",
+    "SIERRA GONZALEZ, KEVIN",
+    "IBAÑEZ AHEDO, EGOITZ",
+    "DE LAS HERAS VARONA, ASIER",
+    "GOMEZ RANERO, ANDER",
+    "CARRERA SANCHEZ, MARCOS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "GONZALEZ BENITO, PABLO",
+      "sale": "HERRERA RUIZ, ADAHY"
+    },
+    {
+      "min": 60,
+      "entra": "NOVOA TARDÍO, HUGO",
+      "sale": "DAVIES MORRISON, RAFAEL"
+    },
+    {
+      "min": 66,
+      "entra": "RODRÍGUEZ LASO, KEVIN",
+      "sale": "DEL CASTILLO SARAÑANA, LUCAS"
+    },
+    {
+      "min": 66,
+      "entra": "VELARDE VEGA, HECTOR",
+      "sale": "CRUZADO CUESTA, FABIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "DE LAS HERAS VARONA, ASIER",
+      "sale": "LOPEZ SAEZ, ANDER"
+    },
+    {
+      "min": 47,
+      "entra": "GOMEZ RANERO, ANDER",
+      "sale": "MAZA NOVOA, MARIO"
+    },
+    {
+      "min": 76,
+      "entra": "CARRERA SANCHEZ, MARCOS",
+      "sale": "DEL MORAL ALONSO, RODRIGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GRANDE SALVADOR, GAEL": 90,
+    "VELATEGUI PRIETO, ADAN": 90,
+    "DEL CASTILLO SARAÑANA, LUCAS": 66,
+    "ROBETA DIAZ, JORGE": 90,
+    "DAVIES MORRISON, RAFAEL": 60,
+    "CRUZADO CUESTA, FABIO": 66,
+    "MARTINEZ PEREZ, MIGUEL": 90,
+    "ROJO CANADELL, ALEJANDRO": 90,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 90,
+    "DIAZ DIAZ, GONZALO": 90,
+    "HERRERA RUIZ, ADAHY": 52,
+    "GONZALEZ BENITO, PABLO": 38,
+    "NOVOA TARDÍO, HUGO": 30,
+    "RODRÍGUEZ LASO, KEVIN": 24,
+    "VELARDE VEGA, HECTOR": 24,
+    "FURIOL SALCEDO, RUBÉN": 90,
+    "TREVILLA VELA, RAMON": 90,
+    "ABASCAL RUIZ, JOAQUIN": 90,
+    "COBREROS ZUBILLAGA, SAMUEL": 90,
+    "LOPEZ GONZALEZ, HUGO": 90,
+    "DEL MORAL ALONSO, RODRIGO": 76,
+    "LOPEZ SAEZ, ANDER": 40,
+    "HOLGADO RODRIGUEZ, IKER": 90,
+    "MAZA NOVOA, MARIO": 47,
+    "SIERRA GONZALEZ, KEVIN": 90,
+    "IBAÑEZ AHEDO, EGOITZ": 90,
+    "DE LAS HERAS VARONA, ASIER": 50,
+    "GOMEZ RANERO, ANDER": 43,
+    "CARRERA SANCHEZ, MARCOS": 14
+  },
+  "portero_local": "GRANDE SALVADOR, GAEL",
+  "portero_visitante": "FURIOL SALCEDO, RUBÉN",
+  "dorsales_local": {
+    "GRANDE SALVADOR, GAEL": 13,
+    "VELATEGUI PRIETO, ADAN": 3,
+    "DEL CASTILLO SARAÑANA, LUCAS": 4,
+    "ROBETA DIAZ, JORGE": 9,
+    "DAVIES MORRISON, RAFAEL": 10,
+    "CRUZADO CUESTA, FABIO": 11,
+    "MARTINEZ PEREZ, MIGUEL": 12,
+    "ROJO CANADELL, ALEJANDRO": 14,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 15,
+    "DIAZ DIAZ, GONZALO": 16,
+    "HERRERA RUIZ, ADAHY": 21
+  },
+  "dorsales_visitante": {
+    "FURIOL SALCEDO, RUBÉN": 1,
+    "TREVILLA VELA, RAMON": 2,
+    "ABASCAL RUIZ, JOAQUIN": 3,
+    "COBREROS ZUBILLAGA, SAMUEL": 6,
+    "LOPEZ GONZALEZ, HUGO": 8,
+    "DEL MORAL ALONSO, RODRIGO": 9,
+    "LOPEZ SAEZ, ANDER": 12,
+    "HOLGADO RODRIGUEZ, IKER": 14,
+    "MAZA NOVOA, MARIO": 15,
+    "SIERRA GONZALEZ, KEVIN": 17,
+    "IBAÑEZ AHEDO, EGOITZ": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
