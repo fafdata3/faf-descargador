@@ -9,8 +9,8 @@
   "categoria": "PlayOff por el Título Primera División Fútbol Sala Masculino (PlayOff por el Título Primera División)",
   "equipo_local": "MOVISTAR INTER F.S.",
   "equipo_visitante": "JIMBEE CARTAGENA COSTA CÁLIDA",
-  "goles_local": 3,
-  "goles_visitante": 2,
+  "goles_local": 1,
+  "goles_visitante": 0,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -31,31 +31,36 @@
       "minuto": 15,
       "jugador": "GÓMEZ DEL OLMO, RAÚL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 25,
       "jugador": "MOTTA RODRIGUES, GABRIEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "DA SILVA DE ABREU, CICERO SEVERINO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "SANTOS HERRERA, HARRISON DAVID",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "RODRIGUEZ MOSTEIRIN, ADRIAN",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -240,6 +245,5 @@
     "DA COSTA FIRMINO, WALTER FERNANDES": 11,
     "CANO MELLADO, MIGUEL ANGEL": 13
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
