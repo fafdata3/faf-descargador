@@ -9,7 +9,7 @@
   "categoria": "PlayOff por el Título Primera División Fútbol Sala Femenino (Semifinales PlayOff por el Título)",
   "equipo_local": "MELILLA CIUDAD DEL DEPORTE TORREBLANCA C. F.",
   "equipo_visitante": "STV ROLDÁN F.S",
-  "goles_local": 4,
+  "goles_local": 3,
   "goles_visitante": 1,
   "resultado": "W",
   "arbitros": [
@@ -29,31 +29,36 @@
       "minuto": 8,
       "jugador": "MARCONDES, EMILLY MICAELA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "DE OLIVEIRA CRISOSTOMO, AMANDA LYSSA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "NAVA, SILVINA ALEJANDRA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "ZARZUELA SANCHEZ, CECILIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "MARCONDES, EMILLY MICAELA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -241,6 +246,5 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ],
-  "_marcador_widget": true
+  ]
 }
