@@ -1,0 +1,276 @@
+{
+  "acta_id": "B_9981163",
+  "filename": "Acta_B_9981163.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 33,
+  "fecha": "16-05-2026",
+  "hora": "17:30",
+  "categoria": "PRIMERA DIVISIÓN 1A / LEHENENGO MAILA (GRUPO 1)",
+  "equipo_local": "TRAPAGARAN A",
+  "equipo_visitante": "SAN IGNACIO A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ABAITUA LAORDEN, ALVARO",
+    "Árbitro Asistente",
+    "MARTIN DEL MORAL, ALEX",
+    "Árbitro Asistente",
+    "DURANGO PASCUAL, MARKEL"
+  ],
+  "estadio": "ERROTARTE",
+  "ciudad": "TRAPAGARAN",
+  "goleadores": [
+    {
+      "minuto": 32,
+      "jugador": "ALDAMA DEL RIO, URKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "ARISTONDO GUTIERREZ, IBAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 56,
+      "jugador": "PASCUAL MOYA, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "PEÑA TORRECILLA, AITOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "IBAÑEZ GALLEGO, GORKA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ MUÑOZ, GARIKOITZ",
+  "entrenador_visitante": "GARCIA LOPEZ, JAVIER",
+  "segundo_entrenador_local": "TAVERA RECART, IÑAKI",
+  "segundo_entrenador_visitante": "VALTIERRA CALVO, LANDER",
+  "delegado_campo_local": "ESTEFANIA ARIZMENDI, LUCIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ESTEFANIA ARIZMENDI, LUCIO",
+  "delegado_equipo_visitante": "PACHON LOPEZ, MARIANO",
+  "titulares_local": [
+    "FERNANDEZ CASTAÑO, KOLDO",
+    "PALACIO FERNANDEZ, MARKEL",
+    "COTO ANTONIO, EDER",
+    "MOLLEDO URIARTE, JON",
+    "JAMAL, IDDRISSU",
+    "ALDAMA DEL RIO, URKO",
+    "SANCHEZ PIÑEIRO, AMETS",
+    "IGLESIAS MORIN, AIMAR",
+    "SANCHEZ PIÑEIRO, HODEI",
+    "LINARES ROMERO, OIER",
+    "CRUZ DIEZ, ANDONI"
+  ],
+  "titulares_visitante": [
+    "PARRA FONTANEDA, EKAITZ",
+    "IBAÑEZ GALLEGO, GORKA",
+    "HERNANDEZ AGUIRRE, IBAI",
+    "BUSTURIA RETUERTO, IBON",
+    "NAZABAL HERNANDEZ, IKER",
+    "MARTINEZ ECHEVARRIA, MARKEL",
+    "GARCIA GARCIA, JON",
+    "ALUSTIZA GARCIA, IKER",
+    "ARISTONDO GUTIERREZ, IBAI",
+    "MATARRANZ MARCHAL, ASIER",
+    "PEÑA TORRECILLA, AITOR"
+  ],
+  "suplentes_local": [
+    "BALLESTEROS RILO, XABIER",
+    "FRANCISCO REMENTERIA, ARKAITZ",
+    "MIRANDA BEKOETXEA, ENEKO",
+    "ALDAMA DEL RIO, UNAI",
+    "ROQUE MEDA, FRAILIN WILBER",
+    "SIPOGNE TALLA, MOSE",
+    "CARRILLO DE LA FUENTE, SERGIO"
+  ],
+  "suplentes_visitante": [
+    "ALONSO GARCIA, JOSEBA",
+    "GONZALEZ VALDAZO, ION EDORTA",
+    "BEDOYA DEL RIO, DAVID",
+    "REDONDO CERQUEDA, KEPA",
+    "ESCAMEZ MONTES, IVAN",
+    "PASCUAL MOYA, JULEN"
+  ],
+  "convocados_sin_jugar_local": [
+    "BALLESTEROS RILO, XABIER",
+    "ROQUE MEDA, FRAILIN WILBER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALONSO GARCIA, JOSEBA"
+  ],
+  "jugadores_local": [
+    "FERNANDEZ CASTAÑO, KOLDO",
+    "PALACIO FERNANDEZ, MARKEL",
+    "COTO ANTONIO, EDER",
+    "MOLLEDO URIARTE, JON",
+    "JAMAL, IDDRISSU",
+    "ALDAMA DEL RIO, URKO",
+    "SANCHEZ PIÑEIRO, AMETS",
+    "IGLESIAS MORIN, AIMAR",
+    "SANCHEZ PIÑEIRO, HODEI",
+    "LINARES ROMERO, OIER",
+    "CRUZ DIEZ, ANDONI",
+    "ALDAMA DEL RIO, UNAI",
+    "CARRILLO DE LA FUENTE, SERGIO",
+    "SIPOGNE TALLA, MOSE",
+    "MIRANDA BEKOETXEA, ENEKO",
+    "FRANCISCO REMENTERIA, ARKAITZ"
+  ],
+  "jugadores_visitante": [
+    "PARRA FONTANEDA, EKAITZ",
+    "IBAÑEZ GALLEGO, GORKA",
+    "HERNANDEZ AGUIRRE, IBAI",
+    "BUSTURIA RETUERTO, IBON",
+    "NAZABAL HERNANDEZ, IKER",
+    "MARTINEZ ECHEVARRIA, MARKEL",
+    "GARCIA GARCIA, JON",
+    "ALUSTIZA GARCIA, IKER",
+    "ARISTONDO GUTIERREZ, IBAI",
+    "MATARRANZ MARCHAL, ASIER",
+    "PEÑA TORRECILLA, AITOR",
+    "PASCUAL MOYA, JULEN",
+    "GONZALEZ VALDAZO, ION EDORTA",
+    "ESCAMEZ MONTES, IVAN",
+    "REDONDO CERQUEDA, KEPA",
+    "BEDOYA DEL RIO, DAVID"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 66,
+      "entra": "ALDAMA DEL RIO, UNAI",
+      "sale": "SANCHEZ PIÑEIRO, AMETS"
+    },
+    {
+      "min": 66,
+      "entra": "CARRILLO DE LA FUENTE, SERGIO",
+      "sale": "LINARES ROMERO, OIER"
+    },
+    {
+      "min": 73,
+      "entra": "SIPOGNE TALLA, MOSE",
+      "sale": "CRUZ DIEZ, ANDONI"
+    },
+    {
+      "min": 82,
+      "entra": "MIRANDA BEKOETXEA, ENEKO",
+      "sale": "SANCHEZ PIÑEIRO, HODEI"
+    },
+    {
+      "min": 82,
+      "entra": "FRANCISCO REMENTERIA, ARKAITZ",
+      "sale": "IGLESIAS MORIN, AIMAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "PASCUAL MOYA, JULEN",
+      "sale": "GARCIA GARCIA, JON"
+    },
+    {
+      "min": 60,
+      "entra": "GONZALEZ VALDAZO, ION EDORTA",
+      "sale": "ARISTONDO GUTIERREZ, IBAI"
+    },
+    {
+      "min": 60,
+      "entra": "ESCAMEZ MONTES, IVAN",
+      "sale": "ALUSTIZA GARCIA, IKER"
+    },
+    {
+      "min": 69,
+      "entra": "REDONDO CERQUEDA, KEPA",
+      "sale": "BUSTURIA RETUERTO, IBON"
+    },
+    {
+      "min": 69,
+      "entra": "BEDOYA DEL RIO, DAVID",
+      "sale": "HERNANDEZ AGUIRRE, IBAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ CASTAÑO, KOLDO": 90,
+    "PALACIO FERNANDEZ, MARKEL": 90,
+    "COTO ANTONIO, EDER": 90,
+    "MOLLEDO URIARTE, JON": 90,
+    "JAMAL, IDDRISSU": 90,
+    "ALDAMA DEL RIO, URKO": 90,
+    "SANCHEZ PIÑEIRO, AMETS": 66,
+    "IGLESIAS MORIN, AIMAR": 82,
+    "SANCHEZ PIÑEIRO, HODEI": 82,
+    "LINARES ROMERO, OIER": 66,
+    "CRUZ DIEZ, ANDONI": 73,
+    "ALDAMA DEL RIO, UNAI": 24,
+    "CARRILLO DE LA FUENTE, SERGIO": 24,
+    "SIPOGNE TALLA, MOSE": 17,
+    "MIRANDA BEKOETXEA, ENEKO": 8,
+    "FRANCISCO REMENTERIA, ARKAITZ": 8,
+    "PARRA FONTANEDA, EKAITZ": 90,
+    "IBAÑEZ GALLEGO, GORKA": 90,
+    "HERNANDEZ AGUIRRE, IBAI": 69,
+    "BUSTURIA RETUERTO, IBON": 69,
+    "NAZABAL HERNANDEZ, IKER": 90,
+    "MARTINEZ ECHEVARRIA, MARKEL": 90,
+    "GARCIA GARCIA, JON": 45,
+    "ALUSTIZA GARCIA, IKER": 60,
+    "ARISTONDO GUTIERREZ, IBAI": 60,
+    "MATARRANZ MARCHAL, ASIER": 90,
+    "PEÑA TORRECILLA, AITOR": 90,
+    "PASCUAL MOYA, JULEN": 45,
+    "GONZALEZ VALDAZO, ION EDORTA": 30,
+    "ESCAMEZ MONTES, IVAN": 30,
+    "REDONDO CERQUEDA, KEPA": 21,
+    "BEDOYA DEL RIO, DAVID": 21
+  },
+  "portero_local": "FERNANDEZ CASTAÑO, KOLDO",
+  "portero_visitante": "PARRA FONTANEDA, EKAITZ",
+  "dorsales_local": {
+    "FERNANDEZ CASTAÑO, KOLDO": 1,
+    "PALACIO FERNANDEZ, MARKEL": 2,
+    "COTO ANTONIO, EDER": 3,
+    "MOLLEDO URIARTE, JON": 4,
+    "JAMAL, IDDRISSU": 5,
+    "ALDAMA DEL RIO, URKO": 6,
+    "SANCHEZ PIÑEIRO, AMETS": 7,
+    "IGLESIAS MORIN, AIMAR": 8,
+    "SANCHEZ PIÑEIRO, HODEI": 9,
+    "LINARES ROMERO, OIER": 10,
+    "CRUZ DIEZ, ANDONI": 11
+  },
+  "dorsales_visitante": {
+    "PARRA FONTANEDA, EKAITZ": 1,
+    "IBAÑEZ GALLEGO, GORKA": 2,
+    "HERNANDEZ AGUIRRE, IBAI": 3,
+    "BUSTURIA RETUERTO, IBON": 4,
+    "NAZABAL HERNANDEZ, IKER": 5,
+    "MARTINEZ ECHEVARRIA, MARKEL": 6,
+    "GARCIA GARCIA, JON": 7,
+    "ALUSTIZA GARCIA, IKER": 8,
+    "ARISTONDO GUTIERREZ, IBAI": 9,
+    "MATARRANZ MARCHAL, ASIER": 10,
+    "PEÑA TORRECILLA, AITOR": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
