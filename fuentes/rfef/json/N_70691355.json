@@ -9,8 +9,8 @@
   "categoria": "PlayOff de Ascenso a Segunda División de Fútbol Sala (2ª eliminatoria)",
   "equipo_local": "XEREZ TOYOTA NIMAUTO",
   "equipo_visitante": "CMO VALVES LAUBURU IBARRA",
-  "goles_local": 2,
-  "goles_visitante": 0,
+  "goles_local": 3,
+  "goles_visitante": 2,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -27,31 +27,36 @@
       "minuto": 2,
       "jugador": "MACIAS PEREZ, JOSE ANTONIO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 5,
       "jugador": "MORANDO, VINCENZO GIUSEPPE PIETRO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 10,
       "jugador": "BUENDIA MORENO, EMILIO JOSE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 16,
       "jugador": "INIESTA MUÑOZ, DAVID",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 33,
       "jugador": "MORANDO, VINCENZO GIUSEPPE PIETRO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -103,7 +108,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": "VALVERDE EXPOSITO, IBAI",
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "RODRIGUEZ GARCIA, ADRIAN",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "IGLESIAS FARRAN, FRANCISCO JOSE",
   "titulares_local": [
@@ -204,5 +209,6 @@
     "RIVADULLA TILVE, RAUL": 6,
     "USIN GUISADO, RAFAEL": 10
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
