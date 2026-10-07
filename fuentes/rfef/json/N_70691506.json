@@ -9,9 +9,9 @@
   "categoria": "Torneo Juvenil Femenino - Fase Final (FASE FINAL)",
   "equipo_local": "MADRID CFF",
   "equipo_visitante": "FC BARCELONA",
-  "goles_local": 1,
-  "goles_visitante": 1,
-  "resultado": "D",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
   "arbitros": [
     "ÁRBITRO",
     "SOLLA MONTES, ALVARO",
@@ -29,19 +29,22 @@
       "minuto": 47,
       "jugador": "OHLANDER BUXEDA, CHARLOTTA DAGNY",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 65,
       "jugador": "FRANCH BLANCO, IVET",
-      "equipo": "?",
-      "propia": false
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 70,
       "jugador": "MOTRIL RAEZ, ANA MARIA",
-      "equipo": "local",
-      "propia": false
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -128,7 +131,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": "TRAMULLAS MAS, PABLO",
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "RODRIGUEZ GARCIA, ALVARO",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "MORENO RODRÍGUEZ, VÍCTOR",
   "titulares_local": [
@@ -183,22 +186,10 @@
     "HORMAECHEA GARCIA, RAQUEL",
     "GOMEZ CUETARA GIL, CLARA",
     "BENITO INFANTE, NARA",
-    "MARTIN MARTINEZ, SHEILA",
-    "SAN SEGUNDO MARTÍN, ALBA",
-    "SANCHEZ CRESPO PEINADO, JULIA",
-    "BALLESTEROS IGLESIAS, AMARA",
-    "SANCHEZ RODRIGUEZ, SOFIA",
     "RAMÍREZ DE ARELLANO RODRÍGUEZ, JIMENA"
   ],
   "convocados_sin_jugar_visitante": [
     "RASPALL COPONS, CLARA",
-    "RIUS SANCHEZ, ABRIL",
-    "CABETAS MEJIAS, LAIA",
-    "FRANCH BLANCO, IVET",
-    "GIBERT MAGDALENO, LÍDIA",
-    "BAHA ABELHADJ, MAYSSA",
-    "MORANTE MÁRQUEZ, GEORGINA",
-    "SERRANO MORENO, AVRIL",
     "TRAORE, AISSATOU"
   ],
   "jugadores_local": [
@@ -212,7 +203,12 @@
     "VILLAREJO VIDAL, LAURA",
     "MOTRIL RAEZ, ANA MARIA",
     "AYMERICH BATANERO, MARIA",
-    "CARRION JIMENEZ, ALEJANDRA"
+    "CARRION JIMENEZ, ALEJANDRA",
+    "SANCHEZ CRESPO PEINADO, JULIA",
+    "SAN SEGUNDO MARTÍN, ALBA",
+    "SANCHEZ RODRIGUEZ, SOFIA",
+    "BALLESTEROS IGLESIAS, AMARA",
+    "MARTIN MARTINEZ, SHEILA"
   ],
   "jugadores_visitante": [
     "O'DEA BAYLINA, CARMEN",
@@ -225,33 +221,114 @@
     "ARUFE CALO, LUA",
     "QUINTANA ROS, BRUNA",
     "QUER SALVADOR, ANNA",
-    "VIZUETE CANO, ELENA"
+    "VIZUETE CANO, ELENA",
+    "RIUS SANCHEZ, ABRIL",
+    "BAHA ABELHADJ, MAYSSA",
+    "CABETAS MEJIAS, LAIA",
+    "SERRANO MORENO, AVRIL",
+    "GIBERT MAGDALENO, LÍDIA",
+    "MORANTE MÁRQUEZ, GEORGINA",
+    "FRANCH BLANCO, IVET"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "SANCHEZ CRESPO PEINADO, JULIA",
+      "sale": "DEL BARRIO OTERO, DANIELA"
+    },
+    {
+      "min": 43,
+      "entra": "SAN SEGUNDO MARTÍN, ALBA",
+      "sale": "COYA DEL PULGAR, ANA"
+    },
+    {
+      "min": 43,
+      "entra": "SANCHEZ RODRIGUEZ, SOFIA",
+      "sale": "FERNANDEZ DE OCAÑA ZAMORA, NAILA"
+    },
+    {
+      "min": 60,
+      "entra": "BALLESTEROS IGLESIAS, AMARA",
+      "sale": "GOMEZ ARAUJO, ANDREA"
+    },
+    {
+      "min": 64,
+      "entra": "MARTIN MARTINEZ, SHEILA",
+      "sale": "PEREZ PILLADO, MARIA DOLORES"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "RIUS SANCHEZ, ABRIL",
+      "sale": "PASTOR LÁZARO, JÚLIA"
+    },
+    {
+      "min": 36,
+      "entra": "BAHA ABELHADJ, MAYSSA",
+      "sale": "QUINTANA ROS, BRUNA"
+    },
+    {
+      "min": 36,
+      "entra": "CABETAS MEJIAS, LAIA",
+      "sale": "VIZUETE CANO, ELENA"
+    },
+    {
+      "min": 36,
+      "entra": "SERRANO MORENO, AVRIL",
+      "sale": "PEREZ MARTIN, BEATRIZ"
+    },
+    {
+      "min": 36,
+      "entra": "GIBERT MAGDALENO, LÍDIA",
+      "sale": "ARUFE CALO, LUA"
+    },
+    {
+      "min": 36,
+      "entra": "MORANTE MÁRQUEZ, GEORGINA",
+      "sale": "SOARES MARTINS BAPTISTA LOBO, IARA"
+    },
+    {
+      "min": 49,
+      "entra": "FRANCH BLANCO, IVET",
+      "sale": "AZRAF AOURAGH, KAUTAR"
+    }
+  ],
   "minutos_jugadores": {
     "TRONCOSO FERNANDEZ, NURIA": 90,
-    "PEREZ PILLADO, MARIA DOLORES": 90,
-    "GOMEZ ARAUJO, ANDREA": 90,
-    "FERNANDEZ DE OCAÑA ZAMORA, NAILA": 90,
-    "COYA DEL PULGAR, ANA": 90,
-    "DEL BARRIO OTERO, DANIELA": 90,
+    "PEREZ PILLADO, MARIA DOLORES": 64,
+    "GOMEZ ARAUJO, ANDREA": 60,
+    "FERNANDEZ DE OCAÑA ZAMORA, NAILA": 43,
+    "COYA DEL PULGAR, ANA": 43,
+    "DEL BARRIO OTERO, DANIELA": 36,
     "RAMOS BOADA, CLAUDIA": 90,
     "VILLAREJO VIDAL, LAURA": 90,
     "MOTRIL RAEZ, ANA MARIA": 90,
     "AYMERICH BATANERO, MARIA": 90,
     "CARRION JIMENEZ, ALEJANDRA": 90,
     "O'DEA BAYLINA, CARMEN": 90,
-    "SOARES MARTINS BAPTISTA LOBO, IARA": 90,
+    "SOARES MARTINS BAPTISTA LOBO, IARA": 36,
     "OHLANDER BUXEDA, CHARLOTTA DAGNY": 90,
-    "PASTOR LÁZARO, JÚLIA": 90,
-    "PEREZ MARTIN, BEATRIZ": 90,
-    "AZRAF AOURAGH, KAUTAR": 90,
+    "PASTOR LÁZARO, JÚLIA": 36,
+    "PEREZ MARTIN, BEATRIZ": 36,
+    "AZRAF AOURAGH, KAUTAR": 49,
     "DOMINGUEZ NAVARRO, ROSALIA": 90,
-    "ARUFE CALO, LUA": 90,
-    "QUINTANA ROS, BRUNA": 90,
+    "ARUFE CALO, LUA": 36,
+    "QUINTANA ROS, BRUNA": 36,
     "QUER SALVADOR, ANNA": 90,
-    "VIZUETE CANO, ELENA": 90
+    "VIZUETE CANO, ELENA": 36,
+    "SANCHEZ CRESPO PEINADO, JULIA": 54,
+    "SAN SEGUNDO MARTÍN, ALBA": 47,
+    "SANCHEZ RODRIGUEZ, SOFIA": 47,
+    "BALLESTEROS IGLESIAS, AMARA": 30,
+    "MARTIN MARTINEZ, SHEILA": 26,
+    "RIUS SANCHEZ, ABRIL": 54,
+    "BAHA ABELHADJ, MAYSSA": 54,
+    "CABETAS MEJIAS, LAIA": 54,
+    "SERRANO MORENO, AVRIL": 54,
+    "GIBERT MAGDALENO, LÍDIA": 54,
+    "MORANTE MÁRQUEZ, GEORGINA": 54,
+    "FRANCH BLANCO, IVET": 41
   },
   "portero_local": "TRONCOSO FERNANDEZ, NURIA",
   "portero_visitante": "O'DEA BAYLINA, CARMEN",
@@ -283,5 +360,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
