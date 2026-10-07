@@ -1,0 +1,266 @@
+{
+  "acta_id": "C_240297",
+  "filename": "Acta_C_240297.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA B",
+  "equipo_visitante": "C.D. MONTE B",
+  "goles_local": 8,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "FERNÁNDEZ QUINTANA, RAÚL"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "CRUZ FERNANDEZ, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "GUERRA MIRANDA, MARTÍN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "MAYORDOMO NAVARRO, CRISTIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "GUTIÉRREZ LÓPEZ, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "FERNANDEZ TOMAS, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "MAYORDOMO NAVARRO, CRISTIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "FERNANDEZ TOMAS, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "GUTIÉRREZ LÓPEZ, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "GUERRA MIRANDA, MARTÍN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FIGUEROA MONS, ALVARO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PACHECO COTERO, SAUL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PACHECO COTERO, SAUL",
+  "delegado_equipo_visitante": "GEREZ DE LA PEÑA, VICENTE",
+  "titulares_local": [
+    "ORSOLINI PALENCIA, MARIO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "CRUZ FERNANDEZ, NICOLAS",
+    "SANCHEZ CUEVAS, SERGIO",
+    "GOMEZ SANCHEZ, MARC",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "GUERRA MIRANDA, MARTÍN",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "GUTIÉRREZ LÓPEZ, DAVID"
+  ],
+  "titulares_visitante": [
+    "ALBALADEJO GÓMEZ, PABLO",
+    "DEL HOYO VILLACORTA, ADRIAN",
+    "ROMAN SACRISTAN, LEO",
+    "CABIECES GONZÁLEZ, MARCO",
+    "FERNANDEZ DIAZ, PABLO",
+    "PARDO NAVA, YAGO",
+    "SAEZ ALBA, ERIK",
+    "DELGADO GARCIA, RAFAEL",
+    "MARTINEZ BARCINA, MIGUEL",
+    "GUTIERREZ GARCIA, FABIO",
+    "VILLAGÓMEZ CASTRO, JUAN DIEGO"
+  ],
+  "suplentes_local": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "FERNANDEZ GARCIA, IZAN",
+    "BOLADO MASEGOSA, DAVID"
+  ],
+  "suplentes_visitante": [
+    "RODRIGUEZ GOMEZ, NEO",
+    "ARROYO LLANO, ALVARO",
+    "ACHA MONTES, FERNANDO",
+    "RIVERA DE LA CRUZ, JOHANN PAOLO",
+    "MARTIN DIEZ, LUCAS"
+  ],
+  "convocados_sin_jugar_local": [
+    "TRIGO SANTOS, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "RODRIGUEZ GOMEZ, NEO"
+  ],
+  "jugadores_local": [
+    "ORSOLINI PALENCIA, MARIO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "CRUZ FERNANDEZ, NICOLAS",
+    "SANCHEZ CUEVAS, SERGIO",
+    "GOMEZ SANCHEZ, MARC",
+    "MENDARO TERAN, LUIS",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "GUERRA MIRANDA, MARTÍN",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "GUTIÉRREZ LÓPEZ, DAVID",
+    "FERNANDEZ GARCIA, IZAN",
+    "BOLADO MASEGOSA, DAVID"
+  ],
+  "jugadores_visitante": [
+    "ALBALADEJO GÓMEZ, PABLO",
+    "DEL HOYO VILLACORTA, ADRIAN",
+    "ROMAN SACRISTAN, LEO",
+    "CABIECES GONZÁLEZ, MARCO",
+    "FERNANDEZ DIAZ, PABLO",
+    "PARDO NAVA, YAGO",
+    "SAEZ ALBA, ERIK",
+    "DELGADO GARCIA, RAFAEL",
+    "MARTINEZ BARCINA, MIGUEL",
+    "GUTIERREZ GARCIA, FABIO",
+    "VILLAGÓMEZ CASTRO, JUAN DIEGO",
+    "RIVERA DE LA CRUZ, JOHANN PAOLO",
+    "MARTIN DIEZ, LUCAS",
+    "ARROYO LLANO, ALVARO",
+    "ACHA MONTES, FERNANDO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "FERNANDEZ GARCIA, IZAN",
+      "sale": "MAYORDOMO NAVARRO, CRISTIAN"
+    },
+    {
+      "min": 57,
+      "entra": "BOLADO MASEGOSA, DAVID",
+      "sale": "MENDARO TERAN, LUIS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "RIVERA DE LA CRUZ, JOHANN PAOLO",
+      "sale": "DELGADO GARCIA, RAFAEL"
+    },
+    {
+      "min": 60,
+      "entra": "MARTIN DIEZ, LUCAS",
+      "sale": "VILLAGÓMEZ CASTRO, JUAN DIEGO"
+    },
+    {
+      "min": 64,
+      "entra": "ARROYO LLANO, ALVARO",
+      "sale": "MARTINEZ BARCINA, MIGUEL"
+    },
+    {
+      "min": 64,
+      "entra": "ACHA MONTES, FERNANDO",
+      "sale": "SAEZ ALBA, ERIK"
+    }
+  ],
+  "minutos_jugadores": {
+    "ORSOLINI PALENCIA, MARIO": 90,
+    "FERNANDEZ TOMAS, ALVARO": 90,
+    "LUQUE MARTINEZ, AIMAR": 90,
+    "CRUZ FERNANDEZ, NICOLAS": 90,
+    "SANCHEZ CUEVAS, SERGIO": 90,
+    "GOMEZ SANCHEZ, MARC": 90,
+    "MENDARO TERAN, LUIS": 57,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 90,
+    "GUERRA MIRANDA, MARTÍN": 90,
+    "MAYORDOMO NAVARRO, CRISTIAN": 57,
+    "GUTIÉRREZ LÓPEZ, DAVID": 90,
+    "FERNANDEZ GARCIA, IZAN": 33,
+    "BOLADO MASEGOSA, DAVID": 33,
+    "ALBALADEJO GÓMEZ, PABLO": 90,
+    "DEL HOYO VILLACORTA, ADRIAN": 90,
+    "ROMAN SACRISTAN, LEO": 90,
+    "CABIECES GONZÁLEZ, MARCO": 90,
+    "FERNANDEZ DIAZ, PABLO": 90,
+    "PARDO NAVA, YAGO": 90,
+    "SAEZ ALBA, ERIK": 64,
+    "DELGADO GARCIA, RAFAEL": 40,
+    "MARTINEZ BARCINA, MIGUEL": 64,
+    "GUTIERREZ GARCIA, FABIO": 90,
+    "VILLAGÓMEZ CASTRO, JUAN DIEGO": 60,
+    "RIVERA DE LA CRUZ, JOHANN PAOLO": 50,
+    "MARTIN DIEZ, LUCAS": 30,
+    "ARROYO LLANO, ALVARO": 26,
+    "ACHA MONTES, FERNANDO": 26
+  },
+  "portero_local": "ORSOLINI PALENCIA, MARIO",
+  "portero_visitante": "ALBALADEJO GÓMEZ, PABLO",
+  "dorsales_local": {
+    "ORSOLINI PALENCIA, MARIO": 13,
+    "FERNANDEZ TOMAS, ALVARO": 5,
+    "LUQUE MARTINEZ, AIMAR": 7,
+    "CRUZ FERNANDEZ, NICOLAS": 8,
+    "SANCHEZ CUEVAS, SERGIO": 9,
+    "GOMEZ SANCHEZ, MARC": 10,
+    "MENDARO TERAN, LUIS": 11,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 16,
+    "GUERRA MIRANDA, MARTÍN": 17,
+    "MAYORDOMO NAVARRO, CRISTIAN": 20,
+    "GUTIÉRREZ LÓPEZ, DAVID": 21
+  },
+  "dorsales_visitante": {
+    "ALBALADEJO GÓMEZ, PABLO": 13,
+    "DEL HOYO VILLACORTA, ADRIAN": 2,
+    "ROMAN SACRISTAN, LEO": 3,
+    "CABIECES GONZÁLEZ, MARCO": 4,
+    "FERNANDEZ DIAZ, PABLO": 5,
+    "PARDO NAVA, YAGO": 6,
+    "SAEZ ALBA, ERIK": 7,
+    "DELGADO GARCIA, RAFAEL": 8,
+    "MARTINEZ BARCINA, MIGUEL": 9,
+    "GUTIERREZ GARCIA, FABIO": 10,
+    "VILLAGÓMEZ CASTRO, JUAN DIEGO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
