@@ -1,0 +1,257 @@
+{
+  "acta_id": "C_240292",
+  "filename": "Acta_C_240292.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "26-09-2026",
+  "hora": "12:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. TROPEZON B",
+  "equipo_visitante": "U.D. SAMANO A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RODRIGUEZ ROQUEÑI, AQUILES"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "BUENO GARCIA, IAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "LIS PARDO, ROI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "PLAZA GARCIA, GABRIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 53,
+      "jugador": "CASTILLO MONTES, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "MORALES RIVERA, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "ALTUNA TUEROS, MARCOS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 65,
+      "jugador": "CANO GOMEZ, GUILLERMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SANTAMARIA CUESTA, PABLO LUIS",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANTAMARIA TORRES, HUGO",
+  "delegado_equipo_visitante": "ALTUNA TUEROS, MARCOS",
+  "titulares_local": [
+    "FERNANDEZ BLANCO, JORGE",
+    "DIAZ ALPISTE, MARCOS",
+    "CABRERO SANTAMARIA, IKER",
+    "MARCANO DIAZ, LUIS",
+    "COSSIO DELGADO, MARCO",
+    "BUENO GARCIA, IAN",
+    "CORDOVILLO ACEBO, CRISTIAN",
+    "LÓPEZ CASTANEDO, MARIO",
+    "OLANDA GONZALEZ, HUGO",
+    "ITURBE ACEBAL, DIEGO",
+    "MORANTE CASTILLO, MATEO"
+  ],
+  "titulares_visitante": [
+    "COSIO GUTIERREZ, FIDEL",
+    "HERNANDEZ BRAGADO, DIEGO",
+    "PLAZA GARCIA, GABRIEL",
+    "FERNANDEZ MUÑECAS, HUGO",
+    "JURADO GARCIA, JON",
+    "AROZAMENA VILLATE, NICOLAS",
+    "LOPEZ GONZALEZ, ARITZ",
+    "LIS PARDO, ROI",
+    "CANO GOMEZ, GUILLERMO",
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO",
+    "TERRON MIRANDA, IGNACIO"
+  ],
+  "suplentes_local": [
+    "IBAÑEZ CELORIO, SAUL",
+    "CASTILLO MONTES, ALEJANDRO",
+    "MORALES RIVERA, DIEGO",
+    "PASTOR ALONSO, JORGE",
+    "GUERRA GONZALEZ, JACOBO"
+  ],
+  "suplentes_visitante": [
+    "GOMEZ LIAÑO, DIEGO",
+    "LLONA LORENTE, ERIK",
+    "GARCIA ZUBIAUR, MARKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "IBAÑEZ CELORIO, SAUL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ BLANCO, JORGE",
+    "DIAZ ALPISTE, MARCOS",
+    "CABRERO SANTAMARIA, IKER",
+    "MARCANO DIAZ, LUIS",
+    "COSSIO DELGADO, MARCO",
+    "BUENO GARCIA, IAN",
+    "CORDOVILLO ACEBO, CRISTIAN",
+    "LÓPEZ CASTANEDO, MARIO",
+    "OLANDA GONZALEZ, HUGO",
+    "ITURBE ACEBAL, DIEGO",
+    "MORANTE CASTILLO, MATEO",
+    "CASTILLO MONTES, ALEJANDRO",
+    "MORALES RIVERA, DIEGO",
+    "PASTOR ALONSO, JORGE",
+    "GUERRA GONZALEZ, JACOBO"
+  ],
+  "jugadores_visitante": [
+    "COSIO GUTIERREZ, FIDEL",
+    "HERNANDEZ BRAGADO, DIEGO",
+    "PLAZA GARCIA, GABRIEL",
+    "FERNANDEZ MUÑECAS, HUGO",
+    "JURADO GARCIA, JON",
+    "AROZAMENA VILLATE, NICOLAS",
+    "LOPEZ GONZALEZ, ARITZ",
+    "LIS PARDO, ROI",
+    "CANO GOMEZ, GUILLERMO",
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO",
+    "TERRON MIRANDA, IGNACIO",
+    "LLONA LORENTE, ERIK",
+    "GOMEZ LIAÑO, DIEGO",
+    "GARCIA ZUBIAUR, MARKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "CASTILLO MONTES, ALEJANDRO",
+      "sale": "LÓPEZ CASTANEDO, MARIO"
+    },
+    {
+      "min": 45,
+      "entra": "MORALES RIVERA, DIEGO",
+      "sale": "COSSIO DELGADO, MARCO"
+    },
+    {
+      "min": 56,
+      "entra": "PASTOR ALONSO, JORGE",
+      "sale": "DIAZ ALPISTE, MARCOS"
+    },
+    {
+      "min": 56,
+      "entra": "GUERRA GONZALEZ, JACOBO",
+      "sale": "ITURBE ACEBAL, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "LLONA LORENTE, ERIK",
+      "sale": "TERRON MIRANDA, IGNACIO"
+    },
+    {
+      "min": 67,
+      "entra": "GOMEZ LIAÑO, DIEGO",
+      "sale": "LIS PARDO, ROI"
+    },
+    {
+      "min": 76,
+      "entra": "GARCIA ZUBIAUR, MARKEL",
+      "sale": "JURADO GARCIA, JON"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ BLANCO, JORGE": 90,
+    "DIAZ ALPISTE, MARCOS": 56,
+    "CABRERO SANTAMARIA, IKER": 90,
+    "MARCANO DIAZ, LUIS": 90,
+    "COSSIO DELGADO, MARCO": 45,
+    "BUENO GARCIA, IAN": 90,
+    "CORDOVILLO ACEBO, CRISTIAN": 90,
+    "LÓPEZ CASTANEDO, MARIO": 40,
+    "OLANDA GONZALEZ, HUGO": 90,
+    "ITURBE ACEBAL, DIEGO": 56,
+    "MORANTE CASTILLO, MATEO": 90,
+    "CASTILLO MONTES, ALEJANDRO": 50,
+    "MORALES RIVERA, DIEGO": 45,
+    "PASTOR ALONSO, JORGE": 34,
+    "GUERRA GONZALEZ, JACOBO": 34,
+    "COSIO GUTIERREZ, FIDEL": 90,
+    "HERNANDEZ BRAGADO, DIEGO": 90,
+    "PLAZA GARCIA, GABRIEL": 90,
+    "FERNANDEZ MUÑECAS, HUGO": 90,
+    "JURADO GARCIA, JON": 76,
+    "AROZAMENA VILLATE, NICOLAS": 90,
+    "LOPEZ GONZALEZ, ARITZ": 90,
+    "LIS PARDO, ROI": 67,
+    "CANO GOMEZ, GUILLERMO": 90,
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO": 90,
+    "TERRON MIRANDA, IGNACIO": 40,
+    "LLONA LORENTE, ERIK": 50,
+    "GOMEZ LIAÑO, DIEGO": 23,
+    "GARCIA ZUBIAUR, MARKEL": 14
+  },
+  "portero_local": "FERNANDEZ BLANCO, JORGE",
+  "portero_visitante": "COSIO GUTIERREZ, FIDEL",
+  "dorsales_local": {
+    "FERNANDEZ BLANCO, JORGE": 13,
+    "DIAZ ALPISTE, MARCOS": 3,
+    "CABRERO SANTAMARIA, IKER": 5,
+    "MARCANO DIAZ, LUIS": 6,
+    "COSSIO DELGADO, MARCO": 8,
+    "BUENO GARCIA, IAN": 9,
+    "CORDOVILLO ACEBO, CRISTIAN": 10,
+    "LÓPEZ CASTANEDO, MARIO": 12,
+    "OLANDA GONZALEZ, HUGO": 14,
+    "ITURBE ACEBAL, DIEGO": 21,
+    "MORANTE CASTILLO, MATEO": 22
+  },
+  "dorsales_visitante": {
+    "COSIO GUTIERREZ, FIDEL": 13,
+    "HERNANDEZ BRAGADO, DIEGO": 5,
+    "PLAZA GARCIA, GABRIEL": 6,
+    "FERNANDEZ MUÑECAS, HUGO": 7,
+    "JURADO GARCIA, JON": 9,
+    "AROZAMENA VILLATE, NICOLAS": 15,
+    "LOPEZ GONZALEZ, ARITZ": 16,
+    "LIS PARDO, ROI": 17,
+    "CANO GOMEZ, GUILLERMO": 22,
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO": 25,
+    "TERRON MIRANDA, IGNACIO": 26
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
