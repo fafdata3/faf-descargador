@@ -1,0 +1,267 @@
+{
+  "acta_id": "C_244326",
+  "filename": "Acta_C_244326.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "03-10-2026",
+  "hora": "13:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO A)",
+  "equipo_local": "R.S. GIMNASTICA B",
+  "equipo_visitante": "C.AT. PERINES B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCÍA RUIZ, JAVIER"
+  ],
+  "estadio": "El Malecón 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "MOREL DIANA, EDUARDO RAMÓN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "CELORIO GARCIA, LARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "DEL CAMPO CHAPADO, IKER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "ORTIZ CAMPO, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "ALONSO BELLOTA, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "ALONSO BELLOTA, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "GONZALEZ GUIMAREY, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZALEZ MARTINEZ, JULIAN JOSE",
+  "entrenador_visitante": "ALCANTARA ARCE, ANDRES",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GOMEZ ZEVALLOS, STEVEN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GOMEZ ZEVALLOS, STEVEN",
+  "delegado_equipo_visitante": "PRIETO RUIZ, LUIS",
+  "titulares_local": [
+    "DIAZ GONZALEZ, ESTEBAN",
+    "CASTANEDO MARTINEZ, MARCO",
+    "PAREDES GONZÁLEZ, BOSCO",
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO",
+    "COSÍO BLANCO, NICOLÁS",
+    "NICOL BROWN, DICKSON",
+    "CELORIO GARCIA, LARO",
+    "GARCIA MARTINEZ, NECO",
+    "HERNANDEZ CANO, HUGO",
+    "GARCIA RUIZ, JAVIER",
+    "ORTIZ CAMPO, DIEGO"
+  ],
+  "titulares_visitante": [
+    "CAGIGAS GOMEZ, LEO",
+    "ALONSO BELLOTA, ADRIAN",
+    "ABARITURIOZ ARRIARAN, ASIER",
+    "FERNANDEZ LERENA, LUIS",
+    "BAICU, ADRIAN NICOLAS",
+    "GONZALEZ GUIMAREY, MARIO",
+    "URUEÑA DE LA VEGA, RAUL",
+    "MOREL DIANA, EDUARDO RAMÓN",
+    "PEREZ BUENO, MARCO",
+    "ECHEVARRIA OTERO, ALVARO",
+    "DEL CAMPO CHAPADO, IKER"
+  ],
+  "suplentes_local": [
+    "CASERO PUCHE, LUIS",
+    "PÉREZ LASO, GUILLERMO",
+    "PEREZ BAIZAN, ALVARO",
+    "PEREZ RICO, IGNACIO"
+  ],
+  "suplentes_visitante": [
+    "DE LA SERNA GARCIA, ADRIAN",
+    "GOMEZ AROSTEGUI BARRIO, HIAN",
+    "DIRU, DANIEL",
+    "HORRILLO CAÑEDO, JONATHAN",
+    "MODINO ALVAREZ, GALO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "DE LA SERNA GARCIA, ADRIAN"
+  ],
+  "jugadores_local": [
+    "DIAZ GONZALEZ, ESTEBAN",
+    "CASTANEDO MARTINEZ, MARCO",
+    "PAREDES GONZÁLEZ, BOSCO",
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO",
+    "COSÍO BLANCO, NICOLÁS",
+    "NICOL BROWN, DICKSON",
+    "CELORIO GARCIA, LARO",
+    "GARCIA MARTINEZ, NECO",
+    "HERNANDEZ CANO, HUGO",
+    "GARCIA RUIZ, JAVIER",
+    "ORTIZ CAMPO, DIEGO",
+    "PÉREZ LASO, GUILLERMO",
+    "CASERO PUCHE, LUIS",
+    "PEREZ RICO, IGNACIO",
+    "PEREZ BAIZAN, ALVARO"
+  ],
+  "jugadores_visitante": [
+    "CAGIGAS GOMEZ, LEO",
+    "ALONSO BELLOTA, ADRIAN",
+    "ABARITURIOZ ARRIARAN, ASIER",
+    "FERNANDEZ LERENA, LUIS",
+    "BAICU, ADRIAN NICOLAS",
+    "GONZALEZ GUIMAREY, MARIO",
+    "URUEÑA DE LA VEGA, RAUL",
+    "MOREL DIANA, EDUARDO RAMÓN",
+    "PEREZ BUENO, MARCO",
+    "ECHEVARRIA OTERO, ALVARO",
+    "DEL CAMPO CHAPADO, IKER",
+    "GOMEZ AROSTEGUI BARRIO, HIAN",
+    "HORRILLO CAÑEDO, JONATHAN",
+    "MODINO ALVAREZ, GALO",
+    "DIRU, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "PÉREZ LASO, GUILLERMO",
+      "sale": "HERNANDEZ CANO, HUGO"
+    },
+    {
+      "min": 35,
+      "entra": "CASERO PUCHE, LUIS",
+      "sale": "DIAZ GONZALEZ, ESTEBAN"
+    },
+    {
+      "min": 44,
+      "entra": "PEREZ RICO, IGNACIO",
+      "sale": "COSÍO BLANCO, NICOLÁS"
+    },
+    {
+      "min": 50,
+      "entra": "PEREZ BAIZAN, ALVARO",
+      "sale": "GARCIA MARTINEZ, NECO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GOMEZ AROSTEGUI BARRIO, HIAN",
+      "sale": "ECHEVARRIA OTERO, ALVARO"
+    },
+    {
+      "min": 52,
+      "entra": "HORRILLO CAÑEDO, JONATHAN",
+      "sale": "DEL CAMPO CHAPADO, IKER"
+    },
+    {
+      "min": 68,
+      "entra": "MODINO ALVAREZ, GALO",
+      "sale": "GONZALEZ GUIMAREY, MARIO"
+    },
+    {
+      "min": 69,
+      "entra": "DIRU, DANIEL",
+      "sale": "MOREL DIANA, EDUARDO RAMÓN"
+    }
+  ],
+  "minutos_jugadores": {
+    "DIAZ GONZALEZ, ESTEBAN": 35,
+    "CASTANEDO MARTINEZ, MARCO": 90,
+    "PAREDES GONZÁLEZ, BOSCO": 90,
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO": 90,
+    "COSÍO BLANCO, NICOLÁS": 44,
+    "NICOL BROWN, DICKSON": 90,
+    "CELORIO GARCIA, LARO": 90,
+    "GARCIA MARTINEZ, NECO": 50,
+    "HERNANDEZ CANO, HUGO": 35,
+    "GARCIA RUIZ, JAVIER": 90,
+    "ORTIZ CAMPO, DIEGO": 90,
+    "PÉREZ LASO, GUILLERMO": 55,
+    "CASERO PUCHE, LUIS": 55,
+    "PEREZ RICO, IGNACIO": 46,
+    "PEREZ BAIZAN, ALVARO": 40,
+    "CAGIGAS GOMEZ, LEO": 90,
+    "ALONSO BELLOTA, ADRIAN": 90,
+    "ABARITURIOZ ARRIARAN, ASIER": 90,
+    "FERNANDEZ LERENA, LUIS": 90,
+    "BAICU, ADRIAN NICOLAS": 90,
+    "GONZALEZ GUIMAREY, MARIO": 68,
+    "URUEÑA DE LA VEGA, RAUL": 90,
+    "MOREL DIANA, EDUARDO RAMÓN": 69,
+    "PEREZ BUENO, MARCO": 90,
+    "ECHEVARRIA OTERO, ALVARO": 40,
+    "DEL CAMPO CHAPADO, IKER": 52,
+    "GOMEZ AROSTEGUI BARRIO, HIAN": 50,
+    "HORRILLO CAÑEDO, JONATHAN": 38,
+    "MODINO ALVAREZ, GALO": 22,
+    "DIRU, DANIEL": 21
+  },
+  "portero_local": "DIAZ GONZALEZ, ESTEBAN",
+  "portero_visitante": "CAGIGAS GOMEZ, LEO",
+  "dorsales_local": {
+    "DIAZ GONZALEZ, ESTEBAN": 13,
+    "CASTANEDO MARTINEZ, MARCO": 3,
+    "PAREDES GONZÁLEZ, BOSCO": 4,
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO": 6,
+    "COSÍO BLANCO, NICOLÁS": 8,
+    "NICOL BROWN, DICKSON": 9,
+    "CELORIO GARCIA, LARO": 10,
+    "GARCIA MARTINEZ, NECO": 11,
+    "HERNANDEZ CANO, HUGO": 12,
+    "GARCIA RUIZ, JAVIER": 14,
+    "ORTIZ CAMPO, DIEGO": 22
+  },
+  "dorsales_visitante": {
+    "CAGIGAS GOMEZ, LEO": 1,
+    "ALONSO BELLOTA, ADRIAN": 2,
+    "ABARITURIOZ ARRIARAN, ASIER": 3,
+    "FERNANDEZ LERENA, LUIS": 4,
+    "BAICU, ADRIAN NICOLAS": 5,
+    "GONZALEZ GUIMAREY, MARIO": 6,
+    "URUEÑA DE LA VEGA, RAUL": 7,
+    "MOREL DIANA, EDUARDO RAMÓN": 9,
+    "PEREZ BUENO, MARCO": 10,
+    "ECHEVARRIA OTERO, ALVARO": 11,
+    "DEL CAMPO CHAPADO, IKER": 14
+  },
+  "suspendidos": [
+    "ALONSO BELLOTA, ADRIAN"
+  ],
+  "_marcador_widget": true
+}
