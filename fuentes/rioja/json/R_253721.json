@@ -9,8 +9,8 @@
   "categoria": "SENIOR FÚTBOL SALA - 1ª FASE (Grupo 2)",
   "equipo_local": "FS ALBELDA B",
   "equipo_visitante": "OYONESA",
-  "goles_local": 1,
-  "goles_visitante": 2,
+  "goles_local": 2,
+  "goles_visitante": 4,
   "resultado": "L",
   "arbitros": [
     "Árbitro Principal",
@@ -23,19 +23,22 @@
       "minuto": 6,
       "jugador": "MARTINEZ CEBALLOS, JULEN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 21,
       "jugador": "RUIZ OCHAGAVIA, HUGO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "CUESTA GONZALEZ, DENNIS",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -43,34 +46,6 @@
       "minuto": 18,
       "jugador": "CALZADA AZACETA, YERAY",
       "equipo": "local",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 40,
-      "jugador": "RUIZ OCHAGAVIA, HUGO",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 57,
-      "jugador": "GOMEZ JALON, DANIEL",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 58,
-      "jugador": "SAENZ ABEYTUA, ANGEL",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 58,
-      "jugador": "OYONESA",
-      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     },
@@ -185,6 +160,5 @@
     "DIEZ ANSOTEGUI, JOEL": 12,
     "ROMERO MARQUEZ, IVAN": 17
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
