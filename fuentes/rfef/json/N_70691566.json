@@ -9,8 +9,8 @@
   "categoria": "Campeonato de España de Clubes Base Fútbol Sala Sub-10 Masculino (GRUPO A)",
   "equipo_local": "ALJUCER F.S.-CIUDAD DE MURCIA",
   "equipo_visitante": "CLUB PEÑA SANTILLANA",
-  "goles_local": 8,
-  "goles_visitante": 1,
+  "goles_local": 7,
+  "goles_visitante": 0,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -27,55 +27,64 @@
       "minuto": 3,
       "jugador": "MATEOS GIL, AITOR",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 3,
       "jugador": "MATEOS GIL, AITOR",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 5,
       "jugador": "CASCALES FUENTES, MARTIN",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 6,
       "jugador": "MATEOS GIL, AITOR",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 8,
       "jugador": "ANTOÑANZAS LEÓN, ANDONI",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 10,
       "jugador": "MARIN GARCIA, MIGUEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 11,
       "jugador": "HUSSEIN RANERO, ILIAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 15,
       "jugador": "HORTAL PEREA, MIGUEL",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "ANTOÑANZAS LEÓN, ANDONI",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -92,7 +101,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": null,
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "GIL FRANCO, JUAN",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "JIMENEZ UNZUETA, ANGEL",
   "titulares_local": [
@@ -185,6 +194,5 @@
   },
   "suspendidos": [
     "MARESCO NAVARRO, JOSÉ TOMÁS"
-  ],
-  "_marcador_widget": true
+  ]
 }
