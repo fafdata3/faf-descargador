@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO B)",
   "equipo_local": "BARRIADA LA PLAYA C.D.",
   "equipo_visitante": "C.F. FEMENINO CIUDAD DE DOS HERMANAS",
-  "goles_local": 0,
-  "goles_visitante": 2,
+  "goles_local": 1,
+  "goles_visitante": 8,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -29,55 +29,64 @@
       "minuto": 4,
       "jugador": "GUERRA GUILLEN, ELENA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 5,
       "jugador": "GONZALEZ BORRERO, MARINA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 18,
       "jugador": "SANCHEZ LOPEZ, SARA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "CUADRA ECHEVERRÍA, ZAIRA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 21,
       "jugador": "CUADRA ECHEVERRÍA, ZAIRA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 25,
       "jugador": "VILLEGAS CARRANZA, MARTA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 25,
       "jugador": "ALARCON SANCHEZ, AINARA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "GONZALEZ BORRERO, MARINA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 32,
       "jugador": "ALVARO PASTOR, LUCIA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -270,5 +279,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
