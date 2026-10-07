@@ -1,0 +1,280 @@
+{
+  "acta_id": "B_9981331",
+  "filename": "Acta_B_9981331.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 20,
+  "fecha": "21-02-2026",
+  "hora": "13:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "PORTUGALETE B",
+  "equipo_visitante": "ITURRIGORRI A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "RUIZ GARCIA, UNAI"
+  ],
+  "estadio": "LOS LLANOS",
+  "ciudad": "Portugalete",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "ORTIZ ROSALES, PEIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "ONDARRA ESTEBAN, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 79,
+      "jugador": "CHAMORRO PEREIRA, GERARD",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 36,
+      "jugador": "BLASCO MUÑOZ, ASIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "PRESA SEVILLA, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "ONDARRA ESTEBAN, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "ONDARRA ESTEBAN, JON",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CHAVES SANTOS, JOSU AINGERU",
+  "entrenador_visitante": "ARNAIZ SERRADILLA, JOSE IGNACIO",
+  "segundo_entrenador_local": "DORIN, ROMICA",
+  "segundo_entrenador_visitante": "LOPEZ SANTAMARINA, JESUS IGNACIO",
+  "delegado_campo_local": "MENDEZ PAZOS, FERNANDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "OLANO AYARZA, IGOR",
+  "titulares_local": [
+    "LOPEZ SANCHEZ, MARKEL",
+    "BLASCO MUÑOZ, ASIER",
+    "ESCAPA PEREZ, MARCO",
+    "RODRIGUEZ VALDERAS, MIKEL",
+    "VARGAS CARRIL, ADRIAN",
+    "LÓPEZ DEL VAL, ROBERTO",
+    "LAZCANO GALLEGO, ALVARO",
+    "MOREIRO FERNÁNDEZ, AIMAR",
+    "PUENTE GONZALEZ, IKER",
+    "LORENZO GARCIA, JON",
+    "ARCE RAMÓN, IZAN"
+  ],
+  "titulares_visitante": [
+    "PANIAGUA RODRIGUEZ, IZAN",
+    "SANTISTEBAN VIGO, ARITZ",
+    "PALOMINO GONZALEZ, JON",
+    "TORRE GUTIERREZ, ASIER",
+    "ORTIZ ROSALES, PEIO",
+    "PEREZ HELGUERA, ANDER",
+    "BARRENECHEA QUERO, ANDER",
+    "GARATE MARTINEZ, ANDER",
+    "ONDARRA ESTEBAN, JON",
+    "ZALDO DEL CAMPO, IKER",
+    "LOPEZ MUR, ANDER"
+  ],
+  "suplentes_local": [
+    "GALAN MAZAS, IMANOL",
+    "CHAMORRO PEREIRA, GERARD",
+    "RUIZ MARCANO, LIER",
+    "ARRIANDIAGA ADRIAN, BEÑAT",
+    "ORTIZ NEGRO, ANDER",
+    "MESA LOPEZ, HUGO",
+    "RIVERA OVALLE, THOMAS ALEJANDRO"
+  ],
+  "suplentes_visitante": [
+    "GENTO GARCIA, UNAX",
+    "HERRAIZ BENITO, JON",
+    "PELLITERO GARRIDO, LUKEN",
+    "PRESA SEVILLA, ANDER",
+    "PUJANA RODRIGUEZ, IKER"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARRIANDIAGA ADRIAN, BEÑAT",
+    "ORTIZ NEGRO, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GENTO GARCIA, UNAX"
+  ],
+  "jugadores_local": [
+    "LOPEZ SANCHEZ, MARKEL",
+    "BLASCO MUÑOZ, ASIER",
+    "ESCAPA PEREZ, MARCO",
+    "RODRIGUEZ VALDERAS, MIKEL",
+    "VARGAS CARRIL, ADRIAN",
+    "LÓPEZ DEL VAL, ROBERTO",
+    "LAZCANO GALLEGO, ALVARO",
+    "MOREIRO FERNÁNDEZ, AIMAR",
+    "PUENTE GONZALEZ, IKER",
+    "LORENZO GARCIA, JON",
+    "ARCE RAMÓN, IZAN",
+    "CHAMORRO PEREIRA, GERARD",
+    "GALAN MAZAS, IMANOL",
+    "MESA LOPEZ, HUGO",
+    "RIVERA OVALLE, THOMAS ALEJANDRO",
+    "RUIZ MARCANO, LIER"
+  ],
+  "jugadores_visitante": [
+    "PANIAGUA RODRIGUEZ, IZAN",
+    "SANTISTEBAN VIGO, ARITZ",
+    "PALOMINO GONZALEZ, JON",
+    "TORRE GUTIERREZ, ASIER",
+    "ORTIZ ROSALES, PEIO",
+    "PEREZ HELGUERA, ANDER",
+    "BARRENECHEA QUERO, ANDER",
+    "GARATE MARTINEZ, ANDER",
+    "ONDARRA ESTEBAN, JON",
+    "ZALDO DEL CAMPO, IKER",
+    "LOPEZ MUR, ANDER",
+    "HERRAIZ BENITO, JON",
+    "PELLITERO GARRIDO, LUKEN",
+    "PRESA SEVILLA, ANDER",
+    "PUJANA RODRIGUEZ, IKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "CHAMORRO PEREIRA, GERARD",
+      "sale": "ARCE RAMÓN, IZAN"
+    },
+    {
+      "min": 53,
+      "entra": "GALAN MAZAS, IMANOL",
+      "sale": "VARGAS CARRIL, ADRIAN"
+    },
+    {
+      "min": 53,
+      "entra": "MESA LOPEZ, HUGO",
+      "sale": "LÓPEZ DEL VAL, ROBERTO"
+    },
+    {
+      "min": 67,
+      "entra": "RIVERA OVALLE, THOMAS ALEJANDRO",
+      "sale": "LORENZO GARCIA, JON"
+    },
+    {
+      "min": 74,
+      "entra": "RUIZ MARCANO, LIER",
+      "sale": "MOREIRO FERNÁNDEZ, AIMAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "HERRAIZ BENITO, JON",
+      "sale": "PEREZ HELGUERA, ANDER"
+    },
+    {
+      "min": 50,
+      "entra": "PELLITERO GARRIDO, LUKEN",
+      "sale": "BARRENECHEA QUERO, ANDER"
+    },
+    {
+      "min": 60,
+      "entra": "PRESA SEVILLA, ANDER",
+      "sale": "PALOMINO GONZALEZ, JON"
+    },
+    {
+      "min": 67,
+      "entra": "PUJANA RODRIGUEZ, IKER",
+      "sale": "ZALDO DEL CAMPO, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "LOPEZ SANCHEZ, MARKEL": 90,
+    "BLASCO MUÑOZ, ASIER": 90,
+    "ESCAPA PEREZ, MARCO": 90,
+    "RODRIGUEZ VALDERAS, MIKEL": 90,
+    "VARGAS CARRIL, ADRIAN": 53,
+    "LÓPEZ DEL VAL, ROBERTO": 53,
+    "LAZCANO GALLEGO, ALVARO": 90,
+    "MOREIRO FERNÁNDEZ, AIMAR": 74,
+    "PUENTE GONZALEZ, IKER": 90,
+    "LORENZO GARCIA, JON": 67,
+    "ARCE RAMÓN, IZAN": 53,
+    "CHAMORRO PEREIRA, GERARD": 37,
+    "GALAN MAZAS, IMANOL": 37,
+    "MESA LOPEZ, HUGO": 37,
+    "RIVERA OVALLE, THOMAS ALEJANDRO": 23,
+    "RUIZ MARCANO, LIER": 16,
+    "PANIAGUA RODRIGUEZ, IZAN": 90,
+    "SANTISTEBAN VIGO, ARITZ": 90,
+    "PALOMINO GONZALEZ, JON": 60,
+    "TORRE GUTIERREZ, ASIER": 90,
+    "ORTIZ ROSALES, PEIO": 90,
+    "PEREZ HELGUERA, ANDER": 50,
+    "BARRENECHEA QUERO, ANDER": 50,
+    "GARATE MARTINEZ, ANDER": 90,
+    "ONDARRA ESTEBAN, JON": 90,
+    "ZALDO DEL CAMPO, IKER": 67,
+    "LOPEZ MUR, ANDER": 90,
+    "HERRAIZ BENITO, JON": 40,
+    "PELLITERO GARRIDO, LUKEN": 40,
+    "PRESA SEVILLA, ANDER": 30,
+    "PUJANA RODRIGUEZ, IKER": 23
+  },
+  "portero_local": "LOPEZ SANCHEZ, MARKEL",
+  "portero_visitante": "PANIAGUA RODRIGUEZ, IZAN",
+  "dorsales_local": {
+    "LOPEZ SANCHEZ, MARKEL": 1,
+    "BLASCO MUÑOZ, ASIER": 4,
+    "ESCAPA PEREZ, MARCO": 5,
+    "RODRIGUEZ VALDERAS, MIKEL": 7,
+    "VARGAS CARRIL, ADRIAN": 8,
+    "LÓPEZ DEL VAL, ROBERTO": 9,
+    "LAZCANO GALLEGO, ALVARO": 15,
+    "MOREIRO FERNÁNDEZ, AIMAR": 16,
+    "PUENTE GONZALEZ, IKER": 18,
+    "LORENZO GARCIA, JON": 20,
+    "ARCE RAMÓN, IZAN": 21
+  },
+  "dorsales_visitante": {
+    "PANIAGUA RODRIGUEZ, IZAN": 1,
+    "SANTISTEBAN VIGO, ARITZ": 3,
+    "PALOMINO GONZALEZ, JON": 4,
+    "TORRE GUTIERREZ, ASIER": 5,
+    "ORTIZ ROSALES, PEIO": 7,
+    "PEREZ HELGUERA, ANDER": 8,
+    "BARRENECHEA QUERO, ANDER": 10,
+    "GARATE MARTINEZ, ANDER": 14,
+    "ONDARRA ESTEBAN, JON": 15,
+    "ZALDO DEL CAMPO, IKER": 20,
+    "LOPEZ MUR, ANDER": 21
+  },
+  "suspendidos": [
+    "ONDARRA ESTEBAN, JON"
+  ],
+  "_marcador_widget": true
+}
