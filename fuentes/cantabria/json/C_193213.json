@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_193213",
+  "filename": "Acta_C_193213.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 21,
+  "fecha": "09-02-2025",
+  "hora": "11:15",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE B",
+  "equipo_visitante": "AA. VV. LA MARISMA A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "COBO TORRES, CRISTIAN"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "LOPEZ ALCALDE, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "LOPEZ ALCALDE, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 63,
+      "jugador": "DIAZ NAVEA, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 33,
+      "jugador": "GONZALEZ GONZALEZ, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "CZACHOR, DAMIAN KRZYSZTOF",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "JIMENEZ AGUEROS, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RUIZ GARCIA, DAVID",
+  "entrenador_visitante": "RUIZ GUTIERREZ, ENRIQUE",
+  "segundo_entrenador_local": "RUIZ DIAZ, FRANCISCO JAVIER",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "SARACHAGA GIL, JOSE LUIS",
+  "titulares_local": [
+    "NUÑEZ MORENO, MARCOS",
+    "DURÁN GÓMEZ, MARCOS",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+    "LOPEZ ALCALDE, IZAN",
+    "ESCALANTE BUENO, OIER",
+    "SANCHEZ SALAS, SERGIO",
+    "MALLAVIA PEREZ, ASIER",
+    "DIAZ NAVEA, MARIO",
+    "ROCES RONDO, CRUZ"
+  ],
+  "titulares_visitante": [
+    "HARO FERNANDEZ, HUGO",
+    "GONZALEZ OSORIO, DANIEL",
+    "HERRERA MACIA, NICOLAS",
+    "MARTINEZ RUIZ, LUCAS",
+    "SARACHAGA GAÑAN, IKER",
+    "GUTIERREZ ECHEVARRIA, DARIO",
+    "TORRE CAGIGAS, NICOLAS",
+    "AVENDAÑO SILIO, ADRIAN",
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO",
+    "CAVADA CAVADA, ADRIAN",
+    "LIEBANA GUTIERREZ, ADRIAN"
+  ],
+  "suplentes_local": [
+    "PEREZ CAYON, ALIO",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "CZACHOR, DAMIAN KRZYSZTOF",
+    "MONTES SANTOS, CARLOS",
+    "SAIZ BOLADO, LUCAS"
+  ],
+  "suplentes_visitante": [
+    "FALL FALL, MOR",
+    "JIMENEZ AGUEROS, NICOLAS",
+    "LAMADRID RIVAS, HUGO",
+    "GARCIA GONZALEZ, PABLO",
+    "CAMILLERI OCEJA, GIOVANNI"
+  ],
+  "convocados_sin_jugar_local": [
+    "PEREZ CAYON, ALIO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "FALL FALL, MOR"
+  ],
+  "jugadores_local": [
+    "NUÑEZ MORENO, MARCOS",
+    "DURÁN GÓMEZ, MARCOS",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN",
+    "LOPEZ ALCALDE, IZAN",
+    "ESCALANTE BUENO, OIER",
+    "SANCHEZ SALAS, SERGIO",
+    "MALLAVIA PEREZ, ASIER",
+    "DIAZ NAVEA, MARIO",
+    "ROCES RONDO, CRUZ",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "SAIZ BOLADO, LUCAS",
+    "CZACHOR, DAMIAN KRZYSZTOF",
+    "MONTES SANTOS, CARLOS"
+  ],
+  "jugadores_visitante": [
+    "HARO FERNANDEZ, HUGO",
+    "GONZALEZ OSORIO, DANIEL",
+    "HERRERA MACIA, NICOLAS",
+    "MARTINEZ RUIZ, LUCAS",
+    "SARACHAGA GAÑAN, IKER",
+    "GUTIERREZ ECHEVARRIA, DARIO",
+    "TORRE CAGIGAS, NICOLAS",
+    "AVENDAÑO SILIO, ADRIAN",
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO",
+    "CAVADA CAVADA, ADRIAN",
+    "LIEBANA GUTIERREZ, ADRIAN",
+    "LAMADRID RIVAS, HUGO",
+    "JIMENEZ AGUEROS, NICOLAS",
+    "CAMILLERI OCEJA, GIOVANNI",
+    "GARCIA GONZALEZ, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "ZAMAN, VICTOR ALEXANDRU",
+      "sale": "SANCHEZ SALAS, SERGIO"
+    },
+    {
+      "min": 40,
+      "entra": "SAIZ BOLADO, LUCAS",
+      "sale": "ZHEKOV, ATANASIO ATANASOV"
+    },
+    {
+      "min": 65,
+      "entra": "CZACHOR, DAMIAN KRZYSZTOF",
+      "sale": "LOPEZ ALCALDE, IZAN"
+    },
+    {
+      "min": 69,
+      "entra": "MONTES SANTOS, CARLOS",
+      "sale": "GONZALEZ GONZALEZ, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "LAMADRID RIVAS, HUGO",
+      "sale": "GUTIERREZ ECHEVARRIA, DARIO"
+    },
+    {
+      "min": 50,
+      "entra": "JIMENEZ AGUEROS, NICOLAS",
+      "sale": "SARACHAGA GAÑAN, IKER"
+    },
+    {
+      "min": 50,
+      "entra": "CAMILLERI OCEJA, GIOVANNI",
+      "sale": "AVENDAÑO SILIO, ADRIAN"
+    },
+    {
+      "min": 57,
+      "entra": "GARCIA GONZALEZ, PABLO",
+      "sale": "CAVADA CAVADA, ADRIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "NUÑEZ MORENO, MARCOS": 90,
+    "DURÁN GÓMEZ, MARCOS": 90,
+    "ZHEKOV, ATANASIO ATANASOV": 40,
+    "GONZALEZ GONZALEZ, DANIEL": 69,
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN": 90,
+    "LOPEZ ALCALDE, IZAN": 65,
+    "ESCALANTE BUENO, OIER": 90,
+    "SANCHEZ SALAS, SERGIO": 40,
+    "MALLAVIA PEREZ, ASIER": 90,
+    "DIAZ NAVEA, MARIO": 90,
+    "ROCES RONDO, CRUZ": 90,
+    "ZAMAN, VICTOR ALEXANDRU": 50,
+    "SAIZ BOLADO, LUCAS": 50,
+    "CZACHOR, DAMIAN KRZYSZTOF": 25,
+    "MONTES SANTOS, CARLOS": 21,
+    "HARO FERNANDEZ, HUGO": 90,
+    "GONZALEZ OSORIO, DANIEL": 90,
+    "HERRERA MACIA, NICOLAS": 90,
+    "MARTINEZ RUIZ, LUCAS": 90,
+    "SARACHAGA GAÑAN, IKER": 50,
+    "GUTIERREZ ECHEVARRIA, DARIO": 50,
+    "TORRE CAGIGAS, NICOLAS": 90,
+    "AVENDAÑO SILIO, ADRIAN": 50,
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO": 90,
+    "CAVADA CAVADA, ADRIAN": 57,
+    "LIEBANA GUTIERREZ, ADRIAN": 90,
+    "LAMADRID RIVAS, HUGO": 40,
+    "JIMENEZ AGUEROS, NICOLAS": 40,
+    "CAMILLERI OCEJA, GIOVANNI": 40,
+    "GARCIA GONZALEZ, PABLO": 33
+  },
+  "portero_local": "NUÑEZ MORENO, MARCOS",
+  "portero_visitante": "HARO FERNANDEZ, HUGO",
+  "dorsales_local": {
+    "NUÑEZ MORENO, MARCOS": 13,
+    "DURÁN GÓMEZ, MARCOS": 3,
+    "ZHEKOV, ATANASIO ATANASOV": 4,
+    "GONZALEZ GONZALEZ, DANIEL": 5,
+    "SANCHEZ CHAPARRO BENGOECHEA, ADRIAN": 6,
+    "LOPEZ ALCALDE, IZAN": 7,
+    "ESCALANTE BUENO, OIER": 9,
+    "SANCHEZ SALAS, SERGIO": 11,
+    "MALLAVIA PEREZ, ASIER": 12,
+    "DIAZ NAVEA, MARIO": 14,
+    "ROCES RONDO, CRUZ": 17
+  },
+  "dorsales_visitante": {
+    "HARO FERNANDEZ, HUGO": 13,
+    "GONZALEZ OSORIO, DANIEL": 2,
+    "HERRERA MACIA, NICOLAS": 4,
+    "MARTINEZ RUIZ, LUCAS": 5,
+    "SARACHAGA GAÑAN, IKER": 6,
+    "GUTIERREZ ECHEVARRIA, DARIO": 7,
+    "TORRE CAGIGAS, NICOLAS": 9,
+    "AVENDAÑO SILIO, ADRIAN": 12,
+    "NUÑEZ CORDOVA, WLADIMIR ANTONIO": 14,
+    "CAVADA CAVADA, ADRIAN": 17,
+    "LIEBANA GUTIERREZ, ADRIAN": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
