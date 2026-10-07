@@ -1,0 +1,240 @@
+{
+  "acta_id": "C_193208",
+  "filename": "Acta_C_193208.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 20,
+  "fecha": "01-02-2025",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. RAMALES",
+  "equipo_visitante": "A.D. SAN AGUSTIN A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "IBÁÑEZ CAMPO, PABLO"
+  ],
+  "estadio": "Cubillas - Ramales",
+  "ciudad": "Ramales De La Victoria",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "LLAMA GOMEZ, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "ROZAS BENITO, GONZALO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 74,
+      "jugador": "GONZALEZ MEDINA, JOSE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "GALAZ GOMEZ, GUILLERMO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 3,
+      "jugador": "CASTILLO ESPINOSA, MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JOVER FERNANDEZ, IÑIGO",
+  "entrenador_visitante": "GRIFFITHS SANCHEZ, SAMUEL ERNESTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTINEZ FRESNEDO, ENRIQUE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ FRESNEDO, ENRIQUE",
+  "delegado_equipo_visitante": "NIETO LEAL, JAVIER",
+  "titulares_local": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "MAZA FERNANDEZ, IÑIGO",
+    "LLAMA GOMEZ, MARIO",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "DEL MORAL ALONSO, RODRIGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "CARRERA SANCHEZ, MARCOS",
+    "SIERRA GONZALEZ, KEVIN",
+    "IBAÑEZ AHEDO, EGOITZ"
+  ],
+  "titulares_visitante": [
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+    "SEBRANGO ABAD, RODRIGO",
+    "CASTILLO ESPINOSA, MIGUEL",
+    "FRANCO GARCIA - MONCO, DAVID",
+    "ROZAS BENITO, GONZALO",
+    "QUIJANO GARCIA, JAIME",
+    "BALBAS GONZALEZ, MIGUEL",
+    "GONZALEZ MEDINA, JOSE",
+    "GARCIA LUNA, ALEJO",
+    "LAINZ MORAN, JACOBO",
+    "CASCALES TORRE, DAVID"
+  ],
+  "suplentes_local": [
+    "GOMEZ RANERO, ANDER",
+    "LOPEZ SAEZ, ANDER",
+    "HOLGADO RODRIGUEZ, IKER",
+    "MAZA NOVOA, MARIO"
+  ],
+  "suplentes_visitante": [
+    "SAINZ OQUINENA, EZEQUIEL",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "PUENTE RUIZ, RICARDO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FURIOL SALCEDO, RUBÉN",
+    "TREVILLA VELA, RAMON",
+    "MAZA FERNANDEZ, IÑIGO",
+    "LLAMA GOMEZ, MARIO",
+    "DE LAS HERAS VARONA, ASIER",
+    "LOPEZ GONZALEZ, HUGO",
+    "DEL MORAL ALONSO, RODRIGO",
+    "GALAZ GOMEZ, GUILLERMO",
+    "CARRERA SANCHEZ, MARCOS",
+    "SIERRA GONZALEZ, KEVIN",
+    "IBAÑEZ AHEDO, EGOITZ",
+    "GOMEZ RANERO, ANDER",
+    "MAZA NOVOA, MARIO",
+    "HOLGADO RODRIGUEZ, IKER",
+    "LOPEZ SAEZ, ANDER"
+  ],
+  "jugadores_visitante": [
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+    "SEBRANGO ABAD, RODRIGO",
+    "CASTILLO ESPINOSA, MIGUEL",
+    "FRANCO GARCIA - MONCO, DAVID",
+    "ROZAS BENITO, GONZALO",
+    "QUIJANO GARCIA, JAIME",
+    "BALBAS GONZALEZ, MIGUEL",
+    "GONZALEZ MEDINA, JOSE",
+    "GARCIA LUNA, ALEJO",
+    "LAINZ MORAN, JACOBO",
+    "CASCALES TORRE, DAVID",
+    "PUENTE RUIZ, RICARDO",
+    "GALLO JUANCO, JAVIER ARTURO",
+    "SAINZ OQUINENA, EZEQUIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "GOMEZ RANERO, ANDER",
+      "sale": "CARRERA SANCHEZ, MARCOS"
+    },
+    {
+      "min": 59,
+      "entra": "MAZA NOVOA, MARIO",
+      "sale": "GALAZ GOMEZ, GUILLERMO"
+    },
+    {
+      "min": 65,
+      "entra": "HOLGADO RODRIGUEZ, IKER",
+      "sale": "DEL MORAL ALONSO, RODRIGO"
+    },
+    {
+      "min": 72,
+      "entra": "LOPEZ SAEZ, ANDER",
+      "sale": "SIERRA GONZALEZ, KEVIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 49,
+      "entra": "PUENTE RUIZ, RICARDO",
+      "sale": "ROZAS BENITO, GONZALO"
+    },
+    {
+      "min": 52,
+      "entra": "GALLO JUANCO, JAVIER ARTURO",
+      "sale": "CASCALES TORRE, DAVID"
+    },
+    {
+      "min": 52,
+      "entra": "SAINZ OQUINENA, EZEQUIEL",
+      "sale": "BALBAS GONZALEZ, MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "FURIOL SALCEDO, RUBÉN": 90,
+    "TREVILLA VELA, RAMON": 90,
+    "MAZA FERNANDEZ, IÑIGO": 90,
+    "LLAMA GOMEZ, MARIO": 90,
+    "DE LAS HERAS VARONA, ASIER": 90,
+    "LOPEZ GONZALEZ, HUGO": 90,
+    "DEL MORAL ALONSO, RODRIGO": 65,
+    "GALAZ GOMEZ, GUILLERMO": 59,
+    "CARRERA SANCHEZ, MARCOS": 49,
+    "SIERRA GONZALEZ, KEVIN": 72,
+    "IBAÑEZ AHEDO, EGOITZ": 90,
+    "GOMEZ RANERO, ANDER": 41,
+    "MAZA NOVOA, MARIO": 31,
+    "HOLGADO RODRIGUEZ, IKER": 25,
+    "LOPEZ SAEZ, ANDER": 18,
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME": 90,
+    "SEBRANGO ABAD, RODRIGO": 90,
+    "CASTILLO ESPINOSA, MIGUEL": 90,
+    "FRANCO GARCIA - MONCO, DAVID": 90,
+    "ROZAS BENITO, GONZALO": 49,
+    "QUIJANO GARCIA, JAIME": 90,
+    "BALBAS GONZALEZ, MIGUEL": 52,
+    "GONZALEZ MEDINA, JOSE": 90,
+    "GARCIA LUNA, ALEJO": 90,
+    "LAINZ MORAN, JACOBO": 90,
+    "CASCALES TORRE, DAVID": 52,
+    "PUENTE RUIZ, RICARDO": 41,
+    "GALLO JUANCO, JAVIER ARTURO": 38,
+    "SAINZ OQUINENA, EZEQUIEL": 38
+  },
+  "portero_local": "FURIOL SALCEDO, RUBÉN",
+  "portero_visitante": "FERNANDEZ-CUETO RODRIGUEZ, JAIME",
+  "dorsales_local": {
+    "FURIOL SALCEDO, RUBÉN": 1,
+    "TREVILLA VELA, RAMON": 2,
+    "MAZA FERNANDEZ, IÑIGO": 4,
+    "LLAMA GOMEZ, MARIO": 5,
+    "DE LAS HERAS VARONA, ASIER": 7,
+    "LOPEZ GONZALEZ, HUGO": 8,
+    "DEL MORAL ALONSO, RODRIGO": 9,
+    "GALAZ GOMEZ, GUILLERMO": 10,
+    "CARRERA SANCHEZ, MARCOS": 16,
+    "SIERRA GONZALEZ, KEVIN": 17,
+    "IBAÑEZ AHEDO, EGOITZ": 18
+  },
+  "dorsales_visitante": {
+    "FERNANDEZ-CUETO RODRIGUEZ, JAIME": 25,
+    "SEBRANGO ABAD, RODRIGO": 2,
+    "CASTILLO ESPINOSA, MIGUEL": 3,
+    "FRANCO GARCIA - MONCO, DAVID": 4,
+    "ROZAS BENITO, GONZALO": 7,
+    "QUIJANO GARCIA, JAIME": 10,
+    "BALBAS GONZALEZ, MIGUEL": 11,
+    "GONZALEZ MEDINA, JOSE": 16,
+    "GARCIA LUNA, ALEJO": 19,
+    "LAINZ MORAN, JACOBO": 22,
+    "CASCALES TORRE, DAVID": 37
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
