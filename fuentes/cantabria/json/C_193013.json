@@ -1,0 +1,232 @@
+{
+  "acta_id": "C_193013",
+  "filename": "Acta_C_193013.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 33,
+  "fecha": "18-05-2025",
+  "hora": "11:45",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE A",
+  "equipo_visitante": "C.D. MARINA SPORT A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PEÑA GONZÁLEZ, ALFREDO"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 79,
+      "jugador": "GARCIA GARCIA, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "Gaviria Cataño, JUAN DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "DIAZ NAVEA, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 26,
+      "jugador": "CAVIA ROIG, GERARDO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "PALAZUELOS TRUEBA, JORGE",
+  "entrenador_visitante": "CAVIA ROIG, GERARDO",
+  "segundo_entrenador_local": "GONZALEZ ARENAL, PEDRO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "VEGA GUTIERREZ, JUAN",
+  "titulares_local": [
+    "LASO MARTINEZ, ADRIAN",
+    "CALVO MORTE, SAMUEL",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "RODEÑO DIAZ, GABRIEL",
+    "Gaviria Cataño, JUAN DIEGO",
+    "BARRIO OBREGON, IZAN",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "GOMEZ BOLADO, MIGUEL",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "titulares_visitante": [
+    "SAUQUILLO ALONSO, MARCO",
+    "agudo cuenca, DIEGO",
+    "DE ANGEL BATYREV, LUCAS",
+    "GARCIA AGUADO, DANIEL",
+    "GONZALEZ CAMUS, MARCO",
+    "Flor Martinez, IAGO",
+    "ASON BALAGUER, MARIO",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "GARCIA GARCIA, MARCOS",
+    "RUBIN MUÑOZ, MICHEL",
+    "FUENTES PALLEJA, ERIK"
+  ],
+  "suplentes_local": [
+    "BERNARDO MIRAVALLES, IZAN",
+    "ECHAVES CASO, EDER",
+    "DIAZ NAVEA, MARIO"
+  ],
+  "suplentes_visitante": [
+    "COLLANTES GOMEZ, HUGO",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "GARCIA GOMEZ, DANIEL",
+    "RUIZ SAIZ, MARIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LASO MARTINEZ, ADRIAN",
+    "CALVO MORTE, SAMUEL",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "RODEÑO DIAZ, GABRIEL",
+    "Gaviria Cataño, JUAN DIEGO",
+    "BARRIO OBREGON, IZAN",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "GOMEZ BOLADO, MIGUEL",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN",
+    "BERNARDO MIRAVALLES, IZAN",
+    "ECHAVES CASO, EDER",
+    "DIAZ NAVEA, MARIO"
+  ],
+  "jugadores_visitante": [
+    "SAUQUILLO ALONSO, MARCO",
+    "agudo cuenca, DIEGO",
+    "DE ANGEL BATYREV, LUCAS",
+    "GARCIA AGUADO, DANIEL",
+    "GONZALEZ CAMUS, MARCO",
+    "Flor Martinez, IAGO",
+    "ASON BALAGUER, MARIO",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "GARCIA GARCIA, MARCOS",
+    "RUBIN MUÑOZ, MICHEL",
+    "FUENTES PALLEJA, ERIK",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "COLLANTES GOMEZ, HUGO",
+    "GARCIA GOMEZ, DANIEL",
+    "RUIZ SAIZ, MARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "BERNARDO MIRAVALLES, IZAN",
+      "sale": "LASO MARTINEZ, ADRIAN"
+    },
+    {
+      "min": 58,
+      "entra": "ECHAVES CASO, EDER",
+      "sale": "COBO MARTINEZ, KELLYAN"
+    },
+    {
+      "min": 58,
+      "entra": "DIAZ NAVEA, MARIO",
+      "sale": "GOMEZ BOLADO, MIGUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "PORTILLA CAMUS, ALEJANDRO",
+      "sale": "RUBIN MUÑOZ, MICHEL"
+    },
+    {
+      "min": 51,
+      "entra": "COLLANTES GOMEZ, HUGO",
+      "sale": "ASON BALAGUER, MARIO"
+    },
+    {
+      "min": 62,
+      "entra": "GARCIA GOMEZ, DANIEL",
+      "sale": "FUENTES PALLEJA, ERIK"
+    },
+    {
+      "min": 62,
+      "entra": "RUIZ SAIZ, MARIO",
+      "sale": "Flor Martinez, IAGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "LASO MARTINEZ, ADRIAN": 40,
+    "CALVO MORTE, SAMUEL": 90,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 90,
+    "RODEÑO DIAZ, GABRIEL": 90,
+    "Gaviria Cataño, JUAN DIEGO": 90,
+    "BARRIO OBREGON, IZAN": 90,
+    "CUADRADO PEREZ RUBIN, MATEO": 90,
+    "GOMEZ BOLADO, MIGUEL": 58,
+    "MOURA REVUELTA, ROMEO": 90,
+    "COBO MARTINEZ, KELLYAN": 58,
+    "BERNARDO MIRAVALLES, IZAN": 50,
+    "ECHAVES CASO, EDER": 32,
+    "DIAZ NAVEA, MARIO": 32,
+    "SAUQUILLO ALONSO, MARCO": 90,
+    "agudo cuenca, DIEGO": 90,
+    "DE ANGEL BATYREV, LUCAS": 90,
+    "GARCIA AGUADO, DANIEL": 90,
+    "GONZALEZ CAMUS, MARCO": 90,
+    "Flor Martinez, IAGO": 62,
+    "ASON BALAGUER, MARIO": 51,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 90,
+    "GARCIA GARCIA, MARCOS": 90,
+    "RUBIN MUÑOZ, MICHEL": 51,
+    "FUENTES PALLEJA, ERIK": 62,
+    "PORTILLA CAMUS, ALEJANDRO": 39,
+    "COLLANTES GOMEZ, HUGO": 39,
+    "GARCIA GOMEZ, DANIEL": 28,
+    "RUIZ SAIZ, MARIO": 28
+  },
+  "portero_local": "LASO MARTINEZ, ADRIAN",
+  "portero_visitante": "SAUQUILLO ALONSO, MARCO",
+  "dorsales_local": {
+    "LASO MARTINEZ, ADRIAN": 1,
+    "CALVO MORTE, SAMUEL": 2,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "RODEÑO DIAZ, GABRIEL": 8,
+    "Gaviria Cataño, JUAN DIEGO": 9,
+    "BARRIO OBREGON, IZAN": 10,
+    "CUADRADO PEREZ RUBIN, MATEO": 11,
+    "GOMEZ BOLADO, MIGUEL": 12,
+    "MOURA REVUELTA, ROMEO": 20,
+    "COBO MARTINEZ, KELLYAN": 22
+  },
+  "dorsales_visitante": {
+    "SAUQUILLO ALONSO, MARCO": 13,
+    "agudo cuenca, DIEGO": 4,
+    "DE ANGEL BATYREV, LUCAS": 5,
+    "GARCIA AGUADO, DANIEL": 7,
+    "GONZALEZ CAMUS, MARCO": 8,
+    "Flor Martinez, IAGO": 10,
+    "ASON BALAGUER, MARIO": 11,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 12,
+    "GARCIA GARCIA, MARCOS": 15,
+    "RUBIN MUÑOZ, MICHEL": 17,
+    "FUENTES PALLEJA, ERIK": 18
+  },
+  "suspendidos": []
+}
