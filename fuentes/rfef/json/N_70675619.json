@@ -1,0 +1,276 @@
+{
+  "acta_id": "N_70675619",
+  "filename": "Acta_N_70675619.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 34,
+  "fecha": "03-05-2026",
+  "hora": "12:00",
+  "categoria": "Division de Honor Juvenil (Grupo 4)",
+  "equipo_local": "SEVILLA F.C.",
+  "equipo_visitante": "CD MOSQUITO",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO",
+    "TORRANO LOPEZ, ALEJANDRO",
+    "ÁRBITRO ASISTENTE",
+    "SOUSA CRESPO, PABLO",
+    "ÁRBITRO ASISTENTE",
+    "PORRAS GALLEGOS, JOSE"
+  ],
+  "estadio": "Ciudad Deportiva José Ramón Cisneros",
+  "ciudad": "Sevilla",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "PEREZ MONREAL, ADRIAN FRANCISCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "BLIDI MORENO, NAIM",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 16,
+      "jugador": "ORTIZ RODRIGUEZ, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "LUQUE RIVERA, ANGEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "DER JACHADURIAN, BENJAMIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "MACIAS GARCIA, CRISTOBAL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "RODRIGUEZ CORTES, JAIME",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "SERRANO EXPOSITO, FRANCISCO J",
+  "titulares_local": [
+    "BRUNO TORRES, GABRIEL",
+    "GONZALEZ CANO, ALFONSO",
+    "MENDEZ LOPEZ, TOMAS",
+    "CRUZ MORALES, JESUS",
+    "ORTIZ RODRIGUEZ, HUGO",
+    "PIÑERO QUIROS, FRANCISCO JOSE",
+    "BLIDI MORENO, NAIM",
+    "PEREZ MONREAL, ADRIAN FRANCISCO",
+    "CABALLERO CARRETERO, AITOR",
+    "BERNAL HERMOSO, PABLO",
+    "DÍAZ LLEDÓ, MARIO"
+  ],
+  "titulares_visitante": [
+    "RICO BORREGO, JOSE",
+    "CABALLERO CABRERA, AITOR",
+    "GALVARRO BRENES, JUAN",
+    "LOPEZ DOMINGUEZ, FELIPE",
+    "GARCIA GONZALEZ, JAIME",
+    "NAVARRO BORGES, IKER",
+    "CALERO TRIGO, PEDRO",
+    "VEGA SÁNCHEZ, IVÁN",
+    "LÓPEZ DEL CAMPO, LUCAS",
+    "SANCHEZ CANO, LUIS",
+    "KANE, RACINE"
+  ],
+  "suplentes_local": [
+    "VARGAS CRUZADO, CARLOS",
+    "GIL GARCIA, DANIEL",
+    "LUQUE RIVERA, ANGEL",
+    "PEREZ LOPEZ, JUAN MANUEL",
+    "DOS SANTOS MONCADA, CARLOS ROBERTO",
+    "BOUZADA MIÑAN, PEDRO",
+    "BUTRIKS, ARTJOMS"
+  ],
+  "suplentes_visitante": [
+    "ARNAIZ MAQUEDA, ROBERTO",
+    "REDONDO BARRERA, CARLOS",
+    "TIRADO FERNANDEZ, MIGUEL ANGEL",
+    "EN NEJMAOUI TAGI, IMAD",
+    "LACROIX, LOE MATTEO",
+    "DER JACHADURIAN, BENJAMIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "VARGAS CRUZADO, CARLOS",
+    "GIL GARCIA, DANIEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ARNAIZ MAQUEDA, ROBERTO"
+  ],
+  "jugadores_local": [
+    "BRUNO TORRES, GABRIEL",
+    "GONZALEZ CANO, ALFONSO",
+    "MENDEZ LOPEZ, TOMAS",
+    "CRUZ MORALES, JESUS",
+    "ORTIZ RODRIGUEZ, HUGO",
+    "PIÑERO QUIROS, FRANCISCO JOSE",
+    "BLIDI MORENO, NAIM",
+    "PEREZ MONREAL, ADRIAN FRANCISCO",
+    "CABALLERO CARRETERO, AITOR",
+    "BERNAL HERMOSO, PABLO",
+    "DÍAZ LLEDÓ, MARIO",
+    "PEREZ LOPEZ, JUAN MANUEL",
+    "DOS SANTOS MONCADA, CARLOS ROBERTO",
+    "LUQUE RIVERA, ANGEL",
+    "BUTRIKS, ARTJOMS",
+    "BOUZADA MIÑAN, PEDRO"
+  ],
+  "jugadores_visitante": [
+    "RICO BORREGO, JOSE",
+    "CABALLERO CABRERA, AITOR",
+    "GALVARRO BRENES, JUAN",
+    "LOPEZ DOMINGUEZ, FELIPE",
+    "GARCIA GONZALEZ, JAIME",
+    "NAVARRO BORGES, IKER",
+    "CALERO TRIGO, PEDRO",
+    "VEGA SÁNCHEZ, IVÁN",
+    "LÓPEZ DEL CAMPO, LUCAS",
+    "SANCHEZ CANO, LUIS",
+    "KANE, RACINE",
+    "LACROIX, LOE MATTEO",
+    "EN NEJMAOUI TAGI, IMAD",
+    "DER JACHADURIAN, BENJAMIN",
+    "TIRADO FERNANDEZ, MIGUEL ANGEL",
+    "REDONDO BARRERA, CARLOS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "PEREZ LOPEZ, JUAN MANUEL",
+      "sale": "PIÑERO QUIROS, FRANCISCO JOSE"
+    },
+    {
+      "min": 45,
+      "entra": "DOS SANTOS MONCADA, CARLOS ROBERTO",
+      "sale": "ORTIZ RODRIGUEZ, HUGO"
+    },
+    {
+      "min": 57,
+      "entra": "LUQUE RIVERA, ANGEL",
+      "sale": "GONZALEZ CANO, ALFONSO"
+    },
+    {
+      "min": 63,
+      "entra": "BUTRIKS, ARTJOMS",
+      "sale": "DÍAZ LLEDÓ, MARIO"
+    },
+    {
+      "min": 63,
+      "entra": "BOUZADA MIÑAN, PEDRO",
+      "sale": "BLIDI MORENO, NAIM"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "LACROIX, LOE MATTEO",
+      "sale": "GARCIA GONZALEZ, JAIME"
+    },
+    {
+      "min": 60,
+      "entra": "EN NEJMAOUI TAGI, IMAD",
+      "sale": "LÓPEZ DEL CAMPO, LUCAS"
+    },
+    {
+      "min": 60,
+      "entra": "DER JACHADURIAN, BENJAMIN",
+      "sale": "SANCHEZ CANO, LUIS"
+    },
+    {
+      "min": 60,
+      "entra": "TIRADO FERNANDEZ, MIGUEL ANGEL",
+      "sale": "GALVARRO BRENES, JUAN"
+    },
+    {
+      "min": 81,
+      "entra": "REDONDO BARRERA, CARLOS",
+      "sale": "CALERO TRIGO, PEDRO"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRUNO TORRES, GABRIEL": 90,
+    "GONZALEZ CANO, ALFONSO": 57,
+    "MENDEZ LOPEZ, TOMAS": 90,
+    "CRUZ MORALES, JESUS": 90,
+    "ORTIZ RODRIGUEZ, HUGO": 45,
+    "PIÑERO QUIROS, FRANCISCO JOSE": 45,
+    "BLIDI MORENO, NAIM": 63,
+    "PEREZ MONREAL, ADRIAN FRANCISCO": 90,
+    "CABALLERO CARRETERO, AITOR": 90,
+    "BERNAL HERMOSO, PABLO": 90,
+    "DÍAZ LLEDÓ, MARIO": 63,
+    "RICO BORREGO, JOSE": 90,
+    "CABALLERO CABRERA, AITOR": 90,
+    "GALVARRO BRENES, JUAN": 60,
+    "LOPEZ DOMINGUEZ, FELIPE": 90,
+    "GARCIA GONZALEZ, JAIME": 45,
+    "NAVARRO BORGES, IKER": 90,
+    "CALERO TRIGO, PEDRO": 81,
+    "VEGA SÁNCHEZ, IVÁN": 90,
+    "LÓPEZ DEL CAMPO, LUCAS": 60,
+    "SANCHEZ CANO, LUIS": 60,
+    "KANE, RACINE": 90,
+    "PEREZ LOPEZ, JUAN MANUEL": 45,
+    "DOS SANTOS MONCADA, CARLOS ROBERTO": 45,
+    "LUQUE RIVERA, ANGEL": 33,
+    "BUTRIKS, ARTJOMS": 27,
+    "BOUZADA MIÑAN, PEDRO": 27,
+    "LACROIX, LOE MATTEO": 45,
+    "EN NEJMAOUI TAGI, IMAD": 30,
+    "DER JACHADURIAN, BENJAMIN": 30,
+    "TIRADO FERNANDEZ, MIGUEL ANGEL": 30,
+    "REDONDO BARRERA, CARLOS": 9
+  },
+  "portero_local": "BRUNO TORRES, GABRIEL",
+  "portero_visitante": "RICO BORREGO, JOSE",
+  "dorsales_local": {
+    "BRUNO TORRES, GABRIEL": 13,
+    "GONZALEZ CANO, ALFONSO": 2,
+    "MENDEZ LOPEZ, TOMAS": 5,
+    "CRUZ MORALES, JESUS": 6,
+    "ORTIZ RODRIGUEZ, HUGO": 8,
+    "PIÑERO QUIROS, FRANCISCO JOSE": 9,
+    "BLIDI MORENO, NAIM": 10,
+    "PEREZ MONREAL, ADRIAN FRANCISCO": 16,
+    "CABALLERO CARRETERO, AITOR": 20,
+    "BERNAL HERMOSO, PABLO": 21,
+    "DÍAZ LLEDÓ, MARIO": 24
+  },
+  "dorsales_visitante": {
+    "RICO BORREGO, JOSE": 1,
+    "CABALLERO CABRERA, AITOR": 2,
+    "GALVARRO BRENES, JUAN": 3,
+    "LOPEZ DOMINGUEZ, FELIPE": 4,
+    "GARCIA GONZALEZ, JAIME": 5,
+    "NAVARRO BORGES, IKER": 6,
+    "CALERO TRIGO, PEDRO": 7,
+    "VEGA SÁNCHEZ, IVÁN": 8,
+    "LÓPEZ DEL CAMPO, LUCAS": 9,
+    "SANCHEZ CANO, LUIS": 10,
+    "KANE, RACINE": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
