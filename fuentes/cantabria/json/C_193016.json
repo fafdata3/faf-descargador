@@ -1,0 +1,289 @@
+{
+  "acta_id": "C_193016",
+  "filename": "Acta_C_193016.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 33,
+  "fecha": "17-05-2025",
+  "hora": "11:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "E.M. FUTBOL SANTANDER A",
+  "equipo_visitante": "C.D.E. ATCO. MINEROS A",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "IBÁÑEZ PRIETO, RAÚL"
+  ],
+  "estadio": "Comp. Albericia (B)",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "GUTIERREZ REDONDO, MARTIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "GUTIERREZ REDONDO, MARTIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "SAN MIGUEL PÉREZ, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "SOLARES PICAZO, LUCAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "FERNANDEZ DE DIEGO, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 53,
+      "jugador": "MANTECÓN HERMANA, ADRIÁN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "LEON RODRIGUEZ, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 33,
+      "jugador": "GOMEZ PEÑA, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "SOLARES PICAZO, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "LASA SIERRA, HECTOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "ORTEGA DEL RIO, AITOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "COSTALES ALVAREZ, RICARDO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "DIAZ SANCHEZ, PABLO",
+  "titulares_local": [
+    "LAUCELLI DÍAZ, CÉSAR",
+    "LEON RODRIGUEZ, PABLO",
+    "MANTECÓN HERMANA, ADRIÁN",
+    "BEDIA PEÑA, DANIEL",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "SAN MIGUEL PÉREZ, DIEGO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "RONCAL SAIZ, MATEO",
+    "COBO PEREZ, JAVIER",
+    "FUENTE BARRERA, JUAN",
+    "SANTIBAÑEZ GARCIA, HECTOR"
+  ],
+  "titulares_visitante": [
+    "SAEZ PISANO, ADRIAN",
+    "ORTEGA DEL RIO, AITOR",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "STAN, NICOLAE CRISTIAN",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "GUTIERREZ GOMEZ, HECTOR",
+    "CALDERON GOMEZ, BORJA"
+  ],
+  "suplentes_local": [
+    "LEDESMA ESUN, GONZALO",
+    "CRESPO CIMIANO, RODRIGO",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "LAVIN VELARDE, MARCOS",
+    "CAMPELO MARTINEZ, PABLO"
+  ],
+  "suplentes_visitante": [
+    "LASA SIERRA, HECTOR",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "GONZALEZ CABARGA, ALFONSO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LAUCELLI DÍAZ, CÉSAR",
+    "LEON RODRIGUEZ, PABLO",
+    "MANTECÓN HERMANA, ADRIÁN",
+    "BEDIA PEÑA, DANIEL",
+    "DOMINGUEZ RUIZ, SAMUEL",
+    "SAN MIGUEL PÉREZ, DIEGO",
+    "MARTINEZ IBAÑEZ, LUCAS",
+    "RONCAL SAIZ, MATEO",
+    "COBO PEREZ, JAVIER",
+    "FUENTE BARRERA, JUAN",
+    "SANTIBAÑEZ GARCIA, HECTOR",
+    "LEDESMA ESUN, GONZALO",
+    "FERNANDEZ DE DIEGO, ALVARO",
+    "CAMPELO MARTINEZ, PABLO",
+    "CRESPO CIMIANO, RODRIGO",
+    "LAVIN VELARDE, MARCOS"
+  ],
+  "jugadores_visitante": [
+    "SAEZ PISANO, ADRIAN",
+    "ORTEGA DEL RIO, AITOR",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "STAN, NICOLAE CRISTIAN",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "GUTIERREZ GOMEZ, HECTOR",
+    "CALDERON GOMEZ, BORJA",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "LASA SIERRA, HECTOR",
+    "GONZALEZ CABARGA, ALFONSO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "LEDESMA ESUN, GONZALO",
+      "sale": "LAUCELLI DÍAZ, CÉSAR"
+    },
+    {
+      "min": 48,
+      "entra": "FERNANDEZ DE DIEGO, ALVARO",
+      "sale": "SANTIBAÑEZ GARCIA, HECTOR"
+    },
+    {
+      "min": 48,
+      "entra": "CAMPELO MARTINEZ, PABLO",
+      "sale": "MARTINEZ IBAÑEZ, LUCAS"
+    },
+    {
+      "min": 51,
+      "entra": "CRESPO CIMIANO, RODRIGO",
+      "sale": "RONCAL SAIZ, MATEO"
+    },
+    {
+      "min": 54,
+      "entra": "LAVIN VELARDE, MARCOS",
+      "sale": "COBO PEREZ, JAVIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "PEREZ GUTIERREZ, JOSE MANUEL",
+      "sale": "solar rabadan, DANIEL"
+    },
+    {
+      "min": 63,
+      "entra": "LASA SIERRA, HECTOR",
+      "sale": "GOMEZ PEÑA, LUCAS"
+    },
+    {
+      "min": 78,
+      "entra": "GONZALEZ CABARGA, ALFONSO",
+      "sale": "GUTIERREZ REDONDO, MARTIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "LAUCELLI DÍAZ, CÉSAR": 40,
+    "LEON RODRIGUEZ, PABLO": 90,
+    "MANTECÓN HERMANA, ADRIÁN": 90,
+    "BEDIA PEÑA, DANIEL": 90,
+    "DOMINGUEZ RUIZ, SAMUEL": 90,
+    "SAN MIGUEL PÉREZ, DIEGO": 90,
+    "MARTINEZ IBAÑEZ, LUCAS": 48,
+    "RONCAL SAIZ, MATEO": 51,
+    "COBO PEREZ, JAVIER": 54,
+    "FUENTE BARRERA, JUAN": 90,
+    "SANTIBAÑEZ GARCIA, HECTOR": 48,
+    "LEDESMA ESUN, GONZALO": 50,
+    "FERNANDEZ DE DIEGO, ALVARO": 42,
+    "CAMPELO MARTINEZ, PABLO": 42,
+    "CRESPO CIMIANO, RODRIGO": 39,
+    "LAVIN VELARDE, MARCOS": 36,
+    "SAEZ PISANO, ADRIAN": 90,
+    "ORTEGA DEL RIO, AITOR": 90,
+    "GUTIERREZ REDONDO, MARTIN": 78,
+    "solar rabadan, DANIEL": 59,
+    "SAINZ CALDERON, JOSE MIGUEL": 90,
+    "SOLARES PICAZO, LUCAS": 90,
+    "GOMEZ PEÑA, LUCAS": 63,
+    "STAN, NICOLAE CRISTIAN": 90,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 90,
+    "GUTIERREZ GOMEZ, HECTOR": 90,
+    "CALDERON GOMEZ, BORJA": 90,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 31,
+    "LASA SIERRA, HECTOR": 27,
+    "GONZALEZ CABARGA, ALFONSO": 12
+  },
+  "portero_local": "LAUCELLI DÍAZ, CÉSAR",
+  "portero_visitante": "SAEZ PISANO, ADRIAN",
+  "dorsales_local": {
+    "LAUCELLI DÍAZ, CÉSAR": 13,
+    "LEON RODRIGUEZ, PABLO": 2,
+    "MANTECÓN HERMANA, ADRIÁN": 3,
+    "BEDIA PEÑA, DANIEL": 5,
+    "DOMINGUEZ RUIZ, SAMUEL": 6,
+    "SAN MIGUEL PÉREZ, DIEGO": 7,
+    "MARTINEZ IBAÑEZ, LUCAS": 9,
+    "RONCAL SAIZ, MATEO": 12,
+    "COBO PEREZ, JAVIER": 14,
+    "FUENTE BARRERA, JUAN": 16,
+    "SANTIBAÑEZ GARCIA, HECTOR": 19
+  },
+  "dorsales_visitante": {
+    "SAEZ PISANO, ADRIAN": 1,
+    "ORTEGA DEL RIO, AITOR": 4,
+    "GUTIERREZ REDONDO, MARTIN": 7,
+    "solar rabadan, DANIEL": 8,
+    "SAINZ CALDERON, JOSE MIGUEL": 10,
+    "SOLARES PICAZO, LUCAS": 11,
+    "GOMEZ PEÑA, LUCAS": 12,
+    "STAN, NICOLAE CRISTIAN": 15,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 19,
+    "GUTIERREZ GOMEZ, HECTOR": 20,
+    "CALDERON GOMEZ, BORJA": 22
+  },
+  "suspendidos": []
+}
