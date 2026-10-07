@@ -27,43 +27,50 @@
       "minuto": 4,
       "jugador": "MORENO BAZAN, MARTINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 11,
       "jugador": "GARCIA TERUEL, ALBA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 12,
       "jugador": "ESTEBAN GARCIA-FILOSO, PAULA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 13,
       "jugador": "GARCIA TERUEL, ALBA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "GARCIA TERUEL, ALBA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 23,
       "jugador": "ESTEBAN GARCIA-FILOSO, PAULA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "MORENO BAZAN, MARTINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -250,5 +257,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
