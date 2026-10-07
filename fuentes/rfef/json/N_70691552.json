@@ -27,31 +27,36 @@
       "minuto": 18,
       "jugador": "BOUMEDIAN RAMIREZ, KARIM",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "BUENDIA MORENO, EMILIO JOSE",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "ALCALA PANCORBO, PEDRO JOSE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "ALBA DELGADO, JORGE",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "BUENDIA MORENO, EMILIO JOSE",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -124,7 +129,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": null,
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "MAÑAS SONEIRA, JAVIER",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "ROSA PRADO, MANUEL",
   "titulares_local": [
