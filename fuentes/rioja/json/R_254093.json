@@ -23,61 +23,71 @@
       "minuto": 1,
       "jugador": "DE CORTA MARTINEZ, SARA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 2,
       "jugador": "DEL CAMPO GAMARRA, DANIELLA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 9,
       "jugador": "PEÑA ITURRIOZ, SOFIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 49,
       "jugador": "DE CORTA MARTINEZ, SARA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 51,
       "jugador": "DE CORTA MARTINEZ, SARA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 64,
       "jugador": "RUIZ RINCON, CLAUDIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 66,
       "jugador": "DE CORTA MARTINEZ, SARA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 71,
       "jugador": "LOPEZ GARCIA, NOA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 73,
       "jugador": "PINILLOS RUIZ, PAULA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 78,
       "jugador": "PINILLOS RUIZ, PAULA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -108,7 +118,7 @@
     "PEREZ H GUTIERREZ R, AMELIA",
     "PEÑA ITURRIOZ, SOFIA",
     "DEL CAMPO GAMARRA, DANIELLA",
-    "PINILLOS MARIN, LUCIA",
+    "LUCIA",
     "MARINA ZANGRONIZ, JIMENA",
     "JIMENEZ SANCHEZ, DIANA",
     "RUIZ RINCON, CLAUDIA",
@@ -162,7 +172,7 @@
     "PEREZ H GUTIERREZ R, AMELIA",
     "PEÑA ITURRIOZ, SOFIA",
     "DEL CAMPO GAMARRA, DANIELLA",
-    "PINILLOS MARIN, LUCIA",
+    "LUCIA",
     "MARINA ZANGRONIZ, JIMENA",
     "JIMENEZ SANCHEZ, DIANA",
     "RUIZ RINCON, CLAUDIA",
@@ -237,7 +247,7 @@
     {
       "min": 60,
       "entra": "EL JABOURI LAMKADEM, WIAM",
-      "sale": "PINILLOS MARIN, LUCIA"
+      "sale": "LUCIA"
     },
     {
       "min": 60,
@@ -268,7 +278,7 @@
     "PEREZ H GUTIERREZ R, AMELIA": 39,
     "PEÑA ITURRIOZ, SOFIA": 39,
     "DEL CAMPO GAMARRA, DANIELLA": 90,
-    "PINILLOS MARIN, LUCIA": 60,
+    "LUCIA": 60,
     "MARINA ZANGRONIZ, JIMENA": 48,
     "JIMENEZ SANCHEZ, DIANA": 48,
     "RUIZ RINCON, CLAUDIA": 90,
@@ -303,12 +313,13 @@
     "PEREZ H GUTIERREZ R, AMELIA": 4,
     "PEÑA ITURRIOZ, SOFIA": 5,
     "DEL CAMPO GAMARRA, DANIELLA": 8,
-    "PINILLOS MARIN, LUCIA": 10,
+    "LUCIA": 10,
     "MARINA ZANGRONIZ, JIMENA": 14,
     "JIMENEZ SANCHEZ, DIANA": 19,
     "RUIZ RINCON, CLAUDIA": 20,
     "LANGARICA FERNANDEZ, MARTINA": 21,
     "DOMINGUEZ PITA, IRIA": 22
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
