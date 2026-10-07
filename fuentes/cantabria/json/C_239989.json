@@ -1,0 +1,295 @@
+{
+  "acta_id": "C_239989",
+  "filename": "Acta_C_239989.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "11:45",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. COLINDRES",
+  "equipo_visitante": "DEPORTIVO PERINES",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SISNIEGA SOL, IVAN"
+  ],
+  "estadio": "Colindres",
+  "ciudad": "Colindres",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "IRIARTE MULATO, ADRIÁN ANDRES",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 14,
+      "jugador": "SAINZ DE LA MAZA AJA, EDUARDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "LIAÑO PILA, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 56,
+      "jugador": "FERNANDEZ PEREZ, MAURO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "TERAN MENESES, SANTIAGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "SAN EMETERIO FERNANDEZ, ENZO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "FERNANDEZ PEREZ, MAURO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "RODRIGUEZ BOLAÑO, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 16,
+      "jugador": "CIEZA PEREZ, ASIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 25,
+      "jugador": "LIAÑO VARELA, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "LIAÑO VARELA, DANIEL",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BARRUETABEÑA ROMAN, JOSE MIGUEL",
+  "entrenador_visitante": "SANTOS RODRIGUEZ, MIGUEL ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAN EMETERIO SAÑUDO, MANUEL ANTONIO",
+  "delegado_equipo_visitante": "SANTOS CARRERA, JOSE MANUEL",
+  "titulares_local": [
+    "RUIZ CAÑARTE, RAUL",
+    "LOPEZ HERNANDEZ, MARCO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "GOMEZ CAGIGAS, MARTIN",
+    "LIAÑO PILA, MARIO",
+    "FERNANDEZ PEREZ, MAURO",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "RODRIGUEZ BOLAÑO, MARIO",
+    "TERAN MENESES, SANTIAGO",
+    "CHATBI, AMINE"
+  ],
+  "titulares_visitante": [
+    "CALLEJO SALGUERO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "LIAÑO VARELA, DANIEL",
+    "CASCALES TORRE, BOSCO",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "DE JULIAN PEROJO, MATEO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "IRIARTE MULATO, ADRIÁN ANDRES",
+    "CIEZA PEREZ, ASIER",
+    "TENORIO ARANA, AITOR",
+    "ESTRADA ALONSO, AARON"
+  ],
+  "suplentes_local": [
+    "SETIEN GOMEZ, DIEGO",
+    "ANDIA FLEXER, ALBANO",
+    "GARCIA GOMEZ, LUCAS",
+    "PABLOS SUAREZ, IBAI",
+    "CAÑARTE PEREZ, MARIO"
+  ],
+  "suplentes_visitante": [
+    "POO DUBREUIL, ANDRES",
+    "BARQUIN SARRAGA, MARIO",
+    "GARCIA OBREGON, HUGO",
+    "ALONSO FERNANDEZ, MATEO"
+  ],
+  "convocados_sin_jugar_local": [
+    "SETIEN GOMEZ, DIEGO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RUIZ CAÑARTE, RAUL",
+    "LOPEZ HERNANDEZ, MARCO",
+    "CAMPOS SAN EMETERIO, DIEGO",
+    "GOMEZ CAGIGAS, MARTIN",
+    "LIAÑO PILA, MARIO",
+    "FERNANDEZ PEREZ, MAURO",
+    "SAINZ DE LA MAZA AJA, EDUARDO",
+    "SAN EMETERIO FERNANDEZ, ENZO",
+    "RODRIGUEZ BOLAÑO, MARIO",
+    "TERAN MENESES, SANTIAGO",
+    "CHATBI, AMINE",
+    "PABLOS SUAREZ, IBAI",
+    "CAÑARTE PEREZ, MARIO",
+    "GARCIA GOMEZ, LUCAS",
+    "ANDIA FLEXER, ALBANO"
+  ],
+  "jugadores_visitante": [
+    "CALLEJO SALGUERO, HUGO",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "LIAÑO VARELA, DANIEL",
+    "CASCALES TORRE, BOSCO",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "DE JULIAN PEROJO, MATEO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "IRIARTE MULATO, ADRIÁN ANDRES",
+    "CIEZA PEREZ, ASIER",
+    "TENORIO ARANA, AITOR",
+    "ESTRADA ALONSO, AARON",
+    "GARCIA OBREGON, HUGO",
+    "BARQUIN SARRAGA, MARIO",
+    "ALONSO FERNANDEZ, MATEO",
+    "POO DUBREUIL, ANDRES"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "PABLOS SUAREZ, IBAI",
+      "sale": "SAN EMETERIO FERNANDEZ, ENZO"
+    },
+    {
+      "min": 58,
+      "entra": "CAÑARTE PEREZ, MARIO",
+      "sale": "SAINZ DE LA MAZA AJA, EDUARDO"
+    },
+    {
+      "min": 70,
+      "entra": "GARCIA GOMEZ, LUCAS",
+      "sale": "FERNANDEZ PEREZ, MAURO"
+    },
+    {
+      "min": 73,
+      "entra": "ANDIA FLEXER, ALBANO",
+      "sale": "RODRIGUEZ BOLAÑO, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 20,
+      "entra": "GARCIA OBREGON, HUGO",
+      "sale": "LOPEZ SAMANIEGO, FEDERICO"
+    },
+    {
+      "min": 40,
+      "entra": "BARQUIN SARRAGA, MARIO",
+      "sale": "FERNANDEZ NAVAMUEL, JENS"
+    },
+    {
+      "min": 54,
+      "entra": "ALONSO FERNANDEZ, MATEO",
+      "sale": "CASCALES TORRE, BOSCO"
+    },
+    {
+      "min": 66,
+      "entra": "POO DUBREUIL, ANDRES",
+      "sale": "TENORIO ARANA, AITOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ CAÑARTE, RAUL": 90,
+    "LOPEZ HERNANDEZ, MARCO": 90,
+    "CAMPOS SAN EMETERIO, DIEGO": 90,
+    "GOMEZ CAGIGAS, MARTIN": 90,
+    "LIAÑO PILA, MARIO": 90,
+    "FERNANDEZ PEREZ, MAURO": 70,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 58,
+    "SAN EMETERIO FERNANDEZ, ENZO": 54,
+    "RODRIGUEZ BOLAÑO, MARIO": 73,
+    "TERAN MENESES, SANTIAGO": 90,
+    "CHATBI, AMINE": 90,
+    "PABLOS SUAREZ, IBAI": 36,
+    "CAÑARTE PEREZ, MARIO": 32,
+    "GARCIA GOMEZ, LUCAS": 20,
+    "ANDIA FLEXER, ALBANO": 17,
+    "CALLEJO SALGUERO, HUGO": 90,
+    "LOPEZ SAMANIEGO, FEDERICO": 20,
+    "LIAÑO VARELA, DANIEL": 90,
+    "CASCALES TORRE, BOSCO": 54,
+    "FERNANDEZ NAVAMUEL, JENS": 40,
+    "DE JULIAN PEROJO, MATEO": 90,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 90,
+    "IRIARTE MULATO, ADRIÁN ANDRES": 90,
+    "CIEZA PEREZ, ASIER": 90,
+    "TENORIO ARANA, AITOR": 66,
+    "ESTRADA ALONSO, AARON": 90,
+    "GARCIA OBREGON, HUGO": 70,
+    "BARQUIN SARRAGA, MARIO": 50,
+    "ALONSO FERNANDEZ, MATEO": 36,
+    "POO DUBREUIL, ANDRES": 24
+  },
+  "portero_local": "RUIZ CAÑARTE, RAUL",
+  "portero_visitante": "CALLEJO SALGUERO, HUGO",
+  "dorsales_local": {
+    "RUIZ CAÑARTE, RAUL": 1,
+    "LOPEZ HERNANDEZ, MARCO": 2,
+    "CAMPOS SAN EMETERIO, DIEGO": 5,
+    "GOMEZ CAGIGAS, MARTIN": 6,
+    "LIAÑO PILA, MARIO": 8,
+    "FERNANDEZ PEREZ, MAURO": 9,
+    "SAINZ DE LA MAZA AJA, EDUARDO": 10,
+    "SAN EMETERIO FERNANDEZ, ENZO": 11,
+    "RODRIGUEZ BOLAÑO, MARIO": 18,
+    "TERAN MENESES, SANTIAGO": 21,
+    "CHATBI, AMINE": 22
+  },
+  "dorsales_visitante": {
+    "CALLEJO SALGUERO, HUGO": 13,
+    "LOPEZ SAMANIEGO, FEDERICO": 4,
+    "LIAÑO VARELA, DANIEL": 7,
+    "CASCALES TORRE, BOSCO": 8,
+    "FERNANDEZ NAVAMUEL, JENS": 9,
+    "DE JULIAN PEROJO, MATEO": 12,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 14,
+    "IRIARTE MULATO, ADRIÁN ANDRES": 15,
+    "CIEZA PEREZ, ASIER": 16,
+    "TENORIO ARANA, AITOR": 17,
+    "ESTRADA ALONSO, AARON": 19
+  },
+  "suspendidos": [
+    "LIAÑO VARELA, DANIEL"
+  ],
+  "_marcador_widget": true
+}
