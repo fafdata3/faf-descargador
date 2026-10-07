@@ -1,0 +1,263 @@
+{
+  "acta_id": "B_9979702",
+  "filename": "Acta_B_9979702.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "03-01-2026",
+  "hora": "17:00",
+  "categoria": "PRIMERA DIVISIÓN 1C / LEHEN MAILA (GRUPO 1)",
+  "equipo_local": "UNION SPORT A",
+  "equipo_visitante": "GAZTELUETA A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "HERAS TORRES, DANIEL"
+  ],
+  "estadio": "SAN VICENTE C.D.M.",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "NEDJADI HABRI, MOHAMED",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "NEDJADI HABRI, MOHAMED",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "SA AGUIRREBEITIA, MIKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "ESCUDERO CANALES, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "CERERO DIAZ-GUARDAMINO, GONZALO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "HERVÁS PASCUAL, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "ESCUDERO CANALES, PABLO",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RODRIGUEZ CONDE, DIEGO",
+  "entrenador_visitante": "GÓMEZ TEJEDOR, ÁLVARO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RIBADO ACHUCARRO, OIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PEREZ FERNANDEZ, ARKAITZ",
+  "delegado_equipo_visitante": "GARCÍA CABALLERO, JAVIER",
+  "titulares_local": [
+    "ORTEGA ARANCON, HODEI",
+    "SUÁREZ MARTÍN, LANDER",
+    "ALOA SAENZ DE ZAITEGU, OIHAN",
+    "DE MIGUEL NAVARRO, JOSEBA",
+    "LACRUZ SAHELICES, IKER",
+    "NEDJADI HABRI, MOHAMED",
+    "PAVESIO VILLA, IBON",
+    "GARRIDO ALVAREZ, JON",
+    "BRICEÑO GUAYASAMIN, IKER",
+    "SANJURJO ONDO, AMETS",
+    "LOPEZ ALCALDE, HUGO"
+  ],
+  "titulares_visitante": [
+    "VIDAL ROMERO, PABLO",
+    "ESCUDERO CANALES, PABLO",
+    "HERVÁS PASCUAL, JAVIER",
+    "GUTIERREZ VALLEJO, GONZALO",
+    "ZAMANILLO CIGARAN, LUIS",
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS",
+    "MANRIQUE RODRIGUEZ, ALVARO",
+    "ESTEVEZ RECIO, NICOLAS",
+    "CERERO DIAZ-GUARDAMINO, GONZALO",
+    "ARBEO ALCIBAR, PABLO",
+    "ARAGUNDE CASTIELLA, JAIME"
+  ],
+  "suplentes_local": [
+    "ARANA RAMOS, BEÑAT",
+    "GONZALEZ ALONSO, UNAI",
+    "GALLEGO SAUTUA, GORKA",
+    "SA AGUIRREBEITIA, MIKEL",
+    "SILES FERNANDEZ, UNAX",
+    "LOPEZ MACARRILLA, MARKEL",
+    "LAISEKA GONZÁLEZ, EKAITZ"
+  ],
+  "suplentes_visitante": [
+    "VÁZQUEZ ZALBIDEA, IGNACIO",
+    "GUIBERT SETIÉN, TOMAS",
+    "YBARRA LARUMBE, BRUNO"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARANA RAMOS, BEÑAT",
+    "GALLEGO SAUTUA, GORKA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "VÁZQUEZ ZALBIDEA, IGNACIO"
+  ],
+  "jugadores_local": [
+    "ORTEGA ARANCON, HODEI",
+    "SUÁREZ MARTÍN, LANDER",
+    "ALOA SAENZ DE ZAITEGU, OIHAN",
+    "DE MIGUEL NAVARRO, JOSEBA",
+    "LACRUZ SAHELICES, IKER",
+    "NEDJADI HABRI, MOHAMED",
+    "PAVESIO VILLA, IBON",
+    "GARRIDO ALVAREZ, JON",
+    "BRICEÑO GUAYASAMIN, IKER",
+    "SANJURJO ONDO, AMETS",
+    "LOPEZ ALCALDE, HUGO",
+    "SILES FERNANDEZ, UNAX",
+    "GONZALEZ ALONSO, UNAI",
+    "SA AGUIRREBEITIA, MIKEL",
+    "LAISEKA GONZÁLEZ, EKAITZ",
+    "LOPEZ MACARRILLA, MARKEL"
+  ],
+  "jugadores_visitante": [
+    "VIDAL ROMERO, PABLO",
+    "ESCUDERO CANALES, PABLO",
+    "HERVÁS PASCUAL, JAVIER",
+    "GUTIERREZ VALLEJO, GONZALO",
+    "ZAMANILLO CIGARAN, LUIS",
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS",
+    "MANRIQUE RODRIGUEZ, ALVARO",
+    "ESTEVEZ RECIO, NICOLAS",
+    "CERERO DIAZ-GUARDAMINO, GONZALO",
+    "ARBEO ALCIBAR, PABLO",
+    "ARAGUNDE CASTIELLA, JAIME",
+    "GUIBERT SETIÉN, TOMAS",
+    "YBARRA LARUMBE, BRUNO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 63,
+      "entra": "SILES FERNANDEZ, UNAX",
+      "sale": "LACRUZ SAHELICES, IKER"
+    },
+    {
+      "min": 63,
+      "entra": "GONZALEZ ALONSO, UNAI",
+      "sale": "PAVESIO VILLA, IBON"
+    },
+    {
+      "min": 72,
+      "entra": "SA AGUIRREBEITIA, MIKEL",
+      "sale": "SANJURJO ONDO, AMETS"
+    },
+    {
+      "min": 72,
+      "entra": "LAISEKA GONZÁLEZ, EKAITZ",
+      "sale": "NEDJADI HABRI, MOHAMED"
+    },
+    {
+      "min": 78,
+      "entra": "LOPEZ MACARRILLA, MARKEL",
+      "sale": "GARRIDO ALVAREZ, JON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "GUIBERT SETIÉN, TOMAS",
+      "sale": "ARBEO ALCIBAR, PABLO"
+    },
+    {
+      "min": 53,
+      "entra": "YBARRA LARUMBE, BRUNO",
+      "sale": "ZAMANILLO CIGARAN, LUIS"
+    }
+  ],
+  "minutos_jugadores": {
+    "ORTEGA ARANCON, HODEI": 90,
+    "SUÁREZ MARTÍN, LANDER": 90,
+    "ALOA SAENZ DE ZAITEGU, OIHAN": 90,
+    "DE MIGUEL NAVARRO, JOSEBA": 90,
+    "LACRUZ SAHELICES, IKER": 63,
+    "NEDJADI HABRI, MOHAMED": 72,
+    "PAVESIO VILLA, IBON": 63,
+    "GARRIDO ALVAREZ, JON": 78,
+    "BRICEÑO GUAYASAMIN, IKER": 90,
+    "SANJURJO ONDO, AMETS": 72,
+    "LOPEZ ALCALDE, HUGO": 90,
+    "SILES FERNANDEZ, UNAX": 27,
+    "GONZALEZ ALONSO, UNAI": 27,
+    "SA AGUIRREBEITIA, MIKEL": 18,
+    "LAISEKA GONZÁLEZ, EKAITZ": 18,
+    "LOPEZ MACARRILLA, MARKEL": 12,
+    "VIDAL ROMERO, PABLO": 90,
+    "ESCUDERO CANALES, PABLO": 90,
+    "HERVÁS PASCUAL, JAVIER": 90,
+    "GUTIERREZ VALLEJO, GONZALO": 90,
+    "ZAMANILLO CIGARAN, LUIS": 53,
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS": 90,
+    "MANRIQUE RODRIGUEZ, ALVARO": 90,
+    "ESTEVEZ RECIO, NICOLAS": 90,
+    "CERERO DIAZ-GUARDAMINO, GONZALO": 90,
+    "ARBEO ALCIBAR, PABLO": 53,
+    "ARAGUNDE CASTIELLA, JAIME": 90,
+    "GUIBERT SETIÉN, TOMAS": 37,
+    "YBARRA LARUMBE, BRUNO": 37
+  },
+  "portero_local": "ORTEGA ARANCON, HODEI",
+  "portero_visitante": "VIDAL ROMERO, PABLO",
+  "dorsales_local": {
+    "ORTEGA ARANCON, HODEI": 1,
+    "SUÁREZ MARTÍN, LANDER": 2,
+    "ALOA SAENZ DE ZAITEGU, OIHAN": 4,
+    "DE MIGUEL NAVARRO, JOSEBA": 5,
+    "LACRUZ SAHELICES, IKER": 6,
+    "NEDJADI HABRI, MOHAMED": 10,
+    "PAVESIO VILLA, IBON": 11,
+    "GARRIDO ALVAREZ, JON": 14,
+    "BRICEÑO GUAYASAMIN, IKER": 18,
+    "SANJURJO ONDO, AMETS": 23,
+    "LOPEZ ALCALDE, HUGO": 24
+  },
+  "dorsales_visitante": {
+    "VIDAL ROMERO, PABLO": 13,
+    "ESCUDERO CANALES, PABLO": 3,
+    "HERVÁS PASCUAL, JAVIER": 4,
+    "GUTIERREZ VALLEJO, GONZALO": 6,
+    "ZAMANILLO CIGARAN, LUIS": 7,
+    "PRADO AROSTEGUI, FRANCISCO DE ASIS": 8,
+    "MANRIQUE RODRIGUEZ, ALVARO": 9,
+    "ESTEVEZ RECIO, NICOLAS": 18,
+    "CERERO DIAZ-GUARDAMINO, GONZALO": 21,
+    "ARBEO ALCIBAR, PABLO": 22,
+    "ARAGUNDE CASTIELLA, JAIME": 23
+  },
+  "suspendidos": [
+    "ESCUDERO CANALES, PABLO"
+  ]
+}
