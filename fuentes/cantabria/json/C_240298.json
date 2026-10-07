@@ -1,0 +1,259 @@
+{
+  "acta_id": "C_240298",
+  "filename": "Acta_C_240298.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "12:45",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. BEZANA A",
+  "equipo_visitante": "S.D. PEÑA REVILLA A",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PEREZ MALVIDO, JAVIER"
+  ],
+  "estadio": "Santa Cruz de Bezana",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "GARCÍA VÁZQUEZ, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "SANTAEULALIA PEREZ, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "MARTINEZ LUENA, OLIVER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "DIAZ CRUZ, CHRISTIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "STROE COBO, NICOLÁS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "TERAN RAMOS, JAIME",
+  "entrenador_visitante": "GARCIA PUENTE, JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MOLLEDA MESONES, DIEGO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MOLLEDA MESONES, DIEGO",
+  "delegado_equipo_visitante": "SOLANO RUIZ, ALVARO",
+  "titulares_local": [
+    "MORA PUIG-PEY, LUIS",
+    "BARRIO RODRIGUEZ, DIEGO",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "RIVAS GUTIERREZ, MARIO",
+    "CRESPO PEÑA, JUAN",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "PÉREZ VELA, MARCOS",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "VILLAMOR FALCONES, SAMUEL",
+    "URIBE DELGADO, MARCO"
+  ],
+  "titulares_visitante": [
+    "ABAJAS MICHALCZEWSKA, LEO",
+    "ABIAN PACHECO, PABLO",
+    "LANZA MARTÍ, HUGO",
+    "FERNANDEZ ARIGITA, JUAN",
+    "CEBALLOS RUIZ, HUGO",
+    "CALLEJA REVILLA, GIOVANNI",
+    "AJA CIMIANO, IKER",
+    "PAUCAR SEVERINO, AARON",
+    "MAZON IBAÑEZ, JORGE",
+    "SOBALER DIAZ, JOSE ANTONIO",
+    "GUTIERREZ RUIZ, JORGE"
+  ],
+  "suplentes_local": [
+    "TRICIO MARTÍN, MATEO",
+    "ABARRATEGUI GONZÁLEZ, JAIME",
+    "LOIS VEGAS, SANCHO",
+    "MARTINEZ LUENA, OLIVER",
+    "DIAZ CRUZ, CHRISTIAN"
+  ],
+  "suplentes_visitante": [
+    "DOHIJO DIAZ, MARCOS",
+    "RUIZ SÁNCHEZ, ÁLVARO",
+    "MARTINEZ BUGARIN, ENZO",
+    "REALPE RIVERA, ESTEBAN",
+    "STROE COBO, NICOLÁS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "DOHIJO DIAZ, MARCOS"
+  ],
+  "jugadores_local": [
+    "MORA PUIG-PEY, LUIS",
+    "BARRIO RODRIGUEZ, DIEGO",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "DEL TIO MALMEHG, ERIK",
+    "RIVAS GUTIERREZ, MARIO",
+    "CRESPO PEÑA, JUAN",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "PÉREZ VELA, MARCOS",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "VILLAMOR FALCONES, SAMUEL",
+    "URIBE DELGADO, MARCO",
+    "LOIS VEGAS, SANCHO",
+    "MARTINEZ LUENA, OLIVER",
+    "TRICIO MARTÍN, MATEO",
+    "DIAZ CRUZ, CHRISTIAN",
+    "ABARRATEGUI GONZÁLEZ, JAIME"
+  ],
+  "jugadores_visitante": [
+    "ABAJAS MICHALCZEWSKA, LEO",
+    "ABIAN PACHECO, PABLO",
+    "LANZA MARTÍ, HUGO",
+    "FERNANDEZ ARIGITA, JUAN",
+    "CEBALLOS RUIZ, HUGO",
+    "CALLEJA REVILLA, GIOVANNI",
+    "AJA CIMIANO, IKER",
+    "PAUCAR SEVERINO, AARON",
+    "MAZON IBAÑEZ, JORGE",
+    "SOBALER DIAZ, JOSE ANTONIO",
+    "GUTIERREZ RUIZ, JORGE",
+    "STROE COBO, NICOLÁS",
+    "MARTINEZ BUGARIN, ENZO",
+    "REALPE RIVERA, ESTEBAN",
+    "RUIZ SÁNCHEZ, ÁLVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "LOIS VEGAS, SANCHO",
+      "sale": "PÉREZ VELA, MARCOS"
+    },
+    {
+      "min": 57,
+      "entra": "MARTINEZ LUENA, OLIVER",
+      "sale": "MONTES DE NEIRA BALBOA, LUCAS"
+    },
+    {
+      "min": 60,
+      "entra": "TRICIO MARTÍN, MATEO",
+      "sale": "BARRIO RODRIGUEZ, DIEGO"
+    },
+    {
+      "min": 65,
+      "entra": "DIAZ CRUZ, CHRISTIAN",
+      "sale": "URIBE DELGADO, MARCO"
+    },
+    {
+      "min": 66,
+      "entra": "ABARRATEGUI GONZÁLEZ, JAIME",
+      "sale": "SANTAEULALIA PEREZ, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "STROE COBO, NICOLÁS",
+      "sale": "MAZON IBAÑEZ, JORGE"
+    },
+    {
+      "min": 53,
+      "entra": "MARTINEZ BUGARIN, ENZO",
+      "sale": "FERNANDEZ ARIGITA, JUAN"
+    },
+    {
+      "min": 59,
+      "entra": "REALPE RIVERA, ESTEBAN",
+      "sale": "AJA CIMIANO, IKER"
+    },
+    {
+      "min": 66,
+      "entra": "RUIZ SÁNCHEZ, ÁLVARO",
+      "sale": "CALLEJA REVILLA, GIOVANNI"
+    }
+  ],
+  "minutos_jugadores": {
+    "MORA PUIG-PEY, LUIS": 90,
+    "BARRIO RODRIGUEZ, DIEGO": 60,
+    "MONTES DE NEIRA BALBOA, LUCAS": 57,
+    "DEL TIO MALMEHG, ERIK": 90,
+    "RIVAS GUTIERREZ, MARIO": 90,
+    "CRESPO PEÑA, JUAN": 90,
+    "SANTAEULALIA PEREZ, NICOLAS": 66,
+    "PÉREZ VELA, MARCOS": 57,
+    "GARCÍA VÁZQUEZ, HUGO": 90,
+    "VILLAMOR FALCONES, SAMUEL": 90,
+    "URIBE DELGADO, MARCO": 65,
+    "LOIS VEGAS, SANCHO": 33,
+    "MARTINEZ LUENA, OLIVER": 33,
+    "TRICIO MARTÍN, MATEO": 30,
+    "DIAZ CRUZ, CHRISTIAN": 25,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 24,
+    "ABAJAS MICHALCZEWSKA, LEO": 90,
+    "ABIAN PACHECO, PABLO": 90,
+    "LANZA MARTÍ, HUGO": 90,
+    "FERNANDEZ ARIGITA, JUAN": 53,
+    "CEBALLOS RUIZ, HUGO": 90,
+    "CALLEJA REVILLA, GIOVANNI": 66,
+    "AJA CIMIANO, IKER": 59,
+    "PAUCAR SEVERINO, AARON": 90,
+    "MAZON IBAÑEZ, JORGE": 41,
+    "SOBALER DIAZ, JOSE ANTONIO": 90,
+    "GUTIERREZ RUIZ, JORGE": 90,
+    "STROE COBO, NICOLÁS": 49,
+    "MARTINEZ BUGARIN, ENZO": 37,
+    "REALPE RIVERA, ESTEBAN": 31,
+    "RUIZ SÁNCHEZ, ÁLVARO": 24
+  },
+  "portero_local": "MORA PUIG-PEY, LUIS",
+  "portero_visitante": "ABAJAS MICHALCZEWSKA, LEO",
+  "dorsales_local": {
+    "MORA PUIG-PEY, LUIS": 13,
+    "BARRIO RODRIGUEZ, DIEGO": 2,
+    "MONTES DE NEIRA BALBOA, LUCAS": 3,
+    "DEL TIO MALMEHG, ERIK": 4,
+    "RIVAS GUTIERREZ, MARIO": 5,
+    "CRESPO PEÑA, JUAN": 6,
+    "SANTAEULALIA PEREZ, NICOLAS": 7,
+    "PÉREZ VELA, MARCOS": 8,
+    "GARCÍA VÁZQUEZ, HUGO": 9,
+    "VILLAMOR FALCONES, SAMUEL": 10,
+    "URIBE DELGADO, MARCO": 11
+  },
+  "dorsales_visitante": {
+    "ABAJAS MICHALCZEWSKA, LEO": 1,
+    "ABIAN PACHECO, PABLO": 2,
+    "LANZA MARTÍ, HUGO": 4,
+    "FERNANDEZ ARIGITA, JUAN": 5,
+    "CEBALLOS RUIZ, HUGO": 7,
+    "CALLEJA REVILLA, GIOVANNI": 8,
+    "AJA CIMIANO, IKER": 10,
+    "PAUCAR SEVERINO, AARON": 11,
+    "MAZON IBAÑEZ, JORGE": 12,
+    "SOBALER DIAZ, JOSE ANTONIO": 16,
+    "GUTIERREZ RUIZ, JORGE": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
