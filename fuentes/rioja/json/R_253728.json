@@ -9,8 +9,8 @@
   "categoria": "SENIOR FÚTBOL SALA - 1ª FASE (Grupo 2)",
   "equipo_local": "AD LARDERO Maquimplast",
   "equipo_visitante": "OYONESA",
-  "goles_local": 2,
-  "goles_visitante": 3,
+  "goles_local": 3,
+  "goles_visitante": 6,
   "resultado": "L",
   "arbitros": [
     "Árbitro Principal",
@@ -23,55 +23,64 @@
       "minuto": 9,
       "jugador": "GARRIDO OLIVAN, ISAAC",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 21,
       "jugador": "CANCELO RIPA, URKO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 25,
       "jugador": "RAPOSO GUTIERREZ, GUILLERMO",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "JAIME GARCIA, MIGUEL",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 33,
       "jugador": "ANSOTEGUI BUZON, RAUL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 46,
       "jugador": "ANSOTEGUI BUZON, RUBEN",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 48,
       "jugador": "MARTINEZ CEBALLOS, JULEN",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 52,
       "jugador": "ROMERO MARQUEZ, IVAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 56,
       "jugador": "FERNANDEZ LOPEZ, JOEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -79,13 +88,6 @@
       "minuto": 50,
       "jugador": "GARRIDO OLIVAN, ISAAC",
       "equipo": "local",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 50,
-      "jugador": "OYONESA",
-      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     },
@@ -101,13 +103,6 @@
       "jugador": "ANSOTEGUI BUZON, RUBEN",
       "equipo": "visitante",
       "tipo": "doble_amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 58,
-      "jugador": "CANCELO RIPA, URKO",
-      "equipo": "?",
-      "tipo": "amarilla",
       "destinatario": "jugador"
     }
   ],
@@ -211,5 +206,6 @@
   },
   "suspendidos": [
     "ANSOTEGUI BUZON, RUBEN"
-  ]
+  ],
+  "_marcador_widget": true
 }
