@@ -1,0 +1,243 @@
+{
+  "acta_id": "B_9982465",
+  "filename": "Acta_B_9982465.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "01-02-2026",
+  "hora": "11:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "PADURA A",
+  "equipo_visitante": "BERMEO A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "FERNANDEZ GARAY, JOSU"
+  ],
+  "estadio": "SANTO CRISTO 1",
+  "ciudad": "Arrigorriaga",
+  "goleadores": [
+    {
+      "minuto": 38,
+      "jugador": "LEKUE LEKUE, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "FERNANDEZ BILBAO, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "GILLATE CORRALES, ANDDE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BOUZA FERNANDEZ, JUAN CARLOS",
+  "entrenador_visitante": "OLAETA ALVAREZ, JAVIER MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BOUZA BENGOETXEA, XABIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "AGUIRRE HUERGA, JOSU",
+  "delegado_equipo_visitante": "TAKOUISING, ALAIN BERTRAND",
+  "titulares_local": [
+    "GONZALEZ CABEZUDO, NOAH",
+    "SANCHEZ PEÑA, PEIO",
+    "RODRIGUEZ FERNANDEZ, MARKEL",
+    "HAMROUNI OSUNA, SABIER",
+    "GILLATE CORRALES, ANDDE",
+    "GARTZIA MOJA, EGOITZ",
+    "FUSCEL, PATRICK IOAN",
+    "RODRIGUEZ LEZAMETA, MIKEL",
+    "LEKUE LEKUE, AIMAR",
+    "REQUEJO RODRIGUEZ, GAIZKA",
+    "ARRAÑA RUBIO, MIKEL"
+  ],
+  "titulares_visitante": [
+    "HERRAN AGUADO, ANDER",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "PARDO ZABALETA, AITOR",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "HULTOANA, SERGIU DUMITRU",
+    "FERNANDEZ BILBAO, ANDER",
+    "LANDETA BATIS, ANER",
+    "OLIVEIRA GARCIA, PAUL",
+    "ROZA TELLETXEA, IBON",
+    "GOITIA GOIENETXEA, ANDER",
+    "MIHAILA CALOTA, MIKEL"
+  ],
+  "suplentes_local": [
+    "OLMOS CHICO, OIER",
+    "ALBIZUA ESCUZA, KOLDO",
+    "GARCIA CARRASCO, XABIER",
+    "GARCIA CHICA, UNAX",
+    "GONZALEZ GARRIDO, IKER",
+    "LOPES GOMES, ARKAITZ",
+    "EGUSQUIZA FERNANDEZ, OIER"
+  ],
+  "suplentes_visitante": [
+    "LLANOS ANASAGASTI, ONAR",
+    "ECHEVARRIA ARAUZ, ANDER",
+    "UNGUREANU, RADU IONUT",
+    "SOTO ARTETXE, EKAITZ",
+    "ARROYO BILBAO, TXABER"
+  ],
+  "convocados_sin_jugar_local": [
+    "OLMOS CHICO, OIER",
+    "GONZALEZ GARRIDO, IKER",
+    "EGUSQUIZA FERNANDEZ, OIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "LLANOS ANASAGASTI, ONAR"
+  ],
+  "jugadores_local": [
+    "GONZALEZ CABEZUDO, NOAH",
+    "SANCHEZ PEÑA, PEIO",
+    "RODRIGUEZ FERNANDEZ, MARKEL",
+    "HAMROUNI OSUNA, SABIER",
+    "GILLATE CORRALES, ANDDE",
+    "GARTZIA MOJA, EGOITZ",
+    "FUSCEL, PATRICK IOAN",
+    "RODRIGUEZ LEZAMETA, MIKEL",
+    "LEKUE LEKUE, AIMAR",
+    "REQUEJO RODRIGUEZ, GAIZKA",
+    "ARRAÑA RUBIO, MIKEL",
+    "GARCIA CHICA, UNAX",
+    "GARCIA CARRASCO, XABIER",
+    "ALBIZUA ESCUZA, KOLDO",
+    "LOPES GOMES, ARKAITZ"
+  ],
+  "jugadores_visitante": [
+    "HERRAN AGUADO, ANDER",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "PARDO ZABALETA, AITOR",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "HULTOANA, SERGIU DUMITRU",
+    "FERNANDEZ BILBAO, ANDER",
+    "LANDETA BATIS, ANER",
+    "OLIVEIRA GARCIA, PAUL",
+    "ROZA TELLETXEA, IBON",
+    "GOITIA GOIENETXEA, ANDER",
+    "MIHAILA CALOTA, MIKEL",
+    "ECHEVARRIA ARAUZ, ANDER",
+    "UNGUREANU, RADU IONUT",
+    "SOTO ARTETXE, EKAITZ",
+    "ARROYO BILBAO, TXABER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "GARCIA CHICA, UNAX",
+      "sale": "FUSCEL, PATRICK IOAN"
+    },
+    {
+      "min": 60,
+      "entra": "GARCIA CARRASCO, XABIER",
+      "sale": "RODRIGUEZ FERNANDEZ, MARKEL"
+    },
+    {
+      "min": 70,
+      "entra": "ALBIZUA ESCUZA, KOLDO",
+      "sale": "HAMROUNI OSUNA, SABIER"
+    },
+    {
+      "min": 70,
+      "entra": "LOPES GOMES, ARKAITZ",
+      "sale": "SANCHEZ PEÑA, PEIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "ECHEVARRIA ARAUZ, ANDER",
+      "sale": "HULTOANA, SERGIU DUMITRU"
+    },
+    {
+      "min": 60,
+      "entra": "UNGUREANU, RADU IONUT",
+      "sale": "OLIVEIRA GARCIA, PAUL"
+    },
+    {
+      "min": 68,
+      "entra": "SOTO ARTETXE, EKAITZ",
+      "sale": "ROZA TELLETXEA, IBON"
+    },
+    {
+      "min": 68,
+      "entra": "ARROYO BILBAO, TXABER",
+      "sale": "MIHAILA CALOTA, MIKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONZALEZ CABEZUDO, NOAH": 90,
+    "SANCHEZ PEÑA, PEIO": 70,
+    "RODRIGUEZ FERNANDEZ, MARKEL": 60,
+    "HAMROUNI OSUNA, SABIER": 70,
+    "GILLATE CORRALES, ANDDE": 90,
+    "GARTZIA MOJA, EGOITZ": 90,
+    "FUSCEL, PATRICK IOAN": 41,
+    "RODRIGUEZ LEZAMETA, MIKEL": 90,
+    "LEKUE LEKUE, AIMAR": 90,
+    "REQUEJO RODRIGUEZ, GAIZKA": 90,
+    "ARRAÑA RUBIO, MIKEL": 90,
+    "GARCIA CHICA, UNAX": 49,
+    "GARCIA CARRASCO, XABIER": 30,
+    "ALBIZUA ESCUZA, KOLDO": 20,
+    "LOPES GOMES, ARKAITZ": 20,
+    "HERRAN AGUADO, ANDER": 90,
+    "ESPINOSA MAGUREGI, KIMETZ": 90,
+    "PARDO ZABALETA, AITOR": 90,
+    "EL ABDELLAOUI BOUGUA, ADAM": 90,
+    "HULTOANA, SERGIU DUMITRU": 60,
+    "FERNANDEZ BILBAO, ANDER": 90,
+    "LANDETA BATIS, ANER": 90,
+    "OLIVEIRA GARCIA, PAUL": 60,
+    "ROZA TELLETXEA, IBON": 68,
+    "GOITIA GOIENETXEA, ANDER": 90,
+    "MIHAILA CALOTA, MIKEL": 68,
+    "ECHEVARRIA ARAUZ, ANDER": 30,
+    "UNGUREANU, RADU IONUT": 30,
+    "SOTO ARTETXE, EKAITZ": 22,
+    "ARROYO BILBAO, TXABER": 22
+  },
+  "portero_local": "GONZALEZ CABEZUDO, NOAH",
+  "portero_visitante": "HERRAN AGUADO, ANDER",
+  "dorsales_local": {
+    "GONZALEZ CABEZUDO, NOAH": 1,
+    "SANCHEZ PEÑA, PEIO": 2,
+    "RODRIGUEZ FERNANDEZ, MARKEL": 3,
+    "HAMROUNI OSUNA, SABIER": 4,
+    "GILLATE CORRALES, ANDDE": 5,
+    "GARTZIA MOJA, EGOITZ": 6,
+    "FUSCEL, PATRICK IOAN": 7,
+    "RODRIGUEZ LEZAMETA, MIKEL": 8,
+    "LEKUE LEKUE, AIMAR": 9,
+    "REQUEJO RODRIGUEZ, GAIZKA": 10,
+    "ARRAÑA RUBIO, MIKEL": 11
+  },
+  "dorsales_visitante": {
+    "HERRAN AGUADO, ANDER": 13,
+    "ESPINOSA MAGUREGI, KIMETZ": 3,
+    "PARDO ZABALETA, AITOR": 4,
+    "EL ABDELLAOUI BOUGUA, ADAM": 6,
+    "HULTOANA, SERGIU DUMITRU": 7,
+    "FERNANDEZ BILBAO, ANDER": 9,
+    "LANDETA BATIS, ANER": 10,
+    "OLIVEIRA GARCIA, PAUL": 11,
+    "ROZA TELLETXEA, IBON": 15,
+    "GOITIA GOIENETXEA, ANDER": 19,
+    "MIHAILA CALOTA, MIKEL": 23
+  },
+  "suspendidos": []
+}
