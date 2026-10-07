@@ -1,0 +1,285 @@
+{
+  "acta_id": "R_251396",
+  "filename": "Acta_R_251396.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "28-09-2025",
+  "hora": "17:00",
+  "categoria": "REGIONAL PREFERENTE (Grupo Único)",
+  "equipo_local": "CENICERO",
+  "equipo_visitante": "SAN LORENZO",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SUEIRO CONTRERAS, LAURA",
+    "Árbitro Asistente",
+    "MUÑOZ ECHEVERRIA, IZASKUN",
+    "Árbitro Asistente",
+    "PERALTA NOGUERA, LORENA YOLANDA"
+  ],
+  "estadio": "C.M. LAS VIÑAS (CENICERO)",
+  "ciudad": "Cenicero",
+  "goleadores": [
+    {
+      "minuto": 40,
+      "jugador": "BORDEL CAMARA, ALEX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 86,
+      "jugador": "SHARIF TAHIRA, UMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 28,
+      "jugador": "MARTIN GONZALEZ, JAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "JIMENEZ ZULAICA, JON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 24,
+      "jugador": "MONTERO ARECHAVALA, OIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "PUJADES OTEGUI, ALEX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZALEZ RAMIREZ, ADRIAN",
+  "entrenador_visitante": "GARCÍA CHINCHETRU, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CENICEROS EIBAR, ADRIÁN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MUÑOZ PUELLES, ALBERTO",
+  "delegado_equipo_visitante": "BEN HSSAIN BEN HSSAIN, MOHAMED",
+  "titulares_local": [
+    "TORCAL CARRILLO, CHRISTIAN",
+    "MARTIN GONZALEZ, JAVIER",
+    "ORTE DE SANTIAGO, SERGIO",
+    "MAYO VILLANUEVA, JORGE",
+    "ORDEN ESPILA, MARCOS",
+    "GODOY DURAN, NICOLAS",
+    "RUBIN GARCIA, DANIEL",
+    "JIMENEZ ZULAICA, JON",
+    "HERNANDEZ CORREA, SERGIO",
+    "RAMOS PÉREZ, JORGE",
+    "MIRANDA N IZQUIERDO, ALEJANDRO"
+  ],
+  "titulares_visitante": [
+    "PALACIOS GAMBOA, HECTOR",
+    "MONTERO ARECHAVALA, OIER",
+    "CABRERA RUIZ, JEAN PIERRE",
+    "BLANCO BLANCO, ANDRES",
+    "PUJADES OTEGUI, ALEX",
+    "TORRES GARCIA, ASIER",
+    "BORDEL CAMARA, ALEX",
+    "ARNAIZ GARCIA, JOSE",
+    "NOVOA AVILA, DAVID",
+    "ONOFRE CHAVEZ, NELSON STALIN",
+    "GONZALEZ HERBAS, BRYAN"
+  ],
+  "suplentes_local": [
+    "GARCIA SAEZ, RAUL",
+    "JIMENEZ NESTARES, DIEGO",
+    "SAEZ ASENSIO, MILLAN",
+    "DOPAZO GARCIA, DANIEL",
+    "MENA BAUSA, CESC",
+    "BRITO VALDIVIA, ALVARO A",
+    "MARQUEZ VEGA, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "SOLANAS BRIONES, HECTOR",
+    "DE LUISA LOPEZ T, GONZALO",
+    "ARAMBARRI TORRECILLA, SAMUEL",
+    "PALLARES PALACIOS, CRISTIAN CAMILO",
+    "SHARIF TAHIRA, UMAR",
+    "MENDOZA ESCALANTE, IVAN",
+    "OYANGUREN GARCIA, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA SAEZ, RAUL",
+    "SAEZ ASENSIO, MILLAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SOLANAS BRIONES, HECTOR",
+    "OYANGUREN GARCIA, JAVIER"
+  ],
+  "jugadores_local": [
+    "TORCAL CARRILLO, CHRISTIAN",
+    "MARTIN GONZALEZ, JAVIER",
+    "ORTE DE SANTIAGO, SERGIO",
+    "MAYO VILLANUEVA, JORGE",
+    "ORDEN ESPILA, MARCOS",
+    "GODOY DURAN, NICOLAS",
+    "RUBIN GARCIA, DANIEL",
+    "JIMENEZ ZULAICA, JON",
+    "HERNANDEZ CORREA, SERGIO",
+    "RAMOS PÉREZ, JORGE",
+    "MIRANDA N IZQUIERDO, ALEJANDRO",
+    "MARQUEZ VEGA, DIEGO",
+    "JIMENEZ NESTARES, DIEGO",
+    "DOPAZO GARCIA, DANIEL",
+    "MENA BAUSA, CESC",
+    "BRITO VALDIVIA, ALVARO A"
+  ],
+  "jugadores_visitante": [
+    "PALACIOS GAMBOA, HECTOR",
+    "MONTERO ARECHAVALA, OIER",
+    "CABRERA RUIZ, JEAN PIERRE",
+    "BLANCO BLANCO, ANDRES",
+    "PUJADES OTEGUI, ALEX",
+    "TORRES GARCIA, ASIER",
+    "BORDEL CAMARA, ALEX",
+    "ARNAIZ GARCIA, JOSE",
+    "NOVOA AVILA, DAVID",
+    "ONOFRE CHAVEZ, NELSON STALIN",
+    "GONZALEZ HERBAS, BRYAN",
+    "DE LUISA LOPEZ T, GONZALO",
+    "SHARIF TAHIRA, UMAR",
+    "PALLARES PALACIOS, CRISTIAN CAMILO",
+    "ARAMBARRI TORRECILLA, SAMUEL",
+    "MENDOZA ESCALANTE, IVAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 32,
+      "entra": "MARQUEZ VEGA, DIEGO",
+      "sale": "ORDEN ESPILA, MARCOS"
+    },
+    {
+      "min": 46,
+      "entra": "JIMENEZ NESTARES, DIEGO",
+      "sale": "RUBIN GARCIA, DANIEL"
+    },
+    {
+      "min": 46,
+      "entra": "DOPAZO GARCIA, DANIEL",
+      "sale": "MARTIN GONZALEZ, JAVIER"
+    },
+    {
+      "min": 46,
+      "entra": "MENA BAUSA, CESC",
+      "sale": "GODOY DURAN, NICOLAS"
+    },
+    {
+      "min": 64,
+      "entra": "BRITO VALDIVIA, ALVARO A",
+      "sale": "MIRANDA N IZQUIERDO, ALEJANDRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "DE LUISA LOPEZ T, GONZALO",
+      "sale": "CABRERA RUIZ, JEAN PIERRE"
+    },
+    {
+      "min": 53,
+      "entra": "SHARIF TAHIRA, UMAR",
+      "sale": "ONOFRE CHAVEZ, NELSON STALIN"
+    },
+    {
+      "min": 58,
+      "entra": "PALLARES PALACIOS, CRISTIAN CAMILO",
+      "sale": "GONZALEZ HERBAS, BRYAN"
+    },
+    {
+      "min": 58,
+      "entra": "ARAMBARRI TORRECILLA, SAMUEL",
+      "sale": "ARNAIZ GARCIA, JOSE"
+    },
+    {
+      "min": 85,
+      "entra": "MENDOZA ESCALANTE, IVAN",
+      "sale": "NOVOA AVILA, DAVID"
+    }
+  ],
+  "minutos_jugadores": {
+    "TORCAL CARRILLO, CHRISTIAN": 90,
+    "MARTIN GONZALEZ, JAVIER": 46,
+    "ORTE DE SANTIAGO, SERGIO": 90,
+    "MAYO VILLANUEVA, JORGE": 90,
+    "ORDEN ESPILA, MARCOS": 32,
+    "GODOY DURAN, NICOLAS": 46,
+    "RUBIN GARCIA, DANIEL": 46,
+    "JIMENEZ ZULAICA, JON": 90,
+    "HERNANDEZ CORREA, SERGIO": 90,
+    "RAMOS PÉREZ, JORGE": 90,
+    "MIRANDA N IZQUIERDO, ALEJANDRO": 64,
+    "MARQUEZ VEGA, DIEGO": 58,
+    "JIMENEZ NESTARES, DIEGO": 44,
+    "DOPAZO GARCIA, DANIEL": 44,
+    "MENA BAUSA, CESC": 44,
+    "BRITO VALDIVIA, ALVARO A": 26,
+    "PALACIOS GAMBOA, HECTOR": 90,
+    "MONTERO ARECHAVALA, OIER": 90,
+    "CABRERA RUIZ, JEAN PIERRE": 53,
+    "BLANCO BLANCO, ANDRES": 90,
+    "PUJADES OTEGUI, ALEX": 90,
+    "TORRES GARCIA, ASIER": 90,
+    "BORDEL CAMARA, ALEX": 90,
+    "ARNAIZ GARCIA, JOSE": 58,
+    "NOVOA AVILA, DAVID": 85,
+    "ONOFRE CHAVEZ, NELSON STALIN": 53,
+    "GONZALEZ HERBAS, BRYAN": 58,
+    "DE LUISA LOPEZ T, GONZALO": 37,
+    "SHARIF TAHIRA, UMAR": 37,
+    "PALLARES PALACIOS, CRISTIAN CAMILO": 32,
+    "ARAMBARRI TORRECILLA, SAMUEL": 32,
+    "MENDOZA ESCALANTE, IVAN": 5
+  },
+  "portero_local": "TORCAL CARRILLO, CHRISTIAN",
+  "portero_visitante": "PALACIOS GAMBOA, HECTOR",
+  "dorsales_local": {
+    "TORCAL CARRILLO, CHRISTIAN": 1,
+    "MARTIN GONZALEZ, JAVIER": 2,
+    "ORTE DE SANTIAGO, SERGIO": 5,
+    "MAYO VILLANUEVA, JORGE": 6,
+    "ORDEN ESPILA, MARCOS": 7,
+    "GODOY DURAN, NICOLAS": 9,
+    "RUBIN GARCIA, DANIEL": 12,
+    "JIMENEZ ZULAICA, JON": 15,
+    "HERNANDEZ CORREA, SERGIO": 16,
+    "RAMOS PÉREZ, JORGE": 20,
+    "MIRANDA N IZQUIERDO, ALEJANDRO": 21
+  },
+  "dorsales_visitante": {
+    "PALACIOS GAMBOA, HECTOR": 1,
+    "MONTERO ARECHAVALA, OIER": 2,
+    "CABRERA RUIZ, JEAN PIERRE": 3,
+    "BLANCO BLANCO, ANDRES": 4,
+    "PUJADES OTEGUI, ALEX": 5,
+    "TORRES GARCIA, ASIER": 6,
+    "BORDEL CAMARA, ALEX": 7,
+    "ARNAIZ GARCIA, JOSE": 8,
+    "NOVOA AVILA, DAVID": 9,
+    "ONOFRE CHAVEZ, NELSON STALIN": 11,
+    "GONZALEZ HERBAS, BRYAN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
