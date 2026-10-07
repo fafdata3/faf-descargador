@@ -1,0 +1,267 @@
+{
+  "acta_id": "N_70675620",
+  "filename": "Acta_N_70675620.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 34,
+  "fecha": "03-05-2026",
+  "hora": "16:30",
+  "categoria": "Division de Honor Juvenil (Grupo 4)",
+  "equipo_local": "UD LA MOSCA",
+  "equipo_visitante": "C.D. VAZQUEZ CULTURAL",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO",
+    "VAREA TORRALBA, RAFAEL",
+    "ÁRBITRO ASISTENTE",
+    "OÑA MARCOS, MIGUEL",
+    "ÁRBITRO ASISTENTE",
+    "SANCHEZ BONILLA, PEDRO"
+  ],
+  "estadio": "Campo Alejandro Martín",
+  "ciudad": "Málaga",
+  "goleadores": [
+    {
+      "minuto": 47,
+      "jugador": "MESA DOMINGUEZ, MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "MESA DOMINGUEZ, MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 86,
+      "jugador": "CRESPILLO GONZALEZ, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 44,
+      "jugador": "MESA DOMINGUEZ, MANUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 21,
+      "jugador": "WANNBERG, WICTOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "SANCHEZ GUERRERO, CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GIL ROMERO, SERGIO",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GAMEZ SANTAELLA, JAVIER",
+  "titulares_local": [
+    "CHAVES GONZALEZ, ALEXIS",
+    "LOZANO CAMES, ANGEL",
+    "NOVALES PARODY, PABLO",
+    "OUHATTE LÓPEZ, ISMAEL",
+    "FERNANDEZ DE QUINCOCES VIVAR, GUILLERMO",
+    "MARTÍNEZ WILSON, SAMUEL",
+    "MESA DOMINGUEZ, MANUEL",
+    "OCAÑA MONTESINOS, ALVARO",
+    "MOYANO POSTIGO, ALVARO",
+    "PARRAS MARTINEZ, ALFREDO",
+    "DAWSON LOUMANDET, ANTHONY KYLE"
+  ],
+  "titulares_visitante": [
+    "SALCEDO GONZALEZ, RAUL",
+    "DOMINGUEZ VEGAS, ALEJANDRO",
+    "ESTEBAN GOMEZ, RAUL",
+    "SIMON VACA, MANUEL",
+    "WANNBERG, WICTOR",
+    "BOGUSLAWSKI, ALEKSAY VIKTOR",
+    "LOPEZ QUIROS, HUGO",
+    "TULIAN, MATEO",
+    "DRIOUECH LIAMANI, JABER",
+    "ROMERO SERRALVO, DANIEL",
+    "MOHAMED BONILLO, HAIZAM"
+  ],
+  "suplentes_local": [
+    "LÓPEZ MORA LIMA, DIEGO",
+    "BECKMAN, HARLEY JACK",
+    "GONZALEZ NARBONA, CARLOS",
+    "DONOFRIO, LUCIANO",
+    "GAITAN LOPEZ, RAUL",
+    "MARTIN ARREBOLA, JOSE LUIS",
+    "NAVAS RUIZ, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "SANJUAN SANCHEZ, DAVID",
+    "ORTIZ BLAZQUEZ, GUILLERMO",
+    "YUSTE MOLINA, ADRIAN",
+    "HOLDEN, MAXIM RYAN",
+    "CRESPILLO GONZALEZ, DAVID"
+  ],
+  "convocados_sin_jugar_local": [
+    "DONOFRIO, LUCIANO",
+    "MARTIN ARREBOLA, JOSE LUIS"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "YUSTE MOLINA, ADRIAN"
+  ],
+  "jugadores_local": [
+    "CHAVES GONZALEZ, ALEXIS",
+    "LOZANO CAMES, ANGEL",
+    "NOVALES PARODY, PABLO",
+    "OUHATTE LÓPEZ, ISMAEL",
+    "FERNANDEZ DE QUINCOCES VIVAR, GUILLERMO",
+    "MARTÍNEZ WILSON, SAMUEL",
+    "MESA DOMINGUEZ, MANUEL",
+    "OCAÑA MONTESINOS, ALVARO",
+    "MOYANO POSTIGO, ALVARO",
+    "PARRAS MARTINEZ, ALFREDO",
+    "DAWSON LOUMANDET, ANTHONY KYLE",
+    "GAITAN LOPEZ, RAUL",
+    "GONZALEZ NARBONA, CARLOS",
+    "BECKMAN, HARLEY JACK",
+    "LÓPEZ MORA LIMA, DIEGO",
+    "NAVAS RUIZ, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "SALCEDO GONZALEZ, RAUL",
+    "DOMINGUEZ VEGAS, ALEJANDRO",
+    "ESTEBAN GOMEZ, RAUL",
+    "SIMON VACA, MANUEL",
+    "WANNBERG, WICTOR",
+    "BOGUSLAWSKI, ALEKSAY VIKTOR",
+    "LOPEZ QUIROS, HUGO",
+    "TULIAN, MATEO",
+    "DRIOUECH LIAMANI, JABER",
+    "ROMERO SERRALVO, DANIEL",
+    "MOHAMED BONILLO, HAIZAM",
+    "CRESPILLO GONZALEZ, DAVID",
+    "HOLDEN, MAXIM RYAN",
+    "ORTIZ BLAZQUEZ, GUILLERMO",
+    "SANJUAN SANCHEZ, DAVID"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "GAITAN LOPEZ, RAUL",
+      "sale": "DAWSON LOUMANDET, ANTHONY KYLE"
+    },
+    {
+      "min": 60,
+      "entra": "GONZALEZ NARBONA, CARLOS",
+      "sale": "FERNANDEZ DE QUINCOCES VIVAR, GUILLERMO"
+    },
+    {
+      "min": 60,
+      "entra": "BECKMAN, HARLEY JACK",
+      "sale": "PARRAS MARTINEZ, ALFREDO"
+    },
+    {
+      "min": 64,
+      "entra": "LÓPEZ MORA LIMA, DIEGO",
+      "sale": "NOVALES PARODY, PABLO"
+    },
+    {
+      "min": 64,
+      "entra": "NAVAS RUIZ, DANIEL",
+      "sale": "OCAÑA MONTESINOS, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "CRESPILLO GONZALEZ, DAVID",
+      "sale": "LOPEZ QUIROS, HUGO"
+    },
+    {
+      "min": 79,
+      "entra": "HOLDEN, MAXIM RYAN",
+      "sale": "MOHAMED BONILLO, HAIZAM"
+    },
+    {
+      "min": 79,
+      "entra": "ORTIZ BLAZQUEZ, GUILLERMO",
+      "sale": "WANNBERG, WICTOR"
+    },
+    {
+      "min": 85,
+      "entra": "SANJUAN SANCHEZ, DAVID",
+      "sale": "SALCEDO GONZALEZ, RAUL"
+    }
+  ],
+  "minutos_jugadores": {
+    "CHAVES GONZALEZ, ALEXIS": 90,
+    "LOZANO CAMES, ANGEL": 90,
+    "NOVALES PARODY, PABLO": 64,
+    "OUHATTE LÓPEZ, ISMAEL": 90,
+    "FERNANDEZ DE QUINCOCES VIVAR, GUILLERMO": 60,
+    "MARTÍNEZ WILSON, SAMUEL": 90,
+    "MESA DOMINGUEZ, MANUEL": 90,
+    "OCAÑA MONTESINOS, ALVARO": 64,
+    "MOYANO POSTIGO, ALVARO": 90,
+    "PARRAS MARTINEZ, ALFREDO": 60,
+    "DAWSON LOUMANDET, ANTHONY KYLE": 45,
+    "SALCEDO GONZALEZ, RAUL": 85,
+    "DOMINGUEZ VEGAS, ALEJANDRO": 90,
+    "ESTEBAN GOMEZ, RAUL": 90,
+    "SIMON VACA, MANUEL": 90,
+    "WANNBERG, WICTOR": 79,
+    "BOGUSLAWSKI, ALEKSAY VIKTOR": 90,
+    "LOPEZ QUIROS, HUGO": 45,
+    "TULIAN, MATEO": 90,
+    "DRIOUECH LIAMANI, JABER": 90,
+    "ROMERO SERRALVO, DANIEL": 90,
+    "MOHAMED BONILLO, HAIZAM": 79,
+    "GAITAN LOPEZ, RAUL": 45,
+    "GONZALEZ NARBONA, CARLOS": 30,
+    "BECKMAN, HARLEY JACK": 30,
+    "LÓPEZ MORA LIMA, DIEGO": 26,
+    "NAVAS RUIZ, DANIEL": 26,
+    "CRESPILLO GONZALEZ, DAVID": 45,
+    "HOLDEN, MAXIM RYAN": 11,
+    "ORTIZ BLAZQUEZ, GUILLERMO": 11,
+    "SANJUAN SANCHEZ, DAVID": 5
+  },
+  "portero_local": "CHAVES GONZALEZ, ALEXIS",
+  "portero_visitante": "SALCEDO GONZALEZ, RAUL",
+  "dorsales_local": {
+    "CHAVES GONZALEZ, ALEXIS": 13,
+    "LOZANO CAMES, ANGEL": 3,
+    "NOVALES PARODY, PABLO": 5,
+    "OUHATTE LÓPEZ, ISMAEL": 7,
+    "FERNANDEZ DE QUINCOCES VIVAR, GUILLERMO": 8,
+    "MARTÍNEZ WILSON, SAMUEL": 9,
+    "MESA DOMINGUEZ, MANUEL": 10,
+    "OCAÑA MONTESINOS, ALVARO": 14,
+    "MOYANO POSTIGO, ALVARO": 15,
+    "PARRAS MARTINEZ, ALFREDO": 23,
+    "DAWSON LOUMANDET, ANTHONY KYLE": 24
+  },
+  "dorsales_visitante": {
+    "SALCEDO GONZALEZ, RAUL": 13,
+    "DOMINGUEZ VEGAS, ALEJANDRO": 2,
+    "ESTEBAN GOMEZ, RAUL": 3,
+    "SIMON VACA, MANUEL": 4,
+    "WANNBERG, WICTOR": 8,
+    "BOGUSLAWSKI, ALEKSAY VIKTOR": 12,
+    "LOPEZ QUIROS, HUGO": 14,
+    "TULIAN, MATEO": 16,
+    "DRIOUECH LIAMANI, JABER": 17,
+    "ROMERO SERRALVO, DANIEL": 21,
+    "MOHAMED BONILLO, HAIZAM": 23
+  },
+  "suspendidos": []
+}
