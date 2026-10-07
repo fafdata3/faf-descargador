@@ -9,7 +9,7 @@
   "categoria": "TERCERA FEDERACIÓN DE FÚTBOL FEMENINO (Grupo 16)",
   "equipo_local": "OYONESA",
   "equipo_visitante": "CALAHORRA",
-  "goles_local": 13,
+  "goles_local": 1,
   "goles_visitante": 0,
   "resultado": "W",
   "arbitros": [
@@ -33,85 +33,85 @@
     {
       "minuto": 17,
       "jugador": "RODRIGUEZ VILLADONIGA, ANIA",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "RODRIGUEZ HEREDIA, CARLA",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 25,
       "jugador": "RUIZ O SORIA, MARTINA",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "RUIZ O SORIA, MARTINA",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "BARTOLOME ANGULO, ZURIÑE",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 38,
       "jugador": "ANGULO FAJARDO, ALEJANDRA",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 57,
       "jugador": "ANGULO FAJARDO, ALEJANDRA",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 60,
       "jugador": "BARTOLOME ANGULO, ZURIÑE",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 62,
       "jugador": "SÁENZ MENDOZA, DIANA",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 64,
       "jugador": "ANGULO FAJARDO, ALEJANDRA",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 76,
       "jugador": "ALONSO GARCIA, CARMEN",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
       "minuto": 85,
       "jugador": "SÁENZ MENDOZA, DIANA",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     }
   ],
@@ -291,5 +291,6 @@
     "MARTINEZ LANA, ESTEFANIA": 15,
     "GUAMAN CHIMBAINA, TAMIA SISA": 16
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
