@@ -1,0 +1,214 @@
+{
+  "acta_id": "C_171333",
+  "filename": "Acta_C_171333.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 20,
+  "fecha": "10-02-2024",
+  "hora": "15:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. TROPEZON B",
+  "equipo_visitante": "C.D. AMISTAD SNIACE B",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "VIDIELLA CABRIA, DANIEL"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "VARON SANCHEZ, CESAR",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 64,
+      "jugador": "GONZALEZ SAIZ, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 17,
+      "jugador": "COBO MARTINEZ, KELLYAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 36,
+      "jugador": "COBO MARTINEZ, KELLYAN",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GUTIERREZ GUTIERREZ, DAVID",
+  "entrenador_visitante": "PALAZUELOS TRUEBA, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GONZALEZ ARENAL, PEDRO",
+  "delegado_campo_local": "MARTIN GONZALEZ, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTIN GONZALEZ, JAVIER",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "GONZALEZ SAIZ, IKER",
+    "PEREZ PINILLA, EMILIO",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "CALDERON SAIZ, ALVARO",
+    "RODEÑO DIAZ, GABRIEL",
+    "GALLO POZUETA, ALVARO",
+    "pachon garcia, DIEGO",
+    "VARON SANCHEZ, CESAR",
+    "DIAZ CORONA, MARCOS",
+    "MARTIN RUIZ, PABLO"
+  ],
+  "titulares_visitante": [
+    "LASO MARTINEZ, ADRIAN",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "SAEZ PEREZ, LUCAS",
+    "BARRIO OBREGON, IZAN",
+    "GOMEZ NUÑEZ, IKER",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL",
+    "SILIO FERNANDEZ, MAURO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "suplentes_local": [
+    "LOPEZ CAYON, BORJA",
+    "DE DIEGO RUBAYO, SAUL",
+    "GOITIA GUTIERREZ, PABLO"
+  ],
+  "suplentes_visitante": [
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "DAHHAOUI RACHID, YAKOUB"
+  ],
+  "convocados_sin_jugar_local": [
+    "LOPEZ CAYON, BORJA"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "GONZALEZ SAIZ, IKER",
+    "PEREZ PINILLA, EMILIO",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "CALDERON SAIZ, ALVARO",
+    "RODEÑO DIAZ, GABRIEL",
+    "GALLO POZUETA, ALVARO",
+    "pachon garcia, DIEGO",
+    "VARON SANCHEZ, CESAR",
+    "DIAZ CORONA, MARCOS",
+    "MARTIN RUIZ, PABLO",
+    "DE DIEGO RUBAYO, SAUL",
+    "GOITIA GUTIERREZ, PABLO"
+  ],
+  "jugadores_visitante": [
+    "LASO MARTINEZ, ADRIAN",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "SAEZ PEREZ, LUCAS",
+    "BARRIO OBREGON, IZAN",
+    "GOMEZ NUÑEZ, IKER",
+    "GOMEZ BOLADO, MIGUEL",
+    "PERNIA RODRIGUEZ, JOEL",
+    "SILIO FERNANDEZ, MAURO",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "DAHHAOUI RACHID, YAKOUB"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "DE DIEGO RUBAYO, SAUL",
+      "sale": "pachon garcia, DIEGO"
+    },
+    {
+      "min": 60,
+      "entra": "GOITIA GUTIERREZ, PABLO",
+      "sale": "MARTIN RUIZ, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "CUADRADO PEREZ RUBIN, MATEO",
+      "sale": "MOURA REVUELTA, ROMEO"
+    },
+    {
+      "min": 67,
+      "entra": "DAHHAOUI RACHID, YAKOUB",
+      "sale": "ALONSO Melo, Ruben"
+    }
+  ],
+  "minutos_jugadores": {
+    "DE LA FUENTE CAYUSO, NICOLAS": 90,
+    "GONZALEZ SAIZ, IKER": 90,
+    "PEREZ PINILLA, EMILIO": 90,
+    "GUTIERREZ MARTINEZ, ALVARO": 90,
+    "CALDERON SAIZ, ALVARO": 90,
+    "RODEÑO DIAZ, GABRIEL": 90,
+    "GALLO POZUETA, ALVARO": 90,
+    "pachon garcia, DIEGO": 56,
+    "VARON SANCHEZ, CESAR": 90,
+    "DIAZ CORONA, MARCOS": 90,
+    "MARTIN RUIZ, PABLO": 60,
+    "DE DIEGO RUBAYO, SAUL": 34,
+    "GOITIA GUTIERREZ, PABLO": 30,
+    "LASO MARTINEZ, ADRIAN": 90,
+    "ALONSO Melo, Ruben": 67,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "SAEZ PEREZ, LUCAS": 90,
+    "BARRIO OBREGON, IZAN": 90,
+    "GOMEZ NUÑEZ, IKER": 90,
+    "GOMEZ BOLADO, MIGUEL": 90,
+    "PERNIA RODRIGUEZ, JOEL": 90,
+    "SILIO FERNANDEZ, MAURO": 90,
+    "MOURA REVUELTA, ROMEO": 58,
+    "COBO MARTINEZ, KELLYAN": 90,
+    "CUADRADO PEREZ RUBIN, MATEO": 32,
+    "DAHHAOUI RACHID, YAKOUB": 23
+  },
+  "portero_local": "DE LA FUENTE CAYUSO, NICOLAS",
+  "portero_visitante": "LASO MARTINEZ, ADRIAN",
+  "dorsales_local": {
+    "DE LA FUENTE CAYUSO, NICOLAS": 1,
+    "GONZALEZ SAIZ, IKER": 5,
+    "PEREZ PINILLA, EMILIO": 6,
+    "GUTIERREZ MARTINEZ, ALVARO": 8,
+    "CALDERON SAIZ, ALVARO": 9,
+    "RODEÑO DIAZ, GABRIEL": 10,
+    "GALLO POZUETA, ALVARO": 11,
+    "pachon garcia, DIEGO": 12,
+    "VARON SANCHEZ, CESAR": 14,
+    "DIAZ CORONA, MARCOS": 18,
+    "MARTIN RUIZ, PABLO": 22
+  },
+  "dorsales_visitante": {
+    "LASO MARTINEZ, ADRIAN": 13,
+    "ALONSO Melo, Ruben": 3,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "SAEZ PEREZ, LUCAS": 8,
+    "BARRIO OBREGON, IZAN": 10,
+    "GOMEZ NUÑEZ, IKER": 11,
+    "GOMEZ BOLADO, MIGUEL": 12,
+    "PERNIA RODRIGUEZ, JOEL": 17,
+    "SILIO FERNANDEZ, MAURO": 19,
+    "MOURA REVUELTA, ROMEO": 20,
+    "COBO MARTINEZ, KELLYAN": 22
+  },
+  "suspendidos": [
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "_marcador_widget": true
+}
