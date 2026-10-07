@@ -23,53 +23,53 @@
       "minuto": 4,
       "jugador": "PORRES RAYA, ALBERTO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "NIEVES ESCORZA, ALEX",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 46,
       "jugador": "GARRIDO BASTIDA, SERGIO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 48,
       "jugador": "STUPARU RUCEA, ANDRES VALENTIN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 50,
       "jugador": "GOMEZ CARRILLO, DANIEL",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 57,
       "jugador": "PORRES RAYA, ALBERTO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 59,
       "jugador": "GOMEZ CARRILLO, DANIEL",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": true
     }
   ],
   "tarjetas": [
-    {
-      "minuto": 17,
-      "jugador": "OLAVARRIETA NESTARES, JOSE M",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
     {
       "minuto": 26,
       "jugador": "TEIXEIRA PEREIRA, NUNO FILIPE",
@@ -81,13 +81,6 @@
       "minuto": 59,
       "jugador": "VILLACIS PANCHI, ALEX JOEL",
       "equipo": "local",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 59,
-      "jugador": "RIOJA SALA B",
-      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     }
