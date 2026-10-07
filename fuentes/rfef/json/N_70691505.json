@@ -9,9 +9,9 @@
   "categoria": "Torneo Juvenil Femenino - Fase Final (FASE FINAL)",
   "equipo_local": "REAL SOCIEDAD DE FÚTBOL",
   "equipo_visitante": "SPORT LISBOA E BENFICA",
-  "goles_local": 1,
+  "goles_local": 2,
   "goles_visitante": 2,
-  "resultado": "L",
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO",
     "SOLLA MONTES, ALVARO",
@@ -29,25 +29,29 @@
       "minuto": 17,
       "jugador": "MONTEIRO SARAIVA, IARA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 25,
       "jugador": "GONÇALVES DE MATOS, MATILDE",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "GONZALEZ SERON, HELENA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 48,
       "jugador": "ECHEVERRIA SAINZ, ALAIA",
-      "equipo": "?",
-      "propia": false
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -138,26 +142,10 @@
   ],
   "convocados_sin_jugar_local": [
     "FERRERO PEREZ, EIDER",
-    "LASA BARANDIARAN, LIBE",
-    "MARTIN VICENTE, OIHANA",
-    "PLAZAOLA CANSECO, MADDI",
-    "ECHEVERRIA SAINZ, ALAIA",
     "AZKOITIA ARAMENDI, JARE",
-    "MERINO GOIBURU, UXUE",
-    "SARASOLA SANCHEZ, AIORA",
-    "MOSTAJO OLLO, MARIA"
+    "MERINO GOIBURU, UXUE"
   ],
-  "convocados_sin_jugar_visitante": [
-    "NASCIMENTO MACEDO, SARA MARIA",
-    "DURAN DELGADO, CAROLINA",
-    "DE BRITO PEREIRA BAIAO, EVA",
-    "TAVARES ROLNIK, GABRIELA",
-    "MADUREIRA DE ALMEIDA, DIANA AMORIM",
-    "DIDELET NERI PEREIRA, CATARINA DUARTE",
-    "MARIANO EDMUNDO GASPAR, LUANA CHITAO",
-    "DA SILVA DIAS VARELA, INES ALEXANDRA",
-    "ASCENSO ARRAIANO, KARINA MARIE"
-  ],
+  "convocados_sin_jugar_visitante": [],
   "jugadores_local": [
     "BERGANZA FIDALGO, ANDREA",
     "VIDAL PEDROUZO, NOA",
@@ -169,7 +157,13 @@
     "GALARRAGA ALONSO, IRATI",
     "MURILLO SOLANAS, JUNE",
     "MONTERO SAN VICENTE, NOA",
-    "CHACON PESO, CARLOTA"
+    "CHACON PESO, CARLOTA",
+    "ECHEVERRIA SAINZ, ALAIA",
+    "MARTIN VICENTE, OIHANA",
+    "LASA BARANDIARAN, LIBE",
+    "MOSTAJO OLLO, MARIA",
+    "SARASOLA SANCHEZ, AIORA",
+    "PLAZAOLA CANSECO, MADDI"
   ],
   "jugadores_visitante": [
     "BRANCO INACIO, MARIANA",
@@ -182,33 +176,134 @@
     "BARATA MARQUES ROSA, MATILDE ANTUNES",
     "GONÇALVES DE MATOS, MATILDE",
     "DIDELET NERI PEREIRA, BEATRIZ DUARTE",
-    "GOMES FERNANDES, CRISTINA"
+    "GOMES FERNANDES, CRISTINA",
+    "DIDELET NERI PEREIRA, CATARINA DUARTE",
+    "NASCIMENTO MACEDO, SARA MARIA",
+    "TAVARES ROLNIK, GABRIELA",
+    "ASCENSO ARRAIANO, KARINA MARIE",
+    "MARIANO EDMUNDO GASPAR, LUANA CHITAO",
+    "MADUREIRA DE ALMEIDA, DIANA AMORIM",
+    "DE BRITO PEREIRA BAIAO, EVA",
+    "DA SILVA DIAS VARELA, INES ALEXANDRA",
+    "DURAN DELGADO, CAROLINA"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "ECHEVERRIA SAINZ, ALAIA",
+      "sale": "MUGABURE DOS SANTOS, PATRICIA"
+    },
+    {
+      "min": 44,
+      "entra": "MARTIN VICENTE, OIHANA",
+      "sale": "GALARRAGA ALONSO, IRATI"
+    },
+    {
+      "min": 44,
+      "entra": "LASA BARANDIARAN, LIBE",
+      "sale": "MONTERO SAN VICENTE, NOA"
+    },
+    {
+      "min": 44,
+      "entra": "MOSTAJO OLLO, MARIA",
+      "sale": "MURILLO SOLANAS, JUNE"
+    },
+    {
+      "min": 56,
+      "entra": "SARASOLA SANCHEZ, AIORA",
+      "sale": "VIDAL PEDROUZO, NOA"
+    },
+    {
+      "min": 65,
+      "entra": "PLAZAOLA CANSECO, MADDI",
+      "sale": "CARRERA ALDALUR, AIARA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "DIDELET NERI PEREIRA, CATARINA DUARTE",
+      "sale": "DIDELET NERI PEREIRA, BEATRIZ DUARTE"
+    },
+    {
+      "min": 35,
+      "entra": "NASCIMENTO MACEDO, SARA MARIA",
+      "sale": "BRANCO INACIO, MARIANA"
+    },
+    {
+      "min": 35,
+      "entra": "TAVARES ROLNIK, GABRIELA",
+      "sale": "BARATA MARQUES ROSA, MATILDE ANTUNES"
+    },
+    {
+      "min": 35,
+      "entra": "ASCENSO ARRAIANO, KARINA MARIE",
+      "sale": "ALMEIDA MARTINS LOUÇAO, MADALENA"
+    },
+    {
+      "min": 35,
+      "entra": "MARIANO EDMUNDO GASPAR, LUANA CHITAO",
+      "sale": "GOMES FERNANDES, CRISTINA"
+    },
+    {
+      "min": 49,
+      "entra": "MADUREIRA DE ALMEIDA, DIANA AMORIM",
+      "sale": "ANDRES-LUNA SCHÄFER, ARIANA"
+    },
+    {
+      "min": 49,
+      "entra": "DE BRITO PEREIRA BAIAO, EVA",
+      "sale": "GONÇALVES DE MATOS, MATILDE"
+    },
+    {
+      "min": 49,
+      "entra": "DA SILVA DIAS VARELA, INES ALEXANDRA",
+      "sale": "MONTEIRO SARAIVA, IARA"
+    },
+    {
+      "min": 49,
+      "entra": "DURAN DELGADO, CAROLINA",
+      "sale": "BEATRIZ GUERREIRO, SOFIA"
+    }
+  ],
   "minutos_jugadores": {
     "BERGANZA FIDALGO, ANDREA": 90,
-    "VIDAL PEDROUZO, NOA": 90,
+    "VIDAL PEDROUZO, NOA": 56,
     "GONZALEZ SERON, HELENA": 90,
-    "CARRERA ALDALUR, AIARA": 90,
-    "MUGABURE DOS SANTOS, PATRICIA": 90,
+    "CARRERA ALDALUR, AIARA": 65,
+    "MUGABURE DOS SANTOS, PATRICIA": 44,
     "ESTEBERENA MERINO, MAREN": 90,
     "ARRONDO AZKONA, INTZA": 90,
-    "GALARRAGA ALONSO, IRATI": 90,
-    "MURILLO SOLANAS, JUNE": 90,
-    "MONTERO SAN VICENTE, NOA": 90,
+    "GALARRAGA ALONSO, IRATI": 44,
+    "MURILLO SOLANAS, JUNE": 44,
+    "MONTERO SAN VICENTE, NOA": 44,
     "CHACON PESO, CARLOTA": 90,
-    "BRANCO INACIO, MARIANA": 90,
-    "BEATRIZ GUERREIRO, SOFIA": 90,
+    "BRANCO INACIO, MARIANA": 35,
+    "BEATRIZ GUERREIRO, SOFIA": 49,
     "DE MATOS VITORINO, RAQUEL": 90,
-    "ANDRES-LUNA SCHÄFER, ARIANA": 90,
+    "ANDRES-LUNA SCHÄFER, ARIANA": 49,
     "MARGARIDA HORTA MARQUES, ANA": 90,
-    "MONTEIRO SARAIVA, IARA": 90,
-    "ALMEIDA MARTINS LOUÇAO, MADALENA": 90,
-    "BARATA MARQUES ROSA, MATILDE ANTUNES": 90,
-    "GONÇALVES DE MATOS, MATILDE": 90,
-    "DIDELET NERI PEREIRA, BEATRIZ DUARTE": 90,
-    "GOMES FERNANDES, CRISTINA": 90
+    "MONTEIRO SARAIVA, IARA": 49,
+    "ALMEIDA MARTINS LOUÇAO, MADALENA": 35,
+    "BARATA MARQUES ROSA, MATILDE ANTUNES": 35,
+    "GONÇALVES DE MATOS, MATILDE": 49,
+    "DIDELET NERI PEREIRA, BEATRIZ DUARTE": 35,
+    "GOMES FERNANDES, CRISTINA": 35,
+    "ECHEVERRIA SAINZ, ALAIA": 46,
+    "MARTIN VICENTE, OIHANA": 46,
+    "LASA BARANDIARAN, LIBE": 46,
+    "MOSTAJO OLLO, MARIA": 46,
+    "SARASOLA SANCHEZ, AIORA": 34,
+    "PLAZAOLA CANSECO, MADDI": 25,
+    "DIDELET NERI PEREIRA, CATARINA DUARTE": 55,
+    "NASCIMENTO MACEDO, SARA MARIA": 55,
+    "TAVARES ROLNIK, GABRIELA": 55,
+    "ASCENSO ARRAIANO, KARINA MARIE": 55,
+    "MARIANO EDMUNDO GASPAR, LUANA CHITAO": 55,
+    "MADUREIRA DE ALMEIDA, DIANA AMORIM": 41,
+    "DE BRITO PEREIRA BAIAO, EVA": 41,
+    "DA SILVA DIAS VARELA, INES ALEXANDRA": 41,
+    "DURAN DELGADO, CAROLINA": 41
   },
   "portero_local": "BERGANZA FIDALGO, ANDREA",
   "portero_visitante": "GONÇALVES DE MATOS, MATILDE",
