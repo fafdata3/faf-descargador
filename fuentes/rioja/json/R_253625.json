@@ -23,43 +23,50 @@
       "minuto": 23,
       "jugador": "MARUGAL YANGUAS, ANGEL G",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "VALER PEREZ, MARTIN",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 40,
       "jugador": "LADRON GALILEA, ALEJANDRO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 43,
       "jugador": "STUPARU RUCEA, ANDRES VALENTIN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": true
     },
     {
       "minuto": 52,
       "jugador": "VALER PEREZ, MARTIN",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 59,
       "jugador": "SAN MILLAN SANCHEZ, BORJA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 59,
       "jugador": "NIEVES ESCORZA, ALEX",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -67,27 +74,6 @@
       "minuto": 29,
       "jugador": "LACALLE JIMENEZ, MARIO",
       "equipo": "local",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 57,
-      "jugador": "REINARES IBAÑEZ, MIGUEL",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 59,
-      "jugador": "NIEVES ESCORZA, ALEX",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 59,
-      "jugador": "COSMOS FS LA ESTRELLA B",
-      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     },
@@ -103,20 +89,6 @@
       "jugador": "GHAILAN BEN LACHHAB, NOSSAYR",
       "equipo": "visitante",
       "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 44,
-      "jugador": "LADRON GALILEA, ALEJANDRO",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 44,
-      "jugador": "LADRON GALILEA, ALEJANDRO",
-      "equipo": "?",
-      "tipo": "doble_amarilla",
       "destinatario": "jugador"
     },
     {
@@ -225,8 +197,6 @@
     "LOPEZ A RUBIO, LUIS": 22,
     "EL AOUAD RAKBA, ISMAEL": 91
   },
-  "suspendidos": [
-    "LADRON GALILEA, ALEJANDRO"
-  ],
+  "suspendidos": [],
   "_marcador_widget": true
 }
