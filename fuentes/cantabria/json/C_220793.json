@@ -1,0 +1,259 @@
+{
+  "acta_id": "C_220793",
+  "filename": "Acta_C_220793.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 20,
+  "fecha": "15-02-2026",
+  "hora": "13:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GARCIA RUBIO, JOEL"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "IGLESIAS SANTIAGO, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 29,
+      "jugador": "FUNARIU, DAVID IULIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "SAMPEDRO GUTIERREZ, LEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "PERNIA FERNANDEZ, IVAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "DIESTRO PEREZ, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DORRONSORO GONZALEZ, ALBERTO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DORRONSORO OBREGON, PEDRO MARIA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DORRONSORO OBREGON, PEDRO MARIA",
+  "delegado_equipo_visitante": "MARTINEZ CASTRO, ADRIAN",
+  "titulares_local": [
+    "GOMEZ VILLANUEVA, ADRIAN",
+    "ARTECHE PEREZ, DIEGO",
+    "DIESTRO PEREZ, MARIO",
+    "FUNARIU, DAVID IULIAN",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "ANDRES GARCIA, CARLOS",
+    "VILLEGAS AIZPURUA, ASIER",
+    "POLANCO RUIZ, MARCOS",
+    "COVARRUBIAS MARTIN, LUCAS",
+    "SAMPEDRO GUTIERREZ, LEO"
+  ],
+  "titulares_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MÚGICA BLANCO, HUGO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "LUQUE MARTINEZ, AIMAR",
+    "CIEZA PEREZ, ASIER",
+    "MENDARO TERAN, LUIS",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "IGLESIAS SANTIAGO, JULEN",
+    "GUERRA MIRANDA, MARTÍN",
+    "ABARRATEGUI GONZÁLEZ, JAIME"
+  ],
+  "suplentes_local": [
+    "BLANCO GUTIERREZ, ANDER",
+    "DEL RIO PELLICER, MARCO",
+    "PERNIA FERNANDEZ, IVAN",
+    "LÓPEZ CASTANEDO, MARIO",
+    "GARCIA DE LA RASILLA PEREZ, MARTIN"
+  ],
+  "suplentes_visitante": [
+    "SANCHEZ CUEVAS, SERGIO",
+    "RUIZ LOBETO, IZAN",
+    "ORSOLINI PALENCIA, MARIO",
+    "MOUSSAID MAKRANE, MOHAMED AMIR",
+    "RODICIO DE LA GRANJA, ANDRÉS"
+  ],
+  "convocados_sin_jugar_local": [
+    "BLANCO GUTIERREZ, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GOMEZ VILLANUEVA, ADRIAN",
+    "ARTECHE PEREZ, DIEGO",
+    "DIESTRO PEREZ, MARIO",
+    "FUNARIU, DAVID IULIAN",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "ANDRES GARCIA, CARLOS",
+    "VILLEGAS AIZPURUA, ASIER",
+    "POLANCO RUIZ, MARCOS",
+    "COVARRUBIAS MARTIN, LUCAS",
+    "SAMPEDRO GUTIERREZ, LEO",
+    "PERNIA FERNANDEZ, IVAN",
+    "DEL RIO PELLICER, MARCO",
+    "LÓPEZ CASTANEDO, MARIO",
+    "GARCIA DE LA RASILLA PEREZ, MARTIN"
+  ],
+  "jugadores_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "MÚGICA BLANCO, HUGO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "LUQUE MARTINEZ, AIMAR",
+    "CIEZA PEREZ, ASIER",
+    "MENDARO TERAN, LUIS",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "IGLESIAS SANTIAGO, JULEN",
+    "GUERRA MIRANDA, MARTÍN",
+    "ABARRATEGUI GONZÁLEZ, JAIME",
+    "ORSOLINI PALENCIA, MARIO",
+    "SANCHEZ CUEVAS, SERGIO",
+    "RUIZ LOBETO, IZAN",
+    "MOUSSAID MAKRANE, MOHAMED AMIR",
+    "RODICIO DE LA GRANJA, ANDRÉS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 39,
+      "entra": "PERNIA FERNANDEZ, IVAN",
+      "sale": "COVARRUBIAS MARTIN, LUCAS"
+    },
+    {
+      "min": 39,
+      "entra": "DEL RIO PELLICER, MARCO",
+      "sale": "LOMBILLA FERNANDEZ, HUGO"
+    },
+    {
+      "min": 39,
+      "entra": "LÓPEZ CASTANEDO, MARIO",
+      "sale": "ARTECHE PEREZ, DIEGO"
+    },
+    {
+      "min": 53,
+      "entra": "GARCIA DE LA RASILLA PEREZ, MARTIN",
+      "sale": "VILLEGAS AIZPURUA, ASIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "ORSOLINI PALENCIA, MARIO",
+      "sale": "TRIGO SANTOS, ALEJANDRO"
+    },
+    {
+      "min": 47,
+      "entra": "SANCHEZ CUEVAS, SERGIO",
+      "sale": "MAYORDOMO NAVARRO, CRISTIAN"
+    },
+    {
+      "min": 47,
+      "entra": "RUIZ LOBETO, IZAN",
+      "sale": "ABARRATEGUI GONZÁLEZ, JAIME"
+    },
+    {
+      "min": 51,
+      "entra": "MOUSSAID MAKRANE, MOHAMED AMIR",
+      "sale": "LUQUE MARTINEZ, AIMAR"
+    },
+    {
+      "min": 51,
+      "entra": "RODICIO DE LA GRANJA, ANDRÉS",
+      "sale": "IGLESIAS SANTIAGO, JULEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ VILLANUEVA, ADRIAN": 90,
+    "ARTECHE PEREZ, DIEGO": 39,
+    "DIESTRO PEREZ, MARIO": 90,
+    "FUNARIU, DAVID IULIAN": 90,
+    "LOMBILLA FERNANDEZ, HUGO": 39,
+    "DE LA TORRE MARQUEZ, LUCAS": 90,
+    "ANDRES GARCIA, CARLOS": 90,
+    "VILLEGAS AIZPURUA, ASIER": 53,
+    "POLANCO RUIZ, MARCOS": 90,
+    "COVARRUBIAS MARTIN, LUCAS": 39,
+    "SAMPEDRO GUTIERREZ, LEO": 90,
+    "PERNIA FERNANDEZ, IVAN": 51,
+    "DEL RIO PELLICER, MARCO": 51,
+    "LÓPEZ CASTANEDO, MARIO": 51,
+    "GARCIA DE LA RASILLA PEREZ, MARTIN": 37,
+    "TRIGO SANTOS, ALEJANDRO": 35,
+    "MÚGICA BLANCO, HUGO": 90,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 90,
+    "LUQUE MARTINEZ, AIMAR": 51,
+    "CIEZA PEREZ, ASIER": 90,
+    "MENDARO TERAN, LUIS": 90,
+    "MAYORDOMO NAVARRO, CRISTIAN": 47,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 90,
+    "IGLESIAS SANTIAGO, JULEN": 51,
+    "GUERRA MIRANDA, MARTÍN": 90,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 47,
+    "ORSOLINI PALENCIA, MARIO": 55,
+    "SANCHEZ CUEVAS, SERGIO": 43,
+    "RUIZ LOBETO, IZAN": 43,
+    "MOUSSAID MAKRANE, MOHAMED AMIR": 39,
+    "RODICIO DE LA GRANJA, ANDRÉS": 39
+  },
+  "portero_local": "GOMEZ VILLANUEVA, ADRIAN",
+  "portero_visitante": "TRIGO SANTOS, ALEJANDRO",
+  "dorsales_local": {
+    "GOMEZ VILLANUEVA, ADRIAN": 1,
+    "ARTECHE PEREZ, DIEGO": 2,
+    "DIESTRO PEREZ, MARIO": 3,
+    "FUNARIU, DAVID IULIAN": 6,
+    "LOMBILLA FERNANDEZ, HUGO": 7,
+    "DE LA TORRE MARQUEZ, LUCAS": 9,
+    "ANDRES GARCIA, CARLOS": 11,
+    "VILLEGAS AIZPURUA, ASIER": 15,
+    "POLANCO RUIZ, MARCOS": 20,
+    "COVARRUBIAS MARTIN, LUCAS": 21,
+    "SAMPEDRO GUTIERREZ, LEO": 22
+  },
+  "dorsales_visitante": {
+    "TRIGO SANTOS, ALEJANDRO": 1,
+    "MÚGICA BLANCO, HUGO": 3,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 4,
+    "LUQUE MARTINEZ, AIMAR": 7,
+    "CIEZA PEREZ, ASIER": 8,
+    "MENDARO TERAN, LUIS": 11,
+    "MAYORDOMO NAVARRO, CRISTIAN": 15,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 16,
+    "IGLESIAS SANTIAGO, JULEN": 17,
+    "GUERRA MIRANDA, MARTÍN": 18,
+    "ABARRATEGUI GONZÁLEZ, JAIME": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
