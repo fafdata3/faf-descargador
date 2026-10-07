@@ -23,41 +23,39 @@
       "minuto": 1,
       "jugador": "RIOS MONTIEL, JAVIER",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 6,
       "jugador": "RIOS MONTIEL, JAVIER",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 18,
       "jugador": "PANGUA VALLECILLO, RICARDO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 24,
       "jugador": "URTURI OLIVAN, CHRISTIAN",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "PANGUA VALLECILLO, RICARDO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
-    {
-      "minuto": 16,
-      "jugador": "DOS SANTOS CLARA, JOSE ORLANDO",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
     {
       "minuto": 37,
       "jugador": "MARTINEZ CASADO, JAVIER",
@@ -66,44 +64,9 @@
       "destinatario": "jugador"
     },
     {
-      "minuto": 58,
-      "jugador": "CORZANA IJALBA, SANTIAGO",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 58,
-      "jugador": "SAN VICENTE DE LA SONSIERRA FSC",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 27,
-      "jugador": "PANGUA PALACIOS, PABLO",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
       "minuto": 27,
       "jugador": "BENIGNO PECIÑA, JOSE L",
       "equipo": "visitante",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 40,
-      "jugador": "PANGUA VALLECILLO, RICARDO",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 42,
-      "jugador": "CRESPO GAMEZ, BRYAN",
-      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     }
