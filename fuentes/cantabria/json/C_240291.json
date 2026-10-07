@@ -1,0 +1,242 @@
+{
+  "acta_id": "C_240291",
+  "filename": "Acta_C_240291.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "27-09-2026",
+  "hora": "11:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. CALASANZ A",
+  "equipo_visitante": "CLUB BANSANDER B",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PINTEA PINTEA, MIHAI"
+  ],
+  "estadio": "Comp. Albericia (B)",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "LOZANO PURAS, ARNAU",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "FEBRERO DOSAL, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "PRADA DE MIGUEL, DARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "CORDERO ARAMBURU, SIMON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 30,
+      "jugador": "GONZALEZ PEREZ, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "BRUÑA GALLO, JUAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DIEGO BOCOS, ALVARO",
+  "entrenador_visitante": "SUAREZ BEDIA, RICARDO",
+  "segundo_entrenador_local": "PEREZ MUNGUIA, DANIEL",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DE LA MEDIA CUBINO, MARCELINO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DE LA MEDIA CUBINO, MARCELINO",
+  "delegado_equipo_visitante": "DELGADO FERNANDEZ, ADRIAN",
+  "titulares_local": [
+    "POMBO GONZALEZ, JACOBO",
+    "BELLO MARTINEZ, DAVID SAMUEL",
+    "GONZALEZ PEREZ, DIEGO",
+    "MARTINEZ SARACHAGA, LUCAS",
+    "FEBRERO DOSAL, DANIEL",
+    "SOBERON GARCIA, DIEGO",
+    "FERRERAS CARRILLO DE ALBORNOZ, JUAN",
+    "VIGUERA GARCIA, GUILLERMO",
+    "BRUÑA GALLO, JUAN",
+    "ALONSO FUENTE, IÑIGO",
+    "VIADERO CAHVES, GUILLERMO"
+  ],
+  "titulares_visitante": [
+    "GIL MEDINA, ALEJANDRO",
+    "QUINTANA RUIZ, ANGEL",
+    "FERNANDEZ LOPEZ, RAUL",
+    "ANUARBE CANTERO, ANDER",
+    "PRADA DE MIGUEL, DARIO",
+    "ABASCAL BUDIÑO, MIGUEL",
+    "MAZA CANO, MARTIN",
+    "GOMEZ FREIJE, RODRIGO",
+    "MARCOS PEREDO, MARIO",
+    "CORDERO ARAMBURU, SIMON",
+    "LOZANO PURAS, ARNAU"
+  ],
+  "suplentes_local": [
+    "PEÑA MARTIN, MARCO",
+    "CERUTI SANCHEZ, JUAN"
+  ],
+  "suplentes_visitante": [
+    "REVUELTA FERNÁNDEZ, NECO",
+    "DEL VALLE COBO, MARTIN",
+    "DIEZ CAAMAÑO, JAVIER",
+    "FOMPEROSA GARCÍA, LEO",
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "REVUELTA FERNÁNDEZ, NECO"
+  ],
+  "jugadores_local": [
+    "POMBO GONZALEZ, JACOBO",
+    "BELLO MARTINEZ, DAVID SAMUEL",
+    "GONZALEZ PEREZ, DIEGO",
+    "MARTINEZ SARACHAGA, LUCAS",
+    "FEBRERO DOSAL, DANIEL",
+    "SOBERON GARCIA, DIEGO",
+    "FERRERAS CARRILLO DE ALBORNOZ, JUAN",
+    "VIGUERA GARCIA, GUILLERMO",
+    "BRUÑA GALLO, JUAN",
+    "ALONSO FUENTE, IÑIGO",
+    "VIADERO CAHVES, GUILLERMO",
+    "CERUTI SANCHEZ, JUAN",
+    "PEÑA MARTIN, MARCO"
+  ],
+  "jugadores_visitante": [
+    "GIL MEDINA, ALEJANDRO",
+    "QUINTANA RUIZ, ANGEL",
+    "FERNANDEZ LOPEZ, RAUL",
+    "ANUARBE CANTERO, ANDER",
+    "PRADA DE MIGUEL, DARIO",
+    "ABASCAL BUDIÑO, MIGUEL",
+    "MAZA CANO, MARTIN",
+    "GOMEZ FREIJE, RODRIGO",
+    "MARCOS PEREDO, MARIO",
+    "CORDERO ARAMBURU, SIMON",
+    "LOZANO PURAS, ARNAU",
+    "FOMPEROSA GARCÍA, LEO",
+    "DIEZ CAAMAÑO, JAVIER",
+    "DEL VALLE COBO, MARTIN",
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "CERUTI SANCHEZ, JUAN",
+      "sale": "VIADERO CAHVES, GUILLERMO"
+    },
+    {
+      "min": 60,
+      "entra": "PEÑA MARTIN, MARCO",
+      "sale": "VIGUERA GARCIA, GUILLERMO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "FOMPEROSA GARCÍA, LEO",
+      "sale": "FERNANDEZ LOPEZ, RAUL"
+    },
+    {
+      "min": 55,
+      "entra": "DIEZ CAAMAÑO, JAVIER",
+      "sale": "GOMEZ FREIJE, RODRIGO"
+    },
+    {
+      "min": 60,
+      "entra": "DEL VALLE COBO, MARTIN",
+      "sale": "PRADA DE MIGUEL, DARIO"
+    },
+    {
+      "min": 60,
+      "entra": "GARCIA DE LA RASILLA PALACIOS, SERGIO",
+      "sale": "ANUARBE CANTERO, ANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "POMBO GONZALEZ, JACOBO": 90,
+    "BELLO MARTINEZ, DAVID SAMUEL": 90,
+    "GONZALEZ PEREZ, DIEGO": 90,
+    "MARTINEZ SARACHAGA, LUCAS": 90,
+    "FEBRERO DOSAL, DANIEL": 90,
+    "SOBERON GARCIA, DIEGO": 90,
+    "FERRERAS CARRILLO DE ALBORNOZ, JUAN": 90,
+    "VIGUERA GARCIA, GUILLERMO": 60,
+    "BRUÑA GALLO, JUAN": 90,
+    "ALONSO FUENTE, IÑIGO": 90,
+    "VIADERO CAHVES, GUILLERMO": 53,
+    "CERUTI SANCHEZ, JUAN": 37,
+    "PEÑA MARTIN, MARCO": 30,
+    "GIL MEDINA, ALEJANDRO": 90,
+    "QUINTANA RUIZ, ANGEL": 90,
+    "FERNANDEZ LOPEZ, RAUL": 51,
+    "ANUARBE CANTERO, ANDER": 60,
+    "PRADA DE MIGUEL, DARIO": 60,
+    "ABASCAL BUDIÑO, MIGUEL": 90,
+    "MAZA CANO, MARTIN": 90,
+    "GOMEZ FREIJE, RODRIGO": 55,
+    "MARCOS PEREDO, MARIO": 90,
+    "CORDERO ARAMBURU, SIMON": 90,
+    "LOZANO PURAS, ARNAU": 90,
+    "FOMPEROSA GARCÍA, LEO": 39,
+    "DIEZ CAAMAÑO, JAVIER": 35,
+    "DEL VALLE COBO, MARTIN": 30,
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO": 30
+  },
+  "portero_local": "POMBO GONZALEZ, JACOBO",
+  "portero_visitante": "GIL MEDINA, ALEJANDRO",
+  "dorsales_local": {
+    "POMBO GONZALEZ, JACOBO": 1,
+    "BELLO MARTINEZ, DAVID SAMUEL": 2,
+    "GONZALEZ PEREZ, DIEGO": 3,
+    "MARTINEZ SARACHAGA, LUCAS": 4,
+    "FEBRERO DOSAL, DANIEL": 5,
+    "SOBERON GARCIA, DIEGO": 6,
+    "FERRERAS CARRILLO DE ALBORNOZ, JUAN": 7,
+    "VIGUERA GARCIA, GUILLERMO": 8,
+    "BRUÑA GALLO, JUAN": 9,
+    "ALONSO FUENTE, IÑIGO": 10,
+    "VIADERO CAHVES, GUILLERMO": 11
+  },
+  "dorsales_visitante": {
+    "GIL MEDINA, ALEJANDRO": 13,
+    "QUINTANA RUIZ, ANGEL": 4,
+    "FERNANDEZ LOPEZ, RAUL": 10,
+    "ANUARBE CANTERO, ANDER": 17,
+    "PRADA DE MIGUEL, DARIO": 18,
+    "ABASCAL BUDIÑO, MIGUEL": 19,
+    "MAZA CANO, MARTIN": 21,
+    "GOMEZ FREIJE, RODRIGO": 22,
+    "MARCOS PEREDO, MARIO": 97,
+    "CORDERO ARAMBURU, SIMON": 98,
+    "LOZANO PURAS, ARNAU": 99
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
