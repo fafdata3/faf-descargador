@@ -1,0 +1,285 @@
+{
+  "acta_id": "10053516",
+  "filename": "Acta_10053516.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "27-09-2026",
+  "hora": "12:00",
+  "categoria": "CADETE DE HONOR / KADETEEN OHOREZKO MAILA (GRUPO - 1)",
+  "equipo_local": "IPAR ARRIAGA GASTEIZ, C.D. A",
+  "equipo_visitante": "ELPROEX ETXEZARRA",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "GARCIA ARMENTIA, IÑIGO"
+  ],
+  "estadio": "LA VITORIANA-1",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "PAYO MBANG, LIONEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "PEREZ OLIVEIRA, OIHAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "PAYO MBANG, LIONEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "GARCIA DOS SANTOS, ALEX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "RAMOS ROBLES, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "LOPEZ DE HEREDIA CONTRERAS, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RAMOS ROBLES, IKER",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "GARCIA VILLA, ARMANDO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LASARTE RUIZ DE MENDAROZQUETA, SERGIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "OLIVER MEDINA, PEDRO ANTONIO",
+  "delegado_equipo_visitante": "FERNANDEZ FERNANDEZ, JOSE MANUEL",
+  "titulares_local": [
+    "PALOS CAMBERO, ABEL",
+    "MORENO SANCHEZ, FRANCISCO",
+    "GARCIA DOS SANTOS, ALEX",
+    "MORAL SILVA, IKER",
+    "MEJIA ESPINOZA, SAULO ESAU",
+    "LOPEZ DE HEREDIA CONTRERAS, MARKEL",
+    "JARONES MARTINEZ, IGOR",
+    "GALICIA PARRA, JUAN ESTEBAN",
+    "CASTILLEJO BARTOLOME, XABIER",
+    "FRANCISCO DE EUSEBIO, ENZO",
+    "PEREZ OLIVEIRA, OIHAN"
+  ],
+  "titulares_visitante": [
+    "DIEZ JORNA, LEO",
+    "LOPEZ DE ABECHUCO GUTIERREZ, OIER",
+    "PAYO MBANG, LIONEL",
+    "ALONSO BECERRA, HUGO",
+    "LOPEZ LARRAÑAGA, LUKEN",
+    "ESPINOZA JAURI, MATHIAS GERAY",
+    "SAEZ DE ASTEASU HERRERO, IZEI",
+    "MIJANCOS LOPEZ, ALVARO",
+    "FERNANDEZ FERNANDEZ, XABIER",
+    "NAVARRO ARGUIBAY, JOSEBA",
+    "GALAN CEREZO, JON"
+  ],
+  "suplentes_local": [
+    "MUÑOZ DE PABLO, AMETZ",
+    "CORIA SAENZ, ENEKO",
+    "DOMINGUEZ EGUILUZ, MARKEL",
+    "GALLEGO ELEJALDE, UNAX",
+    "RAMOS BEDOYA, IÑIGO",
+    "MENDIGUREN RAMOS, AIMAR"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ DE GAMBOA GARCIA, MARIO",
+    "MORAZA PEREZ, UNAX",
+    "UGARABE RUIZ DE GAONA, OINATZ",
+    "GAÑAN HIDALGO, ANDER",
+    "BORRELL GONZALEZ, MARKEL",
+    "SOTO AZPIAZU, ADRIAN",
+    "LOPEZ RAMALLO, SAMUEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "MUÑOZ DE PABLO, AMETZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BORRELL GONZALEZ, MARKEL"
+  ],
+  "jugadores_local": [
+    "PALOS CAMBERO, ABEL",
+    "MORENO SANCHEZ, FRANCISCO",
+    "GARCIA DOS SANTOS, ALEX",
+    "MORAL SILVA, IKER",
+    "MEJIA ESPINOZA, SAULO ESAU",
+    "LOPEZ DE HEREDIA CONTRERAS, MARKEL",
+    "JARONES MARTINEZ, IGOR",
+    "GALICIA PARRA, JUAN ESTEBAN",
+    "CASTILLEJO BARTOLOME, XABIER",
+    "FRANCISCO DE EUSEBIO, ENZO",
+    "PEREZ OLIVEIRA, OIHAN",
+    "CORIA SAENZ, ENEKO",
+    "MENDIGUREN RAMOS, AIMAR",
+    "GALLEGO ELEJALDE, UNAX",
+    "RAMOS BEDOYA, IÑIGO",
+    "DOMINGUEZ EGUILUZ, MARKEL"
+  ],
+  "jugadores_visitante": [
+    "DIEZ JORNA, LEO",
+    "LOPEZ DE ABECHUCO GUTIERREZ, OIER",
+    "PAYO MBANG, LIONEL",
+    "ALONSO BECERRA, HUGO",
+    "LOPEZ LARRAÑAGA, LUKEN",
+    "ESPINOZA JAURI, MATHIAS GERAY",
+    "SAEZ DE ASTEASU HERRERO, IZEI",
+    "MIJANCOS LOPEZ, ALVARO",
+    "FERNANDEZ FERNANDEZ, XABIER",
+    "NAVARRO ARGUIBAY, JOSEBA",
+    "GALAN CEREZO, JON",
+    "SOTO AZPIAZU, ADRIAN",
+    "MORAZA PEREZ, UNAX",
+    "UGARABE RUIZ DE GAONA, OINATZ",
+    "GAÑAN HIDALGO, ANDER",
+    "LOPEZ RAMALLO, SAMUEL",
+    "FERNANDEZ DE GAMBOA GARCIA, MARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "CORIA SAENZ, ENEKO",
+      "sale": "FRANCISCO DE EUSEBIO, ENZO"
+    },
+    {
+      "min": 54,
+      "entra": "MENDIGUREN RAMOS, AIMAR",
+      "sale": "CASTILLEJO BARTOLOME, XABIER"
+    },
+    {
+      "min": 54,
+      "entra": "GALLEGO ELEJALDE, UNAX",
+      "sale": "MORENO SANCHEZ, FRANCISCO"
+    },
+    {
+      "min": 62,
+      "entra": "RAMOS BEDOYA, IÑIGO",
+      "sale": "GALICIA PARRA, JUAN ESTEBAN"
+    },
+    {
+      "min": 69,
+      "entra": "DOMINGUEZ EGUILUZ, MARKEL",
+      "sale": "PEREZ OLIVEIRA, OIHAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SOTO AZPIAZU, ADRIAN",
+      "sale": "FERNANDEZ FERNANDEZ, XABIER"
+    },
+    {
+      "min": 40,
+      "entra": "MORAZA PEREZ, UNAX",
+      "sale": "ESPINOZA JAURI, MATHIAS GERAY"
+    },
+    {
+      "min": 40,
+      "entra": "UGARABE RUIZ DE GAONA, OINATZ",
+      "sale": "LOPEZ LARRAÑAGA, LUKEN"
+    },
+    {
+      "min": 40,
+      "entra": "GAÑAN HIDALGO, ANDER",
+      "sale": "GALAN CEREZO, JON"
+    },
+    {
+      "min": 57,
+      "entra": "LOPEZ RAMALLO, SAMUEL",
+      "sale": "NAVARRO ARGUIBAY, JOSEBA"
+    },
+    {
+      "min": 69,
+      "entra": "FERNANDEZ DE GAMBOA GARCIA, MARIO",
+      "sale": "ALONSO BECERRA, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PALOS CAMBERO, ABEL": 90,
+    "MORENO SANCHEZ, FRANCISCO": 54,
+    "GARCIA DOS SANTOS, ALEX": 90,
+    "MORAL SILVA, IKER": 90,
+    "MEJIA ESPINOZA, SAULO ESAU": 90,
+    "LOPEZ DE HEREDIA CONTRERAS, MARKEL": 90,
+    "JARONES MARTINEZ, IGOR": 90,
+    "GALICIA PARRA, JUAN ESTEBAN": 62,
+    "CASTILLEJO BARTOLOME, XABIER": 54,
+    "FRANCISCO DE EUSEBIO, ENZO": 54,
+    "PEREZ OLIVEIRA, OIHAN": 69,
+    "CORIA SAENZ, ENEKO": 36,
+    "MENDIGUREN RAMOS, AIMAR": 36,
+    "GALLEGO ELEJALDE, UNAX": 36,
+    "RAMOS BEDOYA, IÑIGO": 28,
+    "DOMINGUEZ EGUILUZ, MARKEL": 21,
+    "DIEZ JORNA, LEO": 90,
+    "LOPEZ DE ABECHUCO GUTIERREZ, OIER": 90,
+    "PAYO MBANG, LIONEL": 90,
+    "ALONSO BECERRA, HUGO": 69,
+    "LOPEZ LARRAÑAGA, LUKEN": 40,
+    "ESPINOZA JAURI, MATHIAS GERAY": 40,
+    "SAEZ DE ASTEASU HERRERO, IZEI": 90,
+    "MIJANCOS LOPEZ, ALVARO": 90,
+    "FERNANDEZ FERNANDEZ, XABIER": 40,
+    "NAVARRO ARGUIBAY, JOSEBA": 57,
+    "GALAN CEREZO, JON": 40,
+    "SOTO AZPIAZU, ADRIAN": 50,
+    "MORAZA PEREZ, UNAX": 50,
+    "UGARABE RUIZ DE GAONA, OINATZ": 50,
+    "GAÑAN HIDALGO, ANDER": 50,
+    "LOPEZ RAMALLO, SAMUEL": 33,
+    "FERNANDEZ DE GAMBOA GARCIA, MARIO": 21
+  },
+  "portero_local": "PALOS CAMBERO, ABEL",
+  "portero_visitante": "DIEZ JORNA, LEO",
+  "dorsales_local": {
+    "PALOS CAMBERO, ABEL": 13,
+    "MORENO SANCHEZ, FRANCISCO": 3,
+    "GARCIA DOS SANTOS, ALEX": 4,
+    "MORAL SILVA, IKER": 5,
+    "MEJIA ESPINOZA, SAULO ESAU": 6,
+    "LOPEZ DE HEREDIA CONTRERAS, MARKEL": 9,
+    "JARONES MARTINEZ, IGOR": 12,
+    "GALICIA PARRA, JUAN ESTEBAN": 14,
+    "CASTILLEJO BARTOLOME, XABIER": 17,
+    "FRANCISCO DE EUSEBIO, ENZO": 20,
+    "PEREZ OLIVEIRA, OIHAN": 22
+  },
+  "dorsales_visitante": {
+    "DIEZ JORNA, LEO": 1,
+    "LOPEZ DE ABECHUCO GUTIERREZ, OIER": 3,
+    "PAYO MBANG, LIONEL": 4,
+    "ALONSO BECERRA, HUGO": 5,
+    "LOPEZ LARRAÑAGA, LUKEN": 8,
+    "ESPINOZA JAURI, MATHIAS GERAY": 10,
+    "SAEZ DE ASTEASU HERRERO, IZEI": 11,
+    "MIJANCOS LOPEZ, ALVARO": 14,
+    "FERNANDEZ FERNANDEZ, XABIER": 17,
+    "NAVARRO ARGUIBAY, JOSEBA": 19,
+    "GALAN CEREZO, JON": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
