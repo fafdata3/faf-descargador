@@ -1,0 +1,272 @@
+{
+  "acta_id": "B_9981303",
+  "filename": "Acta_B_9981303.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "31-01-2026",
+  "hora": "17:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ASTI-LEKU A",
+  "equipo_visitante": "ERANDIO A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "LOPEZ CASTRO, ASIER"
+  ],
+  "estadio": "LOS LLANOS",
+  "ciudad": "Portugalete",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "MARTIN MENDIOLA, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "MARTIN MENDIOLA, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "VADILLO CASTRILLEJO, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 29,
+      "jugador": "ELEXPURU GOMEZ, GORKA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "MERINO CURIEL, JULEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 32,
+      "jugador": "GONZALEZ ROJAS, OMAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MERINO CURIEL, MIGUEL",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "QUINTANO NIETO, EKAITZ",
+  "delegado_campo_local": "IDIAÑEZ BERASTEGUI, EKAIN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MERINO CURIEL, JULEN",
+  "delegado_equipo_visitante": "GONZALEZ GONZALEZ, ERLANTZ",
+  "titulares_local": [
+    "DEL RIO GIL, MARKEL",
+    "CUÑADO AIZPURU, JOSU",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "ELORZA CORRALES, IÑAKI",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "MURGA FERNANDEZ, LANDER",
+    "QUIROS DEL MOLINO, ENEKO",
+    "FERNANDEZ GONZALEZ, OIER",
+    "LORENTE PRADO, ANER"
+  ],
+  "titulares_visitante": [
+    "GONZALEZ BAZACO, MARKEL",
+    "CLAVERO OTAOLA, ALEX",
+    "GONZALEZ ROJAS, OMAR",
+    "POSADA ENRIQUEZ, ENAITZ",
+    "SANTOS GARCIA, ERLANTZ",
+    "GIL FERNANDEZ, MARCOS",
+    "MARTIN MENDIOLA, UNAX",
+    "ESPINA LOIZAGA, ALAIN",
+    "DIABATE MICHA, MIGUEL AMARA",
+    "CABIDA ALCORTA, KERMAN",
+    "SERRANO ROCHA, JON ANDER"
+  ],
+  "suplentes_local": [
+    "BAZ LUQUE, JÖEL",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "PLANS DE DIEGO, LEZO",
+    "ORRANTIA ORTIZ DE ZARATE, GORKA",
+    "FERNANDEZ CARIDAD, ENEKO",
+    "CALVO PEÑAFIEL, ASIER",
+    "HERNANDO MIELGO, URKO"
+  ],
+  "suplentes_visitante": [
+    "BONATXEA BERISTAIN, HEGOI",
+    "DOÑABEITIA RODRIGUEZ, XABIER",
+    "GARCIA DEL ARCO, IKER",
+    "VAZQUEZ MANRIQUE, AITOR",
+    "SANCHEZ MARTINEZ, DIEGO",
+    "RIVAS MARTIN, LUKEN"
+  ],
+  "convocados_sin_jugar_local": [
+    "BAZ LUQUE, JÖEL",
+    "ORRANTIA ORTIZ DE ZARATE, GORKA",
+    "FERNANDEZ CARIDAD, ENEKO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BONATXEA BERISTAIN, HEGOI"
+  ],
+  "jugadores_local": [
+    "DEL RIO GIL, MARKEL",
+    "CUÑADO AIZPURU, JOSU",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "ELORZA CORRALES, IÑAKI",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "MURGA FERNANDEZ, LANDER",
+    "QUIROS DEL MOLINO, ENEKO",
+    "FERNANDEZ GONZALEZ, OIER",
+    "LORENTE PRADO, ANER",
+    "HERNANDO MIELGO, URKO",
+    "CALVO PEÑAFIEL, ASIER",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "PLANS DE DIEGO, LEZO"
+  ],
+  "jugadores_visitante": [
+    "GONZALEZ BAZACO, MARKEL",
+    "CLAVERO OTAOLA, ALEX",
+    "GONZALEZ ROJAS, OMAR",
+    "POSADA ENRIQUEZ, ENAITZ",
+    "SANTOS GARCIA, ERLANTZ",
+    "GIL FERNANDEZ, MARCOS",
+    "MARTIN MENDIOLA, UNAX",
+    "ESPINA LOIZAGA, ALAIN",
+    "DIABATE MICHA, MIGUEL AMARA",
+    "CABIDA ALCORTA, KERMAN",
+    "SERRANO ROCHA, JON ANDER",
+    "GARCIA DEL ARCO, IKER",
+    "RIVAS MARTIN, LUKEN",
+    "VAZQUEZ MANRIQUE, AITOR",
+    "SANCHEZ MARTINEZ, DIEGO",
+    "DOÑABEITIA RODRIGUEZ, XABIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "HERNANDO MIELGO, URKO",
+      "sale": "ELEXPURU GOMEZ, GORKA"
+    },
+    {
+      "min": 52,
+      "entra": "CALVO PEÑAFIEL, ASIER",
+      "sale": "LORENTE PRADO, ANER"
+    },
+    {
+      "min": 71,
+      "entra": "ALCANTARA IBAÑEZ, BEÑAT",
+      "sale": "FERNANDEZ GONZALEZ, OIER"
+    },
+    {
+      "min": 71,
+      "entra": "PLANS DE DIEGO, LEZO",
+      "sale": "MURGA FERNANDEZ, LANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "GARCIA DEL ARCO, IKER",
+      "sale": "GONZALEZ ROJAS, OMAR"
+    },
+    {
+      "min": 61,
+      "entra": "RIVAS MARTIN, LUKEN",
+      "sale": "MARTIN MENDIOLA, UNAX"
+    },
+    {
+      "min": 61,
+      "entra": "VAZQUEZ MANRIQUE, AITOR",
+      "sale": "GIL FERNANDEZ, MARCOS"
+    },
+    {
+      "min": 77,
+      "entra": "SANCHEZ MARTINEZ, DIEGO",
+      "sale": "POSADA ENRIQUEZ, ENAITZ"
+    },
+    {
+      "min": 77,
+      "entra": "DOÑABEITIA RODRIGUEZ, XABIER",
+      "sale": "ESPINA LOIZAGA, ALAIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "DEL RIO GIL, MARKEL": 90,
+    "CUÑADO AIZPURU, JOSU": 90,
+    "ABAD MEDIAVILLA, LIHER": 90,
+    "ELEXPURU GOMEZ, GORKA": 52,
+    "ELORZA CORRALES, IÑAKI": 90,
+    "VADILLO CASTRILLEJO, JON": 90,
+    "FORTEA BARABINO, MATEO": 90,
+    "MURGA FERNANDEZ, LANDER": 71,
+    "QUIROS DEL MOLINO, ENEKO": 90,
+    "FERNANDEZ GONZALEZ, OIER": 71,
+    "LORENTE PRADO, ANER": 52,
+    "HERNANDO MIELGO, URKO": 38,
+    "CALVO PEÑAFIEL, ASIER": 38,
+    "ALCANTARA IBAÑEZ, BEÑAT": 19,
+    "PLANS DE DIEGO, LEZO": 19,
+    "GONZALEZ BAZACO, MARKEL": 90,
+    "CLAVERO OTAOLA, ALEX": 90,
+    "GONZALEZ ROJAS, OMAR": 52,
+    "POSADA ENRIQUEZ, ENAITZ": 77,
+    "SANTOS GARCIA, ERLANTZ": 90,
+    "GIL FERNANDEZ, MARCOS": 61,
+    "MARTIN MENDIOLA, UNAX": 61,
+    "ESPINA LOIZAGA, ALAIN": 77,
+    "DIABATE MICHA, MIGUEL AMARA": 90,
+    "CABIDA ALCORTA, KERMAN": 90,
+    "SERRANO ROCHA, JON ANDER": 90,
+    "GARCIA DEL ARCO, IKER": 38,
+    "RIVAS MARTIN, LUKEN": 29,
+    "VAZQUEZ MANRIQUE, AITOR": 29,
+    "SANCHEZ MARTINEZ, DIEGO": 13,
+    "DOÑABEITIA RODRIGUEZ, XABIER": 13
+  },
+  "portero_local": "DEL RIO GIL, MARKEL",
+  "portero_visitante": "GONZALEZ BAZACO, MARKEL",
+  "dorsales_local": {
+    "DEL RIO GIL, MARKEL": 1,
+    "CUÑADO AIZPURU, JOSU": 3,
+    "ABAD MEDIAVILLA, LIHER": 5,
+    "ELEXPURU GOMEZ, GORKA": 6,
+    "ELORZA CORRALES, IÑAKI": 9,
+    "VADILLO CASTRILLEJO, JON": 10,
+    "FORTEA BARABINO, MATEO": 11,
+    "MURGA FERNANDEZ, LANDER": 15,
+    "QUIROS DEL MOLINO, ENEKO": 18,
+    "FERNANDEZ GONZALEZ, OIER": 19,
+    "LORENTE PRADO, ANER": 20
+  },
+  "dorsales_visitante": {
+    "GONZALEZ BAZACO, MARKEL": 13,
+    "CLAVERO OTAOLA, ALEX": 2,
+    "GONZALEZ ROJAS, OMAR": 5,
+    "POSADA ENRIQUEZ, ENAITZ": 6,
+    "SANTOS GARCIA, ERLANTZ": 7,
+    "GIL FERNANDEZ, MARCOS": 8,
+    "MARTIN MENDIOLA, UNAX": 9,
+    "ESPINA LOIZAGA, ALAIN": 11,
+    "DIABATE MICHA, MIGUEL AMARA": 19,
+    "CABIDA ALCORTA, KERMAN": 20,
+    "SERRANO ROCHA, JON ANDER": 22
+  },
+  "suspendidos": []
+}
