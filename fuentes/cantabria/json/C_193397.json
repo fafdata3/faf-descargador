@@ -1,0 +1,291 @@
+{
+  "acta_id": "C_193397",
+  "filename": "Acta_C_193397.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "09-11-2024",
+  "hora": "10:45",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT A",
+  "equipo_visitante": "R.S. GIMNASTICA A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DE LA FUENTE RAMIREZ, JAVIER"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "DIAZ TRESGALLO, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "VALLIN CHURIAQUE, HECTOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "GUTIERREZ GARCIA, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "GOMEZ SAN MARTIN, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "REDRUELLO GONZALEZ, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "URIBE DELGADO, MARCO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "GOMEZ SAN MARTIN, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "CUESTA SANZ, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "COBO HERRERA, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "REDRUELLO GONZALEZ, ALVARO",
+  "entrenador_visitante": "FIGUEROA MONS, ALVARO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ARGOS BOLADO, GONZALO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARGOS BOLADO, GONZALO",
+  "delegado_equipo_visitante": "LOMBARDO PEREZ, JUAN",
+  "titulares_local": [
+    "ROJO ARRANZ, JAVIER",
+    "VERDEJA GONZALEZ, JORGE",
+    "LOPEZ GARZON, LEO",
+    "BOLLOQUE PRIETO, TRISTAN",
+    "URIBE DELGADO, MARCO",
+    "GUTIERREZ GARCIA, MARTIN",
+    "ELOLA BADOLATO, JACOBO",
+    "RODICIO VALENZUELA, DIEGO",
+    "DÍAZ-GUARDAMINO SANTOS, GABRIEL",
+    "BARRIO RODRIGUEZ, DIEGO",
+    "BARCENA MUÑOZ, SANTIAGO"
+  ],
+  "titulares_visitante": [
+    "CRESPO SANZ, HECTOR",
+    "CRESPO VELA, AITOR",
+    "AGUDO IBAÑEZ, CARLOS DANIEL",
+    "HERRERO GIL, BRUNO",
+    "LASO FERNANDEZ, IKER",
+    "VALLIN CHURIAQUE, HECTOR",
+    "DIAZ TRESGALLO, MARIO",
+    "CUESTA SANZ, PABLO",
+    "MORANTE GONZALEZ, RUBEN",
+    "ALONSO HERNANDEZ, PABLO",
+    "RUIZ SAIZ, DANIEL"
+  ],
+  "suplentes_local": [
+    "MOROGLU OYARBIDE, LEO",
+    "GARCIA SAINZ, LUCAS",
+    "SOBERON GARCIA, DIEGO",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "GOMEZ SAN MARTIN, NICOLAS"
+  ],
+  "suplentes_visitante": [
+    "PAREDES GONZÁLEZ, ERIC",
+    "COBO HERRERA, PABLO",
+    "REPOILA MARTINEZ, IAN",
+    "LOPEZ CAMPO, MANUEL",
+    "PORTILLA SALMON, BRUNO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ROJO ARRANZ, JAVIER",
+    "VERDEJA GONZALEZ, JORGE",
+    "LOPEZ GARZON, LEO",
+    "BOLLOQUE PRIETO, TRISTAN",
+    "URIBE DELGADO, MARCO",
+    "GUTIERREZ GARCIA, MARTIN",
+    "ELOLA BADOLATO, JACOBO",
+    "RODICIO VALENZUELA, DIEGO",
+    "DÍAZ-GUARDAMINO SANTOS, GABRIEL",
+    "BARRIO RODRIGUEZ, DIEGO",
+    "BARCENA MUÑOZ, SANTIAGO",
+    "GOMEZ SAN MARTIN, NICOLAS",
+    "MOROGLU OYARBIDE, LEO",
+    "SOBERON GARCIA, DIEGO",
+    "GARCIA SAINZ, LUCAS",
+    "FERNANDEZ NAVAMUEL, JENS"
+  ],
+  "jugadores_visitante": [
+    "CRESPO SANZ, HECTOR",
+    "CRESPO VELA, AITOR",
+    "AGUDO IBAÑEZ, CARLOS DANIEL",
+    "HERRERO GIL, BRUNO",
+    "LASO FERNANDEZ, IKER",
+    "VALLIN CHURIAQUE, HECTOR",
+    "DIAZ TRESGALLO, MARIO",
+    "CUESTA SANZ, PABLO",
+    "MORANTE GONZALEZ, RUBEN",
+    "ALONSO HERNANDEZ, PABLO",
+    "RUIZ SAIZ, DANIEL",
+    "LOPEZ CAMPO, MANUEL",
+    "REPOILA MARTINEZ, IAN",
+    "PORTILLA SALMON, BRUNO",
+    "COBO HERRERA, PABLO",
+    "PAREDES GONZÁLEZ, ERIC"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 34,
+      "entra": "GOMEZ SAN MARTIN, NICOLAS",
+      "sale": "LOPEZ GARZON, LEO"
+    },
+    {
+      "min": 35,
+      "entra": "MOROGLU OYARBIDE, LEO",
+      "sale": "ROJO ARRANZ, JAVIER"
+    },
+    {
+      "min": 47,
+      "entra": "SOBERON GARCIA, DIEGO",
+      "sale": "URIBE DELGADO, MARCO"
+    },
+    {
+      "min": 47,
+      "entra": "GARCIA SAINZ, LUCAS",
+      "sale": "DÍAZ-GUARDAMINO SANTOS, GABRIEL"
+    },
+    {
+      "min": 47,
+      "entra": "FERNANDEZ NAVAMUEL, JENS",
+      "sale": "SOBERON GARCIA, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 43,
+      "entra": "LOPEZ CAMPO, MANUEL",
+      "sale": "CUESTA SANZ, PABLO"
+    },
+    {
+      "min": 43,
+      "entra": "REPOILA MARTINEZ, IAN",
+      "sale": "RUIZ SAIZ, DANIEL"
+    },
+    {
+      "min": 43,
+      "entra": "PORTILLA SALMON, BRUNO",
+      "sale": "VALLIN CHURIAQUE, HECTOR"
+    },
+    {
+      "min": 46,
+      "entra": "COBO HERRERA, PABLO",
+      "sale": "DIAZ TRESGALLO, MARIO"
+    },
+    {
+      "min": 46,
+      "entra": "PAREDES GONZÁLEZ, ERIC",
+      "sale": "AGUDO IBAÑEZ, CARLOS DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "ROJO ARRANZ, JAVIER": 35,
+    "VERDEJA GONZALEZ, JORGE": 90,
+    "LOPEZ GARZON, LEO": 34,
+    "BOLLOQUE PRIETO, TRISTAN": 90,
+    "URIBE DELGADO, MARCO": 47,
+    "GUTIERREZ GARCIA, MARTIN": 90,
+    "ELOLA BADOLATO, JACOBO": 90,
+    "RODICIO VALENZUELA, DIEGO": 90,
+    "DÍAZ-GUARDAMINO SANTOS, GABRIEL": 47,
+    "BARRIO RODRIGUEZ, DIEGO": 90,
+    "BARCENA MUÑOZ, SANTIAGO": 90,
+    "GOMEZ SAN MARTIN, NICOLAS": 56,
+    "MOROGLU OYARBIDE, LEO": 55,
+    "SOBERON GARCIA, DIEGO": 47,
+    "GARCIA SAINZ, LUCAS": 43,
+    "FERNANDEZ NAVAMUEL, JENS": 43,
+    "CRESPO SANZ, HECTOR": 90,
+    "CRESPO VELA, AITOR": 90,
+    "AGUDO IBAÑEZ, CARLOS DANIEL": 46,
+    "HERRERO GIL, BRUNO": 90,
+    "LASO FERNANDEZ, IKER": 90,
+    "VALLIN CHURIAQUE, HECTOR": 43,
+    "DIAZ TRESGALLO, MARIO": 46,
+    "CUESTA SANZ, PABLO": 43,
+    "MORANTE GONZALEZ, RUBEN": 90,
+    "ALONSO HERNANDEZ, PABLO": 90,
+    "RUIZ SAIZ, DANIEL": 43,
+    "LOPEZ CAMPO, MANUEL": 47,
+    "REPOILA MARTINEZ, IAN": 47,
+    "PORTILLA SALMON, BRUNO": 47,
+    "COBO HERRERA, PABLO": 44,
+    "PAREDES GONZÁLEZ, ERIC": 44
+  },
+  "portero_local": "ROJO ARRANZ, JAVIER",
+  "portero_visitante": "CRESPO SANZ, HECTOR",
+  "dorsales_local": {
+    "ROJO ARRANZ, JAVIER": 13,
+    "VERDEJA GONZALEZ, JORGE": 2,
+    "LOPEZ GARZON, LEO": 4,
+    "BOLLOQUE PRIETO, TRISTAN": 5,
+    "URIBE DELGADO, MARCO": 7,
+    "GUTIERREZ GARCIA, MARTIN": 8,
+    "ELOLA BADOLATO, JACOBO": 10,
+    "RODICIO VALENZUELA, DIEGO": 11,
+    "DÍAZ-GUARDAMINO SANTOS, GABRIEL": 12,
+    "BARRIO RODRIGUEZ, DIEGO": 14,
+    "BARCENA MUÑOZ, SANTIAGO": 15
+  },
+  "dorsales_visitante": {
+    "CRESPO SANZ, HECTOR": 1,
+    "CRESPO VELA, AITOR": 2,
+    "AGUDO IBAÑEZ, CARLOS DANIEL": 3,
+    "HERRERO GIL, BRUNO": 4,
+    "LASO FERNANDEZ, IKER": 7,
+    "VALLIN CHURIAQUE, HECTOR": 8,
+    "DIAZ TRESGALLO, MARIO": 9,
+    "CUESTA SANZ, PABLO": 11,
+    "MORANTE GONZALEZ, RUBEN": 14,
+    "ALONSO HERNANDEZ, PABLO": 15,
+    "RUIZ SAIZ, DANIEL": 18
+  },
+  "suspendidos": []
+}
