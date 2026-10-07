@@ -9,8 +9,8 @@
   "categoria": "SENIOR FÚTBOL SALA - 1ª FASE (Grupo 1)",
   "equipo_local": "SAN VICENTE DE LA SONSIERRA FSC",
   "equipo_visitante": "MONACO Café San Mateo",
-  "goles_local": 2,
-  "goles_visitante": 1,
+  "goles_local": 7,
+  "goles_visitante": 3,
   "resultado": "W",
   "arbitros": [
     "Árbitro Principal",
@@ -23,93 +23,74 @@
       "minuto": 11,
       "jugador": "MATEO LUMBRERAS, SANTIAGO J",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "MORENO OCHOA, JORGE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 24,
       "jugador": "PANGUA PALACIOS, PABLO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 27,
       "jugador": "PANGUA PALACIOS, PABLO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "BENIGNO PECIÑA, JOSE L",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "PEREZ MIRO, ALVARO",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 37,
       "jugador": "PANGUA PALACIOS, PABLO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 51,
       "jugador": "LOPEZ ESPINOSA, PABLO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 53,
       "jugador": "GOROSTIAGA PANGUA, UNAI",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 56,
       "jugador": "BENIGNO PECIÑA, JOSE L",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
-  "tarjetas": [
-    {
-      "minuto": 22,
-      "jugador": "PANGUA VALLECILLO, RICARDO",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 42,
-      "jugador": "PANGUA VALLECILLO, RICARDO",
-      "equipo": "?",
-      "tipo": "doble_amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 42,
-      "jugador": "MONACO Café San Mateo",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 9,
-      "jugador": "ESTEFANIA LACALZADA, GONZALO",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    }
-  ],
+  "tarjetas": [],
   "entrenador_local": null,
   "entrenador_visitante": "LÓPEZ JIMÉNEZ, DAVID",
   "segundo_entrenador_local": null,
@@ -210,7 +191,6 @@
     "MORRAS LUNA, VICTOR": 11,
     "AREVALO FERNANDEZ, ENRIQUE": 14
   },
-  "suspendidos": [
-    "PANGUA VALLECILLO, RICARDO"
-  ]
+  "suspendidos": [],
+  "_marcador_widget": true
 }
