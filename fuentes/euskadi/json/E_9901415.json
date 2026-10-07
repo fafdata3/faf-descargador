@@ -1,0 +1,258 @@
+{
+  "acta_id": "E_9901415",
+  "filename": "Acta_E_9901415.txt",
+  "fuente": "euskadi",
+  "temporada": "2024-2025",
+  "jornada": 34,
+  "fecha": "01-06-2025",
+  "hora": "10:30",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2024/25)",
+  "equipo_local": "ANTIGUOKO KIROL ELKARTEA",
+  "equipo_visitante": "TOLOSA CLUB DE FUTBOL",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ZAMARRON ROYUELA, ENEKO"
+  ],
+  "estadio": "BERIO",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 58,
+      "jugador": "DE LUCAS GARCIA, XANET",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "ALCALA ZABALA, XABIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "ESKITXABEL MARICHALAR, XUBAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CHACARTEGUI MARIN, JOSE LUIS",
+  "entrenador_visitante": "REGILLAGA BELOKI, ION",
+  "segundo_entrenador_local": "CHAPARRO CURRAS, RUBEN",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PEDRAZ PEDROSA, SERGIO",
+  "delegado_equipo_visitante": "ROPERO MAESTRO, RAUL",
+  "titulares_local": [
+    "PECIÑA MARTIN, UNAX",
+    "ESTAR SANCHEZ, GAEL",
+    "MARTINEZ AGUIRREZABALA, IBAI",
+    "VIÑOLAS SALUSTIANO, IGNACIO",
+    "GONZALEZ PEREZ-EGEA, ANDER",
+    "URRESTARAZU OSAMBELA, HODEI",
+    "MANCISIDOR MATEO, OIER",
+    "SALGADO CASTRO, XABIER",
+    "VILANOVA GONZALEZ, NICOLAS",
+    "BELOKI IZAGIRRE, JON",
+    "ESPINOSA AYASTUY, HUGO"
+  ],
+  "titulares_visitante": [
+    "ESTEVEZ MUGICA, XABAT",
+    "JIMENEZ ARRECHE, TELMO",
+    "ESKITXABEL MARICHALAR, XUBAN",
+    "GURRUTXAGA LEZEA, ODEI",
+    "OTEGUI LASA, IKER",
+    "BALERDI MENDIZABAL, UNAX",
+    "DE LUCAS GARCIA, XANET",
+    "ORUEZABAL AMONDARAIN, BEÑAT",
+    "SERNA GOMEZ, JAKES",
+    "MERINO AIZPURU, ANDER",
+    "GOMEZ IZAGUIRRE, TEDDY"
+  ],
+  "suplentes_local": [
+    "SANCHEZ LAPIDO, JULEN",
+    "DAHAN GUILISAGASTI, ITZEL",
+    "RUBIO ALONSO, OIHAN",
+    "IZAGIRRE JUANENA, ENETZ",
+    "SAN JUAN RODRIGUEZ, TXOMIN",
+    "UGARTE ALBERDI, HARRIET",
+    "NIÑO VEGAS, IKER"
+  ],
+  "suplentes_visitante": [
+    "VALERON EGUIGUREN, UNAI",
+    "GOROSTIDI MARTINEZ, EKI",
+    "ACEDO REGUILLAGA, MANEX",
+    "SAIZAR DIAZ, UNAX",
+    "IRAETA ARROSPIDE, AIERT",
+    "ALCALA ZABALA, XABIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "SANCHEZ LAPIDO, JULEN",
+    "SAN JUAN RODRIGUEZ, TXOMIN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "VALERON EGUIGUREN, UNAI"
+  ],
+  "jugadores_local": [
+    "PECIÑA MARTIN, UNAX",
+    "ESTAR SANCHEZ, GAEL",
+    "MARTINEZ AGUIRREZABALA, IBAI",
+    "VIÑOLAS SALUSTIANO, IGNACIO",
+    "GONZALEZ PEREZ-EGEA, ANDER",
+    "URRESTARAZU OSAMBELA, HODEI",
+    "MANCISIDOR MATEO, OIER",
+    "SALGADO CASTRO, XABIER",
+    "VILANOVA GONZALEZ, NICOLAS",
+    "BELOKI IZAGIRRE, JON",
+    "ESPINOSA AYASTUY, HUGO",
+    "UGARTE ALBERDI, HARRIET",
+    "NIÑO VEGAS, IKER",
+    "RUBIO ALONSO, OIHAN",
+    "DAHAN GUILISAGASTI, ITZEL",
+    "IZAGIRRE JUANENA, ENETZ"
+  ],
+  "jugadores_visitante": [
+    "ESTEVEZ MUGICA, XABAT",
+    "JIMENEZ ARRECHE, TELMO",
+    "ESKITXABEL MARICHALAR, XUBAN",
+    "GURRUTXAGA LEZEA, ODEI",
+    "OTEGUI LASA, IKER",
+    "BALERDI MENDIZABAL, UNAX",
+    "DE LUCAS GARCIA, XANET",
+    "ORUEZABAL AMONDARAIN, BEÑAT",
+    "SERNA GOMEZ, JAKES",
+    "MERINO AIZPURU, ANDER",
+    "GOMEZ IZAGUIRRE, TEDDY",
+    "GOROSTIDI MARTINEZ, EKI",
+    "ALCALA ZABALA, XABIER",
+    "SAIZAR DIAZ, UNAX",
+    "IRAETA ARROSPIDE, AIERT",
+    "ACEDO REGUILLAGA, MANEX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "UGARTE ALBERDI, HARRIET",
+      "sale": "VILANOVA GONZALEZ, NICOLAS"
+    },
+    {
+      "min": 50,
+      "entra": "NIÑO VEGAS, IKER",
+      "sale": "SALGADO CASTRO, XABIER"
+    },
+    {
+      "min": 59,
+      "entra": "RUBIO ALONSO, OIHAN",
+      "sale": "VIÑOLAS SALUSTIANO, IGNACIO"
+    },
+    {
+      "min": 59,
+      "entra": "DAHAN GUILISAGASTI, ITZEL",
+      "sale": "ESPINOSA AYASTUY, HUGO"
+    },
+    {
+      "min": 67,
+      "entra": "IZAGIRRE JUANENA, ENETZ",
+      "sale": "MARTINEZ AGUIRREZABALA, IBAI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "GOROSTIDI MARTINEZ, EKI",
+      "sale": "GOMEZ IZAGUIRRE, TEDDY"
+    },
+    {
+      "min": 41,
+      "entra": "ALCALA ZABALA, XABIER",
+      "sale": "BALERDI MENDIZABAL, UNAX"
+    },
+    {
+      "min": 41,
+      "entra": "SAIZAR DIAZ, UNAX",
+      "sale": "MERINO AIZPURU, ANDER"
+    },
+    {
+      "min": 41,
+      "entra": "IRAETA ARROSPIDE, AIERT",
+      "sale": "ORUEZABAL AMONDARAIN, BEÑAT"
+    },
+    {
+      "min": 41,
+      "entra": "ACEDO REGUILLAGA, MANEX",
+      "sale": "ESKITXABEL MARICHALAR, XUBAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "PECIÑA MARTIN, UNAX": 90,
+    "ESTAR SANCHEZ, GAEL": 90,
+    "MARTINEZ AGUIRREZABALA, IBAI": 67,
+    "VIÑOLAS SALUSTIANO, IGNACIO": 59,
+    "GONZALEZ PEREZ-EGEA, ANDER": 90,
+    "URRESTARAZU OSAMBELA, HODEI": 90,
+    "MANCISIDOR MATEO, OIER": 90,
+    "SALGADO CASTRO, XABIER": 50,
+    "VILANOVA GONZALEZ, NICOLAS": 50,
+    "BELOKI IZAGIRRE, JON": 90,
+    "ESPINOSA AYASTUY, HUGO": 59,
+    "UGARTE ALBERDI, HARRIET": 40,
+    "NIÑO VEGAS, IKER": 40,
+    "RUBIO ALONSO, OIHAN": 31,
+    "DAHAN GUILISAGASTI, ITZEL": 31,
+    "IZAGIRRE JUANENA, ENETZ": 23,
+    "ESTEVEZ MUGICA, XABAT": 90,
+    "JIMENEZ ARRECHE, TELMO": 90,
+    "ESKITXABEL MARICHALAR, XUBAN": 41,
+    "GURRUTXAGA LEZEA, ODEI": 90,
+    "OTEGUI LASA, IKER": 90,
+    "BALERDI MENDIZABAL, UNAX": 41,
+    "DE LUCAS GARCIA, XANET": 90,
+    "ORUEZABAL AMONDARAIN, BEÑAT": 41,
+    "SERNA GOMEZ, JAKES": 90,
+    "MERINO AIZPURU, ANDER": 41,
+    "GOMEZ IZAGUIRRE, TEDDY": 41,
+    "GOROSTIDI MARTINEZ, EKI": 49,
+    "ALCALA ZABALA, XABIER": 49,
+    "SAIZAR DIAZ, UNAX": 49,
+    "IRAETA ARROSPIDE, AIERT": 49,
+    "ACEDO REGUILLAGA, MANEX": 49
+  },
+  "portero_local": "PECIÑA MARTIN, UNAX",
+  "portero_visitante": "ESTEVEZ MUGICA, XABAT",
+  "dorsales_local": {
+    "PECIÑA MARTIN, UNAX": 1,
+    "ESTAR SANCHEZ, GAEL": 2,
+    "MARTINEZ AGUIRREZABALA, IBAI": 3,
+    "VIÑOLAS SALUSTIANO, IGNACIO": 4,
+    "GONZALEZ PEREZ-EGEA, ANDER": 5,
+    "URRESTARAZU OSAMBELA, HODEI": 6,
+    "MANCISIDOR MATEO, OIER": 7,
+    "SALGADO CASTRO, XABIER": 8,
+    "VILANOVA GONZALEZ, NICOLAS": 9,
+    "BELOKI IZAGIRRE, JON": 10,
+    "ESPINOSA AYASTUY, HUGO": 11
+  },
+  "dorsales_visitante": {
+    "ESTEVEZ MUGICA, XABAT": 13,
+    "JIMENEZ ARRECHE, TELMO": 2,
+    "ESKITXABEL MARICHALAR, XUBAN": 3,
+    "GURRUTXAGA LEZEA, ODEI": 5,
+    "OTEGUI LASA, IKER": 10,
+    "BALERDI MENDIZABAL, UNAX": 11,
+    "DE LUCAS GARCIA, XANET": 12,
+    "ORUEZABAL AMONDARAIN, BEÑAT": 15,
+    "SERNA GOMEZ, JAKES": 16,
+    "MERINO AIZPURU, ANDER": 18,
+    "GOMEZ IZAGUIRRE, TEDDY": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
