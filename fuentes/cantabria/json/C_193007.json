@@ -1,0 +1,293 @@
+{
+  "acta_id": "C_193007",
+  "filename": "Acta_C_193007.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 32,
+  "fecha": "11-05-2025",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D.E. ATCO. MINEROS A",
+  "equipo_visitante": "C.D. COLINDRES A",
+  "goles_local": 5,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "HERRERA NORIEGA, IVÁN"
+  ],
+  "estadio": "Puente San Miguel",
+  "ciudad": "Reocín",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "PEREZ GUTIERREZ, JOSE MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "solar rabadan, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 31,
+      "jugador": "PEREZ GUTIERREZ, JOSE MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "PEREZ GUTIERREZ, JOSE MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "ROCILLO MAZA, TIRSO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "ROCILLO MAZA, TIRSO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 70,
+      "jugador": "MATA SANGUIAO, CARLOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 32,
+      "jugador": "SOLARES PICAZO, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 40,
+      "jugador": "SOLANA FERNANDEZ, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 40,
+      "jugador": "SOLANA FERNANDEZ, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "FRIAS MAESTRE, ADRIAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DIAZ SANCHEZ, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DIAZ SANCHEZ, PABLO",
+  "delegado_equipo_visitante": "SALCINES PELLON, JAVIER FRANCISCO",
+  "titulares_local": [
+    "SAEZ PISANO, ADRIAN",
+    "ORTEGA DEL RIO, AITOR",
+    "LASA SIERRA, HECTOR",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "STAN, NICOLAE CRISTIAN",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "MATA SANGUIAO, CARLOS"
+  ],
+  "titulares_visitante": [
+    "ÑIGUEL LAVIN, LUCAS",
+    "VARELA MATEOS, JAVIER",
+    "SALVATIERRA GOYENECHEA, JOSE ALBERTO",
+    "GOMEZ GANDARILLAS, HUGO",
+    "GOMEZ GUTIERREZ, DIEGO",
+    "ROCILLO MAZA, TIRSO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "MARQUEZ ACOSTA, FELIPE EMANUEL",
+    "CUETOS ORTIZ, MIGUEL",
+    "ARRONTE MERINO, RODRIGO",
+    "IDIAQUEZ MAZA, SAMUEL"
+  ],
+  "suplentes_local": [
+    "ROBLES CORCHADO, ALEX",
+    "MAZON SHAROV, HUGO",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "GUTIERREZ GOMEZ, HECTOR"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ TORRE, DIEGO",
+    "ROZAS BOLIVAR, DIEGO",
+    "RUIZ RODRIGUEZ, MARCOS",
+    "RUIZ VEGA, ALONSO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SAEZ PISANO, ADRIAN",
+    "ORTEGA DEL RIO, AITOR",
+    "LASA SIERRA, HECTOR",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "PEREZ GUTIERREZ, JOSE MANUEL",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "STAN, NICOLAE CRISTIAN",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "MATA SANGUIAO, CARLOS",
+    "ROBLES CORCHADO, ALEX",
+    "GUTIERREZ GOMEZ, HECTOR",
+    "MAZON SHAROV, HUGO",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN"
+  ],
+  "jugadores_visitante": [
+    "ÑIGUEL LAVIN, LUCAS",
+    "VARELA MATEOS, JAVIER",
+    "SALVATIERRA GOYENECHEA, JOSE ALBERTO",
+    "GOMEZ GANDARILLAS, HUGO",
+    "GOMEZ GUTIERREZ, DIEGO",
+    "ROCILLO MAZA, TIRSO",
+    "SOLANA FERNANDEZ, ALEJANDRO",
+    "MARQUEZ ACOSTA, FELIPE EMANUEL",
+    "CUETOS ORTIZ, MIGUEL",
+    "ARRONTE MERINO, RODRIGO",
+    "IDIAQUEZ MAZA, SAMUEL",
+    "RUIZ RODRIGUEZ, MARCOS",
+    "FERNANDEZ TORRE, DIEGO",
+    "ROZAS BOLIVAR, DIEGO",
+    "RUIZ VEGA, ALONSO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "ROBLES CORCHADO, ALEX",
+      "sale": "ORTEGA DEL RIO, AITOR"
+    },
+    {
+      "min": 58,
+      "entra": "GUTIERREZ GOMEZ, HECTOR",
+      "sale": "SAINZ CALDERON, JOSE MIGUEL"
+    },
+    {
+      "min": 58,
+      "entra": "MAZON SHAROV, HUGO",
+      "sale": "LASA SIERRA, HECTOR"
+    },
+    {
+      "min": 58,
+      "entra": "GOMEZ PEÑA, LUCAS",
+      "sale": "SOLARES PICAZO, LUCAS"
+    },
+    {
+      "min": 58,
+      "entra": "BURTAN, DEMIS CONSTANTIN",
+      "sale": "PEREZ GUTIERREZ, JOSE MANUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "RUIZ RODRIGUEZ, MARCOS",
+      "sale": "IDIAQUEZ MAZA, SAMUEL"
+    },
+    {
+      "min": 40,
+      "entra": "FERNANDEZ TORRE, DIEGO",
+      "sale": "SALVATIERRA GOYENECHEA, JOSE ALBERTO"
+    },
+    {
+      "min": 56,
+      "entra": "ROZAS BOLIVAR, DIEGO",
+      "sale": "MARQUEZ ACOSTA, FELIPE EMANUEL"
+    },
+    {
+      "min": 67,
+      "entra": "RUIZ VEGA, ALONSO",
+      "sale": "ROCILLO MAZA, TIRSO"
+    }
+  ],
+  "minutos_jugadores": {
+    "SAEZ PISANO, ADRIAN": 90,
+    "ORTEGA DEL RIO, AITOR": 48,
+    "LASA SIERRA, HECTOR": 58,
+    "GUTIERREZ REDONDO, MARTIN": 90,
+    "solar rabadan, DANIEL": 90,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 58,
+    "SAINZ CALDERON, JOSE MIGUEL": 58,
+    "SOLARES PICAZO, LUCAS": 58,
+    "STAN, NICOLAE CRISTIAN": 90,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 90,
+    "MATA SANGUIAO, CARLOS": 90,
+    "ROBLES CORCHADO, ALEX": 42,
+    "GUTIERREZ GOMEZ, HECTOR": 32,
+    "MAZON SHAROV, HUGO": 32,
+    "GOMEZ PEÑA, LUCAS": 32,
+    "BURTAN, DEMIS CONSTANTIN": 32,
+    "ÑIGUEL LAVIN, LUCAS": 90,
+    "VARELA MATEOS, JAVIER": 90,
+    "SALVATIERRA GOYENECHEA, JOSE ALBERTO": 40,
+    "GOMEZ GANDARILLAS, HUGO": 90,
+    "GOMEZ GUTIERREZ, DIEGO": 90,
+    "ROCILLO MAZA, TIRSO": 67,
+    "SOLANA FERNANDEZ, ALEJANDRO": 90,
+    "MARQUEZ ACOSTA, FELIPE EMANUEL": 56,
+    "CUETOS ORTIZ, MIGUEL": 90,
+    "ARRONTE MERINO, RODRIGO": 90,
+    "IDIAQUEZ MAZA, SAMUEL": 40,
+    "RUIZ RODRIGUEZ, MARCOS": 50,
+    "FERNANDEZ TORRE, DIEGO": 50,
+    "ROZAS BOLIVAR, DIEGO": 34,
+    "RUIZ VEGA, ALONSO": 23
+  },
+  "portero_local": "SAEZ PISANO, ADRIAN",
+  "portero_visitante": "ÑIGUEL LAVIN, LUCAS",
+  "dorsales_local": {
+    "SAEZ PISANO, ADRIAN": 1,
+    "ORTEGA DEL RIO, AITOR": 4,
+    "LASA SIERRA, HECTOR": 5,
+    "GUTIERREZ REDONDO, MARTIN": 7,
+    "solar rabadan, DANIEL": 8,
+    "PEREZ GUTIERREZ, JOSE MANUEL": 9,
+    "SAINZ CALDERON, JOSE MIGUEL": 10,
+    "SOLARES PICAZO, LUCAS": 11,
+    "STAN, NICOLAE CRISTIAN": 15,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 19,
+    "MATA SANGUIAO, CARLOS": 21
+  },
+  "dorsales_visitante": {
+    "ÑIGUEL LAVIN, LUCAS": 13,
+    "VARELA MATEOS, JAVIER": 2,
+    "SALVATIERRA GOYENECHEA, JOSE ALBERTO": 3,
+    "GOMEZ GANDARILLAS, HUGO": 4,
+    "GOMEZ GUTIERREZ, DIEGO": 6,
+    "ROCILLO MAZA, TIRSO": 7,
+    "SOLANA FERNANDEZ, ALEJANDRO": 8,
+    "MARQUEZ ACOSTA, FELIPE EMANUEL": 10,
+    "CUETOS ORTIZ, MIGUEL": 12,
+    "ARRONTE MERINO, RODRIGO": 15,
+    "IDIAQUEZ MAZA, SAMUEL": 21
+  },
+  "suspendidos": [
+    "SOLANA FERNANDEZ, ALEJANDRO"
+  ],
+  "_marcador_widget": true
+}
