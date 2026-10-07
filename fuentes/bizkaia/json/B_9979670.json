@@ -1,0 +1,255 @@
+{
+  "acta_id": "B_9979670",
+  "filename": "Acta_B_9979670.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 9,
+  "fecha": "29-11-2025",
+  "hora": "11:00",
+  "categoria": "PRIMERA DIVISIÓN 1C / LEHEN MAILA (GRUPO 1)",
+  "equipo_local": "ABANTO",
+  "equipo_visitante": "BALMASEDA B",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "ESCOBAL TOMEY, ENEKO"
+  ],
+  "estadio": "EL MORTUERO",
+  "ciudad": "LAS CARRERAS",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "BARRANCO URANGA, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "AZANOUN TAHIR, IMRAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "SULIBARRIA SAGASTIZABAL, ENDIKA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "CRUZ SANCHEZ, URKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 37,
+      "jugador": "ARRIBAS GARRIDO, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 4,
+      "jugador": "MORAL GUTIERREZ, AITOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RODRIGUEZ GONZALEZ, PABLO",
+  "entrenador_visitante": "NAVARRO FERNANDEZ, JULEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ OCEJO, SERGIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ OCEJO, SERGIO",
+  "delegado_equipo_visitante": "PUENTE ALONSO, NEREA",
+  "titulares_local": [
+    "GARCIA LEON, IRAULTZA",
+    "ARRIBAS GARRIDO, UNAI",
+    "GALAN AZKUENAGA, ARITZ",
+    "TRINCHETE PAMO, EZEQUIEL",
+    "CRUZ SANCHEZ, URKO",
+    "ALVAREZ LOPEZ, KIMETZ",
+    "BARRANCO URANGA, MARKEL",
+    "PÉREZ POUSADA, JON",
+    "CAMPOS GALLEGO, ANDER",
+    "BASAGOITI ANGULO, HODEI",
+    "VILA GARCIA, OINATZ"
+  ],
+  "titulares_visitante": [
+    "ARTOLATXIPI PEREDA, AITOR",
+    "HIERRO CAMARERO, ALEX",
+    "MARCOS ROMAÑA, OIHAN",
+    "MORAL GUTIERREZ, AITOR",
+    "BACHAR OUARGALI, YOUSSEF",
+    "PALACIO DE COS, KIMETZ",
+    "SULIBARRIA SAGASTIZABAL, ENDIKA",
+    "AZANOUN TAHIR, IMRAN",
+    "CAMPO PUENTE, OIER",
+    "FUENTES URRUTIA, KOLDO",
+    "BELTRAN SUSO, ASIER"
+  ],
+  "suplentes_local": [
+    "FRADEJAS BLAVE, ERLANTZ",
+    "FERNANDEZ PERAL, ANER",
+    "MUÑECAS MERA, ARATZ",
+    "MEDINA CAUSO, BEÑAT",
+    "CRUZ FLORES, OWEN MANUEL",
+    "BARBA GONZALEZ, LANDER",
+    "IZKARA DIEZ, ASIER"
+  ],
+  "suplentes_visitante": [
+    "CANTELI SANTAMARIA, AITOR",
+    "CHAVARRI BERASALUCE, IKER",
+    "ALCONCHEL OSANTE, GAIZKA",
+    "GÚEMES GOFFARD, PABLO",
+    "FRESNO JAUREGUI, ANDER",
+    "DIEZ TERREROS, ARETX"
+  ],
+  "convocados_sin_jugar_local": [
+    "FRADEJAS BLAVE, ERLANTZ",
+    "MUÑECAS MERA, ARATZ",
+    "BARBA GONZALEZ, LANDER",
+    "IZKARA DIEZ, ASIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CANTELI SANTAMARIA, AITOR",
+    "FRESNO JAUREGUI, ANDER",
+    "DIEZ TERREROS, ARETX"
+  ],
+  "jugadores_local": [
+    "GARCIA LEON, IRAULTZA",
+    "ARRIBAS GARRIDO, UNAI",
+    "GALAN AZKUENAGA, ARITZ",
+    "TRINCHETE PAMO, EZEQUIEL",
+    "CRUZ SANCHEZ, URKO",
+    "ALVAREZ LOPEZ, KIMETZ",
+    "BARRANCO URANGA, MARKEL",
+    "PÉREZ POUSADA, JON",
+    "CAMPOS GALLEGO, ANDER",
+    "BASAGOITI ANGULO, HODEI",
+    "VILA GARCIA, OINATZ",
+    "CRUZ FLORES, OWEN MANUEL",
+    "MEDINA CAUSO, BEÑAT",
+    "FERNANDEZ PERAL, ANER"
+  ],
+  "jugadores_visitante": [
+    "ARTOLATXIPI PEREDA, AITOR",
+    "HIERRO CAMARERO, ALEX",
+    "MARCOS ROMAÑA, OIHAN",
+    "MORAL GUTIERREZ, AITOR",
+    "BACHAR OUARGALI, YOUSSEF",
+    "PALACIO DE COS, KIMETZ",
+    "SULIBARRIA SAGASTIZABAL, ENDIKA",
+    "AZANOUN TAHIR, IMRAN",
+    "CAMPO PUENTE, OIER",
+    "FUENTES URRUTIA, KOLDO",
+    "BELTRAN SUSO, ASIER",
+    "ALCONCHEL OSANTE, GAIZKA",
+    "GÚEMES GOFFARD, PABLO",
+    "CHAVARRI BERASALUCE, IKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "CRUZ FLORES, OWEN MANUEL",
+      "sale": "CAMPOS GALLEGO, ANDER"
+    },
+    {
+      "min": 63,
+      "entra": "MEDINA CAUSO, BEÑAT",
+      "sale": "BASAGOITI ANGULO, HODEI"
+    },
+    {
+      "min": 78,
+      "entra": "FERNANDEZ PERAL, ANER",
+      "sale": "CRUZ SANCHEZ, URKO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "ALCONCHEL OSANTE, GAIZKA",
+      "sale": "MARCOS ROMAÑA, OIHAN"
+    },
+    {
+      "min": 65,
+      "entra": "GÚEMES GOFFARD, PABLO",
+      "sale": "SULIBARRIA SAGASTIZABAL, ENDIKA"
+    },
+    {
+      "min": 76,
+      "entra": "CHAVARRI BERASALUCE, IKER",
+      "sale": "CAMPO PUENTE, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA LEON, IRAULTZA": 90,
+    "ARRIBAS GARRIDO, UNAI": 90,
+    "GALAN AZKUENAGA, ARITZ": 90,
+    "TRINCHETE PAMO, EZEQUIEL": 90,
+    "CRUZ SANCHEZ, URKO": 78,
+    "ALVAREZ LOPEZ, KIMETZ": 90,
+    "BARRANCO URANGA, MARKEL": 90,
+    "PÉREZ POUSADA, JON": 90,
+    "CAMPOS GALLEGO, ANDER": 51,
+    "BASAGOITI ANGULO, HODEI": 63,
+    "VILA GARCIA, OINATZ": 90,
+    "CRUZ FLORES, OWEN MANUEL": 39,
+    "MEDINA CAUSO, BEÑAT": 27,
+    "FERNANDEZ PERAL, ANER": 12,
+    "ARTOLATXIPI PEREDA, AITOR": 90,
+    "HIERRO CAMARERO, ALEX": 90,
+    "MARCOS ROMAÑA, OIHAN": 56,
+    "MORAL GUTIERREZ, AITOR": 90,
+    "BACHAR OUARGALI, YOUSSEF": 90,
+    "PALACIO DE COS, KIMETZ": 90,
+    "SULIBARRIA SAGASTIZABAL, ENDIKA": 65,
+    "AZANOUN TAHIR, IMRAN": 90,
+    "CAMPO PUENTE, OIER": 76,
+    "FUENTES URRUTIA, KOLDO": 90,
+    "BELTRAN SUSO, ASIER": 90,
+    "ALCONCHEL OSANTE, GAIZKA": 34,
+    "GÚEMES GOFFARD, PABLO": 25,
+    "CHAVARRI BERASALUCE, IKER": 14
+  },
+  "portero_local": "GARCIA LEON, IRAULTZA",
+  "portero_visitante": "ARTOLATXIPI PEREDA, AITOR",
+  "dorsales_local": {
+    "GARCIA LEON, IRAULTZA": 1,
+    "ARRIBAS GARRIDO, UNAI": 5,
+    "GALAN AZKUENAGA, ARITZ": 6,
+    "TRINCHETE PAMO, EZEQUIEL": 8,
+    "CRUZ SANCHEZ, URKO": 9,
+    "ALVAREZ LOPEZ, KIMETZ": 10,
+    "BARRANCO URANGA, MARKEL": 11,
+    "PÉREZ POUSADA, JON": 12,
+    "CAMPOS GALLEGO, ANDER": 16,
+    "BASAGOITI ANGULO, HODEI": 17,
+    "VILA GARCIA, OINATZ": 20
+  },
+  "dorsales_visitante": {
+    "ARTOLATXIPI PEREDA, AITOR": 13,
+    "HIERRO CAMARERO, ALEX": 4,
+    "MARCOS ROMAÑA, OIHAN": 6,
+    "MORAL GUTIERREZ, AITOR": 7,
+    "BACHAR OUARGALI, YOUSSEF": 9,
+    "PALACIO DE COS, KIMETZ": 10,
+    "SULIBARRIA SAGASTIZABAL, ENDIKA": 18,
+    "AZANOUN TAHIR, IMRAN": 19,
+    "CAMPO PUENTE, OIER": 20,
+    "FUENTES URRUTIA, KOLDO": 21,
+    "BELTRAN SUSO, ASIER": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
