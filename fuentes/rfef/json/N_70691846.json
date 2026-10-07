@@ -9,8 +9,8 @@
   "categoria": "PlayOff de Ascenso a Primera División Femenina (2ª eliminatoria)",
   "equipo_local": "CFS AUTOESCOLA URGELL LINYOLA",
   "equipo_visitante": "ESTRELA FUTSAL",
-  "goles_local": 1,
-  "goles_visitante": 4,
+  "goles_local": 0,
+  "goles_visitante": 3,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -27,31 +27,36 @@
       "minuto": 16,
       "jugador": "GARCIA BLANCO, PAULA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "DA SILVA, RAFAELA NICACIO",
-      "equipo": "local",
-      "propia": true
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "DA SILVA, RAFAELA NICACIO",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "SANTOS DA COSTA, SARA SAIONA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 38,
       "jugador": "ONTIVEROS, ANA LAURA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -365,6 +370,5 @@
     "CFS AUTOESCOLA URGELL LINYOLA :",
     "ESTRELA FUTSAL :",
     "NINGUNA"
-  ],
-  "_marcador_widget": true
+  ]
 }
