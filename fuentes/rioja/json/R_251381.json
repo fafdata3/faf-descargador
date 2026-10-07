@@ -1,0 +1,286 @@
+{
+  "acta_id": "R_251381",
+  "filename": "Acta_R_251381.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 2,
+  "fecha": "20-09-2025",
+  "hora": "16:30",
+  "categoria": "REGIONAL PREFERENTE (Grupo Único)",
+  "equipo_local": "VIANES B",
+  "equipo_visitante": "CALAHORRA B",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "JABLI ESSAKHI, BADER",
+    "Árbitro Asistente",
+    "VARGAS CORTEZ, SNAIDER",
+    "Árbitro Asistente",
+    "ALVAREZ ALONSO, SERGIO"
+  ],
+  "estadio": "I.D. PRINCIPE DE VIANA - H.A. (VIANA)",
+  "ciudad": "Viana",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "JIMENEZ DIAZ, CESAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "RUIZ SANCHEZ, ALAIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "VILLARES SAENZ, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 81,
+      "jugador": "ACOSTA LEGORBURU, DAMIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 36,
+      "jugador": "GARCIA GARCIA, JAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "DAVILA MORENO, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "LEON BERGASA, PAULINO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VILLARES SAENZ, ADRIAN",
+  "entrenador_visitante": "DE GOÑI SANCHEZ, IÑIGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "ROMERO GARRIDO, VICTOR",
+  "delegado_campo_local": "LOPEZ BLANCO, AITOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ BLANCO, AITOR",
+  "delegado_equipo_visitante": "MARTINEZ SANCHEZ, MARTA",
+  "titulares_local": [
+    "OLIVEIRA BICA, GRACIANO JOSE",
+    "GIMENEZ ECHEVERRIA, SANTIAGO",
+    "GARCIA GARCIA, JAVIER",
+    "IÑIGUEZ ARBINA, ADRIAN",
+    "VILLARES SAENZ, DANIEL",
+    "DAVILA MORENO, IKER",
+    "RHARSALLA ABDELLAOUI, AIMAN",
+    "REINALDO BURTON, TIAGO",
+    "CORRAL HERRERA, JOSU",
+    "GARCIA IPAS, MIKEL",
+    "FERNANDEZ LOPEZ A, MIGUEL"
+  ],
+  "titulares_visitante": [
+    "QUIROGA GONZALEZ, PABLO",
+    "JIMENEZ DIAZ, CESAR",
+    "LEON BERGASA, PAULINO",
+    "NAVARRO MATUTE, PABLO",
+    "TINCU ASTILEAN, MARIO",
+    "RIESGO CABELLO, JESUS",
+    "ACOSTA LEGORBURU, DAMIAN",
+    "SANTOS ORTEGA, MIKEL",
+    "RUIZ SANCHEZ, ALAIN",
+    "TALIBI, ADAM",
+    "ABOUZAHR FILAOUI, SALAH EDDINE"
+  ],
+  "suplentes_local": [
+    "SAINZ ORTEGA, EDUARDO",
+    "SANTAMARIA SAMPEDRO, ANGEL",
+    "SAINZ GONZALEZ, MARIO",
+    "IZU GONZALEZ, ALVARO",
+    "DEL PRADO ARINA, CESAR",
+    "ARPON CADARSO, IMANOL",
+    "DIAZ C GARCIA, IVAN"
+  ],
+  "suplentes_visitante": [
+    "DE LA FUENTE LEDESMA, MATIAS IAN",
+    "UCEDA RUIZ, DIEGO",
+    "PEREZ JIMENEZ, JORGE",
+    "HAMED MAYOR, JON",
+    "EZQUERRO ELDUA, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "SAINZ ORTEGA, EDUARDO",
+    "IZU GONZALEZ, ALVARO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "OLIVEIRA BICA, GRACIANO JOSE",
+    "GIMENEZ ECHEVERRIA, SANTIAGO",
+    "GARCIA GARCIA, JAVIER",
+    "IÑIGUEZ ARBINA, ADRIAN",
+    "VILLARES SAENZ, DANIEL",
+    "DAVILA MORENO, IKER",
+    "RHARSALLA ABDELLAOUI, AIMAN",
+    "REINALDO BURTON, TIAGO",
+    "CORRAL HERRERA, JOSU",
+    "GARCIA IPAS, MIKEL",
+    "FERNANDEZ LOPEZ A, MIGUEL",
+    "DEL PRADO ARINA, CESAR",
+    "ARPON CADARSO, IMANOL",
+    "DIAZ C GARCIA, IVAN",
+    "SANTAMARIA SAMPEDRO, ANGEL",
+    "SAINZ GONZALEZ, MARIO"
+  ],
+  "jugadores_visitante": [
+    "QUIROGA GONZALEZ, PABLO",
+    "JIMENEZ DIAZ, CESAR",
+    "LEON BERGASA, PAULINO",
+    "NAVARRO MATUTE, PABLO",
+    "TINCU ASTILEAN, MARIO",
+    "RIESGO CABELLO, JESUS",
+    "ACOSTA LEGORBURU, DAMIAN",
+    "SANTOS ORTEGA, MIKEL",
+    "RUIZ SANCHEZ, ALAIN",
+    "TALIBI, ADAM",
+    "ABOUZAHR FILAOUI, SALAH EDDINE",
+    "EZQUERRO ELDUA, DIEGO",
+    "PEREZ JIMENEZ, JORGE",
+    "UCEDA RUIZ, DIEGO",
+    "HAMED MAYOR, JON",
+    "DE LA FUENTE LEDESMA, MATIAS IAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "DEL PRADO ARINA, CESAR",
+      "sale": "GARCIA IPAS, MIKEL"
+    },
+    {
+      "min": 46,
+      "entra": "ARPON CADARSO, IMANOL",
+      "sale": "RHARSALLA ABDELLAOUI, AIMAN"
+    },
+    {
+      "min": 46,
+      "entra": "DIAZ C GARCIA, IVAN",
+      "sale": "REINALDO BURTON, TIAGO"
+    },
+    {
+      "min": 65,
+      "entra": "SANTAMARIA SAMPEDRO, ANGEL",
+      "sale": "DAVILA MORENO, IKER"
+    },
+    {
+      "min": 72,
+      "entra": "SAINZ GONZALEZ, MARIO",
+      "sale": "CORRAL HERRERA, JOSU"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 70,
+      "entra": "EZQUERRO ELDUA, DIEGO",
+      "sale": "RIESGO CABELLO, JESUS"
+    },
+    {
+      "min": 70,
+      "entra": "PEREZ JIMENEZ, JORGE",
+      "sale": "TALIBI, ADAM"
+    },
+    {
+      "min": 83,
+      "entra": "UCEDA RUIZ, DIEGO",
+      "sale": "LEON BERGASA, PAULINO"
+    },
+    {
+      "min": 87,
+      "entra": "HAMED MAYOR, JON",
+      "sale": "RUIZ SANCHEZ, ALAIN"
+    },
+    {
+      "min": 87,
+      "entra": "DE LA FUENTE LEDESMA, MATIAS IAN",
+      "sale": "ACOSTA LEGORBURU, DAMIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "OLIVEIRA BICA, GRACIANO JOSE": 90,
+    "GIMENEZ ECHEVERRIA, SANTIAGO": 90,
+    "GARCIA GARCIA, JAVIER": 90,
+    "IÑIGUEZ ARBINA, ADRIAN": 90,
+    "VILLARES SAENZ, DANIEL": 90,
+    "DAVILA MORENO, IKER": 65,
+    "RHARSALLA ABDELLAOUI, AIMAN": 46,
+    "REINALDO BURTON, TIAGO": 46,
+    "CORRAL HERRERA, JOSU": 72,
+    "GARCIA IPAS, MIKEL": 46,
+    "FERNANDEZ LOPEZ A, MIGUEL": 90,
+    "DEL PRADO ARINA, CESAR": 44,
+    "ARPON CADARSO, IMANOL": 44,
+    "DIAZ C GARCIA, IVAN": 44,
+    "SANTAMARIA SAMPEDRO, ANGEL": 25,
+    "SAINZ GONZALEZ, MARIO": 18,
+    "QUIROGA GONZALEZ, PABLO": 90,
+    "JIMENEZ DIAZ, CESAR": 90,
+    "LEON BERGASA, PAULINO": 83,
+    "NAVARRO MATUTE, PABLO": 90,
+    "TINCU ASTILEAN, MARIO": 90,
+    "RIESGO CABELLO, JESUS": 70,
+    "ACOSTA LEGORBURU, DAMIAN": 87,
+    "SANTOS ORTEGA, MIKEL": 90,
+    "RUIZ SANCHEZ, ALAIN": 87,
+    "TALIBI, ADAM": 70,
+    "ABOUZAHR FILAOUI, SALAH EDDINE": 90,
+    "EZQUERRO ELDUA, DIEGO": 20,
+    "PEREZ JIMENEZ, JORGE": 20,
+    "UCEDA RUIZ, DIEGO": 7,
+    "HAMED MAYOR, JON": 3,
+    "DE LA FUENTE LEDESMA, MATIAS IAN": 3
+  },
+  "portero_local": "OLIVEIRA BICA, GRACIANO JOSE",
+  "portero_visitante": "QUIROGA GONZALEZ, PABLO",
+  "dorsales_local": {
+    "OLIVEIRA BICA, GRACIANO JOSE": 1,
+    "GIMENEZ ECHEVERRIA, SANTIAGO": 2,
+    "GARCIA GARCIA, JAVIER": 4,
+    "IÑIGUEZ ARBINA, ADRIAN": 5,
+    "VILLARES SAENZ, DANIEL": 7,
+    "DAVILA MORENO, IKER": 9,
+    "RHARSALLA ABDELLAOUI, AIMAN": 12,
+    "REINALDO BURTON, TIAGO": 16,
+    "CORRAL HERRERA, JOSU": 17,
+    "GARCIA IPAS, MIKEL": 19,
+    "FERNANDEZ LOPEZ A, MIGUEL": 21
+  },
+  "dorsales_visitante": {
+    "QUIROGA GONZALEZ, PABLO": 13,
+    "JIMENEZ DIAZ, CESAR": 2,
+    "LEON BERGASA, PAULINO": 3,
+    "NAVARRO MATUTE, PABLO": 4,
+    "TINCU ASTILEAN, MARIO": 5,
+    "RIESGO CABELLO, JESUS": 9,
+    "ACOSTA LEGORBURU, DAMIAN": 12,
+    "SANTOS ORTEGA, MIKEL": 19,
+    "RUIZ SANCHEZ, ALAIN": 21,
+    "TALIBI, ADAM": 23,
+    "ABOUZAHR FILAOUI, SALAH EDDINE": 24
+  },
+  "suspendidos": []
+}
