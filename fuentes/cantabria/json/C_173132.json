@@ -1,0 +1,271 @@
+{
+  "acta_id": "C_173132",
+  "filename": "Acta_C_173132.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 29,
+  "fecha": "28-04-2024",
+  "hora": "11:15",
+  "categoria": "TERCERA CADETE (GRUPO E)",
+  "equipo_local": "C.D.E. AGORA F.C. A",
+  "equipo_visitante": "C.D. LAREDO B",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DOMINGO FERNÁNDEZ, PABLO"
+  ],
+  "estadio": "Mioño Estacion",
+  "ciudad": "Castro-Urdiales",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "BOUZAS FERNANDEZ, ALAIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "TARANILLA CORNEJO, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "TRABADO MAGUREGUI, ASIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "HERNANDEZ ARISMENDI, AITOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "HORMILLA MAÑERU, UNAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "HORMILLA MAÑERU, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CASTELO MARIÑO, RAMON",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CASTELO MARIÑO, RAMON",
+  "delegado_equipo_visitante": "GUTIERREZ GOMEZ, FRANCISCO J",
+  "titulares_local": [
+    "SAN MIGUEL OLABARRIETA, OMAR",
+    "CUENCO FORCELLEDO, DANIEL",
+    "HORMILLA MAÑERU, UNAI",
+    "BOUZA FERNANDEZ, DANIEL",
+    "BOUZAS FERNANDEZ, ALAIN",
+    "HUERTAS VALBUENA, MARTIN ELIAS",
+    "SERRANO GUTIERREZ, EKAITZ",
+    "TARANILLA CORNEJO, MARKEL",
+    "HUERTA BARTOLOME, HODEI",
+    "RESANO RUIZ, GUILLERMO",
+    "LOPEZ FERNANDEZ, JACOBO"
+  ],
+  "titulares_visitante": [
+    "BRINGAS MARTINEZ, OSCAR",
+    "TORRE CASTILLO, DIEGO",
+    "FELICES VIVANCO, MARCO",
+    "AGUILERA AGUILERA, FERNANDO",
+    "AGUILERA AGUILERA, DIEGO",
+    "HAZAS SANTOS, DENNIS",
+    "QUIROGA OTERO, MIKEL",
+    "Ramírez Iglesias, JAVIER",
+    "CARRERAS AMADO, DANIEL",
+    "REVILLA ALONSO, PELAYO",
+    "MARSELLA GONZALEZ, MATEO"
+  ],
+  "suplentes_local": [
+    "TRABADO MAGUREGUI, ASIER",
+    "JIMENEZ CALERA, CARLOS",
+    "MUÑOZ SANTOVEÑA, ALVARO",
+    "VALENTIN ANDREI, MARIO",
+    "HERNANDEZ ARISMENDI, AITOR"
+  ],
+  "suplentes_visitante": [
+    "NEGRETE GIL, DIEGO",
+    "GARRIDO ALVARADO, SAMUEL",
+    "AGUILAR GARCIA, HUGO",
+    "GARCIA TORRE, PABLO",
+    "ALVAREZ RASINES, LUCAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SAN MIGUEL OLABARRIETA, OMAR",
+    "CUENCO FORCELLEDO, DANIEL",
+    "HORMILLA MAÑERU, UNAI",
+    "BOUZA FERNANDEZ, DANIEL",
+    "BOUZAS FERNANDEZ, ALAIN",
+    "HUERTAS VALBUENA, MARTIN ELIAS",
+    "SERRANO GUTIERREZ, EKAITZ",
+    "TARANILLA CORNEJO, MARKEL",
+    "HUERTA BARTOLOME, HODEI",
+    "RESANO RUIZ, GUILLERMO",
+    "LOPEZ FERNANDEZ, JACOBO",
+    "JIMENEZ CALERA, CARLOS",
+    "VALENTIN ANDREI, MARIO",
+    "MUÑOZ SANTOVEÑA, ALVARO",
+    "HERNANDEZ ARISMENDI, AITOR",
+    "TRABADO MAGUREGUI, ASIER"
+  ],
+  "jugadores_visitante": [
+    "BRINGAS MARTINEZ, OSCAR",
+    "TORRE CASTILLO, DIEGO",
+    "FELICES VIVANCO, MARCO",
+    "AGUILERA AGUILERA, FERNANDO",
+    "AGUILERA AGUILERA, DIEGO",
+    "HAZAS SANTOS, DENNIS",
+    "QUIROGA OTERO, MIKEL",
+    "Ramírez Iglesias, JAVIER",
+    "CARRERAS AMADO, DANIEL",
+    "REVILLA ALONSO, PELAYO",
+    "MARSELLA GONZALEZ, MATEO",
+    "ALVAREZ RASINES, LUCAS",
+    "GARRIDO ALVARADO, SAMUEL",
+    "AGUILAR GARCIA, HUGO",
+    "GARCIA TORRE, PABLO",
+    "NEGRETE GIL, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "JIMENEZ CALERA, CARLOS",
+      "sale": "SERRANO GUTIERREZ, EKAITZ"
+    },
+    {
+      "min": 40,
+      "entra": "VALENTIN ANDREI, MARIO",
+      "sale": "LOPEZ FERNANDEZ, JACOBO"
+    },
+    {
+      "min": 40,
+      "entra": "MUÑOZ SANTOVEÑA, ALVARO",
+      "sale": "CUENCO FORCELLEDO, DANIEL"
+    },
+    {
+      "min": 52,
+      "entra": "HERNANDEZ ARISMENDI, AITOR",
+      "sale": "HUERTA BARTOLOME, HODEI"
+    },
+    {
+      "min": 52,
+      "entra": "TRABADO MAGUREGUI, ASIER",
+      "sale": "HUERTAS VALBUENA, MARTIN ELIAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "ALVAREZ RASINES, LUCAS",
+      "sale": "Ramírez Iglesias, JAVIER"
+    },
+    {
+      "min": 43,
+      "entra": "GARRIDO ALVARADO, SAMUEL",
+      "sale": "HAZAS SANTOS, DENNIS"
+    },
+    {
+      "min": 46,
+      "entra": "AGUILAR GARCIA, HUGO",
+      "sale": "AGUILERA AGUILERA, FERNANDO"
+    },
+    {
+      "min": 49,
+      "entra": "GARCIA TORRE, PABLO",
+      "sale": "QUIROGA OTERO, MIKEL"
+    },
+    {
+      "min": 49,
+      "entra": "NEGRETE GIL, DIEGO",
+      "sale": "CARRERAS AMADO, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "SAN MIGUEL OLABARRIETA, OMAR": 90,
+    "CUENCO FORCELLEDO, DANIEL": 40,
+    "HORMILLA MAÑERU, UNAI": 90,
+    "BOUZA FERNANDEZ, DANIEL": 90,
+    "BOUZAS FERNANDEZ, ALAIN": 90,
+    "HUERTAS VALBUENA, MARTIN ELIAS": 52,
+    "SERRANO GUTIERREZ, EKAITZ": 40,
+    "TARANILLA CORNEJO, MARKEL": 90,
+    "HUERTA BARTOLOME, HODEI": 52,
+    "RESANO RUIZ, GUILLERMO": 90,
+    "LOPEZ FERNANDEZ, JACOBO": 40,
+    "JIMENEZ CALERA, CARLOS": 50,
+    "VALENTIN ANDREI, MARIO": 50,
+    "MUÑOZ SANTOVEÑA, ALVARO": 50,
+    "HERNANDEZ ARISMENDI, AITOR": 38,
+    "TRABADO MAGUREGUI, ASIER": 38,
+    "BRINGAS MARTINEZ, OSCAR": 90,
+    "TORRE CASTILLO, DIEGO": 90,
+    "FELICES VIVANCO, MARCO": 90,
+    "AGUILERA AGUILERA, FERNANDO": 46,
+    "AGUILERA AGUILERA, DIEGO": 90,
+    "HAZAS SANTOS, DENNIS": 43,
+    "QUIROGA OTERO, MIKEL": 49,
+    "Ramírez Iglesias, JAVIER": 40,
+    "CARRERAS AMADO, DANIEL": 49,
+    "REVILLA ALONSO, PELAYO": 90,
+    "MARSELLA GONZALEZ, MATEO": 90,
+    "ALVAREZ RASINES, LUCAS": 50,
+    "GARRIDO ALVARADO, SAMUEL": 47,
+    "AGUILAR GARCIA, HUGO": 44,
+    "GARCIA TORRE, PABLO": 41,
+    "NEGRETE GIL, DIEGO": 41
+  },
+  "portero_local": "SAN MIGUEL OLABARRIETA, OMAR",
+  "portero_visitante": "BRINGAS MARTINEZ, OSCAR",
+  "dorsales_local": {
+    "SAN MIGUEL OLABARRIETA, OMAR": 1,
+    "CUENCO FORCELLEDO, DANIEL": 2,
+    "HORMILLA MAÑERU, UNAI": 3,
+    "BOUZA FERNANDEZ, DANIEL": 4,
+    "BOUZAS FERNANDEZ, ALAIN": 6,
+    "HUERTAS VALBUENA, MARTIN ELIAS": 7,
+    "SERRANO GUTIERREZ, EKAITZ": 10,
+    "TARANILLA CORNEJO, MARKEL": 11,
+    "HUERTA BARTOLOME, HODEI": 14,
+    "RESANO RUIZ, GUILLERMO": 20,
+    "LOPEZ FERNANDEZ, JACOBO": 74
+  },
+  "dorsales_visitante": {
+    "BRINGAS MARTINEZ, OSCAR": 1,
+    "TORRE CASTILLO, DIEGO": 4,
+    "FELICES VIVANCO, MARCO": 6,
+    "AGUILERA AGUILERA, FERNANDO": 8,
+    "AGUILERA AGUILERA, DIEGO": 9,
+    "HAZAS SANTOS, DENNIS": 11,
+    "QUIROGA OTERO, MIKEL": 14,
+    "Ramírez Iglesias, JAVIER": 23,
+    "CARRERAS AMADO, DANIEL": 25,
+    "REVILLA ALONSO, PELAYO": 26,
+    "MARSELLA GONZALEZ, MATEO": 28
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
