@@ -1,0 +1,281 @@
+{
+  "acta_id": "B_10057679",
+  "filename": "Acta_B_10057679.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "26-09-2026",
+  "hora": "19:00",
+  "categoria": "DIVISIÓN DE HONOR HJ / GAZTEEN OHOREZKO MAILA (GRUPO 1)",
+  "equipo_local": "BERMEO A",
+  "equipo_visitante": "BEGOÑA A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "GARRO RIESCO, IGNACIO"
+  ],
+  "estadio": "PENTA",
+  "ciudad": "Bermeo",
+  "goleadores": [
+    {
+      "minuto": 49,
+      "jugador": "ZUAZO MARTIN, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "SAGARMINAGA MENTXAKA, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 82,
+      "jugador": "GALARZA AGUIRRE, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "GOROSTIAGA URIBARRI, UNAX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "VALLEJOS VEGA, ASIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "GUTIERREZ MERINO, UNAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MESA ECHEBARRIA, JOSEBA IÑAKI",
+  "entrenador_visitante": "ARGOTE PAJARES, ALAIN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PARDO CUNHA, SANTIAGO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PARDO CUNHA, SANTIAGO",
+  "delegado_equipo_visitante": "ANGULO UBEDA, ALAIN",
+  "titulares_local": [
+    "SANTIAGO GOICURIA, ANDER",
+    "GABANTXO BERCEDO, MIKEL",
+    "OSEGUERA GERVASIO, MIKEL",
+    "SOTO URIARTE, URTZI",
+    "FERNANDEZ BILBAO, ANDER",
+    "ELORDUY MARKES, JON",
+    "LUNA SAN NICOLAS, ANDER",
+    "PARDO ZABALETA, AITOR",
+    "LANDETA BATIS, ANER",
+    "GOROSTIAGA URIBARRI, UNAX",
+    "ROZA TELLETXEA, IBON"
+  ],
+  "titulares_visitante": [
+    "MORENO SERRANO, MIKEL",
+    "DE DIEGO EGUILUZ, GALDER",
+    "VALLEJOS VEGA, ASIER",
+    "RAMOS TRAPAGA, IZEI",
+    "ZUAZO MARTIN, UNAX",
+    "CANCHO JARA, IZAN",
+    "GARCIA FERNANDEZ DE LUCO, XABIER",
+    "PEREZ ZALDUNBIDE, URKO",
+    "SAGARMINAGA MENTXAKA, OIER",
+    "BELAZA ARANA, ENEKO",
+    "ROJAS CUEVAS, ANDY LUCAS"
+  ],
+  "suplentes_local": [
+    "HERRAN AGUADO, ANDER",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "BERNAL MUNEVAR, DAVID MANUEL",
+    "PALACIOS SANCHEZ, OIER",
+    "DIEGO NEMEH, EKAIN",
+    "OLIVEIRA GARCIA, PAUL",
+    "GOITIA GOIENETXEA, ANDER"
+  ],
+  "suplentes_visitante": [
+    "DURAN ARCE, ALAIN",
+    "GUTIERREZ MERINO, UNAI",
+    "MONGE LOPEZ, UNAI",
+    "GALARZA AGUIRRE, MARKEL",
+    "ARNAIZ MARTINEZ, YERAY",
+    "MORENO GARCIA, UNAX",
+    "MOLINA PALMA, ADRIAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "HERRAN AGUADO, ANDER",
+    "DIEGO NEMEH, EKAIN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DURAN ARCE, ALAIN",
+    "ARNAIZ MARTINEZ, YERAY"
+  ],
+  "jugadores_local": [
+    "SANTIAGO GOICURIA, ANDER",
+    "GABANTXO BERCEDO, MIKEL",
+    "OSEGUERA GERVASIO, MIKEL",
+    "SOTO URIARTE, URTZI",
+    "FERNANDEZ BILBAO, ANDER",
+    "ELORDUY MARKES, JON",
+    "LUNA SAN NICOLAS, ANDER",
+    "PARDO ZABALETA, AITOR",
+    "LANDETA BATIS, ANER",
+    "GOROSTIAGA URIBARRI, UNAX",
+    "ROZA TELLETXEA, IBON",
+    "OLIVEIRA GARCIA, PAUL",
+    "EL ABDELLAOUI BOUGUA, ADAM",
+    "PALACIOS SANCHEZ, OIER",
+    "GOITIA GOIENETXEA, ANDER",
+    "BERNAL MUNEVAR, DAVID MANUEL"
+  ],
+  "jugadores_visitante": [
+    "MORENO SERRANO, MIKEL",
+    "DE DIEGO EGUILUZ, GALDER",
+    "VALLEJOS VEGA, ASIER",
+    "RAMOS TRAPAGA, IZEI",
+    "ZUAZO MARTIN, UNAX",
+    "CANCHO JARA, IZAN",
+    "GARCIA FERNANDEZ DE LUCO, XABIER",
+    "PEREZ ZALDUNBIDE, URKO",
+    "SAGARMINAGA MENTXAKA, OIER",
+    "BELAZA ARANA, ENEKO",
+    "ROJAS CUEVAS, ANDY LUCAS",
+    "GALARZA AGUIRRE, MARKEL",
+    "MONGE LOPEZ, UNAI",
+    "GUTIERREZ MERINO, UNAI",
+    "MOLINA PALMA, ADRIAN",
+    "MORENO GARCIA, UNAX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "OLIVEIRA GARCIA, PAUL",
+      "sale": "LUNA SAN NICOLAS, ANDER"
+    },
+    {
+      "min": 59,
+      "entra": "EL ABDELLAOUI BOUGUA, ADAM",
+      "sale": "GABANTXO BERCEDO, MIKEL"
+    },
+    {
+      "min": 68,
+      "entra": "PALACIOS SANCHEZ, OIER",
+      "sale": "FERNANDEZ BILBAO, ANDER"
+    },
+    {
+      "min": 68,
+      "entra": "GOITIA GOIENETXEA, ANDER",
+      "sale": "LANDETA BATIS, ANER"
+    },
+    {
+      "min": 76,
+      "entra": "BERNAL MUNEVAR, DAVID MANUEL",
+      "sale": "SOTO URIARTE, URTZI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 68,
+      "entra": "GALARZA AGUIRRE, MARKEL",
+      "sale": "RAMOS TRAPAGA, IZEI"
+    },
+    {
+      "min": 68,
+      "entra": "MONGE LOPEZ, UNAI",
+      "sale": "SAGARMINAGA MENTXAKA, OIER"
+    },
+    {
+      "min": 77,
+      "entra": "GUTIERREZ MERINO, UNAI",
+      "sale": "GARCIA FERNANDEZ DE LUCO, XABIER"
+    },
+    {
+      "min": 85,
+      "entra": "MOLINA PALMA, ADRIAN",
+      "sale": "ZUAZO MARTIN, UNAX"
+    },
+    {
+      "min": 85,
+      "entra": "MORENO GARCIA, UNAX",
+      "sale": "CANCHO JARA, IZAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANTIAGO GOICURIA, ANDER": 90,
+    "GABANTXO BERCEDO, MIKEL": 59,
+    "OSEGUERA GERVASIO, MIKEL": 90,
+    "SOTO URIARTE, URTZI": 76,
+    "FERNANDEZ BILBAO, ANDER": 68,
+    "ELORDUY MARKES, JON": 90,
+    "LUNA SAN NICOLAS, ANDER": 59,
+    "PARDO ZABALETA, AITOR": 90,
+    "LANDETA BATIS, ANER": 68,
+    "GOROSTIAGA URIBARRI, UNAX": 90,
+    "ROZA TELLETXEA, IBON": 90,
+    "OLIVEIRA GARCIA, PAUL": 31,
+    "EL ABDELLAOUI BOUGUA, ADAM": 31,
+    "PALACIOS SANCHEZ, OIER": 22,
+    "GOITIA GOIENETXEA, ANDER": 22,
+    "BERNAL MUNEVAR, DAVID MANUEL": 14,
+    "MORENO SERRANO, MIKEL": 90,
+    "DE DIEGO EGUILUZ, GALDER": 90,
+    "VALLEJOS VEGA, ASIER": 90,
+    "RAMOS TRAPAGA, IZEI": 68,
+    "ZUAZO MARTIN, UNAX": 85,
+    "CANCHO JARA, IZAN": 85,
+    "GARCIA FERNANDEZ DE LUCO, XABIER": 77,
+    "PEREZ ZALDUNBIDE, URKO": 90,
+    "SAGARMINAGA MENTXAKA, OIER": 68,
+    "BELAZA ARANA, ENEKO": 90,
+    "ROJAS CUEVAS, ANDY LUCAS": 90,
+    "GALARZA AGUIRRE, MARKEL": 22,
+    "MONGE LOPEZ, UNAI": 22,
+    "GUTIERREZ MERINO, UNAI": 13,
+    "MOLINA PALMA, ADRIAN": 5,
+    "MORENO GARCIA, UNAX": 5
+  },
+  "portero_local": "SANTIAGO GOICURIA, ANDER",
+  "portero_visitante": "MORENO SERRANO, MIKEL",
+  "dorsales_local": {
+    "SANTIAGO GOICURIA, ANDER": 1,
+    "GABANTXO BERCEDO, MIKEL": 3,
+    "OSEGUERA GERVASIO, MIKEL": 4,
+    "SOTO URIARTE, URTZI": 8,
+    "FERNANDEZ BILBAO, ANDER": 9,
+    "ELORDUY MARKES, JON": 10,
+    "LUNA SAN NICOLAS, ANDER": 11,
+    "PARDO ZABALETA, AITOR": 14,
+    "LANDETA BATIS, ANER": 18,
+    "GOROSTIAGA URIBARRI, UNAX": 20,
+    "ROZA TELLETXEA, IBON": 22
+  },
+  "dorsales_visitante": {
+    "MORENO SERRANO, MIKEL": 1,
+    "DE DIEGO EGUILUZ, GALDER": 2,
+    "VALLEJOS VEGA, ASIER": 5,
+    "RAMOS TRAPAGA, IZEI": 7,
+    "ZUAZO MARTIN, UNAX": 11,
+    "CANCHO JARA, IZAN": 14,
+    "GARCIA FERNANDEZ DE LUCO, XABIER": 16,
+    "PEREZ ZALDUNBIDE, URKO": 18,
+    "SAGARMINAGA MENTXAKA, OIER": 20,
+    "BELAZA ARANA, ENEKO": 22,
+    "ROJAS CUEVAS, ANDY LUCAS": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
