@@ -23,19 +23,22 @@
       "minuto": 19,
       "jugador": "MERINO DELGADO, EVA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 56,
       "jugador": "JAOUAD BENDRIHAM, MALAK",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 58,
       "jugador": "JAOUAD BENDRIHAM, MALAK",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -193,6 +196,5 @@
     "IBAÑEZ ABAD, VEGA": 17,
     "SOLANO LOPEZ, LAURA": 19
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
