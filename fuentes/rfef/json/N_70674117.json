@@ -1,0 +1,275 @@
+{
+  "acta_id": "N_70674117",
+  "filename": "Acta_N_70674117.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 1,
+  "fecha": "13-09-2025",
+  "hora": "16:15",
+  "categoria": "Division de Honor Juvenil (Grupo 1)",
+  "equipo_local": "REAL OVIEDO",
+  "equipo_visitante": "AROSA SOCIEDAD CULTURAL",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ÁRBITRO",
+    "COLLADO FERNÁNDEZ, RAMÓN",
+    "ÁRBITRO ASISTENTE",
+    "TORAL DE LA IGLESIA, RUBÉN",
+    "ÁRBITRO ASISTENTE",
+    "LLORENTE SUÁREZ, SAMARA"
+  ],
+  "estadio": "El Requexón 1",
+  "ciudad": "Oviedo",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "TORRON ROCES, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "GOITIA FIDALGO, JOSE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 90,
+      "jugador": "TORRON ROCES, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "PIÑEIRO RODRIGUEZ, DAVID",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "SOTO CAMPOS, IAGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "LOPEZ CARBALLO, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "LOPEZ ABALO, JUAN LUIS",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ARMENTAL BERMUDEZ, JUAN PABLO",
+  "titulares_local": [
+    "ROMANCHENKO, KIRIL",
+    "ALVAREZ DIAS, LUCAS",
+    "ALVAREZ PALACIO, HUGO",
+    "ARRIBAS GARCIA, ARTURO",
+    "RODRIGUEZ RODRIGUEZ, ELIAS",
+    "MADERA FERNANDEZ, PABLO",
+    "CAMBIELLA POSADA, DIEGO",
+    "MARTÍNEZ FERNÁNDEZ, DIEGO",
+    "TORRON ROCES, ALVARO",
+    "GONZALEZ FERNANDEZ, MARIO",
+    "ESPAÑA RODRIGUEZ, ALVARO"
+  ],
+  "titulares_visitante": [
+    "FUENTES CARBIA, ADRIAN",
+    "GARCIA LAMELA, BELTRAN",
+    "LORENZO VAZQUEZ, JUAN DIEGO",
+    "AROSA LEDE, YERAY",
+    "PIÑEIRO RODRIGUEZ, DAVID",
+    "FALCON VARELA, IVAN",
+    "AROSA GONZALEZ, YAGO",
+    "PINTOS ROSARIO, MARCO ANTONIO",
+    "MARTÍNEZ DOVAL, PABLO",
+    "RODRIGUEZ VAZQUEZ, ROI",
+    "GOITIA FIDALGO, JOSE"
+  ],
+  "suplentes_local": [
+    "GUTIERREZ LARRALDE, RAUL",
+    "RODRIGUEZ CABRERA, ASUR",
+    "CONDE MENÉNDEZ, ANGEL",
+    "LLANA PEREZ, PABLO",
+    "CANO CASTRO, SERGIO",
+    "LOPEZ DIAZ, PELAYO"
+  ],
+  "suplentes_visitante": [
+    "BAYA AREA, ANDRES",
+    "GONZÁLEZ COUCE, RAUL",
+    "NEIRA RIVAS, JORGE",
+    "MIGUEZ REGUEIRA, PABLO",
+    "DOMINGUEZ FONTAIÑA, YAGO",
+    "DURÁN ACEVEDO, XAVI",
+    "SOTO CAMPOS, IAGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GUTIERREZ LARRALDE, RAUL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BAYA AREA, ANDRES",
+    "NEIRA RIVAS, JORGE"
+  ],
+  "jugadores_local": [
+    "ROMANCHENKO, KIRIL",
+    "ALVAREZ DIAS, LUCAS",
+    "ALVAREZ PALACIO, HUGO",
+    "ARRIBAS GARCIA, ARTURO",
+    "RODRIGUEZ RODRIGUEZ, ELIAS",
+    "MADERA FERNANDEZ, PABLO",
+    "CAMBIELLA POSADA, DIEGO",
+    "MARTÍNEZ FERNÁNDEZ, DIEGO",
+    "TORRON ROCES, ALVARO",
+    "GONZALEZ FERNANDEZ, MARIO",
+    "ESPAÑA RODRIGUEZ, ALVARO",
+    "RODRIGUEZ CABRERA, ASUR",
+    "CANO CASTRO, SERGIO",
+    "LLANA PEREZ, PABLO",
+    "LOPEZ DIAZ, PELAYO",
+    "CONDE MENÉNDEZ, ANGEL"
+  ],
+  "jugadores_visitante": [
+    "FUENTES CARBIA, ADRIAN",
+    "GARCIA LAMELA, BELTRAN",
+    "LORENZO VAZQUEZ, JUAN DIEGO",
+    "AROSA LEDE, YERAY",
+    "PIÑEIRO RODRIGUEZ, DAVID",
+    "FALCON VARELA, IVAN",
+    "AROSA GONZALEZ, YAGO",
+    "PINTOS ROSARIO, MARCO ANTONIO",
+    "MARTÍNEZ DOVAL, PABLO",
+    "RODRIGUEZ VAZQUEZ, ROI",
+    "GOITIA FIDALGO, JOSE",
+    "SOTO CAMPOS, IAGO",
+    "DOMINGUEZ FONTAIÑA, YAGO",
+    "DURÁN ACEVEDO, XAVI",
+    "GONZÁLEZ COUCE, RAUL",
+    "MIGUEZ REGUEIRA, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "RODRIGUEZ CABRERA, ASUR",
+      "sale": "MADERA FERNANDEZ, PABLO"
+    },
+    {
+      "min": 60,
+      "entra": "CANO CASTRO, SERGIO",
+      "sale": "ALVAREZ DIAS, LUCAS"
+    },
+    {
+      "min": 71,
+      "entra": "LLANA PEREZ, PABLO",
+      "sale": "RODRIGUEZ RODRIGUEZ, ELIAS"
+    },
+    {
+      "min": 71,
+      "entra": "LOPEZ DIAZ, PELAYO",
+      "sale": "ARRIBAS GARCIA, ARTURO"
+    },
+    {
+      "min": 75,
+      "entra": "CONDE MENÉNDEZ, ANGEL",
+      "sale": "GONZALEZ FERNANDEZ, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "SOTO CAMPOS, IAGO",
+      "sale": "GARCIA LAMELA, BELTRAN"
+    },
+    {
+      "min": 45,
+      "entra": "DOMINGUEZ FONTAIÑA, YAGO",
+      "sale": "AROSA GONZALEZ, YAGO"
+    },
+    {
+      "min": 57,
+      "entra": "DURÁN ACEVEDO, XAVI",
+      "sale": "PINTOS ROSARIO, MARCO ANTONIO"
+    },
+    {
+      "min": 65,
+      "entra": "GONZÁLEZ COUCE, RAUL",
+      "sale": "MARTÍNEZ DOVAL, PABLO"
+    },
+    {
+      "min": 71,
+      "entra": "MIGUEZ REGUEIRA, PABLO",
+      "sale": "PIÑEIRO RODRIGUEZ, DAVID"
+    }
+  ],
+  "minutos_jugadores": {
+    "ROMANCHENKO, KIRIL": 90,
+    "ALVAREZ DIAS, LUCAS": 60,
+    "ALVAREZ PALACIO, HUGO": 90,
+    "ARRIBAS GARCIA, ARTURO": 71,
+    "RODRIGUEZ RODRIGUEZ, ELIAS": 71,
+    "MADERA FERNANDEZ, PABLO": 60,
+    "CAMBIELLA POSADA, DIEGO": 90,
+    "MARTÍNEZ FERNÁNDEZ, DIEGO": 90,
+    "TORRON ROCES, ALVARO": 90,
+    "GONZALEZ FERNANDEZ, MARIO": 75,
+    "ESPAÑA RODRIGUEZ, ALVARO": 90,
+    "FUENTES CARBIA, ADRIAN": 90,
+    "GARCIA LAMELA, BELTRAN": 45,
+    "LORENZO VAZQUEZ, JUAN DIEGO": 90,
+    "AROSA LEDE, YERAY": 90,
+    "PIÑEIRO RODRIGUEZ, DAVID": 71,
+    "FALCON VARELA, IVAN": 90,
+    "AROSA GONZALEZ, YAGO": 45,
+    "PINTOS ROSARIO, MARCO ANTONIO": 57,
+    "MARTÍNEZ DOVAL, PABLO": 65,
+    "RODRIGUEZ VAZQUEZ, ROI": 90,
+    "GOITIA FIDALGO, JOSE": 90,
+    "RODRIGUEZ CABRERA, ASUR": 30,
+    "CANO CASTRO, SERGIO": 30,
+    "LLANA PEREZ, PABLO": 19,
+    "LOPEZ DIAZ, PELAYO": 19,
+    "CONDE MENÉNDEZ, ANGEL": 15,
+    "SOTO CAMPOS, IAGO": 45,
+    "DOMINGUEZ FONTAIÑA, YAGO": 45,
+    "DURÁN ACEVEDO, XAVI": 33,
+    "GONZÁLEZ COUCE, RAUL": 25,
+    "MIGUEZ REGUEIRA, PABLO": 19
+  },
+  "portero_local": "ROMANCHENKO, KIRIL",
+  "portero_visitante": "FUENTES CARBIA, ADRIAN",
+  "dorsales_local": {
+    "ROMANCHENKO, KIRIL": 1,
+    "ALVAREZ DIAS, LUCAS": 2,
+    "ALVAREZ PALACIO, HUGO": 3,
+    "ARRIBAS GARCIA, ARTURO": 4,
+    "RODRIGUEZ RODRIGUEZ, ELIAS": 5,
+    "MADERA FERNANDEZ, PABLO": 8,
+    "CAMBIELLA POSADA, DIEGO": 11,
+    "MARTÍNEZ FERNÁNDEZ, DIEGO": 14,
+    "TORRON ROCES, ALVARO": 17,
+    "GONZALEZ FERNANDEZ, MARIO": 22,
+    "ESPAÑA RODRIGUEZ, ALVARO": 23
+  },
+  "dorsales_visitante": {
+    "FUENTES CARBIA, ADRIAN": 13,
+    "GARCIA LAMELA, BELTRAN": 2,
+    "LORENZO VAZQUEZ, JUAN DIEGO": 3,
+    "AROSA LEDE, YERAY": 6,
+    "PIÑEIRO RODRIGUEZ, DAVID": 7,
+    "FALCON VARELA, IVAN": 8,
+    "AROSA GONZALEZ, YAGO": 11,
+    "PINTOS ROSARIO, MARCO ANTONIO": 16,
+    "MARTÍNEZ DOVAL, PABLO": 19,
+    "RODRIGUEZ VAZQUEZ, ROI": 20,
+    "GOITIA FIDALGO, JOSE": 22
+  },
+  "suspendidos": []
+}
