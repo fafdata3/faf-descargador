@@ -1,0 +1,263 @@
+{
+  "acta_id": "B_9974514",
+  "filename": "Acta_B_9974514.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 5,
+  "fecha": "16-11-2025",
+  "hora": "13:15",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 2)",
+  "equipo_local": "GURUTZETA B",
+  "equipo_visitante": "RETUERTO C",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MUÑOZ PRIETO, GAIZKA"
+  ],
+  "estadio": "LA SIEBE",
+  "ciudad": "CRUCES-BARAKALDO",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "GONZALEZ RUIZ, AITZOL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "BRINGAS LARRAURI, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "ROMAN CRUZ, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 18,
+      "jugador": "BRINGAS LARRAURI, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "BERCERUELO LOPEZ, OIHAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "GONZALEZ RUIZ, AITZOL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VILLAMOR MORENO, ALEX",
+  "entrenador_visitante": "BECERRA VILLANUEVA, SERGIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MANZANO PEREZ, ANDER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ZORRILLA LAZARO, ENEKO",
+  "delegado_equipo_visitante": "GIL DELGADO, GAIZKA",
+  "titulares_local": [
+    "PEREZ MARTIN, OSCAR",
+    "MATEO AQUINO, MIKEL ALBERTO",
+    "CANTERO AMBOAJE, URKO",
+    "BERMEJO SANCHEZ, AIRAN",
+    "GONZALO LOPEZ, NAKOR",
+    "MARDONES CORRALES, IBAI",
+    "BLANCO PULLEIRO, HARITZ",
+    "PACHECO RIVERA, RICARDO KASAI",
+    "SEOANE VAZQUEZ, IKER",
+    "ALONSO PRESA, AIMAR",
+    "LOPEZ LACALLE, IKER"
+  ],
+  "titulares_visitante": [
+    "BLANCO SANCHO, UNAX",
+    "FERNANDEZ PEÑA, IZAN",
+    "PEREZ ESPADA, MAURO",
+    "BERCERUELO LOPEZ, OIHAN",
+    "OSTIO SANTAMARIA, EKAIN",
+    "SAEZ GARCIA, MARKEL",
+    "GONZALEZ RUIZ, AITZOL",
+    "ITURRIAGAECHEVARRIA ALONSO, ELEDER",
+    "ROMAN CRUZ, HUGO",
+    "GABIÑA MARTINEZ, AITOR",
+    "BRINGAS LARRAURI, MARKEL"
+  ],
+  "suplentes_local": [
+    "MALDONADO AQUINO, ASIER",
+    "ANTELO FERNANDEZ, ANXO",
+    "GARCIA GARCIA, ADEI",
+    "ENJAMIO CHICO, ADRIÁN",
+    "PROL PEREZ, IBAN",
+    "KASMI KHAYR, NOAMAN",
+    "DIEGUEZ DUQUE, IORITZ"
+  ],
+  "suplentes_visitante": [
+    "ALEXE, SOLOMON VICTOR",
+    "MUÑOZ EZQUERRO, JULEN",
+    "CORCOBA TALABAN, AIMAR",
+    "FONSECA SANTOS, IKER",
+    "MARTIN AGUADO, LUKEN",
+    "AGRASO RIVEIRO, ALEJANDRO",
+    "ESPINAZO JIMENEZ, UNAI"
+  ],
+  "convocados_sin_jugar_local": [
+    "ENJAMIO CHICO, ADRIÁN",
+    "PROL PEREZ, IBAN",
+    "KASMI KHAYR, NOAMAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CORCOBA TALABAN, AIMAR",
+    "MARTIN AGUADO, LUKEN",
+    "AGRASO RIVEIRO, ALEJANDRO",
+    "ESPINAZO JIMENEZ, UNAI"
+  ],
+  "jugadores_local": [
+    "PEREZ MARTIN, OSCAR",
+    "MATEO AQUINO, MIKEL ALBERTO",
+    "CANTERO AMBOAJE, URKO",
+    "BERMEJO SANCHEZ, AIRAN",
+    "GONZALO LOPEZ, NAKOR",
+    "MARDONES CORRALES, IBAI",
+    "BLANCO PULLEIRO, HARITZ",
+    "PACHECO RIVERA, RICARDO KASAI",
+    "SEOANE VAZQUEZ, IKER",
+    "ALONSO PRESA, AIMAR",
+    "LOPEZ LACALLE, IKER",
+    "MALDONADO AQUINO, ASIER",
+    "ANTELO FERNANDEZ, ANXO",
+    "GARCIA GARCIA, ADEI",
+    "DIEGUEZ DUQUE, IORITZ"
+  ],
+  "jugadores_visitante": [
+    "BLANCO SANCHO, UNAX",
+    "FERNANDEZ PEÑA, IZAN",
+    "PEREZ ESPADA, MAURO",
+    "BERCERUELO LOPEZ, OIHAN",
+    "OSTIO SANTAMARIA, EKAIN",
+    "SAEZ GARCIA, MARKEL",
+    "GONZALEZ RUIZ, AITZOL",
+    "ITURRIAGAECHEVARRIA ALONSO, ELEDER",
+    "ROMAN CRUZ, HUGO",
+    "GABIÑA MARTINEZ, AITOR",
+    "BRINGAS LARRAURI, MARKEL",
+    "MUÑOZ EZQUERRO, JULEN",
+    "FONSECA SANTOS, IKER",
+    "ALEXE, SOLOMON VICTOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "MALDONADO AQUINO, ASIER",
+      "sale": "GONZALO LOPEZ, NAKOR"
+    },
+    {
+      "min": 40,
+      "entra": "ANTELO FERNANDEZ, ANXO",
+      "sale": "MARDONES CORRALES, IBAI"
+    },
+    {
+      "min": 62,
+      "entra": "GARCIA GARCIA, ADEI",
+      "sale": "BERMEJO SANCHEZ, AIRAN"
+    },
+    {
+      "min": 65,
+      "entra": "DIEGUEZ DUQUE, IORITZ",
+      "sale": "CANTERO AMBOAJE, URKO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 63,
+      "entra": "MUÑOZ EZQUERRO, JULEN",
+      "sale": "GONZALEZ RUIZ, AITZOL"
+    },
+    {
+      "min": 65,
+      "entra": "FONSECA SANTOS, IKER",
+      "sale": "FERNANDEZ PEÑA, IZAN"
+    },
+    {
+      "min": 76,
+      "entra": "ALEXE, SOLOMON VICTOR",
+      "sale": "SAEZ GARCIA, MARKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ MARTIN, OSCAR": 90,
+    "MATEO AQUINO, MIKEL ALBERTO": 90,
+    "CANTERO AMBOAJE, URKO": 65,
+    "BERMEJO SANCHEZ, AIRAN": 62,
+    "GONZALO LOPEZ, NAKOR": 40,
+    "MARDONES CORRALES, IBAI": 40,
+    "BLANCO PULLEIRO, HARITZ": 90,
+    "PACHECO RIVERA, RICARDO KASAI": 90,
+    "SEOANE VAZQUEZ, IKER": 90,
+    "ALONSO PRESA, AIMAR": 90,
+    "LOPEZ LACALLE, IKER": 90,
+    "MALDONADO AQUINO, ASIER": 50,
+    "ANTELO FERNANDEZ, ANXO": 50,
+    "GARCIA GARCIA, ADEI": 28,
+    "DIEGUEZ DUQUE, IORITZ": 25,
+    "BLANCO SANCHO, UNAX": 90,
+    "FERNANDEZ PEÑA, IZAN": 65,
+    "PEREZ ESPADA, MAURO": 90,
+    "BERCERUELO LOPEZ, OIHAN": 90,
+    "OSTIO SANTAMARIA, EKAIN": 90,
+    "SAEZ GARCIA, MARKEL": 76,
+    "GONZALEZ RUIZ, AITZOL": 63,
+    "ITURRIAGAECHEVARRIA ALONSO, ELEDER": 90,
+    "ROMAN CRUZ, HUGO": 90,
+    "GABIÑA MARTINEZ, AITOR": 90,
+    "BRINGAS LARRAURI, MARKEL": 90,
+    "MUÑOZ EZQUERRO, JULEN": 27,
+    "FONSECA SANTOS, IKER": 25,
+    "ALEXE, SOLOMON VICTOR": 14
+  },
+  "portero_local": "PEREZ MARTIN, OSCAR",
+  "portero_visitante": "BLANCO SANCHO, UNAX",
+  "dorsales_local": {
+    "PEREZ MARTIN, OSCAR": 1,
+    "MATEO AQUINO, MIKEL ALBERTO": 3,
+    "CANTERO AMBOAJE, URKO": 5,
+    "BERMEJO SANCHEZ, AIRAN": 7,
+    "GONZALO LOPEZ, NAKOR": 10,
+    "MARDONES CORRALES, IBAI": 14,
+    "BLANCO PULLEIRO, HARITZ": 18,
+    "PACHECO RIVERA, RICARDO KASAI": 19,
+    "SEOANE VAZQUEZ, IKER": 20,
+    "ALONSO PRESA, AIMAR": 22,
+    "LOPEZ LACALLE, IKER": 23
+  },
+  "dorsales_visitante": {
+    "BLANCO SANCHO, UNAX": 1,
+    "FERNANDEZ PEÑA, IZAN": 2,
+    "PEREZ ESPADA, MAURO": 3,
+    "BERCERUELO LOPEZ, OIHAN": 4,
+    "OSTIO SANTAMARIA, EKAIN": 7,
+    "SAEZ GARCIA, MARKEL": 9,
+    "GONZALEZ RUIZ, AITZOL": 10,
+    "ITURRIAGAECHEVARRIA ALONSO, ELEDER": 11,
+    "ROMAN CRUZ, HUGO": 18,
+    "GABIÑA MARTINEZ, AITOR": 20,
+    "BRINGAS LARRAURI, MARKEL": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
