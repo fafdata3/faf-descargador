@@ -1,0 +1,250 @@
+{
+  "acta_id": "C_192887",
+  "filename": "Acta_C_192887.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 19,
+  "fecha": "25-01-2025",
+  "hora": "12:45",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.AT. PERINES",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "FERNÁNDEZ ARAGONCILLO, PABLO"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "MARTINEZ SANCHEZ, PEDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "CANALES VILLA, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "ORDAX IBAÑEZ, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "NAVARRO SEOANE, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 57,
+      "jugador": "LOPEZ FERNANDEZ, IAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "NAVARRO SEOANE, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARCOS NUÑEZ, JUAN JOSE",
+  "entrenador_visitante": "PALACIO NAVARRO, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "DE LA FUENTE DIEGO, LIAN",
+  "titulares_local": [
+    "SERTUCHA PEREZ, EDUARDO",
+    "GARCIA RUEDA, BELTRAN",
+    "MARTINEZ SANCHEZ, PEDRO",
+    "LASTRA CAÑEDO, FIDEL",
+    "MARTINEZ MURIEDAS, PABLO",
+    "DE LA FUENTE TORRE, DANIEL",
+    "CANALES VILLA, IKER",
+    "ORDAX IBAÑEZ, DAVID",
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+    "HERNANDEZ DÍAZ, IKER",
+    "FERNANDEZ FERNANDEZ, IKER"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "gomara rivas, MANUEL",
+    "BEZANILLA GARCIA, AARON",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "HERRAN ALONSO, MARCO",
+    "SOLANA PELAZ, DANIEL",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "TOMAS AJA, JAVIER",
+    "TORRE MACIA, RODRIGO",
+    "GARCIA SAYALERO, ALEJANDRO"
+  ],
+  "suplentes_local": [
+    "LOPEZ FERNANDEZ, IAN",
+    "CARRASCAL RUIZ, IZAN",
+    "GARCIA RUIZ, HERNAN",
+    "CAVADA MARTIN, IZAN"
+  ],
+  "suplentes_visitante": [
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "FERNANDEZ RUIZ, MARCO",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "GUTIERREZ SARABIA, OSEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "FERNANDEZ RUIZ, MARCO"
+  ],
+  "jugadores_local": [
+    "SERTUCHA PEREZ, EDUARDO",
+    "GARCIA RUEDA, BELTRAN",
+    "MARTINEZ SANCHEZ, PEDRO",
+    "LASTRA CAÑEDO, FIDEL",
+    "MARTINEZ MURIEDAS, PABLO",
+    "DE LA FUENTE TORRE, DANIEL",
+    "CANALES VILLA, IKER",
+    "ORDAX IBAÑEZ, DAVID",
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY",
+    "HERNANDEZ DÍAZ, IKER",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "LOPEZ FERNANDEZ, IAN",
+    "CARRASCAL RUIZ, IZAN",
+    "GARCIA RUIZ, HERNAN",
+    "CAVADA MARTIN, IZAN"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "gomara rivas, MANUEL",
+    "BEZANILLA GARCIA, AARON",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "HERRAN ALONSO, MARCO",
+    "SOLANA PELAZ, DANIEL",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "TOMAS AJA, JAVIER",
+    "TORRE MACIA, RODRIGO",
+    "GARCIA SAYALERO, ALEJANDRO",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "GUTIERREZ SARABIA, OSEL",
+    "SAÑUDO BLAZQUEZ, ADRIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "LOPEZ FERNANDEZ, IAN",
+      "sale": "MARTINEZ SANCHEZ, PEDRO"
+    },
+    {
+      "min": 54,
+      "entra": "CARRASCAL RUIZ, IZAN",
+      "sale": "LASTRA CAÑEDO, FIDEL"
+    },
+    {
+      "min": 74,
+      "entra": "GARCIA RUIZ, HERNAN",
+      "sale": "DE LA FUENTE TORRE, DANIEL"
+    },
+    {
+      "min": 79,
+      "entra": "CAVADA MARTIN, IZAN",
+      "sale": "ORDAX IBAÑEZ, DAVID"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "RODRIGUEZ LABRADOR, PABLO",
+      "sale": "SOLANA PELAZ, DANIEL"
+    },
+    {
+      "min": 53,
+      "entra": "GUTIERREZ SARABIA, OSEL",
+      "sale": "HERRAN ALONSO, MARCO"
+    },
+    {
+      "min": 53,
+      "entra": "SAÑUDO BLAZQUEZ, ADRIAN",
+      "sale": "BEZANILLA GARCIA, AARON"
+    }
+  ],
+  "minutos_jugadores": {
+    "SERTUCHA PEREZ, EDUARDO": 90,
+    "GARCIA RUEDA, BELTRAN": 90,
+    "MARTINEZ SANCHEZ, PEDRO": 51,
+    "LASTRA CAÑEDO, FIDEL": 54,
+    "MARTINEZ MURIEDAS, PABLO": 90,
+    "DE LA FUENTE TORRE, DANIEL": 74,
+    "CANALES VILLA, IKER": 90,
+    "ORDAX IBAÑEZ, DAVID": 79,
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY": 90,
+    "HERNANDEZ DÍAZ, IKER": 90,
+    "FERNANDEZ FERNANDEZ, IKER": 90,
+    "LOPEZ FERNANDEZ, IAN": 39,
+    "CARRASCAL RUIZ, IZAN": 36,
+    "GARCIA RUIZ, HERNAN": 16,
+    "CAVADA MARTIN, IZAN": 11,
+    "RODRIGUEZ AGUDO, HUGO": 90,
+    "gomara rivas, MANUEL": 90,
+    "BEZANILLA GARCIA, AARON": 53,
+    "GARCIA DIEGO PEREZ, ANGEL": 90,
+    "HERRAN ALONSO, MARCO": 53,
+    "SOLANA PELAZ, DANIEL": 45,
+    "NAVARRO SEOANE, NICOLAS": 90,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 90,
+    "TOMAS AJA, JAVIER": 90,
+    "TORRE MACIA, RODRIGO": 90,
+    "GARCIA SAYALERO, ALEJANDRO": 90,
+    "RODRIGUEZ LABRADOR, PABLO": 45,
+    "GUTIERREZ SARABIA, OSEL": 37,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 37
+  },
+  "portero_local": "SERTUCHA PEREZ, EDUARDO",
+  "portero_visitante": "RODRIGUEZ AGUDO, HUGO",
+  "dorsales_local": {
+    "SERTUCHA PEREZ, EDUARDO": 1,
+    "GARCIA RUEDA, BELTRAN": 2,
+    "MARTINEZ SANCHEZ, PEDRO": 3,
+    "LASTRA CAÑEDO, FIDEL": 5,
+    "MARTINEZ MURIEDAS, PABLO": 6,
+    "DE LA FUENTE TORRE, DANIEL": 7,
+    "CANALES VILLA, IKER": 9,
+    "ORDAX IBAÑEZ, DAVID": 10,
+    "DE ARRIBA FERRERAS, ANGEL ANTHONY": 14,
+    "HERNANDEZ DÍAZ, IKER": 15,
+    "FERNANDEZ FERNANDEZ, IKER": 18
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ AGUDO, HUGO": 13,
+    "gomara rivas, MANUEL": 2,
+    "BEZANILLA GARCIA, AARON": 3,
+    "GARCIA DIEGO PEREZ, ANGEL": 6,
+    "HERRAN ALONSO, MARCO": 8,
+    "SOLANA PELAZ, DANIEL": 10,
+    "NAVARRO SEOANE, NICOLAS": 12,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 14,
+    "TOMAS AJA, JAVIER": 17,
+    "TORRE MACIA, RODRIGO": 19,
+    "GARCIA SAYALERO, ALEJANDRO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
