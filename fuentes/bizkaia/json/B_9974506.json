@@ -1,0 +1,248 @@
+{
+  "acta_id": "B_9974506",
+  "filename": "Acta_B_9974506.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 4,
+  "fecha": "09-11-2025",
+  "hora": "10:00",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 2)",
+  "equipo_local": "PEÑA ATH. SANTURTZI A",
+  "equipo_visitante": "ALBERRI",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "GUERRERO TORRES, GORKA"
+  ],
+  "estadio": "BENJAMIN MARTINEZ",
+  "ciudad": "Santurtzi",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "CASTRO GARAY, IGOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "PLAZA MARTINEZ, OINATZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "VILLALPANDO PARDO, EKAIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 53,
+      "jugador": "QUINTANA GONZALEZ, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "MARAÑA KINTANA, BEÑAT",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RODRIGUEZ GARCIA, MIKEL",
+  "entrenador_visitante": "SANGINES BARRERAS, URKO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PEREA MEDINA, FRANCISCO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PEREA MEDINA, FRANCISCO",
+  "delegado_equipo_visitante": "MELENDEZ ARRINDA, GAIZKA",
+  "titulares_local": [
+    "TEJELO MONTERO, OIER",
+    "CARRILLO RODRÍGUEZ, VÍCTOR",
+    "RODRIGUEZ GALANTE, RAUL",
+    "MATEO GARCIA, AITOR",
+    "CANO ZALDIBAR, BEÑAT",
+    "BARTOLOME CANO, OIER",
+    "PLAZA MARTINEZ, OINATZ",
+    "GONCALVES RIVERA, MIKEL",
+    "SOLIS IBARGUEN, ANGEL MATIAS",
+    "VILLALPANDO PARDO, EKAIN",
+    "CASTRO GARAY, IGOR"
+  ],
+  "titulares_visitante": [
+    "ASTORECA CEREZO, OIER",
+    "FERNÁNDEZ PÁRAMO, OIER",
+    "MARAÑA KINTANA, BEÑAT",
+    "PREGUNTEGI FERNÁNDEZ, ARATZ",
+    "DOSUNA BERNAL, LANDER",
+    "SARRIA MARTINEZ, PEIO",
+    "LAZCANO HERNANDO, IBAI",
+    "CORRAL FERREÑO, ENEKO",
+    "QUINTANA GONZALEZ, JON",
+    "SANCHEZ DOBLAS, JOEL",
+    "AGUADO ZABALA, JON"
+  ],
+  "suplentes_local": [
+    "PEREZ PONS, OIER",
+    "MARTINEZ BARREDO, EKAITZ",
+    "MARTIN RUIZ, KEVIN",
+    "MARTINEZ SEVILLA, KIMETZ",
+    "KOUMAIRI BAHI, SAAD"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ BLANCO, JUAN",
+    "BOLAÑO PADRONES, GAIZKA",
+    "PÉREZ SANMIGUEL, IZAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "TEJELO MONTERO, OIER",
+    "CARRILLO RODRÍGUEZ, VÍCTOR",
+    "RODRIGUEZ GALANTE, RAUL",
+    "MATEO GARCIA, AITOR",
+    "CANO ZALDIBAR, BEÑAT",
+    "BARTOLOME CANO, OIER",
+    "PLAZA MARTINEZ, OINATZ",
+    "GONCALVES RIVERA, MIKEL",
+    "SOLIS IBARGUEN, ANGEL MATIAS",
+    "VILLALPANDO PARDO, EKAIN",
+    "CASTRO GARAY, IGOR",
+    "MARTINEZ BARREDO, EKAITZ",
+    "MARTIN RUIZ, KEVIN",
+    "MARTINEZ SEVILLA, KIMETZ",
+    "KOUMAIRI BAHI, SAAD",
+    "PEREZ PONS, OIER"
+  ],
+  "jugadores_visitante": [
+    "ASTORECA CEREZO, OIER",
+    "FERNÁNDEZ PÁRAMO, OIER",
+    "MARAÑA KINTANA, BEÑAT",
+    "PREGUNTEGI FERNÁNDEZ, ARATZ",
+    "DOSUNA BERNAL, LANDER",
+    "SARRIA MARTINEZ, PEIO",
+    "LAZCANO HERNANDO, IBAI",
+    "CORRAL FERREÑO, ENEKO",
+    "QUINTANA GONZALEZ, JON",
+    "SANCHEZ DOBLAS, JOEL",
+    "AGUADO ZABALA, JON",
+    "LOPEZ BLANCO, JUAN",
+    "BOLAÑO PADRONES, GAIZKA",
+    "PÉREZ SANMIGUEL, IZAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "MARTINEZ BARREDO, EKAITZ",
+      "sale": "CARRILLO RODRÍGUEZ, VÍCTOR"
+    },
+    {
+      "min": 54,
+      "entra": "MARTIN RUIZ, KEVIN",
+      "sale": "PLAZA MARTINEZ, OINATZ"
+    },
+    {
+      "min": 63,
+      "entra": "MARTINEZ SEVILLA, KIMETZ",
+      "sale": "VILLALPANDO PARDO, EKAIN"
+    },
+    {
+      "min": 63,
+      "entra": "KOUMAIRI BAHI, SAAD",
+      "sale": "MATEO GARCIA, AITOR"
+    },
+    {
+      "min": 63,
+      "entra": "PEREZ PONS, OIER",
+      "sale": "CANO ZALDIBAR, BEÑAT"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "LOPEZ BLANCO, JUAN",
+      "sale": "SANCHEZ DOBLAS, JOEL"
+    },
+    {
+      "min": 59,
+      "entra": "BOLAÑO PADRONES, GAIZKA",
+      "sale": "AGUADO ZABALA, JON"
+    },
+    {
+      "min": 72,
+      "entra": "PÉREZ SANMIGUEL, IZAN",
+      "sale": "QUINTANA GONZALEZ, JON"
+    }
+  ],
+  "minutos_jugadores": {
+    "TEJELO MONTERO, OIER": 90,
+    "CARRILLO RODRÍGUEZ, VÍCTOR": 54,
+    "RODRIGUEZ GALANTE, RAUL": 90,
+    "MATEO GARCIA, AITOR": 63,
+    "CANO ZALDIBAR, BEÑAT": 63,
+    "BARTOLOME CANO, OIER": 90,
+    "PLAZA MARTINEZ, OINATZ": 54,
+    "GONCALVES RIVERA, MIKEL": 90,
+    "SOLIS IBARGUEN, ANGEL MATIAS": 90,
+    "VILLALPANDO PARDO, EKAIN": 63,
+    "CASTRO GARAY, IGOR": 90,
+    "MARTINEZ BARREDO, EKAITZ": 36,
+    "MARTIN RUIZ, KEVIN": 36,
+    "MARTINEZ SEVILLA, KIMETZ": 27,
+    "KOUMAIRI BAHI, SAAD": 27,
+    "PEREZ PONS, OIER": 27,
+    "ASTORECA CEREZO, OIER": 90,
+    "FERNÁNDEZ PÁRAMO, OIER": 90,
+    "MARAÑA KINTANA, BEÑAT": 90,
+    "PREGUNTEGI FERNÁNDEZ, ARATZ": 90,
+    "DOSUNA BERNAL, LANDER": 90,
+    "SARRIA MARTINEZ, PEIO": 90,
+    "LAZCANO HERNANDO, IBAI": 90,
+    "CORRAL FERREÑO, ENEKO": 90,
+    "QUINTANA GONZALEZ, JON": 72,
+    "SANCHEZ DOBLAS, JOEL": 51,
+    "AGUADO ZABALA, JON": 59,
+    "LOPEZ BLANCO, JUAN": 39,
+    "BOLAÑO PADRONES, GAIZKA": 31,
+    "PÉREZ SANMIGUEL, IZAN": 18
+  },
+  "portero_local": "TEJELO MONTERO, OIER",
+  "portero_visitante": "ASTORECA CEREZO, OIER",
+  "dorsales_local": {
+    "TEJELO MONTERO, OIER": 25,
+    "CARRILLO RODRÍGUEZ, VÍCTOR": 2,
+    "RODRIGUEZ GALANTE, RAUL": 3,
+    "MATEO GARCIA, AITOR": 4,
+    "CANO ZALDIBAR, BEÑAT": 6,
+    "BARTOLOME CANO, OIER": 8,
+    "PLAZA MARTINEZ, OINATZ": 10,
+    "GONCALVES RIVERA, MIKEL": 14,
+    "SOLIS IBARGUEN, ANGEL MATIAS": 20,
+    "VILLALPANDO PARDO, EKAIN": 21,
+    "CASTRO GARAY, IGOR": 28
+  },
+  "dorsales_visitante": {
+    "ASTORECA CEREZO, OIER": 1,
+    "FERNÁNDEZ PÁRAMO, OIER": 2,
+    "MARAÑA KINTANA, BEÑAT": 7,
+    "PREGUNTEGI FERNÁNDEZ, ARATZ": 8,
+    "DOSUNA BERNAL, LANDER": 9,
+    "SARRIA MARTINEZ, PEIO": 10,
+    "LAZCANO HERNANDO, IBAI": 12,
+    "CORRAL FERREÑO, ENEKO": 16,
+    "QUINTANA GONZALEZ, JON": 17,
+    "SANCHEZ DOBLAS, JOEL": 18,
+    "AGUADO ZABALA, JON": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
