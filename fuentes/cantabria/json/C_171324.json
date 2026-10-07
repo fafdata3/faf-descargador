@@ -1,0 +1,250 @@
+{
+  "acta_id": "C_171324",
+  "filename": "Acta_C_171324.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 19,
+  "fecha": "04-02-2024",
+  "hora": "12:15",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. AMISTAD SNIACE B",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "HOLANDA PELAYO, JOSE LUIS"
+  ],
+  "estadio": "Oscar Freire 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "SOLANA OCERIN, IVAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "ARCE ABASCAL, RUBEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "MALDONADO RUIZ, HECTOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 30,
+      "jugador": "FERNÁNDEZ VICENTE, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "PAÑEDA BOLADO, FERNANDO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "SOLANA OCERIN, IVAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PALAZUELOS TRUEBA, JORGE",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "GONZALEZ ARENAL, PEDRO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "PAÑEDA PORTILLA, JOSE ANGEL",
+  "titulares_local": [
+    "RUIZ SANTOS, AITOR",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "BARRIO OBREGON, IZAN",
+    "GOMEZ BOLADO, MIGUEL",
+    "DAHHAOUI RACHID, YAKOUB",
+    "PERNIA RODRIGUEZ, JOEL",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN"
+  ],
+  "titulares_visitante": [
+    "GARCIA CRUZ, IKER",
+    "MUÑOZ BARQUIN, DIEGO",
+    "CABEZA ZARCO, DANIEL",
+    "BERNARDO BECARES, MARIO",
+    "ALVAREZ CORONA, AARON",
+    "ALVAREZ PEREZ, PABLO",
+    "SALCINES ZARCO, IZAN",
+    "SOLANA OCERIN, IVAN",
+    "MALDONADO RUIZ, HECTOR",
+    "PAÑEDA BOLADO, FERNANDO",
+    "ARCE ABASCAL, RUBEN"
+  ],
+  "suplentes_local": [
+    "SAEZ PEREZ, LUCAS",
+    "GOMEZ NUÑEZ, IKER",
+    "LASO MARTINEZ, ADRIAN",
+    "RENEDO COSIO, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "PEREZ NOVAL, LUCAS",
+    "FALAGAN DIAZ, MARIO",
+    "SAN MIGUEL SUAREZ, PABLO",
+    "POLETAEVI, LUKA"
+  ],
+  "convocados_sin_jugar_local": [
+    "RENEDO COSIO, DIEGO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RUIZ SANTOS, AITOR",
+    "ALONSO Melo, Ruben",
+    "SOMOHANO TAMAYO, PABLO",
+    "FERNÁNDEZ VICENTE, ALEJANDRO",
+    "CUADRADO PEREZ RUBIN, MATEO",
+    "BARRIO OBREGON, IZAN",
+    "GOMEZ BOLADO, MIGUEL",
+    "DAHHAOUI RACHID, YAKOUB",
+    "PERNIA RODRIGUEZ, JOEL",
+    "MOURA REVUELTA, ROMEO",
+    "COBO MARTINEZ, KELLYAN",
+    "LASO MARTINEZ, ADRIAN",
+    "SAEZ PEREZ, LUCAS",
+    "GOMEZ NUÑEZ, IKER"
+  ],
+  "jugadores_visitante": [
+    "GARCIA CRUZ, IKER",
+    "MUÑOZ BARQUIN, DIEGO",
+    "CABEZA ZARCO, DANIEL",
+    "BERNARDO BECARES, MARIO",
+    "ALVAREZ CORONA, AARON",
+    "ALVAREZ PEREZ, PABLO",
+    "SALCINES ZARCO, IZAN",
+    "SOLANA OCERIN, IVAN",
+    "MALDONADO RUIZ, HECTOR",
+    "PAÑEDA BOLADO, FERNANDO",
+    "ARCE ABASCAL, RUBEN",
+    "PEREZ NOVAL, LUCAS",
+    "POLETAEVI, LUKA",
+    "FALAGAN DIAZ, MARIO",
+    "SAN MIGUEL SUAREZ, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "LASO MARTINEZ, ADRIAN",
+      "sale": "RUIZ SANTOS, AITOR"
+    },
+    {
+      "min": 40,
+      "entra": "SAEZ PEREZ, LUCAS",
+      "sale": "FERNÁNDEZ VICENTE, ALEJANDRO"
+    },
+    {
+      "min": 40,
+      "entra": "GOMEZ NUÑEZ, IKER",
+      "sale": "DAHHAOUI RACHID, YAKOUB"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "PEREZ NOVAL, LUCAS",
+      "sale": "SALCINES ZARCO, IZAN"
+    },
+    {
+      "min": 61,
+      "entra": "POLETAEVI, LUKA",
+      "sale": "PAÑEDA BOLADO, FERNANDO"
+    },
+    {
+      "min": 65,
+      "entra": "FALAGAN DIAZ, MARIO",
+      "sale": "SOLANA OCERIN, IVAN"
+    },
+    {
+      "min": 67,
+      "entra": "SAN MIGUEL SUAREZ, PABLO",
+      "sale": "MUÑOZ BARQUIN, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "RUIZ SANTOS, AITOR": 40,
+    "ALONSO Melo, Ruben": 90,
+    "SOMOHANO TAMAYO, PABLO": 90,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 40,
+    "CUADRADO PEREZ RUBIN, MATEO": 90,
+    "BARRIO OBREGON, IZAN": 90,
+    "GOMEZ BOLADO, MIGUEL": 90,
+    "DAHHAOUI RACHID, YAKOUB": 40,
+    "PERNIA RODRIGUEZ, JOEL": 90,
+    "MOURA REVUELTA, ROMEO": 90,
+    "COBO MARTINEZ, KELLYAN": 90,
+    "LASO MARTINEZ, ADRIAN": 50,
+    "SAEZ PEREZ, LUCAS": 50,
+    "GOMEZ NUÑEZ, IKER": 50,
+    "GARCIA CRUZ, IKER": 90,
+    "MUÑOZ BARQUIN, DIEGO": 67,
+    "CABEZA ZARCO, DANIEL": 90,
+    "BERNARDO BECARES, MARIO": 90,
+    "ALVAREZ CORONA, AARON": 90,
+    "ALVAREZ PEREZ, PABLO": 90,
+    "SALCINES ZARCO, IZAN": 50,
+    "SOLANA OCERIN, IVAN": 65,
+    "MALDONADO RUIZ, HECTOR": 90,
+    "PAÑEDA BOLADO, FERNANDO": 61,
+    "ARCE ABASCAL, RUBEN": 90,
+    "PEREZ NOVAL, LUCAS": 40,
+    "POLETAEVI, LUKA": 29,
+    "FALAGAN DIAZ, MARIO": 25,
+    "SAN MIGUEL SUAREZ, PABLO": 23
+  },
+  "portero_local": "RUIZ SANTOS, AITOR",
+  "portero_visitante": "GARCIA CRUZ, IKER",
+  "dorsales_local": {
+    "RUIZ SANTOS, AITOR": 1,
+    "ALONSO Melo, Ruben": 3,
+    "SOMOHANO TAMAYO, PABLO": 4,
+    "FERNÁNDEZ VICENTE, ALEJANDRO": 7,
+    "CUADRADO PEREZ RUBIN, MATEO": 9,
+    "BARRIO OBREGON, IZAN": 10,
+    "GOMEZ BOLADO, MIGUEL": 12,
+    "DAHHAOUI RACHID, YAKOUB": 15,
+    "PERNIA RODRIGUEZ, JOEL": 17,
+    "MOURA REVUELTA, ROMEO": 20,
+    "COBO MARTINEZ, KELLYAN": 22
+  },
+  "dorsales_visitante": {
+    "GARCIA CRUZ, IKER": 1,
+    "MUÑOZ BARQUIN, DIEGO": 2,
+    "CABEZA ZARCO, DANIEL": 3,
+    "BERNARDO BECARES, MARIO": 4,
+    "ALVAREZ CORONA, AARON": 5,
+    "ALVAREZ PEREZ, PABLO": 6,
+    "SALCINES ZARCO, IZAN": 8,
+    "SOLANA OCERIN, IVAN": 9,
+    "MALDONADO RUIZ, HECTOR": 10,
+    "PAÑEDA BOLADO, FERNANDO": 11,
+    "ARCE ABASCAL, RUBEN": 12
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
