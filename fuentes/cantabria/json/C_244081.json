@@ -1,0 +1,264 @@
+{
+  "acta_id": "C_244081",
+  "filename": "Acta_C_244081.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "03-10-2026",
+  "hora": "15:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO A",
+  "equipo_visitante": "U.D. SAMANO A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PINTEA PINTEA, MIHAI"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "NUÑEZ BARROSO, SEBASTIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 52,
+      "jugador": "ORTIZ VIADERO, ALONSO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "LOPEZ FERNANDEZ, MATEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "ZULOAGA GARMENDIA, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "ARANA VIZCAYA, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    }
+  ],
+  "entrenador_local": "HIERRO GOMEZ, MARCOS",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "Madrazo Presmanes, Pablo",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "Madrazo Presmanes, Pablo",
+  "delegado_equipo_visitante": "ARANA VIZCAYA, IKER",
+  "titulares_local": [
+    "LAVIN BARQUIN, ERIK",
+    "VARGA BUSTIO, ALONSO",
+    "ALONSO MONTERO, MARCOS",
+    "ALVAREZ GARCIA, DANIEL",
+    "FERNANDEZ LAVIN, HUGO",
+    "RUIZ LASTRA, IVAN",
+    "NUÑEZ BARROSO, SEBASTIAN",
+    "SANCHEZ TORRE, AIMAR",
+    "QUINTANA FERNANDEZ, RODRIGO",
+    "CASTAÑEDA IBAÑEZ, ENZO",
+    "CARDO DE ANA, ANDER"
+  ],
+  "titulares_visitante": [
+    "DEL CAMPO GARCIA, MARTIN",
+    "GONZALEZ IGLESIAS, IKER",
+    "SUAREZ GOMEZ, OSCAR",
+    "ZULOAGA GARMENDIA, DIEGO",
+    "CUESTA GUTIERREZ, OLIVER",
+    "GALLEGO GONZALEZ, DAVID",
+    "BARRENA PALACIO, ANDER",
+    "QUINTANA GONZALEZ, XABIER",
+    "GRIGUTA, CASIAN",
+    "ZABALLA RUIZ, OIER",
+    "LLAVE MORA, HUGO"
+  ],
+  "suplentes_local": [
+    "BLANCO LOBATO, CARLOS",
+    "PLA LAVIN, MARIO",
+    "ORTIZ VIADERO, ALONSO",
+    "ABASCAL BARQUIN, HUGO",
+    "LOPEZ FERNANDEZ, MATEO"
+  ],
+  "suplentes_visitante": [
+    "GARCIA VILLACORTA, HUGO",
+    "GONZALEZ QUINTANA, ROQUE",
+    "CARTON SAINZ, ALEX",
+    "RIVAS ANGUITA, ALAIN",
+    "CANALES URQUIJO, ENRIQUE"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LAVIN BARQUIN, ERIK",
+    "VARGA BUSTIO, ALONSO",
+    "ALONSO MONTERO, MARCOS",
+    "ALVAREZ GARCIA, DANIEL",
+    "FERNANDEZ LAVIN, HUGO",
+    "RUIZ LASTRA, IVAN",
+    "NUÑEZ BARROSO, SEBASTIAN",
+    "SANCHEZ TORRE, AIMAR",
+    "QUINTANA FERNANDEZ, RODRIGO",
+    "CASTAÑEDA IBAÑEZ, ENZO",
+    "CARDO DE ANA, ANDER",
+    "ABASCAL BARQUIN, HUGO",
+    "PLA LAVIN, MARIO",
+    "BLANCO LOBATO, CARLOS",
+    "LOPEZ FERNANDEZ, MATEO",
+    "ORTIZ VIADERO, ALONSO"
+  ],
+  "jugadores_visitante": [
+    "DEL CAMPO GARCIA, MARTIN",
+    "GONZALEZ IGLESIAS, IKER",
+    "SUAREZ GOMEZ, OSCAR",
+    "ZULOAGA GARMENDIA, DIEGO",
+    "CUESTA GUTIERREZ, OLIVER",
+    "GALLEGO GONZALEZ, DAVID",
+    "BARRENA PALACIO, ANDER",
+    "QUINTANA GONZALEZ, XABIER",
+    "GRIGUTA, CASIAN",
+    "ZABALLA RUIZ, OIER",
+    "LLAVE MORA, HUGO",
+    "CARTON SAINZ, ALEX",
+    "GARCIA VILLACORTA, HUGO",
+    "GONZALEZ QUINTANA, ROQUE",
+    "CANALES URQUIJO, ENRIQUE",
+    "RIVAS ANGUITA, ALAIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "ABASCAL BARQUIN, HUGO",
+      "sale": "CARDO DE ANA, ANDER"
+    },
+    {
+      "min": 35,
+      "entra": "PLA LAVIN, MARIO",
+      "sale": "CASTAÑEDA IBAÑEZ, ENZO"
+    },
+    {
+      "min": 35,
+      "entra": "BLANCO LOBATO, CARLOS",
+      "sale": "LAVIN BARQUIN, ERIK"
+    },
+    {
+      "min": 42,
+      "entra": "LOPEZ FERNANDEZ, MATEO",
+      "sale": "ALONSO MONTERO, MARCOS"
+    },
+    {
+      "min": 47,
+      "entra": "ORTIZ VIADERO, ALONSO",
+      "sale": "RUIZ LASTRA, IVAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 43,
+      "entra": "CARTON SAINZ, ALEX",
+      "sale": "GRIGUTA, CASIAN"
+    },
+    {
+      "min": 50,
+      "entra": "GARCIA VILLACORTA, HUGO",
+      "sale": "BARRENA PALACIO, ANDER"
+    },
+    {
+      "min": 51,
+      "entra": "GONZALEZ QUINTANA, ROQUE",
+      "sale": "GALLEGO GONZALEZ, DAVID"
+    },
+    {
+      "min": 61,
+      "entra": "CANALES URQUIJO, ENRIQUE",
+      "sale": "GONZALEZ IGLESIAS, IKER"
+    },
+    {
+      "min": 61,
+      "entra": "RIVAS ANGUITA, ALAIN",
+      "sale": "ZABALLA RUIZ, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "LAVIN BARQUIN, ERIK": 35,
+    "VARGA BUSTIO, ALONSO": 90,
+    "ALONSO MONTERO, MARCOS": 42,
+    "ALVAREZ GARCIA, DANIEL": 90,
+    "FERNANDEZ LAVIN, HUGO": 90,
+    "RUIZ LASTRA, IVAN": 47,
+    "NUÑEZ BARROSO, SEBASTIAN": 90,
+    "SANCHEZ TORRE, AIMAR": 90,
+    "QUINTANA FERNANDEZ, RODRIGO": 90,
+    "CASTAÑEDA IBAÑEZ, ENZO": 35,
+    "CARDO DE ANA, ANDER": 35,
+    "ABASCAL BARQUIN, HUGO": 55,
+    "PLA LAVIN, MARIO": 55,
+    "BLANCO LOBATO, CARLOS": 55,
+    "LOPEZ FERNANDEZ, MATEO": 48,
+    "ORTIZ VIADERO, ALONSO": 43,
+    "DEL CAMPO GARCIA, MARTIN": 90,
+    "GONZALEZ IGLESIAS, IKER": 61,
+    "SUAREZ GOMEZ, OSCAR": 90,
+    "ZULOAGA GARMENDIA, DIEGO": 90,
+    "CUESTA GUTIERREZ, OLIVER": 90,
+    "GALLEGO GONZALEZ, DAVID": 51,
+    "BARRENA PALACIO, ANDER": 50,
+    "QUINTANA GONZALEZ, XABIER": 90,
+    "GRIGUTA, CASIAN": 43,
+    "ZABALLA RUIZ, OIER": 61,
+    "LLAVE MORA, HUGO": 90,
+    "CARTON SAINZ, ALEX": 47,
+    "GARCIA VILLACORTA, HUGO": 40,
+    "GONZALEZ QUINTANA, ROQUE": 39,
+    "CANALES URQUIJO, ENRIQUE": 29,
+    "RIVAS ANGUITA, ALAIN": 29
+  },
+  "portero_local": "LAVIN BARQUIN, ERIK",
+  "portero_visitante": "DEL CAMPO GARCIA, MARTIN",
+  "dorsales_local": {
+    "LAVIN BARQUIN, ERIK": 13,
+    "VARGA BUSTIO, ALONSO": 3,
+    "ALONSO MONTERO, MARCOS": 4,
+    "ALVAREZ GARCIA, DANIEL": 5,
+    "FERNANDEZ LAVIN, HUGO": 7,
+    "RUIZ LASTRA, IVAN": 8,
+    "NUÑEZ BARROSO, SEBASTIAN": 9,
+    "SANCHEZ TORRE, AIMAR": 11,
+    "QUINTANA FERNANDEZ, RODRIGO": 14,
+    "CASTAÑEDA IBAÑEZ, ENZO": 15,
+    "CARDO DE ANA, ANDER": 19
+  },
+  "dorsales_visitante": {
+    "DEL CAMPO GARCIA, MARTIN": 13,
+    "GONZALEZ IGLESIAS, IKER": 7,
+    "SUAREZ GOMEZ, OSCAR": 10,
+    "ZULOAGA GARMENDIA, DIEGO": 14,
+    "CUESTA GUTIERREZ, OLIVER": 15,
+    "GALLEGO GONZALEZ, DAVID": 18,
+    "BARRENA PALACIO, ANDER": 70,
+    "QUINTANA GONZALEZ, XABIER": 71,
+    "GRIGUTA, CASIAN": 74,
+    "ZABALLA RUIZ, OIER": 78,
+    "LLAVE MORA, HUGO": 80
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
