@@ -1,0 +1,284 @@
+{
+  "acta_id": "C_171334",
+  "filename": "Acta_C_171334.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 20,
+  "fecha": "11-02-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "A.D. SAN AGUSTIN A",
+  "equipo_visitante": "C.D. MARINA SPORT B",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PEREZ GUTIERREZ, ADRIAN"
+  ],
+  "estadio": "Liberto Toca",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "VILLAMERIEL MONTES, SERGIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "MARTINEZ ORTIZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 77,
+      "jugador": "RUIZ FRADEJAS, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "Flor Martinez, IAGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 51,
+      "jugador": "GARCIA GOMEZ, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MAZA AIZCORBE, FERNANDO",
+  "entrenador_visitante": "MESA SUAREZ, GERARDO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CASCALES TORRE, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CASCALES TORRE, JAVIER",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PRADA PORTERO, LUIS",
+    "VILLAMERIEL MONTES, SERGIO",
+    "CANTARERO PASCUAL, ALEJANDRO",
+    "PANOJO PANTRIGO, ISAIAS",
+    "ELOLA BADOLATO, JUAN",
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+    "GONZALEZ MEDINA, JOSE",
+    "ALVAREZ GARCIA, LUIS PELAYO",
+    "ANDRES REDONDO, MIGUEL",
+    "CASCALES TORRE, PABLO",
+    "SEBRANGO ABAD, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "LOPEZ PEREZ, MIGUEL ANGEL",
+    "Montenegro Perez, MARCOS GERMAN",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "agudo cuenca, DIEGO",
+    "RUBIN MUÑOZ, MICHEL",
+    "RUIZ SAIZ, MARIO",
+    "YELA GONZALEZ, MAURICIO",
+    "Flor Martinez, IAGO",
+    "GARCIA AGUADO, DANIEL",
+    "FUENTES PALLEJA, ERIK",
+    "ASON BALAGUER, MARIO"
+  ],
+  "suplentes_local": [
+    "MARTINEZ ORTIZ, LUCAS",
+    "ROZAS BENITO, GONZALO",
+    "RUIZ FRADEJAS, DANIEL",
+    "SILIO FERNANDEZ, CESAR",
+    "CASCALES TORRE, DAVID"
+  ],
+  "suplentes_visitante": [
+    "COLLANTES GOMEZ, HUGO",
+    "GONZALEZ CAMUS, MARCO",
+    "REY LASTRA, JOSE LUIS",
+    "GARCIA GOMEZ, DANIEL",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PRADA PORTERO, LUIS",
+    "VILLAMERIEL MONTES, SERGIO",
+    "CANTARERO PASCUAL, ALEJANDRO",
+    "PANOJO PANTRIGO, ISAIAS",
+    "ELOLA BADOLATO, JUAN",
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN",
+    "GONZALEZ MEDINA, JOSE",
+    "ALVAREZ GARCIA, LUIS PELAYO",
+    "ANDRES REDONDO, MIGUEL",
+    "CASCALES TORRE, PABLO",
+    "SEBRANGO ABAD, RODRIGO",
+    "MARTINEZ ORTIZ, LUCAS",
+    "SILIO FERNANDEZ, CESAR",
+    "ROZAS BENITO, GONZALO",
+    "CASCALES TORRE, DAVID",
+    "RUIZ FRADEJAS, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "LOPEZ PEREZ, MIGUEL ANGEL",
+    "Montenegro Perez, MARCOS GERMAN",
+    "PORTILLA CAMUS, ALEJANDRO",
+    "agudo cuenca, DIEGO",
+    "RUBIN MUÑOZ, MICHEL",
+    "RUIZ SAIZ, MARIO",
+    "YELA GONZALEZ, MAURICIO",
+    "Flor Martinez, IAGO",
+    "GARCIA AGUADO, DANIEL",
+    "FUENTES PALLEJA, ERIK",
+    "ASON BALAGUER, MARIO",
+    "GARCIA GOMEZ, DANIEL",
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+    "COLLANTES GOMEZ, HUGO",
+    "GONZALEZ CAMUS, MARCO",
+    "REY LASTRA, JOSE LUIS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "MARTINEZ ORTIZ, LUCAS",
+      "sale": "ALVAREZ GARCIA, LUIS PELAYO"
+    },
+    {
+      "min": 55,
+      "entra": "SILIO FERNANDEZ, CESAR",
+      "sale": "GONZALEZ MEDINA, JOSE"
+    },
+    {
+      "min": 65,
+      "entra": "ROZAS BENITO, GONZALO",
+      "sale": "SAEZ DEL BARRIO, ALEJANDRO GUZMAN"
+    },
+    {
+      "min": 70,
+      "entra": "CASCALES TORRE, DAVID",
+      "sale": "CANTARERO PASCUAL, ALEJANDRO"
+    },
+    {
+      "min": 70,
+      "entra": "RUIZ FRADEJAS, DANIEL",
+      "sale": "PANOJO PANTRIGO, ISAIAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "GARCIA GOMEZ, DANIEL",
+      "sale": "GARCIA AGUADO, DANIEL"
+    },
+    {
+      "min": 53,
+      "entra": "LÓPEZ-VÁZQUEZ BELINCHON, MARCO",
+      "sale": "RUIZ SAIZ, MARIO"
+    },
+    {
+      "min": 58,
+      "entra": "COLLANTES GOMEZ, HUGO",
+      "sale": "Flor Martinez, IAGO"
+    },
+    {
+      "min": 63,
+      "entra": "GONZALEZ CAMUS, MARCO",
+      "sale": "YELA GONZALEZ, MAURICIO"
+    },
+    {
+      "min": 63,
+      "entra": "REY LASTRA, JOSE LUIS",
+      "sale": "ASON BALAGUER, MARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PRADA PORTERO, LUIS": 90,
+    "VILLAMERIEL MONTES, SERGIO": 90,
+    "CANTARERO PASCUAL, ALEJANDRO": 70,
+    "PANOJO PANTRIGO, ISAIAS": 70,
+    "ELOLA BADOLATO, JUAN": 90,
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN": 65,
+    "GONZALEZ MEDINA, JOSE": 55,
+    "ALVAREZ GARCIA, LUIS PELAYO": 51,
+    "ANDRES REDONDO, MIGUEL": 90,
+    "CASCALES TORRE, PABLO": 90,
+    "SEBRANGO ABAD, RODRIGO": 90,
+    "MARTINEZ ORTIZ, LUCAS": 39,
+    "SILIO FERNANDEZ, CESAR": 35,
+    "ROZAS BENITO, GONZALO": 25,
+    "CASCALES TORRE, DAVID": 20,
+    "RUIZ FRADEJAS, DANIEL": 20,
+    "LOPEZ PEREZ, MIGUEL ANGEL": 90,
+    "Montenegro Perez, MARCOS GERMAN": 90,
+    "PORTILLA CAMUS, ALEJANDRO": 90,
+    "agudo cuenca, DIEGO": 90,
+    "RUBIN MUÑOZ, MICHEL": 90,
+    "RUIZ SAIZ, MARIO": 53,
+    "YELA GONZALEZ, MAURICIO": 63,
+    "Flor Martinez, IAGO": 58,
+    "GARCIA AGUADO, DANIEL": 40,
+    "FUENTES PALLEJA, ERIK": 90,
+    "ASON BALAGUER, MARIO": 63,
+    "GARCIA GOMEZ, DANIEL": 50,
+    "LÓPEZ-VÁZQUEZ BELINCHON, MARCO": 37,
+    "COLLANTES GOMEZ, HUGO": 32,
+    "GONZALEZ CAMUS, MARCO": 27,
+    "REY LASTRA, JOSE LUIS": 27
+  },
+  "portero_local": "PRADA PORTERO, LUIS",
+  "portero_visitante": "LOPEZ PEREZ, MIGUEL ANGEL",
+  "dorsales_local": {
+    "PRADA PORTERO, LUIS": 25,
+    "VILLAMERIEL MONTES, SERGIO": 4,
+    "CANTARERO PASCUAL, ALEJANDRO": 5,
+    "PANOJO PANTRIGO, ISAIAS": 7,
+    "ELOLA BADOLATO, JUAN": 8,
+    "SAEZ DEL BARRIO, ALEJANDRO GUZMAN": 10,
+    "GONZALEZ MEDINA, JOSE": 16,
+    "ALVAREZ GARCIA, LUIS PELAYO": 17,
+    "ANDRES REDONDO, MIGUEL": 22,
+    "CASCALES TORRE, PABLO": 23,
+    "SEBRANGO ABAD, RODRIGO": 34
+  },
+  "dorsales_visitante": {
+    "LOPEZ PEREZ, MIGUEL ANGEL": 1,
+    "Montenegro Perez, MARCOS GERMAN": 2,
+    "PORTILLA CAMUS, ALEJANDRO": 3,
+    "agudo cuenca, DIEGO": 4,
+    "RUBIN MUÑOZ, MICHEL": 5,
+    "RUIZ SAIZ, MARIO": 6,
+    "YELA GONZALEZ, MAURICIO": 7,
+    "Flor Martinez, IAGO": 8,
+    "GARCIA AGUADO, DANIEL": 9,
+    "FUENTES PALLEJA, ERIK": 10,
+    "ASON BALAGUER, MARIO": 11
+  },
+  "suspendidos": []
+}
