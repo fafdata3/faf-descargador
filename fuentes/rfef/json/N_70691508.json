@@ -28,8 +28,9 @@
     {
       "minuto": 88,
       "jugador": "BAHA ABELHADJ, MAYSSA",
-      "equipo": "?",
-      "propia": false
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -181,25 +182,11 @@
     "MARTIN IGLESIAS, MADDI"
   ],
   "convocados_sin_jugar_local": [
-    "O'DEA BAYLINA, CARMEN",
-    "SOARES MARTINS BAPTISTA LOBO, IARA",
-    "PASTOR LÁZARO, JÚLIA",
-    "FRANCH BLANCO, IVET",
-    "GIBERT MAGDALENO, LÍDIA",
-    "BAHA ABELHADJ, MAYSSA",
-    "SERRANO MORENO, AVRIL",
-    "TRAORE, AISSATOU",
-    "VIZUETE CANO, ELENA"
+    "O'DEA BAYLINA, CARMEN"
   ],
   "convocados_sin_jugar_visitante": [
     "FERRAZ IBARRONDO, GOIATZ",
-    "AGUIRRE PEREZ DE ALBENIZ, INES",
-    "OCHOA DE ERIBE VILLANUEVA, AIALA",
-    "FERNANDEZ EXPOSITO, ALIZA",
-    "ORTEGA RUIZ, MARIA",
-    "BELOKI ALBONIGA, JUNE",
-    "CADENATO GARCIA, UZURI",
-    "MARTIN IGLESIAS, MADDI"
+    "ORTEGA RUIZ, MARIA"
   ],
   "jugadores_local": [
     "RASPALL COPONS, CLARA",
@@ -212,7 +199,15 @@
     "ARUFE CALO, LUA",
     "MORANTE MÁRQUEZ, GEORGINA",
     "QUINTANA ROS, BRUNA",
-    "QUER SALVADOR, ANNA"
+    "QUER SALVADOR, ANNA",
+    "SOARES MARTINS BAPTISTA LOBO, IARA",
+    "BAHA ABELHADJ, MAYSSA",
+    "VIZUETE CANO, ELENA",
+    "GIBERT MAGDALENO, LÍDIA",
+    "PASTOR LÁZARO, JÚLIA",
+    "SERRANO MORENO, AVRIL",
+    "TRAORE, AISSATOU",
+    "FRANCH BLANCO, IVET"
   ],
   "jugadores_visitante": [
     "LIMPIAS GONZALEZ, NAGORE MAGALI",
@@ -225,33 +220,125 @@
     "BELZUNCE IRIARTE, INES",
     "SANTAMARIA HERNANDEZ, ARIXEN",
     "VALLADARES MESA, MAIALEN",
-    "LIZCANO VALENCIANO, CLAUDIA"
+    "LIZCANO VALENCIANO, CLAUDIA",
+    "FERNANDEZ EXPOSITO, ALIZA",
+    "BELOKI ALBONIGA, JUNE",
+    "CADENATO GARCIA, UZURI",
+    "MARTIN IGLESIAS, MADDI",
+    "AGUIRRE PEREZ DE ALBENIZ, INES",
+    "OCHOA DE ERIBE VILLANUEVA, AIALA"
   ],
-  "sustituciones_local": [],
-  "sustituciones_visitante": [],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "SOARES MARTINS BAPTISTA LOBO, IARA",
+      "sale": "MORANTE MÁRQUEZ, GEORGINA"
+    },
+    {
+      "min": 35,
+      "entra": "BAHA ABELHADJ, MAYSSA",
+      "sale": "QUINTANA ROS, BRUNA"
+    },
+    {
+      "min": 35,
+      "entra": "VIZUETE CANO, ELENA",
+      "sale": "PEREZ MARTIN, BEATRIZ"
+    },
+    {
+      "min": 35,
+      "entra": "GIBERT MAGDALENO, LÍDIA",
+      "sale": "ARUFE CALO, LUA"
+    },
+    {
+      "min": 35,
+      "entra": "PASTOR LÁZARO, JÚLIA",
+      "sale": "RIUS SANCHEZ, ABRIL"
+    },
+    {
+      "min": 49,
+      "entra": "SERRANO MORENO, AVRIL",
+      "sale": "CABETAS MEJIAS, LAIA"
+    },
+    {
+      "min": 70,
+      "entra": "TRAORE, AISSATOU",
+      "sale": "QUER SALVADOR, ANNA"
+    },
+    {
+      "min": 70,
+      "entra": "FRANCH BLANCO, IVET",
+      "sale": "AZRAF AOURAGH, KAUTAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "FERNANDEZ EXPOSITO, ALIZA",
+      "sale": "FERNANDEZ HERNANDEZ, ENARA"
+    },
+    {
+      "min": 46,
+      "entra": "BELOKI ALBONIGA, JUNE",
+      "sale": "BELZUNCE IRIARTE, INES"
+    },
+    {
+      "min": 46,
+      "entra": "CADENATO GARCIA, UZURI",
+      "sale": "CIECIERSKA, VICTORIA"
+    },
+    {
+      "min": 50,
+      "entra": "MARTIN IGLESIAS, MADDI",
+      "sale": "LIZCANO VALENCIANO, CLAUDIA"
+    },
+    {
+      "min": 61,
+      "entra": "AGUIRRE PEREZ DE ALBENIZ, INES",
+      "sale": "BLANCO GONZALO, EVA"
+    },
+    {
+      "min": 73,
+      "entra": "OCHOA DE ERIBE VILLANUEVA, AIALA",
+      "sale": "BEITIA TREPIANA, OLATZ"
+    }
+  ],
   "minutos_jugadores": {
     "RASPALL COPONS, CLARA": 90,
     "OHLANDER BUXEDA, CHARLOTTA DAGNY": 90,
-    "RIUS SANCHEZ, ABRIL": 90,
-    "CABETAS MEJIAS, LAIA": 90,
-    "PEREZ MARTIN, BEATRIZ": 90,
-    "AZRAF AOURAGH, KAUTAR": 90,
+    "RIUS SANCHEZ, ABRIL": 35,
+    "CABETAS MEJIAS, LAIA": 49,
+    "PEREZ MARTIN, BEATRIZ": 35,
+    "AZRAF AOURAGH, KAUTAR": 70,
     "DOMINGUEZ NAVARRO, ROSALIA": 90,
-    "ARUFE CALO, LUA": 90,
-    "MORANTE MÁRQUEZ, GEORGINA": 90,
-    "QUINTANA ROS, BRUNA": 90,
-    "QUER SALVADOR, ANNA": 90,
+    "ARUFE CALO, LUA": 35,
+    "MORANTE MÁRQUEZ, GEORGINA": 35,
+    "QUINTANA ROS, BRUNA": 35,
+    "QUER SALVADOR, ANNA": 70,
     "LIMPIAS GONZALEZ, NAGORE MAGALI": 90,
-    "FERNANDEZ HERNANDEZ, ENARA": 90,
-    "BEITIA TREPIANA, OLATZ": 90,
+    "FERNANDEZ HERNANDEZ, ENARA": 46,
+    "BEITIA TREPIANA, OLATZ": 73,
     "BORDAGARAY CASADO, ANE": 90,
-    "BLANCO GONZALO, EVA": 90,
+    "BLANCO GONZALO, EVA": 61,
     "OLIVA ALONSO, AINHOA": 90,
-    "CIECIERSKA, VICTORIA": 90,
-    "BELZUNCE IRIARTE, INES": 90,
+    "CIECIERSKA, VICTORIA": 46,
+    "BELZUNCE IRIARTE, INES": 46,
     "SANTAMARIA HERNANDEZ, ARIXEN": 90,
     "VALLADARES MESA, MAIALEN": 90,
-    "LIZCANO VALENCIANO, CLAUDIA": 90
+    "LIZCANO VALENCIANO, CLAUDIA": 50,
+    "SOARES MARTINS BAPTISTA LOBO, IARA": 55,
+    "BAHA ABELHADJ, MAYSSA": 55,
+    "VIZUETE CANO, ELENA": 55,
+    "GIBERT MAGDALENO, LÍDIA": 55,
+    "PASTOR LÁZARO, JÚLIA": 55,
+    "SERRANO MORENO, AVRIL": 41,
+    "TRAORE, AISSATOU": 20,
+    "FRANCH BLANCO, IVET": 20,
+    "FERNANDEZ EXPOSITO, ALIZA": 44,
+    "BELOKI ALBONIGA, JUNE": 44,
+    "CADENATO GARCIA, UZURI": 44,
+    "MARTIN IGLESIAS, MADDI": 40,
+    "AGUIRRE PEREZ DE ALBENIZ, INES": 29,
+    "OCHOA DE ERIBE VILLANUEVA, AIALA": 17
   },
   "portero_local": "RASPALL COPONS, CLARA",
   "portero_visitante": "LIMPIAS GONZALEZ, NAGORE MAGALI",
@@ -283,5 +370,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
