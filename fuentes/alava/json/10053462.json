@@ -1,0 +1,286 @@
+{
+  "acta_id": "10053462",
+  "filename": "Acta_10053462.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "27-09-2026",
+  "hora": "10:00",
+  "categoria": "REGIONAL PREFERENTE / LURRALDEKO LEHENTASUNEZKO MAILA (GRUPO - 2)",
+  "equipo_local": "MERCEDARIAS K.E., A.D. B",
+  "equipo_visitante": "IZARRA GORRI C.F.",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ALCORTA HERRERO, GAIZKA"
+  ],
+  "estadio": "LA VITORIANA-1",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "LOPEZ DE SUBIJANA VALENZUELA, GONZALO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "FERNANDEZ DE PINEDO GARCIA, ASER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "URDANIZ FERNANDEZ, EKAITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "URDANIZ FERNANDEZ, ADUR XABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 52,
+      "jugador": "NUÑEZ VIRTO, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "SERRADILLA HERNANDEZ, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "POBES SANTANO, IBAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALAÑA RECUERO, ANIOTZ",
+  "entrenador_visitante": "ASPURU VERA, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARZON VICENTE, OSCAR",
+  "delegado_equipo_visitante": "ZUBIZARRETA CASTRESANA, ASIER",
+  "titulares_local": [
+    "GARCIA PEREZ, ALAN",
+    "POBES SANTANO, IBAI",
+    "GOMEZ RODRIGUEZ, UNAI",
+    "NUÑEZ VIRTO, MARKEL",
+    "CARDOZO TIRADO, MICHAEL ESTEBAN",
+    "ARES APARICIO, AIMAR",
+    "DAKOUN BENGKYE, NABIL",
+    "BOGADO AYALA, JUAN DANIEL",
+    "ETAYO ESCRIBANO, ANDONI",
+    "GARCIA ORTEGA, MICHEL ANGELO",
+    "SERRADILLA HERNANDEZ, IKER"
+  ],
+  "titulares_visitante": [
+    "BILBAO AGUINACO, JOSEBA",
+    "LOPEZ DE SANTIAGO, IÑIGO",
+    "GARCIA LOPEZ DE EGUILAZ, UNAI",
+    "ZABALA LAGO, KERMAN",
+    "FERNANDEZ DE PINEDO GARCIA, ASER",
+    "ZUBIAUR LOPEZ, KIMETZ",
+    "LOPEZ DE SUBIJANA VALENZUELA, GONZALO",
+    "URDANIZ FERNANDEZ, ADUR XABIER",
+    "URDANIZ FERNANDEZ, EKAITZ",
+    "RUIZ DE ZARATE SAEZ DE LAFUENTE, OIER",
+    "BASABE FERNANDEZ DE LANDA, AIMAR"
+  ],
+  "suplentes_local": [
+    "BACHILLER MACIAS, ASIER",
+    "CARBALLO RIVEROS, VICENTE MANUEL",
+    "ORMAZABAL LOPEZ DE FORONDA, ARITZ",
+    "JIMENEZ GARCIA, IBAI",
+    "PURI RAMIREZ, ALEX",
+    "ARCENIEGA GOMEZ, AITOR",
+    "ABENDAÑO GAIL, EKAITZ"
+  ],
+  "suplentes_visitante": [
+    "BARTUREN MARDONES, AIMAR",
+    "OLIVEIRA GALAN, GAIZKA",
+    "AJURIA MANSO DE ZUÑIGA, ANDONI",
+    "ANUNCIBAY ARBERAS, UNAI",
+    "LAFUENTE DIAZ, IKER",
+    "HERNANDO UZQUIANO, YERAY"
+  ],
+  "convocados_sin_jugar_local": [
+    "BACHILLER MACIAS, ASIER",
+    "ORMAZABAL LOPEZ DE FORONDA, ARITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BARTUREN MARDONES, AIMAR"
+  ],
+  "jugadores_local": [
+    "GARCIA PEREZ, ALAN",
+    "POBES SANTANO, IBAI",
+    "GOMEZ RODRIGUEZ, UNAI",
+    "NUÑEZ VIRTO, MARKEL",
+    "CARDOZO TIRADO, MICHAEL ESTEBAN",
+    "ARES APARICIO, AIMAR",
+    "DAKOUN BENGKYE, NABIL",
+    "BOGADO AYALA, JUAN DANIEL",
+    "ETAYO ESCRIBANO, ANDONI",
+    "GARCIA ORTEGA, MICHEL ANGELO",
+    "SERRADILLA HERNANDEZ, IKER",
+    "PURI RAMIREZ, ALEX",
+    "CARBALLO RIVEROS, VICENTE MANUEL",
+    "JIMENEZ GARCIA, IBAI",
+    "ABENDAÑO GAIL, EKAITZ",
+    "ARCENIEGA GOMEZ, AITOR"
+  ],
+  "jugadores_visitante": [
+    "BILBAO AGUINACO, JOSEBA",
+    "LOPEZ DE SANTIAGO, IÑIGO",
+    "GARCIA LOPEZ DE EGUILAZ, UNAI",
+    "ZABALA LAGO, KERMAN",
+    "FERNANDEZ DE PINEDO GARCIA, ASER",
+    "ZUBIAUR LOPEZ, KIMETZ",
+    "LOPEZ DE SUBIJANA VALENZUELA, GONZALO",
+    "URDANIZ FERNANDEZ, ADUR XABIER",
+    "URDANIZ FERNANDEZ, EKAITZ",
+    "RUIZ DE ZARATE SAEZ DE LAFUENTE, OIER",
+    "BASABE FERNANDEZ DE LANDA, AIMAR",
+    "ANUNCIBAY ARBERAS, UNAI",
+    "LAFUENTE DIAZ, IKER",
+    "OLIVEIRA GALAN, GAIZKA",
+    "HERNANDO UZQUIANO, YERAY",
+    "AJURIA MANSO DE ZUÑIGA, ANDONI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "PURI RAMIREZ, ALEX",
+      "sale": "DAKOUN BENGKYE, NABIL"
+    },
+    {
+      "min": 45,
+      "entra": "CARBALLO RIVEROS, VICENTE MANUEL",
+      "sale": "ARES APARICIO, AIMAR"
+    },
+    {
+      "min": 57,
+      "entra": "JIMENEZ GARCIA, IBAI",
+      "sale": "NUÑEZ VIRTO, MARKEL"
+    },
+    {
+      "min": 74,
+      "entra": "ABENDAÑO GAIL, EKAITZ",
+      "sale": "CARDOZO TIRADO, MICHAEL ESTEBAN"
+    },
+    {
+      "min": 80,
+      "entra": "ARCENIEGA GOMEZ, AITOR",
+      "sale": "BOGADO AYALA, JUAN DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 62,
+      "entra": "ANUNCIBAY ARBERAS, UNAI",
+      "sale": "ZUBIAUR LOPEZ, KIMETZ"
+    },
+    {
+      "min": 62,
+      "entra": "LAFUENTE DIAZ, IKER",
+      "sale": "ZABALA LAGO, KERMAN"
+    },
+    {
+      "min": 72,
+      "entra": "OLIVEIRA GALAN, GAIZKA",
+      "sale": "URDANIZ FERNANDEZ, EKAITZ"
+    },
+    {
+      "min": 79,
+      "entra": "HERNANDO UZQUIANO, YERAY",
+      "sale": "LOPEZ DE SANTIAGO, IÑIGO"
+    },
+    {
+      "min": 79,
+      "entra": "AJURIA MANSO DE ZUÑIGA, ANDONI",
+      "sale": "URDANIZ FERNANDEZ, ADUR XABIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA PEREZ, ALAN": 90,
+    "POBES SANTANO, IBAI": 90,
+    "GOMEZ RODRIGUEZ, UNAI": 90,
+    "NUÑEZ VIRTO, MARKEL": 57,
+    "CARDOZO TIRADO, MICHAEL ESTEBAN": 74,
+    "ARES APARICIO, AIMAR": 45,
+    "DAKOUN BENGKYE, NABIL": 45,
+    "BOGADO AYALA, JUAN DANIEL": 80,
+    "ETAYO ESCRIBANO, ANDONI": 90,
+    "GARCIA ORTEGA, MICHEL ANGELO": 90,
+    "SERRADILLA HERNANDEZ, IKER": 90,
+    "PURI RAMIREZ, ALEX": 45,
+    "CARBALLO RIVEROS, VICENTE MANUEL": 45,
+    "JIMENEZ GARCIA, IBAI": 33,
+    "ABENDAÑO GAIL, EKAITZ": 16,
+    "ARCENIEGA GOMEZ, AITOR": 10,
+    "BILBAO AGUINACO, JOSEBA": 90,
+    "LOPEZ DE SANTIAGO, IÑIGO": 79,
+    "GARCIA LOPEZ DE EGUILAZ, UNAI": 90,
+    "ZABALA LAGO, KERMAN": 62,
+    "FERNANDEZ DE PINEDO GARCIA, ASER": 90,
+    "ZUBIAUR LOPEZ, KIMETZ": 62,
+    "LOPEZ DE SUBIJANA VALENZUELA, GONZALO": 90,
+    "URDANIZ FERNANDEZ, ADUR XABIER": 79,
+    "URDANIZ FERNANDEZ, EKAITZ": 72,
+    "RUIZ DE ZARATE SAEZ DE LAFUENTE, OIER": 90,
+    "BASABE FERNANDEZ DE LANDA, AIMAR": 90,
+    "ANUNCIBAY ARBERAS, UNAI": 28,
+    "LAFUENTE DIAZ, IKER": 28,
+    "OLIVEIRA GALAN, GAIZKA": 18,
+    "HERNANDO UZQUIANO, YERAY": 11,
+    "AJURIA MANSO DE ZUÑIGA, ANDONI": 11
+  },
+  "portero_local": "GARCIA PEREZ, ALAN",
+  "portero_visitante": "BILBAO AGUINACO, JOSEBA",
+  "dorsales_local": {
+    "GARCIA PEREZ, ALAN": 55,
+    "POBES SANTANO, IBAI": 5,
+    "GOMEZ RODRIGUEZ, UNAI": 6,
+    "NUÑEZ VIRTO, MARKEL": 8,
+    "CARDOZO TIRADO, MICHAEL ESTEBAN": 9,
+    "ARES APARICIO, AIMAR": 10,
+    "DAKOUN BENGKYE, NABIL": 11,
+    "BOGADO AYALA, JUAN DANIEL": 12,
+    "ETAYO ESCRIBANO, ANDONI": 15,
+    "GARCIA ORTEGA, MICHEL ANGELO": 17,
+    "SERRADILLA HERNANDEZ, IKER": 22
+  },
+  "dorsales_visitante": {
+    "BILBAO AGUINACO, JOSEBA": 13,
+    "LOPEZ DE SANTIAGO, IÑIGO": 4,
+    "GARCIA LOPEZ DE EGUILAZ, UNAI": 5,
+    "ZABALA LAGO, KERMAN": 11,
+    "FERNANDEZ DE PINEDO GARCIA, ASER": 12,
+    "ZUBIAUR LOPEZ, KIMETZ": 14,
+    "LOPEZ DE SUBIJANA VALENZUELA, GONZALO": 15,
+    "URDANIZ FERNANDEZ, ADUR XABIER": 18,
+    "URDANIZ FERNANDEZ, EKAITZ": 20,
+    "RUIZ DE ZARATE SAEZ DE LAFUENTE, OIER": 21,
+    "BASABE FERNANDEZ DE LANDA, AIMAR": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
