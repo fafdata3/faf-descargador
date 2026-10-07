@@ -23,31 +23,36 @@
       "minuto": 7,
       "jugador": "MARINA ZANGRONIZ, JIMENA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 9,
       "jugador": "MARINA ZANGRONIZ, JIMENA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 23,
       "jugador": "DEL CAMPO GAMARRA, DANIELLA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "MARINA ZANGRONIZ, JIMENA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 58,
       "jugador": "LANGARICA FERNANDEZ, MARTINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -65,7 +70,7 @@
     "PEREZ H GUTIERREZ R, AMELIA",
     "PEÑA ITURRIOZ, SOFIA",
     "DEL CAMPO GAMARRA, DANIELLA",
-    "PINILLOS MARIN, LUCIA",
+    "LUCIA",
     "CUADRA GALARRETA, NOA",
     "MARINA ZANGRONIZ, JIMENA",
     "RUEDA CASTRO, ADRIANA",
@@ -105,7 +110,7 @@
     "PEREZ H GUTIERREZ R, AMELIA",
     "PEÑA ITURRIOZ, SOFIA",
     "DEL CAMPO GAMARRA, DANIELLA",
-    "PINILLOS MARIN, LUCIA",
+    "LUCIA",
     "CUADRA GALARRETA, NOA",
     "MARINA ZANGRONIZ, JIMENA",
     "RUEDA CASTRO, ADRIANA",
@@ -149,7 +154,7 @@
     {
       "min": 50,
       "entra": "RUIZ RINCON, CLAUDIA",
-      "sale": "PINILLOS MARIN, LUCIA"
+      "sale": "LUCIA"
     }
   ],
   "sustituciones_visitante": [
@@ -165,7 +170,7 @@
     "PEREZ H GUTIERREZ R, AMELIA": 90,
     "PEÑA ITURRIOZ, SOFIA": 90,
     "DEL CAMPO GAMARRA, DANIELLA": 41,
-    "PINILLOS MARIN, LUCIA": 50,
+    "LUCIA": 50,
     "CUADRA GALARRETA, NOA": 90,
     "MARINA ZANGRONIZ, JIMENA": 90,
     "RUEDA CASTRO, ADRIANA": 90,
@@ -196,7 +201,7 @@
     "PEREZ H GUTIERREZ R, AMELIA": 4,
     "PEÑA ITURRIOZ, SOFIA": 5,
     "DEL CAMPO GAMARRA, DANIELLA": 8,
-    "PINILLOS MARIN, LUCIA": 10,
+    "LUCIA": 10,
     "CUADRA GALARRETA, NOA": 11,
     "MARINA ZANGRONIZ, JIMENA": 14,
     "RUEDA CASTRO, ADRIANA": 16,
