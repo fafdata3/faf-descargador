@@ -1,0 +1,286 @@
+{
+  "acta_id": "B_9974461",
+  "filename": "Acta_B_9974461.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 23,
+  "fecha": "29-03-2026",
+  "hora": "17:30",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 1)",
+  "equipo_local": "LARRAMENDI",
+  "equipo_visitante": "KABIEZESEKO ZURIGORRIAK",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "AFYF, MOHAMED AMINE"
+  ],
+  "estadio": "BASTEITA",
+  "ciudad": "Alonsotegi",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "IMAD MENNANI, ABDELKHALIL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "TUEROS PEÑA, EKAIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 87,
+      "jugador": "JADYANE SAKOUTI, ABDELKADER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "IMAD MENNANI, ABDELKHALIL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "VALDIVIA OBISPO, UNAI GERARD",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "MUÑOZ PASTRANA, ANGEL SAMUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 87,
+      "jugador": "MUÑOZ PASTRANA, ANGEL SAMUEL",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FRANCO GUTIERREZ, JULEN",
+  "entrenador_visitante": "SAN MIGUEL LUQUE, ANDER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LOPEZ MIGUEL, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ MIGUEL, DANIEL",
+  "delegado_equipo_visitante": "GOMEZ AGUILAR, CHRISTIAN",
+  "titulares_local": [
+    "SAYKOUK EL ASSAL, ANWAR",
+    "VIA ALONSO, MARK",
+    "LUNGU, ROBERT DANIEL",
+    "DAHNOU DARHDOURHI, HAMZA",
+    "MUÑOZ PASTRANA, ANGEL SAMUEL",
+    "CASTRO GALINDEZ, ENEKO",
+    "CASTRO ALONSO, JAM FELIPE",
+    "VALDIVIA OBISPO, UNAI GERARD",
+    "TUEROS PEÑA, EKAIN",
+    "PAD MENDEZ, IOAN",
+    "IMAD MENNANI, ABDELKHALIL"
+  ],
+  "titulares_visitante": [
+    "GARCIA BRAZAOLA, ENAITZ",
+    "UZQUIZA HERNANDEZ, URKO",
+    "GALARRAGA LOPEZ DE EGUINOA, OIHAN",
+    "MESSAOUDI MESSAOUDI, ADAM",
+    "CAMUÑEZ MARTINEZ, EDER",
+    "CABALLERO PINZON, XABIER",
+    "LASTRES RODRIGUEZ, ASIER",
+    "SOARES GARCIA, DAVID",
+    "JADYANE SAKOUTI, ABDELKADER",
+    "MARTINEZ MEDINA, IZAN",
+    "EL AZZOUZI, ADAM"
+  ],
+  "suplentes_local": [
+    "ZUBIZARRETA TOMBAS, HODEI",
+    "EL ARBAOUI BELMALEM, SOUHAIL",
+    "MAZA VARONA, LUCAS",
+    "BERASATEGUI CECOI, VIKTOR TXOMIN",
+    "MENCÍA ÁLVAREZ, IKER UNAI",
+    "LOPEZ SALAZAR, ALEX"
+  ],
+  "suplentes_visitante": [
+    "HERNANDEZ JIMENEZ, HICHAM KARIM",
+    "ANGULO RODRIGUEZ, MIKEL",
+    "URDIAIN GODINO, ENAITZ",
+    "MACUA DIAZ, PEIO",
+    "MAGARIÑO MENDILIBAR, OIER",
+    "SERRANO LOPEZ, IKER"
+  ],
+  "convocados_sin_jugar_local": [
+    "LOPEZ SALAZAR, ALEX"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "HERNANDEZ JIMENEZ, HICHAM KARIM"
+  ],
+  "jugadores_local": [
+    "SAYKOUK EL ASSAL, ANWAR",
+    "VIA ALONSO, MARK",
+    "LUNGU, ROBERT DANIEL",
+    "DAHNOU DARHDOURHI, HAMZA",
+    "MUÑOZ PASTRANA, ANGEL SAMUEL",
+    "CASTRO GALINDEZ, ENEKO",
+    "CASTRO ALONSO, JAM FELIPE",
+    "VALDIVIA OBISPO, UNAI GERARD",
+    "TUEROS PEÑA, EKAIN",
+    "PAD MENDEZ, IOAN",
+    "IMAD MENNANI, ABDELKHALIL",
+    "MAZA VARONA, LUCAS",
+    "ZUBIZARRETA TOMBAS, HODEI",
+    "MENCÍA ÁLVAREZ, IKER UNAI",
+    "BERASATEGUI CECOI, VIKTOR TXOMIN",
+    "EL ARBAOUI BELMALEM, SOUHAIL"
+  ],
+  "jugadores_visitante": [
+    "GARCIA BRAZAOLA, ENAITZ",
+    "UZQUIZA HERNANDEZ, URKO",
+    "GALARRAGA LOPEZ DE EGUINOA, OIHAN",
+    "MESSAOUDI MESSAOUDI, ADAM",
+    "CAMUÑEZ MARTINEZ, EDER",
+    "CABALLERO PINZON, XABIER",
+    "LASTRES RODRIGUEZ, ASIER",
+    "SOARES GARCIA, DAVID",
+    "JADYANE SAKOUTI, ABDELKADER",
+    "MARTINEZ MEDINA, IZAN",
+    "EL AZZOUZI, ADAM",
+    "ANGULO RODRIGUEZ, MIKEL",
+    "MAGARIÑO MENDILIBAR, OIER",
+    "SERRANO LOPEZ, IKER",
+    "MACUA DIAZ, PEIO",
+    "URDIAIN GODINO, ENAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "MAZA VARONA, LUCAS",
+      "sale": "VIA ALONSO, MARK"
+    },
+    {
+      "min": 60,
+      "entra": "ZUBIZARRETA TOMBAS, HODEI",
+      "sale": "DAHNOU DARHDOURHI, HAMZA"
+    },
+    {
+      "min": 60,
+      "entra": "MENCÍA ÁLVAREZ, IKER UNAI",
+      "sale": "IMAD MENNANI, ABDELKHALIL"
+    },
+    {
+      "min": 70,
+      "entra": "BERASATEGUI CECOI, VIKTOR TXOMIN",
+      "sale": "TUEROS PEÑA, EKAIN"
+    },
+    {
+      "min": 70,
+      "entra": "EL ARBAOUI BELMALEM, SOUHAIL",
+      "sale": "CASTRO ALONSO, JAM FELIPE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "ANGULO RODRIGUEZ, MIKEL",
+      "sale": "LASTRES RODRIGUEZ, ASIER"
+    },
+    {
+      "min": 45,
+      "entra": "MAGARIÑO MENDILIBAR, OIER",
+      "sale": "MESSAOUDI MESSAOUDI, ADAM"
+    },
+    {
+      "min": 60,
+      "entra": "SERRANO LOPEZ, IKER",
+      "sale": "UZQUIZA HERNANDEZ, URKO"
+    },
+    {
+      "min": 60,
+      "entra": "MACUA DIAZ, PEIO",
+      "sale": "MARTINEZ MEDINA, IZAN"
+    },
+    {
+      "min": 60,
+      "entra": "URDIAIN GODINO, ENAITZ",
+      "sale": "CABALLERO PINZON, XABIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "SAYKOUK EL ASSAL, ANWAR": 90,
+    "VIA ALONSO, MARK": 41,
+    "LUNGU, ROBERT DANIEL": 90,
+    "DAHNOU DARHDOURHI, HAMZA": 60,
+    "MUÑOZ PASTRANA, ANGEL SAMUEL": 90,
+    "CASTRO GALINDEZ, ENEKO": 90,
+    "CASTRO ALONSO, JAM FELIPE": 70,
+    "VALDIVIA OBISPO, UNAI GERARD": 90,
+    "TUEROS PEÑA, EKAIN": 70,
+    "PAD MENDEZ, IOAN": 90,
+    "IMAD MENNANI, ABDELKHALIL": 60,
+    "MAZA VARONA, LUCAS": 49,
+    "ZUBIZARRETA TOMBAS, HODEI": 30,
+    "MENCÍA ÁLVAREZ, IKER UNAI": 30,
+    "BERASATEGUI CECOI, VIKTOR TXOMIN": 20,
+    "EL ARBAOUI BELMALEM, SOUHAIL": 20,
+    "GARCIA BRAZAOLA, ENAITZ": 90,
+    "UZQUIZA HERNANDEZ, URKO": 60,
+    "GALARRAGA LOPEZ DE EGUINOA, OIHAN": 90,
+    "MESSAOUDI MESSAOUDI, ADAM": 45,
+    "CAMUÑEZ MARTINEZ, EDER": 90,
+    "CABALLERO PINZON, XABIER": 60,
+    "LASTRES RODRIGUEZ, ASIER": 45,
+    "SOARES GARCIA, DAVID": 90,
+    "JADYANE SAKOUTI, ABDELKADER": 90,
+    "MARTINEZ MEDINA, IZAN": 60,
+    "EL AZZOUZI, ADAM": 90,
+    "ANGULO RODRIGUEZ, MIKEL": 45,
+    "MAGARIÑO MENDILIBAR, OIER": 45,
+    "SERRANO LOPEZ, IKER": 30,
+    "MACUA DIAZ, PEIO": 30,
+    "URDIAIN GODINO, ENAITZ": 30
+  },
+  "portero_local": "SAYKOUK EL ASSAL, ANWAR",
+  "portero_visitante": "GARCIA BRAZAOLA, ENAITZ",
+  "dorsales_local": {
+    "SAYKOUK EL ASSAL, ANWAR": 13,
+    "VIA ALONSO, MARK": 5,
+    "LUNGU, ROBERT DANIEL": 10,
+    "DAHNOU DARHDOURHI, HAMZA": 11,
+    "MUÑOZ PASTRANA, ANGEL SAMUEL": 12,
+    "CASTRO GALINDEZ, ENEKO": 15,
+    "CASTRO ALONSO, JAM FELIPE": 17,
+    "VALDIVIA OBISPO, UNAI GERARD": 18,
+    "TUEROS PEÑA, EKAIN": 19,
+    "PAD MENDEZ, IOAN": 22,
+    "IMAD MENNANI, ABDELKHALIL": 24
+  },
+  "dorsales_visitante": {
+    "GARCIA BRAZAOLA, ENAITZ": 1,
+    "UZQUIZA HERNANDEZ, URKO": 4,
+    "GALARRAGA LOPEZ DE EGUINOA, OIHAN": 8,
+    "MESSAOUDI MESSAOUDI, ADAM": 9,
+    "CAMUÑEZ MARTINEZ, EDER": 10,
+    "CABALLERO PINZON, XABIER": 14,
+    "LASTRES RODRIGUEZ, ASIER": 15,
+    "SOARES GARCIA, DAVID": 16,
+    "JADYANE SAKOUTI, ABDELKADER": 17,
+    "MARTINEZ MEDINA, IZAN": 19,
+    "EL AZZOUZI, ADAM": 20
+  },
+  "suspendidos": [
+    "MUÑOZ PASTRANA, ANGEL SAMUEL"
+  ],
+  "_marcador_widget": true
+}
