@@ -10,8 +10,8 @@
   "equipo_local": "C.D. SIERRA DE POZO ALCON",
   "equipo_visitante": "C.D. CULTURAL ASAKO MOTRIL",
   "goles_local": 3,
-  "goles_visitante": 4,
-  "resultado": "L",
+  "goles_visitante": 2,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "DIAZ DE SARRALDE MARTÍN, JON",
@@ -29,43 +29,50 @@
       "minuto": 6,
       "jugador": "NAVARRETE GONZALEZ, PILAR",
       "equipo": "?",
-      "propia": true
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "MOLNER LEYVA, MELINDA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 32,
       "jugador": "RUIZ VILLEN, LUCIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 33,
       "jugador": "MOLNER LEYVA, MELINDA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "PEREZ SANCHEZ, MIREYA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "CABALÍN LOCK, NAIALA REBECCA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 36,
       "jugador": "RUIZ VILLEN, LUCIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -173,7 +180,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": null,
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "FEREZ MORENO, FRANCISCO JOSE",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "ORTEGA MOYA, JOSÉ ANTONIO",
   "titulares_local": [
@@ -273,6 +280,5 @@
   "suspendidos": [
     "C.D. SIERRA DE POZO ALCON :",
     "NINGUNA"
-  ],
-  "_marcador_widget": true
+  ]
 }
