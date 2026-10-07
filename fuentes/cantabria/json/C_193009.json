@@ -1,0 +1,349 @@
+{
+  "acta_id": "C_193009",
+  "filename": "Acta_C_193009.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 32,
+  "fecha": "11-05-2025",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D. REVILLA A",
+  "equipo_visitante": "DEPORTIVO PERINES",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GRANDE FERNANDEZ, MIGUEL"
+  ],
+  "estadio": "Revilla",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "PUENTE GARCIA, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 8,
+      "jugador": "JIMENEZ NIÑO, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 9,
+      "jugador": "PEREZ GONZALEZ, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "MARTINEZ JIMENEZ, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "ALONSO PEREZ, DARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "MANCEBO BOLADO, SANTIAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "TOCA SAN JOSE, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "SANCHEZ RODRÍGUEZ, SAMUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "SOLORZANO BRAVO, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "SIERRA JIMENEZ, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "SALGADO ENACHE, BRUNO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "MARTINEZ JIMENEZ, JORGE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "MARTINEZ JIMENEZ, JORGE",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "GARCIA GARCIA, BORJA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 26,
+      "jugador": "LOPEZ GONZALEZ, IZAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "DESIRE BONILLA, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "COTERILLO COBO, MATEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "LOPEZ GONZALEZ, IZAN",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "ALEGRIA NUÑEZ, DANIEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CANALES CAVADA, SAMUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CANALES CAVADA, SAMUEL",
+  "delegado_equipo_visitante": "ALCANTARA ARCE, ANDRES",
+  "titulares_local": [
+    "SANCHEZ RODRÍGUEZ, SAMUEL",
+    "SOLORZANO BRAVO, ALVARO",
+    "AGUERO AGUNDEZ, LUIS",
+    "PEREZ GONZALEZ, HUGO",
+    "MANCEBO BOLADO, SANTIAGO",
+    "CIFRIAN CALZADA, SERGIO",
+    "CORTA PENAGOS, FERNANDO",
+    "SALGADO ENACHE, BRUNO",
+    "PUENTE GARCIA, DIEGO",
+    "MARTINEZ JIMENEZ, JORGE",
+    "TOCA SAN JOSE, DIEGO"
+  ],
+  "titulares_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "LOPEZ GONZALEZ, IZAN",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "DESIRE BONILLA, DANIEL",
+    "PONTONES FERREIRA, MARIO",
+    "JIMENEZ NIÑO, DAVID",
+    "CORONA DE MATEO, DAVID",
+    "AZNAR NUÑO, ALEX",
+    "COBO NDONG, DANIEL",
+    "COTERILLO COBO, MATEO",
+    "VEGA CASAS, CARLOS"
+  ],
+  "suplentes_local": [
+    "GARCIA GARCIA, BORJA",
+    "DEL HIERRO LOPEZ, ADRIAN",
+    "GARCIA COTERA, MATEO",
+    "SIERRA JIMENEZ, ADRIAN",
+    "MARTINEZ JIMENEZ, MATEO"
+  ],
+  "suplentes_visitante": [
+    "ALONSO PEREZ, DARIO",
+    "MARTE MUGICA, EDUARD",
+    "HERRERA CASANOVA, IZAN",
+    "DIAZ ALPISTE, SAMUEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "SANCHEZ RODRÍGUEZ, SAMUEL",
+    "SOLORZANO BRAVO, ALVARO",
+    "AGUERO AGUNDEZ, LUIS",
+    "PEREZ GONZALEZ, HUGO",
+    "MANCEBO BOLADO, SANTIAGO",
+    "CIFRIAN CALZADA, SERGIO",
+    "CORTA PENAGOS, FERNANDO",
+    "SALGADO ENACHE, BRUNO",
+    "PUENTE GARCIA, DIEGO",
+    "MARTINEZ JIMENEZ, JORGE",
+    "TOCA SAN JOSE, DIEGO",
+    "GARCIA COTERA, MATEO",
+    "DEL HIERRO LOPEZ, ADRIAN",
+    "MARTINEZ JIMENEZ, MATEO",
+    "SIERRA JIMENEZ, ADRIAN",
+    "GARCIA GARCIA, BORJA"
+  ],
+  "jugadores_visitante": [
+    "CUENDE RAMOS, YAGO",
+    "LOPEZ GONZALEZ, IZAN",
+    "SAN MIGUEL VÉLEZ, HUGO",
+    "DESIRE BONILLA, DANIEL",
+    "PONTONES FERREIRA, MARIO",
+    "JIMENEZ NIÑO, DAVID",
+    "CORONA DE MATEO, DAVID",
+    "AZNAR NUÑO, ALEX",
+    "COBO NDONG, DANIEL",
+    "COTERILLO COBO, MATEO",
+    "VEGA CASAS, CARLOS",
+    "HERRERA CASANOVA, IZAN",
+    "ALONSO PEREZ, DARIO",
+    "DIAZ ALPISTE, SAMUEL",
+    "MARTE MUGICA, EDUARD"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "GARCIA COTERA, MATEO",
+      "sale": "MANCEBO BOLADO, SANTIAGO"
+    },
+    {
+      "min": 55,
+      "entra": "DEL HIERRO LOPEZ, ADRIAN",
+      "sale": "PUENTE GARCIA, DIEGO"
+    },
+    {
+      "min": 61,
+      "entra": "MARTINEZ JIMENEZ, MATEO",
+      "sale": "CIFRIAN CALZADA, SERGIO"
+    },
+    {
+      "min": 68,
+      "entra": "SIERRA JIMENEZ, ADRIAN",
+      "sale": "PEREZ GONZALEZ, HUGO"
+    },
+    {
+      "min": 68,
+      "entra": "GARCIA GARCIA, BORJA",
+      "sale": "SOLORZANO BRAVO, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "HERRERA CASANOVA, IZAN",
+      "sale": "AZNAR NUÑO, ALEX"
+    },
+    {
+      "min": 55,
+      "entra": "ALONSO PEREZ, DARIO",
+      "sale": "COTERILLO COBO, MATEO"
+    },
+    {
+      "min": 55,
+      "entra": "DIAZ ALPISTE, SAMUEL",
+      "sale": "DESIRE BONILLA, DANIEL"
+    },
+    {
+      "min": 63,
+      "entra": "MARTE MUGICA, EDUARD",
+      "sale": "COBO NDONG, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANCHEZ RODRÍGUEZ, SAMUEL": 90,
+    "SOLORZANO BRAVO, ALVARO": 68,
+    "AGUERO AGUNDEZ, LUIS": 90,
+    "PEREZ GONZALEZ, HUGO": 68,
+    "MANCEBO BOLADO, SANTIAGO": 55,
+    "CIFRIAN CALZADA, SERGIO": 61,
+    "CORTA PENAGOS, FERNANDO": 90,
+    "SALGADO ENACHE, BRUNO": 90,
+    "PUENTE GARCIA, DIEGO": 55,
+    "MARTINEZ JIMENEZ, JORGE": 90,
+    "TOCA SAN JOSE, DIEGO": 90,
+    "GARCIA COTERA, MATEO": 35,
+    "DEL HIERRO LOPEZ, ADRIAN": 35,
+    "MARTINEZ JIMENEZ, MATEO": 29,
+    "SIERRA JIMENEZ, ADRIAN": 22,
+    "GARCIA GARCIA, BORJA": 22,
+    "CUENDE RAMOS, YAGO": 90,
+    "LOPEZ GONZALEZ, IZAN": 90,
+    "SAN MIGUEL VÉLEZ, HUGO": 90,
+    "DESIRE BONILLA, DANIEL": 55,
+    "PONTONES FERREIRA, MARIO": 90,
+    "JIMENEZ NIÑO, DAVID": 90,
+    "CORONA DE MATEO, DAVID": 90,
+    "AZNAR NUÑO, ALEX": 55,
+    "COBO NDONG, DANIEL": 63,
+    "COTERILLO COBO, MATEO": 55,
+    "VEGA CASAS, CARLOS": 90,
+    "HERRERA CASANOVA, IZAN": 35,
+    "ALONSO PEREZ, DARIO": 35,
+    "DIAZ ALPISTE, SAMUEL": 35,
+    "MARTE MUGICA, EDUARD": 27
+  },
+  "portero_local": "SANCHEZ RODRÍGUEZ, SAMUEL",
+  "portero_visitante": "CUENDE RAMOS, YAGO",
+  "dorsales_local": {
+    "SANCHEZ RODRÍGUEZ, SAMUEL": 1,
+    "SOLORZANO BRAVO, ALVARO": 3,
+    "AGUERO AGUNDEZ, LUIS": 5,
+    "PEREZ GONZALEZ, HUGO": 7,
+    "MANCEBO BOLADO, SANTIAGO": 8,
+    "CIFRIAN CALZADA, SERGIO": 11,
+    "CORTA PENAGOS, FERNANDO": 14,
+    "SALGADO ENACHE, BRUNO": 17,
+    "PUENTE GARCIA, DIEGO": 19,
+    "MARTINEZ JIMENEZ, JORGE": 20,
+    "TOCA SAN JOSE, DIEGO": 22
+  },
+  "dorsales_visitante": {
+    "CUENDE RAMOS, YAGO": 13,
+    "LOPEZ GONZALEZ, IZAN": 3,
+    "SAN MIGUEL VÉLEZ, HUGO": 5,
+    "DESIRE BONILLA, DANIEL": 7,
+    "PONTONES FERREIRA, MARIO": 8,
+    "JIMENEZ NIÑO, DAVID": 9,
+    "CORONA DE MATEO, DAVID": 10,
+    "AZNAR NUÑO, ALEX": 12,
+    "COBO NDONG, DANIEL": 14,
+    "COTERILLO COBO, MATEO": 15,
+    "VEGA CASAS, CARLOS": 20
+  },
+  "suspendidos": [
+    "MARTINEZ JIMENEZ, JORGE",
+    "LOPEZ GONZALEZ, IZAN"
+  ]
+}
