@@ -1,0 +1,238 @@
+{
+  "acta_id": "10029491",
+  "filename": "Acta_10029491.txt",
+  "fuente": "alava",
+  "temporada": "2025-2026",
+  "jornada": 9,
+  "fecha": "08-03-2026",
+  "hora": "12:30",
+  "categoria": "REGIONAL PREFERENTE TORNEO FEDERACIÓN / LURRALDEKO LEHENTASUNEZKO MAILA FEDERAZIO TORNEOA (GRUPO UNICO / TALDE BAKARRA)",
+  "equipo_local": "ABETXUKO ADC B",
+  "equipo_visitante": "BATZARRE FUTBOL-5, AD",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "HIBICH AISSAOUI, MOHAMMED"
+  ],
+  "estadio": "AMETSA",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "OMOKARO, OSAMAGBE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "SIDIBE, BAKARY",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "YOUSSOUF AYOKA, MOUBARAK AKANDJI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "MANCEBO RUIZ, AITOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "MARTINEZ IBARROLA, JOSE FRANCISCO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "REVILLA ALVARO, ALBERTO",
+  "delegado_campo_local": "PORTILLA ESTEFANIA, IZASKUN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RODRIGUEZ JUSTICIA, MIGUEL ANGEL",
+  "delegado_equipo_visitante": "RODRIGUEZ CERRAJERIA, JOSE IGNACIO",
+  "titulares_local": [
+    "RODRIGUEZ PORTILLA, JAIRO",
+    "OMOKARO, OSAMAGBE",
+    "ROQUEÑI GONCALVES, YERAI",
+    "ROJAS VELASCO, JENDSEL STUAR",
+    "PARADELO NUÑEZ, BRAIS",
+    "YOUSSOUF AYOKA, MOUBARAK AKANDJI",
+    "DEL VAL GUEMEZ, IBAN",
+    "CARBALLO RIVEROS, VICENTE MANUEL",
+    "SIDIBE, BAKARY",
+    "GONZALEZ PANCORBO, IÑIGO",
+    "ESQUIBEL ARAICO, IBAI"
+  ],
+  "titulares_visitante": [
+    "HUERTOS CALLEJA, ANDER",
+    "GOMEZ BECERRA, XABIER",
+    "PANDO MARTINEZ, AITOR",
+    "ANDRES DIAZ, JOAQUIN",
+    "CRESPO PEDRAZA, IAN",
+    "ALENDAROV MUSLIEV, SAYMAN ILIYANOV",
+    "CANEDO GARCIA, JON ANDER",
+    "DAROURI, SAAD",
+    "RODRIGUEZ APELLANIZ, IBAI",
+    "ALBENIZ PEREZ, MARIO",
+    "SANZ MARTIN, ASIER"
+  ],
+  "suplentes_local": [
+    "CASADO MOLINA, ASIER",
+    "CARDOZO TIRADO, MICHAEL ESTEBAN",
+    "MORENO IZARRA, ASIER"
+  ],
+  "suplentes_visitante": [
+    "ESTEBAN BERNAL, AIMAR",
+    "MANCEBO RUIZ, AITOR",
+    "GUTIERREZ-BARQUIN IRASTORZA, ASIER",
+    "GARAIGORDOBIL TREBIÑO, UNAI",
+    "PORTILLA TXURRUKA, UNAI",
+    "QUIROGA LOPEZ, DANIEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "CASADO MOLINA, ASIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GUTIERREZ-BARQUIN IRASTORZA, ASIER"
+  ],
+  "jugadores_local": [
+    "RODRIGUEZ PORTILLA, JAIRO",
+    "OMOKARO, OSAMAGBE",
+    "ROQUEÑI GONCALVES, YERAI",
+    "ROJAS VELASCO, JENDSEL STUAR",
+    "PARADELO NUÑEZ, BRAIS",
+    "YOUSSOUF AYOKA, MOUBARAK AKANDJI",
+    "DEL VAL GUEMEZ, IBAN",
+    "CARBALLO RIVEROS, VICENTE MANUEL",
+    "SIDIBE, BAKARY",
+    "GONZALEZ PANCORBO, IÑIGO",
+    "ESQUIBEL ARAICO, IBAI",
+    "CARDOZO TIRADO, MICHAEL ESTEBAN",
+    "MORENO IZARRA, ASIER"
+  ],
+  "jugadores_visitante": [
+    "HUERTOS CALLEJA, ANDER",
+    "GOMEZ BECERRA, XABIER",
+    "PANDO MARTINEZ, AITOR",
+    "ANDRES DIAZ, JOAQUIN",
+    "CRESPO PEDRAZA, IAN",
+    "ALENDAROV MUSLIEV, SAYMAN ILIYANOV",
+    "CANEDO GARCIA, JON ANDER",
+    "DAROURI, SAAD",
+    "RODRIGUEZ APELLANIZ, IBAI",
+    "ALBENIZ PEREZ, MARIO",
+    "SANZ MARTIN, ASIER",
+    "PORTILLA TXURRUKA, UNAI",
+    "GARAIGORDOBIL TREBIÑO, UNAI",
+    "QUIROGA LOPEZ, DANIEL",
+    "MANCEBO RUIZ, AITOR",
+    "ESTEBAN BERNAL, AIMAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "CARDOZO TIRADO, MICHAEL ESTEBAN",
+      "sale": "ESQUIBEL ARAICO, IBAI"
+    },
+    {
+      "min": 70,
+      "entra": "MORENO IZARRA, ASIER",
+      "sale": "CARBALLO RIVEROS, VICENTE MANUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 11,
+      "entra": "PORTILLA TXURRUKA, UNAI",
+      "sale": "ANDRES DIAZ, JOAQUIN"
+    },
+    {
+      "min": 58,
+      "entra": "GARAIGORDOBIL TREBIÑO, UNAI",
+      "sale": "CRESPO PEDRAZA, IAN"
+    },
+    {
+      "min": 58,
+      "entra": "QUIROGA LOPEZ, DANIEL",
+      "sale": "SANZ MARTIN, ASIER"
+    },
+    {
+      "min": 70,
+      "entra": "MANCEBO RUIZ, AITOR",
+      "sale": "DAROURI, SAAD"
+    },
+    {
+      "min": 80,
+      "entra": "ESTEBAN BERNAL, AIMAR",
+      "sale": "RODRIGUEZ APELLANIZ, IBAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ PORTILLA, JAIRO": 90,
+    "OMOKARO, OSAMAGBE": 90,
+    "ROQUEÑI GONCALVES, YERAI": 90,
+    "ROJAS VELASCO, JENDSEL STUAR": 90,
+    "PARADELO NUÑEZ, BRAIS": 90,
+    "YOUSSOUF AYOKA, MOUBARAK AKANDJI": 90,
+    "DEL VAL GUEMEZ, IBAN": 90,
+    "CARBALLO RIVEROS, VICENTE MANUEL": 70,
+    "SIDIBE, BAKARY": 90,
+    "GONZALEZ PANCORBO, IÑIGO": 90,
+    "ESQUIBEL ARAICO, IBAI": 59,
+    "CARDOZO TIRADO, MICHAEL ESTEBAN": 31,
+    "MORENO IZARRA, ASIER": 20,
+    "HUERTOS CALLEJA, ANDER": 90,
+    "GOMEZ BECERRA, XABIER": 90,
+    "PANDO MARTINEZ, AITOR": 90,
+    "ANDRES DIAZ, JOAQUIN": 11,
+    "CRESPO PEDRAZA, IAN": 58,
+    "ALENDAROV MUSLIEV, SAYMAN ILIYANOV": 90,
+    "CANEDO GARCIA, JON ANDER": 90,
+    "DAROURI, SAAD": 70,
+    "RODRIGUEZ APELLANIZ, IBAI": 80,
+    "ALBENIZ PEREZ, MARIO": 90,
+    "SANZ MARTIN, ASIER": 58,
+    "PORTILLA TXURRUKA, UNAI": 79,
+    "GARAIGORDOBIL TREBIÑO, UNAI": 32,
+    "QUIROGA LOPEZ, DANIEL": 32,
+    "MANCEBO RUIZ, AITOR": 20,
+    "ESTEBAN BERNAL, AIMAR": 10
+  },
+  "portero_local": "RODRIGUEZ PORTILLA, JAIRO",
+  "portero_visitante": "HUERTOS CALLEJA, ANDER",
+  "dorsales_local": {
+    "RODRIGUEZ PORTILLA, JAIRO": 1,
+    "OMOKARO, OSAMAGBE": 3,
+    "ROQUEÑI GONCALVES, YERAI": 5,
+    "ROJAS VELASCO, JENDSEL STUAR": 7,
+    "PARADELO NUÑEZ, BRAIS": 14,
+    "YOUSSOUF AYOKA, MOUBARAK AKANDJI": 16,
+    "DEL VAL GUEMEZ, IBAN": 17,
+    "CARBALLO RIVEROS, VICENTE MANUEL": 19,
+    "SIDIBE, BAKARY": 25,
+    "GONZALEZ PANCORBO, IÑIGO": 58,
+    "ESQUIBEL ARAICO, IBAI": 60
+  },
+  "dorsales_visitante": {
+    "HUERTOS CALLEJA, ANDER": 1,
+    "GOMEZ BECERRA, XABIER": 2,
+    "PANDO MARTINEZ, AITOR": 4,
+    "ANDRES DIAZ, JOAQUIN": 5,
+    "CRESPO PEDRAZA, IAN": 8,
+    "ALENDAROV MUSLIEV, SAYMAN ILIYANOV": 9,
+    "CANEDO GARCIA, JON ANDER": 15,
+    "DAROURI, SAAD": 19,
+    "RODRIGUEZ APELLANIZ, IBAI": 21,
+    "ALBENIZ PEREZ, MARIO": 34,
+    "SANZ MARTIN, ASIER": 77
+  },
+  "suspendidos": []
+}
