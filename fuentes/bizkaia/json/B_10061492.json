@@ -1,0 +1,297 @@
+{
+  "acta_id": "B_10061492",
+  "filename": "Acta_B_10061492.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "27-09-2026",
+  "hora": "13:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "URDULIZ A",
+  "equipo_visitante": "GAZTELUETA A",
+  "goles_local": 1,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MARTIN DEL MORAL, ALEX"
+  ],
+  "estadio": "IPARRALDE-URDULIZ",
+  "ciudad": "Urduliz",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "PEREZ EGUIDAZU, TELMO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 20,
+      "jugador": "REDONDO RUIZ, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "ORMAZABAL SOMALO, MIGUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "PEREZ EGUIDAZU, TELMO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "GUIBERT SETIÉN, TOMAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "MADURGA MARTIN, ARITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 31,
+      "jugador": "DIOP KABIKETA, SUA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "ROQUE URRECHAGA, KEMEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 4,
+      "jugador": "IRASARRI ABASCAL, JUAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "BLÁZQUEZ RUBIO, MIKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "SANCHEZ-RUIZ MONASTERIO, PEDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "GARCÍA CABALLERO, JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MAESTRO REDONDO, JORGE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MAESTRO REDONDO, JORGE",
+  "delegado_equipo_visitante": "GUZMÁN CERRATO, DIEGO",
+  "titulares_local": [
+    "COB BOTELLO, IÑAKI",
+    "MARTINEZ DUARTE, AITOR",
+    "CRUZ CASAS, YEIKO",
+    "COTIGA MATEI, ANDREI IOAN",
+    "DIOP KABIKETA, SUA",
+    "ARNAIZ VEGA, MARKEL",
+    "ROQUE URRECHAGA, KEMEN",
+    "AMARO ABANDO, KENAI",
+    "AROSA GONZÁLEZ, LEO",
+    "MADURGA MARTIN, ARITZ",
+    "TEJADA CABRERA, MARTÍN"
+  ],
+  "titulares_visitante": [
+    "GARDEAZABAL GONZALEZ, JAIME",
+    "VÁZQUEZ DÍAZ, TELMO",
+    "IRASARRI ABASCAL, JUAN",
+    "ESTEVEZ RECIO, NICOLAS",
+    "ARBEO ALCIBAR, PABLO",
+    "ORMAZABAL SOMALO, MIGUEL",
+    "PEREZ EGUIDAZU, TELMO",
+    "BLÁZQUEZ RUBIO, MIKEL",
+    "REDONDO RUIZ, MATEO",
+    "SAIZ MARTINEZ DE LA CUADRA, JAVIER",
+    "ARAGUNDE CASTIELLA, JAIME"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ MADARIAGA, GORKA",
+    "IRAZU FERNANDEZ, GORKA",
+    "ARRESEIGOR MARDARAS, LIHER",
+    "CHAHIB EL HAJJI, ISMAEL"
+  ],
+  "suplentes_visitante": [
+    "SANCHEZ-RUIZ MONASTERIO, PEDRO",
+    "LAMO DE ESPINOSA RAMOS, JAIME",
+    "GUIBERT SETIÉN, TOMAS",
+    "IMAZ AGUILERA, BOSCO",
+    "EGUSQUIZA CORCOBADO, JULIO ASIS",
+    "FUENTE ZUBIAGA, COSME",
+    "STERLING ESTARTA, TADEO"
+  ],
+  "convocados_sin_jugar_local": [
+    "RODRIGUEZ MADARIAGA, GORKA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "EGUSQUIZA CORCOBADO, JULIO ASIS",
+    "STERLING ESTARTA, TADEO"
+  ],
+  "jugadores_local": [
+    "COB BOTELLO, IÑAKI",
+    "MARTINEZ DUARTE, AITOR",
+    "CRUZ CASAS, YEIKO",
+    "COTIGA MATEI, ANDREI IOAN",
+    "DIOP KABIKETA, SUA",
+    "ARNAIZ VEGA, MARKEL",
+    "ROQUE URRECHAGA, KEMEN",
+    "AMARO ABANDO, KENAI",
+    "AROSA GONZÁLEZ, LEO",
+    "MADURGA MARTIN, ARITZ",
+    "TEJADA CABRERA, MARTÍN",
+    "IRAZU FERNANDEZ, GORKA",
+    "CHAHIB EL HAJJI, ISMAEL",
+    "ARRESEIGOR MARDARAS, LIHER"
+  ],
+  "jugadores_visitante": [
+    "GARDEAZABAL GONZALEZ, JAIME",
+    "VÁZQUEZ DÍAZ, TELMO",
+    "IRASARRI ABASCAL, JUAN",
+    "ESTEVEZ RECIO, NICOLAS",
+    "ARBEO ALCIBAR, PABLO",
+    "ORMAZABAL SOMALO, MIGUEL",
+    "PEREZ EGUIDAZU, TELMO",
+    "BLÁZQUEZ RUBIO, MIKEL",
+    "REDONDO RUIZ, MATEO",
+    "SAIZ MARTINEZ DE LA CUADRA, JAVIER",
+    "ARAGUNDE CASTIELLA, JAIME",
+    "FUENTE ZUBIAGA, COSME",
+    "SANCHEZ-RUIZ MONASTERIO, PEDRO",
+    "GUIBERT SETIÉN, TOMAS",
+    "LAMO DE ESPINOSA RAMOS, JAIME",
+    "IMAZ AGUILERA, BOSCO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "IRAZU FERNANDEZ, GORKA",
+      "sale": "DIOP KABIKETA, SUA"
+    },
+    {
+      "min": 61,
+      "entra": "CHAHIB EL HAJJI, ISMAEL",
+      "sale": "TEJADA CABRERA, MARTÍN"
+    },
+    {
+      "min": 67,
+      "entra": "ARRESEIGOR MARDARAS, LIHER",
+      "sale": "AMARO ABANDO, KENAI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "FUENTE ZUBIAGA, COSME",
+      "sale": "BLÁZQUEZ RUBIO, MIKEL"
+    },
+    {
+      "min": 62,
+      "entra": "SANCHEZ-RUIZ MONASTERIO, PEDRO",
+      "sale": "PEREZ EGUIDAZU, TELMO"
+    },
+    {
+      "min": 62,
+      "entra": "GUIBERT SETIÉN, TOMAS",
+      "sale": "SAIZ MARTINEZ DE LA CUADRA, JAVIER"
+    },
+    {
+      "min": 70,
+      "entra": "LAMO DE ESPINOSA RAMOS, JAIME",
+      "sale": "ESTEVEZ RECIO, NICOLAS"
+    },
+    {
+      "min": 70,
+      "entra": "IMAZ AGUILERA, BOSCO",
+      "sale": "ARBEO ALCIBAR, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "COB BOTELLO, IÑAKI": 90,
+    "MARTINEZ DUARTE, AITOR": 90,
+    "CRUZ CASAS, YEIKO": 90,
+    "COTIGA MATEI, ANDREI IOAN": 90,
+    "DIOP KABIKETA, SUA": 40,
+    "ARNAIZ VEGA, MARKEL": 90,
+    "ROQUE URRECHAGA, KEMEN": 90,
+    "AMARO ABANDO, KENAI": 67,
+    "AROSA GONZÁLEZ, LEO": 90,
+    "MADURGA MARTIN, ARITZ": 90,
+    "TEJADA CABRERA, MARTÍN": 61,
+    "IRAZU FERNANDEZ, GORKA": 50,
+    "CHAHIB EL HAJJI, ISMAEL": 29,
+    "ARRESEIGOR MARDARAS, LIHER": 23,
+    "GARDEAZABAL GONZALEZ, JAIME": 90,
+    "VÁZQUEZ DÍAZ, TELMO": 90,
+    "IRASARRI ABASCAL, JUAN": 90,
+    "ESTEVEZ RECIO, NICOLAS": 70,
+    "ARBEO ALCIBAR, PABLO": 70,
+    "ORMAZABAL SOMALO, MIGUEL": 90,
+    "PEREZ EGUIDAZU, TELMO": 62,
+    "BLÁZQUEZ RUBIO, MIKEL": 51,
+    "REDONDO RUIZ, MATEO": 90,
+    "SAIZ MARTINEZ DE LA CUADRA, JAVIER": 62,
+    "ARAGUNDE CASTIELLA, JAIME": 90,
+    "FUENTE ZUBIAGA, COSME": 39,
+    "SANCHEZ-RUIZ MONASTERIO, PEDRO": 28,
+    "GUIBERT SETIÉN, TOMAS": 28,
+    "LAMO DE ESPINOSA RAMOS, JAIME": 20,
+    "IMAZ AGUILERA, BOSCO": 20
+  },
+  "portero_local": "COB BOTELLO, IÑAKI",
+  "portero_visitante": "GARDEAZABAL GONZALEZ, JAIME",
+  "dorsales_local": {
+    "COB BOTELLO, IÑAKI": 1,
+    "MARTINEZ DUARTE, AITOR": 2,
+    "CRUZ CASAS, YEIKO": 3,
+    "COTIGA MATEI, ANDREI IOAN": 4,
+    "DIOP KABIKETA, SUA": 5,
+    "ARNAIZ VEGA, MARKEL": 6,
+    "ROQUE URRECHAGA, KEMEN": 7,
+    "AMARO ABANDO, KENAI": 8,
+    "AROSA GONZÁLEZ, LEO": 9,
+    "MADURGA MARTIN, ARITZ": 10,
+    "TEJADA CABRERA, MARTÍN": 11
+  },
+  "dorsales_visitante": {
+    "GARDEAZABAL GONZALEZ, JAIME": 1,
+    "VÁZQUEZ DÍAZ, TELMO": 2,
+    "IRASARRI ABASCAL, JUAN": 5,
+    "ESTEVEZ RECIO, NICOLAS": 7,
+    "ARBEO ALCIBAR, PABLO": 8,
+    "ORMAZABAL SOMALO, MIGUEL": 9,
+    "PEREZ EGUIDAZU, TELMO": 10,
+    "BLÁZQUEZ RUBIO, MIKEL": 18,
+    "REDONDO RUIZ, MATEO": 20,
+    "SAIZ MARTINEZ DE LA CUADRA, JAVIER": 21,
+    "ARAGUNDE CASTIELLA, JAIME": 23
+  },
+  "suspendidos": []
+}
