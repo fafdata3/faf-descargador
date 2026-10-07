@@ -1,0 +1,261 @@
+{
+  "acta_id": "B_9981222",
+  "filename": "Acta_B_9981222.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "08-11-2025",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "MSC BUTROE A",
+  "equipo_visitante": "BARAKALDO B",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ARTARAZ BASAGUREN, IÑIGO"
+  ],
+  "estadio": "ASTIENE",
+  "ciudad": "Mungia",
+  "goleadores": [
+    {
+      "minuto": 26,
+      "jugador": "ROMILLO LOPEZ, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "MAQUEDA HERNANDEZ, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "HERRERA IGLESIAS, AGER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 29,
+      "jugador": "ELORDUY ARTECHE, TELMO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ELORRIAGA SOBRON, JON",
+  "entrenador_visitante": "SANCHEZ GUTIERREZ, JOSE MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "DE LA TORRE LANDERA, ARNAU",
+  "delegado_campo_local": "ESCONDRILLAS SOLERA, JON KOLDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ESCONDRILLAS SOLERA, JON KOLDO",
+  "delegado_equipo_visitante": "GARCIA CRESPO, JOSE MARIA",
+  "titulares_local": [
+    "RODRÍGUEZ RUIZ, ANER",
+    "ELORRIAGA CARLOS, OIER",
+    "BEITIA ASLA, AXULAR",
+    "ELORDUY ARTECHE, TELMO",
+    "GEZURAGA MARDARAS, INAR",
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON",
+    "DUBININ KOUKOL, DANIEL DAMIAN",
+    "ZUGAZAGA BARCOS, DEI",
+    "EGUIÑO ARRIETA, UNAI",
+    "IBAÑEZ PEREZ, ANDER",
+    "BRYSON CARDIM, CHRISTIAN"
+  ],
+  "titulares_visitante": [
+    "MARTIN MARTIN, AIMAR",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "CORMAN LOPEZ, UNAI",
+    "VILLARIAS BRIÑAS, ALEXANDER",
+    "ROMILLO LOPEZ, ANDER",
+    "VAZQUEZ AGUIRRE, KOLDO",
+    "LORENZO OTERO, ERIK",
+    "CAPITAN ORCIANI, ALAIN",
+    "GARCIA ARNAIZ, ENEKO",
+    "HERRERA IGLESIAS, AGER",
+    "MERELES GONZALEZ, MAXWELL MANUEL"
+  ],
+  "suplentes_local": [
+    "LEKERIKA MENDIA, IÑIGO",
+    "MUÑIZ ITURBE-ORMAETXE, PERU",
+    "PALOMO GOMILA, ENDIKA",
+    "SASTRE LARRABE, LUKEN",
+    "BARBOSA BILBAO, LIER",
+    "MENTXAKA HORMAETXE, MIKEL",
+    "CORDOBA LADINO, EMMANUEL"
+  ],
+  "suplentes_visitante": [
+    "FRANCO GOYENECHEA, NIKOLA",
+    "ROMERA OLIVENZA, JULEN",
+    "LOPEZ MARTINEZ, AMETS",
+    "SANTOS DOTOR, SENDOA",
+    "MONTERO SARMIENTO, MIKEL ALEXANDER",
+    "PIÑOL CONDE, ANDONI",
+    "AXPE GONZALEZ, ENEKO"
+  ],
+  "convocados_sin_jugar_local": [
+    "LEKERIKA MENDIA, IÑIGO",
+    "MUÑIZ ITURBE-ORMAETXE, PERU",
+    "MENTXAKA HORMAETXE, MIKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "FRANCO GOYENECHEA, NIKOLA",
+    "ROMERA OLIVENZA, JULEN",
+    "SANTOS DOTOR, SENDOA"
+  ],
+  "jugadores_local": [
+    "RODRÍGUEZ RUIZ, ANER",
+    "ELORRIAGA CARLOS, OIER",
+    "BEITIA ASLA, AXULAR",
+    "ELORDUY ARTECHE, TELMO",
+    "GEZURAGA MARDARAS, INAR",
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON",
+    "DUBININ KOUKOL, DANIEL DAMIAN",
+    "ZUGAZAGA BARCOS, DEI",
+    "EGUIÑO ARRIETA, UNAI",
+    "IBAÑEZ PEREZ, ANDER",
+    "BRYSON CARDIM, CHRISTIAN",
+    "BARBOSA BILBAO, LIER",
+    "CORDOBA LADINO, EMMANUEL",
+    "PALOMO GOMILA, ENDIKA",
+    "SASTRE LARRABE, LUKEN"
+  ],
+  "jugadores_visitante": [
+    "MARTIN MARTIN, AIMAR",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "CORMAN LOPEZ, UNAI",
+    "VILLARIAS BRIÑAS, ALEXANDER",
+    "ROMILLO LOPEZ, ANDER",
+    "VAZQUEZ AGUIRRE, KOLDO",
+    "LORENZO OTERO, ERIK",
+    "CAPITAN ORCIANI, ALAIN",
+    "GARCIA ARNAIZ, ENEKO",
+    "HERRERA IGLESIAS, AGER",
+    "MERELES GONZALEZ, MAXWELL MANUEL",
+    "PIÑOL CONDE, ANDONI",
+    "MONTERO SARMIENTO, MIKEL ALEXANDER",
+    "AXPE GONZALEZ, ENEKO",
+    "LOPEZ MARTINEZ, AMETS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "BARBOSA BILBAO, LIER",
+      "sale": "IBAÑEZ PEREZ, ANDER"
+    },
+    {
+      "min": 54,
+      "entra": "CORDOBA LADINO, EMMANUEL",
+      "sale": "DUBININ KOUKOL, DANIEL DAMIAN"
+    },
+    {
+      "min": 61,
+      "entra": "PALOMO GOMILA, ENDIKA",
+      "sale": "EGUIÑO ARRIETA, UNAI"
+    },
+    {
+      "min": 61,
+      "entra": "SASTRE LARRABE, LUKEN",
+      "sale": "ZUGAZAGA BARCOS, DEI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "PIÑOL CONDE, ANDONI",
+      "sale": "MAQUEDA HERNANDEZ, IZAN"
+    },
+    {
+      "min": 55,
+      "entra": "MONTERO SARMIENTO, MIKEL ALEXANDER",
+      "sale": "ROMILLO LOPEZ, ANDER"
+    },
+    {
+      "min": 58,
+      "entra": "AXPE GONZALEZ, ENEKO",
+      "sale": "MERELES GONZALEZ, MAXWELL MANUEL"
+    },
+    {
+      "min": 62,
+      "entra": "LOPEZ MARTINEZ, AMETS",
+      "sale": "CORMAN LOPEZ, UNAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRÍGUEZ RUIZ, ANER": 90,
+    "ELORRIAGA CARLOS, OIER": 90,
+    "BEITIA ASLA, AXULAR": 90,
+    "ELORDUY ARTECHE, TELMO": 90,
+    "GEZURAGA MARDARAS, INAR": 90,
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON": 90,
+    "DUBININ KOUKOL, DANIEL DAMIAN": 54,
+    "ZUGAZAGA BARCOS, DEI": 61,
+    "EGUIÑO ARRIETA, UNAI": 61,
+    "IBAÑEZ PEREZ, ANDER": 54,
+    "BRYSON CARDIM, CHRISTIAN": 90,
+    "BARBOSA BILBAO, LIER": 36,
+    "CORDOBA LADINO, EMMANUEL": 36,
+    "PALOMO GOMILA, ENDIKA": 29,
+    "SASTRE LARRABE, LUKEN": 29,
+    "MARTIN MARTIN, AIMAR": 90,
+    "MAQUEDA HERNANDEZ, IZAN": 41,
+    "CORMAN LOPEZ, UNAI": 62,
+    "VILLARIAS BRIÑAS, ALEXANDER": 90,
+    "ROMILLO LOPEZ, ANDER": 55,
+    "VAZQUEZ AGUIRRE, KOLDO": 90,
+    "LORENZO OTERO, ERIK": 90,
+    "CAPITAN ORCIANI, ALAIN": 90,
+    "GARCIA ARNAIZ, ENEKO": 90,
+    "HERRERA IGLESIAS, AGER": 90,
+    "MERELES GONZALEZ, MAXWELL MANUEL": 58,
+    "PIÑOL CONDE, ANDONI": 49,
+    "MONTERO SARMIENTO, MIKEL ALEXANDER": 35,
+    "AXPE GONZALEZ, ENEKO": 32,
+    "LOPEZ MARTINEZ, AMETS": 28
+  },
+  "portero_local": "RODRÍGUEZ RUIZ, ANER",
+  "portero_visitante": "MARTIN MARTIN, AIMAR",
+  "dorsales_local": {
+    "RODRÍGUEZ RUIZ, ANER": 1,
+    "ELORRIAGA CARLOS, OIER": 4,
+    "BEITIA ASLA, AXULAR": 7,
+    "ELORDUY ARTECHE, TELMO": 10,
+    "GEZURAGA MARDARAS, INAR": 11,
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON": 12,
+    "DUBININ KOUKOL, DANIEL DAMIAN": 17,
+    "ZUGAZAGA BARCOS, DEI": 20,
+    "EGUIÑO ARRIETA, UNAI": 21,
+    "IBAÑEZ PEREZ, ANDER": 22,
+    "BRYSON CARDIM, CHRISTIAN": 25
+  },
+  "dorsales_visitante": {
+    "MARTIN MARTIN, AIMAR": 13,
+    "MAQUEDA HERNANDEZ, IZAN": 10,
+    "CORMAN LOPEZ, UNAI": 11,
+    "VILLARIAS BRIÑAS, ALEXANDER": 12,
+    "ROMILLO LOPEZ, ANDER": 14,
+    "VAZQUEZ AGUIRRE, KOLDO": 16,
+    "LORENZO OTERO, ERIK": 17,
+    "CAPITAN ORCIANI, ALAIN": 18,
+    "GARCIA ARNAIZ, ENEKO": 19,
+    "HERRERA IGLESIAS, AGER": 23,
+    "MERELES GONZALEZ, MAXWELL MANUEL": 24
+  },
+  "suspendidos": []
+}
