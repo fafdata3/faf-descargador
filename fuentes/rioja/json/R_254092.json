@@ -23,7 +23,8 @@
       "minuto": 62,
       "jugador": "ORIO SANTAOLALLA, CLAUDIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -31,13 +32,6 @@
       "minuto": 6,
       "jugador": "AKA FERNANDEZ, ARIANE",
       "equipo": "local",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 6,
-      "jugador": "OYONESA",
-      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     }
@@ -230,6 +224,5 @@
     "ROMERO AZPILLAGA, SARA": 17,
     "SAEZ PELLEJERO, CARLA": 27
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
