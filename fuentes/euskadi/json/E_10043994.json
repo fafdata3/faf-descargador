@@ -1,0 +1,268 @@
+{
+  "acta_id": "E_10043994",
+  "filename": "Acta_E_10043994.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "15:30",
+  "categoria": "LIGA VASCA JUVENIL / GAZTEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "LAGUN ONAK C.D.",
+  "equipo_visitante": "REAL UNION CLUB SAD",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "ANDRES ARRILLAGA, JON"
+  ],
+  "estadio": "GARMENDIPE-ANEXO",
+  "ciudad": "Azpeitia",
+  "goleadores": [
+    {
+      "minuto": 54,
+      "jugador": "AGUIRRE UNANUE, IÑAKI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "IPARRAGIRRE ZUGASTI, ARATZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "URANGA DAGUER, ANER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "BEREAU IRIGOYEN, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "URRESTILLA GARATE, ARATZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "CARRION DE LA TORRE, ALVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "IBARLUZEA OLAIZOLA, JULEN",
+  "entrenador_visitante": "ECHEVESTE, CAMILLE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "OLLO LARRARTE, BEÑAT",
+  "delegado_campo_local": "OLABE IBARLUCEA, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "OLABE IBARLUCEA, IKER",
+  "delegado_equipo_visitante": "RIVERA CHAVES, ANTONIO",
+  "titulares_local": [
+    "GOGORZA JUARISTI, OIHAN",
+    "IRURETA ZURIARRAIN, LIER",
+    "ALBERDI LERCHUNDI, UNAX",
+    "CABUE CARRASCO, XABIER",
+    "URBIETA ECHANIZ, ZEIAN",
+    "LIZARBURU ITURZAETA, ANDER",
+    "ALDALUR ETXEBERRIA, OIER",
+    "URANGA ZUBIZARRETA, JAKES",
+    "IPARRAGIRRE ZUGASTI, ARATZ",
+    "EPELDE BERASTEGUI, JANITZ",
+    "AGUIRRE UNANUE, IÑAKI"
+  ],
+  "titulares_visitante": [
+    "GOMEZ GONZALEZ, MARKEL",
+    "RUSANOVSCHI, NICHITA",
+    "URTIZBEREA RICO, IÑIGO",
+    "CARRION DE LA TORRE, ALVARO",
+    "BEREAU IRIGOYEN, UNAX",
+    "URANGA DAGUER, ANER",
+    "AQUERRETA JIMENEZ, UNAI",
+    "MAÑERU RIBERA, ENDIKA",
+    "ZULATEGUI OSES, JUAN",
+    "TOBAR PINO, IKER",
+    "VILLAMEA IZAGUIRRE, XAN"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ GURRUCHAGA, IKER",
+    "ULAZIA ARAMENDI, ENEKO",
+    "URRESTILLA GARATE, ARATZ",
+    "URRESTILLA SOROZABAL, IKER",
+    "ARANBARRI ETXEBERRIA, XABAT"
+  ],
+  "suplentes_visitante": [
+    "MIRANDA OLAZABAL, MIKEL",
+    "OÑATIVIA PIRACES, EKAIN",
+    "MEJIAS TELLECHEA, LUCAS",
+    "MONGO, NOE ROLF",
+    "EL BOUZAIDI BELLIL, YASSIR",
+    "NKUETCHE TAKAM, LARSON SERRANO"
+  ],
+  "convocados_sin_jugar_local": [
+    "RODRIGUEZ GURRUCHAGA, IKER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MIRANDA OLAZABAL, MIKEL"
+  ],
+  "jugadores_local": [
+    "GOGORZA JUARISTI, OIHAN",
+    "IRURETA ZURIARRAIN, LIER",
+    "ALBERDI LERCHUNDI, UNAX",
+    "CABUE CARRASCO, XABIER",
+    "URBIETA ECHANIZ, ZEIAN",
+    "LIZARBURU ITURZAETA, ANDER",
+    "ALDALUR ETXEBERRIA, OIER",
+    "URANGA ZUBIZARRETA, JAKES",
+    "IPARRAGIRRE ZUGASTI, ARATZ",
+    "EPELDE BERASTEGUI, JANITZ",
+    "AGUIRRE UNANUE, IÑAKI",
+    "URRESTILLA SOROZABAL, IKER",
+    "URRESTILLA GARATE, ARATZ",
+    "ARANBARRI ETXEBERRIA, XABAT",
+    "ULAZIA ARAMENDI, ENEKO"
+  ],
+  "jugadores_visitante": [
+    "GOMEZ GONZALEZ, MARKEL",
+    "RUSANOVSCHI, NICHITA",
+    "URTIZBEREA RICO, IÑIGO",
+    "CARRION DE LA TORRE, ALVARO",
+    "BEREAU IRIGOYEN, UNAX",
+    "URANGA DAGUER, ANER",
+    "AQUERRETA JIMENEZ, UNAI",
+    "MAÑERU RIBERA, ENDIKA",
+    "ZULATEGUI OSES, JUAN",
+    "TOBAR PINO, IKER",
+    "VILLAMEA IZAGUIRRE, XAN",
+    "OÑATIVIA PIRACES, EKAIN",
+    "MONGO, NOE ROLF",
+    "MEJIAS TELLECHEA, LUCAS",
+    "EL BOUZAIDI BELLIL, YASSIR",
+    "NKUETCHE TAKAM, LARSON SERRANO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 65,
+      "entra": "URRESTILLA SOROZABAL, IKER",
+      "sale": "EPELDE BERASTEGUI, JANITZ"
+    },
+    {
+      "min": 65,
+      "entra": "URRESTILLA GARATE, ARATZ",
+      "sale": "IPARRAGIRRE ZUGASTI, ARATZ"
+    },
+    {
+      "min": 77,
+      "entra": "ARANBARRI ETXEBERRIA, XABAT",
+      "sale": "AGUIRRE UNANUE, IÑAKI"
+    },
+    {
+      "min": 87,
+      "entra": "ULAZIA ARAMENDI, ENEKO",
+      "sale": "IRURETA ZURIARRAIN, LIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 57,
+      "entra": "OÑATIVIA PIRACES, EKAIN",
+      "sale": "ZULATEGUI OSES, JUAN"
+    },
+    {
+      "min": 57,
+      "entra": "MONGO, NOE ROLF",
+      "sale": "RUSANOVSCHI, NICHITA"
+    },
+    {
+      "min": 62,
+      "entra": "MEJIAS TELLECHEA, LUCAS",
+      "sale": "MAÑERU RIBERA, ENDIKA"
+    },
+    {
+      "min": 72,
+      "entra": "EL BOUZAIDI BELLIL, YASSIR",
+      "sale": "CARRION DE LA TORRE, ALVARO"
+    },
+    {
+      "min": 72,
+      "entra": "NKUETCHE TAKAM, LARSON SERRANO",
+      "sale": "AQUERRETA JIMENEZ, UNAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOGORZA JUARISTI, OIHAN": 90,
+    "IRURETA ZURIARRAIN, LIER": 87,
+    "ALBERDI LERCHUNDI, UNAX": 90,
+    "CABUE CARRASCO, XABIER": 90,
+    "URBIETA ECHANIZ, ZEIAN": 90,
+    "LIZARBURU ITURZAETA, ANDER": 90,
+    "ALDALUR ETXEBERRIA, OIER": 90,
+    "URANGA ZUBIZARRETA, JAKES": 90,
+    "IPARRAGIRRE ZUGASTI, ARATZ": 65,
+    "EPELDE BERASTEGUI, JANITZ": 65,
+    "AGUIRRE UNANUE, IÑAKI": 77,
+    "URRESTILLA SOROZABAL, IKER": 25,
+    "URRESTILLA GARATE, ARATZ": 25,
+    "ARANBARRI ETXEBERRIA, XABAT": 13,
+    "ULAZIA ARAMENDI, ENEKO": 3,
+    "GOMEZ GONZALEZ, MARKEL": 90,
+    "RUSANOVSCHI, NICHITA": 57,
+    "URTIZBEREA RICO, IÑIGO": 90,
+    "CARRION DE LA TORRE, ALVARO": 72,
+    "BEREAU IRIGOYEN, UNAX": 90,
+    "URANGA DAGUER, ANER": 90,
+    "AQUERRETA JIMENEZ, UNAI": 72,
+    "MAÑERU RIBERA, ENDIKA": 62,
+    "ZULATEGUI OSES, JUAN": 57,
+    "TOBAR PINO, IKER": 90,
+    "VILLAMEA IZAGUIRRE, XAN": 90,
+    "OÑATIVIA PIRACES, EKAIN": 33,
+    "MONGO, NOE ROLF": 33,
+    "MEJIAS TELLECHEA, LUCAS": 28,
+    "EL BOUZAIDI BELLIL, YASSIR": 18,
+    "NKUETCHE TAKAM, LARSON SERRANO": 18
+  },
+  "portero_local": "GOGORZA JUARISTI, OIHAN",
+  "portero_visitante": "GOMEZ GONZALEZ, MARKEL",
+  "dorsales_local": {
+    "GOGORZA JUARISTI, OIHAN": 1,
+    "IRURETA ZURIARRAIN, LIER": 2,
+    "ALBERDI LERCHUNDI, UNAX": 3,
+    "CABUE CARRASCO, XABIER": 4,
+    "URBIETA ECHANIZ, ZEIAN": 5,
+    "LIZARBURU ITURZAETA, ANDER": 6,
+    "ALDALUR ETXEBERRIA, OIER": 7,
+    "URANGA ZUBIZARRETA, JAKES": 8,
+    "IPARRAGIRRE ZUGASTI, ARATZ": 9,
+    "EPELDE BERASTEGUI, JANITZ": 10,
+    "AGUIRRE UNANUE, IÑAKI": 11
+  },
+  "dorsales_visitante": {
+    "GOMEZ GONZALEZ, MARKEL": 1,
+    "RUSANOVSCHI, NICHITA": 5,
+    "URTIZBEREA RICO, IÑIGO": 6,
+    "CARRION DE LA TORRE, ALVARO": 7,
+    "BEREAU IRIGOYEN, UNAX": 9,
+    "URANGA DAGUER, ANER": 10,
+    "AQUERRETA JIMENEZ, UNAI": 14,
+    "MAÑERU RIBERA, ENDIKA": 15,
+    "ZULATEGUI OSES, JUAN": 18,
+    "TOBAR PINO, IKER": 23,
+    "VILLAMEA IZAGUIRRE, XAN": 24
+  },
+  "suspendidos": []
+}
