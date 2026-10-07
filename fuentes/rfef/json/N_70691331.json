@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO B)",
   "equipo_local": "POZOALBENSE FEMENINO C.D. B",
   "equipo_visitante": "C.D. SIERRA DE POZO ALCON",
-  "goles_local": 1,
-  "goles_visitante": 5,
+  "goles_local": 2,
+  "goles_visitante": 6,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -29,49 +29,57 @@
       "minuto": 3,
       "jugador": "RUIZ VILLEN, LUCIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 15,
       "jugador": "DIAZ PEREZ, CLAUDIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 16,
       "jugador": "PEREZ SANCHEZ, MIREYA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "SANCHEZ AGUAYO, SHEILA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 21,
       "jugador": "RUBIO RODRÍGUEZ, MIRIAM",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 25,
       "jugador": "DIAZ PEREZ, CLAUDIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 27,
       "jugador": "DIAZ NOGUERO, MIRIAM",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "PEREZ SANCHEZ, MIREYA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -304,5 +312,6 @@
   "suspendidos": [
     "POZOALBENSE FEMENINO C.D. \"B\":",
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
