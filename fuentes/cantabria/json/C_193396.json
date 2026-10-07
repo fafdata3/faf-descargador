@@ -1,0 +1,271 @@
+{
+  "acta_id": "C_193396",
+  "filename": "Acta_C_193396.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 8,
+  "fecha": "09-11-2024",
+  "hora": "12:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. MONTE A",
+  "equipo_visitante": "C.AT. PERINES A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CORREA DÍEZ, JAVIER"
+  ],
+  "estadio": "Monte 1",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 34,
+      "jugador": "GARCIA RUIZ, HERNAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "BESOY MOYA, FERNANDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "IRASTORZA BARQUINERO, NECO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "CRESPO DIEGO, RAUL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 61,
+      "jugador": "RUIZ ALONSO, GONZALO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "HERNANDEZ MARTINEZ, UNAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LEGARRETA YURRITA, DIEGO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "FERNANDEZ GARCIA, VICTOR ALBERTO",
+  "titulares_local": [
+    "PUMAREJO SANCHEZ, ALVARO",
+    "RUIZ JUAREZ, LEANDRO",
+    "CASADO LANZA, ALVARO",
+    "ANDRONIC, DANIEL",
+    "RUIZ ALONSO, GONZALO",
+    "BLANCO LANZA, ALVARO",
+    "PEREIRA DOSAL, CRISTIAN",
+    "DOMINGUEZ LOZANO, ADRIAN",
+    "BARROSO BARQUÍN, HUGO",
+    "CABEZAS REMIRO, MAURO",
+    "SALVADOR MIERA, HUGO"
+  ],
+  "titulares_visitante": [
+    "ARENAL DIESTRO, LUCA",
+    "LOPEZ HERNANDEZ, MARCO",
+    "ABERASTURI COZAR, NICOLAS",
+    "MARTINEZ ABASCAL, SAMUEL",
+    "IRASTORZA BARQUINERO, NECO",
+    "MUÑOZ MUÑOZ, TOMAS",
+    "HERNANDEZ MARTINEZ, UNAI",
+    "GARCIA RUIZ, HERNAN",
+    "CRESPO DIEGO, RAUL",
+    "CATAÑO ARANGO, YULIAN ALEXANDER",
+    "GONZALEZ ESTEBANEZ, ALVARO"
+  ],
+  "suplentes_local": [
+    "GARCIA RODRIGUEZ, LEO",
+    "PEREZ DE DIEGO, MARTIN",
+    "GOMEZ ALONSO, NICOLAS",
+    "BESOY MOYA, FERNANDO",
+    "BAIZÁN YAHARI, MARIO"
+  ],
+  "suplentes_visitante": [
+    "GUTIÉRREZ SALCEDA, DIEGO",
+    "MANRIQUE AZPEITIA, LOGAN",
+    "CAVADA MARTIN, IZAN",
+    "VILLAMOR FALCONES, SAMUEL",
+    "SANTIAGO GANDARILLAS, YAEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PUMAREJO SANCHEZ, ALVARO",
+    "RUIZ JUAREZ, LEANDRO",
+    "CASADO LANZA, ALVARO",
+    "ANDRONIC, DANIEL",
+    "RUIZ ALONSO, GONZALO",
+    "BLANCO LANZA, ALVARO",
+    "PEREIRA DOSAL, CRISTIAN",
+    "DOMINGUEZ LOZANO, ADRIAN",
+    "BARROSO BARQUÍN, HUGO",
+    "CABEZAS REMIRO, MAURO",
+    "SALVADOR MIERA, HUGO",
+    "GARCIA RODRIGUEZ, LEO",
+    "BESOY MOYA, FERNANDO",
+    "BAIZÁN YAHARI, MARIO",
+    "GOMEZ ALONSO, NICOLAS",
+    "PEREZ DE DIEGO, MARTIN"
+  ],
+  "jugadores_visitante": [
+    "ARENAL DIESTRO, LUCA",
+    "LOPEZ HERNANDEZ, MARCO",
+    "ABERASTURI COZAR, NICOLAS",
+    "MARTINEZ ABASCAL, SAMUEL",
+    "IRASTORZA BARQUINERO, NECO",
+    "MUÑOZ MUÑOZ, TOMAS",
+    "HERNANDEZ MARTINEZ, UNAI",
+    "GARCIA RUIZ, HERNAN",
+    "CRESPO DIEGO, RAUL",
+    "CATAÑO ARANGO, YULIAN ALEXANDER",
+    "GONZALEZ ESTEBANEZ, ALVARO",
+    "VILLAMOR FALCONES, SAMUEL",
+    "CAVADA MARTIN, IZAN",
+    "MANRIQUE AZPEITIA, LOGAN",
+    "GUTIÉRREZ SALCEDA, DIEGO",
+    "SANTIAGO GANDARILLAS, YAEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "GARCIA RODRIGUEZ, LEO",
+      "sale": "PUMAREJO SANCHEZ, ALVARO"
+    },
+    {
+      "min": 46,
+      "entra": "BESOY MOYA, FERNANDO",
+      "sale": "CABEZAS REMIRO, MAURO"
+    },
+    {
+      "min": 46,
+      "entra": "BAIZÁN YAHARI, MARIO",
+      "sale": "DOMINGUEZ LOZANO, ADRIAN"
+    },
+    {
+      "min": 46,
+      "entra": "GOMEZ ALONSO, NICOLAS",
+      "sale": "PEREIRA DOSAL, CRISTIAN"
+    },
+    {
+      "min": 46,
+      "entra": "PEREZ DE DIEGO, MARTIN",
+      "sale": "ANDRONIC, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "VILLAMOR FALCONES, SAMUEL",
+      "sale": "GARCIA RUIZ, HERNAN"
+    },
+    {
+      "min": 35,
+      "entra": "CAVADA MARTIN, IZAN",
+      "sale": "LOPEZ HERNANDEZ, MARCO"
+    },
+    {
+      "min": 41,
+      "entra": "MANRIQUE AZPEITIA, LOGAN",
+      "sale": "ABERASTURI COZAR, NICOLAS"
+    },
+    {
+      "min": 46,
+      "entra": "GUTIÉRREZ SALCEDA, DIEGO",
+      "sale": "CATAÑO ARANGO, YULIAN ALEXANDER"
+    },
+    {
+      "min": 46,
+      "entra": "SANTIAGO GANDARILLAS, YAEL",
+      "sale": "GONZALEZ ESTEBANEZ, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PUMAREJO SANCHEZ, ALVARO": 35,
+    "RUIZ JUAREZ, LEANDRO": 90,
+    "CASADO LANZA, ALVARO": 90,
+    "ANDRONIC, DANIEL": 46,
+    "RUIZ ALONSO, GONZALO": 90,
+    "BLANCO LANZA, ALVARO": 90,
+    "PEREIRA DOSAL, CRISTIAN": 46,
+    "DOMINGUEZ LOZANO, ADRIAN": 46,
+    "BARROSO BARQUÍN, HUGO": 90,
+    "CABEZAS REMIRO, MAURO": 46,
+    "SALVADOR MIERA, HUGO": 90,
+    "GARCIA RODRIGUEZ, LEO": 55,
+    "BESOY MOYA, FERNANDO": 44,
+    "BAIZÁN YAHARI, MARIO": 44,
+    "GOMEZ ALONSO, NICOLAS": 44,
+    "PEREZ DE DIEGO, MARTIN": 44,
+    "ARENAL DIESTRO, LUCA": 90,
+    "LOPEZ HERNANDEZ, MARCO": 35,
+    "ABERASTURI COZAR, NICOLAS": 41,
+    "MARTINEZ ABASCAL, SAMUEL": 90,
+    "IRASTORZA BARQUINERO, NECO": 90,
+    "MUÑOZ MUÑOZ, TOMAS": 90,
+    "HERNANDEZ MARTINEZ, UNAI": 90,
+    "GARCIA RUIZ, HERNAN": 35,
+    "CRESPO DIEGO, RAUL": 90,
+    "CATAÑO ARANGO, YULIAN ALEXANDER": 46,
+    "GONZALEZ ESTEBANEZ, ALVARO": 46,
+    "VILLAMOR FALCONES, SAMUEL": 55,
+    "CAVADA MARTIN, IZAN": 55,
+    "MANRIQUE AZPEITIA, LOGAN": 49,
+    "GUTIÉRREZ SALCEDA, DIEGO": 44,
+    "SANTIAGO GANDARILLAS, YAEL": 44
+  },
+  "portero_local": "PUMAREJO SANCHEZ, ALVARO",
+  "portero_visitante": "ARENAL DIESTRO, LUCA",
+  "dorsales_local": {
+    "PUMAREJO SANCHEZ, ALVARO": 1,
+    "RUIZ JUAREZ, LEANDRO": 3,
+    "CASADO LANZA, ALVARO": 4,
+    "ANDRONIC, DANIEL": 5,
+    "RUIZ ALONSO, GONZALO": 6,
+    "BLANCO LANZA, ALVARO": 10,
+    "PEREIRA DOSAL, CRISTIAN": 11,
+    "DOMINGUEZ LOZANO, ADRIAN": 12,
+    "BARROSO BARQUÍN, HUGO": 16,
+    "CABEZAS REMIRO, MAURO": 21,
+    "SALVADOR MIERA, HUGO": 22
+  },
+  "dorsales_visitante": {
+    "ARENAL DIESTRO, LUCA": 13,
+    "LOPEZ HERNANDEZ, MARCO": 2,
+    "ABERASTURI COZAR, NICOLAS": 3,
+    "MARTINEZ ABASCAL, SAMUEL": 4,
+    "IRASTORZA BARQUINERO, NECO": 5,
+    "MUÑOZ MUÑOZ, TOMAS": 6,
+    "HERNANDEZ MARTINEZ, UNAI": 7,
+    "GARCIA RUIZ, HERNAN": 8,
+    "CRESPO DIEGO, RAUL": 9,
+    "CATAÑO ARANGO, YULIAN ALEXANDER": 10,
+    "GONZALEZ ESTEBANEZ, ALVARO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
