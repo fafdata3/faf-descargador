@@ -1,0 +1,250 @@
+{
+  "acta_id": "C_193195",
+  "filename": "Acta_C_193195.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 19,
+  "fecha": "25-01-2025",
+  "hora": "10:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA B",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "REZKI FATINE, MOHAME AMINE"
+  ],
+  "estadio": "Tanos 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "SARABIA PARDO, ASIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "HOYUELA COBO, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "MARTÍNEZ MADRAZO, ANDREA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "POSTIGO MIGUEL, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 50,
+      "jugador": "HOYUELA COBO, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "FERNANDEZ ARANCHETA, IZAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "ARRATE ORTIZ, JUAN MARIA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "AGUILERA AGUILERA, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JIMENO DIEZ, UNAI",
+  "entrenador_visitante": "CAGIGAS TABARES, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "BADIOLA HONTALVILLA, OMAR",
+  "titulares_local": [
+    "ARROYO FERNANDEZ, PABLO",
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "ZAMANILLO ARGUELLO, PABLO",
+    "GALLO VERGARA, PABLO",
+    "DEL VALLE COBO, DANIEL",
+    "BLANCO OTERO, JANO",
+    "BORREGA BALZA, ISAAC",
+    "MALLAVIA MUGICA, MIKEL",
+    "RUIZ TOCA, MARIO",
+    "HOYUELA COBO, HUGO",
+    "SANCHEZ CUEVAS, SAUL"
+  ],
+  "titulares_visitante": [
+    "PELLON FUENTES, NICOLAS",
+    "FERNANDEZ ARANCHETA, IZAN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "SARABIA PARDO, ASIER",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "AGUILERA AGUILERA, DIEGO",
+    "LOPEZ DURAN, FABIO",
+    "COBO HERVELLA, GONZALO",
+    "FELICES VIVANCO, MARCO",
+    "POSTIGO MIGUEL, ALVARO"
+  ],
+  "suplentes_local": [
+    "PINEDA DIAZ, JORGE",
+    "MONTES DE NEIRA BALBOA, LUIS",
+    "GUTIERREZ REVUELTA, NECO",
+    "BOLADO GOMEZ, LUCAS"
+  ],
+  "suplentes_visitante": [
+    "HAZAS SANTOS, DENNIS",
+    "RUEDA FONFRIA, DANIEL",
+    "MAZA SILVAN, AITOR"
+  ],
+  "convocados_sin_jugar_local": [
+    "PINEDA DIAZ, JORGE",
+    "MONTES DE NEIRA BALBOA, LUIS"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARROYO FERNANDEZ, PABLO",
+    "MENDEZ RODRIGUEZ, JOSE RAMON",
+    "ZAMANILLO ARGUELLO, PABLO",
+    "GALLO VERGARA, PABLO",
+    "DEL VALLE COBO, DANIEL",
+    "BLANCO OTERO, JANO",
+    "BORREGA BALZA, ISAAC",
+    "MALLAVIA MUGICA, MIKEL",
+    "RUIZ TOCA, MARIO",
+    "HOYUELA COBO, HUGO",
+    "SANCHEZ CUEVAS, SAUL",
+    "GUTIERREZ REVUELTA, NECO",
+    "BOLADO GOMEZ, LUCAS"
+  ],
+  "jugadores_visitante": [
+    "PELLON FUENTES, NICOLAS",
+    "FERNANDEZ ARANCHETA, IZAN",
+    "SARABIA CAVIEDES, JANO ISIDRO",
+    "SARABIA PARDO, ASIER",
+    "MARTÍNEZ MADRAZO, ANDREA",
+    "ARRATE ORTIZ, JUAN MARIA",
+    "AGUILERA AGUILERA, DIEGO",
+    "LOPEZ DURAN, FABIO",
+    "COBO HERVELLA, GONZALO",
+    "FELICES VIVANCO, MARCO",
+    "POSTIGO MIGUEL, ALVARO",
+    "RUEDA FONFRIA, DANIEL",
+    "HAZAS SANTOS, DENNIS",
+    "MAZA SILVAN, AITOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GUTIERREZ REVUELTA, NECO",
+      "sale": "SANCHEZ CUEVAS, SAUL"
+    },
+    {
+      "min": 42,
+      "entra": "BOLADO GOMEZ, LUCAS",
+      "sale": "MALLAVIA MUGICA, MIKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 64,
+      "entra": "RUEDA FONFRIA, DANIEL",
+      "sale": "FERNANDEZ ARANCHETA, IZAN"
+    },
+    {
+      "min": 70,
+      "entra": "HAZAS SANTOS, DENNIS",
+      "sale": "COBO HERVELLA, GONZALO"
+    },
+    {
+      "min": 73,
+      "entra": "MAZA SILVAN, AITOR",
+      "sale": "ARRATE ORTIZ, JUAN MARIA"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARROYO FERNANDEZ, PABLO": 90,
+    "MENDEZ RODRIGUEZ, JOSE RAMON": 90,
+    "ZAMANILLO ARGUELLO, PABLO": 90,
+    "GALLO VERGARA, PABLO": 90,
+    "DEL VALLE COBO, DANIEL": 90,
+    "BLANCO OTERO, JANO": 90,
+    "BORREGA BALZA, ISAAC": 90,
+    "MALLAVIA MUGICA, MIKEL": 42,
+    "RUIZ TOCA, MARIO": 90,
+    "HOYUELA COBO, HUGO": 90,
+    "SANCHEZ CUEVAS, SAUL": 40,
+    "GUTIERREZ REVUELTA, NECO": 50,
+    "BOLADO GOMEZ, LUCAS": 48,
+    "PELLON FUENTES, NICOLAS": 90,
+    "FERNANDEZ ARANCHETA, IZAN": 64,
+    "SARABIA CAVIEDES, JANO ISIDRO": 90,
+    "SARABIA PARDO, ASIER": 90,
+    "MARTÍNEZ MADRAZO, ANDREA": 90,
+    "ARRATE ORTIZ, JUAN MARIA": 73,
+    "AGUILERA AGUILERA, DIEGO": 90,
+    "LOPEZ DURAN, FABIO": 90,
+    "COBO HERVELLA, GONZALO": 70,
+    "FELICES VIVANCO, MARCO": 90,
+    "POSTIGO MIGUEL, ALVARO": 90,
+    "RUEDA FONFRIA, DANIEL": 26,
+    "HAZAS SANTOS, DENNIS": 20,
+    "MAZA SILVAN, AITOR": 17
+  },
+  "portero_local": "ARROYO FERNANDEZ, PABLO",
+  "portero_visitante": "PELLON FUENTES, NICOLAS",
+  "dorsales_local": {
+    "ARROYO FERNANDEZ, PABLO": 1,
+    "MENDEZ RODRIGUEZ, JOSE RAMON": 2,
+    "ZAMANILLO ARGUELLO, PABLO": 3,
+    "GALLO VERGARA, PABLO": 5,
+    "DEL VALLE COBO, DANIEL": 7,
+    "BLANCO OTERO, JANO": 10,
+    "BORREGA BALZA, ISAAC": 11,
+    "MALLAVIA MUGICA, MIKEL": 12,
+    "RUIZ TOCA, MARIO": 16,
+    "HOYUELA COBO, HUGO": 17,
+    "SANCHEZ CUEVAS, SAUL": 30
+  },
+  "dorsales_visitante": {
+    "PELLON FUENTES, NICOLAS": 13,
+    "FERNANDEZ ARANCHETA, IZAN": 4,
+    "SARABIA CAVIEDES, JANO ISIDRO": 5,
+    "SARABIA PARDO, ASIER": 7,
+    "MARTÍNEZ MADRAZO, ANDREA": 9,
+    "ARRATE ORTIZ, JUAN MARIA": 10,
+    "AGUILERA AGUILERA, DIEGO": 11,
+    "LOPEZ DURAN, FABIO": 12,
+    "COBO HERVELLA, GONZALO": 14,
+    "FELICES VIVANCO, MARCO": 15,
+    "POSTIGO MIGUEL, ALVARO": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
