@@ -9,8 +9,8 @@
   "categoria": "PlayOff de Ascenso a Segunda División de Fútbol Sala (2ª eliminatoria)",
   "equipo_local": "GRUPO LÓPEZ BOLAÑOS F.S. A",
   "equipo_visitante": "EXLABESA LEIS PONTEVEDRA F.S.",
-  "goles_local": 2,
-  "goles_visitante": 5,
+  "goles_local": 1,
+  "goles_visitante": 4,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -27,43 +27,50 @@
       "minuto": 9,
       "jugador": "VAZQUEZ SANCHEZ, FEDERICO",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 15,
       "jugador": "MÍGUEZ MARTÍNEZ, YERAY",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 25,
       "jugador": "PICON FERNANDEZ, ROMAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "AICARDO COLLANTES, JESÚS DE NAZARET",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "LAHMIDI, SAID",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 38,
       "jugador": "ALVAREZ GARCÍA, DANIEL",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "LAHMIDI, SAID",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -108,7 +115,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": "SONEIRA RODRIGUEZ, EMILIO MANUEL",
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "SALGUERO SANCHEZ, PEDRO",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "IGLESIAS NIETO, DANIEL",
   "titulares_local": [
@@ -213,6 +220,5 @@
   },
   "suspendidos": [
     "GUERRA CORREA, ALVARO"
-  ],
-  "_marcador_widget": true
+  ]
 }
