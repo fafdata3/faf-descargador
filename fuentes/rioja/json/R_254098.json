@@ -23,13 +23,15 @@
       "minuto": 21,
       "jugador": "PEREZ GONZALEZ, CASILDA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 25,
       "jugador": "ORIO SANTAOLALLA, CLAUDIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -203,5 +205,6 @@
     "STEFANINI BLANCO, SOFIA": 20,
     "MALDONADO MARTIN, NAHIA": 21
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
