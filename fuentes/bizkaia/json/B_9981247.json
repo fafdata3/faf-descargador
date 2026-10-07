@@ -1,0 +1,276 @@
+{
+  "acta_id": "B_9981247",
+  "filename": "Acta_B_9981247.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 10,
+  "fecha": "07-12-2025",
+  "hora": "09:30",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "LEIOA C",
+  "equipo_visitante": "ASTI-LEKU A",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BENITO-BUTRON GONZALEZ, IKER"
+  ],
+  "estadio": "SARRIENA 3",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "BOMBIN LLANOS, AINGERU",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "FERNANDEZ LERMA, JULEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "GONZALO SAMPELAYO, ENEKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "DELVAL GONZALEZ, IÑIGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "FERNANDEZ LERMA, JULEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "GALACHE DIEZ, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "ABAD MEDIAVILLA, LIHER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MORAL ARES, GORKA",
+  "entrenador_visitante": "MERINO CURIEL, MIGUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BARRENECHEA PEREA, ASIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BARRENECHEA PEREA, ASIER",
+  "delegado_equipo_visitante": "IDIAÑEZ BERASTEGUI, EKAIN",
+  "titulares_local": [
+    "GALACHE DIEZ, ANDER",
+    "BARRENECHEA PEREA, JON",
+    "ALONSO FERNANDEZ, MARKEL",
+    "DELVAL GONZALEZ, IÑIGO",
+    "SAN MARTIN INTXAUSTI, ANDER",
+    "LEONARDO ETXEBESTE, JULEN",
+    "GONZALO SAMPELAYO, ENEKO",
+    "PERALLOS URUEÑA, OIER",
+    "CASADO CARMONA, IVÁN",
+    "BOMBIN LLANOS, AINGERU",
+    "ORELLANA YARZA, MARKEL"
+  ],
+  "titulares_visitante": [
+    "BAZ LUQUE, JÖEL",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "MURGA FERNANDEZ, LANDER",
+    "ELEXPURU GOMEZ, GORKA",
+    "QUIROS DEL MOLINO, ENEKO",
+    "FERNANDEZ GONZALEZ, OIER",
+    "CALVO PEÑAFIEL, ASIER",
+    "HERNANDO MIELGO, URKO"
+  ],
+  "suplentes_local": [
+    "JIMÉNEZ IGLESIAS, ANER",
+    "ESPIGA BAÑARES, ADRIAN",
+    "FERNANDEZ LERMA, JULEN",
+    "CASTRILLO MATEO, IBON",
+    "NAÑEZ CAMPO, YEISSON"
+  ],
+  "suplentes_visitante": [
+    "DEL RIO GIL, MARKEL",
+    "PLANS DE DIEGO, LEZO",
+    "ELORZA CORRALES, IÑAKI",
+    "ORRANTIA ORTIZ DE ZARATE, GORKA",
+    "FERNANDEZ CARIDAD, ENEKO",
+    "LORENTE PRADO, ANER"
+  ],
+  "convocados_sin_jugar_local": [
+    "JIMÉNEZ IGLESIAS, ANER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DEL RIO GIL, MARKEL"
+  ],
+  "jugadores_local": [
+    "GALACHE DIEZ, ANDER",
+    "BARRENECHEA PEREA, JON",
+    "ALONSO FERNANDEZ, MARKEL",
+    "DELVAL GONZALEZ, IÑIGO",
+    "SAN MARTIN INTXAUSTI, ANDER",
+    "LEONARDO ETXEBESTE, JULEN",
+    "GONZALO SAMPELAYO, ENEKO",
+    "PERALLOS URUEÑA, OIER",
+    "CASADO CARMONA, IVÁN",
+    "BOMBIN LLANOS, AINGERU",
+    "ORELLANA YARZA, MARKEL",
+    "FERNANDEZ LERMA, JULEN",
+    "NAÑEZ CAMPO, YEISSON",
+    "ESPIGA BAÑARES, ADRIAN",
+    "CASTRILLO MATEO, IBON"
+  ],
+  "jugadores_visitante": [
+    "BAZ LUQUE, JÖEL",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "MURGA FERNANDEZ, LANDER",
+    "ELEXPURU GOMEZ, GORKA",
+    "QUIROS DEL MOLINO, ENEKO",
+    "FERNANDEZ GONZALEZ, OIER",
+    "CALVO PEÑAFIEL, ASIER",
+    "HERNANDO MIELGO, URKO",
+    "FERNANDEZ CARIDAD, ENEKO",
+    "ELORZA CORRALES, IÑAKI",
+    "PLANS DE DIEGO, LEZO",
+    "LORENTE PRADO, ANER",
+    "ORRANTIA ORTIZ DE ZARATE, GORKA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 62,
+      "entra": "FERNANDEZ LERMA, JULEN",
+      "sale": "BOMBIN LLANOS, AINGERU"
+    },
+    {
+      "min": 67,
+      "entra": "NAÑEZ CAMPO, YEISSON",
+      "sale": "ORELLANA YARZA, MARKEL"
+    },
+    {
+      "min": 73,
+      "entra": "ESPIGA BAÑARES, ADRIAN",
+      "sale": "ALONSO FERNANDEZ, MARKEL"
+    },
+    {
+      "min": 73,
+      "entra": "CASTRILLO MATEO, IBON",
+      "sale": "PERALLOS URUEÑA, OIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "FERNANDEZ CARIDAD, ENEKO",
+      "sale": "FORTEA BARABINO, MATEO"
+    },
+    {
+      "min": 55,
+      "entra": "ELORZA CORRALES, IÑAKI",
+      "sale": "FERNANDEZ GONZALEZ, OIER"
+    },
+    {
+      "min": 55,
+      "entra": "PLANS DE DIEGO, LEZO",
+      "sale": "QUIROS DEL MOLINO, ENEKO"
+    },
+    {
+      "min": 62,
+      "entra": "LORENTE PRADO, ANER",
+      "sale": "HERNANDO MIELGO, URKO"
+    },
+    {
+      "min": 73,
+      "entra": "ORRANTIA ORTIZ DE ZARATE, GORKA",
+      "sale": "ALCANTARA IBAÑEZ, BEÑAT"
+    }
+  ],
+  "minutos_jugadores": {
+    "GALACHE DIEZ, ANDER": 90,
+    "BARRENECHEA PEREA, JON": 90,
+    "ALONSO FERNANDEZ, MARKEL": 73,
+    "DELVAL GONZALEZ, IÑIGO": 90,
+    "SAN MARTIN INTXAUSTI, ANDER": 90,
+    "LEONARDO ETXEBESTE, JULEN": 90,
+    "GONZALO SAMPELAYO, ENEKO": 90,
+    "PERALLOS URUEÑA, OIER": 73,
+    "CASADO CARMONA, IVÁN": 90,
+    "BOMBIN LLANOS, AINGERU": 62,
+    "ORELLANA YARZA, MARKEL": 67,
+    "FERNANDEZ LERMA, JULEN": 28,
+    "NAÑEZ CAMPO, YEISSON": 23,
+    "ESPIGA BAÑARES, ADRIAN": 17,
+    "CASTRILLO MATEO, IBON": 17,
+    "BAZ LUQUE, JÖEL": 90,
+    "ALCANTARA IBAÑEZ, BEÑAT": 73,
+    "ABAD MEDIAVILLA, LIHER": 90,
+    "VADILLO CASTRILLEJO, JON": 90,
+    "FORTEA BARABINO, MATEO": 41,
+    "MURGA FERNANDEZ, LANDER": 90,
+    "ELEXPURU GOMEZ, GORKA": 90,
+    "QUIROS DEL MOLINO, ENEKO": 55,
+    "FERNANDEZ GONZALEZ, OIER": 55,
+    "CALVO PEÑAFIEL, ASIER": 90,
+    "HERNANDO MIELGO, URKO": 62,
+    "FERNANDEZ CARIDAD, ENEKO": 49,
+    "ELORZA CORRALES, IÑAKI": 35,
+    "PLANS DE DIEGO, LEZO": 35,
+    "LORENTE PRADO, ANER": 28,
+    "ORRANTIA ORTIZ DE ZARATE, GORKA": 17
+  },
+  "portero_local": "GALACHE DIEZ, ANDER",
+  "portero_visitante": "BAZ LUQUE, JÖEL",
+  "dorsales_local": {
+    "GALACHE DIEZ, ANDER": 1,
+    "BARRENECHEA PEREA, JON": 2,
+    "ALONSO FERNANDEZ, MARKEL": 3,
+    "DELVAL GONZALEZ, IÑIGO": 4,
+    "SAN MARTIN INTXAUSTI, ANDER": 5,
+    "LEONARDO ETXEBESTE, JULEN": 8,
+    "GONZALO SAMPELAYO, ENEKO": 11,
+    "PERALLOS URUEÑA, OIER": 12,
+    "CASADO CARMONA, IVÁN": 14,
+    "BOMBIN LLANOS, AINGERU": 19,
+    "ORELLANA YARZA, MARKEL": 20
+  },
+  "dorsales_visitante": {
+    "BAZ LUQUE, JÖEL": 13,
+    "ALCANTARA IBAÑEZ, BEÑAT": 4,
+    "ABAD MEDIAVILLA, LIHER": 5,
+    "VADILLO CASTRILLEJO, JON": 10,
+    "FORTEA BARABINO, MATEO": 11,
+    "MURGA FERNANDEZ, LANDER": 15,
+    "ELEXPURU GOMEZ, GORKA": 16,
+    "QUIROS DEL MOLINO, ENEKO": 18,
+    "FERNANDEZ GONZALEZ, OIER": 19,
+    "CALVO PEÑAFIEL, ASIER": 22,
+    "HERNANDO MIELGO, URKO": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
