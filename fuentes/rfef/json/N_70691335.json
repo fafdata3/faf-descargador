@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO B)",
   "equipo_local": "CFF BARBATE",
   "equipo_visitante": "GUADALCACIN C.D.",
-  "goles_local": 5,
-  "goles_visitante": 3,
-  "resultado": "W",
+  "goles_local": 6,
+  "goles_visitante": 6,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "POZO FERNÁNDEZ, ANTONIO",
@@ -29,87 +29,99 @@
       "minuto": 1,
       "jugador": "SANCHEZ ORELLANA, MARTA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 1,
       "jugador": "CIFUENTES ROMERO, LAURA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 2,
       "jugador": "EL MONTASER LAMSALLI, OUMAIMA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 16,
       "jugador": "MORENO CANTALEJO, LAYLA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "ROSADO GARCIA, EVA MARIA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "PATENAUDE, RILEY",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "PEREZ CEBALLOS, LUCIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 20,
       "jugador": "ALFEREZ DIEGO, ALBA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 24,
       "jugador": "FRIAS VALLE, MINERVA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "CIFUENTES ROMERO, LAURA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 30,
       "jugador": "SANCHEZ ORELLANA, MARTA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "PEREZ IBAÑEZ, NAYARA DEL ROCIO",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
     {
       "minuto": 22,
-      "jugador": "DE GOMAR ORTEGA, AINHOA",
-      "equipo": "?",
+      "jugador": "ALFEREZ DIEGO, ALBA",
+      "equipo": "local",
       "tipo": "amarilla",
       "destinatario": "jugador"
     },
     {
       "minuto": 22,
-      "jugador": "ALFEREZ DIEGO, ALBA",
-      "equipo": "local",
+      "jugador": "DE GOMAR ORTEGA, AINHOA",
+      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     },
@@ -322,5 +334,6 @@
   "suspendidos": [
     "CFF BARBATE :",
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
