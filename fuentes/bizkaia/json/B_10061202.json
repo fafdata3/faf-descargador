@@ -1,0 +1,281 @@
+{
+  "acta_id": "B_10061202",
+  "filename": "Acta_B_10061202.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "04-10-2026",
+  "hora": "12:55",
+  "categoria": "DIVISIÓN DE HONOR HC / OHOREZKO MAILA (GRUPO 1)",
+  "equipo_local": "GURUTZETA A",
+  "equipo_visitante": "SANTUTXU B",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "RUIZ DOMINGUEZ, MIGUEL ANGEL"
+  ],
+  "estadio": "LA SIEBE",
+  "ciudad": "CRUCES-BARAKALDO",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "DÍAZ GUTIÉRREZ, IBAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "MAZA LANDAJO, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "MEDINA GARRIDO, ALAIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 50,
+      "jugador": "HERNANDO ANGUIANO, HODEI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "MORGADO GÓMEZ, JULEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "MATEO AQUINO, MIKEL ALBERTO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VILLAMOR MORENO, ALEX",
+  "entrenador_visitante": "BAZA ELEJAGA, ANDER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "VILLAESCUSA LESMES, IBAI",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VILLAESCUSA LESMES, IBAI",
+  "delegado_equipo_visitante": "BAZA ELEJAGA, IBAI",
+  "titulares_local": [
+    "PERAL MARIN, XABIER",
+    "ALONSO PRESA, AIMAR",
+    "MARCILLO MARCILLO, DARWIN IKER",
+    "ANTELO FERNANDEZ, ANXO",
+    "HERNANDO ANGUIANO, HODEI",
+    "ORTIZ NEGRO, ANDER",
+    "RUIZ MARCANO, LIER",
+    "GALÁN PÉREZ DE NANCLARES, PAUL",
+    "DÍAZ GUTIÉRREZ, IBAI",
+    "MEDINA GARRIDO, ALAIN",
+    "DIEGUEZ DUQUE, IORITZ"
+  ],
+  "titulares_visitante": [
+    "ORTIZ DE VALLEJUELO CASTRO, AIMAR",
+    "AREJULA VILLAMAÑAN, ELEDER",
+    "JUNQUERA HUERTA, ENEKO",
+    "PÉREZ GÓMEZ, GORKA",
+    "SIMO MANZANOS, LUCAS",
+    "MAZA LANDAJO, ANDER",
+    "NGUEMA MANGUE, JESUS MAURICIO",
+    "DOBARAN HERNANDO, NAIER",
+    "COARASA GRANADO, IKER",
+    "FERNÁNDEZ LIENDO, HUGO",
+    "LARESGOITI GARCIA, GILEN"
+  ],
+  "suplentes_local": [
+    "PEREZ MARTIN, OSCAR",
+    "MATEO AQUINO, MIKEL ALBERTO",
+    "BLANCO PULLEIRO, HARITZ",
+    "FERNANDEZ ARTIGUEZ, AXEL",
+    "GONZALO LOPEZ, NAKOR",
+    "MORGADO GÓMEZ, JULEN",
+    "OMORUYI EHIS, JOEL ETINOSA"
+  ],
+  "suplentes_visitante": [
+    "MIRANDA CANIVE, AITOR",
+    "TEIXEIRA LAMAS, JON",
+    "RODRIGUEZ RUIZ, MARKEL",
+    "JIMÉNEZ RODRIGUEZ, DIEGO",
+    "CASADO LOUREIRO, AIMAR",
+    "MORENO RODRIGUEZ, MARKEL",
+    "GOITIA AZKUENAGA, OIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "PEREZ MARTIN, OSCAR",
+    "OMORUYI EHIS, JOEL ETINOSA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "RODRIGUEZ RUIZ, MARKEL",
+    "JIMÉNEZ RODRIGUEZ, DIEGO"
+  ],
+  "jugadores_local": [
+    "PERAL MARIN, XABIER",
+    "ALONSO PRESA, AIMAR",
+    "MARCILLO MARCILLO, DARWIN IKER",
+    "ANTELO FERNANDEZ, ANXO",
+    "HERNANDO ANGUIANO, HODEI",
+    "ORTIZ NEGRO, ANDER",
+    "RUIZ MARCANO, LIER",
+    "GALÁN PÉREZ DE NANCLARES, PAUL",
+    "DÍAZ GUTIÉRREZ, IBAI",
+    "MEDINA GARRIDO, ALAIN",
+    "DIEGUEZ DUQUE, IORITZ",
+    "BLANCO PULLEIRO, HARITZ",
+    "MORGADO GÓMEZ, JULEN",
+    "MATEO AQUINO, MIKEL ALBERTO",
+    "GONZALO LOPEZ, NAKOR",
+    "FERNANDEZ ARTIGUEZ, AXEL"
+  ],
+  "jugadores_visitante": [
+    "ORTIZ DE VALLEJUELO CASTRO, AIMAR",
+    "AREJULA VILLAMAÑAN, ELEDER",
+    "JUNQUERA HUERTA, ENEKO",
+    "PÉREZ GÓMEZ, GORKA",
+    "SIMO MANZANOS, LUCAS",
+    "MAZA LANDAJO, ANDER",
+    "NGUEMA MANGUE, JESUS MAURICIO",
+    "DOBARAN HERNANDO, NAIER",
+    "COARASA GRANADO, IKER",
+    "FERNÁNDEZ LIENDO, HUGO",
+    "LARESGOITI GARCIA, GILEN",
+    "CASADO LOUREIRO, AIMAR",
+    "MIRANDA CANIVE, AITOR",
+    "TEIXEIRA LAMAS, JON",
+    "GOITIA AZKUENAGA, OIER",
+    "MORENO RODRIGUEZ, MARKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "BLANCO PULLEIRO, HARITZ",
+      "sale": "DIEGUEZ DUQUE, IORITZ"
+    },
+    {
+      "min": 41,
+      "entra": "MORGADO GÓMEZ, JULEN",
+      "sale": "RUIZ MARCANO, LIER"
+    },
+    {
+      "min": 59,
+      "entra": "MATEO AQUINO, MIKEL ALBERTO",
+      "sale": "HERNANDO ANGUIANO, HODEI"
+    },
+    {
+      "min": 72,
+      "entra": "GONZALO LOPEZ, NAKOR",
+      "sale": "DÍAZ GUTIÉRREZ, IBAI"
+    },
+    {
+      "min": 72,
+      "entra": "FERNANDEZ ARTIGUEZ, AXEL",
+      "sale": "ORTIZ NEGRO, ANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "CASADO LOUREIRO, AIMAR",
+      "sale": "DOBARAN HERNANDO, NAIER"
+    },
+    {
+      "min": 53,
+      "entra": "MIRANDA CANIVE, AITOR",
+      "sale": "SIMO MANZANOS, LUCAS"
+    },
+    {
+      "min": 53,
+      "entra": "TEIXEIRA LAMAS, JON",
+      "sale": "LARESGOITI GARCIA, GILEN"
+    },
+    {
+      "min": 65,
+      "entra": "GOITIA AZKUENAGA, OIER",
+      "sale": "JUNQUERA HUERTA, ENEKO"
+    },
+    {
+      "min": 65,
+      "entra": "MORENO RODRIGUEZ, MARKEL",
+      "sale": "COARASA GRANADO, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "PERAL MARIN, XABIER": 90,
+    "ALONSO PRESA, AIMAR": 90,
+    "MARCILLO MARCILLO, DARWIN IKER": 90,
+    "ANTELO FERNANDEZ, ANXO": 90,
+    "HERNANDO ANGUIANO, HODEI": 59,
+    "ORTIZ NEGRO, ANDER": 72,
+    "RUIZ MARCANO, LIER": 41,
+    "GALÁN PÉREZ DE NANCLARES, PAUL": 90,
+    "DÍAZ GUTIÉRREZ, IBAI": 72,
+    "MEDINA GARRIDO, ALAIN": 90,
+    "DIEGUEZ DUQUE, IORITZ": 41,
+    "BLANCO PULLEIRO, HARITZ": 49,
+    "MORGADO GÓMEZ, JULEN": 49,
+    "MATEO AQUINO, MIKEL ALBERTO": 31,
+    "GONZALO LOPEZ, NAKOR": 18,
+    "FERNANDEZ ARTIGUEZ, AXEL": 18,
+    "ORTIZ DE VALLEJUELO CASTRO, AIMAR": 90,
+    "AREJULA VILLAMAÑAN, ELEDER": 90,
+    "JUNQUERA HUERTA, ENEKO": 65,
+    "PÉREZ GÓMEZ, GORKA": 90,
+    "SIMO MANZANOS, LUCAS": 53,
+    "MAZA LANDAJO, ANDER": 90,
+    "NGUEMA MANGUE, JESUS MAURICIO": 90,
+    "DOBARAN HERNANDO, NAIER": 53,
+    "COARASA GRANADO, IKER": 65,
+    "FERNÁNDEZ LIENDO, HUGO": 90,
+    "LARESGOITI GARCIA, GILEN": 53,
+    "CASADO LOUREIRO, AIMAR": 37,
+    "MIRANDA CANIVE, AITOR": 37,
+    "TEIXEIRA LAMAS, JON": 37,
+    "GOITIA AZKUENAGA, OIER": 25,
+    "MORENO RODRIGUEZ, MARKEL": 25
+  },
+  "portero_local": "PERAL MARIN, XABIER",
+  "portero_visitante": "ORTIZ DE VALLEJUELO CASTRO, AIMAR",
+  "dorsales_local": {
+    "PERAL MARIN, XABIER": 13,
+    "ALONSO PRESA, AIMAR": 3,
+    "MARCILLO MARCILLO, DARWIN IKER": 5,
+    "ANTELO FERNANDEZ, ANXO": 8,
+    "HERNANDO ANGUIANO, HODEI": 12,
+    "ORTIZ NEGRO, ANDER": 14,
+    "RUIZ MARCANO, LIER": 17,
+    "GALÁN PÉREZ DE NANCLARES, PAUL": 18,
+    "DÍAZ GUTIÉRREZ, IBAI": 20,
+    "MEDINA GARRIDO, ALAIN": 22,
+    "DIEGUEZ DUQUE, IORITZ": 25
+  },
+  "dorsales_visitante": {
+    "ORTIZ DE VALLEJUELO CASTRO, AIMAR": 1,
+    "AREJULA VILLAMAÑAN, ELEDER": 2,
+    "JUNQUERA HUERTA, ENEKO": 3,
+    "PÉREZ GÓMEZ, GORKA": 5,
+    "SIMO MANZANOS, LUCAS": 7,
+    "MAZA LANDAJO, ANDER": 9,
+    "NGUEMA MANGUE, JESUS MAURICIO": 10,
+    "DOBARAN HERNANDO, NAIER": 11,
+    "COARASA GRANADO, IKER": 14,
+    "FERNÁNDEZ LIENDO, HUGO": 15,
+    "LARESGOITI GARCIA, GILEN": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
