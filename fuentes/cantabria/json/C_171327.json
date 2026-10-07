@@ -1,0 +1,224 @@
+{
+  "acta_id": "C_171327",
+  "filename": "Acta_C_171327.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 19,
+  "fecha": "03-02-2024",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. MONTE B",
+  "equipo_visitante": "C.D.E. ATCO. MINEROS B",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LEÓN LAVÍN, ISRAEL"
+  ],
+  "estadio": "Monte 1",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "GUTIERREZ REDONDO, MARTIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 72,
+      "jugador": "ESPINOSA ANGULO, LUCA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "BURTAN, DEMIS CONSTANTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CRUZ AGUDO, CIPRIANO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CRUZ AGUDO, CIPRIANO",
+  "delegado_equipo_visitante": "GARCIA TAMAYO, CRISTIAN",
+  "titulares_local": [
+    "ALONSO ARRANZ, SERGIO",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "noriega moreno, ALVARO",
+    "OJEA ALONSO, HUGO",
+    "ELORZA, KYLE JASON",
+    "DIAZ CASTAÑERA, YERAY",
+    "MARTIN PUENTE, HUGO",
+    "GONZALEZ GIL, IVAN",
+    "TROCIN, ALEXANDER",
+    "ESPINOSA ANGULO, LUCA",
+    "PEREZ MONGE, MARCOS"
+  ],
+  "titulares_visitante": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "GUTIERREZ CUETO, IKER",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL"
+  ],
+  "suplentes_local": [
+    "VEGA GUTIERREZ, ALBERTO",
+    "SOLAR LAVIN, EDUARDO",
+    "SANTODOMINGO MARTINS, FERNANDO SAMUEL",
+    "BERMEJO GOMEZ, EDUARDO"
+  ],
+  "suplentes_visitante": [
+    "CASTAÑO MORALES, EDWIN",
+    "SANCHEZ GONZALEZ, ASIER",
+    "GARCÍA RÁBAGO, SAMUEL",
+    "ARROYO SAIZ, RUBEN"
+  ],
+  "convocados_sin_jugar_local": [
+    "VEGA GUTIERREZ, ALBERTO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CASTAÑO MORALES, EDWIN"
+  ],
+  "jugadores_local": [
+    "ALONSO ARRANZ, SERGIO",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "noriega moreno, ALVARO",
+    "OJEA ALONSO, HUGO",
+    "ELORZA, KYLE JASON",
+    "DIAZ CASTAÑERA, YERAY",
+    "MARTIN PUENTE, HUGO",
+    "GONZALEZ GIL, IVAN",
+    "TROCIN, ALEXANDER",
+    "ESPINOSA ANGULO, LUCA",
+    "PEREZ MONGE, MARCOS",
+    "SOLAR LAVIN, EDUARDO",
+    "SANTODOMINGO MARTINS, FERNANDO SAMUEL",
+    "BERMEJO GOMEZ, EDUARDO"
+  ],
+  "jugadores_visitante": [
+    "RUIZ FERNÁNDEZ, KEVIN",
+    "ORTEGA DEL RIO, AITOR",
+    "MAZON SHAROV, HUGO",
+    "GUTIERREZ REDONDO, MARTIN",
+    "solar rabadan, DANIEL",
+    "GUTIERREZ CUETO, IKER",
+    "SAINZ CALDERON, JOSE MIGUEL",
+    "SOLARES PICAZO, LUCAS",
+    "GOMEZ PEÑA, LUCAS",
+    "BURTAN, DEMIS CONSTANTIN",
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL",
+    "GARCÍA RÁBAGO, SAMUEL",
+    "ARROYO SAIZ, RUBEN",
+    "SANCHEZ GONZALEZ, ASIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SOLAR LAVIN, EDUARDO",
+      "sale": "ELORZA, KYLE JASON"
+    },
+    {
+      "min": 49,
+      "entra": "SANTODOMINGO MARTINS, FERNANDO SAMUEL",
+      "sale": "MARTIN PUENTE, HUGO"
+    },
+    {
+      "min": 61,
+      "entra": "BERMEJO GOMEZ, EDUARDO",
+      "sale": "noriega moreno, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "GARCÍA RÁBAGO, SAMUEL",
+      "sale": "GUTIERREZ REDONDO, MARTIN"
+    },
+    {
+      "min": 69,
+      "entra": "ARROYO SAIZ, RUBEN",
+      "sale": "solar rabadan, DANIEL"
+    },
+    {
+      "min": 72,
+      "entra": "SANCHEZ GONZALEZ, ASIER",
+      "sale": "GUTIERREZ CUETO, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALONSO ARRANZ, SERGIO": 90,
+    "FERNANDEZ FERNANDEZ, IKER": 90,
+    "noriega moreno, ALVARO": 61,
+    "OJEA ALONSO, HUGO": 90,
+    "ELORZA, KYLE JASON": 40,
+    "DIAZ CASTAÑERA, YERAY": 90,
+    "MARTIN PUENTE, HUGO": 49,
+    "GONZALEZ GIL, IVAN": 90,
+    "TROCIN, ALEXANDER": 90,
+    "ESPINOSA ANGULO, LUCA": 90,
+    "PEREZ MONGE, MARCOS": 90,
+    "SOLAR LAVIN, EDUARDO": 50,
+    "SANTODOMINGO MARTINS, FERNANDO SAMUEL": 41,
+    "BERMEJO GOMEZ, EDUARDO": 29,
+    "RUIZ FERNÁNDEZ, KEVIN": 90,
+    "ORTEGA DEL RIO, AITOR": 90,
+    "MAZON SHAROV, HUGO": 90,
+    "GUTIERREZ REDONDO, MARTIN": 54,
+    "solar rabadan, DANIEL": 69,
+    "GUTIERREZ CUETO, IKER": 72,
+    "SAINZ CALDERON, JOSE MIGUEL": 90,
+    "SOLARES PICAZO, LUCAS": 90,
+    "GOMEZ PEÑA, LUCAS": 90,
+    "BURTAN, DEMIS CONSTANTIN": 90,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 90,
+    "GARCÍA RÁBAGO, SAMUEL": 36,
+    "ARROYO SAIZ, RUBEN": 21,
+    "SANCHEZ GONZALEZ, ASIER": 18
+  },
+  "portero_local": "ALONSO ARRANZ, SERGIO",
+  "portero_visitante": "RUIZ FERNÁNDEZ, KEVIN",
+  "dorsales_local": {
+    "ALONSO ARRANZ, SERGIO": 13,
+    "FERNANDEZ FERNANDEZ, IKER": 3,
+    "noriega moreno, ALVARO": 9,
+    "OJEA ALONSO, HUGO": 10,
+    "ELORZA, KYLE JASON": 11,
+    "DIAZ CASTAÑERA, YERAY": 16,
+    "MARTIN PUENTE, HUGO": 17,
+    "GONZALEZ GIL, IVAN": 18,
+    "TROCIN, ALEXANDER": 20,
+    "ESPINOSA ANGULO, LUCA": 21,
+    "PEREZ MONGE, MARCOS": 22
+  },
+  "dorsales_visitante": {
+    "RUIZ FERNÁNDEZ, KEVIN": 13,
+    "ORTEGA DEL RIO, AITOR": 4,
+    "MAZON SHAROV, HUGO": 6,
+    "GUTIERREZ REDONDO, MARTIN": 7,
+    "solar rabadan, DANIEL": 8,
+    "GUTIERREZ CUETO, IKER": 9,
+    "SAINZ CALDERON, JOSE MIGUEL": 10,
+    "SOLARES PICAZO, LUCAS": 11,
+    "GOMEZ PEÑA, LUCAS": 12,
+    "BURTAN, DEMIS CONSTANTIN": 14,
+    "MARTINEZ ALVAREZ, JESUS EMMANUEL": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
