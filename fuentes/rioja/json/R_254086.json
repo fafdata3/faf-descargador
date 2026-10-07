@@ -23,67 +23,78 @@
       "minuto": 10,
       "jugador": "CABALLERO RUIZ, IRENE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "SANCHEZ GARCIA, ELENA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "CABALLERO RUIZ, IRENE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "FERNANDEZ REDONDO, CLARA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 37,
       "jugador": "BALTANAS ECHAZARRA, BLANCA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "SANCHEZ GARCIA, ELENA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 60,
       "jugador": "RIAÑO SIERRA, SARA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 63,
       "jugador": "MARTINEZ BAZO, NORA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 67,
       "jugador": "CASTILLO GARCIA, VALERIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 70,
       "jugador": "MARTINEZ BAZO, NORA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 79,
       "jugador": "CABALLERO RUIZ, IRENE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -105,13 +116,6 @@
       "minuto": 72,
       "jugador": "RIAÑO SIERRA, SARA",
       "equipo": "local",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 72,
-      "jugador": "COMILLAS Actylab",
-      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     },
@@ -312,5 +316,6 @@
     "NISTAL SOTA, AITANA": 24,
     "REDONDO CUBERO, JIMENA": 25
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
