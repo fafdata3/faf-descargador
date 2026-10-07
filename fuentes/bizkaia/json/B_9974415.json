@@ -1,0 +1,272 @@
+{
+  "acta_id": "B_9974415",
+  "filename": "Acta_B_9974415.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "15-02-2026",
+  "hora": "11:30",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 1)",
+  "equipo_local": "DINAMO SAN JUAN A",
+  "equipo_visitante": "SANTURTZI B",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "CASTAÑO MERINO, IGOR"
+  ],
+  "estadio": "SAN JUAN - SANTURTZI",
+  "ciudad": "Santurtzi",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "BEN NACEUR BEN NACEUR, OUALID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "MARTIN GONZALEZ, KIMETZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "ORTIZ ORTIZ, IBAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "LOPEZ MARTINEZ, OINATZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 73,
+      "jugador": "MUR HERNANDEZ, GAEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "BARREIRO GONZALEZ, EDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "MARTIN GONZALEZ, KIMETZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LOPEZ MUÑOZ, GORKA",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ZABALA IRIARTE, JON",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ LOPERA, ELLERY",
+  "delegado_equipo_visitante": "ANDRES UBEDA P, IKER",
+  "titulares_local": [
+    "RELIEGOS FERNANDEZ, ALEJANDRO",
+    "MUR HERNANDEZ, GAEL",
+    "GIL MORENO, ANDER",
+    "MARTIN GONZALEZ, KIMETZ",
+    "BEN NACEUR BEN NACEUR, OUALID",
+    "BECERRA BALLESTERO, ENAITZ",
+    "MENA BERMEJO, AARÓN",
+    "REMESAL BERROCAL, HELDAI",
+    "BORJA FERNANDEZ, EMMANUEL",
+    "AZPILLAGA BLANCO, OIER",
+    "LOPEZ MARTINEZ, OINATZ"
+  ],
+  "titulares_visitante": [
+    "VAZQUEZ GARCIA, MARKEL",
+    "FLORES PANDO, ANDER",
+    "BEZARES GUERRA, MARKEL",
+    "GASCON ANSEDE, MIKEL",
+    "PEREZ LOPEZ, JULEN",
+    "FREIJO HERRERO, HUGO",
+    "VALBUENA GARCIA, ABEL",
+    "FABREGAT ZABALA, IZAN",
+    "ALVAREZ VILLA, URDAX",
+    "VAZQUEZ MONROY, SERGIO",
+    "ALVAREZ GARCIA, JULEN"
+  ],
+  "suplentes_local": [
+    "JIN, YUZE",
+    "ECHANIZ PAREDES, BEÑAT",
+    "EL FARSSIOUI KASSOUH, HAMZA",
+    "GONZALO VALBUENA, ENEKO",
+    "BARREIRO GONZALEZ, EDER",
+    "GARCIA IGLESIAS, ELEDER"
+  ],
+  "suplentes_visitante": [
+    "SEGURA TEJADA, MIKEL",
+    "QUINTANILLA ROPERO, HARKAITZ",
+    "BERRIOS GUERRERO, IKER",
+    "ORTIZ ORTIZ, IBAI",
+    "MACIAS ISPIERTO, UNAI",
+    "CALVO GARCIA, ANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "ECHANIZ PAREDES, BEÑAT",
+    "GARCIA IGLESIAS, ELEDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SEGURA TEJADA, MIKEL",
+    "MACIAS ISPIERTO, UNAI"
+  ],
+  "jugadores_local": [
+    "RELIEGOS FERNANDEZ, ALEJANDRO",
+    "MUR HERNANDEZ, GAEL",
+    "GIL MORENO, ANDER",
+    "MARTIN GONZALEZ, KIMETZ",
+    "BEN NACEUR BEN NACEUR, OUALID",
+    "BECERRA BALLESTERO, ENAITZ",
+    "MENA BERMEJO, AARÓN",
+    "REMESAL BERROCAL, HELDAI",
+    "BORJA FERNANDEZ, EMMANUEL",
+    "AZPILLAGA BLANCO, OIER",
+    "LOPEZ MARTINEZ, OINATZ",
+    "BARREIRO GONZALEZ, EDER",
+    "JIN, YUZE",
+    "GONZALO VALBUENA, ENEKO",
+    "EL FARSSIOUI KASSOUH, HAMZA"
+  ],
+  "jugadores_visitante": [
+    "VAZQUEZ GARCIA, MARKEL",
+    "FLORES PANDO, ANDER",
+    "BEZARES GUERRA, MARKEL",
+    "GASCON ANSEDE, MIKEL",
+    "PEREZ LOPEZ, JULEN",
+    "FREIJO HERRERO, HUGO",
+    "VALBUENA GARCIA, ABEL",
+    "FABREGAT ZABALA, IZAN",
+    "ALVAREZ VILLA, URDAX",
+    "VAZQUEZ MONROY, SERGIO",
+    "ALVAREZ GARCIA, JULEN",
+    "ORTIZ ORTIZ, IBAI",
+    "BERRIOS GUERRERO, IKER",
+    "QUINTANILLA ROPERO, HARKAITZ",
+    "CALVO GARCIA, ANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "BARREIRO GONZALEZ, EDER",
+      "sale": "BECERRA BALLESTERO, ENAITZ"
+    },
+    {
+      "min": 61,
+      "entra": "JIN, YUZE",
+      "sale": "AZPILLAGA BLANCO, OIER"
+    },
+    {
+      "min": 77,
+      "entra": "GONZALO VALBUENA, ENEKO",
+      "sale": "BEN NACEUR BEN NACEUR, OUALID"
+    },
+    {
+      "min": 77,
+      "entra": "EL FARSSIOUI KASSOUH, HAMZA",
+      "sale": "BORJA FERNANDEZ, EMMANUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "ORTIZ ORTIZ, IBAI",
+      "sale": "GASCON ANSEDE, MIKEL"
+    },
+    {
+      "min": 40,
+      "entra": "BERRIOS GUERRERO, IKER",
+      "sale": "PEREZ LOPEZ, JULEN"
+    },
+    {
+      "min": 57,
+      "entra": "QUINTANILLA ROPERO, HARKAITZ",
+      "sale": "ALVAREZ VILLA, URDAX"
+    },
+    {
+      "min": 69,
+      "entra": "CALVO GARCIA, ANDER",
+      "sale": "VALBUENA GARCIA, ABEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "RELIEGOS FERNANDEZ, ALEJANDRO": 90,
+    "MUR HERNANDEZ, GAEL": 90,
+    "GIL MORENO, ANDER": 90,
+    "MARTIN GONZALEZ, KIMETZ": 90,
+    "BEN NACEUR BEN NACEUR, OUALID": 77,
+    "BECERRA BALLESTERO, ENAITZ": 50,
+    "MENA BERMEJO, AARÓN": 90,
+    "REMESAL BERROCAL, HELDAI": 90,
+    "BORJA FERNANDEZ, EMMANUEL": 77,
+    "AZPILLAGA BLANCO, OIER": 61,
+    "LOPEZ MARTINEZ, OINATZ": 90,
+    "BARREIRO GONZALEZ, EDER": 40,
+    "JIN, YUZE": 29,
+    "GONZALO VALBUENA, ENEKO": 13,
+    "EL FARSSIOUI KASSOUH, HAMZA": 13,
+    "VAZQUEZ GARCIA, MARKEL": 90,
+    "FLORES PANDO, ANDER": 90,
+    "BEZARES GUERRA, MARKEL": 90,
+    "GASCON ANSEDE, MIKEL": 40,
+    "PEREZ LOPEZ, JULEN": 40,
+    "FREIJO HERRERO, HUGO": 90,
+    "VALBUENA GARCIA, ABEL": 69,
+    "FABREGAT ZABALA, IZAN": 90,
+    "ALVAREZ VILLA, URDAX": 57,
+    "VAZQUEZ MONROY, SERGIO": 90,
+    "ALVAREZ GARCIA, JULEN": 90,
+    "ORTIZ ORTIZ, IBAI": 50,
+    "BERRIOS GUERRERO, IKER": 50,
+    "QUINTANILLA ROPERO, HARKAITZ": 33,
+    "CALVO GARCIA, ANDER": 21
+  },
+  "portero_local": "RELIEGOS FERNANDEZ, ALEJANDRO",
+  "portero_visitante": "VAZQUEZ GARCIA, MARKEL",
+  "dorsales_local": {
+    "RELIEGOS FERNANDEZ, ALEJANDRO": 13,
+    "MUR HERNANDEZ, GAEL": 2,
+    "GIL MORENO, ANDER": 4,
+    "MARTIN GONZALEZ, KIMETZ": 7,
+    "BEN NACEUR BEN NACEUR, OUALID": 8,
+    "BECERRA BALLESTERO, ENAITZ": 9,
+    "MENA BERMEJO, AARÓN": 10,
+    "REMESAL BERROCAL, HELDAI": 18,
+    "BORJA FERNANDEZ, EMMANUEL": 19,
+    "AZPILLAGA BLANCO, OIER": 20,
+    "LOPEZ MARTINEZ, OINATZ": 21
+  },
+  "dorsales_visitante": {
+    "VAZQUEZ GARCIA, MARKEL": 13,
+    "FLORES PANDO, ANDER": 2,
+    "BEZARES GUERRA, MARKEL": 6,
+    "GASCON ANSEDE, MIKEL": 7,
+    "PEREZ LOPEZ, JULEN": 8,
+    "FREIJO HERRERO, HUGO": 12,
+    "VALBUENA GARCIA, ABEL": 14,
+    "FABREGAT ZABALA, IZAN": 15,
+    "ALVAREZ VILLA, URDAX": 18,
+    "VAZQUEZ MONROY, SERGIO": 20,
+    "ALVAREZ GARCIA, JULEN": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
