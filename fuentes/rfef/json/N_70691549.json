@@ -9,8 +9,8 @@
   "categoria": "PlayOff de Ascenso a Segunda División de Fútbol Sala (3ª eliminatoria)",
   "equipo_local": "XEREZ TOYOTA NIMAUTO",
   "equipo_visitante": "OLEOINNOVA MENGIBAR FS",
-  "goles_local": 4,
-  "goles_visitante": 3,
+  "goles_local": 3,
+  "goles_visitante": 0,
   "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
@@ -27,43 +27,50 @@
       "minuto": 5,
       "jugador": "MARTINEZ GALVEZ, MIGUEL ANGEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 9,
       "jugador": "MARTIN MARTIN, DANIEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 10,
       "jugador": "BUENDIA MORENO, EMILIO JOSE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 12,
       "jugador": "INIESTA MUÑOZ, DAVID",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 18,
       "jugador": "BUENDIA MORENO, EMILIO JOSE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "LUNA GUIJARRO, JOSE ANTONIO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "BUENDIA MORENO, EMILIO JOSE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -157,7 +164,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": null,
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "RODRIGUEZ GARCIA, ADRIAN",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "ARENAS CASTILLO, ANTONIO",
   "titulares_local": [
@@ -262,6 +269,5 @@
   },
   "suspendidos": [
     "ALCALA PANCORBO, PEDRO JOSE"
-  ],
-  "_marcador_widget": true
+  ]
 }
