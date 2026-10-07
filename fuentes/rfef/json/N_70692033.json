@@ -31,19 +31,22 @@
       "minuto": 14,
       "jugador": "BERNAL MORALES, INDARA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "PECES HIDALGO, GLORIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 33,
       "jugador": "RUIZ DOUKARAT, SARA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -357,5 +360,6 @@
     "PASHCHUK, YULIIA",
     "SELECCION REGIÓN DE MURCIA :",
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
