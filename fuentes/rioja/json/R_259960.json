@@ -1,0 +1,313 @@
+{
+  "acta_id": "R_259960",
+  "filename": "Acta_R_259960.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "16:30",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "BERCEO",
+  "equipo_visitante": "LA CALZADA",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "MARTINEZ MARTINEZ, ANDRES",
+    "Árbitro Asistente",
+    "DIAKITE, BABA",
+    "Árbitro Asistente",
+    "CUEVAS GARZON, DAVID"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 6 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "PEREZ ALONSO, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "GOMEZ OCHOA, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "GOMEZ OCHOA, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "SAENZ FERNANDEZ, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 33,
+      "jugador": "PLATAS ALVERO, TIRSO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "MARTINEZ SANTAMARIA, CESAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "MARTINEZ IÑIGUEZ, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "MARTINEZ PEREZ, LUIS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 33,
+      "jugador": "OSMAN KOTE, ISMAEL FATU",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "BUSTILLO GARCIA, DAVID",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "PEREIRA RAMOS, LUCAS ASIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "TORRES SOTO, IGNACIO",
+  "entrenador_visitante": "MARTINEZ CRUZ, ALEXANDER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CASTILLO RIO, JAVIER",
+  "delegado_equipo_visitante": "RUIZ GARCIA, JUAN",
+  "titulares_local": [
+    "PLATAS ALVERO, TIRSO",
+    "SANZ GIL, DANIEL",
+    "ECHAPRESTO PEREZ, MILLAN",
+    "BORRAS SANCHEZ, CRISTIAN",
+    "PEREZ ALONSO, MARIO",
+    "GIL FONCEA, PABLO",
+    "MARTINEZ SANTAMARIA, CESAR",
+    "PARRA AROCA, DIEGO",
+    "TORRECILLA ZANGRONIZ, ALBERTO",
+    "MARTINEZ IÑIGUEZ, DANIEL",
+    "SAENZ FERNANDEZ, PABLO"
+  ],
+  "titulares_visitante": [
+    "PEREIRA RAMOS, LUCAS ASIER",
+    "BARRIOS LERA, CLAUDIO",
+    "CAÑAS VIDALES, DIEGO",
+    "BUSTILLO GARCIA, DAVID",
+    "GARCIA ELVIRA, LUCCA",
+    "GOMEZ OCHOA, DIEGO",
+    "VICENTE GALINDO, YOEL",
+    "VERGES DE SOUZA, VICTOR",
+    "MORAL PEREZ, MIGUEL",
+    "OSMAN KOTE, ISMAEL FATU",
+    "LARREA POZO, EDER"
+  ],
+  "suplentes_local": [
+    "SARABIA CASERO, RUBEN",
+    "GARCIA CORRES, PABLO",
+    "CONDE BERMEJO, LUIS",
+    "MARTINEZ PEREZ, LUIS",
+    "MARTINEZ-LOSA CASTILLO, DIEGO",
+    "ALVAREZ ORTUBE, HECTOR",
+    "TOBIAS BEZARES, JORGE"
+  ],
+  "suplentes_visitante": [
+    "DELGADO ARAGON, JOSE JOAQUIN",
+    "BADIOLA MONTENEGRO, MIKEL",
+    "LEIVA MERINO, MIGUEL",
+    "PEREZ LOMA, RAMON",
+    "GARCIA NAZABAL, JON",
+    "RODRIGUEZ DIAZ, ALEX",
+    "SUAREZ VIVO, MARIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "SARABIA CASERO, RUBEN",
+    "GARCIA CORRES, PABLO",
+    "MARTINEZ-LOSA CASTILLO, DIEGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DELGADO ARAGON, JOSE JOAQUIN",
+    "BADIOLA MONTENEGRO, MIKEL"
+  ],
+  "jugadores_local": [
+    "PLATAS ALVERO, TIRSO",
+    "SANZ GIL, DANIEL",
+    "ECHAPRESTO PEREZ, MILLAN",
+    "BORRAS SANCHEZ, CRISTIAN",
+    "PEREZ ALONSO, MARIO",
+    "GIL FONCEA, PABLO",
+    "MARTINEZ SANTAMARIA, CESAR",
+    "PARRA AROCA, DIEGO",
+    "TORRECILLA ZANGRONIZ, ALBERTO",
+    "MARTINEZ IÑIGUEZ, DANIEL",
+    "SAENZ FERNANDEZ, PABLO",
+    "CONDE BERMEJO, LUIS",
+    "ALVAREZ ORTUBE, HECTOR",
+    "TOBIAS BEZARES, JORGE",
+    "MARTINEZ PEREZ, LUIS"
+  ],
+  "jugadores_visitante": [
+    "PEREIRA RAMOS, LUCAS ASIER",
+    "BARRIOS LERA, CLAUDIO",
+    "CAÑAS VIDALES, DIEGO",
+    "BUSTILLO GARCIA, DAVID",
+    "GARCIA ELVIRA, LUCCA",
+    "GOMEZ OCHOA, DIEGO",
+    "VICENTE GALINDO, YOEL",
+    "VERGES DE SOUZA, VICTOR",
+    "MORAL PEREZ, MIGUEL",
+    "OSMAN KOTE, ISMAEL FATU",
+    "LARREA POZO, EDER",
+    "SUAREZ VIVO, MARIO",
+    "GARCIA NAZABAL, JON",
+    "LEIVA MERINO, MIGUEL",
+    "PEREZ LOMA, RAMON",
+    "RODRIGUEZ DIAZ, ALEX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "CONDE BERMEJO, LUIS",
+      "sale": "ECHAPRESTO PEREZ, MILLAN"
+    },
+    {
+      "min": 59,
+      "entra": "ALVAREZ ORTUBE, HECTOR",
+      "sale": "PARRA AROCA, DIEGO"
+    },
+    {
+      "min": 79,
+      "entra": "TOBIAS BEZARES, JORGE",
+      "sale": "GIL FONCEA, PABLO"
+    },
+    {
+      "min": 84,
+      "entra": "MARTINEZ PEREZ, LUIS",
+      "sale": "SAENZ FERNANDEZ, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "SUAREZ VIVO, MARIO",
+      "sale": "VICENTE GALINDO, YOEL"
+    },
+    {
+      "min": 66,
+      "entra": "GARCIA NAZABAL, JON",
+      "sale": "GARCIA ELVIRA, LUCCA"
+    },
+    {
+      "min": 66,
+      "entra": "LEIVA MERINO, MIGUEL",
+      "sale": "MORAL PEREZ, MIGUEL"
+    },
+    {
+      "min": 84,
+      "entra": "PEREZ LOMA, RAMON",
+      "sale": "GOMEZ OCHOA, DIEGO"
+    },
+    {
+      "min": 84,
+      "entra": "RODRIGUEZ DIAZ, ALEX",
+      "sale": "BARRIOS LERA, CLAUDIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PLATAS ALVERO, TIRSO": 90,
+    "SANZ GIL, DANIEL": 90,
+    "ECHAPRESTO PEREZ, MILLAN": 59,
+    "BORRAS SANCHEZ, CRISTIAN": 90,
+    "PEREZ ALONSO, MARIO": 90,
+    "GIL FONCEA, PABLO": 79,
+    "MARTINEZ SANTAMARIA, CESAR": 90,
+    "PARRA AROCA, DIEGO": 59,
+    "TORRECILLA ZANGRONIZ, ALBERTO": 90,
+    "MARTINEZ IÑIGUEZ, DANIEL": 90,
+    "SAENZ FERNANDEZ, PABLO": 84,
+    "CONDE BERMEJO, LUIS": 31,
+    "ALVAREZ ORTUBE, HECTOR": 31,
+    "TOBIAS BEZARES, JORGE": 11,
+    "MARTINEZ PEREZ, LUIS": 6,
+    "PEREIRA RAMOS, LUCAS ASIER": 90,
+    "BARRIOS LERA, CLAUDIO": 84,
+    "CAÑAS VIDALES, DIEGO": 90,
+    "BUSTILLO GARCIA, DAVID": 90,
+    "GARCIA ELVIRA, LUCCA": 66,
+    "GOMEZ OCHOA, DIEGO": 84,
+    "VICENTE GALINDO, YOEL": 59,
+    "VERGES DE SOUZA, VICTOR": 90,
+    "MORAL PEREZ, MIGUEL": 66,
+    "OSMAN KOTE, ISMAEL FATU": 90,
+    "LARREA POZO, EDER": 90,
+    "SUAREZ VIVO, MARIO": 31,
+    "GARCIA NAZABAL, JON": 24,
+    "LEIVA MERINO, MIGUEL": 24,
+    "PEREZ LOMA, RAMON": 6,
+    "RODRIGUEZ DIAZ, ALEX": 6
+  },
+  "portero_local": "PLATAS ALVERO, TIRSO",
+  "portero_visitante": "PEREIRA RAMOS, LUCAS ASIER",
+  "dorsales_local": {
+    "PLATAS ALVERO, TIRSO": 13,
+    "SANZ GIL, DANIEL": 2,
+    "ECHAPRESTO PEREZ, MILLAN": 3,
+    "BORRAS SANCHEZ, CRISTIAN": 5,
+    "PEREZ ALONSO, MARIO": 7,
+    "GIL FONCEA, PABLO": 8,
+    "MARTINEZ SANTAMARIA, CESAR": 10,
+    "PARRA AROCA, DIEGO": 12,
+    "TORRECILLA ZANGRONIZ, ALBERTO": 14,
+    "MARTINEZ IÑIGUEZ, DANIEL": 22,
+    "SAENZ FERNANDEZ, PABLO": 23
+  },
+  "dorsales_visitante": {
+    "PEREIRA RAMOS, LUCAS ASIER": 25,
+    "BARRIOS LERA, CLAUDIO": 3,
+    "CAÑAS VIDALES, DIEGO": 4,
+    "BUSTILLO GARCIA, DAVID": 5,
+    "GARCIA ELVIRA, LUCCA": 6,
+    "GOMEZ OCHOA, DIEGO": 7,
+    "VICENTE GALINDO, YOEL": 10,
+    "VERGES DE SOUZA, VICTOR": 15,
+    "MORAL PEREZ, MIGUEL": 16,
+    "OSMAN KOTE, ISMAEL FATU": 17,
+    "LARREA POZO, EDER": 20
+  },
+  "suspendidos": []
+}
