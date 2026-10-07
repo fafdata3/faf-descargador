@@ -1,0 +1,336 @@
+{
+  "acta_id": "C_193206",
+  "filename": "Acta_C_193206.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 20,
+  "fecha": "01-02-2025",
+  "hora": "17:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "S.D. PEÑA REVILLA",
+  "equipo_visitante": "CASTRO F.C. A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MORA HERRERO, EDGAR"
+  ],
+  "estadio": "El Regimiento",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "GOMEZ ALONSO, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "GOMEZ ALONSO, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 30,
+      "jugador": "ZULUAGA CATAÑO, CARLOS FELIPE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "RODRÍGUEZ LÓPEZ, JON ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 11,
+      "jugador": "SAEZ HERNANDEZ, MARCOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 12,
+      "jugador": "MOLINA SECO, AURELIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 13,
+      "jugador": "DIAZ FERNANDEZ, ROBERTO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 23,
+      "jugador": "VELEZ MEDINA, ALEXANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "MOLINA DE LA SERNA, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 61,
+      "jugador": "PASCAL, DAVID OCTAVIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "PEREZ CASTRO, MARCO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "CASTILLO FUENMAYOR, LEOMER DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "GUARDEÑO KRASIMIROV, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 11,
+      "jugador": "VIZCAYA ALVAREZ, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "GOMEZ ALONSO, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "FERRERO VILLASANTE, RAUL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MOLINA SECO, AURELIO",
+  "entrenador_visitante": "ARCE PRADA, JUAN MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DIAZ FERNANDEZ, ROBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MOLINA DE LA SERNA, DAVID",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "MOLLEDA DEL OLMO, ADRIAN",
+    "NARVAEZ GOMEZ, HUGO",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "ARENAS GÓMEZ, MARIO",
+    "SAEZ HERNANDEZ, MARCOS",
+    "DÍEZ DOBARGANES, LUCAS",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER",
+    "GONZALEZ BOCANEGRA, IZAN"
+  ],
+  "titulares_visitante": [
+    "CUEVAS NUÑEZ, UNAI",
+    "FERRERO VILLASANTE, RAUL",
+    "RODRIGUEZ GOMEZ, HECTOR",
+    "AGUSTIN PELLON, HUGO",
+    "LAISECA ALONSO, EDER",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "GOMEZ ALONSO, HUGO",
+    "HIGINO FERREIRA, NICOLAS LANDER",
+    "VIZCAYA ALVAREZ, ADRIAN",
+    "MARTINEZ PEREZ, PABLO",
+    "GOMEZ MUÑOZ, HECTOR"
+  ],
+  "suplentes_local": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "NÚÑEZ GALINDO, DIEGO",
+    "CASTILLO FUENMAYOR, LEOMER DAVID",
+    "PÓO TORRES, AARÓN",
+    "PEREZ CASTRO, MARCO"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ SANTOS, IZAN",
+    "GALLARRETA MIQUELARENA, SENDOA",
+    "JIMENEZ BARTOLOME, IZAN",
+    "TREVILLA PEROMINGO, ZUHAITZ GIDEON",
+    "ALONSO SOLDEVILLA, IÑAKI"
+  ],
+  "convocados_sin_jugar_local": [
+    "CORONADO RUIZ, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MOLLEDA DEL OLMO, ADRIAN",
+    "NARVAEZ GOMEZ, HUGO",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "ARENAS GÓMEZ, MARIO",
+    "SAEZ HERNANDEZ, MARCOS",
+    "DÍEZ DOBARGANES, LUCAS",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER",
+    "GONZALEZ BOCANEGRA, IZAN",
+    "CASTILLO FUENMAYOR, LEOMER DAVID",
+    "PEREZ CASTRO, MARCO",
+    "PÓO TORRES, AARÓN",
+    "NÚÑEZ GALINDO, DIEGO"
+  ],
+  "jugadores_visitante": [
+    "CUEVAS NUÑEZ, UNAI",
+    "FERRERO VILLASANTE, RAUL",
+    "RODRIGUEZ GOMEZ, HECTOR",
+    "AGUSTIN PELLON, HUGO",
+    "LAISECA ALONSO, EDER",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "GOMEZ ALONSO, HUGO",
+    "HIGINO FERREIRA, NICOLAS LANDER",
+    "VIZCAYA ALVAREZ, ADRIAN",
+    "MARTINEZ PEREZ, PABLO",
+    "GOMEZ MUÑOZ, HECTOR",
+    "GALLARRETA MIQUELARENA, SENDOA",
+    "JIMENEZ BARTOLOME, IZAN",
+    "TREVILLA PEROMINGO, ZUHAITZ GIDEON",
+    "ALONSO SOLDEVILLA, IÑAKI",
+    "LOPEZ SANTOS, IZAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "CASTILLO FUENMAYOR, LEOMER DAVID",
+      "sale": "DÍEZ DOBARGANES, LUCAS"
+    },
+    {
+      "min": 57,
+      "entra": "PEREZ CASTRO, MARCO",
+      "sale": "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO"
+    },
+    {
+      "min": 70,
+      "entra": "PÓO TORRES, AARÓN",
+      "sale": "PASCAL, DAVID OCTAVIAN"
+    },
+    {
+      "min": 73,
+      "entra": "NÚÑEZ GALINDO, DIEGO",
+      "sale": "VELEZ MEDINA, ALEXANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 47,
+      "entra": "GALLARRETA MIQUELARENA, SENDOA",
+      "sale": "HIGINO FERREIRA, NICOLAS LANDER"
+    },
+    {
+      "min": 53,
+      "entra": "JIMENEZ BARTOLOME, IZAN",
+      "sale": "GOMEZ MUÑOZ, HECTOR"
+    },
+    {
+      "min": 67,
+      "entra": "TREVILLA PEROMINGO, ZUHAITZ GIDEON",
+      "sale": "RODRIGUEZ GOMEZ, HECTOR"
+    },
+    {
+      "min": 67,
+      "entra": "ALONSO SOLDEVILLA, IÑAKI",
+      "sale": "VIZCAYA ALVAREZ, ADRIAN"
+    },
+    {
+      "min": 67,
+      "entra": "LOPEZ SANTOS, IZAN",
+      "sale": "MARTINEZ PEREZ, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MOLLEDA DEL OLMO, ADRIAN": 90,
+    "NARVAEZ GOMEZ, HUGO": 90,
+    "PASCAL, DAVID OCTAVIAN": 70,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 90,
+    "GUARDEÑO KRASIMIROV, DANIEL": 90,
+    "ARENAS GÓMEZ, MARIO": 90,
+    "SAEZ HERNANDEZ, MARCOS": 90,
+    "DÍEZ DOBARGANES, LUCAS": 40,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 57,
+    "VELEZ MEDINA, ALEXANDER": 73,
+    "GONZALEZ BOCANEGRA, IZAN": 90,
+    "CASTILLO FUENMAYOR, LEOMER DAVID": 50,
+    "PEREZ CASTRO, MARCO": 33,
+    "PÓO TORRES, AARÓN": 20,
+    "NÚÑEZ GALINDO, DIEGO": 17,
+    "CUEVAS NUÑEZ, UNAI": 90,
+    "FERRERO VILLASANTE, RAUL": 90,
+    "RODRIGUEZ GOMEZ, HECTOR": 67,
+    "AGUSTIN PELLON, HUGO": 90,
+    "LAISECA ALONSO, EDER": 90,
+    "RODRÍGUEZ LÓPEZ, JON ANDER": 90,
+    "GOMEZ ALONSO, HUGO": 90,
+    "HIGINO FERREIRA, NICOLAS LANDER": 47,
+    "VIZCAYA ALVAREZ, ADRIAN": 67,
+    "MARTINEZ PEREZ, PABLO": 67,
+    "GOMEZ MUÑOZ, HECTOR": 53,
+    "GALLARRETA MIQUELARENA, SENDOA": 43,
+    "JIMENEZ BARTOLOME, IZAN": 37,
+    "TREVILLA PEROMINGO, ZUHAITZ GIDEON": 23,
+    "ALONSO SOLDEVILLA, IÑAKI": 23,
+    "LOPEZ SANTOS, IZAN": 23
+  },
+  "portero_local": "MOLLEDA DEL OLMO, ADRIAN",
+  "portero_visitante": "CUEVAS NUÑEZ, UNAI",
+  "dorsales_local": {
+    "MOLLEDA DEL OLMO, ADRIAN": 1,
+    "NARVAEZ GOMEZ, HUGO": 3,
+    "PASCAL, DAVID OCTAVIAN": 4,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 5,
+    "GUARDEÑO KRASIMIROV, DANIEL": 6,
+    "ARENAS GÓMEZ, MARIO": 7,
+    "SAEZ HERNANDEZ, MARCOS": 8,
+    "DÍEZ DOBARGANES, LUCAS": 9,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 10,
+    "VELEZ MEDINA, ALEXANDER": 11,
+    "GONZALEZ BOCANEGRA, IZAN": 17
+  },
+  "dorsales_visitante": {
+    "CUEVAS NUÑEZ, UNAI": 13,
+    "FERRERO VILLASANTE, RAUL": 2,
+    "RODRIGUEZ GOMEZ, HECTOR": 5,
+    "AGUSTIN PELLON, HUGO": 6,
+    "LAISECA ALONSO, EDER": 10,
+    "RODRÍGUEZ LÓPEZ, JON ANDER": 11,
+    "GOMEZ ALONSO, HUGO": 14,
+    "HIGINO FERREIRA, NICOLAS LANDER": 17,
+    "VIZCAYA ALVAREZ, ADRIAN": 18,
+    "MARTINEZ PEREZ, PABLO": 20,
+    "GOMEZ MUÑOZ, HECTOR": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
