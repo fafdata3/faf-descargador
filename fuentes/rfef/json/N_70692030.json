@@ -10,7 +10,7 @@
   "equipo_local": "SELECCIÓN CATALANA",
   "equipo_visitante": "SELECCIÓN ANDALUZA",
   "goles_local": 0,
-  "goles_visitante": 1,
+  "goles_visitante": 3,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -29,19 +29,22 @@
       "minuto": 5,
       "jugador": "PONCE ULRIC, ANDREA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 14,
       "jugador": "BERNAL MORALES, INDARA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 31,
       "jugador": "PONCE ULRIC, MIRIAM",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -147,5 +150,6 @@
     "MORENO POMARES, ANGELA": 7,
     "BERNAL MORALES, INDARA": 9
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
