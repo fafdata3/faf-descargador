@@ -1,0 +1,254 @@
+{
+  "acta_id": "C_193198",
+  "filename": "Acta_C_193198.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 19,
+  "fecha": "25-01-2025",
+  "hora": "09:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "S.D. PEÑA REVILLA",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PÉREZ NORIEGA, MARÍA"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "CRUZADO CUESTA, FABIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 14,
+      "jugador": "SAEZ HERNANDEZ, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "SAEZ HERNANDEZ, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "VELATEGUI PRIETO, ADAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "VELEZ MEDINA, ALEXANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "ZULUAGA CATAÑO, CARLOS FELIPE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "PEREZ CASTRO, MARCO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "MOLINA SECO, AURELIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MONTES VACAS, VICENTE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "DIAZ FERNANDEZ, ROBERTO",
+  "titulares_local": [
+    "GRANDE SALVADOR, GAEL",
+    "VELATEGUI PRIETO, ADAN",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "NOVOA TARDÍO, HUGO",
+    "GONZALEZ BENITO, PABLO",
+    "ROBETA DIAZ, JORGE",
+    "CRUZADO CUESTA, FABIO",
+    "ROJO CANADELL, ALEJANDRO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "HERRERA RUIZ, ADAHY",
+    "VELARDE VEGA, HECTOR"
+  ],
+  "titulares_visitante": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "NARVAEZ GOMEZ, HUGO",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "DÍEZ DOBARGANES, LUCAS",
+    "SAEZ HERNANDEZ, MARCOS",
+    "ARENAS GÓMEZ, MARIO",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER",
+    "GONZALEZ BOCANEGRA, IZAN"
+  ],
+  "suplentes_local": [
+    "ORUÑA MARCILLA, ALVARO",
+    "DIAZ DIAZ, GONZALO",
+    "GOMEZ CABIELLES, ALEJANDRO",
+    "GONZALEZ RUIZ, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "MOLLEDA DEL OLMO, ADRIAN",
+    "NÚÑEZ GALINDO, DIEGO",
+    "CALVO GONZALEZ, MATEO",
+    "CASTILLO MONTES, MAURO",
+    "PEREZ CASTRO, MARCO"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORUÑA MARCILLA, ALVARO",
+    "GONZALEZ RUIZ, ALVARO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MOLLEDA DEL OLMO, ADRIAN"
+  ],
+  "jugadores_local": [
+    "GRANDE SALVADOR, GAEL",
+    "VELATEGUI PRIETO, ADAN",
+    "DEL CASTILLO SARAÑANA, LUCAS",
+    "NOVOA TARDÍO, HUGO",
+    "GONZALEZ BENITO, PABLO",
+    "ROBETA DIAZ, JORGE",
+    "CRUZADO CUESTA, FABIO",
+    "ROJO CANADELL, ALEJANDRO",
+    "HERNÁNDEZ ÁLVAREZ, GAEL",
+    "HERRERA RUIZ, ADAHY",
+    "VELARDE VEGA, HECTOR",
+    "DIAZ DIAZ, GONZALO",
+    "GOMEZ CABIELLES, ALEJANDRO"
+  ],
+  "jugadores_visitante": [
+    "CORONADO RUIZ, ALEJANDRO",
+    "NARVAEZ GOMEZ, HUGO",
+    "PASCAL, DAVID OCTAVIAN",
+    "ZULUAGA CATAÑO, CARLOS FELIPE",
+    "GUARDEÑO KRASIMIROV, DANIEL",
+    "DÍEZ DOBARGANES, LUCAS",
+    "SAEZ HERNANDEZ, MARCOS",
+    "ARENAS GÓMEZ, MARIO",
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO",
+    "VELEZ MEDINA, ALEXANDER",
+    "GONZALEZ BOCANEGRA, IZAN",
+    "PEREZ CASTRO, MARCO",
+    "NÚÑEZ GALINDO, DIEGO",
+    "CASTILLO MONTES, MAURO",
+    "CALVO GONZALEZ, MATEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "DIAZ DIAZ, GONZALO",
+      "sale": "HERRERA RUIZ, ADAHY"
+    },
+    {
+      "min": 69,
+      "entra": "GOMEZ CABIELLES, ALEJANDRO",
+      "sale": "NOVOA TARDÍO, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "PEREZ CASTRO, MARCO",
+      "sale": "DÍEZ DOBARGANES, LUCAS"
+    },
+    {
+      "min": 68,
+      "entra": "NÚÑEZ GALINDO, DIEGO",
+      "sale": "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO"
+    },
+    {
+      "min": 74,
+      "entra": "CASTILLO MONTES, MAURO",
+      "sale": "ARENAS GÓMEZ, MARIO"
+    },
+    {
+      "min": 78,
+      "entra": "CALVO GONZALEZ, MATEO",
+      "sale": "VELEZ MEDINA, ALEXANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "GRANDE SALVADOR, GAEL": 90,
+    "VELATEGUI PRIETO, ADAN": 90,
+    "DEL CASTILLO SARAÑANA, LUCAS": 90,
+    "NOVOA TARDÍO, HUGO": 69,
+    "GONZALEZ BENITO, PABLO": 90,
+    "ROBETA DIAZ, JORGE": 90,
+    "CRUZADO CUESTA, FABIO": 90,
+    "ROJO CANADELL, ALEJANDRO": 90,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 90,
+    "HERRERA RUIZ, ADAHY": 60,
+    "VELARDE VEGA, HECTOR": 90,
+    "DIAZ DIAZ, GONZALO": 30,
+    "GOMEZ CABIELLES, ALEJANDRO": 21,
+    "CORONADO RUIZ, ALEJANDRO": 90,
+    "NARVAEZ GOMEZ, HUGO": 90,
+    "PASCAL, DAVID OCTAVIAN": 90,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 90,
+    "GUARDEÑO KRASIMIROV, DANIEL": 90,
+    "DÍEZ DOBARGANES, LUCAS": 59,
+    "SAEZ HERNANDEZ, MARCOS": 90,
+    "ARENAS GÓMEZ, MARIO": 74,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 68,
+    "VELEZ MEDINA, ALEXANDER": 78,
+    "GONZALEZ BOCANEGRA, IZAN": 90,
+    "PEREZ CASTRO, MARCO": 31,
+    "NÚÑEZ GALINDO, DIEGO": 22,
+    "CASTILLO MONTES, MAURO": 16,
+    "CALVO GONZALEZ, MATEO": 12
+  },
+  "portero_local": "GRANDE SALVADOR, GAEL",
+  "portero_visitante": "CORONADO RUIZ, ALEJANDRO",
+  "dorsales_local": {
+    "GRANDE SALVADOR, GAEL": 13,
+    "VELATEGUI PRIETO, ADAN": 3,
+    "DEL CASTILLO SARAÑANA, LUCAS": 4,
+    "NOVOA TARDÍO, HUGO": 7,
+    "GONZALEZ BENITO, PABLO": 8,
+    "ROBETA DIAZ, JORGE": 9,
+    "CRUZADO CUESTA, FABIO": 11,
+    "ROJO CANADELL, ALEJANDRO": 14,
+    "HERNÁNDEZ ÁLVAREZ, GAEL": 15,
+    "HERRERA RUIZ, ADAHY": 21,
+    "VELARDE VEGA, HECTOR": 99
+  },
+  "dorsales_visitante": {
+    "CORONADO RUIZ, ALEJANDRO": 13,
+    "NARVAEZ GOMEZ, HUGO": 3,
+    "PASCAL, DAVID OCTAVIAN": 4,
+    "ZULUAGA CATAÑO, CARLOS FELIPE": 5,
+    "GUARDEÑO KRASIMIROV, DANIEL": 6,
+    "DÍEZ DOBARGANES, LUCAS": 7,
+    "SAEZ HERNANDEZ, MARCOS": 8,
+    "ARENAS GÓMEZ, MARIO": 9,
+    "PIEDRALBA RODRIGUEZ, CARLOS ALFONSO": 10,
+    "VELEZ MEDINA, ALEXANDER": 11,
+    "GONZALEZ BOCANEGRA, IZAN": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
