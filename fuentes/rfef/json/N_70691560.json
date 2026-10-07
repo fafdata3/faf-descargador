@@ -9,7 +9,7 @@
   "categoria": "Campeonato de España de Clubes Base Fútbol Sala Sub-10 Femenino (Grupo A)",
   "equipo_local": "C. D. LA ESPIGUERA FEMENINAS",
   "equipo_visitante": "FUTBOL SALA FEMENINO ZARAGOZA",
-  "goles_local": 0,
+  "goles_local": 2,
   "goles_visitante": 4,
   "resultado": "L",
   "arbitros": [
@@ -27,37 +27,43 @@
       "minuto": 2,
       "jugador": "MARTINEZ PUEYO, ELORA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 6,
       "jugador": "MARTINEZ PUEYO, ELORA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 7,
       "jugador": "SILES OLMEDILLA, BLANCA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 9,
       "jugador": "MARTINEZ PUEYO, ELORA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "MARTINEZ PUEYO, ELORA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "TOUTOUH CASIMIRO, SARA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -286,5 +292,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
