@@ -9,9 +9,9 @@
   "categoria": "PlayOff de Ascenso a Segunda División de Fútbol Sala (3ª eliminatoria)",
   "equipo_local": "ILLES BALEARS PALMA FUTSAL",
   "equipo_visitante": "C.E. FUTSAL GESTORIA LUIS MATARÓ",
-  "goles_local": 2,
+  "goles_local": 1,
   "goles_visitante": 1,
-  "resultado": "W",
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "CUBERO LOPEZ, ALVARO",
@@ -27,19 +27,22 @@
       "minuto": 19,
       "jugador": "VARGAS MALAGA, IZAN",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 21,
       "jugador": "SUAREZ NAVARRO, GONZALO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "PONCE MARTÍN, MARC",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -84,7 +87,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": null,
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "EL MORABITI, MUSTAPHA",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "CUMPLIDO SALAZAR, ALBERT",
   "titulares_local": [
@@ -189,6 +192,5 @@
     "PONCE MARTÍN, MARC": 20,
     "CASAS MORA, JUAN": 80
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
