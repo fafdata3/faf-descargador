@@ -1,0 +1,265 @@
+{
+  "acta_id": "R_251991",
+  "filename": "Acta_R_251991.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "07-03-2026",
+  "hora": "16:30",
+  "categoria": "TERCERA FEDERACIÓN DE FÚTBOL FEMENINO (Grupo 16)",
+  "equipo_local": "AT REVELLIN",
+  "equipo_visitante": "DUX LOGROÑO B",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ALCALDE MARTINEZ, NACHO",
+    "Árbitro Asistente",
+    "GARCIA RUEDA, MARCOS",
+    "Árbitro Asistente",
+    "DAVID, ELISEI"
+  ],
+  "estadio": "C.M. PRADO VIEJO - H.A. - 6 (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 64,
+      "jugador": "ARNAEZ GARCIA, OLARTIA",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "FRANCIA PRIETO, GABRIELA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "SAMPAYO CIERTO, UXIA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "GALILEA CORDOBA, ROCIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "SAN MARTIN GOMEZ, ROCIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 33,
+      "jugador": "CARCEDO GARCIA, MIRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 63,
+      "jugador": "CARCEDO GARCIA, MIRIAN",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RUBIO GONZALEZ, FELIX M",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RUBIO LEGARDA, ASIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ESQUIDE EIZAGA, DIEGO",
+  "delegado_equipo_visitante": "BLASCO GOICOECHEA, FRANCISCO J",
+  "titulares_local": [
+    "GARCIA VALLEJO, AINARA",
+    "MIHAILEAN TRUFAS, MARIA LORENA",
+    "CAMPEAN, DOROTEA ALEXANDRA",
+    "LEON VERGARA, VALENTINA",
+    "SAEZ OTERO, GLORIA",
+    "GONZALEZ RODRIGUEZ, PAOLA",
+    "IBAÑEZ BENITEZ, LAURA",
+    "SAMPAYO CIERTO, UXIA",
+    "ROMERO PEREZ, CLARA",
+    "SAN MARTIN GOMEZ, ROCIO",
+    "FRANCIA PRIETO, GABRIELA"
+  ],
+  "titulares_visitante": [
+    "PECO OROZCO, LEYRE",
+    "ARNAEZ GARCIA, OLARTIA",
+    "SEBASTIAN MARIN, CARLA",
+    "RIPALDA MARAÑON, SANDRA",
+    "SANTAMARIA SAENZ, IRATI",
+    "DE VICENTE MAYA, ELSA",
+    "COTAN CABELLO, NEREA",
+    "SOUTO LOPEZ, CAROLINA",
+    "NANCLARES CALVO, ARIADNA",
+    "CARCEDO GARCIA, MIRIAN",
+    "JACKSON SOPENA, ELENA"
+  ],
+  "suplentes_local": [
+    "MUÑOZ MOLINA, IRENE",
+    "GALILEA CORDOBA, ROCIO",
+    "MARTINEZ SANCHEZ, MARIA",
+    "GARCIA RUBIO, JUNE",
+    "MANGADO ANDRES, CLAUDIA"
+  ],
+  "suplentes_visitante": [
+    "QUINTANO DÍEZ, ELISA",
+    "VILLAMOR ANGULO, LEYRE",
+    "CARNERO MONTECELO, CELIA",
+    "MORENO MUÑOZ, SOFIA"
+  ],
+  "convocados_sin_jugar_local": [
+    "MUÑOZ MOLINA, IRENE",
+    "MARTINEZ SANCHEZ, MARIA"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GARCIA VALLEJO, AINARA",
+    "MIHAILEAN TRUFAS, MARIA LORENA",
+    "CAMPEAN, DOROTEA ALEXANDRA",
+    "LEON VERGARA, VALENTINA",
+    "SAEZ OTERO, GLORIA",
+    "GONZALEZ RODRIGUEZ, PAOLA",
+    "IBAÑEZ BENITEZ, LAURA",
+    "SAMPAYO CIERTO, UXIA",
+    "ROMERO PEREZ, CLARA",
+    "SAN MARTIN GOMEZ, ROCIO",
+    "FRANCIA PRIETO, GABRIELA",
+    "MANGADO ANDRES, CLAUDIA",
+    "GARCIA RUBIO, JUNE",
+    "GALILEA CORDOBA, ROCIO"
+  ],
+  "jugadores_visitante": [
+    "PECO OROZCO, LEYRE",
+    "ARNAEZ GARCIA, OLARTIA",
+    "SEBASTIAN MARIN, CARLA",
+    "RIPALDA MARAÑON, SANDRA",
+    "SANTAMARIA SAENZ, IRATI",
+    "DE VICENTE MAYA, ELSA",
+    "COTAN CABELLO, NEREA",
+    "SOUTO LOPEZ, CAROLINA",
+    "NANCLARES CALVO, ARIADNA",
+    "CARCEDO GARCIA, MIRIAN",
+    "JACKSON SOPENA, ELENA",
+    "QUINTANO DÍEZ, ELISA",
+    "MORENO MUÑOZ, SOFIA",
+    "VILLAMOR ANGULO, LEYRE",
+    "CARNERO MONTECELO, CELIA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 82,
+      "entra": "MANGADO ANDRES, CLAUDIA",
+      "sale": "SAMPAYO CIERTO, UXIA"
+    },
+    {
+      "min": 89,
+      "entra": "GARCIA RUBIO, JUNE",
+      "sale": "GONZALEZ RODRIGUEZ, PAOLA"
+    },
+    {
+      "min": 89,
+      "entra": "GALILEA CORDOBA, ROCIO",
+      "sale": "LEON VERGARA, VALENTINA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "QUINTANO DÍEZ, ELISA",
+      "sale": "SOUTO LOPEZ, CAROLINA"
+    },
+    {
+      "min": 62,
+      "entra": "MORENO MUÑOZ, SOFIA",
+      "sale": "DE VICENTE MAYA, ELSA"
+    },
+    {
+      "min": 70,
+      "entra": "VILLAMOR ANGULO, LEYRE",
+      "sale": "SEBASTIAN MARIN, CARLA"
+    },
+    {
+      "min": 70,
+      "entra": "CARNERO MONTECELO, CELIA",
+      "sale": "NANCLARES CALVO, ARIADNA"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA VALLEJO, AINARA": 90,
+    "MIHAILEAN TRUFAS, MARIA LORENA": 90,
+    "CAMPEAN, DOROTEA ALEXANDRA": 90,
+    "LEON VERGARA, VALENTINA": 89,
+    "SAEZ OTERO, GLORIA": 90,
+    "GONZALEZ RODRIGUEZ, PAOLA": 89,
+    "IBAÑEZ BENITEZ, LAURA": 90,
+    "SAMPAYO CIERTO, UXIA": 82,
+    "ROMERO PEREZ, CLARA": 90,
+    "SAN MARTIN GOMEZ, ROCIO": 90,
+    "FRANCIA PRIETO, GABRIELA": 90,
+    "MANGADO ANDRES, CLAUDIA": 8,
+    "GARCIA RUBIO, JUNE": 1,
+    "GALILEA CORDOBA, ROCIO": 1,
+    "PECO OROZCO, LEYRE": 90,
+    "ARNAEZ GARCIA, OLARTIA": 90,
+    "SEBASTIAN MARIN, CARLA": 70,
+    "RIPALDA MARAÑON, SANDRA": 90,
+    "SANTAMARIA SAENZ, IRATI": 90,
+    "DE VICENTE MAYA, ELSA": 62,
+    "COTAN CABELLO, NEREA": 90,
+    "SOUTO LOPEZ, CAROLINA": 46,
+    "NANCLARES CALVO, ARIADNA": 70,
+    "CARCEDO GARCIA, MIRIAN": 90,
+    "JACKSON SOPENA, ELENA": 90,
+    "QUINTANO DÍEZ, ELISA": 44,
+    "MORENO MUÑOZ, SOFIA": 28,
+    "VILLAMOR ANGULO, LEYRE": 20,
+    "CARNERO MONTECELO, CELIA": 20
+  },
+  "portero_local": "GARCIA VALLEJO, AINARA",
+  "portero_visitante": "PECO OROZCO, LEYRE",
+  "dorsales_local": {
+    "GARCIA VALLEJO, AINARA": 13,
+    "MIHAILEAN TRUFAS, MARIA LORENA": 4,
+    "CAMPEAN, DOROTEA ALEXANDRA": 5,
+    "LEON VERGARA, VALENTINA": 6,
+    "SAEZ OTERO, GLORIA": 8,
+    "GONZALEZ RODRIGUEZ, PAOLA": 10,
+    "IBAÑEZ BENITEZ, LAURA": 14,
+    "SAMPAYO CIERTO, UXIA": 16,
+    "ROMERO PEREZ, CLARA": 17,
+    "SAN MARTIN GOMEZ, ROCIO": 19,
+    "FRANCIA PRIETO, GABRIELA": 22
+  },
+  "dorsales_visitante": {
+    "PECO OROZCO, LEYRE": 13,
+    "ARNAEZ GARCIA, OLARTIA": 2,
+    "SEBASTIAN MARIN, CARLA": 4,
+    "RIPALDA MARAÑON, SANDRA": 5,
+    "SANTAMARIA SAENZ, IRATI": 7,
+    "DE VICENTE MAYA, ELSA": 8,
+    "COTAN CABELLO, NEREA": 14,
+    "SOUTO LOPEZ, CAROLINA": 17,
+    "NANCLARES CALVO, ARIADNA": 18,
+    "CARCEDO GARCIA, MIRIAN": 19,
+    "JACKSON SOPENA, ELENA": 21
+  },
+  "suspendidos": [
+    "CARCEDO GARCIA, MIRIAN"
+  ],
+  "_marcador_widget": true
+}
