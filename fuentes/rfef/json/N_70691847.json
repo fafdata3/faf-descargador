@@ -27,25 +27,29 @@
       "minuto": 5,
       "jugador": "RODRIGUEZ GARCIA, CLARA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 9,
       "jugador": "SIMONETTI, NICOLE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 18,
       "jugador": "SIMONETTI, NICOLE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 20,
       "jugador": "SIMONETTI, NICOLE",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -62,7 +66,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": null,
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "SOPEÑA CUETO, LAURA",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "GOMEZ UREÑA, MIGUEL ANGEL",
   "titulares_local": [
