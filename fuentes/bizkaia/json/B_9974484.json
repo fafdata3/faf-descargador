@@ -1,0 +1,283 @@
+{
+  "acta_id": "B_9974484",
+  "filename": "Acta_B_9974484.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 26,
+  "fecha": "25-04-2026",
+  "hora": "15:45",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 1)",
+  "equipo_local": "DINAMO SAN JUAN A",
+  "equipo_visitante": "GALLARTA",
+  "goles_local": 1,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ESTEBAN LÓPEZ, ENDIKA"
+  ],
+  "estadio": "SAN JUAN - SANTURTZI",
+  "ciudad": "Santurtzi",
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "CASTEDO MENDEZ, SERGI ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "LOPEZ EZCURRA, LIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "TABARES DE TORO, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "BARREIRO GONZALEZ, EDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "OLIVARES FRANCISCO, IAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "TABARES DE TORO, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 53,
+      "jugador": "FUENTES ORTEGA, ANDONI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LOPEZ MUÑOZ, GORKA",
+  "entrenador_visitante": "ORTEGA FERNÁNDEZ, ANDER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ZABALA IRIARTE, JON",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ LOPERA, ELLERY",
+  "delegado_equipo_visitante": "GUTIERREZ MONROY, FRANCISCO",
+  "titulares_local": [
+    "RELIEGOS FERNANDEZ, ALEJANDRO",
+    "MUR HERNANDEZ, GAEL",
+    "GIL MORENO, ANDER",
+    "JIN, YUZE",
+    "MARTIN GONZALEZ, KIMETZ",
+    "BEN NACEUR BEN NACEUR, OUALID",
+    "MENA BERMEJO, AARÓN",
+    "EL FARSSIOUI KASSOUH, HAMZA",
+    "GONZALO VALBUENA, ENEKO",
+    "REMESAL BERROCAL, HELDAI",
+    "LOPEZ MARTINEZ, OINATZ"
+  ],
+  "titulares_visitante": [
+    "FUENTES ORTEGA, ANDONI",
+    "NESPRAL GARCIA, ANER",
+    "LOPEZ EZCURRA, LIER",
+    "INCHAUSTI CENECORTA, OIHAN",
+    "MODELO ALONSO, URTZI",
+    "BEN YOUSSEF, NASSIM",
+    "TABARES DE TORO, JULEN",
+    "RUIZ PINEÑO, AIMAR",
+    "LOPEZ DE EGUINOA FERNANDEZ, JURDAN",
+    "ANGUIANO URIA, EÑAUT",
+    "CASTEDO MENDEZ, SERGI ANDER"
+  ],
+  "suplentes_local": [
+    "ECHANIZ PAREDES, BEÑAT",
+    "BARREIRO GONZALEZ, EDER",
+    "GARCIA IGLESIAS, ELEDER",
+    "BORJA FERNANDEZ, EMMANUEL",
+    "AZPILLAGA BLANCO, OIER"
+  ],
+  "suplentes_visitante": [
+    "BRAGADO PANIAGUA, JULEN",
+    "ESCUDERO BEITIA, TXETXU",
+    "ORTIZ CAMPO, AITOR",
+    "BAJO HERMOSO, ENEKO",
+    "OLIVARES FRANCISCO, IAN",
+    "BAJO HERMOSO, IVAN",
+    "LOPEZ IÑIGUEZ, ENAITZ"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "ESCUDERO BEITIA, TXETXU",
+    "ORTIZ CAMPO, AITOR"
+  ],
+  "jugadores_local": [
+    "RELIEGOS FERNANDEZ, ALEJANDRO",
+    "MUR HERNANDEZ, GAEL",
+    "GIL MORENO, ANDER",
+    "JIN, YUZE",
+    "MARTIN GONZALEZ, KIMETZ",
+    "BEN NACEUR BEN NACEUR, OUALID",
+    "MENA BERMEJO, AARÓN",
+    "EL FARSSIOUI KASSOUH, HAMZA",
+    "GONZALO VALBUENA, ENEKO",
+    "REMESAL BERROCAL, HELDAI",
+    "LOPEZ MARTINEZ, OINATZ",
+    "BARREIRO GONZALEZ, EDER",
+    "BORJA FERNANDEZ, EMMANUEL",
+    "ECHANIZ PAREDES, BEÑAT",
+    "AZPILLAGA BLANCO, OIER",
+    "GARCIA IGLESIAS, ELEDER"
+  ],
+  "jugadores_visitante": [
+    "FUENTES ORTEGA, ANDONI",
+    "NESPRAL GARCIA, ANER",
+    "LOPEZ EZCURRA, LIER",
+    "INCHAUSTI CENECORTA, OIHAN",
+    "MODELO ALONSO, URTZI",
+    "BEN YOUSSEF, NASSIM",
+    "TABARES DE TORO, JULEN",
+    "RUIZ PINEÑO, AIMAR",
+    "LOPEZ DE EGUINOA FERNANDEZ, JURDAN",
+    "ANGUIANO URIA, EÑAUT",
+    "CASTEDO MENDEZ, SERGI ANDER",
+    "OLIVARES FRANCISCO, IAN",
+    "BAJO HERMOSO, ENEKO",
+    "BRAGADO PANIAGUA, JULEN",
+    "BAJO HERMOSO, IVAN",
+    "LOPEZ IÑIGUEZ, ENAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "BARREIRO GONZALEZ, EDER",
+      "sale": "EL FARSSIOUI KASSOUH, HAMZA"
+    },
+    {
+      "min": 51,
+      "entra": "BORJA FERNANDEZ, EMMANUEL",
+      "sale": "MARTIN GONZALEZ, KIMETZ"
+    },
+    {
+      "min": 51,
+      "entra": "ECHANIZ PAREDES, BEÑAT",
+      "sale": "GONZALO VALBUENA, ENEKO"
+    },
+    {
+      "min": 64,
+      "entra": "AZPILLAGA BLANCO, OIER",
+      "sale": "JIN, YUZE"
+    },
+    {
+      "min": 64,
+      "entra": "GARCIA IGLESIAS, ELEDER",
+      "sale": "REMESAL BERROCAL, HELDAI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "OLIVARES FRANCISCO, IAN",
+      "sale": "LOPEZ DE EGUINOA FERNANDEZ, JURDAN"
+    },
+    {
+      "min": 53,
+      "entra": "BAJO HERMOSO, ENEKO",
+      "sale": "RUIZ PINEÑO, AIMAR"
+    },
+    {
+      "min": 63,
+      "entra": "BRAGADO PANIAGUA, JULEN",
+      "sale": "ANGUIANO URIA, EÑAUT"
+    },
+    {
+      "min": 63,
+      "entra": "BAJO HERMOSO, IVAN",
+      "sale": "MODELO ALONSO, URTZI"
+    },
+    {
+      "min": 66,
+      "entra": "LOPEZ IÑIGUEZ, ENAITZ",
+      "sale": "BEN YOUSSEF, NASSIM"
+    }
+  ],
+  "minutos_jugadores": {
+    "RELIEGOS FERNANDEZ, ALEJANDRO": 90,
+    "MUR HERNANDEZ, GAEL": 90,
+    "GIL MORENO, ANDER": 90,
+    "JIN, YUZE": 64,
+    "MARTIN GONZALEZ, KIMETZ": 51,
+    "BEN NACEUR BEN NACEUR, OUALID": 90,
+    "MENA BERMEJO, AARÓN": 90,
+    "EL FARSSIOUI KASSOUH, HAMZA": 40,
+    "GONZALO VALBUENA, ENEKO": 51,
+    "REMESAL BERROCAL, HELDAI": 64,
+    "LOPEZ MARTINEZ, OINATZ": 90,
+    "BARREIRO GONZALEZ, EDER": 50,
+    "BORJA FERNANDEZ, EMMANUEL": 39,
+    "ECHANIZ PAREDES, BEÑAT": 39,
+    "AZPILLAGA BLANCO, OIER": 26,
+    "GARCIA IGLESIAS, ELEDER": 26,
+    "FUENTES ORTEGA, ANDONI": 90,
+    "NESPRAL GARCIA, ANER": 90,
+    "LOPEZ EZCURRA, LIER": 90,
+    "INCHAUSTI CENECORTA, OIHAN": 90,
+    "MODELO ALONSO, URTZI": 63,
+    "BEN YOUSSEF, NASSIM": 66,
+    "TABARES DE TORO, JULEN": 90,
+    "RUIZ PINEÑO, AIMAR": 53,
+    "LOPEZ DE EGUINOA FERNANDEZ, JURDAN": 53,
+    "ANGUIANO URIA, EÑAUT": 63,
+    "CASTEDO MENDEZ, SERGI ANDER": 90,
+    "OLIVARES FRANCISCO, IAN": 37,
+    "BAJO HERMOSO, ENEKO": 37,
+    "BRAGADO PANIAGUA, JULEN": 27,
+    "BAJO HERMOSO, IVAN": 27,
+    "LOPEZ IÑIGUEZ, ENAITZ": 24
+  },
+  "portero_local": "RELIEGOS FERNANDEZ, ALEJANDRO",
+  "portero_visitante": "FUENTES ORTEGA, ANDONI",
+  "dorsales_local": {
+    "RELIEGOS FERNANDEZ, ALEJANDRO": 13,
+    "MUR HERNANDEZ, GAEL": 2,
+    "GIL MORENO, ANDER": 4,
+    "JIN, YUZE": 6,
+    "MARTIN GONZALEZ, KIMETZ": 7,
+    "BEN NACEUR BEN NACEUR, OUALID": 8,
+    "MENA BERMEJO, AARÓN": 10,
+    "EL FARSSIOUI KASSOUH, HAMZA": 12,
+    "GONZALO VALBUENA, ENEKO": 14,
+    "REMESAL BERROCAL, HELDAI": 18,
+    "LOPEZ MARTINEZ, OINATZ": 21
+  },
+  "dorsales_visitante": {
+    "FUENTES ORTEGA, ANDONI": 13,
+    "NESPRAL GARCIA, ANER": 5,
+    "LOPEZ EZCURRA, LIER": 8,
+    "INCHAUSTI CENECORTA, OIHAN": 10,
+    "MODELO ALONSO, URTZI": 14,
+    "BEN YOUSSEF, NASSIM": 15,
+    "TABARES DE TORO, JULEN": 16,
+    "RUIZ PINEÑO, AIMAR": 17,
+    "LOPEZ DE EGUINOA FERNANDEZ, JURDAN": 19,
+    "ANGUIANO URIA, EÑAUT": 20,
+    "CASTEDO MENDEZ, SERGI ANDER": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
