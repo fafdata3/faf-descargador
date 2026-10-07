@@ -9,9 +9,9 @@
   "categoria": "Campeonato de España de Clubes Base Fútbol Sala Sub-10 Femenino (Grupo A)",
   "equipo_local": "ASOCIACIÓN XUVENIL SARAIBA DO MAR",
   "equipo_visitante": "C. D. LA ESPIGUERA FEMENINAS",
-  "goles_local": 1,
+  "goles_local": 3,
   "goles_visitante": 1,
-  "resultado": "D",
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "LAGOS PIEDRAS, ADRIAN",
@@ -27,25 +27,29 @@
       "minuto": 1,
       "jugador": "CASTILLO MARTIN, NICOL",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 11,
       "jugador": "SOLLA PADÍN, VALENTINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "TERAN ALONSO, VERA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "TERAN ALONSO, VERA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -145,5 +149,6 @@
     "ABDESELAM CAPARROS, ZAIRA": 12,
     "ALI ABDELKADER, ADHARA": 16
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
