@@ -9,9 +9,9 @@
   "categoria": "PlayOff por el Título Primera División Fútbol Sala Masculino (PlayOff por el Título Primera División)",
   "equipo_local": "JAEN PARAISO INTERIOR F.S.",
   "equipo_visitante": "ELPOZO MURCIA COSTA CÁLIDA",
-  "goles_local": 5,
-  "goles_visitante": 3,
-  "resultado": "W",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
   "arbitros": [
     "ÁRBITRO 1",
     "MARTINEZ GARCIA, DIEGO",
@@ -31,49 +31,57 @@
       "minuto": 5,
       "jugador": "GARCIA AGUILERA, RAFAEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 14,
       "jugador": "DOS SANTOS, RAFAEL",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 15,
       "jugador": "VIVAN, JOAO VITOR",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 20,
       "jugador": "MOYA HOYO, MIGUEL JESUS",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 24,
       "jugador": "GARCIA AGUILERA, RAFAEL",
       "equipo": "?",
-      "propia": true
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "DE MENDONCA MARQUES, MARCEL",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 41,
       "jugador": "ROSA, MATIAS SEBASTIAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 43,
       "jugador": "ROSA, MATIAS SEBASTIAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -232,6 +240,5 @@
   },
   "suspendidos": [
     "MARECO GALEANO, JULIO DAMIAN"
-  ],
-  "_marcador_widget": true
+  ]
 }
