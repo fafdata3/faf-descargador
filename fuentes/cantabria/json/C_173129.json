@@ -1,0 +1,258 @@
+{
+  "acta_id": "C_173129",
+  "filename": "Acta_C_173129.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 28,
+  "fecha": "20-04-2024",
+  "hora": "13:00",
+  "categoria": "TERCERA CADETE (GRUPO E)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO C",
+  "equipo_visitante": "VELARDE C.F. D",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZALEZ PULIDO, ALVARO"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 26,
+      "jugador": "SOLANA PELAZ, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "CASUSO IGLESIAS, IAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "GARCIA DIEGO PEREZ, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "CARRASCAL RUIZ, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "MEDINA RICO, MAICOL STIVEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 40,
+      "jugador": "CASUSO IGLESIAS, IAGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BLANCO VALENCIA, MANUEL ANGEL",
+  "entrenador_visitante": "DE LA TORRE PEREZ, ANGEL",
+  "segundo_entrenador_local": "HIERRO GOMEZ, MARCOS",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "Romano Gomez, Ismael",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "Romano Gomez, Ismael",
+  "delegado_equipo_visitante": "DA SILVA GONÇALVES, BRUNO FILIPE",
+  "titulares_local": [
+    "QUINTANA ABASCAL, MANUEL",
+    "TOMAS AJA, JAVIER",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "IGLESIAS MOLLEDA, CESAR",
+    "FERNANDEZ RUIZ, MARCO",
+    "HERRAN ALONSO, MARCO",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "SOLANA PELAZ, DANIEL",
+    "PRIETO GONZALEZ, ADRIAN",
+    "SANTANDER GOMEZ, DAVID",
+    "MAESTRO SAIZ, EZEQUIEL"
+  ],
+  "titulares_visitante": [
+    "LOPEZ PEREZ, GONZALO",
+    "MARTINEZ MARTINEZ, FRANCISCO",
+    "POSADA FERNANDEZ, RAUL",
+    "CASUSO IGLESIAS, IAGO",
+    "ANDRES MENA, MARCOS",
+    "CANCELA SUAREZ, OLIVER",
+    "ALAMO DIAZ, DIEGO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "DIEZ SANCHEZ, DENIS",
+    "DIEZ HERMOSA, SAUL",
+    "ALONSO GARCIA, DANIEL"
+  ],
+  "suplentes_local": [
+    "COZ SOTA, JAVIER",
+    "BARRERA LOPEZ, ANGEL MATEO",
+    "PEÑA MARTINEZ, DIEGO",
+    "MEDINA RICO, MAICOL STIVEN"
+  ],
+  "suplentes_visitante": [
+    "LAMILLAR ARCE, HECTOR",
+    "TABERNILLA GÓMEZ, GABRIEL",
+    "MIRON TUCA, ERIC SORIN",
+    "CARRASCAL RUIZ, IZAN",
+    "BOLADO PALACIO, ALVARO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "BOLADO PALACIO, ALVARO"
+  ],
+  "jugadores_local": [
+    "QUINTANA ABASCAL, MANUEL",
+    "TOMAS AJA, JAVIER",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "IGLESIAS MOLLEDA, CESAR",
+    "FERNANDEZ RUIZ, MARCO",
+    "HERRAN ALONSO, MARCO",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "SOLANA PELAZ, DANIEL",
+    "PRIETO GONZALEZ, ADRIAN",
+    "SANTANDER GOMEZ, DAVID",
+    "MAESTRO SAIZ, EZEQUIEL",
+    "COZ SOTA, JAVIER",
+    "MEDINA RICO, MAICOL STIVEN",
+    "PEÑA MARTINEZ, DIEGO",
+    "BARRERA LOPEZ, ANGEL MATEO"
+  ],
+  "jugadores_visitante": [
+    "LOPEZ PEREZ, GONZALO",
+    "MARTINEZ MARTINEZ, FRANCISCO",
+    "POSADA FERNANDEZ, RAUL",
+    "CASUSO IGLESIAS, IAGO",
+    "ANDRES MENA, MARCOS",
+    "CANCELA SUAREZ, OLIVER",
+    "ALAMO DIAZ, DIEGO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "DIEZ SANCHEZ, DENIS",
+    "DIEZ HERMOSA, SAUL",
+    "ALONSO GARCIA, DANIEL",
+    "CARRASCAL RUIZ, IZAN",
+    "TABERNILLA GÓMEZ, GABRIEL",
+    "MIRON TUCA, ERIC SORIN",
+    "LAMILLAR ARCE, HECTOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "COZ SOTA, JAVIER",
+      "sale": "QUINTANA ABASCAL, MANUEL"
+    },
+    {
+      "min": 40,
+      "entra": "MEDINA RICO, MAICOL STIVEN",
+      "sale": "TOMAS AJA, JAVIER"
+    },
+    {
+      "min": 55,
+      "entra": "PEÑA MARTINEZ, DIEGO",
+      "sale": "MAESTRO SAIZ, EZEQUIEL"
+    },
+    {
+      "min": 65,
+      "entra": "BARRERA LOPEZ, ANGEL MATEO",
+      "sale": "SANTANDER GOMEZ, DAVID"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "CARRASCAL RUIZ, IZAN",
+      "sale": "ALAMO DIAZ, DIEGO"
+    },
+    {
+      "min": 49,
+      "entra": "TABERNILLA GÓMEZ, GABRIEL",
+      "sale": "CANCELA SUAREZ, OLIVER"
+    },
+    {
+      "min": 60,
+      "entra": "MIRON TUCA, ERIC SORIN",
+      "sale": "DIEZ HERMOSA, SAUL"
+    },
+    {
+      "min": 70,
+      "entra": "LAMILLAR ARCE, HECTOR",
+      "sale": "CASUSO IGLESIAS, IAGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "QUINTANA ABASCAL, MANUEL": 40,
+    "TOMAS AJA, JAVIER": 40,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 90,
+    "IGLESIAS MOLLEDA, CESAR": 90,
+    "FERNANDEZ RUIZ, MARCO": 90,
+    "HERRAN ALONSO, MARCO": 90,
+    "GARCIA DIEGO PEREZ, ANGEL": 90,
+    "SOLANA PELAZ, DANIEL": 90,
+    "PRIETO GONZALEZ, ADRIAN": 90,
+    "SANTANDER GOMEZ, DAVID": 65,
+    "MAESTRO SAIZ, EZEQUIEL": 55,
+    "COZ SOTA, JAVIER": 50,
+    "MEDINA RICO, MAICOL STIVEN": 50,
+    "PEÑA MARTINEZ, DIEGO": 35,
+    "BARRERA LOPEZ, ANGEL MATEO": 25,
+    "LOPEZ PEREZ, GONZALO": 90,
+    "MARTINEZ MARTINEZ, FRANCISCO": 90,
+    "POSADA FERNANDEZ, RAUL": 90,
+    "CASUSO IGLESIAS, IAGO": 70,
+    "ANDRES MENA, MARCOS": 90,
+    "CANCELA SUAREZ, OLIVER": 49,
+    "ALAMO DIAZ, DIEGO": 40,
+    "MORENO QUINTANILLA, NICOLAS": 90,
+    "DIEZ SANCHEZ, DENIS": 90,
+    "DIEZ HERMOSA, SAUL": 60,
+    "ALONSO GARCIA, DANIEL": 90,
+    "CARRASCAL RUIZ, IZAN": 50,
+    "TABERNILLA GÓMEZ, GABRIEL": 41,
+    "MIRON TUCA, ERIC SORIN": 30,
+    "LAMILLAR ARCE, HECTOR": 20
+  },
+  "portero_local": "QUINTANA ABASCAL, MANUEL",
+  "portero_visitante": "LOPEZ PEREZ, GONZALO",
+  "dorsales_local": {
+    "QUINTANA ABASCAL, MANUEL": 13,
+    "TOMAS AJA, JAVIER": 3,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 4,
+    "IGLESIAS MOLLEDA, CESAR": 5,
+    "FERNANDEZ RUIZ, MARCO": 7,
+    "HERRAN ALONSO, MARCO": 8,
+    "GARCIA DIEGO PEREZ, ANGEL": 9,
+    "SOLANA PELAZ, DANIEL": 10,
+    "PRIETO GONZALEZ, ADRIAN": 11,
+    "SANTANDER GOMEZ, DAVID": 14,
+    "MAESTRO SAIZ, EZEQUIEL": 15
+  },
+  "dorsales_visitante": {
+    "LOPEZ PEREZ, GONZALO": 13,
+    "MARTINEZ MARTINEZ, FRANCISCO": 2,
+    "POSADA FERNANDEZ, RAUL": 5,
+    "CASUSO IGLESIAS, IAGO": 6,
+    "ANDRES MENA, MARCOS": 8,
+    "CANCELA SUAREZ, OLIVER": 9,
+    "ALAMO DIAZ, DIEGO": 10,
+    "MORENO QUINTANILLA, NICOLAS": 11,
+    "DIEZ SANCHEZ, DENIS": 12,
+    "DIEZ HERMOSA, SAUL": 14,
+    "ALONSO GARCIA, DANIEL": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
