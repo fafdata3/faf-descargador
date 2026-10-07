@@ -1,0 +1,264 @@
+{
+  "acta_id": "B_9974373",
+  "filename": "Acta_B_9974373.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 11,
+  "fecha": "04-01-2026",
+  "hora": "12:00",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 1)",
+  "equipo_local": "ORTUELLA",
+  "equipo_visitante": "SAN PEDRO A",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "BLEILA MEYARA, OMAR"
+  ],
+  "estadio": "OTXARTAGA-BERRI",
+  "ciudad": "Ortuella",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "PUELLES BARON, OLIVER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 12,
+      "jugador": "LEZIKA DE LA IGLESIA, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "ORDOÑEZ PULIDO, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "PUELLES BARON, OLIVER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "AGUIRRE CASTRO, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 78,
+      "jugador": "ERDOZAIN LOPEZ, ADUR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "VÁZQUEZ PONTES, CARLOS DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ERDOZAIN ETXEANDIA, JON",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTIN SANTISTEBAN, IRATI",
+  "delegado_equipo_visitante": "POCERO MOMOITIO, RUBEN",
+  "titulares_local": [
+    "MORIÑA RIVERA, AINGERU",
+    "SAGASTIZABAL GARCIA, TASIO",
+    "FERNANDEZ SEGADOR, XABIER",
+    "MESA YESA, OIER",
+    "PUELLES BARON, OLIVER",
+    "ERDOZAIN LOPEZ, ADUR",
+    "ALONSO-MARDONES ALVAREZ, JON",
+    "APARICIO ESTEBAN, JULEN",
+    "RODRIGUEZ RAMIREZ, IÑIGO",
+    "ZUGAZABEITIA FERNÁNDEZ, ALAIN",
+    "MARTIN ESPINO, AIMAR"
+  ],
+  "titulares_visitante": [
+    "ROJO POZA, ENEKO",
+    "VALERO QUINTANILLA, DANEL",
+    "EPIFAN PONCE, OSCAR ANDREI",
+    "LEZIKA DE LA IGLESIA, JON",
+    "FERNANDEZ HERNANDEZ, SERGIO",
+    "GARCIA GONZALEZ, ANER",
+    "VÁZQUEZ PONTES, CARLOS DANIEL",
+    "MARTÍN BALLINOTO, ALAIN",
+    "PORTAL ECHANIZ, JULEN",
+    "ORDOÑEZ PULIDO, ANDER",
+    "MURCIA CASANUEVA, UNAI"
+  ],
+  "suplentes_local": [
+    "ALCALDE ORTE, NAHIEL",
+    "NOVELLE LLORENTE, ENEKO",
+    "URQUIZA SAEZ, JULEN",
+    "OVIEDO ALAMEDA, JOKIN",
+    "ALCORTA MEDINA, ARITZ"
+  ],
+  "suplentes_visitante": [
+    "MAROUAN AFELLAD, ASSAD",
+    "TELLO DE JESÚS, OIER",
+    "SANCHEZ GOMES, IKER",
+    "CAINZOS PEREZ, ENEKO",
+    "PORRES SALAZAR, AIMAR",
+    "AGUIRRE CASTRO, UNAI"
+  ],
+  "convocados_sin_jugar_local": [
+    "ALCALDE ORTE, NAHIEL",
+    "OVIEDO ALAMEDA, JOKIN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SANCHEZ GOMES, IKER",
+    "CAINZOS PEREZ, ENEKO"
+  ],
+  "jugadores_local": [
+    "MORIÑA RIVERA, AINGERU",
+    "SAGASTIZABAL GARCIA, TASIO",
+    "FERNANDEZ SEGADOR, XABIER",
+    "MESA YESA, OIER",
+    "PUELLES BARON, OLIVER",
+    "ERDOZAIN LOPEZ, ADUR",
+    "ALONSO-MARDONES ALVAREZ, JON",
+    "APARICIO ESTEBAN, JULEN",
+    "RODRIGUEZ RAMIREZ, IÑIGO",
+    "ZUGAZABEITIA FERNÁNDEZ, ALAIN",
+    "MARTIN ESPINO, AIMAR",
+    "ALCORTA MEDINA, ARITZ",
+    "NOVELLE LLORENTE, ENEKO",
+    "URQUIZA SAEZ, JULEN"
+  ],
+  "jugadores_visitante": [
+    "ROJO POZA, ENEKO",
+    "VALERO QUINTANILLA, DANEL",
+    "EPIFAN PONCE, OSCAR ANDREI",
+    "LEZIKA DE LA IGLESIA, JON",
+    "FERNANDEZ HERNANDEZ, SERGIO",
+    "GARCIA GONZALEZ, ANER",
+    "VÁZQUEZ PONTES, CARLOS DANIEL",
+    "MARTÍN BALLINOTO, ALAIN",
+    "PORTAL ECHANIZ, JULEN",
+    "ORDOÑEZ PULIDO, ANDER",
+    "MURCIA CASANUEVA, UNAI",
+    "PORRES SALAZAR, AIMAR",
+    "AGUIRRE CASTRO, UNAI",
+    "MAROUAN AFELLAD, ASSAD",
+    "TELLO DE JESÚS, OIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "ALCORTA MEDINA, ARITZ",
+      "sale": "MARTIN ESPINO, AIMAR"
+    },
+    {
+      "min": 52,
+      "entra": "NOVELLE LLORENTE, ENEKO",
+      "sale": "MESA YESA, OIER"
+    },
+    {
+      "min": 79,
+      "entra": "URQUIZA SAEZ, JULEN",
+      "sale": "RODRIGUEZ RAMIREZ, IÑIGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "PORRES SALAZAR, AIMAR",
+      "sale": "MURCIA CASANUEVA, UNAI"
+    },
+    {
+      "min": 53,
+      "entra": "AGUIRRE CASTRO, UNAI",
+      "sale": "GARCIA GONZALEZ, ANER"
+    },
+    {
+      "min": 75,
+      "entra": "MAROUAN AFELLAD, ASSAD",
+      "sale": "FERNANDEZ HERNANDEZ, SERGIO"
+    },
+    {
+      "min": 75,
+      "entra": "TELLO DE JESÚS, OIER",
+      "sale": "PORTAL ECHANIZ, JULEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "MORIÑA RIVERA, AINGERU": 90,
+    "SAGASTIZABAL GARCIA, TASIO": 90,
+    "FERNANDEZ SEGADOR, XABIER": 90,
+    "MESA YESA, OIER": 52,
+    "PUELLES BARON, OLIVER": 90,
+    "ERDOZAIN LOPEZ, ADUR": 90,
+    "ALONSO-MARDONES ALVAREZ, JON": 90,
+    "APARICIO ESTEBAN, JULEN": 90,
+    "RODRIGUEZ RAMIREZ, IÑIGO": 79,
+    "ZUGAZABEITIA FERNÁNDEZ, ALAIN": 90,
+    "MARTIN ESPINO, AIMAR": 40,
+    "ALCORTA MEDINA, ARITZ": 50,
+    "NOVELLE LLORENTE, ENEKO": 38,
+    "URQUIZA SAEZ, JULEN": 11,
+    "ROJO POZA, ENEKO": 90,
+    "VALERO QUINTANILLA, DANEL": 90,
+    "EPIFAN PONCE, OSCAR ANDREI": 90,
+    "LEZIKA DE LA IGLESIA, JON": 90,
+    "FERNANDEZ HERNANDEZ, SERGIO": 75,
+    "GARCIA GONZALEZ, ANER": 53,
+    "VÁZQUEZ PONTES, CARLOS DANIEL": 90,
+    "MARTÍN BALLINOTO, ALAIN": 90,
+    "PORTAL ECHANIZ, JULEN": 75,
+    "ORDOÑEZ PULIDO, ANDER": 90,
+    "MURCIA CASANUEVA, UNAI": 40,
+    "PORRES SALAZAR, AIMAR": 50,
+    "AGUIRRE CASTRO, UNAI": 37,
+    "MAROUAN AFELLAD, ASSAD": 15,
+    "TELLO DE JESÚS, OIER": 15
+  },
+  "portero_local": "MORIÑA RIVERA, AINGERU",
+  "portero_visitante": "ROJO POZA, ENEKO",
+  "dorsales_local": {
+    "MORIÑA RIVERA, AINGERU": 1,
+    "SAGASTIZABAL GARCIA, TASIO": 3,
+    "FERNANDEZ SEGADOR, XABIER": 4,
+    "MESA YESA, OIER": 5,
+    "PUELLES BARON, OLIVER": 7,
+    "ERDOZAIN LOPEZ, ADUR": 8,
+    "ALONSO-MARDONES ALVAREZ, JON": 9,
+    "APARICIO ESTEBAN, JULEN": 11,
+    "RODRIGUEZ RAMIREZ, IÑIGO": 20,
+    "ZUGAZABEITIA FERNÁNDEZ, ALAIN": 22,
+    "MARTIN ESPINO, AIMAR": 24
+  },
+  "dorsales_visitante": {
+    "ROJO POZA, ENEKO": 1,
+    "VALERO QUINTANILLA, DANEL": 2,
+    "EPIFAN PONCE, OSCAR ANDREI": 5,
+    "LEZIKA DE LA IGLESIA, JON": 7,
+    "FERNANDEZ HERNANDEZ, SERGIO": 8,
+    "GARCIA GONZALEZ, ANER": 9,
+    "VÁZQUEZ PONTES, CARLOS DANIEL": 10,
+    "MARTÍN BALLINOTO, ALAIN": 15,
+    "PORTAL ECHANIZ, JULEN": 18,
+    "ORDOÑEZ PULIDO, ANDER": 20,
+    "MURCIA CASANUEVA, UNAI": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
