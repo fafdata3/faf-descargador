@@ -1,0 +1,285 @@
+{
+  "acta_id": "N_70674219",
+  "filename": "Acta_N_70674219.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "13-12-2025",
+  "hora": "16:00",
+  "categoria": "Division de Honor Juvenil (Grupo 1)",
+  "equipo_local": "TSK ROCES",
+  "equipo_visitante": "REAL OVIEDO",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ÁRBITRO",
+    "GARCÍA RIESGO, FRANCISCO",
+    "ÁRBITRO ASISTENTE",
+    "COSMA HAIDUC, PATRICIA BIANCA",
+    "ÁRBITRO ASISTENTE",
+    "SANTOS JUANES GALACHE, PABLO"
+  ],
+  "estadio": "COVADONGA (H.Sintetica)",
+  "ciudad": "Gijón",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "ESPAÑA RODRIGUEZ, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 23,
+      "jugador": "ÁLVAREZ RABANAL, VÍCTOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 22,
+      "jugador": "ALVAREZ LUNA, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "MARQUES PEREZ, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "MARTÍNEZ FERNÁNDEZ, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "RODRIGUEZ RODRIGUEZ, ELIAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "FERNANDEZ GOMEZ, FRANCISCO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "TORRES CUESTA, PABLO ALBERTO",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "PARTIDA LOPEZ, JOSE LUIS",
+  "titulares_local": [
+    "CARCEDO DIAZ, DIEGO",
+    "PAJARES ALVAREZ, TEDDY",
+    "FERNANDEZ DEL BLANCO, PABLO",
+    "BARROSO ARANGO, MARCOS",
+    "ALVAREZ LUNA, ALVARO",
+    "MARQUES PEREZ, ADRIAN",
+    "PALACIO GARCIA, NACHO",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "ÁLVAREZ RABANAL, VÍCTOR",
+    "PACO SOLIS, PABLO",
+    "CASADO FERNANDEZ, ADRIAN"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ SANCHEZ, ALVARO",
+    "RODRIGUEZ RODRIGUEZ, ELIAS",
+    "FAES MENENDEZ-CASTAÑEDO, JAIME",
+    "SANCHEZ HUERGO, MARCOS",
+    "CONDE MENÉNDEZ, ANGEL",
+    "MARTÍNEZ FERNÁNDEZ, DIEGO",
+    "LLANA PEREZ, PABLO",
+    "TORRON ROCES, ALVARO",
+    "ESPAÑA RODRIGUEZ, ALVARO",
+    "ALVAREZ MARQUÉS, MATEO",
+    "LOPEZ DIAZ, PELAYO"
+  ],
+  "suplentes_local": [
+    "HUETE CASTRO, RUBEN",
+    "TRAVIESA CUELI, ADRIAN",
+    "ARGANZA GONZALEZ, DANIEL",
+    "DIAZ WEI, DARIO",
+    "PEREIRA VACAS, PABLO",
+    "COFIÑO CORRAL, JAIRO",
+    "ALVAREZ ALVAREZ, MATEO JOSE"
+  ],
+  "suplentes_visitante": [
+    "GUTIERREZ LARRALDE, RAUL",
+    "ALVAREZ DIAS, LUCAS",
+    "ALVAREZ PALACIO, HUGO",
+    "MADERA FERNANDEZ, PABLO",
+    "RODRIGUEZ CABRERA, ASUR",
+    "CANO CASTRO, SERGIO",
+    "FERNANDEZ GATON, PELAYO"
+  ],
+  "convocados_sin_jugar_local": [
+    "HUETE CASTRO, RUBEN",
+    "ALVAREZ ALVAREZ, MATEO JOSE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GUTIERREZ LARRALDE, RAUL",
+    "ALVAREZ DIAS, LUCAS"
+  ],
+  "jugadores_local": [
+    "CARCEDO DIAZ, DIEGO",
+    "PAJARES ALVAREZ, TEDDY",
+    "FERNANDEZ DEL BLANCO, PABLO",
+    "BARROSO ARANGO, MARCOS",
+    "ALVAREZ LUNA, ALVARO",
+    "MARQUES PEREZ, ADRIAN",
+    "PALACIO GARCIA, NACHO",
+    "FERNANDEZ FERNANDEZ, IKER",
+    "ÁLVAREZ RABANAL, VÍCTOR",
+    "PACO SOLIS, PABLO",
+    "CASADO FERNANDEZ, ADRIAN",
+    "DIAZ WEI, DARIO",
+    "ARGANZA GONZALEZ, DANIEL",
+    "COFIÑO CORRAL, JAIRO",
+    "PEREIRA VACAS, PABLO",
+    "TRAVIESA CUELI, ADRIAN"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ SANCHEZ, ALVARO",
+    "RODRIGUEZ RODRIGUEZ, ELIAS",
+    "FAES MENENDEZ-CASTAÑEDO, JAIME",
+    "SANCHEZ HUERGO, MARCOS",
+    "CONDE MENÉNDEZ, ANGEL",
+    "MARTÍNEZ FERNÁNDEZ, DIEGO",
+    "LLANA PEREZ, PABLO",
+    "TORRON ROCES, ALVARO",
+    "ESPAÑA RODRIGUEZ, ALVARO",
+    "ALVAREZ MARQUÉS, MATEO",
+    "LOPEZ DIAZ, PELAYO",
+    "FERNANDEZ GATON, PELAYO",
+    "CANO CASTRO, SERGIO",
+    "ALVAREZ PALACIO, HUGO",
+    "MADERA FERNANDEZ, PABLO",
+    "RODRIGUEZ CABRERA, ASUR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "DIAZ WEI, DARIO",
+      "sale": "FERNANDEZ FERNANDEZ, IKER"
+    },
+    {
+      "min": 59,
+      "entra": "ARGANZA GONZALEZ, DANIEL",
+      "sale": "PACO SOLIS, PABLO"
+    },
+    {
+      "min": 69,
+      "entra": "COFIÑO CORRAL, JAIRO",
+      "sale": "ÁLVAREZ RABANAL, VÍCTOR"
+    },
+    {
+      "min": 88,
+      "entra": "PEREIRA VACAS, PABLO",
+      "sale": "CASADO FERNANDEZ, ADRIAN"
+    },
+    {
+      "min": 88,
+      "entra": "TRAVIESA CUELI, ADRIAN",
+      "sale": "PAJARES ALVAREZ, TEDDY"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 65,
+      "entra": "FERNANDEZ GATON, PELAYO",
+      "sale": "FAES MENENDEZ-CASTAÑEDO, JAIME"
+    },
+    {
+      "min": 65,
+      "entra": "CANO CASTRO, SERGIO",
+      "sale": "LOPEZ DIAZ, PELAYO"
+    },
+    {
+      "min": 65,
+      "entra": "ALVAREZ PALACIO, HUGO",
+      "sale": "ALVAREZ MARQUÉS, MATEO"
+    },
+    {
+      "min": 72,
+      "entra": "MADERA FERNANDEZ, PABLO",
+      "sale": "MARTÍNEZ FERNÁNDEZ, DIEGO"
+    },
+    {
+      "min": 72,
+      "entra": "RODRIGUEZ CABRERA, ASUR",
+      "sale": "CONDE MENÉNDEZ, ANGEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "CARCEDO DIAZ, DIEGO": 90,
+    "PAJARES ALVAREZ, TEDDY": 88,
+    "FERNANDEZ DEL BLANCO, PABLO": 90,
+    "BARROSO ARANGO, MARCOS": 90,
+    "ALVAREZ LUNA, ALVARO": 90,
+    "MARQUES PEREZ, ADRIAN": 90,
+    "PALACIO GARCIA, NACHO": 90,
+    "FERNANDEZ FERNANDEZ, IKER": 59,
+    "ÁLVAREZ RABANAL, VÍCTOR": 69,
+    "PACO SOLIS, PABLO": 59,
+    "CASADO FERNANDEZ, ADRIAN": 88,
+    "RODRIGUEZ SANCHEZ, ALVARO": 90,
+    "RODRIGUEZ RODRIGUEZ, ELIAS": 90,
+    "FAES MENENDEZ-CASTAÑEDO, JAIME": 65,
+    "SANCHEZ HUERGO, MARCOS": 90,
+    "CONDE MENÉNDEZ, ANGEL": 72,
+    "MARTÍNEZ FERNÁNDEZ, DIEGO": 72,
+    "LLANA PEREZ, PABLO": 90,
+    "TORRON ROCES, ALVARO": 90,
+    "ESPAÑA RODRIGUEZ, ALVARO": 90,
+    "ALVAREZ MARQUÉS, MATEO": 65,
+    "LOPEZ DIAZ, PELAYO": 65,
+    "DIAZ WEI, DARIO": 31,
+    "ARGANZA GONZALEZ, DANIEL": 31,
+    "COFIÑO CORRAL, JAIRO": 21,
+    "PEREIRA VACAS, PABLO": 2,
+    "TRAVIESA CUELI, ADRIAN": 2,
+    "FERNANDEZ GATON, PELAYO": 25,
+    "CANO CASTRO, SERGIO": 25,
+    "ALVAREZ PALACIO, HUGO": 25,
+    "MADERA FERNANDEZ, PABLO": 18,
+    "RODRIGUEZ CABRERA, ASUR": 18
+  },
+  "portero_local": "CARCEDO DIAZ, DIEGO",
+  "portero_visitante": "RODRIGUEZ SANCHEZ, ALVARO",
+  "dorsales_local": {
+    "CARCEDO DIAZ, DIEGO": 1,
+    "PAJARES ALVAREZ, TEDDY": 2,
+    "FERNANDEZ DEL BLANCO, PABLO": 3,
+    "BARROSO ARANGO, MARCOS": 4,
+    "ALVAREZ LUNA, ALVARO": 5,
+    "MARQUES PEREZ, ADRIAN": 6,
+    "PALACIO GARCIA, NACHO": 7,
+    "FERNANDEZ FERNANDEZ, IKER": 8,
+    "ÁLVAREZ RABANAL, VÍCTOR": 9,
+    "PACO SOLIS, PABLO": 10,
+    "CASADO FERNANDEZ, ADRIAN": 11
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ SANCHEZ, ALVARO": 13,
+    "RODRIGUEZ RODRIGUEZ, ELIAS": 5,
+    "FAES MENENDEZ-CASTAÑEDO, JAIME": 6,
+    "SANCHEZ HUERGO, MARCOS": 7,
+    "CONDE MENÉNDEZ, ANGEL": 10,
+    "MARTÍNEZ FERNÁNDEZ, DIEGO": 14,
+    "LLANA PEREZ, PABLO": 15,
+    "TORRON ROCES, ALVARO": 17,
+    "ESPAÑA RODRIGUEZ, ALVARO": 23,
+    "ALVAREZ MARQUÉS, MATEO": 28,
+    "LOPEZ DIAZ, PELAYO": 30
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
