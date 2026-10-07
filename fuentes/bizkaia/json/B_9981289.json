@@ -1,0 +1,230 @@
+{
+  "acta_id": "B_9981289",
+  "filename": "Acta_B_9981289.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 15,
+  "fecha": "17-01-2026",
+  "hora": "13:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "LEIOA C",
+  "equipo_visitante": "MSC BUTROE A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "DELGADO FRÍAS, GONZALO"
+  ],
+  "estadio": "SARRIENA 1",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 18,
+      "jugador": "CASADO CARMONA, IVÁN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "GARCIA CUEVAS, EDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "ESCONDRILLAS RUIZ DE GORDEJUELA, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "ELORDUY ARTECHE, TELMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MORAL ARES, GORKA",
+  "entrenador_visitante": "ELORRIAGA SOBRON, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BARRENECHEA PEREA, ASIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BARRENECHEA PEREA, ASIER",
+  "delegado_equipo_visitante": "ESCONDRILLAS SOLERA, JON KOLDO",
+  "titulares_local": [
+    "GALACHE DIEZ, ANDER",
+    "BARRENECHEA PEREA, JON",
+    "ALONSO FERNANDEZ, MARKEL",
+    "SAN MARTIN INTXAUSTI, ANDER",
+    "LEONARDO ETXEBESTE, JULEN",
+    "GARCIA CUEVAS, EDER",
+    "GONZALO SAMPELAYO, ENEKO",
+    "PERALLOS URUEÑA, OIER",
+    "CASADO CARMONA, IVÁN",
+    "FERNANDEZ LERMA, JULEN",
+    "BOMBIN LLANOS, AINGERU"
+  ],
+  "titulares_visitante": [
+    "LEGARRETA BILBAO, ENEKO",
+    "PALOMO GOMILA, ENDIKA",
+    "BARBOSA BILBAO, LIER",
+    "ELORDUY ARTECHE, TELMO",
+    "GEZURAGA MARDARAS, INAR",
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON",
+    "DUBININ KOUKOL, DANIEL DAMIAN",
+    "GARCIA GONZALEZ, ENDIKA",
+    "CORDOBA LADINO, EMMANUEL",
+    "EGUIÑO ARRIETA, UNAI",
+    "BRYSON CARDIM, CHRISTIAN"
+  ],
+  "suplentes_local": [
+    "JIMÉNEZ IGLESIAS, ANER",
+    "MINGO LECUE, ALAIN",
+    "ANTIZA ARRANZ, GALDER",
+    "ESPIGA BAÑARES, ADRIAN",
+    "NEGRETE PIZARRO, PABLO",
+    "CASTRILLO MATEO, IBON",
+    "NAÑEZ CAMPO, YEISSON"
+  ],
+  "suplentes_visitante": [
+    "RUIZ CONGIL, GORKA"
+  ],
+  "convocados_sin_jugar_local": [
+    "JIMÉNEZ IGLESIAS, ANER",
+    "ESPIGA BAÑARES, ADRIAN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GALACHE DIEZ, ANDER",
+    "BARRENECHEA PEREA, JON",
+    "ALONSO FERNANDEZ, MARKEL",
+    "SAN MARTIN INTXAUSTI, ANDER",
+    "LEONARDO ETXEBESTE, JULEN",
+    "GARCIA CUEVAS, EDER",
+    "GONZALO SAMPELAYO, ENEKO",
+    "PERALLOS URUEÑA, OIER",
+    "CASADO CARMONA, IVÁN",
+    "FERNANDEZ LERMA, JULEN",
+    "BOMBIN LLANOS, AINGERU",
+    "MINGO LECUE, ALAIN",
+    "NAÑEZ CAMPO, YEISSON",
+    "ANTIZA ARRANZ, GALDER",
+    "NEGRETE PIZARRO, PABLO",
+    "CASTRILLO MATEO, IBON"
+  ],
+  "jugadores_visitante": [
+    "LEGARRETA BILBAO, ENEKO",
+    "PALOMO GOMILA, ENDIKA",
+    "BARBOSA BILBAO, LIER",
+    "ELORDUY ARTECHE, TELMO",
+    "GEZURAGA MARDARAS, INAR",
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON",
+    "DUBININ KOUKOL, DANIEL DAMIAN",
+    "GARCIA GONZALEZ, ENDIKA",
+    "CORDOBA LADINO, EMMANUEL",
+    "EGUIÑO ARRIETA, UNAI",
+    "BRYSON CARDIM, CHRISTIAN",
+    "RUIZ CONGIL, GORKA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "MINGO LECUE, ALAIN",
+      "sale": "FERNANDEZ LERMA, JULEN"
+    },
+    {
+      "min": 56,
+      "entra": "NAÑEZ CAMPO, YEISSON",
+      "sale": "LEONARDO ETXEBESTE, JULEN"
+    },
+    {
+      "min": 62,
+      "entra": "ANTIZA ARRANZ, GALDER",
+      "sale": "BOMBIN LLANOS, AINGERU"
+    },
+    {
+      "min": 62,
+      "entra": "NEGRETE PIZARRO, PABLO",
+      "sale": "GONZALO SAMPELAYO, ENEKO"
+    },
+    {
+      "min": 70,
+      "entra": "CASTRILLO MATEO, IBON",
+      "sale": "CASADO CARMONA, IVÁN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "RUIZ CONGIL, GORKA",
+      "sale": "GARCIA GONZALEZ, ENDIKA"
+    }
+  ],
+  "minutos_jugadores": {
+    "GALACHE DIEZ, ANDER": 90,
+    "BARRENECHEA PEREA, JON": 90,
+    "ALONSO FERNANDEZ, MARKEL": 90,
+    "SAN MARTIN INTXAUSTI, ANDER": 90,
+    "LEONARDO ETXEBESTE, JULEN": 56,
+    "GARCIA CUEVAS, EDER": 90,
+    "GONZALO SAMPELAYO, ENEKO": 62,
+    "PERALLOS URUEÑA, OIER": 90,
+    "CASADO CARMONA, IVÁN": 70,
+    "FERNANDEZ LERMA, JULEN": 56,
+    "BOMBIN LLANOS, AINGERU": 62,
+    "MINGO LECUE, ALAIN": 34,
+    "NAÑEZ CAMPO, YEISSON": 34,
+    "ANTIZA ARRANZ, GALDER": 28,
+    "NEGRETE PIZARRO, PABLO": 28,
+    "CASTRILLO MATEO, IBON": 20,
+    "LEGARRETA BILBAO, ENEKO": 90,
+    "PALOMO GOMILA, ENDIKA": 90,
+    "BARBOSA BILBAO, LIER": 90,
+    "ELORDUY ARTECHE, TELMO": 90,
+    "GEZURAGA MARDARAS, INAR": 90,
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON": 90,
+    "DUBININ KOUKOL, DANIEL DAMIAN": 90,
+    "GARCIA GONZALEZ, ENDIKA": 53,
+    "CORDOBA LADINO, EMMANUEL": 90,
+    "EGUIÑO ARRIETA, UNAI": 90,
+    "BRYSON CARDIM, CHRISTIAN": 90,
+    "RUIZ CONGIL, GORKA": 37
+  },
+  "portero_local": "GALACHE DIEZ, ANDER",
+  "portero_visitante": "LEGARRETA BILBAO, ENEKO",
+  "dorsales_local": {
+    "GALACHE DIEZ, ANDER": 1,
+    "BARRENECHEA PEREA, JON": 2,
+    "ALONSO FERNANDEZ, MARKEL": 3,
+    "SAN MARTIN INTXAUSTI, ANDER": 5,
+    "LEONARDO ETXEBESTE, JULEN": 8,
+    "GARCIA CUEVAS, EDER": 10,
+    "GONZALO SAMPELAYO, ENEKO": 11,
+    "PERALLOS URUEÑA, OIER": 12,
+    "CASADO CARMONA, IVÁN": 14,
+    "FERNANDEZ LERMA, JULEN": 17,
+    "BOMBIN LLANOS, AINGERU": 19
+  },
+  "dorsales_visitante": {
+    "LEGARRETA BILBAO, ENEKO": 13,
+    "PALOMO GOMILA, ENDIKA": 5,
+    "BARBOSA BILBAO, LIER": 9,
+    "ELORDUY ARTECHE, TELMO": 10,
+    "GEZURAGA MARDARAS, INAR": 11,
+    "ESCONDRILLAS RUIZ DE GORDEJUELA, JON": 12,
+    "DUBININ KOUKOL, DANIEL DAMIAN": 17,
+    "GARCIA GONZALEZ, ENDIKA": 18,
+    "CORDOBA LADINO, EMMANUEL": 19,
+    "EGUIÑO ARRIETA, UNAI": 21,
+    "BRYSON CARDIM, CHRISTIAN": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
