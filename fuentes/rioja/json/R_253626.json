@@ -9,7 +9,7 @@
   "categoria": "SENIOR FÚTBOL SALA - 1ª FASE (Grupo 1)",
   "equipo_local": "YAGUE Rest. La Portalada",
   "equipo_visitante": "SPARTA HARENSE B",
-  "goles_local": 10,
+  "goles_local": 4,
   "goles_visitante": 0,
   "resultado": "W",
   "arbitros": [
@@ -23,78 +23,74 @@
       "minuto": 4,
       "jugador": "DUVAL JIMENO, ISRAEL",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 15,
       "jugador": "MENDOZA TORRES, SAMUEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 20,
       "jugador": "DUVAL JIMENO, ISRAEL",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "JAVIER ALONSO, ALVARO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 33,
       "jugador": "ESTRADA JIMENEZ, DANIEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 37,
       "jugador": "CHAMBO SERRANO, OMAR",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "MENDOZA TORRES, AARON",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": true
     },
     {
       "minuto": 41,
       "jugador": "MENDOZA TORRES, SAMUEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 47,
       "jugador": "CHAMBO SERRANO, OMAR",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 59,
       "jugador": "MARTINEZ BARRIOS, ANGEL",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
-    {
-      "minuto": 23,
-      "jugador": "CHAMBO SERRANO, OMAR",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 23,
-      "jugador": "SPARTA HARENSE B",
-      "equipo": "?",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
     {
       "minuto": 39,
       "jugador": "RAMIREZ SERNA, JOHAN ANDRES",
@@ -213,6 +209,5 @@
     "VILLACIS PANCHI, ALEX JOEL": 7,
     "PORRES RAYA, ALBERTO": 9
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
