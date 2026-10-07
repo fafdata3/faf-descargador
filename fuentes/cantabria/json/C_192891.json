@@ -1,0 +1,260 @@
+{
+  "acta_id": "C_192891",
+  "filename": "Acta_C_192891.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 19,
+  "fecha": "25-01-2025",
+  "hora": "12:15",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "S.D. TEXTIL ESCUDO A",
+  "equipo_visitante": "C.D. TROPEZON A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "REVILLA GÓMEZ, MARIO"
+  ],
+  "estadio": "Cabezón de la Sal",
+  "ciudad": "Cabezón De La Sal",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "DIPSE, AUGUSTIN VALENTIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "blanco gonzalez, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "BARREDA ARCE, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "CASO SIERRA, JOEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "CORPA PEREDA, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "MANTILLA ANDRES, MATEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "SAINZ GONZALEZ, VALENTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GUIJARRO GOMEZ, ALEJANDRO",
+  "entrenador_visitante": "MONTES VACAS, ANGEL L",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "CANO MANTECON, IVAN",
+  "titulares_local": [
+    "COBO MACHO, MATIAS",
+    "CORPA PEREDA, MARIO",
+    "SAIZ BORBOLLA, PEDRO",
+    "CADAVIECO IBAÑEZ, ENRIQUE",
+    "CALDERON ELOURAD, HUGO",
+    "BARREDA ARCE, NICOLAS",
+    "GOMEZ BEJARANO, ADRIAN",
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+    "ACEBAL PALII, LEO",
+    "MANTILLA ANDRES, MATEO",
+    "ECHEVARRIA PACHECO, JAVIER"
+  ],
+  "titulares_visitante": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "SORDO GOMEZ, ISMAEL",
+    "EZZAKRAOUI, OSAMA",
+    "SAINZ GONZALEZ, VALENTIN",
+    "MARTIN RUIZ, PABLO",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "GONZALEZ SAIZ, IKER",
+    "DIAZ CORONA, MARCOS",
+    "PEREZ PINILLA, EMILIO",
+    "TERAN RUIZ, GERARDO",
+    "GALLO POZUETA, ALVARO"
+  ],
+  "suplentes_local": [
+    "CELIS CELIS, RUBEN",
+    "CASO SIERRA, JOEL",
+    "Perez Rubin, Ismael",
+    "GONZALEZ GARCIA, ALEX"
+  ],
+  "suplentes_visitante": [
+    "LOPEZ CAYON, BORJA",
+    "SAMANO TAZON, MANUEL",
+    "blanco gonzalez, MARIO",
+    "DE DIEGO RUBAYO, SAUL",
+    "NOUKEU BALBAS, THIERRY STEVE"
+  ],
+  "convocados_sin_jugar_local": [
+    "CELIS CELIS, RUBEN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "LOPEZ CAYON, BORJA"
+  ],
+  "jugadores_local": [
+    "COBO MACHO, MATIAS",
+    "CORPA PEREDA, MARIO",
+    "SAIZ BORBOLLA, PEDRO",
+    "CADAVIECO IBAÑEZ, ENRIQUE",
+    "CALDERON ELOURAD, HUGO",
+    "BARREDA ARCE, NICOLAS",
+    "GOMEZ BEJARANO, ADRIAN",
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+    "ACEBAL PALII, LEO",
+    "MANTILLA ANDRES, MATEO",
+    "ECHEVARRIA PACHECO, JAVIER",
+    "Perez Rubin, Ismael",
+    "CASO SIERRA, JOEL",
+    "GONZALEZ GARCIA, ALEX"
+  ],
+  "jugadores_visitante": [
+    "DE LA FUENTE CAYUSO, NICOLAS",
+    "SORDO GOMEZ, ISMAEL",
+    "EZZAKRAOUI, OSAMA",
+    "SAINZ GONZALEZ, VALENTIN",
+    "MARTIN RUIZ, PABLO",
+    "DIPSE, AUGUSTIN VALENTIN",
+    "GONZALEZ SAIZ, IKER",
+    "DIAZ CORONA, MARCOS",
+    "PEREZ PINILLA, EMILIO",
+    "TERAN RUIZ, GERARDO",
+    "GALLO POZUETA, ALVARO",
+    "SAMANO TAZON, MANUEL",
+    "blanco gonzalez, MARIO",
+    "NOUKEU BALBAS, THIERRY STEVE",
+    "DE DIEGO RUBAYO, SAUL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "Perez Rubin, Ismael",
+      "sale": "ECHEVARRIA PACHECO, JAVIER"
+    },
+    {
+      "min": 63,
+      "entra": "CASO SIERRA, JOEL",
+      "sale": "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL"
+    },
+    {
+      "min": 71,
+      "entra": "GONZALEZ GARCIA, ALEX",
+      "sale": "CALDERON ELOURAD, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "SAMANO TAZON, MANUEL",
+      "sale": "GALLO POZUETA, ALVARO"
+    },
+    {
+      "min": 50,
+      "entra": "blanco gonzalez, MARIO",
+      "sale": "GONZALEZ SAIZ, IKER"
+    },
+    {
+      "min": 60,
+      "entra": "NOUKEU BALBAS, THIERRY STEVE",
+      "sale": "SAINZ GONZALEZ, VALENTIN"
+    },
+    {
+      "min": 60,
+      "entra": "DE DIEGO RUBAYO, SAUL",
+      "sale": "SORDO GOMEZ, ISMAEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "COBO MACHO, MATIAS": 90,
+    "CORPA PEREDA, MARIO": 90,
+    "SAIZ BORBOLLA, PEDRO": 90,
+    "CADAVIECO IBAÑEZ, ENRIQUE": 90,
+    "CALDERON ELOURAD, HUGO": 71,
+    "BARREDA ARCE, NICOLAS": 90,
+    "GOMEZ BEJARANO, ADRIAN": 90,
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL": 63,
+    "ACEBAL PALII, LEO": 90,
+    "MANTILLA ANDRES, MATEO": 90,
+    "ECHEVARRIA PACHECO, JAVIER": 41,
+    "Perez Rubin, Ismael": 49,
+    "CASO SIERRA, JOEL": 27,
+    "GONZALEZ GARCIA, ALEX": 19,
+    "DE LA FUENTE CAYUSO, NICOLAS": 90,
+    "SORDO GOMEZ, ISMAEL": 60,
+    "EZZAKRAOUI, OSAMA": 90,
+    "SAINZ GONZALEZ, VALENTIN": 60,
+    "MARTIN RUIZ, PABLO": 90,
+    "DIPSE, AUGUSTIN VALENTIN": 90,
+    "GONZALEZ SAIZ, IKER": 50,
+    "DIAZ CORONA, MARCOS": 90,
+    "PEREZ PINILLA, EMILIO": 90,
+    "TERAN RUIZ, GERARDO": 90,
+    "GALLO POZUETA, ALVARO": 50,
+    "SAMANO TAZON, MANUEL": 40,
+    "blanco gonzalez, MARIO": 40,
+    "NOUKEU BALBAS, THIERRY STEVE": 30,
+    "DE DIEGO RUBAYO, SAUL": 30
+  },
+  "portero_local": "COBO MACHO, MATIAS",
+  "portero_visitante": "DE LA FUENTE CAYUSO, NICOLAS",
+  "dorsales_local": {
+    "COBO MACHO, MATIAS": 1,
+    "CORPA PEREDA, MARIO": 4,
+    "SAIZ BORBOLLA, PEDRO": 5,
+    "CADAVIECO IBAÑEZ, ENRIQUE": 6,
+    "CALDERON ELOURAD, HUGO": 8,
+    "BARREDA ARCE, NICOLAS": 9,
+    "GOMEZ BEJARANO, ADRIAN": 10,
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL": 16,
+    "ACEBAL PALII, LEO": 17,
+    "MANTILLA ANDRES, MATEO": 18,
+    "ECHEVARRIA PACHECO, JAVIER": 21
+  },
+  "dorsales_visitante": {
+    "DE LA FUENTE CAYUSO, NICOLAS": 1,
+    "SORDO GOMEZ, ISMAEL": 2,
+    "EZZAKRAOUI, OSAMA": 3,
+    "SAINZ GONZALEZ, VALENTIN": 4,
+    "MARTIN RUIZ, PABLO": 5,
+    "DIPSE, AUGUSTIN VALENTIN": 7,
+    "GONZALEZ SAIZ, IKER": 8,
+    "DIAZ CORONA, MARCOS": 9,
+    "PEREZ PINILLA, EMILIO": 10,
+    "TERAN RUIZ, GERARDO": 14,
+    "GALLO POZUETA, ALVARO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
