@@ -1,0 +1,261 @@
+{
+  "acta_id": "10029719",
+  "filename": "Acta_10029719.txt",
+  "fuente": "alava",
+  "temporada": "2025-2026",
+  "jornada": 13,
+  "fecha": "09-05-2026",
+  "hora": "16:00",
+  "categoria": "PRIMERA DIVISIÓN JUVENIL TORNEO FEDERACIÓN/ GAZTEEN LEHEN MAILA FEDERAZIO TORNEOA (GRUPO UNICO / TALDE BAKARRA)",
+  "equipo_local": "SAN MARTIN C.D.F. B",
+  "equipo_visitante": "ARANBIZKARRA CF B",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "VELASCO RUIZ DE LEZANA, MIKEL"
+  ],
+  "estadio": "SAN MARTIN",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "NGUEMA MARIN, PLACIDO EDU",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 83,
+      "jugador": "MARTINEZ HERNANDEZ, MIGUEL ANGEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 49,
+      "jugador": "EGUIA VELAZQUEZ, ANER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 83,
+      "jugador": "XU YEH, SHOUWANG",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "ONTALVILLA MARQUEZ, IRAITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "GALLO GARCIA, LUIS MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "MARTINEZ HERNANDEZ, MIGUEL ANGEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "COSTA GUTIERREZ, DAVID",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BORREGO MARTIN, JULIO CESAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BORREGO MARTIN, JULIO CESAR",
+  "delegado_equipo_visitante": "LARRAÑAGA ELIZAZU, LUIS MARIA",
+  "titulares_local": [
+    "SOLA SANCHEZ, MARKEL",
+    "VILLAR PAVON, ADRIAN",
+    "VELASQUEZ SALAZAR, ANDONI",
+    "AIBANGBEE UGIAGBE, STEPHEN EGHOSA",
+    "GAY-POBES KNORR, MANUEL MARIA",
+    "YOUSSOUF AYOKA, MOUHAMED AKANDJI",
+    "FEAL FERNANDEZ, ARTURO",
+    "SANCHEZ PAYO, JULEN",
+    "FRIAS CONDE, XABIER",
+    "EGUIA VELAZQUEZ, ANER",
+    "GORDO LORENZO, FRANCISCO JAVIER"
+  ],
+  "titulares_visitante": [
+    "MARTINEZ HERNANDEZ, MIGUEL ANGEL",
+    "ARRAUSI LOPEZ DE SOSOAGA, IBAI",
+    "GALLO GARCIA, LUIS MARIO",
+    "PALACIOS GRAJALES, UNAX",
+    "LARRAÑAGA RODRIGUEZ, IBAI",
+    "PACIOS ILLERA, AITOR",
+    "CASTILLO MONSALVE, ANDER",
+    "EDU MARIN, MARCOS NICOLAS",
+    "RODRIGUEZ ARISTIZABAL, DANIEL",
+    "NGUEMA MARIN, PLACIDO EDU",
+    "ONTALVILLA MARQUEZ, IRAITZ"
+  ],
+  "suplentes_local": [
+    "BARROSO SOUSA, MIKEL",
+    "COLMENARES OCHOA, OMAR ALEXANDER",
+    "OSINALDE SANTOS, HARITZ",
+    "XU YEH, SHOUWANG",
+    "GONZALEZ SANCHEZ, BRUNO",
+    "RUIZ DE AUSTRI LOPES, PAUL",
+    "PEREZ ESCUDERO, IKER"
+  ],
+  "suplentes_visitante": [
+    "PEREZ ESCOBAR, ANGEL DANIEL",
+    "DA SILVA DE LA SERNA, ENAITZ",
+    "RODRIGUEZ DIAZ, JON ANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "GONZALEZ SANCHEZ, BRUNO",
+    "RUIZ DE AUSTRI LOPES, PAUL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DA SILVA DE LA SERNA, ENAITZ"
+  ],
+  "jugadores_local": [
+    "SOLA SANCHEZ, MARKEL",
+    "VILLAR PAVON, ADRIAN",
+    "VELASQUEZ SALAZAR, ANDONI",
+    "AIBANGBEE UGIAGBE, STEPHEN EGHOSA",
+    "GAY-POBES KNORR, MANUEL MARIA",
+    "YOUSSOUF AYOKA, MOUHAMED AKANDJI",
+    "FEAL FERNANDEZ, ARTURO",
+    "SANCHEZ PAYO, JULEN",
+    "FRIAS CONDE, XABIER",
+    "EGUIA VELAZQUEZ, ANER",
+    "GORDO LORENZO, FRANCISCO JAVIER",
+    "OSINALDE SANTOS, HARITZ",
+    "COLMENARES OCHOA, OMAR ALEXANDER",
+    "XU YEH, SHOUWANG",
+    "BARROSO SOUSA, MIKEL",
+    "PEREZ ESCUDERO, IKER"
+  ],
+  "jugadores_visitante": [
+    "MARTINEZ HERNANDEZ, MIGUEL ANGEL",
+    "ARRAUSI LOPEZ DE SOSOAGA, IBAI",
+    "GALLO GARCIA, LUIS MARIO",
+    "PALACIOS GRAJALES, UNAX",
+    "LARRAÑAGA RODRIGUEZ, IBAI",
+    "PACIOS ILLERA, AITOR",
+    "CASTILLO MONSALVE, ANDER",
+    "EDU MARIN, MARCOS NICOLAS",
+    "RODRIGUEZ ARISTIZABAL, DANIEL",
+    "NGUEMA MARIN, PLACIDO EDU",
+    "ONTALVILLA MARQUEZ, IRAITZ",
+    "PEREZ ESCOBAR, ANGEL DANIEL",
+    "RODRIGUEZ DIAZ, JON ANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "OSINALDE SANTOS, HARITZ",
+      "sale": "SANCHEZ PAYO, JULEN"
+    },
+    {
+      "min": 45,
+      "entra": "COLMENARES OCHOA, OMAR ALEXANDER",
+      "sale": "AIBANGBEE UGIAGBE, STEPHEN EGHOSA"
+    },
+    {
+      "min": 55,
+      "entra": "XU YEH, SHOUWANG",
+      "sale": "SOLA SANCHEZ, MARKEL"
+    },
+    {
+      "min": 55,
+      "entra": "BARROSO SOUSA, MIKEL",
+      "sale": "FRIAS CONDE, XABIER"
+    },
+    {
+      "min": 70,
+      "entra": "PEREZ ESCUDERO, IKER",
+      "sale": "EGUIA VELAZQUEZ, ANER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "PEREZ ESCOBAR, ANGEL DANIEL",
+      "sale": "PALACIOS GRAJALES, UNAX"
+    },
+    {
+      "min": 55,
+      "entra": "RODRIGUEZ DIAZ, JON ANDER",
+      "sale": "LARRAÑAGA RODRIGUEZ, IBAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "SOLA SANCHEZ, MARKEL": 55,
+    "VILLAR PAVON, ADRIAN": 90,
+    "VELASQUEZ SALAZAR, ANDONI": 90,
+    "AIBANGBEE UGIAGBE, STEPHEN EGHOSA": 45,
+    "GAY-POBES KNORR, MANUEL MARIA": 90,
+    "YOUSSOUF AYOKA, MOUHAMED AKANDJI": 90,
+    "FEAL FERNANDEZ, ARTURO": 90,
+    "SANCHEZ PAYO, JULEN": 45,
+    "FRIAS CONDE, XABIER": 55,
+    "EGUIA VELAZQUEZ, ANER": 70,
+    "GORDO LORENZO, FRANCISCO JAVIER": 90,
+    "OSINALDE SANTOS, HARITZ": 45,
+    "COLMENARES OCHOA, OMAR ALEXANDER": 45,
+    "XU YEH, SHOUWANG": 35,
+    "BARROSO SOUSA, MIKEL": 35,
+    "PEREZ ESCUDERO, IKER": 20,
+    "MARTINEZ HERNANDEZ, MIGUEL ANGEL": 90,
+    "ARRAUSI LOPEZ DE SOSOAGA, IBAI": 90,
+    "GALLO GARCIA, LUIS MARIO": 90,
+    "PALACIOS GRAJALES, UNAX": 45,
+    "LARRAÑAGA RODRIGUEZ, IBAI": 55,
+    "PACIOS ILLERA, AITOR": 90,
+    "CASTILLO MONSALVE, ANDER": 90,
+    "EDU MARIN, MARCOS NICOLAS": 90,
+    "RODRIGUEZ ARISTIZABAL, DANIEL": 90,
+    "NGUEMA MARIN, PLACIDO EDU": 90,
+    "ONTALVILLA MARQUEZ, IRAITZ": 90,
+    "PEREZ ESCOBAR, ANGEL DANIEL": 45,
+    "RODRIGUEZ DIAZ, JON ANDER": 35
+  },
+  "portero_local": "FEAL FERNANDEZ, ARTURO",
+  "portero_visitante": "ARRAUSI LOPEZ DE SOSOAGA, IBAI",
+  "dorsales_local": {
+    "SOLA SANCHEZ, MARKEL": 3,
+    "VILLAR PAVON, ADRIAN": 2,
+    "VELASQUEZ SALAZAR, ANDONI": 4,
+    "AIBANGBEE UGIAGBE, STEPHEN EGHOSA": 7,
+    "GAY-POBES KNORR, MANUEL MARIA": 8,
+    "YOUSSOUF AYOKA, MOUHAMED AKANDJI": 12,
+    "FEAL FERNANDEZ, ARTURO": 13,
+    "SANCHEZ PAYO, JULEN": 14,
+    "FRIAS CONDE, XABIER": 17,
+    "EGUIA VELAZQUEZ, ANER": 23,
+    "GORDO LORENZO, FRANCISCO JAVIER": 25
+  },
+  "dorsales_visitante": {
+    "MARTINEZ HERNANDEZ, MIGUEL ANGEL": 23,
+    "ARRAUSI LOPEZ DE SOSOAGA, IBAI": 1,
+    "GALLO GARCIA, LUIS MARIO": 3,
+    "PALACIOS GRAJALES, UNAX": 5,
+    "LARRAÑAGA RODRIGUEZ, IBAI": 6,
+    "PACIOS ILLERA, AITOR": 8,
+    "CASTILLO MONSALVE, ANDER": 9,
+    "EDU MARIN, MARCOS NICOLAS": 12,
+    "RODRIGUEZ ARISTIZABAL, DANIEL": 15,
+    "NGUEMA MARIN, PLACIDO EDU": 16,
+    "ONTALVILLA MARQUEZ, IRAITZ": 19
+  },
+  "suspendidos": []
+}
