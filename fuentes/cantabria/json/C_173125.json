@@ -1,0 +1,193 @@
+{
+  "acta_id": "C_173125",
+  "filename": "Acta_C_173125.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 28,
+  "fecha": "20-04-2024",
+  "hora": "11:00",
+  "categoria": "TERCERA CADETE (GRUPO E)",
+  "equipo_local": "S.D. NOJA B",
+  "equipo_visitante": "S.D. GAMA A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GÓMEZ TERÁN, FERNANDO"
+  ],
+  "estadio": "Noja 2",
+  "ciudad": "Noja",
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "LEON MERLO, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "NADIF EL ARROUBI, MOAD",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "MONTOYA MENDEZ, ASIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "CERRO GOMEZ, ALAIN",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LOPEZ ALONSO, MANUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ ALONSO, MANUEL",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "MOSQUERA CRUZ, ADRIAN",
+    "BORBOLLA AYUSO, ADRIAN",
+    "MONTOYA MENDEZ, ASIER",
+    "HUERGA IGLESIAS, LUCAS",
+    "VIADERO MELERO, SAUL",
+    "LEON MERLO, ADRIAN",
+    "MENDOZA SETIEN, JORGE",
+    "CALVO URIEPERO, MARTIN",
+    "ALONSO CARRERA, MIGUEL",
+    "CUESTA SOMARRIBA, ALDO",
+    "DE LLANOS GANDARA, MARCOS"
+  ],
+  "titulares_visitante": [
+    "ROZAS DE COS, MIGUEL",
+    "ARGOS RAMOS, MARIO",
+    "PERNIA COLINA, ROBERTO",
+    "BLANCO COBO, PABLO",
+    "GARIN ECHEVARRIA, FELIX",
+    "DE PAOLI, MATIAS",
+    "GARCIA ABASCAL, PABLO",
+    "GABELLA BEGOÑA, EKAITZ",
+    "CALVO SAINZ DE LA MAZA, IZAN",
+    "NADIF EL ARROUBI, MOAD",
+    "SOMARRIBA RUIZ, PABLO"
+  ],
+  "suplentes_local": [
+    "ACEBO OLANO, RUBEN",
+    "BARROS VILLA, SAUL"
+  ],
+  "suplentes_visitante": [
+    "GOMEZ ROMAN, RUBEN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MOSQUERA CRUZ, ADRIAN",
+    "BORBOLLA AYUSO, ADRIAN",
+    "MONTOYA MENDEZ, ASIER",
+    "HUERGA IGLESIAS, LUCAS",
+    "VIADERO MELERO, SAUL",
+    "LEON MERLO, ADRIAN",
+    "MENDOZA SETIEN, JORGE",
+    "CALVO URIEPERO, MARTIN",
+    "ALONSO CARRERA, MIGUEL",
+    "CUESTA SOMARRIBA, ALDO",
+    "DE LLANOS GANDARA, MARCOS",
+    "BARROS VILLA, SAUL",
+    "ACEBO OLANO, RUBEN"
+  ],
+  "jugadores_visitante": [
+    "ROZAS DE COS, MIGUEL",
+    "ARGOS RAMOS, MARIO",
+    "PERNIA COLINA, ROBERTO",
+    "BLANCO COBO, PABLO",
+    "GARIN ECHEVARRIA, FELIX",
+    "DE PAOLI, MATIAS",
+    "GARCIA ABASCAL, PABLO",
+    "GABELLA BEGOÑA, EKAITZ",
+    "CALVO SAINZ DE LA MAZA, IZAN",
+    "NADIF EL ARROUBI, MOAD",
+    "SOMARRIBA RUIZ, PABLO",
+    "GOMEZ ROMAN, RUBEN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 21,
+      "entra": "BARROS VILLA, SAUL",
+      "sale": "VIADERO MELERO, SAUL"
+    },
+    {
+      "min": 40,
+      "entra": "ACEBO OLANO, RUBEN",
+      "sale": "CALVO URIEPERO, MARTIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "GOMEZ ROMAN, RUBEN",
+      "sale": "CALVO SAINZ DE LA MAZA, IZAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "MOSQUERA CRUZ, ADRIAN": 90,
+    "BORBOLLA AYUSO, ADRIAN": 90,
+    "MONTOYA MENDEZ, ASIER": 90,
+    "HUERGA IGLESIAS, LUCAS": 90,
+    "VIADERO MELERO, SAUL": 21,
+    "LEON MERLO, ADRIAN": 90,
+    "MENDOZA SETIEN, JORGE": 90,
+    "CALVO URIEPERO, MARTIN": 40,
+    "ALONSO CARRERA, MIGUEL": 90,
+    "CUESTA SOMARRIBA, ALDO": 90,
+    "DE LLANOS GANDARA, MARCOS": 90,
+    "BARROS VILLA, SAUL": 69,
+    "ACEBO OLANO, RUBEN": 50,
+    "ROZAS DE COS, MIGUEL": 90,
+    "ARGOS RAMOS, MARIO": 90,
+    "PERNIA COLINA, ROBERTO": 90,
+    "BLANCO COBO, PABLO": 90,
+    "GARIN ECHEVARRIA, FELIX": 90,
+    "DE PAOLI, MATIAS": 90,
+    "GARCIA ABASCAL, PABLO": 90,
+    "GABELLA BEGOÑA, EKAITZ": 90,
+    "CALVO SAINZ DE LA MAZA, IZAN": 51,
+    "NADIF EL ARROUBI, MOAD": 90,
+    "SOMARRIBA RUIZ, PABLO": 90,
+    "GOMEZ ROMAN, RUBEN": 39
+  },
+  "portero_local": "MOSQUERA CRUZ, ADRIAN",
+  "portero_visitante": "ROZAS DE COS, MIGUEL",
+  "dorsales_local": {
+    "MOSQUERA CRUZ, ADRIAN": 1,
+    "BORBOLLA AYUSO, ADRIAN": 3,
+    "MONTOYA MENDEZ, ASIER": 4,
+    "HUERGA IGLESIAS, LUCAS": 6,
+    "VIADERO MELERO, SAUL": 9,
+    "LEON MERLO, ADRIAN": 10,
+    "MENDOZA SETIEN, JORGE": 11,
+    "CALVO URIEPERO, MARTIN": 14,
+    "ALONSO CARRERA, MIGUEL": 19,
+    "CUESTA SOMARRIBA, ALDO": 20,
+    "DE LLANOS GANDARA, MARCOS": 22
+  },
+  "dorsales_visitante": {
+    "ROZAS DE COS, MIGUEL": 13,
+    "ARGOS RAMOS, MARIO": 2,
+    "PERNIA COLINA, ROBERTO": 3,
+    "BLANCO COBO, PABLO": 4,
+    "GARIN ECHEVARRIA, FELIX": 5,
+    "DE PAOLI, MATIAS": 6,
+    "GARCIA ABASCAL, PABLO": 7,
+    "GABELLA BEGOÑA, EKAITZ": 8,
+    "CALVO SAINZ DE LA MAZA, IZAN": 9,
+    "NADIF EL ARROUBI, MOAD": 10,
+    "SOMARRIBA RUIZ, PABLO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
