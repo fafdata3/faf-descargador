@@ -1,0 +1,268 @@
+{
+  "acta_id": "C_193008",
+  "filename": "Acta_C_193008.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 32,
+  "fecha": "10-05-2025",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "S.D. TEXTIL ESCUDO A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAHAGUN SAIZ, ALVARO"
+  ],
+  "estadio": "Cabezón de la Sal",
+  "ciudad": "Cabezón De La Sal",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "RODRIGUEZ LABRADOR, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "TORRE MACIA, RODRIGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "gomara rivas, MANUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 26,
+      "jugador": "Perez Rubin, Ismael",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "COBO MACHO, MATIAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "LOPEZ ORTEGA, MANUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "SOLANA PELAZ, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "GARCIA SAYALERO, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "PALACIO NAVARRO, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "DE LA FUENTE DIEGO, LIAN",
+  "titulares_local": [
+    "COBO MACHO, MATIAS",
+    "Perez Rubin, Ismael",
+    "CORPA PEREDA, MARIO",
+    "SAIZ BORBOLLA, PEDRO",
+    "CADAVIECO IBAÑEZ, ENRIQUE",
+    "LOPEZ ORTEGA, MANUEL",
+    "CALDERON ELOURAD, HUGO",
+    "ECHEVARRIA PACHECO, JAVIER",
+    "GOMEZ BEJARANO, ADRIAN",
+    "MANTILLA ANDRES, MATEO",
+    "ACEBAL PALII, LEO"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "gomara rivas, MANUEL",
+    "BEZANILLA GARCIA, AARON",
+    "HERRAN ALONSO, MARCO",
+    "MEDINA RICO, MAICOL STIVEN",
+    "SOLANA PELAZ, DANIEL",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "TORRE MACIA, RODRIGO",
+    "GARCIA SAYALERO, ALEJANDRO"
+  ],
+  "suplentes_local": [
+    "CASO SIERRA, JOEL",
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+    "PEREZ RIEGAS, NICO",
+    "BARREDA ARCE, NICOLAS",
+    "GONZALEZ GARCIA, ALEX"
+  ],
+  "suplentes_visitante": [
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "TOMAS AJA, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "COBO MACHO, MATIAS",
+    "Perez Rubin, Ismael",
+    "CORPA PEREDA, MARIO",
+    "SAIZ BORBOLLA, PEDRO",
+    "CADAVIECO IBAÑEZ, ENRIQUE",
+    "LOPEZ ORTEGA, MANUEL",
+    "CALDERON ELOURAD, HUGO",
+    "ECHEVARRIA PACHECO, JAVIER",
+    "GOMEZ BEJARANO, ADRIAN",
+    "MANTILLA ANDRES, MATEO",
+    "ACEBAL PALII, LEO",
+    "BARREDA ARCE, NICOLAS",
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+    "CASO SIERRA, JOEL",
+    "GONZALEZ GARCIA, ALEX",
+    "PEREZ RIEGAS, NICO"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "gomara rivas, MANUEL",
+    "BEZANILLA GARCIA, AARON",
+    "HERRAN ALONSO, MARCO",
+    "MEDINA RICO, MAICOL STIVEN",
+    "SOLANA PELAZ, DANIEL",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "TORRE MACIA, RODRIGO",
+    "GARCIA SAYALERO, ALEJANDRO",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "TOMAS AJA, JAVIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "BARREDA ARCE, NICOLAS",
+      "sale": "Perez Rubin, Ismael"
+    },
+    {
+      "min": 41,
+      "entra": "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL",
+      "sale": "ECHEVARRIA PACHECO, JAVIER"
+    },
+    {
+      "min": 66,
+      "entra": "CASO SIERRA, JOEL",
+      "sale": "CORPA PEREDA, MARIO"
+    },
+    {
+      "min": 70,
+      "entra": "GONZALEZ GARCIA, ALEX",
+      "sale": "CALDERON ELOURAD, HUGO"
+    },
+    {
+      "min": 70,
+      "entra": "PEREZ RIEGAS, NICO",
+      "sale": "CADAVIECO IBAÑEZ, ENRIQUE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "GARCIA DIEGO PEREZ, ANGEL",
+      "sale": "HERRAN ALONSO, MARCO"
+    },
+    {
+      "min": 60,
+      "entra": "SAÑUDO BLAZQUEZ, ADRIAN",
+      "sale": "RODRIGUEZ LABRADOR, PABLO"
+    },
+    {
+      "min": 60,
+      "entra": "TOMAS AJA, JAVIER",
+      "sale": "BEZANILLA GARCIA, AARON"
+    }
+  ],
+  "minutos_jugadores": {
+    "COBO MACHO, MATIAS": 90,
+    "Perez Rubin, Ismael": 41,
+    "CORPA PEREDA, MARIO": 66,
+    "SAIZ BORBOLLA, PEDRO": 90,
+    "CADAVIECO IBAÑEZ, ENRIQUE": 70,
+    "LOPEZ ORTEGA, MANUEL": 90,
+    "CALDERON ELOURAD, HUGO": 70,
+    "ECHEVARRIA PACHECO, JAVIER": 41,
+    "GOMEZ BEJARANO, ADRIAN": 90,
+    "MANTILLA ANDRES, MATEO": 90,
+    "ACEBAL PALII, LEO": 90,
+    "BARREDA ARCE, NICOLAS": 49,
+    "GONZÁLEZ GARCÍA DE LOS SALMONES, MANUEL": 49,
+    "CASO SIERRA, JOEL": 24,
+    "GONZALEZ GARCIA, ALEX": 20,
+    "PEREZ RIEGAS, NICO": 20,
+    "RODRIGUEZ AGUDO, HUGO": 90,
+    "gomara rivas, MANUEL": 90,
+    "BEZANILLA GARCIA, AARON": 60,
+    "HERRAN ALONSO, MARCO": 41,
+    "MEDINA RICO, MAICOL STIVEN": 90,
+    "SOLANA PELAZ, DANIEL": 90,
+    "NAVARRO SEOANE, NICOLAS": 90,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 90,
+    "RODRIGUEZ LABRADOR, PABLO": 60,
+    "TORRE MACIA, RODRIGO": 90,
+    "GARCIA SAYALERO, ALEJANDRO": 90,
+    "GARCIA DIEGO PEREZ, ANGEL": 49,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 30,
+    "TOMAS AJA, JAVIER": 30
+  },
+  "portero_local": "COBO MACHO, MATIAS",
+  "portero_visitante": "RODRIGUEZ AGUDO, HUGO",
+  "dorsales_local": {
+    "COBO MACHO, MATIAS": 13,
+    "Perez Rubin, Ismael": 3,
+    "CORPA PEREDA, MARIO": 4,
+    "SAIZ BORBOLLA, PEDRO": 5,
+    "CADAVIECO IBAÑEZ, ENRIQUE": 6,
+    "LOPEZ ORTEGA, MANUEL": 7,
+    "CALDERON ELOURAD, HUGO": 8,
+    "ECHEVARRIA PACHECO, JAVIER": 9,
+    "GOMEZ BEJARANO, ADRIAN": 10,
+    "MANTILLA ANDRES, MATEO": 15,
+    "ACEBAL PALII, LEO": 17
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ AGUDO, HUGO": 13,
+    "gomara rivas, MANUEL": 2,
+    "BEZANILLA GARCIA, AARON": 3,
+    "HERRAN ALONSO, MARCO": 8,
+    "MEDINA RICO, MAICOL STIVEN": 9,
+    "SOLANA PELAZ, DANIEL": 10,
+    "NAVARRO SEOANE, NICOLAS": 12,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 14,
+    "RODRIGUEZ LABRADOR, PABLO": 16,
+    "TORRE MACIA, RODRIGO": 19,
+    "GARCIA SAYALERO, ALEJANDRO": 20
+  },
+  "suspendidos": []
+}
