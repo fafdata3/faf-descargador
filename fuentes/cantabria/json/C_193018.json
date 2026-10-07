@@ -1,0 +1,259 @@
+{
+  "acta_id": "C_193018",
+  "filename": "Acta_C_193018.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 33,
+  "fecha": "18-05-2025",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO A",
+  "equipo_visitante": "C.D. REVILLA A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZÁLEZ OBESO, RUBÉN"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 55,
+      "jugador": "TORRE MACIA, RODRIGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "GARCIA SAYALERO, ALEJANDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 17,
+      "jugador": "HERRAN ALONSO, MARCO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "GUTIERREZ MARTIN, JAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "MIERA MARTINEZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PALACIO NAVARRO, DIEGO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GANDARILLAS GONZALEZ, JUAN CARLOS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GANDARILLAS GONZALEZ, JUAN CARLOS",
+  "delegado_equipo_visitante": "CANALES CAVADA, SAMUEL",
+  "titulares_local": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "gomara rivas, MANUEL",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "GUTIERREZ MARTIN, JAVIER",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "HERRAN ALONSO, MARCO",
+    "MEDINA RICO, MAICOL STIVEN",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "TORRE MACIA, RODRIGO"
+  ],
+  "titulares_visitante": [
+    "SANCHEZ RODRÍGUEZ, SAMUEL",
+    "AGUERO AGUNDEZ, LUIS",
+    "PEREZ GONZALEZ, HUGO",
+    "MANCEBO BOLADO, SANTIAGO",
+    "CIFRIAN CALZADA, SERGIO",
+    "SANCHEZ GOMEZ, ALEX",
+    "CUETO BARBERO, DAVID",
+    "SALGADO ENACHE, BRUNO",
+    "PUENTE GARCIA, DIEGO",
+    "TOCA SAN JOSE, DIEGO",
+    "RUBIN ALVAREZ, MANUEL"
+  ],
+  "suplentes_local": [
+    "BEZANILLA GARCIA, AARON",
+    "SOLANA PELAZ, DANIEL",
+    "PRIETO GONZALEZ, ADRIAN",
+    "TOMAS AJA, JAVIER",
+    "GARCIA SAYALERO, ALEJANDRO"
+  ],
+  "suplentes_visitante": [
+    "MIERA MARTINEZ, HUGO",
+    "DEL HIERRO LOPEZ, ADRIAN",
+    "GARCIA COTERA, MATEO",
+    "SIERRA JIMENEZ, ADRIAN",
+    "MARTINEZ JIMENEZ, MATEO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "GARCIA COTERA, MATEO"
+  ],
+  "jugadores_local": [
+    "RODRIGUEZ AGUDO, HUGO",
+    "gomara rivas, MANUEL",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "GUTIERREZ MARTIN, JAVIER",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "HERRAN ALONSO, MARCO",
+    "MEDINA RICO, MAICOL STIVEN",
+    "NAVARRO SEOANE, NICOLAS",
+    "MARTIN FERNANDEZ-CALVILLO, MARIO",
+    "RODRIGUEZ LABRADOR, PABLO",
+    "TORRE MACIA, RODRIGO",
+    "GARCIA SAYALERO, ALEJANDRO",
+    "PRIETO GONZALEZ, ADRIAN",
+    "BEZANILLA GARCIA, AARON",
+    "TOMAS AJA, JAVIER",
+    "SOLANA PELAZ, DANIEL"
+  ],
+  "jugadores_visitante": [
+    "SANCHEZ RODRÍGUEZ, SAMUEL",
+    "AGUERO AGUNDEZ, LUIS",
+    "PEREZ GONZALEZ, HUGO",
+    "MANCEBO BOLADO, SANTIAGO",
+    "CIFRIAN CALZADA, SERGIO",
+    "SANCHEZ GOMEZ, ALEX",
+    "CUETO BARBERO, DAVID",
+    "SALGADO ENACHE, BRUNO",
+    "PUENTE GARCIA, DIEGO",
+    "TOCA SAN JOSE, DIEGO",
+    "RUBIN ALVAREZ, MANUEL",
+    "MIERA MARTINEZ, HUGO",
+    "MARTINEZ JIMENEZ, MATEO",
+    "DEL HIERRO LOPEZ, ADRIAN",
+    "SIERRA JIMENEZ, ADRIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "GARCIA SAYALERO, ALEJANDRO",
+      "sale": "SAÑUDO BLAZQUEZ, ADRIAN"
+    },
+    {
+      "min": 58,
+      "entra": "PRIETO GONZALEZ, ADRIAN",
+      "sale": "RODRIGUEZ LABRADOR, PABLO"
+    },
+    {
+      "min": 66,
+      "entra": "BEZANILLA GARCIA, AARON",
+      "sale": "HERRAN ALONSO, MARCO"
+    },
+    {
+      "min": 72,
+      "entra": "TOMAS AJA, JAVIER",
+      "sale": "MARTIN FERNANDEZ-CALVILLO, MARIO"
+    },
+    {
+      "min": 72,
+      "entra": "SOLANA PELAZ, DANIEL",
+      "sale": "NAVARRO SEOANE, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "MIERA MARTINEZ, HUGO",
+      "sale": "CUETO BARBERO, DAVID"
+    },
+    {
+      "min": 59,
+      "entra": "MARTINEZ JIMENEZ, MATEO",
+      "sale": "PEREZ GONZALEZ, HUGO"
+    },
+    {
+      "min": 68,
+      "entra": "DEL HIERRO LOPEZ, ADRIAN",
+      "sale": "PUENTE GARCIA, DIEGO"
+    },
+    {
+      "min": 76,
+      "entra": "SIERRA JIMENEZ, ADRIAN",
+      "sale": "SALGADO ENACHE, BRUNO"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ AGUDO, HUGO": 90,
+    "gomara rivas, MANUEL": 90,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 55,
+    "GUTIERREZ MARTIN, JAVIER": 90,
+    "GARCIA DIEGO PEREZ, ANGEL": 90,
+    "HERRAN ALONSO, MARCO": 66,
+    "MEDINA RICO, MAICOL STIVEN": 90,
+    "NAVARRO SEOANE, NICOLAS": 72,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 72,
+    "RODRIGUEZ LABRADOR, PABLO": 58,
+    "TORRE MACIA, RODRIGO": 90,
+    "GARCIA SAYALERO, ALEJANDRO": 35,
+    "PRIETO GONZALEZ, ADRIAN": 32,
+    "BEZANILLA GARCIA, AARON": 24,
+    "TOMAS AJA, JAVIER": 18,
+    "SOLANA PELAZ, DANIEL": 18,
+    "SANCHEZ RODRÍGUEZ, SAMUEL": 90,
+    "AGUERO AGUNDEZ, LUIS": 90,
+    "PEREZ GONZALEZ, HUGO": 59,
+    "MANCEBO BOLADO, SANTIAGO": 90,
+    "CIFRIAN CALZADA, SERGIO": 90,
+    "SANCHEZ GOMEZ, ALEX": 90,
+    "CUETO BARBERO, DAVID": 53,
+    "SALGADO ENACHE, BRUNO": 76,
+    "PUENTE GARCIA, DIEGO": 68,
+    "TOCA SAN JOSE, DIEGO": 90,
+    "RUBIN ALVAREZ, MANUEL": 90,
+    "MIERA MARTINEZ, HUGO": 37,
+    "MARTINEZ JIMENEZ, MATEO": 31,
+    "DEL HIERRO LOPEZ, ADRIAN": 22,
+    "SIERRA JIMENEZ, ADRIAN": 14
+  },
+  "portero_local": "RODRIGUEZ AGUDO, HUGO",
+  "portero_visitante": "SANCHEZ RODRÍGUEZ, SAMUEL",
+  "dorsales_local": {
+    "RODRIGUEZ AGUDO, HUGO": 13,
+    "gomara rivas, MANUEL": 2,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 4,
+    "GUTIERREZ MARTIN, JAVIER": 5,
+    "GARCIA DIEGO PEREZ, ANGEL": 6,
+    "HERRAN ALONSO, MARCO": 8,
+    "MEDINA RICO, MAICOL STIVEN": 9,
+    "NAVARRO SEOANE, NICOLAS": 12,
+    "MARTIN FERNANDEZ-CALVILLO, MARIO": 14,
+    "RODRIGUEZ LABRADOR, PABLO": 16,
+    "TORRE MACIA, RODRIGO": 19
+  },
+  "dorsales_visitante": {
+    "SANCHEZ RODRÍGUEZ, SAMUEL": 1,
+    "AGUERO AGUNDEZ, LUIS": 5,
+    "PEREZ GONZALEZ, HUGO": 7,
+    "MANCEBO BOLADO, SANTIAGO": 8,
+    "CIFRIAN CALZADA, SERGIO": 11,
+    "SANCHEZ GOMEZ, ALEX": 15,
+    "CUETO BARBERO, DAVID": 16,
+    "SALGADO ENACHE, BRUNO": 17,
+    "PUENTE GARCIA, DIEGO": 19,
+    "TOCA SAN JOSE, DIEGO": 22,
+    "RUBIN ALVAREZ, MANUEL": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
