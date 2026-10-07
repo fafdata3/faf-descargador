@@ -1,0 +1,266 @@
+{
+  "acta_id": "C_173291",
+  "filename": "Acta_C_173291.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 19,
+  "fecha": "18-02-2024",
+  "hora": "12:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE A",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GUTIERREZ ZUBIZARRETA , MANUEL DAVID"
+  ],
+  "estadio": "El Malecón 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "SANCHEZ CUEVAS, SAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "BORREGA BALZA, ISAAC",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "SANCHEZ CUEVAS, SAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "SANCHEZ CUEVAS, SAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "CUEVAS ALLENDE, NACHO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "SARO ALLENDE, ALEJO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JIMENO DIEZ, UNAI",
+  "entrenador_visitante": "PEREZ MARTINEZ, LORENZO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SANCHO GARCIA, ANDONI",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANCHO GARCIA, ANDONI",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "ARROYO FERNANDEZ, PABLO",
+    "AGUDO IBAÑEZ, CARLOS DANIEL",
+    "MARAÑA SIERRA, CARLOS",
+    "DEL VALLE COBO, DANIEL",
+    "GUTIERREZ REVUELTA, NECO",
+    "BLANCO OTERO, JANO",
+    "BORREGA BALZA, ISAAC",
+    "BOLADO GOMEZ, LUCAS",
+    "MARQUEZ REVUELTA, ALEX",
+    "HOYUELA COBO, HUGO",
+    "SANCHEZ CUEVAS, SAUL"
+  ],
+  "titulares_visitante": [
+    "NUÑEZ MORENO, MARCOS",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "LOPEZ ALCALDE, IZAN",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "PEREZ EZQUERRO, ENEKO",
+    "MALLAVIA PEREZ, ASIER",
+    "VILLA OTERO, BRUNO",
+    "SANSON PALMA, LEONEL",
+    "ROCES RONDO, CRUZ",
+    "MONTES SANTOS, CARLOS"
+  ],
+  "suplentes_local": [
+    "PINEDA DIAZ, JORGE",
+    "AGUERO AGUNDEZ, LUIS",
+    "MONTES DE NEIRA BALBOA, LUIS",
+    "CRESPO LOPEZ, DANIEL",
+    "MALLAVIA MUGICA, MIKEL"
+  ],
+  "suplentes_visitante": [
+    "MARTIN SUAREZ, HUGO",
+    "CUEVAS ALLENDE, NACHO",
+    "CORDOVILLO PEREZ, MARCOS",
+    "SARO ALLENDE, ALEJO",
+    "CRESPO DIEGO, RAUL"
+  ],
+  "convocados_sin_jugar_local": [
+    "PINEDA DIAZ, JORGE"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARROYO FERNANDEZ, PABLO",
+    "AGUDO IBAÑEZ, CARLOS DANIEL",
+    "MARAÑA SIERRA, CARLOS",
+    "DEL VALLE COBO, DANIEL",
+    "GUTIERREZ REVUELTA, NECO",
+    "BLANCO OTERO, JANO",
+    "BORREGA BALZA, ISAAC",
+    "BOLADO GOMEZ, LUCAS",
+    "MARQUEZ REVUELTA, ALEX",
+    "HOYUELA COBO, HUGO",
+    "SANCHEZ CUEVAS, SAUL",
+    "AGUERO AGUNDEZ, LUIS",
+    "CRESPO LOPEZ, DANIEL",
+    "MONTES DE NEIRA BALBOA, LUIS",
+    "MALLAVIA MUGICA, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "NUÑEZ MORENO, MARCOS",
+    "ZHEKOV, ATANASIO ATANASOV",
+    "GONZALEZ GONZALEZ, DANIEL",
+    "LOPEZ ALCALDE, IZAN",
+    "ZAMAN, VICTOR ALEXANDRU",
+    "PEREZ EZQUERRO, ENEKO",
+    "MALLAVIA PEREZ, ASIER",
+    "VILLA OTERO, BRUNO",
+    "SANSON PALMA, LEONEL",
+    "ROCES RONDO, CRUZ",
+    "MONTES SANTOS, CARLOS",
+    "MARTIN SUAREZ, HUGO",
+    "CORDOVILLO PEREZ, MARCOS",
+    "SARO ALLENDE, ALEJO",
+    "CUEVAS ALLENDE, NACHO",
+    "CRESPO DIEGO, RAUL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "AGUERO AGUNDEZ, LUIS",
+      "sale": "MARAÑA SIERRA, CARLOS"
+    },
+    {
+      "min": 40,
+      "entra": "CRESPO LOPEZ, DANIEL",
+      "sale": "MARQUEZ REVUELTA, ALEX"
+    },
+    {
+      "min": 44,
+      "entra": "MONTES DE NEIRA BALBOA, LUIS",
+      "sale": "BORREGA BALZA, ISAAC"
+    },
+    {
+      "min": 52,
+      "entra": "MALLAVIA MUGICA, MIKEL",
+      "sale": "BOLADO GOMEZ, LUCAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "MARTIN SUAREZ, HUGO",
+      "sale": "NUÑEZ MORENO, MARCOS"
+    },
+    {
+      "min": 35,
+      "entra": "CORDOVILLO PEREZ, MARCOS",
+      "sale": "MALLAVIA PEREZ, ASIER"
+    },
+    {
+      "min": 35,
+      "entra": "SARO ALLENDE, ALEJO",
+      "sale": "PEREZ EZQUERRO, ENEKO"
+    },
+    {
+      "min": 40,
+      "entra": "CUEVAS ALLENDE, NACHO",
+      "sale": "ROCES RONDO, CRUZ"
+    },
+    {
+      "min": 40,
+      "entra": "CRESPO DIEGO, RAUL",
+      "sale": "LOPEZ ALCALDE, IZAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARROYO FERNANDEZ, PABLO": 90,
+    "AGUDO IBAÑEZ, CARLOS DANIEL": 90,
+    "MARAÑA SIERRA, CARLOS": 40,
+    "DEL VALLE COBO, DANIEL": 90,
+    "GUTIERREZ REVUELTA, NECO": 90,
+    "BLANCO OTERO, JANO": 90,
+    "BORREGA BALZA, ISAAC": 44,
+    "BOLADO GOMEZ, LUCAS": 52,
+    "MARQUEZ REVUELTA, ALEX": 40,
+    "HOYUELA COBO, HUGO": 90,
+    "SANCHEZ CUEVAS, SAUL": 90,
+    "AGUERO AGUNDEZ, LUIS": 50,
+    "CRESPO LOPEZ, DANIEL": 50,
+    "MONTES DE NEIRA BALBOA, LUIS": 46,
+    "MALLAVIA MUGICA, MIKEL": 38,
+    "NUÑEZ MORENO, MARCOS": 35,
+    "ZHEKOV, ATANASIO ATANASOV": 90,
+    "GONZALEZ GONZALEZ, DANIEL": 90,
+    "LOPEZ ALCALDE, IZAN": 40,
+    "ZAMAN, VICTOR ALEXANDRU": 90,
+    "PEREZ EZQUERRO, ENEKO": 35,
+    "MALLAVIA PEREZ, ASIER": 35,
+    "VILLA OTERO, BRUNO": 90,
+    "SANSON PALMA, LEONEL": 90,
+    "ROCES RONDO, CRUZ": 40,
+    "MONTES SANTOS, CARLOS": 90,
+    "MARTIN SUAREZ, HUGO": 55,
+    "CORDOVILLO PEREZ, MARCOS": 55,
+    "SARO ALLENDE, ALEJO": 55,
+    "CUEVAS ALLENDE, NACHO": 50,
+    "CRESPO DIEGO, RAUL": 50
+  },
+  "portero_local": "ARROYO FERNANDEZ, PABLO",
+  "portero_visitante": "NUÑEZ MORENO, MARCOS",
+  "dorsales_local": {
+    "ARROYO FERNANDEZ, PABLO": 1,
+    "AGUDO IBAÑEZ, CARLOS DANIEL": 3,
+    "MARAÑA SIERRA, CARLOS": 4,
+    "DEL VALLE COBO, DANIEL": 7,
+    "GUTIERREZ REVUELTA, NECO": 9,
+    "BLANCO OTERO, JANO": 10,
+    "BORREGA BALZA, ISAAC": 11,
+    "BOLADO GOMEZ, LUCAS": 14,
+    "MARQUEZ REVUELTA, ALEX": 15,
+    "HOYUELA COBO, HUGO": 17,
+    "SANCHEZ CUEVAS, SAUL": 30
+  },
+  "dorsales_visitante": {
+    "NUÑEZ MORENO, MARCOS": 13,
+    "ZHEKOV, ATANASIO ATANASOV": 4,
+    "GONZALEZ GONZALEZ, DANIEL": 5,
+    "LOPEZ ALCALDE, IZAN": 7,
+    "ZAMAN, VICTOR ALEXANDRU": 8,
+    "PEREZ EZQUERRO, ENEKO": 10,
+    "MALLAVIA PEREZ, ASIER": 12,
+    "VILLA OTERO, BRUNO": 14,
+    "SANSON PALMA, LEONEL": 15,
+    "ROCES RONDO, CRUZ": 17,
+    "MONTES SANTOS, CARLOS": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
