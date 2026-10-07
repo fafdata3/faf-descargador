@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_173121",
+  "filename": "Acta_C_173121.txt",
+  "fuente": "cantabria",
+  "temporada": "2023-2024",
+  "jornada": 27,
+  "fecha": "14-04-2024",
+  "hora": "12:45",
+  "categoria": "TERCERA CADETE (GRUPO E)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO C",
+  "equipo_visitante": "CASTRO F.C. B",
+  "goles_local": 3,
+  "goles_visitante": 3,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "VEGAS MANRIQUE, ERIK"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 35,
+      "jugador": "MARTINEZ PEREZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "BARRERA LOPEZ, ANGEL MATEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "JIMENEZ BARTOLOME, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "GARCIA DIEGO PEREZ, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "JIMENEZ BARTOLOME, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "GARCIA DIEGO PEREZ, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 76,
+      "jugador": "MEDINA RICO, MAICOL STIVEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "RODRÍGUEZ LÓPEZ, JON ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BLANCO VALENCIA, MANUEL ANGEL",
+  "entrenador_visitante": "ARCE PRADA, JUAN MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PALAZUELOS GOMEZ, ALFREDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RUIZ PEREZ, MARIA JOSE",
+  "delegado_equipo_visitante": "PONTES LOIDI, AITOR",
+  "titulares_local": [
+    "QUINTANA ABASCAL, MANUEL",
+    "TOMAS AJA, JAVIER",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "IGLESIAS MOLLEDA, CESAR",
+    "BARRERA LOPEZ, ANGEL MATEO",
+    "FERNANDEZ RUIZ, MARCO",
+    "HERRAN ALONSO, MARCO",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "PEÑA MARTINEZ, DIEGO",
+    "SANTANDER GOMEZ, DAVID",
+    "MEDINA RICO, MAICOL STIVEN"
+  ],
+  "titulares_visitante": [
+    "CARRASQUILLA VARGAS, XABIER",
+    "LUIS MARTIN, ANDONI",
+    "LOPEZ SANTOS, IZAN",
+    "ARRIOLA IRIARTE, HUGO",
+    "MARTINEZ PEREZ, PABLO",
+    "MEHRLE URCULO, PABLO",
+    "HIGINO FERREIRA, NICOLAS LANDER",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "RIOS ARETXAGA, IMANOL",
+    "VARELA ANDRADE, ARKAITZ",
+    "JIMENEZ BARTOLOME, IZAN"
+  ],
+  "suplentes_local": [
+    "COZ SOTA, JAVIER",
+    "FERNANDEZ ALONSO, IVAN",
+    "SOLANA PELAZ, DANIEL"
+  ],
+  "suplentes_visitante": [
+    "ASTARLOA GONZALEZ, PABLO",
+    "BOLADO VILLEGAS, EGOITZ",
+    "TUEROS LIENDO, UNAX",
+    "JIMENEZ SIRGADO, KILIAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "QUINTANA ABASCAL, MANUEL",
+    "TOMAS AJA, JAVIER",
+    "SAÑUDO BLAZQUEZ, ADRIAN",
+    "IGLESIAS MOLLEDA, CESAR",
+    "BARRERA LOPEZ, ANGEL MATEO",
+    "FERNANDEZ RUIZ, MARCO",
+    "HERRAN ALONSO, MARCO",
+    "GARCIA DIEGO PEREZ, ANGEL",
+    "PEÑA MARTINEZ, DIEGO",
+    "SANTANDER GOMEZ, DAVID",
+    "MEDINA RICO, MAICOL STIVEN",
+    "COZ SOTA, JAVIER",
+    "SOLANA PELAZ, DANIEL",
+    "FERNANDEZ ALONSO, IVAN"
+  ],
+  "jugadores_visitante": [
+    "CARRASQUILLA VARGAS, XABIER",
+    "LUIS MARTIN, ANDONI",
+    "LOPEZ SANTOS, IZAN",
+    "ARRIOLA IRIARTE, HUGO",
+    "MARTINEZ PEREZ, PABLO",
+    "MEHRLE URCULO, PABLO",
+    "HIGINO FERREIRA, NICOLAS LANDER",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "RIOS ARETXAGA, IMANOL",
+    "VARELA ANDRADE, ARKAITZ",
+    "JIMENEZ BARTOLOME, IZAN",
+    "TUEROS LIENDO, UNAX",
+    "ASTARLOA GONZALEZ, PABLO",
+    "JIMENEZ SIRGADO, KILIAN",
+    "BOLADO VILLEGAS, EGOITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "COZ SOTA, JAVIER",
+      "sale": "QUINTANA ABASCAL, MANUEL"
+    },
+    {
+      "min": 54,
+      "entra": "SOLANA PELAZ, DANIEL",
+      "sale": "BARRERA LOPEZ, ANGEL MATEO"
+    },
+    {
+      "min": 62,
+      "entra": "FERNANDEZ ALONSO, IVAN",
+      "sale": "TOMAS AJA, JAVIER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "TUEROS LIENDO, UNAX",
+      "sale": "MARTINEZ PEREZ, PABLO"
+    },
+    {
+      "min": 63,
+      "entra": "ASTARLOA GONZALEZ, PABLO",
+      "sale": "CARRASQUILLA VARGAS, XABIER"
+    },
+    {
+      "min": 63,
+      "entra": "JIMENEZ SIRGADO, KILIAN",
+      "sale": "MEHRLE URCULO, PABLO"
+    },
+    {
+      "min": 71,
+      "entra": "BOLADO VILLEGAS, EGOITZ",
+      "sale": "RODRÍGUEZ LÓPEZ, JON ANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "QUINTANA ABASCAL, MANUEL": 40,
+    "TOMAS AJA, JAVIER": 62,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 90,
+    "IGLESIAS MOLLEDA, CESAR": 90,
+    "BARRERA LOPEZ, ANGEL MATEO": 54,
+    "FERNANDEZ RUIZ, MARCO": 90,
+    "HERRAN ALONSO, MARCO": 90,
+    "GARCIA DIEGO PEREZ, ANGEL": 90,
+    "PEÑA MARTINEZ, DIEGO": 90,
+    "SANTANDER GOMEZ, DAVID": 90,
+    "MEDINA RICO, MAICOL STIVEN": 90,
+    "COZ SOTA, JAVIER": 50,
+    "SOLANA PELAZ, DANIEL": 36,
+    "FERNANDEZ ALONSO, IVAN": 28,
+    "CARRASQUILLA VARGAS, XABIER": 63,
+    "LUIS MARTIN, ANDONI": 90,
+    "LOPEZ SANTOS, IZAN": 90,
+    "ARRIOLA IRIARTE, HUGO": 90,
+    "MARTINEZ PEREZ, PABLO": 40,
+    "MEHRLE URCULO, PABLO": 63,
+    "HIGINO FERREIRA, NICOLAS LANDER": 90,
+    "RODRÍGUEZ LÓPEZ, JON ANDER": 71,
+    "RIOS ARETXAGA, IMANOL": 90,
+    "VARELA ANDRADE, ARKAITZ": 90,
+    "JIMENEZ BARTOLOME, IZAN": 90,
+    "TUEROS LIENDO, UNAX": 50,
+    "ASTARLOA GONZALEZ, PABLO": 27,
+    "JIMENEZ SIRGADO, KILIAN": 27,
+    "BOLADO VILLEGAS, EGOITZ": 19
+  },
+  "portero_local": "QUINTANA ABASCAL, MANUEL",
+  "portero_visitante": "CARRASQUILLA VARGAS, XABIER",
+  "dorsales_local": {
+    "QUINTANA ABASCAL, MANUEL": 13,
+    "TOMAS AJA, JAVIER": 3,
+    "SAÑUDO BLAZQUEZ, ADRIAN": 4,
+    "IGLESIAS MOLLEDA, CESAR": 5,
+    "BARRERA LOPEZ, ANGEL MATEO": 6,
+    "FERNANDEZ RUIZ, MARCO": 7,
+    "HERRAN ALONSO, MARCO": 8,
+    "GARCIA DIEGO PEREZ, ANGEL": 9,
+    "PEÑA MARTINEZ, DIEGO": 12,
+    "SANTANDER GOMEZ, DAVID": 14,
+    "MEDINA RICO, MAICOL STIVEN": 16
+  },
+  "dorsales_visitante": {
+    "CARRASQUILLA VARGAS, XABIER": 1,
+    "LUIS MARTIN, ANDONI": 2,
+    "LOPEZ SANTOS, IZAN": 4,
+    "ARRIOLA IRIARTE, HUGO": 5,
+    "MARTINEZ PEREZ, PABLO": 7,
+    "MEHRLE URCULO, PABLO": 8,
+    "HIGINO FERREIRA, NICOLAS LANDER": 9,
+    "RODRÍGUEZ LÓPEZ, JON ANDER": 11,
+    "RIOS ARETXAGA, IMANOL": 12,
+    "VARELA ANDRADE, ARKAITZ": 20,
+    "JIMENEZ BARTOLOME, IZAN": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
