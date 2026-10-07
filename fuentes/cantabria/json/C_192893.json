@@ -1,0 +1,299 @@
+{
+  "acta_id": "C_192893",
+  "filename": "Acta_C_192893.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 19,
+  "fecha": "25-01-2025",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "CLUB BANSANDER A",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 7,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAN ROMÁN MACHÍN, ELOY"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "GARCIA GONZALEZ, CARLOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "CANALES CHAMIZO, GONZALO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "GALA RUIZ, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "CANALES CHAMIZO, GONZALO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "CANALES CHAMIZO, GONZALO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "CAÑARTE SOTO, UNAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "GARCIA GONZALEZ, CARLOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "QUINTANA GUTIERREZ, JORGE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 66,
+      "jugador": "LÓPEZ DÍAZ, IZAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "BRAVO DE CELIS, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SAIZ RUIZ, OSCAR",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANZ GIL, IGNACIO",
+  "delegado_equipo_visitante": "VALLE TRUEBA, JAVIER",
+  "titulares_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GALA RUIZ, HUGO",
+    "GONZALEZ AMOROS, MARCO",
+    "MOLINA PRADA, MARIO",
+    "PEREZ ASOREY, OIER",
+    "QUINTANA GUTIERREZ, JORGE",
+    "GARCIA GONZALEZ, CARLOS",
+    "CANALES CHAMIZO, GONZALO",
+    "SANTURDE DIEZ, DARIO",
+    "VELASCO GONZALEZ, DARIO",
+    "MARTIN HERRERO, HUGO"
+  ],
+  "titulares_visitante": [
+    "ARCE CAMPO, LUCAS",
+    "GARCIA AMIGO, HUGO",
+    "MARTINEZ MARTINEZ, FRANCISCO",
+    "CHANCA PACHECO, IKER",
+    "CANCELA SUAREZ, OLIVER",
+    "maillo haya, PABLO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "DIEZ HERMOSA, SAUL",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "BRAVO DE CELIS, HUGO",
+    "ALONSO GARCIA, DANIEL"
+  ],
+  "suplentes_local": [
+    "CAÑARTE SOTO, UNAI",
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "LÓPEZ DÍAZ, IZAN",
+    "RUIZ NORIEGA, MIGUEL",
+    "ARCE PIÑAL, HUGO"
+  ],
+  "suplentes_visitante": [
+    "ANDRES MENA, MARCOS",
+    "RAMIREZ VALLE, JAVIER",
+    "CASUSO IGLESIAS, IAGO",
+    "ALAMO DIAZ, DIEGO",
+    "BOLADO PALACIO, ALVARO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BRIZ ESTEBANEZ, ALBERTO",
+    "GALA RUIZ, HUGO",
+    "GONZALEZ AMOROS, MARCO",
+    "MOLINA PRADA, MARIO",
+    "PEREZ ASOREY, OIER",
+    "QUINTANA GUTIERREZ, JORGE",
+    "GARCIA GONZALEZ, CARLOS",
+    "CANALES CHAMIZO, GONZALO",
+    "SANTURDE DIEZ, DARIO",
+    "VELASCO GONZALEZ, DARIO",
+    "MARTIN HERRERO, HUGO",
+    "LÓPEZ DÍAZ, IZAN",
+    "LEBEÑA RODRIGUEZ, ADRIAN",
+    "CAÑARTE SOTO, UNAI",
+    "ARCE PIÑAL, HUGO",
+    "RUIZ NORIEGA, MIGUEL"
+  ],
+  "jugadores_visitante": [
+    "ARCE CAMPO, LUCAS",
+    "GARCIA AMIGO, HUGO",
+    "MARTINEZ MARTINEZ, FRANCISCO",
+    "CHANCA PACHECO, IKER",
+    "CANCELA SUAREZ, OLIVER",
+    "maillo haya, PABLO",
+    "MORENO QUINTANILLA, NICOLAS",
+    "DIEZ HERMOSA, SAUL",
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR",
+    "BRAVO DE CELIS, HUGO",
+    "ALONSO GARCIA, DANIEL",
+    "ANDRES MENA, MARCOS",
+    "CASUSO IGLESIAS, IAGO",
+    "RAMIREZ VALLE, JAVIER",
+    "BOLADO PALACIO, ALVARO",
+    "ALAMO DIAZ, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "LÓPEZ DÍAZ, IZAN",
+      "sale": "MARTIN HERRERO, HUGO"
+    },
+    {
+      "min": 40,
+      "entra": "LEBEÑA RODRIGUEZ, ADRIAN",
+      "sale": "BRIZ ESTEBANEZ, ALBERTO"
+    },
+    {
+      "min": 51,
+      "entra": "CAÑARTE SOTO, UNAI",
+      "sale": "VELASCO GONZALEZ, DARIO"
+    },
+    {
+      "min": 51,
+      "entra": "ARCE PIÑAL, HUGO",
+      "sale": "QUINTANA GUTIERREZ, JORGE"
+    },
+    {
+      "min": 73,
+      "entra": "RUIZ NORIEGA, MIGUEL",
+      "sale": "CANALES CHAMIZO, GONZALO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "ANDRES MENA, MARCOS",
+      "sale": "GARCIA AMIGO, HUGO"
+    },
+    {
+      "min": 40,
+      "entra": "CASUSO IGLESIAS, IAGO",
+      "sale": "DIEZ HERMOSA, SAUL"
+    },
+    {
+      "min": 40,
+      "entra": "RAMIREZ VALLE, JAVIER",
+      "sale": "MARTINEZ MARTINEZ, FRANCISCO"
+    },
+    {
+      "min": 49,
+      "entra": "BOLADO PALACIO, ALVARO",
+      "sale": "CANCELA SUAREZ, OLIVER"
+    },
+    {
+      "min": 54,
+      "entra": "ALAMO DIAZ, DIEGO",
+      "sale": "MORENO QUINTANILLA, NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRIZ ESTEBANEZ, ALBERTO": 40,
+    "GALA RUIZ, HUGO": 90,
+    "GONZALEZ AMOROS, MARCO": 90,
+    "MOLINA PRADA, MARIO": 90,
+    "PEREZ ASOREY, OIER": 90,
+    "QUINTANA GUTIERREZ, JORGE": 51,
+    "GARCIA GONZALEZ, CARLOS": 90,
+    "CANALES CHAMIZO, GONZALO": 73,
+    "SANTURDE DIEZ, DARIO": 90,
+    "VELASCO GONZALEZ, DARIO": 51,
+    "MARTIN HERRERO, HUGO": 40,
+    "LÓPEZ DÍAZ, IZAN": 50,
+    "LEBEÑA RODRIGUEZ, ADRIAN": 50,
+    "CAÑARTE SOTO, UNAI": 39,
+    "ARCE PIÑAL, HUGO": 39,
+    "RUIZ NORIEGA, MIGUEL": 17,
+    "ARCE CAMPO, LUCAS": 90,
+    "GARCIA AMIGO, HUGO": 40,
+    "MARTINEZ MARTINEZ, FRANCISCO": 40,
+    "CHANCA PACHECO, IKER": 90,
+    "CANCELA SUAREZ, OLIVER": 49,
+    "maillo haya, PABLO": 90,
+    "MORENO QUINTANILLA, NICOLAS": 54,
+    "DIEZ HERMOSA, SAUL": 40,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 90,
+    "BRAVO DE CELIS, HUGO": 90,
+    "ALONSO GARCIA, DANIEL": 90,
+    "ANDRES MENA, MARCOS": 50,
+    "CASUSO IGLESIAS, IAGO": 50,
+    "RAMIREZ VALLE, JAVIER": 50,
+    "BOLADO PALACIO, ALVARO": 41,
+    "ALAMO DIAZ, DIEGO": 36
+  },
+  "portero_local": "BRIZ ESTEBANEZ, ALBERTO",
+  "portero_visitante": "ARCE CAMPO, LUCAS",
+  "dorsales_local": {
+    "BRIZ ESTEBANEZ, ALBERTO": 1,
+    "GALA RUIZ, HUGO": 2,
+    "GONZALEZ AMOROS, MARCO": 3,
+    "MOLINA PRADA, MARIO": 5,
+    "PEREZ ASOREY, OIER": 6,
+    "QUINTANA GUTIERREZ, JORGE": 7,
+    "GARCIA GONZALEZ, CARLOS": 9,
+    "CANALES CHAMIZO, GONZALO": 10,
+    "SANTURDE DIEZ, DARIO": 14,
+    "VELASCO GONZALEZ, DARIO": 16,
+    "MARTIN HERRERO, HUGO": 18
+  },
+  "dorsales_visitante": {
+    "ARCE CAMPO, LUCAS": 1,
+    "GARCIA AMIGO, HUGO": 2,
+    "MARTINEZ MARTINEZ, FRANCISCO": 3,
+    "CHANCA PACHECO, IKER": 4,
+    "CANCELA SUAREZ, OLIVER": 7,
+    "maillo haya, PABLO": 9,
+    "MORENO QUINTANILLA, NICOLAS": 10,
+    "DIEZ HERMOSA, SAUL": 11,
+    "CHUCHUCA NARANJO, MAURICIO BOLIVAR": 14,
+    "BRAVO DE CELIS, HUGO": 15,
+    "ALONSO GARCIA, DANIEL": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
