@@ -1,0 +1,274 @@
+{
+  "acta_id": "B_9979725",
+  "filename": "Acta_B_9979725.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 16,
+  "fecha": "25-01-2026",
+  "hora": "13:30",
+  "categoria": "PRIMERA DIVISIÓN 1C / LEHEN MAILA (GRUPO 1)",
+  "equipo_local": "UNION SPORT A",
+  "equipo_visitante": "IBARSUSI A",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ESCOBAL TOMEY, ENEKO"
+  ],
+  "estadio": "SAN VICENTE C.D.M.",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "SANJURJO ONDO, AMETS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "LAISEKA GONZÁLEZ, EKAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "SA AGUIRREBEITIA, MIKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 76,
+      "jugador": "ALOA SAENZ DE ZAITEGU, OIHAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 66,
+      "jugador": "GONZALEZ ALONSO, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "GONZALEZ FLOREZ, OIHAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RODRIGUEZ CONDE, DIEGO",
+  "entrenador_visitante": "PEREZ SALUTREGUI, ALVARO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RIBADO ACHUCARRO, OIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PEREZ FERNANDEZ, ARKAITZ",
+  "delegado_equipo_visitante": "DELGADO BILBAO, URKO",
+  "titulares_local": [
+    "ORTEGA ARANCON, HODEI",
+    "ALOA SAENZ DE ZAITEGU, OIHAN",
+    "DE MIGUEL NAVARRO, JOSEBA",
+    "GONZALEZ ALONSO, UNAI",
+    "NEDJADI HABRI, MOHAMED",
+    "PAVESIO VILLA, IBON",
+    "GONZÁLEZ GARCÍA, ENEKO",
+    "GARRIDO ALVAREZ, JON",
+    "SANJURJO ONDO, AMETS",
+    "LOPEZ ALCALDE, HUGO",
+    "LAISEKA GONZÁLEZ, EKAITZ"
+  ],
+  "titulares_visitante": [
+    "SASTRE GONZALEZ, JULEN",
+    "VACA DIAZ, FERNANDO YERAY",
+    "TULCANAZA DIAZ, CRISTHIAN XABIER",
+    "DELGADO GOIRIENA, BEÑAT",
+    "GONZALEZ FLOREZ, OIHAN",
+    "DIEZ GHELLA, IZAR MATEO",
+    "ORTEGA GIL, ALEX",
+    "HERRERO LLORENTE, NICOLAS",
+    "GOROSTIAGA GETE, KIREN",
+    "IRIZAR PEREZ DE NANCLAR, AIUR",
+    "OKGINIBO IRUGHE, FOSTAR FREEMAN"
+  ],
+  "suplentes_local": [
+    "SUÁREZ MARTÍN, LANDER",
+    "CASARES CUEVAS, IKER",
+    "LACRUZ SAHELICES, IKER",
+    "GALLEGO SAUTUA, GORKA",
+    "SA AGUIRREBEITIA, MIKEL",
+    "SAA CONTRERAS, JONATHAN ENMANUEL",
+    "ARANA RAMOS, BEÑAT"
+  ],
+  "suplentes_visitante": [
+    "ABAD SANTAMARINA, ARETX",
+    "ESPEJA ANGULO, GARI",
+    "PALOMERO MARTIN, AITOR",
+    "MELLID RÉGIL, EKAIN",
+    "MARTINEZ ARNAIZ, IKER",
+    "PRESA IBARGUENGOITIA, HARRIET",
+    "PEREZ DE MONTOIA SAIZ, TELMO"
+  ],
+  "convocados_sin_jugar_local": [
+    "SUÁREZ MARTÍN, LANDER",
+    "CASARES CUEVAS, IKER",
+    "ARANA RAMOS, BEÑAT"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ABAD SANTAMARINA, ARETX",
+    "ESPEJA ANGULO, GARI"
+  ],
+  "jugadores_local": [
+    "ORTEGA ARANCON, HODEI",
+    "ALOA SAENZ DE ZAITEGU, OIHAN",
+    "DE MIGUEL NAVARRO, JOSEBA",
+    "GONZALEZ ALONSO, UNAI",
+    "NEDJADI HABRI, MOHAMED",
+    "PAVESIO VILLA, IBON",
+    "GONZÁLEZ GARCÍA, ENEKO",
+    "GARRIDO ALVAREZ, JON",
+    "SANJURJO ONDO, AMETS",
+    "LOPEZ ALCALDE, HUGO",
+    "LAISEKA GONZÁLEZ, EKAITZ",
+    "GALLEGO SAUTUA, GORKA",
+    "SAA CONTRERAS, JONATHAN ENMANUEL",
+    "SA AGUIRREBEITIA, MIKEL",
+    "LACRUZ SAHELICES, IKER"
+  ],
+  "jugadores_visitante": [
+    "SASTRE GONZALEZ, JULEN",
+    "VACA DIAZ, FERNANDO YERAY",
+    "TULCANAZA DIAZ, CRISTHIAN XABIER",
+    "DELGADO GOIRIENA, BEÑAT",
+    "GONZALEZ FLOREZ, OIHAN",
+    "DIEZ GHELLA, IZAR MATEO",
+    "ORTEGA GIL, ALEX",
+    "HERRERO LLORENTE, NICOLAS",
+    "GOROSTIAGA GETE, KIREN",
+    "IRIZAR PEREZ DE NANCLAR, AIUR",
+    "OKGINIBO IRUGHE, FOSTAR FREEMAN",
+    "PALOMERO MARTIN, AITOR",
+    "MARTINEZ ARNAIZ, IKER",
+    "PEREZ DE MONTOIA SAIZ, TELMO",
+    "MELLID RÉGIL, EKAIN",
+    "PRESA IBARGUENGOITIA, HARRIET"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "GALLEGO SAUTUA, GORKA",
+      "sale": "PAVESIO VILLA, IBON"
+    },
+    {
+      "min": 41,
+      "entra": "SAA CONTRERAS, JONATHAN ENMANUEL",
+      "sale": "SANJURJO ONDO, AMETS"
+    },
+    {
+      "min": 60,
+      "entra": "SA AGUIRREBEITIA, MIKEL",
+      "sale": "NEDJADI HABRI, MOHAMED"
+    },
+    {
+      "min": 66,
+      "entra": "LACRUZ SAHELICES, IKER",
+      "sale": "GARRIDO ALVAREZ, JON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "PALOMERO MARTIN, AITOR",
+      "sale": "DIEZ GHELLA, IZAR MATEO"
+    },
+    {
+      "min": 60,
+      "entra": "MARTINEZ ARNAIZ, IKER",
+      "sale": "GOROSTIAGA GETE, KIREN"
+    },
+    {
+      "min": 60,
+      "entra": "PEREZ DE MONTOIA SAIZ, TELMO",
+      "sale": "GONZALEZ FLOREZ, OIHAN"
+    },
+    {
+      "min": 65,
+      "entra": "MELLID RÉGIL, EKAIN",
+      "sale": "IRIZAR PEREZ DE NANCLAR, AIUR"
+    },
+    {
+      "min": 72,
+      "entra": "PRESA IBARGUENGOITIA, HARRIET",
+      "sale": "TULCANAZA DIAZ, CRISTHIAN XABIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "ORTEGA ARANCON, HODEI": 90,
+    "ALOA SAENZ DE ZAITEGU, OIHAN": 90,
+    "DE MIGUEL NAVARRO, JOSEBA": 90,
+    "GONZALEZ ALONSO, UNAI": 90,
+    "NEDJADI HABRI, MOHAMED": 60,
+    "PAVESIO VILLA, IBON": 41,
+    "GONZÁLEZ GARCÍA, ENEKO": 90,
+    "GARRIDO ALVAREZ, JON": 66,
+    "SANJURJO ONDO, AMETS": 41,
+    "LOPEZ ALCALDE, HUGO": 90,
+    "LAISEKA GONZÁLEZ, EKAITZ": 90,
+    "GALLEGO SAUTUA, GORKA": 49,
+    "SAA CONTRERAS, JONATHAN ENMANUEL": 49,
+    "SA AGUIRREBEITIA, MIKEL": 30,
+    "LACRUZ SAHELICES, IKER": 24,
+    "SASTRE GONZALEZ, JULEN": 90,
+    "VACA DIAZ, FERNANDO YERAY": 90,
+    "TULCANAZA DIAZ, CRISTHIAN XABIER": 72,
+    "DELGADO GOIRIENA, BEÑAT": 90,
+    "GONZALEZ FLOREZ, OIHAN": 60,
+    "DIEZ GHELLA, IZAR MATEO": 60,
+    "ORTEGA GIL, ALEX": 90,
+    "HERRERO LLORENTE, NICOLAS": 90,
+    "GOROSTIAGA GETE, KIREN": 60,
+    "IRIZAR PEREZ DE NANCLAR, AIUR": 65,
+    "OKGINIBO IRUGHE, FOSTAR FREEMAN": 90,
+    "PALOMERO MARTIN, AITOR": 30,
+    "MARTINEZ ARNAIZ, IKER": 30,
+    "PEREZ DE MONTOIA SAIZ, TELMO": 30,
+    "MELLID RÉGIL, EKAIN": 25,
+    "PRESA IBARGUENGOITIA, HARRIET": 18
+  },
+  "portero_local": "ORTEGA ARANCON, HODEI",
+  "portero_visitante": "SASTRE GONZALEZ, JULEN",
+  "dorsales_local": {
+    "ORTEGA ARANCON, HODEI": 1,
+    "ALOA SAENZ DE ZAITEGU, OIHAN": 4,
+    "DE MIGUEL NAVARRO, JOSEBA": 5,
+    "GONZALEZ ALONSO, UNAI": 7,
+    "NEDJADI HABRI, MOHAMED": 10,
+    "PAVESIO VILLA, IBON": 11,
+    "GONZÁLEZ GARCÍA, ENEKO": 12,
+    "GARRIDO ALVAREZ, JON": 14,
+    "SANJURJO ONDO, AMETS": 23,
+    "LOPEZ ALCALDE, HUGO": 24,
+    "LAISEKA GONZÁLEZ, EKAITZ": 25
+  },
+  "dorsales_visitante": {
+    "SASTRE GONZALEZ, JULEN": 1,
+    "VACA DIAZ, FERNANDO YERAY": 3,
+    "TULCANAZA DIAZ, CRISTHIAN XABIER": 5,
+    "DELGADO GOIRIENA, BEÑAT": 6,
+    "GONZALEZ FLOREZ, OIHAN": 8,
+    "DIEZ GHELLA, IZAR MATEO": 12,
+    "ORTEGA GIL, ALEX": 15,
+    "HERRERO LLORENTE, NICOLAS": 18,
+    "GOROSTIAGA GETE, KIREN": 21,
+    "IRIZAR PEREZ DE NANCLAR, AIUR": 24,
+    "OKGINIBO IRUGHE, FOSTAR FREEMAN": 25
+  },
+  "suspendidos": []
+}
