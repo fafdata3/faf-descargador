@@ -1,0 +1,288 @@
+{
+  "acta_id": "E_9901413",
+  "filename": "Acta_E_9901413.txt",
+  "fuente": "euskadi",
+  "temporada": "2024-2025",
+  "jornada": 34,
+  "fecha": "31-05-2025",
+  "hora": "12:00",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2024/25)",
+  "equipo_local": "CULTURAL DPVA. DURANGO, S.",
+  "equipo_visitante": "ATHLETIC CLUB",
+  "goles_local": 1,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "HOLGUIN SANCHEZ, ASIER"
+  ],
+  "estadio": "TABIRA",
+  "ciudad": "Durango",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "GALLASTEGI GALLASTEGI, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 20,
+      "jugador": "IMGA MITOGO, CHRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "ECHEVERRIA ARQUERO, JOANNES",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "ECHEVERRIA ARQUERO, JOANNES",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "PUMAREJO GUTIERREZ, PAUL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "PEREZ RODRIGUEZ, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 13,
+      "jugador": "VICENTE JIMENEZ, EÑAUT",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCIA GARCIA, IBON",
+  "entrenador_visitante": "RENAU GONZALEZ, CARLOS",
+  "segundo_entrenador_local": "CONDE PEREZ, OIER",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LLONA URIBE, ALBERTO",
+  "delegado_equipo_visitante": "GARCIA REYERO, MARIO JOSE",
+  "titulares_local": [
+    "MATEO MADARIAGA, GORKA",
+    "IZAGUIRRE PEREZ, IBAI",
+    "REKALDE DUÑABEITIA, LUKEN",
+    "INCHAURBE MORALES, PAUL",
+    "ELGUEZABAL ROMO, PAUL",
+    "URRUTXI PEREZ DE VIÑASPRE, GALDER",
+    "AYERRA ARGUINZONIZ, ANER",
+    "MENA DIEZ, JON",
+    "SAMBOU DEVIS, ABAFI",
+    "LLONA GARATE, MARKEL",
+    "GALLASTEGI GALLASTEGI, JON"
+  ],
+  "titulares_visitante": [
+    "OTAEGI KRUTXAGA, GAIZKA",
+    "CRUZ ESTEBANEZ, MARCOS",
+    "ARRIAGA MORENO, TELMO",
+    "VILLASANTE BARANDA, ADRIAN",
+    "VILLA LOPEZ, UNAX",
+    "ARISTIQUI GODOY, JUAN GIOVANNI",
+    "MUÑOZ BERMEJO, MIKEL",
+    "VICENTE JIMENEZ, EÑAUT",
+    "CONDE PRIETO, ALEXANDER",
+    "ECHEVERRIA ARQUERO, JOANNES",
+    "IMGA MITOGO, CHRISTIAN"
+  ],
+  "suplentes_local": [
+    "MATZAGA URIEN, MIKEL",
+    "AXPE LARRUZEA, OIER",
+    "MENDIZABAL AIZPURUA, HODEI",
+    "MARTHERUS ARRIAGA, DEN",
+    "ZARATE TRIGUEROS, ENEKO",
+    "VALLE FRONTAURA, ENEKO",
+    "BARRUTIA LOROÑO, MARTIN"
+  ],
+  "suplentes_visitante": [
+    "SAINZ CUEVAS, URKO",
+    "MUGUERZA IRIONDO, ESTANIS",
+    "GARCIA GURUCIAGA, URKO",
+    "PUMAREJO GUTIERREZ, PAUL",
+    "ZABALA SARASOLA, JAVIER",
+    "PEREZ RODRIGUEZ, JON",
+    "GARCIA BARALLOBRE, ENAITZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "MATZAGA URIEN, MIKEL",
+    "VALLE FRONTAURA, ENEKO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SAINZ CUEVAS, URKO",
+    "MUGUERZA IRIONDO, ESTANIS"
+  ],
+  "jugadores_local": [
+    "MATEO MADARIAGA, GORKA",
+    "IZAGUIRRE PEREZ, IBAI",
+    "REKALDE DUÑABEITIA, LUKEN",
+    "INCHAURBE MORALES, PAUL",
+    "ELGUEZABAL ROMO, PAUL",
+    "URRUTXI PEREZ DE VIÑASPRE, GALDER",
+    "AYERRA ARGUINZONIZ, ANER",
+    "MENA DIEZ, JON",
+    "SAMBOU DEVIS, ABAFI",
+    "LLONA GARATE, MARKEL",
+    "GALLASTEGI GALLASTEGI, JON",
+    "BARRUTIA LOROÑO, MARTIN",
+    "MARTHERUS ARRIAGA, DEN",
+    "ZARATE TRIGUEROS, ENEKO",
+    "MENDIZABAL AIZPURUA, HODEI",
+    "AXPE LARRUZEA, OIER"
+  ],
+  "jugadores_visitante": [
+    "OTAEGI KRUTXAGA, GAIZKA",
+    "CRUZ ESTEBANEZ, MARCOS",
+    "ARRIAGA MORENO, TELMO",
+    "VILLASANTE BARANDA, ADRIAN",
+    "VILLA LOPEZ, UNAX",
+    "ARISTIQUI GODOY, JUAN GIOVANNI",
+    "MUÑOZ BERMEJO, MIKEL",
+    "VICENTE JIMENEZ, EÑAUT",
+    "CONDE PRIETO, ALEXANDER",
+    "ECHEVERRIA ARQUERO, JOANNES",
+    "IMGA MITOGO, CHRISTIAN",
+    "ZABALA SARASOLA, JAVIER",
+    "GARCIA BARALLOBRE, ENAITZ",
+    "GARCIA GURUCIAGA, URKO",
+    "PUMAREJO GUTIERREZ, PAUL",
+    "PEREZ RODRIGUEZ, JON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 30,
+      "entra": "BARRUTIA LOROÑO, MARTIN",
+      "sale": "REKALDE DUÑABEITIA, LUKEN"
+    },
+    {
+      "min": 40,
+      "entra": "MARTHERUS ARRIAGA, DEN",
+      "sale": "URRUTXI PEREZ DE VIÑASPRE, GALDER"
+    },
+    {
+      "min": 59,
+      "entra": "ZARATE TRIGUEROS, ENEKO",
+      "sale": "MENA DIEZ, JON"
+    },
+    {
+      "min": 59,
+      "entra": "MENDIZABAL AIZPURUA, HODEI",
+      "sale": "SAMBOU DEVIS, ABAFI"
+    },
+    {
+      "min": 69,
+      "entra": "AXPE LARRUZEA, OIER",
+      "sale": "GALLASTEGI GALLASTEGI, JON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 54,
+      "entra": "ZABALA SARASOLA, JAVIER",
+      "sale": "ECHEVERRIA ARQUERO, JOANNES"
+    },
+    {
+      "min": 54,
+      "entra": "GARCIA BARALLOBRE, ENAITZ",
+      "sale": "IMGA MITOGO, CHRISTIAN"
+    },
+    {
+      "min": 54,
+      "entra": "GARCIA GURUCIAGA, URKO",
+      "sale": "VILLA LOPEZ, UNAX"
+    },
+    {
+      "min": 54,
+      "entra": "PUMAREJO GUTIERREZ, PAUL",
+      "sale": "CONDE PRIETO, ALEXANDER"
+    },
+    {
+      "min": 54,
+      "entra": "PEREZ RODRIGUEZ, JON",
+      "sale": "VICENTE JIMENEZ, EÑAUT"
+    }
+  ],
+  "minutos_jugadores": {
+    "MATEO MADARIAGA, GORKA": 90,
+    "IZAGUIRRE PEREZ, IBAI": 90,
+    "REKALDE DUÑABEITIA, LUKEN": 30,
+    "INCHAURBE MORALES, PAUL": 90,
+    "ELGUEZABAL ROMO, PAUL": 90,
+    "URRUTXI PEREZ DE VIÑASPRE, GALDER": 40,
+    "AYERRA ARGUINZONIZ, ANER": 90,
+    "MENA DIEZ, JON": 59,
+    "SAMBOU DEVIS, ABAFI": 59,
+    "LLONA GARATE, MARKEL": 90,
+    "GALLASTEGI GALLASTEGI, JON": 69,
+    "BARRUTIA LOROÑO, MARTIN": 60,
+    "MARTHERUS ARRIAGA, DEN": 50,
+    "ZARATE TRIGUEROS, ENEKO": 31,
+    "MENDIZABAL AIZPURUA, HODEI": 31,
+    "AXPE LARRUZEA, OIER": 21,
+    "OTAEGI KRUTXAGA, GAIZKA": 90,
+    "CRUZ ESTEBANEZ, MARCOS": 90,
+    "ARRIAGA MORENO, TELMO": 90,
+    "VILLASANTE BARANDA, ADRIAN": 90,
+    "VILLA LOPEZ, UNAX": 54,
+    "ARISTIQUI GODOY, JUAN GIOVANNI": 90,
+    "MUÑOZ BERMEJO, MIKEL": 90,
+    "VICENTE JIMENEZ, EÑAUT": 54,
+    "CONDE PRIETO, ALEXANDER": 54,
+    "ECHEVERRIA ARQUERO, JOANNES": 54,
+    "IMGA MITOGO, CHRISTIAN": 54,
+    "ZABALA SARASOLA, JAVIER": 36,
+    "GARCIA BARALLOBRE, ENAITZ": 36,
+    "GARCIA GURUCIAGA, URKO": 36,
+    "PUMAREJO GUTIERREZ, PAUL": 36,
+    "PEREZ RODRIGUEZ, JON": 36
+  },
+  "portero_local": "MATEO MADARIAGA, GORKA",
+  "portero_visitante": "OTAEGI KRUTXAGA, GAIZKA",
+  "dorsales_local": {
+    "MATEO MADARIAGA, GORKA": 1,
+    "IZAGUIRRE PEREZ, IBAI": 2,
+    "REKALDE DUÑABEITIA, LUKEN": 3,
+    "INCHAURBE MORALES, PAUL": 4,
+    "ELGUEZABAL ROMO, PAUL": 5,
+    "URRUTXI PEREZ DE VIÑASPRE, GALDER": 6,
+    "AYERRA ARGUINZONIZ, ANER": 7,
+    "MENA DIEZ, JON": 8,
+    "SAMBOU DEVIS, ABAFI": 9,
+    "LLONA GARATE, MARKEL": 10,
+    "GALLASTEGI GALLASTEGI, JON": 16
+  },
+  "dorsales_visitante": {
+    "OTAEGI KRUTXAGA, GAIZKA": 1,
+    "CRUZ ESTEBANEZ, MARCOS": 3,
+    "ARRIAGA MORENO, TELMO": 4,
+    "VILLASANTE BARANDA, ADRIAN": 6,
+    "VILLA LOPEZ, UNAX": 7,
+    "ARISTIQUI GODOY, JUAN GIOVANNI": 11,
+    "MUÑOZ BERMEJO, MIKEL": 14,
+    "VICENTE JIMENEZ, EÑAUT": 16,
+    "CONDE PRIETO, ALEXANDER": 18,
+    "ECHEVERRIA ARQUERO, JOANNES": 19,
+    "IMGA MITOGO, CHRISTIAN": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
