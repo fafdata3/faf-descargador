@@ -1,0 +1,261 @@
+{
+  "acta_id": "B_9974468",
+  "filename": "Acta_B_9974468.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 24,
+  "fecha": "11-04-2026",
+  "hora": "18:00",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 1)",
+  "equipo_local": "KARRANTZA",
+  "equipo_visitante": "LARRAMENDI",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "FERNANDEZ DEL POZO, JON ANDER"
+  ],
+  "estadio": "BALANDRAN",
+  "ciudad": "Karrantza Harana",
+  "goleadores": [
+    {
+      "minuto": 32,
+      "jugador": "CRUZ TORRES, DANNIS LEONEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "CRUZ TORRES, DANNIS LEONEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "GAROÑA CARRANZA, ANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 56,
+      "jugador": "BEN ITTO, BRAHIM",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PALACIO OTZA, BORJA",
+  "entrenador_visitante": "FRANCO GUTIERREZ, JULEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ULIBARRI EDESA, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ULIBARRI EDESA, IKER",
+  "delegado_equipo_visitante": "LOPEZ MIGUEL, DANIEL",
+  "titulares_local": [
+    "GARCIA MARTIN, UNAX",
+    "CRUZ TORRES, DANNIS LEONEL",
+    "BENGOCHEA LESMES, JON",
+    "SAN MARTIN RAFAEL, UNAI",
+    "ELETXIGERRA MANRIQUE, AMETS",
+    "BEN ITTO, BRAHIM",
+    "AÑIBARRO ORCASITAS, KERMAN",
+    "IRANZO PEÑA, AIEKO",
+    "RODRIGUEZ RUIZ, PEIO",
+    "GAROÑA CARRANZA, ANDER",
+    "PALACIO GARCIA, UNAI"
+  ],
+  "titulares_visitante": [
+    "SAYKOUK EL ASSAL, ANWAR",
+    "ECHEVARRIA GARCIA, HODEI",
+    "VIA ALONSO, MARK",
+    "LUNGU, ROBERT DANIEL",
+    "DAHNOU DARHDOURHI, HAMZA",
+    "EL ARBAOUI BELMALEM, SOUHAIL",
+    "CASTRO GALINDEZ, ENEKO",
+    "CASTRO ALONSO, JAM FELIPE",
+    "TUEROS PEÑA, EKAIN",
+    "PAD MENDEZ, IOAN",
+    "IMAD MENNANI, ABDELKHALIL"
+  ],
+  "suplentes_local": [
+    "ZULUETA ARAS, EGOITZ",
+    "RODRIGUEZ RUIZ, AIMAR",
+    "MUÑOZ PORTILLO, ANDER",
+    "LAZARO SANTISTEBAN, EKAITZ",
+    "GUTIERREZ COLLAZOS, JAREIN",
+    "GARCIA BURGOS, JON MODESTO",
+    "GUTIERREZ ALONSO, AITOR"
+  ],
+  "suplentes_visitante": [
+    "ZUBIZARRETA TOMBAS, HODEI",
+    "PEREZ WEILER, ALEXANDER",
+    "MENCÍA ÁLVAREZ, IKER UNAI",
+    "BERNI FERRERO, ENEKO",
+    "LOPEZ SALAZAR, ALEX"
+  ],
+  "convocados_sin_jugar_local": [
+    "ZULUETA ARAS, EGOITZ",
+    "GUTIERREZ COLLAZOS, JAREIN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GARCIA MARTIN, UNAX",
+    "CRUZ TORRES, DANNIS LEONEL",
+    "BENGOCHEA LESMES, JON",
+    "SAN MARTIN RAFAEL, UNAI",
+    "ELETXIGERRA MANRIQUE, AMETS",
+    "BEN ITTO, BRAHIM",
+    "AÑIBARRO ORCASITAS, KERMAN",
+    "IRANZO PEÑA, AIEKO",
+    "RODRIGUEZ RUIZ, PEIO",
+    "GAROÑA CARRANZA, ANDER",
+    "PALACIO GARCIA, UNAI",
+    "RODRIGUEZ RUIZ, AIMAR",
+    "MUÑOZ PORTILLO, ANDER",
+    "GARCIA BURGOS, JON MODESTO",
+    "GUTIERREZ ALONSO, AITOR",
+    "LAZARO SANTISTEBAN, EKAITZ"
+  ],
+  "jugadores_visitante": [
+    "SAYKOUK EL ASSAL, ANWAR",
+    "ECHEVARRIA GARCIA, HODEI",
+    "VIA ALONSO, MARK",
+    "LUNGU, ROBERT DANIEL",
+    "DAHNOU DARHDOURHI, HAMZA",
+    "EL ARBAOUI BELMALEM, SOUHAIL",
+    "CASTRO GALINDEZ, ENEKO",
+    "CASTRO ALONSO, JAM FELIPE",
+    "TUEROS PEÑA, EKAIN",
+    "PAD MENDEZ, IOAN",
+    "IMAD MENNANI, ABDELKHALIL",
+    "LOPEZ SALAZAR, ALEX",
+    "BERNI FERRERO, ENEKO",
+    "PEREZ WEILER, ALEXANDER",
+    "ZUBIZARRETA TOMBAS, HODEI",
+    "MENCÍA ÁLVAREZ, IKER UNAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "RODRIGUEZ RUIZ, AIMAR",
+      "sale": "CRUZ TORRES, DANNIS LEONEL"
+    },
+    {
+      "min": 71,
+      "entra": "MUÑOZ PORTILLO, ANDER",
+      "sale": "RODRIGUEZ RUIZ, PEIO"
+    },
+    {
+      "min": 71,
+      "entra": "GARCIA BURGOS, JON MODESTO",
+      "sale": "BEN ITTO, BRAHIM"
+    },
+    {
+      "min": 76,
+      "entra": "GUTIERREZ ALONSO, AITOR",
+      "sale": "BENGOCHEA LESMES, JON"
+    },
+    {
+      "min": 76,
+      "entra": "LAZARO SANTISTEBAN, EKAITZ",
+      "sale": "GAROÑA CARRANZA, ANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "LOPEZ SALAZAR, ALEX",
+      "sale": "TUEROS PEÑA, EKAIN"
+    },
+    {
+      "min": 57,
+      "entra": "BERNI FERRERO, ENEKO",
+      "sale": "IMAD MENNANI, ABDELKHALIL"
+    },
+    {
+      "min": 57,
+      "entra": "PEREZ WEILER, ALEXANDER",
+      "sale": "ECHEVARRIA GARCIA, HODEI"
+    },
+    {
+      "min": 75,
+      "entra": "ZUBIZARRETA TOMBAS, HODEI",
+      "sale": "VIA ALONSO, MARK"
+    },
+    {
+      "min": 75,
+      "entra": "MENCÍA ÁLVAREZ, IKER UNAI",
+      "sale": "LUNGU, ROBERT DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA MARTIN, UNAX": 90,
+    "CRUZ TORRES, DANNIS LEONEL": 57,
+    "BENGOCHEA LESMES, JON": 76,
+    "SAN MARTIN RAFAEL, UNAI": 90,
+    "ELETXIGERRA MANRIQUE, AMETS": 90,
+    "BEN ITTO, BRAHIM": 71,
+    "AÑIBARRO ORCASITAS, KERMAN": 90,
+    "IRANZO PEÑA, AIEKO": 90,
+    "RODRIGUEZ RUIZ, PEIO": 71,
+    "GAROÑA CARRANZA, ANDER": 76,
+    "PALACIO GARCIA, UNAI": 90,
+    "RODRIGUEZ RUIZ, AIMAR": 33,
+    "MUÑOZ PORTILLO, ANDER": 19,
+    "GARCIA BURGOS, JON MODESTO": 19,
+    "GUTIERREZ ALONSO, AITOR": 14,
+    "LAZARO SANTISTEBAN, EKAITZ": 14,
+    "SAYKOUK EL ASSAL, ANWAR": 90,
+    "ECHEVARRIA GARCIA, HODEI": 57,
+    "VIA ALONSO, MARK": 75,
+    "LUNGU, ROBERT DANIEL": 75,
+    "DAHNOU DARHDOURHI, HAMZA": 90,
+    "EL ARBAOUI BELMALEM, SOUHAIL": 90,
+    "CASTRO GALINDEZ, ENEKO": 90,
+    "CASTRO ALONSO, JAM FELIPE": 90,
+    "TUEROS PEÑA, EKAIN": 41,
+    "PAD MENDEZ, IOAN": 90,
+    "IMAD MENNANI, ABDELKHALIL": 57,
+    "LOPEZ SALAZAR, ALEX": 49,
+    "BERNI FERRERO, ENEKO": 33,
+    "PEREZ WEILER, ALEXANDER": 33,
+    "ZUBIZARRETA TOMBAS, HODEI": 15,
+    "MENCÍA ÁLVAREZ, IKER UNAI": 15
+  },
+  "portero_local": "GARCIA MARTIN, UNAX",
+  "portero_visitante": "SAYKOUK EL ASSAL, ANWAR",
+  "dorsales_local": {
+    "GARCIA MARTIN, UNAX": 13,
+    "CRUZ TORRES, DANNIS LEONEL": 2,
+    "BENGOCHEA LESMES, JON": 3,
+    "SAN MARTIN RAFAEL, UNAI": 5,
+    "ELETXIGERRA MANRIQUE, AMETS": 6,
+    "BEN ITTO, BRAHIM": 7,
+    "AÑIBARRO ORCASITAS, KERMAN": 8,
+    "IRANZO PEÑA, AIEKO": 9,
+    "RODRIGUEZ RUIZ, PEIO": 10,
+    "GAROÑA CARRANZA, ANDER": 11,
+    "PALACIO GARCIA, UNAI": 21
+  },
+  "dorsales_visitante": {
+    "SAYKOUK EL ASSAL, ANWAR": 13,
+    "ECHEVARRIA GARCIA, HODEI": 3,
+    "VIA ALONSO, MARK": 5,
+    "LUNGU, ROBERT DANIEL": 10,
+    "DAHNOU DARHDOURHI, HAMZA": 11,
+    "EL ARBAOUI BELMALEM, SOUHAIL": 14,
+    "CASTRO GALINDEZ, ENEKO": 15,
+    "CASTRO ALONSO, JAM FELIPE": 17,
+    "TUEROS PEÑA, EKAIN": 19,
+    "PAD MENDEZ, IOAN": 22,
+    "IMAD MENNANI, ABDELKHALIL": 24
+  },
+  "suspendidos": []
+}
