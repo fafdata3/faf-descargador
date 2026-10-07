@@ -1,0 +1,277 @@
+{
+  "acta_id": "B_9974384",
+  "filename": "Acta_B_9974384.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 12,
+  "fecha": "11-01-2026",
+  "hora": "12:00",
+  "categoria": "SEGUNDA DIVISIÓN 2C / BIGARREN MAILA (GRUPO 1)",
+  "equipo_local": "KARRANTZA",
+  "equipo_visitante": "SANTURTZI B",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "TERMENÓN PORTILLO, XABIER"
+  ],
+  "estadio": "BALANDRAN",
+  "ciudad": "Karrantza Harana",
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "IRANZO PEÑA, AIEKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "BEZARES GUERRA, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "AÑIBARRO ORCASITAS, KERMAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 61,
+      "jugador": "LAZARO SANTISTEBAN, EKAITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "SAN MARTIN RAFAEL, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "PALACIO OTZA, BORJA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 25,
+      "jugador": "ALVAREZ VILLA, URDAX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 43,
+      "jugador": "ALVAREZ VILLA, URDAX",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PALACIO OTZA, BORJA",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ULIBARRI EDESA, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAINZ JURAISTI, JOSEBA IMANOL",
+  "delegado_equipo_visitante": "MARTIN LORENZO, IKER",
+  "titulares_local": [
+    "GUTIERREZ COLLAZOS, JAREIN",
+    "CRUZ TORRES, DANNIS LEONEL",
+    "RODRIGUEZ RUIZ, AIMAR",
+    "SAN MARTIN RAFAEL, UNAI",
+    "ELETXIGERRA MANRIQUE, AMETS",
+    "IRANZO PEÑA, AIEKO",
+    "RODRIGUEZ RUIZ, PEIO",
+    "GAROÑA CARRANZA, ANDER",
+    "LAZARO SANTISTEBAN, EKAITZ",
+    "PALACIO GARCIA, UNAI",
+    "RODRIGUEZ IRASTORZA, ADEI"
+  ],
+  "titulares_visitante": [
+    "SEGURA TEJADA, MIKEL",
+    "BEZARES GUERRA, MARKEL",
+    "GASCON ANSEDE, MIKEL",
+    "PEREZ LOPEZ, JULEN",
+    "AMAT RUIZ, RHISTO",
+    "FREIJO HERRERO, HUGO",
+    "FABREGAT ZABALA, IZAN",
+    "ALVAREZ VILLA, URDAX",
+    "MACIAS ISPIERTO, UNAI",
+    "VAZQUEZ MONROY, SERGIO",
+    "ALVAREZ GARCIA, JULEN"
+  ],
+  "suplentes_local": [
+    "AÑIBARRO ORCASITAS, KERMAN",
+    "MUÑOZ PORTILLO, ANDER",
+    "ALICANTE RODRIGUEZ, UGAITZ",
+    "MODESTO GARCÍA, JON"
+  ],
+  "suplentes_visitante": [
+    "VAZQUEZ GARCIA, MARKEL",
+    "FLORES PANDO, ANDER",
+    "QUINTANILLA ROPERO, HARKAITZ",
+    "GONZÁLEZ BLANCO, UGAITZ",
+    "BERRIOS GUERRERO, IKER",
+    "ORTIZ ORTIZ, IBAI"
+  ],
+  "convocados_sin_jugar_local": [
+    "MUÑOZ PORTILLO, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "VAZQUEZ GARCIA, MARKEL"
+  ],
+  "jugadores_local": [
+    "GUTIERREZ COLLAZOS, JAREIN",
+    "CRUZ TORRES, DANNIS LEONEL",
+    "RODRIGUEZ RUIZ, AIMAR",
+    "SAN MARTIN RAFAEL, UNAI",
+    "ELETXIGERRA MANRIQUE, AMETS",
+    "IRANZO PEÑA, AIEKO",
+    "RODRIGUEZ RUIZ, PEIO",
+    "GAROÑA CARRANZA, ANDER",
+    "LAZARO SANTISTEBAN, EKAITZ",
+    "PALACIO GARCIA, UNAI",
+    "RODRIGUEZ IRASTORZA, ADEI",
+    "AÑIBARRO ORCASITAS, KERMAN",
+    "ALICANTE RODRIGUEZ, UGAITZ",
+    "MODESTO GARCÍA, JON"
+  ],
+  "jugadores_visitante": [
+    "SEGURA TEJADA, MIKEL",
+    "BEZARES GUERRA, MARKEL",
+    "GASCON ANSEDE, MIKEL",
+    "PEREZ LOPEZ, JULEN",
+    "AMAT RUIZ, RHISTO",
+    "FREIJO HERRERO, HUGO",
+    "FABREGAT ZABALA, IZAN",
+    "ALVAREZ VILLA, URDAX",
+    "MACIAS ISPIERTO, UNAI",
+    "VAZQUEZ MONROY, SERGIO",
+    "ALVAREZ GARCIA, JULEN",
+    "BERRIOS GUERRERO, IKER",
+    "ORTIZ ORTIZ, IBAI",
+    "QUINTANILLA ROPERO, HARKAITZ",
+    "FLORES PANDO, ANDER",
+    "GONZÁLEZ BLANCO, UGAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "AÑIBARRO ORCASITAS, KERMAN",
+      "sale": "RODRIGUEZ IRASTORZA, ADEI"
+    },
+    {
+      "min": 43,
+      "entra": "ALICANTE RODRIGUEZ, UGAITZ",
+      "sale": "CRUZ TORRES, DANNIS LEONEL"
+    },
+    {
+      "min": 60,
+      "entra": "MODESTO GARCÍA, JON",
+      "sale": "PALACIO GARCIA, UNAI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 34,
+      "entra": "BERRIOS GUERRERO, IKER",
+      "sale": "AMAT RUIZ, RHISTO"
+    },
+    {
+      "min": 52,
+      "entra": "ORTIZ ORTIZ, IBAI",
+      "sale": "GASCON ANSEDE, MIKEL"
+    },
+    {
+      "min": 52,
+      "entra": "QUINTANILLA ROPERO, HARKAITZ",
+      "sale": "ALVAREZ VILLA, URDAX"
+    },
+    {
+      "min": 71,
+      "entra": "FLORES PANDO, ANDER",
+      "sale": "BEZARES GUERRA, MARKEL"
+    },
+    {
+      "min": 71,
+      "entra": "GONZÁLEZ BLANCO, UGAITZ",
+      "sale": "MACIAS ISPIERTO, UNAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "GUTIERREZ COLLAZOS, JAREIN": 90,
+    "CRUZ TORRES, DANNIS LEONEL": 43,
+    "RODRIGUEZ RUIZ, AIMAR": 90,
+    "SAN MARTIN RAFAEL, UNAI": 90,
+    "ELETXIGERRA MANRIQUE, AMETS": 90,
+    "IRANZO PEÑA, AIEKO": 90,
+    "RODRIGUEZ RUIZ, PEIO": 90,
+    "GAROÑA CARRANZA, ANDER": 90,
+    "LAZARO SANTISTEBAN, EKAITZ": 90,
+    "PALACIO GARCIA, UNAI": 60,
+    "RODRIGUEZ IRASTORZA, ADEI": 41,
+    "AÑIBARRO ORCASITAS, KERMAN": 49,
+    "ALICANTE RODRIGUEZ, UGAITZ": 47,
+    "MODESTO GARCÍA, JON": 30,
+    "SEGURA TEJADA, MIKEL": 90,
+    "BEZARES GUERRA, MARKEL": 71,
+    "GASCON ANSEDE, MIKEL": 52,
+    "PEREZ LOPEZ, JULEN": 90,
+    "AMAT RUIZ, RHISTO": 34,
+    "FREIJO HERRERO, HUGO": 90,
+    "FABREGAT ZABALA, IZAN": 90,
+    "ALVAREZ VILLA, URDAX": 52,
+    "MACIAS ISPIERTO, UNAI": 71,
+    "VAZQUEZ MONROY, SERGIO": 90,
+    "ALVAREZ GARCIA, JULEN": 90,
+    "BERRIOS GUERRERO, IKER": 56,
+    "ORTIZ ORTIZ, IBAI": 38,
+    "QUINTANILLA ROPERO, HARKAITZ": 38,
+    "FLORES PANDO, ANDER": 19,
+    "GONZÁLEZ BLANCO, UGAITZ": 19
+  },
+  "portero_local": "GUTIERREZ COLLAZOS, JAREIN",
+  "portero_visitante": "SEGURA TEJADA, MIKEL",
+  "dorsales_local": {
+    "GUTIERREZ COLLAZOS, JAREIN": 1,
+    "CRUZ TORRES, DANNIS LEONEL": 2,
+    "RODRIGUEZ RUIZ, AIMAR": 4,
+    "SAN MARTIN RAFAEL, UNAI": 5,
+    "ELETXIGERRA MANRIQUE, AMETS": 6,
+    "IRANZO PEÑA, AIEKO": 9,
+    "RODRIGUEZ RUIZ, PEIO": 10,
+    "GAROÑA CARRANZA, ANDER": 11,
+    "LAZARO SANTISTEBAN, EKAITZ": 16,
+    "PALACIO GARCIA, UNAI": 21,
+    "RODRIGUEZ IRASTORZA, ADEI": 22
+  },
+  "dorsales_visitante": {
+    "SEGURA TEJADA, MIKEL": 1,
+    "BEZARES GUERRA, MARKEL": 6,
+    "GASCON ANSEDE, MIKEL": 7,
+    "PEREZ LOPEZ, JULEN": 8,
+    "AMAT RUIZ, RHISTO": 9,
+    "FREIJO HERRERO, HUGO": 12,
+    "FABREGAT ZABALA, IZAN": 15,
+    "ALVAREZ VILLA, URDAX": 18,
+    "MACIAS ISPIERTO, UNAI": 19,
+    "VAZQUEZ MONROY, SERGIO": 20,
+    "ALVAREZ GARCIA, JULEN": 22
+  },
+  "suspendidos": [
+    "ALVAREZ VILLA, URDAX"
+  ],
+  "_marcador_widget": true
+}
