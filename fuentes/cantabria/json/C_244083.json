@@ -1,0 +1,264 @@
+{
+  "acta_id": "C_244083",
+  "filename": "Acta_C_244083.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "03-10-2026",
+  "hora": "11:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. LAREDO A",
+  "equipo_visitante": "CLUB BANSANDER A",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DIEGO ESTÉVEZ, MARCOS"
+  ],
+  "estadio": "Laredo 2",
+  "ciudad": "Laredo",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "CASAS GUTIERREZ, ANDREAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 22,
+      "jugador": "TANASA TANASA, PABLO CRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "TANASA TANASA, PABLO CRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "QUIROGA PAZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 52,
+      "jugador": "RODRIGUEZ ECHEVARRIA, FRAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "GUTIERREZ GUTIERREZ, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GONZALEZ ARCE, SERGIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RUIZ RIESTRA, MARIO",
+  "delegado_equipo_visitante": "OJEMBARRENA PEÑA, SERGIO",
+  "titulares_local": [
+    "BRINGAS LLANO, HUGO",
+    "ZUBIZARRETA VILLA, MIGUEL",
+    "DÍAZ TRUEBA, LARO",
+    "MALASQUEZ ARTICA, ALVARO SEBASTIAN",
+    "ROIZ PEÑA, DAVID",
+    "ALONSO FERNANDEZ, LEO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "OÑATE ALONSO, ALVARO",
+    "BARRON URRUELA, ASIER",
+    "TRAMULLAS FUENTES, DYLAN",
+    "ALONSO FLORES, IVAN"
+  ],
+  "titulares_visitante": [
+    "VILLA VARA, ALEJANDRO",
+    "PEREZ COBO, ALEXIS",
+    "LANDERA LOPEZ, ABELARDO",
+    "AÑORGA LOPEZ, JESUS",
+    "HERRERO CORTA, NECO",
+    "CASAS GUTIERREZ, ANDREAS",
+    "QUIROGA PAZ, PABLO",
+    "YOMEJOU GANZO, JEAN PAUL",
+    "LOPEZ PUENTE, IVAN",
+    "LOPEZ IBARGUEN, NEL",
+    "TANASA TANASA, PABLO CRISTIAN"
+  ],
+  "suplentes_local": [
+    "CORDOVA CAJAHUARINGA, GONZALO ISMAEL",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "FONFRIA BARCENA, ARTURO",
+    "PASCUAL GARCIA, HUGO",
+    "SANCHEZ RAMOS, LEO"
+  ],
+  "suplentes_visitante": [
+    "MORALES LABRADOR, ENRIQUE",
+    "PACHECO PEÑA, MARCO",
+    "CARRO LOSADA, BRUNO",
+    "GUTIERREZ CUETO, MARCO",
+    "GARCIA BENITEZ, FERNANDO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BRINGAS LLANO, HUGO",
+    "ZUBIZARRETA VILLA, MIGUEL",
+    "DÍAZ TRUEBA, LARO",
+    "MALASQUEZ ARTICA, ALVARO SEBASTIAN",
+    "ROIZ PEÑA, DAVID",
+    "ALONSO FERNANDEZ, LEO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "OÑATE ALONSO, ALVARO",
+    "BARRON URRUELA, ASIER",
+    "TRAMULLAS FUENTES, DYLAN",
+    "ALONSO FLORES, IVAN",
+    "CORDOVA CAJAHUARINGA, GONZALO ISMAEL",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "FONFRIA BARCENA, ARTURO",
+    "PASCUAL GARCIA, HUGO",
+    "SANCHEZ RAMOS, LEO"
+  ],
+  "jugadores_visitante": [
+    "VILLA VARA, ALEJANDRO",
+    "PEREZ COBO, ALEXIS",
+    "LANDERA LOPEZ, ABELARDO",
+    "AÑORGA LOPEZ, JESUS",
+    "HERRERO CORTA, NECO",
+    "CASAS GUTIERREZ, ANDREAS",
+    "QUIROGA PAZ, PABLO",
+    "YOMEJOU GANZO, JEAN PAUL",
+    "LOPEZ PUENTE, IVAN",
+    "LOPEZ IBARGUEN, NEL",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "MORALES LABRADOR, ENRIQUE",
+    "PACHECO PEÑA, MARCO",
+    "CARRO LOSADA, BRUNO",
+    "GUTIERREZ CUETO, MARCO",
+    "GARCIA BENITEZ, FERNANDO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "CORDOVA CAJAHUARINGA, GONZALO ISMAEL",
+      "sale": "BRINGAS LLANO, HUGO"
+    },
+    {
+      "min": 45,
+      "entra": "RODRIGUEZ ECHEVARRIA, FRAN",
+      "sale": "ROIZ PEÑA, DAVID"
+    },
+    {
+      "min": 48,
+      "entra": "FONFRIA BARCENA, ARTURO",
+      "sale": "ZUBIZARRETA VILLA, MIGUEL"
+    },
+    {
+      "min": 52,
+      "entra": "PASCUAL GARCIA, HUGO",
+      "sale": "OÑATE ALONSO, ALVARO"
+    },
+    {
+      "min": 56,
+      "entra": "SANCHEZ RAMOS, LEO",
+      "sale": "TRAMULLAS FUENTES, DYLAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "MORALES LABRADOR, ENRIQUE",
+      "sale": "VILLA VARA, ALEJANDRO"
+    },
+    {
+      "min": 42,
+      "entra": "PACHECO PEÑA, MARCO",
+      "sale": "CASAS GUTIERREZ, ANDREAS"
+    },
+    {
+      "min": 42,
+      "entra": "CARRO LOSADA, BRUNO",
+      "sale": "AÑORGA LOPEZ, JESUS"
+    },
+    {
+      "min": 42,
+      "entra": "GUTIERREZ CUETO, MARCO",
+      "sale": "LANDERA LOPEZ, ABELARDO"
+    },
+    {
+      "min": 42,
+      "entra": "GARCIA BENITEZ, FERNANDO",
+      "sale": "LOPEZ IBARGUEN, NEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRINGAS LLANO, HUGO": 35,
+    "ZUBIZARRETA VILLA, MIGUEL": 48,
+    "DÍAZ TRUEBA, LARO": 90,
+    "MALASQUEZ ARTICA, ALVARO SEBASTIAN": 90,
+    "ROIZ PEÑA, DAVID": 45,
+    "ALONSO FERNANDEZ, LEO": 90,
+    "BARANZA PEÑA, DANIEL-STEVEN": 90,
+    "OÑATE ALONSO, ALVARO": 52,
+    "BARRON URRUELA, ASIER": 90,
+    "TRAMULLAS FUENTES, DYLAN": 56,
+    "ALONSO FLORES, IVAN": 90,
+    "CORDOVA CAJAHUARINGA, GONZALO ISMAEL": 55,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 45,
+    "FONFRIA BARCENA, ARTURO": 42,
+    "PASCUAL GARCIA, HUGO": 38,
+    "SANCHEZ RAMOS, LEO": 34,
+    "VILLA VARA, ALEJANDRO": 35,
+    "PEREZ COBO, ALEXIS": 90,
+    "LANDERA LOPEZ, ABELARDO": 42,
+    "AÑORGA LOPEZ, JESUS": 42,
+    "HERRERO CORTA, NECO": 90,
+    "CASAS GUTIERREZ, ANDREAS": 42,
+    "QUIROGA PAZ, PABLO": 90,
+    "YOMEJOU GANZO, JEAN PAUL": 90,
+    "LOPEZ PUENTE, IVAN": 90,
+    "LOPEZ IBARGUEN, NEL": 42,
+    "TANASA TANASA, PABLO CRISTIAN": 90,
+    "MORALES LABRADOR, ENRIQUE": 55,
+    "PACHECO PEÑA, MARCO": 48,
+    "CARRO LOSADA, BRUNO": 48,
+    "GUTIERREZ CUETO, MARCO": 48,
+    "GARCIA BENITEZ, FERNANDO": 48
+  },
+  "portero_local": "BRINGAS LLANO, HUGO",
+  "portero_visitante": "VILLA VARA, ALEJANDRO",
+  "dorsales_local": {
+    "BRINGAS LLANO, HUGO": 1,
+    "ZUBIZARRETA VILLA, MIGUEL": 3,
+    "DÍAZ TRUEBA, LARO": 5,
+    "MALASQUEZ ARTICA, ALVARO SEBASTIAN": 6,
+    "ROIZ PEÑA, DAVID": 7,
+    "ALONSO FERNANDEZ, LEO": 8,
+    "BARANZA PEÑA, DANIEL-STEVEN": 14,
+    "OÑATE ALONSO, ALVARO": 15,
+    "BARRON URRUELA, ASIER": 17,
+    "TRAMULLAS FUENTES, DYLAN": 19,
+    "ALONSO FLORES, IVAN": 25
+  },
+  "dorsales_visitante": {
+    "VILLA VARA, ALEJANDRO": 1,
+    "PEREZ COBO, ALEXIS": 3,
+    "LANDERA LOPEZ, ABELARDO": 5,
+    "AÑORGA LOPEZ, JESUS": 6,
+    "HERRERO CORTA, NECO": 8,
+    "CASAS GUTIERREZ, ANDREAS": 9,
+    "QUIROGA PAZ, PABLO": 10,
+    "YOMEJOU GANZO, JEAN PAUL": 11,
+    "LOPEZ PUENTE, IVAN": 14,
+    "LOPEZ IBARGUEN, NEL": 17,
+    "TANASA TANASA, PABLO CRISTIAN": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
