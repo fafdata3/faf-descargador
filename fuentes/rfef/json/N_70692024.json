@@ -10,8 +10,8 @@
   "equipo_local": null,
   "equipo_visitante": null,
   "goles_local": 4,
-  "goles_visitante": 6,
-  "resultado": "L",
+  "goles_visitante": 0,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "JARA FERNÁNDEZ, CARLOS",
@@ -29,55 +29,64 @@
       "minuto": 2,
       "jugador": "SIERRA CORTES, MARINA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 14,
       "jugador": "SIERRA CORTES, MARINA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 16,
       "jugador": "SUAREZ TEJERA, ARAISHA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 16,
       "jugador": "NIETO TRUJILLO, DANIELA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 18,
       "jugador": "MONZON CARDONA, ESTHER",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "GUTIERREZ MANCHON, KEIRA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 23,
       "jugador": "RODRIGUEZ JIMENEZ, BERTA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "GUTIERREZ MANCHON, KEIRA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 38,
       "jugador": "TOLEDO ESTEVEZ, DANIELA MARIA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
