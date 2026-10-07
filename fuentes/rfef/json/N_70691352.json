@@ -9,8 +9,8 @@
   "categoria": "PlayOff de Ascenso a Segunda División de Fútbol Sala (2ª eliminatoria)",
   "equipo_local": "OTXARTABE C.D.",
   "equipo_visitante": "OLEOINNOVA MENGIBAR FS",
-  "goles_local": 1,
-  "goles_visitante": 3,
+  "goles_local": 0,
+  "goles_visitante": 1,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -27,25 +27,29 @@
       "minuto": 14,
       "jugador": "LUNA GUIJARRO, JOSE ANTONIO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 19,
       "jugador": "BOUMEDIAN RAMIREZ, KARIM",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "ALCALA PANCORBO, PEDRO JOSE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "EL KOURSI, MOHAMED",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -181,6 +185,5 @@
   },
   "suspendidos": [
     "BARBERO MORENO, DAVID"
-  ],
-  "_marcador_widget": true
+  ]
 }
