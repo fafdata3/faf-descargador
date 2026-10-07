@@ -1,0 +1,288 @@
+{
+  "acta_id": "B_10057684",
+  "filename": "Acta_B_10057684.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "27-09-2026",
+  "hora": "19:30",
+  "categoria": "DIVISIÓN DE HONOR HJ / GAZTEEN OHOREZKO MAILA (GRUPO 1)",
+  "equipo_local": "DEUSTO B",
+  "equipo_visitante": "BARAKALDO B",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "REAL DE ASUA GARCIA, ENDIKA"
+  ],
+  "estadio": "ETXEZURI",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "OSUNA DOMINGUEZ, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "ZAMORANO CONDE, ENDIKA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "ILLERA MARTIN, EDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 52,
+      "jugador": "GARCIA BONILLA, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "MARTINEZ CARRASCO, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "BUSTOS BARRIO, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 87,
+      "jugador": "ESPINACO PEREDA, ANDONI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ CARRASCO, NICOLAS",
+  "entrenador_visitante": "AGUIRRE CARRO, AITOR",
+  "segundo_entrenador_local": "URCELAY CERMEÑO, IBAI",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAENZ MARTIN, DAVID",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SAENZ MARTIN, DAVID",
+  "delegado_equipo_visitante": "MARTIN RODRIGUEZ, OSCAR",
+  "titulares_local": [
+    "BILBAO PEREZ, GALDER",
+    "SAENZ MURU, IBON",
+    "RETOLAZA VELASCO, IÑIGO",
+    "GONDRA ALVAREZ, AITOR",
+    "BILBAO URTIAGA, XABIER",
+    "GARCIA BONILLA, ANDER",
+    "CALLE PRESA, MARKEL",
+    "SACRISTAN GONZALEZ, ALVARO",
+    "IRARAGORRI DEVESA, ARATZ",
+    "LASA IRIGORAS, IÑIGO",
+    "LEJARAZU ALEPUZ, KOLDO"
+  ],
+  "titulares_visitante": [
+    "GOMEZ ALONSO, GALDER",
+    "SOBRADO MENDEZ, MARKEL",
+    "OSUNA DOMINGUEZ, MARKEL",
+    "PRIETO RUIZ, JULEN",
+    "SAN EMETERIO CALDERON, EKAIN",
+    "ESPIZUA SOLORZANO, ALAIN",
+    "TAZARKI JERBI, OMAR",
+    "URIARTE YAÑEZ, JORITZ",
+    "BUSTOS BARRIO, IKER",
+    "ZAMORANO CONDE, ENDIKA",
+    "LLEIDA URIBE, BEÑAT"
+  ],
+  "suplentes_local": [
+    "FERNANDEZ ZARRAGA, PAUL",
+    "LACHHAB SADIKI, AKRAM",
+    "LORENZO BAQUERO, IBAI",
+    "NDONGO KUMA, DANIEL",
+    "PEREA ARRIETA, AGER",
+    "SALAZAR CARCELEN, DIKAN ALEXEY",
+    "PASTOR LLARENA, JON"
+  ],
+  "suplentes_visitante": [
+    "GORROCHATEGUI OCHOA, GALDER",
+    "GARCIA GUTIERREZ, LUIS ANDRES",
+    "ESPINACO PEREDA, ANDONI",
+    "ILLERA MARTIN, EDER",
+    "FERNÁNDEZ IZAGUIRRE, AIMAR",
+    "GONZALEZ BERMEJO, ARITZ",
+    "DIAZ BENAVIDES, JUAN CARLOS"
+  ],
+  "convocados_sin_jugar_local": [
+    "LACHHAB SADIKI, AKRAM",
+    "LORENZO BAQUERO, IBAI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GORROCHATEGUI OCHOA, GALDER",
+    "GONZALEZ BERMEJO, ARITZ"
+  ],
+  "jugadores_local": [
+    "BILBAO PEREZ, GALDER",
+    "SAENZ MURU, IBON",
+    "RETOLAZA VELASCO, IÑIGO",
+    "GONDRA ALVAREZ, AITOR",
+    "BILBAO URTIAGA, XABIER",
+    "GARCIA BONILLA, ANDER",
+    "CALLE PRESA, MARKEL",
+    "SACRISTAN GONZALEZ, ALVARO",
+    "IRARAGORRI DEVESA, ARATZ",
+    "LASA IRIGORAS, IÑIGO",
+    "LEJARAZU ALEPUZ, KOLDO",
+    "SALAZAR CARCELEN, DIKAN ALEXEY",
+    "PASTOR LLARENA, JON",
+    "FERNANDEZ ZARRAGA, PAUL",
+    "NDONGO KUMA, DANIEL",
+    "PEREA ARRIETA, AGER"
+  ],
+  "jugadores_visitante": [
+    "GOMEZ ALONSO, GALDER",
+    "SOBRADO MENDEZ, MARKEL",
+    "OSUNA DOMINGUEZ, MARKEL",
+    "PRIETO RUIZ, JULEN",
+    "SAN EMETERIO CALDERON, EKAIN",
+    "ESPIZUA SOLORZANO, ALAIN",
+    "TAZARKI JERBI, OMAR",
+    "URIARTE YAÑEZ, JORITZ",
+    "BUSTOS BARRIO, IKER",
+    "ZAMORANO CONDE, ENDIKA",
+    "LLEIDA URIBE, BEÑAT",
+    "FERNÁNDEZ IZAGUIRRE, AIMAR",
+    "GARCIA GUTIERREZ, LUIS ANDRES",
+    "ILLERA MARTIN, EDER",
+    "DIAZ BENAVIDES, JUAN CARLOS",
+    "ESPINACO PEREDA, ANDONI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "SALAZAR CARCELEN, DIKAN ALEXEY",
+      "sale": "GARCIA BONILLA, ANDER"
+    },
+    {
+      "min": 62,
+      "entra": "PASTOR LLARENA, JON",
+      "sale": "SAENZ MURU, IBON"
+    },
+    {
+      "min": 62,
+      "entra": "FERNANDEZ ZARRAGA, PAUL",
+      "sale": "SACRISTAN GONZALEZ, ALVARO"
+    },
+    {
+      "min": 62,
+      "entra": "NDONGO KUMA, DANIEL",
+      "sale": "RETOLAZA VELASCO, IÑIGO"
+    },
+    {
+      "min": 68,
+      "entra": "PEREA ARRIETA, AGER",
+      "sale": "IRARAGORRI DEVESA, ARATZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 65,
+      "entra": "FERNÁNDEZ IZAGUIRRE, AIMAR",
+      "sale": "BUSTOS BARRIO, IKER"
+    },
+    {
+      "min": 65,
+      "entra": "GARCIA GUTIERREZ, LUIS ANDRES",
+      "sale": "TAZARKI JERBI, OMAR"
+    },
+    {
+      "min": 75,
+      "entra": "ILLERA MARTIN, EDER",
+      "sale": "URIARTE YAÑEZ, JORITZ"
+    },
+    {
+      "min": 75,
+      "entra": "DIAZ BENAVIDES, JUAN CARLOS",
+      "sale": "ZAMORANO CONDE, ENDIKA"
+    },
+    {
+      "min": 77,
+      "entra": "ESPINACO PEREDA, ANDONI",
+      "sale": "OSUNA DOMINGUEZ, MARKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "BILBAO PEREZ, GALDER": 90,
+    "SAENZ MURU, IBON": 62,
+    "RETOLAZA VELASCO, IÑIGO": 62,
+    "GONDRA ALVAREZ, AITOR": 90,
+    "BILBAO URTIAGA, XABIER": 90,
+    "GARCIA BONILLA, ANDER": 56,
+    "CALLE PRESA, MARKEL": 90,
+    "SACRISTAN GONZALEZ, ALVARO": 62,
+    "IRARAGORRI DEVESA, ARATZ": 68,
+    "LASA IRIGORAS, IÑIGO": 90,
+    "LEJARAZU ALEPUZ, KOLDO": 90,
+    "SALAZAR CARCELEN, DIKAN ALEXEY": 34,
+    "PASTOR LLARENA, JON": 28,
+    "FERNANDEZ ZARRAGA, PAUL": 28,
+    "NDONGO KUMA, DANIEL": 28,
+    "PEREA ARRIETA, AGER": 22,
+    "GOMEZ ALONSO, GALDER": 90,
+    "SOBRADO MENDEZ, MARKEL": 90,
+    "OSUNA DOMINGUEZ, MARKEL": 77,
+    "PRIETO RUIZ, JULEN": 90,
+    "SAN EMETERIO CALDERON, EKAIN": 90,
+    "ESPIZUA SOLORZANO, ALAIN": 90,
+    "TAZARKI JERBI, OMAR": 65,
+    "URIARTE YAÑEZ, JORITZ": 75,
+    "BUSTOS BARRIO, IKER": 65,
+    "ZAMORANO CONDE, ENDIKA": 75,
+    "LLEIDA URIBE, BEÑAT": 90,
+    "FERNÁNDEZ IZAGUIRRE, AIMAR": 25,
+    "GARCIA GUTIERREZ, LUIS ANDRES": 25,
+    "ILLERA MARTIN, EDER": 15,
+    "DIAZ BENAVIDES, JUAN CARLOS": 15,
+    "ESPINACO PEREDA, ANDONI": 13
+  },
+  "portero_local": "BILBAO PEREZ, GALDER",
+  "portero_visitante": "GOMEZ ALONSO, GALDER",
+  "dorsales_local": {
+    "BILBAO PEREZ, GALDER": 13,
+    "SAENZ MURU, IBON": 2,
+    "RETOLAZA VELASCO, IÑIGO": 3,
+    "GONDRA ALVAREZ, AITOR": 6,
+    "BILBAO URTIAGA, XABIER": 7,
+    "GARCIA BONILLA, ANDER": 11,
+    "CALLE PRESA, MARKEL": 14,
+    "SACRISTAN GONZALEZ, ALVARO": 15,
+    "IRARAGORRI DEVESA, ARATZ": 17,
+    "LASA IRIGORAS, IÑIGO": 22,
+    "LEJARAZU ALEPUZ, KOLDO": 25
+  },
+  "dorsales_visitante": {
+    "GOMEZ ALONSO, GALDER": 1,
+    "SOBRADO MENDEZ, MARKEL": 2,
+    "OSUNA DOMINGUEZ, MARKEL": 3,
+    "PRIETO RUIZ, JULEN": 4,
+    "SAN EMETERIO CALDERON, EKAIN": 6,
+    "ESPIZUA SOLORZANO, ALAIN": 7,
+    "TAZARKI JERBI, OMAR": 8,
+    "URIARTE YAÑEZ, JORITZ": 9,
+    "BUSTOS BARRIO, IKER": 10,
+    "ZAMORANO CONDE, ENDIKA": 22,
+    "LLEIDA URIBE, BEÑAT": 25
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
