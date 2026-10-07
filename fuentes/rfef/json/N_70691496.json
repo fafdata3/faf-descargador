@@ -9,9 +9,9 @@
   "categoria": "PlayOff por el Título Primera División Fútbol Sala Masculino (PlayOff por el Título Primera División)",
   "equipo_local": "BARÇA",
   "equipo_visitante": "VIÑA ALBALI VALDEPEÑAS",
-  "goles_local": 1,
-  "goles_visitante": 2,
-  "resultado": "L",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "VILAS LÓPEZ, HÉCTOR",
@@ -31,31 +31,36 @@
       "minuto": 5,
       "jugador": "NOGUEIRA DA SILVA, RAFAEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 6,
       "jugador": "NOGUEIRA DA SILVA, RAFAEL",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 16,
       "jugador": "RODRIGUES CEZAR DA SILVA, MATHEUS",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 20,
       "jugador": "NARANJO LERMA, ALEJANDRO",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 22,
       "jugador": "GARCÍA DELGADO, ALBERTO",
-      "equipo": "visitante",
-      "propia": false
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -198,5 +203,6 @@
     "NARANJO LERMA, ALEJANDRO": 16,
     "TORRES DOS REIS, MATEUS": 61
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
