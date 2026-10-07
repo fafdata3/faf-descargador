@@ -1,0 +1,279 @@
+{
+  "acta_id": "10053529",
+  "filename": "Acta_10053529.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "04-10-2026",
+  "hora": "12:15",
+  "categoria": "CADETE DE HONOR / KADETEEN OHOREZKO MAILA (GRUPO - 1)",
+  "equipo_local": "ABETXUKO ADC A",
+  "equipo_visitante": "LAUDIO F. SAN ROKEZAR C.D. A",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "PONARI NIKOÇI, AKIL"
+  ],
+  "estadio": "AMETSA",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "GARCIA DE ACILU DEL BLANCO, ELEDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "GARCIA DE ACILU DEL BLANCO, ELEDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "LINARES AZCUNAGA, IRAITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "GARDOKI GONZALEZ, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "SOLANA DEL ARCO, INHAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 82,
+      "jugador": "RUIZ URQUIJO, IRAITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CUESTA PASCUAL, NATHAN",
+  "entrenador_visitante": "LILI JIMENEZ, JUSTO SANTIAGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MOLINUEVO VALLE, YON ANDER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FUENTE CANO, ESTIBALIZ",
+  "delegado_equipo_visitante": "OJEDA RUIZ, LEIRE",
+  "titulares_local": [
+    "GOMEZ DUQUE, ALVARO",
+    "ROJO CORRAL, LUCAS",
+    "GARCIA CASTRO, DANIEL",
+    "SANCHEZ GUITIAN, LANDER",
+    "PARDO DELGADO, IBAI",
+    "ALEMAN ZABALA, ARITZ",
+    "NIEVA ISIDRO, IKER",
+    "ABASOLO NIEVES, OIHAN",
+    "RAMIREZ PITTS, ETHAN CARROLL",
+    "GARCIA DE ACILU DEL BLANCO, ELEDER",
+    "GUINEA AYAPE, ARATZ"
+  ],
+  "titulares_visitante": [
+    "FULGENCIO CABEL, IVAN",
+    "URIBARRI CARDONA, ASIER",
+    "GONZALEZ COUCEIRO, ASIER",
+    "NUÑEZ IBAÑEZ DE MAEZTU, OIER",
+    "UGARTE BERGANZA, UNAX",
+    "COLOMO IGLESIAS, EGOITZ",
+    "GARDOKI GONZALEZ, ANDER",
+    "GARCIA SOJO, UNAI",
+    "ESKURTZA DEL RIO, MARKEL",
+    "BORJA RODRIGUEZ, ABRAHAM JOSE",
+    "SOLANA DEL ARCO, INHAR"
+  ],
+  "suplentes_local": [
+    "GRANADO CAMPAYO, MARKEL",
+    "PASCUAL CALLEJA, HARRIET",
+    "LINARES AZCUNAGA, IRAITZ",
+    "DE LA MORENA LARRAZABAL, DANEL",
+    "ROSCO MATA, JON",
+    "BEJAR ORMAECHEA, OIER",
+    "GIL SANTAMARIA, EKAITZ"
+  ],
+  "suplentes_visitante": [
+    "APRAIZ GUINEA, ANER",
+    "MENDIA MUÑOZ, JON",
+    "CORDERO FRANCO, EKI",
+    "ARBAIZAGOITIA MAYO, IBAI",
+    "SANCHEZ OJEDA, LANDER",
+    "RUIZ URQUIJO, IRAITZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "GRANADO CAMPAYO, MARKEL",
+    "GIL SANTAMARIA, EKAITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "APRAIZ GUINEA, ANER"
+  ],
+  "jugadores_local": [
+    "GOMEZ DUQUE, ALVARO",
+    "ROJO CORRAL, LUCAS",
+    "GARCIA CASTRO, DANIEL",
+    "SANCHEZ GUITIAN, LANDER",
+    "PARDO DELGADO, IBAI",
+    "ALEMAN ZABALA, ARITZ",
+    "NIEVA ISIDRO, IKER",
+    "ABASOLO NIEVES, OIHAN",
+    "RAMIREZ PITTS, ETHAN CARROLL",
+    "GARCIA DE ACILU DEL BLANCO, ELEDER",
+    "GUINEA AYAPE, ARATZ",
+    "ROSCO MATA, JON",
+    "BEJAR ORMAECHEA, OIER",
+    "PASCUAL CALLEJA, HARRIET",
+    "LINARES AZCUNAGA, IRAITZ",
+    "DE LA MORENA LARRAZABAL, DANEL"
+  ],
+  "jugadores_visitante": [
+    "FULGENCIO CABEL, IVAN",
+    "URIBARRI CARDONA, ASIER",
+    "GONZALEZ COUCEIRO, ASIER",
+    "NUÑEZ IBAÑEZ DE MAEZTU, OIER",
+    "UGARTE BERGANZA, UNAX",
+    "COLOMO IGLESIAS, EGOITZ",
+    "GARDOKI GONZALEZ, ANDER",
+    "GARCIA SOJO, UNAI",
+    "ESKURTZA DEL RIO, MARKEL",
+    "BORJA RODRIGUEZ, ABRAHAM JOSE",
+    "SOLANA DEL ARCO, INHAR",
+    "RUIZ URQUIJO, IRAITZ",
+    "MENDIA MUÑOZ, JON",
+    "ARBAIZAGOITIA MAYO, IBAI",
+    "CORDERO FRANCO, EKI",
+    "SANCHEZ OJEDA, LANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "ROSCO MATA, JON",
+      "sale": "RAMIREZ PITTS, ETHAN CARROLL"
+    },
+    {
+      "min": 56,
+      "entra": "BEJAR ORMAECHEA, OIER",
+      "sale": "GUINEA AYAPE, ARATZ"
+    },
+    {
+      "min": 70,
+      "entra": "PASCUAL CALLEJA, HARRIET",
+      "sale": "PARDO DELGADO, IBAI"
+    },
+    {
+      "min": 70,
+      "entra": "LINARES AZCUNAGA, IRAITZ",
+      "sale": "ROJO CORRAL, LUCAS"
+    },
+    {
+      "min": 73,
+      "entra": "DE LA MORENA LARRAZABAL, DANEL",
+      "sale": "SANCHEZ GUITIAN, LANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "RUIZ URQUIJO, IRAITZ",
+      "sale": "NUÑEZ IBAÑEZ DE MAEZTU, OIER"
+    },
+    {
+      "min": 41,
+      "entra": "MENDIA MUÑOZ, JON",
+      "sale": "COLOMO IGLESIAS, EGOITZ"
+    },
+    {
+      "min": 41,
+      "entra": "ARBAIZAGOITIA MAYO, IBAI",
+      "sale": "GARDOKI GONZALEZ, ANDER"
+    },
+    {
+      "min": 41,
+      "entra": "CORDERO FRANCO, EKI",
+      "sale": "GARCIA SOJO, UNAI"
+    },
+    {
+      "min": 41,
+      "entra": "SANCHEZ OJEDA, LANDER",
+      "sale": "BORJA RODRIGUEZ, ABRAHAM JOSE"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ DUQUE, ALVARO": 90,
+    "ROJO CORRAL, LUCAS": 70,
+    "GARCIA CASTRO, DANIEL": 90,
+    "SANCHEZ GUITIAN, LANDER": 73,
+    "PARDO DELGADO, IBAI": 70,
+    "ALEMAN ZABALA, ARITZ": 90,
+    "NIEVA ISIDRO, IKER": 90,
+    "ABASOLO NIEVES, OIHAN": 90,
+    "RAMIREZ PITTS, ETHAN CARROLL": 56,
+    "GARCIA DE ACILU DEL BLANCO, ELEDER": 90,
+    "GUINEA AYAPE, ARATZ": 56,
+    "ROSCO MATA, JON": 34,
+    "BEJAR ORMAECHEA, OIER": 34,
+    "PASCUAL CALLEJA, HARRIET": 20,
+    "LINARES AZCUNAGA, IRAITZ": 20,
+    "DE LA MORENA LARRAZABAL, DANEL": 17,
+    "FULGENCIO CABEL, IVAN": 90,
+    "URIBARRI CARDONA, ASIER": 90,
+    "GONZALEZ COUCEIRO, ASIER": 90,
+    "NUÑEZ IBAÑEZ DE MAEZTU, OIER": 41,
+    "UGARTE BERGANZA, UNAX": 90,
+    "COLOMO IGLESIAS, EGOITZ": 41,
+    "GARDOKI GONZALEZ, ANDER": 41,
+    "GARCIA SOJO, UNAI": 41,
+    "ESKURTZA DEL RIO, MARKEL": 90,
+    "BORJA RODRIGUEZ, ABRAHAM JOSE": 41,
+    "SOLANA DEL ARCO, INHAR": 90,
+    "RUIZ URQUIJO, IRAITZ": 49,
+    "MENDIA MUÑOZ, JON": 49,
+    "ARBAIZAGOITIA MAYO, IBAI": 49,
+    "CORDERO FRANCO, EKI": 49,
+    "SANCHEZ OJEDA, LANDER": 49
+  },
+  "portero_local": "GOMEZ DUQUE, ALVARO",
+  "portero_visitante": "FULGENCIO CABEL, IVAN",
+  "dorsales_local": {
+    "GOMEZ DUQUE, ALVARO": 1,
+    "ROJO CORRAL, LUCAS": 3,
+    "GARCIA CASTRO, DANIEL": 4,
+    "SANCHEZ GUITIAN, LANDER": 6,
+    "PARDO DELGADO, IBAI": 8,
+    "ALEMAN ZABALA, ARITZ": 10,
+    "NIEVA ISIDRO, IKER": 11,
+    "ABASOLO NIEVES, OIHAN": 16,
+    "RAMIREZ PITTS, ETHAN CARROLL": 21,
+    "GARCIA DE ACILU DEL BLANCO, ELEDER": 24,
+    "GUINEA AYAPE, ARATZ": 43
+  },
+  "dorsales_visitante": {
+    "FULGENCIO CABEL, IVAN": 1,
+    "URIBARRI CARDONA, ASIER": 5,
+    "GONZALEZ COUCEIRO, ASIER": 6,
+    "NUÑEZ IBAÑEZ DE MAEZTU, OIER": 7,
+    "UGARTE BERGANZA, UNAX": 8,
+    "COLOMO IGLESIAS, EGOITZ": 9,
+    "GARDOKI GONZALEZ, ANDER": 12,
+    "GARCIA SOJO, UNAI": 14,
+    "ESKURTZA DEL RIO, MARKEL": 18,
+    "BORJA RODRIGUEZ, ABRAHAM JOSE": 19,
+    "SOLANA DEL ARCO, INHAR": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
