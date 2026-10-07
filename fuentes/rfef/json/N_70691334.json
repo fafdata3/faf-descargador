@@ -9,8 +9,8 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (GRUPO B)",
   "equipo_local": "C.D. LAS FAVELAS BEACH SOCCER",
   "equipo_visitante": "C.D. ENPIE MALAGA FUTBOL PLAYA",
-  "goles_local": 2,
-  "goles_visitante": 6,
+  "goles_local": 0,
+  "goles_visitante": 3,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -29,49 +29,57 @@
       "minuto": 6,
       "jugador": "MEDINA TORREBLANCA, ARANTXA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 9,
       "jugador": "MORGER, ANDREA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 16,
       "jugador": "MAESE GAITAN, MARIA DEL CARMEN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "WIARD, ANAËLLE JACQUELINE J",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "FARFAN HIDALGO, MARIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "WIARD, ANAËLLE JACQUELINE J",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 33,
       "jugador": "FARFAN HIDALGO, MARIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "MAESE GAITAN, MARIA DEL CARMEN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -249,6 +257,5 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ],
-  "_marcador_widget": true
+  ]
 }
