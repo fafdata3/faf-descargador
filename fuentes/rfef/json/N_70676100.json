@@ -1,0 +1,285 @@
+{
+  "acta_id": "N_70676100",
+  "filename": "Acta_N_70676100.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 30,
+  "fecha": "02-05-2026",
+  "hora": "12:00",
+  "categoria": "Division de Honor Juvenil (Grupo 7)",
+  "equipo_local": "MURCIA PROMISES CLUB DE FÚTBOL",
+  "equipo_visitante": "C.D. CASTELLÓN",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO",
+    "MARTIN GARCIA, LUCAS",
+    "ÁRBITRO ASISTENTE",
+    "GÓMEZ TOBARUELA, ANTONIO RAMÓN",
+    "ÁRBITRO ASISTENTE",
+    "MARTIN GARCIA, MIGUEL"
+  ],
+  "estadio": "Universidad de Murcia",
+  "ciudad": "Murcia",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "NADAL SANCHIS, JOSE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "VALVERDE GONZALEZ, ALEJANDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "EL MOUSSE, HAITAM",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 71,
+      "jugador": "LOUM AMROUCHE, OMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 29,
+      "jugador": "GIL LUIS, OSCAR SHIMELIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 36,
+      "jugador": "ARAPIO DURA, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "CUBEDO BERMEJO, LUIS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "SILES VALERO, AARON",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GISBERT SAPRO, IGNACIO",
+  "titulares_local": [
+    "ATAZ GALLASTEGUI, MAURIZIO",
+    "MORCILLO GOMEZ, HUGO",
+    "TERUEL AROCA, ALBERTO",
+    "LOUM AMROUCHE, OMAR",
+    "CÁRCELES OLTRA, JAVIER",
+    "LÓPEZ MONDOC, DANIEL",
+    "VALVERDE GONZALEZ, ALEJANDRO",
+    "PARRAGA CABALLERO, JUAN",
+    "GARCÍA MONTOLIO, MARCOS",
+    "MAZÓN VALERO, JAVIER",
+    "DOTO, KOKOU BINJAMIN"
+  ],
+  "titulares_visitante": [
+    "CALDUCH DE LA TORRE, JORGE",
+    "NADAL SANCHIS, JOSE",
+    "ZAECK VALERO, DANIEL",
+    "IMADIYI UKURE, DESIRE OSARIEMEN",
+    "GIL LUIS, OSCAR SHIMELIS",
+    "ALBIOL TURCH, ALBERT",
+    "ARAPIO DURA, ADRIAN",
+    "BIOSCA RIPOLLÉS, ALEX",
+    "ZAMUDIO MARIN, LUCCA GABRIEL",
+    "SANTOS LUQUE, AARON",
+    "GOMEZ MARTINEZ, JOAN"
+  ],
+  "suplentes_local": [
+    "JEDI, MAROUAN",
+    "LOPEZ TRIVIÑO, DIEGO JOSE",
+    "MARTINEZ LOPEZ, PEDRO",
+    "MILAN ALMODOVAR, ENRIQUE",
+    "GARRIDO RODENAS, ALBERTO",
+    "CARRILLO LOPEZ, FRANCISCO",
+    "EL MOUSSE, HAITAM"
+  ],
+  "suplentes_visitante": [
+    "MEJIA BURNHAM, JORDAN ALEXIS",
+    "GUERRA BAUTISTA, JAVI",
+    "RODRIGUEZ ROMERO, JULIAN ANDRES",
+    "GARCIA SORIA, MIQUEL",
+    "PEREZ MENENDEZ, AXEL",
+    "BREDIHINS, KIRILS",
+    "FERRER CARCELLER, ALEIX"
+  ],
+  "convocados_sin_jugar_local": [
+    "JEDI, MAROUAN",
+    "MILAN ALMODOVAR, ENRIQUE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GUERRA BAUTISTA, JAVI",
+    "BREDIHINS, KIRILS"
+  ],
+  "jugadores_local": [
+    "ATAZ GALLASTEGUI, MAURIZIO",
+    "MORCILLO GOMEZ, HUGO",
+    "TERUEL AROCA, ALBERTO",
+    "LOUM AMROUCHE, OMAR",
+    "CÁRCELES OLTRA, JAVIER",
+    "LÓPEZ MONDOC, DANIEL",
+    "VALVERDE GONZALEZ, ALEJANDRO",
+    "PARRAGA CABALLERO, JUAN",
+    "GARCÍA MONTOLIO, MARCOS",
+    "MAZÓN VALERO, JAVIER",
+    "DOTO, KOKOU BINJAMIN",
+    "EL MOUSSE, HAITAM",
+    "GARRIDO RODENAS, ALBERTO",
+    "MARTINEZ LOPEZ, PEDRO",
+    "LOPEZ TRIVIÑO, DIEGO JOSE",
+    "CARRILLO LOPEZ, FRANCISCO"
+  ],
+  "jugadores_visitante": [
+    "CALDUCH DE LA TORRE, JORGE",
+    "NADAL SANCHIS, JOSE",
+    "ZAECK VALERO, DANIEL",
+    "IMADIYI UKURE, DESIRE OSARIEMEN",
+    "GIL LUIS, OSCAR SHIMELIS",
+    "ALBIOL TURCH, ALBERT",
+    "ARAPIO DURA, ADRIAN",
+    "BIOSCA RIPOLLÉS, ALEX",
+    "ZAMUDIO MARIN, LUCCA GABRIEL",
+    "SANTOS LUQUE, AARON",
+    "GOMEZ MARTINEZ, JOAN",
+    "RODRIGUEZ ROMERO, JULIAN ANDRES",
+    "PEREZ MENENDEZ, AXEL",
+    "GARCIA SORIA, MIQUEL",
+    "MEJIA BURNHAM, JORDAN ALEXIS",
+    "FERRER CARCELLER, ALEIX"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "EL MOUSSE, HAITAM",
+      "sale": "DOTO, KOKOU BINJAMIN"
+    },
+    {
+      "min": 59,
+      "entra": "GARRIDO RODENAS, ALBERTO",
+      "sale": "PARRAGA CABALLERO, JUAN"
+    },
+    {
+      "min": 71,
+      "entra": "MARTINEZ LOPEZ, PEDRO",
+      "sale": "TERUEL AROCA, ALBERTO"
+    },
+    {
+      "min": 75,
+      "entra": "LOPEZ TRIVIÑO, DIEGO JOSE",
+      "sale": "LÓPEZ MONDOC, DANIEL"
+    },
+    {
+      "min": 75,
+      "entra": "CARRILLO LOPEZ, FRANCISCO",
+      "sale": "VALVERDE GONZALEZ, ALEJANDRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "RODRIGUEZ ROMERO, JULIAN ANDRES",
+      "sale": "NADAL SANCHIS, JOSE"
+    },
+    {
+      "min": 45,
+      "entra": "PEREZ MENENDEZ, AXEL",
+      "sale": "SANTOS LUQUE, AARON"
+    },
+    {
+      "min": 45,
+      "entra": "GARCIA SORIA, MIQUEL",
+      "sale": "GIL LUIS, OSCAR SHIMELIS"
+    },
+    {
+      "min": 61,
+      "entra": "MEJIA BURNHAM, JORDAN ALEXIS",
+      "sale": "ZAECK VALERO, DANIEL"
+    },
+    {
+      "min": 63,
+      "entra": "FERRER CARCELLER, ALEIX",
+      "sale": "ARAPIO DURA, ADRIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "ATAZ GALLASTEGUI, MAURIZIO": 90,
+    "MORCILLO GOMEZ, HUGO": 90,
+    "TERUEL AROCA, ALBERTO": 71,
+    "LOUM AMROUCHE, OMAR": 90,
+    "CÁRCELES OLTRA, JAVIER": 90,
+    "LÓPEZ MONDOC, DANIEL": 75,
+    "VALVERDE GONZALEZ, ALEJANDRO": 75,
+    "PARRAGA CABALLERO, JUAN": 59,
+    "GARCÍA MONTOLIO, MARCOS": 90,
+    "MAZÓN VALERO, JAVIER": 90,
+    "DOTO, KOKOU BINJAMIN": 45,
+    "CALDUCH DE LA TORRE, JORGE": 90,
+    "NADAL SANCHIS, JOSE": 45,
+    "ZAECK VALERO, DANIEL": 61,
+    "IMADIYI UKURE, DESIRE OSARIEMEN": 90,
+    "GIL LUIS, OSCAR SHIMELIS": 45,
+    "ALBIOL TURCH, ALBERT": 90,
+    "ARAPIO DURA, ADRIAN": 63,
+    "BIOSCA RIPOLLÉS, ALEX": 90,
+    "ZAMUDIO MARIN, LUCCA GABRIEL": 90,
+    "SANTOS LUQUE, AARON": 45,
+    "GOMEZ MARTINEZ, JOAN": 90,
+    "EL MOUSSE, HAITAM": 45,
+    "GARRIDO RODENAS, ALBERTO": 31,
+    "MARTINEZ LOPEZ, PEDRO": 19,
+    "LOPEZ TRIVIÑO, DIEGO JOSE": 15,
+    "CARRILLO LOPEZ, FRANCISCO": 15,
+    "RODRIGUEZ ROMERO, JULIAN ANDRES": 45,
+    "PEREZ MENENDEZ, AXEL": 45,
+    "GARCIA SORIA, MIQUEL": 45,
+    "MEJIA BURNHAM, JORDAN ALEXIS": 29,
+    "FERRER CARCELLER, ALEIX": 27
+  },
+  "portero_local": "ATAZ GALLASTEGUI, MAURIZIO",
+  "portero_visitante": "CALDUCH DE LA TORRE, JORGE",
+  "dorsales_local": {
+    "ATAZ GALLASTEGUI, MAURIZIO": 1,
+    "MORCILLO GOMEZ, HUGO": 3,
+    "TERUEL AROCA, ALBERTO": 4,
+    "LOUM AMROUCHE, OMAR": 6,
+    "CÁRCELES OLTRA, JAVIER": 8,
+    "LÓPEZ MONDOC, DANIEL": 9,
+    "VALVERDE GONZALEZ, ALEJANDRO": 10,
+    "PARRAGA CABALLERO, JUAN": 14,
+    "GARCÍA MONTOLIO, MARCOS": 21,
+    "MAZÓN VALERO, JAVIER": 24,
+    "DOTO, KOKOU BINJAMIN": 26
+  },
+  "dorsales_visitante": {
+    "CALDUCH DE LA TORRE, JORGE": 1,
+    "NADAL SANCHIS, JOSE": 3,
+    "ZAECK VALERO, DANIEL": 4,
+    "IMADIYI UKURE, DESIRE OSARIEMEN": 6,
+    "GIL LUIS, OSCAR SHIMELIS": 12,
+    "ALBIOL TURCH, ALBERT": 14,
+    "ARAPIO DURA, ADRIAN": 16,
+    "BIOSCA RIPOLLÉS, ALEX": 17,
+    "ZAMUDIO MARIN, LUCCA GABRIEL": 19,
+    "SANTOS LUQUE, AARON": 22,
+    "GOMEZ MARTINEZ, JOAN": 28
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
