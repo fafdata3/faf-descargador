@@ -31,19 +31,22 @@
       "minuto": 1,
       "jugador": "LOPEZ DEL PINO, ALVARO",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 10,
       "jugador": "RIBEIRO RESENDE, HUMBERTO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 29,
       "jugador": "DE SANTANA BRITO, LUCAS VINICIUS",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -95,7 +98,7 @@
   "segundo_entrenador_local": null,
   "segundo_entrenador_visitante": "LLANSOLA CUENCA, MIGUEL",
   "delegado_campo_local": null,
-  "delegado_campo_visitante": "COVAS ESCOBAR, ISIDRO",
+  "delegado_campo_visitante": null,
   "delegado_equipo_local": null,
   "delegado_equipo_visitante": "GALLEGO GUIJARRO, JOSE",
   "titulares_local": [
