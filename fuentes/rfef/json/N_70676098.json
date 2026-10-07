@@ -1,0 +1,268 @@
+{
+  "acta_id": "N_70676098",
+  "filename": "Acta_N_70676098.txt",
+  "fuente": "rfef",
+  "temporada": "2025-2026",
+  "jornada": 30,
+  "fecha": "02-05-2026",
+  "hora": "12:00",
+  "categoria": "Division de Honor Juvenil (Grupo 7)",
+  "equipo_local": "PATACONA C.F.",
+  "equipo_visitante": "F.C. JOVE ESPAÑOL SAN VICENTE",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO",
+    "GARCIA ARCHILES, PABLO",
+    "ÁRBITRO ASISTENTE",
+    "MORRO SANCHEZ, RAFAEL",
+    "ÁRBITRO ASISTENTE",
+    "BELTRÁN SÁNCHEZ, MARC"
+  ],
+  "estadio": "Campo Mpal. de la Patacona F-11",
+  "ciudad": "Alboraya",
+  "goleadores": [
+    {
+      "minuto": 50,
+      "jugador": "HERNANDEZ LIERN, OSCAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 88,
+      "jugador": "MORENO MARQUINA, CARLES",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "CARDO CASARES, IGNACIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "IBAÑEZ PERAL, JORGE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "DASI DAZA, KEVIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "REBOLLO BAS, JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "FANDIÑO RAMIREZ, SANTIAGO",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GALLARDO PICÓ, EMILIO JOSE",
+  "titulares_local": [
+    "GOMEZ VIVES, SERGIO",
+    "ALEIXANDRE PEREZ, PAU",
+    "BLAZQUEZ GOMEZ, CARLOS",
+    "MORENO MARQUINA, CARLES",
+    "MONFORT NAVARRO, HECTOR",
+    "PERALES FELIPE, HÉCTOR",
+    "HERNANDEZ LIERN, OSCAR",
+    "AGUILAR ALVAREZ, GUILLERMO",
+    "AMARO FRANCES, LUCAS",
+    "GUERRA MORENO, ANTONIO",
+    "OGAWAJI, MAHARJAN YOGO"
+  ],
+  "titulares_visitante": [
+    "HRISTOV, KRISTIAN ALEKSANDROV",
+    "IBAÑEZ PERAL, JORGE",
+    "CABALLER BEVIA, ARTURO",
+    "ORTIZ SANCHEZ, ANGEL",
+    "MARTÍNEZ SILVESTRE, PAU",
+    "GARCIA MARCO, JOSE LUIS",
+    "JIMENEZ ALTABA, MAURO",
+    "GIMENEZ GONZALEZ, DAVID",
+    "KACI GRANADA, RYAD",
+    "GIL ORTIGOSA, ADRIAN",
+    "RUIZ DIAZ LOPEZ, LUCA"
+  ],
+  "suplentes_local": [
+    "CANOVES MARTÍ, DAVID",
+    "CHEN, YUSHENG",
+    "DRAGOMIR TOMESCU, GEORGE ROBERT",
+    "MORAN ALCAÑIZ, LUCAS",
+    "MARTÍ SÁNCHEZ, ALEJANDRO",
+    "GAVILAN LOPEZ, LUCIO",
+    "CARDO CASARES, IGNACIO"
+  ],
+  "suplentes_visitante": [
+    "GARCIA BREVIA, IYAN",
+    "JIMÉNEZ ARAEZ, PABLO FRANCISCO",
+    "DASI DAZA, KEVIN",
+    "RUIZ CARBONELL, IZAN",
+    "ENCINAS JARAMILLO, TIAGO ANDRÉ"
+  ],
+  "convocados_sin_jugar_local": [
+    "CANOVES MARTÍ, DAVID",
+    "GAVILAN LOPEZ, LUCIO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GARCIA BREVIA, IYAN"
+  ],
+  "jugadores_local": [
+    "GOMEZ VIVES, SERGIO",
+    "ALEIXANDRE PEREZ, PAU",
+    "BLAZQUEZ GOMEZ, CARLOS",
+    "MORENO MARQUINA, CARLES",
+    "MONFORT NAVARRO, HECTOR",
+    "PERALES FELIPE, HÉCTOR",
+    "HERNANDEZ LIERN, OSCAR",
+    "AGUILAR ALVAREZ, GUILLERMO",
+    "AMARO FRANCES, LUCAS",
+    "GUERRA MORENO, ANTONIO",
+    "OGAWAJI, MAHARJAN YOGO",
+    "CARDO CASARES, IGNACIO",
+    "MORAN ALCAÑIZ, LUCAS",
+    "CHEN, YUSHENG",
+    "MARTÍ SÁNCHEZ, ALEJANDRO",
+    "DRAGOMIR TOMESCU, GEORGE ROBERT"
+  ],
+  "jugadores_visitante": [
+    "HRISTOV, KRISTIAN ALEKSANDROV",
+    "IBAÑEZ PERAL, JORGE",
+    "CABALLER BEVIA, ARTURO",
+    "ORTIZ SANCHEZ, ANGEL",
+    "MARTÍNEZ SILVESTRE, PAU",
+    "GARCIA MARCO, JOSE LUIS",
+    "JIMENEZ ALTABA, MAURO",
+    "GIMENEZ GONZALEZ, DAVID",
+    "KACI GRANADA, RYAD",
+    "GIL ORTIGOSA, ADRIAN",
+    "RUIZ DIAZ LOPEZ, LUCA",
+    "DASI DAZA, KEVIN",
+    "JIMÉNEZ ARAEZ, PABLO FRANCISCO",
+    "RUIZ CARBONELL, IZAN",
+    "ENCINAS JARAMILLO, TIAGO ANDRÉ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "CARDO CASARES, IGNACIO",
+      "sale": "GUERRA MORENO, ANTONIO"
+    },
+    {
+      "min": 55,
+      "entra": "MORAN ALCAÑIZ, LUCAS",
+      "sale": "HERNANDEZ LIERN, OSCAR"
+    },
+    {
+      "min": 57,
+      "entra": "CHEN, YUSHENG",
+      "sale": "MONFORT NAVARRO, HECTOR"
+    },
+    {
+      "min": 57,
+      "entra": "MARTÍ SÁNCHEZ, ALEJANDRO",
+      "sale": "AGUILAR ALVAREZ, GUILLERMO"
+    },
+    {
+      "min": 66,
+      "entra": "DRAGOMIR TOMESCU, GEORGE ROBERT",
+      "sale": "PERALES FELIPE, HÉCTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "DASI DAZA, KEVIN",
+      "sale": "CABALLER BEVIA, ARTURO"
+    },
+    {
+      "min": 46,
+      "entra": "JIMÉNEZ ARAEZ, PABLO FRANCISCO",
+      "sale": "GIMENEZ GONZALEZ, DAVID"
+    },
+    {
+      "min": 60,
+      "entra": "RUIZ CARBONELL, IZAN",
+      "sale": "ORTIZ SANCHEZ, ANGEL"
+    },
+    {
+      "min": 60,
+      "entra": "ENCINAS JARAMILLO, TIAGO ANDRÉ",
+      "sale": "GARCIA MARCO, JOSE LUIS"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ VIVES, SERGIO": 90,
+    "ALEIXANDRE PEREZ, PAU": 90,
+    "BLAZQUEZ GOMEZ, CARLOS": 90,
+    "MORENO MARQUINA, CARLES": 90,
+    "MONFORT NAVARRO, HECTOR": 57,
+    "PERALES FELIPE, HÉCTOR": 66,
+    "HERNANDEZ LIERN, OSCAR": 55,
+    "AGUILAR ALVAREZ, GUILLERMO": 57,
+    "AMARO FRANCES, LUCAS": 90,
+    "GUERRA MORENO, ANTONIO": 55,
+    "OGAWAJI, MAHARJAN YOGO": 90,
+    "HRISTOV, KRISTIAN ALEKSANDROV": 90,
+    "IBAÑEZ PERAL, JORGE": 90,
+    "CABALLER BEVIA, ARTURO": 46,
+    "ORTIZ SANCHEZ, ANGEL": 60,
+    "MARTÍNEZ SILVESTRE, PAU": 90,
+    "GARCIA MARCO, JOSE LUIS": 60,
+    "JIMENEZ ALTABA, MAURO": 90,
+    "GIMENEZ GONZALEZ, DAVID": 46,
+    "KACI GRANADA, RYAD": 90,
+    "GIL ORTIGOSA, ADRIAN": 90,
+    "RUIZ DIAZ LOPEZ, LUCA": 90,
+    "CARDO CASARES, IGNACIO": 35,
+    "MORAN ALCAÑIZ, LUCAS": 35,
+    "CHEN, YUSHENG": 33,
+    "MARTÍ SÁNCHEZ, ALEJANDRO": 33,
+    "DRAGOMIR TOMESCU, GEORGE ROBERT": 24,
+    "DASI DAZA, KEVIN": 44,
+    "JIMÉNEZ ARAEZ, PABLO FRANCISCO": 44,
+    "RUIZ CARBONELL, IZAN": 30,
+    "ENCINAS JARAMILLO, TIAGO ANDRÉ": 30
+  },
+  "portero_local": "GOMEZ VIVES, SERGIO",
+  "portero_visitante": "HRISTOV, KRISTIAN ALEKSANDROV",
+  "dorsales_local": {
+    "GOMEZ VIVES, SERGIO": 1,
+    "ALEIXANDRE PEREZ, PAU": 3,
+    "BLAZQUEZ GOMEZ, CARLOS": 4,
+    "MORENO MARQUINA, CARLES": 5,
+    "MONFORT NAVARRO, HECTOR": 8,
+    "PERALES FELIPE, HÉCTOR": 9,
+    "HERNANDEZ LIERN, OSCAR": 11,
+    "AGUILAR ALVAREZ, GUILLERMO": 15,
+    "AMARO FRANCES, LUCAS": 17,
+    "GUERRA MORENO, ANTONIO": 18,
+    "OGAWAJI, MAHARJAN YOGO": 61
+  },
+  "dorsales_visitante": {
+    "HRISTOV, KRISTIAN ALEKSANDROV": 13,
+    "IBAÑEZ PERAL, JORGE": 2,
+    "CABALLER BEVIA, ARTURO": 4,
+    "ORTIZ SANCHEZ, ANGEL": 6,
+    "MARTÍNEZ SILVESTRE, PAU": 8,
+    "GARCIA MARCO, JOSE LUIS": 16,
+    "JIMENEZ ALTABA, MAURO": 17,
+    "GIMENEZ GONZALEZ, DAVID": 19,
+    "KACI GRANADA, RYAD": 21,
+    "GIL ORTIGOSA, ADRIAN": 29,
+    "RUIZ DIAZ LOPEZ, LUCA": 44
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
