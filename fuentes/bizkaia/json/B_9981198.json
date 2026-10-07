@@ -1,0 +1,233 @@
+{
+  "acta_id": "B_9981198",
+  "filename": "Acta_B_9981198.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "19-10-2025",
+  "hora": "11:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ASTI-LEKU A",
+  "equipo_visitante": "TRAPAGARAN A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "REQUEJO RODRIGUEZ, EKAITZ"
+  ],
+  "estadio": "LOS LLANOS",
+  "ciudad": "Portugalete",
+  "goleadores": [
+    {
+      "minuto": 80,
+      "jugador": "SESMERO RUIZ, XABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 76,
+      "jugador": "RUIZ PARIS, ASIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MERINO CURIEL, MIGUEL",
+  "entrenador_visitante": "GARCIA URQUIJO, GAIZKA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "IDIAÑEZ BERASTEGUI, EKAIN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "IDIAÑEZ BERASTEGUI, EKAIN",
+  "delegado_equipo_visitante": "SESMERO RUIZ, ANNE",
+  "titulares_local": [
+    "DEL RIO GIL, MARKEL",
+    "CUÑADO AIZPURU, JOSU",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "ARTEAGA DOUEIL, IKER",
+    "ELORZA CORRALES, IÑAKI",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "MURGA FERNANDEZ, LANDER",
+    "HERNANDO MIELGO, URKO"
+  ],
+  "titulares_visitante": [
+    "FERNÁNDEZ AGUILAR, UNAI",
+    "SARMANTON GALLO, LIER",
+    "EROA SORIANO, OIER",
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "FUENTES OCHOA, IÑIGO",
+    "SAIZ CARBAJO, KERMAN",
+    "ARMENTIA LARRAURI, XABIER",
+    "ROMERO PEREZ, ALVARO",
+    "FERNÁNDEZ AGUILAR, MARIO",
+    "MARIN GARCIA, ALVARO"
+  ],
+  "suplentes_local": [
+    "PLANS DE DIEGO, LEZO",
+    "ORRANTIA ORTIZ DE ZARATE, GORKA",
+    "BAZ LUQUE, JÖEL",
+    "QUIROS DEL MOLINO, ENEKO",
+    "FERNANDEZ GONZALEZ, OIER",
+    "LORENTE PRADO, ANER",
+    "FERNANDEZ CARIDAD, ENEKO"
+  ],
+  "suplentes_visitante": [
+    "DÍAZ MULERO, ANDER",
+    "RUIZ PARIS, ASIER",
+    "GONZALEZ MARTINEZ, URKO",
+    "RUIZ FRAILE, URKO",
+    "BRAHIM AHMED, MOHAMED",
+    "DÍAZ MULERO, MIKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORRANTIA ORTIZ DE ZARATE, GORKA",
+    "BAZ LUQUE, JÖEL",
+    "LORENTE PRADO, ANER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DÍAZ MULERO, ANDER",
+    "RUIZ FRAILE, URKO",
+    "BRAHIM AHMED, MOHAMED"
+  ],
+  "jugadores_local": [
+    "DEL RIO GIL, MARKEL",
+    "CUÑADO AIZPURU, JOSU",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "ABAD MEDIAVILLA, LIHER",
+    "ELEXPURU GOMEZ, GORKA",
+    "ARTEAGA DOUEIL, IKER",
+    "ELORZA CORRALES, IÑAKI",
+    "VADILLO CASTRILLEJO, JON",
+    "FORTEA BARABINO, MATEO",
+    "MURGA FERNANDEZ, LANDER",
+    "HERNANDO MIELGO, URKO",
+    "QUIROS DEL MOLINO, ENEKO",
+    "FERNANDEZ GONZALEZ, OIER",
+    "FERNANDEZ CARIDAD, ENEKO",
+    "PLANS DE DIEGO, LEZO"
+  ],
+  "jugadores_visitante": [
+    "FERNÁNDEZ AGUILAR, UNAI",
+    "SARMANTON GALLO, LIER",
+    "EROA SORIANO, OIER",
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "FUENTES OCHOA, IÑIGO",
+    "SAIZ CARBAJO, KERMAN",
+    "ARMENTIA LARRAURI, XABIER",
+    "ROMERO PEREZ, ALVARO",
+    "FERNÁNDEZ AGUILAR, MARIO",
+    "MARIN GARCIA, ALVARO",
+    "GONZALEZ MARTINEZ, URKO",
+    "RUIZ PARIS, ASIER",
+    "DÍAZ MULERO, MIKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "QUIROS DEL MOLINO, ENEKO",
+      "sale": "ELEXPURU GOMEZ, GORKA"
+    },
+    {
+      "min": 52,
+      "entra": "FERNANDEZ GONZALEZ, OIER",
+      "sale": "HERNANDO MIELGO, URKO"
+    },
+    {
+      "min": 63,
+      "entra": "FERNANDEZ CARIDAD, ENEKO",
+      "sale": "FORTEA BARABINO, MATEO"
+    },
+    {
+      "min": 80,
+      "entra": "PLANS DE DIEGO, LEZO",
+      "sale": "VADILLO CASTRILLEJO, JON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "GONZALEZ MARTINEZ, URKO",
+      "sale": "ROMERO PEREZ, ALVARO"
+    },
+    {
+      "min": 61,
+      "entra": "RUIZ PARIS, ASIER",
+      "sale": "LÓPEZ DE EGUINOA MARTÍNEZ, IKER"
+    },
+    {
+      "min": 69,
+      "entra": "DÍAZ MULERO, MIKEL",
+      "sale": "FUENTES OCHOA, IÑIGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "DEL RIO GIL, MARKEL": 90,
+    "CUÑADO AIZPURU, JOSU": 90,
+    "ALCANTARA IBAÑEZ, BEÑAT": 90,
+    "ABAD MEDIAVILLA, LIHER": 90,
+    "ELEXPURU GOMEZ, GORKA": 52,
+    "ARTEAGA DOUEIL, IKER": 90,
+    "ELORZA CORRALES, IÑAKI": 90,
+    "VADILLO CASTRILLEJO, JON": 80,
+    "FORTEA BARABINO, MATEO": 63,
+    "MURGA FERNANDEZ, LANDER": 90,
+    "HERNANDO MIELGO, URKO": 52,
+    "QUIROS DEL MOLINO, ENEKO": 38,
+    "FERNANDEZ GONZALEZ, OIER": 38,
+    "FERNANDEZ CARIDAD, ENEKO": 27,
+    "PLANS DE DIEGO, LEZO": 10,
+    "FERNÁNDEZ AGUILAR, UNAI": 90,
+    "SARMANTON GALLO, LIER": 90,
+    "EROA SORIANO, OIER": 90,
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER": 61,
+    "SESMERO RUIZ, XABIER": 90,
+    "FUENTES OCHOA, IÑIGO": 69,
+    "SAIZ CARBAJO, KERMAN": 90,
+    "ARMENTIA LARRAURI, XABIER": 90,
+    "ROMERO PEREZ, ALVARO": 52,
+    "FERNÁNDEZ AGUILAR, MARIO": 90,
+    "MARIN GARCIA, ALVARO": 90,
+    "GONZALEZ MARTINEZ, URKO": 38,
+    "RUIZ PARIS, ASIER": 29,
+    "DÍAZ MULERO, MIKEL": 21
+  },
+  "portero_local": "DEL RIO GIL, MARKEL",
+  "portero_visitante": "FERNÁNDEZ AGUILAR, UNAI",
+  "dorsales_local": {
+    "DEL RIO GIL, MARKEL": 1,
+    "CUÑADO AIZPURU, JOSU": 3,
+    "ALCANTARA IBAÑEZ, BEÑAT": 4,
+    "ABAD MEDIAVILLA, LIHER": 5,
+    "ELEXPURU GOMEZ, GORKA": 6,
+    "ARTEAGA DOUEIL, IKER": 8,
+    "ELORZA CORRALES, IÑAKI": 9,
+    "VADILLO CASTRILLEJO, JON": 10,
+    "FORTEA BARABINO, MATEO": 11,
+    "MURGA FERNANDEZ, LANDER": 15,
+    "HERNANDO MIELGO, URKO": 23
+  },
+  "dorsales_visitante": {
+    "FERNÁNDEZ AGUILAR, UNAI": 1,
+    "SARMANTON GALLO, LIER": 2,
+    "EROA SORIANO, OIER": 3,
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER": 4,
+    "SESMERO RUIZ, XABIER": 5,
+    "FUENTES OCHOA, IÑIGO": 6,
+    "SAIZ CARBAJO, KERMAN": 9,
+    "ARMENTIA LARRAURI, XABIER": 14,
+    "ROMERO PEREZ, ALVARO": 16,
+    "FERNÁNDEZ AGUILAR, MARIO": 17,
+    "MARIN GARCIA, ALVARO": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
