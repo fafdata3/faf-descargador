@@ -1,0 +1,271 @@
+{
+  "acta_id": "C_239988",
+  "filename": "Acta_C_239988.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "27-09-2026",
+  "hora": "10:30",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "DEPORTIVO PERINES",
+  "equipo_visitante": "POLANCO C.F. A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "IBÁÑEZ PRIETO, RAÚL"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "ALVAREZ JIMENEZ, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 3,
+      "jugador": "FRAILE GARCÍA, CARLOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "BARQUIN SARRAGA, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "LIAÑO VARELA, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "SANTOS RODRIGUEZ, MIGUEL ANGEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 82,
+      "jugador": "DE JULIAN PEROJO, MATEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 30,
+      "jugador": "DIAZ TRESGALLO, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "GANDIAGA CARRERA, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SANTOS RODRIGUEZ, MIGUEL ANGEL",
+  "entrenador_visitante": "URBISTONDO MARINO, PEDRO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SANTOS CARRERA, JOSE MANUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SANTOS CARRERA, JOSE MANUEL",
+  "delegado_equipo_visitante": "GARCIA SANTIAGO, VICTOR",
+  "titulares_local": [
+    "CALLEJO SALGUERO, HUGO",
+    "FRAILE GARCÍA, CARLOS",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "LIAÑO VARELA, DANIEL",
+    "CASCALES TORRE, BOSCO",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "PÉREZ MARTIN, JAIRO",
+    "DE JULIAN PEROJO, MATEO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "TENORIO ARANA, AITOR",
+    "ESTRADA ALONSO, AARON"
+  ],
+  "titulares_visitante": [
+    "OBESO MARTINEZ, MARCOS",
+    "FERNANDEZ MARTINEZ, LUCAS",
+    "PEREZ MARCANO, MANUEL",
+    "MARTINEZ ARENAS, IVAN",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "DIAZ TRESGALLO, MARIO",
+    "FERNANDEZ GONZALEZ, MARTIN",
+    "ORTIZ LEO, SÁUL",
+    "FERNANDEZ GONZALEZ, XAEL",
+    "CRESPO VELA, AITOR",
+    "PEREZ MIRANDA, IZAN"
+  ],
+  "suplentes_local": [
+    "POO DUBREUIL, ANDRES",
+    "BARQUIN SARRAGA, MARIO",
+    "IRIARTE MULATO, ADRIÁN ANDRES",
+    "GONZALEZ MANZANO, ADAY",
+    "ALONSO FERNANDEZ, MATEO"
+  ],
+  "suplentes_visitante": [
+    "ARENAL DIESTRO, LUCA",
+    "GANDIAGA CARRERA, HUGO",
+    "CUESTA SANZ, PABLO",
+    "VAZQUEZ PORRAS, SERGIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "ARENAL DIESTRO, LUCA"
+  ],
+  "jugadores_local": [
+    "CALLEJO SALGUERO, HUGO",
+    "FRAILE GARCÍA, CARLOS",
+    "LOPEZ SAMANIEGO, FEDERICO",
+    "LIAÑO VARELA, DANIEL",
+    "CASCALES TORRE, BOSCO",
+    "FERNANDEZ NAVAMUEL, JENS",
+    "PÉREZ MARTIN, JAIRO",
+    "DE JULIAN PEROJO, MATEO",
+    "MINUTA DARIAS, GIANFRANCO JOSE",
+    "TENORIO ARANA, AITOR",
+    "ESTRADA ALONSO, AARON",
+    "BARQUIN SARRAGA, MARIO",
+    "IRIARTE MULATO, ADRIÁN ANDRES",
+    "GONZALEZ MANZANO, ADAY",
+    "ALONSO FERNANDEZ, MATEO",
+    "POO DUBREUIL, ANDRES"
+  ],
+  "jugadores_visitante": [
+    "OBESO MARTINEZ, MARCOS",
+    "FERNANDEZ MARTINEZ, LUCAS",
+    "PEREZ MARCANO, MANUEL",
+    "MARTINEZ ARENAS, IVAN",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "DIAZ TRESGALLO, MARIO",
+    "FERNANDEZ GONZALEZ, MARTIN",
+    "ORTIZ LEO, SÁUL",
+    "FERNANDEZ GONZALEZ, XAEL",
+    "CRESPO VELA, AITOR",
+    "PEREZ MIRANDA, IZAN",
+    "GANDIAGA CARRERA, HUGO",
+    "CUESTA SANZ, PABLO",
+    "VAZQUEZ PORRAS, SERGIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 12,
+      "entra": "BARQUIN SARRAGA, MARIO",
+      "sale": "FRAILE GARCÍA, CARLOS"
+    },
+    {
+      "min": 54,
+      "entra": "IRIARTE MULATO, ADRIÁN ANDRES",
+      "sale": "FERNANDEZ NAVAMUEL, JENS"
+    },
+    {
+      "min": 57,
+      "entra": "GONZALEZ MANZANO, ADAY",
+      "sale": "ESTRADA ALONSO, AARON"
+    },
+    {
+      "min": 61,
+      "entra": "ALONSO FERNANDEZ, MATEO",
+      "sale": "LIAÑO VARELA, DANIEL"
+    },
+    {
+      "min": 75,
+      "entra": "POO DUBREUIL, ANDRES",
+      "sale": "PÉREZ MARTIN, JAIRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "GANDIAGA CARRERA, HUGO",
+      "sale": "ORTIZ LEO, SÁUL"
+    },
+    {
+      "min": 57,
+      "entra": "CUESTA SANZ, PABLO",
+      "sale": "DIAZ TRESGALLO, MARIO"
+    },
+    {
+      "min": 74,
+      "entra": "VAZQUEZ PORRAS, SERGIO",
+      "sale": "PEREZ MIRANDA, IZAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "CALLEJO SALGUERO, HUGO": 90,
+    "FRAILE GARCÍA, CARLOS": 12,
+    "LOPEZ SAMANIEGO, FEDERICO": 90,
+    "LIAÑO VARELA, DANIEL": 61,
+    "CASCALES TORRE, BOSCO": 90,
+    "FERNANDEZ NAVAMUEL, JENS": 54,
+    "PÉREZ MARTIN, JAIRO": 75,
+    "DE JULIAN PEROJO, MATEO": 90,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 90,
+    "TENORIO ARANA, AITOR": 90,
+    "ESTRADA ALONSO, AARON": 57,
+    "BARQUIN SARRAGA, MARIO": 78,
+    "IRIARTE MULATO, ADRIÁN ANDRES": 36,
+    "GONZALEZ MANZANO, ADAY": 33,
+    "ALONSO FERNANDEZ, MATEO": 29,
+    "POO DUBREUIL, ANDRES": 15,
+    "OBESO MARTINEZ, MARCOS": 90,
+    "FERNANDEZ MARTINEZ, LUCAS": 90,
+    "PEREZ MARCANO, MANUEL": 90,
+    "MARTINEZ ARENAS, IVAN": 90,
+    "ALVAREZ JIMENEZ, DIEGO": 90,
+    "DIAZ TRESGALLO, MARIO": 57,
+    "FERNANDEZ GONZALEZ, MARTIN": 90,
+    "ORTIZ LEO, SÁUL": 50,
+    "FERNANDEZ GONZALEZ, XAEL": 90,
+    "CRESPO VELA, AITOR": 90,
+    "PEREZ MIRANDA, IZAN": 74,
+    "GANDIAGA CARRERA, HUGO": 40,
+    "CUESTA SANZ, PABLO": 33,
+    "VAZQUEZ PORRAS, SERGIO": 16
+  },
+  "portero_local": "CALLEJO SALGUERO, HUGO",
+  "portero_visitante": "OBESO MARTINEZ, MARCOS",
+  "dorsales_local": {
+    "CALLEJO SALGUERO, HUGO": 13,
+    "FRAILE GARCÍA, CARLOS": 2,
+    "LOPEZ SAMANIEGO, FEDERICO": 4,
+    "LIAÑO VARELA, DANIEL": 7,
+    "CASCALES TORRE, BOSCO": 8,
+    "FERNANDEZ NAVAMUEL, JENS": 9,
+    "PÉREZ MARTIN, JAIRO": 10,
+    "DE JULIAN PEROJO, MATEO": 12,
+    "MINUTA DARIAS, GIANFRANCO JOSE": 14,
+    "TENORIO ARANA, AITOR": 17,
+    "ESTRADA ALONSO, AARON": 19
+  },
+  "dorsales_visitante": {
+    "OBESO MARTINEZ, MARCOS": 1,
+    "FERNANDEZ MARTINEZ, LUCAS": 2,
+    "PEREZ MARCANO, MANUEL": 6,
+    "MARTINEZ ARENAS, IVAN": 7,
+    "ALVAREZ JIMENEZ, DIEGO": 9,
+    "DIAZ TRESGALLO, MARIO": 11,
+    "FERNANDEZ GONZALEZ, MARTIN": 14,
+    "ORTIZ LEO, SÁUL": 19,
+    "FERNANDEZ GONZALEZ, XAEL": 20,
+    "CRESPO VELA, AITOR": 21,
+    "PEREZ MIRANDA, IZAN": 25
+  },
+  "suspendidos": []
+}
