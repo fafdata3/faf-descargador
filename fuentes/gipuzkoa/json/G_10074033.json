@@ -1,0 +1,235 @@
+{
+  "acta_id": "G_10074033",
+  "filename": "Acta_G_10074033.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "03-10-2026",
+  "hora": "13:55",
+  "categoria": "GIZONEZKO KADETEEN 1. MAILA / 1ª CADETE MASCULINO (5. MULTZOA - GRUPO 5)",
+  "equipo_local": "INTERNACIONAL C.D. C",
+  "equipo_visitante": "PASAIA K.E. C",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "JUANENA SUSPERREGI, AGER"
+  ],
+  "estadio": "MATIGOXOTEGI",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 32,
+      "jugador": "GONZALEZ FERNANDEZ, IOSU",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "GONZALEZ FERNANDEZ, IOSU",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "CANO GARAYOA, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "BURGOS GARCIA, PEPE",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JAUREGI GONZALEZ, ENDIKA",
+  "entrenador_visitante": "GARCIA LUCAS, PEDRO VENTURA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MUÑOA GARRAIGORDOBIL, OIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MUÑOA GARRAIGORDOBIL, OIER",
+  "delegado_equipo_visitante": "ALONSO FERNANDEZ, JOSE MIGUEL",
+  "titulares_local": [
+    "MARTIN IPARRAGUIRRE, OIER",
+    "SAN EMETERIO ESCRIBANO, AIMAR",
+    "HELLMUTH, MORITZ",
+    "ASHRAF GARATE, NAHIEL",
+    "GARCIA LECETA, ANDER",
+    "MARTIN LLUCH, ALVARO",
+    "MEZA STURTZE, PAUL",
+    "BURGOS GARCIA, PEPE",
+    "GONZALEZ CASTRO, HUGO",
+    "ARBIZU BLANCO, ENEKO",
+    "RUBIO MARTINEZ, ANDER"
+  ],
+  "titulares_visitante": [
+    "ARRONDO RODRIGUEZ, GAIZKA",
+    "AYESTARAN ARCELUS, UNAX",
+    "SALICIO CARAZO, ODEI",
+    "HAJJI HNICH, MOHAMED",
+    "CRESPO GUTIERREZ, IBAI",
+    "GONZALEZ FERNANDEZ, IOSU",
+    "AGUILAR CARRANZA, NELSON PAUL",
+    "HAYDEN JUARISTI, UNAX",
+    "ESCALADA PEREZ, EKAIN",
+    "LEGORBURU LAFUENTE, ANDER",
+    "GARCIA GARAGARZA, JULEN"
+  ],
+  "suplentes_local": [
+    "SARASOLA BORREGO, JAIME",
+    "MANZANOS SANCHEZ, DIEGO",
+    "VALLEJO SOTO, ALEX",
+    "CRUZ CALDERON ORTIZ DE ZARATE, ELIAS",
+    "SOTO MARTIN, ALEX"
+  ],
+  "suplentes_visitante": [
+    "FLORIAN RODRIGUEZ, WILSON YARETH",
+    "CANO GARAYOA, JON",
+    "DOMINGUEZ PLAZA, ASIER"
+  ],
+  "convocados_sin_jugar_local": [
+    "SARASOLA BORREGO, JAIME"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MARTIN IPARRAGUIRRE, OIER",
+    "SAN EMETERIO ESCRIBANO, AIMAR",
+    "HELLMUTH, MORITZ",
+    "ASHRAF GARATE, NAHIEL",
+    "GARCIA LECETA, ANDER",
+    "MARTIN LLUCH, ALVARO",
+    "MEZA STURTZE, PAUL",
+    "BURGOS GARCIA, PEPE",
+    "GONZALEZ CASTRO, HUGO",
+    "ARBIZU BLANCO, ENEKO",
+    "RUBIO MARTINEZ, ANDER",
+    "VALLEJO SOTO, ALEX",
+    "CRUZ CALDERON ORTIZ DE ZARATE, ELIAS",
+    "MANZANOS SANCHEZ, DIEGO",
+    "SOTO MARTIN, ALEX"
+  ],
+  "jugadores_visitante": [
+    "ARRONDO RODRIGUEZ, GAIZKA",
+    "AYESTARAN ARCELUS, UNAX",
+    "SALICIO CARAZO, ODEI",
+    "HAJJI HNICH, MOHAMED",
+    "CRESPO GUTIERREZ, IBAI",
+    "GONZALEZ FERNANDEZ, IOSU",
+    "AGUILAR CARRANZA, NELSON PAUL",
+    "HAYDEN JUARISTI, UNAX",
+    "ESCALADA PEREZ, EKAIN",
+    "LEGORBURU LAFUENTE, ANDER",
+    "GARCIA GARAGARZA, JULEN",
+    "CANO GARAYOA, JON",
+    "DOMINGUEZ PLAZA, ASIER",
+    "FLORIAN RODRIGUEZ, WILSON YARETH"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "VALLEJO SOTO, ALEX",
+      "sale": "GONZALEZ CASTRO, HUGO"
+    },
+    {
+      "min": 59,
+      "entra": "CRUZ CALDERON ORTIZ DE ZARATE, ELIAS",
+      "sale": "RUBIO MARTINEZ, ANDER"
+    },
+    {
+      "min": 70,
+      "entra": "MANZANOS SANCHEZ, DIEGO",
+      "sale": "HELLMUTH, MORITZ"
+    },
+    {
+      "min": 78,
+      "entra": "SOTO MARTIN, ALEX",
+      "sale": "MEZA STURTZE, PAUL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "CANO GARAYOA, JON",
+      "sale": "CRESPO GUTIERREZ, IBAI"
+    },
+    {
+      "min": 59,
+      "entra": "DOMINGUEZ PLAZA, ASIER",
+      "sale": "AGUILAR CARRANZA, NELSON PAUL"
+    },
+    {
+      "min": 59,
+      "entra": "FLORIAN RODRIGUEZ, WILSON YARETH",
+      "sale": "HAJJI HNICH, MOHAMED"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTIN IPARRAGUIRRE, OIER": 90,
+    "SAN EMETERIO ESCRIBANO, AIMAR": 90,
+    "HELLMUTH, MORITZ": 70,
+    "ASHRAF GARATE, NAHIEL": 90,
+    "GARCIA LECETA, ANDER": 90,
+    "MARTIN LLUCH, ALVARO": 90,
+    "MEZA STURTZE, PAUL": 78,
+    "BURGOS GARCIA, PEPE": 90,
+    "GONZALEZ CASTRO, HUGO": 59,
+    "ARBIZU BLANCO, ENEKO": 90,
+    "RUBIO MARTINEZ, ANDER": 59,
+    "VALLEJO SOTO, ALEX": 31,
+    "CRUZ CALDERON ORTIZ DE ZARATE, ELIAS": 31,
+    "MANZANOS SANCHEZ, DIEGO": 20,
+    "SOTO MARTIN, ALEX": 12,
+    "ARRONDO RODRIGUEZ, GAIZKA": 90,
+    "AYESTARAN ARCELUS, UNAX": 90,
+    "SALICIO CARAZO, ODEI": 90,
+    "HAJJI HNICH, MOHAMED": 59,
+    "CRESPO GUTIERREZ, IBAI": 59,
+    "GONZALEZ FERNANDEZ, IOSU": 90,
+    "AGUILAR CARRANZA, NELSON PAUL": 59,
+    "HAYDEN JUARISTI, UNAX": 90,
+    "ESCALADA PEREZ, EKAIN": 90,
+    "LEGORBURU LAFUENTE, ANDER": 90,
+    "GARCIA GARAGARZA, JULEN": 90,
+    "CANO GARAYOA, JON": 31,
+    "DOMINGUEZ PLAZA, ASIER": 31,
+    "FLORIAN RODRIGUEZ, WILSON YARETH": 31
+  },
+  "portero_local": "MARTIN IPARRAGUIRRE, OIER",
+  "portero_visitante": "ARRONDO RODRIGUEZ, GAIZKA",
+  "dorsales_local": {
+    "MARTIN IPARRAGUIRRE, OIER": 13,
+    "SAN EMETERIO ESCRIBANO, AIMAR": 4,
+    "HELLMUTH, MORITZ": 6,
+    "ASHRAF GARATE, NAHIEL": 7,
+    "GARCIA LECETA, ANDER": 8,
+    "MARTIN LLUCH, ALVARO": 11,
+    "MEZA STURTZE, PAUL": 15,
+    "BURGOS GARCIA, PEPE": 17,
+    "GONZALEZ CASTRO, HUGO": 18,
+    "ARBIZU BLANCO, ENEKO": 20,
+    "RUBIO MARTINEZ, ANDER": 21
+  },
+  "dorsales_visitante": {
+    "ARRONDO RODRIGUEZ, GAIZKA": 13,
+    "AYESTARAN ARCELUS, UNAX": 4,
+    "SALICIO CARAZO, ODEI": 5,
+    "HAJJI HNICH, MOHAMED": 7,
+    "CRESPO GUTIERREZ, IBAI": 8,
+    "GONZALEZ FERNANDEZ, IOSU": 10,
+    "AGUILAR CARRANZA, NELSON PAUL": 11,
+    "HAYDEN JUARISTI, UNAX": 14,
+    "ESCALADA PEREZ, EKAIN": 19,
+    "LEGORBURU LAFUENTE, ANDER": 20,
+    "GARCIA GARAGARZA, JULEN": 23
+  },
+  "suspendidos": []
+}
