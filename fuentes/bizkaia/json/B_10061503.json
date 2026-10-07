@@ -1,0 +1,255 @@
+{
+  "acta_id": "B_10061503",
+  "filename": "Acta_B_10061503.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "03-10-2026",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "LA SALLE A",
+  "equipo_visitante": "ASTRABUDUAKO B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "VIAÑA ARENAS (M), UXUE"
+  ],
+  "estadio": "ETXEZURI",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "MARIN RODRIGUEZ, DANEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "ETXABE FERNANDEZ, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "DOMINGUEZ BARCENA, DANEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 29,
+      "jugador": "OSORIO ROBLES, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "QUINTANILLA GARCIA, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ ALVAREZ, UNAI",
+  "entrenador_visitante": "MARCOS ORMAECHEA, AITOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ALTARRIBA LOPEZ, JORGE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "URIARTE YANGUAS, EGOITZ",
+  "delegado_equipo_visitante": "ALONSO ALFONSO, MARKEL",
+  "titulares_local": [
+    "MANRIQUE ARTABE, GORKA",
+    "QUINTANILLA GARCIA, UNAI",
+    "ALTARRIBA ESTALELLA, EKAIN",
+    "URIARTE PRECIADO, IKER",
+    "DEL CORRO GIL, XABIER",
+    "OSORIO ROBLES, MARKEL",
+    "URRUTIA HERNANDEZ, JON",
+    "GONZÁLEZ BÁRCENA, IBAI",
+    "ETXABE FERNANDEZ, IKER",
+    "PEREZ ARGOS, DIEGO",
+    "CORTA DE HAYA, ASIER"
+  ],
+  "titulares_visitante": [
+    "ALONSO BALLARIN, ENDIKA",
+    "VARONA CASAMICHANA, ENAI",
+    "RUIZ GIL, AIMAR",
+    "CIFUENTES VAZQUEZ, IKER",
+    "VILLABEITIA OLMO, AITOR",
+    "ROBLES TELLERIA, JOSU",
+    "SOUTO GOMENDIO, EDER",
+    "OTEO EGUREN, AIMAR",
+    "MARIN RODRIGUEZ, DANEL",
+    "MOLANO LANCHO, OIHAN",
+    "ALONSO RIOS, HUGO"
+  ],
+  "suplentes_local": [
+    "ALONSO ARRIOLA, ANDER",
+    "CERMEÑO VÁZQUEZ, LUKA",
+    "LECEA GONZALEZ, MARTIN",
+    "PAGAZAURTUNDUA RODRÍGUEZ, ASIER",
+    "GALLASTEGUI ORTUONDO, JON",
+    "IBARRA MIRANDA, ANDER",
+    "SARRIA SIERRA, ANDER"
+  ],
+  "suplentes_visitante": [
+    "LECUMBERRI ZOBARAN, ERIK",
+    "VÉLEZ NEIRA, IZEI",
+    "ALONSO CANO, IREI",
+    "SAMAKE, YOUSSOUF",
+    "LAVANDERO ARGOTE, PEIO",
+    "LACARTA KAMIRUAGA, PERU",
+    "DOMINGUEZ BARCENA, DANEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "ALONSO ARRIOLA, ANDER",
+    "CERMEÑO VÁZQUEZ, LUKA",
+    "LECEA GONZALEZ, MARTIN",
+    "IBARRA MIRANDA, ANDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "LECUMBERRI ZOBARAN, ERIK",
+    "SAMAKE, YOUSSOUF",
+    "LACARTA KAMIRUAGA, PERU"
+  ],
+  "jugadores_local": [
+    "MANRIQUE ARTABE, GORKA",
+    "QUINTANILLA GARCIA, UNAI",
+    "ALTARRIBA ESTALELLA, EKAIN",
+    "URIARTE PRECIADO, IKER",
+    "DEL CORRO GIL, XABIER",
+    "OSORIO ROBLES, MARKEL",
+    "URRUTIA HERNANDEZ, JON",
+    "GONZÁLEZ BÁRCENA, IBAI",
+    "ETXABE FERNANDEZ, IKER",
+    "PEREZ ARGOS, DIEGO",
+    "CORTA DE HAYA, ASIER",
+    "PAGAZAURTUNDUA RODRÍGUEZ, ASIER",
+    "SARRIA SIERRA, ANDER",
+    "GALLASTEGUI ORTUONDO, JON"
+  ],
+  "jugadores_visitante": [
+    "ALONSO BALLARIN, ENDIKA",
+    "VARONA CASAMICHANA, ENAI",
+    "RUIZ GIL, AIMAR",
+    "CIFUENTES VAZQUEZ, IKER",
+    "VILLABEITIA OLMO, AITOR",
+    "ROBLES TELLERIA, JOSU",
+    "SOUTO GOMENDIO, EDER",
+    "OTEO EGUREN, AIMAR",
+    "MARIN RODRIGUEZ, DANEL",
+    "MOLANO LANCHO, OIHAN",
+    "ALONSO RIOS, HUGO",
+    "ALONSO CANO, IREI",
+    "VÉLEZ NEIRA, IZEI",
+    "LAVANDERO ARGOTE, PEIO",
+    "DOMINGUEZ BARCENA, DANEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "PAGAZAURTUNDUA RODRÍGUEZ, ASIER",
+      "sale": "QUINTANILLA GARCIA, UNAI"
+    },
+    {
+      "min": 53,
+      "entra": "SARRIA SIERRA, ANDER",
+      "sale": "DEL CORRO GIL, XABIER"
+    },
+    {
+      "min": 61,
+      "entra": "GALLASTEGUI ORTUONDO, JON",
+      "sale": "PEREZ ARGOS, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "ALONSO CANO, IREI",
+      "sale": "MOLANO LANCHO, OIHAN"
+    },
+    {
+      "min": 50,
+      "entra": "VÉLEZ NEIRA, IZEI",
+      "sale": "SOUTO GOMENDIO, EDER"
+    },
+    {
+      "min": 59,
+      "entra": "LAVANDERO ARGOTE, PEIO",
+      "sale": "RUIZ GIL, AIMAR"
+    },
+    {
+      "min": 67,
+      "entra": "DOMINGUEZ BARCENA, DANEL",
+      "sale": "OTEO EGUREN, AIMAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "MANRIQUE ARTABE, GORKA": 90,
+    "QUINTANILLA GARCIA, UNAI": 40,
+    "ALTARRIBA ESTALELLA, EKAIN": 90,
+    "URIARTE PRECIADO, IKER": 90,
+    "DEL CORRO GIL, XABIER": 53,
+    "OSORIO ROBLES, MARKEL": 90,
+    "URRUTIA HERNANDEZ, JON": 90,
+    "GONZÁLEZ BÁRCENA, IBAI": 90,
+    "ETXABE FERNANDEZ, IKER": 90,
+    "PEREZ ARGOS, DIEGO": 61,
+    "CORTA DE HAYA, ASIER": 90,
+    "PAGAZAURTUNDUA RODRÍGUEZ, ASIER": 50,
+    "SARRIA SIERRA, ANDER": 37,
+    "GALLASTEGUI ORTUONDO, JON": 29,
+    "ALONSO BALLARIN, ENDIKA": 90,
+    "VARONA CASAMICHANA, ENAI": 90,
+    "RUIZ GIL, AIMAR": 59,
+    "CIFUENTES VAZQUEZ, IKER": 90,
+    "VILLABEITIA OLMO, AITOR": 90,
+    "ROBLES TELLERIA, JOSU": 90,
+    "SOUTO GOMENDIO, EDER": 50,
+    "OTEO EGUREN, AIMAR": 67,
+    "MARIN RODRIGUEZ, DANEL": 90,
+    "MOLANO LANCHO, OIHAN": 50,
+    "ALONSO RIOS, HUGO": 90,
+    "ALONSO CANO, IREI": 40,
+    "VÉLEZ NEIRA, IZEI": 40,
+    "LAVANDERO ARGOTE, PEIO": 31,
+    "DOMINGUEZ BARCENA, DANEL": 23
+  },
+  "portero_local": "MANRIQUE ARTABE, GORKA",
+  "portero_visitante": "ALONSO BALLARIN, ENDIKA",
+  "dorsales_local": {
+    "MANRIQUE ARTABE, GORKA": 13,
+    "QUINTANILLA GARCIA, UNAI": 2,
+    "ALTARRIBA ESTALELLA, EKAIN": 3,
+    "URIARTE PRECIADO, IKER": 4,
+    "DEL CORRO GIL, XABIER": 5,
+    "OSORIO ROBLES, MARKEL": 7,
+    "URRUTIA HERNANDEZ, JON": 10,
+    "GONZÁLEZ BÁRCENA, IBAI": 11,
+    "ETXABE FERNANDEZ, IKER": 18,
+    "PEREZ ARGOS, DIEGO": 21,
+    "CORTA DE HAYA, ASIER": 22
+  },
+  "dorsales_visitante": {
+    "ALONSO BALLARIN, ENDIKA": 1,
+    "VARONA CASAMICHANA, ENAI": 2,
+    "RUIZ GIL, AIMAR": 3,
+    "CIFUENTES VAZQUEZ, IKER": 4,
+    "VILLABEITIA OLMO, AITOR": 5,
+    "ROBLES TELLERIA, JOSU": 6,
+    "SOUTO GOMENDIO, EDER": 7,
+    "OTEO EGUREN, AIMAR": 8,
+    "MARIN RODRIGUEZ, DANEL": 9,
+    "MOLANO LANCHO, OIHAN": 10,
+    "ALONSO RIOS, HUGO": 22
+  },
+  "suspendidos": []
+}
