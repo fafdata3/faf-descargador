@@ -1,0 +1,256 @@
+{
+  "acta_id": "C_193197",
+  "filename": "Acta_C_193197.txt",
+  "fuente": "cantabria",
+  "temporada": "2024-2025",
+  "jornada": 19,
+  "fecha": "25-01-2025",
+  "hora": "17:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "CASTRO F.C. A",
+  "equipo_visitante": "C.D. TROPEZON B",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZÁLEZ HIGUERA, PABLO"
+  ],
+  "estadio": "Mioño Estacion",
+  "ciudad": "Castro-Urdiales",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "VIZCAYA ALVAREZ, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "HOUFRI BAKBACHI, HARON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "MARTINEZ PEREZ, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 71,
+      "jugador": "pachon garcia, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "GONZALEZ ALVAREZ, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "JAUREGUI RECIO, XABIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "JAUREGUI RECIO, XABIER",
+  "delegado_equipo_visitante": "LANDEO LLANCAYA, LUIS FRANCISCO",
+  "titulares_local": [
+    "CUEVAS NUÑEZ, UNAI",
+    "FERRERO VILLASANTE, RAUL",
+    "RODRIGUEZ GOMEZ, HECTOR",
+    "AGUSTIN PELLON, HUGO",
+    "LAISECA ALONSO, EDER",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "TREVILLA PEROMINGO, ZUHAITZ GIDEON",
+    "GOMEZ ALONSO, HUGO",
+    "VIZCAYA ALVAREZ, ADRIAN",
+    "HIGINO FERREIRA, NICOLAS LANDER",
+    "GOMEZ MUÑOZ, HECTOR"
+  ],
+  "titulares_visitante": [
+    "PÉREZ GARCÍA, CÉSAR",
+    "ALONSO EDILLA, MIGUEL",
+    "HOUFRI BAKBACHI, HARON",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "CUESTA FEIJOO, CARLOS",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "CAMPO FERNANDEZ, SAMUEL",
+    "GARCIA DIAZ, JAVIER",
+    "GUTIERREZ MARTINEZ, ALVARO"
+  ],
+  "suplentes_local": [
+    "ARRIOLA IRIARTE, HUGO",
+    "LOPEZ SANTOS, IZAN",
+    "CORTES LANDABEREA, RUBEN",
+    "MARTINEZ PEREZ, PABLO",
+    "ALONSO SANCHEZ, AITOR"
+  ],
+  "suplentes_visitante": [
+    "CRUZ ABASCAL, JAVIER",
+    "ORIA SAINZ, MARCOS",
+    "GONZALEZ BLUM, MANUEL",
+    "pachon garcia, DIEGO",
+    "MENDARO TERAN, ANTONIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CUEVAS NUÑEZ, UNAI",
+    "FERRERO VILLASANTE, RAUL",
+    "RODRIGUEZ GOMEZ, HECTOR",
+    "AGUSTIN PELLON, HUGO",
+    "LAISECA ALONSO, EDER",
+    "RODRÍGUEZ LÓPEZ, JON ANDER",
+    "TREVILLA PEROMINGO, ZUHAITZ GIDEON",
+    "GOMEZ ALONSO, HUGO",
+    "VIZCAYA ALVAREZ, ADRIAN",
+    "HIGINO FERREIRA, NICOLAS LANDER",
+    "GOMEZ MUÑOZ, HECTOR",
+    "MARTINEZ PEREZ, PABLO",
+    "ARRIOLA IRIARTE, HUGO",
+    "ALONSO SANCHEZ, AITOR",
+    "CORTES LANDABEREA, RUBEN",
+    "LOPEZ SANTOS, IZAN"
+  ],
+  "jugadores_visitante": [
+    "PÉREZ GARCÍA, CÉSAR",
+    "ALONSO EDILLA, MIGUEL",
+    "HOUFRI BAKBACHI, HARON",
+    "SEIJAS SANZ-BAZA, AITOR",
+    "CUESTA FEIJOO, CARLOS",
+    "ARROYO GONZALEZ, HUGO",
+    "MARTINEZ FERNANDEZ, ASIER",
+    "QUINTANAL ZARRABETIA, ASIER",
+    "CAMPO FERNANDEZ, SAMUEL",
+    "GARCIA DIAZ, JAVIER",
+    "GUTIERREZ MARTINEZ, ALVARO",
+    "CRUZ ABASCAL, JAVIER",
+    "MENDARO TERAN, ANTONIO",
+    "ORIA SAINZ, MARCOS",
+    "pachon garcia, DIEGO",
+    "GONZALEZ BLUM, MANUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 56,
+      "entra": "MARTINEZ PEREZ, PABLO",
+      "sale": "TREVILLA PEROMINGO, ZUHAITZ GIDEON"
+    },
+    {
+      "min": 56,
+      "entra": "ARRIOLA IRIARTE, HUGO",
+      "sale": "VIZCAYA ALVAREZ, ADRIAN"
+    },
+    {
+      "min": 70,
+      "entra": "ALONSO SANCHEZ, AITOR",
+      "sale": "HIGINO FERREIRA, NICOLAS LANDER"
+    },
+    {
+      "min": 70,
+      "entra": "CORTES LANDABEREA, RUBEN",
+      "sale": "RODRIGUEZ GOMEZ, HECTOR"
+    },
+    {
+      "min": 70,
+      "entra": "LOPEZ SANTOS, IZAN",
+      "sale": "GOMEZ MUÑOZ, HECTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "CRUZ ABASCAL, JAVIER",
+      "sale": "PÉREZ GARCÍA, CÉSAR"
+    },
+    {
+      "min": 54,
+      "entra": "MENDARO TERAN, ANTONIO",
+      "sale": "GUTIERREZ MARTINEZ, ALVARO"
+    },
+    {
+      "min": 60,
+      "entra": "ORIA SAINZ, MARCOS",
+      "sale": "CAMPO FERNANDEZ, SAMUEL"
+    },
+    {
+      "min": 60,
+      "entra": "pachon garcia, DIEGO",
+      "sale": "QUINTANAL ZARRABETIA, ASIER"
+    },
+    {
+      "min": 65,
+      "entra": "GONZALEZ BLUM, MANUEL",
+      "sale": "MARTINEZ FERNANDEZ, ASIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "CUEVAS NUÑEZ, UNAI": 90,
+    "FERRERO VILLASANTE, RAUL": 90,
+    "RODRIGUEZ GOMEZ, HECTOR": 70,
+    "AGUSTIN PELLON, HUGO": 90,
+    "LAISECA ALONSO, EDER": 90,
+    "RODRÍGUEZ LÓPEZ, JON ANDER": 90,
+    "TREVILLA PEROMINGO, ZUHAITZ GIDEON": 56,
+    "GOMEZ ALONSO, HUGO": 90,
+    "VIZCAYA ALVAREZ, ADRIAN": 56,
+    "HIGINO FERREIRA, NICOLAS LANDER": 70,
+    "GOMEZ MUÑOZ, HECTOR": 70,
+    "MARTINEZ PEREZ, PABLO": 34,
+    "ARRIOLA IRIARTE, HUGO": 34,
+    "ALONSO SANCHEZ, AITOR": 20,
+    "CORTES LANDABEREA, RUBEN": 20,
+    "LOPEZ SANTOS, IZAN": 20,
+    "PÉREZ GARCÍA, CÉSAR": 40,
+    "ALONSO EDILLA, MIGUEL": 90,
+    "HOUFRI BAKBACHI, HARON": 90,
+    "SEIJAS SANZ-BAZA, AITOR": 90,
+    "CUESTA FEIJOO, CARLOS": 90,
+    "ARROYO GONZALEZ, HUGO": 90,
+    "MARTINEZ FERNANDEZ, ASIER": 65,
+    "QUINTANAL ZARRABETIA, ASIER": 60,
+    "CAMPO FERNANDEZ, SAMUEL": 60,
+    "GARCIA DIAZ, JAVIER": 90,
+    "GUTIERREZ MARTINEZ, ALVARO": 54,
+    "CRUZ ABASCAL, JAVIER": 50,
+    "MENDARO TERAN, ANTONIO": 36,
+    "ORIA SAINZ, MARCOS": 30,
+    "pachon garcia, DIEGO": 30,
+    "GONZALEZ BLUM, MANUEL": 25
+  },
+  "portero_local": "CUEVAS NUÑEZ, UNAI",
+  "portero_visitante": "PÉREZ GARCÍA, CÉSAR",
+  "dorsales_local": {
+    "CUEVAS NUÑEZ, UNAI": 13,
+    "FERRERO VILLASANTE, RAUL": 2,
+    "RODRIGUEZ GOMEZ, HECTOR": 5,
+    "AGUSTIN PELLON, HUGO": 6,
+    "LAISECA ALONSO, EDER": 10,
+    "RODRÍGUEZ LÓPEZ, JON ANDER": 11,
+    "TREVILLA PEROMINGO, ZUHAITZ GIDEON": 12,
+    "GOMEZ ALONSO, HUGO": 14,
+    "VIZCAYA ALVAREZ, ADRIAN": 16,
+    "HIGINO FERREIRA, NICOLAS LANDER": 17,
+    "GOMEZ MUÑOZ, HECTOR": 22
+  },
+  "dorsales_visitante": {
+    "PÉREZ GARCÍA, CÉSAR": 13,
+    "ALONSO EDILLA, MIGUEL": 3,
+    "HOUFRI BAKBACHI, HARON": 4,
+    "SEIJAS SANZ-BAZA, AITOR": 5,
+    "CUESTA FEIJOO, CARLOS": 6,
+    "ARROYO GONZALEZ, HUGO": 8,
+    "MARTINEZ FERNANDEZ, ASIER": 9,
+    "QUINTANAL ZARRABETIA, ASIER": 11,
+    "CAMPO FERNANDEZ, SAMUEL": 16,
+    "GARCIA DIAZ, JAVIER": 19,
+    "GUTIERREZ MARTINEZ, ALVARO": 20
+  },
+  "suspendidos": []
+}
