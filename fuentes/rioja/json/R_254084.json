@@ -23,25 +23,29 @@
       "minuto": 17,
       "jugador": "PASCUAL SALCEDO LAYA, FLAVIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 43,
       "jugador": "ROMERO AZPILLAGA, SARA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 76,
       "jugador": "ROUCO BOBADILLA, VALENTINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 78,
       "jugador": "ABADIA ARINA, ANGELA PIEDAD",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [],
@@ -202,5 +206,6 @@
     "HERNANDEZ SAN SERVANDO, CLAUDIA": 22,
     "ODILADZE KAROSANIDZE, ANA": 23
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
