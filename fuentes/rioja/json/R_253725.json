@@ -23,61 +23,71 @@
       "minuto": 23,
       "jugador": "CALVILLO ARELLANO, KILIAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "SEGURA HERAS, IKER",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 27,
       "jugador": "RUIZ OCHAGAVIA, HUGO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 32,
       "jugador": "SAINZ MONZON, DANIEL",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 35,
       "jugador": "SAINZ MONZON, DANIEL",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 36,
       "jugador": "BALDE, SAYDOU",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 37,
       "jugador": "CALVILLO ARELLANO, KILIAN",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 47,
       "jugador": "BASTIDA RIO, ALEX",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 49,
       "jugador": "SAINZ MONZON, DANIEL",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 58,
       "jugador": "SANZ PEREZ, JAVIER",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -85,13 +95,6 @@
       "minuto": 47,
       "jugador": "SAINZ MONZON, DANIEL",
       "equipo": "local",
-      "tipo": "amarilla",
-      "destinatario": "jugador"
-    },
-    {
-      "minuto": 47,
-      "jugador": "FS ALBELDA B",
-      "equipo": "?",
       "tipo": "amarilla",
       "destinatario": "jugador"
     }
