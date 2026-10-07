@@ -1,0 +1,285 @@
+{
+  "acta_id": "10053526",
+  "filename": "Acta_10053526.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "03-10-2026",
+  "hora": "09:00",
+  "categoria": "CADETE DE HONOR / KADETEEN OHOREZKO MAILA (GRUPO - 1)",
+  "equipo_local": "URGATZI K.K. A",
+  "equipo_visitante": "IRU-BAT SANTA LUCIA S.D. A",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "AGHBALOU EL HASSADI, NEDAL"
+  ],
+  "estadio": "IKAS. OLABIDE (H.A.)",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "ALEA JIMENEZ, ANTHONY",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "AGUINACO IGLESIAS, XABIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "DIEZ-CABALLERO CASTRO, AIMAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "ORTIZ ROMERO, NEIZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "AJURIA LAMARIANO, ANDONI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 28,
+      "jugador": "BEKHTAOUI TEBSI, IBRAHIM",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "SANCHEZ SANTAMARIA, AIMAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PRECIADO LARRAURI , DEI",
+  "entrenador_visitante": "CALLEJA OGUETA, JOSE P",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "ARIAS RUIZ, DILAN RAMIRO",
+  "delegado_campo_local": "ABAD VALDERRAMA , HUGO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ARIAS RUIZ, DILAN RAMIRO",
+  "titulares_local": [
+    "BOTIN AGUIRRE, JAVIER",
+    "MIRANDA LOPEZ DE ARMENTIA, ENEKO",
+    "OLLORA GONZALEZ DE MENDOZA, ZUHAITZ",
+    "HUERGA AMADOR, AITOR",
+    "RUIZ PAMPIN, NICOLAS",
+    "BOTIN AGUIRRE, DANIEL",
+    "MADINA GANTXEGI, ANDER",
+    "MANUEL RUIZ DE ALEGRIA, UNAX",
+    "AJURIA LAMARIANO, ANDONI",
+    "GIL LOPEZ, ANDER",
+    "TREPIANA GONZALEZ, URTZI"
+  ],
+  "titulares_visitante": [
+    "CANTERO MOREJON, ERIK",
+    "GARCIA TORRES, IBAI",
+    "LOPEZ ARGOTE, UNAI",
+    "AGUINACO IGLESIAS, XABIER",
+    "ORTIZ ROMERO, NEIZAN",
+    "DIEZ-CABALLERO CASTRO, AIMAR",
+    "ALEA JIMENEZ, ANTHONY",
+    "BARRIOS SANTAMARIA, MARTIN",
+    "REYES DIEZ, ENKAI",
+    "BEKHTAOUI TEBSI, IBRAHIM",
+    "MOYA SAENZ, EGOITZ"
+  ],
+  "suplentes_local": [
+    "ORTIZ DE BARRON TENA, JON",
+    "MAHMOOD GALDOS, OMAR UNAX",
+    "SAENZ YERA, UNAX",
+    "ARREGUI LASAGABASTER, BIDART",
+    "JUBERA MUGUIDA, JON",
+    "URTARAN CARRERAS, IBAI",
+    "MARTINEZ DE ANTOÑANA VILLASANTE, EKHI"
+  ],
+  "suplentes_visitante": [
+    "CANO FLORES, KILDER SMITE",
+    "ELHAJE HENIN, BIDY",
+    "SANCHEZ SANTAMARIA, AIMAR",
+    "SINGH BOUHAJRA, AIMAN",
+    "CAMPO FANEGA, MARKEL",
+    "IRAZU DIAZ DE MENDIBIL, OIHAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "CANO FLORES, KILDER SMITE",
+    "ELHAJE HENIN, BIDY",
+    "CAMPO FANEGA, MARKEL"
+  ],
+  "jugadores_local": [
+    "BOTIN AGUIRRE, JAVIER",
+    "MIRANDA LOPEZ DE ARMENTIA, ENEKO",
+    "OLLORA GONZALEZ DE MENDOZA, ZUHAITZ",
+    "HUERGA AMADOR, AITOR",
+    "RUIZ PAMPIN, NICOLAS",
+    "BOTIN AGUIRRE, DANIEL",
+    "MADINA GANTXEGI, ANDER",
+    "MANUEL RUIZ DE ALEGRIA, UNAX",
+    "AJURIA LAMARIANO, ANDONI",
+    "GIL LOPEZ, ANDER",
+    "TREPIANA GONZALEZ, URTZI",
+    "URTARAN CARRERAS, IBAI",
+    "ORTIZ DE BARRON TENA, JON",
+    "ARREGUI LASAGABASTER, BIDART",
+    "MAHMOOD GALDOS, OMAR UNAX",
+    "MARTINEZ DE ANTOÑANA VILLASANTE, EKHI",
+    "SAENZ YERA, UNAX",
+    "JUBERA MUGUIDA, JON"
+  ],
+  "jugadores_visitante": [
+    "CANTERO MOREJON, ERIK",
+    "GARCIA TORRES, IBAI",
+    "LOPEZ ARGOTE, UNAI",
+    "AGUINACO IGLESIAS, XABIER",
+    "ORTIZ ROMERO, NEIZAN",
+    "DIEZ-CABALLERO CASTRO, AIMAR",
+    "ALEA JIMENEZ, ANTHONY",
+    "BARRIOS SANTAMARIA, MARTIN",
+    "REYES DIEZ, ENKAI",
+    "BEKHTAOUI TEBSI, IBRAHIM",
+    "MOYA SAENZ, EGOITZ",
+    "SANCHEZ SANTAMARIA, AIMAR",
+    "SINGH BOUHAJRA, AIMAN",
+    "IRAZU DIAZ DE MENDIBIL, OIHAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 30,
+      "entra": "URTARAN CARRERAS, IBAI",
+      "sale": "HUERGA AMADOR, AITOR"
+    },
+    {
+      "min": 40,
+      "entra": "ORTIZ DE BARRON TENA, JON",
+      "sale": "MANUEL RUIZ DE ALEGRIA, UNAX"
+    },
+    {
+      "min": 40,
+      "entra": "ARREGUI LASAGABASTER, BIDART",
+      "sale": "GIL LOPEZ, ANDER"
+    },
+    {
+      "min": 53,
+      "entra": "MAHMOOD GALDOS, OMAR UNAX",
+      "sale": "RUIZ PAMPIN, NICOLAS"
+    },
+    {
+      "min": 58,
+      "entra": "MARTINEZ DE ANTOÑANA VILLASANTE, EKHI",
+      "sale": "BOTIN AGUIRRE, DANIEL"
+    },
+    {
+      "min": 64,
+      "entra": "SAENZ YERA, UNAX",
+      "sale": "OLLORA GONZALEZ DE MENDOZA, ZUHAITZ"
+    },
+    {
+      "min": 64,
+      "entra": "JUBERA MUGUIDA, JON",
+      "sale": "MIRANDA LOPEZ DE ARMENTIA, ENEKO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SANCHEZ SANTAMARIA, AIMAR",
+      "sale": "BEKHTAOUI TEBSI, IBRAHIM"
+    },
+    {
+      "min": 58,
+      "entra": "SINGH BOUHAJRA, AIMAN",
+      "sale": "AGUINACO IGLESIAS, XABIER"
+    },
+    {
+      "min": 58,
+      "entra": "IRAZU DIAZ DE MENDIBIL, OIHAN",
+      "sale": "GARCIA TORRES, IBAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "BOTIN AGUIRRE, JAVIER": 90,
+    "MIRANDA LOPEZ DE ARMENTIA, ENEKO": 64,
+    "OLLORA GONZALEZ DE MENDOZA, ZUHAITZ": 64,
+    "HUERGA AMADOR, AITOR": 30,
+    "RUIZ PAMPIN, NICOLAS": 53,
+    "BOTIN AGUIRRE, DANIEL": 58,
+    "MADINA GANTXEGI, ANDER": 90,
+    "MANUEL RUIZ DE ALEGRIA, UNAX": 40,
+    "AJURIA LAMARIANO, ANDONI": 90,
+    "GIL LOPEZ, ANDER": 40,
+    "TREPIANA GONZALEZ, URTZI": 90,
+    "URTARAN CARRERAS, IBAI": 60,
+    "ORTIZ DE BARRON TENA, JON": 50,
+    "ARREGUI LASAGABASTER, BIDART": 50,
+    "MAHMOOD GALDOS, OMAR UNAX": 37,
+    "MARTINEZ DE ANTOÑANA VILLASANTE, EKHI": 32,
+    "SAENZ YERA, UNAX": 26,
+    "JUBERA MUGUIDA, JON": 26,
+    "CANTERO MOREJON, ERIK": 90,
+    "GARCIA TORRES, IBAI": 58,
+    "LOPEZ ARGOTE, UNAI": 90,
+    "AGUINACO IGLESIAS, XABIER": 58,
+    "ORTIZ ROMERO, NEIZAN": 90,
+    "DIEZ-CABALLERO CASTRO, AIMAR": 90,
+    "ALEA JIMENEZ, ANTHONY": 90,
+    "BARRIOS SANTAMARIA, MARTIN": 90,
+    "REYES DIEZ, ENKAI": 90,
+    "BEKHTAOUI TEBSI, IBRAHIM": 40,
+    "MOYA SAENZ, EGOITZ": 90,
+    "SANCHEZ SANTAMARIA, AIMAR": 50,
+    "SINGH BOUHAJRA, AIMAN": 32,
+    "IRAZU DIAZ DE MENDIBIL, OIHAN": 32
+  },
+  "portero_local": "BOTIN AGUIRRE, JAVIER",
+  "portero_visitante": "CANTERO MOREJON, ERIK",
+  "dorsales_local": {
+    "BOTIN AGUIRRE, JAVIER": 25,
+    "MIRANDA LOPEZ DE ARMENTIA, ENEKO": 3,
+    "OLLORA GONZALEZ DE MENDOZA, ZUHAITZ": 4,
+    "HUERGA AMADOR, AITOR": 5,
+    "RUIZ PAMPIN, NICOLAS": 6,
+    "BOTIN AGUIRRE, DANIEL": 7,
+    "MADINA GANTXEGI, ANDER": 10,
+    "MANUEL RUIZ DE ALEGRIA, UNAX": 15,
+    "AJURIA LAMARIANO, ANDONI": 27,
+    "GIL LOPEZ, ANDER": 30,
+    "TREPIANA GONZALEZ, URTZI": 35
+  },
+  "dorsales_visitante": {
+    "CANTERO MOREJON, ERIK": 13,
+    "GARCIA TORRES, IBAI": 4,
+    "LOPEZ ARGOTE, UNAI": 5,
+    "AGUINACO IGLESIAS, XABIER": 7,
+    "ORTIZ ROMERO, NEIZAN": 9,
+    "DIEZ-CABALLERO CASTRO, AIMAR": 10,
+    "ALEA JIMENEZ, ANTHONY": 11,
+    "BARRIOS SANTAMARIA, MARTIN": 14,
+    "REYES DIEZ, ENKAI": 15,
+    "BEKHTAOUI TEBSI, IBRAHIM": 16,
+    "MOYA SAENZ, EGOITZ": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
