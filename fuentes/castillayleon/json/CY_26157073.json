@@ -1,0 +1,271 @@
+{
+  "acta_id": "CY_26157073",
+  "filename": "Acta_CY_26157073.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "26-09-2026",
+  "hora": "12:15",
+  "categoria": "1ª División Provincial de Cadetes (Primera - Burgos)",
+  "equipo_local": "C.D. San Pedro Buprocon",
+  "equipo_visitante": "C.D. Alfoz de Quintanadueñas",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "SANTAMARIA MIGUEL, JESUS"
+  ],
+  "estadio": "C.M. José María Santamaría Ausín",
+  "ciudad": "Burgos",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "ANTON PAMPLIEGA, MARKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 24,
+      "jugador": "VALLEJO VELASCO, VICTOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "LOPEZ MARRERO, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "ARRIBAS TAPIA, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "NAVEIRAS MARTINEZ, BRUNO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "BEREZO GUTIERREZ, JOSE FELIX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DIEZ BARTOLOMÉ, MIGUEL",
+  "entrenador_visitante": "MARTÍNEZ CARRILLO, ARTURO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PORTILLO GONZALEZ, ABEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "NAVAS GARCIA, ALEJANDRO",
+  "delegado_equipo_visitante": "GIL SAIZ, VICTOR",
+  "titulares_local": [
+    "LOPEZ MOYA, ALVARO",
+    "VICARIO BRAVO, LUIS",
+    "LOPEZ MARRERO, JORGE",
+    "GARCIA DIAZ, ALVARO",
+    "GONZÁLEZ ESPINO, ELOY",
+    "ALONSO IGLESIA, SAMUEL",
+    "ARRIBAS TAPIA, DAVID",
+    "ANTON PAMPLIEGA, MARKO",
+    "FRÍAS VAL, MARIO",
+    "Wislan Toichoa Freitas",
+    "MARTINEZ DELGADO, ALEX"
+  ],
+  "titulares_visitante": [
+    "GOMEZ FERNANDEZ, UNAI",
+    "RODRIGUEZ SAN MILLAN, DANIEL",
+    "ANTOLIN MARTINEZ, ALFONSO",
+    "JUAREZ MARTIN, ERIK",
+    "GÜEMES DEL OLMO, AITOR",
+    "TEJADA MERINO, JOSUE",
+    "VILLALAIN PORRAS, MARIO",
+    "VALLEJO VELASCO, VICTOR",
+    "HERNANDEZ DE LA PEÑA, IVAN",
+    "PUENTE ALARCON, IKER",
+    "RENUNCIO SALGUERO, BOSCO"
+  ],
+  "suplentes_local": [
+    "PEREDA PEREZ, ALVAR",
+    "BEREZO GUTIERREZ, JOSE FELIX",
+    "MARTÍNEZ FRANCO, RAÚL",
+    "DIEZ VALDES, DAVID",
+    "CILLERUELO PEREZ, PABLO"
+  ],
+  "suplentes_visitante": [
+    "JUAREZ FUENTE, LUCAS",
+    "MARTINEZ ZAMORA, ERIK",
+    "VALIN SEPTIEN, ALEJANDRO",
+    "NAVEIRAS MARTINEZ, BRUNO",
+    "BACO BLANCO, PABLO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LOPEZ MOYA, ALVARO",
+    "VICARIO BRAVO, LUIS",
+    "LOPEZ MARRERO, JORGE",
+    "GARCIA DIAZ, ALVARO",
+    "GONZÁLEZ ESPINO, ELOY",
+    "ALONSO IGLESIA, SAMUEL",
+    "ARRIBAS TAPIA, DAVID",
+    "ANTON PAMPLIEGA, MARKO",
+    "FRÍAS VAL, MARIO",
+    "Wislan Toichoa Freitas",
+    "MARTINEZ DELGADO, ALEX",
+    "MARTÍNEZ FRANCO, RAÚL",
+    "DIEZ VALDES, DAVID",
+    "BEREZO GUTIERREZ, JOSE FELIX",
+    "PEREDA PEREZ, ALVAR",
+    "CILLERUELO PEREZ, PABLO"
+  ],
+  "jugadores_visitante": [
+    "GOMEZ FERNANDEZ, UNAI",
+    "RODRIGUEZ SAN MILLAN, DANIEL",
+    "ANTOLIN MARTINEZ, ALFONSO",
+    "JUAREZ MARTIN, ERIK",
+    "GÜEMES DEL OLMO, AITOR",
+    "TEJADA MERINO, JOSUE",
+    "VILLALAIN PORRAS, MARIO",
+    "VALLEJO VELASCO, VICTOR",
+    "HERNANDEZ DE LA PEÑA, IVAN",
+    "PUENTE ALARCON, IKER",
+    "RENUNCIO SALGUERO, BOSCO",
+    "JUAREZ FUENTE, LUCAS",
+    "VALIN SEPTIEN, ALEJANDRO",
+    "NAVEIRAS MARTINEZ, BRUNO",
+    "MARTINEZ ZAMORA, ERIK",
+    "BACO BLANCO, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 19,
+      "entra": "MARTÍNEZ FRANCO, RAÚL",
+      "sale": "MARTINEZ DELGADO, ALEX"
+    },
+    {
+      "min": 47,
+      "entra": "DIEZ VALDES, DAVID",
+      "sale": "Wislan Toichoa Freitas"
+    },
+    {
+      "min": 47,
+      "entra": "BEREZO GUTIERREZ, JOSE FELIX",
+      "sale": "ANTON PAMPLIEGA, MARKO"
+    },
+    {
+      "min": 62,
+      "entra": "PEREDA PEREZ, ALVAR",
+      "sale": "ALONSO IGLESIA, SAMUEL"
+    },
+    {
+      "min": 62,
+      "entra": "CILLERUELO PEREZ, PABLO",
+      "sale": "GONZÁLEZ ESPINO, ELOY"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 29,
+      "entra": "JUAREZ FUENTE, LUCAS",
+      "sale": "RODRIGUEZ SAN MILLAN, DANIEL"
+    },
+    {
+      "min": 48,
+      "entra": "VALIN SEPTIEN, ALEJANDRO",
+      "sale": "TEJADA MERINO, JOSUE"
+    },
+    {
+      "min": 57,
+      "entra": "NAVEIRAS MARTINEZ, BRUNO",
+      "sale": "HERNANDEZ DE LA PEÑA, IVAN"
+    },
+    {
+      "min": 73,
+      "entra": "MARTINEZ ZAMORA, ERIK",
+      "sale": "JUAREZ MARTIN, ERIK"
+    },
+    {
+      "min": 79,
+      "entra": "BACO BLANCO, PABLO",
+      "sale": "PUENTE ALARCON, IKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "LOPEZ MOYA, ALVARO": 90,
+    "VICARIO BRAVO, LUIS": 90,
+    "LOPEZ MARRERO, JORGE": 90,
+    "GARCIA DIAZ, ALVARO": 90,
+    "GONZÁLEZ ESPINO, ELOY": 62,
+    "ALONSO IGLESIA, SAMUEL": 62,
+    "ARRIBAS TAPIA, DAVID": 90,
+    "ANTON PAMPLIEGA, MARKO": 47,
+    "FRÍAS VAL, MARIO": 90,
+    "Wislan Toichoa Freitas": 47,
+    "MARTINEZ DELGADO, ALEX": 19,
+    "MARTÍNEZ FRANCO, RAÚL": 71,
+    "DIEZ VALDES, DAVID": 43,
+    "BEREZO GUTIERREZ, JOSE FELIX": 43,
+    "PEREDA PEREZ, ALVAR": 28,
+    "CILLERUELO PEREZ, PABLO": 28,
+    "GOMEZ FERNANDEZ, UNAI": 90,
+    "RODRIGUEZ SAN MILLAN, DANIEL": 29,
+    "ANTOLIN MARTINEZ, ALFONSO": 90,
+    "JUAREZ MARTIN, ERIK": 73,
+    "GÜEMES DEL OLMO, AITOR": 90,
+    "TEJADA MERINO, JOSUE": 48,
+    "VILLALAIN PORRAS, MARIO": 90,
+    "VALLEJO VELASCO, VICTOR": 90,
+    "HERNANDEZ DE LA PEÑA, IVAN": 57,
+    "PUENTE ALARCON, IKER": 79,
+    "RENUNCIO SALGUERO, BOSCO": 90,
+    "JUAREZ FUENTE, LUCAS": 61,
+    "VALIN SEPTIEN, ALEJANDRO": 42,
+    "NAVEIRAS MARTINEZ, BRUNO": 33,
+    "MARTINEZ ZAMORA, ERIK": 17,
+    "BACO BLANCO, PABLO": 11
+  },
+  "portero_local": "LOPEZ MOYA, ALVARO",
+  "portero_visitante": "GOMEZ FERNANDEZ, UNAI",
+  "dorsales_local": {
+    "LOPEZ MOYA, ALVARO": 13,
+    "VICARIO BRAVO, LUIS": 2,
+    "LOPEZ MARRERO, JORGE": 3,
+    "GARCIA DIAZ, ALVARO": 6,
+    "GONZÁLEZ ESPINO, ELOY": 7,
+    "ALONSO IGLESIA, SAMUEL": 8,
+    "ARRIBAS TAPIA, DAVID": 10,
+    "ANTON PAMPLIEGA, MARKO": 15,
+    "FRÍAS VAL, MARIO": 16,
+    "Wislan Toichoa Freitas": 19,
+    "MARTINEZ DELGADO, ALEX": 21
+  },
+  "dorsales_visitante": {
+    "GOMEZ FERNANDEZ, UNAI": 13,
+    "RODRIGUEZ SAN MILLAN, DANIEL": 2,
+    "ANTOLIN MARTINEZ, ALFONSO": 3,
+    "JUAREZ MARTIN, ERIK": 4,
+    "GÜEMES DEL OLMO, AITOR": 6,
+    "TEJADA MERINO, JOSUE": 7,
+    "VILLALAIN PORRAS, MARIO": 8,
+    "VALLEJO VELASCO, VICTOR": 12,
+    "HERNANDEZ DE LA PEÑA, IVAN": 17,
+    "PUENTE ALARCON, IKER": 18,
+    "RENUNCIO SALGUERO, BOSCO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
