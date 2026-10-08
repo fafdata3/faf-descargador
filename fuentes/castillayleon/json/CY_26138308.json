@@ -1,0 +1,283 @@
+{
+  "acta_id": "CY_26138308",
+  "filename": "Acta_CY_26138308.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "04-10-2026",
+  "hora": "16:30",
+  "categoria": "1ª División Regional de Infantiles (Única - Único)",
+  "equipo_local": "Betis C.F.",
+  "equipo_visitante": "Atlético Pinilla",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "GONZÁLEZ MERINO, FERNANDO",
+    "Árbitro Asistente",
+    "ABRIL IGLESIAS, CLARA",
+    "Árbitro Asistente",
+    "MARTIN RODRIGUEZ, CELIA"
+  ],
+  "estadio": "C.M. Nemesio Gómez Peque",
+  "ciudad": "Valladolid",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "TABERA GUTIERREZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "PEREZ YUGUERO, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 61,
+      "jugador": "PEREZ YUGUERO, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "TABERA GUTIERREZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 29,
+      "jugador": "JIMENEZ SANCHEZ, ALFREDO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "FRESNO SALGADO, VICTOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 29,
+      "jugador": "ALONSO CARRERA, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "CRESPO MARTINEZ, IAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VELASCO SORIA, ADRIAN",
+  "entrenador_visitante": "VILLALBA LIMA, DIEGO",
+  "segundo_entrenador_local": "GARCÍA RIVERA, ÁLVARO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ BARRIGA, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BARRIOS NIETO, RAFAEL",
+  "delegado_equipo_visitante": "ALBA RAMOS, FRANCISCO",
+  "titulares_local": [
+    "FRESNO SALGADO, VICTOR",
+    "PINILLOS FERNANDEZ, MATEO",
+    "JIMENEZ SANCHEZ, ALFREDO",
+    "CORDERO PEREZ, ASIER",
+    "CATALINA GIMÉNEZ, ALEX",
+    "PEREZ NEGRO, MIGUEL",
+    "ANDRÉS SÁEZ, NICOLÁS",
+    "PABLOS GONZALEZ, MARIO",
+    "PEREZ YUGUERO, JORGE",
+    "TABERA GUTIERREZ, ALVARO",
+    "RAMIREZ AGUNDEZ, LUCAS"
+  ],
+  "titulares_visitante": [
+    "GONZALEZ ORTIZ, RODRIGO",
+    "DIAZ DE GERAS LORENZO, MARCO",
+    "NICOLAS MARTINEZ, ALVARO",
+    "PEREZ RODRIGUEZ, ANGEL",
+    "ORDOÑEZ RODRIGUEZ, MARTIN",
+    "SANCHEZ BLANCO, YOEL",
+    "CAMINO FUERTES, CARLOS",
+    "LAVIGNE MIGUEL, MARIO",
+    "ALONSO CARRERA, DIEGO",
+    "GONZALEZ ORDOÑEZ, MARIO",
+    "CABAÑEROS FERNANDEZ, DIEGO"
+  ],
+  "suplentes_local": [
+    "SANTOS LLORENTE, ERIC",
+    "PASCUAL LOPEZ, MARTIN",
+    "ACEVEDO RAMIREZ, JOSHUA DE JESUS",
+    "VEGA VILLA, ALEJANDRO",
+    "RODRIGUEZ CORCHERO, ALEX"
+  ],
+  "suplentes_visitante": [
+    "BAÑEGIL ESCAPA, RODRIGO",
+    "PEREZ DIAZ, MATEO",
+    "CRESPO MARTINEZ, IAN",
+    "JIMÉNEZ JIMÉNEZ, ISAAC",
+    "LOPEZ DORADO, VICTOR"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "BAÑEGIL ESCAPA, RODRIGO"
+  ],
+  "jugadores_local": [
+    "FRESNO SALGADO, VICTOR",
+    "PINILLOS FERNANDEZ, MATEO",
+    "JIMENEZ SANCHEZ, ALFREDO",
+    "CORDERO PEREZ, ASIER",
+    "CATALINA GIMÉNEZ, ALEX",
+    "PEREZ NEGRO, MIGUEL",
+    "ANDRÉS SÁEZ, NICOLÁS",
+    "PABLOS GONZALEZ, MARIO",
+    "PEREZ YUGUERO, JORGE",
+    "TABERA GUTIERREZ, ALVARO",
+    "RAMIREZ AGUNDEZ, LUCAS",
+    "VEGA VILLA, ALEJANDRO",
+    "ACEVEDO RAMIREZ, JOSHUA DE JESUS",
+    "RODRIGUEZ CORCHERO, ALEX",
+    "SANTOS LLORENTE, ERIC",
+    "PASCUAL LOPEZ, MARTIN"
+  ],
+  "jugadores_visitante": [
+    "GONZALEZ ORTIZ, RODRIGO",
+    "DIAZ DE GERAS LORENZO, MARCO",
+    "NICOLAS MARTINEZ, ALVARO",
+    "PEREZ RODRIGUEZ, ANGEL",
+    "ORDOÑEZ RODRIGUEZ, MARTIN",
+    "SANCHEZ BLANCO, YOEL",
+    "CAMINO FUERTES, CARLOS",
+    "LAVIGNE MIGUEL, MARIO",
+    "ALONSO CARRERA, DIEGO",
+    "GONZALEZ ORDOÑEZ, MARIO",
+    "CABAÑEROS FERNANDEZ, DIEGO",
+    "JIMÉNEZ JIMÉNEZ, ISAAC",
+    "CRESPO MARTINEZ, IAN",
+    "LOPEZ DORADO, VICTOR",
+    "PEREZ DIAZ, MATEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "VEGA VILLA, ALEJANDRO",
+      "sale": "PEREZ NEGRO, MIGUEL"
+    },
+    {
+      "min": 36,
+      "entra": "ACEVEDO RAMIREZ, JOSHUA DE JESUS",
+      "sale": "JIMENEZ SANCHEZ, ALFREDO"
+    },
+    {
+      "min": 54,
+      "entra": "RODRIGUEZ CORCHERO, ALEX",
+      "sale": "RAMIREZ AGUNDEZ, LUCAS"
+    },
+    {
+      "min": 59,
+      "entra": "SANTOS LLORENTE, ERIC",
+      "sale": "PABLOS GONZALEZ, MARIO"
+    },
+    {
+      "min": 64,
+      "entra": "PASCUAL LOPEZ, MARTIN",
+      "sale": "PEREZ YUGUERO, JORGE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "JIMÉNEZ JIMÉNEZ, ISAAC",
+      "sale": "SANCHEZ BLANCO, YOEL"
+    },
+    {
+      "min": 41,
+      "entra": "CRESPO MARTINEZ, IAN",
+      "sale": "PEREZ RODRIGUEZ, ANGEL"
+    },
+    {
+      "min": 41,
+      "entra": "LOPEZ DORADO, VICTOR",
+      "sale": "LAVIGNE MIGUEL, MARIO"
+    },
+    {
+      "min": 48,
+      "entra": "PEREZ DIAZ, MATEO",
+      "sale": "GONZALEZ ORDOÑEZ, MARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "FRESNO SALGADO, VICTOR": 90,
+    "PINILLOS FERNANDEZ, MATEO": 90,
+    "JIMENEZ SANCHEZ, ALFREDO": 36,
+    "CORDERO PEREZ, ASIER": 90,
+    "CATALINA GIMÉNEZ, ALEX": 90,
+    "PEREZ NEGRO, MIGUEL": 36,
+    "ANDRÉS SÁEZ, NICOLÁS": 90,
+    "PABLOS GONZALEZ, MARIO": 59,
+    "PEREZ YUGUERO, JORGE": 64,
+    "TABERA GUTIERREZ, ALVARO": 90,
+    "RAMIREZ AGUNDEZ, LUCAS": 54,
+    "VEGA VILLA, ALEJANDRO": 54,
+    "ACEVEDO RAMIREZ, JOSHUA DE JESUS": 54,
+    "RODRIGUEZ CORCHERO, ALEX": 36,
+    "SANTOS LLORENTE, ERIC": 31,
+    "PASCUAL LOPEZ, MARTIN": 26,
+    "GONZALEZ ORTIZ, RODRIGO": 90,
+    "DIAZ DE GERAS LORENZO, MARCO": 90,
+    "NICOLAS MARTINEZ, ALVARO": 90,
+    "PEREZ RODRIGUEZ, ANGEL": 41,
+    "ORDOÑEZ RODRIGUEZ, MARTIN": 90,
+    "SANCHEZ BLANCO, YOEL": 36,
+    "CAMINO FUERTES, CARLOS": 90,
+    "LAVIGNE MIGUEL, MARIO": 41,
+    "ALONSO CARRERA, DIEGO": 90,
+    "GONZALEZ ORDOÑEZ, MARIO": 48,
+    "CABAÑEROS FERNANDEZ, DIEGO": 90,
+    "JIMÉNEZ JIMÉNEZ, ISAAC": 54,
+    "CRESPO MARTINEZ, IAN": 49,
+    "LOPEZ DORADO, VICTOR": 49,
+    "PEREZ DIAZ, MATEO": 42
+  },
+  "portero_local": "FRESNO SALGADO, VICTOR",
+  "portero_visitante": "GONZALEZ ORTIZ, RODRIGO",
+  "dorsales_local": {
+    "FRESNO SALGADO, VICTOR": 1,
+    "PINILLOS FERNANDEZ, MATEO": 2,
+    "JIMENEZ SANCHEZ, ALFREDO": 3,
+    "CORDERO PEREZ, ASIER": 4,
+    "CATALINA GIMÉNEZ, ALEX": 5,
+    "PEREZ NEGRO, MIGUEL": 6,
+    "ANDRÉS SÁEZ, NICOLÁS": 7,
+    "PABLOS GONZALEZ, MARIO": 8,
+    "PEREZ YUGUERO, JORGE": 9,
+    "TABERA GUTIERREZ, ALVARO": 10,
+    "RAMIREZ AGUNDEZ, LUCAS": 11
+  },
+  "dorsales_visitante": {
+    "GONZALEZ ORTIZ, RODRIGO": 13,
+    "DIAZ DE GERAS LORENZO, MARCO": 3,
+    "NICOLAS MARTINEZ, ALVARO": 4,
+    "PEREZ RODRIGUEZ, ANGEL": 5,
+    "ORDOÑEZ RODRIGUEZ, MARTIN": 6,
+    "SANCHEZ BLANCO, YOEL": 11,
+    "CAMINO FUERTES, CARLOS": 12,
+    "LAVIGNE MIGUEL, MARIO": 15,
+    "ALONSO CARRERA, DIEGO": 16,
+    "GONZALEZ ORDOÑEZ, MARIO": 24,
+    "CABAÑEROS FERNANDEZ, DIEGO": 25
+  },
+  "suspendidos": []
+}
