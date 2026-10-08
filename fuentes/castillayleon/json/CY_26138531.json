@@ -1,0 +1,270 @@
+{
+  "acta_id": "CY_26138531",
+  "filename": "Acta_CY_26138531.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "19-09-2026",
+  "hora": "16:00",
+  "categoria": "2ª División Regional de Infantiles (Única - Único)",
+  "equipo_local": "Salamanca C.F. UDS",
+  "equipo_visitante": "C.D. Amor de Dios de Zamora",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "NUÑO SANCHEZ, JORGE",
+    "Árbitro Asistente",
+    "GARCIA BUJÍA, NEREA",
+    "Árbitro Asistente",
+    "JUANES ENTISNE, ANGEL"
+  ],
+  "estadio": "C.M. Tori",
+  "ciudad": "Villares De La Reina",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "CASTELLANOS SANCHEZ, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "PEREZ MARCOS, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "MARCOS HERNANDEZ, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "LOPEZ ARIAS CARBAJO, JAIME",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "GARCIA CAMBRONERO, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "CASTELLANOS SANCHEZ, MARCO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "FRANCO LEGIDO, CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GIL VAQUERO, VICTOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ZAMARREÑO MARTÍN, SAÚL",
+  "delegado_equipo_visitante": "DIAZ RECIO, SERGIO",
+  "titulares_local": [
+    "NIETO SANCHEZ, MANUEL",
+    "SANCHEZ PLAZA RODRIGUEZ, LEO",
+    "MARTIN GONZALEZ, DIEGO",
+    "JUANES SAN JULIAN, ALONSO",
+    "IGLESIAS DÍAZ, MARCO",
+    "GARCIA CAMBRONERO, PABLO",
+    "CASTELLANOS SANCHEZ, MARCO",
+    "MARCOS HERNANDEZ, SAMUEL",
+    "DE DIOS ARAGON, DARIO",
+    "PÉREZ SÁNCHEZ, DANIEL",
+    "PEREZ MARCOS, IZAN"
+  ],
+  "titulares_visitante": [
+    "JIMENEZ MATEOS, YARON",
+    "RIQUELME BRAVO, VICTOR",
+    "ESCOLANO SEVILLANO, JAVIER",
+    "ALLER FERRERO, ERIC",
+    "FERNÁNDEZ SEOANE, NICOLAS",
+    "CALVO PENEDONES, SAÚL",
+    "HERNÁNDEZ ESTEBAN, LUCAS",
+    "DOMINGUEZ FERNANDEZ, MARCO",
+    "LOPEZ ARIAS CARBAJO, JAIME",
+    "PEREZ PEREZ, DYLAN",
+    "RODRIGUEZ GAGO, ALEX"
+  ],
+  "suplentes_local": [
+    "SANCHEZ ALVAREZ, ADRIAN",
+    "GUZMÁN GARCÍA, SALVADOR",
+    "RIVAS CUESTA, AARÓN",
+    "GARCIA JORGE, YADIEL",
+    "ACEVEDO VICENTE, IZAN"
+  ],
+  "suplentes_visitante": [
+    "BARRIO DE LA PRIETA, MIGUEL",
+    "NIETO PEREZ, ISAAC",
+    "PRIETO GONZALEZ, RAUL",
+    "REDONDO FEO, UNAI",
+    "PASCUAL COCO, JORGE"
+  ],
+  "convocados_sin_jugar_local": [
+    "SANCHEZ ALVAREZ, ADRIAN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "NIETO SANCHEZ, MANUEL",
+    "SANCHEZ PLAZA RODRIGUEZ, LEO",
+    "MARTIN GONZALEZ, DIEGO",
+    "JUANES SAN JULIAN, ALONSO",
+    "IGLESIAS DÍAZ, MARCO",
+    "GARCIA CAMBRONERO, PABLO",
+    "CASTELLANOS SANCHEZ, MARCO",
+    "MARCOS HERNANDEZ, SAMUEL",
+    "DE DIOS ARAGON, DARIO",
+    "PÉREZ SÁNCHEZ, DANIEL",
+    "PEREZ MARCOS, IZAN",
+    "RIVAS CUESTA, AARÓN",
+    "ACEVEDO VICENTE, IZAN",
+    "GARCIA JORGE, YADIEL",
+    "GUZMÁN GARCÍA, SALVADOR"
+  ],
+  "jugadores_visitante": [
+    "JIMENEZ MATEOS, YARON",
+    "RIQUELME BRAVO, VICTOR",
+    "ESCOLANO SEVILLANO, JAVIER",
+    "ALLER FERRERO, ERIC",
+    "FERNÁNDEZ SEOANE, NICOLAS",
+    "CALVO PENEDONES, SAÚL",
+    "HERNÁNDEZ ESTEBAN, LUCAS",
+    "DOMINGUEZ FERNANDEZ, MARCO",
+    "LOPEZ ARIAS CARBAJO, JAIME",
+    "PEREZ PEREZ, DYLAN",
+    "RODRIGUEZ GAGO, ALEX",
+    "NIETO PEREZ, ISAAC",
+    "BARRIO DE LA PRIETA, MIGUEL",
+    "PASCUAL COCO, JORGE",
+    "PRIETO GONZALEZ, RAUL",
+    "REDONDO FEO, UNAI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "RIVAS CUESTA, AARÓN",
+      "sale": "PÉREZ SÁNCHEZ, DANIEL"
+    },
+    {
+      "min": 44,
+      "entra": "ACEVEDO VICENTE, IZAN",
+      "sale": "SANCHEZ PLAZA RODRIGUEZ, LEO"
+    },
+    {
+      "min": 54,
+      "entra": "GARCIA JORGE, YADIEL",
+      "sale": "MARCOS HERNANDEZ, SAMUEL"
+    },
+    {
+      "min": 54,
+      "entra": "GUZMÁN GARCÍA, SALVADOR",
+      "sale": "PEREZ MARCOS, IZAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "NIETO PEREZ, ISAAC",
+      "sale": "ESCOLANO SEVILLANO, JAVIER"
+    },
+    {
+      "min": 36,
+      "entra": "BARRIO DE LA PRIETA, MIGUEL",
+      "sale": "ALLER FERRERO, ERIC"
+    },
+    {
+      "min": 53,
+      "entra": "PASCUAL COCO, JORGE",
+      "sale": "DOMINGUEZ FERNANDEZ, MARCO"
+    },
+    {
+      "min": 61,
+      "entra": "PRIETO GONZALEZ, RAUL",
+      "sale": "RIQUELME BRAVO, VICTOR"
+    },
+    {
+      "min": 61,
+      "entra": "REDONDO FEO, UNAI",
+      "sale": "HERNÁNDEZ ESTEBAN, LUCAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "NIETO SANCHEZ, MANUEL": 90,
+    "SANCHEZ PLAZA RODRIGUEZ, LEO": 44,
+    "MARTIN GONZALEZ, DIEGO": 90,
+    "JUANES SAN JULIAN, ALONSO": 90,
+    "IGLESIAS DÍAZ, MARCO": 90,
+    "GARCIA CAMBRONERO, PABLO": 90,
+    "CASTELLANOS SANCHEZ, MARCO": 90,
+    "MARCOS HERNANDEZ, SAMUEL": 54,
+    "DE DIOS ARAGON, DARIO": 90,
+    "PÉREZ SÁNCHEZ, DANIEL": 44,
+    "PEREZ MARCOS, IZAN": 54,
+    "RIVAS CUESTA, AARÓN": 46,
+    "ACEVEDO VICENTE, IZAN": 46,
+    "GARCIA JORGE, YADIEL": 36,
+    "GUZMÁN GARCÍA, SALVADOR": 36,
+    "JIMENEZ MATEOS, YARON": 90,
+    "RIQUELME BRAVO, VICTOR": 61,
+    "ESCOLANO SEVILLANO, JAVIER": 36,
+    "ALLER FERRERO, ERIC": 36,
+    "FERNÁNDEZ SEOANE, NICOLAS": 90,
+    "CALVO PENEDONES, SAÚL": 90,
+    "HERNÁNDEZ ESTEBAN, LUCAS": 61,
+    "DOMINGUEZ FERNANDEZ, MARCO": 53,
+    "LOPEZ ARIAS CARBAJO, JAIME": 90,
+    "PEREZ PEREZ, DYLAN": 90,
+    "RODRIGUEZ GAGO, ALEX": 90,
+    "NIETO PEREZ, ISAAC": 54,
+    "BARRIO DE LA PRIETA, MIGUEL": 54,
+    "PASCUAL COCO, JORGE": 37,
+    "PRIETO GONZALEZ, RAUL": 29,
+    "REDONDO FEO, UNAI": 29
+  },
+  "portero_local": "NIETO SANCHEZ, MANUEL",
+  "portero_visitante": "JIMENEZ MATEOS, YARON",
+  "dorsales_local": {
+    "NIETO SANCHEZ, MANUEL": 1,
+    "SANCHEZ PLAZA RODRIGUEZ, LEO": 2,
+    "MARTIN GONZALEZ, DIEGO": 3,
+    "JUANES SAN JULIAN, ALONSO": 4,
+    "IGLESIAS DÍAZ, MARCO": 5,
+    "GARCIA CAMBRONERO, PABLO": 6,
+    "CASTELLANOS SANCHEZ, MARCO": 7,
+    "MARCOS HERNANDEZ, SAMUEL": 8,
+    "DE DIOS ARAGON, DARIO": 9,
+    "PÉREZ SÁNCHEZ, DANIEL": 10,
+    "PEREZ MARCOS, IZAN": 11
+  },
+  "dorsales_visitante": {
+    "JIMENEZ MATEOS, YARON": 1,
+    "RIQUELME BRAVO, VICTOR": 2,
+    "ESCOLANO SEVILLANO, JAVIER": 3,
+    "ALLER FERRERO, ERIC": 4,
+    "FERNÁNDEZ SEOANE, NICOLAS": 5,
+    "CALVO PENEDONES, SAÚL": 6,
+    "HERNÁNDEZ ESTEBAN, LUCAS": 7,
+    "DOMINGUEZ FERNANDEZ, MARCO": 8,
+    "LOPEZ ARIAS CARBAJO, JAIME": 9,
+    "PEREZ PEREZ, DYLAN": 10,
+    "RODRIGUEZ GAGO, ALEX": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
