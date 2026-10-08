@@ -1,0 +1,223 @@
+{
+  "acta_id": "CY_26138529",
+  "filename": "Acta_CY_26138529.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "19-09-2026",
+  "hora": "13:00",
+  "categoria": "2ª División Regional de Infantiles (Única - Único)",
+  "equipo_local": "C.D.F. Peña Dentomédic",
+  "equipo_visitante": "C.D. Don Bosco",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "ÁLVAREZ PARDO, ÓSCAR",
+    "Árbitro Asistente",
+    "LEÓN DUARTE, AITOR",
+    "Árbitro Asistente",
+    "MARTÍNEZ BAILEZ, GUILLERMO"
+  ],
+  "estadio": "C.M. La Palomera 1",
+  "ciudad": "León",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "CALLEJO MATA, ANGEL DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "GONZÁLEZ BARDÓN, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "TEJEDA ROMERO, JUAN LUIS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "GONZÁLEZ BARDÓN, IZAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CARRASCO ALVAREZ, ANTONIO",
+  "entrenador_visitante": "CALVO QUINTANO, JORGE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PRESA VINAGRE, YOEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA CABALLERO, GASPAR",
+  "delegado_equipo_visitante": "TORIBIO PÉREZ, MARCOS",
+  "titulares_local": [
+    "DIEGUEZ INFESTAS, MARTIN",
+    "GONZALEZ MARTINEZ, ADRIAN",
+    "MIRON, DAMIAN ALEX",
+    "FRAGOSO GARCÍA, MARTÍN",
+    "SOTO GARCIA, JAVIER",
+    "AGUAYO FERNANDEZ, DANIEL",
+    "GONZÁLEZ BARDÓN, IZAN",
+    "TALHAOUI OU BAIN, MAHDI",
+    "CALLEJO MATA, ANGEL DANIEL",
+    "IBAN MARTI, ADRIAN",
+    "MARQUES VALDES, IKER"
+  ],
+  "titulares_visitante": [
+    "PALENCIA PEREZ, ALONSO",
+    "MARTÍN GALLEGO, MARCOS",
+    "DUAL DUAL, YEIKO",
+    "ARRIBAS ENRIQUEZ, ODEY",
+    "VASILEV NIKOLOV, DANIEL",
+    "MANZANO HERNÁNDEZ, JORGE",
+    "PEREZ GONZALEZ, HUGO",
+    "MOTOS HERRERO, MIGUEL",
+    "TEJEDA ROMERO, JUAN LUIS",
+    "LOPEZ DE MIGUEL, LUCAS",
+    "ROJO ALARCIA, MARCOS"
+  ],
+  "suplentes_local": [
+    "DELGADO MAGAZ, AITOR",
+    "GARCIA GARCIA, AITOR",
+    "FERNANDEZ GARCIA, GUILLERMO",
+    "MARTINEZ FUENTES, HUGO",
+    "GARCIA GAJEWSKA, MICHAL CARLOS"
+  ],
+  "suplentes_visitante": [
+    "MALGHI ZIDANI, YASSIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "DELGADO MAGAZ, AITOR"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DIEGUEZ INFESTAS, MARTIN",
+    "GONZALEZ MARTINEZ, ADRIAN",
+    "MIRON, DAMIAN ALEX",
+    "FRAGOSO GARCÍA, MARTÍN",
+    "SOTO GARCIA, JAVIER",
+    "AGUAYO FERNANDEZ, DANIEL",
+    "GONZÁLEZ BARDÓN, IZAN",
+    "TALHAOUI OU BAIN, MAHDI",
+    "CALLEJO MATA, ANGEL DANIEL",
+    "IBAN MARTI, ADRIAN",
+    "MARQUES VALDES, IKER",
+    "GARCIA GAJEWSKA, MICHAL CARLOS",
+    "MARTINEZ FUENTES, HUGO",
+    "FERNANDEZ GARCIA, GUILLERMO",
+    "GARCIA GARCIA, AITOR"
+  ],
+  "jugadores_visitante": [
+    "PALENCIA PEREZ, ALONSO",
+    "MARTÍN GALLEGO, MARCOS",
+    "DUAL DUAL, YEIKO",
+    "ARRIBAS ENRIQUEZ, ODEY",
+    "VASILEV NIKOLOV, DANIEL",
+    "MANZANO HERNÁNDEZ, JORGE",
+    "PEREZ GONZALEZ, HUGO",
+    "MOTOS HERRERO, MIGUEL",
+    "TEJEDA ROMERO, JUAN LUIS",
+    "LOPEZ DE MIGUEL, LUCAS",
+    "ROJO ALARCIA, MARCOS",
+    "MALGHI ZIDANI, YASSIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "GARCIA GAJEWSKA, MICHAL CARLOS",
+      "sale": "IBAN MARTI, ADRIAN"
+    },
+    {
+      "min": 36,
+      "entra": "MARTINEZ FUENTES, HUGO",
+      "sale": "MARQUES VALDES, IKER"
+    },
+    {
+      "min": 36,
+      "entra": "FERNANDEZ GARCIA, GUILLERMO",
+      "sale": "TALHAOUI OU BAIN, MAHDI"
+    },
+    {
+      "min": 63,
+      "entra": "GARCIA GARCIA, AITOR",
+      "sale": "GONZALEZ MARTINEZ, ADRIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "MALGHI ZIDANI, YASSIN",
+      "sale": "MOTOS HERRERO, MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "DIEGUEZ INFESTAS, MARTIN": 90,
+    "GONZALEZ MARTINEZ, ADRIAN": 63,
+    "MIRON, DAMIAN ALEX": 90,
+    "FRAGOSO GARCÍA, MARTÍN": 90,
+    "SOTO GARCIA, JAVIER": 90,
+    "AGUAYO FERNANDEZ, DANIEL": 90,
+    "GONZÁLEZ BARDÓN, IZAN": 90,
+    "TALHAOUI OU BAIN, MAHDI": 36,
+    "CALLEJO MATA, ANGEL DANIEL": 90,
+    "IBAN MARTI, ADRIAN": 36,
+    "MARQUES VALDES, IKER": 36,
+    "GARCIA GAJEWSKA, MICHAL CARLOS": 54,
+    "MARTINEZ FUENTES, HUGO": 54,
+    "FERNANDEZ GARCIA, GUILLERMO": 54,
+    "GARCIA GARCIA, AITOR": 27,
+    "PALENCIA PEREZ, ALONSO": 90,
+    "MARTÍN GALLEGO, MARCOS": 90,
+    "DUAL DUAL, YEIKO": 90,
+    "ARRIBAS ENRIQUEZ, ODEY": 90,
+    "VASILEV NIKOLOV, DANIEL": 90,
+    "MANZANO HERNÁNDEZ, JORGE": 90,
+    "PEREZ GONZALEZ, HUGO": 90,
+    "MOTOS HERRERO, MIGUEL": 45,
+    "TEJEDA ROMERO, JUAN LUIS": 90,
+    "LOPEZ DE MIGUEL, LUCAS": 90,
+    "ROJO ALARCIA, MARCOS": 90,
+    "MALGHI ZIDANI, YASSIN": 45
+  },
+  "portero_local": "DIEGUEZ INFESTAS, MARTIN",
+  "portero_visitante": "PALENCIA PEREZ, ALONSO",
+  "dorsales_local": {
+    "DIEGUEZ INFESTAS, MARTIN": 1,
+    "GONZALEZ MARTINEZ, ADRIAN": 2,
+    "MIRON, DAMIAN ALEX": 3,
+    "FRAGOSO GARCÍA, MARTÍN": 4,
+    "SOTO GARCIA, JAVIER": 5,
+    "AGUAYO FERNANDEZ, DANIEL": 6,
+    "GONZÁLEZ BARDÓN, IZAN": 7,
+    "TALHAOUI OU BAIN, MAHDI": 8,
+    "CALLEJO MATA, ANGEL DANIEL": 9,
+    "IBAN MARTI, ADRIAN": 10,
+    "MARQUES VALDES, IKER": 11
+  },
+  "dorsales_visitante": {
+    "PALENCIA PEREZ, ALONSO": 1,
+    "MARTÍN GALLEGO, MARCOS": 3,
+    "DUAL DUAL, YEIKO": 4,
+    "ARRIBAS ENRIQUEZ, ODEY": 5,
+    "VASILEV NIKOLOV, DANIEL": 6,
+    "MANZANO HERNÁNDEZ, JORGE": 7,
+    "PEREZ GONZALEZ, HUGO": 9,
+    "MOTOS HERRERO, MIGUEL": 10,
+    "TEJEDA ROMERO, JUAN LUIS": 11,
+    "LOPEZ DE MIGUEL, LUCAS": 17,
+    "ROJO ALARCIA, MARCOS": 22
+  },
+  "suspendidos": []
+}
