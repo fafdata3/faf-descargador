@@ -1,0 +1,291 @@
+{
+  "acta_id": "NA_11465",
+  "filename": "Acta_NA_11465.txt",
+  "fuente": "navarra",
+  "temporada": "2020-2021",
+  "jornada": 2,
+  "fecha": "27-02-2021",
+  "hora": "17:00",
+  "categoria": "Primera Autonómica Femenina - Sakro (1 - 1º)",
+  "equipo_local": "Berriozar C.F. B",
+  "equipo_visitante": "Beti Kozkor K.E.",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [],
+  "estadio": "Berriozar",
+  "ciudad": "Berriozar",
+  "goleadores": [
+    {
+      "minuto": 21,
+      "jugador": "Campo Flores, Ane",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "Alba Ureta, Haizea",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "Zabala Urriza, Irati",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "Del Valle Alba, Palmira",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 85,
+      "jugador": "Aranburu O Reilly, Aileen",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "Echarri Ceberio, Aiora",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "Zabala Urriza, Irati",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Gonzalez Moreno, Miguel Angel",
+  "entrenador_visitante": "aitor goikoetxea iriarte",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "Sanchez Hidalgo, DELAINE",
+    "Martiartu Barroso, Elur",
+    "Berrio Alba, Lola",
+    "Sainz Paez, Nayra",
+    "Perez San Francisco, Irati",
+    "Del Valle Alba, Palmira",
+    "Del Valle Alba, Irati",
+    "Oroz Fernandez, MARINA",
+    "Illera Iribarren, Sonia",
+    "Alba Ureta, Haizea",
+    "Fernades Ramos, Erika Adriana"
+  ],
+  "titulares_visitante": [
+    "Garmendia Huarte, Irati",
+    "Bildarraz Artola, Lierni",
+    "Campo Flores, Ane",
+    "Aranburu O Reilly, Aileen",
+    "Garcia - Falces Pascual, Oihane",
+    "Bezdicek Zubeldia, Elisabet",
+    "Zabala Urriza, Irati",
+    "Agirreurreta Lara, Kattalin",
+    "Txoperena Zabaleta, Ainhize",
+    "Arrechea Legarrea, Amaia",
+    "Mariñelarena Echeverria, MADDI"
+  ],
+  "suplentes_local": [
+    "Beorlegui Juanicorena, Nahia",
+    "Izuriaga Echarri, Eider",
+    "Hernandez Erice, Yucai",
+    "Centeno Diaz, Nuria",
+    "Cia Moreno, Iosune",
+    "Eleta Urteaga, Enara",
+    "Lopez Gallardo, Naia"
+  ],
+  "suplentes_visitante": [
+    "Echarri Ceberio, Aiora",
+    "Abegue Obono, Maite",
+    "Goikoetxea Erbiti, Haizea",
+    "Zubieta Tabar, Nerea",
+    "Aguirre Rodríguez, Ainhoa"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "Sanchez Hidalgo, DELAINE",
+    "Martiartu Barroso, Elur",
+    "Berrio Alba, Lola",
+    "Sainz Paez, Nayra",
+    "Perez San Francisco, Irati",
+    "Del Valle Alba, Palmira",
+    "Del Valle Alba, Irati",
+    "Oroz Fernandez, MARINA",
+    "Illera Iribarren, Sonia",
+    "Alba Ureta, Haizea",
+    "Fernades Ramos, Erika Adriana",
+    "Beorlegui Juanicorena, Nahia",
+    "Eleta Urteaga, Enara",
+    "Hernandez Erice, Yucai",
+    "Izuriaga Echarri, Eider",
+    "Lopez Gallardo, Naia",
+    "Cia Moreno, Iosune",
+    "Centeno Diaz, Nuria"
+  ],
+  "jugadores_visitante": [
+    "Garmendia Huarte, Irati",
+    "Bildarraz Artola, Lierni",
+    "Campo Flores, Ane",
+    "Aranburu O Reilly, Aileen",
+    "Garcia - Falces Pascual, Oihane",
+    "Bezdicek Zubeldia, Elisabet",
+    "Zabala Urriza, Irati",
+    "Agirreurreta Lara, Kattalin",
+    "Txoperena Zabaleta, Ainhize",
+    "Arrechea Legarrea, Amaia",
+    "Mariñelarena Echeverria, MADDI",
+    "Abegue Obono, Maite",
+    "Aguirre Rodríguez, Ainhoa",
+    "Zubieta Tabar, Nerea",
+    "Echarri Ceberio, Aiora",
+    "Goikoetxea Erbiti, Haizea"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "Beorlegui Juanicorena, Nahia",
+      "sale": "Del Valle Alba, Irati"
+    },
+    {
+      "min": 45,
+      "entra": "Eleta Urteaga, Enara",
+      "sale": "Oroz Fernandez, MARINA"
+    },
+    {
+      "min": 62,
+      "entra": "Hernandez Erice, Yucai",
+      "sale": "Fernades Ramos, Erika Adriana"
+    },
+    {
+      "min": 62,
+      "entra": "Izuriaga Echarri, Eider",
+      "sale": "Perez San Francisco, Irati"
+    },
+    {
+      "min": 73,
+      "entra": "Lopez Gallardo, Naia",
+      "sale": "Del Valle Alba, Palmira"
+    },
+    {
+      "min": 73,
+      "entra": "Cia Moreno, Iosune",
+      "sale": "Izuriaga Echarri, Eider"
+    },
+    {
+      "min": 73,
+      "entra": "Centeno Diaz, Nuria",
+      "sale": "Alba Ureta, Haizea"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "Abegue Obono, Maite",
+      "sale": "Garmendia Huarte, Irati"
+    },
+    {
+      "min": 45,
+      "entra": "Aguirre Rodríguez, Ainhoa",
+      "sale": "Garcia - Falces Pascual, Oihane"
+    },
+    {
+      "min": 62,
+      "entra": "Zubieta Tabar, Nerea",
+      "sale": "Campo Flores, Ane"
+    },
+    {
+      "min": 62,
+      "entra": "Echarri Ceberio, Aiora",
+      "sale": "Txoperena Zabaleta, Ainhize"
+    },
+    {
+      "min": 62,
+      "entra": "Goikoetxea Erbiti, Haizea",
+      "sale": "Mariñelarena Echeverria, MADDI"
+    }
+  ],
+  "minutos_jugadores": {
+    "Sanchez Hidalgo, DELAINE": 90,
+    "Martiartu Barroso, Elur": 90,
+    "Berrio Alba, Lola": 90,
+    "Sainz Paez, Nayra": 90,
+    "Perez San Francisco, Irati": 62,
+    "Del Valle Alba, Palmira": 73,
+    "Del Valle Alba, Irati": 45,
+    "Oroz Fernandez, MARINA": 45,
+    "Illera Iribarren, Sonia": 90,
+    "Alba Ureta, Haizea": 73,
+    "Fernades Ramos, Erika Adriana": 62,
+    "Beorlegui Juanicorena, Nahia": 45,
+    "Eleta Urteaga, Enara": 45,
+    "Hernandez Erice, Yucai": 28,
+    "Izuriaga Echarri, Eider": 73,
+    "Lopez Gallardo, Naia": 17,
+    "Cia Moreno, Iosune": 17,
+    "Centeno Diaz, Nuria": 17,
+    "Garmendia Huarte, Irati": 45,
+    "Bildarraz Artola, Lierni": 90,
+    "Campo Flores, Ane": 62,
+    "Aranburu O Reilly, Aileen": 90,
+    "Garcia - Falces Pascual, Oihane": 45,
+    "Bezdicek Zubeldia, Elisabet": 90,
+    "Zabala Urriza, Irati": 90,
+    "Agirreurreta Lara, Kattalin": 90,
+    "Txoperena Zabaleta, Ainhize": 62,
+    "Arrechea Legarrea, Amaia": 90,
+    "Mariñelarena Echeverria, MADDI": 62,
+    "Abegue Obono, Maite": 45,
+    "Aguirre Rodríguez, Ainhoa": 45,
+    "Zubieta Tabar, Nerea": 28,
+    "Echarri Ceberio, Aiora": 28,
+    "Goikoetxea Erbiti, Haizea": 28
+  },
+  "portero_local": "Sanchez Hidalgo, DELAINE",
+  "portero_visitante": "Garmendia Huarte, Irati",
+  "dorsales_local": {
+    "Sanchez Hidalgo, DELAINE": 1,
+    "Martiartu Barroso, Elur": 4,
+    "Berrio Alba, Lola": 5,
+    "Sainz Paez, Nayra": 6,
+    "Perez San Francisco, Irati": 9,
+    "Del Valle Alba, Palmira": 10,
+    "Del Valle Alba, Irati": 11,
+    "Oroz Fernandez, MARINA": 16,
+    "Illera Iribarren, Sonia": 20,
+    "Alba Ureta, Haizea": 21,
+    "Fernades Ramos, Erika Adriana": 24
+  },
+  "dorsales_visitante": {
+    "Garmendia Huarte, Irati": 1,
+    "Bildarraz Artola, Lierni": 3,
+    "Campo Flores, Ane": 5,
+    "Aranburu O Reilly, Aileen": 7,
+    "Garcia - Falces Pascual, Oihane": 9,
+    "Bezdicek Zubeldia, Elisabet": 10,
+    "Zabala Urriza, Irati": 14,
+    "Agirreurreta Lara, Kattalin": 15,
+    "Txoperena Zabaleta, Ainhize": 16,
+    "Arrechea Legarrea, Amaia": 18,
+    "Mariñelarena Echeverria, MADDI": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
