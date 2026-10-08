@@ -1,0 +1,159 @@
+{
+  "acta_id": "NA_11617",
+  "filename": "Acta_NA_11617.txt",
+  "fuente": "navarra",
+  "temporada": "2020-2021",
+  "jornada": 4,
+  "fecha": "07-03-2021",
+  "hora": "12:00",
+  "categoria": "Fútbol Sala Senior Femenino (1 - 1º)",
+  "equipo_local": "F.S.Caparroso",
+  "equipo_visitante": "C.D.Tafa F.S.",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [],
+  "estadio": "Polideportivo Caparroso",
+  "ciudad": "Caparroso",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "Vilchez Medina, Jessica",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 12,
+      "jugador": "Irisarri Lopez, Angela",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "Ukar Arana, Violeta",
+      "equipo": "?",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "Irisarri Lopez, Angela",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 23,
+      "jugador": "Vilchez Medina, Jessica",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "Vilchez Medina, Jessica",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "Valencia Taipe, Shirley Carolina",
+    "Carrera Lezano, Oihane",
+    "Irisarri Lopez, Angela",
+    "Vilchez Medina, Jessica",
+    "Perez Adrian, Izaskun"
+  ],
+  "titulares_visitante": [
+    "Lorea Martinez, Saioa",
+    "Romero Lopez, AROA",
+    "Ibañez Moreno, ANDREA",
+    "Ojer Ibáñez, Ana",
+    "Valencia Otazu, Anne"
+  ],
+  "suplentes_local": [
+    "Ibiricu Lecumberri, Maite",
+    "Ukar Arana, Violeta",
+    "Gavilanes Simba, Sherlyn Tatyana",
+    "Manrique Jaurrieta, Eider"
+  ],
+  "suplentes_visitante": [
+    "Berrio Salinas, UXUE",
+    "Merino Garcia, Uxue",
+    "Severiano Recalde, Itsaso",
+    "Ibañez Asa, Amaia",
+    "Inchaurrondo Lizasoain, Marta"
+  ],
+  "convocados_sin_jugar_local": [
+    "Ibiricu Lecumberri, Maite",
+    "Ukar Arana, Violeta",
+    "Gavilanes Simba, Sherlyn Tatyana",
+    "Manrique Jaurrieta, Eider"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "Berrio Salinas, UXUE",
+    "Merino Garcia, Uxue",
+    "Severiano Recalde, Itsaso",
+    "Ibañez Asa, Amaia",
+    "Inchaurrondo Lizasoain, Marta"
+  ],
+  "jugadores_local": [
+    "Valencia Taipe, Shirley Carolina",
+    "Carrera Lezano, Oihane",
+    "Irisarri Lopez, Angela",
+    "Vilchez Medina, Jessica",
+    "Perez Adrian, Izaskun"
+  ],
+  "jugadores_visitante": [
+    "Lorea Martinez, Saioa",
+    "Romero Lopez, AROA",
+    "Ibañez Moreno, ANDREA",
+    "Ojer Ibáñez, Ana",
+    "Valencia Otazu, Anne"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "Valencia Taipe, Shirley Carolina": 90,
+    "Carrera Lezano, Oihane": 90,
+    "Irisarri Lopez, Angela": 90,
+    "Vilchez Medina, Jessica": 90,
+    "Perez Adrian, Izaskun": 90,
+    "Lorea Martinez, Saioa": 90,
+    "Romero Lopez, AROA": 90,
+    "Ibañez Moreno, ANDREA": 90,
+    "Ojer Ibáñez, Ana": 90,
+    "Valencia Otazu, Anne": 90
+  },
+  "portero_local": "Valencia Taipe, Shirley Carolina",
+  "portero_visitante": "Lorea Martinez, Saioa",
+  "dorsales_local": {
+    "Valencia Taipe, Shirley Carolina": 1,
+    "Carrera Lezano, Oihane": 2,
+    "Irisarri Lopez, Angela": 7,
+    "Vilchez Medina, Jessica": 8,
+    "Perez Adrian, Izaskun": 9
+  },
+  "dorsales_visitante": {
+    "Lorea Martinez, Saioa": 16,
+    "Romero Lopez, AROA": 2,
+    "Ibañez Moreno, ANDREA": 9,
+    "Ojer Ibáñez, Ana": 14,
+    "Valencia Otazu, Anne": 20
+  },
+  "suspendidos": [
+    "Vilchez Medina, Jessica"
+  ]
+}
