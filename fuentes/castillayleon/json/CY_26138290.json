@@ -1,0 +1,255 @@
+{
+  "acta_id": "CY_26138290",
+  "filename": "Acta_CY_26138290.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "20-09-2026",
+  "hora": "12:45",
+  "categoria": "1ª División Regional de Infantiles (Única - Único)",
+  "equipo_local": "S.D. Ponferradina S.A.D.",
+  "equipo_visitante": "C.D. Parquesol",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "BERNARDO GARCÍA, AINHOA",
+    "Árbitro Asistente",
+    "TERMENÓN GAGO, CAROLINA",
+    "Árbitro Asistente",
+    "ROMERO OLVEIRA, NOELIA"
+  ],
+  "estadio": "C.M. Compostilla Vicente del Bosque",
+  "ciudad": "Ponferrada",
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "ACEVEDO MARTINEZ, SERGIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "ALVAREZ DE ALMEIDA, LEANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "OVIEDO RAIMUNDEZ, ROBERTO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 59,
+      "jugador": "OVIEDO RAIMUNDEZ, ROBERTO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VENERO GIRÓN, BORJA",
+  "entrenador_visitante": "JIMÉNEZ VALENTIN, SERGIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "BLANCO BAILADOR, ELADIO",
+  "delegado_campo_local": "ARIAS PONCELAS, DANIEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ACEVEDO POSADA, JUAN TOMÁS",
+  "delegado_equipo_visitante": "DE LA IGLESIA CIMAS, FELIX",
+  "titulares_local": [
+    "FERNANDEZ MACIAS, DIEGO",
+    "GARCIA LEONARDO, JORGE",
+    "DIAZ GONZALEZ, DAVID",
+    "ACEVEDO MARTINEZ, SERGIO",
+    "GÓMEZ GONZÁLEZ, ALVARO",
+    "ALVAREZ SANTAMARINA, TEO",
+    "FERNANDEZ QUIJANO, HECTOR",
+    "CRESPO GONZALEZ, DIEGO",
+    "OVIEDO RAIMUNDEZ, ROBERTO",
+    "PRIETO ALVAREZ, GAEL",
+    "LOPEZ BERNARDO, MALICK"
+  ],
+  "titulares_visitante": [
+    "De Pablo",
+    "SANZ SARAVIA, VICTOR",
+    "MARTIN MARTIN, RUBEN",
+    "CALVO MARTIN, GONZALO",
+    "LOPEZ TEJERO, LORENZO",
+    "ARROYO FERNANDEZ, JAVIER",
+    "MUÑOZ SIMON, ENZO",
+    "PÉREZ GONZÁLEZ, ALVARO",
+    "MULERO GARCIA, JAIRO",
+    "CENTENO VILA, ALVARO",
+    "GARCÍA SANCHEZ, GONZALO"
+  ],
+  "suplentes_local": [
+    "CARVALHO GARCIA, AHARON JOSEP",
+    "FERNANDEZ GARCIA, HUGO",
+    "JIMENEZ UTRIA, JOSE ANDRES",
+    "VAZQUEZ GARCIA, MAURO",
+    "EL HADBI FRIJY, HOSAM"
+  ],
+  "suplentes_visitante": [
+    "MARTINEZ SANZ, LEO",
+    "MARTIN AGUADO, ALBERTO",
+    "Darius",
+    "BERMEJO LAPERAL, ALVARO",
+    "ALVAREZ DE ALMEIDA, LEANDRO"
+  ],
+  "convocados_sin_jugar_local": [
+    "FERNANDEZ GARCIA, HUGO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FERNANDEZ MACIAS, DIEGO",
+    "GARCIA LEONARDO, JORGE",
+    "DIAZ GONZALEZ, DAVID",
+    "ACEVEDO MARTINEZ, SERGIO",
+    "GÓMEZ GONZÁLEZ, ALVARO",
+    "ALVAREZ SANTAMARINA, TEO",
+    "FERNANDEZ QUIJANO, HECTOR",
+    "CRESPO GONZALEZ, DIEGO",
+    "OVIEDO RAIMUNDEZ, ROBERTO",
+    "PRIETO ALVAREZ, GAEL",
+    "LOPEZ BERNARDO, MALICK",
+    "JIMENEZ UTRIA, JOSE ANDRES",
+    "VAZQUEZ GARCIA, MAURO",
+    "CARVALHO GARCIA, AHARON JOSEP",
+    "EL HADBI FRIJY, HOSAM"
+  ],
+  "jugadores_visitante": [
+    "De Pablo",
+    "SANZ SARAVIA, VICTOR",
+    "MARTIN MARTIN, RUBEN",
+    "CALVO MARTIN, GONZALO",
+    "LOPEZ TEJERO, LORENZO",
+    "ARROYO FERNANDEZ, JAVIER",
+    "MUÑOZ SIMON, ENZO",
+    "PÉREZ GONZÁLEZ, ALVARO",
+    "MULERO GARCIA, JAIRO",
+    "CENTENO VILA, ALVARO",
+    "GARCÍA SANCHEZ, GONZALO",
+    "Darius",
+    "MARTINEZ SANZ, LEO",
+    "ALVAREZ DE ALMEIDA, LEANDRO",
+    "MARTIN AGUADO, ALBERTO",
+    "BERMEJO LAPERAL, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 39,
+      "entra": "JIMENEZ UTRIA, JOSE ANDRES",
+      "sale": "PRIETO ALVAREZ, GAEL"
+    },
+    {
+      "min": 54,
+      "entra": "VAZQUEZ GARCIA, MAURO",
+      "sale": "CRESPO GONZALEZ, DIEGO"
+    },
+    {
+      "min": 54,
+      "entra": "CARVALHO GARCIA, AHARON JOSEP",
+      "sale": "FERNANDEZ QUIJANO, HECTOR"
+    },
+    {
+      "min": 54,
+      "entra": "EL HADBI FRIJY, HOSAM",
+      "sale": "LOPEZ BERNARDO, MALICK"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "Darius",
+      "sale": "MULERO GARCIA, JAIRO"
+    },
+    {
+      "min": 36,
+      "entra": "MARTINEZ SANZ, LEO",
+      "sale": "PÉREZ GONZÁLEZ, ALVARO"
+    },
+    {
+      "min": 36,
+      "entra": "ALVAREZ DE ALMEIDA, LEANDRO",
+      "sale": "GARCÍA SANCHEZ, GONZALO"
+    },
+    {
+      "min": 36,
+      "entra": "MARTIN AGUADO, ALBERTO",
+      "sale": "MARTIN MARTIN, RUBEN"
+    },
+    {
+      "min": 62,
+      "entra": "BERMEJO LAPERAL, ALVARO",
+      "sale": "ARROYO FERNANDEZ, JAVIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ MACIAS, DIEGO": 90,
+    "GARCIA LEONARDO, JORGE": 90,
+    "DIAZ GONZALEZ, DAVID": 90,
+    "ACEVEDO MARTINEZ, SERGIO": 90,
+    "GÓMEZ GONZÁLEZ, ALVARO": 90,
+    "ALVAREZ SANTAMARINA, TEO": 90,
+    "FERNANDEZ QUIJANO, HECTOR": 54,
+    "CRESPO GONZALEZ, DIEGO": 54,
+    "OVIEDO RAIMUNDEZ, ROBERTO": 90,
+    "PRIETO ALVAREZ, GAEL": 39,
+    "LOPEZ BERNARDO, MALICK": 54,
+    "JIMENEZ UTRIA, JOSE ANDRES": 51,
+    "VAZQUEZ GARCIA, MAURO": 36,
+    "CARVALHO GARCIA, AHARON JOSEP": 36,
+    "EL HADBI FRIJY, HOSAM": 36,
+    "De Pablo": 90,
+    "SANZ SARAVIA, VICTOR": 90,
+    "MARTIN MARTIN, RUBEN": 36,
+    "CALVO MARTIN, GONZALO": 90,
+    "LOPEZ TEJERO, LORENZO": 90,
+    "ARROYO FERNANDEZ, JAVIER": 62,
+    "MUÑOZ SIMON, ENZO": 90,
+    "PÉREZ GONZÁLEZ, ALVARO": 36,
+    "MULERO GARCIA, JAIRO": 36,
+    "CENTENO VILA, ALVARO": 90,
+    "GARCÍA SANCHEZ, GONZALO": 36,
+    "Darius": 54,
+    "MARTINEZ SANZ, LEO": 54,
+    "ALVAREZ DE ALMEIDA, LEANDRO": 54,
+    "MARTIN AGUADO, ALBERTO": 54,
+    "BERMEJO LAPERAL, ALVARO": 28
+  },
+  "portero_local": "FERNANDEZ MACIAS, DIEGO",
+  "portero_visitante": "De Pablo",
+  "dorsales_local": {
+    "FERNANDEZ MACIAS, DIEGO": 1,
+    "GARCIA LEONARDO, JORGE": 2,
+    "DIAZ GONZALEZ, DAVID": 3,
+    "ACEVEDO MARTINEZ, SERGIO": 4,
+    "GÓMEZ GONZÁLEZ, ALVARO": 5,
+    "ALVAREZ SANTAMARINA, TEO": 6,
+    "FERNANDEZ QUIJANO, HECTOR": 7,
+    "CRESPO GONZALEZ, DIEGO": 8,
+    "OVIEDO RAIMUNDEZ, ROBERTO": 9,
+    "PRIETO ALVAREZ, GAEL": 10,
+    "LOPEZ BERNARDO, MALICK": 11
+  },
+  "dorsales_visitante": {
+    "De Pablo": 1,
+    "SANZ SARAVIA, VICTOR": 2,
+    "MARTIN MARTIN, RUBEN": 3,
+    "CALVO MARTIN, GONZALO": 4,
+    "LOPEZ TEJERO, LORENZO": 5,
+    "ARROYO FERNANDEZ, JAVIER": 6,
+    "MUÑOZ SIMON, ENZO": 7,
+    "PÉREZ GONZÁLEZ, ALVARO": 8,
+    "MULERO GARCIA, JAIRO": 9,
+    "CENTENO VILA, ALVARO": 10,
+    "GARCÍA SANCHEZ, GONZALO": 11
+  },
+  "suspendidos": []
+}
