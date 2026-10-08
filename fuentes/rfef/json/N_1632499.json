@@ -9,8 +9,8 @@
   "categoria": "Segunda Division Femenina Sala (1 - Subgrupo 1B)",
   "equipo_local": "RODILES F.S.",
   "equipo_visitante": "A.D. MIOÑO",
-  "goles_local": 6,
-  "goles_visitante": 2,
+  "goles_local": 7,
+  "goles_visitante": 4,
   "resultado": "W",
   "arbitros": [],
   "estadio": "P.M. Manuel Busto",
@@ -20,67 +20,78 @@
       "minuto": 4,
       "jugador": "GARCIA HERRERA, LUCIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 16,
       "jugador": "RIVERO FERNÁNDEZ, ROMINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "ALONSO VAZQUEZ, SONIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 18,
       "jugador": "FERNANDEZ FERNANDEZ, CANDELARIA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 26,
       "jugador": "GARCIA HERRERA, LUCIA",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 38,
       "jugador": "RIVERO FERNÁNDEZ, ROMINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "RIVERO FERNÁNDEZ, ROMINA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "ARROYO OTI, CAROLINA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "ARROYO OTI, CAROLINA",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "ALONSO VAZQUEZ, SONIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "ALONSO VAZQUEZ, SONIA",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -246,5 +257,6 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ]
+  ],
+  "_marcador_widget": true
 }
