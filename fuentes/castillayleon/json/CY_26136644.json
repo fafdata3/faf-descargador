@@ -1,0 +1,247 @@
+{
+  "acta_id": "CY_26136644",
+  "filename": "Acta_CY_26136644.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "13-09-2026",
+  "hora": "12:50",
+  "categoria": "2ª División Regional de Cadetes (Única - Único)",
+  "equipo_local": "Unionistas de Salamanca C.F. B",
+  "equipo_visitante": "C.D. Aranda Riber",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "NUÑO SANCHEZ, JORGE",
+    "Árbitro Asistente",
+    "ELKABOUS ACHAKOUT, OMAR",
+    "Árbitro Asistente",
+    "EL MATDADNI AZELMAD, SAAD"
+  ],
+  "estadio": "C.M. Anexos Reina Sofía",
+  "ciudad": "Salamanca",
+  "goleadores": [
+    {
+      "minuto": 70,
+      "jugador": "HERNANDEZ GUTIERREZ, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 76,
+      "jugador": "CORTES BALLESTEROS, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "VLAICONI ECHEVARRIA, KEVIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "SOTO GUERRA, FRANCISCO JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "DEL ARCO ORTEGA, GUILLERMO",
+  "entrenador_visitante": "SOTO GUERRA, FRANCISCO JAVIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "VICENTE OREJA, FRANCISCO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BERROCAL MARTIN, RAUL",
+  "delegado_equipo_visitante": "DE LA PUENTE PERIBAÑEZ, ORLANDO ANTONIO",
+  "titulares_local": [
+    "GODOY RODRÍGUEZ, JOEL",
+    "CORTES BALLESTEROS, AIMAR",
+    "SANCHEZ CERVIGON, EDUARDO",
+    "OLUSESI CHAMORRO, ELIOT",
+    "SOLÍS MARTÍN, UNAI",
+    "MULAS DIAZ, MARIO",
+    "VICENTE MONTERO, ELOY",
+    "GARCÍA LLORENTE, FABIO",
+    "MARGALLO VAQUERO, SAMUEL",
+    "HERNANDEZ GUTIERREZ, IKER",
+    "MARTIN JASPE, HUGO"
+  ],
+  "titulares_visitante": [
+    "ALONSO GARCIA, DANIEL",
+    "CALVO DE DIEGO, IKER",
+    "DE DIEGO QUIRCE, AARON",
+    "SCHUFFELMANN DIEZ, ALONSO",
+    "SPASOV, PLAMEN IVANOV",
+    "PASCUAL PALACIOS, PABLO",
+    "SANCHEZ ROJO, PABLO",
+    "VLAICONI ECHEVARRIA, KEVIN",
+    "CABELLO ALONSO, AARON",
+    "SANTOS ROJO, GERMAN",
+    "LOPEZ BARRIO, CARLOS"
+  ],
+  "suplentes_local": [
+    "SIERRA SANCHEZ, RODRIGO",
+    "PEREZ IGLESIAS, NOE",
+    "MUÑOZ ALEGRIA, CARLOS",
+    "MENA PRIETO, ADRIAN",
+    "HERNÁNDEZ SOMOVILLA, JAVIER"
+  ],
+  "suplentes_visitante": [
+    "ALVARO DELGADO, RODRIGO",
+    "PECHARROMAN IZQUIERDO, DIEGO",
+    "DE GRACIA GARCIA, SAMUEL",
+    "PERIBAÑEZ BARRIUSO, PABLO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "PECHARROMAN IZQUIERDO, DIEGO"
+  ],
+  "jugadores_local": [
+    "GODOY RODRÍGUEZ, JOEL",
+    "CORTES BALLESTEROS, AIMAR",
+    "SANCHEZ CERVIGON, EDUARDO",
+    "OLUSESI CHAMORRO, ELIOT",
+    "SOLÍS MARTÍN, UNAI",
+    "MULAS DIAZ, MARIO",
+    "VICENTE MONTERO, ELOY",
+    "GARCÍA LLORENTE, FABIO",
+    "MARGALLO VAQUERO, SAMUEL",
+    "HERNANDEZ GUTIERREZ, IKER",
+    "MARTIN JASPE, HUGO",
+    "MUÑOZ ALEGRIA, CARLOS",
+    "HERNÁNDEZ SOMOVILLA, JAVIER",
+    "MENA PRIETO, ADRIAN",
+    "SIERRA SANCHEZ, RODRIGO",
+    "PEREZ IGLESIAS, NOE"
+  ],
+  "jugadores_visitante": [
+    "ALONSO GARCIA, DANIEL",
+    "CALVO DE DIEGO, IKER",
+    "DE DIEGO QUIRCE, AARON",
+    "SCHUFFELMANN DIEZ, ALONSO",
+    "SPASOV, PLAMEN IVANOV",
+    "PASCUAL PALACIOS, PABLO",
+    "SANCHEZ ROJO, PABLO",
+    "VLAICONI ECHEVARRIA, KEVIN",
+    "CABELLO ALONSO, AARON",
+    "SANTOS ROJO, GERMAN",
+    "LOPEZ BARRIO, CARLOS",
+    "ALVARO DELGADO, RODRIGO",
+    "DE GRACIA GARCIA, SAMUEL",
+    "PERIBAÑEZ BARRIUSO, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "MUÑOZ ALEGRIA, CARLOS",
+      "sale": "MARGALLO VAQUERO, SAMUEL"
+    },
+    {
+      "min": 46,
+      "entra": "HERNÁNDEZ SOMOVILLA, JAVIER",
+      "sale": "MULAS DIAZ, MARIO"
+    },
+    {
+      "min": 46,
+      "entra": "MENA PRIETO, ADRIAN",
+      "sale": "VICENTE MONTERO, ELOY"
+    },
+    {
+      "min": 61,
+      "entra": "SIERRA SANCHEZ, RODRIGO",
+      "sale": "GARCÍA LLORENTE, FABIO"
+    },
+    {
+      "min": 74,
+      "entra": "PEREZ IGLESIAS, NOE",
+      "sale": "MARTIN JASPE, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "ALVARO DELGADO, RODRIGO",
+      "sale": "DE DIEGO QUIRCE, AARON"
+    },
+    {
+      "min": 54,
+      "entra": "DE GRACIA GARCIA, SAMUEL",
+      "sale": "LOPEZ BARRIO, CARLOS"
+    },
+    {
+      "min": 54,
+      "entra": "PERIBAÑEZ BARRIUSO, PABLO",
+      "sale": "SANTOS ROJO, GERMAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "GODOY RODRÍGUEZ, JOEL": 90,
+    "CORTES BALLESTEROS, AIMAR": 90,
+    "SANCHEZ CERVIGON, EDUARDO": 90,
+    "OLUSESI CHAMORRO, ELIOT": 90,
+    "SOLÍS MARTÍN, UNAI": 90,
+    "MULAS DIAZ, MARIO": 46,
+    "VICENTE MONTERO, ELOY": 46,
+    "GARCÍA LLORENTE, FABIO": 61,
+    "MARGALLO VAQUERO, SAMUEL": 46,
+    "HERNANDEZ GUTIERREZ, IKER": 90,
+    "MARTIN JASPE, HUGO": 74,
+    "MUÑOZ ALEGRIA, CARLOS": 44,
+    "HERNÁNDEZ SOMOVILLA, JAVIER": 44,
+    "MENA PRIETO, ADRIAN": 44,
+    "SIERRA SANCHEZ, RODRIGO": 29,
+    "PEREZ IGLESIAS, NOE": 16,
+    "ALONSO GARCIA, DANIEL": 90,
+    "CALVO DE DIEGO, IKER": 90,
+    "DE DIEGO QUIRCE, AARON": 53,
+    "SCHUFFELMANN DIEZ, ALONSO": 90,
+    "SPASOV, PLAMEN IVANOV": 90,
+    "PASCUAL PALACIOS, PABLO": 90,
+    "SANCHEZ ROJO, PABLO": 90,
+    "VLAICONI ECHEVARRIA, KEVIN": 90,
+    "CABELLO ALONSO, AARON": 90,
+    "SANTOS ROJO, GERMAN": 54,
+    "LOPEZ BARRIO, CARLOS": 54,
+    "ALVARO DELGADO, RODRIGO": 37,
+    "DE GRACIA GARCIA, SAMUEL": 36,
+    "PERIBAÑEZ BARRIUSO, PABLO": 36
+  },
+  "portero_local": "GODOY RODRÍGUEZ, JOEL",
+  "portero_visitante": "ALONSO GARCIA, DANIEL",
+  "dorsales_local": {
+    "GODOY RODRÍGUEZ, JOEL": 1,
+    "CORTES BALLESTEROS, AIMAR": 3,
+    "SANCHEZ CERVIGON, EDUARDO": 4,
+    "OLUSESI CHAMORRO, ELIOT": 5,
+    "SOLÍS MARTÍN, UNAI": 6,
+    "MULAS DIAZ, MARIO": 9,
+    "VICENTE MONTERO, ELOY": 11,
+    "GARCÍA LLORENTE, FABIO": 12,
+    "MARGALLO VAQUERO, SAMUEL": 14,
+    "HERNANDEZ GUTIERREZ, IKER": 21,
+    "MARTIN JASPE, HUGO": 22
+  },
+  "dorsales_visitante": {
+    "ALONSO GARCIA, DANIEL": 1,
+    "CALVO DE DIEGO, IKER": 2,
+    "DE DIEGO QUIRCE, AARON": 3,
+    "SCHUFFELMANN DIEZ, ALONSO": 4,
+    "SPASOV, PLAMEN IVANOV": 5,
+    "PASCUAL PALACIOS, PABLO": 6,
+    "SANCHEZ ROJO, PABLO": 7,
+    "VLAICONI ECHEVARRIA, KEVIN": 8,
+    "CABELLO ALONSO, AARON": 9,
+    "SANTOS ROJO, GERMAN": 10,
+    "LOPEZ BARRIO, CARLOS": 11
+  },
+  "suspendidos": []
+}
