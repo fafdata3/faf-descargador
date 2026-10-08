@@ -1,0 +1,262 @@
+{
+  "acta_id": "CY_26136397",
+  "filename": "Acta_CY_26136397.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "13-09-2026",
+  "hora": "13:00",
+  "categoria": "1ª División Regional de Cadetes (Única - Único)",
+  "equipo_local": "C.D. Colegios Diocesanos",
+  "equipo_visitante": "Unionistas de Salamanca C.F.",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro",
+    "ALONSO JIMENEZ, ROBERTO",
+    "Árbitro Asistente",
+    "PASCUAL GOMEZ, ADRIAN",
+    "Árbitro Asistente",
+    "RODRIGUEZ GAUSINET, MARCOS"
+  ],
+  "estadio": "C.M. Sancti Spiritu B",
+  "ciudad": "Ávila",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "BLANCO SILVA, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "GARCÍA FIEBIG, PAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "CAÑADA CASAS, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "CAÑADA CASAS, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 41,
+      "jugador": "GUTIERREZ LOPEZ, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 24,
+      "jugador": "HERNÁNDEZ GARCÍA, MATEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DOMÍNGUEZ RODRÍGUEZ, MARCOS",
+  "entrenador_visitante": "SANCHEZ SAN JUAN, JOSE CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "RODRÍGUEZ GONZÁLEZ, ALEJANDRO",
+  "delegado_campo_local": "ALDEA JIMÉNEZ, ALFONSO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALDEA JIMÉNEZ, ALFONSO",
+  "delegado_equipo_visitante": "GOMEZ CALLEJAS, ALVARO",
+  "titulares_local": [
+    "SANCHEZ GARCIA, GUILLERMO",
+    "TAPIA BLAZQUEZ, JESÚS",
+    "MELLADO MARTÍN, SANCHO",
+    "ALDEA SANCHEZ, ALBERTO",
+    "GÓMEZ MÁRQUEZ, TOMÁS",
+    "ALONSO MARTIN, MARIO",
+    "PINDADO DE JUAN, MARCOS",
+    "GONZÁLEZ MUÑOZ, DIEGO",
+    "GUTIERREZ LOPEZ, ALVARO",
+    "GARCÍA FIEBIG, PAUL",
+    "ISAZA OCHOA, JUAN JOSE"
+  ],
+  "titulares_visitante": [
+    "DE CASTRO CARPIO, ARGAID",
+    "LORENZO GARZON, ISAAC",
+    "CALVILLO DE LA CRUZ, VICTOR",
+    "PLAZA GARCIA, ERIC",
+    "BENITO PARRA, DANIEL",
+    "NDATOU ESTEVEZ, CEDRICK",
+    "SÁNCHEZ GARCIA, DIEGO",
+    "HERNÁNDEZ GARCÍA, MATEO",
+    "BLANCO SILVA, HUGO",
+    "ALVAREZ AJATES, ALONSO",
+    "TELLAJ LYASSI, RAYAN"
+  ],
+  "suplentes_local": [
+    "SÁNCHEZ VILA, JORGE",
+    "HERRERA BLÁZQUEZ, ROBERTO",
+    "TABARES RESTREPO, EMMANUEL",
+    "MARTÍN NÚÑEZ, IKER"
+  ],
+  "suplentes_visitante": [
+    "GARCÍA MATEOS, ALEJANDRO",
+    "GOMEZ HERRERA, VICTOR",
+    "GÓMEZ FERNANDES, PABLO",
+    "CAÑADA CASAS, MARIO",
+    "DIGHERO SÁNCHEZ, PABLO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "GARCÍA MATEOS, ALEJANDRO"
+  ],
+  "jugadores_local": [
+    "SANCHEZ GARCIA, GUILLERMO",
+    "TAPIA BLAZQUEZ, JESÚS",
+    "MELLADO MARTÍN, SANCHO",
+    "ALDEA SANCHEZ, ALBERTO",
+    "GÓMEZ MÁRQUEZ, TOMÁS",
+    "ALONSO MARTIN, MARIO",
+    "PINDADO DE JUAN, MARCOS",
+    "GONZÁLEZ MUÑOZ, DIEGO",
+    "GUTIERREZ LOPEZ, ALVARO",
+    "GARCÍA FIEBIG, PAUL",
+    "ISAZA OCHOA, JUAN JOSE",
+    "SÁNCHEZ VILA, JORGE",
+    "TABARES RESTREPO, EMMANUEL",
+    "HERRERA BLÁZQUEZ, ROBERTO",
+    "MARTÍN NÚÑEZ, IKER"
+  ],
+  "jugadores_visitante": [
+    "DE CASTRO CARPIO, ARGAID",
+    "LORENZO GARZON, ISAAC",
+    "CALVILLO DE LA CRUZ, VICTOR",
+    "PLAZA GARCIA, ERIC",
+    "BENITO PARRA, DANIEL",
+    "NDATOU ESTEVEZ, CEDRICK",
+    "SÁNCHEZ GARCIA, DIEGO",
+    "HERNÁNDEZ GARCÍA, MATEO",
+    "BLANCO SILVA, HUGO",
+    "ALVAREZ AJATES, ALONSO",
+    "TELLAJ LYASSI, RAYAN",
+    "CAÑADA CASAS, MARIO",
+    "GOMEZ HERRERA, VICTOR",
+    "DIGHERO SÁNCHEZ, PABLO",
+    "GÓMEZ FERNANDES, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "SÁNCHEZ VILA, JORGE",
+      "sale": "TAPIA BLAZQUEZ, JESÚS"
+    },
+    {
+      "min": 48,
+      "entra": "TABARES RESTREPO, EMMANUEL",
+      "sale": "GONZÁLEZ MUÑOZ, DIEGO"
+    },
+    {
+      "min": 59,
+      "entra": "HERRERA BLÁZQUEZ, ROBERTO",
+      "sale": "GUTIERREZ LOPEZ, ALVARO"
+    },
+    {
+      "min": 59,
+      "entra": "MARTÍN NÚÑEZ, IKER",
+      "sale": "MELLADO MARTÍN, SANCHO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "CAÑADA CASAS, MARIO",
+      "sale": "NDATOU ESTEVEZ, CEDRICK"
+    },
+    {
+      "min": 41,
+      "entra": "GOMEZ HERRERA, VICTOR",
+      "sale": "TELLAJ LYASSI, RAYAN"
+    },
+    {
+      "min": 45,
+      "entra": "DIGHERO SÁNCHEZ, PABLO",
+      "sale": "LORENZO GARZON, ISAAC"
+    },
+    {
+      "min": 54,
+      "entra": "GÓMEZ FERNANDES, PABLO",
+      "sale": "BLANCO SILVA, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANCHEZ GARCIA, GUILLERMO": 90,
+    "TAPIA BLAZQUEZ, JESÚS": 41,
+    "MELLADO MARTÍN, SANCHO": 59,
+    "ALDEA SANCHEZ, ALBERTO": 90,
+    "GÓMEZ MÁRQUEZ, TOMÁS": 90,
+    "ALONSO MARTIN, MARIO": 90,
+    "PINDADO DE JUAN, MARCOS": 90,
+    "GONZÁLEZ MUÑOZ, DIEGO": 48,
+    "GUTIERREZ LOPEZ, ALVARO": 59,
+    "GARCÍA FIEBIG, PAUL": 90,
+    "ISAZA OCHOA, JUAN JOSE": 90,
+    "SÁNCHEZ VILA, JORGE": 49,
+    "TABARES RESTREPO, EMMANUEL": 42,
+    "HERRERA BLÁZQUEZ, ROBERTO": 31,
+    "MARTÍN NÚÑEZ, IKER": 31,
+    "DE CASTRO CARPIO, ARGAID": 90,
+    "LORENZO GARZON, ISAAC": 45,
+    "CALVILLO DE LA CRUZ, VICTOR": 90,
+    "PLAZA GARCIA, ERIC": 90,
+    "BENITO PARRA, DANIEL": 90,
+    "NDATOU ESTEVEZ, CEDRICK": 41,
+    "SÁNCHEZ GARCIA, DIEGO": 90,
+    "HERNÁNDEZ GARCÍA, MATEO": 90,
+    "BLANCO SILVA, HUGO": 54,
+    "ALVAREZ AJATES, ALONSO": 90,
+    "TELLAJ LYASSI, RAYAN": 41,
+    "CAÑADA CASAS, MARIO": 49,
+    "GOMEZ HERRERA, VICTOR": 49,
+    "DIGHERO SÁNCHEZ, PABLO": 45,
+    "GÓMEZ FERNANDES, PABLO": 36
+  },
+  "portero_local": "SANCHEZ GARCIA, GUILLERMO",
+  "portero_visitante": "DE CASTRO CARPIO, ARGAID",
+  "dorsales_local": {
+    "SANCHEZ GARCIA, GUILLERMO": 13,
+    "TAPIA BLAZQUEZ, JESÚS": 5,
+    "MELLADO MARTÍN, SANCHO": 6,
+    "ALDEA SANCHEZ, ALBERTO": 7,
+    "GÓMEZ MÁRQUEZ, TOMÁS": 9,
+    "ALONSO MARTIN, MARIO": 10,
+    "PINDADO DE JUAN, MARCOS": 11,
+    "GONZÁLEZ MUÑOZ, DIEGO": 17,
+    "GUTIERREZ LOPEZ, ALVARO": 18,
+    "GARCÍA FIEBIG, PAUL": 19,
+    "ISAZA OCHOA, JUAN JOSE": 20
+  },
+  "dorsales_visitante": {
+    "DE CASTRO CARPIO, ARGAID": 1,
+    "LORENZO GARZON, ISAAC": 3,
+    "CALVILLO DE LA CRUZ, VICTOR": 4,
+    "PLAZA GARCIA, ERIC": 6,
+    "BENITO PARRA, DANIEL": 8,
+    "NDATOU ESTEVEZ, CEDRICK": 9,
+    "SÁNCHEZ GARCIA, DIEGO": 10,
+    "HERNÁNDEZ GARCÍA, MATEO": 12,
+    "BLANCO SILVA, HUGO": 14,
+    "ALVAREZ AJATES, ALONSO": 16,
+    "TELLAJ LYASSI, RAYAN": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
