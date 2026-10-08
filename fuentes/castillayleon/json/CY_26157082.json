@@ -1,0 +1,294 @@
+{
+  "acta_id": "CY_26157082",
+  "filename": "Acta_CY_26157082.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "03-10-2026",
+  "hora": "10:00",
+  "categoria": "1ª División Provincial de Cadetes (Primera - Burgos)",
+  "equipo_local": "C.D. Arcos de la Llana",
+  "equipo_visitante": "Burgos U.D.",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "BLASCO BARRIUSO, GERMAN"
+  ],
+  "estadio": "C.M. Arcos de la Llana",
+  "ciudad": "Arcos",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "Diego R.E.",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "GOMEZ GONZALEZ, ROBERTO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "GONZALEZ MARTIN, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "PRIETO REIZABAL, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "Diego R.E.",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "TOBAR CASAS, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "TOBÍAS ESCOLAR, ÁLVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "TOBÍAS ESCOLAR, ÁLVARO",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "RUIZ HERMOSILLA, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RECIO CEBRIÁN, LUIS",
+  "entrenador_visitante": "TOBÍAS ESCOLAR, ÁLVARO",
+  "segundo_entrenador_local": "BLASCO BARRIUSO, AARON",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "VIDAL RECIO, MARCOS AIMAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTÍN REVILLA, JORGE",
+  "delegado_equipo_visitante": "MARTINEZ FERNANDEZ, RODRIGO",
+  "titulares_local": [
+    "ENCINAS DEL ESCOBAL, RODRIGO",
+    "CAVIA GARCIA, ALVARO",
+    "CUEVAS RÍOS, AARON",
+    "Diego R.E.",
+    "MARTINEZ BAILON, ANGEL",
+    "IZQUIERDO NUÑEZ, ARIN",
+    "GONZALEZ MARTIN, SAMUEL",
+    "CALZADA CACHO, IZAN",
+    "LAURA BURGOS, DANIEL",
+    "PRIETO REIZABAL, HUGO",
+    "NUÑO LOPEZ, MARCOS"
+  ],
+  "titulares_visitante": [
+    "BARTOLOME MARTINEZ, ENZO",
+    "BUSTO PICÓN, VÍCTOR",
+    "CURIEL RUIZ, ANDRES",
+    "PANADERO NOCEDA, ADRIÁN",
+    "GOMEZ GONZALEZ, ROBERTO",
+    "RUIZ HERMOSILLA, ALEJANDRO",
+    "POPA MUNGIU, ROBERT MIHAI",
+    "MIGUEL MUGARRA, AMARANTO",
+    "FUENTE LOPEZ, DIEGO",
+    "TOBIAS ORCAJO, DAVID",
+    "GONZALEZ HONG, LEO"
+  ],
+  "suplentes_local": [
+    "GARACHANA MARINA, IZAN",
+    "IOSIP PASCA, LUCAS ALEJANDRO",
+    "TOBAR CASAS, UNAI",
+    "SABUGO VELASCO, DANIEL",
+    "GONZALEZ RUIZ, LEO"
+  ],
+  "suplentes_visitante": [
+    "NEBREDA MARTINEZ, EDGAR",
+    "LADRON CASADO, RODRIGO",
+    "GUEYE FALL, BABA",
+    "TORNADIJO HERNANDEZ, HUGO",
+    "MOHAMED, TOURE"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ENCINAS DEL ESCOBAL, RODRIGO",
+    "CAVIA GARCIA, ALVARO",
+    "CUEVAS RÍOS, AARON",
+    "Diego R.E.",
+    "MARTINEZ BAILON, ANGEL",
+    "IZQUIERDO NUÑEZ, ARIN",
+    "GONZALEZ MARTIN, SAMUEL",
+    "CALZADA CACHO, IZAN",
+    "LAURA BURGOS, DANIEL",
+    "PRIETO REIZABAL, HUGO",
+    "NUÑO LOPEZ, MARCOS",
+    "SABUGO VELASCO, DANIEL",
+    "TOBAR CASAS, UNAI",
+    "GONZALEZ RUIZ, LEO",
+    "GARACHANA MARINA, IZAN",
+    "IOSIP PASCA, LUCAS ALEJANDRO"
+  ],
+  "jugadores_visitante": [
+    "BARTOLOME MARTINEZ, ENZO",
+    "BUSTO PICÓN, VÍCTOR",
+    "CURIEL RUIZ, ANDRES",
+    "PANADERO NOCEDA, ADRIÁN",
+    "GOMEZ GONZALEZ, ROBERTO",
+    "RUIZ HERMOSILLA, ALEJANDRO",
+    "POPA MUNGIU, ROBERT MIHAI",
+    "MIGUEL MUGARRA, AMARANTO",
+    "FUENTE LOPEZ, DIEGO",
+    "TOBIAS ORCAJO, DAVID",
+    "GONZALEZ HONG, LEO",
+    "TORNADIJO HERNANDEZ, HUGO",
+    "MOHAMED, TOURE",
+    "NEBREDA MARTINEZ, EDGAR",
+    "GUEYE FALL, BABA",
+    "LADRON CASADO, RODRIGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SABUGO VELASCO, DANIEL",
+      "sale": "CALZADA CACHO, IZAN"
+    },
+    {
+      "min": 40,
+      "entra": "TOBAR CASAS, UNAI",
+      "sale": "LAURA BURGOS, DANIEL"
+    },
+    {
+      "min": 65,
+      "entra": "GONZALEZ RUIZ, LEO",
+      "sale": "GONZALEZ MARTIN, SAMUEL"
+    },
+    {
+      "min": 70,
+      "entra": "GARACHANA MARINA, IZAN",
+      "sale": "NUÑO LOPEZ, MARCOS"
+    },
+    {
+      "min": 76,
+      "entra": "IOSIP PASCA, LUCAS ALEJANDRO",
+      "sale": "IZQUIERDO NUÑEZ, ARIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "TORNADIJO HERNANDEZ, HUGO",
+      "sale": "CURIEL RUIZ, ANDRES"
+    },
+    {
+      "min": 47,
+      "entra": "MOHAMED, TOURE",
+      "sale": "FUENTE LOPEZ, DIEGO"
+    },
+    {
+      "min": 53,
+      "entra": "NEBREDA MARTINEZ, EDGAR",
+      "sale": "GOMEZ GONZALEZ, ROBERTO"
+    },
+    {
+      "min": 53,
+      "entra": "GUEYE FALL, BABA",
+      "sale": "TOBIAS ORCAJO, DAVID"
+    },
+    {
+      "min": 56,
+      "entra": "LADRON CASADO, RODRIGO",
+      "sale": "POPA MUNGIU, ROBERT MIHAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "ENCINAS DEL ESCOBAL, RODRIGO": 90,
+    "CAVIA GARCIA, ALVARO": 90,
+    "CUEVAS RÍOS, AARON": 90,
+    "Diego R.E.": 90,
+    "MARTINEZ BAILON, ANGEL": 90,
+    "IZQUIERDO NUÑEZ, ARIN": 76,
+    "GONZALEZ MARTIN, SAMUEL": 65,
+    "CALZADA CACHO, IZAN": 40,
+    "LAURA BURGOS, DANIEL": 40,
+    "PRIETO REIZABAL, HUGO": 90,
+    "NUÑO LOPEZ, MARCOS": 70,
+    "SABUGO VELASCO, DANIEL": 50,
+    "TOBAR CASAS, UNAI": 50,
+    "GONZALEZ RUIZ, LEO": 25,
+    "GARACHANA MARINA, IZAN": 20,
+    "IOSIP PASCA, LUCAS ALEJANDRO": 14,
+    "BARTOLOME MARTINEZ, ENZO": 90,
+    "BUSTO PICÓN, VÍCTOR": 90,
+    "CURIEL RUIZ, ANDRES": 40,
+    "PANADERO NOCEDA, ADRIÁN": 90,
+    "GOMEZ GONZALEZ, ROBERTO": 53,
+    "RUIZ HERMOSILLA, ALEJANDRO": 90,
+    "POPA MUNGIU, ROBERT MIHAI": 56,
+    "MIGUEL MUGARRA, AMARANTO": 90,
+    "FUENTE LOPEZ, DIEGO": 47,
+    "TOBIAS ORCAJO, DAVID": 53,
+    "GONZALEZ HONG, LEO": 90,
+    "TORNADIJO HERNANDEZ, HUGO": 50,
+    "MOHAMED, TOURE": 43,
+    "NEBREDA MARTINEZ, EDGAR": 37,
+    "GUEYE FALL, BABA": 37,
+    "LADRON CASADO, RODRIGO": 34
+  },
+  "portero_local": "CALZADA CACHO, IZAN",
+  "portero_visitante": "BARTOLOME MARTINEZ, ENZO",
+  "dorsales_local": {
+    "ENCINAS DEL ESCOBAL, RODRIGO": 12,
+    "CAVIA GARCIA, ALVARO": 3,
+    "CUEVAS RÍOS, AARON": 4,
+    "Diego R.E.": 6,
+    "MARTINEZ BAILON, ANGEL": 8,
+    "IZQUIERDO NUÑEZ, ARIN": 9,
+    "GONZALEZ MARTIN, SAMUEL": 11,
+    "CALZADA CACHO, IZAN": 13,
+    "LAURA BURGOS, DANIEL": 17,
+    "PRIETO REIZABAL, HUGO": 18,
+    "NUÑO LOPEZ, MARCOS": 20
+  },
+  "dorsales_visitante": {
+    "BARTOLOME MARTINEZ, ENZO": 1,
+    "BUSTO PICÓN, VÍCTOR": 4,
+    "CURIEL RUIZ, ANDRES": 6,
+    "PANADERO NOCEDA, ADRIÁN": 8,
+    "GOMEZ GONZALEZ, ROBERTO": 9,
+    "RUIZ HERMOSILLA, ALEJANDRO": 14,
+    "POPA MUNGIU, ROBERT MIHAI": 16,
+    "MIGUEL MUGARRA, AMARANTO": 17,
+    "FUENTE LOPEZ, DIEGO": 18,
+    "TOBIAS ORCAJO, DAVID": 19,
+    "GONZALEZ HONG, LEO": 25
+  },
+  "suspendidos": [
+    "TOBÍAS ESCOLAR, ÁLVARO"
+  ],
+  "_marcador_widget": true
+}
