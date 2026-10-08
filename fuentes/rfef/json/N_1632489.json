@@ -10,7 +10,7 @@
   "equipo_local": "C.D. OLITE F.S.",
   "equipo_visitante": "C.D. ARALAR MENDI",
   "goles_local": 1,
-  "goles_visitante": 2,
+  "goles_visitante": 4,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -25,31 +25,36 @@
       "minuto": 2,
       "jugador": "ESCALERA LLORENTE, EDER",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 7,
       "jugador": "GORRITI GORRITI, JOSÉ MARI",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 11,
       "jugador": "MARTIARENA OCHAGAVIA, MIKEL",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 34,
       "jugador": "GORRITI GORRITI, JOSÉ MARI",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 37,
       "jugador": "MARIÑELARENA ARCE, JORGE",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -171,5 +176,6 @@
   },
   "suspendidos": [
     "ARENAZA OREJA, JON"
-  ]
+  ],
+  "_marcador_widget": true
 }
