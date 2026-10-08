@@ -1,0 +1,261 @@
+{
+  "acta_id": "CY_26138294",
+  "filename": "Acta_CY_26138294.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "19-09-2026",
+  "hora": "12:30",
+  "categoria": "1ª División Regional de Infantiles (Única - Único)",
+  "equipo_local": "C.D. Numancia de Soria S.A.D.",
+  "equipo_visitante": "C.D.I. de la Amistad",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro",
+    "ROMERA HERNANDEZ, VICTOR",
+    "Árbitro Asistente",
+    "CARRETERO IZQUIERDO, PABLO",
+    "Árbitro Asistente",
+    "ÁLVARO TUTOR, DAVID"
+  ],
+  "estadio": "C.D. Francisco Rubio 2",
+  "ciudad": "Soria",
+  "goleadores": [
+    {
+      "minuto": 32,
+      "jugador": "AREVALO CARAZO, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "PEREZ PEÑA, JUAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "Alex",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 17,
+      "jugador": "CEREZO GONZALEZ, SAMUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LLORENTE ROMERO, VICTOR",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "DIEZ MIGUEL, ALEJANDRO",
+  "delegado_campo_local": "VERA ALCIVAR, FREDDY LUDGARDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "SAEZ, JUAN MANUEL",
+  "titulares_local": [
+    "PÉREZ MUNERA, IGNACIO",
+    "DEL RIO DE MIGUEL, HUGO",
+    "SAN JOSE GOMEZ, JORGE",
+    "GARIJO GIMENEZ, PABLO",
+    "LACARTA LOSTAO, ADRIAN",
+    "AREVALO CARAZO, HUGO",
+    "DEL CAMPO GONZALEZ, UNAI",
+    "REDONDO FERNANDEZ, SAMUEL",
+    "GOYENA NEILA, NICOLAS",
+    "REDRADO MARÍN, IZAN",
+    "ALONSO CHECA, GINES"
+  ],
+  "titulares_visitante": [
+    "REVILLA GARCIA, PEDRO",
+    "BAJO ALONSO, JUAN",
+    "PIDNEBENNOY, VLADISLAV",
+    "VILLASUR GONZALEZ, SERGIO",
+    "GONZALO FERNANDEZ, MATEO",
+    "STANCHOVSKI FERNANDEZ, RUBEN",
+    "CEREZO GONZALEZ, SAMUEL",
+    "CHICO HUSILLOS, PABLO",
+    "RODRIGUEZ ILLANA, MATEO",
+    "PEREZ PEÑA, JUAN",
+    "LEDANTES SEVILLA, HUGO"
+  ],
+  "suplentes_local": [
+    "LOPEZ MUÑOZ, JOEL",
+    "ALONSO LABORDA, AITOR",
+    "GONZALEZ MIGUEL, MARTIN",
+    "MAHIR HAMZA, BILAL",
+    "FRIAS GALLARDO, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "AGUADO MASA, RICARDO",
+    "DONIS GUTIERREZ, ANGEL",
+    "SAN MARTIN ATIENZA, JON",
+    "BARANDA",
+    "Alex"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PÉREZ MUNERA, IGNACIO",
+    "DEL RIO DE MIGUEL, HUGO",
+    "SAN JOSE GOMEZ, JORGE",
+    "GARIJO GIMENEZ, PABLO",
+    "LACARTA LOSTAO, ADRIAN",
+    "AREVALO CARAZO, HUGO",
+    "DEL CAMPO GONZALEZ, UNAI",
+    "REDONDO FERNANDEZ, SAMUEL",
+    "GOYENA NEILA, NICOLAS",
+    "REDRADO MARÍN, IZAN",
+    "ALONSO CHECA, GINES",
+    "FRIAS GALLARDO, ALVARO",
+    "MAHIR HAMZA, BILAL",
+    "GONZALEZ MIGUEL, MARTIN",
+    "ALONSO LABORDA, AITOR",
+    "LOPEZ MUÑOZ, JOEL"
+  ],
+  "jugadores_visitante": [
+    "REVILLA GARCIA, PEDRO",
+    "BAJO ALONSO, JUAN",
+    "PIDNEBENNOY, VLADISLAV",
+    "VILLASUR GONZALEZ, SERGIO",
+    "GONZALO FERNANDEZ, MATEO",
+    "STANCHOVSKI FERNANDEZ, RUBEN",
+    "CEREZO GONZALEZ, SAMUEL",
+    "CHICO HUSILLOS, PABLO",
+    "RODRIGUEZ ILLANA, MATEO",
+    "PEREZ PEÑA, JUAN",
+    "LEDANTES SEVILLA, HUGO",
+    "DONIS GUTIERREZ, ANGEL",
+    "Alex",
+    "BARANDA",
+    "SAN MARTIN ATIENZA, JON",
+    "AGUADO MASA, RICARDO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "FRIAS GALLARDO, ALVARO",
+      "sale": "LACARTA LOSTAO, ADRIAN"
+    },
+    {
+      "min": 48,
+      "entra": "MAHIR HAMZA, BILAL",
+      "sale": "SAN JOSE GOMEZ, JORGE"
+    },
+    {
+      "min": 48,
+      "entra": "GONZALEZ MIGUEL, MARTIN",
+      "sale": "DEL CAMPO GONZALEZ, UNAI"
+    },
+    {
+      "min": 53,
+      "entra": "ALONSO LABORDA, AITOR",
+      "sale": "ALONSO CHECA, GINES"
+    },
+    {
+      "min": 53,
+      "entra": "LOPEZ MUÑOZ, JOEL",
+      "sale": "GOYENA NEILA, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 43,
+      "entra": "DONIS GUTIERREZ, ANGEL",
+      "sale": "LEDANTES SEVILLA, HUGO"
+    },
+    {
+      "min": 43,
+      "entra": "Alex",
+      "sale": "RODRIGUEZ ILLANA, MATEO"
+    },
+    {
+      "min": 43,
+      "entra": "BARANDA",
+      "sale": "VILLASUR GONZALEZ, SERGIO"
+    },
+    {
+      "min": 56,
+      "entra": "SAN MARTIN ATIENZA, JON",
+      "sale": "CHICO HUSILLOS, PABLO"
+    },
+    {
+      "min": 56,
+      "entra": "AGUADO MASA, RICARDO",
+      "sale": "CEREZO GONZALEZ, SAMUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "PÉREZ MUNERA, IGNACIO": 90,
+    "DEL RIO DE MIGUEL, HUGO": 90,
+    "SAN JOSE GOMEZ, JORGE": 48,
+    "GARIJO GIMENEZ, PABLO": 90,
+    "LACARTA LOSTAO, ADRIAN": 48,
+    "AREVALO CARAZO, HUGO": 90,
+    "DEL CAMPO GONZALEZ, UNAI": 48,
+    "REDONDO FERNANDEZ, SAMUEL": 90,
+    "GOYENA NEILA, NICOLAS": 53,
+    "REDRADO MARÍN, IZAN": 90,
+    "ALONSO CHECA, GINES": 53,
+    "FRIAS GALLARDO, ALVARO": 42,
+    "MAHIR HAMZA, BILAL": 42,
+    "GONZALEZ MIGUEL, MARTIN": 42,
+    "ALONSO LABORDA, AITOR": 37,
+    "LOPEZ MUÑOZ, JOEL": 37,
+    "REVILLA GARCIA, PEDRO": 90,
+    "BAJO ALONSO, JUAN": 90,
+    "PIDNEBENNOY, VLADISLAV": 90,
+    "VILLASUR GONZALEZ, SERGIO": 43,
+    "GONZALO FERNANDEZ, MATEO": 90,
+    "STANCHOVSKI FERNANDEZ, RUBEN": 90,
+    "CEREZO GONZALEZ, SAMUEL": 56,
+    "CHICO HUSILLOS, PABLO": 56,
+    "RODRIGUEZ ILLANA, MATEO": 43,
+    "PEREZ PEÑA, JUAN": 90,
+    "LEDANTES SEVILLA, HUGO": 43,
+    "DONIS GUTIERREZ, ANGEL": 47,
+    "Alex": 47,
+    "BARANDA": 47,
+    "SAN MARTIN ATIENZA, JON": 34,
+    "AGUADO MASA, RICARDO": 34
+  },
+  "portero_local": "PÉREZ MUNERA, IGNACIO",
+  "portero_visitante": "REVILLA GARCIA, PEDRO",
+  "dorsales_local": {
+    "PÉREZ MUNERA, IGNACIO": 1,
+    "DEL RIO DE MIGUEL, HUGO": 3,
+    "SAN JOSE GOMEZ, JORGE": 6,
+    "GARIJO GIMENEZ, PABLO": 7,
+    "LACARTA LOSTAO, ADRIAN": 8,
+    "AREVALO CARAZO, HUGO": 10,
+    "DEL CAMPO GONZALEZ, UNAI": 14,
+    "REDONDO FERNANDEZ, SAMUEL": 17,
+    "GOYENA NEILA, NICOLAS": 18,
+    "REDRADO MARÍN, IZAN": 19,
+    "ALONSO CHECA, GINES": 21
+  },
+  "dorsales_visitante": {
+    "REVILLA GARCIA, PEDRO": 13,
+    "BAJO ALONSO, JUAN": 2,
+    "PIDNEBENNOY, VLADISLAV": 3,
+    "VILLASUR GONZALEZ, SERGIO": 4,
+    "GONZALO FERNANDEZ, MATEO": 5,
+    "STANCHOVSKI FERNANDEZ, RUBEN": 6,
+    "CEREZO GONZALEZ, SAMUEL": 7,
+    "CHICO HUSILLOS, PABLO": 8,
+    "RODRIGUEZ ILLANA, MATEO": 9,
+    "PEREZ PEÑA, JUAN": 10,
+    "LEDANTES SEVILLA, HUGO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
