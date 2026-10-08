@@ -1,0 +1,207 @@
+{
+  "acta_id": "N_1632518",
+  "filename": "Acta_N_1632518.txt",
+  "fuente": "rfef",
+  "temporada": "2020-2021",
+  "jornada": 15,
+  "fecha": "20-02-2021",
+  "hora": "17:00",
+  "categoria": "Segunda Division B Sala (1 - Subgrupo 4A)",
+  "equipo_local": "CLUB INTER F.S.",
+  "equipo_visitante": "EL ALAMO F.S.",
+  "goles_local": 5,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "BARROSO GARCÍA, ISRAEL",
+    "ÁRBITRO 1",
+    "MARTINEZ GONZALEZ, ANTHONY RODOLFO",
+    "ÁRBITRO 2",
+    "ORTEGA RODRIGUEZ, VICENTE"
+  ],
+  "estadio": "Pabellón Fundación Montemadrid",
+  "ciudad": "Madrid",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "BARONA SEGURA, SERGIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 5,
+      "jugador": "DE PABLOS DE DIEGO, ELOY",
+      "equipo": "?",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 22,
+      "jugador": "FERNANDEZ ANDRES, ALBERTO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "DE OLABARRIA GIL, JON JOSEBA",
+      "equipo": "?",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "SILVOSA PEREZ, PABLO",
+      "equipo": "?",
+      "propia": true,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 7,
+      "jugador": "APARICIO JIMENEZ, JAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 22,
+      "jugador": "PALOMO FERNANDEZ, ALVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "SILVOSA PEREZ, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "FERNANDEZ ALVARO, JONATHAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "MATEOS BERMEJO, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 15,
+      "jugador": "GUTIERREZ MARTINEZ, AGUSTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 40,
+      "jugador": "GUTIERREZ MARTINEZ, AGUSTIN",
+      "equipo": "visitante",
+      "tipo": "roja",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "GONZALEZ PEREZ, ANTONIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "BARONA SEGURA, SERGIO",
+    "HERNANDO POLO, ENRIQUE",
+    "FERNANDEZ ANDRES, ALBERTO",
+    "CABALLERO ARMESTO, MIGUEL",
+    "GARCIA ROLDAN, JESUS"
+  ],
+  "titulares_visitante": [
+    "JIMENEZ LAIRADO, DANIEL",
+    "MATEOS BERMEJO, MARIO",
+    "FERNANDEZ ALVARO, JONATHAN"
+  ],
+  "suplentes_local": [
+    "MONTERO DOMINGUEZ, DAVID",
+    "CHIMENO OTERO, GUILLERMO",
+    "DE OLABARRIA GIL, JON JOSEBA",
+    "LAFUENTE PUIG, JAVIER",
+    "DE PABLOS DE DIEGO, ELOY",
+    "MARIJUAN CALLEJAS, JAVIER",
+    "ENCINAS BERMEJO, ANGEL"
+  ],
+  "suplentes_visitante": [
+    "PALOMO FERNANDEZ, ALVARO",
+    "MORALES SANTIUSTE, ADRIAN",
+    "SILVOSA PEREZ, PABLO",
+    "APARICIO JIMENEZ, JAVIER",
+    "HERNANDEZ IBAÑEZ, SERGIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "MONTERO DOMINGUEZ, DAVID",
+    "CHIMENO OTERO, GUILLERMO",
+    "DE OLABARRIA GIL, JON JOSEBA",
+    "LAFUENTE PUIG, JAVIER",
+    "DE PABLOS DE DIEGO, ELOY",
+    "MARIJUAN CALLEJAS, JAVIER",
+    "ENCINAS BERMEJO, ANGEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PALOMO FERNANDEZ, ALVARO",
+    "MORALES SANTIUSTE, ADRIAN",
+    "SILVOSA PEREZ, PABLO",
+    "APARICIO JIMENEZ, JAVIER",
+    "HERNANDEZ IBAÑEZ, SERGIO"
+  ],
+  "jugadores_local": [
+    "BARONA SEGURA, SERGIO",
+    "HERNANDO POLO, ENRIQUE",
+    "FERNANDEZ ANDRES, ALBERTO",
+    "CABALLERO ARMESTO, MIGUEL",
+    "GARCIA ROLDAN, JESUS"
+  ],
+  "jugadores_visitante": [
+    "JIMENEZ LAIRADO, DANIEL",
+    "MATEOS BERMEJO, MARIO",
+    "FERNANDEZ ALVARO, JONATHAN"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "BARONA SEGURA, SERGIO": 90,
+    "HERNANDO POLO, ENRIQUE": 90,
+    "FERNANDEZ ANDRES, ALBERTO": 90,
+    "CABALLERO ARMESTO, MIGUEL": 90,
+    "GARCIA ROLDAN, JESUS": 90,
+    "JIMENEZ LAIRADO, DANIEL": 90,
+    "MATEOS BERMEJO, MARIO": 90,
+    "FERNANDEZ ALVARO, JONATHAN": 90
+  },
+  "portero_local": "FERNANDEZ ANDRES, ALBERTO",
+  "portero_visitante": "JIMENEZ LAIRADO, DANIEL",
+  "dorsales_local": {
+    "BARONA SEGURA, SERGIO": 8,
+    "HERNANDO POLO, ENRIQUE": 11,
+    "FERNANDEZ ANDRES, ALBERTO": 13,
+    "CABALLERO ARMESTO, MIGUEL": 17,
+    "GARCIA ROLDAN, JESUS": 27
+  },
+  "dorsales_visitante": {
+    "JIMENEZ LAIRADO, DANIEL": 6,
+    "MATEOS BERMEJO, MARIO": 10,
+    "FERNANDEZ ALVARO, JONATHAN": 23
+  },
+  "suspendidos": [
+    "GUTIERREZ MARTINEZ, AGUSTIN"
+  ],
+  "_marcador_widget": true
+}
