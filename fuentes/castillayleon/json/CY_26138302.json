@@ -1,0 +1,261 @@
+{
+  "acta_id": "CY_26138302",
+  "filename": "Acta_CY_26138302.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "27-09-2026",
+  "hora": "16:00",
+  "categoria": "1ª División Regional de Infantiles (Única - Único)",
+  "equipo_local": "Real Ávila C.F. S.A.D.",
+  "equipo_visitante": "C.D.I. de la Amistad",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro",
+    "CASTRILLO MUÑOZ, BELTRAN",
+    "Árbitro Asistente",
+    "PLATEL RUBIO, JAVIER",
+    "Árbitro Asistente",
+    "LAZARO ALDUDO, GABRIEL"
+  ],
+  "estadio": "C.M. Manuel Sánchez Granado 1",
+  "ciudad": "Ávila",
+  "goleadores": [
+    {
+      "minuto": 52,
+      "jugador": "Alex",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "GUTIERREZ RODRIGUEZ, JORGE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 58,
+      "jugador": "Relal Ávila",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "SAN MARTIN ATIENZA, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "JIMENEZ DEL PESO, OSCAR",
+  "entrenador_visitante": "VALLEJO NIETO, IVAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "DIEZ MIGUEL, ALEJANDRO",
+  "delegado_campo_local": "HERNANDEZ SANCHEZ, DIEGO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HERNANDEZ SANCHEZ, DIEGO",
+  "delegado_equipo_visitante": "SAEZ, JUAN MANUEL",
+  "titulares_local": [
+    "RODRIGUEZ MIRON, ADRIAN",
+    "MANSO GONZALEZ, BORJA",
+    "HERRERO ARRIBAS, JOEL",
+    "ENCINAR JIMENEZ, PABLO",
+    "RUIZ ALVARADO, DARIO",
+    "DOMINGUEZ MOLANO, GAEL",
+    "GUTIERREZ RODRIGUEZ, JORGE",
+    "Guille",
+    "MOLINA GONZALEZ, MARIO",
+    "JIMENEZ GONZALEZ, SERGIO",
+    "KINTOU, ADAM"
+  ],
+  "titulares_visitante": [
+    "GAITE LINARES, OSCAR",
+    "BAJO ALONSO, JUAN",
+    "PIDNEBENNOY, VLADISLAV",
+    "STANCHOVSKI FERNANDEZ, RUBEN",
+    "GONZALO FERNANDEZ, MATEO",
+    "CHICO HUSILLOS, PABLO",
+    "PEREZ PEÑA, JUAN",
+    "DONIS GUTIERREZ, ANGEL",
+    "BARANDA",
+    "PESQUERA NIÑO, SIMON",
+    "BAHILLO LINARES, MIGUEL ANGEL"
+  ],
+  "suplentes_local": [
+    "LOPEZ MORENO, DIEGO",
+    "FERNANDEZ MARTIN, FRANCISCO",
+    "MARTIN MUÑOZ, GUILLERMO",
+    "Relal Ávila",
+    "BARRERA ESCORIZA, IKER"
+  ],
+  "suplentes_visitante": [
+    "SAN MARTIN ATIENZA, JON",
+    "LEDANTES SEVILLA, HUGO",
+    "RODRIGUEZ ILLANA, MATEO",
+    "Alex",
+    "CEREZO GONZALEZ, SAMUEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RODRIGUEZ MIRON, ADRIAN",
+    "MANSO GONZALEZ, BORJA",
+    "HERRERO ARRIBAS, JOEL",
+    "ENCINAR JIMENEZ, PABLO",
+    "RUIZ ALVARADO, DARIO",
+    "DOMINGUEZ MOLANO, GAEL",
+    "GUTIERREZ RODRIGUEZ, JORGE",
+    "Guille",
+    "MOLINA GONZALEZ, MARIO",
+    "JIMENEZ GONZALEZ, SERGIO",
+    "KINTOU, ADAM",
+    "FERNANDEZ MARTIN, FRANCISCO",
+    "Relal Ávila",
+    "BARRERA ESCORIZA, IKER",
+    "MARTIN MUÑOZ, GUILLERMO",
+    "LOPEZ MORENO, DIEGO"
+  ],
+  "jugadores_visitante": [
+    "GAITE LINARES, OSCAR",
+    "BAJO ALONSO, JUAN",
+    "PIDNEBENNOY, VLADISLAV",
+    "STANCHOVSKI FERNANDEZ, RUBEN",
+    "GONZALO FERNANDEZ, MATEO",
+    "CHICO HUSILLOS, PABLO",
+    "PEREZ PEÑA, JUAN",
+    "DONIS GUTIERREZ, ANGEL",
+    "BARANDA",
+    "PESQUERA NIÑO, SIMON",
+    "BAHILLO LINARES, MIGUEL ANGEL",
+    "LEDANTES SEVILLA, HUGO",
+    "SAN MARTIN ATIENZA, JON",
+    "Alex",
+    "RODRIGUEZ ILLANA, MATEO",
+    "CEREZO GONZALEZ, SAMUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "FERNANDEZ MARTIN, FRANCISCO",
+      "sale": "RUIZ ALVARADO, DARIO"
+    },
+    {
+      "min": 46,
+      "entra": "Relal Ávila",
+      "sale": "DOMINGUEZ MOLANO, GAEL"
+    },
+    {
+      "min": 56,
+      "entra": "BARRERA ESCORIZA, IKER",
+      "sale": "Guille"
+    },
+    {
+      "min": 61,
+      "entra": "MARTIN MUÑOZ, GUILLERMO",
+      "sale": "MOLINA GONZALEZ, MARIO"
+    },
+    {
+      "min": 61,
+      "entra": "LOPEZ MORENO, DIEGO",
+      "sale": "MANSO GONZALEZ, BORJA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "LEDANTES SEVILLA, HUGO",
+      "sale": "BAHILLO LINARES, MIGUEL ANGEL"
+    },
+    {
+      "min": 45,
+      "entra": "SAN MARTIN ATIENZA, JON",
+      "sale": "BARANDA"
+    },
+    {
+      "min": 45,
+      "entra": "Alex",
+      "sale": "STANCHOVSKI FERNANDEZ, RUBEN"
+    },
+    {
+      "min": 55,
+      "entra": "RODRIGUEZ ILLANA, MATEO",
+      "sale": "PESQUERA NIÑO, SIMON"
+    },
+    {
+      "min": 55,
+      "entra": "CEREZO GONZALEZ, SAMUEL",
+      "sale": "PEREZ PEÑA, JUAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "RODRIGUEZ MIRON, ADRIAN": 90,
+    "MANSO GONZALEZ, BORJA": 61,
+    "HERRERO ARRIBAS, JOEL": 90,
+    "ENCINAR JIMENEZ, PABLO": 90,
+    "RUIZ ALVARADO, DARIO": 46,
+    "DOMINGUEZ MOLANO, GAEL": 46,
+    "GUTIERREZ RODRIGUEZ, JORGE": 90,
+    "Guille": 56,
+    "MOLINA GONZALEZ, MARIO": 61,
+    "JIMENEZ GONZALEZ, SERGIO": 90,
+    "KINTOU, ADAM": 90,
+    "FERNANDEZ MARTIN, FRANCISCO": 44,
+    "Relal Ávila": 44,
+    "BARRERA ESCORIZA, IKER": 34,
+    "MARTIN MUÑOZ, GUILLERMO": 29,
+    "LOPEZ MORENO, DIEGO": 29,
+    "GAITE LINARES, OSCAR": 90,
+    "BAJO ALONSO, JUAN": 90,
+    "PIDNEBENNOY, VLADISLAV": 90,
+    "STANCHOVSKI FERNANDEZ, RUBEN": 45,
+    "GONZALO FERNANDEZ, MATEO": 90,
+    "CHICO HUSILLOS, PABLO": 90,
+    "PEREZ PEÑA, JUAN": 55,
+    "DONIS GUTIERREZ, ANGEL": 90,
+    "BARANDA": 45,
+    "PESQUERA NIÑO, SIMON": 55,
+    "BAHILLO LINARES, MIGUEL ANGEL": 45,
+    "LEDANTES SEVILLA, HUGO": 45,
+    "SAN MARTIN ATIENZA, JON": 45,
+    "Alex": 45,
+    "RODRIGUEZ ILLANA, MATEO": 35,
+    "CEREZO GONZALEZ, SAMUEL": 35
+  },
+  "portero_local": "RODRIGUEZ MIRON, ADRIAN",
+  "portero_visitante": "GAITE LINARES, OSCAR",
+  "dorsales_local": {
+    "RODRIGUEZ MIRON, ADRIAN": 1,
+    "MANSO GONZALEZ, BORJA": 4,
+    "HERRERO ARRIBAS, JOEL": 5,
+    "ENCINAR JIMENEZ, PABLO": 6,
+    "RUIZ ALVARADO, DARIO": 7,
+    "DOMINGUEZ MOLANO, GAEL": 8,
+    "GUTIERREZ RODRIGUEZ, JORGE": 10,
+    "Guille": 11,
+    "MOLINA GONZALEZ, MARIO": 14,
+    "JIMENEZ GONZALEZ, SERGIO": 17,
+    "KINTOU, ADAM": 19
+  },
+  "dorsales_visitante": {
+    "GAITE LINARES, OSCAR": 1,
+    "BAJO ALONSO, JUAN": 2,
+    "PIDNEBENNOY, VLADISLAV": 3,
+    "STANCHOVSKI FERNANDEZ, RUBEN": 4,
+    "GONZALO FERNANDEZ, MATEO": 5,
+    "CHICO HUSILLOS, PABLO": 6,
+    "PEREZ PEÑA, JUAN": 7,
+    "DONIS GUTIERREZ, ANGEL": 8,
+    "BARANDA": 9,
+    "PESQUERA NIÑO, SIMON": 10,
+    "BAHILLO LINARES, MIGUEL ANGEL": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
