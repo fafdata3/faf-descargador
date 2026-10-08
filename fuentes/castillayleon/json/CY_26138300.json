@@ -1,0 +1,248 @@
+{
+  "acta_id": "CY_26138300",
+  "filename": "Acta_CY_26138300.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "26-09-2026",
+  "hora": "13:00",
+  "categoria": "1ª División Regional de Infantiles (Única - Único)",
+  "equipo_local": "C. y D. Leonesa S.A.D.",
+  "equipo_visitante": "Betis C.F.",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro",
+    "VEGA ÁLVAREZ, JORGE",
+    "Árbitro Asistente",
+    "MUÑOZ ÁLVAREZ, DIEGO",
+    "Árbitro Asistente",
+    "GUTIÉRREZ FERNÁNDEZ, PEDRO"
+  ],
+  "estadio": "Area D. de Puente Castro 3",
+  "ciudad": "León",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "LOPEZ GONZALEZ, CAYETANO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "PEREZ YUGUERO, JORGE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "ARIAS FUERTES, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 37,
+      "jugador": "PEREZ YUGUERO, JORGE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 50,
+      "jugador": "FERNANDEZ ACINAS, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "CORDERO PEREZ, ASIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RODRIGUEZ TUÑON, PABLO",
+  "entrenador_visitante": "VELASCO SORIA, ADRIAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GARCÍA RIVERA, ÁLVARO",
+  "delegado_campo_local": "MOYANO FERNANDEZ, FRANCISCO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MENDOZA MAYO, EDUARDO",
+  "delegado_equipo_visitante": "BARRIOS NIETO, RAFAEL",
+  "titulares_local": [
+    "GONZALEZ FERNANDEZ, ALEX",
+    "FERNANDEZ ACINAS, ALVARO",
+    "DIEZ DE PRADO, SERGIO",
+    "SUAREZ SUAREZ, FABIO",
+    "Hugo",
+    "PABLO GARCÍA",
+    "LOPEZ GONZALEZ, CAYETANO",
+    "ARIAS FUERTES, MARTIN",
+    "DOMINGUEZ REJAS, AITOR",
+    "RODRIGUEZ BLANCO, ADRIAN",
+    "GARCIA PEREZ, JORGE"
+  ],
+  "titulares_visitante": [
+    "SANTOS LLORENTE, ERIC",
+    "PINILLOS FERNANDEZ, MATEO",
+    "JIMENEZ SANCHEZ, ALFREDO",
+    "CORDERO PEREZ, ASIER",
+    "CATALINA GIMÉNEZ, ALEX",
+    "VEGA VILLA, ALEJANDRO",
+    "PEREZ NEGRO, MIGUEL",
+    "ANDRÉS SÁEZ, NICOLÁS",
+    "PEREZ YUGUERO, JORGE",
+    "TABERA GUTIERREZ, ALVARO",
+    "RAMIREZ AGUNDEZ, LUCAS"
+  ],
+  "suplentes_local": [
+    "GUTIERREZ DIEZ, GUILLERMO",
+    "CARREÑO TEJERO, GERMAN",
+    "GARCIA RODRIGUEZ, MARTIN",
+    "DOVIDENAS, ROKAS"
+  ],
+  "suplentes_visitante": [
+    "FRESNO SALGADO, VICTOR",
+    "PASCUAL LOPEZ, MARTIN",
+    "ACEVEDO RAMIREZ, JOSHUA DE JESUS",
+    "RODRIGUEZ CORCHERO, ALEX"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA RODRIGUEZ, MARTIN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "FRESNO SALGADO, VICTOR"
+  ],
+  "jugadores_local": [
+    "GONZALEZ FERNANDEZ, ALEX",
+    "FERNANDEZ ACINAS, ALVARO",
+    "DIEZ DE PRADO, SERGIO",
+    "SUAREZ SUAREZ, FABIO",
+    "Hugo",
+    "PABLO GARCÍA",
+    "LOPEZ GONZALEZ, CAYETANO",
+    "ARIAS FUERTES, MARTIN",
+    "DOMINGUEZ REJAS, AITOR",
+    "RODRIGUEZ BLANCO, ADRIAN",
+    "GARCIA PEREZ, JORGE",
+    "DOVIDENAS, ROKAS",
+    "CARREÑO TEJERO, GERMAN",
+    "GUTIERREZ DIEZ, GUILLERMO"
+  ],
+  "jugadores_visitante": [
+    "SANTOS LLORENTE, ERIC",
+    "PINILLOS FERNANDEZ, MATEO",
+    "JIMENEZ SANCHEZ, ALFREDO",
+    "CORDERO PEREZ, ASIER",
+    "CATALINA GIMÉNEZ, ALEX",
+    "VEGA VILLA, ALEJANDRO",
+    "PEREZ NEGRO, MIGUEL",
+    "ANDRÉS SÁEZ, NICOLÁS",
+    "PEREZ YUGUERO, JORGE",
+    "TABERA GUTIERREZ, ALVARO",
+    "RAMIREZ AGUNDEZ, LUCAS",
+    "RODRIGUEZ CORCHERO, ALEX",
+    "ACEVEDO RAMIREZ, JOSHUA DE JESUS",
+    "PASCUAL LOPEZ, MARTIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "DOVIDENAS, ROKAS",
+      "sale": "RODRIGUEZ BLANCO, ADRIAN"
+    },
+    {
+      "min": 52,
+      "entra": "CARREÑO TEJERO, GERMAN",
+      "sale": "FERNANDEZ ACINAS, ALVARO"
+    },
+    {
+      "min": 63,
+      "entra": "GUTIERREZ DIEZ, GUILLERMO",
+      "sale": "GARCIA PEREZ, JORGE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "RODRIGUEZ CORCHERO, ALEX",
+      "sale": "RAMIREZ AGUNDEZ, LUCAS"
+    },
+    {
+      "min": 58,
+      "entra": "ACEVEDO RAMIREZ, JOSHUA DE JESUS",
+      "sale": "VEGA VILLA, ALEJANDRO"
+    },
+    {
+      "min": 67,
+      "entra": "PASCUAL LOPEZ, MARTIN",
+      "sale": "TABERA GUTIERREZ, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONZALEZ FERNANDEZ, ALEX": 90,
+    "FERNANDEZ ACINAS, ALVARO": 52,
+    "DIEZ DE PRADO, SERGIO": 90,
+    "SUAREZ SUAREZ, FABIO": 90,
+    "Hugo": 90,
+    "PABLO GARCÍA": 90,
+    "LOPEZ GONZALEZ, CAYETANO": 90,
+    "ARIAS FUERTES, MARTIN": 90,
+    "DOMINGUEZ REJAS, AITOR": 90,
+    "RODRIGUEZ BLANCO, ADRIAN": 52,
+    "GARCIA PEREZ, JORGE": 63,
+    "DOVIDENAS, ROKAS": 38,
+    "CARREÑO TEJERO, GERMAN": 38,
+    "GUTIERREZ DIEZ, GUILLERMO": 27,
+    "SANTOS LLORENTE, ERIC": 90,
+    "PINILLOS FERNANDEZ, MATEO": 90,
+    "JIMENEZ SANCHEZ, ALFREDO": 90,
+    "CORDERO PEREZ, ASIER": 90,
+    "CATALINA GIMÉNEZ, ALEX": 90,
+    "VEGA VILLA, ALEJANDRO": 58,
+    "PEREZ NEGRO, MIGUEL": 90,
+    "ANDRÉS SÁEZ, NICOLÁS": 90,
+    "PEREZ YUGUERO, JORGE": 90,
+    "TABERA GUTIERREZ, ALVARO": 67,
+    "RAMIREZ AGUNDEZ, LUCAS": 51,
+    "RODRIGUEZ CORCHERO, ALEX": 39,
+    "ACEVEDO RAMIREZ, JOSHUA DE JESUS": 32,
+    "PASCUAL LOPEZ, MARTIN": 23
+  },
+  "portero_local": "GONZALEZ FERNANDEZ, ALEX",
+  "portero_visitante": "SANTOS LLORENTE, ERIC",
+  "dorsales_local": {
+    "GONZALEZ FERNANDEZ, ALEX": 1,
+    "FERNANDEZ ACINAS, ALVARO": 2,
+    "DIEZ DE PRADO, SERGIO": 3,
+    "SUAREZ SUAREZ, FABIO": 4,
+    "Hugo": 5,
+    "PABLO GARCÍA": 6,
+    "LOPEZ GONZALEZ, CAYETANO": 7,
+    "ARIAS FUERTES, MARTIN": 8,
+    "DOMINGUEZ REJAS, AITOR": 9,
+    "RODRIGUEZ BLANCO, ADRIAN": 10,
+    "GARCIA PEREZ, JORGE": 11
+  },
+  "dorsales_visitante": {
+    "SANTOS LLORENTE, ERIC": 1,
+    "PINILLOS FERNANDEZ, MATEO": 2,
+    "JIMENEZ SANCHEZ, ALFREDO": 3,
+    "CORDERO PEREZ, ASIER": 4,
+    "CATALINA GIMÉNEZ, ALEX": 5,
+    "VEGA VILLA, ALEJANDRO": 6,
+    "PEREZ NEGRO, MIGUEL": 7,
+    "ANDRÉS SÁEZ, NICOLÁS": 8,
+    "PEREZ YUGUERO, JORGE": 9,
+    "TABERA GUTIERREZ, ALVARO": 10,
+    "RAMIREZ AGUNDEZ, LUCAS": 11
+  },
+  "suspendidos": []
+}
