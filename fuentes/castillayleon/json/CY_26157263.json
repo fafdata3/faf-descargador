@@ -1,0 +1,264 @@
+{
+  "acta_id": "CY_26157263",
+  "filename": "Acta_CY_26157263.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "04-10-2026",
+  "hora": "09:45",
+  "categoria": "1ª División Provincial de Infantiles (Primera - Burgos)",
+  "equipo_local": "C.D. Grupo Antolín",
+  "equipo_visitante": "C.D. Juventud del Círculo Católico B",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "BORENKO , NIKITA"
+  ],
+  "estadio": "C.M. Teodoro Tejedor",
+  "ciudad": "Burgos",
+  "goleadores": [
+    {
+      "minuto": 35,
+      "jugador": "HERNAIZ MARTIN, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "MAQUILON MUÑOZ, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "HERNAIZ MARTIN, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "NOGUEIRA FLOR, THIAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 26,
+      "jugador": "FERNÁNDEZ BENITO, NUÑO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZÁLEZ BARROSO, JONATAN",
+  "entrenador_visitante": "MONTENEGRO ALONSO, ALBERTO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GONZALEZ RODRIGUES, ADRIAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HERRERO RUIZ, ISRAEL",
+  "delegado_equipo_visitante": "PEÑA REVILLA, JESÚS",
+  "titulares_local": [
+    "LARA DELGADO, PABLO",
+    "ACINAS SANZ, DANIEL",
+    "GÓMEZ MARTÍNEZ, DAVID",
+    "MUGIU, LUCAS ADRIAN",
+    "HERNAIZ MARTIN, MARIO",
+    "VAL GARCÍA, DIEGO",
+    "REQUEJO PALACIOS, UNAI",
+    "MAQUILON MUÑOZ, IZAN",
+    "LOZANO MERINO, JORGE",
+    "GONZALEZ MARTINEZ, DANIEL",
+    "MARTINEZ NAVALON, HECTOR"
+  ],
+  "titulares_visitante": [
+    "GUERRERO TORCA, HUGO",
+    "Escribano",
+    "ARROYO TARREGA, DARIO",
+    "JORGE DIEZ, DIEGO",
+    "CONDE VELASCO, VICTOR",
+    "ORTEGA ALONSO, DIEGO",
+    "PALACIOS CITORES, MARCOS",
+    "GARCÍA PEÑA, GERMÁN",
+    "AGUILAR HIERRO, JUAN",
+    "FERNÁNDEZ BENITO, NUÑO",
+    "SANCHEZ FERNANDEZ, ERIK"
+  ],
+  "suplentes_local": [
+    "RAMOS GALLO, IVAN",
+    "NÚÑEZ IBÁÑEZ, YAGO",
+    "FERNÁNDEZ ZAMORA, MARCOS",
+    "NOGUEIRA FLOR, THIAGO",
+    "ALMENDRES ARNAIZ, LAIN"
+  ],
+  "suplentes_visitante": [
+    "GARRIDO GAONA, TELMO",
+    "PUENTE SANTAMARÍA, ADRIÁN",
+    "HUERTA MALLO, PABLO",
+    "ECHEVARRÍA SERRANO, GAEL",
+    "PUENTE RODRÍGUEZ, GABRIEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "LARA DELGADO, PABLO",
+    "ACINAS SANZ, DANIEL",
+    "GÓMEZ MARTÍNEZ, DAVID",
+    "MUGIU, LUCAS ADRIAN",
+    "HERNAIZ MARTIN, MARIO",
+    "VAL GARCÍA, DIEGO",
+    "REQUEJO PALACIOS, UNAI",
+    "MAQUILON MUÑOZ, IZAN",
+    "LOZANO MERINO, JORGE",
+    "GONZALEZ MARTINEZ, DANIEL",
+    "MARTINEZ NAVALON, HECTOR",
+    "ALMENDRES ARNAIZ, LAIN",
+    "RAMOS GALLO, IVAN",
+    "NÚÑEZ IBÁÑEZ, YAGO",
+    "FERNÁNDEZ ZAMORA, MARCOS",
+    "NOGUEIRA FLOR, THIAGO"
+  ],
+  "jugadores_visitante": [
+    "GUERRERO TORCA, HUGO",
+    "Escribano",
+    "ARROYO TARREGA, DARIO",
+    "JORGE DIEZ, DIEGO",
+    "CONDE VELASCO, VICTOR",
+    "ORTEGA ALONSO, DIEGO",
+    "PALACIOS CITORES, MARCOS",
+    "GARCÍA PEÑA, GERMÁN",
+    "AGUILAR HIERRO, JUAN",
+    "FERNÁNDEZ BENITO, NUÑO",
+    "SANCHEZ FERNANDEZ, ERIK",
+    "ECHEVARRÍA SERRANO, GAEL",
+    "PUENTE RODRÍGUEZ, GABRIEL",
+    "HUERTA MALLO, PABLO",
+    "PUENTE SANTAMARÍA, ADRIÁN",
+    "GARRIDO GAONA, TELMO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 38,
+      "entra": "ALMENDRES ARNAIZ, LAIN",
+      "sale": "VAL GARCÍA, DIEGO"
+    },
+    {
+      "min": 44,
+      "entra": "RAMOS GALLO, IVAN",
+      "sale": "GÓMEZ MARTÍNEZ, DAVID"
+    },
+    {
+      "min": 48,
+      "entra": "NÚÑEZ IBÁÑEZ, YAGO",
+      "sale": "REQUEJO PALACIOS, UNAI"
+    },
+    {
+      "min": 55,
+      "entra": "FERNÁNDEZ ZAMORA, MARCOS",
+      "sale": "HERNAIZ MARTIN, MARIO"
+    },
+    {
+      "min": 61,
+      "entra": "NOGUEIRA FLOR, THIAGO",
+      "sale": "MAQUILON MUÑOZ, IZAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "ECHEVARRÍA SERRANO, GAEL",
+      "sale": "Escribano"
+    },
+    {
+      "min": 39,
+      "entra": "PUENTE RODRÍGUEZ, GABRIEL",
+      "sale": "PALACIOS CITORES, MARCOS"
+    },
+    {
+      "min": 42,
+      "entra": "HUERTA MALLO, PABLO",
+      "sale": "FERNÁNDEZ BENITO, NUÑO"
+    },
+    {
+      "min": 46,
+      "entra": "PUENTE SANTAMARÍA, ADRIÁN",
+      "sale": "CONDE VELASCO, VICTOR"
+    },
+    {
+      "min": 62,
+      "entra": "GARRIDO GAONA, TELMO",
+      "sale": "GARCÍA PEÑA, GERMÁN"
+    }
+  ],
+  "minutos_jugadores": {
+    "LARA DELGADO, PABLO": 90,
+    "ACINAS SANZ, DANIEL": 90,
+    "GÓMEZ MARTÍNEZ, DAVID": 44,
+    "MUGIU, LUCAS ADRIAN": 90,
+    "HERNAIZ MARTIN, MARIO": 55,
+    "VAL GARCÍA, DIEGO": 38,
+    "REQUEJO PALACIOS, UNAI": 48,
+    "MAQUILON MUÑOZ, IZAN": 61,
+    "LOZANO MERINO, JORGE": 90,
+    "GONZALEZ MARTINEZ, DANIEL": 90,
+    "MARTINEZ NAVALON, HECTOR": 90,
+    "ALMENDRES ARNAIZ, LAIN": 52,
+    "RAMOS GALLO, IVAN": 46,
+    "NÚÑEZ IBÁÑEZ, YAGO": 42,
+    "FERNÁNDEZ ZAMORA, MARCOS": 35,
+    "NOGUEIRA FLOR, THIAGO": 29,
+    "GUERRERO TORCA, HUGO": 90,
+    "Escribano": 36,
+    "ARROYO TARREGA, DARIO": 90,
+    "JORGE DIEZ, DIEGO": 90,
+    "CONDE VELASCO, VICTOR": 46,
+    "ORTEGA ALONSO, DIEGO": 90,
+    "PALACIOS CITORES, MARCOS": 39,
+    "GARCÍA PEÑA, GERMÁN": 62,
+    "AGUILAR HIERRO, JUAN": 90,
+    "FERNÁNDEZ BENITO, NUÑO": 42,
+    "SANCHEZ FERNANDEZ, ERIK": 90,
+    "ECHEVARRÍA SERRANO, GAEL": 54,
+    "PUENTE RODRÍGUEZ, GABRIEL": 51,
+    "HUERTA MALLO, PABLO": 48,
+    "PUENTE SANTAMARÍA, ADRIÁN": 44,
+    "GARRIDO GAONA, TELMO": 28
+  },
+  "portero_local": "LARA DELGADO, PABLO",
+  "portero_visitante": "GUERRERO TORCA, HUGO",
+  "dorsales_local": {
+    "LARA DELGADO, PABLO": 1,
+    "ACINAS SANZ, DANIEL": 2,
+    "GÓMEZ MARTÍNEZ, DAVID": 3,
+    "MUGIU, LUCAS ADRIAN": 4,
+    "HERNAIZ MARTIN, MARIO": 7,
+    "VAL GARCÍA, DIEGO": 9,
+    "REQUEJO PALACIOS, UNAI": 10,
+    "MAQUILON MUÑOZ, IZAN": 11,
+    "LOZANO MERINO, JORGE": 16,
+    "GONZALEZ MARTINEZ, DANIEL": 17,
+    "MARTINEZ NAVALON, HECTOR": 20
+  },
+  "dorsales_visitante": {
+    "GUERRERO TORCA, HUGO": 13,
+    "Escribano": 2,
+    "ARROYO TARREGA, DARIO": 3,
+    "JORGE DIEZ, DIEGO": 5,
+    "CONDE VELASCO, VICTOR": 7,
+    "ORTEGA ALONSO, DIEGO": 8,
+    "PALACIOS CITORES, MARCOS": 9,
+    "GARCÍA PEÑA, GERMÁN": 10,
+    "AGUILAR HIERRO, JUAN": 12,
+    "FERNÁNDEZ BENITO, NUÑO": 15,
+    "SANCHEZ FERNANDEZ, ERIK": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
