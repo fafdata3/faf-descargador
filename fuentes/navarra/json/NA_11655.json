@@ -1,0 +1,253 @@
+{
+  "acta_id": "NA_11655",
+  "filename": "Acta_NA_11655.txt",
+  "fuente": "navarra",
+  "temporada": "2020-2021",
+  "jornada": 4,
+  "fecha": "06-03-2021",
+  "hora": "17:30",
+  "categoria": "Primera Autonómica Femenina - Sakro (1 - 2º)",
+  "equipo_local": "C.D. Ardoi",
+  "equipo_visitante": "C.D.Universidad de Navarra",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [],
+  "estadio": "El Pinar 2",
+  "ciudad": "Zizur Mayor",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "Armendariz Ibañez, Saioa",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "Vizcano Cueva, Sara",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "Orzanco Anderiz, Edurne",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 58,
+      "jugador": "Orzanco Anderiz, Maite",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Blanco Astiz, Daniel",
+  "entrenador_visitante": "Trigo Gonzalez, Jose Maria",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "Morcillo Sanchez, Eider",
+    "Araque Lopez, Ainhoa",
+    "Orzanco Anderiz, Maite",
+    "Armendariz Ibañez, Saioa",
+    "Pellejeros Elizalde, Sara",
+    "Orzanco Anderiz, Edurne",
+    "Lopez Ibañez, Maria",
+    "Arroqui Aguilar, Marta",
+    "Monasterio Urdaniz, Ane",
+    "Vizcano Cueva, Sara",
+    "Garron Rodriguez, Marta"
+  ],
+  "titulares_visitante": [
+    "Takvorian, Sophia Chesnut",
+    "Martinez Martinez, Marina",
+    "Zugasti Arrosagaray, Marta",
+    "Ortega Camara, Sandra",
+    "Rodríguez Romero, Beatriz",
+    "González Galíndez, Maria Victoria",
+    "Goldaracena Preciado, Ainhoa",
+    "Sola Cornejo, Uxue",
+    "Arozarena González, Leyre",
+    "Rodriguez Vieyra, Lucia",
+    "Martinez Martinez, Paloma"
+  ],
+  "suplentes_local": [
+    "Revilla San Martin, Irati",
+    "Granados Garcia, Ainara",
+    "Ramos Fonseca, Nahia",
+    "Alústiza Mendaza, Enara",
+    "Rezusta Ruiz, Maider"
+  ],
+  "suplentes_visitante": [
+    "Testaut Asenjo, Maria",
+    "Carrera Dollero, Regina",
+    "González Díaz, Ana María",
+    "Cordova Garcia, Isabella",
+    "Gonzalez Perez, Lucía",
+    "Oteo Vilalta, Leire",
+    "Marcolin, Sarah Bernadette"
+  ],
+  "convocados_sin_jugar_local": [
+    "Ramos Fonseca, Nahia",
+    "Rezusta Ruiz, Maider"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "González Díaz, Ana María"
+  ],
+  "jugadores_local": [
+    "Morcillo Sanchez, Eider",
+    "Araque Lopez, Ainhoa",
+    "Orzanco Anderiz, Maite",
+    "Armendariz Ibañez, Saioa",
+    "Pellejeros Elizalde, Sara",
+    "Orzanco Anderiz, Edurne",
+    "Lopez Ibañez, Maria",
+    "Arroqui Aguilar, Marta",
+    "Monasterio Urdaniz, Ane",
+    "Vizcano Cueva, Sara",
+    "Garron Rodriguez, Marta",
+    "Granados Garcia, Ainara",
+    "Alústiza Mendaza, Enara",
+    "Revilla San Martin, Irati"
+  ],
+  "jugadores_visitante": [
+    "Takvorian, Sophia Chesnut",
+    "Martinez Martinez, Marina",
+    "Zugasti Arrosagaray, Marta",
+    "Ortega Camara, Sandra",
+    "Rodríguez Romero, Beatriz",
+    "González Galíndez, Maria Victoria",
+    "Goldaracena Preciado, Ainhoa",
+    "Sola Cornejo, Uxue",
+    "Arozarena González, Leyre",
+    "Rodriguez Vieyra, Lucia",
+    "Martinez Martinez, Paloma",
+    "Marcolin, Sarah Bernadette",
+    "Cordova Garcia, Isabella",
+    "Testaut Asenjo, Maria",
+    "Oteo Vilalta, Leire",
+    "Gonzalez Perez, Lucía",
+    "Carrera Dollero, Regina"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "Granados Garcia, Ainara",
+      "sale": "Arroqui Aguilar, Marta"
+    },
+    {
+      "min": 56,
+      "entra": "Alústiza Mendaza, Enara",
+      "sale": "Monasterio Urdaniz, Ane"
+    },
+    {
+      "min": 67,
+      "entra": "Revilla San Martin, Irati",
+      "sale": "Vizcano Cueva, Sara"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 44,
+      "entra": "Marcolin, Sarah Bernadette",
+      "sale": "Martinez Martinez, Marina"
+    },
+    {
+      "min": 44,
+      "entra": "Cordova Garcia, Isabella",
+      "sale": "Martinez Martinez, Paloma"
+    },
+    {
+      "min": 44,
+      "entra": "Testaut Asenjo, Maria",
+      "sale": "Takvorian, Sophia Chesnut"
+    },
+    {
+      "min": 56,
+      "entra": "Oteo Vilalta, Leire",
+      "sale": "Rodriguez Vieyra, Lucia"
+    },
+    {
+      "min": 87,
+      "entra": "Gonzalez Perez, Lucía",
+      "sale": "González Galíndez, Maria Victoria"
+    },
+    {
+      "min": 87,
+      "entra": "Carrera Dollero, Regina",
+      "sale": "Cordova Garcia, Isabella"
+    }
+  ],
+  "minutos_jugadores": {
+    "Morcillo Sanchez, Eider": 90,
+    "Araque Lopez, Ainhoa": 90,
+    "Orzanco Anderiz, Maite": 90,
+    "Armendariz Ibañez, Saioa": 90,
+    "Pellejeros Elizalde, Sara": 90,
+    "Orzanco Anderiz, Edurne": 90,
+    "Lopez Ibañez, Maria": 90,
+    "Arroqui Aguilar, Marta": 50,
+    "Monasterio Urdaniz, Ane": 56,
+    "Vizcano Cueva, Sara": 67,
+    "Garron Rodriguez, Marta": 90,
+    "Granados Garcia, Ainara": 40,
+    "Alústiza Mendaza, Enara": 34,
+    "Revilla San Martin, Irati": 23,
+    "Takvorian, Sophia Chesnut": 44,
+    "Martinez Martinez, Marina": 44,
+    "Zugasti Arrosagaray, Marta": 90,
+    "Ortega Camara, Sandra": 90,
+    "Rodríguez Romero, Beatriz": 90,
+    "González Galíndez, Maria Victoria": 87,
+    "Goldaracena Preciado, Ainhoa": 90,
+    "Sola Cornejo, Uxue": 90,
+    "Arozarena González, Leyre": 90,
+    "Rodriguez Vieyra, Lucia": 56,
+    "Martinez Martinez, Paloma": 44,
+    "Marcolin, Sarah Bernadette": 46,
+    "Cordova Garcia, Isabella": 87,
+    "Testaut Asenjo, Maria": 46,
+    "Oteo Vilalta, Leire": 34,
+    "Gonzalez Perez, Lucía": 3,
+    "Carrera Dollero, Regina": 3
+  },
+  "portero_local": "Morcillo Sanchez, Eider",
+  "portero_visitante": "Takvorian, Sophia Chesnut",
+  "dorsales_local": {
+    "Morcillo Sanchez, Eider": 1,
+    "Araque Lopez, Ainhoa": 2,
+    "Orzanco Anderiz, Maite": 4,
+    "Armendariz Ibañez, Saioa": 7,
+    "Pellejeros Elizalde, Sara": 8,
+    "Orzanco Anderiz, Edurne": 9,
+    "Lopez Ibañez, Maria": 10,
+    "Arroqui Aguilar, Marta": 12,
+    "Monasterio Urdaniz, Ane": 16,
+    "Vizcano Cueva, Sara": 17,
+    "Garron Rodriguez, Marta": 18
+  },
+  "dorsales_visitante": {
+    "Takvorian, Sophia Chesnut": 25,
+    "Martinez Martinez, Marina": 2,
+    "Zugasti Arrosagaray, Marta": 3,
+    "Ortega Camara, Sandra": 4,
+    "Rodríguez Romero, Beatriz": 6,
+    "González Galíndez, Maria Victoria": 7,
+    "Goldaracena Preciado, Ainhoa": 8,
+    "Sola Cornejo, Uxue": 12,
+    "Arozarena González, Leyre": 14,
+    "Rodriguez Vieyra, Lucia": 16,
+    "Martinez Martinez, Paloma": 22
+  },
+  "suspendidos": []
+}
