@@ -9,8 +9,8 @@
   "categoria": "Segunda Division B Sala (1 - Subgrupo 1B)",
   "equipo_local": "RIBEIRA DE PIQUIN F.S.",
   "equipo_visitante": "A ESTRADA FUTSAL",
-  "goles_local": 1,
-  "goles_visitante": 2,
+  "goles_local": 2,
+  "goles_visitante": 4,
   "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
@@ -27,37 +27,43 @@
       "minuto": 3,
       "jugador": "QUINTELA ALONSO, DAVID",
       "equipo": "local",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 6,
       "jugador": "REGUEIRO RODRÍGUEZ, JAVIER",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 17,
       "jugador": "LOZANO GAY, PABLO R",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 28,
       "jugador": "BELLO ALFONSO, JORGE",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 36,
       "jugador": "LOZANO GAY, PABLO R",
       "equipo": "visitante",
-      "propia": false
+      "propia": false,
+      "penalti": false
     },
     {
       "minuto": 39,
       "jugador": "MIGUEZ CEA, ROBERTO",
       "equipo": "?",
-      "propia": false
+      "propia": false,
+      "penalti": false
     }
   ],
   "tarjetas": [
@@ -224,5 +230,6 @@
   },
   "suspendidos": [
     "CORREDOIRA GONZALEZ, DIEGO"
-  ]
+  ],
+  "_marcador_widget": true
 }
