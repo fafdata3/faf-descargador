@@ -1,0 +1,263 @@
+{
+  "acta_id": "CY_26157247",
+  "filename": "Acta_CY_26157247.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "19-09-2026",
+  "hora": "10:00",
+  "categoria": "1ª División Provincial de Infantiles (Primera - Burgos)",
+  "equipo_local": "Deportiva C.F.",
+  "equipo_visitante": "Vadillos C.F.",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro",
+    "MARTINEZ-ACITORES HERNANTES, ANDER"
+  ],
+  "estadio": "C.D. Hernandez Ballesteros",
+  "ciudad": "Burgos",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "MARISCAL GONZALEZ, JULIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "NEBREDA GENTO, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "GARCIA PEREIRAS, ADRIAN JESUS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "GUTIÉRREZ GARCIA, GONZALO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 57,
+      "jugador": "MARISCAL GONZALEZ, JULIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BARCENA MARTIN, IÑIGO",
+  "entrenador_visitante": "LOPEZ VARONA, ENRIQUE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GUTIÉRREZ GARCIA, GONZALO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GUTIÉRREZ GARCIA, GONZALO",
+  "delegado_equipo_visitante": "DE LA CALLE FUENTE, ALVARO",
+  "titulares_local": [
+    "MORENO ROBADOR, JAVIER",
+    "NEBREDA GENTO, GUILLERMO",
+    "MARTÍNEZ AZNÁREZ, JESÚS",
+    "GOMEZ-GALARZA TAPIA, PABLO",
+    "NEBREDA GENTO, HUGO",
+    "ARÉVALO SÁENZ DE CABEZÓN, PABLO",
+    "PEREZ GARCIA, HERNAN",
+    "RUIZ CASTROVIEJO, MARTÍN",
+    "GARCIA MIGUEL, ALVARO",
+    "RENEDO SANCHEZ, BOSCO",
+    "MIGUEL REQUEJO, MANUEL"
+  ],
+  "titulares_visitante": [
+    "LOPEZ MAGALDE, RODRIGO",
+    "MARISCAL GONZALEZ, JULIO",
+    "VILLAN AMOR, ALEJANDRO",
+    "DE LA CALLE REVILLA, JOEL",
+    "MARIN PEÑAS, MANUEL",
+    "BENALI BENAMAR, AYMEN",
+    "GUTIERREZ GONZALEZ, DIEGO",
+    "MARCOS DIEZ DEL VALLE, ASIER",
+    "RAMIREZ ORTIZ, ADRIAN",
+    "GARCIA PEREIRAS, ADRIAN JESUS",
+    "MONEDERO ARCE, ALVARO"
+  ],
+  "suplentes_local": [
+    "BAÑOS GUERRERO, ANDRES",
+    "SEBASTIAN IZQUIERDO, SERGIO",
+    "ENRIQUEZ MARTIN, DANIEL",
+    "GRIJALVO SANDINO, LEO",
+    "RUIZ MORENTE, ISMAEL"
+  ],
+  "suplentes_visitante": [
+    "CAMARERO RUIZ, ALONSO",
+    "ALONSO MARQUEZ, NICOLAS",
+    "CAMINO SANZ, ALVAR",
+    "ALONSO CAMARA, ALEJANDRO",
+    "RIOFRIO LOPEZ, MATTEO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MORENO ROBADOR, JAVIER",
+    "NEBREDA GENTO, GUILLERMO",
+    "MARTÍNEZ AZNÁREZ, JESÚS",
+    "GOMEZ-GALARZA TAPIA, PABLO",
+    "NEBREDA GENTO, HUGO",
+    "ARÉVALO SÁENZ DE CABEZÓN, PABLO",
+    "PEREZ GARCIA, HERNAN",
+    "RUIZ CASTROVIEJO, MARTÍN",
+    "GARCIA MIGUEL, ALVARO",
+    "RENEDO SANCHEZ, BOSCO",
+    "MIGUEL REQUEJO, MANUEL",
+    "ENRIQUEZ MARTIN, DANIEL",
+    "BAÑOS GUERRERO, ANDRES",
+    "GRIJALVO SANDINO, LEO",
+    "RUIZ MORENTE, ISMAEL",
+    "SEBASTIAN IZQUIERDO, SERGIO"
+  ],
+  "jugadores_visitante": [
+    "LOPEZ MAGALDE, RODRIGO",
+    "MARISCAL GONZALEZ, JULIO",
+    "VILLAN AMOR, ALEJANDRO",
+    "DE LA CALLE REVILLA, JOEL",
+    "MARIN PEÑAS, MANUEL",
+    "BENALI BENAMAR, AYMEN",
+    "GUTIERREZ GONZALEZ, DIEGO",
+    "MARCOS DIEZ DEL VALLE, ASIER",
+    "RAMIREZ ORTIZ, ADRIAN",
+    "GARCIA PEREIRAS, ADRIAN JESUS",
+    "MONEDERO ARCE, ALVARO",
+    "ALONSO CAMARA, ALEJANDRO",
+    "CAMINO SANZ, ALVAR",
+    "CAMARERO RUIZ, ALONSO",
+    "RIOFRIO LOPEZ, MATTEO",
+    "ALONSO MARQUEZ, NICOLAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "ENRIQUEZ MARTIN, DANIEL",
+      "sale": "MIGUEL REQUEJO, MANUEL"
+    },
+    {
+      "min": 47,
+      "entra": "BAÑOS GUERRERO, ANDRES",
+      "sale": "MORENO ROBADOR, JAVIER"
+    },
+    {
+      "min": 55,
+      "entra": "GRIJALVO SANDINO, LEO",
+      "sale": "ARÉVALO SÁENZ DE CABEZÓN, PABLO"
+    },
+    {
+      "min": 62,
+      "entra": "RUIZ MORENTE, ISMAEL",
+      "sale": "RUIZ CASTROVIEJO, MARTÍN"
+    },
+    {
+      "min": 65,
+      "entra": "SEBASTIAN IZQUIERDO, SERGIO",
+      "sale": "MARTÍNEZ AZNÁREZ, JESÚS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "ALONSO CAMARA, ALEJANDRO",
+      "sale": "RAMIREZ ORTIZ, ADRIAN"
+    },
+    {
+      "min": 53,
+      "entra": "CAMINO SANZ, ALVAR",
+      "sale": "MARIN PEÑAS, MANUEL"
+    },
+    {
+      "min": 55,
+      "entra": "CAMARERO RUIZ, ALONSO",
+      "sale": "LOPEZ MAGALDE, RODRIGO"
+    },
+    {
+      "min": 59,
+      "entra": "RIOFRIO LOPEZ, MATTEO",
+      "sale": "VILLAN AMOR, ALEJANDRO"
+    },
+    {
+      "min": 66,
+      "entra": "ALONSO MARQUEZ, NICOLAS",
+      "sale": "MARCOS DIEZ DEL VALLE, ASIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "MORENO ROBADOR, JAVIER": 47,
+    "NEBREDA GENTO, GUILLERMO": 90,
+    "MARTÍNEZ AZNÁREZ, JESÚS": 65,
+    "GOMEZ-GALARZA TAPIA, PABLO": 90,
+    "NEBREDA GENTO, HUGO": 90,
+    "ARÉVALO SÁENZ DE CABEZÓN, PABLO": 55,
+    "PEREZ GARCIA, HERNAN": 90,
+    "RUIZ CASTROVIEJO, MARTÍN": 62,
+    "GARCIA MIGUEL, ALVARO": 90,
+    "RENEDO SANCHEZ, BOSCO": 90,
+    "MIGUEL REQUEJO, MANUEL": 36,
+    "ENRIQUEZ MARTIN, DANIEL": 54,
+    "BAÑOS GUERRERO, ANDRES": 43,
+    "GRIJALVO SANDINO, LEO": 35,
+    "RUIZ MORENTE, ISMAEL": 28,
+    "SEBASTIAN IZQUIERDO, SERGIO": 25,
+    "LOPEZ MAGALDE, RODRIGO": 55,
+    "MARISCAL GONZALEZ, JULIO": 90,
+    "VILLAN AMOR, ALEJANDRO": 59,
+    "DE LA CALLE REVILLA, JOEL": 90,
+    "MARIN PEÑAS, MANUEL": 53,
+    "BENALI BENAMAR, AYMEN": 90,
+    "GUTIERREZ GONZALEZ, DIEGO": 90,
+    "MARCOS DIEZ DEL VALLE, ASIER": 66,
+    "RAMIREZ ORTIZ, ADRIAN": 52,
+    "GARCIA PEREIRAS, ADRIAN JESUS": 90,
+    "MONEDERO ARCE, ALVARO": 90,
+    "ALONSO CAMARA, ALEJANDRO": 38,
+    "CAMINO SANZ, ALVAR": 37,
+    "CAMARERO RUIZ, ALONSO": 35,
+    "RIOFRIO LOPEZ, MATTEO": 31,
+    "ALONSO MARQUEZ, NICOLAS": 24
+  },
+  "portero_local": "MORENO ROBADOR, JAVIER",
+  "portero_visitante": "LOPEZ MAGALDE, RODRIGO",
+  "dorsales_local": {
+    "MORENO ROBADOR, JAVIER": 13,
+    "NEBREDA GENTO, GUILLERMO": 3,
+    "MARTÍNEZ AZNÁREZ, JESÚS": 5,
+    "GOMEZ-GALARZA TAPIA, PABLO": 6,
+    "NEBREDA GENTO, HUGO": 8,
+    "ARÉVALO SÁENZ DE CABEZÓN, PABLO": 11,
+    "PEREZ GARCIA, HERNAN": 14,
+    "RUIZ CASTROVIEJO, MARTÍN": 16,
+    "GARCIA MIGUEL, ALVARO": 18,
+    "RENEDO SANCHEZ, BOSCO": 19,
+    "MIGUEL REQUEJO, MANUEL": 22
+  },
+  "dorsales_visitante": {
+    "LOPEZ MAGALDE, RODRIGO": 13,
+    "MARISCAL GONZALEZ, JULIO": 3,
+    "VILLAN AMOR, ALEJANDRO": 4,
+    "DE LA CALLE REVILLA, JOEL": 5,
+    "MARIN PEÑAS, MANUEL": 6,
+    "BENALI BENAMAR, AYMEN": 10,
+    "GUTIERREZ GONZALEZ, DIEGO": 11,
+    "MARCOS DIEZ DEL VALLE, ASIER": 12,
+    "RAMIREZ ORTIZ, ADRIAN": 17,
+    "GARCIA PEREIRAS, ADRIAN JESUS": 18,
+    "MONEDERO ARCE, ALVARO": 20
+  },
+  "suspendidos": []
+}
