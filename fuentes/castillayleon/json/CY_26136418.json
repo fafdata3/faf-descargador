@@ -1,0 +1,279 @@
+{
+  "acta_id": "CY_26136418",
+  "filename": "Acta_CY_26136418.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "27-09-2026",
+  "hora": "12:45",
+  "categoria": "1ª División Regional de Cadetes (Única - Único)",
+  "equipo_local": "C. y D. Leonesa S.A.D.",
+  "equipo_visitante": "C.D. San Agustín Valladolid",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "ÁLVAREZ PÉREZ, JAVIER",
+    "Árbitro Asistente",
+    "GARCÍA RODRIGUEZ, OSCAR",
+    "Árbitro Asistente",
+    "MARTÍNEZ OREJA, MATEO"
+  ],
+  "estadio": "Area D. de Puente Castro 3",
+  "ciudad": "León",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "GARCIA COBREROS, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "GOMEZ LOPEZ, ANDER",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "PERONA GARCIA, CARLOS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "GOLZMAN ARAYA, MAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 83,
+      "jugador": "AGUADO BOMBIN, MANUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "AMPUDIA ALVAREZ, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "SÁNCHEZ GALLARDO, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "MIGUEL ALVAREZ, UNAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VICENTE MONAR, JAVIER",
+  "entrenador_visitante": "MATIA CONDE, CARLOS",
+  "segundo_entrenador_local": "SÁNCHEZ REMÓN, MIGUEL",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MOYANO FERNANDEZ, FRANCISCO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MORILLA GONZALEZ, SANTOS",
+  "delegado_equipo_visitante": "FERNANDEZ DE LA FUENTE, RUBEN",
+  "titulares_local": [
+    "LOZANO ARZAYUS, LEO",
+    "Villalibre",
+    "CASTAÑEDA ROBLES, ADRIAN",
+    "PRADA RODRIGUEZ, MATEO",
+    "GARCIA ALDONZA, AARON",
+    "AMPUDIA ALVAREZ, DIEGO",
+    "JULIAN GONZALEZ, DAVID",
+    "GARCIA COBREROS, ADRIAN",
+    "ALVAREZ PEREZ, ANDRES",
+    "PERONA GARCIA, CARLOS",
+    "FERRERAS ALLER, RAUL"
+  ],
+  "titulares_visitante": [
+    "ABANDA MORENO, ENEKO",
+    "AIT M HA CHAHDAOUI, ISMAEL",
+    "SACRISTAN GARCIA, DANIEL",
+    "GOMEZ LOPEZ, ANDER",
+    "Marcos Sanchez",
+    "GOLZMAN ARAYA, MAX",
+    "ASENJO GOMEZ, PABLO",
+    "AGUADO BOMBIN, MANUEL",
+    "OLIVERI GARCIA, JAIME",
+    "MIGUEL ALVAREZ, UNAI",
+    "SÁNCHEZ GALLARDO, MARIO"
+  ],
+  "suplentes_local": [
+    "CEREZALES CEREZALES, JOSE",
+    "LOPEZ ORTEGA, DAVID",
+    "MUÑOZ ALIJA, DIEGO",
+    "IBAÑEZ POTES, MARIO",
+    "FERNANDEZ ALONSO, BRUNO"
+  ],
+  "suplentes_visitante": [
+    "VILLIMER GONZALO, DAVID",
+    "OLIVERI GARCIA, DANIEL",
+    "ALONSO HERRERO, JORGE",
+    "AYLAGAS DE CASTRO, MARIO",
+    "JIMENEZ RESINA, ALVARO"
+  ],
+  "convocados_sin_jugar_local": [
+    "CEREZALES CEREZALES, JOSE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "VILLIMER GONZALO, DAVID"
+  ],
+  "jugadores_local": [
+    "LOZANO ARZAYUS, LEO",
+    "Villalibre",
+    "CASTAÑEDA ROBLES, ADRIAN",
+    "PRADA RODRIGUEZ, MATEO",
+    "GARCIA ALDONZA, AARON",
+    "AMPUDIA ALVAREZ, DIEGO",
+    "JULIAN GONZALEZ, DAVID",
+    "GARCIA COBREROS, ADRIAN",
+    "ALVAREZ PEREZ, ANDRES",
+    "PERONA GARCIA, CARLOS",
+    "FERRERAS ALLER, RAUL",
+    "MUÑOZ ALIJA, DIEGO",
+    "IBAÑEZ POTES, MARIO",
+    "LOPEZ ORTEGA, DAVID",
+    "FERNANDEZ ALONSO, BRUNO"
+  ],
+  "jugadores_visitante": [
+    "ABANDA MORENO, ENEKO",
+    "AIT M HA CHAHDAOUI, ISMAEL",
+    "SACRISTAN GARCIA, DANIEL",
+    "GOMEZ LOPEZ, ANDER",
+    "Marcos Sanchez",
+    "GOLZMAN ARAYA, MAX",
+    "ASENJO GOMEZ, PABLO",
+    "AGUADO BOMBIN, MANUEL",
+    "OLIVERI GARCIA, JAIME",
+    "MIGUEL ALVAREZ, UNAI",
+    "SÁNCHEZ GALLARDO, MARIO",
+    "OLIVERI GARCIA, DANIEL",
+    "AYLAGAS DE CASTRO, MARIO",
+    "ALONSO HERRERO, JORGE",
+    "JIMENEZ RESINA, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "MUÑOZ ALIJA, DIEGO",
+      "sale": "JULIAN GONZALEZ, DAVID"
+    },
+    {
+      "min": 60,
+      "entra": "IBAÑEZ POTES, MARIO",
+      "sale": "ALVAREZ PEREZ, ANDRES"
+    },
+    {
+      "min": 64,
+      "entra": "LOPEZ ORTEGA, DAVID",
+      "sale": "AMPUDIA ALVAREZ, DIEGO"
+    },
+    {
+      "min": 64,
+      "entra": "FERNANDEZ ALONSO, BRUNO",
+      "sale": "GARCIA ALDONZA, AARON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 19,
+      "entra": "OLIVERI GARCIA, DANIEL",
+      "sale": "AIT M HA CHAHDAOUI, ISMAEL"
+    },
+    {
+      "min": 56,
+      "entra": "AYLAGAS DE CASTRO, MARIO",
+      "sale": "ASENJO GOMEZ, PABLO"
+    },
+    {
+      "min": 56,
+      "entra": "ALONSO HERRERO, JORGE",
+      "sale": "GOMEZ LOPEZ, ANDER"
+    },
+    {
+      "min": 67,
+      "entra": "JIMENEZ RESINA, ALVARO",
+      "sale": "SACRISTAN GARCIA, DANIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "LOZANO ARZAYUS, LEO": 90,
+    "Villalibre": 90,
+    "CASTAÑEDA ROBLES, ADRIAN": 90,
+    "PRADA RODRIGUEZ, MATEO": 90,
+    "GARCIA ALDONZA, AARON": 64,
+    "AMPUDIA ALVAREZ, DIEGO": 64,
+    "JULIAN GONZALEZ, DAVID": 60,
+    "GARCIA COBREROS, ADRIAN": 90,
+    "ALVAREZ PEREZ, ANDRES": 60,
+    "PERONA GARCIA, CARLOS": 90,
+    "FERRERAS ALLER, RAUL": 90,
+    "MUÑOZ ALIJA, DIEGO": 30,
+    "IBAÑEZ POTES, MARIO": 30,
+    "LOPEZ ORTEGA, DAVID": 26,
+    "FERNANDEZ ALONSO, BRUNO": 26,
+    "ABANDA MORENO, ENEKO": 90,
+    "AIT M HA CHAHDAOUI, ISMAEL": 19,
+    "SACRISTAN GARCIA, DANIEL": 67,
+    "GOMEZ LOPEZ, ANDER": 56,
+    "Marcos Sanchez": 90,
+    "GOLZMAN ARAYA, MAX": 90,
+    "ASENJO GOMEZ, PABLO": 56,
+    "AGUADO BOMBIN, MANUEL": 90,
+    "OLIVERI GARCIA, JAIME": 90,
+    "MIGUEL ALVAREZ, UNAI": 90,
+    "SÁNCHEZ GALLARDO, MARIO": 90,
+    "OLIVERI GARCIA, DANIEL": 71,
+    "AYLAGAS DE CASTRO, MARIO": 34,
+    "ALONSO HERRERO, JORGE": 34,
+    "JIMENEZ RESINA, ALVARO": 23
+  },
+  "portero_local": "LOZANO ARZAYUS, LEO",
+  "portero_visitante": "ABANDA MORENO, ENEKO",
+  "dorsales_local": {
+    "LOZANO ARZAYUS, LEO": 1,
+    "Villalibre": 2,
+    "CASTAÑEDA ROBLES, ADRIAN": 3,
+    "PRADA RODRIGUEZ, MATEO": 4,
+    "GARCIA ALDONZA, AARON": 5,
+    "AMPUDIA ALVAREZ, DIEGO": 6,
+    "JULIAN GONZALEZ, DAVID": 7,
+    "GARCIA COBREROS, ADRIAN": 8,
+    "ALVAREZ PEREZ, ANDRES": 9,
+    "PERONA GARCIA, CARLOS": 10,
+    "FERRERAS ALLER, RAUL": 11
+  },
+  "dorsales_visitante": {
+    "ABANDA MORENO, ENEKO": 1,
+    "AIT M HA CHAHDAOUI, ISMAEL": 2,
+    "SACRISTAN GARCIA, DANIEL": 3,
+    "GOMEZ LOPEZ, ANDER": 4,
+    "Marcos Sanchez": 6,
+    "GOLZMAN ARAYA, MAX": 7,
+    "ASENJO GOMEZ, PABLO": 10,
+    "AGUADO BOMBIN, MANUEL": 11,
+    "OLIVERI GARCIA, JAIME": 14,
+    "MIGUEL ALVAREZ, UNAI": 19,
+    "SÁNCHEZ GALLARDO, MARIO": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
