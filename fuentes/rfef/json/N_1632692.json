@@ -1,0 +1,171 @@
+{
+  "acta_id": "N_1632692",
+  "filename": "Acta_N_1632692.txt",
+  "fuente": "rfef",
+  "temporada": "2020-2021",
+  "jornada": 17,
+  "fecha": "06-03-2021",
+  "hora": "20:00",
+  "categoria": "Segunda Division B Sala (1 - Subgrupo 5A)",
+  "equipo_local": "XEREZ DEPORTIVO F.C. C.D.",
+  "equipo_visitante": "ASOC. JEREZ FUTBOL SALA A",
+  "goles_local": 4,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ÁRBITRO 1",
+    "MOHAMED RIANI KHASSAN, SOHAIB",
+    "ÁRBITRO 1",
+    "MOHAMED DAOUDI, KAMAL",
+    "ÁRBITRO 1",
+    "MOHAMED DAOUDI, KAMAL"
+  ],
+  "estadio": "Xerez Deportivo F.C. C.D.",
+  "ciudad": "",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "ZAHINOS PEREZ, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "ENRIQUEZ GONZALEZ, JOSE LUIS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 32,
+      "jugador": "ENRIQUEZ GONZALEZ, JOSE LUIS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "ZAHINOS PEREZ, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 24,
+      "jugador": "RASTROLLO CABALLO, LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "RASTROLLO CABALLO, LUIS",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "CALVO DE LA CRUZ, FRANCISCO JOSE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "RASTROLLO CABALLO, LUIS",
+      "equipo": "visitante",
+      "tipo": "roja",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DEL AMOR CAMACHO, ALEJANDRO",
+    "ENRIQUEZ GONZALEZ, JOSE LUIS",
+    "RAMOS CATALINA BARCA ROMERO, JAIME"
+  ],
+  "titulares_visitante": [
+    "RASTROLLO CABALLO, LUIS",
+    "ZAHINOS PEREZ, JAVIER",
+    "CALVO DE LA CRUZ, FRANCISCO JOSE",
+    "GOMEZ MARQUEZ, SANTOS",
+    "BARRANCA COSMO, SERGIO"
+  ],
+  "suplentes_local": [
+    "PIZARRO BENITEZ, CARLOS",
+    "MERA LOPEZ, JORGE",
+    "DE LA FLOR HERRERA, ANTONIO",
+    "OLMEDO ZARZUELA, PEDRO"
+  ],
+  "suplentes_visitante": [
+    "CORDOBES AMARO, JESUS",
+    "GOMEZ GOMEZ, SERGIO",
+    "BRIOSO GOMEZ, JUAN",
+    "GIL ROBLAS, MIGUEL ANGEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "PIZARRO BENITEZ, CARLOS",
+    "MERA LOPEZ, JORGE",
+    "DE LA FLOR HERRERA, ANTONIO",
+    "OLMEDO ZARZUELA, PEDRO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CORDOBES AMARO, JESUS",
+    "GOMEZ GOMEZ, SERGIO",
+    "BRIOSO GOMEZ, JUAN",
+    "GIL ROBLAS, MIGUEL ANGEL"
+  ],
+  "jugadores_local": [
+    "DEL AMOR CAMACHO, ALEJANDRO",
+    "ENRIQUEZ GONZALEZ, JOSE LUIS",
+    "RAMOS CATALINA BARCA ROMERO, JAIME"
+  ],
+  "jugadores_visitante": [
+    "RASTROLLO CABALLO, LUIS",
+    "ZAHINOS PEREZ, JAVIER",
+    "CALVO DE LA CRUZ, FRANCISCO JOSE",
+    "GOMEZ MARQUEZ, SANTOS",
+    "BARRANCA COSMO, SERGIO"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "DEL AMOR CAMACHO, ALEJANDRO": 90,
+    "ENRIQUEZ GONZALEZ, JOSE LUIS": 90,
+    "RAMOS CATALINA BARCA ROMERO, JAIME": 90,
+    "RASTROLLO CABALLO, LUIS": 90,
+    "ZAHINOS PEREZ, JAVIER": 90,
+    "CALVO DE LA CRUZ, FRANCISCO JOSE": 90,
+    "GOMEZ MARQUEZ, SANTOS": 90,
+    "BARRANCA COSMO, SERGIO": 90
+  },
+  "portero_local": "DEL AMOR CAMACHO, ALEJANDRO",
+  "portero_visitante": "GOMEZ MARQUEZ, SANTOS",
+  "dorsales_local": {
+    "DEL AMOR CAMACHO, ALEJANDRO": 3,
+    "ENRIQUEZ GONZALEZ, JOSE LUIS": 10,
+    "RAMOS CATALINA BARCA ROMERO, JAIME": 14
+  },
+  "dorsales_visitante": {
+    "RASTROLLO CABALLO, LUIS": 4,
+    "ZAHINOS PEREZ, JAVIER": 5,
+    "CALVO DE LA CRUZ, FRANCISCO JOSE": 11,
+    "GOMEZ MARQUEZ, SANTOS": 13,
+    "BARRANCA COSMO, SERGIO": 19
+  },
+  "suspendidos": [
+    "RASTROLLO CABALLO, LUIS"
+  ],
+  "_marcador_widget": true
+}
