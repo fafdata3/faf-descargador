@@ -1,0 +1,163 @@
+{
+  "acta_id": "N_1632545",
+  "filename": "Acta_N_1632545.txt",
+  "fuente": "rfef",
+  "temporada": "2020-2021",
+  "jornada": 14,
+  "fecha": "30-01-2021",
+  "hora": "18:30",
+  "categoria": "División de Honor Juvenil Sala (1 - Subgrupo 1B)",
+  "equipo_local": "C.D. TIERNO GALVÁN",
+  "equipo_visitante": "C.D. VALVERDE",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [],
+  "estadio": "P.M. Lalo García",
+  "ciudad": "Valladolid",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "VARA ALONSO, ROBERTO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 13,
+      "jugador": "TORREGO PERRINO, ARMAND",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "ENCINAS MIGUELSANZ, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 3,
+      "jugador": "TORREGO PERRINO, ARMAND",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 25,
+      "jugador": "SANZ CASTRO, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 26,
+      "jugador": "PANIAGUA DE SANTIAGO, RUBEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 37,
+      "jugador": "MARCOS LOMO, ANTONIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "VAQUERO VAQUERO, MARIO",
+    "PANIAGUA DE SANTIAGO, RUBEN",
+    "VARA ALONSO, ROBERTO",
+    "PELAYO GOMEZ, MIGUEL",
+    "TORREGO PERRINO, ARMAND"
+  ],
+  "titulares_visitante": [
+    "DE NICOLAS ARRIBAS, DAVID",
+    "LLORENTE REY, SERGIO",
+    "ENCINAS MIGUELSANZ, JAVIER",
+    "MARUGAN NAVAS, MARCOS"
+  ],
+  "suplentes_local": [
+    "BLANCO RODRÍGUEZ, PABLO",
+    "SANZ CASTRO, PABLO",
+    "MARCOS LOMO, ANTONIO",
+    "RODRÍGUEZ SANCHO, RUBÉN"
+  ],
+  "suplentes_visitante": [
+    "MARTIN LLORENTE, PABLO",
+    "DE LA MATA VALCARCEL, PEDRO",
+    "GONZALEZ GONZALEZ, DARIO",
+    "LLORENTE CUBO, SAMUEL",
+    "MARTIN PINTOS, GUILLERMO",
+    "DOMINGO RINCON, ENRIQUE"
+  ],
+  "convocados_sin_jugar_local": [
+    "BLANCO RODRÍGUEZ, PABLO",
+    "SANZ CASTRO, PABLO",
+    "MARCOS LOMO, ANTONIO",
+    "RODRÍGUEZ SANCHO, RUBÉN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MARTIN LLORENTE, PABLO",
+    "DE LA MATA VALCARCEL, PEDRO",
+    "GONZALEZ GONZALEZ, DARIO",
+    "LLORENTE CUBO, SAMUEL",
+    "MARTIN PINTOS, GUILLERMO",
+    "DOMINGO RINCON, ENRIQUE"
+  ],
+  "jugadores_local": [
+    "VAQUERO VAQUERO, MARIO",
+    "PANIAGUA DE SANTIAGO, RUBEN",
+    "VARA ALONSO, ROBERTO",
+    "PELAYO GOMEZ, MIGUEL",
+    "TORREGO PERRINO, ARMAND"
+  ],
+  "jugadores_visitante": [
+    "DE NICOLAS ARRIBAS, DAVID",
+    "LLORENTE REY, SERGIO",
+    "ENCINAS MIGUELSANZ, JAVIER",
+    "MARUGAN NAVAS, MARCOS"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "VAQUERO VAQUERO, MARIO": 90,
+    "PANIAGUA DE SANTIAGO, RUBEN": 90,
+    "VARA ALONSO, ROBERTO": 90,
+    "PELAYO GOMEZ, MIGUEL": 90,
+    "TORREGO PERRINO, ARMAND": 90,
+    "DE NICOLAS ARRIBAS, DAVID": 90,
+    "LLORENTE REY, SERGIO": 90,
+    "ENCINAS MIGUELSANZ, JAVIER": 90,
+    "MARUGAN NAVAS, MARCOS": 90
+  },
+  "portero_local": "VAQUERO VAQUERO, MARIO",
+  "portero_visitante": "DE NICOLAS ARRIBAS, DAVID",
+  "dorsales_local": {
+    "VAQUERO VAQUERO, MARIO": 7,
+    "PANIAGUA DE SANTIAGO, RUBEN": 8,
+    "VARA ALONSO, ROBERTO": 10,
+    "PELAYO GOMEZ, MIGUEL": 12,
+    "TORREGO PERRINO, ARMAND": 16
+  },
+  "dorsales_visitante": {
+    "DE NICOLAS ARRIBAS, DAVID": 5,
+    "LLORENTE REY, SERGIO": 6,
+    "ENCINAS MIGUELSANZ, JAVIER": 10,
+    "MARUGAN NAVAS, MARCOS": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
