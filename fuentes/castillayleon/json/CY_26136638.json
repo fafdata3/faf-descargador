@@ -1,0 +1,258 @@
+{
+  "acta_id": "CY_26136638",
+  "filename": "Acta_CY_26136638.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "13-09-2026",
+  "hora": "12:00",
+  "categoria": "2ª División Regional de Cadetes (Única - Único)",
+  "equipo_local": "Gimnástica Medinense",
+  "equipo_visitante": "Burgos C.F. S.A.D. B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro",
+    "PAREDES TORRES, GIOVANNI",
+    "Árbitro Asistente",
+    "PECHARROMÁN DE DIEGO, ALEJANDRO",
+    "Árbitro Asistente",
+    "AMADOR GOMEZ, JORGE"
+  ],
+  "estadio": "C.M. Diego Carbajosa",
+  "ciudad": "Medina Del Campo",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "CALVO RUEDA, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "MARTINEZ NAVARRO, JULIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "CALVO RUEDA, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "HERAS RUIZ, JOEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "BARRY BALBAS, IGNACIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "CORRAL RIOCEREZO, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "SALGUERO ARNAIZ, DANIEL",
+  "delegado_campo_local": "GARCIA HERNANDEZ, DAVID",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA HERNANDEZ, DAVID",
+  "delegado_equipo_visitante": "CORRAL RIOCEREZO, JAVIER",
+  "titulares_local": [
+    "VILLEGAS HERNANDEZ, HUGO",
+    "VELA RODRIGUEZ, ALEJANDRO",
+    "MOYANO NAVARRO, PABLO",
+    "CHICO MAESTRE, MARIO",
+    "MARTIN LOZA, BRUNO",
+    "GARCIA DE CASTRO, JAIME",
+    "BERGAZ MUÑOZ, ALEJANDRO",
+    "REJAS SANZ, BRUNO",
+    "SANTOS MORAS, ANDY",
+    "MARTINEZ NAVARRO, JULIO",
+    "PISADOR HERAS, ANGEL"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ FERNANDEZ, SAMUEL",
+    "CRIADO OBANDO, RODRIGO",
+    "DIEZ TRAJANO, ADRIAN",
+    "LAZAGABASTER MEDIAVILLA, HUGO",
+    "PASCUAL MARCOS, MATEO",
+    "ROBLES DIAZ, SAMUEL",
+    "JUAREZ PLATONA, NICOLAS JOEL",
+    "HERAS RUIZ, JOEL",
+    "CALVO RUEDA, MARCOS",
+    "BEDOYA BARRIO, LUIS DAVID",
+    "BARRY BALBAS, IGNACIO"
+  ],
+  "suplentes_local": [
+    "DE ISCAR ALONSO, MANUEL",
+    "MARTIN BECERRA, HECTOR",
+    "NIETO VASCO, VICTOR",
+    "GARCÍA FERNÁNDEZ, SERGIO",
+    "CALLE SANZ, ALEJANDRO"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ GONZALEZ, MATEO",
+    "PORTILLO GONZALEZ, GUZMAN",
+    "CALLEJO LOMAS, ALONSO",
+    "BATTANER SANTILLANA, FERNANDO",
+    "SEDANO ABASCAL, MARIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "DE ISCAR ALONSO, MANUEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "FERNANDEZ GONZALEZ, MATEO"
+  ],
+  "jugadores_local": [
+    "VILLEGAS HERNANDEZ, HUGO",
+    "VELA RODRIGUEZ, ALEJANDRO",
+    "MOYANO NAVARRO, PABLO",
+    "CHICO MAESTRE, MARIO",
+    "MARTIN LOZA, BRUNO",
+    "GARCIA DE CASTRO, JAIME",
+    "BERGAZ MUÑOZ, ALEJANDRO",
+    "REJAS SANZ, BRUNO",
+    "SANTOS MORAS, ANDY",
+    "MARTINEZ NAVARRO, JULIO",
+    "PISADOR HERAS, ANGEL",
+    "MARTIN BECERRA, HECTOR",
+    "GARCÍA FERNÁNDEZ, SERGIO",
+    "NIETO VASCO, VICTOR",
+    "CALLE SANZ, ALEJANDRO"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ FERNANDEZ, SAMUEL",
+    "CRIADO OBANDO, RODRIGO",
+    "DIEZ TRAJANO, ADRIAN",
+    "LAZAGABASTER MEDIAVILLA, HUGO",
+    "PASCUAL MARCOS, MATEO",
+    "ROBLES DIAZ, SAMUEL",
+    "JUAREZ PLATONA, NICOLAS JOEL",
+    "HERAS RUIZ, JOEL",
+    "CALVO RUEDA, MARCOS",
+    "BEDOYA BARRIO, LUIS DAVID",
+    "BARRY BALBAS, IGNACIO",
+    "SEDANO ABASCAL, MARIO",
+    "PORTILLO GONZALEZ, GUZMAN",
+    "CALLEJO LOMAS, ALONSO",
+    "BATTANER SANTILLANA, FERNANDO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "MARTIN BECERRA, HECTOR",
+      "sale": "MARTINEZ NAVARRO, JULIO"
+    },
+    {
+      "min": 52,
+      "entra": "GARCÍA FERNÁNDEZ, SERGIO",
+      "sale": "MARTIN LOZA, BRUNO"
+    },
+    {
+      "min": 62,
+      "entra": "NIETO VASCO, VICTOR",
+      "sale": "PISADOR HERAS, ANGEL"
+    },
+    {
+      "min": 62,
+      "entra": "CALLE SANZ, ALEJANDRO",
+      "sale": "BERGAZ MUÑOZ, ALEJANDRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "SEDANO ABASCAL, MARIO",
+      "sale": "CRIADO OBANDO, RODRIGO"
+    },
+    {
+      "min": 52,
+      "entra": "PORTILLO GONZALEZ, GUZMAN",
+      "sale": "JUAREZ PLATONA, NICOLAS JOEL"
+    },
+    {
+      "min": 62,
+      "entra": "CALLEJO LOMAS, ALONSO",
+      "sale": "LAZAGABASTER MEDIAVILLA, HUGO"
+    },
+    {
+      "min": 62,
+      "entra": "BATTANER SANTILLANA, FERNANDO",
+      "sale": "ROBLES DIAZ, SAMUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "VILLEGAS HERNANDEZ, HUGO": 90,
+    "VELA RODRIGUEZ, ALEJANDRO": 90,
+    "MOYANO NAVARRO, PABLO": 90,
+    "CHICO MAESTRE, MARIO": 90,
+    "MARTIN LOZA, BRUNO": 52,
+    "GARCIA DE CASTRO, JAIME": 90,
+    "BERGAZ MUÑOZ, ALEJANDRO": 62,
+    "REJAS SANZ, BRUNO": 90,
+    "SANTOS MORAS, ANDY": 90,
+    "MARTINEZ NAVARRO, JULIO": 52,
+    "PISADOR HERAS, ANGEL": 62,
+    "MARTIN BECERRA, HECTOR": 38,
+    "GARCÍA FERNÁNDEZ, SERGIO": 38,
+    "NIETO VASCO, VICTOR": 28,
+    "CALLE SANZ, ALEJANDRO": 28,
+    "RODRIGUEZ FERNANDEZ, SAMUEL": 90,
+    "CRIADO OBANDO, RODRIGO": 52,
+    "DIEZ TRAJANO, ADRIAN": 90,
+    "LAZAGABASTER MEDIAVILLA, HUGO": 62,
+    "PASCUAL MARCOS, MATEO": 90,
+    "ROBLES DIAZ, SAMUEL": 62,
+    "JUAREZ PLATONA, NICOLAS JOEL": 52,
+    "HERAS RUIZ, JOEL": 90,
+    "CALVO RUEDA, MARCOS": 90,
+    "BEDOYA BARRIO, LUIS DAVID": 90,
+    "BARRY BALBAS, IGNACIO": 90,
+    "SEDANO ABASCAL, MARIO": 38,
+    "PORTILLO GONZALEZ, GUZMAN": 38,
+    "CALLEJO LOMAS, ALONSO": 28,
+    "BATTANER SANTILLANA, FERNANDO": 28
+  },
+  "portero_local": "VILLEGAS HERNANDEZ, HUGO",
+  "portero_visitante": "RODRIGUEZ FERNANDEZ, SAMUEL",
+  "dorsales_local": {
+    "VILLEGAS HERNANDEZ, HUGO": 13,
+    "VELA RODRIGUEZ, ALEJANDRO": 2,
+    "MOYANO NAVARRO, PABLO": 4,
+    "CHICO MAESTRE, MARIO": 7,
+    "MARTIN LOZA, BRUNO": 8,
+    "GARCIA DE CASTRO, JAIME": 11,
+    "BERGAZ MUÑOZ, ALEJANDRO": 12,
+    "REJAS SANZ, BRUNO": 15,
+    "SANTOS MORAS, ANDY": 17,
+    "MARTINEZ NAVARRO, JULIO": 19,
+    "PISADOR HERAS, ANGEL": 20
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ FERNANDEZ, SAMUEL": 1,
+    "CRIADO OBANDO, RODRIGO": 2,
+    "DIEZ TRAJANO, ADRIAN": 3,
+    "LAZAGABASTER MEDIAVILLA, HUGO": 4,
+    "PASCUAL MARCOS, MATEO": 6,
+    "ROBLES DIAZ, SAMUEL": 8,
+    "JUAREZ PLATONA, NICOLAS JOEL": 9,
+    "HERAS RUIZ, JOEL": 10,
+    "CALVO RUEDA, MARCOS": 11,
+    "BEDOYA BARRIO, LUIS DAVID": 12,
+    "BARRY BALBAS, IGNACIO": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
