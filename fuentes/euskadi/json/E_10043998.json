@@ -1,0 +1,281 @@
+{
+  "acta_id": "E_10043998",
+  "filename": "Acta_E_10043998.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "15:30",
+  "categoria": "LIGA VASCA JUVENIL / GAZTEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "ANTIGUOKO KIROL ELKARTEA C",
+  "equipo_visitante": "ARIZNABARRA",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "RODRIGUEZ CHOCANO, JULEN"
+  ],
+  "estadio": "BERIO",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 7,
+      "jugador": "SANCHEZ RUIZ, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "SANCHEZ RUIZ, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 75,
+      "jugador": "ESCOLAR SANCHEZ, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 32,
+      "jugador": "PEÑA DIAZ DE SARRALDE, IÑIGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "SANTOLAYA CONDE, TELMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "CUESTA ALCORTA, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CHACARTEGUI MARIN, JOSE LUIS",
+  "entrenador_visitante": "MARTINEZ S HERNANDEZ, ENDAITZ",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "LOPEZ HURTADO, AGER",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PEREZ LORA, AITOR",
+  "delegado_equipo_visitante": "ESPARIS BARBA, SERGIO",
+  "titulares_local": [
+    "IPINZA AGUIRRE, OIER",
+    "LOPEZ ALVAREZ, HODEI",
+    "ODRIOZOLA COLORADO, IBAI",
+    "GARTZIA AZPIROZ, GANIX",
+    "GARCIA AZPILICUETA, OLIVER",
+    "ARISTIZABAL CALDERON, EÑAUT",
+    "SANTESTEBAN OIARTZABAL, AIMAR",
+    "EGUIGUREN GAINZA, XUBAN",
+    "ZUBILLAGA DIEZ, MARTIN",
+    "ILZARBE MONTERO, XEMARK",
+    "HOOD ALVAREZ, UNAX"
+  ],
+  "titulares_visitante": [
+    "NAVARRO IBARRA, DANIEL",
+    "MARTINEZ IBAÑEZ, AIMAR",
+    "PEÑA DIAZ DE SARRALDE, IÑIGO",
+    "SANCHEZ RUIZ, UNAX",
+    "GUTIERREZ MOLINOS, MIKEL",
+    "DOMINGUEZ ACOSTA, ENEKO",
+    "URIBE CANCHO, ENAITZ",
+    "ALONSO BECERRA, IÑIGO",
+    "RIO LARRACOECHEA, PELAYO",
+    "FUENTES BORRAJO, MARKEL",
+    "SANTOLAYA CONDE, TELMO"
+  ],
+  "suplentes_local": [
+    "URTXEGI URRA, DANEL",
+    "CASAL GUIJARRO, MARKEL",
+    "SARRIEGI ESTENSORO, KEPA",
+    "AMORES VAZQUEZ, HUGO",
+    "ESCOLAR SANCHEZ, AIMAR",
+    "ASTIER SENDIN, TEO",
+    "GARMENDIA GALARZA, TXOMIN"
+  ],
+  "suplentes_visitante": [
+    "BUSTERO PEREZ, AARON",
+    "MELGOSA VALLE, FEDERICO",
+    "ALMEIDA GONZALEZ, EKAIN",
+    "OCHOA ORTIZ, IAN",
+    "FERNANDEZ CARRERA, BELTRAN",
+    "ORIBE SERRANO, UNAX",
+    "CUESTA ALCORTA, ANDER"
+  ],
+  "convocados_sin_jugar_local": [
+    "URTXEGI URRA, DANEL",
+    "AMORES VAZQUEZ, HUGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BUSTERO PEREZ, AARON",
+    "FERNANDEZ CARRERA, BELTRAN"
+  ],
+  "jugadores_local": [
+    "IPINZA AGUIRRE, OIER",
+    "LOPEZ ALVAREZ, HODEI",
+    "ODRIOZOLA COLORADO, IBAI",
+    "GARTZIA AZPIROZ, GANIX",
+    "GARCIA AZPILICUETA, OLIVER",
+    "ARISTIZABAL CALDERON, EÑAUT",
+    "SANTESTEBAN OIARTZABAL, AIMAR",
+    "EGUIGUREN GAINZA, XUBAN",
+    "ZUBILLAGA DIEZ, MARTIN",
+    "ILZARBE MONTERO, XEMARK",
+    "HOOD ALVAREZ, UNAX",
+    "ESCOLAR SANCHEZ, AIMAR",
+    "GARMENDIA GALARZA, TXOMIN",
+    "CASAL GUIJARRO, MARKEL",
+    "ASTIER SENDIN, TEO",
+    "SARRIEGI ESTENSORO, KEPA"
+  ],
+  "jugadores_visitante": [
+    "NAVARRO IBARRA, DANIEL",
+    "MARTINEZ IBAÑEZ, AIMAR",
+    "PEÑA DIAZ DE SARRALDE, IÑIGO",
+    "SANCHEZ RUIZ, UNAX",
+    "GUTIERREZ MOLINOS, MIKEL",
+    "DOMINGUEZ ACOSTA, ENEKO",
+    "URIBE CANCHO, ENAITZ",
+    "ALONSO BECERRA, IÑIGO",
+    "RIO LARRACOECHEA, PELAYO",
+    "FUENTES BORRAJO, MARKEL",
+    "SANTOLAYA CONDE, TELMO",
+    "ALMEIDA GONZALEZ, EKAIN",
+    "CUESTA ALCORTA, ANDER",
+    "OCHOA ORTIZ, IAN",
+    "ORIBE SERRANO, UNAX",
+    "MELGOSA VALLE, FEDERICO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "ESCOLAR SANCHEZ, AIMAR",
+      "sale": "ZUBILLAGA DIEZ, MARTIN"
+    },
+    {
+      "min": 54,
+      "entra": "GARMENDIA GALARZA, TXOMIN",
+      "sale": "EGUIGUREN GAINZA, XUBAN"
+    },
+    {
+      "min": 54,
+      "entra": "CASAL GUIJARRO, MARKEL",
+      "sale": "LOPEZ ALVAREZ, HODEI"
+    },
+    {
+      "min": 63,
+      "entra": "ASTIER SENDIN, TEO",
+      "sale": "HOOD ALVAREZ, UNAX"
+    },
+    {
+      "min": 63,
+      "entra": "SARRIEGI ESTENSORO, KEPA",
+      "sale": "ARISTIZABAL CALDERON, EÑAUT"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "ALMEIDA GONZALEZ, EKAIN",
+      "sale": "PEÑA DIAZ DE SARRALDE, IÑIGO"
+    },
+    {
+      "min": 46,
+      "entra": "CUESTA ALCORTA, ANDER",
+      "sale": "FUENTES BORRAJO, MARKEL"
+    },
+    {
+      "min": 57,
+      "entra": "OCHOA ORTIZ, IAN",
+      "sale": "GUTIERREZ MOLINOS, MIKEL"
+    },
+    {
+      "min": 71,
+      "entra": "ORIBE SERRANO, UNAX",
+      "sale": "RIO LARRACOECHEA, PELAYO"
+    },
+    {
+      "min": 71,
+      "entra": "MELGOSA VALLE, FEDERICO",
+      "sale": "DOMINGUEZ ACOSTA, ENEKO"
+    }
+  ],
+  "minutos_jugadores": {
+    "IPINZA AGUIRRE, OIER": 90,
+    "LOPEZ ALVAREZ, HODEI": 54,
+    "ODRIOZOLA COLORADO, IBAI": 90,
+    "GARTZIA AZPIROZ, GANIX": 90,
+    "GARCIA AZPILICUETA, OLIVER": 90,
+    "ARISTIZABAL CALDERON, EÑAUT": 63,
+    "SANTESTEBAN OIARTZABAL, AIMAR": 90,
+    "EGUIGUREN GAINZA, XUBAN": 54,
+    "ZUBILLAGA DIEZ, MARTIN": 45,
+    "ILZARBE MONTERO, XEMARK": 90,
+    "HOOD ALVAREZ, UNAX": 63,
+    "ESCOLAR SANCHEZ, AIMAR": 45,
+    "GARMENDIA GALARZA, TXOMIN": 36,
+    "CASAL GUIJARRO, MARKEL": 36,
+    "ASTIER SENDIN, TEO": 27,
+    "SARRIEGI ESTENSORO, KEPA": 27,
+    "NAVARRO IBARRA, DANIEL": 90,
+    "MARTINEZ IBAÑEZ, AIMAR": 90,
+    "PEÑA DIAZ DE SARRALDE, IÑIGO": 46,
+    "SANCHEZ RUIZ, UNAX": 90,
+    "GUTIERREZ MOLINOS, MIKEL": 57,
+    "DOMINGUEZ ACOSTA, ENEKO": 71,
+    "URIBE CANCHO, ENAITZ": 90,
+    "ALONSO BECERRA, IÑIGO": 90,
+    "RIO LARRACOECHEA, PELAYO": 71,
+    "FUENTES BORRAJO, MARKEL": 46,
+    "SANTOLAYA CONDE, TELMO": 90,
+    "ALMEIDA GONZALEZ, EKAIN": 44,
+    "CUESTA ALCORTA, ANDER": 44,
+    "OCHOA ORTIZ, IAN": 33,
+    "ORIBE SERRANO, UNAX": 19,
+    "MELGOSA VALLE, FEDERICO": 19
+  },
+  "portero_local": "IPINZA AGUIRRE, OIER",
+  "portero_visitante": "NAVARRO IBARRA, DANIEL",
+  "dorsales_local": {
+    "IPINZA AGUIRRE, OIER": 13,
+    "LOPEZ ALVAREZ, HODEI": 2,
+    "ODRIOZOLA COLORADO, IBAI": 3,
+    "GARTZIA AZPIROZ, GANIX": 4,
+    "GARCIA AZPILICUETA, OLIVER": 5,
+    "ARISTIZABAL CALDERON, EÑAUT": 6,
+    "SANTESTEBAN OIARTZABAL, AIMAR": 7,
+    "EGUIGUREN GAINZA, XUBAN": 8,
+    "ZUBILLAGA DIEZ, MARTIN": 9,
+    "ILZARBE MONTERO, XEMARK": 10,
+    "HOOD ALVAREZ, UNAX": 11
+  },
+  "dorsales_visitante": {
+    "NAVARRO IBARRA, DANIEL": 1,
+    "MARTINEZ IBAÑEZ, AIMAR": 3,
+    "PEÑA DIAZ DE SARRALDE, IÑIGO": 7,
+    "SANCHEZ RUIZ, UNAX": 10,
+    "GUTIERREZ MOLINOS, MIKEL": 11,
+    "DOMINGUEZ ACOSTA, ENEKO": 14,
+    "URIBE CANCHO, ENAITZ": 15,
+    "ALONSO BECERRA, IÑIGO": 17,
+    "RIO LARRACOECHEA, PELAYO": 19,
+    "FUENTES BORRAJO, MARKEL": 21,
+    "SANTOLAYA CONDE, TELMO": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
