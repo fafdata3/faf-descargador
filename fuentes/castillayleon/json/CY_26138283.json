@@ -1,0 +1,284 @@
+{
+  "acta_id": "CY_26138283",
+  "filename": "Acta_CY_26138283.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "12:30",
+  "categoria": "1ª División Regional de Infantiles (Única - Único)",
+  "equipo_local": "C. y D. Leonesa S.A.D.",
+  "equipo_visitante": "Gimnástica Segoviana S.A.D.",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "ROJO MATEOS, ALEJANDRO",
+    "Árbitro Asistente",
+    "LEÓN DUARTE, HUGO",
+    "Árbitro Asistente",
+    "ESCANCIANO MARTÍNEZ, ADRIÁN"
+  ],
+  "estadio": "C.M. La Granja",
+  "ciudad": "León",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "SUAREZ SUAREZ, FABIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 12,
+      "jugador": "CARREÑO TEJERO, GERMAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "TOVAR MARTIN, GONZALO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "FERNANDEZ ACINAS, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "GUTIERREZ DIEZ, GUILLERMO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 26,
+      "jugador": "ESCUDERO NICOLAS, ADRIA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "SANCHEZ GONZALEZ, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "LODEIRO DE FRUTOS, JAVIER MAURO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RODRIGUEZ TUÑON, PABLO",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MENDOZA MAYO, EDUARDO",
+  "delegado_equipo_visitante": "ARRIBAS MERINO, ALEJANDRO",
+  "titulares_local": [
+    "GONZALEZ FERNANDEZ, ALEX",
+    "PABLO GARCÍA",
+    "DIEZ DE PRADO, SERGIO",
+    "SUAREZ SUAREZ, FABIO",
+    "Hugo",
+    "ESCUDERO NICOLAS, ADRIA",
+    "FERNANDEZ ACINAS, ALVARO",
+    "CARREÑO TEJERO, GERMAN",
+    "DOVIDENAS, ROKAS",
+    "ARIAS FUERTES, MARTIN",
+    "LOPEZ GONZALEZ, CAYETANO"
+  ],
+  "titulares_visitante": [
+    "VIÑAS BLANCO, DANIEL",
+    "SANZ DE LA FUENTE, PABLO",
+    "DE CASTRO BERMEJO, PELAYO",
+    "MUNICIO DOMINGO, MIGUEL",
+    "CASADO RUIZ, DANY",
+    "MONTARELO PADILLA, LUCAS",
+    "MARTÍN CLEMENTE, ADRIÁN",
+    "PINILLOS DEL AMO, FERNANDO",
+    "TOVAR MARTIN, GONZALO",
+    "SANCHEZ GONZALEZ, LUCAS",
+    "VELASCO GARCIA, RODRIGO TOMAS"
+  ],
+  "suplentes_local": [
+    "ANDRES GARCIA, IKER",
+    "LOPEZ ROBLES, MARTIN",
+    "RODRIGUEZ BLANCO, ADRIAN",
+    "GUTIERREZ DIEZ, GUILLERMO",
+    "DOMINGUEZ REJAS, AITOR"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ MINGUELA, ERIK",
+    "TORRES ROMERO, AITOR",
+    "LODEIRO DE FRUTOS, JAVIER MAURO",
+    "GARCIA MARTINEZ, MATTEO",
+    "MARTOS RODRIGUEZ, CARLOS"
+  ],
+  "convocados_sin_jugar_local": [
+    "ANDRES GARCIA, IKER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GONZALEZ FERNANDEZ, ALEX",
+    "PABLO GARCÍA",
+    "DIEZ DE PRADO, SERGIO",
+    "SUAREZ SUAREZ, FABIO",
+    "Hugo",
+    "ESCUDERO NICOLAS, ADRIA",
+    "FERNANDEZ ACINAS, ALVARO",
+    "CARREÑO TEJERO, GERMAN",
+    "DOVIDENAS, ROKAS",
+    "ARIAS FUERTES, MARTIN",
+    "LOPEZ GONZALEZ, CAYETANO",
+    "DOMINGUEZ REJAS, AITOR",
+    "RODRIGUEZ BLANCO, ADRIAN",
+    "GUTIERREZ DIEZ, GUILLERMO",
+    "LOPEZ ROBLES, MARTIN"
+  ],
+  "jugadores_visitante": [
+    "VIÑAS BLANCO, DANIEL",
+    "SANZ DE LA FUENTE, PABLO",
+    "DE CASTRO BERMEJO, PELAYO",
+    "MUNICIO DOMINGO, MIGUEL",
+    "CASADO RUIZ, DANY",
+    "MONTARELO PADILLA, LUCAS",
+    "MARTÍN CLEMENTE, ADRIÁN",
+    "PINILLOS DEL AMO, FERNANDO",
+    "TOVAR MARTIN, GONZALO",
+    "SANCHEZ GONZALEZ, LUCAS",
+    "VELASCO GARCIA, RODRIGO TOMAS",
+    "LODEIRO DE FRUTOS, JAVIER MAURO",
+    "MARTOS RODRIGUEZ, CARLOS",
+    "TORRES ROMERO, AITOR",
+    "GONZALEZ MINGUELA, ERIK",
+    "GARCIA MARTINEZ, MATTEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "DOMINGUEZ REJAS, AITOR",
+      "sale": "DOVIDENAS, ROKAS"
+    },
+    {
+      "min": 52,
+      "entra": "RODRIGUEZ BLANCO, ADRIAN",
+      "sale": "ESCUDERO NICOLAS, ADRIA"
+    },
+    {
+      "min": 59,
+      "entra": "GUTIERREZ DIEZ, GUILLERMO",
+      "sale": "FERNANDEZ ACINAS, ALVARO"
+    },
+    {
+      "min": 62,
+      "entra": "LOPEZ ROBLES, MARTIN",
+      "sale": "Hugo"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "LODEIRO DE FRUTOS, JAVIER MAURO",
+      "sale": "PINILLOS DEL AMO, FERNANDO"
+    },
+    {
+      "min": 45,
+      "entra": "MARTOS RODRIGUEZ, CARLOS",
+      "sale": "VELASCO GARCIA, RODRIGO TOMAS"
+    },
+    {
+      "min": 52,
+      "entra": "TORRES ROMERO, AITOR",
+      "sale": "SANCHEZ GONZALEZ, LUCAS"
+    },
+    {
+      "min": 63,
+      "entra": "GONZALEZ MINGUELA, ERIK",
+      "sale": "VIÑAS BLANCO, DANIEL"
+    },
+    {
+      "min": 63,
+      "entra": "GARCIA MARTINEZ, MATTEO",
+      "sale": "SANZ DE LA FUENTE, PABLO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONZALEZ FERNANDEZ, ALEX": 90,
+    "PABLO GARCÍA": 90,
+    "DIEZ DE PRADO, SERGIO": 90,
+    "SUAREZ SUAREZ, FABIO": 90,
+    "Hugo": 62,
+    "ESCUDERO NICOLAS, ADRIA": 52,
+    "FERNANDEZ ACINAS, ALVARO": 59,
+    "CARREÑO TEJERO, GERMAN": 90,
+    "DOVIDENAS, ROKAS": 36,
+    "ARIAS FUERTES, MARTIN": 90,
+    "LOPEZ GONZALEZ, CAYETANO": 90,
+    "DOMINGUEZ REJAS, AITOR": 54,
+    "RODRIGUEZ BLANCO, ADRIAN": 38,
+    "GUTIERREZ DIEZ, GUILLERMO": 31,
+    "LOPEZ ROBLES, MARTIN": 28,
+    "VIÑAS BLANCO, DANIEL": 63,
+    "SANZ DE LA FUENTE, PABLO": 63,
+    "DE CASTRO BERMEJO, PELAYO": 90,
+    "MUNICIO DOMINGO, MIGUEL": 90,
+    "CASADO RUIZ, DANY": 90,
+    "MONTARELO PADILLA, LUCAS": 90,
+    "MARTÍN CLEMENTE, ADRIÁN": 90,
+    "PINILLOS DEL AMO, FERNANDO": 36,
+    "TOVAR MARTIN, GONZALO": 90,
+    "SANCHEZ GONZALEZ, LUCAS": 52,
+    "VELASCO GARCIA, RODRIGO TOMAS": 45,
+    "LODEIRO DE FRUTOS, JAVIER MAURO": 54,
+    "MARTOS RODRIGUEZ, CARLOS": 45,
+    "TORRES ROMERO, AITOR": 38,
+    "GONZALEZ MINGUELA, ERIK": 27,
+    "GARCIA MARTINEZ, MATTEO": 27
+  },
+  "portero_local": "GONZALEZ FERNANDEZ, ALEX",
+  "portero_visitante": "VIÑAS BLANCO, DANIEL",
+  "dorsales_local": {
+    "GONZALEZ FERNANDEZ, ALEX": 1,
+    "PABLO GARCÍA": 2,
+    "DIEZ DE PRADO, SERGIO": 3,
+    "SUAREZ SUAREZ, FABIO": 4,
+    "Hugo": 5,
+    "ESCUDERO NICOLAS, ADRIA": 6,
+    "FERNANDEZ ACINAS, ALVARO": 7,
+    "CARREÑO TEJERO, GERMAN": 8,
+    "DOVIDENAS, ROKAS": 9,
+    "ARIAS FUERTES, MARTIN": 10,
+    "LOPEZ GONZALEZ, CAYETANO": 11
+  },
+  "dorsales_visitante": {
+    "VIÑAS BLANCO, DANIEL": 1,
+    "SANZ DE LA FUENTE, PABLO": 2,
+    "DE CASTRO BERMEJO, PELAYO": 3,
+    "MUNICIO DOMINGO, MIGUEL": 4,
+    "CASADO RUIZ, DANY": 5,
+    "MONTARELO PADILLA, LUCAS": 6,
+    "MARTÍN CLEMENTE, ADRIÁN": 7,
+    "PINILLOS DEL AMO, FERNANDO": 8,
+    "TOVAR MARTIN, GONZALO": 9,
+    "SANCHEZ GONZALEZ, LUCAS": 10,
+    "VELASCO GARCIA, RODRIGO TOMAS": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
