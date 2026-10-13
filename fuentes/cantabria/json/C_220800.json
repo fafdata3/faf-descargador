@@ -1,0 +1,279 @@
+{
+  "acta_id": "C_220800",
+  "filename": "Acta_C_220800.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 21,
+  "fecha": "28-02-2026",
+  "hora": "12:45",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. REVILLA A",
+  "equipo_visitante": "C.D. BEZANA A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RUAS ZAMANILLO, ALEJANDRO"
+  ],
+  "estadio": "Revilla",
+  "ciudad": "Camargo",
+  "goleadores": [
+    {
+      "minuto": 52,
+      "jugador": "VELEZ BAHILLO, PEDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "PÉREZ MANTECÓN, MARTÍN",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 41,
+      "jugador": "HORRILLO CAÑEDO, ALEX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "VAQUERO IGLESIAS, MIGUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "PATIÑO OREJUELA, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "PATIÑO OREJUELA, DAVID",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "MONTES DE NEIRA BALBOA, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "GARCÍA VÁZQUEZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALVAREZ CARRASCO, OSCAR E",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "PUERTAS MARTINEZ, VICTOR",
+  "segundo_entrenador_visitante": "FERNANDEZ ARCE, DIEGO",
+  "delegado_campo_local": "HOZ MUÑOZ, JOSE ALBERTO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HOZ MUÑOZ, JOSE ALBERTO",
+  "delegado_equipo_visitante": "SÁNCHEZ BERRUECO, ANTONIO",
+  "titulares_local": [
+    "ARCE GONZALEZ, JAIME",
+    "JIMENEZ GALDIANO, HUGO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "PÉREZ MANTECÓN, MARTÍN",
+    "HORRILLO CAÑEDO, ALEX",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "CHAO VAL, YERAY"
+  ],
+  "titulares_visitante": [
+    "MUGICA FERNANDEZ, VICTOR",
+    "ARROYO CESPEDES, DIEGO",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "MARTIN GUTIERREZ, LUCAS",
+    "CRESPO PEÑA, JUAN",
+    "BARROSO REBAQUE, ALEX",
+    "VELEZ BAHILLO, PEDRO",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "RUIZ GARCIA, IBAI",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "PANDO DOSAL, HUGO"
+  ],
+  "suplentes_local": [
+    "TORRE EXPOSITO, MARCO",
+    "PATIÑO OREJUELA, DAVID",
+    "PEROJO HERNANDO, MANUEL",
+    "RUIZ MARTINEZ, JULEN",
+    "FERRER PENAGOS, MARTÍN"
+  ],
+  "suplentes_visitante": [
+    "MORA PUIG-PEY, LUIS",
+    "BENEDITED RUIZ, HUGO",
+    "GALVEZ PEREZ, JUAN SEBASTIAN",
+    "GARCIA GARCIA, JAVIER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARCE GONZALEZ, JAIME",
+    "JIMENEZ GALDIANO, HUGO",
+    "JUANGO HERRERIA, ALVARO",
+    "GUTIERREZ NEGRAL, YAGO",
+    "DIEZ VELASCO, JUAN",
+    "ANDERICA BALAGUER, MARIO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "PÉREZ MANTECÓN, MARTÍN",
+    "HORRILLO CAÑEDO, ALEX",
+    "VAQUERO IGLESIAS, MIGUEL",
+    "CHAO VAL, YERAY",
+    "TORRE EXPOSITO, MARCO",
+    "PATIÑO OREJUELA, DAVID",
+    "RUIZ MARTINEZ, JULEN",
+    "FERRER PENAGOS, MARTÍN",
+    "PEROJO HERNANDO, MANUEL"
+  ],
+  "jugadores_visitante": [
+    "MUGICA FERNANDEZ, VICTOR",
+    "ARROYO CESPEDES, DIEGO",
+    "MONTES DE NEIRA BALBOA, LUCAS",
+    "MARTIN GUTIERREZ, LUCAS",
+    "CRESPO PEÑA, JUAN",
+    "BARROSO REBAQUE, ALEX",
+    "VELEZ BAHILLO, PEDRO",
+    "SANTAEULALIA PEREZ, NICOLAS",
+    "RUIZ GARCIA, IBAI",
+    "GARCÍA VÁZQUEZ, HUGO",
+    "PANDO DOSAL, HUGO",
+    "MORA PUIG-PEY, LUIS",
+    "BENEDITED RUIZ, HUGO",
+    "GARCIA GARCIA, JAVIER",
+    "GALVEZ PEREZ, JUAN SEBASTIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "TORRE EXPOSITO, MARCO",
+      "sale": "ARCE GONZALEZ, JAIME"
+    },
+    {
+      "min": 39,
+      "entra": "PATIÑO OREJUELA, DAVID",
+      "sale": "CHAO VAL, YERAY"
+    },
+    {
+      "min": 47,
+      "entra": "RUIZ MARTINEZ, JULEN",
+      "sale": "HORRILLO CAÑEDO, ALEX"
+    },
+    {
+      "min": 54,
+      "entra": "FERRER PENAGOS, MARTÍN",
+      "sale": "VAQUERO IGLESIAS, MIGUEL"
+    },
+    {
+      "min": 54,
+      "entra": "PEROJO HERNANDO, MANUEL",
+      "sale": "ANDERICA BALAGUER, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "MORA PUIG-PEY, LUIS",
+      "sale": "MUGICA FERNANDEZ, VICTOR"
+    },
+    {
+      "min": 45,
+      "entra": "BENEDITED RUIZ, HUGO",
+      "sale": "CRESPO PEÑA, JUAN"
+    },
+    {
+      "min": 54,
+      "entra": "GARCIA GARCIA, JAVIER",
+      "sale": "VELEZ BAHILLO, PEDRO"
+    },
+    {
+      "min": 63,
+      "entra": "GALVEZ PEREZ, JUAN SEBASTIAN",
+      "sale": "RUIZ GARCIA, IBAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARCE GONZALEZ, JAIME": 35,
+    "JIMENEZ GALDIANO, HUGO": 90,
+    "JUANGO HERRERIA, ALVARO": 90,
+    "GUTIERREZ NEGRAL, YAGO": 90,
+    "DIEZ VELASCO, JUAN": 90,
+    "ANDERICA BALAGUER, MARIO": 54,
+    "REBOLLEDO GARCIA, OLIVER": 90,
+    "PÉREZ MANTECÓN, MARTÍN": 90,
+    "HORRILLO CAÑEDO, ALEX": 47,
+    "VAQUERO IGLESIAS, MIGUEL": 54,
+    "CHAO VAL, YERAY": 39,
+    "TORRE EXPOSITO, MARCO": 55,
+    "PATIÑO OREJUELA, DAVID": 51,
+    "RUIZ MARTINEZ, JULEN": 43,
+    "FERRER PENAGOS, MARTÍN": 36,
+    "PEROJO HERNANDO, MANUEL": 36,
+    "MUGICA FERNANDEZ, VICTOR": 35,
+    "ARROYO CESPEDES, DIEGO": 90,
+    "MONTES DE NEIRA BALBOA, LUCAS": 90,
+    "MARTIN GUTIERREZ, LUCAS": 90,
+    "CRESPO PEÑA, JUAN": 45,
+    "BARROSO REBAQUE, ALEX": 90,
+    "VELEZ BAHILLO, PEDRO": 54,
+    "SANTAEULALIA PEREZ, NICOLAS": 90,
+    "RUIZ GARCIA, IBAI": 63,
+    "GARCÍA VÁZQUEZ, HUGO": 90,
+    "PANDO DOSAL, HUGO": 90,
+    "MORA PUIG-PEY, LUIS": 55,
+    "BENEDITED RUIZ, HUGO": 45,
+    "GARCIA GARCIA, JAVIER": 36,
+    "GALVEZ PEREZ, JUAN SEBASTIAN": 27
+  },
+  "portero_local": "ARCE GONZALEZ, JAIME",
+  "portero_visitante": "MUGICA FERNANDEZ, VICTOR",
+  "dorsales_local": {
+    "ARCE GONZALEZ, JAIME": 13,
+    "JIMENEZ GALDIANO, HUGO": 2,
+    "JUANGO HERRERIA, ALVARO": 4,
+    "GUTIERREZ NEGRAL, YAGO": 5,
+    "DIEZ VELASCO, JUAN": 6,
+    "ANDERICA BALAGUER, MARIO": 8,
+    "REBOLLEDO GARCIA, OLIVER": 10,
+    "PÉREZ MANTECÓN, MARTÍN": 11,
+    "HORRILLO CAÑEDO, ALEX": 16,
+    "VAQUERO IGLESIAS, MIGUEL": 17,
+    "CHAO VAL, YERAY": 24
+  },
+  "dorsales_visitante": {
+    "MUGICA FERNANDEZ, VICTOR": 1,
+    "ARROYO CESPEDES, DIEGO": 2,
+    "MONTES DE NEIRA BALBOA, LUCAS": 3,
+    "MARTIN GUTIERREZ, LUCAS": 4,
+    "CRESPO PEÑA, JUAN": 6,
+    "BARROSO REBAQUE, ALEX": 8,
+    "VELEZ BAHILLO, PEDRO": 10,
+    "SANTAEULALIA PEREZ, NICOLAS": 11,
+    "RUIZ GARCIA, IBAI": 12,
+    "GARCÍA VÁZQUEZ, HUGO": 14,
+    "PANDO DOSAL, HUGO": 15
+  },
+  "suspendidos": [
+    "PATIÑO OREJUELA, DAVID"
+  ],
+  "_marcador_widget": true
+}
