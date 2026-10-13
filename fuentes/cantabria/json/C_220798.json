@@ -1,0 +1,248 @@
+{
+  "acta_id": "C_220798",
+  "filename": "Acta_C_220798.txt",
+  "fuente": "cantabria",
+  "temporada": "2025-2026",
+  "jornada": 20,
+  "fecha": "14-02-2026",
+  "hora": "15:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "S.D. SOLARES-MEDIO CUDEYO A",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PEÑA PUENTE, KEVIN"
+  ],
+  "estadio": "Solares",
+  "ciudad": "Medio Cudeyo",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "BARBA AGENJO, DARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "HIERRO MENEZO, NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 15,
+      "jugador": "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "DIEGO ACEBO, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "ACHURRA CESAREO, RAFAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARQUEZ SETIEN, CARLOS",
+  "entrenador_visitante": "SALCINES PRIETO, LUIS FELIPE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "Madrazo Presmanes, Pablo",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "Madrazo Presmanes, Pablo",
+  "delegado_equipo_visitante": "MARTINEZ CASTRO, DANIEL",
+  "titulares_local": [
+    "BRAVO BLANCO, PEDRO",
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL",
+    "CUEVAS ARRUZA, LUCAS",
+    "MORETON GONZALEZ, LUCAS",
+    "BECI ESTEVE, MARCO",
+    "PACHECO GUTIERREZ, MARTIN",
+    "GONZALEZ TOCA, NICOLAS",
+    "HIERRO MENEZO, NICOLAS",
+    "GARCIA IRIZABAL, CARLOS",
+    "LOPEZ CORRALES, LUCAS",
+    "DIAZ DIAZ, DYLAN"
+  ],
+  "titulares_visitante": [
+    "SALCINES ZARCO, AYMAR",
+    "FRANCO RIEGO, LUCAS",
+    "PELAYO GARCIA, NICOLAS",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "HOYOS ORTEGA, LUCA",
+    "PONCE COBA, ERICK AITOR",
+    "MUÑOZ SIERRA, HECTOR"
+  ],
+  "suplentes_local": [
+    "SECK DE LA HOZ, ROBERTO",
+    "BLANCO PORTILLA, SERGIO",
+    "DIEGO ACEBO, DIEGO",
+    "ABASCAL BARQUIN, HUGO"
+  ],
+  "suplentes_visitante": [
+    "ARCE ABASCAL, DIEGO",
+    "LOPEZ ANGULO, JUAN PEDRO",
+    "PEREZ VILLA, DAVID",
+    "ACHURRA CESAREO, RAFAEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BRAVO BLANCO, PEDRO",
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL",
+    "CUEVAS ARRUZA, LUCAS",
+    "MORETON GONZALEZ, LUCAS",
+    "BECI ESTEVE, MARCO",
+    "PACHECO GUTIERREZ, MARTIN",
+    "GONZALEZ TOCA, NICOLAS",
+    "HIERRO MENEZO, NICOLAS",
+    "GARCIA IRIZABAL, CARLOS",
+    "LOPEZ CORRALES, LUCAS",
+    "DIAZ DIAZ, DYLAN",
+    "BLANCO PORTILLA, SERGIO",
+    "ABASCAL BARQUIN, HUGO",
+    "DIEGO ACEBO, DIEGO",
+    "SECK DE LA HOZ, ROBERTO"
+  ],
+  "jugadores_visitante": [
+    "SALCINES ZARCO, AYMAR",
+    "FRANCO RIEGO, LUCAS",
+    "PELAYO GARCIA, NICOLAS",
+    "RUIZ MUÑIZ, MARIO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "HOYOS ORTEGA, LUCA",
+    "PONCE COBA, ERICK AITOR",
+    "MUÑOZ SIERRA, HECTOR",
+    "ACHURRA CESAREO, RAFAEL",
+    "ARCE ABASCAL, DIEGO",
+    "LOPEZ ANGULO, JUAN PEDRO",
+    "PEREZ VILLA, DAVID"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "BLANCO PORTILLA, SERGIO",
+      "sale": "MORETON GONZALEZ, LUCAS"
+    },
+    {
+      "min": 49,
+      "entra": "ABASCAL BARQUIN, HUGO",
+      "sale": "GARCIA IRIZABAL, CARLOS"
+    },
+    {
+      "min": 49,
+      "entra": "DIEGO ACEBO, DIEGO",
+      "sale": "PACHECO GUTIERREZ, MARTIN"
+    },
+    {
+      "min": 54,
+      "entra": "SECK DE LA HOZ, ROBERTO",
+      "sale": "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 32,
+      "entra": "ACHURRA CESAREO, RAFAEL",
+      "sale": "FRANCO RIEGO, LUCAS"
+    },
+    {
+      "min": 46,
+      "entra": "ARCE ABASCAL, DIEGO",
+      "sale": "DIEZ GARCIA, MATEO"
+    },
+    {
+      "min": 49,
+      "entra": "LOPEZ ANGULO, JUAN PEDRO",
+      "sale": "MUÑOZ SIERRA, HECTOR"
+    },
+    {
+      "min": 54,
+      "entra": "PEREZ VILLA, DAVID",
+      "sale": "HOYOS ORTEGA, LUCA"
+    }
+  ],
+  "minutos_jugadores": {
+    "BRAVO BLANCO, PEDRO": 90,
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL": 54,
+    "CUEVAS ARRUZA, LUCAS": 90,
+    "MORETON GONZALEZ, LUCAS": 35,
+    "BECI ESTEVE, MARCO": 90,
+    "PACHECO GUTIERREZ, MARTIN": 49,
+    "GONZALEZ TOCA, NICOLAS": 90,
+    "HIERRO MENEZO, NICOLAS": 90,
+    "GARCIA IRIZABAL, CARLOS": 49,
+    "LOPEZ CORRALES, LUCAS": 90,
+    "DIAZ DIAZ, DYLAN": 90,
+    "BLANCO PORTILLA, SERGIO": 55,
+    "ABASCAL BARQUIN, HUGO": 41,
+    "DIEGO ACEBO, DIEGO": 41,
+    "SECK DE LA HOZ, ROBERTO": 36,
+    "SALCINES ZARCO, AYMAR": 90,
+    "FRANCO RIEGO, LUCAS": 32,
+    "PELAYO GARCIA, NICOLAS": 90,
+    "RUIZ MUÑIZ, MARIO": 90,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 90,
+    "BARBA AGENJO, DARIO": 90,
+    "DIEZ GARCIA, MATEO": 46,
+    "PEÑA GONZALEZ, ALVARO": 90,
+    "HOYOS ORTEGA, LUCA": 54,
+    "PONCE COBA, ERICK AITOR": 90,
+    "MUÑOZ SIERRA, HECTOR": 49,
+    "ACHURRA CESAREO, RAFAEL": 58,
+    "ARCE ABASCAL, DIEGO": 44,
+    "LOPEZ ANGULO, JUAN PEDRO": 41,
+    "PEREZ VILLA, DAVID": 36
+  },
+  "portero_local": "BRAVO BLANCO, PEDRO",
+  "portero_visitante": "SALCINES ZARCO, AYMAR",
+  "dorsales_local": {
+    "BRAVO BLANCO, PEDRO": 1,
+    "GONZALEZ FERNÁNDEZ, STHEFAN MIGUEL": 2,
+    "CUEVAS ARRUZA, LUCAS": 4,
+    "MORETON GONZALEZ, LUCAS": 5,
+    "BECI ESTEVE, MARCO": 6,
+    "PACHECO GUTIERREZ, MARTIN": 8,
+    "GONZALEZ TOCA, NICOLAS": 9,
+    "HIERRO MENEZO, NICOLAS": 14,
+    "GARCIA IRIZABAL, CARLOS": 15,
+    "LOPEZ CORRALES, LUCAS": 19,
+    "DIAZ DIAZ, DYLAN": 20
+  },
+  "dorsales_visitante": {
+    "SALCINES ZARCO, AYMAR": 13,
+    "FRANCO RIEGO, LUCAS": 2,
+    "PELAYO GARCIA, NICOLAS": 3,
+    "RUIZ MUÑIZ, MARIO": 4,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 5,
+    "BARBA AGENJO, DARIO": 6,
+    "DIEZ GARCIA, MATEO": 8,
+    "PEÑA GONZALEZ, ALVARO": 9,
+    "HOYOS ORTEGA, LUCA": 10,
+    "PONCE COBA, ERICK AITOR": 11,
+    "MUÑOZ SIERRA, HECTOR": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
