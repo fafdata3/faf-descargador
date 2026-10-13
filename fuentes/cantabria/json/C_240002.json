@@ -1,0 +1,259 @@
+{
+  "acta_id": "C_240002",
+  "filename": "Acta_C_240002.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "11-10-2026",
+  "hora": "13:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.D.E. ATCO. MINEROS A",
+  "equipo_visitante": "CASTRO F.C. A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CARUTA MOROI, CRISTIAN"
+  ],
+  "estadio": "Puente San Miguel",
+  "ciudad": "Reocín",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "CASTILLO VERDE, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "MANGAS PEDRAJAS, HUGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 12,
+      "jugador": "GUTIERREZ COCA, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "DOMINGUEZ RODRIGUEZ, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "PRADO MARTINEZ, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "PEREZ SMAJEK, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "LAZA ASENSIO, ENEKO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RUIZ GOMEZ, IVAN",
+  "entrenador_visitante": "PONTES LOIDI, AITOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ZULUAGA QUICENO, PABLO ANDRES",
+  "titulares_local": [
+    "MARTINEZ GOMEZ, IZAN",
+    "CALDERON SIMON, BRUNO",
+    "VALDES GARCIA, MARIO",
+    "VIELVA BARREIRO, MARIO",
+    "MANGAS PEDRAJAS, HUGO",
+    "CURIEL PELAYO, AIRO",
+    "PEREZ TEZANOS, UNAI",
+    "RUIZ LOBETO, IZAN",
+    "RUIZ BARROSO, FIDEL",
+    "SALAZAR BOHORQUEZ, IVAN",
+    "HAYA FERNANDEZ, MARCOS"
+  ],
+  "titulares_visitante": [
+    "IZQUIERDO ORTEGA, ANGEL",
+    "PRADO MARTINEZ, ADRIAN",
+    "RIVAS DIEGUEZ, XABIER",
+    "DOMINGUEZ RODRIGUEZ, LUCAS",
+    "GONZALEZ MARTA, ARKAITZ",
+    "CASTILLO VERDE, JULEN",
+    "PATIN DE BRITO, UNAX",
+    "MONTERO JIMENEZ, EDER",
+    "DIAZ HERNANDEZ, ROKE",
+    "PEREZ SMAJEK, DANIEL",
+    "GUTIERREZ COCA, ANDER"
+  ],
+  "suplentes_local": [
+    "TERAN PINEY, IKER",
+    "GARCIA HAYA, ELOY",
+    "SOPEÑA MENDARO, NACHO",
+    "BERRIO SANCHEZ, SAMUEL"
+  ],
+  "suplentes_visitante": [
+    "AROZAMENA SAN CRISTOBAL, LUCAS",
+    "ROZAS ANDRADE, EKAITZ",
+    "BLAJAKIS RUIZ, MARIO",
+    "HERNANDO ELOLA, IBAI",
+    "LAZA ASENSIO, ENEKO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "AROZAMENA SAN CRISTOBAL, LUCAS",
+    "BLAJAKIS RUIZ, MARIO"
+  ],
+  "jugadores_local": [
+    "MARTINEZ GOMEZ, IZAN",
+    "CALDERON SIMON, BRUNO",
+    "VALDES GARCIA, MARIO",
+    "VIELVA BARREIRO, MARIO",
+    "MANGAS PEDRAJAS, HUGO",
+    "CURIEL PELAYO, AIRO",
+    "PEREZ TEZANOS, UNAI",
+    "RUIZ LOBETO, IZAN",
+    "RUIZ BARROSO, FIDEL",
+    "SALAZAR BOHORQUEZ, IVAN",
+    "HAYA FERNANDEZ, MARCOS",
+    "TERAN PINEY, IKER",
+    "BERRIO SANCHEZ, SAMUEL",
+    "GARCIA HAYA, ELOY",
+    "SOPEÑA MENDARO, NACHO"
+  ],
+  "jugadores_visitante": [
+    "IZQUIERDO ORTEGA, ANGEL",
+    "PRADO MARTINEZ, ADRIAN",
+    "RIVAS DIEGUEZ, XABIER",
+    "DOMINGUEZ RODRIGUEZ, LUCAS",
+    "GONZALEZ MARTA, ARKAITZ",
+    "CASTILLO VERDE, JULEN",
+    "PATIN DE BRITO, UNAX",
+    "MONTERO JIMENEZ, EDER",
+    "DIAZ HERNANDEZ, ROKE",
+    "PEREZ SMAJEK, DANIEL",
+    "GUTIERREZ COCA, ANDER",
+    "HERNANDO ELOLA, IBAI",
+    "LAZA ASENSIO, ENEKO",
+    "ROZAS ANDRADE, EKAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "TERAN PINEY, IKER",
+      "sale": "MARTINEZ GOMEZ, IZAN"
+    },
+    {
+      "min": 61,
+      "entra": "BERRIO SANCHEZ, SAMUEL",
+      "sale": "SALAZAR BOHORQUEZ, IVAN"
+    },
+    {
+      "min": 64,
+      "entra": "GARCIA HAYA, ELOY",
+      "sale": "PEREZ TEZANOS, UNAI"
+    },
+    {
+      "min": 70,
+      "entra": "SOPEÑA MENDARO, NACHO",
+      "sale": "VALDES GARCIA, MARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "HERNANDO ELOLA, IBAI",
+      "sale": "GUTIERREZ COCA, ANDER"
+    },
+    {
+      "min": 57,
+      "entra": "LAZA ASENSIO, ENEKO",
+      "sale": "DOMINGUEZ RODRIGUEZ, LUCAS"
+    },
+    {
+      "min": 64,
+      "entra": "ROZAS ANDRADE, EKAITZ",
+      "sale": "RIVAS DIEGUEZ, XABIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTINEZ GOMEZ, IZAN": 40,
+    "CALDERON SIMON, BRUNO": 90,
+    "VALDES GARCIA, MARIO": 70,
+    "VIELVA BARREIRO, MARIO": 90,
+    "MANGAS PEDRAJAS, HUGO": 90,
+    "CURIEL PELAYO, AIRO": 90,
+    "PEREZ TEZANOS, UNAI": 64,
+    "RUIZ LOBETO, IZAN": 90,
+    "RUIZ BARROSO, FIDEL": 90,
+    "SALAZAR BOHORQUEZ, IVAN": 61,
+    "HAYA FERNANDEZ, MARCOS": 90,
+    "TERAN PINEY, IKER": 50,
+    "BERRIO SANCHEZ, SAMUEL": 29,
+    "GARCIA HAYA, ELOY": 26,
+    "SOPEÑA MENDARO, NACHO": 20,
+    "IZQUIERDO ORTEGA, ANGEL": 90,
+    "PRADO MARTINEZ, ADRIAN": 90,
+    "RIVAS DIEGUEZ, XABIER": 64,
+    "DOMINGUEZ RODRIGUEZ, LUCAS": 57,
+    "GONZALEZ MARTA, ARKAITZ": 90,
+    "CASTILLO VERDE, JULEN": 90,
+    "PATIN DE BRITO, UNAX": 90,
+    "MONTERO JIMENEZ, EDER": 90,
+    "DIAZ HERNANDEZ, ROKE": 90,
+    "PEREZ SMAJEK, DANIEL": 90,
+    "GUTIERREZ COCA, ANDER": 40,
+    "HERNANDO ELOLA, IBAI": 50,
+    "LAZA ASENSIO, ENEKO": 33,
+    "ROZAS ANDRADE, EKAITZ": 26
+  },
+  "portero_local": "MARTINEZ GOMEZ, IZAN",
+  "portero_visitante": "IZQUIERDO ORTEGA, ANGEL",
+  "dorsales_local": {
+    "MARTINEZ GOMEZ, IZAN": 13,
+    "CALDERON SIMON, BRUNO": 3,
+    "VALDES GARCIA, MARIO": 5,
+    "VIELVA BARREIRO, MARIO": 6,
+    "MANGAS PEDRAJAS, HUGO": 8,
+    "CURIEL PELAYO, AIRO": 9,
+    "PEREZ TEZANOS, UNAI": 10,
+    "RUIZ LOBETO, IZAN": 11,
+    "RUIZ BARROSO, FIDEL": 14,
+    "SALAZAR BOHORQUEZ, IVAN": 16,
+    "HAYA FERNANDEZ, MARCOS": 22
+  },
+  "dorsales_visitante": {
+    "IZQUIERDO ORTEGA, ANGEL": 13,
+    "PRADO MARTINEZ, ADRIAN": 2,
+    "RIVAS DIEGUEZ, XABIER": 3,
+    "DOMINGUEZ RODRIGUEZ, LUCAS": 4,
+    "GONZALEZ MARTA, ARKAITZ": 5,
+    "CASTILLO VERDE, JULEN": 6,
+    "PATIN DE BRITO, UNAX": 7,
+    "MONTERO JIMENEZ, EDER": 8,
+    "DIAZ HERNANDEZ, ROKE": 10,
+    "PEREZ SMAJEK, DANIEL": 11,
+    "GUTIERREZ COCA, ANDER": 14
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
