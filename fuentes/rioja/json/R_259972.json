@@ -1,0 +1,288 @@
+{
+  "acta_id": "R_259972",
+  "filename": "Acta_R_259972.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "10-10-2026",
+  "hora": "16:00",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "PEÑA BALSAMAISO",
+  "equipo_visitante": "VILLEGAS",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "HARRANE BOUDA, ILIAS",
+    "Árbitro Asistente",
+    "VARGAS CORTEZ, SNAIDER",
+    "Árbitro Asistente",
+    "LEON TERROBA, MARIO"
+  ],
+  "estadio": "C.M. LA ESTRELLA - H.A. (LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 39,
+      "jugador": "MARTINEZ SUSO, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "ALLOUNI ALLOUNI, YASSIR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "MARCA TURBI, BRUNO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "BAURRE EL MOUMN, ELHOUSSIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 21,
+      "jugador": "GARBA ABDULAI, INUSAH",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "APODACA RAME, MATEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 88,
+      "jugador": "ROMERO GARCIA, LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GONZALEZ GARCIA, IÑIGO",
+  "entrenador_visitante": "JUANEDA AYENSA, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SARABIA ABASCAL, IMANOL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SOUAIDY, OUSSAMA",
+  "delegado_equipo_visitante": "ROJO SAEZ, JAVIER",
+  "titulares_local": [
+    "ARROYO SORLI, ETHANIEL",
+    "CARSTEA, ANDREI MANUEL",
+    "GARCIA ORTI, BRUNO",
+    "GARBA ABDULAI, INUSAH",
+    "ALLOUNI ALLOUNI, YASSIR",
+    "MARCA TURBI, BRUNO",
+    "ORDEN ESPILA, PABLO",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "MOLOVAE ESPINOZA, JOSEAN",
+    "BAYEME MAYE, DENIS JAVIER"
+  ],
+  "titulares_visitante": [
+    "RIO DIAZ DE GUEREÑU, EÑAUT",
+    "ROJO MARTIN P, ADRIAN",
+    "DE CORTA MARTINEZ, RODRIGO",
+    "ROMERO GARCIA, LUIS",
+    "FERNANDEZ L PEREZ, PABLO",
+    "LAGLAOUI EL GHERYB, ADAM",
+    "GARCIA MIGUEL, PEDRO",
+    "ANNI AIBOUD, ABDELLAH",
+    "MARTINEZ SUSO, MARIO",
+    "SANZ RUIZ ESQUIDE, SERGIO",
+    "BURGOS VILAMOR, BRUNO"
+  ],
+  "suplentes_local": [
+    "SALVATIERRA ROMERO, DANIEL",
+    "HERNANDEZ LAS HERAS, VICTOR",
+    "BAURRE EL MOUMN, ELHOUSSIN",
+    "HERCE NAVARRO, SERGIO",
+    "MARTINEZ AMELIBIA, JORGE",
+    "SERRANO MUGICA, OIER"
+  ],
+  "suplentes_visitante": [
+    "SAMPEDRO FERNANDEZ, RODRIGO",
+    "MONFORTE SAENZ, LUIS",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE",
+    "APODACA RAME, MATEO",
+    "FUENTES OVEJAS, MANUEL",
+    "LARA PAREDES, JHENDERSON"
+  ],
+  "convocados_sin_jugar_local": [
+    "SALVATIERRA ROMERO, DANIEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SAMPEDRO FERNANDEZ, RODRIGO"
+  ],
+  "jugadores_local": [
+    "ARROYO SORLI, ETHANIEL",
+    "CARSTEA, ANDREI MANUEL",
+    "GARCIA ORTI, BRUNO",
+    "GARBA ABDULAI, INUSAH",
+    "ALLOUNI ALLOUNI, YASSIR",
+    "MARCA TURBI, BRUNO",
+    "ORDEN ESPILA, PABLO",
+    "VACA ROSSELL, JOSEP CARLOS",
+    "SHTEMBARI AGARAJ, ALEX",
+    "MOLOVAE ESPINOZA, JOSEAN",
+    "BAYEME MAYE, DENIS JAVIER",
+    "MARTINEZ AMELIBIA, JORGE",
+    "HERCE NAVARRO, SERGIO",
+    "BAURRE EL MOUMN, ELHOUSSIN",
+    "HERNANDEZ LAS HERAS, VICTOR",
+    "SERRANO MUGICA, OIER"
+  ],
+  "jugadores_visitante": [
+    "RIO DIAZ DE GUEREÑU, EÑAUT",
+    "ROJO MARTIN P, ADRIAN",
+    "DE CORTA MARTINEZ, RODRIGO",
+    "ROMERO GARCIA, LUIS",
+    "FERNANDEZ L PEREZ, PABLO",
+    "LAGLAOUI EL GHERYB, ADAM",
+    "GARCIA MIGUEL, PEDRO",
+    "ANNI AIBOUD, ABDELLAH",
+    "MARTINEZ SUSO, MARIO",
+    "SANZ RUIZ ESQUIDE, SERGIO",
+    "BURGOS VILAMOR, BRUNO",
+    "MONFORTE SAENZ, LUIS",
+    "VALBUENA GUDIÑO, FRANCISCO JOSE",
+    "FUENTES OVEJAS, MANUEL",
+    "APODACA RAME, MATEO",
+    "LARA PAREDES, JHENDERSON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "MARTINEZ AMELIBIA, JORGE",
+      "sale": "CARSTEA, ANDREI MANUEL"
+    },
+    {
+      "min": 66,
+      "entra": "HERCE NAVARRO, SERGIO",
+      "sale": "MOLOVAE ESPINOZA, JOSEAN"
+    },
+    {
+      "min": 66,
+      "entra": "BAURRE EL MOUMN, ELHOUSSIN",
+      "sale": "GARBA ABDULAI, INUSAH"
+    },
+    {
+      "min": 74,
+      "entra": "HERNANDEZ LAS HERAS, VICTOR",
+      "sale": "VACA ROSSELL, JOSEP CARLOS"
+    },
+    {
+      "min": 89,
+      "entra": "SERRANO MUGICA, OIER",
+      "sale": "MARCA TURBI, BRUNO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 57,
+      "entra": "MONFORTE SAENZ, LUIS",
+      "sale": "ANNI AIBOUD, ABDELLAH"
+    },
+    {
+      "min": 57,
+      "entra": "VALBUENA GUDIÑO, FRANCISCO JOSE",
+      "sale": "GARCIA MIGUEL, PEDRO"
+    },
+    {
+      "min": 66,
+      "entra": "FUENTES OVEJAS, MANUEL",
+      "sale": "LAGLAOUI EL GHERYB, ADAM"
+    },
+    {
+      "min": 66,
+      "entra": "APODACA RAME, MATEO",
+      "sale": "SANZ RUIZ ESQUIDE, SERGIO"
+    },
+    {
+      "min": 84,
+      "entra": "LARA PAREDES, JHENDERSON",
+      "sale": "DE CORTA MARTINEZ, RODRIGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARROYO SORLI, ETHANIEL": 90,
+    "CARSTEA, ANDREI MANUEL": 46,
+    "GARCIA ORTI, BRUNO": 90,
+    "GARBA ABDULAI, INUSAH": 66,
+    "ALLOUNI ALLOUNI, YASSIR": 90,
+    "MARCA TURBI, BRUNO": 89,
+    "ORDEN ESPILA, PABLO": 90,
+    "VACA ROSSELL, JOSEP CARLOS": 74,
+    "SHTEMBARI AGARAJ, ALEX": 90,
+    "MOLOVAE ESPINOZA, JOSEAN": 66,
+    "BAYEME MAYE, DENIS JAVIER": 90,
+    "MARTINEZ AMELIBIA, JORGE": 44,
+    "HERCE NAVARRO, SERGIO": 24,
+    "BAURRE EL MOUMN, ELHOUSSIN": 24,
+    "HERNANDEZ LAS HERAS, VICTOR": 16,
+    "SERRANO MUGICA, OIER": 1,
+    "RIO DIAZ DE GUEREÑU, EÑAUT": 90,
+    "ROJO MARTIN P, ADRIAN": 90,
+    "DE CORTA MARTINEZ, RODRIGO": 84,
+    "ROMERO GARCIA, LUIS": 90,
+    "FERNANDEZ L PEREZ, PABLO": 90,
+    "LAGLAOUI EL GHERYB, ADAM": 66,
+    "GARCIA MIGUEL, PEDRO": 57,
+    "ANNI AIBOUD, ABDELLAH": 57,
+    "MARTINEZ SUSO, MARIO": 90,
+    "SANZ RUIZ ESQUIDE, SERGIO": 66,
+    "BURGOS VILAMOR, BRUNO": 90,
+    "MONFORTE SAENZ, LUIS": 33,
+    "VALBUENA GUDIÑO, FRANCISCO JOSE": 33,
+    "FUENTES OVEJAS, MANUEL": 24,
+    "APODACA RAME, MATEO": 24,
+    "LARA PAREDES, JHENDERSON": 6
+  },
+  "portero_local": "ARROYO SORLI, ETHANIEL",
+  "portero_visitante": "RIO DIAZ DE GUEREÑU, EÑAUT",
+  "dorsales_local": {
+    "ARROYO SORLI, ETHANIEL": 13,
+    "CARSTEA, ANDREI MANUEL": 3,
+    "GARCIA ORTI, BRUNO": 6,
+    "GARBA ABDULAI, INUSAH": 7,
+    "ALLOUNI ALLOUNI, YASSIR": 8,
+    "MARCA TURBI, BRUNO": 9,
+    "ORDEN ESPILA, PABLO": 10,
+    "VACA ROSSELL, JOSEP CARLOS": 12,
+    "SHTEMBARI AGARAJ, ALEX": 14,
+    "MOLOVAE ESPINOZA, JOSEAN": 17,
+    "BAYEME MAYE, DENIS JAVIER": 19
+  },
+  "dorsales_visitante": {
+    "RIO DIAZ DE GUEREÑU, EÑAUT": 1,
+    "ROJO MARTIN P, ADRIAN": 2,
+    "DE CORTA MARTINEZ, RODRIGO": 3,
+    "ROMERO GARCIA, LUIS": 4,
+    "FERNANDEZ L PEREZ, PABLO": 5,
+    "LAGLAOUI EL GHERYB, ADAM": 6,
+    "GARCIA MIGUEL, PEDRO": 7,
+    "ANNI AIBOUD, ABDELLAH": 8,
+    "MARTINEZ SUSO, MARIO": 9,
+    "SANZ RUIZ ESQUIDE, SERGIO": 10,
+    "BURGOS VILAMOR, BRUNO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
