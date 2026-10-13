@@ -1,0 +1,297 @@
+{
+  "acta_id": "R_259967",
+  "filename": "Acta_R_259967.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "11-10-2026",
+  "hora": "17:00",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "NÁXARA",
+  "equipo_visitante": "BERCEO",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "LARHLID , MIMOUN",
+    "Árbitro Asistente",
+    "MERELO MARTÍN, MIGUEL",
+    "Árbitro Asistente",
+    "BALBAS RODRIGUEZ, SERGIO"
+  ],
+  "estadio": "C.M. LA SALERA (NAJERA)",
+  "ciudad": "Nájera",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "PEREZ ALONSO, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 22,
+      "jugador": "ALVAREZ ORTUBE, HECTOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "SANTOS PASCUAL, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "PEREZ ALONSO, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "CALATAYUD LAHERA, IGNACIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 85,
+      "jugador": "MARTINEZ IÑIGUEZ, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 81,
+      "jugador": "POLO BERNAL, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "MARTINEZ-LOSA CASTILLO, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "NAVAS SANCHEZ, GONZALO",
+  "entrenador_visitante": "TORRES SOTO, IGNACIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAEZ GONZALEZ, FERNANDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CASTROVIEJO ELVIRA, LUIS M",
+  "delegado_equipo_visitante": "CASTILLO RIO, JAVIER",
+  "titulares_local": [
+    "CENTENO BAJO, JUAN P",
+    "ROJO MARTINEZ, ALEX",
+    "POLO BERNAL, PABLO",
+    "SANTOS PASCUAL, ADRIAN",
+    "CANO ROSALES, LUCAS",
+    "CALATAYUD LAHERA, IGNACIO",
+    "ESQUIDE MARTINEZ, CESAR",
+    "RODRIGUEZ SAEZ, IVAN",
+    "LITIM LARHLID, MOHAMMED",
+    "LARHLID LARHLID, ACHRAF",
+    "SANTOS SAENZ, IBAI"
+  ],
+  "titulares_visitante": [
+    "SARABIA CASERO, RUBEN",
+    "GARCIA CORRES, PABLO",
+    "CONDE BERMEJO, LUIS",
+    "PEREZ ALONSO, MARIO",
+    "MARTINEZ PEREZ, LUIS",
+    "MARTINEZ SANTAMARIA, CESAR",
+    "PARRA AROCA, DIEGO",
+    "TORRECILLA ZANGRONIZ, ALBERTO",
+    "MARTINEZ-LOSA CASTILLO, DIEGO",
+    "ALVAREZ ORTUBE, HECTOR",
+    "TOBIAS BEZARES, JORGE"
+  ],
+  "suplentes_local": [
+    "GUTIERREZ NIETO, JAVIER",
+    "OLANO ESPIGA, PABLO",
+    "CASTRESANA BARRON, ALVARO",
+    "FERNANDEZ PEREZ, IVAN",
+    "BOZZANO SOSA, BAUTISTA",
+    "SCARCELLA FERRER, LUCA"
+  ],
+  "suplentes_visitante": [
+    "PLATAS ALVERO, TIRSO",
+    "ECHAPRESTO PEREZ, MILLAN",
+    "GRIJALBA VICENTE, RAUL CARLOS",
+    "ARMIÑANZAS MERINO, LUCAS",
+    "FACES NICOLAS, VICENTE",
+    "MARTINEZ IÑIGUEZ, DANIEL",
+    "SAENZ FERNANDEZ, PABLO"
+  ],
+  "convocados_sin_jugar_local": [
+    "CASTRESANA BARRON, ALVARO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PLATAS ALVERO, TIRSO",
+    "ARMIÑANZAS MERINO, LUCAS"
+  ],
+  "jugadores_local": [
+    "CENTENO BAJO, JUAN P",
+    "ROJO MARTINEZ, ALEX",
+    "POLO BERNAL, PABLO",
+    "SANTOS PASCUAL, ADRIAN",
+    "CANO ROSALES, LUCAS",
+    "CALATAYUD LAHERA, IGNACIO",
+    "ESQUIDE MARTINEZ, CESAR",
+    "RODRIGUEZ SAEZ, IVAN",
+    "LITIM LARHLID, MOHAMMED",
+    "LARHLID LARHLID, ACHRAF",
+    "SANTOS SAENZ, IBAI",
+    "GUTIERREZ NIETO, JAVIER",
+    "FERNANDEZ PEREZ, IVAN",
+    "BOZZANO SOSA, BAUTISTA",
+    "OLANO ESPIGA, PABLO",
+    "SCARCELLA FERRER, LUCA"
+  ],
+  "jugadores_visitante": [
+    "SARABIA CASERO, RUBEN",
+    "GARCIA CORRES, PABLO",
+    "CONDE BERMEJO, LUIS",
+    "PEREZ ALONSO, MARIO",
+    "MARTINEZ PEREZ, LUIS",
+    "MARTINEZ SANTAMARIA, CESAR",
+    "PARRA AROCA, DIEGO",
+    "TORRECILLA ZANGRONIZ, ALBERTO",
+    "MARTINEZ-LOSA CASTILLO, DIEGO",
+    "ALVAREZ ORTUBE, HECTOR",
+    "TOBIAS BEZARES, JORGE",
+    "SAENZ FERNANDEZ, PABLO",
+    "ECHAPRESTO PEREZ, MILLAN",
+    "MARTINEZ IÑIGUEZ, DANIEL",
+    "FACES NICOLAS, VICENTE",
+    "GRIJALBA VICENTE, RAUL CARLOS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 65,
+      "entra": "GUTIERREZ NIETO, JAVIER",
+      "sale": "SANTOS PASCUAL, ADRIAN"
+    },
+    {
+      "min": 73,
+      "entra": "FERNANDEZ PEREZ, IVAN",
+      "sale": "LITIM LARHLID, MOHAMMED"
+    },
+    {
+      "min": 73,
+      "entra": "BOZZANO SOSA, BAUTISTA",
+      "sale": "LARHLID LARHLID, ACHRAF"
+    },
+    {
+      "min": 88,
+      "entra": "OLANO ESPIGA, PABLO",
+      "sale": "RODRIGUEZ SAEZ, IVAN"
+    },
+    {
+      "min": 88,
+      "entra": "SCARCELLA FERRER, LUCA",
+      "sale": "CANO ROSALES, LUCAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 67,
+      "entra": "SAENZ FERNANDEZ, PABLO",
+      "sale": "MARTINEZ PEREZ, LUIS"
+    },
+    {
+      "min": 84,
+      "entra": "ECHAPRESTO PEREZ, MILLAN",
+      "sale": "PARRA AROCA, DIEGO"
+    },
+    {
+      "min": 84,
+      "entra": "MARTINEZ IÑIGUEZ, DANIEL",
+      "sale": "GARCIA CORRES, PABLO"
+    },
+    {
+      "min": 86,
+      "entra": "FACES NICOLAS, VICENTE",
+      "sale": "MARTINEZ SANTAMARIA, CESAR"
+    },
+    {
+      "min": 86,
+      "entra": "GRIJALBA VICENTE, RAUL CARLOS",
+      "sale": "ALVAREZ ORTUBE, HECTOR"
+    }
+  ],
+  "minutos_jugadores": {
+    "CENTENO BAJO, JUAN P": 90,
+    "ROJO MARTINEZ, ALEX": 90,
+    "POLO BERNAL, PABLO": 90,
+    "SANTOS PASCUAL, ADRIAN": 65,
+    "CANO ROSALES, LUCAS": 88,
+    "CALATAYUD LAHERA, IGNACIO": 90,
+    "ESQUIDE MARTINEZ, CESAR": 90,
+    "RODRIGUEZ SAEZ, IVAN": 88,
+    "LITIM LARHLID, MOHAMMED": 73,
+    "LARHLID LARHLID, ACHRAF": 73,
+    "SANTOS SAENZ, IBAI": 90,
+    "GUTIERREZ NIETO, JAVIER": 25,
+    "FERNANDEZ PEREZ, IVAN": 17,
+    "BOZZANO SOSA, BAUTISTA": 17,
+    "OLANO ESPIGA, PABLO": 2,
+    "SCARCELLA FERRER, LUCA": 2,
+    "SARABIA CASERO, RUBEN": 90,
+    "GARCIA CORRES, PABLO": 84,
+    "CONDE BERMEJO, LUIS": 90,
+    "PEREZ ALONSO, MARIO": 90,
+    "MARTINEZ PEREZ, LUIS": 67,
+    "MARTINEZ SANTAMARIA, CESAR": 86,
+    "PARRA AROCA, DIEGO": 84,
+    "TORRECILLA ZANGRONIZ, ALBERTO": 90,
+    "MARTINEZ-LOSA CASTILLO, DIEGO": 90,
+    "ALVAREZ ORTUBE, HECTOR": 86,
+    "TOBIAS BEZARES, JORGE": 90,
+    "SAENZ FERNANDEZ, PABLO": 23,
+    "ECHAPRESTO PEREZ, MILLAN": 6,
+    "MARTINEZ IÑIGUEZ, DANIEL": 6,
+    "FACES NICOLAS, VICENTE": 4,
+    "GRIJALBA VICENTE, RAUL CARLOS": 4
+  },
+  "portero_local": "CENTENO BAJO, JUAN P",
+  "portero_visitante": "SARABIA CASERO, RUBEN",
+  "dorsales_local": {
+    "CENTENO BAJO, JUAN P": 25,
+    "ROJO MARTINEZ, ALEX": 4,
+    "POLO BERNAL, PABLO": 5,
+    "SANTOS PASCUAL, ADRIAN": 6,
+    "CANO ROSALES, LUCAS": 7,
+    "CALATAYUD LAHERA, IGNACIO": 10,
+    "ESQUIDE MARTINEZ, CESAR": 12,
+    "RODRIGUEZ SAEZ, IVAN": 15,
+    "LITIM LARHLID, MOHAMMED": 18,
+    "LARHLID LARHLID, ACHRAF": 19,
+    "SANTOS SAENZ, IBAI": 22
+  },
+  "dorsales_visitante": {
+    "SARABIA CASERO, RUBEN": 13,
+    "GARCIA CORRES, PABLO": 4,
+    "CONDE BERMEJO, LUIS": 6,
+    "PEREZ ALONSO, MARIO": 7,
+    "MARTINEZ PEREZ, LUIS": 9,
+    "MARTINEZ SANTAMARIA, CESAR": 10,
+    "PARRA AROCA, DIEGO": 12,
+    "TORRECILLA ZANGRONIZ, ALBERTO": 14,
+    "MARTINEZ-LOSA CASTILLO, DIEGO": 16,
+    "ALVAREZ ORTUBE, HECTOR": 17,
+    "TOBIAS BEZARES, JORGE": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
