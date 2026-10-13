@@ -1,0 +1,310 @@
+{
+  "acta_id": "E_10043074",
+  "filename": "Acta_E_10043074.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "03-10-2026",
+  "hora": "17:00",
+  "categoria": "CAMPEONATO DE TERCERA FEDERACIÓN / RFEF HIRUGARREN MAILA (4. MULTZOA / GRUPO 4)",
+  "equipo_local": "AURRERA DE VITORIA, CD A",
+  "equipo_visitante": "ERANDIO A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BIS BENITO DEL VALLE, IÑIGO",
+    "Árbitro Asistente",
+    "PÉREZ VALLE, ENDIKA",
+    "Árbitro Asistente",
+    "IRIONDO LEKUE, ALVARO"
+  ],
+  "estadio": "OLARANBE Nº 1",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 32,
+      "jugador": "PEREZ ROJO, JOSU",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "MARTINEZ ARRIBAS, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "MARTINEZ ARRIBAS, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "MARTINEZ ARRIBAS, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 59,
+      "jugador": "ARTABE SANCHEZ, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "GARMENDIA URIEL, AITOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "LANDETA VITORICA, ARITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "CRESPO RAMOS, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "HITA JIMENEZ, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 89,
+      "jugador": "CRESPO RAMOS, MARKEL",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LARRABE BILBAO, MIKEL",
+  "entrenador_visitante": "GARMENDIA URIEL, AITOR",
+  "segundo_entrenador_local": "OTEIZA GARCIA, MIGUEL",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RODRIGUEZ IZQUIERDO, FRANCISCO JAVIER",
+  "delegado_equipo_visitante": "HITA JIMENEZ, DANIEL",
+  "titulares_local": [
+    "ANGULO RUIZ, DANIEL",
+    "GASTAMINZA LOPEZ DE LUZURIAGA, HODEI",
+    "GARCIA LEON, JORGE",
+    "ASURMENDI SAENZ, MARTIN",
+    "BASALDUA OTXOA, ENEKO",
+    "ARIZA FERNANDEZ, UNAX",
+    "IBAÑEZ ALCANTARA, ANDER",
+    "AOSTRI RAMOS, BEÑAT",
+    "MARTINEZ ARRIBAS, MARKEL",
+    "GALDOS OLALDE, BITTOR",
+    "RODRIGUEZ LOPEZ, EGOITZ"
+  ],
+  "titulares_visitante": [
+    "ARGOITIA MENDIZABAL, AGER",
+    "JUSTINIANO GONGORA, RAUL SHNAIDER",
+    "LANDETA VITORICA, ARITZ",
+    "VAZQUEZ RODRIGUEZ, AITOR",
+    "AGIRRE BERASATEGI, MIKELDI",
+    "PEREZ ROJO, JOSU",
+    "ROUCO SAGASTIZABAL, IKER",
+    "ZUGAZAGA VERGEL, IBAI",
+    "ARTABE SANCHEZ, ANDER",
+    "MARROQUIN SANCHEZ, ALVARO",
+    "BILBAO RODRIGUEZ, IKER"
+  ],
+  "suplentes_local": [
+    "CARBAJO BOLINAGA, JON",
+    "MARTINEZ ARRIBAS, JOEL",
+    "IRIONDO VALDIVIELSO, AITOR",
+    "HERNANDEZ GARCIA, IÑIGO",
+    "ESTEBAN RODRIGUEZ, MARKEL",
+    "LADRERA SAN JUAN, AITOR",
+    "LOPEZ DE JUAN ABAD PORTILLA, URKO",
+    "TIRAPU ALTUNA, AIMAR",
+    "ARRONIZ ORTIZ DE GUZMAN, JON"
+  ],
+  "suplentes_visitante": [
+    "CAMPO LOZA, GORKA",
+    "RASCHE GARCIA, MARTIN",
+    "ARRILLAGA TOTORICA, LANDER",
+    "GONZALO LAGO, ANDER",
+    "CORBELLA TRUJILLANO, IBON",
+    "SANTISTEBAN LUZURIAGA, KOLDOBIKA",
+    "GILETE SANTOS, MARKEL",
+    "BEARAN ZATICA, IBAI",
+    "CRESPO RAMOS, MARKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "CARBAJO BOLINAGA, JON",
+    "MARTINEZ ARRIBAS, JOEL",
+    "HERNANDEZ GARCIA, IÑIGO",
+    "LOPEZ DE JUAN ABAD PORTILLA, URKO",
+    "ARRONIZ ORTIZ DE GUZMAN, JON"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CAMPO LOZA, GORKA",
+    "ARRILLAGA TOTORICA, LANDER",
+    "CORBELLA TRUJILLANO, IBON",
+    "GILETE SANTOS, MARKEL",
+    "BEARAN ZATICA, IBAI"
+  ],
+  "jugadores_local": [
+    "ANGULO RUIZ, DANIEL",
+    "GASTAMINZA LOPEZ DE LUZURIAGA, HODEI",
+    "GARCIA LEON, JORGE",
+    "ASURMENDI SAENZ, MARTIN",
+    "BASALDUA OTXOA, ENEKO",
+    "ARIZA FERNANDEZ, UNAX",
+    "IBAÑEZ ALCANTARA, ANDER",
+    "AOSTRI RAMOS, BEÑAT",
+    "MARTINEZ ARRIBAS, MARKEL",
+    "GALDOS OLALDE, BITTOR",
+    "RODRIGUEZ LOPEZ, EGOITZ",
+    "TIRAPU ALTUNA, AIMAR",
+    "LADRERA SAN JUAN, AITOR",
+    "IRIONDO VALDIVIELSO, AITOR",
+    "ESTEBAN RODRIGUEZ, MARKEL"
+  ],
+  "jugadores_visitante": [
+    "ARGOITIA MENDIZABAL, AGER",
+    "JUSTINIANO GONGORA, RAUL SHNAIDER",
+    "LANDETA VITORICA, ARITZ",
+    "VAZQUEZ RODRIGUEZ, AITOR",
+    "AGIRRE BERASATEGI, MIKELDI",
+    "PEREZ ROJO, JOSU",
+    "ROUCO SAGASTIZABAL, IKER",
+    "ZUGAZAGA VERGEL, IBAI",
+    "ARTABE SANCHEZ, ANDER",
+    "MARROQUIN SANCHEZ, ALVARO",
+    "BILBAO RODRIGUEZ, IKER",
+    "CRESPO RAMOS, MARKEL",
+    "RASCHE GARCIA, MARTIN",
+    "SANTISTEBAN LUZURIAGA, KOLDOBIKA",
+    "GONZALO LAGO, ANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 13,
+      "entra": "TIRAPU ALTUNA, AIMAR",
+      "sale": "IBAÑEZ ALCANTARA, ANDER"
+    },
+    {
+      "min": 64,
+      "entra": "LADRERA SAN JUAN, AITOR",
+      "sale": "ARIZA FERNANDEZ, UNAX"
+    },
+    {
+      "min": 64,
+      "entra": "IRIONDO VALDIVIELSO, AITOR",
+      "sale": "GARCIA LEON, JORGE"
+    },
+    {
+      "min": 87,
+      "entra": "ESTEBAN RODRIGUEZ, MARKEL",
+      "sale": "AOSTRI RAMOS, BEÑAT"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 69,
+      "entra": "CRESPO RAMOS, MARKEL",
+      "sale": "ZUGAZAGA VERGEL, IBAI"
+    },
+    {
+      "min": 69,
+      "entra": "RASCHE GARCIA, MARTIN",
+      "sale": "BILBAO RODRIGUEZ, IKER"
+    },
+    {
+      "min": 77,
+      "entra": "SANTISTEBAN LUZURIAGA, KOLDOBIKA",
+      "sale": "ROUCO SAGASTIZABAL, IKER"
+    },
+    {
+      "min": 77,
+      "entra": "GONZALO LAGO, ANDER",
+      "sale": "PEREZ ROJO, JOSU"
+    }
+  ],
+  "minutos_jugadores": {
+    "ANGULO RUIZ, DANIEL": 90,
+    "GASTAMINZA LOPEZ DE LUZURIAGA, HODEI": 90,
+    "GARCIA LEON, JORGE": 64,
+    "ASURMENDI SAENZ, MARTIN": 90,
+    "BASALDUA OTXOA, ENEKO": 90,
+    "ARIZA FERNANDEZ, UNAX": 64,
+    "IBAÑEZ ALCANTARA, ANDER": 13,
+    "AOSTRI RAMOS, BEÑAT": 87,
+    "MARTINEZ ARRIBAS, MARKEL": 90,
+    "GALDOS OLALDE, BITTOR": 90,
+    "RODRIGUEZ LOPEZ, EGOITZ": 90,
+    "TIRAPU ALTUNA, AIMAR": 77,
+    "LADRERA SAN JUAN, AITOR": 26,
+    "IRIONDO VALDIVIELSO, AITOR": 26,
+    "ESTEBAN RODRIGUEZ, MARKEL": 3,
+    "ARGOITIA MENDIZABAL, AGER": 90,
+    "JUSTINIANO GONGORA, RAUL SHNAIDER": 90,
+    "LANDETA VITORICA, ARITZ": 90,
+    "VAZQUEZ RODRIGUEZ, AITOR": 90,
+    "AGIRRE BERASATEGI, MIKELDI": 90,
+    "PEREZ ROJO, JOSU": 77,
+    "ROUCO SAGASTIZABAL, IKER": 77,
+    "ZUGAZAGA VERGEL, IBAI": 69,
+    "ARTABE SANCHEZ, ANDER": 90,
+    "MARROQUIN SANCHEZ, ALVARO": 90,
+    "BILBAO RODRIGUEZ, IKER": 69,
+    "CRESPO RAMOS, MARKEL": 21,
+    "RASCHE GARCIA, MARTIN": 21,
+    "SANTISTEBAN LUZURIAGA, KOLDOBIKA": 13,
+    "GONZALO LAGO, ANDER": 13
+  },
+  "portero_local": "ANGULO RUIZ, DANIEL",
+  "portero_visitante": "ARGOITIA MENDIZABAL, AGER",
+  "dorsales_local": {
+    "ANGULO RUIZ, DANIEL": 13,
+    "GASTAMINZA LOPEZ DE LUZURIAGA, HODEI": 6,
+    "GARCIA LEON, JORGE": 9,
+    "ASURMENDI SAENZ, MARTIN": 14,
+    "BASALDUA OTXOA, ENEKO": 17,
+    "ARIZA FERNANDEZ, UNAX": 20,
+    "IBAÑEZ ALCANTARA, ANDER": 21,
+    "AOSTRI RAMOS, BEÑAT": 22,
+    "MARTINEZ ARRIBAS, MARKEL": 24,
+    "GALDOS OLALDE, BITTOR": 25,
+    "RODRIGUEZ LOPEZ, EGOITZ": 27
+  },
+  "dorsales_visitante": {
+    "ARGOITIA MENDIZABAL, AGER": 13,
+    "JUSTINIANO GONGORA, RAUL SHNAIDER": 4,
+    "LANDETA VITORICA, ARITZ": 5,
+    "VAZQUEZ RODRIGUEZ, AITOR": 6,
+    "AGIRRE BERASATEGI, MIKELDI": 8,
+    "PEREZ ROJO, JOSU": 9,
+    "ROUCO SAGASTIZABAL, IKER": 10,
+    "ZUGAZAGA VERGEL, IBAI": 11,
+    "ARTABE SANCHEZ, ANDER": 12,
+    "MARROQUIN SANCHEZ, ALVARO": 15,
+    "BILBAO RODRIGUEZ, IKER": 17
+  },
+  "suspendidos": [
+    "CRESPO RAMOS, MARKEL"
+  ]
+}
