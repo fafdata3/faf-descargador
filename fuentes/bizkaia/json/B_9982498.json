@@ -1,0 +1,243 @@
+{
+  "acta_id": "B_9982498",
+  "filename": "Acta_B_9982498.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 21,
+  "fecha": "28-02-2026",
+  "hora": "11:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ETXEBARRI A",
+  "equipo_visitante": "BASCONIA A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANCHEZ GUTIERREZ, MARKEL"
+  ],
+  "estadio": "MUNICIPAL DE ETXEBAR",
+  "ciudad": "",
+  "goleadores": [
+    {
+      "minuto": 57,
+      "jugador": "BENATIA LOPEZ, ISAM",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "MEDEL MOLINERO, SAÚL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "BENATIA LOPEZ, ISAM",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "OLMOS RUIZ, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ BALSERA, ERLAITZ",
+  "entrenador_visitante": "GALDAMES IBAÑEZ, JOSE MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CID HOMPANERA, ALEX",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CID HOMPANERA, ALEX",
+  "delegado_equipo_visitante": "SAGREDO FUENTE, VICTOR",
+  "titulares_local": [
+    "ANTOLIN HERRAEZ, ION",
+    "SACRISTAN MARTIN, GABRIEL",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ARTOLA BROCH, UNAI",
+    "MURUA SERNA, JULEN",
+    "MEDEL MOLINERO, SAÚL",
+    "GONZALEZ RUEDA, JON",
+    "OLMOS RUIZ, MARKEL",
+    "FRAILE BERNARDOS, DANEL"
+  ],
+  "titulares_visitante": [
+    "GUARROTXENA ECHAIDE, ANER",
+    "HUERGA GREGORIO, JON",
+    "YARAAHALLAH SALEK, MOHAMED",
+    "LARRAGOITI LEON, ENEKO",
+    "CANO TABARES, JAIDER FELIPE",
+    "SAGREDO VALDERRAMA, AIMAR",
+    "MARTIN LADRON DE GUEVARA, LIER",
+    "SAN JOSE JIMENEZ, IKER",
+    "CORTES ALARCON, IKER",
+    "PINO FERNANDEZ, TADEO JOAQUIN",
+    "BENATIA LOPEZ, ISAM"
+  ],
+  "suplentes_local": [
+    "HIGUERO URIBE, LIER",
+    "LAIZ JIMENO, JON",
+    "PAREDES PANIAGUA, MARKEL",
+    "RENTERIA BLANCO, IZEI",
+    "ALONSO VERGARA, MARKEL",
+    "DEL TESO CANDIL, MARKEL",
+    "DE LA FUENTE GARCIA, MARKEL"
+  ],
+  "suplentes_visitante": [
+    "ALONSO BORGE, ALVARO",
+    "BILLALABEITIA URRUTIKOETXEA, ENAITZ",
+    "AZURMENDI ARCA, ENAITZ",
+    "COELLO LARRINAGA, OINATZ"
+  ],
+  "convocados_sin_jugar_local": [
+    "LAIZ JIMENO, JON",
+    "PAREDES PANIAGUA, MARKEL",
+    "ALONSO VERGARA, MARKEL",
+    "DEL TESO CANDIL, MARKEL",
+    "DE LA FUENTE GARCIA, MARKEL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ANTOLIN HERRAEZ, ION",
+    "SACRISTAN MARTIN, GABRIEL",
+    "HERNANDEZ SANTISTEBAN, OIER",
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER",
+    "FERNANDEZ PAÑOS, AIMAR",
+    "ARTOLA BROCH, UNAI",
+    "MURUA SERNA, JULEN",
+    "MEDEL MOLINERO, SAÚL",
+    "GONZALEZ RUEDA, JON",
+    "OLMOS RUIZ, MARKEL",
+    "FRAILE BERNARDOS, DANEL",
+    "HIGUERO URIBE, LIER",
+    "RENTERIA BLANCO, IZEI"
+  ],
+  "jugadores_visitante": [
+    "GUARROTXENA ECHAIDE, ANER",
+    "HUERGA GREGORIO, JON",
+    "YARAAHALLAH SALEK, MOHAMED",
+    "LARRAGOITI LEON, ENEKO",
+    "CANO TABARES, JAIDER FELIPE",
+    "SAGREDO VALDERRAMA, AIMAR",
+    "MARTIN LADRON DE GUEVARA, LIER",
+    "SAN JOSE JIMENEZ, IKER",
+    "CORTES ALARCON, IKER",
+    "PINO FERNANDEZ, TADEO JOAQUIN",
+    "BENATIA LOPEZ, ISAM",
+    "COELLO LARRINAGA, OINATZ",
+    "ALONSO BORGE, ALVARO",
+    "AZURMENDI ARCA, ENAITZ",
+    "BILLALABEITIA URRUTIKOETXEA, ENAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "HIGUERO URIBE, LIER",
+      "sale": "FRAILE BERNARDOS, DANEL"
+    },
+    {
+      "min": 65,
+      "entra": "RENTERIA BLANCO, IZEI",
+      "sale": "GONZALEZ RUEDA, JON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 63,
+      "entra": "COELLO LARRINAGA, OINATZ",
+      "sale": "LARRAGOITI LEON, ENEKO"
+    },
+    {
+      "min": 70,
+      "entra": "ALONSO BORGE, ALVARO",
+      "sale": "MARTIN LADRON DE GUEVARA, LIER"
+    },
+    {
+      "min": 70,
+      "entra": "AZURMENDI ARCA, ENAITZ",
+      "sale": "SAN JOSE JIMENEZ, IKER"
+    },
+    {
+      "min": 75,
+      "entra": "BILLALABEITIA URRUTIKOETXEA, ENAITZ",
+      "sale": "SAGREDO VALDERRAMA, AIMAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "ANTOLIN HERRAEZ, ION": 90,
+    "SACRISTAN MARTIN, GABRIEL": 90,
+    "HERNANDEZ SANTISTEBAN, OIER": 90,
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER": 90,
+    "FERNANDEZ PAÑOS, AIMAR": 90,
+    "ARTOLA BROCH, UNAI": 90,
+    "MURUA SERNA, JULEN": 90,
+    "MEDEL MOLINERO, SAÚL": 90,
+    "GONZALEZ RUEDA, JON": 65,
+    "OLMOS RUIZ, MARKEL": 90,
+    "FRAILE BERNARDOS, DANEL": 55,
+    "HIGUERO URIBE, LIER": 35,
+    "RENTERIA BLANCO, IZEI": 25,
+    "GUARROTXENA ECHAIDE, ANER": 90,
+    "HUERGA GREGORIO, JON": 90,
+    "YARAAHALLAH SALEK, MOHAMED": 90,
+    "LARRAGOITI LEON, ENEKO": 63,
+    "CANO TABARES, JAIDER FELIPE": 90,
+    "SAGREDO VALDERRAMA, AIMAR": 75,
+    "MARTIN LADRON DE GUEVARA, LIER": 70,
+    "SAN JOSE JIMENEZ, IKER": 70,
+    "CORTES ALARCON, IKER": 90,
+    "PINO FERNANDEZ, TADEO JOAQUIN": 90,
+    "BENATIA LOPEZ, ISAM": 90,
+    "COELLO LARRINAGA, OINATZ": 27,
+    "ALONSO BORGE, ALVARO": 20,
+    "AZURMENDI ARCA, ENAITZ": 20,
+    "BILLALABEITIA URRUTIKOETXEA, ENAITZ": 15
+  },
+  "portero_local": "ANTOLIN HERRAEZ, ION",
+  "portero_visitante": "GUARROTXENA ECHAIDE, ANER",
+  "dorsales_local": {
+    "ANTOLIN HERRAEZ, ION": 1,
+    "SACRISTAN MARTIN, GABRIEL": 3,
+    "HERNANDEZ SANTISTEBAN, OIER": 6,
+    "MIDENCE AMAYA, FRANCISCO ALEXANDER": 9,
+    "FERNANDEZ PAÑOS, AIMAR": 10,
+    "ARTOLA BROCH, UNAI": 15,
+    "MURUA SERNA, JULEN": 16,
+    "MEDEL MOLINERO, SAÚL": 17,
+    "GONZALEZ RUEDA, JON": 21,
+    "OLMOS RUIZ, MARKEL": 24,
+    "FRAILE BERNARDOS, DANEL": 25
+  },
+  "dorsales_visitante": {
+    "GUARROTXENA ECHAIDE, ANER": 1,
+    "HUERGA GREGORIO, JON": 2,
+    "YARAAHALLAH SALEK, MOHAMED": 5,
+    "LARRAGOITI LEON, ENEKO": 8,
+    "CANO TABARES, JAIDER FELIPE": 10,
+    "SAGREDO VALDERRAMA, AIMAR": 14,
+    "MARTIN LADRON DE GUEVARA, LIER": 15,
+    "SAN JOSE JIMENEZ, IKER": 16,
+    "CORTES ALARCON, IKER": 17,
+    "PINO FERNANDEZ, TADEO JOAQUIN": 18,
+    "BENATIA LOPEZ, ISAM": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
