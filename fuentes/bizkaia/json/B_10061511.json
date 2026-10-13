@@ -1,0 +1,313 @@
+{
+  "acta_id": "B_10061511",
+  "filename": "Acta_B_10061511.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "11-10-2026",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "BALMASEDA A",
+  "equipo_visitante": "URDULIZ A",
+  "goles_local": 5,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "LANCEROS CABALLERO, ALVARO"
+  ],
+  "estadio": "SALINILLAS",
+  "ciudad": "BALMASEDA-48800",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "ANGULO VELA, ARITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "COTIGA MATEI, ANDREI IOAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "AMARO ABANDO, KENAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "AZANOUN TAHIR, IMRAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 64,
+      "jugador": "SULIBARRIA SAGASTIZABAL, ENDIKA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "ANGULO VELA, ARITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "BACHAR OUARGALI, YOUSSEF",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 48,
+      "jugador": "SAINZ MATO, XABIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "CHAVARRI BERASALUCE, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "BACHAR OUARGALI, YOUSSEF",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "VELARDE MELENDEZ, MARKO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 11,
+      "jugador": "ROQUE URRECHAGA, KEMEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "DIOP KABIKETA, SUA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "TEJADA CABRERA, MARTÍN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "NAVARRO LÓPEZ, XABIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "KVERNADZE, AKAKI",
+  "entrenador_visitante": "GEGUNDEZ GARCIA, GORKA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "OSANTE ZULUETA, LOREA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "OSANTE ZULUETA, LOREA",
+  "delegado_equipo_visitante": "AYALA FERNANDEZ , IBAI",
+  "titulares_local": [
+    "VELARDE MELENDEZ, MARKO",
+    "FUENTES URRUTIA, KOLDO",
+    "RAMIREZ GONZALEZ, OIER",
+    "ANGULO VELA, ARITZ",
+    "BACHAR OUARGALI, YOUSSEF",
+    "MORAL GUTIERREZ, AITOR",
+    "ARTOLATXIPI PEREDA, IÑIGO",
+    "FRESNO JAUREGUI, ANDER",
+    "SAINZ MATO, XABIER",
+    "IRANZO PEÑA, NAKOR",
+    "AZANOUN TAHIR, IMRAN"
+  ],
+  "titulares_visitante": [
+    "COB BOTELLO, IÑAKI",
+    "MARTINEZ DUARTE, AITOR",
+    "CRUZ CASAS, YEIKO",
+    "COTIGA MATEI, ANDREI IOAN",
+    "DIOP KABIKETA, SUA",
+    "ROQUE URRECHAGA, KEMEN",
+    "AMARO ABANDO, KENAI",
+    "AROSA GONZÁLEZ, LEO",
+    "MADURGA MARTIN, ARITZ",
+    "ARRESEIGOR MARDARAS, LIHER",
+    "NAVARRO LÓPEZ, XABIER"
+  ],
+  "suplentes_local": [
+    "MERINO ALEN, IKER",
+    "CHAVARRI BERASALUCE, IKER",
+    "SULIBARRIA SAGASTIZABAL, ENDIKA",
+    "HURTADO TRUEBA, UNAX",
+    "BONILLA HERRERO, IKER",
+    "CÁMARA SANCHEZ, JON"
+  ],
+  "suplentes_visitante": [
+    "SAROBE BERAZA, ARITZ",
+    "TEJADA CABRERA, MARTÍN",
+    "CHAHIB EL HAJJI, ISMAEL",
+    "IRAZU FERNANDEZ, GORKA",
+    "BILBAO DELBEE, AIMAR"
+  ],
+  "convocados_sin_jugar_local": [
+    "MERINO ALEN, IKER",
+    "HURTADO TRUEBA, UNAX"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "SAROBE BERAZA, ARITZ",
+    "IRAZU FERNANDEZ, GORKA",
+    "BILBAO DELBEE, AIMAR"
+  ],
+  "jugadores_local": [
+    "VELARDE MELENDEZ, MARKO",
+    "FUENTES URRUTIA, KOLDO",
+    "RAMIREZ GONZALEZ, OIER",
+    "ANGULO VELA, ARITZ",
+    "BACHAR OUARGALI, YOUSSEF",
+    "MORAL GUTIERREZ, AITOR",
+    "ARTOLATXIPI PEREDA, IÑIGO",
+    "FRESNO JAUREGUI, ANDER",
+    "SAINZ MATO, XABIER",
+    "IRANZO PEÑA, NAKOR",
+    "AZANOUN TAHIR, IMRAN",
+    "CHAVARRI BERASALUCE, IKER",
+    "SULIBARRIA SAGASTIZABAL, ENDIKA",
+    "BONILLA HERRERO, IKER",
+    "CÁMARA SANCHEZ, JON"
+  ],
+  "jugadores_visitante": [
+    "COB BOTELLO, IÑAKI",
+    "MARTINEZ DUARTE, AITOR",
+    "CRUZ CASAS, YEIKO",
+    "COTIGA MATEI, ANDREI IOAN",
+    "DIOP KABIKETA, SUA",
+    "ROQUE URRECHAGA, KEMEN",
+    "AMARO ABANDO, KENAI",
+    "AROSA GONZÁLEZ, LEO",
+    "MADURGA MARTIN, ARITZ",
+    "ARRESEIGOR MARDARAS, LIHER",
+    "NAVARRO LÓPEZ, XABIER",
+    "TEJADA CABRERA, MARTÍN",
+    "CHAHIB EL HAJJI, ISMAEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "CHAVARRI BERASALUCE, IKER",
+      "sale": "SAINZ MATO, XABIER"
+    },
+    {
+      "min": 56,
+      "entra": "SULIBARRIA SAGASTIZABAL, ENDIKA",
+      "sale": "IRANZO PEÑA, NAKOR"
+    },
+    {
+      "min": 73,
+      "entra": "BONILLA HERRERO, IKER",
+      "sale": "AZANOUN TAHIR, IMRAN"
+    },
+    {
+      "min": 73,
+      "entra": "CÁMARA SANCHEZ, JON",
+      "sale": "MORAL GUTIERREZ, AITOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 64,
+      "entra": "TEJADA CABRERA, MARTÍN",
+      "sale": "AROSA GONZÁLEZ, LEO"
+    },
+    {
+      "min": 64,
+      "entra": "CHAHIB EL HAJJI, ISMAEL",
+      "sale": "ARRESEIGOR MARDARAS, LIHER"
+    }
+  ],
+  "minutos_jugadores": {
+    "VELARDE MELENDEZ, MARKO": 90,
+    "FUENTES URRUTIA, KOLDO": 90,
+    "RAMIREZ GONZALEZ, OIER": 90,
+    "ANGULO VELA, ARITZ": 90,
+    "BACHAR OUARGALI, YOUSSEF": 90,
+    "MORAL GUTIERREZ, AITOR": 73,
+    "ARTOLATXIPI PEREDA, IÑIGO": 90,
+    "FRESNO JAUREGUI, ANDER": 90,
+    "SAINZ MATO, XABIER": 50,
+    "IRANZO PEÑA, NAKOR": 56,
+    "AZANOUN TAHIR, IMRAN": 73,
+    "CHAVARRI BERASALUCE, IKER": 40,
+    "SULIBARRIA SAGASTIZABAL, ENDIKA": 34,
+    "BONILLA HERRERO, IKER": 17,
+    "CÁMARA SANCHEZ, JON": 17,
+    "COB BOTELLO, IÑAKI": 90,
+    "MARTINEZ DUARTE, AITOR": 90,
+    "CRUZ CASAS, YEIKO": 90,
+    "COTIGA MATEI, ANDREI IOAN": 90,
+    "DIOP KABIKETA, SUA": 90,
+    "ROQUE URRECHAGA, KEMEN": 90,
+    "AMARO ABANDO, KENAI": 90,
+    "AROSA GONZÁLEZ, LEO": 64,
+    "MADURGA MARTIN, ARITZ": 90,
+    "ARRESEIGOR MARDARAS, LIHER": 64,
+    "NAVARRO LÓPEZ, XABIER": 90,
+    "TEJADA CABRERA, MARTÍN": 26,
+    "CHAHIB EL HAJJI, ISMAEL": 26
+  },
+  "portero_local": "VELARDE MELENDEZ, MARKO",
+  "portero_visitante": "COB BOTELLO, IÑAKI",
+  "dorsales_local": {
+    "VELARDE MELENDEZ, MARKO": 13,
+    "FUENTES URRUTIA, KOLDO": 2,
+    "RAMIREZ GONZALEZ, OIER": 5,
+    "ANGULO VELA, ARITZ": 7,
+    "BACHAR OUARGALI, YOUSSEF": 10,
+    "MORAL GUTIERREZ, AITOR": 11,
+    "ARTOLATXIPI PEREDA, IÑIGO": 12,
+    "FRESNO JAUREGUI, ANDER": 14,
+    "SAINZ MATO, XABIER": 16,
+    "IRANZO PEÑA, NAKOR": 18,
+    "AZANOUN TAHIR, IMRAN": 19
+  },
+  "dorsales_visitante": {
+    "COB BOTELLO, IÑAKI": 1,
+    "MARTINEZ DUARTE, AITOR": 2,
+    "CRUZ CASAS, YEIKO": 3,
+    "COTIGA MATEI, ANDREI IOAN": 4,
+    "DIOP KABIKETA, SUA": 5,
+    "ROQUE URRECHAGA, KEMEN": 7,
+    "AMARO ABANDO, KENAI": 8,
+    "AROSA GONZÁLEZ, LEO": 9,
+    "MADURGA MARTIN, ARITZ": 10,
+    "ARRESEIGOR MARDARAS, LIHER": 14,
+    "NAVARRO LÓPEZ, XABIER": 16
+  },
+  "suspendidos": []
+}
