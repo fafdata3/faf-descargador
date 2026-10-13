@@ -9,9 +9,9 @@
   "categoria": "PlayOff por el Título Primera División Fútbol Sala Masculino (PlayOff por el Título Primera División)",
   "equipo_local": "JAEN PARAISO INTERIOR F.S.",
   "equipo_visitante": "ELPOZO MURCIA COSTA CÁLIDA",
-  "goles_local": 2,
-  "goles_visitante": 2,
-  "resultado": "D",
+  "goles_local": 5,
+  "goles_visitante": 3,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "MARTINEZ GARCIA, DIEGO",
@@ -59,7 +59,7 @@
       "minuto": 24,
       "jugador": "GARCIA AGUILERA, RAFAEL",
       "equipo": "?",
-      "propia": false,
+      "propia": true,
       "penalti": false
     },
     {
@@ -240,5 +240,6 @@
   },
   "suspendidos": [
     "MARECO GALEANO, JULIO DAMIAN"
-  ]
+  ],
+  "_marcador_widget": true
 }
