@@ -1,0 +1,298 @@
+{
+  "acta_id": "R_261435",
+  "filename": "Acta_R_261435.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "10-10-2026",
+  "hora": "16:00",
+  "categoria": "PRIMERA CADETE (Grupo Único)",
+  "equipo_local": "HARO",
+  "equipo_visitante": "BERCEO",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MUÑOZ ECHEVERRIA, IZASKUN"
+  ],
+  "estadio": "EMD LUIS DE LA FUENTE - H.A. - anexo (HARO)",
+  "ciudad": "Haro",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "HERREROS IGLESIA, MIGUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "HERREROS IGLESIA, MIGUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "MIELGO ISLA, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "OCON DELGADO, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "HERREROS IGLESIA, MIGUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "ZAMBRANA SAAVEDRA, HECTOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 12,
+      "jugador": "MIELGO ISLA, AIMAR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "EZQUERRA GOCHICOA, RODRIGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "BARAHONA SACRISTAN, EDUARDO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MUÑOZ ORTIZ, SERGIO",
+  "entrenador_visitante": "SAENZ PEREZ, ISRAEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GONZALEZ MIGUEL, NESTOR M",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GONZALEZ MIGUEL, NESTOR M",
+  "delegado_equipo_visitante": "OCON RODRIGUEZ, ORESTES",
+  "titulares_local": [
+    "ALMEIDA LOPEZ, GONZALO",
+    "CASTILLO MANERO, PABLO",
+    "LOPEZ SERRA, SAUL",
+    "SUSO HERNAEZ, PABLO",
+    "GARCIA GRACIA, AIMAR",
+    "LOPEZ DE ARMENTIA SANTAMARIA, DARIO",
+    "DIEZ HERMOSILLA, PAUL",
+    "OLMOS OCAÑA, LUCAS",
+    "MIELGO ISLA, AIMAR",
+    "PETER, DARKO LUCIAN",
+    "ZAMBRANA SAAVEDRA, HECTOR"
+  ],
+  "titulares_visitante": [
+    "ALONSO HERRERO, ANDER",
+    "TOBIAS BEZARES, ALEJANDRO",
+    "LACANAL SODUPE, LEO",
+    "PINA SANCHEZ, LORIEN",
+    "ALEGRE MARQUEZ, NIL",
+    "HERREROS IGLESIA, MIGUEL",
+    "FERRER OCHOA, MARIO",
+    "MARTINEZ MARTINEZ, ASIER",
+    "MALAJ SPONOR, ALVARO",
+    "UYARRA SAENZ, DIEGO",
+    "OCON DELGADO, ADRIAN"
+  ],
+  "suplentes_local": [
+    "ARELLANO LOPEZ, MIGUEL",
+    "NOGUEIRA FIDALGO, ALVARO",
+    "EZQUERRA GOCHICOA, RODRIGO",
+    "SALAZAR CASTRILLO, RUBEN",
+    "JAUREGUI GARCIA, JOKIN",
+    "BARAHONA SACRISTAN, EDUARDO"
+  ],
+  "suplentes_visitante": [
+    "CHASCO CASTROVIEJO, MATEO",
+    "SAENZ MURILLAS, DARIO",
+    "DUQUE ULLOA, ADRIAN",
+    "LOZANO BEAUMONT, JAVIER",
+    "VELILLA TERRAZAS, DANIEL",
+    "BALDA GUTIERREZ, MANUEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "ARELLANO LOPEZ, MIGUEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "CHASCO CASTROVIEJO, MATEO"
+  ],
+  "jugadores_local": [
+    "ALMEIDA LOPEZ, GONZALO",
+    "CASTILLO MANERO, PABLO",
+    "LOPEZ SERRA, SAUL",
+    "SUSO HERNAEZ, PABLO",
+    "GARCIA GRACIA, AIMAR",
+    "LOPEZ DE ARMENTIA SANTAMARIA, DARIO",
+    "DIEZ HERMOSILLA, PAUL",
+    "OLMOS OCAÑA, LUCAS",
+    "MIELGO ISLA, AIMAR",
+    "PETER, DARKO LUCIAN",
+    "ZAMBRANA SAAVEDRA, HECTOR",
+    "BARAHONA SACRISTAN, EDUARDO",
+    "SALAZAR CASTRILLO, RUBEN",
+    "EZQUERRA GOCHICOA, RODRIGO",
+    "NOGUEIRA FIDALGO, ALVARO",
+    "JAUREGUI GARCIA, JOKIN"
+  ],
+  "jugadores_visitante": [
+    "ALONSO HERRERO, ANDER",
+    "TOBIAS BEZARES, ALEJANDRO",
+    "LACANAL SODUPE, LEO",
+    "PINA SANCHEZ, LORIEN",
+    "ALEGRE MARQUEZ, NIL",
+    "HERREROS IGLESIA, MIGUEL",
+    "FERRER OCHOA, MARIO",
+    "MARTINEZ MARTINEZ, ASIER",
+    "MALAJ SPONOR, ALVARO",
+    "UYARRA SAENZ, DIEGO",
+    "OCON DELGADO, ADRIAN",
+    "DUQUE ULLOA, ADRIAN",
+    "SAENZ MURILLAS, DARIO",
+    "LOZANO BEAUMONT, JAVIER",
+    "BALDA GUTIERREZ, MANUEL",
+    "VELILLA TERRAZAS, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 51,
+      "entra": "BARAHONA SACRISTAN, EDUARDO",
+      "sale": "GARCIA GRACIA, AIMAR"
+    },
+    {
+      "min": 66,
+      "entra": "SALAZAR CASTRILLO, RUBEN",
+      "sale": "CASTILLO MANERO, PABLO"
+    },
+    {
+      "min": 66,
+      "entra": "EZQUERRA GOCHICOA, RODRIGO",
+      "sale": "MIELGO ISLA, AIMAR"
+    },
+    {
+      "min": 66,
+      "entra": "NOGUEIRA FIDALGO, ALVARO",
+      "sale": "PETER, DARKO LUCIAN"
+    },
+    {
+      "min": 74,
+      "entra": "JAUREGUI GARCIA, JOKIN",
+      "sale": "SUSO HERNAEZ, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "DUQUE ULLOA, ADRIAN",
+      "sale": "OCON DELGADO, ADRIAN"
+    },
+    {
+      "min": 53,
+      "entra": "SAENZ MURILLAS, DARIO",
+      "sale": "UYARRA SAENZ, DIEGO"
+    },
+    {
+      "min": 66,
+      "entra": "LOZANO BEAUMONT, JAVIER",
+      "sale": "FERRER OCHOA, MARIO"
+    },
+    {
+      "min": 66,
+      "entra": "BALDA GUTIERREZ, MANUEL",
+      "sale": "ALEGRE MARQUEZ, NIL"
+    },
+    {
+      "min": 80,
+      "entra": "VELILLA TERRAZAS, DANIEL",
+      "sale": "HERREROS IGLESIA, MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALMEIDA LOPEZ, GONZALO": 90,
+    "CASTILLO MANERO, PABLO": 66,
+    "LOPEZ SERRA, SAUL": 90,
+    "SUSO HERNAEZ, PABLO": 74,
+    "GARCIA GRACIA, AIMAR": 51,
+    "LOPEZ DE ARMENTIA SANTAMARIA, DARIO": 90,
+    "DIEZ HERMOSILLA, PAUL": 90,
+    "OLMOS OCAÑA, LUCAS": 90,
+    "MIELGO ISLA, AIMAR": 66,
+    "PETER, DARKO LUCIAN": 66,
+    "ZAMBRANA SAAVEDRA, HECTOR": 90,
+    "BARAHONA SACRISTAN, EDUARDO": 39,
+    "SALAZAR CASTRILLO, RUBEN": 24,
+    "EZQUERRA GOCHICOA, RODRIGO": 24,
+    "NOGUEIRA FIDALGO, ALVARO": 24,
+    "JAUREGUI GARCIA, JOKIN": 16,
+    "ALONSO HERRERO, ANDER": 90,
+    "TOBIAS BEZARES, ALEJANDRO": 90,
+    "LACANAL SODUPE, LEO": 90,
+    "PINA SANCHEZ, LORIEN": 90,
+    "ALEGRE MARQUEZ, NIL": 66,
+    "HERREROS IGLESIA, MIGUEL": 80,
+    "FERRER OCHOA, MARIO": 66,
+    "MARTINEZ MARTINEZ, ASIER": 90,
+    "MALAJ SPONOR, ALVARO": 90,
+    "UYARRA SAENZ, DIEGO": 53,
+    "OCON DELGADO, ADRIAN": 53,
+    "DUQUE ULLOA, ADRIAN": 37,
+    "SAENZ MURILLAS, DARIO": 37,
+    "LOZANO BEAUMONT, JAVIER": 24,
+    "BALDA GUTIERREZ, MANUEL": 24,
+    "VELILLA TERRAZAS, DANIEL": 10
+  },
+  "portero_local": "ALMEIDA LOPEZ, GONZALO",
+  "portero_visitante": "ALONSO HERRERO, ANDER",
+  "dorsales_local": {
+    "ALMEIDA LOPEZ, GONZALO": 1,
+    "CASTILLO MANERO, PABLO": 2,
+    "LOPEZ SERRA, SAUL": 3,
+    "SUSO HERNAEZ, PABLO": 6,
+    "GARCIA GRACIA, AIMAR": 7,
+    "LOPEZ DE ARMENTIA SANTAMARIA, DARIO": 8,
+    "DIEZ HERMOSILLA, PAUL": 9,
+    "OLMOS OCAÑA, LUCAS": 10,
+    "MIELGO ISLA, AIMAR": 11,
+    "PETER, DARKO LUCIAN": 15,
+    "ZAMBRANA SAAVEDRA, HECTOR": 17
+  },
+  "dorsales_visitante": {
+    "ALONSO HERRERO, ANDER": 25,
+    "TOBIAS BEZARES, ALEJANDRO": 4,
+    "LACANAL SODUPE, LEO": 6,
+    "PINA SANCHEZ, LORIEN": 7,
+    "ALEGRE MARQUEZ, NIL": 8,
+    "HERREROS IGLESIA, MIGUEL": 9,
+    "FERRER OCHOA, MARIO": 10,
+    "MARTINEZ MARTINEZ, ASIER": 11,
+    "MALAJ SPONOR, ALVARO": 12,
+    "UYARRA SAENZ, DIEGO": 14,
+    "OCON DELGADO, ADRIAN": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
