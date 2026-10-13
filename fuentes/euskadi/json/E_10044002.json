@@ -1,0 +1,295 @@
+{
+  "acta_id": "E_10044002",
+  "filename": "Acta_E_10044002.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "11-10-2026",
+  "hora": "12:00",
+  "categoria": "LIGA VASCA JUVENIL / GAZTEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "DEUSTO",
+  "equipo_visitante": "LAGUN ONAK C.D.",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "GOMEZ LANDAZABAL, XABIER"
+  ],
+  "estadio": "ETXEZURI",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "DE ARROITA FERNANDEZ, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "DE ARROITA FERNANDEZ, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "LARRONDO ORTUONDO, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "LIZARBURU ITURZAETA, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 78,
+      "jugador": "MINETTI AYO, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 14,
+      "jugador": "GONDRA ALVAREZ, AITOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "LARRONDO ORTUONDO, MARTIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "HERRAN OLMOS, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 15,
+      "jugador": "OLABE IBARLUCEA, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 63,
+      "jugador": "LIZARBURU ITURZAETA, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ GOMEZ, ASIER",
+  "entrenador_visitante": "IBARLUZEA OLAIZOLA, JULEN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RODRIGUEZ BUENO, LUIS MIGUEL",
+  "delegado_equipo_visitante": "OLABE IBARLUCEA, IKER",
+  "titulares_local": [
+    "GUTIERREZ JUARRERO, ANDER",
+    "RODRIGUEZ DA FONSECA, JULEN",
+    "ARRINDA AZPIAZU, BEÑAT",
+    "GONDRA ALVAREZ, AITOR",
+    "HERRAN OLMOS, MARKEL",
+    "BARCIA GARCIA, HUGO",
+    "MACEDA CONDE, LANDER",
+    "CALLE PRESA, MARKEL",
+    "LARRONDO ORTUONDO, MARTIN",
+    "DE ARROITA FERNANDEZ, PABLO",
+    "ARANA FUENZALIDA, OIER"
+  ],
+  "titulares_visitante": [
+    "GOGORZA JUARISTI, OIHAN",
+    "ALBERDI LERCHUNDI, UNAX",
+    "URBIETA ECHANIZ, ZEIAN",
+    "CABUE CARRASCO, XABIER",
+    "ULAZIA ARAMENDI, ENEKO",
+    "LIZARBURU ITURZAETA, ANDER",
+    "ALDALUR ETXEBERRIA, OIER",
+    "URANGA ZUBIZARRETA, JAKES",
+    "IPARRAGIRRE ZUGASTI, ARATZ",
+    "EPELDE BERASTEGUI, JANITZ",
+    "ALTUNA LAZKANO, PEIO"
+  ],
+  "suplentes_local": [
+    "BASTIDA ESTEBAN, EGOITZ",
+    "DEL OLMO GAREA, MARKEL",
+    "NAKAYAMA, RAIKI",
+    "GALAN AZKUENAGA, AITOR",
+    "URREIZTIETA LEGINAGOIKOA, ARITZ",
+    "MINETTI AYO, MARKEL",
+    "FERNANDEZ ZARRAGA, PAUL"
+  ],
+  "suplentes_visitante": [
+    "AGUIRREZABALAGA MARTIJA, HODEI",
+    "RODRIGUEZ GURRUCHAGA, IKER",
+    "URRESTILLA GARATE, ARATZ",
+    "ARANBARRI ETXEBERRIA, XABAT",
+    "URRESTILLA SOROZABAL, IKER",
+    "AGUIRRE UNANUE, IÑAKI"
+  ],
+  "convocados_sin_jugar_local": [
+    "BASTIDA ESTEBAN, EGOITZ",
+    "NAKAYAMA, RAIKI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "AGUIRREZABALAGA MARTIJA, HODEI",
+    "RODRIGUEZ GURRUCHAGA, IKER",
+    "AGUIRRE UNANUE, IÑAKI"
+  ],
+  "jugadores_local": [
+    "GUTIERREZ JUARRERO, ANDER",
+    "RODRIGUEZ DA FONSECA, JULEN",
+    "ARRINDA AZPIAZU, BEÑAT",
+    "GONDRA ALVAREZ, AITOR",
+    "HERRAN OLMOS, MARKEL",
+    "BARCIA GARCIA, HUGO",
+    "MACEDA CONDE, LANDER",
+    "CALLE PRESA, MARKEL",
+    "LARRONDO ORTUONDO, MARTIN",
+    "DE ARROITA FERNANDEZ, PABLO",
+    "ARANA FUENZALIDA, OIER",
+    "MINETTI AYO, MARKEL",
+    "URREIZTIETA LEGINAGOIKOA, ARITZ",
+    "GALAN AZKUENAGA, AITOR",
+    "FERNANDEZ ZARRAGA, PAUL",
+    "DEL OLMO GAREA, MARKEL"
+  ],
+  "jugadores_visitante": [
+    "GOGORZA JUARISTI, OIHAN",
+    "ALBERDI LERCHUNDI, UNAX",
+    "URBIETA ECHANIZ, ZEIAN",
+    "CABUE CARRASCO, XABIER",
+    "ULAZIA ARAMENDI, ENEKO",
+    "LIZARBURU ITURZAETA, ANDER",
+    "ALDALUR ETXEBERRIA, OIER",
+    "URANGA ZUBIZARRETA, JAKES",
+    "IPARRAGIRRE ZUGASTI, ARATZ",
+    "EPELDE BERASTEGUI, JANITZ",
+    "ALTUNA LAZKANO, PEIO",
+    "ARANBARRI ETXEBERRIA, XABAT",
+    "URRESTILLA SOROZABAL, IKER",
+    "URRESTILLA GARATE, ARATZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "MINETTI AYO, MARKEL",
+      "sale": "MACEDA CONDE, LANDER"
+    },
+    {
+      "min": 70,
+      "entra": "URREIZTIETA LEGINAGOIKOA, ARITZ",
+      "sale": "ARANA FUENZALIDA, OIER"
+    },
+    {
+      "min": 81,
+      "entra": "GALAN AZKUENAGA, AITOR",
+      "sale": "GONDRA ALVAREZ, AITOR"
+    },
+    {
+      "min": 81,
+      "entra": "FERNANDEZ ZARRAGA, PAUL",
+      "sale": "BARCIA GARCIA, HUGO"
+    },
+    {
+      "min": 81,
+      "entra": "DEL OLMO GAREA, MARKEL",
+      "sale": "CALLE PRESA, MARKEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 71,
+      "entra": "ARANBARRI ETXEBERRIA, XABAT",
+      "sale": "ALTUNA LAZKANO, PEIO"
+    },
+    {
+      "min": 71,
+      "entra": "URRESTILLA SOROZABAL, IKER",
+      "sale": "IPARRAGIRRE ZUGASTI, ARATZ"
+    },
+    {
+      "min": 80,
+      "entra": "URRESTILLA GARATE, ARATZ",
+      "sale": "LIZARBURU ITURZAETA, ANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "GUTIERREZ JUARRERO, ANDER": 90,
+    "RODRIGUEZ DA FONSECA, JULEN": 90,
+    "ARRINDA AZPIAZU, BEÑAT": 90,
+    "GONDRA ALVAREZ, AITOR": 81,
+    "HERRAN OLMOS, MARKEL": 90,
+    "BARCIA GARCIA, HUGO": 81,
+    "MACEDA CONDE, LANDER": 54,
+    "CALLE PRESA, MARKEL": 81,
+    "LARRONDO ORTUONDO, MARTIN": 90,
+    "DE ARROITA FERNANDEZ, PABLO": 90,
+    "ARANA FUENZALIDA, OIER": 70,
+    "MINETTI AYO, MARKEL": 36,
+    "URREIZTIETA LEGINAGOIKOA, ARITZ": 20,
+    "GALAN AZKUENAGA, AITOR": 9,
+    "FERNANDEZ ZARRAGA, PAUL": 9,
+    "DEL OLMO GAREA, MARKEL": 9,
+    "GOGORZA JUARISTI, OIHAN": 90,
+    "ALBERDI LERCHUNDI, UNAX": 90,
+    "URBIETA ECHANIZ, ZEIAN": 90,
+    "CABUE CARRASCO, XABIER": 90,
+    "ULAZIA ARAMENDI, ENEKO": 90,
+    "LIZARBURU ITURZAETA, ANDER": 80,
+    "ALDALUR ETXEBERRIA, OIER": 90,
+    "URANGA ZUBIZARRETA, JAKES": 90,
+    "IPARRAGIRRE ZUGASTI, ARATZ": 71,
+    "EPELDE BERASTEGUI, JANITZ": 90,
+    "ALTUNA LAZKANO, PEIO": 71,
+    "ARANBARRI ETXEBERRIA, XABAT": 19,
+    "URRESTILLA SOROZABAL, IKER": 19,
+    "URRESTILLA GARATE, ARATZ": 10
+  },
+  "portero_local": "GUTIERREZ JUARRERO, ANDER",
+  "portero_visitante": "GOGORZA JUARISTI, OIHAN",
+  "dorsales_local": {
+    "GUTIERREZ JUARRERO, ANDER": 13,
+    "RODRIGUEZ DA FONSECA, JULEN": 4,
+    "ARRINDA AZPIAZU, BEÑAT": 5,
+    "GONDRA ALVAREZ, AITOR": 6,
+    "HERRAN OLMOS, MARKEL": 8,
+    "BARCIA GARCIA, HUGO": 11,
+    "MACEDA CONDE, LANDER": 12,
+    "CALLE PRESA, MARKEL": 14,
+    "LARRONDO ORTUONDO, MARTIN": 16,
+    "DE ARROITA FERNANDEZ, PABLO": 22,
+    "ARANA FUENZALIDA, OIER": 23
+  },
+  "dorsales_visitante": {
+    "GOGORZA JUARISTI, OIHAN": 1,
+    "ALBERDI LERCHUNDI, UNAX": 2,
+    "URBIETA ECHANIZ, ZEIAN": 3,
+    "CABUE CARRASCO, XABIER": 4,
+    "ULAZIA ARAMENDI, ENEKO": 5,
+    "LIZARBURU ITURZAETA, ANDER": 6,
+    "ALDALUR ETXEBERRIA, OIER": 7,
+    "URANGA ZUBIZARRETA, JAKES": 8,
+    "IPARRAGIRRE ZUGASTI, ARATZ": 9,
+    "EPELDE BERASTEGUI, JANITZ": 10,
+    "ALTUNA LAZKANO, PEIO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
