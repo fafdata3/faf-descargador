@@ -1,0 +1,292 @@
+{
+  "acta_id": "N_70692223",
+  "filename": "Acta_N_70692223.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "11-10-2026",
+  "hora": "12:15",
+  "categoria": "Division de Honor Juvenil (Grupo 1)",
+  "equipo_local": "VICTORIA C.F.",
+  "equipo_visitante": "R.C. CELTA DE VIGO",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ÁRBITRO",
+    "ESPASANDIN CORES, SERGIO",
+    "ÁRBITRO ASISTENTE",
+    "SANDE NORIEGA, JULIO",
+    "ÁRBITRO ASISTENTE",
+    "CARRIL SAR, ANXO"
+  ],
+  "estadio": "Víctor Fernández Alonso, antiguo Leyma",
+  "ciudad": "A Coruña",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "PEREZ-LAFUENTE REY, JORGE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 8,
+      "jugador": "RODRIGUEZ DOMINGUEZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "MATUTE DOMINGUEZ, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "CONCHEIRO DÁVILA, MAEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 89,
+      "jugador": "SUAREZ GARCIA, ANXO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 24,
+      "jugador": "CHIRVECHES SANCHEZ, RAUL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "RODRIGUEZ DOMINGUEZ, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "RECONDO ESTEVEZ, JUAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "CORES CES, MARIA JESUS",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "COSTAS FERNANDEZ, ADRIAN",
+  "titulares_local": [
+    "CURTO MIRANDA, ADRIAN",
+    "VILAS PARAPAR, EDER",
+    "OJEA DA SILVEIRA, JULIAN ALEJANDRO",
+    "CASTAÑO OTERO, IAGO",
+    "CONCHEIRO DÁVILA, MAEL",
+    "TRILLO ABELLEIRA, JOEL",
+    "BENITO GOMEZ, GUILLERMO",
+    "BAAMONDE FERREIRO, NICOLAS",
+    "RAMOS RODRIGUEZ, MATEO",
+    "ALVAREZ SERBAN, MARIO",
+    "GARCIA PAIS, ISMAEL"
+  ],
+  "titulares_visitante": [
+    "OPI TURPEINEN, ASLAK",
+    "PEREZ FREIRE, PABLO",
+    "CHIRVECHES SANCHEZ, RAUL",
+    "RODRIGUEZ GUALLAR, NOAH",
+    "PEREZ-LAFUENTE REY, JORGE",
+    "RODRIGUEZ DOMINGUEZ, PABLO",
+    "MATUTE DOMINGUEZ, DIEGO",
+    "LOPEZ GOMEZ, HUGO",
+    "RODRIGUEZ GOMEZ, IKER",
+    "APARICIO CARBALLO, PABLO",
+    "RUIZ PEREZ, DANIEL"
+  ],
+  "suplentes_local": [
+    "DASILVA GOMEZ, PABLO",
+    "CARIDAD MARIÑAS, PABLO",
+    "MURCIEGO DIAZ, GORKA",
+    "SUAREZ GARCIA, ANXO",
+    "GARRIDO PEREZ, ADRIAN",
+    "PREGO PENA, ERIC",
+    "LOPEZ RODRIGUEZ, DIEGO"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ COTADO, SAUL",
+    "PEREZ MARTINEZ, JAIME",
+    "GARCIA ALVAREZ, PEDRO ILDEFONSO",
+    "PEREZ DOMINGUEZ, HECTOR",
+    "CONDE VAZQUEZ, IZAN",
+    "ALONSO LOURIDO, GERMAN",
+    "VILLARINO FERREIRO, IVAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "DASILVA GOMEZ, PABLO",
+    "CARIDAD MARIÑAS, PABLO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GONZALEZ COTADO, SAUL",
+    "CONDE VAZQUEZ, IZAN"
+  ],
+  "jugadores_local": [
+    "CURTO MIRANDA, ADRIAN",
+    "VILAS PARAPAR, EDER",
+    "OJEA DA SILVEIRA, JULIAN ALEJANDRO",
+    "CASTAÑO OTERO, IAGO",
+    "CONCHEIRO DÁVILA, MAEL",
+    "TRILLO ABELLEIRA, JOEL",
+    "BENITO GOMEZ, GUILLERMO",
+    "BAAMONDE FERREIRO, NICOLAS",
+    "RAMOS RODRIGUEZ, MATEO",
+    "ALVAREZ SERBAN, MARIO",
+    "GARCIA PAIS, ISMAEL",
+    "MURCIEGO DIAZ, GORKA",
+    "LOPEZ RODRIGUEZ, DIEGO",
+    "GARRIDO PEREZ, ADRIAN",
+    "PREGO PENA, ERIC",
+    "SUAREZ GARCIA, ANXO"
+  ],
+  "jugadores_visitante": [
+    "OPI TURPEINEN, ASLAK",
+    "PEREZ FREIRE, PABLO",
+    "CHIRVECHES SANCHEZ, RAUL",
+    "RODRIGUEZ GUALLAR, NOAH",
+    "PEREZ-LAFUENTE REY, JORGE",
+    "RODRIGUEZ DOMINGUEZ, PABLO",
+    "MATUTE DOMINGUEZ, DIEGO",
+    "LOPEZ GOMEZ, HUGO",
+    "RODRIGUEZ GOMEZ, IKER",
+    "APARICIO CARBALLO, PABLO",
+    "RUIZ PEREZ, DANIEL",
+    "PEREZ MARTINEZ, JAIME",
+    "ALONSO LOURIDO, GERMAN",
+    "PEREZ DOMINGUEZ, HECTOR",
+    "GARCIA ALVAREZ, PEDRO ILDEFONSO",
+    "VILLARINO FERREIRO, IVAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 62,
+      "entra": "MURCIEGO DIAZ, GORKA",
+      "sale": "TRILLO ABELLEIRA, JOEL"
+    },
+    {
+      "min": 62,
+      "entra": "LOPEZ RODRIGUEZ, DIEGO",
+      "sale": "RAMOS RODRIGUEZ, MATEO"
+    },
+    {
+      "min": 74,
+      "entra": "GARRIDO PEREZ, ADRIAN",
+      "sale": "BENITO GOMEZ, GUILLERMO"
+    },
+    {
+      "min": 74,
+      "entra": "PREGO PENA, ERIC",
+      "sale": "BAAMONDE FERREIRO, NICOLAS"
+    },
+    {
+      "min": 81,
+      "entra": "SUAREZ GARCIA, ANXO",
+      "sale": "GARCIA PAIS, ISMAEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "PEREZ MARTINEZ, JAIME",
+      "sale": "CHIRVECHES SANCHEZ, RAUL"
+    },
+    {
+      "min": 45,
+      "entra": "ALONSO LOURIDO, GERMAN",
+      "sale": "RODRIGUEZ DOMINGUEZ, PABLO"
+    },
+    {
+      "min": 62,
+      "entra": "PEREZ DOMINGUEZ, HECTOR",
+      "sale": "APARICIO CARBALLO, PABLO"
+    },
+    {
+      "min": 62,
+      "entra": "GARCIA ALVAREZ, PEDRO ILDEFONSO",
+      "sale": "RODRIGUEZ GOMEZ, IKER"
+    },
+    {
+      "min": 76,
+      "entra": "VILLARINO FERREIRO, IVAN",
+      "sale": "PEREZ-LAFUENTE REY, JORGE"
+    }
+  ],
+  "minutos_jugadores": {
+    "CURTO MIRANDA, ADRIAN": 90,
+    "VILAS PARAPAR, EDER": 90,
+    "OJEA DA SILVEIRA, JULIAN ALEJANDRO": 90,
+    "CASTAÑO OTERO, IAGO": 90,
+    "CONCHEIRO DÁVILA, MAEL": 90,
+    "TRILLO ABELLEIRA, JOEL": 62,
+    "BENITO GOMEZ, GUILLERMO": 74,
+    "BAAMONDE FERREIRO, NICOLAS": 74,
+    "RAMOS RODRIGUEZ, MATEO": 62,
+    "ALVAREZ SERBAN, MARIO": 90,
+    "GARCIA PAIS, ISMAEL": 81,
+    "OPI TURPEINEN, ASLAK": 90,
+    "PEREZ FREIRE, PABLO": 90,
+    "CHIRVECHES SANCHEZ, RAUL": 45,
+    "RODRIGUEZ GUALLAR, NOAH": 90,
+    "PEREZ-LAFUENTE REY, JORGE": 76,
+    "RODRIGUEZ DOMINGUEZ, PABLO": 45,
+    "MATUTE DOMINGUEZ, DIEGO": 90,
+    "LOPEZ GOMEZ, HUGO": 90,
+    "RODRIGUEZ GOMEZ, IKER": 62,
+    "APARICIO CARBALLO, PABLO": 62,
+    "RUIZ PEREZ, DANIEL": 90,
+    "MURCIEGO DIAZ, GORKA": 28,
+    "LOPEZ RODRIGUEZ, DIEGO": 28,
+    "GARRIDO PEREZ, ADRIAN": 16,
+    "PREGO PENA, ERIC": 16,
+    "SUAREZ GARCIA, ANXO": 9,
+    "PEREZ MARTINEZ, JAIME": 45,
+    "ALONSO LOURIDO, GERMAN": 45,
+    "PEREZ DOMINGUEZ, HECTOR": 28,
+    "GARCIA ALVAREZ, PEDRO ILDEFONSO": 28,
+    "VILLARINO FERREIRO, IVAN": 14
+  },
+  "portero_local": "CURTO MIRANDA, ADRIAN",
+  "portero_visitante": "OPI TURPEINEN, ASLAK",
+  "dorsales_local": {
+    "CURTO MIRANDA, ADRIAN": 1,
+    "VILAS PARAPAR, EDER": 2,
+    "OJEA DA SILVEIRA, JULIAN ALEJANDRO": 3,
+    "CASTAÑO OTERO, IAGO": 4,
+    "CONCHEIRO DÁVILA, MAEL": 5,
+    "TRILLO ABELLEIRA, JOEL": 6,
+    "BENITO GOMEZ, GUILLERMO": 7,
+    "BAAMONDE FERREIRO, NICOLAS": 8,
+    "RAMOS RODRIGUEZ, MATEO": 9,
+    "ALVAREZ SERBAN, MARIO": 10,
+    "GARCIA PAIS, ISMAEL": 11
+  },
+  "dorsales_visitante": {
+    "OPI TURPEINEN, ASLAK": 13,
+    "PEREZ FREIRE, PABLO": 3,
+    "CHIRVECHES SANCHEZ, RAUL": 4,
+    "RODRIGUEZ GUALLAR, NOAH": 6,
+    "PEREZ-LAFUENTE REY, JORGE": 9,
+    "RODRIGUEZ DOMINGUEZ, PABLO": 11,
+    "MATUTE DOMINGUEZ, DIEGO": 14,
+    "LOPEZ GOMEZ, HUGO": 16,
+    "RODRIGUEZ GOMEZ, IKER": 17,
+    "APARICIO CARBALLO, PABLO": 19,
+    "RUIZ PEREZ, DANIEL": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
