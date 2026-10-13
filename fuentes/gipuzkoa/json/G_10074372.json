@@ -1,0 +1,251 @@
+{
+  "acta_id": "G_10074372",
+  "filename": "Acta_G_10074372.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "10-10-2026",
+  "hora": "16:00",
+  "categoria": "GIZONEZKO KADETEEN 1. MAILA / 1ª CADETE MASCULINO (12. MULTZOA - GRUPO 12)",
+  "equipo_local": "IDIAZABAL K.E. B",
+  "equipo_visitante": "UROLA K.E. C",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MAESTRO SIMAL, UNAI"
+  ],
+  "estadio": "ARIZKORRETA",
+  "ciudad": "Idiazabal",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "AMENABAR CALZADA, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "HAMDAOUI, YOUSSEF",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "HAMDAOUI, YOUSSEF",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 66,
+      "jugador": "RELLAN ACEDO, EKAIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GELBENTZU LANDALUZE, JOKIN",
+  "entrenador_visitante": "TELLERIA FERNANDEZ, JOSE ANGEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TELLERIA RODRIGUEZ, OIER",
+  "delegado_equipo_visitante": "SANCHEZ FUENTES, JOSE JAVIER",
+  "titulares_local": [
+    "GOMBOS, IANIS MIHAI",
+    "FERNANDEZ CASTRO, IVAN",
+    "MARTIN BUENO, IKER",
+    "SALABERRIA OLANO, OIER",
+    "GARMENDIA ALONSO, IÑIGO",
+    "ZUBILLAGA HERNANDEZ, EKAI",
+    "PURAS MADRAZO, HUGO",
+    "PEREZ ROMERO, ASIER",
+    "URANGA MARTINEZ, KAI",
+    "EZEIZA LASA, BEÑAT",
+    "ARAMBURU ARRESE, LANDER"
+  ],
+  "titulares_visitante": [
+    "VALLEJO GARCIA, IÑIGO",
+    "RUBIAL ELIAS, BEÑAT",
+    "MENDIZABAL ETXEZARRETA, UNAI",
+    "EL MACHKOURI -, OMAR",
+    "HAMDAOUI, YOUSSEF",
+    "GALLARDO RODRIGUEZ, ANDER",
+    "EL HASBI EL MAATAOUI, RAYAN",
+    "AMENABAR CALZADA, ANDER",
+    "ARRIZABALAGA ITURBE, OINATZ",
+    "LUCENA GORDO, LUCAS",
+    "NEBREDA DE JESUS, OIER"
+  ],
+  "suplentes_local": [
+    "URKIA GARMENDIA, AIMAR",
+    "RELLAN ACEDO, EKAIN",
+    "SANTESTEBAN ELZO, OIER",
+    "VALDES ECHEVERRIA, YAEL",
+    "ETXANIZ IMAZ, AMETS"
+  ],
+  "suplentes_visitante": [
+    "URIARTE CAMARA, XIKER",
+    "ONZURRUNZAGA IBAÑEZ, ANER",
+    "PEREZ ARAMENDI, AMETS",
+    "ASTORGA VALDEPEÑAS, EKAIN",
+    "LOPEZ PEÑA, PABLO"
+  ],
+  "convocados_sin_jugar_local": [
+    "URKIA GARMENDIA, AIMAR"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GOMBOS, IANIS MIHAI",
+    "FERNANDEZ CASTRO, IVAN",
+    "MARTIN BUENO, IKER",
+    "SALABERRIA OLANO, OIER",
+    "GARMENDIA ALONSO, IÑIGO",
+    "ZUBILLAGA HERNANDEZ, EKAI",
+    "PURAS MADRAZO, HUGO",
+    "PEREZ ROMERO, ASIER",
+    "URANGA MARTINEZ, KAI",
+    "EZEIZA LASA, BEÑAT",
+    "ARAMBURU ARRESE, LANDER",
+    "SANTESTEBAN ELZO, OIER",
+    "ETXANIZ IMAZ, AMETS",
+    "VALDES ECHEVERRIA, YAEL",
+    "RELLAN ACEDO, EKAIN"
+  ],
+  "jugadores_visitante": [
+    "VALLEJO GARCIA, IÑIGO",
+    "RUBIAL ELIAS, BEÑAT",
+    "MENDIZABAL ETXEZARRETA, UNAI",
+    "EL MACHKOURI -, OMAR",
+    "HAMDAOUI, YOUSSEF",
+    "GALLARDO RODRIGUEZ, ANDER",
+    "EL HASBI EL MAATAOUI, RAYAN",
+    "AMENABAR CALZADA, ANDER",
+    "ARRIZABALAGA ITURBE, OINATZ",
+    "LUCENA GORDO, LUCAS",
+    "NEBREDA DE JESUS, OIER",
+    "ONZURRUNZAGA IBAÑEZ, ANER",
+    "ASTORGA VALDEPEÑAS, EKAIN",
+    "PEREZ ARAMENDI, AMETS",
+    "LOPEZ PEÑA, PABLO",
+    "URIARTE CAMARA, XIKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 31,
+      "entra": "SANTESTEBAN ELZO, OIER",
+      "sale": "ZUBILLAGA HERNANDEZ, EKAI"
+    },
+    {
+      "min": 37,
+      "entra": "ETXANIZ IMAZ, AMETS",
+      "sale": "ARAMBURU ARRESE, LANDER"
+    },
+    {
+      "min": 53,
+      "entra": "VALDES ECHEVERRIA, YAEL",
+      "sale": "EZEIZA LASA, BEÑAT"
+    },
+    {
+      "min": 54,
+      "entra": "RELLAN ACEDO, EKAIN",
+      "sale": "PURAS MADRAZO, HUGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "ONZURRUNZAGA IBAÑEZ, ANER",
+      "sale": "GALLARDO RODRIGUEZ, ANDER"
+    },
+    {
+      "min": 41,
+      "entra": "ASTORGA VALDEPEÑAS, EKAIN",
+      "sale": "NEBREDA DE JESUS, OIER"
+    },
+    {
+      "min": 50,
+      "entra": "PEREZ ARAMENDI, AMETS",
+      "sale": "LUCENA GORDO, LUCAS"
+    },
+    {
+      "min": 60,
+      "entra": "LOPEZ PEÑA, PABLO",
+      "sale": "ARRIZABALAGA ITURBE, OINATZ"
+    },
+    {
+      "min": 72,
+      "entra": "URIARTE CAMARA, XIKER",
+      "sale": "VALLEJO GARCIA, IÑIGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMBOS, IANIS MIHAI": 90,
+    "FERNANDEZ CASTRO, IVAN": 90,
+    "MARTIN BUENO, IKER": 90,
+    "SALABERRIA OLANO, OIER": 90,
+    "GARMENDIA ALONSO, IÑIGO": 90,
+    "ZUBILLAGA HERNANDEZ, EKAI": 31,
+    "PURAS MADRAZO, HUGO": 54,
+    "PEREZ ROMERO, ASIER": 90,
+    "URANGA MARTINEZ, KAI": 90,
+    "EZEIZA LASA, BEÑAT": 53,
+    "ARAMBURU ARRESE, LANDER": 37,
+    "SANTESTEBAN ELZO, OIER": 59,
+    "ETXANIZ IMAZ, AMETS": 53,
+    "VALDES ECHEVERRIA, YAEL": 37,
+    "RELLAN ACEDO, EKAIN": 36,
+    "VALLEJO GARCIA, IÑIGO": 72,
+    "RUBIAL ELIAS, BEÑAT": 90,
+    "MENDIZABAL ETXEZARRETA, UNAI": 90,
+    "EL MACHKOURI -, OMAR": 90,
+    "HAMDAOUI, YOUSSEF": 90,
+    "GALLARDO RODRIGUEZ, ANDER": 41,
+    "EL HASBI EL MAATAOUI, RAYAN": 90,
+    "AMENABAR CALZADA, ANDER": 90,
+    "ARRIZABALAGA ITURBE, OINATZ": 60,
+    "LUCENA GORDO, LUCAS": 50,
+    "NEBREDA DE JESUS, OIER": 41,
+    "ONZURRUNZAGA IBAÑEZ, ANER": 49,
+    "ASTORGA VALDEPEÑAS, EKAIN": 49,
+    "PEREZ ARAMENDI, AMETS": 40,
+    "LOPEZ PEÑA, PABLO": 30,
+    "URIARTE CAMARA, XIKER": 18
+  },
+  "portero_local": "GOMBOS, IANIS MIHAI",
+  "portero_visitante": "VALLEJO GARCIA, IÑIGO",
+  "dorsales_local": {
+    "GOMBOS, IANIS MIHAI": 13,
+    "FERNANDEZ CASTRO, IVAN": 3,
+    "MARTIN BUENO, IKER": 4,
+    "SALABERRIA OLANO, OIER": 5,
+    "GARMENDIA ALONSO, IÑIGO": 6,
+    "ZUBILLAGA HERNANDEZ, EKAI": 7,
+    "PURAS MADRAZO, HUGO": 8,
+    "PEREZ ROMERO, ASIER": 11,
+    "URANGA MARTINEZ, KAI": 18,
+    "EZEIZA LASA, BEÑAT": 20,
+    "ARAMBURU ARRESE, LANDER": 24
+  },
+  "dorsales_visitante": {
+    "VALLEJO GARCIA, IÑIGO": 13,
+    "RUBIAL ELIAS, BEÑAT": 2,
+    "MENDIZABAL ETXEZARRETA, UNAI": 6,
+    "EL MACHKOURI -, OMAR": 9,
+    "HAMDAOUI, YOUSSEF": 10,
+    "GALLARDO RODRIGUEZ, ANDER": 11,
+    "EL HASBI EL MAATAOUI, RAYAN": 15,
+    "AMENABAR CALZADA, ANDER": 16,
+    "ARRIZABALAGA ITURBE, OINATZ": 18,
+    "LUCENA GORDO, LUCAS": 21,
+    "NEBREDA DE JESUS, OIER": 22
+  },
+  "suspendidos": []
+}
