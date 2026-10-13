@@ -1,0 +1,283 @@
+{
+  "acta_id": "R_259970",
+  "filename": "Acta_R_259970.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "10-10-2026",
+  "hora": "17:00",
+  "categoria": "LIGA NACIONAL JUVENIL (Grupo 5)",
+  "equipo_local": "PRADEJÓN",
+  "equipo_visitante": "CALAHORRA",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "PEREZ MERINO, ADRIAN",
+    "Árbitro Asistente",
+    "CALVO PEREZ, ADRIAN",
+    "Árbitro Asistente",
+    "CASAS FERNANDEZ, ENRIQUE"
+  ],
+  "estadio": "CAMPO MUNICIPAL - H.A. (PRADEJON)",
+  "ciudad": "Pradejón",
+  "goleadores": [
+    {
+      "minuto": 44,
+      "jugador": "ALVAREZ MORENO, MIGUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 89,
+      "jugador": "MARTINEZ MORENO, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "TURLAN ABAD, RUBEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 12,
+      "jugador": "JIMENEZ GUTIERREZ, MARIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 20,
+      "jugador": "CALVO TORRES, JUAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 40,
+      "jugador": "OLIVAN IBAÑEZ, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "CAMBRA RUIZ, HECTOR",
+  "entrenador_visitante": "DIAZ A JIMENEZ, JESUS",
+  "segundo_entrenador_local": "ZABALETA YANIZ, IÑAKI",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTINEZ YAGUEZ, FRANCISO JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "MARTINEZ SANCHEZ, MARTA",
+  "titulares_local": [
+    "ADAN ALONSO, HUGO",
+    "RIASCOS CORREA, JUAN C",
+    "MARTINEZ GONZALEZ, ADRIAN",
+    "EZQUERRO CRACIUN, MARCOS",
+    "HERAS EZQUERRO, VICTOR",
+    "REYES MANGADO, MARCOS",
+    "ALCALDE MEDINA, AIMAR",
+    "TURLAN ABAD, RUBEN",
+    "MARTINEZ GONZALEZ, ALVARO",
+    "HERAS GARCIA, MARCO",
+    "JIMENEZ LOPEZ, LUCAS"
+  ],
+  "titulares_visitante": [
+    "NICORICI, CLAUDIU IONUT",
+    "ESCUDERO CAMARA, ELOY",
+    "JIMENEZ GUTIERREZ, MARIO",
+    "MELLAH, MOHAMED",
+    "ALVAREZ MORENO, MIGUEL",
+    "ROMEO MURILLO, AIMAR",
+    "HERNANDEZ SIMON, IÑIGO",
+    "ABAD ABAD, DIEGO",
+    "CALVO TORRES, JUAN",
+    "MARTINEZ ALCALDE, IVAN",
+    "OLIVAN IBAÑEZ, ADRIAN"
+  ],
+  "suplentes_local": [
+    "SASETA SAGARDUI, IKER",
+    "MARTINEZ MORENO, DIEGO",
+    "SOTA ZABALA, MIGUEL",
+    "CHKEIRA BOUKAL, RIDA",
+    "SUAREZ FERNANDEZ, ALEX",
+    "CRETU, ROBERT MIHAI"
+  ],
+  "suplentes_visitante": [
+    "MONREAL SIULIK, JORGE JOSE",
+    "BENITO ZAMAJON, JESUS",
+    "ALVAREZ CASEDA, MARTIN",
+    "TLAGHI, MOHAMED",
+    "VALERO JIMENEZ, ALVARO",
+    "GONZALEZ MADORRAN, JOSE J",
+    "ESPINOSA DIAZ, IVAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "SASETA SAGARDUI, IKER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MONREAL SIULIK, JORGE JOSE",
+    "ESPINOSA DIAZ, IVAN"
+  ],
+  "jugadores_local": [
+    "ADAN ALONSO, HUGO",
+    "RIASCOS CORREA, JUAN C",
+    "MARTINEZ GONZALEZ, ADRIAN",
+    "EZQUERRO CRACIUN, MARCOS",
+    "HERAS EZQUERRO, VICTOR",
+    "REYES MANGADO, MARCOS",
+    "ALCALDE MEDINA, AIMAR",
+    "TURLAN ABAD, RUBEN",
+    "MARTINEZ GONZALEZ, ALVARO",
+    "HERAS GARCIA, MARCO",
+    "JIMENEZ LOPEZ, LUCAS",
+    "CHKEIRA BOUKAL, RIDA",
+    "SOTA ZABALA, MIGUEL",
+    "CRETU, ROBERT MIHAI",
+    "SUAREZ FERNANDEZ, ALEX",
+    "MARTINEZ MORENO, DIEGO"
+  ],
+  "jugadores_visitante": [
+    "NICORICI, CLAUDIU IONUT",
+    "ESCUDERO CAMARA, ELOY",
+    "JIMENEZ GUTIERREZ, MARIO",
+    "MELLAH, MOHAMED",
+    "ALVAREZ MORENO, MIGUEL",
+    "ROMEO MURILLO, AIMAR",
+    "HERNANDEZ SIMON, IÑIGO",
+    "ABAD ABAD, DIEGO",
+    "CALVO TORRES, JUAN",
+    "MARTINEZ ALCALDE, IVAN",
+    "OLIVAN IBAÑEZ, ADRIAN",
+    "ALVAREZ CASEDA, MARTIN",
+    "GONZALEZ MADORRAN, JOSE J",
+    "TLAGHI, MOHAMED",
+    "VALERO JIMENEZ, ALVARO",
+    "BENITO ZAMAJON, JESUS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "CHKEIRA BOUKAL, RIDA",
+      "sale": "HERAS EZQUERRO, VICTOR"
+    },
+    {
+      "min": 54,
+      "entra": "SOTA ZABALA, MIGUEL",
+      "sale": "REYES MANGADO, MARCOS"
+    },
+    {
+      "min": 72,
+      "entra": "CRETU, ROBERT MIHAI",
+      "sale": "HERAS GARCIA, MARCO"
+    },
+    {
+      "min": 85,
+      "entra": "SUAREZ FERNANDEZ, ALEX",
+      "sale": "MARTINEZ GONZALEZ, ADRIAN"
+    },
+    {
+      "min": 85,
+      "entra": "MARTINEZ MORENO, DIEGO",
+      "sale": "ALCALDE MEDINA, AIMAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "ALVAREZ CASEDA, MARTIN",
+      "sale": "OLIVAN IBAÑEZ, ADRIAN"
+    },
+    {
+      "min": 56,
+      "entra": "GONZALEZ MADORRAN, JOSE J",
+      "sale": "CALVO TORRES, JUAN"
+    },
+    {
+      "min": 63,
+      "entra": "TLAGHI, MOHAMED",
+      "sale": "ABAD ABAD, DIEGO"
+    },
+    {
+      "min": 63,
+      "entra": "VALERO JIMENEZ, ALVARO",
+      "sale": "ROMEO MURILLO, AIMAR"
+    },
+    {
+      "min": 79,
+      "entra": "BENITO ZAMAJON, JESUS",
+      "sale": "HERNANDEZ SIMON, IÑIGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ADAN ALONSO, HUGO": 90,
+    "RIASCOS CORREA, JUAN C": 90,
+    "MARTINEZ GONZALEZ, ADRIAN": 85,
+    "EZQUERRO CRACIUN, MARCOS": 90,
+    "HERAS EZQUERRO, VICTOR": 46,
+    "REYES MANGADO, MARCOS": 54,
+    "ALCALDE MEDINA, AIMAR": 85,
+    "TURLAN ABAD, RUBEN": 90,
+    "MARTINEZ GONZALEZ, ALVARO": 90,
+    "HERAS GARCIA, MARCO": 72,
+    "JIMENEZ LOPEZ, LUCAS": 90,
+    "CHKEIRA BOUKAL, RIDA": 44,
+    "SOTA ZABALA, MIGUEL": 36,
+    "CRETU, ROBERT MIHAI": 18,
+    "SUAREZ FERNANDEZ, ALEX": 5,
+    "MARTINEZ MORENO, DIEGO": 5,
+    "NICORICI, CLAUDIU IONUT": 90,
+    "ESCUDERO CAMARA, ELOY": 90,
+    "JIMENEZ GUTIERREZ, MARIO": 90,
+    "MELLAH, MOHAMED": 90,
+    "ALVAREZ MORENO, MIGUEL": 90,
+    "ROMEO MURILLO, AIMAR": 63,
+    "HERNANDEZ SIMON, IÑIGO": 79,
+    "ABAD ABAD, DIEGO": 63,
+    "CALVO TORRES, JUAN": 56,
+    "MARTINEZ ALCALDE, IVAN": 90,
+    "OLIVAN IBAÑEZ, ADRIAN": 56,
+    "ALVAREZ CASEDA, MARTIN": 34,
+    "GONZALEZ MADORRAN, JOSE J": 34,
+    "TLAGHI, MOHAMED": 27,
+    "VALERO JIMENEZ, ALVARO": 27,
+    "BENITO ZAMAJON, JESUS": 11
+  },
+  "portero_local": "ADAN ALONSO, HUGO",
+  "portero_visitante": "NICORICI, CLAUDIU IONUT",
+  "dorsales_local": {
+    "ADAN ALONSO, HUGO": 13,
+    "RIASCOS CORREA, JUAN C": 2,
+    "MARTINEZ GONZALEZ, ADRIAN": 3,
+    "EZQUERRO CRACIUN, MARCOS": 4,
+    "HERAS EZQUERRO, VICTOR": 5,
+    "REYES MANGADO, MARCOS": 6,
+    "ALCALDE MEDINA, AIMAR": 7,
+    "TURLAN ABAD, RUBEN": 8,
+    "MARTINEZ GONZALEZ, ALVARO": 9,
+    "HERAS GARCIA, MARCO": 10,
+    "JIMENEZ LOPEZ, LUCAS": 11
+  },
+  "dorsales_visitante": {
+    "NICORICI, CLAUDIU IONUT": 13,
+    "ESCUDERO CAMARA, ELOY": 2,
+    "JIMENEZ GUTIERREZ, MARIO": 4,
+    "MELLAH, MOHAMED": 6,
+    "ALVAREZ MORENO, MIGUEL": 10,
+    "ROMEO MURILLO, AIMAR": 11,
+    "HERNANDEZ SIMON, IÑIGO": 12,
+    "ABAD ABAD, DIEGO": 14,
+    "CALVO TORRES, JUAN": 15,
+    "MARTINEZ ALCALDE, IVAN": 16,
+    "OLIVAN IBAÑEZ, ADRIAN": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
