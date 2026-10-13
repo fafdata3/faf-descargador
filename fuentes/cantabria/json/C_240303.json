@@ -1,0 +1,253 @@
+{
+  "acta_id": "C_240303",
+  "filename": "Acta_C_240303.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "12:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "C.D. MARINA SPORT B",
+  "equipo_visitante": "E.M.F. COLINDRES A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CIFUENTES CARVAJAL, BRYAN ALEXANDER"
+  ],
+  "estadio": "Alberto Perez Blanco 1",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "ORTIZ FERNANDEZ, SAMUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "MIRANDA TOMEY, AARON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "PALLARUELO VELAZQUEZ, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 71,
+      "jugador": "PEÑA FERNANDEZ, DIEGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "SALCINES DE LA FUENTE, LEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "BONAECHEA GUEREDIAGA, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SERRANO RODRIGUEZ, DAVID",
+  "entrenador_visitante": "FERNANDEZ MONTES, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "TORRE EXPOSITO, MARCO",
+    "PERNÍA PASCUAL, IGNACIO",
+    "PEÑA FERNANDEZ, DIEGO",
+    "LOPEZ GARZON, LEO",
+    "VAZQUEZ VILLAVERDE, DANIEL",
+    "MUÑIZ RUIZ, MARTIN",
+    "ORTIZ FERNANDEZ, SAMUEL",
+    "MUNITIS COSTAS, DAVID",
+    "PALLARUELO VELAZQUEZ, ADRIAN",
+    "RUIZ TRUEBA, JAYDEN",
+    "AZNAR NUÑO, HUGO"
+  ],
+  "titulares_visitante": [
+    "QUINTELA MORANTE, ALONSO",
+    "BONAECHEA GUEREDIAGA, DIEGO",
+    "SALCINES DE LA FUENTE, LEO",
+    "PUENTE HERNANDEZ, MARIO",
+    "VAZQUEZ GOMEZ, IKER",
+    "CANO VELA, OIER",
+    "MIRANDA TOMEY, AARON",
+    "GARAY BUSTOS, JOAN",
+    "SAIZ DE LA MAZA PEÑA, IKER",
+    "SOL IBAÑEZ, MIGUEL",
+    "CANO VELA, ARITZ"
+  ],
+  "suplentes_local": [
+    "LOPEZ MARTIN, HUGO",
+    "HAYA GIL, LUCAS",
+    "MOVELLAN MARTIN, HUGO",
+    "BARCENA MUÑOZ, SANTIAGO"
+  ],
+  "suplentes_visitante": [
+    "ORDAS ARREDONDO, ISKANDER",
+    "BLAZQUEZ CALVO, ARTURO",
+    "BLAZQUEZ CALVO, JUAN",
+    "HERNANDEZ LASAGA, ANDRES",
+    "VEGA SANTAMARIA, TOMAS"
+  ],
+  "convocados_sin_jugar_local": [
+    "LOPEZ MARTIN, HUGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ORDAS ARREDONDO, ISKANDER"
+  ],
+  "jugadores_local": [
+    "TORRE EXPOSITO, MARCO",
+    "PERNÍA PASCUAL, IGNACIO",
+    "PEÑA FERNANDEZ, DIEGO",
+    "LOPEZ GARZON, LEO",
+    "VAZQUEZ VILLAVERDE, DANIEL",
+    "MUÑIZ RUIZ, MARTIN",
+    "ORTIZ FERNANDEZ, SAMUEL",
+    "MUNITIS COSTAS, DAVID",
+    "PALLARUELO VELAZQUEZ, ADRIAN",
+    "RUIZ TRUEBA, JAYDEN",
+    "AZNAR NUÑO, HUGO",
+    "HAYA GIL, LUCAS",
+    "MOVELLAN MARTIN, HUGO",
+    "BARCENA MUÑOZ, SANTIAGO"
+  ],
+  "jugadores_visitante": [
+    "QUINTELA MORANTE, ALONSO",
+    "BONAECHEA GUEREDIAGA, DIEGO",
+    "SALCINES DE LA FUENTE, LEO",
+    "PUENTE HERNANDEZ, MARIO",
+    "VAZQUEZ GOMEZ, IKER",
+    "CANO VELA, OIER",
+    "MIRANDA TOMEY, AARON",
+    "GARAY BUSTOS, JOAN",
+    "SAIZ DE LA MAZA PEÑA, IKER",
+    "SOL IBAÑEZ, MIGUEL",
+    "CANO VELA, ARITZ",
+    "VEGA SANTAMARIA, TOMAS",
+    "HERNANDEZ LASAGA, ANDRES",
+    "BLAZQUEZ CALVO, ARTURO",
+    "BLAZQUEZ CALVO, JUAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "HAYA GIL, LUCAS",
+      "sale": "LOPEZ GARZON, LEO"
+    },
+    {
+      "min": 56,
+      "entra": "MOVELLAN MARTIN, HUGO",
+      "sale": "RUIZ TRUEBA, JAYDEN"
+    },
+    {
+      "min": 66,
+      "entra": "BARCENA MUÑOZ, SANTIAGO",
+      "sale": "MUÑIZ RUIZ, MARTIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "VEGA SANTAMARIA, TOMAS",
+      "sale": "GARAY BUSTOS, JOAN"
+    },
+    {
+      "min": 57,
+      "entra": "HERNANDEZ LASAGA, ANDRES",
+      "sale": "VAZQUEZ GOMEZ, IKER"
+    },
+    {
+      "min": 70,
+      "entra": "BLAZQUEZ CALVO, ARTURO",
+      "sale": "SOL IBAÑEZ, MIGUEL"
+    },
+    {
+      "min": 75,
+      "entra": "BLAZQUEZ CALVO, JUAN",
+      "sale": "BONAECHEA GUEREDIAGA, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "TORRE EXPOSITO, MARCO": 90,
+    "PERNÍA PASCUAL, IGNACIO": 90,
+    "PEÑA FERNANDEZ, DIEGO": 90,
+    "LOPEZ GARZON, LEO": 50,
+    "VAZQUEZ VILLAVERDE, DANIEL": 90,
+    "MUÑIZ RUIZ, MARTIN": 66,
+    "ORTIZ FERNANDEZ, SAMUEL": 90,
+    "MUNITIS COSTAS, DAVID": 90,
+    "PALLARUELO VELAZQUEZ, ADRIAN": 90,
+    "RUIZ TRUEBA, JAYDEN": 56,
+    "AZNAR NUÑO, HUGO": 90,
+    "HAYA GIL, LUCAS": 40,
+    "MOVELLAN MARTIN, HUGO": 34,
+    "BARCENA MUÑOZ, SANTIAGO": 24,
+    "QUINTELA MORANTE, ALONSO": 90,
+    "BONAECHEA GUEREDIAGA, DIEGO": 75,
+    "SALCINES DE LA FUENTE, LEO": 90,
+    "PUENTE HERNANDEZ, MARIO": 90,
+    "VAZQUEZ GOMEZ, IKER": 57,
+    "CANO VELA, OIER": 90,
+    "MIRANDA TOMEY, AARON": 90,
+    "GARAY BUSTOS, JOAN": 45,
+    "SAIZ DE LA MAZA PEÑA, IKER": 90,
+    "SOL IBAÑEZ, MIGUEL": 70,
+    "CANO VELA, ARITZ": 90,
+    "VEGA SANTAMARIA, TOMAS": 45,
+    "HERNANDEZ LASAGA, ANDRES": 33,
+    "BLAZQUEZ CALVO, ARTURO": 20,
+    "BLAZQUEZ CALVO, JUAN": 15
+  },
+  "portero_local": "TORRE EXPOSITO, MARCO",
+  "portero_visitante": "QUINTELA MORANTE, ALONSO",
+  "dorsales_local": {
+    "TORRE EXPOSITO, MARCO": 1,
+    "PERNÍA PASCUAL, IGNACIO": 3,
+    "PEÑA FERNANDEZ, DIEGO": 4,
+    "LOPEZ GARZON, LEO": 5,
+    "VAZQUEZ VILLAVERDE, DANIEL": 6,
+    "MUÑIZ RUIZ, MARTIN": 8,
+    "ORTIZ FERNANDEZ, SAMUEL": 9,
+    "MUNITIS COSTAS, DAVID": 10,
+    "PALLARUELO VELAZQUEZ, ADRIAN": 11,
+    "RUIZ TRUEBA, JAYDEN": 12,
+    "AZNAR NUÑO, HUGO": 14
+  },
+  "dorsales_visitante": {
+    "QUINTELA MORANTE, ALONSO": 13,
+    "BONAECHEA GUEREDIAGA, DIEGO": 2,
+    "SALCINES DE LA FUENTE, LEO": 4,
+    "PUENTE HERNANDEZ, MARIO": 5,
+    "VAZQUEZ GOMEZ, IKER": 7,
+    "CANO VELA, OIER": 8,
+    "MIRANDA TOMEY, AARON": 10,
+    "GARAY BUSTOS, JOAN": 11,
+    "SAIZ DE LA MAZA PEÑA, IKER": 15,
+    "SOL IBAÑEZ, MIGUEL": 17,
+    "CANO VELA, ARITZ": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
