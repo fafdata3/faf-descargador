@@ -1,0 +1,288 @@
+{
+  "acta_id": "C_240001",
+  "filename": "Acta_C_240001.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "11-10-2026",
+  "hora": "13:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "C.AT. PERINES",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "VEGAS MANRIQUE, ERIK"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "REPOILA MARTINEZ, IAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "GOROSTIAGA CASTILLO, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "REPOILA MARTINEZ, IAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "SARABIA CAVIEDES, BRENO JOSE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "REPOILA MARTINEZ, IAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "GONZALEZ ESTEBANEZ, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 58,
+      "jugador": "CARRAL RUISANCHEZ, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "DE LA LASTRA GARCIA, MATEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "REPOILA MARTINEZ, IAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 36,
+      "jugador": "PASCUAL ARANA, ELEDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARCOS NUÑEZ, JUAN JOSE",
+  "entrenador_visitante": "MARTINEZ INCERA, PABLO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PRIETO RUIZ, LUIS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PRIETO RUIZ, LUIS",
+  "delegado_equipo_visitante": "ALVEAR DIEZ, VICTOR",
+  "titulares_local": [
+    "ROJO ARRANZ, JAVIER",
+    "VERDEJA GONZALEZ, JORGE",
+    "GARCIA SAN EMETERIO, MARCO",
+    "MARTINEZ ABASCAL, SAMUEL",
+    "IRASTORZA BARQUINERO, NECO",
+    "GONZALEZ ESTEBANEZ, ALVARO",
+    "CARRAL RUISANCHEZ, DANIEL",
+    "REPOILA MARTINEZ, IAN",
+    "CATAÑO ARANGO, YULIAN ALEXANDER",
+    "BOLLOQUE PRIETO, TRISTAN",
+    "GARCIA SAINZ, LUCAS"
+  ],
+  "titulares_visitante": [
+    "SAN SEBASTIAN OLMO, NICOLAS",
+    "DZHELIL, SIMAR BELGIN",
+    "PASCUAL ARANA, ELEDER",
+    "DE LA RIVA MORENO, ERIK",
+    "ABASCAL ITURRALDE, HUGO",
+    "ESPINOSA CASTILLO, JORGE",
+    "CORIA, THIAGO",
+    "MARTINEZ ARGOS, IBER",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "SAID FERNANDEZ, GABRIEL",
+    "GOROSTIAGA CASTILLO, ALEJANDRO"
+  ],
+  "suplentes_local": [
+    "ORUÑA MARCILLA, ALVARO",
+    "DUAL JIMENEZ, PEDRO",
+    "SEÑAS GONZALEZ, MARCO",
+    "JACOME BEZANILLA, ALEX",
+    "DE LA LASTRA GARCIA, MATEO"
+  ],
+  "suplentes_visitante": [
+    "RAYS VIERA DE SA, THIAGO",
+    "AMUTIO CASADO, GABRIEL",
+    "ANTOLIN RODRIGUEZ, MATEO",
+    "MARSELLA GONZALEZ, SERGIO",
+    "SARABIA CAVIEDES, BRENO JOSE"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORUÑA MARCILLA, ALVARO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "RAYS VIERA DE SA, THIAGO"
+  ],
+  "jugadores_local": [
+    "ROJO ARRANZ, JAVIER",
+    "VERDEJA GONZALEZ, JORGE",
+    "GARCIA SAN EMETERIO, MARCO",
+    "MARTINEZ ABASCAL, SAMUEL",
+    "IRASTORZA BARQUINERO, NECO",
+    "GONZALEZ ESTEBANEZ, ALVARO",
+    "CARRAL RUISANCHEZ, DANIEL",
+    "REPOILA MARTINEZ, IAN",
+    "CATAÑO ARANGO, YULIAN ALEXANDER",
+    "BOLLOQUE PRIETO, TRISTAN",
+    "GARCIA SAINZ, LUCAS",
+    "DUAL JIMENEZ, PEDRO",
+    "SEÑAS GONZALEZ, MARCO",
+    "JACOME BEZANILLA, ALEX",
+    "DE LA LASTRA GARCIA, MATEO"
+  ],
+  "jugadores_visitante": [
+    "SAN SEBASTIAN OLMO, NICOLAS",
+    "DZHELIL, SIMAR BELGIN",
+    "PASCUAL ARANA, ELEDER",
+    "DE LA RIVA MORENO, ERIK",
+    "ABASCAL ITURRALDE, HUGO",
+    "ESPINOSA CASTILLO, JORGE",
+    "CORIA, THIAGO",
+    "MARTINEZ ARGOS, IBER",
+    "GONZALEZ FERNANDEZ, GABRIEL",
+    "SAID FERNANDEZ, GABRIEL",
+    "GOROSTIAGA CASTILLO, ALEJANDRO",
+    "MARSELLA GONZALEZ, SERGIO",
+    "AMUTIO CASADO, GABRIEL",
+    "SARABIA CAVIEDES, BRENO JOSE",
+    "ANTOLIN RODRIGUEZ, MATEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "DUAL JIMENEZ, PEDRO",
+      "sale": "GARCIA SAINZ, LUCAS"
+    },
+    {
+      "min": 49,
+      "entra": "SEÑAS GONZALEZ, MARCO",
+      "sale": "MARTINEZ ABASCAL, SAMUEL"
+    },
+    {
+      "min": 52,
+      "entra": "JACOME BEZANILLA, ALEX",
+      "sale": "GONZALEZ ESTEBANEZ, ALVARO"
+    },
+    {
+      "min": 71,
+      "entra": "DE LA LASTRA GARCIA, MATEO",
+      "sale": "CATAÑO ARANGO, YULIAN ALEXANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "MARSELLA GONZALEZ, SERGIO",
+      "sale": "MARTINEZ ARGOS, IBER"
+    },
+    {
+      "min": 40,
+      "entra": "AMUTIO CASADO, GABRIEL",
+      "sale": "ABASCAL ITURRALDE, HUGO"
+    },
+    {
+      "min": 71,
+      "entra": "SARABIA CAVIEDES, BRENO JOSE",
+      "sale": "PASCUAL ARANA, ELEDER"
+    },
+    {
+      "min": 75,
+      "entra": "ANTOLIN RODRIGUEZ, MATEO",
+      "sale": "CORIA, THIAGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ROJO ARRANZ, JAVIER": 90,
+    "VERDEJA GONZALEZ, JORGE": 90,
+    "GARCIA SAN EMETERIO, MARCO": 90,
+    "MARTINEZ ABASCAL, SAMUEL": 49,
+    "IRASTORZA BARQUINERO, NECO": 90,
+    "GONZALEZ ESTEBANEZ, ALVARO": 52,
+    "CARRAL RUISANCHEZ, DANIEL": 90,
+    "REPOILA MARTINEZ, IAN": 90,
+    "CATAÑO ARANGO, YULIAN ALEXANDER": 71,
+    "BOLLOQUE PRIETO, TRISTAN": 90,
+    "GARCIA SAINZ, LUCAS": 40,
+    "DUAL JIMENEZ, PEDRO": 50,
+    "SEÑAS GONZALEZ, MARCO": 41,
+    "JACOME BEZANILLA, ALEX": 38,
+    "DE LA LASTRA GARCIA, MATEO": 19,
+    "SAN SEBASTIAN OLMO, NICOLAS": 90,
+    "DZHELIL, SIMAR BELGIN": 90,
+    "PASCUAL ARANA, ELEDER": 71,
+    "DE LA RIVA MORENO, ERIK": 90,
+    "ABASCAL ITURRALDE, HUGO": 40,
+    "ESPINOSA CASTILLO, JORGE": 90,
+    "CORIA, THIAGO": 75,
+    "MARTINEZ ARGOS, IBER": 40,
+    "GONZALEZ FERNANDEZ, GABRIEL": 90,
+    "SAID FERNANDEZ, GABRIEL": 90,
+    "GOROSTIAGA CASTILLO, ALEJANDRO": 90,
+    "MARSELLA GONZALEZ, SERGIO": 50,
+    "AMUTIO CASADO, GABRIEL": 50,
+    "SARABIA CAVIEDES, BRENO JOSE": 19,
+    "ANTOLIN RODRIGUEZ, MATEO": 15
+  },
+  "portero_local": "ROJO ARRANZ, JAVIER",
+  "portero_visitante": "SAN SEBASTIAN OLMO, NICOLAS",
+  "dorsales_local": {
+    "ROJO ARRANZ, JAVIER": 13,
+    "VERDEJA GONZALEZ, JORGE": 2,
+    "GARCIA SAN EMETERIO, MARCO": 3,
+    "MARTINEZ ABASCAL, SAMUEL": 4,
+    "IRASTORZA BARQUINERO, NECO": 5,
+    "GONZALEZ ESTEBANEZ, ALVARO": 6,
+    "CARRAL RUISANCHEZ, DANIEL": 9,
+    "REPOILA MARTINEZ, IAN": 10,
+    "CATAÑO ARANGO, YULIAN ALEXANDER": 11,
+    "BOLLOQUE PRIETO, TRISTAN": 12,
+    "GARCIA SAINZ, LUCAS": 18
+  },
+  "dorsales_visitante": {
+    "SAN SEBASTIAN OLMO, NICOLAS": 1,
+    "DZHELIL, SIMAR BELGIN": 3,
+    "PASCUAL ARANA, ELEDER": 4,
+    "DE LA RIVA MORENO, ERIK": 5,
+    "ABASCAL ITURRALDE, HUGO": 6,
+    "ESPINOSA CASTILLO, JORGE": 7,
+    "CORIA, THIAGO": 10,
+    "MARTINEZ ARGOS, IBER": 11,
+    "GONZALEZ FERNANDEZ, GABRIEL": 12,
+    "SAID FERNANDEZ, GABRIEL": 17,
+    "GOROSTIAGA CASTILLO, ALEJANDRO": 18
+  },
+  "suspendidos": []
+}
