@@ -1,0 +1,236 @@
+{
+  "acta_id": "R_257558",
+  "filename": "Acta_R_257558.txt",
+  "fuente": "rioja",
+  "temporada": "2025-2026",
+  "jornada": 9,
+  "fecha": "14-02-2026",
+  "hora": "10:15",
+  "categoria": "CADETE FEMENINO (Grupo Único)",
+  "equipo_local": "CALAHORRA FB",
+  "equipo_visitante": "EFB ALFARO Pastelería Lacal",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "AIT ALI MAHYOUTI , ZAKARYA"
+  ],
+  "estadio": "C.M. PISTAS DE ATLETISMO - H.A. - 1 (CALAHORRA)",
+  "ciudad": "Calahorra",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "ARELLANO CASTILLO, MARTA ISABEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "SOLANO LOPEZ, LAURA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "VALVERDE ANGUIANO, ENMA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "ARELLANO CASTILLO, MARTA ISABEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ARELLANO MARTINEZ-BARRANCO, MARTA",
+  "entrenador_visitante": "LACAL PEJENAUTE, EDUARDO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SUBERO CALVO, SOFIA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "SUBERO CALVO, SOFIA",
+  "delegado_equipo_visitante": "SAINZ GRANDES, FRANCISCO MANUEL",
+  "titulares_local": [
+    "VERDUGO SUBERO, DANIELA",
+    "ZAMAJON PASCUAL, NATALIA",
+    "TORRADO CRISTOBAL, MARIA EUGENIA",
+    "CUENCA TAIPE, AINHOA LIZBET",
+    "CUENCA TAIPE, LEIREDANIELA",
+    "JAOUAD BENDRIHAM, MALAK",
+    "SOLANA PEREZ, IRENE",
+    "MONROY ESCORZA, SOFIA",
+    "VERDUGO RUPEREZ, PAULA",
+    "LOPEZ CERECEDA, INES",
+    "IBAÑEZ ABAD, VEGA"
+  ],
+  "titulares_visitante": [
+    "GURRIA CUARTERO, BLANCA",
+    "PRECIADO ZUBIETA, NAHIA",
+    "QUAKIL MARSLY, LINA",
+    "ARELLANO SESMA, LORENA VILLAR",
+    "VITRIAN LOPEZ, SARA",
+    "SAINZ FERNANDEZ, CRISTINA",
+    "GIL FERNANDEZ, MARIA",
+    "DIAZ RODRIGUEZ, ELIANA",
+    "VALVERDE ANGUIANO, ENMA",
+    "ARELLANO CASTILLO, MARTA ISABEL",
+    "LACAL FRANCES, CLAUDIA"
+  ],
+  "suplentes_local": [
+    "DOS SANTOS MATEU, JOANA",
+    "SOLANO LOPEZ, LAURA",
+    "ROCHA DA SILVA, ESTRELLA AMELIA",
+    "SANCHEZ CARRA, OLIVIA",
+    "ADAN DIEZ, LARA"
+  ],
+  "suplentes_visitante": [
+    "DELGADO ANGUAS, IRATI",
+    "ALMANSA GARCIA, OLIVIA",
+    "ARMENDARIZ GALDAMEZ, MARIA"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "ARMENDARIZ GALDAMEZ, MARIA"
+  ],
+  "jugadores_local": [
+    "VERDUGO SUBERO, DANIELA",
+    "ZAMAJON PASCUAL, NATALIA",
+    "TORRADO CRISTOBAL, MARIA EUGENIA",
+    "CUENCA TAIPE, AINHOA LIZBET",
+    "CUENCA TAIPE, LEIREDANIELA",
+    "JAOUAD BENDRIHAM, MALAK",
+    "SOLANA PEREZ, IRENE",
+    "MONROY ESCORZA, SOFIA",
+    "VERDUGO RUPEREZ, PAULA",
+    "LOPEZ CERECEDA, INES",
+    "IBAÑEZ ABAD, VEGA",
+    "ROCHA DA SILVA, ESTRELLA AMELIA",
+    "ADAN DIEZ, LARA",
+    "SOLANO LOPEZ, LAURA",
+    "DOS SANTOS MATEU, JOANA",
+    "SANCHEZ CARRA, OLIVIA"
+  ],
+  "jugadores_visitante": [
+    "GURRIA CUARTERO, BLANCA",
+    "PRECIADO ZUBIETA, NAHIA",
+    "QUAKIL MARSLY, LINA",
+    "ARELLANO SESMA, LORENA VILLAR",
+    "VITRIAN LOPEZ, SARA",
+    "SAINZ FERNANDEZ, CRISTINA",
+    "GIL FERNANDEZ, MARIA",
+    "DIAZ RODRIGUEZ, ELIANA",
+    "VALVERDE ANGUIANO, ENMA",
+    "ARELLANO CASTILLO, MARTA ISABEL",
+    "LACAL FRANCES, CLAUDIA",
+    "DELGADO ANGUAS, IRATI",
+    "ALMANSA GARCIA, OLIVIA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "ROCHA DA SILVA, ESTRELLA AMELIA",
+      "sale": "VERDUGO RUPEREZ, PAULA"
+    },
+    {
+      "min": 40,
+      "entra": "ADAN DIEZ, LARA",
+      "sale": "CUENCA TAIPE, LEIREDANIELA"
+    },
+    {
+      "min": 40,
+      "entra": "SOLANO LOPEZ, LAURA",
+      "sale": "LOPEZ CERECEDA, INES"
+    },
+    {
+      "min": 40,
+      "entra": "DOS SANTOS MATEU, JOANA",
+      "sale": "ZAMAJON PASCUAL, NATALIA"
+    },
+    {
+      "min": 60,
+      "entra": "SANCHEZ CARRA, OLIVIA",
+      "sale": "CUENCA TAIPE, AINHOA LIZBET"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 57,
+      "entra": "DELGADO ANGUAS, IRATI",
+      "sale": "GIL FERNANDEZ, MARIA"
+    },
+    {
+      "min": 70,
+      "entra": "ALMANSA GARCIA, OLIVIA",
+      "sale": "VALVERDE ANGUIANO, ENMA"
+    }
+  ],
+  "minutos_jugadores": {
+    "VERDUGO SUBERO, DANIELA": 90,
+    "ZAMAJON PASCUAL, NATALIA": 40,
+    "TORRADO CRISTOBAL, MARIA EUGENIA": 90,
+    "CUENCA TAIPE, AINHOA LIZBET": 60,
+    "CUENCA TAIPE, LEIREDANIELA": 40,
+    "JAOUAD BENDRIHAM, MALAK": 90,
+    "SOLANA PEREZ, IRENE": 90,
+    "MONROY ESCORZA, SOFIA": 90,
+    "VERDUGO RUPEREZ, PAULA": 40,
+    "LOPEZ CERECEDA, INES": 40,
+    "IBAÑEZ ABAD, VEGA": 90,
+    "ROCHA DA SILVA, ESTRELLA AMELIA": 50,
+    "ADAN DIEZ, LARA": 50,
+    "SOLANO LOPEZ, LAURA": 50,
+    "DOS SANTOS MATEU, JOANA": 50,
+    "SANCHEZ CARRA, OLIVIA": 30,
+    "GURRIA CUARTERO, BLANCA": 90,
+    "PRECIADO ZUBIETA, NAHIA": 90,
+    "QUAKIL MARSLY, LINA": 90,
+    "ARELLANO SESMA, LORENA VILLAR": 90,
+    "VITRIAN LOPEZ, SARA": 90,
+    "SAINZ FERNANDEZ, CRISTINA": 90,
+    "GIL FERNANDEZ, MARIA": 57,
+    "DIAZ RODRIGUEZ, ELIANA": 90,
+    "VALVERDE ANGUIANO, ENMA": 70,
+    "ARELLANO CASTILLO, MARTA ISABEL": 90,
+    "LACAL FRANCES, CLAUDIA": 90,
+    "DELGADO ANGUAS, IRATI": 33,
+    "ALMANSA GARCIA, OLIVIA": 20
+  },
+  "portero_local": "VERDUGO SUBERO, DANIELA",
+  "portero_visitante": "GURRIA CUARTERO, BLANCA",
+  "dorsales_local": {
+    "VERDUGO SUBERO, DANIELA": 1,
+    "ZAMAJON PASCUAL, NATALIA": 2,
+    "TORRADO CRISTOBAL, MARIA EUGENIA": 3,
+    "CUENCA TAIPE, AINHOA LIZBET": 4,
+    "CUENCA TAIPE, LEIREDANIELA": 5,
+    "JAOUAD BENDRIHAM, MALAK": 7,
+    "SOLANA PEREZ, IRENE": 12,
+    "MONROY ESCORZA, SOFIA": 14,
+    "VERDUGO RUPEREZ, PAULA": 15,
+    "LOPEZ CERECEDA, INES": 16,
+    "IBAÑEZ ABAD, VEGA": 17
+  },
+  "dorsales_visitante": {
+    "GURRIA CUARTERO, BLANCA": 1,
+    "PRECIADO ZUBIETA, NAHIA": 5,
+    "QUAKIL MARSLY, LINA": 7,
+    "ARELLANO SESMA, LORENA VILLAR": 10,
+    "VITRIAN LOPEZ, SARA": 12,
+    "SAINZ FERNANDEZ, CRISTINA": 14,
+    "GIL FERNANDEZ, MARIA": 15,
+    "DIAZ RODRIGUEZ, ELIANA": 16,
+    "VALVERDE ANGUIANO, ENMA": 18,
+    "ARELLANO CASTILLO, MARTA ISABEL": 22,
+    "LACAL FRANCES, CLAUDIA": 35
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
