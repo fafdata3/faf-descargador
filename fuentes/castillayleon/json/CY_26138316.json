@@ -1,0 +1,251 @@
+{
+  "acta_id": "CY_26138316",
+  "filename": "Acta_CY_26138316.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "10-10-2026",
+  "hora": "13:00",
+  "categoria": "1ª División Regional de Infantiles (Única - Único)",
+  "equipo_local": "Atlético Pinilla",
+  "equipo_visitante": "C.D. Numancia de Soria S.A.D.",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro",
+    "ÁLVAREZ PARDO, ÓSCAR",
+    "Árbitro Asistente",
+    "RODRÍGUEZ GONZÁLEZ, HECTOR",
+    "Árbitro Asistente",
+    "GUTIÉRREZ FERNÁNDEZ, PEDRO"
+  ],
+  "estadio": "C.M. Emilio González",
+  "ciudad": "León",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "JIMÉNEZ JIMÉNEZ, ISAAC",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "GARIJO GIMENEZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "ORDOÑEZ RODRIGUEZ, MARTIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "PEREZ DIAZ, MATEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VILLALBA LIMA, DIEGO",
+  "entrenador_visitante": "LLORENTE ROMERO, VICTOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SAHELICES CARABALLO, FRANCISCO JOSE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DIAZ DE GERAS NAVARRO, IVAN",
+  "delegado_equipo_visitante": "PEREZ ORTIZ, JOSE IGNACIO",
+  "titulares_local": [
+    "GONZALEZ ORTIZ, RODRIGO",
+    "DIAZ DE GERAS LORENZO, MARCO",
+    "NICOLAS MARTINEZ, ALVARO",
+    "ORDOÑEZ RODRIGUEZ, MARTIN",
+    "JIMÉNEZ JIMÉNEZ, ISAAC",
+    "ANGEL YUDEGO",
+    "CAMINO FUERTES, CARLOS",
+    "LOPEZ DORADO, VICTOR",
+    "LAVIGNE MIGUEL, MARIO",
+    "ALONSO CARRERA, DIEGO",
+    "CABAÑEROS FERNANDEZ, DIEGO"
+  ],
+  "titulares_visitante": [
+    "PÉREZ MUNERA, IGNACIO",
+    "DEL RIO DE MIGUEL, HUGO",
+    "DE MIGUEL BARAHONA, NOEL",
+    "GARIJO GIMENEZ, PABLO",
+    "LACARTA LOSTAO, ADRIAN",
+    "GONZALEZ MIGUEL, MARTIN",
+    "AREVALO CARAZO, HUGO",
+    "REDONDO FERNANDEZ, SAMUEL",
+    "GOYENA NEILA, NICOLAS",
+    "REDRADO MARÍN, IZAN",
+    "ALONSO CHECA, GINES"
+  ],
+  "suplentes_local": [
+    "BAÑEGIL ESCAPA, RODRIGO",
+    "PEREZ RODRIGUEZ, ANGEL",
+    "PEREZ DIAZ, MATEO",
+    "SANCHEZ BLANCO, YOEL",
+    "GONZALEZ ORDOÑEZ, MARIO"
+  ],
+  "suplentes_visitante": [
+    "ALONSO LABORDA, AITOR",
+    "DEL CAMPO GONZALEZ, UNAI",
+    "ARNAIZ DIEGO, ALAIR SIMAO",
+    "MAHIR HAMZA, BILAL",
+    "RUBIO CAMEO, ANGEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "BAÑEGIL ESCAPA, RODRIGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "RUBIO CAMEO, ANGEL"
+  ],
+  "jugadores_local": [
+    "GONZALEZ ORTIZ, RODRIGO",
+    "DIAZ DE GERAS LORENZO, MARCO",
+    "NICOLAS MARTINEZ, ALVARO",
+    "ORDOÑEZ RODRIGUEZ, MARTIN",
+    "JIMÉNEZ JIMÉNEZ, ISAAC",
+    "ANGEL YUDEGO",
+    "CAMINO FUERTES, CARLOS",
+    "LOPEZ DORADO, VICTOR",
+    "LAVIGNE MIGUEL, MARIO",
+    "ALONSO CARRERA, DIEGO",
+    "CABAÑEROS FERNANDEZ, DIEGO",
+    "GONZALEZ ORDOÑEZ, MARIO",
+    "PEREZ DIAZ, MATEO",
+    "PEREZ RODRIGUEZ, ANGEL",
+    "SANCHEZ BLANCO, YOEL"
+  ],
+  "jugadores_visitante": [
+    "PÉREZ MUNERA, IGNACIO",
+    "DEL RIO DE MIGUEL, HUGO",
+    "DE MIGUEL BARAHONA, NOEL",
+    "GARIJO GIMENEZ, PABLO",
+    "LACARTA LOSTAO, ADRIAN",
+    "GONZALEZ MIGUEL, MARTIN",
+    "AREVALO CARAZO, HUGO",
+    "REDONDO FERNANDEZ, SAMUEL",
+    "GOYENA NEILA, NICOLAS",
+    "REDRADO MARÍN, IZAN",
+    "ALONSO CHECA, GINES",
+    "DEL CAMPO GONZALEZ, UNAI",
+    "MAHIR HAMZA, BILAL",
+    "ARNAIZ DIEGO, ALAIR SIMAO",
+    "ALONSO LABORDA, AITOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 43,
+      "entra": "GONZALEZ ORDOÑEZ, MARIO",
+      "sale": "JIMÉNEZ JIMÉNEZ, ISAAC"
+    },
+    {
+      "min": 43,
+      "entra": "PEREZ DIAZ, MATEO",
+      "sale": "LAVIGNE MIGUEL, MARIO"
+    },
+    {
+      "min": 50,
+      "entra": "PEREZ RODRIGUEZ, ANGEL",
+      "sale": "DIAZ DE GERAS LORENZO, MARCO"
+    },
+    {
+      "min": 57,
+      "entra": "SANCHEZ BLANCO, YOEL",
+      "sale": "LOPEZ DORADO, VICTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "DEL CAMPO GONZALEZ, UNAI",
+      "sale": "DE MIGUEL BARAHONA, NOEL"
+    },
+    {
+      "min": 45,
+      "entra": "MAHIR HAMZA, BILAL",
+      "sale": "ALONSO CHECA, GINES"
+    },
+    {
+      "min": 51,
+      "entra": "ARNAIZ DIEGO, ALAIR SIMAO",
+      "sale": "GONZALEZ MIGUEL, MARTIN"
+    },
+    {
+      "min": 69,
+      "entra": "ALONSO LABORDA, AITOR",
+      "sale": "GOYENA NEILA, NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "GONZALEZ ORTIZ, RODRIGO": 90,
+    "DIAZ DE GERAS LORENZO, MARCO": 50,
+    "NICOLAS MARTINEZ, ALVARO": 90,
+    "ORDOÑEZ RODRIGUEZ, MARTIN": 90,
+    "JIMÉNEZ JIMÉNEZ, ISAAC": 43,
+    "ANGEL YUDEGO": 90,
+    "CAMINO FUERTES, CARLOS": 90,
+    "LOPEZ DORADO, VICTOR": 57,
+    "LAVIGNE MIGUEL, MARIO": 43,
+    "ALONSO CARRERA, DIEGO": 90,
+    "CABAÑEROS FERNANDEZ, DIEGO": 90,
+    "GONZALEZ ORDOÑEZ, MARIO": 47,
+    "PEREZ DIAZ, MATEO": 47,
+    "PEREZ RODRIGUEZ, ANGEL": 40,
+    "SANCHEZ BLANCO, YOEL": 33,
+    "PÉREZ MUNERA, IGNACIO": 90,
+    "DEL RIO DE MIGUEL, HUGO": 90,
+    "DE MIGUEL BARAHONA, NOEL": 45,
+    "GARIJO GIMENEZ, PABLO": 90,
+    "LACARTA LOSTAO, ADRIAN": 90,
+    "GONZALEZ MIGUEL, MARTIN": 51,
+    "AREVALO CARAZO, HUGO": 90,
+    "REDONDO FERNANDEZ, SAMUEL": 90,
+    "GOYENA NEILA, NICOLAS": 69,
+    "REDRADO MARÍN, IZAN": 90,
+    "ALONSO CHECA, GINES": 45,
+    "DEL CAMPO GONZALEZ, UNAI": 45,
+    "MAHIR HAMZA, BILAL": 45,
+    "ARNAIZ DIEGO, ALAIR SIMAO": 39,
+    "ALONSO LABORDA, AITOR": 21
+  },
+  "portero_local": "GONZALEZ ORTIZ, RODRIGO",
+  "portero_visitante": "PÉREZ MUNERA, IGNACIO",
+  "dorsales_local": {
+    "GONZALEZ ORTIZ, RODRIGO": 13,
+    "DIAZ DE GERAS LORENZO, MARCO": 3,
+    "NICOLAS MARTINEZ, ALVARO": 4,
+    "ORDOÑEZ RODRIGUEZ, MARTIN": 6,
+    "JIMÉNEZ JIMÉNEZ, ISAAC": 9,
+    "ANGEL YUDEGO": 10,
+    "CAMINO FUERTES, CARLOS": 12,
+    "LOPEZ DORADO, VICTOR": 14,
+    "LAVIGNE MIGUEL, MARIO": 15,
+    "ALONSO CARRERA, DIEGO": 16,
+    "CABAÑEROS FERNANDEZ, DIEGO": 25
+  },
+  "dorsales_visitante": {
+    "PÉREZ MUNERA, IGNACIO": 1,
+    "DEL RIO DE MIGUEL, HUGO": 3,
+    "DE MIGUEL BARAHONA, NOEL": 4,
+    "GARIJO GIMENEZ, PABLO": 7,
+    "LACARTA LOSTAO, ADRIAN": 8,
+    "GONZALEZ MIGUEL, MARTIN": 9,
+    "AREVALO CARAZO, HUGO": 10,
+    "REDONDO FERNANDEZ, SAMUEL": 17,
+    "GOYENA NEILA, NICOLAS": 18,
+    "REDRADO MARÍN, IZAN": 19,
+    "ALONSO CHECA, GINES": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
