@@ -1,0 +1,268 @@
+{
+  "acta_id": "CY_26138522",
+  "filename": "Acta_CY_26138522.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "12-09-2026",
+  "hora": "18:30",
+  "categoria": "2ª División Regional de Infantiles (Única - Único)",
+  "equipo_local": "C.D. Amor de Dios de Zamora",
+  "equipo_visitante": "S.D. Ponferradina S.A.D. B",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "DIEZ ENCINAS, LUCAS",
+    "Árbitro Asistente",
+    "RAMOS ROMÁN, DIEGO",
+    "Árbitro Asistente",
+    "TOMAZ DOS SANTOS, ADRIÁN BENJAMÍN"
+  ],
+  "estadio": "Anexos E.M. Ruta de la Plata 1",
+  "ciudad": "Zamora",
+  "goleadores": [
+    {
+      "minuto": 35,
+      "jugador": "LOPEZ ARIAS CARBAJO, JAIME",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "LOPEZ ARIAS CARBAJO, JAIME",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "PEREZ PEREZ, DYLAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "REDONDO FEO, UNAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "PRIETO GONZALEZ, RAUL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FRANCO LEGIDO, CARLOS",
+  "entrenador_visitante": "SANCHEZ TORRES, CARLOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DIAZ RECIO, SERGIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DIAZ RECIO, SERGIO",
+  "delegado_equipo_visitante": "FERNÁNDEZ LÓPEZ, CAYETANO",
+  "titulares_local": [
+    "MURIEL VAQUERO, SAMUEL",
+    "RODRIGUEZ GAGO, ALEX",
+    "RIQUELME BRAVO, VICTOR",
+    "FERNÁNDEZ SEOANE, NICOLAS",
+    "BARRIO DE LA PRIETA, MIGUEL",
+    "ALLER FERRERO, ERIC",
+    "HERNÁNDEZ ESTEBAN, LUCAS",
+    "CALVO PENEDONES, SAÚL",
+    "LOPEZ ARIAS CARBAJO, JAIME",
+    "PEREZ PEREZ, DYLAN",
+    "PASCUAL COCO, JORGE"
+  ],
+  "titulares_visitante": [
+    "ROEL PEREZ, HUGO",
+    "GONZÁLEZ GALBAN, MARCO",
+    "MERAYO SIERRA, MATEO",
+    "BORREGO ROA, THIAGO",
+    "FERNANDEZ FERNANDEZ, DANIEL",
+    "FUERTES ALVAREZ, LUCA",
+    "HUGO",
+    "RODRIGUEZ ABELLA, MARTIN",
+    "PEREZ RAMOS, MARTIN",
+    "FERNANDEZ MENDEZ, BRUNO",
+    "GUERRERO MARTINEZ, FRANCISCO"
+  ],
+  "suplentes_local": [
+    "JIMENEZ MATEOS, YARON",
+    "REDONDO FEO, UNAI",
+    "DOMINGUEZ FERNANDEZ, MARCO",
+    "ESCOLANO SEVILLANO, JAVIER",
+    "PRIETO GONZALEZ, RAUL"
+  ],
+  "suplentes_visitante": [
+    "SAUME PINEDA, GABRIEL ALEJANDRO",
+    "OSORIO BLANCO, SAMUEL",
+    "DEL CANTO DE ALBA, PABLO",
+    "DE LA CARRERA ATTIBA, MARTIN",
+    "MARTINEZ GARCIA, LUCAS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MURIEL VAQUERO, SAMUEL",
+    "RODRIGUEZ GAGO, ALEX",
+    "RIQUELME BRAVO, VICTOR",
+    "FERNÁNDEZ SEOANE, NICOLAS",
+    "BARRIO DE LA PRIETA, MIGUEL",
+    "ALLER FERRERO, ERIC",
+    "HERNÁNDEZ ESTEBAN, LUCAS",
+    "CALVO PENEDONES, SAÚL",
+    "LOPEZ ARIAS CARBAJO, JAIME",
+    "PEREZ PEREZ, DYLAN",
+    "PASCUAL COCO, JORGE",
+    "JIMENEZ MATEOS, YARON",
+    "DOMINGUEZ FERNANDEZ, MARCO",
+    "REDONDO FEO, UNAI",
+    "PRIETO GONZALEZ, RAUL",
+    "ESCOLANO SEVILLANO, JAVIER"
+  ],
+  "jugadores_visitante": [
+    "ROEL PEREZ, HUGO",
+    "GONZÁLEZ GALBAN, MARCO",
+    "MERAYO SIERRA, MATEO",
+    "BORREGO ROA, THIAGO",
+    "FERNANDEZ FERNANDEZ, DANIEL",
+    "FUERTES ALVAREZ, LUCA",
+    "HUGO",
+    "RODRIGUEZ ABELLA, MARTIN",
+    "PEREZ RAMOS, MARTIN",
+    "FERNANDEZ MENDEZ, BRUNO",
+    "GUERRERO MARTINEZ, FRANCISCO",
+    "SAUME PINEDA, GABRIEL ALEJANDRO",
+    "MARTINEZ GARCIA, LUCAS",
+    "DE LA CARRERA ATTIBA, MARTIN",
+    "DEL CANTO DE ALBA, PABLO",
+    "OSORIO BLANCO, SAMUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "JIMENEZ MATEOS, YARON",
+      "sale": "MURIEL VAQUERO, SAMUEL"
+    },
+    {
+      "min": 45,
+      "entra": "DOMINGUEZ FERNANDEZ, MARCO",
+      "sale": "BARRIO DE LA PRIETA, MIGUEL"
+    },
+    {
+      "min": 49,
+      "entra": "REDONDO FEO, UNAI",
+      "sale": "HERNÁNDEZ ESTEBAN, LUCAS"
+    },
+    {
+      "min": 56,
+      "entra": "PRIETO GONZALEZ, RAUL",
+      "sale": "ALLER FERRERO, ERIC"
+    },
+    {
+      "min": 56,
+      "entra": "ESCOLANO SEVILLANO, JAVIER",
+      "sale": "RIQUELME BRAVO, VICTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 44,
+      "entra": "SAUME PINEDA, GABRIEL ALEJANDRO",
+      "sale": "PEREZ RAMOS, MARTIN"
+    },
+    {
+      "min": 44,
+      "entra": "MARTINEZ GARCIA, LUCAS",
+      "sale": "FERNANDEZ FERNANDEZ, DANIEL"
+    },
+    {
+      "min": 51,
+      "entra": "DE LA CARRERA ATTIBA, MARTIN",
+      "sale": "GONZÁLEZ GALBAN, MARCO"
+    },
+    {
+      "min": 51,
+      "entra": "DEL CANTO DE ALBA, PABLO",
+      "sale": "RODRIGUEZ ABELLA, MARTIN"
+    },
+    {
+      "min": 51,
+      "entra": "OSORIO BLANCO, SAMUEL",
+      "sale": "ROEL PEREZ, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MURIEL VAQUERO, SAMUEL": 45,
+    "RODRIGUEZ GAGO, ALEX": 90,
+    "RIQUELME BRAVO, VICTOR": 56,
+    "FERNÁNDEZ SEOANE, NICOLAS": 90,
+    "BARRIO DE LA PRIETA, MIGUEL": 45,
+    "ALLER FERRERO, ERIC": 56,
+    "HERNÁNDEZ ESTEBAN, LUCAS": 49,
+    "CALVO PENEDONES, SAÚL": 90,
+    "LOPEZ ARIAS CARBAJO, JAIME": 90,
+    "PEREZ PEREZ, DYLAN": 90,
+    "PASCUAL COCO, JORGE": 90,
+    "JIMENEZ MATEOS, YARON": 45,
+    "DOMINGUEZ FERNANDEZ, MARCO": 45,
+    "REDONDO FEO, UNAI": 41,
+    "PRIETO GONZALEZ, RAUL": 34,
+    "ESCOLANO SEVILLANO, JAVIER": 34,
+    "ROEL PEREZ, HUGO": 51,
+    "GONZÁLEZ GALBAN, MARCO": 51,
+    "MERAYO SIERRA, MATEO": 90,
+    "BORREGO ROA, THIAGO": 90,
+    "FERNANDEZ FERNANDEZ, DANIEL": 44,
+    "FUERTES ALVAREZ, LUCA": 90,
+    "HUGO": 90,
+    "RODRIGUEZ ABELLA, MARTIN": 51,
+    "PEREZ RAMOS, MARTIN": 44,
+    "FERNANDEZ MENDEZ, BRUNO": 90,
+    "GUERRERO MARTINEZ, FRANCISCO": 90,
+    "SAUME PINEDA, GABRIEL ALEJANDRO": 46,
+    "MARTINEZ GARCIA, LUCAS": 46,
+    "DE LA CARRERA ATTIBA, MARTIN": 39,
+    "DEL CANTO DE ALBA, PABLO": 39,
+    "OSORIO BLANCO, SAMUEL": 39
+  },
+  "portero_local": "MURIEL VAQUERO, SAMUEL",
+  "portero_visitante": "ROEL PEREZ, HUGO",
+  "dorsales_local": {
+    "MURIEL VAQUERO, SAMUEL": 1,
+    "RODRIGUEZ GAGO, ALEX": 2,
+    "RIQUELME BRAVO, VICTOR": 3,
+    "FERNÁNDEZ SEOANE, NICOLAS": 4,
+    "BARRIO DE LA PRIETA, MIGUEL": 5,
+    "ALLER FERRERO, ERIC": 6,
+    "HERNÁNDEZ ESTEBAN, LUCAS": 7,
+    "CALVO PENEDONES, SAÚL": 8,
+    "LOPEZ ARIAS CARBAJO, JAIME": 9,
+    "PEREZ PEREZ, DYLAN": 10,
+    "PASCUAL COCO, JORGE": 11
+  },
+  "dorsales_visitante": {
+    "ROEL PEREZ, HUGO": 1,
+    "GONZÁLEZ GALBAN, MARCO": 2,
+    "MERAYO SIERRA, MATEO": 3,
+    "BORREGO ROA, THIAGO": 4,
+    "FERNANDEZ FERNANDEZ, DANIEL": 5,
+    "FUERTES ALVAREZ, LUCA": 6,
+    "HUGO": 7,
+    "RODRIGUEZ ABELLA, MARTIN": 8,
+    "PEREZ RAMOS, MARTIN": 9,
+    "FERNANDEZ MENDEZ, BRUNO": 10,
+    "GUERRERO MARTINEZ, FRANCISCO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
