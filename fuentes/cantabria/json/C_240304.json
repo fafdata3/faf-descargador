@@ -1,0 +1,264 @@
+{
+  "acta_id": "C_240304",
+  "filename": "Acta_C_240304.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "10-10-2026",
+  "hora": "17:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "A.D. SAN AGUSTIN A",
+  "equipo_visitante": "VELARDE C.F. A",
+  "goles_local": 0,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "FERNANDEZ COBO, NATALIA"
+  ],
+  "estadio": "Liberto Toca",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "RODRIGUEZ CAÑAS, CRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "PEÑA GONZALEZ, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "LAVIN TOCA, NECO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "PEREZ GALLARDO, SAMUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 36,
+      "jugador": "UMBRIA CORIA, RAFAEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "SALCINES PRIETO, LUIS FELIPE",
+  "segundo_entrenador_local": "Peña Suarez, Alejandro",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MACHIN VALLEJO, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MACHIN VALLEJO, PABLO",
+  "delegado_equipo_visitante": "MANZANARES MIJANGOS, DIEGO",
+  "titulares_local": [
+    "FREIRE GARCIA-BERBEL, PABLO",
+    "UMBRIA CORIA, RAFAEL",
+    "GONZALEZ RIO, DANIEL",
+    "SEBRANGO ROYO, PABLO",
+    "BEZANILLA SAIZ, PABLO",
+    "LOPEZ SEVILLA, MARCOS",
+    "GUTIERREZ VENERO, LORENZO",
+    "QUINDOS CANTERA, JAVIER",
+    "PASTORA LUSARES, SERGIO",
+    "SEBRANGO ROYO, SANTIAGO",
+    "MONTES GALDOS, ALBERTO VALENTIN"
+  ],
+  "titulares_visitante": [
+    "SALCINES ZARCO, AYMAR",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "RODRIGUEZ CAÑAS, CRISTIAN",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "SAN EMETERIO SAN EMETERIO, ADRIAN",
+    "PONCE COBA, ERICK AITOR",
+    "POZAS SANCHO, IKER",
+    "CHANCA PACHECO, ASIER",
+    "PELAYO GARCIA, NICOLAS"
+  ],
+  "suplentes_local": [
+    "SIERRA HERRERO, LUIS",
+    "GARCIA DE GALDEANO MENA, IBAI",
+    "BEZANILLA CRESPO, PABLO",
+    "MANZANARES ORTIZ, LUIS",
+    "ALVAREZ DIEZ DEL CORRAL, RAFAEL"
+  ],
+  "suplentes_visitante": [
+    "DE JUANA GONZALEZ, PABLO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN",
+    "BARBA AGENJO, DARIO",
+    "LAVIN TOCA, NECO",
+    "PEREZ GALLARDO, SAMUEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "FREIRE GARCIA-BERBEL, PABLO",
+    "UMBRIA CORIA, RAFAEL",
+    "GONZALEZ RIO, DANIEL",
+    "SEBRANGO ROYO, PABLO",
+    "BEZANILLA SAIZ, PABLO",
+    "LOPEZ SEVILLA, MARCOS",
+    "GUTIERREZ VENERO, LORENZO",
+    "QUINDOS CANTERA, JAVIER",
+    "PASTORA LUSARES, SERGIO",
+    "SEBRANGO ROYO, SANTIAGO",
+    "MONTES GALDOS, ALBERTO VALENTIN",
+    "BEZANILLA CRESPO, PABLO",
+    "SIERRA HERRERO, LUIS",
+    "ALVAREZ DIEZ DEL CORRAL, RAFAEL",
+    "MANZANARES ORTIZ, LUIS",
+    "GARCIA DE GALDEANO MENA, IBAI"
+  ],
+  "jugadores_visitante": [
+    "SALCINES ZARCO, AYMAR",
+    "MUÑOZ MORA, HUGO",
+    "RUIZ MUÑIZ, MARIO",
+    "RODRIGUEZ CAÑAS, CRISTIAN",
+    "DIEZ GARCIA, MATEO",
+    "PEÑA GONZALEZ, ALVARO",
+    "SAN EMETERIO SAN EMETERIO, ADRIAN",
+    "PONCE COBA, ERICK AITOR",
+    "POZAS SANCHO, IKER",
+    "CHANCA PACHECO, ASIER",
+    "PELAYO GARCIA, NICOLAS",
+    "BARBA AGENJO, DARIO",
+    "DE JUANA GONZALEZ, PABLO",
+    "PEREZ GALLARDO, SAMUEL",
+    "LAVIN TOCA, NECO",
+    "DE ANDRÉS ORDIEREZ, RUBÉN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "BEZANILLA CRESPO, PABLO",
+      "sale": "QUINDOS CANTERA, JAVIER"
+    },
+    {
+      "min": 61,
+      "entra": "SIERRA HERRERO, LUIS",
+      "sale": "UMBRIA CORIA, RAFAEL"
+    },
+    {
+      "min": 61,
+      "entra": "ALVAREZ DIEZ DEL CORRAL, RAFAEL",
+      "sale": "SEBRANGO ROYO, SANTIAGO"
+    },
+    {
+      "min": 68,
+      "entra": "MANZANARES ORTIZ, LUIS",
+      "sale": "MONTES GALDOS, ALBERTO VALENTIN"
+    },
+    {
+      "min": 68,
+      "entra": "GARCIA DE GALDEANO MENA, IBAI",
+      "sale": "PASTORA LUSARES, SERGIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 48,
+      "entra": "BARBA AGENJO, DARIO",
+      "sale": "SAN EMETERIO SAN EMETERIO, ADRIAN"
+    },
+    {
+      "min": 48,
+      "entra": "DE JUANA GONZALEZ, PABLO",
+      "sale": "CHANCA PACHECO, ASIER"
+    },
+    {
+      "min": 54,
+      "entra": "PEREZ GALLARDO, SAMUEL",
+      "sale": "RODRIGUEZ CAÑAS, CRISTIAN"
+    },
+    {
+      "min": 57,
+      "entra": "LAVIN TOCA, NECO",
+      "sale": "RUIZ MUÑIZ, MARIO"
+    },
+    {
+      "min": 57,
+      "entra": "DE ANDRÉS ORDIEREZ, RUBÉN",
+      "sale": "PEÑA GONZALEZ, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "FREIRE GARCIA-BERBEL, PABLO": 90,
+    "UMBRIA CORIA, RAFAEL": 61,
+    "GONZALEZ RIO, DANIEL": 90,
+    "SEBRANGO ROYO, PABLO": 90,
+    "BEZANILLA SAIZ, PABLO": 90,
+    "LOPEZ SEVILLA, MARCOS": 90,
+    "GUTIERREZ VENERO, LORENZO": 90,
+    "QUINDOS CANTERA, JAVIER": 49,
+    "PASTORA LUSARES, SERGIO": 68,
+    "SEBRANGO ROYO, SANTIAGO": 61,
+    "MONTES GALDOS, ALBERTO VALENTIN": 68,
+    "BEZANILLA CRESPO, PABLO": 41,
+    "SIERRA HERRERO, LUIS": 29,
+    "ALVAREZ DIEZ DEL CORRAL, RAFAEL": 29,
+    "MANZANARES ORTIZ, LUIS": 22,
+    "GARCIA DE GALDEANO MENA, IBAI": 22,
+    "SALCINES ZARCO, AYMAR": 90,
+    "MUÑOZ MORA, HUGO": 90,
+    "RUIZ MUÑIZ, MARIO": 57,
+    "RODRIGUEZ CAÑAS, CRISTIAN": 54,
+    "DIEZ GARCIA, MATEO": 90,
+    "PEÑA GONZALEZ, ALVARO": 57,
+    "SAN EMETERIO SAN EMETERIO, ADRIAN": 48,
+    "PONCE COBA, ERICK AITOR": 90,
+    "POZAS SANCHO, IKER": 90,
+    "CHANCA PACHECO, ASIER": 48,
+    "PELAYO GARCIA, NICOLAS": 90,
+    "BARBA AGENJO, DARIO": 42,
+    "DE JUANA GONZALEZ, PABLO": 42,
+    "PEREZ GALLARDO, SAMUEL": 36,
+    "LAVIN TOCA, NECO": 33,
+    "DE ANDRÉS ORDIEREZ, RUBÉN": 33
+  },
+  "portero_local": "FREIRE GARCIA-BERBEL, PABLO",
+  "portero_visitante": "SALCINES ZARCO, AYMAR",
+  "dorsales_local": {
+    "FREIRE GARCIA-BERBEL, PABLO": 25,
+    "UMBRIA CORIA, RAFAEL": 4,
+    "GONZALEZ RIO, DANIEL": 5,
+    "SEBRANGO ROYO, PABLO": 9,
+    "BEZANILLA SAIZ, PABLO": 11,
+    "LOPEZ SEVILLA, MARCOS": 12,
+    "GUTIERREZ VENERO, LORENZO": 16,
+    "QUINDOS CANTERA, JAVIER": 17,
+    "PASTORA LUSARES, SERGIO": 19,
+    "SEBRANGO ROYO, SANTIAGO": 21,
+    "MONTES GALDOS, ALBERTO VALENTIN": 28
+  },
+  "dorsales_visitante": {
+    "SALCINES ZARCO, AYMAR": 13,
+    "MUÑOZ MORA, HUGO": 3,
+    "RUIZ MUÑIZ, MARIO": 4,
+    "RODRIGUEZ CAÑAS, CRISTIAN": 7,
+    "DIEZ GARCIA, MATEO": 8,
+    "PEÑA GONZALEZ, ALVARO": 9,
+    "SAN EMETERIO SAN EMETERIO, ADRIAN": 10,
+    "PONCE COBA, ERICK AITOR": 14,
+    "POZAS SANCHO, IKER": 15,
+    "CHANCA PACHECO, ASIER": 16,
+    "PELAYO GARCIA, NICOLAS": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
