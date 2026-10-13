@@ -1,0 +1,287 @@
+{
+  "acta_id": "E_10044004",
+  "filename": "Acta_E_10044004.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "10-10-2026",
+  "hora": "13:15",
+  "categoria": "LIGA VASCA JUVENIL / GAZTEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "INDARTSU, C.",
+  "equipo_visitante": "URKI C.D.",
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ODRIOZOLA RODRIGUEZ, DANIEL"
+  ],
+  "estadio": "SAN MIGUEL",
+  "ciudad": "Basauri",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "DARBOE, ABDOULIE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "DARBOE, ABDOULIE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "DARBOE, ABDOULIE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 17,
+      "jugador": "NUÑEZ VILLALBA, JESUS SAMUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "PRIETO ALCELAY, IGOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "VILLARREAL ETXALUZE, MIKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 82,
+      "jugador": "RODRIGUEZ EUGUI, MIKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MIGUEL REVUELTA, ENEKO",
+  "entrenador_visitante": "GUINEA AGUIRRE, IOSU",
+  "segundo_entrenador_local": "MENDEZ CONDE, RAUL",
+  "segundo_entrenador_visitante": "OSA FIDALGO, IÑAKI",
+  "delegado_campo_local": "CORRAL CUESTA, AITOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CORRAL CUESTA, AITOR",
+  "delegado_equipo_visitante": "BLANCO ALFONSO, JONATAN",
+  "titulares_local": [
+    "DURAN ETXEBARRIA, OIER",
+    "MENIKA MARTELO, KIMETZ",
+    "UGARTE VELASCO, JON",
+    "UBIERNA CARRASCO, IBAI",
+    "LOPEZ SAENZ DE VITERI, IÑIGO",
+    "GARCIA FERNANDEZ, OIHAN",
+    "EL KHATTAB, BILAL",
+    "NUÑEZ VILLALBA, JESUS SAMUEL",
+    "MARCOS VAZQUEZ, JONAY",
+    "DARBOE, ABDOULIE",
+    "AZCUETA PORTALO, ANDER"
+  ],
+  "titulares_visitante": [
+    "KORTA HAZAS, ENEKO",
+    "DE LAS HERAS SUAREZ, KEMEN",
+    "RODRIGUEZ EUGUI, MIKEL",
+    "ARAUJO SANCHEZ, ALEX",
+    "UNANUE LARRAÑAGA, UNAX",
+    "TEJADA ZULUAGA, GARI",
+    "PRIETO ALCELAY, IGOR",
+    "GUINEA MARTINEZ, IKER",
+    "VILLARREAL ETXALUZE, MIKEL",
+    "ARIZMENDI ARRIZABALAGA, MARKEL",
+    "AFASSI EL HAKKOUNI, ADIL"
+  ],
+  "suplentes_local": [
+    "DE DIEGO NISTAL, JULEN",
+    "FUENTES ALFONSO, GABRIEL",
+    "DE LA PRIETA PINTO, DAVID",
+    "BAHOU, AYOUB",
+    "GOMEZ LAGOS, MARKEL",
+    "GOMEZ ELOSUA, AIMAR",
+    "DEL RIO GONZALEZ, ERIK"
+  ],
+  "suplentes_visitante": [
+    "BARRENECHEA BERASALUCE, JAKES",
+    "HERNANDEZ RIOS, IZAN",
+    "ARANCETA MARTINICORENA, PELLO",
+    "AYARZA ODRIOZOLA, ELUR",
+    "BOLLAR ALONSO, GAIZKA",
+    "DE LA VEGA DOMINGUEZ, ANER",
+    "PUGA DE LA TORRE, JOKIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "DE DIEGO NISTAL, JULEN",
+    "BAHOU, AYOUB"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BARRENECHEA BERASALUCE, JAKES",
+    "PUGA DE LA TORRE, JOKIN"
+  ],
+  "jugadores_local": [
+    "DURAN ETXEBARRIA, OIER",
+    "MENIKA MARTELO, KIMETZ",
+    "UGARTE VELASCO, JON",
+    "UBIERNA CARRASCO, IBAI",
+    "LOPEZ SAENZ DE VITERI, IÑIGO",
+    "GARCIA FERNANDEZ, OIHAN",
+    "EL KHATTAB, BILAL",
+    "NUÑEZ VILLALBA, JESUS SAMUEL",
+    "MARCOS VAZQUEZ, JONAY",
+    "DARBOE, ABDOULIE",
+    "AZCUETA PORTALO, ANDER",
+    "FUENTES ALFONSO, GABRIEL",
+    "GOMEZ ELOSUA, AIMAR",
+    "DEL RIO GONZALEZ, ERIK",
+    "GOMEZ LAGOS, MARKEL",
+    "DE LA PRIETA PINTO, DAVID"
+  ],
+  "jugadores_visitante": [
+    "KORTA HAZAS, ENEKO",
+    "DE LAS HERAS SUAREZ, KEMEN",
+    "RODRIGUEZ EUGUI, MIKEL",
+    "ARAUJO SANCHEZ, ALEX",
+    "UNANUE LARRAÑAGA, UNAX",
+    "TEJADA ZULUAGA, GARI",
+    "PRIETO ALCELAY, IGOR",
+    "GUINEA MARTINEZ, IKER",
+    "VILLARREAL ETXALUZE, MIKEL",
+    "ARIZMENDI ARRIZABALAGA, MARKEL",
+    "AFASSI EL HAKKOUNI, ADIL",
+    "AYARZA ODRIOZOLA, ELUR",
+    "ARANCETA MARTINICORENA, PELLO",
+    "HERNANDEZ RIOS, IZAN",
+    "BOLLAR ALONSO, GAIZKA",
+    "DE LA VEGA DOMINGUEZ, ANER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 71,
+      "entra": "FUENTES ALFONSO, GABRIEL",
+      "sale": "AZCUETA PORTALO, ANDER"
+    },
+    {
+      "min": 71,
+      "entra": "GOMEZ ELOSUA, AIMAR",
+      "sale": "NUÑEZ VILLALBA, JESUS SAMUEL"
+    },
+    {
+      "min": 74,
+      "entra": "DEL RIO GONZALEZ, ERIK",
+      "sale": "MARCOS VAZQUEZ, JONAY"
+    },
+    {
+      "min": 76,
+      "entra": "GOMEZ LAGOS, MARKEL",
+      "sale": "EL KHATTAB, BILAL"
+    },
+    {
+      "min": 76,
+      "entra": "DE LA PRIETA PINTO, DAVID",
+      "sale": "DARBOE, ABDOULIE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "AYARZA ODRIOZOLA, ELUR",
+      "sale": "UNANUE LARRAÑAGA, UNAX"
+    },
+    {
+      "min": 59,
+      "entra": "ARANCETA MARTINICORENA, PELLO",
+      "sale": "GUINEA MARTINEZ, IKER"
+    },
+    {
+      "min": 59,
+      "entra": "HERNANDEZ RIOS, IZAN",
+      "sale": "ARIZMENDI ARRIZABALAGA, MARKEL"
+    },
+    {
+      "min": 71,
+      "entra": "BOLLAR ALONSO, GAIZKA",
+      "sale": "PRIETO ALCELAY, IGOR"
+    },
+    {
+      "min": 80,
+      "entra": "DE LA VEGA DOMINGUEZ, ANER",
+      "sale": "VILLARREAL ETXALUZE, MIKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "DURAN ETXEBARRIA, OIER": 90,
+    "MENIKA MARTELO, KIMETZ": 90,
+    "UGARTE VELASCO, JON": 90,
+    "UBIERNA CARRASCO, IBAI": 90,
+    "LOPEZ SAENZ DE VITERI, IÑIGO": 90,
+    "GARCIA FERNANDEZ, OIHAN": 90,
+    "EL KHATTAB, BILAL": 76,
+    "NUÑEZ VILLALBA, JESUS SAMUEL": 71,
+    "MARCOS VAZQUEZ, JONAY": 74,
+    "DARBOE, ABDOULIE": 76,
+    "AZCUETA PORTALO, ANDER": 71,
+    "FUENTES ALFONSO, GABRIEL": 19,
+    "GOMEZ ELOSUA, AIMAR": 19,
+    "DEL RIO GONZALEZ, ERIK": 16,
+    "GOMEZ LAGOS, MARKEL": 14,
+    "DE LA PRIETA PINTO, DAVID": 14,
+    "KORTA HAZAS, ENEKO": 90,
+    "DE LAS HERAS SUAREZ, KEMEN": 90,
+    "RODRIGUEZ EUGUI, MIKEL": 90,
+    "ARAUJO SANCHEZ, ALEX": 90,
+    "UNANUE LARRAÑAGA, UNAX": 45,
+    "TEJADA ZULUAGA, GARI": 90,
+    "PRIETO ALCELAY, IGOR": 71,
+    "GUINEA MARTINEZ, IKER": 59,
+    "VILLARREAL ETXALUZE, MIKEL": 80,
+    "ARIZMENDI ARRIZABALAGA, MARKEL": 59,
+    "AFASSI EL HAKKOUNI, ADIL": 90,
+    "AYARZA ODRIOZOLA, ELUR": 45,
+    "ARANCETA MARTINICORENA, PELLO": 31,
+    "HERNANDEZ RIOS, IZAN": 31,
+    "BOLLAR ALONSO, GAIZKA": 19,
+    "DE LA VEGA DOMINGUEZ, ANER": 10
+  },
+  "portero_local": "DURAN ETXEBARRIA, OIER",
+  "portero_visitante": "KORTA HAZAS, ENEKO",
+  "dorsales_local": {
+    "DURAN ETXEBARRIA, OIER": 1,
+    "MENIKA MARTELO, KIMETZ": 3,
+    "UGARTE VELASCO, JON": 4,
+    "UBIERNA CARRASCO, IBAI": 5,
+    "LOPEZ SAENZ DE VITERI, IÑIGO": 6,
+    "GARCIA FERNANDEZ, OIHAN": 7,
+    "EL KHATTAB, BILAL": 8,
+    "NUÑEZ VILLALBA, JESUS SAMUEL": 11,
+    "MARCOS VAZQUEZ, JONAY": 15,
+    "DARBOE, ABDOULIE": 20,
+    "AZCUETA PORTALO, ANDER": 23
+  },
+  "dorsales_visitante": {
+    "KORTA HAZAS, ENEKO": 13,
+    "DE LAS HERAS SUAREZ, KEMEN": 2,
+    "RODRIGUEZ EUGUI, MIKEL": 3,
+    "ARAUJO SANCHEZ, ALEX": 6,
+    "UNANUE LARRAÑAGA, UNAX": 8,
+    "TEJADA ZULUAGA, GARI": 10,
+    "PRIETO ALCELAY, IGOR": 11,
+    "GUINEA MARTINEZ, IKER": 19,
+    "VILLARREAL ETXALUZE, MIKEL": 21,
+    "ARIZMENDI ARRIZABALAGA, MARKEL": 23,
+    "AFASSI EL HAKKOUNI, ADIL": 26
+  },
+  "suspendidos": []
+}
