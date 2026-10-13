@@ -1,0 +1,256 @@
+{
+  "acta_id": "C_244091",
+  "filename": "Acta_C_244091.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "10-10-2026",
+  "hora": "12:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "CLUB BANSANDER A",
+  "equipo_visitante": "C.D. MONTE A",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PEÑA ALONSO, UNAI"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 16,
+      "jugador": "LOPEZ IBARGUEN, NEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "HIGUERA MONTES, ALONSO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "YOMEJOU GANZO, JEAN PAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "GUTIERREZ CUETO, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "TEJA GIL, LEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GUTIERREZ GUTIERREZ, DAVID",
+  "entrenador_visitante": "LEGARRETA YURRITA, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "OJEMBARRENA PEÑA, SERGIO",
+  "delegado_equipo_visitante": "CANDELA GALDONA, PABLO",
+  "titulares_local": [
+    "MORALES LABRADOR, ENRIQUE",
+    "PACHECO PEÑA, MARCO",
+    "PEREZ COBO, ALEXIS",
+    "CARRO LOSADA, BRUNO",
+    "GUTIERREZ CUETO, MARCO",
+    "CASAS GUTIERREZ, ANDREAS",
+    "QUIROGA PAZ, PABLO",
+    "LOPEZ PUENTE, IVAN",
+    "GARCIA BENITEZ, FERNANDO",
+    "LOPEZ IBARGUEN, NEL",
+    "HIGUERA MONTES, ALONSO"
+  ],
+  "titulares_visitante": [
+    "SAINZ RUIZ, GABRIEL",
+    "DE JULIAN PEROJO, BRUNO",
+    "TOSIO CAPDEVILA, GUILLERMO",
+    "ORTIZ SAÑUDO, ALONSO",
+    "BLANCO LANZA, GONZALO",
+    "TEJA GIL, LEO",
+    "DELGADO GARCIA, DANIEL",
+    "FRAILE SANTISTEBAN, FERNANDO",
+    "BRUN ZAMORA, JUAN MANUEL",
+    "DEL RIO GONZALEZ, NICO",
+    "SUAREZ ALVES, LEONARDO"
+  ],
+  "suplentes_local": [
+    "VILLA VARA, ALEJANDRO",
+    "LANDERA LOPEZ, ABELARDO",
+    "AÑORGA LOPEZ, JESUS",
+    "YOMEJOU GANZO, JEAN PAUL",
+    "TANASA TANASA, PABLO CRISTIAN"
+  ],
+  "suplentes_visitante": [
+    "VILLAVERDE TORRES, FELIPE",
+    "HERRERA RUIZ, ALVARO",
+    "COSÍO GONZÁLEZ, DIEGO",
+    "MARTÍNEZ CRUZ, MARIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MORALES LABRADOR, ENRIQUE",
+    "PACHECO PEÑA, MARCO",
+    "PEREZ COBO, ALEXIS",
+    "CARRO LOSADA, BRUNO",
+    "GUTIERREZ CUETO, MARCO",
+    "CASAS GUTIERREZ, ANDREAS",
+    "QUIROGA PAZ, PABLO",
+    "LOPEZ PUENTE, IVAN",
+    "GARCIA BENITEZ, FERNANDO",
+    "LOPEZ IBARGUEN, NEL",
+    "HIGUERA MONTES, ALONSO",
+    "VILLA VARA, ALEJANDRO",
+    "TANASA TANASA, PABLO CRISTIAN",
+    "AÑORGA LOPEZ, JESUS",
+    "YOMEJOU GANZO, JEAN PAUL",
+    "LANDERA LOPEZ, ABELARDO"
+  ],
+  "jugadores_visitante": [
+    "SAINZ RUIZ, GABRIEL",
+    "DE JULIAN PEROJO, BRUNO",
+    "TOSIO CAPDEVILA, GUILLERMO",
+    "ORTIZ SAÑUDO, ALONSO",
+    "BLANCO LANZA, GONZALO",
+    "TEJA GIL, LEO",
+    "DELGADO GARCIA, DANIEL",
+    "FRAILE SANTISTEBAN, FERNANDO",
+    "BRUN ZAMORA, JUAN MANUEL",
+    "DEL RIO GONZALEZ, NICO",
+    "SUAREZ ALVES, LEONARDO",
+    "HERRERA RUIZ, ALVARO",
+    "COSÍO GONZÁLEZ, DIEGO",
+    "MARTÍNEZ CRUZ, MARIO",
+    "VILLAVERDE TORRES, FELIPE"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "VILLA VARA, ALEJANDRO",
+      "sale": "MORALES LABRADOR, ENRIQUE"
+    },
+    {
+      "min": 43,
+      "entra": "TANASA TANASA, PABLO CRISTIAN",
+      "sale": "QUIROGA PAZ, PABLO"
+    },
+    {
+      "min": 43,
+      "entra": "AÑORGA LOPEZ, JESUS",
+      "sale": "LOPEZ PUENTE, IVAN"
+    },
+    {
+      "min": 43,
+      "entra": "YOMEJOU GANZO, JEAN PAUL",
+      "sale": "LOPEZ IBARGUEN, NEL"
+    },
+    {
+      "min": 43,
+      "entra": "LANDERA LOPEZ, ABELARDO",
+      "sale": "PEREZ COBO, ALEXIS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "HERRERA RUIZ, ALVARO",
+      "sale": "FRAILE SANTISTEBAN, FERNANDO"
+    },
+    {
+      "min": 43,
+      "entra": "COSÍO GONZÁLEZ, DIEGO",
+      "sale": "DE JULIAN PEROJO, BRUNO"
+    },
+    {
+      "min": 43,
+      "entra": "MARTÍNEZ CRUZ, MARIO",
+      "sale": "DEL RIO GONZALEZ, NICO"
+    },
+    {
+      "min": 43,
+      "entra": "VILLAVERDE TORRES, FELIPE",
+      "sale": "BLANCO LANZA, GONZALO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MORALES LABRADOR, ENRIQUE": 35,
+    "PACHECO PEÑA, MARCO": 90,
+    "PEREZ COBO, ALEXIS": 43,
+    "CARRO LOSADA, BRUNO": 90,
+    "GUTIERREZ CUETO, MARCO": 90,
+    "CASAS GUTIERREZ, ANDREAS": 90,
+    "QUIROGA PAZ, PABLO": 43,
+    "LOPEZ PUENTE, IVAN": 43,
+    "GARCIA BENITEZ, FERNANDO": 90,
+    "LOPEZ IBARGUEN, NEL": 43,
+    "HIGUERA MONTES, ALONSO": 90,
+    "VILLA VARA, ALEJANDRO": 55,
+    "TANASA TANASA, PABLO CRISTIAN": 47,
+    "AÑORGA LOPEZ, JESUS": 47,
+    "YOMEJOU GANZO, JEAN PAUL": 47,
+    "LANDERA LOPEZ, ABELARDO": 47,
+    "SAINZ RUIZ, GABRIEL": 90,
+    "DE JULIAN PEROJO, BRUNO": 43,
+    "TOSIO CAPDEVILA, GUILLERMO": 90,
+    "ORTIZ SAÑUDO, ALONSO": 90,
+    "BLANCO LANZA, GONZALO": 43,
+    "TEJA GIL, LEO": 90,
+    "DELGADO GARCIA, DANIEL": 90,
+    "FRAILE SANTISTEBAN, FERNANDO": 35,
+    "BRUN ZAMORA, JUAN MANUEL": 90,
+    "DEL RIO GONZALEZ, NICO": 43,
+    "SUAREZ ALVES, LEONARDO": 90,
+    "HERRERA RUIZ, ALVARO": 55,
+    "COSÍO GONZÁLEZ, DIEGO": 47,
+    "MARTÍNEZ CRUZ, MARIO": 47,
+    "VILLAVERDE TORRES, FELIPE": 47
+  },
+  "portero_local": "MORALES LABRADOR, ENRIQUE",
+  "portero_visitante": "SAINZ RUIZ, GABRIEL",
+  "dorsales_local": {
+    "MORALES LABRADOR, ENRIQUE": 13,
+    "PACHECO PEÑA, MARCO": 2,
+    "PEREZ COBO, ALEXIS": 3,
+    "CARRO LOSADA, BRUNO": 4,
+    "GUTIERREZ CUETO, MARCO": 7,
+    "CASAS GUTIERREZ, ANDREAS": 9,
+    "QUIROGA PAZ, PABLO": 10,
+    "LOPEZ PUENTE, IVAN": 14,
+    "GARCIA BENITEZ, FERNANDO": 15,
+    "LOPEZ IBARGUEN, NEL": 17,
+    "HIGUERA MONTES, ALONSO": 20
+  },
+  "dorsales_visitante": {
+    "SAINZ RUIZ, GABRIEL": 13,
+    "DE JULIAN PEROJO, BRUNO": 2,
+    "TOSIO CAPDEVILA, GUILLERMO": 5,
+    "ORTIZ SAÑUDO, ALONSO": 6,
+    "BLANCO LANZA, GONZALO": 8,
+    "TEJA GIL, LEO": 9,
+    "DELGADO GARCIA, DANIEL": 14,
+    "FRAILE SANTISTEBAN, FERNANDO": 15,
+    "BRUN ZAMORA, JUAN MANUEL": 16,
+    "DEL RIO GONZALEZ, NICO": 18,
+    "SUAREZ ALVES, LEONARDO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
