@@ -1,0 +1,269 @@
+{
+  "acta_id": "C_244093",
+  "filename": "Acta_C_244093.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "11-10-2026",
+  "hora": "10:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "S.D. TEXTIL ESCUDO A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE A",
+  "goles_local": 1,
+  "goles_visitante": 6,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RIVAS POSTIGO, HUGO"
+  ],
+  "estadio": "Cabezón de la Sal",
+  "ciudad": "Cabezón De La Sal",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "HERRERO PEREZ, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "LASO MARTINEZ, LEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "ESCUDERO SAIZ, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "LASO MARTINEZ, LEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 48,
+      "jugador": "ESCUDERO SAIZ, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "PEÑA DIAZ, OLIVER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "GARCIA OBESO, LEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [],
+  "entrenador_local": "SÁNCHEZ ZUBIAURRE, GONZALO",
+  "entrenador_visitante": "PEREZ MARTINEZ, LORENZO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "GOMEZ RIVERO, IKER",
+    "ORTIZ SAIZ, ADRIAN",
+    "ALONSO ECHEVARRIA, LUCAS",
+    "ALVAREZ VAZQUEZ, XUNE",
+    "LLANO BESGA, JON",
+    "FERNANDEZ ERICE, LUCAS",
+    "ORTIZ GONZALEZ, NICOLAS",
+    "HERRERO PEREZ, ADRIAN",
+    "GOMEZ ROMANO, UNAY",
+    "VILLAR CORTIJO, MARIO",
+    "GUTIERREZ URRACA, MARCO"
+  ],
+  "titulares_visitante": [
+    "SANTANDER GONZALEZ, OLIVER",
+    "TORRES ORUÑA, GUILLERMO",
+    "GOMEZ DIAZ, ENZO",
+    "GARCIA OBESO, LEO",
+    "FERNÁNDEZ MIER, ERNESTO",
+    "URANGA FEIJOO, JON",
+    "ESCUDERO SAIZ, NICOLAS",
+    "LASO MARTINEZ, LEO",
+    "MALLAVIA PEREZ, NICOLAS",
+    "GONZALEZ IBAÑEZ, PABLO",
+    "EGUSQUIZA HIGUERA, LUIS"
+  ],
+  "suplentes_local": [
+    "PEREZ ELOURAD, ISMAEL",
+    "MARTINEZ GOMEZ, MANUEL",
+    "LOPEZ MIGOYA, FERNANDO",
+    "GOMEZ GOMEZ, UNAI"
+  ],
+  "suplentes_visitante": [
+    "CUEVAS TERAN, LUIS",
+    "PEÑA DIAZ, OLIVER",
+    "GONZALEZ OTERO, LEO",
+    "LOPEZ LOPEZ, CARLO",
+    "SAN JUAN SZUPILUK, LEO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GOMEZ RIVERO, IKER",
+    "ORTIZ SAIZ, ADRIAN",
+    "ALONSO ECHEVARRIA, LUCAS",
+    "ALVAREZ VAZQUEZ, XUNE",
+    "LLANO BESGA, JON",
+    "FERNANDEZ ERICE, LUCAS",
+    "ORTIZ GONZALEZ, NICOLAS",
+    "HERRERO PEREZ, ADRIAN",
+    "GOMEZ ROMANO, UNAY",
+    "VILLAR CORTIJO, MARIO",
+    "GUTIERREZ URRACA, MARCO",
+    "PEREZ ELOURAD, ISMAEL",
+    "MARTINEZ GOMEZ, MANUEL",
+    "GOMEZ GOMEZ, UNAI",
+    "LOPEZ MIGOYA, FERNANDO"
+  ],
+  "jugadores_visitante": [
+    "SANTANDER GONZALEZ, OLIVER",
+    "TORRES ORUÑA, GUILLERMO",
+    "GOMEZ DIAZ, ENZO",
+    "GARCIA OBESO, LEO",
+    "FERNÁNDEZ MIER, ERNESTO",
+    "URANGA FEIJOO, JON",
+    "ESCUDERO SAIZ, NICOLAS",
+    "LASO MARTINEZ, LEO",
+    "MALLAVIA PEREZ, NICOLAS",
+    "GONZALEZ IBAÑEZ, PABLO",
+    "EGUSQUIZA HIGUERA, LUIS",
+    "CUEVAS TERAN, LUIS",
+    "LOPEZ LOPEZ, CARLO",
+    "PEÑA DIAZ, OLIVER",
+    "GONZALEZ OTERO, LEO",
+    "SAN JUAN SZUPILUK, LEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 39,
+      "entra": "PEREZ ELOURAD, ISMAEL",
+      "sale": "GUTIERREZ URRACA, MARCO"
+    },
+    {
+      "min": 45,
+      "entra": "MARTINEZ GOMEZ, MANUEL",
+      "sale": "VILLAR CORTIJO, MARIO"
+    },
+    {
+      "min": 51,
+      "entra": "GOMEZ GOMEZ, UNAI",
+      "sale": "GOMEZ ROMANO, UNAY"
+    },
+    {
+      "min": 56,
+      "entra": "LOPEZ MIGOYA, FERNANDO",
+      "sale": "ORTIZ GONZALEZ, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "CUEVAS TERAN, LUIS",
+      "sale": "SANTANDER GONZALEZ, OLIVER"
+    },
+    {
+      "min": 46,
+      "entra": "LOPEZ LOPEZ, CARLO",
+      "sale": "URANGA FEIJOO, JON"
+    },
+    {
+      "min": 46,
+      "entra": "PEÑA DIAZ, OLIVER",
+      "sale": "EGUSQUIZA HIGUERA, LUIS"
+    },
+    {
+      "min": 51,
+      "entra": "GONZALEZ OTERO, LEO",
+      "sale": "LASO MARTINEZ, LEO"
+    },
+    {
+      "min": 51,
+      "entra": "SAN JUAN SZUPILUK, LEO",
+      "sale": "MALLAVIA PEREZ, NICOLAS"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ RIVERO, IKER": 90,
+    "ORTIZ SAIZ, ADRIAN": 90,
+    "ALONSO ECHEVARRIA, LUCAS": 90,
+    "ALVAREZ VAZQUEZ, XUNE": 90,
+    "LLANO BESGA, JON": 90,
+    "FERNANDEZ ERICE, LUCAS": 90,
+    "ORTIZ GONZALEZ, NICOLAS": 56,
+    "HERRERO PEREZ, ADRIAN": 90,
+    "GOMEZ ROMANO, UNAY": 51,
+    "VILLAR CORTIJO, MARIO": 45,
+    "GUTIERREZ URRACA, MARCO": 39,
+    "PEREZ ELOURAD, ISMAEL": 51,
+    "MARTINEZ GOMEZ, MANUEL": 45,
+    "GOMEZ GOMEZ, UNAI": 39,
+    "LOPEZ MIGOYA, FERNANDO": 34,
+    "SANTANDER GONZALEZ, OLIVER": 36,
+    "TORRES ORUÑA, GUILLERMO": 90,
+    "GOMEZ DIAZ, ENZO": 90,
+    "GARCIA OBESO, LEO": 90,
+    "FERNÁNDEZ MIER, ERNESTO": 90,
+    "URANGA FEIJOO, JON": 46,
+    "ESCUDERO SAIZ, NICOLAS": 90,
+    "LASO MARTINEZ, LEO": 51,
+    "MALLAVIA PEREZ, NICOLAS": 51,
+    "GONZALEZ IBAÑEZ, PABLO": 90,
+    "EGUSQUIZA HIGUERA, LUIS": 46,
+    "CUEVAS TERAN, LUIS": 54,
+    "LOPEZ LOPEZ, CARLO": 44,
+    "PEÑA DIAZ, OLIVER": 44,
+    "GONZALEZ OTERO, LEO": 39,
+    "SAN JUAN SZUPILUK, LEO": 39
+  },
+  "portero_local": "GOMEZ RIVERO, IKER",
+  "portero_visitante": "SANTANDER GONZALEZ, OLIVER",
+  "dorsales_local": {
+    "GOMEZ RIVERO, IKER": 13,
+    "ORTIZ SAIZ, ADRIAN": 2,
+    "ALONSO ECHEVARRIA, LUCAS": 3,
+    "ALVAREZ VAZQUEZ, XUNE": 4,
+    "LLANO BESGA, JON": 7,
+    "FERNANDEZ ERICE, LUCAS": 9,
+    "ORTIZ GONZALEZ, NICOLAS": 10,
+    "HERRERO PEREZ, ADRIAN": 11,
+    "GOMEZ ROMANO, UNAY": 14,
+    "VILLAR CORTIJO, MARIO": 16,
+    "GUTIERREZ URRACA, MARCO": 18
+  },
+  "dorsales_visitante": {
+    "SANTANDER GONZALEZ, OLIVER": 13,
+    "TORRES ORUÑA, GUILLERMO": 2,
+    "GOMEZ DIAZ, ENZO": 4,
+    "GARCIA OBESO, LEO": 6,
+    "FERNÁNDEZ MIER, ERNESTO": 7,
+    "URANGA FEIJOO, JON": 8,
+    "ESCUDERO SAIZ, NICOLAS": 9,
+    "LASO MARTINEZ, LEO": 10,
+    "MALLAVIA PEREZ, NICOLAS": 12,
+    "GONZALEZ IBAÑEZ, PABLO": 14,
+    "EGUSQUIZA HIGUERA, LUIS": 16
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
