@@ -1,0 +1,257 @@
+{
+  "acta_id": "C_244090",
+  "filename": "Acta_C_244090.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "10-10-2026",
+  "hora": "11:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CARUTA MOROI, EDUARDO"
+  ],
+  "estadio": "El Malecón 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 36,
+      "jugador": "QUINTANA FERNANDEZ, RODRIGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "ALVAREZ GARCIA, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "NICOL BROWN, DICKSON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 28,
+      "jugador": "BOLADO MASEGOSA, DAVID",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "HERRUZO RODRIGUEZ, LEO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 55,
+      "jugador": "LOPEZ PELAYO, ALEJANDRO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "NUÑEZ BARROSO, SEBASTIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LARUMBE GARCIA, AIMAR",
+  "entrenador_visitante": "HIERRO GOMEZ, MARCOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RAMOS MONTERO, TELMO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RAMOS MONTERO, TELMO",
+  "delegado_equipo_visitante": "Madrazo Presmanes, Pablo",
+  "titulares_local": [
+    "ALDEA MARTINEZ, UNAI",
+    "DIACONU PINZARI, NIKITA",
+    "RUIZ GARCIA, DARIO",
+    "FERNÁNDEZ ANDRÉS, ENZO",
+    "FERNANDEZ GARCIA, IZAN",
+    "BOLADO MASEGOSA, DAVID",
+    "TARDON JARAIZ, JORGE",
+    "HERRUZO RODRIGUEZ, LEO",
+    "CORDON PRADANOS, PABLO",
+    "DEL BARRIO MONTES, SIRO",
+    "REBOLLEDO GARCIA, OLIVER"
+  ],
+  "titulares_visitante": [
+    "LAVIN BARQUIN, ERIK",
+    "PLA LAVIN, MARIO",
+    "VARGA BUSTIO, ALONSO",
+    "ALONSO MONTERO, MARCOS",
+    "ALVAREZ GARCIA, DANIEL",
+    "ORTIZ VIADERO, ALONSO",
+    "FERNANDEZ LAVIN, HUGO",
+    "NUÑEZ BARROSO, SEBASTIAN",
+    "ABASCAL BARQUIN, HUGO",
+    "QUINTANA FERNANDEZ, RODRIGO",
+    "LOPEZ FERNANDEZ, MATEO"
+  ],
+  "suplentes_local": [
+    "MARCOS GARCIA, ADRIAN",
+    "LOPEZ PELAYO, ALEJANDRO",
+    "NICOL BROWN, DICKSON",
+    "SAIZ MOYA, SAUL"
+  ],
+  "suplentes_visitante": [
+    "BLANCO LOBATO, CARLOS",
+    "RUIZ LASTRA, IVAN",
+    "CASTAÑEDA IBAÑEZ, ENZO",
+    "GOMEZ HERRERIA, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARCOS GARCIA, ADRIAN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ALDEA MARTINEZ, UNAI",
+    "DIACONU PINZARI, NIKITA",
+    "RUIZ GARCIA, DARIO",
+    "FERNÁNDEZ ANDRÉS, ENZO",
+    "FERNANDEZ GARCIA, IZAN",
+    "BOLADO MASEGOSA, DAVID",
+    "TARDON JARAIZ, JORGE",
+    "HERRUZO RODRIGUEZ, LEO",
+    "CORDON PRADANOS, PABLO",
+    "DEL BARRIO MONTES, SIRO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "SAIZ MOYA, SAUL",
+    "NICOL BROWN, DICKSON",
+    "LOPEZ PELAYO, ALEJANDRO"
+  ],
+  "jugadores_visitante": [
+    "LAVIN BARQUIN, ERIK",
+    "PLA LAVIN, MARIO",
+    "VARGA BUSTIO, ALONSO",
+    "ALONSO MONTERO, MARCOS",
+    "ALVAREZ GARCIA, DANIEL",
+    "ORTIZ VIADERO, ALONSO",
+    "FERNANDEZ LAVIN, HUGO",
+    "NUÑEZ BARROSO, SEBASTIAN",
+    "ABASCAL BARQUIN, HUGO",
+    "QUINTANA FERNANDEZ, RODRIGO",
+    "LOPEZ FERNANDEZ, MATEO",
+    "BLANCO LOBATO, CARLOS",
+    "RUIZ LASTRA, IVAN",
+    "CASTAÑEDA IBAÑEZ, ENZO",
+    "GOMEZ HERRERIA, DIEGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "SAIZ MOYA, SAUL",
+      "sale": "DIACONU PINZARI, NIKITA"
+    },
+    {
+      "min": 35,
+      "entra": "NICOL BROWN, DICKSON",
+      "sale": "REBOLLEDO GARCIA, OLIVER"
+    },
+    {
+      "min": 43,
+      "entra": "LOPEZ PELAYO, ALEJANDRO",
+      "sale": "RUIZ GARCIA, DARIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "BLANCO LOBATO, CARLOS",
+      "sale": "LAVIN BARQUIN, ERIK"
+    },
+    {
+      "min": 49,
+      "entra": "RUIZ LASTRA, IVAN",
+      "sale": "NUÑEZ BARROSO, SEBASTIAN"
+    },
+    {
+      "min": 53,
+      "entra": "CASTAÑEDA IBAÑEZ, ENZO",
+      "sale": "ORTIZ VIADERO, ALONSO"
+    },
+    {
+      "min": 56,
+      "entra": "GOMEZ HERRERIA, DIEGO",
+      "sale": "ALONSO MONTERO, MARCOS"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALDEA MARTINEZ, UNAI": 90,
+    "DIACONU PINZARI, NIKITA": 35,
+    "RUIZ GARCIA, DARIO": 43,
+    "FERNÁNDEZ ANDRÉS, ENZO": 90,
+    "FERNANDEZ GARCIA, IZAN": 90,
+    "BOLADO MASEGOSA, DAVID": 90,
+    "TARDON JARAIZ, JORGE": 90,
+    "HERRUZO RODRIGUEZ, LEO": 90,
+    "CORDON PRADANOS, PABLO": 90,
+    "DEL BARRIO MONTES, SIRO": 90,
+    "REBOLLEDO GARCIA, OLIVER": 35,
+    "SAIZ MOYA, SAUL": 55,
+    "NICOL BROWN, DICKSON": 55,
+    "LOPEZ PELAYO, ALEJANDRO": 47,
+    "LAVIN BARQUIN, ERIK": 35,
+    "PLA LAVIN, MARIO": 90,
+    "VARGA BUSTIO, ALONSO": 90,
+    "ALONSO MONTERO, MARCOS": 56,
+    "ALVAREZ GARCIA, DANIEL": 90,
+    "ORTIZ VIADERO, ALONSO": 53,
+    "FERNANDEZ LAVIN, HUGO": 90,
+    "NUÑEZ BARROSO, SEBASTIAN": 49,
+    "ABASCAL BARQUIN, HUGO": 90,
+    "QUINTANA FERNANDEZ, RODRIGO": 90,
+    "LOPEZ FERNANDEZ, MATEO": 90,
+    "BLANCO LOBATO, CARLOS": 55,
+    "RUIZ LASTRA, IVAN": 41,
+    "CASTAÑEDA IBAÑEZ, ENZO": 37,
+    "GOMEZ HERRERIA, DIEGO": 34
+  },
+  "portero_local": "ALDEA MARTINEZ, UNAI",
+  "portero_visitante": "LAVIN BARQUIN, ERIK",
+  "dorsales_local": {
+    "ALDEA MARTINEZ, UNAI": 13,
+    "DIACONU PINZARI, NIKITA": 2,
+    "RUIZ GARCIA, DARIO": 3,
+    "FERNÁNDEZ ANDRÉS, ENZO": 4,
+    "FERNANDEZ GARCIA, IZAN": 5,
+    "BOLADO MASEGOSA, DAVID": 7,
+    "TARDON JARAIZ, JORGE": 8,
+    "HERRUZO RODRIGUEZ, LEO": 9,
+    "CORDON PRADANOS, PABLO": 11,
+    "DEL BARRIO MONTES, SIRO": 17,
+    "REBOLLEDO GARCIA, OLIVER": 21
+  },
+  "dorsales_visitante": {
+    "LAVIN BARQUIN, ERIK": 13,
+    "PLA LAVIN, MARIO": 2,
+    "VARGA BUSTIO, ALONSO": 3,
+    "ALONSO MONTERO, MARCOS": 4,
+    "ALVAREZ GARCIA, DANIEL": 5,
+    "ORTIZ VIADERO, ALONSO": 6,
+    "FERNANDEZ LAVIN, HUGO": 7,
+    "NUÑEZ BARROSO, SEBASTIAN": 9,
+    "ABASCAL BARQUIN, HUGO": 10,
+    "QUINTANA FERNANDEZ, RODRIGO": 14,
+    "LOPEZ FERNANDEZ, MATEO": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
