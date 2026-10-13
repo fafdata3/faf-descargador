@@ -1,0 +1,224 @@
+{
+  "acta_id": "C_240305",
+  "filename": "Acta_C_240305.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "11-10-2026",
+  "hora": "12:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "E.D.M. SANTILLANA DEL MAR",
+  "equipo_visitante": "R.S. GIMNASTICA B",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZALEZ SANCHEZ, VERONICA"
+  ],
+  "estadio": "Santillana",
+  "ciudad": "Santillana Del Mar",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "GOMEZ SANCHEZ, MARC",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 74,
+      "jugador": "MAYORDOMO NAVARRO, CRISTIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "CABARGA POO, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VELO SALAZAR, ALFONSO",
+  "entrenador_visitante": "FIGUEROA MONS, ALVARO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HERRERO MORALES, SERGIO",
+  "delegado_equipo_visitante": "PACHECO COTERO, SAUL",
+  "titulares_local": [
+    "CUEVAS GARCIA, CARLOS",
+    "DELGADO GOMEZ, SAUL",
+    "OVEJERO AROZAMENA, LUCAS",
+    "PEREZ SANTIAGO, SAMUEL",
+    "BELLO REVUELTA, MARTIN",
+    "GUTIERREZ GOMEZ, MARCO",
+    "EXPOSITO FAURA, TEO",
+    "GONZÁLEZ CUENA, DANIEL",
+    "ORTIZ DE ZARATE ENDSJÖ, JUAN PABLO",
+    "GARCIA GARCIA, DIEGO",
+    "ORTIZ DE ZARATE ENDSJO, JOAQUIN"
+  ],
+  "titulares_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "CRUZ FERNANDEZ, NICOLAS",
+    "SANCHEZ CUEVAS, SERGIO",
+    "GOMEZ SANCHEZ, MARC",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "GUERRA MIRANDA, MARTÍN",
+    "DOS REIS REYES, ANDER",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "GUTIÉRREZ LÓPEZ, DAVID"
+  ],
+  "suplentes_local": [
+    "CUESTA ASUA, HUGO",
+    "DÍEZ MARTÍNEZ, JORGE",
+    "CABARGA POO, MARIO",
+    "MARCANO DUQUE, JOSE LUIS"
+  ],
+  "suplentes_visitante": [
+    "ORSOLINI PALENCIA, MARIO",
+    "TARDON JARAIZ, JORGE",
+    "MENDARO TERAN, LUIS",
+    "BOLADO MASEGOSA, DAVID"
+  ],
+  "convocados_sin_jugar_local": [
+    "CUESTA ASUA, HUGO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ORSOLINI PALENCIA, MARIO"
+  ],
+  "jugadores_local": [
+    "CUEVAS GARCIA, CARLOS",
+    "DELGADO GOMEZ, SAUL",
+    "OVEJERO AROZAMENA, LUCAS",
+    "PEREZ SANTIAGO, SAMUEL",
+    "BELLO REVUELTA, MARTIN",
+    "GUTIERREZ GOMEZ, MARCO",
+    "EXPOSITO FAURA, TEO",
+    "GONZÁLEZ CUENA, DANIEL",
+    "ORTIZ DE ZARATE ENDSJÖ, JUAN PABLO",
+    "GARCIA GARCIA, DIEGO",
+    "ORTIZ DE ZARATE ENDSJO, JOAQUIN",
+    "MARCANO DUQUE, JOSE LUIS",
+    "CABARGA POO, MARIO",
+    "DÍEZ MARTÍNEZ, JORGE"
+  ],
+  "jugadores_visitante": [
+    "TRIGO SANTOS, ALEJANDRO",
+    "FERNANDEZ TOMAS, ALVARO",
+    "LUQUE MARTINEZ, AIMAR",
+    "CRUZ FERNANDEZ, NICOLAS",
+    "SANCHEZ CUEVAS, SERGIO",
+    "GOMEZ SANCHEZ, MARC",
+    "ALVAREZ DOMINGUEZ, SANTIAGO",
+    "GUERRA MIRANDA, MARTÍN",
+    "DOS REIS REYES, ANDER",
+    "MAYORDOMO NAVARRO, CRISTIAN",
+    "GUTIÉRREZ LÓPEZ, DAVID",
+    "MENDARO TERAN, LUIS",
+    "TARDON JARAIZ, JORGE",
+    "BOLADO MASEGOSA, DAVID"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "MARCANO DUQUE, JOSE LUIS",
+      "sale": "DELGADO GOMEZ, SAUL"
+    },
+    {
+      "min": 46,
+      "entra": "CABARGA POO, MARIO",
+      "sale": "EXPOSITO FAURA, TEO"
+    },
+    {
+      "min": 47,
+      "entra": "DÍEZ MARTÍNEZ, JORGE",
+      "sale": "OVEJERO AROZAMENA, LUCAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 19,
+      "entra": "MENDARO TERAN, LUIS",
+      "sale": "FERNANDEZ TOMAS, ALVARO"
+    },
+    {
+      "min": 58,
+      "entra": "TARDON JARAIZ, JORGE",
+      "sale": "CRUZ FERNANDEZ, NICOLAS"
+    },
+    {
+      "min": 58,
+      "entra": "BOLADO MASEGOSA, DAVID",
+      "sale": "GOMEZ SANCHEZ, MARC"
+    }
+  ],
+  "minutos_jugadores": {
+    "CUEVAS GARCIA, CARLOS": 90,
+    "DELGADO GOMEZ, SAUL": 41,
+    "OVEJERO AROZAMENA, LUCAS": 47,
+    "PEREZ SANTIAGO, SAMUEL": 90,
+    "BELLO REVUELTA, MARTIN": 90,
+    "GUTIERREZ GOMEZ, MARCO": 90,
+    "EXPOSITO FAURA, TEO": 46,
+    "GONZÁLEZ CUENA, DANIEL": 90,
+    "ORTIZ DE ZARATE ENDSJÖ, JUAN PABLO": 90,
+    "GARCIA GARCIA, DIEGO": 90,
+    "ORTIZ DE ZARATE ENDSJO, JOAQUIN": 90,
+    "MARCANO DUQUE, JOSE LUIS": 49,
+    "CABARGA POO, MARIO": 44,
+    "DÍEZ MARTÍNEZ, JORGE": 43,
+    "TRIGO SANTOS, ALEJANDRO": 90,
+    "FERNANDEZ TOMAS, ALVARO": 19,
+    "LUQUE MARTINEZ, AIMAR": 90,
+    "CRUZ FERNANDEZ, NICOLAS": 58,
+    "SANCHEZ CUEVAS, SERGIO": 90,
+    "GOMEZ SANCHEZ, MARC": 58,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 90,
+    "GUERRA MIRANDA, MARTÍN": 90,
+    "DOS REIS REYES, ANDER": 90,
+    "MAYORDOMO NAVARRO, CRISTIAN": 90,
+    "GUTIÉRREZ LÓPEZ, DAVID": 90,
+    "MENDARO TERAN, LUIS": 71,
+    "TARDON JARAIZ, JORGE": 32,
+    "BOLADO MASEGOSA, DAVID": 32
+  },
+  "portero_local": "CUEVAS GARCIA, CARLOS",
+  "portero_visitante": "TRIGO SANTOS, ALEJANDRO",
+  "dorsales_local": {
+    "CUEVAS GARCIA, CARLOS": 13,
+    "DELGADO GOMEZ, SAUL": 3,
+    "OVEJERO AROZAMENA, LUCAS": 4,
+    "PEREZ SANTIAGO, SAMUEL": 5,
+    "BELLO REVUELTA, MARTIN": 7,
+    "GUTIERREZ GOMEZ, MARCO": 9,
+    "EXPOSITO FAURA, TEO": 10,
+    "GONZÁLEZ CUENA, DANIEL": 14,
+    "ORTIZ DE ZARATE ENDSJÖ, JUAN PABLO": 16,
+    "GARCIA GARCIA, DIEGO": 19,
+    "ORTIZ DE ZARATE ENDSJO, JOAQUIN": 33
+  },
+  "dorsales_visitante": {
+    "TRIGO SANTOS, ALEJANDRO": 1,
+    "FERNANDEZ TOMAS, ALVARO": 5,
+    "LUQUE MARTINEZ, AIMAR": 7,
+    "CRUZ FERNANDEZ, NICOLAS": 8,
+    "SANCHEZ CUEVAS, SERGIO": 9,
+    "GOMEZ SANCHEZ, MARC": 10,
+    "ALVAREZ DOMINGUEZ, SANTIAGO": 16,
+    "GUERRA MIRANDA, MARTÍN": 17,
+    "DOS REIS REYES, ANDER": 18,
+    "MAYORDOMO NAVARRO, CRISTIAN": 20,
+    "GUTIÉRREZ LÓPEZ, DAVID": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
