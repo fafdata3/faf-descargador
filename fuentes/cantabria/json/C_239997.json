@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_239997",
+  "filename": "Acta_C_239997.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "10:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO A",
+  "goles_local": 1,
+  "goles_visitante": 6,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "QUEVEDO CALLEJA, DIEGO"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 15,
+      "jugador": "LIAÑO TORRES, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "GONZALEZ PEÑA, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "ESTRADA ISASI, IAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "GONZALEZ PEÑA, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "QUINTANA SOLORZANO, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "GONZALEZ PEÑA, MARCOS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "MARTINEZ ARENAS, IVAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [],
+  "entrenador_local": "URBISTONDO MARINO, PEDRO",
+  "entrenador_visitante": "HIERRO GOMEZ, MARCOS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GARCIA SANTIAGO, VICTOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA SANTIAGO, VICTOR",
+  "delegado_equipo_visitante": "HERRERIA SAINZ, ALEJANDRO",
+  "titulares_local": [
+    "ARENAL DIESTRO, LUCA",
+    "FERNANDEZ MARTINEZ, LUCAS",
+    "PEREZ MARCANO, MANUEL",
+    "MARTINEZ ARENAS, IVAN",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "DIAZ TRESGALLO, MARIO",
+    "FERNANDEZ GONZALEZ, MARTIN",
+    "CUESTA SANZ, PABLO",
+    "FERNANDEZ GONZALEZ, XAEL",
+    "CRESPO VELA, AITOR",
+    "VAZQUEZ PORRAS, SERGIO"
+  ],
+  "titulares_visitante": [
+    "SADA GUTIERREZ, ALEJANDRO",
+    "MAZAS RODRIGUEZ, DIEGO",
+    "GUTIERREZ MARTIN, PABLO",
+    "LEPADATU, FABIAN",
+    "ESTRADA ISASI, IAN",
+    "QUINTANA SOLORZANO, SERGIO",
+    "GONZALEZ PEÑA, MARCOS",
+    "ABASCAL BARQUIN, ALVARO",
+    "SETIEN GUTIERREZ, DARIO",
+    "LANZA CAVIEDES, JORGE",
+    "LIAÑO TORRES, DIEGO"
+  ],
+  "suplentes_local": [
+    "OBESO MARTINEZ, MARCOS",
+    "GANDIAGA CARRERA, HUGO",
+    "ALONSO NOVAL, KENZO",
+    "ORTIZ LEO, SÁUL",
+    "PEREZ MIRANDA, IZAN"
+  ],
+  "suplentes_visitante": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI",
+    "LAVIN AGUERO, CRISTIAN",
+    "GOMEZ MIER, MARCOS",
+    "SECADAS BARQUIN, DIEGO",
+    "SAN EMETERIO RUIZ, JOSE"
+  ],
+  "convocados_sin_jugar_local": [
+    "OBESO MARTINEZ, MARCOS",
+    "PEREZ MIRANDA, IZAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ROMILA VASILACHE, ALEJANDRO ANDREI"
+  ],
+  "jugadores_local": [
+    "ARENAL DIESTRO, LUCA",
+    "FERNANDEZ MARTINEZ, LUCAS",
+    "PEREZ MARCANO, MANUEL",
+    "MARTINEZ ARENAS, IVAN",
+    "ALVAREZ JIMENEZ, DIEGO",
+    "DIAZ TRESGALLO, MARIO",
+    "FERNANDEZ GONZALEZ, MARTIN",
+    "CUESTA SANZ, PABLO",
+    "FERNANDEZ GONZALEZ, XAEL",
+    "CRESPO VELA, AITOR",
+    "VAZQUEZ PORRAS, SERGIO",
+    "GANDIAGA CARRERA, HUGO",
+    "ORTIZ LEO, SÁUL",
+    "ALONSO NOVAL, KENZO"
+  ],
+  "jugadores_visitante": [
+    "SADA GUTIERREZ, ALEJANDRO",
+    "MAZAS RODRIGUEZ, DIEGO",
+    "GUTIERREZ MARTIN, PABLO",
+    "LEPADATU, FABIAN",
+    "ESTRADA ISASI, IAN",
+    "QUINTANA SOLORZANO, SERGIO",
+    "GONZALEZ PEÑA, MARCOS",
+    "ABASCAL BARQUIN, ALVARO",
+    "SETIEN GUTIERREZ, DARIO",
+    "LANZA CAVIEDES, JORGE",
+    "LIAÑO TORRES, DIEGO",
+    "SAN EMETERIO RUIZ, JOSE",
+    "SECADAS BARQUIN, DIEGO",
+    "GOMEZ MIER, MARCOS",
+    "LAVIN AGUERO, CRISTIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GANDIAGA CARRERA, HUGO",
+      "sale": "VAZQUEZ PORRAS, SERGIO"
+    },
+    {
+      "min": 40,
+      "entra": "ORTIZ LEO, SÁUL",
+      "sale": "FERNANDEZ GONZALEZ, MARTIN"
+    },
+    {
+      "min": 67,
+      "entra": "ALONSO NOVAL, KENZO",
+      "sale": "ALVAREZ JIMENEZ, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SAN EMETERIO RUIZ, JOSE",
+      "sale": "SETIEN GUTIERREZ, DARIO"
+    },
+    {
+      "min": 50,
+      "entra": "SECADAS BARQUIN, DIEGO",
+      "sale": "LIAÑO TORRES, DIEGO"
+    },
+    {
+      "min": 58,
+      "entra": "GOMEZ MIER, MARCOS",
+      "sale": "ESTRADA ISASI, IAN"
+    },
+    {
+      "min": 58,
+      "entra": "LAVIN AGUERO, CRISTIAN",
+      "sale": "MAZAS RODRIGUEZ, DIEGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARENAL DIESTRO, LUCA": 90,
+    "FERNANDEZ MARTINEZ, LUCAS": 90,
+    "PEREZ MARCANO, MANUEL": 90,
+    "MARTINEZ ARENAS, IVAN": 90,
+    "ALVAREZ JIMENEZ, DIEGO": 67,
+    "DIAZ TRESGALLO, MARIO": 90,
+    "FERNANDEZ GONZALEZ, MARTIN": 40,
+    "CUESTA SANZ, PABLO": 90,
+    "FERNANDEZ GONZALEZ, XAEL": 90,
+    "CRESPO VELA, AITOR": 90,
+    "VAZQUEZ PORRAS, SERGIO": 40,
+    "GANDIAGA CARRERA, HUGO": 50,
+    "ORTIZ LEO, SÁUL": 50,
+    "ALONSO NOVAL, KENZO": 23,
+    "SADA GUTIERREZ, ALEJANDRO": 90,
+    "MAZAS RODRIGUEZ, DIEGO": 58,
+    "GUTIERREZ MARTIN, PABLO": 90,
+    "LEPADATU, FABIAN": 90,
+    "ESTRADA ISASI, IAN": 58,
+    "QUINTANA SOLORZANO, SERGIO": 90,
+    "GONZALEZ PEÑA, MARCOS": 90,
+    "ABASCAL BARQUIN, ALVARO": 90,
+    "SETIEN GUTIERREZ, DARIO": 40,
+    "LANZA CAVIEDES, JORGE": 90,
+    "LIAÑO TORRES, DIEGO": 50,
+    "SAN EMETERIO RUIZ, JOSE": 50,
+    "SECADAS BARQUIN, DIEGO": 40,
+    "GOMEZ MIER, MARCOS": 32,
+    "LAVIN AGUERO, CRISTIAN": 32
+  },
+  "portero_local": "ARENAL DIESTRO, LUCA",
+  "portero_visitante": "SADA GUTIERREZ, ALEJANDRO",
+  "dorsales_local": {
+    "ARENAL DIESTRO, LUCA": 13,
+    "FERNANDEZ MARTINEZ, LUCAS": 2,
+    "PEREZ MARCANO, MANUEL": 6,
+    "MARTINEZ ARENAS, IVAN": 7,
+    "ALVAREZ JIMENEZ, DIEGO": 9,
+    "DIAZ TRESGALLO, MARIO": 11,
+    "FERNANDEZ GONZALEZ, MARTIN": 14,
+    "CUESTA SANZ, PABLO": 17,
+    "FERNANDEZ GONZALEZ, XAEL": 20,
+    "CRESPO VELA, AITOR": 21,
+    "VAZQUEZ PORRAS, SERGIO": 99
+  },
+  "dorsales_visitante": {
+    "SADA GUTIERREZ, ALEJANDRO": 1,
+    "MAZAS RODRIGUEZ, DIEGO": 3,
+    "GUTIERREZ MARTIN, PABLO": 5,
+    "LEPADATU, FABIAN": 6,
+    "ESTRADA ISASI, IAN": 7,
+    "QUINTANA SOLORZANO, SERGIO": 8,
+    "GONZALEZ PEÑA, MARCOS": 11,
+    "ABASCAL BARQUIN, ALVARO": 15,
+    "SETIEN GUTIERREZ, DARIO": 18,
+    "LANZA CAVIEDES, JORGE": 20,
+    "LIAÑO TORRES, DIEGO": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
