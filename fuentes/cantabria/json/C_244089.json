@@ -1,0 +1,262 @@
+{
+  "acta_id": "C_244089",
+  "filename": "Acta_C_244089.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "10-10-2026",
+  "hora": "09:30",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "U.D. SAMANO A",
+  "equipo_visitante": "E.F. SANTANDER A",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "PEREZ GONZALEZ, DIEGO"
+  ],
+  "estadio": "Sámano",
+  "ciudad": "Castro-Urdiales",
+  "goleadores": [
+    {
+      "minuto": 14,
+      "jugador": "ELCORO MARTIN, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 34,
+      "jugador": "CALLEJA REVILLA, YANEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "CANALES URQUIJO, ENRIQUE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "CALLEJA REVILLA, YANEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "SUAREZ GOMEZ, OSCAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "SAN MILLAN GONZALEZ, ALVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "DOMINGUEZ ALONSO, FERMIN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ARANA VIZCAYA, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARANA VIZCAYA, IKER",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "DEL CAMPO GARCIA, MARTIN",
+    "GONZALEZ IGLESIAS, IKER",
+    "ZULOAGA GARMENDIA, DIEGO",
+    "CUESTA GUTIERREZ, OLIVER",
+    "GALLEGO GONZALEZ, DAVID",
+    "ALVAREZ HUERGA, ERIC",
+    "RIVAS ANGUITA, ALAIN",
+    "QUINTANA GONZALEZ, XABIER",
+    "GRIGUTA, CASIAN",
+    "CANALES URQUIJO, ENRIQUE",
+    "LLAVE MORA, HUGO"
+  ],
+  "titulares_visitante": [
+    "DE GIL SIMON, RAFAEL",
+    "GOMEZ MCNAMARA, LUKE",
+    "VALERO VEGA, RAUL",
+    "RUIZ HERRERO, RODRIGO",
+    "AGUDO SANCHEZ, FELIX",
+    "ELCORO MARTIN, PABLO",
+    "ACHA GOMEZ, ALEJANDRO",
+    "OSORIO CEBALLOS, ANDREW STEVEN",
+    "CUCURULL AGUERO, ARTURO",
+    "BENELLI MONTEAGUDO, LUCA",
+    "CALLEJA REVILLA, YANEL"
+  ],
+  "suplentes_local": [
+    "GARCIA VILLACORTA, HUGO",
+    "GONZALEZ QUINTANA, ROQUE",
+    "SUAREZ GOMEZ, OSCAR",
+    "DEL MAZO VOINSKAJA, ANDRÉ",
+    "ALEGRIA AMAYA, VALERIA"
+  ],
+  "suplentes_visitante": [
+    "SAN MILLAN GONZALEZ, ALVARO",
+    "GARCÍA FERNÁNDEZ, MIGUEL",
+    "CAMPELO MARTINEZ, DAVID",
+    "NAZHBEER SABAH ABDULLAH, ABDULLAH"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DEL CAMPO GARCIA, MARTIN",
+    "GONZALEZ IGLESIAS, IKER",
+    "ZULOAGA GARMENDIA, DIEGO",
+    "CUESTA GUTIERREZ, OLIVER",
+    "GALLEGO GONZALEZ, DAVID",
+    "ALVAREZ HUERGA, ERIC",
+    "RIVAS ANGUITA, ALAIN",
+    "QUINTANA GONZALEZ, XABIER",
+    "GRIGUTA, CASIAN",
+    "CANALES URQUIJO, ENRIQUE",
+    "LLAVE MORA, HUGO",
+    "GONZALEZ QUINTANA, ROQUE",
+    "SUAREZ GOMEZ, OSCAR",
+    "DEL MAZO VOINSKAJA, ANDRÉ",
+    "GARCIA VILLACORTA, HUGO",
+    "ALEGRIA AMAYA, VALERIA"
+  ],
+  "jugadores_visitante": [
+    "DE GIL SIMON, RAFAEL",
+    "GOMEZ MCNAMARA, LUKE",
+    "VALERO VEGA, RAUL",
+    "RUIZ HERRERO, RODRIGO",
+    "AGUDO SANCHEZ, FELIX",
+    "ELCORO MARTIN, PABLO",
+    "ACHA GOMEZ, ALEJANDRO",
+    "OSORIO CEBALLOS, ANDREW STEVEN",
+    "CUCURULL AGUERO, ARTURO",
+    "BENELLI MONTEAGUDO, LUCA",
+    "CALLEJA REVILLA, YANEL",
+    "GARCÍA FERNÁNDEZ, MIGUEL",
+    "CAMPELO MARTINEZ, DAVID",
+    "NAZHBEER SABAH ABDULLAH, ABDULLAH",
+    "SAN MILLAN GONZALEZ, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "GONZALEZ QUINTANA, ROQUE",
+      "sale": "GRIGUTA, CASIAN"
+    },
+    {
+      "min": 48,
+      "entra": "SUAREZ GOMEZ, OSCAR",
+      "sale": "GONZALEZ IGLESIAS, IKER"
+    },
+    {
+      "min": 51,
+      "entra": "DEL MAZO VOINSKAJA, ANDRÉ",
+      "sale": "ALVAREZ HUERGA, ERIC"
+    },
+    {
+      "min": 57,
+      "entra": "GARCIA VILLACORTA, HUGO",
+      "sale": "RIVAS ANGUITA, ALAIN"
+    },
+    {
+      "min": 57,
+      "entra": "ALEGRIA AMAYA, VALERIA",
+      "sale": "CANALES URQUIJO, ENRIQUE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "GARCÍA FERNÁNDEZ, MIGUEL",
+      "sale": "AGUDO SANCHEZ, FELIX"
+    },
+    {
+      "min": 35,
+      "entra": "CAMPELO MARTINEZ, DAVID",
+      "sale": "RUIZ HERRERO, RODRIGO"
+    },
+    {
+      "min": 35,
+      "entra": "NAZHBEER SABAH ABDULLAH, ABDULLAH",
+      "sale": "CUCURULL AGUERO, ARTURO"
+    },
+    {
+      "min": 48,
+      "entra": "SAN MILLAN GONZALEZ, ALVARO",
+      "sale": "BENELLI MONTEAGUDO, LUCA"
+    }
+  ],
+  "minutos_jugadores": {
+    "DEL CAMPO GARCIA, MARTIN": 90,
+    "GONZALEZ IGLESIAS, IKER": 48,
+    "ZULOAGA GARMENDIA, DIEGO": 90,
+    "CUESTA GUTIERREZ, OLIVER": 90,
+    "GALLEGO GONZALEZ, DAVID": 90,
+    "ALVAREZ HUERGA, ERIC": 51,
+    "RIVAS ANGUITA, ALAIN": 57,
+    "QUINTANA GONZALEZ, XABIER": 90,
+    "GRIGUTA, CASIAN": 48,
+    "CANALES URQUIJO, ENRIQUE": 57,
+    "LLAVE MORA, HUGO": 90,
+    "GONZALEZ QUINTANA, ROQUE": 42,
+    "SUAREZ GOMEZ, OSCAR": 42,
+    "DEL MAZO VOINSKAJA, ANDRÉ": 39,
+    "GARCIA VILLACORTA, HUGO": 33,
+    "ALEGRIA AMAYA, VALERIA": 33,
+    "DE GIL SIMON, RAFAEL": 90,
+    "GOMEZ MCNAMARA, LUKE": 90,
+    "VALERO VEGA, RAUL": 90,
+    "RUIZ HERRERO, RODRIGO": 35,
+    "AGUDO SANCHEZ, FELIX": 35,
+    "ELCORO MARTIN, PABLO": 90,
+    "ACHA GOMEZ, ALEJANDRO": 90,
+    "OSORIO CEBALLOS, ANDREW STEVEN": 90,
+    "CUCURULL AGUERO, ARTURO": 35,
+    "BENELLI MONTEAGUDO, LUCA": 48,
+    "CALLEJA REVILLA, YANEL": 90,
+    "GARCÍA FERNÁNDEZ, MIGUEL": 55,
+    "CAMPELO MARTINEZ, DAVID": 55,
+    "NAZHBEER SABAH ABDULLAH, ABDULLAH": 55,
+    "SAN MILLAN GONZALEZ, ALVARO": 42
+  },
+  "portero_local": "DEL CAMPO GARCIA, MARTIN",
+  "portero_visitante": "DE GIL SIMON, RAFAEL",
+  "dorsales_local": {
+    "DEL CAMPO GARCIA, MARTIN": 13,
+    "GONZALEZ IGLESIAS, IKER": 7,
+    "ZULOAGA GARMENDIA, DIEGO": 14,
+    "CUESTA GUTIERREZ, OLIVER": 15,
+    "GALLEGO GONZALEZ, DAVID": 18,
+    "ALVAREZ HUERGA, ERIC": 19,
+    "RIVAS ANGUITA, ALAIN": 20,
+    "QUINTANA GONZALEZ, XABIER": 71,
+    "GRIGUTA, CASIAN": 74,
+    "CANALES URQUIJO, ENRIQUE": 77,
+    "LLAVE MORA, HUGO": 80
+  },
+  "dorsales_visitante": {
+    "DE GIL SIMON, RAFAEL": 1,
+    "GOMEZ MCNAMARA, LUKE": 2,
+    "VALERO VEGA, RAUL": 5,
+    "RUIZ HERRERO, RODRIGO": 6,
+    "AGUDO SANCHEZ, FELIX": 7,
+    "ELCORO MARTIN, PABLO": 9,
+    "ACHA GOMEZ, ALEJANDRO": 11,
+    "OSORIO CEBALLOS, ANDREW STEVEN": 14,
+    "CUCURULL AGUERO, ARTURO": 16,
+    "BENELLI MONTEAGUDO, LUCA": 17,
+    "CALLEJA REVILLA, YANEL": 19
+  },
+  "suspendidos": []
+}
