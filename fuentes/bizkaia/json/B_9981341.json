@@ -1,0 +1,287 @@
+{
+  "acta_id": "B_9981341",
+  "filename": "Acta_B_9981341.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 21,
+  "fecha": "01-03-2026",
+  "hora": "10:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "GALEA A",
+  "equipo_visitante": "TRAPAGARAN A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BARCALA PEREZ, PEIO"
+  ],
+  "estadio": "BOLUE 3",
+  "ciudad": "Getxo",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "FERNANDEZ DIEZ, IBON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "ALONSO GIL, GONZALO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "PEREZ TORRES, LUKAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 79,
+      "jugador": "BLAYA GARCIA, GORKA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 56,
+      "jugador": "NICOLAS GONZALEZ, MAREN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "FERNANDEZ DIEZ, IBON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "BARRIOS OTERO, IZEI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BARTOLOME RODRIGO, ALVARO",
+  "entrenador_visitante": "IGLESIAS VELASCO, JOSE RAMON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "DIEZ GUERRERO, JOKIN",
+  "delegado_campo_local": "ARTIAGOITIA ARNAL, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MENIKA MORAGA, IKER",
+  "delegado_equipo_visitante": "AGUILAR LLINARES, IKER",
+  "titulares_local": [
+    "SANTAMARIA GUAITA, IBAI",
+    "ARTIAGOITIA BILLALABEITIA, MIKEL",
+    "LLANO RODRIGUEZ, TELMO GONZALO",
+    "TORDERA PICAZA, NIKOLA",
+    "KORTABARRIA LARREA, MANEX",
+    "FERNANDEZ DIEZ, IBON",
+    "RODRÍGUEZ ELESGARAY, JON",
+    "PEREZ RAMOS, MARKEL",
+    "PEREZ TORRES, LUKAS",
+    "ALONSO GIL, GONZALO",
+    "NICOLAS GONZALEZ, MAREN"
+  ],
+  "titulares_visitante": [
+    "DÍAZ MULERO, ANDER",
+    "SARMANTON GALLO, LIER",
+    "EROA SORIANO, OIER",
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "FUENTES OCHOA, IÑIGO",
+    "GONZALEZ MARTINEZ, URKO",
+    "SAIZ CARBAJO, KERMAN",
+    "RUIZ FRAILE, URKO",
+    "ROMERO PEREZ, ALVARO",
+    "MARIN GARCIA, ALVARO"
+  ],
+  "suplentes_local": [
+    "TORRE GONZALEZ, MARKEL",
+    "RUIZ BILBAO, LANDER",
+    "NICOLAS GONZALEZ, MARCO",
+    "OTEO EGUREN, AIMAR",
+    "ARDEO BILBAO, EKAITZ",
+    "BARRIOS OTERO, IZEI",
+    "ALONSO GARRIDO, ASIER"
+  ],
+  "suplentes_visitante": [
+    "FERNÁNDEZ AGUILAR, UNAI",
+    "RUIZ PARIS, ASIER",
+    "ARMENTIA LARRAURI, XABIER",
+    "RODRIGUEZ FERNANDEZ, AXEL",
+    "FERNÁNDEZ AGUILAR, MARIO",
+    "DÍAZ MULERO, MIKEL",
+    "BLAYA GARCIA, GORKA"
+  ],
+  "convocados_sin_jugar_local": [
+    "TORRE GONZALEZ, MARKEL",
+    "ARDEO BILBAO, EKAITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "FERNÁNDEZ AGUILAR, UNAI",
+    "RODRIGUEZ FERNANDEZ, AXEL"
+  ],
+  "jugadores_local": [
+    "SANTAMARIA GUAITA, IBAI",
+    "ARTIAGOITIA BILLALABEITIA, MIKEL",
+    "LLANO RODRIGUEZ, TELMO GONZALO",
+    "TORDERA PICAZA, NIKOLA",
+    "KORTABARRIA LARREA, MANEX",
+    "FERNANDEZ DIEZ, IBON",
+    "RODRÍGUEZ ELESGARAY, JON",
+    "PEREZ RAMOS, MARKEL",
+    "PEREZ TORRES, LUKAS",
+    "ALONSO GIL, GONZALO",
+    "NICOLAS GONZALEZ, MAREN",
+    "BARRIOS OTERO, IZEI",
+    "RUIZ BILBAO, LANDER",
+    "NICOLAS GONZALEZ, MARCO",
+    "ALONSO GARRIDO, ASIER",
+    "OTEO EGUREN, AIMAR"
+  ],
+  "jugadores_visitante": [
+    "DÍAZ MULERO, ANDER",
+    "SARMANTON GALLO, LIER",
+    "EROA SORIANO, OIER",
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER",
+    "SESMERO RUIZ, XABIER",
+    "FUENTES OCHOA, IÑIGO",
+    "GONZALEZ MARTINEZ, URKO",
+    "SAIZ CARBAJO, KERMAN",
+    "RUIZ FRAILE, URKO",
+    "ROMERO PEREZ, ALVARO",
+    "MARIN GARCIA, ALVARO",
+    "FERNÁNDEZ AGUILAR, MARIO",
+    "BLAYA GARCIA, GORKA",
+    "ARMENTIA LARRAURI, XABIER",
+    "DÍAZ MULERO, MIKEL",
+    "RUIZ PARIS, ASIER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 59,
+      "entra": "BARRIOS OTERO, IZEI",
+      "sale": "RODRÍGUEZ ELESGARAY, JON"
+    },
+    {
+      "min": 59,
+      "entra": "RUIZ BILBAO, LANDER",
+      "sale": "PEREZ RAMOS, MARKEL"
+    },
+    {
+      "min": 66,
+      "entra": "NICOLAS GONZALEZ, MARCO",
+      "sale": "PEREZ TORRES, LUKAS"
+    },
+    {
+      "min": 74,
+      "entra": "ALONSO GARRIDO, ASIER",
+      "sale": "TORDERA PICAZA, NIKOLA"
+    },
+    {
+      "min": 74,
+      "entra": "OTEO EGUREN, AIMAR",
+      "sale": "NICOLAS GONZALEZ, MAREN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "FERNÁNDEZ AGUILAR, MARIO",
+      "sale": "GONZALEZ MARTINEZ, URKO"
+    },
+    {
+      "min": 53,
+      "entra": "BLAYA GARCIA, GORKA",
+      "sale": "SAIZ CARBAJO, KERMAN"
+    },
+    {
+      "min": 53,
+      "entra": "ARMENTIA LARRAURI, XABIER",
+      "sale": "FUENTES OCHOA, IÑIGO"
+    },
+    {
+      "min": 59,
+      "entra": "DÍAZ MULERO, MIKEL",
+      "sale": "SESMERO RUIZ, XABIER"
+    },
+    {
+      "min": 66,
+      "entra": "RUIZ PARIS, ASIER",
+      "sale": "EROA SORIANO, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "SANTAMARIA GUAITA, IBAI": 90,
+    "ARTIAGOITIA BILLALABEITIA, MIKEL": 90,
+    "LLANO RODRIGUEZ, TELMO GONZALO": 90,
+    "TORDERA PICAZA, NIKOLA": 74,
+    "KORTABARRIA LARREA, MANEX": 90,
+    "FERNANDEZ DIEZ, IBON": 90,
+    "RODRÍGUEZ ELESGARAY, JON": 59,
+    "PEREZ RAMOS, MARKEL": 59,
+    "PEREZ TORRES, LUKAS": 66,
+    "ALONSO GIL, GONZALO": 90,
+    "NICOLAS GONZALEZ, MAREN": 74,
+    "BARRIOS OTERO, IZEI": 31,
+    "RUIZ BILBAO, LANDER": 31,
+    "NICOLAS GONZALEZ, MARCO": 24,
+    "ALONSO GARRIDO, ASIER": 16,
+    "OTEO EGUREN, AIMAR": 16,
+    "DÍAZ MULERO, ANDER": 90,
+    "SARMANTON GALLO, LIER": 90,
+    "EROA SORIANO, OIER": 66,
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER": 90,
+    "SESMERO RUIZ, XABIER": 59,
+    "FUENTES OCHOA, IÑIGO": 53,
+    "GONZALEZ MARTINEZ, URKO": 53,
+    "SAIZ CARBAJO, KERMAN": 53,
+    "RUIZ FRAILE, URKO": 90,
+    "ROMERO PEREZ, ALVARO": 90,
+    "MARIN GARCIA, ALVARO": 90,
+    "FERNÁNDEZ AGUILAR, MARIO": 37,
+    "BLAYA GARCIA, GORKA": 37,
+    "ARMENTIA LARRAURI, XABIER": 37,
+    "DÍAZ MULERO, MIKEL": 31,
+    "RUIZ PARIS, ASIER": 24
+  },
+  "portero_local": "SANTAMARIA GUAITA, IBAI",
+  "portero_visitante": "DÍAZ MULERO, ANDER",
+  "dorsales_local": {
+    "SANTAMARIA GUAITA, IBAI": 13,
+    "ARTIAGOITIA BILLALABEITIA, MIKEL": 3,
+    "LLANO RODRIGUEZ, TELMO GONZALO": 4,
+    "TORDERA PICAZA, NIKOLA": 5,
+    "KORTABARRIA LARREA, MANEX": 6,
+    "FERNANDEZ DIEZ, IBON": 8,
+    "RODRÍGUEZ ELESGARAY, JON": 9,
+    "PEREZ RAMOS, MARKEL": 10,
+    "PEREZ TORRES, LUKAS": 11,
+    "ALONSO GIL, GONZALO": 19,
+    "NICOLAS GONZALEZ, MAREN": 22
+  },
+  "dorsales_visitante": {
+    "DÍAZ MULERO, ANDER": 13,
+    "SARMANTON GALLO, LIER": 2,
+    "EROA SORIANO, OIER": 3,
+    "LÓPEZ DE EGUINOA MARTÍNEZ, IKER": 4,
+    "SESMERO RUIZ, XABIER": 5,
+    "FUENTES OCHOA, IÑIGO": 6,
+    "GONZALEZ MARTINEZ, URKO": 8,
+    "SAIZ CARBAJO, KERMAN": 9,
+    "RUIZ FRAILE, URKO": 10,
+    "ROMERO PEREZ, ALVARO": 16,
+    "MARIN GARCIA, ALVARO": 22
+  },
+  "suspendidos": []
+}
