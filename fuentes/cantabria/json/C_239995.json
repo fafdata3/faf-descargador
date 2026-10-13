@@ -1,0 +1,317 @@
+{
+  "acta_id": "C_239995",
+  "filename": "Acta_C_239995.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (UNICO)",
+  "equipo_local": "AYRON CLUB A",
+  "equipo_visitante": "C.D. CAYON A",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GONZÁLEZ AJA, PABLO"
+  ],
+  "estadio": "Vargas",
+  "ciudad": "Puente Viesgo",
+  "goleadores": [
+    {
+      "minuto": 6,
+      "jugador": "DIEGO MANTECON, MILLAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 8,
+      "jugador": "EZZEKRAOUI BENELGOUSSA, RIAD",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "PELAYO CANO, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "PRECIADO GONZALEZ, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 83,
+      "jugador": "GARCIA SECO, ALEJANDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 53,
+      "jugador": "EZZEKRAOUI BENELGOUSSA, RIAD",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "LANDEO LLANCAYA, LUIS FRANCISCO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 53,
+      "jugador": "PALACIO AZPIAZU, JAVIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "MARTINEZ PEÑA, GUZMAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 74,
+      "jugador": "CHAO SERRANO, DARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 34,
+      "jugador": "PELAYO CANO, ALVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "SARO ALLENDE, ALEJO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "PRECIADO GONZALEZ, DIEGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "PRECIADO GONZALEZ, DIEGO",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "SANCHEZ URBIETA, PABLO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PALACIO AZPIAZU, JAVIER",
+  "entrenador_visitante": "LAREDO ABASCAL, JESUS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LANDEO LLANCAYA, LUIS FRANCISCO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LANDEO LLANCAYA, LUIS FRANCISCO",
+  "delegado_equipo_visitante": "FERNANDEZ VAZQUEZ, RICARDO",
+  "titulares_local": [
+    "GARCIA PUERTO, IAN",
+    "VELO RUIZ, HUGO",
+    "GUTIERREZ TORRE, MARCO",
+    "VILLEGAS CARRAL, NICOLAS",
+    "ALCALDE GREGOROVA, MARK",
+    "EZZEKRAOUI BENELGOUSSA, RIAD",
+    "ARCE ACEREDA, JORGE",
+    "GARCIA SECO, ALEJANDRO",
+    "PORTILLA JARA, IKER",
+    "GOMEZ TOCA, RAÚL",
+    "MARTINEZ PEÑA, GUZMAN"
+  ],
+  "titulares_visitante": [
+    "REVUELTA PRECIADO, MARIO",
+    "SANCHEZ URBIETA, PABLO",
+    "FERNANDEZ CEA, MARCOS",
+    "GUTIERREZ QUINTANA, MARCO",
+    "GUERRA DIAZ, MARIO",
+    "ASENSIO PILA, HECTOR",
+    "PELAYO CANO, ALVARO",
+    "PRECIADO GONZALEZ, DIEGO",
+    "SARO ALLENDE, ALEJO",
+    "RABAGO FERNANDEZ, MARIO",
+    "DIEGO MANTECON, MILLAN"
+  ],
+  "suplentes_local": [
+    "GUTIERREZ MANTECON, HECTOR",
+    "CHAO SERRANO, DARIO",
+    "SANTALLA PEREZ, JORGE",
+    "SAIZ LOPEZ, LUCAS"
+  ],
+  "suplentes_visitante": [
+    "MAZA CIEZA, RUBEN",
+    "SANCHEZ URBIETA, SERGIO",
+    "OBREGON FERNANDEZ, MARIO",
+    "FERNANDEZ CALA, AARON",
+    "BARCENA GARCIA, PEDRO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GUTIERREZ MANTECON, HECTOR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MAZA CIEZA, RUBEN"
+  ],
+  "jugadores_local": [
+    "GARCIA PUERTO, IAN",
+    "VELO RUIZ, HUGO",
+    "GUTIERREZ TORRE, MARCO",
+    "VILLEGAS CARRAL, NICOLAS",
+    "ALCALDE GREGOROVA, MARK",
+    "EZZEKRAOUI BENELGOUSSA, RIAD",
+    "ARCE ACEREDA, JORGE",
+    "GARCIA SECO, ALEJANDRO",
+    "PORTILLA JARA, IKER",
+    "GOMEZ TOCA, RAÚL",
+    "MARTINEZ PEÑA, GUZMAN",
+    "CHAO SERRANO, DARIO",
+    "SANTALLA PEREZ, JORGE",
+    "SAIZ LOPEZ, LUCAS"
+  ],
+  "jugadores_visitante": [
+    "REVUELTA PRECIADO, MARIO",
+    "SANCHEZ URBIETA, PABLO",
+    "FERNANDEZ CEA, MARCOS",
+    "GUTIERREZ QUINTANA, MARCO",
+    "GUERRA DIAZ, MARIO",
+    "ASENSIO PILA, HECTOR",
+    "PELAYO CANO, ALVARO",
+    "PRECIADO GONZALEZ, DIEGO",
+    "SARO ALLENDE, ALEJO",
+    "RABAGO FERNANDEZ, MARIO",
+    "DIEGO MANTECON, MILLAN",
+    "SANCHEZ URBIETA, SERGIO",
+    "BARCENA GARCIA, PEDRO",
+    "OBREGON FERNANDEZ, MARIO",
+    "FERNANDEZ CALA, AARON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 39,
+      "entra": "CHAO SERRANO, DARIO",
+      "sale": "ALCALDE GREGOROVA, MARK"
+    },
+    {
+      "min": 47,
+      "entra": "SANTALLA PEREZ, JORGE",
+      "sale": "ARCE ACEREDA, JORGE"
+    },
+    {
+      "min": 61,
+      "entra": "SAIZ LOPEZ, LUCAS",
+      "sale": "VILLEGAS CARRAL, NICOLAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "SANCHEZ URBIETA, SERGIO",
+      "sale": "RABAGO FERNANDEZ, MARIO"
+    },
+    {
+      "min": 40,
+      "entra": "BARCENA GARCIA, PEDRO",
+      "sale": "GUERRA DIAZ, MARIO"
+    },
+    {
+      "min": 61,
+      "entra": "OBREGON FERNANDEZ, MARIO",
+      "sale": "ASENSIO PILA, HECTOR"
+    },
+    {
+      "min": 66,
+      "entra": "FERNANDEZ CALA, AARON",
+      "sale": "DIEGO MANTECON, MILLAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA PUERTO, IAN": 90,
+    "VELO RUIZ, HUGO": 90,
+    "GUTIERREZ TORRE, MARCO": 90,
+    "VILLEGAS CARRAL, NICOLAS": 61,
+    "ALCALDE GREGOROVA, MARK": 39,
+    "EZZEKRAOUI BENELGOUSSA, RIAD": 90,
+    "ARCE ACEREDA, JORGE": 47,
+    "GARCIA SECO, ALEJANDRO": 90,
+    "PORTILLA JARA, IKER": 90,
+    "GOMEZ TOCA, RAÚL": 90,
+    "MARTINEZ PEÑA, GUZMAN": 90,
+    "CHAO SERRANO, DARIO": 51,
+    "SANTALLA PEREZ, JORGE": 43,
+    "SAIZ LOPEZ, LUCAS": 29,
+    "REVUELTA PRECIADO, MARIO": 90,
+    "SANCHEZ URBIETA, PABLO": 90,
+    "FERNANDEZ CEA, MARCOS": 90,
+    "GUTIERREZ QUINTANA, MARCO": 90,
+    "GUERRA DIAZ, MARIO": 40,
+    "ASENSIO PILA, HECTOR": 61,
+    "PELAYO CANO, ALVARO": 90,
+    "PRECIADO GONZALEZ, DIEGO": 90,
+    "SARO ALLENDE, ALEJO": 90,
+    "RABAGO FERNANDEZ, MARIO": 40,
+    "DIEGO MANTECON, MILLAN": 66,
+    "SANCHEZ URBIETA, SERGIO": 50,
+    "BARCENA GARCIA, PEDRO": 50,
+    "OBREGON FERNANDEZ, MARIO": 29,
+    "FERNANDEZ CALA, AARON": 24
+  },
+  "portero_local": "GARCIA PUERTO, IAN",
+  "portero_visitante": "REVUELTA PRECIADO, MARIO",
+  "dorsales_local": {
+    "GARCIA PUERTO, IAN": 1,
+    "VELO RUIZ, HUGO": 3,
+    "GUTIERREZ TORRE, MARCO": 4,
+    "VILLEGAS CARRAL, NICOLAS": 6,
+    "ALCALDE GREGOROVA, MARK": 8,
+    "EZZEKRAOUI BENELGOUSSA, RIAD": 9,
+    "ARCE ACEREDA, JORGE": 10,
+    "GARCIA SECO, ALEJANDRO": 11,
+    "PORTILLA JARA, IKER": 15,
+    "GOMEZ TOCA, RAÚL": 18,
+    "MARTINEZ PEÑA, GUZMAN": 22
+  },
+  "dorsales_visitante": {
+    "REVUELTA PRECIADO, MARIO": 13,
+    "SANCHEZ URBIETA, PABLO": 2,
+    "FERNANDEZ CEA, MARCOS": 3,
+    "GUTIERREZ QUINTANA, MARCO": 4,
+    "GUERRA DIAZ, MARIO": 6,
+    "ASENSIO PILA, HECTOR": 7,
+    "PELAYO CANO, ALVARO": 8,
+    "PRECIADO GONZALEZ, DIEGO": 10,
+    "SARO ALLENDE, ALEJO": 17,
+    "RABAGO FERNANDEZ, MARIO": 18,
+    "DIEGO MANTECON, MILLAN": 20
+  },
+  "suspendidos": [
+    "PRECIADO GONZALEZ, DIEGO"
+  ]
+}
