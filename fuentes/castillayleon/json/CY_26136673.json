@@ -1,0 +1,272 @@
+{
+  "acta_id": "CY_26136673",
+  "filename": "Acta_CY_26136673.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "11-10-2026",
+  "hora": "16:00",
+  "categoria": "2ª División Regional de Cadetes (Única - Único)",
+  "equipo_local": "Real Valladolid C.F. S.A.D. B",
+  "equipo_visitante": "Betis C.F.",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro",
+    "BLANCO ORDOÑEZ, SAMUEL",
+    "Árbitro Asistente",
+    "BLANCO ORDOÑEZ, ROCIO",
+    "Árbitro Asistente",
+    "MATEOS LORENZO, MARIA"
+  ],
+  "estadio": "Anexos E.M. José Zorrilla 4",
+  "ciudad": "Valladolid",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "CASCAJO SAMANIEGO, SERGIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "BAZ ARROYO, EDUARDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "COBO MORRONDO, HUGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "PASCUAL MACHO, DANTE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 79,
+      "jugador": "RODRIGUEZ GARCIA, CARLOS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 43,
+      "jugador": "GALLEGO LAGARTOS, ADRIAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "TAVERA TEJADA, IVERSON MICHAEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RODRIGUEZ GARCIA, CARLOS",
+  "entrenador_visitante": "ANTOLÍN RENEDO, VÍCTOR MANUEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CABO GARCIA, JOSE LUIS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DE LEÓN SANZ, JOSÉ ANTONIO",
+  "delegado_equipo_visitante": "HERNANDEZ HERNANDEZ, JUAN CARLOS",
+  "titulares_local": [
+    "GALVAN BERNARDINO, NICOLAS",
+    "MANRIQUE FERNANDEZ, RUBEN",
+    "MUÑOZ MORO, DIEGO",
+    "RELEA BÁSCONES, ADRIÁN",
+    "CANTERO FERNANDEZ-POLANCO, IGNACIO",
+    "BROCO FUIANO, NICOLAS ANDREA",
+    "COBO MORRONDO, HUGO",
+    "NORIEGA ROBLEDO, PABLO",
+    "MONTOYA PÉREZ, WERKU",
+    "DE BARBACHANO DEL RIO, IKER",
+    "PASCUAL MACHO, DANTE"
+  ],
+  "titulares_visitante": [
+    "FRAILE RODRIGUEZ, DANIEL",
+    "CAPUZ BAJAÑA, JOSUE ISAAC",
+    "GALLEGO LAGARTOS, ADRIAN",
+    "CRESPO ALVAREZ, RICARDO",
+    "RELEA DEL CAÑO, ALEJANDRO",
+    "SANZ DAVILA, NICOLAS",
+    "CASCAJO SAMANIEGO, SERGIO",
+    "BAZ ARROYO, EDUARDO",
+    "MANZANO PASCUAL, HUGO",
+    "LANSAC RODRIGUEZ, ROBERTO",
+    "IBAÑEZ GONZALEZ DE LA HUEBRA, SAMUEL"
+  ],
+  "suplentes_local": [
+    "GRANDE LOZANO, VICTOR",
+    "ALONSO DOMINGUEZ, DAVID",
+    "MARÍN AMARAL, JAVIER",
+    "CISSE DIALLO, BOUBACARY",
+    "LLORENTE PANDO, ENZO"
+  ],
+  "suplentes_visitante": [
+    "SINOVA GARCIA, JUAN",
+    "MARTIN CARRION, HECTOR",
+    "MARTINEZ BERMEJO, JAIME",
+    "TAVERA TEJADA, IVERSON MICHAEL",
+    "GARCIA ESTEBAN, LUCAS"
+  ],
+  "convocados_sin_jugar_local": [
+    "GRANDE LOZANO, VICTOR"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MARTINEZ BERMEJO, JAIME"
+  ],
+  "jugadores_local": [
+    "GALVAN BERNARDINO, NICOLAS",
+    "MANRIQUE FERNANDEZ, RUBEN",
+    "MUÑOZ MORO, DIEGO",
+    "RELEA BÁSCONES, ADRIÁN",
+    "CANTERO FERNANDEZ-POLANCO, IGNACIO",
+    "BROCO FUIANO, NICOLAS ANDREA",
+    "COBO MORRONDO, HUGO",
+    "NORIEGA ROBLEDO, PABLO",
+    "MONTOYA PÉREZ, WERKU",
+    "DE BARBACHANO DEL RIO, IKER",
+    "PASCUAL MACHO, DANTE",
+    "MARÍN AMARAL, JAVIER",
+    "CISSE DIALLO, BOUBACARY",
+    "ALONSO DOMINGUEZ, DAVID",
+    "LLORENTE PANDO, ENZO"
+  ],
+  "jugadores_visitante": [
+    "FRAILE RODRIGUEZ, DANIEL",
+    "CAPUZ BAJAÑA, JOSUE ISAAC",
+    "GALLEGO LAGARTOS, ADRIAN",
+    "CRESPO ALVAREZ, RICARDO",
+    "RELEA DEL CAÑO, ALEJANDRO",
+    "SANZ DAVILA, NICOLAS",
+    "CASCAJO SAMANIEGO, SERGIO",
+    "BAZ ARROYO, EDUARDO",
+    "MANZANO PASCUAL, HUGO",
+    "LANSAC RODRIGUEZ, ROBERTO",
+    "IBAÑEZ GONZALEZ DE LA HUEBRA, SAMUEL",
+    "SINOVA GARCIA, JUAN",
+    "TAVERA TEJADA, IVERSON MICHAEL",
+    "MARTIN CARRION, HECTOR",
+    "GARCIA ESTEBAN, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 49,
+      "entra": "MARÍN AMARAL, JAVIER",
+      "sale": "COBO MORRONDO, HUGO"
+    },
+    {
+      "min": 49,
+      "entra": "CISSE DIALLO, BOUBACARY",
+      "sale": "NORIEGA ROBLEDO, PABLO"
+    },
+    {
+      "min": 66,
+      "entra": "ALONSO DOMINGUEZ, DAVID",
+      "sale": "CANTERO FERNANDEZ-POLANCO, IGNACIO"
+    },
+    {
+      "min": 66,
+      "entra": "LLORENTE PANDO, ENZO",
+      "sale": "BROCO FUIANO, NICOLAS ANDREA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 47,
+      "entra": "SINOVA GARCIA, JUAN",
+      "sale": "BAZ ARROYO, EDUARDO"
+    },
+    {
+      "min": 47,
+      "entra": "TAVERA TEJADA, IVERSON MICHAEL",
+      "sale": "SANZ DAVILA, NICOLAS"
+    },
+    {
+      "min": 57,
+      "entra": "MARTIN CARRION, HECTOR",
+      "sale": "CAPUZ BAJAÑA, JOSUE ISAAC"
+    },
+    {
+      "min": 68,
+      "entra": "GARCIA ESTEBAN, LUCAS",
+      "sale": "MANZANO PASCUAL, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GALVAN BERNARDINO, NICOLAS": 90,
+    "MANRIQUE FERNANDEZ, RUBEN": 90,
+    "MUÑOZ MORO, DIEGO": 90,
+    "RELEA BÁSCONES, ADRIÁN": 90,
+    "CANTERO FERNANDEZ-POLANCO, IGNACIO": 66,
+    "BROCO FUIANO, NICOLAS ANDREA": 66,
+    "COBO MORRONDO, HUGO": 49,
+    "NORIEGA ROBLEDO, PABLO": 49,
+    "MONTOYA PÉREZ, WERKU": 90,
+    "DE BARBACHANO DEL RIO, IKER": 90,
+    "PASCUAL MACHO, DANTE": 90,
+    "MARÍN AMARAL, JAVIER": 41,
+    "CISSE DIALLO, BOUBACARY": 41,
+    "ALONSO DOMINGUEZ, DAVID": 24,
+    "LLORENTE PANDO, ENZO": 24,
+    "FRAILE RODRIGUEZ, DANIEL": 90,
+    "CAPUZ BAJAÑA, JOSUE ISAAC": 57,
+    "GALLEGO LAGARTOS, ADRIAN": 90,
+    "CRESPO ALVAREZ, RICARDO": 90,
+    "RELEA DEL CAÑO, ALEJANDRO": 90,
+    "SANZ DAVILA, NICOLAS": 47,
+    "CASCAJO SAMANIEGO, SERGIO": 90,
+    "BAZ ARROYO, EDUARDO": 47,
+    "MANZANO PASCUAL, HUGO": 68,
+    "LANSAC RODRIGUEZ, ROBERTO": 90,
+    "IBAÑEZ GONZALEZ DE LA HUEBRA, SAMUEL": 90,
+    "SINOVA GARCIA, JUAN": 43,
+    "TAVERA TEJADA, IVERSON MICHAEL": 43,
+    "MARTIN CARRION, HECTOR": 33,
+    "GARCIA ESTEBAN, LUCAS": 22
+  },
+  "portero_local": "GALVAN BERNARDINO, NICOLAS",
+  "portero_visitante": "FRAILE RODRIGUEZ, DANIEL",
+  "dorsales_local": {
+    "GALVAN BERNARDINO, NICOLAS": 13,
+    "MANRIQUE FERNANDEZ, RUBEN": 2,
+    "MUÑOZ MORO, DIEGO": 3,
+    "RELEA BÁSCONES, ADRIÁN": 4,
+    "CANTERO FERNANDEZ-POLANCO, IGNACIO": 6,
+    "BROCO FUIANO, NICOLAS ANDREA": 10,
+    "COBO MORRONDO, HUGO": 12,
+    "NORIEGA ROBLEDO, PABLO": 14,
+    "MONTOYA PÉREZ, WERKU": 17,
+    "DE BARBACHANO DEL RIO, IKER": 18,
+    "PASCUAL MACHO, DANTE": 19
+  },
+  "dorsales_visitante": {
+    "FRAILE RODRIGUEZ, DANIEL": 1,
+    "CAPUZ BAJAÑA, JOSUE ISAAC": 2,
+    "GALLEGO LAGARTOS, ADRIAN": 3,
+    "CRESPO ALVAREZ, RICARDO": 4,
+    "RELEA DEL CAÑO, ALEJANDRO": 5,
+    "SANZ DAVILA, NICOLAS": 6,
+    "CASCAJO SAMANIEGO, SERGIO": 7,
+    "BAZ ARROYO, EDUARDO": 8,
+    "MANZANO PASCUAL, HUGO": 9,
+    "LANSAC RODRIGUEZ, ROBERTO": 10,
+    "IBAÑEZ GONZALEZ DE LA HUEBRA, SAMUEL": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
