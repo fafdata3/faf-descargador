@@ -1,0 +1,263 @@
+{
+  "acta_id": "CY_26138314",
+  "filename": "Acta_CY_26138314.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "10-10-2026",
+  "hora": "11:00",
+  "categoria": "1ª División Regional de Infantiles (Única - Único)",
+  "equipo_local": "U.D. Sur",
+  "equipo_visitante": "Real Valladolid C.F. S.A.D.",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro",
+    "OTERO FERNANDEZ, RICARDO",
+    "Árbitro Asistente",
+    "DE LEÓN SANCHO, DAVID",
+    "Árbitro Asistente",
+    "FRANCO DE DIEGO, JORGE"
+  ],
+  "estadio": "C.M. Felicísimo de la Fuente",
+  "ciudad": "Valladolid",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "CRESPO SANCHEZ, HUGO",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "HINOJAL PASTOR, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "GONZALEZ PEDROSA, LUIS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 49,
+      "jugador": "RIZEA, MARIUS ARTINOVICI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "GONZALEZ MANGAS, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALVAREZ PÉREZ, ELADIO",
+  "entrenador_visitante": "ZARZUELA MARTÍN, RAÚL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PÉREZ TEJEDOR, MANUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ACEVEDO MUÑOZ, ANGEL",
+  "delegado_equipo_visitante": "MARTIN MATA, DIEGO",
+  "titulares_local": [
+    "HERRERA RODRIGUEZ, ANDRES",
+    "HERRERO GONZÁLEZ, LUCAS",
+    "MARTÍN SANZ, MARCOS",
+    "BAQUEDO FERIA, MIGUEL ANGEL",
+    "ANDRES REDONDO, DAVID",
+    "CRESPO SANCHEZ, HUGO",
+    "RIZEA, MARIUS ARTINOVICI",
+    "DOMÍNGUEZ ÑUDI, IGNACIO",
+    "GONZALEZ MANGAS, NICOLAS",
+    "ALONSO MOYANO, ALBERTO",
+    "IDROBO LÓPEZ, ALEXANDER"
+  ],
+  "titulares_visitante": [
+    "FRUTOS GIRALDA, PABLO",
+    "FERNANDEZ BLANCO, HUGO",
+    "HINOJAL PASTOR, MATEO",
+    "SANZ SASTRE, MANUEL",
+    "GOMEZ POSADILLA, NICOLAS",
+    "GONZÁLEZ MATEO, ÓSCAR",
+    "GONZALEZ PEDROSA, LUIS",
+    "ARMADA SALDAÑA, GONZALO",
+    "GRANDOSO VICENTE, LUCAS",
+    "MEDINA CANO, JAVIER",
+    "SAEZ ARENILLAS JIMENEZ, HUGO"
+  ],
+  "suplentes_local": [
+    "GALLEGOS SANCHEZ MONCAYO, MANUEL",
+    "GONZALVO GONZALEZ, ENRIQUE",
+    "VALLEJO ACUÑA, ALVARO",
+    "GALLEGO IBÁÑEZ, HUGO",
+    "SÁNCHEZ REYES, ALVARO"
+  ],
+  "suplentes_visitante": [
+    "VISCOVICH LÓPEZ, NIL ANTONIO",
+    "REINOSO GONZALEZ, MARCOS",
+    "HERNÁNDEZ GONZÁLEZ, RUBÉN",
+    "CANAS RIVAS, UNAI",
+    "VIDAL MARTIN, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "VISCOVICH LÓPEZ, NIL ANTONIO"
+  ],
+  "jugadores_local": [
+    "HERRERA RODRIGUEZ, ANDRES",
+    "HERRERO GONZÁLEZ, LUCAS",
+    "MARTÍN SANZ, MARCOS",
+    "BAQUEDO FERIA, MIGUEL ANGEL",
+    "ANDRES REDONDO, DAVID",
+    "CRESPO SANCHEZ, HUGO",
+    "RIZEA, MARIUS ARTINOVICI",
+    "DOMÍNGUEZ ÑUDI, IGNACIO",
+    "GONZALEZ MANGAS, NICOLAS",
+    "ALONSO MOYANO, ALBERTO",
+    "IDROBO LÓPEZ, ALEXANDER",
+    "GALLEGOS SANCHEZ MONCAYO, MANUEL",
+    "VALLEJO ACUÑA, ALVARO",
+    "GONZALVO GONZALEZ, ENRIQUE",
+    "SÁNCHEZ REYES, ALVARO",
+    "GALLEGO IBÁÑEZ, HUGO"
+  ],
+  "jugadores_visitante": [
+    "FRUTOS GIRALDA, PABLO",
+    "FERNANDEZ BLANCO, HUGO",
+    "HINOJAL PASTOR, MATEO",
+    "SANZ SASTRE, MANUEL",
+    "GOMEZ POSADILLA, NICOLAS",
+    "GONZÁLEZ MATEO, ÓSCAR",
+    "GONZALEZ PEDROSA, LUIS",
+    "ARMADA SALDAÑA, GONZALO",
+    "GRANDOSO VICENTE, LUCAS",
+    "MEDINA CANO, JAVIER",
+    "SAEZ ARENILLAS JIMENEZ, HUGO",
+    "CANAS RIVAS, UNAI",
+    "VIDAL MARTIN, ALEJANDRO",
+    "REINOSO GONZALEZ, MARCOS",
+    "HERNÁNDEZ GONZÁLEZ, RUBÉN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "GALLEGOS SANCHEZ MONCAYO, MANUEL",
+      "sale": "HERRERA RODRIGUEZ, ANDRES"
+    },
+    {
+      "min": 57,
+      "entra": "VALLEJO ACUÑA, ALVARO",
+      "sale": "HERRERO GONZÁLEZ, LUCAS"
+    },
+    {
+      "min": 57,
+      "entra": "GONZALVO GONZALEZ, ENRIQUE",
+      "sale": "RIZEA, MARIUS ARTINOVICI"
+    },
+    {
+      "min": 57,
+      "entra": "SÁNCHEZ REYES, ALVARO",
+      "sale": "IDROBO LÓPEZ, ALEXANDER"
+    },
+    {
+      "min": 57,
+      "entra": "GALLEGO IBÁÑEZ, HUGO",
+      "sale": "ANDRES REDONDO, DAVID"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "CANAS RIVAS, UNAI",
+      "sale": "ARMADA SALDAÑA, GONZALO"
+    },
+    {
+      "min": 44,
+      "entra": "VIDAL MARTIN, ALEJANDRO",
+      "sale": "SANZ SASTRE, MANUEL"
+    },
+    {
+      "min": 49,
+      "entra": "REINOSO GONZALEZ, MARCOS",
+      "sale": "SAEZ ARENILLAS JIMENEZ, HUGO"
+    },
+    {
+      "min": 49,
+      "entra": "HERNÁNDEZ GONZÁLEZ, RUBÉN",
+      "sale": "GONZÁLEZ MATEO, ÓSCAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "HERRERA RODRIGUEZ, ANDRES": 35,
+    "HERRERO GONZÁLEZ, LUCAS": 57,
+    "MARTÍN SANZ, MARCOS": 90,
+    "BAQUEDO FERIA, MIGUEL ANGEL": 90,
+    "ANDRES REDONDO, DAVID": 57,
+    "CRESPO SANCHEZ, HUGO": 90,
+    "RIZEA, MARIUS ARTINOVICI": 57,
+    "DOMÍNGUEZ ÑUDI, IGNACIO": 90,
+    "GONZALEZ MANGAS, NICOLAS": 90,
+    "ALONSO MOYANO, ALBERTO": 90,
+    "IDROBO LÓPEZ, ALEXANDER": 57,
+    "GALLEGOS SANCHEZ MONCAYO, MANUEL": 55,
+    "VALLEJO ACUÑA, ALVARO": 33,
+    "GONZALVO GONZALEZ, ENRIQUE": 33,
+    "SÁNCHEZ REYES, ALVARO": 33,
+    "GALLEGO IBÁÑEZ, HUGO": 33,
+    "FRUTOS GIRALDA, PABLO": 90,
+    "FERNANDEZ BLANCO, HUGO": 90,
+    "HINOJAL PASTOR, MATEO": 90,
+    "SANZ SASTRE, MANUEL": 44,
+    "GOMEZ POSADILLA, NICOLAS": 90,
+    "GONZÁLEZ MATEO, ÓSCAR": 49,
+    "GONZALEZ PEDROSA, LUIS": 90,
+    "ARMADA SALDAÑA, GONZALO": 35,
+    "GRANDOSO VICENTE, LUCAS": 90,
+    "MEDINA CANO, JAVIER": 90,
+    "SAEZ ARENILLAS JIMENEZ, HUGO": 49,
+    "CANAS RIVAS, UNAI": 55,
+    "VIDAL MARTIN, ALEJANDRO": 46,
+    "REINOSO GONZALEZ, MARCOS": 41,
+    "HERNÁNDEZ GONZÁLEZ, RUBÉN": 41
+  },
+  "portero_local": "HERRERA RODRIGUEZ, ANDRES",
+  "portero_visitante": "FRUTOS GIRALDA, PABLO",
+  "dorsales_local": {
+    "HERRERA RODRIGUEZ, ANDRES": 1,
+    "HERRERO GONZÁLEZ, LUCAS": 2,
+    "MARTÍN SANZ, MARCOS": 3,
+    "BAQUEDO FERIA, MIGUEL ANGEL": 4,
+    "ANDRES REDONDO, DAVID": 5,
+    "CRESPO SANCHEZ, HUGO": 6,
+    "RIZEA, MARIUS ARTINOVICI": 7,
+    "DOMÍNGUEZ ÑUDI, IGNACIO": 8,
+    "GONZALEZ MANGAS, NICOLAS": 9,
+    "ALONSO MOYANO, ALBERTO": 10,
+    "IDROBO LÓPEZ, ALEXANDER": 11
+  },
+  "dorsales_visitante": {
+    "FRUTOS GIRALDA, PABLO": 13,
+    "FERNANDEZ BLANCO, HUGO": 2,
+    "HINOJAL PASTOR, MATEO": 4,
+    "SANZ SASTRE, MANUEL": 7,
+    "GOMEZ POSADILLA, NICOLAS": 8,
+    "GONZÁLEZ MATEO, ÓSCAR": 9,
+    "GONZALEZ PEDROSA, LUIS": 11,
+    "ARMADA SALDAÑA, GONZALO": 14,
+    "GRANDOSO VICENTE, LUCAS": 15,
+    "MEDINA CANO, JAVIER": 16,
+    "SAEZ ARENILLAS JIMENEZ, HUGO": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
