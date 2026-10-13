@@ -1,0 +1,239 @@
+{
+  "acta_id": "C_244094",
+  "filename": "Acta_C_244094.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "10-10-2026",
+  "hora": "10:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.AT. PERINES A",
+  "equipo_visitante": "E.D.M. CAYON A",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "AVRAM AVRAM, DIMAS DORIN"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "SALAS RUIZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "ALHUSSEIN, HUSSEIN HASAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "ORTIZ GOMEZ, RODRIGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "ORTIZ GOMEZ, RODRIGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 64,
+      "jugador": "MAESTRO CARRASCO, ERIK",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 43,
+      "jugador": "TRUEBA BOLADO, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "PIQUERO DIAZ, ALFREDO AUGUSTO",
+  "entrenador_visitante": "CEBALLOS PRIETO, MARIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTINEZ FERNANDEZ, IGNACIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ FERNANDEZ, IGNACIO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "GUTIERREZ RUIZ, DIEGO",
+    "MAESTRO CARRASCO, ERIK",
+    "HOZ ROMÁN, HUGO",
+    "MOREL DIANA, EDISSON ADAIR",
+    "RASINES SAN MIGUEL, IZAN",
+    "BOLLOQUE PRIETO, ARIAN",
+    "MARTINEZ LANZA, MANUEL",
+    "SALAS RUIZ, ALVARO",
+    "ORTIZ GOMEZ, RODRIGO",
+    "PONCELA LANZA, VICTOR",
+    "CHAIERI OUAZZANI, ADAM"
+  ],
+  "titulares_visitante": [
+    "BECERRIL ALONSO, ALVARO",
+    "GUNEN, MEHMET MUSA",
+    "POPOVICI, ADRIAN",
+    "GOMEZ MAZON, MARIO",
+    "RODRIGUEZ PEREZ, ALVARO",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "ORIA ARCE, ENZO",
+    "DIAZ GARZON, RODRIGO",
+    "GUTIERREZ RUIZ, MATEO",
+    "KRISTIANOV DAFINKICHOV, VICTOR",
+    "TRUEBA BOLADO, DANIEL"
+  ],
+  "suplentes_local": [
+    "MONTERO MOLINA, BENJAMIN ARIEL",
+    "ALHUSSEIN, HUSSEIN HASAN",
+    "TORRALBO HERRERO, SERGIO"
+  ],
+  "suplentes_visitante": [
+    "FERNANDEZ RUMAZO, JUAN",
+    "MANTECON DIEGO, NICOLAS",
+    "MORA FERNANDEZ, LEO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GUTIERREZ RUIZ, DIEGO",
+    "MAESTRO CARRASCO, ERIK",
+    "HOZ ROMÁN, HUGO",
+    "MOREL DIANA, EDISSON ADAIR",
+    "RASINES SAN MIGUEL, IZAN",
+    "BOLLOQUE PRIETO, ARIAN",
+    "MARTINEZ LANZA, MANUEL",
+    "SALAS RUIZ, ALVARO",
+    "ORTIZ GOMEZ, RODRIGO",
+    "PONCELA LANZA, VICTOR",
+    "CHAIERI OUAZZANI, ADAM",
+    "TORRALBO HERRERO, SERGIO",
+    "ALHUSSEIN, HUSSEIN HASAN",
+    "MONTERO MOLINA, BENJAMIN ARIEL"
+  ],
+  "jugadores_visitante": [
+    "BECERRIL ALONSO, ALVARO",
+    "GUNEN, MEHMET MUSA",
+    "POPOVICI, ADRIAN",
+    "GOMEZ MAZON, MARIO",
+    "RODRIGUEZ PEREZ, ALVARO",
+    "CILLERUELO FERNANDEZ, RAUL",
+    "ORIA ARCE, ENZO",
+    "DIAZ GARZON, RODRIGO",
+    "GUTIERREZ RUIZ, MATEO",
+    "KRISTIANOV DAFINKICHOV, VICTOR",
+    "TRUEBA BOLADO, DANIEL",
+    "FERNANDEZ RUMAZO, JUAN",
+    "MANTECON DIEGO, NICOLAS",
+    "MORA FERNANDEZ, LEO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 10,
+      "entra": "TORRALBO HERRERO, SERGIO",
+      "sale": "RASINES SAN MIGUEL, IZAN"
+    },
+    {
+      "min": 54,
+      "entra": "ALHUSSEIN, HUSSEIN HASAN",
+      "sale": "PONCELA LANZA, VICTOR"
+    },
+    {
+      "min": 60,
+      "entra": "MONTERO MOLINA, BENJAMIN ARIEL",
+      "sale": "GUTIERREZ RUIZ, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "FERNANDEZ RUMAZO, JUAN",
+      "sale": "KRISTIANOV DAFINKICHOV, VICTOR"
+    },
+    {
+      "min": 45,
+      "entra": "MANTECON DIEGO, NICOLAS",
+      "sale": "GUTIERREZ RUIZ, MATEO"
+    },
+    {
+      "min": 52,
+      "entra": "MORA FERNANDEZ, LEO",
+      "sale": "DIAZ GARZON, RODRIGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GUTIERREZ RUIZ, DIEGO": 60,
+    "MAESTRO CARRASCO, ERIK": 90,
+    "HOZ ROMÁN, HUGO": 90,
+    "MOREL DIANA, EDISSON ADAIR": 90,
+    "RASINES SAN MIGUEL, IZAN": 10,
+    "BOLLOQUE PRIETO, ARIAN": 90,
+    "MARTINEZ LANZA, MANUEL": 90,
+    "SALAS RUIZ, ALVARO": 90,
+    "ORTIZ GOMEZ, RODRIGO": 90,
+    "PONCELA LANZA, VICTOR": 54,
+    "CHAIERI OUAZZANI, ADAM": 90,
+    "TORRALBO HERRERO, SERGIO": 80,
+    "ALHUSSEIN, HUSSEIN HASAN": 36,
+    "MONTERO MOLINA, BENJAMIN ARIEL": 30,
+    "BECERRIL ALONSO, ALVARO": 90,
+    "GUNEN, MEHMET MUSA": 90,
+    "POPOVICI, ADRIAN": 90,
+    "GOMEZ MAZON, MARIO": 90,
+    "RODRIGUEZ PEREZ, ALVARO": 90,
+    "CILLERUELO FERNANDEZ, RAUL": 90,
+    "ORIA ARCE, ENZO": 90,
+    "DIAZ GARZON, RODRIGO": 52,
+    "GUTIERREZ RUIZ, MATEO": 45,
+    "KRISTIANOV DAFINKICHOV, VICTOR": 45,
+    "TRUEBA BOLADO, DANIEL": 90,
+    "FERNANDEZ RUMAZO, JUAN": 45,
+    "MANTECON DIEGO, NICOLAS": 45,
+    "MORA FERNANDEZ, LEO": 38
+  },
+  "portero_local": "GUTIERREZ RUIZ, DIEGO",
+  "portero_visitante": "BECERRIL ALONSO, ALVARO",
+  "dorsales_local": {
+    "GUTIERREZ RUIZ, DIEGO": 13,
+    "MAESTRO CARRASCO, ERIK": 3,
+    "HOZ ROMÁN, HUGO": 4,
+    "MOREL DIANA, EDISSON ADAIR": 5,
+    "RASINES SAN MIGUEL, IZAN": 6,
+    "BOLLOQUE PRIETO, ARIAN": 7,
+    "MARTINEZ LANZA, MANUEL": 8,
+    "SALAS RUIZ, ALVARO": 9,
+    "ORTIZ GOMEZ, RODRIGO": 14,
+    "PONCELA LANZA, VICTOR": 15,
+    "CHAIERI OUAZZANI, ADAM": 20
+  },
+  "dorsales_visitante": {
+    "BECERRIL ALONSO, ALVARO": 1,
+    "GUNEN, MEHMET MUSA": 3,
+    "POPOVICI, ADRIAN": 5,
+    "GOMEZ MAZON, MARIO": 7,
+    "RODRIGUEZ PEREZ, ALVARO": 9,
+    "CILLERUELO FERNANDEZ, RAUL": 10,
+    "ORIA ARCE, ENZO": 15,
+    "DIAZ GARZON, RODRIGO": 18,
+    "GUTIERREZ RUIZ, MATEO": 20,
+    "KRISTIANOV DAFINKICHOV, VICTOR": 27,
+    "TRUEBA BOLADO, DANIEL": 33
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
