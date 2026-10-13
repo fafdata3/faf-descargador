@@ -1,0 +1,282 @@
+{
+  "acta_id": "C_244335",
+  "filename": "Acta_C_244335.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "11-10-2026",
+  "hora": "10:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO A)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "R.S. GIMNASTICA B",
+  "goles_local": 2,
+  "goles_visitante": 6,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CAZENAVE SUAREZ, MATIAS"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "MORÁN POLANCO, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 19,
+      "jugador": "GARCIA RUIZ, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "CELORIO GARCIA, LARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "MORÁN POLANCO, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 42,
+      "jugador": "CELORIO GARCIA, LARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "GARCIA RUIZ, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "CASTANEDO MARTINEZ, MARCO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "FERNANDEZ FERNANDEZ, SAUL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "DE LA RIVA TELECHEA, NACHO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "PEREZ BAIZAN, ALVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 70,
+      "jugador": "COSÍO BLANCO, NICOLÁS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "GONZALEZ MARTINEZ, JULIAN JOSE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BORRAGAN ALVAREZ, MARCOS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BORRAGAN ALVAREZ, MARCOS",
+  "delegado_equipo_visitante": "GOMEZ ZEVALLOS, STEVEN",
+  "titulares_local": [
+    "MERINO SALAS, OMAR",
+    "CUEVAS BENGOA, MARTÍN",
+    "SÁNCHEZ ÁLVAREZ, ALEX",
+    "HERNÁNDEZ ÁLVAREZ, NECO",
+    "GUTIÉRREZ CIEZA, DAVID",
+    "MORÁN POLANCO, PABLO",
+    "BUZNEGO GONZÁLEZ, IZAN",
+    "MENOCAL HIDALGO, ALEJANDRO",
+    "DE LA RIVA TELECHEA, NACHO",
+    "IBAÑEZ PÉREZ, PABLO",
+    "PACHO NOVOA, MARCO"
+  ],
+  "titulares_visitante": [
+    "CASERO PUCHE, LUIS",
+    "CASTANEDO MARTINEZ, MARCO",
+    "PAREDES GONZÁLEZ, BOSCO",
+    "PÉREZ LASO, GUILLERMO",
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO",
+    "PEREZ BAIZAN, ALVARO",
+    "COSÍO BLANCO, NICOLÁS",
+    "CELORIO GARCIA, LARO",
+    "GARCIA MARTINEZ, NECO",
+    "GARCIA RUIZ, JAVIER",
+    "PEREZ RICO, IGNACIO"
+  ],
+  "suplentes_local": [
+    "GARCÍA DE LA RIVA, LEO",
+    "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO",
+    "GARCÍA PEDROSA, SAÚL"
+  ],
+  "suplentes_visitante": [
+    "NICOL BROWN, DICKSON",
+    "HERNANDEZ CANO, HUGO",
+    "FERNANDEZ FERNANDEZ, SAUL",
+    "ORTIZ CAMPO, DIEGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MERINO SALAS, OMAR",
+    "CUEVAS BENGOA, MARTÍN",
+    "SÁNCHEZ ÁLVAREZ, ALEX",
+    "HERNÁNDEZ ÁLVAREZ, NECO",
+    "GUTIÉRREZ CIEZA, DAVID",
+    "MORÁN POLANCO, PABLO",
+    "BUZNEGO GONZÁLEZ, IZAN",
+    "MENOCAL HIDALGO, ALEJANDRO",
+    "DE LA RIVA TELECHEA, NACHO",
+    "IBAÑEZ PÉREZ, PABLO",
+    "PACHO NOVOA, MARCO",
+    "GARCÍA PEDROSA, SAÚL",
+    "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO",
+    "GARCÍA DE LA RIVA, LEO"
+  ],
+  "jugadores_visitante": [
+    "CASERO PUCHE, LUIS",
+    "CASTANEDO MARTINEZ, MARCO",
+    "PAREDES GONZÁLEZ, BOSCO",
+    "PÉREZ LASO, GUILLERMO",
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO",
+    "PEREZ BAIZAN, ALVARO",
+    "COSÍO BLANCO, NICOLÁS",
+    "CELORIO GARCIA, LARO",
+    "GARCIA MARTINEZ, NECO",
+    "GARCIA RUIZ, JAVIER",
+    "PEREZ RICO, IGNACIO",
+    "ORTIZ CAMPO, DIEGO",
+    "NICOL BROWN, DICKSON",
+    "FERNANDEZ FERNANDEZ, SAUL",
+    "HERNANDEZ CANO, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "GARCÍA PEDROSA, SAÚL",
+      "sale": "CUEVAS BENGOA, MARTÍN"
+    },
+    {
+      "min": 46,
+      "entra": "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO",
+      "sale": "HERNÁNDEZ ÁLVAREZ, NECO"
+    },
+    {
+      "min": 65,
+      "entra": "GARCÍA DE LA RIVA, LEO",
+      "sale": "MERINO SALAS, OMAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "ORTIZ CAMPO, DIEGO",
+      "sale": "PEREZ BAIZAN, ALVARO"
+    },
+    {
+      "min": 46,
+      "entra": "NICOL BROWN, DICKSON",
+      "sale": "PEREZ RICO, IGNACIO"
+    },
+    {
+      "min": 54,
+      "entra": "FERNANDEZ FERNANDEZ, SAUL",
+      "sale": "PAREDES GONZÁLEZ, BOSCO"
+    },
+    {
+      "min": 54,
+      "entra": "HERNANDEZ CANO, HUGO",
+      "sale": "GARCIA MARTINEZ, NECO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MERINO SALAS, OMAR": 65,
+    "CUEVAS BENGOA, MARTÍN": 35,
+    "SÁNCHEZ ÁLVAREZ, ALEX": 90,
+    "HERNÁNDEZ ÁLVAREZ, NECO": 46,
+    "GUTIÉRREZ CIEZA, DAVID": 90,
+    "MORÁN POLANCO, PABLO": 90,
+    "BUZNEGO GONZÁLEZ, IZAN": 90,
+    "MENOCAL HIDALGO, ALEJANDRO": 90,
+    "DE LA RIVA TELECHEA, NACHO": 90,
+    "IBAÑEZ PÉREZ, PABLO": 90,
+    "PACHO NOVOA, MARCO": 90,
+    "GARCÍA PEDROSA, SAÚL": 55,
+    "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO": 44,
+    "GARCÍA DE LA RIVA, LEO": 25,
+    "CASERO PUCHE, LUIS": 90,
+    "CASTANEDO MARTINEZ, MARCO": 90,
+    "PAREDES GONZÁLEZ, BOSCO": 54,
+    "PÉREZ LASO, GUILLERMO": 90,
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO": 90,
+    "PEREZ BAIZAN, ALVARO": 46,
+    "COSÍO BLANCO, NICOLÁS": 90,
+    "CELORIO GARCIA, LARO": 90,
+    "GARCIA MARTINEZ, NECO": 54,
+    "GARCIA RUIZ, JAVIER": 90,
+    "PEREZ RICO, IGNACIO": 46,
+    "ORTIZ CAMPO, DIEGO": 44,
+    "NICOL BROWN, DICKSON": 44,
+    "FERNANDEZ FERNANDEZ, SAUL": 36,
+    "HERNANDEZ CANO, HUGO": 36
+  },
+  "portero_local": "MERINO SALAS, OMAR",
+  "portero_visitante": "CASERO PUCHE, LUIS",
+  "dorsales_local": {
+    "MERINO SALAS, OMAR": 1,
+    "CUEVAS BENGOA, MARTÍN": 4,
+    "SÁNCHEZ ÁLVAREZ, ALEX": 5,
+    "HERNÁNDEZ ÁLVAREZ, NECO": 7,
+    "GUTIÉRREZ CIEZA, DAVID": 8,
+    "MORÁN POLANCO, PABLO": 9,
+    "BUZNEGO GONZÁLEZ, IZAN": 10,
+    "MENOCAL HIDALGO, ALEJANDRO": 11,
+    "DE LA RIVA TELECHEA, NACHO": 16,
+    "IBAÑEZ PÉREZ, PABLO": 17,
+    "PACHO NOVOA, MARCO": 23
+  },
+  "dorsales_visitante": {
+    "CASERO PUCHE, LUIS": 1,
+    "CASTANEDO MARTINEZ, MARCO": 3,
+    "PAREDES GONZÁLEZ, BOSCO": 4,
+    "PÉREZ LASO, GUILLERMO": 5,
+    "DE MIER PINHEIRO, OCTAVIO FERNANDO": 6,
+    "PEREZ BAIZAN, ALVARO": 7,
+    "COSÍO BLANCO, NICOLÁS": 8,
+    "CELORIO GARCIA, LARO": 10,
+    "GARCIA MARTINEZ, NECO": 11,
+    "GARCIA RUIZ, JAVIER": 14,
+    "PEREZ RICO, IGNACIO": 15
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
