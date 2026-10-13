@@ -1,0 +1,278 @@
+{
+  "acta_id": "C_244092",
+  "filename": "Acta_C_244092.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "11-10-2026",
+  "hora": "12:15",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "C.D. BEZANA A",
+  "equipo_visitante": "C.D. LAREDO A",
+  "goles_local": 7,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "QUINDÓS CUEVAS, YORKMAN MANUEL"
+  ],
+  "estadio": "Santa Cruz de Bezana",
+  "ciudad": "Santa Cruz de Bezana",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "CABRIA MACHO, LUISMI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "CABRIA MACHO, LUISMI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "ESCOBEDO LOPEZ, ALVARO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "CABRIA MACHO, LUISMI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "SOLANO ROJO, DARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "SOLANO ROJO, DARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 68,
+      "jugador": "CAMPO MAGAZ, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "RODRIGUEZ ECHEVARRIA, FRAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "OÑATE ALONSO, ALVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "VELEZ ALDACO, JOSE LUIS",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GARCIA DIAZ, ADRIAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA DIAZ, ADRIAN",
+  "delegado_equipo_visitante": "RUIZ RIESTRA, MARIO",
+  "titulares_local": [
+    "HERRERA MORENO, LUCA",
+    "BENEDITED RUIZ, HUGO",
+    "CRESPO CONDEZO, JADEL",
+    "ESCOBEDO LOPEZ, ALVARO",
+    "STOENESCU, GABRIEL",
+    "DOBARGANES SAIZ, JULEN",
+    "COBO SAN MIGUEL, SERGIO",
+    "LOPEZ HERRERA, FRANCISCO",
+    "CABRIA MACHO, LUISMI",
+    "RODRIGUEZ PALACIN, NICOLAS",
+    "LLATA CASAL, ENZO"
+  ],
+  "titulares_visitante": [
+    "CORDOVA CAJAHUARINGA, GONZALO ISMAEL",
+    "DÍAZ TRUEBA, LARO",
+    "ROIZ PEÑA, DAVID",
+    "ALONSO FERNANDEZ, LEO",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "FONFRIA BARCENA, ARTURO",
+    "PASCUAL GARCIA, HUGO",
+    "SANCHEZ RAMOS, LEO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "BARRON URRUELA, ASIER",
+    "ALONSO FLORES, IVAN"
+  ],
+  "suplentes_local": [
+    "ODRIOZOLA SAN SEGUNDO, LUCA",
+    "FERNANDEZ RUIZ, MARIO",
+    "CAMPO MAGAZ, MARCO",
+    "GARCIA PEREZ, DAVID",
+    "SOLANO ROJO, DARIO"
+  ],
+  "suplentes_visitante": [
+    "BRINGAS LLANO, HUGO",
+    "MALASQUEZ ARTICA, ALVARO SEBASTIAN",
+    "OÑATE ALONSO, ALVARO",
+    "TRAMULLAS FUENTES, DYLAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "ODRIOZOLA SAN SEGUNDO, LUCA"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "HERRERA MORENO, LUCA",
+    "BENEDITED RUIZ, HUGO",
+    "CRESPO CONDEZO, JADEL",
+    "ESCOBEDO LOPEZ, ALVARO",
+    "STOENESCU, GABRIEL",
+    "DOBARGANES SAIZ, JULEN",
+    "COBO SAN MIGUEL, SERGIO",
+    "LOPEZ HERRERA, FRANCISCO",
+    "CABRIA MACHO, LUISMI",
+    "RODRIGUEZ PALACIN, NICOLAS",
+    "LLATA CASAL, ENZO",
+    "CAMPO MAGAZ, MARCO",
+    "SOLANO ROJO, DARIO",
+    "GARCIA PEREZ, DAVID",
+    "FERNANDEZ RUIZ, MARIO"
+  ],
+  "jugadores_visitante": [
+    "CORDOVA CAJAHUARINGA, GONZALO ISMAEL",
+    "DÍAZ TRUEBA, LARO",
+    "ROIZ PEÑA, DAVID",
+    "ALONSO FERNANDEZ, LEO",
+    "RODRIGUEZ ECHEVARRIA, FRAN",
+    "FONFRIA BARCENA, ARTURO",
+    "PASCUAL GARCIA, HUGO",
+    "SANCHEZ RAMOS, LEO",
+    "BARANZA PEÑA, DANIEL-STEVEN",
+    "BARRON URRUELA, ASIER",
+    "ALONSO FLORES, IVAN",
+    "TRAMULLAS FUENTES, DYLAN",
+    "MALASQUEZ ARTICA, ALVARO SEBASTIAN",
+    "BRINGAS LLANO, HUGO",
+    "OÑATE ALONSO, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "CAMPO MAGAZ, MARCO",
+      "sale": "LOPEZ HERRERA, FRANCISCO"
+    },
+    {
+      "min": 51,
+      "entra": "SOLANO ROJO, DARIO",
+      "sale": "COBO SAN MIGUEL, SERGIO"
+    },
+    {
+      "min": 53,
+      "entra": "GARCIA PEREZ, DAVID",
+      "sale": "RODRIGUEZ PALACIN, NICOLAS"
+    },
+    {
+      "min": 53,
+      "entra": "FERNANDEZ RUIZ, MARIO",
+      "sale": "CABRIA MACHO, LUISMI"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "TRAMULLAS FUENTES, DYLAN",
+      "sale": "ALONSO FERNANDEZ, LEO"
+    },
+    {
+      "min": 36,
+      "entra": "MALASQUEZ ARTICA, ALVARO SEBASTIAN",
+      "sale": "FONFRIA BARCENA, ARTURO"
+    },
+    {
+      "min": 36,
+      "entra": "BRINGAS LLANO, HUGO",
+      "sale": "CORDOVA CAJAHUARINGA, GONZALO ISMAEL"
+    },
+    {
+      "min": 50,
+      "entra": "OÑATE ALONSO, ALVARO",
+      "sale": "ROIZ PEÑA, DAVID"
+    }
+  ],
+  "minutos_jugadores": {
+    "HERRERA MORENO, LUCA": 90,
+    "BENEDITED RUIZ, HUGO": 90,
+    "CRESPO CONDEZO, JADEL": 90,
+    "ESCOBEDO LOPEZ, ALVARO": 90,
+    "STOENESCU, GABRIEL": 90,
+    "DOBARGANES SAIZ, JULEN": 90,
+    "COBO SAN MIGUEL, SERGIO": 51,
+    "LOPEZ HERRERA, FRANCISCO": 45,
+    "CABRIA MACHO, LUISMI": 53,
+    "RODRIGUEZ PALACIN, NICOLAS": 53,
+    "LLATA CASAL, ENZO": 90,
+    "CAMPO MAGAZ, MARCO": 45,
+    "SOLANO ROJO, DARIO": 39,
+    "GARCIA PEREZ, DAVID": 37,
+    "FERNANDEZ RUIZ, MARIO": 37,
+    "CORDOVA CAJAHUARINGA, GONZALO ISMAEL": 36,
+    "DÍAZ TRUEBA, LARO": 90,
+    "ROIZ PEÑA, DAVID": 50,
+    "ALONSO FERNANDEZ, LEO": 36,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 90,
+    "FONFRIA BARCENA, ARTURO": 36,
+    "PASCUAL GARCIA, HUGO": 90,
+    "SANCHEZ RAMOS, LEO": 90,
+    "BARANZA PEÑA, DANIEL-STEVEN": 90,
+    "BARRON URRUELA, ASIER": 90,
+    "ALONSO FLORES, IVAN": 90,
+    "TRAMULLAS FUENTES, DYLAN": 54,
+    "MALASQUEZ ARTICA, ALVARO SEBASTIAN": 54,
+    "BRINGAS LLANO, HUGO": 54,
+    "OÑATE ALONSO, ALVARO": 40
+  },
+  "portero_local": "HERRERA MORENO, LUCA",
+  "portero_visitante": "CORDOVA CAJAHUARINGA, GONZALO ISMAEL",
+  "dorsales_local": {
+    "HERRERA MORENO, LUCA": 1,
+    "BENEDITED RUIZ, HUGO": 2,
+    "CRESPO CONDEZO, JADEL": 3,
+    "ESCOBEDO LOPEZ, ALVARO": 4,
+    "STOENESCU, GABRIEL": 5,
+    "DOBARGANES SAIZ, JULEN": 6,
+    "COBO SAN MIGUEL, SERGIO": 7,
+    "LOPEZ HERRERA, FRANCISCO": 8,
+    "CABRIA MACHO, LUISMI": 9,
+    "RODRIGUEZ PALACIN, NICOLAS": 10,
+    "LLATA CASAL, ENZO": 11
+  },
+  "dorsales_visitante": {
+    "CORDOVA CAJAHUARINGA, GONZALO ISMAEL": 13,
+    "DÍAZ TRUEBA, LARO": 5,
+    "ROIZ PEÑA, DAVID": 7,
+    "ALONSO FERNANDEZ, LEO": 8,
+    "RODRIGUEZ ECHEVARRIA, FRAN": 9,
+    "FONFRIA BARCENA, ARTURO": 10,
+    "PASCUAL GARCIA, HUGO": 11,
+    "SANCHEZ RAMOS, LEO": 12,
+    "BARANZA PEÑA, DANIEL-STEVEN": 14,
+    "BARRON URRUELA, ASIER": 17,
+    "ALONSO FLORES, IVAN": 25
+  },
+  "suspendidos": []
+}
