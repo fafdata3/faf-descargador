@@ -9,9 +9,9 @@
   "categoria": "PlayOff por el Título Primera División Fútbol Sala Masculino (PlayOff por el Título Primera División)",
   "equipo_local": "QUESOS EL HIDALGO MANZANARES F.S.",
   "equipo_visitante": "ILLES BALEARS PALMA FUTSAL",
-  "goles_local": 1,
-  "goles_visitante": 1,
-  "resultado": "D",
+  "goles_local": 3,
+  "goles_visitante": 4,
+  "resultado": "L",
   "arbitros": [
     "ÁRBITRO 1",
     "URDÁNOZ APEZTEGUÍA, DAVID",
@@ -31,7 +31,7 @@
       "minuto": 8,
       "jugador": "BOUZID STITOU, KHALID",
       "equipo": "?",
-      "propia": false,
+      "propia": true,
       "penalti": false
     },
     {
@@ -222,5 +222,6 @@
   },
   "suspendidos": [
     "NEVES DE LIMA, ALISSON"
-  ]
+  ],
+  "_marcador_widget": true
 }
