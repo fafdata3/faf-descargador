@@ -9,9 +9,9 @@
   "categoria": "Campeonato de Segunda División de Futbol Playa Femenino (PLAY OFF)",
   "equipo_local": "C.F. FEMENINO CIUDAD DE DOS HERMANAS",
   "equipo_visitante": "C.F. FEMENINO CACERES",
-  "goles_local": 4,
-  "goles_visitante": 4,
-  "resultado": "D",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
   "arbitros": [
     "ÁRBITRO 1",
     "ARANDA CONDE, PEDRO",
@@ -28,8 +28,8 @@
     {
       "minuto": 2,
       "jugador": "CONDE FALCON, NATALIA",
-      "equipo": "visitante",
-      "propia": true,
+      "equipo": "local",
+      "propia": false,
       "penalti": false
     },
     {
@@ -261,6 +261,5 @@
   },
   "suspendidos": [
     "NINGUNA"
-  ],
-  "_marcador_widget": true
+  ]
 }
