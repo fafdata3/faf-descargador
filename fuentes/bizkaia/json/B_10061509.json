@@ -9,9 +9,9 @@
   "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
   "equipo_local": "GAZTELUETA A",
   "equipo_visitante": "UNION SPORT A",
-  "goles_local": 0,
-  "goles_visitante": 0,
-  "resultado": "D",
+  "goles_local": 1,
+  "goles_visitante": 5,
+  "resultado": "L",
   "arbitros": [
     "Árbitro Principal",
     "PUENTES RUIZ, ANDER"
@@ -22,43 +22,43 @@
     {
       "minuto": 25,
       "jugador": "NOGALES GORRIA, KIRIAN",
-      "equipo": "local",
-      "propia": true,
+      "equipo": "visitante",
+      "propia": false,
       "penalti": false
     },
     {
       "minuto": 40,
       "jugador": "FERNANDEZ RODAS, ALEX SEBASTIAN",
-      "equipo": "local",
-      "propia": true,
+      "equipo": "visitante",
+      "propia": false,
       "penalti": false
     },
     {
       "minuto": 43,
       "jugador": "NOGALES GORRIA, KIRIAN",
-      "equipo": "local",
-      "propia": true,
+      "equipo": "visitante",
+      "propia": false,
       "penalti": false
     },
     {
       "minuto": 48,
       "jugador": "RODRIGUEZ BLANCO, MARKEL",
-      "equipo": "local",
-      "propia": true,
+      "equipo": "visitante",
+      "propia": false,
       "penalti": false
     },
     {
       "minuto": 55,
       "jugador": "ORMAZABAL SOMALO, MIGUEL",
-      "equipo": "visitante",
-      "propia": true,
+      "equipo": "local",
+      "propia": false,
       "penalti": false
     },
     {
       "minuto": 60,
       "jugador": "OBREGON MARTINEZ, EINAR",
-      "equipo": "local",
-      "propia": true,
+      "equipo": "visitante",
+      "propia": false,
       "penalti": false
     }
   ],
@@ -282,6 +282,5 @@
     "RODRIGUEZ BLANCO, MARKEL": 21,
     "DO NASCIMENTO SANDIVAR, JORDI ELIU": 23
   },
-  "suspendidos": [],
-  "_marcador_widget": true
+  "suspendidos": []
 }
