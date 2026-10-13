@@ -1,0 +1,281 @@
+{
+  "acta_id": "E_10044311",
+  "filename": "Acta_E_10044311.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "10-10-2026",
+  "hora": "09:30",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "SANTUTXU F.C.",
+  "equipo_visitante": "EIBAR, S.D.",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ESTEFANIA GIL, EDGAR"
+  ],
+  "estadio": "MALLONA 1",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "SANZ MUGICA, ENDIKA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "CORMAN LOPEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "ALKORTA DUARTE, IBON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 24,
+      "jugador": "ATXURRA MONTES, MARKEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 39,
+      "jugador": "CABALLERO ASTONDOA, JULEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 12,
+      "jugador": "DE LA MATA QUESADA, ANER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BERMUDEZ SALGUERO, IGNACIO",
+  "entrenador_visitante": "ITUARTE OLANO, JON",
+  "segundo_entrenador_local": "HERRERA GARCIA, HUGO",
+  "segundo_entrenador_visitante": "GARAGARZA SASIETA, ENDIKA",
+  "delegado_campo_local": "LOPEZ RUIZ, IKER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ RUIZ, IKER",
+  "delegado_equipo_visitante": "GUISASOLA ALTUNA, MARKEL",
+  "titulares_local": [
+    "ARTAZA ARRIETA, MIKEL",
+    "ARABIOURRUTIA PEREZ, EIDAN",
+    "CABALLERO ASTONDOA, JULEN",
+    "CASADO ELCOROBARRUTIA, UNAI",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "SOMOZA GAGO, ANDER",
+    "OTAOLA MOLINA, IBAI",
+    "ATXURRA MONTES, MARKEL",
+    "OKHOMINA GARCIA, DAVID",
+    "MOSTEIRO BARCO, AIZKIBEL",
+    "FERNÁNDEZ LIENDO, HUGO"
+  ],
+  "titulares_visitante": [
+    "CAMARA PEREZ, MARCOS",
+    "GERENABARRENA YARZA, MARKEL",
+    "IRAZABAL MADARIAGA, IGOR",
+    "GONZALEZ SAN JUAN, HODEI",
+    "SAMPEDRO GONZALEZ, NICOLAS",
+    "MAIGA KOITA, CHEICKE HAMALA",
+    "SANZ MUGICA, ENDIKA",
+    "OIANGUREN LEON, LUAR",
+    "ALONSO MODENES, UNAI",
+    "DE LA MATA QUESADA, ANER",
+    "TALLEDO AGUSTIN, OIHAN"
+  ],
+  "suplentes_local": [
+    "ORTIZ DE VALLEJUELO CASTRO, AIMAR",
+    "MARTINEZ EXPOSITO, ERLANTZ",
+    "GARCÍA SÁNCHEZ, IZEI",
+    "MARTIN GOTI, GALDER",
+    "FARAPON, ANDREI",
+    "CABALLERO PINZON, XABIER",
+    "DE LUIS AGUIRREGOITIA, GARIKOITZ"
+  ],
+  "suplentes_visitante": [
+    "URAIN SANTANO, ENEKO",
+    "GISASOLA BERNARDO, EKAIN",
+    "VIDAL PEÑA, IMANOL",
+    "AREIZAGA SALEGUI, LUKA",
+    "ALKORTA DUARTE, IBON",
+    "CONDE MATILLA, JON",
+    "CORMAN LOPEZ, UNAI"
+  ],
+  "convocados_sin_jugar_local": [
+    "ORTIZ DE VALLEJUELO CASTRO, AIMAR",
+    "MARTIN GOTI, GALDER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "URAIN SANTANO, ENEKO",
+    "VIDAL PEÑA, IMANOL"
+  ],
+  "jugadores_local": [
+    "ARTAZA ARRIETA, MIKEL",
+    "ARABIOURRUTIA PEREZ, EIDAN",
+    "CABALLERO ASTONDOA, JULEN",
+    "CASADO ELCOROBARRUTIA, UNAI",
+    "MAQUEDA HERNANDEZ, IZAN",
+    "SOMOZA GAGO, ANDER",
+    "OTAOLA MOLINA, IBAI",
+    "ATXURRA MONTES, MARKEL",
+    "OKHOMINA GARCIA, DAVID",
+    "MOSTEIRO BARCO, AIZKIBEL",
+    "FERNÁNDEZ LIENDO, HUGO",
+    "DE LUIS AGUIRREGOITIA, GARIKOITZ",
+    "GARCÍA SÁNCHEZ, IZEI",
+    "MARTINEZ EXPOSITO, ERLANTZ",
+    "FARAPON, ANDREI",
+    "CABALLERO PINZON, XABIER"
+  ],
+  "jugadores_visitante": [
+    "CAMARA PEREZ, MARCOS",
+    "GERENABARRENA YARZA, MARKEL",
+    "IRAZABAL MADARIAGA, IGOR",
+    "GONZALEZ SAN JUAN, HODEI",
+    "SAMPEDRO GONZALEZ, NICOLAS",
+    "MAIGA KOITA, CHEICKE HAMALA",
+    "SANZ MUGICA, ENDIKA",
+    "OIANGUREN LEON, LUAR",
+    "ALONSO MODENES, UNAI",
+    "DE LA MATA QUESADA, ANER",
+    "TALLEDO AGUSTIN, OIHAN",
+    "CORMAN LOPEZ, UNAI",
+    "ALKORTA DUARTE, IBON",
+    "AREIZAGA SALEGUI, LUKA",
+    "CONDE MATILLA, JON",
+    "GISASOLA BERNARDO, EKAIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "DE LUIS AGUIRREGOITIA, GARIKOITZ",
+      "sale": "CASADO ELCOROBARRUTIA, UNAI"
+    },
+    {
+      "min": 62,
+      "entra": "GARCÍA SÁNCHEZ, IZEI",
+      "sale": "OKHOMINA GARCIA, DAVID"
+    },
+    {
+      "min": 62,
+      "entra": "MARTINEZ EXPOSITO, ERLANTZ",
+      "sale": "CABALLERO ASTONDOA, JULEN"
+    },
+    {
+      "min": 62,
+      "entra": "FARAPON, ANDREI",
+      "sale": "ARABIOURRUTIA PEREZ, EIDAN"
+    },
+    {
+      "min": 73,
+      "entra": "CABALLERO PINZON, XABIER",
+      "sale": "MOSTEIRO BARCO, AIZKIBEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "CORMAN LOPEZ, UNAI",
+      "sale": "OIANGUREN LEON, LUAR"
+    },
+    {
+      "min": 59,
+      "entra": "ALKORTA DUARTE, IBON",
+      "sale": "SANZ MUGICA, ENDIKA"
+    },
+    {
+      "min": 59,
+      "entra": "AREIZAGA SALEGUI, LUKA",
+      "sale": "GONZALEZ SAN JUAN, HODEI"
+    },
+    {
+      "min": 67,
+      "entra": "CONDE MATILLA, JON",
+      "sale": "GERENABARRENA YARZA, MARKEL"
+    },
+    {
+      "min": 67,
+      "entra": "GISASOLA BERNARDO, EKAIN",
+      "sale": "MAIGA KOITA, CHEICKE HAMALA"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARTAZA ARRIETA, MIKEL": 90,
+    "ARABIOURRUTIA PEREZ, EIDAN": 62,
+    "CABALLERO ASTONDOA, JULEN": 62,
+    "CASADO ELCOROBARRUTIA, UNAI": 55,
+    "MAQUEDA HERNANDEZ, IZAN": 90,
+    "SOMOZA GAGO, ANDER": 90,
+    "OTAOLA MOLINA, IBAI": 90,
+    "ATXURRA MONTES, MARKEL": 90,
+    "OKHOMINA GARCIA, DAVID": 62,
+    "MOSTEIRO BARCO, AIZKIBEL": 73,
+    "FERNÁNDEZ LIENDO, HUGO": 90,
+    "DE LUIS AGUIRREGOITIA, GARIKOITZ": 35,
+    "GARCÍA SÁNCHEZ, IZEI": 28,
+    "MARTINEZ EXPOSITO, ERLANTZ": 28,
+    "FARAPON, ANDREI": 28,
+    "CABALLERO PINZON, XABIER": 17,
+    "CAMARA PEREZ, MARCOS": 90,
+    "GERENABARRENA YARZA, MARKEL": 67,
+    "IRAZABAL MADARIAGA, IGOR": 90,
+    "GONZALEZ SAN JUAN, HODEI": 59,
+    "SAMPEDRO GONZALEZ, NICOLAS": 90,
+    "MAIGA KOITA, CHEICKE HAMALA": 67,
+    "SANZ MUGICA, ENDIKA": 59,
+    "OIANGUREN LEON, LUAR": 51,
+    "ALONSO MODENES, UNAI": 90,
+    "DE LA MATA QUESADA, ANER": 90,
+    "TALLEDO AGUSTIN, OIHAN": 90,
+    "CORMAN LOPEZ, UNAI": 39,
+    "ALKORTA DUARTE, IBON": 31,
+    "AREIZAGA SALEGUI, LUKA": 31,
+    "CONDE MATILLA, JON": 23,
+    "GISASOLA BERNARDO, EKAIN": 23
+  },
+  "portero_local": "ARTAZA ARRIETA, MIKEL",
+  "portero_visitante": "CAMARA PEREZ, MARCOS",
+  "dorsales_local": {
+    "ARTAZA ARRIETA, MIKEL": 13,
+    "ARABIOURRUTIA PEREZ, EIDAN": 3,
+    "CABALLERO ASTONDOA, JULEN": 6,
+    "CASADO ELCOROBARRUTIA, UNAI": 9,
+    "MAQUEDA HERNANDEZ, IZAN": 11,
+    "SOMOZA GAGO, ANDER": 14,
+    "OTAOLA MOLINA, IBAI": 16,
+    "ATXURRA MONTES, MARKEL": 17,
+    "OKHOMINA GARCIA, DAVID": 19,
+    "MOSTEIRO BARCO, AIZKIBEL": 21,
+    "FERNÁNDEZ LIENDO, HUGO": 23
+  },
+  "dorsales_visitante": {
+    "CAMARA PEREZ, MARCOS": 13,
+    "GERENABARRENA YARZA, MARKEL": 2,
+    "IRAZABAL MADARIAGA, IGOR": 5,
+    "GONZALEZ SAN JUAN, HODEI": 7,
+    "SAMPEDRO GONZALEZ, NICOLAS": 8,
+    "MAIGA KOITA, CHEICKE HAMALA": 9,
+    "SANZ MUGICA, ENDIKA": 10,
+    "OIANGUREN LEON, LUAR": 11,
+    "ALONSO MODENES, UNAI": 12,
+    "DE LA MATA QUESADA, ANER": 15,
+    "TALLEDO AGUSTIN, OIHAN": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
