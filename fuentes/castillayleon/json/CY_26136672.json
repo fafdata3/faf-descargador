@@ -1,0 +1,268 @@
+{
+  "acta_id": "CY_26136672",
+  "filename": "Acta_CY_26136672.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "10-10-2026",
+  "hora": "18:00",
+  "categoria": "2ª División Regional de Cadetes (Única - Único)",
+  "equipo_local": "Gimnástica Medinense",
+  "equipo_visitante": "C.D. Parquesol B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro",
+    "CAÑIBANO ARIAS, CARLOS",
+    "Árbitro Asistente",
+    "LABARTA COJO, FRANCISCO",
+    "Árbitro Asistente",
+    "GARCIA HERRERA, DANIEL"
+  ],
+  "estadio": "C.M. Diego Carbajosa",
+  "ciudad": "Medina Del Campo",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "RODRIGUEZ ALONSO, DANIEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 44,
+      "jugador": "BERGAZ MUÑOZ, ALEJANDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "TOME PEREZ, ALEJANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "MENDEZ MIGUEL, LEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "TOME PEREZ, ALEJANDRO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SÁNCHEZ VÁZQUEZ, ALBERTO",
+  "entrenador_visitante": "QUEIPO DE LLANO DE LA VIUDA, ROBERTO",
+  "segundo_entrenador_local": "PEREZ RODILLA, SERGIO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GARCIA HERNANDEZ, DAVID",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ELIAS BAYON, RAMON",
+  "titulares_local": [
+    "VILLEGAS HERNANDEZ, HUGO",
+    "DE ISCAR ALONSO, MANUEL",
+    "MOYANO NAVARRO, PABLO",
+    "MARTIN BECERRA, HECTOR",
+    "NIETO VASCO, VICTOR",
+    "MARTIN LOZA, BRUNO",
+    "BERGAZ MUÑOZ, ALEJANDRO",
+    "POZO GARCÍA, MARCO",
+    "REJAS SANZ, BRUNO",
+    "SANTOS MORAS, ANDY",
+    "DUQUE HERNÁNDEZ, SERGIO"
+  ],
+  "titulares_visitante": [
+    "PEREZ ACEBES, TELLO",
+    "GORDALIZA GONZALEZ, LORIS",
+    "RODRIGUEZ BALBAS, MIGUEL",
+    "RODRIGUEZ MAESTRO, SERGIO",
+    "CARBAJOSA TORIBIO, ISRAEL",
+    "MEDIAVILLA CALLEJA, MARTIN",
+    "MENDEZ MIGUEL, LEO",
+    "ALVAREZ RUIZ, JOSE MARIA",
+    "RODRIGUEZ ALONSO, DANIEL",
+    "MENDEZ MIGUEL, GONZALO",
+    "GONZÁLEZ CASTRO, SANTIAGO"
+  ],
+  "suplentes_local": [
+    "CHICO MAESTRE, MARIO",
+    "CALLE SANZ, ALEJANDRO",
+    "GARCIA DE CASTRO, JAIME",
+    "SANTOS GABARRE, VICTOR MANUEL",
+    "ANDERSON DEL VALLE, IZAN"
+  ],
+  "suplentes_visitante": [
+    "GAI, SAIHOU OMAR",
+    "MONTERO CONDE, DANIEL",
+    "CAMPOS DUQUE, MATHIAS",
+    "SENDINO CORTES, NICOLAS",
+    "TOME PEREZ, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "VILLEGAS HERNANDEZ, HUGO",
+    "DE ISCAR ALONSO, MANUEL",
+    "MOYANO NAVARRO, PABLO",
+    "MARTIN BECERRA, HECTOR",
+    "NIETO VASCO, VICTOR",
+    "MARTIN LOZA, BRUNO",
+    "BERGAZ MUÑOZ, ALEJANDRO",
+    "POZO GARCÍA, MARCO",
+    "REJAS SANZ, BRUNO",
+    "SANTOS MORAS, ANDY",
+    "DUQUE HERNÁNDEZ, SERGIO",
+    "CHICO MAESTRE, MARIO",
+    "SANTOS GABARRE, VICTOR MANUEL",
+    "GARCIA DE CASTRO, JAIME",
+    "CALLE SANZ, ALEJANDRO",
+    "ANDERSON DEL VALLE, IZAN"
+  ],
+  "jugadores_visitante": [
+    "PEREZ ACEBES, TELLO",
+    "GORDALIZA GONZALEZ, LORIS",
+    "RODRIGUEZ BALBAS, MIGUEL",
+    "RODRIGUEZ MAESTRO, SERGIO",
+    "CARBAJOSA TORIBIO, ISRAEL",
+    "MEDIAVILLA CALLEJA, MARTIN",
+    "MENDEZ MIGUEL, LEO",
+    "ALVAREZ RUIZ, JOSE MARIA",
+    "RODRIGUEZ ALONSO, DANIEL",
+    "MENDEZ MIGUEL, GONZALO",
+    "GONZÁLEZ CASTRO, SANTIAGO",
+    "TOME PEREZ, ALEJANDRO",
+    "MONTERO CONDE, DANIEL",
+    "SENDINO CORTES, NICOLAS",
+    "GAI, SAIHOU OMAR",
+    "CAMPOS DUQUE, MATHIAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 32,
+      "entra": "CHICO MAESTRE, MARIO",
+      "sale": "MOYANO NAVARRO, PABLO"
+    },
+    {
+      "min": 41,
+      "entra": "SANTOS GABARRE, VICTOR MANUEL",
+      "sale": "NIETO VASCO, VICTOR"
+    },
+    {
+      "min": 52,
+      "entra": "GARCIA DE CASTRO, JAIME",
+      "sale": "DE ISCAR ALONSO, MANUEL"
+    },
+    {
+      "min": 63,
+      "entra": "CALLE SANZ, ALEJANDRO",
+      "sale": "BERGAZ MUÑOZ, ALEJANDRO"
+    },
+    {
+      "min": 63,
+      "entra": "ANDERSON DEL VALLE, IZAN",
+      "sale": "MARTIN BECERRA, HECTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 48,
+      "entra": "TOME PEREZ, ALEJANDRO",
+      "sale": "MENDEZ MIGUEL, GONZALO"
+    },
+    {
+      "min": 48,
+      "entra": "MONTERO CONDE, DANIEL",
+      "sale": "GONZÁLEZ CASTRO, SANTIAGO"
+    },
+    {
+      "min": 50,
+      "entra": "SENDINO CORTES, NICOLAS",
+      "sale": "RODRIGUEZ MAESTRO, SERGIO"
+    },
+    {
+      "min": 50,
+      "entra": "GAI, SAIHOU OMAR",
+      "sale": "MEDIAVILLA CALLEJA, MARTIN"
+    },
+    {
+      "min": 50,
+      "entra": "CAMPOS DUQUE, MATHIAS",
+      "sale": "RODRIGUEZ BALBAS, MIGUEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "VILLEGAS HERNANDEZ, HUGO": 90,
+    "DE ISCAR ALONSO, MANUEL": 52,
+    "MOYANO NAVARRO, PABLO": 32,
+    "MARTIN BECERRA, HECTOR": 63,
+    "NIETO VASCO, VICTOR": 41,
+    "MARTIN LOZA, BRUNO": 90,
+    "BERGAZ MUÑOZ, ALEJANDRO": 63,
+    "POZO GARCÍA, MARCO": 90,
+    "REJAS SANZ, BRUNO": 90,
+    "SANTOS MORAS, ANDY": 90,
+    "DUQUE HERNÁNDEZ, SERGIO": 90,
+    "CHICO MAESTRE, MARIO": 58,
+    "SANTOS GABARRE, VICTOR MANUEL": 49,
+    "GARCIA DE CASTRO, JAIME": 38,
+    "CALLE SANZ, ALEJANDRO": 27,
+    "ANDERSON DEL VALLE, IZAN": 27,
+    "PEREZ ACEBES, TELLO": 90,
+    "GORDALIZA GONZALEZ, LORIS": 90,
+    "RODRIGUEZ BALBAS, MIGUEL": 50,
+    "RODRIGUEZ MAESTRO, SERGIO": 50,
+    "CARBAJOSA TORIBIO, ISRAEL": 90,
+    "MEDIAVILLA CALLEJA, MARTIN": 50,
+    "MENDEZ MIGUEL, LEO": 90,
+    "ALVAREZ RUIZ, JOSE MARIA": 90,
+    "RODRIGUEZ ALONSO, DANIEL": 90,
+    "MENDEZ MIGUEL, GONZALO": 48,
+    "GONZÁLEZ CASTRO, SANTIAGO": 48,
+    "TOME PEREZ, ALEJANDRO": 42,
+    "MONTERO CONDE, DANIEL": 42,
+    "SENDINO CORTES, NICOLAS": 40,
+    "GAI, SAIHOU OMAR": 40,
+    "CAMPOS DUQUE, MATHIAS": 40
+  },
+  "portero_local": "VILLEGAS HERNANDEZ, HUGO",
+  "portero_visitante": "PEREZ ACEBES, TELLO",
+  "dorsales_local": {
+    "VILLEGAS HERNANDEZ, HUGO": 13,
+    "DE ISCAR ALONSO, MANUEL": 3,
+    "MOYANO NAVARRO, PABLO": 4,
+    "MARTIN BECERRA, HECTOR": 5,
+    "NIETO VASCO, VICTOR": 6,
+    "MARTIN LOZA, BRUNO": 8,
+    "BERGAZ MUÑOZ, ALEJANDRO": 12,
+    "POZO GARCÍA, MARCO": 14,
+    "REJAS SANZ, BRUNO": 15,
+    "SANTOS MORAS, ANDY": 17,
+    "DUQUE HERNÁNDEZ, SERGIO": 24
+  },
+  "dorsales_visitante": {
+    "PEREZ ACEBES, TELLO": 1,
+    "GORDALIZA GONZALEZ, LORIS": 2,
+    "RODRIGUEZ BALBAS, MIGUEL": 3,
+    "RODRIGUEZ MAESTRO, SERGIO": 4,
+    "CARBAJOSA TORIBIO, ISRAEL": 5,
+    "MEDIAVILLA CALLEJA, MARTIN": 6,
+    "MENDEZ MIGUEL, LEO": 7,
+    "ALVAREZ RUIZ, JOSE MARIA": 8,
+    "RODRIGUEZ ALONSO, DANIEL": 9,
+    "MENDEZ MIGUEL, GONZALO": 10,
+    "GONZÁLEZ CASTRO, SANTIAGO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
