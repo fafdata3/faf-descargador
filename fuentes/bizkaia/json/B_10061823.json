@@ -1,0 +1,245 @@
+{
+  "acta_id": "B_10061823",
+  "filename": "Acta_B_10061823.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "10-10-2026",
+  "hora": "15:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "MORAZA A",
+  "equipo_visitante": "ERMUA A",
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "CACHÓN LAFUENTE, RUBEN"
+  ],
+  "estadio": "ARTXANDA",
+  "ciudad": "Bilbao",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "ALDASORO CADIÑANOS, MARTIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "AGUIRRE ARRARTE, GAIZKA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "TASCON HERMIDA, ANDONI",
+  "entrenador_visitante": "MADUEÑO GONZALEZ, IVAN",
+  "segundo_entrenador_local": "HERMIDA DEL BLANCO, DAVID",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BOVEDA SAINZ DE ROZAS, MIKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BOVEDA SAINZ DE ROZAS, MIKEL",
+  "delegado_equipo_visitante": "GARCIA PEREZ, RUBEN",
+  "titulares_local": [
+    "DOMINGUEZ ORIVE, XABIER",
+    "MARINO ALCALA, ASIER",
+    "GABILONDO BASURCO, ENEKO",
+    "SARAIVA LANDIM, TIAGO",
+    "FERNANDEZ DE LA HERA, JON",
+    "CASTAÑO SAN JUANES, ARITZ",
+    "UGARTE CARCOBA, IBAI",
+    "ALDASORO CADIÑANOS, MARTIN",
+    "GARCIA VALLEJO, JON",
+    "SANCHEZ PARDO, JON",
+    "JIMENEZ ASTORQUI, ANDER"
+  ],
+  "titulares_visitante": [
+    "RUIZ CRUZ, DANIEL",
+    "SANTIAGO GOMEZ, JULEN",
+    "GÓMEZ GALLEGO, IBAI",
+    "LEONARDO GARCÍA, DANEL",
+    "IBAÑEZ FERNANDEZ, KENAI",
+    "ALVAREZ MOLINA, ERIK",
+    "RODRIGUEZ SALDARRIAGA, MIGUEL ANGEL",
+    "CID RUIZ, ANER",
+    "AYERBE ASTOLA, OIER",
+    "ALVAREZ ALVAREZ, PAUL",
+    "MURUA URKIZU, URKO"
+  ],
+  "suplentes_local": [
+    "ALONSO IZCARA, UNAI",
+    "AJILA YAGUANA, JAVIER ALEJANDRO",
+    "OCHANDIANO ALVAREZ, KOLDO",
+    "SOLAS SANTOS, LUKA",
+    "IBARRONDO REMENTERIA, ENEKO",
+    "DIEZ DOÑA, MIKEL",
+    "ETXEBERRIA PARDO, LANDER"
+  ],
+  "suplentes_visitante": [
+    "ABOU, YASSINE",
+    "GARABAL GARCIA, GALDER",
+    "PEIXOTO GARCÍA, ADUR",
+    "ALONSO ALONSO, MIKEL",
+    "AGUIRRE ARRARTE, GAIZKA",
+    "BAMBA TRAORE, YAYA ADAMA",
+    "CORDÓN QUINTAS, HUGO"
+  ],
+  "convocados_sin_jugar_local": [
+    "ALONSO IZCARA, UNAI",
+    "DIEZ DOÑA, MIKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ABOU, YASSINE",
+    "GARABAL GARCIA, GALDER",
+    "ALONSO ALONSO, MIKEL"
+  ],
+  "jugadores_local": [
+    "DOMINGUEZ ORIVE, XABIER",
+    "MARINO ALCALA, ASIER",
+    "GABILONDO BASURCO, ENEKO",
+    "SARAIVA LANDIM, TIAGO",
+    "FERNANDEZ DE LA HERA, JON",
+    "CASTAÑO SAN JUANES, ARITZ",
+    "UGARTE CARCOBA, IBAI",
+    "ALDASORO CADIÑANOS, MARTIN",
+    "GARCIA VALLEJO, JON",
+    "SANCHEZ PARDO, JON",
+    "JIMENEZ ASTORQUI, ANDER",
+    "OCHANDIANO ALVAREZ, KOLDO",
+    "IBARRONDO REMENTERIA, ENEKO",
+    "ETXEBERRIA PARDO, LANDER",
+    "SOLAS SANTOS, LUKA",
+    "AJILA YAGUANA, JAVIER ALEJANDRO"
+  ],
+  "jugadores_visitante": [
+    "RUIZ CRUZ, DANIEL",
+    "SANTIAGO GOMEZ, JULEN",
+    "GÓMEZ GALLEGO, IBAI",
+    "LEONARDO GARCÍA, DANEL",
+    "IBAÑEZ FERNANDEZ, KENAI",
+    "ALVAREZ MOLINA, ERIK",
+    "RODRIGUEZ SALDARRIAGA, MIGUEL ANGEL",
+    "CID RUIZ, ANER",
+    "AYERBE ASTOLA, OIER",
+    "ALVAREZ ALVAREZ, PAUL",
+    "MURUA URKIZU, URKO",
+    "BAMBA TRAORE, YAYA ADAMA",
+    "CORDÓN QUINTAS, HUGO",
+    "PEIXOTO GARCÍA, ADUR",
+    "AGUIRRE ARRARTE, GAIZKA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "OCHANDIANO ALVAREZ, KOLDO",
+      "sale": "MARINO ALCALA, ASIER"
+    },
+    {
+      "min": 64,
+      "entra": "IBARRONDO REMENTERIA, ENEKO",
+      "sale": "FERNANDEZ DE LA HERA, JON"
+    },
+    {
+      "min": 64,
+      "entra": "ETXEBERRIA PARDO, LANDER",
+      "sale": "JIMENEZ ASTORQUI, ANDER"
+    },
+    {
+      "min": 73,
+      "entra": "SOLAS SANTOS, LUKA",
+      "sale": "SARAIVA LANDIM, TIAGO"
+    },
+    {
+      "min": 73,
+      "entra": "AJILA YAGUANA, JAVIER ALEJANDRO",
+      "sale": "GARCIA VALLEJO, JON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 64,
+      "entra": "BAMBA TRAORE, YAYA ADAMA",
+      "sale": "RODRIGUEZ SALDARRIAGA, MIGUEL ANGEL"
+    },
+    {
+      "min": 73,
+      "entra": "CORDÓN QUINTAS, HUGO",
+      "sale": "LEONARDO GARCÍA, DANEL"
+    },
+    {
+      "min": 73,
+      "entra": "PEIXOTO GARCÍA, ADUR",
+      "sale": "IBAÑEZ FERNANDEZ, KENAI"
+    },
+    {
+      "min": 77,
+      "entra": "AGUIRRE ARRARTE, GAIZKA",
+      "sale": "ALVAREZ ALVAREZ, PAUL"
+    }
+  ],
+  "minutos_jugadores": {
+    "DOMINGUEZ ORIVE, XABIER": 90,
+    "MARINO ALCALA, ASIER": 53,
+    "GABILONDO BASURCO, ENEKO": 90,
+    "SARAIVA LANDIM, TIAGO": 73,
+    "FERNANDEZ DE LA HERA, JON": 64,
+    "CASTAÑO SAN JUANES, ARITZ": 90,
+    "UGARTE CARCOBA, IBAI": 90,
+    "ALDASORO CADIÑANOS, MARTIN": 90,
+    "GARCIA VALLEJO, JON": 73,
+    "SANCHEZ PARDO, JON": 90,
+    "JIMENEZ ASTORQUI, ANDER": 64,
+    "OCHANDIANO ALVAREZ, KOLDO": 37,
+    "IBARRONDO REMENTERIA, ENEKO": 26,
+    "ETXEBERRIA PARDO, LANDER": 26,
+    "SOLAS SANTOS, LUKA": 17,
+    "AJILA YAGUANA, JAVIER ALEJANDRO": 17,
+    "RUIZ CRUZ, DANIEL": 90,
+    "SANTIAGO GOMEZ, JULEN": 90,
+    "GÓMEZ GALLEGO, IBAI": 90,
+    "LEONARDO GARCÍA, DANEL": 73,
+    "IBAÑEZ FERNANDEZ, KENAI": 73,
+    "ALVAREZ MOLINA, ERIK": 90,
+    "RODRIGUEZ SALDARRIAGA, MIGUEL ANGEL": 64,
+    "CID RUIZ, ANER": 90,
+    "AYERBE ASTOLA, OIER": 90,
+    "ALVAREZ ALVAREZ, PAUL": 77,
+    "MURUA URKIZU, URKO": 90,
+    "BAMBA TRAORE, YAYA ADAMA": 26,
+    "CORDÓN QUINTAS, HUGO": 17,
+    "PEIXOTO GARCÍA, ADUR": 17,
+    "AGUIRRE ARRARTE, GAIZKA": 13
+  },
+  "portero_local": "DOMINGUEZ ORIVE, XABIER",
+  "portero_visitante": "RUIZ CRUZ, DANIEL",
+  "dorsales_local": {
+    "DOMINGUEZ ORIVE, XABIER": 1,
+    "MARINO ALCALA, ASIER": 2,
+    "GABILONDO BASURCO, ENEKO": 4,
+    "SARAIVA LANDIM, TIAGO": 7,
+    "FERNANDEZ DE LA HERA, JON": 8,
+    "CASTAÑO SAN JUANES, ARITZ": 9,
+    "UGARTE CARCOBA, IBAI": 10,
+    "ALDASORO CADIÑANOS, MARTIN": 11,
+    "GARCIA VALLEJO, JON": 16,
+    "SANCHEZ PARDO, JON": 17,
+    "JIMENEZ ASTORQUI, ANDER": 20
+  },
+  "dorsales_visitante": {
+    "RUIZ CRUZ, DANIEL": 25,
+    "SANTIAGO GOMEZ, JULEN": 3,
+    "GÓMEZ GALLEGO, IBAI": 4,
+    "LEONARDO GARCÍA, DANEL": 6,
+    "IBAÑEZ FERNANDEZ, KENAI": 8,
+    "ALVAREZ MOLINA, ERIK": 10,
+    "RODRIGUEZ SALDARRIAGA, MIGUEL ANGEL": 11,
+    "CID RUIZ, ANER": 16,
+    "AYERBE ASTOLA, OIER": 18,
+    "ALVAREZ ALVAREZ, PAUL": 19,
+    "MURUA URKIZU, URKO": 21
+  },
+  "suspendidos": []
+}
