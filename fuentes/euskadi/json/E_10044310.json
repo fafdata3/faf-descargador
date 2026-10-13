@@ -1,0 +1,249 @@
+{
+  "acta_id": "E_10044310",
+  "filename": "Acta_E_10044310.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "11-10-2026",
+  "hora": "11:15",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "ARRUPE CHAMINADE C.D.D.F.",
+  "equipo_visitante": "SAN IGNACIO C.D. A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "LÓPEZ ALDAY, NICOLÁS"
+  ],
+  "estadio": "FÉLIX GARÍN",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 79,
+      "jugador": "LOPEZ VILLANUEVA, LUKEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 83,
+      "jugador": "RUIZ CASTILLO, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "GAZTAÑAGA RODRIGUEZ, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 28,
+      "jugador": "ROMAO MORAN, JEIKO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "IRIONDO CORTABARRIA, ALEXANDER",
+  "entrenador_visitante": "ALVAREZ DOVAL, AIMAR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BENGOETXEA INTXAURTIETA, MARTIN",
+  "delegado_equipo_visitante": "GONZALEZ ORTIZ DE URBINA, IBAI",
+  "titulares_local": [
+    "SOTO VAAMONDE, FERNANDO",
+    "GAZTAÑAGA RODRIGUEZ, UNAI",
+    "AYESTARAN TERRILL, JOHN MICHAEL",
+    "BARRADO PLAZAOLA, EDER",
+    "CUYAMI GAIZTARRO, IGNACIO",
+    "VARGAS VALDEZ, JUAN DIEGO",
+    "RODRIGUEZ IGLESIAS, KEITA",
+    "MARTIN USABIAGA, IGNACIO",
+    "MARTIN DELGADO, ADRIAN",
+    "ZINKUNEGI ETXEBERRIA, MARTXEL",
+    "VALCARCE BENEGAS, LUIS AMADEO"
+  ],
+  "titulares_visitante": [
+    "GRANDE DOMAICA, MARKEL",
+    "EL FARIATI TALSI, YOUSSEF",
+    "RUIZ CASTILLO, MARKEL",
+    "MERCHAN RUIZ, JULEN",
+    "RIFON GONZALEZ DE VIÑASPRE, JULEN",
+    "JIMENEZ MANZANARES, JUAN",
+    "SANCHEZ CAMIÑAS, ALEX",
+    "CAREAGA DURANA, UNAX",
+    "ARAUS SANCHEZ, EDER",
+    "ROMAO MORAN, JEIKO",
+    "SARMIENTO SAN ROMAN, ADAY"
+  ],
+  "suplentes_local": [
+    "YUBERO RUIZ DE MUNAIN, PABLO",
+    "ARREGUI ZARATE, JULEN",
+    "MANSOA ANTIA, TELMO",
+    "LOPEZ VILLANUEVA, LUKEN",
+    "CARO SAENZ, MATEO",
+    "CASTAÑOS KUTZ, TIRSO",
+    "CRESPO GRAÑA, ANDER"
+  ],
+  "suplentes_visitante": [
+    "GINES RODRIGUEZ, IKER",
+    "CORRAL MATEOS, HUGO",
+    "GARCIA OCA, ARITZ",
+    "CORDERO PORRAS, OSMAR ANDREY",
+    "NOZAL POZA, MATEO",
+    "AVILA VIVAS, SANTIAGO",
+    "WAHBI BOUMI, RAYAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "YUBERO RUIZ DE MUNAIN, PABLO",
+    "ARREGUI ZARATE, JULEN",
+    "MANSOA ANTIA, TELMO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GINES RODRIGUEZ, IKER",
+    "CORRAL MATEOS, HUGO",
+    "GARCIA OCA, ARITZ",
+    "AVILA VIVAS, SANTIAGO"
+  ],
+  "jugadores_local": [
+    "SOTO VAAMONDE, FERNANDO",
+    "GAZTAÑAGA RODRIGUEZ, UNAI",
+    "AYESTARAN TERRILL, JOHN MICHAEL",
+    "BARRADO PLAZAOLA, EDER",
+    "CUYAMI GAIZTARRO, IGNACIO",
+    "VARGAS VALDEZ, JUAN DIEGO",
+    "RODRIGUEZ IGLESIAS, KEITA",
+    "MARTIN USABIAGA, IGNACIO",
+    "MARTIN DELGADO, ADRIAN",
+    "ZINKUNEGI ETXEBERRIA, MARTXEL",
+    "VALCARCE BENEGAS, LUIS AMADEO",
+    "LOPEZ VILLANUEVA, LUKEN",
+    "CASTAÑOS KUTZ, TIRSO",
+    "CARO SAENZ, MATEO",
+    "CRESPO GRAÑA, ANDER"
+  ],
+  "jugadores_visitante": [
+    "GRANDE DOMAICA, MARKEL",
+    "EL FARIATI TALSI, YOUSSEF",
+    "RUIZ CASTILLO, MARKEL",
+    "MERCHAN RUIZ, JULEN",
+    "RIFON GONZALEZ DE VIÑASPRE, JULEN",
+    "JIMENEZ MANZANARES, JUAN",
+    "SANCHEZ CAMIÑAS, ALEX",
+    "CAREAGA DURANA, UNAX",
+    "ARAUS SANCHEZ, EDER",
+    "ROMAO MORAN, JEIKO",
+    "SARMIENTO SAN ROMAN, ADAY",
+    "CORDERO PORRAS, OSMAR ANDREY",
+    "NOZAL POZA, MATEO",
+    "WAHBI BOUMI, RAYAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "LOPEZ VILLANUEVA, LUKEN",
+      "sale": "RODRIGUEZ IGLESIAS, KEITA"
+    },
+    {
+      "min": 58,
+      "entra": "CASTAÑOS KUTZ, TIRSO",
+      "sale": "MARTIN DELGADO, ADRIAN"
+    },
+    {
+      "min": 63,
+      "entra": "CARO SAENZ, MATEO",
+      "sale": "VALCARCE BENEGAS, LUIS AMADEO"
+    },
+    {
+      "min": 67,
+      "entra": "CRESPO GRAÑA, ANDER",
+      "sale": "MARTIN USABIAGA, IGNACIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "CORDERO PORRAS, OSMAR ANDREY",
+      "sale": "ROMAO MORAN, JEIKO"
+    },
+    {
+      "min": 41,
+      "entra": "NOZAL POZA, MATEO",
+      "sale": "JIMENEZ MANZANARES, JUAN"
+    },
+    {
+      "min": 56,
+      "entra": "WAHBI BOUMI, RAYAN",
+      "sale": "CAREAGA DURANA, UNAX"
+    }
+  ],
+  "minutos_jugadores": {
+    "SOTO VAAMONDE, FERNANDO": 90,
+    "GAZTAÑAGA RODRIGUEZ, UNAI": 90,
+    "AYESTARAN TERRILL, JOHN MICHAEL": 90,
+    "BARRADO PLAZAOLA, EDER": 90,
+    "CUYAMI GAIZTARRO, IGNACIO": 90,
+    "VARGAS VALDEZ, JUAN DIEGO": 90,
+    "RODRIGUEZ IGLESIAS, KEITA": 58,
+    "MARTIN USABIAGA, IGNACIO": 67,
+    "MARTIN DELGADO, ADRIAN": 58,
+    "ZINKUNEGI ETXEBERRIA, MARTXEL": 90,
+    "VALCARCE BENEGAS, LUIS AMADEO": 63,
+    "LOPEZ VILLANUEVA, LUKEN": 32,
+    "CASTAÑOS KUTZ, TIRSO": 32,
+    "CARO SAENZ, MATEO": 27,
+    "CRESPO GRAÑA, ANDER": 23,
+    "GRANDE DOMAICA, MARKEL": 90,
+    "EL FARIATI TALSI, YOUSSEF": 90,
+    "RUIZ CASTILLO, MARKEL": 90,
+    "MERCHAN RUIZ, JULEN": 90,
+    "RIFON GONZALEZ DE VIÑASPRE, JULEN": 90,
+    "JIMENEZ MANZANARES, JUAN": 41,
+    "SANCHEZ CAMIÑAS, ALEX": 90,
+    "CAREAGA DURANA, UNAX": 56,
+    "ARAUS SANCHEZ, EDER": 90,
+    "ROMAO MORAN, JEIKO": 41,
+    "SARMIENTO SAN ROMAN, ADAY": 90,
+    "CORDERO PORRAS, OSMAR ANDREY": 49,
+    "NOZAL POZA, MATEO": 49,
+    "WAHBI BOUMI, RAYAN": 34
+  },
+  "portero_local": "SOTO VAAMONDE, FERNANDO",
+  "portero_visitante": "GRANDE DOMAICA, MARKEL",
+  "dorsales_local": {
+    "SOTO VAAMONDE, FERNANDO": 1,
+    "GAZTAÑAGA RODRIGUEZ, UNAI": 2,
+    "AYESTARAN TERRILL, JOHN MICHAEL": 3,
+    "BARRADO PLAZAOLA, EDER": 6,
+    "CUYAMI GAIZTARRO, IGNACIO": 7,
+    "VARGAS VALDEZ, JUAN DIEGO": 8,
+    "RODRIGUEZ IGLESIAS, KEITA": 15,
+    "MARTIN USABIAGA, IGNACIO": 19,
+    "MARTIN DELGADO, ADRIAN": 20,
+    "ZINKUNEGI ETXEBERRIA, MARTXEL": 22,
+    "VALCARCE BENEGAS, LUIS AMADEO": 24
+  },
+  "dorsales_visitante": {
+    "GRANDE DOMAICA, MARKEL": 13,
+    "EL FARIATI TALSI, YOUSSEF": 2,
+    "RUIZ CASTILLO, MARKEL": 4,
+    "MERCHAN RUIZ, JULEN": 5,
+    "RIFON GONZALEZ DE VIÑASPRE, JULEN": 8,
+    "JIMENEZ MANZANARES, JUAN": 10,
+    "SANCHEZ CAMIÑAS, ALEX": 12,
+    "CAREAGA DURANA, UNAX": 14,
+    "ARAUS SANCHEZ, EDER": 15,
+    "ROMAO MORAN, JEIKO": 18,
+    "SARMIENTO SAN ROMAN, ADAY": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
