@@ -1,0 +1,236 @@
+{
+  "acta_id": "C_240301",
+  "filename": "Acta_C_240301.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "04-10-2026",
+  "hora": "10:30",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "U.D. SAMANO A",
+  "equipo_visitante": "C.D. CALASANZ A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "DE LA FUENTE RAMIREZ, JAVIER"
+  ],
+  "estadio": "Sámano",
+  "ciudad": "Castro-Urdiales",
+  "goleadores": [
+    {
+      "minuto": 69,
+      "jugador": "BELLO MARTINEZ, DAVID SAMUEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "ALONSO FUENTE, IÑIGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 43,
+      "jugador": "AROZAMENA VILLATE, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "PLAZA GARCIA, GABRIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "DIEGO BOCOS, ALVARO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "PEREZ MUNGUIA, DANIEL",
+  "delegado_campo_local": "GARMENDIA OLABARRIA, ANDER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALTUNA TUEROS, MARCOS",
+  "delegado_equipo_visitante": "PALLÁS DE MIER, DANIEL",
+  "titulares_local": [
+    "COSIO GUTIERREZ, FIDEL",
+    "MORO LOPEZ, PEIO",
+    "HERNANDEZ BRAGADO, DIEGO",
+    "PLAZA GARCIA, GABRIEL",
+    "FERNANDEZ MUÑECAS, HUGO",
+    "JURADO GARCIA, JON",
+    "LLONA LORENTE, ERIK",
+    "AROZAMENA VILLATE, NICOLAS",
+    "LOPEZ GONZALEZ, ARITZ",
+    "LIS PARDO, ROI",
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO"
+  ],
+  "titulares_visitante": [
+    "POMBO GONZALEZ, JACOBO",
+    "BELLO MARTINEZ, DAVID SAMUEL",
+    "GONZALEZ PEREZ, DIEGO",
+    "MARTINEZ SARACHAGA, LUCAS",
+    "FEBRERO DOSAL, DANIEL",
+    "SOBERON GARCIA, DIEGO",
+    "PEÑA MARTIN, MARCO",
+    "VIGUERA GARCIA, GUILLERMO",
+    "CERUTI SANCHEZ, JUAN",
+    "BRUÑA GALLO, JUAN",
+    "VIADERO CAHVES, GUILLERMO"
+  ],
+  "suplentes_local": [
+    "GOMEZ LIAÑO, DIEGO",
+    "GIL ASTILLEROS, ANGEL",
+    "GARCIA ZUBIAUR, MARKEL",
+    "FRANGU, SEBASTIAN IONUT",
+    "TERRON MIRANDA, IGNACIO"
+  ],
+  "suplentes_visitante": [
+    "ALONSO FUENTE, IÑIGO",
+    "FERRERAS CARRILLO DE ALBORNOZ, JUAN",
+    "QUIROGA GOMEZ, DARIO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GIL ASTILLEROS, ANGEL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "COSIO GUTIERREZ, FIDEL",
+    "MORO LOPEZ, PEIO",
+    "HERNANDEZ BRAGADO, DIEGO",
+    "PLAZA GARCIA, GABRIEL",
+    "FERNANDEZ MUÑECAS, HUGO",
+    "JURADO GARCIA, JON",
+    "LLONA LORENTE, ERIK",
+    "AROZAMENA VILLATE, NICOLAS",
+    "LOPEZ GONZALEZ, ARITZ",
+    "LIS PARDO, ROI",
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO",
+    "GOMEZ LIAÑO, DIEGO",
+    "FRANGU, SEBASTIAN IONUT",
+    "TERRON MIRANDA, IGNACIO",
+    "GARCIA ZUBIAUR, MARKEL"
+  ],
+  "jugadores_visitante": [
+    "POMBO GONZALEZ, JACOBO",
+    "BELLO MARTINEZ, DAVID SAMUEL",
+    "GONZALEZ PEREZ, DIEGO",
+    "MARTINEZ SARACHAGA, LUCAS",
+    "FEBRERO DOSAL, DANIEL",
+    "SOBERON GARCIA, DIEGO",
+    "PEÑA MARTIN, MARCO",
+    "VIGUERA GARCIA, GUILLERMO",
+    "CERUTI SANCHEZ, JUAN",
+    "BRUÑA GALLO, JUAN",
+    "VIADERO CAHVES, GUILLERMO",
+    "ALONSO FUENTE, IÑIGO",
+    "FERRERAS CARRILLO DE ALBORNOZ, JUAN",
+    "QUIROGA GOMEZ, DARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "GOMEZ LIAÑO, DIEGO",
+      "sale": "LLONA LORENTE, ERIK"
+    },
+    {
+      "min": 53,
+      "entra": "FRANGU, SEBASTIAN IONUT",
+      "sale": "AROZAMENA VILLATE, NICOLAS"
+    },
+    {
+      "min": 64,
+      "entra": "TERRON MIRANDA, IGNACIO",
+      "sale": "LIS PARDO, ROI"
+    },
+    {
+      "min": 71,
+      "entra": "GARCIA ZUBIAUR, MARKEL",
+      "sale": "LOPEZ GONZALEZ, ARITZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 21,
+      "entra": "ALONSO FUENTE, IÑIGO",
+      "sale": "FEBRERO DOSAL, DANIEL"
+    },
+    {
+      "min": 59,
+      "entra": "FERRERAS CARRILLO DE ALBORNOZ, JUAN",
+      "sale": "VIADERO CAHVES, GUILLERMO"
+    },
+    {
+      "min": 70,
+      "entra": "QUIROGA GOMEZ, DARIO",
+      "sale": "CERUTI SANCHEZ, JUAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "COSIO GUTIERREZ, FIDEL": 90,
+    "MORO LOPEZ, PEIO": 90,
+    "HERNANDEZ BRAGADO, DIEGO": 90,
+    "PLAZA GARCIA, GABRIEL": 90,
+    "FERNANDEZ MUÑECAS, HUGO": 90,
+    "JURADO GARCIA, JON": 90,
+    "LLONA LORENTE, ERIK": 53,
+    "AROZAMENA VILLATE, NICOLAS": 53,
+    "LOPEZ GONZALEZ, ARITZ": 71,
+    "LIS PARDO, ROI": 64,
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO": 90,
+    "GOMEZ LIAÑO, DIEGO": 37,
+    "FRANGU, SEBASTIAN IONUT": 37,
+    "TERRON MIRANDA, IGNACIO": 26,
+    "GARCIA ZUBIAUR, MARKEL": 19,
+    "POMBO GONZALEZ, JACOBO": 90,
+    "BELLO MARTINEZ, DAVID SAMUEL": 90,
+    "GONZALEZ PEREZ, DIEGO": 90,
+    "MARTINEZ SARACHAGA, LUCAS": 90,
+    "FEBRERO DOSAL, DANIEL": 21,
+    "SOBERON GARCIA, DIEGO": 90,
+    "PEÑA MARTIN, MARCO": 90,
+    "VIGUERA GARCIA, GUILLERMO": 90,
+    "CERUTI SANCHEZ, JUAN": 70,
+    "BRUÑA GALLO, JUAN": 90,
+    "VIADERO CAHVES, GUILLERMO": 59,
+    "ALONSO FUENTE, IÑIGO": 69,
+    "FERRERAS CARRILLO DE ALBORNOZ, JUAN": 31,
+    "QUIROGA GOMEZ, DARIO": 20
+  },
+  "portero_local": "COSIO GUTIERREZ, FIDEL",
+  "portero_visitante": "POMBO GONZALEZ, JACOBO",
+  "dorsales_local": {
+    "COSIO GUTIERREZ, FIDEL": 13,
+    "MORO LOPEZ, PEIO": 4,
+    "HERNANDEZ BRAGADO, DIEGO": 5,
+    "PLAZA GARCIA, GABRIEL": 6,
+    "FERNANDEZ MUÑECAS, HUGO": 7,
+    "JURADO GARCIA, JON": 9,
+    "LLONA LORENTE, ERIK": 11,
+    "AROZAMENA VILLATE, NICOLAS": 15,
+    "LOPEZ GONZALEZ, ARITZ": 16,
+    "LIS PARDO, ROI": 17,
+    "MEDINABEITIA GUTIERREZ-BARQUIN, DARIO": 25
+  },
+  "dorsales_visitante": {
+    "POMBO GONZALEZ, JACOBO": 1,
+    "BELLO MARTINEZ, DAVID SAMUEL": 2,
+    "GONZALEZ PEREZ, DIEGO": 3,
+    "MARTINEZ SARACHAGA, LUCAS": 4,
+    "FEBRERO DOSAL, DANIEL": 5,
+    "SOBERON GARCIA, DIEGO": 6,
+    "PEÑA MARTIN, MARCO": 7,
+    "VIGUERA GARCIA, GUILLERMO": 8,
+    "CERUTI SANCHEZ, JUAN": 9,
+    "BRUÑA GALLO, JUAN": 10,
+    "VIADERO CAHVES, GUILLERMO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
