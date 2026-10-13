@@ -9,9 +9,9 @@
   "categoria": "Torneo Juvenil Femenino - Fase Final (FASE FINAL)",
   "equipo_local": "REAL SOCIEDAD DE FÚTBOL",
   "equipo_visitante": "SPORT LISBOA E BENFICA",
-  "goles_local": 2,
-  "goles_visitante": 2,
-  "resultado": "D",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
   "arbitros": [
     "ÁRBITRO",
     "SOLLA MONTES, ALVARO",
@@ -42,8 +42,8 @@
     {
       "minuto": 34,
       "jugador": "GONZALEZ SERON, HELENA",
-      "equipo": "local",
-      "propia": false,
+      "equipo": "visitante",
+      "propia": true,
       "penalti": false
     },
     {
@@ -333,5 +333,6 @@
     "DIDELET NERI PEREIRA, BEATRIZ DUARTE": 14,
     "GOMES FERNANDES, CRISTINA": 17
   },
-  "suspendidos": []
+  "suspendidos": [],
+  "_marcador_widget": true
 }
