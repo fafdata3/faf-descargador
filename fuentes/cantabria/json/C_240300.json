@@ -1,0 +1,258 @@
+{
+  "acta_id": "C_240300",
+  "filename": "Acta_C_240300.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "03-10-2026",
+  "hora": "13:00",
+  "categoria": "SEGUNDA CADETE (UNICO)",
+  "equipo_local": "CLUB BANSANDER B",
+  "equipo_visitante": "C.D. AMISTAD SNIACE B",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "RUMENOV MARINOV, KRISTIAN"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 11,
+      "jugador": "FERNANDEZ LOPEZ, RAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "MARCOS PEREDO, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "LOZANO PURAS, ARNAU",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "MARCOS PEREDO, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 73,
+      "jugador": "FERNANDEZ LOPEZ, RAUL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SUAREZ BEDIA, RICARDO",
+  "entrenador_visitante": "PEREZ ENGUITA, FERNANDO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DELGADO FERNANDEZ, ADRIAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DELGADO FERNANDEZ, ADRIAN",
+  "delegado_equipo_visitante": "MARTIN CARO CRUZ, ENRIQUE",
+  "titulares_local": [
+    "REVUELTA FERNÁNDEZ, NECO",
+    "DEL VALLE COBO, MARTIN",
+    "DIEZ CAAMAÑO, JAVIER",
+    "QUINTANA RUIZ, ANGEL",
+    "SAINZ MARCHANTE, DANIEL",
+    "FERNANDEZ LOPEZ, RAUL",
+    "FOMPEROSA GARCÍA, LEO",
+    "GONZALEZ BOLLAIN, NICOLAS",
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO",
+    "MARCOS PEREDO, MARIO",
+    "LOZANO PURAS, ARNAU"
+  ],
+  "titulares_visitante": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAMPEDRO GUTIERREZ, LEO",
+    "DIESTRO PEREZ, MARIO",
+    "PERNIA FERNANDEZ, IVAN",
+    "SASIAN PEREZ, DIEGO",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "FUNARIU, DAVID IULIAN",
+    "GUTIERREZ MARTINEZ, MANUEL",
+    "ANDRES GARCIA, CARLOS",
+    "POLANCO RUIZ, MARCOS"
+  ],
+  "suplentes_local": [
+    "GIL MEDINA, ALEJANDRO",
+    "FERNANDEZ GUTIERREZ, ELOY",
+    "PRADA DE MIGUEL, DARIO",
+    "MAZA CANO, MARTIN",
+    "CORDERO ARAMBURU, SIMON"
+  ],
+  "suplentes_visitante": [
+    "BLANCO GUTIERREZ, ANDER",
+    "DEL RIO PELLICER, MARCO",
+    "SANTANA ABREU, SAUDI ANTONIO",
+    "IGLESIAS SANTIAGO, JULEN",
+    "GONZALEZ ALVAREZ, PEDRO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GIL MEDINA, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "REVUELTA FERNÁNDEZ, NECO",
+    "DEL VALLE COBO, MARTIN",
+    "DIEZ CAAMAÑO, JAVIER",
+    "QUINTANA RUIZ, ANGEL",
+    "SAINZ MARCHANTE, DANIEL",
+    "FERNANDEZ LOPEZ, RAUL",
+    "FOMPEROSA GARCÍA, LEO",
+    "GONZALEZ BOLLAIN, NICOLAS",
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO",
+    "MARCOS PEREDO, MARIO",
+    "LOZANO PURAS, ARNAU",
+    "MAZA CANO, MARTIN",
+    "CORDERO ARAMBURU, SIMON",
+    "PRADA DE MIGUEL, DARIO",
+    "FERNANDEZ GUTIERREZ, ELOY"
+  ],
+  "jugadores_visitante": [
+    "SÁNCHEZ SÁNCHEZ, RAUL",
+    "SAMPEDRO GUTIERREZ, LEO",
+    "DIESTRO PEREZ, MARIO",
+    "PERNIA FERNANDEZ, IVAN",
+    "SASIAN PEREZ, DIEGO",
+    "LOMBILLA FERNANDEZ, HUGO",
+    "DE LA TORRE MARQUEZ, LUCAS",
+    "FUNARIU, DAVID IULIAN",
+    "GUTIERREZ MARTINEZ, MANUEL",
+    "ANDRES GARCIA, CARLOS",
+    "POLANCO RUIZ, MARCOS",
+    "GONZALEZ ALVAREZ, PEDRO",
+    "IGLESIAS SANTIAGO, JULEN",
+    "SANTANA ABREU, SAUDI ANTONIO",
+    "DEL RIO PELLICER, MARCO",
+    "BLANCO GUTIERREZ, ANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "MAZA CANO, MARTIN",
+      "sale": "FOMPEROSA GARCÍA, LEO"
+    },
+    {
+      "min": 59,
+      "entra": "CORDERO ARAMBURU, SIMON",
+      "sale": "GONZALEZ BOLLAIN, NICOLAS"
+    },
+    {
+      "min": 66,
+      "entra": "PRADA DE MIGUEL, DARIO",
+      "sale": "LOZANO PURAS, ARNAU"
+    },
+    {
+      "min": 66,
+      "entra": "FERNANDEZ GUTIERREZ, ELOY",
+      "sale": "GARCIA DE LA RASILLA PALACIOS, SERGIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 20,
+      "entra": "GONZALEZ ALVAREZ, PEDRO",
+      "sale": "PERNIA FERNANDEZ, IVAN"
+    },
+    {
+      "min": 52,
+      "entra": "IGLESIAS SANTIAGO, JULEN",
+      "sale": "POLANCO RUIZ, MARCOS"
+    },
+    {
+      "min": 52,
+      "entra": "SANTANA ABREU, SAUDI ANTONIO",
+      "sale": "DE LA TORRE MARQUEZ, LUCAS"
+    },
+    {
+      "min": 55,
+      "entra": "DEL RIO PELLICER, MARCO",
+      "sale": "DIESTRO PEREZ, MARIO"
+    },
+    {
+      "min": 60,
+      "entra": "BLANCO GUTIERREZ, ANDER",
+      "sale": "SÁNCHEZ SÁNCHEZ, RAUL"
+    }
+  ],
+  "minutos_jugadores": {
+    "REVUELTA FERNÁNDEZ, NECO": 90,
+    "DEL VALLE COBO, MARTIN": 90,
+    "DIEZ CAAMAÑO, JAVIER": 90,
+    "QUINTANA RUIZ, ANGEL": 90,
+    "SAINZ MARCHANTE, DANIEL": 90,
+    "FERNANDEZ LOPEZ, RAUL": 90,
+    "FOMPEROSA GARCÍA, LEO": 53,
+    "GONZALEZ BOLLAIN, NICOLAS": 59,
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO": 66,
+    "MARCOS PEREDO, MARIO": 90,
+    "LOZANO PURAS, ARNAU": 66,
+    "MAZA CANO, MARTIN": 37,
+    "CORDERO ARAMBURU, SIMON": 31,
+    "PRADA DE MIGUEL, DARIO": 24,
+    "FERNANDEZ GUTIERREZ, ELOY": 24,
+    "SÁNCHEZ SÁNCHEZ, RAUL": 60,
+    "SAMPEDRO GUTIERREZ, LEO": 90,
+    "DIESTRO PEREZ, MARIO": 55,
+    "PERNIA FERNANDEZ, IVAN": 20,
+    "SASIAN PEREZ, DIEGO": 90,
+    "LOMBILLA FERNANDEZ, HUGO": 90,
+    "DE LA TORRE MARQUEZ, LUCAS": 52,
+    "FUNARIU, DAVID IULIAN": 90,
+    "GUTIERREZ MARTINEZ, MANUEL": 90,
+    "ANDRES GARCIA, CARLOS": 90,
+    "POLANCO RUIZ, MARCOS": 52,
+    "GONZALEZ ALVAREZ, PEDRO": 70,
+    "IGLESIAS SANTIAGO, JULEN": 38,
+    "SANTANA ABREU, SAUDI ANTONIO": 38,
+    "DEL RIO PELLICER, MARCO": 35,
+    "BLANCO GUTIERREZ, ANDER": 30
+  },
+  "portero_local": "REVUELTA FERNÁNDEZ, NECO",
+  "portero_visitante": "SÁNCHEZ SÁNCHEZ, RAUL",
+  "dorsales_local": {
+    "REVUELTA FERNÁNDEZ, NECO": 13,
+    "DEL VALLE COBO, MARTIN": 2,
+    "DIEZ CAAMAÑO, JAVIER": 3,
+    "QUINTANA RUIZ, ANGEL": 4,
+    "SAINZ MARCHANTE, DANIEL": 6,
+    "FERNANDEZ LOPEZ, RAUL": 10,
+    "FOMPEROSA GARCÍA, LEO": 11,
+    "GONZALEZ BOLLAIN, NICOLAS": 17,
+    "GARCIA DE LA RASILLA PALACIOS, SERGIO": 19,
+    "MARCOS PEREDO, MARIO": 21,
+    "LOZANO PURAS, ARNAU": 22
+  },
+  "dorsales_visitante": {
+    "SÁNCHEZ SÁNCHEZ, RAUL": 13,
+    "SAMPEDRO GUTIERREZ, LEO": 2,
+    "DIESTRO PEREZ, MARIO": 3,
+    "PERNIA FERNANDEZ, IVAN": 5,
+    "SASIAN PEREZ, DIEGO": 6,
+    "LOMBILLA FERNANDEZ, HUGO": 7,
+    "DE LA TORRE MARQUEZ, LUCAS": 9,
+    "FUNARIU, DAVID IULIAN": 14,
+    "GUTIERREZ MARTINEZ, MANUEL": 15,
+    "ANDRES GARCIA, CARLOS": 19,
+    "POLANCO RUIZ, MARCOS": 20
+  },
+  "suspendidos": []
+}
