@@ -1,0 +1,247 @@
+{
+  "acta_id": "B_10061840",
+  "filename": "Acta_B_10061840.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "24-10-2026",
+  "hora": "15:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "MORAZA A",
+  "equipo_visitante": "AURRERA DE ONDARROA",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SASTRE BARANDA, IBAI"
+  ],
+  "estadio": "ARTXANDA",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 42,
+      "jugador": "AGIRRETXEA AJUBITA, IAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "SANCHEZ PARDO, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "SANCHEZ PARDO, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 71,
+      "jugador": "MARQUES CADILHE, ERIK",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "TASCON HERMIDA, ANDONI",
+  "entrenador_visitante": "BADIOLA ARAUKO, JON",
+  "segundo_entrenador_local": "HERMIDA DEL BLANCO, DAVID",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "BOVEDA SAINZ DE ROZAS, MIKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BOVEDA SAINZ DE ROZAS, MIKEL",
+  "delegado_equipo_visitante": "NDECKY, JOE MARCELIN PAUL",
+  "titulares_local": [
+    "EMBUN RIOS, XABIER",
+    "GABILONDO BASURCO, ENEKO",
+    "BLAZQUEZ URIGÜEN, UNAI",
+    "OCHANDIANO ALVAREZ, KOLDO",
+    "SARAIVA LANDIM, TIAGO",
+    "CASTAÑO SAN JUANES, ARITZ",
+    "ALDASORO CADIÑANOS, MARTIN",
+    "IBARRONDO REMENTERIA, ENEKO",
+    "SANCHEZ PARDO, JON",
+    "HERRERO LLORENTE, NICOLAS",
+    "RUBIO PRADO, LUKEN"
+  ],
+  "titulares_visitante": [
+    "IZAGUIRRE ACARREGUI, DANEL",
+    "ANDREU PERNAS, ENEKO",
+    "ARAMBURU AGUIRRE, BEÑAT",
+    "URRUTIA ZUBIKARAI, AITZOL",
+    "DIENG, SALIFOU",
+    "IBARROLA BADIOLA, GARI",
+    "AGIRRETXEA AJUBITA, IAN",
+    "ADRIAN LOURO, UNAI",
+    "ARANBARRI ARANTZAMENDI, ANDER",
+    "ETXEBARRIA TXAKARTEGI, JOKIN",
+    "TXURRUKA AGIRRE, JOEL"
+  ],
+  "suplentes_local": [
+    "DOMINGUEZ ORIVE, XABIER",
+    "MARINO ALCALA, ASIER",
+    "AJILA YAGUANA, JAVIER ALEJANDRO",
+    "UGARTE CARCOBA, IBAI",
+    "DIEZ DOÑA, MIKEL"
+  ],
+  "suplentes_visitante": [
+    "ARANBURU BADIOLA, JON",
+    "HATAB BERBERI, YOUSSEF",
+    "TXURRUKA ETXABURU, ANER",
+    "BOUKAR BELGUARRAB, ELIAS",
+    "MARQUES CADILHE, ERIK"
+  ],
+  "convocados_sin_jugar_local": [
+    "DOMINGUEZ ORIVE, XABIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BOUKAR BELGUARRAB, ELIAS"
+  ],
+  "jugadores_local": [
+    "EMBUN RIOS, XABIER",
+    "GABILONDO BASURCO, ENEKO",
+    "BLAZQUEZ URIGÜEN, UNAI",
+    "OCHANDIANO ALVAREZ, KOLDO",
+    "SARAIVA LANDIM, TIAGO",
+    "CASTAÑO SAN JUANES, ARITZ",
+    "ALDASORO CADIÑANOS, MARTIN",
+    "IBARRONDO REMENTERIA, ENEKO",
+    "SANCHEZ PARDO, JON",
+    "HERRERO LLORENTE, NICOLAS",
+    "RUBIO PRADO, LUKEN",
+    "UGARTE CARCOBA, IBAI",
+    "MARINO ALCALA, ASIER",
+    "AJILA YAGUANA, JAVIER ALEJANDRO",
+    "DIEZ DOÑA, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "IZAGUIRRE ACARREGUI, DANEL",
+    "ANDREU PERNAS, ENEKO",
+    "ARAMBURU AGUIRRE, BEÑAT",
+    "URRUTIA ZUBIKARAI, AITZOL",
+    "DIENG, SALIFOU",
+    "IBARROLA BADIOLA, GARI",
+    "AGIRRETXEA AJUBITA, IAN",
+    "ADRIAN LOURO, UNAI",
+    "ARANBARRI ARANTZAMENDI, ANDER",
+    "ETXEBARRIA TXAKARTEGI, JOKIN",
+    "TXURRUKA AGIRRE, JOEL",
+    "ARANBURU BADIOLA, JON",
+    "MARQUES CADILHE, ERIK",
+    "TXURRUKA ETXABURU, ANER",
+    "HATAB BERBERI, YOUSSEF"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "UGARTE CARCOBA, IBAI",
+      "sale": "GABILONDO BASURCO, ENEKO"
+    },
+    {
+      "min": 55,
+      "entra": "MARINO ALCALA, ASIER",
+      "sale": "IBARRONDO REMENTERIA, ENEKO"
+    },
+    {
+      "min": 60,
+      "entra": "AJILA YAGUANA, JAVIER ALEJANDRO",
+      "sale": "SARAIVA LANDIM, TIAGO"
+    },
+    {
+      "min": 77,
+      "entra": "DIEZ DOÑA, MIKEL",
+      "sale": "AJILA YAGUANA, JAVIER ALEJANDRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "ARANBURU BADIOLA, JON",
+      "sale": "IBARROLA BADIOLA, GARI"
+    },
+    {
+      "min": 41,
+      "entra": "MARQUES CADILHE, ERIK",
+      "sale": "ANDREU PERNAS, ENEKO"
+    },
+    {
+      "min": 57,
+      "entra": "TXURRUKA ETXABURU, ANER",
+      "sale": "TXURRUKA AGIRRE, JOEL"
+    },
+    {
+      "min": 61,
+      "entra": "HATAB BERBERI, YOUSSEF",
+      "sale": "ETXEBARRIA TXAKARTEGI, JOKIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "EMBUN RIOS, XABIER": 90,
+    "GABILONDO BASURCO, ENEKO": 55,
+    "BLAZQUEZ URIGÜEN, UNAI": 90,
+    "OCHANDIANO ALVAREZ, KOLDO": 90,
+    "SARAIVA LANDIM, TIAGO": 60,
+    "CASTAÑO SAN JUANES, ARITZ": 90,
+    "ALDASORO CADIÑANOS, MARTIN": 90,
+    "IBARRONDO REMENTERIA, ENEKO": 55,
+    "SANCHEZ PARDO, JON": 90,
+    "HERRERO LLORENTE, NICOLAS": 90,
+    "RUBIO PRADO, LUKEN": 90,
+    "UGARTE CARCOBA, IBAI": 35,
+    "MARINO ALCALA, ASIER": 35,
+    "AJILA YAGUANA, JAVIER ALEJANDRO": 77,
+    "DIEZ DOÑA, MIKEL": 13,
+    "IZAGUIRRE ACARREGUI, DANEL": 90,
+    "ANDREU PERNAS, ENEKO": 41,
+    "ARAMBURU AGUIRRE, BEÑAT": 90,
+    "URRUTIA ZUBIKARAI, AITZOL": 90,
+    "DIENG, SALIFOU": 90,
+    "IBARROLA BADIOLA, GARI": 35,
+    "AGIRRETXEA AJUBITA, IAN": 90,
+    "ADRIAN LOURO, UNAI": 90,
+    "ARANBARRI ARANTZAMENDI, ANDER": 90,
+    "ETXEBARRIA TXAKARTEGI, JOKIN": 61,
+    "TXURRUKA AGIRRE, JOEL": 57,
+    "ARANBURU BADIOLA, JON": 55,
+    "MARQUES CADILHE, ERIK": 49,
+    "TXURRUKA ETXABURU, ANER": 33,
+    "HATAB BERBERI, YOUSSEF": 29
+  },
+  "portero_local": "EMBUN RIOS, XABIER",
+  "portero_visitante": "IZAGUIRRE ACARREGUI, DANEL",
+  "dorsales_local": {
+    "EMBUN RIOS, XABIER": 13,
+    "GABILONDO BASURCO, ENEKO": 4,
+    "BLAZQUEZ URIGÜEN, UNAI": 5,
+    "OCHANDIANO ALVAREZ, KOLDO": 6,
+    "SARAIVA LANDIM, TIAGO": 7,
+    "CASTAÑO SAN JUANES, ARITZ": 9,
+    "ALDASORO CADIÑANOS, MARTIN": 11,
+    "IBARRONDO REMENTERIA, ENEKO": 14,
+    "SANCHEZ PARDO, JON": 17,
+    "HERRERO LLORENTE, NICOLAS": 19,
+    "RUBIO PRADO, LUKEN": 21
+  },
+  "dorsales_visitante": {
+    "IZAGUIRRE ACARREGUI, DANEL": 13,
+    "ANDREU PERNAS, ENEKO": 3,
+    "ARAMBURU AGUIRRE, BEÑAT": 4,
+    "URRUTIA ZUBIKARAI, AITZOL": 5,
+    "DIENG, SALIFOU": 6,
+    "IBARROLA BADIOLA, GARI": 8,
+    "AGIRRETXEA AJUBITA, IAN": 9,
+    "ADRIAN LOURO, UNAI": 10,
+    "ARANBARRI ARANTZAMENDI, ANDER": 12,
+    "ETXEBARRIA TXAKARTEGI, JOKIN": 17,
+    "TXURRUKA AGIRRE, JOEL": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
