@@ -1,0 +1,269 @@
+{
+  "acta_id": "10080101",
+  "filename": "Acta_10080101.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "17-10-2026",
+  "hora": "12:00",
+  "categoria": "SEGUNDA CADETE / KADETEEN BIGARREN MAILA (GRUPO - 2 / 2. TALDEA)",
+  "equipo_local": "GRUPO AMUTIO SAN IGNACIO, C.D. C",
+  "equipo_visitante": "ALEGRÍA C.D. B",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "Chamlal Berrahou, Marouan"
+  ],
+  "estadio": "ADURTZABAL",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "ARBAIZA MATEO, PEIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "GOULIT, EL MOKHTAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "GOULIT, EL MOKHTAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "HERRERA BOTAZ, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 35,
+      "jugador": "ARBAIZA MATEO, PEIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "PEREZ PEDRERO VIGURI, NICOLAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "CALLEJA SANCHEZ, XAVIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "ALAÑA IBAÑEZ, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "NISO HERNANDEZ, VALERIANO",
+  "delegado_campo_local": "MENDEZ LÓPEZ DE LACALLE, ENEKO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DE LUZ SUSAETA, RAUL",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "ORTIZ DE ZARATE TEIJIDO, UNAI",
+    "SAEZ GONZALEZ, LANDER",
+    "BOVEDA MARTA, LUCA",
+    "SOBEJANO ESTEVEZ, GORKA",
+    "BARRASA GARCIA, ARTURO MANUEL",
+    "ARBAIZA MATEO, PEIO",
+    "SOLA BARREIRO, IAN",
+    "PEREZ PEDRERO VIGURI, NICOLAS",
+    "GUERRAS ALONSO, UNAX",
+    "GARCIA-VALENCIANO DE YRAZU, ARIAN",
+    "ATIENZA DELGADO, ALEJANDRO"
+  ],
+  "titulares_visitante": [
+    "PRIETO MONGAY, DANIEL",
+    "GOULIT, EL MOKHTAR",
+    "GUTIERREZ BARQUIN VILLOTA, ALEX",
+    "PADRINO DOMINGUEZ, ALEJANDRO",
+    "RUIZ DE GAUNA BOYERO, ARITZ",
+    "BELAARAJ AZZOUZI, YASSINE",
+    "CALLEJA SANCHEZ, XAVIER",
+    "BELAARAJ, YOUSSEF",
+    "TSICHE HADDOU AMER, YOUSSEF",
+    "DÍAZ DE OTALORA YANIZ, UNAI",
+    "SALGADO PEREZ, IOAR"
+  ],
+  "suplentes_local": [
+    "GUERRAS ALONSO, IBAI",
+    "HERRERA BOTAZ, LUCAS",
+    "MILLA CHASCO, ARKAITZ",
+    "ER RADY DOMENECH, ADAM",
+    "MARTINEZ DE ICAYA SALAZAR, JON"
+  ],
+  "suplentes_visitante": [
+    "EL GHARIB OUASSINI, AKRAM",
+    "BELAARAJ AZZOUZI, YOUNES",
+    "RAMOS VERGARA, ANDER",
+    "BLANCO ALVAREZ, MARCOS",
+    "DOGHMANI, YAHYA",
+    "GOROSABEL RUIZ, MARC"
+  ],
+  "convocados_sin_jugar_local": [
+    "GUERRAS ALONSO, IBAI",
+    "MILLA CHASCO, ARKAITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BELAARAJ AZZOUZI, YOUNES"
+  ],
+  "jugadores_local": [
+    "ORTIZ DE ZARATE TEIJIDO, UNAI",
+    "SAEZ GONZALEZ, LANDER",
+    "BOVEDA MARTA, LUCA",
+    "SOBEJANO ESTEVEZ, GORKA",
+    "BARRASA GARCIA, ARTURO MANUEL",
+    "ARBAIZA MATEO, PEIO",
+    "SOLA BARREIRO, IAN",
+    "PEREZ PEDRERO VIGURI, NICOLAS",
+    "GUERRAS ALONSO, UNAX",
+    "GARCIA-VALENCIANO DE YRAZU, ARIAN",
+    "ATIENZA DELGADO, ALEJANDRO",
+    "MARTINEZ DE ICAYA SALAZAR, JON",
+    "ER RADY DOMENECH, ADAM",
+    "HERRERA BOTAZ, LUCAS"
+  ],
+  "jugadores_visitante": [
+    "PRIETO MONGAY, DANIEL",
+    "GOULIT, EL MOKHTAR",
+    "GUTIERREZ BARQUIN VILLOTA, ALEX",
+    "PADRINO DOMINGUEZ, ALEJANDRO",
+    "RUIZ DE GAUNA BOYERO, ARITZ",
+    "BELAARAJ AZZOUZI, YASSINE",
+    "CALLEJA SANCHEZ, XAVIER",
+    "BELAARAJ, YOUSSEF",
+    "TSICHE HADDOU AMER, YOUSSEF",
+    "DÍAZ DE OTALORA YANIZ, UNAI",
+    "SALGADO PEREZ, IOAR",
+    "RAMOS VERGARA, ANDER",
+    "BLANCO ALVAREZ, MARCOS",
+    "DOGHMANI, YAHYA",
+    "EL GHARIB OUASSINI, AKRAM",
+    "GOROSABEL RUIZ, MARC"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "MARTINEZ DE ICAYA SALAZAR, JON",
+      "sale": "ATIENZA DELGADO, ALEJANDRO"
+    },
+    {
+      "min": 62,
+      "entra": "ER RADY DOMENECH, ADAM",
+      "sale": "ARBAIZA MATEO, PEIO"
+    },
+    {
+      "min": 65,
+      "entra": "HERRERA BOTAZ, LUCAS",
+      "sale": "SAEZ GONZALEZ, LANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "RAMOS VERGARA, ANDER",
+      "sale": "DÍAZ DE OTALORA YANIZ, UNAI"
+    },
+    {
+      "min": 70,
+      "entra": "BLANCO ALVAREZ, MARCOS",
+      "sale": "GUTIERREZ BARQUIN VILLOTA, ALEX"
+    },
+    {
+      "min": 70,
+      "entra": "DOGHMANI, YAHYA",
+      "sale": "BELAARAJ AZZOUZI, YASSINE"
+    },
+    {
+      "min": 74,
+      "entra": "EL GHARIB OUASSINI, AKRAM",
+      "sale": "PADRINO DOMINGUEZ, ALEJANDRO"
+    },
+    {
+      "min": 74,
+      "entra": "GOROSABEL RUIZ, MARC",
+      "sale": "SALGADO PEREZ, IOAR"
+    }
+  ],
+  "minutos_jugadores": {
+    "ORTIZ DE ZARATE TEIJIDO, UNAI": 90,
+    "SAEZ GONZALEZ, LANDER": 65,
+    "BOVEDA MARTA, LUCA": 90,
+    "SOBEJANO ESTEVEZ, GORKA": 90,
+    "BARRASA GARCIA, ARTURO MANUEL": 90,
+    "ARBAIZA MATEO, PEIO": 62,
+    "SOLA BARREIRO, IAN": 90,
+    "PEREZ PEDRERO VIGURI, NICOLAS": 90,
+    "GUERRAS ALONSO, UNAX": 90,
+    "GARCIA-VALENCIANO DE YRAZU, ARIAN": 90,
+    "ATIENZA DELGADO, ALEJANDRO": 41,
+    "MARTINEZ DE ICAYA SALAZAR, JON": 49,
+    "ER RADY DOMENECH, ADAM": 28,
+    "HERRERA BOTAZ, LUCAS": 25,
+    "PRIETO MONGAY, DANIEL": 90,
+    "GOULIT, EL MOKHTAR": 90,
+    "GUTIERREZ BARQUIN VILLOTA, ALEX": 70,
+    "PADRINO DOMINGUEZ, ALEJANDRO": 74,
+    "RUIZ DE GAUNA BOYERO, ARITZ": 90,
+    "BELAARAJ AZZOUZI, YASSINE": 70,
+    "CALLEJA SANCHEZ, XAVIER": 90,
+    "BELAARAJ, YOUSSEF": 90,
+    "TSICHE HADDOU AMER, YOUSSEF": 90,
+    "DÍAZ DE OTALORA YANIZ, UNAI": 40,
+    "SALGADO PEREZ, IOAR": 74,
+    "RAMOS VERGARA, ANDER": 50,
+    "BLANCO ALVAREZ, MARCOS": 20,
+    "DOGHMANI, YAHYA": 20,
+    "EL GHARIB OUASSINI, AKRAM": 16,
+    "GOROSABEL RUIZ, MARC": 16
+  },
+  "portero_local": "ORTIZ DE ZARATE TEIJIDO, UNAI",
+  "portero_visitante": "PRIETO MONGAY, DANIEL",
+  "dorsales_local": {
+    "ORTIZ DE ZARATE TEIJIDO, UNAI": 1,
+    "SAEZ GONZALEZ, LANDER": 3,
+    "BOVEDA MARTA, LUCA": 6,
+    "SOBEJANO ESTEVEZ, GORKA": 7,
+    "BARRASA GARCIA, ARTURO MANUEL": 10,
+    "ARBAIZA MATEO, PEIO": 11,
+    "SOLA BARREIRO, IAN": 12,
+    "PEREZ PEDRERO VIGURI, NICOLAS": 15,
+    "GUERRAS ALONSO, UNAX": 20,
+    "GARCIA-VALENCIANO DE YRAZU, ARIAN": 22,
+    "ATIENZA DELGADO, ALEJANDRO": 26
+  },
+  "dorsales_visitante": {
+    "PRIETO MONGAY, DANIEL": 1,
+    "GOULIT, EL MOKHTAR": 9,
+    "GUTIERREZ BARQUIN VILLOTA, ALEX": 15,
+    "PADRINO DOMINGUEZ, ALEJANDRO": 17,
+    "RUIZ DE GAUNA BOYERO, ARITZ": 19,
+    "BELAARAJ AZZOUZI, YASSINE": 21,
+    "CALLEJA SANCHEZ, XAVIER": 24,
+    "BELAARAJ, YOUSSEF": 27,
+    "TSICHE HADDOU AMER, YOUSSEF": 29,
+    "DÍAZ DE OTALORA YANIZ, UNAI": 30,
+    "SALGADO PEREZ, IOAR": 35
+  },
+  "suspendidos": []
+}
