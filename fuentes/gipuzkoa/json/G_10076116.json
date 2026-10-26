@@ -1,0 +1,268 @@
+{
+  "acta_id": "G_10076116",
+  "filename": "Acta_G_10076116.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "24-10-2026",
+  "hora": "12:04",
+  "categoria": "INFANTIL MUTILEN 1.MAILA / 1ª INFANTIL MASCULINO (2. MULTZOA - GRUPO 2)",
+  "equipo_local": "BEHOBIA C.D.",
+  "equipo_visitante": "BETI ONA C.D.",
+  "goles_local": 5,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "RUIZ JURADO, OIER"
+  ],
+  "estadio": "ARTIA",
+  "ciudad": "Irun",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "LOPEZ GONZALEZ, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 8,
+      "jugador": "NDONG NDIAYE, ELHADJI ARFANG",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 21,
+      "jugador": "DOMINGUEZ TRINCADO, UNAX",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "GARCIA PELAEZ, GORKA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "NDONG NDIAYE, ELHADJI ARFANG",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 68,
+      "jugador": "NDONG NDIAYE, ELHADJI ARFANG",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 21,
+      "jugador": "DOMINGUEZ TRINCADO, UNAX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "TOVILTA, YAHYA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "GONZALEZ MORENO, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CALVO SOBRINO, ASIER",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "CEINOS ORTEGA, ENEKO",
+    "VAQUERO RAYON, LUCA",
+    "LOPEZ GONZALEZ, ADRIAN",
+    "IZAGUIRRE GERALDO, ALEIX",
+    "GARCIA PELAEZ, GORKA",
+    "NDONG NDIAYE, ELHADJI ARFANG",
+    "VARELA HERNANDEZ, JON",
+    "ALDANA FERNANDEZ, AIMAR",
+    "POPA, KEVIN-LEONARD",
+    "SEIN AGUIRREBARREN, XABAT",
+    "VAZ GALEANO, IZAN"
+  ],
+  "titulares_visitante": [
+    "RODRIGUEZ CARDENAS, AARON",
+    "LOPEZ ARCE, ANDRES",
+    "TOVILTA, YAHYA",
+    "GURUTZEALDE MARTIN, DANEL",
+    "HERNANDEZ GUZMAN, JULEN",
+    "GONZALEZ PEDROCHE, YOEL",
+    "DOMINGUEZ TRINCADO, UNAX",
+    "GUTIERREZ MENDOZA, EMILIO ALEJANDRO",
+    "KCAM CORNEJO, EDUARDO KAI",
+    "SUBIRAN PEREZ, UNAI"
+  ],
+  "suplentes_local": [
+    "DA SILVA PINTO, GABRIEL JESUS",
+    "GUILLEN MARTIN, JULEN",
+    "SORZABALBERE MERINO, IBAI",
+    "LUNGU XXX, PATRICK"
+  ],
+  "suplentes_visitante": [
+    "IGLESIAS JIMENEZ, ANDER",
+    "BAGWENEZA KAGERUKA, DYLAN",
+    "IRIAS ALARCON, ENEKO ALEXANDER",
+    "ZAZO PALACIOS, JULEN",
+    "BARROSO BENTO, KEVIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "IGLESIAS JIMENEZ, ANDER"
+  ],
+  "jugadores_local": [
+    "CEINOS ORTEGA, ENEKO",
+    "VAQUERO RAYON, LUCA",
+    "LOPEZ GONZALEZ, ADRIAN",
+    "IZAGUIRRE GERALDO, ALEIX",
+    "GARCIA PELAEZ, GORKA",
+    "NDONG NDIAYE, ELHADJI ARFANG",
+    "VARELA HERNANDEZ, JON",
+    "ALDANA FERNANDEZ, AIMAR",
+    "POPA, KEVIN-LEONARD",
+    "SEIN AGUIRREBARREN, XABAT",
+    "VAZ GALEANO, IZAN",
+    "SORZABALBERE MERINO, IBAI",
+    "GUILLEN MARTIN, JULEN",
+    "LUNGU XXX, PATRICK",
+    "DA SILVA PINTO, GABRIEL JESUS"
+  ],
+  "jugadores_visitante": [
+    "RODRIGUEZ CARDENAS, AARON",
+    "LOPEZ ARCE, ANDRES",
+    "TOVILTA, YAHYA",
+    "GURUTZEALDE MARTIN, DANEL",
+    "HERNANDEZ GUZMAN, JULEN",
+    "GONZALEZ PEDROCHE, YOEL",
+    "DOMINGUEZ TRINCADO, UNAX",
+    "GUTIERREZ MENDOZA, EMILIO ALEJANDRO",
+    "KCAM CORNEJO, EDUARDO KAI",
+    "SUBIRAN PEREZ, UNAI",
+    "IRIAS ALARCON, ENEKO ALEXANDER",
+    "ZAZO PALACIOS, JULEN",
+    "BAGWENEZA KAGERUKA, DYLAN",
+    "BARROSO BENTO, KEVIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SORZABALBERE MERINO, IBAI",
+      "sale": "LOPEZ GONZALEZ, ADRIAN"
+    },
+    {
+      "min": 45,
+      "entra": "GUILLEN MARTIN, JULEN",
+      "sale": "VARELA HERNANDEZ, JON"
+    },
+    {
+      "min": 45,
+      "entra": "LUNGU XXX, PATRICK",
+      "sale": "VAQUERO RAYON, LUCA"
+    },
+    {
+      "min": 45,
+      "entra": "DA SILVA PINTO, GABRIEL JESUS",
+      "sale": "ALDANA FERNANDEZ, AIMAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "IRIAS ALARCON, ENEKO ALEXANDER",
+      "sale": "SUBIRAN PEREZ, UNAI"
+    },
+    {
+      "min": 51,
+      "entra": "ZAZO PALACIOS, JULEN",
+      "sale": "GURUTZEALDE MARTIN, DANEL"
+    },
+    {
+      "min": 51,
+      "entra": "BAGWENEZA KAGERUKA, DYLAN",
+      "sale": "LOPEZ ARCE, ANDRES"
+    },
+    {
+      "min": 51,
+      "entra": "BARROSO BENTO, KEVIN",
+      "sale": "HERNANDEZ GUZMAN, JULEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "CEINOS ORTEGA, ENEKO": 90,
+    "VAQUERO RAYON, LUCA": 45,
+    "LOPEZ GONZALEZ, ADRIAN": 40,
+    "IZAGUIRRE GERALDO, ALEIX": 90,
+    "GARCIA PELAEZ, GORKA": 90,
+    "NDONG NDIAYE, ELHADJI ARFANG": 90,
+    "VARELA HERNANDEZ, JON": 45,
+    "ALDANA FERNANDEZ, AIMAR": 45,
+    "POPA, KEVIN-LEONARD": 90,
+    "SEIN AGUIRREBARREN, XABAT": 90,
+    "VAZ GALEANO, IZAN": 90,
+    "SORZABALBERE MERINO, IBAI": 50,
+    "GUILLEN MARTIN, JULEN": 45,
+    "LUNGU XXX, PATRICK": 45,
+    "DA SILVA PINTO, GABRIEL JESUS": 45,
+    "RODRIGUEZ CARDENAS, AARON": 90,
+    "LOPEZ ARCE, ANDRES": 51,
+    "TOVILTA, YAHYA": 90,
+    "GURUTZEALDE MARTIN, DANEL": 51,
+    "HERNANDEZ GUZMAN, JULEN": 51,
+    "GONZALEZ PEDROCHE, YOEL": 90,
+    "DOMINGUEZ TRINCADO, UNAX": 90,
+    "GUTIERREZ MENDOZA, EMILIO ALEJANDRO": 90,
+    "KCAM CORNEJO, EDUARDO KAI": 90,
+    "SUBIRAN PEREZ, UNAI": 35,
+    "IRIAS ALARCON, ENEKO ALEXANDER": 55,
+    "ZAZO PALACIOS, JULEN": 39,
+    "BAGWENEZA KAGERUKA, DYLAN": 39,
+    "BARROSO BENTO, KEVIN": 39
+  },
+  "portero_local": "CEINOS ORTEGA, ENEKO",
+  "portero_visitante": "RODRIGUEZ CARDENAS, AARON",
+  "dorsales_local": {
+    "CEINOS ORTEGA, ENEKO": 1,
+    "VAQUERO RAYON, LUCA": 2,
+    "LOPEZ GONZALEZ, ADRIAN": 3,
+    "IZAGUIRRE GERALDO, ALEIX": 5,
+    "GARCIA PELAEZ, GORKA": 7,
+    "NDONG NDIAYE, ELHADJI ARFANG": 8,
+    "VARELA HERNANDEZ, JON": 9,
+    "ALDANA FERNANDEZ, AIMAR": 11,
+    "POPA, KEVIN-LEONARD": 12,
+    "SEIN AGUIRREBARREN, XABAT": 14,
+    "VAZ GALEANO, IZAN": 17
+  },
+  "dorsales_visitante": {
+    "RODRIGUEZ CARDENAS, AARON": 1,
+    "LOPEZ ARCE, ANDRES": 3,
+    "TOVILTA, YAHYA": 4,
+    "GURUTZEALDE MARTIN, DANEL": 5,
+    "HERNANDEZ GUZMAN, JULEN": 7,
+    "GONZALEZ PEDROCHE, YOEL": 8,
+    "DOMINGUEZ TRINCADO, UNAX": 10,
+    "GUTIERREZ MENDOZA, EMILIO ALEJANDRO": 11,
+    "KCAM CORNEJO, EDUARDO KAI": 17,
+    "SUBIRAN PEREZ, UNAI": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
