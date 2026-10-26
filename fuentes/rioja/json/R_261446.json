@@ -1,0 +1,276 @@
+{
+  "acta_id": "R_261446",
+  "filename": "Acta_R_261446.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "24-10-2026",
+  "hora": "11:30",
+  "categoria": "PRIMERA CADETE (Grupo Único)",
+  "equipo_local": "ALBERITE Valvanera Corima",
+  "equipo_visitante": "CALAHORRA FB",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SAN MARTIN ROMERO, MATEO"
+  ],
+  "estadio": "C.M. ANGEL AGUADO - H.A. (VAREA-LOGROÑO)",
+  "ciudad": "Logroño",
+  "goleadores": [
+    {
+      "minuto": 47,
+      "jugador": "ORTIGOSA GARCIA, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 71,
+      "jugador": "CALVANO BOBADILLA, AARON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "ZORZANO NAJERA, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 76,
+      "jugador": "RUIZ HUERTAS, TOMAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "MARTINEZ AMIANO, MIGUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "SAIDI CHAL, WALED",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "SAIDI CHAL, WALED",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "TIERNO GARCIA, JUAN IGNACIO",
+  "entrenador_visitante": "DE LA FUENTE LEDESMA, MATIAS IAN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MANERO DIEZ, CESAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "TIERNO GARCIA, JAIME",
+  "delegado_equipo_visitante": "DE LA FUENTE GONZALEZ, GUSTAVO F",
+  "titulares_local": [
+    "MARTINEZ ALCALA, PABLO",
+    "MARTINEZ AMIANO, MIGUEL",
+    "TAMAYO RODRIGUEZ, LUCAS",
+    "MARIN MONEO, SANTIAGO",
+    "SAENZ RUIZ, NILO",
+    "SALIM ANTAR, RAYAN",
+    "ZORZANO NAJERA, ADRIAN",
+    "LANZA VALDIVIELSO, IZAN",
+    "GOMEZ LAZARO, RAFA",
+    "SAN JUAN CESTAFE, MARCO",
+    "ALVAREZ PENIN, RUBEN"
+  ],
+  "titulares_visitante": [
+    "BABUT, DENIS RAUL",
+    "CRISTOBAL FERNANDEZ, ERIK",
+    "ABAD CALVO, ALVARO",
+    "ESCUDERO CAMARA, DARIO",
+    "SAIDI CHAL, WALED",
+    "EL MOUTAOUAKAL EL KADIRI, YAHYA",
+    "BELTRAN SAENZ, MANUEL",
+    "DEL RIO GARRIDO, ALVARO",
+    "GOMEZ LAFUENTE, ALEJANDRO",
+    "MARTINEZ VIGUERA, ALEJANDRO",
+    "CALVANO BOBADILLA, AARON"
+  ],
+  "suplentes_local": [
+    "ARBIA CHLIQA, RAYAN",
+    "ORTIGOSA GARCIA, AIMAR",
+    "SAENZ ORTIZ, PABLO",
+    "GANO, HAMADOU",
+    "CHACON VELASQUEZ, AYRAN MARCELO",
+    "RUIZ HUERTAS, TOMAS"
+  ],
+  "suplentes_visitante": [
+    "LAGUNA DOMINGUEZ, MIKEL",
+    "MELLAH BOULENOUAR, ZAKARIA",
+    "LEMKHAYAR OUCHEN, MAROUAN",
+    "SUBERO URSUA, JAVIER",
+    "PASCUAL ROYO, NICOLAS",
+    "BUDA, DARIUS IOAN",
+    "MANGADO PEREZ, JOEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "SAENZ ORTIZ, PABLO",
+    "CHACON VELASQUEZ, AYRAN MARCELO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "LAGUNA DOMINGUEZ, MIKEL",
+    "SUBERO URSUA, JAVIER",
+    "PASCUAL ROYO, NICOLAS"
+  ],
+  "jugadores_local": [
+    "MARTINEZ ALCALA, PABLO",
+    "MARTINEZ AMIANO, MIGUEL",
+    "TAMAYO RODRIGUEZ, LUCAS",
+    "MARIN MONEO, SANTIAGO",
+    "SAENZ RUIZ, NILO",
+    "SALIM ANTAR, RAYAN",
+    "ZORZANO NAJERA, ADRIAN",
+    "LANZA VALDIVIELSO, IZAN",
+    "GOMEZ LAZARO, RAFA",
+    "SAN JUAN CESTAFE, MARCO",
+    "ALVAREZ PENIN, RUBEN",
+    "ORTIGOSA GARCIA, AIMAR",
+    "RUIZ HUERTAS, TOMAS",
+    "GANO, HAMADOU",
+    "ARBIA CHLIQA, RAYAN"
+  ],
+  "jugadores_visitante": [
+    "BABUT, DENIS RAUL",
+    "CRISTOBAL FERNANDEZ, ERIK",
+    "ABAD CALVO, ALVARO",
+    "ESCUDERO CAMARA, DARIO",
+    "SAIDI CHAL, WALED",
+    "EL MOUTAOUAKAL EL KADIRI, YAHYA",
+    "BELTRAN SAENZ, MANUEL",
+    "DEL RIO GARRIDO, ALVARO",
+    "GOMEZ LAFUENTE, ALEJANDRO",
+    "MARTINEZ VIGUERA, ALEJANDRO",
+    "CALVANO BOBADILLA, AARON",
+    "MANGADO PEREZ, JOEL",
+    "LEMKHAYAR OUCHEN, MAROUAN",
+    "MELLAH BOULENOUAR, ZAKARIA",
+    "BUDA, DARIUS IOAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "ORTIGOSA GARCIA, AIMAR",
+      "sale": "SAENZ RUIZ, NILO"
+    },
+    {
+      "min": 41,
+      "entra": "RUIZ HUERTAS, TOMAS",
+      "sale": "SALIM ANTAR, RAYAN"
+    },
+    {
+      "min": 61,
+      "entra": "GANO, HAMADOU",
+      "sale": "SAN JUAN CESTAFE, MARCO"
+    },
+    {
+      "min": 74,
+      "entra": "ARBIA CHLIQA, RAYAN",
+      "sale": "LANZA VALDIVIELSO, IZAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "MANGADO PEREZ, JOEL",
+      "sale": "ABAD CALVO, ALVARO"
+    },
+    {
+      "min": 55,
+      "entra": "LEMKHAYAR OUCHEN, MAROUAN",
+      "sale": "CRISTOBAL FERNANDEZ, ERIK"
+    },
+    {
+      "min": 55,
+      "entra": "MELLAH BOULENOUAR, ZAKARIA",
+      "sale": "EL MOUTAOUAKAL EL KADIRI, YAHYA"
+    },
+    {
+      "min": 61,
+      "entra": "BUDA, DARIUS IOAN",
+      "sale": "GOMEZ LAFUENTE, ALEJANDRO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTINEZ ALCALA, PABLO": 90,
+    "MARTINEZ AMIANO, MIGUEL": 90,
+    "TAMAYO RODRIGUEZ, LUCAS": 90,
+    "MARIN MONEO, SANTIAGO": 90,
+    "SAENZ RUIZ, NILO": 41,
+    "SALIM ANTAR, RAYAN": 41,
+    "ZORZANO NAJERA, ADRIAN": 90,
+    "LANZA VALDIVIELSO, IZAN": 74,
+    "GOMEZ LAZARO, RAFA": 90,
+    "SAN JUAN CESTAFE, MARCO": 61,
+    "ALVAREZ PENIN, RUBEN": 90,
+    "ORTIGOSA GARCIA, AIMAR": 49,
+    "RUIZ HUERTAS, TOMAS": 49,
+    "GANO, HAMADOU": 29,
+    "ARBIA CHLIQA, RAYAN": 16,
+    "BABUT, DENIS RAUL": 90,
+    "CRISTOBAL FERNANDEZ, ERIK": 55,
+    "ABAD CALVO, ALVARO": 41,
+    "ESCUDERO CAMARA, DARIO": 90,
+    "SAIDI CHAL, WALED": 90,
+    "EL MOUTAOUAKAL EL KADIRI, YAHYA": 55,
+    "BELTRAN SAENZ, MANUEL": 90,
+    "DEL RIO GARRIDO, ALVARO": 90,
+    "GOMEZ LAFUENTE, ALEJANDRO": 61,
+    "MARTINEZ VIGUERA, ALEJANDRO": 90,
+    "CALVANO BOBADILLA, AARON": 90,
+    "MANGADO PEREZ, JOEL": 49,
+    "LEMKHAYAR OUCHEN, MAROUAN": 35,
+    "MELLAH BOULENOUAR, ZAKARIA": 35,
+    "BUDA, DARIUS IOAN": 29
+  },
+  "portero_local": "MARTINEZ ALCALA, PABLO",
+  "portero_visitante": "BABUT, DENIS RAUL",
+  "dorsales_local": {
+    "MARTINEZ ALCALA, PABLO": 1,
+    "MARTINEZ AMIANO, MIGUEL": 2,
+    "TAMAYO RODRIGUEZ, LUCAS": 3,
+    "MARIN MONEO, SANTIAGO": 5,
+    "SAENZ RUIZ, NILO": 6,
+    "SALIM ANTAR, RAYAN": 7,
+    "ZORZANO NAJERA, ADRIAN": 8,
+    "LANZA VALDIVIELSO, IZAN": 11,
+    "GOMEZ LAZARO, RAFA": 12,
+    "SAN JUAN CESTAFE, MARCO": 17,
+    "ALVAREZ PENIN, RUBEN": 20
+  },
+  "dorsales_visitante": {
+    "BABUT, DENIS RAUL": 13,
+    "CRISTOBAL FERNANDEZ, ERIK": 3,
+    "ABAD CALVO, ALVARO": 4,
+    "ESCUDERO CAMARA, DARIO": 5,
+    "SAIDI CHAL, WALED": 6,
+    "EL MOUTAOUAKAL EL KADIRI, YAHYA": 7,
+    "BELTRAN SAENZ, MANUEL": 8,
+    "DEL RIO GARRIDO, ALVARO": 9,
+    "GOMEZ LAFUENTE, ALEJANDRO": 10,
+    "MARTINEZ VIGUERA, ALEJANDRO": 18,
+    "CALVANO BOBADILLA, AARON": 20
+  },
+  "suspendidos": [
+    "SAIDI CHAL, WALED"
+  ],
+  "_marcador_widget": true
+}
