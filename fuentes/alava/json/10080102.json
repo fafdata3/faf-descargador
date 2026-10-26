@@ -1,0 +1,300 @@
+{
+  "acta_id": "10080102",
+  "filename": "Acta_10080102.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "17-10-2026",
+  "hora": "17:00",
+  "categoria": "SEGUNDA CADETE / KADETEEN BIGARREN MAILA (GRUPO - 2 / 2. TALDEA)",
+  "equipo_local": "LANTARON C.D. B",
+  "equipo_visitante": "SAN VIATOR A.D. C",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "FRESNILLO BAROJA, LUCAS"
+  ],
+  "estadio": "I.M.JAV.URIARTE JAIRO",
+  "ciudad": "KOMUNION",
+  "goleadores": [
+    {
+      "minuto": 26,
+      "jugador": "BUCUR COLOMBO, EDUARD",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "AL JAYAT LEKHAL HASSANI, ZAID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "RAHMOUNI RAHMOUNI, ABDELILAH",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "AL JAYAT LEKHAL HASSANI, ZAID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "PEREZ FERNANDEZ, AKETZA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 26,
+      "jugador": "ROA LOPEZ, DANIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "FERNANDEZ ROA, ARIEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "PINNA EXPOSITO, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "ELORZA GARCIA, JORITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARRI HUERTAS, RUBEN",
+  "entrenador_visitante": "HERROJO HERNANDO, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ORTIZ GARCIA, MIGUEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GONZALEZ SANTA CRUZ, ALBERTO",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "TEMIÑO SANCHEZ, HUGO",
+    "BERMEJO GARMENDIA, IAN",
+    "PEREZ FERNANDEZ, AKETZA",
+    "CALLEJA ALCALDE, MARTIN",
+    "GONZALEZ GIL, ENEKO",
+    "ROA LOPEZ, DANIEL",
+    "CRESPO ASENSI, ARATZ",
+    "MARTIN DIEZ, TELMO",
+    "DURAN LOPEZ, JAVIER",
+    "BUCUR COLOMBO, EDUARD",
+    "FRIAS VESGA, MARCOS"
+  ],
+  "titulares_visitante": [
+    "PINNA EXPOSITO, JON",
+    "RODRIGUEZ GUILLERMO, JUAN MARTIN",
+    "FREILE MARTINEZ, ARIAN",
+    "SANTOS SANCHEZ, ALEX JUNIOR",
+    "GAVILANES MENDEZ, UNAX",
+    "REVUELTA QUINTANA, GAIZKA",
+    "ALBA OCHOA DE ASPURU, ANDER",
+    "GONZALES GAMBOA, DIEGO",
+    "BURGUERA ANSOTEGUI, FERNANDO",
+    "ANGULO ROSA, LUCA",
+    "IÑIGUEZ DE ONSOÑO LODEIRO, JON"
+  ],
+  "suplentes_local": [
+    "ORTIZ MARTINEZ, JAVIER",
+    "LAHOYA ALONSO, FRANCISCO",
+    "FERNANDEZ ROA, ARIEL",
+    "BARBERO MUNGUIRA, JAVIER",
+    "RAHMOUNI RAHMOUNI, ABDELILAH",
+    "COMUNION ORTIZ DE LUNA, ANDER",
+    "AL JAYAT LEKHAL HASSANI, ZAID"
+  ],
+  "suplentes_visitante": [
+    "ELORZA GARCIA, JORITZ",
+    "ALBALADEJO HERNANDEZ, IKER",
+    "MORILLAS YATACO, ALESSANDRO JOSE",
+    "DE ARESTI DE LANGARIKA, AGER"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "TEMIÑO SANCHEZ, HUGO",
+    "BERMEJO GARMENDIA, IAN",
+    "PEREZ FERNANDEZ, AKETZA",
+    "CALLEJA ALCALDE, MARTIN",
+    "GONZALEZ GIL, ENEKO",
+    "ROA LOPEZ, DANIEL",
+    "CRESPO ASENSI, ARATZ",
+    "MARTIN DIEZ, TELMO",
+    "DURAN LOPEZ, JAVIER",
+    "BUCUR COLOMBO, EDUARD",
+    "FRIAS VESGA, MARCOS",
+    "ORTIZ MARTINEZ, JAVIER",
+    "AL JAYAT LEKHAL HASSANI, ZAID",
+    "RAHMOUNI RAHMOUNI, ABDELILAH",
+    "LAHOYA ALONSO, FRANCISCO",
+    "COMUNION ORTIZ DE LUNA, ANDER",
+    "FERNANDEZ ROA, ARIEL",
+    "BARBERO MUNGUIRA, JAVIER"
+  ],
+  "jugadores_visitante": [
+    "PINNA EXPOSITO, JON",
+    "RODRIGUEZ GUILLERMO, JUAN MARTIN",
+    "FREILE MARTINEZ, ARIAN",
+    "SANTOS SANCHEZ, ALEX JUNIOR",
+    "GAVILANES MENDEZ, UNAX",
+    "REVUELTA QUINTANA, GAIZKA",
+    "ALBA OCHOA DE ASPURU, ANDER",
+    "GONZALES GAMBOA, DIEGO",
+    "BURGUERA ANSOTEGUI, FERNANDO",
+    "ANGULO ROSA, LUCA",
+    "IÑIGUEZ DE ONSOÑO LODEIRO, JON",
+    "MORILLAS YATACO, ALESSANDRO JOSE",
+    "DE ARESTI DE LANGARIKA, AGER",
+    "ALBALADEJO HERNANDEZ, IKER",
+    "ELORZA GARCIA, JORITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "ORTIZ MARTINEZ, JAVIER",
+      "sale": "TEMIÑO SANCHEZ, HUGO"
+    },
+    {
+      "min": 46,
+      "entra": "AL JAYAT LEKHAL HASSANI, ZAID",
+      "sale": "MARTIN DIEZ, TELMO"
+    },
+    {
+      "min": 46,
+      "entra": "RAHMOUNI RAHMOUNI, ABDELILAH",
+      "sale": "DURAN LOPEZ, JAVIER"
+    },
+    {
+      "min": 51,
+      "entra": "LAHOYA ALONSO, FRANCISCO",
+      "sale": "BERMEJO GARMENDIA, IAN"
+    },
+    {
+      "min": 51,
+      "entra": "COMUNION ORTIZ DE LUNA, ANDER",
+      "sale": "FRIAS VESGA, MARCOS"
+    },
+    {
+      "min": 75,
+      "entra": "FERNANDEZ ROA, ARIEL",
+      "sale": "CALLEJA ALCALDE, MARTIN"
+    },
+    {
+      "min": 75,
+      "entra": "BARBERO MUNGUIRA, JAVIER",
+      "sale": "ROA LOPEZ, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 20,
+      "entra": "MORILLAS YATACO, ALESSANDRO JOSE",
+      "sale": "ALBA OCHOA DE ASPURU, ANDER"
+    },
+    {
+      "min": 41,
+      "entra": "DE ARESTI DE LANGARIKA, AGER",
+      "sale": "RODRIGUEZ GUILLERMO, JUAN MARTIN"
+    },
+    {
+      "min": 46,
+      "entra": "ALBALADEJO HERNANDEZ, IKER",
+      "sale": "SANTOS SANCHEZ, ALEX JUNIOR"
+    },
+    {
+      "min": 58,
+      "entra": "ELORZA GARCIA, JORITZ",
+      "sale": "ANGULO ROSA, LUCA"
+    }
+  ],
+  "minutos_jugadores": {
+    "TEMIÑO SANCHEZ, HUGO": 41,
+    "BERMEJO GARMENDIA, IAN": 51,
+    "PEREZ FERNANDEZ, AKETZA": 90,
+    "CALLEJA ALCALDE, MARTIN": 75,
+    "GONZALEZ GIL, ENEKO": 90,
+    "ROA LOPEZ, DANIEL": 75,
+    "CRESPO ASENSI, ARATZ": 90,
+    "MARTIN DIEZ, TELMO": 46,
+    "DURAN LOPEZ, JAVIER": 46,
+    "BUCUR COLOMBO, EDUARD": 90,
+    "FRIAS VESGA, MARCOS": 51,
+    "ORTIZ MARTINEZ, JAVIER": 49,
+    "AL JAYAT LEKHAL HASSANI, ZAID": 44,
+    "RAHMOUNI RAHMOUNI, ABDELILAH": 44,
+    "LAHOYA ALONSO, FRANCISCO": 39,
+    "COMUNION ORTIZ DE LUNA, ANDER": 39,
+    "FERNANDEZ ROA, ARIEL": 15,
+    "BARBERO MUNGUIRA, JAVIER": 15,
+    "PINNA EXPOSITO, JON": 90,
+    "RODRIGUEZ GUILLERMO, JUAN MARTIN": 41,
+    "FREILE MARTINEZ, ARIAN": 90,
+    "SANTOS SANCHEZ, ALEX JUNIOR": 46,
+    "GAVILANES MENDEZ, UNAX": 90,
+    "REVUELTA QUINTANA, GAIZKA": 90,
+    "ALBA OCHOA DE ASPURU, ANDER": 20,
+    "GONZALES GAMBOA, DIEGO": 90,
+    "BURGUERA ANSOTEGUI, FERNANDO": 90,
+    "ANGULO ROSA, LUCA": 58,
+    "IÑIGUEZ DE ONSOÑO LODEIRO, JON": 90,
+    "MORILLAS YATACO, ALESSANDRO JOSE": 70,
+    "DE ARESTI DE LANGARIKA, AGER": 49,
+    "ALBALADEJO HERNANDEZ, IKER": 44,
+    "ELORZA GARCIA, JORITZ": 32
+  },
+  "portero_local": "TEMIÑO SANCHEZ, HUGO",
+  "portero_visitante": "PINNA EXPOSITO, JON",
+  "dorsales_local": {
+    "TEMIÑO SANCHEZ, HUGO": 1,
+    "BERMEJO GARMENDIA, IAN": 5,
+    "PEREZ FERNANDEZ, AKETZA": 6,
+    "CALLEJA ALCALDE, MARTIN": 7,
+    "GONZALEZ GIL, ENEKO": 9,
+    "ROA LOPEZ, DANIEL": 10,
+    "CRESPO ASENSI, ARATZ": 12,
+    "MARTIN DIEZ, TELMO": 14,
+    "DURAN LOPEZ, JAVIER": 15,
+    "BUCUR COLOMBO, EDUARD": 18,
+    "FRIAS VESGA, MARCOS": 23
+  },
+  "dorsales_visitante": {
+    "PINNA EXPOSITO, JON": 43,
+    "RODRIGUEZ GUILLERMO, JUAN MARTIN": 2,
+    "FREILE MARTINEZ, ARIAN": 3,
+    "SANTOS SANCHEZ, ALEX JUNIOR": 4,
+    "GAVILANES MENDEZ, UNAX": 5,
+    "REVUELTA QUINTANA, GAIZKA": 6,
+    "ALBA OCHOA DE ASPURU, ANDER": 7,
+    "GONZALES GAMBOA, DIEGO": 8,
+    "BURGUERA ANSOTEGUI, FERNANDO": 10,
+    "ANGULO ROSA, LUCA": 15,
+    "IÑIGUEZ DE ONSOÑO LODEIRO, JON": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
