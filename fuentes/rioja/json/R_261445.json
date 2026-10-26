@@ -1,0 +1,277 @@
+{
+  "acta_id": "R_261445",
+  "filename": "Acta_R_261445.txt",
+  "fuente": "rioja",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "24-10-2026",
+  "hora": "12:00",
+  "categoria": "PRIMERA CADETE (Grupo Único)",
+  "equipo_local": "EFB ALFARO",
+  "equipo_visitante": "AZUL SPORT I Consult",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "JIMENEZ OLANO, ROBERTO"
+  ],
+  "estadio": "C.M. LA MOLINETA - H.A. (ALFARO)",
+  "ciudad": "Alfaro",
+  "goleadores": [
+    {
+      "minuto": 24,
+      "jugador": "AGUSTIN LOPEZ, IKER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "ARDOUS SAIDI, AZDINE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "CALVO PEREZ, ADRIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "BOBADILLA BALDERO, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 76,
+      "jugador": "BOBADILLA BALDERO, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 77,
+      "jugador": "MARTINEZ GARRIDO, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ L MADURGA, MIGUEL A",
+  "entrenador_visitante": "RUBIO LAFUENTE, ALVARO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ORDOYO MARIN, NESTOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LAMATA GARCIA, GERMAN",
+  "delegado_equipo_visitante": "CENTENO BALBI, JUAN A",
+  "titulares_local": [
+    "BUENO PEREZ, CESAR",
+    "MARIN ALFARO, MARCOS",
+    "LATORRE JIMENEZ, IKER",
+    "ORDOYO NAVASCUES, IÑIGO",
+    "BOBADILLA BALDERO, MARIO",
+    "MESEGUER FERNANDEZ, LEO",
+    "SESMA USARRALDE, RAUL",
+    "LAMATA JIMENEZ, LUCAS",
+    "ARDOUS SAIDI, AZDINE",
+    "SIGUENZA MARIN, MARCOS",
+    "DELGADO MELLADO, NICOLAS"
+  ],
+  "titulares_visitante": [
+    "JUBERA PEREZ, AARON",
+    "CALVO ALONSO, MARTIN",
+    "MIRANDA SAENZ, MIGUEL",
+    "MORENTIN LATORRE, RODRIGO",
+    "MARCO BELTRAN, LUIS",
+    "CALVO PEREZ, ADRIAN",
+    "MARTINEZ GARRIDO, NICOLAS",
+    "RINCON BOZA, ALVARO",
+    "AGUSTIN LOPEZ, IKER",
+    "BEISTI PORRES, BRUNO",
+    "DURO GONZALEZ, ENZO"
+  ],
+  "suplentes_local": [
+    "SOLDEVILLA GAVILAN, ADRIAN",
+    "MARTINEZ RUIZ, ERIC",
+    "LAPEÑA GRANDEZ, PABLO",
+    "LLORENTE AMEZCUA, GONZALO",
+    "LAJUSTICIA GRACIA, IÑIGO",
+    "CASAS MALUMBRES, JAVIER"
+  ],
+  "suplentes_visitante": [
+    "MASIP MACIAS, MARIO",
+    "ESTEBAN SANCHO, ADRIAN",
+    "SORIANO VASALDUA, DANIEL",
+    "CENTENO BAJO, ALEJANDRO JOSE",
+    "DIEZ PEREGRINA, IZAN",
+    "JIMENEZ DUEÑAS, CARLOS"
+  ],
+  "convocados_sin_jugar_local": [
+    "SOLDEVILLA GAVILAN, ADRIAN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MASIP MACIAS, MARIO"
+  ],
+  "jugadores_local": [
+    "BUENO PEREZ, CESAR",
+    "MARIN ALFARO, MARCOS",
+    "LATORRE JIMENEZ, IKER",
+    "ORDOYO NAVASCUES, IÑIGO",
+    "BOBADILLA BALDERO, MARIO",
+    "MESEGUER FERNANDEZ, LEO",
+    "SESMA USARRALDE, RAUL",
+    "LAMATA JIMENEZ, LUCAS",
+    "ARDOUS SAIDI, AZDINE",
+    "SIGUENZA MARIN, MARCOS",
+    "DELGADO MELLADO, NICOLAS",
+    "MARTINEZ RUIZ, ERIC",
+    "LAJUSTICIA GRACIA, IÑIGO",
+    "CASAS MALUMBRES, JAVIER",
+    "LAPEÑA GRANDEZ, PABLO",
+    "LLORENTE AMEZCUA, GONZALO"
+  ],
+  "jugadores_visitante": [
+    "JUBERA PEREZ, AARON",
+    "CALVO ALONSO, MARTIN",
+    "MIRANDA SAENZ, MIGUEL",
+    "MORENTIN LATORRE, RODRIGO",
+    "MARCO BELTRAN, LUIS",
+    "CALVO PEREZ, ADRIAN",
+    "MARTINEZ GARRIDO, NICOLAS",
+    "RINCON BOZA, ALVARO",
+    "AGUSTIN LOPEZ, IKER",
+    "BEISTI PORRES, BRUNO",
+    "DURO GONZALEZ, ENZO",
+    "JIMENEZ DUEÑAS, CARLOS",
+    "DIEZ PEREGRINA, IZAN",
+    "CENTENO BAJO, ALEJANDRO JOSE",
+    "ESTEBAN SANCHO, ADRIAN",
+    "SORIANO VASALDUA, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "MARTINEZ RUIZ, ERIC",
+      "sale": "MESEGUER FERNANDEZ, LEO"
+    },
+    {
+      "min": 51,
+      "entra": "LAJUSTICIA GRACIA, IÑIGO",
+      "sale": "SIGUENZA MARIN, MARCOS"
+    },
+    {
+      "min": 51,
+      "entra": "CASAS MALUMBRES, JAVIER",
+      "sale": "ORDOYO NAVASCUES, IÑIGO"
+    },
+    {
+      "min": 51,
+      "entra": "LAPEÑA GRANDEZ, PABLO",
+      "sale": "DELGADO MELLADO, NICOLAS"
+    },
+    {
+      "min": 63,
+      "entra": "LLORENTE AMEZCUA, GONZALO",
+      "sale": "ARDOUS SAIDI, AZDINE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 51,
+      "entra": "JIMENEZ DUEÑAS, CARLOS",
+      "sale": "AGUSTIN LOPEZ, IKER"
+    },
+    {
+      "min": 51,
+      "entra": "DIEZ PEREGRINA, IZAN",
+      "sale": "CALVO PEREZ, ADRIAN"
+    },
+    {
+      "min": 62,
+      "entra": "CENTENO BAJO, ALEJANDRO JOSE",
+      "sale": "MORENTIN LATORRE, RODRIGO"
+    },
+    {
+      "min": 67,
+      "entra": "ESTEBAN SANCHO, ADRIAN",
+      "sale": "MIRANDA SAENZ, MIGUEL"
+    },
+    {
+      "min": 67,
+      "entra": "SORIANO VASALDUA, DANIEL",
+      "sale": "CALVO ALONSO, MARTIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "BUENO PEREZ, CESAR": 90,
+    "MARIN ALFARO, MARCOS": 90,
+    "LATORRE JIMENEZ, IKER": 90,
+    "ORDOYO NAVASCUES, IÑIGO": 51,
+    "BOBADILLA BALDERO, MARIO": 90,
+    "MESEGUER FERNANDEZ, LEO": 41,
+    "SESMA USARRALDE, RAUL": 90,
+    "LAMATA JIMENEZ, LUCAS": 90,
+    "ARDOUS SAIDI, AZDINE": 63,
+    "SIGUENZA MARIN, MARCOS": 51,
+    "DELGADO MELLADO, NICOLAS": 51,
+    "MARTINEZ RUIZ, ERIC": 49,
+    "LAJUSTICIA GRACIA, IÑIGO": 39,
+    "CASAS MALUMBRES, JAVIER": 39,
+    "LAPEÑA GRANDEZ, PABLO": 39,
+    "LLORENTE AMEZCUA, GONZALO": 27,
+    "JUBERA PEREZ, AARON": 90,
+    "CALVO ALONSO, MARTIN": 67,
+    "MIRANDA SAENZ, MIGUEL": 67,
+    "MORENTIN LATORRE, RODRIGO": 62,
+    "MARCO BELTRAN, LUIS": 90,
+    "CALVO PEREZ, ADRIAN": 51,
+    "MARTINEZ GARRIDO, NICOLAS": 90,
+    "RINCON BOZA, ALVARO": 90,
+    "AGUSTIN LOPEZ, IKER": 51,
+    "BEISTI PORRES, BRUNO": 90,
+    "DURO GONZALEZ, ENZO": 90,
+    "JIMENEZ DUEÑAS, CARLOS": 39,
+    "DIEZ PEREGRINA, IZAN": 39,
+    "CENTENO BAJO, ALEJANDRO JOSE": 28,
+    "ESTEBAN SANCHO, ADRIAN": 23,
+    "SORIANO VASALDUA, DANIEL": 23
+  },
+  "portero_local": "BUENO PEREZ, CESAR",
+  "portero_visitante": "JUBERA PEREZ, AARON",
+  "dorsales_local": {
+    "BUENO PEREZ, CESAR": 13,
+    "MARIN ALFARO, MARCOS": 2,
+    "LATORRE JIMENEZ, IKER": 5,
+    "ORDOYO NAVASCUES, IÑIGO": 6,
+    "BOBADILLA BALDERO, MARIO": 8,
+    "MESEGUER FERNANDEZ, LEO": 11,
+    "SESMA USARRALDE, RAUL": 12,
+    "LAMATA JIMENEZ, LUCAS": 14,
+    "ARDOUS SAIDI, AZDINE": 15,
+    "SIGUENZA MARIN, MARCOS": 16,
+    "DELGADO MELLADO, NICOLAS": 19
+  },
+  "dorsales_visitante": {
+    "JUBERA PEREZ, AARON": 1,
+    "CALVO ALONSO, MARTIN": 2,
+    "MIRANDA SAENZ, MIGUEL": 3,
+    "MORENTIN LATORRE, RODRIGO": 5,
+    "MARCO BELTRAN, LUIS": 7,
+    "CALVO PEREZ, ADRIAN": 8,
+    "MARTINEZ GARRIDO, NICOLAS": 10,
+    "RINCON BOZA, ALVARO": 14,
+    "AGUSTIN LOPEZ, IKER": 15,
+    "BEISTI PORRES, BRUNO": 19,
+    "DURO GONZALEZ, ENZO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
