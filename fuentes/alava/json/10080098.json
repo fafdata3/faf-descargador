@@ -1,0 +1,225 @@
+{
+  "acta_id": "10080098",
+  "filename": "Acta_10080098.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "03-10-2026",
+  "hora": "12:30",
+  "categoria": "SEGUNDA CADETE / KADETEEN BIGARREN MAILA (GRUPO - 2 / 2. TALDEA)",
+  "equipo_local": "BATZARRE FUTBOL-5, AD",
+  "equipo_visitante": "ARAMBIZKARRA, C.F. C",
+  "goles_local": 5,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "REVILLA MUÑOZ, IKER"
+  ],
+  "estadio": "AMETSA",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "AHARRAM AFIA, IYAD",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 28,
+      "jugador": "RODRIGUEZ PABLOS, GAIZKA",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "ALONSO DURAN, AIMAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "BUSTO HERNANDEZ, ERIK",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "MARTIN LEON, AMETS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "TOUNKARA TAMAYO, ADAM",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "TOUNKARA TAMAYO, ADAM",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 10,
+      "jugador": "ANTOÑANA MARAÑON, AMETS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "GUZMAN MONTERO, OIHAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "DOMINGUEZ SANTOS, OIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "REVILLA MUÑOZ, ARKAITZ",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PIZARROSO SAN PEDRO, AIMAR",
+    "ANTOÑANA MARAÑON, AMETS",
+    "MARTIN LEON, AMETS",
+    "TOUNKARA TAMAYO, ADAM",
+    "GUZMAN MONTERO, OIHAN",
+    "RODRIGUEZ PABLOS, GAIZKA",
+    "ARRIZABALAGA GOMEZ, XABAT",
+    "BOUKER RABBAJ, ADAM",
+    "ALONSO DURAN, AIMAR"
+  ],
+  "titulares_visitante": [
+    "SAEZ DE CASTILLO CORCUERA, BEÑAT",
+    "LEGARISTI MOLINA, MIKEL",
+    "ESTEBAN HERNANDEZ, LANDER",
+    "REMON JUSTEL, ARKIZ",
+    "BUSTO HERNANDEZ, ERIK",
+    "AHARRAM AFIA, IYAD",
+    "PENEDO RODRIGUEZ, AIMAR",
+    "DOMINGUEZ SANTOS, OIER",
+    "RUIZ CAMISON, DAVID",
+    "GONZALEZ BAJAÑA, JOHN ERICK",
+    "SANTOS LERMA, EDER"
+  ],
+  "suplentes_local": [],
+  "suplentes_visitante": [
+    "CHARRO GALLEGO, LEO",
+    "LOPEZ GONZALEZ, MARKEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PIZARROSO SAN PEDRO, AIMAR",
+    "ANTOÑANA MARAÑON, AMETS",
+    "MARTIN LEON, AMETS",
+    "TOUNKARA TAMAYO, ADAM",
+    "GUZMAN MONTERO, OIHAN",
+    "RODRIGUEZ PABLOS, GAIZKA",
+    "ARRIZABALAGA GOMEZ, XABAT",
+    "BOUKER RABBAJ, ADAM",
+    "ALONSO DURAN, AIMAR"
+  ],
+  "jugadores_visitante": [
+    "SAEZ DE CASTILLO CORCUERA, BEÑAT",
+    "LEGARISTI MOLINA, MIKEL",
+    "ESTEBAN HERNANDEZ, LANDER",
+    "REMON JUSTEL, ARKIZ",
+    "BUSTO HERNANDEZ, ERIK",
+    "AHARRAM AFIA, IYAD",
+    "PENEDO RODRIGUEZ, AIMAR",
+    "DOMINGUEZ SANTOS, OIER",
+    "RUIZ CAMISON, DAVID",
+    "GONZALEZ BAJAÑA, JOHN ERICK",
+    "SANTOS LERMA, EDER",
+    "LOPEZ GONZALEZ, MARKEL",
+    "CHARRO GALLEGO, LEO"
+  ],
+  "sustituciones_local": [],
+  "sustituciones_visitante": [
+    {
+      "min": 39,
+      "entra": "LOPEZ GONZALEZ, MARKEL",
+      "sale": "SANTOS LERMA, EDER"
+    },
+    {
+      "min": 57,
+      "entra": "CHARRO GALLEGO, LEO",
+      "sale": "GONZALEZ BAJAÑA, JOHN ERICK"
+    }
+  ],
+  "minutos_jugadores": {
+    "PIZARROSO SAN PEDRO, AIMAR": 90,
+    "ANTOÑANA MARAÑON, AMETS": 90,
+    "MARTIN LEON, AMETS": 90,
+    "TOUNKARA TAMAYO, ADAM": 90,
+    "GUZMAN MONTERO, OIHAN": 90,
+    "RODRIGUEZ PABLOS, GAIZKA": 90,
+    "ARRIZABALAGA GOMEZ, XABAT": 90,
+    "BOUKER RABBAJ, ADAM": 90,
+    "ALONSO DURAN, AIMAR": 90,
+    "SAEZ DE CASTILLO CORCUERA, BEÑAT": 90,
+    "LEGARISTI MOLINA, MIKEL": 90,
+    "ESTEBAN HERNANDEZ, LANDER": 90,
+    "REMON JUSTEL, ARKIZ": 90,
+    "BUSTO HERNANDEZ, ERIK": 90,
+    "AHARRAM AFIA, IYAD": 90,
+    "PENEDO RODRIGUEZ, AIMAR": 90,
+    "DOMINGUEZ SANTOS, OIER": 90,
+    "RUIZ CAMISON, DAVID": 90,
+    "GONZALEZ BAJAÑA, JOHN ERICK": 57,
+    "SANTOS LERMA, EDER": 39,
+    "LOPEZ GONZALEZ, MARKEL": 51,
+    "CHARRO GALLEGO, LEO": 33
+  },
+  "portero_local": "PIZARROSO SAN PEDRO, AIMAR",
+  "portero_visitante": "SAEZ DE CASTILLO CORCUERA, BEÑAT",
+  "dorsales_local": {
+    "PIZARROSO SAN PEDRO, AIMAR": 99,
+    "ANTOÑANA MARAÑON, AMETS": 3,
+    "MARTIN LEON, AMETS": 9,
+    "TOUNKARA TAMAYO, ADAM": 11,
+    "GUZMAN MONTERO, OIHAN": 14,
+    "RODRIGUEZ PABLOS, GAIZKA": 17,
+    "ARRIZABALAGA GOMEZ, XABAT": 19,
+    "BOUKER RABBAJ, ADAM": 20,
+    "ALONSO DURAN, AIMAR": 48
+  },
+  "dorsales_visitante": {
+    "SAEZ DE CASTILLO CORCUERA, BEÑAT": 1,
+    "LEGARISTI MOLINA, MIKEL": 2,
+    "ESTEBAN HERNANDEZ, LANDER": 3,
+    "REMON JUSTEL, ARKIZ": 4,
+    "BUSTO HERNANDEZ, ERIK": 6,
+    "AHARRAM AFIA, IYAD": 10,
+    "PENEDO RODRIGUEZ, AIMAR": 11,
+    "DOMINGUEZ SANTOS, OIER": 12,
+    "RUIZ CAMISON, DAVID": 15,
+    "GONZALEZ BAJAÑA, JOHN ERICK": 17,
+    "SANTOS LERMA, EDER": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
