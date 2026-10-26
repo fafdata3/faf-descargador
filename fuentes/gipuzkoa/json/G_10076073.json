@@ -1,0 +1,284 @@
+{
+  "acta_id": "G_10076073",
+  "filename": "Acta_G_10076073.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "24-10-2026",
+  "hora": "10:30",
+  "categoria": "INFANTIL MUTILEN 1.MAILA / 1ª INFANTIL MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "DUNBOA EGUZKI C.D.",
+  "equipo_visitante": "ARRUPE CHAMINADE C.D.D.F.",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "RODRIGUEZ SALAVERRIA, ASIER"
+  ],
+  "estadio": "SAN JOSE OBRERO",
+  "ciudad": "Irun",
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "VAZQUEZ JIMENEZ, JOSE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "EGURROLA BLANCO, JOSU",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 48,
+      "jugador": "RODRÍGUEZ AGUADO, EGOI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "EGURROLA BLANCO, JOSU",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "RODRÍGUEZ AGUADO, EGOI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "LEMA YAMBERLA, GUERY",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "LENNY, BEZIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 62,
+      "jugador": "CHEVAUX LEBEC, EWEN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTIN REGUERO, IKER",
+  "delegado_equipo_visitante": "MATA GONZALEZ, MATTIN",
+  "titulares_local": [
+    "TORRESCUSA MENDEZ, EKAITZ",
+    "SAGÜES LORENTE, MARTIN",
+    "LENNY, BEZIER",
+    "SARR FALL, OUSMANE",
+    "CARRO MIGUEL, DANIEL",
+    "RAMOS JARAMILLO, MIKEL ALBEIRO",
+    "LEMA YAMBERLA, GUERY",
+    "VAZQUEZ JIMENEZ, JOSE",
+    "PALACIOS PADILLA, ETHAN GABRIEL",
+    "PINARGOTE CHINGA, WILMER",
+    "CHEVAUX LEBEC, EWEN"
+  ],
+  "titulares_visitante": [
+    "EGUIAZABAL EIZAGUIRRE, FELIX",
+    "CERDÁN COJO, IÑIGO",
+    "FUENTES SUÁREZ, IKER",
+    "ALDAREGUIA RUIZ DE MUNIAIN, IGNACIO",
+    "USABIAGA MARAURI, AITOR",
+    "GOIRIA ELIZALDE, PEIO",
+    "CANO ARRUTI, IÑIGO",
+    "EZEIZA IRAETA, MIKEL",
+    "IBAÑEZ TELLERIA, ENEKO",
+    "ALONSO HERNÁNDEZ, HUGO",
+    "RODRÍGUEZ AGUADO, EGOI"
+  ],
+  "suplentes_local": [
+    "SARR SARR, LAITY",
+    "PRUDENTE ROMERO, NICKOLAS JAVIER",
+    "TOMASTO RICAPA, IBAI ANDER",
+    "MEDINA PEÑA, EDWARS"
+  ],
+  "suplentes_visitante": [
+    "TAMBO SANCHEZ-GUARDAM, MARTÍN",
+    "LOYOLA PARDO, JON",
+    "EGURROLA BLANCO, JOSU",
+    "ORTEGA DOMÍNGUEZ, NICOLÁS",
+    "FERNÁNDEZ-MIRAN CAMPO, LEO",
+    "JULIAN RAMIREZ, AIMAR"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "TORRESCUSA MENDEZ, EKAITZ",
+    "SAGÜES LORENTE, MARTIN",
+    "LENNY, BEZIER",
+    "SARR FALL, OUSMANE",
+    "CARRO MIGUEL, DANIEL",
+    "RAMOS JARAMILLO, MIKEL ALBEIRO",
+    "LEMA YAMBERLA, GUERY",
+    "VAZQUEZ JIMENEZ, JOSE",
+    "PALACIOS PADILLA, ETHAN GABRIEL",
+    "PINARGOTE CHINGA, WILMER",
+    "CHEVAUX LEBEC, EWEN",
+    "MEDINA PEÑA, EDWARS",
+    "TOMASTO RICAPA, IBAI ANDER",
+    "SARR SARR, LAITY",
+    "PRUDENTE ROMERO, NICKOLAS JAVIER"
+  ],
+  "jugadores_visitante": [
+    "EGUIAZABAL EIZAGUIRRE, FELIX",
+    "CERDÁN COJO, IÑIGO",
+    "FUENTES SUÁREZ, IKER",
+    "ALDAREGUIA RUIZ DE MUNIAIN, IGNACIO",
+    "USABIAGA MARAURI, AITOR",
+    "GOIRIA ELIZALDE, PEIO",
+    "CANO ARRUTI, IÑIGO",
+    "EZEIZA IRAETA, MIKEL",
+    "IBAÑEZ TELLERIA, ENEKO",
+    "ALONSO HERNÁNDEZ, HUGO",
+    "RODRÍGUEZ AGUADO, EGOI",
+    "EGURROLA BLANCO, JOSU",
+    "TAMBO SANCHEZ-GUARDAM, MARTÍN",
+    "FERNÁNDEZ-MIRAN CAMPO, LEO",
+    "LOYOLA PARDO, JON",
+    "ORTEGA DOMÍNGUEZ, NICOLÁS",
+    "JULIAN RAMIREZ, AIMAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "MEDINA PEÑA, EDWARS",
+      "sale": "SAGÜES LORENTE, MARTIN"
+    },
+    {
+      "min": 46,
+      "entra": "TOMASTO RICAPA, IBAI ANDER",
+      "sale": "TORRESCUSA MENDEZ, EKAITZ"
+    },
+    {
+      "min": 46,
+      "entra": "SARR SARR, LAITY",
+      "sale": "VAZQUEZ JIMENEZ, JOSE"
+    },
+    {
+      "min": 46,
+      "entra": "PRUDENTE ROMERO, NICKOLAS JAVIER",
+      "sale": "CARRO MIGUEL, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "EGURROLA BLANCO, JOSU",
+      "sale": "EZEIZA IRAETA, MIKEL"
+    },
+    {
+      "min": 35,
+      "entra": "TAMBO SANCHEZ-GUARDAM, MARTÍN",
+      "sale": "IBAÑEZ TELLERIA, ENEKO"
+    },
+    {
+      "min": 35,
+      "entra": "FERNÁNDEZ-MIRAN CAMPO, LEO",
+      "sale": "EGUIAZABAL EIZAGUIRRE, FELIX"
+    },
+    {
+      "min": 41,
+      "entra": "LOYOLA PARDO, JON",
+      "sale": "GOIRIA ELIZALDE, PEIO"
+    },
+    {
+      "min": 46,
+      "entra": "ORTEGA DOMÍNGUEZ, NICOLÁS",
+      "sale": "CERDÁN COJO, IÑIGO"
+    },
+    {
+      "min": 46,
+      "entra": "JULIAN RAMIREZ, AIMAR",
+      "sale": "ALONSO HERNÁNDEZ, HUGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "TORRESCUSA MENDEZ, EKAITZ": 46,
+    "SAGÜES LORENTE, MARTIN": 46,
+    "LENNY, BEZIER": 90,
+    "SARR FALL, OUSMANE": 90,
+    "CARRO MIGUEL, DANIEL": 46,
+    "RAMOS JARAMILLO, MIKEL ALBEIRO": 90,
+    "LEMA YAMBERLA, GUERY": 90,
+    "VAZQUEZ JIMENEZ, JOSE": 46,
+    "PALACIOS PADILLA, ETHAN GABRIEL": 90,
+    "PINARGOTE CHINGA, WILMER": 90,
+    "CHEVAUX LEBEC, EWEN": 90,
+    "MEDINA PEÑA, EDWARS": 44,
+    "TOMASTO RICAPA, IBAI ANDER": 44,
+    "SARR SARR, LAITY": 44,
+    "PRUDENTE ROMERO, NICKOLAS JAVIER": 44,
+    "EGUIAZABAL EIZAGUIRRE, FELIX": 35,
+    "CERDÁN COJO, IÑIGO": 46,
+    "FUENTES SUÁREZ, IKER": 90,
+    "ALDAREGUIA RUIZ DE MUNIAIN, IGNACIO": 90,
+    "USABIAGA MARAURI, AITOR": 90,
+    "GOIRIA ELIZALDE, PEIO": 41,
+    "CANO ARRUTI, IÑIGO": 90,
+    "EZEIZA IRAETA, MIKEL": 35,
+    "IBAÑEZ TELLERIA, ENEKO": 35,
+    "ALONSO HERNÁNDEZ, HUGO": 46,
+    "RODRÍGUEZ AGUADO, EGOI": 90,
+    "EGURROLA BLANCO, JOSU": 55,
+    "TAMBO SANCHEZ-GUARDAM, MARTÍN": 55,
+    "FERNÁNDEZ-MIRAN CAMPO, LEO": 55,
+    "LOYOLA PARDO, JON": 49,
+    "ORTEGA DOMÍNGUEZ, NICOLÁS": 44,
+    "JULIAN RAMIREZ, AIMAR": 44
+  },
+  "portero_local": "TORRESCUSA MENDEZ, EKAITZ",
+  "portero_visitante": "EGUIAZABAL EIZAGUIRRE, FELIX",
+  "dorsales_local": {
+    "TORRESCUSA MENDEZ, EKAITZ": 1,
+    "SAGÜES LORENTE, MARTIN": 2,
+    "LENNY, BEZIER": 4,
+    "SARR FALL, OUSMANE": 5,
+    "CARRO MIGUEL, DANIEL": 6,
+    "RAMOS JARAMILLO, MIKEL ALBEIRO": 7,
+    "LEMA YAMBERLA, GUERY": 8,
+    "VAZQUEZ JIMENEZ, JOSE": 9,
+    "PALACIOS PADILLA, ETHAN GABRIEL": 10,
+    "PINARGOTE CHINGA, WILMER": 12,
+    "CHEVAUX LEBEC, EWEN": 17
+  },
+  "dorsales_visitante": {
+    "EGUIAZABAL EIZAGUIRRE, FELIX": 1,
+    "CERDÁN COJO, IÑIGO": 2,
+    "FUENTES SUÁREZ, IKER": 3,
+    "ALDAREGUIA RUIZ DE MUNIAIN, IGNACIO": 4,
+    "USABIAGA MARAURI, AITOR": 8,
+    "GOIRIA ELIZALDE, PEIO": 10,
+    "CANO ARRUTI, IÑIGO": 11,
+    "EZEIZA IRAETA, MIKEL": 14,
+    "IBAÑEZ TELLERIA, ENEKO": 15,
+    "ALONSO HERNÁNDEZ, HUGO": 16,
+    "RODRÍGUEZ AGUADO, EGOI": 17
+  },
+  "suspendidos": []
+}
