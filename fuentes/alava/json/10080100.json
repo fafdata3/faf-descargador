@@ -1,0 +1,242 @@
+{
+  "acta_id": "10080100",
+  "filename": "Acta_10080100.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "04-10-2026",
+  "hora": "17:00",
+  "categoria": "SEGUNDA CADETE / KADETEEN BIGARREN MAILA (GRUPO - 2 / 2. TALDEA)",
+  "equipo_local": "ALEGRÍA C.D. B",
+  "equipo_visitante": "ZARAMAGA C.F. B",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ESPINO IBÁÑEZ, EDER"
+  ],
+  "estadio": "J. GASTAMINZA (H.A.)",
+  "ciudad": "Alegría-Dulantzi",
+  "goleadores": [
+    {
+      "minuto": 42,
+      "jugador": "KHALLA BLANCO, ISMAEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "KHALLA BLANCO, ISMAEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 80,
+      "jugador": "DÍAZ DE OTALORA YANIZ, UNAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALAÑA IBAÑEZ, JON",
+  "entrenador_visitante": "EPELDE SANCHA, OROITZ",
+  "segundo_entrenador_local": "NISO HERNANDEZ, VALERIANO",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ARRETXE URIARTE, SONIA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALUTIZ OLALDE, AITOR",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PRIETO MONGAY, DANIEL",
+    "GOULIT, EL MOKHTAR",
+    "GUTIERREZ BARQUIN VILLOTA, ALEX",
+    "PADRINO DOMINGUEZ, ALEJANDRO",
+    "RUIZ DE GAUNA BOYERO, ARITZ",
+    "BELAARAJ AZZOUZI, YASSINE",
+    "CALLEJA SANCHEZ, XAVIER",
+    "BLANCO ALVAREZ, MARCOS",
+    "BELAARAJ, YOUSSEF",
+    "TSICHE HADDOU AMER, YOUSSEF",
+    "SALGADO PEREZ, IOAR"
+  ],
+  "titulares_visitante": [
+    "MONFORTE MONCADA, ROBERTO",
+    "VEA-MURGUIA CASTELLANO, ASIER",
+    "APARICIO BLANCO, BEÑAT",
+    "LAHIDALGA GARCIA, ALEXANDER",
+    "DE LA VEGA PERALES, UNAI",
+    "VILLAR SOLETO, ODEI",
+    "FELIZ MORENO, JEAN PAUL",
+    "LEON DIEZ, ODEI",
+    "GUTIERREZ PEREZ DE ALBENIZ, XABIER",
+    "MENDIOLAGARAY SANCHA, AINGERU",
+    "CISSOKO DIAKITE, MOHAMADOU"
+  ],
+  "suplentes_local": [
+    "BARRAGAN GUTIERREZ, ERIK",
+    "BELAARAJ AZZOUZI, YOUNES",
+    "DÍAZ DE OTALORA YANIZ, UNAI",
+    "GOROSABEL RUIZ, MARC"
+  ],
+  "suplentes_visitante": [
+    "MARULANDA CASTRILLON, JUAN ESTEBAN",
+    "ALEGRIA GONZALEZ, ARKAITZ",
+    "JIMENEZ CAPILLAS, JON",
+    "IBAÑEZ IZARRA, AIMAR",
+    "KHALLA BLANCO, ISMAEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PRIETO MONGAY, DANIEL",
+    "GOULIT, EL MOKHTAR",
+    "GUTIERREZ BARQUIN VILLOTA, ALEX",
+    "PADRINO DOMINGUEZ, ALEJANDRO",
+    "RUIZ DE GAUNA BOYERO, ARITZ",
+    "BELAARAJ AZZOUZI, YASSINE",
+    "CALLEJA SANCHEZ, XAVIER",
+    "BLANCO ALVAREZ, MARCOS",
+    "BELAARAJ, YOUSSEF",
+    "TSICHE HADDOU AMER, YOUSSEF",
+    "SALGADO PEREZ, IOAR",
+    "GOROSABEL RUIZ, MARC",
+    "DÍAZ DE OTALORA YANIZ, UNAI",
+    "BELAARAJ AZZOUZI, YOUNES",
+    "BARRAGAN GUTIERREZ, ERIK"
+  ],
+  "jugadores_visitante": [
+    "MONFORTE MONCADA, ROBERTO",
+    "VEA-MURGUIA CASTELLANO, ASIER",
+    "APARICIO BLANCO, BEÑAT",
+    "LAHIDALGA GARCIA, ALEXANDER",
+    "DE LA VEGA PERALES, UNAI",
+    "VILLAR SOLETO, ODEI",
+    "FELIZ MORENO, JEAN PAUL",
+    "LEON DIEZ, ODEI",
+    "GUTIERREZ PEREZ DE ALBENIZ, XABIER",
+    "MENDIOLAGARAY SANCHA, AINGERU",
+    "CISSOKO DIAKITE, MOHAMADOU",
+    "KHALLA BLANCO, ISMAEL",
+    "ALEGRIA GONZALEZ, ARKAITZ",
+    "MARULANDA CASTRILLON, JUAN ESTEBAN",
+    "IBAÑEZ IZARRA, AIMAR",
+    "JIMENEZ CAPILLAS, JON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "GOROSABEL RUIZ, MARC",
+      "sale": "BLANCO ALVAREZ, MARCOS"
+    },
+    {
+      "min": 54,
+      "entra": "DÍAZ DE OTALORA YANIZ, UNAI",
+      "sale": "BELAARAJ, YOUSSEF"
+    },
+    {
+      "min": 59,
+      "entra": "BELAARAJ AZZOUZI, YOUNES",
+      "sale": "GUTIERREZ BARQUIN VILLOTA, ALEX"
+    },
+    {
+      "min": 61,
+      "entra": "BARRAGAN GUTIERREZ, ERIK",
+      "sale": "PRIETO MONGAY, DANIEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 40,
+      "entra": "KHALLA BLANCO, ISMAEL",
+      "sale": "DE LA VEGA PERALES, UNAI"
+    },
+    {
+      "min": 50,
+      "entra": "ALEGRIA GONZALEZ, ARKAITZ",
+      "sale": "GUTIERREZ PEREZ DE ALBENIZ, XABIER"
+    },
+    {
+      "min": 50,
+      "entra": "MARULANDA CASTRILLON, JUAN ESTEBAN",
+      "sale": "LEON DIEZ, ODEI"
+    },
+    {
+      "min": 64,
+      "entra": "IBAÑEZ IZARRA, AIMAR",
+      "sale": "VILLAR SOLETO, ODEI"
+    },
+    {
+      "min": 64,
+      "entra": "JIMENEZ CAPILLAS, JON",
+      "sale": "LAHIDALGA GARCIA, ALEXANDER"
+    }
+  ],
+  "minutos_jugadores": {
+    "PRIETO MONGAY, DANIEL": 61,
+    "GOULIT, EL MOKHTAR": 90,
+    "GUTIERREZ BARQUIN VILLOTA, ALEX": 59,
+    "PADRINO DOMINGUEZ, ALEJANDRO": 90,
+    "RUIZ DE GAUNA BOYERO, ARITZ": 90,
+    "BELAARAJ AZZOUZI, YASSINE": 90,
+    "CALLEJA SANCHEZ, XAVIER": 90,
+    "BLANCO ALVAREZ, MARCOS": 40,
+    "BELAARAJ, YOUSSEF": 54,
+    "TSICHE HADDOU AMER, YOUSSEF": 90,
+    "SALGADO PEREZ, IOAR": 90,
+    "GOROSABEL RUIZ, MARC": 50,
+    "DÍAZ DE OTALORA YANIZ, UNAI": 36,
+    "BELAARAJ AZZOUZI, YOUNES": 31,
+    "BARRAGAN GUTIERREZ, ERIK": 29,
+    "MONFORTE MONCADA, ROBERTO": 90,
+    "VEA-MURGUIA CASTELLANO, ASIER": 90,
+    "APARICIO BLANCO, BEÑAT": 90,
+    "LAHIDALGA GARCIA, ALEXANDER": 64,
+    "DE LA VEGA PERALES, UNAI": 40,
+    "VILLAR SOLETO, ODEI": 64,
+    "FELIZ MORENO, JEAN PAUL": 90,
+    "LEON DIEZ, ODEI": 50,
+    "GUTIERREZ PEREZ DE ALBENIZ, XABIER": 50,
+    "MENDIOLAGARAY SANCHA, AINGERU": 90,
+    "CISSOKO DIAKITE, MOHAMADOU": 90,
+    "KHALLA BLANCO, ISMAEL": 50,
+    "ALEGRIA GONZALEZ, ARKAITZ": 40,
+    "MARULANDA CASTRILLON, JUAN ESTEBAN": 40,
+    "IBAÑEZ IZARRA, AIMAR": 26,
+    "JIMENEZ CAPILLAS, JON": 26
+  },
+  "portero_local": "PRIETO MONGAY, DANIEL",
+  "portero_visitante": "MONFORTE MONCADA, ROBERTO",
+  "dorsales_local": {
+    "PRIETO MONGAY, DANIEL": 1,
+    "GOULIT, EL MOKHTAR": 9,
+    "GUTIERREZ BARQUIN VILLOTA, ALEX": 15,
+    "PADRINO DOMINGUEZ, ALEJANDRO": 17,
+    "RUIZ DE GAUNA BOYERO, ARITZ": 19,
+    "BELAARAJ AZZOUZI, YASSINE": 21,
+    "CALLEJA SANCHEZ, XAVIER": 24,
+    "BLANCO ALVAREZ, MARCOS": 26,
+    "BELAARAJ, YOUSSEF": 27,
+    "TSICHE HADDOU AMER, YOUSSEF": 29,
+    "SALGADO PEREZ, IOAR": 35
+  },
+  "dorsales_visitante": {
+    "MONFORTE MONCADA, ROBERTO": 25,
+    "VEA-MURGUIA CASTELLANO, ASIER": 28,
+    "APARICIO BLANCO, BEÑAT": 29,
+    "LAHIDALGA GARCIA, ALEXANDER": 30,
+    "DE LA VEGA PERALES, UNAI": 32,
+    "VILLAR SOLETO, ODEI": 35,
+    "FELIZ MORENO, JEAN PAUL": 36,
+    "LEON DIEZ, ODEI": 43,
+    "GUTIERREZ PEREZ DE ALBENIZ, XABIER": 44,
+    "MENDIOLAGARAY SANCHA, AINGERU": 46,
+    "CISSOKO DIAKITE, MOHAMADOU": 47
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
