@@ -1,0 +1,282 @@
+{
+  "acta_id": "E_9966130",
+  "filename": "Acta_E_9966130.txt",
+  "fuente": "euskadi",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "05-10-2025",
+  "hora": "17:00",
+  "categoria": "CAMPEONATO DE TERCERA FEDERACIÓN DE FÚTBOL FEMENINO / EMAKUMEZKOEN RFEF HIRUGARREN MAILA (TEMPORADA 2025/26)",
+  "equipo_local": "AÑORGA K.K.E",
+  "equipo_visitante": "BIZKERRE, CLUB B",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BARRAGAN GASPAR, LIDIA",
+    "Árbitro Asistente",
+    "MENDIZABAL ROMERO, AIMAR",
+    "Árbitro Asistente",
+    "AZURDUY MONTALVO, ISMAEL"
+  ],
+  "estadio": "REZOLA",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "ESTRADA GARCIA DE CORTAZAR, UXUE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "LARRAÑAGA SAN MIGUEL, NORA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "SANCHEZ AREVALO, MYRIAM",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 42,
+      "jugador": "UNANUE ALDAZABAL, NORA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "FRAILE URTIZBEREA, NORA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 45,
+      "jugador": "LARRAÑAGA SAN MIGUEL, NORA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARITANO SARASOLA, IRAITZ",
+  "entrenador_visitante": "ESPADA JIMENEZ, FRANCISCO JAVIER",
+  "segundo_entrenador_local": "IRIBAR ZAPIRAIN, IBAI",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "ARCAUZ ARENAZA, YONE",
+  "titulares_local": [
+    "RIOS GAZTELUMENDI, NOA",
+    "MORALES GOENAGA, ENERITZ",
+    "EIZAGIRRE ARRUABARRENA, BIDATZ",
+    "FRAILE URTIZBEREA, NORA",
+    "NADAL AUTOR, OIHANE",
+    "SANCHEZ AREVALO, MYRIAM",
+    "UNANUE ALDAZABAL, NORA",
+    "BENGOETXEA MARTIARENA, AINHOA",
+    "MENDIARAZ MUNDUATE, LARRAITZ",
+    "ESTRADA GARCIA DE CORTAZAR, UXUE",
+    "URKIOLA LANDA, NAIA"
+  ],
+  "titulares_visitante": [
+    "MONSO TERRES, LAIA",
+    "GONZALEZ ARESTI, IRAIA",
+    "VILLA MEZO, GARAZI",
+    "CUÑADO DAPARTE, NEREA",
+    "PEREZ PARDAVILA, NAHIKARI",
+    "MACIAS INDIAS, EIDER",
+    "GARCIA DE EULATE GANDIAGA, NEREA",
+    "PINEDO BARAÑANO, ITSASNE",
+    "LARRAÑAGA SAN MIGUEL, NORA",
+    "GARCIA FERNANDEZ, KATIXA",
+    "GAVILÁN ARENAS, JOANE"
+  ],
+  "suplentes_local": [
+    "CELAYA ARRIZABALAGA, ANA",
+    "ARZAK GOMEZ, AINARA",
+    "SAN ANIZETO ORBEGOZO, IZASKUN",
+    "ALONSO AIZPURUA, ANE",
+    "GABILONDO MARTIN, CHENOA",
+    "REZOLA ESTEVEZ, MALEN",
+    "OLALDE SARAGUETA, IRATI"
+  ],
+  "suplentes_visitante": [
+    "MORENO SANCHEZ, AITANA",
+    "WERRING FERNANDEZ DE BIL, ICIAR",
+    "REMENTERIA LECETA, SAIOA",
+    "MENTXAKATORRE TRUJILLO, ENERITZ",
+    "DIEZ MANZANEDO, MENCIA",
+    "MARTIN SANTAMARIA, NAIARA"
+  ],
+  "convocados_sin_jugar_local": [
+    "CELAYA ARRIZABALAGA, ANA",
+    "ALONSO AIZPURUA, ANE"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MORENO SANCHEZ, AITANA"
+  ],
+  "jugadores_local": [
+    "RIOS GAZTELUMENDI, NOA",
+    "MORALES GOENAGA, ENERITZ",
+    "EIZAGIRRE ARRUABARRENA, BIDATZ",
+    "FRAILE URTIZBEREA, NORA",
+    "NADAL AUTOR, OIHANE",
+    "SANCHEZ AREVALO, MYRIAM",
+    "UNANUE ALDAZABAL, NORA",
+    "BENGOETXEA MARTIARENA, AINHOA",
+    "MENDIARAZ MUNDUATE, LARRAITZ",
+    "ESTRADA GARCIA DE CORTAZAR, UXUE",
+    "URKIOLA LANDA, NAIA",
+    "ARZAK GOMEZ, AINARA",
+    "SAN ANIZETO ORBEGOZO, IZASKUN",
+    "REZOLA ESTEVEZ, MALEN",
+    "GABILONDO MARTIN, CHENOA",
+    "OLALDE SARAGUETA, IRATI"
+  ],
+  "jugadores_visitante": [
+    "MONSO TERRES, LAIA",
+    "GONZALEZ ARESTI, IRAIA",
+    "VILLA MEZO, GARAZI",
+    "CUÑADO DAPARTE, NEREA",
+    "PEREZ PARDAVILA, NAHIKARI",
+    "MACIAS INDIAS, EIDER",
+    "GARCIA DE EULATE GANDIAGA, NEREA",
+    "PINEDO BARAÑANO, ITSASNE",
+    "LARRAÑAGA SAN MIGUEL, NORA",
+    "GARCIA FERNANDEZ, KATIXA",
+    "GAVILÁN ARENAS, JOANE",
+    "DIEZ MANZANEDO, MENCIA",
+    "REMENTERIA LECETA, SAIOA",
+    "MENTXAKATORRE TRUJILLO, ENERITZ",
+    "MARTIN SANTAMARIA, NAIARA",
+    "WERRING FERNANDEZ DE BIL, ICIAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 67,
+      "entra": "ARZAK GOMEZ, AINARA",
+      "sale": "URKIOLA LANDA, NAIA"
+    },
+    {
+      "min": 67,
+      "entra": "SAN ANIZETO ORBEGOZO, IZASKUN",
+      "sale": "BENGOETXEA MARTIARENA, AINHOA"
+    },
+    {
+      "min": 67,
+      "entra": "REZOLA ESTEVEZ, MALEN",
+      "sale": "MENDIARAZ MUNDUATE, LARRAITZ"
+    },
+    {
+      "min": 83,
+      "entra": "GABILONDO MARTIN, CHENOA",
+      "sale": "SANCHEZ AREVALO, MYRIAM"
+    },
+    {
+      "min": 83,
+      "entra": "OLALDE SARAGUETA, IRATI",
+      "sale": "ESTRADA GARCIA DE CORTAZAR, UXUE"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "DIEZ MANZANEDO, MENCIA",
+      "sale": "PINEDO BARAÑANO, ITSASNE"
+    },
+    {
+      "min": 46,
+      "entra": "REMENTERIA LECETA, SAIOA",
+      "sale": "GARCIA DE EULATE GANDIAGA, NEREA"
+    },
+    {
+      "min": 57,
+      "entra": "MENTXAKATORRE TRUJILLO, ENERITZ",
+      "sale": "MACIAS INDIAS, EIDER"
+    },
+    {
+      "min": 78,
+      "entra": "MARTIN SANTAMARIA, NAIARA",
+      "sale": "CUÑADO DAPARTE, NEREA"
+    },
+    {
+      "min": 78,
+      "entra": "WERRING FERNANDEZ DE BIL, ICIAR",
+      "sale": "GARCIA FERNANDEZ, KATIXA"
+    }
+  ],
+  "minutos_jugadores": {
+    "RIOS GAZTELUMENDI, NOA": 90,
+    "MORALES GOENAGA, ENERITZ": 90,
+    "EIZAGIRRE ARRUABARRENA, BIDATZ": 90,
+    "FRAILE URTIZBEREA, NORA": 90,
+    "NADAL AUTOR, OIHANE": 90,
+    "SANCHEZ AREVALO, MYRIAM": 83,
+    "UNANUE ALDAZABAL, NORA": 90,
+    "BENGOETXEA MARTIARENA, AINHOA": 67,
+    "MENDIARAZ MUNDUATE, LARRAITZ": 67,
+    "ESTRADA GARCIA DE CORTAZAR, UXUE": 83,
+    "URKIOLA LANDA, NAIA": 67,
+    "ARZAK GOMEZ, AINARA": 23,
+    "SAN ANIZETO ORBEGOZO, IZASKUN": 23,
+    "REZOLA ESTEVEZ, MALEN": 23,
+    "GABILONDO MARTIN, CHENOA": 7,
+    "OLALDE SARAGUETA, IRATI": 7,
+    "MONSO TERRES, LAIA": 90,
+    "GONZALEZ ARESTI, IRAIA": 90,
+    "VILLA MEZO, GARAZI": 90,
+    "CUÑADO DAPARTE, NEREA": 78,
+    "PEREZ PARDAVILA, NAHIKARI": 90,
+    "MACIAS INDIAS, EIDER": 57,
+    "GARCIA DE EULATE GANDIAGA, NEREA": 46,
+    "PINEDO BARAÑANO, ITSASNE": 46,
+    "LARRAÑAGA SAN MIGUEL, NORA": 90,
+    "GARCIA FERNANDEZ, KATIXA": 78,
+    "GAVILÁN ARENAS, JOANE": 90,
+    "DIEZ MANZANEDO, MENCIA": 44,
+    "REMENTERIA LECETA, SAIOA": 44,
+    "MENTXAKATORRE TRUJILLO, ENERITZ": 33,
+    "MARTIN SANTAMARIA, NAIARA": 12,
+    "WERRING FERNANDEZ DE BIL, ICIAR": 12
+  },
+  "portero_local": "RIOS GAZTELUMENDI, NOA",
+  "portero_visitante": "MONSO TERRES, LAIA",
+  "dorsales_local": {
+    "RIOS GAZTELUMENDI, NOA": 13,
+    "MORALES GOENAGA, ENERITZ": 2,
+    "EIZAGIRRE ARRUABARRENA, BIDATZ": 3,
+    "FRAILE URTIZBEREA, NORA": 4,
+    "NADAL AUTOR, OIHANE": 5,
+    "SANCHEZ AREVALO, MYRIAM": 7,
+    "UNANUE ALDAZABAL, NORA": 8,
+    "BENGOETXEA MARTIARENA, AINHOA": 11,
+    "MENDIARAZ MUNDUATE, LARRAITZ": 12,
+    "ESTRADA GARCIA DE CORTAZAR, UXUE": 22,
+    "URKIOLA LANDA, NAIA": 23
+  },
+  "dorsales_visitante": {
+    "MONSO TERRES, LAIA": 13,
+    "GONZALEZ ARESTI, IRAIA": 2,
+    "VILLA MEZO, GARAZI": 4,
+    "CUÑADO DAPARTE, NEREA": 5,
+    "PEREZ PARDAVILA, NAHIKARI": 12,
+    "MACIAS INDIAS, EIDER": 16,
+    "GARCIA DE EULATE GANDIAGA, NEREA": 18,
+    "PINEDO BARAÑANO, ITSASNE": 19,
+    "LARRAÑAGA SAN MIGUEL, NORA": 20,
+    "GARCIA FERNANDEZ, KATIXA": 23,
+    "GAVILÁN ARENAS, JOANE": 24
+  },
+  "suspendidos": []
+}
