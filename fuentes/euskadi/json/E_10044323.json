@@ -1,0 +1,287 @@
+{
+  "acta_id": "E_10044323",
+  "filename": "Acta_E_10044323.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 7,
+  "fecha": "24-10-2026",
+  "hora": "10:40",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "GETXO, C.D.",
+  "equipo_visitante": "INDAUTXU A",
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ARTEAGA PEREZ, EDER"
+  ],
+  "estadio": "BOLUE 3",
+  "ciudad": "Getxo",
+  "goleadores": [
+    {
+      "minuto": 44,
+      "jugador": "NIWA, DAIGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "ARMENTEROS GARCIA, ANDONI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "SAGLIARDI ROMERO, MASSIMO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "SANTIAGO BILBAO, ANTXON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "DEL VALLE FIGUEREO, AARON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 68,
+      "jugador": "ARMENTEROS GARCIA, ANDONI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "BENGOETXEA RODRIGUEZ, ASIER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BERGARA BERNABEU, JONATAN",
+  "entrenador_visitante": "ARBULU GONZALEZ, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "HUARTE ESTEBAN, IVAN ALEJANDRO",
+  "delegado_equipo_visitante": "RUIZ MARTIN, JON",
+  "titulares_local": [
+    "PEREZ LANDAJO, UNAI",
+    "VELASCO ARTAZA, PERU",
+    "DE AREITIO GUTIERREZ, RAMON",
+    "LAISECA LOPEZ, MARTIN",
+    "ITURREGUI GOMEZ, LUCA",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "NIWA, DAIGO",
+    "LAZCANO GALLEGO, ALVARO",
+    "ARDEO CALLEJA, KERMAN",
+    "MENDIA SUAREZ, MARIO",
+    "PÉREZ DE ANUCITA FUERTES, PEIO"
+  ],
+  "titulares_visitante": [
+    "BARTON, MARTIN",
+    "VITORES GODOY, MARTIN",
+    "NOVALES PEREZ, ISKANDER",
+    "SAGLIARDI ROMERO, MASSIMO",
+    "DIABATE MICHA, MIGUEL AMARA",
+    "ARMENTEROS GARCIA, ANDONI",
+    "SANTIAGO BILBAO, ANTXON",
+    "IRIONDO ALBIZU, PAUL",
+    "ZABALA GOÑI, MARTXELO",
+    "DEL VALLE FIGUEREO, AARON",
+    "ROMERA OLIVENZA, JULEN"
+  ],
+  "suplentes_local": [
+    "SOJO BILBAO, DANEL",
+    "ARGOITIA MENDIZABAL, XABI",
+    "URRUTIA HORAS, ERIK",
+    "GONZALEZ VERA, SEBASTIAN ALONZO",
+    "VAZQUEZ MANRIQUE, AITOR",
+    "PALOMINO TORRES, XABI",
+    "NAVALPOTRO GOMEZ, AMETS"
+  ],
+  "suplentes_visitante": [
+    "ALFAYE SANZ, DANEL",
+    "AHED MESSAOUD GARCIA, TAREK",
+    "NARBAIZA URQUIZA, UNAI SEGNI",
+    "BENGOETXEA RODRIGUEZ, ASIER",
+    "PEREZ BECERRA, MARCO JAEL",
+    "BLASCO MUÑOZ, ASIER",
+    "LORENZO GARCIA, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "SOJO BILBAO, DANEL",
+    "NAVALPOTRO GOMEZ, AMETS"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ALFAYE SANZ, DANEL",
+    "BLASCO MUÑOZ, ASIER"
+  ],
+  "jugadores_local": [
+    "PEREZ LANDAJO, UNAI",
+    "VELASCO ARTAZA, PERU",
+    "DE AREITIO GUTIERREZ, RAMON",
+    "LAISECA LOPEZ, MARTIN",
+    "ITURREGUI GOMEZ, LUCA",
+    "ESPINOSA MAGUREGI, KIMETZ",
+    "NIWA, DAIGO",
+    "LAZCANO GALLEGO, ALVARO",
+    "ARDEO CALLEJA, KERMAN",
+    "MENDIA SUAREZ, MARIO",
+    "PÉREZ DE ANUCITA FUERTES, PEIO",
+    "VAZQUEZ MANRIQUE, AITOR",
+    "ARGOITIA MENDIZABAL, XABI",
+    "GONZALEZ VERA, SEBASTIAN ALONZO",
+    "URRUTIA HORAS, ERIK",
+    "PALOMINO TORRES, XABI"
+  ],
+  "jugadores_visitante": [
+    "BARTON, MARTIN",
+    "VITORES GODOY, MARTIN",
+    "NOVALES PEREZ, ISKANDER",
+    "SAGLIARDI ROMERO, MASSIMO",
+    "DIABATE MICHA, MIGUEL AMARA",
+    "ARMENTEROS GARCIA, ANDONI",
+    "SANTIAGO BILBAO, ANTXON",
+    "IRIONDO ALBIZU, PAUL",
+    "ZABALA GOÑI, MARTXELO",
+    "DEL VALLE FIGUEREO, AARON",
+    "ROMERA OLIVENZA, JULEN",
+    "PEREZ BECERRA, MARCO JAEL",
+    "BENGOETXEA RODRIGUEZ, ASIER",
+    "LORENZO GARCIA, JON",
+    "NARBAIZA URQUIZA, UNAI SEGNI",
+    "AHED MESSAOUD GARCIA, TAREK"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "VAZQUEZ MANRIQUE, AITOR",
+      "sale": "ARDEO CALLEJA, KERMAN"
+    },
+    {
+      "min": 52,
+      "entra": "ARGOITIA MENDIZABAL, XABI",
+      "sale": "ITURREGUI GOMEZ, LUCA"
+    },
+    {
+      "min": 59,
+      "entra": "GONZALEZ VERA, SEBASTIAN ALONZO",
+      "sale": "MENDIA SUAREZ, MARIO"
+    },
+    {
+      "min": 59,
+      "entra": "URRUTIA HORAS, ERIK",
+      "sale": "PÉREZ DE ANUCITA FUERTES, PEIO"
+    },
+    {
+      "min": 66,
+      "entra": "PALOMINO TORRES, XABI",
+      "sale": "ESPINOSA MAGUREGI, KIMETZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 53,
+      "entra": "PEREZ BECERRA, MARCO JAEL",
+      "sale": "DEL VALLE FIGUEREO, AARON"
+    },
+    {
+      "min": 53,
+      "entra": "BENGOETXEA RODRIGUEZ, ASIER",
+      "sale": "DIABATE MICHA, MIGUEL AMARA"
+    },
+    {
+      "min": 70,
+      "entra": "LORENZO GARCIA, JON",
+      "sale": "ARMENTEROS GARCIA, ANDONI"
+    },
+    {
+      "min": 70,
+      "entra": "NARBAIZA URQUIZA, UNAI SEGNI",
+      "sale": "SANTIAGO BILBAO, ANTXON"
+    },
+    {
+      "min": 76,
+      "entra": "AHED MESSAOUD GARCIA, TAREK",
+      "sale": "ROMERA OLIVENZA, JULEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ LANDAJO, UNAI": 90,
+    "VELASCO ARTAZA, PERU": 90,
+    "DE AREITIO GUTIERREZ, RAMON": 90,
+    "LAISECA LOPEZ, MARTIN": 90,
+    "ITURREGUI GOMEZ, LUCA": 52,
+    "ESPINOSA MAGUREGI, KIMETZ": 66,
+    "NIWA, DAIGO": 90,
+    "LAZCANO GALLEGO, ALVARO": 90,
+    "ARDEO CALLEJA, KERMAN": 40,
+    "MENDIA SUAREZ, MARIO": 59,
+    "PÉREZ DE ANUCITA FUERTES, PEIO": 59,
+    "VAZQUEZ MANRIQUE, AITOR": 50,
+    "ARGOITIA MENDIZABAL, XABI": 38,
+    "GONZALEZ VERA, SEBASTIAN ALONZO": 31,
+    "URRUTIA HORAS, ERIK": 31,
+    "PALOMINO TORRES, XABI": 24,
+    "BARTON, MARTIN": 90,
+    "VITORES GODOY, MARTIN": 90,
+    "NOVALES PEREZ, ISKANDER": 90,
+    "SAGLIARDI ROMERO, MASSIMO": 90,
+    "DIABATE MICHA, MIGUEL AMARA": 53,
+    "ARMENTEROS GARCIA, ANDONI": 70,
+    "SANTIAGO BILBAO, ANTXON": 70,
+    "IRIONDO ALBIZU, PAUL": 90,
+    "ZABALA GOÑI, MARTXELO": 90,
+    "DEL VALLE FIGUEREO, AARON": 53,
+    "ROMERA OLIVENZA, JULEN": 76,
+    "PEREZ BECERRA, MARCO JAEL": 37,
+    "BENGOETXEA RODRIGUEZ, ASIER": 37,
+    "LORENZO GARCIA, JON": 20,
+    "NARBAIZA URQUIZA, UNAI SEGNI": 20,
+    "AHED MESSAOUD GARCIA, TAREK": 14
+  },
+  "portero_local": "PEREZ LANDAJO, UNAI",
+  "portero_visitante": "BARTON, MARTIN",
+  "dorsales_local": {
+    "PEREZ LANDAJO, UNAI": 1,
+    "VELASCO ARTAZA, PERU": 2,
+    "DE AREITIO GUTIERREZ, RAMON": 3,
+    "LAISECA LOPEZ, MARTIN": 4,
+    "ITURREGUI GOMEZ, LUCA": 6,
+    "ESPINOSA MAGUREGI, KIMETZ": 7,
+    "NIWA, DAIGO": 10,
+    "LAZCANO GALLEGO, ALVARO": 16,
+    "ARDEO CALLEJA, KERMAN": 19,
+    "MENDIA SUAREZ, MARIO": 20,
+    "PÉREZ DE ANUCITA FUERTES, PEIO": 24
+  },
+  "dorsales_visitante": {
+    "BARTON, MARTIN": 1,
+    "VITORES GODOY, MARTIN": 4,
+    "NOVALES PEREZ, ISKANDER": 5,
+    "SAGLIARDI ROMERO, MASSIMO": 7,
+    "DIABATE MICHA, MIGUEL AMARA": 9,
+    "ARMENTEROS GARCIA, ANDONI": 14,
+    "SANTIAGO BILBAO, ANTXON": 17,
+    "IRIONDO ALBIZU, PAUL": 18,
+    "ZABALA GOÑI, MARTXELO": 21,
+    "DEL VALLE FIGUEREO, AARON": 23,
+    "ROMERA OLIVENZA, JULEN": 24
+  },
+  "suspendidos": []
+}
