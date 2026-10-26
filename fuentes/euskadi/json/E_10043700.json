@@ -1,0 +1,285 @@
+{
+  "acta_id": "E_10043700",
+  "filename": "Acta_E_10043700.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "17-10-2026",
+  "hora": "11:15",
+  "categoria": "CAMPEONATO DE LIGA NACIONAL JUVENIL / GAZTEEN NAZIONAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "LEIOA, S.D. B",
+  "equipo_visitante": "TOLOSA CLUB DE FUTBOL",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "BIS BENITO DEL VALLE, IÑIGO",
+    "Árbitro Asistente",
+    "GOITIA CABRERA, ANDONI",
+    "Árbitro Asistente",
+    "BARAIA-ETXABURU GOMEZ, ALEX"
+  ],
+  "estadio": "SARRIENA 1",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 71,
+      "jugador": "SUAREZ DE LA TORRE, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "MACIAS HERNANDEZ, IGARKI",
+      "equipo": "visitante",
+      "propia": true,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 86,
+      "jugador": "ARRIAGA SANCHEZ, IZAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 87,
+      "jugador": "DEL BRIO LARRIBA, IBAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 44,
+      "jugador": "JIMENEZ ARRECHE, TELMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 57,
+      "jugador": "AGUIRREZABALA MURUA, UGAITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RIVERO GILO, SERGIO",
+  "entrenador_visitante": "ROMERO ROMAN, JOSEBA",
+  "segundo_entrenador_local": "SALGADO HUIDOBRO, MIKEL",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ZÁRATE ROBLEDO, LUIS",
+  "delegado_equipo_visitante": "RODRIGO GOICOECHEA, BEÑAT",
+  "titulares_local": [
+    "ONDIZ LOZA, IORITZ",
+    "GARCIA GONZALEZ, UNAI",
+    "MACIAS HERNANDEZ, IGARKI",
+    "BLANCO NAVAS, PEDRO",
+    "DEL BRIO LARRIBA, IBAI",
+    "LARREA ARANGUREN, LUR",
+    "ARRIAGA SANCHEZ, IZAN",
+    "AGUIRRE GARCIA, MIKEL",
+    "CALVO RECALDE, DANEL",
+    "CLEMENTE FRANCO, AIMAR",
+    "GARTEIZ-GOGEASCOA ORAA, JORGE"
+  ],
+  "titulares_visitante": [
+    "GOROSTIDI OIARTZABAL, AMETZ",
+    "JIMENEZ ARRECHE, TELMO",
+    "GOROSTIDI MARTINEZ, EKI",
+    "AGUIRREZABALA MURUA, UGAITZ",
+    "AZCUE NARRO, IBON",
+    "BALERDI MENDIZABAL, UNAX",
+    "DIAZ DE ALDA SARASOLA, EUSKO",
+    "CONDE MURUGARREN, OXEL",
+    "GOIKOETXEA ITURRIOZ, ALAIN",
+    "MERINO AIZPURU, ANDER",
+    "GARMENDIA IPARRAGUIRRE, MIKEL"
+  ],
+  "suplentes_local": [
+    "DOMINGUEZ GAVIRO, OIER",
+    "LAFARGA VERDEGUER, ALONSO",
+    "RODRIGUEZ RODRIGUEZ, MARCOS",
+    "FLORISTAN QUEVEDO, PABLO",
+    "SANCHEZ IDIRIN, ANER",
+    "GARCIA BARALLOBRE, ENAITZ",
+    "SUAREZ DE LA TORRE, IKER"
+  ],
+  "suplentes_visitante": [
+    "VALERON EGUIGUREN, UNAI",
+    "ESKITXABEL MARICHALAR, XUBAN",
+    "AIZPURUA ECHABURUA, GAIZKA",
+    "CAMPOS IBARGUREN, MANEX",
+    "JAUREGUI BARANDIARAN, MARKEL",
+    "ALBISU RODRIGUEZ, EGOITZ",
+    "IRAETA ARROSPIDE, AIERT"
+  ],
+  "convocados_sin_jugar_local": [
+    "DOMINGUEZ GAVIRO, OIER",
+    "LAFARGA VERDEGUER, ALONSO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "VALERON EGUIGUREN, UNAI",
+    "ESKITXABEL MARICHALAR, XUBAN"
+  ],
+  "jugadores_local": [
+    "ONDIZ LOZA, IORITZ",
+    "GARCIA GONZALEZ, UNAI",
+    "MACIAS HERNANDEZ, IGARKI",
+    "BLANCO NAVAS, PEDRO",
+    "DEL BRIO LARRIBA, IBAI",
+    "LARREA ARANGUREN, LUR",
+    "ARRIAGA SANCHEZ, IZAN",
+    "AGUIRRE GARCIA, MIKEL",
+    "CALVO RECALDE, DANEL",
+    "CLEMENTE FRANCO, AIMAR",
+    "GARTEIZ-GOGEASCOA ORAA, JORGE",
+    "FLORISTAN QUEVEDO, PABLO",
+    "SUAREZ DE LA TORRE, IKER",
+    "GARCIA BARALLOBRE, ENAITZ",
+    "RODRIGUEZ RODRIGUEZ, MARCOS",
+    "SANCHEZ IDIRIN, ANER"
+  ],
+  "jugadores_visitante": [
+    "GOROSTIDI OIARTZABAL, AMETZ",
+    "JIMENEZ ARRECHE, TELMO",
+    "GOROSTIDI MARTINEZ, EKI",
+    "AGUIRREZABALA MURUA, UGAITZ",
+    "AZCUE NARRO, IBON",
+    "BALERDI MENDIZABAL, UNAX",
+    "DIAZ DE ALDA SARASOLA, EUSKO",
+    "CONDE MURUGARREN, OXEL",
+    "GOIKOETXEA ITURRIOZ, ALAIN",
+    "MERINO AIZPURU, ANDER",
+    "GARMENDIA IPARRAGUIRRE, MIKEL",
+    "AIZPURUA ECHABURUA, GAIZKA",
+    "CAMPOS IBARGUREN, MANEX",
+    "IRAETA ARROSPIDE, AIERT",
+    "ALBISU RODRIGUEZ, EGOITZ",
+    "JAUREGUI BARANDIARAN, MARKEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "FLORISTAN QUEVEDO, PABLO",
+      "sale": "LARREA ARANGUREN, LUR"
+    },
+    {
+      "min": 69,
+      "entra": "SUAREZ DE LA TORRE, IKER",
+      "sale": "GARCIA GONZALEZ, UNAI"
+    },
+    {
+      "min": 69,
+      "entra": "GARCIA BARALLOBRE, ENAITZ",
+      "sale": "CLEMENTE FRANCO, AIMAR"
+    },
+    {
+      "min": 78,
+      "entra": "RODRIGUEZ RODRIGUEZ, MARCOS",
+      "sale": "GARTEIZ-GOGEASCOA ORAA, JORGE"
+    },
+    {
+      "min": 80,
+      "entra": "SANCHEZ IDIRIN, ANER",
+      "sale": "CALVO RECALDE, DANEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 77,
+      "entra": "AIZPURUA ECHABURUA, GAIZKA",
+      "sale": "MERINO AIZPURU, ANDER"
+    },
+    {
+      "min": 77,
+      "entra": "CAMPOS IBARGUREN, MANEX",
+      "sale": "AZCUE NARRO, IBON"
+    },
+    {
+      "min": 83,
+      "entra": "IRAETA ARROSPIDE, AIERT",
+      "sale": "GARMENDIA IPARRAGUIRRE, MIKEL"
+    },
+    {
+      "min": 85,
+      "entra": "ALBISU RODRIGUEZ, EGOITZ",
+      "sale": "GOIKOETXEA ITURRIOZ, ALAIN"
+    },
+    {
+      "min": 85,
+      "entra": "JAUREGUI BARANDIARAN, MARKEL",
+      "sale": "JIMENEZ ARRECHE, TELMO"
+    }
+  ],
+  "minutos_jugadores": {
+    "ONDIZ LOZA, IORITZ": 90,
+    "GARCIA GONZALEZ, UNAI": 69,
+    "MACIAS HERNANDEZ, IGARKI": 90,
+    "BLANCO NAVAS, PEDRO": 90,
+    "DEL BRIO LARRIBA, IBAI": 90,
+    "LARREA ARANGUREN, LUR": 45,
+    "ARRIAGA SANCHEZ, IZAN": 90,
+    "AGUIRRE GARCIA, MIKEL": 90,
+    "CALVO RECALDE, DANEL": 80,
+    "CLEMENTE FRANCO, AIMAR": 69,
+    "GARTEIZ-GOGEASCOA ORAA, JORGE": 78,
+    "FLORISTAN QUEVEDO, PABLO": 45,
+    "SUAREZ DE LA TORRE, IKER": 21,
+    "GARCIA BARALLOBRE, ENAITZ": 21,
+    "RODRIGUEZ RODRIGUEZ, MARCOS": 12,
+    "SANCHEZ IDIRIN, ANER": 10,
+    "GOROSTIDI OIARTZABAL, AMETZ": 90,
+    "JIMENEZ ARRECHE, TELMO": 85,
+    "GOROSTIDI MARTINEZ, EKI": 90,
+    "AGUIRREZABALA MURUA, UGAITZ": 90,
+    "AZCUE NARRO, IBON": 77,
+    "BALERDI MENDIZABAL, UNAX": 90,
+    "DIAZ DE ALDA SARASOLA, EUSKO": 90,
+    "CONDE MURUGARREN, OXEL": 90,
+    "GOIKOETXEA ITURRIOZ, ALAIN": 85,
+    "MERINO AIZPURU, ANDER": 77,
+    "GARMENDIA IPARRAGUIRRE, MIKEL": 83,
+    "AIZPURUA ECHABURUA, GAIZKA": 13,
+    "CAMPOS IBARGUREN, MANEX": 13,
+    "IRAETA ARROSPIDE, AIERT": 7,
+    "ALBISU RODRIGUEZ, EGOITZ": 5,
+    "JAUREGUI BARANDIARAN, MARKEL": 5
+  },
+  "portero_local": "ONDIZ LOZA, IORITZ",
+  "portero_visitante": "GOROSTIDI OIARTZABAL, AMETZ",
+  "dorsales_local": {
+    "ONDIZ LOZA, IORITZ": 1,
+    "GARCIA GONZALEZ, UNAI": 3,
+    "MACIAS HERNANDEZ, IGARKI": 5,
+    "BLANCO NAVAS, PEDRO": 6,
+    "DEL BRIO LARRIBA, IBAI": 8,
+    "LARREA ARANGUREN, LUR": 11,
+    "ARRIAGA SANCHEZ, IZAN": 14,
+    "AGUIRRE GARCIA, MIKEL": 15,
+    "CALVO RECALDE, DANEL": 17,
+    "CLEMENTE FRANCO, AIMAR": 20,
+    "GARTEIZ-GOGEASCOA ORAA, JORGE": 22
+  },
+  "dorsales_visitante": {
+    "GOROSTIDI OIARTZABAL, AMETZ": 1,
+    "JIMENEZ ARRECHE, TELMO": 2,
+    "GOROSTIDI MARTINEZ, EKI": 3,
+    "AGUIRREZABALA MURUA, UGAITZ": 4,
+    "AZCUE NARRO, IBON": 6,
+    "BALERDI MENDIZABAL, UNAX": 9,
+    "DIAZ DE ALDA SARASOLA, EUSKO": 10,
+    "CONDE MURUGARREN, OXEL": 11,
+    "GOIKOETXEA ITURRIOZ, ALAIN": 15,
+    "MERINO AIZPURU, ANDER": 19,
+    "GARMENDIA IPARRAGUIRRE, MIKEL": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
