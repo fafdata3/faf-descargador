@@ -1,0 +1,258 @@
+{
+  "acta_id": "CY_26157273",
+  "filename": "Acta_CY_26157273.txt",
+  "fuente": "castillayleon",
+  "temporada": "2026-2027",
+  "jornada": 5,
+  "fecha": "17-10-2026",
+  "hora": "12:00",
+  "categoria": "1ª División Provincial de Infantiles (Primera - Burgos)",
+  "equipo_local": "C.D. Mirandés Promesas Charca",
+  "equipo_visitante": "Vadillos C.F.",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro",
+    "REY GARCIA, MARCOS"
+  ],
+  "estadio": "C.M. Ence 2",
+  "ciudad": "Miranda de Ebro",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "PALMA VESGA, ARITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 24,
+      "jugador": "SANJURJO MARTINEZ, TELMO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "BENALI BENAMAR, AYMEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "PALMA VESGA, ARITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 22,
+      "jugador": "MONEDERO ARCE, ALVARO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GOMEZ MARTINEZ, DANIEL",
+  "entrenador_visitante": "LOPEZ VARONA, ENRIQUE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ALONSO SAETA, ABEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "URRUTIA GALLEGO, SERGIO",
+  "delegado_equipo_visitante": "DE LA CALLE FUENTE, ALVARO",
+  "titulares_local": [
+    "PERAL GARRIDO, XABIER",
+    "PORTILLO BARRIOCANAL, ALEX",
+    "DE LAS HERAS ARAUJO, ERICK",
+    "VERA DIESTRA, LUCIANO NICKOLAS",
+    "LEON GARCIA, SERGIO",
+    "CARMONA GUZMAN, JORGE",
+    "BEDIAKO KUSI, JASON ADOMAKO",
+    "MOUTAWAKKIL, MOHAMMED AMIN",
+    "PALMA VESGA, ARITZ",
+    "CORTES SANCHEZ, MARLON ALEJANDRO",
+    "SANJURJO MARTINEZ, TELMO"
+  ],
+  "titulares_visitante": [
+    "LOPEZ MAGALDE, RODRIGO",
+    "MARISCAL GONZALEZ, JULIO",
+    "VILLAN AMOR, ALEJANDRO",
+    "DE LA CALLE REVILLA, JOEL",
+    "MARIN PEÑAS, MANUEL",
+    "CAMINO SANZ, ALVAR",
+    "BENALI BENAMAR, AYMEN",
+    "MARCOS DIEZ DEL VALLE, ASIER",
+    "RAMIREZ ORTIZ, ADRIAN",
+    "GARCIA PEREIRAS, ADRIAN JESUS",
+    "MONEDERO ARCE, ALVARO"
+  ],
+  "suplentes_local": [
+    "BEN ABDELLAH, YOUSSEF",
+    "JIMENEZ RODRIGUEZ, NUNO ORION",
+    "GARCIA GOMEZ, ALBERTO",
+    "GARCIA ANCIN, NOAH",
+    "ALONSO SAN JOSE, HUGO"
+  ],
+  "suplentes_visitante": [
+    "ALONSO MARQUEZ, NICOLAS",
+    "DEL VAL URRUTIA, ALONSO",
+    "GUTIERREZ GONZALEZ, DIEGO",
+    "RIOFRIO LOPEZ, MATTEO",
+    "DIEZ GUTIERREZ, BRUNO"
+  ],
+  "convocados_sin_jugar_local": [
+    "BEN ABDELLAH, YOUSSEF"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PERAL GARRIDO, XABIER",
+    "PORTILLO BARRIOCANAL, ALEX",
+    "DE LAS HERAS ARAUJO, ERICK",
+    "VERA DIESTRA, LUCIANO NICKOLAS",
+    "LEON GARCIA, SERGIO",
+    "CARMONA GUZMAN, JORGE",
+    "BEDIAKO KUSI, JASON ADOMAKO",
+    "MOUTAWAKKIL, MOHAMMED AMIN",
+    "PALMA VESGA, ARITZ",
+    "CORTES SANCHEZ, MARLON ALEJANDRO",
+    "SANJURJO MARTINEZ, TELMO",
+    "JIMENEZ RODRIGUEZ, NUNO ORION",
+    "ALONSO SAN JOSE, HUGO",
+    "GARCIA ANCIN, NOAH",
+    "GARCIA GOMEZ, ALBERTO"
+  ],
+  "jugadores_visitante": [
+    "LOPEZ MAGALDE, RODRIGO",
+    "MARISCAL GONZALEZ, JULIO",
+    "VILLAN AMOR, ALEJANDRO",
+    "DE LA CALLE REVILLA, JOEL",
+    "MARIN PEÑAS, MANUEL",
+    "CAMINO SANZ, ALVAR",
+    "BENALI BENAMAR, AYMEN",
+    "MARCOS DIEZ DEL VALLE, ASIER",
+    "RAMIREZ ORTIZ, ADRIAN",
+    "GARCIA PEREIRAS, ADRIAN JESUS",
+    "MONEDERO ARCE, ALVARO",
+    "GUTIERREZ GONZALEZ, DIEGO",
+    "ALONSO MARQUEZ, NICOLAS",
+    "RIOFRIO LOPEZ, MATTEO",
+    "DIEZ GUTIERREZ, BRUNO",
+    "DEL VAL URRUTIA, ALONSO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 42,
+      "entra": "JIMENEZ RODRIGUEZ, NUNO ORION",
+      "sale": "CORTES SANCHEZ, MARLON ALEJANDRO"
+    },
+    {
+      "min": 60,
+      "entra": "ALONSO SAN JOSE, HUGO",
+      "sale": "MOUTAWAKKIL, MOHAMMED AMIN"
+    },
+    {
+      "min": 63,
+      "entra": "GARCIA ANCIN, NOAH",
+      "sale": "LEON GARCIA, SERGIO"
+    },
+    {
+      "min": 65,
+      "entra": "GARCIA GOMEZ, ALBERTO",
+      "sale": "BEDIAKO KUSI, JASON ADOMAKO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 31,
+      "entra": "GUTIERREZ GONZALEZ, DIEGO",
+      "sale": "MARCOS DIEZ DEL VALLE, ASIER"
+    },
+    {
+      "min": 39,
+      "entra": "ALONSO MARQUEZ, NICOLAS",
+      "sale": "CAMINO SANZ, ALVAR"
+    },
+    {
+      "min": 55,
+      "entra": "RIOFRIO LOPEZ, MATTEO",
+      "sale": "MARIN PEÑAS, MANUEL"
+    },
+    {
+      "min": 58,
+      "entra": "DIEZ GUTIERREZ, BRUNO",
+      "sale": "VILLAN AMOR, ALEJANDRO"
+    },
+    {
+      "min": 60,
+      "entra": "DEL VAL URRUTIA, ALONSO",
+      "sale": "RAMIREZ ORTIZ, ADRIAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "PERAL GARRIDO, XABIER": 90,
+    "PORTILLO BARRIOCANAL, ALEX": 90,
+    "DE LAS HERAS ARAUJO, ERICK": 90,
+    "VERA DIESTRA, LUCIANO NICKOLAS": 90,
+    "LEON GARCIA, SERGIO": 63,
+    "CARMONA GUZMAN, JORGE": 90,
+    "BEDIAKO KUSI, JASON ADOMAKO": 65,
+    "MOUTAWAKKIL, MOHAMMED AMIN": 60,
+    "PALMA VESGA, ARITZ": 90,
+    "CORTES SANCHEZ, MARLON ALEJANDRO": 42,
+    "SANJURJO MARTINEZ, TELMO": 90,
+    "JIMENEZ RODRIGUEZ, NUNO ORION": 48,
+    "ALONSO SAN JOSE, HUGO": 30,
+    "GARCIA ANCIN, NOAH": 27,
+    "GARCIA GOMEZ, ALBERTO": 25,
+    "LOPEZ MAGALDE, RODRIGO": 90,
+    "MARISCAL GONZALEZ, JULIO": 90,
+    "VILLAN AMOR, ALEJANDRO": 58,
+    "DE LA CALLE REVILLA, JOEL": 90,
+    "MARIN PEÑAS, MANUEL": 55,
+    "CAMINO SANZ, ALVAR": 39,
+    "BENALI BENAMAR, AYMEN": 90,
+    "MARCOS DIEZ DEL VALLE, ASIER": 31,
+    "RAMIREZ ORTIZ, ADRIAN": 60,
+    "GARCIA PEREIRAS, ADRIAN JESUS": 90,
+    "MONEDERO ARCE, ALVARO": 90,
+    "GUTIERREZ GONZALEZ, DIEGO": 59,
+    "ALONSO MARQUEZ, NICOLAS": 51,
+    "RIOFRIO LOPEZ, MATTEO": 35,
+    "DIEZ GUTIERREZ, BRUNO": 32,
+    "DEL VAL URRUTIA, ALONSO": 30
+  },
+  "portero_local": "PERAL GARRIDO, XABIER",
+  "portero_visitante": "LOPEZ MAGALDE, RODRIGO",
+  "dorsales_local": {
+    "PERAL GARRIDO, XABIER": 13,
+    "PORTILLO BARRIOCANAL, ALEX": 3,
+    "DE LAS HERAS ARAUJO, ERICK": 4,
+    "VERA DIESTRA, LUCIANO NICKOLAS": 5,
+    "LEON GARCIA, SERGIO": 6,
+    "CARMONA GUZMAN, JORGE": 7,
+    "BEDIAKO KUSI, JASON ADOMAKO": 10,
+    "MOUTAWAKKIL, MOHAMMED AMIN": 11,
+    "PALMA VESGA, ARITZ": 15,
+    "CORTES SANCHEZ, MARLON ALEJANDRO": 16,
+    "SANJURJO MARTINEZ, TELMO": 18
+  },
+  "dorsales_visitante": {
+    "LOPEZ MAGALDE, RODRIGO": 13,
+    "MARISCAL GONZALEZ, JULIO": 3,
+    "VILLAN AMOR, ALEJANDRO": 4,
+    "DE LA CALLE REVILLA, JOEL": 5,
+    "MARIN PEÑAS, MANUEL": 6,
+    "CAMINO SANZ, ALVAR": 8,
+    "BENALI BENAMAR, AYMEN": 10,
+    "MARCOS DIEZ DEL VALLE, ASIER": 12,
+    "RAMIREZ ORTIZ, ADRIAN": 17,
+    "GARCIA PEREIRAS, ADRIAN JESUS": 18,
+    "MONEDERO ARCE, ALVARO": 20
+  },
+  "suspendidos": []
+}
