@@ -1,0 +1,261 @@
+{
+  "acta_id": "C_244586",
+  "filename": "Acta_C_244586.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "24-10-2026",
+  "hora": "11:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO B)",
+  "equipo_local": "E.M.F. AMPUERO",
+  "equipo_visitante": "E.M.F. COLINDRES A",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GADEA LOPEZ, MARIO"
+  ],
+  "estadio": "Castillo",
+  "ciudad": "Arnuero",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "SETIEN PIÑAL, ERIC",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "SETIEN PIÑAL, ERIC",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "SETIEN PIÑAL, ERIC",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "PORTILLO BALLESTEROS, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "OJEDA, JEREMIAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 34,
+      "jugador": "DE LA MAZA GUTIERREZ, MARIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 31,
+      "jugador": "DEL VALLE MARTIN, RUBEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "FLORES PARDO, JAIRO",
+  "entrenador_visitante": "VALLE PACHECO, VICENTE",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "GAMIZO DE PRADO, SAUL",
+    "HERRERÍA PELLITERO, OLIVER",
+    "MONCALEAN LOMBERA, ALVARO",
+    "GOMEZ CANO, DYLAN DAVID",
+    "PORTILLO BALLESTEROS, IKER",
+    "DE LA MAZA GUTIERREZ, MARIO",
+    "SERNA ORTIZ, LEO",
+    "SETIEN PIÑAL, ERIC",
+    "VERANO CERECEDO, YOEL",
+    "MERINO FERNANDEZ, ALIO",
+    "GONZALEZ MAZA, LOLA"
+  ],
+  "titulares_visitante": [
+    "ANDONEGUI FOSSI, MIKEL",
+    "GUTIERREZ ALVAREZ, MARIO",
+    "TRUEBA MAZA, ISMAEL",
+    "DEL VALLE MARTIN, RUBEN",
+    "BLANCO RODRIGUEZ, ADRIAN",
+    "RODRIGUEZ CRESPO, ENZO",
+    "MARTIN VIGISTAIN, YERAY",
+    "GUERRERO SAN EMETERIO, IKER",
+    "DE MIGUEL ARRIAGA, MARIO",
+    "PELLON MAZA, MARCOS",
+    "ARGOS HERNANDEZ, EKAIN"
+  ],
+  "suplentes_local": [
+    "SETIEN FRESNEDO, IKER",
+    "GOMÉ CUESTA, ANDRES",
+    "SOUTO VERDEJA, GABRIEL",
+    "OJEDA, JEREMIAS",
+    "QUINTANA RODRIGUEZ, LEO"
+  ],
+  "suplentes_visitante": [
+    "DIAZ NUÑEZ, MANUEL",
+    "BARRUETABEÑA BOLLAIN, LEO",
+    "PIEDRA RUIZ, MARIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GAMIZO DE PRADO, SAUL",
+    "HERRERÍA PELLITERO, OLIVER",
+    "MONCALEAN LOMBERA, ALVARO",
+    "GOMEZ CANO, DYLAN DAVID",
+    "PORTILLO BALLESTEROS, IKER",
+    "DE LA MAZA GUTIERREZ, MARIO",
+    "SERNA ORTIZ, LEO",
+    "SETIEN PIÑAL, ERIC",
+    "VERANO CERECEDO, YOEL",
+    "MERINO FERNANDEZ, ALIO",
+    "GONZALEZ MAZA, LOLA",
+    "OJEDA, JEREMIAS",
+    "GOMÉ CUESTA, ANDRES",
+    "QUINTANA RODRIGUEZ, LEO",
+    "SETIEN FRESNEDO, IKER",
+    "SOUTO VERDEJA, GABRIEL"
+  ],
+  "jugadores_visitante": [
+    "ANDONEGUI FOSSI, MIKEL",
+    "GUTIERREZ ALVAREZ, MARIO",
+    "TRUEBA MAZA, ISMAEL",
+    "DEL VALLE MARTIN, RUBEN",
+    "BLANCO RODRIGUEZ, ADRIAN",
+    "RODRIGUEZ CRESPO, ENZO",
+    "MARTIN VIGISTAIN, YERAY",
+    "GUERRERO SAN EMETERIO, IKER",
+    "DE MIGUEL ARRIAGA, MARIO",
+    "PELLON MAZA, MARCOS",
+    "ARGOS HERNANDEZ, EKAIN",
+    "DIAZ NUÑEZ, MANUEL",
+    "BARRUETABEÑA BOLLAIN, LEO",
+    "PIEDRA RUIZ, MARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 39,
+      "entra": "OJEDA, JEREMIAS",
+      "sale": "MONCALEAN LOMBERA, ALVARO"
+    },
+    {
+      "min": 43,
+      "entra": "GOMÉ CUESTA, ANDRES",
+      "sale": "GONZALEZ MAZA, LOLA"
+    },
+    {
+      "min": 58,
+      "entra": "QUINTANA RODRIGUEZ, LEO",
+      "sale": "GOMEZ CANO, DYLAN DAVID"
+    },
+    {
+      "min": 64,
+      "entra": "SETIEN FRESNEDO, IKER",
+      "sale": "SERNA ORTIZ, LEO"
+    },
+    {
+      "min": 66,
+      "entra": "SOUTO VERDEJA, GABRIEL",
+      "sale": "SETIEN PIÑAL, ERIC"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "DIAZ NUÑEZ, MANUEL",
+      "sale": "ANDONEGUI FOSSI, MIKEL"
+    },
+    {
+      "min": 35,
+      "entra": "BARRUETABEÑA BOLLAIN, LEO",
+      "sale": "MARTIN VIGISTAIN, YERAY"
+    },
+    {
+      "min": 47,
+      "entra": "PIEDRA RUIZ, MARIO",
+      "sale": "TRUEBA MAZA, ISMAEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "GAMIZO DE PRADO, SAUL": 90,
+    "HERRERÍA PELLITERO, OLIVER": 90,
+    "MONCALEAN LOMBERA, ALVARO": 39,
+    "GOMEZ CANO, DYLAN DAVID": 58,
+    "PORTILLO BALLESTEROS, IKER": 90,
+    "DE LA MAZA GUTIERREZ, MARIO": 90,
+    "SERNA ORTIZ, LEO": 64,
+    "SETIEN PIÑAL, ERIC": 66,
+    "VERANO CERECEDO, YOEL": 90,
+    "MERINO FERNANDEZ, ALIO": 90,
+    "GONZALEZ MAZA, LOLA": 43,
+    "OJEDA, JEREMIAS": 51,
+    "GOMÉ CUESTA, ANDRES": 47,
+    "QUINTANA RODRIGUEZ, LEO": 32,
+    "SETIEN FRESNEDO, IKER": 26,
+    "SOUTO VERDEJA, GABRIEL": 24,
+    "ANDONEGUI FOSSI, MIKEL": 35,
+    "GUTIERREZ ALVAREZ, MARIO": 90,
+    "TRUEBA MAZA, ISMAEL": 47,
+    "DEL VALLE MARTIN, RUBEN": 90,
+    "BLANCO RODRIGUEZ, ADRIAN": 90,
+    "RODRIGUEZ CRESPO, ENZO": 90,
+    "MARTIN VIGISTAIN, YERAY": 35,
+    "GUERRERO SAN EMETERIO, IKER": 90,
+    "DE MIGUEL ARRIAGA, MARIO": 90,
+    "PELLON MAZA, MARCOS": 90,
+    "ARGOS HERNANDEZ, EKAIN": 90,
+    "DIAZ NUÑEZ, MANUEL": 55,
+    "BARRUETABEÑA BOLLAIN, LEO": 55,
+    "PIEDRA RUIZ, MARIO": 43
+  },
+  "portero_local": "GAMIZO DE PRADO, SAUL",
+  "portero_visitante": "ANDONEGUI FOSSI, MIKEL",
+  "dorsales_local": {
+    "GAMIZO DE PRADO, SAUL": 13,
+    "HERRERÍA PELLITERO, OLIVER": 2,
+    "MONCALEAN LOMBERA, ALVARO": 4,
+    "GOMEZ CANO, DYLAN DAVID": 6,
+    "PORTILLO BALLESTEROS, IKER": 7,
+    "DE LA MAZA GUTIERREZ, MARIO": 12,
+    "SERNA ORTIZ, LEO": 14,
+    "SETIEN PIÑAL, ERIC": 15,
+    "VERANO CERECEDO, YOEL": 17,
+    "MERINO FERNANDEZ, ALIO": 20,
+    "GONZALEZ MAZA, LOLA": 25
+  },
+  "dorsales_visitante": {
+    "ANDONEGUI FOSSI, MIKEL": 1,
+    "GUTIERREZ ALVAREZ, MARIO": 2,
+    "TRUEBA MAZA, ISMAEL": 3,
+    "DEL VALLE MARTIN, RUBEN": 6,
+    "BLANCO RODRIGUEZ, ADRIAN": 7,
+    "RODRIGUEZ CRESPO, ENZO": 8,
+    "MARTIN VIGISTAIN, YERAY": 11,
+    "GUERRERO SAN EMETERIO, IKER": 14,
+    "DE MIGUEL ARRIAGA, MARIO": 16,
+    "PELLON MAZA, MARCOS": 19,
+    "ARGOS HERNANDEZ, EKAIN": 20
+  },
+  "suspendidos": []
+}
