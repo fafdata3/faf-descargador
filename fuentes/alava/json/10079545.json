@@ -1,0 +1,291 @@
+{
+  "acta_id": "10079545",
+  "filename": "Acta_10079545.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "18-10-2026",
+  "hora": "09:30",
+  "categoria": "PRIMERA JUVENIL / GAZTEEN LEHEN MAILA (GRUPO - 1)",
+  "equipo_local": "SAN MARTIN C.D.F. B",
+  "equipo_visitante": "MERCEDARIAS K.E., A.D. B",
+  "goles_local": 1,
+  "goles_visitante": 6,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "PÉREZ DE NANCLARES LOPEZ DE OCARIZ, IGONE"
+  ],
+  "estadio": "SAN MARTIN",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "FERNANDES CERECEDA, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 17,
+      "jugador": "FERNANDES CERECEDA, JULEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "SEVILLA GARCIA, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "ENCINAS CACHON, IBAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "ENCINAS CACHON, IBAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 75,
+      "jugador": "SEVILLA GARCIA, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 85,
+      "jugador": "BENIGNO DIAZ, GABRIEL NICOLAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 60,
+      "jugador": "DE SOSA PALOMINO, AIMAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MANJON MATEOS, JONATHAN",
+  "entrenador_visitante": "COSTALAGO GARCIA, OIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CANO MORANTA, ANTONIO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "LOPEZ GALVEZ, IVAN",
+  "delegado_equipo_visitante": "RUIZ DE AZUA BELTRAN DE HEREDIA, NESTOR",
+  "titulares_local": [
+    "ESTENAGA GIL, ENEKO",
+    "IZARRA CALVO, ENEKO",
+    "IZQUIERDO GARIBI, IBON",
+    "GIL TERROBA, ALBERTO",
+    "QUESADA DOMINGUEZ, RICHEL LAZARO",
+    "RAMOS MARTINEZ, JULEN",
+    "CHICOTE MARTIN, GORKA",
+    "QUINTANA HUERGA, IBAI",
+    "BEOBIDE TEJADA, JON",
+    "ESSOUALI, OUALID",
+    "ZANNOUTI MAZGOUTI, BADR EDDINE"
+  ],
+  "titulares_visitante": [
+    "DURAN CUARTAS, DILAN",
+    "FERNANDES CERECEDA, JULEN",
+    "SAMASSA SYLLA, DIADIE",
+    "DE SOSA PALOMINO, AIMAR",
+    "MATEOS VEGA, IKER",
+    "EZQUERRA FERNANDEZ, UNAX",
+    "ENCINAS CACHON, IBAI",
+    "SEVILLA GARCIA, HUGO",
+    "FERREIRA TREJOS, TAYLOR ANDRES",
+    "BASOCO BORINAGA, NICOLAS",
+    "IGNATENKO VOVK, VLADISLAV"
+  ],
+  "suplentes_local": [
+    "MARTINEZ LOBO, JULEN",
+    "BENIGNO DIAZ, GABRIEL NICOLAS",
+    "BALSATEGUI SANCHEZ, MIKEL",
+    "COLINO SESTO, DANEL",
+    "LEDO ARTOLA, OIER",
+    "SANTOS SANTIAGO MANTEGAZZA, LUIGI"
+  ],
+  "suplentes_visitante": [
+    "DIAZ ROMERO, MARCOS",
+    "PEREZ MORENO, IZAN",
+    "RAMOS PEÑA, DILAN SANTIAGO",
+    "PAZOS REGUERO, RUBEN",
+    "PEREIRA GARCIA, HODEI",
+    "OSAGIE, GREAT"
+  ],
+  "convocados_sin_jugar_local": [
+    "LEDO ARTOLA, OIER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DIAZ ROMERO, MARCOS"
+  ],
+  "jugadores_local": [
+    "ESTENAGA GIL, ENEKO",
+    "IZARRA CALVO, ENEKO",
+    "IZQUIERDO GARIBI, IBON",
+    "GIL TERROBA, ALBERTO",
+    "QUESADA DOMINGUEZ, RICHEL LAZARO",
+    "RAMOS MARTINEZ, JULEN",
+    "CHICOTE MARTIN, GORKA",
+    "QUINTANA HUERGA, IBAI",
+    "BEOBIDE TEJADA, JON",
+    "ESSOUALI, OUALID",
+    "ZANNOUTI MAZGOUTI, BADR EDDINE",
+    "BENIGNO DIAZ, GABRIEL NICOLAS",
+    "SANTOS SANTIAGO MANTEGAZZA, LUIGI",
+    "MARTINEZ LOBO, JULEN",
+    "COLINO SESTO, DANEL",
+    "BALSATEGUI SANCHEZ, MIKEL"
+  ],
+  "jugadores_visitante": [
+    "DURAN CUARTAS, DILAN",
+    "FERNANDES CERECEDA, JULEN",
+    "SAMASSA SYLLA, DIADIE",
+    "DE SOSA PALOMINO, AIMAR",
+    "MATEOS VEGA, IKER",
+    "EZQUERRA FERNANDEZ, UNAX",
+    "ENCINAS CACHON, IBAI",
+    "SEVILLA GARCIA, HUGO",
+    "FERREIRA TREJOS, TAYLOR ANDRES",
+    "BASOCO BORINAGA, NICOLAS",
+    "IGNATENKO VOVK, VLADISLAV",
+    "OSAGIE, GREAT",
+    "PEREIRA GARCIA, HODEI",
+    "PEREZ MORENO, IZAN",
+    "PAZOS REGUERO, RUBEN",
+    "RAMOS PEÑA, DILAN SANTIAGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "BENIGNO DIAZ, GABRIEL NICOLAS",
+      "sale": "QUESADA DOMINGUEZ, RICHEL LAZARO"
+    },
+    {
+      "min": 58,
+      "entra": "SANTOS SANTIAGO MANTEGAZZA, LUIGI",
+      "sale": "RAMOS MARTINEZ, JULEN"
+    },
+    {
+      "min": 70,
+      "entra": "MARTINEZ LOBO, JULEN",
+      "sale": "ZANNOUTI MAZGOUTI, BADR EDDINE"
+    },
+    {
+      "min": 75,
+      "entra": "COLINO SESTO, DANEL",
+      "sale": "CHICOTE MARTIN, GORKA"
+    },
+    {
+      "min": 75,
+      "entra": "BALSATEGUI SANCHEZ, MIKEL",
+      "sale": "GIL TERROBA, ALBERTO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 68,
+      "entra": "OSAGIE, GREAT",
+      "sale": "EZQUERRA FERNANDEZ, UNAX"
+    },
+    {
+      "min": 72,
+      "entra": "PEREIRA GARCIA, HODEI",
+      "sale": "ENCINAS CACHON, IBAI"
+    },
+    {
+      "min": 72,
+      "entra": "PEREZ MORENO, IZAN",
+      "sale": "SAMASSA SYLLA, DIADIE"
+    },
+    {
+      "min": 79,
+      "entra": "PAZOS REGUERO, RUBEN",
+      "sale": "SEVILLA GARCIA, HUGO"
+    },
+    {
+      "min": 79,
+      "entra": "RAMOS PEÑA, DILAN SANTIAGO",
+      "sale": "FERREIRA TREJOS, TAYLOR ANDRES"
+    }
+  ],
+  "minutos_jugadores": {
+    "ESTENAGA GIL, ENEKO": 90,
+    "IZARRA CALVO, ENEKO": 90,
+    "IZQUIERDO GARIBI, IBON": 90,
+    "GIL TERROBA, ALBERTO": 75,
+    "QUESADA DOMINGUEZ, RICHEL LAZARO": 58,
+    "RAMOS MARTINEZ, JULEN": 58,
+    "CHICOTE MARTIN, GORKA": 75,
+    "QUINTANA HUERGA, IBAI": 90,
+    "BEOBIDE TEJADA, JON": 90,
+    "ESSOUALI, OUALID": 90,
+    "ZANNOUTI MAZGOUTI, BADR EDDINE": 70,
+    "BENIGNO DIAZ, GABRIEL NICOLAS": 32,
+    "SANTOS SANTIAGO MANTEGAZZA, LUIGI": 32,
+    "MARTINEZ LOBO, JULEN": 20,
+    "COLINO SESTO, DANEL": 15,
+    "BALSATEGUI SANCHEZ, MIKEL": 15,
+    "DURAN CUARTAS, DILAN": 90,
+    "FERNANDES CERECEDA, JULEN": 90,
+    "SAMASSA SYLLA, DIADIE": 72,
+    "DE SOSA PALOMINO, AIMAR": 90,
+    "MATEOS VEGA, IKER": 90,
+    "EZQUERRA FERNANDEZ, UNAX": 68,
+    "ENCINAS CACHON, IBAI": 72,
+    "SEVILLA GARCIA, HUGO": 79,
+    "FERREIRA TREJOS, TAYLOR ANDRES": 79,
+    "BASOCO BORINAGA, NICOLAS": 90,
+    "IGNATENKO VOVK, VLADISLAV": 90,
+    "OSAGIE, GREAT": 22,
+    "PEREIRA GARCIA, HODEI": 18,
+    "PEREZ MORENO, IZAN": 18,
+    "PAZOS REGUERO, RUBEN": 11,
+    "RAMOS PEÑA, DILAN SANTIAGO": 11
+  },
+  "portero_local": "ESTENAGA GIL, ENEKO",
+  "portero_visitante": "DURAN CUARTAS, DILAN",
+  "dorsales_local": {
+    "ESTENAGA GIL, ENEKO": 1,
+    "IZARRA CALVO, ENEKO": 2,
+    "IZQUIERDO GARIBI, IBON": 3,
+    "GIL TERROBA, ALBERTO": 8,
+    "QUESADA DOMINGUEZ, RICHEL LAZARO": 9,
+    "RAMOS MARTINEZ, JULEN": 15,
+    "CHICOTE MARTIN, GORKA": 17,
+    "QUINTANA HUERGA, IBAI": 20,
+    "BEOBIDE TEJADA, JON": 22,
+    "ESSOUALI, OUALID": 23,
+    "ZANNOUTI MAZGOUTI, BADR EDDINE": 27
+  },
+  "dorsales_visitante": {
+    "DURAN CUARTAS, DILAN": 1,
+    "FERNANDES CERECEDA, JULEN": 6,
+    "SAMASSA SYLLA, DIADIE": 7,
+    "DE SOSA PALOMINO, AIMAR": 12,
+    "MATEOS VEGA, IKER": 14,
+    "EZQUERRA FERNANDEZ, UNAX": 18,
+    "ENCINAS CACHON, IBAI": 22,
+    "SEVILLA GARCIA, HUGO": 23,
+    "FERREIRA TREJOS, TAYLOR ANDRES": 33,
+    "BASOCO BORINAGA, NICOLAS": 37,
+    "IGNATENKO VOVK, VLADISLAV": 77
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
