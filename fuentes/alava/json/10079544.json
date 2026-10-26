@@ -1,0 +1,241 @@
+{
+  "acta_id": "10079544",
+  "filename": "Acta_10079544.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 3,
+  "fecha": "18-10-2026",
+  "hora": "12:15",
+  "categoria": "PRIMERA JUVENIL / GAZTEEN LEHEN MAILA (GRUPO - 1)",
+  "equipo_local": "LAUDIO F. SAN ROKEZAR C.D. C",
+  "equipo_visitante": "AYUDA CONDADO DE TREVIÑO, CD",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "BECI EGUIA, ENEKO"
+  ],
+  "estadio": "ELLAKURI",
+  "ciudad": "Laudio",
+  "goleadores": [
+    {
+      "minuto": 23,
+      "jugador": "ECHEVARRIA PRIETO, ANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "ECHEVARRIA PRIETO, ANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 27,
+      "jugador": "UNZAGA VILLANUEVA, ENDIKA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "AHMED OMAR, BRAHIM",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "AHMED OMAR, BRAHIM",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 76,
+      "jugador": "RODRIGUEZ PEREZ, DANIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "AÑIBARRO MANTEROLA, LUIS MARIA",
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "OJEDA RUIZ, LEIRE",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "OJEDA RUIZ, LEIRE",
+  "delegado_equipo_visitante": "PALOMO RAMIREZ, OIHANE",
+  "titulares_local": [
+    "OLAMENDI GARCIA, KOLDO",
+    "ARIAS LOPEZ, ANARTZ",
+    "LORZ EGIA, ENEKO",
+    "ECHEVARRIA PRIETO, ANDER",
+    "HERRERA VELASQUEZ, JUAN SEBASTIAN",
+    "GARCIA MARTIN, ENDIKA",
+    "AHMED OMAR, BRAHIM",
+    "SANCHEZ LECEAGA, JOSU ENDIKA",
+    "RODRIGO GONZALEZ, AIMAR",
+    "PEREZ BARRIUSO, IBAI",
+    "UNZAGA VILLANUEVA, ENDIKA"
+  ],
+  "titulares_visitante": [
+    "PALOMO RAMIREZ, JULEN",
+    "BAÑUELOS VICARIO, HECTOR",
+    "CANTERO GOMEZ, JAGOBA",
+    "BENAVIDES TAGUADO, IAN",
+    "MORALES PANEQUE, GONZALO",
+    "CANO ALONSO, UNAX",
+    "CRESPO MARTINEZ, DEXTER",
+    "GONZALEZ-BENGOA SALAZAR, TELMO",
+    "RODRIGUEZ MARTINEZ, BRUNO",
+    "RODRIGUEZ PEREZ, DANIEL",
+    "DURANA SUEIRO, ERIK"
+  ],
+  "suplentes_local": [
+    "LANDALUCE FERNANDEZ, OIER",
+    "CATALAN UGARTE, AITOR",
+    "FERNANDEZ SANCHEZ, ASIER",
+    "MOHAMED SAID, ZAH GHALI",
+    "ARAUJO CANTERO, OIER"
+  ],
+  "suplentes_visitante": [
+    "LARGO SAN JUAN, ARKAITZ"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "OLAMENDI GARCIA, KOLDO",
+    "ARIAS LOPEZ, ANARTZ",
+    "LORZ EGIA, ENEKO",
+    "ECHEVARRIA PRIETO, ANDER",
+    "HERRERA VELASQUEZ, JUAN SEBASTIAN",
+    "GARCIA MARTIN, ENDIKA",
+    "AHMED OMAR, BRAHIM",
+    "SANCHEZ LECEAGA, JOSU ENDIKA",
+    "RODRIGO GONZALEZ, AIMAR",
+    "PEREZ BARRIUSO, IBAI",
+    "UNZAGA VILLANUEVA, ENDIKA",
+    "ARAUJO CANTERO, OIER",
+    "LANDALUCE FERNANDEZ, OIER",
+    "CATALAN UGARTE, AITOR",
+    "FERNANDEZ SANCHEZ, ASIER",
+    "MOHAMED SAID, ZAH GHALI"
+  ],
+  "jugadores_visitante": [
+    "PALOMO RAMIREZ, JULEN",
+    "BAÑUELOS VICARIO, HECTOR",
+    "CANTERO GOMEZ, JAGOBA",
+    "BENAVIDES TAGUADO, IAN",
+    "MORALES PANEQUE, GONZALO",
+    "CANO ALONSO, UNAX",
+    "CRESPO MARTINEZ, DEXTER",
+    "GONZALEZ-BENGOA SALAZAR, TELMO",
+    "RODRIGUEZ MARTINEZ, BRUNO",
+    "RODRIGUEZ PEREZ, DANIEL",
+    "DURANA SUEIRO, ERIK",
+    "LARGO SAN JUAN, ARKAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "ARAUJO CANTERO, OIER",
+      "sale": "UNZAGA VILLANUEVA, ENDIKA"
+    },
+    {
+      "min": 76,
+      "entra": "LANDALUCE FERNANDEZ, OIER",
+      "sale": "ECHEVARRIA PRIETO, ANDER"
+    },
+    {
+      "min": 80,
+      "entra": "CATALAN UGARTE, AITOR",
+      "sale": "HERRERA VELASQUEZ, JUAN SEBASTIAN"
+    },
+    {
+      "min": 81,
+      "entra": "FERNANDEZ SANCHEZ, ASIER",
+      "sale": "LORZ EGIA, ENEKO"
+    },
+    {
+      "min": 86,
+      "entra": "MOHAMED SAID, ZAH GHALI",
+      "sale": "RODRIGO GONZALEZ, AIMAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "LARGO SAN JUAN, ARKAITZ",
+      "sale": "CANO ALONSO, UNAX"
+    }
+  ],
+  "minutos_jugadores": {
+    "OLAMENDI GARCIA, KOLDO": 90,
+    "ARIAS LOPEZ, ANARTZ": 90,
+    "LORZ EGIA, ENEKO": 81,
+    "ECHEVARRIA PRIETO, ANDER": 76,
+    "HERRERA VELASQUEZ, JUAN SEBASTIAN": 80,
+    "GARCIA MARTIN, ENDIKA": 90,
+    "AHMED OMAR, BRAHIM": 90,
+    "SANCHEZ LECEAGA, JOSU ENDIKA": 90,
+    "RODRIGO GONZALEZ, AIMAR": 86,
+    "PEREZ BARRIUSO, IBAI": 90,
+    "UNZAGA VILLANUEVA, ENDIKA": 46,
+    "ARAUJO CANTERO, OIER": 44,
+    "LANDALUCE FERNANDEZ, OIER": 14,
+    "CATALAN UGARTE, AITOR": 10,
+    "FERNANDEZ SANCHEZ, ASIER": 9,
+    "MOHAMED SAID, ZAH GHALI": 4,
+    "PALOMO RAMIREZ, JULEN": 90,
+    "BAÑUELOS VICARIO, HECTOR": 90,
+    "CANTERO GOMEZ, JAGOBA": 90,
+    "BENAVIDES TAGUADO, IAN": 90,
+    "MORALES PANEQUE, GONZALO": 90,
+    "CANO ALONSO, UNAX": 46,
+    "CRESPO MARTINEZ, DEXTER": 90,
+    "GONZALEZ-BENGOA SALAZAR, TELMO": 90,
+    "RODRIGUEZ MARTINEZ, BRUNO": 90,
+    "RODRIGUEZ PEREZ, DANIEL": 90,
+    "DURANA SUEIRO, ERIK": 90,
+    "LARGO SAN JUAN, ARKAITZ": 44
+  },
+  "portero_local": "OLAMENDI GARCIA, KOLDO",
+  "portero_visitante": "PALOMO RAMIREZ, JULEN",
+  "dorsales_local": {
+    "OLAMENDI GARCIA, KOLDO": 13,
+    "ARIAS LOPEZ, ANARTZ": 4,
+    "LORZ EGIA, ENEKO": 6,
+    "ECHEVARRIA PRIETO, ANDER": 7,
+    "HERRERA VELASQUEZ, JUAN SEBASTIAN": 9,
+    "GARCIA MARTIN, ENDIKA": 10,
+    "AHMED OMAR, BRAHIM": 14,
+    "SANCHEZ LECEAGA, JOSU ENDIKA": 15,
+    "RODRIGO GONZALEZ, AIMAR": 16,
+    "PEREZ BARRIUSO, IBAI": 20,
+    "UNZAGA VILLANUEVA, ENDIKA": 26
+  },
+  "dorsales_visitante": {
+    "PALOMO RAMIREZ, JULEN": 13,
+    "BAÑUELOS VICARIO, HECTOR": 2,
+    "CANTERO GOMEZ, JAGOBA": 4,
+    "BENAVIDES TAGUADO, IAN": 11,
+    "MORALES PANEQUE, GONZALO": 16,
+    "CANO ALONSO, UNAX": 17,
+    "CRESPO MARTINEZ, DEXTER": 18,
+    "GONZALEZ-BENGOA SALAZAR, TELMO": 23,
+    "RODRIGUEZ MARTINEZ, BRUNO": 25,
+    "RODRIGUEZ PEREZ, DANIEL": 26,
+    "DURANA SUEIRO, ERIK": 29
+  },
+  "suspendidos": [
+    "AHMED OMAR, BRAHIM"
+  ],
+  "_marcador_widget": true
+}
