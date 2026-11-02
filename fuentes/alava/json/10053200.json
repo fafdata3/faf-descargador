@@ -1,0 +1,273 @@
+{
+  "acta_id": "10053200",
+  "filename": "Acta_10053200.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "01-11-2026",
+  "hora": "12:30",
+  "categoria": "JUVENIL DE HONOR / GAZTEEN OHOREZKO MAILA (GRUPO - 1)",
+  "equipo_local": "LAKUA DE VITORIA-GASTEIZ, C.D.F A",
+  "equipo_visitante": "SANTA MARÍA-VITORIA A.D.",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "SALHI SALHI, YOUSSEF"
+  ],
+  "estadio": "SANSOMENDI-2",
+  "ciudad": "Vitoria-Gasteiz",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "FLORIAN SAUCA, VICTOR JOEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 93,
+      "jugador": "FLORIAN SAUCA, VICTOR JOEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 39,
+      "jugador": "LARA ROBLEDO, KEDIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 22,
+      "jugador": "CHAIB LAHOUAZI, MOHAMED HOUWARI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 38,
+      "jugador": "BUSTERO SUAREZ, AITZOL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "FERNANDEZ LOPEZ, IVAN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LOZANO ARIJA, CARLOS",
+  "entrenador_visitante": "RODRIGUEZ LOPEZ, EGOITZ",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "EL-BOURDI AROUSS, YACINE",
+  "delegado_campo_local": "GARCIA SANCHEZ, JOSE JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DIAZ DELGADO, ANTONIO",
+  "delegado_equipo_visitante": "EL BOURDI AROUSS, NABIL",
+  "titulares_local": [
+    "NOCEDA MARTINEZ, IKER",
+    "GARCIA ESTIVALEZ, GORKA",
+    "DRIS SAID, ADAM",
+    "ZIAN MARZGUI OUFKIR, ANWAR",
+    "ECHOUKHI ESSADDIKI, AMINE",
+    "PUERTA TABORDA, SANTIAGO",
+    "GARCIA MARTINEZ DE ANTOÑANA, UNAI",
+    "ES SALIH MACHRAA, SOUHAIB",
+    "JORGE MUIÑO, VICTOR",
+    "LARA ROBLEDO, KEDIAN",
+    "LOPEZ HERNANDO, DAVID"
+  ],
+  "titulares_visitante": [
+    "OGUETA ORAA, URKO",
+    "VILLATE RIOS, IKER",
+    "LOPEZ MENDES, IZAN",
+    "AMUTIO SUCUNZA, XABIER",
+    "BUSTERO SUAREZ, AITZOL",
+    "GARCIA LOPEZ, AIMAR",
+    "PARDO CIFUENTES, IELTXU",
+    "GOYARROLA ARTOLA, PEIO",
+    "FLORIAN SAUCA, VICTOR JOEL",
+    "CANTERA FERREIRA, ENZO",
+    "CHAIB LAHOUAZI, MOHAMED HOUWARI"
+  ],
+  "suplentes_local": [
+    "GARCIA VARA, MARKEL",
+    "ORIVE LARREINA, OIER",
+    "MITOPKE KUNTZ, JOAN ENZO",
+    "LAKOUAS, MOHAMED",
+    "CID CABEZA, UNAX",
+    "SANCHEZ MARTIN, ANDER",
+    "ESPADA GIL, HODEI"
+  ],
+  "suplentes_visitante": [
+    "ZUBIELQUI MOLINS, UNAX",
+    "FERNANDEZ LOPEZ, IVAN",
+    "LARRALDE FERRO, ANDER",
+    "ARANEGUI LEON, IÑIGO",
+    "GARCIA CAÑAMERO, JOEL",
+    "GOMEZ HERNANDEZ, INTXIXU"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA VARA, MARKEL",
+    "MITOPKE KUNTZ, JOAN ENZO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "ZUBIELQUI MOLINS, UNAX",
+    "LARRALDE FERRO, ANDER"
+  ],
+  "jugadores_local": [
+    "NOCEDA MARTINEZ, IKER",
+    "GARCIA ESTIVALEZ, GORKA",
+    "DRIS SAID, ADAM",
+    "ZIAN MARZGUI OUFKIR, ANWAR",
+    "ECHOUKHI ESSADDIKI, AMINE",
+    "PUERTA TABORDA, SANTIAGO",
+    "GARCIA MARTINEZ DE ANTOÑANA, UNAI",
+    "ES SALIH MACHRAA, SOUHAIB",
+    "JORGE MUIÑO, VICTOR",
+    "LARA ROBLEDO, KEDIAN",
+    "LOPEZ HERNANDO, DAVID",
+    "LAKOUAS, MOHAMED",
+    "CID CABEZA, UNAX",
+    "SANCHEZ MARTIN, ANDER",
+    "ORIVE LARREINA, OIER",
+    "ESPADA GIL, HODEI"
+  ],
+  "jugadores_visitante": [
+    "OGUETA ORAA, URKO",
+    "VILLATE RIOS, IKER",
+    "LOPEZ MENDES, IZAN",
+    "AMUTIO SUCUNZA, XABIER",
+    "BUSTERO SUAREZ, AITZOL",
+    "GARCIA LOPEZ, AIMAR",
+    "PARDO CIFUENTES, IELTXU",
+    "GOYARROLA ARTOLA, PEIO",
+    "FLORIAN SAUCA, VICTOR JOEL",
+    "CANTERA FERREIRA, ENZO",
+    "CHAIB LAHOUAZI, MOHAMED HOUWARI",
+    "GARCIA CAÑAMERO, JOEL",
+    "FERNANDEZ LOPEZ, IVAN",
+    "GOMEZ HERNANDEZ, INTXIXU",
+    "ARANEGUI LEON, IÑIGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "LAKOUAS, MOHAMED",
+      "sale": "ES SALIH MACHRAA, SOUHAIB"
+    },
+    {
+      "min": 68,
+      "entra": "CID CABEZA, UNAX",
+      "sale": "ZIAN MARZGUI OUFKIR, ANWAR"
+    },
+    {
+      "min": 69,
+      "entra": "SANCHEZ MARTIN, ANDER",
+      "sale": "GARCIA ESTIVALEZ, GORKA"
+    },
+    {
+      "min": 74,
+      "entra": "ORIVE LARREINA, OIER",
+      "sale": "LARA ROBLEDO, KEDIAN"
+    },
+    {
+      "min": 86,
+      "entra": "ESPADA GIL, HODEI",
+      "sale": "JORGE MUIÑO, VICTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 44,
+      "entra": "GARCIA CAÑAMERO, JOEL",
+      "sale": "BUSTERO SUAREZ, AITZOL"
+    },
+    {
+      "min": 44,
+      "entra": "FERNANDEZ LOPEZ, IVAN",
+      "sale": "CHAIB LAHOUAZI, MOHAMED HOUWARI"
+    },
+    {
+      "min": 75,
+      "entra": "GOMEZ HERNANDEZ, INTXIXU",
+      "sale": "PARDO CIFUENTES, IELTXU"
+    },
+    {
+      "min": 86,
+      "entra": "ARANEGUI LEON, IÑIGO",
+      "sale": "CANTERA FERREIRA, ENZO"
+    }
+  ],
+  "minutos_jugadores": {
+    "NOCEDA MARTINEZ, IKER": 90,
+    "GARCIA ESTIVALEZ, GORKA": 69,
+    "DRIS SAID, ADAM": 90,
+    "ZIAN MARZGUI OUFKIR, ANWAR": 68,
+    "ECHOUKHI ESSADDIKI, AMINE": 90,
+    "PUERTA TABORDA, SANTIAGO": 90,
+    "GARCIA MARTINEZ DE ANTOÑANA, UNAI": 90,
+    "ES SALIH MACHRAA, SOUHAIB": 44,
+    "JORGE MUIÑO, VICTOR": 86,
+    "LARA ROBLEDO, KEDIAN": 74,
+    "LOPEZ HERNANDO, DAVID": 90,
+    "LAKOUAS, MOHAMED": 46,
+    "CID CABEZA, UNAX": 22,
+    "SANCHEZ MARTIN, ANDER": 21,
+    "ORIVE LARREINA, OIER": 16,
+    "ESPADA GIL, HODEI": 4,
+    "OGUETA ORAA, URKO": 90,
+    "VILLATE RIOS, IKER": 90,
+    "LOPEZ MENDES, IZAN": 90,
+    "AMUTIO SUCUNZA, XABIER": 90,
+    "BUSTERO SUAREZ, AITZOL": 44,
+    "GARCIA LOPEZ, AIMAR": 90,
+    "PARDO CIFUENTES, IELTXU": 75,
+    "GOYARROLA ARTOLA, PEIO": 90,
+    "FLORIAN SAUCA, VICTOR JOEL": 90,
+    "CANTERA FERREIRA, ENZO": 86,
+    "CHAIB LAHOUAZI, MOHAMED HOUWARI": 44,
+    "GARCIA CAÑAMERO, JOEL": 46,
+    "FERNANDEZ LOPEZ, IVAN": 46,
+    "GOMEZ HERNANDEZ, INTXIXU": 15,
+    "ARANEGUI LEON, IÑIGO": 4
+  },
+  "portero_local": "NOCEDA MARTINEZ, IKER",
+  "portero_visitante": "OGUETA ORAA, URKO",
+  "dorsales_local": {
+    "NOCEDA MARTINEZ, IKER": 13,
+    "GARCIA ESTIVALEZ, GORKA": 4,
+    "DRIS SAID, ADAM": 6,
+    "ZIAN MARZGUI OUFKIR, ANWAR": 9,
+    "ECHOUKHI ESSADDIKI, AMINE": 10,
+    "PUERTA TABORDA, SANTIAGO": 11,
+    "GARCIA MARTINEZ DE ANTOÑANA, UNAI": 15,
+    "ES SALIH MACHRAA, SOUHAIB": 17,
+    "JORGE MUIÑO, VICTOR": 22,
+    "LARA ROBLEDO, KEDIAN": 23,
+    "LOPEZ HERNANDO, DAVID": 24
+  },
+  "dorsales_visitante": {
+    "OGUETA ORAA, URKO": 13,
+    "VILLATE RIOS, IKER": 2,
+    "LOPEZ MENDES, IZAN": 3,
+    "AMUTIO SUCUNZA, XABIER": 5,
+    "BUSTERO SUAREZ, AITZOL": 8,
+    "GARCIA LOPEZ, AIMAR": 10,
+    "PARDO CIFUENTES, IELTXU": 11,
+    "GOYARROLA ARTOLA, PEIO": 14,
+    "FLORIAN SAUCA, VICTOR JOEL": 20,
+    "CANTERA FERREIRA, ENZO": 22,
+    "CHAIB LAHOUAZI, MOHAMED HOUWARI": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
