@@ -1,0 +1,247 @@
+{
+  "acta_id": "G_10076215",
+  "filename": "Acta_G_10076215.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "31-10-2026",
+  "hora": "09:00",
+  "categoria": "INFANTIL MUTILEN 1.MAILA / 1ª INFANTIL MASCULINO (4. MULTZOA - GRUPO 4)",
+  "equipo_local": "KOSTKAS C.D.",
+  "equipo_visitante": "LANDETXA K.T.C.D. B",
+  "goles_local": 4,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "YANIZ ORTUBIA, OIHAN"
+  ],
+  "estadio": "MATIGOXOTEGI",
+  "ciudad": "San Sebastián-Donostia",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "LEANDRO VELUZ, JACOB",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 23,
+      "jugador": "LEANDRO VELUZ, JACOB",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "JULIAN PANDIELLO, ENEKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "AYALA DEL RIO, ERIK",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 62,
+      "jugador": "LAINEZ BARAHONA, MELVIN SAMUEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "DE OLIVEIRA REYES, IKER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ARTUTXA GOMEZ, ANDER",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "NEGRILLO DE LA PEÑA, MATEO",
+  "titulares_local": [
+    "REVILLA BUSTO, ENEKO",
+    "LAINEZ BARAHONA, MELVIN SAMUEL",
+    "BOCANEGRA VALLEJO, SANTIAGO",
+    "LEANDRO VELUZ, JACOB",
+    "AYALA DEL RIO, ERIK",
+    "JULIAN PANDIELLO, ENEKO",
+    "ARRIZABALAGA PRO, MARTIN",
+    "CHAVEZ OSORIO, VALENTIN",
+    "PIJOAN LLORDES, GORKA",
+    "FERNANDEZ TAPIA, OIHAN",
+    "GUEVARA FRANCO, SAMUEL"
+  ],
+  "titulares_visitante": [
+    "BOUBACAR, THIARE",
+    "PANIAGUA HERNÁNDEZ, OIHAN",
+    "VERTIZ CELAYETA, ANER",
+    "RODRIGUEZ CANELO, IBAI",
+    "PEREZ RAMOS, MIKEL",
+    "GURUTZET MERO, MIKEL",
+    "BABAR, SHABAN",
+    "VILLACIS ALCIBAR, ABEL EDUARDO",
+    "NEGRILLO DE LA PEÑA, ALVARO",
+    "TOCINO PEREIRA, MIKEL",
+    "MARIN MARIN, EINAR"
+  ],
+  "suplentes_local": [
+    "BAEZ VALDES, SEBASTIAN",
+    "ROJAS ZAMBRANO, HERLY ISAAC",
+    "RODRIGUEZ CARMONA, JEAN PAUL",
+    "UMANZOR RODRIGUEZ, ANUAR SAID"
+  ],
+  "suplentes_visitante": [
+    "KONONOV, MATVI",
+    "DE OLIVEIRA REYES, IKER",
+    "PARRA PARRA, JEYDEN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "REVILLA BUSTO, ENEKO",
+    "LAINEZ BARAHONA, MELVIN SAMUEL",
+    "BOCANEGRA VALLEJO, SANTIAGO",
+    "LEANDRO VELUZ, JACOB",
+    "AYALA DEL RIO, ERIK",
+    "JULIAN PANDIELLO, ENEKO",
+    "ARRIZABALAGA PRO, MARTIN",
+    "CHAVEZ OSORIO, VALENTIN",
+    "PIJOAN LLORDES, GORKA",
+    "FERNANDEZ TAPIA, OIHAN",
+    "GUEVARA FRANCO, SAMUEL",
+    "BAEZ VALDES, SEBASTIAN",
+    "UMANZOR RODRIGUEZ, ANUAR SAID",
+    "RODRIGUEZ CARMONA, JEAN PAUL",
+    "ROJAS ZAMBRANO, HERLY ISAAC"
+  ],
+  "jugadores_visitante": [
+    "BOUBACAR, THIARE",
+    "PANIAGUA HERNÁNDEZ, OIHAN",
+    "VERTIZ CELAYETA, ANER",
+    "RODRIGUEZ CANELO, IBAI",
+    "PEREZ RAMOS, MIKEL",
+    "GURUTZET MERO, MIKEL",
+    "BABAR, SHABAN",
+    "VILLACIS ALCIBAR, ABEL EDUARDO",
+    "NEGRILLO DE LA PEÑA, ALVARO",
+    "TOCINO PEREIRA, MIKEL",
+    "MARIN MARIN, EINAR",
+    "KONONOV, MATVI",
+    "DE OLIVEIRA REYES, IKER",
+    "PARRA PARRA, JEYDEN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "BAEZ VALDES, SEBASTIAN",
+      "sale": "REVILLA BUSTO, ENEKO"
+    },
+    {
+      "min": 45,
+      "entra": "UMANZOR RODRIGUEZ, ANUAR SAID",
+      "sale": "ARRIZABALAGA PRO, MARTIN"
+    },
+    {
+      "min": 45,
+      "entra": "RODRIGUEZ CARMONA, JEAN PAUL",
+      "sale": "CHAVEZ OSORIO, VALENTIN"
+    },
+    {
+      "min": 45,
+      "entra": "ROJAS ZAMBRANO, HERLY ISAAC",
+      "sale": "PIJOAN LLORDES, GORKA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 25,
+      "entra": "KONONOV, MATVI",
+      "sale": "GURUTZET MERO, MIKEL"
+    },
+    {
+      "min": 40,
+      "entra": "DE OLIVEIRA REYES, IKER",
+      "sale": "TOCINO PEREIRA, MIKEL"
+    },
+    {
+      "min": 47,
+      "entra": "PARRA PARRA, JEYDEN",
+      "sale": "BABAR, SHABAN"
+    }
+  ],
+  "minutos_jugadores": {
+    "REVILLA BUSTO, ENEKO": 35,
+    "LAINEZ BARAHONA, MELVIN SAMUEL": 90,
+    "BOCANEGRA VALLEJO, SANTIAGO": 90,
+    "LEANDRO VELUZ, JACOB": 90,
+    "AYALA DEL RIO, ERIK": 90,
+    "JULIAN PANDIELLO, ENEKO": 90,
+    "ARRIZABALAGA PRO, MARTIN": 45,
+    "CHAVEZ OSORIO, VALENTIN": 45,
+    "PIJOAN LLORDES, GORKA": 45,
+    "FERNANDEZ TAPIA, OIHAN": 90,
+    "GUEVARA FRANCO, SAMUEL": 90,
+    "BAEZ VALDES, SEBASTIAN": 55,
+    "UMANZOR RODRIGUEZ, ANUAR SAID": 45,
+    "RODRIGUEZ CARMONA, JEAN PAUL": 45,
+    "ROJAS ZAMBRANO, HERLY ISAAC": 45,
+    "BOUBACAR, THIARE": 90,
+    "PANIAGUA HERNÁNDEZ, OIHAN": 90,
+    "VERTIZ CELAYETA, ANER": 90,
+    "RODRIGUEZ CANELO, IBAI": 90,
+    "PEREZ RAMOS, MIKEL": 90,
+    "GURUTZET MERO, MIKEL": 25,
+    "BABAR, SHABAN": 47,
+    "VILLACIS ALCIBAR, ABEL EDUARDO": 90,
+    "NEGRILLO DE LA PEÑA, ALVARO": 90,
+    "TOCINO PEREIRA, MIKEL": 40,
+    "MARIN MARIN, EINAR": 90,
+    "KONONOV, MATVI": 65,
+    "DE OLIVEIRA REYES, IKER": 50,
+    "PARRA PARRA, JEYDEN": 43
+  },
+  "portero_local": "REVILLA BUSTO, ENEKO",
+  "portero_visitante": "BOUBACAR, THIARE",
+  "dorsales_local": {
+    "REVILLA BUSTO, ENEKO": 1,
+    "LAINEZ BARAHONA, MELVIN SAMUEL": 2,
+    "BOCANEGRA VALLEJO, SANTIAGO": 3,
+    "LEANDRO VELUZ, JACOB": 4,
+    "AYALA DEL RIO, ERIK": 5,
+    "JULIAN PANDIELLO, ENEKO": 6,
+    "ARRIZABALAGA PRO, MARTIN": 7,
+    "CHAVEZ OSORIO, VALENTIN": 9,
+    "PIJOAN LLORDES, GORKA": 10,
+    "FERNANDEZ TAPIA, OIHAN": 11,
+    "GUEVARA FRANCO, SAMUEL": 14
+  },
+  "dorsales_visitante": {
+    "BOUBACAR, THIARE": 13,
+    "PANIAGUA HERNÁNDEZ, OIHAN": 2,
+    "VERTIZ CELAYETA, ANER": 6,
+    "RODRIGUEZ CANELO, IBAI": 8,
+    "PEREZ RAMOS, MIKEL": 10,
+    "GURUTZET MERO, MIKEL": 12,
+    "BABAR, SHABAN": 14,
+    "VILLACIS ALCIBAR, ABEL EDUARDO": 18,
+    "NEGRILLO DE LA PEÑA, ALVARO": 19,
+    "TOCINO PEREIRA, MIKEL": 23,
+    "MARIN MARIN, EINAR": 34
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
