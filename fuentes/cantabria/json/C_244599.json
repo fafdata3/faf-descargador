@@ -1,0 +1,255 @@
+{
+  "acta_id": "C_244599",
+  "filename": "Acta_C_244599.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 7,
+  "fecha": "01-11-2026",
+  "hora": "09:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO B)",
+  "equipo_local": "CLUB BANSANDER B",
+  "equipo_visitante": "AT. ESPAÑA DE CUETO A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GUTIERREZ REVUELTA, NECO"
+  ],
+  "estadio": "Juan Hormaechea",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "DIEZ DE VELASCO ARENAZA, IGNACIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 23,
+      "jugador": "ROLDAN RODRIGUEZ, SERGIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "GARCIA PASTOR, ETHAN PHARRELL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "ORTEGA MADRAZO, LEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 45,
+      "jugador": "GARCIA MARTINEZ, RODRIGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "ORIZAOLA RUIZ, GUILLERMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": "RIVERO LASTRE, RAFAEL",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RUIZ MAGNANI, VALENTIN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RUIZ MAGNANI, VALENTIN",
+  "delegado_equipo_visitante": "CANO PUENTE, VICTOR M",
+  "titulares_local": [
+    "REINO MANTECON, ALEJANDRO",
+    "ÁLVAREZ ABRAMO, HUGO",
+    "GARCIA MARTINEZ, RODRIGO",
+    "GONZALEZ PEREDA, OLIVER",
+    "GARCIA PASTOR, ETHAN PHARRELL",
+    "MAZAS GARCIA, JUAN",
+    "LOPEZ HERRERO, MARCOS",
+    "MATO VARELA, YAHVE",
+    "PALAZUELOS RODRIGUEZ, ALVARO",
+    "GOMEZ MAGADAN, JAIRO",
+    "ROLDAN RODRIGUEZ, SERGIO"
+  ],
+  "titulares_visitante": [
+    "ARCE MAESTEGUI, LUIS",
+    "PORTILLA LUCIO, GAEL",
+    "PESCADOR DIEZ, LUCA",
+    "ORIZAOLA RUIZ, GUILLERMO",
+    "BELMONTE PAÑEDA, OSCAR",
+    "DIEZ DE VELASCO ARENAZA, IGNACIO",
+    "LOPEZ SAEZ, GABRIEL",
+    "SAINZ BOLADO, DANIEL",
+    "GUTIERREZ GOMEZ, SERGIO",
+    "RUIZ CUERNO, PABLO",
+    "GONZALEZ PEÑA, MARCO"
+  ],
+  "suplentes_local": [
+    "PADILLA ARREDONDO, ALEX",
+    "PACHECO LAVIN, ADRIAN",
+    "LOPEZ MIGOYA, LUIS",
+    "ORTEGA MADRAZO, LEO",
+    "ACHA MONTES, CARLOS"
+  ],
+  "suplentes_visitante": [
+    "LARRALDE JIMENEZ, IKER",
+    "PERA DE LA LOMA, ALEX",
+    "BOGEFORS, AXEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "REINO MANTECON, ALEJANDRO",
+    "ÁLVAREZ ABRAMO, HUGO",
+    "GARCIA MARTINEZ, RODRIGO",
+    "GONZALEZ PEREDA, OLIVER",
+    "GARCIA PASTOR, ETHAN PHARRELL",
+    "MAZAS GARCIA, JUAN",
+    "LOPEZ HERRERO, MARCOS",
+    "MATO VARELA, YAHVE",
+    "PALAZUELOS RODRIGUEZ, ALVARO",
+    "GOMEZ MAGADAN, JAIRO",
+    "ROLDAN RODRIGUEZ, SERGIO",
+    "PACHECO LAVIN, ADRIAN",
+    "LOPEZ MIGOYA, LUIS",
+    "ORTEGA MADRAZO, LEO",
+    "ACHA MONTES, CARLOS",
+    "PADILLA ARREDONDO, ALEX"
+  ],
+  "jugadores_visitante": [
+    "ARCE MAESTEGUI, LUIS",
+    "PORTILLA LUCIO, GAEL",
+    "PESCADOR DIEZ, LUCA",
+    "ORIZAOLA RUIZ, GUILLERMO",
+    "BELMONTE PAÑEDA, OSCAR",
+    "DIEZ DE VELASCO ARENAZA, IGNACIO",
+    "LOPEZ SAEZ, GABRIEL",
+    "SAINZ BOLADO, DANIEL",
+    "GUTIERREZ GOMEZ, SERGIO",
+    "RUIZ CUERNO, PABLO",
+    "GONZALEZ PEÑA, MARCO",
+    "LARRALDE JIMENEZ, IKER",
+    "PERA DE LA LOMA, ALEX",
+    "BOGEFORS, AXEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "PACHECO LAVIN, ADRIAN",
+      "sale": "ÁLVAREZ ABRAMO, HUGO"
+    },
+    {
+      "min": 35,
+      "entra": "LOPEZ MIGOYA, LUIS",
+      "sale": "MAZAS GARCIA, JUAN"
+    },
+    {
+      "min": 35,
+      "entra": "ORTEGA MADRAZO, LEO",
+      "sale": "ROLDAN RODRIGUEZ, SERGIO"
+    },
+    {
+      "min": 35,
+      "entra": "ACHA MONTES, CARLOS",
+      "sale": "PALAZUELOS RODRIGUEZ, ALVARO"
+    },
+    {
+      "min": 35,
+      "entra": "PADILLA ARREDONDO, ALEX",
+      "sale": "REINO MANTECON, ALEJANDRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 29,
+      "entra": "LARRALDE JIMENEZ, IKER",
+      "sale": "BELMONTE PAÑEDA, OSCAR"
+    },
+    {
+      "min": 43,
+      "entra": "PERA DE LA LOMA, ALEX",
+      "sale": "DIEZ DE VELASCO ARENAZA, IGNACIO"
+    },
+    {
+      "min": 43,
+      "entra": "BOGEFORS, AXEL",
+      "sale": "LOPEZ SAEZ, GABRIEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "REINO MANTECON, ALEJANDRO": 35,
+    "ÁLVAREZ ABRAMO, HUGO": 35,
+    "GARCIA MARTINEZ, RODRIGO": 90,
+    "GONZALEZ PEREDA, OLIVER": 90,
+    "GARCIA PASTOR, ETHAN PHARRELL": 90,
+    "MAZAS GARCIA, JUAN": 35,
+    "LOPEZ HERRERO, MARCOS": 90,
+    "MATO VARELA, YAHVE": 90,
+    "PALAZUELOS RODRIGUEZ, ALVARO": 35,
+    "GOMEZ MAGADAN, JAIRO": 90,
+    "ROLDAN RODRIGUEZ, SERGIO": 35,
+    "PACHECO LAVIN, ADRIAN": 55,
+    "LOPEZ MIGOYA, LUIS": 55,
+    "ORTEGA MADRAZO, LEO": 55,
+    "ACHA MONTES, CARLOS": 55,
+    "PADILLA ARREDONDO, ALEX": 55,
+    "ARCE MAESTEGUI, LUIS": 90,
+    "PORTILLA LUCIO, GAEL": 90,
+    "PESCADOR DIEZ, LUCA": 90,
+    "ORIZAOLA RUIZ, GUILLERMO": 90,
+    "BELMONTE PAÑEDA, OSCAR": 29,
+    "DIEZ DE VELASCO ARENAZA, IGNACIO": 43,
+    "LOPEZ SAEZ, GABRIEL": 43,
+    "SAINZ BOLADO, DANIEL": 90,
+    "GUTIERREZ GOMEZ, SERGIO": 90,
+    "RUIZ CUERNO, PABLO": 90,
+    "GONZALEZ PEÑA, MARCO": 90,
+    "LARRALDE JIMENEZ, IKER": 61,
+    "PERA DE LA LOMA, ALEX": 47,
+    "BOGEFORS, AXEL": 47
+  },
+  "portero_local": "REINO MANTECON, ALEJANDRO",
+  "portero_visitante": "ARCE MAESTEGUI, LUIS",
+  "dorsales_local": {
+    "REINO MANTECON, ALEJANDRO": 13,
+    "ÁLVAREZ ABRAMO, HUGO": 2,
+    "GARCIA MARTINEZ, RODRIGO": 3,
+    "GONZALEZ PEREDA, OLIVER": 4,
+    "GARCIA PASTOR, ETHAN PHARRELL": 5,
+    "MAZAS GARCIA, JUAN": 6,
+    "LOPEZ HERRERO, MARCOS": 8,
+    "MATO VARELA, YAHVE": 10,
+    "PALAZUELOS RODRIGUEZ, ALVARO": 11,
+    "GOMEZ MAGADAN, JAIRO": 18,
+    "ROLDAN RODRIGUEZ, SERGIO": 20
+  },
+  "dorsales_visitante": {
+    "ARCE MAESTEGUI, LUIS": 1,
+    "PORTILLA LUCIO, GAEL": 3,
+    "PESCADOR DIEZ, LUCA": 4,
+    "ORIZAOLA RUIZ, GUILLERMO": 5,
+    "BELMONTE PAÑEDA, OSCAR": 8,
+    "DIEZ DE VELASCO ARENAZA, IGNACIO": 9,
+    "LOPEZ SAEZ, GABRIEL": 14,
+    "SAINZ BOLADO, DANIEL": 15,
+    "GUTIERREZ GOMEZ, SERGIO": 17,
+    "RUIZ CUERNO, PABLO": 18,
+    "GONZALEZ PEÑA, MARCO": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
