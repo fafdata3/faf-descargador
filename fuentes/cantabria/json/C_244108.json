@@ -1,0 +1,255 @@
+{
+  "acta_id": "C_244108",
+  "filename": "Acta_C_244108.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "25-10-2026",
+  "hora": "13:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "S.D. TEXTIL ESCUDO A",
+  "equipo_visitante": "C.D. MONTE A",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "IGLESIAS GUTIÉRREZ, DAVID"
+  ],
+  "estadio": "Cabezón de la Sal",
+  "ciudad": "Cabezón De La Sal",
+  "goleadores": [
+    {
+      "minuto": 28,
+      "jugador": "LLANO BESGA, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "BLANCO LANZA, GONZALO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "FERNANDEZ ERICE, LUCAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 37,
+      "jugador": "PEREZ ELOURAD, ISMAEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "ALONSO ECHEVARRIA, LUCAS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 46,
+      "jugador": "TEJA GIL, LEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SÁNCHEZ ZUBIAURRE, GONZALO",
+  "entrenador_visitante": "LEGARRETA YURRITA, DIEGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CALDERON ELOURAD, HUGO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CALDERON ELOURAD, HUGO",
+  "delegado_equipo_visitante": "CANDELA GALDONA, PABLO",
+  "titulares_local": [
+    "GOMEZ RIVERO, IKER",
+    "ALONSO ECHEVARRIA, LUCAS",
+    "ALVAREZ VAZQUEZ, XUNE",
+    "PEREZ ELOURAD, ISMAEL",
+    "LLANO BESGA, JON",
+    "FERNANDEZ ERICE, LUCAS",
+    "ORTIZ GONZALEZ, NICOLAS",
+    "HERRERO PEREZ, ADRIAN",
+    "VILLAR CORTIJO, MARIO",
+    "LOPEZ MIGOYA, FERNANDO",
+    "GUTIERREZ URRACA, MARCO"
+  ],
+  "titulares_visitante": [
+    "SOLORZANO SAIZ, JACOBO FEDERICO",
+    "DE JULIAN PEROJO, BRUNO",
+    "ZUBELZU VIADERO, ADRIAN",
+    "TOSIO CAPDEVILA, GUILLERMO",
+    "VILLAVERDE TORRES, FELIPE",
+    "BLANCO LANZA, GONZALO",
+    "TEJA GIL, LEO",
+    "HERRERA RUIZ, ALVARO",
+    "DELGADO GARCIA, DANIEL",
+    "COSÍO GONZÁLEZ, DIEGO",
+    "SUAREZ ALVES, LEONARDO"
+  ],
+  "suplentes_local": [
+    "ORTIZ SAIZ, ADRIAN",
+    "PEREZ GONZALEZ, ALONSO",
+    "GOMEZ ROMANO, UNAY",
+    "MARTINEZ GOMEZ, MANUEL"
+  ],
+  "suplentes_visitante": [
+    "SAINZ RUIZ, GABRIEL",
+    "FRAILE SANTISTEBAN, FERNANDO",
+    "DEL RIO GONZALEZ, NICO",
+    "GARCIA AGUIRREBEITIA, MARIO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GOMEZ RIVERO, IKER",
+    "ALONSO ECHEVARRIA, LUCAS",
+    "ALVAREZ VAZQUEZ, XUNE",
+    "PEREZ ELOURAD, ISMAEL",
+    "LLANO BESGA, JON",
+    "FERNANDEZ ERICE, LUCAS",
+    "ORTIZ GONZALEZ, NICOLAS",
+    "HERRERO PEREZ, ADRIAN",
+    "VILLAR CORTIJO, MARIO",
+    "LOPEZ MIGOYA, FERNANDO",
+    "GUTIERREZ URRACA, MARCO",
+    "PEREZ GONZALEZ, ALONSO",
+    "GOMEZ ROMANO, UNAY",
+    "MARTINEZ GOMEZ, MANUEL",
+    "ORTIZ SAIZ, ADRIAN"
+  ],
+  "jugadores_visitante": [
+    "SOLORZANO SAIZ, JACOBO FEDERICO",
+    "DE JULIAN PEROJO, BRUNO",
+    "ZUBELZU VIADERO, ADRIAN",
+    "TOSIO CAPDEVILA, GUILLERMO",
+    "VILLAVERDE TORRES, FELIPE",
+    "BLANCO LANZA, GONZALO",
+    "TEJA GIL, LEO",
+    "HERRERA RUIZ, ALVARO",
+    "DELGADO GARCIA, DANIEL",
+    "COSÍO GONZÁLEZ, DIEGO",
+    "SUAREZ ALVES, LEONARDO",
+    "SAINZ RUIZ, GABRIEL",
+    "FRAILE SANTISTEBAN, FERNANDO",
+    "DEL RIO GONZALEZ, NICO",
+    "GARCIA AGUIRREBEITIA, MARIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "PEREZ GONZALEZ, ALONSO",
+      "sale": "VILLAR CORTIJO, MARIO"
+    },
+    {
+      "min": 50,
+      "entra": "GOMEZ ROMANO, UNAY",
+      "sale": "LOPEZ MIGOYA, FERNANDO"
+    },
+    {
+      "min": 58,
+      "entra": "MARTINEZ GOMEZ, MANUEL",
+      "sale": "GUTIERREZ URRACA, MARCO"
+    },
+    {
+      "min": 66,
+      "entra": "ORTIZ SAIZ, ADRIAN",
+      "sale": "FERNANDEZ ERICE, LUCAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "SAINZ RUIZ, GABRIEL",
+      "sale": "SOLORZANO SAIZ, JACOBO FEDERICO"
+    },
+    {
+      "min": 45,
+      "entra": "FRAILE SANTISTEBAN, FERNANDO",
+      "sale": "HERRERA RUIZ, ALVARO"
+    },
+    {
+      "min": 49,
+      "entra": "DEL RIO GONZALEZ, NICO",
+      "sale": "COSÍO GONZÁLEZ, DIEGO"
+    },
+    {
+      "min": 56,
+      "entra": "GARCIA AGUIRREBEITIA, MARIO",
+      "sale": "VILLAVERDE TORRES, FELIPE"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ RIVERO, IKER": 90,
+    "ALONSO ECHEVARRIA, LUCAS": 90,
+    "ALVAREZ VAZQUEZ, XUNE": 90,
+    "PEREZ ELOURAD, ISMAEL": 90,
+    "LLANO BESGA, JON": 90,
+    "FERNANDEZ ERICE, LUCAS": 66,
+    "ORTIZ GONZALEZ, NICOLAS": 90,
+    "HERRERO PEREZ, ADRIAN": 90,
+    "VILLAR CORTIJO, MARIO": 41,
+    "LOPEZ MIGOYA, FERNANDO": 50,
+    "GUTIERREZ URRACA, MARCO": 58,
+    "PEREZ GONZALEZ, ALONSO": 49,
+    "GOMEZ ROMANO, UNAY": 40,
+    "MARTINEZ GOMEZ, MANUEL": 32,
+    "ORTIZ SAIZ, ADRIAN": 24,
+    "SOLORZANO SAIZ, JACOBO FEDERICO": 35,
+    "DE JULIAN PEROJO, BRUNO": 90,
+    "ZUBELZU VIADERO, ADRIAN": 90,
+    "TOSIO CAPDEVILA, GUILLERMO": 90,
+    "VILLAVERDE TORRES, FELIPE": 56,
+    "BLANCO LANZA, GONZALO": 90,
+    "TEJA GIL, LEO": 90,
+    "HERRERA RUIZ, ALVARO": 45,
+    "DELGADO GARCIA, DANIEL": 90,
+    "COSÍO GONZÁLEZ, DIEGO": 49,
+    "SUAREZ ALVES, LEONARDO": 90,
+    "SAINZ RUIZ, GABRIEL": 55,
+    "FRAILE SANTISTEBAN, FERNANDO": 45,
+    "DEL RIO GONZALEZ, NICO": 41,
+    "GARCIA AGUIRREBEITIA, MARIO": 34
+  },
+  "portero_local": "GOMEZ RIVERO, IKER",
+  "portero_visitante": "SOLORZANO SAIZ, JACOBO FEDERICO",
+  "dorsales_local": {
+    "GOMEZ RIVERO, IKER": 13,
+    "ALONSO ECHEVARRIA, LUCAS": 3,
+    "ALVAREZ VAZQUEZ, XUNE": 4,
+    "PEREZ ELOURAD, ISMAEL": 6,
+    "LLANO BESGA, JON": 7,
+    "FERNANDEZ ERICE, LUCAS": 9,
+    "ORTIZ GONZALEZ, NICOLAS": 10,
+    "HERRERO PEREZ, ADRIAN": 11,
+    "VILLAR CORTIJO, MARIO": 16,
+    "LOPEZ MIGOYA, FERNANDO": 17,
+    "GUTIERREZ URRACA, MARCO": 18
+  },
+  "dorsales_visitante": {
+    "SOLORZANO SAIZ, JACOBO FEDERICO": 1,
+    "DE JULIAN PEROJO, BRUNO": 2,
+    "ZUBELZU VIADERO, ADRIAN": 4,
+    "TOSIO CAPDEVILA, GUILLERMO": 5,
+    "VILLAVERDE TORRES, FELIPE": 7,
+    "BLANCO LANZA, GONZALO": 8,
+    "TEJA GIL, LEO": 9,
+    "HERRERA RUIZ, ALVARO": 11,
+    "DELGADO GARCIA, DANIEL": 14,
+    "COSÍO GONZÁLEZ, DIEGO": 17,
+    "SUAREZ ALVES, LEONARDO": 20
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
