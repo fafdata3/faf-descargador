@@ -1,0 +1,258 @@
+{
+  "acta_id": "C_244346",
+  "filename": "Acta_C_244346.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "25-10-2026",
+  "hora": "09:30",
+  "categoria": "SEGUNDA INFANTIL (GRUPO A)",
+  "equipo_local": "C.D. CALASANZ A",
+  "equipo_visitante": "C.F. VIMENOR A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "MARTIN CORONA, BRUNO"
+  ],
+  "estadio": "Comp. Albericia (B)",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "ARROYO MARTIN, RAFAEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 40,
+      "jugador": "MESONES GONZALEZ, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 46,
+      "jugador": "ARROYO MARTIN, RAFAEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "IGLESIAS CRUZ, EDUARDO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 69,
+      "jugador": "GUAN, XIAOKAI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CERVILLA SANTIBAÑEZ, MARIO",
+  "delegado_equipo_visitante": "RUIZ HIDALGO, MIGUEL",
+  "titulares_local": [
+    "CORTES GARCIA, JOSE",
+    "DIAZ PAYNO, RODRIGO",
+    "CAMPOLLO MARTIN, RODRIGO",
+    "RIVAS BARRERA, MIGUEL",
+    "DOMINGUEZ MESONES, LUCAS",
+    "GUAN, XIAOKAI",
+    "MARTINEZ SARACHAGA, MATEO",
+    "ARROYO MARTIN, RAFAEL",
+    "ASPRILLA CASTAÑO, JUAN MANUEL",
+    "MESONES GONZALEZ, DANIEL",
+    "POZUETA SANGSTER, LIAM ALEXANDER"
+  ],
+  "titulares_visitante": [
+    "PEREZ VELA, BRUNO",
+    "PÉREZ TORRE, DAVID",
+    "SANCHEZ TAMES, JUAN",
+    "CRESPO BERASATEGUI, HUGO",
+    "DEL BARRIO LAVÍN, MANUEL",
+    "TORRE BOUZO, MIKEL",
+    "DINAR, AMINE",
+    "MURIEDAS BOADA, MARTÍN",
+    "RUIZ IRASTORZA, MAURO",
+    "ARANDA GOMEZ, LUCA",
+    "IGLESIAS CRUZ, EDUARDO"
+  ],
+  "suplentes_local": [
+    "MENOCAL LOPEZ, FERNANDO",
+    "MARTÍN FERNÁNDEZ, FERNANDO",
+    "LOPEZ PEÑA, ENRIQUE",
+    "GUERRERO ALONSO, IZAN",
+    "GARCIA COTERO, MARCO"
+  ],
+  "suplentes_visitante": [
+    "MARTINEZ LLAMAS, ADRIAN",
+    "HERNANDEZ GONZALEZ, HECTOR",
+    "RUIZ FERNANDEZ, MARTIN",
+    "REBOLLEDO MANZANO, ALEJANDRO",
+    "GARCIA EXPOSITO, TEO"
+  ],
+  "convocados_sin_jugar_local": [
+    "MENOCAL LOPEZ, FERNANDO"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CORTES GARCIA, JOSE",
+    "DIAZ PAYNO, RODRIGO",
+    "CAMPOLLO MARTIN, RODRIGO",
+    "RIVAS BARRERA, MIGUEL",
+    "DOMINGUEZ MESONES, LUCAS",
+    "GUAN, XIAOKAI",
+    "MARTINEZ SARACHAGA, MATEO",
+    "ARROYO MARTIN, RAFAEL",
+    "ASPRILLA CASTAÑO, JUAN MANUEL",
+    "MESONES GONZALEZ, DANIEL",
+    "POZUETA SANGSTER, LIAM ALEXANDER",
+    "LOPEZ PEÑA, ENRIQUE",
+    "GARCIA COTERO, MARCO",
+    "GUERRERO ALONSO, IZAN",
+    "MARTÍN FERNÁNDEZ, FERNANDO"
+  ],
+  "jugadores_visitante": [
+    "PEREZ VELA, BRUNO",
+    "PÉREZ TORRE, DAVID",
+    "SANCHEZ TAMES, JUAN",
+    "CRESPO BERASATEGUI, HUGO",
+    "DEL BARRIO LAVÍN, MANUEL",
+    "TORRE BOUZO, MIKEL",
+    "DINAR, AMINE",
+    "MURIEDAS BOADA, MARTÍN",
+    "RUIZ IRASTORZA, MAURO",
+    "ARANDA GOMEZ, LUCA",
+    "IGLESIAS CRUZ, EDUARDO",
+    "MARTINEZ LLAMAS, ADRIAN",
+    "RUIZ FERNANDEZ, MARTIN",
+    "REBOLLEDO MANZANO, ALEJANDRO",
+    "GARCIA EXPOSITO, TEO",
+    "HERNANDEZ GONZALEZ, HECTOR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "LOPEZ PEÑA, ENRIQUE",
+      "sale": "DIAZ PAYNO, RODRIGO"
+    },
+    {
+      "min": 53,
+      "entra": "GARCIA COTERO, MARCO",
+      "sale": "CAMPOLLO MARTIN, RODRIGO"
+    },
+    {
+      "min": 53,
+      "entra": "GUERRERO ALONSO, IZAN",
+      "sale": "ASPRILLA CASTAÑO, JUAN MANUEL"
+    },
+    {
+      "min": 53,
+      "entra": "MARTÍN FERNÁNDEZ, FERNANDO",
+      "sale": "MARTINEZ SARACHAGA, MATEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "MARTINEZ LLAMAS, ADRIAN",
+      "sale": "PEREZ VELA, BRUNO"
+    },
+    {
+      "min": 45,
+      "entra": "RUIZ FERNANDEZ, MARTIN",
+      "sale": "SANCHEZ TAMES, JUAN"
+    },
+    {
+      "min": 45,
+      "entra": "REBOLLEDO MANZANO, ALEJANDRO",
+      "sale": "TORRE BOUZO, MIKEL"
+    },
+    {
+      "min": 56,
+      "entra": "GARCIA EXPOSITO, TEO",
+      "sale": "RUIZ IRASTORZA, MAURO"
+    },
+    {
+      "min": 56,
+      "entra": "HERNANDEZ GONZALEZ, HECTOR",
+      "sale": "PÉREZ TORRE, DAVID"
+    }
+  ],
+  "minutos_jugadores": {
+    "CORTES GARCIA, JOSE": 90,
+    "DIAZ PAYNO, RODRIGO": 45,
+    "CAMPOLLO MARTIN, RODRIGO": 53,
+    "RIVAS BARRERA, MIGUEL": 90,
+    "DOMINGUEZ MESONES, LUCAS": 90,
+    "GUAN, XIAOKAI": 90,
+    "MARTINEZ SARACHAGA, MATEO": 53,
+    "ARROYO MARTIN, RAFAEL": 90,
+    "ASPRILLA CASTAÑO, JUAN MANUEL": 53,
+    "MESONES GONZALEZ, DANIEL": 90,
+    "POZUETA SANGSTER, LIAM ALEXANDER": 90,
+    "LOPEZ PEÑA, ENRIQUE": 45,
+    "GARCIA COTERO, MARCO": 37,
+    "GUERRERO ALONSO, IZAN": 37,
+    "MARTÍN FERNÁNDEZ, FERNANDO": 37,
+    "PEREZ VELA, BRUNO": 35,
+    "PÉREZ TORRE, DAVID": 56,
+    "SANCHEZ TAMES, JUAN": 45,
+    "CRESPO BERASATEGUI, HUGO": 90,
+    "DEL BARRIO LAVÍN, MANUEL": 90,
+    "TORRE BOUZO, MIKEL": 45,
+    "DINAR, AMINE": 90,
+    "MURIEDAS BOADA, MARTÍN": 90,
+    "RUIZ IRASTORZA, MAURO": 56,
+    "ARANDA GOMEZ, LUCA": 90,
+    "IGLESIAS CRUZ, EDUARDO": 90,
+    "MARTINEZ LLAMAS, ADRIAN": 55,
+    "RUIZ FERNANDEZ, MARTIN": 45,
+    "REBOLLEDO MANZANO, ALEJANDRO": 45,
+    "GARCIA EXPOSITO, TEO": 34,
+    "HERNANDEZ GONZALEZ, HECTOR": 34
+  },
+  "portero_local": "CORTES GARCIA, JOSE",
+  "portero_visitante": "PEREZ VELA, BRUNO",
+  "dorsales_local": {
+    "CORTES GARCIA, JOSE": 1,
+    "DIAZ PAYNO, RODRIGO": 2,
+    "CAMPOLLO MARTIN, RODRIGO": 3,
+    "RIVAS BARRERA, MIGUEL": 4,
+    "DOMINGUEZ MESONES, LUCAS": 5,
+    "GUAN, XIAOKAI": 6,
+    "MARTINEZ SARACHAGA, MATEO": 7,
+    "ARROYO MARTIN, RAFAEL": 8,
+    "ASPRILLA CASTAÑO, JUAN MANUEL": 9,
+    "MESONES GONZALEZ, DANIEL": 10,
+    "POZUETA SANGSTER, LIAM ALEXANDER": 11
+  },
+  "dorsales_visitante": {
+    "PEREZ VELA, BRUNO": 1,
+    "PÉREZ TORRE, DAVID": 2,
+    "SANCHEZ TAMES, JUAN": 3,
+    "CRESPO BERASATEGUI, HUGO": 4,
+    "DEL BARRIO LAVÍN, MANUEL": 5,
+    "TORRE BOUZO, MIKEL": 6,
+    "DINAR, AMINE": 7,
+    "MURIEDAS BOADA, MARTÍN": 8,
+    "RUIZ IRASTORZA, MAURO": 9,
+    "ARANDA GOMEZ, LUCA": 10,
+    "IGLESIAS CRUZ, EDUARDO": 11
+  },
+  "suspendidos": []
+}
