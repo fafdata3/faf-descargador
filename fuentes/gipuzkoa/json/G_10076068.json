@@ -1,0 +1,248 @@
+{
+  "acta_id": "G_10076068",
+  "filename": "Acta_G_10076068.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "17-10-2026",
+  "hora": "12:30",
+  "categoria": "INFANTIL MUTILEN 1.MAILA / 1ª INFANTIL MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "BETI GAZTE K.J.K.E.",
+  "equipo_visitante": "DUNBOA EGUZKI C.D.",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "RODRIGUEZ SALAVERRIA, ASIER"
+  ],
+  "estadio": "MASTEGI (H.A.)",
+  "ciudad": "Lesaka",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "MARICHALAR ALDAZ, EKAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "VAZQUEZ JIMENEZ, JOSE",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "ARITZ, GEROMETTA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "SAGÜES LORENTE, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "DESKARGA OYARZABAL, GERMAN",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "MARTIN REGUERO, IKER",
+  "titulares_local": [
+    "ANSALAS MAIZ, BEÑAT",
+    "RETEGI MUGICA, IBON",
+    "IPARRAGIRRE ALBERDI, OIER",
+    "CANAL ARTOLA, UGAITZ",
+    "FERNANDEZ FRESNEDA, HARRI",
+    "ARANBURU GALARREGUI, URKO",
+    "MARICHALAR ALDAZ, EKAI",
+    "DESKARGA LEGASA, IZEI",
+    "PINILLOS AUZMENDI, JOANES",
+    "ARITZ, GEROMETTA",
+    "MILANO COLINA, JOSEP ABRAHAN"
+  ],
+  "titulares_visitante": [
+    "TORRESCUSA MENDEZ, EKAITZ",
+    "SAGÜES LORENTE, MARTIN",
+    "SARR FALL, OUSMANE",
+    "CARRO MIGUEL, DANIEL",
+    "RAMOS JARAMILLO, MIKEL ALBEIRO",
+    "LEMA YAMBERLA, GUERY",
+    "VAZQUEZ JIMENEZ, JOSE",
+    "PALACIOS PADILLA, ETHAN GABRIEL",
+    "TOMASTO RICAPA, IBAI ANDER",
+    "PINARGOTE CHINGA, WILMER",
+    "MEDINA PEÑA, EDWARS"
+  ],
+  "suplentes_local": [
+    "TELLECHEA TAPIA, ARITZ",
+    "TELLECHEA MORANTE, URKO",
+    "DE RUEDA LEIZA, YURI",
+    "ARANGUREN ZALDUA, JULEN",
+    "ARANGUREN IRIGOYEN, JON",
+    "ZUGARRAMURDI FERNANDEZ, IZEI",
+    "MARITXALAR MUÑOA, MATTIN"
+  ],
+  "suplentes_visitante": [
+    "SARR SARR, LAITY",
+    "TRAVIESO LOPEZ, MARCOS"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ANSALAS MAIZ, BEÑAT",
+    "RETEGI MUGICA, IBON",
+    "IPARRAGIRRE ALBERDI, OIER",
+    "CANAL ARTOLA, UGAITZ",
+    "FERNANDEZ FRESNEDA, HARRI",
+    "ARANBURU GALARREGUI, URKO",
+    "MARICHALAR ALDAZ, EKAI",
+    "DESKARGA LEGASA, IZEI",
+    "PINILLOS AUZMENDI, JOANES",
+    "ARITZ, GEROMETTA",
+    "MILANO COLINA, JOSEP ABRAHAN",
+    "ARANGUREN IRIGOYEN, JON",
+    "ZUGARRAMURDI FERNANDEZ, IZEI",
+    "DE RUEDA LEIZA, YURI",
+    "ARANGUREN ZALDUA, JULEN",
+    "TELLECHEA MORANTE, URKO",
+    "MARITXALAR MUÑOA, MATTIN",
+    "TELLECHEA TAPIA, ARITZ"
+  ],
+  "jugadores_visitante": [
+    "TORRESCUSA MENDEZ, EKAITZ",
+    "SAGÜES LORENTE, MARTIN",
+    "SARR FALL, OUSMANE",
+    "CARRO MIGUEL, DANIEL",
+    "RAMOS JARAMILLO, MIKEL ALBEIRO",
+    "LEMA YAMBERLA, GUERY",
+    "VAZQUEZ JIMENEZ, JOSE",
+    "PALACIOS PADILLA, ETHAN GABRIEL",
+    "TOMASTO RICAPA, IBAI ANDER",
+    "PINARGOTE CHINGA, WILMER",
+    "MEDINA PEÑA, EDWARS",
+    "SARR SARR, LAITY",
+    "TRAVIESO LOPEZ, MARCOS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "ARANGUREN IRIGOYEN, JON",
+      "sale": "MILANO COLINA, JOSEP ABRAHAN"
+    },
+    {
+      "min": 35,
+      "entra": "ZUGARRAMURDI FERNANDEZ, IZEI",
+      "sale": "DESKARGA LEGASA, IZEI"
+    },
+    {
+      "min": 35,
+      "entra": "DE RUEDA LEIZA, YURI",
+      "sale": "FERNANDEZ FRESNEDA, HARRI"
+    },
+    {
+      "min": 35,
+      "entra": "ARANGUREN ZALDUA, JULEN",
+      "sale": "MARICHALAR ALDAZ, EKAI"
+    },
+    {
+      "min": 35,
+      "entra": "TELLECHEA MORANTE, URKO",
+      "sale": "IPARRAGIRRE ALBERDI, OIER"
+    },
+    {
+      "min": 35,
+      "entra": "MARITXALAR MUÑOA, MATTIN",
+      "sale": "PINILLOS AUZMENDI, JOANES"
+    },
+    {
+      "min": 35,
+      "entra": "TELLECHEA TAPIA, ARITZ",
+      "sale": "RETEGI MUGICA, IBON"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 46,
+      "entra": "SARR SARR, LAITY",
+      "sale": "TORRESCUSA MENDEZ, EKAITZ"
+    },
+    {
+      "min": 50,
+      "entra": "TRAVIESO LOPEZ, MARCOS",
+      "sale": "VAZQUEZ JIMENEZ, JOSE"
+    }
+  ],
+  "minutos_jugadores": {
+    "ANSALAS MAIZ, BEÑAT": 90,
+    "RETEGI MUGICA, IBON": 35,
+    "IPARRAGIRRE ALBERDI, OIER": 35,
+    "CANAL ARTOLA, UGAITZ": 90,
+    "FERNANDEZ FRESNEDA, HARRI": 35,
+    "ARANBURU GALARREGUI, URKO": 90,
+    "MARICHALAR ALDAZ, EKAI": 35,
+    "DESKARGA LEGASA, IZEI": 35,
+    "PINILLOS AUZMENDI, JOANES": 35,
+    "ARITZ, GEROMETTA": 90,
+    "MILANO COLINA, JOSEP ABRAHAN": 35,
+    "ARANGUREN IRIGOYEN, JON": 55,
+    "ZUGARRAMURDI FERNANDEZ, IZEI": 55,
+    "DE RUEDA LEIZA, YURI": 55,
+    "ARANGUREN ZALDUA, JULEN": 55,
+    "TELLECHEA MORANTE, URKO": 55,
+    "MARITXALAR MUÑOA, MATTIN": 55,
+    "TELLECHEA TAPIA, ARITZ": 55,
+    "TORRESCUSA MENDEZ, EKAITZ": 46,
+    "SAGÜES LORENTE, MARTIN": 90,
+    "SARR FALL, OUSMANE": 90,
+    "CARRO MIGUEL, DANIEL": 90,
+    "RAMOS JARAMILLO, MIKEL ALBEIRO": 90,
+    "LEMA YAMBERLA, GUERY": 90,
+    "VAZQUEZ JIMENEZ, JOSE": 50,
+    "PALACIOS PADILLA, ETHAN GABRIEL": 90,
+    "TOMASTO RICAPA, IBAI ANDER": 90,
+    "PINARGOTE CHINGA, WILMER": 90,
+    "MEDINA PEÑA, EDWARS": 90,
+    "SARR SARR, LAITY": 44,
+    "TRAVIESO LOPEZ, MARCOS": 40
+  },
+  "portero_local": "ANSALAS MAIZ, BEÑAT",
+  "portero_visitante": "TORRESCUSA MENDEZ, EKAITZ",
+  "dorsales_local": {
+    "ANSALAS MAIZ, BEÑAT": 1,
+    "RETEGI MUGICA, IBON": 2,
+    "IPARRAGIRRE ALBERDI, OIER": 3,
+    "CANAL ARTOLA, UGAITZ": 4,
+    "FERNANDEZ FRESNEDA, HARRI": 5,
+    "ARANBURU GALARREGUI, URKO": 6,
+    "MARICHALAR ALDAZ, EKAI": 7,
+    "DESKARGA LEGASA, IZEI": 8,
+    "PINILLOS AUZMENDI, JOANES": 9,
+    "ARITZ, GEROMETTA": 10,
+    "MILANO COLINA, JOSEP ABRAHAN": 11
+  },
+  "dorsales_visitante": {
+    "TORRESCUSA MENDEZ, EKAITZ": 1,
+    "SAGÜES LORENTE, MARTIN": 2,
+    "SARR FALL, OUSMANE": 5,
+    "CARRO MIGUEL, DANIEL": 6,
+    "RAMOS JARAMILLO, MIKEL ALBEIRO": 7,
+    "LEMA YAMBERLA, GUERY": 8,
+    "VAZQUEZ JIMENEZ, JOSE": 9,
+    "PALACIOS PADILLA, ETHAN GABRIEL": 10,
+    "TOMASTO RICAPA, IBAI ANDER": 11,
+    "PINARGOTE CHINGA, WILMER": 12,
+    "MEDINA PEÑA, EDWARS": 18
+  },
+  "suspendidos": []
+}
