@@ -1,0 +1,255 @@
+{
+  "acta_id": "C_244598",
+  "filename": "Acta_C_244598.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 7,
+  "fecha": "01-11-2026",
+  "hora": "13:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO B)",
+  "equipo_local": "S.D. GAMA A",
+  "equipo_visitante": "S.D. SOLARES-MEDIO CUDEYO B",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "LANUZA DIAZ, ALVARO"
+  ],
+  "estadio": "Gama",
+  "ciudad": "Bárcena de Cicero",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "RUIZ DELGADO, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 24,
+      "jugador": "ECHEVARRIA MATANZAS, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "SAN EMETERIO RUIZ, ANGEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "GOMEZ HERRERIA, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 52,
+      "jugador": "ECHEVARRIA MATANZAS, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 65,
+      "jugador": "GUERRA CAMINO, LEO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MONASTERIO PELAYO, ALEJANDRO",
+  "entrenador_visitante": "VALLEJO BUSTILLO, LUIS M",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "TUÑON PALACIO, MAARCO",
+    "MONASTERIO HERRERIA, PABLO",
+    "VARAS PALACIZ, ADRIAN",
+    "CRAIU, DAVID ANDREI",
+    "ECHEVARRIA MATANZAS, ADRIAN",
+    "MONASTERIO HERRERIA, LUCAS",
+    "HERRERA SARABIA, ALONSO",
+    "RUIZ DELGADO, PABLO",
+    "CHAKORI BASSALI, ISMAIL",
+    "PEREZ BOULANGUER, ALEJANDRO",
+    "CONDE MENDOZA, PEDRO"
+  ],
+  "titulares_visitante": [
+    "GUTIERREZ SANTIUSTE, LEO",
+    "ZAMACONA SAÑUDO, DAVID",
+    "COBO MARTINEZ, DIEGO",
+    "MALDONADO GUTIERREZ, JOSE MANUEL",
+    "FERNANDEZ RODRIGUEZ, RAUL",
+    "SAN EMETERIO RUIZ, ANGEL",
+    "GOMEZ HERRERIA, DIEGO",
+    "JIMENEZ AMOR, LARO",
+    "PRIETO MANGAS, JORGE",
+    "SANTIUSTE SANTAMARIA, MARIO",
+    "RODRIGUEZ CHAVEZ, NICOLAS"
+  ],
+  "suplentes_local": [
+    "EXPOSITO SAIZ, JON",
+    "VECI ARRIBA, SERGIO EMILIO",
+    "RUIZ DELGADO, MATEO"
+  ],
+  "suplentes_visitante": [
+    "LAVIN BARQUIN, ERIK",
+    "VILLOSLADA LAVIN, RODRIGO",
+    "GARCIA IRIZABAL, LUCAS",
+    "GUERRA CAMINO, LEO",
+    "SANZ CARBALLO, LUIS MIGUEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "TUÑON PALACIO, MAARCO",
+    "MONASTERIO HERRERIA, PABLO",
+    "VARAS PALACIZ, ADRIAN",
+    "CRAIU, DAVID ANDREI",
+    "ECHEVARRIA MATANZAS, ADRIAN",
+    "MONASTERIO HERRERIA, LUCAS",
+    "HERRERA SARABIA, ALONSO",
+    "RUIZ DELGADO, PABLO",
+    "CHAKORI BASSALI, ISMAIL",
+    "PEREZ BOULANGUER, ALEJANDRO",
+    "CONDE MENDOZA, PEDRO",
+    "VECI ARRIBA, SERGIO EMILIO",
+    "EXPOSITO SAIZ, JON",
+    "RUIZ DELGADO, MATEO"
+  ],
+  "jugadores_visitante": [
+    "GUTIERREZ SANTIUSTE, LEO",
+    "ZAMACONA SAÑUDO, DAVID",
+    "COBO MARTINEZ, DIEGO",
+    "MALDONADO GUTIERREZ, JOSE MANUEL",
+    "FERNANDEZ RODRIGUEZ, RAUL",
+    "SAN EMETERIO RUIZ, ANGEL",
+    "GOMEZ HERRERIA, DIEGO",
+    "JIMENEZ AMOR, LARO",
+    "PRIETO MANGAS, JORGE",
+    "SANTIUSTE SANTAMARIA, MARIO",
+    "RODRIGUEZ CHAVEZ, NICOLAS",
+    "LAVIN BARQUIN, ERIK",
+    "GUERRA CAMINO, LEO",
+    "SANZ CARBALLO, LUIS MIGUEL",
+    "VILLOSLADA LAVIN, RODRIGO",
+    "GARCIA IRIZABAL, LUCAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 31,
+      "entra": "VECI ARRIBA, SERGIO EMILIO",
+      "sale": "RUIZ DELGADO, PABLO"
+    },
+    {
+      "min": 35,
+      "entra": "EXPOSITO SAIZ, JON",
+      "sale": "TUÑON PALACIO, MAARCO"
+    },
+    {
+      "min": 54,
+      "entra": "RUIZ DELGADO, MATEO",
+      "sale": "ECHEVARRIA MATANZAS, ADRIAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "LAVIN BARQUIN, ERIK",
+      "sale": "GUTIERREZ SANTIUSTE, LEO"
+    },
+    {
+      "min": 35,
+      "entra": "GUERRA CAMINO, LEO",
+      "sale": "MALDONADO GUTIERREZ, JOSE MANUEL"
+    },
+    {
+      "min": 35,
+      "entra": "SANZ CARBALLO, LUIS MIGUEL",
+      "sale": "RODRIGUEZ CHAVEZ, NICOLAS"
+    },
+    {
+      "min": 48,
+      "entra": "VILLOSLADA LAVIN, RODRIGO",
+      "sale": "JIMENEZ AMOR, LARO"
+    },
+    {
+      "min": 48,
+      "entra": "GARCIA IRIZABAL, LUCAS",
+      "sale": "FERNANDEZ RODRIGUEZ, RAUL"
+    }
+  ],
+  "minutos_jugadores": {
+    "TUÑON PALACIO, MAARCO": 35,
+    "MONASTERIO HERRERIA, PABLO": 90,
+    "VARAS PALACIZ, ADRIAN": 90,
+    "CRAIU, DAVID ANDREI": 90,
+    "ECHEVARRIA MATANZAS, ADRIAN": 54,
+    "MONASTERIO HERRERIA, LUCAS": 90,
+    "HERRERA SARABIA, ALONSO": 90,
+    "RUIZ DELGADO, PABLO": 31,
+    "CHAKORI BASSALI, ISMAIL": 90,
+    "PEREZ BOULANGUER, ALEJANDRO": 90,
+    "CONDE MENDOZA, PEDRO": 90,
+    "VECI ARRIBA, SERGIO EMILIO": 59,
+    "EXPOSITO SAIZ, JON": 55,
+    "RUIZ DELGADO, MATEO": 36,
+    "GUTIERREZ SANTIUSTE, LEO": 35,
+    "ZAMACONA SAÑUDO, DAVID": 90,
+    "COBO MARTINEZ, DIEGO": 90,
+    "MALDONADO GUTIERREZ, JOSE MANUEL": 35,
+    "FERNANDEZ RODRIGUEZ, RAUL": 48,
+    "SAN EMETERIO RUIZ, ANGEL": 90,
+    "GOMEZ HERRERIA, DIEGO": 90,
+    "JIMENEZ AMOR, LARO": 48,
+    "PRIETO MANGAS, JORGE": 90,
+    "SANTIUSTE SANTAMARIA, MARIO": 90,
+    "RODRIGUEZ CHAVEZ, NICOLAS": 35,
+    "LAVIN BARQUIN, ERIK": 55,
+    "GUERRA CAMINO, LEO": 55,
+    "SANZ CARBALLO, LUIS MIGUEL": 55,
+    "VILLOSLADA LAVIN, RODRIGO": 42,
+    "GARCIA IRIZABAL, LUCAS": 42
+  },
+  "portero_local": "TUÑON PALACIO, MAARCO",
+  "portero_visitante": "GUTIERREZ SANTIUSTE, LEO",
+  "dorsales_local": {
+    "TUÑON PALACIO, MAARCO": 1,
+    "MONASTERIO HERRERIA, PABLO": 5,
+    "VARAS PALACIZ, ADRIAN": 6,
+    "CRAIU, DAVID ANDREI": 7,
+    "ECHEVARRIA MATANZAS, ADRIAN": 8,
+    "MONASTERIO HERRERIA, LUCAS": 9,
+    "HERRERA SARABIA, ALONSO": 10,
+    "RUIZ DELGADO, PABLO": 11,
+    "CHAKORI BASSALI, ISMAIL": 12,
+    "PEREZ BOULANGUER, ALEJANDRO": 15,
+    "CONDE MENDOZA, PEDRO": 16
+  },
+  "dorsales_visitante": {
+    "GUTIERREZ SANTIUSTE, LEO": 13,
+    "ZAMACONA SAÑUDO, DAVID": 2,
+    "COBO MARTINEZ, DIEGO": 4,
+    "MALDONADO GUTIERREZ, JOSE MANUEL": 6,
+    "FERNANDEZ RODRIGUEZ, RAUL": 8,
+    "SAN EMETERIO RUIZ, ANGEL": 9,
+    "GOMEZ HERRERIA, DIEGO": 10,
+    "JIMENEZ AMOR, LARO": 14,
+    "PRIETO MANGAS, JORGE": 15,
+    "SANTIUSTE SANTAMARIA, MARIO": 17,
+    "RODRIGUEZ CHAVEZ, NICOLAS": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
