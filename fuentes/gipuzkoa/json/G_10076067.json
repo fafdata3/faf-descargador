@@ -1,0 +1,284 @@
+{
+  "acta_id": "G_10076067",
+  "filename": "Acta_G_10076067.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2026-2027",
+  "jornada": 4,
+  "fecha": "17-10-2026",
+  "hora": "16:00",
+  "categoria": "INFANTIL MUTILEN 1.MAILA / 1ª INFANTIL MASCULINO (1. MULTZOA - GRUPO 1)",
+  "equipo_local": "GURE TXOKOA K.K.E.",
+  "equipo_visitante": "PASAIA K.E.",
+  "goles_local": 4,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "VICENTE ROJO, ARITZ"
+  ],
+  "estadio": "MATZADA (H.A.)",
+  "ciudad": "BERA BIDASOA",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "CASTRO BACA, SNEYDER JARETH",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 24,
+      "jugador": "TABERNA MARTINEZ, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 27,
+      "jugador": "DOMINGUEZ BLANCO, XABIER",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "TABERNA MARTINEZ, ANGEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "OYARZABAL BERRUETA, ENEKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "SANCHEZ PEÑA, JESHUA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 27,
+      "jugador": "CAPDEQUI ZAPIRAIN, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "POP VILLA, DAMIAN SABIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "CASTRO BACA, SNEYDER JARETH",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MONCALVILLO GARCIA, BRUNO",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "IRAZOQUI TELLECHEA, BEÑAT",
+  "delegado_equipo_visitante": "OSORIO FERNANDEZ, KEVIN YAMIT",
+  "titulares_local": [
+    "BALDA AGUINAGA, ENAITZ",
+    "ALMANDOZ TAPIA, AIMAR",
+    "AROZENA ELRIO, ADUR",
+    "TABERNA MARTINEZ, ANGEL",
+    "HUIZI SANCHEZ, XUBAN",
+    "ZUAZO REY, MATIAS",
+    "RETEGI RICO, INAR",
+    "POP VILLA, DAMIAN SABIN",
+    "CAPDEQUI ZAPIRAIN, IKER",
+    "OYARZABAL BERRUETA, ENEKO",
+    "LAZKANO LASAGA, XAMAL"
+  ],
+  "titulares_visitante": [
+    "GURIDI LASA, GORKA",
+    "GONZALEZ REMIREZ, BEÑAT",
+    "YAÑEZ NAVARRETE, SAMUEL",
+    "RODRIGUEZ MEJIA, AMETS",
+    "ENCINAS JAUSORO, IKER",
+    "MEDINA PUERTAS, JOEL",
+    "CASTRO BACA, SNEYDER JARETH",
+    "CERRON LLANTOY, CARLOS NICOLA",
+    "DOMINGUEZ BLANCO, XABIER",
+    "SIERRA ARRANZ, IBAI",
+    "DURAN SANCHEZ, OIER"
+  ],
+  "suplentes_local": [
+    "SEHLI KADI, HAROUN",
+    "AROZENA ELRIO, OINATZ",
+    "CUIBAN, LEONARD",
+    "TELLECHEA APEZTEGUIA, IGOR",
+    "HUIZI MATXIARENA, MARKEL",
+    "AROSTEGI IRAZOQUI, UNAI"
+  ],
+  "suplentes_visitante": [
+    "ABASCAL ARISTI, OIER",
+    "SANCHEZ PEÑA, JESHUA",
+    "GOMEZ, IAN YAEL"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "BALDA AGUINAGA, ENAITZ",
+    "ALMANDOZ TAPIA, AIMAR",
+    "AROZENA ELRIO, ADUR",
+    "TABERNA MARTINEZ, ANGEL",
+    "HUIZI SANCHEZ, XUBAN",
+    "ZUAZO REY, MATIAS",
+    "RETEGI RICO, INAR",
+    "POP VILLA, DAMIAN SABIN",
+    "CAPDEQUI ZAPIRAIN, IKER",
+    "OYARZABAL BERRUETA, ENEKO",
+    "LAZKANO LASAGA, XAMAL",
+    "TELLECHEA APEZTEGUIA, IGOR",
+    "AROSTEGI IRAZOQUI, UNAI",
+    "CUIBAN, LEONARD",
+    "AROZENA ELRIO, OINATZ",
+    "SEHLI KADI, HAROUN",
+    "HUIZI MATXIARENA, MARKEL"
+  ],
+  "jugadores_visitante": [
+    "GURIDI LASA, GORKA",
+    "GONZALEZ REMIREZ, BEÑAT",
+    "YAÑEZ NAVARRETE, SAMUEL",
+    "RODRIGUEZ MEJIA, AMETS",
+    "ENCINAS JAUSORO, IKER",
+    "MEDINA PUERTAS, JOEL",
+    "CASTRO BACA, SNEYDER JARETH",
+    "CERRON LLANTOY, CARLOS NICOLA",
+    "DOMINGUEZ BLANCO, XABIER",
+    "SIERRA ARRANZ, IBAI",
+    "DURAN SANCHEZ, OIER",
+    "ABASCAL ARISTI, OIER",
+    "SANCHEZ PEÑA, JESHUA",
+    "GOMEZ, IAN YAEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 39,
+      "entra": "TELLECHEA APEZTEGUIA, IGOR",
+      "sale": "CAPDEQUI ZAPIRAIN, IKER"
+    },
+    {
+      "min": 39,
+      "entra": "AROSTEGI IRAZOQUI, UNAI",
+      "sale": "OYARZABAL BERRUETA, ENEKO"
+    },
+    {
+      "min": 39,
+      "entra": "CUIBAN, LEONARD",
+      "sale": "HUIZI SANCHEZ, XUBAN"
+    },
+    {
+      "min": 45,
+      "entra": "AROZENA ELRIO, OINATZ",
+      "sale": "AROZENA ELRIO, ADUR"
+    },
+    {
+      "min": 50,
+      "entra": "SEHLI KADI, HAROUN",
+      "sale": "RETEGI RICO, INAR"
+    },
+    {
+      "min": 50,
+      "entra": "HUIZI MATXIARENA, MARKEL",
+      "sale": "TABERNA MARTINEZ, ANGEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 32,
+      "entra": "ABASCAL ARISTI, OIER",
+      "sale": "GONZALEZ REMIREZ, BEÑAT"
+    },
+    {
+      "min": 36,
+      "entra": "SANCHEZ PEÑA, JESHUA",
+      "sale": "CERRON LLANTOY, CARLOS NICOLA"
+    },
+    {
+      "min": 36,
+      "entra": "GOMEZ, IAN YAEL",
+      "sale": "RODRIGUEZ MEJIA, AMETS"
+    }
+  ],
+  "minutos_jugadores": {
+    "BALDA AGUINAGA, ENAITZ": 90,
+    "ALMANDOZ TAPIA, AIMAR": 90,
+    "AROZENA ELRIO, ADUR": 45,
+    "TABERNA MARTINEZ, ANGEL": 50,
+    "HUIZI SANCHEZ, XUBAN": 39,
+    "ZUAZO REY, MATIAS": 90,
+    "RETEGI RICO, INAR": 50,
+    "POP VILLA, DAMIAN SABIN": 90,
+    "CAPDEQUI ZAPIRAIN, IKER": 39,
+    "OYARZABAL BERRUETA, ENEKO": 39,
+    "LAZKANO LASAGA, XAMAL": 90,
+    "TELLECHEA APEZTEGUIA, IGOR": 51,
+    "AROSTEGI IRAZOQUI, UNAI": 51,
+    "CUIBAN, LEONARD": 51,
+    "AROZENA ELRIO, OINATZ": 45,
+    "SEHLI KADI, HAROUN": 40,
+    "HUIZI MATXIARENA, MARKEL": 40,
+    "GURIDI LASA, GORKA": 90,
+    "GONZALEZ REMIREZ, BEÑAT": 32,
+    "YAÑEZ NAVARRETE, SAMUEL": 90,
+    "RODRIGUEZ MEJIA, AMETS": 36,
+    "ENCINAS JAUSORO, IKER": 90,
+    "MEDINA PUERTAS, JOEL": 90,
+    "CASTRO BACA, SNEYDER JARETH": 90,
+    "CERRON LLANTOY, CARLOS NICOLA": 36,
+    "DOMINGUEZ BLANCO, XABIER": 90,
+    "SIERRA ARRANZ, IBAI": 90,
+    "DURAN SANCHEZ, OIER": 90,
+    "ABASCAL ARISTI, OIER": 58,
+    "SANCHEZ PEÑA, JESHUA": 54,
+    "GOMEZ, IAN YAEL": 54
+  },
+  "portero_local": "BALDA AGUINAGA, ENAITZ",
+  "portero_visitante": "GURIDI LASA, GORKA",
+  "dorsales_local": {
+    "BALDA AGUINAGA, ENAITZ": 1,
+    "ALMANDOZ TAPIA, AIMAR": 2,
+    "AROZENA ELRIO, ADUR": 4,
+    "TABERNA MARTINEZ, ANGEL": 5,
+    "HUIZI SANCHEZ, XUBAN": 6,
+    "ZUAZO REY, MATIAS": 7,
+    "RETEGI RICO, INAR": 10,
+    "POP VILLA, DAMIAN SABIN": 11,
+    "CAPDEQUI ZAPIRAIN, IKER": 14,
+    "OYARZABAL BERRUETA, ENEKO": 18,
+    "LAZKANO LASAGA, XAMAL": 19
+  },
+  "dorsales_visitante": {
+    "GURIDI LASA, GORKA": 25,
+    "GONZALEZ REMIREZ, BEÑAT": 4,
+    "YAÑEZ NAVARRETE, SAMUEL": 6,
+    "RODRIGUEZ MEJIA, AMETS": 9,
+    "ENCINAS JAUSORO, IKER": 10,
+    "MEDINA PUERTAS, JOEL": 11,
+    "CASTRO BACA, SNEYDER JARETH": 12,
+    "CERRON LLANTOY, CARLOS NICOLA": 14,
+    "DOMINGUEZ BLANCO, XABIER": 17,
+    "SIERRA ARRANZ, IBAI": 18,
+    "DURAN SANCHEZ, OIER": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
