@@ -1,0 +1,286 @@
+{
+  "acta_id": "C_244105",
+  "filename": "Acta_C_244105.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "24-10-2026",
+  "hora": "13:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "R.S. GIMNASTICA A",
+  "equipo_visitante": "E.F. SANTANDER A",
+  "goles_local": 5,
+  "goles_visitante": 4,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "ALLENDE GARCIA, SAÚL"
+  ],
+  "estadio": "El Malecón 2",
+  "ciudad": "Torrelavega",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "LOPEZ PELAYO, ALEJANDRO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "BOLADO MASEGOSA, DAVID",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 20,
+      "jugador": "ELCORO MARTIN, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 31,
+      "jugador": "HERRUZO RODRIGUEZ, LEO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "CAMPELO MARTINEZ, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "REBOLLEDO GARCIA, OLIVER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "CAMPELO MARTINEZ, DAVID",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "FERNANDEZ GARCIA, IZAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "CALLEJA REVILLA, YANEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 51,
+      "jugador": "NAZHBEER SABAH ABDULLAH, ABDULLAH",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LARUMBE GARCIA, AIMAR",
+  "entrenador_visitante": "DOMINGUEZ ALONSO, FERMIN",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RAMOS MONTERO, TELMO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "ALDEA MARTINEZ, UNAI",
+    "DIACONU PINZARI, NIKITA",
+    "FERNÁNDEZ ANDRÉS, ENZO",
+    "FERNANDEZ GARCIA, IZAN",
+    "LOPEZ PELAYO, ALEJANDRO",
+    "BOLADO MASEGOSA, DAVID",
+    "TARDON JARAIZ, JORGE",
+    "HERRUZO RODRIGUEZ, LEO",
+    "CORDON PRADANOS, PABLO",
+    "DEL BARRIO MONTES, SIRO",
+    "HARO ISABEL, ABRAHAM"
+  ],
+  "titulares_visitante": [
+    "DE GIL SIMON, RAFAEL",
+    "BENELLI MONTEAGUDO, LUCA",
+    "GOMEZ MCNAMARA, LUKE",
+    "VALERO VEGA, RAUL",
+    "ELCORO MARTIN, PABLO",
+    "CUCURULL AGUERO, ARTURO",
+    "ACHA GOMEZ, ALEJANDRO",
+    "CALLEJA REVILLA, YANEL",
+    "GARCÍA FERNÁNDEZ, MIGUEL",
+    "CAMPELO MARTINEZ, DAVID",
+    "OSORIO CEBALLOS, ANDREW STEVEN"
+  ],
+  "suplentes_local": [
+    "MARCOS GARCIA, ADRIAN",
+    "RUIZ GARCIA, DARIO",
+    "REBOLLEDO GARCIA, OLIVER",
+    "SAIZ MOYA, SAUL"
+  ],
+  "suplentes_visitante": [
+    "COBO PEREZ, MANUEL",
+    "RUIZ HERRERO, RODRIGO",
+    "AGUDO SANCHEZ, FELIX",
+    "SAN MILLAN GONZALEZ, ALVARO",
+    "NAZHBEER SABAH ABDULLAH, ABDULLAH"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARCOS GARCIA, ADRIAN"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ALDEA MARTINEZ, UNAI",
+    "DIACONU PINZARI, NIKITA",
+    "FERNÁNDEZ ANDRÉS, ENZO",
+    "FERNANDEZ GARCIA, IZAN",
+    "LOPEZ PELAYO, ALEJANDRO",
+    "BOLADO MASEGOSA, DAVID",
+    "TARDON JARAIZ, JORGE",
+    "HERRUZO RODRIGUEZ, LEO",
+    "CORDON PRADANOS, PABLO",
+    "DEL BARRIO MONTES, SIRO",
+    "HARO ISABEL, ABRAHAM",
+    "REBOLLEDO GARCIA, OLIVER",
+    "RUIZ GARCIA, DARIO",
+    "SAIZ MOYA, SAUL"
+  ],
+  "jugadores_visitante": [
+    "DE GIL SIMON, RAFAEL",
+    "BENELLI MONTEAGUDO, LUCA",
+    "GOMEZ MCNAMARA, LUKE",
+    "VALERO VEGA, RAUL",
+    "ELCORO MARTIN, PABLO",
+    "CUCURULL AGUERO, ARTURO",
+    "ACHA GOMEZ, ALEJANDRO",
+    "CALLEJA REVILLA, YANEL",
+    "GARCÍA FERNÁNDEZ, MIGUEL",
+    "CAMPELO MARTINEZ, DAVID",
+    "OSORIO CEBALLOS, ANDREW STEVEN",
+    "AGUDO SANCHEZ, FELIX",
+    "RUIZ HERRERO, RODRIGO",
+    "SAN MILLAN GONZALEZ, ALVARO",
+    "NAZHBEER SABAH ABDULLAH, ABDULLAH",
+    "COBO PEREZ, MANUEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 38,
+      "entra": "REBOLLEDO GARCIA, OLIVER",
+      "sale": "HARO ISABEL, ABRAHAM"
+    },
+    {
+      "min": 50,
+      "entra": "RUIZ GARCIA, DARIO",
+      "sale": "CORDON PRADANOS, PABLO"
+    },
+    {
+      "min": 52,
+      "entra": "SAIZ MOYA, SAUL",
+      "sale": "DEL BARRIO MONTES, SIRO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "AGUDO SANCHEZ, FELIX",
+      "sale": "VALERO VEGA, RAUL"
+    },
+    {
+      "min": 35,
+      "entra": "RUIZ HERRERO, RODRIGO",
+      "sale": "ELCORO MARTIN, PABLO"
+    },
+    {
+      "min": 35,
+      "entra": "SAN MILLAN GONZALEZ, ALVARO",
+      "sale": "CUCURULL AGUERO, ARTURO"
+    },
+    {
+      "min": 35,
+      "entra": "NAZHBEER SABAH ABDULLAH, ABDULLAH",
+      "sale": "ACHA GOMEZ, ALEJANDRO"
+    },
+    {
+      "min": 51,
+      "entra": "COBO PEREZ, MANUEL",
+      "sale": "NAZHBEER SABAH ABDULLAH, ABDULLAH"
+    }
+  ],
+  "minutos_jugadores": {
+    "ALDEA MARTINEZ, UNAI": 90,
+    "DIACONU PINZARI, NIKITA": 90,
+    "FERNÁNDEZ ANDRÉS, ENZO": 90,
+    "FERNANDEZ GARCIA, IZAN": 90,
+    "LOPEZ PELAYO, ALEJANDRO": 90,
+    "BOLADO MASEGOSA, DAVID": 90,
+    "TARDON JARAIZ, JORGE": 90,
+    "HERRUZO RODRIGUEZ, LEO": 90,
+    "CORDON PRADANOS, PABLO": 50,
+    "DEL BARRIO MONTES, SIRO": 52,
+    "HARO ISABEL, ABRAHAM": 38,
+    "REBOLLEDO GARCIA, OLIVER": 52,
+    "RUIZ GARCIA, DARIO": 40,
+    "SAIZ MOYA, SAUL": 38,
+    "DE GIL SIMON, RAFAEL": 90,
+    "BENELLI MONTEAGUDO, LUCA": 90,
+    "GOMEZ MCNAMARA, LUKE": 90,
+    "VALERO VEGA, RAUL": 35,
+    "ELCORO MARTIN, PABLO": 35,
+    "CUCURULL AGUERO, ARTURO": 35,
+    "ACHA GOMEZ, ALEJANDRO": 35,
+    "CALLEJA REVILLA, YANEL": 90,
+    "GARCÍA FERNÁNDEZ, MIGUEL": 90,
+    "CAMPELO MARTINEZ, DAVID": 90,
+    "OSORIO CEBALLOS, ANDREW STEVEN": 90,
+    "AGUDO SANCHEZ, FELIX": 55,
+    "RUIZ HERRERO, RODRIGO": 55,
+    "SAN MILLAN GONZALEZ, ALVARO": 55,
+    "NAZHBEER SABAH ABDULLAH, ABDULLAH": 51,
+    "COBO PEREZ, MANUEL": 39
+  },
+  "portero_local": "ALDEA MARTINEZ, UNAI",
+  "portero_visitante": "DE GIL SIMON, RAFAEL",
+  "dorsales_local": {
+    "ALDEA MARTINEZ, UNAI": 13,
+    "DIACONU PINZARI, NIKITA": 2,
+    "FERNÁNDEZ ANDRÉS, ENZO": 4,
+    "FERNANDEZ GARCIA, IZAN": 5,
+    "LOPEZ PELAYO, ALEJANDRO": 6,
+    "BOLADO MASEGOSA, DAVID": 7,
+    "TARDON JARAIZ, JORGE": 8,
+    "HERRUZO RODRIGUEZ, LEO": 9,
+    "CORDON PRADANOS, PABLO": 11,
+    "DEL BARRIO MONTES, SIRO": 17,
+    "HARO ISABEL, ABRAHAM": 19
+  },
+  "dorsales_visitante": {
+    "DE GIL SIMON, RAFAEL": 1,
+    "BENELLI MONTEAGUDO, LUCA": 2,
+    "GOMEZ MCNAMARA, LUKE": 3,
+    "VALERO VEGA, RAUL": 5,
+    "ELCORO MARTIN, PABLO": 9,
+    "CUCURULL AGUERO, ARTURO": 11,
+    "ACHA GOMEZ, ALEJANDRO": 12,
+    "CALLEJA REVILLA, YANEL": 14,
+    "GARCÍA FERNÁNDEZ, MIGUEL": 16,
+    "CAMPELO MARTINEZ, DAVID": 17,
+    "OSORIO CEBALLOS, ANDREW STEVEN": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
