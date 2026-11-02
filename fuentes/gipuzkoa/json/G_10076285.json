@@ -1,0 +1,300 @@
+{
+  "acta_id": "G_10076285",
+  "filename": "Acta_G_10076285.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2026-2027",
+  "jornada": 2,
+  "fecha": "03-10-2026",
+  "hora": "13:30",
+  "categoria": "INFANTIL MUTILEN 1.MAILA / 1ª INFANTIL MASCULINO (6. MULTZOA - GRUPO 6)",
+  "equipo_local": "BEASAIN S.D.",
+  "equipo_visitante": "BILLABONA F.K.E.",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "GARIN LEUNDA, ADUR"
+  ],
+  "estadio": "IGARTZA",
+  "ciudad": "Beasain",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "MUGICA MUÑOZ, EKAIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 30,
+      "jugador": "IGLESIAS MENDILUCE, ITOITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "ARAUJO DE BARROS, ALAIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "LARRAYA MUÑOA, AMETS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 69,
+      "jugador": "REBELO LEMIÑA, ERIK",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 23,
+      "jugador": "EL ALLALI AMALLOUK, IMRAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 31,
+      "jugador": "LARRAYA MUÑOA, AMETS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 54,
+      "jugador": "LEUNDA RODRIGUEZ, URKO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ALONSO SÁNCHEZ, JULEN",
+  "delegado_equipo_visitante": "CALVO LOINAZ, ALAIN",
+  "titulares_local": [
+    "URTEAGA GONZALEZ-ETXABA, JOSU",
+    "REMIREZ MARTIN, UNAX",
+    "ARTOLA CRUZADO, AIERT",
+    "AVILA BORREGO, LANDER",
+    "MONTORO HERNANDEZ, IKER",
+    "BALERDI IRAETA, HARRI",
+    "HASSAD EL HACHTI, ADAM",
+    "LARRAYA MUÑOA, AMETS",
+    "ARAUJO DE BARROS, ALAIN",
+    "REBELO LEMIÑA, ERIK",
+    "EL ALLALI AMALLOUK, IMRAN"
+  ],
+  "titulares_visitante": [
+    "BALDA TOME, OIER",
+    "RIVERO FUENMAYOR, MIKHAIL",
+    "ZIANI EL HASNAOUI, YASSIR",
+    "LEUNDA RODRIGUEZ, URKO",
+    "BARRIGA ESNAOLA, ENEKO",
+    "IGLESIAS MENDILUCE, ITOITZ",
+    "BERASALUZE AMIANO, AXEL",
+    "ORTIZ CAMACHO, MATIAS DAVID",
+    "MUGICA MUÑOZ, EKAIN",
+    "BARRIGA REGATOS, IMANOL",
+    "MARIN LERTXUNDI, OIER"
+  ],
+  "suplentes_local": [
+    "CID SALSAMENDI, ANDER",
+    "HERNANDO CONEJO, LANDER",
+    "AYERBE MUGICA, EREN",
+    "GOIBURU EGUREN, GARI",
+    "NISO ORDOÑEZ, JULEN",
+    "GONZALEZ ZURUTUZA, RAUL"
+  ],
+  "suplentes_visitante": [
+    "BARBERIA CARBAJO, JOSE LUIS",
+    "JOFRE OLARIAGA, JULEN",
+    "ALVAREZ GIL, IKER",
+    "TORRES HUERTA, DANIEL",
+    "SANCHEZ MARTINEZ, EKAITZ",
+    "LOPES RIBEIRO, RODRIGO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "URTEAGA GONZALEZ-ETXABA, JOSU",
+    "REMIREZ MARTIN, UNAX",
+    "ARTOLA CRUZADO, AIERT",
+    "AVILA BORREGO, LANDER",
+    "MONTORO HERNANDEZ, IKER",
+    "BALERDI IRAETA, HARRI",
+    "HASSAD EL HACHTI, ADAM",
+    "LARRAYA MUÑOA, AMETS",
+    "ARAUJO DE BARROS, ALAIN",
+    "REBELO LEMIÑA, ERIK",
+    "EL ALLALI AMALLOUK, IMRAN",
+    "CID SALSAMENDI, ANDER",
+    "GONZALEZ ZURUTUZA, RAUL",
+    "GOIBURU EGUREN, GARI",
+    "HERNANDO CONEJO, LANDER",
+    "NISO ORDOÑEZ, JULEN",
+    "AYERBE MUGICA, EREN"
+  ],
+  "jugadores_visitante": [
+    "BALDA TOME, OIER",
+    "RIVERO FUENMAYOR, MIKHAIL",
+    "ZIANI EL HASNAOUI, YASSIR",
+    "LEUNDA RODRIGUEZ, URKO",
+    "BARRIGA ESNAOLA, ENEKO",
+    "IGLESIAS MENDILUCE, ITOITZ",
+    "BERASALUZE AMIANO, AXEL",
+    "ORTIZ CAMACHO, MATIAS DAVID",
+    "MUGICA MUÑOZ, EKAIN",
+    "BARRIGA REGATOS, IMANOL",
+    "MARIN LERTXUNDI, OIER",
+    "TORRES HUERTA, DANIEL",
+    "BARBERIA CARBAJO, JOSE LUIS",
+    "JOFRE OLARIAGA, JULEN",
+    "ALVAREZ GIL, IKER",
+    "LOPES RIBEIRO, RODRIGO",
+    "SANCHEZ MARTINEZ, EKAITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "CID SALSAMENDI, ANDER",
+      "sale": "URTEAGA GONZALEZ-ETXABA, JOSU"
+    },
+    {
+      "min": 36,
+      "entra": "GONZALEZ ZURUTUZA, RAUL",
+      "sale": "BALERDI IRAETA, HARRI"
+    },
+    {
+      "min": 36,
+      "entra": "GOIBURU EGUREN, GARI",
+      "sale": "MONTORO HERNANDEZ, IKER"
+    },
+    {
+      "min": 36,
+      "entra": "HERNANDO CONEJO, LANDER",
+      "sale": "REMIREZ MARTIN, UNAX"
+    },
+    {
+      "min": 43,
+      "entra": "NISO ORDOÑEZ, JULEN",
+      "sale": "ARAUJO DE BARROS, ALAIN"
+    },
+    {
+      "min": 43,
+      "entra": "AYERBE MUGICA, EREN",
+      "sale": "EL ALLALI AMALLOUK, IMRAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 18,
+      "entra": "TORRES HUERTA, DANIEL",
+      "sale": "MARIN LERTXUNDI, OIER"
+    },
+    {
+      "min": 18,
+      "entra": "BARBERIA CARBAJO, JOSE LUIS",
+      "sale": "RIVERO FUENMAYOR, MIKHAIL"
+    },
+    {
+      "min": 31,
+      "entra": "JOFRE OLARIAGA, JULEN",
+      "sale": "ORTIZ CAMACHO, MATIAS DAVID"
+    },
+    {
+      "min": 36,
+      "entra": "ALVAREZ GIL, IKER",
+      "sale": "BARRIGA ESNAOLA, ENEKO"
+    },
+    {
+      "min": 47,
+      "entra": "LOPES RIBEIRO, RODRIGO",
+      "sale": "ZIANI EL HASNAOUI, YASSIR"
+    },
+    {
+      "min": 47,
+      "entra": "SANCHEZ MARTINEZ, EKAITZ",
+      "sale": "MUGICA MUÑOZ, EKAIN"
+    }
+  ],
+  "minutos_jugadores": {
+    "URTEAGA GONZALEZ-ETXABA, JOSU": 36,
+    "REMIREZ MARTIN, UNAX": 36,
+    "ARTOLA CRUZADO, AIERT": 90,
+    "AVILA BORREGO, LANDER": 90,
+    "MONTORO HERNANDEZ, IKER": 36,
+    "BALERDI IRAETA, HARRI": 36,
+    "HASSAD EL HACHTI, ADAM": 90,
+    "LARRAYA MUÑOA, AMETS": 90,
+    "ARAUJO DE BARROS, ALAIN": 43,
+    "REBELO LEMIÑA, ERIK": 90,
+    "EL ALLALI AMALLOUK, IMRAN": 43,
+    "CID SALSAMENDI, ANDER": 54,
+    "GONZALEZ ZURUTUZA, RAUL": 54,
+    "GOIBURU EGUREN, GARI": 54,
+    "HERNANDO CONEJO, LANDER": 54,
+    "NISO ORDOÑEZ, JULEN": 47,
+    "AYERBE MUGICA, EREN": 47,
+    "BALDA TOME, OIER": 90,
+    "RIVERO FUENMAYOR, MIKHAIL": 18,
+    "ZIANI EL HASNAOUI, YASSIR": 47,
+    "LEUNDA RODRIGUEZ, URKO": 90,
+    "BARRIGA ESNAOLA, ENEKO": 36,
+    "IGLESIAS MENDILUCE, ITOITZ": 90,
+    "BERASALUZE AMIANO, AXEL": 90,
+    "ORTIZ CAMACHO, MATIAS DAVID": 31,
+    "MUGICA MUÑOZ, EKAIN": 47,
+    "BARRIGA REGATOS, IMANOL": 90,
+    "MARIN LERTXUNDI, OIER": 18,
+    "TORRES HUERTA, DANIEL": 72,
+    "BARBERIA CARBAJO, JOSE LUIS": 72,
+    "JOFRE OLARIAGA, JULEN": 59,
+    "ALVAREZ GIL, IKER": 54,
+    "LOPES RIBEIRO, RODRIGO": 43,
+    "SANCHEZ MARTINEZ, EKAITZ": 43
+  },
+  "portero_local": "URTEAGA GONZALEZ-ETXABA, JOSU",
+  "portero_visitante": "BALDA TOME, OIER",
+  "dorsales_local": {
+    "URTEAGA GONZALEZ-ETXABA, JOSU": 1,
+    "REMIREZ MARTIN, UNAX": 2,
+    "ARTOLA CRUZADO, AIERT": 3,
+    "AVILA BORREGO, LANDER": 4,
+    "MONTORO HERNANDEZ, IKER": 5,
+    "BALERDI IRAETA, HARRI": 6,
+    "HASSAD EL HACHTI, ADAM": 7,
+    "LARRAYA MUÑOA, AMETS": 8,
+    "ARAUJO DE BARROS, ALAIN": 9,
+    "REBELO LEMIÑA, ERIK": 10,
+    "EL ALLALI AMALLOUK, IMRAN": 11
+  },
+  "dorsales_visitante": {
+    "BALDA TOME, OIER": 1,
+    "RIVERO FUENMAYOR, MIKHAIL": 3,
+    "ZIANI EL HASNAOUI, YASSIR": 4,
+    "LEUNDA RODRIGUEZ, URKO": 5,
+    "BARRIGA ESNAOLA, ENEKO": 6,
+    "IGLESIAS MENDILUCE, ITOITZ": 10,
+    "BERASALUZE AMIANO, AXEL": 14,
+    "ORTIZ CAMACHO, MATIAS DAVID": 15,
+    "MUGICA MUÑOZ, EKAIN": 16,
+    "BARRIGA REGATOS, IMANOL": 18,
+    "MARIN LERTXUNDI, OIER": 22
+  },
+  "suspendidos": []
+}
