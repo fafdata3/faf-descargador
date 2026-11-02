@@ -1,0 +1,295 @@
+{
+  "acta_id": "G_10075676",
+  "filename": "Acta_G_10075676.txt",
+  "fuente": "gipuzkoa",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "31-10-2026",
+  "hora": "12:00",
+  "categoria": "MUTILEN INFANTIL TXIKI / INFANTIL TXIKI MASCULINO (7. MULTZOA - GRUPO 7)",
+  "equipo_local": "ALOÑA MENDI K.E.",
+  "equipo_visitante": "MONDRAGON C.F.",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "GOMES UGARTE, INTZ"
+  ],
+  "estadio": "AZKOAGAIN",
+  "ciudad": "Oñati",
+  "goleadores": [
+    {
+      "minuto": 8,
+      "jugador": "ARNAIZ MENDIZABAL, AMETS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "MARTINEZ UGARTE, XABAT",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "DAVILA OZAETA, JURGI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 42,
+      "jugador": "ARREGI CAMINO, OXEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 42,
+      "jugador": "PALACIN ALDEA, HODEI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 48,
+      "jugador": "SANZBERRO IRIA, ARATZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "URTEAGA VITORIA, BITTOR",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PALACIN ALDEA, HODEI",
+  "delegado_equipo_visitante": "BRAHIM, MOHAMED MOULUD",
+  "titulares_local": [
+    "ARREGI CAMINO, OXEL",
+    "MORENO LANA, UNAX",
+    "VASQUEZ CORNEJO, MATIAS",
+    "PALACIN ERRASTI, GARI",
+    "PALACIN URIBE, GUREN",
+    "AGIRRE GOROSTIAGA, LUKEN",
+    "ELORZA MADINA, HUGO",
+    "GOROSTIAGA CABALLERO, LUCAS",
+    "HERNANDEZ BARRENA, KEPA",
+    "IBARZABAL URIBEETXEBARRIA, PERU",
+    "IBARZABAL URIBEETXEBARRIA, AMETS"
+  ],
+  "titulares_visitante": [
+    "BADIOLA SAGASTA, BEÑAT",
+    "FERREIRA BARRUTIABENGOA, ION",
+    "TOSTON LOPEZ DE BERGAR, LIER",
+    "PUERTO PEREZ, ENEKO",
+    "ARNAIZ MENDIZABAL, AMETS",
+    "BEN OMAR BOUZALMAD, ADAM",
+    "DAVILA OZAETA, JURGI",
+    "GOROSABEL VAZ, IZEI",
+    "MARTINEZ UGARTE, XABAT",
+    "FERNANDEZ JIMENEZ, AARON",
+    "ACHA DELGADO, MARTIN"
+  ],
+  "suplentes_local": [
+    "BERNAL ARRAZOLA, EKAI",
+    "MENDIZABAL ALTZELAI, AIMAR",
+    "AREJOLALEIBA CAÑO, ANER",
+    "LUMBRERAS DELGADO, DANEL",
+    "GONZALEZ RUBIO, ALEX",
+    "LIZARRALDE MARTINEZ DE ZUAZO, EKAIN",
+    "GARCIA LOPEZ, AIMAR"
+  ],
+  "suplentes_visitante": [
+    "KEREJETA GOROSTIZA, EKAIN",
+    "ALZOLA LOITI, PELLO",
+    "SANZBERRO IRIA, ARATZ",
+    "NADIR, MOHAMED AMINE",
+    "URKIA EGUIDAZU, EKAIN",
+    "JIMENEZ IZAGUIRRE, MANEX"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "ARREGI CAMINO, OXEL",
+    "MORENO LANA, UNAX",
+    "VASQUEZ CORNEJO, MATIAS",
+    "PALACIN ERRASTI, GARI",
+    "PALACIN URIBE, GUREN",
+    "AGIRRE GOROSTIAGA, LUKEN",
+    "ELORZA MADINA, HUGO",
+    "GOROSTIAGA CABALLERO, LUCAS",
+    "HERNANDEZ BARRENA, KEPA",
+    "IBARZABAL URIBEETXEBARRIA, PERU",
+    "IBARZABAL URIBEETXEBARRIA, AMETS",
+    "LUMBRERAS DELGADO, DANEL",
+    "GARCIA LOPEZ, AIMAR",
+    "AREJOLALEIBA CAÑO, ANER",
+    "LIZARRALDE MARTINEZ DE ZUAZO, EKAIN",
+    "BERNAL ARRAZOLA, EKAI",
+    "GONZALEZ RUBIO, ALEX",
+    "MENDIZABAL ALTZELAI, AIMAR"
+  ],
+  "jugadores_visitante": [
+    "BADIOLA SAGASTA, BEÑAT",
+    "FERREIRA BARRUTIABENGOA, ION",
+    "TOSTON LOPEZ DE BERGAR, LIER",
+    "PUERTO PEREZ, ENEKO",
+    "ARNAIZ MENDIZABAL, AMETS",
+    "BEN OMAR BOUZALMAD, ADAM",
+    "DAVILA OZAETA, JURGI",
+    "GOROSABEL VAZ, IZEI",
+    "MARTINEZ UGARTE, XABAT",
+    "FERNANDEZ JIMENEZ, AARON",
+    "ACHA DELGADO, MARTIN",
+    "JIMENEZ IZAGUIRRE, MANEX",
+    "KEREJETA GOROSTIZA, EKAIN",
+    "URKIA EGUIDAZU, EKAIN",
+    "ALZOLA LOITI, PELLO",
+    "SANZBERRO IRIA, ARATZ",
+    "NADIR, MOHAMED AMINE"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 35,
+      "entra": "LUMBRERAS DELGADO, DANEL",
+      "sale": "PALACIN URIBE, GUREN"
+    },
+    {
+      "min": 35,
+      "entra": "GARCIA LOPEZ, AIMAR",
+      "sale": "MORENO LANA, UNAX"
+    },
+    {
+      "min": 35,
+      "entra": "AREJOLALEIBA CAÑO, ANER",
+      "sale": "HERNANDEZ BARRENA, KEPA"
+    },
+    {
+      "min": 35,
+      "entra": "LIZARRALDE MARTINEZ DE ZUAZO, EKAIN",
+      "sale": "IBARZABAL URIBEETXEBARRIA, AMETS"
+    },
+    {
+      "min": 35,
+      "entra": "BERNAL ARRAZOLA, EKAI",
+      "sale": "ARREGI CAMINO, OXEL"
+    },
+    {
+      "min": 42,
+      "entra": "GONZALEZ RUBIO, ALEX",
+      "sale": "GOROSTIAGA CABALLERO, LUCAS"
+    },
+    {
+      "min": 42,
+      "entra": "MENDIZABAL ALTZELAI, AIMAR",
+      "sale": "VASQUEZ CORNEJO, MATIAS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "JIMENEZ IZAGUIRRE, MANEX",
+      "sale": "FERNANDEZ JIMENEZ, AARON"
+    },
+    {
+      "min": 35,
+      "entra": "KEREJETA GOROSTIZA, EKAIN",
+      "sale": "BADIOLA SAGASTA, BEÑAT"
+    },
+    {
+      "min": 35,
+      "entra": "URKIA EGUIDAZU, EKAIN",
+      "sale": "GOROSABEL VAZ, IZEI"
+    },
+    {
+      "min": 39,
+      "entra": "ALZOLA LOITI, PELLO",
+      "sale": "TOSTON LOPEZ DE BERGAR, LIER"
+    },
+    {
+      "min": 39,
+      "entra": "SANZBERRO IRIA, ARATZ",
+      "sale": "ACHA DELGADO, MARTIN"
+    },
+    {
+      "min": 39,
+      "entra": "NADIR, MOHAMED AMINE",
+      "sale": "BEN OMAR BOUZALMAD, ADAM"
+    }
+  ],
+  "minutos_jugadores": {
+    "ARREGI CAMINO, OXEL": 35,
+    "MORENO LANA, UNAX": 35,
+    "VASQUEZ CORNEJO, MATIAS": 42,
+    "PALACIN ERRASTI, GARI": 90,
+    "PALACIN URIBE, GUREN": 35,
+    "AGIRRE GOROSTIAGA, LUKEN": 90,
+    "ELORZA MADINA, HUGO": 90,
+    "GOROSTIAGA CABALLERO, LUCAS": 42,
+    "HERNANDEZ BARRENA, KEPA": 35,
+    "IBARZABAL URIBEETXEBARRIA, PERU": 90,
+    "IBARZABAL URIBEETXEBARRIA, AMETS": 35,
+    "LUMBRERAS DELGADO, DANEL": 55,
+    "GARCIA LOPEZ, AIMAR": 55,
+    "AREJOLALEIBA CAÑO, ANER": 55,
+    "LIZARRALDE MARTINEZ DE ZUAZO, EKAIN": 55,
+    "BERNAL ARRAZOLA, EKAI": 55,
+    "GONZALEZ RUBIO, ALEX": 48,
+    "MENDIZABAL ALTZELAI, AIMAR": 48,
+    "BADIOLA SAGASTA, BEÑAT": 35,
+    "FERREIRA BARRUTIABENGOA, ION": 90,
+    "TOSTON LOPEZ DE BERGAR, LIER": 39,
+    "PUERTO PEREZ, ENEKO": 90,
+    "ARNAIZ MENDIZABAL, AMETS": 90,
+    "BEN OMAR BOUZALMAD, ADAM": 39,
+    "DAVILA OZAETA, JURGI": 90,
+    "GOROSABEL VAZ, IZEI": 35,
+    "MARTINEZ UGARTE, XABAT": 90,
+    "FERNANDEZ JIMENEZ, AARON": 35,
+    "ACHA DELGADO, MARTIN": 39,
+    "JIMENEZ IZAGUIRRE, MANEX": 55,
+    "KEREJETA GOROSTIZA, EKAIN": 55,
+    "URKIA EGUIDAZU, EKAIN": 55,
+    "ALZOLA LOITI, PELLO": 51,
+    "SANZBERRO IRIA, ARATZ": 51,
+    "NADIR, MOHAMED AMINE": 51
+  },
+  "portero_local": "ARREGI CAMINO, OXEL",
+  "portero_visitante": "BADIOLA SAGASTA, BEÑAT",
+  "dorsales_local": {
+    "ARREGI CAMINO, OXEL": 13,
+    "MORENO LANA, UNAX": 3,
+    "VASQUEZ CORNEJO, MATIAS": 4,
+    "PALACIN ERRASTI, GARI": 5,
+    "PALACIN URIBE, GUREN": 6,
+    "AGIRRE GOROSTIAGA, LUKEN": 8,
+    "ELORZA MADINA, HUGO": 9,
+    "GOROSTIAGA CABALLERO, LUCAS": 10,
+    "HERNANDEZ BARRENA, KEPA": 11,
+    "IBARZABAL URIBEETXEBARRIA, PERU": 12,
+    "IBARZABAL URIBEETXEBARRIA, AMETS": 99
+  },
+  "dorsales_visitante": {
+    "BADIOLA SAGASTA, BEÑAT": 1,
+    "FERREIRA BARRUTIABENGOA, ION": 3,
+    "TOSTON LOPEZ DE BERGAR, LIER": 5,
+    "PUERTO PEREZ, ENEKO": 6,
+    "ARNAIZ MENDIZABAL, AMETS": 8,
+    "BEN OMAR BOUZALMAD, ADAM": 9,
+    "DAVILA OZAETA, JURGI": 10,
+    "GOROSABEL VAZ, IZEI": 12,
+    "MARTINEZ UGARTE, XABAT": 16,
+    "FERNANDEZ JIMENEZ, AARON": 17,
+    "ACHA DELGADO, MARTIN": 18
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
