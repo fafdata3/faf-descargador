@@ -1,0 +1,276 @@
+{
+  "acta_id": "10053199",
+  "filename": "Acta_10053199.txt",
+  "fuente": "alava",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "30-10-2026",
+  "hora": "19:00",
+  "categoria": "JUVENIL DE HONOR / GAZTEEN OHOREZKO MAILA (GRUPO - 1)",
+  "equipo_local": "ALEGRIA CD A",
+  "equipo_visitante": "COLEGIO SAN PRUDENCIO, A.D. A",
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ARISPE GOMEZ, TOMAS ABRAHAM"
+  ],
+  "estadio": "J. GASTAMINZA (H.A.)",
+  "ciudad": "Alegría-Dulantzi",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "PUERTA MARTINEZ, AMETS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 72,
+      "jugador": "MOLINUEVO SUSO, ANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 42,
+      "jugador": "MAESTU ISASI ISASMENDI, BEÑAT",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "CEÑA PERDIZ, ASIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 50,
+      "jugador": "MAESTU ISASI ISASMENDI, BEÑAT",
+      "equipo": "local",
+      "tipo": "doble_amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 82,
+      "jugador": "RUIZ DE ARGANDOÑA BONZA, ARATZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "URIARTE GASTAMINZA, IZEI",
+  "delegado_equipo_visitante": "GONZALEZ LAUP, JUAN ANTONIO",
+  "titulares_local": [
+    "MARTIN BALLESTEROS, KOLDO",
+    "TELLAETXE URRUZOLA, LIZAR",
+    "CEÑA PERDIZ, ASIER",
+    "BENGOA MARIÑO, LANDER",
+    "PUERTA MARTINEZ, AMETS",
+    "RUIZ DE ARGANDOÑA BONZA, ARATZ",
+    "LAHMAR EL KOUDALY, MOHAMMED AMINE",
+    "ARBINA ALVAREZ, ADRIAN",
+    "GARCIA MENDIETA, OIER",
+    "POZA CAMPO, OIER",
+    "MAESTU ISASI ISASMENDI, BEÑAT"
+  ],
+  "titulares_visitante": [
+    "PEREZ MERINO, ENAITZ",
+    "MACHO MARTINEZ, HECTOR",
+    "DEL VALLE GARCIA, ADRIAN",
+    "ABIDI BOUCHEFRA, ALLAEDDINE",
+    "RUIZ DE OLANO SOTO, ANDER",
+    "CASADO ALVEZ, ERIC",
+    "URQUIZA BUESA, MARKEL",
+    "FERNANDEZ GIL, MARKEL",
+    "VILLORIA MUÑOZ, IVAN",
+    "BRAHIM AHMED, MOHAMED",
+    "URIARTE FERNANDEZ, ERLANTZ"
+  ],
+  "suplentes_local": [
+    "BELAARAJ BELAID, ANAS",
+    "DIAZ DE ESPADA PEREZ, EDER",
+    "MOLINUEVO SUSO, ANDER",
+    "MEDINA LOUZAO, ANER",
+    "VALENTI REY, UNAI",
+    "VELA DIAZ DE GUEREÑU, ANDER",
+    "BORINAGA MARCH, SAMUEL"
+  ],
+  "suplentes_visitante": [
+    "IGLESIAS HILERA, NICOLAS",
+    "LOPEZ VEITIA, ADRIAN",
+    "GONZALEZ DEL CANTO, SERGIO",
+    "PINTADO TORRE, MIKEL",
+    "AMPADU, KOJO",
+    "CARRO SAEZ, ALVARO",
+    "PRECIADO GONZALEZ, JULEN"
+  ],
+  "convocados_sin_jugar_local": [
+    "DIAZ DE ESPADA PEREZ, EDER",
+    "MEDINA LOUZAO, ANER"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "IGLESIAS HILERA, NICOLAS",
+    "LOPEZ VEITIA, ADRIAN",
+    "AMPADU, KOJO"
+  ],
+  "jugadores_local": [
+    "MARTIN BALLESTEROS, KOLDO",
+    "TELLAETXE URRUZOLA, LIZAR",
+    "CEÑA PERDIZ, ASIER",
+    "BENGOA MARIÑO, LANDER",
+    "PUERTA MARTINEZ, AMETS",
+    "RUIZ DE ARGANDOÑA BONZA, ARATZ",
+    "LAHMAR EL KOUDALY, MOHAMMED AMINE",
+    "ARBINA ALVAREZ, ADRIAN",
+    "GARCIA MENDIETA, OIER",
+    "POZA CAMPO, OIER",
+    "MAESTU ISASI ISASMENDI, BEÑAT",
+    "BORINAGA MARCH, SAMUEL",
+    "MOLINUEVO SUSO, ANDER",
+    "VELA DIAZ DE GUEREÑU, ANDER",
+    "BELAARAJ BELAID, ANAS",
+    "VALENTI REY, UNAI"
+  ],
+  "jugadores_visitante": [
+    "PEREZ MERINO, ENAITZ",
+    "MACHO MARTINEZ, HECTOR",
+    "DEL VALLE GARCIA, ADRIAN",
+    "ABIDI BOUCHEFRA, ALLAEDDINE",
+    "RUIZ DE OLANO SOTO, ANDER",
+    "CASADO ALVEZ, ERIC",
+    "URQUIZA BUESA, MARKEL",
+    "FERNANDEZ GIL, MARKEL",
+    "VILLORIA MUÑOZ, IVAN",
+    "BRAHIM AHMED, MOHAMED",
+    "URIARTE FERNANDEZ, ERLANTZ",
+    "GONZALEZ DEL CANTO, SERGIO",
+    "PINTADO TORRE, MIKEL",
+    "PRECIADO GONZALEZ, JULEN",
+    "CARRO SAEZ, ALVARO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 55,
+      "entra": "BORINAGA MARCH, SAMUEL",
+      "sale": "POZA CAMPO, OIER"
+    },
+    {
+      "min": 58,
+      "entra": "MOLINUEVO SUSO, ANDER",
+      "sale": "CEÑA PERDIZ, ASIER"
+    },
+    {
+      "min": 66,
+      "entra": "VELA DIAZ DE GUEREÑU, ANDER",
+      "sale": "ARBINA ALVAREZ, ADRIAN"
+    },
+    {
+      "min": 76,
+      "entra": "BELAARAJ BELAID, ANAS",
+      "sale": "LAHMAR EL KOUDALY, MOHAMMED AMINE"
+    },
+    {
+      "min": 82,
+      "entra": "VALENTI REY, UNAI",
+      "sale": "RUIZ DE ARGANDOÑA BONZA, ARATZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "GONZALEZ DEL CANTO, SERGIO",
+      "sale": "CASADO ALVEZ, ERIC"
+    },
+    {
+      "min": 45,
+      "entra": "PINTADO TORRE, MIKEL",
+      "sale": "ABIDI BOUCHEFRA, ALLAEDDINE"
+    },
+    {
+      "min": 65,
+      "entra": "PRECIADO GONZALEZ, JULEN",
+      "sale": "BRAHIM AHMED, MOHAMED"
+    },
+    {
+      "min": 75,
+      "entra": "CARRO SAEZ, ALVARO",
+      "sale": "FERNANDEZ GIL, MARKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTIN BALLESTEROS, KOLDO": 90,
+    "TELLAETXE URRUZOLA, LIZAR": 90,
+    "CEÑA PERDIZ, ASIER": 58,
+    "BENGOA MARIÑO, LANDER": 90,
+    "PUERTA MARTINEZ, AMETS": 90,
+    "RUIZ DE ARGANDOÑA BONZA, ARATZ": 82,
+    "LAHMAR EL KOUDALY, MOHAMMED AMINE": 76,
+    "ARBINA ALVAREZ, ADRIAN": 66,
+    "GARCIA MENDIETA, OIER": 90,
+    "POZA CAMPO, OIER": 55,
+    "MAESTU ISASI ISASMENDI, BEÑAT": 90,
+    "BORINAGA MARCH, SAMUEL": 35,
+    "MOLINUEVO SUSO, ANDER": 32,
+    "VELA DIAZ DE GUEREÑU, ANDER": 24,
+    "BELAARAJ BELAID, ANAS": 14,
+    "VALENTI REY, UNAI": 8,
+    "PEREZ MERINO, ENAITZ": 90,
+    "MACHO MARTINEZ, HECTOR": 90,
+    "DEL VALLE GARCIA, ADRIAN": 90,
+    "ABIDI BOUCHEFRA, ALLAEDDINE": 45,
+    "RUIZ DE OLANO SOTO, ANDER": 90,
+    "CASADO ALVEZ, ERIC": 35,
+    "URQUIZA BUESA, MARKEL": 90,
+    "FERNANDEZ GIL, MARKEL": 75,
+    "VILLORIA MUÑOZ, IVAN": 90,
+    "BRAHIM AHMED, MOHAMED": 65,
+    "URIARTE FERNANDEZ, ERLANTZ": 90,
+    "GONZALEZ DEL CANTO, SERGIO": 55,
+    "PINTADO TORRE, MIKEL": 45,
+    "PRECIADO GONZALEZ, JULEN": 25,
+    "CARRO SAEZ, ALVARO": 15
+  },
+  "portero_local": "MARTIN BALLESTEROS, KOLDO",
+  "portero_visitante": "PEREZ MERINO, ENAITZ",
+  "dorsales_local": {
+    "MARTIN BALLESTEROS, KOLDO": 1,
+    "TELLAETXE URRUZOLA, LIZAR": 4,
+    "CEÑA PERDIZ, ASIER": 6,
+    "BENGOA MARIÑO, LANDER": 8,
+    "PUERTA MARTINEZ, AMETS": 9,
+    "RUIZ DE ARGANDOÑA BONZA, ARATZ": 10,
+    "LAHMAR EL KOUDALY, MOHAMMED AMINE": 11,
+    "ARBINA ALVAREZ, ADRIAN": 15,
+    "GARCIA MENDIETA, OIER": 19,
+    "POZA CAMPO, OIER": 22,
+    "MAESTU ISASI ISASMENDI, BEÑAT": 23
+  },
+  "dorsales_visitante": {
+    "PEREZ MERINO, ENAITZ": 13,
+    "MACHO MARTINEZ, HECTOR": 3,
+    "DEL VALLE GARCIA, ADRIAN": 7,
+    "ABIDI BOUCHEFRA, ALLAEDDINE": 9,
+    "RUIZ DE OLANO SOTO, ANDER": 16,
+    "CASADO ALVEZ, ERIC": 18,
+    "URQUIZA BUESA, MARKEL": 20,
+    "FERNANDEZ GIL, MARKEL": 21,
+    "VILLORIA MUÑOZ, IVAN": 22,
+    "BRAHIM AHMED, MOHAMED": 23,
+    "URIARTE FERNANDEZ, ERLANTZ": 26
+  },
+  "suspendidos": [
+    "MAESTU ISASI ISASMENDI, BEÑAT"
+  ]
+}
