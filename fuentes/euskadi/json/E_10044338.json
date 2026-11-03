@@ -1,0 +1,253 @@
+{
+  "acta_id": "E_10044338",
+  "filename": "Acta_E_10044338.txt",
+  "fuente": "euskadi",
+  "temporada": "2026-2027",
+  "jornada": 8,
+  "fecha": "31-10-2026",
+  "hora": "15:30",
+  "categoria": "LIGA VASCA CADETE / KADETEEN EUSKAL LIGA (TEMPORADA 2026/27)",
+  "equipo_local": "BARAKALDO A",
+  "equipo_visitante": "VASCONIA, C.D.",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "GARCIA MANCERAS, OSCAR"
+  ],
+  "estadio": "SAN VICENTE C.D.M.",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 61,
+      "jugador": "DIAZ PRELLEZO, IZAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "HERRERA IGLESIAS, AGER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 76,
+      "jugador": "MIERA ÁVILA, BINGEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SUGIYAMA, TOMOHARU",
+  "entrenador_visitante": "TELLETXEA ITURBURU, JORGE",
+  "segundo_entrenador_local": "AGIRRE URRUTIA, AITOR",
+  "segundo_entrenador_visitante": "LEGORBURU BARANDIARAN, ASIER",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA CRESPO, JOSE MARIA",
+  "delegado_equipo_visitante": "ALASTUEY BERRUETA, URTZI",
+  "titulares_local": [
+    "MARTIN MARTIN, AIMAR",
+    "VAZQUEZ AGUIRRE, KOLDO",
+    "PALIN DE JESUS, BRAWNY YANIEL",
+    "AXPE GONZALEZ, ENEKO",
+    "PIÑOL CONDE, ANDONI",
+    "HERRERA IGLESIAS, AGER",
+    "SOUTO SANCHEZ, JON",
+    "LOPEZ MADARIAGA, LUCAS",
+    "GOMEZ CANO, ALAIN",
+    "GONZALO SAMPELAYO, ENEKO",
+    "MARTINEZ CAREAGA, DARIO"
+  ],
+  "titulares_visitante": [
+    "FRAILE PÉREZ, DAVID",
+    "ZABALA BERASATEGUI, UNAI",
+    "NIETO DIAZ, ALEX",
+    "ROJO GOMENDIO, EKAIN",
+    "MIERA ÁVILA, BINGEN",
+    "RONCERO OJEDA, JORGE",
+    "MUELAS LILLY, DANEL",
+    "ALEJANDRO CORREAS, XIKER",
+    "SALABERRIA GANBORENA, XUBAN",
+    "MEDINA GRIJALBA, IBAI",
+    "LEGORBURO ALVAREZ, OIER"
+  ],
+  "suplentes_local": [
+    "LORENZO OTERO, ERIK",
+    "CABALLERO LARRIBA, UNAX",
+    "MONTERO SARMIENTO, MIKEL ALEXANDER",
+    "LOZANO LLEIDA, ENZO",
+    "LOPEZ SANCHEZ, MARKEL",
+    "GARCIA ARNAIZ, ENEKO",
+    "ESCAPA PEREZ, MARCO"
+  ],
+  "suplentes_visitante": [
+    "IZAGUIRRE LIZARAZU, OIER",
+    "DIAZ PRELLEZO, IZAN",
+    "AGUIRRE FRIAS, JOSU",
+    "SALABERRIA CIRIA, LUR",
+    "GUEZURAGA AUSAN, XABIER",
+    "AGUIRRE CERON, LUIS",
+    "DORRONSORO TXINTXURRETA, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "LORENZO OTERO, ERIK",
+    "LOPEZ SANCHEZ, MARKEL",
+    "ESCAPA PEREZ, MARCO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "IZAGUIRRE LIZARAZU, OIER",
+    "AGUIRRE CERON, LUIS"
+  ],
+  "jugadores_local": [
+    "MARTIN MARTIN, AIMAR",
+    "VAZQUEZ AGUIRRE, KOLDO",
+    "PALIN DE JESUS, BRAWNY YANIEL",
+    "AXPE GONZALEZ, ENEKO",
+    "PIÑOL CONDE, ANDONI",
+    "HERRERA IGLESIAS, AGER",
+    "SOUTO SANCHEZ, JON",
+    "LOPEZ MADARIAGA, LUCAS",
+    "GOMEZ CANO, ALAIN",
+    "GONZALO SAMPELAYO, ENEKO",
+    "MARTINEZ CAREAGA, DARIO",
+    "CABALLERO LARRIBA, UNAX",
+    "GARCIA ARNAIZ, ENEKO",
+    "MONTERO SARMIENTO, MIKEL ALEXANDER",
+    "LOZANO LLEIDA, ENZO"
+  ],
+  "jugadores_visitante": [
+    "FRAILE PÉREZ, DAVID",
+    "ZABALA BERASATEGUI, UNAI",
+    "NIETO DIAZ, ALEX",
+    "ROJO GOMENDIO, EKAIN",
+    "MIERA ÁVILA, BINGEN",
+    "RONCERO OJEDA, JORGE",
+    "MUELAS LILLY, DANEL",
+    "ALEJANDRO CORREAS, XIKER",
+    "SALABERRIA GANBORENA, XUBAN",
+    "MEDINA GRIJALBA, IBAI",
+    "LEGORBURO ALVAREZ, OIER",
+    "DIAZ PRELLEZO, IZAN",
+    "GUEZURAGA AUSAN, XABIER",
+    "DORRONSORO TXINTXURRETA, JON",
+    "AGUIRRE FRIAS, JOSU",
+    "SALABERRIA CIRIA, LUR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "CABALLERO LARRIBA, UNAX",
+      "sale": "PIÑOL CONDE, ANDONI"
+    },
+    {
+      "min": 63,
+      "entra": "GARCIA ARNAIZ, ENEKO",
+      "sale": "GONZALO SAMPELAYO, ENEKO"
+    },
+    {
+      "min": 63,
+      "entra": "MONTERO SARMIENTO, MIKEL ALEXANDER",
+      "sale": "SOUTO SANCHEZ, JON"
+    },
+    {
+      "min": 71,
+      "entra": "LOZANO LLEIDA, ENZO",
+      "sale": "GOMEZ CANO, ALAIN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "DIAZ PRELLEZO, IZAN",
+      "sale": "ALEJANDRO CORREAS, XIKER"
+    },
+    {
+      "min": 56,
+      "entra": "GUEZURAGA AUSAN, XABIER",
+      "sale": "SALABERRIA GANBORENA, XUBAN"
+    },
+    {
+      "min": 70,
+      "entra": "DORRONSORO TXINTXURRETA, JON",
+      "sale": "NIETO DIAZ, ALEX"
+    },
+    {
+      "min": 70,
+      "entra": "AGUIRRE FRIAS, JOSU",
+      "sale": "LEGORBURO ALVAREZ, OIER"
+    },
+    {
+      "min": 77,
+      "entra": "SALABERRIA CIRIA, LUR",
+      "sale": "MEDINA GRIJALBA, IBAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "MARTIN MARTIN, AIMAR": 90,
+    "VAZQUEZ AGUIRRE, KOLDO": 90,
+    "PALIN DE JESUS, BRAWNY YANIEL": 90,
+    "AXPE GONZALEZ, ENEKO": 90,
+    "PIÑOL CONDE, ANDONI": 40,
+    "HERRERA IGLESIAS, AGER": 90,
+    "SOUTO SANCHEZ, JON": 63,
+    "LOPEZ MADARIAGA, LUCAS": 90,
+    "GOMEZ CANO, ALAIN": 71,
+    "GONZALO SAMPELAYO, ENEKO": 63,
+    "MARTINEZ CAREAGA, DARIO": 90,
+    "CABALLERO LARRIBA, UNAX": 50,
+    "GARCIA ARNAIZ, ENEKO": 27,
+    "MONTERO SARMIENTO, MIKEL ALEXANDER": 27,
+    "LOZANO LLEIDA, ENZO": 19,
+    "FRAILE PÉREZ, DAVID": 90,
+    "ZABALA BERASATEGUI, UNAI": 90,
+    "NIETO DIAZ, ALEX": 70,
+    "ROJO GOMENDIO, EKAIN": 90,
+    "MIERA ÁVILA, BINGEN": 90,
+    "RONCERO OJEDA, JORGE": 90,
+    "MUELAS LILLY, DANEL": 90,
+    "ALEJANDRO CORREAS, XIKER": 56,
+    "SALABERRIA GANBORENA, XUBAN": 56,
+    "MEDINA GRIJALBA, IBAI": 77,
+    "LEGORBURO ALVAREZ, OIER": 70,
+    "DIAZ PRELLEZO, IZAN": 34,
+    "GUEZURAGA AUSAN, XABIER": 34,
+    "DORRONSORO TXINTXURRETA, JON": 20,
+    "AGUIRRE FRIAS, JOSU": 20,
+    "SALABERRIA CIRIA, LUR": 13
+  },
+  "portero_local": "MARTIN MARTIN, AIMAR",
+  "portero_visitante": "FRAILE PÉREZ, DAVID",
+  "dorsales_local": {
+    "MARTIN MARTIN, AIMAR": 1,
+    "VAZQUEZ AGUIRRE, KOLDO": 2,
+    "PALIN DE JESUS, BRAWNY YANIEL": 4,
+    "AXPE GONZALEZ, ENEKO": 6,
+    "PIÑOL CONDE, ANDONI": 7,
+    "HERRERA IGLESIAS, AGER": 10,
+    "SOUTO SANCHEZ, JON": 12,
+    "LOPEZ MADARIAGA, LUCAS": 15,
+    "GOMEZ CANO, ALAIN": 19,
+    "GONZALO SAMPELAYO, ENEKO": 21,
+    "MARTINEZ CAREAGA, DARIO": 22
+  },
+  "dorsales_visitante": {
+    "FRAILE PÉREZ, DAVID": 1,
+    "ZABALA BERASATEGUI, UNAI": 2,
+    "NIETO DIAZ, ALEX": 3,
+    "ROJO GOMENDIO, EKAIN": 4,
+    "MIERA ÁVILA, BINGEN": 5,
+    "RONCERO OJEDA, JORGE": 6,
+    "MUELAS LILLY, DANEL": 7,
+    "ALEJANDRO CORREAS, XIKER": 8,
+    "SALABERRIA GANBORENA, XUBAN": 9,
+    "MEDINA GRIJALBA, IBAI": 10,
+    "LEGORBURO ALVAREZ, OIER": 11
+  },
+  "suspendidos": []
+}
