@@ -1,0 +1,273 @@
+{
+  "acta_id": "B_9981355",
+  "filename": "Acta_B_9981355.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 23,
+  "fecha": "15-03-2026",
+  "hora": "19:43",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "SPORTING DE LUTXANA A",
+  "equipo_visitante": "IBAIONDO NERBIOI A",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MARTIN DEL MORAL, ALEX"
+  ],
+  "estadio": "SERRALTA",
+  "ciudad": "LUTXANA - BARAKALDO",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "CONTRERAS SILVA, OHIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "SAN ANDRES LAESPADA, AMETS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "CONTRERAS SILVA, OHIAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "LÓPEZ MIR, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "FERNÁNDEZ FERNÁNDEZ, TELMO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 28,
+      "jugador": "CONTRERAS MURIEL, MICHAEL",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "BOBBIO LAZO, RODRIGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 60,
+      "jugador": "OCHOA GOÑI, ENEKO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ZULAICA GONZALEZ, DIEGO",
+  "entrenador_visitante": "OLMOS MATA, ASIER IGNACIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ HIDALGO, MARKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ HIDALGO, MARKEL",
+  "delegado_equipo_visitante": "NEGRETE SIERRA, ALBERTO",
+  "titulares_local": [
+    "MATA GONZALEZ, HUGO",
+    "SANCHEZ TEMPLADO, JULEN",
+    "LAGE GARIN, XABIER",
+    "BRINGAS FREIRE, BINGEN",
+    "CONTRERAS MURIEL, MICHAEL",
+    "RODRÍGUEZ PÉREZ, OIER",
+    "VARGAS FLORES, NEIBERSON JOSUE",
+    "AYALA SOLORZANO, KESSLER",
+    "BLANCO MOLLEDA, OIER",
+    "SANCHEZ LOPEZ, GORKA",
+    "VARELA REYES, JULIO CESAR"
+  ],
+  "titulares_visitante": [
+    "ROS GONZALEZ, UNAI",
+    "LÓPEZ MIR, ANDER",
+    "SAN ANDRES LAESPADA, AMETS",
+    "LÓPEZ MIR, MARKEL",
+    "ALONSO ALONSO, JON",
+    "GOITISOLO NICOLAS, IGNACIO",
+    "ALDABALDETREKU FAUS, IBON",
+    "ARTATXO GOÑI, AGER",
+    "NEGRETE MELERO, EIDAN",
+    "OCHOA GOÑI, ENEKO",
+    "CONTRERAS SILVA, OHIAN"
+  ],
+  "suplentes_local": [
+    "PEDRAZA CASTRO, DIEGO ROBERTO",
+    "LOPEZ MOLINA, ASIER",
+    "ORTIZ MUÑOZ, JOEL SNAIDER",
+    "SILVA GARCIA, JAGOBA",
+    "KINTANA ARRANZ, UNAX",
+    "FERNÁNDEZ FERNÁNDEZ, TELMO",
+    "BOBBIO LAZO, RODRIGO"
+  ],
+  "suplentes_visitante": [
+    "MARTINEZ ALONSO, URTZI",
+    "SORRIKETA VALDIZAN, JOANES",
+    "SERNA TORRE, MARKEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "PEDRAZA CASTRO, DIEGO ROBERTO",
+    "LOPEZ MOLINA, ASIER"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "MATA GONZALEZ, HUGO",
+    "SANCHEZ TEMPLADO, JULEN",
+    "LAGE GARIN, XABIER",
+    "BRINGAS FREIRE, BINGEN",
+    "CONTRERAS MURIEL, MICHAEL",
+    "RODRÍGUEZ PÉREZ, OIER",
+    "VARGAS FLORES, NEIBERSON JOSUE",
+    "AYALA SOLORZANO, KESSLER",
+    "BLANCO MOLLEDA, OIER",
+    "SANCHEZ LOPEZ, GORKA",
+    "VARELA REYES, JULIO CESAR",
+    "ORTIZ MUÑOZ, JOEL SNAIDER",
+    "FERNÁNDEZ FERNÁNDEZ, TELMO",
+    "KINTANA ARRANZ, UNAX",
+    "BOBBIO LAZO, RODRIGO",
+    "SILVA GARCIA, JAGOBA"
+  ],
+  "jugadores_visitante": [
+    "ROS GONZALEZ, UNAI",
+    "LÓPEZ MIR, ANDER",
+    "SAN ANDRES LAESPADA, AMETS",
+    "LÓPEZ MIR, MARKEL",
+    "ALONSO ALONSO, JON",
+    "GOITISOLO NICOLAS, IGNACIO",
+    "ALDABALDETREKU FAUS, IBON",
+    "ARTATXO GOÑI, AGER",
+    "NEGRETE MELERO, EIDAN",
+    "OCHOA GOÑI, ENEKO",
+    "CONTRERAS SILVA, OHIAN",
+    "SORRIKETA VALDIZAN, JOANES",
+    "SERNA TORRE, MARKEL",
+    "MARTINEZ ALONSO, URTZI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "ORTIZ MUÑOZ, JOEL SNAIDER",
+      "sale": "AYALA SOLORZANO, KESSLER"
+    },
+    {
+      "min": 40,
+      "entra": "FERNÁNDEZ FERNÁNDEZ, TELMO",
+      "sale": "SANCHEZ LOPEZ, GORKA"
+    },
+    {
+      "min": 56,
+      "entra": "KINTANA ARRANZ, UNAX",
+      "sale": "BRINGAS FREIRE, BINGEN"
+    },
+    {
+      "min": 61,
+      "entra": "BOBBIO LAZO, RODRIGO",
+      "sale": "RODRÍGUEZ PÉREZ, OIER"
+    },
+    {
+      "min": 66,
+      "entra": "SILVA GARCIA, JAGOBA",
+      "sale": "CONTRERAS MURIEL, MICHAEL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "SORRIKETA VALDIZAN, JOANES",
+      "sale": "GOITISOLO NICOLAS, IGNACIO"
+    },
+    {
+      "min": 59,
+      "entra": "SERNA TORRE, MARKEL",
+      "sale": "NEGRETE MELERO, EIDAN"
+    },
+    {
+      "min": 59,
+      "entra": "MARTINEZ ALONSO, URTZI",
+      "sale": "LÓPEZ MIR, MARKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "MATA GONZALEZ, HUGO": 90,
+    "SANCHEZ TEMPLADO, JULEN": 90,
+    "LAGE GARIN, XABIER": 90,
+    "BRINGAS FREIRE, BINGEN": 56,
+    "CONTRERAS MURIEL, MICHAEL": 66,
+    "RODRÍGUEZ PÉREZ, OIER": 61,
+    "VARGAS FLORES, NEIBERSON JOSUE": 90,
+    "AYALA SOLORZANO, KESSLER": 40,
+    "BLANCO MOLLEDA, OIER": 90,
+    "SANCHEZ LOPEZ, GORKA": 40,
+    "VARELA REYES, JULIO CESAR": 90,
+    "ORTIZ MUÑOZ, JOEL SNAIDER": 50,
+    "FERNÁNDEZ FERNÁNDEZ, TELMO": 50,
+    "KINTANA ARRANZ, UNAX": 34,
+    "BOBBIO LAZO, RODRIGO": 29,
+    "SILVA GARCIA, JAGOBA": 24,
+    "ROS GONZALEZ, UNAI": 90,
+    "LÓPEZ MIR, ANDER": 90,
+    "SAN ANDRES LAESPADA, AMETS": 90,
+    "LÓPEZ MIR, MARKEL": 59,
+    "ALONSO ALONSO, JON": 90,
+    "GOITISOLO NICOLAS, IGNACIO": 59,
+    "ALDABALDETREKU FAUS, IBON": 90,
+    "ARTATXO GOÑI, AGER": 90,
+    "NEGRETE MELERO, EIDAN": 59,
+    "OCHOA GOÑI, ENEKO": 90,
+    "CONTRERAS SILVA, OHIAN": 90,
+    "SORRIKETA VALDIZAN, JOANES": 31,
+    "SERNA TORRE, MARKEL": 31,
+    "MARTINEZ ALONSO, URTZI": 31
+  },
+  "portero_local": "MATA GONZALEZ, HUGO",
+  "portero_visitante": "ROS GONZALEZ, UNAI",
+  "dorsales_local": {
+    "MATA GONZALEZ, HUGO": 1,
+    "SANCHEZ TEMPLADO, JULEN": 2,
+    "LAGE GARIN, XABIER": 3,
+    "BRINGAS FREIRE, BINGEN": 5,
+    "CONTRERAS MURIEL, MICHAEL": 6,
+    "RODRÍGUEZ PÉREZ, OIER": 8,
+    "VARGAS FLORES, NEIBERSON JOSUE": 14,
+    "AYALA SOLORZANO, KESSLER": 16,
+    "BLANCO MOLLEDA, OIER": 17,
+    "SANCHEZ LOPEZ, GORKA": 19,
+    "VARELA REYES, JULIO CESAR": 22
+  },
+  "dorsales_visitante": {
+    "ROS GONZALEZ, UNAI": 1,
+    "LÓPEZ MIR, ANDER": 2,
+    "SAN ANDRES LAESPADA, AMETS": 3,
+    "LÓPEZ MIR, MARKEL": 4,
+    "ALONSO ALONSO, JON": 5,
+    "GOITISOLO NICOLAS, IGNACIO": 6,
+    "ALDABALDETREKU FAUS, IBON": 10,
+    "ARTATXO GOÑI, AGER": 11,
+    "NEGRETE MELERO, EIDAN": 17,
+    "OCHOA GOÑI, ENEKO": 22,
+    "CONTRERAS SILVA, OHIAN": 24
+  },
+  "suspendidos": []
+}
