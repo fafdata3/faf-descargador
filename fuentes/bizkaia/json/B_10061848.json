@@ -1,0 +1,289 @@
+{
+  "acta_id": "B_10061848",
+  "filename": "Acta_B_10061848.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 7,
+  "fecha": "01-11-2026",
+  "hora": "18:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "MUNGIA",
+  "equipo_visitante": "MORAZA A",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ORTIZ DE ZARATE SOBRINO, JAVIER"
+  ],
+  "estadio": "LEGARDA",
+  "ciudad": "Mungia",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "ZALDUNBIDE ORTUONDO, UNAX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 32,
+      "jugador": "CASTAÑO SAN JUANES, ARITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "FERNANDEZ GIL, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "CASTAÑO SAN JUANES, ARITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "SARAIVA LANDIM, TIAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "CASTAÑO SAN JUANES, ARITZ",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 21,
+      "jugador": "SANCHEZ PARDO, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 49,
+      "jugador": "ALDASORO CADIÑANOS, MARTIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ CAYETANO, ASIER",
+  "entrenador_visitante": "TASCON HERMIDA, ANDONI",
+  "segundo_entrenador_local": "ZAMALLOA ZARATE, ANER",
+  "segundo_entrenador_visitante": "HERMIDA DEL BLANCO, DAVID",
+  "delegado_campo_local": "DE ORTUONDO DE LA BRENA, AINARA",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VICEN LADRON, BORJA",
+  "delegado_equipo_visitante": "BOVEDA SAINZ DE ROZAS, MIKEL",
+  "titulares_local": [
+    "HERNANDEZ LEGARRETA, OIHAN",
+    "CAMPILLO GORJON, ADEI",
+    "VILLAVERDE SANCHEZ, DIEGO",
+    "BOUTKABOUT, ISMAIL",
+    "FERNANDEZ GIL, MARKEL",
+    "LOPEZ LARRAZABAL, LUKEN",
+    "VICEN MARTÍN, ENEKO",
+    "DIAZ RODRIGUEZ, UNAX",
+    "ALMANSA ASTORKQUIZA, BRUNO",
+    "ZALDUNBIDE ORTUONDO, UNAX",
+    "CASTAÑEIRA VILLA, UNAI"
+  ],
+  "titulares_visitante": [
+    "EMBUN RIOS, XABIER",
+    "GABILONDO BASURCO, ENEKO",
+    "BLAZQUEZ URIGÜEN, UNAI",
+    "SANCHEZ PARDO, JON",
+    "CASTAÑO SAN JUANES, ARITZ",
+    "UGARTE CARCOBA, IBAI",
+    "ALDASORO CADIÑANOS, MARTIN",
+    "HERRERO LLORENTE, NICOLAS",
+    "RUBIO PRADO, LUKEN",
+    "IBARRONDO REMENTERIA, ENEKO",
+    "OCHANDIANO ALVAREZ, KOLDO"
+  ],
+  "suplentes_local": [
+    "ARREGUI BILBAO, SUHAR",
+    "TRABUDUA MERINO, MARTIN",
+    "AGIRREBENGOA GOIRIENA, UGUTZ",
+    "CALDERON ALVAREZ, OIER",
+    "VILLEGAS OLABARRIETA, ASIER",
+    "VIDAURRAZAGA GOITISOLO, TELMO",
+    "VEGA ZUGAZAGA, KEMEN"
+  ],
+  "suplentes_visitante": [
+    "DOMINGUEZ ORIVE, XABIER",
+    "MARINO ALCALA, ASIER",
+    "SARAIVA LANDIM, TIAGO",
+    "SOLAS SANTOS, LUKA",
+    "DIEZ DOÑA, MIKEL",
+    "ETXEBERRIA PARDO, LANDER",
+    "GARCIA VALLEJO, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "CALDERON ALVAREZ, OIER",
+    "VEGA ZUGAZAGA, KEMEN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "DOMINGUEZ ORIVE, XABIER",
+    "SOLAS SANTOS, LUKA",
+    "DIEZ DOÑA, MIKEL"
+  ],
+  "jugadores_local": [
+    "HERNANDEZ LEGARRETA, OIHAN",
+    "CAMPILLO GORJON, ADEI",
+    "VILLAVERDE SANCHEZ, DIEGO",
+    "BOUTKABOUT, ISMAIL",
+    "FERNANDEZ GIL, MARKEL",
+    "LOPEZ LARRAZABAL, LUKEN",
+    "VICEN MARTÍN, ENEKO",
+    "DIAZ RODRIGUEZ, UNAX",
+    "ALMANSA ASTORKQUIZA, BRUNO",
+    "ZALDUNBIDE ORTUONDO, UNAX",
+    "CASTAÑEIRA VILLA, UNAI",
+    "TRABUDUA MERINO, MARTIN",
+    "AGIRREBENGOA GOIRIENA, UGUTZ",
+    "VILLEGAS OLABARRIETA, ASIER",
+    "ARREGUI BILBAO, SUHAR",
+    "VIDAURRAZAGA GOITISOLO, TELMO"
+  ],
+  "jugadores_visitante": [
+    "EMBUN RIOS, XABIER",
+    "GABILONDO BASURCO, ENEKO",
+    "BLAZQUEZ URIGÜEN, UNAI",
+    "SANCHEZ PARDO, JON",
+    "CASTAÑO SAN JUANES, ARITZ",
+    "UGARTE CARCOBA, IBAI",
+    "ALDASORO CADIÑANOS, MARTIN",
+    "HERRERO LLORENTE, NICOLAS",
+    "RUBIO PRADO, LUKEN",
+    "IBARRONDO REMENTERIA, ENEKO",
+    "OCHANDIANO ALVAREZ, KOLDO",
+    "GARCIA VALLEJO, JON",
+    "SARAIVA LANDIM, TIAGO",
+    "MARINO ALCALA, ASIER",
+    "ETXEBERRIA PARDO, LANDER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 36,
+      "entra": "TRABUDUA MERINO, MARTIN",
+      "sale": "CAMPILLO GORJON, ADEI"
+    },
+    {
+      "min": 49,
+      "entra": "AGIRREBENGOA GOIRIENA, UGUTZ",
+      "sale": "BOUTKABOUT, ISMAIL"
+    },
+    {
+      "min": 49,
+      "entra": "VILLEGAS OLABARRIETA, ASIER",
+      "sale": "FERNANDEZ GIL, MARKEL"
+    },
+    {
+      "min": 59,
+      "entra": "ARREGUI BILBAO, SUHAR",
+      "sale": "CASTAÑEIRA VILLA, UNAI"
+    },
+    {
+      "min": 59,
+      "entra": "VIDAURRAZAGA GOITISOLO, TELMO",
+      "sale": "VILLAVERDE SANCHEZ, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "GARCIA VALLEJO, JON",
+      "sale": "HERRERO LLORENTE, NICOLAS"
+    },
+    {
+      "min": 52,
+      "entra": "SARAIVA LANDIM, TIAGO",
+      "sale": "IBARRONDO REMENTERIA, ENEKO"
+    },
+    {
+      "min": 62,
+      "entra": "MARINO ALCALA, ASIER",
+      "sale": "GABILONDO BASURCO, ENEKO"
+    },
+    {
+      "min": 75,
+      "entra": "ETXEBERRIA PARDO, LANDER",
+      "sale": "UGARTE CARCOBA, IBAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "HERNANDEZ LEGARRETA, OIHAN": 90,
+    "CAMPILLO GORJON, ADEI": 36,
+    "VILLAVERDE SANCHEZ, DIEGO": 59,
+    "BOUTKABOUT, ISMAIL": 49,
+    "FERNANDEZ GIL, MARKEL": 49,
+    "LOPEZ LARRAZABAL, LUKEN": 90,
+    "VICEN MARTÍN, ENEKO": 90,
+    "DIAZ RODRIGUEZ, UNAX": 90,
+    "ALMANSA ASTORKQUIZA, BRUNO": 90,
+    "ZALDUNBIDE ORTUONDO, UNAX": 90,
+    "CASTAÑEIRA VILLA, UNAI": 59,
+    "TRABUDUA MERINO, MARTIN": 54,
+    "AGIRREBENGOA GOIRIENA, UGUTZ": 41,
+    "VILLEGAS OLABARRIETA, ASIER": 41,
+    "ARREGUI BILBAO, SUHAR": 31,
+    "VIDAURRAZAGA GOITISOLO, TELMO": 31,
+    "EMBUN RIOS, XABIER": 90,
+    "GABILONDO BASURCO, ENEKO": 62,
+    "BLAZQUEZ URIGÜEN, UNAI": 90,
+    "SANCHEZ PARDO, JON": 90,
+    "CASTAÑO SAN JUANES, ARITZ": 90,
+    "UGARTE CARCOBA, IBAI": 75,
+    "ALDASORO CADIÑANOS, MARTIN": 90,
+    "HERRERO LLORENTE, NICOLAS": 52,
+    "RUBIO PRADO, LUKEN": 90,
+    "IBARRONDO REMENTERIA, ENEKO": 52,
+    "OCHANDIANO ALVAREZ, KOLDO": 90,
+    "GARCIA VALLEJO, JON": 38,
+    "SARAIVA LANDIM, TIAGO": 38,
+    "MARINO ALCALA, ASIER": 28,
+    "ETXEBERRIA PARDO, LANDER": 15
+  },
+  "portero_local": "HERNANDEZ LEGARRETA, OIHAN",
+  "portero_visitante": "EMBUN RIOS, XABIER",
+  "dorsales_local": {
+    "HERNANDEZ LEGARRETA, OIHAN": 1,
+    "CAMPILLO GORJON, ADEI": 2,
+    "VILLAVERDE SANCHEZ, DIEGO": 3,
+    "BOUTKABOUT, ISMAIL": 5,
+    "FERNANDEZ GIL, MARKEL": 9,
+    "LOPEZ LARRAZABAL, LUKEN": 10,
+    "VICEN MARTÍN, ENEKO": 12,
+    "DIAZ RODRIGUEZ, UNAX": 14,
+    "ALMANSA ASTORKQUIZA, BRUNO": 17,
+    "ZALDUNBIDE ORTUONDO, UNAX": 20,
+    "CASTAÑEIRA VILLA, UNAI": 22
+  },
+  "dorsales_visitante": {
+    "EMBUN RIOS, XABIER": 13,
+    "GABILONDO BASURCO, ENEKO": 4,
+    "BLAZQUEZ URIGÜEN, UNAI": 5,
+    "SANCHEZ PARDO, JON": 8,
+    "CASTAÑO SAN JUANES, ARITZ": 9,
+    "UGARTE CARCOBA, IBAI": 10,
+    "ALDASORO CADIÑANOS, MARTIN": 11,
+    "HERRERO LLORENTE, NICOLAS": 19,
+    "RUBIO PRADO, LUKEN": 21,
+    "IBARRONDO REMENTERIA, ENEKO": 23,
+    "OCHANDIANO ALVAREZ, KOLDO": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
