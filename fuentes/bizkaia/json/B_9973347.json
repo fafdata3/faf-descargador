@@ -1,0 +1,241 @@
+{
+  "acta_id": "B_9973347",
+  "filename": "Acta_B_9973347.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 24,
+  "fecha": "21-03-2026",
+  "hora": "10:45",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 5)",
+  "equipo_local": "ASTRABUDUAKO D",
+  "equipo_visitante": "PLENTZIA B",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MACIAS RIO (M), JURGI"
+  ],
+  "estadio": "SAN LORENZO",
+  "ciudad": "ERANDIO (ASTRABUDUA)",
+  "goleadores": [
+    {
+      "minuto": 30,
+      "jugador": "FERNANDEZ RODRIGUEZ, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "ZAPATA PAREDES, CARLOS SANTIAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "JUNCO DIEZ, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "PEINADO LEITE, EDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "MENDEZ RASINES, HODEI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 54,
+      "jugador": "JUNCO DIEZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 67,
+      "jugador": "GARRIDO URRUTIA, AIMAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 70,
+      "jugador": "BERASATEGUI BILBAO, UGAITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 90,
+      "jugador": "FERNANDEZ JUSTINIANO, GORKA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "LANDA ELOLA, EKAITZ",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FANO BILBAO, JON ERRAMON",
+  "delegado_equipo_visitante": "GARRIDO URRUTIA, AIMAR",
+  "titulares_local": [
+    "RODRIGO MARTIN, IGARKI",
+    "ZAPATA HENAO, SEBASTIAN",
+    "MORENO MAGRI, PABLO",
+    "AGIRRE EXPOSITO, BIKENDI",
+    "CRUZ SANTOS, IKER MATHEUS",
+    "BLANCO GOMEZ, EKAIN",
+    "FERNANDEZ RODRIGUEZ, DIEGO",
+    "MENDEZ RASINES, HODEI",
+    "VERDEJO LOJO, ALEX",
+    "BARON RODRIGUEZ, GORKA",
+    "DIEZ DE LA CALLE, FELIX"
+  ],
+  "titulares_visitante": [
+    "PRETTY UNCETA, PAUL",
+    "VLAD-PREPELITA, LEONARDO",
+    "RODRIGO URIA, AKETX",
+    "ZAPATA PAREDES, CARLOS SANTIAGO",
+    "CIRO BENAVIDES, JOHN ERIK",
+    "PEINADO LEITE, EDER",
+    "DE FREITAS GOMEZ, IBON JOAO",
+    "BERASATEGUI BILBAO, UGAITZ",
+    "FERNANDEZ JUSTINIANO, GORKA",
+    "ARANA SAEZ, ENEKO",
+    "JUNCO DIEZ, HUGO"
+  ],
+  "suplentes_local": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "JAUREGI LOPEZ, KIRMEN",
+    "JAUREGI LOPEZ, ADUR",
+    "RINCON ROCHAS, JON",
+    "VILLARRUBIA AURREKOETXEA, GORKA",
+    "PUERTAS ORIBE, HODEI"
+  ],
+  "suplentes_visitante": [],
+  "convocados_sin_jugar_local": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "RINCON ROCHAS, JON",
+    "PUERTAS ORIBE, HODEI"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RODRIGO MARTIN, IGARKI",
+    "ZAPATA HENAO, SEBASTIAN",
+    "MORENO MAGRI, PABLO",
+    "AGIRRE EXPOSITO, BIKENDI",
+    "CRUZ SANTOS, IKER MATHEUS",
+    "BLANCO GOMEZ, EKAIN",
+    "FERNANDEZ RODRIGUEZ, DIEGO",
+    "MENDEZ RASINES, HODEI",
+    "VERDEJO LOJO, ALEX",
+    "BARON RODRIGUEZ, GORKA",
+    "DIEZ DE LA CALLE, FELIX",
+    "VILLARRUBIA AURREKOETXEA, GORKA",
+    "JAUREGI LOPEZ, ADUR",
+    "JAUREGI LOPEZ, KIRMEN"
+  ],
+  "jugadores_visitante": [
+    "PRETTY UNCETA, PAUL",
+    "VLAD-PREPELITA, LEONARDO",
+    "RODRIGO URIA, AKETX",
+    "ZAPATA PAREDES, CARLOS SANTIAGO",
+    "CIRO BENAVIDES, JOHN ERIK",
+    "PEINADO LEITE, EDER",
+    "DE FREITAS GOMEZ, IBON JOAO",
+    "BERASATEGUI BILBAO, UGAITZ",
+    "FERNANDEZ JUSTINIANO, GORKA",
+    "ARANA SAEZ, ENEKO",
+    "JUNCO DIEZ, HUGO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "VILLARRUBIA AURREKOETXEA, GORKA",
+      "sale": "CRUZ SANTOS, IKER MATHEUS"
+    },
+    {
+      "min": 52,
+      "entra": "JAUREGI LOPEZ, ADUR",
+      "sale": "BLANCO GOMEZ, EKAIN"
+    },
+    {
+      "min": 77,
+      "entra": "JAUREGI LOPEZ, KIRMEN",
+      "sale": "VERDEJO LOJO, ALEX"
+    }
+  ],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "RODRIGO MARTIN, IGARKI": 90,
+    "ZAPATA HENAO, SEBASTIAN": 90,
+    "MORENO MAGRI, PABLO": 90,
+    "AGIRRE EXPOSITO, BIKENDI": 90,
+    "CRUZ SANTOS, IKER MATHEUS": 46,
+    "BLANCO GOMEZ, EKAIN": 52,
+    "FERNANDEZ RODRIGUEZ, DIEGO": 90,
+    "MENDEZ RASINES, HODEI": 90,
+    "VERDEJO LOJO, ALEX": 77,
+    "BARON RODRIGUEZ, GORKA": 90,
+    "DIEZ DE LA CALLE, FELIX": 90,
+    "VILLARRUBIA AURREKOETXEA, GORKA": 44,
+    "JAUREGI LOPEZ, ADUR": 38,
+    "JAUREGI LOPEZ, KIRMEN": 13,
+    "PRETTY UNCETA, PAUL": 90,
+    "VLAD-PREPELITA, LEONARDO": 90,
+    "RODRIGO URIA, AKETX": 90,
+    "ZAPATA PAREDES, CARLOS SANTIAGO": 90,
+    "CIRO BENAVIDES, JOHN ERIK": 90,
+    "PEINADO LEITE, EDER": 90,
+    "DE FREITAS GOMEZ, IBON JOAO": 90,
+    "BERASATEGUI BILBAO, UGAITZ": 90,
+    "FERNANDEZ JUSTINIANO, GORKA": 90,
+    "ARANA SAEZ, ENEKO": 90,
+    "JUNCO DIEZ, HUGO": 90
+  },
+  "portero_local": "RODRIGO MARTIN, IGARKI",
+  "portero_visitante": "PRETTY UNCETA, PAUL",
+  "dorsales_local": {
+    "RODRIGO MARTIN, IGARKI": 1,
+    "ZAPATA HENAO, SEBASTIAN": 3,
+    "MORENO MAGRI, PABLO": 4,
+    "AGIRRE EXPOSITO, BIKENDI": 5,
+    "CRUZ SANTOS, IKER MATHEUS": 7,
+    "BLANCO GOMEZ, EKAIN": 8,
+    "FERNANDEZ RODRIGUEZ, DIEGO": 9,
+    "MENDEZ RASINES, HODEI": 14,
+    "VERDEJO LOJO, ALEX": 21,
+    "BARON RODRIGUEZ, GORKA": 22,
+    "DIEZ DE LA CALLE, FELIX": 23
+  },
+  "dorsales_visitante": {
+    "PRETTY UNCETA, PAUL": 1,
+    "VLAD-PREPELITA, LEONARDO": 2,
+    "RODRIGO URIA, AKETX": 3,
+    "ZAPATA PAREDES, CARLOS SANTIAGO": 4,
+    "CIRO BENAVIDES, JOHN ERIK": 7,
+    "PEINADO LEITE, EDER": 12,
+    "DE FREITAS GOMEZ, IBON JOAO": 15,
+    "BERASATEGUI BILBAO, UGAITZ": 16,
+    "FERNANDEZ JUSTINIANO, GORKA": 17,
+    "ARANA SAEZ, ENEKO": 18,
+    "JUNCO DIEZ, HUGO": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
