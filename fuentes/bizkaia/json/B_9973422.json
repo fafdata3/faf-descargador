@@ -1,0 +1,260 @@
+{
+  "acta_id": "B_9973422",
+  "filename": "Acta_B_9973422.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "19-10-2025",
+  "hora": "12:00",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 6)",
+  "equipo_local": "ASKARTZA B",
+  "equipo_visitante": "COL. VIZCAYA",
+  "goles_local": 4,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "RILOVA MOCHA (M), JULEN"
+  ],
+  "estadio": "ASKARTZA CLARET",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 13,
+      "jugador": "SOUTO YESTE, ADRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 16,
+      "jugador": "BILBAO CORIA, PAUL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "ASANZA AYO, ARITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 68,
+      "jugador": "CALLE GUERRERO, ENEKO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "VILLAGRA AGUINAGA, ENRIQUE",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 52,
+      "jugador": "SALGUERO LOZANO, TXABER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 71,
+      "jugador": "GUTIERREZ HERRAN, SANTIAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "SOUTO YESTE, ADRIAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SÁNCHEZ FUENTES, XABIER",
+  "entrenador_visitante": "AVENDAÑO AMOREBIETA, FRANCISCO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "TELLITU LOZANO, JOSU",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "AVENDAÑO AMOREBIETA, ENRIQUE",
+  "titulares_local": [
+    "RIOS ANTXIA, OIER",
+    "ARRIETA ZORRAKIN, MIKEL",
+    "CARRASCAL DOMINGUEZ DE VIDAURRETA, JON",
+    "SOUTO YESTE, ADRIAN",
+    "GUTIERREZ HERRAN, SANTIAGO",
+    "ASANZA AYO, ARITZ",
+    "SALGUERO LOZANO, TXABER",
+    "EGUIA PARRA, UNAI",
+    "GUEMES GONZALEZ, JOSU",
+    "BILBAO CORIA, PAUL",
+    "BERROETA CAÑAS, AITOR"
+  ],
+  "titulares_visitante": [
+    "GOMEZ REDONDO, AIMAR",
+    "GIL GONZALEZ, AITOR",
+    "MONTELIO VEGA, DAVID",
+    "CARRASCAL PINILLA, MARKEL",
+    "IJALBA PEREZ, AINGERU",
+    "BARRAGAN OLAZABAL, LIER",
+    "SANZ RUIZ, MIGUEL",
+    "GONZALEZ GARCIA, IKER",
+    "OLIVEROS SALDAÑA, MIKEL",
+    "VICENTE TXARROALDE, MIKEL",
+    "PARANJAPE, NIHIT SHANTANU"
+  ],
+  "suplentes_local": [
+    "ECHEVARRIA AROSTEGUI, MARKEL",
+    "BILBAO SANTOS, MIKEL",
+    "PEREZ GARCIA, IZAI",
+    "BASTERRETXEA ZULUETA, AITZOL",
+    "ASANZA AYO, ANDER",
+    "VILLAGRA AGUINAGA, ENRIQUE",
+    "BILLELABEITIA GARCIA-ESCUDERO, DANEL"
+  ],
+  "suplentes_visitante": [
+    "CALLE GUERRERO, ENEKO",
+    "YANG, YANGLIN"
+  ],
+  "convocados_sin_jugar_local": [
+    "ECHEVARRIA AROSTEGUI, MARKEL",
+    "BILBAO SANTOS, MIKEL",
+    "BASTERRETXEA ZULUETA, AITZOL"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "RIOS ANTXIA, OIER",
+    "ARRIETA ZORRAKIN, MIKEL",
+    "CARRASCAL DOMINGUEZ DE VIDAURRETA, JON",
+    "SOUTO YESTE, ADRIAN",
+    "GUTIERREZ HERRAN, SANTIAGO",
+    "ASANZA AYO, ARITZ",
+    "SALGUERO LOZANO, TXABER",
+    "EGUIA PARRA, UNAI",
+    "GUEMES GONZALEZ, JOSU",
+    "BILBAO CORIA, PAUL",
+    "BERROETA CAÑAS, AITOR",
+    "VILLAGRA AGUINAGA, ENRIQUE",
+    "PEREZ GARCIA, IZAI",
+    "ASANZA AYO, ANDER",
+    "BILLELABEITIA GARCIA-ESCUDERO, DANEL"
+  ],
+  "jugadores_visitante": [
+    "GOMEZ REDONDO, AIMAR",
+    "GIL GONZALEZ, AITOR",
+    "MONTELIO VEGA, DAVID",
+    "CARRASCAL PINILLA, MARKEL",
+    "IJALBA PEREZ, AINGERU",
+    "BARRAGAN OLAZABAL, LIER",
+    "SANZ RUIZ, MIGUEL",
+    "GONZALEZ GARCIA, IKER",
+    "OLIVEROS SALDAÑA, MIKEL",
+    "VICENTE TXARROALDE, MIKEL",
+    "PARANJAPE, NIHIT SHANTANU",
+    "CALLE GUERRERO, ENEKO",
+    "YANG, YANGLIN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 54,
+      "entra": "VILLAGRA AGUINAGA, ENRIQUE",
+      "sale": "SALGUERO LOZANO, TXABER"
+    },
+    {
+      "min": 76,
+      "entra": "PEREZ GARCIA, IZAI",
+      "sale": "SOUTO YESTE, ADRIAN"
+    },
+    {
+      "min": 81,
+      "entra": "ASANZA AYO, ANDER",
+      "sale": "ASANZA AYO, ARITZ"
+    },
+    {
+      "min": 81,
+      "entra": "BILLELABEITIA GARCIA-ESCUDERO, DANEL",
+      "sale": "BILBAO CORIA, PAUL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "CALLE GUERRERO, ENEKO",
+      "sale": "BARRAGAN OLAZABAL, LIER"
+    },
+    {
+      "min": 66,
+      "entra": "YANG, YANGLIN",
+      "sale": "OLIVEROS SALDAÑA, MIKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "RIOS ANTXIA, OIER": 90,
+    "ARRIETA ZORRAKIN, MIKEL": 90,
+    "CARRASCAL DOMINGUEZ DE VIDAURRETA, JON": 90,
+    "SOUTO YESTE, ADRIAN": 76,
+    "GUTIERREZ HERRAN, SANTIAGO": 90,
+    "ASANZA AYO, ARITZ": 81,
+    "SALGUERO LOZANO, TXABER": 54,
+    "EGUIA PARRA, UNAI": 90,
+    "GUEMES GONZALEZ, JOSU": 90,
+    "BILBAO CORIA, PAUL": 81,
+    "BERROETA CAÑAS, AITOR": 90,
+    "VILLAGRA AGUINAGA, ENRIQUE": 36,
+    "PEREZ GARCIA, IZAI": 14,
+    "ASANZA AYO, ANDER": 9,
+    "BILLELABEITIA GARCIA-ESCUDERO, DANEL": 9,
+    "GOMEZ REDONDO, AIMAR": 90,
+    "GIL GONZALEZ, AITOR": 90,
+    "MONTELIO VEGA, DAVID": 90,
+    "CARRASCAL PINILLA, MARKEL": 90,
+    "IJALBA PEREZ, AINGERU": 90,
+    "BARRAGAN OLAZABAL, LIER": 45,
+    "SANZ RUIZ, MIGUEL": 90,
+    "GONZALEZ GARCIA, IKER": 90,
+    "OLIVEROS SALDAÑA, MIKEL": 66,
+    "VICENTE TXARROALDE, MIKEL": 90,
+    "PARANJAPE, NIHIT SHANTANU": 90,
+    "CALLE GUERRERO, ENEKO": 45,
+    "YANG, YANGLIN": 24
+  },
+  "portero_local": "RIOS ANTXIA, OIER",
+  "portero_visitante": "GOMEZ REDONDO, AIMAR",
+  "dorsales_local": {
+    "RIOS ANTXIA, OIER": 13,
+    "ARRIETA ZORRAKIN, MIKEL": 4,
+    "CARRASCAL DOMINGUEZ DE VIDAURRETA, JON": 6,
+    "SOUTO YESTE, ADRIAN": 7,
+    "GUTIERREZ HERRAN, SANTIAGO": 8,
+    "ASANZA AYO, ARITZ": 11,
+    "SALGUERO LOZANO, TXABER": 16,
+    "EGUIA PARRA, UNAI": 17,
+    "GUEMES GONZALEZ, JOSU": 18,
+    "BILBAO CORIA, PAUL": 21,
+    "BERROETA CAÑAS, AITOR": 22
+  },
+  "dorsales_visitante": {
+    "GOMEZ REDONDO, AIMAR": 1,
+    "GIL GONZALEZ, AITOR": 3,
+    "MONTELIO VEGA, DAVID": 7,
+    "CARRASCAL PINILLA, MARKEL": 10,
+    "IJALBA PEREZ, AINGERU": 11,
+    "BARRAGAN OLAZABAL, LIER": 14,
+    "SANZ RUIZ, MIGUEL": 19,
+    "GONZALEZ GARCIA, IKER": 20,
+    "OLIVEROS SALDAÑA, MIKEL": 21,
+    "VICENTE TXARROALDE, MIKEL": 22,
+    "PARANJAPE, NIHIT SHANTANU": 26
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
