@@ -1,0 +1,229 @@
+{
+  "acta_id": "B_9970981",
+  "filename": "Acta_B_9970981.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 32,
+  "fecha": "09-05-2026",
+  "hora": "19:15",
+  "categoria": "DIVISIÓN DE HONOR HJ / GAZTEEN OHOREZKO MAILA (GRUPO 1)",
+  "equipo_local": "DEUSTO B",
+  "equipo_visitante": "SANTUTXU C",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "RUIZ DOMINGUEZ, MIGUEL ANGEL"
+  ],
+  "estadio": "ETXEZURI",
+  "ciudad": "Bilbao",
+  "goleadores": [
+    {
+      "minuto": 20,
+      "jugador": "MACEDA CONDE, LANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 22,
+      "jugador": "RODRIGUEZ DA FONSECA, JULEN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 90,
+      "jugador": "TOUAYLI GOMEZ, NAIM",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 55,
+      "jugador": "ATXUKARRO OLABARRIETA, URTZI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MARTINEZ CARRASCO, NICOLAS",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "VILLANUEVA ARROLA, JOSE",
+  "delegado_equipo_visitante": "LAGARON SAMPELAYO, DANIEL",
+  "titulares_local": [
+    "GUTIERREZ JUARRERO, ANDER",
+    "DEL OLMO GAREA, MARKEL",
+    "RODRIGUEZ DA FONSECA, JULEN",
+    "ELORRIETA ARREGI, ARATZ",
+    "MACEDA CONDE, LANDER",
+    "ORBE CORTAZAR, MIKEL",
+    "IRAZABAL VADILLO, LINO",
+    "BILBAO IBARRECHE, OSKITX",
+    "ARANA FUENZALIDA, OIER",
+    "ECHAZARRA ALONSO, XABIER",
+    "HERRAN OLMOS, MARKEL"
+  ],
+  "titulares_visitante": [
+    "GARCIA LORIDO, UNAI",
+    "ATXUKARRO OLABARRIETA, URTZI",
+    "VARGAS CONTRERAS, LEONARDO DAVID",
+    "LEIBA GONZALEZ, ERLANTZ",
+    "ALONSO URETA, JON",
+    "MENDEZ MUÑOZ, ERLANTZ",
+    "BASALDUA ANAYA, UNAI",
+    "URRUTIA URIBARRI, LANDER",
+    "TOUAYLI GOMEZ, NAIM",
+    "RUIZ BUSTO, OIER",
+    "DOMINGUEZ SALGADO, ENAITZ"
+  ],
+  "suplentes_local": [
+    "GARCIA FERNANDEZ, MARTIN",
+    "HERRERA NAVAS, ANDER",
+    "GOMEZ MARTINEZ, DANIEL",
+    "GARCIA BONILLA, ANDER",
+    "CORREA MURILLO, SAMUEL",
+    "RIAÑO DIAZ, TELMO",
+    "MEABE ASPOROSA, EKI"
+  ],
+  "suplentes_visitante": [
+    "BILBAO DIAZ, IKER"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARCIA FERNANDEZ, MARTIN",
+    "MEABE ASPOROSA, EKI"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GUTIERREZ JUARRERO, ANDER",
+    "DEL OLMO GAREA, MARKEL",
+    "RODRIGUEZ DA FONSECA, JULEN",
+    "ELORRIETA ARREGI, ARATZ",
+    "MACEDA CONDE, LANDER",
+    "ORBE CORTAZAR, MIKEL",
+    "IRAZABAL VADILLO, LINO",
+    "BILBAO IBARRECHE, OSKITX",
+    "ARANA FUENZALIDA, OIER",
+    "ECHAZARRA ALONSO, XABIER",
+    "HERRAN OLMOS, MARKEL",
+    "GARCIA BONILLA, ANDER",
+    "HERRERA NAVAS, ANDER",
+    "GOMEZ MARTINEZ, DANIEL",
+    "RIAÑO DIAZ, TELMO",
+    "CORREA MURILLO, SAMUEL"
+  ],
+  "jugadores_visitante": [
+    "GARCIA LORIDO, UNAI",
+    "ATXUKARRO OLABARRIETA, URTZI",
+    "VARGAS CONTRERAS, LEONARDO DAVID",
+    "LEIBA GONZALEZ, ERLANTZ",
+    "ALONSO URETA, JON",
+    "MENDEZ MUÑOZ, ERLANTZ",
+    "BASALDUA ANAYA, UNAI",
+    "URRUTIA URIBARRI, LANDER",
+    "TOUAYLI GOMEZ, NAIM",
+    "RUIZ BUSTO, OIER",
+    "DOMINGUEZ SALGADO, ENAITZ",
+    "BILBAO DIAZ, IKER"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 61,
+      "entra": "GARCIA BONILLA, ANDER",
+      "sale": "RODRIGUEZ DA FONSECA, JULEN"
+    },
+    {
+      "min": 61,
+      "entra": "HERRERA NAVAS, ANDER",
+      "sale": "ARANA FUENZALIDA, OIER"
+    },
+    {
+      "min": 71,
+      "entra": "GOMEZ MARTINEZ, DANIEL",
+      "sale": "BILBAO IBARRECHE, OSKITX"
+    },
+    {
+      "min": 76,
+      "entra": "RIAÑO DIAZ, TELMO",
+      "sale": "ORBE CORTAZAR, MIKEL"
+    },
+    {
+      "min": 76,
+      "entra": "CORREA MURILLO, SAMUEL",
+      "sale": "MACEDA CONDE, LANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 77,
+      "entra": "BILBAO DIAZ, IKER",
+      "sale": "ALONSO URETA, JON"
+    }
+  ],
+  "minutos_jugadores": {
+    "GUTIERREZ JUARRERO, ANDER": 90,
+    "DEL OLMO GAREA, MARKEL": 90,
+    "RODRIGUEZ DA FONSECA, JULEN": 61,
+    "ELORRIETA ARREGI, ARATZ": 90,
+    "MACEDA CONDE, LANDER": 76,
+    "ORBE CORTAZAR, MIKEL": 76,
+    "IRAZABAL VADILLO, LINO": 90,
+    "BILBAO IBARRECHE, OSKITX": 71,
+    "ARANA FUENZALIDA, OIER": 61,
+    "ECHAZARRA ALONSO, XABIER": 90,
+    "HERRAN OLMOS, MARKEL": 90,
+    "GARCIA BONILLA, ANDER": 29,
+    "HERRERA NAVAS, ANDER": 29,
+    "GOMEZ MARTINEZ, DANIEL": 19,
+    "RIAÑO DIAZ, TELMO": 14,
+    "CORREA MURILLO, SAMUEL": 14,
+    "GARCIA LORIDO, UNAI": 90,
+    "ATXUKARRO OLABARRIETA, URTZI": 90,
+    "VARGAS CONTRERAS, LEONARDO DAVID": 90,
+    "LEIBA GONZALEZ, ERLANTZ": 90,
+    "ALONSO URETA, JON": 77,
+    "MENDEZ MUÑOZ, ERLANTZ": 90,
+    "BASALDUA ANAYA, UNAI": 90,
+    "URRUTIA URIBARRI, LANDER": 90,
+    "TOUAYLI GOMEZ, NAIM": 90,
+    "RUIZ BUSTO, OIER": 90,
+    "DOMINGUEZ SALGADO, ENAITZ": 90,
+    "BILBAO DIAZ, IKER": 13
+  },
+  "portero_local": "GUTIERREZ JUARRERO, ANDER",
+  "portero_visitante": "GARCIA LORIDO, UNAI",
+  "dorsales_local": {
+    "GUTIERREZ JUARRERO, ANDER": 13,
+    "DEL OLMO GAREA, MARKEL": 2,
+    "RODRIGUEZ DA FONSECA, JULEN": 4,
+    "ELORRIETA ARREGI, ARATZ": 11,
+    "MACEDA CONDE, LANDER": 12,
+    "ORBE CORTAZAR, MIKEL": 16,
+    "IRAZABAL VADILLO, LINO": 17,
+    "BILBAO IBARRECHE, OSKITX": 21,
+    "ARANA FUENZALIDA, OIER": 23,
+    "ECHAZARRA ALONSO, XABIER": 25,
+    "HERRAN OLMOS, MARKEL": 30
+  },
+  "dorsales_visitante": {
+    "GARCIA LORIDO, UNAI": 13,
+    "ATXUKARRO OLABARRIETA, URTZI": 4,
+    "VARGAS CONTRERAS, LEONARDO DAVID": 6,
+    "LEIBA GONZALEZ, ERLANTZ": 8,
+    "ALONSO URETA, JON": 9,
+    "MENDEZ MUÑOZ, ERLANTZ": 12,
+    "BASALDUA ANAYA, UNAI": 16,
+    "URRUTIA URIBARRI, LANDER": 19,
+    "TOUAYLI GOMEZ, NAIM": 21,
+    "RUIZ BUSTO, OIER": 22,
+    "DOMINGUEZ SALGADO, ENAITZ": 23
+  },
+  "suspendidos": []
+}
