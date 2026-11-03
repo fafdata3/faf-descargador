@@ -1,0 +1,274 @@
+{
+  "acta_id": "B_9970979",
+  "filename": "Acta_B_9970979.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 32,
+  "fecha": "09-05-2026",
+  "hora": "16:00",
+  "categoria": "DIVISIÓN DE HONOR HJ / GAZTEEN OHOREZKO MAILA (GRUPO 1)",
+  "equipo_local": "BARAKALDO B",
+  "equipo_visitante": "ITZUBALTZETA",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "NEGUERUELA GOJENOLA, IKER"
+  ],
+  "estadio": "SAN VICENTE C.D.M.",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 4,
+      "jugador": "GIL ITURRALDE, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "RODRIGUEZ CASTRO, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 18,
+      "jugador": "BOLLEGI SALBIDEGOITIA, LUKEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 29,
+      "jugador": "RODRIGUEZ CASTRO, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 81,
+      "jugador": "ESPIZUA SOLORZANO, ALAIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 82,
+      "jugador": "CAMPO FUENTES, MIKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "ALVAREZ ALONSO, UNAX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "BOLLEGI SALBIDEGOITIA, LUKEN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "ANTONIO LARRINAGA, MARKEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "GARCIA CALVO, JON",
+  "delegado_campo_local": "MARTINEZ LOPEZ, AITOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTINEZ LOPEZ, AITOR",
+  "delegado_equipo_visitante": "OLAGUIBEL SABIN, JOAQUIN",
+  "titulares_local": [
+    "GARCIA MADROÑAL, JUN",
+    "AZKUE ESNAOLA, GORKA",
+    "ALVAREZ ALONSO, UNAX",
+    "ESPIZUA SOLORZANO, ALAIN",
+    "LEDESMA MEABE, JULEN",
+    "BOUKHOLKHAL MEFLAHI, SIRAGE NOURDIN",
+    "VAZQUEZ AGUIRRE, JON",
+    "CAMPO FUENTES, MIKEL",
+    "GUTIERREZ DIAZ, IMANOL",
+    "LAGE EPALZA, MIKEL",
+    "ESPINAZO JIMENEZ, JON"
+  ],
+  "titulares_visitante": [
+    "FANEGO ANGULO, OIER",
+    "CUSENZA FERNANDEZ, IZAN",
+    "EGIDO PIZARRO, XABIER",
+    "PEREZ QUILEZ, IVAN",
+    "RODRIGUEZ CASTRO, JON",
+    "GIL ITURRALDE, MATEO",
+    "TOGOLA HERNANDEZ, XABIER SADA",
+    "BOLLEGI SALBIDEGOITIA, LUKEN",
+    "CONDE ESTEBAN, BELATZ",
+    "LAMBERT ARZU, EDGAR ALDAIR",
+    "GUTIERREZ MARTINEZ, IÑIGO"
+  ],
+  "suplentes_local": [
+    "RODRIGUEZ TAMAYO, JON",
+    "NAVAS GARCIA, ANDER",
+    "URIARTE YAÑEZ, JORITZ",
+    "ALVAREZ ALONSO, MARKEL",
+    "GOMEZ MORALEJO, ALEX",
+    "GARCIA ARNAIZ, UNAI",
+    "OSUNA DOMINGUEZ, MARKEL"
+  ],
+  "suplentes_visitante": [
+    "ODRIOZOLA SANCHEZ, JON",
+    "BLANCO ARRILLAGA, MARKEL",
+    "KRIDA GOMEZ, RAYAN"
+  ],
+  "convocados_sin_jugar_local": [
+    "RODRIGUEZ TAMAYO, JON",
+    "GARCIA ARNAIZ, UNAI"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GARCIA MADROÑAL, JUN",
+    "AZKUE ESNAOLA, GORKA",
+    "ALVAREZ ALONSO, UNAX",
+    "ESPIZUA SOLORZANO, ALAIN",
+    "LEDESMA MEABE, JULEN",
+    "BOUKHOLKHAL MEFLAHI, SIRAGE NOURDIN",
+    "VAZQUEZ AGUIRRE, JON",
+    "CAMPO FUENTES, MIKEL",
+    "GUTIERREZ DIAZ, IMANOL",
+    "LAGE EPALZA, MIKEL",
+    "ESPINAZO JIMENEZ, JON",
+    "NAVAS GARCIA, ANDER",
+    "ALVAREZ ALONSO, MARKEL",
+    "URIARTE YAÑEZ, JORITZ",
+    "OSUNA DOMINGUEZ, MARKEL",
+    "GOMEZ MORALEJO, ALEX"
+  ],
+  "jugadores_visitante": [
+    "FANEGO ANGULO, OIER",
+    "CUSENZA FERNANDEZ, IZAN",
+    "EGIDO PIZARRO, XABIER",
+    "PEREZ QUILEZ, IVAN",
+    "RODRIGUEZ CASTRO, JON",
+    "GIL ITURRALDE, MATEO",
+    "TOGOLA HERNANDEZ, XABIER SADA",
+    "BOLLEGI SALBIDEGOITIA, LUKEN",
+    "CONDE ESTEBAN, BELATZ",
+    "LAMBERT ARZU, EDGAR ALDAIR",
+    "GUTIERREZ MARTINEZ, IÑIGO",
+    "BLANCO ARRILLAGA, MARKEL",
+    "KRIDA GOMEZ, RAYAN",
+    "ODRIOZOLA SANCHEZ, JON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 27,
+      "entra": "NAVAS GARCIA, ANDER",
+      "sale": "BOUKHOLKHAL MEFLAHI, SIRAGE NOURDIN"
+    },
+    {
+      "min": 27,
+      "entra": "ALVAREZ ALONSO, MARKEL",
+      "sale": "AZKUE ESNAOLA, GORKA"
+    },
+    {
+      "min": 27,
+      "entra": "URIARTE YAÑEZ, JORITZ",
+      "sale": "ESPINAZO JIMENEZ, JON"
+    },
+    {
+      "min": 57,
+      "entra": "OSUNA DOMINGUEZ, MARKEL",
+      "sale": "LEDESMA MEABE, JULEN"
+    },
+    {
+      "min": 77,
+      "entra": "GOMEZ MORALEJO, ALEX",
+      "sale": "GUTIERREZ DIAZ, IMANOL"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 67,
+      "entra": "BLANCO ARRILLAGA, MARKEL",
+      "sale": "TOGOLA HERNANDEZ, XABIER SADA"
+    },
+    {
+      "min": 75,
+      "entra": "KRIDA GOMEZ, RAYAN",
+      "sale": "RODRIGUEZ CASTRO, JON"
+    },
+    {
+      "min": 83,
+      "entra": "ODRIOZOLA SANCHEZ, JON",
+      "sale": "GUTIERREZ MARTINEZ, IÑIGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCIA MADROÑAL, JUN": 90,
+    "AZKUE ESNAOLA, GORKA": 27,
+    "ALVAREZ ALONSO, UNAX": 90,
+    "ESPIZUA SOLORZANO, ALAIN": 90,
+    "LEDESMA MEABE, JULEN": 57,
+    "BOUKHOLKHAL MEFLAHI, SIRAGE NOURDIN": 27,
+    "VAZQUEZ AGUIRRE, JON": 90,
+    "CAMPO FUENTES, MIKEL": 90,
+    "GUTIERREZ DIAZ, IMANOL": 77,
+    "LAGE EPALZA, MIKEL": 90,
+    "ESPINAZO JIMENEZ, JON": 27,
+    "NAVAS GARCIA, ANDER": 63,
+    "ALVAREZ ALONSO, MARKEL": 63,
+    "URIARTE YAÑEZ, JORITZ": 63,
+    "OSUNA DOMINGUEZ, MARKEL": 33,
+    "GOMEZ MORALEJO, ALEX": 13,
+    "FANEGO ANGULO, OIER": 90,
+    "CUSENZA FERNANDEZ, IZAN": 90,
+    "EGIDO PIZARRO, XABIER": 90,
+    "PEREZ QUILEZ, IVAN": 90,
+    "RODRIGUEZ CASTRO, JON": 75,
+    "GIL ITURRALDE, MATEO": 90,
+    "TOGOLA HERNANDEZ, XABIER SADA": 67,
+    "BOLLEGI SALBIDEGOITIA, LUKEN": 90,
+    "CONDE ESTEBAN, BELATZ": 90,
+    "LAMBERT ARZU, EDGAR ALDAIR": 90,
+    "GUTIERREZ MARTINEZ, IÑIGO": 83,
+    "BLANCO ARRILLAGA, MARKEL": 23,
+    "KRIDA GOMEZ, RAYAN": 15,
+    "ODRIOZOLA SANCHEZ, JON": 7
+  },
+  "portero_local": "GARCIA MADROÑAL, JUN",
+  "portero_visitante": "FANEGO ANGULO, OIER",
+  "dorsales_local": {
+    "GARCIA MADROÑAL, JUN": 13,
+    "AZKUE ESNAOLA, GORKA": 4,
+    "ALVAREZ ALONSO, UNAX": 5,
+    "ESPIZUA SOLORZANO, ALAIN": 7,
+    "LEDESMA MEABE, JULEN": 10,
+    "BOUKHOLKHAL MEFLAHI, SIRAGE NOURDIN": 15,
+    "VAZQUEZ AGUIRRE, JON": 17,
+    "CAMPO FUENTES, MIKEL": 19,
+    "GUTIERREZ DIAZ, IMANOL": 21,
+    "LAGE EPALZA, MIKEL": 22,
+    "ESPINAZO JIMENEZ, JON": 24
+  },
+  "dorsales_visitante": {
+    "FANEGO ANGULO, OIER": 13,
+    "CUSENZA FERNANDEZ, IZAN": 3,
+    "EGIDO PIZARRO, XABIER": 4,
+    "PEREZ QUILEZ, IVAN": 6,
+    "RODRIGUEZ CASTRO, JON": 10,
+    "GIL ITURRALDE, MATEO": 14,
+    "TOGOLA HERNANDEZ, XABIER SADA": 15,
+    "BOLLEGI SALBIDEGOITIA, LUKEN": 18,
+    "CONDE ESTEBAN, BELATZ": 20,
+    "LAMBERT ARZU, EDGAR ALDAIR": 21,
+    "GUTIERREZ MARTINEZ, IÑIGO": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
