@@ -1,0 +1,262 @@
+{
+  "acta_id": "B_9973204",
+  "filename": "Acta_B_9973204.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "08-11-2025",
+  "hora": "17:00",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 5)",
+  "equipo_local": "BERANGO",
+  "equipo_visitante": "GETXO C",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "CUSIPUMA CAMPOS, ISIDRO DAVID"
+  ],
+  "estadio": "ITURRIAGA",
+  "ciudad": "Berango",
+  "goleadores": [
+    {
+      "minuto": 17,
+      "jugador": "VILLAMOR PASTOR, AITOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 85,
+      "jugador": "ESTEFANE RIQUELME, MELIAN ANDONI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 87,
+      "jugador": "ABAD INSAUSTI, IGNACIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 43,
+      "jugador": "UGARTE SANCHEZ, LIHER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 8,
+      "jugador": "MARTIN ROJO, IÑIGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 35,
+      "jugador": "GONZALEZ LECHUGA, CESAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 78,
+      "jugador": "VILLAMOR PASTOR, AITOR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "SAN JOSE DOMINGUEZ, MIKEL",
+  "entrenador_visitante": "URIBE IBAÑEZ, MITXEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MONCAYOLA CIRIZA, AITOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MONCAYOLA CIRIZA, AITOR",
+  "delegado_equipo_visitante": "MURU RONDA, FERNANDO",
+  "titulares_local": [
+    "FERNANDINO SALTERAIN, ANDER",
+    "UGARTE SANCHEZ, LIHER",
+    "IPARAGUIRRE ARAYA, JAVIER",
+    "RIOJA MARTIN, BRUNO",
+    "ABAD INSAUSTI, IGNACIO",
+    "LUNA LUGARIZARESTI, GAIZKA",
+    "RANERO BLANCA, IGOR",
+    "IZAGUIRRE BERROJALBIZ, ALAIN",
+    "LOPEZ MATA, MARTIN",
+    "PEREZ GONZALEZ, XABIER",
+    "NUHU DJANGERU, IDDIRISU"
+  ],
+  "titulares_visitante": [
+    "IGLESIAS PORTILLO, ALEJANDRO",
+    "PURAS GOMEZ, SERGIO",
+    "MARTIN ROJO, IÑIGO",
+    "MENIKA MORAGA, IKER",
+    "CASADO GARCIA, GUILLERMO",
+    "MOSQUERA GOITIA, ALVARO",
+    "ESTEFANE RIQUELME, MELIAN ANDONI",
+    "GONZALEZ LECHUGA, CESAR",
+    "VILLAMOR PASTOR, AITOR",
+    "SANCHEZ QUINTERO, DIEGO FERNANDO",
+    "REINO PARDO, URKO"
+  ],
+  "suplentes_local": [
+    "CABANAS REVILLA, UNAX",
+    "VERDURAS SCHAEIDT, IBON",
+    "ALEGRE BEZARES, MARKEL",
+    "ARRIETA PARDO, PABLO",
+    "MARTINEZ SIERRA, XIKER",
+    "PEREZ GONZALEZ, SIRO"
+  ],
+  "suplentes_visitante": [
+    "GONZALEZ DE AUDIKANA GARAI, ENEKO",
+    "ARCOS AZALDEGUI, IVAN",
+    "MARTIN ECHEVARRIA, JORITZ",
+    "KORTABARRIA LARREA, EKHI"
+  ],
+  "convocados_sin_jugar_local": [
+    "CABANAS REVILLA, UNAX"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GONZALEZ DE AUDIKANA GARAI, ENEKO",
+    "ARCOS AZALDEGUI, IVAN"
+  ],
+  "jugadores_local": [
+    "FERNANDINO SALTERAIN, ANDER",
+    "UGARTE SANCHEZ, LIHER",
+    "IPARAGUIRRE ARAYA, JAVIER",
+    "RIOJA MARTIN, BRUNO",
+    "ABAD INSAUSTI, IGNACIO",
+    "LUNA LUGARIZARESTI, GAIZKA",
+    "RANERO BLANCA, IGOR",
+    "IZAGUIRRE BERROJALBIZ, ALAIN",
+    "LOPEZ MATA, MARTIN",
+    "PEREZ GONZALEZ, XABIER",
+    "NUHU DJANGERU, IDDIRISU",
+    "PEREZ GONZALEZ, SIRO",
+    "ARRIETA PARDO, PABLO",
+    "MARTINEZ SIERRA, XIKER",
+    "ALEGRE BEZARES, MARKEL",
+    "VERDURAS SCHAEIDT, IBON"
+  ],
+  "jugadores_visitante": [
+    "IGLESIAS PORTILLO, ALEJANDRO",
+    "PURAS GOMEZ, SERGIO",
+    "MARTIN ROJO, IÑIGO",
+    "MENIKA MORAGA, IKER",
+    "CASADO GARCIA, GUILLERMO",
+    "MOSQUERA GOITIA, ALVARO",
+    "ESTEFANE RIQUELME, MELIAN ANDONI",
+    "GONZALEZ LECHUGA, CESAR",
+    "VILLAMOR PASTOR, AITOR",
+    "SANCHEZ QUINTERO, DIEGO FERNANDO",
+    "REINO PARDO, URKO",
+    "KORTABARRIA LARREA, EKHI",
+    "MARTIN ECHEVARRIA, JORITZ"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "PEREZ GONZALEZ, SIRO",
+      "sale": "NUHU DJANGERU, IDDIRISU"
+    },
+    {
+      "min": 52,
+      "entra": "ARRIETA PARDO, PABLO",
+      "sale": "RIOJA MARTIN, BRUNO"
+    },
+    {
+      "min": 66,
+      "entra": "MARTINEZ SIERRA, XIKER",
+      "sale": "IPARAGUIRRE ARAYA, JAVIER"
+    },
+    {
+      "min": 66,
+      "entra": "ALEGRE BEZARES, MARKEL",
+      "sale": "IZAGUIRRE BERROJALBIZ, ALAIN"
+    },
+    {
+      "min": 82,
+      "entra": "VERDURAS SCHAEIDT, IBON",
+      "sale": "LUNA LUGARIZARESTI, GAIZKA"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 52,
+      "entra": "KORTABARRIA LARREA, EKHI",
+      "sale": "MOSQUERA GOITIA, ALVARO"
+    },
+    {
+      "min": 64,
+      "entra": "MARTIN ECHEVARRIA, JORITZ",
+      "sale": "CASADO GARCIA, GUILLERMO"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDINO SALTERAIN, ANDER": 90,
+    "UGARTE SANCHEZ, LIHER": 90,
+    "IPARAGUIRRE ARAYA, JAVIER": 66,
+    "RIOJA MARTIN, BRUNO": 52,
+    "ABAD INSAUSTI, IGNACIO": 90,
+    "LUNA LUGARIZARESTI, GAIZKA": 82,
+    "RANERO BLANCA, IGOR": 90,
+    "IZAGUIRRE BERROJALBIZ, ALAIN": 66,
+    "LOPEZ MATA, MARTIN": 90,
+    "PEREZ GONZALEZ, XABIER": 90,
+    "NUHU DJANGERU, IDDIRISU": 52,
+    "PEREZ GONZALEZ, SIRO": 38,
+    "ARRIETA PARDO, PABLO": 38,
+    "MARTINEZ SIERRA, XIKER": 24,
+    "ALEGRE BEZARES, MARKEL": 24,
+    "VERDURAS SCHAEIDT, IBON": 8,
+    "IGLESIAS PORTILLO, ALEJANDRO": 90,
+    "PURAS GOMEZ, SERGIO": 90,
+    "MARTIN ROJO, IÑIGO": 90,
+    "MENIKA MORAGA, IKER": 90,
+    "CASADO GARCIA, GUILLERMO": 64,
+    "MOSQUERA GOITIA, ALVARO": 52,
+    "ESTEFANE RIQUELME, MELIAN ANDONI": 90,
+    "GONZALEZ LECHUGA, CESAR": 90,
+    "VILLAMOR PASTOR, AITOR": 90,
+    "SANCHEZ QUINTERO, DIEGO FERNANDO": 90,
+    "REINO PARDO, URKO": 90,
+    "KORTABARRIA LARREA, EKHI": 38,
+    "MARTIN ECHEVARRIA, JORITZ": 26
+  },
+  "portero_local": "FERNANDINO SALTERAIN, ANDER",
+  "portero_visitante": "IGLESIAS PORTILLO, ALEJANDRO",
+  "dorsales_local": {
+    "FERNANDINO SALTERAIN, ANDER": 1,
+    "UGARTE SANCHEZ, LIHER": 3,
+    "IPARAGUIRRE ARAYA, JAVIER": 6,
+    "RIOJA MARTIN, BRUNO": 7,
+    "ABAD INSAUSTI, IGNACIO": 10,
+    "LUNA LUGARIZARESTI, GAIZKA": 11,
+    "RANERO BLANCA, IGOR": 12,
+    "IZAGUIRRE BERROJALBIZ, ALAIN": 15,
+    "LOPEZ MATA, MARTIN": 17,
+    "PEREZ GONZALEZ, XABIER": 19,
+    "NUHU DJANGERU, IDDIRISU": 24
+  },
+  "dorsales_visitante": {
+    "IGLESIAS PORTILLO, ALEJANDRO": 13,
+    "PURAS GOMEZ, SERGIO": 2,
+    "MARTIN ROJO, IÑIGO": 5,
+    "MENIKA MORAGA, IKER": 6,
+    "CASADO GARCIA, GUILLERMO": 7,
+    "MOSQUERA GOITIA, ALVARO": 9,
+    "ESTEFANE RIQUELME, MELIAN ANDONI": 10,
+    "GONZALEZ LECHUGA, CESAR": 12,
+    "VILLAMOR PASTOR, AITOR": 15,
+    "SANCHEZ QUINTERO, DIEGO FERNANDO": 20,
+    "REINO PARDO, URKO": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
