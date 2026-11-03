@@ -1,0 +1,295 @@
+{
+  "acta_id": "B_10061535",
+  "filename": "Acta_B_10061535.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "25-10-2026",
+  "hora": "09:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "UNION SPORT A",
+  "equipo_visitante": "SPORTING DE LUTXANA A",
+  "goles_local": 4,
+  "goles_visitante": 2,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SANTOS GARCIA, AITOR"
+  ],
+  "estadio": "SAN VICENTE C.D.M.",
+  "ciudad": "Barakaldo",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "ORTIZ RODERO, SERGIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "SAIZ PRADO, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 38,
+      "jugador": "DANG, DINH NHAT MINH",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 43,
+      "jugador": "OBREGON MARTINEZ, EINAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 45,
+      "jugador": "NOGALES GORRIA, KIRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 61,
+      "jugador": "NOGALES GORRIA, KIRIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 42,
+      "jugador": "SAIZ PRADO, ANDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 48,
+      "jugador": "MONTERO SANZ, IBAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "RODRIGUEZ CONDE, DIEGO",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": "PEREZ FERNANDEZ, ARKAITZ",
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "RIBADO ACHUCARRO, OIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "RIBADO ACHUCARRO, OIER",
+  "delegado_equipo_visitante": "RODRIGUEZ PLAZA, DAVID",
+  "titulares_local": [
+    "MERINO LÓPEZ, GAIZKA",
+    "CALLEJON JUANES, ADRIAN",
+    "OBREGON MARTINEZ, EINAR",
+    "SAA CONTRERAS, JONATHAN ENMANUEL",
+    "GONZALO DOMINGO, ANER",
+    "PERAL CASTRESANA, URKO",
+    "TEJEDOR GARCIA, IKER",
+    "LÓPEZ MARTÍN, MATEO",
+    "BARTOLOME SALAS, ANER",
+    "DO NASCIMENTO SANDIVAR, JORDI ELIU",
+    "ORTIZ RODERO, SERGIO"
+  ],
+  "titulares_visitante": [
+    "PINTO IZURIETA, ANDONI",
+    "SAINZ DE AJA MESA, OIER",
+    "DANG, DINH NHAT MINH",
+    "MARCOS QUINTANO, HUGO",
+    "POSTIGO ROJO, JON",
+    "SEBASTIAN ROMAN, ANDER",
+    "POSTIGO ROJO, ASIER",
+    "MONTERO SANZ, IBAI",
+    "RODRÍGUEZ LAVIN, EDER",
+    "MUÑOZ EZQUERRO, JULEN",
+    "SAIZ PRADO, ANDER"
+  ],
+  "suplentes_local": [
+    "PRIETO IBAÑEZ, MARIO",
+    "CORBACHO PRIETO, MIKEL",
+    "DIEZ BLANCO, JULEN",
+    "NOGALES GORRIA, KIRIAN",
+    "LAISEKA GONZÁLEZ, EKAITZ",
+    "SALVATIERRA ROMAN, ALEX",
+    "RODRIGUEZ BLANCO, MARKEL"
+  ],
+  "suplentes_visitante": [
+    "LAGO ORIBE, JON",
+    "MÉNDEZ LOPEZ, IRAULTZA",
+    "JUAREZ RODEÑO, DANEL",
+    "BARRERA BASOZABAL, HUGO",
+    "QUINTANA SERRADILLA, JOEL",
+    "MINGUEZ MORIEL, MARKO",
+    "REYES MORENO, JULEN"
+  ],
+  "convocados_sin_jugar_local": [
+    "PRIETO IBAÑEZ, MARIO",
+    "LAISEKA GONZÁLEZ, EKAITZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "LAGO ORIBE, JON",
+    "JUAREZ RODEÑO, DANEL"
+  ],
+  "jugadores_local": [
+    "MERINO LÓPEZ, GAIZKA",
+    "CALLEJON JUANES, ADRIAN",
+    "OBREGON MARTINEZ, EINAR",
+    "SAA CONTRERAS, JONATHAN ENMANUEL",
+    "GONZALO DOMINGO, ANER",
+    "PERAL CASTRESANA, URKO",
+    "TEJEDOR GARCIA, IKER",
+    "LÓPEZ MARTÍN, MATEO",
+    "BARTOLOME SALAS, ANER",
+    "DO NASCIMENTO SANDIVAR, JORDI ELIU",
+    "ORTIZ RODERO, SERGIO",
+    "RODRIGUEZ BLANCO, MARKEL",
+    "NOGALES GORRIA, KIRIAN",
+    "SALVATIERRA ROMAN, ALEX",
+    "CORBACHO PRIETO, MIKEL",
+    "DIEZ BLANCO, JULEN"
+  ],
+  "jugadores_visitante": [
+    "PINTO IZURIETA, ANDONI",
+    "SAINZ DE AJA MESA, OIER",
+    "DANG, DINH NHAT MINH",
+    "MARCOS QUINTANO, HUGO",
+    "POSTIGO ROJO, JON",
+    "SEBASTIAN ROMAN, ANDER",
+    "POSTIGO ROJO, ASIER",
+    "MONTERO SANZ, IBAI",
+    "RODRÍGUEZ LAVIN, EDER",
+    "MUÑOZ EZQUERRO, JULEN",
+    "SAIZ PRADO, ANDER",
+    "MÉNDEZ LOPEZ, IRAULTZA",
+    "BARRERA BASOZABAL, HUGO",
+    "MINGUEZ MORIEL, MARKO",
+    "QUINTANA SERRADILLA, JOEL",
+    "REYES MORENO, JULEN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "RODRIGUEZ BLANCO, MARKEL",
+      "sale": "GONZALO DOMINGO, ANER"
+    },
+    {
+      "min": 41,
+      "entra": "NOGALES GORRIA, KIRIAN",
+      "sale": "DO NASCIMENTO SANDIVAR, JORDI ELIU"
+    },
+    {
+      "min": 41,
+      "entra": "SALVATIERRA ROMAN, ALEX",
+      "sale": "SAA CONTRERAS, JONATHAN ENMANUEL"
+    },
+    {
+      "min": 56,
+      "entra": "CORBACHO PRIETO, MIKEL",
+      "sale": "ORTIZ RODERO, SERGIO"
+    },
+    {
+      "min": 56,
+      "entra": "DIEZ BLANCO, JULEN",
+      "sale": "OBREGON MARTINEZ, EINAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "MÉNDEZ LOPEZ, IRAULTZA",
+      "sale": "MARCOS QUINTANO, HUGO"
+    },
+    {
+      "min": 54,
+      "entra": "BARRERA BASOZABAL, HUGO",
+      "sale": "SEBASTIAN ROMAN, ANDER"
+    },
+    {
+      "min": 63,
+      "entra": "MINGUEZ MORIEL, MARKO",
+      "sale": "MUÑOZ EZQUERRO, JULEN"
+    },
+    {
+      "min": 69,
+      "entra": "QUINTANA SERRADILLA, JOEL",
+      "sale": "RODRÍGUEZ LAVIN, EDER"
+    },
+    {
+      "min": 69,
+      "entra": "REYES MORENO, JULEN",
+      "sale": "POSTIGO ROJO, JON"
+    }
+  ],
+  "minutos_jugadores": {
+    "MERINO LÓPEZ, GAIZKA": 90,
+    "CALLEJON JUANES, ADRIAN": 90,
+    "OBREGON MARTINEZ, EINAR": 56,
+    "SAA CONTRERAS, JONATHAN ENMANUEL": 41,
+    "GONZALO DOMINGO, ANER": 41,
+    "PERAL CASTRESANA, URKO": 90,
+    "TEJEDOR GARCIA, IKER": 90,
+    "LÓPEZ MARTÍN, MATEO": 90,
+    "BARTOLOME SALAS, ANER": 90,
+    "DO NASCIMENTO SANDIVAR, JORDI ELIU": 41,
+    "ORTIZ RODERO, SERGIO": 56,
+    "RODRIGUEZ BLANCO, MARKEL": 49,
+    "NOGALES GORRIA, KIRIAN": 49,
+    "SALVATIERRA ROMAN, ALEX": 49,
+    "CORBACHO PRIETO, MIKEL": 34,
+    "DIEZ BLANCO, JULEN": 34,
+    "PINTO IZURIETA, ANDONI": 90,
+    "SAINZ DE AJA MESA, OIER": 90,
+    "DANG, DINH NHAT MINH": 90,
+    "MARCOS QUINTANO, HUGO": 41,
+    "POSTIGO ROJO, JON": 69,
+    "SEBASTIAN ROMAN, ANDER": 54,
+    "POSTIGO ROJO, ASIER": 90,
+    "MONTERO SANZ, IBAI": 90,
+    "RODRÍGUEZ LAVIN, EDER": 69,
+    "MUÑOZ EZQUERRO, JULEN": 63,
+    "SAIZ PRADO, ANDER": 90,
+    "MÉNDEZ LOPEZ, IRAULTZA": 49,
+    "BARRERA BASOZABAL, HUGO": 36,
+    "MINGUEZ MORIEL, MARKO": 27,
+    "QUINTANA SERRADILLA, JOEL": 21,
+    "REYES MORENO, JULEN": 21
+  },
+  "portero_local": "MERINO LÓPEZ, GAIZKA",
+  "portero_visitante": "PINTO IZURIETA, ANDONI",
+  "dorsales_local": {
+    "MERINO LÓPEZ, GAIZKA": 1,
+    "CALLEJON JUANES, ADRIAN": 5,
+    "OBREGON MARTINEZ, EINAR": 8,
+    "SAA CONTRERAS, JONATHAN ENMANUEL": 11,
+    "GONZALO DOMINGO, ANER": 12,
+    "PERAL CASTRESANA, URKO": 14,
+    "TEJEDOR GARCIA, IKER": 15,
+    "LÓPEZ MARTÍN, MATEO": 19,
+    "BARTOLOME SALAS, ANER": 20,
+    "DO NASCIMENTO SANDIVAR, JORDI ELIU": 23,
+    "ORTIZ RODERO, SERGIO": 24
+  },
+  "dorsales_visitante": {
+    "PINTO IZURIETA, ANDONI": 1,
+    "SAINZ DE AJA MESA, OIER": 3,
+    "DANG, DINH NHAT MINH": 7,
+    "MARCOS QUINTANO, HUGO": 10,
+    "POSTIGO ROJO, JON": 12,
+    "SEBASTIAN ROMAN, ANDER": 14,
+    "POSTIGO ROJO, ASIER": 15,
+    "MONTERO SANZ, IBAI": 16,
+    "RODRÍGUEZ LAVIN, EDER": 18,
+    "MUÑOZ EZQUERRO, JULEN": 20,
+    "SAIZ PRADO, ANDER": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
