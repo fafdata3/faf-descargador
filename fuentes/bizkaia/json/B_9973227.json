@@ -1,0 +1,289 @@
+{
+  "acta_id": "B_9973227",
+  "filename": "Acta_B_9973227.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 9,
+  "fecha": "29-11-2025",
+  "hora": "20:00",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 5)",
+  "equipo_local": "PLENTZIA B",
+  "equipo_visitante": "ASTRABUDUAKO D",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "REGIDOR ELOY, IKER"
+  ],
+  "estadio": "ERROTABARRI",
+  "ciudad": "Plentzia",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "AGIRRE EXPOSITO, BIKENDI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "FERNANDEZ RODRIGUEZ, DIEGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 49,
+      "jugador": "MORENO MAGRI, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "GIL MAZO, IÑIGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 83,
+      "jugador": "MARTINEZ URIARTE, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 88,
+      "jugador": "RODRIGO URIA, AKETX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 75,
+      "jugador": "RINCON ROCHAS, JON",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 81,
+      "jugador": "VERDEJO LOJO, ALEX",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "LANDA ELOLA, EKAITZ",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GARRIDO URRUTIA, AIMAR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "FANO BILBAO, JON ERRAMON",
+  "titulares_local": [
+    "PRETTY UNCETA, PAUL",
+    "VLAD-PREPELITA, LEONARDO",
+    "RODRIGO URIA, AKETX",
+    "CIRO BENAVIDES, JOHN ERIK",
+    "FERNANDEZ CAÑAS, IBON",
+    "ARANA SAEZ, ENEKO",
+    "MARTINEZ URIARTE, JON",
+    "ARROLA MARMAÑAZ, ARITZ",
+    "CASTAÑEIRA VILLA, XABIER",
+    "LARRAZABAL SENARRIAGA, IBAI",
+    "REINO DE LA PUENTE, MIGUEL ANGEL"
+  ],
+  "titulares_visitante": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "PITPALAC, RAUL CRISTIAN",
+    "MORENO MAGRI, PABLO",
+    "AGIRRE EXPOSITO, BIKENDI",
+    "CRUZ SANTOS, IKER MATHEUS",
+    "FERNANDEZ RODRIGUEZ, DIEGO",
+    "MATESANZ FRANCES, AINGERU",
+    "GIL MAZO, IÑIGO",
+    "BARON RODRIGUEZ, GORKA",
+    "MARTINEZ ABAD, ENDIKA",
+    "PEREZ CASTEJON, IKER"
+  ],
+  "suplentes_local": [
+    "MOHAMED LAMIN NAYEM, LARUSSI",
+    "LATASA ALKORTA, OIER",
+    "GOMEZ ALDATZ, ARITZ",
+    "PEÑA MENTXAKATORRE, UGUTZ",
+    "NUÑEZ PABLO, BEÑAT",
+    "BERASATEGUI BILBAO, UGAITZ",
+    "MESA ALBARRACIN, IKER"
+  ],
+  "suplentes_visitante": [
+    "JAUREGI LOPEZ, KIRMEN",
+    "VILLARES MARTINEZ, MARKEL",
+    "RINCON ROCHAS, JON",
+    "LOPEZ RESANO, IKER",
+    "VERDEJO LOJO, ALEX"
+  ],
+  "convocados_sin_jugar_local": [
+    "LATASA ALKORTA, OIER",
+    "PEÑA MENTXAKATORRE, UGUTZ"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PRETTY UNCETA, PAUL",
+    "VLAD-PREPELITA, LEONARDO",
+    "RODRIGO URIA, AKETX",
+    "CIRO BENAVIDES, JOHN ERIK",
+    "FERNANDEZ CAÑAS, IBON",
+    "ARANA SAEZ, ENEKO",
+    "MARTINEZ URIARTE, JON",
+    "ARROLA MARMAÑAZ, ARITZ",
+    "CASTAÑEIRA VILLA, XABIER",
+    "LARRAZABAL SENARRIAGA, IBAI",
+    "REINO DE LA PUENTE, MIGUEL ANGEL",
+    "GOMEZ ALDATZ, ARITZ",
+    "MOHAMED LAMIN NAYEM, LARUSSI",
+    "MESA ALBARRACIN, IKER",
+    "NUÑEZ PABLO, BEÑAT",
+    "BERASATEGUI BILBAO, UGAITZ"
+  ],
+  "jugadores_visitante": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "PITPALAC, RAUL CRISTIAN",
+    "MORENO MAGRI, PABLO",
+    "AGIRRE EXPOSITO, BIKENDI",
+    "CRUZ SANTOS, IKER MATHEUS",
+    "FERNANDEZ RODRIGUEZ, DIEGO",
+    "MATESANZ FRANCES, AINGERU",
+    "GIL MAZO, IÑIGO",
+    "BARON RODRIGUEZ, GORKA",
+    "MARTINEZ ABAD, ENDIKA",
+    "PEREZ CASTEJON, IKER",
+    "LOPEZ RESANO, IKER",
+    "VILLARES MARTINEZ, MARKEL",
+    "VERDEJO LOJO, ALEX",
+    "JAUREGI LOPEZ, KIRMEN",
+    "RINCON ROCHAS, JON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 58,
+      "entra": "GOMEZ ALDATZ, ARITZ",
+      "sale": "CIRO BENAVIDES, JOHN ERIK"
+    },
+    {
+      "min": 58,
+      "entra": "MOHAMED LAMIN NAYEM, LARUSSI",
+      "sale": "ARANA SAEZ, ENEKO"
+    },
+    {
+      "min": 66,
+      "entra": "MESA ALBARRACIN, IKER",
+      "sale": "LARRAZABAL SENARRIAGA, IBAI"
+    },
+    {
+      "min": 78,
+      "entra": "NUÑEZ PABLO, BEÑAT",
+      "sale": "FERNANDEZ CAÑAS, IBON"
+    },
+    {
+      "min": 78,
+      "entra": "BERASATEGUI BILBAO, UGAITZ",
+      "sale": "NUÑEZ PABLO, BEÑAT"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 45,
+      "entra": "LOPEZ RESANO, IKER",
+      "sale": "BARON RODRIGUEZ, GORKA"
+    },
+    {
+      "min": 55,
+      "entra": "VILLARES MARTINEZ, MARKEL",
+      "sale": "PEREZ CASTEJON, IKER"
+    },
+    {
+      "min": 55,
+      "entra": "VERDEJO LOJO, ALEX",
+      "sale": "FERNANDEZ RODRIGUEZ, DIEGO"
+    },
+    {
+      "min": 63,
+      "entra": "JAUREGI LOPEZ, KIRMEN",
+      "sale": "MARTINEZ ABAD, ENDIKA"
+    },
+    {
+      "min": 72,
+      "entra": "RINCON ROCHAS, JON",
+      "sale": "GIL MAZO, IÑIGO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PRETTY UNCETA, PAUL": 90,
+    "VLAD-PREPELITA, LEONARDO": 90,
+    "RODRIGO URIA, AKETX": 90,
+    "CIRO BENAVIDES, JOHN ERIK": 58,
+    "FERNANDEZ CAÑAS, IBON": 78,
+    "ARANA SAEZ, ENEKO": 58,
+    "MARTINEZ URIARTE, JON": 90,
+    "ARROLA MARMAÑAZ, ARITZ": 90,
+    "CASTAÑEIRA VILLA, XABIER": 90,
+    "LARRAZABAL SENARRIAGA, IBAI": 66,
+    "REINO DE LA PUENTE, MIGUEL ANGEL": 90,
+    "GOMEZ ALDATZ, ARITZ": 32,
+    "MOHAMED LAMIN NAYEM, LARUSSI": 32,
+    "MESA ALBARRACIN, IKER": 24,
+    "NUÑEZ PABLO, BEÑAT": 78,
+    "BERASATEGUI BILBAO, UGAITZ": 12,
+    "BOLAÑOS MARTIN, AXULAR": 90,
+    "PITPALAC, RAUL CRISTIAN": 90,
+    "MORENO MAGRI, PABLO": 90,
+    "AGIRRE EXPOSITO, BIKENDI": 90,
+    "CRUZ SANTOS, IKER MATHEUS": 90,
+    "FERNANDEZ RODRIGUEZ, DIEGO": 55,
+    "MATESANZ FRANCES, AINGERU": 90,
+    "GIL MAZO, IÑIGO": 72,
+    "BARON RODRIGUEZ, GORKA": 45,
+    "MARTINEZ ABAD, ENDIKA": 63,
+    "PEREZ CASTEJON, IKER": 55,
+    "LOPEZ RESANO, IKER": 45,
+    "VILLARES MARTINEZ, MARKEL": 35,
+    "VERDEJO LOJO, ALEX": 35,
+    "JAUREGI LOPEZ, KIRMEN": 27,
+    "RINCON ROCHAS, JON": 18
+  },
+  "portero_local": "PRETTY UNCETA, PAUL",
+  "portero_visitante": "BOLAÑOS MARTIN, AXULAR",
+  "dorsales_local": {
+    "PRETTY UNCETA, PAUL": 1,
+    "VLAD-PREPELITA, LEONARDO": 2,
+    "RODRIGO URIA, AKETX": 3,
+    "CIRO BENAVIDES, JOHN ERIK": 7,
+    "FERNANDEZ CAÑAS, IBON": 8,
+    "ARANA SAEZ, ENEKO": 18,
+    "MARTINEZ URIARTE, JON": 19,
+    "ARROLA MARMAÑAZ, ARITZ": 20,
+    "CASTAÑEIRA VILLA, XABIER": 21,
+    "LARRAZABAL SENARRIAGA, IBAI": 23,
+    "REINO DE LA PUENTE, MIGUEL ANGEL": 25
+  },
+  "dorsales_visitante": {
+    "BOLAÑOS MARTIN, AXULAR": 13,
+    "PITPALAC, RAUL CRISTIAN": 3,
+    "MORENO MAGRI, PABLO": 4,
+    "AGIRRE EXPOSITO, BIKENDI": 5,
+    "CRUZ SANTOS, IKER MATHEUS": 7,
+    "FERNANDEZ RODRIGUEZ, DIEGO": 9,
+    "MATESANZ FRANCES, AINGERU": 11,
+    "GIL MAZO, IÑIGO": 14,
+    "BARON RODRIGUEZ, GORKA": 22,
+    "MARTINEZ ABAD, ENDIKA": 23,
+    "PEREZ CASTEJON, IKER": 24
+  },
+  "suspendidos": []
+}
