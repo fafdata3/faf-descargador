@@ -1,0 +1,239 @@
+{
+  "acta_id": "B_10061533",
+  "filename": "Acta_B_10061533.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "24-10-2026",
+  "hora": "16:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "ASTI-LEKU A",
+  "equipo_visitante": "TRAPAGARAN A",
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "SVET GALII, IULIAN"
+  ],
+  "estadio": "LOS LLANOS",
+  "ciudad": "Portugalete",
+  "goleadores": [
+    {
+      "minuto": 54,
+      "jugador": "PLANS DE DIEGO, LEZO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 77,
+      "jugador": "ELEXPURU GOMEZ, GORKA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "VADILLO CASTRILLEJO, JON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "PLANS DE DIEGO, LEZO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MERINO CURIEL, MIGUEL",
+  "entrenador_visitante": "MAESTRO RUIZ, DAVID",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "LASTRA BRAGADO, AMETZ",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MERINO CURIEL, JULEN",
+  "delegado_equipo_visitante": "QUINTANA VIVANCO, JESUS ANGEL",
+  "titulares_local": [
+    "GOMEZ RODRIGUEZ, DARIO",
+    "CRUZ LOZANO, PAUL",
+    "ELEXPURU GOMEZ, GORKA",
+    "CAPETILLO BERNAL, IGOR",
+    "VADILLO CASTRILLEJO, JON",
+    "ARROYO AYUS, URKO",
+    "GONCALVES RIVERA, MIKEL",
+    "GUTIÉRREZ PEREZ, JULEN",
+    "FERNANDEZ GARCIA, JON",
+    "FERNANDEZ CARIDAD, ENEKO",
+    "BALART LOPEZ, IÑIGO"
+  ],
+  "titulares_visitante": [
+    "ARRIANDIAGA ADRIAN, BEÑAT",
+    "SARMANTON GALLO, LIER",
+    "CALLE GONZALEZ, UNAI",
+    "BERCERUELO LOPEZ, OIHAN",
+    "BUSNADIEGO ZARZUELO, AIMAR",
+    "RUBIO CLAP, IBAI",
+    "BOCOS ALVAREZ, GAIZKA",
+    "QUINTANA SALAZAR, JOSU",
+    "ROMERO FRECHILLA, ANDER",
+    "DE LAS HERAS HERNANDO, JULEN",
+    "PEREZ PONS, OIER"
+  ],
+  "suplentes_local": [
+    "ALBALA VIELLA, DANIEL",
+    "SÁNCHEZ HUSSEIN, AIMAR",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "PLANS DE DIEGO, LEZO",
+    "ORRANTIA ORTIZ DE ZARATE, GORKA",
+    "GONZALEZ FERNANDEZ, ASIER",
+    "PLANS DE DIEGO, GARI"
+  ],
+  "suplentes_visitante": [
+    "PRIETO VILLANUEVA, ALAN",
+    "BARTOLOME CANO, OIER",
+    "RODRIGUEZ HERNÁNDEZ, AIMAR",
+    "FREÍRE ROMÁN, AMETS ADEMILTON",
+    "VARELA IZQUIERDO, IBON"
+  ],
+  "convocados_sin_jugar_local": [
+    "ALBALA VIELLA, DANIEL",
+    "SÁNCHEZ HUSSEIN, AIMAR",
+    "ALCANTARA IBAÑEZ, BEÑAT",
+    "GONZALEZ FERNANDEZ, ASIER",
+    "PLANS DE DIEGO, GARI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PRIETO VILLANUEVA, ALAN"
+  ],
+  "jugadores_local": [
+    "GOMEZ RODRIGUEZ, DARIO",
+    "CRUZ LOZANO, PAUL",
+    "ELEXPURU GOMEZ, GORKA",
+    "CAPETILLO BERNAL, IGOR",
+    "VADILLO CASTRILLEJO, JON",
+    "ARROYO AYUS, URKO",
+    "GONCALVES RIVERA, MIKEL",
+    "GUTIÉRREZ PEREZ, JULEN",
+    "FERNANDEZ GARCIA, JON",
+    "FERNANDEZ CARIDAD, ENEKO",
+    "BALART LOPEZ, IÑIGO",
+    "PLANS DE DIEGO, LEZO",
+    "ORRANTIA ORTIZ DE ZARATE, GORKA"
+  ],
+  "jugadores_visitante": [
+    "ARRIANDIAGA ADRIAN, BEÑAT",
+    "SARMANTON GALLO, LIER",
+    "CALLE GONZALEZ, UNAI",
+    "BERCERUELO LOPEZ, OIHAN",
+    "BUSNADIEGO ZARZUELO, AIMAR",
+    "RUBIO CLAP, IBAI",
+    "BOCOS ALVAREZ, GAIZKA",
+    "QUINTANA SALAZAR, JOSU",
+    "ROMERO FRECHILLA, ANDER",
+    "DE LAS HERAS HERNANDO, JULEN",
+    "PEREZ PONS, OIER",
+    "VARELA IZQUIERDO, IBON",
+    "FREÍRE ROMÁN, AMETS ADEMILTON",
+    "BARTOLOME CANO, OIER",
+    "RODRIGUEZ HERNÁNDEZ, AIMAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 50,
+      "entra": "PLANS DE DIEGO, LEZO",
+      "sale": "CAPETILLO BERNAL, IGOR"
+    },
+    {
+      "min": 68,
+      "entra": "ORRANTIA ORTIZ DE ZARATE, GORKA",
+      "sale": "ARROYO AYUS, URKO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "VARELA IZQUIERDO, IBON",
+      "sale": "PEREZ PONS, OIER"
+    },
+    {
+      "min": 52,
+      "entra": "FREÍRE ROMÁN, AMETS ADEMILTON",
+      "sale": "BUSNADIEGO ZARZUELO, AIMAR"
+    },
+    {
+      "min": 58,
+      "entra": "BARTOLOME CANO, OIER",
+      "sale": "ROMERO FRECHILLA, ANDER"
+    },
+    {
+      "min": 77,
+      "entra": "RODRIGUEZ HERNÁNDEZ, AIMAR",
+      "sale": "RUBIO CLAP, IBAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "GOMEZ RODRIGUEZ, DARIO": 90,
+    "CRUZ LOZANO, PAUL": 90,
+    "ELEXPURU GOMEZ, GORKA": 90,
+    "CAPETILLO BERNAL, IGOR": 50,
+    "VADILLO CASTRILLEJO, JON": 90,
+    "ARROYO AYUS, URKO": 68,
+    "GONCALVES RIVERA, MIKEL": 90,
+    "GUTIÉRREZ PEREZ, JULEN": 90,
+    "FERNANDEZ GARCIA, JON": 90,
+    "FERNANDEZ CARIDAD, ENEKO": 90,
+    "BALART LOPEZ, IÑIGO": 90,
+    "PLANS DE DIEGO, LEZO": 40,
+    "ORRANTIA ORTIZ DE ZARATE, GORKA": 22,
+    "ARRIANDIAGA ADRIAN, BEÑAT": 90,
+    "SARMANTON GALLO, LIER": 90,
+    "CALLE GONZALEZ, UNAI": 90,
+    "BERCERUELO LOPEZ, OIHAN": 90,
+    "BUSNADIEGO ZARZUELO, AIMAR": 52,
+    "RUBIO CLAP, IBAI": 77,
+    "BOCOS ALVAREZ, GAIZKA": 90,
+    "QUINTANA SALAZAR, JOSU": 90,
+    "ROMERO FRECHILLA, ANDER": 58,
+    "DE LAS HERAS HERNANDO, JULEN": 90,
+    "PEREZ PONS, OIER": 41,
+    "VARELA IZQUIERDO, IBON": 49,
+    "FREÍRE ROMÁN, AMETS ADEMILTON": 38,
+    "BARTOLOME CANO, OIER": 32,
+    "RODRIGUEZ HERNÁNDEZ, AIMAR": 13
+  },
+  "portero_local": "GOMEZ RODRIGUEZ, DARIO",
+  "portero_visitante": "ARRIANDIAGA ADRIAN, BEÑAT",
+  "dorsales_local": {
+    "GOMEZ RODRIGUEZ, DARIO": 25,
+    "CRUZ LOZANO, PAUL": 6,
+    "ELEXPURU GOMEZ, GORKA": 8,
+    "CAPETILLO BERNAL, IGOR": 9,
+    "VADILLO CASTRILLEJO, JON": 10,
+    "ARROYO AYUS, URKO": 14,
+    "GONCALVES RIVERA, MIKEL": 15,
+    "GUTIÉRREZ PEREZ, JULEN": 17,
+    "FERNANDEZ GARCIA, JON": 18,
+    "FERNANDEZ CARIDAD, ENEKO": 22,
+    "BALART LOPEZ, IÑIGO": 23
+  },
+  "dorsales_visitante": {
+    "ARRIANDIAGA ADRIAN, BEÑAT": 13,
+    "SARMANTON GALLO, LIER": 2,
+    "CALLE GONZALEZ, UNAI": 3,
+    "BERCERUELO LOPEZ, OIHAN": 5,
+    "BUSNADIEGO ZARZUELO, AIMAR": 7,
+    "RUBIO CLAP, IBAI": 9,
+    "BOCOS ALVAREZ, GAIZKA": 10,
+    "QUINTANA SALAZAR, JOSU": 11,
+    "ROMERO FRECHILLA, ANDER": 15,
+    "DE LAS HERAS HERNANDO, JULEN": 18,
+    "PEREZ PONS, OIER": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
