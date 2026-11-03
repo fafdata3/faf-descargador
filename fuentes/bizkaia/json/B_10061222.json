@@ -1,0 +1,283 @@
+{
+  "acta_id": "B_10061222",
+  "filename": "Acta_B_10061222.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "24-10-2026",
+  "hora": "11:30",
+  "categoria": "DIVISIÓN DE HONOR HC / OHOREZKO MAILA (GRUPO 1)",
+  "equipo_local": "LEKEITIO A",
+  "equipo_visitante": "ROMO",
+  "goles_local": 1,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "GARRO RIESCO, JAVIER"
+  ],
+  "estadio": "KEPA NABERAN KALZAKORTA",
+  "ciudad": "Lekeitio",
+  "goleadores": [
+    {
+      "minuto": 9,
+      "jugador": "LONDOÑO LEON, MARLON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 36,
+      "jugador": "LONDOÑO LEON, MARLON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "KRIDA GOMEZ, RAYAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 41,
+      "jugador": "KRIDA GOMEZ, RAYAN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "ARANAGA SANCHEZ, UNAI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 58,
+      "jugador": "ITZA ESPINOSA, LUAR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 67,
+      "jugador": "PLAZA ZARRAGOITIA, OIER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "UGALDE ZABALETA, XABAT",
+  "entrenador_visitante": "BARRENETXEA ATXURRA, IÑIGO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "MARROQUIN LEON, MIKEL",
+  "delegado_campo_local": "ALEGRIA SESMA, ASIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "GOMEZ GARRIDO, JON",
+  "titulares_local": [
+    "LARDI GOROSABEL, TOMAS",
+    "ZABALA PLAZA, UNAI",
+    "ITZA ESPINOSA, LUAR",
+    "ARANDO ARINA, OIHAN",
+    "ALZOLA BERMEJO, IBAI",
+    "HERMIDA ITUARTE, LUKEN",
+    "ERQUIAGA DUARTE, ASIER",
+    "OLABARRIAGA ALDALUR, LIZAR",
+    "ITURRASPE CAMACHO, BEÑAT",
+    "TXOPITEA TOMASZEK, ARITZ",
+    "MIGUELEZ ZILLONIZ, JON"
+  ],
+  "titulares_visitante": [
+    "GARCIA FERNANDEZ, ANDER",
+    "MALO DE MOLINA TAIBO, GONZALO",
+    "ABADIN SALOMON, IKER",
+    "ARANAGA SANCHEZ, UNAI",
+    "LONDOÑO LEON, MARLON",
+    "ODRIOZOLA SANCHEZ, JON",
+    "INÉS FERNÁNDEZ, GORKA",
+    "CHAMORRO PEREIRA, GERARD",
+    "MARTINEZ RODRIGUEZ, ANDER",
+    "KRIDA GOMEZ, RAYAN",
+    "MESA LOPEZ, HUGO"
+  ],
+  "suplentes_local": [
+    "HERRERA ROBLES, AETZ",
+    "ARANBURU BILBAO, AIUR",
+    "PLAZA ZARRAGOITIA, OIER",
+    "OSA ETXEBARRIETA, MARTIN",
+    "ARRATE ORIBE, UNAX",
+    "ALEGRIA ZABALA, ENEKO"
+  ],
+  "suplentes_visitante": [
+    "MENDEZ ROSALES, JUAN PABLO",
+    "EXTREMO RUIZ, BEÑAT",
+    "JAKA ZABALA, JULEN",
+    "ELORRIAGA ETXENIKE, LUKEN",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "FERNÁNDEZ DE PINEDO MUÑOZ, AIMAR"
+  ],
+  "convocados_sin_jugar_local": [
+    "HERRERA ROBLES, AETZ"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MENDEZ ROSALES, JUAN PABLO"
+  ],
+  "jugadores_local": [
+    "LARDI GOROSABEL, TOMAS",
+    "ZABALA PLAZA, UNAI",
+    "ITZA ESPINOSA, LUAR",
+    "ARANDO ARINA, OIHAN",
+    "ALZOLA BERMEJO, IBAI",
+    "HERMIDA ITUARTE, LUKEN",
+    "ERQUIAGA DUARTE, ASIER",
+    "OLABARRIAGA ALDALUR, LIZAR",
+    "ITURRASPE CAMACHO, BEÑAT",
+    "TXOPITEA TOMASZEK, ARITZ",
+    "MIGUELEZ ZILLONIZ, JON",
+    "ARANBURU BILBAO, AIUR",
+    "ALEGRIA ZABALA, ENEKO",
+    "PLAZA ZARRAGOITIA, OIER",
+    "ARRATE ORIBE, UNAX",
+    "OSA ETXEBARRIETA, MARTIN"
+  ],
+  "jugadores_visitante": [
+    "GARCIA FERNANDEZ, ANDER",
+    "MALO DE MOLINA TAIBO, GONZALO",
+    "ABADIN SALOMON, IKER",
+    "ARANAGA SANCHEZ, UNAI",
+    "LONDOÑO LEON, MARLON",
+    "ODRIOZOLA SANCHEZ, JON",
+    "INÉS FERNÁNDEZ, GORKA",
+    "CHAMORRO PEREIRA, GERARD",
+    "MARTINEZ RODRIGUEZ, ANDER",
+    "KRIDA GOMEZ, RAYAN",
+    "MESA LOPEZ, HUGO",
+    "ELORRIAGA ETXENIKE, LUKEN",
+    "FERNÁNDEZ DE PINEDO MUÑOZ, AIMAR",
+    "EXTREMO RUIZ, BEÑAT",
+    "ITURRIZAGA ALONSO, KOLDO",
+    "JAKA ZABALA, JULEN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "ARANBURU BILBAO, AIUR",
+      "sale": "ERQUIAGA DUARTE, ASIER"
+    },
+    {
+      "min": 54,
+      "entra": "ALEGRIA ZABALA, ENEKO",
+      "sale": "ITURRASPE CAMACHO, BEÑAT"
+    },
+    {
+      "min": 54,
+      "entra": "PLAZA ZARRAGOITIA, OIER",
+      "sale": "ZABALA PLAZA, UNAI"
+    },
+    {
+      "min": 62,
+      "entra": "ARRATE ORIBE, UNAX",
+      "sale": "TXOPITEA TOMASZEK, ARITZ"
+    },
+    {
+      "min": 62,
+      "entra": "OSA ETXEBARRIETA, MARTIN",
+      "sale": "ITZA ESPINOSA, LUAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 50,
+      "entra": "ELORRIAGA ETXENIKE, LUKEN",
+      "sale": "LONDOÑO LEON, MARLON"
+    },
+    {
+      "min": 50,
+      "entra": "FERNÁNDEZ DE PINEDO MUÑOZ, AIMAR",
+      "sale": "CHAMORRO PEREIRA, GERARD"
+    },
+    {
+      "min": 56,
+      "entra": "EXTREMO RUIZ, BEÑAT",
+      "sale": "ARANAGA SANCHEZ, UNAI"
+    },
+    {
+      "min": 56,
+      "entra": "ITURRIZAGA ALONSO, KOLDO",
+      "sale": "KRIDA GOMEZ, RAYAN"
+    },
+    {
+      "min": 64,
+      "entra": "JAKA ZABALA, JULEN",
+      "sale": "MALO DE MOLINA TAIBO, GONZALO"
+    }
+  ],
+  "minutos_jugadores": {
+    "LARDI GOROSABEL, TOMAS": 90,
+    "ZABALA PLAZA, UNAI": 54,
+    "ITZA ESPINOSA, LUAR": 62,
+    "ARANDO ARINA, OIHAN": 90,
+    "ALZOLA BERMEJO, IBAI": 90,
+    "HERMIDA ITUARTE, LUKEN": 90,
+    "ERQUIAGA DUARTE, ASIER": 40,
+    "OLABARRIAGA ALDALUR, LIZAR": 90,
+    "ITURRASPE CAMACHO, BEÑAT": 54,
+    "TXOPITEA TOMASZEK, ARITZ": 62,
+    "MIGUELEZ ZILLONIZ, JON": 90,
+    "ARANBURU BILBAO, AIUR": 50,
+    "ALEGRIA ZABALA, ENEKO": 36,
+    "PLAZA ZARRAGOITIA, OIER": 36,
+    "ARRATE ORIBE, UNAX": 28,
+    "OSA ETXEBARRIETA, MARTIN": 28,
+    "GARCIA FERNANDEZ, ANDER": 90,
+    "MALO DE MOLINA TAIBO, GONZALO": 64,
+    "ABADIN SALOMON, IKER": 90,
+    "ARANAGA SANCHEZ, UNAI": 56,
+    "LONDOÑO LEON, MARLON": 50,
+    "ODRIOZOLA SANCHEZ, JON": 90,
+    "INÉS FERNÁNDEZ, GORKA": 90,
+    "CHAMORRO PEREIRA, GERARD": 50,
+    "MARTINEZ RODRIGUEZ, ANDER": 90,
+    "KRIDA GOMEZ, RAYAN": 56,
+    "MESA LOPEZ, HUGO": 90,
+    "ELORRIAGA ETXENIKE, LUKEN": 40,
+    "FERNÁNDEZ DE PINEDO MUÑOZ, AIMAR": 40,
+    "EXTREMO RUIZ, BEÑAT": 34,
+    "ITURRIZAGA ALONSO, KOLDO": 34,
+    "JAKA ZABALA, JULEN": 26
+  },
+  "portero_local": "LARDI GOROSABEL, TOMAS",
+  "portero_visitante": "GARCIA FERNANDEZ, ANDER",
+  "dorsales_local": {
+    "LARDI GOROSABEL, TOMAS": 13,
+    "ZABALA PLAZA, UNAI": 6,
+    "ITZA ESPINOSA, LUAR": 9,
+    "ARANDO ARINA, OIHAN": 10,
+    "ALZOLA BERMEJO, IBAI": 11,
+    "HERMIDA ITUARTE, LUKEN": 12,
+    "ERQUIAGA DUARTE, ASIER": 15,
+    "OLABARRIAGA ALDALUR, LIZAR": 16,
+    "ITURRASPE CAMACHO, BEÑAT": 17,
+    "TXOPITEA TOMASZEK, ARITZ": 18,
+    "MIGUELEZ ZILLONIZ, JON": 19
+  },
+  "dorsales_visitante": {
+    "GARCIA FERNANDEZ, ANDER": 13,
+    "MALO DE MOLINA TAIBO, GONZALO": 4,
+    "ABADIN SALOMON, IKER": 6,
+    "ARANAGA SANCHEZ, UNAI": 8,
+    "LONDOÑO LEON, MARLON": 12,
+    "ODRIOZOLA SANCHEZ, JON": 16,
+    "INÉS FERNÁNDEZ, GORKA": 17,
+    "CHAMORRO PEREIRA, GERARD": 19,
+    "MARTINEZ RODRIGUEZ, ANDER": 21,
+    "KRIDA GOMEZ, RAYAN": 22,
+    "MESA LOPEZ, HUGO": 24
+  },
+  "suspendidos": []
+}
