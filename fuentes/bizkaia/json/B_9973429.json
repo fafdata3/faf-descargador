@@ -1,0 +1,234 @@
+{
+  "acta_id": "B_9973429",
+  "filename": "Acta_B_9973429.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 4,
+  "fecha": "26-10-2025",
+  "hora": "11:30",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 6)",
+  "equipo_local": "ZAMUDIO B",
+  "equipo_visitante": "SONDIKA B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "ALONSO FLÓREZ, JON"
+  ],
+  "estadio": "ERREKALDE",
+  "ciudad": "Zamudio",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "LOPEZ VILLAR, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "PANIAGUA MATEOS, LUKEN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 84,
+      "jugador": "MARTINEZ YARZA, XABIER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 88,
+      "jugador": "DUMITRU, RAFAEL GABRIEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "MEDIAVILLA DONCEL, VICENTE",
+  "entrenador_visitante": "AZCORRA AQUESOLO, AITOR IÑAKI",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "ARGOTE MARTÍNEZ, ASIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "TARANILLA LLAMAS, ALBERTO",
+  "titulares_local": [
+    "PIÑOLE PASTOR, MIKEL",
+    "DE LA PEÑA SANTISTEBAN, ASIER",
+    "PEREZ ESCOBAL, DIEGO",
+    "ANDECHAGA POLO, JON NICOLAS",
+    "MARTINEZ YARZA, XABIER",
+    "ACHA MARISCAL, ALBERTO",
+    "MEDEL GARCIA, ALVARO",
+    "VALLADARES RODRIGUEZ, ANDER",
+    "GREGORIO GIL, ENEKO",
+    "CHEN, YIHANG",
+    "MORERA RUIZ DE APODACA, MARTIN"
+  ],
+  "titulares_visitante": [
+    "MACARILLA OLANO, URTZI",
+    "MANTECA LEKERIKABEASKOA, IBAI",
+    "EGUIA IBARRONDO, JON",
+    "DUMITRU, RAFAEL GABRIEL",
+    "FERNANDEZ VILLAR, ANER",
+    "IBARRONDO ARABIOURRUTIA, AITZOL",
+    "PANIAGUA MATEOS, LUKEN",
+    "REBATE DOMINGUEZ, IBAI",
+    "LOPEZ VILLAR, MIKEL",
+    "AGUIRRE ARCE, ASIER"
+  ],
+  "suplentes_local": [
+    "GOMEZ PARDO, AITOR",
+    "MARTINEZ NICOLAS, MARTIN",
+    "LANDALUCE MENCHACA, OIER",
+    "HERNANDEZ BARCENA, JORGE",
+    "YE, JIAYI",
+    "ARGANDOÑA MENESES, JAVIER ANTONI",
+    "ASKASIBAR CABREJAS, MARKEL"
+  ],
+  "suplentes_visitante": [
+    "ZUBIETA LLORCA, JON",
+    "GARCIA IZA, JON"
+  ],
+  "convocados_sin_jugar_local": [
+    "GOMEZ PARDO, AITOR",
+    "YE, JIAYI"
+  ],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PIÑOLE PASTOR, MIKEL",
+    "DE LA PEÑA SANTISTEBAN, ASIER",
+    "PEREZ ESCOBAL, DIEGO",
+    "ANDECHAGA POLO, JON NICOLAS",
+    "MARTINEZ YARZA, XABIER",
+    "ACHA MARISCAL, ALBERTO",
+    "MEDEL GARCIA, ALVARO",
+    "VALLADARES RODRIGUEZ, ANDER",
+    "GREGORIO GIL, ENEKO",
+    "CHEN, YIHANG",
+    "MORERA RUIZ DE APODACA, MARTIN",
+    "HERNANDEZ BARCENA, JORGE",
+    "ARGANDOÑA MENESES, JAVIER ANTONI",
+    "MARTINEZ NICOLAS, MARTIN",
+    "ASKASIBAR CABREJAS, MARKEL",
+    "LANDALUCE MENCHACA, OIER"
+  ],
+  "jugadores_visitante": [
+    "MACARILLA OLANO, URTZI",
+    "MANTECA LEKERIKABEASKOA, IBAI",
+    "EGUIA IBARRONDO, JON",
+    "DUMITRU, RAFAEL GABRIEL",
+    "FERNANDEZ VILLAR, ANER",
+    "IBARRONDO ARABIOURRUTIA, AITZOL",
+    "PANIAGUA MATEOS, LUKEN",
+    "REBATE DOMINGUEZ, IBAI",
+    "LOPEZ VILLAR, MIKEL",
+    "AGUIRRE ARCE, ASIER",
+    "GARCIA IZA, JON",
+    "ZUBIETA LLORCA, JON"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "HERNANDEZ BARCENA, JORGE",
+      "sale": "MORERA RUIZ DE APODACA, MARTIN"
+    },
+    {
+      "min": 45,
+      "entra": "ARGANDOÑA MENESES, JAVIER ANTONI",
+      "sale": "GREGORIO GIL, ENEKO"
+    },
+    {
+      "min": 45,
+      "entra": "MARTINEZ NICOLAS, MARTIN",
+      "sale": "CHEN, YIHANG"
+    },
+    {
+      "min": 78,
+      "entra": "ASKASIBAR CABREJAS, MARKEL",
+      "sale": "DE LA PEÑA SANTISTEBAN, ASIER"
+    },
+    {
+      "min": 88,
+      "entra": "LANDALUCE MENCHACA, OIER",
+      "sale": "VALLADARES RODRIGUEZ, ANDER"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 55,
+      "entra": "GARCIA IZA, JON",
+      "sale": "IBARRONDO ARABIOURRUTIA, AITZOL"
+    },
+    {
+      "min": 70,
+      "entra": "ZUBIETA LLORCA, JON",
+      "sale": "LOPEZ VILLAR, MIKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "PIÑOLE PASTOR, MIKEL": 90,
+    "DE LA PEÑA SANTISTEBAN, ASIER": 78,
+    "PEREZ ESCOBAL, DIEGO": 90,
+    "ANDECHAGA POLO, JON NICOLAS": 90,
+    "MARTINEZ YARZA, XABIER": 90,
+    "ACHA MARISCAL, ALBERTO": 90,
+    "MEDEL GARCIA, ALVARO": 90,
+    "VALLADARES RODRIGUEZ, ANDER": 88,
+    "GREGORIO GIL, ENEKO": 45,
+    "CHEN, YIHANG": 45,
+    "MORERA RUIZ DE APODACA, MARTIN": 45,
+    "HERNANDEZ BARCENA, JORGE": 45,
+    "ARGANDOÑA MENESES, JAVIER ANTONI": 45,
+    "MARTINEZ NICOLAS, MARTIN": 45,
+    "ASKASIBAR CABREJAS, MARKEL": 12,
+    "LANDALUCE MENCHACA, OIER": 2,
+    "MACARILLA OLANO, URTZI": 90,
+    "MANTECA LEKERIKABEASKOA, IBAI": 90,
+    "EGUIA IBARRONDO, JON": 90,
+    "DUMITRU, RAFAEL GABRIEL": 90,
+    "FERNANDEZ VILLAR, ANER": 90,
+    "IBARRONDO ARABIOURRUTIA, AITZOL": 55,
+    "PANIAGUA MATEOS, LUKEN": 90,
+    "REBATE DOMINGUEZ, IBAI": 90,
+    "LOPEZ VILLAR, MIKEL": 70,
+    "AGUIRRE ARCE, ASIER": 90,
+    "GARCIA IZA, JON": 35,
+    "ZUBIETA LLORCA, JON": 20
+  },
+  "portero_local": "PIÑOLE PASTOR, MIKEL",
+  "portero_visitante": "MACARILLA OLANO, URTZI",
+  "dorsales_local": {
+    "PIÑOLE PASTOR, MIKEL": 13,
+    "DE LA PEÑA SANTISTEBAN, ASIER": 2,
+    "PEREZ ESCOBAL, DIEGO": 7,
+    "ANDECHAGA POLO, JON NICOLAS": 8,
+    "MARTINEZ YARZA, XABIER": 9,
+    "ACHA MARISCAL, ALBERTO": 10,
+    "MEDEL GARCIA, ALVARO": 11,
+    "VALLADARES RODRIGUEZ, ANDER": 15,
+    "GREGORIO GIL, ENEKO": 17,
+    "CHEN, YIHANG": 18,
+    "MORERA RUIZ DE APODACA, MARTIN": 24
+  },
+  "dorsales_visitante": {
+    "MACARILLA OLANO, URTZI": 1,
+    "MANTECA LEKERIKABEASKOA, IBAI": 2,
+    "EGUIA IBARRONDO, JON": 5,
+    "DUMITRU, RAFAEL GABRIEL": 6,
+    "FERNANDEZ VILLAR, ANER": 7,
+    "IBARRONDO ARABIOURRUTIA, AITZOL": 11,
+    "PANIAGUA MATEOS, LUKEN": 14,
+    "REBATE DOMINGUEZ, IBAI": 15,
+    "LOPEZ VILLAR, MIKEL": 16,
+    "AGUIRRE ARCE, ASIER": 17
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
