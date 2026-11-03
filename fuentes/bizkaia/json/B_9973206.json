@@ -1,0 +1,251 @@
+{
+  "acta_id": "B_9973206",
+  "filename": "Acta_B_9973206.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "09-11-2025",
+  "hora": "17:45",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 5)",
+  "equipo_local": "NEGURI",
+  "equipo_visitante": "MSC BUTROE B",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "RAMIRO BABUGLIA (M), IAN"
+  ],
+  "estadio": "BOLUE 3",
+  "ciudad": "Getxo",
+  "goleadores": [
+    {
+      "minuto": 12,
+      "jugador": "SEGOVIA TEJERINA, MIKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 25,
+      "jugador": "OTAOLA SANTOS, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 31,
+      "jugador": "IBEAS ARROBAS, IÑIGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 57,
+      "jugador": "RODRIGUEZ HERNANDEZ, PEIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 78,
+      "jugador": "GIL LEIRO, MATEO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 65,
+      "jugador": "BARTOLOME SARRIA, AITOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 80,
+      "jugador": "ARZADUN ARONDO, LIHER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 20,
+      "jugador": "IBEAS ARROBAS, IÑIGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GUTIERREZ GOMEZ, AITOR TOMAS",
+  "entrenador_visitante": "OLABARRIA URIBESALAZAR, XABIER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GARCIA MACHO, JOSE LUIS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCIA MACHO, JOSE LUIS",
+  "delegado_equipo_visitante": "SOBREVILLA SANTA MARIA, MIKEL",
+  "titulares_local": [
+    "LORENZO GARCIA, ADRIAN",
+    "ARROYO ARRIZABALAGA, LUKEN",
+    "OTAOLA SANTOS, IKER",
+    "HERNANDEZ ARROITAJAUREGUI, IMANOL",
+    "AGUADO MIÑAMBRES, AIMAR",
+    "JOURDAIN RAMOS, YAGO",
+    "GARCIA CARDENAS, HUGO",
+    "MORONDO ORTEGA, UNAI",
+    "ORUETA CORIA, UNAI",
+    "RODRIGUEZ HERNANDEZ, PEIO",
+    "ISASI BILBAO, TOMAS"
+  ],
+  "titulares_visitante": [
+    "OCHOA ELORRIAGA, RICARDO",
+    "SICILIA SANTISTEBAN, DANIEL",
+    "GIL LEIRO, MATEO",
+    "REVUELTA PRIETO, IVAN",
+    "AZAGRA ALQUIZA, LUIS",
+    "MUÑOZ VELAR, JORGE",
+    "RUIZ MOLANO, JON",
+    "VALENCIA MOLINA, NICOLAS",
+    "SEGOVIA TEJERINA, MIKEL",
+    "IBEAS ARROBAS, IÑIGO",
+    "GOICOECHEA JUANES, MARK"
+  ],
+  "suplentes_local": [
+    "PATERNAIN URRUTIA, ENEKO",
+    "CINOS VILLA, MARTIN",
+    "ARZADUN ARONDO, LIHER",
+    "ITURBE IGUAL, UNAI",
+    "VON HEEREN ICAZA, HUBERT PEDRO",
+    "BLAS UCETA, AIMAR",
+    "BARTOLOME SARRIA, AITOR"
+  ],
+  "suplentes_visitante": [
+    "LANDABEREA NEGRETE, JORGE"
+  ],
+  "convocados_sin_jugar_local": [
+    "PATERNAIN URRUTIA, ENEKO",
+    "VON HEEREN ICAZA, HUBERT PEDRO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "LANDABEREA NEGRETE, JORGE"
+  ],
+  "jugadores_local": [
+    "LORENZO GARCIA, ADRIAN",
+    "ARROYO ARRIZABALAGA, LUKEN",
+    "OTAOLA SANTOS, IKER",
+    "HERNANDEZ ARROITAJAUREGUI, IMANOL",
+    "AGUADO MIÑAMBRES, AIMAR",
+    "JOURDAIN RAMOS, YAGO",
+    "GARCIA CARDENAS, HUGO",
+    "MORONDO ORTEGA, UNAI",
+    "ORUETA CORIA, UNAI",
+    "RODRIGUEZ HERNANDEZ, PEIO",
+    "ISASI BILBAO, TOMAS",
+    "BARTOLOME SARRIA, AITOR",
+    "BLAS UCETA, AIMAR",
+    "CINOS VILLA, MARTIN",
+    "ARZADUN ARONDO, LIHER",
+    "ITURBE IGUAL, UNAI"
+  ],
+  "jugadores_visitante": [
+    "OCHOA ELORRIAGA, RICARDO",
+    "SICILIA SANTISTEBAN, DANIEL",
+    "GIL LEIRO, MATEO",
+    "REVUELTA PRIETO, IVAN",
+    "AZAGRA ALQUIZA, LUIS",
+    "MUÑOZ VELAR, JORGE",
+    "RUIZ MOLANO, JON",
+    "VALENCIA MOLINA, NICOLAS",
+    "SEGOVIA TEJERINA, MIKEL",
+    "IBEAS ARROBAS, IÑIGO",
+    "GOICOECHEA JUANES, MARK"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 64,
+      "entra": "BARTOLOME SARRIA, AITOR",
+      "sale": "ISASI BILBAO, TOMAS"
+    },
+    {
+      "min": 64,
+      "entra": "BLAS UCETA, AIMAR",
+      "sale": "RODRIGUEZ HERNANDEZ, PEIO"
+    },
+    {
+      "min": 64,
+      "entra": "CINOS VILLA, MARTIN",
+      "sale": "GARCIA CARDENAS, HUGO"
+    },
+    {
+      "min": 71,
+      "entra": "ARZADUN ARONDO, LIHER",
+      "sale": "OTAOLA SANTOS, IKER"
+    },
+    {
+      "min": 78,
+      "entra": "ITURBE IGUAL, UNAI",
+      "sale": "LORENZO GARCIA, ADRIAN"
+    }
+  ],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "LORENZO GARCIA, ADRIAN": 78,
+    "ARROYO ARRIZABALAGA, LUKEN": 90,
+    "OTAOLA SANTOS, IKER": 71,
+    "HERNANDEZ ARROITAJAUREGUI, IMANOL": 90,
+    "AGUADO MIÑAMBRES, AIMAR": 90,
+    "JOURDAIN RAMOS, YAGO": 90,
+    "GARCIA CARDENAS, HUGO": 64,
+    "MORONDO ORTEGA, UNAI": 90,
+    "ORUETA CORIA, UNAI": 90,
+    "RODRIGUEZ HERNANDEZ, PEIO": 64,
+    "ISASI BILBAO, TOMAS": 64,
+    "BARTOLOME SARRIA, AITOR": 26,
+    "BLAS UCETA, AIMAR": 26,
+    "CINOS VILLA, MARTIN": 26,
+    "ARZADUN ARONDO, LIHER": 19,
+    "ITURBE IGUAL, UNAI": 12,
+    "OCHOA ELORRIAGA, RICARDO": 90,
+    "SICILIA SANTISTEBAN, DANIEL": 90,
+    "GIL LEIRO, MATEO": 90,
+    "REVUELTA PRIETO, IVAN": 90,
+    "AZAGRA ALQUIZA, LUIS": 90,
+    "MUÑOZ VELAR, JORGE": 90,
+    "RUIZ MOLANO, JON": 90,
+    "VALENCIA MOLINA, NICOLAS": 90,
+    "SEGOVIA TEJERINA, MIKEL": 90,
+    "IBEAS ARROBAS, IÑIGO": 90,
+    "GOICOECHEA JUANES, MARK": 90
+  },
+  "portero_local": "LORENZO GARCIA, ADRIAN",
+  "portero_visitante": "OCHOA ELORRIAGA, RICARDO",
+  "dorsales_local": {
+    "LORENZO GARCIA, ADRIAN": 13,
+    "ARROYO ARRIZABALAGA, LUKEN": 2,
+    "OTAOLA SANTOS, IKER": 5,
+    "HERNANDEZ ARROITAJAUREGUI, IMANOL": 6,
+    "AGUADO MIÑAMBRES, AIMAR": 7,
+    "JOURDAIN RAMOS, YAGO": 8,
+    "GARCIA CARDENAS, HUGO": 9,
+    "MORONDO ORTEGA, UNAI": 11,
+    "ORUETA CORIA, UNAI": 12,
+    "RODRIGUEZ HERNANDEZ, PEIO": 17,
+    "ISASI BILBAO, TOMAS": 18
+  },
+  "dorsales_visitante": {
+    "OCHOA ELORRIAGA, RICARDO": 1,
+    "SICILIA SANTISTEBAN, DANIEL": 2,
+    "GIL LEIRO, MATEO": 4,
+    "REVUELTA PRIETO, IVAN": 7,
+    "AZAGRA ALQUIZA, LUIS": 10,
+    "MUÑOZ VELAR, JORGE": 11,
+    "RUIZ MOLANO, JON": 15,
+    "VALENCIA MOLINA, NICOLAS": 17,
+    "SEGOVIA TEJERINA, MIKEL": 18,
+    "IBEAS ARROBAS, IÑIGO": 19,
+    "GOICOECHEA JUANES, MARK": 24
+  },
+  "suspendidos": []
+}
