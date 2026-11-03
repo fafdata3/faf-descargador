@@ -1,0 +1,282 @@
+{
+  "acta_id": "B_9973211",
+  "filename": "Acta_B_9973211.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 7,
+  "fecha": "15-11-2025",
+  "hora": "11:30",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 5)",
+  "equipo_local": "GAZTELUETA B",
+  "equipo_visitante": "BERANGO",
+  "goles_local": 2,
+  "goles_visitante": 4,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "IRIONDO LECUE, ÁLVARO"
+  ],
+  "estadio": "GAZTELUETA",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "ALEGRE BEZARES, MARKEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "MARTINEZ SIERRA, XIKER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "DE ANDRES HERNANDEZ, RAMON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "IPARAGUIRRE ARAYA, JAVIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 65,
+      "jugador": "DE ANDRES HERNANDEZ, RAMON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "RIOJA MARTIN, BRUNO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": true
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 74,
+      "jugador": "RUIZ ORTUZAR, AITOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "ABAD INSAUSTI, IGNACIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 83,
+      "jugador": "EZPELETA ALVAREZ, NICOLAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GARCÍA ALONSO, PABLO IGNACIO",
+  "entrenador_visitante": "SAN JOSE DOMINGUEZ, MIKEL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "DE BARRON CANSINO, PABLO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "DE BARRON CANSINO, PABLO",
+  "delegado_equipo_visitante": "MONCAYOLA CIRIZA, AITOR",
+  "titulares_local": [
+    "YERMO ARTIACH, JOSE",
+    "ALVAREZ CAMARA, ALEJO",
+    "AGUIRRE BONTIGUI, SANTIAGO",
+    "IRIBARREN YBARRA, JUAN",
+    "INFANTE LOPEZ, JUAN",
+    "LOPEZ SANZ, JULEN",
+    "DEL RIO DE LECEA, ELIAS",
+    "LECANDA LORENZO, MARTIN",
+    "DE ANDRES HERNANDEZ, RAMON",
+    "AZQUETA DE MEÑACA, JAIME",
+    "PLAZA SIERRA, JORGE"
+  ],
+  "titulares_visitante": [
+    "CABANAS REVILLA, UNAX",
+    "VERDURAS SCHAEIDT, IBON",
+    "UGARTE SANCHEZ, LIHER",
+    "ALEGRE BEZARES, MARKEL",
+    "ABAD INSAUSTI, IGNACIO",
+    "LUNA LUGARIZARESTI, GAIZKA",
+    "RANERO BLANCA, IGOR",
+    "ALONSO ARANGUREN, ARITZ",
+    "LOPEZ MATA, MARTIN",
+    "MARTINEZ SIERRA, XIKER",
+    "PEREZ GONZALEZ, SIRO"
+  ],
+  "suplentes_local": [
+    "MARTÍNEZ ECHEVARRÍA, PEDRO",
+    "VIDONDO ANGULO, PABLO",
+    "ECHEVARRIA DENIZ, IGNACIO",
+    "RUIZ ORTUZAR, AITOR"
+  ],
+  "suplentes_visitante": [
+    "IPARAGUIRRE ARAYA, JAVIER",
+    "RIOJA MARTIN, BRUNO",
+    "ARRIETA PARDO, PABLO",
+    "EZPELETA ALVAREZ, NICOLAS",
+    "PEREZ GONZALEZ, XABIER",
+    "NUHU DJANGERU, IDDIRISU"
+  ],
+  "convocados_sin_jugar_local": [
+    "MARTÍNEZ ECHEVARRÍA, PEDRO"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PEREZ GONZALEZ, XABIER"
+  ],
+  "jugadores_local": [
+    "YERMO ARTIACH, JOSE",
+    "ALVAREZ CAMARA, ALEJO",
+    "AGUIRRE BONTIGUI, SANTIAGO",
+    "IRIBARREN YBARRA, JUAN",
+    "INFANTE LOPEZ, JUAN",
+    "LOPEZ SANZ, JULEN",
+    "DEL RIO DE LECEA, ELIAS",
+    "LECANDA LORENZO, MARTIN",
+    "DE ANDRES HERNANDEZ, RAMON",
+    "AZQUETA DE MEÑACA, JAIME",
+    "PLAZA SIERRA, JORGE",
+    "VIDONDO ANGULO, PABLO",
+    "ECHEVARRIA DENIZ, IGNACIO",
+    "RUIZ ORTUZAR, AITOR"
+  ],
+  "jugadores_visitante": [
+    "CABANAS REVILLA, UNAX",
+    "VERDURAS SCHAEIDT, IBON",
+    "UGARTE SANCHEZ, LIHER",
+    "ALEGRE BEZARES, MARKEL",
+    "ABAD INSAUSTI, IGNACIO",
+    "LUNA LUGARIZARESTI, GAIZKA",
+    "RANERO BLANCA, IGOR",
+    "ALONSO ARANGUREN, ARITZ",
+    "LOPEZ MATA, MARTIN",
+    "MARTINEZ SIERRA, XIKER",
+    "PEREZ GONZALEZ, SIRO",
+    "IPARAGUIRRE ARAYA, JAVIER",
+    "RIOJA MARTIN, BRUNO",
+    "EZPELETA ALVAREZ, NICOLAS",
+    "NUHU DJANGERU, IDDIRISU",
+    "ARRIETA PARDO, PABLO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 45,
+      "entra": "VIDONDO ANGULO, PABLO",
+      "sale": "AZQUETA DE MEÑACA, JAIME"
+    },
+    {
+      "min": 45,
+      "entra": "ECHEVARRIA DENIZ, IGNACIO",
+      "sale": "INFANTE LOPEZ, JUAN"
+    },
+    {
+      "min": 62,
+      "entra": "RUIZ ORTUZAR, AITOR",
+      "sale": "ALVAREZ CAMARA, ALEJO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "IPARAGUIRRE ARAYA, JAVIER",
+      "sale": "PEREZ GONZALEZ, SIRO"
+    },
+    {
+      "min": 66,
+      "entra": "RIOJA MARTIN, BRUNO",
+      "sale": "RANERO BLANCA, IGOR"
+    },
+    {
+      "min": 66,
+      "entra": "EZPELETA ALVAREZ, NICOLAS",
+      "sale": "LUNA LUGARIZARESTI, GAIZKA"
+    },
+    {
+      "min": 66,
+      "entra": "NUHU DJANGERU, IDDIRISU",
+      "sale": "ALEGRE BEZARES, MARKEL"
+    },
+    {
+      "min": 76,
+      "entra": "ARRIETA PARDO, PABLO",
+      "sale": "MARTINEZ SIERRA, XIKER"
+    }
+  ],
+  "minutos_jugadores": {
+    "YERMO ARTIACH, JOSE": 90,
+    "ALVAREZ CAMARA, ALEJO": 62,
+    "AGUIRRE BONTIGUI, SANTIAGO": 90,
+    "IRIBARREN YBARRA, JUAN": 90,
+    "INFANTE LOPEZ, JUAN": 45,
+    "LOPEZ SANZ, JULEN": 90,
+    "DEL RIO DE LECEA, ELIAS": 90,
+    "LECANDA LORENZO, MARTIN": 90,
+    "DE ANDRES HERNANDEZ, RAMON": 90,
+    "AZQUETA DE MEÑACA, JAIME": 45,
+    "PLAZA SIERRA, JORGE": 90,
+    "VIDONDO ANGULO, PABLO": 45,
+    "ECHEVARRIA DENIZ, IGNACIO": 45,
+    "RUIZ ORTUZAR, AITOR": 28,
+    "CABANAS REVILLA, UNAX": 90,
+    "VERDURAS SCHAEIDT, IBON": 90,
+    "UGARTE SANCHEZ, LIHER": 90,
+    "ALEGRE BEZARES, MARKEL": 66,
+    "ABAD INSAUSTI, IGNACIO": 90,
+    "LUNA LUGARIZARESTI, GAIZKA": 66,
+    "RANERO BLANCA, IGOR": 66,
+    "ALONSO ARANGUREN, ARITZ": 90,
+    "LOPEZ MATA, MARTIN": 90,
+    "MARTINEZ SIERRA, XIKER": 76,
+    "PEREZ GONZALEZ, SIRO": 56,
+    "IPARAGUIRRE ARAYA, JAVIER": 34,
+    "RIOJA MARTIN, BRUNO": 24,
+    "EZPELETA ALVAREZ, NICOLAS": 24,
+    "NUHU DJANGERU, IDDIRISU": 24,
+    "ARRIETA PARDO, PABLO": 14
+  },
+  "portero_local": "YERMO ARTIACH, JOSE",
+  "portero_visitante": "CABANAS REVILLA, UNAX",
+  "dorsales_local": {
+    "YERMO ARTIACH, JOSE": 1,
+    "ALVAREZ CAMARA, ALEJO": 2,
+    "AGUIRRE BONTIGUI, SANTIAGO": 3,
+    "IRIBARREN YBARRA, JUAN": 4,
+    "INFANTE LOPEZ, JUAN": 6,
+    "LOPEZ SANZ, JULEN": 7,
+    "DEL RIO DE LECEA, ELIAS": 11,
+    "LECANDA LORENZO, MARTIN": 17,
+    "DE ANDRES HERNANDEZ, RAMON": 19,
+    "AZQUETA DE MEÑACA, JAIME": 22,
+    "PLAZA SIERRA, JORGE": 24
+  },
+  "dorsales_visitante": {
+    "CABANAS REVILLA, UNAX": 1,
+    "VERDURAS SCHAEIDT, IBON": 2,
+    "UGARTE SANCHEZ, LIHER": 3,
+    "ALEGRE BEZARES, MARKEL": 8,
+    "ABAD INSAUSTI, IGNACIO": 10,
+    "LUNA LUGARIZARESTI, GAIZKA": 11,
+    "RANERO BLANCA, IGOR": 12,
+    "ALONSO ARANGUREN, ARITZ": 14,
+    "LOPEZ MATA, MARTIN": 17,
+    "MARTINEZ SIERRA, XIKER": 21,
+    "PEREZ GONZALEZ, SIRO": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
