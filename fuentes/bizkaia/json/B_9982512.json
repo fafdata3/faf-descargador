@@ -1,0 +1,260 @@
+{
+  "acta_id": "B_9982512",
+  "filename": "Acta_B_9982512.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 23,
+  "fecha": "14-03-2026",
+  "hora": "13:00",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "ERMUA BLUES A",
+  "equipo_visitante": "LEKEITIO A",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "VILLAMAYOR AMADO, IKER"
+  ],
+  "estadio": "BETIONDO",
+  "ciudad": "Ermua",
+  "goleadores": [
+    {
+      "minuto": 19,
+      "jugador": "TREVIÑO VEGA, MIKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 39,
+      "jugador": "TXOPITEA PAGAEGI, LIZAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 56,
+      "jugador": "MANERO ZAFRA, DANEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 60,
+      "jugador": "DIATTA DIATTA, OULYA-SANDIA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "DIATTA DIATTA, OULYA-SANDIA",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 7,
+      "jugador": "ORUETA GONZALEZ, MANEX",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 26,
+      "jugador": "SELLAH KARALI, AYOUB",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "BARQUERO SIERRA, JOSE",
+  "entrenador_visitante": "URBANO LANDABASO, IMANOL",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "CABERO MATILLA, LUCAS",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CID GONZALEZ, ABEL",
+  "delegado_equipo_visitante": "ORIBE POBLACION, UNAI",
+  "titulares_local": [
+    "FERNANDEZ CORTIJO, ANER",
+    "GOMEZ BABARRO, JOEL",
+    "SOLOZABAL ARAUJO, MARKEL",
+    "ORUETA GONZALEZ, MANEX",
+    "CARNERO VIEIRA, ALAIN",
+    "SELLAH KARALI, AYOUB",
+    "VILLAR GOMEZ, OINATZ",
+    "AZCUNE RUIZ DE EGUINO, XIKER",
+    "ALVEAR CORDOBA, ESTEBAN",
+    "TREVIÑO VEGA, MIKEL",
+    "ALBERDI ETXABE, ANER"
+  ],
+  "titulares_visitante": [
+    "GABIOLA ZABALETA, LANTZ",
+    "ZABALETA UGARTEBURU, URKO",
+    "ARANBERRI CASTORENE, UNAI",
+    "BALENCIAGA FERNANDEZ, DANEL",
+    "GOITIA EIZAGIRRE, DANEL",
+    "BEASKOETXEA ITURAT, IZEI",
+    "TXOPITEA PAGAEGI, LIZAR",
+    "DIATTA DIATTA, OULYA-SANDIA",
+    "ORIBE IRIGOIEN, EKAIN",
+    "CABRERA ROLON, EDWARD FRANCISCO",
+    "DIAZ IKARAN, UNAX"
+  ],
+  "suplentes_local": [
+    "AKSSASS NACIRI, NAOFAL",
+    "MANERO ZAFRA, DANEL",
+    "BEN DRISS OURDI, ANAS",
+    "KHOUKH EL AZZAB, HARON"
+  ],
+  "suplentes_visitante": [
+    "BARAINKA BARAINKA, IKER",
+    "ANAKABE SOLAUN, LANDER",
+    "EGIA BUA, ENAITZ",
+    "ARRASATE ECHEBARRIA, URKO",
+    "SULA PAULLAN, JHOSTYN JESUS"
+  ],
+  "convocados_sin_jugar_local": [
+    "KHOUKH EL AZZAB, HARON"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "BARAINKA BARAINKA, IKER"
+  ],
+  "jugadores_local": [
+    "FERNANDEZ CORTIJO, ANER",
+    "GOMEZ BABARRO, JOEL",
+    "SOLOZABAL ARAUJO, MARKEL",
+    "ORUETA GONZALEZ, MANEX",
+    "CARNERO VIEIRA, ALAIN",
+    "SELLAH KARALI, AYOUB",
+    "VILLAR GOMEZ, OINATZ",
+    "AZCUNE RUIZ DE EGUINO, XIKER",
+    "ALVEAR CORDOBA, ESTEBAN",
+    "TREVIÑO VEGA, MIKEL",
+    "ALBERDI ETXABE, ANER",
+    "MANERO ZAFRA, DANEL",
+    "BEN DRISS OURDI, ANAS",
+    "AKSSASS NACIRI, NAOFAL"
+  ],
+  "jugadores_visitante": [
+    "GABIOLA ZABALETA, LANTZ",
+    "ZABALETA UGARTEBURU, URKO",
+    "ARANBERRI CASTORENE, UNAI",
+    "BALENCIAGA FERNANDEZ, DANEL",
+    "GOITIA EIZAGIRRE, DANEL",
+    "BEASKOETXEA ITURAT, IZEI",
+    "TXOPITEA PAGAEGI, LIZAR",
+    "DIATTA DIATTA, OULYA-SANDIA",
+    "ORIBE IRIGOIEN, EKAIN",
+    "CABRERA ROLON, EDWARD FRANCISCO",
+    "DIAZ IKARAN, UNAX",
+    "ANAKABE SOLAUN, LANDER",
+    "ARRASATE ECHEBARRIA, URKO",
+    "EGIA BUA, ENAITZ",
+    "SULA PAULLAN, JHOSTYN JESUS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "MANERO ZAFRA, DANEL",
+      "sale": "CARNERO VIEIRA, ALAIN"
+    },
+    {
+      "min": 55,
+      "entra": "BEN DRISS OURDI, ANAS",
+      "sale": "ORUETA GONZALEZ, MANEX"
+    },
+    {
+      "min": 66,
+      "entra": "AKSSASS NACIRI, NAOFAL",
+      "sale": "VILLAR GOMEZ, OINATZ"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 56,
+      "entra": "ANAKABE SOLAUN, LANDER",
+      "sale": "ZABALETA UGARTEBURU, URKO"
+    },
+    {
+      "min": 56,
+      "entra": "ARRASATE ECHEBARRIA, URKO",
+      "sale": "TXOPITEA PAGAEGI, LIZAR"
+    },
+    {
+      "min": 73,
+      "entra": "EGIA BUA, ENAITZ",
+      "sale": "GOITIA EIZAGIRRE, DANEL"
+    },
+    {
+      "min": 73,
+      "entra": "SULA PAULLAN, JHOSTYN JESUS",
+      "sale": "ARANBERRI CASTORENE, UNAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "FERNANDEZ CORTIJO, ANER": 90,
+    "GOMEZ BABARRO, JOEL": 90,
+    "SOLOZABAL ARAUJO, MARKEL": 90,
+    "ORUETA GONZALEZ, MANEX": 55,
+    "CARNERO VIEIRA, ALAIN": 40,
+    "SELLAH KARALI, AYOUB": 90,
+    "VILLAR GOMEZ, OINATZ": 66,
+    "AZCUNE RUIZ DE EGUINO, XIKER": 90,
+    "ALVEAR CORDOBA, ESTEBAN": 90,
+    "TREVIÑO VEGA, MIKEL": 90,
+    "ALBERDI ETXABE, ANER": 90,
+    "MANERO ZAFRA, DANEL": 50,
+    "BEN DRISS OURDI, ANAS": 35,
+    "AKSSASS NACIRI, NAOFAL": 24,
+    "GABIOLA ZABALETA, LANTZ": 90,
+    "ZABALETA UGARTEBURU, URKO": 56,
+    "ARANBERRI CASTORENE, UNAI": 73,
+    "BALENCIAGA FERNANDEZ, DANEL": 90,
+    "GOITIA EIZAGIRRE, DANEL": 73,
+    "BEASKOETXEA ITURAT, IZEI": 90,
+    "TXOPITEA PAGAEGI, LIZAR": 56,
+    "DIATTA DIATTA, OULYA-SANDIA": 90,
+    "ORIBE IRIGOIEN, EKAIN": 90,
+    "CABRERA ROLON, EDWARD FRANCISCO": 90,
+    "DIAZ IKARAN, UNAX": 90,
+    "ANAKABE SOLAUN, LANDER": 34,
+    "ARRASATE ECHEBARRIA, URKO": 34,
+    "EGIA BUA, ENAITZ": 17,
+    "SULA PAULLAN, JHOSTYN JESUS": 17
+  },
+  "portero_local": "FERNANDEZ CORTIJO, ANER",
+  "portero_visitante": "GABIOLA ZABALETA, LANTZ",
+  "dorsales_local": {
+    "FERNANDEZ CORTIJO, ANER": 1,
+    "GOMEZ BABARRO, JOEL": 2,
+    "SOLOZABAL ARAUJO, MARKEL": 4,
+    "ORUETA GONZALEZ, MANEX": 6,
+    "CARNERO VIEIRA, ALAIN": 10,
+    "SELLAH KARALI, AYOUB": 11,
+    "VILLAR GOMEZ, OINATZ": 12,
+    "AZCUNE RUIZ DE EGUINO, XIKER": 16,
+    "ALVEAR CORDOBA, ESTEBAN": 19,
+    "TREVIÑO VEGA, MIKEL": 22,
+    "ALBERDI ETXABE, ANER": 25
+  },
+  "dorsales_visitante": {
+    "GABIOLA ZABALETA, LANTZ": 1,
+    "ZABALETA UGARTEBURU, URKO": 2,
+    "ARANBERRI CASTORENE, UNAI": 3,
+    "BALENCIAGA FERNANDEZ, DANEL": 4,
+    "GOITIA EIZAGIRRE, DANEL": 5,
+    "BEASKOETXEA ITURAT, IZEI": 7,
+    "TXOPITEA PAGAEGI, LIZAR": 8,
+    "DIATTA DIATTA, OULYA-SANDIA": 9,
+    "ORIBE IRIGOIEN, EKAIN": 10,
+    "CABRERA ROLON, EDWARD FRANCISCO": 11,
+    "DIAZ IKARAN, UNAX": 15
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
