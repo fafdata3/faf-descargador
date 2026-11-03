@@ -1,0 +1,349 @@
+{
+  "acta_id": "B_9981352",
+  "filename": "Acta_B_9981352.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 23,
+  "fecha": "14-03-2026",
+  "hora": "13:18",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 1)",
+  "equipo_local": "BIZKERRE",
+  "equipo_visitante": "LEIOA C",
+  "goles_local": 5,
+  "goles_visitante": 4,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "GUTIERREZ MARTINEZ, IKER"
+  ],
+  "estadio": "BOLUE 1",
+  "ciudad": "Getxo",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "PERALLOS URUEÑA, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 3,
+      "jugador": "BOMBIN LLANOS, AINGERU",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 13,
+      "jugador": "LAISECA LOPEZ, MARTIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 26,
+      "jugador": "ETXEBARRIETA MERINO, EKAIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "MENDIA SUAREZ, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 57,
+      "jugador": "MENDIA SUAREZ, MARIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 67,
+      "jugador": "OBREGON CUEVA, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "BARRENECHEA PEREA, JON",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 79,
+      "jugador": "ANTIZA ARRANZ, GALDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 14,
+      "jugador": "ETXEBARRIETA MERINO, EKAIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 27,
+      "jugador": "MINTEGI FELIX, ANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 57,
+      "jugador": "VELASCO ARTAZA, PERU",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "ARGOITIA MENDIZABAL, XABI",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 18,
+      "jugador": "CASADO CARMONA, IVÁN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "MINGO LECUE, ALAIN",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 69,
+      "jugador": "ORELLANA YARZA, MARKEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALCORTA MARTINEZ, OSCAR",
+  "entrenador_visitante": "MORAL ARES, GORKA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MINTEGI FELIX, ANDER",
+  "delegado_equipo_visitante": "BARRENECHEA PEREA, ASIER",
+  "titulares_local": [
+    "PEREZ LANDAJO, UNAI",
+    "GONZALEZ GONZALEZ, LEO",
+    "SAGASTI SANTAMARIA, OIER",
+    "LAISECA LOPEZ, MARTIN",
+    "ARGOITIA MENDIZABAL, XABI",
+    "PÉREZ DE ANUCITA FUERTES, PEIO",
+    "ANGULO DELGADO, IKER",
+    "ETXEBARRIETA MERINO, EKAIN",
+    "LAUZIRIKA LASA, AMETZ",
+    "ELIZONDO GUESALAGA, PERU",
+    "PALOMINO TORRES, XABI"
+  ],
+  "titulares_visitante": [
+    "GALACHE DIEZ, ANDER",
+    "BARRENECHEA PEREA, JON",
+    "ALONSO FERNANDEZ, MARKEL",
+    "DELVAL GONZALEZ, IÑIGO",
+    "SAN MARTIN INTXAUSTI, ANDER",
+    "MINGO LECUE, ALAIN",
+    "LEONARDO ETXEBESTE, JULEN",
+    "PERALLOS URUEÑA, OIER",
+    "CASADO CARMONA, IVÁN",
+    "MARTINEZ HORTELANO, IZEI",
+    "BOMBIN LLANOS, AINGERU"
+  ],
+  "suplentes_local": [
+    "ALDAITURRIAGA BAYON, ARATZ",
+    "ITURREGUI GOMEZ, LUCA",
+    "OBREGON CUEVA, JON",
+    "VELASCO ARTAZA, PERU",
+    "MENDIA SUAREZ, MARIO",
+    "ALVEREZ ROMO, GORKA",
+    "SARACHO GARCIA, ENDIKA"
+  ],
+  "suplentes_visitante": [
+    "CASTRILLO MATEO, IBON",
+    "GARCIA CUEVAS, EDER",
+    "ESPIGA BAÑARES, ADRIAN",
+    "ANTIZA ARRANZ, GALDER",
+    "ORELLANA YARZA, MARKEL",
+    "NEGRETE PIZARRO, PABLO"
+  ],
+  "convocados_sin_jugar_local": [
+    "ALDAITURRIAGA BAYON, ARATZ",
+    "ITURREGUI GOMEZ, LUCA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "NEGRETE PIZARRO, PABLO"
+  ],
+  "jugadores_local": [
+    "PEREZ LANDAJO, UNAI",
+    "GONZALEZ GONZALEZ, LEO",
+    "SAGASTI SANTAMARIA, OIER",
+    "LAISECA LOPEZ, MARTIN",
+    "ARGOITIA MENDIZABAL, XABI",
+    "PÉREZ DE ANUCITA FUERTES, PEIO",
+    "ANGULO DELGADO, IKER",
+    "ETXEBARRIETA MERINO, EKAIN",
+    "LAUZIRIKA LASA, AMETZ",
+    "ELIZONDO GUESALAGA, PERU",
+    "PALOMINO TORRES, XABI",
+    "OBREGON CUEVA, JON",
+    "VELASCO ARTAZA, PERU",
+    "MENDIA SUAREZ, MARIO",
+    "SARACHO GARCIA, ENDIKA",
+    "ALVEREZ ROMO, GORKA"
+  ],
+  "jugadores_visitante": [
+    "GALACHE DIEZ, ANDER",
+    "BARRENECHEA PEREA, JON",
+    "ALONSO FERNANDEZ, MARKEL",
+    "DELVAL GONZALEZ, IÑIGO",
+    "SAN MARTIN INTXAUSTI, ANDER",
+    "MINGO LECUE, ALAIN",
+    "LEONARDO ETXEBESTE, JULEN",
+    "PERALLOS URUEÑA, OIER",
+    "CASADO CARMONA, IVÁN",
+    "MARTINEZ HORTELANO, IZEI",
+    "BOMBIN LLANOS, AINGERU",
+    "GARCIA CUEVAS, EDER",
+    "ANTIZA ARRANZ, GALDER",
+    "CASTRILLO MATEO, IBON",
+    "ORELLANA YARZA, MARKEL",
+    "ESPIGA BAÑARES, ADRIAN"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "OBREGON CUEVA, JON",
+      "sale": "ELIZONDO GUESALAGA, PERU"
+    },
+    {
+      "min": 41,
+      "entra": "VELASCO ARTAZA, PERU",
+      "sale": "SAGASTI SANTAMARIA, OIER"
+    },
+    {
+      "min": 41,
+      "entra": "MENDIA SUAREZ, MARIO",
+      "sale": "ETXEBARRIETA MERINO, EKAIN"
+    },
+    {
+      "min": 64,
+      "entra": "SARACHO GARCIA, ENDIKA",
+      "sale": "PÉREZ DE ANUCITA FUERTES, PEIO"
+    },
+    {
+      "min": 67,
+      "entra": "ALVEREZ ROMO, GORKA",
+      "sale": "GONZALEZ GONZALEZ, LEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 58,
+      "entra": "GARCIA CUEVAS, EDER",
+      "sale": "BOMBIN LLANOS, AINGERU"
+    },
+    {
+      "min": 58,
+      "entra": "ANTIZA ARRANZ, GALDER",
+      "sale": "CASADO CARMONA, IVÁN"
+    },
+    {
+      "min": 58,
+      "entra": "CASTRILLO MATEO, IBON",
+      "sale": "ALONSO FERNANDEZ, MARKEL"
+    },
+    {
+      "min": 66,
+      "entra": "ORELLANA YARZA, MARKEL",
+      "sale": "DELVAL GONZALEZ, IÑIGO"
+    },
+    {
+      "min": 66,
+      "entra": "ESPIGA BAÑARES, ADRIAN",
+      "sale": "LEONARDO ETXEBESTE, JULEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEREZ LANDAJO, UNAI": 90,
+    "GONZALEZ GONZALEZ, LEO": 67,
+    "SAGASTI SANTAMARIA, OIER": 41,
+    "LAISECA LOPEZ, MARTIN": 90,
+    "ARGOITIA MENDIZABAL, XABI": 90,
+    "PÉREZ DE ANUCITA FUERTES, PEIO": 64,
+    "ANGULO DELGADO, IKER": 90,
+    "ETXEBARRIETA MERINO, EKAIN": 41,
+    "LAUZIRIKA LASA, AMETZ": 90,
+    "ELIZONDO GUESALAGA, PERU": 41,
+    "PALOMINO TORRES, XABI": 90,
+    "OBREGON CUEVA, JON": 49,
+    "VELASCO ARTAZA, PERU": 49,
+    "MENDIA SUAREZ, MARIO": 49,
+    "SARACHO GARCIA, ENDIKA": 26,
+    "ALVEREZ ROMO, GORKA": 23,
+    "GALACHE DIEZ, ANDER": 90,
+    "BARRENECHEA PEREA, JON": 90,
+    "ALONSO FERNANDEZ, MARKEL": 58,
+    "DELVAL GONZALEZ, IÑIGO": 66,
+    "SAN MARTIN INTXAUSTI, ANDER": 90,
+    "MINGO LECUE, ALAIN": 90,
+    "LEONARDO ETXEBESTE, JULEN": 66,
+    "PERALLOS URUEÑA, OIER": 90,
+    "CASADO CARMONA, IVÁN": 58,
+    "MARTINEZ HORTELANO, IZEI": 90,
+    "BOMBIN LLANOS, AINGERU": 58,
+    "GARCIA CUEVAS, EDER": 32,
+    "ANTIZA ARRANZ, GALDER": 32,
+    "CASTRILLO MATEO, IBON": 32,
+    "ORELLANA YARZA, MARKEL": 24,
+    "ESPIGA BAÑARES, ADRIAN": 24
+  },
+  "portero_local": "PEREZ LANDAJO, UNAI",
+  "portero_visitante": "GALACHE DIEZ, ANDER",
+  "dorsales_local": {
+    "PEREZ LANDAJO, UNAI": 1,
+    "GONZALEZ GONZALEZ, LEO": 2,
+    "SAGASTI SANTAMARIA, OIER": 3,
+    "LAISECA LOPEZ, MARTIN": 4,
+    "ARGOITIA MENDIZABAL, XABI": 5,
+    "PÉREZ DE ANUCITA FUERTES, PEIO": 7,
+    "ANGULO DELGADO, IKER": 10,
+    "ETXEBARRIETA MERINO, EKAIN": 11,
+    "LAUZIRIKA LASA, AMETZ": 12,
+    "ELIZONDO GUESALAGA, PERU": 14,
+    "PALOMINO TORRES, XABI": 21
+  },
+  "dorsales_visitante": {
+    "GALACHE DIEZ, ANDER": 1,
+    "BARRENECHEA PEREA, JON": 2,
+    "ALONSO FERNANDEZ, MARKEL": 3,
+    "DELVAL GONZALEZ, IÑIGO": 4,
+    "SAN MARTIN INTXAUSTI, ANDER": 5,
+    "MINGO LECUE, ALAIN": 6,
+    "LEONARDO ETXEBESTE, JULEN": 8,
+    "PERALLOS URUEÑA, OIER": 12,
+    "CASADO CARMONA, IVÁN": 14,
+    "MARTINEZ HORTELANO, IZEI": 18,
+    "BOMBIN LLANOS, AINGERU": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
