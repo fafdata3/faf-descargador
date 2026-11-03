@@ -1,0 +1,244 @@
+{
+  "acta_id": "B_10061834",
+  "filename": "Acta_B_10061834.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "25-10-2026",
+  "hora": "17:15",
+  "categoria": "PREFERENTE PC / LEHENTASUNEZKO MAILA (GRUPO 2)",
+  "equipo_local": "DERIO A",
+  "equipo_visitante": "ETXEBARRI A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "VIRUMBRALES SARACHAGA, IOSU"
+  ],
+  "estadio": "IBAIONDO-DERIO",
+  "ciudad": "Derio",
+  "goleadores": [
+    {
+      "minuto": 68,
+      "jugador": "PEREZ ROCA, ANDER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 73,
+      "jugador": "ARRATE FLORES, ENEKO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 20,
+      "jugador": "GARCIA ASENSIO, LANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 18,
+      "jugador": "ARCEGA AGUIRREGABIRIA, GAIZKA",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    },
+    {
+      "minuto": 18,
+      "jugador": "ARCEGA AGUIRREGABIRIA, GAIZKA",
+      "equipo": "visitante",
+      "tipo": "doble_amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": "TRESPALACIOS JORGE, GONZALO",
+  "entrenador_visitante": "ARCEGA AGUIRREGABIRIA, GAIZKA",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARIN SOMOVILLA, IGOR",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARIN SOMOVILLA, IGOR",
+  "delegado_equipo_visitante": "GUTIERREZ GONZALEZ, JON",
+  "titulares_local": [
+    "GALACHE DIEZ, ANDER",
+    "CALLE DIAZ, IKER",
+    "RODRIGO ADAN, GALDER",
+    "BAUTISTA MENDEZ, OIER",
+    "ARRATE FLORES, ENEKO",
+    "SEGURA BASTERRETXEA, NATHAN",
+    "CUETO VILLARROEL, MAURICIO DAVID",
+    "COBAS BLANCO, ANER",
+    "GARCIA ASENSIO, LANDER",
+    "ALFREDO, TONY WEZA RAFAEL",
+    "ARBERAS ALFONSO, MARKEL"
+  ],
+  "titulares_visitante": [
+    "MOSQUERA CORTES, EKAITZ",
+    "MURUA SERNA, JULEN",
+    "ARTOLA BROCH, UNAI",
+    "PEREZ ROCA, ANDER",
+    "ALESANCO RODRIGUEZ, IAN",
+    "OLMOS RUIZ, MARKEL",
+    "BILDOSOLA ANTOLIN, OIER",
+    "HERNANDEZ VELEZ, ALEX",
+    "HERNANDEZ OCHOA, IKER",
+    "COSSIO ROZAS, IKER",
+    "LAGLAITI SATOUT, AMIN"
+  ],
+  "suplentes_local": [
+    "SERNA ESTEBAN, ARATZ",
+    "NEGRETE PIZARRO, PABLO",
+    "VALLE LAMAS, BRAIS",
+    "ZAMARRIPA SANCHEZ, ALEKOS",
+    "BILBAO ARANA, IÑIGO",
+    "EGUSKIZA LASA, MARKEL",
+    "GUTIERREZ GORDON, GORKA"
+  ],
+  "suplentes_visitante": [
+    "PORTELA DIZ, IKER",
+    "FRAILE BERNARDOS, DANEL",
+    "GONZALEZ RUEDA, JON",
+    "IGHILE, LOUIS OMO",
+    "GOMEZ SAENZ DE SAMANIEGO, OIHAN",
+    "URRESTARAZU PEREZ, ANER"
+  ],
+  "convocados_sin_jugar_local": [
+    "SERNA ESTEBAN, ARATZ",
+    "NEGRETE PIZARRO, PABLO",
+    "ZAMARRIPA SANCHEZ, ALEKOS",
+    "BILBAO ARANA, IÑIGO",
+    "GUTIERREZ GORDON, GORKA"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PORTELA DIZ, IKER",
+    "FRAILE BERNARDOS, DANEL",
+    "GOMEZ SAENZ DE SAMANIEGO, OIHAN"
+  ],
+  "jugadores_local": [
+    "GALACHE DIEZ, ANDER",
+    "CALLE DIAZ, IKER",
+    "RODRIGO ADAN, GALDER",
+    "BAUTISTA MENDEZ, OIER",
+    "ARRATE FLORES, ENEKO",
+    "SEGURA BASTERRETXEA, NATHAN",
+    "CUETO VILLARROEL, MAURICIO DAVID",
+    "COBAS BLANCO, ANER",
+    "GARCIA ASENSIO, LANDER",
+    "ALFREDO, TONY WEZA RAFAEL",
+    "ARBERAS ALFONSO, MARKEL",
+    "EGUSKIZA LASA, MARKEL",
+    "VALLE LAMAS, BRAIS"
+  ],
+  "jugadores_visitante": [
+    "MOSQUERA CORTES, EKAITZ",
+    "MURUA SERNA, JULEN",
+    "ARTOLA BROCH, UNAI",
+    "PEREZ ROCA, ANDER",
+    "ALESANCO RODRIGUEZ, IAN",
+    "OLMOS RUIZ, MARKEL",
+    "BILDOSOLA ANTOLIN, OIER",
+    "HERNANDEZ VELEZ, ALEX",
+    "HERNANDEZ OCHOA, IKER",
+    "COSSIO ROZAS, IKER",
+    "LAGLAITI SATOUT, AMIN",
+    "GONZALEZ RUEDA, JON",
+    "URRESTARAZU PEREZ, ANER",
+    "IGHILE, LOUIS OMO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "EGUSKIZA LASA, MARKEL",
+      "sale": "ALFREDO, TONY WEZA RAFAEL"
+    },
+    {
+      "min": 69,
+      "entra": "VALLE LAMAS, BRAIS",
+      "sale": "SEGURA BASTERRETXEA, NATHAN"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 36,
+      "entra": "GONZALEZ RUEDA, JON",
+      "sale": "LAGLAITI SATOUT, AMIN"
+    },
+    {
+      "min": 63,
+      "entra": "URRESTARAZU PEREZ, ANER",
+      "sale": "BILDOSOLA ANTOLIN, OIER"
+    },
+    {
+      "min": 76,
+      "entra": "IGHILE, LOUIS OMO",
+      "sale": "HERNANDEZ VELEZ, ALEX"
+    }
+  ],
+  "minutos_jugadores": {
+    "GALACHE DIEZ, ANDER": 90,
+    "CALLE DIAZ, IKER": 90,
+    "RODRIGO ADAN, GALDER": 90,
+    "BAUTISTA MENDEZ, OIER": 90,
+    "ARRATE FLORES, ENEKO": 90,
+    "SEGURA BASTERRETXEA, NATHAN": 69,
+    "CUETO VILLARROEL, MAURICIO DAVID": 90,
+    "COBAS BLANCO, ANER": 90,
+    "GARCIA ASENSIO, LANDER": 90,
+    "ALFREDO, TONY WEZA RAFAEL": 57,
+    "ARBERAS ALFONSO, MARKEL": 90,
+    "EGUSKIZA LASA, MARKEL": 33,
+    "VALLE LAMAS, BRAIS": 21,
+    "MOSQUERA CORTES, EKAITZ": 90,
+    "MURUA SERNA, JULEN": 90,
+    "ARTOLA BROCH, UNAI": 90,
+    "PEREZ ROCA, ANDER": 90,
+    "ALESANCO RODRIGUEZ, IAN": 90,
+    "OLMOS RUIZ, MARKEL": 90,
+    "BILDOSOLA ANTOLIN, OIER": 63,
+    "HERNANDEZ VELEZ, ALEX": 76,
+    "HERNANDEZ OCHOA, IKER": 90,
+    "COSSIO ROZAS, IKER": 90,
+    "LAGLAITI SATOUT, AMIN": 36,
+    "GONZALEZ RUEDA, JON": 54,
+    "URRESTARAZU PEREZ, ANER": 27,
+    "IGHILE, LOUIS OMO": 14
+  },
+  "portero_local": "GALACHE DIEZ, ANDER",
+  "portero_visitante": "MOSQUERA CORTES, EKAITZ",
+  "dorsales_local": {
+    "GALACHE DIEZ, ANDER": 1,
+    "CALLE DIAZ, IKER": 2,
+    "RODRIGO ADAN, GALDER": 5,
+    "BAUTISTA MENDEZ, OIER": 8,
+    "ARRATE FLORES, ENEKO": 9,
+    "SEGURA BASTERRETXEA, NATHAN": 10,
+    "CUETO VILLARROEL, MAURICIO DAVID": 11,
+    "COBAS BLANCO, ANER": 12,
+    "GARCIA ASENSIO, LANDER": 15,
+    "ALFREDO, TONY WEZA RAFAEL": 17,
+    "ARBERAS ALFONSO, MARKEL": 25
+  },
+  "dorsales_visitante": {
+    "MOSQUERA CORTES, EKAITZ": 1,
+    "MURUA SERNA, JULEN": 4,
+    "ARTOLA BROCH, UNAI": 5,
+    "PEREZ ROCA, ANDER": 6,
+    "ALESANCO RODRIGUEZ, IAN": 7,
+    "OLMOS RUIZ, MARKEL": 8,
+    "BILDOSOLA ANTOLIN, OIER": 11,
+    "HERNANDEZ VELEZ, ALEX": 14,
+    "HERNANDEZ OCHOA, IKER": 16,
+    "COSSIO ROZAS, IKER": 20,
+    "LAGLAITI SATOUT, AMIN": 21
+  },
+  "suspendidos": [
+    "ARCEGA AGUIRREGABIRIA, GAIZKA"
+  ],
+  "_marcador_widget": true
+}
