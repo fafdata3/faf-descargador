@@ -1,0 +1,255 @@
+{
+  "acta_id": "B_9973205",
+  "filename": "Acta_B_9973205.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 6,
+  "fecha": "08-11-2025",
+  "hora": "18:00",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 5)",
+  "equipo_local": "ASTRABUDUAKO D",
+  "equipo_visitante": "UGERAGA B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "MARTINEZ CEREZO, UNAI"
+  ],
+  "estadio": "SAN LORENZO",
+  "ciudad": "ERANDIO (ASTRABUDUA)",
+  "goleadores": [
+    {
+      "minuto": 25,
+      "jugador": "VADILLO MARTIN, OIER",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 52,
+      "jugador": "FERNANDEZ RODRIGUEZ, DIEGO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 55,
+      "jugador": "GOIKOETXEA DE GOYARZU, EKHI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 70,
+      "jugador": "BARRERAS ENRIQUE, EKAIN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "TORRES VALLEJO, EDER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FANO BILBAO, JON ERRAMON",
+  "delegado_equipo_visitante": "ALBA AURREKOETXEA, OIER",
+  "titulares_local": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "PITPALAC, RAUL CRISTIAN",
+    "MORENO MAGRI, PABLO",
+    "AGIRRE EXPOSITO, BIKENDI",
+    "JAUREGI LOPEZ, ADUR",
+    "FERNANDEZ RODRIGUEZ, DIEGO",
+    "MATESANZ FRANCES, AINGERU",
+    "GIL MAZO, IÑIGO",
+    "VERDEJO LOJO, ALEX",
+    "BARON RODRIGUEZ, GORKA",
+    "MARTINEZ ABAD, ENDIKA"
+  ],
+  "titulares_visitante": [
+    "RODRIGO ALBIZU, ANDER",
+    "LARREA NIEVA, AIMAR MIRENA",
+    "CORRAL MENTXAKA, HODEI",
+    "RIBEIRO DE AGUIAR PEREZ, AITOR",
+    "LORENTE BILBAO, IORITZ",
+    "GOIKOETXEA DE GOYARZU, EKHI",
+    "QUINTANILLA PRIETO, XABIER",
+    "VADILLO MARTIN, OIER",
+    "GOROSTIAGA GOMEZ DE SEGURA, MIKEL",
+    "DOMINGUEZ GUTIERREZ, XABIER",
+    "LIZANA PAREDES, RODRIGO FABIO"
+  ],
+  "suplentes_local": [
+    "JAUREGI LOPEZ, KIRMEN",
+    "CRUZ SANTOS, IKER MATHEUS",
+    "VILLARES MARTINEZ, MARKEL",
+    "LOPEZ RESANO, IKER",
+    "PUERTAS ORIBE, HODEI",
+    "BARRERAS ENRIQUE, EKAIN"
+  ],
+  "suplentes_visitante": [
+    "MUÑOZ IRIBARNEGARAY, MARTIN",
+    "AYUSO GONZALEZ, ARETX",
+    "GALARRAGA ALBONIGA, IBAI",
+    "GONZALEZ DEL HERRERO OREJA, IZEI",
+    "FERNANDEZ VILLANUEVA, MATEO"
+  ],
+  "convocados_sin_jugar_local": [
+    "PUERTAS ORIBE, HODEI"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MUÑOZ IRIBARNEGARAY, MARTIN"
+  ],
+  "jugadores_local": [
+    "BOLAÑOS MARTIN, AXULAR",
+    "PITPALAC, RAUL CRISTIAN",
+    "MORENO MAGRI, PABLO",
+    "AGIRRE EXPOSITO, BIKENDI",
+    "JAUREGI LOPEZ, ADUR",
+    "FERNANDEZ RODRIGUEZ, DIEGO",
+    "MATESANZ FRANCES, AINGERU",
+    "GIL MAZO, IÑIGO",
+    "VERDEJO LOJO, ALEX",
+    "BARON RODRIGUEZ, GORKA",
+    "MARTINEZ ABAD, ENDIKA",
+    "VILLARES MARTINEZ, MARKEL",
+    "CRUZ SANTOS, IKER MATHEUS",
+    "LOPEZ RESANO, IKER",
+    "BARRERAS ENRIQUE, EKAIN",
+    "JAUREGI LOPEZ, KIRMEN"
+  ],
+  "jugadores_visitante": [
+    "RODRIGO ALBIZU, ANDER",
+    "LARREA NIEVA, AIMAR MIRENA",
+    "CORRAL MENTXAKA, HODEI",
+    "RIBEIRO DE AGUIAR PEREZ, AITOR",
+    "LORENTE BILBAO, IORITZ",
+    "GOIKOETXEA DE GOYARZU, EKHI",
+    "QUINTANILLA PRIETO, XABIER",
+    "VADILLO MARTIN, OIER",
+    "GOROSTIAGA GOMEZ DE SEGURA, MIKEL",
+    "DOMINGUEZ GUTIERREZ, XABIER",
+    "LIZANA PAREDES, RODRIGO FABIO",
+    "FERNANDEZ VILLANUEVA, MATEO",
+    "GALARRAGA ALBONIGA, IBAI",
+    "AYUSO GONZALEZ, ARETX",
+    "GONZALEZ DEL HERRERO OREJA, IZEI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 52,
+      "entra": "VILLARES MARTINEZ, MARKEL",
+      "sale": "BARON RODRIGUEZ, GORKA"
+    },
+    {
+      "min": 52,
+      "entra": "CRUZ SANTOS, IKER MATHEUS",
+      "sale": "MATESANZ FRANCES, AINGERU"
+    },
+    {
+      "min": 52,
+      "entra": "LOPEZ RESANO, IKER",
+      "sale": "VERDEJO LOJO, ALEX"
+    },
+    {
+      "min": 63,
+      "entra": "BARRERAS ENRIQUE, EKAIN",
+      "sale": "PITPALAC, RAUL CRISTIAN"
+    },
+    {
+      "min": 71,
+      "entra": "JAUREGI LOPEZ, KIRMEN",
+      "sale": "FERNANDEZ RODRIGUEZ, DIEGO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 59,
+      "entra": "FERNANDEZ VILLANUEVA, MATEO",
+      "sale": "LIZANA PAREDES, RODRIGO FABIO"
+    },
+    {
+      "min": 71,
+      "entra": "GALARRAGA ALBONIGA, IBAI",
+      "sale": "GOROSTIAGA GOMEZ DE SEGURA, MIKEL"
+    },
+    {
+      "min": 71,
+      "entra": "AYUSO GONZALEZ, ARETX",
+      "sale": "LORENTE BILBAO, IORITZ"
+    },
+    {
+      "min": 88,
+      "entra": "GONZALEZ DEL HERRERO OREJA, IZEI",
+      "sale": "VADILLO MARTIN, OIER"
+    }
+  ],
+  "minutos_jugadores": {
+    "BOLAÑOS MARTIN, AXULAR": 90,
+    "PITPALAC, RAUL CRISTIAN": 63,
+    "MORENO MAGRI, PABLO": 90,
+    "AGIRRE EXPOSITO, BIKENDI": 90,
+    "JAUREGI LOPEZ, ADUR": 90,
+    "FERNANDEZ RODRIGUEZ, DIEGO": 71,
+    "MATESANZ FRANCES, AINGERU": 52,
+    "GIL MAZO, IÑIGO": 90,
+    "VERDEJO LOJO, ALEX": 52,
+    "BARON RODRIGUEZ, GORKA": 52,
+    "MARTINEZ ABAD, ENDIKA": 90,
+    "VILLARES MARTINEZ, MARKEL": 38,
+    "CRUZ SANTOS, IKER MATHEUS": 38,
+    "LOPEZ RESANO, IKER": 38,
+    "BARRERAS ENRIQUE, EKAIN": 27,
+    "JAUREGI LOPEZ, KIRMEN": 19,
+    "RODRIGO ALBIZU, ANDER": 90,
+    "LARREA NIEVA, AIMAR MIRENA": 90,
+    "CORRAL MENTXAKA, HODEI": 90,
+    "RIBEIRO DE AGUIAR PEREZ, AITOR": 90,
+    "LORENTE BILBAO, IORITZ": 71,
+    "GOIKOETXEA DE GOYARZU, EKHI": 90,
+    "QUINTANILLA PRIETO, XABIER": 90,
+    "VADILLO MARTIN, OIER": 88,
+    "GOROSTIAGA GOMEZ DE SEGURA, MIKEL": 71,
+    "DOMINGUEZ GUTIERREZ, XABIER": 90,
+    "LIZANA PAREDES, RODRIGO FABIO": 59,
+    "FERNANDEZ VILLANUEVA, MATEO": 31,
+    "GALARRAGA ALBONIGA, IBAI": 19,
+    "AYUSO GONZALEZ, ARETX": 19,
+    "GONZALEZ DEL HERRERO OREJA, IZEI": 2
+  },
+  "portero_local": "BOLAÑOS MARTIN, AXULAR",
+  "portero_visitante": "RODRIGO ALBIZU, ANDER",
+  "dorsales_local": {
+    "BOLAÑOS MARTIN, AXULAR": 13,
+    "PITPALAC, RAUL CRISTIAN": 3,
+    "MORENO MAGRI, PABLO": 4,
+    "AGIRRE EXPOSITO, BIKENDI": 5,
+    "JAUREGI LOPEZ, ADUR": 6,
+    "FERNANDEZ RODRIGUEZ, DIEGO": 9,
+    "MATESANZ FRANCES, AINGERU": 11,
+    "GIL MAZO, IÑIGO": 14,
+    "VERDEJO LOJO, ALEX": 21,
+    "BARON RODRIGUEZ, GORKA": 22,
+    "MARTINEZ ABAD, ENDIKA": 23
+  },
+  "dorsales_visitante": {
+    "RODRIGO ALBIZU, ANDER": 13,
+    "LARREA NIEVA, AIMAR MIRENA": 3,
+    "CORRAL MENTXAKA, HODEI": 4,
+    "RIBEIRO DE AGUIAR PEREZ, AITOR": 6,
+    "LORENTE BILBAO, IORITZ": 7,
+    "GOIKOETXEA DE GOYARZU, EKHI": 10,
+    "QUINTANILLA PRIETO, XABIER": 14,
+    "VADILLO MARTIN, OIER": 17,
+    "GOROSTIAGA GOMEZ DE SEGURA, MIKEL": 20,
+    "DOMINGUEZ GUTIERREZ, XABIER": 21,
+    "LIZANA PAREDES, RODRIGO FABIO": 23
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
