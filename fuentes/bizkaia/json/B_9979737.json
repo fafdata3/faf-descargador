@@ -1,0 +1,282 @@
+{
+  "acta_id": "B_9979737",
+  "filename": "Acta_B_9979737.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "01-02-2026",
+  "hora": "19:10",
+  "categoria": "PRIMERA DIVISIÓN 1C / LEHEN MAILA (GRUPO 1)",
+  "equipo_local": "GAZTELUETA A",
+  "equipo_visitante": "GAZTEAK",
+  "goles_local": 5,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "PARRA RAMÍREZ, DIEGO"
+  ],
+  "estadio": "GAZTELUETA",
+  "ciudad": "Leioa",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "SÁNCHEZ MURGA, LEOPOLDO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "RÍO DEL NOZAL, UNAX",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 64,
+      "jugador": "MARTIN PASTOR, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "MARTIN PASTOR, MARKEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 80,
+      "jugador": "CERERO DIAZ-GUARDAMINO, GONZALO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 10,
+      "jugador": "ESCUDERO CANALES, PABLO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 47,
+      "jugador": "ARROYO RODRIGUEZ, UNAI",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 72,
+      "jugador": "BRAVO IBAÑEZ, ARITZ",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GÓMEZ TEJEDOR, ÁLVARO",
+  "entrenador_visitante": "HIGUERO SANTAMARIA, LANDER",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "MARTINEZ HERNAIZ, AIMAR",
+  "delegado_campo_local": "GARCÍA CABALLERO, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GARCÍA CABALLERO, JAVIER",
+  "delegado_equipo_visitante": "MARTINEZ PERFECTO, ANGEL MANUEL",
+  "titulares_local": [
+    "VIDAL ROMERO, PABLO",
+    "SÁNCHEZ MURGA, LEOPOLDO",
+    "ESCUDERO CANALES, PABLO",
+    "IRASARRI ABASCAL, JUAN",
+    "GUTIERREZ VALLEJO, GONZALO",
+    "ZAMANILLO CIGARAN, LUIS",
+    "MANRIQUE RODRIGUEZ, ALVARO",
+    "MARTIN PASTOR, MARKEL",
+    "RÍO DEL NOZAL, UNAX",
+    "ESTEVEZ RECIO, NICOLAS",
+    "CERERO DIAZ-GUARDAMINO, GONZALO"
+  ],
+  "titulares_visitante": [
+    "TEMPRANO BRAVO, ARITZ",
+    "BEGUÉ RODRÍGUEZ, ADEI",
+    "RUIZ PEÑA, LANDER",
+    "ARROYO RODRIGUEZ, UNAI",
+    "MATELLAN MORILLO, IZAN",
+    "UBEDA-PORTUGUES GARCÍA, EDER",
+    "MONROY SAGREDO, ALEX",
+    "HERNANDEZ RICO, DANEL",
+    "BODEGAS PLAZA, MARKEL",
+    "ARANA BADAYA, OIER",
+    "BRAVO IBAÑEZ, ARITZ"
+  ],
+  "suplentes_local": [
+    "GARDEAZABAL GONZALEZ, JAIME",
+    "GUIBERT SETIÉN, TOMAS",
+    "ARBEO ALCIBAR, PABLO",
+    "ARAGUNDE CASTIELLA, JAIME",
+    "REDONDO RUIZ, MATEO"
+  ],
+  "suplentes_visitante": [
+    "MARTINEZ MAESO, EGOITZ",
+    "PEDROSA MORAN, KENAN",
+    "MAESO RUIZ, XABIER",
+    "MENDICOTE MARQUEZ, XABIER",
+    "EPELGUEZ GUISAN, AINGERU",
+    "ARROYO PEREZ, ALEJANDRO"
+  ],
+  "convocados_sin_jugar_local": [
+    "GARDEAZABAL GONZALEZ, JAIME"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "PEDROSA MORAN, KENAN"
+  ],
+  "jugadores_local": [
+    "VIDAL ROMERO, PABLO",
+    "SÁNCHEZ MURGA, LEOPOLDO",
+    "ESCUDERO CANALES, PABLO",
+    "IRASARRI ABASCAL, JUAN",
+    "GUTIERREZ VALLEJO, GONZALO",
+    "ZAMANILLO CIGARAN, LUIS",
+    "MANRIQUE RODRIGUEZ, ALVARO",
+    "MARTIN PASTOR, MARKEL",
+    "RÍO DEL NOZAL, UNAX",
+    "ESTEVEZ RECIO, NICOLAS",
+    "CERERO DIAZ-GUARDAMINO, GONZALO",
+    "ARAGUNDE CASTIELLA, JAIME",
+    "GUIBERT SETIÉN, TOMAS",
+    "ARBEO ALCIBAR, PABLO",
+    "REDONDO RUIZ, MATEO"
+  ],
+  "jugadores_visitante": [
+    "TEMPRANO BRAVO, ARITZ",
+    "BEGUÉ RODRÍGUEZ, ADEI",
+    "RUIZ PEÑA, LANDER",
+    "ARROYO RODRIGUEZ, UNAI",
+    "MATELLAN MORILLO, IZAN",
+    "UBEDA-PORTUGUES GARCÍA, EDER",
+    "MONROY SAGREDO, ALEX",
+    "HERNANDEZ RICO, DANEL",
+    "BODEGAS PLAZA, MARKEL",
+    "ARANA BADAYA, OIER",
+    "BRAVO IBAÑEZ, ARITZ",
+    "MAESO RUIZ, XABIER",
+    "EPELGUEZ GUISAN, AINGERU",
+    "MENDICOTE MARQUEZ, XABIER",
+    "MARTINEZ MAESO, EGOITZ",
+    "ARROYO PEREZ, ALEJANDRO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 57,
+      "entra": "ARAGUNDE CASTIELLA, JAIME",
+      "sale": "ESCUDERO CANALES, PABLO"
+    },
+    {
+      "min": 57,
+      "entra": "GUIBERT SETIÉN, TOMAS",
+      "sale": "ESTEVEZ RECIO, NICOLAS"
+    },
+    {
+      "min": 62,
+      "entra": "ARBEO ALCIBAR, PABLO",
+      "sale": "GUTIERREZ VALLEJO, GONZALO"
+    },
+    {
+      "min": 67,
+      "entra": "REDONDO RUIZ, MATEO",
+      "sale": "MANRIQUE RODRIGUEZ, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "MAESO RUIZ, XABIER",
+      "sale": "BEGUÉ RODRÍGUEZ, ADEI"
+    },
+    {
+      "min": 41,
+      "entra": "EPELGUEZ GUISAN, AINGERU",
+      "sale": "ARANA BADAYA, OIER"
+    },
+    {
+      "min": 41,
+      "entra": "MENDICOTE MARQUEZ, XABIER",
+      "sale": "BODEGAS PLAZA, MARKEL"
+    },
+    {
+      "min": 45,
+      "entra": "MARTINEZ MAESO, EGOITZ",
+      "sale": "MENDICOTE MARQUEZ, XABIER"
+    },
+    {
+      "min": 64,
+      "entra": "ARROYO PEREZ, ALEJANDRO",
+      "sale": "ARROYO RODRIGUEZ, UNAI"
+    }
+  ],
+  "minutos_jugadores": {
+    "VIDAL ROMERO, PABLO": 90,
+    "SÁNCHEZ MURGA, LEOPOLDO": 90,
+    "ESCUDERO CANALES, PABLO": 57,
+    "IRASARRI ABASCAL, JUAN": 90,
+    "GUTIERREZ VALLEJO, GONZALO": 62,
+    "ZAMANILLO CIGARAN, LUIS": 90,
+    "MANRIQUE RODRIGUEZ, ALVARO": 67,
+    "MARTIN PASTOR, MARKEL": 90,
+    "RÍO DEL NOZAL, UNAX": 90,
+    "ESTEVEZ RECIO, NICOLAS": 57,
+    "CERERO DIAZ-GUARDAMINO, GONZALO": 90,
+    "ARAGUNDE CASTIELLA, JAIME": 33,
+    "GUIBERT SETIÉN, TOMAS": 33,
+    "ARBEO ALCIBAR, PABLO": 28,
+    "REDONDO RUIZ, MATEO": 23,
+    "TEMPRANO BRAVO, ARITZ": 90,
+    "BEGUÉ RODRÍGUEZ, ADEI": 41,
+    "RUIZ PEÑA, LANDER": 90,
+    "ARROYO RODRIGUEZ, UNAI": 64,
+    "MATELLAN MORILLO, IZAN": 90,
+    "UBEDA-PORTUGUES GARCÍA, EDER": 90,
+    "MONROY SAGREDO, ALEX": 90,
+    "HERNANDEZ RICO, DANEL": 90,
+    "BODEGAS PLAZA, MARKEL": 41,
+    "ARANA BADAYA, OIER": 41,
+    "BRAVO IBAÑEZ, ARITZ": 90,
+    "MAESO RUIZ, XABIER": 49,
+    "EPELGUEZ GUISAN, AINGERU": 49,
+    "MENDICOTE MARQUEZ, XABIER": 45,
+    "MARTINEZ MAESO, EGOITZ": 45,
+    "ARROYO PEREZ, ALEJANDRO": 26
+  },
+  "portero_local": "VIDAL ROMERO, PABLO",
+  "portero_visitante": "TEMPRANO BRAVO, ARITZ",
+  "dorsales_local": {
+    "VIDAL ROMERO, PABLO": 13,
+    "SÁNCHEZ MURGA, LEOPOLDO": 2,
+    "ESCUDERO CANALES, PABLO": 3,
+    "IRASARRI ABASCAL, JUAN": 5,
+    "GUTIERREZ VALLEJO, GONZALO": 6,
+    "ZAMANILLO CIGARAN, LUIS": 7,
+    "MANRIQUE RODRIGUEZ, ALVARO": 9,
+    "MARTIN PASTOR, MARKEL": 10,
+    "RÍO DEL NOZAL, UNAX": 16,
+    "ESTEVEZ RECIO, NICOLAS": 18,
+    "CERERO DIAZ-GUARDAMINO, GONZALO": 21
+  },
+  "dorsales_visitante": {
+    "TEMPRANO BRAVO, ARITZ": 1,
+    "BEGUÉ RODRÍGUEZ, ADEI": 2,
+    "RUIZ PEÑA, LANDER": 3,
+    "ARROYO RODRIGUEZ, UNAI": 4,
+    "MATELLAN MORILLO, IZAN": 5,
+    "UBEDA-PORTUGUES GARCÍA, EDER": 6,
+    "MONROY SAGREDO, ALEX": 7,
+    "HERNANDEZ RICO, DANEL": 8,
+    "BODEGAS PLAZA, MARKEL": 9,
+    "ARANA BADAYA, OIER": 10,
+    "BRAVO IBAÑEZ, ARITZ": 11
+  },
+  "suspendidos": []
+}
