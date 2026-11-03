@@ -1,0 +1,235 @@
+{
+  "acta_id": "B_9973424",
+  "filename": "Acta_B_9973424.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 3,
+  "fecha": "18-10-2025",
+  "hora": "19:00",
+  "categoria": "SEGUNDA DIVISIÓN 2J / BIGARREN MAILA (GRUPO 6)",
+  "equipo_local": "BERMEO C",
+  "equipo_visitante": "SOPELA ATXABIRIBIL",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "Árbitro Principal",
+    "ZABALA HERNANDEZ, ALAIN"
+  ],
+  "estadio": "PENTA",
+  "ciudad": "Bermeo",
+  "goleadores": [
+    {
+      "minuto": 31,
+      "jugador": "ALVAREZ TUÑEZ, IORITZ",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "BABIO LENIZ, BITOR",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 87,
+      "jugador": "BILBAO IZQUIERDO, JON",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 90,
+      "jugador": "GOMEZ SIERRA, AITOR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 78,
+      "jugador": "BILBAO IZQUIERDO, JON",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 82,
+      "jugador": "BABIO LENIZ, BITOR",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 86,
+      "jugador": "NUÑEZ-ZABALA PUERTA, IMANOL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "Ez du aurkezten",
+  "entrenador_visitante": "Ez du aurkezten",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "SANCHEZ FARRERAS, FERNANDO",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BERTRAND , ALAIN",
+  "delegado_equipo_visitante": "MINETO ZARRAGA, JON ANDER",
+  "titulares_local": [
+    "AGUIRRE CENDOYA, MAURIXI",
+    "DIADIOU SARR, SALIOU",
+    "ZEROUT ZEROUT, MOUAAD",
+    "ALVAREZ TUÑEZ, IORITZ",
+    "BABIO CANGA, BEÑAT",
+    "ZEROUT ZEROUT, OSAMA",
+    "ETXEBARRIA SANCHEZ, AIMAR",
+    "RAMIREZ YUPANQUI, UNAI",
+    "ZULUETA GONDRA, MAREN",
+    "BARTUREN GORROÑO, JULEN",
+    "BABIO LENIZ, BITOR"
+  ],
+  "titulares_visitante": [
+    "PEREZ ALBONIGA, DANEL",
+    "NUÑEZ-ZABALA PUERTA, IMANOL",
+    "GOMEZ SIERRA, AITOR",
+    "HRZENJAK PAMPARACUATRO, BENJAMIN",
+    "LOPEZ KORKOSTEGI, XABIER",
+    "GARCIA QUIROGA, OIER",
+    "MARIN BLANCO, GARIKOITZ",
+    "MEDINA KANI, KAI",
+    "SANTIAGO MOURE, ENEKO",
+    "LOPEZ KORKOSTEGI, JON",
+    "SAIZ GARCIA, GORKA"
+  ],
+  "suplentes_local": [
+    "HERNANDEZ GAUBECA, HODEI",
+    "DUARTE DERTEANO, AITOR",
+    "ACEVEDO GOIENETXEA, IRAITZ",
+    "BILBAO IZQUIERDO, JON",
+    "LORITE LECUMBERRI, LANDER"
+  ],
+  "suplentes_visitante": [],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "AGUIRRE CENDOYA, MAURIXI",
+    "DIADIOU SARR, SALIOU",
+    "ZEROUT ZEROUT, MOUAAD",
+    "ALVAREZ TUÑEZ, IORITZ",
+    "BABIO CANGA, BEÑAT",
+    "ZEROUT ZEROUT, OSAMA",
+    "ETXEBARRIA SANCHEZ, AIMAR",
+    "RAMIREZ YUPANQUI, UNAI",
+    "ZULUETA GONDRA, MAREN",
+    "BARTUREN GORROÑO, JULEN",
+    "BABIO LENIZ, BITOR",
+    "HERNANDEZ GAUBECA, HODEI",
+    "BILBAO IZQUIERDO, JON",
+    "ACEVEDO GOIENETXEA, IRAITZ",
+    "DUARTE DERTEANO, AITOR",
+    "LORITE LECUMBERRI, LANDER"
+  ],
+  "jugadores_visitante": [
+    "PEREZ ALBONIGA, DANEL",
+    "NUÑEZ-ZABALA PUERTA, IMANOL",
+    "GOMEZ SIERRA, AITOR",
+    "HRZENJAK PAMPARACUATRO, BENJAMIN",
+    "LOPEZ KORKOSTEGI, XABIER",
+    "GARCIA QUIROGA, OIER",
+    "MARIN BLANCO, GARIKOITZ",
+    "MEDINA KANI, KAI",
+    "SANTIAGO MOURE, ENEKO",
+    "LOPEZ KORKOSTEGI, JON",
+    "SAIZ GARCIA, GORKA"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 63,
+      "entra": "HERNANDEZ GAUBECA, HODEI",
+      "sale": "ETXEBARRIA SANCHEZ, AIMAR"
+    },
+    {
+      "min": 63,
+      "entra": "BILBAO IZQUIERDO, JON",
+      "sale": "RAMIREZ YUPANQUI, UNAI"
+    },
+    {
+      "min": 70,
+      "entra": "ACEVEDO GOIENETXEA, IRAITZ",
+      "sale": "ALVAREZ TUÑEZ, IORITZ"
+    },
+    {
+      "min": 70,
+      "entra": "DUARTE DERTEANO, AITOR",
+      "sale": "ZULUETA GONDRA, MAREN"
+    },
+    {
+      "min": 70,
+      "entra": "LORITE LECUMBERRI, LANDER",
+      "sale": "ZEROUT ZEROUT, MOUAAD"
+    }
+  ],
+  "sustituciones_visitante": [],
+  "minutos_jugadores": {
+    "AGUIRRE CENDOYA, MAURIXI": 90,
+    "DIADIOU SARR, SALIOU": 90,
+    "ZEROUT ZEROUT, MOUAAD": 70,
+    "ALVAREZ TUÑEZ, IORITZ": 70,
+    "BABIO CANGA, BEÑAT": 90,
+    "ZEROUT ZEROUT, OSAMA": 90,
+    "ETXEBARRIA SANCHEZ, AIMAR": 63,
+    "RAMIREZ YUPANQUI, UNAI": 63,
+    "ZULUETA GONDRA, MAREN": 70,
+    "BARTUREN GORROÑO, JULEN": 90,
+    "BABIO LENIZ, BITOR": 90,
+    "HERNANDEZ GAUBECA, HODEI": 27,
+    "BILBAO IZQUIERDO, JON": 27,
+    "ACEVEDO GOIENETXEA, IRAITZ": 20,
+    "DUARTE DERTEANO, AITOR": 20,
+    "LORITE LECUMBERRI, LANDER": 20,
+    "PEREZ ALBONIGA, DANEL": 90,
+    "NUÑEZ-ZABALA PUERTA, IMANOL": 90,
+    "GOMEZ SIERRA, AITOR": 90,
+    "HRZENJAK PAMPARACUATRO, BENJAMIN": 90,
+    "LOPEZ KORKOSTEGI, XABIER": 90,
+    "GARCIA QUIROGA, OIER": 90,
+    "MARIN BLANCO, GARIKOITZ": 90,
+    "MEDINA KANI, KAI": 90,
+    "SANTIAGO MOURE, ENEKO": 90,
+    "LOPEZ KORKOSTEGI, JON": 90,
+    "SAIZ GARCIA, GORKA": 90
+  },
+  "portero_local": "AGUIRRE CENDOYA, MAURIXI",
+  "portero_visitante": "PEREZ ALBONIGA, DANEL",
+  "dorsales_local": {
+    "AGUIRRE CENDOYA, MAURIXI": 13,
+    "DIADIOU SARR, SALIOU": 3,
+    "ZEROUT ZEROUT, MOUAAD": 4,
+    "ALVAREZ TUÑEZ, IORITZ": 7,
+    "BABIO CANGA, BEÑAT": 9,
+    "ZEROUT ZEROUT, OSAMA": 10,
+    "ETXEBARRIA SANCHEZ, AIMAR": 11,
+    "RAMIREZ YUPANQUI, UNAI": 12,
+    "ZULUETA GONDRA, MAREN": 14,
+    "BARTUREN GORROÑO, JULEN": 18,
+    "BABIO LENIZ, BITOR": 19
+  },
+  "dorsales_visitante": {
+    "PEREZ ALBONIGA, DANEL": 13,
+    "NUÑEZ-ZABALA PUERTA, IMANOL": 2,
+    "GOMEZ SIERRA, AITOR": 3,
+    "HRZENJAK PAMPARACUATRO, BENJAMIN": 4,
+    "LOPEZ KORKOSTEGI, XABIER": 6,
+    "GARCIA QUIROGA, OIER": 7,
+    "MARIN BLANCO, GARIKOITZ": 8,
+    "MEDINA KANI, KAI": 10,
+    "SANTIAGO MOURE, ENEKO": 16,
+    "LOPEZ KORKOSTEGI, JON": 19,
+    "SAIZ GARCIA, GORKA": 21
+  },
+  "suspendidos": []
+}
