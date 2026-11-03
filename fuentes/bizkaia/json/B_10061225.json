@@ -1,0 +1,281 @@
+{
+  "acta_id": "B_10061225",
+  "filename": "Acta_B_10061225.txt",
+  "fuente": "bizkaia",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "25-10-2026",
+  "hora": "11:00",
+  "categoria": "DIVISIÓN DE HONOR HC / OHOREZKO MAILA (GRUPO 1)",
+  "equipo_local": "BIZKERRE",
+  "equipo_visitante": "DANOK BAT B",
+  "goles_local": 1,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "Árbitro Principal",
+    "REAL DE ASUA GARCIA, ENDIKA"
+  ],
+  "estadio": "BOLUE 1",
+  "ciudad": "Getxo",
+  "goleadores": [
+    {
+      "minuto": 26,
+      "jugador": "BARTUREN TORREALDAY, ALAIN",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "FLOREZ PIEDRAHITA, MIGUEL ANGEL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 77,
+      "jugador": "DIEZ-CABALLERO ABASCAL, ANTONIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 13,
+      "jugador": "ETXEBARRIA ELORRIAGA, ARITZ",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 18,
+      "jugador": "PARDO VARGAS, GUILLERMO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 73,
+      "jugador": "ECHEVARRÍA LÓPEZ, GALDER",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALCORTA MARTINEZ, OSCAR",
+  "entrenador_visitante": "URIETA VILLANUEVA, JON",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ MARTITEGUI, MARKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ MARTITEGUI, MARKEL",
+  "delegado_equipo_visitante": "PIKATZA GONZALEZ, JOSEBA JOKIN",
+  "titulares_local": [
+    "LOPEZ EGUSKIZA, OIER",
+    "KORTABARRIA LARREA, MANEX",
+    "GUEVARA BURGO, ÁLVARO",
+    "ETXEBARRIA ELORRIAGA, ARITZ",
+    "SEBASTIAN CORTES, AGER",
+    "SOTO AROSTEGUI, INAZIO",
+    "JAUREGI ALLENDE, PEIO",
+    "ARGÜELLO ISLA, NICOLÁS",
+    "RUIZ BILBAO, LANDER",
+    "ALBO ZORRILLA, EDGAR",
+    "GONZÁLEZ PÉREZ, ELEDER"
+  ],
+  "titulares_visitante": [
+    "ECHEVARRÍA LÓPEZ, GALDER",
+    "HERRERA GARCÍA, LUKEN",
+    "GONZALEZ HERRERIA, ALEJANDRO",
+    "ECHEVARRIA ISASI, ALEX",
+    "CHAO MELGOSA, LUCAS",
+    "URIARTE TRECEÑO, DANEL",
+    "BERNAOLA BAÑUELOS, GILEN",
+    "BARTUREN TORREALDAY, ALAIN",
+    "GONZALEZ CASTILLO, DANEL",
+    "PARDO VARGAS, GUILLERMO",
+    "SOUTO GARRIDO, IVAN"
+  ],
+  "suplentes_local": [
+    "RIVAS BILBAO, ENEKO",
+    "ITURRIBARRIA RICO, AITOR",
+    "GARAY ARTOLA, MIKEL",
+    "SAITUA SANTA MARIA-AMURRIO, EKAIN",
+    "ELIZONDO GUESALAGA, PERU",
+    "DIEZ-CABALLERO ABASCAL, ANTONIO",
+    "MARTINEZ MONAR, FRANCISCO JAVIER"
+  ],
+  "suplentes_visitante": [
+    "GUTIERREZ GOYENECHEA, MARKEL",
+    "NARANJO GANA, AITZOL",
+    "GARZON LOROÑO, ASIER",
+    "PEREZ DAÑOBEITIA, GALDER",
+    "FLOREZ PIEDRAHITA, MIGUEL ANGEL",
+    "SERRANO ELCORO, ENEKO",
+    "RODRÍGO MARTÍN, XENKI"
+  ],
+  "convocados_sin_jugar_local": [
+    "RIVAS BILBAO, ENEKO",
+    "GARAY ARTOLA, MIKEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "GUTIERREZ GOYENECHEA, MARKEL",
+    "NARANJO GANA, AITZOL"
+  ],
+  "jugadores_local": [
+    "LOPEZ EGUSKIZA, OIER",
+    "KORTABARRIA LARREA, MANEX",
+    "GUEVARA BURGO, ÁLVARO",
+    "ETXEBARRIA ELORRIAGA, ARITZ",
+    "SEBASTIAN CORTES, AGER",
+    "SOTO AROSTEGUI, INAZIO",
+    "JAUREGI ALLENDE, PEIO",
+    "ARGÜELLO ISLA, NICOLÁS",
+    "RUIZ BILBAO, LANDER",
+    "ALBO ZORRILLA, EDGAR",
+    "GONZÁLEZ PÉREZ, ELEDER",
+    "SAITUA SANTA MARIA-AMURRIO, EKAIN",
+    "DIEZ-CABALLERO ABASCAL, ANTONIO",
+    "ITURRIBARRIA RICO, AITOR",
+    "ELIZONDO GUESALAGA, PERU",
+    "MARTINEZ MONAR, FRANCISCO JAVIER"
+  ],
+  "jugadores_visitante": [
+    "ECHEVARRÍA LÓPEZ, GALDER",
+    "HERRERA GARCÍA, LUKEN",
+    "GONZALEZ HERRERIA, ALEJANDRO",
+    "ECHEVARRIA ISASI, ALEX",
+    "CHAO MELGOSA, LUCAS",
+    "URIARTE TRECEÑO, DANEL",
+    "BERNAOLA BAÑUELOS, GILEN",
+    "BARTUREN TORREALDAY, ALAIN",
+    "GONZALEZ CASTILLO, DANEL",
+    "PARDO VARGAS, GUILLERMO",
+    "SOUTO GARRIDO, IVAN",
+    "FLOREZ PIEDRAHITA, MIGUEL ANGEL",
+    "SERRANO ELCORO, ENEKO",
+    "PEREZ DAÑOBEITIA, GALDER",
+    "GARZON LOROÑO, ASIER",
+    "RODRÍGO MARTÍN, XENKI"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 41,
+      "entra": "SAITUA SANTA MARIA-AMURRIO, EKAIN",
+      "sale": "RUIZ BILBAO, LANDER"
+    },
+    {
+      "min": 41,
+      "entra": "DIEZ-CABALLERO ABASCAL, ANTONIO",
+      "sale": "SEBASTIAN CORTES, AGER"
+    },
+    {
+      "min": 61,
+      "entra": "ITURRIBARRIA RICO, AITOR",
+      "sale": "SOTO AROSTEGUI, INAZIO"
+    },
+    {
+      "min": 61,
+      "entra": "ELIZONDO GUESALAGA, PERU",
+      "sale": "ETXEBARRIA ELORRIAGA, ARITZ"
+    },
+    {
+      "min": 71,
+      "entra": "MARTINEZ MONAR, FRANCISCO JAVIER",
+      "sale": "ARGÜELLO ISLA, NICOLÁS"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 41,
+      "entra": "FLOREZ PIEDRAHITA, MIGUEL ANGEL",
+      "sale": "GONZALEZ CASTILLO, DANEL"
+    },
+    {
+      "min": 52,
+      "entra": "SERRANO ELCORO, ENEKO",
+      "sale": "CHAO MELGOSA, LUCAS"
+    },
+    {
+      "min": 52,
+      "entra": "PEREZ DAÑOBEITIA, GALDER",
+      "sale": "URIARTE TRECEÑO, DANEL"
+    },
+    {
+      "min": 64,
+      "entra": "GARZON LOROÑO, ASIER",
+      "sale": "PARDO VARGAS, GUILLERMO"
+    },
+    {
+      "min": 75,
+      "entra": "RODRÍGO MARTÍN, XENKI",
+      "sale": "HERRERA GARCÍA, LUKEN"
+    }
+  ],
+  "minutos_jugadores": {
+    "LOPEZ EGUSKIZA, OIER": 90,
+    "KORTABARRIA LARREA, MANEX": 90,
+    "GUEVARA BURGO, ÁLVARO": 90,
+    "ETXEBARRIA ELORRIAGA, ARITZ": 61,
+    "SEBASTIAN CORTES, AGER": 41,
+    "SOTO AROSTEGUI, INAZIO": 61,
+    "JAUREGI ALLENDE, PEIO": 90,
+    "ARGÜELLO ISLA, NICOLÁS": 71,
+    "RUIZ BILBAO, LANDER": 41,
+    "ALBO ZORRILLA, EDGAR": 90,
+    "GONZÁLEZ PÉREZ, ELEDER": 90,
+    "SAITUA SANTA MARIA-AMURRIO, EKAIN": 49,
+    "DIEZ-CABALLERO ABASCAL, ANTONIO": 49,
+    "ITURRIBARRIA RICO, AITOR": 29,
+    "ELIZONDO GUESALAGA, PERU": 29,
+    "MARTINEZ MONAR, FRANCISCO JAVIER": 19,
+    "ECHEVARRÍA LÓPEZ, GALDER": 90,
+    "HERRERA GARCÍA, LUKEN": 75,
+    "GONZALEZ HERRERIA, ALEJANDRO": 90,
+    "ECHEVARRIA ISASI, ALEX": 90,
+    "CHAO MELGOSA, LUCAS": 52,
+    "URIARTE TRECEÑO, DANEL": 52,
+    "BERNAOLA BAÑUELOS, GILEN": 90,
+    "BARTUREN TORREALDAY, ALAIN": 90,
+    "GONZALEZ CASTILLO, DANEL": 41,
+    "PARDO VARGAS, GUILLERMO": 64,
+    "SOUTO GARRIDO, IVAN": 90,
+    "FLOREZ PIEDRAHITA, MIGUEL ANGEL": 49,
+    "SERRANO ELCORO, ENEKO": 38,
+    "PEREZ DAÑOBEITIA, GALDER": 38,
+    "GARZON LOROÑO, ASIER": 26,
+    "RODRÍGO MARTÍN, XENKI": 15
+  },
+  "portero_local": "LOPEZ EGUSKIZA, OIER",
+  "portero_visitante": "ECHEVARRÍA LÓPEZ, GALDER",
+  "dorsales_local": {
+    "LOPEZ EGUSKIZA, OIER": 13,
+    "KORTABARRIA LARREA, MANEX": 6,
+    "GUEVARA BURGO, ÁLVARO": 7,
+    "ETXEBARRIA ELORRIAGA, ARITZ": 8,
+    "SEBASTIAN CORTES, AGER": 10,
+    "SOTO AROSTEGUI, INAZIO": 11,
+    "JAUREGI ALLENDE, PEIO": 15,
+    "ARGÜELLO ISLA, NICOLÁS": 16,
+    "RUIZ BILBAO, LANDER": 18,
+    "ALBO ZORRILLA, EDGAR": 21,
+    "GONZÁLEZ PÉREZ, ELEDER": 23
+  },
+  "dorsales_visitante": {
+    "ECHEVARRÍA LÓPEZ, GALDER": 13,
+    "HERRERA GARCÍA, LUKEN": 2,
+    "GONZALEZ HERRERIA, ALEJANDRO": 3,
+    "ECHEVARRIA ISASI, ALEX": 5,
+    "CHAO MELGOSA, LUCAS": 10,
+    "URIARTE TRECEÑO, DANEL": 14,
+    "BERNAOLA BAÑUELOS, GILEN": 18,
+    "BARTUREN TORREALDAY, ALAIN": 20,
+    "GONZALEZ CASTILLO, DANEL": 21,
+    "PARDO VARGAS, GUILLERMO": 23,
+    "SOUTO GARRIDO, IVAN": 24
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
