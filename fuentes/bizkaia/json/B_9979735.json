@@ -1,0 +1,266 @@
+{
+  "acta_id": "B_9979735",
+  "filename": "Acta_B_9979735.txt",
+  "fuente": "bizkaia",
+  "temporada": "2025-2026",
+  "jornada": 17,
+  "fecha": "31-01-2026",
+  "hora": "15:30",
+  "categoria": "PRIMERA DIVISIÓN 1C / LEHEN MAILA (GRUPO 1)",
+  "equipo_local": "SESTAO RIVER B",
+  "equipo_visitante": "SODUPE A",
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "resultado": "D",
+  "arbitros": [
+    "Árbitro Principal",
+    "GARRIDO BASTIDA (M), MIKEL"
+  ],
+  "estadio": "GALINDO 2",
+  "ciudad": "Sestao",
+  "goleadores": [
+    {
+      "minuto": 10,
+      "jugador": "VARONA PEÑALBA, PEIO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 32,
+      "jugador": "GONZALEZ SARACHO, INHAR",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 54,
+      "jugador": "MARTIN GOMES, IKER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "VARONA PEÑALBA, PEIO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 77,
+      "jugador": "PALOMA URGILES, JOHAN",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 53,
+      "jugador": "GONZALEZ BARTUREN, JORGE",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "staff"
+    },
+    {
+      "minuto": 53,
+      "jugador": "GONZALEZ SARACHO, INHAR",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "HILERA RODRIGUEZ, MIGUEL ANGEL",
+  "entrenador_visitante": "GARCIA ESTEVEZ, ANGEL FRANCISCO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "GÓMEZ ETXEBARRIA, MIKEL",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "GÓMEZ ETXEBARRIA, MIKEL",
+  "delegado_equipo_visitante": "GONZALEZ BARTUREN, JORGE",
+  "titulares_local": [
+    "VELASCO GIL, MARTIN",
+    "GUTIÉRREZ FERNÁNDEZ, DANEL",
+    "PALOMA URGILES, JOHAN",
+    "LOPEZ FERNANDEZ, JON",
+    "LUNA SANTOS, YAREI",
+    "GORDILLO VEGA, JOHAN",
+    "VARONA PEÑALBA, PEIO",
+    "PLATAS VELASCO, MARKEL",
+    "MARTIN GOMES, IKER",
+    "IGLESIAS ORUE, ANDONI",
+    "RUIZ SAINZ-MAZA, RICARDO"
+  ],
+  "titulares_visitante": [
+    "SETIEN GOMEZ, DIEGO",
+    "HERRERO RUIZ, MARKEL",
+    "DOMINGUEZ MARUGAY, BEÑAT",
+    "RAMOS LUCAS, UNAI",
+    "SUSTATXA PEREZ, MIKEL",
+    "GONZALEZ SARACHO, INHAR",
+    "CHAVARRI GORBEÑA, KERMAN",
+    "URQUIJO ABIEGA, IGOR",
+    "GONZÁLEZ VIEJO, GORKA",
+    "JIMENEZ LOPEZ, YERAY",
+    "ARANA ETXEBARRIA, UNAI"
+  ],
+  "suplentes_local": [
+    "TEJERO ARROYO, JULEN",
+    "CUÑADO FERNANDEZ, OIHAN",
+    "HERRERO ZARZA, OIER",
+    "NAVARRO TABOADA, ALAIN",
+    "SERRALLE GRACIA, JON",
+    "OLABARRI FERNANDEZ, GORKA"
+  ],
+  "suplentes_visitante": [
+    "MEABE ECHEITA, GONTZAL",
+    "ECHARRI CONDE, LUIS",
+    "GUTIERREZ SANTAMARIA, AIMAR",
+    "DIAZ SEPTIEN, GORKA",
+    "INTXAURRANDIETA LANDEA, AMETS",
+    "SOJO FERNANDEZ, JULEN"
+  ],
+  "convocados_sin_jugar_local": [
+    "TEJERO ARROYO, JULEN",
+    "HERRERO ZARZA, OIER",
+    "NAVARRO TABOADA, ALAIN"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "MEABE ECHEITA, GONTZAL",
+    "DIAZ SEPTIEN, GORKA"
+  ],
+  "jugadores_local": [
+    "VELASCO GIL, MARTIN",
+    "GUTIÉRREZ FERNÁNDEZ, DANEL",
+    "PALOMA URGILES, JOHAN",
+    "LOPEZ FERNANDEZ, JON",
+    "LUNA SANTOS, YAREI",
+    "GORDILLO VEGA, JOHAN",
+    "VARONA PEÑALBA, PEIO",
+    "PLATAS VELASCO, MARKEL",
+    "MARTIN GOMES, IKER",
+    "IGLESIAS ORUE, ANDONI",
+    "RUIZ SAINZ-MAZA, RICARDO",
+    "SERRALLE GRACIA, JON",
+    "OLABARRI FERNANDEZ, GORKA",
+    "CUÑADO FERNANDEZ, OIHAN"
+  ],
+  "jugadores_visitante": [
+    "SETIEN GOMEZ, DIEGO",
+    "HERRERO RUIZ, MARKEL",
+    "DOMINGUEZ MARUGAY, BEÑAT",
+    "RAMOS LUCAS, UNAI",
+    "SUSTATXA PEREZ, MIKEL",
+    "GONZALEZ SARACHO, INHAR",
+    "CHAVARRI GORBEÑA, KERMAN",
+    "URQUIJO ABIEGA, IGOR",
+    "GONZÁLEZ VIEJO, GORKA",
+    "JIMENEZ LOPEZ, YERAY",
+    "ARANA ETXEBARRIA, UNAI",
+    "INTXAURRANDIETA LANDEA, AMETS",
+    "SOJO FERNANDEZ, JULEN",
+    "GUTIERREZ SANTAMARIA, AIMAR",
+    "ECHARRI CONDE, LUIS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 40,
+      "entra": "SERRALLE GRACIA, JON",
+      "sale": "RUIZ SAINZ-MAZA, RICARDO"
+    },
+    {
+      "min": 62,
+      "entra": "OLABARRI FERNANDEZ, GORKA",
+      "sale": "GORDILLO VEGA, JOHAN"
+    },
+    {
+      "min": 71,
+      "entra": "CUÑADO FERNANDEZ, OIHAN",
+      "sale": "VARONA PEÑALBA, PEIO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 27,
+      "entra": "INTXAURRANDIETA LANDEA, AMETS",
+      "sale": "JIMENEZ LOPEZ, YERAY"
+    },
+    {
+      "min": 27,
+      "entra": "SOJO FERNANDEZ, JULEN",
+      "sale": "ARANA ETXEBARRIA, UNAI"
+    },
+    {
+      "min": 62,
+      "entra": "GUTIERREZ SANTAMARIA, AIMAR",
+      "sale": "RAMOS LUCAS, UNAI"
+    },
+    {
+      "min": 62,
+      "entra": "ECHARRI CONDE, LUIS",
+      "sale": "SUSTATXA PEREZ, MIKEL"
+    }
+  ],
+  "minutos_jugadores": {
+    "VELASCO GIL, MARTIN": 90,
+    "GUTIÉRREZ FERNÁNDEZ, DANEL": 90,
+    "PALOMA URGILES, JOHAN": 90,
+    "LOPEZ FERNANDEZ, JON": 90,
+    "LUNA SANTOS, YAREI": 90,
+    "GORDILLO VEGA, JOHAN": 62,
+    "VARONA PEÑALBA, PEIO": 71,
+    "PLATAS VELASCO, MARKEL": 90,
+    "MARTIN GOMES, IKER": 90,
+    "IGLESIAS ORUE, ANDONI": 90,
+    "RUIZ SAINZ-MAZA, RICARDO": 40,
+    "SERRALLE GRACIA, JON": 50,
+    "OLABARRI FERNANDEZ, GORKA": 28,
+    "CUÑADO FERNANDEZ, OIHAN": 19,
+    "SETIEN GOMEZ, DIEGO": 90,
+    "HERRERO RUIZ, MARKEL": 90,
+    "DOMINGUEZ MARUGAY, BEÑAT": 90,
+    "RAMOS LUCAS, UNAI": 62,
+    "SUSTATXA PEREZ, MIKEL": 62,
+    "GONZALEZ SARACHO, INHAR": 90,
+    "CHAVARRI GORBEÑA, KERMAN": 90,
+    "URQUIJO ABIEGA, IGOR": 90,
+    "GONZÁLEZ VIEJO, GORKA": 90,
+    "JIMENEZ LOPEZ, YERAY": 27,
+    "ARANA ETXEBARRIA, UNAI": 27,
+    "INTXAURRANDIETA LANDEA, AMETS": 63,
+    "SOJO FERNANDEZ, JULEN": 63,
+    "GUTIERREZ SANTAMARIA, AIMAR": 28,
+    "ECHARRI CONDE, LUIS": 28
+  },
+  "portero_local": "VELASCO GIL, MARTIN",
+  "portero_visitante": "SETIEN GOMEZ, DIEGO",
+  "dorsales_local": {
+    "VELASCO GIL, MARTIN": 1,
+    "GUTIÉRREZ FERNÁNDEZ, DANEL": 3,
+    "PALOMA URGILES, JOHAN": 5,
+    "LOPEZ FERNANDEZ, JON": 7,
+    "LUNA SANTOS, YAREI": 8,
+    "GORDILLO VEGA, JOHAN": 9,
+    "VARONA PEÑALBA, PEIO": 11,
+    "PLATAS VELASCO, MARKEL": 12,
+    "MARTIN GOMES, IKER": 15,
+    "IGLESIAS ORUE, ANDONI": 18,
+    "RUIZ SAINZ-MAZA, RICARDO": 22
+  },
+  "dorsales_visitante": {
+    "SETIEN GOMEZ, DIEGO": 13,
+    "HERRERO RUIZ, MARKEL": 4,
+    "DOMINGUEZ MARUGAY, BEÑAT": 6,
+    "RAMOS LUCAS, UNAI": 10,
+    "SUSTATXA PEREZ, MIKEL": 11,
+    "GONZALEZ SARACHO, INHAR": 14,
+    "CHAVARRI GORBEÑA, KERMAN": 16,
+    "URQUIJO ABIEGA, IGOR": 17,
+    "GONZÁLEZ VIEJO, GORKA": 18,
+    "JIMENEZ LOPEZ, YERAY": 21,
+    "ARANA ETXEBARRIA, UNAI": 22
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
