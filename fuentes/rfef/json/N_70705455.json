@@ -1,0 +1,331 @@
+{
+  "acta_id": "N_70705455",
+  "filename": "Acta_N_70705455.txt",
+  "fuente": "rfef",
+  "temporada": "2026-2027",
+  "jornada": 1,
+  "fecha": "29-10-2026",
+  "hora": "20:00",
+  "categoria": "Campeonato de España / Copa de SM el Rey (Campeonato de España / Copa de SM el Rey)",
+  "equipo_local": "UB CONQUENSE",
+  "equipo_visitante": "CD CASTELLÓN",
+  "goles_local": 0,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ÁRBITRO",
+    "ROMERO FREIXAS, GONZALO",
+    "ÁRBITRO ASISTENTE",
+    "VIGO GATIUS, JOSEP ANTONI",
+    "ÁRBITRO ASISTENTE",
+    "SANZ GARCÍA, ÁLVARO",
+    "CUARTO ÁRBITRO",
+    "ROCA ROBLES, JUAN FRANCISCO"
+  ],
+  "estadio": "Estadio La Fuensanta",
+  "ciudad": "Cuenca",
+  "goleadores": [
+    {
+      "minuto": 34,
+      "jugador": "GARCIA ARANA, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 35,
+      "jugador": "GALA, ANTONIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 53,
+      "jugador": "GARCIA ARANA, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 29,
+      "jugador": "DIOUF NDIAYE, KEVIN ALEXANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 61,
+      "jugador": "PEREA MOSQUERA, SANTIAGO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 41,
+      "jugador": "ALCAZAR MORENO, LUCAS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 56,
+      "jugador": "GALA, ANTONIO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 79,
+      "jugador": "KOITA, MOUSSA MOHAMED",
+      "equipo": "local",
+      "tipo": "roja",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 52,
+      "jugador": "CONDE GÓMEZ, MARTÍN",
+      "equipo": "visitante",
+      "tipo": "roja",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "HERNÁNDEZ DOMÍNGUEZ, PABLO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": "RIPOLLES GIL, SERGI",
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": null,
+  "delegado_equipo_visitante": "COGOLLOS ROSELL, BERNARDO",
+  "titulares_local": [
+    "ATANES REKELHOF, DANI",
+    "GARCIA DEL OLMO, ALEJANDRO",
+    "ALCIRA MARCO, ALEJANDRO",
+    "PEREA MOSQUERA, SANTIAGO",
+    "CHAVERRA RIVAS, LUIS CARLOS",
+    "KOITA, MOUSSA MOHAMED",
+    "TERMA ROVIRA, GUILLEM",
+    "GARCIA MERENCIO, ALVARO",
+    "HERRERA PRESCOTT, GUSTAVO ELOY",
+    "GOMES, VIQUE DOMINGOS",
+    "DIOUF NDIAYE, KEVIN ALEXANDER"
+  ],
+  "titulares_visitante": [
+    "SAIPI, AMIR",
+    "SANCHEZ SANCHEZ, RAUL",
+    "CECCHERINI, FEDERICO",
+    "ALCAZAR MORENO, LUCAS",
+    "KOSTIS, ILIAS",
+    "BELLARI, HAMZA",
+    "CONDE GÓMEZ, MARTÍN",
+    "GARCIA ARANA, ALVARO",
+    "VLAK, JARI THEODORUS ANTONIUS MARIA",
+    "FERREIRA REGO, RODRIGO MIGUEL",
+    "GALA, ANTONIO"
+  ],
+  "suplentes_local": [
+    "PEREZ GALIANO, ADRIAN",
+    "PESCADOR CABALLERO, RAUL",
+    "OLIVARES VALVERDE, PABLO",
+    "SANCHEZ GUTIERREZ, ALVARO",
+    "AMOUD, ABDERRAHIM",
+    "LOPEZ GARROTE, ADRIAN",
+    "GONZALEZ CASADO, MARIO",
+    "NOMAYO NOMAYO, WILFRED EGHOSA",
+    "BALLA, HENRI CLAUDE",
+    "NEIRA FERNANDEZ, SERGIO",
+    "CORROCHANO CALDERON, MANUEL",
+    "SAMBO, ABDULLAI"
+  ],
+  "suplentes_visitante": [
+    "TORNER ROSELL, SERGI",
+    "MATTHYS, ROMAIN CHRISTOPHE J.",
+    "OROZCO LOPEZ, MATIAS YUSETH",
+    "MARTIN DE FRIAS, ALVARO",
+    "MELLOT, JEREMY",
+    "NZANZA, DAVID MUALE",
+    "WILLMANN, MICHAL MATEUSZ",
+    "ALBIOL GINER, OSCAR",
+    "PEREZ MENENDEZ, AXEL",
+    "PEREZ VIZUETE, JAIME",
+    "NADAL SANCHIS, JOSE",
+    "PORTELA JUAN, MANUEL"
+  ],
+  "convocados_sin_jugar_local": [
+    "PEREZ GALIANO, ADRIAN",
+    "OLIVARES VALVERDE, PABLO",
+    "AMOUD, ABDERRAHIM",
+    "LOPEZ GARROTE, ADRIAN",
+    "GONZALEZ CASADO, MARIO",
+    "BALLA, HENRI CLAUDE",
+    "CORROCHANO CALDERON, MANUEL"
+  ],
+  "convocados_sin_jugar_visitante": [
+    "TORNER ROSELL, SERGI",
+    "MATTHYS, ROMAIN CHRISTOPHE J.",
+    "MARTIN DE FRIAS, ALVARO",
+    "MELLOT, JEREMY",
+    "PEREZ MENENDEZ, AXEL",
+    "PEREZ VIZUETE, JAIME",
+    "PORTELA JUAN, MANUEL"
+  ],
+  "jugadores_local": [
+    "ATANES REKELHOF, DANI",
+    "GARCIA DEL OLMO, ALEJANDRO",
+    "ALCIRA MARCO, ALEJANDRO",
+    "PEREA MOSQUERA, SANTIAGO",
+    "CHAVERRA RIVAS, LUIS CARLOS",
+    "KOITA, MOUSSA MOHAMED",
+    "TERMA ROVIRA, GUILLEM",
+    "GARCIA MERENCIO, ALVARO",
+    "HERRERA PRESCOTT, GUSTAVO ELOY",
+    "GOMES, VIQUE DOMINGOS",
+    "DIOUF NDIAYE, KEVIN ALEXANDER",
+    "PESCADOR CABALLERO, RAUL",
+    "NOMAYO NOMAYO, WILFRED EGHOSA",
+    "SANCHEZ GUTIERREZ, ALVARO",
+    "SAMBO, ABDULLAI",
+    "NEIRA FERNANDEZ, SERGIO"
+  ],
+  "jugadores_visitante": [
+    "SAIPI, AMIR",
+    "SANCHEZ SANCHEZ, RAUL",
+    "CECCHERINI, FEDERICO",
+    "ALCAZAR MORENO, LUCAS",
+    "KOSTIS, ILIAS",
+    "BELLARI, HAMZA",
+    "CONDE GÓMEZ, MARTÍN",
+    "GARCIA ARANA, ALVARO",
+    "VLAK, JARI THEODORUS ANTONIUS MARIA",
+    "FERREIRA REGO, RODRIGO MIGUEL",
+    "GALA, ANTONIO",
+    "WILLMANN, MICHAL MATEUSZ",
+    "OROZCO LOPEZ, MATIAS YUSETH",
+    "NZANZA, DAVID MUALE",
+    "NADAL SANCHIS, JOSE",
+    "ALBIOL GINER, OSCAR"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 60,
+      "entra": "PESCADOR CABALLERO, RAUL",
+      "sale": "GARCIA DEL OLMO, ALEJANDRO"
+    },
+    {
+      "min": 60,
+      "entra": "NOMAYO NOMAYO, WILFRED EGHOSA",
+      "sale": "DIOUF NDIAYE, KEVIN ALEXANDER"
+    },
+    {
+      "min": 60,
+      "entra": "SANCHEZ GUTIERREZ, ALVARO",
+      "sale": "HERRERA PRESCOTT, GUSTAVO ELOY"
+    },
+    {
+      "min": 71,
+      "entra": "SAMBO, ABDULLAI",
+      "sale": "PEREA MOSQUERA, SANTIAGO"
+    },
+    {
+      "min": 76,
+      "entra": "NEIRA FERNANDEZ, SERGIO",
+      "sale": "GARCIA MERENCIO, ALVARO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 60,
+      "entra": "WILLMANN, MICHAL MATEUSZ",
+      "sale": "ALCAZAR MORENO, LUCAS"
+    },
+    {
+      "min": 60,
+      "entra": "OROZCO LOPEZ, MATIAS YUSETH",
+      "sale": "GALA, ANTONIO"
+    },
+    {
+      "min": 71,
+      "entra": "NZANZA, DAVID MUALE",
+      "sale": "GARCIA ARANA, ALVARO"
+    },
+    {
+      "min": 71,
+      "entra": "NADAL SANCHIS, JOSE",
+      "sale": "FERREIRA REGO, RODRIGO MIGUEL"
+    },
+    {
+      "min": 82,
+      "entra": "ALBIOL GINER, OSCAR",
+      "sale": "BELLARI, HAMZA"
+    }
+  ],
+  "minutos_jugadores": {
+    "ATANES REKELHOF, DANI": 90,
+    "GARCIA DEL OLMO, ALEJANDRO": 60,
+    "ALCIRA MARCO, ALEJANDRO": 90,
+    "PEREA MOSQUERA, SANTIAGO": 71,
+    "CHAVERRA RIVAS, LUIS CARLOS": 90,
+    "KOITA, MOUSSA MOHAMED": 90,
+    "TERMA ROVIRA, GUILLEM": 90,
+    "GARCIA MERENCIO, ALVARO": 76,
+    "HERRERA PRESCOTT, GUSTAVO ELOY": 60,
+    "GOMES, VIQUE DOMINGOS": 90,
+    "DIOUF NDIAYE, KEVIN ALEXANDER": 60,
+    "SAIPI, AMIR": 90,
+    "SANCHEZ SANCHEZ, RAUL": 90,
+    "CECCHERINI, FEDERICO": 90,
+    "ALCAZAR MORENO, LUCAS": 60,
+    "KOSTIS, ILIAS": 90,
+    "BELLARI, HAMZA": 82,
+    "CONDE GÓMEZ, MARTÍN": 90,
+    "GARCIA ARANA, ALVARO": 71,
+    "VLAK, JARI THEODORUS ANTONIUS MARIA": 90,
+    "FERREIRA REGO, RODRIGO MIGUEL": 71,
+    "GALA, ANTONIO": 60,
+    "PESCADOR CABALLERO, RAUL": 30,
+    "NOMAYO NOMAYO, WILFRED EGHOSA": 30,
+    "SANCHEZ GUTIERREZ, ALVARO": 30,
+    "SAMBO, ABDULLAI": 19,
+    "NEIRA FERNANDEZ, SERGIO": 14,
+    "WILLMANN, MICHAL MATEUSZ": 30,
+    "OROZCO LOPEZ, MATIAS YUSETH": 30,
+    "NZANZA, DAVID MUALE": 19,
+    "NADAL SANCHIS, JOSE": 19,
+    "ALBIOL GINER, OSCAR": 8
+  },
+  "portero_local": "ATANES REKELHOF, DANI",
+  "portero_visitante": "SAIPI, AMIR",
+  "dorsales_local": {
+    "ATANES REKELHOF, DANI": 1,
+    "GARCIA DEL OLMO, ALEJANDRO": 2,
+    "ALCIRA MARCO, ALEJANDRO": 3,
+    "PEREA MOSQUERA, SANTIAGO": 4,
+    "CHAVERRA RIVAS, LUIS CARLOS": 11,
+    "KOITA, MOUSSA MOHAMED": 15,
+    "TERMA ROVIRA, GUILLEM": 16,
+    "GARCIA MERENCIO, ALVARO": 17,
+    "HERRERA PRESCOTT, GUSTAVO ELOY": 18,
+    "GOMES, VIQUE DOMINGOS": 22,
+    "DIOUF NDIAYE, KEVIN ALEXANDER": 29
+  },
+  "dorsales_visitante": {
+    "SAIPI, AMIR": 1,
+    "SANCHEZ SANCHEZ, RAUL": 7,
+    "CECCHERINI, FEDERICO": 11,
+    "ALCAZAR MORENO, LUCAS": 12,
+    "KOSTIS, ILIAS": 15,
+    "BELLARI, HAMZA": 19,
+    "CONDE GÓMEZ, MARTÍN": 20,
+    "GARCIA ARANA, ALVARO": 23,
+    "VLAK, JARI THEODORUS ANTONIUS MARIA": 25,
+    "FERREIRA REGO, RODRIGO MIGUEL": 26,
+    "GALA, ANTONIO": 27
+  },
+  "suspendidos": [
+    "KOITA, MOUSSA MOHAMED",
+    "CONDE GÓMEZ, MARTÍN"
+  ],
+  "_marcador_widget": true
+}
