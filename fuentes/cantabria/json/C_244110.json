@@ -1,0 +1,242 @@
+{
+  "acta_id": "C_244110",
+  "filename": "Acta_C_244110.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "25-10-2026",
+  "hora": "12:00",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "AYRON CLUB A",
+  "equipo_visitante": "C.D. AMISTAD SNIACE A",
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "REVILLA GÓMEZ, MARIO"
+  ],
+  "estadio": "Vargas",
+  "ciudad": "Puente Viesgo",
+  "goleadores": [
+    {
+      "minuto": 57,
+      "jugador": "GONZALEZ IBAÑEZ, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 69,
+      "jugador": "MALLAVIA PEREZ, NICOLAS",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 47,
+      "jugador": "PELAYO RUIZ, BORJA",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "EXPÓSITO REVUELTA, ABEL",
+  "entrenador_visitante": "PEREZ MARTINEZ, LORENZO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "FERNANDEZ DE CAL DELGADO, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "FERNANDEZ DE CAL DELGADO, JAVIER",
+  "delegado_equipo_visitante": null,
+  "titulares_local": [
+    "PELAYO FERNANDEZ, CRISTIAN",
+    "ALDACO PILA, MATEO",
+    "TRUEBA VALDOR, MARIO",
+    "GARCÍA FERNÁNDEZ, HÉCTOR",
+    "PELAYO RUIZ, BORJA",
+    "EXPÓSITO GÓMEZ, DAVID",
+    "SAINZ MARTIN, JAVIER",
+    "SANTAMARÍA GONZÁLEZ, BRUNO",
+    "GANDIAGA COS, MARCO",
+    "RUIZ MANTECA, PABLO",
+    "PEREZ PAREJA, JUAN"
+  ],
+  "titulares_visitante": [
+    "SANTANDER GONZALEZ, OLIVER",
+    "TORRES ORUÑA, GUILLERMO",
+    "GOMEZ DIAZ, ENZO",
+    "PEÑA DIAZ, OLIVER",
+    "FERNÁNDEZ MIER, ERNESTO",
+    "URANGA FEIJOO, JON",
+    "LASO MARTINEZ, LEO",
+    "GONZALEZ OTERO, LEO",
+    "MALLAVIA PEREZ, NICOLAS",
+    "EGUSQUIZA HIGUERA, LUIS",
+    "LOPEZ LOPEZ, CARLO"
+  ],
+  "suplentes_local": [
+    "VILLEGAS CARRAL, LUCAS",
+    "SIERRA CERRO, LEO",
+    "LOPEZ GARCIA, HUGO",
+    "RIAÑO GUTIÉRREZ, OLIVER",
+    "SANCHEZ CRESPO, JAIRO"
+  ],
+  "suplentes_visitante": [
+    "CUEVAS TERAN, LUIS",
+    "GARCIA OBESO, LEO",
+    "ESCUDERO SAIZ, NICOLAS",
+    "GONZALEZ IBAÑEZ, PABLO"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PELAYO FERNANDEZ, CRISTIAN",
+    "ALDACO PILA, MATEO",
+    "TRUEBA VALDOR, MARIO",
+    "GARCÍA FERNÁNDEZ, HÉCTOR",
+    "PELAYO RUIZ, BORJA",
+    "EXPÓSITO GÓMEZ, DAVID",
+    "SAINZ MARTIN, JAVIER",
+    "SANTAMARÍA GONZÁLEZ, BRUNO",
+    "GANDIAGA COS, MARCO",
+    "RUIZ MANTECA, PABLO",
+    "PEREZ PAREJA, JUAN",
+    "LOPEZ GARCIA, HUGO",
+    "VILLEGAS CARRAL, LUCAS",
+    "SANCHEZ CRESPO, JAIRO",
+    "RIAÑO GUTIÉRREZ, OLIVER",
+    "SIERRA CERRO, LEO"
+  ],
+  "jugadores_visitante": [
+    "SANTANDER GONZALEZ, OLIVER",
+    "TORRES ORUÑA, GUILLERMO",
+    "GOMEZ DIAZ, ENZO",
+    "PEÑA DIAZ, OLIVER",
+    "FERNÁNDEZ MIER, ERNESTO",
+    "URANGA FEIJOO, JON",
+    "LASO MARTINEZ, LEO",
+    "GONZALEZ OTERO, LEO",
+    "MALLAVIA PEREZ, NICOLAS",
+    "EGUSQUIZA HIGUERA, LUIS",
+    "LOPEZ LOPEZ, CARLO",
+    "CUEVAS TERAN, LUIS",
+    "GARCIA OBESO, LEO",
+    "GONZALEZ IBAÑEZ, PABLO",
+    "ESCUDERO SAIZ, NICOLAS"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 39,
+      "entra": "LOPEZ GARCIA, HUGO",
+      "sale": "GANDIAGA COS, MARCO"
+    },
+    {
+      "min": 48,
+      "entra": "VILLEGAS CARRAL, LUCAS",
+      "sale": "ALDACO PILA, MATEO"
+    },
+    {
+      "min": 54,
+      "entra": "SANCHEZ CRESPO, JAIRO",
+      "sale": "PEREZ PAREJA, JUAN"
+    },
+    {
+      "min": 54,
+      "entra": "RIAÑO GUTIÉRREZ, OLIVER",
+      "sale": "EXPÓSITO GÓMEZ, DAVID"
+    },
+    {
+      "min": 59,
+      "entra": "SIERRA CERRO, LEO",
+      "sale": "GARCÍA FERNÁNDEZ, HÉCTOR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "CUEVAS TERAN, LUIS",
+      "sale": "SANTANDER GONZALEZ, OLIVER"
+    },
+    {
+      "min": 44,
+      "entra": "GARCIA OBESO, LEO",
+      "sale": "URANGA FEIJOO, JON"
+    },
+    {
+      "min": 53,
+      "entra": "GONZALEZ IBAÑEZ, PABLO",
+      "sale": "EGUSQUIZA HIGUERA, LUIS"
+    },
+    {
+      "min": 54,
+      "entra": "ESCUDERO SAIZ, NICOLAS",
+      "sale": "GONZALEZ OTERO, LEO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PELAYO FERNANDEZ, CRISTIAN": 90,
+    "ALDACO PILA, MATEO": 48,
+    "TRUEBA VALDOR, MARIO": 90,
+    "GARCÍA FERNÁNDEZ, HÉCTOR": 59,
+    "PELAYO RUIZ, BORJA": 90,
+    "EXPÓSITO GÓMEZ, DAVID": 54,
+    "SAINZ MARTIN, JAVIER": 90,
+    "SANTAMARÍA GONZÁLEZ, BRUNO": 90,
+    "GANDIAGA COS, MARCO": 39,
+    "RUIZ MANTECA, PABLO": 90,
+    "PEREZ PAREJA, JUAN": 54,
+    "LOPEZ GARCIA, HUGO": 51,
+    "VILLEGAS CARRAL, LUCAS": 42,
+    "SANCHEZ CRESPO, JAIRO": 36,
+    "RIAÑO GUTIÉRREZ, OLIVER": 36,
+    "SIERRA CERRO, LEO": 31,
+    "SANTANDER GONZALEZ, OLIVER": 35,
+    "TORRES ORUÑA, GUILLERMO": 90,
+    "GOMEZ DIAZ, ENZO": 90,
+    "PEÑA DIAZ, OLIVER": 90,
+    "FERNÁNDEZ MIER, ERNESTO": 90,
+    "URANGA FEIJOO, JON": 44,
+    "LASO MARTINEZ, LEO": 90,
+    "GONZALEZ OTERO, LEO": 54,
+    "MALLAVIA PEREZ, NICOLAS": 90,
+    "EGUSQUIZA HIGUERA, LUIS": 53,
+    "LOPEZ LOPEZ, CARLO": 90,
+    "CUEVAS TERAN, LUIS": 55,
+    "GARCIA OBESO, LEO": 46,
+    "GONZALEZ IBAÑEZ, PABLO": 37,
+    "ESCUDERO SAIZ, NICOLAS": 36
+  },
+  "portero_local": "PELAYO FERNANDEZ, CRISTIAN",
+  "portero_visitante": "SANTANDER GONZALEZ, OLIVER",
+  "dorsales_local": {
+    "PELAYO FERNANDEZ, CRISTIAN": 1,
+    "ALDACO PILA, MATEO": 4,
+    "TRUEBA VALDOR, MARIO": 5,
+    "GARCÍA FERNÁNDEZ, HÉCTOR": 6,
+    "PELAYO RUIZ, BORJA": 7,
+    "EXPÓSITO GÓMEZ, DAVID": 8,
+    "SAINZ MARTIN, JAVIER": 9,
+    "SANTAMARÍA GONZÁLEZ, BRUNO": 10,
+    "GANDIAGA COS, MARCO": 11,
+    "RUIZ MANTECA, PABLO": 12,
+    "PEREZ PAREJA, JUAN": 20
+  },
+  "dorsales_visitante": {
+    "SANTANDER GONZALEZ, OLIVER": 13,
+    "TORRES ORUÑA, GUILLERMO": 2,
+    "GOMEZ DIAZ, ENZO": 4,
+    "PEÑA DIAZ, OLIVER": 5,
+    "FERNÁNDEZ MIER, ERNESTO": 7,
+    "URANGA FEIJOO, JON": 8,
+    "LASO MARTINEZ, LEO": 10,
+    "GONZALEZ OTERO, LEO": 11,
+    "MALLAVIA PEREZ, NICOLAS": 12,
+    "EGUSQUIZA HIGUERA, LUIS": 16,
+    "LOPEZ LOPEZ, CARLO": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
