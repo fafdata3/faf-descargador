@@ -1,0 +1,271 @@
+{
+  "acta_id": "C_244114",
+  "filename": "Acta_C_244114.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 7,
+  "fecha": "31-10-2026",
+  "hora": "13:20",
+  "categoria": "PRIMERA INFANTIL (UNICO)",
+  "equipo_local": "U.D. SAMANO A",
+  "equipo_visitante": "C.D. BEZANA A",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "resultado": "D",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "SAN ROMÁN MACHÍN, ELOY"
+  ],
+  "estadio": "Sámano",
+  "ciudad": "Castro-Urdiales",
+  "goleadores": [
+    {
+      "minuto": 22,
+      "jugador": "ESCOBEDO LOPEZ, ALVARO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 37,
+      "jugador": "RIVAS ANGUITA, ALAIN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 54,
+      "jugador": "CABRIA MACHO, LUISMI",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 70,
+      "jugador": "GONZALEZ IGLESIAS, IKER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 63,
+      "jugador": "BENEDITED RUIZ, HUGO",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 999,
+      "jugador": "VELEZ ALDACO, JOSE LUIS",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "entrenador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "VELEZ ALDACO, JOSE LUIS",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "ARANA VIZCAYA, IKER",
+  "delegado_equipo_visitante": "GARCIA DIAZ, ADRIAN",
+  "titulares_local": [
+    "DEL CAMPO GARCIA, MARTIN",
+    "SUAREZ GOMEZ, OSCAR",
+    "CARTON SAINZ, ALEX",
+    "ZULOAGA GARMENDIA, DIEGO",
+    "CUESTA GUTIERREZ, OLIVER",
+    "GALLEGO GONZALEZ, DAVID",
+    "RIVAS ANGUITA, ALAIN",
+    "QUINTANA GONZALEZ, XABIER",
+    "CANALES URQUIJO, ENRIQUE",
+    "ZABALLA RUIZ, OIER",
+    "LLAVE MORA, HUGO"
+  ],
+  "titulares_visitante": [
+    "ODRIOZOLA SAN SEGUNDO, LUCA",
+    "BENEDITED RUIZ, HUGO",
+    "CRESPO CONDEZO, JADEL",
+    "ESCOBEDO LOPEZ, ALVARO",
+    "STOENESCU, GABRIEL",
+    "DOBARGANES SAIZ, JULEN",
+    "SOLANO ROJO, DARIO",
+    "CAMPO MAGAZ, MARCO",
+    "CABRIA MACHO, LUISMI",
+    "RODRIGUEZ PALACIN, NICOLAS",
+    "LLATA CASAL, ENZO"
+  ],
+  "suplentes_local": [
+    "GARCIA VILLACORTA, HUGO",
+    "GONZALEZ IGLESIAS, IKER",
+    "ALVAREZ HUERGA, ERIC",
+    "BARRENA PALACIO, ANDER",
+    "GRIGUTA, CASIAN"
+  ],
+  "suplentes_visitante": [
+    "HERRERA MORENO, LUCA",
+    "ODRIOZOLA SAN SEGUNDO, MARCO",
+    "LOPEZ HERRERA, FRANCISCO",
+    "FERNANDEZ RUIZ, MARIO",
+    "GARCIA PEREZ, DAVID"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "DEL CAMPO GARCIA, MARTIN",
+    "SUAREZ GOMEZ, OSCAR",
+    "CARTON SAINZ, ALEX",
+    "ZULOAGA GARMENDIA, DIEGO",
+    "CUESTA GUTIERREZ, OLIVER",
+    "GALLEGO GONZALEZ, DAVID",
+    "RIVAS ANGUITA, ALAIN",
+    "QUINTANA GONZALEZ, XABIER",
+    "CANALES URQUIJO, ENRIQUE",
+    "ZABALLA RUIZ, OIER",
+    "LLAVE MORA, HUGO",
+    "GONZALEZ IGLESIAS, IKER",
+    "BARRENA PALACIO, ANDER",
+    "ALVAREZ HUERGA, ERIC",
+    "GARCIA VILLACORTA, HUGO",
+    "GRIGUTA, CASIAN"
+  ],
+  "jugadores_visitante": [
+    "ODRIOZOLA SAN SEGUNDO, LUCA",
+    "BENEDITED RUIZ, HUGO",
+    "CRESPO CONDEZO, JADEL",
+    "ESCOBEDO LOPEZ, ALVARO",
+    "STOENESCU, GABRIEL",
+    "DOBARGANES SAIZ, JULEN",
+    "SOLANO ROJO, DARIO",
+    "CAMPO MAGAZ, MARCO",
+    "CABRIA MACHO, LUISMI",
+    "RODRIGUEZ PALACIN, NICOLAS",
+    "LLATA CASAL, ENZO",
+    "HERRERA MORENO, LUCA",
+    "GARCIA PEREZ, DAVID",
+    "LOPEZ HERRERA, FRANCISCO",
+    "FERNANDEZ RUIZ, MARIO",
+    "ODRIOZOLA SAN SEGUNDO, MARCO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 44,
+      "entra": "GONZALEZ IGLESIAS, IKER",
+      "sale": "CARTON SAINZ, ALEX"
+    },
+    {
+      "min": 44,
+      "entra": "BARRENA PALACIO, ANDER",
+      "sale": "CANALES URQUIJO, ENRIQUE"
+    },
+    {
+      "min": 55,
+      "entra": "ALVAREZ HUERGA, ERIC",
+      "sale": "ZABALLA RUIZ, OIER"
+    },
+    {
+      "min": 61,
+      "entra": "GARCIA VILLACORTA, HUGO",
+      "sale": "RIVAS ANGUITA, ALAIN"
+    },
+    {
+      "min": 61,
+      "entra": "GRIGUTA, CASIAN",
+      "sale": "SUAREZ GOMEZ, OSCAR"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "HERRERA MORENO, LUCA",
+      "sale": "ODRIOZOLA SAN SEGUNDO, LUCA"
+    },
+    {
+      "min": 44,
+      "entra": "GARCIA PEREZ, DAVID",
+      "sale": "CAMPO MAGAZ, MARCO"
+    },
+    {
+      "min": 52,
+      "entra": "LOPEZ HERRERA, FRANCISCO",
+      "sale": "LLATA CASAL, ENZO"
+    },
+    {
+      "min": 61,
+      "entra": "FERNANDEZ RUIZ, MARIO",
+      "sale": "RODRIGUEZ PALACIN, NICOLAS"
+    },
+    {
+      "min": 63,
+      "entra": "ODRIOZOLA SAN SEGUNDO, MARCO",
+      "sale": "ESCOBEDO LOPEZ, ALVARO"
+    }
+  ],
+  "minutos_jugadores": {
+    "DEL CAMPO GARCIA, MARTIN": 90,
+    "SUAREZ GOMEZ, OSCAR": 61,
+    "CARTON SAINZ, ALEX": 44,
+    "ZULOAGA GARMENDIA, DIEGO": 90,
+    "CUESTA GUTIERREZ, OLIVER": 90,
+    "GALLEGO GONZALEZ, DAVID": 90,
+    "RIVAS ANGUITA, ALAIN": 61,
+    "QUINTANA GONZALEZ, XABIER": 90,
+    "CANALES URQUIJO, ENRIQUE": 44,
+    "ZABALLA RUIZ, OIER": 55,
+    "LLAVE MORA, HUGO": 90,
+    "GONZALEZ IGLESIAS, IKER": 46,
+    "BARRENA PALACIO, ANDER": 46,
+    "ALVAREZ HUERGA, ERIC": 35,
+    "GARCIA VILLACORTA, HUGO": 29,
+    "GRIGUTA, CASIAN": 29,
+    "ODRIOZOLA SAN SEGUNDO, LUCA": 35,
+    "BENEDITED RUIZ, HUGO": 90,
+    "CRESPO CONDEZO, JADEL": 90,
+    "ESCOBEDO LOPEZ, ALVARO": 63,
+    "STOENESCU, GABRIEL": 90,
+    "DOBARGANES SAIZ, JULEN": 90,
+    "SOLANO ROJO, DARIO": 90,
+    "CAMPO MAGAZ, MARCO": 44,
+    "CABRIA MACHO, LUISMI": 90,
+    "RODRIGUEZ PALACIN, NICOLAS": 61,
+    "LLATA CASAL, ENZO": 52,
+    "HERRERA MORENO, LUCA": 55,
+    "GARCIA PEREZ, DAVID": 46,
+    "LOPEZ HERRERA, FRANCISCO": 38,
+    "FERNANDEZ RUIZ, MARIO": 29,
+    "ODRIOZOLA SAN SEGUNDO, MARCO": 27
+  },
+  "portero_local": "DEL CAMPO GARCIA, MARTIN",
+  "portero_visitante": "ODRIOZOLA SAN SEGUNDO, LUCA",
+  "dorsales_local": {
+    "DEL CAMPO GARCIA, MARTIN": 13,
+    "SUAREZ GOMEZ, OSCAR": 10,
+    "CARTON SAINZ, ALEX": 11,
+    "ZULOAGA GARMENDIA, DIEGO": 14,
+    "CUESTA GUTIERREZ, OLIVER": 15,
+    "GALLEGO GONZALEZ, DAVID": 18,
+    "RIVAS ANGUITA, ALAIN": 20,
+    "QUINTANA GONZALEZ, XABIER": 71,
+    "CANALES URQUIJO, ENRIQUE": 77,
+    "ZABALLA RUIZ, OIER": 78,
+    "LLAVE MORA, HUGO": 80
+  },
+  "dorsales_visitante": {
+    "ODRIOZOLA SAN SEGUNDO, LUCA": 1,
+    "BENEDITED RUIZ, HUGO": 2,
+    "CRESPO CONDEZO, JADEL": 3,
+    "ESCOBEDO LOPEZ, ALVARO": 4,
+    "STOENESCU, GABRIEL": 5,
+    "DOBARGANES SAIZ, JULEN": 6,
+    "SOLANO ROJO, DARIO": 7,
+    "CAMPO MAGAZ, MARCO": 8,
+    "CABRIA MACHO, LUISMI": 9,
+    "RODRIGUEZ PALACIN, NICOLAS": 10,
+    "LLATA CASAL, ENZO": 11
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
