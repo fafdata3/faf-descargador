@@ -1,0 +1,269 @@
+{
+  "acta_id": "C_244361",
+  "filename": "Acta_C_244361.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 8,
+  "fecha": "07-11-2026",
+  "hora": "11:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO A)",
+  "equipo_local": "C.D. CALASANZ A",
+  "equipo_visitante": "C.D. CASTROVERDE A",
+  "goles_local": 9,
+  "goles_visitante": 0,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "GHINDA GHINDA, DAVID"
+  ],
+  "estadio": "Comp. Albericia (B)",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 3,
+      "jugador": "ARROYO MARTIN, RAFAEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 8,
+      "jugador": "MESONES GONZALEZ, DANIEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "GUAN, XIAOKAI",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 13,
+      "jugador": "VILLEGAS CARDENAL, DIEGO",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "ASPRILLA CASTAÑO, JUAN MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "ASPRILLA CASTAÑO, JUAN MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 50,
+      "jugador": "VILLEGAS CARDENAL, DIEGO",
+      "equipo": "local",
+      "propia": true,
+      "penalti": false
+    },
+    {
+      "minuto": 62,
+      "jugador": "ASPRILLA CASTAÑO, JUAN MANUEL",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "POZUETA SANGSTER, LIAM ALEXANDER",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 51,
+      "jugador": "POZUETA SANGSTER, LIAM ALEXANDER",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    },
+    {
+      "minuto": 64,
+      "jugador": "MARTIN PRADERA, PABLO MIGUEL",
+      "equipo": "visitante",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": null,
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "PEÑA RUIZ, IVAN",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "CERVILLA SANTIBAÑEZ, MARIO",
+  "delegado_equipo_visitante": "ARENAL PEREZ, SAMUEL",
+  "titulares_local": [
+    "MENOCAL LOPEZ, FERNANDO",
+    "POZUETA SANGSTER, LIAM ALEXANDER",
+    "CAMPOLLO MARTIN, RODRIGO",
+    "POMBO GONZALEZ, ANDRES",
+    "DOMINGUEZ MESONES, LUCAS",
+    "GUAN, XIAOKAI",
+    "MARTINEZ SARACHAGA, MATEO",
+    "LOPEZ PEÑA, ENRIQUE",
+    "ARROYO MARTIN, RAFAEL",
+    "MESONES GONZALEZ, DANIEL",
+    "ASPRILLA CASTAÑO, JUAN MANUEL"
+  ],
+  "titulares_visitante": [
+    "POMBO BECEDONIZ, GUILLERMO",
+    "MONFORT ROYO, PABLO",
+    "RUIZ PUENTE, MATEO",
+    "GARCIA LAMATA, CARLOS",
+    "MONFORT ROYO, JORGE",
+    "PUENTES ARDILA, NELSON ERIC",
+    "LOPEZ MONTES, HUGO",
+    "GONZÁLEZ FERNÁNDEZ, HUGO",
+    "VILLEGAS CARDENAL, DIEGO",
+    "BAEZ FARIÑA, ANDRES MATEO",
+    "MARTIN PRADERA, PABLO MIGUEL"
+  ],
+  "suplentes_local": [
+    "MARTÍN FERNÁNDEZ, FERNANDO",
+    "GOMEZ ROMO, JOSE",
+    "DIAZ PAYNO, RODRIGO"
+  ],
+  "suplentes_visitante": [
+    "PERAMATO CUARTAS, DANIEL",
+    "MARTINEZ BERMUDEZ, SANTIAGO",
+    "GUAZO CALVO, MARTIN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [
+    "GUAZO CALVO, MARTIN"
+  ],
+  "jugadores_local": [
+    "MENOCAL LOPEZ, FERNANDO",
+    "POZUETA SANGSTER, LIAM ALEXANDER",
+    "CAMPOLLO MARTIN, RODRIGO",
+    "POMBO GONZALEZ, ANDRES",
+    "DOMINGUEZ MESONES, LUCAS",
+    "GUAN, XIAOKAI",
+    "MARTINEZ SARACHAGA, MATEO",
+    "LOPEZ PEÑA, ENRIQUE",
+    "ARROYO MARTIN, RAFAEL",
+    "MESONES GONZALEZ, DANIEL",
+    "ASPRILLA CASTAÑO, JUAN MANUEL",
+    "GOMEZ ROMO, JOSE",
+    "DIAZ PAYNO, RODRIGO",
+    "MARTÍN FERNÁNDEZ, FERNANDO"
+  ],
+  "jugadores_visitante": [
+    "POMBO BECEDONIZ, GUILLERMO",
+    "MONFORT ROYO, PABLO",
+    "RUIZ PUENTE, MATEO",
+    "GARCIA LAMATA, CARLOS",
+    "MONFORT ROYO, JORGE",
+    "PUENTES ARDILA, NELSON ERIC",
+    "LOPEZ MONTES, HUGO",
+    "GONZÁLEZ FERNÁNDEZ, HUGO",
+    "VILLEGAS CARDENAL, DIEGO",
+    "BAEZ FARIÑA, ANDRES MATEO",
+    "MARTIN PRADERA, PABLO MIGUEL",
+    "MARTINEZ BERMUDEZ, SANTIAGO",
+    "PERAMATO CUARTAS, DANIEL"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "GOMEZ ROMO, JOSE",
+      "sale": "POMBO GONZALEZ, ANDRES"
+    },
+    {
+      "min": 46,
+      "entra": "DIAZ PAYNO, RODRIGO",
+      "sale": "LOPEZ PEÑA, ENRIQUE"
+    },
+    {
+      "min": 46,
+      "entra": "MARTÍN FERNÁNDEZ, FERNANDO",
+      "sale": "MARTINEZ SARACHAGA, MATEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "MARTINEZ BERMUDEZ, SANTIAGO",
+      "sale": "MONFORT ROYO, JORGE"
+    },
+    {
+      "min": 39,
+      "entra": "PERAMATO CUARTAS, DANIEL",
+      "sale": "BAEZ FARIÑA, ANDRES MATEO"
+    }
+  ],
+  "minutos_jugadores": {
+    "MENOCAL LOPEZ, FERNANDO": 90,
+    "POZUETA SANGSTER, LIAM ALEXANDER": 90,
+    "CAMPOLLO MARTIN, RODRIGO": 90,
+    "POMBO GONZALEZ, ANDRES": 46,
+    "DOMINGUEZ MESONES, LUCAS": 90,
+    "GUAN, XIAOKAI": 90,
+    "MARTINEZ SARACHAGA, MATEO": 46,
+    "LOPEZ PEÑA, ENRIQUE": 46,
+    "ARROYO MARTIN, RAFAEL": 90,
+    "MESONES GONZALEZ, DANIEL": 90,
+    "ASPRILLA CASTAÑO, JUAN MANUEL": 90,
+    "GOMEZ ROMO, JOSE": 44,
+    "DIAZ PAYNO, RODRIGO": 44,
+    "MARTÍN FERNÁNDEZ, FERNANDO": 44,
+    "POMBO BECEDONIZ, GUILLERMO": 90,
+    "MONFORT ROYO, PABLO": 90,
+    "RUIZ PUENTE, MATEO": 90,
+    "GARCIA LAMATA, CARLOS": 90,
+    "MONFORT ROYO, JORGE": 35,
+    "PUENTES ARDILA, NELSON ERIC": 90,
+    "LOPEZ MONTES, HUGO": 90,
+    "GONZÁLEZ FERNÁNDEZ, HUGO": 90,
+    "VILLEGAS CARDENAL, DIEGO": 90,
+    "BAEZ FARIÑA, ANDRES MATEO": 39,
+    "MARTIN PRADERA, PABLO MIGUEL": 90,
+    "MARTINEZ BERMUDEZ, SANTIAGO": 55,
+    "PERAMATO CUARTAS, DANIEL": 51
+  },
+  "portero_local": "MENOCAL LOPEZ, FERNANDO",
+  "portero_visitante": "POMBO BECEDONIZ, GUILLERMO",
+  "dorsales_local": {
+    "MENOCAL LOPEZ, FERNANDO": 1,
+    "POZUETA SANGSTER, LIAM ALEXANDER": 2,
+    "CAMPOLLO MARTIN, RODRIGO": 3,
+    "POMBO GONZALEZ, ANDRES": 4,
+    "DOMINGUEZ MESONES, LUCAS": 5,
+    "GUAN, XIAOKAI": 6,
+    "MARTINEZ SARACHAGA, MATEO": 7,
+    "LOPEZ PEÑA, ENRIQUE": 8,
+    "ARROYO MARTIN, RAFAEL": 9,
+    "MESONES GONZALEZ, DANIEL": 10,
+    "ASPRILLA CASTAÑO, JUAN MANUEL": 11
+  },
+  "dorsales_visitante": {
+    "POMBO BECEDONIZ, GUILLERMO": 1,
+    "MONFORT ROYO, PABLO": 5,
+    "RUIZ PUENTE, MATEO": 7,
+    "GARCIA LAMATA, CARLOS": 10,
+    "MONFORT ROYO, JORGE": 11,
+    "PUENTES ARDILA, NELSON ERIC": 12,
+    "LOPEZ MONTES, HUGO": 16,
+    "GONZÁLEZ FERNÁNDEZ, HUGO": 18,
+    "VILLEGAS CARDENAL, DIEGO": 19,
+    "BAEZ FARIÑA, ANDRES MATEO": 20,
+    "MARTIN PRADERA, PABLO MIGUEL": 21
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
