@@ -1,0 +1,285 @@
+{
+  "acta_id": "C_244364",
+  "filename": "Acta_C_244364.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 8,
+  "fecha": "08-11-2026",
+  "hora": "09:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO A)",
+  "equipo_local": "C.AT. PERINES B",
+  "equipo_visitante": "C.D. MARINA SPORT A",
+  "goles_local": 2,
+  "goles_visitante": 5,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "NUÑEZ RUIZ, ABRAHAM"
+  ],
+  "estadio": "Vicente Miera",
+  "ciudad": "Santander",
+  "goleadores": [
+    {
+      "minuto": 2,
+      "jugador": "PEREZ BUENO, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": true
+    },
+    {
+      "minuto": 6,
+      "jugador": "GOMEZ AROSTEGUI BARRIO, HIAN",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 20,
+      "jugador": "CIPOLLETTI MARTINEZ, ALESSANDRO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 33,
+      "jugador": "RUILOBA VILLA, MARIO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "OREÑA LINS, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 59,
+      "jugador": "OREÑA LINS, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 66,
+      "jugador": "OREÑA LINS, HUGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 38,
+      "jugador": "FERNANDEZ LERENA, LUIS",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "ALCANTARA ARCE, ANDRES",
+  "entrenador_visitante": "ARGOS BOLADO, GONZALO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "PRIETO RUIZ, LUIS",
+  "delegado_equipo_visitante": "ARGOS PARDO, GONZALO",
+  "titulares_local": [
+    "CAGIGAS GOMEZ, LEO",
+    "FERNANDEZ LERENA, LUIS",
+    "BAICU, ADRIAN NICOLAS",
+    "GONZALEZ GUIMAREY, MARIO",
+    "URUEÑA DE LA VEGA, RAUL",
+    "GOMEZ AROSTEGUI BARRIO, HIAN",
+    "MOREL DIANA, EDUARDO RAMÓN",
+    "PEREZ BUENO, MARCO",
+    "LIAÑO VARELA, CARLOS",
+    "HORRILLO CAÑEDO, JONATHAN",
+    "ABARITURIOZ ARRIARAN, ASIER"
+  ],
+  "titulares_visitante": [
+    "PEÑA TEJEDOR, ADRIAN",
+    "RODRIGUEZ CASTAÑEDA, MAURO",
+    "SANZ COBO, MARIO",
+    "VILLANUEVA CARRIL, LIHER",
+    "FERNANDEZ ALVARADO, ADRIAN",
+    "CIPOLLETTI MARTINEZ, ALESSANDRO",
+    "OREÑA LINS, HUGO",
+    "RUILOBA VILLA, MARIO",
+    "SOBALER SANCHEZ, LUCA",
+    "MAMOUN MEÑACA, ABEL KARIM",
+    "ESPADA CASAR, PABLO"
+  ],
+  "suplentes_local": [
+    "DE LA SERNA GARCIA, ADRIAN",
+    "ALONSO BELLOTA, ADRIAN",
+    "DIRU, DANIEL",
+    "DEL CAMPO CHAPADO, IKER",
+    "MODINO ALVAREZ, GALO"
+  ],
+  "suplentes_visitante": [
+    "RODRIGUEZ GOMEZ, NOEL",
+    "ESPINOSA TERAN, MANUEL",
+    "ALVAREZ PEREZ, LUCAS",
+    "LEON ARIAS, ENZO",
+    "GOMEZ OUSTAKH, NEIZAN"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "CAGIGAS GOMEZ, LEO",
+    "FERNANDEZ LERENA, LUIS",
+    "BAICU, ADRIAN NICOLAS",
+    "GONZALEZ GUIMAREY, MARIO",
+    "URUEÑA DE LA VEGA, RAUL",
+    "GOMEZ AROSTEGUI BARRIO, HIAN",
+    "MOREL DIANA, EDUARDO RAMÓN",
+    "PEREZ BUENO, MARCO",
+    "LIAÑO VARELA, CARLOS",
+    "HORRILLO CAÑEDO, JONATHAN",
+    "ABARITURIOZ ARRIARAN, ASIER",
+    "DEL CAMPO CHAPADO, IKER",
+    "ALONSO BELLOTA, ADRIAN",
+    "MODINO ALVAREZ, GALO",
+    "DIRU, DANIEL",
+    "DE LA SERNA GARCIA, ADRIAN"
+  ],
+  "jugadores_visitante": [
+    "PEÑA TEJEDOR, ADRIAN",
+    "RODRIGUEZ CASTAÑEDA, MAURO",
+    "SANZ COBO, MARIO",
+    "VILLANUEVA CARRIL, LIHER",
+    "FERNANDEZ ALVARADO, ADRIAN",
+    "CIPOLLETTI MARTINEZ, ALESSANDRO",
+    "OREÑA LINS, HUGO",
+    "RUILOBA VILLA, MARIO",
+    "SOBALER SANCHEZ, LUCA",
+    "MAMOUN MEÑACA, ABEL KARIM",
+    "ESPADA CASAR, PABLO",
+    "ALVAREZ PEREZ, LUCAS",
+    "RODRIGUEZ GOMEZ, NOEL",
+    "ESPINOSA TERAN, MANUEL",
+    "GOMEZ OUSTAKH, NEIZAN",
+    "LEON ARIAS, ENZO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 46,
+      "entra": "DEL CAMPO CHAPADO, IKER",
+      "sale": "URUEÑA DE LA VEGA, RAUL"
+    },
+    {
+      "min": 50,
+      "entra": "ALONSO BELLOTA, ADRIAN",
+      "sale": "HORRILLO CAÑEDO, JONATHAN"
+    },
+    {
+      "min": 60,
+      "entra": "MODINO ALVAREZ, GALO",
+      "sale": "GONZALEZ GUIMAREY, MARIO"
+    },
+    {
+      "min": 61,
+      "entra": "DIRU, DANIEL",
+      "sale": "LIAÑO VARELA, CARLOS"
+    },
+    {
+      "min": 61,
+      "entra": "DE LA SERNA GARCIA, ADRIAN",
+      "sale": "CAGIGAS GOMEZ, LEO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "ALVAREZ PEREZ, LUCAS",
+      "sale": "FERNANDEZ ALVARADO, ADRIAN"
+    },
+    {
+      "min": 35,
+      "entra": "RODRIGUEZ GOMEZ, NOEL",
+      "sale": "PEÑA TEJEDOR, ADRIAN"
+    },
+    {
+      "min": 35,
+      "entra": "ESPINOSA TERAN, MANUEL",
+      "sale": "SOBALER SANCHEZ, LUCA"
+    },
+    {
+      "min": 42,
+      "entra": "GOMEZ OUSTAKH, NEIZAN",
+      "sale": "MAMOUN MEÑACA, ABEL KARIM"
+    },
+    {
+      "min": 42,
+      "entra": "LEON ARIAS, ENZO",
+      "sale": "RUILOBA VILLA, MARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "CAGIGAS GOMEZ, LEO": 61,
+    "FERNANDEZ LERENA, LUIS": 90,
+    "BAICU, ADRIAN NICOLAS": 90,
+    "GONZALEZ GUIMAREY, MARIO": 60,
+    "URUEÑA DE LA VEGA, RAUL": 46,
+    "GOMEZ AROSTEGUI BARRIO, HIAN": 90,
+    "MOREL DIANA, EDUARDO RAMÓN": 90,
+    "PEREZ BUENO, MARCO": 90,
+    "LIAÑO VARELA, CARLOS": 61,
+    "HORRILLO CAÑEDO, JONATHAN": 50,
+    "ABARITURIOZ ARRIARAN, ASIER": 90,
+    "DEL CAMPO CHAPADO, IKER": 44,
+    "ALONSO BELLOTA, ADRIAN": 40,
+    "MODINO ALVAREZ, GALO": 30,
+    "DIRU, DANIEL": 29,
+    "DE LA SERNA GARCIA, ADRIAN": 29,
+    "PEÑA TEJEDOR, ADRIAN": 35,
+    "RODRIGUEZ CASTAÑEDA, MAURO": 90,
+    "SANZ COBO, MARIO": 90,
+    "VILLANUEVA CARRIL, LIHER": 90,
+    "FERNANDEZ ALVARADO, ADRIAN": 35,
+    "CIPOLLETTI MARTINEZ, ALESSANDRO": 90,
+    "OREÑA LINS, HUGO": 90,
+    "RUILOBA VILLA, MARIO": 42,
+    "SOBALER SANCHEZ, LUCA": 35,
+    "MAMOUN MEÑACA, ABEL KARIM": 42,
+    "ESPADA CASAR, PABLO": 90,
+    "ALVAREZ PEREZ, LUCAS": 55,
+    "RODRIGUEZ GOMEZ, NOEL": 55,
+    "ESPINOSA TERAN, MANUEL": 55,
+    "GOMEZ OUSTAKH, NEIZAN": 48,
+    "LEON ARIAS, ENZO": 48
+  },
+  "portero_local": "CAGIGAS GOMEZ, LEO",
+  "portero_visitante": "PEÑA TEJEDOR, ADRIAN",
+  "dorsales_local": {
+    "CAGIGAS GOMEZ, LEO": 1,
+    "FERNANDEZ LERENA, LUIS": 4,
+    "BAICU, ADRIAN NICOLAS": 5,
+    "GONZALEZ GUIMAREY, MARIO": 6,
+    "URUEÑA DE LA VEGA, RAUL": 7,
+    "GOMEZ AROSTEGUI BARRIO, HIAN": 8,
+    "MOREL DIANA, EDUARDO RAMÓN": 9,
+    "PEREZ BUENO, MARCO": 10,
+    "LIAÑO VARELA, CARLOS": 15,
+    "HORRILLO CAÑEDO, JONATHAN": 16,
+    "ABARITURIOZ ARRIARAN, ASIER": 18
+  },
+  "dorsales_visitante": {
+    "PEÑA TEJEDOR, ADRIAN": 1,
+    "RODRIGUEZ CASTAÑEDA, MAURO": 2,
+    "SANZ COBO, MARIO": 4,
+    "VILLANUEVA CARRIL, LIHER": 5,
+    "FERNANDEZ ALVARADO, ADRIAN": 8,
+    "CIPOLLETTI MARTINEZ, ALESSANDRO": 9,
+    "OREÑA LINS, HUGO": 10,
+    "RUILOBA VILLA, MARIO": 11,
+    "SOBALER SANCHEZ, LUCA": 14,
+    "MAMOUN MEÑACA, ABEL KARIM": 17,
+    "ESPADA CASAR, PABLO": 19
+  },
+  "suspendidos": [],
+  "_marcador_widget": true
+}
