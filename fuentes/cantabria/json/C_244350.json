@@ -1,0 +1,262 @@
+{
+  "acta_id": "C_244350",
+  "filename": "Acta_C_244350.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "25-10-2026",
+  "hora": "12:00",
+  "categoria": "SEGUNDA INFANTIL (GRUPO A)",
+  "equipo_local": "POLANCO C.F. A",
+  "equipo_visitante": "C.D. BEZANA B",
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "resultado": "L",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "REZKI FATINE, MOHAMED AMINE"
+  ],
+  "estadio": "Polanco",
+  "ciudad": "Polanco",
+  "goleadores": [
+    {
+      "minuto": 1,
+      "jugador": "LIÉBANA GUTIÉRREZ, VIDAL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 10,
+      "jugador": "PACHO NOVOA, MARCO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 15,
+      "jugador": "MORÁN POLANCO, PABLO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 40,
+      "jugador": "LIÉBANA GUTIÉRREZ, VIDAL",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 47,
+      "jugador": "DIEGO MUÑOZ, YAGO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 50,
+      "jugador": "DE LA RIVA TELECHEA, NACHO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": null,
+  "entrenador_visitante": "NORIEGA DIEZ, ANDRES A",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": null,
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "BORRAGAN ALVAREZ, MARCOS",
+  "delegado_equipo_visitante": "VELAZQUEZ DIEZ, LUCAS",
+  "titulares_local": [
+    "GARCÍA DE LA RIVA, LEO",
+    "CUEVAS BENGOA, MARTÍN",
+    "SÁNCHEZ ÁLVAREZ, ALEX",
+    "HERNÁNDEZ ÁLVAREZ, NECO",
+    "MORÁN POLANCO, PABLO",
+    "BUZNEGO GONZÁLEZ, IZAN",
+    "MENOCAL HIDALGO, ALEJANDRO",
+    "DE LA RIVA TELECHEA, NACHO",
+    "IBAÑEZ PÉREZ, PABLO",
+    "COBO MANTECON, ALEX",
+    "PACHO NOVOA, MARCO"
+  ],
+  "titulares_visitante": [
+    "ECHEVARRIA MARTINEZ, IKER",
+    "MUÑOZ ROLDAN, HECTOR",
+    "MARTIN GUTIERREZ, ANGEL",
+    "GARCIA PEÑA, NECO",
+    "HIERRO CASTRO, ALAN",
+    "SERRANO FERNÁNDEZ, JAVIER ANTONIO",
+    "LIÉBANA GUTIÉRREZ, VIDAL",
+    "SAARELA MARTÍN, OSCAR",
+    "RODRIGUEZ RUIZ, LEO",
+    "PEÑA PÉREZ, MARCOS",
+    "ROBLES PABLOS, JAVIER"
+  ],
+  "suplentes_local": [
+    "GUTIÉRREZ CIEZA, DAVID",
+    "ESTANDIA PEREZ, GUILLERMO",
+    "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO",
+    "GARCÍA PEDROSA, SAÚL"
+  ],
+  "suplentes_visitante": [
+    "REVUELTA CAGUA, ALEJANDRO",
+    "DIEGO MUÑOZ, YAGO",
+    "FIGUEROA PAEZ, JUAN ESTEBAN",
+    "MARTINEZ GOMEZ, SERGIO",
+    "ÁLVAREZ MUNIVRANA, ERIK"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "GARCÍA DE LA RIVA, LEO",
+    "CUEVAS BENGOA, MARTÍN",
+    "SÁNCHEZ ÁLVAREZ, ALEX",
+    "HERNÁNDEZ ÁLVAREZ, NECO",
+    "MORÁN POLANCO, PABLO",
+    "BUZNEGO GONZÁLEZ, IZAN",
+    "MENOCAL HIDALGO, ALEJANDRO",
+    "DE LA RIVA TELECHEA, NACHO",
+    "IBAÑEZ PÉREZ, PABLO",
+    "COBO MANTECON, ALEX",
+    "PACHO NOVOA, MARCO",
+    "GARCÍA PEDROSA, SAÚL",
+    "GUTIÉRREZ CIEZA, DAVID",
+    "ESTANDIA PEREZ, GUILLERMO",
+    "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO"
+  ],
+  "jugadores_visitante": [
+    "ECHEVARRIA MARTINEZ, IKER",
+    "MUÑOZ ROLDAN, HECTOR",
+    "MARTIN GUTIERREZ, ANGEL",
+    "GARCIA PEÑA, NECO",
+    "HIERRO CASTRO, ALAN",
+    "SERRANO FERNÁNDEZ, JAVIER ANTONIO",
+    "LIÉBANA GUTIÉRREZ, VIDAL",
+    "SAARELA MARTÍN, OSCAR",
+    "RODRIGUEZ RUIZ, LEO",
+    "PEÑA PÉREZ, MARCOS",
+    "ROBLES PABLOS, JAVIER",
+    "REVUELTA CAGUA, ALEJANDRO",
+    "FIGUEROA PAEZ, JUAN ESTEBAN",
+    "DIEGO MUÑOZ, YAGO",
+    "ÁLVAREZ MUNIVRANA, ERIK",
+    "MARTINEZ GOMEZ, SERGIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 53,
+      "entra": "GARCÍA PEDROSA, SAÚL",
+      "sale": "MENOCAL HIDALGO, ALEJANDRO"
+    },
+    {
+      "min": 53,
+      "entra": "GUTIÉRREZ CIEZA, DAVID",
+      "sale": "CUEVAS BENGOA, MARTÍN"
+    },
+    {
+      "min": 62,
+      "entra": "ESTANDIA PEREZ, GUILLERMO",
+      "sale": "HERNÁNDEZ ÁLVAREZ, NECO"
+    },
+    {
+      "min": 64,
+      "entra": "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO",
+      "sale": "COBO MANTECON, ALEX"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 35,
+      "entra": "REVUELTA CAGUA, ALEJANDRO",
+      "sale": "ECHEVARRIA MARTINEZ, IKER"
+    },
+    {
+      "min": 35,
+      "entra": "FIGUEROA PAEZ, JUAN ESTEBAN",
+      "sale": "SAARELA MARTÍN, OSCAR"
+    },
+    {
+      "min": 43,
+      "entra": "DIEGO MUÑOZ, YAGO",
+      "sale": "RODRIGUEZ RUIZ, LEO"
+    },
+    {
+      "min": 43,
+      "entra": "ÁLVAREZ MUNIVRANA, ERIK",
+      "sale": "ROBLES PABLOS, JAVIER"
+    },
+    {
+      "min": 45,
+      "entra": "MARTINEZ GOMEZ, SERGIO",
+      "sale": "PEÑA PÉREZ, MARCOS"
+    }
+  ],
+  "minutos_jugadores": {
+    "GARCÍA DE LA RIVA, LEO": 90,
+    "CUEVAS BENGOA, MARTÍN": 53,
+    "SÁNCHEZ ÁLVAREZ, ALEX": 90,
+    "HERNÁNDEZ ÁLVAREZ, NECO": 62,
+    "MORÁN POLANCO, PABLO": 90,
+    "BUZNEGO GONZÁLEZ, IZAN": 90,
+    "MENOCAL HIDALGO, ALEJANDRO": 53,
+    "DE LA RIVA TELECHEA, NACHO": 90,
+    "IBAÑEZ PÉREZ, PABLO": 90,
+    "COBO MANTECON, ALEX": 64,
+    "PACHO NOVOA, MARCO": 90,
+    "GARCÍA PEDROSA, SAÚL": 37,
+    "GUTIÉRREZ CIEZA, DAVID": 37,
+    "ESTANDIA PEREZ, GUILLERMO": 28,
+    "LÓPEZ SÁNCHEZ, GABRIEL ANTONIO": 26,
+    "ECHEVARRIA MARTINEZ, IKER": 35,
+    "MUÑOZ ROLDAN, HECTOR": 90,
+    "MARTIN GUTIERREZ, ANGEL": 90,
+    "GARCIA PEÑA, NECO": 90,
+    "HIERRO CASTRO, ALAN": 90,
+    "SERRANO FERNÁNDEZ, JAVIER ANTONIO": 90,
+    "LIÉBANA GUTIÉRREZ, VIDAL": 90,
+    "SAARELA MARTÍN, OSCAR": 35,
+    "RODRIGUEZ RUIZ, LEO": 43,
+    "PEÑA PÉREZ, MARCOS": 45,
+    "ROBLES PABLOS, JAVIER": 43,
+    "REVUELTA CAGUA, ALEJANDRO": 55,
+    "FIGUEROA PAEZ, JUAN ESTEBAN": 55,
+    "DIEGO MUÑOZ, YAGO": 47,
+    "ÁLVAREZ MUNIVRANA, ERIK": 47,
+    "MARTINEZ GOMEZ, SERGIO": 45
+  },
+  "portero_local": "GARCÍA DE LA RIVA, LEO",
+  "portero_visitante": "ECHEVARRIA MARTINEZ, IKER",
+  "dorsales_local": {
+    "GARCÍA DE LA RIVA, LEO": 1,
+    "CUEVAS BENGOA, MARTÍN": 4,
+    "SÁNCHEZ ÁLVAREZ, ALEX": 5,
+    "HERNÁNDEZ ÁLVAREZ, NECO": 7,
+    "MORÁN POLANCO, PABLO": 9,
+    "BUZNEGO GONZÁLEZ, IZAN": 10,
+    "MENOCAL HIDALGO, ALEJANDRO": 11,
+    "DE LA RIVA TELECHEA, NACHO": 16,
+    "IBAÑEZ PÉREZ, PABLO": 17,
+    "COBO MANTECON, ALEX": 19,
+    "PACHO NOVOA, MARCO": 23
+  },
+  "dorsales_visitante": {
+    "ECHEVARRIA MARTINEZ, IKER": 13,
+    "MUÑOZ ROLDAN, HECTOR": 2,
+    "MARTIN GUTIERREZ, ANGEL": 3,
+    "GARCIA PEÑA, NECO": 4,
+    "HIERRO CASTRO, ALAN": 5,
+    "SERRANO FERNÁNDEZ, JAVIER ANTONIO": 6,
+    "LIÉBANA GUTIÉRREZ, VIDAL": 7,
+    "SAARELA MARTÍN, OSCAR": 8,
+    "RODRIGUEZ RUIZ, LEO": 9,
+    "PEÑA PÉREZ, MARCOS": 10,
+    "ROBLES PABLOS, JAVIER": 11
+  },
+  "suspendidos": []
+}
