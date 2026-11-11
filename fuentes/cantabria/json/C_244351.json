@@ -1,0 +1,255 @@
+{
+  "acta_id": "C_244351",
+  "filename": "Acta_C_244351.txt",
+  "fuente": "cantabria",
+  "temporada": "2026-2027",
+  "jornada": 6,
+  "fecha": "25-10-2026",
+  "hora": "10:45",
+  "categoria": "SEGUNDA INFANTIL (GRUPO A)",
+  "equipo_local": "S.D. SAN MARTIN DE LA ARENA A",
+  "equipo_visitante": "C.D. TROPEZON A",
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "resultado": "W",
+  "arbitros": [
+    "ARBITRO PRINCIPAL",
+    "CARUTA MOROI, EDUARDO"
+  ],
+  "estadio": "Suances",
+  "ciudad": "Suances",
+  "goleadores": [
+    {
+      "minuto": 5,
+      "jugador": "GOMEZ GUTIERREZ, MATIAS",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 51,
+      "jugador": "GARCIA DEL POMAR SOLAR, PABLO",
+      "equipo": "visitante",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 58,
+      "jugador": "ARRONTE LOPEZ, NECO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    },
+    {
+      "minuto": 63,
+      "jugador": "ARRONTE LOPEZ, NECO",
+      "equipo": "local",
+      "propia": false,
+      "penalti": false
+    }
+  ],
+  "tarjetas": [
+    {
+      "minuto": 26,
+      "jugador": "GONZALEZ STANCIU, ALVARO",
+      "equipo": "local",
+      "tipo": "amarilla",
+      "destinatario": "jugador"
+    }
+  ],
+  "entrenador_local": "GOMEZ POLANCO, JOSE ANTONIO",
+  "entrenador_visitante": "CABRERO RUIZ, MARIO",
+  "segundo_entrenador_local": null,
+  "segundo_entrenador_visitante": null,
+  "delegado_campo_local": "MARTIN GONZALEZ, JAVIER",
+  "delegado_campo_visitante": null,
+  "delegado_equipo_local": "MARTIN GONZALEZ, JAVIER",
+  "delegado_equipo_visitante": "SANTANA ATIENZA, MIGUEL ANGEL",
+  "titulares_local": [
+    "PEON ALVAREZ, NESTOR",
+    "GOMEZ GUTIERREZ, MATIAS",
+    "TRESGALLO IGLESIAS, ERIC",
+    "PANDO EXPOSITO, DANIEL",
+    "MARTÍNEZ JARAMILLO, IVÁN",
+    "MENENDEZ GOMEZ, MARCO",
+    "GOMEZ ARCE, MIGUEL",
+    "SAN MIGUEL GOMEZ, ALVARO",
+    "GONZALEZ STANCIU, ALVARO",
+    "OJUGAS ALVAREZ, PABLO",
+    "GONZÁLEZ TRESGALLO, ENZO"
+  ],
+  "titulares_visitante": [
+    "CABRERO FREIRE, MARIO",
+    "SIERRA URANGA, MATEO",
+    "BENGOCHEA SALCES, ERIC",
+    "SUBIRI CASTAÑEDA, RUBEN",
+    "CARRAL GARCIA, SIXTO",
+    "GUTIERREZ PECHERO, CRISTIAN",
+    "GARCIA DEL POMAR SOLAR, PABLO",
+    "PEÑA CEBALLOS, ADRIAN",
+    "QUINTANA CRESPO, MANUEL",
+    "JABRANE OUKARRAB, SULTAN",
+    "SALGUERO SAIZ, JAVIER"
+  ],
+  "suplentes_local": [
+    "GOMEZ GUTIERREZ, LEO",
+    "GARCIA CAVADAS, ALFREDO",
+    "SAN MIGUEL GONZALEZ, ALEJANDRO",
+    "DEL RIO RUIZ, THIAGO",
+    "ARRONTE LOPEZ, NECO"
+  ],
+  "suplentes_visitante": [
+    "RUIZ DE LA HOZ, EMILIO",
+    "TAHAMOUT FITAH, MARWAN",
+    "REPARYUK VOVKANYCH, ROMAN",
+    "ZOUBIR TOURCHLI, AHMED"
+  ],
+  "convocados_sin_jugar_local": [],
+  "convocados_sin_jugar_visitante": [],
+  "jugadores_local": [
+    "PEON ALVAREZ, NESTOR",
+    "GOMEZ GUTIERREZ, MATIAS",
+    "TRESGALLO IGLESIAS, ERIC",
+    "PANDO EXPOSITO, DANIEL",
+    "MARTÍNEZ JARAMILLO, IVÁN",
+    "MENENDEZ GOMEZ, MARCO",
+    "GOMEZ ARCE, MIGUEL",
+    "SAN MIGUEL GOMEZ, ALVARO",
+    "GONZALEZ STANCIU, ALVARO",
+    "OJUGAS ALVAREZ, PABLO",
+    "GONZÁLEZ TRESGALLO, ENZO",
+    "GOMEZ GUTIERREZ, LEO",
+    "ARRONTE LOPEZ, NECO",
+    "DEL RIO RUIZ, THIAGO",
+    "SAN MIGUEL GONZALEZ, ALEJANDRO",
+    "GARCIA CAVADAS, ALFREDO"
+  ],
+  "jugadores_visitante": [
+    "CABRERO FREIRE, MARIO",
+    "SIERRA URANGA, MATEO",
+    "BENGOCHEA SALCES, ERIC",
+    "SUBIRI CASTAÑEDA, RUBEN",
+    "CARRAL GARCIA, SIXTO",
+    "GUTIERREZ PECHERO, CRISTIAN",
+    "GARCIA DEL POMAR SOLAR, PABLO",
+    "PEÑA CEBALLOS, ADRIAN",
+    "QUINTANA CRESPO, MANUEL",
+    "JABRANE OUKARRAB, SULTAN",
+    "SALGUERO SAIZ, JAVIER",
+    "REPARYUK VOVKANYCH, ROMAN",
+    "TAHAMOUT FITAH, MARWAN",
+    "ZOUBIR TOURCHLI, AHMED",
+    "RUIZ DE LA HOZ, EMILIO"
+  ],
+  "sustituciones_local": [
+    {
+      "min": 48,
+      "entra": "GOMEZ GUTIERREZ, LEO",
+      "sale": "GOMEZ GUTIERREZ, MATIAS"
+    },
+    {
+      "min": 48,
+      "entra": "ARRONTE LOPEZ, NECO",
+      "sale": "TRESGALLO IGLESIAS, ERIC"
+    },
+    {
+      "min": 60,
+      "entra": "DEL RIO RUIZ, THIAGO",
+      "sale": "MARTÍNEZ JARAMILLO, IVÁN"
+    },
+    {
+      "min": 60,
+      "entra": "SAN MIGUEL GONZALEZ, ALEJANDRO",
+      "sale": "SAN MIGUEL GOMEZ, ALVARO"
+    },
+    {
+      "min": 66,
+      "entra": "GARCIA CAVADAS, ALFREDO",
+      "sale": "OJUGAS ALVAREZ, PABLO"
+    }
+  ],
+  "sustituciones_visitante": [
+    {
+      "min": 48,
+      "entra": "REPARYUK VOVKANYCH, ROMAN",
+      "sale": "GUTIERREZ PECHERO, CRISTIAN"
+    },
+    {
+      "min": 48,
+      "entra": "TAHAMOUT FITAH, MARWAN",
+      "sale": "CARRAL GARCIA, SIXTO"
+    },
+    {
+      "min": 48,
+      "entra": "ZOUBIR TOURCHLI, AHMED",
+      "sale": "SALGUERO SAIZ, JAVIER"
+    },
+    {
+      "min": 54,
+      "entra": "RUIZ DE LA HOZ, EMILIO",
+      "sale": "CABRERO FREIRE, MARIO"
+    }
+  ],
+  "minutos_jugadores": {
+    "PEON ALVAREZ, NESTOR": 90,
+    "GOMEZ GUTIERREZ, MATIAS": 48,
+    "TRESGALLO IGLESIAS, ERIC": 48,
+    "PANDO EXPOSITO, DANIEL": 90,
+    "MARTÍNEZ JARAMILLO, IVÁN": 60,
+    "MENENDEZ GOMEZ, MARCO": 90,
+    "GOMEZ ARCE, MIGUEL": 90,
+    "SAN MIGUEL GOMEZ, ALVARO": 60,
+    "GONZALEZ STANCIU, ALVARO": 90,
+    "OJUGAS ALVAREZ, PABLO": 66,
+    "GONZÁLEZ TRESGALLO, ENZO": 90,
+    "GOMEZ GUTIERREZ, LEO": 42,
+    "ARRONTE LOPEZ, NECO": 42,
+    "DEL RIO RUIZ, THIAGO": 30,
+    "SAN MIGUEL GONZALEZ, ALEJANDRO": 30,
+    "GARCIA CAVADAS, ALFREDO": 24,
+    "CABRERO FREIRE, MARIO": 54,
+    "SIERRA URANGA, MATEO": 90,
+    "BENGOCHEA SALCES, ERIC": 90,
+    "SUBIRI CASTAÑEDA, RUBEN": 90,
+    "CARRAL GARCIA, SIXTO": 48,
+    "GUTIERREZ PECHERO, CRISTIAN": 48,
+    "GARCIA DEL POMAR SOLAR, PABLO": 90,
+    "PEÑA CEBALLOS, ADRIAN": 90,
+    "QUINTANA CRESPO, MANUEL": 90,
+    "JABRANE OUKARRAB, SULTAN": 90,
+    "SALGUERO SAIZ, JAVIER": 48,
+    "REPARYUK VOVKANYCH, ROMAN": 42,
+    "TAHAMOUT FITAH, MARWAN": 42,
+    "ZOUBIR TOURCHLI, AHMED": 42,
+    "RUIZ DE LA HOZ, EMILIO": 36
+  },
+  "portero_local": "PEON ALVAREZ, NESTOR",
+  "portero_visitante": "CABRERO FREIRE, MARIO",
+  "dorsales_local": {
+    "PEON ALVAREZ, NESTOR": 1,
+    "GOMEZ GUTIERREZ, MATIAS": 4,
+    "TRESGALLO IGLESIAS, ERIC": 11,
+    "PANDO EXPOSITO, DANIEL": 12,
+    "MARTÍNEZ JARAMILLO, IVÁN": 14,
+    "MENENDEZ GOMEZ, MARCO": 17,
+    "GOMEZ ARCE, MIGUEL": 18,
+    "SAN MIGUEL GOMEZ, ALVARO": 19,
+    "GONZALEZ STANCIU, ALVARO": 20,
+    "OJUGAS ALVAREZ, PABLO": 21,
+    "GONZÁLEZ TRESGALLO, ENZO": 22
+  },
+  "dorsales_visitante": {
+    "CABRERO FREIRE, MARIO": 1,
+    "SIERRA URANGA, MATEO": 2,
+    "BENGOCHEA SALCES, ERIC": 4,
+    "SUBIRI CASTAÑEDA, RUBEN": 5,
+    "CARRAL GARCIA, SIXTO": 6,
+    "GUTIERREZ PECHERO, CRISTIAN": 7,
+    "GARCIA DEL POMAR SOLAR, PABLO": 8,
+    "PEÑA CEBALLOS, ADRIAN": 10,
+    "QUINTANA CRESPO, MANUEL": 18,
+    "JABRANE OUKARRAB, SULTAN": 19,
+    "SALGUERO SAIZ, JAVIER": 20
+  },
+  "suspendidos": []
+}
